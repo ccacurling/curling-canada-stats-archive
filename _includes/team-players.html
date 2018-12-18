@@ -1,0 +1,59 @@
+<table class="table table-striped table-hover datatable" id="team-players" data-order='[[1, "asc"],[2, "asc"]]' data-page-length="50" data-length-change="false">
+  <thead>
+   <tr><th rowspan="2" data-orderable="false">vs.</th><th rowspan="2">Year</th><th rowspan="2">Position</th><th rowspan="2">Name</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th><th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+   <tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr>
+  </thead>
+  <tbody>
+{% assign players = site.players | sort: 'name-sort' %}
+{% for player in players %}
+{%   if include.event %}
+{%     assign skip = true %}
+{%     if player.aka %}
+{%       assign aka = site.players | where: 'name-sort', player.aka | first %}
+{%       assign years = aka.years %}
+{%     else %}
+{%       assign years = player.years %}
+{%     endif %}
+{%     for year in years %}
+{%       if year.event == include.event %}
+{%         assign skip = false %}
+{%         break %}
+{%       endif %}
+{%     endfor %}
+{%     if skip == true %}
+{%       continue %}
+{%     endif %}
+{%   endif %}
+  {% assign player-years = player.years|where: "team", include.team %}
+  {% for year in player-years %}
+    <tr>
+      <td><i class="fe fe-user-plus" data-name="{{ player.name-sort }}" title="Select this player for head-to-head comparison"></i></td>
+      <td><a href="../{{ year.year }}">{{ year.year }}</a></td>
+      <td data-order="
+{% if year.position == "Fourth" %}0
+{% elsif year.position == "Third" %}1
+{% elsif year.position == "Second" %}2
+{% elsif year.position == "Lead" %}3
+{% else %}5{% endif %}
+">{{ year.position }}</td>
+      <td><a href="{{ site.baseurl }}{{ player.url }}">{{ player.name-sort }}</a></td>
+      <td>{{ year.games }}</td>
+      <td>{{ year.wins }}</td>
+      <td>{{ year.losses }}</td>
+      <td>{{ year.inturn-total }}</td>
+      <td>{{ year.inturn-percent }}</td>
+      <td>{{ year.outturn-total }}</td>
+      <td>{{ year.outturn-percent }}</td>
+      <td>{{ year.draw-total }}</td>
+      <td>{{ year.draw-percent }}</td>
+      <td>{{ year.takeout-total }}</td>
+      <td>{{ year.takeout-percent }}</td>
+      <td>{{ year.shots-total }}</td>
+      <td>{{ year.shots-percent }}</td>
+    </tr>
+  {% endfor %}
+{% endfor %}
+  </tbody>
+  <tfoot>
+  </tfoot>
+</table>

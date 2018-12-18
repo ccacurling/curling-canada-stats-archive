@@ -1,0 +1,171 @@
+---
+title: Heather Nedohin
+name: Heather Nedohin
+name-sort: Nedohin, Heather
+games: 87
+wins: 56
+losses: 31
+inturn-total: 784
+inturn-percent: 79
+outturn-total: 846
+outturn-percent: 80
+draw-total: 661
+draw-percent: 75
+takeout-total: 969
+takeout-percent: 83
+shots-total: 1630
+shots-percent: 79
+years:
+ - year: 1997
+   event: Hearts
+   team: "AB"
+   position: Third
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 146
+   inturn-percent: 81
+   outturn-total: 92
+   outturn-percent: 85
+   draw-total: 106
+   draw-percent: 77
+   takeout-total: 132
+   takeout-percent: 88
+   shots-total: 238
+   shots-percent: 83
+ - year: 1998
+   event: Hearts
+   team: "AB"
+   position: Third
+   games: 13
+   wins: 12
+   losses: 1
+   inturn-total: 125
+   inturn-percent: 78
+   outturn-total: 105
+   outturn-percent: 81
+   draw-total: 66
+   draw-percent: 74
+   takeout-total: 164
+   takeout-percent: 82
+   shots-total: 230
+   shots-percent: 79
+ - year: 1999
+   event: Hearts
+   team: "CA"
+   position: Third
+   games: 14
+   wins: 9
+   losses: 5
+   inturn-total: 109
+   inturn-percent: 83
+   outturn-total: 145
+   outturn-percent: 81
+   draw-total: 101
+   draw-percent: 76
+   takeout-total: 153
+   takeout-percent: 86
+   shots-total: 254
+   shots-percent: 82
+ - year: 2000
+   event: Hearts
+   team: "AB"
+   position: Fourth
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 90
+   inturn-percent: 72
+   outturn-total: 118
+   outturn-percent: 70
+   draw-total: 108
+   draw-percent: 69
+   takeout-total: 100
+   takeout-percent: 74
+   shots-total: 208
+   shots-percent: 71
+ - year: 2012
+   event: Hearts
+   team: "AB"
+   position: Fourth
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 140
+   inturn-percent: 80
+   outturn-total: 132
+   outturn-percent: 80
+   draw-total: 117
+   draw-percent: 79
+   takeout-total: 155
+   takeout-percent: 81
+   shots-total: 272
+   shots-percent: 80
+ - year: 2013
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   games: 14
+   wins: 8
+   losses: 6
+   inturn-total: 115
+   inturn-percent: 80
+   outturn-total: 147
+   outturn-percent: 80
+   draw-total: 102
+   draw-percent: 77
+   takeout-total: 160
+   takeout-percent: 82
+   shots-total: 262
+   shots-percent: 80
+ - year: 2017
+   event: Hearts
+   team: "AB"
+   position: Lead
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 11
+   inturn-percent: 93
+   outturn-total: 7
+   outturn-percent: 82
+   draw-total: 14
+   draw-percent: 91
+   takeout-total: 4
+   takeout-percent: 81
+   shots-total: 18
+   shots-percent: 89
+ - year: 2017
+   event: Hearts
+   team: "AB"
+   position: Fourth
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 48
+   inturn-percent: 69
+   outturn-total: 100
+   outturn-percent: 83
+   draw-total: 47
+   draw-percent: 65
+   takeout-total: 101
+   takeout-percent: 85
+   shots-total: 148
+   shots-percent: 79
+ - year: 2017
+   event: Hearts
+   team: Totals
+   games: 9
+   wins: 4
+   losses: 5
+   inturn-total: 59
+   inturn-percent: 74
+   outturn-total: 107
+   outturn-percent: 83
+   draw-total: 61
+   draw-percent: 71
+   takeout-total: 105
+   takeout-percent: 85
+   shots-total: 166
+   shots-percent: 80
+---

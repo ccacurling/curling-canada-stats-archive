@@ -1,0 +1,154 @@
+---
+title: Debbie Stokes
+name: Debbie Stokes
+name-sort: Stokes, Debbie
+games: 66
+wins: 18
+losses: 48
+inturn-total: 558
+inturn-percent: 67
+outturn-total: 702
+outturn-percent: 71
+draw-total: 646
+draw-percent: 71
+takeout-total: 614
+takeout-percent: 68
+shots-total: 1260
+shots-percent: 69
+years:
+ - year: 1986
+   event: Hearts
+   team: "TR"
+   position: Lead
+   games: 11
+   wins: 3
+   losses: 8
+   inturn-total: 64
+   inturn-percent: 61
+   outturn-total: 146
+   outturn-percent: 72
+   draw-total: 97
+   draw-percent: 67
+   takeout-total: 113
+   takeout-percent: 70
+   shots-total: 210
+   shots-percent: 69
+ - year: 1987
+   event: Hearts
+   team: "TR"
+   position: Lead
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 75
+   inturn-percent: 72
+   outturn-total: 132
+   outturn-percent: 71
+   draw-total: 118
+   draw-percent: 76
+   takeout-total: 89
+   takeout-percent: 65
+   shots-total: 207
+   shots-percent: 71
+ - year: 1988
+   event: Hearts
+   team: "TR"
+   position: Lead
+   games: 11
+   wins: 2
+   losses: 9
+   inturn-total: 133
+   inturn-percent: 72
+   outturn-total: 79
+   outturn-percent: 79
+   draw-total: 116
+   draw-percent: 83
+   takeout-total: 96
+   takeout-percent: 64
+   shots-total: 212
+   shots-percent: 74
+ - year: 1990
+   event: Hearts
+   team: "TR"
+   position: Second
+   games: 6
+   wins: 1
+   losses: 5
+   inturn-total: 47
+   inturn-percent: 65
+   outturn-total: 69
+   outturn-percent: 70
+   draw-total: 72
+   draw-percent: 72
+   takeout-total: 44
+   takeout-percent: 63
+   shots-total: 116
+   shots-percent: 68
+ - year: 1990
+   event: Hearts
+   team: "TR"
+   position: Third
+   games: 5
+   wins: 1
+   losses: 4
+   inturn-total: 45
+   inturn-percent: 66
+   outturn-total: 48
+   outturn-percent: 67
+   draw-total: 48
+   draw-percent: 63
+   takeout-total: 45
+   takeout-percent: 71
+   shots-total: 93
+   shots-percent: 66
+ - year: 1990
+   event: Hearts
+   team: Totals
+   games: 11
+   wins: 2
+   losses: 9
+   inturn-total: 92
+   inturn-percent: 66
+   outturn-total: 117
+   outturn-percent: 69
+   draw-total: 120
+   draw-percent: 68
+   takeout-total: 89
+   takeout-percent: 67
+   shots-total: 209
+   shots-percent: 67
+ - year: 1992
+   event: Hearts
+   team: "TR"
+   position: Third
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 88
+   inturn-percent: 66
+   outturn-total: 122
+   outturn-percent: 69
+   draw-total: 90
+   draw-percent: 66
+   takeout-total: 120
+   takeout-percent: 69
+   shots-total: 210
+   shots-percent: 68
+ - year: 1995
+   event: Hearts
+   team: "TR"
+   position: Third
+   games: 11
+   wins: 1
+   losses: 10
+   inturn-total: 106
+   inturn-percent: 66
+   outturn-total: 106
+   outturn-percent: 69
+   draw-total: 105
+   draw-percent: 62
+   takeout-total: 107
+   takeout-percent: 73
+   shots-total: 212
+   shots-percent: 67
+---

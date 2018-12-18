@@ -1,0 +1,155 @@
+---
+title: Laura Strong
+name: Laura Strong
+name-sort: Strong, Laura
+games: 90
+wins: 37
+losses: 53
+inturn-total: 887
+inturn-percent: 76
+outturn-total: 872
+outturn-percent: 77
+draw-total: 805
+draw-percent: 74
+takeout-total: 954
+takeout-percent: 79
+shots-total: 1759
+shots-percent: 77
+years:
+ - year: 2001
+   event: Hearts
+   team: "NL"
+   position: Third
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 116
+   inturn-percent: 77
+   outturn-total: 102
+   outturn-percent: 75
+   draw-total: 91
+   draw-percent: 75
+   takeout-total: 127
+   takeout-percent: 76
+   shots-total: 218
+   shots-percent: 76
+ - year: 2005
+   event: Hearts
+   team: "NL"
+   position: Third
+   games: 11
+   wins: 1
+   losses: 10
+   inturn-total: 95
+   inturn-percent: 73
+   outturn-total: 111
+   outturn-percent: 74
+   draw-total: 108
+   draw-percent: 73
+   takeout-total: 98
+   takeout-percent: 74
+   shots-total: 206
+   shots-percent: 73
+ - year: 2006
+   event: Hearts
+   team: "NL"
+   position: Second
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 124
+   inturn-percent: 77
+   outturn-total: 104
+   outturn-percent: 76
+   draw-total: 100
+   draw-percent: 71
+   takeout-total: 128
+   takeout-percent: 81
+   shots-total: 228
+   shots-percent: 77
+ - year: 2007
+   event: Hearts
+   team: "NL"
+   position: Second
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 120
+   inturn-percent: 70
+   outturn-total: 98
+   outturn-percent: 68
+   draw-total: 95
+   draw-percent: 64
+   takeout-total: 123
+   takeout-percent: 73
+   shots-total: 218
+   shots-percent: 69
+ - year: 2008
+   event: Hearts
+   team: "NL"
+   position: Second
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 124
+   inturn-percent: 83
+   outturn-total: 122
+   outturn-percent: 80
+   draw-total: 117
+   draw-percent: 79
+   takeout-total: 129
+   takeout-percent: 84
+   shots-total: 246
+   shots-percent: 81
+ - year: 2009
+   event: Hearts
+   team: "NL"
+   position: Second
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 112
+   inturn-percent: 75
+   outturn-total: 110
+   outturn-percent: 82
+   draw-total: 96
+   draw-percent: 76
+   takeout-total: 126
+   takeout-percent: 80
+   shots-total: 222
+   shots-percent: 78
+ - year: 2012
+   event: Hearts
+   team: "NL"
+   position: Third
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 88
+   inturn-percent: 78
+   outturn-total: 118
+   outturn-percent: 81
+   draw-total: 101
+   draw-percent: 78
+   takeout-total: 105
+   takeout-percent: 82
+   shots-total: 206
+   shots-percent: 80
+ - year: 2014
+   event: Hearts
+   team: "NL"
+   position: Third
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 108
+   inturn-percent: 78
+   outturn-total: 107
+   outturn-percent: 77
+   draw-total: 97
+   draw-percent: 75
+   takeout-total: 118
+   takeout-percent: 79
+   shots-total: 215
+   shots-percent: 77
+---

@@ -1,0 +1,22 @@
+<table class="table table-striped table-hover datatable" data-order='[[0, "desc"]]' data-length-change="false">
+  <thead>
+  <tr>
+    <th>Year</th>
+    <th>Sponsor</th>
+    <th>Location</th>
+    <th>Winner</th>
+  </tr>
+  </thead>
+  <tbody>
+{% for event in include.events %}
+  <tr>
+    <td><a href="{{ site.baseurl }}{{ event.url }}">{{ event.year }}</a></td>
+    <td>{{ event.sponsor }}</td>
+    <td>{{ event.location }}</td>
+    <td><a href="{{ site.baseurl }}/{{ include.event | downcase }}/team/{{ event.winner-team | downcase }}">{{ event.winner-team }}</a> (<a href="{{ site.baseurl }}/players/{{ event.winner-skip | slugify }}">{{ event.winner-skip }}</a>)</td>
+  </tr>
+{% endfor %}
+  </tbody>
+  <tfoot>
+  </tfoot>
+</table>

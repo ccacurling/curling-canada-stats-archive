@@ -1,0 +1,155 @@
+---
+title: Randy Ferbey
+name: Randy Ferbey
+name-sort: Ferbey, Randy
+games: 100
+wins: 84
+losses: 16
+inturn-total: 929
+inturn-percent: 82
+outturn-total: 914
+outturn-percent: 85
+draw-total: 765
+draw-percent: 82
+takeout-total: 1078
+takeout-percent: 84
+shots-total: 1843
+shots-percent: 83
+years:
+ - year: 1987
+   event: Brier
+   team: "AB"
+   position: Third
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 126
+   inturn-percent: 75
+   outturn-total: 94
+   outturn-percent: 77
+   draw-total: 118
+   draw-percent: 74
+   takeout-total: 102
+   takeout-percent: 78
+   shots-total: 220
+   shots-percent: 76
+ - year: 1988
+   event: Brier
+   team: "AB"
+   position: Third
+   games: 12
+   wins: 12
+   losses: 0
+   inturn-total: 121
+   inturn-percent: 83
+   outturn-total: 115
+   outturn-percent: 85
+   draw-total: 97
+   draw-percent: 82
+   takeout-total: 139
+   takeout-percent: 86
+   shots-total: 236
+   shots-percent: 84
+ - year: 1989
+   event: Brier
+   team: "AB"
+   position: Third
+   games: 12
+   wins: 9
+   losses: 3
+   inturn-total: 113
+   inturn-percent: 81
+   outturn-total: 122
+   outturn-percent: 81
+   draw-total: 94
+   draw-percent: 82
+   takeout-total: 141
+   takeout-percent: 81
+   shots-total: 235
+   shots-percent: 81
+ - year: 2001
+   event: Brier
+   team: "AB"
+   position: Third
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 112
+   inturn-percent: 78
+   outturn-total: 130
+   outturn-percent: 84
+   draw-total: 115
+   draw-percent: 83
+   takeout-total: 127
+   takeout-percent: 80
+   shots-total: 242
+   shots-percent: 81
+ - year: 2002
+   event: Brier
+   team: "AB"
+   position: Third
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 123
+   inturn-percent: 83
+   outturn-total: 95
+   outturn-percent: 86
+   draw-total: 74
+   draw-percent: 86
+   takeout-total: 144
+   takeout-percent: 83
+   shots-total: 218
+   shots-percent: 84
+ - year: 2003
+   event: Brier
+   team: "AB"
+   position: Third
+   games: 13
+   wins: 13
+   losses: 0
+   inturn-total: 117
+   inturn-percent: 84
+   outturn-total: 123
+   outturn-percent: 88
+   draw-total: 96
+   draw-percent: 85
+   takeout-total: 144
+   takeout-percent: 87
+   shots-total: 240
+   shots-percent: 86
+ - year: 2004
+   event: Brier
+   team: "AB"
+   position: Third
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 107
+   inturn-percent: 88
+   outturn-total: 117
+   outturn-percent: 87
+   draw-total: 77
+   draw-percent: 84
+   takeout-total: 147
+   takeout-percent: 89
+   shots-total: 224
+   shots-percent: 88
+ - year: 2005
+   event: Brier
+   team: "AB"
+   position: Third
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 110
+   inturn-percent: 83
+   outturn-total: 118
+   outturn-percent: 89
+   draw-total: 94
+   draw-percent: 86
+   takeout-total: 134
+   takeout-percent: 86
+   shots-total: 228
+   shots-percent: 86
+---

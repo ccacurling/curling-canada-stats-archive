@@ -1,0 +1,155 @@
+---
+title: Kelly Scott
+name: Kelly Scott
+name-sort: Scott, Kelly
+games: 101
+wins: 68
+losses: 33
+inturn-total: 965
+inturn-percent: 78
+outturn-total: 935
+outturn-percent: 79
+draw-total: 901
+draw-percent: 76
+takeout-total: 999
+takeout-percent: 81
+shots-total: 1900
+shots-percent: 78
+years:
+ - year: 2005
+   event: Hearts
+   team: "BC"
+   position: Fourth
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 130
+   inturn-percent: 80
+   outturn-total: 114
+   outturn-percent: 76
+   draw-total: 112
+   draw-percent: 72
+   takeout-total: 132
+   takeout-percent: 83
+   shots-total: 244
+   shots-percent: 78
+ - year: 2006
+   event: Hearts
+   team: "BC"
+   position: Fourth
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 129
+   inturn-percent: 85
+   outturn-total: 116
+   outturn-percent: 83
+   draw-total: 102
+   draw-percent: 80
+   takeout-total: 143
+   takeout-percent: 88
+   shots-total: 245
+   shots-percent: 84
+ - year: 2007
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   games: 14
+   wins: 12
+   losses: 2
+   inturn-total: 119
+   inturn-percent: 80
+   outturn-total: 130
+   outturn-percent: 82
+   draw-total: 120
+   draw-percent: 79
+   takeout-total: 129
+   takeout-percent: 83
+   shots-total: 249
+   shots-percent: 81
+ - year: 2008
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 112
+   inturn-percent: 76
+   outturn-total: 91
+   outturn-percent: 74
+   draw-total: 92
+   draw-percent: 73
+   takeout-total: 111
+   takeout-percent: 77
+   shots-total: 203
+   shots-percent: 75
+ - year: 2010
+   event: Hearts
+   team: "BC"
+   position: Fourth
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 118
+   inturn-percent: 72
+   outturn-total: 113
+   outturn-percent: 84
+   draw-total: 101
+   draw-percent: 74
+   takeout-total: 130
+   takeout-percent: 81
+   shots-total: 231
+   shots-percent: 78
+ - year: 2011
+   event: Hearts
+   team: "BC"
+   position: Fourth
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 109
+   inturn-percent: 76
+   outturn-total: 116
+   outturn-percent: 73
+   draw-total: 120
+   draw-percent: 73
+   takeout-total: 105
+   takeout-percent: 76
+   shots-total: 225
+   shots-percent: 75
+ - year: 2012
+   event: Hearts
+   team: "BC"
+   position: Fourth
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 130
+   inturn-percent: 78
+   outturn-total: 129
+   outturn-percent: 80
+   draw-total: 128
+   draw-percent: 79
+   takeout-total: 131
+   takeout-percent: 79
+   shots-total: 259
+   shots-percent: 79
+ - year: 2013
+   event: Hearts
+   team: "BC"
+   position: Fourth
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 118
+   inturn-percent: 78
+   outturn-total: 126
+   outturn-percent: 75
+   draw-total: 126
+   draw-percent: 75
+   takeout-total: 118
+   takeout-percent: 77
+   shots-total: 244
+   shots-percent: 76
+---

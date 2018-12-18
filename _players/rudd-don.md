@@ -1,0 +1,57 @@
+---
+title: Don Rudd
+name: Don Rudd
+name-sort: Rudd, Don
+games: 25
+wins: 18
+losses: 7
+inturn-total: 134
+inturn-percent: 79
+outturn-total: 328
+outturn-percent: 83
+draw-total: 215
+draw-percent: 87
+takeout-total: 247
+takeout-percent: 78
+shots-total: 462
+shots-percent: 82
+years:
+ - year: 1992
+   event: Brier
+   team: "MB"
+   position: Lead
+   games: 12
+   wins: 10
+   losses: 2
+   inturn-total: 64
+   inturn-percent: 74
+   outturn-total: 158
+   outturn-percent: 80
+   draw-total: 82
+   draw-percent: 79
+   takeout-total: 140
+   takeout-percent: 78
+   shots-total: 222
+   shots-percent: 78
+ - year: 1993
+   event: Brier
+   team: "MB"
+   position: Lead
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 70
+   inturn-percent: 84
+   outturn-total: 170
+   outturn-percent: 86
+   draw-total: 133
+   draw-percent: 91
+   takeout-total: 107
+   takeout-percent: 79
+   shots-total: 240
+   shots-percent: 86
+ - year: 1997
+   event: Brier
+   team: "MB"
+   position: Alternate
+---

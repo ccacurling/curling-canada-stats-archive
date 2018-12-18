@@ -1,0 +1,159 @@
+---
+title: Annie Lemay
+name: Annie Lemay
+name-sort: Lemay, Annie
+games: 94
+wins: 47
+losses: 47
+inturn-total: 840
+inturn-percent: 76
+outturn-total: 961
+outturn-percent: 78
+draw-total: 823
+draw-percent: 75
+takeout-total: 978
+takeout-percent: 79
+shots-total: 1801
+shots-percent: 77
+years:
+ - year: 1999
+   event: Hearts
+   team: "QC"
+   position: Second
+   games: 11
+   wins: 3
+   losses: 8
+   inturn-total: 97
+   inturn-percent: 71
+   outturn-total: 117
+   outturn-percent: 76
+   draw-total: 95
+   draw-percent: 72
+   takeout-total: 119
+   takeout-percent: 75
+   shots-total: 214
+   shots-percent: 74
+ - year: 2000
+   event: Hearts
+   team: "QC"
+   position: Second
+   games: 10
+   wins: 3
+   losses: 7
+   inturn-total: 79
+   inturn-percent: 67
+   outturn-total: 105
+   outturn-percent: 73
+   draw-total: 90
+   draw-percent: 71
+   takeout-total: 94
+   takeout-percent: 70
+   shots-total: 184
+   shots-percent: 71
+ - year: 2001
+   event: Hearts
+   team: "QC"
+   position: Second
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 111
+   inturn-percent: 78
+   outturn-total: 127
+   outturn-percent: 80
+   draw-total: 107
+   draw-percent: 77
+   takeout-total: 131
+   takeout-percent: 81
+   shots-total: 238
+   shots-percent: 79
+ - year: 2004
+   event: Hearts
+   team: "QC"
+   position: Second
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 139
+   inturn-percent: 80
+   outturn-total: 129
+   outturn-percent: 79
+   draw-total: 115
+   draw-percent: 75
+   takeout-total: 153
+   takeout-percent: 83
+   shots-total: 268
+   shots-percent: 80
+ - year: 2008
+   event: Hearts
+   team: "QC"
+   position: Second
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 89
+   inturn-percent: 74
+   outturn-total: 140
+   outturn-percent: 84
+   draw-total: 95
+   draw-percent: 78
+   takeout-total: 134
+   takeout-percent: 81
+   shots-total: 229
+   shots-percent: 80
+ - year: 2009
+   event: Hearts
+   team: "QC"
+   position: Second
+   games: 13
+   wins: 7
+   losses: 6
+   inturn-total: 111
+   inturn-percent: 74
+   outturn-total: 143
+   outturn-percent: 78
+   draw-total: 122
+   draw-percent: 73
+   takeout-total: 132
+   takeout-percent: 79
+   shots-total: 254
+   shots-percent: 76
+ - year: 2011
+   event: Hearts
+   team: "QC"
+   position: Third
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 115
+   inturn-percent: 82
+   outturn-total: 97
+   outturn-percent: 71
+   draw-total: 108
+   draw-percent: 75
+   takeout-total: 104
+   takeout-percent: 79
+   shots-total: 212
+   shots-percent: 77
+ - year: 2013
+   event: Hearts
+   team: "QC"
+   position: Alternate
+ - year: 2016
+   event: Hearts
+   team: "QC"
+   position: Second
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 99
+   inturn-percent: 77
+   outturn-total: 103
+   outturn-percent: 81
+   draw-total: 91
+   draw-percent: 76
+   takeout-total: 111
+   takeout-percent: 81
+   shots-total: 202
+   shots-percent: 79
+---

@@ -1,0 +1,342 @@
+---
+title: Colleen Jones
+name: Colleen Jones
+name-sort: Jones, Colleen
+games: 227
+wins: 136
+losses: 91
+inturn-total: 1735
+inturn-percent: 72
+outturn-total: 2545
+outturn-percent: 77
+draw-total: 1922
+draw-percent: 71
+takeout-total: 2358
+takeout-percent: 78
+shots-total: 4280
+shots-percent: 75
+years:
+ - year: 1982
+   event: Hearts
+   team: "NS"
+   position: Fourth
+   games: 12
+   wins: 9
+   losses: 3
+   inturn-total: 94
+   inturn-percent: 66
+   outturn-total: 125
+   outturn-percent: 77
+   draw-total: 107
+   draw-percent: 71
+   takeout-total: 112
+   takeout-percent: 73
+   shots-total: 219
+   shots-percent: 72
+ - year: 1984
+   event: Hearts
+   team: "NS"
+   position: Fourth
+   games: 11
+   wins: 9
+   losses: 2
+   inturn-total: 85
+   inturn-percent: 69
+   outturn-total: 112
+   outturn-percent: 73
+   draw-total: 80
+   draw-percent: 67
+   takeout-total: 117
+   takeout-percent: 74
+   shots-total: 197
+   shots-percent: 71
+ - year: 1986
+   event: Hearts
+   team: "NS"
+   position: Fourth
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 108
+   inturn-percent: 59
+   outturn-total: 110
+   outturn-percent: 71
+   draw-total: 122
+   draw-percent: 61
+   takeout-total: 96
+   takeout-percent: 71
+   shots-total: 218
+   shots-percent: 65
+ - year: 1989
+   event: Hearts
+   team: "NS"
+   position: Fourth
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 88
+   inturn-percent: 77
+   outturn-total: 131
+   outturn-percent: 71
+   draw-total: 91
+   draw-percent: 76
+   takeout-total: 128
+   takeout-percent: 71
+   shots-total: 219
+   shots-percent: 73
+ - year: 1991
+   event: Hearts
+   team: "NS"
+   position: Fourth
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 93
+   inturn-percent: 66
+   outturn-total: 115
+   outturn-percent: 75
+   draw-total: 88
+   draw-percent: 59
+   takeout-total: 120
+   takeout-percent: 80
+   shots-total: 208
+   shots-percent: 71
+ - year: 1992
+   event: Hearts
+   team: "NS"
+   position: Fourth
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 94
+   inturn-percent: 70
+   outturn-total: 113
+   outturn-percent: 73
+   draw-total: 83
+   draw-percent: 61
+   takeout-total: 124
+   takeout-percent: 78
+   shots-total: 207
+   shots-percent: 71
+ - year: 1993
+   event: Hearts
+   team: "NS"
+   position: Fourth
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 86
+   inturn-percent: 74
+   outturn-total: 109
+   outturn-percent: 72
+   draw-total: 99
+   draw-percent: 69
+   takeout-total: 96
+   takeout-percent: 76
+   shots-total: 195
+   shots-percent: 73
+ - year: 1994
+   event: Hearts
+   team: "NS"
+   position: Fourth
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 65
+   inturn-percent: 66
+   outturn-total: 152
+   outturn-percent: 78
+   draw-total: 90
+   draw-percent: 69
+   takeout-total: 127
+   takeout-percent: 79
+   shots-total: 217
+   shots-percent: 75
+ - year: 1996
+   event: Hearts
+   team: "NS"
+   position: Fourth
+   games: 13
+   wins: 7
+   losses: 6
+   inturn-total: 86
+   inturn-percent: 76
+   outturn-total: 154
+   outturn-percent: 73
+   draw-total: 106
+   draw-percent: 69
+   takeout-total: 134
+   takeout-percent: 78
+   shots-total: 240
+   shots-percent: 74
+ - year: 1997
+   event: Hearts
+   team: "NS"
+   position: Fourth
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 83
+   inturn-percent: 73
+   outturn-total: 123
+   outturn-percent: 72
+   draw-total: 110
+   draw-percent: 65
+   takeout-total: 96
+   takeout-percent: 80
+   shots-total: 206
+   shots-percent: 72
+ - year: 1999
+   event: Hearts
+   team: "NS"
+   position: Fourth
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 108
+   inturn-percent: 73
+   outturn-total: 141
+   outturn-percent: 76
+   draw-total: 100
+   draw-percent: 69
+   takeout-total: 149
+   takeout-percent: 78
+   shots-total: 249
+   shots-percent: 75
+ - year: 2000
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 93
+   inturn-percent: 72
+   outturn-total: 121
+   outturn-percent: 72
+   draw-total: 101
+   draw-percent: 68
+   takeout-total: 113
+   takeout-percent: 76
+   shots-total: 214
+   shots-percent: 72
+ - year: 2001
+   event: Hearts
+   team: "NS"
+   position: Fourth
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 114
+   inturn-percent: 74
+   outturn-total: 137
+   outturn-percent: 78
+   draw-total: 114
+   draw-percent: 76
+   takeout-total: 137
+   takeout-percent: 76
+   shots-total: 251
+   shots-percent: 76
+ - year: 2002
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 97
+   inturn-percent: 75
+   outturn-total: 170
+   outturn-percent: 85
+   draw-total: 124
+   draw-percent: 78
+   takeout-total: 143
+   takeout-percent: 84
+   shots-total: 267
+   shots-percent: 81
+ - year: 2003
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 87
+   inturn-percent: 80
+   outturn-total: 160
+   outturn-percent: 82
+   draw-total: 96
+   draw-percent: 83
+   takeout-total: 151
+   takeout-percent: 80
+   shots-total: 247
+   shots-percent: 81
+ - year: 2004
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 76
+   inturn-percent: 78
+   outturn-total: 165
+   outturn-percent: 83
+   draw-total: 115
+   draw-percent: 80
+   takeout-total: 126
+   takeout-percent: 82
+   shots-total: 241
+   shots-percent: 81
+ - year: 2005
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   games: 12
+   wins: 6
+   losses: 6
+   inturn-total: 94
+   inturn-percent: 78
+   outturn-total: 135
+   outturn-percent: 76
+   draw-total: 103
+   draw-percent: 78
+   takeout-total: 126
+   takeout-percent: 76
+   shots-total: 229
+   shots-percent: 77
+ - year: 2006
+   event: Hearts
+   team: "NS"
+   position: Fourth
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 89
+   inturn-percent: 73
+   outturn-total: 155
+   outturn-percent: 79
+   draw-total: 104
+   draw-percent: 80
+   takeout-total: 140
+   takeout-percent: 75
+   shots-total: 244
+   shots-percent: 77
+ - year: 2013
+   event: Hearts
+   team: "NS"
+   position: Second
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 95
+   inturn-percent: 78
+   outturn-total: 117
+   outturn-percent: 81
+   draw-total: 89
+   draw-percent: 72
+   takeout-total: 123
+   takeout-percent: 85
+   shots-total: 212
+   shots-percent: 80
+---

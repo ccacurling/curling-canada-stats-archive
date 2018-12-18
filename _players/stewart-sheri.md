@@ -1,0 +1,189 @@
+---
+title: Sheri Stewart
+name: Sheri Stewart
+name-sort: Stewart, Sheri
+games: 94
+wins: 41
+losses: 53
+inturn-total: 861
+inturn-percent: 70
+outturn-total: 924
+outturn-percent: 73
+draw-total: 884
+draw-percent: 69
+takeout-total: 901
+takeout-percent: 74
+shots-total: 1785
+shots-percent: 72
+years:
+ - year: 1986
+   event: Hearts
+   team: "NB"
+   position: Third
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 73
+   inturn-percent: 63
+   outturn-total: 122
+   outturn-percent: 69
+   draw-total: 95
+   draw-percent: 65
+   takeout-total: 100
+   takeout-percent: 69
+   shots-total: 195
+   shots-percent: 67
+ - year: 1989
+   event: Hearts
+   team: "NB"
+   position: Second
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 88
+   inturn-percent: 71
+   outturn-total: 136
+   outturn-percent: 75
+   draw-total: 79
+   draw-percent: 67
+   takeout-total: 145
+   takeout-percent: 77
+   shots-total: 224
+   shots-percent: 74
+ - year: 1990
+   event: Hearts
+   team: "NB"
+   position: Second
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 102
+   inturn-percent: 64
+   outturn-total: 102
+   outturn-percent: 64
+   draw-total: 119
+   draw-percent: 63
+   takeout-total: 85
+   takeout-percent: 66
+   shots-total: 204
+   shots-percent: 64
+ - year: 1991
+   event: Hearts
+   team: "NB"
+   position: Second
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 151
+   inturn-percent: 75
+   outturn-total: 111
+   outturn-percent: 80
+   draw-total: 123
+   draw-percent: 78
+   takeout-total: 139
+   takeout-percent: 76
+   shots-total: 262
+   shots-percent: 77
+ - year: 1992
+   event: Hearts
+   team: "NB"
+   position: Second
+   games: 11
+   wins: 3
+   losses: 8
+   inturn-total: 130
+   inturn-percent: 69
+   outturn-total: 84
+   outturn-percent: 66
+   draw-total: 111
+   draw-percent: 65
+   takeout-total: 103
+   takeout-percent: 71
+   shots-total: 214
+   shots-percent: 68
+ - year: 1994
+   event: Hearts
+   team: "NB"
+   position: Second
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 100
+   inturn-percent: 74
+   outturn-total: 110
+   outturn-percent: 78
+   draw-total: 119
+   draw-percent: 72
+   takeout-total: 91
+   takeout-percent: 81
+   shots-total: 210
+   shots-percent: 76
+ - year: 1997
+   event: Hearts
+   team: "NB"
+   position: Third
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 11
+   inturn-percent: 84
+   outturn-total: 9
+   outturn-percent: 67
+   draw-total: 7
+   draw-percent: 75
+   takeout-total: 13
+   takeout-percent: 77
+   shots-total: 20
+   shots-percent: 76
+ - year: 2000
+   event: Hearts
+   team: "NB"
+   position: Second
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 93
+   inturn-percent: 71
+   outturn-total: 121
+   outturn-percent: 75
+   draw-total: 108
+   draw-percent: 69
+   takeout-total: 106
+   takeout-percent: 78
+   shots-total: 214
+   shots-percent: 73
+ - year: 2003
+   event: Hearts
+   team: "NB"
+   position: Third
+   games: 2
+   wins: 1
+   losses: 1
+   inturn-total: 16
+   inturn-percent: 66
+   outturn-total: 24
+   outturn-percent: 92
+   draw-total: 18
+   draw-percent: 75
+   takeout-total: 22
+   takeout-percent: 86
+   shots-total: 40
+   shots-percent: 81
+ - year: 2004
+   event: Hearts
+   team: "NB"
+   position: Third
+   games: 11
+   wins: 2
+   losses: 9
+   inturn-total: 97
+   inturn-percent: 70
+   outturn-total: 105
+   outturn-percent: 68
+   draw-total: 105
+   draw-percent: 69
+   takeout-total: 97
+   takeout-percent: 69
+   shots-total: 202
+   shots-percent: 69
+---

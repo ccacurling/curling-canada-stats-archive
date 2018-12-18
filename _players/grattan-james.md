@@ -1,0 +1,223 @@
+---
+title: James Grattan
+name: James Grattan
+name-sort: Grattan, James
+games: 135
+wins: 65
+losses: 70
+inturn-total: 947
+inturn-percent: 79
+outturn-total: 1578
+outturn-percent: 81
+draw-total: 1074
+draw-percent: 78
+takeout-total: 1451
+takeout-percent: 82
+shots-total: 2525
+shots-percent: 80
+years:
+ - year: 1997
+   event: Brier
+   team: "NB"
+   position: Fourth
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 77
+   inturn-percent: 77
+   outturn-total: 183
+   outturn-percent: 86
+   draw-total: 84
+   draw-percent: 79
+   takeout-total: 176
+   takeout-percent: 86
+   shots-total: 260
+   shots-percent: 83
+ - year: 2002
+   event: Brier
+   team: "NB"
+   position: Third
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 111
+   inturn-percent: 81
+   outturn-total: 141
+   outturn-percent: 80
+   draw-total: 114
+   draw-percent: 76
+   takeout-total: 138
+   takeout-percent: 84
+   shots-total: 252
+   shots-percent: 80
+ - year: 2003
+   event: Brier
+   team: "NB"
+   position: Third
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 85
+   inturn-percent: 81
+   outturn-total: 137
+   outturn-percent: 86
+   draw-total: 75
+   draw-percent: 83
+   takeout-total: 147
+   takeout-percent: 85
+   shots-total: 222
+   shots-percent: 84
+ - year: 2004
+   event: Brier
+   team: "NB"
+   position: Third
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 85
+   inturn-percent: 85
+   outturn-total: 157
+   outturn-percent: 85
+   draw-total: 97
+   draw-percent: 84
+   takeout-total: 145
+   takeout-percent: 86
+   shots-total: 242
+   shots-percent: 85
+ - year: 2006
+   event: Brier
+   team: "NB"
+   position: Fourth
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 59
+   inturn-percent: 71
+   outturn-total: 115
+   outturn-percent: 77
+   draw-total: 74
+   draw-percent: 76
+   takeout-total: 100
+   takeout-percent: 74
+   shots-total: 174
+   shots-percent: 75
+ - year: 2008
+   event: Brier
+   team: "NB"
+   position: Fourth
+   games: 11
+   wins: 2
+   losses: 9
+   inturn-total: 75
+   inturn-percent: 78
+   outturn-total: 139
+   outturn-percent: 77
+   draw-total: 117
+   draw-percent: 78
+   takeout-total: 97
+   takeout-percent: 77
+   shots-total: 214
+   shots-percent: 77
+ - year: 2009
+   event: Brier
+   team: "NB"
+   position: Third
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 94
+   inturn-percent: 82
+   outturn-total: 108
+   outturn-percent: 79
+   draw-total: 83
+   draw-percent: 81
+   takeout-total: 119
+   takeout-percent: 80
+   shots-total: 202
+   shots-percent: 81
+ - year: 2010
+   event: Brier
+   team: "NB"
+   position: Fourth
+   games: 11
+   wins: 3
+   losses: 8
+   inturn-total: 61
+   inturn-percent: 78
+   outturn-total: 133
+   outturn-percent: 76
+   draw-total: 88
+   draw-percent: 75
+   takeout-total: 106
+   takeout-percent: 78
+   shots-total: 194
+   shots-percent: 77
+ - year: 2011
+   event: Brier
+   team: "NB"
+   position: Fourth
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 59
+   inturn-percent: 72
+   outturn-total: 152
+   outturn-percent: 79
+   draw-total: 87
+   draw-percent: 76
+   takeout-total: 124
+   takeout-percent: 78
+   shots-total: 211
+   shots-percent: 77
+ - year: 2013
+   event: Brier
+   team: "NB"
+   position: Fourth
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 90
+   inturn-percent: 78
+   outturn-total: 119
+   outturn-percent: 83
+   draw-total: 99
+   draw-percent: 78
+   takeout-total: 110
+   takeout-percent: 83
+   shots-total: 209
+   shots-percent: 81
+ - year: 2014
+   event: Brier
+   team: "NB"
+   position: Fourth
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 76
+   inturn-percent: 77
+   outturn-total: 120
+   outturn-percent: 81
+   draw-total: 94
+   draw-percent: 74
+   takeout-total: 102
+   takeout-percent: 84
+   shots-total: 196
+   shots-percent: 79
+ - year: 2018
+   event: Brier
+   team: "NB"
+   position: Fourth
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 75
+   inturn-percent: 80
+   outturn-total: 74
+   outturn-percent: 81
+   draw-total: 62
+   draw-percent: 75
+   takeout-total: 87
+   takeout-percent: 85
+   shots-total: 149
+   shots-percent: 81
+---

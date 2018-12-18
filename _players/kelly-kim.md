@@ -1,0 +1,278 @@
+---
+title: Kim Kelly
+name: Kim Kelly
+name-sort: Kelly, Kim
+games: 180
+wins: 105
+losses: 75
+inturn-total: 1477
+inturn-percent: 78
+outturn-total: 2026
+outturn-percent: 81
+draw-total: 1445
+draw-percent: 78
+takeout-total: 2058
+takeout-percent: 81
+shots-total: 3503
+shots-percent: 80
+years:
+ - year: 1989
+   event: Hearts
+   team: "NS"
+   position: Alternate
+ - year: 1991
+   event: Hearts
+   team: "NS"
+   position: Second
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 94
+   inturn-percent: 74
+   outturn-total: 115
+   outturn-percent: 78
+   draw-total: 84
+   draw-percent: 82
+   takeout-total: 125
+   takeout-percent: 72
+   shots-total: 209
+   shots-percent: 76
+ - year: 1992
+   event: Hearts
+   team: "NS"
+   position: Second
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 89
+   inturn-percent: 71
+   outturn-total: 129
+   outturn-percent: 78
+   draw-total: 80
+   draw-percent: 73
+   takeout-total: 138
+   takeout-percent: 77
+   shots-total: 218
+   shots-percent: 75
+ - year: 1994
+   event: Hearts
+   team: "NS"
+   position: Lead
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 37
+   inturn-percent: 84
+   outturn-total: 180
+   outturn-percent: 90
+   draw-total: 146
+   draw-percent: 89
+   takeout-total: 71
+   takeout-percent: 88
+   shots-total: 217
+   shots-percent: 89
+ - year: 1996
+   event: Hearts
+   team: "NS"
+   position: Second
+   games: 13
+   wins: 7
+   losses: 6
+   inturn-total: 96
+   inturn-percent: 76
+   outturn-total: 150
+   outturn-percent: 79
+   draw-total: 95
+   draw-percent: 75
+   takeout-total: 151
+   takeout-percent: 79
+   shots-total: 246
+   shots-percent: 78
+ - year: 1997
+   event: Hearts
+   team: "NS"
+   position: Second
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 91
+   inturn-percent: 83
+   outturn-total: 119
+   outturn-percent: 79
+   draw-total: 85
+   draw-percent: 77
+   takeout-total: 125
+   takeout-percent: 83
+   shots-total: 210
+   shots-percent: 81
+ - year: 1999
+   event: Hearts
+   team: "NS"
+   position: Third
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 106
+   inturn-percent: 76
+   outturn-total: 150
+   outturn-percent: 80
+   draw-total: 84
+   draw-percent: 74
+   takeout-total: 172
+   takeout-percent: 80
+   shots-total: 256
+   shots-percent: 78
+ - year: 2000
+   event: Hearts
+   team: "CA"
+   position: Third
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 85
+   inturn-percent: 83
+   outturn-total: 135
+   outturn-percent: 81
+   draw-total: 92
+   draw-percent: 81
+   takeout-total: 128
+   takeout-percent: 82
+   shots-total: 220
+   shots-percent: 82
+ - year: 2001
+   event: Hearts
+   team: "NS"
+   position: Third
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 129
+   inturn-percent: 81
+   outturn-total: 127
+   outturn-percent: 83
+   draw-total: 92
+   draw-percent: 82
+   takeout-total: 164
+   takeout-percent: 82
+   shots-total: 256
+   shots-percent: 82
+ - year: 2002
+   event: Hearts
+   team: "CA"
+   position: Third
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 114
+   inturn-percent: 80
+   outturn-total: 164
+   outturn-percent: 82
+   draw-total: 115
+   draw-percent: 80
+   takeout-total: 163
+   takeout-percent: 82
+   shots-total: 278
+   shots-percent: 81
+ - year: 2003
+   event: Hearts
+   team: "CA"
+   position: Third
+   games: 12
+   wins: 9
+   losses: 3
+   inturn-total: 98
+   inturn-percent: 79
+   outturn-total: 141
+   outturn-percent: 80
+   draw-total: 82
+   draw-percent: 71
+   takeout-total: 157
+   takeout-percent: 85
+   shots-total: 239
+   shots-percent: 80
+ - year: 2004
+   event: Hearts
+   team: "CA"
+   position: Third
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 93
+   inturn-percent: 80
+   outturn-total: 151
+   outturn-percent: 81
+   draw-total: 102
+   draw-percent: 80
+   takeout-total: 142
+   takeout-percent: 80
+   shots-total: 244
+   shots-percent: 80
+ - year: 2005
+   event: Hearts
+   team: "CA"
+   position: Third
+   games: 12
+   wins: 6
+   losses: 6
+   inturn-total: 116
+   inturn-percent: 78
+   outturn-total: 116
+   outturn-percent: 79
+   draw-total: 84
+   draw-percent: 73
+   takeout-total: 148
+   takeout-percent: 81
+   shots-total: 232
+   shots-percent: 78
+ - year: 2006
+   event: Hearts
+   team: "NS"
+   position: Third
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 121
+   inturn-percent: 79
+   outturn-total: 129
+   outturn-percent: 78
+   draw-total: 104
+   draw-percent: 76
+   takeout-total: 146
+   takeout-percent: 81
+   shots-total: 250
+   shots-percent: 79
+ - year: 2008
+   event: Hearts
+   team: "NS"
+   position: Third
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 105
+   inturn-percent: 79
+   outturn-total: 111
+   outturn-percent: 81
+   draw-total: 98
+   draw-percent: 79
+   takeout-total: 118
+   takeout-percent: 81
+   shots-total: 216
+   shots-percent: 80
+ - year: 2013
+   event: Hearts
+   team: "NS"
+   position: Third
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 103
+   inturn-percent: 72
+   outturn-total: 109
+   outturn-percent: 81
+   draw-total: 102
+   draw-percent: 75
+   takeout-total: 110
+   takeout-percent: 78
+   shots-total: 212
+   shots-percent: 76
+---

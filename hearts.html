@@ -1,0 +1,8 @@
+---
+layout: default
+title: Hearts (1982-2018)
+permalink: /hearts
+---
+<h1>Tournament of Hearts Results by Year</h1>
+{% assign hearts = site.hearts | reverse %}
+{% include results-by-year.html events=hearts event='Hearts' %}

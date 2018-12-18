@@ -1,0 +1,222 @@
+---
+title: Ben Hebert
+name: Ben Hebert
+name-sort: Hebert, Ben
+games: 122
+wins: 87
+losses: 35
+inturn-total: 465
+inturn-percent: 85
+outturn-total: 1719
+outturn-percent: 91
+draw-total: 1898
+draw-percent: 91
+takeout-total: 286
+takeout-percent: 78
+shots-total: 2184
+shots-percent: 90
+years:
+ - year: 2005
+   event: Brier
+   team: "SK"
+   position: Lead
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 81
+   inturn-percent: 84
+   outturn-total: 125
+   outturn-percent: 85
+   draw-total: 174
+   draw-percent: 86
+   takeout-total: 32
+   takeout-percent: 76
+   shots-total: 206
+   shots-percent: 85
+ - year: 2006
+   event: Brier
+   team: "SK"
+   position: Lead
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 43
+   inturn-percent: 80
+   outturn-total: 151
+   outturn-percent: 88
+   draw-total: 160
+   draw-percent: 87
+   takeout-total: 34
+   takeout-percent: 79
+   shots-total: 194
+   shots-percent: 86
+ - year: 2007
+   event: Brier
+   team: "AB"
+   position: Lead
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 58
+   inturn-percent: 84
+   outturn-total: 162
+   outturn-percent: 93
+   draw-total: 190
+   draw-percent: 92
+   takeout-total: 30
+   takeout-percent: 79
+   shots-total: 220
+   shots-percent: 91
+ - year: 2008
+   event: Brier
+   team: "AB"
+   position: Lead
+   games: 13
+   wins: 13
+   losses: 0
+   inturn-total: 41
+   inturn-percent: 79
+   outturn-total: 189
+   outturn-percent: 88
+   draw-total: 197
+   draw-percent: 88
+   takeout-total: 33
+   takeout-percent: 75
+   shots-total: 230
+   shots-percent: 86
+ - year: 2009
+   event: Brier
+   team: "AB"
+   position: Lead
+   games: 13
+   wins: 13
+   losses: 0
+   inturn-total: 40
+   inturn-percent: 86
+   outturn-total: 170
+   outturn-percent: 88
+   draw-total: 191
+   draw-percent: 88
+   takeout-total: 19
+   takeout-percent: 84
+   shots-total: 210
+   shots-percent: 88
+ - year: 2011
+   event: Brier
+   team: "AB"
+   position: Lead
+   games: 12
+   wins: 9
+   losses: 3
+   inturn-total: 22
+   inturn-percent: 85
+   outturn-total: 182
+   outturn-percent: 93
+   draw-total: 176
+   draw-percent: 94
+   takeout-total: 28
+   takeout-percent: 78
+   shots-total: 204
+   shots-percent: 92
+ - year: 2011
+   event: Brier
+   team: "AB"
+   position: Second
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 5
+   inturn-percent: 75
+   outturn-total: 11
+   outturn-percent: 80
+   draw-total: 10
+   draw-percent: 85
+   takeout-total: 6
+   takeout-percent: 67
+   shots-total: 16
+   shots-percent: 78
+ - year: 2011
+   event: Brier
+   team: Totals
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 27
+   inturn-percent: 83
+   outturn-total: 193
+   outturn-percent: 92
+   draw-total: 186
+   draw-percent: 94
+   takeout-total: 34
+   takeout-percent: 76
+   shots-total: 220
+   shots-percent: 91
+ - year: 2013
+   event: Brier
+   team: "AB"
+   position: Lead
+   games: 11
+   wins: 7
+   losses: 4
+   inturn-total: 29
+   inturn-percent: 82
+   outturn-total: 155
+   outturn-percent: 93
+   draw-total: 166
+   draw-percent: 93
+   takeout-total: 18
+   takeout-percent: 72
+   shots-total: 184
+   shots-percent: 91
+ - year: 2015
+   event: Brier
+   team: "AB"
+   position: Lead
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 29
+   inturn-percent: 85
+   outturn-total: 178
+   outturn-percent: 94
+   draw-total: 184
+   draw-percent: 94
+   takeout-total: 23
+   takeout-percent: 80
+   shots-total: 207
+   shots-percent: 93
+ - year: 2016
+   event: Brier
+   team: "AB"
+   position: Lead
+   games: 14
+   wins: 11
+   losses: 3
+   inturn-total: 60
+   inturn-percent: 90
+   outturn-total: 195
+   outturn-percent: 94
+   draw-total: 222
+   draw-percent: 96
+   takeout-total: 33
+   takeout-percent: 74
+   shots-total: 255
+   shots-percent: 93
+ - year: 2017
+   event: Brier
+   team: "CA"
+   position: Lead
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 57
+   inturn-percent: 89
+   outturn-total: 201
+   outturn-percent: 93
+   draw-total: 228
+   draw-percent: 93
+   takeout-total: 30
+   takeout-percent: 88
+   shots-total: 258
+   shots-percent: 93
+---

@@ -1,0 +1,189 @@
+---
+title: Dawn McEwen
+name: Dawn McEwen
+name-sort: McEwen, Dawn
+games: 140
+wins: 106
+losses: 34
+inturn-total: 1634
+inturn-percent: 89
+outturn-total: 903
+outturn-percent: 87
+draw-total: 2007
+draw-percent: 90
+takeout-total: 530
+takeout-percent: 83
+shots-total: 2537
+shots-percent: 88
+years:
+ - year: 2005
+   event: Hearts
+   team: "ON"
+   position: Second
+   games: 16
+   wins: 10
+   losses: 6
+   inturn-total: 120
+   inturn-percent: 82
+   outturn-total: 182
+   outturn-percent: 86
+   draw-total: 94
+   draw-percent: 82
+   takeout-total: 208
+   takeout-percent: 85
+   shots-total: 302
+   shots-percent: 84
+ - year: 2008
+   event: Hearts
+   team: "MB"
+   position: Lead
+   games: 15
+   wins: 11
+   losses: 4
+   inturn-total: 173
+   inturn-percent: 91
+   outturn-total: 102
+   outturn-percent: 87
+   draw-total: 229
+   draw-percent: 89
+   takeout-total: 46
+   takeout-percent: 90
+   shots-total: 275
+   shots-percent: 89
+ - year: 2009
+   event: Hearts
+   team: "CA"
+   position: Lead
+   games: 15
+   wins: 11
+   losses: 4
+   inturn-total: 213
+   inturn-percent: 84
+   outturn-total: 60
+   outturn-percent: 80
+   draw-total: 241
+   draw-percent: 83
+   takeout-total: 32
+   takeout-percent: 88
+   shots-total: 273
+   shots-percent: 83
+ - year: 2010
+   event: Hearts
+   team: "CA"
+   position: Lead
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 170
+   inturn-percent: 86
+   outturn-total: 68
+   outturn-percent: 87
+   draw-total: 218
+   draw-percent: 88
+   takeout-total: 20
+   takeout-percent: 70
+   shots-total: 238
+   shots-percent: 86
+ - year: 2011
+   event: Hearts
+   team: "CA"
+   position: Lead
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 149
+   inturn-percent: 89
+   outturn-total: 79
+   outturn-percent: 84
+   draw-total: 200
+   draw-percent: 90
+   takeout-total: 28
+   takeout-percent: 71
+   shots-total: 228
+   shots-percent: 88
+ - year: 2012
+   event: Hearts
+   team: "MB"
+   position: Lead
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 179
+   inturn-percent: 89
+   outturn-total: 90
+   outturn-percent: 90
+   draw-total: 228
+   draw-percent: 91
+   takeout-total: 41
+   takeout-percent: 80
+   shots-total: 269
+   shots-percent: 89
+ - year: 2013
+   event: Hearts
+   team: "MB"
+   position: Lead
+   games: 14
+   wins: 12
+   losses: 2
+   inturn-total: 154
+   inturn-percent: 91
+   outturn-total: 96
+   outturn-percent: 89
+   draw-total: 211
+   draw-percent: 93
+   takeout-total: 39
+   takeout-percent: 74
+   shots-total: 250
+   shots-percent: 90
+ - year: 2015
+   event: Hearts
+   team: "MB"
+   position: Lead
+   games: 13
+   wins: 12
+   losses: 1
+   inturn-total: 154
+   inturn-percent: 91
+   outturn-total: 79
+   outturn-percent: 86
+   draw-total: 195
+   draw-percent: 93
+   takeout-total: 38
+   takeout-percent: 72
+   shots-total: 233
+   shots-percent: 90
+ - year: 2016
+   event: Hearts
+   team: "CA"
+   position: Lead
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 170
+   inturn-percent: 92
+   outturn-total: 80
+   outturn-percent: 90
+   draw-total: 204
+   draw-percent: 92
+   takeout-total: 46
+   takeout-percent: 88
+   shots-total: 250
+   shots-percent: 91
+ - year: 2018
+   event: Hearts
+   team: "MB"
+   position: Lead
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 152
+   inturn-percent: 94
+   outturn-total: 67
+   outturn-percent: 91
+   draw-total: 187
+   draw-percent: 95
+   takeout-total: 32
+   takeout-percent: 83
+   shots-total: 219
+   shots-percent: 93
+---

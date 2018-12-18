@@ -1,0 +1,58 @@
+<table class="table table-striped table-hover datatable" id="players" data-order='[[1, "asc"]]' data-page-length="50" data-length-change="false">
+  <thead>
+   <tr><th rowspan="2" data-orderable="false">vs.</th><th rowspan="2">Name</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th><th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+   <tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr>
+  </thead>
+  <tbody>
+{% assign players = site.players | sort: 'name-sort' %}
+{% for player in players %}
+{%   if include.event %}
+{%     assign skip = true %}
+{%     if player.aka %}
+{%       assign aka = site.players | where: 'name-sort', player.aka | first %}
+{%       assign years = aka.years %}
+{%     else %}
+{%       assign years = player.years %}
+{%     endif %}
+{%     for year in years %}
+{%       if year.event == include.event %}
+{%         assign skip = false %}
+{%         break %}
+{%       endif %}
+{%     endfor %}
+{%     if skip == true %}
+{%       continue %}
+{%     endif %}
+{%   endif %}
+    <tr>
+      <td>
+      {% if player.aka == nil %}
+        <i class="fe fe-user-plus" data-name="{{ player.name-sort }}" title="Select this player for head-to-head comparison"></i></td>
+      {% endif %}
+      <td>
+      {% if player.aka %}
+        {{ player.name-sort }}
+        <button class="btn btn-info btn-sm" data-toggle="tooltip" data-placement="top" title="" data-original-title="See {{ player.aka }}">AKA</button>
+      {% else %}
+        <a href="{{ site.baseurl }}{{ player.url }}">{{ player.name-sort }}</a>
+      {% endif %}
+      </td>
+      <td>{{ player.games }}</td>
+      <td>{{ player.wins }}</td>
+      <td>{{ player.losses }}</td>
+      <td>{{ player.inturn-total }}</td>
+      <td>{{ player.inturn-percent }}</td>
+      <td>{{ player.outturn-total }}</td>
+      <td>{{ player.outturn-percent }}</td>
+      <td>{{ player.draw-total }}</td>
+      <td>{{ player.draw-percent }}</td>
+      <td>{{ player.takeout-total }}</td>
+      <td>{{ player.takeout-percent }}</td>
+      <td>{{ player.shots-total }}</td>
+      <td>{{ player.shots-percent }}</td>
+    </tr>
+{% endfor %}
+  </tbody>
+  <tfoot>
+  </tfoot>
+</table>

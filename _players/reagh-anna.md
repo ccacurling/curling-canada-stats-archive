@@ -1,0 +1,13 @@
+---
+title: Anna Reagh
+name: Anna Reagh
+name-sort: Reagh, Anna
+games: 0
+wins: 0
+losses: 0
+years:
+ - year: 1988
+   event: Hearts
+   team: "MB"
+   position: Alternate
+---

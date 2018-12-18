@@ -1,0 +1,274 @@
+---
+title: Brad Gushue
+name: Brad Gushue
+name-sort: Gushue, Brad
+games: 185
+wins: 123
+losses: 62
+inturn-total: 1370
+inturn-percent: 85
+outturn-total: 2082
+outturn-percent: 84
+draw-total: 1526
+draw-percent: 84
+takeout-total: 1926
+takeout-percent: 85
+shots-total: 3452
+shots-percent: 84
+years:
+ - year: 2003
+   event: Brier
+   team: "NL"
+   position: Fourth
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 73
+   inturn-percent: 81
+   outturn-total: 124
+   outturn-percent: 82
+   draw-total: 90
+   draw-percent: 80
+   takeout-total: 107
+   takeout-percent: 83
+   shots-total: 197
+   shots-percent: 82
+ - year: 2004
+   event: Brier
+   team: "NL"
+   position: Fourth
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 70
+   inturn-percent: 81
+   outturn-total: 140
+   outturn-percent: 84
+   draw-total: 103
+   draw-percent: 81
+   takeout-total: 107
+   takeout-percent: 86
+   shots-total: 210
+   shots-percent: 83
+ - year: 2005
+   event: Brier
+   team: "NL"
+   position: Fourth
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 91
+   inturn-percent: 82
+   outturn-total: 121
+   outturn-percent: 75
+   draw-total: 86
+   draw-percent: 78
+   takeout-total: 126
+   takeout-percent: 78
+   shots-total: 212
+   shots-percent: 78
+ - year: 2007
+   event: Brier
+   team: "NL"
+   position: Fourth
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 102
+   inturn-percent: 80
+   outturn-total: 151
+   outturn-percent: 81
+   draw-total: 110
+   draw-percent: 80
+   takeout-total: 143
+   takeout-percent: 81
+   shots-total: 253
+   shots-percent: 81
+ - year: 2008
+   event: Brier
+   team: "NL"
+   position: Fourth
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 107
+   inturn-percent: 86
+   outturn-total: 130
+   outturn-percent: 78
+   draw-total: 108
+   draw-percent: 84
+   takeout-total: 129
+   takeout-percent: 80
+   shots-total: 237
+   shots-percent: 82
+ - year: 2009
+   event: Brier
+   team: "NL"
+   position: Fourth
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 95
+   inturn-percent: 84
+   outturn-total: 112
+   outturn-percent: 88
+   draw-total: 116
+   draw-percent: 88
+   takeout-total: 91
+   takeout-percent: 84
+   shots-total: 207
+   shots-percent: 86
+ - year: 2010
+   event: Brier
+   team: "NL"
+   position: Fourth
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 89
+   inturn-percent: 88
+   outturn-total: 118
+   outturn-percent: 80
+   draw-total: 103
+   draw-percent: 86
+   takeout-total: 104
+   takeout-percent: 80
+   shots-total: 207
+   shots-percent: 83
+ - year: 2011
+   event: Brier
+   team: "NL"
+   position: Fourth
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 91
+   inturn-percent: 84
+   outturn-total: 161
+   outturn-percent: 84
+   draw-total: 111
+   draw-percent: 78
+   takeout-total: 141
+   takeout-percent: 88
+   shots-total: 252
+   shots-percent: 84
+ - year: 2012
+   event: Brier
+   team: "NL"
+   position: Fourth
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 94
+   inturn-percent: 78
+   outturn-total: 115
+   outturn-percent: 77
+   draw-total: 105
+   draw-percent: 79
+   takeout-total: 104
+   takeout-percent: 76
+   shots-total: 209
+   shots-percent: 78
+ - year: 2013
+   event: Brier
+   team: "NL"
+   position: Fourth
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 112
+   inturn-percent: 88
+   outturn-total: 132
+   outturn-percent: 90
+   draw-total: 109
+   draw-percent: 88
+   takeout-total: 135
+   takeout-percent: 90
+   shots-total: 244
+   shots-percent: 89
+ - year: 2014
+   event: Brier
+   team: "NL"
+   position: Fourth
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 73
+   inturn-percent: 79
+   outturn-total: 137
+   outturn-percent: 88
+   draw-total: 91
+   draw-percent: 82
+   takeout-total: 119
+   takeout-percent: 87
+   shots-total: 210
+   shots-percent: 85
+ - year: 2015
+   event: Brier
+   team: "NL"
+   position: Fourth
+   games: 14
+   wins: 9
+   losses: 5
+   inturn-total: 82
+   inturn-percent: 84
+   outturn-total: 190
+   outturn-percent: 79
+   draw-total: 112
+   draw-percent: 81
+   takeout-total: 160
+   takeout-percent: 80
+   shots-total: 272
+   shots-percent: 81
+ - year: 2016
+   event: Brier
+   team: "NL"
+   position: Fourth
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 93
+   inturn-percent: 85
+   outturn-total: 165
+   outturn-percent: 93
+   draw-total: 105
+   draw-percent: 86
+   takeout-total: 153
+   takeout-percent: 93
+   shots-total: 258
+   shots-percent: 91
+ - year: 2017
+   event: Brier
+   team: "NL"
+   position: Fourth
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 92
+   inturn-percent: 93
+   outturn-total: 158
+   outturn-percent: 90
+   draw-total: 96
+   draw-percent: 94
+   takeout-total: 154
+   takeout-percent: 89
+   shots-total: 250
+   shots-percent: 91
+ - year: 2018
+   event: Brier
+   team: "CA"
+   position: Fourth
+   games: 13
+   wins: 12
+   losses: 1
+   inturn-total: 106
+   inturn-percent: 93
+   outturn-total: 128
+   outturn-percent: 93
+   draw-total: 81
+   draw-percent: 92
+   takeout-total: 153
+   takeout-percent: 93
+   shots-total: 234
+   shots-percent: 93
+---

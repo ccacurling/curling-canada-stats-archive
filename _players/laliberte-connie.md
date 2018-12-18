@@ -1,0 +1,155 @@
+---
+title: Connie Laliberte
+name: Connie Laliberte
+name-sort: Laliberte, Connie
+games: 103
+wins: 74
+losses: 29
+inturn-total: 895
+inturn-percent: 76
+outturn-total: 1031
+outturn-percent: 78
+draw-total: 843
+draw-percent: 74
+takeout-total: 1083
+takeout-percent: 80
+shots-total: 1926
+shots-percent: 77
+years:
+ - year: 1984
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   games: 12
+   wins: 10
+   losses: 2
+   inturn-total: 90
+   inturn-percent: 79
+   outturn-total: 130
+   outturn-percent: 74
+   draw-total: 113
+   draw-percent: 72
+   takeout-total: 107
+   takeout-percent: 81
+   shots-total: 220
+   shots-percent: 76
+ - year: 1992
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 110
+   inturn-percent: 77
+   outturn-total: 129
+   outturn-percent: 73
+   draw-total: 100
+   draw-percent: 66
+   takeout-total: 139
+   takeout-percent: 81
+   shots-total: 239
+   shots-percent: 75
+ - year: 1993
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 112
+   inturn-percent: 81
+   outturn-total: 93
+   outturn-percent: 77
+   draw-total: 96
+   draw-percent: 75
+   takeout-total: 109
+   takeout-percent: 83
+   shots-total: 205
+   shots-percent: 80
+ - year: 1994
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 122
+   inturn-percent: 76
+   outturn-total: 129
+   outturn-percent: 78
+   draw-total: 115
+   draw-percent: 74
+   takeout-total: 136
+   takeout-percent: 78
+   shots-total: 251
+   shots-percent: 77
+ - year: 1995
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   games: 13
+   wins: 12
+   losses: 1
+   inturn-total: 106
+   inturn-percent: 79
+   outturn-total: 134
+   outturn-percent: 79
+   draw-total: 106
+   draw-percent: 77
+   takeout-total: 134
+   takeout-percent: 80
+   shots-total: 240
+   shots-percent: 79
+ - year: 1996
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   games: 15
+   wins: 9
+   losses: 6
+   inturn-total: 140
+   inturn-percent: 73
+   outturn-total: 150
+   outturn-percent: 84
+   draw-total: 106
+   draw-percent: 75
+   takeout-total: 184
+   takeout-percent: 81
+   shots-total: 290
+   shots-percent: 79
+ - year: 1999
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 99
+   inturn-percent: 73
+   outturn-total: 142
+   outturn-percent: 78
+   draw-total: 102
+   draw-percent: 75
+   takeout-total: 139
+   takeout-percent: 77
+   shots-total: 241
+   shots-percent: 76
+ - year: 2000
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 116
+   inturn-percent: 74
+   outturn-total: 124
+   outturn-percent: 81
+   draw-total: 105
+   draw-percent: 74
+   takeout-total: 135
+   takeout-percent: 80
+   shots-total: 240
+   shots-percent: 77
+---

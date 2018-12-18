@@ -1,0 +1,8 @@
+---
+layout: default
+title: Briers (1980-2018)
+permalink: /brier
+---
+<h1>Brier Results by Year</h1>
+{% assign briers = site.brier | reverse %}
+{% include results-by-year.html events=briers event='Brier' %}

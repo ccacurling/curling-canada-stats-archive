@@ -1,0 +1,193 @@
+---
+title: Janet Arnott
+name: Janet Arnott
+name-sort: Arnott, Janet
+games: 118
+wins: 86
+losses: 32
+inturn-total: 913
+inturn-percent: 80
+outturn-total: 1223
+outturn-percent: 83
+draw-total: 1321
+draw-percent: 82
+takeout-total: 815
+takeout-percent: 81
+shots-total: 2136
+shots-percent: 82
+years:
+ - year: 1984
+   event: Hearts
+   team: "MB"
+   position: Lead
+   games: 12
+   wins: 10
+   losses: 2
+   inturn-total: 112
+   inturn-percent: 75
+   outturn-total: 106
+   outturn-percent: 77
+   draw-total: 120
+   draw-percent: 79
+   takeout-total: 98
+   takeout-percent: 73
+   shots-total: 218
+   shots-percent: 76
+ - year: 1992
+   event: Hearts
+   team: "MB"
+   position: Lead
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 88
+   inturn-percent: 78
+   outturn-total: 150
+   outturn-percent: 79
+   draw-total: 119
+   draw-percent: 75
+   takeout-total: 119
+   takeout-percent: 83
+   shots-total: 238
+   shots-percent: 79
+ - year: 1993
+   event: Hearts
+   team: "CA"
+   position: Lead
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 85
+   inturn-percent: 82
+   outturn-total: 122
+   outturn-percent: 85
+   draw-total: 116
+   draw-percent: 92
+   takeout-total: 91
+   takeout-percent: 73
+   shots-total: 207
+   shots-percent: 84
+ - year: 1994
+   event: Hearts
+   team: "MB"
+   position: Lead
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 155
+   inturn-percent: 85
+   outturn-total: 92
+   outturn-percent: 88
+   draw-total: 151
+   draw-percent: 83
+   takeout-total: 96
+   takeout-percent: 90
+   shots-total: 247
+   shots-percent: 86
+ - year: 1995
+   event: Hearts
+   team: "MB"
+   position: Lead
+   games: 13
+   wins: 12
+   losses: 1
+   inturn-total: 63
+   inturn-percent: 77
+   outturn-total: 176
+   outturn-percent: 83
+   draw-total: 134
+   draw-percent: 81
+   takeout-total: 105
+   takeout-percent: 83
+   shots-total: 239
+   shots-percent: 82
+ - year: 1996
+   event: Hearts
+   team: "CA"
+   position: Lead
+   games: 15
+   wins: 9
+   losses: 6
+   inturn-total: 85
+   inturn-percent: 72
+   outturn-total: 200
+   outturn-percent: 84
+   draw-total: 182
+   draw-percent: 78
+   takeout-total: 103
+   takeout-percent: 83
+   shots-total: 285
+   shots-percent: 80
+ - year: 1999
+   event: Hearts
+   team: "MB"
+   position: Lead
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 94
+   inturn-percent: 74
+   outturn-total: 145
+   outturn-percent: 84
+   draw-total: 155
+   draw-percent: 82
+   takeout-total: 84
+   takeout-percent: 76
+   shots-total: 239
+   shots-percent: 80
+ - year: 2000
+   event: Hearts
+   team: "MB"
+   position: Lead
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 100
+   inturn-percent: 83
+   outturn-total: 137
+   outturn-percent: 85
+   draw-total: 152
+   draw-percent: 84
+   takeout-total: 85
+   takeout-percent: 85
+   shots-total: 237
+   shots-percent: 84
+ - year: 2006
+   event: Hearts
+   team: "CA"
+   position: Alternate
+ - year: 2007
+   event: Hearts
+   team: "MB"
+   position: Lead
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 128
+   inturn-percent: 84
+   outturn-total: 92
+   outturn-percent: 82
+   draw-total: 187
+   draw-percent: 84
+   takeout-total: 33
+   takeout-percent: 77
+   shots-total: 220
+   shots-percent: 83
+ - year: 2011
+   event: Hearts
+   team: "CA"
+   position: Lead
+   games: 2
+   wins: 2
+   losses: 0
+   inturn-total: 3
+   inturn-percent: 92
+   outturn-total: 3
+   outturn-percent: 100
+   draw-total: 5
+   draw-percent: 95
+   takeout-total: 1
+   takeout-percent: 100
+   shots-total: 6
+   shots-percent: 96
+---

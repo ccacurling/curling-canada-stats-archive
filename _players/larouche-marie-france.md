@@ -1,0 +1,209 @@
+---
+title: Marie-France Larouche
+name: Marie-France Larouche
+name-sort: Larouche, Marie-France
+games: 89
+wins: 49
+losses: 40
+inturn-total: 828
+inturn-percent: 75
+outturn-total: 869
+outturn-percent: 75
+draw-total: 803
+draw-percent: 72
+takeout-total: 894
+takeout-percent: 77
+shots-total: 1697
+shots-percent: 75
+years:
+ - year: 2000
+   event: Hearts
+   team: "QC"
+   position: Lead
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 6
+   inturn-percent: 63
+   outturn-total: 16
+   outturn-percent: 72
+   draw-total: 18
+   draw-percent: 71
+   takeout-total: 4
+   takeout-percent: 63
+   shots-total: 22
+   shots-percent: 69
+ - year: 2000
+   event: Hearts
+   team: "QC"
+   position: Second
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 9
+   inturn-percent: 75
+   outturn-total: 13
+   outturn-percent: 71
+   draw-total: 6
+   draw-percent: 46
+   takeout-total: 16
+   takeout-percent: 83
+   shots-total: 22
+   shots-percent: 73
+ - year: 2000
+   event: Hearts
+   team: "QC"
+   position: Third
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 11
+   inturn-percent: 61
+   outturn-total: 9
+   outturn-percent: 69
+   draw-total: 5
+   draw-percent: 80
+   takeout-total: 15
+   takeout-percent: 60
+   shots-total: 20
+   shots-percent: 65
+ - year: 2000
+   event: Hearts
+   team: Totals
+   games: 3
+   wins: 1
+   losses: 2
+   inturn-total: 26
+   inturn-percent: 66
+   outturn-total: 38
+   outturn-percent: 71
+   draw-total: 29
+   draw-percent: 67
+   takeout-total: 35
+   takeout-percent: 71
+   shots-total: 64
+   shots-percent: 69
+ - year: 2001
+   event: Hearts
+   team: "QC"
+   position: Fourth
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 120
+   inturn-percent: 80
+   outturn-total: 116
+   outturn-percent: 77
+   draw-total: 102
+   draw-percent: 73
+   takeout-total: 134
+   takeout-percent: 83
+   shots-total: 236
+   shots-percent: 79
+ - year: 2004
+   event: Hearts
+   team: "QC"
+   position: Fourth
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 134
+   inturn-percent: 74
+   outturn-total: 125
+   outturn-percent: 76
+   draw-total: 125
+   draw-percent: 73
+   takeout-total: 134
+   takeout-percent: 77
+   shots-total: 259
+   shots-percent: 75
+ - year: 2006
+   event: Hearts
+   team: "QC"
+   position: Alternate
+ - year: 2008
+   event: Hearts
+   team: "QC"
+   position: Fourth
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 103
+   inturn-percent: 75
+   outturn-total: 121
+   outturn-percent: 78
+   draw-total: 102
+   draw-percent: 74
+   takeout-total: 122
+   takeout-percent: 79
+   shots-total: 224
+   shots-percent: 77
+ - year: 2009
+   event: Hearts
+   team: "QC"
+   position: Fourth
+   games: 13
+   wins: 7
+   losses: 6
+   inturn-total: 113
+   inturn-percent: 75
+   outturn-total: 135
+   outturn-percent: 76
+   draw-total: 135
+   draw-percent: 72
+   takeout-total: 113
+   takeout-percent: 80
+   shots-total: 248
+   shots-percent: 76
+ - year: 2011
+   event: Hearts
+   team: "QC"
+   position: Fourth
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 113
+   inturn-percent: 76
+   outturn-total: 95
+   outturn-percent: 71
+   draw-total: 109
+   draw-percent: 75
+   takeout-total: 99
+   takeout-percent: 73
+   shots-total: 208
+   shots-percent: 74
+ - year: 2012
+   event: Hearts
+   team: "QC"
+   position: Fourth
+   games: 13
+   wins: 7
+   losses: 6
+   inturn-total: 134
+   inturn-percent: 75
+   outturn-total: 123
+   outturn-percent: 72
+   draw-total: 111
+   draw-percent: 71
+   takeout-total: 146
+   takeout-percent: 76
+   shots-total: 257
+   shots-percent: 74
+ - year: 2016
+   event: Hearts
+   team: "QC"
+   position: Fourth
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 85
+   inturn-percent: 68
+   outturn-total: 116
+   outturn-percent: 77
+   draw-total: 90
+   draw-percent: 70
+   takeout-total: 111
+   takeout-percent: 76
+   shots-total: 201
+   shots-percent: 73
+---

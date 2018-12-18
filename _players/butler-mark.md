@@ -1,0 +1,221 @@
+---
+title: Mark Butler
+name: Mark Butler
+name-sort: Butler, Mark
+games: 72
+wins: 29
+losses: 43
+inturn-total: 554
+inturn-percent: 85
+outturn-total: 816
+outturn-percent: 84
+draw-total: 961
+draw-percent: 86
+takeout-total: 409
+takeout-percent: 80
+shots-total: 1370
+shots-percent: 84
+years:
+ - year: 1991
+   event: Brier
+   team: "PE"
+   position: Lead
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 92
+   inturn-percent: 84
+   outturn-total: 127
+   outturn-percent: 84
+   draw-total: 118
+   draw-percent: 87
+   takeout-total: 101
+   takeout-percent: 80
+   shots-total: 219
+   shots-percent: 84
+ - year: 1993
+   event: Brier
+   team: "PE"
+   position: Lead
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 97
+   inturn-percent: 88
+   outturn-total: 120
+   outturn-percent: 88
+   draw-total: 135
+   draw-percent: 93
+   takeout-total: 82
+   takeout-percent: 80
+   shots-total: 217
+   shots-percent: 88
+ - year: 1995
+   event: Brier
+   team: "PE"
+   position: Lead
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 105
+   inturn-percent: 82
+   outturn-total: 119
+   outturn-percent: 81
+   draw-total: 166
+   draw-percent: 81
+   takeout-total: 58
+   takeout-percent: 82
+   shots-total: 224
+   shots-percent: 82
+ - year: 1997
+   event: Brier
+   team: "PE"
+   position: Lead
+   games: 10
+   wins: 3
+   losses: 7
+   inturn-total: 77
+   inturn-percent: 87
+   outturn-total: 110
+   outturn-percent: 84
+   draw-total: 141
+   draw-percent: 86
+   takeout-total: 46
+   takeout-percent: 83
+   shots-total: 187
+   shots-percent: 85
+ - year: 1997
+   event: Brier
+   team: "PE"
+   position: Second
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 6
+   inturn-percent: 71
+   outturn-total: 14
+   outturn-percent: 77
+   draw-total: 10
+   draw-percent: 73
+   takeout-total: 10
+   takeout-percent: 78
+   shots-total: 20
+   shots-percent: 75
+ - year: 1997
+   event: Brier
+   team: Totals
+   games: 11
+   wins: 3
+   losses: 8
+   inturn-total: 83
+   inturn-percent: 86
+   outturn-total: 124
+   outturn-percent: 83
+   draw-total: 151
+   draw-percent: 85
+   takeout-total: 56
+   takeout-percent: 82
+   shots-total: 207
+   shots-percent: 84
+ - year: 1999
+   event: Brier
+   team: "PE"
+   position: Lead
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 77
+   inturn-percent: 82
+   outturn-total: 130
+   outturn-percent: 85
+   draw-total: 151
+   draw-percent: 86
+   takeout-total: 56
+   takeout-percent: 79
+   shots-total: 207
+   shots-percent: 84
+ - year: 2001
+   event: Brier
+   team: "PE"
+   position: Lead
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 57
+   inturn-percent: 91
+   outturn-total: 155
+   outturn-percent: 84
+   draw-total: 167
+   draw-percent: 88
+   takeout-total: 45
+   takeout-percent: 77
+   shots-total: 212
+   shots-percent: 86
+ - year: 2002
+   event: Brier
+   team: "PE"
+   position: Lead
+   games: 3
+   wins: 0
+   losses: 3
+   inturn-total: 27
+   inturn-percent: 76
+   outturn-total: 15
+   outturn-percent: 90
+   draw-total: 38
+   draw-percent: 82
+   takeout-total: 4
+   takeout-percent: 69
+   shots-total: 42
+   shots-percent: 81
+ - year: 2008
+   event: Brier
+   team: "PE"
+   position: Lead
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 7
+   inturn-percent: 86
+   outturn-total: 15
+   outturn-percent: 82
+   draw-total: 22
+   draw-percent: 83
+   takeout-total: 0
+   takeout-percent:
+   shots-total: 22
+   shots-percent: 83
+ - year: 2008
+   event: Brier
+   team: "PE"
+   position: Second
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 9
+   inturn-percent: 81
+   outturn-total: 11
+   outturn-percent: 89
+   draw-total: 13
+   draw-percent: 87
+   takeout-total: 7
+   takeout-percent: 82
+   shots-total: 20
+   shots-percent: 85
+ - year: 2008
+   event: Brier
+   team: Totals
+   games: 2
+   wins: 0
+   losses: 2
+   inturn-total: 16
+   inturn-percent: 83
+   outturn-total: 26
+   outturn-percent: 85
+   draw-total: 35
+   draw-percent: 84
+   takeout-total: 7
+   takeout-percent: 82
+   shots-total: 42
+   shots-percent: 84
+---

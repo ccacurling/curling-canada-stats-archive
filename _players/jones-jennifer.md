@@ -1,0 +1,240 @@
+---
+title: Jennifer Jones
+name: Jennifer Jones
+name-sort: Jones, Jennifer
+games: 176
+wins: 135
+losses: 41
+inturn-total: 1665
+inturn-percent: 80
+outturn-total: 1518
+outturn-percent: 79
+draw-total: 1428
+draw-percent: 79
+takeout-total: 1755
+takeout-percent: 80
+shots-total: 3183
+shots-percent: 80
+years:
+ - year: 2002
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 114
+   inturn-percent: 76
+   outturn-total: 97
+   outturn-percent: 82
+   draw-total: 91
+   draw-percent: 79
+   takeout-total: 120
+   takeout-percent: 79
+   shots-total: 211
+   shots-percent: 79
+ - year: 2005
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 118
+   inturn-percent: 75
+   outturn-total: 118
+   outturn-percent: 82
+   draw-total: 109
+   draw-percent: 78
+   takeout-total: 127
+   takeout-percent: 79
+   shots-total: 236
+   shots-percent: 79
+ - year: 2006
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 133
+   inturn-percent: 72
+   outturn-total: 127
+   outturn-percent: 72
+   draw-total: 129
+   draw-percent: 74
+   takeout-total: 131
+   takeout-percent: 70
+   shots-total: 260
+   shots-percent: 72
+ - year: 2007
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 110
+   inturn-percent: 76
+   outturn-total: 111
+   outturn-percent: 75
+   draw-total: 107
+   draw-percent: 69
+   takeout-total: 114
+   takeout-percent: 81
+   shots-total: 221
+   shots-percent: 75
+ - year: 2008
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   games: 15
+   wins: 11
+   losses: 4
+   inturn-total: 156
+   inturn-percent: 77
+   outturn-total: 122
+   outturn-percent: 80
+   draw-total: 138
+   draw-percent: 78
+   takeout-total: 140
+   takeout-percent: 79
+   shots-total: 278
+   shots-percent: 78
+ - year: 2009
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   games: 15
+   wins: 11
+   losses: 4
+   inturn-total: 147
+   inturn-percent: 80
+   outturn-total: 126
+   outturn-percent: 76
+   draw-total: 129
+   draw-percent: 76
+   takeout-total: 144
+   takeout-percent: 80
+   shots-total: 273
+   shots-percent: 78
+ - year: 2010
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 123
+   inturn-percent: 81
+   outturn-total: 118
+   outturn-percent: 72
+   draw-total: 81
+   draw-percent: 78
+   takeout-total: 160
+   takeout-percent: 76
+   shots-total: 241
+   shots-percent: 77
+ - year: 2011
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 110
+   inturn-percent: 84
+   outturn-total: 120
+   outturn-percent: 77
+   draw-total: 111
+   draw-percent: 82
+   takeout-total: 119
+   takeout-percent: 79
+   shots-total: 230
+   shots-percent: 80
+ - year: 2012
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 164
+   inturn-percent: 83
+   outturn-total: 106
+   outturn-percent: 80
+   draw-total: 110
+   draw-percent: 80
+   takeout-total: 160
+   takeout-percent: 83
+   shots-total: 270
+   shots-percent: 82
+ - year: 2013
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   games: 14
+   wins: 12
+   losses: 2
+   inturn-total: 109
+   inturn-percent: 87
+   outturn-total: 142
+   outturn-percent: 83
+   draw-total: 115
+   draw-percent: 81
+   takeout-total: 136
+   takeout-percent: 88
+   shots-total: 251
+   shots-percent: 85
+ - year: 2015
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   games: 13
+   wins: 12
+   losses: 1
+   inturn-total: 119
+   inturn-percent: 82
+   outturn-total: 118
+   outturn-percent: 81
+   draw-total: 102
+   draw-percent: 80
+   takeout-total: 135
+   takeout-percent: 82
+   shots-total: 237
+   shots-percent: 82
+ - year: 2016
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 142
+   inturn-percent: 84
+   outturn-total: 114
+   outturn-percent: 83
+   draw-total: 112
+   draw-percent: 83
+   takeout-total: 144
+   takeout-percent: 84
+   shots-total: 256
+   shots-percent: 83
+ - year: 2018
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 120
+   inturn-percent: 86
+   outturn-total: 99
+   outturn-percent: 82
+   draw-total: 94
+   draw-percent: 85
+   takeout-total: 125
+   takeout-percent: 84
+   shots-total: 219
+   shots-percent: 84
+---

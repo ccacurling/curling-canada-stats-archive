@@ -1,0 +1,176 @@
+---
+title: Pat Ryan
+name: Pat Ryan
+name-sort: Ryan, Pat
+games: 109
+wins: 78
+losses: 31
+inturn-total: 940
+inturn-percent: 82
+outturn-total: 1114
+outturn-percent: 82
+draw-total: 862
+draw-percent: 77
+takeout-total: 1192
+takeout-percent: 86
+shots-total: 2054
+shots-percent: 82
+years:
+ - year: 1985
+   event: Brier
+   team: "AB"
+   position: Fourth
+   games: 12
+   wins: 11
+   losses: 1
+   inturn-total: 88
+   inturn-percent: 86
+   outturn-total: 132
+   outturn-percent: 83
+   draw-total: 76
+   draw-percent: 71
+   takeout-total: 144
+   takeout-percent: 91
+   shots-total: 220
+   shots-percent: 84
+ - year: 1987
+   event: Brier
+   team: "AB"
+   position: Fourth
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 109
+   inturn-percent: 77
+   outturn-total: 103
+   outturn-percent: 83
+   draw-total: 104
+   draw-percent: 78
+   takeout-total: 108
+   takeout-percent: 81
+   shots-total: 212
+   shots-percent: 80
+ - year: 1988
+   event: Brier
+   team: "AB"
+   position: Fourth
+   games: 12
+   wins: 12
+   losses: 0
+   inturn-total: 110
+   inturn-percent: 82
+   outturn-total: 120
+   outturn-percent: 86
+   draw-total: 87
+   draw-percent: 78
+   takeout-total: 143
+   takeout-percent: 88
+   shots-total: 230
+   shots-percent: 84
+ - year: 1989
+   event: Brier
+   team: "AB"
+   position: Fourth
+   games: 12
+   wins: 9
+   losses: 3
+   inturn-total: 117
+   inturn-percent: 81
+   outturn-total: 110
+   outturn-percent: 83
+   draw-total: 98
+   draw-percent: 76
+   takeout-total: 129
+   takeout-percent: 86
+   shots-total: 227
+   shots-percent: 82
+ - year: 1993
+   event: Brier
+   team: "BC"
+   position: Third
+   games: 15
+   wins: 10
+   losses: 5
+   inturn-total: 125
+   inturn-percent: 90
+   outturn-total: 168
+   outturn-percent: 88
+   draw-total: 116
+   draw-percent: 84
+   takeout-total: 177
+   takeout-percent: 91
+   shots-total: 293
+   shots-percent: 89
+ - year: 1994
+   event: Brier
+   team: "BC"
+   position: Third
+   games: 12
+   wins: 11
+   losses: 1
+   inturn-total: 95
+   inturn-percent: 83
+   outturn-total: 137
+   outturn-percent: 82
+   draw-total: 76
+   draw-percent: 80
+   takeout-total: 156
+   takeout-percent: 84
+   shots-total: 232
+   shots-percent: 83
+ - year: 1995
+   event: Brier
+   team: "BC"
+   position: Third
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 91
+   inturn-percent: 76
+   outturn-total: 122
+   outturn-percent: 80
+   draw-total: 90
+   draw-percent: 71
+   takeout-total: 123
+   takeout-percent: 83
+   shots-total: 213
+   shots-percent: 78
+ - year: 2002
+   event: Brier
+   team: "BC"
+   position: Fourth
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 99
+   inturn-percent: 80
+   outturn-total: 100
+   outturn-percent: 80
+   draw-total: 94
+   draw-percent: 78
+   takeout-total: 105
+   takeout-percent: 81
+   shots-total: 199
+   shots-percent: 80
+ - year: 2003
+   event: Brier
+   team: "BC"
+   position: Fourth
+   games: 13
+   wins: 7
+   losses: 6
+   inturn-total: 106
+   inturn-percent: 84
+   outturn-total: 122
+   outturn-percent: 75
+   draw-total: 121
+   draw-percent: 75
+   takeout-total: 107
+   takeout-percent: 84
+   shots-total: 228
+   shots-percent: 79
+ - year: 2016
+   event: Brier
+   team: "BC"
+   position: Alternate
+---

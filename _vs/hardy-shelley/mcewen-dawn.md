@@ -1,0 +1,30 @@
+---
+title: Shelley Hardy vs Dawn McEwen
+player1:              
+  name: Hardy, Shelley
+  percent: 79         
+  wins: 1             
+  losses: 0           
+player2:              
+  name: McEwen, Dawn  
+  percent: 84         
+  wins: 0             
+  losses: 1           
+games:
+ - player1:          
+     team: 'NL'      
+     position: Fourth
+     percent: 79     
+     win: 1          
+     loss: 0         
+   player2:        
+     team: 'CA'    
+     position: Lead
+     percent: 84   
+     win: 0        
+     loss: 1       
+   event: Hearts       
+   year: 2010          
+   draw: Round Robin(8)
+   score: NL 8 - CA 4  
+---

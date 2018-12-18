@@ -1,0 +1,189 @@
+---
+title: Ryan Fry
+name: Ryan Fry
+name-sort: Fry, Ryan
+games: 128
+wins: 90
+losses: 38
+inturn-total: 924
+inturn-percent: 85
+outturn-total: 1452
+outturn-percent: 87
+draw-total: 843
+draw-percent: 84
+takeout-total: 1533
+takeout-percent: 87
+shots-total: 2376
+shots-percent: 86
+years:
+ - year: 2007
+   event: Brier
+   team: "MB"
+   position: Third
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 94
+   inturn-percent: 83
+   outturn-total: 158
+   outturn-percent: 83
+   draw-total: 106
+   draw-percent: 84
+   takeout-total: 146
+   takeout-percent: 83
+   shots-total: 252
+   shots-percent: 83
+ - year: 2009
+   event: Brier
+   team: "NL"
+   position: Second
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 76
+   inturn-percent: 78
+   outturn-total: 135
+   outturn-percent: 81
+   draw-total: 70
+   draw-percent: 70
+   takeout-total: 141
+   takeout-percent: 85
+   shots-total: 211
+   shots-percent: 80
+ - year: 2010
+   event: Brier
+   team: "NL"
+   position: Second
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 82
+   inturn-percent: 87
+   outturn-total: 130
+   outturn-percent: 84
+   draw-total: 87
+   draw-percent: 82
+   takeout-total: 125
+   takeout-percent: 87
+   shots-total: 212
+   shots-percent: 85
+ - year: 2011
+   event: Brier
+   team: "NL"
+   position: Second
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 96
+   inturn-percent: 85
+   outturn-total: 160
+   outturn-percent: 86
+   draw-total: 113
+   draw-percent: 87
+   takeout-total: 143
+   takeout-percent: 85
+   shots-total: 256
+   shots-percent: 86
+ - year: 2012
+   event: Brier
+   team: "NL"
+   position: Third
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 97
+   inturn-percent: 84
+   outturn-total: 113
+   outturn-percent: 84
+   draw-total: 96
+   draw-percent: 83
+   takeout-total: 114
+   takeout-percent: 85
+   shots-total: 210
+   shots-percent: 84
+ - year: 2013
+   event: Brier
+   team: "NO"
+   position: Third
+   games: 14
+   wins: 11
+   losses: 3
+   inturn-total: 98
+   inturn-percent: 89
+   outturn-total: 157
+   outturn-percent: 90
+   draw-total: 83
+   draw-percent: 89
+   takeout-total: 172
+   takeout-percent: 90
+   shots-total: 255
+   shots-percent: 90
+ - year: 2015
+   event: Brier
+   team: "NO"
+   position: Third
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 80
+   inturn-percent: 90
+   outturn-total: 164
+   outturn-percent: 91
+   draw-total: 59
+   draw-percent: 86
+   takeout-total: 185
+   takeout-percent: 92
+   shots-total: 244
+   shots-percent: 91
+ - year: 2016
+   event: Brier
+   team: "NO"
+   position: Third
+   games: 14
+   wins: 12
+   losses: 2
+   inturn-total: 118
+   inturn-percent: 91
+   outturn-total: 154
+   outturn-percent: 92
+   draw-total: 66
+   draw-percent: 93
+   takeout-total: 206
+   takeout-percent: 91
+   shots-total: 272
+   shots-percent: 91
+ - year: 2017
+   event: Brier
+   team: "NO"
+   position: Third
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 99
+   inturn-percent: 83
+   outturn-total: 155
+   outturn-percent: 87
+   draw-total: 99
+   draw-percent: 85
+   takeout-total: 155
+   takeout-percent: 86
+   shots-total: 254
+   shots-percent: 86
+ - year: 2018
+   event: Brier
+   team: "NO"
+   position: Third
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 84
+   inturn-percent: 82
+   outturn-total: 126
+   outturn-percent: 88
+   draw-total: 64
+   draw-percent: 82
+   takeout-total: 146
+   takeout-percent: 87
+   shots-total: 210
+   shots-percent: 85
+---

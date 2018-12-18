@@ -1,0 +1,227 @@
+---
+title: Jill Officer
+name: Jill Officer
+name-sort: Officer, Jill
+games: 164
+wins: 127
+losses: 37
+inturn-total: 1569
+inturn-percent: 82
+outturn-total: 1463
+outturn-percent: 84
+draw-total: 1049
+draw-percent: 78
+takeout-total: 1983
+takeout-percent: 85
+shots-total: 3032
+shots-percent: 83
+years:
+ - year: 2002
+   event: Hearts
+   team: "MB"
+   position: Alternate
+ - year: 2005
+   event: Hearts
+   team: "MB"
+   position: Second
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 121
+   inturn-percent: 77
+   outturn-total: 121
+   outturn-percent: 78
+   draw-total: 81
+   draw-percent: 73
+   takeout-total: 161
+   takeout-percent: 80
+   shots-total: 242
+   shots-percent: 78
+ - year: 2006
+   event: Hearts
+   team: "CA"
+   position: Second
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 142
+   inturn-percent: 76
+   outturn-total: 122
+   outturn-percent: 78
+   draw-total: 103
+   draw-percent: 72
+   takeout-total: 161
+   takeout-percent: 81
+   shots-total: 264
+   shots-percent: 77
+ - year: 2007
+   event: Hearts
+   team: "MB"
+   position: Second
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 124
+   inturn-percent: 84
+   outturn-total: 100
+   outturn-percent: 80
+   draw-total: 91
+   draw-percent: 78
+   takeout-total: 133
+   takeout-percent: 85
+   shots-total: 224
+   shots-percent: 82
+ - year: 2008
+   event: Hearts
+   team: "MB"
+   position: Second
+   games: 15
+   wins: 11
+   losses: 4
+   inturn-total: 154
+   inturn-percent: 85
+   outturn-total: 132
+   outturn-percent: 85
+   draw-total: 104
+   draw-percent: 78
+   takeout-total: 182
+   takeout-percent: 89
+   shots-total: 286
+   shots-percent: 85
+ - year: 2009
+   event: Hearts
+   team: "CA"
+   position: Second
+   games: 15
+   wins: 11
+   losses: 4
+   inturn-total: 149
+   inturn-percent: 82
+   outturn-total: 129
+   outturn-percent: 84
+   draw-total: 104
+   draw-percent: 77
+   takeout-total: 174
+   takeout-percent: 87
+   shots-total: 278
+   shots-percent: 83
+ - year: 2010
+   event: Hearts
+   team: "CA"
+   position: Second
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 116
+   inturn-percent: 81
+   outturn-total: 130
+   outturn-percent: 79
+   draw-total: 75
+   draw-percent: 71
+   takeout-total: 171
+   takeout-percent: 84
+   shots-total: 246
+   shots-percent: 80
+ - year: 2011
+   event: Hearts
+   team: "CA"
+   position: Second
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 132
+   inturn-percent: 82
+   outturn-total: 106
+   outturn-percent: 80
+   draw-total: 89
+   draw-percent: 79
+   takeout-total: 149
+   takeout-percent: 83
+   shots-total: 238
+   shots-percent: 81
+ - year: 2012
+   event: Hearts
+   team: "MB"
+   position: Second
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 139
+   inturn-percent: 79
+   outturn-total: 133
+   outturn-percent: 86
+   draw-total: 99
+   draw-percent: 82
+   takeout-total: 173
+   takeout-percent: 83
+   shots-total: 272
+   shots-percent: 83
+ - year: 2013
+   event: Hearts
+   team: "MB"
+   position: Second
+   games: 14
+   wins: 12
+   losses: 2
+   inturn-total: 142
+   inturn-percent: 85
+   outturn-total: 114
+   outturn-percent: 82
+   draw-total: 104
+   draw-percent: 82
+   takeout-total: 152
+   takeout-percent: 85
+   shots-total: 256
+   shots-percent: 84
+ - year: 2015
+   event: Hearts
+   team: "MB"
+   position: Second
+   games: 13
+   wins: 12
+   losses: 1
+   inturn-total: 120
+   inturn-percent: 83
+   outturn-total: 122
+   outturn-percent: 86
+   draw-total: 63
+   draw-percent: 79
+   takeout-total: 179
+   takeout-percent: 87
+   shots-total: 242
+   shots-percent: 85
+ - year: 2016
+   event: Hearts
+   team: "CA"
+   position: Second
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 126
+   inturn-percent: 85
+   outturn-total: 136
+   outturn-percent: 89
+   draw-total: 80
+   draw-percent: 80
+   takeout-total: 182
+   takeout-percent: 91
+   shots-total: 262
+   shots-percent: 87
+ - year: 2018
+   event: Hearts
+   team: "MB"
+   position: Second
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 104
+   inturn-percent: 87
+   outturn-total: 118
+   outturn-percent: 92
+   draw-total: 56
+   draw-percent: 89
+   takeout-total: 166
+   takeout-percent: 89
+   shots-total: 222
+   shots-percent: 89
+---

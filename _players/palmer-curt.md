@@ -1,0 +1,70 @@
+---
+title: Curt Palmer
+name: Curt Palmer
+name-sort: Palmer, Curt
+games: 33
+wins: 10
+losses: 23
+inturn-total: 204
+inturn-percent: 69
+outturn-total: 442
+outturn-percent: 79
+draw-total: 299
+draw-percent: 74
+takeout-total: 347
+takeout-percent: 78
+shots-total: 646
+shots-percent: 76
+years:
+ - year: 1996
+   event: Brier
+   team: "NS"
+   position: Third
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 62
+   inturn-percent: 73
+   outturn-total: 152
+   outturn-percent: 81
+   draw-total: 91
+   draw-percent: 76
+   takeout-total: 123
+   takeout-percent: 81
+   shots-total: 214
+   shots-percent: 79
+ - year: 2007
+   event: Brier
+   team: "NS"
+   position: Third
+   games: 11
+   wins: 2
+   losses: 9
+   inturn-total: 74
+   inturn-percent: 67
+   outturn-total: 144
+   outturn-percent: 77
+   draw-total: 119
+   draw-percent: 74
+   takeout-total: 99
+   takeout-percent: 73
+   shots-total: 218
+   shots-percent: 74
+ - year: 2008
+   event: Brier
+   team: "NS"
+   position: Third
+   games: 11
+   wins: 3
+   losses: 8
+   inturn-total: 68
+   inturn-percent: 68
+   outturn-total: 146
+   outturn-percent: 80
+   draw-total: 89
+   draw-percent: 72
+   takeout-total: 125
+   takeout-percent: 79
+   shots-total: 214
+   shots-percent: 76
+---

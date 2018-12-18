@@ -1,0 +1,126 @@
+---
+title: Jonathan Mead vs Eric Sylvain
+player1:              
+  name: Mead, Jonathan
+  percent: 84         
+  wins: 2             
+  losses: 5           
+player2:              
+  name: Sylvain, Eric 
+  percent: 81         
+  wins: 5             
+  losses: 2           
+games:
+ - player1:         
+     team: 'MB'     
+     position: Third
+     percent: 86    
+     win: 0         
+     loss: 1        
+   player2:          
+     team: 'QC'      
+     position: Second
+     percent: 89     
+     win: 1          
+     loss: 0         
+   event: Brier         
+   year: 2000           
+   draw: Round Robin(17)
+   score: MB 5 - QC 6   
+ - player1:         
+     team: 'MB'     
+     position: Third
+     percent: 86    
+     win: 0         
+     loss: 1        
+   player2:          
+     team: 'QC'      
+     position: Second
+     percent: 80     
+     win: 1          
+     loss: 0         
+   event: Brier      
+   year: 2000        
+   draw: Playoff(19) 
+   score: QC 7 - MB 5
+ - player1:         
+     team: 'MB'     
+     position: Third
+     percent: 71    
+     win: 0         
+     loss: 1        
+   player2:          
+     team: 'QC'      
+     position: Second
+     percent: 71     
+     win: 1          
+     loss: 0         
+   event: Brier        
+   year: 2006          
+   draw: Round Robin(9)
+   score: MB 8 - QC 10 
+ - player1:         
+     team: 'MB'     
+     position: Third
+     percent: 83    
+     win: 1         
+     loss: 0        
+   player2:          
+     team: 'QC'      
+     position: Second
+     percent: 74     
+     win: 0          
+     loss: 1         
+   event: Brier        
+   year: 2013          
+   draw: Round Robin(6)
+   score: QC 6 - MB 7  
+ - player1:         
+     team: 'MB'     
+     position: Third
+     percent: 85    
+     win: 0         
+     loss: 1        
+   player2:          
+     team: 'QC'      
+     position: Second
+     percent: 75     
+     win: 1          
+     loss: 0         
+   event: Brier        
+   year: 2014          
+   draw: Round Robin(8)
+   score: MB 7 - QC 9  
+ - player1:         
+     team: 'MB'     
+     position: Third
+     percent: 81    
+     win: 0         
+     loss: 1        
+   player2:          
+     team: 'QC'      
+     position: Second
+     percent: 93     
+     win: 1          
+     loss: 0         
+   event: Brier      
+   year: 2014        
+   draw: Page 3-4(19)
+   score: MB 6 - QC 7
+ - player1:         
+     team: 'MB'     
+     position: Third
+     percent: 94    
+     win: 1         
+     loss: 0        
+   player2:          
+     team: 'QC'      
+     position: Second
+     percent: 88     
+     win: 0          
+     loss: 1         
+   event: Brier      
+   year: 2014        
+   draw: Bronze(21)  
+   score: MB 9 - QC 5
+---

@@ -1,0 +1,138 @@
+---
+title: Rick Sawatsky
+name: Rick Sawatsky
+name-sort: Sawatsky, Rick
+games: 81
+wins: 41
+losses: 40
+inturn-total: 815
+inturn-percent: 89
+outturn-total: 724
+outturn-percent: 88
+draw-total: 1335
+draw-percent: 90
+takeout-total: 204
+takeout-percent: 84
+shots-total: 1539
+shots-percent: 89
+years:
+ - year: 2008
+   event: Brier
+   team: "BC"
+   position: Lead
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 188
+   inturn-percent: 93
+   outturn-total: 68
+   outturn-percent: 88
+   draw-total: 226
+   draw-percent: 92
+   takeout-total: 30
+   takeout-percent: 90
+   shots-total: 256
+   shots-percent: 92
+ - year: 2011
+   event: Brier
+   team: "BC"
+   position: Lead
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 146
+   inturn-percent: 86
+   outturn-total: 58
+   outturn-percent: 78
+   draw-total: 174
+   draw-percent: 86
+   takeout-total: 30
+   takeout-percent: 71
+   shots-total: 204
+   shots-percent: 84
+ - year: 2012
+   event: Brier
+   team: "BC"
+   position: Lead
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 121
+   inturn-percent: 85
+   outturn-total: 93
+   outturn-percent: 91
+   draw-total: 182
+   draw-percent: 87
+   takeout-total: 32
+   takeout-percent: 88
+   shots-total: 214
+   shots-percent: 87
+ - year: 2014
+   event: Brier
+   team: "BC"
+   position: Lead
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 44
+   inturn-percent: 93
+   outturn-total: 193
+   outturn-percent: 95
+   draw-total: 198
+   draw-percent: 95
+   takeout-total: 39
+   takeout-percent: 90
+   shots-total: 237
+   shots-percent: 94
+ - year: 2015
+   event: Brier
+   team: "BC"
+   position: Lead
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 87
+   inturn-percent: 86
+   outturn-total: 126
+   outturn-percent: 83
+   draw-total: 186
+   draw-percent: 84
+   takeout-total: 27
+   takeout-percent: 85
+   shots-total: 213
+   shots-percent: 84
+ - year: 2016
+   event: Brier
+   team: "BC"
+   position: Lead
+   games: 11
+   wins: 3
+   losses: 8
+   inturn-total: 149
+   inturn-percent: 93
+   outturn-total: 57
+   outturn-percent: 86
+   draw-total: 184
+   draw-percent: 93
+   takeout-total: 22
+   takeout-percent: 78
+   shots-total: 206
+   shots-percent: 91
+ - year: 2017
+   event: Brier
+   team: "BC"
+   position: Lead
+   games: 11
+   wins: 7
+   losses: 4
+   inturn-total: 80
+   inturn-percent: 88
+   outturn-total: 129
+   outturn-percent: 88
+   draw-total: 185
+   draw-percent: 89
+   takeout-total: 24
+   takeout-percent: 77
+   shots-total: 209
+   shots-percent: 88
+---

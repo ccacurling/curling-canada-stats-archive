@@ -1,0 +1,223 @@
+---
+title: Kevin Martin
+name: Kevin Martin
+name-sort: Martin, Kevin
+games: 150
+wins: 113
+losses: 37
+inturn-total: 1383
+inturn-percent: 81
+outturn-total: 1308
+outturn-percent: 83
+draw-total: 1153
+draw-percent: 81
+takeout-total: 1538
+takeout-percent: 82
+shots-total: 2691
+shots-percent: 82
+years:
+ - year: 1991
+   event: Brier
+   team: "AB"
+   position: Fourth
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 147
+   inturn-percent: 80
+   outturn-total: 91
+   outturn-percent: 76
+   draw-total: 97
+   draw-percent: 75
+   takeout-total: 141
+   takeout-percent: 81
+   shots-total: 238
+   shots-percent: 79
+ - year: 1992
+   event: Brier
+   team: "AB"
+   position: Fourth
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 127
+   inturn-percent: 79
+   outturn-total: 96
+   outturn-percent: 83
+   draw-total: 98
+   draw-percent: 79
+   takeout-total: 125
+   takeout-percent: 82
+   shots-total: 223
+   shots-percent: 80
+ - year: 1995
+   event: Brier
+   team: "AB"
+   position: Fourth
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 123
+   inturn-percent: 76
+   outturn-total: 103
+   outturn-percent: 84
+   draw-total: 94
+   draw-percent: 77
+   takeout-total: 132
+   takeout-percent: 82
+   shots-total: 226
+   shots-percent: 80
+ - year: 1996
+   event: Brier
+   team: "AB"
+   position: Fourth
+   games: 14
+   wins: 11
+   losses: 3
+   inturn-total: 147
+   inturn-percent: 84
+   outturn-total: 114
+   outturn-percent: 83
+   draw-total: 96
+   draw-percent: 78
+   takeout-total: 165
+   takeout-percent: 87
+   shots-total: 261
+   shots-percent: 84
+ - year: 1997
+   event: Brier
+   team: "AB"
+   position: Fourth
+   games: 13
+   wins: 12
+   losses: 1
+   inturn-total: 139
+   inturn-percent: 78
+   outturn-total: 99
+   outturn-percent: 81
+   draw-total: 96
+   draw-percent: 79
+   takeout-total: 142
+   takeout-percent: 79
+   shots-total: 238
+   shots-percent: 79
+ - year: 2000
+   event: Brier
+   team: "AB"
+   position: Fourth
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 82
+   inturn-percent: 84
+   outturn-total: 109
+   outturn-percent: 72
+   draw-total: 87
+   draw-percent: 79
+   takeout-total: 104
+   takeout-percent: 76
+   shots-total: 191
+   shots-percent: 77
+ - year: 2006
+   event: Brier
+   team: "AB"
+   position: Fourth
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 111
+   inturn-percent: 82
+   outturn-total: 99
+   outturn-percent: 81
+   draw-total: 92
+   draw-percent: 85
+   takeout-total: 118
+   takeout-percent: 79
+   shots-total: 210
+   shots-percent: 81
+ - year: 2007
+   event: Brier
+   team: "AB"
+   position: Fourth
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 108
+   inturn-percent: 81
+   outturn-total: 117
+   outturn-percent: 86
+   draw-total: 94
+   draw-percent: 85
+   takeout-total: 131
+   takeout-percent: 82
+   shots-total: 225
+   shots-percent: 83
+ - year: 2008
+   event: Brier
+   team: "AB"
+   position: Fourth
+   games: 13
+   wins: 13
+   losses: 0
+   inturn-total: 95
+   inturn-percent: 86
+   outturn-total: 148
+   outturn-percent: 87
+   draw-total: 96
+   draw-percent: 89
+   takeout-total: 147
+   takeout-percent: 85
+   shots-total: 243
+   shots-percent: 87
+ - year: 2009
+   event: Brier
+   team: "AB"
+   position: Fourth
+   games: 13
+   wins: 13
+   losses: 0
+   inturn-total: 111
+   inturn-percent: 88
+   outturn-total: 107
+   outturn-percent: 91
+   draw-total: 110
+   draw-percent: 88
+   takeout-total: 108
+   takeout-percent: 90
+   shots-total: 218
+   shots-percent: 89
+ - year: 2011
+   event: Brier
+   team: "AB"
+   position: Fourth
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 108
+   inturn-percent: 78
+   outturn-total: 118
+   outturn-percent: 81
+   draw-total: 109
+   draw-percent: 78
+   takeout-total: 117
+   takeout-percent: 81
+   shots-total: 226
+   shots-percent: 80
+ - year: 2013
+   event: Brier
+   team: "AB"
+   position: Fourth
+   games: 11
+   wins: 7
+   losses: 4
+   inturn-total: 85
+   inturn-percent: 81
+   outturn-total: 107
+   outturn-percent: 86
+   draw-total: 84
+   draw-percent: 84
+   takeout-total: 108
+   takeout-percent: 84
+   shots-total: 192
+   shots-percent: 84
+---

@@ -1,0 +1,53 @@
+---
+title: Elaine McCloy
+name: Elaine McCloy
+name-sort: McCloy, Elaine
+games: 24
+wins: 14
+losses: 10
+inturn-total: 159
+inturn-percent: 73
+outturn-total: 298
+outturn-percent: 79
+draw-total: 290
+draw-percent: 75
+takeout-total: 167
+takeout-percent: 79
+shots-total: 457
+shots-percent: 77
+years:
+ - year: 1994
+   event: Hearts
+   team: "SK"
+   position: Lead
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 93
+   inturn-percent: 76
+   outturn-total: 153
+   outturn-percent: 76
+   draw-total: 152
+   draw-percent: 75
+   takeout-total: 94
+   takeout-percent: 77
+   shots-total: 246
+   shots-percent: 76
+ - year: 1995
+   event: Hearts
+   team: "SK"
+   position: Lead
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 66
+   inturn-percent: 68
+   outturn-total: 145
+   outturn-percent: 82
+   draw-total: 138
+   draw-percent: 75
+   takeout-total: 73
+   takeout-percent: 81
+   shots-total: 211
+   shots-percent: 77
+---

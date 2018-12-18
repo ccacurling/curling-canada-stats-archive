@@ -1,0 +1,257 @@
+---
+title: Russ Howard
+name: Russ Howard
+name-sort: Howard, Russ
+games: 174
+wins: 113
+losses: 61
+inturn-total: 1439
+inturn-percent: 79
+outturn-total: 1777
+outturn-percent: 83
+draw-total: 1365
+draw-percent: 81
+takeout-total: 1851
+takeout-percent: 81
+shots-total: 3216
+shots-percent: 81
+years:
+ - year: 1980
+   event: Brier
+   team: "ON"
+   position: Fourth
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 111
+   inturn-percent: 72
+   outturn-total: 95
+   outturn-percent: 69
+   draw-total: 76
+   draw-percent: 70
+   takeout-total: 130
+   takeout-percent: 71
+   shots-total: 206
+   shots-percent: 71
+ - year: 1986
+   event: Brier
+   team: "ON"
+   position: Fourth
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 105
+   inturn-percent: 80
+   outturn-total: 133
+   outturn-percent: 81
+   draw-total: 111
+   draw-percent: 80
+   takeout-total: 127
+   takeout-percent: 81
+   shots-total: 238
+   shots-percent: 81
+ - year: 1987
+   event: Brier
+   team: "ON"
+   position: Fourth
+   games: 12
+   wins: 10
+   losses: 2
+   inturn-total: 86
+   inturn-percent: 74
+   outturn-total: 137
+   outturn-percent: 84
+   draw-total: 93
+   draw-percent: 77
+   takeout-total: 130
+   takeout-percent: 82
+   shots-total: 223
+   shots-percent: 80
+ - year: 1989
+   event: Brier
+   team: "ON"
+   position: Fourth
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 121
+   inturn-percent: 80
+   outturn-total: 106
+   outturn-percent: 79
+   draw-total: 87
+   draw-percent: 82
+   takeout-total: 140
+   takeout-percent: 78
+   shots-total: 227
+   shots-percent: 79
+ - year: 1991
+   event: Brier
+   team: "ON"
+   position: Fourth
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 105
+   inturn-percent: 71
+   outturn-total: 101
+   outturn-percent: 81
+   draw-total: 91
+   draw-percent: 75
+   takeout-total: 115
+   takeout-percent: 77
+   shots-total: 206
+   shots-percent: 76
+ - year: 1992
+   event: Brier
+   team: "ON"
+   position: Fourth
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 86
+   inturn-percent: 76
+   outturn-total: 145
+   outturn-percent: 83
+   draw-total: 87
+   draw-percent: 74
+   takeout-total: 144
+   takeout-percent: 85
+   shots-total: 231
+   shots-percent: 81
+ - year: 1993
+   event: Brier
+   team: "ON"
+   position: Fourth
+   games: 14
+   wins: 11
+   losses: 3
+   inturn-total: 120
+   inturn-percent: 83
+   outturn-total: 146
+   outturn-percent: 82
+   draw-total: 85
+   draw-percent: 83
+   takeout-total: 181
+   takeout-percent: 82
+   shots-total: 266
+   shots-percent: 83
+ - year: 1994
+   event: Brier
+   team: "ON"
+   position: Fourth
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 121
+   inturn-percent: 85
+   outturn-total: 114
+   outturn-percent: 85
+   draw-total: 98
+   draw-percent: 87
+   takeout-total: 137
+   takeout-percent: 84
+   shots-total: 235
+   shots-percent: 85
+ - year: 1999
+   event: Brier
+   team: "NB"
+   position: Fourth
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 107
+   inturn-percent: 84
+   outturn-total: 129
+   outturn-percent: 82
+   draw-total: 122
+   draw-percent: 80
+   takeout-total: 114
+   takeout-percent: 85
+   shots-total: 236
+   shots-percent: 83
+ - year: 2000
+   event: Brier
+   team: "NB"
+   position: Fourth
+   games: 14
+   wins: 9
+   losses: 5
+   inturn-total: 106
+   inturn-percent: 82
+   outturn-total: 148
+   outturn-percent: 87
+   draw-total: 113
+   draw-percent: 86
+   takeout-total: 141
+   takeout-percent: 84
+   shots-total: 254
+   shots-percent: 85
+ - year: 2002
+   event: Brier
+   team: "NB"
+   position: Fourth
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 97
+   inturn-percent: 74
+   outturn-total: 149
+   outturn-percent: 87
+   draw-total: 102
+   draw-percent: 81
+   takeout-total: 144
+   takeout-percent: 82
+   shots-total: 246
+   shots-percent: 82
+ - year: 2003
+   event: Brier
+   team: "NB"
+   position: Fourth
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 74
+   inturn-percent: 82
+   outturn-total: 144
+   outturn-percent: 86
+   draw-total: 82
+   draw-percent: 83
+   takeout-total: 136
+   takeout-percent: 86
+   shots-total: 218
+   shots-percent: 85
+ - year: 2004
+   event: Brier
+   team: "NB"
+   position: Fourth
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 99
+   inturn-percent: 85
+   outturn-total: 137
+   outturn-percent: 83
+   draw-total: 126
+   draw-percent: 85
+   takeout-total: 110
+   takeout-percent: 82
+   shots-total: 236
+   shots-percent: 83
+ - year: 2009
+   event: Brier
+   team: "NB"
+   position: Fourth
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 101
+   inturn-percent: 79
+   outturn-total: 93
+   outturn-percent: 81
+   draw-total: 92
+   draw-percent: 82
+   takeout-total: 102
+   takeout-percent: 78
+   shots-total: 194
+   shots-percent: 80
+---

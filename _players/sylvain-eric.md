@@ -1,0 +1,206 @@
+---
+title: Eric Sylvain
+name: Eric Sylvain
+name-sort: Sylvain, Eric
+games: 130
+wins: 71
+losses: 59
+inturn-total: 890
+inturn-percent: 81
+outturn-total: 1607
+outturn-percent: 84
+draw-total: 1118
+draw-percent: 81
+takeout-total: 1379
+takeout-percent: 85
+shots-total: 2497
+shots-percent: 83
+years:
+ - year: 2000
+   event: Brier
+   team: "QC"
+   position: Second
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 135
+   inturn-percent: 87
+   outturn-total: 103
+   outturn-percent: 91
+   draw-total: 101
+   draw-percent: 85
+   takeout-total: 137
+   takeout-percent: 92
+   shots-total: 238
+   shots-percent: 89
+ - year: 2002
+   event: Brier
+   team: "QC"
+   position: Second
+   games: 10
+   wins: 3
+   losses: 7
+   inturn-total: 115
+   inturn-percent: 84
+   outturn-total: 81
+   outturn-percent: 79
+   draw-total: 133
+   draw-percent: 82
+   takeout-total: 63
+   takeout-percent: 81
+   shots-total: 196
+   shots-percent: 82
+ - year: 2005
+   event: Brier
+   team: "QC"
+   position: Second
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 121
+   inturn-percent: 79
+   outturn-total: 111
+   outturn-percent: 79
+   draw-total: 135
+   draw-percent: 74
+   takeout-total: 97
+   takeout-percent: 85
+   shots-total: 232
+   shots-percent: 79
+ - year: 2006
+   event: Brier
+   team: "QC"
+   position: Second
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 113
+   inturn-percent: 74
+   outturn-total: 145
+   outturn-percent: 77
+   draw-total: 94
+   draw-percent: 71
+   takeout-total: 164
+   takeout-percent: 79
+   shots-total: 258
+   shots-percent: 76
+ - year: 2008
+   event: Brier
+   team: "QC"
+   position: Second
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 75
+   inturn-percent: 73
+   outturn-total: 137
+   outturn-percent: 79
+   draw-total: 112
+   draw-percent: 76
+   takeout-total: 100
+   takeout-percent: 78
+   shots-total: 212
+   shots-percent: 77
+ - year: 2009
+   event: Brier
+   team: "QC"
+   position: Second
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 80
+   inturn-percent: 86
+   outturn-total: 141
+   outturn-percent: 86
+   draw-total: 102
+   draw-percent: 84
+   takeout-total: 119
+   takeout-percent: 87
+   shots-total: 221
+   shots-percent: 86
+ - year: 2013
+   event: Brier
+   team: "QC"
+   position: Second
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 60
+   inturn-percent: 84
+   outturn-total: 152
+   outturn-percent: 86
+   draw-total: 76
+   draw-percent: 83
+   takeout-total: 136
+   takeout-percent: 86
+   shots-total: 212
+   shots-percent: 85
+ - year: 2014
+   event: Brier
+   team: "QC"
+   position: Second
+   games: 14
+   wins: 8
+   losses: 6
+   inturn-total: 49
+   inturn-percent: 78
+   outturn-total: 233
+   outturn-percent: 88
+   draw-total: 113
+   draw-percent: 86
+   takeout-total: 169
+   takeout-percent: 86
+   shots-total: 282
+   shots-percent: 86
+ - year: 2015
+   event: Brier
+   team: "QC"
+   position: Second
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 38
+   inturn-percent: 79
+   outturn-total: 182
+   outturn-percent: 85
+   draw-total: 91
+   draw-percent: 83
+   takeout-total: 129
+   takeout-percent: 85
+   shots-total: 220
+   shots-percent: 84
+ - year: 2016
+   event: Brier
+   team: "QC"
+   position: Second
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 65
+   inturn-percent: 84
+   outturn-total: 147
+   outturn-percent: 90
+   draw-total: 88
+   draw-percent: 85
+   takeout-total: 124
+   takeout-percent: 90
+   shots-total: 212
+   shots-percent: 88
+ - year: 2017
+   event: Brier
+   team: "QC"
+   position: Second
+   games: 11
+   wins: 7
+   losses: 4
+   inturn-total: 39
+   inturn-percent: 85
+   outturn-total: 175
+   outturn-percent: 84
+   draw-total: 73
+   draw-percent: 82
+   takeout-total: 141
+   takeout-percent: 85
+   shots-total: 214
+   shots-percent: 84
+---

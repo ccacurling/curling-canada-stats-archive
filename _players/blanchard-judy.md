@@ -1,0 +1,155 @@
+---
+title: Judy Blanchard
+name: Judy Blanchard
+name-sort: Blanchard, Judy
+games: 87
+wins: 34
+losses: 53
+inturn-total: 672
+inturn-percent: 73
+outturn-total: 941
+outturn-percent: 75
+draw-total: 1057
+draw-percent: 76
+takeout-total: 556
+takeout-percent: 70
+shots-total: 1613
+shots-percent: 74
+years:
+ - year: 1987
+   event: Hearts
+   team: "NB"
+   position: Lead
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 63
+   inturn-percent: 64
+   outturn-total: 132
+   outturn-percent: 66
+   draw-total: 106
+   draw-percent: 69
+   takeout-total: 89
+   takeout-percent: 60
+   shots-total: 195
+   shots-percent: 65
+ - year: 1989
+   event: Hearts
+   team: "NB"
+   position: Lead
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 78
+   inturn-percent: 72
+   outturn-total: 136
+   outturn-percent: 74
+   draw-total: 109
+   draw-percent: 78
+   takeout-total: 105
+   takeout-percent: 69
+   shots-total: 214
+   shots-percent: 73
+ - year: 1990
+   event: Hearts
+   team: "NB"
+   position: Lead
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 73
+   inturn-percent: 75
+   outturn-total: 123
+   outturn-percent: 68
+   draw-total: 121
+   draw-percent: 71
+   takeout-total: 75
+   takeout-percent: 69
+   shots-total: 196
+   shots-percent: 70
+ - year: 1992
+   event: Hearts
+   team: "NB"
+   position: Lead
+   games: 11
+   wins: 3
+   losses: 8
+   inturn-total: 121
+   inturn-percent: 72
+   outturn-total: 92
+   outturn-percent: 70
+   draw-total: 127
+   draw-percent: 75
+   takeout-total: 86
+   takeout-percent: 66
+   shots-total: 213
+   shots-percent: 71
+ - year: 1994
+   event: Hearts
+   team: "NB"
+   position: Lead
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 95
+   inturn-percent: 75
+   outturn-total: 115
+   outturn-percent: 80
+   draw-total: 145
+   draw-percent: 79
+   takeout-total: 65
+   takeout-percent: 74
+   shots-total: 210
+   shots-percent: 77
+ - year: 2000
+   event: Hearts
+   team: "NB"
+   position: Lead
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 89
+   inturn-percent: 83
+   outturn-total: 119
+   outturn-percent: 77
+   draw-total: 156
+   draw-percent: 81
+   takeout-total: 52
+   takeout-percent: 75
+   shots-total: 208
+   shots-percent: 79
+ - year: 2003
+   event: Hearts
+   team: "NB"
+   position: Lead
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 80
+   inturn-percent: 70
+   outturn-total: 134
+   outturn-percent: 85
+   draw-total: 152
+   draw-percent: 78
+   takeout-total: 62
+   takeout-percent: 81
+   shots-total: 214
+   shots-percent: 79
+ - year: 2004
+   event: Hearts
+   team: "NB"
+   position: Lead
+   games: 9
+   wins: 2
+   losses: 7
+   inturn-total: 73
+   inturn-percent: 71
+   outturn-total: 90
+   outturn-percent: 76
+   draw-total: 141
+   draw-percent: 74
+   takeout-total: 22
+   takeout-percent: 74
+   shots-total: 163
+   shots-percent: 74
+---

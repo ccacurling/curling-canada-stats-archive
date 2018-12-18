@@ -1,0 +1,269 @@
+---
+layout: default
+---
+{% assign event_collection = site.collections | where: "label", page.collection | first %}
+<h1>{{ page.title }}</h1>
+<p class="font-italic">{{ page.location }}<br>{{ page.dates }}</p>
+<h2>Playoff Chart</h2>
+<p><img src="{{ site.baseurl }}/assets/images/playoffs/{{ page.collection }}/{{ page.year }}.jpg" /></p>
+<h2>Championship Final</h2>
+{% assign final = page.draws.last.games.last %}
+<div class="col-lg-6">
+<table class="table">
+  <tr>
+    <th></th>
+    {% for i in (1..final.ends.size) %}
+    <th>{{ i }}</th>
+    {% endfor %}
+    <th>Total</th>
+    <th>Time</th>
+  </tr>
+  <tr>
+    <th class="team1"><i class="fa fa-circle" aria-hidden="true"></i> {{ final.team1.name }}{% if final.team1.lsfe == true %} <i class="fa fa-star" aria-hidden="true" data-toggle="tooltip" data-placement="right" title="Last Shot First End"></i>{% endif %}</th>
+    {% for end in final.ends %}
+    <td>{{ end.team1 }}</td>
+    {% endfor %}
+    <td>{{ final.team1.score }}</td>
+    <td>{{ final.team1.time }}</td>
+  </tr>
+  <tr>
+    <th class="team2"><i class="fa fa-circle" aria-hidden="true"></i> {{ final.team2.name }}{% if final.team2.lsfe == true %} <i class="fa fa-star" aria-hidden="true" data-toggle="tooltip" data-placement="right" title="Last Shot First End"></i>{% endif %}</th>
+    {% for end in final.ends %}
+    <td>{{ end.team2 }}</td>
+    {% endfor %}
+    <td>{{ final.team2.score }}</td>
+    <td>{{ final.team2.time }}</td>
+  </tr>
+</table>
+</div>
+<ul class="nav nav-tabs" role="tablist" id="event-nav">
+  <li class="nav-item">
+    <a class="nav-link active" id="standings-tab" data-toggle="tab" href="#standings" role="tab" aria-controls="standings" aria-selected="true">Standings</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="teams-tab" data-toggle="tab" href="#teams" role="tab" aria-controls="teams" aria-selected="false">Teams</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="draw-tab" data-toggle="tab" href="#draw" role="tab" aria-controls="draw" aria-selected="false">Results by Draw</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="stats-tab" data-toggle="tab" href="#stats" role="tab" aria-controls="draw" aria-selected="false">Event Statistics</a>
+  </li>
+</ul>
+<div class="tab-content" id="event-tabs">
+  <div class="tab-pane fade show active" id="standings" role="tabpanel" aria-labelledby="standings-tab">
+
+    {% for round in page.standings %}
+    <h3>{{ round.title }}</h3>
+    <div class="row">
+      {% for pool in round.pools %}
+      <div class="col-md-6 col-lg-4 col-xl-3">
+      <table class="table table-striped table-hover">
+        <thead>
+          {% if pool.title %}
+          <tr><th class="text-center" colspan="3">{{ pool.title }}</th></tr>
+          {% endif %}
+          <tr><th>Team</th><th>Wins</th><th>Losses</th></tr>
+        </thead>
+        <tbody>
+          {% for team in pool.teams %}
+          <tr><td>{{ team.name }}</td><td>{{ team.wins }}</td><td>{{ team.losses }}</td></tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      </div>
+      {% endfor %}
+    </div>
+    {% endfor %}
+
+  </div>
+  <div class="tab-pane fade" id="teams" role="tabpanel" aria-labelledby="teams-tab">
+
+    {% if page.teams %}
+    <div class="row" id="event-teams">
+    {% assign teams = page.teams | sort:"abbr" %}
+    {% for team in teams %}
+      <div class="col-md-6 col-lg-4 col-xl-3">
+        <div class="card">
+          {% if team.abbr == page.winner-team %}
+          <div class="card-status bg-yellow"></div>
+          {% endif %}
+          <div class="card-header">
+            <h3 class="card-title">{% if team.abbr == page.winner-team %}<i class="fe fe-award text-yellow" title="Event Winner"></i> {% endif %}{{ team.name }} (<a href="team/{{ team.abbr | downcase }}">{{ team.abbr }}</a>)</h3>
+            <div class="card-options">
+              <a href="#" class="card-options-collapse" data-toggle="card-collapse"><i class="fe fe-chevron-up"></i></a>
+            </div>
+          </div>
+          <div class="card-body">
+            <dl class="row">
+              {% for member in team.members %}
+              <dt class="col-sm-4">{{ member.title }}</dt>
+              <dd class="col-sm-8">{% if member.title == "Coach" %}{{ member.name }}{% else %}<a href="../players/{{ member.name | slugify }}">{{ member.name }}</a>{% endif %}{% if member.title != 'Fourth' and member.role == 'Skip' %} (S){% endif %}</dd>
+              {% endfor %}
+            </dl>
+          </div>
+          <div class="card-footer">
+            {{ team.club }}, {{ team.city }}
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+    </div>
+    {% endif %}
+
+  </div>
+  <div class="tab-pane fade" id="draw" role="tabpanel" aria-labelledby="draw-tab">
+    <table class="table table-striped table-hover">
+      <tr>
+        <th>Draw</th>
+        {% for i in (1..page.sheets) %}
+        <th colspan="2">Sheet &#{{ i | plus: 64 }};</th>
+        {% endfor %}
+      </tr>
+  {% for draw in page.draws %}
+      <tr>
+        <td rowspan="2"><a href="#draw-{{ draw.number }}">{{ draw.number }}</a></td>
+      {% assign i = 1 %}
+      {% for game in draw.games %}
+        {% for counter in (i..game.sheet) %}{% if counter == game.sheet %}{% break %}{% endif %}<td></td><td></td>{% endfor %}
+        {% assign i = game.sheet | plus: 1 %}
+        <td class="team1"><a href="#{{ game.name | slugify }}">{{ game.team1.name }}</a></td><td><a href="#{{ game.name | slugify }}">{{ game.team1.score }}</a></td>
+      {% endfor %}
+      {% assign i = i | minus: 1 %}
+      {% for counter in (i..page.sheets) %}{% if counter == page.sheets %}{% break %}{% endif %}<td></td><td></td>{% endfor %}
+      </tr>
+      <tr>
+      {% assign i = 1 %}
+      {% for game in draw.games %}
+        {% for counter in (i..game.sheet) %}{% if counter == game.sheet %}{% break %}{% endif %}<td></td><td></td>{% endfor %}
+        {% assign i = game.sheet | plus: 1 %}
+        <td class="team2"><a href="#{{ game.name | slugify }}">{{ game.team2.name }}</a></td><td><a href="#{{ game.name | slugify }}">{{ game.team2.score }}</a></td>
+      {% endfor %}
+      {% assign i = i | minus: 1 %}
+      {% for counter in (i..page.sheets) %}{% if counter == page.sheets %}{% break %}{% endif %}<td></td><td></td>{% endfor %}
+      </tr>
+  {% endfor %}
+    </table>
+    <h2>Game Statistics</h2>
+    {% for draw in page.draws %}
+    <div class="row flex-row" id="draw-{{ draw.number }}">
+      {% for game in draw.games %}
+      <div class="col-lg-6">
+      <h3 id="{{ game.name | slugify }}">{{ game.name }}</h3>
+      <table class="table">
+        <tr>
+          <th></th>
+          {% for i in (1..game.ends.size) %}
+          <th>{{ i }}</th>
+          {% endfor %}
+          <th>Total</th>
+          <th>Time</th>
+        </tr>
+        <tr>
+          <th class="team1"><i class="fa fa-circle" aria-hidden="true"></i> {{ game.team1.name }}{% if game.team1.lsfe == true %} <i class="fa fa-star" aria-hidden="true" data-toggle="tooltip" data-placement="right" title="Last Shot First End"></i>{% endif %}</th>
+          {% for end in game.ends %}
+          <td>{{ end.team1 }}</td>
+          {% endfor %}
+          <td>{{ game.team1.score }}</td>
+          <td>{{ game.team1.time }}</td>
+        </tr>
+        <tr>
+          <th class="team2"><i class="fa fa-circle" aria-hidden="true"></i> {{ game.team2.name }}{% if game.team2.lsfe == true %} <i class="fa fa-star" aria-hidden="true" data-toggle="tooltip" data-placement="right" title="Last Shot First End"></i>{% endif %}</th>
+          {% for end in game.ends %}
+          <td>{{ end.team2 }}</td>
+          {% endfor %}
+          <td>{{ game.team2.score }}</td>
+          <td>{{ game.team2.time }}</td>
+        </tr>
+      </table>
+      <div class="row flex-row">
+      <div class="col-6">
+        <table class="table">
+          <thead>
+          <tr>
+            <th colspan="4" class="team1"><i class="fa fa-circle" aria-hidden="true"></i> {{ game.team1.name }}</th>
+          </tr>
+          <tr>
+            <th>Pos</th>
+            <th>Player</th>
+            <th>SHT</th>
+            <th>PCT</th>
+          </tr>
+          </thead>
+          <tbody>
+          {% for player in game.team1.players %}
+          <tr>
+            <td>{{ player.position | capitalize }}</td>
+            <td><a href="../players/{{ player.name | slugify }}">{{ player.name }}</a></td>
+            {% if player.shots == 0 %}
+            <td>--</td><td>--</td>
+            {% else %}
+            <td>{{ player.shots }}</td>
+            <td>{{ player.percent }}</td>
+            {% endif %}
+          </tr>
+          {% endfor %}
+          </tbody>
+          <tfoot>
+          <tr>
+            <td colspan="2">Team</td>
+            {% if game.team1.shots == 0 %}
+            <td>--</td><td>--</td>
+            {% else %}
+            <td>{{ game.team1.shots }}</td>
+            <td>{{ game.team1.percent }}</td>
+            {% endif %}
+          </tr>
+          </tfoot>
+        </table>
+      </div>
+      <div class="col-6">
+        <table class="table">
+          <thead>
+          <tr>
+            <th colspan="4" class="team2"><i class="fa fa-circle" aria-hidden="true"></i> {{ game.team2.name }}</th>
+          </tr>
+          <tr>
+            <th>Pos</th>
+            <th>Player</th>
+            <th>SHT</th>
+            <th>PCT</th>
+          </tr>
+          </thead>
+          <tbody>
+          {% for player in game.team2.players %}
+          <tr>
+            <td>{{ player.position | capitalize }}</td>
+            <td><a href="../players/{{ player.name | slugify }}">{{ player.name }}</a></td>
+            {% if player.shots == 0 %}
+            <td>--</td><td>--</td>
+            {% else %}
+            <td>{{ player.shots }}</td>
+            <td>{{ player.percent }}</td>
+            {% endif %}
+          </tr>
+          {% endfor %}
+          </tbody>
+          <tfoot>
+          <tr>
+            <td colspan="2">Team</td>
+            {% if game.team2.shots == 0 %}
+            <td>--</td><td>--</td>
+            {% else %}
+            <td>{{ game.team2.shots }}</td>
+            <td>{{ game.team2.percent }}</td>
+            {% endif %}
+          </tr>
+          </tfoot>
+        </table>
+      </div>
+      </div>
+      </div>
+      {% endfor %}
+    </div>
+    {% endfor %}
+  </div>
+  <div class="tab-pane fade" id="stats" role="tabpanel" aria-labelledby="stats-tab">
+{% include {{ page.collection }}/stats/{{ page.year }}.html %}
+  </div>
+</div>

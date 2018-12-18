@@ -1,0 +1,155 @@
+---
+title: Don Walchuk
+name: Don Walchuk
+name-sort: Walchuk, Don
+games: 97
+wins: 75
+losses: 22
+inturn-total: 959
+inturn-percent: 85
+outturn-total: 862
+outturn-percent: 85
+draw-total: 710
+draw-percent: 82
+takeout-total: 1111
+takeout-percent: 86
+shots-total: 1821
+shots-percent: 85
+years:
+ - year: 1985
+   event: Brier
+   team: "AB"
+   position: Lead
+   games: 12
+   wins: 11
+   losses: 1
+   inturn-total: 122
+   inturn-percent: 78
+   outturn-total: 100
+   outturn-percent: 80
+   draw-total: 81
+   draw-percent: 79
+   takeout-total: 141
+   takeout-percent: 79
+   shots-total: 222
+   shots-percent: 79
+ - year: 1987
+   event: Brier
+   team: "AB"
+   position: Second
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 108
+   inturn-percent: 85
+   outturn-total: 104
+   outturn-percent: 90
+   draw-total: 110
+   draw-percent: 85
+   takeout-total: 102
+   takeout-percent: 90
+   shots-total: 212
+   shots-percent: 88
+ - year: 1988
+   event: Brier
+   team: "AB"
+   position: Second
+   games: 12
+   wins: 12
+   losses: 0
+   inturn-total: 127
+   inturn-percent: 87
+   outturn-total: 109
+   outturn-percent: 87
+   draw-total: 94
+   draw-percent: 80
+   takeout-total: 142
+   takeout-percent: 91
+   shots-total: 236
+   shots-percent: 87
+ - year: 1989
+   event: Brier
+   team: "AB"
+   position: Second
+   games: 12
+   wins: 9
+   losses: 3
+   inturn-total: 118
+   inturn-percent: 87
+   outturn-total: 118
+   outturn-percent: 80
+   draw-total: 107
+   draw-percent: 82
+   takeout-total: 129
+   takeout-percent: 85
+   shots-total: 236
+   shots-percent: 84
+ - year: 1996
+   event: Brier
+   team: "AB"
+   position: Third
+   games: 14
+   wins: 11
+   losses: 3
+   inturn-total: 144
+   inturn-percent: 86
+   outturn-total: 121
+   outturn-percent: 84
+   draw-total: 74
+   draw-percent: 85
+   takeout-total: 191
+   takeout-percent: 85
+   shots-total: 265
+   shots-percent: 85
+ - year: 1997
+   event: Brier
+   team: "AB"
+   position: Third
+   games: 13
+   wins: 12
+   losses: 1
+   inturn-total: 124
+   inturn-percent: 81
+   outturn-total: 116
+   outturn-percent: 86
+   draw-total: 82
+   draw-percent: 77
+   takeout-total: 158
+   takeout-percent: 88
+   shots-total: 240
+   shots-percent: 84
+ - year: 2000
+   event: Brier
+   team: "AB"
+   position: Third
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 88
+   inturn-percent: 89
+   outturn-total: 108
+   outturn-percent: 89
+   draw-total: 89
+   draw-percent: 86
+   takeout-total: 107
+   takeout-percent: 91
+   shots-total: 196
+   shots-percent: 89
+ - year: 2006
+   event: Brier
+   team: "AB"
+   position: Third
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 128
+   inturn-percent: 84
+   outturn-total: 86
+   outturn-percent: 82
+   draw-total: 73
+   draw-percent: 84
+   takeout-total: 141
+   takeout-percent: 83
+   shots-total: 214
+   shots-percent: 84
+---

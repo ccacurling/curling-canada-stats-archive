@@ -1,0 +1,62 @@
+---
+title: Brenda Bohmer vs Theresa Breen
+player1:              
+  name: Bohmer, Brenda
+  percent: 80         
+  wins: 3             
+  losses: 0           
+player2:              
+  name: Breen, Theresa
+  percent: 81         
+  wins: 0             
+  losses: 3           
+games:
+ - player1:          
+     team: 'AB'      
+     position: Second
+     percent: 93     
+     win: 1          
+     loss: 0         
+   player2:         
+     team: 'ON'     
+     position: Third
+     percent: 68    
+     win: 0         
+     loss: 1        
+   event: Hearts       
+   year: 1998          
+   draw: Round Robin(2)
+   score: AB 5 - ON 4  
+ - player1:          
+     team: 'AB'      
+     position: Second
+     percent: 72     
+     win: 1          
+     loss: 0         
+   player2:         
+     team: 'ON'     
+     position: Third
+     percent: 89    
+     win: 0         
+     loss: 1        
+   event: Hearts     
+   year: 1998        
+   draw: Playoff(20) 
+   score: AB 7 - ON 6
+ - player1:          
+     team: 'AB'      
+     position: Second
+     percent: 77     
+     win: 1          
+     loss: 0         
+   player2:         
+     team: 'ON'     
+     position: Third
+     percent: 85    
+     win: 0         
+     loss: 1        
+   event: Hearts     
+   year: 1998        
+   draw: Playoff(22) 
+   score: AB 7 - ON 6
+---

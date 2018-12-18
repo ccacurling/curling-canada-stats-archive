@@ -1,0 +1,159 @@
+---
+title: Richard Hart
+name: Richard Hart
+name-sort: Hart, Richard
+games: 103
+wins: 73
+losses: 30
+inturn-total: 1106
+inturn-percent: 86
+outturn-total: 815
+outturn-percent: 86
+draw-total: 716
+draw-percent: 85
+takeout-total: 1205
+takeout-percent: 86
+shots-total: 1921
+shots-percent: 86
+years:
+ - year: 1995
+   event: Brier
+   team: "ON"
+   position: Alternate
+ - year: 2006
+   event: Brier
+   team: "ON"
+   position: Third
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 142
+   inturn-percent: 84
+   outturn-total: 99
+   outturn-percent: 83
+   draw-total: 95
+   draw-percent: 83
+   takeout-total: 146
+   takeout-percent: 84
+   shots-total: 241
+   shots-percent: 84
+ - year: 2007
+   event: Brier
+   team: "ON"
+   position: Third
+   games: 14
+   wins: 12
+   losses: 2
+   inturn-total: 141
+   inturn-percent: 84
+   outturn-total: 119
+   outturn-percent: 84
+   draw-total: 100
+   draw-percent: 89
+   takeout-total: 160
+   takeout-percent: 80
+   shots-total: 260
+   shots-percent: 84
+ - year: 2008
+   event: Brier
+   team: "ON"
+   position: Third
+   games: 14
+   wins: 11
+   losses: 3
+   inturn-total: 158
+   inturn-percent: 85
+   outturn-total: 104
+   outturn-percent: 81
+   draw-total: 92
+   draw-percent: 83
+   takeout-total: 170
+   takeout-percent: 84
+   shots-total: 262
+   shots-percent: 83
+ - year: 2009
+   event: Brier
+   team: "ON"
+   position: Third
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 137
+   inturn-percent: 86
+   outturn-total: 113
+   outturn-percent: 89
+   draw-total: 98
+   draw-percent: 86
+   takeout-total: 152
+   takeout-percent: 88
+   shots-total: 250
+   shots-percent: 87
+ - year: 2010
+   event: Brier
+   team: "ON"
+   position: Third
+   games: 13
+   wins: 12
+   losses: 1
+   inturn-total: 139
+   inturn-percent: 87
+   outturn-total: 91
+   outturn-percent: 89
+   draw-total: 81
+   draw-percent: 85
+   takeout-total: 149
+   takeout-percent: 89
+   shots-total: 230
+   shots-percent: 88
+ - year: 2011
+   event: Brier
+   team: "ON"
+   position: Third
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 132
+   inturn-percent: 86
+   outturn-total: 120
+   outturn-percent: 92
+   draw-total: 92
+   draw-percent: 86
+   takeout-total: 160
+   takeout-percent: 90
+   shots-total: 252
+   shots-percent: 89
+ - year: 2016
+   event: Brier
+   team: "ON"
+   position: Third
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 144
+   inturn-percent: 91
+   outturn-total: 70
+   outturn-percent: 87
+   draw-total: 67
+   draw-percent: 88
+   takeout-total: 147
+   takeout-percent: 91
+   shots-total: 214
+   shots-percent: 90
+ - year: 2017
+   event: Brier
+   team: "ON"
+   position: Third
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 113
+   inturn-percent: 87
+   outturn-total: 99
+   outturn-percent: 83
+   draw-total: 91
+   draw-percent: 84
+   takeout-total: 121
+   takeout-percent: 86
+   shots-total: 212
+   shots-percent: 85
+---

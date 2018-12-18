@@ -1,0 +1,94 @@
+---
+title: Peter Gallant vs Kevin Martin
+player1:              
+  name: Gallant, Peter
+  percent: 79         
+  wins: 0             
+  losses: 5           
+player2:              
+  name: Martin, Kevin 
+  percent: 80         
+  wins: 5             
+  losses: 0           
+games:
+ - player1:         
+     team: 'PE'     
+     position: Third
+     percent: 81    
+     win: 0         
+     loss: 1        
+   player2:          
+     team: 'AB'      
+     position: Fourth
+     percent: 74     
+     win: 1          
+     loss: 0         
+   event: Brier        
+   year: 1991          
+   draw: Round Robin(6)
+   score: PE 4 - AB 6  
+ - player1:         
+     team: 'PE'     
+     position: Third
+     percent: 86    
+     win: 0         
+     loss: 1        
+   player2:          
+     team: 'AB'      
+     position: Fourth
+     percent: 84     
+     win: 1          
+     loss: 0         
+   event: Brier        
+   year: 1995          
+   draw: Round Robin(5)
+   score: PE 4 - AB 8  
+ - player1:         
+     team: 'PE'     
+     position: Third
+     percent: 74    
+     win: 0         
+     loss: 1        
+   player2:          
+     team: 'AB'      
+     position: Fourth
+     percent: 68     
+     win: 1          
+     loss: 0         
+   event: Brier        
+   year: 1997          
+   draw: Round Robin(5)
+   score: PE 5 - AB 10 
+ - player1:          
+     team: 'PE'      
+     position: Fourth
+     percent: 74     
+     win: 0          
+     loss: 1         
+   player2:          
+     team: 'AB'      
+     position: Fourth
+     percent: 88     
+     win: 1          
+     loss: 0         
+   event: Brier         
+   year: 2007           
+   draw: Round Robin(15)
+   score: AB 8 - PE 5   
+ - player1:          
+     team: 'PE'      
+     position: Fourth
+     percent: 77     
+     win: 0          
+     loss: 1         
+   player2:          
+     team: 'AB'      
+     position: Fourth
+     percent: 91     
+     win: 1          
+     loss: 0         
+   event: Brier        
+   year: 2008          
+   draw: Round Robin(7)
+   score: AB 9 - PE 4  
+---

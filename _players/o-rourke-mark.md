@@ -1,0 +1,243 @@
+---
+title: Mark O'Rourke
+name: Mark O'Rourke
+name-sort: O'Rourke, Mark
+games: 111
+wins: 41
+losses: 70
+inturn-total: 851
+inturn-percent: 78
+outturn-total: 1254
+outturn-percent: 83
+draw-total: 1038
+draw-percent: 82
+takeout-total: 1067
+takeout-percent: 80
+shots-total: 2105
+shots-percent: 81
+years:
+ - year: 1991
+   event: Brier
+   team: "PE"
+   position: Second
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 107
+   inturn-percent: 74
+   outturn-total: 113
+   outturn-percent: 87
+   draw-total: 72
+   draw-percent: 82
+   takeout-total: 148
+   takeout-percent: 80
+   shots-total: 220
+   shots-percent: 80
+ - year: 1993
+   event: Brier
+   team: "PE"
+   position: Second
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 115
+   inturn-percent: 81
+   outturn-total: 107
+   outturn-percent: 86
+   draw-total: 122
+   draw-percent: 82
+   takeout-total: 100
+   takeout-percent: 85
+   shots-total: 222
+   shots-percent: 83
+ - year: 1995
+   event: Brier
+   team: "PE"
+   position: Second
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 87
+   inturn-percent: 74
+   outturn-total: 143
+   outturn-percent: 85
+   draw-total: 93
+   draw-percent: 81
+   takeout-total: 137
+   takeout-percent: 81
+   shots-total: 230
+   shots-percent: 81
+ - year: 1996
+   event: Brier
+   team: "PE"
+   position: Alternate
+ - year: 1997
+   event: Brier
+   team: "PE"
+   position: Second
+   games: 10
+   wins: 3
+   losses: 7
+   inturn-total: 87
+   inturn-percent: 76
+   outturn-total: 103
+   outturn-percent: 78
+   draw-total: 83
+   draw-percent: 82
+   takeout-total: 107
+   takeout-percent: 73
+   shots-total: 190
+   shots-percent: 77
+ - year: 1997
+   event: Brier
+   team: "PE"
+   position: Third
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 8
+   inturn-percent: 94
+   outturn-total: 12
+   outturn-percent: 75
+   draw-total: 8
+   draw-percent: 91
+   takeout-total: 12
+   takeout-percent: 77
+   shots-total: 20
+   shots-percent: 83
+ - year: 1997
+   event: Brier
+   team: Totals
+   games: 11
+   wins: 3
+   losses: 8
+   inturn-total: 95
+   inturn-percent: 77
+   outturn-total: 115
+   outturn-percent: 77
+   draw-total: 91
+   draw-percent: 83
+   takeout-total: 119
+   takeout-percent: 73
+   shots-total: 210
+   shots-percent: 77
+ - year: 1999
+   event: Brier
+   team: "PE"
+   position: Second
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 87
+   inturn-percent: 78
+   outturn-total: 123
+   outturn-percent: 83
+   draw-total: 84
+   draw-percent: 82
+   takeout-total: 126
+   takeout-percent: 80
+   shots-total: 210
+   shots-percent: 81
+ - year: 2001
+   event: Brier
+   team: "PE"
+   position: Second
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 65
+   inturn-percent: 83
+   outturn-total: 151
+   outturn-percent: 89
+   draw-total: 93
+   draw-percent: 85
+   takeout-total: 123
+   takeout-percent: 88
+   shots-total: 216
+   shots-percent: 87
+ - year: 2006
+   event: Brier
+   team: "PE"
+   position: Second
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 2
+   inturn-percent: 100
+   outturn-total: 18
+   outturn-percent: 82
+   draw-total: 11
+   draw-percent: 82
+   takeout-total: 9
+   takeout-percent: 86
+   shots-total: 20
+   shots-percent: 84
+ - year: 2007
+   event: Brier
+   team: "PE"
+   position: Second
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 80
+   inturn-percent: 79
+   outturn-total: 126
+   outturn-percent: 80
+   draw-total: 99
+   draw-percent: 82
+   takeout-total: 107
+   takeout-percent: 78
+   shots-total: 206
+   shots-percent: 80
+ - year: 2008
+   event: Brier
+   team: "PE"
+   position: Second
+   games: 10
+   wins: 3
+   losses: 7
+   inturn-total: 76
+   inturn-percent: 75
+   outturn-total: 102
+   outturn-percent: 75
+   draw-total: 97
+   draw-percent: 76
+   takeout-total: 81
+   takeout-percent: 74
+   shots-total: 178
+   shots-percent: 75
+ - year: 2009
+   event: Brier
+   team: "PE"
+   position: Lead
+   games: 11
+   wins: 2
+   losses: 9
+   inturn-total: 43
+   inturn-percent: 77
+   outturn-total: 150
+   outturn-percent: 86
+   draw-total: 173
+   draw-percent: 84
+   takeout-total: 20
+   takeout-percent: 78
+   shots-total: 193
+   shots-percent: 84
+ - year: 2010
+   event: Brier
+   team: "PE"
+   position: Second
+   games: 11
+   wins: 3
+   losses: 8
+   inturn-total: 94
+   inturn-percent: 81
+   outturn-total: 106
+   outturn-percent: 78
+   draw-total: 103
+   draw-percent: 78
+   takeout-total: 97
+   takeout-percent: 81
+   shots-total: 200
+   shots-percent: 79
+---

@@ -1,0 +1,292 @@
+---
+title: Sharon Cormier
+name: Sharon Cormier
+name-sort: Cormier, Sharon
+games: 100
+wins: 34
+losses: 66
+inturn-total: 931
+inturn-percent: 73
+outturn-total: 954
+outturn-percent: 71
+draw-total: 1030
+draw-percent: 71
+takeout-total: 855
+takeout-percent: 73
+shots-total: 1885
+shots-percent: 72
+years:
+ - year: 1993
+   event: Hearts
+   team: "TR"
+   position: Third
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 106
+   inturn-percent: 74
+   outturn-total: 111
+   outturn-percent: 69
+   draw-total: 97
+   draw-percent: 67
+   takeout-total: 120
+   takeout-percent: 75
+   shots-total: 217
+   shots-percent: 72
+ - year: 1997
+   event: Hearts
+   team: "TR"
+   position: Third
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 103
+   inturn-percent: 76
+   outturn-total: 114
+   outturn-percent: 71
+   draw-total: 91
+   draw-percent: 77
+   takeout-total: 126
+   takeout-percent: 71
+   shots-total: 217
+   shots-percent: 74
+ - year: 1998
+   event: Hearts
+   team: "TR"
+   position: Second
+   games: 10
+   wins: 4
+   losses: 6
+   inturn-total: 96
+   inturn-percent: 72
+   outturn-total: 92
+   outturn-percent: 68
+   draw-total: 76
+   draw-percent: 59
+   takeout-total: 112
+   takeout-percent: 78
+   shots-total: 188
+   shots-percent: 70
+ - year: 2002
+   event: Hearts
+   team: "TR"
+   position: Second
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 91
+   inturn-percent: 81
+   outturn-total: 115
+   outturn-percent: 77
+   draw-total: 98
+   draw-percent: 78
+   takeout-total: 108
+   takeout-percent: 81
+   shots-total: 206
+   shots-percent: 79
+ - year: 2003
+   event: Hearts
+   team: "TR"
+   position: Third
+   games: 11
+   wins: 2
+   losses: 9
+   inturn-total: 97
+   inturn-percent: 72
+   outturn-total: 115
+   outturn-percent: 70
+   draw-total: 122
+   draw-percent: 71
+   takeout-total: 90
+   takeout-percent: 70
+   shots-total: 212
+   shots-percent: 71
+ - year: 2009
+   event: Hearts
+   team: "TR"
+   position: Alternate
+ - year: 2010
+   event: Hearts
+   team: "TR"
+   position: Fourth
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 100
+   inturn-percent: 66
+   outturn-total: 106
+   outturn-percent: 71
+   draw-total: 112
+   draw-percent: 67
+   takeout-total: 94
+   takeout-percent: 70
+   shots-total: 206
+   shots-percent: 68
+ - year: 2011
+   event: Hearts
+   team: "TR"
+   position: Lead
+   games: 2
+   wins: 1
+   losses: 1
+   inturn-total: 21
+   inturn-percent: 86
+   outturn-total: 17
+   outturn-percent: 68
+   draw-total: 32
+   draw-percent: 77
+   takeout-total: 6
+   takeout-percent: 79
+   shots-total: 38
+   shots-percent: 78
+ - year: 2011
+   event: Hearts
+   team: "TR"
+   position: Second
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 6
+   inturn-percent: 83
+   outturn-total: 0
+   outturn-percent:
+   draw-total: 6
+   draw-percent: 83
+   takeout-total: 0
+   takeout-percent:
+   shots-total: 6
+   shots-percent: 83
+ - year: 2011
+   event: Hearts
+   team: Totals
+   games: 3
+   wins: 1
+   losses: 2
+   inturn-total: 27
+   inturn-percent: 85
+   outturn-total: 17
+   outturn-percent: 68
+   draw-total: 38
+   draw-percent: 78
+   takeout-total: 6
+   takeout-percent: 79
+   shots-total: 44
+   shots-percent: 78
+ - year: 2012
+   event: Hearts
+   team: "TR"
+   position: Third
+   games: 9
+   wins: 4
+   losses: 5
+   inturn-total: 87
+   inturn-percent: 71
+   outturn-total: 77
+   outturn-percent: 72
+   draw-total: 85
+   draw-percent: 75
+   takeout-total: 79
+   takeout-percent: 67
+   shots-total: 164
+   shots-percent: 71
+ - year: 2012
+   event: Hearts
+   team: "TR"
+   position: Fourth
+   games: 2
+   wins: 0
+   losses: 2
+   inturn-total: 20
+   inturn-percent: 63
+   outturn-total: 15
+   outturn-percent: 83
+   draw-total: 18
+   draw-percent: 69
+   takeout-total: 17
+   takeout-percent: 74
+   shots-total: 35
+   shots-percent: 71
+ - year: 2012
+   event: Hearts
+   team: Totals
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 107
+   inturn-percent: 69
+   outturn-total: 92
+   outturn-percent: 74
+   draw-total: 103
+   draw-percent: 74
+   takeout-total: 96
+   takeout-percent: 68
+   shots-total: 199
+   shots-percent: 71
+ - year: 2013
+   event: Hearts
+   team: "NT"
+   position: Second
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 13
+   inturn-percent: 69
+   outturn-total: 7
+   outturn-percent: 93
+   draw-total: 13
+   draw-percent: 73
+   takeout-total: 7
+   takeout-percent: 86
+   shots-total: 20
+   shots-percent: 78
+ - year: 2013
+   event: Hearts
+   team: "NT"
+   position: Third
+   games: 9
+   wins: 1
+   losses: 8
+   inturn-total: 83
+   inturn-percent: 64
+   outturn-total: 83
+   outturn-percent: 66
+   draw-total: 99
+   draw-percent: 66
+   takeout-total: 67
+   takeout-percent: 63
+   shots-total: 166
+   shots-percent: 65
+ - year: 2013
+   event: Hearts
+   team: Totals
+   games: 10
+   wins: 2
+   losses: 8
+   inturn-total: 96
+   inturn-percent: 65
+   outturn-total: 90
+   outturn-percent: 68
+   draw-total: 112
+   draw-percent: 67
+   takeout-total: 74
+   takeout-percent: 65
+   shots-total: 186
+   shots-percent: 66
+ - year: 2017
+   event: Hearts
+   team: "NT"
+   position: Lead
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 108
+   inturn-percent: 76
+   outturn-total: 102
+   outturn-percent: 75
+   draw-total: 181
+   draw-percent: 76
+   takeout-total: 29
+   takeout-percent: 73
+   shots-total: 210
+   shots-percent: 75
+---

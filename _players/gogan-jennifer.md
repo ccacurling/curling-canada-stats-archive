@@ -1,0 +1,53 @@
+---
+title: Jennifer Gogan
+name: Jennifer Gogan
+name-sort: Gogan, Jennifer
+games: 21
+wins: 7
+losses: 14
+inturn-total: 187
+inturn-percent: 75
+outturn-total: 215
+outturn-percent: 71
+draw-total: 212
+draw-percent: 73
+takeout-total: 190
+takeout-percent: 73
+shots-total: 402
+shots-percent: 73
+years:
+ - year: 2003
+   event: Hearts
+   team: "NB"
+   position: Second
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 102
+   inturn-percent: 75
+   outturn-total: 116
+   outturn-percent: 71
+   draw-total: 107
+   draw-percent: 71
+   takeout-total: 111
+   takeout-percent: 74
+   shots-total: 218
+   shots-percent: 73
+ - year: 2004
+   event: Hearts
+   team: "NB"
+   position: Second
+   games: 10
+   wins: 2
+   losses: 8
+   inturn-total: 85
+   inturn-percent: 76
+   outturn-total: 99
+   outturn-percent: 71
+   draw-total: 105
+   draw-percent: 75
+   takeout-total: 79
+   takeout-percent: 71
+   shots-total: 184
+   shots-percent: 74
+---

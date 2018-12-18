@@ -1,0 +1,70 @@
+---
+title: Gerri Cooke
+name: Gerri Cooke
+name-sort: Cooke, Gerri
+games: 28
+wins: 17
+losses: 11
+inturn-total: 275
+inturn-percent: 80
+outturn-total: 228
+outturn-percent: 78
+draw-total: 204
+draw-percent: 73
+takeout-total: 299
+takeout-percent: 82
+shots-total: 503
+shots-percent: 79
+years:
+ - year: 1993
+   event: Hearts
+   team: "MB"
+   position: Lead
+   games: 2
+   wins: 2
+   losses: 0
+   inturn-total: 11
+   inturn-percent: 84
+   outturn-total: 10
+   outturn-percent: 80
+   draw-total: 7
+   draw-percent: 79
+   takeout-total: 14
+   takeout-percent: 84
+   shots-total: 21
+   shots-percent: 82
+ - year: 1996
+   event: Hearts
+   team: "MB"
+   position: Third
+   games: 13
+   wins: 7
+   losses: 6
+   inturn-total: 110
+   inturn-percent: 76
+   outturn-total: 122
+   outturn-percent: 81
+   draw-total: 84
+   draw-percent: 75
+   takeout-total: 148
+   takeout-percent: 81
+   shots-total: 232
+   shots-percent: 79
+ - year: 2004
+   event: Hearts
+   team: "MB"
+   position: Third
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 154
+   inturn-percent: 82
+   outturn-total: 96
+   outturn-percent: 73
+   draw-total: 113
+   draw-percent: 72
+   takeout-total: 137
+   takeout-percent: 84
+   shots-total: 250
+   shots-percent: 78
+---

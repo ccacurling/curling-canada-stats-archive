@@ -1,0 +1,121 @@
+---
+title: Amy Nixon
+name: Amy Nixon
+name-sort: Nixon, Amy
+games: 62
+wins: 45
+losses: 17
+inturn-total: 592
+inturn-percent: 82
+outturn-total: 589
+outturn-percent: 81
+draw-total: 441
+draw-percent: 76
+takeout-total: 740
+takeout-percent: 85
+shots-total: 1181
+shots-percent: 81
+years:
+ - year: 2004
+   event: Hearts
+   team: "AB"
+   position: Third
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 99
+   inturn-percent: 83
+   outturn-total: 107
+   outturn-percent: 79
+   draw-total: 94
+   draw-percent: 75
+   takeout-total: 112
+   takeout-percent: 85
+   shots-total: 206
+   shots-percent: 81
+ - year: 2008
+   event: Hearts
+   team: "AB"
+   position: Third
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 131
+   inturn-percent: 85
+   outturn-total: 119
+   outturn-percent: 83
+   draw-total: 70
+   draw-percent: 79
+   takeout-total: 180
+   takeout-percent: 86
+   shots-total: 250
+   shots-percent: 84
+ - year: 2011
+   event: Hearts
+   team: "AB"
+   position: Third
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 126
+   inturn-percent: 76
+   outturn-total: 90
+   outturn-percent: 76
+   draw-total: 94
+   draw-percent: 70
+   takeout-total: 122
+   takeout-percent: 80
+   shots-total: 216
+   shots-percent: 76
+ - year: 2012
+   event: Hearts
+   team: "AB"
+   position: Lead
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 1
+   inturn-percent: 100
+   outturn-total: 0
+   outturn-percent:
+   draw-total: 0
+   draw-percent:
+   takeout-total: 1
+   takeout-percent: 100
+   shots-total: 1
+   shots-percent: 100
+ - year: 2016
+   event: Hearts
+   team: "AB"
+   position: Third
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 122
+   inturn-percent: 85
+   outturn-total: 132
+   outturn-percent: 85
+   draw-total: 78
+   draw-percent: 76
+   takeout-total: 176
+   takeout-percent: 89
+   shots-total: 254
+   shots-percent: 85
+ - year: 2017
+   event: Hearts
+   team: "CA"
+   position: Third
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 113
+   inturn-percent: 78
+   outturn-total: 141
+   outturn-percent: 82
+   draw-total: 105
+   draw-percent: 78
+   takeout-total: 149
+   takeout-percent: 82
+   shots-total: 254
+   shots-percent: 80
+---

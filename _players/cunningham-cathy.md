@@ -1,0 +1,264 @@
+---
+title: Cathy Cunningham
+name: Cathy Cunningham
+name-sort: Cunningham, Cathy
+games: 140
+wins: 68
+losses: 72
+inturn-total: 1184
+inturn-percent: 72
+outturn-total: 1488
+outturn-percent: 78
+draw-total: 1195
+draw-percent: 73
+takeout-total: 1477
+takeout-percent: 78
+shots-total: 2672
+shots-percent: 75
+years:
+ - year: 1988
+   event: Hearts
+   team: "NL"
+   position: Third
+   games: 3
+   wins: 0
+   losses: 3
+   inturn-total: 23
+   inturn-percent: 72
+   outturn-total: 35
+   outturn-percent: 83
+   draw-total: 25
+   draw-percent: 78
+   takeout-total: 33
+   takeout-percent: 79
+   shots-total: 58
+   shots-percent: 78
+ - year: 1988
+   event: Hearts
+   team: "NL"
+   position: Fourth
+   games: 8
+   wins: 6
+   losses: 2
+   inturn-total: 76
+   inturn-percent: 75
+   outturn-total: 79
+   outturn-percent: 68
+   draw-total: 48
+   draw-percent: 74
+   takeout-total: 107
+   takeout-percent: 70
+   shots-total: 155
+   shots-percent: 72
+ - year: 1988
+   event: Hearts
+   team: Totals
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 99
+   inturn-percent: 74
+   outturn-total: 114
+   outturn-percent: 73
+   draw-total: 73
+   draw-percent: 76
+   takeout-total: 140
+   takeout-percent: 72
+   shots-total: 213
+   shots-percent: 73
+ - year: 1991
+   event: Hearts
+   team: "NL"
+   position: Fourth
+   games: 11
+   wins: 2
+   losses: 9
+   inturn-total: 103
+   inturn-percent: 54
+   outturn-total: 97
+   outturn-percent: 60
+   draw-total: 94
+   draw-percent: 50
+   takeout-total: 106
+   takeout-percent: 63
+   shots-total: 200
+   shots-percent: 57
+ - year: 1993
+   event: Hearts
+   team: "NL"
+   position: Third
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 72
+   inturn-percent: 77
+   outturn-total: 131
+   outturn-percent: 82
+   draw-total: 112
+   draw-percent: 81
+   takeout-total: 91
+   takeout-percent: 79
+   shots-total: 203
+   shots-percent: 80
+ - year: 1994
+   event: Hearts
+   team: "NL"
+   position: Third
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 100
+   inturn-percent: 72
+   outturn-total: 141
+   outturn-percent: 81
+   draw-total: 97
+   draw-percent: 68
+   takeout-total: 144
+   takeout-percent: 83
+   shots-total: 241
+   shots-percent: 77
+ - year: 1995
+   event: Hearts
+   team: "NL"
+   position: Third
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 71
+   inturn-percent: 70
+   outturn-total: 139
+   outturn-percent: 80
+   draw-total: 82
+   draw-percent: 73
+   takeout-total: 128
+   takeout-percent: 79
+   shots-total: 210
+   shots-percent: 77
+ - year: 1996
+   event: Hearts
+   team: "NL"
+   position: Third
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 93
+   inturn-percent: 76
+   outturn-total: 110
+   outturn-percent: 78
+   draw-total: 82
+   draw-percent: 77
+   takeout-total: 121
+   takeout-percent: 77
+   shots-total: 203
+   shots-percent: 77
+ - year: 1997
+   event: Hearts
+   team: "NL"
+   position: Third
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 88
+   inturn-percent: 68
+   outturn-total: 168
+   outturn-percent: 82
+   draw-total: 100
+   draw-percent: 74
+   takeout-total: 156
+   takeout-percent: 79
+   shots-total: 256
+   shots-percent: 77
+ - year: 2002
+   event: Hearts
+   team: "NL"
+   position: Fourth
+   games: 11
+   wins: 3
+   losses: 8
+   inturn-total: 103
+   inturn-percent: 66
+   outturn-total: 109
+   outturn-percent: 77
+   draw-total: 103
+   draw-percent: 73
+   takeout-total: 109
+   takeout-percent: 70
+   shots-total: 212
+   shots-percent: 71
+ - year: 2003
+   event: Hearts
+   team: "NL"
+   position: Fourth
+   games: 14
+   wins: 8
+   losses: 6
+   inturn-total: 128
+   inturn-percent: 73
+   outturn-total: 141
+   outturn-percent: 75
+   draw-total: 143
+   draw-percent: 67
+   takeout-total: 126
+   takeout-percent: 82
+   shots-total: 269
+   shots-percent: 74
+ - year: 2004
+   event: Hearts
+   team: "NL"
+   position: Fourth
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 85
+   inturn-percent: 72
+   outturn-total: 113
+   outturn-percent: 81
+   draw-total: 102
+   draw-percent: 75
+   takeout-total: 96
+   takeout-percent: 79
+   shots-total: 198
+   shots-percent: 77
+ - year: 2006
+   event: Hearts
+   team: "NL"
+   position: Alternate
+ - year: 2007
+   event: Hearts
+   team: "NL"
+   position: Alternate
+ - year: 2008
+   event: Hearts
+   team: "NL"
+   position: Third
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 133
+   inturn-percent: 78
+   outturn-total: 112
+   outturn-percent: 77
+   draw-total: 122
+   draw-percent: 77
+   takeout-total: 123
+   takeout-percent: 78
+   shots-total: 245
+   shots-percent: 78
+ - year: 2009
+   event: Hearts
+   team: "NL"
+   position: Third
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 109
+   inturn-percent: 86
+   outturn-total: 113
+   outturn-percent: 81
+   draw-total: 85
+   draw-percent: 83
+   takeout-total: 137
+   takeout-percent: 84
+   shots-total: 222
+   shots-percent: 84
+---

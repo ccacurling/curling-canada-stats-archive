@@ -1,0 +1,260 @@
+---
+title: Kerry Galusha
+name: Kerry Galusha
+name-sort: Galusha, Kerry
+games: 117
+wins: 32
+losses: 85
+inturn-total: 1158
+inturn-percent: 69
+outturn-total: 1038
+outturn-percent: 71
+draw-total: 1125
+draw-percent: 69
+takeout-total: 1071
+takeout-percent: 71
+shots-total: 2196
+shots-percent: 70
+years:
+ - year: 1998
+   event: Hearts
+   team: "TR"
+   position: Second
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 14
+   inturn-percent: 61
+   outturn-total: 6
+   outturn-percent: 71
+   draw-total: 6
+   draw-percent: 75
+   takeout-total: 14
+   takeout-percent: 59
+   shots-total: 20
+   shots-percent: 64
+ - year: 2001
+   event: Hearts
+   team: "TR"
+   position: Fourth
+   games: 11
+   wins: 2
+   losses: 9
+   inturn-total: 111
+   inturn-percent: 67
+   outturn-total: 100
+   outturn-percent: 68
+   draw-total: 113
+   draw-percent: 66
+   takeout-total: 98
+   takeout-percent: 70
+   shots-total: 211
+   shots-percent: 68
+ - year: 2002
+   event: Hearts
+   team: "TR"
+   position: Alternate
+ - year: 2005
+   event: Hearts
+   team: "TR"
+   position: Third
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 105
+   inturn-percent: 71
+   outturn-total: 99
+   outturn-percent: 79
+   draw-total: 107
+   draw-percent: 71
+   takeout-total: 97
+   takeout-percent: 78
+   shots-total: 204
+   shots-percent: 75
+ - year: 2006
+   event: Hearts
+   team: "TR"
+   position: Third
+   games: 11
+   wins: 2
+   losses: 9
+   inturn-total: 113
+   inturn-percent: 64
+   outturn-total: 97
+   outturn-percent: 69
+   draw-total: 114
+   draw-percent: 65
+   takeout-total: 96
+   takeout-percent: 68
+   shots-total: 210
+   shots-percent: 66
+ - year: 2007
+   event: Hearts
+   team: "TR"
+   position: Third
+   games: 11
+   wins: 2
+   losses: 9
+   inturn-total: 107
+   inturn-percent: 71
+   outturn-total: 101
+   outturn-percent: 78
+   draw-total: 103
+   draw-percent: 76
+   takeout-total: 105
+   takeout-percent: 73
+   shots-total: 208
+   shots-percent: 74
+ - year: 2008
+   event: Hearts
+   team: "TR"
+   position: Third
+   games: 6
+   wins: 1
+   losses: 5
+   inturn-total: 59
+   inturn-percent: 81
+   outturn-total: 59
+   outturn-percent: 75
+   draw-total: 55
+   draw-percent: 79
+   takeout-total: 63
+   takeout-percent: 77
+   shots-total: 118
+   shots-percent: 78
+ - year: 2008
+   event: Hearts
+   team: "TR"
+   position: Fourth
+   games: 5
+   wins: 0
+   losses: 5
+   inturn-total: 51
+   inturn-percent: 64
+   outturn-total: 36
+   outturn-percent: 61
+   draw-total: 52
+   draw-percent: 64
+   takeout-total: 35
+   takeout-percent: 61
+   shots-total: 87
+   shots-percent: 63
+ - year: 2008
+   event: Hearts
+   team: Totals
+   games: 11
+   wins: 1
+   losses: 10
+   inturn-total: 110
+   inturn-percent: 73
+   outturn-total: 95
+   outturn-percent: 70
+   draw-total: 107
+   draw-percent: 71
+   takeout-total: 98
+   takeout-percent: 71
+   shots-total: 205
+   shots-percent: 71
+ - year: 2009
+   event: Hearts
+   team: "TR"
+   position: Fourth
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 105
+   inturn-percent: 74
+   outturn-total: 113
+   outturn-percent: 73
+   draw-total: 122
+   draw-percent: 75
+   takeout-total: 96
+   takeout-percent: 71
+   shots-total: 218
+   shots-percent: 73
+ - year: 2011
+   event: Hearts
+   team: "TR"
+   position: Fourth
+   games: 11
+   wins: 3
+   losses: 8
+   inturn-total: 109
+   inturn-percent: 68
+   outturn-total: 88
+   outturn-percent: 63
+   draw-total: 96
+   draw-percent: 63
+   takeout-total: 101
+   takeout-percent: 69
+   shots-total: 197
+   shots-percent: 66
+ - year: 2012
+   event: Hearts
+   team: "TR"
+   position: Fourth
+   games: 9
+   wins: 4
+   losses: 5
+   inturn-total: 85
+   inturn-percent: 67
+   outturn-total: 79
+   outturn-percent: 78
+   draw-total: 87
+   draw-percent: 68
+   takeout-total: 77
+   takeout-percent: 78
+   shots-total: 164
+   shots-percent: 73
+ - year: 2013
+   event: Hearts
+   team: "NT"
+   position: Fourth
+   games: 11
+   wins: 2
+   losses: 9
+   inturn-total: 95
+   inturn-percent: 63
+   outturn-total: 108
+   outturn-percent: 61
+   draw-total: 114
+   draw-percent: 65
+   takeout-total: 89
+   takeout-percent: 57
+   shots-total: 203
+   shots-percent: 62
+ - year: 2017
+   event: Hearts
+   team: "NT"
+   position: Fourth
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 106
+   inturn-percent: 75
+   outturn-total: 100
+   outturn-percent: 73
+   draw-total: 89
+   draw-percent: 72
+   takeout-total: 117
+   takeout-percent: 75
+   shots-total: 206
+   shots-percent: 74
+ - year: 2018
+   event: Hearts
+   team: "NT"
+   position: Fourth
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 98
+   inturn-percent: 70
+   outturn-total: 52
+   outturn-percent: 61
+   draw-total: 67
+   draw-percent: 65
+   takeout-total: 83
+   takeout-percent: 69
+   shots-total: 150
+   shots-percent: 67
+---

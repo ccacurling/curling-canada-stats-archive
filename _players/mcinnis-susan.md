@@ -1,0 +1,172 @@
+---
+title: Susan McInnis
+name: Susan McInnis
+name-sort: McInnis, Susan
+games: 99
+wins: 42
+losses: 57
+inturn-total: 799
+inturn-percent: 73
+outturn-total: 1037
+outturn-percent: 77
+draw-total: 953
+draw-percent: 74
+takeout-total: 883
+takeout-percent: 77
+shots-total: 1836
+shots-percent: 75
+years:
+ - year: 1989
+   event: Hearts
+   team: "PE"
+   position: Third
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 100
+   inturn-percent: 73
+   outturn-total: 115
+   outturn-percent: 68
+   draw-total: 91
+   draw-percent: 70
+   takeout-total: 124
+   takeout-percent: 70
+   shots-total: 215
+   shots-percent: 70
+ - year: 1992
+   event: Hearts
+   team: "PE"
+   position: Third
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 126
+   inturn-percent: 70
+   outturn-total: 91
+   outturn-percent: 70
+   draw-total: 99
+   draw-percent: 66
+   takeout-total: 118
+   takeout-percent: 73
+   shots-total: 217
+   shots-percent: 70
+ - year: 1995
+   event: Hearts
+   team: "PE"
+   position: Lead
+   games: 9
+   wins: 5
+   losses: 4
+   inturn-total: 40
+   inturn-percent: 73
+   outturn-total: 111
+   outturn-percent: 79
+   draw-total: 91
+   draw-percent: 75
+   takeout-total: 60
+   takeout-percent: 81
+   shots-total: 151
+   shots-percent: 77
+ - year: 1996
+   event: Hearts
+   team: "PE"
+   position: Fourth
+   games: 12
+   wins: 6
+   losses: 6
+   inturn-total: 116
+   inturn-percent: 74
+   outturn-total: 121
+   outturn-percent: 77
+   draw-total: 71
+   draw-percent: 67
+   takeout-total: 166
+   takeout-percent: 79
+   shots-total: 237
+   shots-percent: 76
+ - year: 1998
+   event: Hearts
+   team: "PE"
+   position: Third
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 87
+   inturn-percent: 72
+   outturn-total: 125
+   outturn-percent: 79
+   draw-total: 75
+   draw-percent: 69
+   takeout-total: 137
+   takeout-percent: 80
+   shots-total: 212
+   shots-percent: 76
+ - year: 2003
+   event: Hearts
+   team: "PE"
+   position: Lead
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 104
+   inturn-percent: 82
+   outturn-total: 124
+   outturn-percent: 84
+   draw-total: 153
+   draw-percent: 82
+   takeout-total: 75
+   takeout-percent: 84
+   shots-total: 228
+   shots-percent: 83
+ - year: 2004
+   event: Hearts
+   team: "PE"
+   position: Third
+   games: 11
+   wins: 2
+   losses: 9
+   inturn-total: 95
+   inturn-percent: 75
+   outturn-total: 93
+   outturn-percent: 75
+   draw-total: 99
+   draw-percent: 75
+   takeout-total: 89
+   takeout-percent: 75
+   shots-total: 188
+   shots-percent: 75
+ - year: 2006
+   event: Hearts
+   team: "PE"
+   position: Third
+   games: 10
+   wins: 3
+   losses: 7
+   inturn-total: 94
+   inturn-percent: 65
+   outturn-total: 90
+   outturn-percent: 74
+   draw-total: 93
+   draw-percent: 68
+   takeout-total: 91
+   takeout-percent: 71
+   shots-total: 184
+   shots-percent: 69
+ - year: 2015
+   event: Hearts
+   team: "PE"
+   position: Lead
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 37
+   inturn-percent: 76
+   outturn-total: 167
+   outturn-percent: 82
+   draw-total: 181
+   draw-percent: 81
+   takeout-total: 23
+   takeout-percent: 85
+   shots-total: 204
+   shots-percent: 81
+---

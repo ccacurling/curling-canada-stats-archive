@@ -1,0 +1,30 @@
+---
+title: Crystal McLeod vs Laura Phillips
+player1:               
+  name: McLeod, Crystal
+  percent: 44          
+  wins: 0              
+  losses: 1            
+player2:               
+  name: Phillips, Laura
+  percent: 92          
+  wins: 1              
+  losses: 0            
+games:
+ - player1:         
+     team: 'AB'     
+     position: Third
+     percent: 44    
+     win: 0         
+     loss: 1        
+   player2:          
+     team: 'NL'      
+     position: Fourth
+     percent: 92     
+     win: 1          
+     loss: 0         
+   event: Hearts        
+   year: 1994           
+   draw: Round Robin(16)
+   score: AB 2 - NL 11  
+---

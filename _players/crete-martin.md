@@ -1,0 +1,171 @@
+---
+title: Martin Crete
+name: Martin Crete
+name-sort: Crete, Martin
+games: 81
+wins: 42
+losses: 39
+inturn-total: 409
+inturn-percent: 85
+outturn-total: 1167
+outturn-percent: 84
+draw-total: 588
+draw-percent: 84
+takeout-total: 988
+takeout-percent: 84
+shots-total: 1576
+shots-percent: 84
+years:
+ - year: 2008
+   event: Brier
+   team: "QC"
+   position: Third
+   games: 9
+   wins: 3
+   losses: 6
+   inturn-total: 68
+   inturn-percent: 82
+   outturn-total: 114
+   outturn-percent: 81
+   draw-total: 78
+   draw-percent: 78
+   takeout-total: 104
+   takeout-percent: 84
+   shots-total: 182
+   shots-percent: 81
+ - year: 2008
+   event: Brier
+   team: "QC"
+   position: Fourth
+   games: 2
+   wins: 1
+   losses: 1
+   inturn-total: 13
+   inturn-percent: 63
+   outturn-total: 19
+   outturn-percent: 68
+   draw-total: 16
+   draw-percent: 63
+   takeout-total: 16
+   takeout-percent: 70
+   shots-total: 32
+   shots-percent: 66
+ - year: 2008
+   event: Brier
+   team: Totals
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 81
+   inturn-percent: 79
+   outturn-total: 133
+   outturn-percent: 79
+   draw-total: 94
+   draw-percent: 76
+   takeout-total: 120
+   takeout-percent: 82
+   shots-total: 214
+   shots-percent: 79
+ - year: 2009
+   event: Brier
+   team: "QC"
+   position: Third
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 76
+   inturn-percent: 83
+   outturn-total: 146
+   outturn-percent: 79
+   draw-total: 96
+   draw-percent: 80
+   takeout-total: 126
+   takeout-percent: 80
+   shots-total: 222
+   shots-percent: 80
+ - year: 2013
+   event: Brier
+   team: "QC"
+   position: Third
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 61
+   inturn-percent: 89
+   outturn-total: 151
+   outturn-percent: 85
+   draw-total: 66
+   draw-percent: 86
+   takeout-total: 146
+   takeout-percent: 87
+   shots-total: 212
+   shots-percent: 87
+ - year: 2014
+   event: Brier
+   team: "QC"
+   position: Third
+   games: 14
+   wins: 8
+   losses: 6
+   inturn-total: 51
+   inturn-percent: 84
+   outturn-total: 231
+   outturn-percent: 87
+   draw-total: 95
+   draw-percent: 85
+   takeout-total: 187
+   takeout-percent: 87
+   shots-total: 282
+   shots-percent: 87
+ - year: 2015
+   event: Brier
+   team: "QC"
+   position: Third
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 52
+   inturn-percent: 85
+   outturn-total: 168
+   outturn-percent: 84
+   draw-total: 84
+   draw-percent: 86
+   takeout-total: 136
+   takeout-percent: 83
+   shots-total: 220
+   shots-percent: 84
+ - year: 2016
+   event: Brier
+   team: "QC"
+   position: Third
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 42
+   inturn-percent: 88
+   outturn-total: 170
+   outturn-percent: 86
+   draw-total: 80
+   draw-percent: 89
+   takeout-total: 132
+   takeout-percent: 85
+   shots-total: 212
+   shots-percent: 87
+ - year: 2017
+   event: Brier
+   team: "QC"
+   position: Third
+   games: 11
+   wins: 7
+   losses: 4
+   inturn-total: 46
+   inturn-percent: 89
+   outturn-total: 168
+   outturn-percent: 85
+   draw-total: 73
+   draw-percent: 88
+   takeout-total: 141
+   takeout-percent: 85
+   shots-total: 214
+   shots-percent: 86
+---

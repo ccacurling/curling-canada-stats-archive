@@ -1,0 +1,172 @@
+---
+title: Wayne Middaugh
+name: Wayne Middaugh
+name-sort: Middaugh, Wayne
+games: 115
+wins: 85
+losses: 30
+inturn-total: 989
+inturn-percent: 86
+outturn-total: 1144
+outturn-percent: 86
+draw-total: 767
+draw-percent: 83
+takeout-total: 1366
+takeout-percent: 87
+shots-total: 2133
+shots-percent: 86
+years:
+ - year: 1991
+   event: Brier
+   team: "ON"
+   position: Second
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 90
+   inturn-percent: 85
+   outturn-total: 124
+   outturn-percent: 83
+   draw-total: 88
+   draw-percent: 79
+   takeout-total: 126
+   takeout-percent: 87
+   shots-total: 214
+   shots-percent: 84
+ - year: 1992
+   event: Brier
+   team: "ON"
+   position: Second
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 101
+   inturn-percent: 84
+   outturn-total: 136
+   outturn-percent: 84
+   draw-total: 97
+   draw-percent: 82
+   takeout-total: 140
+   takeout-percent: 86
+   shots-total: 237
+   shots-percent: 84
+ - year: 1993
+   event: Brier
+   team: "ON"
+   position: Second
+   games: 14
+   wins: 11
+   losses: 3
+   inturn-total: 126
+   inturn-percent: 88
+   outturn-total: 148
+   outturn-percent: 88
+   draw-total: 83
+   draw-percent: 83
+   takeout-total: 191
+   takeout-percent: 90
+   shots-total: 274
+   shots-percent: 88
+ - year: 1994
+   event: Brier
+   team: "ON"
+   position: Second
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 113
+   inturn-percent: 82
+   outturn-total: 131
+   outturn-percent: 89
+   draw-total: 90
+   draw-percent: 85
+   takeout-total: 154
+   takeout-percent: 86
+   shots-total: 244
+   shots-percent: 86
+ - year: 1998
+   event: Brier
+   team: "ON"
+   position: Fourth
+   games: 13
+   wins: 12
+   losses: 1
+   inturn-total: 108
+   inturn-percent: 84
+   outturn-total: 115
+   outturn-percent: 85
+   draw-total: 89
+   draw-percent: 82
+   takeout-total: 134
+   takeout-percent: 86
+   shots-total: 223
+   shots-percent: 85
+ - year: 2001
+   event: Brier
+   team: "ON"
+   position: Fourth
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 105
+   inturn-percent: 85
+   outturn-total: 121
+   outturn-percent: 88
+   draw-total: 82
+   draw-percent: 86
+   takeout-total: 144
+   takeout-percent: 88
+   shots-total: 226
+   shots-percent: 87
+ - year: 2005
+   event: Brier
+   team: "ON"
+   position: Fourth
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 89
+   inturn-percent: 84
+   outturn-total: 114
+   outturn-percent: 79
+   draw-total: 83
+   draw-percent: 82
+   takeout-total: 120
+   takeout-percent: 81
+   shots-total: 203
+   shots-percent: 81
+ - year: 2012
+   event: Brier
+   team: "ON"
+   position: Third
+   games: 13
+   wins: 12
+   losses: 1
+   inturn-total: 118
+   inturn-percent: 89
+   outturn-total: 138
+   outturn-percent: 89
+   draw-total: 66
+   draw-percent: 83
+   takeout-total: 190
+   takeout-percent: 90
+   shots-total: 256
+   shots-percent: 89
+ - year: 2013
+   event: Brier
+   team: "ON"
+   position: Third
+   games: 14
+   wins: 11
+   losses: 3
+   inturn-total: 139
+   inturn-percent: 88
+   outturn-total: 117
+   outturn-percent: 88
+   draw-total: 89
+   draw-percent: 87
+   takeout-total: 167
+   takeout-percent: 89
+   shots-total: 256
+   shots-percent: 88
+---

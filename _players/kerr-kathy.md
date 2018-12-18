@@ -1,0 +1,189 @@
+---
+title: Kathy Kerr
+name: Kathy Kerr
+name-sort: Kerr, Kathy
+games: 117
+wins: 55
+losses: 62
+inturn-total: 874
+inturn-percent: 71
+outturn-total: 1339
+outturn-percent: 77
+draw-total: 1075
+draw-percent: 74
+takeout-total: 1138
+takeout-percent: 75
+shots-total: 2213
+shots-percent: 75
+years:
+ - year: 1987
+   event: Hearts
+   team: "NL"
+   position: Lead
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 63
+   inturn-percent: 61
+   outturn-total: 138
+   outturn-percent: 70
+   draw-total: 140
+   draw-percent: 70
+   takeout-total: 61
+   takeout-percent: 59
+   shots-total: 201
+   shots-percent: 67
+ - year: 1991
+   event: Hearts
+   team: "NL"
+   position: Second
+   games: 11
+   wins: 2
+   losses: 9
+   inturn-total: 100
+   inturn-percent: 62
+   outturn-total: 104
+   outturn-percent: 75
+   draw-total: 107
+   draw-percent: 71
+   takeout-total: 97
+   takeout-percent: 66
+   shots-total: 204
+   shots-percent: 69
+ - year: 1993
+   event: Hearts
+   team: "NL"
+   position: Second
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 92
+   inturn-percent: 73
+   outturn-total: 112
+   outturn-percent: 80
+   draw-total: 125
+   draw-percent: 81
+   takeout-total: 79
+   takeout-percent: 71
+   shots-total: 204
+   shots-percent: 77
+ - year: 1994
+   event: Hearts
+   team: "NL"
+   position: Second
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 71
+   inturn-percent: 66
+   outturn-total: 171
+   outturn-percent: 81
+   draw-total: 94
+   draw-percent: 74
+   takeout-total: 148
+   takeout-percent: 79
+   shots-total: 242
+   shots-percent: 77
+ - year: 1995
+   event: Hearts
+   team: "NL"
+   position: Second
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 53
+   inturn-percent: 65
+   outturn-total: 157
+   outturn-percent: 79
+   draw-total: 86
+   draw-percent: 75
+   takeout-total: 124
+   takeout-percent: 76
+   shots-total: 210
+   shots-percent: 76
+ - year: 1996
+   event: Hearts
+   team: "NL"
+   position: Second
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 90
+   inturn-percent: 69
+   outturn-total: 114
+   outturn-percent: 75
+   draw-total: 90
+   draw-percent: 71
+   takeout-total: 114
+   takeout-percent: 73
+   shots-total: 204
+   shots-percent: 72
+ - year: 1997
+   event: Hearts
+   team: "NL"
+   position: Second
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 84
+   inturn-percent: 72
+   outturn-total: 172
+   outturn-percent: 79
+   draw-total: 99
+   draw-percent: 74
+   takeout-total: 157
+   takeout-percent: 78
+   shots-total: 256
+   shots-percent: 77
+ - year: 2002
+   event: Hearts
+   team: "NL"
+   position: Second
+   games: 11
+   wins: 3
+   losses: 8
+   inturn-total: 113
+   inturn-percent: 83
+   outturn-total: 103
+   outturn-percent: 81
+   draw-total: 102
+   draw-percent: 79
+   takeout-total: 114
+   takeout-percent: 84
+   shots-total: 216
+   shots-percent: 82
+ - year: 2003
+   event: Hearts
+   team: "NL"
+   position: Second
+   games: 14
+   wins: 8
+   losses: 6
+   inturn-total: 122
+   inturn-percent: 76
+   outturn-total: 154
+   outturn-percent: 77
+   draw-total: 132
+   draw-percent: 71
+   takeout-total: 144
+   takeout-percent: 82
+   shots-total: 276
+   shots-percent: 77
+ - year: 2004
+   event: Hearts
+   team: "NL"
+   position: Second
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 86
+   inturn-percent: 74
+   outturn-total: 114
+   outturn-percent: 72
+   draw-total: 100
+   draw-percent: 72
+   takeout-total: 100
+   takeout-percent: 73
+   shots-total: 200
+   shots-percent: 73
+---

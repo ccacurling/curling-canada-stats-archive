@@ -1,0 +1,26 @@
+---
+title: Colin Millar
+name: Colin Millar
+name-sort: Millar, Colin
+games: 2
+wins: 0
+losses: 2
+years:
+ - year: 2011
+   event: Brier
+   team: "TR"
+   position: Lead
+   games: 2
+   wins: 0
+   losses: 2
+   inturn-total: 5
+   inturn-percent: 75
+   outturn-total: 3
+   outturn-percent: 92
+   draw-total: 8
+   draw-percent: 81
+   takeout-total: 0
+   takeout-percent:
+   shots-total: 8
+   shots-percent: 81
+---

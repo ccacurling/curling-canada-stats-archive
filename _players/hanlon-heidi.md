@@ -1,0 +1,206 @@
+---
+title: Heidi Hanlon
+name: Heidi Hanlon
+name-sort: Hanlon, Heidi
+games: 124
+wins: 51
+losses: 73
+inturn-total: 1101
+inturn-percent: 69
+outturn-total: 1205
+outturn-percent: 66
+draw-total: 1103
+draw-percent: 63
+takeout-total: 1203
+takeout-percent: 72
+shots-total: 2306
+shots-percent: 68
+years:
+ - year: 1987
+   event: Hearts
+   team: "NB"
+   position: Fourth
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 83
+   inturn-percent: 67
+   outturn-total: 108
+   outturn-percent: 58
+   draw-total: 89
+   draw-percent: 59
+   takeout-total: 102
+   takeout-percent: 65
+   shots-total: 191
+   shots-percent: 62
+ - year: 1989
+   event: Hearts
+   team: "NB"
+   position: Fourth
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 89
+   inturn-percent: 75
+   outturn-total: 124
+   outturn-percent: 74
+   draw-total: 87
+   draw-percent: 72
+   takeout-total: 126
+   takeout-percent: 76
+   shots-total: 213
+   shots-percent: 74
+ - year: 1990
+   event: Hearts
+   team: "NB"
+   position: Fourth
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 103
+   inturn-percent: 63
+   outturn-total: 88
+   outturn-percent: 49
+   draw-total: 110
+   draw-percent: 51
+   takeout-total: 81
+   takeout-percent: 65
+   shots-total: 191
+   shots-percent: 57
+ - year: 1991
+   event: Hearts
+   team: "NB"
+   position: Fourth
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 133
+   inturn-percent: 67
+   outturn-total: 126
+   outturn-percent: 58
+   draw-total: 117
+   draw-percent: 60
+   takeout-total: 142
+   takeout-percent: 65
+   shots-total: 259
+   shots-percent: 63
+ - year: 1992
+   event: Hearts
+   team: "NB"
+   position: Fourth
+   games: 11
+   wins: 3
+   losses: 8
+   inturn-total: 101
+   inturn-percent: 62
+   outturn-total: 106
+   outturn-percent: 69
+   draw-total: 98
+   draw-percent: 59
+   takeout-total: 109
+   takeout-percent: 72
+   shots-total: 207
+   shots-percent: 66
+ - year: 1994
+   event: Hearts
+   team: "NB"
+   position: Fourth
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 107
+   inturn-percent: 74
+   outturn-total: 102
+   outturn-percent: 63
+   draw-total: 112
+   draw-percent: 64
+   takeout-total: 97
+   takeout-percent: 74
+   shots-total: 209
+   shots-percent: 68
+ - year: 1995
+   event: Hearts
+   team: "NB"
+   position: Fourth
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 89
+   inturn-percent: 71
+   outturn-total: 114
+   outturn-percent: 71
+   draw-total: 105
+   draw-percent: 70
+   takeout-total: 98
+   takeout-percent: 71
+   shots-total: 203
+   shots-percent: 71
+ - year: 1997
+   event: Hearts
+   team: "NB"
+   position: Fourth
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 108
+   inturn-percent: 72
+   outturn-total: 101
+   outturn-percent: 70
+   draw-total: 90
+   draw-percent: 60
+   takeout-total: 119
+   takeout-percent: 79
+   shots-total: 209
+   shots-percent: 71
+ - year: 2000
+   event: Hearts
+   team: "NB"
+   position: Fourth
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 99
+   inturn-percent: 70
+   outturn-total: 109
+   outturn-percent: 75
+   draw-total: 97
+   draw-percent: 67
+   takeout-total: 111
+   takeout-percent: 78
+   shots-total: 208
+   shots-percent: 73
+ - year: 2003
+   event: Hearts
+   team: "NB"
+   position: Fourth
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 101
+   inturn-percent: 71
+   outturn-total: 114
+   outturn-percent: 71
+   draw-total: 97
+   draw-percent: 70
+   takeout-total: 118
+   takeout-percent: 72
+   shots-total: 215
+   shots-percent: 71
+ - year: 2004
+   event: Hearts
+   team: "NB"
+   position: Fourth
+   games: 11
+   wins: 2
+   losses: 9
+   inturn-total: 88
+   inturn-percent: 66
+   outturn-total: 113
+   outturn-percent: 67
+   draw-total: 101
+   draw-percent: 63
+   takeout-total: 100
+   takeout-percent: 71
+   shots-total: 201
+   shots-percent: 67
+---

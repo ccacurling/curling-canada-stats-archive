@@ -1,0 +1,223 @@
+---
+title: Brent Laing
+name: Brent Laing
+name-sort: Laing, Brent
+games: 161
+wins: 124
+losses: 37
+inturn-total: 1428
+inturn-percent: 87
+outturn-total: 1569
+outturn-percent: 88
+draw-total: 1232
+draw-percent: 87
+takeout-total: 1765
+takeout-percent: 88
+shots-total: 2997
+shots-percent: 88
+years:
+ - year: 2002
+   event: Brier
+   team: "ON"
+   position: Lead
+   games: 14
+   wins: 9
+   losses: 5
+   inturn-total: 169
+   inturn-percent: 85
+   outturn-total: 84
+   outturn-percent: 88
+   draw-total: 192
+   draw-percent: 87
+   takeout-total: 61
+   takeout-percent: 84
+   shots-total: 253
+   shots-percent: 86
+ - year: 2006
+   event: Brier
+   team: "ON"
+   position: Second
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 120
+   inturn-percent: 85
+   outturn-total: 122
+   outturn-percent: 82
+   draw-total: 86
+   draw-percent: 83
+   takeout-total: 156
+   takeout-percent: 84
+   shots-total: 242
+   shots-percent: 84
+ - year: 2007
+   event: Brier
+   team: "ON"
+   position: Second
+   games: 14
+   wins: 12
+   losses: 2
+   inturn-total: 132
+   inturn-percent: 85
+   outturn-total: 128
+   outturn-percent: 83
+   draw-total: 110
+   draw-percent: 85
+   takeout-total: 150
+   takeout-percent: 84
+   shots-total: 260
+   shots-percent: 84
+ - year: 2008
+   event: Brier
+   team: "ON"
+   position: Second
+   games: 14
+   wins: 11
+   losses: 3
+   inturn-total: 103
+   inturn-percent: 86
+   outturn-total: 159
+   outturn-percent: 88
+   draw-total: 90
+   draw-percent: 85
+   takeout-total: 172
+   takeout-percent: 88
+   shots-total: 262
+   shots-percent: 87
+ - year: 2009
+   event: Brier
+   team: "ON"
+   position: Second
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 108
+   inturn-percent: 80
+   outturn-total: 142
+   outturn-percent: 88
+   draw-total: 118
+   draw-percent: 81
+   takeout-total: 132
+   takeout-percent: 88
+   shots-total: 250
+   shots-percent: 85
+ - year: 2010
+   event: Brier
+   team: "ON"
+   position: Second
+   games: 13
+   wins: 12
+   losses: 1
+   inturn-total: 110
+   inturn-percent: 90
+   outturn-total: 114
+   outturn-percent: 87
+   draw-total: 77
+   draw-percent: 86
+   takeout-total: 147
+   takeout-percent: 90
+   shots-total: 224
+   shots-percent: 89
+ - year: 2011
+   event: Brier
+   team: "ON"
+   position: Second
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 115
+   inturn-percent: 86
+   outturn-total: 135
+   outturn-percent: 89
+   draw-total: 85
+   draw-percent: 86
+   takeout-total: 165
+   takeout-percent: 88
+   shots-total: 250
+   shots-percent: 88
+ - year: 2012
+   event: Brier
+   team: "ON"
+   position: Second
+   games: 13
+   wins: 12
+   losses: 1
+   inturn-total: 126
+   inturn-percent: 88
+   outturn-total: 130
+   outturn-percent: 88
+   draw-total: 82
+   draw-percent: 88
+   takeout-total: 174
+   takeout-percent: 88
+   shots-total: 256
+   shots-percent: 88
+ - year: 2013
+   event: Brier
+   team: "ON"
+   position: Second
+   games: 14
+   wins: 11
+   losses: 3
+   inturn-total: 123
+   inturn-percent: 94
+   outturn-total: 131
+   outturn-percent: 91
+   draw-total: 90
+   draw-percent: 91
+   takeout-total: 164
+   takeout-percent: 93
+   shots-total: 254
+   shots-percent: 92
+ - year: 2015
+   event: Brier
+   team: "AB"
+   position: Second
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 71
+   inturn-percent: 94
+   outturn-total: 139
+   outturn-percent: 89
+   draw-total: 106
+   draw-percent: 92
+   takeout-total: 104
+   takeout-percent: 90
+   shots-total: 210
+   shots-percent: 91
+ - year: 2016
+   event: Brier
+   team: "AB"
+   position: Second
+   games: 14
+   wins: 11
+   losses: 3
+   inturn-total: 110
+   inturn-percent: 92
+   outturn-total: 146
+   outturn-percent: 94
+   draw-total: 81
+   draw-percent: 92
+   takeout-total: 175
+   takeout-percent: 94
+   shots-total: 256
+   shots-percent: 93
+ - year: 2017
+   event: Brier
+   team: "CA"
+   position: Second
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 141
+   inturn-percent: 83
+   outturn-total: 139
+   outturn-percent: 90
+   draw-total: 115
+   draw-percent: 85
+   takeout-total: 165
+   takeout-percent: 87
+   shots-total: 280
+   shots-percent: 86
+---

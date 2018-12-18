@@ -1,0 +1,30 @@
+---
+title: Peter Corner vs Craig Dowden
+player1:             
+  name: Corner, Peter
+  percent: 71        
+  wins: 1            
+  losses: 0          
+player2:             
+  name: Dowden, Craig
+  percent: 89        
+  wins: 0            
+  losses: 1          
+games:
+ - player1:          
+     team: 'ON'      
+     position: Fourth
+     percent: 71     
+     win: 1          
+     loss: 0         
+   player2:        
+     team: 'NL'    
+     position: Lead
+     percent: 89   
+     win: 0        
+     loss: 1       
+   event: Brier         
+   year: 2000           
+   draw: Round Robin(16)
+   score: NL 6 - ON 8   
+---

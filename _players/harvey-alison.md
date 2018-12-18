@@ -1,0 +1,57 @@
+---
+title: Alison Harvey
+name: Alison Harvey
+name-sort: Harvey, Alison
+games: 22
+wins: 12
+losses: 10
+inturn-total: 235
+inturn-percent: 81
+outturn-total: 208
+outturn-percent: 79
+draw-total: 293
+draw-percent: 84
+takeout-total: 150
+takeout-percent: 73
+shots-total: 443
+shots-percent: 80
+years:
+ - year: 1997
+   event: Hearts
+   team: "MB"
+   position: Lead
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 110
+   inturn-percent: 81
+   outturn-total: 105
+   outturn-percent: 76
+   draw-total: 142
+   draw-percent: 84
+   takeout-total: 73
+   takeout-percent: 68
+   shots-total: 215
+   shots-percent: 79
+ - year: 2001
+   event: Hearts
+   team: "MB"
+   position: Lead
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 125
+   inturn-percent: 82
+   outturn-total: 103
+   outturn-percent: 81
+   draw-total: 151
+   draw-percent: 84
+   takeout-total: 77
+   takeout-percent: 78
+   shots-total: 228
+   shots-percent: 82
+ - year: 2006
+   event: Hearts
+   team: "MB"
+   position: Alternate
+---
