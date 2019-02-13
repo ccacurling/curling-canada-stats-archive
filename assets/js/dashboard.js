@@ -7,7 +7,8 @@ shim: {
 'vector-map-de': ['vector-map', 'jquery'],
 'vector-map-world': ['vector-map', 'jquery'],
 'core': ['bootstrap', 'jquery'],
-'datatables-bs4': ['jquery']
+'datatables-bs4': ['jquery'],
+'lunr': ['jquery']
 },
 paths: {
 'core': 'assets/js/core',
@@ -21,7 +22,8 @@ paths: {
 'vector-map-world': 'assets/js/vendors/jquery-jvectormap-world-mill',
 'circle-progress': 'assets/js/vendors/circle-progress.min',
 'datatables.net': 'assets/js/vendors/jquery.dataTables.min',
-'datatables-bs4': 'assets/js/vendors/dataTables.bootstrap4.min'
+'datatables-bs4': 'assets/js/vendors/dataTables.bootstrap4.min',
+'lunr': 'assets/js/vendors/lunr.min'
 }
 });
 window.tabler = {

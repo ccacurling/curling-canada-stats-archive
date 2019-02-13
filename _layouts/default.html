@@ -42,6 +42,8 @@
     <script src="{{ site.baseurl }}/assets/js/vs.js"></script>
     <!-- Max -->
     <script src="{{ site.baseurl }}/assets/js/max.js"></script>
+    <!-- Search -->
+    <script src="{{ site.baseurl }}/assets/js/search.js"></script>
   </head>
   <body>
 
@@ -117,6 +119,9 @@
               <div class="col-lg-3 ml-auto">
                 <form class="input-icon my-3 my-lg-0">
                   <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
                   <div class="input-icon-addon">
                     <i class="fe fe-search"></i>
                   </div>

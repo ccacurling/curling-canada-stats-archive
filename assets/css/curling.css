@@ -97,3 +97,7 @@ h1 .fe-user-plus:hover {
   font-family: monospace;
   white-space: pre;
 }
+
+#search-results {
+  width: 100%;
+}
