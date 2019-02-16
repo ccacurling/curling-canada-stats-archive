@@ -16,6 +16,11 @@ Site - Brian Cassidy Jr.
 
 ## Changelog
 
+### 2019-02-15
+
+ * Added "Top Career Wins" for Brier and Hearts records.
+
 ### 2019-02-11
 
  * New version launched!
+
