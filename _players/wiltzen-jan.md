@@ -23,4 +23,49 @@ years:
    takeout-percent: 80
    shots-total: 240
    shots-percent: 78
+vs:
+ - Arseneau, Jane
+ - Beever, Jocelyn
+ - Betker, Jan
+ - Blackburn, Julie
+ - Bohmer, Brenda
+ - Breen, Theresa
+ - Bryant, Angie
+ - Burlington, Cheryl
+ - Campbell, June
+ - Carlos, Marie-Claude
+ - Cormier, Sharon
+ - Couling, Betty
+ - Daku, Karen
+ - Farrell, Allison
+ - Floyd, Kathy
+ - Fortin, Sylvie
+ - Fowler, Lois
+ - Fowler, Sharon
+ - Frey, Audrey
+ - Gagnon, Nathalie
+ - Gudereit, Marcia
+ - Hopkins, Heather
+ - Horne, Kate
+ - Kaylo, Kelly
+ - King, Cathy
+ - Lewis, Kristy
+ - Lowther, Tammi
+ - MacLeod, Lisa
+ - Mattatall, Mary
+ - McCusker, Joan
+ - McInnis, Susan
+ - McKnight, Patti
+ - Merklinger, Anne
+ - Moses, Dawn
+ - Muzika, Shelley
+ - Nedohin, Heather
+ - Renouf, Michele
+ - Scales, Julie
+ - Schikowski, Keri-Lynn
+ - Schmirler, Sandra
+ - Strong, Heather
+ - Thomas, Karen
+ - Trowell, Cathy
+ - Turpin, Kelli
 ---

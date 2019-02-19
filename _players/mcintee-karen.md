@@ -23,4 +23,45 @@ years:
    takeout-percent: 55
    shots-total: 184
    shots-percent: 63
+vs:
+ - Andrews, Lynne
+ - Aulenback, Wanda
+ - Baldwin, Laurel
+ - Bond, Arlene
+ - Bradley, Diane
+ - Buckway, Beverly
+ - Burns, Shannon
+ - Caron, Diane
+ - Crass, Kim
+ - Cunliffe, Donna
+ - Day, Arleen
+ - Felker, Arenlea
+ - Ferland, Marie
+ - Grange, Denise
+ - Hastings, Sharon
+ - Hepper, Dorothy
+ - Inouye, Wendy
+ - Jenkins, Sandra
+ - Jones, Colleen
+ - Jones, Karen
+ - Jones-Gordon, Barb
+ - Large, Gloria
+ - MacDonald, Irene
+ - Marchuk, Lindy
+ - Martineau, Donna
+ - McKendry, Shirley
+ - Mellis, Sheila
+ - Moriarty, Monica
+ - Ouellet, Louise
+ - Parker, Barbara
+ - Reynolds, Lynn
+ - Rose, Dorothy
+ - Shaw, Cathy
+ - Smith, Martha
+ - Squire, Velva
+ - Thompson, Carol
+ - Tousignant, Helene
+ - Vautour, Chantel
+ - Walter, Sheila
+ - Zinck, Kay
 ---

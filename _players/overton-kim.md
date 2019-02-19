@@ -37,4 +37,45 @@ years:
    event: Hearts
    team: "MB"
    position: Alternate
+vs:
+ - Adams, Diane
+ - Alexander, Diane
+ - Blanchard, Judy
+ - Brown, Katie
+ - Chapman, Kathy
+ - Dolan, Kim
+ - Englot, Michelle
+ - Fahlman, Kathy
+ - Floyd, Kathy
+ - Gabriele, Elena
+ - Goring, Alison
+ - Green, Sue
+ - Greening, Jackie-Rae
+ - Hanlon, Heidi
+ - Houston, Heather
+ - Jones, Karen
+ - Kehler, Lorie
+ - Kennedy, Tracy
+ - Koyanagi, Karen
+ - Lang, Lorraine
+ - Law, Kelley
+ - Lawes, Andrea
+ - MacCallum, Janice
+ - Maitland, Donna
+ - McHugh, Cindy
+ - McPherson, Cheryl
+ - Moses, Dawn
+ - Muzika, Shelley
+ - Poisson, Francine
+ - Power, Judy
+ - Rankin, Beth
+ - Rankin, Heather
+ - Ridley, Terry
+ - Santos, Deb
+ - Scott, Donna
+ - Stewart, Sheri
+ - Stokes, Debbie
+ - Stricker, Joan
+ - Turcotte, Kristin
+ - Usher, Leanne
 ---

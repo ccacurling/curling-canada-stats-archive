@@ -54,4 +54,80 @@ years:
    takeout-percent: 76
    shots-total: 200
    shots-percent: 68
+vs:
+ - Affleck, Tricia
+ - Aleksic, Shannon
+ - Allen, Michelle
+ - Arnott, Janet
+ - Arsenault, Mary-Anne
+ - Arseneau, Jane
+ - Balderston, Marcy
+ - Barrack, Carmen
+ - Bernard, Krista
+ - Blanchard, Judy
+ - Bohmer, Brenda
+ - Bradley, Shelly
+ - Breen, Theresa
+ - Byers, Denise
+ - Campbell, June
+ - Daku, Karen
+ - Davis, Brandee
+ - Delahunt, Nancy
+ - Dezura, Diane
+ - Dobson, Sue
+ - Dolan, Kim
+ - Farrell, Allison
+ - Floyd, Kathy
+ - Gellard, Kim
+ - Hanlon, Heidi
+ - Hatton, Sandra
+ - Henry, Lou Ann
+ - Horne, Kate
+ - Horte, Rhonda
+ - Jones, Colleen
+ - Jones-Walker, Debbie
+ - Karam, Sally
+ - Kelly, Kim
+ - King, Cathy
+ - Laliberte, Connie
+ - Law, Kelley
+ - MacCallum, Janice
+ - MacDonald, Rebecca Jean
+ - MacDougall, Leslie
+ - McCrady, Christine
+ - McDonald, Tina
+ - McGregor, Rona
+ - McKnight, Patti
+ - McNamee, Karen
+ - Merklinger, Anne
+ - Middaugh, Sherry
+ - Miller, Maureen
+ - Moore, Kristie
+ - Moss, Debbie
+ - Nedohin, Heather
+ - Ondrack, Wendy
+ - O'Rourke, Kathy
+ - Overton-Clapham, Cathy
+ - Peters, Laine
+ - Phillips, Margaret Lea
+ - Power, Marie-Anne
+ - Renouf, Michele
+ - Ross, Allison
+ - Sanders, Pat
+ - Skinner, Julie
+ - Smith, Heather
+ - Sonnenberg, Renee
+ - Stahl, Carrie
+ - Stewart, Sheri
+ - Street, Cindy
+ - Strong, Heather
+ - Tanner, Allison
+ - Tincher, Twyla
+ - Tucker, Cindy
+ - Turpin, Kelli
+ - Walter, Cathy
+ - Wheatcroft, Georgina
+ - Whitrow, Leanne
+ - Wright, Susan
+ - Zinck, Kay
 ---

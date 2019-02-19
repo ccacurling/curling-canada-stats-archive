@@ -56,4 +56,49 @@ years:
    takeout-percent: 63
    shots-total: 201
    shots-percent: 70
+vs:
+ - Allardyce, Kathie
+ - Asham, Sandra
+ - Aucoin, Shelley
+ - Augustyn, Jan
+ - Betker, Jan
+ - Blanchard, Judy
+ - Bodogh, Marilyn
+ - Bowering, Andrea
+ - Burry, Gail
+ - Cameron, Nancy
+ - Chapman, Kathy
+ - Corbin, Nicole
+ - Crocker, Cindy
+ - Cutcliffe, Margaret
+ - Dauphinais, Josee
+ - Dolan, Kim
+ - Duck, Kim
+ - Dunn, Anne
+ - Ellwood, Laurie
+ - Fahlman, Kathy
+ - Ferland, Marie
+ - Hanlon, Heidi
+ - Herlinveaux, Louise
+ - Hutchinson, Joan
+ - Jackson, Sherry
+ - Jackson, Virginia
+ - Jones, Karen
+ - Jurgenson, Christine
+ - Kerr, Kathy
+ - Marchuk, Lindy
+ - Massullo, Deb
+ - McEdwards, Kathy
+ - Messer, Janyce
+ - Muzika, Shelley
+ - Sanders, Pat
+ - Schmirler, Sandra
+ - Schneider, Sheila
+ - Scott, Donna
+ - Shields, Gail
+ - Stokes, Debbie
+ - Thompson, Carol
+ - Tousignant, Helene
+ - Treloar, Cathy
+ - Wheatcroft, Georgina
 ---

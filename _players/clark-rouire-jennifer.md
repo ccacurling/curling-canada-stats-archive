@@ -92,4 +92,26 @@ years:
    takeout-percent: 80
    shots-total: 8
    shots-percent: 84
+vs:
+ - Affleck, Tricia
+ - Bell, Chelsey
+ - Blais, Amelie
+ - Campbell, Jolene
+ - Carmody, Erin
+ - Chisholm, Candace
+ - Enright, Barb
+ - Filteau, Anne-Marie
+ - Hamon, Callan
+ - Howard, Ashley
+ - Kleibrink, Shannon
+ - Larouche, Marie-France
+ - Nicholls, Brenda
+ - Nixon, Amy
+ - O'Rourke, Kathy
+ - Ramsay, Geri Lynn
+ - Richards, Brette
+ - Robertson, Darcy
+ - Spencer, Barb
+ - Webster, Bronwen
+ - Williamson, Ashley
 ---

@@ -10,4 +10,9 @@ years:
    event: Hearts
    team: "BC"
    position: Alternate
+vs:
+ - Gates, Amanda
+ - Horgan, Tracy
+ - Walsh, Jenna
+ - Wylie, Jennifer
 ---

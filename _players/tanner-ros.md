@@ -23,4 +23,49 @@ years:
    takeout-percent: 70
    shots-total: 216
    shots-percent: 71
+vs:
+ - Affleck, Tricia
+ - Arsenault, Mary-Anne
+ - Belisle, Eve
+ - Birt, Suzanne
+ - Burgess, Carey
+ - Bush, Tracy
+ - Cameron, Nancy
+ - Carter, Sasha
+ - Comeau, Martine
+ - Crawford, Andrea
+ - Delahunt, Nancy
+ - deSolla, Jodie
+ - Gagnier, Monique
+ - Galusha, Kerry
+ - George, Tara
+ - Hardy, Shelley
+ - Harvey, Janet
+ - Hollands, Saskia
+ - Jones, Colleen
+ - Jones, Jennifer
+ - Kelly, Kim
+ - King, Cathy
+ - Lang, Lorraine
+ - Loder, Cherie-Ann
+ - MacDiarmid, Kristen
+ - McCagg-Nystrom, Heather
+ - McCarville, Krista
+ - McInnis, Susan
+ - Muise, Morgan
+ - Nugent, Pamela
+ - Officer, Jill
+ - O'Leary, Susan
+ - Olson-Johns, Lori
+ - Overton-Clapham, Cathy
+ - Rocque, Raylene
+ - Schraeder, Jeanna
+ - Scott, Kelly
+ - Simons, Renee
+ - Strong, Heather
+ - Strong, Laura
+ - Stubbings, Tiffany
+ - Thurston, Jill
+ - Turpin, Kelli
+ - Wheatcroft, Georgina
 ---

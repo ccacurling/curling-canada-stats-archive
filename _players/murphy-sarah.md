@@ -56,4 +56,49 @@ years:
    takeout-percent: 81
    shots-total: 212
    shots-percent: 80
+vs:
+ - Atkinson, Rebecca
+ - Birt, Suzanne
+ - Boyle, Jane
+ - Campbell, Jolene
+ - Carey, Chelsea
+ - Christianson, Marie
+ - Curtis, Stacie
+ - Devereaux, Julie
+ - Einarson, Kerri
+ - Fyfe, Liz
+ - Hamon, Callan
+ - Hanna, Jenn
+ - Hanna, Stephanie
+ - Howard, Ashley
+ - Hughes, Meaghan
+ - Jones, Jennifer
+ - Kaatz, Selena
+ - Larouche, Marie-France
+ - Lavery, Tracey
+ - Lawes, Kaitlyn
+ - Lemay, Annie
+ - Lilly, Kendra
+ - MacCuish, Kristin
+ - MacPhee, Robyn
+ - McCarville, Krista
+ - McEwen, Dawn
+ - Nicholls, Brenda
+ - Nixon, Amy
+ - Officer, Jill
+ - O'Neill, Brit
+ - Peterman, Jocelyn
+ - Peters, Laine
+ - Porter, Erin
+ - Potts, Sarah
+ - Rainville, Julie
+ - Recksiedler, Kristen
+ - Richard, Marie
+ - Robichaud, Sylvie
+ - Sagle, Karen
+ - Sippala, Ashley
+ - Thompson, Karla
+ - Vandale, Trysta
+ - Vautour, Carrie
+ - Williamson, Ashley
 ---

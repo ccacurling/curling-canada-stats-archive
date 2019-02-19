@@ -50,4 +50,13 @@ years:
    takeout-percent: 0
    shots-total: 2
    shots-percent: 50
+vs:
+ - Blais, Amelie
+ - Curtis, Stacie
+ - Devereaux, Julie
+ - Larouche, Marie-France
+ - Nicholls, Brenda
+ - Porter, Erin
+ - Rainville, Julie
+ - Trickett, Erica
 ---

@@ -37,4 +37,57 @@ years:
    event: Hearts
    team: "SK"
    position: Alternate
+vs:
+ - Arsenault, Mary-Anne
+ - Belley, Joelle
+ - Birt, Suzanne
+ - Blackburn, Julie
+ - Blanchard, Judy
+ - Bohmer, Brenda
+ - Byers, Denise
+ - Campbell, Gloria
+ - Cormier, Sharon
+ - Cunningham, Cathy
+ - Currie, Wendy
+ - Daniel, Sylvie
+ - Delahunt, Nancy
+ - Derick, Catherine
+ - Dunn, Anne
+ - Enright, Barb
+ - Fister, Teri
+ - Fister, Toni
+ - Gagnon, Nathalie
+ - Gogan, Jennifer
+ - Goss, Peg
+ - Greening, Jackie-Rae
+ - Hanlon, Heidi
+ - Hardy, Shelley
+ - Horne, Kate
+ - Jones, Colleen
+ - Kelly, Kim
+ - Kerr, Kathy
+ - Lacey, Stacey
+ - Lange, Ann
+ - MacDonald, Rebecca Jean
+ - MacNutt, Shelley
+ - MacPhee, Robyn
+ - Marchand, Karine
+ - Marchuk, Lindy
+ - Martin, Heather
+ - McConnery, Nancy
+ - McInnis, Susan
+ - Morgan, Cheryl
+ - Moses, Dawn
+ - Naugler, Tara
+ - O'Leary, Susan
+ - Osborne, Chantal
+ - Pinkney, Colleen
+ - Robertson, Darcy
+ - Santos, Deb
+ - Spencer, Barb
+ - Strachan, Angela
+ - Strong, Heather
+ - Strong, Laura
+ - Todd, Fran
+ - Unrau, Faye
 ---

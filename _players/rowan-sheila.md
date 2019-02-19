@@ -50,4 +50,77 @@ years:
    takeout-percent: 62
    shots-total: 177
    shots-percent: 63
+vs:
+ - Adams, Valerie
+ - Armstrong, Iris
+ - Bartlett, Sue Anne
+ - Beaudin, Yvonne
+ - Bell, Mary Susan
+ - Bildfell, Shelly
+ - Bonar, Maureen
+ - Bothwell-Myers, Connie
+ - Brawley, Sandra
+ - Brousseau, Deb
+ - Carney, Laurie
+ - Charette, Agnes
+ - Connor, Judy
+ - Crocker, Rene
+ - Crocker, Ruby
+ - Cutcliffe, Margaret
+ - Darbyshire, Carolyn
+ - Darbyshire, Merline
+ - Delorenzi, Marlene
+ - Deschatelets, Guylaine
+ - Dillon, Cathy
+ - Dolan, Kim
+ - Donald, Grace
+ - Dunstone, Carol
+ - Duranceau, Mary
+ - Dwyer, Patricia
+ - Erickson, Judy
+ - Filion, Nicole
+ - Gallant, Kathie
+ - Graham, Julie
+ - Horne, Sharon
+ - Hutchinson, Joan
+ - Jackson, Sherry
+ - Jackson, Virginia
+ - Jenkins, Sandra
+ - Jones-Walker, Debbie
+ - Jurgenson, Christine
+ - Keays, Stella
+ - Kerr, Heather
+ - Knickle, Margie
+ - Lamarre, June
+ - Lang, Lorraine
+ - LaRocque, Penny
+ - Leavitt, Pam
+ - Lethbridge, Sherry
+ - Lukowich, Judy
+ - Lynch, Pauline
+ - MacDonald, Karen
+ - MacKay, Carolyn
+ - Mainwaring, Bev
+ - McCallan, Berniece
+ - McCracken, Betty
+ - McCrae, Betty
+ - McCrae, Lou
+ - McCubbin, Sandy
+ - Moore, Linda
+ - Pinsent, Barbara
+ - Porter, Debbie
+ - Provo, Anne
+ - Raby, Linda
+ - Raby, Odette
+ - Rintoul, Jacki
+ - Ryan, Penny
+ - Sanford, Pamela
+ - Seitz, Susan
+ - Shaw, Cathy
+ - Shields, Gail
+ - Sparkes, Lindsay
+ - Twa, Dale
+ - Vaughan, Marlene
+ - Walter, Cathy
+ - Wuthrich, Patti
 ---

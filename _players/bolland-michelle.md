@@ -23,4 +23,9 @@ years:
    takeout-percent: 50
    shots-total: 22
    shots-percent: 70
+vs:
+ - Gagnier, Monique
+ - Galusha, Kerry
+ - McCagg-Nystrom, Heather
+ - Turpin, Kelli
 ---

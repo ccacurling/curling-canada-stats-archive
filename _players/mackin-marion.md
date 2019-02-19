@@ -23,4 +23,45 @@ years:
    takeout-percent: 63
    shots-total: 162
    shots-percent: 58
+vs:
+ - Arnott, Janet
+ - Barker, Catherine
+ - Bennett, Connie
+ - Boudreault, Tracie
+ - Carney, Laurie
+ - Carr, Judy
+ - Charette, Agnes
+ - Clarke, Betty
+ - Currie, Ann
+ - Currie, Barbara
+ - Currie, Wendy
+ - Deschatelets, Guylaine
+ - Earl, Allison
+ - Flesjer, Melody
+ - Gervais, Chris
+ - Greenwood, Jill
+ - Haspect, Ginette
+ - Howse, Lillian
+ - James, Elizabeth
+ - Jones, Colleen
+ - Jones-Gordon, Barb
+ - Jones-Walker, Debbie
+ - Kane, Cynthia
+ - Kaylo, Kelly
+ - Kelly, Anita
+ - Laliberte, Connie
+ - McGeary, Lori
+ - Millar, Bev
+ - Miller, Maureen
+ - Moore, Linda
+ - More, Chris
+ - Moriarty, Monica
+ - Noye, Marnie
+ - Raby, Odette
+ - Roland, Mavis
+ - Smith, Yvonne
+ - Sparkes, Lindsay
+ - Thompson, Gillian
+ - Todd, Fran
+ - Webb, Corine
 ---

@@ -41,4 +41,9 @@ years:
    takeout-percent: 100
    shots-total: 10
    shots-percent: 78
+vs:
+ - Hanna, Jenn
+ - Hanna, Stephanie
+ - Letendre, Pascale
+ - McEwen, Dawn
 ---

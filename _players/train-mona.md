@@ -23,4 +23,13 @@ years:
    takeout-percent: 64
    shots-total: 128
    shots-percent: 65
+vs:
+ - Bernard, Cheryl
+ - Delahunt, Nancy
+ - Jones, Colleen
+ - Kelly, Kim
+ - Pendergast, Judy
+ - Ruus, Karen
+ - Sherrington, Barb
+ - Zinck, Kay
 ---

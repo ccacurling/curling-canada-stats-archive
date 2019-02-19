@@ -23,4 +23,49 @@ years:
    takeout-percent: 61
    shots-total: 220
    shots-percent: 64
+vs:
+ - Adams, Diane
+ - Alexander, Diane
+ - Allardyce, Kathie
+ - Aucoin, Shelley
+ - Betker, Jan
+ - Brown, Katie
+ - Cameron, Nancy
+ - Cunningham, Cathy
+ - Ellwood, Laurie
+ - Floyd, Kathy
+ - Goring, Alison
+ - Greening, Jackie-Rae
+ - Gudereit, Marcia
+ - Hanlon, Heidi
+ - Harding, Mary
+ - Hensley, Merna
+ - Houston, Heather
+ - Jones, Colleen
+ - Kelly, Kim
+ - Kerr, Kathy
+ - Lang, Lorraine
+ - Lawes, Andrea
+ - Lidgren, Anna
+ - Mattatall, Mary
+ - McCusker, Joan
+ - McHugh, Cindy
+ - McPherson, Cheryl
+ - Overton-Clapham, Cathy
+ - Poisson, Francine
+ - Proctor, Jill
+ - Pross, Margaret
+ - Pushkar, Diane
+ - Putland, Rose
+ - Santos, Deb
+ - Schmirler, Sandra
+ - Skinner, Julie
+ - Soligo, Melissa
+ - Stewart, Sheri
+ - Sutton, Jodie
+ - Thomas, Maria
+ - Turcotte, Kristin
+ - Usher, Leanne
+ - Willms, Karri
+ - Wright, Susan
 ---

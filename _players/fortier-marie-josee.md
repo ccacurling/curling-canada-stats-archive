@@ -23,4 +23,49 @@ years:
    takeout-percent: 84
    shots-total: 211
    shots-percent: 84
+vs:
+ - Allen, Michelle
+ - Arsenault, Mary-Anne
+ - Bell, Chelsey
+ - Bradley, Shelly
+ - Bush, Tracy
+ - Carter, Sasha
+ - Clark, Stefanie
+ - Comeau, Sandy
+ - Delahunt, Nancy
+ - Farrell, Allison
+ - Gagnier, Monique
+ - Galusha, Kerry
+ - Gauthier, Cathy
+ - Hamilton, Beth
+ - Hanna, Jenn
+ - Hanna, Stephanie
+ - Jones, Colleen
+ - Jones, Jennifer
+ - Kasner, Marliese
+ - Kelly, Kim
+ - King, Cathy
+ - Lawton, Stefanie
+ - Leger, Stacey
+ - Letendre, Pascale
+ - MacDonald, Rebecca Jean
+ - MacPhee, Robyn
+ - Mattatall, Mary
+ - McCagg-Nystrom, Heather
+ - McEwen, Dawn
+ - Mittelstadt, Candice
+ - Moriarty, Monica
+ - Officer, Jill
+ - O'Leary, Susan
+ - Olson-Johns, Lori
+ - Overton-Clapham, Cathy
+ - Prosser, Sandi
+ - Rocque, Raylene
+ - Scott, Kelly
+ - Simons, Renee
+ - Singler, Sherri
+ - Strong, Heather
+ - Strong, Laura
+ - Turpin, Kelli
+ - Zinck, Kay
 ---

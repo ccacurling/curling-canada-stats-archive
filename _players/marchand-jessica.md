@@ -23,4 +23,49 @@ years:
    takeout-percent: 79
    shots-total: 216
    shots-percent: 78
+vs:
+ - Affleck, Tricia
+ - Arnott, Janet
+ - Bell, Allyson
+ - Bernard, Cheryl
+ - Beveridge, Corie
+ - Bodogh, Marilyn
+ - Bonar, Maureen
+ - Busche, Jodi
+ - Cey, Naomi
+ - Cooke, Gerri
+ - Cunningham, Cathy
+ - Delahunt, Nancy
+ - Dorosz, Peggy
+ - Fowler, Lois
+ - Garnett, Lorelei
+ - Gauthier, Cathy
+ - Gellard, Kim
+ - Hooper Perroud, Jane
+ - Hutton, Barb
+ - Jones, Colleen
+ - Kelly, Kim
+ - Kerr, Kathy
+ - Laliberte, Connie
+ - Leonard, Judy
+ - London, Debra
+ - MacDougall, Leslie
+ - Martin, Heather
+ - McInnis, Susan
+ - Middaugh, Sherry
+ - Mulroney, Sandra
+ - Nohr, Dianne
+ - O'Rourke, Kathy
+ - Overton-Clapham, Cathy
+ - Pendergast, Judy
+ - Phillips, Laura
+ - Ruus, Karen
+ - Scott, Donna
+ - Shephard, Wendy
+ - Sherrington, Barb
+ - Snider, Shelly
+ - Whipple, Paula
+ - Wieler, Bev
+ - Zielke, Colleen
+ - Zinck, Kay
 ---

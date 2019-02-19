@@ -23,4 +23,49 @@ years:
    takeout-percent: 74
    shots-total: 178
    shots-percent: 72
+vs:
+ - Arsenault, Mary-Anne
+ - Belley, Joelle
+ - Betker, Jan
+ - Birt, Suzanne
+ - Blackburn, Julie
+ - Bohmer, Brenda
+ - Byers, Denise
+ - Campbell, Gloria
+ - Cormier, Sharon
+ - Cunningham, Cathy
+ - Currie, Wendy
+ - Delahunt, Nancy
+ - Dunn, Anne
+ - Enright, Barb
+ - Fister, Teri
+ - Fister, Toni
+ - Gagnon, Nathalie
+ - Goss, Peg
+ - Greening, Jackie-Rae
+ - Gudereit, Marcia
+ - Horne, Kate
+ - Jones, Colleen
+ - Kelly, Kim
+ - Kerr, Kathy
+ - Lange, Ann
+ - Linton, Sherry
+ - MacDonald, Rebecca Jean
+ - MacNutt, Shelley
+ - MacPhee, Robyn
+ - Marchand, Karine
+ - Marchuk, Lindy
+ - Martin, Heather
+ - McConnery, Nancy
+ - McCusker, Joan
+ - McInnis, Susan
+ - Moses, Dawn
+ - Naugler, Tara
+ - Pinkney, Colleen
+ - Robertson, Darcy
+ - Santos, Deb
+ - Spencer, Barb
+ - Strachan, Angela
+ - Todd, Fran
+ - Unrau, Faye
 ---

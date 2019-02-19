@@ -50,4 +50,84 @@ years:
    takeout-percent: 61
    shots-total: 200
    shots-percent: 63
+vs:
+ - Allardyce, Kathie
+ - Asham, Sandra
+ - Aucoin, Shelley
+ - Augustyn, Jan
+ - Balderston, Marcy
+ - Bartlett, Sue Anne
+ - Beaudin, Yvonne
+ - Bell, Mary Susan
+ - Betker, Jan
+ - Bildfell, Shelly
+ - Bodogh, Marilyn
+ - Bowering, Andrea
+ - Brousseau, Deb
+ - Burkitt, Maureen
+ - Burry, Gail
+ - Cameron, Nancy
+ - Carney, Laurie
+ - Chapman, Kathy
+ - Corbin, Nicole
+ - Crocker, Cindy
+ - Cutcliffe, Margaret
+ - Darbyshire, Carolyn
+ - Darbyshire, Merline
+ - Dauphinais, Josee
+ - Dillon, Cathy
+ - Dolan, Kim
+ - Duck, Kim
+ - Dunn, Anne
+ - Duranceau, Mary
+ - Dwyer, Patricia
+ - Ellwood, Laurie
+ - Erickson, Judy
+ - Fahlman, Kathy
+ - Ferland, Marie
+ - Filion, Nicole
+ - Gallant, Kathie
+ - Gould, Karen
+ - Graham, Julie
+ - Herlinveaux, Louise
+ - Hutchinson, Joan
+ - Jackson, Sherry
+ - Jackson, Virginia
+ - Jones, Karen
+ - Jones-Walker, Debbie
+ - Jurgenson, Christine
+ - Kerr, Kathy
+ - Knickle, Margie
+ - Lamarre, June
+ - Leavitt, Pam
+ - Lukowich, Judy
+ - MacDonald, Karen
+ - MacLean, Jean
+ - Mainwaring, Bev
+ - Marchuk, Lindy
+ - Massullo, Deb
+ - McCracken, Betty
+ - McCrae, Betty
+ - McCrae, Lou
+ - McDonald, Tina
+ - McEdwards, Kathy
+ - Moore, Linda
+ - Muzika, Shelley
+ - Porter, Debbie
+ - Rintoul, Jacki
+ - Rowan, Sheila
+ - Sanders, Pat
+ - Savill, Jarron
+ - Schmirler, Sandra
+ - Schneider, Sheila
+ - Scott, Donna
+ - Seitz, Susan
+ - Sparkes, Lindsay
+ - Stokes, Debbie
+ - Thompson, Carol
+ - Tousignant, Helene
+ - Treloar, Cathy
+ - Twa, Dale
+ - Wheatcroft, Georgina
+ - Wilson, Eileen
 ---

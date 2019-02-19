@@ -83,4 +83,40 @@ years:
    takeout-percent: 0
    shots-total: 6
    shots-percent: 83
+vs:
+ - Armstrong, Jacquie
+ - Atkinson, Rebecca
+ - Babin, Jillian
+ - Barbour, Shona
+ - Bell, Chelsey
+ - Boyle, Jane
+ - Carter, Sasha
+ - Crawford, Andrea
+ - Curtis, Stacie
+ - deSolla, Jodie
+ - Galusha, Kerry
+ - Guzzwell, Stephanie
+ - Holland, Amber
+ - Jones, Jennifer
+ - Joyce, Blisse
+ - Kalenchuk, Heather
+ - Kleibrink, Shannon
+ - Lawes, Kaitlyn
+ - Martin, Heather
+ - McEwen, Dawn
+ - Miller, Wendy
+ - Moses, Dawn
+ - Nixon, Amy
+ - Nowlan, Denise
+ - Officer, Jill
+ - Parsons, Danielle
+ - Paul, Sarah
+ - Schneider, Kim
+ - Schneider, Tammy
+ - Schraeder, Jeanna
+ - Scott, Kelly
+ - Smith, Heather
+ - Sobey, Lianne
+ - Udle, Teri
+ - Webster, Bronwen
 ---

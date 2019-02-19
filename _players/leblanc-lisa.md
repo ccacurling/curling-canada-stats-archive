@@ -50,4 +50,86 @@ years:
    takeout-percent: 75
    shots-total: 212
    shots-percent: 73
+vs:
+ - Allen, Laurie
+ - Anderson, Sherry
+ - Arnott, Janet
+ - Arseneau, Jane
+ - Barrette, Peggy
+ - Bartlett, Sue Anne
+ - Bernard, Cheryl
+ - Betker, Jan
+ - Blanchard, Judy
+ - Boily, Caroline
+ - Bowman, Mary
+ - Brown, Marcie
+ - Brown, Maureen
+ - Charette, Agnes
+ - Charette, France
+ - Clark, Kim
+ - Combden, Cathy
+ - Crispo, Guylaine
+ - Cunningham, Cathy
+ - Dagg-Jackson, Elaine
+ - Daniel, Sylvie
+ - Derick, Catherine
+ - Dillon, Cathy
+ - Dolan, Kim
+ - Earl, Allison
+ - Englot, Michelle
+ - Fahlman, Kathy
+ - Floyd, Kathy
+ - Fraser, Sherry
+ - Gauthier, Cathy
+ - Gignac, Donna
+ - Goring, Alison
+ - Green, Sue
+ - Gudereit, Marcia
+ - Gushulak, Diane
+ - Hanlon, Heidi
+ - Harris, Susan
+ - Henry, Lou Ann
+ - Horne, Kate
+ - Jackson, Virginia
+ - Jennings, Tracey
+ - Jesty, Janet
+ - Jones, Colleen
+ - Jurgenson, Christine
+ - Kehler, Lorie
+ - Kellerman, Bev
+ - Kelly, Kim
+ - Kennedy, Tracy
+ - Kerr, Kathy
+ - King, Cathy
+ - Kyle, Linda
+ - Laliberte, Connie
+ - Law, Kelley
+ - MacAulay, Marion
+ - MacDonald, Rebecca Jean
+ - Mallett, Marla
+ - Martin, Heather
+ - Mattatall, Mary
+ - McArdle, Cindy
+ - McCloy, Elaine
+ - McConnery, Nancy
+ - McCrady, Christine
+ - McCusker, Joan
+ - McInnis, Susan
+ - Montgomery, Kay
+ - Nichols, Helen
+ - Osborne, Chantal
+ - Overton-Clapham, Cathy
+ - Phillips, Laura
+ - Sauer, Cathy
+ - Scales, Julie
+ - Schmirler, Sandra
+ - Sherrington, Barb
+ - Shields, Deanne
+ - Skinner, Julie
+ - Stewart, Sheri
+ - Stricker, Joan
+ - Sutton, Jodie
+ - Walker, Lisa
+ - Willms, Karri
+ - Wilson, Patty
 ---

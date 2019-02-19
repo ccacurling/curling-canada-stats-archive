@@ -37,4 +37,49 @@ years:
    takeout-percent: 71
    shots-total: 204
    shots-percent: 74
+vs:
+ - Allen, Susan
+ - Allerton, Dana
+ - Anderson, Sherry
+ - Arsenault, Mary-Anne
+ - Arseneau, Jane
+ - Belley, Joelle
+ - Bernard, Krista
+ - Blackburn, Julie
+ - Blashko, Denise
+ - Bohmer, Brenda
+ - Brown, Janet
+ - Burlington, Cheryl
+ - Cordina, Sheri
+ - Cormier, Sharon
+ - Cunningham, Cathy
+ - Delahunt, Nancy
+ - Fallis, Karen
+ - Fallis-Kurz, Lynn
+ - Farrell, Allison
+ - Floyd, Kathy
+ - Fortin, Sylvie
+ - Gagnier, Monique
+ - Gagnon, Nathalie
+ - Gignac, Donna
+ - Goss, Peg
+ - Harrison, Meredith
+ - Hodson, Kim
+ - Horne, Kate
+ - Iskiw, Beth
+ - Jones, Colleen
+ - Jones, Jennifer
+ - Kaylo, Kelly
+ - Kelly, Kim
+ - Kerr, Kathy
+ - King, Cathy
+ - Lawes, Andrea
+ - Lewis, Kristy
+ - MacDonald, Lawnie
+ - Martin, Heather
+ - Middaugh, Sherry
+ - Mittelstadt, Candice
+ - Mulroney, Sandra
+ - Power, Marie-Anne
+ - Trider, Krista
 ---

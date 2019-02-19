@@ -10,4 +10,5 @@ years:
    event: Hearts
    team: "PE"
    position: Alternate
+vs:
 ---

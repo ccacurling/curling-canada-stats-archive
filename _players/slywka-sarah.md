@@ -23,4 +23,50 @@ years:
    takeout-percent: 82
    shots-total: 206
    shots-percent: 86
+vs:
+ - Armstrong, Jacquie
+ - Atkinson, Rebecca
+ - Babin, Jillian
+ - Barbour, Shona
+ - Blais, Amelie
+ - Cameron, Nancy
+ - Carter, Sasha
+ - Cormier, Sharon
+ - Crawford, Andrea
+ - Cunningham, Jennifer
+ - deSolla, Jodie
+ - Dolan, Kim
+ - Dolan, Sinead
+ - Filteau, Anne-Marie
+ - Galusha, Kerry
+ - Gates, Amanda
+ - Holland, Amber
+ - Horgan, Tracy
+ - Iskiw, Beth
+ - Jones, Jennifer
+ - Joyce, Blisse
+ - Kalenchuk, Heather
+ - Koehler, Megan
+ - Korab, Stephanie
+ - Larouche, Marie-France
+ - Lawes, Kaitlyn
+ - MacDonald, Rebecca Jean
+ - Mair, Jessica
+ - McEwen, Dawn
+ - Nedohin, Heather
+ - Nicholls, Brenda
+ - Officer, Jill
+ - Parsons, Danielle
+ - Peters, Laine
+ - Schneider, Kim
+ - Schneider, Tammy
+ - Scott, Kelly
+ - Sivertson, Dailene
+ - Smith, Heather
+ - Strong, Heather
+ - Strong, Laura
+ - Thomas-Kennell, Noelle
+ - Udle, Teri
+ - Walsh, Jenna
+ - Wylie, Jennifer
 ---

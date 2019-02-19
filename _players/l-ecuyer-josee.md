@@ -10,4 +10,9 @@ years:
    event: Hearts
    team: "QC"
    position: Alternate
+vs:
+ - Blanchard, Judy
+ - Floyd, Kathy
+ - Hanlon, Heidi
+ - Stewart, Sheri
 ---

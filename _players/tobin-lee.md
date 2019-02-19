@@ -10,4 +10,9 @@ years:
    event: Hearts
    team: "QC"
    position: Alternate
+vs:
+ - Duck, Kim
+ - Dunn, Anne
+ - Marchuk, Lindy
+ - Thompson, Carol
 ---

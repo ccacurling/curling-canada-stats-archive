@@ -23,4 +23,49 @@ years:
    takeout-percent: 69
    shots-total: 230
    shots-percent: 68
+vs:
+ - Aucoin, Shelley
+ - Augustyn, Jan
+ - Bodogh, Marilyn
+ - Bussieres, Helene
+ - Carney, Laurie
+ - Chapman, Kathy
+ - Cossette, Pierrette
+ - Currey, Karen
+ - Currie, Ann
+ - Currie, Barbara
+ - Dickeson, Debbi
+ - Donald, Grace
+ - Emond, Muriel
+ - Enright, Barb
+ - Gervais, Chris
+ - Imai, Rita
+ - Jones, Colleen
+ - Jones-Walker, Debbie
+ - Jurgenson, Christine
+ - Kavanagh, Sheila
+ - Kerr, Heather
+ - LaRocque, Penny
+ - Lethbridge, Sherry
+ - MacKay, Carolyn
+ - McCallan, Berniece
+ - McEdwards, Kathy
+ - McGeary, Lori
+ - Millar, Bev
+ - Moore, Linda
+ - Noye, Marnie
+ - Potvin, Gisele
+ - Robertson, Darcy
+ - Robinson, Susan
+ - Scott, Donna
+ - Slemko, Jean
+ - Sparkes, Lindsay
+ - Spencer, Barb
+ - Stewart, Sheri
+ - Stokes, Debbie
+ - Thompson, Gillian
+ - Thompson, May
+ - Unrau, Faye
+ - Walter, Cathy
+ - Werenka, Lil
 ---

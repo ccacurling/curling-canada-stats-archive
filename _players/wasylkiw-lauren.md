@@ -50,4 +50,49 @@ years:
    takeout-percent:
    shots-total: 0
    shots-percent:
+vs:
+ - Arsenault, Mary-Anne
+ - Atkinson, Rebecca
+ - Ayrey, Jinaye
+ - Baxter, Jen
+ - Beauchamp, Sasha
+ - Birt, Suzanne
+ - Bradley, Shelly
+ - Carter, Sasha
+ - Cheveldave, Amber
+ - Cormier, Sharon
+ - Crawford, Andrea
+ - deJager, Blaine
+ - deSolla, Jodie
+ - Dufresne, Audree
+ - Dykstra, Michelle
+ - Fullerton, Sarah
+ - Galusha, Kerry
+ - Holtby, Taryn
+ - Homan, Rachel
+ - Iskiw, Beth
+ - Johnston, Kara
+ - Jones, Colleen
+ - Jones, Jennifer
+ - Kelly, Kim
+ - Koehler, Megan
+ - Kreviazuk, Alison
+ - Lawes, Kaitlyn
+ - MacDougall, Leslie
+ - Mair, Jessica
+ - McEwen, Dawn
+ - Miller, Wendy
+ - Miskew, Emma
+ - Moore, Kristie
+ - Nedohin, Heather
+ - Officer, Jill
+ - O'Rourke, Brittany
+ - Parsons, Danielle
+ - Peters, Laine
+ - Ross, Allison
+ - Schraeder, Jeanna
+ - Scott, Kelly
+ - Shumay, Jill
+ - Wazney, Sarah
+ - Weagle, Lisa
 ---

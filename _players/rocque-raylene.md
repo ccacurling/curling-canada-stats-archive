@@ -54,4 +54,75 @@ years:
    takeout-percent: 75
    shots-total: 196
    shots-percent: 76
+vs:
+ - Affleck, Tricia
+ - Allen, Michelle
+ - Arnott, Janet
+ - Arsenault, Mary-Anne
+ - Belisle, Eve
+ - Bell, Chelsey
+ - Birt, Suzanne
+ - Bradley, Shelly
+ - Burgess, Carey
+ - Cameron, Nancy
+ - Carter, Sasha
+ - Clark, Stefanie
+ - Comeau, Martine
+ - Comeau, Sandy
+ - Crawford, Andrea
+ - Delahunt, Nancy
+ - Derick, Catherine
+ - deSolla, Jodie
+ - Farrell, Allison
+ - Fortier, Marie-Josee
+ - Gagnier, Monique
+ - Galusha, Kerry
+ - Gauthier, Cathy
+ - Hamilton, Beth
+ - Hanna, Jenn
+ - Hanna, Stephanie
+ - Hardy, Shelley
+ - Harvey, Janet
+ - Hollands, Saskia
+ - Jones, Colleen
+ - Jones, Jennifer
+ - Jones-Walker, Debbie
+ - Kasner, Marliese
+ - Kelly, Kim
+ - Laliberte, Connie
+ - Lawton, Stefanie
+ - Leger, Stacey
+ - Letendre, Pascale
+ - Loder, Cherie-Ann
+ - MacDiarmid, Kristen
+ - MacDonald, Rebecca Jean
+ - MacPhee, Robyn
+ - Mattatall, Mary
+ - McCagg-Nystrom, Heather
+ - McEwen, Dawn
+ - McInnis, Susan
+ - Mittelstadt, Candice
+ - Moriarty, Monica
+ - Muise, Morgan
+ - Nicholls, Brenda
+ - Nugent, Pamela
+ - Officer, Jill
+ - O'Leary, Susan
+ - Overton-Clapham, Cathy
+ - Prosser, Sandi
+ - Ridalls, Kristen
+ - Ross, Allison
+ - Rudulier, Andrea
+ - Schraeder, Jeanna
+ - Scott, Kelly
+ - Simons, Renee
+ - Singler, Sherri
+ - Streifel, Tracy
+ - Strong, Heather
+ - Strong, Laura
+ - Tanner, Ros
+ - Thurston, Jill
+ - Turpin, Kelli
+ - Wheatcroft, Georgina
+ - Zinck, Kay
 ---

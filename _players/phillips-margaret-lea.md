@@ -23,4 +23,49 @@ years:
    takeout-percent: 61
    shots-total: 214
    shots-percent: 71
+vs:
+ - Affleck, Tricia
+ - Arnott, Janet
+ - Arsenault, Mary-Anne
+ - Barrack, Carmen
+ - Bernard, Krista
+ - Berthelot, Janique
+ - Blanchard, Judy
+ - Bradley, Shelly
+ - Breen, Theresa
+ - Campbell, June
+ - Daku, Karen
+ - Dezura, Diane
+ - Dobson, Sue
+ - Frey, Audrey
+ - Hanlon, Heidi
+ - Jones, Colleen
+ - Jones-Walker, Debbie
+ - Kelly, Kim
+ - Laliberte, Connie
+ - Law, Kelley
+ - Leclerc, Valerie
+ - Lemay, Annie
+ - MacCallum, Janice
+ - MacDougall, Leslie
+ - McGregor, Rona
+ - McKnight, Patti
+ - Merklinger, Anne
+ - Moore, Kristie
+ - Nedohin, Heather
+ - Overton-Clapham, Cathy
+ - Peters, Laine
+ - Renouf, Michele
+ - Sabourin, Joelle
+ - Skinner, Julie
+ - Smith, Heather
+ - Stewart, Sheri
+ - Strong, Heather
+ - Thurston, Jill
+ - Turpin, Kelli
+ - Walter, Cathy
+ - Wheatcroft, Georgina
+ - Whitrow, Leanne
+ - Wright, Susan
+ - Zinck, Kay
 ---

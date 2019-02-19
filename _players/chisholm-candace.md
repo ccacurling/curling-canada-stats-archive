@@ -70,4 +70,19 @@ years:
    takeout-percent:
    shots-total: 6
    shots-percent: 75
+vs:
+ - Clark-Rouire, Jennifer
+ - Cunningham, Jennifer
+ - Jones, Jennifer
+ - Joyce, Blisse
+ - Korab, Stephanie
+ - Lawes, Kaitlyn
+ - McEwen, Dawn
+ - Officer, Jill
+ - Parsons, Danielle
+ - Smith, Heather
+ - Strong, Heather
+ - Strong, Laura
+ - Thomas-Kennell, Noelle
+ - Udle, Teri
 ---

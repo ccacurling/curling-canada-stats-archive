@@ -50,4 +50,81 @@ years:
    takeout-percent: 81
    shots-total: 211
    shots-percent: 77
+vs:
+ - Arnott, Janet
+ - Arseneau, Jane
+ - Aucoin, Shelley
+ - Baker, Rose-Marie
+ - Betker, Jan
+ - Blair, Diane
+ - Blanchard, Judy
+ - Boily, Caroline
+ - Bowman, Mary
+ - Bradley, Shelly
+ - Breen, Theresa
+ - Bryant, Angie
+ - Cameron, Nancy
+ - Charette, Agnes
+ - Charette, France
+ - Copeland, Rae Ann
+ - Crispo, Guylaine
+ - Cunningham, Cathy
+ - Dalio, Diane
+ - Daniel, Sylvie
+ - Derick, Catherine
+ - Dolan, Kim
+ - Flannigan, Lorraine
+ - Floyd, Kathy
+ - Fraser, Sherry
+ - Frey, Audrey
+ - Funk, LaDawn
+ - Gauthier, Cathy
+ - Gervais, Donna
+ - Goring, Alison
+ - Gudereit, Marcia
+ - Gushulak, Diane
+ - Hanlon, Heidi
+ - Harris, Susan
+ - Henry, Lou Ann
+ - Horne, Kate
+ - Jackson, Virginia
+ - Jennings, Tracey
+ - Jesty, Janet
+ - Johnstone, Loralee
+ - Jones, Colleen
+ - Jurgenson, Christine
+ - Kelly, Kim
+ - Kerr, Kathy
+ - King, Cathy
+ - Kyle, Linda
+ - Laliberte, Connie
+ - Law, Kelley
+ - Lawrence, Margaret
+ - Leblanc, Lisa
+ - MacAulay, Marion
+ - MacCallum, Janice
+ - MacDonald, Rebecca Jean
+ - MacKenzie, Doris
+ - Mallett, Marla
+ - Martin, Heather
+ - McConnery, Nancy
+ - McCrady, Christine
+ - McCusker, Joan
+ - McKnight, Patti
+ - McLeod, Crystal
+ - Merklinger, Anne
+ - Moses, Dawn
+ - Muzika, Shelley
+ - Osborne, Chantal
+ - Overton-Clapham, Cathy
+ - Palinkas, Gloria
+ - Phillips, Laura
+ - Purdy, Karen
+ - Robinson, Charlene
+ - Schmirler, Sandra
+ - Shields, Deanne
+ - Stewart, Sheri
+ - Stokes, Debbie
+ - Taylor, Candy
+ - Zinck, Kay
 ---

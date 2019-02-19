@@ -23,4 +23,51 @@ years:
    takeout-percent: 79
    shots-total: 214
    shots-percent: 78
+vs:
+ - Alcoe-Holland, Jill
+ - Aleksic, Shannon
+ - Barker, Penny
+ - Belisle, Eve
+ - Cameron, Kate
+ - Carey, Chelsea
+ - Courtney, Joanne
+ - Curtis, Stacie
+ - Cutcliffe, Margaret
+ - deJager, Blaine
+ - Devereaux, Julie
+ - Doig, Deanna
+ - Englot, Michelle
+ - Eyamie, Lisa
+ - Fullerton, Sarah
+ - Hill, Trish
+ - Homan, Rachel
+ - Hughes, Meaghan
+ - Kleibrink, Shannon
+ - Lilly, Kendra
+ - MacPhee, Robyn
+ - Mallett, Marla
+ - Mann, Lauren
+ - Mattatall, Mary
+ - McCarville, Krista
+ - McQuaid, Michelle
+ - Miskew, Emma
+ - Nedohin, Heather
+ - Nixon, Amy
+ - O'Rourke, Brittany
+ - Peterman, Jocelyn
+ - Peters, Laine
+ - Porter, Erin
+ - Potts, Sarah
+ - Recksiedler, Kristen
+ - Richards, Brette
+ - Saulnier, Andrea
+ - Schneider, Lorraine
+ - Sicinski, Danielle
+ - Sippala, Ashley
+ - Thiessen, Alison
+ - Trickett, Erica
+ - Weagle, Lisa
+ - Westcott, Raunora
+ - Wilkes, Sarah
+ - Wilson, Leslie
 ---

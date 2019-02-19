@@ -10,4 +10,9 @@ years:
    event: Hearts
    team: "TR"
    position: Alternate
+vs:
+ - Bohmer, Brenda
+ - Horne, Kate
+ - King, Cathy
+ - Nedohin, Heather
 ---

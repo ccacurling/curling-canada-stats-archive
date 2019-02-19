@@ -56,4 +56,9 @@ years:
    takeout-percent: 60
    shots-total: 5
    shots-percent: 60
+vs:
+ - Aleksic, Shannon
+ - deJager, Blaine
+ - Mallett, Marla
+ - Richards, Brette
 ---

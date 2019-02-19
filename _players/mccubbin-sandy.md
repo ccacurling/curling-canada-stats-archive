@@ -23,4 +23,45 @@ years:
    takeout-percent: 73
    shots-total: 178
    shots-percent: 71
+vs:
+ - Adams, Valerie
+ - Armstrong, Iris
+ - Bildfell, Shelly
+ - Bonar, Maureen
+ - Bothwell-Myers, Connie
+ - Brawley, Sandra
+ - Charette, Agnes
+ - Crocker, Rene
+ - Crocker, Ruby
+ - Delorenzi, Marlene
+ - Deschatelets, Guylaine
+ - Dillon, Cathy
+ - Dolan, Kim
+ - Donald, Grace
+ - Dunstone, Carol
+ - Gallant, Kathie
+ - Horne, Sharon
+ - Jenkins, Sandra
+ - Jurgenson, Christine
+ - Keays, Stella
+ - Lang, Lorraine
+ - LaRocque, Penny
+ - MacDonald, Karen
+ - MacKay, Carolyn
+ - MacLean, Jean
+ - Martin, Lillian
+ - McCrae, Betty
+ - McCrae, Lou
+ - Pinsent, Barbara
+ - Provo, Anne
+ - Raby, Linda
+ - Raby, Odette
+ - Rowan, Sheila
+ - Ryan, Penny
+ - Sanford, Pamela
+ - Sefton, Judy
+ - Shaw, Cathy
+ - Twa, Dale
+ - Walter, Cathy
+ - Wuthrich, Patti
 ---

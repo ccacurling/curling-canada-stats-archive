@@ -83,4 +83,53 @@ years:
    takeout-percent: 76
    shots-total: 198
    shots-percent: 79
+vs:
+ - Anderson, Sherry
+ - Atkinson, Rebecca
+ - Baier, Stephanie
+ - Brothers, Jill
+ - Brown, Rachelle
+ - Carey, Chelsea
+ - Cooper, Kathryn
+ - Cottrill, Katie
+ - Court, Morgan
+ - Courtney, Joanne
+ - Crawford, Andrea
+ - Cunningham, Jessica
+ - deSolla, Jodie
+ - Duncan, Chelsea
+ - Ferguson, Dana
+ - Flaxey, Allison
+ - Foster, Kristen
+ - Gannon, Melissa
+ - Holland, Amber
+ - Homan, Rachel
+ - Joyce, Blisse
+ - Kalenchuk, Heather
+ - Kasner, Marliese
+ - Koltun, Sarah
+ - Kreviazuk, Alison
+ - Kreviazuk, Lynn
+ - Lawton, Stefanie
+ - McDonald, Kristy
+ - Miskew, Emma
+ - Nugent, Pamela
+ - O'Rourke, Brittany
+ - Parsons, Danielle
+ - Ross, Allison
+ - Sanderson, Jessie
+ - Sandwith, Carley
+ - Schneider, Kim
+ - Schneider, Tammy
+ - Sinclair, Andrea
+ - Singler, Sherri
+ - Smith, Heather
+ - Strong, Heather
+ - Strong, Laura
+ - Sweeting, Valerie
+ - Titheridge, Lindsay
+ - Udle, Teri
+ - Van Osch, Kesa
+ - Wallingham, Patty
+ - Weagle, Lisa
 ---

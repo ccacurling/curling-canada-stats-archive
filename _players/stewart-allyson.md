@@ -10,4 +10,9 @@ years:
    event: Hearts
    team: "MB"
    position: Alternate
+vs:
+ - Dezura, Diane
+ - Gushulak, Diane
+ - Reed, Shellan
+ - Wheatcroft, Georgina
 ---

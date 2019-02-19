@@ -23,4 +23,49 @@ years:
    takeout-percent: 62
    shots-total: 188
    shots-percent: 66
+vs:
+ - Adams, Diane
+ - Alexander, Diane
+ - Bartlett, Sue Anne
+ - Blanchard, Judy
+ - Chapman, Kathy
+ - Chaulk, Wendy
+ - Dolan, Kim
+ - Dwyer, Patricia
+ - Englot, Michelle
+ - Fahlman, Kathy
+ - Floyd, Kathy
+ - Goring, Alison
+ - Green, Sue
+ - Greening, Jackie-Rae
+ - Hanlon, Heidi
+ - Harvey, Janet
+ - Houston, Heather
+ - Jones, Karen
+ - Kehler, Lorie
+ - Kennedy, Tracy
+ - Koyanagi, Karen
+ - Lang, Lorraine
+ - Law, Kelley
+ - Lawes, Andrea
+ - MacCallum, Janice
+ - Maitland, Donna
+ - McPherson, Cheryl
+ - Moses, Dawn
+ - Muzika, Shelley
+ - Overton, Kim
+ - Porter, Debbie
+ - Power, Judy
+ - Rankin, Beth
+ - Rankin, Heather
+ - Ridley, Terry
+ - Ryan, Jennifer
+ - Santos, Deb
+ - Scott, Donna
+ - Sigurdson, Janine
+ - Stewart, Sheri
+ - Stokes, Debbie
+ - Stricker, Joan
+ - Turcotte, Kristin
+ - Usher, Leanne
 ---

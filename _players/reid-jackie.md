@@ -23,4 +23,9 @@ years:
    takeout-percent: 75
    shots-total: 48
    shots-percent: 89
+vs:
+ - Cooper, Kathryn
+ - Cunningham, Jessica
+ - Strong, Heather
+ - Strong, Laura
 ---

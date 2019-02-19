@@ -23,4 +23,49 @@ years:
    takeout-percent: 72
    shots-total: 200
    shots-percent: 72
+vs:
+ - Affleck, Tricia
+ - Anderson, Sherry
+ - Arsenault, Mary-Anne
+ - Bakker, Glenys
+ - Birt, Suzanne
+ - Blanchard, Judy
+ - Bonar, Maureen
+ - Cooke, Gerri
+ - Cordina, Sheri
+ - Cunningham, Cathy
+ - Delahunt, Nancy
+ - Dezura, Diane
+ - Dobson, Sue
+ - Fowler, Lois
+ - Gagnon, Karo
+ - Gignac, Donna
+ - Goss, Peg
+ - Gregoire, Veronique
+ - Gushulak, Diane
+ - Hanlon, Heidi
+ - Harrison, Meredith
+ - Hodson, Kim
+ - Hunter, Lana
+ - Iskiw, Beth
+ - Jones, Colleen
+ - Kelly, Kim
+ - Kerr, Kathy
+ - Kleibrink, Shannon
+ - Larouche, Marie-France
+ - Lawes, Andrea
+ - Lemay, Annie
+ - MacCallum, Janice
+ - Marchand, Stephanie
+ - Martin, Heather
+ - McInnis, Susan
+ - Middaugh, Sherry
+ - Mulroney, Sandra
+ - Nixon, Amy
+ - Peters, Laine
+ - Reed, Shellan
+ - Smith, Heather
+ - Stewart, Sheri
+ - Wall, Kirsten
+ - Wheatcroft, Georgina
 ---

@@ -23,4 +23,50 @@ years:
    takeout-percent: 71
    shots-total: 223
    shots-percent: 76
+vs:
+ - Adams, Diane
+ - Alexander, Diane
+ - Blanchard, Judy
+ - Carter, Linda
+ - Charette, Agnes
+ - Charette, France
+ - Chicoine, Helene
+ - Davis, Carol
+ - Deschatelets, Guylaine
+ - Dezura, Diane
+ - Englot, Michelle
+ - Floyd, Kathy
+ - Gallant, Kathie
+ - Graham-MacDonald, Bea
+ - Greenwood, Jill
+ - Hanlon, Heidi
+ - Houston, Heather
+ - Hunt, Donna
+ - Kehler, Lorie
+ - King, Shirley
+ - Kuruluk, Kristen
+ - Lang, Lorraine
+ - McInnis, Susan
+ - More, Chris
+ - O'Rourke, Kathy
+ - Phillips, Laura
+ - Pruden, Twyla
+ - Purdy, Karen
+ - Rudd, Colleen
+ - Ryan, Diane
+ - Ryan, Penny
+ - Sanders, Pat
+ - Santos, Deb
+ - Skinner, Julie
+ - Smith, Yvonne
+ - Soligo, Melissa
+ - Sparrow, Sandra
+ - Stewart, Sheri
+ - Stricker, Joan
+ - Taylor, Gloria
+ - Thomas, Karen
+ - Todd, Fran
+ - Wheatcroft, Georgina
+ - Whitrow, Leanne
+ - Zeller, Lori
 ---

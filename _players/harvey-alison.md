@@ -54,4 +54,88 @@ years:
    event: Hearts
    team: "MB"
    position: Alternate
+vs:
+ - Affleck, Tricia
+ - Arsenault, Mary-Anne
+ - Arseneau, Jane
+ - Baker, Michelle
+ - Balderston, Marcy
+ - Belanger, Nancy
+ - Betker, Jan
+ - Beveridge, Corie
+ - Bodogh, Marilyn
+ - Bohmer, Brenda
+ - Bowman, Mary
+ - Bradley, Shelly
+ - Brown, Jacalyn
+ - Brown, Janet
+ - Campbell, June
+ - Charette, France
+ - Cordina, Sheri
+ - Cormier, Sharon
+ - Cunningham, Cathy
+ - Daniel, Sylvie
+ - Delahunt, Nancy
+ - Dezura, Diane
+ - Dolan, Kim
+ - Eddy, Lori
+ - Englot, Michelle
+ - Farrell, Allison
+ - Floyd, Kathy
+ - Fraser, Sherry
+ - Galusha, Kerry
+ - Gellard, Kim
+ - Goring, Alison
+ - Grenier, Valerie
+ - Gudereit, Marcia
+ - Hanlon, Heidi
+ - Harding, Mary
+ - Henry, Lou Ann
+ - Holowec, Ainsley
+ - Hooper Perroud, Jane
+ - Horne, Kate
+ - Jones, Colleen
+ - Jurgenson, Christine
+ - Kaylo, Kelly
+ - Kehler, Lorie
+ - Kelly, Kim
+ - Kerr, Kathy
+ - King, Cathy
+ - Larouche, Marie-France
+ - Law, Kelley
+ - Lawes, Andrea
+ - Lemay, Annie
+ - MacAulay, Marion
+ - MacCallum, Janice
+ - MacDonald, Rebecca Jean
+ - MacDonald, Shelley
+ - MacDougall, Leslie
+ - Mallett, Marla
+ - Martin, Heather
+ - Materi, Roberta
+ - McCagg-Nystrom, Heather
+ - McCusker, Joan
+ - McDonald, Tina
+ - McNamee, Karen
+ - Middaugh, Sherry
+ - Moore, Kim
+ - Moss, Debbie
+ - Nedohin, Heather
+ - O'Leary, Susan
+ - Ondrack, Wendy
+ - Osborne, Chantal
+ - Phillips, Laura
+ - Power, Marie-Anne
+ - Radford, Helen
+ - Sabourin, Joelle
+ - Schmirler, Sandra
+ - Skinner, Julie
+ - Sonnenberg, Renee
+ - Stabel, Stacey
+ - Stricker, Joan
+ - Strong, Heather
+ - Strong, Laura
+ - Tasaka, Adina
+ - Wheatcroft, Georgina
+ - Whitaker, Lise
 ---

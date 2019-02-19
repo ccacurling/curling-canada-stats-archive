@@ -50,4 +50,77 @@ years:
    takeout-percent: 77
    shots-total: 205
    shots-percent: 78
+vs:
+ - Affleck, Tricia
+ - Aleksic, Shannon
+ - Armstrong, Jacquie
+ - Babin, Jillian
+ - Barbour, Shona
+ - Belisle, Eve
+ - Brown, Jacalyn
+ - Carmody, Erin
+ - Carter, Sasha
+ - Comeau, Martine
+ - Cormier, Sharon
+ - Crawford, Andrea
+ - Cunningham, Cathy
+ - deSolla, Jodie
+ - Einarson, Megan
+ - Ellis, Danielle
+ - Enright, Barb
+ - Galusha, Kerry
+ - George, Tara
+ - Georges, Kendra
+ - Goss, Peg
+ - Gushulak, Diane
+ - Hardy, Shelley
+ - Holland, Amber
+ - Jewer, Michelle
+ - Jones, Jennifer
+ - Kalenchuk, Heather
+ - Kasner, Marliese
+ - Koehler, Megan
+ - Lang, Lorraine
+ - Lawton, Stefanie
+ - LeDrew, Stephanie
+ - Lemon, Colette
+ - Lowther, Tammi
+ - MacDonald, Rebecca Jean
+ - MacInnes, Grace
+ - MacLean, Kari
+ - MacPhee, Robyn
+ - Makichuck, Lindsay
+ - Mallett, Marla
+ - McCarville, Krista
+ - McEwen, Dawn
+ - More, Whitney
+ - Moses, Dawn
+ - Muzika, Shelley
+ - Naugler, Tara
+ - Nicholls, Brenda
+ - Nowlan, Denise
+ - Officer, Jill
+ - O'Rourke, Kathy
+ - Overton-Clapham, Cathy
+ - Phillips, Kristen
+ - Rainville, Julie
+ - Ramsay, Geri Lynn
+ - Richards, Brette
+ - Robertson, Darcy
+ - Rogers, Rhonda
+ - Schneider, Kim
+ - Schneider, Tammy
+ - Schraeder, Jeanna
+ - Scott, Kelly
+ - Singler, Sherri
+ - Sippala, Ashley
+ - Sobey, Lianne
+ - Spencer, Barb
+ - Strong, Heather
+ - Strong, Laura
+ - Surik, Teejay
+ - Sweeting, Valerie
+ - Thurston, Jill
+ - Vey, Lana
+ - Wilson, Leslie
 ---

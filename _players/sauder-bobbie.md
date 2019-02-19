@@ -10,4 +10,9 @@ years:
    event: Hearts
    team: "NL"
    position: Alternate
+vs:
+ - Harmark, Andra
+ - Middaugh, Sherry
+ - Moore, Kim
+ - Wall, Kirsten
 ---

@@ -41,4 +41,24 @@ years:
    event: Hearts
    team: "NL"
    position: Alternate
+vs:
+ - Anderson, Sherry
+ - Brown, Rachelle
+ - Chisholm, Candace
+ - Englot, Michelle
+ - Ferguson, Dana
+ - Iskiw, Beth
+ - Kasner, Marliese
+ - Lawton, Stefanie
+ - Mair, Jessica
+ - Materi, Roberta
+ - Nedohin, Heather
+ - Nixon, Amy
+ - Olson-Johns, Lori
+ - Peters, Laine
+ - Schmidt, Stephanie
+ - Slywka, Sarah
+ - Sweeting, Valerie
+ - Vey, Lana
+ - Wilkes, Sarah
 ---

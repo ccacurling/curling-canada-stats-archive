@@ -67,4 +67,53 @@ years:
    takeout-percent: 87
    shots-total: 236
    shots-percent: 84
+vs:
+ - Adams, Melissa
+ - Anderson, Sherry
+ - Arsenault-Bishop, Nicole
+ - Barbour, Shona
+ - Birchard, Shannon
+ - Blais, Amelie
+ - Chislett, Geneva
+ - Duncan, Chelsea
+ - Duncan, Jenna
+ - Einarson, Kerri
+ - Fesser, Kourtney
+ - Fesser, Krista
+ - Filteau, Anne-Marie
+ - Fleury, Tracy
+ - Fullerton, Sarah
+ - Fyfe, Liz
+ - Galusha, Kerry
+ - Gates, Amanda
+ - Gibson, Amy
+ - Hughes, Meaghan
+ - Hutchings, Denise
+ - Jones, Jennifer
+ - Kaatz, Selena
+ - Koehler, Megan
+ - Koltun, Sarah
+ - Korchinski, Karlee
+ - Lister, Kendra
+ - MacCuish, Kristin
+ - MacPhee, Robyn
+ - Mann, Lauren
+ - McEwen, Dawn
+ - McQuaid, Michelle
+ - McTaggart, Cary-Anne
+ - Moore, Kristie
+ - Officer, Jill
+ - O'Rourke, Brittany
+ - Price, Kara
+ - Robichaud, Sylvie
+ - Scheidegger, Casey
+ - Scheidegger, Jessie
+ - Shackleton, Amie
+ - Smallwood, Jody
+ - Van Osch, Kalia
+ - Van Osch, Kesa
+ - Van Osch, Marika
+ - Webster, Crystal
+ - West, Christianne
+ - Wylie, Jennifer
 ---

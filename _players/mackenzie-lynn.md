@@ -10,4 +10,5 @@ years:
    event: Hearts
    team: "NB"
    position: Alternate
+vs:
 ---

@@ -56,4 +56,9 @@ years:
    takeout-percent: 67
    shots-total: 4
    shots-percent: 63
+vs:
+ - Homan, Rachel
+ - Kreviazuk, Alison
+ - LeDrew, Stephanie
+ - Miskew, Emma
 ---

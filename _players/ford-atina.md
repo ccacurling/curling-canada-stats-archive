@@ -37,4 +37,5 @@ years:
    event: Hearts
    team: "CA"
    position: Alternate
+vs:
 ---

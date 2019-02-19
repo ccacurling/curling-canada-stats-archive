@@ -70,4 +70,53 @@ years:
    event: Hearts
    team: "SK"
    position: Alternate
+vs:
+ - Arsenault, Mary-Anne
+ - Belanger, Nancy
+ - Bell, Chelsey
+ - Birt, Suzanne
+ - Brennan, Amanda
+ - Carrier, Julie
+ - Carter, Sasha
+ - Clark, Stefanie
+ - Crouse, Jennifer
+ - Cunningham, Cathy
+ - Delahunt, Nancy
+ - Englot, Michelle
+ - Gilman, Sheena
+ - Goss, Peg
+ - Harmark, Andra
+ - Jones, Jennifer
+ - Kelly, Kim
+ - Kidd, Darlene
+ - Kleibrink, Shannon
+ - Larouche, Marie-France
+ - Lemay, Annie
+ - MacInnes, Allison
+ - MacPhee, Robyn
+ - Materi, Roberta
+ - McConnery, Nancy
+ - McEwen, Dawn
+ - Middaugh, Sherry
+ - Moore, Kim
+ - Nicholson, Danielle
+ - Nixon, Amy
+ - Officer, Jill
+ - Overton-Clapham, Cathy
+ - Peters, Laine
+ - Richard, Marie
+ - Robichaud, Sylvie
+ - Sabourin, Joelle
+ - Schraeder, Jeanna
+ - Scott, Kelly
+ - Simmons, Cindy
+ - Simons, Renee
+ - Strong, Heather
+ - Strong, Laura
+ - Thomas, Jill
+ - Thompson, Karla
+ - Wall, Kirsten
+ - Webster, Bronwen
+ - Whitaker, Carol
+ - Yardley, Janelle
 ---

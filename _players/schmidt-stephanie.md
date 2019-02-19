@@ -50,4 +50,57 @@ years:
    takeout-percent: 82
    shots-total: 272
    shots-percent: 83
+vs:
+ - Anderson, Sherry
+ - Arsenault, Mary-Anne
+ - Atkinson, Rebecca
+ - Baxter, Jen
+ - Birt, Suzanne
+ - Black, Christina
+ - Blais, Amelie
+ - Boyle, Jane
+ - Bradley, Shelly
+ - Brown, Rachelle
+ - Camozzi, Rhona
+ - Collins, Katrina
+ - Cooper, Kathryn
+ - Courtney, Joanne
+ - Cunningham, Jessica
+ - Ferguson, Dana
+ - Fewster, Kristen
+ - Filteau, Anne-Marie
+ - Gates, Amanda
+ - Hastings, Julie
+ - Homan, Rachel
+ - Horgan, Tracy
+ - Jones, Jennifer
+ - Kasner, Marliese
+ - Knezevic, Patti
+ - Korab, Stephanie
+ - Kreviazuk, Alison
+ - Lawes, Kaitlyn
+ - Lawton, Stefanie
+ - Mann, Lauren
+ - McEwen, Dawn
+ - McInnis, Susan
+ - McQuaid, Michelle
+ - Miskew, Emma
+ - Officer, Jill
+ - Olson-Johns, Lori
+ - O'Rourke, Brittany
+ - Richard, Marie
+ - Robichaud, Sylvie
+ - Rusnell, Jen
+ - Singler, Sherri
+ - Sivertson, Dailene
+ - Smith, Stacey
+ - Snyder, Jane
+ - Strong, Heather
+ - Strong, Laura
+ - Sweeting, Valerie
+ - Thomas-Kennell, Noelle
+ - Trombley, Christy
+ - Walsh, Jenna
+ - Weagle, Lisa
+ - Wylie, Jennifer
 ---

@@ -23,4 +23,49 @@ years:
    takeout-percent: 70
    shots-total: 210
    shots-percent: 66
+vs:
+ - Anderson, Sherry
+ - Arnott, Janet
+ - Betker, Jan
+ - Blair, Diane
+ - Blanchard, Judy
+ - Bradley, Shelly
+ - Breen, Theresa
+ - Bryant, Angie
+ - Cameron, Nancy
+ - Charette, Agnes
+ - Charette, France
+ - Copeland, Rae Ann
+ - Cunningham, Cathy
+ - Dalio, Diane
+ - Daniel, Sylvie
+ - Flannigan, Lorraine
+ - Frey, Audrey
+ - Gauthier, Cathy
+ - Gervais, Donna
+ - Gignac, Donna
+ - Gudereit, Marcia
+ - Hanlon, Heidi
+ - Jones, Colleen
+ - Kelly, Kim
+ - Kerr, Kathy
+ - Laliberte, Connie
+ - MacCallum, Janice
+ - Martin, Heather
+ - McCloy, Elaine
+ - McCusker, Joan
+ - McKnight, Patti
+ - McLeod, Crystal
+ - Merklinger, Anne
+ - Montgomery, Kay
+ - Muzika, Shelley
+ - Osborne, Chantal
+ - Palinkas, Gloria
+ - Phillips, Laura
+ - Purdy, Karen
+ - Robinson, Charlene
+ - Schmirler, Sandra
+ - Stewart, Sheri
+ - Taylor, Candy
+ - Zinck, Kay
 ---

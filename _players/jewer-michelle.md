@@ -56,4 +56,25 @@ years:
    takeout-percent:
    shots-total: 8
    shots-percent: 59
+vs:
+ - Belisle, Eve
+ - Comeau, Martine
+ - Cormier, Sharon
+ - Crouse, Jennifer
+ - Einarson, Megan
+ - Ellis, Danielle
+ - Gilman, Sheena
+ - Jones, Jennifer
+ - Koehler, Megan
+ - Makichuck, Lindsay
+ - McConnery, Nancy
+ - McEwen, Dawn
+ - More, Whitney
+ - Naugler, Tara
+ - Nicholls, Brenda
+ - Officer, Jill
+ - Overton-Clapham, Cathy
+ - Rainville, Julie
+ - Sweeting, Valerie
+ - Thomas, Jill
 ---

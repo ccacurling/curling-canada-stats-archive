@@ -10,4 +10,9 @@ years:
    event: Hearts
    team: "MB"
    position: Alternate
+vs:
+ - McGowan, Frances
+ - Moyaert, June
+ - Nicholson, Terry
+ - Ramsay, Jennifer
 ---

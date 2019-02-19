@@ -23,4 +23,49 @@ years:
    takeout-percent: 70
    shots-total: 209
    shots-percent: 65
+vs:
+ - Allen, Laurie
+ - Arnott, Janet
+ - Bartlett, Sue Anne
+ - Bernard, Cheryl
+ - Blanchard, Judy
+ - Brown, Marcie
+ - Charette, Agnes
+ - Charette, France
+ - Combden, Cathy
+ - Daniel, Sylvie
+ - Dillon, Cathy
+ - Dolan, Kim
+ - Earl, Allison
+ - Englot, Michelle
+ - Fahlman, Kathy
+ - Floyd, Kathy
+ - Gauthier, Cathy
+ - Green, Sue
+ - Hanlon, Heidi
+ - Johnstone, Loralee
+ - Jones, Colleen
+ - Kehler, Lorie
+ - Kellerman, Bev
+ - Kelly, Kim
+ - Laliberte, Connie
+ - Law, Kelley
+ - Leblanc, Lisa
+ - Mattatall, Mary
+ - McArdle, Cindy
+ - McInnis, Susan
+ - Moses, Dawn
+ - Nichols, Helen
+ - Osborne, Chantal
+ - Sauer, Cathy
+ - Scales, Julie
+ - Sherrington, Barb
+ - Skinner, Julie
+ - Soligo, Melissa
+ - Stewart, Sheri
+ - Stokes, Debbie
+ - Stricker, Joan
+ - Sutton, Jodie
+ - Walker, Lisa
+ - Willms, Karri
 ---

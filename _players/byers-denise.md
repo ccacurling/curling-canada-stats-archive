@@ -50,4 +50,82 @@ years:
    takeout-percent: 81
    shots-total: 212
    shots-percent: 77
+vs:
+ - Aleksic, Shannon
+ - Arnott, Janet
+ - Arsenault, Mary-Anne
+ - Arseneau, Jane
+ - Balderston, Marcy
+ - Belley, Joelle
+ - Berthelot, Janique
+ - Betker, Jan
+ - Birt, Suzanne
+ - Blackburn, Julie
+ - Blanchard, Judy
+ - Bohmer, Brenda
+ - Campbell, Gloria
+ - Cormier, Sharon
+ - Cunningham, Cathy
+ - Currie, Wendy
+ - Davis, Brandee
+ - Delahunt, Nancy
+ - Dolan, Kim
+ - Dunn, Anne
+ - Farrell, Allison
+ - Floyd, Kathy
+ - Gagnon, Nathalie
+ - Gellard, Kim
+ - Gogan, Jennifer
+ - Goss, Peg
+ - Greening, Jackie-Rae
+ - Gudereit, Marcia
+ - Hanlon, Heidi
+ - Henry, Lou Ann
+ - Horne, Kate
+ - Jones, Colleen
+ - Jones-Walker, Debbie
+ - Karam, Sally
+ - Kelly, Kim
+ - Kerr, Kathy
+ - King, Cathy
+ - Lacey, Stacey
+ - Laliberte, Connie
+ - Lange, Ann
+ - Lemay, Annie
+ - Lemire, Nancy
+ - Linton, Sherry
+ - MacDonald, Rebecca Jean
+ - MacNutt, Shelley
+ - MacPhee, Robyn
+ - Marchand, Karine
+ - Marchuk, Lindy
+ - Martin, Heather
+ - McConnery, Nancy
+ - McCusker, Joan
+ - McDonald, Tina
+ - McInnis, Susan
+ - McNamee, Karen
+ - Middaugh, Sherry
+ - Miller, Maureen
+ - Moses, Dawn
+ - Moss, Debbie
+ - Naugler, Tara
+ - Nedohin, Heather
+ - Ondrack, Wendy
+ - O'Rourke, Kathy
+ - Overton-Clapham, Cathy
+ - Pinkney, Colleen
+ - Power, Marie-Anne
+ - Renouf, Michele
+ - Ross, Allison
+ - Sabourin, Joelle
+ - Santos, Deb
+ - Sonnenberg, Renee
+ - Street, Cindy
+ - Strong, Heather
+ - Tanner, Allison
+ - Tincher, Twyla
+ - Todd, Fran
+ - Turpin, Kelli
+ - Wright, Susan
 ---

@@ -23,4 +23,41 @@ years:
    takeout-percent: 77
    shots-total: 320
    shots-percent: 76
+vs:
+ - Arnott, Janet
+ - Arseneau, Jane
+ - Betker, Jan
+ - Boily, Caroline
+ - Bowman, Mary
+ - Crispo, Guylaine
+ - Derick, Catherine
+ - Dolan, Kim
+ - Fraser, Sherry
+ - Gauthier, Cathy
+ - Goring, Alison
+ - Gudereit, Marcia
+ - Gushulak, Diane
+ - Hanlon, Heidi
+ - Harding, Mary
+ - Harris, Susan
+ - Henry, Lou Ann
+ - Jackson, Virginia
+ - Jennings, Tracey
+ - Jesty, Janet
+ - Johnstone, Loralee
+ - Jurgenson, Christine
+ - Kyle, Linda
+ - Laliberte, Connie
+ - Law, Kelley
+ - Leblanc, Lisa
+ - MacAulay, Marion
+ - MacDonald, Rebecca Jean
+ - Mallett, Marla
+ - McConnery, Nancy
+ - McCrady, Christine
+ - McCusker, Joan
+ - Moses, Dawn
+ - Overton-Clapham, Cathy
+ - Schmirler, Sandra
+ - Stokes, Debbie
 ---

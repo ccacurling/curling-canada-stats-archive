@@ -23,4 +23,49 @@ years:
    takeout-percent: 76
    shots-total: 226
    shots-percent: 75
+vs:
+ - Allen, Michelle
+ - Arnott, Janet
+ - Arsenault, Mary-Anne
+ - Arseneau, Jane
+ - Balderston, Marcy
+ - Berthelot, Janique
+ - Bohmer, Brenda
+ - Byers, Denise
+ - Delahunt, Nancy
+ - Dolan, Kim
+ - Farrell, Allison
+ - Floyd, Kathy
+ - Gellard, Kim
+ - Henry, Lou Ann
+ - Horne, Kate
+ - Jones, Colleen
+ - Jones-Walker, Debbie
+ - Karam, Sally
+ - King, Cathy
+ - Laliberte, Connie
+ - Lemay, Annie
+ - Lemire, Nancy
+ - MacDonald, Rebecca Jean
+ - McDonald, Tina
+ - McNamee, Karen
+ - Middaugh, Sherry
+ - Miller, Maureen
+ - Moss, Debbie
+ - Nedohin, Heather
+ - Ondrack, Wendy
+ - O'Rourke, Kathy
+ - Overton-Clapham, Cathy
+ - Peters, Laine
+ - Power, Marie-Anne
+ - Renouf, Michele
+ - Ross, Allison
+ - Sabourin, Joelle
+ - Sanders, Pat
+ - Sonnenberg, Renee
+ - Strong, Heather
+ - Tincher, Twyla
+ - Tucker, Cindy
+ - Turpin, Kelli
+ - Wright, Susan
 ---

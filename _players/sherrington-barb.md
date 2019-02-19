@@ -50,4 +50,87 @@ years:
    takeout-percent: 74
    shots-total: 240
    shots-percent: 75
+vs:
+ - Affleck, Tricia
+ - Allen, Laurie
+ - Arnott, Janet
+ - Barrette, Peggy
+ - Bartlett, Sue Anne
+ - Bell, Allyson
+ - Beveridge, Corie
+ - Blanchard, Judy
+ - Bodogh, Marilyn
+ - Bonar, Maureen
+ - Brown, Marcie
+ - Busche, Jodi
+ - Cey, Naomi
+ - Charette, Agnes
+ - Charette, France
+ - Clark, Kim
+ - Combden, Cathy
+ - Cooke, Gerri
+ - Cunningham, Cathy
+ - Delahunt, Nancy
+ - Dillon, Cathy
+ - Dorosz, Peggy
+ - Englot, Michelle
+ - Fahlman, Kathy
+ - Floyd, Kathy
+ - Fowler, Lois
+ - Garnett, Lorelei
+ - Gauthier, Cathy
+ - Gellard, Kim
+ - Girard, Sylvie
+ - Green, Sue
+ - Hanlon, Heidi
+ - Hooper Perroud, Jane
+ - Hutton, Barb
+ - Johnstone, Loralee
+ - Jones, Colleen
+ - Kehler, Lorie
+ - Kelly, Kim
+ - Kennedy, Tracy
+ - Kerr, Kathy
+ - Laliberte, Connie
+ - Law, Kelley
+ - Leblanc, Lisa
+ - Leonard, Judy
+ - London, Debra
+ - MacAulay, Marion
+ - MacDougall, Leslie
+ - Marchand, Jessica
+ - Marchand, Stephanie
+ - Martin, Heather
+ - Mattatall, Mary
+ - McArdle, Cindy
+ - McInnis, Susan
+ - Middaugh, Sherry
+ - Moses, Dawn
+ - Mulroney, Sandra
+ - Nicholls, Brenda
+ - Nichols, Helen
+ - Nohr, Dianne
+ - O'Rourke, Kathy
+ - Osborne, Chantal
+ - Overton-Clapham, Cathy
+ - Phillips, Laura
+ - Rainville, Julie
+ - Sauer, Cathy
+ - Scales, Julie
+ - Scott, Donna
+ - Shephard, Wendy
+ - Skinner, Julie
+ - Soligo, Melissa
+ - Stewart, Sheri
+ - Stokes, Debbie
+ - Stricker, Joan
+ - Sutton, Jodie
+ - Train, Mona
+ - Walker, Lisa
+ - Whipple, Paula
+ - Wieler, Bev
+ - Willms, Karri
+ - Wilson, Patty
+ - Zielke, Colleen
+ - Zinck, Kay
 ---

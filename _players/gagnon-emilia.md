@@ -23,4 +23,5 @@ years:
    takeout-percent: 74
    shots-total: 145
    shots-percent: 71
+vs:
 ---

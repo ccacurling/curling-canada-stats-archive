@@ -56,4 +56,13 @@ years:
    takeout-percent: 100
    shots-total: 3
    shots-percent: 100
+vs:
+ - Crouse, Jennifer
+ - George, Tara
+ - Gilman, Sheena
+ - MacLean, Kari
+ - McCarville, Krista
+ - McConnery, Nancy
+ - Sippala, Ashley
+ - Thomas, Jill
 ---

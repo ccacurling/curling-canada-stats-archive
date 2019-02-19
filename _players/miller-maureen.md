@@ -50,4 +50,82 @@ years:
    takeout-percent: 73
    shots-total: 206
    shots-percent: 67
+vs:
+ - Aleksic, Shannon
+ - Allen, Michelle
+ - Arnott, Janet
+ - Arsenault, Mary-Anne
+ - Arseneau, Jane
+ - Balderston, Marcy
+ - Barker, Catherine
+ - Bennett, Connie
+ - Berthelot, Janique
+ - Byers, Denise
+ - Carney, Laurie
+ - Carr, Judy
+ - Charette, Agnes
+ - Clarke, Betty
+ - Currie, Ann
+ - Currie, Barbara
+ - Currie, Wendy
+ - Davis, Brandee
+ - Delahunt, Nancy
+ - Deschatelets, Guylaine
+ - Dolan, Kim
+ - Earl, Allison
+ - Farrell, Allison
+ - Floyd, Kathy
+ - Gellard, Kim
+ - Gervais, Chris
+ - Greenwood, Jill
+ - Harding, Mary
+ - Haspect, Ginette
+ - Henry, Lou Ann
+ - Howse, Lillian
+ - James, Elizabeth
+ - Jones, Colleen
+ - Jones-Gordon, Barb
+ - Jones-Walker, Debbie
+ - Kane, Cynthia
+ - Karam, Sally
+ - Kelly, Anita
+ - Kelly, Kim
+ - Laliberte, Connie
+ - Leahy, Anne
+ - Lemay, Annie
+ - Lemire, Nancy
+ - MacDonald, Rebecca Jean
+ - Mackin, Marion
+ - McCarville, Susan
+ - McDonald, Tina
+ - McGeary, Lori
+ - McNamee, Karen
+ - Middaugh, Sherry
+ - Millar, Bev
+ - Moore, Linda
+ - More, Chris
+ - Moriarty, Monica
+ - Noye, Marnie
+ - O'Rourke, Kathy
+ - Overton-Clapham, Cathy
+ - Power, Marie-Anne
+ - Raby, Odette
+ - Renouf, Michele
+ - Roland, Mavis
+ - Ross, Allison
+ - Sabourin, Joelle
+ - Sanders, Pat
+ - Smith, Yvonne
+ - Sonnenberg, Renee
+ - Sparkes, Lindsay
+ - Street, Cindy
+ - Strong, Heather
+ - Tanner, Allison
+ - Thompson, Gillian
+ - Thurston, Jill
+ - Todd, Fran
+ - Tucker, Cindy
+ - Turpin, Kelli
+ - Webb, Corine
+ - Wright, Susan
 ---

@@ -45,4 +45,9 @@ years:
    event: Hearts
    team: "CA"
    position: Alternate
+vs:
+ - Aucoin, Shelley
+ - Hensley, Merna
+ - Lidgren, Anna
+ - Putland, Rose
 ---

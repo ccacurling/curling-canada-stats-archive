@@ -23,4 +23,49 @@ years:
    takeout-percent: 83
    shots-total: 242
    shots-percent: 82
+vs:
+ - Arsenault, Mary-Anne
+ - Belanger, Nancy
+ - Bell, Chelsey
+ - Birt, Suzanne
+ - Brennan, Amanda
+ - Carrier, Julie
+ - Carter, Sasha
+ - Clark, Stefanie
+ - Cunningham, Cathy
+ - Delahunt, Nancy
+ - Englot, Michelle
+ - Galusha, Kerry
+ - Jones, Jennifer
+ - Kelly, Kim
+ - Kidd, Darlene
+ - Kleibrink, Shannon
+ - Larouche, Marie-France
+ - Lemay, Annie
+ - MacInnes, Allison
+ - MacPhee, Robyn
+ - Materi, Roberta
+ - McCagg-Nystrom, Heather
+ - McEwen, Dawn
+ - Moses, Dawn
+ - Nicholson, Danielle
+ - Nixon, Amy
+ - Officer, Jill
+ - Overton-Clapham, Cathy
+ - Peters, Laine
+ - Richard, Marie
+ - Robichaud, Sylvie
+ - Sabourin, Joelle
+ - Sauder, Bobbie
+ - Schraeder, Jeanna
+ - Scott, Kelly
+ - Simmons, Cindy
+ - Simons, Renee
+ - Strong, Heather
+ - Strong, Laura
+ - Surik, Teejay
+ - Thompson, Karla
+ - Webster, Bronwen
+ - Whitaker, Carol
+ - Yardley, Janelle
 ---

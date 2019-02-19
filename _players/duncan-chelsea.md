@@ -83,4 +83,93 @@ years:
    takeout-percent: 70
    shots-total: 137
    shots-percent: 62
+vs:
+ - Adams, Melissa
+ - Anderson, Sherry
+ - Arsenault-Bishop, Nicole
+ - Atkinson, Rebecca
+ - Baier, Stephanie
+ - Barbour, Shona
+ - Birchard, Shannon
+ - Brothers, Jill
+ - Brown, Rachelle
+ - Carey, Chelsea
+ - Chislett, Geneva
+ - Cooper, Kathryn
+ - Cottrill, Katie
+ - Court, Morgan
+ - Courtney, Joanne
+ - Crawford, Andrea
+ - Cunningham, Jessica
+ - deSolla, Jodie
+ - Dolan, Kim
+ - Dolan, Sinead
+ - Duncan, Hollie
+ - Einarson, Kerri
+ - Ferguson, Dana
+ - Fesser, Kourtney
+ - Fesser, Krista
+ - Flaxey, Allison
+ - Fleury, Tracy
+ - Foster, Kristen
+ - Fullerton, Sarah
+ - Fyfe, Liz
+ - Galusha, Kerry
+ - Gannon, Melissa
+ - Gates, Amanda
+ - Gibson, Amy
+ - Homan, Rachel
+ - Hughes, Meaghan
+ - Hutchings, Denise
+ - Jones, Jennifer
+ - Joyce, Blisse
+ - Kaatz, Selena
+ - Kasner, Marliese
+ - Koehler, Megan
+ - Koltun, Sarah
+ - Korchinski, Karlee
+ - Kreviazuk, Alison
+ - Kreviazuk, Cheryl
+ - Kreviazuk, Lynn
+ - Lawton, Stefanie
+ - LeDrew, Stephanie
+ - Lister, Kendra
+ - MacCuish, Kristin
+ - MacDonald, Rebecca Jean
+ - MacPhee, Robyn
+ - McDonald, Kristy
+ - McEwen, Dawn
+ - McQuaid, Michelle
+ - McTaggart, Cary-Anne
+ - Miskew, Emma
+ - Moore, Kristie
+ - Nugent, Pamela
+ - Officer, Jill
+ - O'Rourke, Brittany
+ - Parsons, Danielle
+ - Robichaud, Sylvie
+ - Robison, Michala
+ - Ross, Allison
+ - Sagle, Karen
+ - Sanderson, Jessie
+ - Sandwith, Carley
+ - Scheidegger, Casey
+ - Scheidegger, Jessie
+ - Schneider, Kim
+ - Shackleton, Amie
+ - Singler, Sherri
+ - Smith, Heather
+ - Strong, Heather
+ - Strong, Laura
+ - Sweeting, Valerie
+ - Titheridge, Lindsay
+ - Udle, Teri
+ - Van Osch, Kalia
+ - Van Osch, Kesa
+ - Van Osch, Marika
+ - Walsh, Jenna
+ - Weagle, Lisa
+ - Webster, Crystal
+ - West, Christianne
+ - Wylie, Jennifer
 ---

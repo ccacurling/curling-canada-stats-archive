@@ -23,4 +23,9 @@ years:
    takeout-percent: 66
    shots-total: 18
    shots-percent: 76
+vs:
+ - Cutcliffe, Margaret
+ - Hutchinson, Joan
+ - Jackson, Sherry
+ - Jackson, Virginia
 ---

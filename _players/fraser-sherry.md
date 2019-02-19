@@ -100,4 +100,79 @@ years:
    takeout-percent: 77
    shots-total: 80
    shots-percent: 74
+vs:
+ - Anderson, Sherry
+ - Arnott, Janet
+ - Arseneau, Jane
+ - Atkinson, Rebecca
+ - Babin, Jillian
+ - Betker, Jan
+ - Beveridge, Corie
+ - Bodogh, Marilyn
+ - Bohmer, Brenda
+ - Boily, Caroline
+ - Bowman, Mary
+ - Brown, Maureen
+ - Campbell, June
+ - Charette, France
+ - Cormier, Sharon
+ - Crawford, Andrea
+ - Crispo, Guylaine
+ - Cunningham, Cathy
+ - Daniel, Sylvie
+ - Delahunt, Nancy
+ - Derick, Catherine
+ - deSolla, Jodie
+ - Dolan, Kim
+ - Eddy, Lori
+ - Floyd, Kathy
+ - Gauthier, Cathy
+ - Gellard, Kim
+ - Gignac, Donna
+ - Goring, Alison
+ - Gudereit, Marcia
+ - Gushulak, Diane
+ - Hanlon, Heidi
+ - Harris, Susan
+ - Harvey, Alison
+ - Harvey, Carol
+ - Harvey, Janet
+ - Henry, Lou Ann
+ - Hooper Perroud, Jane
+ - Horne, Kate
+ - Jackson, Virginia
+ - Jennings, Tracey
+ - Jesty, Janet
+ - Johnstone, Loralee
+ - Jones, Colleen
+ - Jones-Walker, Debbie
+ - Kaylo, Kelly
+ - Kelly, Kim
+ - Kerr, Kathy
+ - King, Cathy
+ - Kyle, Linda
+ - Laliberte, Connie
+ - Leblanc, Lisa
+ - MacAulay, Marion
+ - MacDonald, Rebecca Jean
+ - Martin, Heather
+ - McCloy, Elaine
+ - McConnery, Nancy
+ - McCrady, Christine
+ - McCusker, Joan
+ - Montgomery, Kay
+ - Moore, Kim
+ - Moses, Dawn
+ - Moss, Debbie
+ - Murphy, Jeanette
+ - Nedohin, Heather
+ - Ondrack, Wendy
+ - Osborne, Chantal
+ - Overton-Clapham, Cathy
+ - Phillips, Laura
+ - Radford, Helen
+ - Sabourin, Joelle
+ - Schmirler, Sandra
+ - Shields, Deanne
+ - Stokes, Debbie
 ---

@@ -23,4 +23,13 @@ years:
    takeout-percent: 67
    shots-total: 42
    shots-percent: 65
+vs:
+ - Anderson, Sherry
+ - Cunningham, Cathy
+ - Gignac, Donna
+ - Kerr, Kathy
+ - Martin, Heather
+ - McCloy, Elaine
+ - Montgomery, Kay
+ - Phillips, Laura
 ---

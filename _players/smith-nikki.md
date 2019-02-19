@@ -10,4 +10,13 @@ years:
    event: Hearts
    team: "AB"
    position: Alternate
+vs:
+ - Carter, Sasha
+ - Englot, Michelle
+ - Kidd, Darlene
+ - Materi, Roberta
+ - Schraeder, Jeanna
+ - Scott, Kelly
+ - Simmons, Cindy
+ - Simons, Renee
 ---

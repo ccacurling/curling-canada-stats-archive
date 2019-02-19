@@ -14,4 +14,13 @@ years:
    event: Hearts
    team: "NS"
    position: Alternate
+vs:
+ - Babin, Jillian
+ - Bell, Chelsey
+ - Crawford, Andrea
+ - Kleibrink, Shannon
+ - Nixon, Amy
+ - Nowlan, Denise
+ - Sobey, Lianne
+ - Webster, Bronwen
 ---

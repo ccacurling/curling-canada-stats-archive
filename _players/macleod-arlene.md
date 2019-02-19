@@ -10,4 +10,5 @@ years:
    event: Hearts
    team: "MB"
    position: Alternate
+vs:
 ---

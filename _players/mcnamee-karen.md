@@ -54,4 +54,79 @@ years:
    takeout-percent: 84
    shots-total: 212
    shots-percent: 86
+vs:
+ - Affleck, Tricia
+ - Aleksic, Shannon
+ - Allen, Michelle
+ - Arsenault, Mary-Anne
+ - Arseneau, Jane
+ - Baker, Michelle
+ - Belanger, Nancy
+ - Berthelot, Janique
+ - Bohmer, Brenda
+ - Bradley, Shelly
+ - Brown, Jacalyn
+ - Brown, Janet
+ - Brown, Marcie
+ - Byers, Denise
+ - Cordina, Sheri
+ - Davis, Brandee
+ - Delahunt, Nancy
+ - Dezura, Diane
+ - Dolan, Kim
+ - Englot, Michelle
+ - Farrell, Allison
+ - Floyd, Kathy
+ - Galusha, Kerry
+ - Gellard, Kim
+ - Grenier, Valerie
+ - Harding, Mary
+ - Harvey, Alison
+ - Henry, Lou Ann
+ - Holowec, Ainsley
+ - Horne, Kate
+ - Jones, Colleen
+ - Karam, Sally
+ - Kehler, Lorie
+ - Kelly, Kim
+ - King, Cathy
+ - Larouche, Marie-France
+ - Law, Kelley
+ - Lawes, Andrea
+ - Lemay, Annie
+ - Lemire, Nancy
+ - MacCallum, Janice
+ - MacDonald, Rebecca Jean
+ - MacDonald, Shelley
+ - MacDougall, Leslie
+ - Materi, Roberta
+ - McCagg-Nystrom, Heather
+ - Middaugh, Sherry
+ - Miller, Maureen
+ - Moss, Debbie
+ - Nedohin, Heather
+ - Ondrack, Wendy
+ - O'Rourke, Kathy
+ - Power, Marie-Anne
+ - Radchenka, Tammy
+ - Renouf, Michele
+ - Ross, Allison
+ - Sabourin, Joelle
+ - Sanders, Pat
+ - Sandison, Janice
+ - Skinner, Julie
+ - Stabel, Stacey
+ - Street, Cindy
+ - Stricker, Joan
+ - Strong, Heather
+ - Strong, Laura
+ - Tanner, Allison
+ - Tasaka, Adina
+ - Tincher, Twyla
+ - Tucker, Cindy
+ - Turpin, Kelli
+ - Wheatcroft, Georgina
+ - Whitaker, Lise
+ - Wright, Susan
+ - Young, Karen
 ---

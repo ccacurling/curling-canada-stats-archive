@@ -22,4 +22,9 @@ years:
    event: Hearts
    team: "SK"
    position: Alternate
+vs:
+ - Baird, Mary
+ - Burgess, Judy
+ - Hennigar, Karen
+ - Pinkney, Colleen
 ---

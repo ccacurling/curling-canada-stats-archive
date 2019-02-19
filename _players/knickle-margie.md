@@ -23,4 +23,45 @@ years:
    takeout-percent: 59
    shots-total: 251
    shots-percent: 62
+vs:
+ - Beaudin, Yvonne
+ - Bell, Mary Susan
+ - Bildfell, Shelly
+ - Brousseau, Deb
+ - Burkitt, Maureen
+ - Carney, Laurie
+ - Connor, Judy
+ - Cutcliffe, Margaret
+ - Darbyshire, Carolyn
+ - Darbyshire, Merline
+ - Dillon, Cathy
+ - Dolan, Kim
+ - Duranceau, Mary
+ - Erickson, Judy
+ - Filion, Nicole
+ - Gallant, Kathie
+ - Graham, Julie
+ - Hutchinson, Joan
+ - Jackson, Sherry
+ - Jackson, Virginia
+ - Jones-Walker, Debbie
+ - Lamarre, June
+ - Leavitt, Pam
+ - Lukowich, Judy
+ - Lynch, Pauline
+ - MacDonald, Karen
+ - MacLean, Jean
+ - Mainwaring, Bev
+ - McCracken, Betty
+ - McCrae, Betty
+ - McCrae, Lou
+ - Moore, Linda
+ - Rintoul, Jacki
+ - Rowan, Sheila
+ - Seitz, Susan
+ - Shields, Gail
+ - Sparkes, Lindsay
+ - Twa, Dale
+ - Vaughan, Marlene
+ - Wilson, Eileen
 ---

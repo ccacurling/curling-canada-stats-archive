@@ -50,4 +50,82 @@ years:
    takeout-percent: 71
    shots-total: 249
    shots-percent: 80
+vs:
+ - Affleck, Tricia
+ - Armstrong, Jacquie
+ - Babin, Jillian
+ - Barbour, Shona
+ - Belanger, Nancy
+ - Belisle, Eve
+ - Bernard, Cheryl
+ - Brown, Jacalyn
+ - Carmody, Erin
+ - Carter, Sasha
+ - Comeau, Martine
+ - Cormier, Sharon
+ - Crawford, Andrea
+ - Crouse, Jennifer
+ - Cunningham, Cathy
+ - Darbyshire, Carolyn
+ - deSolla, Jodie
+ - Einarson, Megan
+ - Ellis, Danielle
+ - Enright, Barb
+ - Galusha, Kerry
+ - Georges, Kendra
+ - Gilman, Sheena
+ - Goss, Peg
+ - Gushulak, Diane
+ - Hardy, Shelley
+ - Holland, Amber
+ - Jones, Jennifer
+ - Kalenchuk, Heather
+ - Kasner, Marliese
+ - Koehler, Megan
+ - Larouche, Marie-France
+ - Lawton, Stefanie
+ - LeDrew, Stephanie
+ - Lemay, Annie
+ - Lemon, Colette
+ - Lowther, Tammi
+ - MacDonald, Rebecca Jean
+ - MacInnes, Grace
+ - MacPhee, Robyn
+ - Makichuck, Lindsay
+ - Mallett, Marla
+ - McCagg-Nystrom, Heather
+ - McConnery, Nancy
+ - McEwen, Dawn
+ - More, Whitney
+ - Morris, Cori
+ - Moses, Dawn
+ - Muzika, Shelley
+ - Naugler, Tara
+ - Nicholls, Brenda
+ - Nowlan, Denise
+ - O'Connor, Susan
+ - Officer, Jill
+ - O'Rourke, Kathy
+ - Overton-Clapham, Cathy
+ - Phillips, Kristen
+ - Rainville, Julie
+ - Ramsay, Geri Lynn
+ - Richards, Brette
+ - Robertson, Darcy
+ - Rogers, Rhonda
+ - Sabourin, Joelle
+ - Schneider, Kim
+ - Schneider, Tammy
+ - Schraeder, Jeanna
+ - Scott, Kelly
+ - Singler, Sherri
+ - Sobey, Lianne
+ - Spencer, Barb
+ - Strong, Heather
+ - Strong, Laura
+ - Sweeting, Valerie
+ - Thomas, Jill
+ - Thurston, Jill
+ - Vey, Lana
+ - Wilson, Leslie
 ---

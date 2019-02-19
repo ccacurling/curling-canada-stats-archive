@@ -56,4 +56,9 @@ years:
    takeout-percent: 79
    shots-total: 66
    shots-percent: 80
+vs:
+ - Cottrill, Katie
+ - Court, Morgan
+ - Flaxey, Allison
+ - Kreviazuk, Lynn
 ---

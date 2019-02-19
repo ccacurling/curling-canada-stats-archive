@@ -23,4 +23,49 @@ years:
    takeout-percent: 78
    shots-total: 232
    shots-percent: 77
+vs:
+ - Adams, Diane
+ - Aucoin, Shelley
+ - Bacon, Kathy
+ - Baird, Mary
+ - Brophy, Cathy
+ - Burgess, Judy
+ - Chapman, Kathy
+ - Clinch, Donna
+ - Cunningham, Cathy
+ - Dezura, Diane
+ - Englot, Michelle
+ - Goss, Peg
+ - Handfield, Simone
+ - Hennigar, Karen
+ - Herlinveaux, Louise
+ - Houston, Heather
+ - Jamieson, Shirley
+ - Karasek, Bev
+ - Kehler, Lorie
+ - Kennedy, Tracy
+ - Lang, Lorraine
+ - LeCraw, Carolyn
+ - Maher, Pat
+ - Martin, Sandra
+ - Martin, Sue
+ - Massullo, Deb
+ - McDermott, Karen
+ - McGowan, Frances
+ - Moyaert, June
+ - Nelthorpe, Sally
+ - Nicholson, Terry
+ - Pinkney, Colleen
+ - Poisson, Francine
+ - Ramsay, Jennifer
+ - Sanders, Pat
+ - Scott, Donna
+ - Stevenson, Chris
+ - Stokes, Debbie
+ - Stricker, Joan
+ - Thomas, Maria
+ - Tucker, Cindy
+ - Werenka, Lil
+ - Wheatcroft, Georgina
+ - Whitrow, Leanne
 ---

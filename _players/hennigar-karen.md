@@ -37,4 +37,49 @@ years:
    event: Hearts
    team: "NS"
    position: Alternate
+vs:
+ - Adams, Diane
+ - Aucoin, Shelley
+ - Bacon, Kathy
+ - Brophy, Cathy
+ - Chapman, Kathy
+ - Cleutinx, Marlene
+ - Clinch, Donna
+ - Cochrane, Judy
+ - Cunningham, Cathy
+ - Dezura, Diane
+ - Englot, Michelle
+ - Fast, Lois
+ - Goss, Peg
+ - Handfield, Simone
+ - Herlinveaux, Louise
+ - Houston, Heather
+ - Jamieson, Shirley
+ - Karasek, Bev
+ - Kehler, Lorie
+ - Kennedy, Tracy
+ - Lang, Lorraine
+ - LeCraw, Carolyn
+ - Maher, Pat
+ - Martin, Sandra
+ - Martin, Sue
+ - Massullo, Deb
+ - McDermott, Karen
+ - McGowan, Frances
+ - Moyaert, June
+ - Nelthorpe, Sally
+ - Nicholson, Terry
+ - Poisson, Francine
+ - Ramsay, Jennifer
+ - Richards, Kenda
+ - Rintoul, Jacki
+ - Sanders, Pat
+ - Scott, Donna
+ - Stevenson, Chris
+ - Stokes, Debbie
+ - Stricker, Joan
+ - Thomas, Maria
+ - Tucker, Cindy
+ - Werenka, Lil
+ - Wheatcroft, Georgina
 ---

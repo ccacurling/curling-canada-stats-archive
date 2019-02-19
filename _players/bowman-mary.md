@@ -50,4 +50,73 @@ years:
    takeout-percent: 79
    shots-total: 258
    shots-percent: 86
+vs:
+ - Anderson, Sherry
+ - Arnott, Janet
+ - Arseneau, Jane
+ - Betker, Jan
+ - Beveridge, Corie
+ - Bodogh, Marilyn
+ - Bohmer, Brenda
+ - Boily, Caroline
+ - Brown, Maureen
+ - Campbell, June
+ - Charette, France
+ - Cormier, Sharon
+ - Crispo, Guylaine
+ - Cunningham, Cathy
+ - Daniel, Sylvie
+ - Delahunt, Nancy
+ - Derick, Catherine
+ - Dolan, Kim
+ - Floyd, Kathy
+ - Fraser, Sherry
+ - Gauthier, Cathy
+ - Gellard, Kim
+ - Gignac, Donna
+ - Gudereit, Marcia
+ - Hanlon, Heidi
+ - Harding, Mary
+ - Harris, Susan
+ - Harvey, Alison
+ - Harvey, Carol
+ - Harvey, Janet
+ - Henry, Lou Ann
+ - Hooper Perroud, Jane
+ - Horne, Kate
+ - Jackson, Virginia
+ - Jennings, Tracey
+ - Jesty, Janet
+ - Johnstone, Loralee
+ - Jones, Colleen
+ - Jones-Walker, Debbie
+ - Jurgenson, Christine
+ - Kaylo, Kelly
+ - Kelly, Kim
+ - Kerr, Kathy
+ - King, Cathy
+ - Kyle, Linda
+ - Laliberte, Connie
+ - Law, Kelley
+ - Leblanc, Lisa
+ - MacAulay, Marion
+ - MacDonald, Rebecca Jean
+ - Mallett, Marla
+ - Martin, Heather
+ - McCloy, Elaine
+ - McConnery, Nancy
+ - McCusker, Joan
+ - Montgomery, Kay
+ - Moses, Dawn
+ - Moss, Debbie
+ - Nedohin, Heather
+ - Ondrack, Wendy
+ - Osborne, Chantal
+ - Overton-Clapham, Cathy
+ - Phillips, Laura
+ - Radford, Helen
+ - Sabourin, Joelle
+ - Schmirler, Sandra
+ - Shields, Deanne
+ - Stokes, Debbie
 ---

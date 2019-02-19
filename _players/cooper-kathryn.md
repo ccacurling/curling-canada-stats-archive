@@ -50,4 +50,84 @@ years:
    takeout-percent: 75
    shots-total: 205
    shots-percent: 77
+vs:
+ - Anderson, Sherry
+ - Arsenault, Mary-Anne
+ - Atkinson, Rebecca
+ - Baier, Stephanie
+ - Baxter, Jen
+ - Birt, Suzanne
+ - Black, Christina
+ - Blais, Amelie
+ - Boyle, Jane
+ - Bradley, Shelly
+ - Brothers, Jill
+ - Brown, Rachelle
+ - Camozzi, Rhona
+ - Carey, Chelsea
+ - Collins, Katrina
+ - Cottrill, Katie
+ - Court, Morgan
+ - Courtney, Joanne
+ - Crawford, Andrea
+ - deSolla, Jodie
+ - Dolan, Kim
+ - Dolan, Sinead
+ - Duncan, Chelsea
+ - Ferguson, Dana
+ - Fewster, Kristen
+ - Filteau, Anne-Marie
+ - Flaxey, Allison
+ - Foster, Kristen
+ - Gannon, Melissa
+ - Gates, Amanda
+ - Hastings, Julie
+ - Homan, Rachel
+ - Horgan, Tracy
+ - Jones, Jennifer
+ - Joyce, Blisse
+ - Kasner, Marliese
+ - Knezevic, Patti
+ - Koltun, Sarah
+ - Kreviazuk, Alison
+ - Kreviazuk, Lynn
+ - Lawes, Kaitlyn
+ - Lawton, Stefanie
+ - MacDonald, Rebecca Jean
+ - Mann, Lauren
+ - McDonald, Kristy
+ - McEwen, Dawn
+ - McInnis, Susan
+ - McQuaid, Michelle
+ - Miskew, Emma
+ - Nugent, Pamela
+ - Officer, Jill
+ - Olson-Johns, Lori
+ - O'Rourke, Brittany
+ - Parsons, Danielle
+ - Reid, Jackie
+ - Richard, Marie
+ - Robichaud, Sylvie
+ - Robison, Michala
+ - Ross, Allison
+ - Rusnell, Jen
+ - Sanderson, Jessie
+ - Sandwith, Carley
+ - Schmidt, Stephanie
+ - Sinclair, Andrea
+ - Singler, Sherri
+ - Smith, Heather
+ - Smith, Stacey
+ - Snyder, Jane
+ - Sonnenberg, Renee
+ - Sweeting, Valerie
+ - Titheridge, Lindsay
+ - Trombley, Christy
+ - Van Osch, Kesa
+ - Vey, Lana
+ - Wallingham, Patty
+ - Walsh, Jenna
+ - Weagle, Lisa
+ - Wilkes, Sarah
+ - Wylie, Jennifer
 ---

@@ -23,4 +23,50 @@ years:
    takeout-percent: 64
    shots-total: 178
    shots-percent: 66
+vs:
+ - Armstrong, Jacquie
+ - Arnott, Janet
+ - Babin, Jillian
+ - Barbour, Shona
+ - Bell, Chelsey
+ - Birt, Suzanne
+ - Bradley, Shelly
+ - Brassard, Veronique
+ - Carter, Sasha
+ - Crawford, Andrea
+ - Fallis, Karen
+ - Galusha, Kerry
+ - Gregoire, Veronique
+ - Holland, Amber
+ - Homan, Rachel
+ - Jones, Jennifer
+ - Joyce, Blisse
+ - Kalenchuk, Heather
+ - Kleibrink, Shannon
+ - Kreviazuk, Alison
+ - Larouche, Marie-France
+ - Lawes, Kaitlyn
+ - Lemay, Annie
+ - MacDougall, Leslie
+ - MacPhee, Robyn
+ - McEwen, Dawn
+ - Meakin, Breanne
+ - Miller, Wendy
+ - Miskew, Emma
+ - Moses, Dawn
+ - Nixon, Amy
+ - Nowlan, Denise
+ - Officer, Jill
+ - Overton-Clapham, Cathy
+ - Parsons, Danielle
+ - Schneider, Kim
+ - Schneider, Tammy
+ - Schraeder, Jeanna
+ - Scott, Kelly
+ - Smith, Heather
+ - Sobey, Lianne
+ - Udle, Teri
+ - Weagle, Lisa
+ - Webster, Bronwen
+ - Westcott, Raunora
 ---

@@ -83,4 +83,52 @@ years:
    takeout-percent: 70
    shots-total: 92
    shots-percent: 78
+vs:
+ - Aleksic, Shannon
+ - Allen, Michelle
+ - Armstrong, Jacquie
+ - Arnott, Janet
+ - Bernard, Cheryl
+ - Betker, Jan
+ - Birt, Suzanne
+ - Brothers, Jill
+ - Carter, Sasha
+ - Clark, Stefanie
+ - Clarke, Hayley
+ - Daniel, Sylvie
+ - Darbyshire, Carolyn
+ - Derick, Catherine
+ - Fraser, Sherry
+ - Gagnier, Monique
+ - Galusha, Kerry
+ - George, Tara
+ - Gudereit, Marcia
+ - Hardy, Shelley
+ - Harrison, Meredith
+ - Inglis, Nancy
+ - Jones, Jennifer
+ - Lang, Lorraine
+ - Law, Kelley
+ - MacPhee, Robyn
+ - McCarville, Krista
+ - Morgan, Cheryl
+ - Morris, Cori
+ - Moses, Dawn
+ - O'Connor, Susan
+ - Officer, Jill
+ - O'Leary, Susan
+ - Osborne, Chantal
+ - Overton-Clapham, Cathy
+ - Provencal, Darah
+ - Schraeder, Jeanna
+ - Scott, Kelly
+ - Sivertson, Dailene
+ - Strong, Heather
+ - Strong, Laura
+ - Stubbings, Tiffany
+ - Turpin, Kelli
+ - Udle, Teri
+ - Vey, Lana
+ - Wheatcroft, Georgina
+ - Whitaker, Carol
 ---

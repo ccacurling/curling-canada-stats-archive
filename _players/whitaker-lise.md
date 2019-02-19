@@ -56,4 +56,49 @@ years:
    takeout-percent: 80
    shots-total: 209
    shots-percent: 79
+vs:
+ - Affleck, Tricia
+ - Arsenault, Mary-Anne
+ - Arseneau, Jane
+ - Baker, Michelle
+ - Balderston, Marcy
+ - Belanger, Nancy
+ - Bradley, Shelly
+ - Brown, Janet
+ - Cordina, Sheri
+ - Dezura, Diane
+ - Englot, Michelle
+ - Farrell, Allison
+ - Floyd, Kathy
+ - Galusha, Kerry
+ - Grenier, Valerie
+ - Harvey, Alison
+ - Holowec, Ainsley
+ - Jones, Colleen
+ - Kehler, Lorie
+ - Kelly, Kim
+ - Larouche, Marie-France
+ - Law, Kelley
+ - Lawes, Andrea
+ - Lemay, Annie
+ - MacCallum, Janice
+ - MacDougall, Leslie
+ - Materi, Roberta
+ - McCagg-Nystrom, Heather
+ - McDonald, Tina
+ - McNamee, Karen
+ - Middaugh, Sherry
+ - O'Leary, Susan
+ - Peters, Laine
+ - Power, Marie-Anne
+ - Radchenka, Tammy
+ - Sandison, Janice
+ - Skinner, Julie
+ - Sonnenberg, Renee
+ - Stabel, Stacey
+ - Stricker, Joan
+ - Strong, Heather
+ - Strong, Laura
+ - Wheatcroft, Georgina
+ - Young, Karen
 ---

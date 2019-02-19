@@ -62,4 +62,58 @@ years:
    takeout-percent: 75
    shots-total: 16
    shots-percent: 77
+vs:
+ - Affleck, Tricia
+ - Allen, Laurie
+ - Arnott, Janet
+ - Balderston, Marcy
+ - Barrette, Peggy
+ - Bernard, Cheryl
+ - Blanchard, Judy
+ - Bradley, Shelly
+ - Charette, Agnes
+ - Charette, France
+ - Clark, Kim
+ - Dagg-Jackson, Elaine
+ - Dolan, Kim
+ - Earl, Allison
+ - Englot, Michelle
+ - Fahlman, Kathy
+ - Floyd, Kathy
+ - Gauthier, Cathy
+ - Girard, Sylvie
+ - Green, Sue
+ - Hanlon, Heidi
+ - Johnstone, Loralee
+ - Jones, Colleen
+ - Kehler, Lorie
+ - Kellerman, Bev
+ - Kelly, Kim
+ - Kennedy, Tracy
+ - Laliberte, Connie
+ - Law, Kelley
+ - Leblanc, Lisa
+ - MacAulay, Marion
+ - MacCallum, Janice
+ - MacDougall, Leslie
+ - Materi, Roberta
+ - Mattatall, Mary
+ - McArdle, Cindy
+ - McDonald, Tina
+ - McInnis, Susan
+ - McNamee, Karen
+ - Moses, Dawn
+ - Osborne, Chantal
+ - Sauer, Cathy
+ - Scales, Julie
+ - Sherrington, Barb
+ - Skinner, Julie
+ - Soligo, Melissa
+ - Sonnenberg, Renee
+ - Stewart, Sheri
+ - Stokes, Debbie
+ - Stricker, Joan
+ - Walker, Lisa
+ - Willms, Karri
+ - Wilson, Patty
 ---

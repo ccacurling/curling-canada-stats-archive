@@ -117,4 +117,107 @@ years:
    takeout-percent: 81
    shots-total: 220
    shots-percent: 78
+vs:
+ - Adams, Melissa
+ - Affleck, Tricia
+ - Anderson, Sherry
+ - Armstrong, Jacquie
+ - Arsenault-Bishop, Nicole
+ - Atkinson, Rebecca
+ - Ayrey, Jinaye
+ - Babin, Jillian
+ - Barbour, Shona
+ - Belisle, Eve
+ - Birchard, Shannon
+ - Birt, Suzanne
+ - Bradley, Shelly
+ - Carmody, Erin
+ - Carter, Sasha
+ - Chislett, Geneva
+ - Clark, Stefanie
+ - Comeau, Martine
+ - Cormier, Sharon
+ - Crawford, Andrea
+ - Crouse, Jennifer
+ - deSolla, Jodie
+ - Duncan, Chelsea
+ - Duncan, Jenna
+ - Einarson, Kerri
+ - Einarson, Megan
+ - Ellis, Danielle
+ - Fesser, Kourtney
+ - Fesser, Krista
+ - Fleury, Tracy
+ - Fullerton, Sarah
+ - Fyfe, Liz
+ - Galusha, Kerry
+ - Gates, Amanda
+ - George, Tara
+ - Gibson, Amy
+ - Gilman, Sheena
+ - Hersikorn, Patty
+ - Holland, Amber
+ - Holtby, Taryn
+ - Hughes, Meaghan
+ - Hutchings, Denise
+ - Iskiw, Beth
+ - Johnston, Kara
+ - Jones, Jennifer
+ - Kaatz, Selena
+ - Kalenchuk, Heather
+ - Koehler, Megan
+ - Koltun, Sarah
+ - Korchinski, Karlee
+ - Lister, Kendra
+ - MacCuish, Kristin
+ - MacDougall, Leslie
+ - MacLean, Kari
+ - MacPhee, Robyn
+ - Mair, Jessica
+ - Makichuck, Lindsay
+ - McCarville, Krista
+ - McConnery, Nancy
+ - McEwen, Dawn
+ - McQuaid, Michelle
+ - McTaggart, Cary-Anne
+ - Miller, Wendy
+ - Moore, Kristie
+ - More, Whitney
+ - Morris, Cori
+ - Naugler, Tara
+ - Nedohin, Heather
+ - Nicholls, Brenda
+ - Nowlan, Denise
+ - Officer, Jill
+ - O'Rourke, Kathy
+ - Overton-Clapham, Cathy
+ - Parsons, Danielle
+ - Peters, Laine
+ - Phillips, Kristen
+ - Price, Kara
+ - Rainville, Julie
+ - Ramsay, Geri Lynn
+ - Robichaud, Sylvie
+ - Scheidegger, Casey
+ - Scheidegger, Jessie
+ - Schneider, Kim
+ - Schneider, Tammy
+ - Schraeder, Jeanna
+ - Scott, Kelly
+ - Shackleton, Amie
+ - Shumay, Jill
+ - Sippala, Ashley
+ - Smallwood, Jody
+ - Sobey, Lianne
+ - Sweeting, Valerie
+ - Thomas, Jill
+ - Thurston, Jill
+ - Van Osch, Kalia
+ - Van Osch, Kesa
+ - Van Osch, Marika
+ - Webster, Crystal
+ - West, Christianne
+ - Westcott, Raunora
+ - Wilson, Leslie
+ - Wylie, Jennifer
 ---

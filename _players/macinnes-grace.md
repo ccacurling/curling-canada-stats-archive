@@ -23,4 +23,49 @@ years:
    takeout-percent: 87
    shots-total: 248
    shots-percent: 82
+vs:
+ - Belanger, Nancy
+ - Bernard, Cheryl
+ - Cormier, Sharon
+ - Crawford, Andrea
+ - Crouse, Jennifer
+ - Cunningham, Cathy
+ - Darbyshire, Carolyn
+ - deSolla, Jodie
+ - Enright, Barb
+ - Galusha, Kerry
+ - George, Tara
+ - Gilman, Sheena
+ - Goss, Peg
+ - Jones, Jennifer
+ - Kasner, Marliese
+ - Lang, Lorraine
+ - Larouche, Marie-France
+ - Lawton, Stefanie
+ - Lemay, Annie
+ - Lowther, Tammi
+ - MacDonald, Rebecca Jean
+ - MacLean, Kari
+ - MacPhee, Robyn
+ - McCagg-Nystrom, Heather
+ - McCarville, Krista
+ - McConnery, Nancy
+ - McEwen, Dawn
+ - Morris, Cori
+ - Moses, Dawn
+ - Muzika, Shelley
+ - Nowlan, Denise
+ - O'Connor, Susan
+ - Officer, Jill
+ - Overton-Clapham, Cathy
+ - Richards, Brette
+ - Robertson, Darcy
+ - Sabourin, Joelle
+ - Singler, Sherri
+ - Sobey, Lianne
+ - Spencer, Barb
+ - Strong, Heather
+ - Strong, Laura
+ - Thomas, Jill
+ - Vey, Lana
 ---

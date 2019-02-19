@@ -50,4 +50,89 @@ years:
    takeout-percent: 82
    shots-total: 256
    shots-percent: 82
+vs:
+ - Arsenault, Mary-Anne
+ - Arseneau, Jane
+ - Belanger, Nancy
+ - Bell, Chelsey
+ - Betker, Jan
+ - Beveridge, Corie
+ - Birt, Suzanne
+ - Bodogh, Marilyn
+ - Bohmer, Brenda
+ - Brennan, Amanda
+ - Campbell, June
+ - Carrier, Julie
+ - Carter, Sasha
+ - Charette, France
+ - Clark, Stefanie
+ - Cormier, Sharon
+ - Cunningham, Cathy
+ - Daniel, Sylvie
+ - Delahunt, Nancy
+ - Dolan, Kim
+ - Englot, Michelle
+ - Floyd, Kathy
+ - Fraser, Sherry
+ - Galusha, Kerry
+ - Gellard, Kim
+ - Gudereit, Marcia
+ - Hanlon, Heidi
+ - Harvey, Alison
+ - Harvey, Carol
+ - Harvey, Janet
+ - Henry, Lou Ann
+ - Hooper Perroud, Jane
+ - Horne, Kate
+ - Jones, Colleen
+ - Jones, Jennifer
+ - Jones-Walker, Debbie
+ - Jurgenson, Christine
+ - Kaylo, Kelly
+ - Kelly, Kim
+ - Kerr, Kathy
+ - Kidd, Darlene
+ - King, Cathy
+ - Kleibrink, Shannon
+ - Larouche, Marie-France
+ - Law, Kelley
+ - Lemay, Annie
+ - MacAulay, Marion
+ - MacDonald, Rebecca Jean
+ - MacInnes, Allison
+ - MacPhee, Robyn
+ - Mallett, Marla
+ - Martin, Heather
+ - Materi, Roberta
+ - McCagg-Nystrom, Heather
+ - McCusker, Joan
+ - McEwen, Dawn
+ - Moses, Dawn
+ - Moss, Debbie
+ - Nedohin, Heather
+ - Nicholson, Danielle
+ - Nixon, Amy
+ - Officer, Jill
+ - Ondrack, Wendy
+ - Osborne, Chantal
+ - Overton-Clapham, Cathy
+ - Peters, Laine
+ - Phillips, Laura
+ - Radford, Helen
+ - Richard, Marie
+ - Robichaud, Sylvie
+ - Sabourin, Joelle
+ - Sauder, Bobbie
+ - Schmirler, Sandra
+ - Schraeder, Jeanna
+ - Scott, Kelly
+ - Simmons, Cindy
+ - Simons, Renee
+ - Strong, Heather
+ - Strong, Laura
+ - Surik, Teejay
+ - Thompson, Karla
+ - Webster, Bronwen
+ - Whitaker, Carol
+ - Yardley, Janelle
 ---

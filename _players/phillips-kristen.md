@@ -37,4 +37,53 @@ years:
    takeout-percent: 76
    shots-total: 221
    shots-percent: 74
+vs:
+ - Affleck, Tricia
+ - Aleksic, Shannon
+ - Armstrong, Jacquie
+ - Babin, Jillian
+ - Belisle, Eve
+ - Carmody, Erin
+ - Carter, Sasha
+ - Charette, France
+ - Comeau, Martine
+ - Cormier, Sharon
+ - Crawford, Andrea
+ - Crouse, Jennifer
+ - Einarson, Megan
+ - Ellis, Danielle
+ - George, Tara
+ - Gilman, Sheena
+ - Hardy, Shelley
+ - Holland, Amber
+ - Jones, Jennifer
+ - Kalenchuk, Heather
+ - Koehler, Megan
+ - Law, Kelley
+ - LeDrew, Stephanie
+ - Lemon, Colette
+ - MacLean, Kari
+ - Makichuck, Lindsay
+ - McCarville, Krista
+ - McConnery, Nancy
+ - McEwen, Dawn
+ - More, Whitney
+ - Naugler, Tara
+ - Nicholls, Brenda
+ - Nowlan, Denise
+ - Officer, Jill
+ - O'Rourke, Kathy
+ - Overton-Clapham, Cathy
+ - Provencal, Darah
+ - Ramsay, Geri Lynn
+ - Rogers, Rhonda
+ - Schneider, Kim
+ - Schneider, Tammy
+ - Schraeder, Jeanna
+ - Scott, Kelly
+ - Sippala, Ashley
+ - Sobey, Lianne
+ - Sweeting, Valerie
+ - Thomas, Jill
+ - Wheatcroft, Georgina
 ---
