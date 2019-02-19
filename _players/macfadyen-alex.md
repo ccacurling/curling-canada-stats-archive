@@ -50,4 +50,74 @@ years:
    takeout-percent: 79
    shots-total: 192
    shots-percent: 80
+vs:
+ - Bilesky, Andrew
+ - Borden, Robert
+ - Bouchard, Christian
+ - Breckon, Graham
+ - Carruthers, Reid
+ - Case, Peter
+ - Casey, Adam
+ - Chorostkowski, Brad
+ - Cotter, Jim
+ - Crete, Martin
+ - Danbrook, Jamie
+ - Desjardins, Robert
+ - Dumontelle, Matt
+ - Eckstrand, Dustin
+ - Errington, Derek
+ - Fitzner-LeBlanc, Ian
+ - Flemming, Paul
+ - Folk, Kevin
+ - Fry, Ryan
+ - Gagne, Francois
+ - Gallant, Brett
+ - Gavin, Martin
+ - Gould, Steve
+ - Grattan, James
+ - Gushue, Brad
+ - Harnden, E.J.
+ - Harnden, Ryan
+ - Hart, Richard
+ - Hebert, Ben
+ - Howard, Glenn
+ - Howard, Scott
+ - Howard, Steven
+ - Jacobs, Brad
+ - Jones, Brennen
+ - Kennedy, Marc
+ - Kidby, Dustin
+ - Koe, Jamie
+ - Kopf, Steve
+ - Laing, Brent
+ - Laycock, Steve
+ - Martin, Kevin
+ - Maskiewich, Ken
+ - Mead, Jonathan
+ - Menard, Jean-Michel
+ - Menard, Philippe
+ - Middaugh, Wayne
+ - Mittelstadt, Kelly
+ - Morris, John
+ - Moskowy, Braeden
+ - Muyres, Dallan
+ - Naugler, Tom
+ - Nichols, Mark
+ - Roach, Darren
+ - Roach, Jason
+ - Savill, Craig
+ - Sawatsky, Rick
+ - Schille, Chris
+ - Seabrook, Scott
+ - Simmons, Pat
+ - Smith, Garth
+ - Smith, Kent
+ - Stoughton, Jeff
+ - Sullivan, Charles Jr
+ - Sylvain, Eric
+ - Symonds, Andrew
+ - Virtue, Brock
+ - Walker, Geoff
+ - Watson, Aaron
+ - Whitehead, Kevin
 ---

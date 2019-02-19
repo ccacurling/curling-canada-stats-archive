@@ -45,4 +45,9 @@ years:
    takeout-percent: 86
    shots-total: 16
    shots-percent: 67
+vs:
+ - Bitz, Scott
+ - Hicke, Dean
+ - Jordison, Joel
+ - Schmidt, Aryn
 ---

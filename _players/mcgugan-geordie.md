@@ -37,4 +37,9 @@ years:
    event: Brier
    team: "NB"
    position: Alternate
+vs:
+ - Biron, Louis
+ - Butler, Ted
+ - Lafleur, Andre
+ - Lemery, Dan
 ---

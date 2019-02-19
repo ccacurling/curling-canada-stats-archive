@@ -23,4 +23,10 @@ years:
    takeout-percent:
    shots-total: 2
    shots-percent: 50
+vs:
+ - Eckstrand, Dustin
+ - Hebert, Ben
+ - Kennedy, Marc
+ - Martin, Kevin
+ - Morris, John
 ---

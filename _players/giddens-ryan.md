@@ -23,4 +23,13 @@ years:
    takeout-percent: 25
    shots-total: 4
    shots-percent: 50
+vs:
+ - Gallant, Brett
+ - Gushue, Brad
+ - Hart, Joey
+ - Hart, Richard
+ - Howard, Glenn
+ - Howard, Scott
+ - Nichols, Mark
+ - Spencer, Adam
 ---

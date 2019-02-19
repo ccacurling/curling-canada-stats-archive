@@ -23,4 +23,9 @@ years:
    takeout-percent:
    shots-total: 10
    shots-percent: 88
+vs:
+ - Adams, Kevin
+ - Hess, Gordon
+ - Reddick, Don
+ - Turner, Malcolm
 ---

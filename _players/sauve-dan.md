@@ -23,4 +23,49 @@ years:
    takeout-percent: 79
    shots-total: 208
    shots-percent: 83
+vs:
+ - Adams, Shawn
+ - Armstrong, Doug
+ - Bartlett, Don
+ - Blanchard, Ben
+ - Blanchard, Jason
+ - Brandwood, Todd
+ - Bryant, Doug
+ - Corner, Peter
+ - Cowan, Chad
+ - Dowden, Craig
+ - Ellis, Ken
+ - Elmaleh, Maxime
+ - Gagnon, Jean
+ - Golanowski, Rory
+ - Hollett, Peter
+ - Hopkins, Jeff
+ - Howard, Russ
+ - Korte, Bruce
+ - Korte, Roger
+ - Macklin, Drew
+ - Martin, Kevin
+ - McAulay, Greg
+ - McKee, Darrell
+ - Mead, Jonathan
+ - Miki, Bryan
+ - Milward, Ross
+ - Nolan, Jason
+ - Odishaw, Grant
+ - Perron, Rick
+ - Pierce, Brent
+ - Pritchett, Bob
+ - Pyper, Dwayne
+ - Roberge, Francois
+ - Robinson, Andrew
+ - Rowsell, Rick
+ - Rycroft, Carter
+ - Scales, Brian
+ - Stoughton, Jeff
+ - Sullivan, Evan
+ - Sveistrup, Jody
+ - Sylvain, Eric
+ - Tallon, Wayne
+ - Van Den Berghe, Garry
+ - Walchuk, Don
 ---

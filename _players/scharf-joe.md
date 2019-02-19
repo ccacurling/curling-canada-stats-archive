@@ -54,4 +54,53 @@ years:
    event: Brier
    team: "NO"
    position: Alternate
+vs:
+ - Alderman, Dan
+ - Bailey, Scott
+ - Burtnyk, Kerry
+ - Butler, Mark
+ - Chorostkowski, Brad
+ - Dacey, Mark
+ - Fenton, Keith
+ - Ferbey, Randy
+ - Fetterly, Tom
+ - Flemming, Paul
+ - Gallant, Peter
+ - Harcourt, Doug
+ - Harcourt, Greg
+ - Hemmings, Guy
+ - Iskiw, Blayne
+ - Jackson, Glen
+ - Joanisse, Dean
+ - Jones, Scott
+ - Kalthoff, Kevin
+ - Lacey, Jeff
+ - Langdon, Dennis
+ - MacDonald, Peter
+ - McCann, Andy
+ - McCarrel, Graeme
+ - Meakin, Rob
+ - Middaugh, Wayne
+ - Moshenko, Darcy
+ - Moshenko, Jaret
+ - Moss, Steve
+ - Nedohin, David
+ - Ness, Dale
+ - Odishaw, Grant
+ - Odishaw, Terry
+ - O'Rourke, Mark
+ - Pfeifer, Scott
+ - Pinsent, Garry
+ - Rocque, Marcel
+ - Ryan, Jeff
+ - Ryan, Keith
+ - Ryan, Mike
+ - Sullivan, Charles Jr
+ - Sullivan, Jim
+ - Tervo, Randy
+ - Tetley, Ian
+ - Thibaudeau, Guy
+ - Tuson, Jay
+ - Wempe, Brian
+ - Westphal, Don
 ---

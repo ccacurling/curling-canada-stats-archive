@@ -23,4 +23,9 @@ years:
    takeout-percent: 83
    shots-total: 18
    shots-percent: 79
+vs:
+ - Darragh, Alan
+ - Johnston, Steve
+ - MacPhee, Peter
+ - Wallace, Dave
 ---

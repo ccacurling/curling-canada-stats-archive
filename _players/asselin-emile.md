@@ -23,4 +23,9 @@ years:
    takeout-percent: 100
    shots-total: 6
    shots-percent: 100
+vs:
+ - Kingdon, Wade
+ - Mackey, Peter
+ - Nadeau, Jeff
+ - St.Louis, David
 ---

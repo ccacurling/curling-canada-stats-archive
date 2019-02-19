@@ -57,4 +57,9 @@ years:
    event: Brier
    team: "AB"
    position: Alternate
+vs:
+ - Duce, Dallas
+ - Loeffler, Ken
+ - Mosley, Jeff
+ - Packet, Jim
 ---

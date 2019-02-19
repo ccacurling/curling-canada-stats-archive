@@ -23,4 +23,9 @@ years:
    takeout-percent: 67
    shots-total: 14
    shots-percent: 66
+vs:
+ - Adams, Brian
+ - Hackner, Al
+ - Perozak, Brian
+ - Pineau, Larry
 ---

@@ -23,4 +23,9 @@ years:
    takeout-percent: 95
    shots-total: 10
    shots-percent: 95
+vs:
+ - Hakansson, Thomas
+ - MacLean, Stuart
+ - MacPhee, Peter
+ - Wallace, Dave
 ---

@@ -23,4 +23,45 @@ years:
    takeout-percent: 77
    shots-total: 196
    shots-percent: 79
+vs:
+ - Adams, Kevin
+ - Alexander, Trevor
+ - Allan, John
+ - Bradley, Mike
+ - Burgess, Craig
+ - Caputo, Frank
+ - Carter, Andrew
+ - Coady, Mike
+ - Cunningham, Geoff
+ - Darragh, Alan
+ - Edwards, Duane
+ - Edwards, Jack
+ - Evoy, Rich
+ - Foy, Sandy
+ - Goss, Glenn
+ - Graham, Ross
+ - Harnden, Al
+ - Harnden, Eric
+ - Johnston, Steve
+ - Kawaja, John
+ - Lepine, Craig
+ - MacFadyen, Bill
+ - MacFadyen, Ted
+ - MacLean, Rob
+ - MacPhee, Peter
+ - McEachran, Glen
+ - McMechan, Kelly
+ - Perroud, Pat
+ - Power, Paul
+ - Ravndal, Clayton
+ - Reddick, Don
+ - Robertson, Brad
+ - Robertson, Richard
+ - Sullivan, Charles Jr
+ - Sullivan, Jim
+ - Tetley, Ian
+ - Wallace, Dave
+ - Werenich, Ed
+ - Williams, Don
+ - Young, Neil
 ---

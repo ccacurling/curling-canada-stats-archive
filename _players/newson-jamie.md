@@ -56,4 +56,29 @@ years:
    takeout-percent: 80
    shots-total: 42
    shots-percent: 76
+vs:
+ - Adams, Shawn
+ - Burgess, Craig
+ - Carruthers, Reid
+ - Danbrook, Jamie
+ - Dumontelle, Matt
+ - Flemming, Paul
+ - Fry, Ryan
+ - Gibson, Andrew
+ - Gould, Steve
+ - Gushue, Brad
+ - Harnden, E.J.
+ - Harnden, Ryan
+ - Hart, Richard
+ - Howard, Glenn
+ - Howard, Scott
+ - Jacobs, Brad
+ - Laing, Brent
+ - Mead, Jonathan
+ - Mittelstadt, Kelly
+ - Nichols, Mark
+ - Savill, Craig
+ - Seabrook, Scott
+ - Stoughton, Jeff
+ - Symonds, Andrew
 ---

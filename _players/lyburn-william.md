@@ -23,4 +23,9 @@ years:
    takeout-percent: 50
    shots-total: 2
    shots-percent: 75
+vs:
+ - Howard, Glenn
+ - Laing, Brent
+ - Middaugh, Wayne
+ - Savill, Craig
 ---

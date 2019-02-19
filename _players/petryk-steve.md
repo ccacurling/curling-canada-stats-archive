@@ -23,4 +23,49 @@ years:
    takeout-percent: 72
    shots-total: 221
    shots-percent: 82
+vs:
+ - Abel, Clinton
+ - Andrews, Robert
+ - Arsenault, Craig
+ - Buckle, Andrew
+ - Corner, Peter
+ - Dobson, Brian
+ - Doyon, Ghislain
+ - Feldman, Alfred
+ - Folk, Rick
+ - Gaudet, Mike
+ - Gervais, Martin
+ - Grant, Scott
+ - Gretzinger, Bert
+ - Harcourt, Doug
+ - Harcourt, Greg
+ - Harris, Tyler
+ - Howard, Glenn
+ - Howard, Russ
+ - Johnston, Steve
+ - Kalthoff, Kevin
+ - Lemay, Jean-Yves
+ - Lewis, Wayne
+ - Loevenmark, Phil
+ - Lowe, Wayne
+ - MacKenzie, Eddie
+ - Maurice, Jean
+ - McClelland, John
+ - Middaugh, Wayne
+ - Nicholls, Peter
+ - Noseworthy, Mark
+ - O'Driscoll, Frank
+ - O'Leary, Alan
+ - Patterson, Scott
+ - Philip, Dan
+ - Piggott, Steve
+ - Richard, Gerry
+ - Ryan, Pat
+ - Salina, Charlie
+ - Smith, Dave
+ - Sullivan, Charles Jr
+ - Thomas, Rob
+ - Trickett, Eugene
+ - Walsh, Jim
+ - Wempe, Brian
 ---

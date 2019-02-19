@@ -56,4 +56,13 @@ years:
    takeout-percent:
    shots-total: 12
    shots-percent: 96
+vs:
+ - Daneault, Richard
+ - Fowler, Rob
+ - Jones, Scott
+ - Lyburn, Allan
+ - McCann, Andy
+ - Odishaw, Grant
+ - Odishaw, Terry
+ - Samagalski, Derek
 ---

@@ -23,4 +23,10 @@ years:
    takeout-percent:
    shots-total: 2
    shots-percent: 100
+vs:
+ - Fry, Ryan
+ - Goss, Glenn
+ - Gushue, Brad
+ - Korab, Jamie
+ - Nichols, Mark
 ---

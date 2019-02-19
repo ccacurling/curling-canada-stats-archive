@@ -50,4 +50,83 @@ years:
    takeout-percent: 79
    shots-total: 184
    shots-percent: 79
+vs:
+ - Adams, Kevin
+ - Bartlett, Don
+ - Belcourt, Tim
+ - Bernard, Mel
+ - Biron, Louis
+ - Blanchard, Wade
+ - Bourque, Don
+ - Brown, Ken
+ - Butler, Mark
+ - Campbell, Bill Jr
+ - Campbell, Robert
+ - Carey, Dan
+ - Carstairs, Kent
+ - Charette, Pierre
+ - Duce, Dallas
+ - Durant, Fred
+ - Eden, Brian
+ - Ellis, Ken
+ - Ernst, Georg
+ - Ferguson, John
+ - Fizzard, Blake
+ - Gallant, Peter
+ - Goulden, Lowell
+ - Grant, Scott
+ - Grattan, James
+ - Hamelmann, Chris
+ - Harrison, Neil
+ - Henderson, Lorne
+ - Henry, Terry
+ - Hess, Gordon
+ - Hinch, Bert
+ - Houston, Neil
+ - Howard, Glenn
+ - Howard, Russ
+ - Kawaja, John
+ - Kerr, Ian
+ - Kuroyama, Robert
+ - Lacey, Jeff
+ - LaRocque, Guy
+ - Lemery, Dan
+ - Loeffler, Ken
+ - Lukowich, Ed
+ - MacDonald, Doug
+ - MacKinnon, Norbert
+ - MacLeod, Kris
+ - MacWilliams, John
+ - Martin, Kevin
+ - McPhee, Barry
+ - Mosley, Jeff
+ - Muyres, Craig
+ - Muyres, Garth
+ - Muyres, Lyle
+ - Muyres, Warren
+ - Neufeld, Chris
+ - Nowlan, Daryell
+ - Oliver, Bill
+ - O'Rourke, Mark
+ - Packet, Jim
+ - Perroud, Pat
+ - Peters, Vic
+ - Ramcharan, Rudy
+ - Reddick, Don
+ - Riley, Mike
+ - Robinson, Bill
+ - Schleppe, Dave
+ - Somers, Grant
+ - Sullivan, Charles Jr
+ - Sweete, Don
+ - Syme, Brent
+ - Thomas, Jeff
+ - Toews, Brian
+ - Turner, Malcolm
+ - Walchuk, Don
+ - Warren, Dave
+ - Werenich, Ed
+ - Westphal, Don
+ - Wilson, Michael
+ - Wookey, Russ
 ---

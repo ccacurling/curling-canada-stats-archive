@@ -23,4 +23,10 @@ years:
    takeout-percent: 50
    shots-total: 5
    shots-percent: 90
+vs:
+ - Borden, Robert
+ - Chorostkowski, Brad
+ - Koe, Jamie
+ - Schille, Chris
+ - Skauge, Greg
 ---

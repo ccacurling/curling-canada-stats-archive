@@ -50,4 +50,13 @@ years:
    takeout-percent: 75
    shots-total: 20
    shots-percent: 64
+vs:
+ - Hart, Richard
+ - Howard, Glenn
+ - Hunt, Bruce
+ - Laing, Brent
+ - Molloy, Pat
+ - Savill, Craig
+ - Sumner, Kevin
+ - Wasnea, Brian
 ---

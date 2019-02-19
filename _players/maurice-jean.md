@@ -23,4 +23,45 @@ years:
    takeout-percent: 79
    shots-total: 185
    shots-percent: 74
+vs:
+ - Arsenault, Craig
+ - Buckle, Andrew
+ - Corner, Peter
+ - Dobson, Brian
+ - Folk, Rick
+ - Gaudet, Mike
+ - Grant, Scott
+ - Gretzinger, Bert
+ - Harcourt, Doug
+ - Harcourt, Greg
+ - Harris, Tyler
+ - Howard, Glenn
+ - Howard, Russ
+ - Johnston, Steve
+ - Kalthoff, Kevin
+ - Loevenmark, Phil
+ - Lowe, Wayne
+ - Lukowich, Ed
+ - MacKenzie, Eddie
+ - Maxie, Fred
+ - McClelland, John
+ - Middaugh, Wayne
+ - Nicholls, Peter
+ - Noseworthy, Mark
+ - O'Driscoll, Frank
+ - O'Leary, Alan
+ - Patterson, Scott
+ - Petryk, Dan
+ - Petryk, Steve
+ - Philip, Dan
+ - Piggott, Steve
+ - Richard, Gerry
+ - Ryan, Pat
+ - Salina, Charlie
+ - Smith, Dave
+ - Sullivan, Charles Jr
+ - Thomas, Rob
+ - Trickett, Eugene
+ - Walsh, Jim
+ - Wempe, Brian
 ---

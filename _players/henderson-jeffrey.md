@@ -83,4 +83,82 @@ years:
    takeout-percent: 75
    shots-total: 190
    shots-percent: 74
+vs:
+ - Adams, Brian
+ - Allan, John
+ - Armstrong, Jim
+ - Bartlett, Don
+ - Biron, Louis
+ - Brackett, James
+ - Broda, Shawn
+ - Brown, Ken
+ - Butler, Ted
+ - Carey, Dan
+ - Charette, Pierre
+ - Coady, Mike
+ - Corner, Peter
+ - Coster, Dave
+ - Cunningham, Geoff
+ - Delmage, Ron
+ - Despins, Glen
+ - Dowden, Craig
+ - Eberts, Tony
+ - Elkin, Derek
+ - Fitzherbert, Brad
+ - Forsyth, Sandy
+ - Fowler, Ed
+ - Foy, Sandy
+ - Goss, Glenn
+ - Gould, Steve
+ - Gudereit, Kerry
+ - Hackner, Al
+ - Harris, Tom
+ - Hebert, Brad
+ - Hinch, Bert
+ - Hollett, Peter
+ - Howard, Glenn
+ - Howard, Russ
+ - Ingram, Bob
+ - Kennedy, Mike
+ - Lafleur, Andre
+ - LeCocq, Marc
+ - Lemery, Dan
+ - MacDonald, Peter
+ - MacDonald, Rod
+ - MacFadyen, Bill
+ - MacFadyen, Ted
+ - Martin, Kevin
+ - McPhee, Barry
+ - Middaugh, Wayne
+ - Mihalicz, Dwayne
+ - Monkman, Greg
+ - Montgomery, Rod
+ - Moss, Steve
+ - Neufeld, Chris
+ - Novakowski, Bob
+ - Odishaw, Grant
+ - O'Driscoll, Frank
+ - Park, Kevin
+ - Perozak, Brian
+ - Perron, Rick
+ - Peters, Vic
+ - Petryk, Dan
+ - Pineau, Larry
+ - Postma, John
+ - Ravndal, Clayton
+ - Robertson, Richard
+ - Rowsell, Rick
+ - Rudd, Don
+ - Rumfeldt, Robert
+ - Sharp, Warren
+ - Smyth, Larry
+ - Somers, Grant
+ - Stoughton, Jeff
+ - Thompson, Ron
+ - Tresoor, Ken
+ - Van Den Berghe, Garry
+ - Van Dine, Steve
+ - Walchuk, Don
+ - Westphal, Don
+ - Young, Neil
 ---

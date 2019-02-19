@@ -23,4 +23,18 @@ years:
    takeout-percent: 100
    shots-total: 22
    shots-percent: 89
+vs:
+ - Danbrook, Jamie
+ - Dillon, Mike
+ - Fry, Ryan
+ - Gaudet, Mike
+ - Gushue, Brad
+ - Jones, Brennen
+ - Knapp, Kelly
+ - Laycock, Steve
+ - MacFadyen, Alex
+ - MacKenzie, Eddie
+ - Muyres, Dallan
+ - Nichols, Mark
+ - Simmons, Pat
 ---

@@ -23,4 +23,9 @@ years:
    takeout-percent:
    shots-total: 20
    shots-percent: 96
+vs:
+ - Hebert, Ben
+ - Kennedy, Marc
+ - Koe, Kevin
+ - Laing, Brent
 ---

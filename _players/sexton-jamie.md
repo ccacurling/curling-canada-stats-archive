@@ -23,4 +23,49 @@ years:
    takeout-percent: 74
    shots-total: 239
    shots-percent: 76
+vs:
+ - Adams, Kevin
+ - Armstrong, Mark
+ - Belcourt, Tim
+ - Carstairs, Kent
+ - Coady, Mike
+ - Delmage, Al
+ - Dobson, Brian
+ - Ferbey, Randy
+ - Fowler, Brian
+ - Fulton, Chris
+ - Gardiner, Don
+ - Giles, Roy
+ - Hebert, Roy
+ - Hennigar, Ted
+ - Hilliard, Greg
+ - Howard, Glenn
+ - Howard, Russ
+ - Jackson, Glenn
+ - Journeaux, Ian
+ - Kallos, Jack Jr
+ - Kapicki, Ron
+ - Kennedy, Bruce
+ - Krupski, Gary
+ - Krupski, Mark
+ - Krupski, Ray
+ - Kyle, Keith
+ - MacFadyen, Bill
+ - MacFadyen, Dave
+ - MacFadyen, Ted
+ - Mitchell, Gary
+ - Noseworthy, Mark
+ - Perry, Randy
+ - Pineau, Larry
+ - Poole, Gary
+ - Rastelli, Max
+ - Reddick, Don
+ - Roach, Terry
+ - Ryan, Pat
+ - Snell, Brian
+ - Thomas, Rob
+ - Trickett, Eugene
+ - Turner, Malcolm
+ - Walchuk, Don
+ - Wallace, Dale
 ---

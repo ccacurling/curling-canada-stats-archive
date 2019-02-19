@@ -23,4 +23,9 @@ years:
    takeout-percent: 100
    shots-total: 2
    shots-percent: 50
+vs:
+ - Balsdon, Greg
+ - Bice, Mark
+ - Bice, Steve
+ - Farnell, Jamie
 ---

@@ -50,4 +50,85 @@ years:
    takeout-percent: 74
    shots-total: 205
    shots-percent: 79
+vs:
+ - Bartlett, Don
+ - Biron, Louis
+ - Brackett, James
+ - Broda, Shawn
+ - Buchan, Chris
+ - Butler, Marc
+ - Butler, Mark
+ - Campbell, Robert
+ - Carey, Dan
+ - Charette, Pierre
+ - Coulter, Mike
+ - Delmage, Ron
+ - Despins, Glen
+ - Dowden, Craig
+ - Duce, Dallas
+ - Elkin, Derek
+ - Ellis, Ken
+ - Ernst, Georg
+ - Forsyth, Sandy
+ - Gallant, Peter
+ - Gould, Steve
+ - Goulden, Lowell
+ - Grant, Scott
+ - Grattan, James
+ - Gubbles, Will
+ - Harrison, Neil
+ - Henderson, Jeffrey
+ - Henderson, Lorne
+ - Hollett, Peter
+ - Ingram, Bob
+ - Jakomait, Dusty
+ - Josephson, Glenn
+ - Kawaja, John
+ - Kennedy, Mike
+ - Kerr, Ian
+ - Kofoed, Lonnie
+ - Lacey, Jeff
+ - LeCocq, Marc
+ - Lemery, Dan
+ - Loeffler, Ken
+ - MacDonald, Peter
+ - MacDonald, Rod
+ - MacInnes, David
+ - MacLeod, Kris
+ - Martin, Kevin
+ - McGowan, Nolin
+ - Mihalicz, Dwayne
+ - Montgomery, Rod
+ - Mosley, Jeff
+ - Neufeld, Chris
+ - Nowlan, Daryell
+ - Odishaw, Grant
+ - O'Driscoll, Frank
+ - O'Rourke, Mark
+ - Packet, Jim
+ - Palmer, Curt
+ - Perron, Rick
+ - Perroud, Pat
+ - Peters, Vic
+ - Postma, John
+ - Power, Humphrey
+ - Rafuse, Brian
+ - Ramcharan, Rudy
+ - Robertson, Richard
+ - Robinson, Bill
+ - Rowsell, Rick
+ - Rumfeldt, Robert
+ - Slauenwhite, David
+ - Smyth, Larry
+ - Somers, Grant
+ - Stoughton, Jeff
+ - Stuart, Darol
+ - Sullivan, Charles Jr
+ - Thomas, Jeff
+ - Tresoor, Ken
+ - Van Den Berghe, Garry
+ - Van Dine, Steve
+ - Walchuk, Don
+ - Werenich, Ed
+ - Westphal, Don
 ---

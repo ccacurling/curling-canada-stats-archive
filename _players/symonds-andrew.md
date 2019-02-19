@@ -23,4 +23,10 @@ years:
    takeout-percent:
    shots-total: 4
    shots-percent: 88
+vs:
+ - Dillon, Mike
+ - Gaudet, Mike
+ - MacFadyen, Alex
+ - MacKenzie, Eddie
+ - Newson, Jamie
 ---

@@ -134,4 +134,56 @@ years:
    takeout-percent: 82
    shots-total: 152
    shots-percent: 87
+vs:
+ - Bardsley, Mike
+ - Barry, Josh
+ - Borden, Robert
+ - Carruthers, Reid
+ - Champion, Kevin
+ - Childs, Jamie
+ - Chorostkowski, Brad
+ - Cotter, Jim
+ - Crete, Martin
+ - Crowell, Phil
+ - Currie, Jeff
+ - Desrosiers, John
+ - Dobson, Paul
+ - Epp, Jody
+ - Fitzner-LeBlanc, Ian
+ - Fraser, Pierre
+ - Gallant, Peter
+ - Grattan, James
+ - Griffith, Ty
+ - Howard, Russ
+ - Howard, Steven
+ - Jones, Scott
+ - Koe, Jamie
+ - Koe, Kevin
+ - Koivula, Colin
+ - MacDonald, Rod
+ - MacLean, Stuart
+ - McCarville, Mike
+ - McDermaid, Donald
+ - Mead, Jonathan
+ - Menard, Jean-Michel
+ - Menard, Philippe
+ - Morris, John
+ - Murphy, Jamie
+ - Nichols, Mark
+ - O'Rourke, Mark
+ - Pinder, Jordan
+ - Porter, Ryan
+ - Roach, Darren
+ - Roach, Jason
+ - Robar, Mark
+ - Robinson, Andrew
+ - Rycroft, Carter
+ - Sawatsky, Rick
+ - Simmons, Pat
+ - Smith, Kent
+ - Stoughton, Jeff
+ - Sylvain, Eric
+ - Thiessen, Nolan
+ - Vaughan, Jason
+ - Whitehead, Kevin
 ---

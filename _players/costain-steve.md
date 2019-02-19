@@ -10,4 +10,5 @@ years:
    event: Brier
    team: "PE"
    position: Alternate
+vs:
 ---

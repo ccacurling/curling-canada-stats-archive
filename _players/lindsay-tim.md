@@ -23,4 +23,49 @@ years:
    takeout-percent: 82
    shots-total: 214
    shots-percent: 81
+vs:
+ - Bryant, Doug
+ - Bubbs, John
+ - Bucyk, James
+ - Campbell, Robert
+ - Champion, Kevin
+ - Cochrane, Bryan
+ - Cowan, Chad
+ - Dacey, Mark
+ - Dillon, Mike
+ - Ferbey, Randy
+ - Gamble, Bill
+ - Gibson, Andrew
+ - Gorveatt, Philip
+ - Grattan, James
+ - Gushue, Brad
+ - Harcourt, Doug
+ - Harcourt, Greg
+ - Harris, Rob
+ - Hemmings, Guy
+ - Hollowaychuk, Dan
+ - Horning, Deane
+ - Howard, Russ
+ - Jenion, Bob
+ - Kalthoff, Kevin
+ - Kelsch, Dan
+ - Korab, Jamie
+ - LeCocq, Marc
+ - Lohnes, Bruce
+ - MacAulay, Ian
+ - MacKenzie, Kevin
+ - Menard, Jean-Michel
+ - Milward, Ross
+ - Nedohin, David
+ - Ness, Dale
+ - Nichols, Mark
+ - Odishaw, Grant
+ - Pfeifer, Scott
+ - Ryan, Pat
+ - Scales, Bob
+ - Steski, John
+ - Ursel, Bob
+ - Ward, Mark
+ - Wempe, Brian
+ - Westphal, Don
 ---

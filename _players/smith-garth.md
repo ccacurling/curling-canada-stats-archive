@@ -71,4 +71,56 @@ years:
    takeout-percent: 58
    shots-total: 7
    shots-percent: 75
+vs:
+ - Adam, Gerry
+ - Buyck, James
+ - Carmody, Anson
+ - Case, Peter
+ - Champion, Kevin
+ - Charette, Pierre
+ - Cotter, Jim
+ - Cowan, Chad
+ - Crete, Martin
+ - Darragh, Alan
+ - Desrosiers, John
+ - Flaxey, Caleb
+ - Folk, Kevin
+ - Gagnon, Jean
+ - Gallant, Peter
+ - Gorveatt, Philip
+ - Grattan, James
+ - Gushue, Brad
+ - Harnden, E.J.
+ - Harnden, Eric
+ - Harnden, Ryan
+ - Hart, Richard
+ - Hebert, Ben
+ - Howard, Glenn
+ - Ireland, Clint
+ - Kennedy, Marc
+ - Kennedy, Mike
+ - Laing, Brent
+ - Laycock, Steve
+ - Ledgerwood, Sean
+ - MacFadyen, Alex
+ - MacKenzie, Eddie
+ - Martin, Kevin
+ - Menard, Jean-Michel
+ - Menard, Philippe
+ - Morris, John
+ - Nichols, Mark
+ - Noftall, David
+ - O'Rourke, Mark
+ - Palmer, Curt
+ - Rafuse, Brian
+ - Savill, Craig
+ - Sawatsky, Rick
+ - Schille, Chris
+ - Scoffin, Wade
+ - Sharp, Jeff
+ - Simmons, Pat
+ - Slauenwhite, David
+ - Sylvain, Eric
+ - Ursel, Bob
+ - Vaughan, Jason
 ---

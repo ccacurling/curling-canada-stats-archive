@@ -23,4 +23,9 @@ years:
    takeout-percent: 63
    shots-total: 20
    shots-percent: 66
+vs:
+ - Bisson, Richard
+ - Butler, Ted
+ - Charette, Pierre
+ - Lafleur, Andre
 ---

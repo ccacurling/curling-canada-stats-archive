@@ -23,4 +23,13 @@ years:
    takeout-percent: 75
    shots-total: 30
    shots-percent: 73
+vs:
+ - Alexander, Scott
+ - Alexander, Trevor
+ - Butler, Mark
+ - Campbell, Robert
+ - Gallant, Peter
+ - Moss, Steve
+ - O'Rourke, Mark
+ - Robertson, Richard
 ---

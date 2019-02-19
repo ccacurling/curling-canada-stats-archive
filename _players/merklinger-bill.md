@@ -23,4 +23,15 @@ years:
    takeout-percent:
    shots-total: 10
    shots-percent: 78
+vs:
+ - Barry, Josh
+ - Campbell, Robert
+ - Carmody, Anson
+ - Casey, Adam
+ - Doherty, Robert
+ - Fry, Ryan
+ - Harnden, E.J.
+ - Harnden, Eric
+ - Harnden, Ryan
+ - Jacobs, Brad
 ---

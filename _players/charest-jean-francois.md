@@ -70,4 +70,18 @@ years:
    takeout-percent: 90
    shots-total: 31
    shots-percent: 86
+vs:
+ - Casey, Adam
+ - Fry, Ryan
+ - Gushue, Brad
+ - Jones, Scott
+ - Koe, Kevin
+ - MacDonald, Blake
+ - McCann, Andy
+ - Odishaw, Grant
+ - Odishaw, Terry
+ - Rycroft, Carter
+ - Simmons, Pat
+ - Thiessen, Nolan
+ - Walker, Geoff
 ---

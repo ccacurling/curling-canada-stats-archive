@@ -23,4 +23,33 @@ years:
    takeout-percent: 89
    shots-total: 136
    shots-percent: 85
+vs:
+ - Bardsley, Mike
+ - Borden, Robert
+ - Carmody, Anson
+ - Casey, Adam
+ - Childs, Jamie
+ - Chorostkowski, Brad
+ - Currie, Jeff
+ - Flasch, Colton
+ - Gallant, Brett
+ - Gushue, Brad
+ - Koe, Jamie
+ - Koe, Kevin
+ - Koivula, Colin
+ - Laycock, Steve
+ - Ledgerwood, Sean
+ - MacKenzie, Eddie
+ - MacKenzie, Tyler
+ - McCarville, Mike
+ - McDermaid, Donald
+ - Murphy, Jamie
+ - Muyres, Dallan
+ - Muyres, Kirk
+ - Pinder, Jordan
+ - Rycroft, Carter
+ - Simmons, Pat
+ - Thiessen, Nolan
+ - Walker, Geoff
+ - Whitehead, Kevin
 ---

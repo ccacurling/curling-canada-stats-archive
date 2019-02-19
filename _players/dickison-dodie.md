@@ -56,4 +56,13 @@ years:
    takeout-percent: 68
    shots-total: 37
    shots-percent: 58
+vs:
+ - Ferraro, Marco
+ - Gawel, Pete
+ - Gemmell, Dean
+ - Hakansson, Thomas
+ - MacLean, Stuart
+ - Robinson, Bill
+ - Steventon, Lawren
+ - Wallace, Dave
 ---

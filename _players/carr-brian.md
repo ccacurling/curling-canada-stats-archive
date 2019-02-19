@@ -23,4 +23,49 @@ years:
    takeout-percent:
    shots-total: 0
    shots-percent:
+vs:
+ - Allan, John
+ - Armstrong, Jim
+ - Belyea, Richard
+ - Bryden, Gary
+ - Clarke, Haylett
+ - Cunningham, Geoff
+ - Delmage, Al
+ - Dobson, Arnie
+ - Dobson, Michael
+ - Ferguson, John
+ - Foss, Wilf
+ - Giles, Roy
+ - Graham, Dale
+ - Harrison, Neil
+ - Heintz, Jim
+ - Helston, John
+ - Hinks, Geoffrey
+ - Houston, Neil
+ - Kamp, Ragnar
+ - Kapicki, Ron
+ - Kawaja, John
+ - Langille, Vic
+ - Ledgerwood, Allan
+ - Lukowich, Ed
+ - MacDonald, Ken
+ - MacDonald, Ronald
+ - Matheson, Wayne
+ - McCarron, Rod
+ - Millard, Neil
+ - Moore, Claude
+ - Pacquin, Rolland
+ - Riley, Mike
+ - Savage, Paul
+ - Sparkes, Bernie
+ - Strain, Bill
+ - Syme, Brent
+ - Thomas, Jeff
+ - Thompson, Ron
+ - Toews, Brian
+ - Victor, Mark
+ - Werenich, Ed
+ - Wookey, Russ
+ - Young, Neil
+ - Zimmer, Jerry
 ---

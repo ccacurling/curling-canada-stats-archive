@@ -56,4 +56,13 @@ years:
    takeout-percent:
    shots-total: 6
    shots-percent: 100
+vs:
+ - Fry, Ryan
+ - Geall, Sean
+ - Harnden, E.J.
+ - Harnden, Ryan
+ - Horgan, Tanner
+ - Jacobs, Brad
+ - Nerpin, Andrew
+ - Wood, Brad
 ---

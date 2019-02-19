@@ -14,4 +14,5 @@ years:
    event: Brier
    team: "SK"
    position: Alternate
+vs:
 ---

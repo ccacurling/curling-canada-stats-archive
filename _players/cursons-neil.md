@@ -37,4 +37,50 @@ years:
    event: Brier
    team: "SK"
    position: Alternate
+vs:
+ - Armstrong, Doug
+ - Butler, Mark
+ - Campbell, Robert
+ - Charette, Pierre
+ - Dauphinee, Andrew
+ - Fetterly, Tom
+ - Flemming, Paul
+ - Fulton, Chris
+ - Gallant, Peter
+ - Goss, Glenn
+ - Gretzinger, Bert
+ - Hemmings, Guy
+ - Howard, Russ
+ - Hunka, Ken
+ - Irwin, Don
+ - Iskiw, Blayne
+ - Johnston, Wade
+ - Lacey, Jeff
+ - Loevenmark, Phil
+ - Lowe, Wayne
+ - MacDonald, Blake
+ - MacDonald, Brent
+ - Madden, Paul
+ - McClelland, John
+ - Mead, Jonathan
+ - Mellof, Dave
+ - Moffatt, Rich
+ - Ness, Dale
+ - Odishaw, Grant
+ - O'Rourke, Mark
+ - Paslawski, Pat
+ - Patterson, Scott
+ - Peddigrew, Ken
+ - Peech, Orest
+ - Perron, Rick
+ - Rajala, Howard
+ - Reynolds, Brett
+ - Stoughton, Jeff
+ - Tallon, Wayne
+ - Thibaudeau, Guy
+ - Turpin, Glenn
+ - Ursel, Bob
+ - Van Den Berghe, Garry
+ - Wasnea, Brian
+ - Whittle, Mark
 ---

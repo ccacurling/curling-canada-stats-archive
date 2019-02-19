@@ -23,4 +23,37 @@ years:
    takeout-percent: 73
    shots-total: 141
    shots-percent: 75
+vs:
+ - Adams, Kevin
+ - Bartlett, Don
+ - Boland, John
+ - Buck, Wyatt
+ - Butler, Mark
+ - Campbell, Robert
+ - Carter, Andrew
+ - Collison, Brian
+ - Gallant, Peter
+ - Grundy, John
+ - Henderson, Scott
+ - Iverson, Dave
+ - Kent, Gerry
+ - Kieley, Phil
+ - Lang, Rick
+ - Lappalainen, Art
+ - MacLean, Rob
+ - Martin, Kevin
+ - Mayne, Dave
+ - McCusker, Brian
+ - McHargue, Ken
+ - O'Rourke, Mark
+ - Park, Kevin
+ - Petryk, Dan
+ - Reddick, Don
+ - Shypitka, Tom
+ - Skanes, Robert
+ - Stoughton, Jeff
+ - Tetley, Ross
+ - Tresoor, Ken
+ - Van Den Berghe, Garry
+ - Woytowich, Randy
 ---

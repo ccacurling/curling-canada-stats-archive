@@ -23,4 +23,14 @@ years:
    takeout-percent: 100
    shots-total: 38
    shots-percent: 93
+vs:
+ - Burnett, Steve
+ - Gordon, Robbie
+ - Jewer, Keith
+ - Landry, Jeremy
+ - LeDrew, Ryan
+ - MacInnes, David
+ - Noftall, David
+ - Peddigrew, Ken
+ - Rose, Jeff
 ---

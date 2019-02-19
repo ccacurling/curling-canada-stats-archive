@@ -23,4 +23,48 @@ years:
    takeout-percent: 80
    shots-total: 239
    shots-percent: 81
+vs:
+ - Biron, Louis
+ - Brown, Ken
+ - Buchan, Chris
+ - Butler, Mark
+ - Campbell, Robert
+ - Carey, Dan
+ - Charette, Pierre
+ - Coulter, Mike
+ - Duce, Dallas
+ - Ellis, Ken
+ - Ernst, Georg
+ - Gallant, Peter
+ - Goulden, Lowell
+ - Grant, Scott
+ - Grattan, James
+ - Harrison, Neil
+ - Henderson, Lorne
+ - Hinch, Bert
+ - Jakomait, Dusty
+ - Kawaja, John
+ - Kerr, Ian
+ - Kofoed, Lonnie
+ - Lacey, Jeff
+ - Lemery, Dan
+ - Loeffler, Ken
+ - MacLeod, Kris
+ - McGowan, Nolin
+ - McPhee, Barry
+ - Mosley, Jeff
+ - Neufeld, Chris
+ - Nowlan, Daryell
+ - O'Rourke, Mark
+ - Packet, Jim
+ - Perroud, Pat
+ - Peters, Vic
+ - Power, Humphrey
+ - Robinson, Bill
+ - Schleppe, Dave
+ - Stuart, Darol
+ - Sullivan, Charles Jr
+ - Thomas, Jeff
+ - Werenich, Ed
+ - Westphal, Don
 ---

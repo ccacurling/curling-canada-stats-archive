@@ -23,4 +23,9 @@ years:
    takeout-percent: 86
    shots-total: 22
    shots-percent: 88
+vs:
+ - Henry, Terry
+ - Riley, Mike
+ - Toews, Brian
+ - Wookey, Russ
 ---

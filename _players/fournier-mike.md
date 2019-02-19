@@ -23,4 +23,37 @@ years:
    takeout-percent: 70
    shots-total: 148
    shots-percent: 75
+vs:
+ - Barry, Josh
+ - Borden, Robert
+ - Camm, Mathew
+ - Carruthers, Reid
+ - Case, Peter
+ - Chorostkowski, Brad
+ - Dunstone, Matthew
+ - Epping, John
+ - Fry, Ryan
+ - Gallant, Chris
+ - Grattan, James
+ - Harnden, E.J.
+ - Harnden, Ryan
+ - Hodgson, Colin
+ - Jacobs, Brad
+ - Janssen, Patrick
+ - Jeffrey, Chris
+ - Kingdon, Wade
+ - Koe, Jamie
+ - Laycock, Steve
+ - Ledgerwood, Sean
+ - MacKenzie, Eddie
+ - Mackey, Peter
+ - March, Tim
+ - McCann, Andy
+ - Moskowy, Braeden
+ - Muyres, Dallan
+ - Muyres, Kirk
+ - Nadeau, Jeff
+ - Samagalski, Derek
+ - Schille, Chris
+ - St.Louis, David
 ---

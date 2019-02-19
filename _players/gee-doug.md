@@ -23,4 +23,9 @@ years:
    takeout-percent: 72
    shots-total: 22
    shots-percent: 72
+vs:
+ - Darragh, Alan
+ - Josephson, Glenn
+ - Palmer, Curt
+ - Rafuse, Brian
 ---

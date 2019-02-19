@@ -23,4 +23,9 @@ years:
    takeout-percent: 50
    shots-total: 2
    shots-percent: 50
+vs:
+ - Carruthers, Bob
+ - Denis, Serge
+ - Sutherland, Cy
+ - Wight, Bryan
 ---

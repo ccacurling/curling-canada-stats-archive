@@ -16,6 +16,10 @@ Site - Brian Cassidy Jr.
 
 ## Changelog
 
+### 2019-02-19
+
+ * Added "vs" shortcut selector to player pages.
+
 ### 2019-02-15
 
  * Added "Top Career Wins" for Brier and Hearts records.

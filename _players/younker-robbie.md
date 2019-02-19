@@ -56,4 +56,13 @@ years:
    takeout-percent: 67
    shots-total: 10
    shots-percent: 83
+vs:
+ - Camm, Mathew
+ - Epping, John
+ - Janssen, Patrick
+ - Kingdon, Wade
+ - Mackey, Peter
+ - March, Tim
+ - Nadeau, Jeff
+ - St.Louis, David
 ---

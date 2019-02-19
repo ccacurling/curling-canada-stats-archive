@@ -23,4 +23,38 @@ years:
    takeout-percent: 82
    shots-total: 148
    shots-percent: 79
+vs:
+ - Borden, Robert
+ - Bottchar, Brendan
+ - Chorostkowski, Brad
+ - Crowell, Phil
+ - Flemming, Paul
+ - Gallant, Brett
+ - Geall, Sean
+ - Gushue, Brad
+ - Hunt, Matthew
+ - Kingdon, Wade
+ - Koe, Jamie
+ - Mackey, Peter
+ - Martin, Karrick
+ - McEwen, Mike
+ - Moulding, Darren
+ - Murphy, Jamie
+ - Nadeau, Jeff
+ - Nerpin, Andrew
+ - Neufeld, B.J.
+ - Neufeld, Denni
+ - Nichols, Mark
+ - Richard, Jeff
+ - Saccary, Scott
+ - Sallows, Tom
+ - Schille, Chris
+ - Smith, Greg
+ - St.Louis, David
+ - Taylor, Andrew
+ - Thiessen, Brad
+ - Walker, Geoff
+ - Withycombe, Ian
+ - Wood, Brad
+ - Wozniak, Matt
 ---

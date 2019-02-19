@@ -74,4 +74,13 @@ years:
    event: Brier
    team: "NB"
    position: Alternate
+vs:
+ - Despins, Glen
+ - Gardeski, Larry
+ - Kushnir, Warren
+ - Landry, Garry
+ - Mihalicz, Dwayne
+ - Montgomery, Rod
+ - Reed, Tom
+ - Tait, Jeff
 ---

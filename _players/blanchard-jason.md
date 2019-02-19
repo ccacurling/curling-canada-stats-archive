@@ -37,4 +37,41 @@ years:
    event: Brier
    team: "NS"
    position: Alternate
+vs:
+ - Armstrong, Doug
+ - Bartlett, Don
+ - Brandwood, Todd
+ - Corner, Peter
+ - Dowden, Craig
+ - Ellis, Ken
+ - Golanowski, Rory
+ - Henderson, Ron
+ - Hollett, Peter
+ - Howard, Russ
+ - Korte, Bruce
+ - Korte, Roger
+ - Macklin, Drew
+ - Martin, Kevin
+ - McAulay, Greg
+ - McKee, Darrell
+ - Mead, Jonathan
+ - Miki, Bryan
+ - Odishaw, Grant
+ - Perron, Rick
+ - Phillips, Tim
+ - Pierce, Brent
+ - Pritchett, Bob
+ - Pyper, Dwayne
+ - Robinson, Andrew
+ - Rowsell, Rick
+ - Rycroft, Carter
+ - Sauve, Dan
+ - Sauve, Roger
+ - Scales, Brian
+ - Stoughton, Jeff
+ - Sullivan, Evan
+ - Sveistrup, Jody
+ - Tallon, Wayne
+ - Van Den Berghe, Garry
+ - Walchuk, Don
 ---

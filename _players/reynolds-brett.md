@@ -23,4 +23,49 @@ years:
    takeout-percent: 86
    shots-total: 212
    shots-percent: 81
+vs:
+ - Adam, Gerry
+ - Armstrong, Doug
+ - Butler, Mark
+ - Campbell, Robert
+ - Charette, Pierre
+ - Cursons, Neil
+ - Dauphinee, Andrew
+ - Fetterly, Tom
+ - Flemming, Paul
+ - Fulton, Chris
+ - Gallant, Peter
+ - Geisler, Arnie
+ - Gretzinger, Bert
+ - Hemmings, Guy
+ - Howard, Russ
+ - Hunka, Ken
+ - Irwin, Don
+ - Iskiw, Blayne
+ - Johnston, Wade
+ - Lacey, Jeff
+ - Loevenmark, Phil
+ - Lowe, Wayne
+ - MacDonald, Blake
+ - MacDonald, Brent
+ - Madden, Paul
+ - McClelland, John
+ - Mead, Jonathan
+ - Mellof, Dave
+ - Moffatt, Rich
+ - Ness, Dale
+ - O'Rourke, Mark
+ - Paslawski, Pat
+ - Patterson, Scott
+ - Peech, Orest
+ - Perron, Rick
+ - Rajala, Howard
+ - Shymko, Gerald
+ - Stoughton, Jeff
+ - Tallon, Wayne
+ - Thibaudeau, Guy
+ - Ursel, Bob
+ - Van Den Berghe, Garry
+ - Wasnea, Brian
+ - Whittle, Mark
 ---

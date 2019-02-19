@@ -23,4 +23,49 @@ years:
    takeout-percent: 79
    shots-total: 205
    shots-percent: 84
+vs:
+ - Adam, Mike
+ - Adams, Shawn
+ - Bailey, Scott
+ - Burgess, Craig
+ - Dillon, Mike
+ - Dutiaume, Randy
+ - Elias, Dave
+ - Elmaleh, Maxime
+ - Ferbey, Randy
+ - Flemming, Paul
+ - Frans, Joe
+ - Freschi, Don
+ - Gorveatt, Philip
+ - Gushue, Brad
+ - Haichert, Chris
+ - Hebert, Ben
+ - Horning, Deane
+ - Jakubo, Mike
+ - Kilgallen, Shane
+ - Korab, Jamie
+ - MacDonald, Peter
+ - MacDonald, Rod
+ - McCarrel, Graeme
+ - Melnichuk, Greg
+ - Menard, Jean-Michel
+ - Middaugh, Wayne
+ - Mittelstadt, Kelly
+ - Moshenko, Darcy
+ - Nedohin, David
+ - Nichols, Mark
+ - Nobert, Rob
+ - Ouimet, Luc
+ - Pfeifer, Scott
+ - Pielak, Rod
+ - Roberge, Francois
+ - Rocque, Marcel
+ - Ryan, Keith
+ - Sharp, Jeff
+ - Simmons, Pat
+ - Solberg, Jonathon
+ - Sosiak, Jim
+ - Sylvain, Eric
+ - Thomson, Fred
+ - Toner, Lee
 ---

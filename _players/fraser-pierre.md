@@ -23,4 +23,51 @@ years:
    takeout-percent: 90
    shots-total: 195
    shots-percent: 86
+vs:
+ - Adam, Gerry
+ - Atchison, Chris
+ - Barker, Richard
+ - Berthelot, Marco
+ - Bice, Steve
+ - Bryant, Doug
+ - Campbell, Robert
+ - Champion, Kevin
+ - Charette, Pierre
+ - Chorostkowski, Brad
+ - Ferland, Martin
+ - Fowler, Rob
+ - Fry, Ryan
+ - Gallant, Peter
+ - Gould, Steve
+ - Gushue, Brad
+ - Harnden, Al
+ - Hart, Richard
+ - Hebert, Ben
+ - Howard, Glenn
+ - Iskiw, Blayne
+ - Jacobs, Brad
+ - Jakomait, Dusty
+ - Joanisse, Dean
+ - Kehoe, Mark
+ - Kennedy, Marc
+ - Koe, Jamie
+ - Korab, Jamie
+ - Laing, Brent
+ - Laycock, Steve
+ - Lemay, Philippe
+ - Martin, Kevin
+ - Morris, John
+ - Nantes, Dave
+ - Nichols, Mark
+ - O'Rourke, Mark
+ - Palmer, Curt
+ - Savill, Craig
+ - Schille, Chris
+ - Sharp, Jeff
+ - Simmons, Pat
+ - Stoughton, Jeff
+ - Toner, Lee
+ - Whitehead, Kevin
+ - Whitehead, Mark
+ - Wood, Mike
 ---

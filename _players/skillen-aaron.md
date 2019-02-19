@@ -23,4 +23,49 @@ years:
    takeout-percent: 79
    shots-total: 204
    shots-percent: 74
+vs:
+ - Abel, Clinton
+ - Andrews, Robert
+ - Armstrong, Mark
+ - Bartlett, Don
+ - Burgess, Craig
+ - Burtnyk, Kerry
+ - Butler, Mark
+ - Campbell, Robert
+ - Charteris, Wayne
+ - Clarke, Dave
+ - Dacey, Mark
+ - Feldman, Alfred
+ - Fenton, Keith
+ - Folk, Rick
+ - Gagnon, Steeve
+ - Gallant, Peter
+ - Gretzinger, Bert
+ - Harrison, Neil
+ - Harvey, Paul
+ - Heidt, Brad
+ - Jenkins, Bill
+ - Kawaja, John
+ - Lohnes, Bruce
+ - MacPherson, Brad
+ - MacPherson, Bryan
+ - Martin, Kevin
+ - Meakin, Rob
+ - Mimeault, Bernard
+ - Mimeault, Greg
+ - Odian, Scott
+ - Ormbsy, Dan
+ - O'Rourke, Mark
+ - Pahl, James
+ - Park, Kevin
+ - Patriquin, Chuck
+ - Peddigrew, Ken
+ - Perroud, Pat
+ - Power, Joe
+ - Richard, Gerry
+ - Ryan, Jeff
+ - Ryan, Pat
+ - Tremblay, Roderigue
+ - Vautour, Joseph
+ - Werenich, Ed
 ---

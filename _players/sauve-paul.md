@@ -23,4 +23,9 @@ years:
    takeout-percent:
    shots-total: 2
    shots-percent: 50
+vs:
+ - Armstrong, Doug
+ - Mead, Jonathan
+ - Stoughton, Jeff
+ - Van Den Berghe, Garry
 ---

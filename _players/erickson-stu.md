@@ -23,4 +23,21 @@ years:
    takeout-percent: 74
    shots-total: 80
    shots-percent: 79
+vs:
+ - Adams, Kevin
+ - Alexander, Trevor
+ - Bradley, Mike
+ - Carter, Andrew
+ - Graham, Ross
+ - Lepine, Craig
+ - MacLean, Rob
+ - McEachran, Glen
+ - Ravndal, Clayton
+ - Reddick, Don
+ - Robertson, Brad
+ - Robertson, Richard
+ - Schneider, Jamie
+ - Schneider, Larry
+ - Schneider, Mike
+ - Schneider, Rick
 ---

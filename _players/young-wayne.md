@@ -50,4 +50,13 @@ years:
    takeout-percent: 75
    shots-total: 20
    shots-percent: 79
+vs:
+ - Howard, Russ
+ - Melville, Bruce
+ - Odishaw, Grant
+ - Perron, Rick
+ - Rathje, Larry
+ - Sinclair, Rob
+ - Tallon, Wayne
+ - Wiersema, Dale
 ---

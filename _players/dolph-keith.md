@@ -23,4 +23,9 @@ years:
    takeout-percent: 71
    shots-total: 22
    shots-percent: 74
+vs:
+ - Armstrong, Mark
+ - Dobson, Brian
+ - Mitchell, Gary
+ - Roach, Terry
 ---

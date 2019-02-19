@@ -56,4 +56,21 @@ years:
    takeout-percent: 69
    shots-total: 72
    shots-percent: 68
+vs:
+ - Bentley, Dan
+ - Bentley, Darren
+ - Butler, Mike
+ - Collison, Brian
+ - Corner, Peter
+ - Howard, Glenn
+ - Howard, Russ
+ - Kent, Gerry
+ - McHargue, Ken
+ - Middaugh, Wayne
+ - Mitchell, Gary
+ - Odishaw, Grant
+ - Perron, Rick
+ - Shypitka, Tom
+ - Walsh, Jim
+ - Xidos, George
 ---

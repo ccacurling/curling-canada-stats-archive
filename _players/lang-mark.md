@@ -37,4 +37,49 @@ years:
    takeout-percent: 80
    shots-total: 228
    shots-percent: 81
+vs:
+ - Adams, Shawn
+ - Blanchard, Ben
+ - Brodersen, Erik
+ - Burgess, Craig
+ - Campbell, Robert
+ - Collins, Ron
+ - Elias, Dave
+ - Elmaleh, Maxime
+ - Eloranta, Drew
+ - Ferbey, Randy
+ - Frans, Joe
+ - Gagnon, Jean
+ - Grattan, James
+ - Hong, Doug
+ - Hopkins, Jeff
+ - Horning, Deane
+ - Howard, Russ
+ - Jenkins, Bill
+ - Kerr, Ian
+ - Kilgallen, Shane
+ - Koffski, Rob
+ - Laing, Brent
+ - LeCocq, Marc
+ - Likely, John
+ - Lukowich, Mark
+ - MacKenzie, Kevin
+ - Mikkelsen, Ray
+ - Morris, John
+ - Nedohin, David
+ - Noseworthy, Mark
+ - Odishaw, Grant
+ - Pfeifer, Scott
+ - Phillips, Tim
+ - Roberge, Francois
+ - Rocque, Marcel
+ - Ryan, Pat
+ - Savill, Craig
+ - Scoffin, Wade
+ - Smith, Jeff
+ - Solberg, Jonathon
+ - Stuart, Darol
+ - Suchy, Chris
+ - Sylvain, Eric
+ - Turpin, Randy
 ---

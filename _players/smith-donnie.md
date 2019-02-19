@@ -56,4 +56,13 @@ years:
    takeout-percent: 73
    shots-total: 40
    shots-percent: 81
+vs:
+ - Chorostkowski, Brad
+ - Fowler, Rob
+ - Fry, Ryan
+ - Gould, Steve
+ - Koe, Jamie
+ - Stoughton, Jeff
+ - Whitehead, Kevin
+ - Whitehead, Mark
 ---

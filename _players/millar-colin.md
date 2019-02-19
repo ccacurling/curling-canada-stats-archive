@@ -23,4 +23,13 @@ years:
    takeout-percent:
    shots-total: 8
    shots-percent: 81
+vs:
+ - Adams, Shawn
+ - Bouchard, Christian
+ - Desjardins, Robert
+ - Flemming, Paul
+ - Gagne, Francois
+ - Gibson, Andrew
+ - Menard, Philippe
+ - Mittelstadt, Kelly
 ---

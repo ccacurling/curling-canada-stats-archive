@@ -23,4 +23,25 @@ years:
    takeout-percent: 83
    shots-total: 101
    shots-percent: 83
+vs:
+ - Adams, Kevin
+ - Alexander, Trevor
+ - Bradley, Mike
+ - Caputo, Frank
+ - Coady, Mike
+ - Evoy, Rich
+ - Foy, Sandy
+ - Graham, Ross
+ - Harnden, Al
+ - Harnden, Eric
+ - Lepine, Craig
+ - MacFadyen, Bill
+ - MacFadyen, Ted
+ - MacLean, Rob
+ - McEachran, Glen
+ - Ravndal, Clayton
+ - Reddick, Don
+ - Robertson, Brad
+ - Robertson, Richard
+ - Turner, Malcolm
 ---

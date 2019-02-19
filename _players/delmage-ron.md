@@ -23,4 +23,49 @@ years:
    takeout-percent: 74
    shots-total: 201
    shots-percent: 80
+vs:
+ - Bartlett, Don
+ - Biron, Louis
+ - Brackett, James
+ - Broda, Shawn
+ - Brown, Ken
+ - Butler, Marc
+ - Charette, Pierre
+ - Despins, Glen
+ - Dowden, Craig
+ - Eberts, Tony
+ - Forsyth, Sandy
+ - Gould, Steve
+ - Gubbles, Will
+ - Henderson, Jeffrey
+ - Hinch, Bert
+ - Hollett, Peter
+ - Ingram, Bob
+ - Josephson, Glenn
+ - Kennedy, Mike
+ - LeCocq, Marc
+ - Lemery, Dan
+ - MacDonald, Peter
+ - MacDonald, Rod
+ - MacInnes, David
+ - Martin, Kevin
+ - McPhee, Barry
+ - Mihalicz, Dwayne
+ - Montgomery, Rod
+ - Odishaw, Grant
+ - O'Driscoll, Frank
+ - Palmer, Curt
+ - Perron, Rick
+ - Postma, John
+ - Rafuse, Brian
+ - Rowsell, Rick
+ - Rumfeldt, Robert
+ - Slauenwhite, David
+ - Smyth, Larry
+ - Somers, Grant
+ - Stoughton, Jeff
+ - Tresoor, Ken
+ - Van Den Berghe, Garry
+ - Walchuk, Don
+ - Westphal, Don
 ---

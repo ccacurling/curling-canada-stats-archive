@@ -23,4 +23,34 @@ years:
    takeout-percent: 97
    shots-total: 134
    shots-percent: 90
+vs:
+ - Barry, Josh
+ - Carmody, Anson
+ - Carruthers, Reid
+ - Casey, Adam
+ - Cotter, Jim
+ - Crete, Martin
+ - Epp, Jody
+ - Flasch, Colton
+ - Gallant, Brett
+ - Grattan, James
+ - Griffith, Ty
+ - Gushue, Brad
+ - Laycock, Steve
+ - Ledgerwood, Sean
+ - MacKenzie, Eddie
+ - MacKenzie, Tyler
+ - Mead, Jonathan
+ - Menard, Jean-Michel
+ - Menard, Philippe
+ - Morris, John
+ - Muyres, Dallan
+ - Muyres, Kirk
+ - Nichols, Mark
+ - Roach, Darren
+ - Roach, Jason
+ - Sawatsky, Rick
+ - Stoughton, Jeff
+ - Sylvain, Eric
+ - Walker, Geoff
 ---

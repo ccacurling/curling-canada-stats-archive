@@ -23,4 +23,49 @@ years:
    takeout-percent: 84
    shots-total: 224
    shots-percent: 85
+vs:
+ - Adams, Kevin
+ - Bartlett, Don
+ - Bentley, Dan
+ - Bentley, Darren
+ - Boland, John
+ - Bryant, Doug
+ - Buck, Wyatt
+ - Butler, Mark
+ - Butler, Mike
+ - Campbell, Robert
+ - Carter, Andrew
+ - Corner, Peter
+ - Florence, Malcolm
+ - Gallant, Peter
+ - Grundy, John
+ - Henderson, Scott
+ - Howard, Glenn
+ - Howard, Russ
+ - Iverson, Dave
+ - Kieley, Phil
+ - Lang, Rick
+ - Lappalainen, Art
+ - MacLean, Rob
+ - Martin, Kevin
+ - Mayne, Dave
+ - McCusker, Brian
+ - Middaugh, Wayne
+ - Mitchell, Gary
+ - Odishaw, Grant
+ - O'Rourke, Mark
+ - Park, Kevin
+ - Perron, Rick
+ - Petryk, Dan
+ - Reddick, Don
+ - Skanes, Robert
+ - Stokes, Lionel
+ - Stoughton, Jeff
+ - Tetley, Ross
+ - Tresoor, Ken
+ - Tuton, Craig
+ - Van Den Berghe, Garry
+ - Walsh, Jim
+ - Woytowich, Randy
+ - Xidos, George
 ---

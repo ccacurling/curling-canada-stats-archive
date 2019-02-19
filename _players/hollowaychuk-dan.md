@@ -75,4 +75,21 @@ years:
    takeout-percent: 80
    shots-total: 14
    shots-percent: 80
+vs:
+ - Cayouette, Maurice
+ - Desilets, Mike
+ - Gagnon, Steeve
+ - Henderson, Scott
+ - Jakubo, Mike
+ - Lafleur, Daniel
+ - Lappalainen, Art
+ - Lindsay, Tim
+ - Moshenko, Darcy
+ - Ouimet, Luc
+ - Pielak, Rod
+ - Roy, Jean-Sebastien
+ - Solberg, Jonathon
+ - Sosiak, Jim
+ - Toner, Lee
+ - Whitehead, Mark
 ---

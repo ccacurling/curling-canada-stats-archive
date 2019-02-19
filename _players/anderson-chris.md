@@ -23,4 +23,49 @@ years:
    takeout-percent: 60
    shots-total: 204
    shots-percent: 82
+vs:
+ - Case, Peter
+ - Champion, Kevin
+ - Chorostkowski, Brad
+ - Collin, Simon
+ - Crowell, Phil
+ - Fitzner-LeBlanc, Ian
+ - Flaxey, Caleb
+ - Fowler, Rob
+ - Fry, Ryan
+ - Gavin, Martin
+ - Gionest, Francois
+ - Gould, Steve
+ - Grattan, James
+ - Gushue, Brad
+ - Harnden, E.J.
+ - Harnden, Ryan
+ - Hart, Richard
+ - Howard, Glenn
+ - Howard, Steven
+ - Jacobs, Brad
+ - Koe, Jamie
+ - Koe, Kevin
+ - Korab, Jamie
+ - Korte, Bruce
+ - Korte, Roger
+ - Laing, Brent
+ - MacDonald, Blake
+ - MacDonald, Rod
+ - MacLean, Stuart
+ - Markowsky, Rob
+ - McKee, Darrell
+ - Nichols, Mark
+ - O'Rourke, Mark
+ - Park, Kevin
+ - Reid, Serge
+ - Robinson, Andrew
+ - Rycroft, Carter
+ - Savill, Craig
+ - Smith, Kent
+ - Stoughton, Jeff
+ - Thiessen, Nolan
+ - Vaughan, Jason
+ - Villeneuve, Steeve
+ - Whitehead, Kevin
 ---

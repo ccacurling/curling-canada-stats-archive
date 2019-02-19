@@ -23,4 +23,49 @@ years:
    takeout-percent: 68
    shots-total: 209
    shots-percent: 74
+vs:
+ - Aitken, Don
+ - Andrews, Lew
+ - Belyea, Richard
+ - Blanchard, Wade
+ - Carstairs, Kent
+ - Clarke, Gary
+ - Coady, Mike
+ - DeBlonde, Clare
+ - DeBlonde, Garry
+ - Delmage, Al
+ - Folk, Rick
+ - Giles, Roy
+ - Gowsell, Paul
+ - Hackner, Al
+ - Hamilton, Paul
+ - Hamilton, Wayne
+ - Hermann, Gord
+ - Hope, Peter
+ - Houston, Neil
+ - Howard, Russ
+ - Jackson, Glen
+ - James, Colin
+ - Kapicki, Ron
+ - Kennedy, Bruce
+ - Lang, Rick
+ - MacFadyen, Bill
+ - MacFadyen, Ted
+ - MacLeod, Donald
+ - MacPhee, Peter
+ - McLeod, Brian
+ - Merkley, Larry
+ - Mills, Ron
+ - Morris, Earle
+ - Nichol, Bob
+ - Pennell, Don
+ - Rushton, Robert
+ - Stearne, Kelly
+ - Steventon, Lawren
+ - Strain, Bill
+ - Turner, Malcolm
+ - Ursel, Jim
+ - Warren, Winston
+ - Wilson, Jim
+ - Wilson, Tom
 ---

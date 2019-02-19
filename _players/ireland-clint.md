@@ -50,4 +50,57 @@ years:
    takeout-percent: 63
    shots-total: 26
    shots-percent: 69
+vs:
+ - Adam, Gerry
+ - Burtnyk, Kerry
+ - Case, Peter
+ - Champion, Kevin
+ - Cotter, Jim
+ - Crete, Martin
+ - Daneault, Richard
+ - Darragh, Alan
+ - Desrosiers, John
+ - Flaxey, Caleb
+ - Folk, Kevin
+ - Gagnon, Jean
+ - Gallant, Peter
+ - Geall, Sean
+ - Grattan, James
+ - Gushue, Brad
+ - Harnden, E.J.
+ - Harnden, Eric
+ - Harnden, Ryan
+ - Hart, Richard
+ - Hebert, Ben
+ - Howard, Glenn
+ - Josephson, Glenn
+ - Kammerlock, Dan
+ - Kennedy, Marc
+ - Kennedy, Mike
+ - Kingdon, Wade
+ - Laing, Brent
+ - Laycock, Steve
+ - Mackey, Peter
+ - Martin, Kevin
+ - Menard, Jean-Michel
+ - Morris, John
+ - Nadeau, Jeff
+ - Nerpin, Andrew
+ - Nichols, Mark
+ - Noftall, David
+ - O'Rourke, Mark
+ - Palmer, Curt
+ - Rafuse, Brian
+ - Richard, Jeff
+ - Savill, Craig
+ - Sawatsky, Rick
+ - Schille, Chris
+ - Sharp, Jeff
+ - Simmons, Pat
+ - Smith, Garth
+ - St.Louis, David
+ - Sylvain, Eric
+ - Ursel, Bob
+ - Vaughan, Jason
+ - Wood, Brad
 ---

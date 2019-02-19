@@ -23,4 +23,49 @@ years:
    takeout-percent: 68
    shots-total: 186
    shots-percent: 67
+vs:
+ - Adams, Brian
+ - Allan, John
+ - Armstrong, Jim
+ - Bartlett, Don
+ - Biron, Louis
+ - Butler, Ted
+ - Carey, Dan
+ - Coady, Mike
+ - Corner, Peter
+ - Coster, Dave
+ - Cunningham, Geoff
+ - Elkin, Derek
+ - Fitzherbert, Brad
+ - Fowler, Ed
+ - Foy, Sandy
+ - Goss, Glenn
+ - Gudereit, Kerry
+ - Hackner, Al
+ - Harris, Tom
+ - Hebert, Brad
+ - Howard, Glenn
+ - Howard, Russ
+ - Kennedy, Mike
+ - Lafleur, Andre
+ - Lemery, Dan
+ - MacFadyen, Bill
+ - MacFadyen, Ted
+ - Martin, Kevin
+ - Middaugh, Wayne
+ - Monkman, Greg
+ - Moss, Steve
+ - Neufeld, Chris
+ - Novakowski, Bob
+ - Park, Kevin
+ - Perozak, Brian
+ - Peters, Vic
+ - Petryk, Dan
+ - Pineau, Larry
+ - Ravndal, Clayton
+ - Rudd, Don
+ - Sharp, Warren
+ - Thompson, Ron
+ - Van Dine, Steve
+ - Young, Neil
 ---

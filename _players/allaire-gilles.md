@@ -23,4 +23,9 @@ years:
    takeout-percent: 95
    shots-total: 19
    shots-percent: 91
+vs:
+ - Gretzinger, Bert
+ - Mellof, Dave
+ - Ursel, Bob
+ - Whittle, Mark
 ---

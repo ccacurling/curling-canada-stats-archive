@@ -86,6 +86,23 @@ layout: default
 {% endif %}
 </tfoot>
 </table>
+{% if page.vs %}
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+{% assign opponents = page.vs | sort %}
+{% assign slug = page.name-sort | slugify %}
+{% for vs in opponents %}
+{% assign vs_slug = vs | slugify %}
+      <option value="/vs/{% if vs_slug < slug %}{{ vs_slug }}/{{ slug }}{% else %}{{ slug }}/{{ vs_slug }}{% endif %}">{{ vs }}</option>
+{% endfor %}
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+{% endif %}
 {% endif %}
 
 {{ content }}

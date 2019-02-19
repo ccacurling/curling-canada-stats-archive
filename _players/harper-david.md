@@ -50,4 +50,19 @@ years:
    takeout-percent: 100
    shots-total: 24
    shots-percent: 81
+vs:
+ - Borden, Robert
+ - Chorostkowski, Brad
+ - Gallant, Brett
+ - Gushue, Brad
+ - Hunt, Matthew
+ - Koe, Jamie
+ - Nichols, Mark
+ - Sallows, Tom
+ - Schille, Chris
+ - Smith, Greg
+ - Stapleton, Connor
+ - Taylor, Andrew
+ - Walker, Geoff
+ - Withycombe, Ian
 ---

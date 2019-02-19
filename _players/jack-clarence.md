@@ -23,4 +23,9 @@ years:
    takeout-percent: 50
    shots-total: 14
    shots-percent: 77
+vs:
+ - Base, John
+ - Harris, Mike
+ - Loevenmark, Phil
+ - Wall, Trevor
 ---

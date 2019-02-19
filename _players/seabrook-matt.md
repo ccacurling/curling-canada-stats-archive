@@ -23,4 +23,50 @@ years:
    takeout-percent: 74
    shots-total: 206
    shots-percent: 74
+vs:
+ - Bitz, Scott
+ - Case, Peter
+ - Champion, Kevin
+ - Chorostkowski, Brad
+ - Crete, Martin
+ - Dacey, Mark
+ - Fowler, Rob
+ - Fry, Ryan
+ - Gagnon, Jean
+ - Gavin, Martin
+ - Geall, Sean
+ - Gibson, Andrew
+ - Gould, Steve
+ - Granchelli, Kris
+ - Grattan, James
+ - Gushue, Brad
+ - Hart, Richard
+ - Hebert, Ben
+ - Hicke, Dean
+ - Howard, Glenn
+ - Howard, Russ
+ - Howard, Steven
+ - Jordison, Joel
+ - Kennedy, Marc
+ - Koe, Jamie
+ - Korab, Jamie
+ - Laing, Brent
+ - Lohnes, Bruce
+ - MacDonald, Rod
+ - Martin, Kevin
+ - Meek, Terry
+ - Menard, Jean-Michel
+ - Morris, John
+ - Nichols, Mark
+ - Olson, Mark-2
+ - O'Rourke, Mark
+ - Park, Kevin
+ - Pierce, Brent
+ - Recksiedler, Kevin
+ - Robinson, Andrew
+ - Savill, Craig
+ - Schmidt, Aryn
+ - Solberg, Jonathon
+ - Stoughton, Jeff
+ - Sylvain, Eric
 ---

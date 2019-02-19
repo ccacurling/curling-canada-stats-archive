@@ -23,4 +23,49 @@ years:
    takeout-percent: 76
    shots-total: 211
    shots-percent: 73
+vs:
+ - Alexander, Scott
+ - Alexander, Trevor
+ - Biron, Louis
+ - Buck, Wyatt
+ - Butler, Mark
+ - Campbell, Robert
+ - Carey, Dan
+ - Charette, Pierre
+ - Corner, Peter
+ - Coster, Dave
+ - Ferster, Greg
+ - Fitzherbert, Brad
+ - Folk, Rick
+ - Gallant, Peter
+ - Gretzinger, Bert
+ - Grundy, John
+ - Henderson, Scott
+ - Hipkin, Rich
+ - Howard, Glenn
+ - Howard, Russ
+ - Kennedy, Mike
+ - Kijewski, Kelly
+ - Lang, Rick
+ - Lappalainen, Art
+ - LeCocq, Marc
+ - Lemery, Dan
+ - McCusker, Brian
+ - Middaugh, Wayne
+ - Moss, Steve
+ - Neufeld, Chris
+ - Oke, Gary
+ - O'Rourke, Mark
+ - Peters, Vic
+ - Richard, Gerry
+ - Robertson, Richard
+ - Rowe, Gary
+ - Rudd, Don
+ - Ryan, Don
+ - Ryan, Pat
+ - Schiewe, Calvin
+ - Tetley, Ross
+ - Thomas, Rob
+ - Westphal, Don
+ - Woytowich, Randy
 ---

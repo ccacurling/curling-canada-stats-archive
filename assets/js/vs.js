@@ -24,6 +24,11 @@ require(['jquery'], function() {
       });
       updateVs();
     });
+
+    $('#vs-select').submit(function(e) {
+      e.preventDefault();
+      window.location.href = $('#vs-select select').val();
+    });
   });
 });
 

@@ -37,4 +37,9 @@ years:
    takeout-percent: 89
    shots-total: 18
    shots-percent: 78
+vs:
+ - Kofoed, Lonnie
+ - McGowan, Nolin
+ - Power, Humphrey
+ - Stuart, Darol
 ---

@@ -23,4 +23,9 @@ years:
    takeout-percent: 52
    shots-total: 20
    shots-percent: 64
+vs:
+ - Gardiner, Don
+ - Krupski, Gary
+ - Krupski, Mark
+ - Krupski, Ray
 ---

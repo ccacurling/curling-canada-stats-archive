@@ -23,4 +23,9 @@ years:
    takeout-percent: 60
    shots-total: 22
    shots-percent: 82
+vs:
+ - Buck, Wyatt
+ - Grundy, John
+ - McCusker, Brian
+ - Woytowich, Randy
 ---

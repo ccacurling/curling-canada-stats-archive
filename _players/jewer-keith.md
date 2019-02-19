@@ -23,4 +23,45 @@ years:
    takeout-percent: 76
    shots-total: 186
    shots-percent: 84
+vs:
+ - Burnett, Steve
+ - Chorostkowski, Brad
+ - Dacey, Mark
+ - Elmaleh, Maxime
+ - Gibson, Andrew
+ - Gordon, Robbie
+ - Gould, Steve
+ - Graber, Dennis
+ - Grattan, James
+ - Haichert, Chris
+ - Harris, Rob
+ - Hart, Richard
+ - Hebert, Ben
+ - Howard, Glenn
+ - Johnson, Bill
+ - Johnson, Mark
+ - Koe, Jamie
+ - Lacey, Jeff
+ - Laing, Brent
+ - Landry, Jeremy
+ - Lohnes, Bruce
+ - MacInnes, David
+ - Martin, Kevin
+ - Mead, Jonathan
+ - Menard, Jean-Michel
+ - Nelson, Randy
+ - Roberge, Francois
+ - Rycroft, Carter
+ - Savill, Craig
+ - Sharp, Jeff
+ - Simmons, Pat
+ - Stoughton, Jeff
+ - Sylvain, Eric
+ - Tallon, Wayne
+ - Van Den Berghe, Garry
+ - Vaughan, Jason
+ - Walchuk, Don
+ - Whitehead, Kevin
+ - Whitehead, Mark
+ - Windsor, Brian
 ---

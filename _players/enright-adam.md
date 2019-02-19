@@ -23,4 +23,9 @@ years:
    takeout-percent:
    shots-total: 4
    shots-percent: 100
+vs:
+ - Champion, Kevin
+ - Desrosiers, John
+ - Gallant, Peter
+ - O'Rourke, Mark
 ---

@@ -23,4 +23,9 @@ years:
    takeout-percent: 65
    shots-total: 20
    shots-percent: 60
+vs:
+ - MacDonald, Frank
+ - MacFadyen, Dave
+ - MacFadyen, Neil
+ - Sheridan, Aidan
 ---

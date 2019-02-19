@@ -23,4 +23,38 @@ years:
    takeout-percent: 72
    shots-total: 138
    shots-percent: 81
+vs:
+ - Asselin, Felix
+ - Camm, Mathew
+ - Carruthers, Reid
+ - Case, Peter
+ - Dion, William
+ - Dunstone, Matthew
+ - Epping, John
+ - Fournier, Mike
+ - Fry, Ryan
+ - Grattan, James
+ - Harnden, E.J.
+ - Harnden, Ryan
+ - Hodgson, Colin
+ - Horgan, Tanner
+ - Hunt, Matthew
+ - Jacobs, Brad
+ - Janssen, Patrick
+ - Jeffrey, Chris
+ - Kingdon, Wade
+ - Laycock, Steve
+ - Mackey, Peter
+ - March, Tim
+ - McCann, Andy
+ - Moskowy, Braeden
+ - Muyres, Dallan
+ - Muyres, Kirk
+ - Nadeau, Jeff
+ - Samagalski, Derek
+ - Smith, Greg
+ - St.Louis, David
+ - Taylor, Andrew
+ - Trepanier, Jean-Francois
+ - Withycombe, Ian
 ---

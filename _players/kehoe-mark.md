@@ -37,4 +37,49 @@ years:
    event: Brier
    team: "NS"
    position: Alternate
+vs:
+ - Adam, Gerry
+ - Atchison, Chris
+ - Berthelot, Marco
+ - Campbell, Robert
+ - Champion, Kevin
+ - Charette, Pierre
+ - Chorostkowski, Brad
+ - Dobson, Paul
+ - Ferland, Martin
+ - Fowler, Rob
+ - Fraser, Pierre
+ - Fry, Ryan
+ - Gallant, Peter
+ - Gould, Steve
+ - Gushue, Brad
+ - Harnden, Al
+ - Hart, Richard
+ - Hebert, Ben
+ - Howard, Glenn
+ - Jacobs, Brad
+ - Jakomait, Dusty
+ - Joanisse, Dean
+ - Jones, Scott
+ - Kennedy, Marc
+ - Koe, Jamie
+ - Korab, Jamie
+ - Laing, Brent
+ - Laycock, Steve
+ - Lemay, Philippe
+ - Martin, Kevin
+ - Morris, John
+ - Nantes, Dave
+ - Nichols, Mark
+ - O'Rourke, Mark
+ - Porter, Ryan
+ - Savill, Craig
+ - Schille, Chris
+ - Sharp, Jeff
+ - Simmons, Pat
+ - Stoughton, Jeff
+ - Toner, Lee
+ - Whitehead, Kevin
+ - Whitehead, Mark
+ - Wood, Mike
 ---

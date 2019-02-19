@@ -50,4 +50,53 @@ years:
    takeout-percent:
    shots-total: 8
    shots-percent: 81
+vs:
+ - Adams, Jim
+ - Adams, Steve
+ - Alexander, Trevor
+ - Brophy, Marc
+ - Collins, Gerry
+ - Dabrowski, Don
+ - Ferbey, Randy
+ - Ferraro, Marco
+ - Franklin, Graeme
+ - Gallant, Roger
+ - Gallivan, Greg
+ - Gawel, Pete
+ - Gemmell, Dean
+ - Hackner, Al
+ - Haichert, Chris
+ - Hakansson, Thomas
+ - Harrison, Neil
+ - Hebert, Ben
+ - Hillson, Glen
+ - Hritzuk, Eugene
+ - Lang, Rick
+ - MacDonald, Frank
+ - MacFadyen, Dave
+ - MacFadyen, Neil
+ - MacLean, Stuart
+ - McCarrel, Graeme
+ - McDonald, Ward
+ - McKenzie, Donald
+ - Oke, Gary
+ - Ravndal, Clayton
+ - Robertson, Brad
+ - Robertson, Richard
+ - Robinson, Bill
+ - Robinson, Rob
+ - Ryan, Pat
+ - Savage, Paul
+ - Sharp, Jeff
+ - Shaughnessy, Del
+ - Sheridan, Aidan
+ - Simmons, Pat
+ - Smith, Doug-1
+ - Soparlo, Murray
+ - Steventon, Lawren
+ - Thomas, Ken
+ - Thompson, Ron
+ - Walchuk, Don
+ - Wallace, Dave
+ - Werenich, Ed
 ---

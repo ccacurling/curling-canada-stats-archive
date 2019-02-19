@@ -37,4 +37,49 @@ years:
    event: Brier
    team: "SK"
    position: Alternate
+vs:
+ - Aitken, Don
+ - Andrews, Lew
+ - Belyea, Richard
+ - Blanchard, Wade
+ - Carstairs, Kent
+ - Clarke, Gary
+ - Coady, Mike
+ - DeBlonde, Clare
+ - DeBlonde, Garry
+ - Delmage, Al
+ - Giles, Roy
+ - Goulden, Lowell
+ - Gowsell, Paul
+ - Hackner, Al
+ - Hamilton, Paul
+ - Hamilton, Wayne
+ - Hermann, Gord
+ - Hope, Peter
+ - Horrigan, Kelly
+ - Horrigan, Tim
+ - Houston, Neil
+ - Howard, Russ
+ - Jackson, Glen
+ - James, Colin
+ - Kapicki, Ron
+ - Kennedy, Bruce
+ - Lang, Rick
+ - MacFadyen, Bill
+ - MacFadyen, Ted
+ - MacLeod, Donald
+ - MacPhee, Peter
+ - McLeod, Brian
+ - Merkley, Larry
+ - Morris, Earle
+ - Nichol, Bob
+ - Pennell, Don
+ - Rushton, Robert
+ - Smith, David
+ - Stearne, Kelly
+ - Steventon, Lawren
+ - Strain, Bill
+ - Turner, Malcolm
+ - Ursel, Jim
+ - Warren, Winston
 ---

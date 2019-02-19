@@ -56,4 +56,13 @@ years:
    takeout-percent:
    shots-total: 6
    shots-percent: 79
+vs:
+ - Bottchar, Brendan
+ - Geall, Sean
+ - Harper, David
+ - Martin, Karrick
+ - Moulding, Darren
+ - Nerpin, Andrew
+ - Richard, Jeff
+ - Thiessen, Brad
 ---

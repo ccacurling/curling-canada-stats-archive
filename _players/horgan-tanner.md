@@ -56,4 +56,30 @@ years:
    takeout-percent: 92
    shots-total: 63
    shots-percent: 92
+vs:
+ - Barry, Josh
+ - Bottchar, Brendan
+ - Case, Peter
+ - Dunstone, Matthew
+ - Gallant, Brett
+ - Gallant, Chris
+ - Grattan, James
+ - Gushue, Brad
+ - Jeffrey, Chris
+ - King, Brian
+ - Kingdon, Wade
+ - Laycock, Steve
+ - Ledgerwood, Sean
+ - MacKenzie, Eddie
+ - Mackey, Peter
+ - Martin, Karrick
+ - McCann, Andy
+ - Moulding, Darren
+ - Muyres, Dallan
+ - Muyres, Kirk
+ - Nadeau, Jeff
+ - Nichols, Mark
+ - St.Louis, David
+ - Thiessen, Brad
+ - Walker, Geoff
 ---

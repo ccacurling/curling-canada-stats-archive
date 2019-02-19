@@ -56,4 +56,15 @@ years:
    takeout-percent:
    shots-total: 6
    shots-percent: 33
+vs:
+ - Bice, Steve
+ - Flaxey, Caleb
+ - Harnden, E.J.
+ - Harnden, Ryan
+ - Hart, Richard
+ - Howard, Glenn
+ - Jacobs, Brad
+ - Laing, Brent
+ - Savill, Craig
+ - Thomas, Rob
 ---

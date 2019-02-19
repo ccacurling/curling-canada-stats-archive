@@ -50,4 +50,54 @@ years:
    takeout-percent:
    shots-total: 2
    shots-percent: 75
+vs:
+ - Adams, Kevin
+ - Alexander, Trevor
+ - Allan, John
+ - Balderson, Dennis
+ - Bradley, Mike
+ - Breckenridge, Harold
+ - Burgess, Craig
+ - Caputo, Frank
+ - Coady, Mike
+ - Cunningham, Geoff
+ - Darragh, Alan
+ - Edwards, Duane
+ - Edwards, Jack
+ - Erickson, Stu
+ - Evoy, Rich
+ - Foy, Sandy
+ - Fulkerth, Ron
+ - Goss, Glenn
+ - Graham, Ross
+ - Harnden, Al
+ - Harnden, Eric
+ - Hart, Richard
+ - Howard, Glenn
+ - Howard, Scott
+ - Johnston, Steve
+ - Kawaja, John
+ - Lepine, Craig
+ - MacFadyen, Bill
+ - MacFadyen, Ted
+ - MacLean, Rob
+ - MacPhee, Peter
+ - Mathers, David
+ - McEachran, Glen
+ - McMechan, Kelly
+ - Perroud, Pat
+ - Power, Paul
+ - Ravndal, Clayton
+ - Reddick, Don
+ - Robertson, Brad
+ - Robertson, Richard
+ - Spencer, Adam
+ - Sullivan, Charles Jr
+ - Sullivan, Jim
+ - Tetley, Ian
+ - Turner, Malcolm
+ - Wallace, Dave
+ - Werenich, Ed
+ - Williams, Don
+ - Young, Neil
 ---

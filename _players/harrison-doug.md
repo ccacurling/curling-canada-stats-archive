@@ -23,4 +23,9 @@ years:
    takeout-percent: 45
    shots-total: 12
    shots-percent: 77
+vs:
+ - Burnett, Steve
+ - Fawcett, Brian
+ - Gordon, Robbie
+ - Landry, Jeremy
 ---

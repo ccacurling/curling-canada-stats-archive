@@ -23,4 +23,49 @@ years:
    takeout-percent: 79
    shots-total: 200
    shots-percent: 80
+vs:
+ - Adams, Kevin
+ - Belcourt, Tim
+ - Bernard, Mel
+ - Blanchard, Wade
+ - Bothamley, Doug
+ - Bourque, Don
+ - Campbell, Bill Jr
+ - Carstairs, Kent
+ - Durant, Fred
+ - Eden, Brian
+ - Edl, Don
+ - Ferguson, John
+ - Fizzard, Blake
+ - Hamelmann, Chris
+ - Henry, Terry
+ - Hess, Gordon
+ - Houston, Neil
+ - Howard, Glenn
+ - Howard, Russ
+ - Kuroyama, Robert
+ - LaRocque, Guy
+ - Lukowich, Ed
+ - MacDonald, Doug
+ - MacKinnon, Norbert
+ - MacWilliams, John
+ - McPhee, Barry
+ - Menard, Gerry
+ - Muyres, Craig
+ - Muyres, Garth
+ - Muyres, Lyle
+ - Muyres, Warren
+ - Oliver, Bill
+ - Reddick, Don
+ - Riley, Mike
+ - Schleppe, Dave
+ - Schoenne, Klaus
+ - Somers, Grant
+ - Sweete, Don
+ - Syme, Brent
+ - Toews, Brian
+ - Turner, Malcolm
+ - Warren, Dave
+ - Wilson, Michael
+ - Wookey, Russ
 ---

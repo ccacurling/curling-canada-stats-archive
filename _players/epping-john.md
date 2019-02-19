@@ -23,4 +23,50 @@ years:
    takeout-percent: 87
    shots-total: 245
    shots-percent: 86
+vs:
+ - Asselin, Felix
+ - Barry, Josh
+ - Bottchar, Brendan
+ - Carruthers, Reid
+ - Case, Peter
+ - Crowell, Phil
+ - Dion, William
+ - Dunstone, Matthew
+ - Flemming, Paul
+ - Fournier, Mike
+ - Fry, Ryan
+ - Gallant, Brett
+ - Gallant, Chris
+ - Grattan, James
+ - Gushue, Brad
+ - Harnden, E.J.
+ - Harnden, Ryan
+ - Hodgson, Colin
+ - Jacobs, Brad
+ - Jeffrey, Chris
+ - Kingdon, Wade
+ - Laycock, Steve
+ - Ledgerwood, Sean
+ - MacKenzie, Eddie
+ - Mackey, Peter
+ - Martin, Karrick
+ - McCann, Andy
+ - McEwen, Mike
+ - Moskowy, Braeden
+ - Moulding, Darren
+ - Murphy, Jamie
+ - Muyres, Dallan
+ - Muyres, Kirk
+ - Nadeau, Jeff
+ - Neufeld, B.J.
+ - Neufeld, Denni
+ - Nichols, Mark
+ - Saccary, Scott
+ - Samagalski, Derek
+ - St.Louis, David
+ - Thiessen, Brad
+ - Trepanier, Jean-Francois
+ - Walker, Geoff
+ - Wozniak, Matt
+ - Younker, Robbie
 ---

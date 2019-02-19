@@ -23,4 +23,50 @@ years:
    takeout-percent: 84
    shots-total: 260
    shots-percent: 85
+vs:
+ - Armstrong, Mike
+ - Bardsley, Mike
+ - Borden, Robert
+ - Casey, Adam
+ - Chorostkowski, Brad
+ - Clarey, Sean
+ - Cotter, Jim
+ - deConinck-Smith, Carl
+ - Deis, Ryan
+ - Desjardins, Robert
+ - Folk, Kevin
+ - Fry, Ryan
+ - Gaudet, Mike
+ - Griffith, Ty
+ - Gushue, Brad
+ - Harnden, E.J.
+ - Harnden, Ryan
+ - Harris, Tyler
+ - Howard, Glenn
+ - Jacobs, Brad
+ - Jones, Scott
+ - Koe, Jamie
+ - Koe, Kevin
+ - Laing, Brent
+ - Lang, Tyler
+ - MacKenzie, Tyler
+ - Manners, Scott
+ - McCann, Andy
+ - McDermaid, Donald
+ - Middaugh, Wayne
+ - Munroe, Steven
+ - Murphy, Jamie
+ - Naugler, Tom
+ - Odishaw, Grant
+ - Odishaw, Terry
+ - Pinder, Jordan
+ - Roy, Jean-Sebastien
+ - Rycroft, Carter
+ - Savill, Craig
+ - Sawatsky, Rick
+ - Seabrook, Scott
+ - Simmons, Pat
+ - Thiessen, Nolan
+ - Villeneuve, Steeve
+ - Walker, Geoff
 ---

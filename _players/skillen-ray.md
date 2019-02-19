@@ -23,4 +23,9 @@ years:
    takeout-percent: 93
    shots-total: 19
    shots-percent: 92
+vs:
+ - Fulton, Chris
+ - Hennigar, Ted
+ - Hilliard, Greg
+ - Rastelli, Max
 ---

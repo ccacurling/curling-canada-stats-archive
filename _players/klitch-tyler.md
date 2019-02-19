@@ -23,4 +23,9 @@ years:
    takeout-percent:
    shots-total: 4
    shots-percent: 25
+vs:
+ - Hebert, Ben
+ - Kennedy, Marc
+ - Martin, Kevin
+ - Morris, John
 ---

@@ -23,4 +23,10 @@ years:
    takeout-percent:
    shots-total: 2
    shots-percent: 100
+vs:
+ - Carmody, Anson
+ - Casey, Adam
+ - Doherty, Robert
+ - Giddens, Ryan
+ - Mathers, David
 ---

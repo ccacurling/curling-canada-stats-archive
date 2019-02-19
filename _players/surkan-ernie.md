@@ -23,4 +23,9 @@ years:
    takeout-percent:
    shots-total: 2
    shots-percent: 50
+vs:
+ - Charette, Pierre
+ - Hemmings, Guy
+ - Ness, Dale
+ - Thibaudeau, Guy
 ---

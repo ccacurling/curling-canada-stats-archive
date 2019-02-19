@@ -23,4 +23,9 @@ years:
    takeout-percent:
    shots-total: 4
    shots-percent: 94
+vs:
+ - Champion, Kevin
+ - MacDonald, Rod
+ - O'Rourke, Mark
+ - Robinson, Andrew
 ---

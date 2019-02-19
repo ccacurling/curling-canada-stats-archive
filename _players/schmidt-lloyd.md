@@ -23,4 +23,49 @@ years:
    takeout-percent: 83
    shots-total: 208
    shots-percent: 79
+vs:
+ - Adams, Bill
+ - Adams, Jim
+ - Armstrong, Mark
+ - Belcourt, Tim
+ - Bisson, Richard
+ - Brophy, Marc
+ - Butler, Ted
+ - Carstairs, Kent
+ - Charette, Pierre
+ - Delmage, Al
+ - Dobson, Brian
+ - Ferbey, Randy
+ - Folk, Rick
+ - Giles, Roy
+ - Gretzinger, Bert
+ - Hackner, Al
+ - Henderson, Lorne
+ - Hollett, Peter
+ - Howard, Glenn
+ - Howard, Russ
+ - Hyrich, John
+ - Kamp, Ragnar
+ - Koffski, Rob
+ - Lafleur, Andre
+ - Lohnes, Bruce
+ - McCarron, Rod
+ - McKenzie, Donald
+ - Meleschuk, Orest
+ - Meleschuk, Sean
+ - Mitchell, Gary
+ - Neily, Peter
+ - Roach, Terry
+ - Robertson, Brad
+ - Rodd, Roy
+ - Ryan, Pat
+ - Salo, John
+ - Smith, Alex
+ - Smith, Doug-2
+ - Strain, Bill
+ - Usackis, John
+ - Walchuk, Don
+ - Weeks, Blair
+ - Weeks, David
+ - Weeks, Doug
 ---

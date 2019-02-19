@@ -23,4 +23,9 @@ years:
    takeout-percent: 68
    shots-total: 20
    shots-percent: 65
+vs:
+ - Josephson, Glenn
+ - Palmer, Curt
+ - Rafuse, Brian
+ - Slauenwhite, David
 ---

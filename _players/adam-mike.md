@@ -41,4 +41,9 @@ years:
    takeout-percent: 100
    shots-total: 4
    shots-percent: 56
+vs:
+ - Blanchard, Wade
+ - Dobson, Mark
+ - Dobson, Paul
+ - Porter, Geoff
 ---

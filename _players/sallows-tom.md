@@ -100,4 +100,23 @@ years:
    takeout-percent: 38
    shots-total: 4
    shots-percent: 44
+vs:
+ - Appelman, Tom
+ - Fecteau, Steve
+ - Flasch, Colton
+ - Geall, Sean
+ - Harper, David
+ - Hart, Richard
+ - Howard, Glenn
+ - Howard, Scott
+ - Laycock, Steve
+ - Muyres, Dallan
+ - Muyres, Kirk
+ - Nerpin, Andrew
+ - Richard, Jeff
+ - Savill, Craig
+ - Scoffin, Thomas
+ - Scoffin, Wade
+ - Spencer, Adam
+ - Wood, Brad
 ---

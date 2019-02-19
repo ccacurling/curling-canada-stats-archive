@@ -56,4 +56,13 @@ years:
    takeout-percent: 78
    shots-total: 40
    shots-percent: 73
+vs:
+ - Abel, Clinton
+ - Andrews, Robert
+ - Feldman, Alfred
+ - Johnston, Steve
+ - Lewis, Wayne
+ - O'Leary, Alan
+ - Piggott, Steve
+ - Walsh, Jim
 ---

@@ -23,4 +23,13 @@ years:
    takeout-percent: 79
    shots-total: 38
    shots-percent: 88
+vs:
+ - Bryant, Doug
+ - Cowan, Chad
+ - Elmaleh, Maxime
+ - Gagnon, Jean
+ - Milward, Ross
+ - Nolan, Jason
+ - Roberge, Francois
+ - Sylvain, Eric
 ---

@@ -10,4 +10,5 @@ years:
    event: Brier
    team: "QC"
    position: Alternate
+vs:
 ---

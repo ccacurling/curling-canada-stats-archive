@@ -23,4 +23,14 @@ years:
    takeout-percent: 63
    shots-total: 8
    shots-percent: 81
+vs:
+ - Bitz, Scott
+ - Hicke, Dean
+ - Jakubo, Mike
+ - Jordison, Joel
+ - Ouimet, Luc
+ - Schmidt, Aryn
+ - Seabrook, Matt
+ - Seabrook, Scott
+ - Toner, Lee
 ---

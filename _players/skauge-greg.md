@@ -67,4 +67,20 @@ years:
    takeout-percent:
    shots-total: 2
    shots-percent: 100
+vs:
+ - Asmussen, Evan Scott
+ - Bottchar, Brendan
+ - Casey, Adam
+ - Gallant, Brett
+ - Gushue, Brad
+ - Koe, Kevin
+ - Korab, Jamie
+ - MacDonald, Blake
+ - Martin, Karrick
+ - Moulding, Darren
+ - Rycroft, Carter
+ - Simmons, Pat
+ - Thiessen, Brad
+ - Thiessen, Nolan
+ - Walker, Geoff
 ---

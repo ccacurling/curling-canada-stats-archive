@@ -14,4 +14,5 @@ years:
    event: Brier
    team: "TR"
    position: Alternate
+vs:
 ---

@@ -23,4 +23,13 @@ years:
    takeout-percent: 75
    shots-total: 33
    shots-percent: 89
+vs:
+ - Adams, Shawn
+ - Flemming, Paul
+ - Gibson, Andrew
+ - Harnden, E.J.
+ - Harnden, Ryan
+ - Jacobs, Brad
+ - Mittelstadt, Kelly
+ - Seabrook, Scott
 ---

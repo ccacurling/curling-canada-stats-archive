@@ -23,4 +23,50 @@ years:
    takeout-percent: 79
    shots-total: 181
    shots-percent: 69
+vs:
+ - Arsenault, Craig
+ - Base, John
+ - Burnett, Steve
+ - Cayouette, Maurice
+ - Dacey, Mark
+ - Dieno, Clint
+ - Fawcett, Brian
+ - Fenton, Brad
+ - Ferbey, Randy
+ - Gagnon, Steeve
+ - Gaudet, Mike
+ - Gibson, Andrew
+ - Golanowski, Rory
+ - Gordon, Robbie
+ - Grattan, James
+ - Gushue, Brad
+ - Harris, Mike
+ - Harris, Rob
+ - Howard, Russ
+ - Hunt, Bruce
+ - Korab, Jamie
+ - Korte, Bruce
+ - Korte, Roger
+ - Lafleur, Daniel
+ - Landry, Jeremy
+ - LeCocq, Marc
+ - Ledgerwood, Sean
+ - Leech, Ron
+ - Loevenmark, Phil
+ - Lohnes, Bruce
+ - Molloy, Pat
+ - Moss, Steve
+ - Nedohin, David
+ - Nichols, Mark
+ - Odishaw, Grant
+ - Peachy, Jay
+ - Pfeifer, Scott
+ - Recksiedler, Kevin
+ - Rocque, Marcel
+ - Roy, Jean-Sebastien
+ - Sullivan, Evan
+ - Sumner, Kevin
+ - Wall, Trevor
+ - Ward, Mark
+ - Wasnea, Brian
 ---

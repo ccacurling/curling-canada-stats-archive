@@ -45,4 +45,9 @@ years:
    event: Brier
    team: "PE"
    position: Alternate
+vs:
+ - Ellis, Ken
+ - Henderson, Lorne
+ - Kerr, Ian
+ - Thomas, Jeff
 ---

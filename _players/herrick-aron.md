@@ -56,4 +56,13 @@ years:
    takeout-percent: 81
    shots-total: 14
    shots-percent: 82
+vs:
+ - Bartlett, Don
+ - Haichert, Chris
+ - Hebert, Ben
+ - Martin, Kevin
+ - Rycroft, Carter
+ - Sharp, Jeff
+ - Simmons, Pat
+ - Walchuk, Don
 ---

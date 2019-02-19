@@ -23,4 +23,10 @@ years:
    takeout-percent:
    shots-total: 2
    shots-percent: 75
+vs:
+ - Clarey, Sean
+ - Gaudet, Mike
+ - Harris, Tyler
+ - MacKenzie, Tyler
+ - Robinson, Andrew
 ---

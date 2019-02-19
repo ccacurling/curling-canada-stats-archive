@@ -50,4 +50,61 @@ years:
    takeout-percent: 87
    shots-total: 206
    shots-percent: 84
+vs:
+ - Barry, Josh
+ - Bezanson, Jared
+ - Borden, Robert
+ - Brannen, Jamie
+ - Camm, Mathew
+ - Carmody, Anson
+ - Carruthers, Reid
+ - Casey, Adam
+ - Chorostkowski, Brad
+ - Crete, Martin
+ - Doherty, Robert
+ - Eldridge, Zach
+ - Flasch, Colton
+ - Fry, Ryan
+ - Gallant, Brett
+ - Gushue, Brad
+ - Harnden, E.J.
+ - Harnden, Ryan
+ - Hart, Richard
+ - Hebert, Ben
+ - Hodgson, Colin
+ - Howard, Glenn
+ - Howard, Scott
+ - Jacobs, Brad
+ - Jeffrey, Chris
+ - Jones, Scott
+ - Kean, Mark
+ - Kennedy, Marc
+ - Kennedy, Mike
+ - Koe, Jamie
+ - Koe, Kevin
+ - Laing, Brent
+ - Laycock, Steve
+ - LeCocq, Marc
+ - Mallais, Jeremy
+ - Mathers, David
+ - McEwen, Mike
+ - Menard, Jean-Michel
+ - Menard, Philippe
+ - Morris, John
+ - Moskowy, Braeden
+ - Muyres, Dallan
+ - Muyres, Kirk
+ - Neufeld, B.J.
+ - Neufeld, Denni
+ - Nichols, Mark
+ - Rycroft, Carter
+ - Samagalski, Derek
+ - Schille, Chris
+ - Simmons, Pat
+ - Spencer, Adam
+ - Sylvain, Eric
+ - Thiessen, Nolan
+ - Walker, Geoff
+ - Whitehead, Mark
+ - Wozniak, Matt
 ---

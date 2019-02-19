@@ -58,4 +58,53 @@ years:
    event: Brier
    team: "PE"
    position: Alternate
+vs:
+ - Adams, Bill
+ - Adams, Jim
+ - Adams, Steve
+ - Alexander, Trevor
+ - Armstrong, Jim
+ - Brophy, Marc
+ - Burtnyk, Kerry
+ - Collins, Gerry
+ - Dabrowski, Don
+ - Ferbey, Randy
+ - Ferraro, Marco
+ - Franklin, Graeme
+ - Gallant, Roger
+ - Gallivan, Greg
+ - Gawel, Pete
+ - Gemmell, Dean
+ - Hackner, Al
+ - Hakansson, Thomas
+ - Harrison, Neil
+ - Harvey, Don
+ - Hillson, Glen
+ - Hritzuk, Eugene
+ - Kammerlock, Ron
+ - Lang, Rick
+ - MacLean, Stuart
+ - McCarrel, Graeme
+ - McDonald, Ward
+ - McKenzie, Donald
+ - Moss, John
+ - Oke, Gary
+ - Ravndal, Clayton
+ - Robertson, Brad
+ - Robinson, Bill
+ - Robinson, Rob
+ - Ryan, Pat
+ - Savage, Paul
+ - Sexton, Jamie
+ - Shaughnessy, Del
+ - Soparlo, Murray
+ - Sparkes, Bernie
+ - Spencer, Jim
+ - Steventon, Lawren
+ - Thomas, Ken
+ - Thompson, Ron
+ - Walchuk, Don
+ - Wallace, Dave
+ - Werenich, Ed
+ - Ziola, Monte
 ---

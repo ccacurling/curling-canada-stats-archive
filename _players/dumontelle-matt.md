@@ -50,4 +50,17 @@ years:
    takeout-percent: 0
    shots-total: 1
    shots-percent: 0
+vs:
+ - Adams, Shawn
+ - Bilesky, Andrew
+ - Errington, Derek
+ - Flemming, Paul
+ - Gaudet, Mike
+ - Gibson, Andrew
+ - Kopf, Steve
+ - MacFadyen, Alex
+ - MacKenzie, Eddie
+ - Mittelstadt, Kelly
+ - Newson, Jamie
+ - Watson, Aaron
 ---

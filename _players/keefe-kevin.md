@@ -23,4 +23,49 @@ years:
    takeout-percent: 68
    shots-total: 185
    shots-percent: 76
+vs:
+ - Alexander, Scott
+ - Alexander, Trevor
+ - Armstrong, Doug
+ - Bailey, Scott
+ - Charette, Pierre
+ - Chugg, Brad
+ - Dauphinee, Andrew
+ - Despins, Glen
+ - Duguid, Dale
+ - Fenton, Darin
+ - Fetterly, Tom
+ - Flemming, Paul
+ - Gardeski, Larry
+ - Hamilton, Wayne
+ - Hemmings, Guy
+ - Kirkness, James
+ - Kushnir, Warren
+ - Landry, Garry
+ - MacLeod, Glen
+ - McAulay, Greg
+ - McCarrel, Graeme
+ - McDonald, Toby
+ - McGregor, Ken
+ - McInnis, Phillip
+ - Melville, Bruce
+ - Middaugh, Wayne
+ - Mihalicz, Dwayne
+ - Miki, Bryan
+ - Mitchell, Garth
+ - Montgomery, Rod
+ - Ness, Dale
+ - Pierce, Brent
+ - Powell, Lloyd
+ - Rathje, Larry
+ - Reed, Tom
+ - Schoenne, Klaus
+ - Sinclair, Rob
+ - Spencer, Jim
+ - Tait, Jeff
+ - Tetley, Ian
+ - Thibaudeau, Guy
+ - Whitehead, Mark
+ - Wiersema, Dale
+ - Withers, Paul
 ---

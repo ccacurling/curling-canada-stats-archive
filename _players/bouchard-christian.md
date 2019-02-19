@@ -23,4 +23,50 @@ years:
    takeout-percent: 81
    shots-total: 206
    shots-percent: 79
+vs:
+ - Adams, Shawn
+ - Carruthers, Reid
+ - Case, Peter
+ - Chorostkowski, Brad
+ - Cotter, Jim
+ - Danbrook, Jamie
+ - Dillon, Mike
+ - Flemming, Paul
+ - Folk, Kevin
+ - Fry, Ryan
+ - Gaudet, Mike
+ - Gavin, Martin
+ - Gibson, Andrew
+ - Gould, Steve
+ - Grattan, James
+ - Gushue, Brad
+ - Harnden, E.J.
+ - Harnden, Ryan
+ - Hart, Richard
+ - Hebert, Ben
+ - Howard, Glenn
+ - Howard, Steven
+ - Jacobs, Brad
+ - Jones, Brennen
+ - Kennedy, Marc
+ - Koe, Jamie
+ - Laing, Brent
+ - Laycock, Steve
+ - MacFadyen, Alex
+ - MacKenzie, Eddie
+ - Martin, Kevin
+ - Maskiewich, Ken
+ - Mead, Jonathan
+ - Millar, Colin
+ - Mittelstadt, Kelly
+ - Morris, John
+ - Muyres, Dallan
+ - Naugler, Tom
+ - Nichols, Mark
+ - Savill, Craig
+ - Sawatsky, Rick
+ - Seabrook, Scott
+ - Simmons, Pat
+ - Stoughton, Jeff
+ - Sullivan, Charles Jr
 ---

@@ -23,4 +23,40 @@ years:
    takeout-percent: 66
    shots-total: 138
    shots-percent: 67
+vs:
+ - Appelman, Tom
+ - Asselin, Emile
+ - Asselin, Felix
+ - Barry, Josh
+ - Camm, Mathew
+ - Carruthers, Reid
+ - Case, Peter
+ - Dion, William
+ - Dunstone, Matthew
+ - Epping, John
+ - Fournier, Mike
+ - Fry, Ryan
+ - Gallant, Chris
+ - Grattan, James
+ - Harnden, E.J.
+ - Harnden, Ryan
+ - Hodgson, Colin
+ - Horgan, Tanner
+ - Ireland, Clint
+ - Jacobs, Brad
+ - Janssen, Patrick
+ - Jeffrey, Chris
+ - Laycock, Steve
+ - Ledgerwood, Sean
+ - MacKenzie, Eddie
+ - March, Tim
+ - McCann, Andy
+ - Moskowy, Braeden
+ - Muyres, Dallan
+ - Muyres, Kirk
+ - Samagalski, Derek
+ - Scoffin, Thomas
+ - Scoffin, Wade
+ - Trepanier, Jean-Francois
+ - Younker, Robbie
 ---

@@ -37,4 +37,49 @@ years:
    event: Brier
    team: "BC"
    position: Alternate
+vs:
+ - Alexander, Scott
+ - Alexander, Trevor
+ - Armstrong, Doug
+ - Bailey, Scott
+ - Charette, Pierre
+ - Chorostkowski, Brad
+ - Chugg, Brad
+ - Dauphinee, Andrew
+ - Despins, Glen
+ - Dobson, Mark
+ - Duguid, Dale
+ - Fetterly, Tom
+ - Flemming, Paul
+ - Gardeski, Larry
+ - Hamilton, Wayne
+ - Hemmings, Guy
+ - Keefe, Kevin
+ - Kirkness, James
+ - Kushnir, Warren
+ - Landry, Garry
+ - MacLeod, Glen
+ - McCarrel, Graeme
+ - McDonald, Toby
+ - McGregor, Ken
+ - McInnis, Phillip
+ - Melville, Bruce
+ - Middaugh, Wayne
+ - Mihalicz, Dwayne
+ - Mitchell, Garth
+ - Montgomery, Rod
+ - Ness, Dale
+ - Odishaw, Terry
+ - Powell, Lloyd
+ - Rathje, Larry
+ - Reed, Tom
+ - Schoenne, Klaus
+ - Sinclair, Rob
+ - Spencer, Jim
+ - Sullivan, Tommy
+ - Tait, Jeff
+ - Tetley, Ian
+ - Thibaudeau, Guy
+ - Wiersema, Dale
+ - Withers, Paul
 ---
