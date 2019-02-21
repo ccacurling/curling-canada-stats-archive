@@ -20,7 +20,7 @@ layout: default
 {% else %}
   <td><a href="../{{ year.event | downcase }}/{{ year.year }}">{{ year.year }}</a></td>
   <td><a href="../{{ year.event | downcase }}">{{ year.event }}</a></td>
-  <td><a href="../{{ year.event | downcase }}/team/{{ year.team | downcase }}">{{ year.team }}</a></td>
+  <td data-order="{{ year.team }}"><a href="../{{ year.event | downcase }}/team/{{ year.team | downcase }}">{{ year.team }}</a></td>
 {% endif %}
   <td data-order="
 {% if year.position == "Fourth" %}0
