@@ -120,7 +120,7 @@ years:
    shots-percent: 79
  - year: 2013
    event: Brier
-   team: "NT"
+   team: "TR"
    position: Fourth
    games: 11
    wins: 5

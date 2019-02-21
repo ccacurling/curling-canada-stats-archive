@@ -208,7 +208,7 @@ years:
    shots-percent: 73
  - year: 2013
    event: Hearts
-   team: "NT"
+   team: "TR"
    position: Fourth
    games: 11
    wins: 2

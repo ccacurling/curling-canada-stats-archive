@@ -52,7 +52,7 @@ years:
    shots-percent: 78
  - year: 2013
    event: Hearts
-   team: "NT"
+   team: "TR"
    position: Second
    games: 9
    wins: 1
@@ -69,7 +69,7 @@ years:
    shots-percent: 67
  - year: 2013
    event: Hearts
-   team: "NT"
+   team: "TR"
    position: Third
    games: 2
    wins: 1
