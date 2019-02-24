@@ -24,6 +24,12 @@ require(['lunr'], function(lunr) {
       results.show();
       results.children('a').remove();
       var players = window.idx.search(query);
+
+      // if no results are found, and it's a simple query, try automatically adding a wildcard
+      if(players.length == 0 && /^[a-zA-Z]+$/.test(query)) {
+        query += '*';
+        players = window.idx.search(query);
+      }
       if(players.length > 0) {
         $('#search-results-none').hide();
         players.forEach(function(player) {
