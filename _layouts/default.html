@@ -23,7 +23,11 @@
     <meta name="MobileOptimized" content="320">
     <link rel="icon" href="{{ site.baseurl }}/favicon.png" type="image/png"/>
     <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/favicon.png" />
-    <title>{{ page.title }} - Curling Canada Stats Archive</title>
+    <title>{{ page.title }}
+{% if page.type == 'event-list' %}
+{% assign event_collection = site.collections | where: "label", page.collection | first %}
+ ({{ event_collection.docs.first.year }}-{{ event_collection.docs.last.year }})
+{% endif %} - Curling Canada Stats Archive</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
     <script src="{{ site.baseurl }}/assets/js/require.min.js"></script>
@@ -79,7 +83,7 @@
                     <a href="{{ site.baseurl }}/" class="nav-link"><i class="fe fe-home"></i> Home</a>
                   </li>
                   <li class="nav-item">
-                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2018)</a>
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier ({{ site.brier.first.year }}-{{ site.brier.last.year }})</a>
                     <div class="dropdown-menu dropdown-menu-arrow">
                       <a href="{{ site.baseurl }}/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
                       <a href="{{ site.baseurl }}/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
@@ -87,7 +91,7 @@
                     </div>
                   </li>
                   <li class="nav-item">
-                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2018)</a>
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts ({{ site.hearts.first.year }}-{{ site.hearts.last.year }})</a>
                     <div class="dropdown-menu dropdown-menu-arrow">
                       <a href="{{ site.baseurl }}/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
                       <a href="{{ site.baseurl }}/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
