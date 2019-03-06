@@ -148,7 +148,7 @@ layout: default
     <div class="row flex-row" id="draw-{{ draw.number }}">
       {% for game in draw.games %}
       <div class="col-lg-6">
-      <h3 id="{{ game.name | slugify }}">{{ game.name }}</h3>
+      <h3 id="{{ game.name | slugify }}">{{ game.name }} ({{ game.type }})</h3>
       <table class="table">
         <tr>
           <th></th>
@@ -260,6 +260,7 @@ layout: default
       </div>
       {% endfor %}
     </div>
+    {% if forloop.last == false %}<hr>{% endif %}
     {% endfor %}
   </div>
   <div class="tab-pane fade" id="stats" role="tabpanel" aria-labelledby="stats-tab">
