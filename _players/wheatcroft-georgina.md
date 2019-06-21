@@ -85,7 +85,6 @@ years:
    shots-total: 84
    shots-percent: 77
  - year: 1989
-   event: Hearts
    team: Totals
    games: 13
    wins: 8
@@ -408,6 +407,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Donna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shields, Gail
  - Simons, Renee
  - Smith, Heather
@@ -435,7 +435,6 @@ vs:
  - Tousignant, Helene
  - Treloar, Cathy
  - Tucker, Cindy
- - Turpin, Kelli
  - Udle, Teri
  - Vey, Lana
  - Wall, Kirsten

@@ -272,6 +272,7 @@ vs:
  - Scales, Julie
  - Schikowski, Keri-Lynn
  - Schmirler, Sandra
+ - Sharpe, Kelli
  - Sonnenberg, Renee
  - Spencer, Barb
  - Stokes, Debbie
@@ -286,7 +287,6 @@ vs:
  - Trider, Krista
  - Trowell, Cathy
  - Tucker, Cindy
- - Turpin, Kelli
  - Unrau, Faye
  - Wall, Kirsten
  - Wiltzen, Jan

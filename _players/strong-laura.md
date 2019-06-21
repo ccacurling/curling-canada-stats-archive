@@ -177,7 +177,7 @@ vs:
  - Brothers, Jill
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Rachelle
+ - Brown, Rachel
  - Burgess, Carey
  - Bush, Tracy
  - Cameron, Nancy
@@ -332,6 +332,7 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simmons, Cindy
  - Simons, Renee
  - Sinclair, Andrea
@@ -355,7 +356,6 @@ vs:
  - Thompson, Karla
  - Thurston, Jill
  - Titheridge, Lindsay
- - Turpin, Kelli
  - Udle, Teri
  - Van Osch, Kesa
  - Vey, Lana

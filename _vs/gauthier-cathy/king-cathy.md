@@ -41,7 +41,7 @@ games:
      loss: 1         
    event: Hearts     
    year: 1995        
-   draw: Playoff(23) 
+   draw: Final(23)   
    score: MB 6 - AB 5
  - player1:        
      team: 'MB'    

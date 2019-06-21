@@ -2,13 +2,13 @@
 title: Shona Barbour vs Jennifer Jones
 player1:               
   name: Barbour, Shona 
-  percent: 84          
+  percent: 85          
   wins: 1              
-  losses: 3            
+  losses: 4            
 player2:               
   name: Jones, Jennifer
-  percent: 85          
-  wins: 3              
+  percent: 83          
+  wins: 4              
   losses: 1            
 games:
  - player1:          
@@ -75,4 +75,20 @@ games:
    year: 2018          
    draw: Round Robin(8)
    score: NT 4 - MB 12 
+ - player1:        
+     team: 'NT'    
+     position: Lead
+     percent: 86   
+     win: 0        
+     loss: 1       
+   player2:          
+     team: 'CA'      
+     position: Fourth
+     percent: 78     
+     win: 1          
+     loss: 0         
+   event: Hearts       
+   year: 2019          
+   draw: Round Robin(4)
+   score: NT 4 - CA 7  
 ---

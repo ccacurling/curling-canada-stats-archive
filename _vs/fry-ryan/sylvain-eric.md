@@ -3,13 +3,13 @@ title: Ryan Fry vs Eric Sylvain
 player1:             
   name: Fry, Ryan    
   percent: 91        
-  wins: 5            
+  wins: 6            
   losses: 0          
 player2:             
   name: Sylvain, Eric
-  percent: 83        
+  percent: 81        
   wins: 0            
-  losses: 5          
+  losses: 6          
 games:
  - player1:          
      team: 'NL'      
@@ -91,4 +91,20 @@ games:
    year: 2017          
    draw: Round Robin(4)
    score: QC 8 - NO 9  
+ - player1:         
+     team: 'NO'     
+     position: Third
+     percent: 92    
+     win: 1         
+     loss: 0        
+   player2:          
+     team: 'QC'      
+     position: Second
+     percent: 70     
+     win: 0          
+     loss: 1         
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(5)
+   score: NO 7 - QC 3  
 ---

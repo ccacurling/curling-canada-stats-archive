@@ -3,13 +3,13 @@ title: Ryan Fry vs Rick Sawatsky
 player1:              
   name: Fry, Ryan     
   percent: 89         
-  wins: 4             
+  wins: 5             
   losses: 1           
 player2:              
   name: Sawatsky, Rick
-  percent: 88         
+  percent: 89         
   wins: 1             
-  losses: 4           
+  losses: 5           
 games:
  - player1:          
      team: 'NL'      
@@ -91,4 +91,20 @@ games:
    year: 2017          
    draw: Round Robin(1)
    score: BC 7 - NO 9  
+ - player1:         
+     team: 'NO'     
+     position: Third
+     percent: 86    
+     win: 1         
+     loss: 0        
+   player2:        
+     team: 'BC'    
+     position: Lead
+     percent: 98   
+     win: 0        
+     loss: 1       
+   event: Brier       
+   year: 2019         
+   draw: Pool(15)     
+   score: NO 11 - BC 5
 ---

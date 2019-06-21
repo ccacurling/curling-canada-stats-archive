@@ -56,12 +56,12 @@ vs:
  - Peters, Laine
  - Phillips, Margaret Lea
  - Renouf, Michele
+ - Sharpe, Kelli
  - Skinner, Julie
  - Smith, Heather
  - Stahl, Carrie
  - Stewart, Sheri
  - Strong, Heather
- - Turpin, Kelli
  - Walter, Cathy
  - Wheatcroft, Georgina
  - Whitrow, Leanne

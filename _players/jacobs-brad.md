@@ -2,18 +2,18 @@
 title: Brad Jacobs
 name: Brad Jacobs
 name-sort: Jacobs, Brad
-games: 117
-wins: 78
-losses: 39
-inturn-total: 972
-inturn-percent: 81
-outturn-total: 1201
+games: 130
+wins: 87
+losses: 43
+inturn-total: 1072
+inturn-percent: 82
+outturn-total: 1330
 outturn-percent: 84
-draw-total: 932
-draw-percent: 80
-takeout-total: 1241
-takeout-percent: 84
-shots-total: 2173
+draw-total: 1022
+draw-percent: 81
+takeout-total: 1380
+takeout-percent: 85
+shots-total: 2402
 shots-percent: 83
 years:
  - year: 2007
@@ -68,7 +68,6 @@ years:
    shots-total: 78
    shots-percent: 78
  - year: 2008
-   event: Brier
    team: Totals
    games: 5
    wins: 2
@@ -219,7 +218,25 @@ years:
    takeout-percent: 89
    shots-total: 212
    shots-percent: 85
+ - year: 2019
+   event: Brier
+   team: "NO"
+   position: Fourth
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 100
+   inturn-percent: 86
+   outturn-total: 129
+   outturn-percent: 90
+   draw-total: 90
+   draw-percent: 87
+   takeout-total: 139
+   takeout-percent: 89
+   shots-total: 229
+   shots-percent: 88
 vs:
+ - Abel, Clinton
  - Adam, Gerry
  - Adams, Shawn
  - Anderson, Chris
@@ -230,20 +247,24 @@ vs:
  - Barker, Richard
  - Barry, Josh
  - Berthelot, Marco
+ - Beuk, Jonathan
  - Bezanson, Jared
  - Bilesky, Andrew
+ - Boland, Adam
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Bouchard, Christian
  - Brannen, Jamie
  - Breckon, Graham
  - Bryant, Doug
+ - Burgess, Steve
  - Camm, Mathew
  - Campbell, Robert
  - Carmody, Anson
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
+ - Chadwick, Scott
  - Champion, Kevin
  - Charette, Pierre
  - Chorostkowski, Brad
@@ -269,6 +290,8 @@ vs:
  - Flasch, Colton
  - Flemming, Paul
  - Folk, Kevin
+ - Ford, Chris
+ - Forget, Wes
  - Fournier, Mike
  - Fowler, Rob
  - Fraser, Pierre
@@ -295,6 +318,7 @@ vs:
  - Howard, Steven
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Jewer, Keith
  - Joanisse, Dean
  - Jones, Brennen
  - Jones, Scott
@@ -318,6 +342,7 @@ vs:
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Lemay, Philippe
+ - Likely, John
  - Lyburn, Allan
  - MacDonald, Blake
  - MacDonald, Rod
@@ -330,12 +355,15 @@ vs:
  - Manners, Scott
  - March, Tim
  - Markowsky, Rob
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Maskiewich, Ken
  - Mathers, David
  - McCann, Andy
  - McDermaid, Donald
+ - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
  - Meachem, Shaun Myles
@@ -360,6 +388,7 @@ vs:
  - Neufeld, Denni
  - Newson, Jamie
  - Nichols, Mark
+ - Odian, Scott
  - Odishaw, Grant
  - Odishaw, Terry
  - Orme, Tyler
@@ -375,6 +404,7 @@ vs:
  - Roach, Jason
  - Robar, Mark
  - Robinson, Andrew
+ - Rowsell, Rick
  - Roy, Jean-Sebastien
  - Rycroft, Carter
  - Saccary, Scott
@@ -387,12 +417,15 @@ vs:
  - Shypitka, Tom
  - Simmons, Pat
  - Slauenwhite, David
+ - Smallwood, Robert
  - Smith, Kent
+ - Solberg, Jonathon
  - Spencer, Adam
  - St.Louis, David
  - Stoughton, Jeff
  - Sullivan, Charles Jr
  - Sylvain, Eric
+ - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
  - Trepanier, Jean-Francois
@@ -404,6 +437,7 @@ vs:
  - Watson, Aaron
  - Whitehead, Kevin
  - Whitehead, Mark
+ - Wood, Brad
  - Wood, Mike
  - Wozniak, Matt
 ---

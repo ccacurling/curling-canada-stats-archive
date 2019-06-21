@@ -209,6 +209,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Donna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shephard, Wendy
  - Simons, Renee
  - Singler, Sherri
@@ -224,7 +225,6 @@ vs:
  - Stubbings, Tiffany
  - Sutton, Jodie
  - Train, Mona
- - Turpin, Kelli
  - Udle, Teri
  - Vey, Lana
  - Walker, Lisa

@@ -2,9 +2,19 @@
 title: Carrie Vautour
 name: Carrie Vautour
 name-sort: Vautour, Carrie
-games: 11
-wins: 3
-losses: 8
+games: 14
+wins: 4
+losses: 10
+inturn-total: 184
+inturn-percent: 85
+outturn-total: 85
+outturn-percent: 83
+draw-total: 234
+draw-percent: 84
+takeout-total: 35
+takeout-percent: 82
+shots-total: 269
+shots-percent: 84
 years:
  - year: 2016
    event: Hearts
@@ -23,6 +33,23 @@ years:
    takeout-percent: 80
    shots-total: 218
    shots-percent: 84
+ - year: 2019
+   event: Hearts
+   team: "NL"
+   position: Lead
+   games: 3
+   wins: 1
+   losses: 2
+   inturn-total: 41
+   inturn-percent: 84
+   outturn-total: 10
+   outturn-percent: 80
+   draw-total: 44
+   draw-percent: 82
+   takeout-total: 7
+   takeout-percent: 89
+   shots-total: 51
+   shots-percent: 83
 vs:
  - Atkinson, Rebecca
  - Birt, Suzanne
@@ -38,12 +65,13 @@ vs:
  - Hanna, Stephanie
  - Howard, Ashley
  - Hughes, Meaghan
+ - Hunkin, Jessie
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Larouche, Marie-France
  - Lavery, Tracey
  - Lawes, Kaitlyn
+ - Lawton, Stefanie
  - Lemay, Annie
  - Lilly, Kendra
  - MacCuish, Kristin
@@ -51,6 +79,7 @@ vs:
  - McCarville, Krista
  - McEwen, Dawn
  - Murphy, Sarah
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Officer, Jill
@@ -63,7 +92,9 @@ vs:
  - Richard, Marie
  - Robichaud, Sylvie
  - Sagle, Karen
+ - Silvernagle, Robyn
  - Sippala, Ashley
+ - Thevenot, Kara
  - Thompson, Karla
  - Udle, Teri
  - Vandale, Trysta

@@ -2,13 +2,13 @@
 title: Philippe Menard vs Dallan Muyres
 player1:                
   name: Menard, Philippe
-  percent: 91           
+  percent: 87           
   wins: 2               
-  losses: 2             
+  losses: 3             
 player2:                
   name: Muyres, Dallan  
   percent: 86           
-  wins: 2               
+  wins: 3               
   losses: 2             
 games:
  - player1:        
@@ -75,4 +75,20 @@ games:
    year: 2016          
    draw: Round Robin(7)
    score: QC 3 - SK 7  
+ - player1:        
+     team: 'QC'    
+     position: Lead
+     percent: 70   
+     win: 0        
+     loss: 1       
+   player2:        
+     team: 'SK'    
+     position: Lead
+     percent: 85   
+     win: 1        
+     loss: 0       
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(7)
+   score: SK 8 - QC 6  
 ---

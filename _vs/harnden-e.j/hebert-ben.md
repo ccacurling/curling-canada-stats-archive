@@ -4,11 +4,11 @@ player1:
   name: Harnden, E.J.
   percent: 85        
   wins: 3            
-  losses: 5          
+  losses: 7          
 player2:             
   name: Hebert, Ben  
-  percent: 93        
-  wins: 5            
+  percent: 92        
+  wins: 7            
   losses: 3          
 games:
  - player1:         
@@ -139,4 +139,36 @@ games:
    year: 2017        
    draw: Page 3-4(19)
    score: CA 6 - NO 2
+ - player1:          
+     team: 'NO'      
+     position: Second
+     percent: 86     
+     win: 0          
+     loss: 1         
+   player2:        
+     team: 'AB'    
+     position: Lead
+     percent: 95   
+     win: 1        
+     loss: 0       
+   event: Brier      
+   year: 2019        
+   draw: Pool(18)    
+   score: AB 7 - NO 5
+ - player1:          
+     team: 'NO'      
+     position: Second
+     percent: 89     
+     win: 0          
+     loss: 1         
+   player2:        
+     team: 'AB'    
+     position: Lead
+     percent: 80   
+     win: 1        
+     loss: 0       
+   event: Brier      
+   year: 2019        
+   draw: Page 1-2(20)
+   score: NO 4 - AB 9
 ---

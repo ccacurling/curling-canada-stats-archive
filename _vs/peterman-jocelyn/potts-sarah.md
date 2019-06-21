@@ -2,13 +2,13 @@
 title: Jocelyn Peterman vs Sarah Potts
 player1:                 
   name: Peterman, Jocelyn
-  percent: 89            
+  percent: 88            
   wins: 3                
-  losses: 2              
+  losses: 3              
 player2:                 
   name: Potts, Sarah     
   percent: 92            
-  wins: 2                
+  wins: 3                
   losses: 3              
 games:
  - player1:          
@@ -73,7 +73,7 @@ games:
      loss: 0       
    event: Hearts     
    year: 2017        
-   draw: Playoff(19) 
+   draw: Page 3-4(19)
    score: CA 1 - NO 8
  - player1:          
      team: 'CA'      
@@ -89,6 +89,22 @@ games:
      loss: 1       
    event: Hearts     
    year: 2017        
-   draw: Playoff(21) 
+   draw: Bronze(21)  
    score: CA 7 - NO 4
+ - player1:          
+     team: 'CA'      
+     position: Second
+     percent: 83     
+     win: 0          
+     loss: 1         
+   player2:        
+     team: 'NO'    
+     position: Lead
+     percent: 93   
+     win: 1        
+     loss: 0       
+   event: Hearts     
+   year: 2019        
+   draw: Pool(18)    
+   score: CA 6 - NO 8
 ---

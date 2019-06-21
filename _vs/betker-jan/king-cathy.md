@@ -39,10 +39,10 @@ games:
      percent: 80     
      win: 0          
      loss: 1         
-   event: Hearts     
-   year: 1995        
-   draw: Playoff(19) 
-   score: AB 2 - CA 6
+   event: Hearts        
+   year: 1995           
+   draw: Tie-Breaker(19)
+   score: AB 2 - CA 6   
  - player1:         
      team: 'CA'     
      position: Third
@@ -55,10 +55,10 @@ games:
      percent: 92     
      win: 1          
      loss: 0         
-   event: Hearts     
-   year: 1995        
-   draw: Playoff(22) 
-   score: CA 5 - AB 7
+   event: Hearts       
+   year: 1995          
+   draw: Semi-Final(22)
+   score: CA 5 - AB 7  
  - player1:         
      team: 'SK'     
      position: Third

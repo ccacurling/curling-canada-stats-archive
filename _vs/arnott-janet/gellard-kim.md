@@ -39,10 +39,10 @@ games:
      percent: 80    
      win: 1         
      loss: 0        
-   event: Hearts     
-   year: 1996        
-   draw: Playoff(22) 
-   score: ON 6 - CA 5
+   event: Hearts       
+   year: 1996          
+   draw: Semi-Final(22)
+   score: ON 6 - CA 5  
  - player1:        
      team: 'MB'    
      position: Lead

@@ -39,10 +39,10 @@ games:
      percent: 78     
      win: 1          
      loss: 0         
-   event: Hearts     
-   year: 2000        
-   draw: Playoff(21) 
-   score: MB 6 - BC 7
+   event: Hearts       
+   year: 2000          
+   draw: Semi-Final(21)
+   score: MB 6 - BC 7  
  - player1:        
      team: 'MB'    
      position: Lead

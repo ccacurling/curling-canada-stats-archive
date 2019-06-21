@@ -210,6 +210,7 @@ vs:
  - Schneider, Lorraine
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Sicinski, Danielle
  - Simons, Renee
  - Sippala, Ashley
@@ -222,7 +223,6 @@ vs:
  - Tincher, Twyla
  - Trickett, Erica
  - Tucker, Cindy
- - Turpin, Kelli
  - Udle, Teri
  - Vey, Lana
  - Weagle, Lisa

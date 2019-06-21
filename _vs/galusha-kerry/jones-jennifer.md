@@ -2,13 +2,13 @@
 title: Kerry Galusha vs Jennifer Jones
 player1:               
   name: Galusha, Kerry 
-  percent: 63          
+  percent: 64          
   wins: 1              
-  losses: 8            
+  losses: 9            
 player2:               
   name: Jones, Jennifer
-  percent: 82          
-  wins: 8              
+  percent: 81          
+  wins: 9              
   losses: 1            
 games:
  - player1:         
@@ -124,7 +124,7 @@ games:
    draw: Round Robin(14)
    score: MB 8 - TR 2   
  - player1:          
-     team: 'NT'      
+     team: 'TR'      
      position: Fourth
      percent: 52     
      win: 0          
@@ -138,7 +138,7 @@ games:
    event: Hearts       
    year: 2013          
    draw: Round Robin(7)
-   score: NT 1 - MB 9  
+   score: TR 1 - MB 9  
  - player1:          
      team: 'NT'      
      position: Fourth
@@ -155,4 +155,20 @@ games:
    year: 2018          
    draw: Round Robin(8)
    score: NT 4 - MB 12 
+ - player1:          
+     team: 'NT'      
+     position: Fourth
+     percent: 71     
+     win: 0          
+     loss: 1         
+   player2:          
+     team: 'CA'      
+     position: Fourth
+     percent: 78     
+     win: 1          
+     loss: 0         
+   event: Hearts       
+   year: 2019          
+   draw: Round Robin(4)
+   score: NT 4 - CA 7  
 ---

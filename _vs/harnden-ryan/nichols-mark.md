@@ -3,13 +3,13 @@ title: Ryan Harnden vs Mark Nichols
 player1:             
   name: Harnden, Ryan
   percent: 91        
-  wins: 5            
+  wins: 6            
   losses: 5          
 player2:             
   name: Nichols, Mark
   percent: 86        
   wins: 5            
-  losses: 5          
+  losses: 6          
 games:
  - player1:          
      team: 'NO'      
@@ -171,4 +171,20 @@ games:
    year: 2017           
    draw: Round Robin(10)
    score: NO 5 - NL 7   
+ - player1:        
+     team: 'NO'    
+     position: Lead
+     percent: 93   
+     win: 1        
+     loss: 0       
+   player2:         
+     team: 'CA'     
+     position: Third
+     percent: 89    
+     win: 0         
+     loss: 1        
+   event: Brier      
+   year: 2019        
+   draw: Pool(17)    
+   score: NO 7 - CA 6
 ---

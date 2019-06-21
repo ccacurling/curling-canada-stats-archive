@@ -71,10 +71,10 @@ games:
      percent: 94   
      win: 0        
      loss: 1       
-   event: Hearts     
-   year: 2003        
-   draw: Playoff(20) 
-   score: PE 5 - NL 6
+   event: Hearts       
+   year: 2003          
+   draw: Semi-Final(20)
+   score: PE 5 - NL 6  
  - player1:          
      team: 'NL'      
      position: Second

@@ -26,7 +26,7 @@ years:
 vs:
  - Anderson, Sherry
  - Atkinson, Rebecca
- - Brown, Rachelle
+ - Brown, Rachel
  - Carey, Chelsea
  - Cooper, Kathryn
  - Courtney, Joanne

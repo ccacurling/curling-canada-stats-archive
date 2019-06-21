@@ -85,7 +85,6 @@ years:
    shots-total: 20
    shots-percent: 70
  - year: 2013
-   event: Hearts
    team: Totals
    games: 2
    wins: 0
@@ -190,6 +189,7 @@ vs:
  - Sandison, Janice
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Skinner, Julie
  - Stabel, Stacey
  - Street, Cindy
@@ -200,7 +200,6 @@ vs:
  - Tasaka, Adina
  - Tincher, Twyla
  - Tucker, Cindy
- - Turpin, Kelli
  - Wazney, Sarah
  - Wheatcroft, Georgina
  - Whitaker, Lise

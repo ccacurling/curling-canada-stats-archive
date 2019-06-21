@@ -2,13 +2,13 @@
 title: Rachel Homan vs Sarah Wilkes
 player1:             
   name: Homan, Rachel
-  percent: 80        
+  percent: 79        
   wins: 1            
-  losses: 0          
+  losses: 2          
 player2:             
   name: Wilkes, Sarah
-  percent: 79        
-  wins: 0            
+  percent: 78        
+  wins: 2            
   losses: 1          
 games:
  - player1:          
@@ -27,4 +27,36 @@ games:
    year: 2017          
    draw: Round Robin(6)
    score: ON 6 - AB 4  
+ - player1:          
+     team: 'ON'      
+     position: Fourth
+     percent: 81     
+     win: 0          
+     loss: 1         
+   player2:         
+     team: 'AB'     
+     position: Third
+     percent: 93    
+     win: 1         
+     loss: 0        
+   event: Hearts        
+   year: 2019           
+   draw: Round Robin(11)
+   score: ON 3 - AB 6   
+ - player1:          
+     team: 'ON'      
+     position: Fourth
+     percent: 75     
+     win: 0          
+     loss: 1         
+   player2:         
+     team: 'AB'     
+     position: Third
+     percent: 64    
+     win: 1         
+     loss: 0        
+   event: Hearts     
+   year: 2019        
+   draw: Final(23)   
+   score: ON 6 - AB 8
 ---

@@ -27,5 +27,5 @@ vs:
  - Gagnier, Monique
  - Galusha, Kerry
  - McCagg-Nystrom, Heather
- - Turpin, Kelli
+ - Sharpe, Kelli
 ---

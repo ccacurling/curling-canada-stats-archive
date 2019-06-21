@@ -178,6 +178,7 @@ vs:
  - Ross, Allison
  - Rudulier, Andrea
  - Sabourin, Joelle
+ - Sharpe, Kelli
  - Simmons, Cindy
  - Singler, Sherri
  - Smith, Nikki
@@ -189,7 +190,6 @@ vs:
  - Tanner, Ros
  - Thompson, Karla
  - Thurston, Jill
- - Turpin, Kelli
  - Udle, Teri
  - Vey, Lana
  - Wall, Kirsten

@@ -3,13 +3,13 @@ title: Kirk Muyres vs Rick Sawatsky
 player1:              
   name: Muyres, Kirk  
   percent: 87         
-  wins: 2             
+  wins: 3             
   losses: 1           
 player2:              
   name: Sawatsky, Rick
   percent: 90         
   wins: 1             
-  losses: 2           
+  losses: 3           
 games:
  - player1:         
      team: 'SK'     
@@ -59,4 +59,20 @@ games:
    year: 2016          
    draw: Round Robin(4)
    score: SK 8 - BC 4  
+ - player1:          
+     team: 'SK'      
+     position: Fourth
+     percent: 88     
+     win: 1          
+     loss: 0         
+   player2:        
+     team: 'BC'    
+     position: Lead
+     percent: 89   
+     win: 0        
+     loss: 1       
+   event: Brier      
+   year: 2019        
+   draw: Pool(18)    
+   score: BC 5 - SK 6
 ---

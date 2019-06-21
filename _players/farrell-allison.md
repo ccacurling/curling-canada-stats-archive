@@ -102,7 +102,6 @@ years:
    shots-total: 124
    shots-percent: 83
  - year: 2002
-   event: Hearts
    team: Totals
    games: 11
    wins: 2
@@ -272,6 +271,7 @@ vs:
  - Schikowski, Keri-Lynn
  - Schmirler, Sandra
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Singler, Sherri
  - Sonnenberg, Renee
@@ -287,7 +287,6 @@ vs:
  - Trider, Krista
  - Trowell, Cathy
  - Tucker, Cindy
- - Turpin, Kelli
  - Whitaker, Lise
  - Wiltzen, Jan
  - Wright, Susan

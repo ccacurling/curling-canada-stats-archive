@@ -71,7 +71,7 @@ vs:
  - Barry, Josh
  - Bezanson, Jared
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brannen, Jamie
  - Carmody, Anson
  - Carruthers, Reid

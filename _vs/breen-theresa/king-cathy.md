@@ -41,7 +41,7 @@ games:
      loss: 0         
    event: Hearts     
    year: 1998        
-   draw: Playoff(20) 
+   draw: Page 1-2(20)
    score: AB 7 - ON 6
  - player1:         
      team: 'ON'     
@@ -57,6 +57,6 @@ games:
      loss: 0         
    event: Hearts     
    year: 1998        
-   draw: Playoff(22) 
+   draw: Final(22)   
    score: AB 7 - ON 6
 ---

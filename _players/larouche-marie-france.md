@@ -68,7 +68,6 @@ years:
    shots-total: 20
    shots-percent: 65
  - year: 2000
-   event: Hearts
    team: Totals
    games: 3
    wins: 1
@@ -206,6 +205,10 @@ years:
    takeout-percent: 76
    shots-total: 201
    shots-percent: 73
+ - year: 2019
+   event: Hearts
+   team: "QC"
+   position: Alternate
 vs:
  - Affleck, Tricia
  - Anderson, Sherry
@@ -253,6 +256,7 @@ vs:
  - Dezura, Diane
  - Dolan, Kim
  - Dolan, Sinead
+ - Dunn, Michelle
  - Einarson, Kerri
  - Englot, Michelle
  - Enright, Barb
@@ -291,7 +295,6 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kehler, Lorie
@@ -342,6 +345,7 @@ vs:
  - Murphy, Sarah
  - Muzika, Shelley
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nicholson, Danielle
  - Nixon, Amy
  - Nowlan, Denise
@@ -354,6 +358,7 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
  - Pinkney, Colleen
  - Porter, Erin
  - Potts, Sarah
@@ -366,12 +371,15 @@ vs:
  - Richards, Brette
  - Robertson, Darcy
  - Robichaud, Sylvie
+ - Rusnell, Jen
  - Sagle, Karen
  - Sandison, Janice
+ - Sandwith, Carley
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simmons, Cindy
  - Simons, Renee
  - Singler, Sherri
@@ -391,13 +399,13 @@ vs:
  - Surik, Teejay
  - Tasaka, Adina
  - Thompson, Karla
- - Turpin, Kelli
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie
  - Vey, Lana
  - Wall, Kirsten
  - Walsh, Jenna
+ - Wark, Sarah
  - Weagle, Lisa
  - Webster, Bronwen
  - Westcott, Raunora

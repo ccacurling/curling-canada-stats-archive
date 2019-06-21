@@ -2,13 +2,13 @@
 title: Stefanie Lawton vs Dawn McEwen
 player1:                
   name: Lawton, Stefanie
-  percent: 75           
+  percent: 74           
   wins: 1               
-  losses: 4             
+  losses: 5             
 player2:                
   name: McEwen, Dawn    
-  percent: 84           
-  wins: 4               
+  percent: 82           
+  wins: 5               
   losses: 1             
 games:
  - player1:          
@@ -91,4 +91,20 @@ games:
    year: 2015          
    draw: Round Robin(5)
    score: MB 7 - SK 4  
+ - player1:         
+     team: 'SK'     
+     position: Third
+     percent: 70    
+     win: 0         
+     loss: 1        
+   player2:        
+     team: 'CA'    
+     position: Lead
+     percent: 76   
+     win: 1        
+     loss: 0       
+   event: Hearts       
+   year: 2019          
+   draw: Round Robin(2)
+   score: SK 5 - CA 6  
 ---

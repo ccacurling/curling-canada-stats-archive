@@ -57,6 +57,6 @@ games:
      loss: 0       
    event: Brier      
    year: 2003        
-   draw: Playoff(19) 
+   draw: Page 1-2(19)
    score: BC 2 - AB 8
 ---

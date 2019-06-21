@@ -2,18 +2,18 @@
 title: Suzanne Birt
 name: Suzanne Birt
 name-sort: Birt, Suzanne
-games: 103
-wins: 45
-losses: 58
-inturn-total: 922
-inturn-percent: 71
-outturn-total: 955
+games: 114
+wins: 51
+losses: 63
+inturn-total: 1017
+inturn-percent: 72
+outturn-total: 1070
 outturn-percent: 72
-draw-total: 908
+draw-total: 1009
 draw-percent: 67
-takeout-total: 969
+takeout-total: 1078
 takeout-percent: 76
-shots-total: 1877
+shots-total: 2087
 shots-percent: 72
 years:
  - year: 2003
@@ -169,6 +169,23 @@ years:
    takeout-percent: 80
    shots-total: 213
    shots-percent: 73
+ - year: 2019
+   event: Hearts
+   team: "PE"
+   position: Fourth
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 95
+   inturn-percent: 73
+   outturn-total: 115
+   outturn-percent: 73
+   draw-total: 101
+   draw-percent: 69
+   takeout-total: 109
+   takeout-percent: 77
+   shots-total: 210
+   shots-percent: 73
 vs:
  - Aleksic, Shannon
  - Allen, Michelle
@@ -180,6 +197,7 @@ vs:
  - Ayrey, Jinaye
  - Babin, Jillian
  - Bakker, Glenys
+ - Baldwin, Nicole
  - Barbour, Shona
  - Baxter, Jen
  - Beauchamp, Sasha
@@ -189,17 +207,21 @@ vs:
  - Belley, Joelle
  - Bernard, Cheryl
  - Betker, Jan
+ - Birnie, Hailey
  - Black, Christina
  - Blackburn, Julie
  - Blais, Amelie
  - Blanchard, Judy
+ - Blaney, Jennifer
+ - Bodner, Jenine
  - Bohmer, Brenda
  - Bonar, Maureen
+ - Boudreault, Patricia
  - Boyle, Jane
  - Brassard, Veronique
  - Brennan, Amanda
  - Brothers, Jill
- - Brown, Rachelle
+ - Brown, Rachel
  - Burgess, Carey
  - Bush, Tracy
  - Byers, Denise
@@ -223,6 +245,7 @@ vs:
  - Cunningham, Jessica
  - Currie, Wendy
  - Curtis, Stacie
+ - Daigle, Julie
  - Daniel, Sylvie
  - Darbyshire, Carolyn
  - deJager, Blaine
@@ -239,7 +262,6 @@ vs:
  - Enright, Barb
  - Fallis, Karen
  - Ferguson, Dana
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Fisher, Alana
  - Fister, Teri
@@ -252,6 +274,7 @@ vs:
  - Gagnon, Nathalie
  - Galusha, Kerry
  - Gates, Amanda
+ - Gates, Jenny
  - George, Tara
  - Gignac, Donna
  - Gogan, Jennifer
@@ -259,9 +282,11 @@ vs:
  - Greening, Jackie-Rae
  - Gregoire, Veronique
  - Grenier, Valerie
+ - Griffin, Alison
  - Gudereit, Marcia
  - Gushulak, Diane
  - Guzzwell, Stephanie
+ - Hamilton, Beth
  - Hamon, Callan
  - Hanlon, Heidi
  - Hanna, Jenn
@@ -279,14 +304,16 @@ vs:
  - Horgan, Tracy
  - Horne, Kate
  - Howard, Ashley
+ - Hunkin, Jessie
  - Hunter, Lana
  - Inglis, Nancy
+ - Ingram, Megan
  - Iskiw, Beth
+ - Jewer, Michelle
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kelly, Kim
@@ -296,6 +323,7 @@ vs:
  - Kleibrink, Shannon
  - Knezevic, Patti
  - Koehler, Megan
+ - Koltun, Sarah
  - Korab, Stephanie
  - Kreviazuk, Alison
  - Lacey, Stacey
@@ -303,6 +331,7 @@ vs:
  - Lange, Ann
  - Larouche, Marie-France
  - Lavery, Tracey
+ - Lavoie, Gabrielle
  - Law, Kelley
  - Lawes, Andrea
  - Lawes, Kaitlyn
@@ -341,10 +370,12 @@ vs:
  - Moss, Debbie
  - Muise, Morgan
  - Mulroney, Sandra
+ - Munroe, Anna
  - Murphy, Jeanette
  - Murphy, Sarah
  - Naugler, Tara
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
@@ -362,6 +393,7 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
  - Pinkney, Colleen
  - Porter, Erin
  - Potts, Sarah
@@ -380,13 +412,17 @@ vs:
  - Rusnell, Jen
  - Sabourin, Joelle
  - Sagle, Karen
+ - Sandwith, Carley
  - Santos, Deb
  - Schmidt, Stephanie
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
+ - Shaw, Ladene
  - Shumay, Jill
+ - Silvernagle, Robyn
  - Simmons, Cindy
  - Simons, Renee
  - Sippala, Ashley
@@ -400,16 +436,18 @@ vs:
  - Strachan, Angela
  - Streifel, Tracy
  - Strong, Heather
+ - Strong, Helen
  - Strong, Laura
  - Stubbings, Tiffany
  - Surik, Teejay
  - Sweeting, Valerie
  - Tanner, Ros
+ - Thevenot, Kara
  - Thompson, Karla
  - Thurston, Jill
  - Todd, Fran
+ - Tran, Brittany
  - Trombley, Christy
- - Turpin, Kelli
  - Udle, Teri
  - Unrau, Faye
  - Vandale, Trysta
@@ -417,12 +455,14 @@ vs:
  - Vey, Lana
  - Wall, Kirsten
  - Walsh, Jenna
+ - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa
  - Webster, Bronwen
  - Westcott, Raunora
  - Wheatcroft, Georgina
+ - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
  - Wylie, Jennifer

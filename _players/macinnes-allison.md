@@ -126,6 +126,7 @@ vs:
  - Schmirler, Sandra
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simmons, Cindy
  - Simons, Renee
  - Strong, Heather
@@ -133,7 +134,6 @@ vs:
  - Surik, Teejay
  - Thomas, Karen
  - Trowell, Cathy
- - Turpin, Kelli
  - Wall, Kirsten
  - Webster, Bronwen
  - Whitaker, Carol

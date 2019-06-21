@@ -290,6 +290,7 @@ vs:
  - Schmirler, Sandra
  - Scott, Donna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shaw, Cathy
  - Shephard, Wendy
  - Sherrington, Barb
@@ -311,7 +312,6 @@ vs:
  - Thompson, Carol
  - Tousignant, Helene
  - Train, Mona
- - Turpin, Kelli
  - Vautour, Chantel
  - Wall, Mary Lou
  - Walter, Cathy

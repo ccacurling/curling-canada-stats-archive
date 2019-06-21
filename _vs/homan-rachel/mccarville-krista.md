@@ -2,14 +2,14 @@
 title: Rachel Homan vs Krista McCarville
 player1:                  
   name: Homan, Rachel     
-  percent: 83             
-  wins: 2                 
+  percent: 85             
+  wins: 4                 
   losses: 0               
 player2:                  
   name: McCarville, Krista
-  percent: 82             
+  percent: 75             
   wins: 0                 
-  losses: 2               
+  losses: 4               
 games:
  - player1:          
      team: 'ON'      
@@ -39,8 +39,40 @@ games:
      percent: 88     
      win: 0          
      loss: 1         
+   event: Hearts       
+   year: 2017          
+   draw: Semi-Final(20)
+   score: NO 5 - ON 7  
+ - player1:          
+     team: 'ON'      
+     position: Fourth
+     percent: 88     
+     win: 1          
+     loss: 0         
+   player2:          
+     team: 'NO'      
+     position: Fourth
+     percent: 74     
+     win: 0          
+     loss: 1         
+   event: Hearts       
+   year: 2019          
+   draw: Round Robin(1)
+   score: NO 4 - ON 6  
+ - player1:          
+     team: 'ON'      
+     position: Fourth
+     percent: 88     
+     win: 1          
+     loss: 0         
+   player2:          
+     team: 'NO'      
+     position: Fourth
+     percent: 63     
+     win: 0          
+     loss: 1         
    event: Hearts     
-   year: 2017        
-   draw: Playoff(20) 
-   score: NO 5 - ON 7
+   year: 2019        
+   draw: Page 3-4(20)
+   score: ON 6 - NO 4
 ---

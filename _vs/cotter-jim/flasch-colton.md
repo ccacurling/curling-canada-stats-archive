@@ -2,13 +2,13 @@
 title: Jim Cotter vs Colton Flasch
 player1:              
   name: Cotter, Jim   
-  percent: 82         
+  percent: 79         
   wins: 1             
-  losses: 2           
+  losses: 3           
 player2:              
   name: Flasch, Colton
-  percent: 79         
-  wins: 2             
+  percent: 81         
+  wins: 3             
   losses: 1           
 games:
  - player1:          
@@ -59,4 +59,20 @@ games:
    year: 2016          
    draw: Round Robin(4)
    score: SK 8 - BC 4  
+ - player1:          
+     team: 'BC'      
+     position: Fourth
+     percent: 69     
+     win: 0          
+     loss: 1         
+   player2:          
+     team: 'AB'      
+     position: Second
+     percent: 90     
+     win: 1          
+     loss: 0         
+   event: Brier         
+   year: 2019           
+   draw: Round Robin(10)
+   score: AB 9 - BC 5   
 ---

@@ -41,7 +41,7 @@ vs:
  - Anderson, Sherry
  - Atkinson, Rebecca
  - Brothers, Jill
- - Brown, Rachelle
+ - Brown, Rachel
  - Carey, Chelsea
  - Cooper, Kathryn
  - Cottrill, Katie

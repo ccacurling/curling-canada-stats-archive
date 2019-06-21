@@ -2,14 +2,14 @@
 title: Jennifer Jones vs Stefanie Lawton
 player1:                
   name: Jones, Jennifer 
-  percent: 81           
-  wins: 3               
+  percent: 78           
+  wins: 4               
   losses: 1             
 player2:                
   name: Lawton, Stefanie
-  percent: 75           
+  percent: 74           
   wins: 1               
-  losses: 3             
+  losses: 4             
 games:
  - player1:          
      team: 'MB'      
@@ -75,4 +75,20 @@ games:
    year: 2015          
    draw: Round Robin(5)
    score: MB 7 - SK 4  
+ - player1:          
+     team: 'CA'      
+     position: Fourth
+     percent: 66     
+     win: 1          
+     loss: 0         
+   player2:         
+     team: 'SK'     
+     position: Third
+     percent: 70    
+     win: 0         
+     loss: 1        
+   event: Hearts       
+   year: 2019          
+   draw: Round Robin(2)
+   score: SK 5 - CA 6  
 ---

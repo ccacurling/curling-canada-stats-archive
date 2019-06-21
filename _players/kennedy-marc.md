@@ -163,7 +163,7 @@ vs:
  - Bilesky, Andrew
  - Bitz, Scott
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Bouchard, Christian
  - Brannen, Jamie
  - Breckon, Graham

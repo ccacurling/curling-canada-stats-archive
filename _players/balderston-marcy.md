@@ -171,6 +171,7 @@ vs:
  - Schmirler, Sandra
  - Schneider, Sheila
  - Scott, Donna
+ - Sharpe, Kelli
  - Shields, Gail
  - Skinner, Julie
  - Stabel, Stacey
@@ -186,7 +187,6 @@ vs:
  - Tousignant, Helene
  - Treloar, Cathy
  - Tucker, Cindy
- - Turpin, Kelli
  - Wheatcroft, Georgina
  - Whitaker, Lise
  - Wright, Susan

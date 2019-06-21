@@ -57,7 +57,7 @@ games:
      loss: 0        
    event: Brier      
    year: 1996        
-   draw: Playoff(20) 
+   draw: Page 1-2(20)
    score: MB 6 - AB 5
  - player1:        
      team: 'AB'    
@@ -73,6 +73,6 @@ games:
      loss: 0        
    event: Brier      
    year: 1996        
-   draw: Playoff(22) 
+   draw: Final(22)   
    score: MB 8 - AB 7
 ---

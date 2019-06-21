@@ -200,6 +200,7 @@ vs:
  - Scales, Julie
  - Schikowski, Keri-Lynn
  - Schmirler, Sandra
+ - Sharpe, Kelli
  - Shigehiro, Sally
  - Skinner, Julie
  - Smith, Heather
@@ -212,7 +213,6 @@ vs:
  - Thomas, Karen
  - Thomas, Maria
  - Trowell, Cathy
- - Turpin, Kelli
  - Walter, Cathy
  - Wheatcroft, Georgina
  - Whitrow, Leanne

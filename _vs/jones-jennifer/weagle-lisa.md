@@ -4,11 +4,11 @@ player1:
   name: Jones, Jennifer
   percent: 83          
   wins: 3              
-  losses: 2            
+  losses: 3            
 player2:               
   name: Weagle, Lisa   
   percent: 83          
-  wins: 2              
+  wins: 3              
   losses: 3            
 games:
  - player1:          
@@ -91,4 +91,20 @@ games:
    year: 2015          
    draw: Round Robin(8)
    score: CA 7 - MB 8  
+ - player1:          
+     team: 'CA'      
+     position: Fourth
+     percent: 83     
+     win: 0          
+     loss: 1         
+   player2:        
+     team: 'ON'    
+     position: Lead
+     percent: 84   
+     win: 1        
+     loss: 0       
+   event: Hearts     
+   year: 2019        
+   draw: Pool(17)    
+   score: ON 9 - CA 6
 ---

@@ -2,19 +2,19 @@
 title: Sarah Potts
 name: Sarah Potts
 name-sort: Potts, Sarah
-games: 30
-wins: 19
-losses: 11
-inturn-total: 286
+games: 42
+wins: 27
+losses: 15
+inturn-total: 417
 inturn-percent: 88
-outturn-total: 238
+outturn-total: 338
 outturn-percent: 87
-draw-total: 434
+draw-total: 618
 draw-percent: 89
-takeout-total: 90
-takeout-percent: 80
-shots-total: 524
-shots-percent: 87
+takeout-total: 137
+takeout-percent: 82
+shots-total: 755
+shots-percent: 88
 years:
  - year: 2010
    event: Hearts
@@ -67,17 +67,41 @@ years:
    takeout-percent: 76
    shots-total: 248
    shots-percent: 86
+ - year: 2019
+   event: Hearts
+   team: "NO"
+   position: Lead
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 131
+   inturn-percent: 88
+   outturn-total: 100
+   outturn-percent: 89
+   draw-total: 184
+   draw-percent: 88
+   takeout-total: 47
+   takeout-percent: 87
+   shots-total: 231
+   shots-percent: 88
 vs:
  - Affleck, Tricia
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Atkinson, Rebecca
+ - Baldwin, Nicole
+ - Barbour, Shona
  - Barker, Penny
  - Belisle, Eve
+ - Birnie, Hailey
  - Birt, Suzanne
  - Blais, Amelie
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Boudreault, Patricia
  - Boyle, Jane
  - Brothers, Jill
+ - Brown, Rachel
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
@@ -87,6 +111,7 @@ vs:
  - Courtney, Joanne
  - Curtis, Stacie
  - Cutcliffe, Margaret
+ - Daigle, Julie
  - deJager, Blaine
  - Derry, Danielle
  - Devereaux, Julie
@@ -94,9 +119,13 @@ vs:
  - Einarson, Kerri
  - Englot, Michelle
  - Eyamie, Lisa
+ - Ferguson, Dana
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
+ - Griffin, Alison
+ - Guzzwell, Stephanie
+ - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
@@ -104,14 +133,19 @@ vs:
  - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
+ - Hunkin, Jessie
+ - Ingram, Megan
+ - Jewer, Michelle
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kleibrink, Shannon
  - Koehler, Megan
+ - Koltun, Sarah
  - Larouche, Marie-France
  - Lavery, Tracey
+ - Lavoie, Gabrielle
  - Lawes, Kaitlyn
+ - Lawton, Stefanie
  - MacCuish, Kristin
  - MacPhee, Robyn
  - Mallett, Marla
@@ -120,7 +154,9 @@ vs:
  - McEwen, Dawn
  - McQuaid, Michelle
  - Miskew, Emma
+ - Munroe, Anna
  - Murphy, Sarah
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Officer, Jill
@@ -129,6 +165,7 @@ vs:
  - O'Rourke, Kathy
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
  - Porter, Erin
  - Rainville, Julie
  - Ramsay, Geri Lynn
@@ -136,16 +173,25 @@ vs:
  - Richard, Marie
  - Richards, Brette
  - Robichaud, Sylvie
+ - Rusnell, Jen
  - Sagle, Karen
+ - Sandwith, Carley
  - Saulnier, Andrea
  - Schneider, Lorraine
+ - Sharpe, Kelli
+ - Shaw, Ladene
  - Sicinski, Danielle
+ - Silvernagle, Robyn
+ - Strong, Helen
+ - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla
+ - Tran, Brittany
  - Trickett, Erica
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie
+ - Wark, Sarah
  - Weagle, Lisa
  - Westcott, Raunora
  - Wilkes, Sarah

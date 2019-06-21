@@ -2,9 +2,19 @@
 title: Erin Carmody
 name: Erin Carmody
 name-sort: Carmody, Erin
-games: 14
-wins: 9
-losses: 5
+games: 21
+wins: 11
+losses: 10
+inturn-total: 219
+inturn-percent: 75
+outturn-total: 175
+outturn-percent: 74
+draw-total: 176
+draw-percent: 69
+takeout-total: 218
+takeout-percent: 78
+shots-total: 394
+shots-percent: 74
 years:
  - year: 2010
    event: Hearts
@@ -23,6 +33,23 @@ years:
    takeout-percent: 79
    shots-total: 262
    shots-percent: 73
+ - year: 2019
+   event: Hearts
+   team: "NS"
+   position: Third
+   games: 7
+   wins: 2
+   losses: 5
+   inturn-total: 89
+   inturn-percent: 76
+   outturn-total: 43
+   outturn-percent: 78
+   draw-total: 45
+   draw-percent: 75
+   takeout-total: 87
+   takeout-percent: 78
+   shots-total: 132
+   shots-percent: 77
 vs:
  - Armstrong, Jacquie
  - Babin, Jillian

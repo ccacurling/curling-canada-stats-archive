@@ -2,13 +2,13 @@
 title: Colin Hodgson vs Brad Jacobs
 player1:              
   name: Hodgson, Colin
-  percent: 94         
+  percent: 95         
   wins: 0             
-  losses: 2           
+  losses: 3           
 player2:              
   name: Jacobs, Brad  
-  percent: 90         
-  wins: 2             
+  percent: 89         
+  wins: 3             
   losses: 0           
 games:
  - player1:        
@@ -43,4 +43,20 @@ games:
    year: 2018           
    draw: Round Robin(13)
    score: MB 3 - NO 6   
+ - player1:        
+     team: 'MB'    
+     position: Lead
+     percent: 97   
+     win: 0        
+     loss: 1       
+   player2:          
+     team: 'NO'      
+     position: Fourth
+     percent: 86     
+     win: 1          
+     loss: 0         
+   event: Brier         
+   year: 2019           
+   draw: Round Robin(11)
+   score: NO 9 - MB 5   
 ---

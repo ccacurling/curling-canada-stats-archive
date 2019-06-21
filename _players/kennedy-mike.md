@@ -128,7 +128,7 @@ vs:
  - Bartlett, Don
  - Biron, Louis
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brackett, James
  - Broda, Shawn
  - Brown, Ken

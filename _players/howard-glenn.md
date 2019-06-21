@@ -338,7 +338,7 @@ vs:
  - Boland, John
  - Borden, Robert
  - Bothamley, Doug
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Bouchard, Christian
  - Bourque, Don
  - Brannen, Jamie

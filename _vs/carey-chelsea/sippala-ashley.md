@@ -73,7 +73,7 @@ games:
      loss: 0         
    event: Hearts     
    year: 2017        
-   draw: Playoff(19) 
+   draw: Page 3-4(19)
    score: CA 1 - NO 8
  - player1:          
      team: 'CA'      
@@ -89,6 +89,6 @@ games:
      loss: 1         
    event: Hearts     
    year: 2017        
-   draw: Playoff(21) 
+   draw: Bronze(21)  
    score: CA 7 - NO 4
 ---

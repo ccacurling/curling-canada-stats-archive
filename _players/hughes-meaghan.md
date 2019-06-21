@@ -2,18 +2,18 @@
 title: Meaghan Hughes
 name: Meaghan Hughes
 name-sort: Hughes, Meaghan
-games: 30
-wins: 9
-losses: 21
-inturn-total: 279
+games: 41
+wins: 15
+losses: 26
+inturn-total: 382
 inturn-percent: 81
-outturn-total: 309
-outturn-percent: 79
-draw-total: 260
+outturn-total: 419
+outturn-percent: 80
+draw-total: 361
 draw-percent: 78
-takeout-total: 328
+takeout-total: 440
 takeout-percent: 82
-shots-total: 588
+shots-total: 801
 shots-percent: 80
 years:
  - year: 2016
@@ -67,6 +67,23 @@ years:
    takeout-percent: 80
    shots-total: 158
    shots-percent: 81
+ - year: 2019
+   event: Hearts
+   team: "PE"
+   position: Second
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 103
+   inturn-percent: 80
+   outturn-total: 110
+   outturn-percent: 83
+   draw-total: 101
+   draw-percent: 78
+   takeout-total: 112
+   takeout-percent: 85
+   shots-total: 213
+   shots-percent: 81
 vs:
  - Adams, Melissa
  - Alcoe-Holland, Jill
@@ -74,13 +91,19 @@ vs:
  - Anderson, Sherry
  - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
+ - Baldwin, Nicole
  - Barbour, Shona
  - Barker, Penny
  - Belisle, Eve
  - Birchard, Shannon
+ - Birnie, Hailey
  - Blais, Amelie
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Boudreault, Patricia
  - Boyle, Jane
  - Brothers, Jill
+ - Brown, Rachel
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
@@ -89,6 +112,7 @@ vs:
  - Courtney, Joanne
  - Curtis, Stacie
  - Cutcliffe, Margaret
+ - Daigle, Julie
  - deJager, Blaine
  - Derry, Danielle
  - Devereaux, Julie
@@ -99,23 +123,30 @@ vs:
  - Einarson, Kerri
  - Englot, Michelle
  - Eyamie, Lisa
+ - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
  - Fleury, Tracy
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
+ - Gates, Jenny
  - Gibson, Amy
+ - Griffin, Alison
+ - Guzzwell, Stephanie
+ - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
  - Hill, Trish
  - Homan, Rachel
  - Howard, Ashley
+ - Hunkin, Jessie
  - Hutchings, Denise
+ - Ingram, Megan
+ - Jewer, Michelle
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kleibrink, Shannon
  - Koehler, Megan
  - Koltun, Sarah
@@ -123,7 +154,9 @@ vs:
  - Kreviazuk, Cheryl
  - Larouche, Marie-France
  - Lavery, Tracey
+ - Lavoie, Gabrielle
  - Lawes, Kaitlyn
+ - Lawton, Stefanie
  - LeDrew, Stephanie
  - Letendre, Pascale
  - Lilly, Kendra
@@ -137,7 +170,9 @@ vs:
  - McTaggart, Cary-Anne
  - Miskew, Emma
  - Moore, Kristie
+ - Munroe, Anna
  - Murphy, Sarah
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Nugent, Pamela
@@ -146,6 +181,7 @@ vs:
  - O'Rourke, Brittany
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
  - Price, Kara
@@ -154,17 +190,25 @@ vs:
  - Richard, Marie
  - Richards, Brette
  - Robichaud, Sylvie
+ - Rusnell, Jen
  - Sagle, Karen
+ - Sandwith, Carley
  - Saulnier, Andrea
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schneider, Lorraine
  - Shackleton, Amie
+ - Sharpe, Kelli
+ - Shaw, Ladene
  - Sicinski, Danielle
+ - Silvernagle, Robyn
  - Sippala, Ashley
  - Smallwood, Jody
+ - Strong, Helen
+ - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla
+ - Tran, Brittany
  - Trickett, Erica
  - Udle, Teri
  - Vandale, Trysta
@@ -172,6 +216,7 @@ vs:
  - Van Osch, Kesa
  - Van Osch, Marika
  - Vautour, Carrie
+ - Wark, Sarah
  - Weagle, Lisa
  - Webster, Crystal
  - West, Christianne

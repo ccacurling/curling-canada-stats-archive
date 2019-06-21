@@ -76,10 +76,10 @@ vs:
  - Provencal, Darah
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Strong, Heather
  - Stubbings, Tiffany
- - Turpin, Kelli
  - Vey, Lana
  - Wheatcroft, Georgina
  - Whitaker, Carol

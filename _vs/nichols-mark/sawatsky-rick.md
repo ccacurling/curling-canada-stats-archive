@@ -3,13 +3,13 @@ title: Mark Nichols vs Rick Sawatsky
 player1:              
   name: Nichols, Mark 
   percent: 88         
-  wins: 4             
+  wins: 5             
   losses: 3           
 player2:              
   name: Sawatsky, Rick
-  percent: 89         
+  percent: 90         
   wins: 3             
-  losses: 4           
+  losses: 5           
 games:
  - player1:         
      team: 'NL'     
@@ -123,4 +123,20 @@ games:
    year: 2017           
    draw: Round Robin(12)
    score: BC 4 - NL 5   
+ - player1:         
+     team: 'CA'     
+     position: Third
+     percent: 81    
+     win: 1         
+     loss: 0        
+   player2:        
+     team: 'BC'    
+     position: Lead
+     percent: 93   
+     win: 0        
+     loss: 1       
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(6)
+   score: BC 4 - CA 10 
 ---

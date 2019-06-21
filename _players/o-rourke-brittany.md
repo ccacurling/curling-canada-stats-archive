@@ -99,7 +99,7 @@ vs:
  - Boyle, Jane
  - Bradley, Shelly
  - Brothers, Jill
- - Brown, Rachelle
+ - Brown, Rachel
  - Cameron, Kate
  - Camozzi, Rhona
  - Carey, Chelsea
@@ -127,7 +127,6 @@ vs:
  - Englot, Michelle
  - Eyamie, Lisa
  - Ferguson, Dana
- - Fewster, Kristen
  - Flaxey, Allison
  - Foster, Kristen
  - Fullerton, Sarah
@@ -178,6 +177,7 @@ vs:
  - Parsons, Danielle
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
  - Richard, Marie

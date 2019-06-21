@@ -247,6 +247,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Donna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shephard, Wendy
  - Sherrington, Barb
  - Shumay, Jill
@@ -262,7 +263,6 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Tasaka, Adina
- - Turpin, Kelli
  - Udle, Teri
  - Walter, Cathy
  - Wasylkiw, Lauren

@@ -2,14 +2,14 @@
 title: Ryan Harnden vs Colin Hodgson
 player1:              
   name: Harnden, Ryan 
-  percent: 88         
-  wins: 2             
+  percent: 89         
+  wins: 3             
   losses: 0           
 player2:              
   name: Hodgson, Colin
-  percent: 94         
+  percent: 95         
   wins: 0             
-  losses: 2           
+  losses: 3           
 games:
  - player1:        
      team: 'NO'    
@@ -43,4 +43,20 @@ games:
    year: 2018           
    draw: Round Robin(13)
    score: MB 3 - NO 6   
+ - player1:        
+     team: 'NO'    
+     position: Lead
+     percent: 93   
+     win: 1        
+     loss: 0       
+   player2:        
+     team: 'MB'    
+     position: Lead
+     percent: 97   
+     win: 0        
+     loss: 1       
+   event: Brier         
+   year: 2019           
+   draw: Round Robin(11)
+   score: NO 9 - MB 5   
 ---

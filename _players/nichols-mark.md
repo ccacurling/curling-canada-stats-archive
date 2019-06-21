@@ -2,18 +2,18 @@
 title: Mark Nichols
 name: Mark Nichols
 name-sort: Nichols, Mark
-games: 176
-wins: 123
-losses: 53
-inturn-total: 1394
+games: 188
+wins: 132
+losses: 56
+inturn-total: 1480
 inturn-percent: 84
-outturn-total: 1947
+outturn-total: 2071
 outturn-percent: 85
-draw-total: 1407
+draw-total: 1482
 draw-percent: 85
-takeout-total: 1934
+takeout-total: 2069
 takeout-percent: 84
-shots-total: 3341
+shots-total: 3551
 shots-percent: 85
 years:
  - year: 2003
@@ -254,11 +254,30 @@ years:
    takeout-percent: 90
    shots-total: 240
    shots-percent: 89
+ - year: 2019
+   event: Brier
+   team: "CA"
+   position: Third
+   games: 12
+   wins: 9
+   losses: 3
+   inturn-total: 86
+   inturn-percent: 86
+   outturn-total: 124
+   outturn-percent: 90
+   draw-total: 75
+   draw-percent: 86
+   takeout-total: 135
+   takeout-percent: 90
+   shots-total: 210
+   shots-percent: 88
 vs:
  - Adam, Gerry
  - Adams, Shawn
+ - Aho, David
  - Anderson, Chris
  - Appelman, Tom
+ - Ardiel, Taylor
  - Arsenault, Craig
  - Atchison, Chris
  - Bailey, Scott
@@ -268,6 +287,7 @@ vs:
  - Barry, Josh
  - Base, John
  - Berthelot, Marco
+ - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
  - Bice, Steve
@@ -275,7 +295,7 @@ vs:
  - Bitz, Scott
  - Blanchard, Wade
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Bouchard, Christian
  - Brannen, Jamie
  - Breckon, Graham
@@ -294,12 +314,14 @@ vs:
  - Case, Peter
  - Casey, Adam
  - Cayouette, Maurice
+ - Chadwick, Scott
  - Champion, Kevin
  - Charette, Pierre
  - Childs, Jamie
  - Chorostkowski, Brad
  - Cochrane, Bryan
  - Collin, Simon
+ - Colter, Travis
  - Cotter, Jim
  - Cowan, Chad
  - Crete, Martin
@@ -334,6 +356,7 @@ vs:
  - Flaxey, Caleb
  - Flemming, Paul
  - Folk, Kevin
+ - Forget, Wes
  - Fowler, Rob
  - Frans, Joe
  - Fraser, Pierre
@@ -401,6 +424,7 @@ vs:
  - Kean, Mark
  - Kehoe, Mark
  - Kelsch, Dan
+ - Kendall, Lloyd
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
@@ -431,10 +455,13 @@ vs:
  - MacKenzie, Eddie
  - MacKenzie, Kevin
  - MacKenzie, Tyler
+ - Mackey, Peter
  - MacLean, Stuart
  - Mallais, Jeremy
  - March, Tim
  - Markowsky, Rob
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Maskiewich, Ken
@@ -442,6 +469,7 @@ vs:
  - McCarrel, Graeme
  - McCarville, Mike
  - McDermaid, Donald
+ - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
  - Meachem, Shaun Myles
@@ -461,6 +489,7 @@ vs:
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Nantes, Dave
  - Naugler, Tom
  - Nedohin, David
@@ -469,14 +498,17 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Newson, Jamie
+ - Ng, Matt
  - Nobert, Rob
  - Odishaw, Grant
+ - Odishaw, Terry
  - Olson, Mark-2
  - Orme, Tyler
  - O'Rourke, Mark
  - Ouimet, Luc
  - Palmer, Curt
  - Park, Kevin
+ - Parsons, Cole
  - Peachy, Jay
  - Pfeifer, Scott
  - Pielak, Rod
@@ -520,6 +552,8 @@ vs:
  - Sosiak, Jim
  - Spencer, Adam
  - Spicer, Grant
+ - St.Louis, David
+ - Steele, Colten
  - Steski, John
  - Stoughton, Jeff
  - Sullivan, Charles Jr
@@ -529,6 +563,7 @@ vs:
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thompson, Stuart
  - Thomson, Fred
  - Toner, Lee
  - Trevellyan, Todd

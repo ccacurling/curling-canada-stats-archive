@@ -89,6 +89,6 @@ games:
      loss: 1        
    event: Hearts      
    year: 2013         
-   draw: Playoff(21)  
+   draw: Bronze(21)   
    score: CA 8 - BC 10
 ---

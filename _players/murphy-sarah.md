@@ -2,9 +2,19 @@
 title: Sarah Murphy
 name: Sarah Murphy
 name-sort: Murphy, Sarah
-games: 11
-wins: 6
-losses: 5
+games: 18
+wins: 8
+losses: 10
+inturn-total: 205
+inturn-percent: 76
+outturn-total: 138
+outturn-percent: 77
+draw-total: 115
+draw-percent: 72
+takeout-total: 228
+takeout-percent: 78
+shots-total: 343
+shots-percent: 76
 years:
  - year: 2016
    event: Hearts
@@ -41,7 +51,6 @@ years:
    shots-total: 18
    shots-percent: 86
  - year: 2016
-   event: Hearts
    team: Totals
    games: 11
    wins: 6
@@ -56,6 +65,23 @@ years:
    takeout-percent: 81
    shots-total: 212
    shots-percent: 80
+ - year: 2019
+   event: Hearts
+   team: "NS"
+   position: Second
+   games: 7
+   wins: 2
+   losses: 5
+   inturn-total: 79
+   inturn-percent: 69
+   outturn-total: 52
+   outturn-percent: 71
+   draw-total: 55
+   draw-percent: 65
+   takeout-total: 76
+   takeout-percent: 73
+   shots-total: 131
+   shots-percent: 70
 vs:
  - Atkinson, Rebecca
  - Birt, Suzanne
@@ -73,7 +99,6 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Jones, Jennifer
- - Kaatz, Selena
  - Larouche, Marie-France
  - Lavery, Tracey
  - Lawes, Kaitlyn
@@ -83,6 +108,7 @@ vs:
  - MacPhee, Robyn
  - McCarville, Krista
  - McEwen, Dawn
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Officer, Jill

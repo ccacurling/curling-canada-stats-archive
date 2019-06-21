@@ -226,6 +226,7 @@ vs:
  - Sanders, Pat
  - Sandison, Janice
  - Scott, Donna
+ - Sharpe, Kelli
  - Smith, Heather
  - Sonnenberg, Renee
  - Stabel, Stacey
@@ -239,7 +240,6 @@ vs:
  - Tasaka, Adina
  - Thomas, Maria
  - Thurston, Jill
- - Turpin, Kelli
  - Wall, Kirsten
  - Walter, Cathy
  - Werenka, Lil

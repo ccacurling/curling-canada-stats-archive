@@ -126,6 +126,7 @@ vs:
  - Sabourin, Joelle
  - Schikowski, Keri-Lynn
  - Schmirler, Sandra
+ - Sharpe, Kelli
  - Singler, Sherri
  - Sobey, Lianne
  - Spencer, Barb
@@ -134,7 +135,6 @@ vs:
  - Thomas, Jill
  - Thomas, Karen
  - Trowell, Cathy
- - Turpin, Kelli
  - Vey, Lana
  - Wiltzen, Jan
 ---

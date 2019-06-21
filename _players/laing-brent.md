@@ -236,7 +236,7 @@ vs:
  - Bitz, Scott
  - Blanchard, Ben
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Bouchard, Christian
  - Brannen, Jamie
  - Breckon, Graham

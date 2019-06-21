@@ -117,7 +117,6 @@ vs:
  - Dolan, Kim
  - Dolan, Sinead
  - Enright, Barb
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Gagnier, Monique
  - Galusha, Kerry
@@ -168,6 +167,7 @@ vs:
  - Overton-Clapham, Cathy
  - Parsons, Danielle
  - Peters, Laine
+ - Pilote, Kristen
  - Power, Marie-Anne
  - Provencal, Darah
  - Richards, Brette
@@ -178,6 +178,7 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Sivertson, Dailene
  - Smith, Heather
@@ -188,7 +189,6 @@ vs:
  - Stubbings, Tiffany
  - Thomas, Jill
  - Thomas-Kennell, Noelle
- - Turpin, Kelli
  - Udle, Teri
  - Walsh, Jenna
  - Wheatcroft, Georgina

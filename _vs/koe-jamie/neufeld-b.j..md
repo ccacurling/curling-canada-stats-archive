@@ -2,13 +2,13 @@
 title: Jamie Koe vs B.J. Neufeld
 player1:             
   name: Koe, Jamie   
-  percent: 75        
+  percent: 73        
   wins: 0            
-  losses: 3          
+  losses: 4          
 player2:             
   name: Neufeld, B.J.
-  percent: 93        
-  wins: 3            
+  percent: 92        
+  wins: 4            
   losses: 0          
 games:
  - player1:          
@@ -59,4 +59,20 @@ games:
    year: 2018           
    draw: Round Robin(10)
    score: NT 3 - WC 10  
+ - player1:          
+     team: 'NT'      
+     position: Fourth
+     percent: 67     
+     win: 0          
+     loss: 1         
+   player2:         
+     team: 'AB'     
+     position: Third
+     percent: 90    
+     win: 1         
+     loss: 0        
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(2)
+   score: AB 9 - NT 4  
 ---

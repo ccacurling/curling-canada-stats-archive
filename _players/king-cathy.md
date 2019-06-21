@@ -313,6 +313,7 @@ vs:
  - Schmirler, Sandra
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Singler, Sherri
  - Sonnenberg, Renee
@@ -330,7 +331,6 @@ vs:
  - Trider, Krista
  - Trowell, Cathy
  - Tucker, Cindy
- - Turpin, Kelli
  - Wall, Kirsten
  - Wheatcroft, Georgina
  - Wiltzen, Jan

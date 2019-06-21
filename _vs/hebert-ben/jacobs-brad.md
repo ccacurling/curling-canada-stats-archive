@@ -2,14 +2,14 @@
 title: Ben Hebert vs Brad Jacobs
 player1:            
   name: Hebert, Ben 
-  percent: 93       
-  wins: 5           
+  percent: 92       
+  wins: 7           
   losses: 4         
 player2:            
   name: Jacobs, Brad
-  percent: 82       
+  percent: 81       
   wins: 4           
-  losses: 5         
+  losses: 7         
 games:
  - player1:        
      team: 'AB'    
@@ -155,4 +155,36 @@ games:
    year: 2017        
    draw: Page 3-4(19)
    score: CA 6 - NO 2
+ - player1:        
+     team: 'AB'    
+     position: Lead
+     percent: 95   
+     win: 1        
+     loss: 0       
+   player2:          
+     team: 'NO'      
+     position: Fourth
+     percent: 96     
+     win: 0          
+     loss: 1         
+   event: Brier      
+   year: 2019        
+   draw: Pool(18)    
+   score: AB 7 - NO 5
+ - player1:        
+     team: 'AB'    
+     position: Lead
+     percent: 80   
+     win: 1        
+     loss: 0       
+   player2:          
+     team: 'NO'      
+     position: Fourth
+     percent: 56     
+     win: 0          
+     loss: 1         
+   event: Brier      
+   year: 2019        
+   draw: Page 1-2(20)
+   score: NO 4 - AB 9
 ---

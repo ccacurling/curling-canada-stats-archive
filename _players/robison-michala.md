@@ -68,7 +68,6 @@ years:
    shots-total: 38
    shots-percent: 72
  - year: 2014
-   event: Hearts
    team: Totals
    games: 10
    wins: 2
@@ -88,7 +87,7 @@ vs:
  - Atkinson, Rebecca
  - Baier, Stephanie
  - Brothers, Jill
- - Brown, Rachelle
+ - Brown, Rachel
  - Carey, Chelsea
  - Cooper, Kathryn
  - Cottrill, Katie

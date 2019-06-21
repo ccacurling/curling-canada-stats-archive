@@ -51,7 +51,6 @@ years:
    shots-total: 17
    shots-percent: 74
  - year: 2014
-   event: Hearts
    team: Totals
    games: 11
    wins: 2
@@ -92,7 +91,7 @@ vs:
  - Barbour, Shona
  - Birchard, Shannon
  - Brothers, Jill
- - Brown, Rachelle
+ - Brown, Rachel
  - Carey, Chelsea
  - Chislett, Geneva
  - Cooper, Kathryn
@@ -123,7 +122,6 @@ vs:
  - Hutchings, Denise
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kasner, Marliese
  - Koehler, Megan
  - Koltun, Sarah
@@ -143,6 +141,7 @@ vs:
  - McTaggart, Cary-Anne
  - Miskew, Emma
  - Moore, Kristie
+ - Njegovan, Selena
  - Nugent, Pamela
  - Officer, Jill
  - O'Rourke, Brittany

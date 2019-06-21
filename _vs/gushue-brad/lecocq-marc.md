@@ -2,14 +2,14 @@
 title: Brad Gushue vs Marc LeCocq
 player1:            
   name: Gushue, Brad
-  percent: 88       
-  wins: 2           
+  percent: 87       
+  wins: 3           
   losses: 2         
 player2:            
   name: LeCocq, Marc
-  percent: 86       
+  percent: 85       
   wins: 2           
-  losses: 2         
+  losses: 3         
 games:
  - player1:          
      team: 'NL'      
@@ -75,4 +75,20 @@ games:
    year: 2017          
    draw: Round Robin(5)
    score: NL 5 - NB 4  
+ - player1:          
+     team: 'CA'      
+     position: Fourth
+     percent: 84     
+     win: 1          
+     loss: 0         
+   player2:          
+     team: 'NB'      
+     position: Second
+     percent: 79     
+     win: 0          
+     loss: 1         
+   event: Brier         
+   year: 2019           
+   draw: Round Robin(10)
+   score: CA 8 - NB 7   
 ---

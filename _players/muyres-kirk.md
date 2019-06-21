@@ -2,19 +2,19 @@
 title: Kirk Muyres
 name: Kirk Muyres
 name-sort: Muyres, Kirk
-games: 46
-wins: 25
-losses: 21
-inturn-total: 498
-inturn-percent: 87
-outturn-total: 414
-outturn-percent: 84
-draw-total: 361
-draw-percent: 84
-takeout-total: 551
-takeout-percent: 87
-shots-total: 912
-shots-percent: 86
+games: 57
+wins: 30
+losses: 27
+inturn-total: 605
+inturn-percent: 86
+outturn-total: 504
+outturn-percent: 83
+draw-total: 445
+draw-percent: 83
+takeout-total: 664
+takeout-percent: 86
+shots-total: 1109
+shots-percent: 85
 years:
  - year: 2014
    event: Brier
@@ -84,21 +84,43 @@ years:
    takeout-percent: 85
    shots-total: 212
    shots-percent: 84
+ - year: 2019
+   event: Brier
+   team: "SK"
+   position: Fourth
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 107
+   inturn-percent: 80
+   outturn-total: 90
+   outturn-percent: 78
+   draw-total: 84
+   draw-percent: 77
+   takeout-total: 113
+   takeout-percent: 81
+   shots-total: 197
+   shots-percent: 79
 vs:
+ - Abel, Clinton
  - Asselin, Felix
  - Balsdon, Greg
  - Bardsley, Mike
  - Barry, Josh
+ - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
+ - Boland, Adam
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brannen, Jamie
+ - Burgess, Steve
  - Camm, Mathew
  - Carmody, Anson
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
+ - Chadwick, Scott
  - Childs, Jamie
  - Chorostkowski, Brad
  - Cotter, Jim
@@ -110,7 +132,10 @@ vs:
  - Eldridge, Zach
  - Epping, John
  - Farnell, Jamie
+ - Flasch, Colton
  - Flemming, Paul
+ - Ford, Chris
+ - Forget, Wes
  - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
@@ -129,6 +154,7 @@ vs:
  - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Jewer, Keith
  - Jones, Scott
  - Kean, Mark
  - Kennedy, Marc
@@ -139,8 +165,11 @@ vs:
  - Koivula, Colin
  - Kuhn, Ryan
  - Laing, Brent
+ - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
+ - Lemay, Philippe
+ - Likely, John
  - MacKenzie, Eddie
  - MacKenzie, Tyler
  - Mackey, Peter
@@ -151,6 +180,7 @@ vs:
  - McCann, Andy
  - McCarville, Mike
  - McDermaid, Donald
+ - McDonald, Scott
  - McEwen, Mike
  - Mead, Jonathan
  - Menard, Jean-Michel
@@ -160,10 +190,12 @@ vs:
  - Moskowy, Braeden
  - Moulding, Darren
  - Murphy, Jamie
+ - Nabuurs, Matt
  - Nadeau, Jeff
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Odian, Scott
  - Pinder, Jordan
  - Roach, Darren
  - Roach, Jason
@@ -174,10 +206,13 @@ vs:
  - Sawatsky, Rick
  - Schille, Chris
  - Simmons, Pat
+ - Smallwood, Robert
+ - Solberg, Jonathon
  - Spencer, Adam
  - St.Louis, David
  - Stoughton, Jeff
  - Sylvain, Eric
+ - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
  - Trepanier, Jean-Francois

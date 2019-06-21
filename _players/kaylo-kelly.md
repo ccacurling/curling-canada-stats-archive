@@ -250,6 +250,7 @@ vs:
  - Scales, Julie
  - Schikowski, Keri-Lynn
  - Schmirler, Sandra
+ - Sharpe, Kelli
  - Shigehiro, Sally
  - Skinner, Julie
  - Smith, Yvonne
@@ -264,7 +265,6 @@ vs:
  - Trider, Krista
  - Trowell, Cathy
  - Turcotte, Kristin
- - Turpin, Kelli
  - Webb, Corine
  - Willms, Karri
  - Wiltzen, Jan

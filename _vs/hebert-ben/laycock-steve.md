@@ -2,14 +2,14 @@
 title: Ben Hebert vs Steve Laycock
 player1:              
   name: Hebert, Ben   
-  percent: 91         
-  wins: 4             
+  percent: 92         
+  wins: 5             
   losses: 2           
 player2:              
   name: Laycock, Steve
-  percent: 85         
+  percent: 84         
   wins: 2             
-  losses: 4           
+  losses: 5           
 games:
  - player1:        
      team: 'AB'    
@@ -107,4 +107,20 @@ games:
    year: 2016           
    draw: Round Robin(16)
    score: SK 5 - AB 7   
+ - player1:        
+     team: 'AB'    
+     position: Lead
+     percent: 94   
+     win: 1        
+     loss: 0       
+   player2:         
+     team: 'BC'     
+     position: Third
+     percent: 75    
+     win: 0         
+     loss: 1        
+   event: Brier         
+   year: 2019           
+   draw: Round Robin(10)
+   score: AB 9 - BC 5   
 ---

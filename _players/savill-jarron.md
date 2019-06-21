@@ -41,7 +41,6 @@ years:
    shots-total: 20
    shots-percent: 64
  - year: 1987
-   event: Hearts
    team: Totals
    games: 12
    wins: 7

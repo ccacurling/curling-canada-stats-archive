@@ -3,13 +3,13 @@ title: Reid Carruthers vs Kirk Muyres
 player1:                
   name: Carruthers, Reid
   percent: 80           
-  wins: 2               
+  wins: 3               
   losses: 1             
 player2:                
   name: Muyres, Kirk    
-  percent: 86           
+  percent: 82           
   wins: 1               
-  losses: 2             
+  losses: 3             
 games:
  - player1:        
      team: 'MB'    
@@ -59,4 +59,20 @@ games:
    year: 2018          
    draw: Round Robin(3)
    score: SK 5 - MB 7  
+ - player1:         
+     team: 'MB'     
+     position: Third
+     percent: 79    
+     win: 1         
+     loss: 0        
+   player2:          
+     team: 'SK'      
+     position: Fourth
+     percent: 71     
+     win: 0          
+     loss: 1         
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(1)
+   score: MB 7 - SK 6  
 ---

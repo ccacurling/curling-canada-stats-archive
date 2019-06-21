@@ -39,10 +39,10 @@ games:
      percent: 65   
      win: 0        
      loss: 1       
-   event: Hearts     
-   year: 1996        
-   draw: Playoff(19) 
-   score: PE 5 - CA 6
+   event: Hearts        
+   year: 1996           
+   draw: Tie-Breaker(19)
+   score: PE 5 - CA 6   
  - player1:          
      team: 'MB'      
      position: Fourth

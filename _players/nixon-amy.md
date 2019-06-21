@@ -197,7 +197,6 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kalenchuk, Heather
  - Kelly, Kim
  - Kerr, Kathy
@@ -236,6 +235,7 @@ vs:
  - Moss, Debbie
  - Mulroney, Sandra
  - Murphy, Sarah
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nowlan, Denise

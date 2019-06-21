@@ -55,7 +55,6 @@ years:
    shots-total: 94
    shots-percent: 67
  - year: 1996
-   event: Hearts
    team: Totals
    games: 11
    wins: 1

@@ -2,19 +2,19 @@
 title: Darren Moulding
 name: Darren Moulding
 name-sort: Moulding, Darren
-games: 25
-wins: 13
-losses: 12
-inturn-total: 261
-inturn-percent: 82
-outturn-total: 209
-outturn-percent: 81
-draw-total: 204
+games: 39
+wins: 23
+losses: 16
+inturn-total: 407
+inturn-percent: 83
+outturn-total: 315
+outturn-percent: 82
+draw-total: 302
 draw-percent: 83
-takeout-total: 266
-takeout-percent: 80
-shots-total: 470
-shots-percent: 81
+takeout-total: 420
+takeout-percent: 82
+shots-total: 722
+shots-percent: 83
 years:
  - year: 2017
    event: Brier
@@ -50,21 +50,48 @@ years:
    takeout-percent: 82
    shots-total: 266
    shots-percent: 82
+ - year: 2019
+   event: Brier
+   team: "WC"
+   position: Third
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 146
+   inturn-percent: 86
+   outturn-total: 106
+   outturn-percent: 83
+   draw-total: 98
+   draw-percent: 83
+   takeout-total: 154
+   takeout-percent: 86
+   shots-total: 252
+   shots-percent: 85
 vs:
+ - Abel, Clinton
  - Appelman, Tom
+ - Beuk, Jonathan
+ - Boland, Adam
  - Borden, Robert
  - Brannen, Jamie
+ - Burgess, Steve
  - Camm, Mathew
+ - Carmody, Anson
  - Carruthers, Reid
  - Casey, Adam
+ - Chadwick, Scott
  - Chorostkowski, Brad
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
+ - Doherty, Robert
  - Dunstone, Matthew
  - Epping, John
  - Fecteau, Steve
+ - Flasch, Colton
  - Flemming, Paul
+ - Ford, Chris
+ - Forget, Wes
  - Fry, Ryan
  - Gallant, Brett
  - Geall, Sean
@@ -81,6 +108,7 @@ vs:
  - Hunt, Matthew
  - Jacobs, Brad
  - Janssen, Patrick
+ - Jewer, Keith
  - Jones, Scott
  - Kennedy, Marc
  - Kennedy, Mike
@@ -90,8 +118,13 @@ vs:
  - Laing, Brent
  - Laycock, Steve
  - LeCocq, Marc
+ - Lemay, Philippe
+ - Likely, John
  - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Mathers, David
+ - McDonald, Scott
  - McEwen, Mike
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
@@ -101,11 +134,13 @@ vs:
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nabuurs, Matt
  - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
  - Pinder, Jordan
+ - Rach, Dave
  - Richard, Jeff
  - Saccary, Scott
  - Samagalski, Derek
@@ -115,9 +150,12 @@ vs:
  - Scoffin, Thomas
  - Scoffin, Wade
  - Skauge, Greg
+ - Smallwood, Robert
  - Smith, Greg
+ - Solberg, Jonathon
  - Stapleton, Connor
  - Sylvain, Eric
+ - Symonds, Andrew
  - Taylor, Andrew
  - Walker, Geoff
  - Withycombe, Ian

@@ -41,7 +41,7 @@ games:
      loss: 0         
    event: Brier      
    year: 2002        
-   draw: Playoff(19) 
+   draw: Page 1-2(19)
    score: AB 7 - ON 3
  - player1:        
      team: 'ON'    
@@ -57,6 +57,6 @@ games:
      loss: 0         
    event: Brier      
    year: 2002        
-   draw: Playoff(21) 
+   draw: Final(21)   
    score: AB 9 - ON 4
 ---

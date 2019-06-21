@@ -166,6 +166,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Seitz, Susan
+ - Sharpe, Kelli
  - Shields, Gail
  - Simons, Renee
  - Singler, Sherri
@@ -175,7 +176,6 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
- - Turpin, Kelli
  - Twa, Dale
  - Udle, Teri
  - Vaughan, Marlene

@@ -3,13 +3,13 @@ title: Ryan Fry vs Brad Gushue
 player1:            
   name: Fry, Ryan   
   percent: 88       
-  wins: 4           
+  wins: 5           
   losses: 5         
 player2:            
   name: Gushue, Brad
-  percent: 87       
+  percent: 88       
   wins: 5           
-  losses: 4         
+  losses: 5         
 games:
  - player1:         
      team: 'MB'     
@@ -155,4 +155,20 @@ games:
    year: 2018        
    draw: Pool(18)    
    score: CA 5 - NO 3
+ - player1:         
+     team: 'NO'     
+     position: Third
+     percent: 86    
+     win: 1         
+     loss: 0        
+   player2:          
+     team: 'CA'      
+     position: Fourth
+     percent: 92     
+     win: 0          
+     loss: 1         
+   event: Brier      
+   year: 2019        
+   draw: Pool(17)    
+   score: NO 7 - CA 6
 ---

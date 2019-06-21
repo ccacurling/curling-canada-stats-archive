@@ -2,19 +2,19 @@
 title: Joanne Courtney
 name: Joanne Courtney
 name-sort: Courtney, Joanne
-games: 41
-wins: 30
-losses: 11
-inturn-total: 442
-inturn-percent: 85
-outturn-total: 362
+games: 55
+wins: 40
+losses: 15
+inturn-total: 575
+inturn-percent: 84
+outturn-total: 480
 outturn-percent: 83
-draw-total: 297
-draw-percent: 81
-takeout-total: 507
+draw-total: 398
+draw-percent: 80
+takeout-total: 657
 takeout-percent: 85
-shots-total: 804
-shots-percent: 84
+shots-total: 1055
+shots-percent: 83
 years:
  - year: 2014
    event: Hearts
@@ -67,6 +67,23 @@ years:
    takeout-percent: 90
    shots-total: 274
    shots-percent: 86
+ - year: 2019
+   event: Hearts
+   team: "ON"
+   position: Second
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 133
+   inturn-percent: 83
+   outturn-total: 118
+   outturn-percent: 83
+   draw-total: 101
+   draw-percent: 79
+   takeout-total: 150
+   takeout-percent: 86
+   shots-total: 251
+   shots-percent: 83
 vs:
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
@@ -83,7 +100,7 @@ vs:
  - Boyle, Jane
  - Bradley, Shelly
  - Brothers, Jill
- - Brown, Rachelle
+ - Brown, Rachel
  - Cameron, Kate
  - Camozzi, Rhona
  - Carey, Chelsea
@@ -107,7 +124,6 @@ vs:
  - Englot, Michelle
  - Eyamie, Lisa
  - Ferguson, Dana
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Flaxey, Allison
  - Foster, Kristen
@@ -152,6 +168,7 @@ vs:
  - Parsons, Danielle
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
  - Richard, Marie

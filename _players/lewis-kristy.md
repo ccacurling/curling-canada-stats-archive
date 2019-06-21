@@ -125,9 +125,9 @@ vs:
  - Robinson, Lori
  - Scales, Julie
  - Schmirler, Sandra
+ - Sharpe, Kelli
  - Strong, Heather
  - Thomas, Karen
  - Trider, Krista
- - Turpin, Kelli
  - Wiltzen, Jan
 ---

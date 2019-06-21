@@ -164,6 +164,7 @@ vs:
  - Schmirler, Sandra
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shields, Deanne
  - Simons, Renee
  - Singler, Sherri
@@ -171,7 +172,6 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
- - Turpin, Kelli
  - Udle, Teri
  - Vey, Lana
  - Wheatcroft, Georgina

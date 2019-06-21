@@ -2,18 +2,18 @@
 title: Colin Hodgson
 name: Colin Hodgson
 name-sort: Hodgson, Colin
-games: 22
-wins: 9
-losses: 13
-inturn-total: 184
+games: 33
+wins: 15
+losses: 18
+inturn-total: 249
 inturn-percent: 90
-outturn-total: 212
-outturn-percent: 94
-draw-total: 362
-draw-percent: 92
-takeout-total: 34
-takeout-percent: 86
-shots-total: 396
+outturn-total: 359
+outturn-percent: 93
+draw-total: 548
+draw-percent: 93
+takeout-total: 60
+takeout-percent: 85
+shots-total: 608
 shots-percent: 92
 years:
  - year: 2015
@@ -50,16 +50,38 @@ years:
    takeout-percent: 83
    shots-total: 197
    shots-percent: 89
+ - year: 2019
+   event: Brier
+   team: "MB"
+   position: Lead
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 65
+   inturn-percent: 90
+   outturn-total: 147
+   outturn-percent: 93
+   draw-total: 186
+   draw-percent: 93
+   takeout-total: 26
+   takeout-percent: 83
+   shots-total: 212
+   shots-percent: 92
 vs:
+ - Abel, Clinton
  - Asselin, Felix
  - Barry, Josh
+ - Beuk, Jonathan
  - Bezanson, Jared
+ - Boland, Adam
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
+ - Burgess, Steve
  - Camm, Mathew
  - Carmody, Anson
  - Case, Peter
  - Casey, Adam
+ - Chadwick, Scott
  - Chorostkowski, Brad
  - Cotter, Jim
  - Crete, Martin
@@ -71,6 +93,8 @@ vs:
  - Epping, John
  - Flasch, Colton
  - Flemming, Paul
+ - Ford, Chris
+ - Forget, Wes
  - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
@@ -85,6 +109,7 @@ vs:
  - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Jewer, Keith
  - Kean, Mark
  - Kennedy, Marc
  - Kingdon, Wade
@@ -94,13 +119,18 @@ vs:
  - Laing, Brent
  - Laycock, Steve
  - Ledgerwood, Sean
+ - Lemay, Philippe
+ - Likely, John
  - MacKenzie, Eddie
  - Mackey, Peter
  - Mallais, Jeremy
  - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
+ - McDonald, Scott
  - McEwen, Mike
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -113,12 +143,17 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Odian, Scott
+ - Rach, Dave
  - Rycroft, Carter
  - Saccary, Scott
  - Sawatsky, Rick
  - Simmons, Pat
+ - Smallwood, Robert
+ - Solberg, Jonathon
  - St.Louis, David
  - Sylvain, Eric
+ - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
  - Trepanier, Jean-Francois

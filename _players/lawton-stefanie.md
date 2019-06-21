@@ -2,19 +2,19 @@
 title: Stefanie Lawton
 name: Stefanie Lawton
 name-sort: Lawton, Stefanie
-games: 51
-wins: 31
-losses: 20
-inturn-total: 520
+games: 64
+wins: 39
+losses: 25
+inturn-total: 642
 inturn-percent: 80
-outturn-total: 450
+outturn-total: 580
 outturn-percent: 81
-draw-total: 430
+draw-total: 521
 draw-percent: 79
-takeout-total: 540
+takeout-total: 701
 takeout-percent: 82
-shots-total: 970
-shots-percent: 81
+shots-total: 1222
+shots-percent: 80
 years:
  - year: 2005
    event: Hearts
@@ -84,27 +84,50 @@ years:
    takeout-percent: 81
    shots-total: 266
    shots-percent: 81
+ - year: 2019
+   event: Hearts
+   team: "SK"
+   position: Third
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 122
+   inturn-percent: 81
+   outturn-total: 130
+   outturn-percent: 79
+   draw-total: 91
+   draw-percent: 77
+   takeout-total: 161
+   takeout-percent: 81
+   shots-total: 252
+   shots-percent: 80
 vs:
  - Allen, Michelle
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Baier, Stephanie
+ - Baldwin, Nicole
  - Barbour, Shona
  - Baxter, Jen
  - Belanger, Nancy
  - Bernard, Cheryl
+ - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Boudreault, Patricia
  - Boyle, Jane
  - Bradley, Shelly
  - Brothers, Jill
  - Brown, Jacalyn
- - Brown, Rachelle
+ - Brown, Rachel
  - Bush, Tracy
  - Camozzi, Rhona
  - Carey, Chelsea
  - Carter, Sasha
+ - Christianson, Marie
  - Clark, Stefanie
  - Collins, Katrina
  - Comeau, Sandy
@@ -116,6 +139,7 @@ vs:
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jessica
+ - Daigle, Julie
  - Darbyshire, Carolyn
  - Delahunt, Nancy
  - Derick, Catherine
@@ -126,7 +150,6 @@ vs:
  - Enright, Barb
  - Farrell, Allison
  - Ferguson, Dana
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Flaxey, Allison
  - Fortier, Marie-Josee
@@ -135,17 +158,23 @@ vs:
  - Galusha, Kerry
  - Gannon, Melissa
  - Gates, Amanda
+ - Gates, Jenny
  - Gauthier, Cathy
  - George, Tara
  - Gilman, Sheena
  - Goss, Peg
+ - Griffin, Alison
  - Gushulak, Diane
+ - Guzzwell, Stephanie
  - Hamilton, Beth
  - Hanna, Jenn
  - Hanna, Stephanie
  - Hastings, Julie
  - Homan, Rachel
  - Horgan, Tracy
+ - Hughes, Meaghan
+ - Ingram, Megan
+ - Jewer, Michelle
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
@@ -158,10 +187,12 @@ vs:
  - Kreviazuk, Lynn
  - Lang, Lorraine
  - Larouche, Marie-France
+ - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Leger, Stacey
  - Lemay, Annie
  - Letendre, Pascale
+ - Lilly, Kendra
  - Lowther, Tammi
  - MacDonald, Rebecca Jean
  - MacInnes, Grace
@@ -182,6 +213,7 @@ vs:
  - Moriarty, Monica
  - Morris, Cori
  - Moses, Dawn
+ - Munroe, Anna
  - Muzika, Shelley
  - Nicholls, Brenda
  - Nowlan, Denise
@@ -193,6 +225,9 @@ vs:
  - O'Rourke, Brittany
  - Overton-Clapham, Cathy
  - Parsons, Danielle
+ - Peterman, Jocelyn
+ - Pilote, Kristen
+ - Potts, Sarah
  - Prosser, Sandi
  - Richard, Marie
  - Richards, Brette
@@ -207,6 +242,8 @@ vs:
  - Sandwith, Carley
  - Schmidt, Stephanie
  - Scott, Kelly
+ - Sharpe, Kelli
+ - Shaw, Ladene
  - Simons, Renee
  - Sinclair, Andrea
  - Smith, Heather
@@ -215,18 +252,22 @@ vs:
  - Sobey, Lianne
  - Spencer, Barb
  - Strong, Heather
+ - Strong, Helen
  - Strong, Laura
  - Sweeting, Valerie
  - Thomas, Jill
  - Thomas-Kennell, Noelle
  - Titheridge, Lindsay
+ - Tran, Brittany
  - Trombley, Christy
- - Turpin, Kelli
  - Udle, Teri
  - Van Osch, Kesa
+ - Vautour, Carrie
  - Wallingham, Patty
  - Walsh, Jenna
+ - Wark, Sarah
  - Weagle, Lisa
+ - Wilkes, Sarah
  - Wylie, Jennifer
  - Zinck, Kay
 ---

@@ -263,6 +263,7 @@ vs:
  - Schmirler, Sandra
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simmons, Cindy
  - Simons, Renee
  - Singler, Sherri
@@ -281,7 +282,6 @@ vs:
  - Thompson, Karla
  - Tincher, Twyla
  - Tucker, Cindy
- - Turpin, Kelli
  - Vey, Lana
  - Wall, Kirsten
  - Walter, Cathy

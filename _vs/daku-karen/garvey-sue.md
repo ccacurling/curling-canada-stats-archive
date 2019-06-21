@@ -39,8 +39,8 @@ games:
      percent: 86     
      win: 1          
      loss: 0         
-   event: Hearts     
-   year: 1998        
-   draw: Playoff(18) 
-   score: SK 4 - BC 6
+   event: Hearts        
+   year: 1998           
+   draw: Tie-Breaker(18)
+   score: SK 4 - BC 6   
 ---

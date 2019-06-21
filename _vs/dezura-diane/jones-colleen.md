@@ -57,7 +57,7 @@ games:
      loss: 0         
    event: Hearts     
    year: 2001        
-   draw: Playoff(19) 
+   draw: Page 1-2(19)
    score: CA 4 - NS 7
  - player1:        
      team: 'CA'    
@@ -73,7 +73,7 @@ games:
      loss: 0         
    event: Hearts     
    year: 2001        
-   draw: Playoff(22) 
+   draw: Final(22)   
    score: CA 6 - NS 7
  - player1:        
      team: 'BC'    

@@ -2,13 +2,13 @@
 title: Brett Gallant vs B.J. Neufeld
 player1:              
   name: Gallant, Brett
-  percent: 91         
+  percent: 92         
   wins: 3             
-  losses: 1           
+  losses: 2           
 player2:              
   name: Neufeld, B.J. 
-  percent: 86         
-  wins: 1             
+  percent: 87         
+  wins: 2             
   losses: 3           
 games:
  - player1:          
@@ -75,4 +75,20 @@ games:
    year: 2018          
    draw: Round Robin(8)
    score: WC 5 - CA 6  
+ - player1:          
+     team: 'CA'      
+     position: Second
+     percent: 94     
+     win: 0          
+     loss: 1         
+   player2:         
+     team: 'AB'     
+     position: Third
+     percent: 93    
+     win: 1         
+     loss: 0        
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(8)
+   score: CA 6 - AB 7  
 ---

@@ -146,7 +146,7 @@ vs:
  - Bilesky, Andrew
  - Blanchard, Wade
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Bouchard, Christian
  - Burgess, Bryan
  - Burtnyk, Kerry

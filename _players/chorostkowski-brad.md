@@ -51,7 +51,6 @@ years:
    shots-total: 20
    shots-percent: 76
  - year: 1998
-   event: Brier
    team: Totals
    games: 10
    wins: 1
@@ -308,7 +307,7 @@ vs:
  - Bice, Steve
  - Bilesky, Andrew
  - Bitz, Scott
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Bouchard, Christian
  - Brannen, Jamie
  - Breckon, Graham

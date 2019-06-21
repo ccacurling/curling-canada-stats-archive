@@ -2,14 +2,14 @@
 title: E.J. Harnden vs Geoff Walker
 player1:             
   name: Harnden, E.J.
-  percent: 88        
-  wins: 3            
+  percent: 89        
+  wins: 4            
   losses: 4          
 player2:             
   name: Walker, Geoff
   percent: 91        
   wins: 4            
-  losses: 3          
+  losses: 4          
 games:
  - player1:         
      team: 'NO'     
@@ -123,4 +123,20 @@ games:
    year: 2018        
    draw: Pool(18)    
    score: CA 5 - NO 3
+ - player1:          
+     team: 'NO'      
+     position: Second
+     percent: 90     
+     win: 1          
+     loss: 0         
+   player2:        
+     team: 'CA'    
+     position: Lead
+     percent: 91   
+     win: 0        
+     loss: 1       
+   event: Brier      
+   year: 2019        
+   draw: Pool(17)    
+   score: NO 7 - CA 6
 ---

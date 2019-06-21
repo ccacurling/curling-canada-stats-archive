@@ -89,7 +89,6 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kasner, Marliese
  - Kelly, Kim
  - King, Cathy
@@ -109,6 +108,7 @@ vs:
  - Mittelstadt, Candice
  - Moriarty, Monica
  - Murphy, Sarah
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Officer, Jill
@@ -128,13 +128,13 @@ vs:
  - Rocque, Raylene
  - Ross, Allison
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Singler, Sherri
  - Sippala, Ashley
  - Strong, Heather
  - Strong, Laura
  - Thompson, Karla
- - Turpin, Kelli
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie

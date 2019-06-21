@@ -68,7 +68,6 @@ years:
    shots-total: 6
    shots-percent: 54
  - year: 2016
-   event: Hearts
    team: Totals
    games: 2
    wins: 1
@@ -126,10 +125,10 @@ vs:
  - Rocque, Raylene
  - Ross, Allison
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Singler, Sherri
  - Strong, Heather
  - Strong, Laura
- - Turpin, Kelli
  - Zinck, Kay
 ---

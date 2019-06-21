@@ -33,7 +33,7 @@ vs:
  - Blais, Amelie
  - Boyle, Jane
  - Bradley, Shelly
- - Brown, Rachelle
+ - Brown, Rachel
  - Collins, Katrina
  - Cooper, Kathryn
  - Courtney, Joanne

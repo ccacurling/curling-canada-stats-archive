@@ -166,7 +166,7 @@ vs:
  - Berthelot, Marco
  - Bitz, Scott
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Bouchard, Christian
  - Brannen, Jamie
  - Bryant, Doug

@@ -4,11 +4,11 @@ player1:
   name: Laycock, Steve
   percent: 86         
   wins: 2             
-  losses: 6           
+  losses: 7           
 player2:              
   name: Nichols, Mark 
   percent: 85         
-  wins: 6             
+  wins: 7             
   losses: 2           
 games:
  - player1:        
@@ -139,4 +139,20 @@ games:
    year: 2018        
    draw: Pool(16)    
    score: SK 4 - CA 5
+ - player1:         
+     team: 'BC'     
+     position: Third
+     percent: 86    
+     win: 0         
+     loss: 1        
+   player2:         
+     team: 'CA'     
+     position: Third
+     percent: 81    
+     win: 1         
+     loss: 0        
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(6)
+   score: BC 4 - CA 10 
 ---

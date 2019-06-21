@@ -120,13 +120,13 @@ vs:
  - Sabourin, Joelle
  - Scales, Julie
  - Schmirler, Sandra
+ - Sharpe, Kelli
  - Skinner, Julie
  - Smith, Heather
  - Stahl, Carrie
  - Stewart, Sheri
  - Strong, Heather
  - Thomas, Karen
- - Turpin, Kelli
  - Wheatcroft, Georgina
  - Wiltzen, Jan
  - Wright, Susan

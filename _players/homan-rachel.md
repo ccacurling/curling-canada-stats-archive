@@ -2,18 +2,18 @@
 title: Rachel Homan
 name: Rachel Homan
 name-sort: Homan, Rachel
-games: 67
-wins: 54
-losses: 13
-inturn-total: 656
+games: 81
+wins: 64
+losses: 17
+inturn-total: 781
 inturn-percent: 83
-outturn-total: 563
+outturn-total: 706
 outturn-percent: 83
-draw-total: 489
+draw-total: 615
 draw-percent: 80
-takeout-total: 730
+takeout-total: 872
 takeout-percent: 86
-shots-total: 1219
+shots-total: 1487
 shots-percent: 83
 years:
  - year: 2011
@@ -101,6 +101,23 @@ years:
    takeout-percent: 86
    shots-total: 262
    shots-percent: 84
+ - year: 2019
+   event: Hearts
+   team: "ON"
+   position: Fourth
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 125
+   inturn-percent: 84
+   outturn-total: 143
+   outturn-percent: 83
+   draw-total: 126
+   draw-percent: 79
+   takeout-total: 142
+   takeout-percent: 88
+   shots-total: 268
+   shots-percent: 84
 vs:
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
@@ -124,7 +141,7 @@ vs:
  - Bradley, Shelly
  - Brassard, Veronique
  - Brothers, Jill
- - Brown, Rachelle
+ - Brown, Rachel
  - Cameron, Kate
  - Camozzi, Rhona
  - Carey, Chelsea
@@ -155,7 +172,6 @@ vs:
  - Eyamie, Lisa
  - Fallis, Karen
  - Ferguson, Dana
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Flaxey, Allison
  - Foster, Kristen
@@ -221,6 +237,7 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
  - Richard, Marie

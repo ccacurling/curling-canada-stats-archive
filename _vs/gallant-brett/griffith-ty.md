@@ -2,14 +2,14 @@
 title: Brett Gallant vs Ty Griffith
 player1:              
   name: Gallant, Brett
-  percent: 85         
-  wins: 2             
+  percent: 86         
+  wins: 3             
   losses: 2           
 player2:              
   name: Griffith, Ty  
-  percent: 90         
+  percent: 88         
   wins: 2             
-  losses: 2           
+  losses: 3           
 games:
  - player1:         
      team: 'NL'     
@@ -75,4 +75,20 @@ games:
    year: 2017           
    draw: Round Robin(12)
    score: BC 4 - NL 5   
+ - player1:          
+     team: 'CA'      
+     position: Second
+     percent: 89     
+     win: 1          
+     loss: 0         
+   player2:          
+     team: 'BC'      
+     position: Second
+     percent: 73     
+     win: 0          
+     loss: 1         
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(6)
+   score: BC 4 - CA 10 
 ---

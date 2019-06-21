@@ -2,14 +2,14 @@
 title: Ben Hebert vs Kirk Muyres
 player1:            
   name: Hebert, Ben 
-  percent: 94       
-  wins: 1           
+  percent: 92       
+  wins: 2           
   losses: 1         
 player2:            
   name: Muyres, Kirk
-  percent: 91       
+  percent: 85       
   wins: 1           
-  losses: 1         
+  losses: 2         
 games:
  - player1:        
      team: 'AB'    
@@ -43,4 +43,20 @@ games:
    year: 2016           
    draw: Round Robin(16)
    score: SK 5 - AB 7   
+ - player1:        
+     team: 'AB'    
+     position: Lead
+     percent: 86   
+     win: 1        
+     loss: 0       
+   player2:          
+     team: 'SK'      
+     position: Fourth
+     percent: 69     
+     win: 0          
+     loss: 1         
+   event: Brier      
+   year: 2019        
+   draw: Pool(17)    
+   score: AB 9 - SK 3
 ---

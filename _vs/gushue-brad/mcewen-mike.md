@@ -2,14 +2,14 @@
 title: Brad Gushue vs Mike McEwen
 player1:            
   name: Gushue, Brad
-  percent: 91       
-  wins: 3           
+  percent: 90       
+  wins: 4           
   losses: 1         
 player2:            
   name: McEwen, Mike
-  percent: 84       
+  percent: 83       
   wins: 1           
-  losses: 3         
+  losses: 4         
 games:
  - player1:          
      team: 'NL'      
@@ -75,4 +75,20 @@ games:
    year: 2018          
    draw: Round Robin(8)
    score: WC 5 - CA 6  
+ - player1:          
+     team: 'CA'      
+     position: Fourth
+     percent: 84     
+     win: 1          
+     loss: 0         
+   player2:          
+     team: 'MB'      
+     position: Fourth
+     percent: 80     
+     win: 0          
+     loss: 1         
+   event: Brier      
+   year: 2019        
+   draw: Pool(15)    
+   score: CA 6 - MB 3
 ---

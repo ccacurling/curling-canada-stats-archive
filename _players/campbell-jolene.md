@@ -51,7 +51,6 @@ years:
    shots-total: 30
    shots-percent: 81
  - year: 2010
-   event: Hearts
    team: Totals
    games: 3
    wins: 2
@@ -101,7 +100,6 @@ years:
    shots-total: 20
    shots-percent: 80
  - year: 2011
-   event: Hearts
    team: Totals
    games: 3
    wins: 2
@@ -169,7 +167,6 @@ vs:
  - Hughes, Meaghan
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Koehler, Megan
  - Larouche, Marie-France
  - Lavery, Tracey
@@ -183,6 +180,7 @@ vs:
  - Moses, Dawn
  - Murphy, Sarah
  - Naugler, Tara
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Officer, Jill

@@ -235,6 +235,7 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shigehiro, Sally
  - Singler, Sherri
  - Sippala, Ashley
@@ -250,7 +251,6 @@ vs:
  - Thomas, Jill
  - Thomas, Maria
  - Thurston, Jill
- - Turpin, Kelli
  - Udle, Teri
  - Vey, Lana
  - Weagle, Lisa

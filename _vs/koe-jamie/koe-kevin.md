@@ -2,13 +2,13 @@
 title: Jamie Koe vs Kevin Koe
 player1:          
   name: Koe, Jamie
-  percent: 74     
+  percent: 73     
   wins: 0         
-  losses: 7       
+  losses: 8       
 player2:          
   name: Koe, Kevin
-  percent: 88     
-  wins: 7         
+  percent: 87     
+  wins: 8         
   losses: 0       
 games:
  - player1:          
@@ -123,4 +123,20 @@ games:
    year: 2017           
    draw: Round Robin(13)
    score: NT 6 - CA 8   
+ - player1:          
+     team: 'NT'      
+     position: Fourth
+     percent: 67     
+     win: 0          
+     loss: 1         
+   player2:          
+     team: 'AB'      
+     position: Fourth
+     percent: 81     
+     win: 1          
+     loss: 0         
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(2)
+   score: AB 9 - NT 4  
 ---

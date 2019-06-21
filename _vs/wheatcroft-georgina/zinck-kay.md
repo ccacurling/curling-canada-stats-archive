@@ -39,8 +39,8 @@ games:
      percent: 84     
      win: 0          
      loss: 1         
-   event: Hearts     
-   year: 2000        
-   draw: Playoff(18) 
-   score: BC 7 - NS 5
+   event: Hearts        
+   year: 2000           
+   draw: Tie-Breaker(18)
+   score: BC 7 - NS 5   
 ---

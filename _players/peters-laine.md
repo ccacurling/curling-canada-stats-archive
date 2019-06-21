@@ -266,7 +266,6 @@ vs:
  - Jones, Jennifer
  - Jones-Walker, Debbie
  - Joyce, Blisse
- - Kaatz, Selena
  - Kalenchuk, Heather
  - Kelly, Kim
  - Kerr, Kathy
@@ -315,6 +314,7 @@ vs:
  - Mulroney, Sandra
  - Murphy, Sarah
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
@@ -341,6 +341,7 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shumay, Jill
  - Sicinski, Danielle
  - Simmons, Cindy
@@ -363,7 +364,6 @@ vs:
  - Thomas-Kennell, Noelle
  - Thompson, Karla
  - Trickett, Erica
- - Turpin, Kelli
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie

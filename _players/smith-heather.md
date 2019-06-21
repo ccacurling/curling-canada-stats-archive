@@ -122,7 +122,7 @@ vs:
  - Bradley, Shelly
  - Brassard, Veronique
  - Breen, Theresa
- - Brown, Rachelle
+ - Brown, Rachel
  - Cameron, Nancy
  - Campbell, June
  - Carey, Chelsea
@@ -242,6 +242,7 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Sinclair, Andrea
  - Singler, Sherri
  - Sivertson, Dailene
@@ -256,7 +257,6 @@ vs:
  - Sweeting, Valerie
  - Titheridge, Lindsay
  - Tuck, Kim
- - Turpin, Kelli
  - Van Osch, Kesa
  - Vey, Lana
  - Wall, Kirsten

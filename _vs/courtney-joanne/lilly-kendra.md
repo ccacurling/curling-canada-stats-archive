@@ -2,14 +2,14 @@
 title: Joanne Courtney vs Kendra Lilly
 player1:                
   name: Courtney, Joanne
-  percent: 94           
-  wins: 2               
+  percent: 86           
+  wins: 4               
   losses: 0             
 player2:                
   name: Lilly, Kendra   
-  percent: 83           
+  percent: 77           
   wins: 0               
-  losses: 2             
+  losses: 4             
 games:
  - player1:          
      team: 'ON'      
@@ -39,8 +39,40 @@ games:
      percent: 89    
      win: 0         
      loss: 1        
+   event: Hearts       
+   year: 2017          
+   draw: Semi-Final(20)
+   score: NO 5 - ON 7  
+ - player1:          
+     team: 'ON'      
+     position: Second
+     percent: 80     
+     win: 1          
+     loss: 0         
+   player2:         
+     team: 'NO'     
+     position: Third
+     percent: 78    
+     win: 0         
+     loss: 1        
+   event: Hearts       
+   year: 2019          
+   draw: Round Robin(1)
+   score: NO 4 - ON 6  
+ - player1:          
+     team: 'ON'      
+     position: Second
+     percent: 75     
+     win: 1          
+     loss: 0         
+   player2:         
+     team: 'NO'     
+     position: Third
+     percent: 64    
+     win: 0         
+     loss: 1        
    event: Hearts     
-   year: 2017        
-   draw: Playoff(20) 
-   score: NO 5 - ON 7
+   year: 2019        
+   draw: Page 3-4(20)
+   score: ON 6 - NO 4
 ---

@@ -2,13 +2,13 @@
 title: Jim Cotter vs E.J. Harnden
 player1:             
   name: Cotter, Jim  
-  percent: 78        
+  percent: 80        
   wins: 2            
-  losses: 4          
+  losses: 5          
 player2:             
   name: Harnden, E.J.
   percent: 84        
-  wins: 4            
+  wins: 5            
   losses: 2          
 games:
  - player1:          
@@ -107,4 +107,20 @@ games:
    year: 2017          
    draw: Round Robin(1)
    score: BC 7 - NO 9  
+ - player1:          
+     team: 'BC'      
+     position: Fourth
+     percent: 94     
+     win: 0          
+     loss: 1         
+   player2:          
+     team: 'NO'      
+     position: Second
+     percent: 85     
+     win: 1          
+     loss: 0         
+   event: Brier       
+   year: 2019         
+   draw: Pool(15)     
+   score: NO 11 - BC 5
 ---

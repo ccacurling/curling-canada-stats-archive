@@ -2,9 +2,19 @@
 title: Michelle Jewer
 name: Michelle Jewer
 name-sort: Jewer, Michelle
-games: 2
+games: 6
 wins: 0
-losses: 2
+losses: 6
+inturn-total: 44
+inturn-percent: 78
+outturn-total: 34
+outturn-percent: 79
+draw-total: 66
+draw-percent: 81
+takeout-total: 12
+takeout-percent: 60
+shots-total: 78
+shots-percent: 78
 years:
  - year: 2010
    event: Hearts
@@ -41,7 +51,6 @@ years:
    shots-total: 2
    shots-percent: 75
  - year: 2010
-   event: Hearts
    team: Totals
    games: 2
    wins: 0
@@ -56,25 +65,80 @@ years:
    takeout-percent:
    shots-total: 8
    shots-percent: 59
+ - year: 2019
+   event: Hearts
+   team: "NL"
+   position: Lead
+   games: 4
+   wins: 0
+   losses: 4
+   inturn-total: 39
+   inturn-percent: 79
+   outturn-total: 31
+   outturn-percent: 82
+   draw-total: 58
+   draw-percent: 84
+   takeout-total: 12
+   takeout-percent: 60
+   shots-total: 70
+   shots-percent: 80
 vs:
+ - Baldwin, Nicole
+ - Barbour, Shona
  - Belisle, Eve
+ - Birnie, Hailey
+ - Birt, Suzanne
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Boudreault, Patricia
+ - Brown, Rachel
+ - Carey, Chelsea
+ - Christianson, Marie
  - Comeau, Martine
  - Cormier, Sharon
  - Crouse, Jennifer
+ - Daigle, Julie
  - Einarson, Megan
  - Ellis, Danielle
+ - Ferguson, Dana
+ - Galusha, Kerry
+ - Gates, Jenny
  - Gilman, Sheena
+ - Griffin, Alison
+ - Hughes, Meaghan
+ - Hunkin, Jessie
+ - Ingram, Megan
  - Jones, Jennifer
  - Koehler, Megan
+ - Koltun, Sarah
+ - Lavoie, Gabrielle
+ - Lawes, Kaitlyn
+ - Lawton, Stefanie
+ - Lilly, Kendra
  - Makichuck, Lindsay
+ - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
+ - McQuaid, Michelle
  - More, Whitney
+ - Munroe, Anna
  - Naugler, Tara
  - Nicholls, Brenda
  - Officer, Jill
  - Overton-Clapham, Cathy
+ - Peterman, Jocelyn
+ - Pilote, Kristen
+ - Potts, Sarah
  - Rainville, Julie
+ - Rusnell, Jen
+ - Sandwith, Carley
+ - Shaw, Ladene
+ - Silvernagle, Robyn
+ - Strong, Helen
  - Sweeting, Valerie
+ - Thevenot, Kara
  - Thomas, Jill
+ - Tran, Brittany
+ - Wark, Sarah
+ - Wilkes, Sarah
 ---

@@ -2,18 +2,18 @@
 title: Robert Doherty
 name: Robert Doherty
 name-sort: Doherty, Robert
-games: 22
-wins: 7
-losses: 15
-inturn-total: 298
-inturn-percent: 86
-outturn-total: 100
+games: 29
+wins: 8
+losses: 21
+inturn-total: 339
+inturn-percent: 85
+outturn-total: 185
 outturn-percent: 85
-draw-total: 370
+draw-total: 478
 draw-percent: 87
-takeout-total: 28
-takeout-percent: 71
-shots-total: 398
+takeout-total: 46
+takeout-percent: 68
+shots-total: 524
 shots-percent: 85
 years:
  - year: 2015
@@ -50,9 +50,29 @@ years:
    takeout-percent: 72
    shots-total: 194
    shots-percent: 86
+ - year: 2019
+   event: Brier
+   team: "PE"
+   position: Lead
+   games: 7
+   wins: 1
+   losses: 6
+   inturn-total: 41
+   inturn-percent: 80
+   outturn-total: 85
+   outturn-percent: 86
+   draw-total: 108
+   draw-percent: 88
+   takeout-total: 18
+   takeout-percent: 64
+   shots-total: 126
+   shots-percent: 84
 vs:
+ - Abel, Clinton
  - Bezanson, Jared
+ - Boland, Adam
  - Borden, Robert
+ - Bottcher, Brendan
  - Brannen, Jamie
  - Camm, Mathew
  - Carruthers, Reid
@@ -61,6 +81,7 @@ vs:
  - Crete, Martin
  - Eldridge, Zach
  - Flasch, Colton
+ - Ford, Chris
  - Fry, Ryan
  - Gallant, Brett
  - Griffith, Ty
@@ -76,6 +97,7 @@ vs:
  - Howard, Scott
  - Jacobs, Brad
  - Jeffrey, Chris
+ - Jewer, Keith
  - Jones, Scott
  - Kean, Mark
  - Kennedy, Marc
@@ -86,7 +108,11 @@ vs:
  - Laing, Brent
  - Laycock, Steve
  - LeCocq, Marc
+ - Lemay, Philippe
  - Mallais, Jeremy
+ - Marsh, Dan
+ - Marsh, Kevin
+ - Martin, Karrick
  - Mathers, David
  - McEwen, Mike
  - Menard, Jean-Michel
@@ -94,18 +120,24 @@ vs:
  - Merklinger, Bill
  - Morris, John
  - Moskowy, Braeden
+ - Moulding, Darren
  - Muyres, Dallan
  - Muyres, Kirk
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Odian, Scott
  - Rycroft, Carter
  - Samagalski, Derek
  - Sawatsky, Rick
  - Schille, Chris
  - Simmons, Pat
+ - Smallwood, Robert
+ - Solberg, Jonathon
  - Spencer, Adam
  - Sylvain, Eric
+ - Symonds, Andrew
+ - Thiessen, Brad
  - Thiessen, Nolan
  - Walker, Geoff
  - Whitehead, Mark

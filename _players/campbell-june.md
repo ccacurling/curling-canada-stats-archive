@@ -164,6 +164,7 @@ vs:
  - Scales, Julie
  - Schikowski, Keri-Lynn
  - Schmirler, Sandra
+ - Sharpe, Kelli
  - Skinner, Julie
  - Smith, Heather
  - Stahl, Carrie
@@ -171,7 +172,6 @@ vs:
  - Strong, Heather
  - Thomas, Karen
  - Trowell, Cathy
- - Turpin, Kelli
  - Wheatcroft, Georgina
  - Wiltzen, Jan
  - Wright, Susan

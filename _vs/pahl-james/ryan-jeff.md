@@ -39,8 +39,8 @@ games:
      percent: 70    
      win: 1         
      loss: 0        
-   event: Brier      
-   year: 1995        
-   draw: Playoff(21) 
-   score: MB 9 - AB 3
+   event: Brier        
+   year: 1995          
+   draw: Semi-Final(21)
+   score: MB 9 - AB 3  
 ---

@@ -228,6 +228,7 @@ vs:
  - Sanders, Pat
  - Santos, Deb
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shaw, Cathy
  - Simons, Renee
  - Singler, Sherri
@@ -248,7 +249,6 @@ vs:
  - Thompson, Gillian
  - Todd, Fran
  - Tousignant, Helene
- - Turpin, Kelli
  - Vautour, Chantel
  - Wall, Mary Lou
  - Walter, Sheila

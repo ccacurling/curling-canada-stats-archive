@@ -2,18 +2,18 @@
 title: Rick Rowsell
 name: Rick Rowsell
 name-sort: Rowsell, Rick
-games: 23
+games: 25
 wins: 8
-losses: 15
-inturn-total: 218
+losses: 17
+inturn-total: 226
 inturn-percent: 74
 outturn-total: 217
 outturn-percent: 74
-draw-total: 194
+draw-total: 202
 draw-percent: 74
 takeout-total: 241
 takeout-percent: 74
-shots-total: 435
+shots-total: 443
 shots-percent: 74
 years:
  - year: 1996
@@ -50,6 +50,55 @@ years:
    takeout-percent: 68
    shots-total: 205
    shots-percent: 69
+ - year: 2019
+   event: Brier
+   team: "NL"
+   position: Lead
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 4
+   inturn-percent: 63
+   outturn-total: 0
+   outturn-percent:
+   draw-total: 4
+   draw-percent: 63
+   takeout-total: 0
+   takeout-percent:
+   shots-total: 4
+   shots-percent: 63
+ - year: 2019
+   event: Brier
+   team: "NL"
+   position: Second
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 4
+   inturn-percent: 88
+   outturn-total: 0
+   outturn-percent:
+   draw-total: 4
+   draw-percent: 88
+   takeout-total: 0
+   takeout-percent:
+   shots-total: 4
+   shots-percent: 88
+ - year: 2019
+   team: Totals
+   games: 2
+   wins: 0
+   losses: 2
+   inturn-total: 8
+   inturn-percent: 75
+   outturn-total: 0
+   outturn-percent:
+   draw-total: 8
+   draw-percent: 75
+   takeout-total: 0
+   takeout-percent:
+   shots-total: 8
+   shots-percent: 75
 vs:
  - Adams, Shawn
  - Armstrong, Doug
@@ -59,6 +108,7 @@ vs:
  - Blanchard, Jason
  - Brackett, James
  - Brandwood, Todd
+ - Brassard, Philippe
  - Broda, Shawn
  - Brown, Ken
  - Bryant, Doug
@@ -66,27 +116,33 @@ vs:
  - Charette, Pierre
  - Corner, Peter
  - Cowan, Chad
+ - Crete, Martin
  - Delmage, Ron
  - Despins, Glen
  - Eberts, Tony
  - Elkin, Derek
  - Elmaleh, Maxime
  - Forsyth, Sandy
+ - Fry, Ryan
  - Gagnon, Jean
  - Golanowski, Rory
  - Gould, Steve
  - Gubbles, Will
+ - Harnden, E.J.
+ - Harnden, Ryan
  - Henderson, Jeffrey
  - Henderson, Ron
  - Hinch, Bert
  - Hopkins, Jeff
  - Howard, Russ
  - Ingram, Bob
+ - Jacobs, Brad
  - Josephson, Glenn
  - Kennedy, Mike
  - Korte, Bruce
  - Korte, Roger
  - LeCocq, Marc
+ - Lemay, Philippe
  - Lemery, Dan
  - MacDonald, Peter
  - MacDonald, Rod
@@ -97,6 +153,7 @@ vs:
  - McKee, Darrell
  - McPhee, Barry
  - Mead, Jonathan
+ - Menard, Philippe
  - Mihalicz, Dwayne
  - Miki, Bryan
  - Milward, Ross

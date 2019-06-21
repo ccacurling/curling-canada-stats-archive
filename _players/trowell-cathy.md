@@ -64,8 +64,8 @@ vs:
  - Renouf, Michele
  - Scales, Julie
  - Schmirler, Sandra
+ - Sharpe, Kelli
  - Strong, Heather
  - Thomas, Karen
- - Turpin, Kelli
  - Wiltzen, Jan
 ---

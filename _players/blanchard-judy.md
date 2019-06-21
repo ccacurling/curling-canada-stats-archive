@@ -366,6 +366,7 @@ vs:
  - Schmirler, Sandra
  - Schneider, Sheila
  - Scott, Donna
+ - Sharpe, Kelli
  - Sherrington, Barb
  - Sigurdson, Janine
  - Skinner, Julie
@@ -389,7 +390,6 @@ vs:
  - Tousignant, Helene
  - Treloar, Cathy
  - Turcotte, Kristin
- - Turpin, Kelli
  - Unrau, Faye
  - Usher, Leanne
  - Walker, Lisa

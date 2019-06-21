@@ -60,7 +60,7 @@ games:
    draw: Round Robin(4)
    score: TR 10 - NL 5 
  - player1:         
-     team: 'NT'     
+     team: 'TR'     
      position: Third
      percent: 68    
      win: 1         
@@ -74,5 +74,5 @@ games:
    event: Hearts       
    year: 2013          
    draw: Round Robin(2)
-   score: NT 8 - NL 7  
+   score: TR 8 - NL 7  
 ---

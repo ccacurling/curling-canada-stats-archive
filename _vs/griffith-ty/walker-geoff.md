@@ -2,13 +2,13 @@
 title: Ty Griffith vs Geoff Walker
 player1:             
   name: Griffith, Ty 
-  percent: 84        
+  percent: 82        
   wins: 2            
-  losses: 2          
+  losses: 3          
 player2:             
   name: Walker, Geoff
-  percent: 86        
-  wins: 2            
+  percent: 85        
+  wins: 3            
   losses: 2          
 games:
  - player1:          
@@ -75,4 +75,20 @@ games:
    year: 2017           
    draw: Round Robin(12)
    score: BC 4 - NL 5   
+ - player1:          
+     team: 'BC'      
+     position: Second
+     percent: 73     
+     win: 0          
+     loss: 1         
+   player2:        
+     team: 'CA'    
+     position: Lead
+     percent: 83   
+     win: 1        
+     loss: 0       
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(6)
+   score: BC 4 - CA 10 
 ---

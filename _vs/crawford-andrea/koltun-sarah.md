@@ -4,11 +4,11 @@ player1:
   name: Crawford, Andrea
   percent: 76           
   wins: 1               
-  losses: 0             
+  losses: 1             
 player2:                
   name: Koltun, Sarah   
-  percent: 74           
-  wins: 0               
+  percent: 76           
+  wins: 1               
   losses: 1             
 games:
  - player1:          
@@ -27,4 +27,20 @@ games:
    year: 2014           
    draw: Round Robin(15)
    score: TR 4 - NB 5   
+ - player1:          
+     team: 'NB'      
+     position: Fourth
+     percent: 77     
+     win: 0          
+     loss: 1         
+   player2:         
+     team: 'NT'     
+     position: Third
+     percent: 78    
+     win: 1         
+     loss: 0        
+   event: Hearts       
+   year: 2019          
+   draw: Round Robin(2)
+   score: NT 11 - NB 5 
 ---

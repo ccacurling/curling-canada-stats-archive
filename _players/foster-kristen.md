@@ -29,7 +29,7 @@ vs:
  - Baier, Stephanie
  - Boyle, Jane
  - Brothers, Jill
- - Brown, Rachelle
+ - Brown, Rachel
  - Cooper, Kathryn
  - Cottrill, Katie
  - Court, Morgan

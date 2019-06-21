@@ -2,14 +2,14 @@
 title: Suzanne Birt vs Kerry Galusha
 player1:              
   name: Birt, Suzanne 
-  percent: 72         
-  wins: 4             
+  percent: 74         
+  wins: 5             
   losses: 1           
 player2:              
   name: Galusha, Kerry
-  percent: 74         
+  percent: 73         
   wins: 1             
-  losses: 4           
+  losses: 5           
 games:
  - player1:          
      team: 'PE'      
@@ -82,7 +82,7 @@ games:
      win: 1          
      loss: 0         
    player2:          
-     team: 'NT'      
+     team: 'TR'      
      position: Fourth
      percent: 70     
      win: 0          
@@ -90,5 +90,21 @@ games:
    event: Hearts        
    year: 2013           
    draw: Round Robin(10)
-   score: NT 6 - PE 7   
+   score: TR 6 - PE 7   
+ - player1:          
+     team: 'PE'      
+     position: Fourth
+     percent: 81     
+     win: 1          
+     loss: 0         
+   player2:          
+     team: 'NT'      
+     position: Fourth
+     percent: 66     
+     win: 0          
+     loss: 1         
+   event: Hearts        
+   year: 2019           
+   draw: Round Robin(12)
+   score: PE 15 - NT 5  
 ---

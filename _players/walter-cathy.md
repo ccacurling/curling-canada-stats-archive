@@ -168,6 +168,7 @@ vs:
  - Sabourin, Joelle
  - Scott, Donna
  - Sefton, Judy
+ - Sharpe, Kelli
  - Shaw, Cathy
  - Skinner, Julie
  - Slemko, Jean
@@ -180,7 +181,6 @@ vs:
  - Strong, Heather
  - Thompson, Gillian
  - Thompson, May
- - Turpin, Kelli
  - Twa, Dale
  - Unrau, Faye
  - Werenka, Lil

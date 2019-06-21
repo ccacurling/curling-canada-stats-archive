@@ -349,6 +349,7 @@ vs:
  - Scales, Julie
  - Schmirler, Sandra
  - Scott, Donna
+ - Sharpe, Kelli
  - Shephard, Wendy
  - Sherrington, Barb
  - Shields, Deanne
@@ -373,7 +374,6 @@ vs:
  - Tincher, Twyla
  - Todd, Fran
  - Tucker, Cindy
- - Turpin, Kelli
  - Walker, Lisa
  - Walter, Cathy
  - Wheatcroft, Georgina

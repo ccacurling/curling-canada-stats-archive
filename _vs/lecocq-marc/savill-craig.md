@@ -39,8 +39,8 @@ games:
      percent: 93     
      win: 1          
      loss: 0         
-   event: Brier      
-   year: 2002        
-   draw: Playoff(20) 
-   score: ON 9 - NB 5
+   event: Brier        
+   year: 2002          
+   draw: Semi-Final(20)
+   score: ON 9 - NB 5  
 ---

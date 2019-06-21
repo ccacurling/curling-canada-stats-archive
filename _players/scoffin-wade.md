@@ -89,7 +89,6 @@ years:
    shots-total: 88
    shots-percent: 78
  - year: 2018
-   event: Brier
    team: Totals
    games: 8
    wins: 2
@@ -110,7 +109,7 @@ vs:
  - Bitz, Scott
  - Blanchard, Ben
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brodersen, Erik
  - Burgess, Craig
  - Burtnyk, Kerry

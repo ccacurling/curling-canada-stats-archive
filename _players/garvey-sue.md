@@ -64,8 +64,8 @@ vs:
  - Scales, Julie
  - Schikowski, Keri-Lynn
  - Schmirler, Sandra
+ - Sharpe, Kelli
  - Strong, Heather
  - Thomas, Karen
  - Trowell, Cathy
- - Turpin, Kelli
 ---

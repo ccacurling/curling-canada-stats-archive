@@ -64,7 +64,7 @@ vs:
  - Blais, Amelie
  - Boyle, Jane
  - Bradley, Shelly
- - Brown, Rachelle
+ - Brown, Rachel
  - Cameron, Nancy
  - Camozzi, Rhona
  - Carter, Sasha
@@ -80,7 +80,6 @@ vs:
  - Dolan, Sinead
  - Englot, Michelle
  - Ferguson, Dana
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Galusha, Kerry
  - Hastings, Julie
@@ -112,6 +111,7 @@ vs:
  - O'Rourke, Brittany
  - Parsons, Danielle
  - Peters, Laine
+ - Pilote, Kristen
  - Richard, Marie
  - Robichaud, Sylvie
  - Rusnell, Jen

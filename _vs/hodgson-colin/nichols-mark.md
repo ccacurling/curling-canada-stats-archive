@@ -2,13 +2,13 @@
 title: Colin Hodgson vs Mark Nichols
 player1:              
   name: Hodgson, Colin
-  percent: 88         
+  percent: 90         
   wins: 1             
-  losses: 1           
+  losses: 2           
 player2:              
   name: Nichols, Mark 
-  percent: 85         
-  wins: 1             
+  percent: 86         
+  wins: 2             
   losses: 1           
 games:
  - player1:        
@@ -43,4 +43,20 @@ games:
    year: 2018        
    draw: Pool(15)    
    score: CA 7 - MB 2
+ - player1:        
+     team: 'MB'    
+     position: Lead
+     percent: 95   
+     win: 0        
+     loss: 1       
+   player2:         
+     team: 'CA'     
+     position: Third
+     percent: 88    
+     win: 1         
+     loss: 0        
+   event: Brier      
+   year: 2019        
+   draw: Pool(15)    
+   score: CA 6 - MB 3
 ---

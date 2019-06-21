@@ -102,7 +102,6 @@ years:
    shots-total: 18
    shots-percent: 68
  - year: 2016
-   event: Hearts
    team: Totals
    games: 6
    wins: 3
@@ -130,7 +129,7 @@ vs:
  - Boyle, Jane
  - Bradley, Shelly
  - Brassard, Veronique
- - Brown, Rachelle
+ - Brown, Rachel
  - Cameron, Nancy
  - Campbell, Jolene
  - Carey, Chelsea
@@ -172,7 +171,6 @@ vs:
  - Hughes, Meaghan
  - Iskiw, Beth
  - Jones, Jennifer
- - Kaatz, Selena
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kleibrink, Shannon
@@ -202,6 +200,7 @@ vs:
  - Miskew, Emma
  - Moses, Dawn
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Nowlan, Denise

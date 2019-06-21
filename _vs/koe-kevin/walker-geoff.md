@@ -3,13 +3,13 @@ title: Kevin Koe vs Geoff Walker
 player1:             
   name: Koe, Kevin   
   percent: 88        
-  wins: 2            
+  wins: 3            
   losses: 3          
 player2:             
   name: Walker, Geoff
-  percent: 86        
+  percent: 88        
   wins: 3            
-  losses: 2          
+  losses: 3          
 games:
  - player1:          
      team: 'AB'      
@@ -91,4 +91,20 @@ games:
    year: 2017        
    draw: Final(22)   
    score: NL 7 - CA 6
+ - player1:          
+     team: 'AB'      
+     position: Fourth
+     percent: 89     
+     win: 1          
+     loss: 0         
+   player2:        
+     team: 'CA'    
+     position: Lead
+     percent: 96   
+     win: 0        
+     loss: 1       
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(8)
+   score: CA 6 - AB 7  
 ---

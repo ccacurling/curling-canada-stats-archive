@@ -2,18 +2,18 @@
 title: Shona Barbour
 name: Shona Barbour
 name-sort: Barbour, Shona
-games: 40
-wins: 11
-losses: 29
-inturn-total: 471
+games: 47
+wins: 14
+losses: 33
+inturn-total: 529
 inturn-percent: 81
-outturn-total: 288
-outturn-percent: 73
-draw-total: 524
+outturn-total: 358
+outturn-percent: 74
+draw-total: 637
 draw-percent: 80
-takeout-total: 235
-takeout-percent: 73
-shots-total: 759
+takeout-total: 250
+takeout-percent: 74
+shots-total: 887
 shots-percent: 78
 years:
  - year: 2005
@@ -123,7 +123,6 @@ years:
    shots-total: 46
    shots-percent: 73
  - year: 2012
-   event: Hearts
    team: Totals
    games: 9
    wins: 3
@@ -176,6 +175,23 @@ years:
    takeout-percent: 60
    shots-total: 151
    shots-percent: 82
+ - year: 2019
+   event: Hearts
+   team: "NT"
+   position: Lead
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 58
+   inturn-percent: 83
+   outturn-total: 70
+   outturn-percent: 78
+   draw-total: 113
+   draw-percent: 80
+   takeout-total: 15
+   takeout-percent: 83
+   shots-total: 128
+   shots-percent: 80
 vs:
  - Adams, Melissa
  - Aleksic, Shannon
@@ -184,22 +200,31 @@ vs:
  - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Babin, Jillian
+ - Baldwin, Nicole
  - Belanger, Nancy
  - Bell, Chelsey
  - Bernard, Cheryl
  - Birchard, Shannon
+ - Birnie, Hailey
  - Birt, Suzanne
  - Blais, Amelie
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Boudreault, Patricia
  - Bradley, Shelly
  - Brassard, Veronique
+ - Brown, Rachel
  - Cameron, Nancy
+ - Carey, Chelsea
  - Carter, Sasha
  - Chislett, Geneva
+ - Christianson, Marie
  - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
  - Curtis, Stacie
+ - Daigle, Julie
  - Darbyshire, Carolyn
  - deJager, Blaine
  - deSolla, Jodie
@@ -212,6 +237,7 @@ vs:
  - Englot, Michelle
  - Enright, Barb
  - Fallis, Karen
+ - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
  - Filteau, Anne-Marie
@@ -219,21 +245,26 @@ vs:
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gates, Amanda
+ - Gates, Jenny
  - George, Tara
  - Gibson, Amy
  - Gilman, Sheena
  - Goss, Peg
  - Gregoire, Veronique
+ - Griffin, Alison
  - Guzzwell, Stephanie
+ - Hamilton, Beth
  - Holland, Amber
  - Homan, Rachel
  - Horgan, Tracy
  - Hughes, Meaghan
+ - Hunkin, Jessie
  - Hutchings, Denise
+ - Ingram, Megan
  - Iskiw, Beth
+ - Jewer, Michelle
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kleibrink, Shannon
@@ -243,10 +274,12 @@ vs:
  - Kreviazuk, Cheryl
  - Lang, Lorraine
  - Larouche, Marie-France
+ - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - LeDrew, Stephanie
  - Lemay, Annie
+ - Lilly, Kendra
  - Lister, Kendra
  - Lowther, Tammi
  - MacCuish, Kristin
@@ -267,8 +300,10 @@ vs:
  - Miskew, Emma
  - Moore, Kristie
  - Morris, Cori
+ - Munroe, Anna
  - Muzika, Shelley
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Nowlan, Denise
@@ -277,14 +312,19 @@ vs:
  - Overton-Clapham, Cathy
  - Parsons, Danielle
  - Paul, Sarah
+ - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
+ - Potts, Sarah
  - Price, Kara
  - Recksiedler, Kristen
  - Richards, Brette
  - Robertson, Darcy
  - Robichaud, Sylvie
+ - Rusnell, Jen
  - Sabourin, Joelle
  - Sagle, Karen
+ - Sandwith, Carley
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schneider, Kim
@@ -292,6 +332,9 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shackleton, Amie
+ - Sharpe, Kelli
+ - Shaw, Ladene
+ - Silvernagle, Robyn
  - Singler, Sherri
  - Sivertson, Dailene
  - Slywka, Sarah
@@ -300,7 +343,9 @@ vs:
  - Sobey, Lianne
  - Spencer, Barb
  - Strong, Heather
+ - Strong, Helen
  - Strong, Laura
+ - Thevenot, Kara
  - Thomas, Jill
  - Udle, Teri
  - Van Osch, Kalia
@@ -308,10 +353,12 @@ vs:
  - Van Osch, Marika
  - Vey, Lana
  - Walsh, Jenna
+ - Wark, Sarah
  - Weagle, Lisa
  - Webster, Bronwen
  - Webster, Crystal
  - West, Christianne
+ - Wilkes, Sarah
  - Wilson, Leslie
  - Wylie, Jennifer
 ---

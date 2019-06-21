@@ -39,10 +39,10 @@ games:
      percent: 97   
      win: 1        
      loss: 0       
-   event: Hearts     
-   year: 1996        
-   draw: Playoff(19) 
-   score: NS 2 - MB 9
+   event: Hearts        
+   year: 1996           
+   draw: Tie-Breaker(19)
+   score: NS 2 - MB 9   
  - player1:        
      team: 'CA'    
      position: Lead

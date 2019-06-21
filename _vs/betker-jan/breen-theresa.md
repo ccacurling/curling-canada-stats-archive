@@ -71,8 +71,8 @@ games:
      percent: 81    
      win: 1         
      loss: 0        
-   event: Hearts     
-   year: 1998        
-   draw: Playoff(21) 
-   score: CA 3 - ON 9
+   event: Hearts       
+   year: 1998          
+   draw: Semi-Final(21)
+   score: CA 3 - ON 9  
 ---

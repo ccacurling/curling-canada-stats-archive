@@ -97,7 +97,7 @@ vs:
  - Blais, Amelie
  - Bradley, Shelly
  - Brothers, Jill
- - Brown, Rachelle
+ - Brown, Rachel
  - Camozzi, Rhona
  - Campbell, Jolene
  - Carey, Chelsea
@@ -110,7 +110,6 @@ vs:
  - Devereaux, Julie
  - Einarson, Kerri
  - Ferguson, Dana
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Foster, Kristen
  - Fyfe, Liz
@@ -125,7 +124,6 @@ vs:
  - Hughes, Meaghan
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kasner, Marliese
  - Knezevic, Patti
  - Korab, Stephanie
@@ -145,6 +143,7 @@ vs:
  - Meakin, Breanne
  - Miskew, Emma
  - Murphy, Sarah
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Officer, Jill
@@ -153,6 +152,7 @@ vs:
  - O'Rourke, Brittany
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
  - Rainville, Julie

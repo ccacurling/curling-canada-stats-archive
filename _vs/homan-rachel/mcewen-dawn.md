@@ -2,14 +2,14 @@
 title: Rachel Homan vs Dawn McEwen
 player1:             
   name: Homan, Rachel
-  percent: 79        
-  wins: 2            
+  percent: 81        
+  wins: 3            
   losses: 3          
 player2:             
   name: McEwen, Dawn 
-  percent: 92        
+  percent: 93        
   wins: 3            
-  losses: 2          
+  losses: 3          
 games:
  - player1:          
      team: 'ON'      
@@ -91,4 +91,20 @@ games:
    year: 2015          
    draw: Round Robin(8)
    score: CA 7 - MB 8  
+ - player1:          
+     team: 'ON'      
+     position: Fourth
+     percent: 90     
+     win: 1          
+     loss: 0         
+   player2:        
+     team: 'CA'    
+     position: Lead
+     percent: 94   
+     win: 0        
+     loss: 1       
+   event: Hearts     
+   year: 2019        
+   draw: Pool(17)    
+   score: ON 9 - CA 6
 ---

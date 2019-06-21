@@ -27,7 +27,7 @@ vs:
  - Appelman, Tom
  - Barry, Josh
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Chorostkowski, Brad
  - Crowell, Phil
  - Fecteau, Steve

@@ -34,7 +34,7 @@ games:
      win: 1          
      loss: 0         
    player2:         
-     team: 'NT'     
+     team: 'TR'     
      position: Third
      percent: 86    
      win: 0         
@@ -42,5 +42,5 @@ games:
    event: Brier         
    year: 2013           
    draw: Round Robin(10)
-   score: NT 3 - NL 7   
+   score: TR 3 - NL 7   
 ---

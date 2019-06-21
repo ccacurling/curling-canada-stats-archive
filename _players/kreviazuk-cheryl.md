@@ -2,18 +2,18 @@
 title: Cheryl Kreviazuk
 name: Cheryl Kreviazuk
 name-sort: Kreviazuk, Cheryl
-games: 16
-wins: 9
+games: 19
+wins: 12
 losses: 7
-inturn-total: 138
-inturn-percent: 83
-outturn-total: 102
+inturn-total: 149
+inturn-percent: 82
+outturn-total: 113
 outturn-percent: 86
-draw-total: 112
-draw-percent: 82
-takeout-total: 128
-takeout-percent: 87
-shots-total: 240
+draw-total: 115
+draw-percent: 81
+takeout-total: 147
+takeout-percent: 86
+shots-total: 262
 shots-percent: 84
 years:
  - year: 2015
@@ -67,6 +67,23 @@ years:
    takeout-percent: 87
    shots-total: 236
    shots-percent: 84
+ - year: 2019
+   event: Hearts
+   team: "ON"
+   position: Second
+   games: 3
+   wins: 3
+   losses: 0
+   inturn-total: 11
+   inturn-percent: 70
+   outturn-total: 11
+   outturn-percent: 91
+   draw-total: 3
+   draw-percent: 50
+   takeout-total: 19
+   takeout-percent: 86
+   shots-total: 22
+   shots-percent: 81
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -90,7 +107,6 @@ vs:
  - Hughes, Meaghan
  - Hutchings, Denise
  - Jones, Jennifer
- - Kaatz, Selena
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
@@ -102,6 +118,7 @@ vs:
  - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Moore, Kristie
+ - Njegovan, Selena
  - Officer, Jill
  - O'Rourke, Brittany
  - Price, Kara

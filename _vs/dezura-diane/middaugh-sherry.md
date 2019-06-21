@@ -39,10 +39,10 @@ games:
      percent: 79     
      win: 0          
      loss: 1         
-   event: Hearts     
-   year: 2001        
-   draw: Playoff(21) 
-   score: CA 7 - ON 6
+   event: Hearts       
+   year: 2001          
+   draw: Semi-Final(21)
+   score: CA 7 - ON 6  
  - player1:        
      team: 'BC'    
      position: Lead

@@ -2,14 +2,14 @@
 title: Brad Gushue vs Dallan Muyres
 player1:              
   name: Gushue, Brad  
-  percent: 86         
-  wins: 4             
+  percent: 85         
+  wins: 5             
   losses: 2           
 player2:              
   name: Muyres, Dallan
-  percent: 88         
+  percent: 86         
   wins: 2             
-  losses: 4           
+  losses: 5           
 games:
  - player1:          
      team: 'NL'      
@@ -107,4 +107,20 @@ games:
    year: 2018        
    draw: Pool(16)    
    score: SK 4 - CA 5
+ - player1:          
+     team: 'CA'      
+     position: Fourth
+     percent: 82     
+     win: 1          
+     loss: 0         
+   player2:        
+     team: 'SK'    
+     position: Lead
+     percent: 78   
+     win: 0        
+     loss: 1       
+   event: Brier      
+   year: 2019        
+   draw: Pool(16)    
+   score: CA 8 - SK 4
 ---

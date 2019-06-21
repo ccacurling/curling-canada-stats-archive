@@ -127,7 +127,7 @@ vs:
  - Bice, Mark
  - Bilesky, Andrew
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brannen, Jamie
  - Breckon, Graham
  - Camm, Mathew

@@ -158,6 +158,7 @@ vs:
  - Sanders, Pat
  - Schmirler, Sandra
  - Scott, Donna
+ - Sharpe, Kelli
  - Shephard, Wendy
  - Sherrington, Barb
  - Snider, Shelly
@@ -167,7 +168,6 @@ vs:
  - Tanner, Allison
  - Tincher, Twyla
  - Tucker, Cindy
- - Turpin, Kelli
  - Whipple, Paula
  - Wieler, Bev
  - Wright, Susan

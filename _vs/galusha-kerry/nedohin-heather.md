@@ -28,7 +28,7 @@ games:
    draw: Round Robin(1)
    score: AB 7 - TR 8  
  - player1:          
-     team: 'NT'      
+     team: 'TR'      
      position: Fourth
      percent: 66     
      win: 1          
@@ -42,7 +42,7 @@ games:
    event: Hearts        
    year: 2013           
    draw: Round Robin(16)
-   score: CA 8 - NT 10  
+   score: CA 8 - TR 10  
  - player1:          
      team: 'NT'      
      position: Fourth

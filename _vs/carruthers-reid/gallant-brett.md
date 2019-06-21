@@ -2,13 +2,13 @@
 title: Reid Carruthers vs Brett Gallant
 player1:                
   name: Carruthers, Reid
-  percent: 87           
+  percent: 86           
   wins: 3               
-  losses: 1             
+  losses: 2             
 player2:                
   name: Gallant, Brett  
-  percent: 84           
-  wins: 1               
+  percent: 83           
+  wins: 2               
   losses: 3             
 games:
  - player1:          
@@ -75,4 +75,20 @@ games:
    year: 2018        
    draw: Pool(15)    
    score: CA 7 - MB 2
+ - player1:         
+     team: 'MB'     
+     position: Third
+     percent: 84    
+     win: 0         
+     loss: 1        
+   player2:          
+     team: 'CA'      
+     position: Second
+     percent: 80     
+     win: 1          
+     loss: 0         
+   event: Brier      
+   year: 2019        
+   draw: Pool(15)    
+   score: CA 6 - MB 3
 ---

@@ -2,13 +2,13 @@
 title: Ryan Fry vs Kevin Koe
 player1:          
   name: Fry, Ryan 
-  percent: 83     
+  percent: 85     
   wins: 2         
-  losses: 6       
+  losses: 8       
 player2:          
   name: Koe, Kevin
-  percent: 79     
-  wins: 6         
+  percent: 81     
+  wins: 8         
   losses: 2       
 games:
  - player1:          
@@ -139,4 +139,36 @@ games:
    year: 2017        
    draw: Page 3-4(19)
    score: CA 6 - NO 2
+ - player1:         
+     team: 'NO'     
+     position: Third
+     percent: 93    
+     win: 0         
+     loss: 1        
+   player2:          
+     team: 'AB'      
+     position: Fourth
+     percent: 83     
+     win: 1          
+     loss: 0         
+   event: Brier      
+   year: 2019        
+   draw: Pool(18)    
+   score: AB 7 - NO 5
+ - player1:         
+     team: 'NO'     
+     position: Third
+     percent: 92    
+     win: 0         
+     loss: 1        
+   player2:          
+     team: 'AB'      
+     position: Fourth
+     percent: 94     
+     win: 1          
+     loss: 0         
+   event: Brier      
+   year: 2019        
+   draw: Page 1-2(20)
+   score: NO 4 - AB 9
 ---

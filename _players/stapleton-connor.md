@@ -41,7 +41,6 @@ years:
    shots-total: 2
    shots-percent: 63
  - year: 2018
-   event: Brier
    team: Totals
    games: 2
    wins: 0
@@ -57,7 +56,7 @@ years:
    shots-total: 6
    shots-percent: 79
 vs:
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Geall, Sean
  - Harper, David
  - Martin, Karrick

@@ -2,18 +2,18 @@
 title: Emma Miskew
 name: Emma Miskew
 name-sort: Miskew, Emma
-games: 67
-wins: 54
-losses: 13
-inturn-total: 704
+games: 81
+wins: 64
+losses: 17
+inturn-total: 844
 inturn-percent: 83
-outturn-total: 549
-outturn-percent: 81
-draw-total: 438
+outturn-total: 683
+outturn-percent: 82
+draw-total: 530
 draw-percent: 78
-takeout-total: 815
-takeout-percent: 84
-shots-total: 1253
+takeout-total: 997
+takeout-percent: 85
+shots-total: 1527
 shots-percent: 82
 years:
  - year: 2011
@@ -101,6 +101,23 @@ years:
    takeout-percent: 88
    shots-total: 273
    shots-percent: 84
+ - year: 2019
+   event: Hearts
+   team: "ON"
+   position: Third
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 140
+   inturn-percent: 81
+   outturn-total: 134
+   outturn-percent: 85
+   draw-total: 92
+   draw-percent: 79
+   takeout-total: 182
+   takeout-percent: 86
+   shots-total: 274
+   shots-percent: 83
 vs:
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
@@ -124,7 +141,7 @@ vs:
  - Bradley, Shelly
  - Brassard, Veronique
  - Brothers, Jill
- - Brown, Rachelle
+ - Brown, Rachel
  - Cameron, Kate
  - Camozzi, Rhona
  - Carey, Chelsea
@@ -155,7 +172,6 @@ vs:
  - Eyamie, Lisa
  - Fallis, Karen
  - Ferguson, Dana
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Flaxey, Allison
  - Foster, Kristen
@@ -221,6 +237,7 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
  - Richard, Marie

@@ -2,19 +2,19 @@
 title: Dallan Muyres
 name: Dallan Muyres
 name-sort: Muyres, Dallan
-games: 57
-wins: 29
-losses: 28
-inturn-total: 666
-inturn-percent: 88
-outturn-total: 444
-outturn-percent: 87
-draw-total: 967
-draw-percent: 88
-takeout-total: 143
-takeout-percent: 84
-shots-total: 1110
-shots-percent: 88
+games: 68
+wins: 34
+losses: 34
+inturn-total: 765
+inturn-percent: 89
+outturn-total: 547
+outturn-percent: 89
+draw-total: 1150
+draw-percent: 89
+takeout-total: 162
+takeout-percent: 85
+shots-total: 1312
+shots-percent: 89
 years:
  - year: 2011
    event: Brier
@@ -101,23 +101,45 @@ years:
    takeout-percent: 90
    shots-total: 209
    shots-percent: 89
+ - year: 2019
+   event: Brier
+   team: "SK"
+   position: Lead
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 99
+   inturn-percent: 91
+   outturn-total: 103
+   outturn-percent: 93
+   draw-total: 183
+   draw-percent: 92
+   takeout-total: 19
+   takeout-percent: 91
+   shots-total: 202
+   shots-percent: 92
 vs:
+ - Abel, Clinton
  - Adams, Shawn
  - Asselin, Felix
  - Balsdon, Greg
  - Bardsley, Mike
  - Barry, Josh
+ - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
+ - Boland, Adam
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Bouchard, Christian
  - Brannen, Jamie
+ - Burgess, Steve
  - Camm, Mathew
  - Carmody, Anson
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
+ - Chadwick, Scott
  - Childs, Jamie
  - Chorostkowski, Brad
  - Cotter, Jim
@@ -133,8 +155,11 @@ vs:
  - Eldridge, Zach
  - Epping, John
  - Farnell, Jamie
+ - Flasch, Colton
  - Flemming, Paul
  - Folk, Kevin
+ - Ford, Chris
+ - Forget, Wes
  - Fournier, Mike
  - Fry, Ryan
  - Gagne, Francois
@@ -159,6 +184,7 @@ vs:
  - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Jewer, Keith
  - Jones, Scott
  - Kean, Mark
  - Kennedy, Marc
@@ -169,8 +195,11 @@ vs:
  - Koivula, Colin
  - Kuhn, Ryan
  - Laing, Brent
+ - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
+ - Lemay, Philippe
+ - Likely, John
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - MacKenzie, Tyler
@@ -184,6 +213,7 @@ vs:
  - McCann, Andy
  - McCarville, Mike
  - McDermaid, Donald
+ - McDonald, Scott
  - McEwen, Mike
  - Mead, Jonathan
  - Menard, Jean-Michel
@@ -194,11 +224,13 @@ vs:
  - Moskowy, Braeden
  - Moulding, Darren
  - Murphy, Jamie
+ - Nabuurs, Matt
  - Nadeau, Jeff
  - Naugler, Tom
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Odian, Scott
  - Pinder, Jordan
  - Roach, Darren
  - Roach, Jason
@@ -211,11 +243,14 @@ vs:
  - Schille, Chris
  - Seabrook, Scott
  - Simmons, Pat
+ - Smallwood, Robert
+ - Solberg, Jonathon
  - Spencer, Adam
  - St.Louis, David
  - Stoughton, Jeff
  - Sullivan, Charles Jr
  - Sylvain, Eric
+ - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
  - Trepanier, Jean-Francois

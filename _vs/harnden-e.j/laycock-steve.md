@@ -3,13 +3,13 @@ title: E.J. Harnden vs Steve Laycock
 player1:              
   name: Harnden, E.J. 
   percent: 85         
-  wins: 4             
+  wins: 5             
   losses: 1           
 player2:              
   name: Laycock, Steve
-  percent: 81         
+  percent: 82         
   wins: 1             
-  losses: 4           
+  losses: 5           
 games:
  - player1:         
      team: 'NO'     
@@ -91,4 +91,20 @@ games:
    year: 2018          
    draw: Round Robin(9)
    score: SK 8 - NO 4  
+ - player1:          
+     team: 'NO'      
+     position: Second
+     percent: 85     
+     win: 1          
+     loss: 0         
+   player2:         
+     team: 'BC'     
+     position: Third
+     percent: 86    
+     win: 0         
+     loss: 1        
+   event: Brier       
+   year: 2019         
+   draw: Pool(15)     
+   score: NO 11 - BC 5
 ---

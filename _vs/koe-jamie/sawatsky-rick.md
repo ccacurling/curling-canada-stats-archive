@@ -2,13 +2,13 @@
 title: Jamie Koe vs Rick Sawatsky
 player1:              
   name: Koe, Jamie    
-  percent: 77         
+  percent: 76         
   wins: 3             
-  losses: 3           
+  losses: 4           
 player2:              
   name: Sawatsky, Rick
-  percent: 80         
-  wins: 3             
+  percent: 81         
+  wins: 4             
   losses: 3           
 games:
  - player1:          
@@ -107,4 +107,20 @@ games:
    year: 2017           
    draw: Round Robin(11)
    score: NT 1 - BC 9   
+ - player1:          
+     team: 'NT'      
+     position: Fourth
+     percent: 73     
+     win: 0          
+     loss: 1         
+   player2:        
+     team: 'BC'    
+     position: Lead
+     percent: 85   
+     win: 1        
+     loss: 0       
+   event: Brier         
+   year: 2019           
+   draw: Round Robin(12)
+   score: NT 5 - BC 9   
 ---

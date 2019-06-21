@@ -123,11 +123,11 @@ vs:
  - Scales, Julie
  - Schikowski, Keri-Lynn
  - Schmirler, Sandra
+ - Sharpe, Kelli
  - Stewart, Sheri
  - Strong, Heather
  - Taylor, Candy
  - Thomas, Karen
  - Trowell, Cathy
- - Turpin, Kelli
  - Wiltzen, Jan
 ---

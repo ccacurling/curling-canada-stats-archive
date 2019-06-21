@@ -41,7 +41,6 @@ years:
    shots-total: 2
    shots-percent: 100
  - year: 2018
-   event: Brier
    team: Totals
    games: 2
    wins: 1

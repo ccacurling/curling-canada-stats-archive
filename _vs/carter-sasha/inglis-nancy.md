@@ -57,6 +57,6 @@ games:
      loss: 1         
    event: Hearts     
    year: 2007        
-   draw: Playoff(22) 
+   draw: Final(22)   
    score: CA 8 - SK 5
 ---

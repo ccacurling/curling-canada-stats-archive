@@ -71,10 +71,10 @@ games:
      percent: 81    
      win: 1         
      loss: 0        
-   event: Hearts     
-   year: 2007        
-   draw: Playoff(21) 
-   score: CA 7 - MB 5
+   event: Hearts       
+   year: 2007          
+   draw: Semi-Final(21)
+   score: CA 7 - MB 5  
  - player1:          
      team: 'MB'      
      position: Fourth

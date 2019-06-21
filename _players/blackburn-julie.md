@@ -161,6 +161,7 @@ vs:
  - Scales, Julie
  - Schikowski, Keri-Lynn
  - Schmirler, Sandra
+ - Sharpe, Kelli
  - Spencer, Barb
  - Strachan, Angela
  - Strong, Heather
@@ -168,7 +169,6 @@ vs:
  - Todd, Fran
  - Trider, Krista
  - Trowell, Cathy
- - Turpin, Kelli
  - Unrau, Faye
  - Wiltzen, Jan
 ---

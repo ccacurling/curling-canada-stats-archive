@@ -41,7 +41,7 @@ games:
      loss: 0        
    event: Hearts     
    year: 1996        
-   draw: Playoff(21) 
+   draw: Page 3-4(21)
    score: SK 4 - CA 7
  - player1:         
      team: 'ON'     
@@ -87,8 +87,8 @@ games:
      percent: 81    
      win: 1         
      loss: 0        
-   event: Hearts     
-   year: 2008        
-   draw: Page 3-4(21)
-   score: ON 8 - MB 9
+   event: Hearts       
+   year: 2008          
+   draw: Semi-Final(21)
+   score: ON 8 - MB 9  
 ---

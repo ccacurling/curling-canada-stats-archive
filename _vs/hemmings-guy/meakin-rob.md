@@ -41,6 +41,6 @@ games:
      loss: 0         
    event: Brier      
    year: 2001        
-   draw: Playoff(18) 
+   draw: Page 3-4(18)
    score: QC 7 - MB 9
 ---

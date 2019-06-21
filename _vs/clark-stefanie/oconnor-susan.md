@@ -39,8 +39,8 @@ games:
      percent: 70    
      win: 0         
      loss: 1        
-   event: Hearts     
-   year: 2007        
-   draw: Playoff(19) 
-   score: AB 4 - PE 5
+   event: Hearts        
+   year: 2007           
+   draw: Tie-Breaker(19)
+   score: AB 4 - PE 5   
 ---

@@ -2,19 +2,19 @@
 title: Kristin MacCuish
 name: Kristin MacCuish
 name-sort: MacCuish, Kristin
-games: 29
-wins: 19
-losses: 10
-inturn-total: 268
-inturn-percent: 86
-outturn-total: 233
-outturn-percent: 85
-draw-total: 406
-draw-percent: 87
-takeout-total: 95
-takeout-percent: 80
-shots-total: 501
-shots-percent: 85
+games: 37
+wins: 23
+losses: 14
+inturn-total: 384
+inturn-percent: 85
+outturn-total: 271
+outturn-percent: 84
+draw-total: 529
+draw-percent: 86
+takeout-total: 126
+takeout-percent: 78
+shots-total: 655
+shots-percent: 84
 years:
  - year: 2013
    event: Hearts
@@ -51,7 +51,6 @@ years:
    shots-total: 2
    shots-percent: 88
  - year: 2013
-   event: Hearts
    team: Totals
    games: 2
    wins: 2
@@ -100,6 +99,23 @@ years:
    takeout-percent: 82
    shots-total: 257
    shots-percent: 88
+ - year: 2019
+   event: Hearts
+   team: "MB"
+   position: Lead
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 116
+   inturn-percent: 83
+   outturn-total: 38
+   outturn-percent: 75
+   draw-total: 123
+   draw-percent: 83
+   takeout-total: 31
+   takeout-percent: 73
+   shots-total: 154
+   shots-percent: 81
 vs:
  - Adams, Melissa
  - Anderson, Sherry

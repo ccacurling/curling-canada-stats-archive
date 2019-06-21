@@ -39,10 +39,10 @@ games:
      percent: 72     
      win: 1          
      loss: 0         
-   event: Hearts     
-   year: 1997        
-   draw: Playoff(20) 
-   score: ON 9 - NL 4
+   event: Hearts       
+   year: 1997          
+   draw: Semi-Final(20)
+   score: ON 9 - NL 4  
  - player1:         
      team: 'NL'     
      position: Third

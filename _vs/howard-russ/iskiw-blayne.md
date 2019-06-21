@@ -39,8 +39,8 @@ games:
      percent: 79    
      win: 0         
      loss: 1        
-   event: Brier      
-   year: 1999        
-   draw: Playoff(18) 
-   score: NB 5 - NS 4
+   event: Brier         
+   year: 1999           
+   draw: Tie-Breaker(18)
+   score: NB 5 - NS 4   
 ---

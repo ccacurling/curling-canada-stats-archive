@@ -2,14 +2,14 @@
 title: Reid Carruthers vs Dallan Muyres
 player1:                
   name: Carruthers, Reid
-  percent: 77           
-  wins: 3               
+  percent: 78           
+  wins: 4               
   losses: 1             
 player2:                
   name: Muyres, Dallan  
-  percent: 83           
+  percent: 85           
   wins: 1               
-  losses: 3             
+  losses: 4             
 games:
  - player1:          
      team: 'MB'      
@@ -75,4 +75,20 @@ games:
    year: 2018          
    draw: Round Robin(3)
    score: SK 5 - MB 7  
+ - player1:         
+     team: 'MB'     
+     position: Third
+     percent: 79    
+     win: 1         
+     loss: 0        
+   player2:        
+     team: 'SK'    
+     position: Lead
+     percent: 94   
+     win: 0        
+     loss: 1       
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(1)
+   score: MB 7 - SK 6  
 ---

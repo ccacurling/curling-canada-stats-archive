@@ -2,13 +2,13 @@
 title: Kirk Muyres vs Mark Nichols
 player1:             
   name: Muyres, Kirk 
-  percent: 87        
+  percent: 84        
   wins: 1            
-  losses: 4          
+  losses: 5          
 player2:             
   name: Nichols, Mark
-  percent: 87        
-  wins: 4            
+  percent: 88        
+  wins: 5            
   losses: 1          
 games:
  - player1:         
@@ -91,4 +91,20 @@ games:
    year: 2018        
    draw: Pool(16)    
    score: SK 4 - CA 5
+ - player1:          
+     team: 'SK'      
+     position: Fourth
+     percent: 64     
+     win: 0          
+     loss: 1         
+   player2:         
+     team: 'CA'     
+     position: Third
+     percent: 93    
+     win: 1         
+     loss: 0        
+   event: Brier      
+   year: 2019        
+   draw: Pool(16)    
+   score: CA 8 - SK 4
 ---

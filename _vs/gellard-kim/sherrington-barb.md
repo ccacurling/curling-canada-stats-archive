@@ -41,7 +41,7 @@ games:
      loss: 0         
    event: Hearts      
    year: 1996         
-   draw: Playoff(21)  
+   draw: Page 1-2(21) 
    score: ON 7 - AB 12
  - player1:         
      team: 'ON'     
@@ -57,6 +57,6 @@ games:
      loss: 1         
    event: Hearts     
    year: 1996        
-   draw: Playoff(23) 
+   draw: Final(23)   
    score: ON 7 - AB 4
 ---

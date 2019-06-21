@@ -78,7 +78,7 @@ vs:
  - Bradley, Shelly
  - Brothers, Jill
  - Brown, Jacalyn
- - Brown, Rachelle
+ - Brown, Rachel
  - Bush, Tracy
  - Carey, Chelsea
  - Carter, Sasha
@@ -170,6 +170,7 @@ vs:
  - Sandwith, Carley
  - Schmidt, Stephanie
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Sinclair, Andrea
  - Smith, Heather
@@ -180,7 +181,6 @@ vs:
  - Sweeting, Valerie
  - Thomas, Jill
  - Titheridge, Lindsay
- - Turpin, Kelli
  - Udle, Teri
  - Van Osch, Kesa
  - Wallingham, Patty

@@ -25,7 +25,7 @@ years:
    shots-percent: 79
 vs:
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Chorostkowski, Brad
  - Crowell, Phil
  - Flemming, Paul

@@ -41,7 +41,7 @@ games:
      loss: 1        
    event: Brier      
    year: 1995        
-   draw: Playoff(19) 
+   draw: Page 3-4(19)
    score: AB 8 - ON 4
  - player1:        
      team: 'AB'    

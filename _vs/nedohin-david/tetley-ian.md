@@ -41,6 +41,6 @@ games:
      loss: 1         
    event: Brier      
    year: 2001        
-   draw: Playoff(19) 
+   draw: Page 1-2(19)
    score: AB 8 - ON 6
 ---

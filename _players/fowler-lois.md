@@ -200,6 +200,7 @@ vs:
  - Schikowski, Keri-Lynn
  - Schmirler, Sandra
  - Scott, Donna
+ - Sharpe, Kelli
  - Shephard, Wendy
  - Sherrington, Barb
  - Shigehiro, Sally
@@ -214,7 +215,6 @@ vs:
  - Thomas, Karen
  - Thomas, Maria
  - Trowell, Cathy
- - Turpin, Kelli
  - Wall, Kirsten
  - Webb, Corine
  - Wheatcroft, Georgina

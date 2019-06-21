@@ -4,11 +4,11 @@ player1:
   name: Carruthers, Reid
   percent: 81           
   wins: 2               
-  losses: 1             
+  losses: 2             
 player2:                
   name: Hebert, Ben     
-  percent: 93           
-  wins: 1               
+  percent: 94           
+  wins: 2               
   losses: 2             
 games:
  - player1:          
@@ -59,4 +59,20 @@ games:
    year: 2015           
    draw: Round Robin(16)
    score: AB 8 - MB 7   
+ - player1:         
+     team: 'MB'     
+     position: Third
+     percent: 80    
+     win: 0         
+     loss: 1        
+   player2:        
+     team: 'AB'    
+     position: Lead
+     percent: 98   
+     win: 1        
+     loss: 0       
+   event: Brier      
+   year: 2019        
+   draw: Pool(16)    
+   score: MB 5 - AB 6
 ---

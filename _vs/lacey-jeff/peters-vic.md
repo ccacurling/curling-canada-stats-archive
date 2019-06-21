@@ -39,8 +39,8 @@ games:
      percent: 80     
      win: 1          
      loss: 0         
-   event: Brier      
-   year: 1997        
-   draw: Playoff(20) 
-   score: NB 5 - MB 6
+   event: Brier        
+   year: 1997          
+   draw: Semi-Final(20)
+   score: NB 5 - MB 6  
 ---

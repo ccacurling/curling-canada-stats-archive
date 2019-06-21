@@ -39,8 +39,8 @@ games:
      percent: 94   
      win: 1        
      loss: 0       
-   event: Brier      
-   year: 1998        
-   draw: Playoff(18) 
-   score: SK 3 - BC 2
+   event: Brier         
+   year: 1998           
+   draw: Tie-Breaker(18)
+   score: SK 3 - BC 2   
 ---

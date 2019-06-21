@@ -128,7 +128,7 @@ vs:
  - Berthelot, Marco
  - Bilesky, Andrew
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brannen, Jamie
  - Breckon, Graham
  - Bryant, Doug

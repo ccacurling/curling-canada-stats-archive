@@ -28,7 +28,7 @@ games:
    draw: Round Robin(2)
    score: PE 6 - TR 8  
  - player1:          
-     team: 'NT'      
+     team: 'TR'      
      position: Fourth
      percent: 90     
      win: 1          
@@ -42,5 +42,5 @@ games:
    event: Brier        
    year: 2013          
    draw: Round Robin(5)
-   score: PE 3 - NT 8  
+   score: PE 3 - TR 8  
 ---

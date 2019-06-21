@@ -41,7 +41,7 @@ games:
      loss: 0         
    event: Brier      
    year: 2002        
-   draw: Playoff(18) 
+   draw: Page 3-4(18)
    score: NB 7 - SK 5
  - player1:         
      team: 'SK'     

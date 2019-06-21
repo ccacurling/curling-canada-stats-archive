@@ -2,13 +2,13 @@
 title: Dallan Muyres vs Mark Nichols
 player1:              
   name: Muyres, Dallan
-  percent: 89         
+  percent: 87         
   wins: 1             
-  losses: 5           
+  losses: 6           
 player2:              
   name: Nichols, Mark 
-  percent: 86         
-  wins: 5             
+  percent: 87         
+  wins: 6             
   losses: 1           
 games:
  - player1:        
@@ -107,4 +107,20 @@ games:
    year: 2018        
    draw: Pool(16)    
    score: SK 4 - CA 5
+ - player1:        
+     team: 'SK'    
+     position: Lead
+     percent: 78   
+     win: 0        
+     loss: 1       
+   player2:         
+     team: 'CA'     
+     position: Third
+     percent: 93    
+     win: 1         
+     loss: 0        
+   event: Brier      
+   year: 2019        
+   draw: Pool(16)    
+   score: CA 8 - SK 4
 ---

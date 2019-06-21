@@ -59,6 +59,7 @@ vs:
  - Rudulier, Andrea
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Streifel, Tracy
  - Strong, Heather
@@ -66,6 +67,5 @@ vs:
  - Stubbings, Tiffany
  - Tanner, Ros
  - Thurston, Jill
- - Turpin, Kelli
  - Wheatcroft, Georgina
 ---

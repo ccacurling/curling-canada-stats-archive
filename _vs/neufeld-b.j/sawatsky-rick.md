@@ -2,14 +2,14 @@
 title: B.J. Neufeld vs Rick Sawatsky
 player1:              
   name: Neufeld, B.J. 
-  percent: 86         
-  wins: 1             
+  percent: 85         
+  wins: 2             
   losses: 1           
 player2:              
   name: Sawatsky, Rick
-  percent: 80         
+  percent: 83         
   wins: 1             
-  losses: 1           
+  losses: 2           
 games:
  - player1:         
      team: 'MB'     
@@ -43,4 +43,20 @@ games:
    year: 2017           
    draw: Round Robin(10)
    score: BC 7 - MB 5   
+ - player1:         
+     team: 'AB'     
+     position: Third
+     percent: 85    
+     win: 1         
+     loss: 0        
+   player2:        
+     team: 'BC'    
+     position: Lead
+     percent: 89   
+     win: 0        
+     loss: 1       
+   event: Brier         
+   year: 2019           
+   draw: Round Robin(10)
+   score: AB 9 - BC 5   
 ---

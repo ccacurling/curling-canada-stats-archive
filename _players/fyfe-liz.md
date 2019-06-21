@@ -2,18 +2,18 @@
 title: Liz Fyfe
 name: Liz Fyfe
 name-sort: Fyfe, Liz
-games: 26
-wins: 17
-losses: 9
-inturn-total: 268
+games: 33
+wins: 20
+losses: 13
+inturn-total: 347
 inturn-percent: 84
-outturn-total: 230
+outturn-total: 291
 outturn-percent: 83
-draw-total: 151
+draw-total: 214
 draw-percent: 79
-takeout-total: 347
-takeout-percent: 85
-shots-total: 498
+takeout-total: 424
+takeout-percent: 86
+shots-total: 638
 shots-percent: 83
 years:
  - year: 2016
@@ -50,6 +50,23 @@ years:
    takeout-percent: 84
    shots-total: 266
    shots-percent: 82
+ - year: 2019
+   event: Hearts
+   team: "MB"
+   position: Second
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 79
+   inturn-percent: 83
+   outturn-total: 61
+   outturn-percent: 83
+   draw-total: 63
+   draw-percent: 79
+   takeout-total: 77
+   takeout-percent: 86
+   shots-total: 140
+   shots-percent: 83
 vs:
  - Adams, Melissa
  - Anderson, Sherry

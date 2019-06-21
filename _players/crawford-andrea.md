@@ -2,18 +2,18 @@
 title: Andrea Crawford
 name: Andrea Crawford
 name-sort: Crawford, Andrea
-games: 77
-wins: 35
-losses: 42
-inturn-total: 779
-inturn-percent: 75
-outturn-total: 658
+games: 84
+wins: 38
+losses: 46
+inturn-total: 847
+inturn-percent: 76
+outturn-total: 717
 outturn-percent: 73
-draw-total: 642
-draw-percent: 71
-takeout-total: 795
+draw-total: 705
+draw-percent: 72
+takeout-total: 859
 takeout-percent: 77
-shots-total: 1437
+shots-total: 1564
 shots-percent: 74
 years:
  - year: 2006
@@ -135,6 +135,23 @@ years:
    takeout-percent: 79
    shots-total: 206
    shots-percent: 77
+ - year: 2019
+   event: Hearts
+   team: "NB"
+   position: Fourth
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 68
+   inturn-percent: 76
+   outturn-total: 59
+   outturn-percent: 78
+   draw-total: 63
+   draw-percent: 75
+   takeout-total: 64
+   takeout-percent: 79
+   shots-total: 127
+   shots-percent: 77
 vs:
  - Affleck, Tricia
  - Anderson, Sherry
@@ -156,7 +173,7 @@ vs:
  - Brassard, Veronique
  - Brothers, Jill
  - Brown, Jacalyn
- - Brown, Rachelle
+ - Brown, Rachel
  - Burgess, Carey
  - Bush, Tracy
  - Cameron, Nancy
@@ -295,6 +312,7 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shumay, Jill
  - Simons, Renee
  - Sinclair, Andrea
@@ -314,7 +332,6 @@ vs:
  - Thurston, Jill
  - Titheridge, Lindsay
  - Tuck, Kim
- - Turpin, Kelli
  - Udle, Teri
  - Van Osch, Kesa
  - Vey, Lana

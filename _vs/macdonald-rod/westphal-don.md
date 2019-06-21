@@ -41,6 +41,6 @@ games:
      loss: 0         
    event: Brier      
    year: 1996        
-   draw: Playoff(19) 
+   draw: Page 3-4(19)
    score: QC 7 - PE 4
 ---

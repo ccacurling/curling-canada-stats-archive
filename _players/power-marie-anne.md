@@ -203,6 +203,7 @@ vs:
  - Scales, Julie
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Skinner, Julie
  - Sonnenberg, Renee
  - Stabel, Stacey
@@ -216,7 +217,6 @@ vs:
  - Tincher, Twyla
  - Trider, Krista
  - Tucker, Cindy
- - Turpin, Kelli
  - Udle, Teri
  - Vey, Lana
  - Wheatcroft, Georgina

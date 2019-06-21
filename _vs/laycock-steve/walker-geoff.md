@@ -2,13 +2,13 @@
 title: Steve Laycock vs Geoff Walker
 player1:              
   name: Laycock, Steve
-  percent: 84         
+  percent: 85         
   wins: 2             
-  losses: 2           
+  losses: 3           
 player2:              
   name: Walker, Geoff 
-  percent: 91         
-  wins: 2             
+  percent: 90         
+  wins: 3             
   losses: 2           
 games:
  - player1:          
@@ -75,4 +75,20 @@ games:
    year: 2018        
    draw: Pool(16)    
    score: SK 4 - CA 5
+ - player1:         
+     team: 'BC'     
+     position: Third
+     percent: 86    
+     win: 0         
+     loss: 1        
+   player2:        
+     team: 'CA'    
+     position: Lead
+     percent: 83   
+     win: 1        
+     loss: 0       
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(6)
+   score: BC 4 - CA 10 
 ---

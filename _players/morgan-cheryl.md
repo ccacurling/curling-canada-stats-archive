@@ -60,11 +60,11 @@ vs:
  - Provencal, Darah
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
- - Turpin, Kelli
  - Udle, Teri
  - Vey, Lana
  - Wheatcroft, Georgina

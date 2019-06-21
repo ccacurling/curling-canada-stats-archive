@@ -2,13 +2,13 @@
 title: Jim Cotter vs B.J. Neufeld
 player1:             
   name: Cotter, Jim  
-  percent: 76        
+  percent: 74        
   wins: 1            
-  losses: 1          
+  losses: 2          
 player2:             
   name: Neufeld, B.J.
-  percent: 86        
-  wins: 1            
+  percent: 85        
+  wins: 2            
   losses: 1          
 games:
  - player1:          
@@ -43,4 +43,20 @@ games:
    year: 2017           
    draw: Round Robin(10)
    score: BC 7 - MB 5   
+ - player1:          
+     team: 'BC'      
+     position: Fourth
+     percent: 69     
+     win: 0          
+     loss: 1         
+   player2:         
+     team: 'AB'     
+     position: Third
+     percent: 85    
+     win: 1         
+     loss: 0        
+   event: Brier         
+   year: 2019           
+   draw: Round Robin(10)
+   score: AB 9 - BC 5   
 ---

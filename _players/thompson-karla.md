@@ -82,7 +82,6 @@ vs:
  - Hughes, Meaghan
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kelly, Kim
  - Kidd, Darlene
  - Kleibrink, Shannon
@@ -100,6 +99,7 @@ vs:
  - Moore, Kim
  - Moses, Dawn
  - Murphy, Sarah
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy

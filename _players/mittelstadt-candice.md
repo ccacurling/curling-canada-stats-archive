@@ -126,9 +126,9 @@ vs:
  - Ross, Allison
  - Scales, Julie
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Singler, Sherri
  - Strong, Heather
  - Strong, Laura
- - Turpin, Kelli
 ---

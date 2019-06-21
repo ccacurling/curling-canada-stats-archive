@@ -93,7 +93,7 @@ vs:
  - Berthelot, Marco
  - Bice, Steve
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Bryant, Doug
  - Campbell, Robert
  - Carmody, Anson

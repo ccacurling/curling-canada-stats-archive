@@ -257,7 +257,7 @@ vs:
  - Brothers, Jill
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Rachelle
+ - Brown, Rachel
  - Bryant, Angie
  - Burgess, Carey
  - Burlington, Cheryl
@@ -300,7 +300,6 @@ vs:
  - Enright, Barb
  - Farrell, Allison
  - Ferguson, Dana
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Flaxey, Allison
  - Floyd, Kathy
@@ -439,6 +438,7 @@ vs:
  - Parsons, Danielle
  - Peters, Laine
  - Phillips, Margaret Lea
+ - Pilote, Kristen
  - Power, Marie-Anne
  - Prosser, Sandi
  - Provencal, Darah
@@ -467,6 +467,7 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simmons, Cindy
  - Simons, Renee
  - Sinclair, Andrea
@@ -500,7 +501,6 @@ vs:
  - Trombley, Christy
  - Trowell, Cathy
  - Tucker, Cindy
- - Turpin, Kelli
  - Udle, Teri
  - Van Osch, Kesa
  - Vey, Lana

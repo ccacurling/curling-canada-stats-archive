@@ -249,7 +249,6 @@ vs:
  - Jones, Jennifer
  - Jones-Walker, Debbie
  - Joyce, Blisse
- - Kaatz, Selena
  - Kalenchuk, Heather
  - Karam, Sally
  - Kasner, Marliese
@@ -305,6 +304,7 @@ vs:
  - Murphy, Sarah
  - Muzika, Shelley
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nicholson, Danielle
  - Nixon, Amy
  - Nowlan, Denise
@@ -337,6 +337,7 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shumay, Jill
  - Simmons, Cindy
  - Simons, Renee
@@ -359,7 +360,6 @@ vs:
  - Thompson, Karla
  - Tincher, Twyla
  - Tucker, Cindy
- - Turpin, Kelli
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie

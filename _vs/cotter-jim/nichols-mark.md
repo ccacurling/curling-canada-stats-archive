@@ -2,13 +2,13 @@
 title: Jim Cotter vs Mark Nichols
 player1:             
   name: Cotter, Jim  
-  percent: 83        
+  percent: 82        
   wins: 3            
-  losses: 4          
+  losses: 5          
 player2:             
   name: Nichols, Mark
   percent: 88        
-  wins: 4            
+  wins: 5            
   losses: 3          
 games:
  - player1:          
@@ -123,4 +123,20 @@ games:
    year: 2017           
    draw: Round Robin(12)
    score: BC 4 - NL 5   
+ - player1:          
+     team: 'BC'      
+     position: Fourth
+     percent: 69     
+     win: 0          
+     loss: 1         
+   player2:         
+     team: 'CA'     
+     position: Third
+     percent: 81    
+     win: 1         
+     loss: 0        
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(6)
+   score: BC 4 - CA 10 
 ---

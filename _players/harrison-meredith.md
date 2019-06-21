@@ -167,12 +167,12 @@ vs:
  - Scales, Julie
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Stabel, Stacey
  - Stewart, Sheri
  - Strong, Heather
  - Stubbings, Tiffany
- - Turpin, Kelli
  - Vey, Lana
  - Wall, Kirsten
  - Wheatcroft, Georgina

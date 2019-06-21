@@ -2,18 +2,18 @@
 title: Jamie Koe
 name: Jamie Koe
 name-sort: Koe, Jamie
-games: 130
-wins: 40
-losses: 90
-inturn-total: 1124
+games: 137
+wins: 41
+losses: 96
+inturn-total: 1159
 inturn-percent: 74
-outturn-total: 1170
+outturn-total: 1251
 outturn-percent: 76
-draw-total: 1071
-draw-percent: 75
-takeout-total: 1223
+draw-total: 1128
+draw-percent: 74
+takeout-total: 1282
 takeout-percent: 76
-shots-total: 2294
+shots-total: 2410
 shots-percent: 75
 years:
  - year: 2006
@@ -220,11 +220,29 @@ years:
    takeout-percent: 72
    shots-total: 140
    shots-percent: 75
+ - year: 2019
+   event: Brier
+   team: "NT"
+   position: Fourth
+   games: 7
+   wins: 1
+   losses: 6
+   inturn-total: 35
+   inturn-percent: 74
+   outturn-total: 81
+   outturn-percent: 69
+   draw-total: 57
+   draw-percent: 70
+   takeout-total: 59
+   takeout-percent: 71
+   shots-total: 116
+   shots-percent: 70
 vs:
  - Adam, Gerry
  - Adams, Shawn
  - Anderson, Chris
  - Appelman, Tom
+ - Ardiel, Taylor
  - Armstrong, Mike
  - Asmussen, Evan Scott
  - Asselin, Felix
@@ -234,12 +252,13 @@ vs:
  - Barry, Josh
  - Bartlett, Don
  - Berthelot, Marco
+ - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
  - Bice, Steve
  - Bilesky, Andrew
  - Bitz, Scott
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Bouchard, Christian
  - Brannen, Jamie
  - Breckon, Graham
@@ -251,11 +270,13 @@ vs:
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
+ - Chadwick, Scott
  - Champion, Kevin
  - Charette, Pierre
  - Childs, Jamie
  - Clarey, Sean
  - Collin, Simon
+ - Colter, Travis
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
@@ -279,6 +300,7 @@ vs:
  - Flaxey, Caleb
  - Flemming, Paul
  - Folk, Kevin
+ - Forget, Wes
  - Fournier, Mike
  - Fowler, Rob
  - Fraser, Pierre
@@ -296,6 +318,7 @@ vs:
  - Gould, Steve
  - Graber, Dennis
  - Granchelli, Kris
+ - Grant, Jeff
  - Grattan, James
  - Griffith, Ty
  - Gushue, Brad
@@ -328,6 +351,7 @@ vs:
  - Jordison, Joel
  - Kean, Mark
  - Kehoe, Mark
+ - Kendall, Lloyd
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
@@ -355,6 +379,7 @@ vs:
  - MacInnes, David
  - MacKenzie, Eddie
  - MacKenzie, Tyler
+ - Mackey, Peter
  - Mallais, Jeremy
  - Manners, Scott
  - Markowsky, Rob
@@ -366,6 +391,7 @@ vs:
  - McCarville, Mike
  - McCusker, Brian
  - McDermaid, Donald
+ - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
  - Meachem, Shaun Myles
@@ -382,6 +408,7 @@ vs:
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Nantes, Dave
  - Nelson, Randy
  - Nerpin, Andrew
@@ -428,6 +455,8 @@ vs:
  - Smith, Greg
  - Smith, Kent
  - Spencer, Adam
+ - St.Louis, David
+ - Steele, Colten
  - Stoughton, Jeff
  - Sullivan, Charles Jr
  - Sylvain, Eric
@@ -435,6 +464,7 @@ vs:
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thompson, Stuart
  - Toner, Lee
  - Trepanier, Jean-Francois
  - Van Den Berghe, Garry

@@ -2,19 +2,19 @@
 title: Philippe Menard
 name: Philippe Menard
 name-sort: Menard, Philippe
-games: 71
-wins: 36
-losses: 35
-inturn-total: 570
-inturn-percent: 90
-outturn-total: 774
-outturn-percent: 89
-draw-total: 1204
-draw-percent: 90
-takeout-total: 140
+games: 78
+wins: 39
+losses: 39
+inturn-total: 679
+inturn-percent: 89
+outturn-total: 786
+outturn-percent: 88
+draw-total: 1315
+draw-percent: 89
+takeout-total: 150
 takeout-percent: 81
-shots-total: 1344
-shots-percent: 89
+shots-total: 1465
+shots-percent: 88
 years:
  - year: 2008
    event: Brier
@@ -51,7 +51,6 @@ years:
    shots-total: 2
    shots-percent: 100
  - year: 2008
-   event: Brier
    team: Totals
    games: 2
    wins: 2
@@ -172,7 +171,25 @@ years:
    takeout-percent: 88
    shots-total: 212
    shots-percent: 89
+ - year: 2019
+   event: Brier
+   team: "QC"
+   position: Lead
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 109
+   inturn-percent: 83
+   outturn-total: 12
+   outturn-percent: 65
+   draw-total: 111
+   draw-percent: 82
+   takeout-total: 10
+   takeout-percent: 73
+   shots-total: 121
+   shots-percent: 81
 vs:
+ - Abel, Clinton
  - Adams, Shawn
  - Balsdon, Greg
  - Bardsley, Mike
@@ -181,10 +198,12 @@ vs:
  - Bice, Mark
  - Bice, Steve
  - Bilesky, Andrew
+ - Boland, Adam
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brannen, Jamie
  - Breckon, Graham
+ - Burgess, Steve
  - Camm, Mathew
  - Carmody, Anson
  - Carruthers, Reid
@@ -206,6 +225,7 @@ vs:
  - Flasch, Colton
  - Flemming, Paul
  - Folk, Kevin
+ - Ford, Chris
  - Fry, Ryan
  - Gallant, Brett
  - Gaudet, Mike
@@ -225,6 +245,7 @@ vs:
  - Howard, Steven
  - Jacobs, Brad
  - Jeffrey, Chris
+ - Jewer, Keith
  - Jones, Brennen
  - Jones, Scott
  - Kean, Mark
@@ -240,10 +261,13 @@ vs:
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
+ - Likely, John
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - MacKenzie, Tyler
  - Mallais, Jeremy
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Maskiewich, Ken
@@ -266,11 +290,13 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Odian, Scott
  - Palmer, Curt
  - Pinder, Jordan
  - Rafuse, Brian
  - Roach, Darren
  - Roach, Jason
+ - Rowsell, Rick
  - Rycroft, Carter
  - Saccary, Scott
  - Samagalski, Derek
@@ -281,11 +307,14 @@ vs:
  - Seabrook, Scott
  - Simmons, Pat
  - Slauenwhite, David
+ - Smallwood, Robert
  - Smith, Garth
  - Smith, Kent
+ - Solberg, Jonathon
  - Spencer, Adam
  - Stoughton, Jeff
  - Sullivan, Charles Jr
+ - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
  - Vaughan, Jason

@@ -2,14 +2,14 @@
 title: Reid Carruthers vs Philippe Menard
 player1:                
   name: Carruthers, Reid
-  percent: 87           
-  wins: 3               
+  percent: 88           
+  wins: 4               
   losses: 3             
 player2:                
   name: Menard, Philippe
   percent: 87           
   wins: 3               
-  losses: 3             
+  losses: 4             
 games:
  - player1:          
      team: 'MB'      
@@ -107,4 +107,20 @@ games:
    year: 2015           
    draw: Round Robin(12)
    score: MB 4 - QC 7   
+ - player1:         
+     team: 'MB'     
+     position: Third
+     percent: 99    
+     win: 1         
+     loss: 0        
+   player2:        
+     team: 'QC'    
+     position: Lead
+     percent: 88   
+     win: 0        
+     loss: 1       
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(3)
+   score: MB 8 - QC 3  
 ---

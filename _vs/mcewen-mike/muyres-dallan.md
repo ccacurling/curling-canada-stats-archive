@@ -2,14 +2,14 @@
 title: Mike McEwen vs Dallan Muyres
 player1:              
   name: McEwen, Mike  
-  percent: 82         
-  wins: 2             
+  percent: 81         
+  wins: 3             
   losses: 0           
 player2:              
   name: Muyres, Dallan
-  percent: 90         
+  percent: 91         
   wins: 0             
-  losses: 2           
+  losses: 3           
 games:
  - player1:          
      team: 'MB'      
@@ -43,4 +43,20 @@ games:
    year: 2018        
    draw: Pool(18)    
    score: WC 6 - SK 4
+ - player1:          
+     team: 'MB'      
+     position: Fourth
+     percent: 79     
+     win: 1          
+     loss: 0         
+   player2:        
+     team: 'SK'    
+     position: Lead
+     percent: 94   
+     win: 0        
+     loss: 1       
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(1)
+   score: MB 7 - SK 6  
 ---

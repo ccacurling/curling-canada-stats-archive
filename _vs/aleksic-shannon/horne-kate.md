@@ -41,6 +41,6 @@ games:
      loss: 0       
    event: Hearts      
    year: 1999         
-   draw: Playoff(18)  
+   draw: Page 3-4(18) 
    score: SK 4 - CA 12
 ---

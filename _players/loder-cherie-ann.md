@@ -60,12 +60,12 @@ vs:
  - Rudulier, Andrea
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Streifel, Tracy
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
  - Tanner, Ros
- - Turpin, Kelli
  - Wheatcroft, Georgina
 ---

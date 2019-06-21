@@ -2,18 +2,18 @@
 title: Reid Carruthers
 name: Reid Carruthers
 name-sort: Carruthers, Reid
-games: 62
-wins: 39
-losses: 23
-inturn-total: 567
+games: 73
+wins: 45
+losses: 28
+inturn-total: 657
 inturn-percent: 84
-outturn-total: 562
+outturn-total: 684
 outturn-percent: 85
-draw-total: 541
+draw-total: 627
 draw-percent: 84
-takeout-total: 588
-takeout-percent: 85
-shots-total: 1129
+takeout-total: 714
+takeout-percent: 84
+shots-total: 1341
 shots-percent: 84
 years:
  - year: 2008
@@ -118,25 +118,47 @@ years:
    takeout-percent: 81
    shots-total: 194
    shots-percent: 77
+ - year: 2019
+   event: Brier
+   team: "MB"
+   position: Third
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 90
+   inturn-percent: 86
+   outturn-total: 122
+   outturn-percent: 81
+   draw-total: 86
+   draw-percent: 86
+   takeout-total: 126
+   takeout-percent: 81
+   shots-total: 212
+   shots-percent: 83
 vs:
+ - Abel, Clinton
  - Adam, Gerry
  - Adams, Shawn
  - Asselin, Felix
  - Balsdon, Greg
  - Bardsley, Mike
  - Barry, Josh
+ - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
  - Bice, Steve
  - Bilesky, Andrew
+ - Boland, Adam
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Bouchard, Christian
  - Breckon, Graham
+ - Burgess, Steve
  - Camm, Mathew
  - Carmody, Anson
  - Case, Peter
  - Casey, Adam
+ - Chadwick, Scott
  - Charette, Pierre
  - Childs, Jamie
  - Chorostkowski, Brad
@@ -158,6 +180,8 @@ vs:
  - Flasch, Colton
  - Flemming, Paul
  - Folk, Kevin
+ - Ford, Chris
+ - Forget, Wes
  - Fournier, Mike
  - Fry, Ryan
  - Gagne, Francois
@@ -180,6 +204,7 @@ vs:
  - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Jewer, Keith
  - Jones, Brennen
  - Kean, Mark
  - Kennedy, Marc
@@ -193,12 +218,16 @@ vs:
  - Laing, Brent
  - Laycock, Steve
  - Ledgerwood, Sean
+ - Lemay, Philippe
+ - Likely, John
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - MacKenzie, Tyler
  - Mackey, Peter
  - Mallais, Jeremy
  - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Maskiewich, Ken
@@ -206,6 +235,7 @@ vs:
  - McCann, Andy
  - McCarville, Mike
  - McDermaid, Donald
+ - McDonald, Scott
  - McEwen, Mike
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -223,7 +253,9 @@ vs:
  - Neufeld, Denni
  - Newson, Jamie
  - Nichols, Mark
+ - Odian, Scott
  - Pinder, Jordan
+ - Rach, Dave
  - Roach, Darren
  - Roach, Jason
  - Rycroft, Carter
@@ -234,10 +266,13 @@ vs:
  - Seabrook, Scott
  - Sharp, Jeff
  - Simmons, Pat
+ - Smallwood, Robert
  - Smith, Kent
+ - Solberg, Jonathon
  - St.Louis, David
  - Sullivan, Charles Jr
  - Sylvain, Eric
+ - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
  - Trepanier, Jean-Francois

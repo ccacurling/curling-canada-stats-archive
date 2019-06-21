@@ -41,7 +41,7 @@ games:
      loss: 0        
    event: Brier      
    year: 2000        
-   draw: Playoff(20) 
+   draw: Page 1-2(20)
    score: BC 5 - NB 3
  - player1:        
      team: 'NB'    
@@ -57,6 +57,6 @@ games:
      loss: 0        
    event: Brier      
    year: 2000        
-   draw: Playoff(22) 
+   draw: Final(22)   
    score: BC 9 - NB 5
 ---

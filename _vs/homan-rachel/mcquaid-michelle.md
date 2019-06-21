@@ -2,14 +2,14 @@
 title: Rachel Homan vs Michelle McQuaid
 player1:                 
   name: Homan, Rachel    
-  percent: 80            
-  wins: 2                
+  percent: 83            
+  wins: 3                
   losses: 0              
 player2:                 
   name: McQuaid, Michelle
-  percent: 67            
+  percent: 74            
   wins: 0                
-  losses: 2              
+  losses: 3              
 games:
  - player1:          
      team: 'CA'      
@@ -43,4 +43,20 @@ games:
    year: 2017          
    draw: Round Robin(4)
    score: PE 3 - ON 8  
+ - player1:          
+     team: 'ON'      
+     position: Fourth
+     percent: 88     
+     win: 1          
+     loss: 0         
+   player2:        
+     team: 'PE'    
+     position: Lead
+     percent: 86   
+     win: 0        
+     loss: 1       
+   event: Hearts     
+   year: 2019        
+   draw: Pool(18)    
+   score: PE 6 - ON 7
 ---

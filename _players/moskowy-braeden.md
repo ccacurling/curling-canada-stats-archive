@@ -73,7 +73,7 @@ vs:
  - Bezanson, Jared
  - Bilesky, Andrew
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Breckon, Graham
  - Camm, Mathew
  - Carmody, Anson

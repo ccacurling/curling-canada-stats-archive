@@ -55,8 +55,8 @@ games:
      percent: 70    
      win: 0         
      loss: 1        
-   event: Brier      
-   year: 2005        
-   draw: Playoff(20) 
-   score: NS 8 - MB 7
+   event: Brier        
+   year: 2005          
+   draw: Semi-Final(20)
+   score: NS 8 - MB 7  
 ---

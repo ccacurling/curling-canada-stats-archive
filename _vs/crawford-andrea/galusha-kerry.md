@@ -2,13 +2,13 @@
 title: Andrea Crawford vs Kerry Galusha
 player1:                
   name: Crawford, Andrea
-  percent: 80           
+  percent: 79           
   wins: 3               
-  losses: 2             
+  losses: 3             
 player2:                
   name: Galusha, Kerry  
   percent: 75           
-  wins: 2               
+  wins: 3               
   losses: 3             
 games:
  - player1:          
@@ -82,7 +82,7 @@ games:
      win: 1          
      loss: 0         
    player2:          
-     team: 'NT'      
+     team: 'TR'      
      position: Fourth
      percent: 60     
      win: 0          
@@ -90,5 +90,21 @@ games:
    event: Hearts       
    year: 2013          
    draw: Round Robin(5)
-   score: NB 9 - NT 5  
+   score: NB 9 - TR 5  
+ - player1:          
+     team: 'NB'      
+     position: Fourth
+     percent: 77     
+     win: 0          
+     loss: 1         
+   player2:          
+     team: 'NT'      
+     position: Fourth
+     percent: 75     
+     win: 1          
+     loss: 0         
+   event: Hearts       
+   year: 2019          
+   draw: Round Robin(2)
+   score: NT 11 - NB 5 
 ---

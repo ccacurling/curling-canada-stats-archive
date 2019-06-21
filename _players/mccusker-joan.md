@@ -304,6 +304,7 @@ vs:
  - Santos, Deb
  - Scales, Julie
  - Schikowski, Keri-Lynn
+ - Sharpe, Kelli
  - Shields, Deanne
  - Shigehiro, Sally
  - Skinner, Julie
@@ -320,7 +321,6 @@ vs:
  - Todd, Fran
  - Trowell, Cathy
  - Turcotte, Kristin
- - Turpin, Kelli
  - Unrau, Faye
  - Usher, Leanne
  - Willms, Karri

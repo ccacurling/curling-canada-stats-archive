@@ -2,13 +2,13 @@
 title: Dana Ferguson vs Dawn McEwen
 player1:              
   name: Ferguson, Dana
-  percent: 83         
+  percent: 85         
   wins: 0             
-  losses: 3           
+  losses: 4           
 player2:              
   name: McEwen, Dawn  
   percent: 89         
-  wins: 3             
+  wins: 4             
   losses: 0           
 games:
  - player1:          
@@ -59,4 +59,20 @@ games:
    year: 2015        
    draw: Final(22)   
    score: AB 5 - MB 6
+ - player1:          
+     team: 'AB'      
+     position: Second
+     percent: 89     
+     win: 0          
+     loss: 1         
+   player2:        
+     team: 'CA'    
+     position: Lead
+     percent: 88   
+     win: 1        
+     loss: 0       
+   event: Hearts      
+   year: 2019         
+   draw: Pool(16)     
+   score: AB 8 - CA 10
 ---

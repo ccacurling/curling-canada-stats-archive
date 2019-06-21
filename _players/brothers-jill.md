@@ -2,18 +2,18 @@
 title: Jill Brothers
 name: Jill Brothers
 name-sort: Brothers, Jill
-games: 32
-wins: 13
-losses: 19
-inturn-total: 325
-inturn-percent: 76
-outturn-total: 278
-outturn-percent: 73
-draw-total: 270
+games: 39
+wins: 15
+losses: 24
+inturn-total: 394
+inturn-percent: 75
+outturn-total: 339
+outturn-percent: 72
+draw-total: 338
 draw-percent: 68
-takeout-total: 333
-takeout-percent: 80
-shots-total: 603
+takeout-total: 395
+takeout-percent: 79
+shots-total: 733
 shots-percent: 74
 years:
  - year: 2007
@@ -67,6 +67,23 @@ years:
    takeout-percent: 83
    shots-total: 193
    shots-percent: 77
+ - year: 2019
+   event: Hearts
+   team: "NS"
+   position: Fourth
+   games: 7
+   wins: 2
+   losses: 5
+   inturn-total: 69
+   inturn-percent: 70
+   outturn-total: 61
+   outturn-percent: 70
+   draw-total: 68
+   draw-percent: 67
+   takeout-total: 62
+   takeout-percent: 73
+   shots-total: 130
+   shots-percent: 70
 vs:
  - Aleksic, Shannon
  - Anderson, Sherry
@@ -77,7 +94,7 @@ vs:
  - Betker, Jan
  - Birt, Suzanne
  - Boyle, Jane
- - Brown, Rachelle
+ - Brown, Rachel
  - Campbell, Jolene
  - Carey, Chelsea
  - Carter, Sasha
@@ -117,7 +134,6 @@ vs:
  - Hughes, Meaghan
  - Inglis, Nancy
  - Jones, Jennifer
- - Kaatz, Selena
  - Kasner, Marliese
  - Koltun, Sarah
  - Kreviazuk, Alison
@@ -141,6 +157,7 @@ vs:
  - Morris, Cori
  - Moses, Dawn
  - Murphy, Jeanette
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Nowlan, Denise
@@ -170,6 +187,7 @@ vs:
  - Sandwith, Carley
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Sinclair, Andrea
  - Singler, Sherri
@@ -182,7 +200,6 @@ vs:
  - Thompson, Karla
  - Titheridge, Lindsay
  - Tuck, Kim
- - Turpin, Kelli
  - Vandale, Trysta
  - Van Osch, Kesa
  - Vautour, Carrie

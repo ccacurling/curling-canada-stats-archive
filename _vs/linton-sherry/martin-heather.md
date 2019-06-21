@@ -41,6 +41,6 @@ games:
      loss: 0       
    event: Hearts     
    year: 2003        
-   draw: Playoff(18) 
+   draw: Page 3-4(18)
    score: SK 6 - NL 8
 ---

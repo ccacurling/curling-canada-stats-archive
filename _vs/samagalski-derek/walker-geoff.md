@@ -2,13 +2,13 @@
 title: Derek Samagalski vs Geoff Walker
 player1:                 
   name: Samagalski, Derek
-  percent: 91            
+  percent: 90            
   wins: 2                
-  losses: 1              
+  losses: 2              
 player2:                 
   name: Walker, Geoff    
-  percent: 88            
-  wins: 1                
+  percent: 87            
+  wins: 2                
   losses: 2              
 games:
  - player1:        
@@ -59,4 +59,20 @@ games:
    year: 2018        
    draw: Pool(15)    
    score: CA 7 - MB 2
+ - player1:          
+     team: 'MB'      
+     position: Second
+     percent: 89     
+     win: 0          
+     loss: 1         
+   player2:        
+     team: 'CA'    
+     position: Lead
+     percent: 83   
+     win: 1        
+     loss: 0       
+   event: Brier      
+   year: 2019        
+   draw: Pool(15)    
+   score: CA 6 - MB 3
 ---

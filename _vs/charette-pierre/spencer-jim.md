@@ -39,8 +39,8 @@ games:
      percent: 89     
      win: 0          
      loss: 1         
-   event: Brier      
-   year: 1998        
-   draw: Playoff(21) 
-   score: MB 5 - QC 7
+   event: Brier        
+   year: 1998          
+   draw: Semi-Final(21)
+   score: MB 5 - QC 7  
 ---

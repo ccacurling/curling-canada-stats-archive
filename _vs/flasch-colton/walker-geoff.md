@@ -3,13 +3,13 @@ title: Colton Flasch vs Geoff Walker
 player1:              
   name: Flasch, Colton
   percent: 83         
-  wins: 2             
+  wins: 3             
   losses: 1           
 player2:              
   name: Walker, Geoff 
-  percent: 90         
+  percent: 92         
   wins: 1             
-  losses: 2           
+  losses: 3           
 games:
  - player1:          
      team: 'SK'      
@@ -59,4 +59,20 @@ games:
    year: 2015        
    draw: Bronze(21)  
    score: NL 5 - SK 7
+ - player1:          
+     team: 'AB'      
+     position: Second
+     percent: 83     
+     win: 1          
+     loss: 0         
+   player2:        
+     team: 'CA'    
+     position: Lead
+     percent: 96   
+     win: 0        
+     loss: 1       
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(8)
+   score: CA 6 - AB 7  
 ---

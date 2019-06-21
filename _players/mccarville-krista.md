@@ -2,19 +2,19 @@
 title: Krista McCarville
 name: Krista McCarville
 name-sort: McCarville, Krista
-games: 76
-wins: 43
-losses: 33
-inturn-total: 725
-inturn-percent: 75
-outturn-total: 726
-outturn-percent: 75
-draw-total: 695
-draw-percent: 73
-takeout-total: 756
+games: 88
+wins: 51
+losses: 37
+inturn-total: 852
+inturn-percent: 76
+outturn-total: 831
+outturn-percent: 76
+draw-total: 819
+draw-percent: 74
+takeout-total: 864
 takeout-percent: 77
-shots-total: 1451
-shots-percent: 75
+shots-total: 1683
+shots-percent: 76
 years:
  - year: 2006
    event: Hearts
@@ -118,6 +118,23 @@ years:
    takeout-percent: 85
    shots-total: 260
    shots-percent: 82
+ - year: 2019
+   event: Hearts
+   team: "NO"
+   position: Fourth
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 127
+   inturn-percent: 79
+   outturn-total: 105
+   outturn-percent: 83
+   draw-total: 124
+   draw-percent: 80
+   takeout-total: 108
+   takeout-percent: 81
+   shots-total: 232
+   shots-percent: 81
 vs:
  - Affleck, Tricia
  - Alcoe-Holland, Jill
@@ -127,17 +144,23 @@ vs:
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Babin, Jillian
+ - Baldwin, Nicole
  - Barbour, Shona
  - Barker, Penny
  - Belanger, Nancy
  - Belisle, Eve
  - Bernard, Cheryl
  - Betker, Jan
+ - Birnie, Hailey
  - Birt, Suzanne
  - Blais, Amelie
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Boudreault, Patricia
  - Boyle, Jane
  - Brothers, Jill
  - Brown, Jacalyn
+ - Brown, Rachel
  - Burgess, Carey
  - Bush, Tracy
  - Cameron, Kate
@@ -158,6 +181,7 @@ vs:
  - Cunningham, Cathy
  - Curtis, Stacie
  - Cutcliffe, Margaret
+ - Daigle, Julie
  - Daniel, Sylvie
  - Darbyshire, Carolyn
  - deJager, Blaine
@@ -173,6 +197,7 @@ vs:
  - Englot, Michelle
  - Enright, Barb
  - Eyamie, Lisa
+ - Ferguson, Dana
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gagnier, Monique
@@ -180,8 +205,11 @@ vs:
  - Georges, Kendra
  - Gilman, Sheena
  - Goss, Peg
+ - Griffin, Alison
  - Gudereit, Marcia
  - Gushulak, Diane
+ - Guzzwell, Stephanie
+ - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
@@ -194,20 +222,24 @@ vs:
  - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
+ - Hunkin, Jessie
  - Inglis, Nancy
+ - Ingram, Megan
  - Iskiw, Beth
+ - Jewer, Michelle
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kelly, Kim
  - King, Cathy
  - Kleibrink, Shannon
  - Koehler, Megan
+ - Koltun, Sarah
  - Larouche, Marie-France
  - Lavery, Tracey
+ - Lavoie, Gabrielle
  - Law, Kelley
  - Lawes, Kaitlyn
  - Lawton, Stefanie
@@ -235,10 +267,12 @@ vs:
  - Morgan, Cheryl
  - Morris, Cori
  - Moses, Dawn
+ - Munroe, Anna
  - Murphy, Jeanette
  - Murphy, Sarah
  - Muzika, Shelley
  - Naugler, Tara
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Nowlan, Denise
@@ -255,6 +289,7 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Phillips, Kristen
+ - Pilote, Kristen
  - Porter, Erin
  - Power, Marie-Anne
  - Provencal, Darah
@@ -268,34 +303,42 @@ vs:
  - Robichaud, Sylvie
  - Rogers, Rhonda
  - Rudulier, Andrea
+ - Rusnell, Jen
  - Sabourin, Joelle
  - Sagle, Karen
+ - Sandwith, Carley
  - Saulnier, Andrea
  - Schneider, Kim
  - Schneider, Lorraine
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
+ - Shaw, Ladene
  - Sicinski, Danielle
+ - Silvernagle, Robyn
  - Simons, Renee
  - Singler, Sherri
  - Sobey, Lianne
  - Spencer, Barb
  - Streifel, Tracy
  - Strong, Heather
+ - Strong, Helen
  - Strong, Laura
  - Sweeting, Valerie
  - Tanner, Ros
+ - Thevenot, Kara
  - Thiessen, Alison
  - Thomas, Jill
  - Thompson, Karla
  - Thurston, Jill
+ - Tran, Brittany
  - Trickett, Erica
- - Turpin, Kelli
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie
  - Vey, Lana
+ - Wark, Sarah
  - Weagle, Lisa
  - Westcott, Raunora
  - Wheatcroft, Georgina

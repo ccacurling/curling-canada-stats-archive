@@ -51,7 +51,6 @@ years:
    shots-total: 44
    shots-percent: 65
  - year: 2011
-   event: Hearts
    team: Totals
    games: 3
    wins: 1

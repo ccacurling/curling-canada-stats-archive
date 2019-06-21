@@ -51,7 +51,6 @@ years:
    shots-total: 114
    shots-percent: 66
  - year: 1983
-   event: Hearts
    team: Totals
    games: 10
    wins: 4

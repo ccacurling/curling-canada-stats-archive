@@ -39,8 +39,8 @@ games:
      percent: 76     
      win: 1          
      loss: 0         
-   event: Hearts     
-   year: 1996        
-   draw: Playoff(19) 
-   score: PE 5 - CA 6
+   event: Hearts        
+   year: 1996           
+   draw: Tie-Breaker(19)
+   score: PE 5 - CA 6   
 ---

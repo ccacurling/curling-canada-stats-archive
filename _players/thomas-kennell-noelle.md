@@ -43,7 +43,7 @@ years:
    position: Alternate
 vs:
  - Anderson, Sherry
- - Brown, Rachelle
+ - Brown, Rachel
  - Chisholm, Candace
  - Englot, Michelle
  - Ferguson, Dana

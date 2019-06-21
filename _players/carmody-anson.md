@@ -2,19 +2,19 @@
 title: Anson Carmody
 name: Anson Carmody
 name-sort: Carmody, Anson
-games: 44
-wins: 13
-losses: 31
-inturn-total: 385
-inturn-percent: 82
-outturn-total: 427
+games: 51
+wins: 14
+losses: 37
+inturn-total: 447
+inturn-percent: 80
+outturn-total: 495
 outturn-percent: 79
-draw-total: 385
-draw-percent: 79
-takeout-total: 427
-takeout-percent: 82
-shots-total: 812
-shots-percent: 81
+draw-total: 448
+draw-percent: 77
+takeout-total: 494
+takeout-percent: 81
+shots-total: 942
+shots-percent: 79
 years:
  - year: 2013
    event: Brier
@@ -84,14 +84,34 @@ years:
    takeout-percent: 87
    shots-total: 200
    shots-percent: 84
+ - year: 2019
+   event: Brier
+   team: "PE"
+   position: Third
+   games: 7
+   wins: 1
+   losses: 6
+   inturn-total: 62
+   inturn-percent: 71
+   outturn-total: 68
+   outturn-percent: 73
+   draw-total: 63
+   draw-percent: 69
+   takeout-total: 67
+   takeout-percent: 75
+   shots-total: 130
+   shots-percent: 72
 vs:
+ - Abel, Clinton
  - Balsdon, Greg
  - Bardsley, Mike
  - Barry, Josh
  - Bezanson, Jared
  - Bice, Mark
  - Bilesky, Andrew
+ - Boland, Adam
  - Borden, Robert
+ - Bottcher, Brendan
  - Brannen, Jamie
  - Breckon, Graham
  - Camm, Mathew
@@ -109,6 +129,7 @@ vs:
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
  - Flemming, Paul
+ - Ford, Chris
  - Fry, Ryan
  - Gallant, Brett
  - Grattan, James
@@ -125,6 +146,7 @@ vs:
  - Howard, Scott
  - Jacobs, Brad
  - Jeffrey, Chris
+ - Jewer, Keith
  - Jones, Scott
  - Kean, Mark
  - Kennedy, Marc
@@ -138,7 +160,11 @@ vs:
  - Laing, Brent
  - Laycock, Steve
  - LeCocq, Marc
+ - Lemay, Philippe
  - Mallais, Jeremy
+ - Marsh, Dan
+ - Marsh, Kevin
+ - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
  - McCarville, Mike
@@ -153,6 +179,7 @@ vs:
  - Morgan, Tyler
  - Morris, John
  - Moskowy, Braeden
+ - Moulding, Darren
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
@@ -160,6 +187,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Odian, Scott
  - Pinder, Jordan
  - Roach, Darren
  - Roach, Jason
@@ -169,11 +197,15 @@ vs:
  - Sawatsky, Rick
  - Schille, Chris
  - Simmons, Pat
+ - Smallwood, Robert
  - Smith, Garth
  - Smith, Kent
+ - Solberg, Jonathon
  - Spencer, Adam
  - Stoughton, Jeff
  - Sylvain, Eric
+ - Symonds, Andrew
+ - Thiessen, Brad
  - Thiessen, Nolan
  - Virtue, Brock
  - Walker, Geoff

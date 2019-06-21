@@ -2,14 +2,14 @@
 title: Kirk Muyres vs Eric Sylvain
 player1:             
   name: Muyres, Kirk 
-  percent: 88        
-  wins: 1            
+  percent: 83        
+  wins: 2            
   losses: 2          
 player2:             
   name: Sylvain, Eric
-  percent: 88        
+  percent: 87        
   wins: 2            
-  losses: 1          
+  losses: 2          
 games:
  - player1:         
      team: 'SK'     
@@ -59,4 +59,20 @@ games:
    year: 2016          
    draw: Round Robin(7)
    score: QC 3 - SK 7  
+ - player1:          
+     team: 'SK'      
+     position: Fourth
+     percent: 68     
+     win: 1          
+     loss: 0         
+   player2:          
+     team: 'QC'      
+     position: Second
+     percent: 85     
+     win: 0          
+     loss: 1         
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(7)
+   score: SK 8 - QC 6  
 ---

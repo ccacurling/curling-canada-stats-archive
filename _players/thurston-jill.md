@@ -136,6 +136,7 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Sippala, Ashley
  - Skinner, Julie
@@ -149,6 +150,5 @@ vs:
  - Tanner, Ros
  - Thomas, Jill
  - Tincher, Twyla
- - Turpin, Kelli
  - Wheatcroft, Georgina
 ---

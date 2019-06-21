@@ -57,7 +57,7 @@ games:
      loss: 1         
    event: Hearts     
    year: 1999        
-   draw: Playoff(21) 
+   draw: Final(21)   
    score: CA 4 - NS 6
  - player1:          
      team: 'CA'      

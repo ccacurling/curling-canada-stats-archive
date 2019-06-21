@@ -313,6 +313,7 @@ vs:
  - Scales, Julie
  - Schikowski, Keri-Lynn
  - Scott, Donna
+ - Sharpe, Kelli
  - Shields, Deanne
  - Shields, Gail
  - Shigehiro, Sally
@@ -330,7 +331,6 @@ vs:
  - Treloar, Cathy
  - Trowell, Cathy
  - Turcotte, Kristin
- - Turpin, Kelli
  - Usher, Leanne
  - Wheatcroft, Georgina
  - Willms, Karri

@@ -3,13 +3,13 @@ title: Chelsea Carey vs Krista McCarville
 player1:                  
   name: Carey, Chelsea    
   percent: 81             
-  wins: 3                 
+  wins: 4                 
   losses: 2               
 player2:                  
   name: McCarville, Krista
-  percent: 86             
+  percent: 83             
   wins: 2                 
-  losses: 3               
+  losses: 4               
 games:
  - player1:          
      team: 'AB'      
@@ -73,7 +73,7 @@ games:
      loss: 0         
    event: Hearts     
    year: 2017        
-   draw: Playoff(19) 
+   draw: Page 3-4(19)
    score: CA 1 - NO 8
  - player1:          
      team: 'CA'      
@@ -89,6 +89,22 @@ games:
      loss: 1         
    event: Hearts     
    year: 2017        
-   draw: Playoff(21) 
+   draw: Bronze(21)  
    score: CA 7 - NO 4
+ - player1:          
+     team: 'AB'      
+     position: Fourth
+     percent: 85     
+     win: 1          
+     loss: 0         
+   player2:          
+     team: 'NO'      
+     position: Fourth
+     percent: 71     
+     win: 0          
+     loss: 1         
+   event: Hearts       
+   year: 2019          
+   draw: Round Robin(5)
+   score: NO 6 - AB 7  
 ---

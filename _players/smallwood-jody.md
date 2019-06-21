@@ -43,7 +43,6 @@ vs:
  - Hughes, Meaghan
  - Hutchings, Denise
  - Jones, Jennifer
- - Kaatz, Selena
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
@@ -56,6 +55,7 @@ vs:
  - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Moore, Kristie
+ - Njegovan, Selena
  - Officer, Jill
  - Robichaud, Sylvie
  - Sagle, Karen

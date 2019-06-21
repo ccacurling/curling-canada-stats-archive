@@ -277,7 +277,6 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kelly, Kim
@@ -336,6 +335,7 @@ vs:
  - Murphy, Jeanette
  - Murphy, Sarah
  - Naugler, Tara
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
@@ -380,6 +380,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shackleton, Amie
+ - Sharpe, Kelli
  - Sicinski, Danielle
  - Simmons, Cindy
  - Simons, Renee
@@ -399,7 +400,6 @@ vs:
  - Thompson, Karla
  - Todd, Fran
  - Trickett, Erica
- - Turpin, Kelli
  - Udle, Teri
  - Unrau, Faye
  - Vandale, Trysta

@@ -2,14 +2,14 @@
 title: Stefanie Lawton vs Emma Miskew
 player1:                
   name: Lawton, Stefanie
-  percent: 77           
-  wins: 1               
-  losses: 3             
+  percent: 76           
+  wins: 2               
+  losses: 4             
 player2:                
   name: Miskew, Emma    
   percent: 84           
-  wins: 3               
-  losses: 1             
+  wins: 4               
+  losses: 2             
 games:
  - player1:          
      team: 'SK'      
@@ -75,4 +75,36 @@ games:
    year: 2015        
    draw: Bronze(21)  
    score: CA 7 - SK 5
+ - player1:         
+     team: 'SK'     
+     position: Third
+     percent: 73    
+     win: 1         
+     loss: 0        
+   player2:         
+     team: 'ON'     
+     position: Third
+     percent: 78    
+     win: 0         
+     loss: 1        
+   event: Hearts     
+   year: 2019        
+   draw: Pool(19)    
+   score: ON 3 - SK 6
+ - player1:         
+     team: 'SK'     
+     position: Third
+     percent: 73    
+     win: 0         
+     loss: 1        
+   player2:         
+     team: 'ON'     
+     position: Third
+     percent: 90    
+     win: 1         
+     loss: 0        
+   event: Hearts       
+   year: 2019          
+   draw: Semi-Final(22)
+   score: ON 9 - SK 7  
 ---

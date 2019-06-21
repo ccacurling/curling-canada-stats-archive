@@ -39,8 +39,8 @@ games:
      percent: 78    
      win: 0         
      loss: 1        
-   event: Brier      
-   year: 2003        
-   draw: Playoff(20) 
-   score: NS 9 - BC 6
+   event: Brier        
+   year: 2003          
+   draw: Semi-Final(20)
+   score: NS 9 - BC 6  
 ---

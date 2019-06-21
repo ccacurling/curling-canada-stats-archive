@@ -2,18 +2,18 @@
 title: Steve Laycock
 name: Steve Laycock
 name-sort: Laycock, Steve
-games: 81
-wins: 45
-losses: 36
-inturn-total: 838
+games: 92
+wins: 49
+losses: 43
+inturn-total: 947
 inturn-percent: 84
-outturn-total: 741
-outturn-percent: 85
-draw-total: 875
+outturn-total: 835
+outturn-percent: 84
+draw-total: 979
 draw-percent: 85
-takeout-total: 704
+takeout-total: 803
 takeout-percent: 83
-shots-total: 1579
+shots-total: 1782
 shots-percent: 84
 years:
  - year: 2007
@@ -135,8 +135,27 @@ years:
    takeout-percent: 87
    shots-total: 212
    shots-percent: 86
+ - year: 2019
+   event: Brier
+   team: "BC"
+   position: Third
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 109
+   inturn-percent: 85
+   outturn-total: 94
+   outturn-percent: 79
+   draw-total: 104
+   draw-percent: 80
+   takeout-total: 99
+   takeout-percent: 85
+   shots-total: 203
+   shots-percent: 82
 vs:
  - Adams, Shawn
+ - Aho, David
+ - Ardiel, Taylor
  - Asselin, Felix
  - Atchison, Chris
  - Balsdon, Greg
@@ -144,10 +163,11 @@ vs:
  - Barker, Richard
  - Barry, Josh
  - Berthelot, Marco
+ - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Bouchard, Christian
  - Brannen, Jamie
  - Bryant, Doug
@@ -159,10 +179,12 @@ vs:
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
+ - Chadwick, Scott
  - Champion, Kevin
  - Charette, Pierre
  - Childs, Jamie
  - Chorostkowski, Brad
+ - Colter, Travis
  - Cotter, Jim
  - Cowan, Chad
  - Crete, Martin
@@ -182,9 +204,11 @@ vs:
  - Epping, John
  - Farnell, Jamie
  - Ferland, Martin
+ - Flasch, Colton
  - Flaxey, Caleb
  - Flemming, Paul
  - Folk, Kevin
+ - Forget, Wes
  - Fournier, Mike
  - Fowler, Rob
  - Fraser, Pierre
@@ -222,6 +246,7 @@ vs:
  - Kammerlock, Dan
  - Kean, Mark
  - Kehoe, Mark
+ - Kendall, Lloyd
  - Kennedy, Marc
  - Kennedy, Mike
  - Kingdon, Wade
@@ -240,6 +265,8 @@ vs:
  - Mackey, Peter
  - Mallais, Jeremy
  - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Maskiewich, Ken
@@ -247,6 +274,7 @@ vs:
  - McCann, Andy
  - McCarville, Mike
  - McDermaid, Donald
+ - McDonald, Scott
  - McEwen, Mike
  - Mead, Jonathan
  - Menard, Jean-Michel
@@ -257,15 +285,21 @@ vs:
  - Moskowy, Braeden
  - Moulding, Darren
  - Murphy, Jamie
+ - Muyres, Dallan
+ - Muyres, Kirk
  - Nadeau, Jeff
  - Nantes, Dave
  - Naugler, Tom
  - Neufeld, B.J.
  - Neufeld, Denni
+ - Ng, Matt
  - Nichols, Mark
  - Noftall, David
+ - Odishaw, Grant
+ - Odishaw, Terry
  - O'Rourke, Mark
  - Palmer, Curt
+ - Parsons, Cole
  - Pinder, Jordan
  - Porter, Ryan
  - Rafuse, Brian
@@ -285,11 +319,13 @@ vs:
  - Smith, Garth
  - Spencer, Adam
  - St.Louis, David
+ - Steele, Colten
  - Stoughton, Jeff
  - Sullivan, Charles Jr
  - Sylvain, Eric
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thompson, Stuart
  - Toner, Lee
  - Trepanier, Jean-Francois
  - Ursel, Bob

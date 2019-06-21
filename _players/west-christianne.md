@@ -58,7 +58,6 @@ years:
    shots-total: 18
    shots-percent: 72
  - year: 2018
-   event: Hearts
    team: Totals
    games: 7
    wins: 0
@@ -93,7 +92,6 @@ vs:
  - Gibson, Amy
  - Hughes, Meaghan
  - Jones, Jennifer
- - Kaatz, Selena
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
@@ -106,6 +104,7 @@ vs:
  - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Moore, Kristie
+ - Njegovan, Selena
  - Officer, Jill
  - Price, Kara
  - Robichaud, Sylvie

@@ -41,7 +41,7 @@ games:
      loss: 1       
    event: Brier      
    year: 1995        
-   draw: Playoff(20) 
+   draw: Page 1-2(20)
    score: MB 5 - SK 6
  - player1:         
      team: 'SK'     
@@ -57,7 +57,7 @@ games:
      loss: 0       
    event: Brier       
    year: 1995         
-   draw: Playoff(22)  
+   draw: Final(22)    
    score: MB 10 - SK 8
  - player1:          
      team: 'NS'      

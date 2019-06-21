@@ -69,7 +69,7 @@ years:
    shots-percent: 100
 vs:
  - Asmussen, Evan Scott
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Casey, Adam
  - Gallant, Brett
  - Gushue, Brad

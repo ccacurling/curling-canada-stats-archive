@@ -41,7 +41,7 @@ games:
      loss: 1         
    event: Brier      
    year: 2003        
-   draw: Playoff(18) 
+   draw: Page 3-4(18)
    score: NB 4 - NS 6
  - player1:          
      team: 'NS'      

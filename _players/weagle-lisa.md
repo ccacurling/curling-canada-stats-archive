@@ -2,19 +2,19 @@
 title: Lisa Weagle
 name: Lisa Weagle
 name-sort: Weagle, Lisa
-games: 66
-wins: 53
-losses: 13
-inturn-total: 754
-inturn-percent: 88
-outturn-total: 433
-outturn-percent: 84
-draw-total: 886
-draw-percent: 88
-takeout-total: 301
+games: 80
+wins: 63
+losses: 17
+inturn-total: 866
+inturn-percent: 87
+outturn-total: 594
+outturn-percent: 85
+draw-total: 1057
+draw-percent: 89
+takeout-total: 403
 takeout-percent: 81
-shots-total: 1187
-shots-percent: 87
+shots-total: 1460
+shots-percent: 86
 years:
  - year: 2011
    event: Hearts
@@ -101,6 +101,23 @@ years:
    takeout-percent: 83
    shots-total: 266
    shots-percent: 87
+ - year: 2019
+   event: Hearts
+   team: "ON"
+   position: Lead
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 112
+   inturn-percent: 82
+   outturn-total: 161
+   outturn-percent: 89
+   draw-total: 171
+   draw-percent: 89
+   takeout-total: 102
+   takeout-percent: 81
+   shots-total: 273
+   shots-percent: 86
 vs:
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
@@ -123,7 +140,7 @@ vs:
  - Bradley, Shelly
  - Brassard, Veronique
  - Brothers, Jill
- - Brown, Rachelle
+ - Brown, Rachel
  - Cameron, Kate
  - Camozzi, Rhona
  - Carey, Chelsea
@@ -154,7 +171,6 @@ vs:
  - Eyamie, Lisa
  - Fallis, Karen
  - Ferguson, Dana
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Flaxey, Allison
  - Foster, Kristen
@@ -217,6 +233,7 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
  - Richard, Marie

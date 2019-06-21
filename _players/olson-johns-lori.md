@@ -97,7 +97,6 @@ vs:
  - Derick, Catherine
  - deSolla, Jodie
  - Farrell, Allison
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Fortier, Marie-Josee
  - Gagnier, Monique
@@ -146,6 +145,7 @@ vs:
  - O'Leary, Susan
  - O'Rourke, Brittany
  - Overton-Clapham, Cathy
+ - Pilote, Kristen
  - Prosser, Sandi
  - Richard, Marie
  - Ridalls, Kristen
@@ -156,6 +156,7 @@ vs:
  - Schmidt, Stephanie
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Singler, Sherri
  - Smith, Stacey
@@ -168,7 +169,6 @@ vs:
  - Thomas-Kennell, Noelle
  - Thurston, Jill
  - Trombley, Christy
- - Turpin, Kelli
  - Walsh, Jenna
  - Weagle, Lisa
  - Wheatcroft, Georgina

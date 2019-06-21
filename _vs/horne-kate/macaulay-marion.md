@@ -39,10 +39,10 @@ games:
      percent: 81     
      win: 0          
      loss: 1         
-   event: Hearts     
-   year: 1995        
-   draw: Playoff(18) 
-   score: PE 3 - AB 8
+   event: Hearts        
+   year: 1995           
+   draw: Tie-Breaker(18)
+   score: PE 3 - AB 8   
  - player1:        
      team: 'AB'    
      position: Lead
@@ -57,7 +57,7 @@ games:
      loss: 1         
    event: Hearts     
    year: 1995        
-   draw: Playoff(20) 
+   draw: Page 3-4(20)
    score: PE 4 - AB 6
  - player1:        
      team: 'AB'    

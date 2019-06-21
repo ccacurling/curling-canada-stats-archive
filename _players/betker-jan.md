@@ -389,6 +389,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Donna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shields, Deanne
  - Shields, Gail
  - Shigehiro, Sally
@@ -412,7 +413,6 @@ vs:
  - Treloar, Cathy
  - Trowell, Cathy
  - Turcotte, Kristin
- - Turpin, Kelli
  - Udle, Teri
  - Unrau, Faye
  - Usher, Leanne

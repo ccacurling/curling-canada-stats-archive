@@ -55,8 +55,8 @@ games:
      percent: 83     
      win: 0          
      loss: 1         
-   event: Hearts      
-   year: 1999         
-   draw: Playoff(20)  
-   score: CA 10 - MB 4
+   event: Hearts       
+   year: 1999          
+   draw: Semi-Final(20)
+   score: CA 10 - MB 4 
 ---

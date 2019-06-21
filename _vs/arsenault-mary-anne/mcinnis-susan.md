@@ -41,7 +41,7 @@ games:
      loss: 1       
    event: Hearts     
    year: 2003        
-   draw: Playoff(19) 
+   draw: Page 1-2(19)
    score: PE 3 - CA 6
  - player1:          
      team: 'CA'      

@@ -2,19 +2,19 @@
 title: Terry Odishaw
 name: Terry Odishaw
 name-sort: Odishaw, Terry
-games: 23
-wins: 9
-losses: 14
-inturn-total: 220
-inturn-percent: 73
-outturn-total: 206
-outturn-percent: 70
-draw-total: 182
-draw-percent: 65
-takeout-total: 244
-takeout-percent: 77
-shots-total: 426
-shots-percent: 72
+games: 30
+wins: 12
+losses: 18
+inturn-total: 273
+inturn-percent: 74
+outturn-total: 283
+outturn-percent: 72
+draw-total: 232
+draw-percent: 68
+takeout-total: 324
+takeout-percent: 76
+shots-total: 556
+shots-percent: 73
 years:
  - year: 1991
    event: Brier
@@ -75,20 +75,42 @@ years:
    takeout-percent: 78
    shots-total: 203
    shots-percent: 76
+ - year: 2019
+   event: Brier
+   team: "NB"
+   position: Fourth
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 53
+   inturn-percent: 77
+   outturn-total: 77
+   outturn-percent: 78
+   draw-total: 50
+   draw-percent: 80
+   takeout-total: 80
+   takeout-percent: 76
+   shots-total: 130
+   shots-percent: 78
 vs:
+ - Aho, David
  - Alexander, Scott
  - Alexander, Trevor
+ - Ardiel, Taylor
  - Armstrong, Doug
  - Armstrong, Mike
  - Bailey, Scott
  - Bardsley, Mike
+ - Beuk, Jonathan
  - Borden, Robert
  - Casey, Adam
+ - Chadwick, Scott
  - Charest, Jean-Francois
  - Charette, Pierre
  - Chorostkowski, Brad
  - Chugg, Brad
  - Clarey, Sean
+ - Colter, Travis
  - Cotter, Jim
  - Daneault, Richard
  - Dauphinee, Andrew
@@ -99,10 +121,13 @@ vs:
  - Duguid, Dale
  - Fenton, Darin
  - Fetterly, Tom
+ - Flasch, Colton
  - Flemming, Paul
  - Folk, Kevin
+ - Forget, Wes
  - Fowler, Rob
  - Fry, Ryan
+ - Gallant, Brett
  - Gardeski, Larry
  - Gaudet, Mike
  - Griffith, Ty
@@ -111,10 +136,12 @@ vs:
  - Harnden, E.J.
  - Harnden, Ryan
  - Harris, Tyler
+ - Hebert, Ben
  - Hemmings, Guy
  - Henderson, Scott
  - Howard, Glenn
  - Jacobs, Brad
+ - Kendall, Lloyd
  - Kirkness, James
  - Koe, Jamie
  - Koe, Kevin
@@ -124,16 +151,20 @@ vs:
  - Lang, Rick
  - Lang, Tyler
  - Lappalainen, Art
+ - Laycock, Steve
  - Lyburn, Allan
  - MacKenzie, Tyler
+ - Mackey, Peter
  - MacLeod, Glen
  - Manners, Scott
  - McAulay, Greg
  - McCarrel, Graeme
  - McDermaid, Donald
+ - McDonald, Scott
  - McDonald, Toby
  - McGregor, Ken
  - McInnis, Phillip
+ - McLeod, Shadrach
  - Melville, Bruce
  - Middaugh, Wayne
  - Mihalicz, Dwayne
@@ -142,8 +173,13 @@ vs:
  - Montgomery, Rod
  - Munroe, Steven
  - Murphy, Jamie
+ - Nadeau, Jeff
  - Naugler, Tom
  - Ness, Dale
+ - Neufeld, B.J.
+ - Ng, Matt
+ - Nichols, Mark
+ - Parsons, Cole
  - Pierce, Brent
  - Pinder, Jordan
  - Powell, Lloyd
@@ -160,11 +196,14 @@ vs:
  - Simmons, Pat
  - Sinclair, Rob
  - Spencer, Jim
+ - St.Louis, David
+ - Steele, Colten
  - Tait, Jeff
  - Tetley, Ian
  - Tetley, Ross
  - Thibaudeau, Guy
  - Thiessen, Nolan
+ - Thompson, Stuart
  - Walker, Geoff
  - Whitehead, Mark
  - Wiersema, Dale

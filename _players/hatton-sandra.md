@@ -57,12 +57,12 @@ vs:
  - Peters, Laine
  - Renouf, Michele
  - Sabourin, Joelle
+ - Sharpe, Kelli
  - Skinner, Julie
  - Smith, Heather
  - Stewart, Sheri
  - Strong, Heather
  - Thurston, Jill
- - Turpin, Kelli
  - Walter, Cathy
  - Wheatcroft, Georgina
  - Whitrow, Leanne

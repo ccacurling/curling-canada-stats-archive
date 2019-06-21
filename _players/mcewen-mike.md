@@ -2,19 +2,19 @@
 title: Mike McEwen
 name: Mike McEwen
 name-sort: McEwen, Mike
-games: 38
-wins: 25
-losses: 13
-inturn-total: 328
-inturn-percent: 85
-outturn-total: 379
-outturn-percent: 86
-draw-total: 245
+games: 49
+wins: 31
+losses: 18
+inturn-total: 406
+inturn-percent: 83
+outturn-total: 511
+outturn-percent: 85
+draw-total: 341
 draw-percent: 84
-takeout-total: 462
-takeout-percent: 86
-shots-total: 707
-shots-percent: 85
+takeout-total: 576
+takeout-percent: 85
+shots-total: 917
+shots-percent: 84
 years:
  - year: 2016
    event: Brier
@@ -67,15 +67,37 @@ years:
    takeout-percent: 83
    shots-total: 192
    shots-percent: 82
+ - year: 2019
+   event: Brier
+   team: "MB"
+   position: Fourth
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 78
+   inturn-percent: 78
+   outturn-total: 132
+   outturn-percent: 83
+   draw-total: 96
+   draw-percent: 83
+   takeout-total: 114
+   takeout-percent: 79
+   shots-total: 210
+   shots-percent: 81
 vs:
+ - Abel, Clinton
  - Appelman, Tom
+ - Beuk, Jonathan
+ - Boland, Adam
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brannen, Jamie
+ - Burgess, Steve
  - Camm, Mathew
  - Carmody, Anson
  - Carruthers, Reid
  - Casey, Adam
+ - Chadwick, Scott
  - Chorostkowski, Brad
  - Cotter, Jim
  - Crete, Martin
@@ -86,6 +108,8 @@ vs:
  - Fecteau, Steve
  - Flasch, Colton
  - Flemming, Paul
+ - Ford, Chris
+ - Forget, Wes
  - Fry, Ryan
  - Gallant, Brett
  - Geall, Sean
@@ -101,6 +125,7 @@ vs:
  - Hunt, Matthew
  - Jacobs, Brad
  - Janssen, Patrick
+ - Jewer, Keith
  - Jones, Scott
  - Kennedy, Marc
  - Kennedy, Mike
@@ -111,9 +136,14 @@ vs:
  - Laing, Brent
  - Laycock, Steve
  - LeCocq, Marc
+ - Lemay, Philippe
+ - Likely, John
  - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
+ - McDonald, Scott
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -124,8 +154,11 @@ vs:
  - Muyres, Dallan
  - Muyres, Kirk
  - Nerpin, Andrew
+ - Neufeld, B.J.
  - Nichols, Mark
+ - Odian, Scott
  - Pinder, Jordan
+ - Rach, Dave
  - Richard, Jeff
  - Rycroft, Carter
  - Saccary, Scott
@@ -136,9 +169,12 @@ vs:
  - Scoffin, Thomas
  - Scoffin, Wade
  - Simmons, Pat
+ - Smallwood, Robert
  - Smith, Greg
+ - Solberg, Jonathon
  - Spencer, Adam
  - Sylvain, Eric
+ - Symonds, Andrew
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan

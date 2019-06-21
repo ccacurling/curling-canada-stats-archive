@@ -75,6 +75,10 @@ years:
    event: Brier
    team: "NO"
    position: Alternate
+ - year: 2019
+   event: Brier
+   team: "NO"
+   position: Alternate
 vs:
  - Adam, Gerry
  - Adams, Shawn

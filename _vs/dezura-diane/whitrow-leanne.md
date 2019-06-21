@@ -57,6 +57,6 @@ games:
      loss: 1       
    event: Hearts     
    year: 2000        
-   draw: Playoff(20) 
+   draw: Page 3-4(20)
    score: SK 4 - BC 8
 ---

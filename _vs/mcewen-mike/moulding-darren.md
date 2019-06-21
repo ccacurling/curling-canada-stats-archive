@@ -2,13 +2,13 @@
 title: Mike McEwen vs Darren Moulding
 player1:                
   name: McEwen, Mike    
-  percent: 80           
+  percent: 77           
   wins: 1               
-  losses: 1             
+  losses: 2             
 player2:                
   name: Moulding, Darren
-  percent: 84           
-  wins: 1               
+  percent: 83           
+  wins: 2               
   losses: 1             
 games:
  - player1:          
@@ -43,4 +43,20 @@ games:
    year: 2018           
    draw: Round Robin(14)
    score: AB 9 - WC 2   
+ - player1:          
+     team: 'MB'      
+     position: Fourth
+     percent: 72     
+     win: 0          
+     loss: 1         
+   player2:         
+     team: 'WC'     
+     position: Third
+     percent: 83    
+     win: 1         
+     loss: 0        
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(5)
+   score: WC 9 - MB 8  
 ---

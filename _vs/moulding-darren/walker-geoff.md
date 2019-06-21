@@ -2,14 +2,14 @@
 title: Darren Moulding vs Geoff Walker
 player1:                
   name: Moulding, Darren
-  percent: 83           
-  wins: 1               
-  losses: 2             
+  percent: 85           
+  wins: 2               
+  losses: 3             
 player2:                
   name: Walker, Geoff   
-  percent: 92           
-  wins: 2               
-  losses: 1             
+  percent: 90           
+  wins: 3               
+  losses: 2             
 games:
  - player1:         
      team: 'AB'     
@@ -59,4 +59,36 @@ games:
    year: 2018        
    draw: Final(23)   
    score: CA 6 - AB 4
+ - player1:         
+     team: 'WC'     
+     position: Third
+     percent: 84    
+     win: 0         
+     loss: 1        
+   player2:        
+     team: 'CA'    
+     position: Lead
+     percent: 88   
+     win: 1        
+     loss: 0       
+   event: Brier      
+   year: 2019        
+   draw: Pool(18)    
+   score: WC 5 - CA 8
+ - player1:         
+     team: 'WC'     
+     position: Third
+     percent: 92    
+     win: 1         
+     loss: 0        
+   player2:        
+     team: 'CA'    
+     position: Lead
+     percent: 89   
+     win: 0        
+     loss: 1       
+   event: Brier      
+   year: 2019        
+   draw: Page 3-4(19)
+   score: WC 7 - CA 2
 ---

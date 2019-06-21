@@ -62,7 +62,7 @@ vs:
  - Black, Christina
  - Boyle, Jane
  - Bradley, Shelly
- - Brown, Rachelle
+ - Brown, Rachel
  - Cameron, Nancy
  - Camozzi, Rhona
  - Carter, Sasha
@@ -79,7 +79,6 @@ vs:
  - Dolan, Sinead
  - Englot, Michelle
  - Ferguson, Dana
- - Fewster, Kristen
  - Galusha, Kerry
  - Gates, Amanda
  - Hastings, Julie
@@ -109,6 +108,7 @@ vs:
  - Olson-Johns, Lori
  - Parsons, Danielle
  - Peters, Laine
+ - Pilote, Kristen
  - Richard, Marie
  - Robichaud, Sylvie
  - Rusnell, Jen

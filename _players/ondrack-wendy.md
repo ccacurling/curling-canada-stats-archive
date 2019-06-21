@@ -161,6 +161,7 @@ vs:
  - Sabourin, Joelle
  - Sanders, Pat
  - Schmirler, Sandra
+ - Sharpe, Kelli
  - Shigehiro, Sally
  - Skinner, Julie
  - Soligo, Melissa
@@ -173,7 +174,6 @@ vs:
  - Thurston, Jill
  - Tucker, Cindy
  - Turcotte, Kristin
- - Turpin, Kelli
  - Willms, Karri
  - Wright, Joanne
  - Wright, Susan

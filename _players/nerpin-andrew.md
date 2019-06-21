@@ -41,7 +41,6 @@ years:
    shots-total: 24
    shots-percent: 75
  - year: 2018
-   event: Brier
    team: Totals
    games: 8
    wins: 2
@@ -59,7 +58,7 @@ years:
 vs:
  - Appelman, Tom
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Case, Peter
  - Chorostkowski, Brad
  - Crowell, Phil

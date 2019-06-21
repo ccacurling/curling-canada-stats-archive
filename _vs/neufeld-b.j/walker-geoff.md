@@ -2,14 +2,14 @@
 title: B.J. Neufeld vs Geoff Walker
 player1:             
   name: Neufeld, B.J.
-  percent: 83        
-  wins: 1            
+  percent: 85        
+  wins: 2            
   losses: 2          
 player2:             
   name: Walker, Geoff
-  percent: 91        
+  percent: 92        
   wins: 2            
-  losses: 1          
+  losses: 2          
 games:
  - player1:         
      team: 'MB'     
@@ -59,4 +59,20 @@ games:
    year: 2018          
    draw: Round Robin(8)
    score: WC 5 - CA 6  
+ - player1:         
+     team: 'AB'     
+     position: Third
+     percent: 93    
+     win: 1         
+     loss: 0        
+   player2:        
+     team: 'CA'    
+     position: Lead
+     percent: 96   
+     win: 0        
+     loss: 1       
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(8)
+   score: CA 6 - AB 7  
 ---

@@ -120,12 +120,12 @@ vs:
  - Ross, Allison
  - Sabourin, Joelle
  - Santos, Deb
+ - Sharpe, Kelli
  - Sonnenberg, Renee
  - Street, Cindy
  - Strong, Heather
  - Tanner, Allison
  - Tincher, Twyla
  - Todd, Fran
- - Turpin, Kelli
  - Wright, Susan
 ---

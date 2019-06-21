@@ -206,7 +206,7 @@ vs:
  - Brown, Jacalyn
  - Brown, Janet
  - Brown, Marcie
- - Brown, Rachelle
+ - Brown, Rachel
  - Bryant, Angie
  - Bush, Tracy
  - Camozzi, Rhona
@@ -242,7 +242,6 @@ vs:
  - Fallis, Karen
  - Farrell, Allison
  - Ferguson, Dana
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Flannigan, Lorraine
  - Floyd, Kathy
@@ -344,6 +343,7 @@ vs:
  - Peters, Laine
  - Phillips, Laura
  - Phillips, Margaret Lea
+ - Pilote, Kristen
  - Porter, Erin
  - Prosser, Sandi
  - Purdy, Karen
@@ -363,6 +363,7 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shumay, Jill
  - Simons, Renee
  - Singler, Sherri
@@ -382,7 +383,6 @@ vs:
  - Tasaka, Adina
  - Taylor, Candy
  - Trombley, Christy
- - Turpin, Kelli
  - Udle, Teri
  - Walsh, Jenna
  - Walter, Cathy

@@ -119,7 +119,6 @@ years:
    shots-total: 2
    shots-percent: 75
  - year: 2016
-   event: Hearts
    team: Totals
    games: 2
    wins: 0
@@ -143,7 +142,7 @@ vs:
  - Barbour, Shona
  - Blais, Amelie
  - Brothers, Jill
- - Brown, Rachelle
+ - Brown, Rachel
  - Carey, Chelsea
  - Carter, Sasha
  - Clarke, Hayley

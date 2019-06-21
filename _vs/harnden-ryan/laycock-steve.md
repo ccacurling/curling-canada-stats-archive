@@ -2,14 +2,14 @@
 title: Ryan Harnden vs Steve Laycock
 player1:              
   name: Harnden, Ryan 
-  percent: 83         
-  wins: 4             
+  percent: 86         
+  wins: 5             
   losses: 0           
 player2:              
   name: Laycock, Steve
-  percent: 80         
+  percent: 81         
   wins: 0             
-  losses: 4           
+  losses: 5           
 games:
  - player1:          
      team: 'NO'      
@@ -75,4 +75,20 @@ games:
    year: 2016          
    draw: Round Robin(2)
    score: NO 6 - SK 5  
+ - player1:        
+     team: 'NO'    
+     position: Lead
+     percent: 98   
+     win: 1        
+     loss: 0       
+   player2:         
+     team: 'BC'     
+     position: Third
+     percent: 86    
+     win: 0         
+     loss: 1        
+   event: Brier       
+   year: 2019         
+   draw: Pool(15)     
+   score: NO 11 - BC 5
 ---

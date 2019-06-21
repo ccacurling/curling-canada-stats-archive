@@ -134,7 +134,6 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kelly, Kim
  - Kleibrink, Shannon
  - Koehler, Megan
@@ -159,6 +158,7 @@ vs:
  - Moore, Kristie
  - Murphy, Sarah
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Officer, Jill

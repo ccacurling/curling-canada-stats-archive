@@ -187,7 +187,6 @@ years:
    shots-total: 2
    shots-percent: 38
  - year: 2017
-   event: Hearts
    team: Totals
    games: 2
    wins: 1
@@ -232,7 +231,7 @@ vs:
  - Brothers, Jill
  - Brown, Jacalyn
  - Brown, Maureen
- - Brown, Rachelle
+ - Brown, Rachel
  - Bush, Tracy
  - Byers, Denise
  - Campbell, Gloria
@@ -404,6 +403,7 @@ vs:
  - Schneider, Kim
  - Schneider, Tammy
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shields, Deanne
  - Simons, Renee
  - Sinclair, Andrea
@@ -427,7 +427,6 @@ vs:
  - Titheridge, Lindsay
  - Todd, Fran
  - Tucker, Cindy
- - Turpin, Kelli
  - Udle, Teri
  - Unrau, Faye
  - Van Osch, Kesa

@@ -2,18 +2,18 @@
 title: Dawn McEwen
 name: Dawn McEwen
 name-sort: McEwen, Dawn
-games: 140
-wins: 106
-losses: 34
-inturn-total: 1634
+games: 151
+wins: 112
+losses: 39
+inturn-total: 1769
 inturn-percent: 89
-outturn-total: 903
+outturn-total: 973
 outturn-percent: 87
-draw-total: 2007
+draw-total: 2181
 draw-percent: 90
-takeout-total: 530
+takeout-total: 561
 takeout-percent: 83
-shots-total: 2537
+shots-total: 2742
 shots-percent: 88
 years:
  - year: 2005
@@ -186,6 +186,23 @@ years:
    takeout-percent: 83
    shots-total: 219
    shots-percent: 93
+ - year: 2019
+   event: Hearts
+   team: "CA"
+   position: Lead
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 135
+   inturn-percent: 87
+   outturn-total: 70
+   outturn-percent: 93
+   draw-total: 174
+   draw-percent: 89
+   takeout-total: 31
+   takeout-percent: 86
+   shots-total: 205
+   shots-percent: 89
 vs:
  - Adams, Melissa
  - Affleck, Tricia
@@ -197,6 +214,7 @@ vs:
  - Atkinson, Rebecca
  - Ayrey, Jinaye
  - Babin, Jillian
+ - Baldwin, Nicole
  - Barbour, Shona
  - Baxter, Jen
  - Beauchamp, Sasha
@@ -204,16 +222,20 @@ vs:
  - Belisle, Eve
  - Bell, Chelsey
  - Bernard, Cheryl
+ - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Boudreault, Patricia
  - Boyle, Jane
  - Bradley, Shelly
  - Brassard, Veronique
  - Brennan, Amanda
  - Brothers, Jill
  - Brown, Jacalyn
- - Brown, Rachelle
+ - Brown, Rachel
  - Bush, Tracy
  - Cameron, Nancy
  - Camozzi, Rhona
@@ -239,6 +261,7 @@ vs:
  - Cunningham, Jennifer
  - Cunningham, Jessica
  - Curtis, Stacie
+ - Daigle, Julie
  - Darbyshire, Carolyn
  - deJager, Blaine
  - Delahunt, Nancy
@@ -262,7 +285,6 @@ vs:
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Fleury, Tracy
  - Fortier, Marie-Josee
@@ -271,12 +293,14 @@ vs:
  - Gagnier, Monique
  - Galusha, Kerry
  - Gates, Amanda
+ - Gates, Jenny
  - Gauthier, Cathy
  - George, Tara
  - Gibson, Amy
  - Gilman, Sheena
  - Goss, Peg
  - Gregoire, Veronique
+ - Griffin, Alison
  - Gushulak, Diane
  - Guzzwell, Stephanie
  - Hamilton, Beth
@@ -291,14 +315,15 @@ vs:
  - Horgan, Tracy
  - Howard, Ashley
  - Hughes, Meaghan
+ - Hunkin, Jessie
  - Hutchings, Denise
+ - Ingram, Megan
  - Iskiw, Beth
  - Jewer, Michelle
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kelly, Kim
@@ -315,6 +340,7 @@ vs:
  - Lang, Lorraine
  - Larouche, Marie-France
  - Lavery, Tracey
+ - Lavoie, Gabrielle
  - Lawton, Stefanie
  - LeDrew, Stephanie
  - Leger, Stacey
@@ -354,10 +380,12 @@ vs:
  - Moriarty, Monica
  - Morris, Cori
  - Moses, Dawn
+ - Munroe, Anna
  - Murphy, Sarah
  - Muzika, Shelley
  - Naugler, Tara
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
@@ -375,6 +403,7 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Phillips, Kristen
+ - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
  - Price, Kara
@@ -393,6 +422,7 @@ vs:
  - Rusnell, Jen
  - Sabourin, Joelle
  - Sagle, Karen
+ - Sandwith, Carley
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
@@ -401,7 +431,10 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shackleton, Amie
+ - Sharpe, Kelli
+ - Shaw, Ladene
  - Shumay, Jill
+ - Silvernagle, Robyn
  - Simmons, Cindy
  - Simons, Renee
  - Singler, Sherri
@@ -415,14 +448,16 @@ vs:
  - Sobey, Lianne
  - Spencer, Barb
  - Strong, Heather
+ - Strong, Helen
  - Strong, Laura
  - Surik, Teejay
  - Sweeting, Valerie
+ - Thevenot, Kara
  - Thomas, Jill
  - Thompson, Karla
  - Thurston, Jill
+ - Tran, Brittany
  - Trombley, Christy
- - Turpin, Kelli
  - Udle, Teri
  - Vandale, Trysta
  - Van Osch, Kalia
@@ -432,6 +467,7 @@ vs:
  - Vey, Lana
  - Wall, Kirsten
  - Walsh, Jenna
+ - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa
@@ -440,6 +476,7 @@ vs:
  - West, Christianne
  - Westcott, Raunora
  - Whitaker, Carol
+ - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
  - Wylie, Jennifer

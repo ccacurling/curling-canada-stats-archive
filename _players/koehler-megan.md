@@ -85,7 +85,6 @@ years:
    shots-total: 40
    shots-percent: 69
  - year: 2013
-   event: Hearts
    team: Totals
    games: 11
    wins: 2
@@ -208,7 +207,6 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kalenchuk, Heather
  - Kelly, Kim
  - Kleibrink, Shannon
@@ -241,6 +239,7 @@ vs:
  - Miskew, Emma
  - Moore, Kristie
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Nowlan, Denise

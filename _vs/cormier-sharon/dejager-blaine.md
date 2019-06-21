@@ -12,7 +12,7 @@ player2:
   losses: 1            
 games:
  - player1:         
-     team: 'NT'     
+     team: 'TR'     
      position: Third
      percent: 67    
      win: 0         
@@ -26,7 +26,7 @@ games:
    event: Hearts        
    year: 2013           
    draw: Round Robin(11)
-   score: NT 3 - AB 9   
+   score: TR 3 - AB 9   
  - player1:        
      team: 'NT'    
      position: Lead

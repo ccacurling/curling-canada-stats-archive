@@ -2,18 +2,18 @@
 title: Geoff Walker
 name: Geoff Walker
 name-sort: Walker, Geoff
-games: 75
-wins: 51
-losses: 24
-inturn-total: 586
+games: 87
+wins: 60
+losses: 27
+inturn-total: 645
 inturn-percent: 90
-outturn-total: 838
+outturn-total: 1001
 outturn-percent: 88
-draw-total: 1200
+draw-total: 1380
 draw-percent: 91
-takeout-total: 224
-takeout-percent: 79
-shots-total: 1424
+takeout-total: 266
+takeout-percent: 78
+shots-total: 1646
 shots-percent: 89
 years:
  - year: 2012
@@ -122,17 +122,37 @@ years:
    takeout-percent: 76
    shots-total: 234
    shots-percent: 90
+ - year: 2019
+   event: Brier
+   team: "CA"
+   position: Lead
+   games: 12
+   wins: 9
+   losses: 3
+   inturn-total: 59
+   inturn-percent: 90
+   outturn-total: 163
+   outturn-percent: 87
+   draw-total: 180
+   draw-percent: 91
+   takeout-total: 42
+   takeout-percent: 73
+   shots-total: 222
+   shots-percent: 88
 vs:
+ - Aho, David
  - Appelman, Tom
+ - Ardiel, Taylor
  - Armstrong, Mike
  - Balsdon, Greg
  - Bardsley, Mike
  - Barry, Josh
+ - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
  - Bilesky, Andrew
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brannen, Jamie
  - Breckon, Graham
  - Camm, Mathew
@@ -140,10 +160,12 @@ vs:
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
+ - Chadwick, Scott
  - Charest, Jean-Francois
  - Childs, Jamie
  - Chorostkowski, Brad
  - Clarey, Sean
+ - Colter, Travis
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
@@ -162,6 +184,7 @@ vs:
  - Flasch, Colton
  - Flemming, Paul
  - Folk, Kevin
+ - Forget, Wes
  - Fowler, Rob
  - Fry, Ryan
  - Gaudet, Mike
@@ -184,6 +207,7 @@ vs:
  - Jeffrey, Chris
  - Jones, Scott
  - Kean, Mark
+ - Kendall, Lloyd
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
@@ -201,15 +225,19 @@ vs:
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - MacKenzie, Tyler
+ - Mackey, Peter
  - Mallais, Jeremy
  - Manners, Scott
  - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
  - McCann, Andy
  - McCarville, Mike
  - McDermaid, Donald
+ - McDonald, Scott
  - McEwen, Mike
  - Meachem, Shaun Myles
  - Mead, Jonathan
@@ -224,13 +252,16 @@ vs:
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Naugler, Tom
  - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
+ - Ng, Matt
  - Nichols, Mark
  - Odishaw, Grant
  - Odishaw, Terry
+ - Parsons, Cole
  - Pinder, Jordan
  - Richard, Jeff
  - Roach, Darren
@@ -250,11 +281,14 @@ vs:
  - Skauge, Greg
  - Smith, Greg
  - Smith, Kent
+ - St.Louis, David
+ - Steele, Colten
  - Stoughton, Jeff
  - Sylvain, Eric
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thompson, Stuart
  - Villeneuve, Steeve
  - Virtue, Brock
  - Watson, Aaron

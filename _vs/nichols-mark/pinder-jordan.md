@@ -3,13 +3,13 @@ title: Mark Nichols vs Jordan Pinder
 player1:              
   name: Nichols, Mark 
   percent: 91         
-  wins: 2             
+  wins: 3             
   losses: 0           
 player2:              
   name: Pinder, Jordan
-  percent: 81         
+  percent: 80         
   wins: 0             
-  losses: 2           
+  losses: 3           
 games:
  - player1:          
      team: 'MB'      
@@ -43,4 +43,20 @@ games:
    year: 2017           
    draw: Round Robin(17)
    score: NL 6 - NS 3   
+ - player1:         
+     team: 'CA'     
+     position: Third
+     percent: 91    
+     win: 1         
+     loss: 0        
+   player2:         
+     team: 'NB'     
+     position: Third
+     percent: 76    
+     win: 0         
+     loss: 1        
+   event: Brier         
+   year: 2019           
+   draw: Round Robin(10)
+   score: CA 8 - NB 7   
 ---

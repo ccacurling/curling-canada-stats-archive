@@ -162,6 +162,7 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Sicinski, Danielle
  - Simons, Renee
  - Sippala, Ashley
@@ -176,7 +177,6 @@ vs:
  - Thomas, Jill
  - Thurston, Jill
  - Trickett, Erica
- - Turpin, Kelli
  - Weagle, Lisa
  - Westcott, Raunora
  - Wheatcroft, Georgina

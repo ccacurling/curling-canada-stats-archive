@@ -2,14 +2,14 @@
 title: Ben Hebert vs Jamie Koe
 player1:           
   name: Hebert, Ben
-  percent: 91      
-  wins: 7          
+  percent: 90      
+  wins: 8          
   losses: 1        
 player2:           
   name: Koe, Jamie 
-  percent: 77      
+  percent: 76      
   wins: 1          
-  losses: 7        
+  losses: 8        
 games:
  - player1:        
      team: 'SK'    
@@ -82,7 +82,7 @@ games:
      win: 1        
      loss: 0       
    player2:          
-     team: 'NT'      
+     team: 'TR'      
      position: Fourth
      percent: 64     
      win: 0          
@@ -90,7 +90,7 @@ games:
    event: Brier         
    year: 2013           
    draw: Round Robin(11)
-   score: NT 3 - AB 8   
+   score: TR 3 - AB 8   
  - player1:        
      team: 'AB'    
      position: Lead
@@ -139,4 +139,20 @@ games:
    year: 2017           
    draw: Round Robin(13)
    score: NT 6 - CA 8   
+ - player1:        
+     team: 'AB'    
+     position: Lead
+     percent: 89   
+     win: 1        
+     loss: 0       
+   player2:          
+     team: 'NT'      
+     position: Fourth
+     percent: 67     
+     win: 0          
+     loss: 1         
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(2)
+   score: AB 9 - NT 4  
 ---

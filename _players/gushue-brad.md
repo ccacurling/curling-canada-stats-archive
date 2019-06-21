@@ -2,19 +2,19 @@
 title: Brad Gushue
 name: Brad Gushue
 name-sort: Gushue, Brad
-games: 185
-wins: 123
-losses: 62
-inturn-total: 1370
+games: 197
+wins: 132
+losses: 65
+inturn-total: 1464
 inturn-percent: 85
-outturn-total: 2082
+outturn-total: 2208
 outturn-percent: 84
-draw-total: 1526
+draw-total: 1626
 draw-percent: 84
-takeout-total: 1926
+takeout-total: 2046
 takeout-percent: 85
-shots-total: 3452
-shots-percent: 84
+shots-total: 3672
+shots-percent: 85
 years:
  - year: 2003
    event: Brier
@@ -271,11 +271,30 @@ years:
    takeout-percent: 93
    shots-total: 234
    shots-percent: 93
+ - year: 2019
+   event: Brier
+   team: "CA"
+   position: Fourth
+   games: 12
+   wins: 9
+   losses: 3
+   inturn-total: 94
+   inturn-percent: 89
+   outturn-total: 126
+   outturn-percent: 87
+   draw-total: 100
+   draw-percent: 87
+   takeout-total: 120
+   takeout-percent: 88
+   shots-total: 220
+   shots-percent: 88
 vs:
  - Adam, Gerry
  - Adams, Shawn
+ - Aho, David
  - Anderson, Chris
  - Appelman, Tom
+ - Ardiel, Taylor
  - Armstrong, Mike
  - Arsenault, Craig
  - Atchison, Chris
@@ -286,13 +305,14 @@ vs:
  - Barry, Josh
  - Base, John
  - Berthelot, Marco
+ - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
  - Bilesky, Andrew
  - Bitz, Scott
  - Blanchard, Wade
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Bouchard, Christian
  - Brannen, Jamie
  - Breckon, Graham
@@ -311,6 +331,7 @@ vs:
  - Case, Peter
  - Casey, Adam
  - Cayouette, Maurice
+ - Chadwick, Scott
  - Champion, Kevin
  - Charest, Jean-Francois
  - Charette, Pierre
@@ -319,6 +340,7 @@ vs:
  - Clarey, Sean
  - Cochrane, Bryan
  - Collin, Simon
+ - Colter, Travis
  - Cotter, Jim
  - Cowan, Chad
  - Crete, Martin
@@ -354,6 +376,7 @@ vs:
  - Flaxey, Caleb
  - Flemming, Paul
  - Folk, Kevin
+ - Forget, Wes
  - Fowler, Rob
  - Frans, Joe
  - Fraser, Pierre
@@ -420,6 +443,7 @@ vs:
  - Kean, Mark
  - Kehoe, Mark
  - Kelsch, Dan
+ - Kendall, Lloyd
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
@@ -452,11 +476,14 @@ vs:
  - MacKenzie, Eddie
  - MacKenzie, Kevin
  - MacKenzie, Tyler
+ - Mackey, Peter
  - MacLean, Stuart
  - Mallais, Jeremy
  - Manners, Scott
  - March, Tim
  - Markowsky, Rob
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Maskiewich, Ken
@@ -465,6 +492,7 @@ vs:
  - McCarrel, Graeme
  - McCarville, Mike
  - McDermaid, Donald
+ - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
  - Meachem, Shaun Myles
@@ -485,6 +513,7 @@ vs:
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Nantes, Dave
  - Naugler, Tom
  - Nedohin, David
@@ -493,6 +522,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Newson, Jamie
+ - Ng, Matt
  - Nichols, Mark
  - Nobert, Rob
  - Odishaw, Grant
@@ -503,6 +533,7 @@ vs:
  - Ouimet, Luc
  - Palmer, Curt
  - Park, Kevin
+ - Parsons, Cole
  - Peachy, Jay
  - Pfeifer, Scott
  - Pielak, Rod
@@ -547,6 +578,8 @@ vs:
  - Sosiak, Jim
  - Spencer, Adam
  - Spicer, Grant
+ - St.Louis, David
+ - Steele, Colten
  - Steski, John
  - Stoughton, Jeff
  - Sullivan, Charles Jr
@@ -556,6 +589,7 @@ vs:
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thompson, Stuart
  - Thomson, Fred
  - Toner, Lee
  - Trevellyan, Todd

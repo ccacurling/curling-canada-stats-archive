@@ -131,10 +131,10 @@ vs:
  - Scales, Julie
  - Schikowski, Keri-Lynn
  - Schmirler, Sandra
+ - Sharpe, Kelli
  - Strong, Heather
  - Thomas, Karen
  - Trider, Krista
  - Trowell, Cathy
- - Turpin, Kelli
  - Wiltzen, Jan
 ---

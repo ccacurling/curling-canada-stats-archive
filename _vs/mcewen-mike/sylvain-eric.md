@@ -3,13 +3,13 @@ title: Mike McEwen vs Eric Sylvain
 player1:             
   name: McEwen, Mike 
   percent: 86        
-  wins: 2            
+  wins: 3            
   losses: 0          
 player2:             
   name: Sylvain, Eric
-  percent: 95        
+  percent: 89        
   wins: 0            
-  losses: 2          
+  losses: 3          
 games:
  - player1:          
      team: 'MB'      
@@ -43,4 +43,20 @@ games:
    year: 2017           
    draw: Round Robin(17)
    score: MB 5 - QC 2   
+ - player1:          
+     team: 'MB'      
+     position: Fourth
+     percent: 88     
+     win: 1          
+     loss: 0         
+   player2:          
+     team: 'QC'      
+     position: Second
+     percent: 76     
+     win: 0          
+     loss: 1         
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(3)
+   score: MB 8 - QC 3  
 ---

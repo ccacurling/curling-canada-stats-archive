@@ -2,18 +2,18 @@
 title: Rick Sawatsky
 name: Rick Sawatsky
 name-sort: Sawatsky, Rick
-games: 81
-wins: 41
-losses: 40
-inturn-total: 815
+games: 92
+wins: 45
+losses: 47
+inturn-total: 933
 inturn-percent: 89
-outturn-total: 724
+outturn-total: 806
 outturn-percent: 88
-draw-total: 1335
+draw-total: 1517
 draw-percent: 90
-takeout-total: 204
-takeout-percent: 84
-shots-total: 1539
+takeout-total: 222
+takeout-percent: 82
+shots-total: 1739
 shots-percent: 89
 years:
  - year: 2008
@@ -135,18 +135,38 @@ years:
    takeout-percent: 77
    shots-total: 209
    shots-percent: 88
+ - year: 2019
+   event: Brier
+   team: "BC"
+   position: Lead
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 118
+   inturn-percent: 89
+   outturn-total: 82
+   outturn-percent: 85
+   draw-total: 182
+   draw-percent: 90
+   takeout-total: 18
+   takeout-percent: 67
+   shots-total: 200
+   shots-percent: 88
 vs:
  - Adam, Gerry
  - Adams, Shawn
+ - Aho, David
+ - Ardiel, Taylor
  - Armstrong, Mike
  - Balsdon, Greg
  - Bardsley, Mike
  - Barry, Josh
+ - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
  - Bice, Steve
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Bouchard, Christian
  - Brannen, Jamie
  - Burtnyk, Kerry
@@ -157,10 +177,12 @@ vs:
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
+ - Chadwick, Scott
  - Champion, Kevin
  - Childs, Jamie
  - Chorostkowski, Brad
  - Clarey, Sean
+ - Colter, Travis
  - Cowan, Chad
  - Crete, Martin
  - Crowell, Phil
@@ -177,6 +199,7 @@ vs:
  - Flasch, Colton
  - Flaxey, Caleb
  - Flemming, Paul
+ - Forget, Wes
  - Fowler, Rob
  - Fry, Ryan
  - Gagne, Francois
@@ -206,6 +229,7 @@ vs:
  - Josephson, Glenn
  - Kammerlock, Dan
  - Kean, Mark
+ - Kendall, Lloyd
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
@@ -221,14 +245,18 @@ vs:
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - MacKenzie, Tyler
+ - Mackey, Peter
  - Mallais, Jeremy
  - Manners, Scott
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
  - McCann, Andy
  - McCarville, Mike
  - McDermaid, Donald
+ - McDonald, Scott
  - McEwen, Mike
  - Meachem, Shaun Myles
  - Mead, Jonathan
@@ -243,14 +271,17 @@ vs:
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Naugler, Tom
  - Neufeld, B.J.
  - Neufeld, Denni
+ - Ng, Matt
  - Nichols, Mark
  - Noftall, David
  - Odishaw, Grant
  - Odishaw, Terry
  - Palmer, Curt
+ - Parsons, Cole
  - Pinder, Jordan
  - Rafuse, Brian
  - Roach, Darren
@@ -269,11 +300,14 @@ vs:
  - Slauenwhite, David
  - Smith, Garth
  - Spencer, Adam
+ - St.Louis, David
+ - Steele, Colten
  - Stoughton, Jeff
  - Sullivan, Charles Jr
  - Sylvain, Eric
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thompson, Stuart
  - Vaughan, Jason
  - Villeneuve, Steeve
  - Walker, Geoff

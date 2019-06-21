@@ -177,6 +177,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Donna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Stewart, Sheri
  - Stokes, Debbie
@@ -187,7 +188,6 @@ vs:
  - Stubbings, Tiffany
  - Tanner, Ros
  - Turcotte, Kristin
- - Turpin, Kelli
  - Usher, Leanne
  - Wheatcroft, Georgina
 ---

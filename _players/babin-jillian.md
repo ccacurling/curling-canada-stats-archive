@@ -2,18 +2,18 @@
 title: Jillian Babin
 name: Jillian Babin
 name-sort: Babin, Jillian
-games: 33
-wins: 13
-losses: 20
-inturn-total: 323
+games: 40
+wins: 16
+losses: 24
+inturn-total: 398
 inturn-percent: 76
-outturn-total: 301
-outturn-percent: 77
-draw-total: 237
+outturn-total: 355
+outturn-percent: 76
+draw-total: 296
 draw-percent: 73
-takeout-total: 387
+takeout-total: 457
 takeout-percent: 78
-shots-total: 624
+shots-total: 753
 shots-percent: 76
 years:
  - year: 2010
@@ -67,6 +67,23 @@ years:
    takeout-percent: 80
    shots-total: 208
    shots-percent: 79
+ - year: 2019
+   event: Hearts
+   team: "NB"
+   position: Third
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 75
+   inturn-percent: 74
+   outturn-total: 54
+   outturn-percent: 76
+   draw-total: 59
+   draw-percent: 73
+   takeout-total: 70
+   takeout-percent: 77
+   shots-total: 129
+   shots-percent: 75
 vs:
  - Armstrong, Jacquie
  - Barbour, Shona

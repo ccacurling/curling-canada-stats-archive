@@ -157,7 +157,6 @@ years:
    shots-total: 6
    shots-percent: 83
  - year: 2011
-   event: Hearts
    team: Totals
    games: 3
    wins: 1
@@ -207,7 +206,6 @@ years:
    shots-total: 35
    shots-percent: 71
  - year: 2012
-   event: Hearts
    team: Totals
    games: 11
    wins: 4
@@ -257,7 +255,6 @@ years:
    shots-total: 166
    shots-percent: 65
  - year: 2013
-   event: Hearts
    team: Totals
    games: 10
    wins: 2
@@ -525,6 +522,7 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shigehiro, Sally
  - Shumay, Jill
  - Sicinski, Danielle
@@ -551,7 +549,6 @@ vs:
  - Trider, Krista
  - Trowell, Cathy
  - Turcotte, Kristin
- - Turpin, Kelli
  - Udle, Teri
  - Unrau, Faye
  - Vey, Lana

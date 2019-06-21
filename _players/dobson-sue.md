@@ -68,7 +68,6 @@ years:
    shots-total: 18
    shots-percent: 78
  - year: 2004
-   event: Hearts
    team: Totals
    games: 3
    wins: 0
@@ -120,12 +119,12 @@ vs:
  - Phillips, Margaret Lea
  - Renouf, Michele
  - Sabourin, Joelle
+ - Sharpe, Kelli
  - Skinner, Julie
  - Smith, Heather
  - Stabel, Stacey
  - Stahl, Carrie
  - Strong, Heather
- - Turpin, Kelli
  - Walter, Cathy
  - Wheatcroft, Georgina
  - Whitrow, Leanne

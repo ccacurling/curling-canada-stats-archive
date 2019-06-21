@@ -3,13 +3,13 @@ title: Brad Gushue vs Steve Laycock
 player1:              
   name: Gushue, Brad  
   percent: 84         
-  wins: 5             
+  wins: 6             
   losses: 3           
 player2:              
   name: Laycock, Steve
   percent: 86         
   wins: 3             
-  losses: 5           
+  losses: 6           
 games:
  - player1:          
      team: 'NL'      
@@ -139,4 +139,20 @@ games:
    year: 2018        
    draw: Pool(16)    
    score: SK 4 - CA 5
+ - player1:          
+     team: 'CA'      
+     position: Fourth
+     percent: 91     
+     win: 1          
+     loss: 0         
+   player2:         
+     team: 'BC'     
+     position: Third
+     percent: 86    
+     win: 0         
+     loss: 1        
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(6)
+   score: BC 4 - CA 10 
 ---

@@ -2,13 +2,13 @@
 title: Rick Sawatsky vs Brad Thiessen
 player1:              
   name: Sawatsky, Rick
-  percent: 96         
+  percent: 91         
   wins: 1             
-  losses: 0           
+  losses: 1           
 player2:              
   name: Thiessen, Brad
-  percent: 90         
-  wins: 0             
+  percent: 88         
+  wins: 1             
   losses: 1           
 games:
  - player1:        
@@ -27,4 +27,20 @@ games:
    year: 2017           
    draw: Round Robin(14)
    score: AB 2 - BC 5   
+ - player1:        
+     team: 'BC'    
+     position: Lead
+     percent: 86   
+     win: 0        
+     loss: 1       
+   player2:          
+     team: 'WC'      
+     position: Second
+     percent: 86     
+     win: 1          
+     loss: 0         
+   event: Brier      
+   year: 2019        
+   draw: Pool(16)    
+   score: WC 8 - BC 3
 ---

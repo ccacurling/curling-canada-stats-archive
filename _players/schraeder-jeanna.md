@@ -265,6 +265,7 @@ vs:
  - Sabourin, Joelle
  - Schneider, Kim
  - Schneider, Tammy
+ - Sharpe, Kelli
  - Shumay, Jill
  - Simmons, Cindy
  - Sippala, Ashley
@@ -282,7 +283,6 @@ vs:
  - Thomas, Jill
  - Thompson, Karla
  - Thurston, Jill
- - Turpin, Kelli
  - Udle, Teri
  - Vey, Lana
  - Wall, Kirsten

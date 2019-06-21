@@ -147,7 +147,7 @@ vs:
  - Bice, Mark
  - Bice, Steve
  - Bilesky, Andrew
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brannen, Jamie
  - Breckon, Graham
  - Camm, Mathew

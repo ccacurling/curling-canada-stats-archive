@@ -2,13 +2,13 @@
 title: Mike McEwen vs Mark Nichols
 player1:             
   name: McEwen, Mike 
-  percent: 84        
+  percent: 83        
   wins: 1            
-  losses: 3          
+  losses: 4          
 player2:             
   name: Nichols, Mark
   percent: 89        
-  wins: 3            
+  wins: 4            
   losses: 1          
 games:
  - player1:          
@@ -75,4 +75,20 @@ games:
    year: 2018          
    draw: Round Robin(8)
    score: WC 5 - CA 6  
+ - player1:          
+     team: 'MB'      
+     position: Fourth
+     percent: 80     
+     win: 0          
+     loss: 1         
+   player2:         
+     team: 'CA'     
+     position: Third
+     percent: 88    
+     win: 1         
+     loss: 0        
+   event: Brier      
+   year: 2019        
+   draw: Pool(15)    
+   score: CA 6 - MB 3
 ---

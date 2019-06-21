@@ -2,19 +2,19 @@
 title: Kendra Lilly
 name: Kendra Lilly
 name-sort: Lilly, Kendra
-games: 28
-wins: 18
-losses: 10
-inturn-total: 302
-inturn-percent: 83
-outturn-total: 242
+games: 40
+wins: 26
+losses: 14
+inturn-total: 428
+inturn-percent: 82
+outturn-total: 348
 outturn-percent: 80
-draw-total: 244
-draw-percent: 78
-takeout-total: 300
-takeout-percent: 85
-shots-total: 544
-shots-percent: 82
+draw-total: 371
+draw-percent: 79
+takeout-total: 405
+takeout-percent: 84
+shots-total: 776
+shots-percent: 81
 years:
  - year: 2016
    event: Hearts
@@ -50,16 +50,40 @@ years:
    takeout-percent: 83
    shots-total: 268
    shots-percent: 82
+ - year: 2019
+   event: Hearts
+   team: "NO"
+   position: Third
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 126
+   inturn-percent: 80
+   outturn-total: 106
+   outturn-percent: 80
+   draw-total: 127
+   draw-percent: 80
+   takeout-total: 105
+   takeout-percent: 81
+   shots-total: 232
+   shots-percent: 80
 vs:
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Atkinson, Rebecca
+ - Baldwin, Nicole
+ - Barbour, Shona
  - Barker, Penny
  - Belisle, Eve
+ - Birnie, Hailey
  - Birt, Suzanne
  - Blais, Amelie
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Boudreault, Patricia
  - Boyle, Jane
  - Brothers, Jill
+ - Brown, Rachel
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
@@ -68,6 +92,7 @@ vs:
  - Courtney, Joanne
  - Curtis, Stacie
  - Cutcliffe, Margaret
+ - Daigle, Julie
  - deJager, Blaine
  - Derry, Danielle
  - Devereaux, Julie
@@ -75,9 +100,13 @@ vs:
  - Einarson, Kerri
  - Englot, Michelle
  - Eyamie, Lisa
+ - Ferguson, Dana
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
+ - Griffin, Alison
+ - Guzzwell, Stephanie
+ - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
@@ -85,14 +114,19 @@ vs:
  - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
+ - Hunkin, Jessie
+ - Ingram, Megan
+ - Jewer, Michelle
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kleibrink, Shannon
  - Koehler, Megan
+ - Koltun, Sarah
  - Larouche, Marie-France
  - Lavery, Tracey
+ - Lavoie, Gabrielle
  - Lawes, Kaitlyn
+ - Lawton, Stefanie
  - MacCuish, Kristin
  - MacPhee, Robyn
  - Mallett, Marla
@@ -101,7 +135,9 @@ vs:
  - McEwen, Dawn
  - McQuaid, Michelle
  - Miskew, Emma
+ - Munroe, Anna
  - Murphy, Sarah
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Officer, Jill
@@ -109,22 +145,32 @@ vs:
  - O'Rourke, Brittany
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
  - Porter, Erin
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
  - Robichaud, Sylvie
+ - Rusnell, Jen
  - Sagle, Karen
+ - Sandwith, Carley
  - Saulnier, Andrea
  - Schneider, Lorraine
+ - Sharpe, Kelli
+ - Shaw, Ladene
  - Sicinski, Danielle
+ - Silvernagle, Robyn
+ - Strong, Helen
+ - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla
+ - Tran, Brittany
  - Trickett, Erica
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie
+ - Wark, Sarah
  - Weagle, Lisa
  - Westcott, Raunora
  - Wilkes, Sarah

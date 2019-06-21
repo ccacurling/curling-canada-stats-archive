@@ -85,7 +85,6 @@ years:
    shots-total: 4
    shots-percent: 75
  - year: 2016
-   event: Hearts
    team: Totals
    games: 2
    wins: 2
@@ -113,7 +112,7 @@ vs:
  - Boyle, Jane
  - Bradley, Shelly
  - Briand, Oye-Sem Won
- - Brown, Rachelle
+ - Brown, Rachel
  - Cameron, Nancy
  - Camozzi, Rhona
  - Campbell, Jolene
@@ -134,7 +133,6 @@ vs:
  - Einarson, Kerri
  - Englot, Michelle
  - Ferguson, Dana
- - Fewster, Kristen
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
@@ -150,7 +148,6 @@ vs:
  - Iskiw, Beth
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Knezevic, Patti
@@ -172,6 +169,7 @@ vs:
  - McQuaid, Michelle
  - Miskew, Emma
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nixon, Amy
  - Officer, Jill
  - Olson-Johns, Lori
@@ -179,6 +177,7 @@ vs:
  - Parsons, Danielle
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
  - Potts, Sarah
  - Recksiedler, Kristen
  - Richard, Marie

@@ -284,6 +284,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Donna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shephard, Wendy
  - Sherrington, Barb
  - Simmons, Cindy
@@ -305,7 +306,6 @@ vs:
  - Tincher, Twyla
  - Trider, Krista
  - Tucker, Cindy
- - Turpin, Kelli
  - Webster, Bronwen
  - Westcott, Raunora
  - Wheatcroft, Georgina

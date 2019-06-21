@@ -189,6 +189,7 @@ vs:
  - Sandison, Janice
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Singler, Sherri
  - Skinner, Julie
@@ -198,7 +199,6 @@ vs:
  - Tanner, Ros
  - Tasaka, Adina
  - Thurston, Jill
- - Turpin, Kelli
  - Udle, Teri
  - Vey, Lana
  - Wheatcroft, Georgina

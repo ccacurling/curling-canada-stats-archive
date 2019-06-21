@@ -2,19 +2,19 @@
 title: Michelle McQuaid
 name: Michelle McQuaid
 name-sort: McQuaid, Michelle
-games: 30
-wins: 9
-losses: 21
-inturn-total: 291
-inturn-percent: 79
-outturn-total: 286
-outturn-percent: 79
-draw-total: 403
-draw-percent: 79
-takeout-total: 174
-takeout-percent: 78
-shots-total: 577
-shots-percent: 79
+games: 41
+wins: 15
+losses: 26
+inturn-total: 416
+inturn-percent: 81
+outturn-total: 372
+outturn-percent: 80
+draw-total: 582
+draw-percent: 81
+takeout-total: 206
+takeout-percent: 79
+shots-total: 788
+shots-percent: 81
 years:
  - year: 2015
    event: Hearts
@@ -67,6 +67,23 @@ years:
    takeout-percent: 84
    shots-total: 155
    shots-percent: 86
+ - year: 2019
+   event: Hearts
+   team: "PE"
+   position: Lead
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 125
+   inturn-percent: 85
+   outturn-total: 86
+   outturn-percent: 85
+   draw-total: 179
+   draw-percent: 85
+   takeout-total: 32
+   takeout-percent: 84
+   shots-total: 211
+   shots-percent: 85
 vs:
  - Adams, Melissa
  - Alcoe-Holland, Jill
@@ -75,15 +92,20 @@ vs:
  - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
+ - Baldwin, Nicole
  - Barbour, Shona
  - Barker, Penny
  - Baxter, Jen
  - Belisle, Eve
  - Birchard, Shannon
+ - Birnie, Hailey
  - Black, Christina
  - Blais, Amelie
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Boudreault, Patricia
  - Boyle, Jane
- - Brown, Rachelle
+ - Brown, Rachel
  - Cameron, Kate
  - Camozzi, Rhona
  - Carey, Chelsea
@@ -95,6 +117,7 @@ vs:
  - Cunningham, Jessica
  - Curtis, Stacie
  - Cutcliffe, Margaret
+ - Daigle, Julie
  - deJager, Blaine
  - Derry, Danielle
  - Devereaux, Julie
@@ -108,20 +131,25 @@ vs:
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Fleury, Tracy
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
+ - Gates, Jenny
  - Gibson, Amy
+ - Griffin, Alison
+ - Guzzwell, Stephanie
+ - Hamilton, Beth
  - Hastings, Julie
  - Hill, Trish
  - Homan, Rachel
  - Horgan, Tracy
+ - Hunkin, Jessie
  - Hutchings, Denise
+ - Ingram, Megan
+ - Jewer, Michelle
  - Jones, Jennifer
- - Kaatz, Selena
  - Kasner, Marliese
  - Kleibrink, Shannon
  - Knezevic, Patti
@@ -130,6 +158,7 @@ vs:
  - Korab, Stephanie
  - Korchinski, Karlee
  - Kreviazuk, Cheryl
+ - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - LeDrew, Stephanie
@@ -144,6 +173,8 @@ vs:
  - McTaggart, Cary-Anne
  - Miskew, Emma
  - Moore, Kristie
+ - Munroe, Anna
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Nugent, Pamela
@@ -152,6 +183,7 @@ vs:
  - O'Rourke, Brittany
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
  - Price, Kara
@@ -160,26 +192,34 @@ vs:
  - Robichaud, Sylvie
  - Rusnell, Jen
  - Sagle, Karen
+ - Sandwith, Carley
  - Saulnier, Andrea
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
  - Schneider, Lorraine
  - Shackleton, Amie
+ - Sharpe, Kelli
+ - Shaw, Ladene
  - Sicinski, Danielle
+ - Silvernagle, Robyn
  - Sippala, Ashley
  - Smallwood, Jody
  - Smith, Stacey
  - Snyder, Jane
  - Strong, Heather
+ - Strong, Helen
  - Sweeting, Valerie
+ - Thevenot, Kara
  - Thiessen, Alison
+ - Tran, Brittany
  - Trickett, Erica
  - Trombley, Christy
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
  - Walsh, Jenna
+ - Wark, Sarah
  - Weagle, Lisa
  - Webster, Crystal
  - West, Christianne

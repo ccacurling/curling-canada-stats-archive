@@ -3,13 +3,13 @@ title: Ryan Fry vs Steve Laycock
 player1:              
   name: Fry, Ryan     
   percent: 87         
-  wins: 3             
+  wins: 4             
   losses: 2           
 player2:              
   name: Laycock, Steve
   percent: 83         
   wins: 2             
-  losses: 3           
+  losses: 4           
 games:
  - player1:         
      team: 'MB'     
@@ -91,4 +91,20 @@ games:
    year: 2018          
    draw: Round Robin(9)
    score: SK 8 - NO 4  
+ - player1:         
+     team: 'NO'     
+     position: Third
+     percent: 86    
+     win: 1         
+     loss: 0        
+   player2:         
+     team: 'BC'     
+     position: Third
+     percent: 86    
+     win: 0         
+     loss: 1        
+   event: Brier       
+   year: 2019         
+   draw: Pool(15)     
+   score: NO 11 - BC 5
 ---

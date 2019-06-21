@@ -2,18 +2,18 @@
 title: Eric Sylvain
 name: Eric Sylvain
 name-sort: Sylvain, Eric
-games: 130
-wins: 71
-losses: 59
-inturn-total: 890
+games: 137
+wins: 74
+losses: 63
+inturn-total: 916
 inturn-percent: 81
-outturn-total: 1607
+outturn-total: 1699
 outturn-percent: 84
-draw-total: 1118
+draw-total: 1166
 draw-percent: 81
-takeout-total: 1379
+takeout-total: 1449
 takeout-percent: 85
-shots-total: 2497
+shots-total: 2615
 shots-percent: 83
 years:
  - year: 2000
@@ -203,7 +203,25 @@ years:
    takeout-percent: 85
    shots-total: 214
    shots-percent: 84
+ - year: 2019
+   event: Brier
+   team: "QC"
+   position: Second
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 26
+   inturn-percent: 79
+   outturn-total: 92
+   outturn-percent: 78
+   draw-total: 48
+   draw-percent: 76
+   takeout-total: 70
+   takeout-percent: 80
+   shots-total: 118
+   shots-percent: 78
 vs:
+ - Abel, Clinton
  - Adam, Gerry
  - Adams, Shawn
  - Armstrong, Doug
@@ -219,14 +237,16 @@ vs:
  - Bitz, Scott
  - Blanchard, Ben
  - Blanchard, Wade
+ - Boland, Adam
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brandwood, Todd
  - Brannen, Jamie
  - Breckon, Graham
  - Brodersen, Erik
  - Bryant, Doug
  - Burgess, Craig
+ - Burgess, Steve
  - Burnett, Steve
  - Burtnyk, Kerry
  - Buyck, James
@@ -267,6 +287,7 @@ vs:
  - Flaxey, Caleb
  - Flemming, Paul
  - Folk, Kevin
+ - Ford, Chris
  - Fowler, Rob
  - Frans, Joe
  - Freschi, Don
@@ -348,6 +369,8 @@ vs:
  - Macklin, Drew
  - MacLean, Stuart
  - Mallais, Jeremy
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
@@ -383,6 +406,7 @@ vs:
  - Noftall, David
  - Nolan, Jason
  - Noseworthy, Mark
+ - Odian, Scott
  - Odishaw, Grant
  - Olson, Mark-2
  - O'Rourke, Mark
@@ -425,6 +449,7 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Slauenwhite, David
+ - Smallwood, Robert
  - Smith, Garth
  - Smith, Jeff
  - Smith, Kent
@@ -435,6 +460,7 @@ vs:
  - Suchy, Chris
  - Sullivan, Evan
  - Sveistrup, Jody
+ - Symonds, Andrew
  - Tallon, Wayne
  - Thiessen, Brad
  - Thiessen, Nolan

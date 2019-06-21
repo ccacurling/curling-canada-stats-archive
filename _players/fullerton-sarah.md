@@ -120,7 +120,6 @@ vs:
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
- - Kaatz, Selena
  - Kelly, Kim
  - Kleibrink, Shannon
  - Koehler, Megan
@@ -145,6 +144,7 @@ vs:
  - Miskew, Emma
  - Moore, Kristie
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nixon, Amy
  - Nugent, Pamela
  - Officer, Jill

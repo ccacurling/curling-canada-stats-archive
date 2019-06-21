@@ -2,13 +2,13 @@
 title: Reid Carruthers vs Ryan Harnden
 player1:                
   name: Carruthers, Reid
-  percent: 90           
+  percent: 89           
   wins: 1               
-  losses: 4             
+  losses: 5             
 player2:                
   name: Harnden, Ryan   
-  percent: 86           
-  wins: 4               
+  percent: 88           
+  wins: 5               
   losses: 1             
 games:
  - player1:          
@@ -91,4 +91,20 @@ games:
    year: 2018           
    draw: Round Robin(13)
    score: MB 3 - NO 6   
+ - player1:         
+     team: 'MB'     
+     position: Third
+     percent: 85    
+     win: 0         
+     loss: 1        
+   player2:        
+     team: 'NO'    
+     position: Lead
+     percent: 93   
+     win: 1        
+     loss: 0       
+   event: Brier         
+   year: 2019           
+   draw: Round Robin(11)
+   score: NO 9 - MB 5   
 ---

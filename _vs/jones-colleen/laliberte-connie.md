@@ -137,7 +137,7 @@ games:
      loss: 1         
    event: Hearts     
    year: 1999        
-   draw: Playoff(19) 
+   draw: Page 1-2(19)
    score: MB 3 - NS 6
  - player1:          
      team: 'CA'      

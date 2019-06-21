@@ -41,7 +41,6 @@ years:
    shots-total: 19
    shots-percent: 74
  - year: 2001
-   event: Hearts
    team: Totals
    games: 11
    wins: 4

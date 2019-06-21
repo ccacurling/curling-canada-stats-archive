@@ -61,11 +61,11 @@ vs:
  - Rocque, Raylene
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
  - Thurston, Jill
- - Turpin, Kelli
  - Wheatcroft, Georgina
 ---

@@ -57,7 +57,7 @@ games:
      loss: 1         
    event: Hearts     
    year: 2002        
-   draw: Playoff(19) 
+   draw: Page 1-2(19)
    score: SK 6 - CA 3
  - player1:          
      team: 'SK'      
@@ -73,7 +73,7 @@ games:
      loss: 0         
    event: Hearts     
    year: 2002        
-   draw: Playoff(21) 
+   draw: Final(21)   
    score: SK 5 - CA 8
  - player1:          
      team: 'SK'      

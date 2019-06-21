@@ -123,7 +123,6 @@ vs:
  - Hughes, Meaghan
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kalenchuk, Heather
  - Kleibrink, Shannon
  - Koehler, Megan
@@ -145,6 +144,7 @@ vs:
  - More, Whitney
  - Murphy, Sarah
  - Naugler, Tara
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Nowlan, Denise

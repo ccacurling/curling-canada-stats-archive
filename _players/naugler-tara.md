@@ -51,7 +51,6 @@ years:
    shots-total: 154
    shots-percent: 75
  - year: 2003
-   event: Hearts
    team: Totals
    games: 10
    wins: 2

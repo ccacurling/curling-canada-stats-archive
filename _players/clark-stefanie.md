@@ -102,7 +102,6 @@ years:
    shots-total: 4
    shots-percent: 88
  - year: 2013
-   event: Hearts
    team: Totals
    games: 2
    wins: 0
@@ -211,6 +210,7 @@ vs:
  - Sabourin, Joelle
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simmons, Cindy
  - Simons, Renee
  - Singler, Sherri
@@ -219,7 +219,6 @@ vs:
  - Stubbings, Tiffany
  - Surik, Teejay
  - Thompson, Karla
- - Turpin, Kelli
  - Udle, Teri
  - Vey, Lana
  - Wall, Kirsten

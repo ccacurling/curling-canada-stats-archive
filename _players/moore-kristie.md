@@ -124,7 +124,6 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Jones-Walker, Debbie
- - Kaatz, Selena
  - Kelly, Kim
  - Koehler, Megan
  - Koltun, Sarah
@@ -151,6 +150,7 @@ vs:
  - Miller, Wendy
  - Miskew, Emma
  - Nedohin, Heather
+ - Njegovan, Selena
  - Officer, Jill
  - O'Rourke, Brittany
  - Overton-Clapham, Cathy
@@ -167,6 +167,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shackleton, Amie
+ - Sharpe, Kelli
  - Shumay, Jill
  - Skinner, Julie
  - Smallwood, Jody
@@ -174,7 +175,6 @@ vs:
  - Stahl, Carrie
  - Stewart, Sheri
  - Strong, Heather
- - Turpin, Kelli
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika

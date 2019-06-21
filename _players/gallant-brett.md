@@ -2,18 +2,18 @@
 title: Brett Gallant
 name: Brett Gallant
 name-sort: Gallant, Brett
-games: 77
-wins: 56
-losses: 21
-inturn-total: 629
-inturn-percent: 85
-outturn-total: 867
+games: 89
+wins: 65
+losses: 24
+inturn-total: 699
+inturn-percent: 86
+outturn-total: 1019
 outturn-percent: 88
-draw-total: 520
+draw-total: 619
 draw-percent: 86
-takeout-total: 976
+takeout-total: 1099
 takeout-percent: 88
-shots-total: 1496
+shots-total: 1718
 shots-percent: 87
 years:
  - year: 2013
@@ -118,16 +118,68 @@ years:
    takeout-percent: 93
    shots-total: 238
    shots-percent: 91
+ - year: 2019
+   event: Brier
+   team: "CA"
+   position: Second
+   games: 11
+   wins: 8
+   losses: 3
+   inturn-total: 66
+   inturn-percent: 90
+   outturn-total: 140
+   outturn-percent: 90
+   draw-total: 90
+   draw-percent: 90
+   takeout-total: 116
+   takeout-percent: 90
+   shots-total: 206
+   shots-percent: 90
+ - year: 2019
+   event: Brier
+   team: "CA"
+   position: Third
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 4
+   inturn-percent: 94
+   outturn-total: 12
+   outturn-percent: 88
+   draw-total: 9
+   draw-percent: 83
+   takeout-total: 7
+   takeout-percent: 96
+   shots-total: 16
+   shots-percent: 89
+ - year: 2019
+   team: Totals
+   games: 12
+   wins: 9
+   losses: 3
+   inturn-total: 70
+   inturn-percent: 90
+   outturn-total: 152
+   outturn-percent: 89
+   draw-total: 99
+   draw-percent: 89
+   takeout-total: 123
+   takeout-percent: 90
+   shots-total: 222
+   shots-percent: 90
 vs:
+ - Aho, David
  - Appelman, Tom
+ - Ardiel, Taylor
  - Balsdon, Greg
  - Bardsley, Mike
  - Barry, Josh
+ - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
  - Bilesky, Andrew
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brannen, Jamie
  - Breckon, Graham
  - Camm, Mathew
@@ -135,8 +187,10 @@ vs:
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
+ - Chadwick, Scott
  - Childs, Jamie
  - Chorostkowski, Brad
+ - Colter, Travis
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
@@ -151,6 +205,7 @@ vs:
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
  - Flemming, Paul
+ - Forget, Wes
  - Fry, Ryan
  - Geall, Sean
  - Giddens, Ryan
@@ -171,6 +226,7 @@ vs:
  - Jeffrey, Chris
  - Jones, Scott
  - Kean, Mark
+ - Kendall, Lloyd
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
@@ -186,13 +242,17 @@ vs:
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - MacKenzie, Tyler
+ - Mackey, Peter
  - Mallais, Jeremy
  - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
  - McCarville, Mike
  - McDermaid, Donald
+ - McDonald, Scott
  - McEwen, Mike
  - Meachem, Shaun Myles
  - Mead, Jonathan
@@ -207,11 +267,16 @@ vs:
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Naugler, Tom
  - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
+ - Ng, Matt
  - Nichols, Mark
+ - Odishaw, Grant
+ - Odishaw, Terry
+ - Parsons, Cole
  - Pinder, Jordan
  - Richard, Jeff
  - Roach, Darren
@@ -230,11 +295,14 @@ vs:
  - Smith, Greg
  - Smith, Kent
  - Spencer, Adam
+ - St.Louis, David
+ - Steele, Colten
  - Stoughton, Jeff
  - Sylvain, Eric
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thompson, Stuart
  - Virtue, Brock
  - Watson, Aaron
  - Whitehead, Kevin

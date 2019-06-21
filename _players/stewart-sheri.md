@@ -388,6 +388,7 @@ vs:
  - Sauer, Cathy
  - Schmirler, Sandra
  - Scott, Donna
+ - Sharpe, Kelli
  - Sherrington, Barb
  - Sigurdson, Janine
  - Skinner, Julie
@@ -412,7 +413,6 @@ vs:
  - Thompson, May
  - Todd, Fran
  - Turcotte, Kristin
- - Turpin, Kelli
  - Unrau, Faye
  - Usher, Leanne
  - Walker, Lisa

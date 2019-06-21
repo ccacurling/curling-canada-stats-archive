@@ -62,10 +62,10 @@ vs:
  - Ross, Allison
  - Sabourin, Joelle
  - Sanders, Pat
+ - Sharpe, Kelli
  - Sonnenberg, Renee
  - Strong, Heather
  - Tincher, Twyla
  - Tucker, Cindy
- - Turpin, Kelli
  - Wright, Susan
 ---

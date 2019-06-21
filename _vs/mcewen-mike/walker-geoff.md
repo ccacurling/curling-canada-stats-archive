@@ -4,11 +4,11 @@ player1:
   name: McEwen, Mike 
   percent: 80        
   wins: 1            
-  losses: 2          
+  losses: 3          
 player2:             
   name: Walker, Geoff
-  percent: 91        
-  wins: 2            
+  percent: 89        
+  wins: 3            
   losses: 1          
 games:
  - player1:          
@@ -59,4 +59,20 @@ games:
    year: 2018          
    draw: Round Robin(8)
    score: WC 5 - CA 6  
+ - player1:          
+     team: 'MB'      
+     position: Fourth
+     percent: 80     
+     win: 0          
+     loss: 1         
+   player2:        
+     team: 'CA'    
+     position: Lead
+     percent: 83   
+     win: 1        
+     loss: 0       
+   event: Brier      
+   year: 2019        
+   draw: Pool(15)    
+   score: CA 6 - MB 3
 ---

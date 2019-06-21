@@ -16,6 +16,10 @@ Site - Brian Cassidy Jr.
 
 ## Changelog
 
+### 2019-06-18
+
+ * Added 2019 Brier and Hearts data.
+
 ### 2019-02-19
 
  * Added "vs" shortcut selector to player pages.

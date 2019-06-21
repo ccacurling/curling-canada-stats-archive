@@ -434,6 +434,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Donna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shephard, Wendy
  - Sherrington, Barb
  - Simmons, Cindy
@@ -463,7 +464,6 @@ vs:
  - Train, Mona
  - Trider, Krista
  - Tucker, Cindy
- - Turpin, Kelli
  - Unrau, Faye
  - Wall, Kirsten
  - Walter, Cathy

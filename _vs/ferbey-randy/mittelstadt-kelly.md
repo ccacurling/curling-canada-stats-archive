@@ -41,6 +41,6 @@ games:
      loss: 1       
    event: Brier      
    year: 2005        
-   draw: Playoff(21) 
+   draw: Final(21)   
    score: NS 4 - AB 5
 ---

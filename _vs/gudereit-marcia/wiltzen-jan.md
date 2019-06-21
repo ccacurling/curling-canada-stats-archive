@@ -41,6 +41,6 @@ games:
      loss: 1        
    event: Hearts     
    year: 1998        
-   draw: Playoff(19) 
+   draw: Page 3-4(19)
    score: BC 3 - CA 9
 ---

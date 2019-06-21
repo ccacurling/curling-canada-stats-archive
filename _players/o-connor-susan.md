@@ -85,7 +85,6 @@ years:
    shots-total: 2
    shots-percent: 100
  - year: 2016
-   event: Hearts
    team: Totals
    games: 2
    wins: 2
@@ -198,6 +197,7 @@ vs:
  - Sabourin, Joelle
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Singler, Sherri
  - Sobey, Lianne
@@ -205,7 +205,6 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
- - Turpin, Kelli
  - Udle, Teri
  - Vey, Lana
  - Wheatcroft, Georgina

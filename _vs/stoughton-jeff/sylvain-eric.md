@@ -41,7 +41,7 @@ games:
      loss: 0         
    event: Brier      
    year: 2000        
-   draw: Playoff(19) 
+   draw: Page 3-4(19)
    score: QC 7 - MB 5
  - player1:          
      team: 'MB'      

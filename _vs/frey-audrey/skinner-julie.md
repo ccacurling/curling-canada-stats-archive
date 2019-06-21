@@ -57,6 +57,6 @@ games:
      loss: 0        
    event: Hearts     
    year: 2000        
-   draw: Playoff(22) 
+   draw: Final(22)   
    score: BC 9 - ON 4
 ---

@@ -234,6 +234,7 @@ vs:
  - Schmirler, Sandra
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shigehiro, Sally
  - Simons, Renee
  - Skinner, Julie
@@ -246,7 +247,6 @@ vs:
  - Sutton, Jodie
  - Taylor, Candy
  - Thomas, Maria
- - Turpin, Kelli
  - Udle, Teri
  - Vey, Lana
  - Walker, Lisa

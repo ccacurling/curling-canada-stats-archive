@@ -2,18 +2,18 @@
 title: Kevin Koe
 name: Kevin Koe
 name-sort: Koe, Kevin
-games: 81
-wins: 59
+games: 94
+wins: 72
 losses: 22
-inturn-total: 571
-inturn-percent: 81
-outturn-total: 916
-outturn-percent: 87
-draw-total: 564
+inturn-total: 654
+inturn-percent: 82
+outturn-total: 1074
+outturn-percent: 86
+draw-total: 661
 draw-percent: 84
-takeout-total: 923
-takeout-percent: 85
-shots-total: 1487
+takeout-total: 1067
+takeout-percent: 86
+shots-total: 1728
 shots-percent: 85
 years:
  - year: 2010
@@ -118,29 +118,51 @@ years:
    takeout-percent: 84
    shots-total: 277
    shots-percent: 86
+ - year: 2019
+   event: Brier
+   team: "AB"
+   position: Fourth
+   games: 13
+   wins: 13
+   losses: 0
+   inturn-total: 83
+   inturn-percent: 90
+   outturn-total: 158
+   outturn-percent: 84
+   draw-total: 97
+   draw-percent: 81
+   takeout-total: 144
+   takeout-percent: 90
+   shots-total: 241
+   shots-percent: 86
 vs:
+ - Aho, David
  - Anderson, Chris
+ - Ardiel, Taylor
  - Armstrong, Mike
  - Balsdon, Greg
  - Bardsley, Mike
  - Barry, Josh
+ - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
  - Bice, Steve
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brannen, Jamie
  - Camm, Mathew
  - Carmody, Anson
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
+ - Chadwick, Scott
  - Champion, Kevin
  - Charest, Jean-Francois
  - Childs, Jamie
  - Chorostkowski, Brad
  - Clarey, Sean
  - Collin, Simon
+ - Colter, Travis
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
@@ -155,6 +177,7 @@ vs:
  - Flasch, Colton
  - Flaxey, Caleb
  - Folk, Kevin
+ - Forget, Wes
  - Fowler, Rob
  - Fry, Ryan
  - Gallant, Brett
@@ -177,6 +200,7 @@ vs:
  - Jeffrey, Chris
  - Jones, Scott
  - Kean, Mark
+ - Kendall, Lloyd
  - Kennedy, Mike
  - Kidby, Dustin
  - Koe, Jamie
@@ -194,16 +218,20 @@ vs:
  - MacDonald, Rod
  - MacKenzie, Eddie
  - MacKenzie, Tyler
+ - Mackey, Peter
  - MacLean, Stuart
  - Mallais, Jeremy
  - Manners, Scott
  - Markowsky, Rob
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
  - Mawhinney, Spencer
  - McCann, Andy
  - McCarville, Mike
  - McDermaid, Donald
+ - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
  - Meachem, Shaun Myles
@@ -219,15 +247,18 @@ vs:
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Naugler, Tom
  - Neufeld, B.J.
  - Neufeld, Denni
+ - Ng, Matt
  - Nichols, Mark
  - Odishaw, Grant
  - Odishaw, Terry
  - Orme, Tyler
  - O'Rourke, Mark
  - Park, Kevin
+ - Parsons, Cole
  - Pinder, Jordan
  - Reid, Serge
  - Richard, Jeff
@@ -248,10 +279,13 @@ vs:
  - Skauge, Greg
  - Smith, Kent
  - Spencer, Adam
+ - St.Louis, David
+ - Steele, Colten
  - Stoughton, Jeff
  - Sylvain, Eric
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thompson, Stuart
  - Vaughan, Jason
  - Villeneuve, Steeve
  - Walker, Geoff

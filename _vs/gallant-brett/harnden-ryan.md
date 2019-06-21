@@ -2,13 +2,13 @@
 title: Brett Gallant vs Ryan Harnden
 player1:              
   name: Gallant, Brett
-  percent: 89         
+  percent: 88         
   wins: 4             
-  losses: 3           
+  losses: 4           
 player2:              
   name: Harnden, Ryan 
   percent: 90         
-  wins: 3             
+  wins: 4             
   losses: 4           
 games:
  - player1:         
@@ -123,4 +123,20 @@ games:
    year: 2017           
    draw: Round Robin(10)
    score: NO 5 - NL 7   
+ - player1:          
+     team: 'CA'      
+     position: Second
+     percent: 86     
+     win: 0          
+     loss: 1         
+   player2:        
+     team: 'NO'    
+     position: Lead
+     percent: 93   
+     win: 1        
+     loss: 0       
+   event: Brier      
+   year: 2019        
+   draw: Pool(17)    
+   score: NO 7 - CA 6
 ---

@@ -137,6 +137,7 @@ vs:
  - Sabourin, Joelle
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shumay, Jill
  - Simons, Renee
  - Singler, Sherri
@@ -145,7 +146,6 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
- - Turpin, Kelli
  - Udle, Teri
  - Vey, Lana
  - Weagle, Lisa

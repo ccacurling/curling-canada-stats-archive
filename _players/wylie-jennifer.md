@@ -84,7 +84,7 @@ vs:
  - Blais, Amelie
  - Boyle, Jane
  - Bradley, Shelly
- - Brown, Rachelle
+ - Brown, Rachel
  - Cameron, Nancy
  - Camozzi, Rhona
  - Carter, Sasha
@@ -107,7 +107,6 @@ vs:
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Fullerton, Sarah
  - Fyfe, Liz
@@ -121,7 +120,6 @@ vs:
  - Iskiw, Beth
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Knezevic, Patti
@@ -148,12 +146,14 @@ vs:
  - Miskew, Emma
  - Moore, Kristie
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Rourke, Brittany
  - Parsons, Danielle
  - Peters, Laine
+ - Pilote, Kristen
  - Price, Kara
  - Richard, Marie
  - Robichaud, Sylvie

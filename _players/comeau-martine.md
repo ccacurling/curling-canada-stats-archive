@@ -113,6 +113,7 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Sippala, Ashley
  - Sobey, Lianne
@@ -124,7 +125,6 @@ vs:
  - Tanner, Ros
  - Thomas, Jill
  - Thurston, Jill
- - Turpin, Kelli
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Wilson, Leslie

@@ -2,14 +2,14 @@
 title: Brett Gallant vs Jamie Koe
 player1:              
   name: Gallant, Brett
-  percent: 88         
-  wins: 5             
+  percent: 89         
+  wins: 6             
   losses: 1           
 player2:              
   name: Koe, Jamie    
-  percent: 79         
+  percent: 80         
   wins: 1             
-  losses: 5           
+  losses: 6           
 games:
  - player1:         
      team: 'NL'     
@@ -18,7 +18,7 @@ games:
      win: 1         
      loss: 0        
    player2:          
-     team: 'NT'      
+     team: 'TR'      
      position: Fourth
      percent: 82     
      win: 0          
@@ -26,7 +26,7 @@ games:
    event: Brier         
    year: 2013           
    draw: Round Robin(10)
-   score: NT 3 - NL 7   
+   score: TR 3 - NL 7   
  - player1:         
      team: 'NL'     
      position: Third
@@ -107,4 +107,20 @@ games:
    year: 2018          
    draw: Round Robin(6)
    score: CA 8 - NT 4  
+ - player1:          
+     team: 'CA'      
+     position: Second
+     percent: 93     
+     win: 1          
+     loss: 0         
+   player2:          
+     team: 'NT'      
+     position: Fourth
+     percent: 86     
+     win: 0          
+     loss: 1         
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(4)
+   score: CA 7 - NT 5  
 ---

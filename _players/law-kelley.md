@@ -316,6 +316,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Donna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Sherrington, Barb
  - Shields, Deanne
  - Sigurdson, Janine
@@ -336,7 +337,6 @@ vs:
  - Tasaka, Adina
  - Thurston, Jill
  - Turcotte, Kristin
- - Turpin, Kelli
  - Udle, Teri
  - Usher, Leanne
  - Vey, Lana

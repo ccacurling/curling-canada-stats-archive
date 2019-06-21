@@ -110,6 +110,7 @@ vs:
  - Rudulier, Andrea
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Sobey, Lianne
  - Streifel, Tracy
@@ -117,7 +118,6 @@ vs:
  - Strong, Laura
  - Tanner, Ros
  - Thurston, Jill
- - Turpin, Kelli
  - Udle, Teri
  - Vey, Lana
  - Wheatcroft, Georgina

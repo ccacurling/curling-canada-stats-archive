@@ -2,18 +2,18 @@
 title: Derek Samagalski
 name: Derek Samagalski
 name-sort: Samagalski, Derek
-games: 36
-wins: 18
-losses: 18
-inturn-total: 339
-inturn-percent: 87
-outturn-total: 317
-outturn-percent: 88
-draw-total: 441
-draw-percent: 88
-takeout-total: 215
-takeout-percent: 87
-shots-total: 656
+games: 47
+wins: 24
+losses: 23
+inturn-total: 426
+inturn-percent: 86
+outturn-total: 442
+outturn-percent: 87
+draw-total: 545
+draw-percent: 87
+takeout-total: 323
+takeout-percent: 86
+shots-total: 868
 shots-percent: 87
 years:
  - year: 2012
@@ -67,18 +67,40 @@ years:
    takeout-percent: 84
    shots-total: 198
    shots-percent: 83
+ - year: 2019
+   event: Brier
+   team: "MB"
+   position: Second
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 87
+   inturn-percent: 85
+   outturn-total: 125
+   outturn-percent: 86
+   draw-total: 104
+   draw-percent: 86
+   takeout-total: 108
+   takeout-percent: 85
+   shots-total: 212
+   shots-percent: 86
 vs:
+ - Abel, Clinton
  - Armstrong, Mike
  - Asselin, Felix
  - Bardsley, Mike
  - Barry, Josh
+ - Beuk, Jonathan
  - Bezanson, Jared
+ - Boland, Adam
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
+ - Burgess, Steve
  - Camm, Mathew
  - Carmody, Anson
  - Case, Peter
  - Casey, Adam
+ - Chadwick, Scott
  - Chorostkowski, Brad
  - Clarey, Sean
  - Cotter, Jim
@@ -95,6 +117,8 @@ vs:
  - Flasch, Colton
  - Flemming, Paul
  - Folk, Kevin
+ - Ford, Chris
+ - Forget, Wes
  - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
@@ -112,6 +136,7 @@ vs:
  - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Jewer, Keith
  - Jones, Scott
  - Kean, Mark
  - Kennedy, Marc
@@ -123,16 +148,21 @@ vs:
  - Lang, Tyler
  - Laycock, Steve
  - Ledgerwood, Sean
+ - Lemay, Philippe
+ - Likely, John
  - MacKenzie, Eddie
  - MacKenzie, Tyler
  - Mackey, Peter
  - Mallais, Jeremy
  - Manners, Scott
  - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
  - McDermaid, Donald
+ - McDonald, Scott
  - McEwen, Mike
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -148,9 +178,11 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Odian, Scott
  - Odishaw, Grant
  - Odishaw, Terry
  - Pinder, Jordan
+ - Rach, Dave
  - Roy, Jean-Sebastien
  - Rycroft, Carter
  - Saccary, Scott
@@ -158,8 +190,11 @@ vs:
  - Sawatsky, Rick
  - Seabrook, Scott
  - Simmons, Pat
+ - Smallwood, Robert
+ - Solberg, Jonathon
  - St.Louis, David
  - Sylvain, Eric
+ - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
  - Trepanier, Jean-Francois

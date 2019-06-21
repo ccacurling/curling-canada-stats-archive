@@ -2,14 +2,14 @@
 title: B.J. Neufeld vs Mark Nichols
 player1:             
   name: Neufeld, B.J.
-  percent: 86        
-  wins: 1            
+  percent: 87        
+  wins: 2            
   losses: 3          
 player2:             
   name: Nichols, Mark
-  percent: 89        
+  percent: 88        
   wins: 3            
-  losses: 1          
+  losses: 2          
 games:
  - player1:         
      team: 'MB'     
@@ -75,4 +75,20 @@ games:
    year: 2018          
    draw: Round Robin(8)
    score: WC 5 - CA 6  
+ - player1:         
+     team: 'AB'     
+     position: Third
+     percent: 93    
+     win: 1         
+     loss: 0        
+   player2:         
+     team: 'CA'     
+     position: Third
+     percent: 81    
+     win: 0         
+     loss: 1        
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(8)
+   score: CA 6 - AB 7  
 ---

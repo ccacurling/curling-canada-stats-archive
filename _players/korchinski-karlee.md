@@ -43,7 +43,6 @@ vs:
  - Hutchings, Denise
  - Johnstone, Loralee
  - Jones, Jennifer
- - Kaatz, Selena
  - Koehler, Megan
  - Koltun, Sarah
  - Kreviazuk, Cheryl
@@ -55,6 +54,7 @@ vs:
  - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Moore, Kristie
+ - Njegovan, Selena
  - Officer, Jill
  - Price, Kara
  - Robichaud, Sylvie

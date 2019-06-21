@@ -39,8 +39,8 @@ games:
      percent: 69    
      win: 1         
      loss: 0        
-   event: Hearts     
-   year: 1996        
-   draw: Playoff(18) 
-   score: NS 9 - BC 5
+   event: Hearts        
+   year: 1996           
+   draw: Tie-Breaker(18)
+   score: NS 9 - BC 5   
 ---

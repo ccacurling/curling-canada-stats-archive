@@ -25,7 +25,7 @@ years:
    shots-percent: 89
 vs:
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brannen, Jamie
  - Chorostkowski, Brad
  - Cotter, Jim

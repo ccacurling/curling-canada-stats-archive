@@ -28,7 +28,7 @@ games:
    draw: Round Robin(14)
    score: TR 4 - QC 10  
  - player1:          
-     team: 'NT'      
+     team: 'TR'      
      position: Second
      percent: 76     
      win: 0          
@@ -42,7 +42,7 @@ games:
    event: Brier        
    year: 2013          
    draw: Round Robin(4)
-   score: QC 6 - NT 3  
+   score: QC 6 - TR 3  
  - player1:          
      team: 'TR'      
      position: Second

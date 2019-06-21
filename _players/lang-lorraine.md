@@ -152,6 +152,10 @@ years:
    takeout-percent: 82
    shots-total: 222
    shots-percent: 84
+ - year: 2019
+   event: Hearts
+   team: "NO"
+   position: Alternate
 vs:
  - Affleck, Tricia
  - Alexander, Diane
@@ -328,6 +332,7 @@ vs:
  - Overton, Kim
  - Overton-Clapham, Cathy
  - Phillips, Laura
+ - Pilote, Kristen
  - Pinkney, Colleen
  - Pinsent, Barbara
  - Poisson, Francine
@@ -354,11 +359,13 @@ vs:
  - Rowan, Sheila
  - Rudd, Colleen
  - Rudulier, Andrea
+ - Rusnell, Jen
  - Ryan, Diane
  - Ryan, Jennifer
  - Ryan, Penny
  - Sabourin, Joelle
  - Sanders, Pat
+ - Sandwith, Carley
  - Sanford, Pamela
  - Santos, Deb
  - Schmirler, Sandra
@@ -366,6 +373,7 @@ vs:
  - Scott, Donna
  - Scott, Kelly
  - Sefton, Judy
+ - Sharpe, Kelli
  - Shaw, Cathy
  - Sigurdson, Janine
  - Simons, Renee
@@ -392,12 +400,12 @@ vs:
  - Todd, Fran
  - Tucker, Cindy
  - Turcotte, Kristin
- - Turpin, Kelli
  - Twa, Dale
  - Udle, Teri
  - Usher, Leanne
  - Vey, Lana
  - Walter, Cathy
+ - Wark, Sarah
  - Werenka, Lil
  - Wheatcroft, Georgina
  - Whitaker, Carol

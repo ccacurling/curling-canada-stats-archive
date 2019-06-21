@@ -85,7 +85,6 @@ years:
    shots-total: 2
    shots-percent: 100
  - year: 2013
-   event: Brier
    team: Totals
    games: 2
    wins: 2
@@ -155,7 +154,7 @@ vs:
  - Barry, Josh
  - Bezanson, Jared
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brannen, Jamie
  - Breckon, Graham
  - Carmody, Anson

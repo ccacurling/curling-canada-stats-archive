@@ -76,7 +76,7 @@ games:
    draw: Round Robin(11)
    score: TR 3 - NL 8   
  - player1:          
-     team: 'NT'      
+     team: 'TR'      
      position: Second
      percent: 89     
      win: 1          
@@ -90,7 +90,7 @@ games:
    event: Brier         
    year: 2013           
    draw: Round Robin(15)
-   score: MB 5 - NT 7   
+   score: MB 5 - TR 7   
  - player1:          
      team: 'TR'      
      position: Second

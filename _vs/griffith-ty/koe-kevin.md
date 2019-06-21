@@ -2,13 +2,13 @@
 title: Ty Griffith vs Kevin Koe
 player1:            
   name: Griffith, Ty
-  percent: 87       
+  percent: 83       
   wins: 4           
-  losses: 3         
+  losses: 4         
 player2:            
   name: Koe, Kevin  
-  percent: 82       
-  wins: 3           
+  percent: 81       
+  wins: 4           
   losses: 4         
 games:
  - player1:          
@@ -123,4 +123,20 @@ games:
    year: 2017          
    draw: Round Robin(7)
    score: CA 4 - BC 5  
+ - player1:          
+     team: 'BC'      
+     position: Second
+     percent: 57     
+     win: 0          
+     loss: 1         
+   player2:          
+     team: 'AB'      
+     position: Fourth
+     percent: 72     
+     win: 1          
+     loss: 0         
+   event: Brier         
+   year: 2019           
+   draw: Round Robin(10)
+   score: AB 9 - BC 5   
 ---

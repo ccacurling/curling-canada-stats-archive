@@ -41,7 +41,7 @@ games:
      loss: 1        
    event: Hearts     
    year: 1997        
-   draw: Playoff(19) 
+   draw: Page 1-2(19)
    score: SK 6 - ON 5
  - player1:         
      team: 'SK'     
@@ -57,6 +57,6 @@ games:
      loss: 1        
    event: Hearts     
    year: 1997        
-   draw: Playoff(21) 
+   draw: Final(21)   
    score: SK 8 - ON 5
 ---

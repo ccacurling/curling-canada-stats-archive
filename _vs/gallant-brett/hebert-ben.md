@@ -4,11 +4,11 @@ player1:
   name: Gallant, Brett
   percent: 88         
   wins: 4             
-  losses: 2           
+  losses: 3           
 player2:              
   name: Hebert, Ben   
   percent: 92         
-  wins: 2             
+  wins: 3             
   losses: 4           
 games:
  - player1:         
@@ -107,4 +107,20 @@ games:
    year: 2017        
    draw: Final(22)   
    score: NL 7 - CA 6
+ - player1:          
+     team: 'CA'      
+     position: Second
+     percent: 94     
+     win: 0          
+     loss: 1         
+   player2:        
+     team: 'AB'    
+     position: Lead
+     percent: 90   
+     win: 1        
+     loss: 0       
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(8)
+   score: CA 6 - AB 7  
 ---

@@ -61,11 +61,11 @@ vs:
  - Power, Marie-Anne
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
- - Turpin, Kelli
  - Udle, Teri
  - Vey, Lana
  - Whitaker, Carol

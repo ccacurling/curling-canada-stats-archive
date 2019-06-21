@@ -2,18 +2,18 @@
 title: B.J. Neufeld
 name: B.J. Neufeld
 name-sort: Neufeld, B.J.
-games: 38
-wins: 25
+games: 51
+wins: 38
 losses: 13
-inturn-total: 354
+inturn-total: 450
 inturn-percent: 89
-outturn-total: 366
+outturn-total: 512
 outturn-percent: 86
-draw-total: 232
-draw-percent: 84
-takeout-total: 488
-takeout-percent: 89
-shots-total: 720
+draw-total: 315
+draw-percent: 85
+takeout-total: 647
+takeout-percent: 88
+shots-total: 962
 shots-percent: 87
 years:
  - year: 2016
@@ -67,16 +67,38 @@ years:
    takeout-percent: 87
    shots-total: 196
    shots-percent: 85
+ - year: 2019
+   event: Brier
+   team: "AB"
+   position: Third
+   games: 13
+   wins: 13
+   losses: 0
+   inturn-total: 96
+   inturn-percent: 89
+   outturn-total: 146
+   outturn-percent: 87
+   draw-total: 83
+   draw-percent: 88
+   takeout-total: 159
+   takeout-percent: 88
+   shots-total: 242
+   shots-percent: 88
 vs:
+ - Aho, David
  - Appelman, Tom
+ - Ardiel, Taylor
+ - Beuk, Jonathan
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brannen, Jamie
  - Camm, Mathew
  - Carmody, Anson
  - Carruthers, Reid
  - Casey, Adam
+ - Chadwick, Scott
  - Chorostkowski, Brad
+ - Colter, Travis
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
@@ -86,6 +108,7 @@ vs:
  - Fecteau, Steve
  - Flasch, Colton
  - Flemming, Paul
+ - Forget, Wes
  - Fry, Ryan
  - Gallant, Brett
  - Geall, Sean
@@ -102,6 +125,7 @@ vs:
  - Jacobs, Brad
  - Janssen, Patrick
  - Jones, Scott
+ - Kendall, Lloyd
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
@@ -111,9 +135,14 @@ vs:
  - Laing, Brent
  - Laycock, Steve
  - LeCocq, Marc
+ - Mackey, Peter
  - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
+ - McDonald, Scott
+ - McEwen, Mike
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -123,8 +152,13 @@ vs:
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Nerpin, Andrew
+ - Ng, Matt
  - Nichols, Mark
+ - Odishaw, Grant
+ - Odishaw, Terry
+ - Parsons, Cole
  - Pinder, Jordan
  - Richard, Jeff
  - Rycroft, Carter
@@ -138,10 +172,13 @@ vs:
  - Simmons, Pat
  - Smith, Greg
  - Spencer, Adam
+ - St.Louis, David
+ - Steele, Colten
  - Sylvain, Eric
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thompson, Stuart
  - Walker, Geoff
  - Withycombe, Ian
  - Wood, Brad

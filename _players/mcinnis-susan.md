@@ -200,7 +200,7 @@ vs:
  - Boyle, Jane
  - Breen, Theresa
  - Brown, Marcie
- - Brown, Rachelle
+ - Brown, Rachel
  - Bryant, Angie
  - Burgess, Carey
  - Burlington, Cheryl
@@ -247,7 +247,6 @@ vs:
  - Fahlman, Kathy
  - Farrell, Allison
  - Ferguson, Dana
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Fisher, Alana
  - Fister, Teri
@@ -369,6 +368,7 @@ vs:
  - Pendergast, Judy
  - Peters, Laine
  - Phillips, Laura
+ - Pilote, Kristen
  - Pinkney, Colleen
  - Pruden, Twyla
  - Purdy, Karen
@@ -395,6 +395,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Donna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shephard, Wendy
  - Sherrington, Barb
  - Simons, Renee
@@ -424,7 +425,6 @@ vs:
  - Todd, Fran
  - Trombley, Christy
  - Trowell, Cathy
- - Turpin, Kelli
  - Unrau, Faye
  - Walker, Lisa
  - Wall, Kirsten

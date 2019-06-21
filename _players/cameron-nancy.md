@@ -119,7 +119,6 @@ years:
    shots-total: 70
    shots-percent: 81
  - year: 2001
-   event: Hearts
    team: Totals
    games: 6
    wins: 3
@@ -355,6 +354,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Donna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shields, Gail
  - Shigehiro, Sally
  - Simons, Renee
@@ -378,7 +378,6 @@ vs:
  - Tousignant, Helene
  - Treloar, Cathy
  - Turcotte, Kristin
- - Turpin, Kelli
  - Udle, Teri
  - Usher, Leanne
  - Vey, Lana

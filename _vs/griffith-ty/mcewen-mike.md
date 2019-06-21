@@ -2,13 +2,13 @@
 title: Ty Griffith vs Mike McEwen
 player1:            
   name: Griffith, Ty
-  percent: 88       
+  percent: 87       
   wins: 1           
-  losses: 1         
+  losses: 2         
 player2:            
   name: McEwen, Mike
-  percent: 82       
-  wins: 1           
+  percent: 83       
+  wins: 2           
   losses: 1         
 games:
  - player1:          
@@ -43,4 +43,20 @@ games:
    year: 2017           
    draw: Round Robin(10)
    score: BC 7 - MB 5   
+ - player1:          
+     team: 'BC'      
+     position: Second
+     percent: 85     
+     win: 0          
+     loss: 1         
+   player2:          
+     team: 'MB'      
+     position: Fourth
+     percent: 85     
+     win: 1          
+     loss: 0         
+   event: Brier      
+   year: 2019        
+   draw: Pool(17)    
+   score: BC 7 - MB 9
 ---

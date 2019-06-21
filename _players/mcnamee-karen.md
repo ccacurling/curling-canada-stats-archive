@@ -114,6 +114,7 @@ vs:
  - Sabourin, Joelle
  - Sanders, Pat
  - Sandison, Janice
+ - Sharpe, Kelli
  - Skinner, Julie
  - Stabel, Stacey
  - Street, Cindy
@@ -124,7 +125,6 @@ vs:
  - Tasaka, Adina
  - Tincher, Twyla
  - Tucker, Cindy
- - Turpin, Kelli
  - Wheatcroft, Georgina
  - Whitaker, Lise
  - Wright, Susan

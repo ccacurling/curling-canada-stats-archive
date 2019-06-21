@@ -41,7 +41,6 @@ years:
    shots-total: 60
    shots-percent: 72
  - year: 1989
-   event: Brier
    team: Totals
    games: 11
    wins: 2

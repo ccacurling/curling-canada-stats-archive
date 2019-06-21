@@ -85,7 +85,6 @@ years:
    shots-total: 6
    shots-percent: 71
  - year: 2015
-   event: Hearts
    team: Totals
    games: 2
    wins: 0
@@ -162,6 +161,7 @@ vs:
  - Sabourin, Joelle
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simmons, Cindy
  - Simons, Renee
  - Strong, Heather
@@ -169,7 +169,6 @@ vs:
  - Stubbings, Tiffany
  - Surik, Teejay
  - Thompson, Karla
- - Turpin, Kelli
  - Udle, Teri
  - Vey, Lana
  - Wall, Kirsten

@@ -68,7 +68,6 @@ years:
    shots-total: 2
    shots-percent: 50
  - year: 2012
-   event: Hearts
    team: Totals
    games: 6
    wins: 2
@@ -122,11 +121,11 @@ vs:
  - Provencal, Darah
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Sivertson, Dailene
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
- - Turpin, Kelli
  - Udle, Teri
  - Vey, Lana
  - Wheatcroft, Georgina

@@ -85,7 +85,6 @@ vs:
  - Hutchings, Denise
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
@@ -102,6 +101,7 @@ vs:
  - McTaggart, Cary-Anne
  - Moore, Kristie
  - Murphy, Sarah
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Officer, Jill

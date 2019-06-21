@@ -25,7 +25,7 @@ games:
      loss: 0       
    event: Brier      
    year: 2005        
-   draw: Playoff(18) 
+   draw: Page 3-4(18)
    score: NS 6 - QC 4
  - player1:          
      team: 'QC'      

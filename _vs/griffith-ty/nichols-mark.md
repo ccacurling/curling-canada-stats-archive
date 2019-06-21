@@ -2,13 +2,13 @@
 title: Ty Griffith vs Mark Nichols
 player1:             
   name: Griffith, Ty 
-  percent: 88        
+  percent: 85        
   wins: 1            
-  losses: 3          
+  losses: 4          
 player2:             
   name: Nichols, Mark
-  percent: 90        
-  wins: 3            
+  percent: 89        
+  wins: 4            
   losses: 1          
 games:
  - player1:          
@@ -75,4 +75,20 @@ games:
    year: 2017           
    draw: Round Robin(12)
    score: BC 4 - NL 5   
+ - player1:          
+     team: 'BC'      
+     position: Second
+     percent: 73     
+     win: 0          
+     loss: 1         
+   player2:         
+     team: 'CA'     
+     position: Third
+     percent: 81    
+     win: 1         
+     loss: 0        
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(6)
+   score: BC 4 - CA 10 
 ---

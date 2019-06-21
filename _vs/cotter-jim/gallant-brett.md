@@ -2,13 +2,13 @@
 title: Jim Cotter vs Brett Gallant
 player1:              
   name: Cotter, Jim   
-  percent: 87         
+  percent: 84         
   wins: 2             
-  losses: 2           
+  losses: 3           
 player2:              
   name: Gallant, Brett
-  percent: 85         
-  wins: 2             
+  percent: 86         
+  wins: 3             
   losses: 2           
 games:
  - player1:          
@@ -75,4 +75,20 @@ games:
    year: 2017           
    draw: Round Robin(12)
    score: BC 4 - NL 5   
+ - player1:          
+     team: 'BC'      
+     position: Fourth
+     percent: 69     
+     win: 0          
+     loss: 1         
+   player2:          
+     team: 'CA'      
+     position: Second
+     percent: 89     
+     win: 1          
+     loss: 0         
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(6)
+   score: BC 4 - CA 10 
 ---

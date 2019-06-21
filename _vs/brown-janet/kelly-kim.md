@@ -55,8 +55,8 @@ games:
      percent: 88    
      win: 1         
      loss: 0        
-   event: Hearts     
-   year: 2002        
-   draw: Playoff(20) 
-   score: ON 6 - CA 8
+   event: Hearts       
+   year: 2002          
+   draw: Semi-Final(20)
+   score: ON 6 - CA 8  
 ---

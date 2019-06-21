@@ -51,7 +51,6 @@ years:
    shots-total: 136
    shots-percent: 75
  - year: 1989
-   event: Hearts
    team: Totals
    games: 13
    wins: 8
@@ -324,6 +323,7 @@ vs:
  - Santos, Deb
  - Sauer, Cathy
  - Schmirler, Sandra
+ - Sharpe, Kelli
  - Sherrington, Barb
  - Shigehiro, Sally
  - Smith, Heather
@@ -343,7 +343,6 @@ vs:
  - Thurston, Jill
  - Todd, Fran
  - Turcotte, Kristin
- - Turpin, Kelli
  - Usher, Leanne
  - Walker, Lisa
  - Walter, Cathy

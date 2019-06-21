@@ -41,6 +41,6 @@ games:
      loss: 0         
    event: Hearts     
    year: 2002        
-   draw: Playoff(18) 
+   draw: Page 3-4(18)
    score: ON 7 - MB 6
 ---

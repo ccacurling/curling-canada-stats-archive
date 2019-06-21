@@ -57,7 +57,7 @@ games:
      loss: 1       
    event: Hearts     
    year: 2003        
-   draw: Playoff(21) 
+   draw: Final(21)   
    score: NL 7 - CA 9
  - player1:          
      team: 'CA'      

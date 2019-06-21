@@ -2,19 +2,19 @@
 title: Marc LeCocq
 name: Marc LeCocq
 name-sort: LeCocq, Marc
-games: 80
-wins: 36
-losses: 44
-inturn-total: 700
+games: 86
+wins: 39
+losses: 47
+inturn-total: 747
 inturn-percent: 84
-outturn-total: 854
+outturn-total: 913
 outturn-percent: 83
-draw-total: 660
-draw-percent: 85
-takeout-total: 894
+draw-total: 705
+draw-percent: 84
+takeout-total: 955
 takeout-percent: 83
-shots-total: 1554
-shots-percent: 84
+shots-total: 1660
+shots-percent: 83
 years:
  - year: 1993
    event: Brier
@@ -135,18 +135,38 @@ years:
    takeout-percent: 84
    shots-total: 190
    shots-percent: 83
+ - year: 2019
+   event: Brier
+   team: "NB"
+   position: Second
+   games: 6
+   wins: 3
+   losses: 3
+   inturn-total: 47
+   inturn-percent: 78
+   outturn-total: 59
+   outturn-percent: 80
+   draw-total: 45
+   draw-percent: 75
+   takeout-total: 61
+   takeout-percent: 82
+   shots-total: 106
+   shots-percent: 79
 vs:
  - Adams, Shawn
+ - Aho, David
  - Alexander, Scott
  - Alexander, Trevor
+ - Ardiel, Taylor
  - Arsenault, Craig
  - Bartlett, Don
  - Base, John
+ - Beuk, Jonathan
  - Biron, Louis
  - Bitz, Scott
  - Blanchard, Ben
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brackett, James
  - Broda, Shawn
  - Brodersen, Erik
@@ -164,11 +184,13 @@ vs:
  - Carmody, Anson
  - Casey, Adam
  - Cayouette, Maurice
+ - Chadwick, Scott
  - Champion, Kevin
  - Charette, Pierre
  - Chorostkowski, Brad
  - Cochrane, Bryan
  - Collins, Ron
+ - Colter, Travis
  - Corner, Peter
  - Cotter, Jim
  - Cowan, Chad
@@ -194,6 +216,7 @@ vs:
  - Ferster, Greg
  - Flasch, Colton
  - Folk, Rick
+ - Forget, Wes
  - Forsyth, Sandy
  - Frans, Joe
  - Fry, Ryan
@@ -243,6 +266,7 @@ vs:
  - Josephson, Glenn
  - Kalthoff, Kevin
  - Kelsch, Dan
+ - Kendall, Lloyd
  - Kennedy, Marc
  - Kerr, Ian
  - Kidby, Dustin
@@ -276,11 +300,14 @@ vs:
  - MacDonald, Rod
  - MacInnes, David
  - MacKenzie, Kevin
+ - Mackey, Peter
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
  - McCusker, Brian
+ - McDonald, Scott
  - McEwen, Mike
+ - McLeod, Shadrach
  - McPhee, Barry
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
@@ -298,11 +325,13 @@ vs:
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Nedohin, David
  - Ness, Dale
  - Neufeld, B.J.
  - Neufeld, Chris
  - Neufeld, Denni
+ - Ng, Matt
  - Nichols, Mark
  - Noseworthy, Mark
  - O'Driscoll, Frank
@@ -310,6 +339,7 @@ vs:
  - O'Leary, Alan
  - O'Rourke, Mark
  - Palmer, Curt
+ - Parsons, Cole
  - Peachy, Jay
  - Peters, Vic
  - Pfeifer, Scott
@@ -348,6 +378,8 @@ vs:
  - Somers, Grant
  - Spencer, Adam
  - Spicer, Grant
+ - St.Louis, David
+ - Steele, Colten
  - Steski, John
  - Stoughton, Jeff
  - Stuart, Darol
@@ -359,6 +391,7 @@ vs:
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thomas, Rob
+ - Thompson, Stuart
  - Tresoor, Ken
  - Trevellyan, Todd
  - Turpin, Randy

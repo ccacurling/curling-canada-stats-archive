@@ -3,13 +3,13 @@ title: Brad Gushue vs Jamie Koe
 player1:            
   name: Gushue, Brad
   percent: 85       
-  wins: 9           
+  wins: 10          
   losses: 2         
 player2:            
   name: Koe, Jamie  
-  percent: 75       
+  percent: 76       
   wins: 2           
-  losses: 9         
+  losses: 10        
 games:
  - player1:          
      team: 'NL'      
@@ -98,7 +98,7 @@ games:
      win: 1          
      loss: 0         
    player2:          
-     team: 'NT'      
+     team: 'TR'      
      position: Fourth
      percent: 82     
      win: 0          
@@ -106,7 +106,7 @@ games:
    event: Brier         
    year: 2013           
    draw: Round Robin(10)
-   score: NT 3 - NL 7   
+   score: TR 3 - NL 7   
  - player1:          
      team: 'NL'      
      position: Fourth
@@ -187,4 +187,20 @@ games:
    year: 2018          
    draw: Round Robin(6)
    score: CA 8 - NT 4  
+ - player1:          
+     team: 'CA'      
+     position: Fourth
+     percent: 84     
+     win: 1          
+     loss: 0         
+   player2:          
+     team: 'NT'      
+     position: Fourth
+     percent: 86     
+     win: 0          
+     loss: 1         
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(4)
+   score: CA 7 - NT 5  
 ---

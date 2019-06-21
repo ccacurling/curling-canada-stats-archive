@@ -39,10 +39,10 @@ games:
      percent: 69     
      win: 0          
      loss: 1         
-   event: Brier      
-   year: 1996        
-   draw: Playoff(21) 
-   score: QC 8 - AB 9
+   event: Brier        
+   year: 1996          
+   draw: Semi-Final(21)
+   score: QC 8 - AB 9  
  - player1:        
      team: 'AB'    
      position: Lead

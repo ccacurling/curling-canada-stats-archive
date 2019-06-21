@@ -57,7 +57,7 @@ games:
      loss: 0       
    event: Hearts     
    year: 1997        
-   draw: Playoff(18) 
+   draw: Page 3-4(18)
    score: AB 6 - NL 7
  - player1:          
      team: 'AB'      

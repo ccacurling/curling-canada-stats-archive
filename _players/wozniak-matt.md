@@ -67,10 +67,14 @@ years:
    takeout-percent: 87
    shots-total: 196
    shots-percent: 86
+ - year: 2019
+   event: Brier
+   team: "MB"
+   position: Alternate
 vs:
  - Appelman, Tom
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brannen, Jamie
  - Camm, Mathew
  - Carmody, Anson

@@ -39,10 +39,10 @@ games:
      percent: 89   
      win: 1        
      loss: 0       
-   event: Brier      
-   year: 1998        
-   draw: Playoff(21) 
-   score: MB 5 - QC 7
+   event: Brier        
+   year: 1998          
+   draw: Semi-Final(21)
+   score: MB 5 - QC 7  
  - player1:        
      team: 'MB'    
      position: Lead
@@ -73,7 +73,7 @@ games:
      loss: 1       
    event: Brier      
    year: 1999        
-   draw: Playoff(20) 
+   draw: Page 1-2(20)
    score: MB 6 - QC 4
  - player1:        
      team: 'MB'    
@@ -89,6 +89,6 @@ games:
      loss: 1       
    event: Brier      
    year: 1999        
-   draw: Playoff(22) 
+   draw: Final(22)   
    score: QC 5 - MB 9
 ---

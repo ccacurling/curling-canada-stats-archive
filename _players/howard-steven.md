@@ -55,7 +55,6 @@ years:
    shots-total: 98
    shots-percent: 81
  - year: 2009
-   event: Brier
    team: Totals
    games: 8
    wins: 4

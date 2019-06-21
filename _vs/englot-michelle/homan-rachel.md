@@ -41,7 +41,7 @@ games:
      loss: 1         
    event: Hearts     
    year: 2017        
-   draw: Playoff(18) 
+   draw: Page 1-2(18)
    score: MB 9 - ON 8
  - player1:          
      team: 'MB'      
@@ -57,6 +57,6 @@ games:
      loss: 0         
    event: Hearts     
    year: 2017        
-   draw: Playoff(22) 
+   draw: Final(22)   
    score: MB 6 - ON 8
 ---

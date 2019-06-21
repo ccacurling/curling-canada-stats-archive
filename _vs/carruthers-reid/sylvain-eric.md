@@ -2,14 +2,14 @@
 title: Reid Carruthers vs Eric Sylvain
 player1:                
   name: Carruthers, Reid
-  percent: 86           
-  wins: 2               
+  percent: 88           
+  wins: 3               
   losses: 3             
 player2:                
   name: Sylvain, Eric   
-  percent: 84           
+  percent: 82           
   wins: 3               
-  losses: 2             
+  losses: 3             
 games:
  - player1:          
      team: 'MB'      
@@ -91,4 +91,20 @@ games:
    year: 2015           
    draw: Round Robin(12)
    score: MB 4 - QC 7   
+ - player1:         
+     team: 'MB'     
+     position: Third
+     percent: 99    
+     win: 1         
+     loss: 0        
+   player2:          
+     team: 'QC'      
+     position: Second
+     percent: 76     
+     win: 0          
+     loss: 1         
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(3)
+   score: MB 8 - QC 3  
 ---

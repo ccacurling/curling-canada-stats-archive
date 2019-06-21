@@ -167,6 +167,7 @@ vs:
  - Sauer, Cathy
  - Schikowski, Keri-Lynn
  - Schmirler, Sandra
+ - Sharpe, Kelli
  - Sherrington, Barb
  - Stokes, Debbie
  - Stricker, Joan
@@ -174,7 +175,6 @@ vs:
  - Thomas, Karen
  - Trider, Krista
  - Trowell, Cathy
- - Turpin, Kelli
  - Walker, Lisa
  - Wilson, Patty
  - Wiltzen, Jan

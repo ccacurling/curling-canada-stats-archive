@@ -3,13 +3,13 @@ title: Ryan Fry vs Mark Nichols
 player1:             
   name: Fry, Ryan    
   percent: 88        
-  wins: 5            
+  wins: 6            
   losses: 4          
 player2:             
   name: Nichols, Mark
-  percent: 86        
+  percent: 87        
   wins: 4            
-  losses: 5          
+  losses: 6          
 games:
  - player1:         
      team: 'MB'     
@@ -155,4 +155,20 @@ games:
    year: 2018        
    draw: Pool(18)    
    score: CA 5 - NO 3
+ - player1:         
+     team: 'NO'     
+     position: Third
+     percent: 86    
+     win: 1         
+     loss: 0        
+   player2:         
+     team: 'CA'     
+     position: Third
+     percent: 89    
+     win: 0         
+     loss: 1        
+   event: Brier      
+   year: 2019        
+   draw: Pool(17)    
+   score: NO 7 - CA 6
 ---

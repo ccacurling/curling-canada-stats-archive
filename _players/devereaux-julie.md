@@ -141,7 +141,6 @@ vs:
  - Johnston, Kara
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kleibrink, Shannon
  - Koehler, Megan
  - Larouche, Marie-France
@@ -161,6 +160,7 @@ vs:
  - Miskew, Emma
  - Murphy, Sarah
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Officer, Jill

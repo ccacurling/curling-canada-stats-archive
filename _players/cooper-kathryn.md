@@ -62,7 +62,7 @@ vs:
  - Boyle, Jane
  - Bradley, Shelly
  - Brothers, Jill
- - Brown, Rachelle
+ - Brown, Rachel
  - Camozzi, Rhona
  - Carey, Chelsea
  - Collins, Katrina
@@ -75,7 +75,6 @@ vs:
  - Dolan, Sinead
  - Duncan, Chelsea
  - Ferguson, Dana
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Flaxey, Allison
  - Foster, Kristen
@@ -105,6 +104,7 @@ vs:
  - Olson-Johns, Lori
  - O'Rourke, Brittany
  - Parsons, Danielle
+ - Pilote, Kristen
  - Reid, Jackie
  - Richard, Marie
  - Robichaud, Sylvie

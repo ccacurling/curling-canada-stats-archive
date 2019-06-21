@@ -58,7 +58,7 @@ vs:
  - Appelman, Tom
  - Bitz, Scott
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Case, Peter
  - Champion, Kevin
  - Chorostkowski, Brad

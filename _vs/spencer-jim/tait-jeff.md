@@ -41,6 +41,6 @@ games:
      loss: 1       
    event: Brier      
    year: 1998        
-   draw: Playoff(19) 
+   draw: Page 3-4(19)
    score: SK 3 - MB 6
 ---

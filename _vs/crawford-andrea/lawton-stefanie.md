@@ -2,13 +2,13 @@
 title: Andrea Crawford vs Stefanie Lawton
 player1:                
   name: Crawford, Andrea
-  percent: 70           
+  percent: 72           
   wins: 0               
-  losses: 2             
+  losses: 3             
 player2:                
   name: Lawton, Stefanie
-  percent: 84           
-  wins: 2               
+  percent: 88           
+  wins: 3               
   losses: 0             
 games:
  - player1:          
@@ -43,4 +43,20 @@ games:
    year: 2014          
    draw: Round Robin(6)
    score: NB 3 - SK 9  
+ - player1:          
+     team: 'NB'      
+     position: Fourth
+     percent: 75     
+     win: 0          
+     loss: 1         
+   player2:         
+     team: 'SK'     
+     position: Third
+     percent: 94    
+     win: 1         
+     loss: 0        
+   event: Hearts       
+   year: 2019          
+   draw: Round Robin(4)
+   score: SK 6 - NB 4  
 ---

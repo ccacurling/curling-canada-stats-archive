@@ -2,19 +2,19 @@
 title: Jordan Pinder
 name: Jordan Pinder
 name-sort: Pinder, Jordan
-games: 33
-wins: 8
-losses: 25
-inturn-total: 280
+games: 40
+wins: 11
+losses: 29
+inturn-total: 331
 inturn-percent: 79
-outturn-total: 338
+outturn-total: 419
 outturn-percent: 80
-draw-total: 286
+draw-total: 329
 draw-percent: 78
-takeout-total: 332
-takeout-percent: 81
-shots-total: 618
-shots-percent: 80
+takeout-total: 421
+takeout-percent: 80
+shots-total: 750
+shots-percent: 79
 years:
  - year: 2012
    event: Brier
@@ -67,21 +67,43 @@ years:
    takeout-percent: 81
    shots-total: 206
    shots-percent: 81
+ - year: 2019
+   event: Brier
+   team: "NB"
+   position: Third
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 51
+   inturn-percent: 75
+   outturn-total: 81
+   outturn-percent: 80
+   draw-total: 43
+   draw-percent: 78
+   takeout-total: 89
+   takeout-percent: 78
+   shots-total: 132
+   shots-percent: 78
 vs:
+ - Aho, David
+ - Ardiel, Taylor
  - Armstrong, Mike
  - Balsdon, Greg
  - Barry, Josh
+ - Beuk, Jonathan
  - Bice, Mark
  - Bice, Steve
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brannen, Jamie
  - Carmody, Anson
  - Carruthers, Reid
  - Casey, Adam
+ - Chadwick, Scott
  - Childs, Jamie
  - Chorostkowski, Brad
  - Clarey, Sean
+ - Colter, Travis
  - Cotter, Jim
  - Crete, Martin
  - Currie, Jeff
@@ -90,6 +112,7 @@ vs:
  - Desjardins, Robert
  - Flasch, Colton
  - Folk, Kevin
+ - Forget, Wes
  - Fowler, Rob
  - Fry, Ryan
  - Gallant, Brett
@@ -101,10 +124,12 @@ vs:
  - Harnden, Ryan
  - Harris, Tyler
  - Hart, Richard
+ - Hebert, Ben
  - Howard, Glenn
  - Howard, Scott
  - Jacobs, Brad
  - Jones, Scott
+ - Kendall, Lloyd
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
@@ -119,12 +144,15 @@ vs:
  - Lyburn, Allan
  - MacKenzie, Eddie
  - MacKenzie, Tyler
+ - Mackey, Peter
  - Manners, Scott
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
  - McCarville, Mike
+ - McDonald, Scott
  - McEwen, Mike
+ - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Mead, Jonathan
  - Menard, Jean-Michel
@@ -136,12 +164,15 @@ vs:
  - Munroe, Steven
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Naugler, Tom
  - Neufeld, B.J.
  - Neufeld, Denni
+ - Ng, Matt
  - Nichols, Mark
  - Odishaw, Grant
  - Odishaw, Terry
+ - Parsons, Cole
  - Pfeifer, Scott
  - Roach, Darren
  - Roach, Jason
@@ -155,10 +186,13 @@ vs:
  - Schneider, Catlin
  - Seabrook, Scott
  - Simmons, Pat
+ - St.Louis, David
+ - Steele, Colten
  - Stoughton, Jeff
  - Sylvain, Eric
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thompson, Stuart
  - Villeneuve, Steeve
  - Walker, Geoff
  - Whitehead, Kevin

@@ -57,6 +57,6 @@ games:
      loss: 1         
    event: Brier      
    year: 2005        
-   draw: Playoff(19) 
+   draw: Page 1-2(19)
    score: MB 4 - AB 7
 ---

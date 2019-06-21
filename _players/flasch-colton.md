@@ -2,18 +2,18 @@
 title: Colton Flasch
 name: Colton Flasch
 name-sort: Flasch, Colton
-games: 35
-wins: 19
+games: 48
+wins: 32
 losses: 16
-inturn-total: 388
-inturn-percent: 86
-outturn-total: 312
+inturn-total: 497
+inturn-percent: 85
+outturn-total: 444
 outturn-percent: 84
-draw-total: 315
-draw-percent: 83
-takeout-total: 385
-takeout-percent: 87
-shots-total: 700
+draw-total: 419
+draw-percent: 84
+takeout-total: 522
+takeout-percent: 86
+shots-total: 941
 shots-percent: 85
 years:
  - year: 2014
@@ -67,26 +67,50 @@ years:
    takeout-percent: 87
    shots-total: 218
    shots-percent: 89
+ - year: 2019
+   event: Brier
+   team: "AB"
+   position: Second
+   games: 13
+   wins: 13
+   losses: 0
+   inturn-total: 109
+   inturn-percent: 83
+   outturn-total: 132
+   outturn-percent: 84
+   draw-total: 104
+   draw-percent: 85
+   takeout-total: 137
+   takeout-percent: 83
+   shots-total: 241
+   shots-percent: 84
 vs:
+ - Aho, David
+ - Ardiel, Taylor
  - Balsdon, Greg
  - Bardsley, Mike
  - Barry, Josh
+ - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
  - Borden, Robert
+ - Bottcher, Brendan
  - Brannen, Jamie
  - Camm, Mathew
  - Carmody, Anson
  - Carruthers, Reid
  - Casey, Adam
+ - Chadwick, Scott
  - Childs, Jamie
  - Chorostkowski, Brad
+ - Colter, Travis
  - Cotter, Jim
  - Crete, Martin
  - Currie, Jeff
  - Doherty, Robert
  - Eldridge, Zach
  - Farnell, Jamie
+ - Forget, Wes
  - Fry, Ryan
  - Gallant, Brett
  - Grattan, James
@@ -103,6 +127,7 @@ vs:
  - Jeffrey, Chris
  - Jones, Scott
  - Kean, Mark
+ - Kendall, Lloyd
  - Kennedy, Marc
  - Kennedy, Mike
  - Koe, Jamie
@@ -110,14 +135,20 @@ vs:
  - Koivula, Colin
  - Kuhn, Ryan
  - Laing, Brent
+ - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
  - MacKenzie, Eddie
  - MacKenzie, Tyler
+ - Mackey, Peter
  - Mallais, Jeremy
+ - Marsh, Dan
+ - Marsh, Kevin
+ - Martin, Karrick
  - Mathers, David
  - McCarville, Mike
  - McDermaid, Donald
+ - McDonald, Scott
  - McEwen, Mike
  - Mead, Jonathan
  - Menard, Jean-Michel
@@ -125,10 +156,18 @@ vs:
  - Morgan, Tyler
  - Morris, John
  - Moskowy, Braeden
+ - Moulding, Darren
  - Murphy, Jamie
+ - Muyres, Dallan
+ - Muyres, Kirk
+ - Nadeau, Jeff
  - Neufeld, B.J.
  - Neufeld, Denni
+ - Ng, Matt
  - Nichols, Mark
+ - Odishaw, Grant
+ - Odishaw, Terry
+ - Parsons, Cole
  - Pinder, Jordan
  - Roach, Darren
  - Roach, Jason
@@ -139,9 +178,13 @@ vs:
  - Schille, Chris
  - Simmons, Pat
  - Spencer, Adam
+ - St.Louis, David
+ - Steele, Colten
  - Stoughton, Jeff
  - Sylvain, Eric
+ - Thiessen, Brad
  - Thiessen, Nolan
+ - Thompson, Stuart
  - Walker, Geoff
  - Whitehead, Kevin
  - Whitehead, Mark

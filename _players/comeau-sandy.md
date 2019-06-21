@@ -158,6 +158,7 @@ vs:
  - Schmirler, Sandra
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shigehiro, Sally
  - Simons, Renee
  - Singler, Sherri
@@ -168,7 +169,6 @@ vs:
  - Stubbings, Tiffany
  - Sutton, Jodie
  - Thomas, Maria
- - Turpin, Kelli
  - Udle, Teri
  - Vey, Lana
  - Webb, Corine

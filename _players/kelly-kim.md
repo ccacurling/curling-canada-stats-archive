@@ -275,6 +275,10 @@ years:
    takeout-percent: 78
    shots-total: 212
    shots-percent: 76
+ - year: 2019
+   event: Hearts
+   team: "NS"
+   position: Alternate
 vs:
  - Adams, Diane
  - Affleck, Tricia
@@ -578,6 +582,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Donna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shephard, Wendy
  - Sherrington, Barb
  - Shumay, Jill
@@ -614,7 +619,6 @@ vs:
  - Trider, Krista
  - Tucker, Cindy
  - Turcotte, Kristin
- - Turpin, Kelli
  - Unrau, Faye
  - Usher, Leanne
  - Walker, Lisa

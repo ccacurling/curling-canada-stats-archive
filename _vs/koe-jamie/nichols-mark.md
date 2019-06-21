@@ -2,13 +2,13 @@
 title: Jamie Koe vs Mark Nichols
 player1:             
   name: Koe, Jamie   
-  percent: 76        
+  percent: 77        
   wins: 2            
-  losses: 8          
+  losses: 9          
 player2:             
   name: Nichols, Mark
   percent: 86        
-  wins: 8            
+  wins: 9            
   losses: 2          
 games:
  - player1:          
@@ -76,7 +76,7 @@ games:
    draw: Round Robin(11)
    score: TR 3 - NL 8   
  - player1:          
-     team: 'NT'      
+     team: 'TR'      
      position: Fourth
      percent: 82     
      win: 1          
@@ -90,7 +90,7 @@ games:
    event: Brier         
    year: 2013           
    draw: Round Robin(15)
-   score: MB 5 - NT 7   
+   score: MB 5 - TR 7   
  - player1:          
      team: 'TR'      
      position: Fourth
@@ -171,4 +171,20 @@ games:
    year: 2018          
    draw: Round Robin(6)
    score: CA 8 - NT 4  
+ - player1:          
+     team: 'NT'      
+     position: Fourth
+     percent: 86     
+     win: 0          
+     loss: 1         
+   player2:         
+     team: 'CA'     
+     position: Third
+     percent: 91    
+     win: 1         
+     loss: 0        
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(4)
+   score: CA 7 - NT 5  
 ---

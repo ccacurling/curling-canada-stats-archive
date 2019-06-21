@@ -55,8 +55,8 @@ games:
      percent: 91     
      win: 1          
      loss: 0         
-   event: Brier      
-   year: 2000        
-   draw: Playoff(18) 
-   score: ON 5 - MB 7
+   event: Brier         
+   year: 2000           
+   draw: Tie-Breaker(18)
+   score: ON 5 - MB 7   
 ---

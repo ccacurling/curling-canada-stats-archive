@@ -39,10 +39,10 @@ games:
      percent: 85    
      win: 1         
      loss: 0        
-   event: Brier      
-   year: 1995        
-   draw: Playoff(18) 
-   score: PE 4 - ON 7
+   event: Brier         
+   year: 1995           
+   draw: Tie-Breaker(18)
+   score: PE 4 - ON 7   
  - player1:        
      team: 'PE'    
      position: Lead

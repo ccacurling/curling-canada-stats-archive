@@ -160,7 +160,6 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kalenchuk, Heather
  - Kelly, Kim
  - Kleibrink, Shannon
@@ -188,6 +187,7 @@ vs:
  - Moses, Dawn
  - Murphy, Sarah
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Nowlan, Denise

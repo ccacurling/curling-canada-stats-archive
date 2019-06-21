@@ -2,18 +2,18 @@
 title: Jonathon Solberg
 name: Jonathon Solberg
 name-sort: Solberg, Jonathon
-games: 35
-wins: 9
-losses: 26
-inturn-total: 263
+games: 42
+wins: 12
+losses: 30
+inturn-total: 317
 inturn-percent: 75
-outturn-total: 358
-outturn-percent: 76
-draw-total: 341
+outturn-total: 432
+outturn-percent: 74
+draw-total: 407
 draw-percent: 73
-takeout-total: 280
-takeout-percent: 78
-shots-total: 621
+takeout-total: 342
+takeout-percent: 76
+shots-total: 749
 shots-percent: 75
 years:
  - year: 2002
@@ -102,7 +102,6 @@ years:
    shots-total: 6
    shots-percent: 50
  - year: 2010
-   event: Brier
    team: Totals
    games: 3
    wins: 1
@@ -117,15 +116,37 @@ years:
    takeout-percent: 68
    shots-total: 28
    shots-percent: 67
+ - year: 2019
+   event: Brier
+   team: "YT"
+   position: Fourth
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 54
+   inturn-percent: 77
+   outturn-total: 74
+   outturn-percent: 68
+   draw-total: 66
+   draw-percent: 75
+   takeout-total: 62
+   takeout-percent: 68
+   shots-total: 128
+   shots-percent: 72
 vs:
  - Adams, Shawn
  - Bailey, Scott
  - Bitz, Scott
  - Blanchard, Ben
  - Blanchard, Wade
+ - Boland, Adam
+ - Bottcher, Brendan
  - Brodersen, Erik
  - Burgess, Craig
+ - Burgess, Steve
  - Campbell, Robert
+ - Carmody, Anson
+ - Carruthers, Reid
  - Case, Peter
  - Champion, Kevin
  - Collin, Simon
@@ -136,6 +157,7 @@ vs:
  - Dillon, Mike
  - Dobson, Mark
  - Dobson, Paul
+ - Doherty, Robert
  - Dutiaume, Randy
  - Elias, Dave
  - Elmaleh, Maxime
@@ -143,6 +165,7 @@ vs:
  - Ferbey, Randy
  - Fitzner-LeBlanc, Ian
  - Flemming, Paul
+ - Ford, Chris
  - Fowler, Rob
  - Frans, Joe
  - Freschi, Don
@@ -156,17 +179,22 @@ vs:
  - Grattan, James
  - Gushue, Brad
  - Haichert, Chris
+ - Harnden, E.J.
+ - Harnden, Ryan
  - Hart, Richard
  - Hebert, Ben
  - Hicke, Dean
+ - Hodgson, Colin
  - Hollowaychuk, Dan
  - Hong, Doug
  - Hopkins, Jeff
  - Horning, Deane
  - Howard, Glenn
  - Howard, Russ
+ - Jacobs, Brad
  - Jakubo, Mike
  - Jenkins, Bill
+ - Jewer, Keith
  - Jordison, Joel
  - Kennedy, Marc
  - Kerr, Ian
@@ -178,6 +206,7 @@ vs:
  - Laing, Brent
  - Lang, Mark
  - LeCocq, Marc
+ - Lemay, Philippe
  - Likely, John
  - Lohnes, Bruce
  - Lukowich, Mark
@@ -185,17 +214,25 @@ vs:
  - MacKenzie, Kevin
  - MacLean, Stuart
  - Markowsky, Rob
+ - Marsh, Dan
+ - Marsh, Kevin
+ - Martin, Karrick
  - Martin, Kevin
  - McCarrel, Graeme
  - McCusker, Brian
+ - McEwen, Mike
  - McKee, Darrell
  - Melnichuk, Greg
  - Menard, Jean-Michel
+ - Menard, Philippe
  - Middaugh, Wayne
  - Mittelstadt, Kelly
  - Morris, John
  - Moshenko, Darcy
  - Moskowy, Kelly
+ - Moulding, Darren
+ - Muyres, Dallan
+ - Muyres, Kirk
  - Nedohin, David
  - Nichols, Mark
  - Nobert, Rob
@@ -214,6 +251,7 @@ vs:
  - Rocque, Marcel
  - Ryan, Keith
  - Ryan, Pat
+ - Samagalski, Derek
  - Savill, Craig
  - Schmidt, Aryn
  - Seabrook, Matt
@@ -225,6 +263,8 @@ vs:
  - Stoughton, Jeff
  - Suchy, Chris
  - Sylvain, Eric
+ - Symonds, Andrew
+ - Thiessen, Brad
  - Thomson, Fred
  - Toner, Lee
  - Turpin, Randy

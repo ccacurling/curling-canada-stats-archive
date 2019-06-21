@@ -2,14 +2,14 @@
 title: Brett Gallant vs Brad Thiessen
 player1:              
   name: Gallant, Brett
-  percent: 90         
-  wins: 2             
-  losses: 1           
+  percent: 91         
+  wins: 3             
+  losses: 2           
 player2:              
   name: Thiessen, Brad
-  percent: 81         
-  wins: 1             
-  losses: 2           
+  percent: 82         
+  wins: 2             
+  losses: 3           
 games:
  - player1:          
      team: 'NL'      
@@ -59,4 +59,36 @@ games:
    year: 2018        
    draw: Final(23)   
    score: CA 6 - AB 4
+ - player1:          
+     team: 'CA'      
+     position: Second
+     percent: 92     
+     win: 1          
+     loss: 0         
+   player2:          
+     team: 'WC'      
+     position: Second
+     percent: 75     
+     win: 0          
+     loss: 1         
+   event: Brier      
+   year: 2019        
+   draw: Pool(18)    
+   score: WC 5 - CA 8
+ - player1:          
+     team: 'CA'      
+     position: Second
+     percent: 90     
+     win: 0          
+     loss: 1         
+   player2:          
+     team: 'WC'      
+     position: Second
+     percent: 89     
+     win: 1          
+     loss: 0         
+   event: Brier      
+   year: 2019        
+   draw: Page 3-4(19)
+   score: WC 7 - CA 2
 ---

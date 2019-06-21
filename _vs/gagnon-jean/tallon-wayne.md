@@ -39,8 +39,8 @@ games:
      percent: 79    
      win: 1         
      loss: 0        
-   event: Brier      
-   year: 2000        
-   draw: Playoff(21) 
-   score: QC 5 - NB 8
+   event: Brier        
+   year: 2000          
+   draw: Semi-Final(21)
+   score: QC 5 - NB 8  
 ---

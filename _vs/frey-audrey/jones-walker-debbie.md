@@ -41,6 +41,6 @@ games:
      loss: 1         
    event: Hearts     
    year: 2000        
-   draw: Playoff(19) 
+   draw: Page 1-2(19)
    score: MB 4 - ON 6
 ---

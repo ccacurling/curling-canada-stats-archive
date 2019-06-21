@@ -170,7 +170,6 @@ years:
    shots-total: 100
    shots-percent: 80
  - year: 2015
-   event: Brier
    team: Totals
    games: 14
    wins: 10
@@ -235,7 +234,7 @@ vs:
  - Bitz, Scott
  - Blanchard, Ben
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Bouchard, Christian
  - Brannen, Jamie
  - Breckon, Graham

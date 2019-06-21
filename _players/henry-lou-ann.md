@@ -154,6 +154,7 @@ vs:
  - Sabourin, Joelle
  - Sanders, Pat
  - Schmirler, Sandra
+ - Sharpe, Kelli
  - Shields, Deanne
  - Sonnenberg, Renee
  - Stokes, Debbie
@@ -163,6 +164,5 @@ vs:
  - Thurston, Jill
  - Tincher, Twyla
  - Tucker, Cindy
- - Turpin, Kelli
  - Wright, Susan
 ---

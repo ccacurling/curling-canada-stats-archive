@@ -85,7 +85,6 @@ years:
    shots-total: 27
    shots-percent: 71
  - year: 2014
-   event: Hearts
    team: Totals
    games: 13
    wins: 8
@@ -117,15 +116,21 @@ years:
    takeout-percent: 83
    shots-total: 266
    shots-percent: 83
+ - year: 2019
+   event: Hearts
+   team: "SK"
+   position: Alternate
 vs:
  - Allen, Michelle
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Baier, Stephanie
+ - Baldwin, Nicole
  - Barbour, Shona
  - Baxter, Jen
  - Belanger, Nancy
  - Bernard, Cheryl
+ - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
@@ -133,7 +138,7 @@ vs:
  - Bradley, Shelly
  - Brothers, Jill
  - Brown, Jacalyn
- - Brown, Rachelle
+ - Brown, Rachel
  - Bush, Tracy
  - Camozzi, Rhona
  - Carey, Chelsea
@@ -159,7 +164,6 @@ vs:
  - Enright, Barb
  - Farrell, Allison
  - Ferguson, Dana
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Flaxey, Allison
  - Fortier, Marie-Josee
@@ -226,6 +230,8 @@ vs:
  - O'Rourke, Brittany
  - Overton-Clapham, Cathy
  - Parsons, Danielle
+ - Peterman, Jocelyn
+ - Pilote, Kristen
  - Prosser, Sandi
  - Richard, Marie
  - Richards, Brette
@@ -240,6 +246,8 @@ vs:
  - Sandwith, Carley
  - Schmidt, Stephanie
  - Scott, Kelly
+ - Sharpe, Kelli
+ - Shaw, Ladene
  - Simons, Renee
  - Sinclair, Andrea
  - Smith, Heather
@@ -248,13 +256,13 @@ vs:
  - Sobey, Lianne
  - Spencer, Barb
  - Strong, Heather
+ - Strong, Helen
  - Strong, Laura
  - Sweeting, Valerie
  - Thomas, Jill
  - Thomas-Kennell, Noelle
  - Titheridge, Lindsay
  - Trombley, Christy
- - Turpin, Kelli
  - Udle, Teri
  - Van Osch, Kesa
  - Wallingham, Patty

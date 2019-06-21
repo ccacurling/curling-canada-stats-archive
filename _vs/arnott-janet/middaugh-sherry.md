@@ -41,7 +41,7 @@ games:
      loss: 1         
    event: Hearts     
    year: 1996        
-   draw: Playoff(21) 
+   draw: Page 3-4(21)
    score: SK 4 - CA 7
  - player1:        
      team: 'MB'    

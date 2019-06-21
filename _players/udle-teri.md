@@ -118,7 +118,7 @@ vs:
  - Boyle, Jane
  - Bradley, Shelly
  - Brassard, Veronique
- - Brown, Rachelle
+ - Brown, Rachel
  - Cameron, Nancy
  - Campbell, Jolene
  - Carey, Chelsea
@@ -169,7 +169,6 @@ vs:
  - Inglis, Nancy
  - Iskiw, Beth
  - Jones, Jennifer
- - Kaatz, Selena
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kleibrink, Shannon
@@ -204,6 +203,7 @@ vs:
  - Moses, Dawn
  - Murphy, Jeanette
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Nowlan, Denise
@@ -236,6 +236,7 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Sinclair, Andrea
  - Singler, Sherri
@@ -250,7 +251,6 @@ vs:
  - Thompson, Karla
  - Titheridge, Lindsay
  - Tuck, Kim
- - Turpin, Kelli
  - Vandale, Trysta
  - Van Osch, Kesa
  - Vautour, Carrie

@@ -2,13 +2,13 @@
 title: Martin Crete vs Dallan Muyres
 player1:              
   name: Crete, Martin 
-  percent: 88         
+  percent: 84         
   wins: 2             
-  losses: 1           
+  losses: 2           
 player2:              
   name: Muyres, Dallan
-  percent: 88         
-  wins: 1             
+  percent: 87         
+  wins: 2             
   losses: 2           
 games:
  - player1:         
@@ -59,4 +59,20 @@ games:
    year: 2016          
    draw: Round Robin(7)
    score: QC 3 - SK 7  
+ - player1:          
+     team: 'QC'      
+     position: Fourth
+     percent: 74     
+     win: 0          
+     loss: 1         
+   player2:        
+     team: 'SK'    
+     position: Lead
+     percent: 85   
+     win: 1        
+     loss: 0       
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(7)
+   score: SK 8 - QC 6  
 ---

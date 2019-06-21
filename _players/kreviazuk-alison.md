@@ -83,7 +83,7 @@ vs:
  - Bradley, Shelly
  - Brassard, Veronique
  - Brothers, Jill
- - Brown, Rachelle
+ - Brown, Rachel
  - Carey, Chelsea
  - Carter, Sasha
  - Cheveldave, Amber

@@ -2,14 +2,14 @@
 title: E.J. Harnden vs Dallan Muyres
 player1:              
   name: Harnden, E.J. 
-  percent: 88         
-  wins: 3             
+  percent: 90         
+  wins: 4             
   losses: 1           
 player2:              
   name: Muyres, Dallan
-  percent: 88         
+  percent: 89         
   wins: 1             
-  losses: 3           
+  losses: 4           
 games:
  - player1:         
      team: 'NO'     
@@ -75,4 +75,20 @@ games:
    year: 2018          
    draw: Round Robin(9)
    score: SK 8 - NO 4  
+ - player1:          
+     team: 'NO'      
+     position: Second
+     percent: 95     
+     win: 1          
+     loss: 0         
+   player2:        
+     team: 'SK'    
+     position: Lead
+     percent: 94   
+     win: 0        
+     loss: 1       
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(9)
+   score: SK 5 - NO 7  
 ---

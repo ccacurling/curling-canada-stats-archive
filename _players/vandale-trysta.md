@@ -43,7 +43,6 @@ vs:
  - Hughes, Meaghan
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Larouche, Marie-France
  - Lawes, Kaitlyn
  - Lemay, Annie
@@ -53,6 +52,7 @@ vs:
  - McCarville, Krista
  - McEwen, Dawn
  - Murphy, Sarah
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Officer, Jill

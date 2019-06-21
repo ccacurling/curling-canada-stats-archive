@@ -163,6 +163,7 @@ vs:
  - Sanders, Pat
  - Santos, Deb
  - Scott, Donna
+ - Sharpe, Kelli
  - Skinner, Julie
  - Smith, Heather
  - Smith, Yvonne
@@ -177,7 +178,6 @@ vs:
  - Thomas, Maria
  - Todd, Fran
  - Tucker, Cindy
- - Turpin, Kelli
  - Werenka, Lil
  - Wheatcroft, Georgina
  - Wright, Susan

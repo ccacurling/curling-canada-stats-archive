@@ -3,13 +3,13 @@ title: Ben Hebert vs Mark Nichols
 player1:             
   name: Hebert, Ben  
   percent: 90        
-  wins: 3            
+  wins: 4            
   losses: 9          
 player2:             
   name: Nichols, Mark
   percent: 85        
   wins: 9            
-  losses: 3          
+  losses: 4          
 games:
  - player1:        
      team: 'SK'    
@@ -203,4 +203,20 @@ games:
    year: 2017        
    draw: Final(22)   
    score: NL 7 - CA 6
+ - player1:        
+     team: 'AB'    
+     position: Lead
+     percent: 90   
+     win: 1        
+     loss: 0       
+   player2:         
+     team: 'CA'     
+     position: Third
+     percent: 81    
+     win: 0         
+     loss: 1        
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(8)
+   score: CA 6 - AB 7  
 ---

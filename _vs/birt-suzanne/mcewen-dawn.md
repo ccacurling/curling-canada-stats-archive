@@ -2,14 +2,14 @@
 title: Suzanne Birt vs Dawn McEwen
 player1:             
   name: Birt, Suzanne
-  percent: 71        
-  wins: 1            
+  percent: 72        
+  wins: 2            
   losses: 4          
 player2:             
   name: McEwen, Dawn 
-  percent: 90        
+  percent: 88        
   wins: 4            
-  losses: 1          
+  losses: 2          
 games:
  - player1:          
      team: 'PE'      
@@ -91,4 +91,20 @@ games:
    year: 2016          
    draw: Round Robin(3)
    score: CA 9 - PE 4  
+ - player1:          
+     team: 'PE'      
+     position: Fourth
+     percent: 76     
+     win: 1          
+     loss: 0         
+   player2:        
+     team: 'CA'    
+     position: Lead
+     percent: 78   
+     win: 0        
+     loss: 1       
+   event: Hearts       
+   year: 2019          
+   draw: Round Robin(6)
+   score: PE 8 - CA 6  
 ---

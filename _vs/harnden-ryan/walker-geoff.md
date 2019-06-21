@@ -2,14 +2,14 @@
 title: Ryan Harnden vs Geoff Walker
 player1:             
   name: Harnden, Ryan
-  percent: 86        
-  wins: 3            
+  percent: 87        
+  wins: 4            
   losses: 3          
 player2:             
   name: Walker, Geoff
   percent: 90        
   wins: 3            
-  losses: 3          
+  losses: 4          
 games:
  - player1:          
      team: 'NO'      
@@ -107,4 +107,20 @@ games:
    year: 2017           
    draw: Round Robin(10)
    score: NO 5 - NL 7   
+ - player1:        
+     team: 'NO'    
+     position: Lead
+     percent: 93   
+     win: 1        
+     loss: 0       
+   player2:        
+     team: 'CA'    
+     position: Lead
+     percent: 91   
+     win: 0        
+     loss: 1       
+   event: Brier      
+   year: 2019        
+   draw: Pool(17)    
+   score: NO 7 - CA 6
 ---

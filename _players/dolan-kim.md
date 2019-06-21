@@ -256,7 +256,7 @@ vs:
  - Brown, Katie
  - Brown, Marcie
  - Brown, Maureen
- - Brown, Rachelle
+ - Brown, Rachel
  - Burkitt, Maureen
  - Burry, Gail
  - Byers, Denise
@@ -481,6 +481,7 @@ vs:
  - Scott, Kelly
  - Sefton, Judy
  - Seitz, Susan
+ - Sharpe, Kelli
  - Shaw, Cathy
  - Shields, Deanne
  - Shields, Gail
@@ -510,7 +511,6 @@ vs:
  - Treloar, Cathy
  - Tucker, Cindy
  - Turcotte, Kristin
- - Turpin, Kelli
  - Twa, Dale
  - Udle, Teri
  - Usher, Leanne

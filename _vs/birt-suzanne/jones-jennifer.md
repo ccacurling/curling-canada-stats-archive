@@ -2,14 +2,14 @@
 title: Suzanne Birt vs Jennifer Jones
 player1:               
   name: Birt, Suzanne  
-  percent: 68          
-  wins: 1              
+  percent: 69          
+  wins: 2              
   losses: 7            
 player2:               
   name: Jones, Jennifer
-  percent: 81          
+  percent: 78          
   wins: 7              
-  losses: 1            
+  losses: 2            
 games:
  - player1:          
      team: 'PE'      
@@ -139,4 +139,20 @@ games:
    year: 2016          
    draw: Round Robin(3)
    score: CA 9 - PE 4  
+ - player1:          
+     team: 'PE'      
+     position: Fourth
+     percent: 76     
+     win: 1          
+     loss: 0         
+   player2:          
+     team: 'CA'      
+     position: Fourth
+     percent: 57     
+     win: 0          
+     loss: 1         
+   event: Hearts       
+   year: 2019          
+   draw: Round Robin(6)
+   score: PE 8 - CA 6  
 ---

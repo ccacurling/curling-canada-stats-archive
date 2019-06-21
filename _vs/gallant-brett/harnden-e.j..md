@@ -2,13 +2,13 @@
 title: Brett Gallant vs E.J. Harnden
 player1:              
   name: Gallant, Brett
-  percent: 90         
+  percent: 89         
   wins: 5             
-  losses: 3           
+  losses: 4           
 player2:              
   name: Harnden, E.J. 
   percent: 87         
-  wins: 3             
+  wins: 4             
   losses: 5           
 games:
  - player1:         
@@ -139,4 +139,20 @@ games:
    year: 2018        
    draw: Pool(18)    
    score: CA 5 - NO 3
+ - player1:          
+     team: 'CA'      
+     position: Second
+     percent: 86     
+     win: 0          
+     loss: 1         
+   player2:          
+     team: 'NO'      
+     position: Second
+     percent: 90     
+     win: 1          
+     loss: 0         
+   event: Brier      
+   year: 2019        
+   draw: Pool(17)    
+   score: NO 7 - CA 6
 ---

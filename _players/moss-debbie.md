@@ -200,6 +200,7 @@ vs:
  - Sabourin, Joelle
  - Sanders, Pat
  - Schmirler, Sandra
+ - Sharpe, Kelli
  - Shigehiro, Sally
  - Skinner, Julie
  - Smith, Heather
@@ -214,7 +215,6 @@ vs:
  - Thurston, Jill
  - Tucker, Cindy
  - Turcotte, Kristin
- - Turpin, Kelli
  - Wall, Kirsten
  - Wheatcroft, Georgina
  - Willms, Karri

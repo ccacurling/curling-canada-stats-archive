@@ -4,11 +4,11 @@ player1:
   name: Gushue, Brad
   percent: 83       
   wins: 4           
-  losses: 5         
+  losses: 6         
 player2:            
   name: Koe, Kevin  
   percent: 87       
-  wins: 5           
+  wins: 6           
   losses: 4         
 games:
  - player1:          
@@ -155,4 +155,20 @@ games:
    year: 2017        
    draw: Final(22)   
    score: NL 7 - CA 6
+ - player1:          
+     team: 'CA'      
+     position: Fourth
+     percent: 88     
+     win: 0          
+     loss: 1         
+   player2:          
+     team: 'AB'      
+     position: Fourth
+     percent: 89     
+     win: 1          
+     loss: 0         
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(8)
+   score: CA 6 - AB 7  
 ---

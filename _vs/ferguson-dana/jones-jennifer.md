@@ -2,13 +2,13 @@
 title: Dana Ferguson vs Jennifer Jones
 player1:               
   name: Ferguson, Dana 
-  percent: 83          
+  percent: 85          
   wins: 0              
-  losses: 3            
+  losses: 4            
 player2:               
   name: Jones, Jennifer
-  percent: 85          
-  wins: 3              
+  percent: 83          
+  wins: 4              
   losses: 0            
 games:
  - player1:          
@@ -59,4 +59,20 @@ games:
    year: 2015        
    draw: Final(22)   
    score: AB 5 - MB 6
+ - player1:          
+     team: 'AB'      
+     position: Second
+     percent: 89     
+     win: 0          
+     loss: 1         
+   player2:          
+     team: 'CA'      
+     position: Fourth
+     percent: 80     
+     win: 1          
+     loss: 0         
+   event: Hearts      
+   year: 2019         
+   draw: Pool(16)     
+   score: AB 8 - CA 10
 ---

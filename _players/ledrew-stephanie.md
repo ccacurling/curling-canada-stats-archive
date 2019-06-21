@@ -68,7 +68,6 @@ years:
    shots-total: 12
    shots-percent: 67
  - year: 2013
-   event: Hearts
    team: Totals
    games: 3
    wins: 3
@@ -163,7 +162,6 @@ vs:
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Jennifer
- - Kaatz, Selena
  - Kalenchuk, Heather
  - Koehler, Megan
  - Koltun, Sarah
@@ -186,6 +184,7 @@ vs:
  - Morris, Cori
  - Naugler, Tara
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nowlan, Denise
  - Officer, Jill

@@ -2,13 +2,13 @@
 title: Kaitlyn Lawes vs Krista McCarville
 player1:                  
   name: Lawes, Kaitlyn    
-  percent: 90             
+  percent: 85             
   wins: 0                 
-  losses: 2               
+  losses: 3               
 player2:                  
   name: McCarville, Krista
   percent: 83             
-  wins: 2                 
+  wins: 3                 
   losses: 0               
 games:
  - player1:         
@@ -43,4 +43,20 @@ games:
    year: 2016          
    draw: Semi-Final(20)
    score: CA 5 - NO 7  
+ - player1:         
+     team: 'CA'     
+     position: Third
+     percent: 76    
+     win: 0         
+     loss: 1        
+   player2:          
+     team: 'NO'      
+     position: Fourth
+     percent: 85     
+     win: 1          
+     loss: 0         
+   event: Hearts     
+   year: 2019        
+   draw: Pool(18)    
+   score: CA 6 - NO 8
 ---

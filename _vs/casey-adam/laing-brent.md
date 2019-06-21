@@ -57,7 +57,7 @@ games:
      loss: 0         
    event: Brier      
    year: 2013        
-   draw: Playoff(21) 
+   draw: Bronze(21)  
    score: NL 6 - ON 7
  - player1:          
      team: 'PE'      

@@ -39,8 +39,8 @@ games:
      percent: 85   
      win: 0        
      loss: 1       
-   event: Brier      
-   year: 1999        
-   draw: Playoff(21) 
-   score: QC 6 - SK 5
+   event: Brier        
+   year: 1999          
+   draw: Semi-Final(21)
+   score: QC 6 - SK 5  
 ---

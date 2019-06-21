@@ -39,8 +39,8 @@ games:
      percent: 81     
      win: 1          
      loss: 0         
-   event: Hearts     
-   year: 2001        
-   draw: Playoff(18) 
-   score: PE 2 - ON 9
+   event: Hearts        
+   year: 2001           
+   draw: Tie-Breaker(18)
+   score: PE 2 - ON 9   
 ---

@@ -28,7 +28,7 @@ games:
    draw: Round Robin(9)
    score: TR 4 - MB 10 
  - player1:         
-     team: 'NT'     
+     team: 'TR'     
      position: Third
      percent: 93    
      win: 1         
@@ -42,5 +42,5 @@ games:
    event: Brier         
    year: 2013           
    draw: Round Robin(15)
-   score: MB 5 - NT 7   
+   score: MB 5 - TR 7   
 ---

@@ -62,10 +62,10 @@ vs:
  - Prosser, Sandi
  - Rocque, Raylene
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Singler, Sherri
  - Strong, Heather
  - Strong, Laura
- - Turpin, Kelli
  - Zinck, Kay
 ---

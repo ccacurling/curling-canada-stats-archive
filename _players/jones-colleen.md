@@ -728,6 +728,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Donna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shaw, Cathy
  - Shephard, Wendy
  - Sherrington, Barb
@@ -777,7 +778,6 @@ vs:
  - Trider, Krista
  - Tucker, Cindy
  - Turcotte, Kristin
- - Turpin, Kelli
  - Unrau, Faye
  - Usher, Leanne
  - Vautour, Chantel

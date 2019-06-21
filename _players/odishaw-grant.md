@@ -2,18 +2,18 @@
 title: Grant Odishaw
 name: Grant Odishaw
 name-sort: Odishaw, Grant
-games: 92
-wins: 50
-losses: 42
-inturn-total: 612
+games: 99
+wins: 53
+losses: 46
+inturn-total: 642
 inturn-percent: 86
-outturn-total: 1113
+outturn-total: 1214
 outturn-percent: 86
-draw-total: 1230
-draw-percent: 88
-takeout-total: 495
+draw-total: 1342
+draw-percent: 89
+takeout-total: 514
 takeout-percent: 80
-shots-total: 1725
+shots-total: 1856
 shots-percent: 86
 years:
  - year: 1991
@@ -51,7 +51,6 @@ years:
    shots-total: 88
    shots-percent: 78
  - year: 1991
-   event: Brier
    team: Totals
    games: 10
    wins: 4
@@ -135,7 +134,6 @@ years:
    shots-total: 30
    shots-percent: 89
  - year: 1999
-   event: Brier
    team: Totals
    games: 9
    wins: 5
@@ -235,10 +233,29 @@ years:
    takeout-percent: 71
    shots-total: 206
    shots-percent: 86
+ - year: 2019
+   event: Brier
+   team: "NB"
+   position: Lead
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 30
+   inturn-percent: 84
+   outturn-total: 101
+   outturn-percent: 88
+   draw-total: 112
+   draw-percent: 90
+   takeout-total: 19
+   takeout-percent: 70
+   shots-total: 131
+   shots-percent: 87
 vs:
  - Adam, Gerry
  - Adams, Kevin
  - Adams, Shawn
+ - Aho, David
+ - Ardiel, Taylor
  - Armstrong, Doug
  - Armstrong, Mike
  - Arsenault, Craig
@@ -247,6 +264,7 @@ vs:
  - Base, John
  - Bentley, Dan
  - Bentley, Darren
+ - Beuk, Jonathan
  - Biron, Louis
  - Bitz, Scott
  - Blanchard, Ben
@@ -270,6 +288,7 @@ vs:
  - Carter, Andrew
  - Casey, Adam
  - Cayouette, Maurice
+ - Chadwick, Scott
  - Champion, Kevin
  - Charest, Jean-Francois
  - Charette, Pierre
@@ -278,6 +297,7 @@ vs:
  - Cochrane, Bryan
  - Collins, Ron
  - Collison, Brian
+ - Colter, Travis
  - Corner, Peter
  - Cotter, Jim
  - Cowan, Chad
@@ -304,9 +324,11 @@ vs:
  - Fenton, Brad
  - Ferbey, Randy
  - Fetterly, Tom
+ - Flasch, Colton
  - Flemming, Paul
  - Florence, Malcolm
  - Folk, Kevin
+ - Forget, Wes
  - Forsyth, Sandy
  - Fowler, Rob
  - Frans, Joe
@@ -314,6 +336,7 @@ vs:
  - Fulton, Chris
  - Gagnon, Jean
  - Gagnon, Steeve
+ - Gallant, Brett
  - Gallant, Peter
  - Gamble, Bill
  - Gaudet, Mike
@@ -337,6 +360,7 @@ vs:
  - Harris, Mike
  - Harris, Rob
  - Harris, Tyler
+ - Hebert, Ben
  - Hemmings, Guy
  - Henderson, Jeffrey
  - Henderson, Ron
@@ -359,6 +383,7 @@ vs:
  - Josephson, Glenn
  - Kalthoff, Kevin
  - Kelsch, Dan
+ - Kendall, Lloyd
  - Kent, Gerry
  - Kerr, Ian
  - Kieley, Phil
@@ -375,6 +400,7 @@ vs:
  - Lang, Mark
  - Lang, Tyler
  - Lappalainen, Art
+ - Laycock, Steve
  - Ledgerwood, Sean
  - Leech, Ron
  - Lemery, Dan
@@ -391,6 +417,7 @@ vs:
  - MacInnes, David
  - MacKenzie, Kevin
  - MacKenzie, Tyler
+ - Mackey, Peter
  - Macklin, Drew
  - MacLean, Rob
  - Madden, Paul
@@ -401,8 +428,10 @@ vs:
  - McClelland, John
  - McCusker, Brian
  - McDermaid, Donald
+ - McDonald, Scott
  - McHargue, Ken
  - McKee, Darrell
+ - McLeod, Shadrach
  - McPhee, Barry
  - Mead, Jonathan
  - Mellof, Dave
@@ -420,9 +449,12 @@ vs:
  - Moss, Steve
  - Munroe, Steven
  - Murphy, Jamie
+ - Nadeau, Jeff
  - Naugler, Tom
  - Nedohin, David
  - Ness, Dale
+ - Neufeld, B.J.
+ - Ng, Matt
  - Nichols, Mark
  - Nolan, Jason
  - Noseworthy, Mark
@@ -430,6 +462,7 @@ vs:
  - O'Rourke, Mark
  - Palmer, Curt
  - Park, Kevin
+ - Parsons, Cole
  - Paslawski, Pat
  - Patterson, Scott
  - Peachy, Jay
@@ -476,6 +509,8 @@ vs:
  - Solberg, Jonathon
  - Somers, Grant
  - Spicer, Grant
+ - St.Louis, David
+ - Steele, Colten
  - Steski, John
  - Stokes, Lionel
  - Stoughton, Jeff
@@ -487,6 +522,7 @@ vs:
  - Sylvain, Eric
  - Thibaudeau, Guy
  - Thiessen, Nolan
+ - Thompson, Stuart
  - Tresoor, Ken
  - Trevellyan, Todd
  - Turpin, Randy

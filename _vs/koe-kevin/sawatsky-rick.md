@@ -2,14 +2,14 @@
 title: Kevin Koe vs Rick Sawatsky
 player1:              
   name: Koe, Kevin    
-  percent: 82         
-  wins: 3             
+  percent: 81         
+  wins: 4             
   losses: 4           
 player2:              
   name: Sawatsky, Rick
   percent: 90         
   wins: 4             
-  losses: 3           
+  losses: 4           
 games:
  - player1:          
      team: 'AB'      
@@ -123,4 +123,20 @@ games:
    year: 2017          
    draw: Round Robin(7)
    score: CA 4 - BC 5  
+ - player1:          
+     team: 'AB'      
+     position: Fourth
+     percent: 72     
+     win: 1          
+     loss: 0         
+   player2:        
+     team: 'BC'    
+     position: Lead
+     percent: 89   
+     win: 0        
+     loss: 1       
+   event: Brier         
+   year: 2019           
+   draw: Round Robin(10)
+   score: AB 9 - BC 5   
 ---

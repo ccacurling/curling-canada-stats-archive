@@ -2,13 +2,13 @@
 title: Ty Griffith vs Colin Hodgson
 player1:              
   name: Griffith, Ty  
-  percent: 75         
+  percent: 81         
   wins: 0             
-  losses: 1           
+  losses: 2           
 player2:              
   name: Hodgson, Colin
   percent: 97         
-  wins: 1             
+  wins: 2             
   losses: 0           
 games:
  - player1:          
@@ -27,4 +27,20 @@ games:
    year: 2015           
    draw: Round Robin(13)
    score: BC 3 - MB 8   
+ - player1:          
+     team: 'BC'      
+     position: Second
+     percent: 85     
+     win: 0          
+     loss: 1         
+   player2:        
+     team: 'MB'    
+     position: Lead
+     percent: 98   
+     win: 1        
+     loss: 0       
+   event: Brier      
+   year: 2019        
+   draw: Pool(17)    
+   score: BC 7 - MB 9
 ---

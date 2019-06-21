@@ -114,6 +114,7 @@ vs:
  - Renouf, Michele
  - Ross, Allison
  - Sanders, Pat
+ - Sharpe, Kelli
  - Skinner, Julie
  - Smith, Heather
  - Sonnenberg, Renee
@@ -124,7 +125,6 @@ vs:
  - Tanner, Allison
  - Tincher, Twyla
  - Tucker, Cindy
- - Turpin, Kelli
  - Walter, Cathy
  - Wheatcroft, Georgina
  - Whitrow, Leanne

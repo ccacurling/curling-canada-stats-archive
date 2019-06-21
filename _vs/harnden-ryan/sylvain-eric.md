@@ -3,13 +3,13 @@ title: Ryan Harnden vs Eric Sylvain
 player1:             
   name: Harnden, Ryan
   percent: 88        
-  wins: 4            
+  wins: 5            
   losses: 1          
 player2:             
   name: Sylvain, Eric
-  percent: 83        
+  percent: 81        
   wins: 1            
-  losses: 4          
+  losses: 5          
 games:
  - player1:          
      team: 'NO'      
@@ -91,4 +91,20 @@ games:
    year: 2017          
    draw: Round Robin(4)
    score: QC 8 - NO 9  
+ - player1:        
+     team: 'NO'    
+     position: Lead
+     percent: 86   
+     win: 1        
+     loss: 0       
+   player2:          
+     team: 'QC'      
+     position: Second
+     percent: 70     
+     win: 0          
+     loss: 1         
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(5)
+   score: NO 7 - QC 3  
 ---

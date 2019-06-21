@@ -2,14 +2,14 @@
 title: Ben Hebert vs Dallan Muyres
 player1:              
   name: Hebert, Ben   
-  percent: 94         
-  wins: 2             
+  percent: 92         
+  wins: 3             
   losses: 1           
 player2:              
   name: Muyres, Dallan
   percent: 94         
   wins: 1             
-  losses: 2           
+  losses: 3           
 games:
  - player1:        
      team: 'AB'    
@@ -59,4 +59,20 @@ games:
    year: 2016           
    draw: Round Robin(16)
    score: SK 5 - AB 7   
+ - player1:        
+     team: 'AB'    
+     position: Lead
+     percent: 86   
+     win: 1        
+     loss: 0       
+   player2:        
+     team: 'SK'    
+     position: Lead
+     percent: 94   
+     win: 0        
+     loss: 1       
+   event: Brier      
+   year: 2019        
+   draw: Pool(17)    
+   score: AB 9 - SK 3
 ---

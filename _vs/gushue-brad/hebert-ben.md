@@ -4,11 +4,11 @@ player1:
   name: Gushue, Brad
   percent: 85       
   wins: 8           
-  losses: 4         
+  losses: 5         
 player2:            
   name: Hebert, Ben 
   percent: 90       
-  wins: 4           
+  wins: 5           
   losses: 8         
 games:
  - player1:          
@@ -203,4 +203,20 @@ games:
    year: 2017        
    draw: Final(22)   
    score: NL 7 - CA 6
+ - player1:          
+     team: 'CA'      
+     position: Fourth
+     percent: 88     
+     win: 0          
+     loss: 1         
+   player2:        
+     team: 'AB'    
+     position: Lead
+     percent: 90   
+     win: 1        
+     loss: 0       
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(8)
+   score: CA 6 - AB 7  
 ---

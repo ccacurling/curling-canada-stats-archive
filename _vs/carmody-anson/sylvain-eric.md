@@ -2,13 +2,13 @@
 title: Anson Carmody vs Eric Sylvain
 player1:              
   name: Carmody, Anson
-  percent: 78         
+  percent: 77         
   wins: 1             
-  losses: 3           
+  losses: 4           
 player2:              
   name: Sylvain, Eric 
-  percent: 81         
-  wins: 3             
+  percent: 78         
+  wins: 4             
   losses: 1           
 games:
  - player1:         
@@ -75,4 +75,20 @@ games:
    year: 2016          
    draw: Round Robin(5)
    score: PE 2 - QC 4  
+ - player1:         
+     team: 'PE'     
+     position: Third
+     percent: 70    
+     win: 0         
+     loss: 1        
+   player2:          
+     team: 'QC'      
+     position: Second
+     percent: 68     
+     win: 1          
+     loss: 0         
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(9)
+   score: QC 8 - PE 5  
 ---

@@ -26,7 +26,7 @@ years:
 vs:
  - Asselin, Felix
  - Barry, Josh
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Carruthers, Reid
  - Case, Peter
  - Crowell, Phil

@@ -424,6 +424,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Donna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shephard, Wendy
  - Sherrington, Barb
  - Shields, Deanne
@@ -452,7 +453,6 @@ vs:
  - Tincher, Twyla
  - Todd, Fran
  - Tucker, Cindy
- - Turpin, Kelli
  - Udle, Teri
  - Vey, Lana
  - Walker, Lisa

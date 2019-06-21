@@ -60,12 +60,12 @@ vs:
  - Renouf, Michele
  - Ross, Allison
  - Sanders, Pat
+ - Sharpe, Kelli
  - Sonnenberg, Renee
  - Street, Cindy
  - Strong, Heather
  - Tanner, Allison
  - Tincher, Twyla
  - Tucker, Cindy
- - Turpin, Kelli
  - Wright, Susan
 ---

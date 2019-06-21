@@ -41,7 +41,7 @@ games:
      loss: 1         
    event: Brier       
    year: 1998         
-   draw: Playoff(20)  
+   draw: Page 1-2(20) 
    score: ON 10 - QC 4
  - player1:          
      team: 'ON'      
@@ -57,7 +57,7 @@ games:
      loss: 1         
    event: Brier      
    year: 1998        
-   draw: Playoff(22) 
+   draw: Final(22)   
    score: ON 7 - QC 4
  - player1:          
      team: 'ON'      

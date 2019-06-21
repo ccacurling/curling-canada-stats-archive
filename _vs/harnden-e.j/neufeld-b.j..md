@@ -2,13 +2,13 @@
 title: E.J. Harnden vs B.J. Neufeld
 player1:             
   name: Harnden, E.J.
-  percent: 94        
+  percent: 92        
   wins: 3            
-  losses: 2          
+  losses: 4          
 player2:             
   name: Neufeld, B.J.
   percent: 88        
-  wins: 2            
+  wins: 4            
   losses: 3          
 games:
  - player1:          
@@ -91,4 +91,36 @@ games:
    year: 2018        
    draw: Pool(16)    
    score: NO 8 - WC 1
+ - player1:          
+     team: 'NO'      
+     position: Second
+     percent: 86     
+     win: 0          
+     loss: 1         
+   player2:         
+     team: 'AB'     
+     position: Third
+     percent: 90    
+     win: 1         
+     loss: 0        
+   event: Brier      
+   year: 2019        
+   draw: Pool(18)    
+   score: AB 7 - NO 5
+ - player1:          
+     team: 'NO'      
+     position: Second
+     percent: 89     
+     win: 0          
+     loss: 1         
+   player2:         
+     team: 'AB'     
+     position: Third
+     percent: 88    
+     win: 1         
+     loss: 0        
+   event: Brier      
+   year: 2019        
+   draw: Page 1-2(20)
+   score: NO 4 - AB 9
 ---

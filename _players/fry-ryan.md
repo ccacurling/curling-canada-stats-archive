@@ -2,19 +2,19 @@
 title: Ryan Fry
 name: Ryan Fry
 name-sort: Fry, Ryan
-games: 128
-wins: 90
-losses: 38
-inturn-total: 924
-inturn-percent: 85
-outturn-total: 1452
+games: 141
+wins: 99
+losses: 42
+inturn-total: 1022
+inturn-percent: 86
+outturn-total: 1590
 outturn-percent: 87
-draw-total: 843
-draw-percent: 84
-takeout-total: 1533
-takeout-percent: 87
-shots-total: 2376
-shots-percent: 86
+draw-total: 925
+draw-percent: 85
+takeout-total: 1687
+takeout-percent: 88
+shots-total: 2612
+shots-percent: 87
 years:
  - year: 2007
    event: Brier
@@ -186,7 +186,25 @@ years:
    takeout-percent: 87
    shots-total: 210
    shots-percent: 85
+ - year: 2019
+   event: Brier
+   team: "NO"
+   position: Third
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 98
+   inturn-percent: 93
+   outturn-total: 138
+   outturn-percent: 90
+   draw-total: 82
+   draw-percent: 89
+   takeout-total: 154
+   takeout-percent: 92
+   shots-total: 236
+   shots-percent: 91
 vs:
+ - Abel, Clinton
  - Adam, Gerry
  - Adams, Shawn
  - Anderson, Chris
@@ -197,20 +215,24 @@ vs:
  - Barker, Richard
  - Barry, Josh
  - Berthelot, Marco
+ - Beuk, Jonathan
  - Bezanson, Jared
  - Bilesky, Andrew
  - Bitz, Scott
+ - Boland, Adam
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Bouchard, Christian
  - Brannen, Jamie
  - Breckon, Graham
+ - Burgess, Steve
  - Camm, Mathew
  - Campbell, Robert
  - Carmody, Anson
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
+ - Chadwick, Scott
  - Champion, Kevin
  - Charest, Jean-Francois
  - Charette, Pierre
@@ -239,6 +261,8 @@ vs:
  - Flaxey, Caleb
  - Flemming, Paul
  - Folk, Kevin
+ - Ford, Chris
+ - Forget, Wes
  - Fournier, Mike
  - Fowler, Rob
  - Fraser, Pierre
@@ -275,6 +299,7 @@ vs:
  - Jakubo, Mike
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Jewer, Keith
  - Joanisse, Dean
  - Jones, Brennen
  - Jones, Scott
@@ -299,6 +324,7 @@ vs:
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Lemay, Philippe
+ - Likely, John
  - Lohnes, Bruce
  - Lyburn, Allan
  - MacDonald, Blake
@@ -312,12 +338,15 @@ vs:
  - Manners, Scott
  - March, Tim
  - Markowsky, Rob
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Maskiewich, Ken
  - Mathers, David
  - McCann, Andy
  - McDermaid, Donald
+ - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
  - Meachem, Shaun Myles
@@ -340,6 +369,7 @@ vs:
  - Neufeld, Denni
  - Newson, Jamie
  - Nichols, Mark
+ - Odian, Scott
  - Odishaw, Grant
  - Odishaw, Terry
  - Olson, Mark-2
@@ -357,6 +387,7 @@ vs:
  - Roach, Darren
  - Roach, Jason
  - Robinson, Andrew
+ - Rowsell, Rick
  - Roy, Jean-Sebastien
  - Rycroft, Carter
  - Saccary, Scott
@@ -371,6 +402,7 @@ vs:
  - Sharp, Jeff
  - Shypitka, Tom
  - Simmons, Pat
+ - Smallwood, Robert
  - Smith, Donnie
  - Smith, Kent
  - Solberg, Jonathon
@@ -379,6 +411,7 @@ vs:
  - Stoughton, Jeff
  - Sullivan, Charles Jr
  - Sylvain, Eric
+ - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
  - Toner, Lee
@@ -390,6 +423,7 @@ vs:
  - Watson, Aaron
  - Whitehead, Kevin
  - Whitehead, Mark
+ - Wood, Brad
  - Wood, Mike
  - Wozniak, Matt
 ---

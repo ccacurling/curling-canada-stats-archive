@@ -3,13 +3,13 @@ title: Brad Gushue vs Kirk Muyres
 player1:            
   name: Gushue, Brad
   percent: 84       
-  wins: 3           
+  wins: 4           
   losses: 2         
 player2:            
   name: Muyres, Kirk
-  percent: 84       
+  percent: 81       
   wins: 2           
-  losses: 3         
+  losses: 4         
 games:
  - player1:          
      team: 'NL'      
@@ -91,4 +91,20 @@ games:
    year: 2018        
    draw: Pool(16)    
    score: SK 4 - CA 5
+ - player1:          
+     team: 'CA'      
+     position: Fourth
+     percent: 82     
+     win: 1          
+     loss: 0         
+   player2:          
+     team: 'SK'      
+     position: Fourth
+     percent: 64     
+     win: 0          
+     loss: 1         
+   event: Brier      
+   year: 2019        
+   draw: Pool(16)    
+   score: CA 8 - SK 4
 ---

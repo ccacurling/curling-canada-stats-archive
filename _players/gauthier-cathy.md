@@ -277,6 +277,7 @@ vs:
  - Schmirler, Sandra
  - Scott, Donna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shephard, Wendy
  - Sherrington, Barb
  - Shields, Deanne
@@ -294,7 +295,6 @@ vs:
  - Sutton, Jodie
  - Taylor, Candy
  - Thomas, Maria
- - Turpin, Kelli
  - Walker, Lisa
  - Whipple, Paula
  - Wieler, Bev

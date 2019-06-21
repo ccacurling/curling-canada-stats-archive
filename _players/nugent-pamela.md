@@ -75,7 +75,7 @@ vs:
  - Baier, Stephanie
  - Birt, Suzanne
  - Brothers, Jill
- - Brown, Rachelle
+ - Brown, Rachel
  - Burgess, Carey
  - Bush, Tracy
  - Cameron, Nancy
@@ -138,6 +138,7 @@ vs:
  - Sandwith, Carley
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simons, Renee
  - Sinclair, Andrea
  - Singler, Sherri
@@ -151,7 +152,6 @@ vs:
  - Tanner, Ros
  - Thurston, Jill
  - Titheridge, Lindsay
- - Turpin, Kelli
  - Udle, Teri
  - Van Osch, Kesa
  - Wallingham, Patty

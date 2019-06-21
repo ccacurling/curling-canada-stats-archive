@@ -85,7 +85,6 @@ years:
    shots-total: 82
    shots-percent: 72
  - year: 1989
-   event: Hearts
    team: Totals
    games: 13
    wins: 8
@@ -250,6 +249,7 @@ vs:
  - Schmirler, Sandra
  - Schneider, Sheila
  - Scott, Donna
+ - Sharpe, Kelli
  - Shields, Gail
  - Smith, Yvonne
  - Sonnenberg, Renee
@@ -269,7 +269,6 @@ vs:
  - Tousignant, Helene
  - Treloar, Cathy
  - Tucker, Cindy
- - Turpin, Kelli
  - Werenka, Lil
  - Whitrow, Leanne
  - Wright, Susan

@@ -2,14 +2,14 @@
 title: Brett Gallant vs Jordan Pinder
 player1:              
   name: Gallant, Brett
-  percent: 76         
-  wins: 2             
+  percent: 81         
+  wins: 3             
   losses: 0           
 player2:              
   name: Pinder, Jordan
   percent: 77         
   wins: 0             
-  losses: 2           
+  losses: 3           
 games:
  - player1:         
      team: 'NL'     
@@ -43,4 +43,20 @@ games:
    year: 2017           
    draw: Round Robin(17)
    score: NL 6 - NS 3   
+ - player1:          
+     team: 'CA'      
+     position: Second
+     percent: 90     
+     win: 1          
+     loss: 0         
+   player2:         
+     team: 'NB'     
+     position: Third
+     percent: 76    
+     win: 0         
+     loss: 1        
+   event: Brier         
+   year: 2019           
+   draw: Round Robin(10)
+   score: CA 8 - NB 7   
 ---

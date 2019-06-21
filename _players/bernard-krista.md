@@ -125,12 +125,12 @@ vs:
  - Robinson, Lori
  - Sabourin, Joelle
  - Scales, Julie
+ - Sharpe, Kelli
  - Skinner, Julie
  - Stahl, Carrie
  - Stewart, Sheri
  - Strong, Heather
  - Trider, Krista
- - Turpin, Kelli
  - Walter, Cathy
  - Wheatcroft, Georgina
  - Whitrow, Leanne

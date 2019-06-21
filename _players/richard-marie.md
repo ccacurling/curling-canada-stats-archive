@@ -80,7 +80,7 @@ vs:
  - Bradley, Shelly
  - Brennan, Amanda
  - Brothers, Jill
- - Brown, Rachelle
+ - Brown, Rachel
  - Camozzi, Rhona
  - Campbell, Jolene
  - Carey, Chelsea
@@ -99,7 +99,6 @@ vs:
  - Einarson, Kerri
  - Englot, Michelle
  - Ferguson, Dana
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Fyfe, Liz
  - Galusha, Kerry
@@ -116,7 +115,6 @@ vs:
  - Hughes, Meaghan
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kasner, Marliese
  - Kelly, Kim
  - Kidd, Darlene
@@ -144,6 +142,7 @@ vs:
  - Moore, Kim
  - Moses, Dawn
  - Murphy, Sarah
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Officer, Jill
@@ -153,6 +152,7 @@ vs:
  - Overton-Clapham, Cathy
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
  - Rainville, Julie

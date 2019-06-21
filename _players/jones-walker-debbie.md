@@ -302,6 +302,7 @@ vs:
  - Schmirler, Sandra
  - Scott, Donna
  - Seitz, Susan
+ - Sharpe, Kelli
  - Shields, Gail
  - Skinner, Julie
  - Slemko, Jean
@@ -319,7 +320,6 @@ vs:
  - Thompson, May
  - Todd, Fran
  - Tucker, Cindy
- - Turpin, Kelli
  - Twa, Dale
  - Unrau, Faye
  - Vaughan, Marlene

@@ -2,18 +2,18 @@
 title: Martin Crete
 name: Martin Crete
 name-sort: Crete, Martin
-games: 81
-wins: 42
-losses: 39
-inturn-total: 409
-inturn-percent: 85
-outturn-total: 1167
+games: 88
+wins: 45
+losses: 43
+inturn-total: 451
+inturn-percent: 84
+outturn-total: 1247
 outturn-percent: 84
-draw-total: 588
-draw-percent: 84
-takeout-total: 988
+draw-total: 643
+draw-percent: 83
+takeout-total: 1055
 takeout-percent: 84
-shots-total: 1576
+shots-total: 1698
 shots-percent: 84
 years:
  - year: 2008
@@ -51,7 +51,6 @@ years:
    shots-total: 32
    shots-percent: 66
  - year: 2008
-   event: Brier
    team: Totals
    games: 11
    wins: 4
@@ -168,7 +167,25 @@ years:
    takeout-percent: 85
    shots-total: 214
    shots-percent: 86
+ - year: 2019
+   event: Brier
+   team: "QC"
+   position: Fourth
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 42
+   inturn-percent: 76
+   outturn-total: 80
+   outturn-percent: 79
+   draw-total: 55
+   draw-percent: 78
+   takeout-total: 67
+   takeout-percent: 78
+   shots-total: 122
+   shots-percent: 78
 vs:
+ - Abel, Clinton
  - Adam, Gerry
  - Balsdon, Greg
  - Bardsley, Mike
@@ -178,10 +195,12 @@ vs:
  - Bice, Steve
  - Bilesky, Andrew
  - Bitz, Scott
+ - Boland, Adam
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brannen, Jamie
  - Breckon, Graham
+ - Burgess, Steve
  - Burtnyk, Kerry
  - Buyck, James
  - Camm, Mathew
@@ -209,6 +228,7 @@ vs:
  - Flaxey, Caleb
  - Flemming, Paul
  - Folk, Kevin
+ - Ford, Chris
  - Fowler, Rob
  - Fry, Ryan
  - Gallant, Brett
@@ -235,6 +255,7 @@ vs:
  - Jacobs, Brad
  - Jakubo, Mike
  - Jeffrey, Chris
+ - Jewer, Keith
  - Jones, Scott
  - Jordison, Joel
  - Kammerlock, Dan
@@ -252,12 +273,15 @@ vs:
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
+ - Likely, John
  - Lohnes, Bruce
  - MacDonald, Rod
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - MacKenzie, Tyler
  - Mallais, Jeremy
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
@@ -279,6 +303,7 @@ vs:
  - Neufeld, Denni
  - Nichols, Mark
  - Noftall, David
+ - Odian, Scott
  - Olson, Mark-2
  - O'Rourke, Mark
  - Ouimet, Luc
@@ -291,6 +316,7 @@ vs:
  - Roach, Darren
  - Roach, Jason
  - Robinson, Andrew
+ - Rowsell, Rick
  - Rycroft, Carter
  - Saccary, Scott
  - Samagalski, Derek
@@ -304,11 +330,13 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Slauenwhite, David
+ - Smallwood, Robert
  - Smith, Garth
  - Smith, Kent
  - Solberg, Jonathon
  - Spencer, Adam
  - Stoughton, Jeff
+ - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
  - Toner, Lee

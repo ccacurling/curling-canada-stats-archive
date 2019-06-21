@@ -136,7 +136,6 @@ years:
    shots-total: 20
    shots-percent: 88
  - year: 2003
-   event: Hearts
    team: Totals
    games: 12
    wins: 10
@@ -309,7 +308,7 @@ vs:
  - Brophy, Cathy
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Rachelle
+ - Brown, Rachel
  - Burgess, Carey
  - Burlington, Cheryl
  - Bush, Tracy
@@ -355,7 +354,6 @@ vs:
  - Fallis-Kurz, Lynn
  - Farrell, Allison
  - Ferguson, Dana
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Fisher, Alana
  - Fister, Teri
@@ -502,6 +500,7 @@ vs:
  - Perron, Leanne
  - Peters, Laine
  - Phillips, Margaret Lea
+ - Pilote, Kristen
  - Pinkney, Colleen
  - Porter, Erin
  - Power, Marie-Anne
@@ -528,6 +527,7 @@ vs:
  - Schmirler, Sandra
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shigehiro, Sally
  - Shumay, Jill
  - Simmons, Cindy
@@ -563,7 +563,6 @@ vs:
  - Trider, Krista
  - Trombley, Christy
  - Tucker, Cindy
- - Turpin, Kelli
  - Unrau, Faye
  - Wall, Kirsten
  - Walsh, Jenna

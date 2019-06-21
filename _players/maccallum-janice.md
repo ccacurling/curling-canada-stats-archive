@@ -273,6 +273,7 @@ vs:
  - Santos, Deb
  - Schmirler, Sandra
  - Scott, Donna
+ - Sharpe, Kelli
  - Shigehiro, Sally
  - Sigurdson, Janine
  - Skinner, Julie
@@ -291,7 +292,6 @@ vs:
  - Taylor, Candy
  - Thomas, Maria
  - Turcotte, Kristin
- - Turpin, Kelli
  - Usher, Leanne
  - Wall, Kirsten
  - Walter, Cathy

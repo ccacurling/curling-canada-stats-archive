@@ -3,13 +3,13 @@ title: Kevin Koe vs Kirk Muyres
 player1:            
   name: Koe, Kevin  
   percent: 83       
-  wins: 2           
+  wins: 3           
   losses: 1         
 player2:            
   name: Muyres, Kirk
-  percent: 90       
+  percent: 86       
   wins: 1           
-  losses: 2         
+  losses: 3         
 games:
  - player1:          
      team: 'AB'      
@@ -59,4 +59,20 @@ games:
    year: 2016           
    draw: Round Robin(16)
    score: SK 5 - AB 7   
+ - player1:          
+     team: 'AB'      
+     position: Fourth
+     percent: 84     
+     win: 1          
+     loss: 0         
+   player2:          
+     team: 'SK'      
+     position: Fourth
+     percent: 69     
+     win: 0          
+     loss: 1         
+   event: Brier      
+   year: 2019        
+   draw: Pool(17)    
+   score: AB 9 - SK 3
 ---

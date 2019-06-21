@@ -290,6 +290,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Donna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shephard, Wendy
  - Sherrington, Barb
  - Simons, Renee
@@ -311,7 +312,6 @@ vs:
  - Tasaka, Adina
  - Thomas, Jill
  - Thurston, Jill
- - Turpin, Kelli
  - Wall, Kirsten
  - Walter, Cathy
  - Westcott, Raunora

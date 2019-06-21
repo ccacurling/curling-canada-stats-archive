@@ -68,7 +68,6 @@ years:
    shots-total: 35
    shots-percent: 70
  - year: 2014
-   event: Hearts
    team: Totals
    games: 5
    wins: 4
@@ -110,7 +109,7 @@ vs:
  - Blais, Amelie
  - Boyle, Jane
  - Bradley, Shelly
- - Brown, Rachelle
+ - Brown, Rachel
  - Collins, Katrina
  - Cooper, Kathryn
  - Courtney, Joanne

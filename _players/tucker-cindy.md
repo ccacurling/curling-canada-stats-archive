@@ -126,6 +126,7 @@ vs:
  - Sabourin, Joelle
  - Sanders, Pat
  - Scott, Donna
+ - Sharpe, Kelli
  - Sonnenberg, Renee
  - Stokes, Debbie
  - Street, Cindy
@@ -134,7 +135,6 @@ vs:
  - Tanner, Allison
  - Thomas, Maria
  - Tincher, Twyla
- - Turpin, Kelli
  - Werenka, Lil
  - Wheatcroft, Georgina
  - Whitrow, Leanne

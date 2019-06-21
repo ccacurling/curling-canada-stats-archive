@@ -2,14 +2,14 @@
 title: Ryan Fry vs Ty Griffith
 player1:            
   name: Fry, Ryan   
-  percent: 90       
-  wins: 4           
+  percent: 89       
+  wins: 5           
   losses: 0         
 player2:            
   name: Griffith, Ty
-  percent: 77       
+  percent: 79       
   wins: 0           
-  losses: 4         
+  losses: 5         
 games:
  - player1:         
      team: 'NL'     
@@ -75,4 +75,20 @@ games:
    year: 2017          
    draw: Round Robin(1)
    score: BC 7 - NO 9  
+ - player1:         
+     team: 'NO'     
+     position: Third
+     percent: 86    
+     win: 1         
+     loss: 0        
+   player2:          
+     team: 'BC'      
+     position: Second
+     percent: 92     
+     win: 0          
+     loss: 1         
+   event: Brier       
+   year: 2019         
+   draw: Pool(15)     
+   score: NO 11 - BC 5
 ---

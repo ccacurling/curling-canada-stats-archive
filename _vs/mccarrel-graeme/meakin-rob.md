@@ -39,8 +39,8 @@ games:
      percent: 89     
      win: 1          
      loss: 0         
-   event: Brier      
-   year: 2001        
-   draw: Playoff(20) 
-   score: MB 6 - ON 5
+   event: Brier        
+   year: 2001          
+   draw: Semi-Final(20)
+   score: MB 6 - ON 5  
 ---

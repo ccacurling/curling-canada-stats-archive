@@ -2,19 +2,19 @@
 title: E.J. Harnden
 name: E.J. Harnden
 name-sort: Harnden, E.J.
-games: 112
-wins: 74
-losses: 38
-inturn-total: 817
+games: 125
+wins: 83
+losses: 42
+inturn-total: 918
 inturn-percent: 86
-outturn-total: 1292
-outturn-percent: 86
-draw-total: 762
-draw-percent: 83
-takeout-total: 1347
+outturn-total: 1426
+outturn-percent: 87
+draw-total: 868
+draw-percent: 84
+takeout-total: 1476
 takeout-percent: 88
-shots-total: 2109
-shots-percent: 86
+shots-total: 2344
+shots-percent: 87
 years:
  - year: 2008
    event: Brier
@@ -169,7 +169,25 @@ years:
    takeout-percent: 90
    shots-total: 220
    shots-percent: 89
+ - year: 2019
+   event: Brier
+   team: "NO"
+   position: Second
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 101
+   inturn-percent: 90
+   outturn-total: 134
+   outturn-percent: 91
+   draw-total: 106
+   draw-percent: 90
+   takeout-total: 129
+   takeout-percent: 91
+   shots-total: 235
+   shots-percent: 91
 vs:
+ - Abel, Clinton
  - Adam, Gerry
  - Adams, Shawn
  - Anderson, Chris
@@ -177,13 +195,16 @@ vs:
  - Asselin, Felix
  - Bardsley, Mike
  - Barry, Josh
+ - Beuk, Jonathan
  - Bezanson, Jared
  - Bilesky, Andrew
+ - Boland, Adam
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Bouchard, Christian
  - Brannen, Jamie
  - Breckon, Graham
+ - Burgess, Steve
  - Burtnyk, Kerry
  - Buyck, James
  - Camm, Mathew
@@ -191,6 +212,7 @@ vs:
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
+ - Chadwick, Scott
  - Champion, Kevin
  - Chorostkowski, Brad
  - Clarey, Sean
@@ -215,6 +237,8 @@ vs:
  - Flasch, Colton
  - Flemming, Paul
  - Folk, Kevin
+ - Ford, Chris
+ - Forget, Wes
  - Fournier, Mike
  - Fowler, Rob
  - Fry, Ryan
@@ -241,6 +265,7 @@ vs:
  - Ireland, Clint
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Jewer, Keith
  - Jones, Brennen
  - Jones, Scott
  - Kammerlock, Dan
@@ -262,6 +287,8 @@ vs:
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
+ - Lemay, Philippe
+ - Likely, John
  - Lyburn, Allan
  - MacDonald, Blake
  - MacDonald, Rod
@@ -274,12 +301,15 @@ vs:
  - Manners, Scott
  - March, Tim
  - Markowsky, Rob
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Maskiewich, Ken
  - Mathers, David
  - McCann, Andy
  - McDermaid, Donald
+ - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
  - Meachem, Shaun Myles
@@ -304,6 +334,7 @@ vs:
  - Newson, Jamie
  - Nichols, Mark
  - Noftall, David
+ - Odian, Scott
  - Odishaw, Grant
  - Odishaw, Terry
  - Orme, Tyler
@@ -318,6 +349,7 @@ vs:
  - Roach, Jason
  - Robar, Mark
  - Robinson, Andrew
+ - Rowsell, Rick
  - Roy, Jean-Sebastien
  - Rycroft, Carter
  - Saccary, Scott
@@ -331,13 +363,16 @@ vs:
  - Shypitka, Tom
  - Simmons, Pat
  - Slauenwhite, David
+ - Smallwood, Robert
  - Smith, Garth
  - Smith, Kent
+ - Solberg, Jonathon
  - Spencer, Adam
  - St.Louis, David
  - Stoughton, Jeff
  - Sullivan, Charles Jr
  - Sylvain, Eric
+ - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
  - Trepanier, Jean-Francois
@@ -349,5 +384,6 @@ vs:
  - Watson, Aaron
  - Whitehead, Kevin
  - Whitehead, Mark
+ - Wood, Brad
  - Wozniak, Matt
 ---

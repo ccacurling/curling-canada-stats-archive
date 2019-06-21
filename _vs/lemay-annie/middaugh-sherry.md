@@ -57,7 +57,7 @@ games:
      loss: 0         
    event: Hearts     
    year: 2001        
-   draw: Playoff(20) 
+   draw: Page 3-4(20)
    score: QC 6 - ON 7
  - player1:          
      team: 'QC'      

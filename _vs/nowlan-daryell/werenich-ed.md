@@ -41,6 +41,6 @@ games:
      loss: 1         
    event: Brier      
    year: 1997        
-   draw: Playoff(18) 
+   draw: Page 3-4(18)
    score: NB 6 - ON 4
 ---

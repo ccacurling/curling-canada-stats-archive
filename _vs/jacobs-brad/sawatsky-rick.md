@@ -2,14 +2,14 @@
 title: Brad Jacobs vs Rick Sawatsky
 player1:              
   name: Jacobs, Brad  
-  percent: 81         
-  wins: 4             
+  percent: 82         
+  wins: 5             
   losses: 2           
 player2:              
   name: Sawatsky, Rick
-  percent: 89         
+  percent: 90         
   wins: 2             
-  losses: 4           
+  losses: 5           
 games:
  - player1:          
      team: 'NO'      
@@ -107,4 +107,20 @@ games:
    year: 2017          
    draw: Round Robin(1)
    score: BC 7 - NO 9  
+ - player1:          
+     team: 'NO'      
+     position: Fourth
+     percent: 92     
+     win: 1          
+     loss: 0         
+   player2:        
+     team: 'BC'    
+     position: Lead
+     percent: 98   
+     win: 0        
+     loss: 1       
+   event: Brier       
+   year: 2019         
+   draw: Pool(15)     
+   score: NO 11 - BC 5
 ---

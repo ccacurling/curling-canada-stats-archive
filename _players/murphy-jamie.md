@@ -92,7 +92,7 @@ vs:
  - Bice, Mark
  - Bice, Steve
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brannen, Jamie
  - Camm, Mathew
  - Carmody, Anson

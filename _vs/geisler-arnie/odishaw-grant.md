@@ -41,6 +41,6 @@ games:
      loss: 1       
    event: Brier      
    year: 1999        
-   draw: Playoff(19) 
+   draw: Page 3-4(19)
    score: NB 4 - SK 6
 ---

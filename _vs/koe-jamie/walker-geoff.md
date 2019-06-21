@@ -2,13 +2,13 @@
 title: Jamie Koe vs Geoff Walker
 player1:             
   name: Koe, Jamie   
-  percent: 78        
+  percent: 79        
   wins: 2            
-  losses: 4          
+  losses: 5          
 player2:             
   name: Walker, Geoff
-  percent: 91        
-  wins: 4            
+  percent: 92        
+  wins: 5            
   losses: 2          
 games:
  - player1:          
@@ -28,7 +28,7 @@ games:
    draw: Round Robin(8)
    score: NL 6 - TR 10 
  - player1:          
-     team: 'NT'      
+     team: 'TR'      
      position: Fourth
      percent: 82     
      win: 0          
@@ -42,7 +42,7 @@ games:
    event: Brier         
    year: 2013           
    draw: Round Robin(10)
-   score: NT 3 - NL 7   
+   score: TR 3 - NL 7   
  - player1:          
      team: 'TR'      
      position: Fourth
@@ -107,4 +107,20 @@ games:
    year: 2018          
    draw: Round Robin(6)
    score: CA 8 - NT 4  
+ - player1:          
+     team: 'NT'      
+     position: Fourth
+     percent: 86     
+     win: 0          
+     loss: 1         
+   player2:        
+     team: 'CA'    
+     position: Lead
+     percent: 94   
+     win: 1        
+     loss: 0       
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(4)
+   score: CA 7 - NT 5  
 ---

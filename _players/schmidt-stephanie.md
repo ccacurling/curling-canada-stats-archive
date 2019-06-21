@@ -60,14 +60,13 @@ vs:
  - Blais, Amelie
  - Boyle, Jane
  - Bradley, Shelly
- - Brown, Rachelle
+ - Brown, Rachel
  - Camozzi, Rhona
  - Collins, Katrina
  - Cooper, Kathryn
  - Courtney, Joanne
  - Cunningham, Jessica
  - Ferguson, Dana
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Gates, Amanda
  - Hastings, Julie
@@ -88,6 +87,7 @@ vs:
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Rourke, Brittany
+ - Pilote, Kristen
  - Richard, Marie
  - Robichaud, Sylvie
  - Rusnell, Jen

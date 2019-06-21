@@ -2,18 +2,18 @@
 title: Jill Officer
 name: Jill Officer
 name-sort: Officer, Jill
-games: 164
-wins: 127
+games: 166
+wins: 129
 losses: 37
-inturn-total: 1569
+inturn-total: 1589
 inturn-percent: 82
-outturn-total: 1463
+outturn-total: 1469
 outturn-percent: 84
-draw-total: 1049
+draw-total: 1062
 draw-percent: 78
-takeout-total: 1983
+takeout-total: 1996
 takeout-percent: 85
-shots-total: 3032
+shots-total: 3058
 shots-percent: 83
 years:
  - year: 2002
@@ -224,6 +224,55 @@ years:
    takeout-percent: 89
    shots-total: 222
    shots-percent: 89
+ - year: 2019
+   event: Hearts
+   team: "CA"
+   position: Lead
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 9
+   inturn-percent: 86
+   outturn-total: 1
+   outturn-percent: 100
+   draw-total: 6
+   draw-percent: 83
+   takeout-total: 4
+   takeout-percent: 94
+   shots-total: 10
+   shots-percent: 88
+ - year: 2019
+   event: Hearts
+   team: "CA"
+   position: Second
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 11
+   inturn-percent: 70
+   outturn-total: 5
+   outturn-percent: 100
+   draw-total: 7
+   draw-percent: 79
+   takeout-total: 9
+   takeout-percent: 81
+   shots-total: 16
+   shots-percent: 80
+ - year: 2019
+   team: Totals
+   games: 2
+   wins: 2
+   losses: 0
+   inturn-total: 20
+   inturn-percent: 78
+   outturn-total: 6
+   outturn-percent: 100
+   draw-total: 13
+   draw-percent: 81
+   takeout-total: 13
+   takeout-percent: 85
+   shots-total: 26
+   shots-percent: 83
 vs:
  - Adams, Melissa
  - Affleck, Tricia
@@ -253,7 +302,7 @@ vs:
  - Brennan, Amanda
  - Brothers, Jill
  - Brown, Jacalyn
- - Brown, Rachelle
+ - Brown, Rachel
  - Burgess, Carey
  - Bush, Tracy
  - Cameron, Nancy
@@ -305,7 +354,6 @@ vs:
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Fleury, Tracy
  - Fortier, Marie-Josee
@@ -347,7 +395,6 @@ vs:
  - Johnston, Kara
  - Jones, Colleen
  - Joyce, Blisse
- - Kaatz, Selena
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kelly, Kim
@@ -416,6 +463,7 @@ vs:
  - Muzika, Shelley
  - Naugler, Tara
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
@@ -434,6 +482,7 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Phillips, Kristen
+ - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
  - Power, Marie-Anne
@@ -463,6 +512,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shackleton, Amie
+ - Sharpe, Kelli
  - Shumay, Jill
  - Simmons, Cindy
  - Simons, Renee
@@ -487,7 +537,6 @@ vs:
  - Thompson, Karla
  - Thurston, Jill
  - Trombley, Christy
- - Turpin, Kelli
  - Udle, Teri
  - Vandale, Trysta
  - Van Osch, Kalia

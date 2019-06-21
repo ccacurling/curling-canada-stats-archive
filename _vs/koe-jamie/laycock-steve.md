@@ -2,13 +2,13 @@
 title: Jamie Koe vs Steve Laycock
 player1:              
   name: Koe, Jamie    
-  percent: 81         
+  percent: 80         
   wins: 0             
-  losses: 5           
+  losses: 6           
 player2:              
   name: Laycock, Steve
-  percent: 80         
-  wins: 5             
+  percent: 81         
+  wins: 6             
   losses: 0           
 games:
  - player1:          
@@ -91,4 +91,20 @@ games:
    year: 2016           
    draw: Round Robin(11)
    score: NT 4 - SK 5   
+ - player1:          
+     team: 'NT'      
+     position: Fourth
+     percent: 73     
+     win: 0          
+     loss: 1         
+   player2:         
+     team: 'BC'     
+     position: Third
+     percent: 89    
+     win: 1         
+     loss: 0        
+   event: Brier         
+   year: 2019           
+   draw: Round Robin(12)
+   score: NT 5 - BC 9   
 ---

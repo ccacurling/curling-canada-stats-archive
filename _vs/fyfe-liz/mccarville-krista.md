@@ -4,11 +4,11 @@ player1:
   name: Fyfe, Liz         
   percent: 89             
   wins: 1                 
-  losses: 1               
+  losses: 2               
 player2:                  
   name: McCarville, Krista
-  percent: 71             
-  wins: 1                 
+  percent: 77             
+  wins: 2                 
   losses: 1               
 games:
  - player1:          
@@ -43,4 +43,20 @@ games:
    year: 2016        
    draw: Page 3-4(19)
    score: NO 7 - MB 5
+ - player1:          
+     team: 'MB'      
+     position: Second
+     percent: 90     
+     win: 0          
+     loss: 1         
+   player2:          
+     team: 'NO'      
+     position: Fourth
+     percent: 88     
+     win: 1          
+     loss: 0         
+   event: Hearts        
+   year: 2019           
+   draw: Round Robin(13)
+   score: MB 5 - NO 7   
 ---

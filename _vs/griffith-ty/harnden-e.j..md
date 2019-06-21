@@ -2,13 +2,13 @@
 title: Ty Griffith vs E.J. Harnden
 player1:             
   name: Griffith, Ty 
-  percent: 83        
+  percent: 84        
   wins: 1            
-  losses: 3          
+  losses: 4          
 player2:             
   name: Harnden, E.J.
-  percent: 90        
-  wins: 3            
+  percent: 89        
+  wins: 4            
   losses: 1          
 games:
  - player1:          
@@ -75,4 +75,20 @@ games:
    year: 2017          
    draw: Round Robin(1)
    score: BC 7 - NO 9  
+ - player1:          
+     team: 'BC'      
+     position: Second
+     percent: 92     
+     win: 0          
+     loss: 1         
+   player2:          
+     team: 'NO'      
+     position: Second
+     percent: 85     
+     win: 1          
+     loss: 0         
+   event: Brier       
+   year: 2019         
+   draw: Pool(15)     
+   score: NO 11 - BC 5
 ---

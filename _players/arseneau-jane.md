@@ -102,7 +102,6 @@ years:
    shots-total: 20
    shots-percent: 63
  - year: 1999
-   event: Hearts
    team: Totals
    games: 10
    wins: 4
@@ -169,7 +168,6 @@ years:
    shots-total: 100
    shots-percent: 78
  - year: 2002
-   event: Hearts
    team: Totals
    games: 11
    wins: 2
@@ -334,6 +332,7 @@ vs:
  - Scales, Julie
  - Schikowski, Keri-Lynn
  - Schmirler, Sandra
+ - Sharpe, Kelli
  - Shields, Deanne
  - Skinner, Julie
  - Sonnenberg, Renee
@@ -349,7 +348,6 @@ vs:
  - Trider, Krista
  - Trowell, Cathy
  - Tucker, Cindy
- - Turpin, Kelli
  - Wheatcroft, Georgina
  - Whitaker, Lise
  - Wiltzen, Jan

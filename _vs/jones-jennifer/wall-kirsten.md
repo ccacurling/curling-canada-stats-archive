@@ -39,8 +39,8 @@ games:
      percent: 89    
      win: 0         
      loss: 1        
-   event: Hearts     
-   year: 2008        
-   draw: Page 3-4(21)
-   score: ON 8 - MB 9
+   event: Hearts       
+   year: 2008          
+   draw: Semi-Final(21)
+   score: ON 8 - MB 9  
 ---

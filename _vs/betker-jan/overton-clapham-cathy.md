@@ -57,7 +57,7 @@ games:
      loss: 0        
    event: Hearts     
    year: 1995        
-   draw: Playoff(21) 
+   draw: Page 1-2(21)
    score: MB 6 - CA 4
  - player1:          
      team: 'SK'      

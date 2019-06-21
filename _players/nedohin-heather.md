@@ -153,7 +153,6 @@ years:
    shots-total: 148
    shots-percent: 79
  - year: 2017
-   event: Hearts
    team: Totals
    games: 9
    wins: 4
@@ -333,6 +332,7 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shumay, Jill
  - Sivertson, Dailene
  - Skinner, Julie
@@ -351,7 +351,6 @@ vs:
  - Tincher, Twyla
  - Trowell, Cathy
  - Tucker, Cindy
- - Turpin, Kelli
  - Udle, Teri
  - Vey, Lana
  - Walsh, Jenna

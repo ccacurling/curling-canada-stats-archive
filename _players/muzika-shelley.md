@@ -270,6 +270,7 @@ vs:
  - Schmirler, Sandra
  - Schneider, Sheila
  - Scott, Donna
+ - Sharpe, Kelli
  - Shields, Gail
  - Sigurdson, Janine
  - Singler, Sherri
@@ -288,7 +289,6 @@ vs:
  - Treloar, Cathy
  - Trowell, Cathy
  - Turcotte, Kristin
- - Turpin, Kelli
  - Usher, Leanne
  - Vey, Lana
  - Wheatcroft, Georgina

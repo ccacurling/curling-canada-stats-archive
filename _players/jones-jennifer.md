@@ -2,19 +2,19 @@
 title: Jennifer Jones
 name: Jennifer Jones
 name-sort: Jones, Jennifer
-games: 176
-wins: 135
-losses: 41
-inturn-total: 1665
+games: 187
+wins: 141
+losses: 46
+inturn-total: 1780
 inturn-percent: 80
-outturn-total: 1518
-outturn-percent: 79
-draw-total: 1428
-draw-percent: 79
-takeout-total: 1755
+outturn-total: 1612
+outturn-percent: 78
+draw-total: 1535
+draw-percent: 78
+takeout-total: 1857
 takeout-percent: 80
-shots-total: 3183
-shots-percent: 80
+shots-total: 3392
+shots-percent: 79
 years:
  - year: 2002
    event: Hearts
@@ -237,6 +237,23 @@ years:
    takeout-percent: 84
    shots-total: 219
    shots-percent: 84
+ - year: 2019
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 115
+   inturn-percent: 74
+   outturn-total: 94
+   outturn-percent: 71
+   draw-total: 107
+   draw-percent: 71
+   takeout-total: 102
+   takeout-percent: 74
+   shots-total: 209
+   shots-percent: 73
 vs:
  - Adams, Melissa
  - Affleck, Tricia
@@ -251,6 +268,7 @@ vs:
  - Atkinson, Rebecca
  - Ayrey, Jinaye
  - Babin, Jillian
+ - Baldwin, Nicole
  - Barbour, Shona
  - Baxter, Jen
  - Beauchamp, Sasha
@@ -261,12 +279,16 @@ vs:
  - Bernard, Cheryl
  - Bernard, Krista
  - Betker, Jan
+ - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Blackburn, Julie
  - Blais, Amelie
+ - Blaney, Jennifer
  - Blashko, Denise
+ - Bodner, Jenine
  - Bohmer, Brenda
+ - Boudreault, Patricia
  - Boyle, Jane
  - Bradley, Shelly
  - Brassard, Veronique
@@ -274,7 +296,7 @@ vs:
  - Brothers, Jill
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Rachelle
+ - Brown, Rachel
  - Burgess, Carey
  - Burlington, Cheryl
  - Bush, Tracy
@@ -304,6 +326,7 @@ vs:
  - Cunningham, Jennifer
  - Cunningham, Jessica
  - Curtis, Stacie
+ - Daigle, Julie
  - Daniel, Sylvie
  - Darbyshire, Carolyn
  - deJager, Blaine
@@ -328,7 +351,6 @@ vs:
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Fleury, Tracy
  - Floyd, Kathy
@@ -340,6 +362,7 @@ vs:
  - Gagnon, Nathalie
  - Galusha, Kerry
  - Gates, Amanda
+ - Gates, Jenny
  - George, Tara
  - Gibson, Amy
  - Gignac, Donna
@@ -347,6 +370,7 @@ vs:
  - Goss, Peg
  - Graham-MacDonald, Bea
  - Gregoire, Veronique
+ - Griffin, Alison
  - Gudereit, Marcia
  - Gushulak, Diane
  - Guzzwell, Stephanie
@@ -368,14 +392,15 @@ vs:
  - Horne, Kate
  - Howard, Ashley
  - Hughes, Meaghan
+ - Hunkin, Jessie
  - Hutchings, Denise
  - Inglis, Nancy
+ - Ingram, Megan
  - Iskiw, Beth
  - Jewer, Michelle
  - Johnston, Kara
  - Jones, Colleen
  - Joyce, Blisse
- - Kaatz, Selena
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kaylo, Kelly
@@ -394,6 +419,7 @@ vs:
  - Lang, Lorraine
  - Larouche, Marie-France
  - Lavery, Tracey
+ - Lavoie, Gabrielle
  - Law, Kelley
  - Lawes, Andrea
  - Lawton, Stefanie
@@ -444,11 +470,13 @@ vs:
  - Moses, Dawn
  - Muise, Morgan
  - Mulroney, Sandra
+ - Munroe, Anna
  - Murphy, Jeanette
  - Murphy, Sarah
  - Muzika, Shelley
  - Naugler, Tara
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
@@ -467,6 +495,7 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Phillips, Kristen
+ - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
  - Power, Marie-Anne
@@ -489,6 +518,7 @@ vs:
  - Rusnell, Jen
  - Sabourin, Joelle
  - Sagle, Karen
+ - Sandwith, Carley
  - Scales, Julie
  - Scheidegger, Casey
  - Scheidegger, Jessie
@@ -498,7 +528,10 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shackleton, Amie
+ - Sharpe, Kelli
+ - Shaw, Ladene
  - Shumay, Jill
+ - Silvernagle, Robyn
  - Simmons, Cindy
  - Simons, Renee
  - Singler, Sherri
@@ -513,17 +546,19 @@ vs:
  - Spencer, Barb
  - Streifel, Tracy
  - Strong, Heather
+ - Strong, Helen
  - Strong, Laura
  - Stubbings, Tiffany
  - Surik, Teejay
  - Sweeting, Valerie
  - Tanner, Ros
+ - Thevenot, Kara
  - Thomas, Jill
  - Thompson, Karla
  - Thurston, Jill
+ - Tran, Brittany
  - Trider, Krista
  - Trombley, Christy
- - Turpin, Kelli
  - Udle, Teri
  - Vandale, Trysta
  - Van Osch, Kalia
@@ -533,6 +568,7 @@ vs:
  - Vey, Lana
  - Wall, Kirsten
  - Walsh, Jenna
+ - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa
@@ -542,6 +578,7 @@ vs:
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whitaker, Carol
+ - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
  - Wylie, Jennifer

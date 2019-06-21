@@ -102,7 +102,6 @@ vs:
  - Dolan, Sinead
  - Duncan, Chelsea
  - Ellis, Danielle
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Flaxey, Allison
  - Foster, Kristen
@@ -148,6 +147,7 @@ vs:
  - Overton-Clapham, Cathy
  - Parsons, Danielle
  - Phillips, Kristen
+ - Pilote, Kristen
  - Rainville, Julie
  - Ramsay, Geri Lynn
  - Richard, Marie

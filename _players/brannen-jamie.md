@@ -2,19 +2,19 @@
 title: Jamie Brannen
 name: Jamie Brannen
 name-sort: Brannen, Jamie
-games: 22
-wins: 4
-losses: 18
-inturn-total: 207
-inturn-percent: 84
-outturn-total: 211
-outturn-percent: 88
-draw-total: 360
-draw-percent: 86
-takeout-total: 58
-takeout-percent: 87
-shots-total: 418
-shots-percent: 86
+games: 24
+wins: 5
+losses: 19
+inturn-total: 222
+inturn-percent: 82
+outturn-total: 222
+outturn-percent: 87
+draw-total: 376
+draw-percent: 85
+takeout-total: 68
+takeout-percent: 84
+shots-total: 444
+shots-percent: 85
 years:
  - year: 2016
    event: Brier
@@ -68,7 +68,6 @@ years:
    shots-total: 20
    shots-percent: 85
  - year: 2017
-   event: Brier
    team: Totals
    games: 11
    wins: 1
@@ -83,9 +82,27 @@ years:
    takeout-percent: 86
    shots-total: 210
    shots-percent: 86
+ - year: 2019
+   event: Brier
+   team: "NB"
+   position: Second
+   games: 2
+   wins: 1
+   losses: 1
+   inturn-total: 15
+   inturn-percent: 60
+   outturn-total: 11
+   outturn-percent: 68
+   draw-total: 16
+   draw-percent: 59
+   takeout-total: 10
+   takeout-percent: 70
+   shots-total: 26
+   shots-percent: 63
 vs:
+ - Aho, David
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Carmody, Anson
  - Casey, Adam
  - Chorostkowski, Brad
@@ -115,6 +132,7 @@ vs:
  - Martin, Karrick
  - Mathers, David
  - McEwen, Mike
+ - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -125,7 +143,9 @@ vs:
  - Muyres, Kirk
  - Neufeld, B.J.
  - Neufeld, Denni
+ - Ng, Matt
  - Nichols, Mark
+ - Parsons, Cole
  - Pinder, Jordan
  - Rycroft, Carter
  - Saccary, Scott

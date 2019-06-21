@@ -60,12 +60,12 @@ vs:
  - Ross, Allison
  - Sabourin, Joelle
  - Sanders, Pat
+ - Sharpe, Kelli
  - Sonnenberg, Renee
  - Street, Cindy
  - Strong, Heather
  - Tanner, Allison
  - Thurston, Jill
  - Tucker, Cindy
- - Turpin, Kelli
  - Wright, Susan
 ---

@@ -178,7 +178,7 @@ vs:
  - Breen, Theresa
  - Brothers, Jill
  - Brown, Janet
- - Brown, Rachelle
+ - Brown, Rachel
  - Bryant, Angie
  - Burlington, Cheryl
  - Cameron, Nancy
@@ -216,7 +216,6 @@ vs:
  - Fallis-Kurz, Lynn
  - Farrell, Allison
  - Ferguson, Dana
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Fisher, Alana
  - Flannigan, Lorraine
@@ -268,7 +267,6 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Jurgenson, Christine
- - Kaatz, Selena
  - Kaylo, Kelly
  - Kelly, Kim
  - Kerr, Kathy
@@ -322,6 +320,7 @@ vs:
  - Moses, Dawn
  - Moss, Debbie
  - Muzika, Shelley
+ - Njegovan, Selena
  - Nixon, Amy
  - Nugent, Pamela
  - Officer, Jill
@@ -334,6 +333,7 @@ vs:
  - Parsons, Danielle
  - Peters, Laine
  - Phillips, Laura
+ - Pilote, Kristen
  - Power, Marie-Anne
  - Price, Kara
  - Purdy, Karen

@@ -62,7 +62,7 @@ vs:
  - Black, Christina
  - Boyle, Jane
  - Bradley, Shelly
- - Brown, Rachelle
+ - Brown, Rachel
  - Cameron, Kate
  - Camozzi, Rhona
  - Carey, Chelsea
@@ -81,7 +81,6 @@ vs:
  - Englot, Michelle
  - Eyamie, Lisa
  - Ferguson, Dana
- - Fewster, Kristen
  - Fullerton, Sarah
  - Galusha, Kerry
  - Gates, Amanda
@@ -112,6 +111,7 @@ vs:
  - Olson-Johns, Lori
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
  - Richard, Marie

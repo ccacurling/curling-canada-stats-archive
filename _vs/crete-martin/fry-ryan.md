@@ -4,11 +4,11 @@ player1:
   name: Crete, Martin
   percent: 84        
   wins: 0            
-  losses: 5          
+  losses: 6          
 player2:             
   name: Fry, Ryan    
   percent: 91        
-  wins: 5            
+  wins: 6            
   losses: 0          
 games:
  - player1:         
@@ -91,4 +91,20 @@ games:
    year: 2017          
    draw: Round Robin(4)
    score: QC 8 - NO 9  
+ - player1:          
+     team: 'QC'      
+     position: Fourth
+     percent: 86     
+     win: 0          
+     loss: 1         
+   player2:         
+     team: 'NO'     
+     position: Third
+     percent: 92    
+     win: 1         
+     loss: 0        
+   event: Brier        
+   year: 2019          
+   draw: Round Robin(5)
+   score: NO 7 - QC 3  
 ---

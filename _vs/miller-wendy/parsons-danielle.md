@@ -44,7 +44,7 @@ games:
    draw: Round Robin(3)
    score: NS 5 - TR 10 
  - player1:        
-     team: 'NT'    
+     team: 'TR'    
      position: Lead
      percent: 63   
      win: 0        
@@ -58,5 +58,5 @@ games:
    event: Hearts       
    year: 2013          
    draw: Round Robin(5)
-   score: NB 9 - NT 5  
+   score: NB 9 - TR 5  
 ---

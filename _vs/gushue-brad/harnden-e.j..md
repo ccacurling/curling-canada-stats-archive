@@ -2,13 +2,13 @@
 title: Brad Gushue vs E.J. Harnden
 player1:             
   name: Gushue, Brad 
-  percent: 85        
+  percent: 86        
   wins: 7            
-  losses: 5          
+  losses: 6          
 player2:             
   name: Harnden, E.J.
   percent: 87        
-  wins: 5            
+  wins: 6            
   losses: 7          
 games:
  - player1:          
@@ -203,4 +203,20 @@ games:
    year: 2018        
    draw: Pool(18)    
    score: CA 5 - NO 3
+ - player1:          
+     team: 'CA'      
+     position: Fourth
+     percent: 92     
+     win: 0          
+     loss: 1         
+   player2:          
+     team: 'NO'      
+     position: Second
+     percent: 90     
+     win: 1          
+     loss: 0         
+   event: Brier      
+   year: 2019        
+   draw: Pool(17)    
+   score: NO 7 - CA 6
 ---

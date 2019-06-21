@@ -2,14 +2,14 @@
 title: Shona Barbour vs Andrea Crawford
 player1:                
   name: Barbour, Shona  
-  percent: 85           
-  wins: 1               
+  percent: 80           
+  wins: 2               
   losses: 1             
 player2:                
   name: Crawford, Andrea
-  percent: 81           
+  percent: 80           
   wins: 1               
-  losses: 1             
+  losses: 2             
 games:
  - player1:          
      team: 'TR'      
@@ -43,4 +43,20 @@ games:
    year: 2011          
    draw: Round Robin(9)
    score: NB 4 - TR 7  
+ - player1:        
+     team: 'NT'    
+     position: Lead
+     percent: 67   
+     win: 1        
+     loss: 0       
+   player2:          
+     team: 'NB'      
+     position: Fourth
+     percent: 77     
+     win: 0          
+     loss: 1         
+   event: Hearts       
+   year: 2019          
+   draw: Round Robin(2)
+   score: NT 11 - NB 5 
 ---

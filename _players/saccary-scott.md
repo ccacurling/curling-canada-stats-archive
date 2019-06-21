@@ -53,7 +53,7 @@ years:
 vs:
  - Appelman, Tom
  - Borden, Robert
- - Bottchar, Brendan
+ - Bottcher, Brendan
  - Brannen, Jamie
  - Camm, Mathew
  - Carruthers, Reid

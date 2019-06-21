@@ -102,7 +102,7 @@ vs:
  - Bohmer, Brenda
  - Bradley, Shelly
  - Brothers, Jill
- - Brown, Rachelle
+ - Brown, Rachel
  - Bush, Tracy
  - Byers, Denise
  - Carey, Chelsea
@@ -201,6 +201,7 @@ vs:
  - Sandwith, Carley
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shumay, Jill
  - Simons, Renee
  - Sinclair, Andrea
@@ -215,7 +216,6 @@ vs:
  - Tincher, Twyla
  - Titheridge, Lindsay
  - Tucker, Cindy
- - Turpin, Kelli
  - Udle, Teri
  - Van Osch, Kesa
  - Wallingham, Patty

@@ -39,8 +39,8 @@ games:
      percent: 73    
      win: 0         
      loss: 1        
-   event: Brier       
-   year: 1996         
-   draw: Playoff(18)  
-   score: NL 6 - PE 10
+   event: Brier         
+   year: 1996           
+   draw: Tie-Breaker(18)
+   score: NL 6 - PE 10  
 ---

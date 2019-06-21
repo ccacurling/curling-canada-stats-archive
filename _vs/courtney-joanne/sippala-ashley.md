@@ -39,8 +39,8 @@ games:
      percent: 93     
      win: 0          
      loss: 1         
-   event: Hearts     
-   year: 2017        
-   draw: Playoff(20) 
-   score: NO 5 - ON 7
+   event: Hearts       
+   year: 2017          
+   draw: Semi-Final(20)
+   score: NO 5 - ON 7  
 ---

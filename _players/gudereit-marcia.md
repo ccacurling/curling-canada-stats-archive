@@ -348,6 +348,7 @@ vs:
  - Schikowski, Keri-Lynn
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shields, Deanne
  - Shigehiro, Sally
  - Simons, Renee
@@ -367,7 +368,6 @@ vs:
  - Todd, Fran
  - Trowell, Cathy
  - Turcotte, Kristin
- - Turpin, Kelli
  - Udle, Teri
  - Unrau, Faye
  - Usher, Leanne

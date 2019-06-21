@@ -2,19 +2,19 @@
 title: Chelsea Carey
 name: Chelsea Carey
 name-sort: Carey, Chelsea
-games: 40
-wins: 31
-losses: 9
-inturn-total: 367
-inturn-percent: 84
-outturn-total: 402
-outturn-percent: 84
-draw-total: 308
-draw-percent: 83
-takeout-total: 461
-takeout-percent: 85
-shots-total: 769
-shots-percent: 84
+games: 53
+wins: 42
+losses: 11
+inturn-total: 487
+inturn-percent: 83
+outturn-total: 536
+outturn-percent: 83
+draw-total: 424
+draw-percent: 81
+takeout-total: 599
+takeout-percent: 84
+shots-total: 1023
+shots-percent: 83
 years:
  - year: 2014
    event: Hearts
@@ -67,19 +67,42 @@ years:
    takeout-percent: 83
    shots-total: 252
    shots-percent: 81
+ - year: 2019
+   event: Hearts
+   team: "AB"
+   position: Fourth
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 120
+   inturn-percent: 78
+   outturn-total: 134
+   outturn-percent: 80
+   draw-total: 116
+   draw-percent: 76
+   takeout-total: 138
+   takeout-percent: 81
+   shots-total: 254
+   shots-percent: 79
 vs:
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Anderson, Sherry
  - Atkinson, Rebecca
  - Baier, Stephanie
+ - Baldwin, Nicole
+ - Barbour, Shona
  - Barker, Penny
  - Belisle, Eve
+ - Birnie, Hailey
  - Birt, Suzanne
  - Blais, Amelie
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Boudreault, Patricia
  - Boyle, Jane
  - Brothers, Jill
- - Brown, Rachelle
+ - Brown, Rachel
  - Cameron, Kate
  - Campbell, Jolene
  - Christianson, Marie
@@ -92,6 +115,7 @@ vs:
  - Cunningham, Jessica
  - Curtis, Stacie
  - Cutcliffe, Margaret
+ - Daigle, Julie
  - deJager, Blaine
  - Derry, Danielle
  - deSolla, Jodie
@@ -109,6 +133,10 @@ vs:
  - Fyfe, Liz
  - Galusha, Kerry
  - Gannon, Melissa
+ - Gates, Jenny
+ - Griffin, Alison
+ - Guzzwell, Stephanie
+ - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
@@ -116,9 +144,11 @@ vs:
  - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
+ - Hunkin, Jessie
+ - Ingram, Megan
+ - Jewer, Michelle
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kasner, Marliese
  - Kleibrink, Shannon
  - Koehler, Megan
@@ -127,6 +157,7 @@ vs:
  - Kreviazuk, Lynn
  - Larouche, Marie-France
  - Lavery, Tracey
+ - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lemay, Annie
@@ -141,13 +172,17 @@ vs:
  - McEwen, Dawn
  - McQuaid, Michelle
  - Miskew, Emma
+ - Munroe, Anna
  - Murphy, Sarah
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nugent, Pamela
  - Officer, Jill
  - O'Neill, Brit
  - O'Rourke, Brittany
  - Parsons, Danielle
+ - Peterman, Jocelyn
+ - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
  - Recksiedler, Kristen
@@ -156,27 +191,35 @@ vs:
  - Robichaud, Sylvie
  - Robison, Michala
  - Ross, Allison
+ - Rusnell, Jen
  - Sagle, Karen
  - Sanderson, Jessie
  - Sandwith, Carley
  - Saulnier, Andrea
  - Schneider, Lorraine
+ - Sharpe, Kelli
+ - Shaw, Ladene
  - Sicinski, Danielle
+ - Silvernagle, Robyn
  - Sinclair, Andrea
  - Singler, Sherri
  - Sippala, Ashley
  - Smith, Heather
  - Strong, Heather
+ - Strong, Helen
  - Strong, Laura
  - Sweeting, Valerie
+ - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla
+ - Tran, Brittany
  - Trickett, Erica
  - Udle, Teri
  - Vandale, Trysta
  - Van Osch, Kesa
  - Vautour, Carrie
  - Wallingham, Patty
+ - Wark, Sarah
  - Weagle, Lisa
  - Westcott, Raunora
  - Wilkes, Sarah

@@ -2,13 +2,13 @@
 title: Ty Griffith vs Dallan Muyres
 player1:              
   name: Griffith, Ty  
-  percent: 89         
+  percent: 86         
   wins: 1             
-  losses: 2           
+  losses: 3           
 player2:              
   name: Muyres, Dallan
-  percent: 85         
-  wins: 2             
+  percent: 89         
+  wins: 3             
   losses: 1           
 games:
  - player1:          
@@ -59,4 +59,20 @@ games:
    year: 2016          
    draw: Round Robin(4)
    score: SK 8 - BC 4  
+ - player1:          
+     team: 'BC'      
+     position: Second
+     percent: 78     
+     win: 0          
+     loss: 1         
+   player2:        
+     team: 'SK'    
+     position: Lead
+     percent: 98   
+     win: 1        
+     loss: 0       
+   event: Brier      
+   year: 2019        
+   draw: Pool(18)    
+   score: BC 5 - SK 6
 ---

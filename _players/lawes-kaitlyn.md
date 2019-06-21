@@ -2,18 +2,18 @@
 title: Kaitlyn Lawes
 name: Kaitlyn Lawes
 name-sort: Lawes, Kaitlyn
-games: 68
-wins: 53
-losses: 15
-inturn-total: 635
-inturn-percent: 83
-outturn-total: 641
-outturn-percent: 84
-draw-total: 448
-draw-percent: 82
-takeout-total: 828
-takeout-percent: 84
-shots-total: 1276
+games: 79
+wins: 59
+losses: 20
+inturn-total: 749
+inturn-percent: 82
+outturn-total: 743
+outturn-percent: 83
+draw-total: 544
+draw-percent: 81
+takeout-total: 948
+takeout-percent: 83
+shots-total: 1492
 shots-percent: 83
 years:
  - year: 2011
@@ -101,6 +101,23 @@ years:
    takeout-percent: 87
    shots-total: 262
    shots-percent: 86
+ - year: 2019
+   event: Hearts
+   team: "CA"
+   position: Third
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 114
+   inturn-percent: 80
+   outturn-total: 102
+   outturn-percent: 76
+   draw-total: 96
+   draw-percent: 78
+   takeout-total: 120
+   takeout-percent: 79
+   shots-total: 216
+   shots-percent: 78
 vs:
  - Anderson, Sherry
  - Armstrong, Jacquie
@@ -108,18 +125,23 @@ vs:
  - Atkinson, Rebecca
  - Ayrey, Jinaye
  - Babin, Jillian
+ - Baldwin, Nicole
  - Barbour, Shona
  - Baxter, Jen
  - Beauchamp, Sasha
  - Bell, Chelsey
+ - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Boudreault, Patricia
  - Boyle, Jane
  - Bradley, Shelly
  - Brassard, Veronique
  - Brothers, Jill
- - Brown, Rachelle
+ - Brown, Rachel
  - Cameron, Nancy
  - Camozzi, Rhona
  - Campbell, Jolene
@@ -136,6 +158,7 @@ vs:
  - Cunningham, Jennifer
  - Cunningham, Jessica
  - Curtis, Stacie
+ - Daigle, Julie
  - deJager, Blaine
  - deSolla, Jodie
  - Devereaux, Julie
@@ -147,14 +170,16 @@ vs:
  - Englot, Michelle
  - Fallis, Karen
  - Ferguson, Dana
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
+ - Gates, Jenny
  - Gregoire, Veronique
+ - Griffin, Alison
  - Guzzwell, Stephanie
+ - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
@@ -165,21 +190,25 @@ vs:
  - Horgan, Tracy
  - Howard, Ashley
  - Hughes, Meaghan
+ - Hunkin, Jessie
+ - Ingram, Megan
  - Iskiw, Beth
+ - Jewer, Michelle
  - Johnston, Kara
  - Jones, Colleen
  - Joyce, Blisse
- - Kaatz, Selena
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kelly, Kim
  - Kleibrink, Shannon
  - Knezevic, Patti
  - Koehler, Megan
+ - Koltun, Sarah
  - Korab, Stephanie
  - Kreviazuk, Alison
  - Larouche, Marie-France
  - Lavery, Tracey
+ - Lavoie, Gabrielle
  - Lawton, Stefanie
  - Lemay, Annie
  - Lilly, Kendra
@@ -199,8 +228,10 @@ vs:
  - Miskew, Emma
  - Moore, Kristie
  - Moses, Dawn
+ - Munroe, Anna
  - Murphy, Sarah
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Nowlan, Denise
@@ -212,6 +243,7 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
  - Rainville, Julie
@@ -221,12 +253,16 @@ vs:
  - Ross, Allison
  - Rusnell, Jen
  - Sagle, Karen
+ - Sandwith, Carley
  - Schmidt, Stephanie
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
+ - Shaw, Ladene
  - Shumay, Jill
+ - Silvernagle, Robyn
  - Sippala, Ashley
  - Sivertson, Dailene
  - Slywka, Sarah
@@ -235,20 +271,25 @@ vs:
  - Snyder, Jane
  - Sobey, Lianne
  - Strong, Heather
+ - Strong, Helen
  - Strong, Laura
  - Sweeting, Valerie
+ - Thevenot, Kara
  - Thompson, Karla
+ - Tran, Brittany
  - Trombley, Christy
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie
  - Vey, Lana
  - Walsh, Jenna
+ - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa
  - Webster, Bronwen
  - Webster, Crystal
+ - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
  - Wylie, Jennifer

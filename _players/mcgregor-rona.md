@@ -74,12 +74,12 @@ vs:
  - Phillips, Margaret Lea
  - Renouf, Michele
  - Sabourin, Joelle
+ - Sharpe, Kelli
  - Skinner, Julie
  - Smith, Heather
  - Stahl, Carrie
  - Stewart, Sheri
  - Strong, Heather
- - Turpin, Kelli
  - Walter, Cathy
  - Wheatcroft, Georgina
  - Whitrow, Leanne

@@ -76,7 +76,7 @@ vs:
  - Blais, Amelie
  - Boyle, Jane
  - Bradley, Shelly
- - Brown, Rachelle
+ - Brown, Rachel
  - Camozzi, Rhona
  - Carter, Sasha
  - Cheveldave, Amber
@@ -92,7 +92,6 @@ vs:
  - Dufresne, Audree
  - Dykstra, Michelle
  - Ferguson, Dana
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Fullerton, Sarah
  - Galusha, Kerry
@@ -127,6 +126,7 @@ vs:
  - O'Rourke, Brittany
  - Parsons, Danielle
  - Peters, Laine
+ - Pilote, Kristen
  - Porter, Erin
  - Richard, Marie
  - Robichaud, Sylvie

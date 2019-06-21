@@ -4,11 +4,11 @@ player1:
   name: Carruthers, Reid
   percent: 87           
   wins: 1               
-  losses: 5             
+  losses: 6             
 player2:                
   name: Fry, Ryan       
-  percent: 88           
-  wins: 5               
+  percent: 89           
+  wins: 6               
   losses: 1             
 games:
  - player1:          
@@ -107,4 +107,20 @@ games:
    year: 2018           
    draw: Round Robin(13)
    score: MB 3 - NO 6   
+ - player1:         
+     team: 'MB'     
+     position: Third
+     percent: 85    
+     win: 0         
+     loss: 1        
+   player2:         
+     team: 'NO'     
+     position: Third
+     percent: 96    
+     win: 1         
+     loss: 0        
+   event: Brier         
+   year: 2019           
+   draw: Round Robin(11)
+   score: NO 9 - MB 5   
 ---

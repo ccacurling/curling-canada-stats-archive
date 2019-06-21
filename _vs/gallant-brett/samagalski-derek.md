@@ -2,14 +2,14 @@
 title: Brett Gallant vs Derek Samagalski
 player1:                 
   name: Gallant, Brett   
-  percent: 92            
-  wins: 1                
+  percent: 88            
+  wins: 2                
   losses: 1              
 player2:                 
   name: Samagalski, Derek
   percent: 90            
   wins: 1                
-  losses: 1              
+  losses: 2              
 games:
  - player1:          
      team: 'NL'      
@@ -43,4 +43,20 @@ games:
    year: 2018        
    draw: Pool(15)    
    score: CA 7 - MB 2
+ - player1:          
+     team: 'CA'      
+     position: Second
+     percent: 80     
+     win: 1          
+     loss: 0         
+   player2:          
+     team: 'MB'      
+     position: Second
+     percent: 89     
+     win: 0          
+     loss: 1         
+   event: Brier      
+   year: 2019        
+   draw: Pool(15)    
+   score: CA 6 - MB 3
 ---

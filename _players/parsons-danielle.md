@@ -100,7 +100,7 @@ vs:
  - Bradley, Shelly
  - Brassard, Veronique
  - Brothers, Jill
- - Brown, Rachelle
+ - Brown, Rachel
  - Cameron, Nancy
  - Carey, Chelsea
  - Carter, Sasha

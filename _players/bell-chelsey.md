@@ -155,6 +155,7 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Simmons, Cindy
  - Simons, Renee
  - Smith, Heather
@@ -163,7 +164,6 @@ vs:
  - Strong, Laura
  - Surik, Teejay
  - Thompson, Karla
- - Turpin, Kelli
  - Udle, Teri
  - Wall, Kirsten
  - Weagle, Lisa

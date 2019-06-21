@@ -341,6 +341,7 @@ vs:
  - Schmirler, Sandra
  - Schneider, Lorraine
  - Scott, Kelly
+ - Sharpe, Kelli
  - Sherrington, Barb
  - Sicinski, Danielle
  - Simons, Renee
@@ -364,7 +365,6 @@ vs:
  - Trickett, Erica
  - Trowell, Cathy
  - Turcotte, Kristin
- - Turpin, Kelli
  - Usher, Leanne
  - Walker, Lisa
  - Weagle, Lisa

@@ -2,18 +2,18 @@
 title: Kerry Galusha
 name: Kerry Galusha
 name-sort: Galusha, Kerry
-games: 117
-wins: 32
-losses: 85
-inturn-total: 1158
+games: 124
+wins: 35
+losses: 89
+inturn-total: 1225
 inturn-percent: 69
-outturn-total: 1038
+outturn-total: 1095
 outturn-percent: 71
-draw-total: 1125
+draw-total: 1195
 draw-percent: 69
-takeout-total: 1071
+takeout-total: 1125
 takeout-percent: 71
-shots-total: 2196
+shots-total: 2320
 shots-percent: 70
 years:
  - year: 1998
@@ -140,7 +140,6 @@ years:
    shots-total: 87
    shots-percent: 63
  - year: 2008
-   event: Hearts
    team: Totals
    games: 11
    wins: 1
@@ -257,6 +256,23 @@ years:
    takeout-percent: 69
    shots-total: 150
    shots-percent: 67
+ - year: 2019
+   event: Hearts
+   team: "NT"
+   position: Fourth
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 67
+   inturn-percent: 72
+   outturn-total: 57
+   outturn-percent: 74
+   draw-total: 70
+   draw-percent: 69
+   takeout-total: 54
+   takeout-percent: 78
+   shots-total: 124
+   shots-percent: 73
 vs:
  - Adams, Melissa
  - Affleck, Tricia
@@ -274,6 +290,7 @@ vs:
  - Babin, Jillian
  - Baker, Michelle
  - Balderston, Marcy
+ - Baldwin, Nicole
  - Barker, Penny
  - Baxter, Jen
  - Beauchamp, Sasha
@@ -283,15 +300,20 @@ vs:
  - Bernard, Cheryl
  - Betker, Jan
  - Birchard, Shannon
+ - Birnie, Hailey
  - Birt, Suzanne
  - Blais, Amelie
+ - Blaney, Jennifer
+ - Bodner, Jenine
  - Bolland, Michelle
+ - Boudreault, Patricia
  - Bradley, Shelly
  - Brassard, Veronique
  - Brennan, Amanda
  - Brothers, Jill
  - Brown, Jacalyn
  - Brown, Janet
+ - Brown, Rachel
  - Burgess, Carey
  - Bush, Tracy
  - Cameron, Kate
@@ -302,6 +324,7 @@ vs:
  - Carter, Sasha
  - Cheveldave, Amber
  - Chislett, Geneva
+ - Christianson, Marie
  - Clark, Stefanie
  - Clarke, Hayley
  - Comeau, Martine
@@ -313,6 +336,7 @@ vs:
  - Cunningham, Cathy
  - Curtis, Stacie
  - Cutcliffe, Margaret
+ - Daigle, Julie
  - Daniel, Sylvie
  - Darbyshire, Carolyn
  - deJager, Blaine
@@ -335,6 +359,7 @@ vs:
  - Eyamie, Lisa
  - Fallis, Karen
  - Farrell, Allison
+ - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
  - Filteau, Anne-Marie
@@ -344,6 +369,7 @@ vs:
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gates, Amanda
+ - Gates, Jenny
  - Gauthier, Cathy
  - George, Tara
  - Gibson, Amy
@@ -351,6 +377,7 @@ vs:
  - Goss, Peg
  - Gregoire, Veronique
  - Grenier, Valerie
+ - Griffin, Alison
  - Gudereit, Marcia
  - Gushulak, Diane
  - Guzzwell, Stephanie
@@ -370,14 +397,16 @@ vs:
  - Homan, Rachel
  - Horgan, Tracy
  - Hughes, Meaghan
+ - Hunkin, Jessie
  - Hutchings, Denise
  - Inglis, Nancy
+ - Ingram, Megan
  - Iskiw, Beth
+ - Jewer, Michelle
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kehler, Lorie
@@ -390,6 +419,7 @@ vs:
  - Kreviazuk, Cheryl
  - Lang, Lorraine
  - Larouche, Marie-France
+ - Lavoie, Gabrielle
  - Law, Kelley
  - Lawes, Andrea
  - Lawes, Kaitlyn
@@ -436,9 +466,11 @@ vs:
  - Moriarty, Monica
  - Morris, Cori
  - Muise, Morgan
+ - Munroe, Anna
  - Murphy, Jeanette
  - Muzika, Shelley
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
@@ -455,6 +487,7 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
  - Power, Marie-Anne
@@ -471,9 +504,11 @@ vs:
  - Rocque, Raylene
  - Ross, Allison
  - Rudulier, Andrea
+ - Rusnell, Jen
  - Sabourin, Joelle
  - Sagle, Karen
  - Sandison, Janice
+ - Sandwith, Carley
  - Saulnier, Andrea
  - Scheidegger, Casey
  - Scheidegger, Jessie
@@ -483,8 +518,11 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shackleton, Amie
+ - Sharpe, Kelli
+ - Shaw, Ladene
  - Shumay, Jill
  - Sicinski, Danielle
+ - Silvernagle, Robyn
  - Simmons, Cindy
  - Simons, Renee
  - Singler, Sherri
@@ -500,10 +538,12 @@ vs:
  - Streifel, Tracy
  - Stricker, Joan
  - Strong, Heather
+ - Strong, Helen
  - Strong, Laura
  - Stubbings, Tiffany
  - Tanner, Ros
  - Tasaka, Adina
+ - Thevenot, Kara
  - Thiessen, Alison
  - Thomas, Jill
  - Thompson, Karla
@@ -516,6 +556,7 @@ vs:
  - Vey, Lana
  - Wall, Kirsten
  - Walsh, Jenna
+ - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa

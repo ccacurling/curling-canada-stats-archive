@@ -99,7 +99,7 @@ vs:
  - Bradley, Shelly
  - Brennan, Amanda
  - Brothers, Jill
- - Brown, Rachelle
+ - Brown, Rachel
  - Camozzi, Rhona
  - Campbell, Jolene
  - Carey, Chelsea
@@ -124,7 +124,6 @@ vs:
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
- - Fewster, Kristen
  - Filteau, Anne-Marie
  - Fleury, Tracy
  - Fullerton, Sarah
@@ -145,7 +144,6 @@ vs:
  - Hutchings, Denise
  - Jones, Jennifer
  - Joyce, Blisse
- - Kaatz, Selena
  - Kasner, Marliese
  - Kelly, Kim
  - Kidd, Darlene
@@ -180,6 +178,7 @@ vs:
  - Moore, Kristie
  - Moses, Dawn
  - Murphy, Sarah
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Officer, Jill
@@ -189,6 +188,7 @@ vs:
  - Overton-Clapham, Cathy
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
  - Price, Kara

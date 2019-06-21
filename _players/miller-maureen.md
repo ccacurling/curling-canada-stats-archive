@@ -115,6 +115,7 @@ vs:
  - Ross, Allison
  - Sabourin, Joelle
  - Sanders, Pat
+ - Sharpe, Kelli
  - Smith, Yvonne
  - Sonnenberg, Renee
  - Sparkes, Lindsay
@@ -125,7 +126,6 @@ vs:
  - Thurston, Jill
  - Todd, Fran
  - Tucker, Cindy
- - Turpin, Kelli
  - Webb, Corine
  - Wright, Susan
 ---
