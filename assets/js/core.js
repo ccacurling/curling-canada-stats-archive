@@ -20,7 +20,8 @@ $(document).ready(function() {
   const DIV_CARD = 'div.card';
 
   /** Initialize tooltips */
-  $('[data-toggle="tooltip"]').tooltip();
+  //$('[data-toggle="tooltip"]').tooltip();
+  $('body').tooltip({selector: '[data-toggle="tooltip"]'});
 
   /** Initialize popovers */
   $('[data-toggle="popover"]').popover({
