@@ -5,6 +5,16 @@ name-sort: Wallingham, Patty
 games: 11
 wins: 2
 losses: 9
+inturn-total: 110
+inturn-percent: 79
+outturn-total: 100
+outturn-percent: 72
+draw-total: 110
+draw-percent: 75
+takeout-total: 100
+takeout-percent: 76
+shots-total: 210
+shots-percent: 75
 years:
  - year: 2014
    event: Hearts

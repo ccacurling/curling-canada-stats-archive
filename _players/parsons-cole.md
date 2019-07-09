@@ -5,6 +5,16 @@ name-sort: Parsons, Cole
 games: 7
 wins: 1
 losses: 6
+inturn-total: 17
+inturn-percent: 94
+outturn-total: 109
+outturn-percent: 90
+draw-total: 113
+draw-percent: 91
+takeout-total: 13
+takeout-percent: 90
+shots-total: 126
+shots-percent: 91
 years:
  - year: 2019
    event: Brier

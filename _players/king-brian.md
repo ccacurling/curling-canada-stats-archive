@@ -5,6 +5,16 @@ name-sort: King, Brian
 games: 2
 wins: 1
 losses: 1
+inturn-total: 4
+inturn-percent: 100
+outturn-total: 2
+outturn-percent: 100
+draw-total: 6
+draw-percent: 100
+takeout-total: 0
+takeout-percent:
+shots-total: 6
+shots-percent: 100
 years:
  - year: 2018
    event: Brier

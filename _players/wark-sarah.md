@@ -5,6 +5,16 @@ name-sort: Wark, Sarah
 games: 12
 wins: 6
 losses: 6
+inturn-total: 126
+inturn-percent: 81
+outturn-total: 109
+outturn-percent: 75
+draw-total: 121
+draw-percent: 82
+takeout-total: 114
+takeout-percent: 74
+shots-total: 235
+shots-percent: 78
 years:
  - year: 2019
    event: Hearts

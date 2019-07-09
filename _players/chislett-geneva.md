@@ -5,6 +5,16 @@ name-sort: Chislett, Geneva
 games: 6
 wins: 0
 losses: 6
+inturn-total: 58
+inturn-percent: 52
+outturn-total: 44
+outturn-percent: 52
+draw-total: 53
+draw-percent: 45
+takeout-total: 49
+takeout-percent: 59
+shots-total: 102
+shots-percent: 52
 years:
  - year: 2018
    event: Hearts

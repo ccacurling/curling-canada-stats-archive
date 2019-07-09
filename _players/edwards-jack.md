@@ -5,6 +5,16 @@ name-sort: Edwards, Jack
 games: 10
 wins: 3
 losses: 7
+inturn-total: 75
+inturn-percent: 86
+outturn-total: 123
+outturn-percent: 86
+draw-total: 106
+draw-percent: 86
+takeout-total: 92
+takeout-percent: 86
+shots-total: 198
+shots-percent: 86
 years:
  - year: 1990
    event: Brier

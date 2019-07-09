@@ -5,6 +5,16 @@ name-sort: Blaney, Jennifer
 games: 7
 wins: 1
 losses: 6
+inturn-total: 64
+inturn-percent: 60
+outturn-total: 56
+outturn-percent: 58
+draw-total: 61
+draw-percent: 56
+takeout-total: 59
+takeout-percent: 62
+shots-total: 120
+shots-percent: 59
 years:
  - year: 2019
    event: Hearts

@@ -5,6 +5,16 @@ name-sort: Stapleton, Connor
 games: 2
 wins: 0
 losses: 2
+inturn-total: 0
+inturn-percent:
+outturn-total: 6
+outturn-percent: 79
+draw-total: 6
+draw-percent: 79
+takeout-total: 0
+takeout-percent:
+shots-total: 6
+shots-percent: 79
 years:
  - year: 2018
    event: Brier

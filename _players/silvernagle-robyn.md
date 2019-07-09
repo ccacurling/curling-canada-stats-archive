@@ -5,6 +5,16 @@ name-sort: Silvernagle, Robyn
 games: 13
 wins: 8
 losses: 5
+inturn-total: 122
+inturn-percent: 78
+outturn-total: 128
+outturn-percent: 79
+draw-total: 110
+draw-percent: 75
+takeout-total: 140
+takeout-percent: 80
+shots-total: 250
+shots-percent: 78
 years:
  - year: 2019
    event: Hearts

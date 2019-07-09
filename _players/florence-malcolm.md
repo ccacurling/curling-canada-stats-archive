@@ -5,6 +5,16 @@ name-sort: Florence, Malcolm
 games: 11
 wins: 3
 losses: 8
+inturn-total: 104
+inturn-percent: 78
+outturn-total: 97
+outturn-percent: 70
+draw-total: 80
+draw-percent: 70
+takeout-total: 121
+takeout-percent: 77
+shots-total: 201
+shots-percent: 75
 years:
  - year: 1991
    event: Brier

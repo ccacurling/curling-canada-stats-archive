@@ -5,6 +5,16 @@ name-sort: Horgan, Tanner
 games: 6
 wins: 3
 losses: 3
+inturn-total: 11
+inturn-percent: 98
+outturn-total: 52
+outturn-percent: 91
+draw-total: 50
+draw-percent: 93
+takeout-total: 13
+takeout-percent: 92
+shots-total: 63
+shots-percent: 92
 years:
  - year: 2018
    event: Brier

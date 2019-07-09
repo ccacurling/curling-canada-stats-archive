@@ -5,6 +5,16 @@ name-sort: Nerpin, Andrew
 games: 8
 wins: 2
 losses: 6
+inturn-total: 67
+inturn-percent: 72
+outturn-total: 81
+outturn-percent: 81
+draw-total: 80
+draw-percent: 78
+takeout-total: 68
+takeout-percent: 75
+shots-total: 148
+shots-percent: 77
 years:
  - year: 2018
    event: Brier

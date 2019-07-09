@@ -5,6 +5,16 @@ name-sort: Tran, Brittany
 games: 7
 wins: 3
 losses: 4
+inturn-total: 79
+inturn-percent: 78
+outturn-total: 49
+outturn-percent: 69
+draw-total: 66
+draw-percent: 73
+takeout-total: 62
+takeout-percent: 77
+shots-total: 128
+shots-percent: 75
 years:
  - year: 2019
    event: Hearts

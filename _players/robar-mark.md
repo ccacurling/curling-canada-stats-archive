@@ -5,6 +5,16 @@ name-sort: Robar, Mark
 games: 2
 wins: 0
 losses: 2
+inturn-total: 3
+inturn-percent: 33
+outturn-total: 3
+outturn-percent: 33
+draw-total: 6
+draw-percent: 33
+takeout-total: 0
+takeout-percent:
+shots-total: 6
+shots-percent: 33
 years:
  - year: 2010
    event: Brier

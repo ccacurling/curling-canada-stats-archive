@@ -5,6 +5,16 @@ name-sort: Ford, Chris
 games: 7
 wins: 0
 losses: 7
+inturn-total: 80
+inturn-percent: 69
+outturn-total: 41
+outturn-percent: 65
+draw-total: 52
+draw-percent: 74
+takeout-total: 69
+takeout-percent: 63
+shots-total: 121
+shots-percent: 68
 years:
  - year: 2019
    event: Brier

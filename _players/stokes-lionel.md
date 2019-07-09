@@ -5,6 +5,16 @@ name-sort: Stokes, Lionel
 games: 4
 wins: 0
 losses: 4
+inturn-total: 32
+inturn-percent: 60
+outturn-total: 40
+outturn-percent: 74
+draw-total: 37
+draw-percent: 67
+takeout-total: 35
+takeout-percent: 69
+shots-total: 72
+shots-percent: 68
 years:
  - year: 1991
    event: Brier

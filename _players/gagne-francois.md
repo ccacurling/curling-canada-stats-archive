@@ -5,6 +5,16 @@ name-sort: Gagne, Francois
 games: 11
 wins: 3
 losses: 8
+inturn-total: 74
+inturn-percent: 66
+outturn-total: 129
+outturn-percent: 79
+draw-total: 82
+draw-percent: 79
+takeout-total: 121
+takeout-percent: 71
+shots-total: 203
+shots-percent: 74
 years:
  - year: 2011
    event: Brier

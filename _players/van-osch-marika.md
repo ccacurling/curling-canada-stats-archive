@@ -5,6 +5,16 @@ name-sort: Van Osch, Marika
 games: 11
 wins: 4
 losses: 7
+inturn-total: 99
+inturn-percent: 77
+outturn-total: 105
+outturn-percent: 72
+draw-total: 103
+draw-percent: 80
+takeout-total: 101
+takeout-percent: 69
+shots-total: 204
+shots-percent: 75
 years:
  - year: 2018
    event: Hearts

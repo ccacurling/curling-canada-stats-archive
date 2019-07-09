@@ -5,6 +5,16 @@ name-sort: Rocheleau, Serge
 games: 2
 wins: 2
 losses: 0
+inturn-total: 16
+inturn-percent: 67
+outturn-total: 24
+outturn-percent: 77
+draw-total: 22
+draw-percent: 69
+takeout-total: 18
+takeout-percent: 78
+shots-total: 40
+shots-percent: 73
 years:
  - year: 1994
    event: Brier

@@ -5,6 +5,16 @@ name-sort: Proctor, Jill
 games: 11
 wins: 5
 losses: 6
+inturn-total: 106
+inturn-percent: 72
+outturn-total: 112
+outturn-percent: 71
+draw-total: 118
+draw-percent: 75
+takeout-total: 100
+takeout-percent: 67
+shots-total: 218
+shots-percent: 72
 years:
  - year: 1991
    event: Hearts

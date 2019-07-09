@@ -5,6 +5,16 @@ name-sort: McCracken, Betty
 games: 11
 wins: 7
 losses: 4
+inturn-total: 53
+inturn-percent: 57
+outturn-total: 156
+outturn-percent: 68
+draw-total: 119
+draw-percent: 72
+takeout-total: 90
+takeout-percent: 56
+shots-total: 209
+shots-percent: 65
 years:
  - year: 1985
    event: Hearts

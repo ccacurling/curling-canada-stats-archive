@@ -5,6 +5,16 @@ name-sort: Lavoie, Gabrielle
 games: 7
 wins: 0
 losses: 7
+inturn-total: 55
+inturn-percent: 65
+outturn-total: 68
+outturn-percent: 65
+draw-total: 67
+draw-percent: 58
+takeout-total: 56
+takeout-percent: 73
+shots-total: 123
+shots-percent: 65
 years:
  - year: 2019
    event: Hearts

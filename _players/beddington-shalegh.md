@@ -5,6 +5,16 @@ name-sort: Beddington, Shalegh
 games: 4
 wins: 0
 losses: 4
+inturn-total: 42
+inturn-percent: 70
+outturn-total: 36
+outturn-percent: 76
+draw-total: 42
+draw-percent: 68
+takeout-total: 36
+takeout-percent: 78
+shots-total: 78
+shots-percent: 73
 years:
  - year: 1999
    event: Hearts

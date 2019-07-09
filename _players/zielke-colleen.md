@@ -5,6 +5,16 @@ name-sort: Zielke, Colleen
 games: 12
 wins: 7
 losses: 5
+inturn-total: 141
+inturn-percent: 79
+outturn-total: 89
+outturn-percent: 73
+draw-total: 82
+draw-percent: 66
+takeout-total: 148
+takeout-percent: 83
+shots-total: 230
+shots-percent: 77
 years:
  - year: 1996
    event: Hearts

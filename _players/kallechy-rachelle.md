@@ -5,6 +5,16 @@ name-sort: Kallechy, Rachelle
 games: 2
 wins: 1
 losses: 1
+inturn-total: 14
+inturn-percent: 71
+outturn-total: 8
+outturn-percent: 69
+draw-total: 8
+draw-percent: 63
+takeout-total: 14
+takeout-percent: 75
+shots-total: 22
+shots-percent: 70
 years:
  - year: 2018
    event: Hearts

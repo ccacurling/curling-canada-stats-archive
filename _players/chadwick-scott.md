@@ -5,6 +5,16 @@ name-sort: Chadwick, Scott
 games: 11
 wins: 6
 losses: 5
+inturn-total: 69
+inturn-percent: 86
+outturn-total: 140
+outturn-percent: 87
+draw-total: 159
+draw-percent: 91
+takeout-total: 50
+takeout-percent: 73
+shots-total: 209
+shots-percent: 86
 years:
  - year: 2019
    event: Brier

@@ -5,6 +5,16 @@ name-sort: LeCocq, Vance
 games: 11
 wins: 1
 losses: 10
+inturn-total: 84
+inturn-percent: 74
+outturn-total: 110
+outturn-percent: 84
+draw-total: 139
+draw-percent: 80
+takeout-total: 55
+takeout-percent: 77
+shots-total: 194
+shots-percent: 80
 years:
  - year: 1992
    event: Brier

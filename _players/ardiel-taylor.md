@@ -5,6 +5,16 @@ name-sort: Ardiel, Taylor
 games: 7
 wins: 3
 losses: 4
+inturn-total: 84
+inturn-percent: 89
+outturn-total: 40
+outturn-percent: 74
+draw-total: 115
+draw-percent: 86
+takeout-total: 9
+takeout-percent: 61
+shots-total: 124
+shots-percent: 84
 years:
  - year: 2019
    event: Brier

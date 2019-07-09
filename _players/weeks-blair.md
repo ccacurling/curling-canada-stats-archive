@@ -5,6 +5,16 @@ name-sort: Weeks, Blair
 games: 11
 wins: 2
 losses: 9
+inturn-total: 76
+inturn-percent: 66
+outturn-total: 128
+outturn-percent: 81
+draw-total: 87
+draw-percent: 71
+takeout-total: 117
+takeout-percent: 79
+shots-total: 204
+shots-percent: 75
 years:
  - year: 1989
    event: Brier

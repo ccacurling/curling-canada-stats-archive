@@ -5,6 +5,16 @@ name-sort: Forget, Wes
 games: 11
 wins: 6
 losses: 5
+inturn-total: 92
+inturn-percent: 83
+outturn-total: 118
+outturn-percent: 92
+draw-total: 109
+draw-percent: 86
+takeout-total: 101
+takeout-percent: 90
+shots-total: 210
+shots-percent: 88
 years:
  - year: 2019
    event: Brier

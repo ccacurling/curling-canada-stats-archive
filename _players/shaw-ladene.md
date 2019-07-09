@@ -5,6 +5,16 @@ name-sort: Shaw, Ladene
 games: 7
 wins: 1
 losses: 6
+inturn-total: 67
+inturn-percent: 73
+outturn-total: 58
+outturn-percent: 67
+draw-total: 66
+draw-percent: 70
+takeout-total: 59
+takeout-percent: 71
+shots-total: 125
+shots-percent: 70
 years:
  - year: 2019
    event: Hearts

@@ -5,6 +5,16 @@ name-sort: Karwacki, Krysten
 games: 2
 wins: 2
 losses: 0
+inturn-total: 1
+inturn-percent: 100
+outturn-total: 4
+outturn-percent: 50
+draw-total: 0
+draw-percent:
+takeout-total: 5
+takeout-percent: 60
+shots-total: 5
+shots-percent: 60
 years:
  - year: 2017
    event: Hearts

@@ -5,6 +5,16 @@ name-sort: Georges, Kendra
 games: 2
 wins: 2
 losses: 0
+inturn-total: 1
+inturn-percent: 100
+outturn-total: 2
+outturn-percent: 100
+draw-total: 0
+draw-percent:
+takeout-total: 3
+takeout-percent: 100
+shots-total: 3
+shots-percent: 100
 years:
  - year: 2010
    event: Hearts

@@ -5,6 +5,16 @@ name-sort: Smallwood, Robert
 games: 7
 wins: 3
 losses: 4
+inturn-total: 60
+inturn-percent: 83
+outturn-total: 71
+outturn-percent: 74
+draw-total: 55
+draw-percent: 76
+takeout-total: 76
+takeout-percent: 80
+shots-total: 131
+shots-percent: 78
 years:
  - year: 2019
    event: Brier

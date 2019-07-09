@@ -5,6 +5,16 @@ name-sort: Tuck, Kim
 games: 2
 wins: 1
 losses: 1
+inturn-total: 13
+inturn-percent: 87
+outturn-total: 7
+outturn-percent: 93
+draw-total: 11
+draw-percent: 98
+takeout-total: 9
+takeout-percent: 78
+shots-total: 20
+shots-percent: 89
 years:
  - year: 2014
    event: Hearts

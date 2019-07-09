@@ -5,6 +5,16 @@ name-sort: Newson, Jamie
 games: 5
 wins: 0
 losses: 5
+inturn-total: 23
+inturn-percent: 73
+outturn-total: 19
+outturn-percent: 80
+draw-total: 32
+draw-percent: 75
+takeout-total: 10
+takeout-percent: 80
+shots-total: 42
+shots-percent: 76
 years:
  - year: 2011
    event: Brier

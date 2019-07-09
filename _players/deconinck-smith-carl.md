@@ -5,6 +5,16 @@ name-sort: deConinck-Smith, Carl
 games: 2
 wins: 0
 losses: 2
+inturn-total: 9
+inturn-percent: 94
+outturn-total: 3
+outturn-percent: 100
+draw-total: 12
+draw-percent: 96
+takeout-total: 0
+takeout-percent:
+shots-total: 12
+shots-percent: 96
 years:
  - year: 2012
    event: Brier

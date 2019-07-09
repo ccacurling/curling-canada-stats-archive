@@ -5,6 +5,16 @@ name-sort: Dickison, Dodie
 games: 2
 wins: 1
 losses: 1
+inturn-total: 22
+inturn-percent: 56
+outturn-total: 15
+outturn-percent: 62
+draw-total: 16
+draw-percent: 45
+takeout-total: 21
+takeout-percent: 68
+shots-total: 37
+shots-percent: 58
 years:
  - year: 1988
    event: Brier

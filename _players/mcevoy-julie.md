@@ -5,6 +5,16 @@ name-sort: McEvoy, Julie
 games: 4
 wins: 1
 losses: 3
+inturn-total: 25
+inturn-percent: 76
+outturn-total: 31
+outturn-percent: 76
+draw-total: 39
+draw-percent: 74
+takeout-total: 17
+takeout-percent: 79
+shots-total: 56
+shots-percent: 76
 years:
  - year: 2017
    event: Hearts
