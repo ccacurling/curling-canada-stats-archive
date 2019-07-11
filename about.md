@@ -10,6 +10,8 @@ This is the official site for player career statistics across Curling Canada eve
 
 Note: There are no detailed statistics available for the Brier from 1981 to 1984.
 
+If anyone has detailed statistics information from this Brier era, Curling Canada would like to incorporate that into this site. Contact <a href="mailto:bcassidy@curling.ca">bcassidy@curling.ca</a>.
+
 ## Credits
 
 Data - Brian Cassidy Sr.
