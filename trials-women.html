@@ -1,0 +1,10 @@
+---
+layout: default
+title: Trials (Women)
+permalink: /trials-women
+type: event-list
+collection: trials-women
+---
+<h1>Trials Results by Year (Women)</h1>
+{% assign trials = site.trials-women | reverse %}
+{% include results-by-year.html events=trials event='Trials (Women)' %}

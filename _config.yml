@@ -31,6 +31,12 @@ collections:
   hearts:
     output: true
     permalink: /hearts/:path
+  trials-men:
+    output: true
+    permalink: /trials-men/:path
+  trials-women:
+    output: true
+    permalink: /trials-women/:path
   vs:
     output: true
     permalink: /vs/:path
@@ -55,6 +61,16 @@ defaults:
   - scope:
       path: ""
       type: "hearts"
+    values:
+      layout: event
+  - scope:
+      path: ""
+      type: "trials-men"
+    values:
+      layout: event
+  - scope:
+      path: ""
+      type: "trials-women"
     values:
       layout: event
   - scope:
