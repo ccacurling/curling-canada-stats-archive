@@ -2,19 +2,21 @@
 title: Stuart MacLean
 name: Stuart MacLean
 name-sort: MacLean, Stuart
-games: 36
-wins: 16
-losses: 20
-inturn-total: 359
-inturn-percent: 79
-outturn-total: 323
-outturn-percent: 76
-draw-total: 358
-draw-percent: 78
-takeout-total: 324
-takeout-percent: 77
-shots-total: 682
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 36
+   wins: 16
+   losses: 20
+   inturn-total: 359
+   inturn-percent: 79
+   outturn-total: 323
+   outturn-percent: 76
+   draw-total: 358
+   draw-percent: 78
+   takeout-total: 324
+   takeout-percent: 77
+   shots-total: 682
+   shots-percent: 78
 years:
  - year: 1985
    event: Brier

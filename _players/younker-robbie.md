@@ -2,19 +2,21 @@
 title: Robbie Younker
 name: Robbie Younker
 name-sort: Younker, Robbie
-games: 2
-wins: 1
-losses: 1
-inturn-total: 8
-inturn-percent: 81
-outturn-total: 2
-outturn-percent: 88
-draw-total: 7
-draw-percent: 89
-takeout-total: 3
-takeout-percent: 67
-shots-total: 10
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 2
+   wins: 1
+   losses: 1
+   inturn-total: 8
+   inturn-percent: 81
+   outturn-total: 2
+   outturn-percent: 88
+   draw-total: 7
+   draw-percent: 89
+   takeout-total: 3
+   takeout-percent: 67
+   shots-total: 10
+   shots-percent: 83
 years:
  - year: 2018
    event: Brier

@@ -2,19 +2,21 @@
 title: Kathy McEdwards
 name: Kathy McEdwards
 name-sort: McEdwards, Kathy
-games: 23
-wins: 15
-losses: 8
-inturn-total: 158
-inturn-percent: 72
-outturn-total: 271
-outturn-percent: 74
-draw-total: 199
-draw-percent: 75
-takeout-total: 230
-takeout-percent: 71
-shots-total: 429
-shots-percent: 73
+totals:
+ - event: Hearts
+   games: 23
+   wins: 15
+   losses: 8
+   inturn-total: 158
+   inturn-percent: 72
+   outturn-total: 271
+   outturn-percent: 74
+   draw-total: 199
+   draw-percent: 75
+   takeout-total: 230
+   takeout-percent: 71
+   shots-total: 429
+   shots-percent: 73
 years:
  - year: 1986
    event: Hearts

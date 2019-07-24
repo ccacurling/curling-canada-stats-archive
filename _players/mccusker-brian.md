@@ -2,19 +2,21 @@
 title: Brian McCusker
 name: Brian McCusker
 name-sort: McCusker, Brian
-games: 36
-wins: 22
-losses: 14
-inturn-total: 267
-inturn-percent: 81
-outturn-total: 413
-outturn-percent: 83
-draw-total: 294
-draw-percent: 81
-takeout-total: 386
-takeout-percent: 83
-shots-total: 680
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 36
+   wins: 22
+   losses: 14
+   inturn-total: 267
+   inturn-percent: 81
+   outturn-total: 413
+   outturn-percent: 83
+   draw-total: 294
+   draw-percent: 81
+   takeout-total: 386
+   takeout-percent: 83
+   shots-total: 680
+   shots-percent: 82
 years:
  - year: 1991
    event: Brier

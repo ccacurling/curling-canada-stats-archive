@@ -2,19 +2,21 @@
 title: Hailey Birnie
 name: Hailey Birnie
 name-sort: Birnie, Hailey
-games: 7
-wins: 1
-losses: 6
-inturn-total: 68
-inturn-percent: 64
-outturn-total: 57
-outturn-percent: 72
-draw-total: 68
-draw-percent: 64
-takeout-total: 57
-takeout-percent: 73
-shots-total: 125
-shots-percent: 68
+totals:
+ - event: Hearts
+   games: 7
+   wins: 1
+   losses: 6
+   inturn-total: 68
+   inturn-percent: 64
+   outturn-total: 57
+   outturn-percent: 72
+   draw-total: 68
+   draw-percent: 64
+   takeout-total: 57
+   takeout-percent: 73
+   shots-total: 125
+   shots-percent: 68
 years:
  - year: 2019
    event: Hearts

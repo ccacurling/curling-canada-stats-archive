@@ -2,19 +2,21 @@
 title: Darol Stuart
 name: Darol Stuart
 name-sort: Stuart, Darol
-games: 22
-wins: 7
-losses: 15
-inturn-total: 301
-inturn-percent: 82
-outturn-total: 113
-outturn-percent: 83
-draw-total: 304
-draw-percent: 84
-takeout-total: 110
-takeout-percent: 77
-shots-total: 414
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 22
+   wins: 7
+   losses: 15
+   inturn-total: 301
+   inturn-percent: 82
+   outturn-total: 113
+   outturn-percent: 83
+   draw-total: 304
+   draw-percent: 84
+   takeout-total: 110
+   takeout-percent: 77
+   shots-total: 414
+   shots-percent: 82
 years:
  - year: 1997
    event: Brier

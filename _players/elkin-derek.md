@@ -2,19 +2,21 @@
 title: Derek Elkin
 name: Derek Elkin
 name-sort: Elkin, Derek
-games: 22
-wins: 4
-losses: 18
-inturn-total: 206
-inturn-percent: 67
-outturn-total: 212
-outturn-percent: 72
-draw-total: 185
-draw-percent: 65
-takeout-total: 233
-takeout-percent: 73
-shots-total: 418
-shots-percent: 70
+totals:
+ - event: Brier
+   games: 22
+   wins: 4
+   losses: 18
+   inturn-total: 206
+   inturn-percent: 67
+   outturn-total: 212
+   outturn-percent: 72
+   draw-total: 185
+   draw-percent: 65
+   takeout-total: 233
+   takeout-percent: 73
+   shots-total: 418
+   shots-percent: 70
 years:
  - year: 1992
    event: Brier

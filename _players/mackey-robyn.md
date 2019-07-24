@@ -2,19 +2,21 @@
 title: Robyn Mackey
 name: Robyn Mackey
 name-sort: Mackey, Robyn
-games: 5
-wins: 0
-losses: 5
-inturn-total: 52
-inturn-percent: 67
-outturn-total: 30
-outturn-percent: 58
-draw-total: 42
-draw-percent: 60
-takeout-total: 40
-takeout-percent: 68
-shots-total: 82
-shots-percent: 64
+totals:
+ - event: Hearts
+   games: 5
+   wins: 0
+   losses: 5
+   inturn-total: 52
+   inturn-percent: 67
+   outturn-total: 30
+   outturn-percent: 58
+   draw-total: 42
+   draw-percent: 60
+   takeout-total: 40
+   takeout-percent: 68
+   shots-total: 82
+   shots-percent: 64
 years:
  - year: 2018
    event: Hearts

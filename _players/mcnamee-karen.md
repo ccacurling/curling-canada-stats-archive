@@ -2,19 +2,21 @@
 title: Karen McNamee
 name: Karen McNamee
 name-sort: McNamee, Karen
-games: 22
-wins: 9
-losses: 13
-inturn-total: 136
-inturn-percent: 83
-outturn-total: 290
-outturn-percent: 83
-draw-total: 290
-draw-percent: 82
-takeout-total: 136
-takeout-percent: 85
-shots-total: 426
-shots-percent: 83
+totals:
+ - event: Hearts
+   games: 22
+   wins: 9
+   losses: 13
+   inturn-total: 136
+   inturn-percent: 83
+   outturn-total: 290
+   outturn-percent: 83
+   draw-total: 290
+   draw-percent: 82
+   takeout-total: 136
+   takeout-percent: 85
+   shots-total: 426
+   shots-percent: 83
 years:
  - year: 1994
    event: Hearts

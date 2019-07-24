@@ -2,19 +2,21 @@
 title: Jonathan Beuk
 name: Jonathan Beuk
 name-sort: Beuk, Jonathan
-games: 11
-wins: 6
-losses: 5
-inturn-total: 111
-inturn-percent: 81
-outturn-total: 100
-outturn-percent: 84
-draw-total: 95
-draw-percent: 83
-takeout-total: 116
-takeout-percent: 82
-shots-total: 211
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 111
+   inturn-percent: 81
+   outturn-total: 100
+   outturn-percent: 84
+   draw-total: 95
+   draw-percent: 83
+   takeout-total: 116
+   takeout-percent: 82
+   shots-total: 211
+   shots-percent: 82
 years:
  - year: 2019
    event: Brier

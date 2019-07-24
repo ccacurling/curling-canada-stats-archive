@@ -2,19 +2,21 @@
 title: Eric Sylvain
 name: Eric Sylvain
 name-sort: Sylvain, Eric
-games: 137
-wins: 74
-losses: 63
-inturn-total: 916
-inturn-percent: 81
-outturn-total: 1699
-outturn-percent: 84
-draw-total: 1166
-draw-percent: 81
-takeout-total: 1449
-takeout-percent: 85
-shots-total: 2615
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 137
+   wins: 74
+   losses: 63
+   inturn-total: 916
+   inturn-percent: 81
+   outturn-total: 1699
+   outturn-percent: 84
+   draw-total: 1166
+   draw-percent: 81
+   takeout-total: 1449
+   takeout-percent: 85
+   shots-total: 2615
+   shots-percent: 83
 years:
  - year: 2000
    event: Brier

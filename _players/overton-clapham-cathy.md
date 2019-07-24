@@ -2,19 +2,21 @@
 title: Cathy Overton-Clapham
 name: Cathy Overton-Clapham
 name-sort: Overton-Clapham, Cathy
-games: 159
-wins: 110
-losses: 49
-inturn-total: 1439
-inturn-percent: 79
-outturn-total: 1579
-outturn-percent: 79
-draw-total: 1218
-draw-percent: 76
-takeout-total: 1800
-takeout-percent: 81
-shots-total: 3018
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 159
+   wins: 110
+   losses: 49
+   inturn-total: 1439
+   inturn-percent: 79
+   outturn-total: 1579
+   outturn-percent: 79
+   draw-total: 1218
+   draw-percent: 76
+   takeout-total: 1800
+   takeout-percent: 81
+   shots-total: 3018
+   shots-percent: 79
 years:
  - year: 1991
    event: Hearts

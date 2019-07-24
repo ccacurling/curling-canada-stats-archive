@@ -2,19 +2,21 @@
 title: Mark O'Rourke
 name: Mark O'Rourke
 name-sort: O'Rourke, Mark
-games: 111
-wins: 41
-losses: 70
-inturn-total: 851
-inturn-percent: 78
-outturn-total: 1254
-outturn-percent: 83
-draw-total: 1038
-draw-percent: 82
-takeout-total: 1067
-takeout-percent: 80
-shots-total: 2105
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 111
+   wins: 41
+   losses: 70
+   inturn-total: 851
+   inturn-percent: 78
+   outturn-total: 1254
+   outturn-percent: 83
+   draw-total: 1038
+   draw-percent: 82
+   takeout-total: 1067
+   takeout-percent: 80
+   shots-total: 2105
+   shots-percent: 81
 years:
  - year: 1991
    event: Brier

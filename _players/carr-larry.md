@@ -2,19 +2,21 @@
 title: Larry Carr
 name: Larry Carr
 name-sort: Carr, Larry
-games: 2
-wins: 1
-losses: 1
-inturn-total: 20
-inturn-percent: 69
-outturn-total: 20
-outturn-percent: 66
-draw-total: 27
-draw-percent: 65
-takeout-total: 13
-takeout-percent: 73
-shots-total: 40
-shots-percent: 68
+totals:
+ - event: Brier
+   games: 2
+   wins: 1
+   losses: 1
+   inturn-total: 20
+   inturn-percent: 69
+   outturn-total: 20
+   outturn-percent: 66
+   draw-total: 27
+   draw-percent: 65
+   takeout-total: 13
+   takeout-percent: 73
+   shots-total: 40
+   shots-percent: 68
 years:
  - year: 2004
    event: Brier

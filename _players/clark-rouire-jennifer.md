@@ -2,19 +2,21 @@
 title: Jennifer Clark-Rouire
 name: Jennifer Clark-Rouire
 name-sort: Clark-Rouire, Jennifer
-games: 9
-wins: 7
-losses: 2
-inturn-total: 19
-inturn-percent: 89
-outturn-total: 7
-outturn-percent: 86
-draw-total: 21
-draw-percent: 90
-takeout-total: 5
-takeout-percent: 80
-shots-total: 26
-shots-percent: 88
+totals:
+ - event: Hearts
+   games: 9
+   wins: 7
+   losses: 2
+   inturn-total: 19
+   inturn-percent: 89
+   outturn-total: 7
+   outturn-percent: 86
+   draw-total: 21
+   draw-percent: 90
+   takeout-total: 5
+   takeout-percent: 80
+   shots-total: 26
+   shots-percent: 88
 years:
  - year: 2008
    event: Hearts

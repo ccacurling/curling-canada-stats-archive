@@ -2,19 +2,21 @@
 title: Marliese Kasner
 name: Marliese Kasner
 name-sort: Kasner, Marliese
-games: 51
-wins: 31
-losses: 20
-inturn-total: 604
-inturn-percent: 84
-outturn-total: 380
-outturn-percent: 81
-draw-total: 564
-draw-percent: 83
-takeout-total: 420
-takeout-percent: 82
-shots-total: 984
-shots-percent: 83
+totals:
+ - event: Hearts
+   games: 51
+   wins: 31
+   losses: 20
+   inturn-total: 604
+   inturn-percent: 84
+   outturn-total: 380
+   outturn-percent: 81
+   draw-total: 564
+   draw-percent: 83
+   takeout-total: 420
+   takeout-percent: 82
+   shots-total: 984
+   shots-percent: 83
 years:
  - year: 2005
    event: Hearts

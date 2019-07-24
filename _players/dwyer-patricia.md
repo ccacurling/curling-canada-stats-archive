@@ -2,19 +2,21 @@
 title: Patricia Dwyer
 name: Patricia Dwyer
 name-sort: Dwyer, Patricia
-games: 36
-wins: 22
-losses: 14
-inturn-total: 392
-inturn-percent: 66
-outturn-total: 307
-outturn-percent: 68
-draw-total: 302
-draw-percent: 65
-takeout-total: 397
-takeout-percent: 68
-shots-total: 699
-shots-percent: 67
+totals:
+ - event: Hearts
+   games: 36
+   wins: 22
+   losses: 14
+   inturn-total: 392
+   inturn-percent: 66
+   outturn-total: 307
+   outturn-percent: 68
+   draw-total: 302
+   draw-percent: 65
+   takeout-total: 397
+   takeout-percent: 68
+   shots-total: 699
+   shots-percent: 67
 years:
  - year: 1985
    event: Hearts

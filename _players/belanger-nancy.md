@@ -2,19 +2,21 @@
 title: Nancy Belanger
 name: Nancy Belanger
 name-sort: Belanger, Nancy
-games: 37
-wins: 22
-losses: 15
-inturn-total: 342
-inturn-percent: 74
-outturn-total: 376
-outturn-percent: 79
-draw-total: 317
-draw-percent: 73
-takeout-total: 401
-takeout-percent: 79
-shots-total: 718
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 37
+   wins: 22
+   losses: 15
+   inturn-total: 342
+   inturn-percent: 74
+   outturn-total: 376
+   outturn-percent: 79
+   draw-total: 317
+   draw-percent: 73
+   takeout-total: 401
+   takeout-percent: 79
+   shots-total: 718
+   shots-percent: 77
 years:
  - year: 2001
    event: Hearts

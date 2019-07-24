@@ -2,19 +2,21 @@
 title: Curt Palmer
 name: Curt Palmer
 name-sort: Palmer, Curt
-games: 33
-wins: 10
-losses: 23
-inturn-total: 204
-inturn-percent: 69
-outturn-total: 442
-outturn-percent: 79
-draw-total: 299
-draw-percent: 74
-takeout-total: 347
-takeout-percent: 78
-shots-total: 646
-shots-percent: 76
+totals:
+ - event: Brier
+   games: 33
+   wins: 10
+   losses: 23
+   inturn-total: 204
+   inturn-percent: 69
+   outturn-total: 442
+   outturn-percent: 79
+   draw-total: 299
+   draw-percent: 74
+   takeout-total: 347
+   takeout-percent: 78
+   shots-total: 646
+   shots-percent: 76
 years:
  - year: 1996
    event: Brier

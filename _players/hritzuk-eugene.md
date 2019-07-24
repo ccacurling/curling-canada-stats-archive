@@ -2,19 +2,21 @@
 title: Eugene Hritzuk
 name: Eugene Hritzuk
 name-sort: Hritzuk, Eugene
-games: 27
-wins: 17
-losses: 10
-inturn-total: 263
-inturn-percent: 81
-outturn-total: 241
-outturn-percent: 80
-draw-total: 208
-draw-percent: 77
-takeout-total: 296
-takeout-percent: 83
-shots-total: 504
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 27
+   wins: 17
+   losses: 10
+   inturn-total: 263
+   inturn-percent: 81
+   outturn-total: 241
+   outturn-percent: 80
+   draw-total: 208
+   draw-percent: 77
+   takeout-total: 296
+   takeout-percent: 83
+   shots-total: 504
+   shots-percent: 81
 years:
  - year: 1985
    event: Brier

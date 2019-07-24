@@ -2,19 +2,21 @@
 title: Pat Perroud
 name: Pat Perroud
 name-sort: Perroud, Pat
-games: 50
-wins: 35
-losses: 15
-inturn-total: 365
-inturn-percent: 83
-outturn-total: 559
-outturn-percent: 85
-draw-total: 450
-draw-percent: 85
-takeout-total: 474
-takeout-percent: 83
-shots-total: 924
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 50
+   wins: 35
+   losses: 15
+   inturn-total: 365
+   inturn-percent: 83
+   outturn-total: 559
+   outturn-percent: 85
+   draw-total: 450
+   draw-percent: 85
+   takeout-total: 474
+   takeout-percent: 83
+   shots-total: 924
+   shots-percent: 84
 years:
  - year: 1985
    event: Brier

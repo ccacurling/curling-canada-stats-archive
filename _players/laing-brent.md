@@ -2,19 +2,21 @@
 title: Brent Laing
 name: Brent Laing
 name-sort: Laing, Brent
-games: 161
-wins: 124
-losses: 37
-inturn-total: 1428
-inturn-percent: 87
-outturn-total: 1569
-outturn-percent: 88
-draw-total: 1232
-draw-percent: 87
-takeout-total: 1765
-takeout-percent: 88
-shots-total: 2997
-shots-percent: 88
+totals:
+ - event: Brier
+   games: 161
+   wins: 124
+   losses: 37
+   inturn-total: 1428
+   inturn-percent: 87
+   outturn-total: 1569
+   outturn-percent: 88
+   draw-total: 1232
+   draw-percent: 87
+   takeout-total: 1765
+   takeout-percent: 88
+   shots-total: 2997
+   shots-percent: 88
 years:
  - year: 2002
    event: Brier

@@ -2,19 +2,21 @@
 title: Angela Roberts
 name: Angela Roberts
 name-sort: Roberts, Angela
-games: 22
-wins: 7
-losses: 15
-inturn-total: 184
-inturn-percent: 62
-outturn-total: 222
-outturn-percent: 63
-draw-total: 162
-draw-percent: 58
-takeout-total: 244
-takeout-percent: 66
-shots-total: 406
-shots-percent: 63
+totals:
+ - event: Hearts
+   games: 22
+   wins: 7
+   losses: 15
+   inturn-total: 184
+   inturn-percent: 62
+   outturn-total: 222
+   outturn-percent: 63
+   draw-total: 162
+   draw-percent: 58
+   takeout-total: 244
+   takeout-percent: 66
+   shots-total: 406
+   shots-percent: 63
 years:
  - year: 1991
    event: Hearts

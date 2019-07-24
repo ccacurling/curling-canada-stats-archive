@@ -2,19 +2,21 @@
 title: Kendra Lilly
 name: Kendra Lilly
 name-sort: Lilly, Kendra
-games: 40
-wins: 26
-losses: 14
-inturn-total: 428
-inturn-percent: 82
-outturn-total: 348
-outturn-percent: 80
-draw-total: 371
-draw-percent: 79
-takeout-total: 405
-takeout-percent: 84
-shots-total: 776
-shots-percent: 81
+totals:
+ - event: Hearts
+   games: 40
+   wins: 26
+   losses: 14
+   inturn-total: 428
+   inturn-percent: 82
+   outturn-total: 348
+   outturn-percent: 80
+   draw-total: 371
+   draw-percent: 79
+   takeout-total: 405
+   takeout-percent: 84
+   shots-total: 776
+   shots-percent: 81
 years:
  - year: 2016
    event: Hearts

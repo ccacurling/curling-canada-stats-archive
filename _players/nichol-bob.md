@@ -2,19 +2,21 @@
 title: Bob Nichol
 name: Bob Nichol
 name-sort: Nichol, Bob
-games: 38
-wins: 28
-losses: 10
-inturn-total: 175
-inturn-percent: 76
-outturn-total: 86
-outturn-percent: 69
-draw-total: 133
-draw-percent: 76
-takeout-total: 128
-takeout-percent: 72
-shots-total: 261
-shots-percent: 74
+totals:
+ - event: Brier
+   games: 38
+   wins: 28
+   losses: 10
+   inturn-total: 175
+   inturn-percent: 76
+   outturn-total: 86
+   outturn-percent: 69
+   draw-total: 133
+   draw-percent: 76
+   takeout-total: 128
+   takeout-percent: 72
+   shots-total: 261
+   shots-percent: 74
 years:
  - year: 1980
    event: Brier

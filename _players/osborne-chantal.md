@@ -2,19 +2,21 @@
 title: Chantal Osborne
 name: Chantal Osborne
 name-sort: Osborne, Chantal
-games: 55
-wins: 21
-losses: 34
-inturn-total: 467
-inturn-percent: 72
-outturn-total: 602
-outturn-percent: 72
-draw-total: 473
-draw-percent: 67
-takeout-total: 596
-takeout-percent: 76
-shots-total: 1069
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 55
+   wins: 21
+   losses: 34
+   inturn-total: 467
+   inturn-percent: 72
+   outturn-total: 602
+   outturn-percent: 72
+   draw-total: 473
+   draw-percent: 67
+   takeout-total: 596
+   takeout-percent: 76
+   shots-total: 1069
+   shots-percent: 72
 years:
  - year: 1992
    event: Hearts

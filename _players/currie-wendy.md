@@ -2,19 +2,21 @@
 title: Wendy Currie
 name: Wendy Currie
 name-sort: Currie, Wendy
-games: 22
-wins: 14
-losses: 8
-inturn-total: 191
-inturn-percent: 75
-outturn-total: 231
-outturn-percent: 76
-draw-total: 234
-draw-percent: 77
-takeout-total: 188
-takeout-percent: 74
-shots-total: 422
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 22
+   wins: 14
+   losses: 8
+   inturn-total: 191
+   inturn-percent: 75
+   outturn-total: 231
+   outturn-percent: 76
+   draw-total: 234
+   draw-percent: 77
+   takeout-total: 188
+   takeout-percent: 74
+   shots-total: 422
+   shots-percent: 76
 years:
  - year: 1984
    event: Hearts

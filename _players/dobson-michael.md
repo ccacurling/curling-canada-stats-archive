@@ -2,9 +2,11 @@
 title: Michael Dobson
 name: Michael Dobson
 name-sort: Dobson, Michael
-games: 12
-wins: 7
-losses: 5
+totals:
+ - event: Brier
+   games: 12
+   wins: 7
+   losses: 5
 years:
  - year: 1984
    event: Brier

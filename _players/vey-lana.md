@@ -2,19 +2,21 @@
 title: Lana Vey
 name: Lana Vey
 name-sort: Vey, Lana
-games: 38
-wins: 24
-losses: 14
-inturn-total: 375
-inturn-percent: 86
-outturn-total: 296
-outturn-percent: 82
-draw-total: 393
-draw-percent: 84
-takeout-total: 278
-takeout-percent: 84
-shots-total: 671
-shots-percent: 84
+totals:
+ - event: Hearts
+   games: 38
+   wins: 24
+   losses: 14
+   inturn-total: 375
+   inturn-percent: 86
+   outturn-total: 296
+   outturn-percent: 82
+   draw-total: 393
+   draw-percent: 84
+   takeout-total: 278
+   takeout-percent: 84
+   shots-total: 671
+   shots-percent: 84
 years:
  - year: 2007
    event: Hearts

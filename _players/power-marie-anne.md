@@ -2,19 +2,21 @@
 title: Marie-Anne Power
 name: Marie-Anne Power
 name-sort: Power, Marie-Anne
-games: 43
-wins: 14
-losses: 29
-inturn-total: 350
-inturn-percent: 74
-outturn-total: 464
-outturn-percent: 77
-draw-total: 366
-draw-percent: 73
-takeout-total: 448
-takeout-percent: 78
-shots-total: 814
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 43
+   wins: 14
+   losses: 29
+   inturn-total: 350
+   inturn-percent: 74
+   outturn-total: 464
+   outturn-percent: 77
+   draw-total: 366
+   draw-percent: 73
+   takeout-total: 448
+   takeout-percent: 78
+   shots-total: 814
+   shots-percent: 76
 years:
  - year: 1987
    event: Hearts

@@ -2,19 +2,21 @@
 title: Kalia Van Osch
 name: Kalia Van Osch
 name-sort: Van Osch, Kalia
-games: 10
-wins: 3
-losses: 7
-inturn-total: 107
-inturn-percent: 81
-outturn-total: 81
-outturn-percent: 84
-draw-total: 89
-draw-percent: 85
-takeout-total: 99
-takeout-percent: 81
-shots-total: 188
-shots-percent: 83
+totals:
+ - event: Hearts
+   games: 10
+   wins: 3
+   losses: 7
+   inturn-total: 107
+   inturn-percent: 81
+   outturn-total: 81
+   outturn-percent: 84
+   draw-total: 89
+   draw-percent: 85
+   takeout-total: 99
+   takeout-percent: 81
+   shots-total: 188
+   shots-percent: 83
 years:
  - year: 2018
    event: Hearts

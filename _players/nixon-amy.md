@@ -2,19 +2,21 @@
 title: Amy Nixon
 name: Amy Nixon
 name-sort: Nixon, Amy
-games: 62
-wins: 45
-losses: 17
-inturn-total: 592
-inturn-percent: 82
-outturn-total: 589
-outturn-percent: 81
-draw-total: 441
-draw-percent: 76
-takeout-total: 740
-takeout-percent: 85
-shots-total: 1181
-shots-percent: 81
+totals:
+ - event: Hearts
+   games: 62
+   wins: 45
+   losses: 17
+   inturn-total: 592
+   inturn-percent: 82
+   outturn-total: 589
+   outturn-percent: 81
+   draw-total: 441
+   draw-percent: 76
+   takeout-total: 740
+   takeout-percent: 85
+   shots-total: 1181
+   shots-percent: 81
 years:
  - year: 2004
    event: Hearts

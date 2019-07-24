@@ -2,19 +2,21 @@
 title: Bronwen Webster
 name: Bronwen Webster
 name-sort: Webster, Bronwen
-games: 24
-wins: 17
-losses: 7
-inturn-total: 281
-inturn-percent: 83
-outturn-total: 186
-outturn-percent: 80
-draw-total: 175
-draw-percent: 77
-takeout-total: 292
-takeout-percent: 84
-shots-total: 467
-shots-percent: 82
+totals:
+ - event: Hearts
+   games: 24
+   wins: 17
+   losses: 7
+   inturn-total: 281
+   inturn-percent: 83
+   outturn-total: 186
+   outturn-percent: 80
+   draw-total: 175
+   draw-percent: 77
+   takeout-total: 292
+   takeout-percent: 84
+   shots-total: 467
+   shots-percent: 82
 years:
  - year: 2008
    event: Hearts

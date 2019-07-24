@@ -2,19 +2,21 @@
 title: Marc LeCocq
 name: Marc LeCocq
 name-sort: LeCocq, Marc
-games: 86
-wins: 39
-losses: 47
-inturn-total: 747
-inturn-percent: 84
-outturn-total: 913
-outturn-percent: 83
-draw-total: 705
-draw-percent: 84
-takeout-total: 955
-takeout-percent: 83
-shots-total: 1660
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 86
+   wins: 39
+   losses: 47
+   inturn-total: 747
+   inturn-percent: 84
+   outturn-total: 913
+   outturn-percent: 83
+   draw-total: 705
+   draw-percent: 84
+   takeout-total: 955
+   takeout-percent: 83
+   shots-total: 1660
+   shots-percent: 83
 years:
  - year: 1993
    event: Brier

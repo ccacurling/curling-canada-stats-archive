@@ -2,19 +2,21 @@
 title: Jeff Hopkins
 name: Jeff Hopkins
 name-sort: Hopkins, Jeff
-games: 22
-wins: 9
-losses: 13
-inturn-total: 212
-inturn-percent: 82
-outturn-total: 193
-outturn-percent: 76
-draw-total: 183
-draw-percent: 77
-takeout-total: 222
-takeout-percent: 81
-shots-total: 405
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 22
+   wins: 9
+   losses: 13
+   inturn-total: 212
+   inturn-percent: 82
+   outturn-total: 193
+   outturn-percent: 76
+   draw-total: 183
+   draw-percent: 77
+   takeout-total: 222
+   takeout-percent: 81
+   shots-total: 405
+   shots-percent: 79
 years:
  - year: 2000
    event: Brier

@@ -2,19 +2,21 @@
 title: Renee Simons
 name: Renee Simons
 name-sort: Simons, Renee
-games: 51
-wins: 36
-losses: 15
-inturn-total: 463
-inturn-percent: 82
-outturn-total: 465
-outturn-percent: 84
-draw-total: 691
-draw-percent: 83
-takeout-total: 237
-takeout-percent: 84
-shots-total: 928
-shots-percent: 83
+totals:
+ - event: Hearts
+   games: 51
+   wins: 36
+   losses: 15
+   inturn-total: 463
+   inturn-percent: 82
+   outturn-total: 465
+   outturn-percent: 84
+   draw-total: 691
+   draw-percent: 83
+   takeout-total: 237
+   takeout-percent: 84
+   shots-total: 928
+   shots-percent: 83
 years:
  - year: 2005
    event: Hearts

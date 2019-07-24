@@ -2,19 +2,21 @@
 title: Lou McCrae
 name: Lou McCrae
 name-sort: McCrae, Lou
-games: 21
-wins: 14
-losses: 7
-inturn-total: 228
-inturn-percent: 61
-outturn-total: 174
-outturn-percent: 56
-draw-total: 192
-draw-percent: 58
-takeout-total: 210
-takeout-percent: 60
-shots-total: 402
-shots-percent: 59
+totals:
+ - event: Hearts
+   games: 21
+   wins: 14
+   losses: 7
+   inturn-total: 228
+   inturn-percent: 61
+   outturn-total: 174
+   outturn-percent: 56
+   draw-total: 192
+   draw-percent: 58
+   takeout-total: 210
+   takeout-percent: 60
+   shots-total: 402
+   shots-percent: 59
 years:
  - year: 1983
    event: Hearts

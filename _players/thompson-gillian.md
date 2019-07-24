@@ -2,19 +2,21 @@
 title: Gillian Thompson
 name: Gillian Thompson
 name-sort: Thompson, Gillian
-games: 22
-wins: 14
-losses: 8
-inturn-total: 169
-inturn-percent: 69
-outturn-total: 248
-outturn-percent: 74
-draw-total: 161
-draw-percent: 70
-takeout-total: 256
-takeout-percent: 73
-shots-total: 417
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 22
+   wins: 14
+   losses: 8
+   inturn-total: 169
+   inturn-percent: 69
+   outturn-total: 248
+   outturn-percent: 74
+   draw-total: 161
+   draw-percent: 70
+   takeout-total: 256
+   takeout-percent: 73
+   shots-total: 417
+   shots-percent: 72
 years:
  - year: 1984
    event: Hearts

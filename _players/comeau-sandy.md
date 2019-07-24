@@ -2,19 +2,21 @@
 title: Sandy Comeau
 name: Sandy Comeau
 name-sort: Comeau, Sandy
-games: 35
-wins: 10
-losses: 25
-inturn-total: 319
-inturn-percent: 70
-outturn-total: 342
-outturn-percent: 73
-draw-total: 343
-draw-percent: 71
-takeout-total: 318
-takeout-percent: 71
-shots-total: 661
-shots-percent: 71
+totals:
+ - event: Hearts
+   games: 35
+   wins: 10
+   losses: 25
+   inturn-total: 319
+   inturn-percent: 70
+   outturn-total: 342
+   outturn-percent: 73
+   draw-total: 343
+   draw-percent: 71
+   takeout-total: 318
+   takeout-percent: 71
+   shots-total: 661
+   shots-percent: 71
 years:
  - year: 1993
    event: Hearts

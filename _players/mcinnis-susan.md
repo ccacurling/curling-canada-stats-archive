@@ -2,19 +2,21 @@
 title: Susan McInnis
 name: Susan McInnis
 name-sort: McInnis, Susan
-games: 99
-wins: 42
-losses: 57
-inturn-total: 799
-inturn-percent: 73
-outturn-total: 1037
-outturn-percent: 77
-draw-total: 953
-draw-percent: 74
-takeout-total: 883
-takeout-percent: 77
-shots-total: 1836
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 99
+   wins: 42
+   losses: 57
+   inturn-total: 799
+   inturn-percent: 73
+   outturn-total: 1037
+   outturn-percent: 77
+   draw-total: 953
+   draw-percent: 74
+   takeout-total: 883
+   takeout-percent: 77
+   shots-total: 1836
+   shots-percent: 75
 years:
  - year: 1989
    event: Hearts

@@ -2,19 +2,21 @@
 title: John Grundy
 name: John Grundy
 name-sort: Grundy, John
-games: 34
-wins: 19
-losses: 15
-inturn-total: 89
-inturn-percent: 88
-outturn-total: 349
-outturn-percent: 83
-draw-total: 236
-draw-percent: 86
-takeout-total: 202
-takeout-percent: 81
-shots-total: 438
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 34
+   wins: 19
+   losses: 15
+   inturn-total: 89
+   inturn-percent: 88
+   outturn-total: 349
+   outturn-percent: 83
+   draw-total: 236
+   draw-percent: 86
+   takeout-total: 202
+   takeout-percent: 81
+   shots-total: 438
+   shots-percent: 84
 years:
  - year: 1983
    event: Brier

@@ -2,19 +2,21 @@
 title: Tina McDonald
 name: Tina McDonald
 name-sort: McDonald, Tina
-games: 33
-wins: 15
-losses: 18
-inturn-total: 311
-inturn-percent: 68
-outturn-total: 307
-outturn-percent: 74
-draw-total: 262
-draw-percent: 71
-takeout-total: 356
-takeout-percent: 71
-shots-total: 618
-shots-percent: 71
+totals:
+ - event: Hearts
+   games: 33
+   wins: 15
+   losses: 18
+   inturn-total: 311
+   inturn-percent: 68
+   outturn-total: 307
+   outturn-percent: 74
+   draw-total: 262
+   draw-percent: 71
+   takeout-total: 356
+   takeout-percent: 71
+   shots-total: 618
+   shots-percent: 71
 years:
  - year: 1987
    event: Hearts

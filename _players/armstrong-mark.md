@@ -2,19 +2,21 @@
 title: Mark Armstrong
 name: Mark Armstrong
 name-sort: Armstrong, Mark
-games: 33
-wins: 9
-losses: 24
-inturn-total: 297
-inturn-percent: 73
-outturn-total: 343
-outturn-percent: 75
-draw-total: 355
-draw-percent: 76
-takeout-total: 285
-takeout-percent: 73
-shots-total: 640
-shots-percent: 74
+totals:
+ - event: Brier
+   games: 33
+   wins: 9
+   losses: 24
+   inturn-total: 297
+   inturn-percent: 73
+   outturn-total: 343
+   outturn-percent: 75
+   draw-total: 355
+   draw-percent: 76
+   takeout-total: 285
+   takeout-percent: 73
+   shots-total: 640
+   shots-percent: 74
 years:
  - year: 1987
    event: Brier

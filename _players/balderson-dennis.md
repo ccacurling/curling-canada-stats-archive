@@ -2,19 +2,21 @@
 title: Dennis Balderson
 name: Dennis Balderson
 name-sort: Balderson, Dennis
-games: 10
-wins: 3
-losses: 7
-inturn-total: 100
-inturn-percent: 80
-outturn-total: 94
-outturn-percent: 88
-draw-total: 123
-draw-percent: 89
-takeout-total: 71
-takeout-percent: 74
-shots-total: 194
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 10
+   wins: 3
+   losses: 7
+   inturn-total: 100
+   inturn-percent: 80
+   outturn-total: 94
+   outturn-percent: 88
+   draw-total: 123
+   draw-percent: 89
+   takeout-total: 71
+   takeout-percent: 74
+   shots-total: 194
+   shots-percent: 84
 years:
  - year: 1990
    event: Brier

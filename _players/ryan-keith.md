@@ -2,19 +2,21 @@
 title: Keith Ryan
 name: Keith Ryan
 name-sort: Ryan, Keith
-games: 22
-wins: 7
-losses: 15
-inturn-total: 177
-inturn-percent: 76
-outturn-total: 240
-outturn-percent: 77
-draw-total: 192
-draw-percent: 80
-takeout-total: 225
-takeout-percent: 74
-shots-total: 417
-shots-percent: 77
+totals:
+ - event: Brier
+   games: 22
+   wins: 7
+   losses: 15
+   inturn-total: 177
+   inturn-percent: 76
+   outturn-total: 240
+   outturn-percent: 77
+   draw-total: 192
+   draw-percent: 80
+   takeout-total: 225
+   takeout-percent: 74
+   shots-total: 417
+   shots-percent: 77
 years:
  - year: 2001
    event: Brier

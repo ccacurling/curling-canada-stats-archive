@@ -2,19 +2,21 @@
 title: John Bubbs
 name: John Bubbs
 name-sort: Bubbs, John
-games: 22
-wins: 8
-losses: 14
-inturn-total: 185
-inturn-percent: 78
-outturn-total: 218
-outturn-percent: 76
-draw-total: 178
-draw-percent: 71
-takeout-total: 225
-takeout-percent: 82
-shots-total: 403
-shots-percent: 77
+totals:
+ - event: Brier
+   games: 22
+   wins: 8
+   losses: 14
+   inturn-total: 185
+   inturn-percent: 78
+   outturn-total: 218
+   outturn-percent: 76
+   draw-total: 178
+   draw-percent: 71
+   takeout-total: 225
+   takeout-percent: 82
+   shots-total: 403
+   shots-percent: 77
 years:
  - year: 1985
    event: Brier

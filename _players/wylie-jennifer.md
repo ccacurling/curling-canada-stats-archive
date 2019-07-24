@@ -2,19 +2,21 @@
 title: Jennifer Wylie
 name: Jennifer Wylie
 name-sort: Wylie, Jennifer
-games: 29
-wins: 15
-losses: 14
-inturn-total: 265
-inturn-percent: 76
-outturn-total: 287
-outturn-percent: 78
-draw-total: 232
-draw-percent: 72
-takeout-total: 320
-takeout-percent: 81
-shots-total: 552
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 29
+   wins: 15
+   losses: 14
+   inturn-total: 265
+   inturn-percent: 76
+   outturn-total: 287
+   outturn-percent: 78
+   draw-total: 232
+   draw-percent: 72
+   takeout-total: 320
+   takeout-percent: 81
+   shots-total: 552
+   shots-percent: 77
 years:
  - year: 2012
    event: Hearts

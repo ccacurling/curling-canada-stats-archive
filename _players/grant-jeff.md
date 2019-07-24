@@ -2,19 +2,21 @@
 title: Jeff Grant
 name: Jeff Grant
 name-sort: Grant, Jeff
-games: 2
-wins: 2
-losses: 0
-inturn-total: 0
-inturn-percent:
-outturn-total: 4
-outturn-percent: 75
-draw-total: 2
-draw-percent: 100
-takeout-total: 2
-takeout-percent: 50
-shots-total: 4
-shots-percent: 75
+totals:
+ - event: Brier
+   games: 2
+   wins: 2
+   losses: 0
+   inturn-total: 0
+   inturn-percent:
+   outturn-total: 4
+   outturn-percent: 75
+   draw-total: 2
+   draw-percent: 100
+   takeout-total: 2
+   takeout-percent: 50
+   shots-total: 4
+   shots-percent: 75
 years:
  - year: 2019
    event: Brier

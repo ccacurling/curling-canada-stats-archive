@@ -2,19 +2,21 @@
 title: Marcel Rocque
 name: Marcel Rocque
 name-sort: Rocque, Marcel
-games: 64
-wins: 56
-losses: 8
-inturn-total: 373
-inturn-percent: 90
-outturn-total: 768
-outturn-percent: 90
-draw-total: 939
-draw-percent: 92
-takeout-total: 202
-takeout-percent: 84
-shots-total: 1141
-shots-percent: 90
+totals:
+ - event: Brier
+   games: 64
+   wins: 56
+   losses: 8
+   inturn-total: 373
+   inturn-percent: 90
+   outturn-total: 768
+   outturn-percent: 90
+   draw-total: 939
+   draw-percent: 92
+   takeout-total: 202
+   takeout-percent: 84
+   shots-total: 1141
+   shots-percent: 90
 years:
  - year: 2001
    event: Brier

@@ -2,19 +2,21 @@
 title: Doug Harcourt
 name: Doug Harcourt
 name-sort: Harcourt, Doug
-games: 33
-wins: 14
-losses: 19
-inturn-total: 336
-inturn-percent: 78
-outturn-total: 287
-outturn-percent: 77
-draw-total: 304
-draw-percent: 78
-takeout-total: 319
-takeout-percent: 78
-shots-total: 623
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 33
+   wins: 14
+   losses: 19
+   inturn-total: 336
+   inturn-percent: 78
+   outturn-total: 287
+   outturn-percent: 77
+   draw-total: 304
+   draw-percent: 78
+   takeout-total: 319
+   takeout-percent: 78
+   shots-total: 623
+   shots-percent: 78
 years:
  - year: 1994
    event: Brier

@@ -2,19 +2,21 @@
 title: Stephanie LeDrew
 name: Stephanie LeDrew
 name-sort: LeDrew, Stephanie
-games: 28
-wins: 14
-losses: 14
-inturn-total: 208
-inturn-percent: 77
-outturn-total: 229
-outturn-percent: 75
-draw-total: 210
-draw-percent: 75
-takeout-total: 227
-takeout-percent: 77
-shots-total: 437
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 28
+   wins: 14
+   losses: 14
+   inturn-total: 208
+   inturn-percent: 77
+   outturn-total: 229
+   outturn-percent: 75
+   draw-total: 210
+   draw-percent: 75
+   takeout-total: 227
+   takeout-percent: 77
+   shots-total: 437
+   shots-percent: 76
 years:
  - year: 2010
    event: Hearts

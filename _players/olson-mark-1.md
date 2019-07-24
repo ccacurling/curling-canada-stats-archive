@@ -2,9 +2,11 @@
 title: Mark-1 Olson
 name: Mark-1 Olson
 name-sort: Olson, Mark-1
-games: 13
-wins: 10
-losses: 3
+totals:
+ - event: Brier
+   games: 13
+   wins: 10
+   losses: 3
 years:
  - year: 1981
    event: Brier

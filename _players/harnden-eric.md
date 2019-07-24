@@ -2,19 +2,21 @@
 title: Eric Harnden
 name: Eric Harnden
 name-sort: Harnden, Eric
-games: 33
-wins: 18
-losses: 15
-inturn-total: 133
-inturn-percent: 76
-outturn-total: 254
-outturn-percent: 79
-draw-total: 176
-draw-percent: 75
-takeout-total: 211
-takeout-percent: 81
-shots-total: 387
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 33
+   wins: 18
+   losses: 15
+   inturn-total: 133
+   inturn-percent: 76
+   outturn-total: 254
+   outturn-percent: 79
+   draw-total: 176
+   draw-percent: 75
+   takeout-total: 211
+   takeout-percent: 81
+   shots-total: 387
+   shots-percent: 78
 years:
  - year: 1983
    event: Brier

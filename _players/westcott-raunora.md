@@ -2,19 +2,21 @@
 title: Raunora Westcott
 name: Raunora Westcott
 name-sort: Westcott, Raunora
-games: 45
-wins: 27
-losses: 18
-inturn-total: 624
-inturn-percent: 83
-outturn-total: 198
-outturn-percent: 78
-draw-total: 693
-draw-percent: 82
-takeout-total: 129
-takeout-percent: 80
-shots-total: 822
-shots-percent: 82
+totals:
+ - event: Hearts
+   games: 45
+   wins: 27
+   losses: 18
+   inturn-total: 624
+   inturn-percent: 83
+   outturn-total: 198
+   outturn-percent: 78
+   draw-total: 693
+   draw-percent: 82
+   takeout-total: 129
+   takeout-percent: 80
+   shots-total: 822
+   shots-percent: 82
 years:
  - year: 2010
    event: Hearts

@@ -2,19 +2,21 @@
 title: Bruce Lohnes
 name: Bruce Lohnes
 name-sort: Lohnes, Bruce
-games: 84
-wins: 44
-losses: 40
-inturn-total: 719
-inturn-percent: 76
-outturn-total: 839
-outturn-percent: 80
-draw-total: 719
-draw-percent: 75
-takeout-total: 839
-takeout-percent: 81
-shots-total: 1558
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 84
+   wins: 44
+   losses: 40
+   inturn-total: 719
+   inturn-percent: 76
+   outturn-total: 839
+   outturn-percent: 80
+   draw-total: 719
+   draw-percent: 75
+   takeout-total: 839
+   takeout-percent: 81
+   shots-total: 1558
+   shots-percent: 78
 years:
  - year: 1989
    event: Brier

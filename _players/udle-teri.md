@@ -2,19 +2,21 @@
 title: Teri Udle
 name: Teri Udle
 name-sort: Udle, Teri
-games: 58
-wins: 26
-losses: 32
-inturn-total: 782
-inturn-percent: 83
-outturn-total: 286
-outturn-percent: 78
-draw-total: 801
-draw-percent: 83
-takeout-total: 267
-takeout-percent: 77
-shots-total: 1068
-shots-percent: 82
+totals:
+ - event: Hearts
+   games: 58
+   wins: 26
+   losses: 32
+   inturn-total: 782
+   inturn-percent: 83
+   outturn-total: 286
+   outturn-percent: 78
+   draw-total: 801
+   draw-percent: 83
+   takeout-total: 267
+   takeout-percent: 77
+   shots-total: 1068
+   shots-percent: 82
 years:
  - year: 2007
    event: Hearts

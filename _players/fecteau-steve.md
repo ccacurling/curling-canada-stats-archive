@@ -2,19 +2,21 @@
 title: Steve Fecteau
 name: Steve Fecteau
 name-sort: Fecteau, Steve
-games: 7
-wins: 1
-losses: 6
-inturn-total: 63
-inturn-percent: 82
-outturn-total: 65
-outturn-percent: 80
-draw-total: 95
-draw-percent: 83
-takeout-total: 33
-takeout-percent: 73
-shots-total: 128
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 7
+   wins: 1
+   losses: 6
+   inturn-total: 63
+   inturn-percent: 82
+   outturn-total: 65
+   outturn-percent: 80
+   draw-total: 95
+   draw-percent: 83
+   takeout-total: 33
+   takeout-percent: 73
+   shots-total: 128
+   shots-percent: 81
 years:
  - year: 2018
    event: Brier

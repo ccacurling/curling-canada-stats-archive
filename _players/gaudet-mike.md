@@ -2,19 +2,21 @@
 title: Mike Gaudet
 name: Mike Gaudet
 name-sort: Gaudet, Mike
-games: 44
-wins: 8
-losses: 36
-inturn-total: 360
-inturn-percent: 70
-outturn-total: 422
-outturn-percent: 71
-draw-total: 387
-draw-percent: 69
-takeout-total: 395
-takeout-percent: 73
-shots-total: 782
-shots-percent: 71
+totals:
+ - event: Brier
+   games: 44
+   wins: 8
+   losses: 36
+   inturn-total: 360
+   inturn-percent: 70
+   outturn-total: 422
+   outturn-percent: 71
+   draw-total: 387
+   draw-percent: 69
+   takeout-total: 395
+   takeout-percent: 73
+   shots-total: 782
+   shots-percent: 71
 years:
  - year: 1994
    event: Brier

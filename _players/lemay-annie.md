@@ -2,19 +2,21 @@
 title: Annie Lemay
 name: Annie Lemay
 name-sort: Lemay, Annie
-games: 94
-wins: 47
-losses: 47
-inturn-total: 840
-inturn-percent: 76
-outturn-total: 961
-outturn-percent: 78
-draw-total: 823
-draw-percent: 75
-takeout-total: 978
-takeout-percent: 79
-shots-total: 1801
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 94
+   wins: 47
+   losses: 47
+   inturn-total: 840
+   inturn-percent: 76
+   outturn-total: 961
+   outturn-percent: 78
+   draw-total: 823
+   draw-percent: 75
+   takeout-total: 978
+   takeout-percent: 79
+   shots-total: 1801
+   shots-percent: 77
 years:
  - year: 1999
    event: Hearts

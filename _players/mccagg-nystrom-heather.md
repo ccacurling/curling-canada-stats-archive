@@ -2,19 +2,21 @@
 title: Heather McCagg-Nystrom
 name: Heather McCagg-Nystrom
 name-sort: McCagg-Nystrom, Heather
-games: 55
-wins: 13
-losses: 42
-inturn-total: 591
-inturn-percent: 78
-outturn-total: 450
-outturn-percent: 76
-draw-total: 852
-draw-percent: 79
-takeout-total: 189
-takeout-percent: 70
-shots-total: 1041
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 55
+   wins: 13
+   losses: 42
+   inturn-total: 591
+   inturn-percent: 78
+   outturn-total: 450
+   outturn-percent: 76
+   draw-total: 852
+   draw-percent: 79
+   takeout-total: 189
+   takeout-percent: 70
+   shots-total: 1041
+   shots-percent: 77
 years:
  - year: 2001
    event: Hearts

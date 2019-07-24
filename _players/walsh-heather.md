@@ -2,9 +2,11 @@
 title: Heather Walsh
 name: Heather Walsh
 name-sort: Walsh, Heather
-games: 0
-wins: 0
-losses: 0
+totals:
+ - event: Hearts
+   games: 0
+   wins: 0
+   losses: 0
 years:
  - year: 2002
    event: Hearts

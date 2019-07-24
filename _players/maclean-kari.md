@@ -2,19 +2,21 @@
 title: Kari MacLean
 name: Kari MacLean
 name-sort: MacLean, Kari
-games: 25
-wins: 15
-losses: 10
-inturn-total: 240
-inturn-percent: 80
-outturn-total: 231
-outturn-percent: 79
-draw-total: 283
-draw-percent: 80
-takeout-total: 188
-takeout-percent: 78
-shots-total: 471
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 25
+   wins: 15
+   losses: 10
+   inturn-total: 240
+   inturn-percent: 80
+   outturn-total: 231
+   outturn-percent: 79
+   draw-total: 283
+   draw-percent: 80
+   takeout-total: 188
+   takeout-percent: 78
+   shots-total: 471
+   shots-percent: 79
 years:
  - year: 2009
    event: Hearts

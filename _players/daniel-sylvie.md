@@ -2,19 +2,21 @@
 title: Sylvie Daniel
 name: Sylvie Daniel
 name-sort: Daniel, Sylvie
-games: 55
-wins: 21
-losses: 34
-inturn-total: 442
-inturn-percent: 77
-outturn-total: 621
-outturn-percent: 78
-draw-total: 686
-draw-percent: 80
-takeout-total: 377
-takeout-percent: 73
-shots-total: 1063
-shots-percent: 78
+totals:
+ - event: Hearts
+   games: 55
+   wins: 21
+   losses: 34
+   inturn-total: 442
+   inturn-percent: 77
+   outturn-total: 621
+   outturn-percent: 78
+   draw-total: 686
+   draw-percent: 80
+   takeout-total: 377
+   takeout-percent: 73
+   shots-total: 1063
+   shots-percent: 78
 years:
  - year: 1992
    event: Hearts

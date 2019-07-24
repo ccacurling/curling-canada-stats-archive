@@ -2,19 +2,21 @@
 title: Sarah Potts
 name: Sarah Potts
 name-sort: Potts, Sarah
-games: 42
-wins: 27
-losses: 15
-inturn-total: 417
-inturn-percent: 88
-outturn-total: 338
-outturn-percent: 87
-draw-total: 618
-draw-percent: 89
-takeout-total: 137
-takeout-percent: 82
-shots-total: 755
-shots-percent: 88
+totals:
+ - event: Hearts
+   games: 42
+   wins: 27
+   losses: 15
+   inturn-total: 417
+   inturn-percent: 88
+   outturn-total: 338
+   outturn-percent: 87
+   draw-total: 618
+   draw-percent: 89
+   takeout-total: 137
+   takeout-percent: 82
+   shots-total: 755
+   shots-percent: 88
 years:
  - year: 2010
    event: Hearts

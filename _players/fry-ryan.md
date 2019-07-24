@@ -2,19 +2,21 @@
 title: Ryan Fry
 name: Ryan Fry
 name-sort: Fry, Ryan
-games: 141
-wins: 99
-losses: 42
-inturn-total: 1022
-inturn-percent: 86
-outturn-total: 1590
-outturn-percent: 87
-draw-total: 925
-draw-percent: 85
-takeout-total: 1687
-takeout-percent: 88
-shots-total: 2612
-shots-percent: 87
+totals:
+ - event: Brier
+   games: 141
+   wins: 99
+   losses: 42
+   inturn-total: 1022
+   inturn-percent: 86
+   outturn-total: 1590
+   outturn-percent: 87
+   draw-total: 925
+   draw-percent: 85
+   takeout-total: 1687
+   takeout-percent: 88
+   shots-total: 2612
+   shots-percent: 87
 years:
  - year: 2007
    event: Brier

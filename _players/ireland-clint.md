@@ -2,19 +2,21 @@
 title: Clint Ireland
 name: Clint Ireland
 name-sort: Ireland, Clint
-games: 13
-wins: 4
-losses: 9
-inturn-total: 152
-inturn-percent: 85
-outturn-total: 86
-outturn-percent: 73
-draw-total: 205
-draw-percent: 83
-takeout-total: 33
-takeout-percent: 67
-shots-total: 238
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 13
+   wins: 4
+   losses: 9
+   inturn-total: 152
+   inturn-percent: 85
+   outturn-total: 86
+   outturn-percent: 73
+   draw-total: 205
+   draw-percent: 83
+   takeout-total: 33
+   takeout-percent: 67
+   shots-total: 238
+   shots-percent: 80
 years:
  - year: 2008
    event: Brier

@@ -2,19 +2,21 @@
 title: Mark Ward
 name: Mark Ward
 name-sort: Ward, Mark
-games: 23
-wins: 14
-losses: 9
-inturn-total: 89
-inturn-percent: 83
-outturn-total: 309
-outturn-percent: 89
-draw-total: 344
-draw-percent: 88
-takeout-total: 54
-takeout-percent: 86
-shots-total: 398
-shots-percent: 88
+totals:
+ - event: Brier
+   games: 23
+   wins: 14
+   losses: 9
+   inturn-total: 89
+   inturn-percent: 83
+   outturn-total: 309
+   outturn-percent: 89
+   draw-total: 344
+   draw-percent: 88
+   takeout-total: 54
+   takeout-percent: 86
+   shots-total: 398
+   shots-percent: 88
 years:
  - year: 2003
    event: Brier

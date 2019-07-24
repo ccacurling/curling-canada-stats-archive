@@ -2,19 +2,21 @@
 title: Denni Neufeld
 name: Denni Neufeld
 name-sort: Neufeld, Denni
-games: 38
-wins: 25
-losses: 13
-inturn-total: 501
-inturn-percent: 94
-outturn-total: 203
-outturn-percent: 91
-draw-total: 600
-draw-percent: 94
-takeout-total: 104
-takeout-percent: 88
-shots-total: 704
-shots-percent: 93
+totals:
+ - event: Brier
+   games: 38
+   wins: 25
+   losses: 13
+   inturn-total: 501
+   inturn-percent: 94
+   outturn-total: 203
+   outturn-percent: 91
+   draw-total: 600
+   draw-percent: 94
+   takeout-total: 104
+   takeout-percent: 88
+   shots-total: 704
+   shots-percent: 93
 years:
  - year: 2016
    event: Brier

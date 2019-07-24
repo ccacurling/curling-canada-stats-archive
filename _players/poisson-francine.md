@@ -2,19 +2,21 @@
 title: Francine Poisson
 name: Francine Poisson
 name-sort: Poisson, Francine
-games: 32
-wins: 11
-losses: 21
-inturn-total: 258
-inturn-percent: 63
-outturn-total: 305
-outturn-percent: 65
-draw-total: 287
-draw-percent: 58
-takeout-total: 276
-takeout-percent: 70
-shots-total: 563
-shots-percent: 64
+totals:
+ - event: Hearts
+   games: 32
+   wins: 11
+   losses: 21
+   inturn-total: 258
+   inturn-percent: 63
+   outturn-total: 305
+   outturn-percent: 65
+   draw-total: 287
+   draw-percent: 58
+   takeout-total: 276
+   takeout-percent: 70
+   shots-total: 563
+   shots-percent: 64
 years:
  - year: 1988
    event: Hearts

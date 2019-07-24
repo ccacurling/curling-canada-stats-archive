@@ -2,19 +2,21 @@
 title: Don Bartlett
 name: Don Bartlett
 name-sort: Bartlett, Don
-games: 85
-wins: 60
-losses: 25
-inturn-total: 737
-inturn-percent: 84
-outturn-total: 737
-outturn-percent: 86
-draw-total: 1078
-draw-percent: 86
-takeout-total: 396
-takeout-percent: 83
-shots-total: 1474
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 85
+   wins: 60
+   losses: 25
+   inturn-total: 737
+   inturn-percent: 84
+   outturn-total: 737
+   outturn-percent: 86
+   draw-total: 1078
+   draw-percent: 86
+   takeout-total: 396
+   takeout-percent: 83
+   shots-total: 1474
+   shots-percent: 85
 years:
  - year: 1985
    event: Brier

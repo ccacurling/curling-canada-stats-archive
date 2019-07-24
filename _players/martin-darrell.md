@@ -2,9 +2,11 @@
 title: Darrell Martin
 name: Darrell Martin
 name-sort: Martin, Darrell
-games: 11
-wins: 1
-losses: 10
+totals:
+ - event: Brier
+   games: 11
+   wins: 1
+   losses: 10
 years:
  - year: 1983
    event: Brier

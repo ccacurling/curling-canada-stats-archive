@@ -2,19 +2,21 @@
 title: Tara Naugler
 name: Tara Naugler
 name-sort: Naugler, Tara
-games: 21
-wins: 6
-losses: 15
-inturn-total: 222
-inturn-percent: 74
-outturn-total: 180
-outturn-percent: 74
-draw-total: 211
-draw-percent: 74
-takeout-total: 191
-takeout-percent: 74
-shots-total: 402
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 21
+   wins: 6
+   losses: 15
+   inturn-total: 222
+   inturn-percent: 74
+   outturn-total: 180
+   outturn-percent: 74
+   draw-total: 211
+   draw-percent: 74
+   takeout-total: 191
+   takeout-percent: 74
+   shots-total: 402
+   shots-percent: 74
 years:
  - year: 2003
    event: Hearts

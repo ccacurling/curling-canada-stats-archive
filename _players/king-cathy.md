@@ -2,19 +2,21 @@
 title: Cathy King
 name: Cathy King
 name-sort: King, Cathy
-games: 89
-wins: 57
-losses: 32
-inturn-total: 767
-inturn-percent: 76
-outturn-total: 868
-outturn-percent: 78
-draw-total: 717
-draw-percent: 74
-takeout-total: 918
-takeout-percent: 79
-shots-total: 1635
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 89
+   wins: 57
+   losses: 32
+   inturn-total: 767
+   inturn-percent: 76
+   outturn-total: 868
+   outturn-percent: 78
+   draw-total: 717
+   draw-percent: 74
+   takeout-total: 918
+   takeout-percent: 79
+   shots-total: 1635
+   shots-percent: 77
 years:
  - year: 1995
    event: Hearts

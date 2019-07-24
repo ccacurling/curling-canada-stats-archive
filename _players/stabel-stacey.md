@@ -2,19 +2,21 @@
 title: Stacey Stabel
 name: Stacey Stabel
 name-sort: Stabel, Stacey
-games: 22
-wins: 3
-losses: 19
-inturn-total: 218
-inturn-percent: 68
-outturn-total: 190
-outturn-percent: 74
-draw-total: 179
-draw-percent: 70
-takeout-total: 229
-takeout-percent: 71
-shots-total: 408
-shots-percent: 71
+totals:
+ - event: Hearts
+   games: 22
+   wins: 3
+   losses: 19
+   inturn-total: 218
+   inturn-percent: 68
+   outturn-total: 190
+   outturn-percent: 74
+   draw-total: 179
+   draw-percent: 70
+   takeout-total: 229
+   takeout-percent: 71
+   shots-total: 408
+   shots-percent: 71
 years:
  - year: 2001
    event: Hearts

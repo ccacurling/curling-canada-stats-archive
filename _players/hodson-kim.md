@@ -2,19 +2,21 @@
 title: Kim Hodson
 name: Kim Hodson
 name-sort: Hodson, Kim
-games: 25
-wins: 17
-losses: 8
-inturn-total: 201
-inturn-percent: 80
-outturn-total: 281
-outturn-percent: 84
-draw-total: 169
-draw-percent: 76
-takeout-total: 313
-takeout-percent: 86
-shots-total: 482
-shots-percent: 82
+totals:
+ - event: Hearts
+   games: 25
+   wins: 17
+   losses: 8
+   inturn-total: 201
+   inturn-percent: 80
+   outturn-total: 281
+   outturn-percent: 84
+   draw-total: 169
+   draw-percent: 76
+   takeout-total: 313
+   takeout-percent: 86
+   shots-total: 482
+   shots-percent: 82
 years:
  - year: 1996
    event: Hearts

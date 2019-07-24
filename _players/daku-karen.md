@@ -2,19 +2,21 @@
 title: Karen Daku
 name: Karen Daku
 name-sort: Daku, Karen
-games: 24
-wins: 14
-losses: 10
-inturn-total: 201
-inturn-percent: 80
-outturn-total: 245
-outturn-percent: 78
-draw-total: 181
-draw-percent: 76
-takeout-total: 265
-takeout-percent: 81
-shots-total: 446
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 24
+   wins: 14
+   losses: 10
+   inturn-total: 201
+   inturn-percent: 80
+   outturn-total: 245
+   outturn-percent: 78
+   draw-total: 181
+   draw-percent: 76
+   takeout-total: 265
+   takeout-percent: 81
+   shots-total: 446
+   shots-percent: 79
 years:
  - year: 1998
    event: Hearts

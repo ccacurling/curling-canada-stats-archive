@@ -2,19 +2,21 @@
 title: Garth Smith
 name: Garth Smith
 name-sort: Smith, Garth
-games: 13
-wins: 8
-losses: 5
-inturn-total: 63
-inturn-percent: 82
-outturn-total: 134
-outturn-percent: 85
-draw-total: 173
-draw-percent: 86
-takeout-total: 24
-takeout-percent: 69
-shots-total: 197
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 63
+   inturn-percent: 82
+   outturn-total: 134
+   outturn-percent: 85
+   draw-total: 173
+   draw-percent: 86
+   takeout-total: 24
+   takeout-percent: 69
+   shots-total: 197
+   shots-percent: 84
 years:
  - year: 2008
    event: Brier

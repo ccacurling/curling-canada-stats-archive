@@ -2,19 +2,21 @@
 title: Marc Kennedy
 name: Marc Kennedy
 name-sort: Kennedy, Marc
-games: 100
-wins: 77
-losses: 23
-inturn-total: 1058
-inturn-percent: 90
-outturn-total: 788
-outturn-percent: 89
-draw-total: 680
-draw-percent: 89
-takeout-total: 1166
-takeout-percent: 90
-shots-total: 1846
-shots-percent: 90
+totals:
+ - event: Brier
+   games: 100
+   wins: 77
+   losses: 23
+   inturn-total: 1058
+   inturn-percent: 90
+   outturn-total: 788
+   outturn-percent: 89
+   draw-total: 680
+   draw-percent: 89
+   takeout-total: 1166
+   takeout-percent: 90
+   shots-total: 1846
+   shots-percent: 90
 years:
  - year: 2007
    event: Brier

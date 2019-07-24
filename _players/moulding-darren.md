@@ -2,19 +2,21 @@
 title: Darren Moulding
 name: Darren Moulding
 name-sort: Moulding, Darren
-games: 39
-wins: 23
-losses: 16
-inturn-total: 407
-inturn-percent: 83
-outturn-total: 315
-outturn-percent: 82
-draw-total: 302
-draw-percent: 83
-takeout-total: 420
-takeout-percent: 82
-shots-total: 722
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 39
+   wins: 23
+   losses: 16
+   inturn-total: 407
+   inturn-percent: 83
+   outturn-total: 315
+   outturn-percent: 82
+   draw-total: 302
+   draw-percent: 83
+   takeout-total: 420
+   takeout-percent: 82
+   shots-total: 722
+   shots-percent: 83
 years:
  - year: 2017
    event: Brier

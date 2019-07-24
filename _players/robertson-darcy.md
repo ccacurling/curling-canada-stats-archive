@@ -2,19 +2,21 @@
 title: Darcy Robertson
 name: Darcy Robertson
 name-sort: Robertson, Darcy
-games: 33
-wins: 12
-losses: 21
-inturn-total: 329
-inturn-percent: 75
-outturn-total: 292
-outturn-percent: 72
-draw-total: 322
-draw-percent: 72
-takeout-total: 299
-takeout-percent: 76
-shots-total: 621
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 33
+   wins: 12
+   losses: 21
+   inturn-total: 329
+   inturn-percent: 75
+   outturn-total: 292
+   outturn-percent: 72
+   draw-total: 322
+   draw-percent: 72
+   takeout-total: 299
+   takeout-percent: 76
+   shots-total: 621
+   shots-percent: 74
 years:
  - year: 1986
    event: Hearts

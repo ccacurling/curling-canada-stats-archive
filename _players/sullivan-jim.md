@@ -2,19 +2,21 @@
 title: Jim Sullivan
 name: Jim Sullivan
 name-sort: Sullivan, Jim
-games: 25
-wins: 14
-losses: 11
-inturn-total: 222
-inturn-percent: 81
-outturn-total: 259
-outturn-percent: 82
-draw-total: 173
-draw-percent: 81
-takeout-total: 308
-takeout-percent: 82
-shots-total: 481
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 25
+   wins: 14
+   losses: 11
+   inturn-total: 222
+   inturn-percent: 81
+   outturn-total: 259
+   outturn-percent: 82
+   draw-total: 173
+   draw-percent: 81
+   takeout-total: 308
+   takeout-percent: 82
+   shots-total: 481
+   shots-percent: 82
 years:
  - year: 1990
    event: Brier

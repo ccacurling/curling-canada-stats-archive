@@ -2,19 +2,21 @@
 title: Marc Brophy
 name: Marc Brophy
 name-sort: Brophy, Marc
-games: 22
-wins: 11
-losses: 11
-inturn-total: 175
-inturn-percent: 75
-outturn-total: 254
-outturn-percent: 82
-draw-total: 234
-draw-percent: 84
-takeout-total: 195
-takeout-percent: 73
-shots-total: 429
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 22
+   wins: 11
+   losses: 11
+   inturn-total: 175
+   inturn-percent: 75
+   outturn-total: 254
+   outturn-percent: 82
+   draw-total: 234
+   draw-percent: 84
+   takeout-total: 195
+   takeout-percent: 73
+   shots-total: 429
+   shots-percent: 79
 years:
  - year: 1988
    event: Brier

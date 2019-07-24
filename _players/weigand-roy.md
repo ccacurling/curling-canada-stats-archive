@@ -2,9 +2,11 @@
 title: Roy Weigand
 name: Roy Weigand
 name-sort: Weigand, Roy
-games: 11
-wins: 6
-losses: 5
+totals:
+ - event: Brier
+   games: 11
+   wins: 6
+   losses: 5
 years:
  - year: 1981
    event: Brier

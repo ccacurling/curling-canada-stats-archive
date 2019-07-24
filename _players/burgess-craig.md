@@ -2,19 +2,21 @@
 title: Craig Burgess
 name: Craig Burgess
 name-sort: Burgess, Craig
-games: 51
-wins: 30
-losses: 21
-inturn-total: 505
-inturn-percent: 84
-outturn-total: 466
-outturn-percent: 81
-draw-total: 365
-draw-percent: 79
-takeout-total: 606
-takeout-percent: 84
-shots-total: 971
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 51
+   wins: 30
+   losses: 21
+   inturn-total: 505
+   inturn-percent: 84
+   outturn-total: 466
+   outturn-percent: 81
+   draw-total: 365
+   draw-percent: 79
+   takeout-total: 606
+   takeout-percent: 84
+   shots-total: 971
+   shots-percent: 82
 years:
  - year: 1990
    event: Brier

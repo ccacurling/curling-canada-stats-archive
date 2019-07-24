@@ -2,19 +2,21 @@
 title: Kevin Champion
 name: Kevin Champion
 name-sort: Champion, Kevin
-games: 76
-wins: 19
-losses: 57
-inturn-total: 569
-inturn-percent: 78
-outturn-total: 841
-outturn-percent: 79
-draw-total: 699
-draw-percent: 76
-takeout-total: 711
-takeout-percent: 81
-shots-total: 1410
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 76
+   wins: 19
+   losses: 57
+   inturn-total: 569
+   inturn-percent: 78
+   outturn-total: 841
+   outturn-percent: 79
+   draw-total: 699
+   draw-percent: 76
+   takeout-total: 711
+   takeout-percent: 81
+   shots-total: 1410
+   shots-percent: 79
 years:
  - year: 1998
    event: Brier

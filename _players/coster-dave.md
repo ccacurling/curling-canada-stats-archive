@@ -2,19 +2,21 @@
 title: Dave Coster
 name: Dave Coster
 name-sort: Coster, Dave
-games: 21
-wins: 8
-losses: 13
-inturn-total: 181
-inturn-percent: 81
-outturn-total: 217
-outturn-percent: 79
-draw-total: 220
-draw-percent: 87
-takeout-total: 178
-takeout-percent: 71
-shots-total: 398
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 21
+   wins: 8
+   losses: 13
+   inturn-total: 181
+   inturn-percent: 81
+   outturn-total: 217
+   outturn-percent: 79
+   draw-total: 220
+   draw-percent: 87
+   takeout-total: 178
+   takeout-percent: 71
+   shots-total: 398
+   shots-percent: 80
 years:
  - year: 1992
    event: Brier

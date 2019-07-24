@@ -2,19 +2,21 @@
 title: Guy Hemmings
 name: Guy Hemmings
 name-sort: Hemmings, Guy
-games: 51
-wins: 32
-losses: 19
-inturn-total: 416
-inturn-percent: 80
-outturn-total: 481
-outturn-percent: 80
-draw-total: 385
-draw-percent: 81
-takeout-total: 512
-takeout-percent: 79
-shots-total: 897
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 51
+   wins: 32
+   losses: 19
+   inturn-total: 416
+   inturn-percent: 80
+   outturn-total: 481
+   outturn-percent: 80
+   draw-total: 385
+   draw-percent: 81
+   takeout-total: 512
+   takeout-percent: 79
+   shots-total: 897
+   shots-percent: 80
 years:
  - year: 1998
    event: Brier

@@ -2,19 +2,21 @@
 title: Jill Greenwood
 name: Jill Greenwood
 name-sort: Greenwood, Jill
-games: 21
-wins: 9
-losses: 12
-inturn-total: 161
-inturn-percent: 56
-outturn-total: 218
-outturn-percent: 68
-draw-total: 191
-draw-percent: 57
-takeout-total: 188
-takeout-percent: 69
-shots-total: 379
-shots-percent: 63
+totals:
+ - event: Hearts
+   games: 21
+   wins: 9
+   losses: 12
+   inturn-total: 161
+   inturn-percent: 56
+   outturn-total: 218
+   outturn-percent: 68
+   draw-total: 191
+   draw-percent: 57
+   takeout-total: 188
+   takeout-percent: 69
+   shots-total: 379
+   shots-percent: 63
 years:
  - year: 1984
    event: Hearts

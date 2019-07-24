@@ -2,19 +2,21 @@
 title: Heather Martin
 name: Heather Martin
 name-sort: Martin, Heather
-games: 102
-wins: 46
-losses: 56
-inturn-total: 782
-inturn-percent: 79
-outturn-total: 1128
-outturn-percent: 83
-draw-total: 1390
-draw-percent: 81
-takeout-total: 520
-takeout-percent: 83
-shots-total: 1910
-shots-percent: 81
+totals:
+ - event: Hearts
+   games: 102
+   wins: 46
+   losses: 56
+   inturn-total: 782
+   inturn-percent: 79
+   outturn-total: 1128
+   outturn-percent: 83
+   draw-total: 1390
+   draw-percent: 81
+   takeout-total: 520
+   takeout-percent: 83
+   shots-total: 1910
+   shots-percent: 81
 years:
  - year: 1991
    event: Hearts

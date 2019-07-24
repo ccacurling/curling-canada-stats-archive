@@ -2,19 +2,21 @@
 title: Stephanie Marchand
 name: Stephanie Marchand
 name-sort: Marchand, Stephanie
-games: 22
-wins: 10
-losses: 12
-inturn-total: 235
-inturn-percent: 78
-outturn-total: 178
-outturn-percent: 73
-draw-total: 241
-draw-percent: 79
-takeout-total: 172
-takeout-percent: 72
-shots-total: 413
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 22
+   wins: 10
+   losses: 12
+   inturn-total: 235
+   inturn-percent: 78
+   outturn-total: 178
+   outturn-percent: 73
+   draw-total: 241
+   draw-percent: 79
+   takeout-total: 172
+   takeout-percent: 72
+   shots-total: 413
+   shots-percent: 76
 years:
  - year: 1996
    event: Hearts

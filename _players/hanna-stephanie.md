@@ -2,19 +2,21 @@
 title: Stephanie Hanna
 name: Stephanie Hanna
 name-sort: Hanna, Stephanie
-games: 27
-wins: 16
-losses: 11
-inturn-total: 210
-inturn-percent: 85
-outturn-total: 294
-outturn-percent: 88
-draw-total: 280
-draw-percent: 86
-takeout-total: 224
-takeout-percent: 87
-shots-total: 504
-shots-percent: 87
+totals:
+ - event: Hearts
+   games: 27
+   wins: 16
+   losses: 11
+   inturn-total: 210
+   inturn-percent: 85
+   outturn-total: 294
+   outturn-percent: 88
+   draw-total: 280
+   draw-percent: 86
+   takeout-total: 224
+   takeout-percent: 87
+   shots-total: 504
+   shots-percent: 87
 years:
  - year: 2005
    event: Hearts

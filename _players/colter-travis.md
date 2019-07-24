@@ -2,19 +2,21 @@
 title: Travis Colter
 name: Travis Colter
 name-sort: Colter, Travis
-games: 7
-wins: 3
-losses: 4
-inturn-total: 72
-inturn-percent: 79
-outturn-total: 60
-outturn-percent: 77
-draw-total: 62
-draw-percent: 77
-takeout-total: 70
-takeout-percent: 79
-shots-total: 132
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 72
+   inturn-percent: 79
+   outturn-total: 60
+   outturn-percent: 77
+   draw-total: 62
+   draw-percent: 77
+   takeout-total: 70
+   takeout-percent: 79
+   shots-total: 132
+   shots-percent: 78
 years:
  - year: 2019
    event: Brier

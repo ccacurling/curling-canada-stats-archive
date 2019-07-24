@@ -2,19 +2,21 @@
 title: Steve Gould
 name: Steve Gould
 name-sort: Gould, Steve
-games: 77
-wins: 55
-losses: 22
-inturn-total: 583
-inturn-percent: 88
-outturn-total: 806
-outturn-percent: 89
-draw-total: 1195
-draw-percent: 90
-takeout-total: 194
-takeout-percent: 82
-shots-total: 1389
-shots-percent: 88
+totals:
+ - event: Brier
+   games: 77
+   wins: 55
+   losses: 22
+   inturn-total: 583
+   inturn-percent: 88
+   outturn-total: 806
+   outturn-percent: 89
+   draw-total: 1195
+   draw-percent: 90
+   takeout-total: 194
+   takeout-percent: 82
+   shots-total: 1389
+   shots-percent: 88
 years:
  - year: 1996
    event: Brier

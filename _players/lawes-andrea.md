@@ -2,19 +2,21 @@
 title: Andrea Lawes
 name: Andrea Lawes
 name-sort: Lawes, Andrea
-games: 64
-wins: 41
-losses: 23
-inturn-total: 578
-inturn-percent: 77
-outturn-total: 638
-outturn-percent: 79
-draw-total: 496
-draw-percent: 77
-takeout-total: 720
-takeout-percent: 78
-shots-total: 1216
-shots-percent: 78
+totals:
+ - event: Hearts
+   games: 64
+   wins: 41
+   losses: 23
+   inturn-total: 578
+   inturn-percent: 77
+   outturn-total: 638
+   outturn-percent: 79
+   draw-total: 496
+   draw-percent: 77
+   takeout-total: 720
+   takeout-percent: 78
+   shots-total: 1216
+   shots-percent: 78
 years:
  - year: 1990
    event: Hearts

@@ -2,19 +2,21 @@
 title: Michelle McQuaid
 name: Michelle McQuaid
 name-sort: McQuaid, Michelle
-games: 41
-wins: 15
-losses: 26
-inturn-total: 416
-inturn-percent: 81
-outturn-total: 372
-outturn-percent: 80
-draw-total: 582
-draw-percent: 81
-takeout-total: 206
-takeout-percent: 79
-shots-total: 788
-shots-percent: 81
+totals:
+ - event: Hearts
+   games: 41
+   wins: 15
+   losses: 26
+   inturn-total: 416
+   inturn-percent: 81
+   outturn-total: 372
+   outturn-percent: 80
+   draw-total: 582
+   draw-percent: 81
+   takeout-total: 206
+   takeout-percent: 79
+   shots-total: 788
+   shots-percent: 81
 years:
  - year: 2015
    event: Hearts

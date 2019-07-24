@@ -2,19 +2,21 @@
 title: Veronique Gregoire
 name: Veronique Gregoire
 name-sort: Gregoire, Veronique
-games: 25
-wins: 14
-losses: 11
-inturn-total: 272
-inturn-percent: 80
-outturn-total: 206
-outturn-percent: 73
-draw-total: 298
-draw-percent: 79
-takeout-total: 180
-takeout-percent: 75
-shots-total: 478
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 25
+   wins: 14
+   losses: 11
+   inturn-total: 272
+   inturn-percent: 80
+   outturn-total: 206
+   outturn-percent: 73
+   draw-total: 298
+   draw-percent: 79
+   takeout-total: 180
+   takeout-percent: 75
+   shots-total: 478
+   shots-percent: 77
 years:
  - year: 2004
    event: Hearts

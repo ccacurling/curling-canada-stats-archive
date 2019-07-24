@@ -2,19 +2,21 @@
 title: Amanda Gates
 name: Amanda Gates
 name-sort: Gates, Amanda
-games: 34
-wins: 18
-losses: 16
-inturn-total: 299
-inturn-percent: 80
-outturn-total: 333
-outturn-percent: 85
-draw-total: 487
-draw-percent: 84
-takeout-total: 145
-takeout-percent: 76
-shots-total: 632
-shots-percent: 82
+totals:
+ - event: Hearts
+   games: 34
+   wins: 18
+   losses: 16
+   inturn-total: 299
+   inturn-percent: 80
+   outturn-total: 333
+   outturn-percent: 85
+   draw-total: 487
+   draw-percent: 84
+   takeout-total: 145
+   takeout-percent: 76
+   shots-total: 632
+   shots-percent: 82
 years:
  - year: 2012
    event: Hearts

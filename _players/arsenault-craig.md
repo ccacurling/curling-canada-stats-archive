@@ -2,19 +2,21 @@
 title: Craig Arsenault
 name: Craig Arsenault
 name-sort: Arsenault, Craig
-games: 22
-wins: 4
-losses: 18
-inturn-total: 236
-inturn-percent: 73
-outturn-total: 180
-outturn-percent: 81
-draw-total: 280
-draw-percent: 77
-takeout-total: 136
-takeout-percent: 75
-shots-total: 416
-shots-percent: 76
+totals:
+ - event: Brier
+   games: 22
+   wins: 4
+   losses: 18
+   inturn-total: 236
+   inturn-percent: 73
+   outturn-total: 180
+   outturn-percent: 81
+   draw-total: 280
+   draw-percent: 77
+   takeout-total: 136
+   takeout-percent: 75
+   shots-total: 416
+   shots-percent: 76
 years:
  - year: 1994
    event: Brier

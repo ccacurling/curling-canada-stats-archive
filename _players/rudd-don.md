@@ -2,19 +2,21 @@
 title: Don Rudd
 name: Don Rudd
 name-sort: Rudd, Don
-games: 25
-wins: 18
-losses: 7
-inturn-total: 134
-inturn-percent: 79
-outturn-total: 328
-outturn-percent: 83
-draw-total: 215
-draw-percent: 87
-takeout-total: 247
-takeout-percent: 78
-shots-total: 462
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 25
+   wins: 18
+   losses: 7
+   inturn-total: 134
+   inturn-percent: 79
+   outturn-total: 328
+   outturn-percent: 83
+   draw-total: 215
+   draw-percent: 87
+   takeout-total: 247
+   takeout-percent: 78
+   shots-total: 462
+   shots-percent: 82
 years:
  - year: 1992
    event: Brier

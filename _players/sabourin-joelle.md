@@ -2,19 +2,21 @@
 title: Joelle Sabourin
 name: Joelle Sabourin
 name-sort: Sabourin, Joelle
-games: 58
-wins: 28
-losses: 30
-inturn-total: 506
-inturn-percent: 76
-outturn-total: 589
-outturn-percent: 81
-draw-total: 700
-draw-percent: 80
-takeout-total: 395
-takeout-percent: 76
-shots-total: 1095
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 58
+   wins: 28
+   losses: 30
+   inturn-total: 506
+   inturn-percent: 76
+   outturn-total: 589
+   outturn-percent: 81
+   draw-total: 700
+   draw-percent: 80
+   takeout-total: 395
+   takeout-percent: 76
+   shots-total: 1095
+   shots-percent: 79
 years:
  - year: 1994
    event: Hearts

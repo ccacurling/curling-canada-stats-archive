@@ -2,19 +2,21 @@
 title: Kent Carstairs
 name: Kent Carstairs
 name-sort: Carstairs, Kent
-games: 48
-wins: 33
-losses: 15
-inturn-total: 392
-inturn-percent: 79
-outturn-total: 509
-outturn-percent: 82
-draw-total: 506
-draw-percent: 85
-takeout-total: 395
-takeout-percent: 75
-shots-total: 901
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 48
+   wins: 33
+   losses: 15
+   inturn-total: 392
+   inturn-percent: 79
+   outturn-total: 509
+   outturn-percent: 82
+   draw-total: 506
+   draw-percent: 85
+   takeout-total: 395
+   takeout-percent: 75
+   shots-total: 901
+   shots-percent: 81
 years:
  - year: 1980
    event: Brier

@@ -2,19 +2,21 @@
 title: Jennifer Jones
 name: Jennifer Jones
 name-sort: Jones, Jennifer
-games: 187
-wins: 141
-losses: 46
-inturn-total: 1780
-inturn-percent: 80
-outturn-total: 1612
-outturn-percent: 78
-draw-total: 1535
-draw-percent: 78
-takeout-total: 1857
-takeout-percent: 80
-shots-total: 3392
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 187
+   wins: 141
+   losses: 46
+   inturn-total: 1780
+   inturn-percent: 80
+   outturn-total: 1612
+   outturn-percent: 78
+   draw-total: 1535
+   draw-percent: 78
+   takeout-total: 1857
+   takeout-percent: 80
+   shots-total: 3392
+   shots-percent: 79
 years:
  - year: 2002
    event: Hearts

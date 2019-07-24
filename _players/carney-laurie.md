@@ -2,19 +2,21 @@
 title: Laurie Carney
 name: Laurie Carney
 name-sort: Carney, Laurie
-games: 36
-wins: 31
-losses: 5
-inturn-total: 177
-inturn-percent: 76
-outturn-total: 473
-outturn-percent: 76
-draw-total: 325
-draw-percent: 80
-takeout-total: 325
-takeout-percent: 72
-shots-total: 650
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 36
+   wins: 31
+   losses: 5
+   inturn-total: 177
+   inturn-percent: 76
+   outturn-total: 473
+   outturn-percent: 76
+   draw-total: 325
+   draw-percent: 80
+   takeout-total: 325
+   takeout-percent: 72
+   shots-total: 650
+   shots-percent: 76
 years:
  - year: 1984
    event: Hearts

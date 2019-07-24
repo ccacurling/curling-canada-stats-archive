@@ -2,9 +2,11 @@
 title: Anne Campbell
 name: Anne Campbell
 name-sort: Campbell, Anne
-games: 0
-wins: 0
-losses: 0
+totals:
+ - event: Hearts
+   games: 0
+   wins: 0
+   losses: 0
 years:
  - year: 1994
    event: Hearts

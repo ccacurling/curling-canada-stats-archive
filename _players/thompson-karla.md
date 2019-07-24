@@ -2,19 +2,21 @@
 title: Karla Thompson
 name: Karla Thompson
 name-sort: Thompson, Karla
-games: 22
-wins: 6
-losses: 16
-inturn-total: 200
-inturn-percent: 69
-outturn-total: 214
-outturn-percent: 70
-draw-total: 158
-draw-percent: 61
-takeout-total: 256
-takeout-percent: 74
-shots-total: 414
-shots-percent: 69
+totals:
+ - event: Hearts
+   games: 22
+   wins: 6
+   losses: 16
+   inturn-total: 200
+   inturn-percent: 69
+   outturn-total: 214
+   outturn-percent: 70
+   draw-total: 158
+   draw-percent: 61
+   takeout-total: 256
+   takeout-percent: 74
+   shots-total: 414
+   shots-percent: 69
 years:
  - year: 2008
    event: Hearts

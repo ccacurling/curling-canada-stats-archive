@@ -2,19 +2,21 @@
 title: Doug Weeks
 name: Doug Weeks
 name-sort: Weeks, Doug
-games: 34
-wins: 11
-losses: 23
-inturn-total: 157
-inturn-percent: 70
-outturn-total: 262
-outturn-percent: 75
-draw-total: 206
-draw-percent: 68
-takeout-total: 213
-takeout-percent: 78
-shots-total: 419
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 34
+   wins: 11
+   losses: 23
+   inturn-total: 157
+   inturn-percent: 70
+   outturn-total: 262
+   outturn-percent: 75
+   draw-total: 206
+   draw-percent: 68
+   takeout-total: 213
+   takeout-percent: 78
+   shots-total: 419
+   shots-percent: 73
 years:
  - year: 1982
    event: Brier

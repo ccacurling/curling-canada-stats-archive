@@ -2,19 +2,21 @@
 title: Mary Mattatall
 name: Mary Mattatall
 name-sort: Mattatall, Mary
-games: 70
-wins: 29
-losses: 41
-inturn-total: 625
-inturn-percent: 71
-outturn-total: 709
-outturn-percent: 74
-draw-total: 577
-draw-percent: 69
-takeout-total: 757
-takeout-percent: 76
-shots-total: 1334
-shots-percent: 73
+totals:
+ - event: Hearts
+   games: 70
+   wins: 29
+   losses: 41
+   inturn-total: 625
+   inturn-percent: 71
+   outturn-total: 709
+   outturn-percent: 74
+   draw-total: 577
+   draw-percent: 69
+   takeout-total: 757
+   takeout-percent: 76
+   shots-total: 1334
+   shots-percent: 73
 years:
  - year: 1989
    event: Hearts

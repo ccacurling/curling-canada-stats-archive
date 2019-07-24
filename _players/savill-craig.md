@@ -2,19 +2,21 @@
 title: Craig Savill
 name: Craig Savill
 name-sort: Savill, Craig
-games: 121
-wins: 96
-losses: 25
-inturn-total: 854
-inturn-percent: 89
-outturn-total: 1298
-outturn-percent: 90
-draw-total: 1745
-draw-percent: 91
-takeout-total: 407
-takeout-percent: 85
-shots-total: 2152
-shots-percent: 90
+totals:
+ - event: Brier
+   games: 121
+   wins: 96
+   losses: 25
+   inturn-total: 854
+   inturn-percent: 89
+   outturn-total: 1298
+   outturn-percent: 90
+   draw-total: 1745
+   draw-percent: 91
+   takeout-total: 407
+   takeout-percent: 85
+   shots-total: 2152
+   shots-percent: 90
 years:
  - year: 2002
    event: Brier

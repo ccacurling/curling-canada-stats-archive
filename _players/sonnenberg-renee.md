@@ -2,19 +2,21 @@
 title: Renee Sonnenberg
 name: Renee Sonnenberg
 name-sort: Sonnenberg, Renee
-games: 26
-wins: 10
-losses: 16
-inturn-total: 244
-inturn-percent: 74
-outturn-total: 211
-outturn-percent: 75
-draw-total: 220
-draw-percent: 68
-takeout-total: 235
-takeout-percent: 80
-shots-total: 455
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 26
+   wins: 10
+   losses: 16
+   inturn-total: 244
+   inturn-percent: 74
+   outturn-total: 211
+   outturn-percent: 75
+   draw-total: 220
+   draw-percent: 68
+   takeout-total: 235
+   takeout-percent: 80
+   shots-total: 455
+   shots-percent: 74
 years:
  - year: 1999
    event: Hearts

@@ -2,19 +2,21 @@
 title: Janet Harvey
 name: Janet Harvey
 name-sort: Harvey, Janet
-games: 33
-wins: 15
-losses: 18
-inturn-total: 262
-inturn-percent: 71
-outturn-total: 365
-outturn-percent: 69
-draw-total: 314
-draw-percent: 67
-takeout-total: 313
-takeout-percent: 72
-shots-total: 627
-shots-percent: 70
+totals:
+ - event: Hearts
+   games: 33
+   wins: 15
+   losses: 18
+   inturn-total: 262
+   inturn-percent: 71
+   outturn-total: 365
+   outturn-percent: 69
+   draw-total: 314
+   draw-percent: 67
+   takeout-total: 313
+   takeout-percent: 72
+   shots-total: 627
+   shots-percent: 70
 years:
  - year: 1990
    event: Hearts

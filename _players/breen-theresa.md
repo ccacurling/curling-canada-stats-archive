@@ -2,19 +2,21 @@
 title: Theresa Breen
 name: Theresa Breen
 name-sort: Breen, Theresa
-games: 50
-wins: 31
-losses: 19
-inturn-total: 513
-inturn-percent: 81
-outturn-total: 443
-outturn-percent: 78
-draw-total: 437
-draw-percent: 75
-takeout-total: 519
-takeout-percent: 84
-shots-total: 956
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 50
+   wins: 31
+   losses: 19
+   inturn-total: 513
+   inturn-percent: 81
+   outturn-total: 443
+   outturn-percent: 78
+   draw-total: 437
+   draw-percent: 75
+   takeout-total: 519
+   takeout-percent: 84
+   shots-total: 956
+   shots-percent: 80
 years:
  - year: 1993
    event: Hearts

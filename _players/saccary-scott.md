@@ -2,19 +2,21 @@
 title: Scott Saccary
 name: Scott Saccary
 name-sort: Saccary, Scott
-games: 22
-wins: 9
-losses: 13
-inturn-total: 200
-inturn-percent: 84
-outturn-total: 224
-outturn-percent: 85
-draw-total: 202
-draw-percent: 84
-takeout-total: 222
-takeout-percent: 85
-shots-total: 424
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 22
+   wins: 9
+   losses: 13
+   inturn-total: 200
+   inturn-percent: 84
+   outturn-total: 224
+   outturn-percent: 85
+   draw-total: 202
+   draw-percent: 84
+   takeout-total: 222
+   takeout-percent: 85
+   shots-total: 424
+   shots-percent: 84
 years:
  - year: 2017
    event: Brier

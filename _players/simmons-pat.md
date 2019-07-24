@@ -2,19 +2,21 @@
 title: Pat Simmons
 name: Pat Simmons
 name-sort: Simmons, Pat
-games: 110
-wins: 68
-losses: 42
-inturn-total: 1017
-inturn-percent: 82
-outturn-total: 1026
-outturn-percent: 82
-draw-total: 876
-draw-percent: 79
-takeout-total: 1167
-takeout-percent: 84
-shots-total: 2043
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 110
+   wins: 68
+   losses: 42
+   inturn-total: 1017
+   inturn-percent: 82
+   outturn-total: 1026
+   outturn-percent: 82
+   draw-total: 876
+   draw-percent: 79
+   takeout-total: 1167
+   takeout-percent: 84
+   shots-total: 2043
+   shots-percent: 82
 years:
  - year: 2005
    event: Brier

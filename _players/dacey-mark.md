@@ -2,19 +2,21 @@
 title: Mark Dacey
 name: Mark Dacey
 name-sort: Dacey, Mark
-games: 76
-wins: 46
-losses: 30
-inturn-total: 605
-inturn-percent: 78
-outturn-total: 790
-outturn-percent: 77
-draw-total: 562
-draw-percent: 74
-takeout-total: 833
-takeout-percent: 80
-shots-total: 1395
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 76
+   wins: 46
+   losses: 30
+   inturn-total: 605
+   inturn-percent: 78
+   outturn-total: 790
+   outturn-percent: 77
+   draw-total: 562
+   draw-percent: 74
+   takeout-total: 833
+   takeout-percent: 80
+   shots-total: 1395
+   shots-percent: 78
 years:
  - year: 1995
    event: Brier

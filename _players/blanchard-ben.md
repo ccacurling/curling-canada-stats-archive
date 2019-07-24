@@ -2,19 +2,21 @@
 title: Ben Blanchard
 name: Ben Blanchard
 name-sort: Blanchard, Ben
-games: 22
-wins: 9
-losses: 13
-inturn-total: 231
-inturn-percent: 82
-outturn-total: 171
-outturn-percent: 84
-draw-total: 247
-draw-percent: 83
-takeout-total: 155
-takeout-percent: 83
-shots-total: 402
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 22
+   wins: 9
+   losses: 13
+   inturn-total: 231
+   inturn-percent: 82
+   outturn-total: 171
+   outturn-percent: 84
+   draw-total: 247
+   draw-percent: 83
+   takeout-total: 155
+   takeout-percent: 83
+   shots-total: 402
+   shots-percent: 83
 years:
  - year: 2000
    event: Brier

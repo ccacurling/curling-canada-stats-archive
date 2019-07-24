@@ -2,19 +2,21 @@
 title: Karen Purdy
 name: Karen Purdy
 name-sort: Purdy, Karen
-games: 25
-wins: 17
-losses: 8
-inturn-total: 161
-inturn-percent: 78
-outturn-total: 324
-outturn-percent: 77
-draw-total: 197
-draw-percent: 74
-takeout-total: 288
-takeout-percent: 80
-shots-total: 485
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 25
+   wins: 17
+   losses: 8
+   inturn-total: 161
+   inturn-percent: 78
+   outturn-total: 324
+   outturn-percent: 77
+   draw-total: 197
+   draw-percent: 74
+   takeout-total: 288
+   takeout-percent: 80
+   shots-total: 485
+   shots-percent: 77
 years:
  - year: 1989
    event: Hearts

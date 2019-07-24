@@ -2,19 +2,21 @@
 title: Raylene Rocque
 name: Raylene Rocque
 name-sort: Rocque, Raylene
-games: 23
-wins: 12
-losses: 11
-inturn-total: 208
-inturn-percent: 75
-outturn-total: 220
-outturn-percent: 74
-draw-total: 167
-draw-percent: 74
-takeout-total: 261
-takeout-percent: 75
-shots-total: 428
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 23
+   wins: 12
+   losses: 11
+   inturn-total: 208
+   inturn-percent: 75
+   outturn-total: 220
+   outturn-percent: 74
+   draw-total: 167
+   draw-percent: 74
+   takeout-total: 261
+   takeout-percent: 75
+   shots-total: 428
+   shots-percent: 74
 years:
  - year: 1999
    event: Hearts

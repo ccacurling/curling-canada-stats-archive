@@ -2,19 +2,21 @@
 title: Ty Griffith
 name: Ty Griffith
 name-sort: Griffith, Ty
-games: 68
-wins: 33
-losses: 35
-inturn-total: 630
-inturn-percent: 84
-outturn-total: 656
-outturn-percent: 86
-draw-total: 559
-draw-percent: 84
-takeout-total: 727
-takeout-percent: 86
-shots-total: 1286
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 68
+   wins: 33
+   losses: 35
+   inturn-total: 630
+   inturn-percent: 84
+   outturn-total: 656
+   outturn-percent: 86
+   draw-total: 559
+   draw-percent: 84
+   takeout-total: 727
+   takeout-percent: 86
+   shots-total: 1286
+   shots-percent: 85
 years:
  - year: 2012
    event: Brier

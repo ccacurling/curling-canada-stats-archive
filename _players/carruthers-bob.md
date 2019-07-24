@@ -2,19 +2,21 @@
 title: Bob Carruthers
 name: Bob Carruthers
 name-sort: Carruthers, Bob
-games: 22
-wins: 7
-losses: 15
-inturn-total: 89
-inturn-percent: 71
-outturn-total: 118
-outturn-percent: 70
-draw-total: 93
-draw-percent: 65
-takeout-total: 114
-takeout-percent: 74
-shots-total: 207
-shots-percent: 70
+totals:
+ - event: Brier
+   games: 22
+   wins: 7
+   losses: 15
+   inturn-total: 89
+   inturn-percent: 71
+   outturn-total: 118
+   outturn-percent: 70
+   draw-total: 93
+   draw-percent: 65
+   takeout-total: 114
+   takeout-percent: 74
+   shots-total: 207
+   shots-percent: 70
 years:
  - year: 1981
    event: Brier

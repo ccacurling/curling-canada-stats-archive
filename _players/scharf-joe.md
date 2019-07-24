@@ -2,19 +2,21 @@
 title: Joe Scharf
 name: Joe Scharf
 name-sort: Scharf, Joe
-games: 12
-wins: 5
-losses: 7
-inturn-total: 94
-inturn-percent: 77
-outturn-total: 110
-outturn-percent: 73
-draw-total: 87
-draw-percent: 72
-takeout-total: 117
-takeout-percent: 77
-shots-total: 204
-shots-percent: 75
+totals:
+ - event: Brier
+   games: 12
+   wins: 5
+   losses: 7
+   inturn-total: 94
+   inturn-percent: 77
+   outturn-total: 110
+   outturn-percent: 73
+   draw-total: 87
+   draw-percent: 72
+   takeout-total: 117
+   takeout-percent: 77
+   shots-total: 204
+   shots-percent: 75
 years:
  - year: 2001
    event: Brier

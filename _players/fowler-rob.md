@@ -2,19 +2,21 @@
 title: Rob Fowler
 name: Rob Fowler
 name-sort: Fowler, Rob
-games: 53
-wins: 35
-losses: 18
-inturn-total: 424
-inturn-percent: 81
-outturn-total: 557
-outturn-percent: 85
-draw-total: 424
-draw-percent: 81
-takeout-total: 557
-takeout-percent: 85
-shots-total: 981
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 53
+   wins: 35
+   losses: 18
+   inturn-total: 424
+   inturn-percent: 81
+   outturn-total: 557
+   outturn-percent: 85
+   draw-total: 424
+   draw-percent: 81
+   takeout-total: 557
+   takeout-percent: 85
+   shots-total: 981
+   shots-percent: 83
 years:
  - year: 2007
    event: Brier

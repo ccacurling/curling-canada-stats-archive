@@ -2,19 +2,21 @@
 title: Rachel Brown
 name: Rachel Brown
 name-sort: Brown, Rachel
-games: 41
-wins: 31
-losses: 10
-inturn-total: 444
-inturn-percent: 87
-outturn-total: 330
-outturn-percent: 82
-draw-total: 593
-draw-percent: 88
-takeout-total: 181
-takeout-percent: 74
-shots-total: 774
-shots-percent: 85
+totals:
+ - event: Hearts
+   games: 41
+   wins: 31
+   losses: 10
+   inturn-total: 444
+   inturn-percent: 87
+   outturn-total: 330
+   outturn-percent: 82
+   draw-total: 593
+   draw-percent: 88
+   takeout-total: 181
+   takeout-percent: 74
+   shots-total: 774
+   shots-percent: 85
 years:
  - year: 2014
    event: Hearts

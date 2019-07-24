@@ -2,19 +2,21 @@
 title: Kathy Fahlman
 name: Kathy Fahlman
 name-sort: Fahlman, Kathy
-games: 34
-wins: 20
-losses: 14
-inturn-total: 295
-inturn-percent: 67
-outturn-total: 351
-outturn-percent: 69
-draw-total: 308
-draw-percent: 65
-takeout-total: 338
-takeout-percent: 70
-shots-total: 646
-shots-percent: 68
+totals:
+ - event: Hearts
+   games: 34
+   wins: 20
+   losses: 14
+   inturn-total: 295
+   inturn-percent: 67
+   outturn-total: 351
+   outturn-percent: 69
+   draw-total: 308
+   draw-percent: 65
+   takeout-total: 338
+   takeout-percent: 70
+   shots-total: 646
+   shots-percent: 68
 years:
  - year: 1987
    event: Hearts

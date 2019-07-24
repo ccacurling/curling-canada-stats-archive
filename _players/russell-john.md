@@ -2,9 +2,11 @@
 title: John Russell
 name: John Russell
 name-sort: Russell, John
-games: 11
-wins: 4
-losses: 7
+totals:
+ - event: Brier
+   games: 11
+   wins: 4
+   losses: 7
 years:
  - year: 1981
    event: Brier

@@ -2,19 +2,21 @@
 title: Dan Marsh
 name: Dan Marsh
 name-sort: Marsh, Dan
-games: 11
-wins: 5
-losses: 6
-inturn-total: 98
-inturn-percent: 86
-outturn-total: 104
-outturn-percent: 81
-draw-total: 108
-draw-percent: 82
-takeout-total: 94
-takeout-percent: 85
-shots-total: 202
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 98
+   inturn-percent: 86
+   outturn-total: 104
+   outturn-percent: 81
+   draw-total: 108
+   draw-percent: 82
+   takeout-total: 94
+   takeout-percent: 85
+   shots-total: 202
+   shots-percent: 84
 years:
  - year: 2019
    event: Brier

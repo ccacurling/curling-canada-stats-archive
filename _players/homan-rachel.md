@@ -2,19 +2,21 @@
 title: Rachel Homan
 name: Rachel Homan
 name-sort: Homan, Rachel
-games: 81
-wins: 64
-losses: 17
-inturn-total: 781
-inturn-percent: 83
-outturn-total: 706
-outturn-percent: 83
-draw-total: 615
-draw-percent: 80
-takeout-total: 872
-takeout-percent: 86
-shots-total: 1487
-shots-percent: 83
+totals:
+ - event: Hearts
+   games: 81
+   wins: 64
+   losses: 17
+   inturn-total: 781
+   inturn-percent: 83
+   outturn-total: 706
+   outturn-percent: 83
+   draw-total: 615
+   draw-percent: 80
+   takeout-total: 872
+   takeout-percent: 86
+   shots-total: 1487
+   shots-percent: 83
 years:
  - year: 2011
    event: Hearts

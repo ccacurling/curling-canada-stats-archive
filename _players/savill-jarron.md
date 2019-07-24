@@ -2,19 +2,21 @@
 title: Jarron Savill
 name: Jarron Savill
 name-sort: Savill, Jarron
-games: 12
-wins: 7
-losses: 5
-inturn-total: 94
-inturn-percent: 70
-outturn-total: 107
-outturn-percent: 69
-draw-total: 104
-draw-percent: 76
-takeout-total: 97
-takeout-percent: 63
-shots-total: 201
-shots-percent: 70
+totals:
+ - event: Hearts
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 94
+   inturn-percent: 70
+   outturn-total: 107
+   outturn-percent: 69
+   draw-total: 104
+   draw-percent: 76
+   takeout-total: 97
+   takeout-percent: 63
+   shots-total: 201
+   shots-percent: 70
 years:
  - year: 1987
    event: Hearts

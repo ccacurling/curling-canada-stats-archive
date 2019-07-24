@@ -2,19 +2,21 @@
 title: Karen Fallis
 name: Karen Fallis
 name-sort: Fallis, Karen
-games: 22
-wins: 11
-losses: 11
-inturn-total: 193
-inturn-percent: 78
-outturn-total: 217
-outturn-percent: 75
-draw-total: 165
-draw-percent: 74
-takeout-total: 245
-takeout-percent: 78
-shots-total: 410
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 22
+   wins: 11
+   losses: 11
+   inturn-total: 193
+   inturn-percent: 78
+   outturn-total: 217
+   outturn-percent: 75
+   draw-total: 165
+   draw-percent: 74
+   takeout-total: 245
+   takeout-percent: 78
+   shots-total: 410
+   shots-percent: 76
 years:
  - year: 1997
    event: Hearts

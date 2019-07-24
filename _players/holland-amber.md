@@ -2,19 +2,21 @@
 title: Amber Holland
 name: Amber Holland
 name-sort: Holland, Amber
-games: 36
-wins: 23
-losses: 13
-inturn-total: 344
-inturn-percent: 76
-outturn-total: 340
-outturn-percent: 78
-draw-total: 292
-draw-percent: 73
-takeout-total: 392
-takeout-percent: 80
-shots-total: 684
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 36
+   wins: 23
+   losses: 13
+   inturn-total: 344
+   inturn-percent: 76
+   outturn-total: 340
+   outturn-percent: 78
+   draw-total: 292
+   draw-percent: 73
+   takeout-total: 392
+   takeout-percent: 80
+   shots-total: 684
+   shots-percent: 77
 years:
  - year: 1999
    event: Hearts

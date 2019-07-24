@@ -2,19 +2,21 @@
 title: Tammi Lowther
 name: Tammi Lowther
 name-sort: Lowther, Tammi
-games: 23
-wins: 11
-losses: 12
-inturn-total: 177
-inturn-percent: 76
-outturn-total: 256
-outturn-percent: 77
-draw-total: 271
-draw-percent: 79
-takeout-total: 162
-takeout-percent: 73
-shots-total: 433
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 23
+   wins: 11
+   losses: 12
+   inturn-total: 177
+   inturn-percent: 76
+   outturn-total: 256
+   outturn-percent: 77
+   draw-total: 271
+   draw-percent: 79
+   takeout-total: 162
+   takeout-percent: 73
+   shots-total: 433
+   shots-percent: 76
 years:
  - year: 1998
    event: Hearts

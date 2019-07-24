@@ -2,19 +2,21 @@
 title: Sandra Schmirler
 name: Sandra Schmirler
 name-sort: Schmirler, Sandra
-games: 89
-wins: 64
-losses: 25
-inturn-total: 865
-inturn-percent: 77
-outturn-total: 744
-outturn-percent: 78
-draw-total: 636
-draw-percent: 73
-takeout-total: 973
-takeout-percent: 80
-shots-total: 1609
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 89
+   wins: 64
+   losses: 25
+   inturn-total: 865
+   inturn-percent: 77
+   outturn-total: 744
+   outturn-percent: 78
+   draw-total: 636
+   draw-percent: 73
+   takeout-total: 973
+   takeout-percent: 80
+   shots-total: 1609
+   shots-percent: 77
 years:
  - year: 1987
    event: Hearts

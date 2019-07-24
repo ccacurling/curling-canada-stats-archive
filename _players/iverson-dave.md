@@ -2,19 +2,21 @@
 title: Dave Iverson
 name: Dave Iverson
 name-sort: Iverson, Dave
-games: 22
-wins: 11
-losses: 11
-inturn-total: 195
-inturn-percent: 79
-outturn-total: 219
-outturn-percent: 83
-draw-total: 184
-draw-percent: 79
-takeout-total: 230
-takeout-percent: 83
-shots-total: 414
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 22
+   wins: 11
+   losses: 11
+   inturn-total: 195
+   inturn-percent: 79
+   outturn-total: 219
+   outturn-percent: 83
+   draw-total: 184
+   draw-percent: 79
+   takeout-total: 230
+   takeout-percent: 83
+   shots-total: 414
+   shots-percent: 81
 years:
  - year: 1985
    event: Brier

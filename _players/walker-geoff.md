@@ -2,19 +2,21 @@
 title: Geoff Walker
 name: Geoff Walker
 name-sort: Walker, Geoff
-games: 87
-wins: 60
-losses: 27
-inturn-total: 645
-inturn-percent: 90
-outturn-total: 1001
-outturn-percent: 88
-draw-total: 1380
-draw-percent: 91
-takeout-total: 266
-takeout-percent: 78
-shots-total: 1646
-shots-percent: 89
+totals:
+ - event: Brier
+   games: 87
+   wins: 60
+   losses: 27
+   inturn-total: 645
+   inturn-percent: 90
+   outturn-total: 1001
+   outturn-percent: 88
+   draw-total: 1380
+   draw-percent: 91
+   takeout-total: 266
+   takeout-percent: 78
+   shots-total: 1646
+   shots-percent: 89
 years:
  - year: 2012
    event: Brier

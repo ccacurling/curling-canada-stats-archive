@@ -2,19 +2,21 @@
 title: Blaine deJager
 name: Blaine deJager
 name-sort: deJager, Blaine
-games: 22
-wins: 2
-losses: 20
-inturn-total: 206
-inturn-percent: 82
-outturn-total: 184
-outturn-percent: 76
-draw-total: 264
-draw-percent: 82
-takeout-total: 126
-takeout-percent: 72
-shots-total: 390
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 22
+   wins: 2
+   losses: 20
+   inturn-total: 206
+   inturn-percent: 82
+   outturn-total: 184
+   outturn-percent: 76
+   draw-total: 264
+   draw-percent: 82
+   takeout-total: 126
+   takeout-percent: 72
+   shots-total: 390
+   shots-percent: 79
 years:
  - year: 2013
    event: Hearts

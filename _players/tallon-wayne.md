@@ -2,19 +2,21 @@
 title: Wayne Tallon
 name: Wayne Tallon
 name-sort: Tallon, Wayne
-games: 36
-wins: 20
-losses: 16
-inturn-total: 240
-inturn-percent: 73
-outturn-total: 415
-outturn-percent: 78
-draw-total: 294
-draw-percent: 74
-takeout-total: 361
-takeout-percent: 78
-shots-total: 655
-shots-percent: 76
+totals:
+ - event: Brier
+   games: 36
+   wins: 20
+   losses: 16
+   inturn-total: 240
+   inturn-percent: 73
+   outturn-total: 415
+   outturn-percent: 78
+   draw-total: 294
+   draw-percent: 74
+   takeout-total: 361
+   takeout-percent: 78
+   shots-total: 655
+   shots-percent: 76
 years:
  - year: 1999
    event: Brier

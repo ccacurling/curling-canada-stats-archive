@@ -2,19 +2,21 @@
 title: Jenn Hanna
 name: Jenn Hanna
 name-sort: Hanna, Jenn
-games: 27
-wins: 16
-losses: 11
-inturn-total: 229
-inturn-percent: 76
-outturn-total: 277
-outturn-percent: 83
-draw-total: 222
-draw-percent: 78
-takeout-total: 284
-takeout-percent: 82
-shots-total: 506
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 27
+   wins: 16
+   losses: 11
+   inturn-total: 229
+   inturn-percent: 76
+   outturn-total: 277
+   outturn-percent: 83
+   draw-total: 222
+   draw-percent: 78
+   takeout-total: 284
+   takeout-percent: 82
+   shots-total: 506
+   shots-percent: 80
 years:
  - year: 2004
    event: Hearts

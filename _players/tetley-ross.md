@@ -2,19 +2,21 @@
 title: Ross Tetley
 name: Ross Tetley
 name-sort: Tetley, Ross
-games: 26
-wins: 16
-losses: 10
-inturn-total: 250
-inturn-percent: 84
-outturn-total: 261
-outturn-percent: 80
-draw-total: 258
-draw-percent: 82
-takeout-total: 253
-takeout-percent: 82
-shots-total: 511
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 26
+   wins: 16
+   losses: 10
+   inturn-total: 250
+   inturn-percent: 84
+   outturn-total: 261
+   outturn-percent: 80
+   draw-total: 258
+   draw-percent: 82
+   takeout-total: 253
+   takeout-percent: 82
+   shots-total: 511
+   shots-percent: 82
 years:
  - year: 1991
    event: Brier

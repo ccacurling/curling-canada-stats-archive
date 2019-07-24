@@ -2,19 +2,21 @@
 title: Allison Ross
 name: Allison Ross
 name-sort: Ross, Allison
-games: 44
-wins: 13
-losses: 31
-inturn-total: 416
-inturn-percent: 72
-outturn-total: 395
-outturn-percent: 76
-draw-total: 445
-draw-percent: 71
-takeout-total: 366
-takeout-percent: 77
-shots-total: 811
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 44
+   wins: 13
+   losses: 31
+   inturn-total: 416
+   inturn-percent: 72
+   outturn-total: 395
+   outturn-percent: 76
+   draw-total: 445
+   draw-percent: 71
+   takeout-total: 366
+   takeout-percent: 77
+   shots-total: 811
+   shots-percent: 74
 years:
  - year: 1999
    event: Hearts

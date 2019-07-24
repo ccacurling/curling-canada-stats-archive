@@ -2,19 +2,21 @@
 title: Greg Monkman
 name: Greg Monkman
 name-sort: Monkman, Greg
-games: 23
-wins: 14
-losses: 9
-inturn-total: 92
-inturn-percent: 77
-outturn-total: 116
-outturn-percent: 72
-draw-total: 89
-draw-percent: 75
-takeout-total: 119
-takeout-percent: 73
-shots-total: 208
-shots-percent: 74
+totals:
+ - event: Brier
+   games: 23
+   wins: 14
+   losses: 9
+   inturn-total: 92
+   inturn-percent: 77
+   outturn-total: 116
+   outturn-percent: 72
+   draw-total: 89
+   draw-percent: 75
+   takeout-total: 119
+   takeout-percent: 73
+   shots-total: 208
+   shots-percent: 74
 years:
  - year: 1982
    event: Brier

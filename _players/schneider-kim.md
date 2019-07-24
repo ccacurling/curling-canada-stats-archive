@@ -2,19 +2,21 @@
 title: Kim Schneider
 name: Kim Schneider
 name-sort: Schneider, Kim
-games: 36
-wins: 23
-losses: 13
-inturn-total: 369
-inturn-percent: 74
-outturn-total: 329
-outturn-percent: 78
-draw-total: 264
-draw-percent: 72
-takeout-total: 434
-takeout-percent: 78
-shots-total: 698
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 36
+   wins: 23
+   losses: 13
+   inturn-total: 369
+   inturn-percent: 74
+   outturn-total: 329
+   outturn-percent: 78
+   draw-total: 264
+   draw-percent: 72
+   takeout-total: 434
+   takeout-percent: 78
+   shots-total: 698
+   shots-percent: 76
 years:
  - year: 2010
    event: Hearts

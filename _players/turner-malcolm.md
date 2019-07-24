@@ -2,19 +2,21 @@
 title: Malcolm Turner
 name: Malcolm Turner
 name-sort: Turner, Malcolm
-games: 52
-wins: 28
-losses: 24
-inturn-total: 399
-inturn-percent: 80
-outturn-total: 420
-outturn-percent: 78
-draw-total: 376
-draw-percent: 78
-takeout-total: 443
-takeout-percent: 80
-shots-total: 819
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 52
+   wins: 28
+   losses: 24
+   inturn-total: 399
+   inturn-percent: 80
+   outturn-total: 420
+   outturn-percent: 78
+   draw-total: 376
+   draw-percent: 78
+   takeout-total: 443
+   takeout-percent: 80
+   shots-total: 819
+   shots-percent: 79
 years:
  - year: 1980
    event: Brier

@@ -2,19 +2,21 @@
 title: Jeff Ryan
 name: Jeff Ryan
 name-sort: Ryan, Jeff
-games: 28
-wins: 21
-losses: 7
-inturn-total: 271
-inturn-percent: 80
-outturn-total: 265
-outturn-percent: 79
-draw-total: 221
-draw-percent: 78
-takeout-total: 315
-takeout-percent: 81
-shots-total: 536
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 28
+   wins: 21
+   losses: 7
+   inturn-total: 271
+   inturn-percent: 80
+   outturn-total: 265
+   outturn-percent: 79
+   draw-total: 221
+   draw-percent: 78
+   takeout-total: 315
+   takeout-percent: 81
+   shots-total: 536
+   shots-percent: 80
 years:
  - year: 1988
    event: Brier

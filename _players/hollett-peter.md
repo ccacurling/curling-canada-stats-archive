@@ -2,19 +2,21 @@
 title: Peter Hollett
 name: Peter Hollett
 name-sort: Hollett, Peter
-games: 34
-wins: 15
-losses: 19
-inturn-total: 282
-inturn-percent: 79
-outturn-total: 363
-outturn-percent: 79
-draw-total: 316
-draw-percent: 80
-takeout-total: 329
-takeout-percent: 79
-shots-total: 645
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 34
+   wins: 15
+   losses: 19
+   inturn-total: 282
+   inturn-percent: 79
+   outturn-total: 363
+   outturn-percent: 79
+   draw-total: 316
+   draw-percent: 80
+   takeout-total: 329
+   takeout-percent: 79
+   shots-total: 645
+   shots-percent: 79
 years:
  - year: 1989
    event: Brier

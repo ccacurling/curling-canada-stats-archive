@@ -2,19 +2,21 @@
 title: Klaus Schoenne
 name: Klaus Schoenne
 name-sort: Schoenne, Klaus
-games: 21
-wins: 4
-losses: 17
-inturn-total: 185
-inturn-percent: 69
-outturn-total: 176
-outturn-percent: 64
-draw-total: 186
-draw-percent: 64
-takeout-total: 175
-takeout-percent: 69
-shots-total: 361
-shots-percent: 66
+totals:
+ - event: Brier
+   games: 21
+   wins: 4
+   losses: 17
+   inturn-total: 185
+   inturn-percent: 69
+   outturn-total: 176
+   outturn-percent: 64
+   draw-total: 186
+   draw-percent: 64
+   takeout-total: 175
+   takeout-percent: 69
+   shots-total: 361
+   shots-percent: 66
 years:
  - year: 1986
    event: Brier

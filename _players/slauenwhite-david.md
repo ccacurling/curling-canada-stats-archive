@@ -2,19 +2,21 @@
 title: David Slauenwhite
 name: David Slauenwhite
 name-sort: Slauenwhite, David
-games: 21
-wins: 7
-losses: 14
-inturn-total: 276
-inturn-percent: 77
-outturn-total: 128
-outturn-percent: 76
-draw-total: 252
-draw-percent: 76
-takeout-total: 152
-takeout-percent: 79
-shots-total: 404
-shots-percent: 77
+totals:
+ - event: Brier
+   games: 21
+   wins: 7
+   losses: 14
+   inturn-total: 276
+   inturn-percent: 77
+   outturn-total: 128
+   outturn-percent: 76
+   draw-total: 252
+   draw-percent: 76
+   takeout-total: 152
+   takeout-percent: 79
+   shots-total: 404
+   shots-percent: 77
 years:
  - year: 1996
    event: Brier

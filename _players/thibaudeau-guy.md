@@ -2,19 +2,21 @@
 title: Guy Thibaudeau
 name: Guy Thibaudeau
 name-sort: Thibaudeau, Guy
-games: 40
-wins: 26
-losses: 14
-inturn-total: 342
-inturn-percent: 78
-outturn-total: 384
-outturn-percent: 82
-draw-total: 334
-draw-percent: 79
-takeout-total: 392
-takeout-percent: 81
-shots-total: 726
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 40
+   wins: 26
+   losses: 14
+   inturn-total: 342
+   inturn-percent: 78
+   outturn-total: 384
+   outturn-percent: 82
+   draw-total: 334
+   draw-percent: 79
+   takeout-total: 392
+   takeout-percent: 81
+   shots-total: 726
+   shots-percent: 80
 years:
  - year: 1998
    event: Brier

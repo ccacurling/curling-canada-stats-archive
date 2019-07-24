@@ -2,19 +2,21 @@
 title: Richard Daneault
 name: Richard Daneault
 name-sort: Daneault, Richard
-games: 25
-wins: 15
-losses: 10
-inturn-total: 203
-inturn-percent: 81
-outturn-total: 251
-outturn-percent: 86
-draw-total: 203
-draw-percent: 79
-takeout-total: 251
-takeout-percent: 87
-shots-total: 454
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 25
+   wins: 15
+   losses: 10
+   inturn-total: 203
+   inturn-percent: 81
+   outturn-total: 251
+   outturn-percent: 86
+   draw-total: 203
+   draw-percent: 79
+   takeout-total: 251
+   takeout-percent: 87
+   shots-total: 454
+   shots-percent: 83
 years:
  - year: 2008
    event: Brier

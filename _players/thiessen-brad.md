@@ -2,19 +2,21 @@
 title: Brad Thiessen
 name: Brad Thiessen
 name-sort: Thiessen, Brad
-games: 39
-wins: 23
-losses: 16
-inturn-total: 334
-inturn-percent: 86
-outturn-total: 387
-outturn-percent: 86
-draw-total: 308
-draw-percent: 87
-takeout-total: 413
-takeout-percent: 85
-shots-total: 721
-shots-percent: 86
+totals:
+ - event: Brier
+   games: 39
+   wins: 23
+   losses: 16
+   inturn-total: 334
+   inturn-percent: 86
+   outturn-total: 387
+   outturn-percent: 86
+   draw-total: 308
+   draw-percent: 87
+   takeout-total: 413
+   takeout-percent: 85
+   shots-total: 721
+   shots-percent: 86
 years:
  - year: 2017
    event: Brier

@@ -2,19 +2,21 @@
 title: Mary-Anne Arsenault
 name: Mary-Anne Arsenault
 name-sort: Arsenault, Mary-Anne
-games: 158
-wins: 101
-losses: 57
-inturn-total: 1423
-inturn-percent: 79
-outturn-total: 1608
-outturn-percent: 81
-draw-total: 1308
-draw-percent: 78
-takeout-total: 1723
-takeout-percent: 81
-shots-total: 3031
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 158
+   wins: 101
+   losses: 57
+   inturn-total: 1423
+   inturn-percent: 79
+   outturn-total: 1608
+   outturn-percent: 81
+   draw-total: 1308
+   draw-percent: 78
+   takeout-total: 1723
+   takeout-percent: 81
+   shots-total: 3031
+   shots-percent: 80
 years:
  - year: 1993
    event: Hearts

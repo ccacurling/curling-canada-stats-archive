@@ -2,19 +2,21 @@
 title: Suzanne Birt
 name: Suzanne Birt
 name-sort: Birt, Suzanne
-games: 114
-wins: 51
-losses: 63
-inturn-total: 1017
-inturn-percent: 72
-outturn-total: 1070
-outturn-percent: 72
-draw-total: 1009
-draw-percent: 67
-takeout-total: 1078
-takeout-percent: 76
-shots-total: 2087
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 114
+   wins: 51
+   losses: 63
+   inturn-total: 1017
+   inturn-percent: 72
+   outturn-total: 1070
+   outturn-percent: 72
+   draw-total: 1009
+   draw-percent: 67
+   takeout-total: 1078
+   takeout-percent: 76
+   shots-total: 2087
+   shots-percent: 72
 years:
  - year: 2003
    event: Hearts

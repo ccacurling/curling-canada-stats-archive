@@ -2,19 +2,21 @@
 title: Tracy Kennedy
 name: Tracy Kennedy
 name-sort: Kennedy, Tracy
-games: 52
-wins: 32
-losses: 20
-inturn-total: 570
-inturn-percent: 78
-outturn-total: 409
-outturn-percent: 75
-draw-total: 532
-draw-percent: 81
-takeout-total: 447
-takeout-percent: 72
-shots-total: 979
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 52
+   wins: 32
+   losses: 20
+   inturn-total: 570
+   inturn-percent: 78
+   outturn-total: 409
+   outturn-percent: 75
+   draw-total: 532
+   draw-percent: 81
+   takeout-total: 447
+   takeout-percent: 72
+   shots-total: 979
+   shots-percent: 77
 years:
  - year: 1988
    event: Hearts

@@ -2,19 +2,21 @@
 title: Bill Robinson
 name: Bill Robinson
 name-sort: Robinson, Bill
-games: 22
-wins: 11
-losses: 11
-inturn-total: 204
-inturn-percent: 75
-outturn-total: 222
-outturn-percent: 76
-draw-total: 201
-draw-percent: 74
-takeout-total: 225
-takeout-percent: 77
-shots-total: 426
-shots-percent: 75
+totals:
+ - event: Brier
+   games: 22
+   wins: 11
+   losses: 11
+   inturn-total: 204
+   inturn-percent: 75
+   outturn-total: 222
+   outturn-percent: 76
+   draw-total: 201
+   draw-percent: 74
+   takeout-total: 225
+   takeout-percent: 77
+   shots-total: 426
+   shots-percent: 75
 years:
  - year: 1988
    event: Brier

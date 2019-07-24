@@ -2,19 +2,21 @@
 title: Peter Gallant
 name: Peter Gallant
 name-sort: Gallant, Peter
-games: 100
-wins: 39
-losses: 61
-inturn-total: 712
-inturn-percent: 77
-outturn-total: 991
-outturn-percent: 79
-draw-total: 825
-draw-percent: 78
-takeout-total: 878
-takeout-percent: 79
-shots-total: 1703
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 100
+   wins: 39
+   losses: 61
+   inturn-total: 712
+   inturn-percent: 77
+   outturn-total: 991
+   outturn-percent: 79
+   draw-total: 825
+   draw-percent: 78
+   takeout-total: 878
+   takeout-percent: 79
+   shots-total: 1703
+   shots-percent: 78
 years:
  - year: 1982
    event: Brier

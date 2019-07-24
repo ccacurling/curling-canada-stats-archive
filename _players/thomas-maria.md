@@ -2,19 +2,21 @@
 title: Maria Thomas
 name: Maria Thomas
 name-sort: Thomas, Maria
-games: 33
-wins: 13
-losses: 20
-inturn-total: 296
-inturn-percent: 65
-outturn-total: 318
-outturn-percent: 65
-draw-total: 285
-draw-percent: 68
-takeout-total: 329
-takeout-percent: 62
-shots-total: 614
-shots-percent: 65
+totals:
+ - event: Hearts
+   games: 33
+   wins: 13
+   losses: 20
+   inturn-total: 296
+   inturn-percent: 65
+   outturn-total: 318
+   outturn-percent: 65
+   draw-total: 285
+   draw-percent: 68
+   takeout-total: 329
+   takeout-percent: 62
+   shots-total: 614
+   shots-percent: 65
 years:
  - year: 1988
    event: Hearts

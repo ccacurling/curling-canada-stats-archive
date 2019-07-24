@@ -2,19 +2,21 @@
 title: Stefanie Clark
 name: Stefanie Clark
 name-sort: Clark, Stefanie
-games: 35
-wins: 12
-losses: 23
-inturn-total: 323
-inturn-percent: 82
-outturn-total: 278
-outturn-percent: 75
-draw-total: 483
-draw-percent: 80
-takeout-total: 118
-takeout-percent: 72
-shots-total: 601
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 35
+   wins: 12
+   losses: 23
+   inturn-total: 323
+   inturn-percent: 82
+   outturn-total: 278
+   outturn-percent: 75
+   draw-total: 483
+   draw-percent: 80
+   takeout-total: 118
+   takeout-percent: 72
+   shots-total: 601
+   shots-percent: 79
 years:
  - year: 2005
    event: Hearts

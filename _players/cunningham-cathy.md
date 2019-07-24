@@ -2,19 +2,21 @@
 title: Cathy Cunningham
 name: Cathy Cunningham
 name-sort: Cunningham, Cathy
-games: 140
-wins: 68
-losses: 72
-inturn-total: 1184
-inturn-percent: 72
-outturn-total: 1488
-outturn-percent: 78
-draw-total: 1195
-draw-percent: 73
-takeout-total: 1477
-takeout-percent: 78
-shots-total: 2672
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 140
+   wins: 68
+   losses: 72
+   inturn-total: 1184
+   inturn-percent: 72
+   outturn-total: 1488
+   outturn-percent: 78
+   draw-total: 1195
+   draw-percent: 73
+   takeout-total: 1477
+   takeout-percent: 78
+   shots-total: 2672
+   shots-percent: 75
 years:
  - year: 1988
    event: Hearts

@@ -2,19 +2,21 @@
 title: Tom Naugler
 name: Tom Naugler
 name-sort: Naugler, Tom
-games: 37
-wins: 16
-losses: 21
-inturn-total: 348
-inturn-percent: 77
-outturn-total: 314
-outturn-percent: 79
-draw-total: 290
-draw-percent: 79
-takeout-total: 372
-takeout-percent: 77
-shots-total: 662
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 37
+   wins: 16
+   losses: 21
+   inturn-total: 348
+   inturn-percent: 77
+   outturn-total: 314
+   outturn-percent: 79
+   draw-total: 290
+   draw-percent: 79
+   takeout-total: 372
+   takeout-percent: 77
+   shots-total: 662
+   shots-percent: 78
 years:
  - year: 2009
    event: Brier

@@ -2,19 +2,21 @@
 title: Sally Nelthorpe
 name: Sally Nelthorpe
 name-sort: Nelthorpe, Sally
-games: 12
-wins: 4
-losses: 8
-inturn-total: 151
-inturn-percent: 73
-outturn-total: 62
-outturn-percent: 66
-draw-total: 145
-draw-percent: 76
-takeout-total: 68
-takeout-percent: 61
-shots-total: 213
-shots-percent: 71
+totals:
+ - event: Hearts
+   games: 12
+   wins: 4
+   losses: 8
+   inturn-total: 151
+   inturn-percent: 73
+   outturn-total: 62
+   outturn-percent: 66
+   draw-total: 145
+   draw-percent: 76
+   takeout-total: 68
+   takeout-percent: 61
+   shots-total: 213
+   shots-percent: 71
 years:
  - year: 1988
    event: Hearts

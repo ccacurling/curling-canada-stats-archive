@@ -2,9 +2,11 @@
 title: Jerry Zimmer
 name: Jerry Zimmer
 name-sort: Zimmer, Jerry
-games: 12
-wins: 7
-losses: 5
+totals:
+ - event: Brier
+   games: 12
+   wins: 7
+   losses: 5
 years:
  - year: 1984
    event: Brier

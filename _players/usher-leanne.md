@@ -2,19 +2,21 @@
 title: Leanne Usher
 name: Leanne Usher
 name-sort: Usher, Leanne
-games: 23
-wins: 13
-losses: 10
-inturn-total: 227
-inturn-percent: 76
-outturn-total: 194
-outturn-percent: 74
-draw-total: 214
-draw-percent: 79
-takeout-total: 207
-takeout-percent: 72
-shots-total: 421
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 23
+   wins: 13
+   losses: 10
+   inturn-total: 227
+   inturn-percent: 76
+   outturn-total: 194
+   outturn-percent: 74
+   draw-total: 214
+   draw-percent: 79
+   takeout-total: 207
+   takeout-percent: 72
+   shots-total: 421
+   shots-percent: 75
 years:
  - year: 1990
    event: Hearts

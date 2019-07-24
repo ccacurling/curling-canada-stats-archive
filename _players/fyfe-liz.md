@@ -2,19 +2,21 @@
 title: Liz Fyfe
 name: Liz Fyfe
 name-sort: Fyfe, Liz
-games: 33
-wins: 20
-losses: 13
-inturn-total: 347
-inturn-percent: 84
-outturn-total: 291
-outturn-percent: 83
-draw-total: 214
-draw-percent: 79
-takeout-total: 424
-takeout-percent: 86
-shots-total: 638
-shots-percent: 83
+totals:
+ - event: Hearts
+   games: 33
+   wins: 20
+   losses: 13
+   inturn-total: 347
+   inturn-percent: 84
+   outturn-total: 291
+   outturn-percent: 83
+   draw-total: 214
+   draw-percent: 79
+   takeout-total: 424
+   takeout-percent: 86
+   shots-total: 638
+   shots-percent: 83
 years:
  - year: 2016
    event: Hearts

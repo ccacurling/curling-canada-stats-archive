@@ -2,19 +2,21 @@
 title: Lowell Goulden
 name: Lowell Goulden
 name-sort: Goulden, Lowell
-games: 33
-wins: 14
-losses: 19
-inturn-total: 185
-inturn-percent: 75
-outturn-total: 238
-outturn-percent: 73
-draw-total: 194
-draw-percent: 71
-takeout-total: 229
-takeout-percent: 76
-shots-total: 423
-shots-percent: 74
+totals:
+ - event: Brier
+   games: 33
+   wins: 14
+   losses: 19
+   inturn-total: 185
+   inturn-percent: 75
+   outturn-total: 238
+   outturn-percent: 73
+   draw-total: 194
+   draw-percent: 71
+   takeout-total: 229
+   takeout-percent: 76
+   shots-total: 423
+   shots-percent: 74
 years:
  - year: 1980
    event: Brier

@@ -2,19 +2,21 @@
 title: David MacInnes
 name: David MacInnes
 name-sort: MacInnes, David
-games: 22
-wins: 3
-losses: 19
-inturn-total: 184
-inturn-percent: 71
-outturn-total: 229
-outturn-percent: 74
-draw-total: 182
-draw-percent: 73
-takeout-total: 231
-takeout-percent: 73
-shots-total: 413
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 22
+   wins: 3
+   losses: 19
+   inturn-total: 184
+   inturn-percent: 71
+   outturn-total: 229
+   outturn-percent: 74
+   draw-total: 182
+   draw-percent: 73
+   takeout-total: 231
+   takeout-percent: 73
+   shots-total: 413
+   shots-percent: 73
 years:
  - year: 1996
    event: Brier

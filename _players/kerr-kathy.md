@@ -2,19 +2,21 @@
 title: Kathy Kerr
 name: Kathy Kerr
 name-sort: Kerr, Kathy
-games: 117
-wins: 55
-losses: 62
-inturn-total: 874
-inturn-percent: 71
-outturn-total: 1339
-outturn-percent: 77
-draw-total: 1075
-draw-percent: 74
-takeout-total: 1138
-takeout-percent: 75
-shots-total: 2213
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 117
+   wins: 55
+   losses: 62
+   inturn-total: 874
+   inturn-percent: 71
+   outturn-total: 1339
+   outturn-percent: 77
+   draw-total: 1075
+   draw-percent: 74
+   takeout-total: 1138
+   takeout-percent: 75
+   shots-total: 2213
+   shots-percent: 75
 years:
  - year: 1987
    event: Hearts

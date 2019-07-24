@@ -2,19 +2,21 @@
 title: Marcy Balderston
 name: Marcy Balderston
 name-sort: Balderston, Marcy
-games: 33
-wins: 15
-losses: 18
-inturn-total: 295
-inturn-percent: 76
-outturn-total: 312
-outturn-percent: 77
-draw-total: 255
-draw-percent: 73
-takeout-total: 352
-takeout-percent: 79
-shots-total: 607
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 33
+   wins: 15
+   losses: 18
+   inturn-total: 295
+   inturn-percent: 76
+   outturn-total: 312
+   outturn-percent: 77
+   draw-total: 255
+   draw-percent: 73
+   takeout-total: 352
+   takeout-percent: 79
+   shots-total: 607
+   shots-percent: 77
 years:
  - year: 1987
    event: Hearts

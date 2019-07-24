@@ -2,19 +2,21 @@
 title: Lindsay Sparkes
 name: Lindsay Sparkes
 name-sort: Sparkes, Lindsay
-games: 36
-wins: 31
-losses: 5
-inturn-total: 432
-inturn-percent: 73
-outturn-total: 243
-outturn-percent: 75
-draw-total: 292
-draw-percent: 73
-takeout-total: 383
-takeout-percent: 75
-shots-total: 675
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 36
+   wins: 31
+   losses: 5
+   inturn-total: 432
+   inturn-percent: 73
+   outturn-total: 243
+   outturn-percent: 75
+   draw-total: 292
+   draw-percent: 73
+   takeout-total: 383
+   takeout-percent: 75
+   shots-total: 675
+   shots-percent: 74
 years:
  - year: 1984
    event: Hearts

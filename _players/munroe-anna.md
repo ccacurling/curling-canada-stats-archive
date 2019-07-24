@@ -2,19 +2,21 @@
 title: Anna Munroe
 name: Anna Munroe
 name-sort: Munroe, Anna
-games: 7
-wins: 0
-losses: 7
-inturn-total: 70
-inturn-percent: 79
-outturn-total: 58
-outturn-percent: 66
-draw-total: 58
-draw-percent: 73
-takeout-total: 70
-takeout-percent: 74
-shots-total: 128
-shots-percent: 73
+totals:
+ - event: Hearts
+   games: 7
+   wins: 0
+   losses: 7
+   inturn-total: 70
+   inturn-percent: 79
+   outturn-total: 58
+   outturn-percent: 66
+   draw-total: 58
+   draw-percent: 73
+   takeout-total: 70
+   takeout-percent: 74
+   shots-total: 128
+   shots-percent: 73
 years:
  - year: 2019
    event: Hearts

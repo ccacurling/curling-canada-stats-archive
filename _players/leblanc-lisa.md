@@ -2,19 +2,21 @@
 title: Lisa Leblanc
 name: Lisa Leblanc
 name-sort: Leblanc, Lisa
-games: 22
-wins: 5
-losses: 17
-inturn-total: 203
-inturn-percent: 70
-outturn-total: 219
-outturn-percent: 65
-draw-total: 213
-draw-percent: 66
-takeout-total: 209
-takeout-percent: 69
-shots-total: 422
-shots-percent: 68
+totals:
+ - event: Hearts
+   games: 22
+   wins: 5
+   losses: 17
+   inturn-total: 203
+   inturn-percent: 70
+   outturn-total: 219
+   outturn-percent: 65
+   draw-total: 213
+   draw-percent: 66
+   takeout-total: 209
+   takeout-percent: 69
+   shots-total: 422
+   shots-percent: 68
 years:
  - year: 1992
    event: Hearts

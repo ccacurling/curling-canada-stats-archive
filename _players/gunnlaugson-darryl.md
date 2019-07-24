@@ -2,9 +2,11 @@
 title: Darryl Gunnlaugson
 name: Darryl Gunnlaugson
 name-sort: Gunnlaugson, Darryl
-games: 0
-wins: 0
-losses: 0
+totals:
+ - event: Brier
+   games: 0
+   wins: 0
+   losses: 0
 years:
  - year: 1996
    event: Brier

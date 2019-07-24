@@ -2,19 +2,21 @@
 title: Crystal Webster
 name: Crystal Webster
 name-sort: Webster, Crystal
-games: 13
-wins: 9
-losses: 4
-inturn-total: 110
-inturn-percent: 80
-outturn-total: 125
-outturn-percent: 81
-draw-total: 85
-draw-percent: 78
-takeout-total: 150
-takeout-percent: 82
-shots-total: 235
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 110
+   inturn-percent: 80
+   outturn-total: 125
+   outturn-percent: 81
+   draw-total: 85
+   draw-percent: 78
+   takeout-total: 150
+   takeout-percent: 82
+   shots-total: 235
+   shots-percent: 80
 years:
  - year: 2011
    event: Hearts

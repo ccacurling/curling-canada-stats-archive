@@ -2,19 +2,21 @@
 title: Jonathon Solberg
 name: Jonathon Solberg
 name-sort: Solberg, Jonathon
-games: 42
-wins: 12
-losses: 30
-inturn-total: 317
-inturn-percent: 75
-outturn-total: 432
-outturn-percent: 74
-draw-total: 407
-draw-percent: 73
-takeout-total: 342
-takeout-percent: 76
-shots-total: 749
-shots-percent: 75
+totals:
+ - event: Brier
+   games: 42
+   wins: 12
+   losses: 30
+   inturn-total: 317
+   inturn-percent: 75
+   outturn-total: 432
+   outturn-percent: 74
+   draw-total: 407
+   draw-percent: 73
+   takeout-total: 342
+   takeout-percent: 76
+   shots-total: 749
+   shots-percent: 75
 years:
  - year: 2002
    event: Brier

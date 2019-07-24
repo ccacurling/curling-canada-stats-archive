@@ -2,19 +2,21 @@
 title: Caleb Flaxey
 name: Caleb Flaxey
 name-sort: Flaxey, Caleb
-games: 24
-wins: 12
-losses: 12
-inturn-total: 118
-inturn-percent: 81
-outturn-total: 296
-outturn-percent: 88
-draw-total: 373
-draw-percent: 87
-takeout-total: 41
-takeout-percent: 74
-shots-total: 414
-shots-percent: 86
+totals:
+ - event: Brier
+   games: 24
+   wins: 12
+   losses: 12
+   inturn-total: 118
+   inturn-percent: 81
+   outturn-total: 296
+   outturn-percent: 88
+   draw-total: 373
+   draw-percent: 87
+   takeout-total: 41
+   takeout-percent: 74
+   shots-total: 414
+   shots-percent: 86
 years:
  - year: 2008
    event: Brier

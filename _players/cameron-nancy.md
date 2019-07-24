@@ -2,19 +2,21 @@
 title: Nancy Cameron
 name: Nancy Cameron
 name-sort: Cameron, Nancy
-games: 68
-wins: 26
-losses: 42
-inturn-total: 588
-inturn-percent: 74
-outturn-total: 690
-outturn-percent: 78
-draw-total: 707
-draw-percent: 78
-takeout-total: 571
-takeout-percent: 75
-shots-total: 1278
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 68
+   wins: 26
+   losses: 42
+   inturn-total: 588
+   inturn-percent: 74
+   outturn-total: 690
+   outturn-percent: 78
+   draw-total: 707
+   draw-percent: 78
+   takeout-total: 571
+   takeout-percent: 75
+   shots-total: 1278
+   shots-percent: 76
 years:
  - year: 1987
    event: Hearts

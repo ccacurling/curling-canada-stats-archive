@@ -2,9 +2,11 @@
 title: Geoffrey Hinks
 name: Geoffrey Hinks
 name-sort: Hinks, Geoffrey
-games: 11
-wins: 3
-losses: 8
+totals:
+ - event: Brier
+   games: 11
+   wins: 3
+   losses: 8
 years:
  - year: 1984
    event: Brier

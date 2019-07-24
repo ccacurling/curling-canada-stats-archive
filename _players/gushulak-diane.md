@@ -2,19 +2,21 @@
 title: Diane Gushulak
 name: Diane Gushulak
 name-sort: Gushulak, Diane
-games: 39
-wins: 22
-losses: 17
-inturn-total: 351
-inturn-percent: 81
-outturn-total: 373
-outturn-percent: 79
-draw-total: 310
-draw-percent: 76
-takeout-total: 414
-takeout-percent: 83
-shots-total: 724
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 39
+   wins: 22
+   losses: 17
+   inturn-total: 351
+   inturn-percent: 81
+   outturn-total: 373
+   outturn-percent: 79
+   draw-total: 310
+   draw-percent: 76
+   takeout-total: 414
+   takeout-percent: 83
+   shots-total: 724
+   shots-percent: 80
 years:
  - year: 1995
    event: Hearts

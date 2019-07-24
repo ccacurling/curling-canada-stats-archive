@@ -2,19 +2,21 @@
 title: Sarah Murphy
 name: Sarah Murphy
 name-sort: Murphy, Sarah
-games: 18
-wins: 8
-losses: 10
-inturn-total: 205
-inturn-percent: 76
-outturn-total: 138
-outturn-percent: 77
-draw-total: 115
-draw-percent: 72
-takeout-total: 228
-takeout-percent: 78
-shots-total: 343
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 18
+   wins: 8
+   losses: 10
+   inturn-total: 205
+   inturn-percent: 76
+   outturn-total: 138
+   outturn-percent: 77
+   draw-total: 115
+   draw-percent: 72
+   takeout-total: 228
+   takeout-percent: 78
+   shots-total: 343
+   shots-percent: 76
 years:
  - year: 2016
    event: Hearts

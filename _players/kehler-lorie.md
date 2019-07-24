@@ -2,19 +2,21 @@
 title: Lorie Kehler
 name: Lorie Kehler
 name-sort: Kehler, Lorie
-games: 58
-wins: 34
-losses: 24
-inturn-total: 585
-inturn-percent: 73
-outturn-total: 526
-outturn-percent: 76
-draw-total: 519
-draw-percent: 77
-takeout-total: 592
-takeout-percent: 72
-shots-total: 1111
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 58
+   wins: 34
+   losses: 24
+   inturn-total: 585
+   inturn-percent: 73
+   outturn-total: 526
+   outturn-percent: 76
+   draw-total: 519
+   draw-percent: 77
+   takeout-total: 592
+   takeout-percent: 72
+   shots-total: 1111
+   shots-percent: 75
 years:
  - year: 1988
    event: Hearts

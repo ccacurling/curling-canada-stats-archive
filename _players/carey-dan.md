@@ -2,19 +2,21 @@
 title: Dan Carey
 name: Dan Carey
 name-sort: Carey, Dan
-games: 39
-wins: 30
-losses: 9
-inturn-total: 328
-inturn-percent: 83
-outturn-total: 436
-outturn-percent: 80
-draw-total: 292
-draw-percent: 80
-takeout-total: 472
-takeout-percent: 82
-shots-total: 764
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 39
+   wins: 30
+   losses: 9
+   inturn-total: 328
+   inturn-percent: 83
+   outturn-total: 436
+   outturn-percent: 80
+   draw-total: 292
+   draw-percent: 80
+   takeout-total: 472
+   takeout-percent: 82
+   shots-total: 764
+   shots-percent: 81
 years:
  - year: 1992
    event: Brier

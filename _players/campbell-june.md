@@ -2,19 +2,21 @@
 title: June Campbell
 name: June Campbell
 name-sort: Campbell, June
-games: 34
-wins: 17
-losses: 17
-inturn-total: 342
-inturn-percent: 77
-outturn-total: 308
-outturn-percent: 72
-draw-total: 277
-draw-percent: 70
-takeout-total: 373
-takeout-percent: 78
-shots-total: 650
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 34
+   wins: 17
+   losses: 17
+   inturn-total: 342
+   inturn-percent: 77
+   outturn-total: 308
+   outturn-percent: 72
+   draw-total: 277
+   draw-percent: 70
+   takeout-total: 373
+   takeout-percent: 78
+   shots-total: 650
+   shots-percent: 75
 years:
  - year: 1997
    event: Hearts

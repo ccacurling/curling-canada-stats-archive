@@ -2,19 +2,21 @@
 title: Paul Flemming
 name: Paul Flemming
 name-sort: Flemming, Paul
-games: 81
-wins: 39
-losses: 42
-inturn-total: 694
-inturn-percent: 80
-outturn-total: 807
-outturn-percent: 81
-draw-total: 641
-draw-percent: 78
-takeout-total: 860
-takeout-percent: 82
-shots-total: 1501
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 81
+   wins: 39
+   losses: 42
+   inturn-total: 694
+   inturn-percent: 80
+   outturn-total: 807
+   outturn-percent: 81
+   draw-total: 641
+   draw-percent: 78
+   takeout-total: 860
+   takeout-percent: 82
+   shots-total: 1501
+   shots-percent: 80
 years:
  - year: 1998
    event: Brier

@@ -2,19 +2,21 @@
 title: Sue Anne Bartlett
 name: Sue Anne Bartlett
 name-sort: Bartlett, Sue Anne
-games: 47
-wins: 23
-losses: 24
-inturn-total: 476
-inturn-percent: 65
-outturn-total: 400
-outturn-percent: 64
-draw-total: 406
-draw-percent: 61
-takeout-total: 470
-takeout-percent: 67
-shots-total: 876
-shots-percent: 64
+totals:
+ - event: Hearts
+   games: 47
+   wins: 23
+   losses: 24
+   inturn-total: 476
+   inturn-percent: 65
+   outturn-total: 400
+   outturn-percent: 64
+   draw-total: 406
+   draw-percent: 61
+   takeout-total: 470
+   takeout-percent: 67
+   shots-total: 876
+   shots-percent: 64
 years:
  - year: 1985
    event: Hearts

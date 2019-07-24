@@ -2,19 +2,21 @@
 title: Alex MacFadyen
 name: Alex MacFadyen
 name-sort: MacFadyen, Alex
-games: 21
-wins: 3
-losses: 18
-inturn-total: 183
-inturn-percent: 81
-outturn-total: 163
-outturn-percent: 82
-draw-total: 256
-draw-percent: 82
-takeout-total: 90
-takeout-percent: 80
-shots-total: 346
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 21
+   wins: 3
+   losses: 18
+   inturn-total: 183
+   inturn-percent: 81
+   outturn-total: 163
+   outturn-percent: 82
+   draw-total: 256
+   draw-percent: 82
+   takeout-total: 90
+   takeout-percent: 80
+   shots-total: 346
+   shots-percent: 82
 years:
  - year: 2011
    event: Brier

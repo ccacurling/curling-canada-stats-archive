@@ -2,19 +2,21 @@
 title: Rick Lang
 name: Rick Lang
 name-sort: Lang, Rick
-games: 99
-wins: 64
-losses: 35
-inturn-total: 759
-inturn-percent: 77
-outturn-total: 649
-outturn-percent: 77
-draw-total: 685
-draw-percent: 76
-takeout-total: 723
-takeout-percent: 78
-shots-total: 1408
-shots-percent: 77
+totals:
+ - event: Brier
+   games: 99
+   wins: 64
+   losses: 35
+   inturn-total: 759
+   inturn-percent: 77
+   outturn-total: 649
+   outturn-percent: 77
+   draw-total: 685
+   draw-percent: 76
+   takeout-total: 723
+   takeout-percent: 78
+   shots-total: 1408
+   shots-percent: 77
 years:
  - year: 1980
    event: Brier

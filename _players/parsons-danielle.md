@@ -2,19 +2,21 @@
 title: Danielle Parsons
 name: Danielle Parsons
 name-sort: Parsons, Danielle
-games: 47
-wins: 25
-losses: 22
-inturn-total: 462
-inturn-percent: 78
-outturn-total: 417
-outturn-percent: 77
-draw-total: 370
-draw-percent: 73
-takeout-total: 509
-takeout-percent: 81
-shots-total: 879
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 47
+   wins: 25
+   losses: 22
+   inturn-total: 462
+   inturn-percent: 78
+   outturn-total: 417
+   outturn-percent: 77
+   draw-total: 370
+   draw-percent: 73
+   takeout-total: 509
+   takeout-percent: 81
+   shots-total: 879
+   shots-percent: 77
 years:
  - year: 2011
    event: Hearts

@@ -2,19 +2,21 @@
 title: Steeve Gagnon
 name: Steeve Gagnon
 name-sort: Gagnon, Steeve
-games: 22
-wins: 8
-losses: 14
-inturn-total: 194
-inturn-percent: 73
-outturn-total: 219
-outturn-percent: 79
-draw-total: 187
-draw-percent: 72
-takeout-total: 226
-takeout-percent: 79
-shots-total: 413
-shots-percent: 76
+totals:
+ - event: Brier
+   games: 22
+   wins: 8
+   losses: 14
+   inturn-total: 194
+   inturn-percent: 73
+   outturn-total: 219
+   outturn-percent: 79
+   draw-total: 187
+   draw-percent: 72
+   takeout-total: 226
+   takeout-percent: 79
+   shots-total: 413
+   shots-percent: 76
 years:
  - year: 1995
    event: Brier

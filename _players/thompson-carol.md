@@ -2,19 +2,21 @@
 title: Carol Thompson
 name: Carol Thompson
 name-sort: Thompson, Carol
-games: 21
-wins: 12
-losses: 9
-inturn-total: 214
-inturn-percent: 65
-outturn-total: 169
-outturn-percent: 68
-draw-total: 197
-draw-percent: 63
-takeout-total: 186
-takeout-percent: 70
-shots-total: 383
-shots-percent: 66
+totals:
+ - event: Hearts
+   games: 21
+   wins: 12
+   losses: 9
+   inturn-total: 214
+   inturn-percent: 65
+   outturn-total: 169
+   outturn-percent: 68
+   draw-total: 197
+   draw-percent: 63
+   takeout-total: 186
+   takeout-percent: 70
+   shots-total: 383
+   shots-percent: 66
 years:
  - year: 1982
    event: Hearts

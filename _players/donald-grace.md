@@ -2,19 +2,21 @@
 title: Grace Donald
 name: Grace Donald
 name-sort: Donald, Grace
-games: 21
-wins: 5
-losses: 16
-inturn-total: 173
-inturn-percent: 59
-outturn-total: 207
-outturn-percent: 62
-draw-total: 171
-draw-percent: 60
-takeout-total: 209
-takeout-percent: 61
-shots-total: 380
-shots-percent: 61
+totals:
+ - event: Hearts
+   games: 21
+   wins: 5
+   losses: 16
+   inturn-total: 173
+   inturn-percent: 59
+   outturn-total: 207
+   outturn-percent: 62
+   draw-total: 171
+   draw-percent: 60
+   takeout-total: 209
+   takeout-percent: 61
+   shots-total: 380
+   shots-percent: 61
 years:
  - year: 1983
    event: Hearts

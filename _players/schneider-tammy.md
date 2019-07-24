@@ -2,19 +2,21 @@
 title: Tammy Schneider
 name: Tammy Schneider
 name-sort: Schneider, Tammy
-games: 30
-wins: 20
-losses: 10
-inturn-total: 275
-inturn-percent: 79
-outturn-total: 269
-outturn-percent: 78
-draw-total: 199
-draw-percent: 73
-takeout-total: 345
-takeout-percent: 82
-shots-total: 544
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 30
+   wins: 20
+   losses: 10
+   inturn-total: 275
+   inturn-percent: 79
+   outturn-total: 269
+   outturn-percent: 78
+   draw-total: 199
+   draw-percent: 73
+   takeout-total: 345
+   takeout-percent: 82
+   shots-total: 544
+   shots-percent: 79
 years:
  - year: 2010
    event: Hearts

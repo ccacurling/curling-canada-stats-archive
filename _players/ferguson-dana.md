@@ -2,19 +2,21 @@
 title: Dana Ferguson
 name: Dana Ferguson
 name-sort: Ferguson, Dana
-games: 41
-wins: 31
-losses: 10
-inturn-total: 369
-inturn-percent: 83
-outturn-total: 411
-outturn-percent: 83
-draw-total: 290
-draw-percent: 80
-takeout-total: 490
-takeout-percent: 85
-shots-total: 780
-shots-percent: 83
+totals:
+ - event: Hearts
+   games: 41
+   wins: 31
+   losses: 10
+   inturn-total: 369
+   inturn-percent: 83
+   outturn-total: 411
+   outturn-percent: 83
+   draw-total: 290
+   draw-percent: 80
+   takeout-total: 490
+   takeout-percent: 85
+   shots-total: 780
+   shots-percent: 83
 years:
  - year: 2014
    event: Hearts

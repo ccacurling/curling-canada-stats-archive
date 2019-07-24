@@ -2,19 +2,21 @@
 title: Allison Farrell
 name: Allison Farrell
 name-sort: Farrell, Allison
-games: 57
-wins: 25
-losses: 32
-inturn-total: 512
-inturn-percent: 76
-outturn-total: 596
-outturn-percent: 78
-draw-total: 570
-draw-percent: 78
-takeout-total: 538
-takeout-percent: 76
-shots-total: 1108
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 57
+   wins: 25
+   losses: 32
+   inturn-total: 512
+   inturn-percent: 76
+   outturn-total: 596
+   outturn-percent: 78
+   draw-total: 570
+   draw-percent: 78
+   takeout-total: 538
+   takeout-percent: 76
+   shots-total: 1108
+   shots-percent: 77
 years:
  - year: 1998
    event: Hearts

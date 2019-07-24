@@ -2,19 +2,21 @@
 title: Alison Goring
 name: Alison Goring
 name-sort: Goring, Alison
-games: 49
-wins: 30
-losses: 19
-inturn-total: 379
-inturn-percent: 69
-outturn-total: 531
-outturn-percent: 72
-draw-total: 442
-draw-percent: 69
-takeout-total: 468
-takeout-percent: 73
-shots-total: 910
-shots-percent: 71
+totals:
+ - event: Hearts
+   games: 49
+   wins: 30
+   losses: 19
+   inturn-total: 379
+   inturn-percent: 69
+   outturn-total: 531
+   outturn-percent: 72
+   draw-total: 442
+   draw-percent: 69
+   takeout-total: 468
+   takeout-percent: 73
+   shots-total: 910
+   shots-percent: 71
 years:
  - year: 1990
    event: Hearts

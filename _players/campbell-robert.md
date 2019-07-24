@@ -2,19 +2,21 @@
 title: Robert Campbell
 name: Robert Campbell
 name-sort: Campbell, Robert
-games: 89
-wins: 32
-losses: 57
-inturn-total: 670
-inturn-percent: 75
-outturn-total: 980
-outturn-percent: 78
-draw-total: 935
-draw-percent: 76
-takeout-total: 715
-takeout-percent: 77
-shots-total: 1650
-shots-percent: 77
+totals:
+ - event: Brier
+   games: 89
+   wins: 32
+   losses: 57
+   inturn-total: 670
+   inturn-percent: 75
+   outturn-total: 980
+   outturn-percent: 78
+   draw-total: 935
+   draw-percent: 76
+   takeout-total: 715
+   takeout-percent: 77
+   shots-total: 1650
+   shots-percent: 77
 years:
  - year: 1991
    event: Brier

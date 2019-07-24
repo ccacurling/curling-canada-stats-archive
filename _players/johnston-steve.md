@@ -2,19 +2,21 @@
 title: Steve Johnston
 name: Steve Johnston
 name-sort: Johnston, Steve
-games: 28
-wins: 8
-losses: 20
-inturn-total: 267
-inturn-percent: 75
-outturn-total: 281
-outturn-percent: 77
-draw-total: 289
-draw-percent: 78
-takeout-total: 259
-takeout-percent: 74
-shots-total: 548
-shots-percent: 76
+totals:
+ - event: Brier
+   games: 28
+   wins: 8
+   losses: 20
+   inturn-total: 267
+   inturn-percent: 75
+   outturn-total: 281
+   outturn-percent: 77
+   draw-total: 289
+   draw-percent: 78
+   takeout-total: 259
+   takeout-percent: 74
+   shots-total: 548
+   shots-percent: 76
 years:
  - year: 1990
    event: Brier

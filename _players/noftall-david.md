@@ -2,19 +2,21 @@
 title: David Noftall
 name: David Noftall
 name-sort: Noftall, David
-games: 14
-wins: 8
-losses: 6
-inturn-total: 56
-inturn-percent: 82
-outturn-total: 205
-outturn-percent: 86
-draw-total: 242
-draw-percent: 84
-takeout-total: 19
-takeout-percent: 93
-shots-total: 261
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 14
+   wins: 8
+   losses: 6
+   inturn-total: 56
+   inturn-percent: 82
+   outturn-total: 205
+   outturn-percent: 86
+   draw-total: 242
+   draw-percent: 84
+   takeout-total: 19
+   takeout-percent: 93
+   shots-total: 261
+   shots-percent: 85
 years:
  - year: 1998
    event: Brier

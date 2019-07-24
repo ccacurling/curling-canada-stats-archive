@@ -2,9 +2,11 @@
 title: Karl Murovic
 name: Karl Murovic
 name-sort: Murovic, Karl
-games: 11
-wins: 6
-losses: 5
+totals:
+ - event: Brier
+   games: 11
+   wins: 6
+   losses: 5
 years:
  - year: 1981
    event: Brier

@@ -2,19 +2,21 @@
 title: Earle Morris
 name: Earle Morris
 name-sort: Morris, Earle
-games: 33
-wins: 16
-losses: 17
-inturn-total: 199
-inturn-percent: 72
-outturn-total: 206
-outturn-percent: 68
-draw-total: 192
-draw-percent: 71
-takeout-total: 213
-takeout-percent: 69
-shots-total: 405
-shots-percent: 70
+totals:
+ - event: Brier
+   games: 33
+   wins: 16
+   losses: 17
+   inturn-total: 199
+   inturn-percent: 72
+   outturn-total: 206
+   outturn-percent: 68
+   draw-total: 192
+   draw-percent: 71
+   takeout-total: 213
+   takeout-percent: 69
+   shots-total: 405
+   shots-percent: 70
 years:
  - year: 1980
    event: Brier

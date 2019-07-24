@@ -2,19 +2,21 @@
 title: Terry Odishaw
 name: Terry Odishaw
 name-sort: Odishaw, Terry
-games: 30
-wins: 12
-losses: 18
-inturn-total: 273
-inturn-percent: 74
-outturn-total: 283
-outturn-percent: 72
-draw-total: 232
-draw-percent: 68
-takeout-total: 324
-takeout-percent: 76
-shots-total: 556
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 30
+   wins: 12
+   losses: 18
+   inturn-total: 273
+   inturn-percent: 74
+   outturn-total: 283
+   outturn-percent: 72
+   draw-total: 232
+   draw-percent: 68
+   takeout-total: 324
+   takeout-percent: 76
+   shots-total: 556
+   shots-percent: 73
 years:
  - year: 1991
    event: Brier

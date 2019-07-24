@@ -2,19 +2,21 @@
 title: Jennifer Crouse
 name: Jennifer Crouse
 name-sort: Crouse, Jennifer
-games: 35
-wins: 13
-losses: 22
-inturn-total: 377
-inturn-percent: 78
-outturn-total: 271
-outturn-percent: 74
-draw-total: 392
-draw-percent: 75
-takeout-total: 256
-takeout-percent: 78
-shots-total: 648
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 35
+   wins: 13
+   losses: 22
+   inturn-total: 377
+   inturn-percent: 78
+   outturn-total: 271
+   outturn-percent: 74
+   draw-total: 392
+   draw-percent: 75
+   takeout-total: 256
+   takeout-percent: 78
+   shots-total: 648
+   shots-percent: 77
 years:
  - year: 2009
    event: Hearts

@@ -2,19 +2,21 @@
 title: Grant Odishaw
 name: Grant Odishaw
 name-sort: Odishaw, Grant
-games: 99
-wins: 53
-losses: 46
-inturn-total: 642
-inturn-percent: 86
-outturn-total: 1214
-outturn-percent: 86
-draw-total: 1342
-draw-percent: 89
-takeout-total: 514
-takeout-percent: 80
-shots-total: 1856
-shots-percent: 86
+totals:
+ - event: Brier
+   games: 99
+   wins: 53
+   losses: 46
+   inturn-total: 642
+   inturn-percent: 86
+   outturn-total: 1214
+   outturn-percent: 86
+   draw-total: 1342
+   draw-percent: 89
+   takeout-total: 514
+   takeout-percent: 80
+   shots-total: 1856
+   shots-percent: 86
 years:
  - year: 1991
    event: Brier

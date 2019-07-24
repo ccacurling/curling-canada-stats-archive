@@ -2,19 +2,21 @@
 title: Cheryl Kreviazuk
 name: Cheryl Kreviazuk
 name-sort: Kreviazuk, Cheryl
-games: 19
-wins: 12
-losses: 7
-inturn-total: 149
-inturn-percent: 82
-outturn-total: 113
-outturn-percent: 86
-draw-total: 115
-draw-percent: 81
-takeout-total: 147
-takeout-percent: 86
-shots-total: 262
-shots-percent: 84
+totals:
+ - event: Hearts
+   games: 19
+   wins: 12
+   losses: 7
+   inturn-total: 149
+   inturn-percent: 82
+   outturn-total: 113
+   outturn-percent: 86
+   draw-total: 115
+   draw-percent: 81
+   takeout-total: 147
+   takeout-percent: 86
+   shots-total: 262
+   shots-percent: 84
 years:
  - year: 2015
    event: Hearts

@@ -2,19 +2,21 @@
 title: Briane Meilleur
 name: Briane Meilleur
 name-sort: Meilleur, Briane
-games: 4
-wins: 2
-losses: 2
-inturn-total: 19
-inturn-percent: 78
-outturn-total: 17
-outturn-percent: 97
-draw-total: 29
-draw-percent: 84
-takeout-total: 7
-takeout-percent: 96
-shots-total: 36
-shots-percent: 87
+totals:
+ - event: Hearts
+   games: 4
+   wins: 2
+   losses: 2
+   inturn-total: 19
+   inturn-percent: 78
+   outturn-total: 17
+   outturn-percent: 97
+   draw-total: 29
+   draw-percent: 84
+   takeout-total: 7
+   takeout-percent: 96
+   shots-total: 36
+   shots-percent: 87
 years:
  - year: 2016
    event: Hearts

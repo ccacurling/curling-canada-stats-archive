@@ -2,19 +2,21 @@
 title: Richard Belyea
 name: Richard Belyea
 name-sort: Belyea, Richard
-games: 23
-wins: 10
-losses: 13
-inturn-total: 85
-inturn-percent: 70
-outturn-total: 119
-outturn-percent: 64
-draw-total: 97
-draw-percent: 59
-takeout-total: 107
-takeout-percent: 74
-shots-total: 204
-shots-percent: 67
+totals:
+ - event: Brier
+   games: 23
+   wins: 10
+   losses: 13
+   inturn-total: 85
+   inturn-percent: 70
+   outturn-total: 119
+   outturn-percent: 64
+   draw-total: 97
+   draw-percent: 59
+   takeout-total: 107
+   takeout-percent: 74
+   shots-total: 204
+   shots-percent: 67
 years:
  - year: 1980
    event: Brier

@@ -2,19 +2,21 @@
 title: Lynn Reynolds
 name: Lynn Reynolds
 name-sort: Reynolds, Lynn
-games: 10
-wins: 6
-losses: 4
-inturn-total: 104
-inturn-percent: 65
-outturn-total: 87
-outturn-percent: 71
-draw-total: 86
-draw-percent: 70
-takeout-total: 105
-takeout-percent: 66
-shots-total: 191
-shots-percent: 68
+totals:
+ - event: Hearts
+   games: 10
+   wins: 6
+   losses: 4
+   inturn-total: 104
+   inturn-percent: 65
+   outturn-total: 87
+   outturn-percent: 71
+   draw-total: 86
+   draw-percent: 70
+   takeout-total: 105
+   takeout-percent: 66
+   shots-total: 191
+   shots-percent: 68
 years:
  - year: 1982
    event: Hearts

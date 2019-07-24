@@ -2,19 +2,21 @@
 title: Rory Golanowski
 name: Rory Golanowski
 name-sort: Golanowski, Rory
-games: 22
-wins: 10
-losses: 12
-inturn-total: 185
-inturn-percent: 88
-outturn-total: 231
-outturn-percent: 87
-draw-total: 360
-draw-percent: 89
-takeout-total: 56
-takeout-percent: 80
-shots-total: 416
-shots-percent: 88
+totals:
+ - event: Brier
+   games: 22
+   wins: 10
+   losses: 12
+   inturn-total: 185
+   inturn-percent: 88
+   outturn-total: 231
+   outturn-percent: 87
+   draw-total: 360
+   draw-percent: 89
+   takeout-total: 56
+   takeout-percent: 80
+   shots-total: 416
+   shots-percent: 88
 years:
  - year: 2000
    event: Brier

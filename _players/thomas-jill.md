@@ -2,19 +2,21 @@
 title: Jill Thomas
 name: Jill Thomas
 name-sort: Thomas, Jill
-games: 22
-wins: 3
-losses: 19
-inturn-total: 272
-inturn-percent: 79
-outturn-total: 137
-outturn-percent: 73
-draw-total: 325
-draw-percent: 76
-takeout-total: 84
-takeout-percent: 82
-shots-total: 409
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 22
+   wins: 3
+   losses: 19
+   inturn-total: 272
+   inturn-percent: 79
+   outturn-total: 137
+   outturn-percent: 73
+   draw-total: 325
+   draw-percent: 76
+   takeout-total: 84
+   takeout-percent: 82
+   shots-total: 409
+   shots-percent: 77
 years:
  - year: 2009
    event: Hearts

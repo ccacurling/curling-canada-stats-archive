@@ -2,19 +2,21 @@
 title: Kirk Muyres
 name: Kirk Muyres
 name-sort: Muyres, Kirk
-games: 57
-wins: 30
-losses: 27
-inturn-total: 605
-inturn-percent: 86
-outturn-total: 504
-outturn-percent: 83
-draw-total: 445
-draw-percent: 83
-takeout-total: 664
-takeout-percent: 86
-shots-total: 1109
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 57
+   wins: 30
+   losses: 27
+   inturn-total: 605
+   inturn-percent: 86
+   outturn-total: 504
+   outturn-percent: 83
+   draw-total: 445
+   draw-percent: 83
+   takeout-total: 664
+   takeout-percent: 86
+   shots-total: 1109
+   shots-percent: 85
 years:
  - year: 2014
    event: Brier

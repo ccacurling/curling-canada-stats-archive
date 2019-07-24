@@ -2,19 +2,21 @@
 title: Pierre Charette
 name: Pierre Charette
 name-sort: Charette, Pierre
-games: 87
-wins: 46
-losses: 41
-inturn-total: 672
-inturn-percent: 78
-outturn-total: 925
-outturn-percent: 81
-draw-total: 819
-draw-percent: 79
-takeout-total: 778
-takeout-percent: 81
-shots-total: 1597
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 87
+   wins: 46
+   losses: 41
+   inturn-total: 672
+   inturn-percent: 78
+   outturn-total: 925
+   outturn-percent: 81
+   draw-total: 819
+   draw-percent: 79
+   takeout-total: 778
+   takeout-percent: 81
+   shots-total: 1597
+   shots-percent: 80
 years:
  - year: 1989
    event: Brier

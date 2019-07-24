@@ -2,19 +2,21 @@
 title: Lorraine Lang
 name: Lorraine Lang
 name-sort: Lang, Lorraine
-games: 97
-wins: 56
-losses: 41
-inturn-total: 979
-inturn-percent: 76
-outturn-total: 900
-outturn-percent: 76
-draw-total: 1092
-draw-percent: 77
-takeout-total: 787
-takeout-percent: 74
-shots-total: 1879
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 97
+   wins: 56
+   losses: 41
+   inturn-total: 979
+   inturn-percent: 76
+   outturn-total: 900
+   outturn-percent: 76
+   draw-total: 1092
+   draw-percent: 77
+   takeout-total: 787
+   takeout-percent: 74
+   shots-total: 1879
+   shots-percent: 76
 years:
  - year: 1983
    event: Hearts

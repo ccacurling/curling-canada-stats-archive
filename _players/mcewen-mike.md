@@ -2,19 +2,21 @@
 title: Mike McEwen
 name: Mike McEwen
 name-sort: McEwen, Mike
-games: 49
-wins: 31
-losses: 18
-inturn-total: 406
-inturn-percent: 83
-outturn-total: 511
-outturn-percent: 85
-draw-total: 341
-draw-percent: 84
-takeout-total: 576
-takeout-percent: 85
-shots-total: 917
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 49
+   wins: 31
+   losses: 18
+   inturn-total: 406
+   inturn-percent: 83
+   outturn-total: 511
+   outturn-percent: 85
+   draw-total: 341
+   draw-percent: 84
+   takeout-total: 576
+   takeout-percent: 85
+   shots-total: 917
+   shots-percent: 84
 years:
  - year: 2016
    event: Brier

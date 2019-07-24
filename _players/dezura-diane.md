@@ -2,19 +2,21 @@
 title: Diane Dezura
 name: Diane Dezura
 name-sort: Dezura, Diane
-games: 54
-wins: 33
-losses: 21
-inturn-total: 354
-inturn-percent: 78
-outturn-total: 606
-outturn-percent: 81
-draw-total: 625
-draw-percent: 83
-takeout-total: 335
-takeout-percent: 74
-shots-total: 960
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 54
+   wins: 33
+   losses: 21
+   inturn-total: 354
+   inturn-percent: 78
+   outturn-total: 606
+   outturn-percent: 81
+   draw-total: 625
+   draw-percent: 83
+   takeout-total: 335
+   takeout-percent: 74
+   shots-total: 960
+   shots-percent: 80
 years:
  - year: 1988
    event: Hearts

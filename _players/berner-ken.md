@@ -2,9 +2,11 @@
 title: Ken Berner
 name: Ken Berner
 name-sort: Berner, Ken
-games: 14
-wins: 9
-losses: 5
+totals:
+ - event: Brier
+   games: 14
+   wins: 9
+   losses: 5
 years:
  - year: 1981
    event: Brier

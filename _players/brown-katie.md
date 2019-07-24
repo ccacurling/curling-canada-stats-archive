@@ -2,19 +2,21 @@
 title: Katie Brown
 name: Katie Brown
 name-sort: Brown, Katie
-games: 22
-wins: 7
-losses: 15
-inturn-total: 188
-inturn-percent: 60
-outturn-total: 213
-outturn-percent: 64
-draw-total: 204
-draw-percent: 59
-takeout-total: 197
-takeout-percent: 65
-shots-total: 401
-shots-percent: 62
+totals:
+ - event: Hearts
+   games: 22
+   wins: 7
+   losses: 15
+   inturn-total: 188
+   inturn-percent: 60
+   outturn-total: 213
+   outturn-percent: 64
+   draw-total: 204
+   draw-percent: 59
+   takeout-total: 197
+   takeout-percent: 65
+   shots-total: 401
+   shots-percent: 62
 years:
  - year: 1990
    event: Hearts

@@ -2,19 +2,21 @@
 title: Bill Adams
 name: Bill Adams
 name-sort: Adams, Bill
-games: 12
-wins: 4
-losses: 8
-inturn-total: 111
-inturn-percent: 79
-outturn-total: 113
-outturn-percent: 77
-draw-total: 120
-draw-percent: 77
-takeout-total: 104
-takeout-percent: 79
-shots-total: 224
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 12
+   wins: 4
+   losses: 8
+   inturn-total: 111
+   inturn-percent: 79
+   outturn-total: 113
+   outturn-percent: 77
+   draw-total: 120
+   draw-percent: 77
+   takeout-total: 104
+   takeout-percent: 79
+   shots-total: 224
+   shots-percent: 78
 years:
  - year: 1988
    event: Brier

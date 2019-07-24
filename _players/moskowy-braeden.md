@@ -2,19 +2,21 @@
 title: Braeden Moskowy
 name: Braeden Moskowy
 name-sort: Moskowy, Braeden
-games: 33
-wins: 14
-losses: 19
-inturn-total: 296
-inturn-percent: 84
-outturn-total: 326
-outturn-percent: 86
-draw-total: 269
-draw-percent: 84
-takeout-total: 353
-takeout-percent: 87
-shots-total: 622
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 33
+   wins: 14
+   losses: 19
+   inturn-total: 296
+   inturn-percent: 84
+   outturn-total: 326
+   outturn-percent: 86
+   draw-total: 269
+   draw-percent: 84
+   takeout-total: 353
+   takeout-percent: 87
+   shots-total: 622
+   shots-percent: 85
 years:
  - year: 2013
    event: Brier

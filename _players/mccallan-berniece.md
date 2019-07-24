@@ -2,19 +2,21 @@
 title: Berniece McCallan
 name: Berniece McCallan
 name-sort: McCallan, Berniece
-games: 21
-wins: 9
-losses: 12
-inturn-total: 211
-inturn-percent: 66
-outturn-total: 200
-outturn-percent: 63
-draw-total: 212
-draw-percent: 64
-takeout-total: 199
-takeout-percent: 65
-shots-total: 411
-shots-percent: 65
+totals:
+ - event: Hearts
+   games: 21
+   wins: 9
+   losses: 12
+   inturn-total: 211
+   inturn-percent: 66
+   outturn-total: 200
+   outturn-percent: 63
+   draw-total: 212
+   draw-percent: 64
+   takeout-total: 199
+   takeout-percent: 65
+   shots-total: 411
+   shots-percent: 65
 years:
  - year: 1983
    event: Hearts

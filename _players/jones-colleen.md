@@ -2,19 +2,21 @@
 title: Colleen Jones
 name: Colleen Jones
 name-sort: Jones, Colleen
-games: 227
-wins: 136
-losses: 91
-inturn-total: 1735
-inturn-percent: 72
-outturn-total: 2545
-outturn-percent: 77
-draw-total: 1922
-draw-percent: 71
-takeout-total: 2358
-takeout-percent: 78
-shots-total: 4280
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 227
+   wins: 136
+   losses: 91
+   inturn-total: 1735
+   inturn-percent: 72
+   outturn-total: 2545
+   outturn-percent: 77
+   draw-total: 1922
+   draw-percent: 71
+   takeout-total: 2358
+   takeout-percent: 78
+   shots-total: 4280
+   shots-percent: 75
 years:
  - year: 1982
    event: Hearts

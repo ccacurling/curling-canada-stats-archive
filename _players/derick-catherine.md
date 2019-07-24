@@ -2,19 +2,21 @@
 title: Catherine Derick
 name: Catherine Derick
 name-sort: Derick, Catherine
-games: 33
-wins: 11
-losses: 22
-inturn-total: 267
-inturn-percent: 69
-outturn-total: 349
-outturn-percent: 72
-draw-total: 272
-draw-percent: 66
-takeout-total: 344
-takeout-percent: 75
-shots-total: 616
-shots-percent: 71
+totals:
+ - event: Hearts
+   games: 33
+   wins: 11
+   losses: 22
+   inturn-total: 267
+   inturn-percent: 69
+   outturn-total: 349
+   outturn-percent: 72
+   draw-total: 272
+   draw-percent: 66
+   takeout-total: 344
+   takeout-percent: 75
+   shots-total: 616
+   shots-percent: 71
 years:
  - year: 1995
    event: Hearts

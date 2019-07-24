@@ -2,19 +2,21 @@
 title: Maxime Elmaleh
 name: Maxime Elmaleh
 name-sort: Elmaleh, Maxime
-games: 50
-wins: 29
-losses: 21
-inturn-total: 319
-inturn-percent: 78
-outturn-total: 602
-outturn-percent: 84
-draw-total: 632
-draw-percent: 83
-takeout-total: 289
-takeout-percent: 79
-shots-total: 921
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 50
+   wins: 29
+   losses: 21
+   inturn-total: 319
+   inturn-percent: 78
+   outturn-total: 602
+   outturn-percent: 84
+   draw-total: 632
+   draw-percent: 83
+   takeout-total: 289
+   takeout-percent: 79
+   shots-total: 921
+   shots-percent: 82
 years:
  - year: 2000
    event: Brier

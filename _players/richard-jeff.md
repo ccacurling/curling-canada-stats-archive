@@ -2,19 +2,21 @@
 title: Jeff Richard
 name: Jeff Richard
 name-sort: Richard, Jeff
-games: 18
-wins: 6
-losses: 12
-inturn-total: 169
-inturn-percent: 77
-outturn-total: 161
-outturn-percent: 78
-draw-total: 152
-draw-percent: 76
-takeout-total: 178
-takeout-percent: 78
-shots-total: 330
-shots-percent: 77
+totals:
+ - event: Brier
+   games: 18
+   wins: 6
+   losses: 12
+   inturn-total: 169
+   inturn-percent: 77
+   outturn-total: 161
+   outturn-percent: 78
+   draw-total: 152
+   draw-percent: 76
+   takeout-total: 178
+   takeout-percent: 78
+   shots-total: 330
+   shots-percent: 77
 years:
  - year: 2010
    event: Brier

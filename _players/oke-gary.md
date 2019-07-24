@@ -2,19 +2,21 @@
 title: Gary Oke
 name: Gary Oke
 name-sort: Oke, Gary
-games: 33
-wins: 10
-losses: 23
-inturn-total: 188
-inturn-percent: 79
-outturn-total: 247
-outturn-percent: 70
-draw-total: 187
-draw-percent: 70
-takeout-total: 248
-takeout-percent: 77
-shots-total: 435
-shots-percent: 74
+totals:
+ - event: Brier
+   games: 33
+   wins: 10
+   losses: 23
+   inturn-total: 188
+   inturn-percent: 79
+   outturn-total: 247
+   outturn-percent: 70
+   draw-total: 187
+   draw-percent: 70
+   takeout-total: 248
+   takeout-percent: 77
+   shots-total: 435
+   shots-percent: 74
 years:
  - year: 1983
    event: Brier

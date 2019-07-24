@@ -2,19 +2,21 @@
 title: Mike Bardsley
 name: Mike Bardsley
 name-sort: Bardsley, Mike
-games: 22
-wins: 4
-losses: 18
-inturn-total: 219
-inturn-percent: 80
-outturn-total: 193
-outturn-percent: 82
-draw-total: 181
-draw-percent: 82
-takeout-total: 231
-takeout-percent: 81
-shots-total: 412
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 22
+   wins: 4
+   losses: 18
+   inturn-total: 219
+   inturn-percent: 80
+   outturn-total: 193
+   outturn-percent: 82
+   draw-total: 181
+   draw-percent: 82
+   takeout-total: 231
+   takeout-percent: 81
+   shots-total: 412
+   shots-percent: 81
 years:
  - year: 2012
    event: Brier

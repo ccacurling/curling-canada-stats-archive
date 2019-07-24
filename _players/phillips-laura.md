@@ -2,19 +2,21 @@
 title: Laura Phillips
 name: Laura Phillips
 name-sort: Phillips, Laura
-games: 59
-wins: 27
-losses: 32
-inturn-total: 421
-inturn-percent: 66
-outturn-total: 662
-outturn-percent: 73
-draw-total: 486
-draw-percent: 66
-takeout-total: 597
-takeout-percent: 73
-shots-total: 1083
-shots-percent: 70
+totals:
+ - event: Hearts
+   games: 59
+   wins: 27
+   losses: 32
+   inturn-total: 421
+   inturn-percent: 66
+   outturn-total: 662
+   outturn-percent: 73
+   draw-total: 486
+   draw-percent: 66
+   takeout-total: 597
+   takeout-percent: 73
+   shots-total: 1083
+   shots-percent: 70
 years:
  - year: 1988
    event: Hearts

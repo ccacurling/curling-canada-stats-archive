@@ -2,19 +2,21 @@
 title: Steve Moss
 name: Steve Moss
 name-sort: Moss, Steve
-games: 55
-wins: 14
-losses: 41
-inturn-total: 421
-inturn-percent: 74
-outturn-total: 406
-outturn-percent: 73
-draw-total: 437
-draw-percent: 72
-takeout-total: 390
-takeout-percent: 75
-shots-total: 827
-shots-percent: 74
+totals:
+ - event: Brier
+   games: 55
+   wins: 14
+   losses: 41
+   inturn-total: 421
+   inturn-percent: 74
+   outturn-total: 406
+   outturn-percent: 73
+   draw-total: 437
+   draw-percent: 72
+   takeout-total: 390
+   takeout-percent: 75
+   shots-total: 827
+   shots-percent: 74
 years:
  - year: 1983
    event: Brier

@@ -2,19 +2,21 @@
 title: Russ Wookey
 name: Russ Wookey
 name-sort: Wookey, Russ
-games: 23
-wins: 15
-losses: 8
-inturn-total: 90
-inturn-percent: 81
-outturn-total: 126
-outturn-percent: 80
-draw-total: 95
-draw-percent: 81
-takeout-total: 121
-takeout-percent: 79
-shots-total: 216
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 23
+   wins: 15
+   losses: 8
+   inturn-total: 90
+   inturn-percent: 81
+   outturn-total: 126
+   outturn-percent: 80
+   draw-total: 95
+   draw-percent: 81
+   takeout-total: 121
+   takeout-percent: 79
+   shots-total: 216
+   shots-percent: 80
 years:
  - year: 1984
    event: Brier

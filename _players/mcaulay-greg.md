@@ -2,19 +2,21 @@
 title: Greg McAulay
 name: Greg McAulay
 name-sort: McAulay, Greg
-games: 25
-wins: 18
-losses: 7
-inturn-total: 225
-inturn-percent: 74
-outturn-total: 232
-outturn-percent: 81
-draw-total: 223
-draw-percent: 76
-takeout-total: 234
-takeout-percent: 80
-shots-total: 457
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 25
+   wins: 18
+   losses: 7
+   inturn-total: 225
+   inturn-percent: 74
+   outturn-total: 232
+   outturn-percent: 81
+   draw-total: 223
+   draw-percent: 76
+   takeout-total: 234
+   takeout-percent: 80
+   shots-total: 457
+   shots-percent: 78
 years:
  - year: 1998
    event: Brier

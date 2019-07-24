@@ -2,19 +2,21 @@
 title: Michelle Allen
 name: Michelle Allen
 name-sort: Allen, Michelle
-games: 24
-wins: 11
-losses: 13
-inturn-total: 207
-inturn-percent: 74
-outturn-total: 247
-outturn-percent: 75
-draw-total: 190
-draw-percent: 70
-takeout-total: 264
-takeout-percent: 77
-shots-total: 454
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 24
+   wins: 11
+   losses: 13
+   inturn-total: 207
+   inturn-percent: 74
+   outturn-total: 247
+   outturn-percent: 75
+   draw-total: 190
+   draw-percent: 70
+   takeout-total: 264
+   takeout-percent: 77
+   shots-total: 454
+   shots-percent: 74
 years:
  - year: 1999
    event: Hearts

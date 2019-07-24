@@ -2,19 +2,21 @@
 title: Dallan Muyres
 name: Dallan Muyres
 name-sort: Muyres, Dallan
-games: 68
-wins: 34
-losses: 34
-inturn-total: 765
-inturn-percent: 89
-outturn-total: 547
-outturn-percent: 89
-draw-total: 1150
-draw-percent: 89
-takeout-total: 162
-takeout-percent: 85
-shots-total: 1312
-shots-percent: 89
+totals:
+ - event: Brier
+   games: 68
+   wins: 34
+   losses: 34
+   inturn-total: 765
+   inturn-percent: 89
+   outturn-total: 547
+   outturn-percent: 89
+   draw-total: 1150
+   draw-percent: 89
+   takeout-total: 162
+   takeout-percent: 85
+   shots-total: 1312
+   shots-percent: 89
 years:
  - year: 2011
    event: Brier

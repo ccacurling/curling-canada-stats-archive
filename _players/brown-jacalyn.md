@@ -2,19 +2,21 @@
 title: Jacalyn Brown
 name: Jacalyn Brown
 name-sort: Brown, Jacalyn
-games: 24
-wins: 13
-losses: 11
-inturn-total: 245
-inturn-percent: 83
-outturn-total: 206
-outturn-percent: 82
-draw-total: 330
-draw-percent: 84
-takeout-total: 121
-takeout-percent: 78
-shots-total: 451
-shots-percent: 82
+totals:
+ - event: Hearts
+   games: 24
+   wins: 13
+   losses: 11
+   inturn-total: 245
+   inturn-percent: 83
+   outturn-total: 206
+   outturn-percent: 82
+   draw-total: 330
+   draw-percent: 84
+   takeout-total: 121
+   takeout-percent: 78
+   shots-total: 451
+   shots-percent: 82
 years:
  - year: 2001
    event: Hearts

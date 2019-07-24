@@ -2,19 +2,21 @@
 title: Wayne Charteris
 name: Wayne Charteris
 name-sort: Charteris, Wayne
-games: 24
-wins: 14
-losses: 10
-inturn-total: 120
-inturn-percent: 85
-outturn-total: 136
-outturn-percent: 87
-draw-total: 71
-draw-percent: 82
-takeout-total: 185
-takeout-percent: 88
-shots-total: 256
-shots-percent: 86
+totals:
+ - event: Brier
+   games: 24
+   wins: 14
+   losses: 10
+   inturn-total: 120
+   inturn-percent: 85
+   outturn-total: 136
+   outturn-percent: 87
+   draw-total: 71
+   draw-percent: 82
+   takeout-total: 185
+   takeout-percent: 88
+   shots-total: 256
+   shots-percent: 86
 years:
  - year: 1982
    event: Brier

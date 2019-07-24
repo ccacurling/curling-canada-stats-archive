@@ -2,19 +2,21 @@
 title: Chris Atchison
 name: Chris Atchison
 name-sort: Atchison, Chris
-games: 12
-wins: 5
-losses: 7
-inturn-total: 54
-inturn-percent: 87
-outturn-total: 168
-outturn-percent: 88
-draw-total: 191
-draw-percent: 88
-takeout-total: 31
-takeout-percent: 83
-shots-total: 222
-shots-percent: 88
+totals:
+ - event: Brier
+   games: 12
+   wins: 5
+   losses: 7
+   inturn-total: 54
+   inturn-percent: 87
+   outturn-total: 168
+   outturn-percent: 88
+   draw-total: 191
+   draw-percent: 88
+   takeout-total: 31
+   takeout-percent: 83
+   shots-total: 222
+   shots-percent: 88
 years:
  - year: 2001
    event: Brier

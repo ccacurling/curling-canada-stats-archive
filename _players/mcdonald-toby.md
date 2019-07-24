@@ -2,19 +2,21 @@
 title: Toby McDonald
 name: Toby McDonald
 name-sort: McDonald, Toby
-games: 23
-wins: 7
-losses: 16
-inturn-total: 97
-inturn-percent: 62
-outturn-total: 93
-outturn-percent: 62
-draw-total: 99
-draw-percent: 65
-takeout-total: 91
-takeout-percent: 60
-shots-total: 190
-shots-percent: 62
+totals:
+ - event: Brier
+   games: 23
+   wins: 7
+   losses: 16
+   inturn-total: 97
+   inturn-percent: 62
+   outturn-total: 93
+   outturn-percent: 62
+   draw-total: 99
+   draw-percent: 65
+   takeout-total: 91
+   takeout-percent: 60
+   shots-total: 190
+   shots-percent: 62
 years:
  - year: 1981
    event: Brier

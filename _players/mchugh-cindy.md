@@ -2,19 +2,21 @@
 title: Cindy McHugh
 name: Cindy McHugh
 name-sort: McHugh, Cindy
-games: 22
-wins: 7
-losses: 15
-inturn-total: 199
-inturn-percent: 65
-outturn-total: 204
-outturn-percent: 60
-draw-total: 220
-draw-percent: 66
-takeout-total: 183
-takeout-percent: 59
-shots-total: 403
-shots-percent: 63
+totals:
+ - event: Hearts
+   games: 22
+   wins: 7
+   losses: 15
+   inturn-total: 199
+   inturn-percent: 65
+   outturn-total: 204
+   outturn-percent: 60
+   draw-total: 220
+   draw-percent: 66
+   takeout-total: 183
+   takeout-percent: 59
+   shots-total: 403
+   shots-percent: 63
 years:
  - year: 1990
    event: Hearts

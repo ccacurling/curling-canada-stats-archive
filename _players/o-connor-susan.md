@@ -2,19 +2,21 @@
 title: Susan O'Connor
 name: Susan O'Connor
 name-sort: O'Connor, Susan
-games: 30
-wins: 18
-losses: 12
-inturn-total: 240
-inturn-percent: 78
-outturn-total: 220
-outturn-percent: 81
-draw-total: 207
-draw-percent: 76
-takeout-total: 253
-takeout-percent: 81
-shots-total: 460
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 30
+   wins: 18
+   losses: 12
+   inturn-total: 240
+   inturn-percent: 78
+   outturn-total: 220
+   outturn-percent: 81
+   draw-total: 207
+   draw-percent: 76
+   takeout-total: 253
+   takeout-percent: 81
+   shots-total: 460
+   shots-percent: 79
 years:
  - year: 2007
    event: Hearts

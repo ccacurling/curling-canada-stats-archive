@@ -2,19 +2,21 @@
 title: Chris Fulton
 name: Chris Fulton
 name-sort: Fulton, Chris
-games: 22
-wins: 8
-losses: 14
-inturn-total: 225
-inturn-percent: 80
-outturn-total: 205
-outturn-percent: 83
-draw-total: 200
-draw-percent: 79
-takeout-total: 230
-takeout-percent: 83
-shots-total: 430
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 22
+   wins: 8
+   losses: 14
+   inturn-total: 225
+   inturn-percent: 80
+   outturn-total: 205
+   outturn-percent: 83
+   draw-total: 200
+   draw-percent: 79
+   takeout-total: 230
+   takeout-percent: 83
+   shots-total: 430
+   shots-percent: 81
 years:
  - year: 1987
    event: Brier

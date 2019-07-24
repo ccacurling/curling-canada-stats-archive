@@ -2,19 +2,21 @@
 title: Pat Ryan
 name: Pat Ryan
 name-sort: Ryan, Pat
-games: 109
-wins: 78
-losses: 31
-inturn-total: 940
-inturn-percent: 82
-outturn-total: 1114
-outturn-percent: 82
-draw-total: 862
-draw-percent: 77
-takeout-total: 1192
-takeout-percent: 86
-shots-total: 2054
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 109
+   wins: 78
+   losses: 31
+   inturn-total: 940
+   inturn-percent: 82
+   outturn-total: 1114
+   outturn-percent: 82
+   draw-total: 862
+   draw-percent: 77
+   takeout-total: 1192
+   takeout-percent: 86
+   shots-total: 2054
+   shots-percent: 82
 years:
  - year: 1985
    event: Brier

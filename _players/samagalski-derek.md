@@ -2,19 +2,21 @@
 title: Derek Samagalski
 name: Derek Samagalski
 name-sort: Samagalski, Derek
-games: 47
-wins: 24
-losses: 23
-inturn-total: 426
-inturn-percent: 86
-outturn-total: 442
-outturn-percent: 87
-draw-total: 545
-draw-percent: 87
-takeout-total: 323
-takeout-percent: 86
-shots-total: 868
-shots-percent: 87
+totals:
+ - event: Brier
+   games: 47
+   wins: 24
+   losses: 23
+   inturn-total: 426
+   inturn-percent: 86
+   outturn-total: 442
+   outturn-percent: 87
+   draw-total: 545
+   draw-percent: 87
+   takeout-total: 323
+   takeout-percent: 86
+   shots-total: 868
+   shots-percent: 87
 years:
  - year: 2012
    event: Brier

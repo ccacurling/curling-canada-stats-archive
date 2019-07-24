@@ -2,19 +2,21 @@
 title: Thomas Hakansson
 name: Thomas Hakansson
 name-sort: Hakansson, Thomas
-games: 22
-wins: 12
-losses: 10
-inturn-total: 186
-inturn-percent: 74
-outturn-total: 225
-outturn-percent: 72
-draw-total: 207
-draw-percent: 72
-takeout-total: 204
-takeout-percent: 74
-shots-total: 411
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 22
+   wins: 12
+   losses: 10
+   inturn-total: 186
+   inturn-percent: 74
+   outturn-total: 225
+   outturn-percent: 72
+   draw-total: 207
+   draw-percent: 72
+   takeout-total: 204
+   takeout-percent: 74
+   shots-total: 411
+   shots-percent: 73
 years:
  - year: 1985
    event: Brier

@@ -2,19 +2,21 @@
 title: Louis Biron
 name: Louis Biron
 name-sort: Biron, Louis
-games: 46
-wins: 26
-losses: 20
-inturn-total: 306
-inturn-percent: 78
-outturn-total: 527
-outturn-percent: 82
-draw-total: 449
-draw-percent: 84
-takeout-total: 384
-takeout-percent: 76
-shots-total: 833
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 46
+   wins: 26
+   losses: 20
+   inturn-total: 306
+   inturn-percent: 78
+   outturn-total: 527
+   outturn-percent: 82
+   draw-total: 449
+   draw-percent: 84
+   takeout-total: 384
+   takeout-percent: 76
+   shots-total: 833
+   shots-percent: 81
 years:
  - year: 1992
    event: Brier

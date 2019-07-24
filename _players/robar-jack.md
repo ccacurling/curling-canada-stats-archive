@@ -2,9 +2,11 @@
 title: Jack Robar
 name: Jack Robar
 name-sort: Robar, Jack
-games: 11
-wins: 7
-losses: 4
+totals:
+ - event: Brier
+   games: 11
+   wins: 7
+   losses: 4
 years:
  - year: 1983
    event: Brier

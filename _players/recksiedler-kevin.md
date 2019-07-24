@@ -2,19 +2,21 @@
 title: Kevin Recksiedler
 name: Kevin Recksiedler
 name-sort: Recksiedler, Kevin
-games: 25
-wins: 15
-losses: 10
-inturn-total: 221
-inturn-percent: 79
-outturn-total: 233
-outturn-percent: 79
-draw-total: 205
-draw-percent: 73
-takeout-total: 249
-takeout-percent: 84
-shots-total: 454
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 25
+   wins: 15
+   losses: 10
+   inturn-total: 221
+   inturn-percent: 79
+   outturn-total: 233
+   outturn-percent: 79
+   draw-total: 205
+   draw-percent: 73
+   takeout-total: 249
+   takeout-percent: 84
+   shots-total: 454
+   shots-percent: 79
 years:
  - year: 2004
    event: Brier

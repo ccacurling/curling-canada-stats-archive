@@ -2,19 +2,21 @@
 title: Lorne Henderson
 name: Lorne Henderson
 name-sort: Henderson, Lorne
-games: 22
-wins: 12
-losses: 10
-inturn-total: 210
-inturn-percent: 75
-outturn-total: 205
-outturn-percent: 72
-draw-total: 192
-draw-percent: 72
-takeout-total: 223
-takeout-percent: 75
-shots-total: 415
-shots-percent: 74
+totals:
+ - event: Brier
+   games: 22
+   wins: 12
+   losses: 10
+   inturn-total: 210
+   inturn-percent: 75
+   outturn-total: 205
+   outturn-percent: 72
+   draw-total: 192
+   draw-percent: 72
+   takeout-total: 223
+   takeout-percent: 75
+   shots-total: 415
+   shots-percent: 74
 years:
  - year: 1989
    event: Brier

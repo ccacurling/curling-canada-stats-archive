@@ -2,19 +2,21 @@
 title: Gerri Cooke
 name: Gerri Cooke
 name-sort: Cooke, Gerri
-games: 28
-wins: 17
-losses: 11
-inturn-total: 275
-inturn-percent: 80
-outturn-total: 228
-outturn-percent: 78
-draw-total: 204
-draw-percent: 73
-takeout-total: 299
-takeout-percent: 82
-shots-total: 503
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 28
+   wins: 17
+   losses: 11
+   inturn-total: 275
+   inturn-percent: 80
+   outturn-total: 228
+   outturn-percent: 78
+   draw-total: 204
+   draw-percent: 73
+   takeout-total: 299
+   takeout-percent: 82
+   shots-total: 503
+   shots-percent: 79
 years:
  - year: 1993
    event: Hearts

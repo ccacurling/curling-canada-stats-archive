@@ -2,19 +2,21 @@
 title: Kerry Burtnyk
 name: Kerry Burtnyk
 name-sort: Burtnyk, Kerry
-games: 63
-wins: 44
-losses: 19
-inturn-total: 410
-inturn-percent: 78
-outturn-total: 487
-outturn-percent: 80
-draw-total: 372
-draw-percent: 76
-takeout-total: 525
-takeout-percent: 82
-shots-total: 897
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 63
+   wins: 44
+   losses: 19
+   inturn-total: 410
+   inturn-percent: 78
+   outturn-total: 487
+   outturn-percent: 80
+   draw-total: 372
+   draw-percent: 76
+   takeout-total: 525
+   takeout-percent: 82
+   shots-total: 897
+   shots-percent: 79
 years:
  - year: 1981
    event: Brier

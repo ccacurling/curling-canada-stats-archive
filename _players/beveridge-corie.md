@@ -2,19 +2,21 @@
 title: Corie Beveridge
 name: Corie Beveridge
 name-sort: Beveridge, Corie
-games: 25
-wins: 17
-losses: 8
-inturn-total: 226
-inturn-percent: 81
-outturn-total: 236
-outturn-percent: 79
-draw-total: 179
-draw-percent: 78
-takeout-total: 283
-takeout-percent: 81
-shots-total: 462
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 25
+   wins: 17
+   losses: 8
+   inturn-total: 226
+   inturn-percent: 81
+   outturn-total: 236
+   outturn-percent: 79
+   draw-total: 179
+   draw-percent: 78
+   takeout-total: 283
+   takeout-percent: 81
+   shots-total: 462
+   shots-percent: 80
 years:
  - year: 1996
    event: Hearts

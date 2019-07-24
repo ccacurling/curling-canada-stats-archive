@@ -2,9 +2,11 @@
 title: John Helston
 name: John Helston
 name-sort: Helston, John
-games: 12
-wins: 9
-losses: 3
+totals:
+ - event: Brier
+   games: 12
+   wins: 9
+   losses: 3
 years:
  - year: 1984
    event: Brier

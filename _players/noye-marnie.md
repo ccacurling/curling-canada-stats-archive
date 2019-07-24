@@ -2,19 +2,21 @@
 title: Marnie Noye
 name: Marnie Noye
 name-sort: Noye, Marnie
-games: 21
-wins: 4
-losses: 17
-inturn-total: 193
-inturn-percent: 63
-outturn-total: 165
-outturn-percent: 66
-draw-total: 223
-draw-percent: 66
-takeout-total: 135
-takeout-percent: 62
-shots-total: 358
-shots-percent: 64
+totals:
+ - event: Hearts
+   games: 21
+   wins: 4
+   losses: 17
+   inturn-total: 193
+   inturn-percent: 63
+   outturn-total: 165
+   outturn-percent: 66
+   draw-total: 223
+   draw-percent: 66
+   takeout-total: 135
+   takeout-percent: 62
+   shots-total: 358
+   shots-percent: 64
 years:
  - year: 1984
    event: Hearts

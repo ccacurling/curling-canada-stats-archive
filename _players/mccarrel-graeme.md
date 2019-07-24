@@ -2,19 +2,21 @@
 title: Graeme McCarrel
 name: Graeme McCarrel
 name-sort: McCarrel, Graeme
-games: 49
-wins: 35
-losses: 14
-inturn-total: 399
-inturn-percent: 84
-outturn-total: 484
-outturn-percent: 87
-draw-total: 333
-draw-percent: 83
-takeout-total: 550
-takeout-percent: 87
-shots-total: 883
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 49
+   wins: 35
+   losses: 14
+   inturn-total: 399
+   inturn-percent: 84
+   outturn-total: 484
+   outturn-percent: 87
+   draw-total: 333
+   draw-percent: 83
+   takeout-total: 550
+   takeout-percent: 87
+   shots-total: 883
+   shots-percent: 85
 years:
  - year: 1988
    event: Brier

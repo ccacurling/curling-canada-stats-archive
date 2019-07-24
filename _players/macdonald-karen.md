@@ -2,19 +2,21 @@
 title: Karen MacDonald
 name: Karen MacDonald
 name-sort: MacDonald, Karen
-games: 20
-wins: 8
-losses: 12
-inturn-total: 191
-inturn-percent: 63
-outturn-total: 191
-outturn-percent: 62
-draw-total: 214
-draw-percent: 66
-takeout-total: 168
-takeout-percent: 58
-shots-total: 382
-shots-percent: 62
+totals:
+ - event: Hearts
+   games: 20
+   wins: 8
+   losses: 12
+   inturn-total: 191
+   inturn-percent: 63
+   outturn-total: 191
+   outturn-percent: 62
+   draw-total: 214
+   draw-percent: 66
+   takeout-total: 168
+   takeout-percent: 58
+   shots-total: 382
+   shots-percent: 62
 years:
  - year: 1983
    event: Hearts

@@ -2,19 +2,21 @@
 title: Heather Kalenchuk
 name: Heather Kalenchuk
 name-sort: Kalenchuk, Heather
-games: 36
-wins: 23
-losses: 13
-inturn-total: 338
-inturn-percent: 82
-outturn-total: 335
-outturn-percent: 86
-draw-total: 551
-draw-percent: 84
-takeout-total: 122
-takeout-percent: 85
-shots-total: 673
-shots-percent: 84
+totals:
+ - event: Hearts
+   games: 36
+   wins: 23
+   losses: 13
+   inturn-total: 338
+   inturn-percent: 82
+   outturn-total: 335
+   outturn-percent: 86
+   draw-total: 551
+   draw-percent: 84
+   takeout-total: 122
+   takeout-percent: 85
+   shots-total: 673
+   shots-percent: 84
 years:
  - year: 2010
    event: Hearts

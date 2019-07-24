@@ -2,19 +2,21 @@
 title: John Ferguson
 name: John Ferguson
 name-sort: Ferguson, John
-games: 24
-wins: 18
-losses: 6
-inturn-total: 100
-inturn-percent: 84
-outturn-total: 132
-outturn-percent: 81
-draw-total: 109
-draw-percent: 79
-takeout-total: 123
-takeout-percent: 85
-shots-total: 232
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 24
+   wins: 18
+   losses: 6
+   inturn-total: 100
+   inturn-percent: 84
+   outturn-total: 132
+   outturn-percent: 81
+   draw-total: 109
+   draw-percent: 79
+   takeout-total: 123
+   takeout-percent: 85
+   shots-total: 232
+   shots-percent: 82
 years:
  - year: 1984
    event: Brier

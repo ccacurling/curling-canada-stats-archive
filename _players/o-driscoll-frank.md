@@ -2,19 +2,21 @@
 title: Frank O'Driscoll
 name: Frank O'Driscoll
 name-sort: O'Driscoll, Frank
-games: 23
-wins: 13
-losses: 10
-inturn-total: 202
-inturn-percent: 73
-outturn-total: 229
-outturn-percent: 74
-draw-total: 197
-draw-percent: 72
-takeout-total: 234
-takeout-percent: 74
-shots-total: 431
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 23
+   wins: 13
+   losses: 10
+   inturn-total: 202
+   inturn-percent: 73
+   outturn-total: 229
+   outturn-percent: 74
+   draw-total: 197
+   draw-percent: 72
+   takeout-total: 234
+   takeout-percent: 74
+   shots-total: 431
+   shots-percent: 73
 years:
  - year: 1994
    event: Brier

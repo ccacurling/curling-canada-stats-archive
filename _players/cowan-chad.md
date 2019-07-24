@@ -2,19 +2,21 @@
 title: Chad Cowan
 name: Chad Cowan
 name-sort: Cowan, Chad
-games: 33
-wins: 8
-losses: 25
-inturn-total: 315
-inturn-percent: 75
-outturn-total: 309
-outturn-percent: 76
-draw-total: 290
-draw-percent: 74
-takeout-total: 334
-takeout-percent: 76
-shots-total: 624
-shots-percent: 75
+totals:
+ - event: Brier
+   games: 33
+   wins: 8
+   losses: 25
+   inturn-total: 315
+   inturn-percent: 75
+   outturn-total: 309
+   outturn-percent: 76
+   draw-total: 290
+   draw-percent: 74
+   takeout-total: 334
+   takeout-percent: 76
+   shots-total: 624
+   shots-percent: 75
 years:
  - year: 2000
    event: Brier

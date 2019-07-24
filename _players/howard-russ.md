@@ -2,19 +2,21 @@
 title: Russ Howard
 name: Russ Howard
 name-sort: Howard, Russ
-games: 174
-wins: 113
-losses: 61
-inturn-total: 1439
-inturn-percent: 79
-outturn-total: 1777
-outturn-percent: 83
-draw-total: 1365
-draw-percent: 81
-takeout-total: 1851
-takeout-percent: 81
-shots-total: 3216
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 174
+   wins: 113
+   losses: 61
+   inturn-total: 1439
+   inturn-percent: 79
+   outturn-total: 1777
+   outturn-percent: 83
+   draw-total: 1365
+   draw-percent: 81
+   takeout-total: 1851
+   takeout-percent: 81
+   shots-total: 3216
+   shots-percent: 81
 years:
  - year: 1980
    event: Brier

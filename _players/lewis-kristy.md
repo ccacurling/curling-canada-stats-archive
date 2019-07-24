@@ -2,19 +2,21 @@
 title: Kristy Lewis
 name: Kristy Lewis
 name-sort: Lewis, Kristy
-games: 23
-wins: 12
-losses: 11
-inturn-total: 211
-inturn-percent: 73
-outturn-total: 215
-outturn-percent: 70
-draw-total: 171
-draw-percent: 66
-takeout-total: 255
-takeout-percent: 75
-shots-total: 426
-shots-percent: 71
+totals:
+ - event: Hearts
+   games: 23
+   wins: 12
+   losses: 11
+   inturn-total: 211
+   inturn-percent: 73
+   outturn-total: 215
+   outturn-percent: 70
+   draw-total: 171
+   draw-percent: 66
+   takeout-total: 255
+   takeout-percent: 75
+   shots-total: 426
+   shots-percent: 71
 years:
  - year: 1998
    event: Hearts

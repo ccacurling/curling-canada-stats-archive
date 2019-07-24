@@ -2,19 +2,21 @@
 title: Peter Case
 name: Peter Case
 name-sort: Case, Peter
-games: 56
-wins: 21
-losses: 35
-inturn-total: 433
-inturn-percent: 87
-outturn-total: 612
-outturn-percent: 86
-draw-total: 928
-draw-percent: 88
-takeout-total: 117
-takeout-percent: 77
-shots-total: 1045
-shots-percent: 86
+totals:
+ - event: Brier
+   games: 56
+   wins: 21
+   losses: 35
+   inturn-total: 433
+   inturn-percent: 87
+   outturn-total: 612
+   outturn-percent: 86
+   draw-total: 928
+   draw-percent: 88
+   takeout-total: 117
+   takeout-percent: 77
+   shots-total: 1045
+   shots-percent: 86
 years:
  - year: 2001
    event: Brier

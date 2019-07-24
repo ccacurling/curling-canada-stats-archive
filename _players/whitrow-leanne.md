@@ -2,19 +2,21 @@
 title: Leanne Whitrow
 name: Leanne Whitrow
 name-sort: Whitrow, Leanne
-games: 37
-wins: 25
-losses: 12
-inturn-total: 265
-inturn-percent: 78
-outturn-total: 425
-outturn-percent: 78
-draw-total: 384
-draw-percent: 83
-takeout-total: 306
-takeout-percent: 72
-shots-total: 690
-shots-percent: 78
+totals:
+ - event: Hearts
+   games: 37
+   wins: 25
+   losses: 12
+   inturn-total: 265
+   inturn-percent: 78
+   outturn-total: 425
+   outturn-percent: 78
+   draw-total: 384
+   draw-percent: 83
+   takeout-total: 306
+   takeout-percent: 72
+   shots-total: 690
+   shots-percent: 78
 years:
  - year: 1988
    event: Hearts

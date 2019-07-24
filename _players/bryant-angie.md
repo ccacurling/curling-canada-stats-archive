@@ -2,19 +2,21 @@
 title: Angie Bryant
 name: Angie Bryant
 name-sort: Bryant, Angie
-games: 22
-wins: 8
-losses: 14
-inturn-total: 217
-inturn-percent: 76
-outturn-total: 221
-outturn-percent: 78
-draw-total: 182
-draw-percent: 76
-takeout-total: 256
-takeout-percent: 78
-shots-total: 438
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 22
+   wins: 8
+   losses: 14
+   inturn-total: 217
+   inturn-percent: 76
+   outturn-total: 221
+   outturn-percent: 78
+   draw-total: 182
+   draw-percent: 76
+   takeout-total: 256
+   takeout-percent: 78
+   shots-total: 438
+   shots-percent: 77
 years:
  - year: 1994
    event: Hearts

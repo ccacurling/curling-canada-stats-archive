@@ -2,19 +2,21 @@
 title: Tracy Bush
 name: Tracy Bush
 name-sort: Bush, Tracy
-games: 23
-wins: 12
-losses: 11
-inturn-total: 256
-inturn-percent: 85
-outturn-total: 170
-outturn-percent: 83
-draw-total: 354
-draw-percent: 84
-takeout-total: 72
-takeout-percent: 85
-shots-total: 426
-shots-percent: 84
+totals:
+ - event: Hearts
+   games: 23
+   wins: 12
+   losses: 11
+   inturn-total: 256
+   inturn-percent: 85
+   outturn-total: 170
+   outturn-percent: 83
+   draw-total: 354
+   draw-percent: 84
+   takeout-total: 72
+   takeout-percent: 85
+   shots-total: 426
+   shots-percent: 84
 years:
  - year: 2005
    event: Hearts

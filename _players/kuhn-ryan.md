@@ -2,19 +2,21 @@
 title: Ryan Kuhn
 name: Ryan Kuhn
 name-sort: Kuhn, Ryan
-games: 22
-wins: 8
-losses: 14
-inturn-total: 209
-inturn-percent: 82
-outturn-total: 211
-outturn-percent: 79
-draw-total: 164
-draw-percent: 79
-takeout-total: 256
-takeout-percent: 82
-shots-total: 420
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 22
+   wins: 8
+   losses: 14
+   inturn-total: 209
+   inturn-percent: 82
+   outturn-total: 211
+   outturn-percent: 79
+   draw-total: 164
+   draw-percent: 79
+   takeout-total: 256
+   takeout-percent: 82
+   shots-total: 420
+   shots-percent: 81
 years:
  - year: 2015
    event: Brier

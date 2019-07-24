@@ -2,19 +2,21 @@
 title: Deb Santos
 name: Deb Santos
 name-sort: Santos, Deb
-games: 45
-wins: 24
-losses: 21
-inturn-total: 353
-inturn-percent: 68
-outturn-total: 474
-outturn-percent: 71
-draw-total: 376
-draw-percent: 65
-takeout-total: 451
-takeout-percent: 74
-shots-total: 827
-shots-percent: 70
+totals:
+ - event: Hearts
+   games: 45
+   wins: 24
+   losses: 21
+   inturn-total: 353
+   inturn-percent: 68
+   outturn-total: 474
+   outturn-percent: 71
+   draw-total: 376
+   draw-percent: 65
+   takeout-total: 451
+   takeout-percent: 74
+   shots-total: 827
+   shots-percent: 70
 years:
  - year: 1989
    event: Hearts

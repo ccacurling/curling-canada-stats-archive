@@ -2,19 +2,21 @@
 title: Bob Ursel
 name: Bob Ursel
 name-sort: Ursel, Bob
-games: 37
-wins: 20
-losses: 17
-inturn-total: 377
-inturn-percent: 84
-outturn-total: 335
-outturn-percent: 82
-draw-total: 317
-draw-percent: 80
-takeout-total: 395
-takeout-percent: 86
-shots-total: 712
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 37
+   wins: 20
+   losses: 17
+   inturn-total: 377
+   inturn-percent: 84
+   outturn-total: 335
+   outturn-percent: 82
+   draw-total: 317
+   draw-percent: 80
+   takeout-total: 395
+   takeout-percent: 86
+   shots-total: 712
+   shots-percent: 83
 years:
  - year: 1999
    event: Brier

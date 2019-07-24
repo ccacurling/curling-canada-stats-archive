@@ -2,19 +2,21 @@
 title: Erin Carmody
 name: Erin Carmody
 name-sort: Carmody, Erin
-games: 21
-wins: 11
-losses: 10
-inturn-total: 219
-inturn-percent: 75
-outturn-total: 175
-outturn-percent: 74
-draw-total: 176
-draw-percent: 69
-takeout-total: 218
-takeout-percent: 78
-shots-total: 394
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 21
+   wins: 11
+   losses: 10
+   inturn-total: 219
+   inturn-percent: 75
+   outturn-total: 175
+   outturn-percent: 74
+   draw-total: 176
+   draw-percent: 69
+   takeout-total: 218
+   takeout-percent: 78
+   shots-total: 394
+   shots-percent: 74
 years:
  - year: 2010
    event: Hearts

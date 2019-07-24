@@ -2,19 +2,21 @@
 title: Marie-France Larouche
 name: Marie-France Larouche
 name-sort: Larouche, Marie-France
-games: 89
-wins: 49
-losses: 40
-inturn-total: 828
-inturn-percent: 75
-outturn-total: 869
-outturn-percent: 75
-draw-total: 803
-draw-percent: 72
-takeout-total: 894
-takeout-percent: 77
-shots-total: 1697
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 89
+   wins: 49
+   losses: 40
+   inturn-total: 828
+   inturn-percent: 75
+   outturn-total: 869
+   outturn-percent: 75
+   draw-total: 803
+   draw-percent: 72
+   takeout-total: 894
+   takeout-percent: 77
+   shots-total: 1697
+   shots-percent: 75
 years:
  - year: 2000
    event: Hearts

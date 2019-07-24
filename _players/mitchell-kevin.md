@@ -2,9 +2,11 @@
 title: Kevin Mitchell
 name: Kevin Mitchell
 name-sort: Mitchell, Kevin
-games: 11
-wins: 1
-losses: 10
+totals:
+ - event: Brier
+   games: 11
+   wins: 1
+   losses: 10
 years:
  - year: 1983
    event: Brier

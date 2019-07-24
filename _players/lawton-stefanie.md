@@ -2,19 +2,21 @@
 title: Stefanie Lawton
 name: Stefanie Lawton
 name-sort: Lawton, Stefanie
-games: 64
-wins: 39
-losses: 25
-inturn-total: 642
-inturn-percent: 80
-outturn-total: 580
-outturn-percent: 81
-draw-total: 521
-draw-percent: 79
-takeout-total: 701
-takeout-percent: 82
-shots-total: 1222
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 64
+   wins: 39
+   losses: 25
+   inturn-total: 642
+   inturn-percent: 80
+   outturn-total: 580
+   outturn-percent: 81
+   draw-total: 521
+   draw-percent: 79
+   takeout-total: 701
+   takeout-percent: 82
+   shots-total: 1222
+   shots-percent: 80
 years:
  - year: 2005
    event: Hearts

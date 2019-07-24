@@ -2,19 +2,21 @@
 title: Karrick Martin
 name: Karrick Martin
 name-sort: Martin, Karrick
-games: 41
-wins: 24
-losses: 17
-inturn-total: 560
-inturn-percent: 90
-outturn-total: 157
-outturn-percent: 84
-draw-total: 622
-draw-percent: 90
-takeout-total: 95
-takeout-percent: 80
-shots-total: 717
-shots-percent: 89
+totals:
+ - event: Brier
+   games: 41
+   wins: 24
+   losses: 17
+   inturn-total: 560
+   inturn-percent: 90
+   outturn-total: 157
+   outturn-percent: 84
+   draw-total: 622
+   draw-percent: 90
+   takeout-total: 95
+   takeout-percent: 80
+   shots-total: 717
+   shots-percent: 89
 years:
  - year: 2013
    event: Brier

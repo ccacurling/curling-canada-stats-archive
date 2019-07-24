@@ -2,19 +2,21 @@
 title: Julie Devereaux
 name: Julie Devereaux
 name-sort: Devereaux, Julie
-games: 33
-wins: 12
-losses: 21
-inturn-total: 287
-inturn-percent: 77
-outturn-total: 331
-outturn-percent: 80
-draw-total: 279
-draw-percent: 76
-takeout-total: 339
-takeout-percent: 81
-shots-total: 618
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 33
+   wins: 12
+   losses: 21
+   inturn-total: 287
+   inturn-percent: 77
+   outturn-total: 331
+   outturn-percent: 80
+   draw-total: 279
+   draw-percent: 76
+   takeout-total: 339
+   takeout-percent: 81
+   shots-total: 618
+   shots-percent: 79
 years:
  - year: 2011
    event: Hearts

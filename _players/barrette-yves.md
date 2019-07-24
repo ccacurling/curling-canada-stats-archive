@@ -2,9 +2,11 @@
 title: Yves Barrette
 name: Yves Barrette
 name-sort: Barrette, Yves
-games: 11
-wins: 6
-losses: 5
+totals:
+ - event: Brier
+   games: 11
+   wins: 6
+   losses: 5
 years:
  - year: 1983
    event: Brier

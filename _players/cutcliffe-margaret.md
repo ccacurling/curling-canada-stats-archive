@@ -2,19 +2,21 @@
 title: Margaret Cutcliffe
 name: Margaret Cutcliffe
 name-sort: Cutcliffe, Margaret
-games: 32
-wins: 11
-losses: 21
-inturn-total: 280
-inturn-percent: 65
-outturn-total: 330
-outturn-percent: 67
-draw-total: 308
-draw-percent: 68
-takeout-total: 302
-takeout-percent: 65
-shots-total: 610
-shots-percent: 66
+totals:
+ - event: Hearts
+   games: 32
+   wins: 11
+   losses: 21
+   inturn-total: 280
+   inturn-percent: 65
+   outturn-total: 330
+   outturn-percent: 67
+   draw-total: 308
+   draw-percent: 68
+   takeout-total: 302
+   takeout-percent: 65
+   shots-total: 610
+   shots-percent: 66
 years:
  - year: 1985
    event: Hearts

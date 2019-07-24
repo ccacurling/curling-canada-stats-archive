@@ -2,19 +2,21 @@
 title: Amelie Blais
 name: Amelie Blais
 name-sort: Blais, Amelie
-games: 26
-wins: 12
-losses: 14
-inturn-total: 212
-inturn-percent: 79
-outturn-total: 264
-outturn-percent: 77
-draw-total: 221
-draw-percent: 78
-takeout-total: 255
-takeout-percent: 78
-shots-total: 476
-shots-percent: 78
+totals:
+ - event: Hearts
+   games: 26
+   wins: 12
+   losses: 14
+   inturn-total: 212
+   inturn-percent: 79
+   outturn-total: 264
+   outturn-percent: 77
+   draw-total: 221
+   draw-percent: 78
+   takeout-total: 255
+   takeout-percent: 78
+   shots-total: 476
+   shots-percent: 78
 years:
  - year: 2012
    event: Hearts

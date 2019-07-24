@@ -2,19 +2,21 @@
 title: Art Lappalainen
 name: Art Lappalainen
 name-sort: Lappalainen, Art
-games: 48
-wins: 27
-losses: 21
-inturn-total: 536
-inturn-percent: 83
-outturn-total: 372
-outturn-percent: 80
-draw-total: 543
-draw-percent: 85
-takeout-total: 365
-takeout-percent: 77
-shots-total: 908
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 48
+   wins: 27
+   losses: 21
+   inturn-total: 536
+   inturn-percent: 83
+   outturn-total: 372
+   outturn-percent: 80
+   draw-total: 543
+   draw-percent: 85
+   takeout-total: 365
+   takeout-percent: 77
+   shots-total: 908
+   shots-percent: 82
 years:
  - year: 1991
    event: Brier

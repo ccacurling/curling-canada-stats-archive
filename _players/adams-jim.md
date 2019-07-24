@@ -2,19 +2,21 @@
 title: Jim Adams
 name: Jim Adams
 name-sort: Adams, Jim
-games: 21
-wins: 7
-losses: 14
-inturn-total: 208
-inturn-percent: 77
-outturn-total: 192
-outturn-percent: 79
-draw-total: 223
-draw-percent: 80
-takeout-total: 177
-takeout-percent: 76
-shots-total: 400
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 21
+   wins: 7
+   losses: 14
+   inturn-total: 208
+   inturn-percent: 77
+   outturn-total: 192
+   outturn-percent: 79
+   draw-total: 223
+   draw-percent: 80
+   takeout-total: 177
+   takeout-percent: 76
+   shots-total: 400
+   shots-percent: 78
 years:
  - year: 1988
    event: Brier

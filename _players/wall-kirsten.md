@@ -2,19 +2,21 @@
 title: Kirsten Wall
 name: Kirsten Wall
 name-sort: Wall, Kirsten
-games: 26
-wins: 17
-losses: 9
-inturn-total: 243
-inturn-percent: 77
-outturn-total: 259
-outturn-percent: 83
-draw-total: 194
-draw-percent: 75
-takeout-total: 308
-takeout-percent: 83
-shots-total: 502
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 26
+   wins: 17
+   losses: 9
+   inturn-total: 243
+   inturn-percent: 77
+   outturn-total: 259
+   outturn-percent: 83
+   draw-total: 194
+   draw-percent: 75
+   takeout-total: 308
+   takeout-percent: 83
+   shots-total: 502
+   shots-percent: 80
 years:
  - year: 2001
    event: Hearts

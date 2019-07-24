@@ -2,19 +2,21 @@
 title: Jill Officer
 name: Jill Officer
 name-sort: Officer, Jill
-games: 166
-wins: 129
-losses: 37
-inturn-total: 1589
-inturn-percent: 82
-outturn-total: 1469
-outturn-percent: 84
-draw-total: 1062
-draw-percent: 78
-takeout-total: 1996
-takeout-percent: 85
-shots-total: 3058
-shots-percent: 83
+totals:
+ - event: Hearts
+   games: 166
+   wins: 129
+   losses: 37
+   inturn-total: 1589
+   inturn-percent: 82
+   outturn-total: 1469
+   outturn-percent: 84
+   draw-total: 1062
+   draw-percent: 78
+   takeout-total: 1996
+   takeout-percent: 85
+   shots-total: 3058
+   shots-percent: 83
 years:
  - year: 2002
    event: Hearts

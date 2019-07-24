@@ -2,19 +2,21 @@
 title: Judy Blanchard
 name: Judy Blanchard
 name-sort: Blanchard, Judy
-games: 87
-wins: 34
-losses: 53
-inturn-total: 672
-inturn-percent: 73
-outturn-total: 941
-outturn-percent: 75
-draw-total: 1057
-draw-percent: 76
-takeout-total: 556
-takeout-percent: 70
-shots-total: 1613
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 87
+   wins: 34
+   losses: 53
+   inturn-total: 672
+   inturn-percent: 73
+   outturn-total: 941
+   outturn-percent: 75
+   draw-total: 1057
+   draw-percent: 76
+   takeout-total: 556
+   takeout-percent: 70
+   shots-total: 1613
+   shots-percent: 74
 years:
  - year: 1987
    event: Hearts

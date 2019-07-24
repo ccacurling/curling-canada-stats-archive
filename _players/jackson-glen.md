@@ -2,19 +2,21 @@
 title: Glen Jackson
 name: Glen Jackson
 name-sort: Jackson, Glen
-games: 22
-wins: 11
-losses: 11
-inturn-total: 188
-inturn-percent: 77
-outturn-total: 259
-outturn-percent: 81
-draw-total: 174
-draw-percent: 79
-takeout-total: 273
-takeout-percent: 80
-shots-total: 447
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 22
+   wins: 11
+   losses: 11
+   inturn-total: 188
+   inturn-percent: 77
+   outturn-total: 259
+   outturn-percent: 81
+   draw-total: 174
+   draw-percent: 79
+   takeout-total: 273
+   takeout-percent: 80
+   shots-total: 447
+   shots-percent: 79
 years:
  - year: 1980
    event: Brier

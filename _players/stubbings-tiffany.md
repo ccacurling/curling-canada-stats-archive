@@ -2,19 +2,21 @@
 title: Tiffany Stubbings
 name: Tiffany Stubbings
 name-sort: Stubbings, Tiffany
-games: 23
-wins: 10
-losses: 13
-inturn-total: 241
-inturn-percent: 69
-outturn-total: 209
-outturn-percent: 74
-draw-total: 204
-draw-percent: 64
-takeout-total: 246
-takeout-percent: 78
-shots-total: 450
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 23
+   wins: 10
+   losses: 13
+   inturn-total: 241
+   inturn-percent: 69
+   outturn-total: 209
+   outturn-percent: 74
+   draw-total: 204
+   draw-percent: 64
+   takeout-total: 246
+   takeout-percent: 78
+   shots-total: 450
+   shots-percent: 72
 years:
  - year: 2006
    event: Hearts

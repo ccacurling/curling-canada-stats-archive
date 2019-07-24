@@ -2,19 +2,21 @@
 title: John McClelland
 name: John McClelland
 name-sort: McClelland, John
-games: 22
-wins: 13
-losses: 9
-inturn-total: 182
-inturn-percent: 75
-outturn-total: 232
-outturn-percent: 83
-draw-total: 184
-draw-percent: 81
-takeout-total: 230
-takeout-percent: 78
-shots-total: 414
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 22
+   wins: 13
+   losses: 9
+   inturn-total: 182
+   inturn-percent: 75
+   outturn-total: 232
+   outturn-percent: 83
+   draw-total: 184
+   draw-percent: 81
+   takeout-total: 230
+   takeout-percent: 78
+   shots-total: 414
+   shots-percent: 79
 years:
  - year: 1994
    event: Brier

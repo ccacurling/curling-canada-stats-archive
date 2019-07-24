@@ -2,19 +2,21 @@
 title: Bill Jenkins
 name: Bill Jenkins
 name-sort: Jenkins, Bill
-games: 22
-wins: 6
-losses: 16
-inturn-total: 176
-inturn-percent: 73
-outturn-total: 202
-outturn-percent: 68
-draw-total: 187
-draw-percent: 66
-takeout-total: 191
-takeout-percent: 74
-shots-total: 378
-shots-percent: 70
+totals:
+ - event: Brier
+   games: 22
+   wins: 6
+   losses: 16
+   inturn-total: 176
+   inturn-percent: 73
+   outturn-total: 202
+   outturn-percent: 68
+   draw-total: 187
+   draw-percent: 66
+   takeout-total: 191
+   takeout-percent: 74
+   shots-total: 378
+   shots-percent: 70
 years:
  - year: 1995
    event: Brier

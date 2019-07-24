@@ -2,19 +2,21 @@
 title: Cheryl Bernard
 name: Cheryl Bernard
 name-sort: Bernard, Cheryl
-games: 48
-wins: 25
-losses: 23
-inturn-total: 400
-inturn-percent: 71
-outturn-total: 477
-outturn-percent: 74
-draw-total: 430
-draw-percent: 69
-takeout-total: 447
-takeout-percent: 77
-shots-total: 877
-shots-percent: 73
+totals:
+ - event: Hearts
+   games: 48
+   wins: 25
+   losses: 23
+   inturn-total: 400
+   inturn-percent: 71
+   outturn-total: 477
+   outturn-percent: 74
+   draw-total: 430
+   draw-percent: 69
+   takeout-total: 447
+   takeout-percent: 77
+   shots-total: 877
+   shots-percent: 73
 years:
  - year: 1992
    event: Hearts

@@ -2,19 +2,21 @@
 title: John Kawaja
 name: John Kawaja
 name-sort: Kawaja, John
-games: 65
-wins: 48
-losses: 17
-inturn-total: 226
-inturn-percent: 78
-outturn-total: 467
-outturn-percent: 82
-draw-total: 258
-draw-percent: 76
-takeout-total: 435
-takeout-percent: 84
-shots-total: 693
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 65
+   wins: 48
+   losses: 17
+   inturn-total: 226
+   inturn-percent: 78
+   outturn-total: 467
+   outturn-percent: 82
+   draw-total: 258
+   draw-percent: 76
+   takeout-total: 435
+   takeout-percent: 84
+   shots-total: 693
+   shots-percent: 81
 years:
  - year: 1983
    event: Brier

@@ -2,19 +2,21 @@
 title: Mark Dobson
 name: Mark Dobson
 name-sort: Dobson, Mark
-games: 23
-wins: 8
-losses: 15
-inturn-total: 219
-inturn-percent: 78
-outturn-total: 207
-outturn-percent: 74
-draw-total: 196
-draw-percent: 75
-takeout-total: 230
-takeout-percent: 77
-shots-total: 426
-shots-percent: 76
+totals:
+ - event: Brier
+   games: 23
+   wins: 8
+   losses: 15
+   inturn-total: 219
+   inturn-percent: 78
+   outturn-total: 207
+   outturn-percent: 74
+   draw-total: 196
+   draw-percent: 75
+   takeout-total: 230
+   takeout-percent: 77
+   shots-total: 426
+   shots-percent: 76
 years:
  - year: 1998
    event: Brier

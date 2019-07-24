@@ -2,9 +2,11 @@
 title: Paul Hunter
 name: Paul Hunter
 name-sort: Hunter, Paul
-games: 11
-wins: 3
-losses: 8
+totals:
+ - event: Brier
+   games: 11
+   wins: 3
+   losses: 8
 years:
  - year: 1982
    event: Brier

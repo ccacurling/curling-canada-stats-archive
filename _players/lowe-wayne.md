@@ -2,19 +2,21 @@
 title: Wayne Lowe
 name: Wayne Lowe
 name-sort: Lowe, Wayne
-games: 21
-wins: 12
-losses: 9
-inturn-total: 139
-inturn-percent: 77
-outturn-total: 244
-outturn-percent: 81
-draw-total: 286
-draw-percent: 79
-takeout-total: 97
-takeout-percent: 79
-shots-total: 383
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 21
+   wins: 12
+   losses: 9
+   inturn-total: 139
+   inturn-percent: 77
+   outturn-total: 244
+   outturn-percent: 81
+   draw-total: 286
+   draw-percent: 79
+   takeout-total: 97
+   takeout-percent: 79
+   shots-total: 383
+   shots-percent: 79
 years:
  - year: 1994
    event: Brier

@@ -2,19 +2,21 @@
 title: Dale Ness
 name: Dale Ness
 name-sort: Ness, Dale
-games: 51
-wins: 32
-losses: 19
-inturn-total: 521
-inturn-percent: 87
-outturn-total: 382
-outturn-percent: 88
-draw-total: 690
-draw-percent: 88
-takeout-total: 213
-takeout-percent: 84
-shots-total: 903
-shots-percent: 87
+totals:
+ - event: Brier
+   games: 51
+   wins: 32
+   losses: 19
+   inturn-total: 521
+   inturn-percent: 87
+   outturn-total: 382
+   outturn-percent: 88
+   draw-total: 690
+   draw-percent: 88
+   takeout-total: 213
+   takeout-percent: 84
+   shots-total: 903
+   shots-percent: 87
 years:
  - year: 1998
    event: Brier

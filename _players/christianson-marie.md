@@ -2,19 +2,21 @@
 title: Marie Christianson
 name: Marie Christianson
 name-sort: Christianson, Marie
-games: 22
-wins: 10
-losses: 12
-inturn-total: 170
-inturn-percent: 77
-outturn-total: 258
-outturn-percent: 83
-draw-total: 265
-draw-percent: 80
-takeout-total: 163
-takeout-percent: 81
-shots-total: 428
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 22
+   wins: 10
+   losses: 12
+   inturn-total: 170
+   inturn-percent: 77
+   outturn-total: 258
+   outturn-percent: 83
+   draw-total: 265
+   draw-percent: 80
+   takeout-total: 163
+   takeout-percent: 81
+   shots-total: 428
+   shots-percent: 80
 years:
  - year: 2016
    event: Hearts

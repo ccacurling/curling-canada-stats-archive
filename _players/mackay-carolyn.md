@@ -2,19 +2,21 @@
 title: Carolyn MacKay
 name: Carolyn MacKay
 name-sort: MacKay, Carolyn
-games: 21
-wins: 5
-losses: 16
-inturn-total: 172
-inturn-percent: 63
-outturn-total: 220
-outturn-percent: 68
-draw-total: 189
-draw-percent: 72
-takeout-total: 203
-takeout-percent: 60
-shots-total: 392
-shots-percent: 66
+totals:
+ - event: Hearts
+   games: 21
+   wins: 5
+   losses: 16
+   inturn-total: 172
+   inturn-percent: 63
+   outturn-total: 220
+   outturn-percent: 68
+   draw-total: 189
+   draw-percent: 72
+   takeout-total: 203
+   takeout-percent: 60
+   shots-total: 392
+   shots-percent: 66
 years:
  - year: 1983
    event: Hearts

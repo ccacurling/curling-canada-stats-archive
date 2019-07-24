@@ -2,9 +2,11 @@
 title: Alexander Stewart
 name: Alexander Stewart
 name-sort: Stewart, Alexander
-games: 11
-wins: 4
-losses: 7
+totals:
+ - event: Brier
+   games: 11
+   wins: 4
+   losses: 7
 years:
  - year: 1981
    event: Brier

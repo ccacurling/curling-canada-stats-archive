@@ -2,19 +2,21 @@
 title: Michala Robison
 name: Michala Robison
 name-sort: Robison, Michala
-games: 15
-wins: 4
-losses: 11
-inturn-total: 139
-inturn-percent: 82
-outturn-total: 149
-outturn-percent: 77
-draw-total: 228
-draw-percent: 80
-takeout-total: 60
-takeout-percent: 76
-shots-total: 288
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 15
+   wins: 4
+   losses: 11
+   inturn-total: 139
+   inturn-percent: 82
+   outturn-total: 149
+   outturn-percent: 77
+   draw-total: 228
+   draw-percent: 80
+   takeout-total: 60
+   takeout-percent: 76
+   shots-total: 288
+   shots-percent: 79
 years:
  - year: 2012
    event: Hearts

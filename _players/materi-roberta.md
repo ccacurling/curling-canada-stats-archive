@@ -2,19 +2,21 @@
 title: Roberta Materi
 name: Roberta Materi
 name-sort: Materi, Roberta
-games: 33
-wins: 14
-losses: 19
-inturn-total: 309
-inturn-percent: 77
-outturn-total: 311
-outturn-percent: 77
-draw-total: 281
-draw-percent: 73
-takeout-total: 339
-takeout-percent: 81
-shots-total: 620
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 33
+   wins: 14
+   losses: 19
+   inturn-total: 309
+   inturn-percent: 77
+   outturn-total: 311
+   outturn-percent: 77
+   draw-total: 281
+   draw-percent: 73
+   takeout-total: 339
+   takeout-percent: 81
+   shots-total: 620
+   shots-percent: 77
 years:
  - year: 2001
    event: Hearts

@@ -2,19 +2,21 @@
 title: Randy Ferbey
 name: Randy Ferbey
 name-sort: Ferbey, Randy
-games: 100
-wins: 84
-losses: 16
-inturn-total: 929
-inturn-percent: 82
-outturn-total: 914
-outturn-percent: 85
-draw-total: 765
-draw-percent: 82
-takeout-total: 1078
-takeout-percent: 84
-shots-total: 1843
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 100
+   wins: 84
+   losses: 16
+   inturn-total: 929
+   inturn-percent: 82
+   outturn-total: 914
+   outturn-percent: 85
+   draw-total: 765
+   draw-percent: 82
+   takeout-total: 1078
+   takeout-percent: 84
+   shots-total: 1843
+   shots-percent: 83
 years:
  - year: 1987
    event: Brier

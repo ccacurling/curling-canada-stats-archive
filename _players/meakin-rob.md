@@ -2,19 +2,21 @@
 title: Rob Meakin
 name: Rob Meakin
 name-sort: Meakin, Rob
-games: 28
-wins: 21
-losses: 7
-inturn-total: 283
-inturn-percent: 83
-outturn-total: 253
-outturn-percent: 84
-draw-total: 192
-draw-percent: 81
-takeout-total: 344
-takeout-percent: 85
-shots-total: 536
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 28
+   wins: 21
+   losses: 7
+   inturn-total: 283
+   inturn-percent: 83
+   outturn-total: 253
+   outturn-percent: 84
+   draw-total: 192
+   draw-percent: 81
+   takeout-total: 344
+   takeout-percent: 85
+   shots-total: 536
+   shots-percent: 84
 years:
  - year: 1995
    event: Brier

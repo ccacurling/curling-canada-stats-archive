@@ -2,19 +2,21 @@
 title: Sarah Fullerton
 name: Sarah Fullerton
 name-sort: Fullerton, Sarah
-games: 30
-wins: 10
-losses: 20
-inturn-total: 301
-inturn-percent: 74
-outturn-total: 273
-outturn-percent: 76
-draw-total: 258
-draw-percent: 70
-takeout-total: 316
-takeout-percent: 78
-shots-total: 574
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 30
+   wins: 10
+   losses: 20
+   inturn-total: 301
+   inturn-percent: 74
+   outturn-total: 273
+   outturn-percent: 76
+   draw-total: 258
+   draw-percent: 70
+   takeout-total: 316
+   takeout-percent: 78
+   shots-total: 574
+   shots-percent: 75
 years:
  - year: 2013
    event: Hearts

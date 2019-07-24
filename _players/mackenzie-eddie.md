@@ -2,19 +2,21 @@
 title: Eddie MacKenzie
 name: Eddie MacKenzie
 name-sort: MacKenzie, Eddie
-games: 52
-wins: 12
-losses: 40
-inturn-total: 454
-inturn-percent: 69
-outturn-total: 468
-outturn-percent: 71
-draw-total: 448
-draw-percent: 70
-takeout-total: 474
-takeout-percent: 70
-shots-total: 922
-shots-percent: 70
+totals:
+ - event: Brier
+   games: 52
+   wins: 12
+   losses: 40
+   inturn-total: 454
+   inturn-percent: 69
+   outturn-total: 468
+   outturn-percent: 71
+   draw-total: 448
+   draw-percent: 70
+   takeout-total: 474
+   takeout-percent: 70
+   shots-total: 922
+   shots-percent: 70
 years:
  - year: 1994
    event: Brier

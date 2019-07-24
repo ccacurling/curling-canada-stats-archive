@@ -2,19 +2,21 @@
 title: Rob Harris
 name: Rob Harris
 name-sort: Harris, Rob
-games: 41
-wins: 29
-losses: 12
-inturn-total: 454
-inturn-percent: 86
-outturn-total: 312
-outturn-percent: 77
-draw-total: 326
-draw-percent: 80
-takeout-total: 440
-takeout-percent: 84
-shots-total: 766
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 41
+   wins: 29
+   losses: 12
+   inturn-total: 454
+   inturn-percent: 86
+   outturn-total: 312
+   outturn-percent: 77
+   draw-total: 326
+   draw-percent: 80
+   takeout-total: 440
+   takeout-percent: 84
+   shots-total: 766
+   shots-percent: 82
 years:
  - year: 2003
    event: Brier

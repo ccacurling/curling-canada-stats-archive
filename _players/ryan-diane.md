@@ -2,19 +2,21 @@
 title: Diane Ryan
 name: Diane Ryan
 name-sort: Ryan, Diane
-games: 21
-wins: 5
-losses: 16
-inturn-total: 221
-inturn-percent: 67
-outturn-total: 163
-outturn-percent: 67
-draw-total: 154
-draw-percent: 67
-takeout-total: 230
-takeout-percent: 67
-shots-total: 384
-shots-percent: 67
+totals:
+ - event: Hearts
+   games: 21
+   wins: 5
+   losses: 16
+   inturn-total: 221
+   inturn-percent: 67
+   outturn-total: 163
+   outturn-percent: 67
+   draw-total: 154
+   draw-percent: 67
+   takeout-total: 230
+   takeout-percent: 67
+   shots-total: 384
+   shots-percent: 67
 years:
  - year: 1982
    event: Hearts

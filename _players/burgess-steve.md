@@ -2,19 +2,21 @@
 title: Steve Burgess
 name: Steve Burgess
 name-sort: Burgess, Steve
-games: 7
-wins: 1
-losses: 6
-inturn-total: 73
-inturn-percent: 67
-outturn-total: 51
-outturn-percent: 74
-draw-total: 62
-draw-percent: 66
-takeout-total: 62
-takeout-percent: 74
-shots-total: 124
-shots-percent: 70
+totals:
+ - event: Brier
+   games: 7
+   wins: 1
+   losses: 6
+   inturn-total: 73
+   inturn-percent: 67
+   outturn-total: 51
+   outturn-percent: 74
+   draw-total: 62
+   draw-percent: 66
+   takeout-total: 62
+   takeout-percent: 74
+   shots-total: 124
+   shots-percent: 70
 years:
  - year: 2019
    event: Brier

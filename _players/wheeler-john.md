@@ -2,9 +2,11 @@
 title: John Wheeler
 name: John Wheeler
 name-sort: Wheeler, John
-games: 12
-wins: 6
-losses: 6
+totals:
+ - event: Brier
+   games: 12
+   wins: 6
+   losses: 6
 years:
  - year: 1982
    event: Brier

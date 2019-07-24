@@ -2,19 +2,21 @@
 title: Heather Rankin
 name: Heather Rankin
 name-sort: Rankin, Heather
-games: 23
-wins: 15
-losses: 8
-inturn-total: 204
-inturn-percent: 74
-outturn-total: 209
-outturn-percent: 72
-draw-total: 207
-draw-percent: 71
-takeout-total: 206
-takeout-percent: 75
-shots-total: 413
-shots-percent: 73
+totals:
+ - event: Hearts
+   games: 23
+   wins: 15
+   losses: 8
+   inturn-total: 204
+   inturn-percent: 74
+   outturn-total: 209
+   outturn-percent: 72
+   draw-total: 207
+   draw-percent: 71
+   takeout-total: 206
+   takeout-percent: 75
+   shots-total: 413
+   shots-percent: 73
 years:
  - year: 1990
    event: Hearts

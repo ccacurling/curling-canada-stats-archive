@@ -2,19 +2,21 @@
 title: Andrew Robinson
 name: Andrew Robinson
 name-sort: Robinson, Andrew
-games: 34
-wins: 9
-losses: 25
-inturn-total: 245
-inturn-percent: 75
-outturn-total: 350
-outturn-percent: 80
-draw-total: 374
-draw-percent: 80
-takeout-total: 221
-takeout-percent: 75
-shots-total: 595
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 34
+   wins: 9
+   losses: 25
+   inturn-total: 245
+   inturn-percent: 75
+   outturn-total: 350
+   outturn-percent: 80
+   draw-total: 374
+   draw-percent: 80
+   takeout-total: 221
+   takeout-percent: 75
+   shots-total: 595
+   shots-percent: 78
 years:
  - year: 2000
    event: Brier

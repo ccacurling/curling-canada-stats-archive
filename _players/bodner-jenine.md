@@ -2,19 +2,21 @@
 title: Jenine Bodner
 name: Jenine Bodner
 name-sort: Bodner, Jenine
-games: 7
-wins: 1
-losses: 6
-inturn-total: 64
-inturn-percent: 62
-outturn-total: 56
-outturn-percent: 57
-draw-total: 66
-draw-percent: 56
-takeout-total: 54
-takeout-percent: 65
-shots-total: 120
-shots-percent: 60
+totals:
+ - event: Hearts
+   games: 7
+   wins: 1
+   losses: 6
+   inturn-total: 64
+   inturn-percent: 62
+   outturn-total: 56
+   outturn-percent: 57
+   draw-total: 66
+   draw-percent: 56
+   takeout-total: 54
+   takeout-percent: 65
+   shots-total: 120
+   shots-percent: 60
 years:
  - year: 2019
    event: Hearts

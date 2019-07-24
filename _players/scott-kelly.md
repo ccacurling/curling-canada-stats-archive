@@ -2,19 +2,21 @@
 title: Kelly Scott
 name: Kelly Scott
 name-sort: Scott, Kelly
-games: 101
-wins: 68
-losses: 33
-inturn-total: 965
-inturn-percent: 78
-outturn-total: 935
-outturn-percent: 79
-draw-total: 901
-draw-percent: 76
-takeout-total: 999
-takeout-percent: 81
-shots-total: 1900
-shots-percent: 78
+totals:
+ - event: Hearts
+   games: 101
+   wins: 68
+   losses: 33
+   inturn-total: 965
+   inturn-percent: 78
+   outturn-total: 935
+   outturn-percent: 79
+   draw-total: 901
+   draw-percent: 76
+   takeout-total: 999
+   takeout-percent: 81
+   shots-total: 1900
+   shots-percent: 78
 years:
  - year: 2005
    event: Hearts

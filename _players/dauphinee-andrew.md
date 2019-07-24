@@ -2,19 +2,21 @@
 title: Andrew Dauphinee
 name: Andrew Dauphinee
 name-sort: Dauphinee, Andrew
-games: 34
-wins: 19
-losses: 15
-inturn-total: 158
-inturn-percent: 75
-outturn-total: 268
-outturn-percent: 80
-draw-total: 201
-draw-percent: 79
-takeout-total: 225
-takeout-percent: 79
-shots-total: 426
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 34
+   wins: 19
+   losses: 15
+   inturn-total: 158
+   inturn-percent: 75
+   outturn-total: 268
+   outturn-percent: 80
+   draw-total: 201
+   draw-percent: 79
+   takeout-total: 225
+   takeout-percent: 79
+   shots-total: 426
+   shots-percent: 79
 years:
  - year: 1983
    event: Brier

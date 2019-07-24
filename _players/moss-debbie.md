@@ -2,19 +2,21 @@
 title: Debbie Moss
 name: Debbie Moss
 name-sort: Moss, Debbie
-games: 44
-wins: 13
-losses: 31
-inturn-total: 396
-inturn-percent: 75
-outturn-total: 445
-outturn-percent: 78
-draw-total: 574
-draw-percent: 77
-takeout-total: 267
-takeout-percent: 75
-shots-total: 841
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 44
+   wins: 13
+   losses: 31
+   inturn-total: 396
+   inturn-percent: 75
+   outturn-total: 445
+   outturn-percent: 78
+   draw-total: 574
+   draw-percent: 77
+   takeout-total: 267
+   takeout-percent: 75
+   shots-total: 841
+   shots-percent: 76
 years:
  - year: 1993
    event: Hearts

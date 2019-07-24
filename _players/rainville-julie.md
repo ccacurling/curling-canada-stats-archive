@@ -2,19 +2,21 @@
 title: Julie Rainville
 name: Julie Rainville
 name-sort: Rainville, Julie
-games: 34
-wins: 14
-losses: 20
-inturn-total: 300
-inturn-percent: 82
-outturn-total: 312
-outturn-percent: 80
-draw-total: 457
-draw-percent: 83
-takeout-total: 155
-takeout-percent: 75
-shots-total: 612
-shots-percent: 81
+totals:
+ - event: Hearts
+   games: 34
+   wins: 14
+   losses: 20
+   inturn-total: 300
+   inturn-percent: 82
+   outturn-total: 312
+   outturn-percent: 80
+   draw-total: 457
+   draw-percent: 83
+   takeout-total: 155
+   takeout-percent: 75
+   shots-total: 612
+   shots-percent: 81
 years:
  - year: 1996
    event: Hearts

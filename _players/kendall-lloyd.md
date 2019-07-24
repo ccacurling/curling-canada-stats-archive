@@ -2,19 +2,21 @@
 title: Lloyd Kendall
 name: Lloyd Kendall
 name-sort: Kendall, Lloyd
-games: 7
-wins: 0
-losses: 7
-inturn-total: 101
-inturn-percent: 73
-outturn-total: 13
-outturn-percent: 69
-draw-total: 86
-draw-percent: 76
-takeout-total: 28
-takeout-percent: 64
-shots-total: 114
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 7
+   wins: 0
+   losses: 7
+   inturn-total: 101
+   inturn-percent: 73
+   outturn-total: 13
+   outturn-percent: 69
+   draw-total: 86
+   draw-percent: 76
+   takeout-total: 28
+   takeout-percent: 64
+   shots-total: 114
+   shots-percent: 73
 years:
  - year: 2019
    event: Brier

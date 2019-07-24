@@ -2,19 +2,21 @@
 title: Joan Hutchinson
 name: Joan Hutchinson
 name-sort: Hutchinson, Joan
-games: 22
-wins: 10
-losses: 12
-inturn-total: 207
-inturn-percent: 68
-outturn-total: 222
-outturn-percent: 69
-draw-total: 185
-draw-percent: 76
-takeout-total: 244
-takeout-percent: 63
-shots-total: 429
-shots-percent: 69
+totals:
+ - event: Hearts
+   games: 22
+   wins: 10
+   losses: 12
+   inturn-total: 207
+   inturn-percent: 68
+   outturn-total: 222
+   outturn-percent: 69
+   draw-total: 185
+   draw-percent: 76
+   takeout-total: 244
+   takeout-percent: 63
+   shots-total: 429
+   shots-percent: 69
 years:
  - year: 1985
    event: Hearts

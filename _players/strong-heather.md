@@ -2,19 +2,21 @@
 title: Heather Strong
 name: Heather Strong
 name-sort: Strong, Heather
-games: 134
-wins: 54
-losses: 80
-inturn-total: 1259
-inturn-percent: 74
-outturn-total: 1263
-outturn-percent: 74
-draw-total: 1152
-draw-percent: 71
-takeout-total: 1370
-takeout-percent: 76
-shots-total: 2522
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 134
+   wins: 54
+   losses: 80
+   inturn-total: 1259
+   inturn-percent: 74
+   outturn-total: 1263
+   outturn-percent: 74
+   draw-total: 1152
+   draw-percent: 71
+   takeout-total: 1370
+   takeout-percent: 76
+   shots-total: 2522
+   shots-percent: 74
 years:
  - year: 1998
    event: Hearts

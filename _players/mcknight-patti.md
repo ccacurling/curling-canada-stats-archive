@@ -2,19 +2,21 @@
 title: Patti McKnight
 name: Patti McKnight
 name-sort: McKnight, Patti
-games: 50
-wins: 31
-losses: 19
-inturn-total: 491
-inturn-percent: 81
-outturn-total: 469
-outturn-percent: 80
-draw-total: 426
-draw-percent: 79
-takeout-total: 534
-takeout-percent: 82
-shots-total: 960
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 50
+   wins: 31
+   losses: 19
+   inturn-total: 491
+   inturn-percent: 81
+   outturn-total: 469
+   outturn-percent: 80
+   draw-total: 426
+   draw-percent: 79
+   takeout-total: 534
+   takeout-percent: 82
+   shots-total: 960
+   shots-percent: 80
 years:
  - year: 1993
    event: Hearts

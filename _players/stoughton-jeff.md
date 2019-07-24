@@ -2,19 +2,21 @@
 title: Jeff Stoughton
 name: Jeff Stoughton
 name-sort: Stoughton, Jeff
-games: 139
-wins: 98
-losses: 41
-inturn-total: 1168
-inturn-percent: 81
-outturn-total: 1381
-outturn-percent: 84
-draw-total: 1021
-draw-percent: 81
-takeout-total: 1528
-takeout-percent: 84
-shots-total: 2549
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 139
+   wins: 98
+   losses: 41
+   inturn-total: 1168
+   inturn-percent: 81
+   outturn-total: 1381
+   outturn-percent: 84
+   draw-total: 1021
+   draw-percent: 81
+   takeout-total: 1528
+   takeout-percent: 84
+   shots-total: 2549
+   shots-percent: 83
 years:
  - year: 1991
    event: Brier

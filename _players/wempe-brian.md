@@ -2,19 +2,21 @@
 title: Brian Wempe
 name: Brian Wempe
 name-sort: Wempe, Brian
-games: 33
-wins: 14
-losses: 19
-inturn-total: 346
-inturn-percent: 85
-outturn-total: 290
-outturn-percent: 86
-draw-total: 494
-draw-percent: 86
-takeout-total: 142
-takeout-percent: 83
-shots-total: 636
-shots-percent: 86
+totals:
+ - event: Brier
+   games: 33
+   wins: 14
+   losses: 19
+   inturn-total: 346
+   inturn-percent: 85
+   outturn-total: 290
+   outturn-percent: 86
+   draw-total: 494
+   draw-percent: 86
+   takeout-total: 142
+   takeout-percent: 83
+   shots-total: 636
+   shots-percent: 86
 years:
  - year: 1994
    event: Brier

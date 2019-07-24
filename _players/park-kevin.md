@@ -2,19 +2,21 @@
 title: Kevin Park
 name: Kevin Park
 name-sort: Park, Kevin
-games: 64
-wins: 43
-losses: 21
-inturn-total: 532
-inturn-percent: 82
-outturn-total: 648
-outturn-percent: 82
-draw-total: 467
-draw-percent: 79
-takeout-total: 713
-takeout-percent: 84
-shots-total: 1180
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 64
+   wins: 43
+   losses: 21
+   inturn-total: 532
+   inturn-percent: 82
+   outturn-total: 648
+   outturn-percent: 82
+   draw-total: 467
+   draw-percent: 79
+   takeout-total: 713
+   takeout-percent: 84
+   shots-total: 1180
+   shots-percent: 82
 years:
  - year: 1991
    event: Brier

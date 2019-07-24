@@ -2,19 +2,21 @@
 title: Selena Njegovan
 name: Selena Njegovan
 name-sort: Njegovan, Selena
-games: 35
-wins: 21
-losses: 14
-inturn-total: 336
-inturn-percent: 82
-outturn-total: 334
-outturn-percent: 83
-draw-total: 247
-draw-percent: 78
-takeout-total: 423
-takeout-percent: 85
-shots-total: 670
-shots-percent: 82
+totals:
+ - event: Hearts
+   games: 35
+   wins: 21
+   losses: 14
+   inturn-total: 336
+   inturn-percent: 82
+   outturn-total: 334
+   outturn-percent: 83
+   draw-total: 247
+   draw-percent: 78
+   takeout-total: 423
+   takeout-percent: 85
+   shots-total: 670
+   shots-percent: 82
 years:
  - year: 2016
    event: Hearts

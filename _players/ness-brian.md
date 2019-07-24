@@ -2,9 +2,11 @@
 title: Brian Ness
 name: Brian Ness
 name-sort: Ness, Brian
-games: 11
-wins: 6
-losses: 5
+totals:
+ - event: Brier
+   games: 11
+   wins: 6
+   losses: 5
 years:
  - year: 1981
    event: Brier

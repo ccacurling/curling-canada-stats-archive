@@ -2,19 +2,21 @@
 title: Matt Wozniak
 name: Matt Wozniak
 name-sort: Wozniak, Matt
-games: 38
-wins: 25
-losses: 13
-inturn-total: 361
-inturn-percent: 89
-outturn-total: 359
-outturn-percent: 89
-draw-total: 270
-draw-percent: 88
-takeout-total: 450
-takeout-percent: 90
-shots-total: 720
-shots-percent: 89
+totals:
+ - event: Brier
+   games: 38
+   wins: 25
+   losses: 13
+   inturn-total: 361
+   inturn-percent: 89
+   outturn-total: 359
+   outturn-percent: 89
+   draw-total: 270
+   draw-percent: 88
+   takeout-total: 450
+   takeout-percent: 90
+   shots-total: 720
+   shots-percent: 89
 years:
  - year: 2016
    event: Brier

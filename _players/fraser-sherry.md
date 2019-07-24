@@ -2,19 +2,21 @@
 title: Sherry Fraser
 name: Sherry Fraser
 name-sort: Fraser, Sherry
-games: 26
-wins: 11
-losses: 15
-inturn-total: 260
-inturn-percent: 74
-outturn-total: 254
-outturn-percent: 81
-draw-total: 184
-draw-percent: 74
-takeout-total: 330
-takeout-percent: 79
-shots-total: 514
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 26
+   wins: 11
+   losses: 15
+   inturn-total: 260
+   inturn-percent: 74
+   outturn-total: 254
+   outturn-percent: 81
+   draw-total: 184
+   draw-percent: 74
+   takeout-total: 330
+   takeout-percent: 79
+   shots-total: 514
+   shots-percent: 77
 years:
  - year: 1995
    event: Hearts

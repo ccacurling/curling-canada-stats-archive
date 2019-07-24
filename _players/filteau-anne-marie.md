@@ -2,19 +2,21 @@
 title: Anne-Marie Filteau
 name: Anne-Marie Filteau
 name-sort: Filteau, Anne-Marie
-games: 24
-wins: 10
-losses: 14
-inturn-total: 211
-inturn-percent: 84
-outturn-total: 259
-outturn-percent: 84
-draw-total: 394
-draw-percent: 84
-takeout-total: 76
-takeout-percent: 86
-shots-total: 470
-shots-percent: 84
+totals:
+ - event: Hearts
+   games: 24
+   wins: 10
+   losses: 14
+   inturn-total: 211
+   inturn-percent: 84
+   outturn-total: 259
+   outturn-percent: 84
+   draw-total: 394
+   draw-percent: 84
+   takeout-total: 76
+   takeout-percent: 86
+   shots-total: 470
+   shots-percent: 84
 years:
  - year: 2012
    event: Hearts

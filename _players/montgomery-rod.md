@@ -2,19 +2,21 @@
 title: Rod Montgomery
 name: Rod Montgomery
 name-sort: Montgomery, Rod
-games: 24
-wins: 13
-losses: 11
-inturn-total: 232
-inturn-percent: 73
-outturn-total: 212
-outturn-percent: 73
-draw-total: 205
-draw-percent: 75
-takeout-total: 239
-takeout-percent: 72
-shots-total: 444
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 24
+   wins: 13
+   losses: 11
+   inturn-total: 232
+   inturn-percent: 73
+   outturn-total: 212
+   outturn-percent: 73
+   draw-total: 205
+   draw-percent: 75
+   takeout-total: 239
+   takeout-percent: 72
+   shots-total: 444
+   shots-percent: 73
 years:
  - year: 1996
    event: Brier

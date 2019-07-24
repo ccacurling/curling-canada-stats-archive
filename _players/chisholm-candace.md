@@ -2,19 +2,21 @@
 title: Candace Chisholm
 name: Candace Chisholm
 name-sort: Chisholm, Candace
-games: 2
-wins: 0
-losses: 2
-inturn-total: 4
-inturn-percent: 75
-outturn-total: 2
-outturn-percent: 75
-draw-total: 6
-draw-percent: 75
-takeout-total: 0
-takeout-percent:
-shots-total: 6
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 2
+   wins: 0
+   losses: 2
+   inturn-total: 4
+   inturn-percent: 75
+   outturn-total: 2
+   outturn-percent: 75
+   draw-total: 6
+   draw-percent: 75
+   takeout-total: 0
+   takeout-percent:
+   shots-total: 6
+   shots-percent: 75
 years:
  - year: 2012
    event: Hearts

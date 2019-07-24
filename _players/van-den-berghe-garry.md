@@ -2,19 +2,21 @@
 title: Garry Van Den Berghe
 name: Garry Van Den Berghe
 name-sort: Van Den Berghe, Garry
-games: 61
-wins: 42
-losses: 19
-inturn-total: 576
-inturn-percent: 80
-outturn-total: 566
-outturn-percent: 83
-draw-total: 506
-draw-percent: 81
-takeout-total: 636
-takeout-percent: 83
-shots-total: 1142
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 61
+   wins: 42
+   losses: 19
+   inturn-total: 576
+   inturn-percent: 80
+   outturn-total: 566
+   outturn-percent: 83
+   draw-total: 506
+   draw-percent: 81
+   takeout-total: 636
+   takeout-percent: 83
+   shots-total: 1142
+   shots-percent: 82
 years:
  - year: 1991
    event: Brier

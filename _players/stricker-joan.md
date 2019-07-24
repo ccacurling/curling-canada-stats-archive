@@ -2,19 +2,21 @@
 title: Joan Stricker
 name: Joan Stricker
 name-sort: Stricker, Joan
-games: 58
-wins: 34
-losses: 24
-inturn-total: 505
-inturn-percent: 72
-outturn-total: 614
-outturn-percent: 72
-draw-total: 524
-draw-percent: 74
-takeout-total: 595
-takeout-percent: 71
-shots-total: 1119
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 58
+   wins: 34
+   losses: 24
+   inturn-total: 505
+   inturn-percent: 72
+   outturn-total: 614
+   outturn-percent: 72
+   draw-total: 524
+   draw-percent: 74
+   takeout-total: 595
+   takeout-percent: 71
+   shots-total: 1119
+   shots-percent: 72
 years:
  - year: 1988
    event: Hearts

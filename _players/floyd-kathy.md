@@ -2,19 +2,21 @@
 title: Kathy Floyd
 name: Kathy Floyd
 name-sort: Floyd, Kathy
-games: 121
-wins: 50
-losses: 71
-inturn-total: 1204
-inturn-percent: 71
-outturn-total: 1112
-outturn-percent: 70
-draw-total: 1065
-draw-percent: 68
-takeout-total: 1251
-takeout-percent: 72
-shots-total: 2316
-shots-percent: 70
+totals:
+ - event: Hearts
+   games: 121
+   wins: 50
+   losses: 71
+   inturn-total: 1204
+   inturn-percent: 71
+   outturn-total: 1112
+   outturn-percent: 70
+   draw-total: 1065
+   draw-percent: 68
+   takeout-total: 1251
+   takeout-percent: 72
+   shots-total: 2316
+   shots-percent: 70
 years:
  - year: 1984
    event: Hearts

@@ -2,19 +2,21 @@
 title: Alan O'Leary
 name: Alan O'Leary
 name-sort: O'Leary, Alan
-games: 22
-wins: 5
-losses: 17
-inturn-total: 176
-inturn-percent: 70
-outturn-total: 232
-outturn-percent: 72
-draw-total: 201
-draw-percent: 68
-takeout-total: 207
-takeout-percent: 74
-shots-total: 408
-shots-percent: 71
+totals:
+ - event: Brier
+   games: 22
+   wins: 5
+   losses: 17
+   inturn-total: 176
+   inturn-percent: 70
+   outturn-total: 232
+   outturn-percent: 72
+   draw-total: 201
+   draw-percent: 68
+   takeout-total: 207
+   takeout-percent: 74
+   shots-total: 408
+   shots-percent: 71
 years:
  - year: 1993
    event: Brier

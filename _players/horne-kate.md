@@ -2,19 +2,21 @@
 title: Kate Horne
 name: Kate Horne
 name-sort: Horne, Kate
-games: 77
-wins: 50
-losses: 27
-inturn-total: 708
-inturn-percent: 81
-outturn-total: 713
-outturn-percent: 82
-draw-total: 932
-draw-percent: 83
-takeout-total: 489
-takeout-percent: 78
-shots-total: 1421
-shots-percent: 81
+totals:
+ - event: Hearts
+   games: 77
+   wins: 50
+   losses: 27
+   inturn-total: 708
+   inturn-percent: 81
+   outturn-total: 713
+   outturn-percent: 82
+   draw-total: 932
+   draw-percent: 83
+   takeout-total: 489
+   takeout-percent: 78
+   shots-total: 1421
+   shots-percent: 81
 years:
  - year: 1995
    event: Hearts

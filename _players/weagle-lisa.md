@@ -2,19 +2,21 @@
 title: Lisa Weagle
 name: Lisa Weagle
 name-sort: Weagle, Lisa
-games: 80
-wins: 63
-losses: 17
-inturn-total: 866
-inturn-percent: 87
-outturn-total: 594
-outturn-percent: 85
-draw-total: 1057
-draw-percent: 89
-takeout-total: 403
-takeout-percent: 81
-shots-total: 1460
-shots-percent: 86
+totals:
+ - event: Hearts
+   games: 80
+   wins: 63
+   losses: 17
+   inturn-total: 866
+   inturn-percent: 87
+   outturn-total: 594
+   outturn-percent: 85
+   draw-total: 1057
+   draw-percent: 89
+   takeout-total: 403
+   takeout-percent: 81
+   shots-total: 1460
+   shots-percent: 86
 years:
  - year: 2011
    event: Hearts

@@ -2,19 +2,21 @@
 title: Shelly Bradley
 name: Shelly Bradley
 name-sort: Bradley, Shelly
-games: 82
-wins: 38
-losses: 44
-inturn-total: 733
-inturn-percent: 75
-outturn-total: 787
-outturn-percent: 73
-draw-total: 661
-draw-percent: 68
-takeout-total: 859
-takeout-percent: 79
-shots-total: 1520
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 82
+   wins: 38
+   losses: 44
+   inturn-total: 733
+   inturn-percent: 75
+   outturn-total: 787
+   outturn-percent: 73
+   draw-total: 661
+   draw-percent: 68
+   takeout-total: 859
+   takeout-percent: 79
+   shots-total: 1520
+   shots-percent: 74
 years:
  - year: 1994
    event: Hearts

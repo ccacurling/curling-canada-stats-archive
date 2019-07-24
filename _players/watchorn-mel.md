@@ -2,9 +2,11 @@
 title: Mel Watchorn
 name: Mel Watchorn
 name-sort: Watchorn, Mel
-games: 11
-wins: 5
-losses: 6
+totals:
+ - event: Brier
+   games: 11
+   wins: 5
+   losses: 6
 years:
  - year: 1981
    event: Brier

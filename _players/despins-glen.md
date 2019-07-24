@@ -2,19 +2,21 @@
 title: Glen Despins
 name: Glen Despins
 name-sort: Despins, Glen
-games: 24
-wins: 13
-losses: 11
-inturn-total: 207
-inturn-percent: 79
-outturn-total: 253
-outturn-percent: 82
-draw-total: 221
-draw-percent: 80
-takeout-total: 239
-takeout-percent: 81
-shots-total: 460
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 24
+   wins: 13
+   losses: 11
+   inturn-total: 207
+   inturn-percent: 79
+   outturn-total: 253
+   outturn-percent: 82
+   draw-total: 221
+   draw-percent: 80
+   takeout-total: 239
+   takeout-percent: 81
+   shots-total: 460
+   shots-percent: 81
 years:
  - year: 1996
    event: Brier

@@ -2,19 +2,21 @@
 title: Jean-Sebastien Roy
 name: Jean-Sebastien Roy
 name-sort: Roy, Jean-Sebastien
-games: 22
-wins: 7
-losses: 15
-inturn-total: 161
-inturn-percent: 79
-outturn-total: 245
-outturn-percent: 78
-draw-total: 181
-draw-percent: 76
-takeout-total: 225
-takeout-percent: 80
-shots-total: 406
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 22
+   wins: 7
+   losses: 15
+   inturn-total: 161
+   inturn-percent: 79
+   outturn-total: 245
+   outturn-percent: 78
+   draw-total: 181
+   draw-percent: 76
+   takeout-total: 225
+   takeout-percent: 80
+   shots-total: 406
+   shots-percent: 79
 years:
  - year: 2004
    event: Brier

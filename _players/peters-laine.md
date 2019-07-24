@@ -2,19 +2,21 @@
 title: Laine Peters
 name: Laine Peters
 name-sort: Peters, Laine
-games: 90
-wins: 59
-losses: 31
-inturn-total: 767
-inturn-percent: 84
-outturn-total: 948
-outturn-percent: 82
-draw-total: 1142
-draw-percent: 85
-takeout-total: 573
-takeout-percent: 78
-shots-total: 1715
-shots-percent: 83
+totals:
+ - event: Hearts
+   games: 90
+   wins: 59
+   losses: 31
+   inturn-total: 767
+   inturn-percent: 84
+   outturn-total: 948
+   outturn-percent: 82
+   draw-total: 1142
+   draw-percent: 85
+   takeout-total: 573
+   takeout-percent: 78
+   shots-total: 1715
+   shots-percent: 83
 years:
  - year: 1999
    event: Hearts

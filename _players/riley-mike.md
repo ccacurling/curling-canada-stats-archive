@@ -2,19 +2,21 @@
 title: Mike Riley
 name: Mike Riley
 name-sort: Riley, Mike
-games: 23
-wins: 15
-losses: 8
-inturn-total: 116
-inturn-percent: 78
-outturn-total: 92
-outturn-percent: 70
-draw-total: 96
-draw-percent: 74
-takeout-total: 112
-takeout-percent: 75
-shots-total: 208
-shots-percent: 74
+totals:
+ - event: Brier
+   games: 23
+   wins: 15
+   losses: 8
+   inturn-total: 116
+   inturn-percent: 78
+   outturn-total: 92
+   outturn-percent: 70
+   draw-total: 96
+   draw-percent: 74
+   takeout-total: 112
+   takeout-percent: 75
+   shots-total: 208
+   shots-percent: 74
 years:
  - year: 1984
    event: Brier

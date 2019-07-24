@@ -2,19 +2,21 @@
 title: Janet Brown
 name: Janet Brown
 name-sort: Brown, Janet
-games: 27
-wins: 18
-losses: 9
-inturn-total: 247
-inturn-percent: 79
-outturn-total: 259
-outturn-percent: 81
-draw-total: 213
-draw-percent: 80
-takeout-total: 293
-takeout-percent: 80
-shots-total: 506
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 27
+   wins: 18
+   losses: 9
+   inturn-total: 247
+   inturn-percent: 79
+   outturn-total: 259
+   outturn-percent: 81
+   draw-total: 213
+   draw-percent: 80
+   takeout-total: 293
+   takeout-percent: 80
+   shots-total: 506
+   shots-percent: 80
 years:
  - year: 2001
    event: Hearts

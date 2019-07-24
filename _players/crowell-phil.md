@@ -2,19 +2,21 @@
 title: Phil Crowell
 name: Phil Crowell
 name-sort: Crowell, Phil
-games: 33
-wins: 12
-losses: 21
-inturn-total: 390
-inturn-percent: 86
-outturn-total: 219
-outturn-percent: 84
-draw-total: 568
-draw-percent: 86
-takeout-total: 41
-takeout-percent: 76
-shots-total: 609
-shots-percent: 86
+totals:
+ - event: Brier
+   games: 33
+   wins: 12
+   losses: 21
+   inturn-total: 390
+   inturn-percent: 86
+   outturn-total: 219
+   outturn-percent: 84
+   draw-total: 568
+   draw-percent: 86
+   takeout-total: 41
+   takeout-percent: 76
+   shots-total: 609
+   shots-percent: 86
 years:
  - year: 2010
    event: Brier

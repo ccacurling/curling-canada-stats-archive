@@ -2,19 +2,21 @@
 title: Martine Comeau
 name: Martine Comeau
 name-sort: Comeau, Martine
-games: 24
-wins: 13
-losses: 11
-inturn-total: 196
-inturn-percent: 75
-outturn-total: 246
-outturn-percent: 69
-draw-total: 211
-draw-percent: 72
-takeout-total: 231
-takeout-percent: 71
-shots-total: 442
-shots-percent: 71
+totals:
+ - event: Hearts
+   games: 24
+   wins: 13
+   losses: 11
+   inturn-total: 196
+   inturn-percent: 75
+   outturn-total: 246
+   outturn-percent: 69
+   draw-total: 211
+   draw-percent: 72
+   takeout-total: 231
+   takeout-percent: 71
+   shots-total: 442
+   shots-percent: 71
 years:
  - year: 2006
    event: Hearts

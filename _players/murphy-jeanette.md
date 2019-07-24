@@ -2,19 +2,21 @@
 title: Jeanette Murphy
 name: Jeanette Murphy
 name-sort: Murphy, Jeanette
-games: 17
-wins: 3
-losses: 14
-inturn-total: 85
-inturn-percent: 82
-outturn-total: 209
-outturn-percent: 77
-draw-total: 235
-draw-percent: 79
-takeout-total: 59
-takeout-percent: 74
-shots-total: 294
-shots-percent: 78
+totals:
+ - event: Hearts
+   games: 17
+   wins: 3
+   losses: 14
+   inturn-total: 85
+   inturn-percent: 82
+   outturn-total: 209
+   outturn-percent: 77
+   draw-total: 235
+   draw-percent: 79
+   takeout-total: 59
+   takeout-percent: 74
+   shots-total: 294
+   shots-percent: 78
 years:
  - year: 2007
    event: Hearts

@@ -2,19 +2,21 @@
 title: Marie Ferland
 name: Marie Ferland
 name-sort: Ferland, Marie
-games: 24
-wins: 12
-losses: 12
-inturn-total: 222
-inturn-percent: 65
-outturn-total: 243
-outturn-percent: 67
-draw-total: 210
-draw-percent: 65
-takeout-total: 255
-takeout-percent: 67
-shots-total: 465
-shots-percent: 66
+totals:
+ - event: Hearts
+   games: 24
+   wins: 12
+   losses: 12
+   inturn-total: 222
+   inturn-percent: 65
+   outturn-total: 243
+   outturn-percent: 67
+   draw-total: 210
+   draw-percent: 65
+   takeout-total: 255
+   takeout-percent: 67
+   shots-total: 465
+   shots-percent: 66
 years:
  - year: 1982
    event: Hearts

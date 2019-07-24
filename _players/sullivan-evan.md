@@ -2,19 +2,21 @@
 title: Evan Sullivan
 name: Evan Sullivan
 name-sort: Sullivan, Evan
-games: 22
-wins: 6
-losses: 16
-inturn-total: 184
-inturn-percent: 74
-outturn-total: 221
-outturn-percent: 81
-draw-total: 197
-draw-percent: 79
-takeout-total: 208
-takeout-percent: 77
-shots-total: 405
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 22
+   wins: 6
+   losses: 16
+   inturn-total: 184
+   inturn-percent: 74
+   outturn-total: 221
+   outturn-percent: 81
+   draw-total: 197
+   draw-percent: 79
+   takeout-total: 208
+   takeout-percent: 77
+   shots-total: 405
+   shots-percent: 78
 years:
  - year: 2000
    event: Brier

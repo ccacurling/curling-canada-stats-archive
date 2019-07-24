@@ -2,19 +2,21 @@
 title: Mike Coulter
 name: Mike Coulter
 name-sort: Coulter, Mike
-games: 20
-wins: 8
-losses: 12
-inturn-total: 180
-inturn-percent: 78
-outturn-total: 189
-outturn-percent: 70
-draw-total: 189
-draw-percent: 73
-takeout-total: 180
-takeout-percent: 75
-shots-total: 369
-shots-percent: 74
+totals:
+ - event: Brier
+   games: 20
+   wins: 8
+   losses: 12
+   inturn-total: 180
+   inturn-percent: 78
+   outturn-total: 189
+   outturn-percent: 70
+   draw-total: 189
+   draw-percent: 73
+   takeout-total: 180
+   takeout-percent: 75
+   shots-total: 369
+   shots-percent: 74
 years:
  - year: 1986
    event: Brier

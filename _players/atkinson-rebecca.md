@@ -2,19 +2,21 @@
 title: Rebecca Atkinson
 name: Rebecca Atkinson
 name-sort: Atkinson, Rebecca
-games: 55
-wins: 23
-losses: 32
-inturn-total: 564
-inturn-percent: 76
-outturn-total: 479
-outturn-percent: 74
-draw-total: 455
-draw-percent: 73
-takeout-total: 588
-takeout-percent: 77
-shots-total: 1043
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 55
+   wins: 23
+   losses: 32
+   inturn-total: 564
+   inturn-percent: 76
+   outturn-total: 479
+   outturn-percent: 74
+   draw-total: 455
+   draw-percent: 73
+   takeout-total: 588
+   takeout-percent: 77
+   shots-total: 1043
+   shots-percent: 75
 years:
  - year: 2012
    event: Hearts

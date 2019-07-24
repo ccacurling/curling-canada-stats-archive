@@ -2,19 +2,21 @@
 title: Sheri Stewart
 name: Sheri Stewart
 name-sort: Stewart, Sheri
-games: 94
-wins: 41
-losses: 53
-inturn-total: 861
-inturn-percent: 70
-outturn-total: 924
-outturn-percent: 73
-draw-total: 884
-draw-percent: 69
-takeout-total: 901
-takeout-percent: 74
-shots-total: 1785
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 94
+   wins: 41
+   losses: 53
+   inturn-total: 861
+   inturn-percent: 70
+   outturn-total: 924
+   outturn-percent: 73
+   draw-total: 884
+   draw-percent: 69
+   takeout-total: 901
+   takeout-percent: 74
+   shots-total: 1785
+   shots-percent: 72
 years:
  - year: 1986
    event: Hearts

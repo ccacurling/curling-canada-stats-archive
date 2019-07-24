@@ -2,19 +2,21 @@
 title: Chris Neufeld
 name: Chris Neufeld
 name-sort: Neufeld, Chris
-games: 39
-wins: 30
-losses: 9
-inturn-total: 305
-inturn-percent: 83
-outturn-total: 458
-outturn-percent: 84
-draw-total: 266
-draw-percent: 83
-takeout-total: 497
-takeout-percent: 84
-shots-total: 763
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 39
+   wins: 30
+   losses: 9
+   inturn-total: 305
+   inturn-percent: 83
+   outturn-total: 458
+   outturn-percent: 84
+   draw-total: 266
+   draw-percent: 83
+   takeout-total: 497
+   takeout-percent: 84
+   shots-total: 763
+   shots-percent: 84
 years:
  - year: 1992
    event: Brier

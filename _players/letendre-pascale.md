@@ -2,19 +2,21 @@
 title: Pascale Letendre
 name: Pascale Letendre
 name-sort: Letendre, Pascale
-games: 18
-wins: 11
-losses: 7
-inturn-total: 132
-inturn-percent: 80
-outturn-total: 176
-outturn-percent: 83
-draw-total: 106
-draw-percent: 78
-takeout-total: 202
-takeout-percent: 84
-shots-total: 308
-shots-percent: 82
+totals:
+ - event: Hearts
+   games: 18
+   wins: 11
+   losses: 7
+   inturn-total: 132
+   inturn-percent: 80
+   outturn-total: 176
+   outturn-percent: 83
+   draw-total: 106
+   draw-percent: 78
+   takeout-total: 202
+   takeout-percent: 84
+   shots-total: 308
+   shots-percent: 82
 years:
  - year: 2005
    event: Hearts

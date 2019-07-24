@@ -2,19 +2,21 @@
 title: Glenn Josephson
 name: Glenn Josephson
 name-sort: Josephson, Glenn
-games: 13
-wins: 6
-losses: 7
-inturn-total: 38
-inturn-percent: 77
-outturn-total: 216
-outturn-percent: 86
-draw-total: 192
-draw-percent: 85
-takeout-total: 62
-takeout-percent: 82
-shots-total: 254
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 13
+   wins: 6
+   losses: 7
+   inturn-total: 38
+   inturn-percent: 77
+   outturn-total: 216
+   outturn-percent: 86
+   draw-total: 192
+   draw-percent: 85
+   takeout-total: 62
+   takeout-percent: 82
+   shots-total: 254
+   shots-percent: 84
 years:
  - year: 1996
    event: Brier

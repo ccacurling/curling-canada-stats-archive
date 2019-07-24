@@ -2,19 +2,21 @@
 title: Kay Zinck
 name: Kay Zinck
 name-sort: Zinck, Kay
-games: 70
-wins: 38
-losses: 32
-inturn-total: 594
-inturn-percent: 75
-outturn-total: 714
-outturn-percent: 77
-draw-total: 538
-draw-percent: 74
-takeout-total: 770
-takeout-percent: 78
-shots-total: 1308
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 70
+   wins: 38
+   losses: 32
+   inturn-total: 594
+   inturn-percent: 75
+   outturn-total: 714
+   outturn-percent: 77
+   draw-total: 538
+   draw-percent: 74
+   takeout-total: 770
+   takeout-percent: 78
+   shots-total: 1308
+   shots-percent: 76
 years:
  - year: 1982
    event: Hearts

@@ -2,19 +2,21 @@
 title: Don Aitken
 name: Don Aitken
 name-sort: Aitken, Don
-games: 35
-wins: 19
-losses: 16
-inturn-total: 207
-inturn-percent: 72
-outturn-total: 259
-outturn-percent: 74
-draw-total: 226
-draw-percent: 69
-takeout-total: 240
-takeout-percent: 76
-shots-total: 466
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 35
+   wins: 19
+   losses: 16
+   inturn-total: 207
+   inturn-percent: 72
+   outturn-total: 259
+   outturn-percent: 74
+   draw-total: 226
+   draw-percent: 69
+   takeout-total: 240
+   takeout-percent: 76
+   shots-total: 466
+   shots-percent: 73
 years:
  - year: 1980
    event: Brier

@@ -2,19 +2,21 @@
 title: Meaghan Hughes
 name: Meaghan Hughes
 name-sort: Hughes, Meaghan
-games: 41
-wins: 15
-losses: 26
-inturn-total: 382
-inturn-percent: 81
-outturn-total: 419
-outturn-percent: 80
-draw-total: 361
-draw-percent: 78
-takeout-total: 440
-takeout-percent: 82
-shots-total: 801
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 41
+   wins: 15
+   losses: 26
+   inturn-total: 382
+   inturn-percent: 81
+   outturn-total: 419
+   outturn-percent: 80
+   draw-total: 361
+   draw-percent: 78
+   takeout-total: 440
+   takeout-percent: 82
+   shots-total: 801
+   shots-percent: 80
 years:
  - year: 2016
    event: Hearts

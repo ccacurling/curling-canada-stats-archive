@@ -2,19 +2,21 @@
 title: Jocelyn Peterman
 name: Jocelyn Peterman
 name-sort: Peterman, Jocelyn
-games: 36
-wins: 26
-losses: 10
-inturn-total: 347
-inturn-percent: 82
-outturn-total: 359
-outturn-percent: 83
-draw-total: 246
-draw-percent: 78
-takeout-total: 460
-takeout-percent: 85
-shots-total: 706
-shots-percent: 83
+totals:
+ - event: Hearts
+   games: 36
+   wins: 26
+   losses: 10
+   inturn-total: 347
+   inturn-percent: 82
+   outturn-total: 359
+   outturn-percent: 83
+   draw-total: 246
+   draw-percent: 78
+   takeout-total: 460
+   takeout-percent: 85
+   shots-total: 706
+   shots-percent: 83
 years:
  - year: 2016
    event: Hearts

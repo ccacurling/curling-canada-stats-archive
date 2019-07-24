@@ -2,19 +2,21 @@
 title: Luc Ouimet
 name: Luc Ouimet
 name-sort: Ouimet, Luc
-games: 22
-wins: 5
-losses: 17
-inturn-total: 185
-inturn-percent: 75
-outturn-total: 223
-outturn-percent: 79
-draw-total: 213
-draw-percent: 77
-takeout-total: 195
-takeout-percent: 78
-shots-total: 408
-shots-percent: 77
+totals:
+ - event: Brier
+   games: 22
+   wins: 5
+   losses: 17
+   inturn-total: 185
+   inturn-percent: 75
+   outturn-total: 223
+   outturn-percent: 79
+   draw-total: 213
+   draw-percent: 77
+   takeout-total: 195
+   takeout-percent: 78
+   shots-total: 408
+   shots-percent: 77
 years:
  - year: 2005
    event: Brier

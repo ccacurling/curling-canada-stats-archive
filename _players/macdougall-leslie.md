@@ -2,19 +2,21 @@
 title: Leslie MacDougall
 name: Leslie MacDougall
 name-sort: MacDougall, Leslie
-games: 56
-wins: 27
-losses: 29
-inturn-total: 380
-inturn-percent: 78
-outturn-total: 675
-outturn-percent: 76
-draw-total: 635
-draw-percent: 77
-takeout-total: 420
-takeout-percent: 76
-shots-total: 1055
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 56
+   wins: 27
+   losses: 29
+   inturn-total: 380
+   inturn-percent: 78
+   outturn-total: 675
+   outturn-percent: 76
+   draw-total: 635
+   draw-percent: 77
+   takeout-total: 420
+   takeout-percent: 76
+   shots-total: 1055
+   shots-percent: 77
 years:
  - year: 1993
    event: Hearts

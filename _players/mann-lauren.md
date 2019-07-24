@@ -2,19 +2,21 @@
 title: Lauren Mann
 name: Lauren Mann
 name-sort: Mann, Lauren
-games: 22
-wins: 10
-losses: 12
-inturn-total: 191
-inturn-percent: 72
-outturn-total: 221
-outturn-percent: 69
-draw-total: 191
-draw-percent: 64
-takeout-total: 221
-takeout-percent: 76
-shots-total: 412
-shots-percent: 70
+totals:
+ - event: Hearts
+   games: 22
+   wins: 10
+   losses: 12
+   inturn-total: 191
+   inturn-percent: 72
+   outturn-total: 221
+   outturn-percent: 69
+   draw-total: 191
+   draw-percent: 64
+   takeout-total: 221
+   takeout-percent: 76
+   shots-total: 412
+   shots-percent: 70
 years:
  - year: 2015
    event: Hearts

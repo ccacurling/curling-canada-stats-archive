@@ -2,19 +2,21 @@
 title: Mike Dillon
 name: Mike Dillon
 name-sort: Dillon, Mike
-games: 43
-wins: 9
-losses: 34
-inturn-total: 474
-inturn-percent: 84
-outturn-total: 288
-outturn-percent: 82
-draw-total: 629
-draw-percent: 85
-takeout-total: 133
-takeout-percent: 75
-shots-total: 762
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 43
+   wins: 9
+   losses: 34
+   inturn-total: 474
+   inturn-percent: 84
+   outturn-total: 288
+   outturn-percent: 82
+   draw-total: 629
+   draw-percent: 85
+   takeout-total: 133
+   takeout-percent: 75
+   shots-total: 762
+   shots-percent: 83
 years:
  - year: 2003
    event: Brier

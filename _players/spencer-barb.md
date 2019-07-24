@@ -2,19 +2,21 @@
 title: Barb Spencer
 name: Barb Spencer
 name-sort: Spencer, Barb
-games: 33
-wins: 12
-losses: 21
-inturn-total: 319
-inturn-percent: 71
-outturn-total: 305
-outturn-percent: 70
-draw-total: 332
-draw-percent: 69
-takeout-total: 292
-takeout-percent: 72
-shots-total: 624
-shots-percent: 70
+totals:
+ - event: Hearts
+   games: 33
+   wins: 12
+   losses: 21
+   inturn-total: 319
+   inturn-percent: 71
+   outturn-total: 305
+   outturn-percent: 70
+   draw-total: 332
+   draw-percent: 69
+   takeout-total: 292
+   takeout-percent: 72
+   shots-total: 624
+   shots-percent: 70
 years:
  - year: 1986
    event: Hearts

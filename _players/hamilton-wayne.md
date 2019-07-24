@@ -2,19 +2,21 @@
 title: Wayne Hamilton
 name: Wayne Hamilton
 name-sort: Hamilton, Wayne
-games: 22
-wins: 7
-losses: 15
-inturn-total: 195
-inturn-percent: 70
-outturn-total: 209
-outturn-percent: 66
-draw-total: 187
-draw-percent: 66
-takeout-total: 217
-takeout-percent: 69
-shots-total: 404
-shots-percent: 68
+totals:
+ - event: Brier
+   games: 22
+   wins: 7
+   losses: 15
+   inturn-total: 195
+   inturn-percent: 70
+   outturn-total: 209
+   outturn-percent: 66
+   draw-total: 187
+   draw-percent: 66
+   takeout-total: 217
+   takeout-percent: 69
+   shots-total: 404
+   shots-percent: 68
 years:
  - year: 1980
    event: Brier

@@ -2,19 +2,21 @@
 title: Jason Roach
 name: Jason Roach
 name-sort: Roach, Jason
-games: 22
-wins: 11
-losses: 11
-inturn-total: 189
-inturn-percent: 86
-outturn-total: 224
-outturn-percent: 80
-draw-total: 146
-draw-percent: 80
-takeout-total: 267
-takeout-percent: 84
-shots-total: 413
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 22
+   wins: 11
+   losses: 11
+   inturn-total: 189
+   inturn-percent: 86
+   outturn-total: 224
+   outturn-percent: 80
+   draw-total: 146
+   draw-percent: 80
+   takeout-total: 267
+   takeout-percent: 84
+   shots-total: 413
+   shots-percent: 83
 years:
  - year: 2013
    event: Brier

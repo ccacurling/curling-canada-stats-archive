@@ -2,19 +2,21 @@
 title: Janet Arnott
 name: Janet Arnott
 name-sort: Arnott, Janet
-games: 118
-wins: 86
-losses: 32
-inturn-total: 913
-inturn-percent: 80
-outturn-total: 1223
-outturn-percent: 83
-draw-total: 1321
-draw-percent: 82
-takeout-total: 815
-takeout-percent: 81
-shots-total: 2136
-shots-percent: 82
+totals:
+ - event: Hearts
+   games: 118
+   wins: 86
+   losses: 32
+   inturn-total: 913
+   inturn-percent: 80
+   outturn-total: 1223
+   outturn-percent: 83
+   draw-total: 1321
+   draw-percent: 82
+   takeout-total: 815
+   takeout-percent: 81
+   shots-total: 2136
+   shots-percent: 82
 years:
  - year: 1984
    event: Hearts

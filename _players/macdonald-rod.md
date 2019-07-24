@@ -2,19 +2,21 @@
 title: Rod MacDonald
 name: Rod MacDonald
 name-sort: MacDonald, Rod
-games: 68
-wins: 23
-losses: 45
-inturn-total: 358
-inturn-percent: 71
-outturn-total: 689
-outturn-percent: 74
-draw-total: 609
-draw-percent: 73
-takeout-total: 438
-takeout-percent: 73
-shots-total: 1047
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 68
+   wins: 23
+   losses: 45
+   inturn-total: 358
+   inturn-percent: 71
+   outturn-total: 689
+   outturn-percent: 74
+   draw-total: 609
+   draw-percent: 73
+   takeout-total: 438
+   takeout-percent: 73
+   shots-total: 1047
+   shots-percent: 73
 years:
  - year: 1981
    event: Brier

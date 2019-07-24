@@ -2,19 +2,21 @@
 title: Jonathan Mead
 name: Jonathan Mead
 name-sort: Mead, Jonathan
-games: 76
-wins: 55
-losses: 21
-inturn-total: 700
-inturn-percent: 86
-outturn-total: 748
-outturn-percent: 86
-draw-total: 545
-draw-percent: 82
-takeout-total: 903
-takeout-percent: 88
-shots-total: 1448
-shots-percent: 86
+totals:
+ - event: Brier
+   games: 76
+   wins: 55
+   losses: 21
+   inturn-total: 700
+   inturn-percent: 86
+   outturn-total: 748
+   outturn-percent: 86
+   draw-total: 545
+   draw-percent: 82
+   takeout-total: 903
+   takeout-percent: 88
+   shots-total: 1448
+   shots-percent: 86
 years:
  - year: 1999
    event: Brier

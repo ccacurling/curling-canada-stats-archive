@@ -2,19 +2,21 @@
 title: Bev Millar
 name: Bev Millar
 name-sort: Millar, Bev
-games: 21
-wins: 4
-losses: 17
-inturn-total: 166
-inturn-percent: 61
-outturn-total: 197
-outturn-percent: 64
-draw-total: 159
-draw-percent: 60
-takeout-total: 204
-takeout-percent: 64
-shots-total: 363
-shots-percent: 63
+totals:
+ - event: Hearts
+   games: 21
+   wins: 4
+   losses: 17
+   inturn-total: 166
+   inturn-percent: 61
+   outturn-total: 197
+   outturn-percent: 64
+   draw-total: 159
+   draw-percent: 60
+   takeout-total: 204
+   takeout-percent: 64
+   shots-total: 363
+   shots-percent: 63
 years:
  - year: 1984
    event: Hearts

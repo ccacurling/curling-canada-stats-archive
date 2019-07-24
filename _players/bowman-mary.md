@@ -2,19 +2,21 @@
 title: Mary Bowman
 name: Mary Bowman
 name-sort: Bowman, Mary
-games: 25
-wins: 15
-losses: 10
-inturn-total: 195
-inturn-percent: 82
-outturn-total: 266
-outturn-percent: 84
-draw-total: 326
-draw-percent: 85
-takeout-total: 135
-takeout-percent: 81
-shots-total: 461
-shots-percent: 83
+totals:
+ - event: Hearts
+   games: 25
+   wins: 15
+   losses: 10
+   inturn-total: 195
+   inturn-percent: 82
+   outturn-total: 266
+   outturn-percent: 84
+   draw-total: 326
+   draw-percent: 85
+   takeout-total: 135
+   takeout-percent: 81
+   shots-total: 461
+   shots-percent: 83
 years:
  - year: 1995
    event: Hearts

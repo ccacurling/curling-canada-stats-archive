@@ -2,19 +2,21 @@
 title: Brad Robertson
 name: Brad Robertson
 name-sort: Robertson, Brad
-games: 24
-wins: 4
-losses: 20
-inturn-total: 219
-inturn-percent: 77
-outturn-total: 255
-outturn-percent: 80
-draw-total: 248
-draw-percent: 80
-takeout-total: 226
-takeout-percent: 77
-shots-total: 474
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 24
+   wins: 4
+   losses: 20
+   inturn-total: 219
+   inturn-percent: 77
+   outturn-total: 255
+   outturn-percent: 80
+   draw-total: 248
+   draw-percent: 80
+   takeout-total: 226
+   takeout-percent: 77
+   shots-total: 474
+   shots-percent: 79
 years:
  - year: 1988
    event: Brier

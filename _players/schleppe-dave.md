@@ -2,19 +2,21 @@
 title: Dave Schleppe
 name: Dave Schleppe
 name-sort: Schleppe, Dave
-games: 24
-wins: 13
-losses: 11
-inturn-total: 147
-inturn-percent: 77
-outturn-total: 306
-outturn-percent: 80
-draw-total: 244
-draw-percent: 78
-takeout-total: 209
-takeout-percent: 81
-shots-total: 453
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 24
+   wins: 13
+   losses: 11
+   inturn-total: 147
+   inturn-percent: 77
+   outturn-total: 306
+   outturn-percent: 80
+   draw-total: 244
+   draw-percent: 78
+   takeout-total: 209
+   takeout-percent: 81
+   shots-total: 453
+   shots-percent: 79
 years:
  - year: 1986
    event: Brier

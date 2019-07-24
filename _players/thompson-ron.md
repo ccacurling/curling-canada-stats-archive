@@ -2,19 +2,21 @@
 title: Ron Thompson
 name: Ron Thompson
 name-sort: Thompson, Ron
-games: 33
-wins: 17
-losses: 16
-inturn-total: 171
-inturn-percent: 74
-outturn-total: 249
-outturn-percent: 78
-draw-total: 181
-draw-percent: 73
-takeout-total: 239
-takeout-percent: 80
-shots-total: 420
-shots-percent: 77
+totals:
+ - event: Brier
+   games: 33
+   wins: 17
+   losses: 16
+   inturn-total: 171
+   inturn-percent: 74
+   outturn-total: 249
+   outturn-percent: 78
+   draw-total: 181
+   draw-percent: 73
+   takeout-total: 239
+   takeout-percent: 80
+   shots-total: 420
+   shots-percent: 77
 years:
  - year: 1984
    event: Brier

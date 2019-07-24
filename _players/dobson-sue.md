@@ -2,19 +2,21 @@
 title: Sue Dobson
 name: Sue Dobson
 name-sort: Dobson, Sue
-games: 14
-wins: 4
-losses: 10
-inturn-total: 119
-inturn-percent: 72
-outturn-total: 151
-outturn-percent: 73
-draw-total: 153
-draw-percent: 71
-takeout-total: 117
-takeout-percent: 76
-shots-total: 270
-shots-percent: 73
+totals:
+ - event: Hearts
+   games: 14
+   wins: 4
+   losses: 10
+   inturn-total: 119
+   inturn-percent: 72
+   outturn-total: 151
+   outturn-percent: 73
+   draw-total: 153
+   draw-percent: 71
+   takeout-total: 117
+   takeout-percent: 76
+   shots-total: 270
+   shots-percent: 73
 years:
  - year: 2000
    event: Hearts

@@ -2,19 +2,21 @@
 title: Donnie Smith
 name: Donnie Smith
 name-sort: Smith, Donnie
-games: 2
-wins: 0
-losses: 2
-inturn-total: 20
-inturn-percent: 73
-outturn-total: 20
-outturn-percent: 89
-draw-total: 29
-draw-percent: 84
-takeout-total: 11
-takeout-percent: 73
-shots-total: 40
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 2
+   wins: 0
+   losses: 2
+   inturn-total: 20
+   inturn-percent: 73
+   outturn-total: 20
+   outturn-percent: 89
+   draw-total: 29
+   draw-percent: 84
+   takeout-total: 11
+   takeout-percent: 73
+   shots-total: 40
+   shots-percent: 81
 years:
  - year: 2007
    event: Brier

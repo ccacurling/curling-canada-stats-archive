@@ -2,19 +2,21 @@
 title: Trevor Alexander
 name: Trevor Alexander
 name-sort: Alexander, Trevor
-games: 44
-wins: 8
-losses: 36
-inturn-total: 289
-inturn-percent: 69
-outturn-total: 530
-outturn-percent: 73
-draw-total: 343
-draw-percent: 69
-takeout-total: 476
-takeout-percent: 74
-shots-total: 819
-shots-percent: 72
+totals:
+ - event: Brier
+   games: 44
+   wins: 8
+   losses: 36
+   inturn-total: 289
+   inturn-percent: 69
+   outturn-total: 530
+   outturn-percent: 73
+   draw-total: 343
+   draw-percent: 69
+   takeout-total: 476
+   takeout-percent: 74
+   shots-total: 819
+   shots-percent: 72
 years:
  - year: 1986
    event: Brier

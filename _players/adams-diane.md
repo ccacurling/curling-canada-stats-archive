@@ -2,19 +2,21 @@
 title: Diane Adams
 name: Diane Adams
 name-sort: Adams, Diane
-games: 54
-wins: 36
-losses: 18
-inturn-total: 563
-inturn-percent: 74
-outturn-total: 465
-outturn-percent: 76
-draw-total: 468
-draw-percent: 77
-takeout-total: 560
-takeout-percent: 72
-shots-total: 1028
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 54
+   wins: 36
+   losses: 18
+   inturn-total: 563
+   inturn-percent: 74
+   outturn-total: 465
+   outturn-percent: 76
+   draw-total: 468
+   draw-percent: 77
+   takeout-total: 560
+   takeout-percent: 72
+   shots-total: 1028
+   shots-percent: 75
 years:
  - year: 1988
    event: Hearts

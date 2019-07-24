@@ -2,19 +2,21 @@
 title: Kevin Marsh
 name: Kevin Marsh
 name-sort: Marsh, Kevin
-games: 11
-wins: 5
-losses: 6
-inturn-total: 96
-inturn-percent: 77
-outturn-total: 106
-outturn-percent: 80
-draw-total: 78
-draw-percent: 81
-takeout-total: 124
-takeout-percent: 78
-shots-total: 202
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 96
+   inturn-percent: 77
+   outturn-total: 106
+   outturn-percent: 80
+   draw-total: 78
+   draw-percent: 81
+   takeout-total: 124
+   takeout-percent: 78
+   shots-total: 202
+   shots-percent: 79
 years:
  - year: 2019
    event: Brier

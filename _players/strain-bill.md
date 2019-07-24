@@ -2,19 +2,21 @@
 title: Bill Strain
 name: Bill Strain
 name-sort: Strain, Bill
-games: 44
-wins: 17
-losses: 27
-inturn-total: 365
-inturn-percent: 70
-outturn-total: 269
-outturn-percent: 72
-draw-total: 314
-draw-percent: 74
-takeout-total: 320
-takeout-percent: 67
-shots-total: 634
-shots-percent: 71
+totals:
+ - event: Brier
+   games: 44
+   wins: 17
+   losses: 27
+   inturn-total: 365
+   inturn-percent: 70
+   outturn-total: 269
+   outturn-percent: 72
+   draw-total: 314
+   draw-percent: 74
+   takeout-total: 320
+   takeout-percent: 67
+   shots-total: 634
+   shots-percent: 71
 years:
  - year: 1980
    event: Brier

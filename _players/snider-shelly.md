@@ -2,19 +2,21 @@
 title: Shelly Snider
 name: Shelly Snider
 name-sort: Snider, Shelly
-games: 11
-wins: 2
-losses: 9
-inturn-total: 114
-inturn-percent: 66
-outturn-total: 88
-outturn-percent: 63
-draw-total: 118
-draw-percent: 66
-takeout-total: 84
-takeout-percent: 63
-shots-total: 202
-shots-percent: 65
+totals:
+ - event: Hearts
+   games: 11
+   wins: 2
+   losses: 9
+   inturn-total: 114
+   inturn-percent: 66
+   outturn-total: 88
+   outturn-percent: 63
+   draw-total: 118
+   draw-percent: 66
+   takeout-total: 84
+   takeout-percent: 63
+   shots-total: 202
+   shots-percent: 65
 years:
  - year: 1996
    event: Hearts

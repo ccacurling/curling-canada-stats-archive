@@ -2,19 +2,21 @@
 title: Ian Fitzner-LeBlanc
 name: Ian Fitzner-LeBlanc
 name-sort: Fitzner-LeBlanc, Ian
-games: 22
-wins: 4
-losses: 18
-inturn-total: 199
-inturn-percent: 72
-outturn-total: 174
-outturn-percent: 72
-draw-total: 182
-draw-percent: 69
-takeout-total: 191
-takeout-percent: 74
-shots-total: 373
-shots-percent: 72
+totals:
+ - event: Brier
+   games: 22
+   wins: 4
+   losses: 18
+   inturn-total: 199
+   inturn-percent: 72
+   outturn-total: 174
+   outturn-percent: 72
+   draw-total: 182
+   draw-percent: 69
+   takeout-total: 191
+   takeout-percent: 74
+   shots-total: 373
+   shots-percent: 72
 years:
  - year: 2010
    event: Brier

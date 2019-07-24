@@ -2,19 +2,21 @@
 title: Paul Dobson
 name: Paul Dobson
 name-sort: Dobson, Paul
-games: 22
-wins: 4
-losses: 18
-inturn-total: 179
-inturn-percent: 74
-outturn-total: 221
-outturn-percent: 75
-draw-total: 205
-draw-percent: 72
-takeout-total: 195
-takeout-percent: 77
-shots-total: 400
-shots-percent: 74
+totals:
+ - event: Brier
+   games: 22
+   wins: 4
+   losses: 18
+   inturn-total: 179
+   inturn-percent: 74
+   outturn-total: 221
+   outturn-percent: 75
+   draw-total: 205
+   draw-percent: 72
+   takeout-total: 195
+   takeout-percent: 77
+   shots-total: 400
+   shots-percent: 74
 years:
  - year: 2005
    event: Brier

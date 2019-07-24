@@ -2,19 +2,21 @@
 title: Dustin Kidby
 name: Dustin Kidby
 name-sort: Kidby, Dustin
-games: 22
-wins: 10
-losses: 12
-inturn-total: 174
-inturn-percent: 89
-outturn-total: 240
-outturn-percent: 90
-draw-total: 364
-draw-percent: 91
-takeout-total: 50
-takeout-percent: 81
-shots-total: 414
-shots-percent: 89
+totals:
+ - event: Brier
+   games: 22
+   wins: 10
+   losses: 12
+   inturn-total: 174
+   inturn-percent: 89
+   outturn-total: 240
+   outturn-percent: 90
+   draw-total: 364
+   draw-percent: 91
+   takeout-total: 50
+   takeout-percent: 81
+   shots-total: 414
+   shots-percent: 89
 years:
  - year: 2013
    event: Brier

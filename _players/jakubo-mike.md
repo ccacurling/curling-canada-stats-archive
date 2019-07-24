@@ -2,19 +2,21 @@
 title: Mike Jakubo
 name: Mike Jakubo
 name-sort: Jakubo, Mike
-games: 22
-wins: 5
-losses: 17
-inturn-total: 189
-inturn-percent: 72
-outturn-total: 209
-outturn-percent: 74
-draw-total: 188
-draw-percent: 71
-takeout-total: 210
-takeout-percent: 75
-shots-total: 398
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 22
+   wins: 5
+   losses: 17
+   inturn-total: 189
+   inturn-percent: 72
+   outturn-total: 209
+   outturn-percent: 74
+   draw-total: 188
+   draw-percent: 71
+   takeout-total: 210
+   takeout-percent: 75
+   shots-total: 398
+   shots-percent: 73
 years:
  - year: 2005
    event: Brier

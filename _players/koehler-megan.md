@@ -2,19 +2,21 @@
 title: Megan Koehler
 name: Megan Koehler
 name-sort: Koehler, Megan
-games: 47
-wins: 13
-losses: 34
-inturn-total: 447
-inturn-percent: 72
-outturn-total: 447
-outturn-percent: 72
-draw-total: 488
-draw-percent: 72
-takeout-total: 406
-takeout-percent: 73
-shots-total: 894
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 47
+   wins: 13
+   losses: 34
+   inturn-total: 447
+   inturn-percent: 72
+   outturn-total: 447
+   outturn-percent: 72
+   draw-total: 488
+   draw-percent: 72
+   takeout-total: 406
+   takeout-percent: 73
+   shots-total: 894
+   shots-percent: 72
 years:
  - year: 2010
    event: Hearts

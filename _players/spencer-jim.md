@@ -2,19 +2,21 @@
 title: Jim Spencer
 name: Jim Spencer
 name-sort: Spencer, Jim
-games: 37
-wins: 25
-losses: 12
-inturn-total: 215
-inturn-percent: 83
-outturn-total: 234
-outturn-percent: 82
-draw-total: 198
-draw-percent: 77
-takeout-total: 251
-takeout-percent: 87
-shots-total: 449
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 37
+   wins: 25
+   losses: 12
+   inturn-total: 215
+   inturn-percent: 83
+   outturn-total: 234
+   outturn-percent: 82
+   draw-total: 198
+   draw-percent: 77
+   takeout-total: 251
+   takeout-percent: 87
+   shots-total: 449
+   shots-percent: 82
 years:
  - year: 1981
    event: Brier

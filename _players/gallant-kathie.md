@@ -2,19 +2,21 @@
 title: Kathie Gallant
 name: Kathie Gallant
 name-sort: Gallant, Kathie
-games: 34
-wins: 13
-losses: 21
-inturn-total: 360
-inturn-percent: 68
-outturn-total: 285
-outturn-percent: 68
-draw-total: 326
-draw-percent: 71
-takeout-total: 319
-takeout-percent: 65
-shots-total: 645
-shots-percent: 68
+totals:
+ - event: Hearts
+   games: 34
+   wins: 13
+   losses: 21
+   inturn-total: 360
+   inturn-percent: 68
+   outturn-total: 285
+   outturn-percent: 68
+   draw-total: 326
+   draw-percent: 71
+   takeout-total: 319
+   takeout-percent: 65
+   shots-total: 645
+   shots-percent: 68
 years:
  - year: 1983
    event: Hearts

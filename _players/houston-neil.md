@@ -2,19 +2,21 @@
 title: Neil Houston
 name: Neil Houston
 name-sort: Houston, Neil
-games: 48
-wins: 36
-losses: 12
-inturn-total: 211
-inturn-percent: 75
-outturn-total: 252
-outturn-percent: 81
-draw-total: 196
-draw-percent: 75
-takeout-total: 267
-takeout-percent: 80
-shots-total: 463
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 48
+   wins: 36
+   losses: 12
+   inturn-total: 211
+   inturn-percent: 75
+   outturn-total: 252
+   outturn-percent: 81
+   draw-total: 196
+   draw-percent: 75
+   takeout-total: 267
+   takeout-percent: 80
+   shots-total: 463
+   shots-percent: 78
 years:
  - year: 1980
    event: Brier

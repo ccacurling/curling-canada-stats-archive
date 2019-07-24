@@ -2,19 +2,21 @@
 title: Shane Kilgallen
 name: Shane Kilgallen
 name-sort: Kilgallen, Shane
-games: 24
-wins: 14
-losses: 10
-inturn-total: 222
-inturn-percent: 74
-outturn-total: 241
-outturn-percent: 84
-draw-total: 268
-draw-percent: 82
-takeout-total: 195
-takeout-percent: 76
-shots-total: 463
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 24
+   wins: 14
+   losses: 10
+   inturn-total: 222
+   inturn-percent: 74
+   outturn-total: 241
+   outturn-percent: 84
+   draw-total: 268
+   draw-percent: 82
+   takeout-total: 195
+   takeout-percent: 76
+   shots-total: 463
+   shots-percent: 79
 years:
  - year: 2002
    event: Brier

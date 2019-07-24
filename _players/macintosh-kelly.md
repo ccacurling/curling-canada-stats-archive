@@ -2,19 +2,21 @@
 title: Kelly MacIntosh
 name: Kelly MacIntosh
 name-sort: MacIntosh, Kelly
-games: 2
-wins: 0
-losses: 2
-inturn-total: 5
-inturn-percent: 75
-outturn-total: 7
-outturn-percent: 68
-draw-total: 9
-draw-percent: 72
-takeout-total: 3
-takeout-percent: 67
-shots-total: 12
-shots-percent: 71
+totals:
+ - event: Hearts
+   games: 2
+   wins: 0
+   losses: 2
+   inturn-total: 5
+   inturn-percent: 75
+   outturn-total: 7
+   outturn-percent: 68
+   draw-total: 9
+   draw-percent: 72
+   takeout-total: 3
+   takeout-percent: 67
+   shots-total: 12
+   shots-percent: 71
 years:
  - year: 2010
    event: Hearts

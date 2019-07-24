@@ -2,19 +2,21 @@
 title: Doug Armstrong
 name: Doug Armstrong
 name-sort: Armstrong, Doug
-games: 39
-wins: 27
-losses: 12
-inturn-total: 229
-inturn-percent: 84
-outturn-total: 487
-outturn-percent: 89
-draw-total: 544
-draw-percent: 88
-takeout-total: 172
-takeout-percent: 85
-shots-total: 716
-shots-percent: 87
+totals:
+ - event: Brier
+   games: 39
+   wins: 27
+   losses: 12
+   inturn-total: 229
+   inturn-percent: 84
+   outturn-total: 487
+   outturn-percent: 89
+   draw-total: 544
+   draw-percent: 88
+   takeout-total: 172
+   takeout-percent: 85
+   shots-total: 716
+   shots-percent: 87
 years:
  - year: 1998
    event: Brier

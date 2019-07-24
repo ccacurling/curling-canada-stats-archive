@@ -2,19 +2,21 @@
 title: Maureen Bonar
 name: Maureen Bonar
 name-sort: Bonar, Maureen
-games: 49
-wins: 30
-losses: 19
-inturn-total: 466
-inturn-percent: 76
-outturn-total: 458
-outturn-percent: 75
-draw-total: 438
-draw-percent: 72
-takeout-total: 486
-takeout-percent: 79
-shots-total: 924
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 49
+   wins: 30
+   losses: 19
+   inturn-total: 466
+   inturn-percent: 76
+   outturn-total: 458
+   outturn-percent: 75
+   draw-total: 438
+   draw-percent: 72
+   takeout-total: 486
+   takeout-percent: 79
+   shots-total: 924
+   shots-percent: 76
 years:
  - year: 1983
    event: Hearts

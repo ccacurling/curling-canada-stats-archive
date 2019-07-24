@@ -2,19 +2,21 @@
 title: Kristen Recksiedler
 name: Kristen Recksiedler
 name-sort: Recksiedler, Kristen
-games: 12
-wins: 2
-losses: 10
-inturn-total: 97
-inturn-percent: 72
-outturn-total: 119
-outturn-percent: 72
-draw-total: 96
-draw-percent: 71
-takeout-total: 120
-takeout-percent: 74
-shots-total: 216
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 12
+   wins: 2
+   losses: 10
+   inturn-total: 97
+   inturn-percent: 72
+   outturn-total: 119
+   outturn-percent: 72
+   draw-total: 96
+   draw-percent: 71
+   takeout-total: 120
+   takeout-percent: 74
+   shots-total: 216
+   shots-percent: 72
 years:
  - year: 2016
    event: Hearts

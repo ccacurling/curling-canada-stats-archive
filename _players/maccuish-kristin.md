@@ -2,19 +2,21 @@
 title: Kristin MacCuish
 name: Kristin MacCuish
 name-sort: MacCuish, Kristin
-games: 37
-wins: 23
-losses: 14
-inturn-total: 384
-inturn-percent: 85
-outturn-total: 271
-outturn-percent: 84
-draw-total: 529
-draw-percent: 86
-takeout-total: 126
-takeout-percent: 78
-shots-total: 655
-shots-percent: 84
+totals:
+ - event: Hearts
+   games: 37
+   wins: 23
+   losses: 14
+   inturn-total: 384
+   inturn-percent: 85
+   outturn-total: 271
+   outturn-percent: 84
+   draw-total: 529
+   draw-percent: 86
+   takeout-total: 126
+   takeout-percent: 78
+   shots-total: 655
+   shots-percent: 84
 years:
  - year: 2013
    event: Hearts

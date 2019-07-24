@@ -2,19 +2,21 @@
 title: Pamela Nugent
 name: Pamela Nugent
 name-sort: Nugent, Pamela
-games: 25
-wins: 10
-losses: 15
-inturn-total: 159
-inturn-percent: 74
-outturn-total: 288
-outturn-percent: 78
-draw-total: 283
-draw-percent: 78
-takeout-total: 164
-takeout-percent: 74
-shots-total: 447
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 25
+   wins: 10
+   losses: 15
+   inturn-total: 159
+   inturn-percent: 74
+   outturn-total: 288
+   outturn-percent: 78
+   draw-total: 283
+   draw-percent: 78
+   takeout-total: 164
+   takeout-percent: 74
+   shots-total: 447
+   shots-percent: 76
 years:
  - year: 2006
    event: Hearts

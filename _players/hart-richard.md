@@ -2,19 +2,21 @@
 title: Richard Hart
 name: Richard Hart
 name-sort: Hart, Richard
-games: 103
-wins: 73
-losses: 30
-inturn-total: 1106
-inturn-percent: 86
-outturn-total: 815
-outturn-percent: 86
-draw-total: 716
-draw-percent: 85
-takeout-total: 1205
-takeout-percent: 86
-shots-total: 1921
-shots-percent: 86
+totals:
+ - event: Brier
+   games: 103
+   wins: 73
+   losses: 30
+   inturn-total: 1106
+   inturn-percent: 86
+   outturn-total: 815
+   outturn-percent: 86
+   draw-total: 716
+   draw-percent: 85
+   takeout-total: 1205
+   takeout-percent: 86
+   shots-total: 1921
+   shots-percent: 86
 years:
  - year: 1995
    event: Brier

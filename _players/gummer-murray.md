@@ -2,9 +2,11 @@
 title: Murray Gummer
 name: Murray Gummer
 name-sort: Gummer, Murray
-games: 11
-wins: 5
-losses: 6
+totals:
+ - event: Brier
+   games: 11
+   wins: 5
+   losses: 6
 years:
  - year: 1982
    event: Brier

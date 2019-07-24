@@ -2,19 +2,21 @@
 title: Candice Mittelstadt
 name: Candice Mittelstadt
 name-sort: Mittelstadt, Candice
-games: 22
-wins: 10
-losses: 12
-inturn-total: 223
-inturn-percent: 76
-outturn-total: 193
-outturn-percent: 78
-draw-total: 186
-draw-percent: 76
-takeout-total: 230
-takeout-percent: 78
-shots-total: 416
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 22
+   wins: 10
+   losses: 12
+   inturn-total: 223
+   inturn-percent: 76
+   outturn-total: 193
+   outturn-percent: 78
+   draw-total: 186
+   draw-percent: 76
+   takeout-total: 230
+   takeout-percent: 78
+   shots-total: 416
+   shots-percent: 77
 years:
  - year: 2002
    event: Hearts

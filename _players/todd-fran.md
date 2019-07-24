@@ -2,19 +2,21 @@
 title: Fran Todd
 name: Fran Todd
 name-sort: Todd, Fran
-games: 32
-wins: 14
-losses: 18
-inturn-total: 295
-inturn-percent: 74
-outturn-total: 298
-outturn-percent: 75
-draw-total: 389
-draw-percent: 78
-takeout-total: 204
-takeout-percent: 68
-shots-total: 593
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 32
+   wins: 14
+   losses: 18
+   inturn-total: 295
+   inturn-percent: 74
+   outturn-total: 298
+   outturn-percent: 75
+   draw-total: 389
+   draw-percent: 78
+   takeout-total: 204
+   takeout-percent: 68
+   shots-total: 593
+   shots-percent: 74
 years:
  - year: 1984
    event: Hearts

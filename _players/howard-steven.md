@@ -2,19 +2,21 @@
 title: Steven Howard
 name: Steven Howard
 name-sort: Howard, Steven
-games: 30
-wins: 11
-losses: 19
-inturn-total: 213
-inturn-percent: 76
-outturn-total: 347
-outturn-percent: 80
-draw-total: 247
-draw-percent: 78
-takeout-total: 313
-takeout-percent: 79
-shots-total: 560
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 30
+   wins: 11
+   losses: 19
+   inturn-total: 213
+   inturn-percent: 76
+   outturn-total: 347
+   outturn-percent: 80
+   draw-total: 247
+   draw-percent: 78
+   takeout-total: 313
+   takeout-percent: 79
+   shots-total: 560
+   shots-percent: 78
 years:
  - year: 2004
    event: Brier

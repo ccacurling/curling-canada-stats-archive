@@ -2,19 +2,21 @@
 title: Laurie Allen
 name: Laurie Allen
 name-sort: Allen, Laurie
-games: 24
-wins: 17
-losses: 7
-inturn-total: 214
-inturn-percent: 77
-outturn-total: 245
-outturn-percent: 75
-draw-total: 177
-draw-percent: 73
-takeout-total: 282
-takeout-percent: 78
-shots-total: 459
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 24
+   wins: 17
+   losses: 7
+   inturn-total: 214
+   inturn-percent: 77
+   outturn-total: 245
+   outturn-percent: 75
+   draw-total: 177
+   draw-percent: 73
+   takeout-total: 282
+   takeout-percent: 78
+   shots-total: 459
+   shots-percent: 76
 years:
  - year: 1989
    event: Hearts

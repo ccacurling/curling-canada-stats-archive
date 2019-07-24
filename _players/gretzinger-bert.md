@@ -2,19 +2,21 @@
 title: Bert Gretzinger
 name: Bert Gretzinger
 name-sort: Gretzinger, Bert
-games: 62
-wins: 41
-losses: 21
-inturn-total: 533
-inturn-percent: 82
-outturn-total: 676
-outturn-percent: 83
-draw-total: 442
-draw-percent: 83
-takeout-total: 767
-takeout-percent: 82
-shots-total: 1209
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 62
+   wins: 41
+   losses: 21
+   inturn-total: 533
+   inturn-percent: 82
+   outturn-total: 676
+   outturn-percent: 83
+   draw-total: 442
+   draw-percent: 83
+   takeout-total: 767
+   takeout-percent: 82
+   shots-total: 1209
+   shots-percent: 83
 years:
  - year: 1989
    event: Brier

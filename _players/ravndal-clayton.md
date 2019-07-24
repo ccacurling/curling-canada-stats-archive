@@ -2,19 +2,21 @@
 title: Clayton Ravndal
 name: Clayton Ravndal
 name-sort: Ravndal, Clayton
-games: 33
-wins: 7
-losses: 26
-inturn-total: 278
-inturn-percent: 80
-outturn-total: 365
-outturn-percent: 80
-draw-total: 407
-draw-percent: 85
-takeout-total: 236
-takeout-percent: 72
-shots-total: 643
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 33
+   wins: 7
+   losses: 26
+   inturn-total: 278
+   inturn-percent: 80
+   outturn-total: 365
+   outturn-percent: 80
+   draw-total: 407
+   draw-percent: 85
+   takeout-total: 236
+   takeout-percent: 72
+   shots-total: 643
+   shots-percent: 80
 years:
  - year: 1988
    event: Brier

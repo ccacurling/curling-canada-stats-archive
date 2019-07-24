@@ -2,19 +2,21 @@
 title: Dan Petryk
 name: Dan Petryk
 name-sort: Petryk, Dan
-games: 36
-wins: 23
-losses: 13
-inturn-total: 348
-inturn-percent: 83
-outturn-total: 353
-outturn-percent: 83
-draw-total: 272
-draw-percent: 83
-takeout-total: 429
-takeout-percent: 83
-shots-total: 701
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 36
+   wins: 23
+   losses: 13
+   inturn-total: 348
+   inturn-percent: 83
+   outturn-total: 353
+   outturn-percent: 83
+   draw-total: 272
+   draw-percent: 83
+   takeout-total: 429
+   takeout-percent: 83
+   shots-total: 701
+   shots-percent: 83
 years:
  - year: 1991
    event: Brier

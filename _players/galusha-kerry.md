@@ -2,19 +2,21 @@
 title: Kerry Galusha
 name: Kerry Galusha
 name-sort: Galusha, Kerry
-games: 124
-wins: 35
-losses: 89
-inturn-total: 1225
-inturn-percent: 69
-outturn-total: 1095
-outturn-percent: 71
-draw-total: 1195
-draw-percent: 69
-takeout-total: 1125
-takeout-percent: 71
-shots-total: 2320
-shots-percent: 70
+totals:
+ - event: Hearts
+   games: 124
+   wins: 35
+   losses: 89
+   inturn-total: 1225
+   inturn-percent: 69
+   outturn-total: 1095
+   outturn-percent: 71
+   draw-total: 1195
+   draw-percent: 69
+   takeout-total: 1125
+   takeout-percent: 71
+   shots-total: 2320
+   shots-percent: 70
 years:
  - year: 1998
    event: Hearts

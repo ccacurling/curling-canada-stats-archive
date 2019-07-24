@@ -2,19 +2,21 @@
 title: Tara George
 name: Tara George
 name-sort: George, Tara
-games: 48
-wins: 25
-losses: 23
-inturn-total: 465
-inturn-percent: 75
-outturn-total: 467
-outturn-percent: 76
-draw-total: 406
-draw-percent: 73
-takeout-total: 526
-takeout-percent: 78
-shots-total: 932
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 48
+   wins: 25
+   losses: 23
+   inturn-total: 465
+   inturn-percent: 75
+   outturn-total: 467
+   outturn-percent: 76
+   draw-total: 406
+   draw-percent: 73
+   takeout-total: 526
+   takeout-percent: 78
+   shots-total: 932
+   shots-percent: 75
 years:
  - year: 2006
    event: Hearts

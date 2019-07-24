@@ -2,19 +2,21 @@
 title: Penny LaRocque
 name: Penny LaRocque
 name-sort: LaRocque, Penny
-games: 22
-wins: 14
-losses: 8
-inturn-total: 173
-inturn-percent: 68
-outturn-total: 252
-outturn-percent: 72
-draw-total: 221
-draw-percent: 69
-takeout-total: 204
-takeout-percent: 71
-shots-total: 425
-shots-percent: 70
+totals:
+ - event: Hearts
+   games: 22
+   wins: 14
+   losses: 8
+   inturn-total: 173
+   inturn-percent: 68
+   outturn-total: 252
+   outturn-percent: 72
+   draw-total: 221
+   draw-percent: 69
+   takeout-total: 204
+   takeout-percent: 71
+   shots-total: 425
+   shots-percent: 70
 years:
  - year: 1983
    event: Hearts

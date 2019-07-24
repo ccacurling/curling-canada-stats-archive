@@ -2,19 +2,21 @@
 title: Jamie Korab
 name: Jamie Korab
 name-sort: Korab, Jamie
-games: 72
-wins: 46
-losses: 26
-inturn-total: 582
-inturn-percent: 84
-outturn-total: 708
-outturn-percent: 84
-draw-total: 949
-draw-percent: 85
-takeout-total: 341
-takeout-percent: 81
-shots-total: 1290
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 72
+   wins: 46
+   losses: 26
+   inturn-total: 582
+   inturn-percent: 84
+   outturn-total: 708
+   outturn-percent: 84
+   draw-total: 949
+   draw-percent: 85
+   takeout-total: 341
+   takeout-percent: 81
+   shots-total: 1290
+   shots-percent: 84
 years:
  - year: 2003
    event: Brier

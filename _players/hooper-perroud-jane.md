@@ -2,19 +2,21 @@
 title: Jane Hooper Perroud
 name: Jane Hooper Perroud
 name-sort: Hooper Perroud, Jane
-games: 25
-wins: 17
-losses: 8
-inturn-total: 210
-inturn-percent: 85
-outturn-total: 232
-outturn-percent: 84
-draw-total: 289
-draw-percent: 85
-takeout-total: 153
-takeout-percent: 84
-shots-total: 442
-shots-percent: 84
+totals:
+ - event: Hearts
+   games: 25
+   wins: 17
+   losses: 8
+   inturn-total: 210
+   inturn-percent: 85
+   outturn-total: 232
+   outturn-percent: 84
+   draw-total: 289
+   draw-percent: 85
+   takeout-total: 153
+   takeout-percent: 84
+   shots-total: 442
+   shots-percent: 84
 years:
  - year: 1996
    event: Hearts

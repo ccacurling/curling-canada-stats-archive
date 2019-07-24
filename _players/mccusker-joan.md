@@ -2,19 +2,21 @@
 title: Joan McCusker
 name: Joan McCusker
 name-sort: McCusker, Joan
-games: 89
-wins: 64
-losses: 25
-inturn-total: 991
-inturn-percent: 81
-outturn-total: 659
-outturn-percent: 77
-draw-total: 488
-draw-percent: 73
-takeout-total: 1162
-takeout-percent: 82
-shots-total: 1650
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 89
+   wins: 64
+   losses: 25
+   inturn-total: 991
+   inturn-percent: 81
+   outturn-total: 659
+   outturn-percent: 77
+   draw-total: 488
+   draw-percent: 73
+   takeout-total: 1162
+   takeout-percent: 82
+   shots-total: 1650
+   shots-percent: 79
 years:
  - year: 1991
    event: Hearts

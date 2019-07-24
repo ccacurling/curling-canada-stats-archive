@@ -2,19 +2,21 @@
 title: Brendan Bottcher
 name: Brendan Bottcher
 name-sort: Bottcher, Brendan
-games: 39
-wins: 23
-losses: 16
-inturn-total: 403
-inturn-percent: 85
-outturn-total: 304
-outturn-percent: 81
-draw-total: 303
-draw-percent: 80
-takeout-total: 404
-takeout-percent: 86
-shots-total: 707
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 39
+   wins: 23
+   losses: 16
+   inturn-total: 403
+   inturn-percent: 85
+   outturn-total: 304
+   outturn-percent: 81
+   draw-total: 303
+   draw-percent: 80
+   takeout-total: 404
+   takeout-percent: 86
+   shots-total: 707
+   shots-percent: 83
 years:
  - year: 2017
    event: Brier

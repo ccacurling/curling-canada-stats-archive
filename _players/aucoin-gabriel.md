@@ -2,9 +2,11 @@
 title: Gabriel Aucoin
 name: Gabriel Aucoin
 name-sort: Aucoin, Gabriel
-games: 11
-wins: 3
-losses: 8
+totals:
+ - event: Brier
+   games: 11
+   wins: 3
+   losses: 8
 years:
  - year: 1982
    event: Brier

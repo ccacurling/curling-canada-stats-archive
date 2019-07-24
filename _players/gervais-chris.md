@@ -2,19 +2,21 @@
 title: Chris Gervais
 name: Chris Gervais
 name-sort: Gervais, Chris
-games: 22
-wins: 14
-losses: 8
-inturn-total: 166
-inturn-percent: 74
-outturn-total: 250
-outturn-percent: 79
-draw-total: 193
-draw-percent: 73
-takeout-total: 223
-takeout-percent: 80
-shots-total: 416
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 22
+   wins: 14
+   losses: 8
+   inturn-total: 166
+   inturn-percent: 74
+   outturn-total: 250
+   outturn-percent: 79
+   draw-total: 193
+   draw-percent: 73
+   takeout-total: 223
+   takeout-percent: 80
+   shots-total: 416
+   shots-percent: 77
 years:
  - year: 1984
    event: Hearts

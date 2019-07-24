@@ -2,19 +2,21 @@
 title: Ryan Harnden
 name: Ryan Harnden
 name-sort: Harnden, Ryan
-games: 122
-wins: 83
-losses: 39
-inturn-total: 744
-inturn-percent: 85
-outturn-total: 1512
-outturn-percent: 88
-draw-total: 1599
-draw-percent: 89
-takeout-total: 657
-takeout-percent: 83
-shots-total: 2256
-shots-percent: 87
+totals:
+ - event: Brier
+   games: 122
+   wins: 83
+   losses: 39
+   inturn-total: 744
+   inturn-percent: 85
+   outturn-total: 1512
+   outturn-percent: 88
+   draw-total: 1599
+   draw-percent: 89
+   takeout-total: 657
+   takeout-percent: 83
+   shots-total: 2256
+   shots-percent: 87
 years:
  - year: 2008
    event: Brier

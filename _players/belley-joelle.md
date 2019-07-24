@@ -2,19 +2,21 @@
 title: Joelle Belley
 name: Joelle Belley
 name-sort: Belley, Joelle
-games: 22
-wins: 9
-losses: 13
-inturn-total: 193
-inturn-percent: 75
-outturn-total: 220
-outturn-percent: 75
-draw-total: 170
-draw-percent: 73
-takeout-total: 243
-takeout-percent: 76
-shots-total: 413
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 22
+   wins: 9
+   losses: 13
+   inturn-total: 193
+   inturn-percent: 75
+   outturn-total: 220
+   outturn-percent: 75
+   draw-total: 170
+   draw-percent: 73
+   takeout-total: 243
+   takeout-percent: 76
+   shots-total: 413
+   shots-percent: 75
 years:
  - year: 2002
    event: Hearts

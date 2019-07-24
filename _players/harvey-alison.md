@@ -2,19 +2,21 @@
 title: Alison Harvey
 name: Alison Harvey
 name-sort: Harvey, Alison
-games: 22
-wins: 12
-losses: 10
-inturn-total: 235
-inturn-percent: 81
-outturn-total: 208
-outturn-percent: 79
-draw-total: 293
-draw-percent: 84
-takeout-total: 150
-takeout-percent: 73
-shots-total: 443
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 22
+   wins: 12
+   losses: 10
+   inturn-total: 235
+   inturn-percent: 81
+   outturn-total: 208
+   outturn-percent: 79
+   draw-total: 293
+   draw-percent: 84
+   takeout-total: 150
+   takeout-percent: 73
+   shots-total: 443
+   shots-percent: 80
 years:
  - year: 1997
    event: Hearts

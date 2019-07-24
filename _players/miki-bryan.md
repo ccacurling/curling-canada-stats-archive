@@ -2,19 +2,21 @@
 title: Bryan Miki
 name: Bryan Miki
 name-sort: Miki, Bryan
-games: 25
-wins: 18
-losses: 7
-inturn-total: 243
-inturn-percent: 83
-outturn-total: 231
-outturn-percent: 85
-draw-total: 192
-draw-percent: 79
-takeout-total: 282
-takeout-percent: 87
-shots-total: 474
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 25
+   wins: 18
+   losses: 7
+   inturn-total: 243
+   inturn-percent: 83
+   outturn-total: 231
+   outturn-percent: 85
+   draw-total: 192
+   draw-percent: 79
+   takeout-total: 282
+   takeout-percent: 87
+   shots-total: 474
+   shots-percent: 84
 years:
  - year: 1998
    event: Brier

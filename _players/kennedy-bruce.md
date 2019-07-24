@@ -2,19 +2,21 @@
 title: Bruce Kennedy
 name: Bruce Kennedy
 name-sort: Kennedy, Bruce
-games: 48
-wins: 32
-losses: 16
-inturn-total: 285
-inturn-percent: 75
-outturn-total: 150
-outturn-percent: 75
-draw-total: 282
-draw-percent: 78
-takeout-total: 153
-takeout-percent: 68
-shots-total: 435
-shots-percent: 75
+totals:
+ - event: Brier
+   games: 48
+   wins: 32
+   losses: 16
+   inturn-total: 285
+   inturn-percent: 75
+   outturn-total: 150
+   outturn-percent: 75
+   draw-total: 282
+   draw-percent: 78
+   takeout-total: 153
+   takeout-percent: 68
+   shots-total: 435
+   shots-percent: 75
 years:
  - year: 1980
    event: Brier

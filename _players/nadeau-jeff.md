@@ -2,19 +2,21 @@
 title: Jeff Nadeau
 name: Jeff Nadeau
 name-sort: Nadeau, Jeff
-games: 15
-wins: 0
-losses: 15
-inturn-total: 28
-inturn-percent: 64
-outturn-total: 224
-outturn-percent: 67
-draw-total: 153
-draw-percent: 68
-takeout-total: 99
-takeout-percent: 65
-shots-total: 252
-shots-percent: 66
+totals:
+ - event: Brier
+   games: 15
+   wins: 0
+   losses: 15
+   inturn-total: 28
+   inturn-percent: 64
+   outturn-total: 224
+   outturn-percent: 67
+   draw-total: 153
+   draw-percent: 68
+   takeout-total: 99
+   takeout-percent: 65
+   shots-total: 252
+   shots-percent: 66
 years:
  - year: 2018
    event: Brier

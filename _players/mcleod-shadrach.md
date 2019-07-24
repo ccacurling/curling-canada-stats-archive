@@ -2,19 +2,21 @@
 title: Shadrach McLeod
 name: Shadrach McLeod
 name-sort: McLeod, Shadrach
-games: 3
-wins: 1
-losses: 2
-inturn-total: 7
-inturn-percent: 86
-outturn-total: 9
-outturn-percent: 64
-draw-total: 12
-draw-percent: 69
-takeout-total: 4
-takeout-percent: 88
-shots-total: 16
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 3
+   wins: 1
+   losses: 2
+   inturn-total: 7
+   inturn-percent: 86
+   outturn-total: 9
+   outturn-percent: 64
+   draw-total: 12
+   draw-percent: 69
+   takeout-total: 4
+   takeout-percent: 88
+   shots-total: 16
+   shots-percent: 73
 years:
  - year: 2019
    event: Brier

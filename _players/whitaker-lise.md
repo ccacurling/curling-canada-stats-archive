@@ -2,19 +2,21 @@
 title: Lise Whitaker
 name: Lise Whitaker
 name-sort: Whitaker, Lise
-games: 11
-wins: 4
-losses: 7
-inturn-total: 88
-inturn-percent: 76
-outturn-total: 121
-outturn-percent: 81
-draw-total: 110
-draw-percent: 78
-takeout-total: 99
-takeout-percent: 80
-shots-total: 209
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 11
+   wins: 4
+   losses: 7
+   inturn-total: 88
+   inturn-percent: 76
+   outturn-total: 121
+   outturn-percent: 81
+   draw-total: 110
+   draw-percent: 78
+   takeout-total: 99
+   takeout-percent: 80
+   shots-total: 209
+   shots-percent: 79
 years:
  - year: 2001
    event: Hearts

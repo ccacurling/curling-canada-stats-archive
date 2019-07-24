@@ -2,19 +2,21 @@
 title: Al Delmage
 name: Al Delmage
 name-sort: Delmage, Al
-games: 58
-wins: 23
-losses: 35
-inturn-total: 420
-inturn-percent: 67
-outturn-total: 446
-outturn-percent: 71
-draw-total: 423
-draw-percent: 65
-takeout-total: 443
-takeout-percent: 72
-shots-total: 866
-shots-percent: 69
+totals:
+ - event: Brier
+   games: 58
+   wins: 23
+   losses: 35
+   inturn-total: 420
+   inturn-percent: 67
+   outturn-total: 446
+   outturn-percent: 71
+   draw-total: 423
+   draw-percent: 65
+   takeout-total: 443
+   takeout-percent: 72
+   shots-total: 866
+   shots-percent: 69
 years:
  - year: 1980
    event: Brier

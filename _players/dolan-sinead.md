@@ -2,19 +2,21 @@
 title: Sinead Dolan
 name: Sinead Dolan
 name-sort: Dolan, Sinead
-games: 27
-wins: 9
-losses: 18
-inturn-total: 200
-inturn-percent: 73
-outturn-total: 254
-outturn-percent: 78
-draw-total: 201
-draw-percent: 77
-takeout-total: 253
-takeout-percent: 75
-shots-total: 454
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 27
+   wins: 9
+   losses: 18
+   inturn-total: 200
+   inturn-percent: 73
+   outturn-total: 254
+   outturn-percent: 78
+   draw-total: 201
+   draw-percent: 77
+   takeout-total: 253
+   takeout-percent: 75
+   shots-total: 454
+   shots-percent: 76
 years:
  - year: 2007
    event: Hearts

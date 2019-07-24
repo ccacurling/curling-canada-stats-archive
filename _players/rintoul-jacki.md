@@ -2,19 +2,21 @@
 title: Jacki Rintoul
 name: Jacki Rintoul
 name-sort: Rintoul, Jacki
-games: 22
-wins: 12
-losses: 10
-inturn-total: 181
-inturn-percent: 62
-outturn-total: 230
-outturn-percent: 67
-draw-total: 176
-draw-percent: 59
-takeout-total: 235
-takeout-percent: 69
-shots-total: 411
-shots-percent: 65
+totals:
+ - event: Hearts
+   games: 22
+   wins: 12
+   losses: 10
+   inturn-total: 181
+   inturn-percent: 62
+   outturn-total: 230
+   outturn-percent: 67
+   draw-total: 176
+   draw-percent: 59
+   takeout-total: 235
+   takeout-percent: 69
+   shots-total: 411
+   shots-percent: 65
 years:
  - year: 1985
    event: Hearts

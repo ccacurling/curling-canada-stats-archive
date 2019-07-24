@@ -2,19 +2,21 @@
 title: Dawn Moses
 name: Dawn Moses
 name-sort: Moses, Dawn
-games: 98
-wins: 25
-losses: 73
-inturn-total: 943
-inturn-percent: 70
-outturn-total: 906
-outturn-percent: 69
-draw-total: 984
-draw-percent: 69
-takeout-total: 865
-takeout-percent: 70
-shots-total: 1849
-shots-percent: 70
+totals:
+ - event: Hearts
+   games: 98
+   wins: 25
+   losses: 73
+   inturn-total: 943
+   inturn-percent: 70
+   outturn-total: 906
+   outturn-percent: 69
+   draw-total: 984
+   draw-percent: 69
+   takeout-total: 865
+   takeout-percent: 70
+   shots-total: 1849
+   shots-percent: 70
 years:
  - year: 1990
    event: Hearts

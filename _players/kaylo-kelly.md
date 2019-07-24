@@ -2,19 +2,21 @@
 title: Kelly Kaylo
 name: Kelly Kaylo
 name-sort: Kaylo, Kelly
-games: 54
-wins: 18
-losses: 36
-inturn-total: 505
-inturn-percent: 72
-outturn-total: 509
-outturn-percent: 72
-draw-total: 448
-draw-percent: 71
-takeout-total: 566
-takeout-percent: 73
-shots-total: 1014
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 54
+   wins: 18
+   losses: 36
+   inturn-total: 505
+   inturn-percent: 72
+   outturn-total: 509
+   outturn-percent: 72
+   draw-total: 448
+   draw-percent: 71
+   takeout-total: 566
+   takeout-percent: 73
+   shots-total: 1014
+   shots-percent: 72
 years:
  - year: 1984
    event: Hearts

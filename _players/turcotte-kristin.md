@@ -2,19 +2,21 @@
 title: Kristin Turcotte
 name: Kristin Turcotte
 name-sort: Turcotte, Kristin
-games: 24
-wins: 15
-losses: 9
-inturn-total: 199
-inturn-percent: 68
-outturn-total: 260
-outturn-percent: 75
-draw-total: 201
-draw-percent: 68
-takeout-total: 258
-takeout-percent: 75
-shots-total: 459
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 24
+   wins: 15
+   losses: 9
+   inturn-total: 199
+   inturn-percent: 68
+   outturn-total: 260
+   outturn-percent: 75
+   draw-total: 201
+   draw-percent: 68
+   takeout-total: 258
+   takeout-percent: 75
+   shots-total: 459
+   shots-percent: 72
 years:
  - year: 1990
    event: Hearts

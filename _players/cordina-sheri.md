@@ -2,19 +2,21 @@
 title: Sheri Cordina
 name: Sheri Cordina
 name-sort: Cordina, Sheri
-games: 40
-wins: 26
-losses: 14
-inturn-total: 315
-inturn-percent: 85
-outturn-total: 424
-outturn-percent: 84
-draw-total: 538
-draw-percent: 86
-takeout-total: 201
-takeout-percent: 79
-shots-total: 739
-shots-percent: 85
+totals:
+ - event: Hearts
+   games: 40
+   wins: 26
+   losses: 14
+   inturn-total: 315
+   inturn-percent: 85
+   outturn-total: 424
+   outturn-percent: 84
+   draw-total: 538
+   draw-percent: 86
+   takeout-total: 201
+   takeout-percent: 79
+   shots-total: 739
+   shots-percent: 85
 years:
  - year: 2001
    event: Hearts

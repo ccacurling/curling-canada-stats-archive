@@ -2,19 +2,21 @@
 title: Jenna Walsh
 name: Jenna Walsh
 name-sort: Walsh, Jenna
-games: 27
-wins: 13
-losses: 14
-inturn-total: 252
-inturn-percent: 82
-outturn-total: 264
-outturn-percent: 79
-draw-total: 205
-draw-percent: 79
-takeout-total: 311
-takeout-percent: 82
-shots-total: 516
-shots-percent: 81
+totals:
+ - event: Hearts
+   games: 27
+   wins: 13
+   losses: 14
+   inturn-total: 252
+   inturn-percent: 82
+   outturn-total: 264
+   outturn-percent: 79
+   draw-total: 205
+   draw-percent: 79
+   takeout-total: 311
+   takeout-percent: 82
+   shots-total: 516
+   shots-percent: 81
 years:
  - year: 2012
    event: Hearts

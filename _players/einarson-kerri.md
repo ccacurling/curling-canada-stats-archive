@@ -2,19 +2,21 @@
 title: Kerri Einarson
 name: Kerri Einarson
 name-sort: Einarson, Kerri
-games: 27
-wins: 17
-losses: 10
-inturn-total: 253
-inturn-percent: 80
-outturn-total: 250
-outturn-percent: 77
-draw-total: 206
-draw-percent: 76
-takeout-total: 297
-takeout-percent: 80
-shots-total: 503
-shots-percent: 78
+totals:
+ - event: Hearts
+   games: 27
+   wins: 17
+   losses: 10
+   inturn-total: 253
+   inturn-percent: 80
+   outturn-total: 250
+   outturn-percent: 77
+   draw-total: 206
+   draw-percent: 76
+   takeout-total: 297
+   takeout-percent: 80
+   shots-total: 503
+   shots-percent: 78
 years:
  - year: 2016
    event: Hearts

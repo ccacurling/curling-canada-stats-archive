@@ -2,19 +2,21 @@
 title: Don Reddick
 name: Don Reddick
 name-sort: Reddick, Don
-games: 41
-wins: 18
-losses: 23
-inturn-total: 430
-inturn-percent: 85
-outturn-total: 379
-outturn-percent: 84
-draw-total: 420
-draw-percent: 86
-takeout-total: 389
-takeout-percent: 83
-shots-total: 809
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 41
+   wins: 18
+   losses: 23
+   inturn-total: 430
+   inturn-percent: 85
+   outturn-total: 379
+   outturn-percent: 84
+   draw-total: 420
+   draw-percent: 86
+   takeout-total: 389
+   takeout-percent: 83
+   shots-total: 809
+   shots-percent: 85
 years:
  - year: 1986
    event: Brier

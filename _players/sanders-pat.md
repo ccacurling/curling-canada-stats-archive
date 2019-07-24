@@ -2,19 +2,21 @@
 title: Pat Sanders
 name: Pat Sanders
 name-sort: Sanders, Pat
-games: 46
-wins: 30
-losses: 16
-inturn-total: 366
-inturn-percent: 70
-outturn-total: 450
-outturn-percent: 74
-draw-total: 384
-draw-percent: 69
-takeout-total: 432
-takeout-percent: 75
-shots-total: 816
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 46
+   wins: 30
+   losses: 16
+   inturn-total: 366
+   inturn-percent: 70
+   outturn-total: 450
+   outturn-percent: 74
+   draw-total: 384
+   draw-percent: 69
+   takeout-total: 432
+   takeout-percent: 75
+   shots-total: 816
+   shots-percent: 72
 years:
  - year: 1987
    event: Hearts

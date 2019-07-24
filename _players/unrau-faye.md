@@ -2,19 +2,21 @@
 title: Faye Unrau
 name: Faye Unrau
 name-sort: Unrau, Faye
-games: 22
-wins: 10
-losses: 12
-inturn-total: 257
-inturn-percent: 71
-outturn-total: 153
-outturn-percent: 70
-draw-total: 281
-draw-percent: 70
-takeout-total: 129
-takeout-percent: 72
-shots-total: 410
-shots-percent: 71
+totals:
+ - event: Hearts
+   games: 22
+   wins: 10
+   losses: 12
+   inturn-total: 257
+   inturn-percent: 71
+   outturn-total: 153
+   outturn-percent: 70
+   draw-total: 281
+   draw-percent: 70
+   takeout-total: 129
+   takeout-percent: 72
+   shots-total: 410
+   shots-percent: 71
 years:
  - year: 1986
    event: Hearts

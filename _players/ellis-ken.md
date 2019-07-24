@@ -2,19 +2,21 @@
 title: Ken Ellis
 name: Ken Ellis
 name-sort: Ellis, Ken
-games: 22
-wins: 7
-losses: 15
-inturn-total: 224
-inturn-percent: 83
-outturn-total: 200
-outturn-percent: 81
-draw-total: 199
-draw-percent: 81
-takeout-total: 225
-takeout-percent: 83
-shots-total: 424
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 22
+   wins: 7
+   losses: 15
+   inturn-total: 224
+   inturn-percent: 83
+   outturn-total: 200
+   outturn-percent: 81
+   draw-total: 199
+   draw-percent: 81
+   takeout-total: 225
+   takeout-percent: 83
+   shots-total: 424
+   shots-percent: 82
 years:
  - year: 1997
    event: Brier

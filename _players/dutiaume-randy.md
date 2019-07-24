@@ -2,19 +2,21 @@
 title: Randy Dutiaume
 name: Randy Dutiaume
 name-sort: Dutiaume, Randy
-games: 14
-wins: 8
-losses: 6
-inturn-total: 124
-inturn-percent: 71
-outturn-total: 129
-outturn-percent: 80
-draw-total: 102
-draw-percent: 74
-takeout-total: 151
-takeout-percent: 76
-shots-total: 253
-shots-percent: 75
+totals:
+ - event: Brier
+   games: 14
+   wins: 8
+   losses: 6
+   inturn-total: 124
+   inturn-percent: 71
+   outturn-total: 129
+   outturn-percent: 80
+   draw-total: 102
+   draw-percent: 74
+   takeout-total: 151
+   takeout-percent: 76
+   shots-total: 253
+   shots-percent: 75
 years:
  - year: 2005
    event: Brier

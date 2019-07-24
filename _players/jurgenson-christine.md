@@ -2,19 +2,21 @@
 title: Christine Jurgenson
 name: Christine Jurgenson
 name-sort: Jurgenson, Christine
-games: 45
-wins: 24
-losses: 21
-inturn-total: 349
-inturn-percent: 75
-outturn-total: 517
-outturn-percent: 76
-draw-total: 492
-draw-percent: 77
-takeout-total: 374
-takeout-percent: 74
-shots-total: 866
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 45
+   wins: 24
+   losses: 21
+   inturn-total: 349
+   inturn-percent: 75
+   outturn-total: 517
+   outturn-percent: 76
+   draw-total: 492
+   draw-percent: 77
+   takeout-total: 374
+   takeout-percent: 74
+   shots-total: 866
+   shots-percent: 76
 years:
  - year: 1983
    event: Hearts

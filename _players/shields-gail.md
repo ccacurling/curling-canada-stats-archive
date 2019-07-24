@@ -2,19 +2,21 @@
 title: Gail Shields
 name: Gail Shields
 name-sort: Shields, Gail
-games: 21
-wins: 6
-losses: 15
-inturn-total: 179
-inturn-percent: 62
-outturn-total: 203
-outturn-percent: 59
-draw-total: 157
-draw-percent: 57
-takeout-total: 225
-takeout-percent: 63
-shots-total: 382
-shots-percent: 61
+totals:
+ - event: Hearts
+   games: 21
+   wins: 6
+   losses: 15
+   inturn-total: 179
+   inturn-percent: 62
+   outturn-total: 203
+   outturn-percent: 59
+   draw-total: 157
+   draw-percent: 57
+   takeout-total: 225
+   takeout-percent: 63
+   shots-total: 382
+   shots-percent: 61
 years:
  - year: 1985
    event: Hearts

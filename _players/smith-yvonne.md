@@ -2,19 +2,21 @@
 title: Yvonne Smith
 name: Yvonne Smith
 name-sort: Smith, Yvonne
-games: 21
-wins: 9
-losses: 12
-inturn-total: 147
-inturn-percent: 70
-outturn-total: 246
-outturn-percent: 71
-draw-total: 193
-draw-percent: 73
-takeout-total: 200
-takeout-percent: 70
-shots-total: 393
-shots-percent: 71
+totals:
+ - event: Hearts
+   games: 21
+   wins: 9
+   losses: 12
+   inturn-total: 147
+   inturn-percent: 70
+   outturn-total: 246
+   outturn-percent: 71
+   draw-total: 193
+   draw-percent: 73
+   takeout-total: 200
+   takeout-percent: 70
+   shots-total: 393
+   shots-percent: 71
 years:
  - year: 1984
    event: Hearts

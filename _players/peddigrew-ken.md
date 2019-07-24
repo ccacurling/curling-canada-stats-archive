@@ -2,19 +2,21 @@
 title: Ken Peddigrew
 name: Ken Peddigrew
 name-sort: Peddigrew, Ken
-games: 30
-wins: 5
-losses: 25
-inturn-total: 313
-inturn-percent: 72
-outturn-total: 249
-outturn-percent: 68
-draw-total: 346
-draw-percent: 73
-takeout-total: 216
-takeout-percent: 67
-shots-total: 562
-shots-percent: 70
+totals:
+ - event: Brier
+   games: 30
+   wins: 5
+   losses: 25
+   inturn-total: 313
+   inturn-percent: 72
+   outturn-total: 249
+   outturn-percent: 68
+   draw-total: 346
+   draw-percent: 73
+   takeout-total: 216
+   takeout-percent: 67
+   shots-total: 562
+   shots-percent: 70
 years:
  - year: 1995
    event: Brier

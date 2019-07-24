@@ -2,19 +2,21 @@
 title: Randy Turpin
 name: Randy Turpin
 name-sort: Turpin, Randy
-games: 14
-wins: 6
-losses: 8
-inturn-total: 111
-inturn-percent: 82
-outturn-total: 111
-outturn-percent: 81
-draw-total: 127
-draw-percent: 81
-takeout-total: 95
-takeout-percent: 83
-shots-total: 222
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 14
+   wins: 6
+   losses: 8
+   inturn-total: 111
+   inturn-percent: 82
+   outturn-total: 111
+   outturn-percent: 81
+   draw-total: 127
+   draw-percent: 81
+   takeout-total: 95
+   takeout-percent: 83
+   shots-total: 222
+   shots-percent: 82
 years:
  - year: 2002
    event: Brier

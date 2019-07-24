@@ -2,19 +2,21 @@
 title: Sasha Carter
 name: Sasha Carter
 name-sort: Carter, Sasha
-games: 97
-wins: 65
-losses: 32
-inturn-total: 916
-inturn-percent: 81
-outturn-total: 932
-outturn-percent: 81
-draw-total: 777
-draw-percent: 79
-takeout-total: 1071
-takeout-percent: 83
-shots-total: 1848
-shots-percent: 81
+totals:
+ - event: Hearts
+   games: 97
+   wins: 65
+   losses: 32
+   inturn-total: 916
+   inturn-percent: 81
+   outturn-total: 932
+   outturn-percent: 81
+   draw-total: 777
+   draw-percent: 79
+   takeout-total: 1071
+   takeout-percent: 83
+   shots-total: 1848
+   shots-percent: 81
 years:
  - year: 2005
    event: Hearts

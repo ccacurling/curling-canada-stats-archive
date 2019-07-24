@@ -2,19 +2,21 @@
 title: Marilyn Bodogh
 name: Marilyn Bodogh
 name-sort: Bodogh, Marilyn
-games: 48
-wins: 32
-losses: 16
-inturn-total: 389
-inturn-percent: 71
-outturn-total: 481
-outturn-percent: 75
-draw-total: 421
-draw-percent: 70
-takeout-total: 449
-takeout-percent: 76
-shots-total: 870
-shots-percent: 73
+totals:
+ - event: Hearts
+   games: 48
+   wins: 32
+   losses: 16
+   inturn-total: 389
+   inturn-percent: 71
+   outturn-total: 481
+   outturn-percent: 75
+   draw-total: 421
+   draw-percent: 70
+   takeout-total: 449
+   takeout-percent: 76
+   shots-total: 870
+   shots-percent: 73
 years:
  - year: 1986
    event: Hearts

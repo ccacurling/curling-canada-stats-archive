@@ -2,19 +2,21 @@
 title: Allan Ledgerwood
 name: Allan Ledgerwood
 name-sort: Ledgerwood, Allan
-games: 12
-wins: 4
-losses: 8
-inturn-total: 10
-inturn-percent: 78
-outturn-total: 10
-outturn-percent: 68
-draw-total: 15
-draw-percent: 70
-takeout-total: 5
-takeout-percent: 80
-shots-total: 20
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 12
+   wins: 4
+   losses: 8
+   inturn-total: 10
+   inturn-percent: 78
+   outturn-total: 10
+   outturn-percent: 68
+   draw-total: 15
+   draw-percent: 70
+   takeout-total: 5
+   takeout-percent: 80
+   shots-total: 20
+   shots-percent: 73
 years:
  - year: 1984
    event: Brier

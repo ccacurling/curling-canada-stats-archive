@@ -2,19 +2,21 @@
 title: Doug Bryant
 name: Doug Bryant
 name-sort: Bryant, Doug
-games: 43
-wins: 11
-losses: 32
-inturn-total: 401
-inturn-percent: 81
-outturn-total: 426
-outturn-percent: 80
-draw-total: 422
-draw-percent: 81
-takeout-total: 405
-takeout-percent: 80
-shots-total: 827
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 43
+   wins: 11
+   losses: 32
+   inturn-total: 401
+   inturn-percent: 81
+   outturn-total: 426
+   outturn-percent: 80
+   draw-total: 422
+   draw-percent: 81
+   takeout-total: 405
+   takeout-percent: 80
+   shots-total: 827
+   shots-percent: 81
 years:
  - year: 1991
    event: Brier

@@ -2,19 +2,21 @@
 title: Diane Alexander
 name: Diane Alexander
 name-sort: Alexander, Diane
-games: 34
-wins: 19
-losses: 15
-inturn-total: 247
-inturn-percent: 70
-outturn-total: 400
-outturn-percent: 73
-draw-total: 273
-draw-percent: 76
-takeout-total: 374
-takeout-percent: 69
-shots-total: 647
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 34
+   wins: 19
+   losses: 15
+   inturn-total: 247
+   inturn-percent: 70
+   outturn-total: 400
+   outturn-percent: 73
+   draw-total: 273
+   draw-percent: 76
+   takeout-total: 374
+   takeout-percent: 69
+   shots-total: 647
+   shots-percent: 72
 years:
  - year: 1989
    event: Hearts

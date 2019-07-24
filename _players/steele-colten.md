@@ -2,19 +2,21 @@
 title: Colten Steele
 name: Colten Steele
 name-sort: Steele, Colten
-games: 7
-wins: 3
-losses: 4
-inturn-total: 73
-inturn-percent: 80
-outturn-total: 59
-outturn-percent: 81
-draw-total: 58
-draw-percent: 79
-takeout-total: 74
-takeout-percent: 81
-shots-total: 132
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 73
+   inturn-percent: 80
+   outturn-total: 59
+   outturn-percent: 81
+   draw-total: 58
+   draw-percent: 79
+   takeout-total: 74
+   takeout-percent: 81
+   shots-total: 132
+   shots-percent: 80
 years:
  - year: 2019
    event: Brier

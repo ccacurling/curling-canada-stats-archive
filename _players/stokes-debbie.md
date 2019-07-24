@@ -2,19 +2,21 @@
 title: Debbie Stokes
 name: Debbie Stokes
 name-sort: Stokes, Debbie
-games: 66
-wins: 18
-losses: 48
-inturn-total: 558
-inturn-percent: 67
-outturn-total: 702
-outturn-percent: 71
-draw-total: 646
-draw-percent: 71
-takeout-total: 614
-takeout-percent: 68
-shots-total: 1260
-shots-percent: 69
+totals:
+ - event: Hearts
+   games: 66
+   wins: 18
+   losses: 48
+   inturn-total: 558
+   inturn-percent: 67
+   outturn-total: 702
+   outturn-percent: 71
+   draw-total: 646
+   draw-percent: 71
+   takeout-total: 614
+   takeout-percent: 68
+   shots-total: 1260
+   shots-percent: 69
 years:
  - year: 1986
    event: Hearts

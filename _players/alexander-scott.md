@@ -2,19 +2,21 @@
 title: Scott Alexander
 name: Scott Alexander
 name-sort: Alexander, Scott
-games: 18
-wins: 4
-losses: 14
-inturn-total: 184
-inturn-percent: 80
-outturn-total: 143
-outturn-percent: 82
-draw-total: 251
-draw-percent: 82
-takeout-total: 76
-takeout-percent: 80
-shots-total: 327
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 18
+   wins: 4
+   losses: 14
+   inturn-total: 184
+   inturn-percent: 80
+   outturn-total: 143
+   outturn-percent: 82
+   draw-total: 251
+   draw-percent: 82
+   takeout-total: 76
+   takeout-percent: 80
+   shots-total: 327
+   shots-percent: 81
 years:
  - year: 1993
    event: Brier

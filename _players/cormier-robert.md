@@ -2,9 +2,11 @@
 title: Robert Cormier
 name: Robert Cormier
 name-sort: Cormier, Robert
-games: 24
-wins: 11
-losses: 13
+totals:
+ - event: Brier
+   games: 24
+   wins: 11
+   losses: 13
 years:
  - year: 1982
    event: Brier

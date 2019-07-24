@@ -2,19 +2,21 @@
 title: Ron Kapicki
 name: Ron Kapicki
 name-sort: Kapicki, Ron
-games: 54
-wins: 21
-losses: 33
-inturn-total: 472
-inturn-percent: 77
-outturn-total: 314
-outturn-percent: 75
-draw-total: 475
-draw-percent: 81
-takeout-total: 311
-takeout-percent: 68
-shots-total: 786
-shots-percent: 76
+totals:
+ - event: Brier
+   games: 54
+   wins: 21
+   losses: 33
+   inturn-total: 472
+   inturn-percent: 77
+   outturn-total: 314
+   outturn-percent: 75
+   draw-total: 475
+   draw-percent: 81
+   takeout-total: 311
+   takeout-percent: 68
+   shots-total: 786
+   shots-percent: 76
 years:
  - year: 1980
    event: Brier

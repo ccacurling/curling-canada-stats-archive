@@ -2,19 +2,21 @@
 title: Heather Smith
 name: Heather Smith
 name-sort: Smith, Heather
-games: 59
-wins: 30
-losses: 29
-inturn-total: 527
-inturn-percent: 76
-outturn-total: 591
-outturn-percent: 75
-draw-total: 474
-draw-percent: 72
-takeout-total: 644
-takeout-percent: 78
-shots-total: 1118
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 59
+   wins: 30
+   losses: 29
+   inturn-total: 527
+   inturn-percent: 76
+   outturn-total: 591
+   outturn-percent: 75
+   draw-total: 474
+   draw-percent: 72
+   takeout-total: 644
+   takeout-percent: 78
+   shots-total: 1118
+   shots-percent: 75
 years:
  - year: 2000
    event: Hearts

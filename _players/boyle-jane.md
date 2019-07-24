@@ -2,19 +2,21 @@
 title: Jane Boyle
 name: Jane Boyle
 name-sort: Boyle, Jane
-games: 25
-wins: 8
-losses: 17
-inturn-total: 301
-inturn-percent: 83
-outturn-total: 129
-outturn-percent: 74
-draw-total: 343
-draw-percent: 81
-takeout-total: 87
-takeout-percent: 80
-shots-total: 430
-shots-percent: 81
+totals:
+ - event: Hearts
+   games: 25
+   wins: 8
+   losses: 17
+   inturn-total: 301
+   inturn-percent: 83
+   outturn-total: 129
+   outturn-percent: 74
+   draw-total: 343
+   draw-percent: 81
+   takeout-total: 87
+   takeout-percent: 80
+   shots-total: 430
+   shots-percent: 81
 years:
  - year: 2007
    event: Hearts

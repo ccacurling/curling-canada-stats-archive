@@ -2,19 +2,21 @@
 title: Lindy Marchuk
 name: Lindy Marchuk
 name-sort: Marchuk, Lindy
-games: 32
-wins: 17
-losses: 15
-inturn-total: 283
-inturn-percent: 64
-outturn-total: 322
-outturn-percent: 69
-draw-total: 285
-draw-percent: 66
-takeout-total: 320
-takeout-percent: 67
-shots-total: 605
-shots-percent: 67
+totals:
+ - event: Hearts
+   games: 32
+   wins: 17
+   losses: 15
+   inturn-total: 283
+   inturn-percent: 64
+   outturn-total: 322
+   outturn-percent: 69
+   draw-total: 285
+   draw-percent: 66
+   takeout-total: 320
+   takeout-percent: 67
+   shots-total: 605
+   shots-percent: 67
 years:
  - year: 1982
    event: Hearts

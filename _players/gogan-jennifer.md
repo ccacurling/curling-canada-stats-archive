@@ -2,19 +2,21 @@
 title: Jennifer Gogan
 name: Jennifer Gogan
 name-sort: Gogan, Jennifer
-games: 21
-wins: 7
-losses: 14
-inturn-total: 187
-inturn-percent: 75
-outturn-total: 215
-outturn-percent: 71
-draw-total: 212
-draw-percent: 73
-takeout-total: 190
-takeout-percent: 73
-shots-total: 402
-shots-percent: 73
+totals:
+ - event: Hearts
+   games: 21
+   wins: 7
+   losses: 14
+   inturn-total: 187
+   inturn-percent: 75
+   outturn-total: 215
+   outturn-percent: 71
+   draw-total: 212
+   draw-percent: 73
+   takeout-total: 190
+   takeout-percent: 73
+   shots-total: 402
+   shots-percent: 73
 years:
  - year: 2003
    event: Hearts

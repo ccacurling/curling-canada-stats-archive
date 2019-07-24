@@ -2,19 +2,21 @@
 title: Betty McCrae
 name: Betty McCrae
 name-sort: McCrae, Betty
-games: 21
-wins: 14
-losses: 7
-inturn-total: 192
-inturn-percent: 57
-outturn-total: 206
-outturn-percent: 64
-draw-total: 173
-draw-percent: 61
-takeout-total: 225
-takeout-percent: 60
-shots-total: 398
-shots-percent: 61
+totals:
+ - event: Hearts
+   games: 21
+   wins: 14
+   losses: 7
+   inturn-total: 192
+   inturn-percent: 57
+   outturn-total: 206
+   outturn-percent: 64
+   draw-total: 173
+   draw-percent: 61
+   takeout-total: 225
+   takeout-percent: 60
+   shots-total: 398
+   shots-percent: 61
 years:
  - year: 1983
    event: Hearts

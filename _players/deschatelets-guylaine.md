@@ -2,19 +2,21 @@
 title: Guylaine Deschatelets
 name: Guylaine Deschatelets
 name-sort: Deschatelets, Guylaine
-games: 31
-wins: 16
-losses: 15
-inturn-total: 360
-inturn-percent: 75
-outturn-total: 266
-outturn-percent: 64
-draw-total: 264
-draw-percent: 68
-takeout-total: 362
-takeout-percent: 71
-shots-total: 626
-shots-percent: 70
+totals:
+ - event: Hearts
+   games: 31
+   wins: 16
+   losses: 15
+   inturn-total: 360
+   inturn-percent: 75
+   outturn-total: 266
+   outturn-percent: 64
+   draw-total: 264
+   draw-percent: 68
+   takeout-total: 362
+   takeout-percent: 71
+   shots-total: 626
+   shots-percent: 70
 years:
  - year: 1983
    event: Hearts

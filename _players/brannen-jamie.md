@@ -2,19 +2,21 @@
 title: Jamie Brannen
 name: Jamie Brannen
 name-sort: Brannen, Jamie
-games: 24
-wins: 5
-losses: 19
-inturn-total: 222
-inturn-percent: 82
-outturn-total: 222
-outturn-percent: 87
-draw-total: 376
-draw-percent: 85
-takeout-total: 68
-takeout-percent: 84
-shots-total: 444
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 24
+   wins: 5
+   losses: 19
+   inturn-total: 222
+   inturn-percent: 82
+   outturn-total: 222
+   outturn-percent: 87
+   draw-total: 376
+   draw-percent: 85
+   takeout-total: 68
+   takeout-percent: 84
+   shots-total: 444
+   shots-percent: 85
 years:
  - year: 2016
    event: Brier

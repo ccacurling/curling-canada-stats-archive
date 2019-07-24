@@ -2,19 +2,21 @@
 title: Allison MacInnes
 name: Allison MacInnes
 name-sort: MacInnes, Allison
-games: 24
-wins: 11
-losses: 13
-inturn-total: 234
-inturn-percent: 69
-outturn-total: 212
-outturn-percent: 72
-draw-total: 204
-draw-percent: 65
-takeout-total: 242
-takeout-percent: 76
-shots-total: 446
-shots-percent: 71
+totals:
+ - event: Hearts
+   games: 24
+   wins: 11
+   losses: 13
+   inturn-total: 234
+   inturn-percent: 69
+   outturn-total: 212
+   outturn-percent: 72
+   draw-total: 204
+   draw-percent: 65
+   takeout-total: 242
+   takeout-percent: 76
+   shots-total: 446
+   shots-percent: 71
 years:
  - year: 1998
    event: Hearts

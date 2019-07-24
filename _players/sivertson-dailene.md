@@ -2,19 +2,21 @@
 title: Dailene Sivertson
 name: Dailene Sivertson
 name-sort: Sivertson, Dailene
-games: 16
-wins: 12
-losses: 4
-inturn-total: 181
-inturn-percent: 78
-outturn-total: 132
-outturn-percent: 80
-draw-total: 157
-draw-percent: 80
-takeout-total: 156
-takeout-percent: 79
-shots-total: 313
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 16
+   wins: 12
+   losses: 4
+   inturn-total: 181
+   inturn-percent: 78
+   outturn-total: 132
+   outturn-percent: 80
+   draw-total: 157
+   draw-percent: 80
+   takeout-total: 156
+   takeout-percent: 79
+   shots-total: 313
+   shots-percent: 79
 years:
  - year: 2012
    event: Hearts

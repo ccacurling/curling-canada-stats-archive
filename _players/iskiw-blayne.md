@@ -2,19 +2,21 @@
 title: Blayne Iskiw
 name: Blayne Iskiw
 name-sort: Iskiw, Blayne
-games: 24
-wins: 14
-losses: 10
-inturn-total: 201
-inturn-percent: 76
-outturn-total: 233
-outturn-percent: 83
-draw-total: 201
-draw-percent: 79
-takeout-total: 233
-takeout-percent: 80
-shots-total: 434
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 24
+   wins: 14
+   losses: 10
+   inturn-total: 201
+   inturn-percent: 76
+   outturn-total: 233
+   outturn-percent: 83
+   draw-total: 201
+   draw-percent: 79
+   takeout-total: 233
+   takeout-percent: 80
+   shots-total: 434
+   shots-percent: 80
 years:
  - year: 1999
    event: Brier

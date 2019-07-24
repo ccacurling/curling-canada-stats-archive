@@ -2,19 +2,21 @@
 title: Marla Mallett
 name: Marla Mallett
 name-sort: Mallett, Marla
-games: 46
-wins: 19
-losses: 27
-inturn-total: 405
-inturn-percent: 74
-outturn-total: 461
-outturn-percent: 77
-draw-total: 384
-draw-percent: 70
-takeout-total: 482
-takeout-percent: 80
-shots-total: 866
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 46
+   wins: 19
+   losses: 27
+   inturn-total: 405
+   inturn-percent: 74
+   outturn-total: 461
+   outturn-percent: 77
+   draw-total: 384
+   draw-percent: 70
+   takeout-total: 482
+   takeout-percent: 80
+   shots-total: 866
+   shots-percent: 75
 years:
  - year: 1995
    event: Hearts

@@ -2,19 +2,21 @@
 title: Wade Scoffin
 name: Wade Scoffin
 name-sort: Scoffin, Wade
-games: 30
-wins: 7
-losses: 23
-inturn-total: 232
-inturn-percent: 77
-outturn-total: 339
-outturn-percent: 78
-draw-total: 307
-draw-percent: 77
-takeout-total: 264
-takeout-percent: 78
-shots-total: 571
-shots-percent: 77
+totals:
+ - event: Brier
+   games: 30
+   wins: 7
+   losses: 23
+   inturn-total: 232
+   inturn-percent: 77
+   outturn-total: 339
+   outturn-percent: 78
+   draw-total: 307
+   draw-percent: 77
+   takeout-total: 264
+   takeout-percent: 78
+   shots-total: 571
+   shots-percent: 77
 years:
  - year: 1997
    event: Brier

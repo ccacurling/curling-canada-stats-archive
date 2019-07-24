@@ -2,19 +2,21 @@
 title: Brad Wood
 name: Brad Wood
 name-sort: Wood, Brad
-games: 10
-wins: 1
-losses: 9
-inturn-total: 56
-inturn-percent: 84
-outturn-total: 76
-outturn-percent: 86
-draw-total: 122
-draw-percent: 86
-takeout-total: 10
-takeout-percent: 75
-shots-total: 132
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 10
+   wins: 1
+   losses: 9
+   inturn-total: 56
+   inturn-percent: 84
+   outturn-total: 76
+   outturn-percent: 86
+   draw-total: 122
+   draw-percent: 86
+   takeout-total: 10
+   takeout-percent: 75
+   shots-total: 132
+   shots-percent: 85
 years:
  - year: 2011
    event: Brier

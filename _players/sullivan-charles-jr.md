@@ -2,19 +2,21 @@
 title: Charles Jr Sullivan
 name: Charles Jr Sullivan
 name-sort: Sullivan, Charles Jr
-games: 60
-wins: 32
-losses: 28
-inturn-total: 521
-inturn-percent: 78
-outturn-total: 667
-outturn-percent: 82
-draw-total: 409
-draw-percent: 78
-takeout-total: 779
-takeout-percent: 81
-shots-total: 1188
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 60
+   wins: 32
+   losses: 28
+   inturn-total: 521
+   inturn-percent: 78
+   outturn-total: 667
+   outturn-percent: 82
+   draw-total: 409
+   draw-percent: 78
+   takeout-total: 779
+   takeout-percent: 81
+   shots-total: 1188
+   shots-percent: 80
 years:
  - year: 1990
    event: Brier

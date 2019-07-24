@@ -2,19 +2,21 @@
 title: Stuart Thompson
 name: Stuart Thompson
 name-sort: Thompson, Stuart
-games: 7
-wins: 3
-losses: 4
-inturn-total: 84
-inturn-percent: 80
-outturn-total: 46
-outturn-percent: 67
-draw-total: 56
-draw-percent: 72
-takeout-total: 74
-takeout-percent: 78
-shots-total: 130
-shots-percent: 76
+totals:
+ - event: Brier
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 84
+   inturn-percent: 80
+   outturn-total: 46
+   outturn-percent: 67
+   draw-total: 56
+   draw-percent: 72
+   takeout-total: 74
+   takeout-percent: 78
+   shots-total: 130
+   shots-percent: 76
 years:
  - year: 2019
    event: Brier

@@ -2,19 +2,21 @@
 title: Gary Mitchell
 name: Gary Mitchell
 name-sort: Mitchell, Gary
-games: 34
-wins: 12
-losses: 22
-inturn-total: 316
-inturn-percent: 71
-outturn-total: 318
-outturn-percent: 68
-draw-total: 307
-draw-percent: 69
-takeout-total: 327
-takeout-percent: 70
-shots-total: 634
-shots-percent: 70
+totals:
+ - event: Brier
+   games: 34
+   wins: 12
+   losses: 22
+   inturn-total: 316
+   inturn-percent: 71
+   outturn-total: 318
+   outturn-percent: 68
+   draw-total: 307
+   draw-percent: 69
+   takeout-total: 327
+   takeout-percent: 70
+   shots-total: 634
+   shots-percent: 70
 years:
  - year: 1985
    event: Brier

@@ -2,19 +2,21 @@
 title: Kelly Mittelstadt
 name: Kelly Mittelstadt
 name-sort: Mittelstadt, Kelly
-games: 33
-wins: 15
-losses: 18
-inturn-total: 150
-inturn-percent: 88
-outturn-total: 444
-outturn-percent: 85
-draw-total: 522
-draw-percent: 86
-takeout-total: 72
-takeout-percent: 80
-shots-total: 594
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 33
+   wins: 15
+   losses: 18
+   inturn-total: 150
+   inturn-percent: 88
+   outturn-total: 444
+   outturn-percent: 85
+   draw-total: 522
+   draw-percent: 86
+   takeout-total: 72
+   takeout-percent: 80
+   shots-total: 594
+   shots-percent: 85
 years:
  - year: 2005
    event: Brier

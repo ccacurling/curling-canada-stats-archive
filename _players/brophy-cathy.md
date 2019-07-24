@@ -2,19 +2,21 @@
 title: Cathy Brophy
 name: Cathy Brophy
 name-sort: Brophy, Cathy
-games: 22
-wins: 11
-losses: 11
-inturn-total: 238
-inturn-percent: 78
-outturn-total: 179
-outturn-percent: 73
-draw-total: 244
-draw-percent: 81
-takeout-total: 173
-takeout-percent: 68
-shots-total: 417
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 22
+   wins: 11
+   losses: 11
+   inturn-total: 238
+   inturn-percent: 78
+   outturn-total: 179
+   outturn-percent: 73
+   draw-total: 244
+   draw-percent: 81
+   takeout-total: 173
+   takeout-percent: 68
+   shots-total: 417
+   shots-percent: 76
 years:
  - year: 1988
    event: Hearts

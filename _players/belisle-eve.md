@@ -2,19 +2,21 @@
 title: Eve Belisle
 name: Eve Belisle
 name-sort: Belisle, Eve
-games: 35
-wins: 20
-losses: 15
-inturn-total: 278
-inturn-percent: 75
-outturn-total: 357
-outturn-percent: 68
-draw-total: 298
-draw-percent: 70
-takeout-total: 337
-takeout-percent: 73
-shots-total: 635
-shots-percent: 71
+totals:
+ - event: Hearts
+   games: 35
+   wins: 20
+   losses: 15
+   inturn-total: 278
+   inturn-percent: 75
+   outturn-total: 357
+   outturn-percent: 68
+   draw-total: 298
+   draw-percent: 70
+   takeout-total: 337
+   takeout-percent: 73
+   shots-total: 635
+   shots-percent: 71
 years:
  - year: 2006
    event: Hearts

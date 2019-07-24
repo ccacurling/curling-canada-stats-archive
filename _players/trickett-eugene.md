@@ -2,19 +2,21 @@
 title: Eugene Trickett
 name: Eugene Trickett
 name-sort: Trickett, Eugene
-games: 35
-wins: 21
-losses: 14
-inturn-total: 198
-inturn-percent: 78
-outturn-total: 241
-outturn-percent: 78
-draw-total: 262
-draw-percent: 80
-takeout-total: 177
-takeout-percent: 74
-shots-total: 439
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 35
+   wins: 21
+   losses: 14
+   inturn-total: 198
+   inturn-percent: 78
+   outturn-total: 241
+   outturn-percent: 78
+   draw-total: 262
+   draw-percent: 80
+   takeout-total: 177
+   takeout-percent: 74
+   shots-total: 439
+   shots-percent: 78
 years:
  - year: 1982
    event: Brier

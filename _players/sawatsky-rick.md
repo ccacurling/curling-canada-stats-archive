@@ -2,19 +2,21 @@
 title: Rick Sawatsky
 name: Rick Sawatsky
 name-sort: Sawatsky, Rick
-games: 92
-wins: 45
-losses: 47
-inturn-total: 933
-inturn-percent: 89
-outturn-total: 806
-outturn-percent: 88
-draw-total: 1517
-draw-percent: 90
-takeout-total: 222
-takeout-percent: 82
-shots-total: 1739
-shots-percent: 89
+totals:
+ - event: Brier
+   games: 92
+   wins: 45
+   losses: 47
+   inturn-total: 933
+   inturn-percent: 89
+   outturn-total: 806
+   outturn-percent: 88
+   draw-total: 1517
+   draw-percent: 90
+   takeout-total: 222
+   takeout-percent: 82
+   shots-total: 1739
+   shots-percent: 89
 years:
  - year: 2008
    event: Brier

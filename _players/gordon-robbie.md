@@ -2,19 +2,21 @@
 title: Robbie Gordon
 name: Robbie Gordon
 name-sort: Gordon, Robbie
-games: 22
-wins: 5
-losses: 17
-inturn-total: 200
-inturn-percent: 75
-outturn-total: 190
-outturn-percent: 64
-draw-total: 214
-draw-percent: 67
-takeout-total: 176
-takeout-percent: 72
-shots-total: 390
-shots-percent: 69
+totals:
+ - event: Brier
+   games: 22
+   wins: 5
+   losses: 17
+   inturn-total: 200
+   inturn-percent: 75
+   outturn-total: 190
+   outturn-percent: 64
+   draw-total: 214
+   draw-percent: 67
+   takeout-total: 176
+   takeout-percent: 72
+   shots-total: 390
+   shots-percent: 69
 years:
  - year: 2004
    event: Brier

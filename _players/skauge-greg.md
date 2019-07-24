@@ -2,19 +2,21 @@
 title: Greg Skauge
 name: Greg Skauge
 name-sort: Skauge, Greg
-games: 3
-wins: 0
-losses: 3
-inturn-total: 5
-inturn-percent: 70
-outturn-total: 5
-outturn-percent: 95
-draw-total: 10
-draw-percent: 83
-takeout-total: 0
-takeout-percent:
-shots-total: 10
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 3
+   wins: 0
+   losses: 3
+   inturn-total: 5
+   inturn-percent: 70
+   outturn-total: 5
+   outturn-percent: 95
+   draw-total: 10
+   draw-percent: 83
+   takeout-total: 0
+   takeout-percent:
+   shots-total: 10
+   shots-percent: 83
 years:
  - year: 2012
    event: Brier

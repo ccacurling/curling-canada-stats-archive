@@ -2,19 +2,21 @@
 title: Loralee Johnstone
 name: Loralee Johnstone
 name-sort: Johnstone, Loralee
-games: 22
-wins: 5
-losses: 17
-inturn-total: 161
-inturn-percent: 66
-outturn-total: 259
-outturn-percent: 75
-draw-total: 261
-draw-percent: 74
-takeout-total: 159
-takeout-percent: 68
-shots-total: 420
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 22
+   wins: 5
+   losses: 17
+   inturn-total: 161
+   inturn-percent: 66
+   outturn-total: 259
+   outturn-percent: 75
+   draw-total: 261
+   draw-percent: 74
+   takeout-total: 159
+   takeout-percent: 68
+   shots-total: 420
+   shots-percent: 72
 years:
  - year: 1992
    event: Hearts

@@ -2,19 +2,21 @@
 title: Julie Skinner
 name: Julie Skinner
 name-sort: Skinner, Julie
-games: 78
-wins: 54
-losses: 24
-inturn-total: 758
-inturn-percent: 78
-outturn-total: 685
-outturn-percent: 75
-draw-total: 595
-draw-percent: 74
-takeout-total: 848
-takeout-percent: 79
-shots-total: 1443
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 78
+   wins: 54
+   losses: 24
+   inturn-total: 758
+   inturn-percent: 78
+   outturn-total: 685
+   outturn-percent: 75
+   draw-total: 595
+   draw-percent: 74
+   takeout-total: 848
+   takeout-percent: 79
+   shots-total: 1443
+   shots-percent: 77
 years:
  - year: 1989
    event: Hearts

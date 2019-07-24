@@ -2,19 +2,21 @@
 title: Jill Brothers
 name: Jill Brothers
 name-sort: Brothers, Jill
-games: 39
-wins: 15
-losses: 24
-inturn-total: 394
-inturn-percent: 75
-outturn-total: 339
-outturn-percent: 72
-draw-total: 338
-draw-percent: 68
-takeout-total: 395
-takeout-percent: 79
-shots-total: 733
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 39
+   wins: 15
+   losses: 24
+   inturn-total: 394
+   inturn-percent: 75
+   outturn-total: 339
+   outturn-percent: 72
+   draw-total: 338
+   draw-percent: 68
+   takeout-total: 395
+   takeout-percent: 79
+   shots-total: 733
+   shots-percent: 74
 years:
  - year: 2007
    event: Hearts

@@ -2,19 +2,21 @@
 title: Allyson Bell
 name: Allyson Bell
 name-sort: Bell, Allyson
-games: 26
-wins: 16
-losses: 10
-inturn-total: 201
-inturn-percent: 69
-outturn-total: 291
-outturn-percent: 75
-draw-total: 188
-draw-percent: 72
-takeout-total: 304
-takeout-percent: 73
-shots-total: 492
-shots-percent: 73
+totals:
+ - event: Hearts
+   games: 26
+   wins: 16
+   losses: 10
+   inturn-total: 201
+   inturn-percent: 69
+   outturn-total: 291
+   outturn-percent: 75
+   draw-total: 188
+   draw-percent: 72
+   takeout-total: 304
+   takeout-percent: 73
+   shots-total: 492
+   shots-percent: 73
 years:
  - year: 1993
    event: Hearts

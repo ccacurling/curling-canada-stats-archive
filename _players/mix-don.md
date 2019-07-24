@@ -2,9 +2,11 @@
 title: Don Mix
 name: Don Mix
 name-sort: Mix, Don
-games: 11
-wins: 3
-losses: 8
+totals:
+ - event: Brier
+   games: 11
+   wins: 3
+   losses: 8
 years:
  - year: 1981
    event: Brier

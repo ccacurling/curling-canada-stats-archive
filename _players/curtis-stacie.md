@@ -2,19 +2,21 @@
 title: Stacie Curtis
 name: Stacie Curtis
 name-sort: Curtis, Stacie
-games: 53
-wins: 15
-losses: 38
-inturn-total: 439
-inturn-percent: 67
-outturn-total: 533
-outturn-percent: 69
-draw-total: 462
-draw-percent: 64
-takeout-total: 510
-takeout-percent: 72
-shots-total: 972
-shots-percent: 68
+totals:
+ - event: Hearts
+   games: 53
+   wins: 15
+   losses: 38
+   inturn-total: 439
+   inturn-percent: 67
+   outturn-total: 533
+   outturn-percent: 69
+   draw-total: 462
+   draw-percent: 64
+   takeout-total: 510
+   takeout-percent: 72
+   shots-total: 972
+   shots-percent: 68
 years:
  - year: 2011
    event: Hearts

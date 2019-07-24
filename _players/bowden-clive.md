@@ -2,9 +2,11 @@
 title: Clive Bowden
 name: Clive Bowden
 name-sort: Bowden, Clive
-games: 11
-wins: 5
-losses: 6
+totals:
+ - event: Brier
+   games: 11
+   wins: 5
+   losses: 6
 years:
  - year: 1982
    event: Brier

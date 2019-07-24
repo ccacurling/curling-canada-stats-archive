@@ -2,19 +2,21 @@
 title: Denise Nowlan
 name: Denise Nowlan
 name-sort: Nowlan, Denise
-games: 55
-wins: 16
-losses: 39
-inturn-total: 564
-inturn-percent: 73
-outturn-total: 472
-outturn-percent: 75
-draw-total: 474
-draw-percent: 72
-takeout-total: 562
-takeout-percent: 76
-shots-total: 1036
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 55
+   wins: 16
+   losses: 39
+   inturn-total: 564
+   inturn-percent: 73
+   outturn-total: 472
+   outturn-percent: 75
+   draw-total: 474
+   draw-percent: 72
+   takeout-total: 562
+   takeout-percent: 76
+   shots-total: 1036
+   shots-percent: 74
 years:
  - year: 1993
    event: Hearts

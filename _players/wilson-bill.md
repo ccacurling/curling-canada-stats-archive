@@ -2,9 +2,11 @@
 title: Bill Wilson
 name: Bill Wilson
 name-sort: Wilson, Bill
-games: 14
-wins: 9
-losses: 5
+totals:
+ - event: Brier
+   games: 14
+   wins: 9
+   losses: 5
 years:
  - year: 1981
    event: Brier

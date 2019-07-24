@@ -2,19 +2,21 @@
 title: Matt Nabuurs
 name: Matt Nabuurs
 name-sort: Nabuurs, Matt
-games: 2
-wins: 0
-losses: 2
-inturn-total: 9
-inturn-percent: 69
-outturn-total: 1
-outturn-percent: 100
-draw-total: 5
-draw-percent: 65
-takeout-total: 5
-takeout-percent: 80
-shots-total: 10
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 2
+   wins: 0
+   losses: 2
+   inturn-total: 9
+   inturn-percent: 69
+   outturn-total: 1
+   outturn-percent: 100
+   draw-total: 5
+   draw-percent: 65
+   takeout-total: 5
+   takeout-percent: 80
+   shots-total: 10
+   shots-percent: 73
 years:
  - year: 2019
    event: Brier

@@ -2,19 +2,21 @@
 title: Brett Gallant
 name: Brett Gallant
 name-sort: Gallant, Brett
-games: 89
-wins: 65
-losses: 24
-inturn-total: 699
-inturn-percent: 86
-outturn-total: 1019
-outturn-percent: 88
-draw-total: 619
-draw-percent: 86
-takeout-total: 1099
-takeout-percent: 88
-shots-total: 1718
-shots-percent: 87
+totals:
+ - event: Brier
+   games: 89
+   wins: 65
+   losses: 24
+   inturn-total: 699
+   inturn-percent: 86
+   outturn-total: 1019
+   outturn-percent: 88
+   draw-total: 619
+   draw-percent: 86
+   takeout-total: 1099
+   takeout-percent: 88
+   shots-total: 1718
+   shots-percent: 87
 years:
  - year: 2013
    event: Brier

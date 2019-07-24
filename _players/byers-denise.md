@@ -2,19 +2,21 @@
 title: Denise Byers
 name: Denise Byers
 name-sort: Byers, Denise
-games: 21
-wins: 7
-losses: 14
-inturn-total: 185
-inturn-percent: 79
-outturn-total: 211
-outturn-percent: 76
-draw-total: 224
-draw-percent: 75
-takeout-total: 172
-takeout-percent: 81
-shots-total: 396
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 21
+   wins: 7
+   losses: 14
+   inturn-total: 185
+   inturn-percent: 79
+   outturn-total: 211
+   outturn-percent: 76
+   draw-total: 224
+   draw-percent: 75
+   takeout-total: 172
+   takeout-percent: 81
+   shots-total: 396
+   shots-percent: 77
 years:
  - year: 1999
    event: Hearts

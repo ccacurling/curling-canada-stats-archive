@@ -2,19 +2,21 @@
 title: Bert Hinch
 name: Bert Hinch
 name-sort: Hinch, Bert
-games: 22
-wins: 9
-losses: 13
-inturn-total: 309
-inturn-percent: 82
-outturn-total: 113
-outturn-percent: 82
-draw-total: 337
-draw-percent: 83
-takeout-total: 85
-takeout-percent: 79
-shots-total: 422
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 22
+   wins: 9
+   losses: 13
+   inturn-total: 309
+   inturn-percent: 82
+   outturn-total: 113
+   outturn-percent: 82
+   draw-total: 337
+   draw-percent: 83
+   takeout-total: 85
+   takeout-percent: 79
+   shots-total: 422
+   shots-percent: 82
 years:
  - year: 1996
    event: Brier

@@ -2,19 +2,21 @@
 title: Jamie Schneider
 name: Jamie Schneider
 name-sort: Schneider, Jamie
-games: 13
-wins: 7
-losses: 6
-inturn-total: 108
-inturn-percent: 83
-outturn-total: 126
-outturn-percent: 84
-draw-total: 96
-draw-percent: 83
-takeout-total: 138
-takeout-percent: 84
-shots-total: 234
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 13
+   wins: 7
+   losses: 6
+   inturn-total: 108
+   inturn-percent: 83
+   outturn-total: 126
+   outturn-percent: 84
+   draw-total: 96
+   draw-percent: 83
+   takeout-total: 138
+   takeout-percent: 84
+   shots-total: 234
+   shots-percent: 84
 years:
  - year: 1990
    event: Brier

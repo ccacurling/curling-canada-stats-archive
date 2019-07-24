@@ -2,19 +2,21 @@
 title: Kelli Sharpe
 name: Kelli Sharpe
 name-sort: Sharpe, Kelli
-games: 69
-wins: 21
-losses: 48
-inturn-total: 640
-inturn-percent: 73
-outturn-total: 657
-outturn-percent: 71
-draw-total: 576
-draw-percent: 71
-takeout-total: 721
-takeout-percent: 72
-shots-total: 1297
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 69
+   wins: 21
+   losses: 48
+   inturn-total: 640
+   inturn-percent: 73
+   outturn-total: 657
+   outturn-percent: 71
+   draw-total: 576
+   draw-percent: 71
+   takeout-total: 721
+   takeout-percent: 72
+   shots-total: 1297
+   shots-percent: 72
 years:
  - year: 1998
    event: Hearts

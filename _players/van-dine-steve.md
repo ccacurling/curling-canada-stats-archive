@@ -2,19 +2,21 @@
 title: Steve Van Dine
 name: Steve Van Dine
 name-sort: Van Dine, Steve
-games: 22
-wins: 4
-losses: 18
-inturn-total: 201
-inturn-percent: 76
-outturn-total: 219
-outturn-percent: 70
-draw-total: 173
-draw-percent: 77
-takeout-total: 247
-takeout-percent: 69
-shots-total: 420
-shots-percent: 72
+totals:
+ - event: Brier
+   games: 22
+   wins: 4
+   losses: 18
+   inturn-total: 201
+   inturn-percent: 76
+   outturn-total: 219
+   outturn-percent: 70
+   draw-total: 173
+   draw-percent: 77
+   takeout-total: 247
+   takeout-percent: 69
+   shots-total: 420
+   shots-percent: 72
 years:
  - year: 1992
    event: Brier

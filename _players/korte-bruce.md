@@ -2,19 +2,21 @@
 title: Bruce Korte
 name: Bruce Korte
 name-sort: Korte, Bruce
-games: 33
-wins: 14
-losses: 19
-inturn-total: 296
-inturn-percent: 83
-outturn-total: 317
-outturn-percent: 80
-draw-total: 282
-draw-percent: 76
-takeout-total: 331
-takeout-percent: 86
-shots-total: 613
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 33
+   wins: 14
+   losses: 19
+   inturn-total: 296
+   inturn-percent: 83
+   outturn-total: 317
+   outturn-percent: 80
+   draw-total: 282
+   draw-percent: 76
+   takeout-total: 331
+   takeout-percent: 86
+   shots-total: 613
+   shots-percent: 82
 years:
  - year: 2000
    event: Brier

@@ -2,9 +2,11 @@
 title: Lloyd Lang
 name: Lloyd Lang
 name-sort: Lang, Lloyd
-games: 13
-wins: 7
-losses: 6
+totals:
+ - event: Brier
+   games: 13
+   wins: 7
+   losses: 6
 years:
  - year: 1982
    event: Brier

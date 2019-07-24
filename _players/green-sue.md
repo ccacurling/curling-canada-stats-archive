@@ -2,19 +2,21 @@
 title: Sue Green
 name: Sue Green
 name-sort: Green, Sue
-games: 23
-wins: 15
-losses: 8
-inturn-total: 184
-inturn-percent: 74
-outturn-total: 241
-outturn-percent: 72
-draw-total: 230
-draw-percent: 72
-takeout-total: 195
-takeout-percent: 74
-shots-total: 425
-shots-percent: 73
+totals:
+ - event: Hearts
+   games: 23
+   wins: 15
+   losses: 8
+   inturn-total: 184
+   inturn-percent: 74
+   outturn-total: 241
+   outturn-percent: 72
+   draw-total: 230
+   draw-percent: 72
+   takeout-total: 195
+   takeout-percent: 74
+   shots-total: 425
+   shots-percent: 73
 years:
  - year: 1990
    event: Hearts

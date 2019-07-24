@@ -2,19 +2,21 @@
 title: Jill Thurston
 name: Jill Thurston
 name-sort: Thurston, Jill
-games: 23
-wins: 11
-losses: 12
-inturn-total: 209
-inturn-percent: 74
-outturn-total: 214
-outturn-percent: 70
-draw-total: 198
-draw-percent: 70
-takeout-total: 225
-takeout-percent: 73
-shots-total: 423
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 23
+   wins: 11
+   losses: 12
+   inturn-total: 209
+   inturn-percent: 74
+   outturn-total: 214
+   outturn-percent: 70
+   draw-total: 198
+   draw-percent: 70
+   takeout-total: 225
+   takeout-percent: 73
+   shots-total: 423
+   shots-percent: 72
 years:
  - year: 1999
    event: Hearts

@@ -2,19 +2,21 @@
 title: Anne Dunn
 name: Anne Dunn
 name-sort: Dunn, Anne
-games: 22
-wins: 11
-losses: 11
-inturn-total: 186
-inturn-percent: 68
-outturn-total: 223
-outturn-percent: 75
-draw-total: 189
-draw-percent: 73
-takeout-total: 220
-takeout-percent: 71
-shots-total: 409
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 22
+   wins: 11
+   losses: 11
+   inturn-total: 186
+   inturn-percent: 68
+   outturn-total: 223
+   outturn-percent: 75
+   draw-total: 189
+   draw-percent: 73
+   takeout-total: 220
+   takeout-percent: 71
+   shots-total: 409
+   shots-percent: 72
 years:
  - year: 1987
    event: Hearts

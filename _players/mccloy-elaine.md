@@ -2,19 +2,21 @@
 title: Elaine McCloy
 name: Elaine McCloy
 name-sort: McCloy, Elaine
-games: 24
-wins: 14
-losses: 10
-inturn-total: 159
-inturn-percent: 73
-outturn-total: 298
-outturn-percent: 79
-draw-total: 290
-draw-percent: 75
-takeout-total: 167
-takeout-percent: 79
-shots-total: 457
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 24
+   wins: 14
+   losses: 10
+   inturn-total: 159
+   inturn-percent: 73
+   outturn-total: 298
+   outturn-percent: 79
+   draw-total: 290
+   draw-percent: 75
+   takeout-total: 167
+   takeout-percent: 79
+   shots-total: 457
+   shots-percent: 77
 years:
  - year: 1994
    event: Hearts

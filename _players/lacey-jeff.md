@@ -2,19 +2,21 @@
 title: Jeff Lacey
 name: Jeff Lacey
 name-sort: Lacey, Jeff
-games: 44
-wins: 26
-losses: 18
-inturn-total: 226
-inturn-percent: 83
-outturn-total: 560
-outturn-percent: 84
-draw-total: 591
-draw-percent: 85
-takeout-total: 195
-takeout-percent: 81
-shots-total: 786
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 44
+   wins: 26
+   losses: 18
+   inturn-total: 226
+   inturn-percent: 83
+   outturn-total: 560
+   outturn-percent: 84
+   draw-total: 591
+   draw-percent: 85
+   takeout-total: 195
+   takeout-percent: 81
+   shots-total: 786
+   shots-percent: 84
 years:
  - year: 1997
    event: Brier

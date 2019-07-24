@@ -2,19 +2,21 @@
 title: Bill MacFadyen
 name: Bill MacFadyen
 name-sort: MacFadyen, Bill
-games: 55
-wins: 22
-losses: 33
-inturn-total: 399
-inturn-percent: 73
-outturn-total: 460
-outturn-percent: 73
-draw-total: 414
-draw-percent: 72
-takeout-total: 445
-takeout-percent: 74
-shots-total: 859
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 55
+   wins: 22
+   losses: 33
+   inturn-total: 399
+   inturn-percent: 73
+   outturn-total: 460
+   outturn-percent: 73
+   draw-total: 414
+   draw-percent: 72
+   takeout-total: 445
+   takeout-percent: 74
+   shots-total: 859
+   shots-percent: 73
 years:
  - year: 1980
    event: Brier

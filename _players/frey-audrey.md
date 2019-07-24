@@ -2,19 +2,21 @@
 title: Audrey Frey
 name: Audrey Frey
 name-sort: Frey, Audrey
-games: 50
-wins: 31
-losses: 19
-inturn-total: 481
-inturn-percent: 82
-outturn-total: 460
-outturn-percent: 81
-draw-total: 572
-draw-percent: 81
-takeout-total: 369
-takeout-percent: 82
-shots-total: 941
-shots-percent: 82
+totals:
+ - event: Hearts
+   games: 50
+   wins: 31
+   losses: 19
+   inturn-total: 481
+   inturn-percent: 82
+   outturn-total: 460
+   outturn-percent: 81
+   draw-total: 572
+   draw-percent: 81
+   takeout-total: 369
+   takeout-percent: 82
+   shots-total: 941
+   shots-percent: 82
 years:
  - year: 1993
    event: Hearts

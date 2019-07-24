@@ -2,19 +2,21 @@
 title: Cindy Tucker
 name: Cindy Tucker
 name-sort: Tucker, Cindy
-games: 23
-wins: 10
-losses: 13
-inturn-total: 208
-inturn-percent: 75
-outturn-total: 206
-outturn-percent: 70
-draw-total: 186
-draw-percent: 76
-takeout-total: 228
-takeout-percent: 70
-shots-total: 414
-shots-percent: 73
+totals:
+ - event: Hearts
+   games: 23
+   wins: 10
+   losses: 13
+   inturn-total: 208
+   inturn-percent: 75
+   outturn-total: 206
+   outturn-percent: 70
+   draw-total: 186
+   draw-percent: 76
+   takeout-total: 228
+   takeout-percent: 70
+   shots-total: 414
+   shots-percent: 73
 years:
  - year: 1988
    event: Hearts

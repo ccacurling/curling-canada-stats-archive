@@ -2,19 +2,21 @@
 title: Michelle Jewer
 name: Michelle Jewer
 name-sort: Jewer, Michelle
-games: 6
-wins: 0
-losses: 6
-inturn-total: 44
-inturn-percent: 78
-outturn-total: 34
-outturn-percent: 79
-draw-total: 66
-draw-percent: 81
-takeout-total: 12
-takeout-percent: 60
-shots-total: 78
-shots-percent: 78
+totals:
+ - event: Hearts
+   games: 6
+   wins: 0
+   losses: 6
+   inturn-total: 44
+   inturn-percent: 78
+   outturn-total: 34
+   outturn-percent: 79
+   draw-total: 66
+   draw-percent: 81
+   takeout-total: 12
+   takeout-percent: 60
+   shots-total: 78
+   shots-percent: 78
 years:
  - year: 2010
    event: Hearts

@@ -2,19 +2,21 @@
 title: Scott Henderson
 name: Scott Henderson
 name-sort: Henderson, Scott
-games: 37
-wins: 21
-losses: 16
-inturn-total: 378
-inturn-percent: 79
-outturn-total: 340
-outturn-percent: 76
-draw-total: 335
-draw-percent: 77
-takeout-total: 383
-takeout-percent: 78
-shots-total: 718
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 37
+   wins: 21
+   losses: 16
+   inturn-total: 378
+   inturn-percent: 79
+   outturn-total: 340
+   outturn-percent: 76
+   draw-total: 335
+   draw-percent: 77
+   takeout-total: 383
+   takeout-percent: 78
+   shots-total: 718
+   shots-percent: 78
 years:
  - year: 1991
    event: Brier

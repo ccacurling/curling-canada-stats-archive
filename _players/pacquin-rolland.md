@@ -2,9 +2,11 @@
 title: Rolland Pacquin
 name: Rolland Pacquin
 name-sort: Pacquin, Rolland
-games: 11
-wins: 3
-losses: 8
+totals:
+ - event: Brier
+   games: 11
+   wins: 3
+   losses: 8
 years:
  - year: 1984
    event: Brier

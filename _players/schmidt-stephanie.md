@@ -2,19 +2,21 @@
 title: Stephanie Schmidt
 name: Stephanie Schmidt
 name-sort: Schmidt, Stephanie
-games: 15
-wins: 10
-losses: 5
-inturn-total: 139
-inturn-percent: 83
-outturn-total: 135
-outturn-percent: 82
-draw-total: 98
-draw-percent: 83
-takeout-total: 176
-takeout-percent: 83
-shots-total: 274
-shots-percent: 83
+totals:
+ - event: Hearts
+   games: 15
+   wins: 10
+   losses: 5
+   inturn-total: 139
+   inturn-percent: 83
+   outturn-total: 135
+   outturn-percent: 82
+   draw-total: 98
+   draw-percent: 83
+   takeout-total: 176
+   takeout-percent: 83
+   shots-total: 274
+   shots-percent: 83
 years:
  - year: 2014
    event: Hearts

@@ -2,19 +2,21 @@
 title: Ted Butler
 name: Ted Butler
 name-sort: Butler, Ted
-games: 12
-wins: 7
-losses: 5
-inturn-total: 101
-inturn-percent: 72
-outturn-total: 109
-outturn-percent: 79
-draw-total: 101
-draw-percent: 69
-takeout-total: 109
-takeout-percent: 81
-shots-total: 210
-shots-percent: 75
+totals:
+ - event: Brier
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 101
+   inturn-percent: 72
+   outturn-total: 109
+   outturn-percent: 79
+   draw-total: 101
+   draw-percent: 69
+   takeout-total: 109
+   takeout-percent: 81
+   shots-total: 210
+   shots-percent: 75
 years:
  - year: 1989
    event: Brier

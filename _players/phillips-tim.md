@@ -2,19 +2,21 @@
 title: Tim Phillips
 name: Tim Phillips
 name-sort: Phillips, Tim
-games: 22
-wins: 7
-losses: 15
-inturn-total: 209
-inturn-percent: 74
-outturn-total: 200
-outturn-percent: 71
-draw-total: 199
-draw-percent: 68
-takeout-total: 210
-takeout-percent: 77
-shots-total: 409
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 22
+   wins: 7
+   losses: 15
+   inturn-total: 209
+   inturn-percent: 74
+   outturn-total: 200
+   outturn-percent: 71
+   draw-total: 199
+   draw-percent: 68
+   takeout-total: 210
+   takeout-percent: 77
+   shots-total: 409
+   shots-percent: 73
 years:
  - year: 2000
    event: Brier

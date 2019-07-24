@@ -2,19 +2,21 @@
 title: Beth Hamilton
 name: Beth Hamilton
 name-sort: Hamilton, Beth
-games: 17
-wins: 2
-losses: 15
-inturn-total: 149
-inturn-percent: 71
-outturn-total: 163
-outturn-percent: 68
-draw-total: 172
-draw-percent: 66
-takeout-total: 140
-takeout-percent: 73
-shots-total: 312
-shots-percent: 70
+totals:
+ - event: Hearts
+   games: 17
+   wins: 2
+   losses: 15
+   inturn-total: 149
+   inturn-percent: 71
+   outturn-total: 163
+   outturn-percent: 68
+   draw-total: 172
+   draw-percent: 66
+   takeout-total: 140
+   takeout-percent: 73
+   shots-total: 312
+   shots-percent: 70
 years:
  - year: 2005
    event: Hearts

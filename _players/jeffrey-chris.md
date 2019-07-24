@@ -2,19 +2,21 @@
 title: Chris Jeffrey
 name: Chris Jeffrey
 name-sort: Jeffrey, Chris
-games: 19
-wins: 5
-losses: 14
-inturn-total: 156
-inturn-percent: 78
-outturn-total: 196
-outturn-percent: 82
-draw-total: 175
-draw-percent: 82
-takeout-total: 177
-takeout-percent: 78
-shots-total: 352
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 19
+   wins: 5
+   losses: 14
+   inturn-total: 156
+   inturn-percent: 78
+   outturn-total: 196
+   outturn-percent: 82
+   draw-total: 175
+   draw-percent: 82
+   takeout-total: 177
+   takeout-percent: 78
+   shots-total: 352
+   shots-percent: 80
 years:
  - year: 2015
    event: Brier

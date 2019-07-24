@@ -2,19 +2,21 @@
 title: Steve Laycock
 name: Steve Laycock
 name-sort: Laycock, Steve
-games: 92
-wins: 49
-losses: 43
-inturn-total: 947
-inturn-percent: 84
-outturn-total: 835
-outturn-percent: 84
-draw-total: 979
-draw-percent: 85
-takeout-total: 803
-takeout-percent: 83
-shots-total: 1782
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 92
+   wins: 49
+   losses: 43
+   inturn-total: 947
+   inturn-percent: 84
+   outturn-total: 835
+   outturn-percent: 84
+   draw-total: 979
+   draw-percent: 85
+   takeout-total: 803
+   takeout-percent: 83
+   shots-total: 1782
+   shots-percent: 84
 years:
  - year: 2007
    event: Brier

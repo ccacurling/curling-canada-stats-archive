@@ -2,19 +2,21 @@
 title: Cathy Shaw
 name: Cathy Shaw
 name-sort: Shaw, Cathy
-games: 23
-wins: 15
-losses: 8
-inturn-total: 178
-inturn-percent: 67
-outturn-total: 232
-outturn-percent: 70
-draw-total: 175
-draw-percent: 68
-takeout-total: 235
-takeout-percent: 70
-shots-total: 410
-shots-percent: 69
+totals:
+ - event: Hearts
+   games: 23
+   wins: 15
+   losses: 8
+   inturn-total: 178
+   inturn-percent: 67
+   outturn-total: 232
+   outturn-percent: 70
+   draw-total: 175
+   draw-percent: 68
+   takeout-total: 235
+   takeout-percent: 70
+   shots-total: 410
+   shots-percent: 69
 years:
  - year: 1982
    event: Hearts

@@ -2,19 +2,21 @@
 title: Barbara Currie
 name: Barbara Currie
 name-sort: Currie, Barbara
-games: 21
-wins: 4
-losses: 17
-inturn-total: 156
-inturn-percent: 54
-outturn-total: 193
-outturn-percent: 57
-draw-total: 167
-draw-percent: 52
-takeout-total: 182
-takeout-percent: 59
-shots-total: 349
-shots-percent: 56
+totals:
+ - event: Hearts
+   games: 21
+   wins: 4
+   losses: 17
+   inturn-total: 156
+   inturn-percent: 54
+   outturn-total: 193
+   outturn-percent: 57
+   draw-total: 167
+   draw-percent: 52
+   takeout-total: 182
+   takeout-percent: 59
+   shots-total: 349
+   shots-percent: 56
 years:
  - year: 1984
    event: Hearts

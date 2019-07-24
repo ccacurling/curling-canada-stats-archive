@@ -2,19 +2,21 @@
 title: Teejay Surik
 name: Teejay Surik
 name-sort: Surik, Teejay
-games: 11
-wins: 1
-losses: 10
-inturn-total: 123
-inturn-percent: 69
-outturn-total: 82
-outturn-percent: 75
-draw-total: 109
-draw-percent: 68
-takeout-total: 96
-takeout-percent: 75
-shots-total: 205
-shots-percent: 71
+totals:
+ - event: Hearts
+   games: 11
+   wins: 1
+   losses: 10
+   inturn-total: 123
+   inturn-percent: 69
+   outturn-total: 82
+   outturn-percent: 75
+   draw-total: 109
+   draw-percent: 68
+   takeout-total: 96
+   takeout-percent: 75
+   shots-total: 205
+   shots-percent: 71
 years:
  - year: 2008
    event: Hearts

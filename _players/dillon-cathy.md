@@ -2,19 +2,21 @@
 title: Cathy Dillon
 name: Cathy Dillon
 name-sort: Dillon, Cathy
-games: 20
-wins: 8
-losses: 12
-inturn-total: 212
-inturn-percent: 69
-outturn-total: 174
-outturn-percent: 69
-draw-total: 183
-draw-percent: 70
-takeout-total: 203
-takeout-percent: 68
-shots-total: 386
-shots-percent: 69
+totals:
+ - event: Hearts
+   games: 20
+   wins: 8
+   losses: 12
+   inturn-total: 212
+   inturn-percent: 69
+   outturn-total: 174
+   outturn-percent: 69
+   draw-total: 183
+   draw-percent: 70
+   takeout-total: 203
+   takeout-percent: 68
+   shots-total: 386
+   shots-percent: 69
 years:
  - year: 1983
    event: Hearts

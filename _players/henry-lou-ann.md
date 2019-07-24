@@ -2,19 +2,21 @@
 title: Lou Ann Henry
 name: Lou Ann Henry
 name-sort: Henry, Lou Ann
-games: 26
-wins: 15
-losses: 11
-inturn-total: 179
-inturn-percent: 75
-outturn-total: 306
-outturn-percent: 81
-draw-total: 316
-draw-percent: 79
-takeout-total: 169
-takeout-percent: 77
-shots-total: 485
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 26
+   wins: 15
+   losses: 11
+   inturn-total: 179
+   inturn-percent: 75
+   outturn-total: 306
+   outturn-percent: 81
+   draw-total: 316
+   draw-percent: 79
+   takeout-total: 169
+   takeout-percent: 77
+   shots-total: 485
+   shots-percent: 79
 years:
  - year: 1995
    event: Hearts

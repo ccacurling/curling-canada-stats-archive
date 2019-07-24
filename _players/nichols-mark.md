@@ -2,19 +2,21 @@
 title: Mark Nichols
 name: Mark Nichols
 name-sort: Nichols, Mark
-games: 188
-wins: 132
-losses: 56
-inturn-total: 1480
-inturn-percent: 84
-outturn-total: 2071
-outturn-percent: 85
-draw-total: 1482
-draw-percent: 85
-takeout-total: 2069
-takeout-percent: 84
-shots-total: 3551
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 188
+   wins: 132
+   losses: 56
+   inturn-total: 1480
+   inturn-percent: 84
+   outturn-total: 2071
+   outturn-percent: 85
+   draw-total: 1482
+   draw-percent: 85
+   takeout-total: 2069
+   takeout-percent: 84
+   shots-total: 3551
+   shots-percent: 85
 years:
  - year: 2003
    event: Brier

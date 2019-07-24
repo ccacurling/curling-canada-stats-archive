@@ -2,19 +2,21 @@
 title: Shelley Aucoin
 name: Shelley Aucoin
 name-sort: Aucoin, Shelley
-games: 55
-wins: 19
-losses: 36
-inturn-total: 423
-inturn-percent: 62
-outturn-total: 585
-outturn-percent: 67
-draw-total: 468
-draw-percent: 61
-takeout-total: 540
-takeout-percent: 68
-shots-total: 1008
-shots-percent: 65
+totals:
+ - event: Hearts
+   games: 55
+   wins: 19
+   losses: 36
+   inturn-total: 423
+   inturn-percent: 62
+   outturn-total: 585
+   outturn-percent: 67
+   draw-total: 468
+   draw-percent: 61
+   takeout-total: 540
+   takeout-percent: 68
+   shots-total: 1008
+   shots-percent: 65
 years:
  - year: 1986
    event: Hearts

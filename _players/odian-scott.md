@@ -2,19 +2,21 @@
 title: Scott Odian
 name: Scott Odian
 name-sort: Odian, Scott
-games: 17
-wins: 5
-losses: 12
-inturn-total: 154
-inturn-percent: 75
-outturn-total: 161
-outturn-percent: 74
-draw-total: 238
-draw-percent: 78
-takeout-total: 77
-takeout-percent: 64
-shots-total: 315
-shots-percent: 74
+totals:
+ - event: Brier
+   games: 17
+   wins: 5
+   losses: 12
+   inturn-total: 154
+   inturn-percent: 75
+   outturn-total: 161
+   outturn-percent: 74
+   draw-total: 238
+   draw-percent: 78
+   takeout-total: 77
+   takeout-percent: 64
+   shots-total: 315
+   shots-percent: 74
 years:
  - year: 1995
    event: Brier

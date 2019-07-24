@@ -2,19 +2,21 @@
 title: Kim Moore
 name: Kim Moore
 name-sort: Moore, Kim
-games: 27
-wins: 17
-losses: 10
-inturn-total: 257
-inturn-percent: 79
-outturn-total: 269
-outturn-percent: 78
-draw-total: 225
-draw-percent: 77
-takeout-total: 301
-takeout-percent: 80
-shots-total: 526
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 27
+   wins: 17
+   losses: 10
+   inturn-total: 257
+   inturn-percent: 79
+   outturn-total: 269
+   outturn-percent: 78
+   draw-total: 225
+   draw-percent: 77
+   takeout-total: 301
+   takeout-percent: 80
+   shots-total: 526
+   shots-percent: 79
 years:
  - year: 1997
    event: Hearts

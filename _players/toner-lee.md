@@ -2,19 +2,21 @@
 title: Lee Toner
 name: Lee Toner
 name-sort: Toner, Lee
-games: 33
-wins: 10
-losses: 23
-inturn-total: 255
-inturn-percent: 83
-outturn-total: 365
-outturn-percent: 85
-draw-total: 557
-draw-percent: 85
-takeout-total: 63
-takeout-percent: 74
-shots-total: 620
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 33
+   wins: 10
+   losses: 23
+   inturn-total: 255
+   inturn-percent: 83
+   outturn-total: 365
+   outturn-percent: 85
+   draw-total: 557
+   draw-percent: 85
+   takeout-total: 63
+   takeout-percent: 74
+   shots-total: 620
+   shots-percent: 84
 years:
  - year: 2005
    event: Brier

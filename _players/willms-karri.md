@@ -2,19 +2,21 @@
 title: Karri Willms
 name: Karri Willms
 name-sort: Willms, Karri
-games: 35
-wins: 26
-losses: 9
-inturn-total: 396
-inturn-percent: 78
-outturn-total: 243
-outturn-percent: 70
-draw-total: 313
-draw-percent: 78
-takeout-total: 326
-takeout-percent: 72
-shots-total: 639
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 35
+   wins: 26
+   losses: 9
+   inturn-total: 396
+   inturn-percent: 78
+   outturn-total: 243
+   outturn-percent: 70
+   draw-total: 313
+   draw-percent: 78
+   takeout-total: 326
+   takeout-percent: 72
+   shots-total: 639
+   shots-percent: 75
 years:
  - year: 1991
    event: Hearts

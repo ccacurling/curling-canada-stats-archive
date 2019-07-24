@@ -2,19 +2,21 @@
 title: Jessie Hunkin
 name: Jessie Hunkin
 name-sort: Hunkin, Jessie
-games: 13
-wins: 8
-losses: 5
-inturn-total: 133
-inturn-percent: 75
-outturn-total: 119
-outturn-percent: 82
-draw-total: 115
-draw-percent: 75
-takeout-total: 137
-takeout-percent: 81
-shots-total: 252
-shots-percent: 78
+totals:
+ - event: Hearts
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 133
+   inturn-percent: 75
+   outturn-total: 119
+   outturn-percent: 82
+   draw-total: 115
+   draw-percent: 75
+   takeout-total: 137
+   takeout-percent: 81
+   shots-total: 252
+   shots-percent: 78
 years:
  - year: 2019
    event: Hearts

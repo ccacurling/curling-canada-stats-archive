@@ -2,19 +2,21 @@
 title: Jamie Murphy
 name: Jamie Murphy
 name-sort: Murphy, Jamie
-games: 44
-wins: 13
-losses: 31
-inturn-total: 356
-inturn-percent: 74
-outturn-total: 459
-outturn-percent: 79
-draw-total: 375
-draw-percent: 77
-takeout-total: 440
-takeout-percent: 76
-shots-total: 815
-shots-percent: 77
+totals:
+ - event: Brier
+   games: 44
+   wins: 13
+   losses: 31
+   inturn-total: 356
+   inturn-percent: 74
+   outturn-total: 459
+   outturn-percent: 79
+   draw-total: 375
+   draw-percent: 77
+   takeout-total: 440
+   takeout-percent: 76
+   shots-total: 815
+   shots-percent: 77
 years:
  - year: 2012
    event: Brier

@@ -2,19 +2,21 @@
 title: Rick Rowsell
 name: Rick Rowsell
 name-sort: Rowsell, Rick
-games: 25
-wins: 8
-losses: 17
-inturn-total: 226
-inturn-percent: 74
-outturn-total: 217
-outturn-percent: 74
-draw-total: 202
-draw-percent: 74
-takeout-total: 241
-takeout-percent: 74
-shots-total: 443
-shots-percent: 74
+totals:
+ - event: Brier
+   games: 25
+   wins: 8
+   losses: 17
+   inturn-total: 226
+   inturn-percent: 74
+   outturn-total: 217
+   outturn-percent: 74
+   draw-total: 202
+   draw-percent: 74
+   takeout-total: 241
+   takeout-percent: 74
+   shots-total: 443
+   shots-percent: 74
 years:
  - year: 1996
    event: Brier

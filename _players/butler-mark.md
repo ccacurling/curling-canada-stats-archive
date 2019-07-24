@@ -2,19 +2,21 @@
 title: Mark Butler
 name: Mark Butler
 name-sort: Butler, Mark
-games: 72
-wins: 29
-losses: 43
-inturn-total: 554
-inturn-percent: 85
-outturn-total: 816
-outturn-percent: 84
-draw-total: 961
-draw-percent: 86
-takeout-total: 409
-takeout-percent: 80
-shots-total: 1370
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 72
+   wins: 29
+   losses: 43
+   inturn-total: 554
+   inturn-percent: 85
+   outturn-total: 816
+   outturn-percent: 84
+   draw-total: 961
+   draw-percent: 86
+   takeout-total: 409
+   takeout-percent: 80
+   shots-total: 1370
+   shots-percent: 84
 years:
  - year: 1991
    event: Brier

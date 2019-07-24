@@ -2,19 +2,21 @@
 title: Bernie Sparkes
 name: Bernie Sparkes
 name-sort: Sparkes, Bernie
-games: 36
-wins: 23
-losses: 13
-inturn-total: 78
-inturn-percent: 82
-outturn-total: 164
-outturn-percent: 78
-draw-total: 125
-draw-percent: 78
-takeout-total: 117
-takeout-percent: 81
-shots-total: 242
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 36
+   wins: 23
+   losses: 13
+   inturn-total: 78
+   inturn-percent: 82
+   outturn-total: 164
+   outturn-percent: 78
+   draw-total: 125
+   draw-percent: 78
+   takeout-total: 117
+   takeout-percent: 81
+   shots-total: 242
+   shots-percent: 80
 years:
  - year: 1983
    event: Brier

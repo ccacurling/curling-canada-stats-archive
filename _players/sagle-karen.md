@@ -2,19 +2,21 @@
 title: Karen Sagle
 name: Karen Sagle
 name-sort: Sagle, Karen
-games: 23
-wins: 11
-losses: 12
-inturn-total: 140
-inturn-percent: 85
-outturn-total: 306
-outturn-percent: 89
-draw-total: 362
-draw-percent: 88
-takeout-total: 84
-takeout-percent: 83
-shots-total: 446
-shots-percent: 87
+totals:
+ - event: Hearts
+   games: 23
+   wins: 11
+   losses: 12
+   inturn-total: 140
+   inturn-percent: 85
+   outturn-total: 306
+   outturn-percent: 89
+   draw-total: 362
+   draw-percent: 88
+   takeout-total: 84
+   takeout-percent: 83
+   shots-total: 446
+   shots-percent: 87
 years:
  - year: 2016
    event: Hearts

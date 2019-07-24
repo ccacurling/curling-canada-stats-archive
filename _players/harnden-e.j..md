@@ -2,19 +2,21 @@
 title: E.J. Harnden
 name: E.J. Harnden
 name-sort: Harnden, E.J.
-games: 125
-wins: 83
-losses: 42
-inturn-total: 918
-inturn-percent: 86
-outturn-total: 1426
-outturn-percent: 87
-draw-total: 868
-draw-percent: 84
-takeout-total: 1476
-takeout-percent: 88
-shots-total: 2344
-shots-percent: 87
+totals:
+ - event: Brier
+   games: 125
+   wins: 83
+   losses: 42
+   inturn-total: 918
+   inturn-percent: 86
+   outturn-total: 1426
+   outturn-percent: 87
+   draw-total: 868
+   draw-percent: 84
+   takeout-total: 1476
+   takeout-percent: 88
+   shots-total: 2344
+   shots-percent: 87
 years:
  - year: 2008
    event: Brier

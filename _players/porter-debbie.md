@@ -2,19 +2,21 @@
 title: Debbie Porter
 name: Debbie Porter
 name-sort: Porter, Debbie
-games: 42
-wins: 22
-losses: 20
-inturn-total: 496
-inturn-percent: 66
-outturn-total: 304
-outturn-percent: 68
-draw-total: 412
-draw-percent: 65
-takeout-total: 388
-takeout-percent: 69
-shots-total: 800
-shots-percent: 67
+totals:
+ - event: Hearts
+   games: 42
+   wins: 22
+   losses: 20
+   inturn-total: 496
+   inturn-percent: 66
+   outturn-total: 304
+   outturn-percent: 68
+   draw-total: 412
+   draw-percent: 65
+   takeout-total: 388
+   takeout-percent: 69
+   shots-total: 800
+   shots-percent: 67
 years:
  - year: 1985
    event: Hearts

@@ -2,19 +2,21 @@
 title: Krista McCarville
 name: Krista McCarville
 name-sort: McCarville, Krista
-games: 88
-wins: 51
-losses: 37
-inturn-total: 852
-inturn-percent: 76
-outturn-total: 831
-outturn-percent: 76
-draw-total: 819
-draw-percent: 74
-takeout-total: 864
-takeout-percent: 77
-shots-total: 1683
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 88
+   wins: 51
+   losses: 37
+   inturn-total: 852
+   inturn-percent: 76
+   outturn-total: 831
+   outturn-percent: 76
+   draw-total: 819
+   draw-percent: 74
+   takeout-total: 864
+   takeout-percent: 77
+   shots-total: 1683
+   shots-percent: 76
 years:
  - year: 2006
    event: Hearts

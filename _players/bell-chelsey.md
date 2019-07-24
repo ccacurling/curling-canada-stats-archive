@@ -2,19 +2,21 @@
 title: Chelsey Bell
 name: Chelsey Bell
 name-sort: Bell, Chelsey
-games: 36
-wins: 24
-losses: 12
-inturn-total: 532
-inturn-percent: 88
-outturn-total: 150
-outturn-percent: 85
-draw-total: 555
-draw-percent: 88
-takeout-total: 127
-takeout-percent: 84
-shots-total: 682
-shots-percent: 87
+totals:
+ - event: Hearts
+   games: 36
+   wins: 24
+   losses: 12
+   inturn-total: 532
+   inturn-percent: 88
+   outturn-total: 150
+   outturn-percent: 85
+   draw-total: 555
+   draw-percent: 88
+   takeout-total: 127
+   takeout-percent: 84
+   shots-total: 682
+   shots-percent: 87
 years:
  - year: 2005
    event: Hearts

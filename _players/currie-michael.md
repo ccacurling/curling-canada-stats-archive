@@ -2,9 +2,11 @@
 title: Michael Currie
 name: Michael Currie
 name-sort: Currie, Michael
-games: 11
-wins: 3
-losses: 8
+totals:
+ - event: Brier
+   games: 11
+   wins: 3
+   losses: 8
 years:
  - year: 1981
    event: Brier

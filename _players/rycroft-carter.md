@@ -2,19 +2,21 @@
 title: Carter Rycroft
 name: Carter Rycroft
 name-sort: Rycroft, Carter
-games: 90
-wins: 62
-losses: 28
-inturn-total: 850
-inturn-percent: 87
-outturn-total: 806
-outturn-percent: 87
-draw-total: 684
-draw-percent: 85
-takeout-total: 972
-takeout-percent: 88
-shots-total: 1656
-shots-percent: 87
+totals:
+ - event: Brier
+   games: 90
+   wins: 62
+   losses: 28
+   inturn-total: 850
+   inturn-percent: 87
+   outturn-total: 806
+   outturn-percent: 87
+   draw-total: 684
+   draw-percent: 85
+   takeout-total: 972
+   takeout-percent: 88
+   shots-total: 1656
+   shots-percent: 87
 years:
  - year: 2000
    event: Brier

@@ -2,19 +2,21 @@
 title: Blisse Joyce
 name: Blisse Joyce
 name-sort: Joyce, Blisse
-games: 42
-wins: 20
-losses: 22
-inturn-total: 410
-inturn-percent: 77
-outturn-total: 384
-outturn-percent: 78
-draw-total: 316
-draw-percent: 76
-takeout-total: 478
-takeout-percent: 78
-shots-total: 794
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 42
+   wins: 20
+   losses: 22
+   inturn-total: 410
+   inturn-percent: 77
+   outturn-total: 384
+   outturn-percent: 78
+   draw-total: 316
+   draw-percent: 76
+   takeout-total: 478
+   takeout-percent: 78
+   shots-total: 794
+   shots-percent: 77
 years:
  - year: 2011
    event: Hearts

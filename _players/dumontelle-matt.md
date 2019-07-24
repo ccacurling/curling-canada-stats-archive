@@ -2,19 +2,21 @@
 title: Matt Dumontelle
 name: Matt Dumontelle
 name-sort: Dumontelle, Matt
-games: 3
-wins: 2
-losses: 1
-inturn-total: 2
-inturn-percent: 38
-outturn-total: 6
-outturn-percent: 88
-draw-total: 7
-draw-percent: 86
-takeout-total: 1
-takeout-percent: 0
-shots-total: 8
-shots-percent: 75
+totals:
+ - event: Brier
+   games: 3
+   wins: 2
+   losses: 1
+   inturn-total: 2
+   inturn-percent: 38
+   outturn-total: 6
+   outturn-percent: 88
+   draw-total: 7
+   draw-percent: 86
+   takeout-total: 1
+   takeout-percent: 0
+   shots-total: 8
+   shots-percent: 75
 years:
  - year: 2011
    event: Brier

@@ -2,19 +2,21 @@
 title: Keith Jewer
 name: Keith Jewer
 name-sort: Jewer, Keith
-games: 17
-wins: 1
-losses: 16
-inturn-total: 202
-inturn-percent: 82
-outturn-total: 102
-outturn-percent: 86
-draw-total: 263
-draw-percent: 85
-takeout-total: 41
-takeout-percent: 74
-shots-total: 304
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 17
+   wins: 1
+   losses: 16
+   inturn-total: 202
+   inturn-percent: 82
+   outturn-total: 102
+   outturn-percent: 86
+   draw-total: 263
+   draw-percent: 85
+   takeout-total: 41
+   takeout-percent: 74
+   shots-total: 304
+   shots-percent: 83
 years:
  - year: 2006
    event: Brier

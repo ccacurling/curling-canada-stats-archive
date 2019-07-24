@@ -2,19 +2,21 @@
 title: Robert Doherty
 name: Robert Doherty
 name-sort: Doherty, Robert
-games: 29
-wins: 8
-losses: 21
-inturn-total: 339
-inturn-percent: 85
-outturn-total: 185
-outturn-percent: 85
-draw-total: 478
-draw-percent: 87
-takeout-total: 46
-takeout-percent: 68
-shots-total: 524
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 29
+   wins: 8
+   losses: 21
+   inturn-total: 339
+   inturn-percent: 85
+   outturn-total: 185
+   outturn-percent: 85
+   draw-total: 478
+   draw-percent: 87
+   takeout-total: 46
+   takeout-percent: 68
+   shots-total: 524
+   shots-percent: 85
 years:
  - year: 2015
    event: Brier

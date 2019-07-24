@@ -2,19 +2,21 @@
 title: Alison Kreviazuk
 name: Alison Kreviazuk
 name-sort: Kreviazuk, Alison
-games: 40
-wins: 34
-losses: 6
-inturn-total: 411
-inturn-percent: 85
-outturn-total: 303
-outturn-percent: 86
-draw-total: 245
-draw-percent: 78
-takeout-total: 469
-takeout-percent: 89
-shots-total: 714
-shots-percent: 85
+totals:
+ - event: Hearts
+   games: 40
+   wins: 34
+   losses: 6
+   inturn-total: 411
+   inturn-percent: 85
+   outturn-total: 303
+   outturn-percent: 86
+   draw-total: 245
+   draw-percent: 78
+   takeout-total: 469
+   takeout-percent: 89
+   shots-total: 714
+   shots-percent: 85
 years:
  - year: 2011
    event: Hearts

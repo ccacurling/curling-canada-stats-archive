@@ -2,19 +2,21 @@
 title: Marion MacAulay
 name: Marion MacAulay
 name-sort: MacAulay, Marion
-games: 35
-wins: 17
-losses: 18
-inturn-total: 318
-inturn-percent: 68
-outturn-total: 359
-outturn-percent: 71
-draw-total: 326
-draw-percent: 69
-takeout-total: 351
-takeout-percent: 70
-shots-total: 677
-shots-percent: 70
+totals:
+ - event: Hearts
+   games: 35
+   wins: 17
+   losses: 18
+   inturn-total: 318
+   inturn-percent: 68
+   outturn-total: 359
+   outturn-percent: 71
+   draw-total: 326
+   draw-percent: 69
+   takeout-total: 351
+   takeout-percent: 70
+   shots-total: 677
+   shots-percent: 70
 years:
  - year: 1992
    event: Hearts

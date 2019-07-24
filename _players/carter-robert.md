@@ -2,9 +2,11 @@
 title: Robert Carter
 name: Robert Carter
 name-sort: Carter, Robert
-games: 11
-wins: 6
-losses: 5
+totals:
+ - event: Brier
+   games: 11
+   wins: 6
+   losses: 5
 years:
  - year: 1981
    event: Brier

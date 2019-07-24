@@ -2,19 +2,21 @@
 title: Colton Flasch
 name: Colton Flasch
 name-sort: Flasch, Colton
-games: 48
-wins: 32
-losses: 16
-inturn-total: 497
-inturn-percent: 85
-outturn-total: 444
-outturn-percent: 84
-draw-total: 419
-draw-percent: 84
-takeout-total: 522
-takeout-percent: 86
-shots-total: 941
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 48
+   wins: 32
+   losses: 16
+   inturn-total: 497
+   inturn-percent: 85
+   outturn-total: 444
+   outturn-percent: 84
+   draw-total: 419
+   draw-percent: 84
+   takeout-total: 522
+   takeout-percent: 86
+   shots-total: 941
+   shots-percent: 85
 years:
  - year: 2014
    event: Brier

@@ -2,19 +2,21 @@
 title: John Morris
 name: John Morris
 name-sort: Morris, John
-games: 125
-wins: 92
-losses: 33
-inturn-total: 937
-inturn-percent: 86
-outturn-total: 1382
-outturn-percent: 86
-draw-total: 911
-draw-percent: 86
-takeout-total: 1408
-takeout-percent: 87
-shots-total: 2319
-shots-percent: 86
+totals:
+ - event: Brier
+   games: 125
+   wins: 92
+   losses: 33
+   inturn-total: 937
+   inturn-percent: 86
+   outturn-total: 1382
+   outturn-percent: 86
+   draw-total: 911
+   draw-percent: 86
+   takeout-total: 1408
+   takeout-percent: 87
+   shots-total: 2319
+   shots-percent: 86
 years:
  - year: 2002
    event: Brier

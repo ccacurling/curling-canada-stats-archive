@@ -2,19 +2,21 @@
 title: Aron Herrick
 name: Aron Herrick
 name-sort: Herrick, Aron
-games: 2
-wins: 1
-losses: 1
-inturn-total: 6
-inturn-percent: 100
-outturn-total: 8
-outturn-percent: 69
-draw-total: 6
-draw-percent: 83
-takeout-total: 8
-takeout-percent: 81
-shots-total: 14
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 2
+   wins: 1
+   losses: 1
+   inturn-total: 6
+   inturn-percent: 100
+   outturn-total: 8
+   outturn-percent: 69
+   draw-total: 6
+   draw-percent: 83
+   takeout-total: 8
+   takeout-percent: 81
+   shots-total: 14
+   shots-percent: 82
 years:
  - year: 2006
    event: Brier

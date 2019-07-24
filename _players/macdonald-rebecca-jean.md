@@ -2,19 +2,21 @@
 title: Rebecca Jean MacDonald
 name: Rebecca Jean MacDonald
 name-sort: MacDonald, Rebecca Jean
-games: 95
-wins: 47
-losses: 48
-inturn-total: 867
-inturn-percent: 77
-outturn-total: 896
-outturn-percent: 75
-draw-total: 760
-draw-percent: 72
-takeout-total: 1003
-takeout-percent: 79
-shots-total: 1763
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 95
+   wins: 47
+   losses: 48
+   inturn-total: 867
+   inturn-percent: 77
+   outturn-total: 896
+   outturn-percent: 75
+   draw-total: 760
+   draw-percent: 72
+   takeout-total: 1003
+   takeout-percent: 79
+   shots-total: 1763
+   shots-percent: 76
 years:
  - year: 1995
    event: Hearts

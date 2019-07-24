@@ -2,19 +2,21 @@
 title: Stephanie Korab
 name: Stephanie Korab
 name-sort: Korab, Stephanie
-games: 22
-wins: 8
-losses: 14
-inturn-total: 244
-inturn-percent: 77
-outturn-total: 163
-outturn-percent: 77
-draw-total: 260
-draw-percent: 77
-takeout-total: 147
-takeout-percent: 76
-shots-total: 407
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 22
+   wins: 8
+   losses: 14
+   inturn-total: 244
+   inturn-percent: 77
+   outturn-total: 163
+   outturn-percent: 77
+   draw-total: 260
+   draw-percent: 77
+   takeout-total: 147
+   takeout-percent: 76
+   shots-total: 407
+   shots-percent: 77
 years:
  - year: 2012
    event: Hearts

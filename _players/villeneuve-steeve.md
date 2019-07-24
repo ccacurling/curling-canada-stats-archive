@@ -2,19 +2,21 @@
 title: Steeve Villeneuve
 name: Steeve Villeneuve
 name-sort: Villeneuve, Steeve
-games: 21
-wins: 8
-losses: 13
-inturn-total: 160
-inturn-percent: 79
-outturn-total: 213
-outturn-percent: 83
-draw-total: 332
-draw-percent: 83
-takeout-total: 41
-takeout-percent: 66
-shots-total: 373
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 21
+   wins: 8
+   losses: 13
+   inturn-total: 160
+   inturn-percent: 79
+   outturn-total: 213
+   outturn-percent: 83
+   draw-total: 332
+   draw-percent: 83
+   takeout-total: 41
+   takeout-percent: 66
+   shots-total: 373
+   shots-percent: 82
 years:
  - year: 2010
    event: Brier

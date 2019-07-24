@@ -2,19 +2,21 @@
 title: Heidi Hanlon
 name: Heidi Hanlon
 name-sort: Hanlon, Heidi
-games: 124
-wins: 51
-losses: 73
-inturn-total: 1101
-inturn-percent: 69
-outturn-total: 1205
-outturn-percent: 66
-draw-total: 1103
-draw-percent: 63
-takeout-total: 1203
-takeout-percent: 72
-shots-total: 2306
-shots-percent: 68
+totals:
+ - event: Hearts
+   games: 124
+   wins: 51
+   losses: 73
+   inturn-total: 1101
+   inturn-percent: 69
+   outturn-total: 1205
+   outturn-percent: 66
+   draw-total: 1103
+   draw-percent: 63
+   takeout-total: 1203
+   takeout-percent: 72
+   shots-total: 2306
+   shots-percent: 68
 years:
  - year: 1987
    event: Hearts

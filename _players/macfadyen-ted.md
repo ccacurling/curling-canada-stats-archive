@@ -2,19 +2,21 @@
 title: Ted MacFadyen
 name: Ted MacFadyen
 name-sort: MacFadyen, Ted
-games: 55
-wins: 22
-losses: 33
-inturn-total: 416
-inturn-percent: 75
-outturn-total: 411
-outturn-percent: 71
-draw-total: 375
-draw-percent: 71
-takeout-total: 452
-takeout-percent: 74
-shots-total: 827
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 55
+   wins: 22
+   losses: 33
+   inturn-total: 416
+   inturn-percent: 75
+   outturn-total: 411
+   outturn-percent: 71
+   draw-total: 375
+   draw-percent: 71
+   takeout-total: 452
+   takeout-percent: 74
+   shots-total: 827
+   shots-percent: 73
 years:
  - year: 1980
    event: Brier

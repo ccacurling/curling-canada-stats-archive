@@ -2,19 +2,21 @@
 title: Scott Howard
 name: Scott Howard
 name-sort: Howard, Scott
-games: 40
-wins: 19
-losses: 21
-inturn-total: 353
-inturn-percent: 89
-outturn-total: 314
-outturn-percent: 88
-draw-total: 583
-draw-percent: 89
-takeout-total: 84
-takeout-percent: 82
-shots-total: 667
-shots-percent: 89
+totals:
+ - event: Brier
+   games: 40
+   wins: 19
+   losses: 21
+   inturn-total: 353
+   inturn-percent: 89
+   outturn-total: 314
+   outturn-percent: 88
+   draw-total: 583
+   draw-percent: 89
+   takeout-total: 84
+   takeout-percent: 82
+   shots-total: 667
+   shots-percent: 89
 years:
  - year: 2011
    event: Brier

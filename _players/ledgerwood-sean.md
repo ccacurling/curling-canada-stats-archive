@@ -2,19 +2,21 @@
 title: Sean Ledgerwood
 name: Sean Ledgerwood
 name-sort: Ledgerwood, Sean
-games: 41
-wins: 11
-losses: 30
-inturn-total: 385
-inturn-percent: 88
-outturn-total: 351
-outturn-percent: 86
-draw-total: 653
-draw-percent: 88
-takeout-total: 83
-takeout-percent: 80
-shots-total: 736
-shots-percent: 87
+totals:
+ - event: Brier
+   games: 41
+   wins: 11
+   losses: 30
+   inturn-total: 385
+   inturn-percent: 88
+   outturn-total: 351
+   outturn-percent: 86
+   draw-total: 653
+   draw-percent: 88
+   takeout-total: 83
+   takeout-percent: 80
+   shots-total: 736
+   shots-percent: 87
 years:
  - year: 2004
    event: Brier

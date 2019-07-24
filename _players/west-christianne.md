@@ -2,19 +2,21 @@
 title: Christianne West
 name: Christianne West
 name-sort: West, Christianne
-games: 7
-wins: 0
-losses: 7
-inturn-total: 71
-inturn-percent: 68
-outturn-total: 47
-outturn-percent: 54
-draw-total: 67
-draw-percent: 65
-takeout-total: 51
-takeout-percent: 60
-shots-total: 118
-shots-percent: 63
+totals:
+ - event: Hearts
+   games: 7
+   wins: 0
+   losses: 7
+   inturn-total: 71
+   inturn-percent: 68
+   outturn-total: 47
+   outturn-percent: 54
+   draw-total: 67
+   draw-percent: 65
+   takeout-total: 51
+   takeout-percent: 60
+   shots-total: 118
+   shots-percent: 63
 years:
  - year: 2018
    event: Hearts

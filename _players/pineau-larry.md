@@ -2,19 +2,21 @@
 title: Larry Pineau
 name: Larry Pineau
 name-sort: Pineau, Larry
-games: 22
-wins: 11
-losses: 11
-inturn-total: 194
-inturn-percent: 73
-outturn-total: 211
-outturn-percent: 72
-draw-total: 216
-draw-percent: 73
-takeout-total: 189
-takeout-percent: 72
-shots-total: 405
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 22
+   wins: 11
+   losses: 11
+   inturn-total: 194
+   inturn-percent: 73
+   outturn-total: 211
+   outturn-percent: 72
+   draw-total: 216
+   draw-percent: 73
+   takeout-total: 189
+   takeout-percent: 72
+   shots-total: 405
+   shots-percent: 73
 years:
  - year: 1987
    event: Brier

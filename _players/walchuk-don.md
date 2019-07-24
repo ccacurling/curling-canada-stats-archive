@@ -2,19 +2,21 @@
 title: Don Walchuk
 name: Don Walchuk
 name-sort: Walchuk, Don
-games: 97
-wins: 75
-losses: 22
-inturn-total: 959
-inturn-percent: 85
-outturn-total: 862
-outturn-percent: 85
-draw-total: 710
-draw-percent: 82
-takeout-total: 1111
-takeout-percent: 86
-shots-total: 1821
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 97
+   wins: 75
+   losses: 22
+   inturn-total: 959
+   inturn-percent: 85
+   outturn-total: 862
+   outturn-percent: 85
+   draw-total: 710
+   draw-percent: 82
+   takeout-total: 1111
+   takeout-percent: 86
+   shots-total: 1821
+   shots-percent: 85
 years:
  - year: 1985
    event: Brier

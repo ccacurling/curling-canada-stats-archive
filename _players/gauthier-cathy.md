@@ -2,19 +2,21 @@
 title: Cathy Gauthier
 name: Cathy Gauthier
 name-sort: Gauthier, Cathy
-games: 78
-wins: 58
-losses: 20
-inturn-total: 746
-inturn-percent: 77
-outturn-total: 748
-outturn-percent: 78
-draw-total: 615
-draw-percent: 76
-takeout-total: 879
-takeout-percent: 78
-shots-total: 1494
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 78
+   wins: 58
+   losses: 20
+   inturn-total: 746
+   inturn-percent: 77
+   outturn-total: 748
+   outturn-percent: 78
+   draw-total: 615
+   draw-percent: 76
+   takeout-total: 879
+   takeout-percent: 78
+   shots-total: 1494
+   shots-percent: 77
 years:
  - year: 1992
    event: Hearts

@@ -2,19 +2,21 @@
 title: Michele Renouf
 name: Michele Renouf
 name-sort: Renouf, Michele
-games: 33
-wins: 13
-losses: 20
-inturn-total: 270
-inturn-percent: 70
-outturn-total: 351
-outturn-percent: 78
-draw-total: 347
-draw-percent: 78
-takeout-total: 274
-takeout-percent: 70
-shots-total: 621
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 33
+   wins: 13
+   losses: 20
+   inturn-total: 270
+   inturn-percent: 70
+   outturn-total: 351
+   outturn-percent: 78
+   draw-total: 347
+   draw-percent: 78
+   takeout-total: 274
+   takeout-percent: 70
+   shots-total: 621
+   shots-percent: 75
 years:
  - year: 1989
    event: Hearts

@@ -2,19 +2,21 @@
 title: Jodie deSolla
 name: Jodie deSolla
 name-sort: deSolla, Jodie
-games: 53
-wins: 27
-losses: 26
-inturn-total: 578
-inturn-percent: 81
-outturn-total: 365
-outturn-percent: 76
-draw-total: 618
-draw-percent: 81
-takeout-total: 325
-takeout-percent: 77
-shots-total: 943
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 53
+   wins: 27
+   losses: 26
+   inturn-total: 578
+   inturn-percent: 81
+   outturn-total: 365
+   outturn-percent: 76
+   draw-total: 618
+   draw-percent: 81
+   takeout-total: 325
+   takeout-percent: 77
+   shots-total: 943
+   shots-percent: 79
 years:
  - year: 2006
    event: Hearts

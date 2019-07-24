@@ -2,19 +2,21 @@
 title: Philippe Lemay
 name: Philippe Lemay
 name-sort: Lemay, Philippe
-games: 18
-wins: 7
-losses: 11
-inturn-total: 151
-inturn-percent: 70
-outturn-total: 181
-outturn-percent: 82
-draw-total: 145
-draw-percent: 73
-takeout-total: 187
-takeout-percent: 79
-shots-total: 332
-shots-percent: 77
+totals:
+ - event: Brier
+   games: 18
+   wins: 7
+   losses: 11
+   inturn-total: 151
+   inturn-percent: 70
+   outturn-total: 181
+   outturn-percent: 82
+   draw-total: 145
+   draw-percent: 73
+   takeout-total: 187
+   takeout-percent: 79
+   shots-total: 332
+   shots-percent: 77
 years:
  - year: 2007
    event: Brier

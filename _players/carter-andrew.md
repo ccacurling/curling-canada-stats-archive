@@ -2,19 +2,21 @@
 title: Andrew Carter
 name: Andrew Carter
 name-sort: Carter, Andrew
-games: 33
-wins: 13
-losses: 20
-inturn-total: 287
-inturn-percent: 80
-outturn-total: 358
-outturn-percent: 83
-draw-total: 360
-draw-percent: 84
-takeout-total: 285
-takeout-percent: 79
-shots-total: 645
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 33
+   wins: 13
+   losses: 20
+   inturn-total: 287
+   inturn-percent: 80
+   outturn-total: 358
+   outturn-percent: 83
+   draw-total: 360
+   draw-percent: 84
+   takeout-total: 285
+   takeout-percent: 79
+   shots-total: 645
+   shots-percent: 82
 years:
  - year: 1985
    event: Brier

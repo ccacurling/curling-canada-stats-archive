@@ -2,19 +2,21 @@
 title: Breanne Meakin
 name: Breanne Meakin
 name-sort: Meakin, Breanne
-games: 6
-wins: 4
-losses: 2
-inturn-total: 18
-inturn-percent: 56
-outturn-total: 36
-outturn-percent: 76
-draw-total: 32
-draw-percent: 70
-takeout-total: 22
-takeout-percent: 67
-shots-total: 54
-shots-percent: 69
+totals:
+ - event: Hearts
+   games: 6
+   wins: 4
+   losses: 2
+   inturn-total: 18
+   inturn-percent: 56
+   outturn-total: 36
+   outturn-percent: 76
+   draw-total: 32
+   draw-percent: 70
+   takeout-total: 22
+   takeout-percent: 67
+   shots-total: 54
+   shots-percent: 69
 years:
  - year: 2011
    event: Hearts

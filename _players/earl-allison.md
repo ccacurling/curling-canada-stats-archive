@@ -2,19 +2,21 @@
 title: Allison Earl
 name: Allison Earl
 name-sort: Earl, Allison
-games: 22
-wins: 12
-losses: 10
-inturn-total: 170
-inturn-percent: 68
-outturn-total: 235
-outturn-percent: 71
-draw-total: 195
-draw-percent: 66
-takeout-total: 210
-takeout-percent: 73
-shots-total: 405
-shots-percent: 70
+totals:
+ - event: Hearts
+   games: 22
+   wins: 12
+   losses: 10
+   inturn-total: 170
+   inturn-percent: 68
+   outturn-total: 235
+   outturn-percent: 71
+   draw-total: 195
+   draw-percent: 66
+   takeout-total: 210
+   takeout-percent: 73
+   shots-total: 405
+   shots-percent: 70
 years:
  - year: 1984
    event: Hearts

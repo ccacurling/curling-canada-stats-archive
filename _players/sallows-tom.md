@@ -2,19 +2,21 @@
 title: Tom Sallows
 name: Tom Sallows
 name-sort: Sallows, Tom
-games: 5
-wins: 4
-losses: 1
-inturn-total: 9
-inturn-percent: 64
-outturn-total: 17
-outturn-percent: 76
-draw-total: 14
-draw-percent: 79
-takeout-total: 12
-takeout-percent: 65
-shots-total: 26
-shots-percent: 72
+totals:
+ - event: Brier
+   games: 5
+   wins: 4
+   losses: 1
+   inturn-total: 9
+   inturn-percent: 64
+   outturn-total: 17
+   outturn-percent: 76
+   draw-total: 14
+   draw-percent: 79
+   takeout-total: 12
+   takeout-percent: 65
+   shots-total: 26
+   shots-percent: 72
 years:
  - year: 2015
    event: Brier

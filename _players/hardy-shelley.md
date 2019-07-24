@@ -2,19 +2,21 @@
 title: Shelley Hardy
 name: Shelley Hardy
 name-sort: Hardy, Shelley
-games: 35
-wins: 17
-losses: 18
-inturn-total: 310
-inturn-percent: 66
-outturn-total: 338
-outturn-percent: 72
-draw-total: 270
-draw-percent: 65
-takeout-total: 378
-takeout-percent: 72
-shots-total: 648
-shots-percent: 69
+totals:
+ - event: Hearts
+   games: 35
+   wins: 17
+   losses: 18
+   inturn-total: 310
+   inturn-percent: 66
+   outturn-total: 338
+   outturn-percent: 72
+   draw-total: 270
+   draw-percent: 65
+   takeout-total: 378
+   takeout-percent: 72
+   shots-total: 648
+   shots-percent: 69
 years:
  - year: 2006
    event: Hearts

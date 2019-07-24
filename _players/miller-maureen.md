@@ -2,19 +2,21 @@
 title: Maureen Miller
 name: Maureen Miller
 name-sort: Miller, Maureen
-games: 21
-wins: 5
-losses: 16
-inturn-total: 184
-inturn-percent: 66
-outturn-total: 202
-outturn-percent: 58
-draw-total: 184
-draw-percent: 58
-takeout-total: 202
-takeout-percent: 65
-shots-total: 386
-shots-percent: 61
+totals:
+ - event: Hearts
+   games: 21
+   wins: 5
+   losses: 16
+   inturn-total: 184
+   inturn-percent: 66
+   outturn-total: 202
+   outturn-percent: 58
+   draw-total: 184
+   draw-percent: 58
+   takeout-total: 202
+   takeout-percent: 65
+   shots-total: 386
+   shots-percent: 61
 years:
  - year: 1984
    event: Hearts

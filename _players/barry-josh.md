@@ -2,19 +2,21 @@
 title: Josh Barry
 name: Josh Barry
 name-sort: Barry, Josh
-games: 30
-wins: 14
-losses: 16
-inturn-total: 282
-inturn-percent: 84
-outturn-total: 265
-outturn-percent: 83
-draw-total: 366
-draw-percent: 83
-takeout-total: 181
-takeout-percent: 84
-shots-total: 547
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 30
+   wins: 14
+   losses: 16
+   inturn-total: 282
+   inturn-percent: 84
+   outturn-total: 265
+   outturn-percent: 83
+   draw-total: 366
+   draw-percent: 83
+   takeout-total: 181
+   takeout-percent: 84
+   shots-total: 547
+   shots-percent: 84
 years:
  - year: 2014
    event: Brier

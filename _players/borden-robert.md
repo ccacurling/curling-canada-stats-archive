@@ -2,19 +2,21 @@
 title: Robert Borden
 name: Robert Borden
 name-sort: Borden, Robert
-games: 76
-wins: 23
-losses: 53
-inturn-total: 910
-inturn-percent: 88
-outturn-total: 491
-outturn-percent: 86
-draw-total: 1251
-draw-percent: 88
-takeout-total: 150
-takeout-percent: 75
-shots-total: 1401
-shots-percent: 87
+totals:
+ - event: Brier
+   games: 76
+   wins: 23
+   losses: 53
+   inturn-total: 910
+   inturn-percent: 88
+   outturn-total: 491
+   outturn-percent: 86
+   draw-total: 1251
+   draw-percent: 88
+   takeout-total: 150
+   takeout-percent: 75
+   shots-total: 1401
+   shots-percent: 87
 years:
  - year: 2012
    event: Brier

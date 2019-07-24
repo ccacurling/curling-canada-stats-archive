@@ -2,19 +2,21 @@
 title: Ian Tetley
 name: Ian Tetley
 name-sort: Tetley, Ian
-games: 51
-wins: 41
-losses: 10
-inturn-total: 456
-inturn-percent: 85
-outturn-total: 490
-outturn-percent: 86
-draw-total: 342
-draw-percent: 84
-takeout-total: 604
-takeout-percent: 86
-shots-total: 946
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 51
+   wins: 41
+   losses: 10
+   inturn-total: 456
+   inturn-percent: 85
+   outturn-total: 490
+   outturn-percent: 86
+   draw-total: 342
+   draw-percent: 84
+   takeout-total: 604
+   takeout-percent: 86
+   shots-total: 946
+   shots-percent: 85
 years:
  - year: 1985
    event: Brier

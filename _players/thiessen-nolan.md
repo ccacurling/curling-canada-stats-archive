@@ -2,19 +2,21 @@
 title: Nolan Thiessen
 name: Nolan Thiessen
 name-sort: Thiessen, Nolan
-games: 67
-wins: 48
-losses: 19
-inturn-total: 342
-inturn-percent: 88
-outturn-total: 903
-outturn-percent: 89
-draw-total: 1103
-draw-percent: 90
-takeout-total: 142
-takeout-percent: 77
-shots-total: 1245
-shots-percent: 89
+totals:
+ - event: Brier
+   games: 67
+   wins: 48
+   losses: 19
+   inturn-total: 342
+   inturn-percent: 88
+   outturn-total: 903
+   outturn-percent: 89
+   draw-total: 1103
+   draw-percent: 90
+   takeout-total: 142
+   takeout-percent: 77
+   shots-total: 1245
+   shots-percent: 89
 years:
  - year: 2010
    event: Brier

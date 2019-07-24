@@ -2,19 +2,21 @@
 title: Jodie Sutton
 name: Jodie Sutton
 name-sort: Sutton, Jodie
-games: 35
-wins: 26
-losses: 9
-inturn-total: 367
-inturn-percent: 75
-outturn-total: 307
-outturn-percent: 73
-draw-total: 230
-draw-percent: 68
-takeout-total: 444
-takeout-percent: 77
-shots-total: 674
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 35
+   wins: 26
+   losses: 9
+   inturn-total: 367
+   inturn-percent: 75
+   outturn-total: 307
+   outturn-percent: 73
+   draw-total: 230
+   draw-percent: 68
+   takeout-total: 444
+   takeout-percent: 77
+   shots-total: 674
+   shots-percent: 74
 years:
  - year: 1988
    event: Hearts

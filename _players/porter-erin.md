@@ -2,19 +2,21 @@
 title: Erin Porter
 name: Erin Porter
 name-sort: Porter, Erin
-games: 42
-wins: 14
-losses: 28
-inturn-total: 374
-inturn-percent: 78
-outturn-total: 426
-outturn-percent: 75
-draw-total: 329
-draw-percent: 75
-takeout-total: 471
-takeout-percent: 77
-shots-total: 800
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 42
+   wins: 14
+   losses: 28
+   inturn-total: 374
+   inturn-percent: 78
+   outturn-total: 426
+   outturn-percent: 75
+   draw-total: 329
+   draw-percent: 75
+   takeout-total: 471
+   takeout-percent: 77
+   shots-total: 800
+   shots-percent: 76
 years:
  - year: 2013
    event: Hearts

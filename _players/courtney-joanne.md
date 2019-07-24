@@ -2,19 +2,21 @@
 title: Joanne Courtney
 name: Joanne Courtney
 name-sort: Courtney, Joanne
-games: 55
-wins: 40
-losses: 15
-inturn-total: 575
-inturn-percent: 84
-outturn-total: 480
-outturn-percent: 83
-draw-total: 398
-draw-percent: 80
-takeout-total: 657
-takeout-percent: 85
-shots-total: 1055
-shots-percent: 83
+totals:
+ - event: Hearts
+   games: 55
+   wins: 40
+   losses: 15
+   inturn-total: 575
+   inturn-percent: 84
+   outturn-total: 480
+   outturn-percent: 83
+   draw-total: 398
+   draw-percent: 80
+   takeout-total: 657
+   takeout-percent: 85
+   shots-total: 1055
+   shots-percent: 83
 years:
  - year: 2014
    event: Hearts

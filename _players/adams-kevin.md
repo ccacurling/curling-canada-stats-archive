@@ -2,19 +2,21 @@
 title: Kevin Adams
 name: Kevin Adams
 name-sort: Adams, Kevin
-games: 42
-wins: 18
-losses: 24
-inturn-total: 364
-inturn-percent: 78
-outturn-total: 454
-outturn-percent: 80
-draw-total: 335
-draw-percent: 74
-takeout-total: 483
-takeout-percent: 82
-shots-total: 818
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 42
+   wins: 18
+   losses: 24
+   inturn-total: 364
+   inturn-percent: 78
+   outturn-total: 454
+   outturn-percent: 80
+   draw-total: 335
+   draw-percent: 74
+   takeout-total: 483
+   takeout-percent: 82
+   shots-total: 818
+   shots-percent: 79
 years:
  - year: 1986
    event: Brier

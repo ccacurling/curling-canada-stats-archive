@@ -2,19 +2,21 @@
 title: Tom Fetterly
 name: Tom Fetterly
 name-sort: Fetterly, Tom
-games: 45
-wins: 21
-losses: 24
-inturn-total: 279
-inturn-percent: 83
-outturn-total: 342
-outturn-percent: 84
-draw-total: 496
-draw-percent: 84
-takeout-total: 125
-takeout-percent: 80
-shots-total: 621
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 45
+   wins: 21
+   losses: 24
+   inturn-total: 279
+   inturn-percent: 83
+   outturn-total: 342
+   outturn-percent: 84
+   draw-total: 496
+   draw-percent: 84
+   takeout-total: 125
+   takeout-percent: 80
+   shots-total: 621
+   shots-percent: 83
 years:
  - year: 1981
    event: Brier

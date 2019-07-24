@@ -2,19 +2,21 @@
 title: Brette Richards
 name: Brette Richards
 name-sort: Richards, Brette
-games: 22
-wins: 3
-losses: 19
-inturn-total: 198
-inturn-percent: 78
-outturn-total: 204
-outturn-percent: 77
-draw-total: 217
-draw-percent: 76
-takeout-total: 185
-takeout-percent: 79
-shots-total: 402
-shots-percent: 78
+totals:
+ - event: Hearts
+   games: 22
+   wins: 3
+   losses: 19
+   inturn-total: 198
+   inturn-percent: 78
+   outturn-total: 204
+   outturn-percent: 77
+   draw-total: 217
+   draw-percent: 76
+   takeout-total: 185
+   takeout-percent: 79
+   shots-total: 402
+   shots-percent: 78
 years:
  - year: 2009
    event: Hearts

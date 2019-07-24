@@ -2,19 +2,21 @@
 title: Sheena Gilman
 name: Sheena Gilman
 name-sort: Gilman, Sheena
-games: 22
-wins: 3
-losses: 19
-inturn-total: 212
-inturn-percent: 73
-outturn-total: 200
-outturn-percent: 69
-draw-total: 210
-draw-percent: 68
-takeout-total: 202
-takeout-percent: 74
-shots-total: 412
-shots-percent: 71
+totals:
+ - event: Hearts
+   games: 22
+   wins: 3
+   losses: 19
+   inturn-total: 212
+   inturn-percent: 73
+   outturn-total: 200
+   outturn-percent: 69
+   draw-total: 210
+   draw-percent: 68
+   takeout-total: 202
+   takeout-percent: 74
+   shots-total: 412
+   shots-percent: 71
 years:
  - year: 2009
    event: Hearts

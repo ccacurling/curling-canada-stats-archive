@@ -2,19 +2,21 @@
 title: Jeanna Schraeder
 name: Jeanna Schraeder
 name-sort: Schraeder, Jeanna
-games: 75
-wins: 51
-losses: 24
-inturn-total: 736
-inturn-percent: 80
-outturn-total: 689
-outturn-percent: 80
-draw-total: 601
-draw-percent: 79
-takeout-total: 824
-takeout-percent: 81
-shots-total: 1425
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 75
+   wins: 51
+   losses: 24
+   inturn-total: 736
+   inturn-percent: 80
+   outturn-total: 689
+   outturn-percent: 80
+   draw-total: 601
+   draw-percent: 79
+   takeout-total: 824
+   takeout-percent: 81
+   shots-total: 1425
+   shots-percent: 80
 years:
  - year: 2006
    event: Hearts

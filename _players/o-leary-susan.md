@@ -2,19 +2,21 @@
 title: Susan O'Leary
 name: Susan O'Leary
 name-sort: O'Leary, Susan
-games: 45
-wins: 17
-losses: 28
-inturn-total: 547
-inturn-percent: 83
-outturn-total: 319
-outturn-percent: 77
-draw-total: 605
-draw-percent: 82
-takeout-total: 261
-takeout-percent: 79
-shots-total: 866
-shots-percent: 81
+totals:
+ - event: Hearts
+   games: 45
+   wins: 17
+   losses: 28
+   inturn-total: 547
+   inturn-percent: 83
+   outturn-total: 319
+   outturn-percent: 77
+   draw-total: 605
+   draw-percent: 82
+   takeout-total: 261
+   takeout-percent: 79
+   shots-total: 866
+   shots-percent: 81
 years:
  - year: 2001
    event: Hearts

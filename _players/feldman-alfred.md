@@ -2,19 +2,21 @@
 title: Alfred Feldman
 name: Alfred Feldman
 name-sort: Feldman, Alfred
-games: 22
-wins: 4
-losses: 18
-inturn-total: 240
-inturn-percent: 74
-outturn-total: 186
-outturn-percent: 71
-draw-total: 182
-draw-percent: 69
-takeout-total: 244
-takeout-percent: 76
-shots-total: 426
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 22
+   wins: 4
+   losses: 18
+   inturn-total: 240
+   inturn-percent: 74
+   outturn-total: 186
+   outturn-percent: 71
+   draw-total: 182
+   draw-percent: 69
+   takeout-total: 244
+   takeout-percent: 76
+   shots-total: 426
+   shots-percent: 73
 years:
  - year: 1994
    event: Brier

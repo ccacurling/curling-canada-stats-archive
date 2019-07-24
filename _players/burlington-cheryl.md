@@ -2,19 +2,21 @@
 title: Cheryl Burlington
 name: Cheryl Burlington
 name-sort: Burlington, Cheryl
-games: 22
-wins: 9
-losses: 13
-inturn-total: 164
-inturn-percent: 71
-outturn-total: 248
-outturn-percent: 78
-draw-total: 275
-draw-percent: 78
-takeout-total: 137
-takeout-percent: 71
-shots-total: 412
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 22
+   wins: 9
+   losses: 13
+   inturn-total: 164
+   inturn-percent: 71
+   outturn-total: 248
+   outturn-percent: 78
+   draw-total: 275
+   draw-percent: 78
+   takeout-total: 137
+   takeout-percent: 71
+   shots-total: 412
+   shots-percent: 75
 years:
  - year: 1993
    event: Hearts

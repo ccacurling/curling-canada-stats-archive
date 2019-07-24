@@ -2,9 +2,11 @@
 title: Jim Heintz
 name: Jim Heintz
 name-sort: Heintz, Jim
-games: 11
-wins: 6
-losses: 5
+totals:
+ - event: Brier
+   games: 11
+   wins: 6
+   losses: 5
 years:
  - year: 1984
    event: Brier

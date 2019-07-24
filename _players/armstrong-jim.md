@@ -2,19 +2,21 @@
 title: Jim Armstrong
 name: Jim Armstrong
 name-sort: Armstrong, Jim
-games: 47
-wins: 28
-losses: 19
-inturn-total: 206
-inturn-percent: 82
-outturn-total: 246
-outturn-percent: 79
-draw-total: 205
-draw-percent: 82
-takeout-total: 247
-takeout-percent: 79
-shots-total: 452
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 47
+   wins: 28
+   losses: 19
+   inturn-total: 206
+   inturn-percent: 82
+   outturn-total: 246
+   outturn-percent: 79
+   draw-total: 205
+   draw-percent: 82
+   takeout-total: 247
+   takeout-percent: 79
+   shots-total: 452
+   shots-percent: 80
 years:
  - year: 1983
    event: Brier

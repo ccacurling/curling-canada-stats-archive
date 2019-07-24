@@ -2,9 +2,11 @@
 title: Mike Chernoff
 name: Mike Chernoff
 name-sort: Chernoff, Mike
-games: 12
-wins: 10
-losses: 2
+totals:
+ - event: Brier
+   games: 12
+   wins: 10
+   losses: 2
 years:
  - year: 1983
    event: Brier

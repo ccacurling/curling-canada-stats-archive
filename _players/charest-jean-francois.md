@@ -2,19 +2,21 @@
 title: Jean-Francois Charest
 name: Jean-Francois Charest
 name-sort: Charest, Jean-Francois
-games: 3
-wins: 1
-losses: 2
-inturn-total: 10
-inturn-percent: 95
-outturn-total: 21
-outturn-percent: 82
-draw-total: 18
-draw-percent: 83
-takeout-total: 13
-takeout-percent: 90
-shots-total: 31
-shots-percent: 86
+totals:
+ - event: Brier
+   games: 3
+   wins: 1
+   losses: 2
+   inturn-total: 10
+   inturn-percent: 95
+   outturn-total: 21
+   outturn-percent: 82
+   draw-total: 18
+   draw-percent: 83
+   takeout-total: 13
+   takeout-percent: 90
+   shots-total: 31
+   shots-percent: 86
 years:
  - year: 2011
    event: Brier

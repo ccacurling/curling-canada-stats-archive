@@ -2,9 +2,11 @@
 title: Claude Lauziere
 name: Claude Lauziere
 name-sort: Lauziere, Claude
-games: 11
-wins: 6
-losses: 5
+totals:
+ - event: Brier
+   games: 11
+   wins: 6
+   losses: 5
 years:
  - year: 1983
    event: Brier

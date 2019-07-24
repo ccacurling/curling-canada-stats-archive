@@ -2,19 +2,21 @@
 title: Ed Werenich
 name: Ed Werenich
 name-sort: Werenich, Ed
-games: 89
-wins: 63
-losses: 26
-inturn-total: 326
-inturn-percent: 78
-outturn-total: 582
-outturn-percent: 81
-draw-total: 387
-draw-percent: 79
-takeout-total: 521
-takeout-percent: 80
-shots-total: 908
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 89
+   wins: 63
+   losses: 26
+   inturn-total: 326
+   inturn-percent: 78
+   outturn-total: 582
+   outturn-percent: 81
+   draw-total: 387
+   draw-percent: 79
+   takeout-total: 521
+   takeout-percent: 80
+   shots-total: 908
+   shots-percent: 80
 years:
  - year: 1981
    event: Brier

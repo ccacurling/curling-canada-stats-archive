@@ -2,19 +2,21 @@
 title: Brenda Bohmer
 name: Brenda Bohmer
 name-sort: Bohmer, Brenda
-games: 61
-wins: 39
-losses: 22
-inturn-total: 540
-inturn-percent: 77
-outturn-total: 596
-outturn-percent: 82
-draw-total: 387
-draw-percent: 77
-takeout-total: 749
-takeout-percent: 82
-shots-total: 1136
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 61
+   wins: 39
+   losses: 22
+   inturn-total: 540
+   inturn-percent: 77
+   outturn-total: 596
+   outturn-percent: 82
+   draw-total: 387
+   draw-percent: 77
+   takeout-total: 749
+   takeout-percent: 82
+   shots-total: 1136
+   shots-percent: 80
 years:
  - year: 1988
    event: Hearts

@@ -2,19 +2,21 @@
 title: Jenn Brine
 name: Jenn Brine
 name-sort: Brine, Jenn
-games: 13
-wins: 5
-losses: 8
-inturn-total: 158
-inturn-percent: 83
-outturn-total: 83
-outturn-percent: 76
-draw-total: 138
-draw-percent: 82
-takeout-total: 103
-takeout-percent: 79
-shots-total: 241
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 13
+   wins: 5
+   losses: 8
+   inturn-total: 158
+   inturn-percent: 83
+   outturn-total: 83
+   outturn-percent: 76
+   draw-total: 138
+   draw-percent: 82
+   takeout-total: 103
+   takeout-percent: 79
+   shots-total: 241
+   shots-percent: 80
 years:
  - year: 2016
    event: Hearts

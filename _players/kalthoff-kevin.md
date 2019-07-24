@@ -2,19 +2,21 @@
 title: Kevin Kalthoff
 name: Kevin Kalthoff
 name-sort: Kalthoff, Kevin
-games: 33
-wins: 14
-losses: 19
-inturn-total: 305
-inturn-percent: 80
-outturn-total: 335
-outturn-percent: 81
-draw-total: 285
-draw-percent: 80
-takeout-total: 355
-takeout-percent: 80
-shots-total: 640
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 33
+   wins: 14
+   losses: 19
+   inturn-total: 305
+   inturn-percent: 80
+   outturn-total: 335
+   outturn-percent: 81
+   draw-total: 285
+   draw-percent: 80
+   takeout-total: 355
+   takeout-percent: 80
+   shots-total: 640
+   shots-percent: 80
 years:
  - year: 1994
    event: Brier

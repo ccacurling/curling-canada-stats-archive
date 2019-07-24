@@ -2,19 +2,21 @@
 title: Barb Jones-Gordon
 name: Barb Jones-Gordon
 name-sort: Jones-Gordon, Barb
-games: 23
-wins: 18
-losses: 5
-inturn-total: 26
-inturn-percent: 64
-outturn-total: 390
-outturn-percent: 78
-draw-total: 197
-draw-percent: 79
-takeout-total: 219
-takeout-percent: 75
-shots-total: 416
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 23
+   wins: 18
+   losses: 5
+   inturn-total: 26
+   inturn-percent: 64
+   outturn-total: 390
+   outturn-percent: 78
+   draw-total: 197
+   draw-percent: 79
+   takeout-total: 219
+   takeout-percent: 75
+   shots-total: 416
+   shots-percent: 77
 years:
  - year: 1982
    event: Hearts

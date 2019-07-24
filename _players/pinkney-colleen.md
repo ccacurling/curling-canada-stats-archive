@@ -2,19 +2,21 @@
 title: Colleen Pinkney
 name: Colleen Pinkney
 name-sort: Pinkney, Colleen
-games: 22
-wins: 8
-losses: 14
-inturn-total: 210
-inturn-percent: 71
-outturn-total: 226
-outturn-percent: 71
-draw-total: 219
-draw-percent: 69
-takeout-total: 217
-takeout-percent: 73
-shots-total: 436
-shots-percent: 71
+totals:
+ - event: Hearts
+   games: 22
+   wins: 8
+   losses: 14
+   inturn-total: 210
+   inturn-percent: 71
+   outturn-total: 226
+   outturn-percent: 71
+   draw-total: 219
+   draw-percent: 69
+   takeout-total: 217
+   takeout-percent: 73
+   shots-total: 436
+   shots-percent: 71
 years:
  - year: 1988
    event: Hearts

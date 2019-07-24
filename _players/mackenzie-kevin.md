@@ -2,19 +2,21 @@
 title: Kevin MacKenzie
 name: Kevin MacKenzie
 name-sort: MacKenzie, Kevin
-games: 24
-wins: 13
-losses: 11
-inturn-total: 232
-inturn-percent: 84
-outturn-total: 214
-outturn-percent: 85
-draw-total: 299
-draw-percent: 85
-takeout-total: 147
-takeout-percent: 84
-shots-total: 446
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 24
+   wins: 13
+   losses: 11
+   inturn-total: 232
+   inturn-percent: 84
+   outturn-total: 214
+   outturn-percent: 85
+   draw-total: 299
+   draw-percent: 85
+   takeout-total: 147
+   takeout-percent: 84
+   shots-total: 446
+   shots-percent: 85
 years:
  - year: 2002
    event: Brier

@@ -2,19 +2,21 @@
 title: Alison Griffin
 name: Alison Griffin
 name-sort: Griffin, Alison
-games: 7
-wins: 1
-losses: 6
-inturn-total: 59
-inturn-percent: 60
-outturn-total: 61
-outturn-percent: 63
-draw-total: 44
-draw-percent: 55
-takeout-total: 76
-takeout-percent: 66
-shots-total: 120
-shots-percent: 62
+totals:
+ - event: Hearts
+   games: 7
+   wins: 1
+   losses: 6
+   inturn-total: 59
+   inturn-percent: 60
+   outturn-total: 61
+   outturn-percent: 63
+   draw-total: 44
+   draw-percent: 55
+   takeout-total: 76
+   takeout-percent: 66
+   shots-total: 120
+   shots-percent: 62
 years:
  - year: 2019
    event: Hearts

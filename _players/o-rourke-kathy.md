@@ -2,19 +2,21 @@
 title: Kathy O'Rourke
 name: Kathy O'Rourke
 name-sort: O'Rourke, Kathy
-games: 70
-wins: 30
-losses: 40
-inturn-total: 663
-inturn-percent: 71
-outturn-total: 693
-outturn-percent: 74
-draw-total: 531
-draw-percent: 71
-takeout-total: 825
-takeout-percent: 74
-shots-total: 1356
-shots-percent: 73
+totals:
+ - event: Hearts
+   games: 70
+   wins: 30
+   losses: 40
+   inturn-total: 663
+   inturn-percent: 71
+   outturn-total: 693
+   outturn-percent: 74
+   draw-total: 531
+   draw-percent: 71
+   takeout-total: 825
+   takeout-percent: 74
+   shots-total: 1356
+   shots-percent: 73
 years:
  - year: 1989
    event: Hearts

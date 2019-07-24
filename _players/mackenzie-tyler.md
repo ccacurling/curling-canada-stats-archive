@@ -2,19 +2,21 @@
 title: Tyler MacKenzie
 name: Tyler MacKenzie
 name-sort: MacKenzie, Tyler
-games: 22
-wins: 7
-losses: 15
-inturn-total: 193
-inturn-percent: 79
-outturn-total: 220
-outturn-percent: 78
-draw-total: 210
-draw-percent: 79
-takeout-total: 203
-takeout-percent: 78
-shots-total: 413
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 22
+   wins: 7
+   losses: 15
+   inturn-total: 193
+   inturn-percent: 79
+   outturn-total: 220
+   outturn-percent: 78
+   draw-total: 210
+   draw-percent: 79
+   takeout-total: 203
+   takeout-percent: 78
+   shots-total: 413
+   shots-percent: 79
 years:
  - year: 2012
    event: Brier

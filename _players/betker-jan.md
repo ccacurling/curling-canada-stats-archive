@@ -2,19 +2,21 @@
 title: Jan Betker
 name: Jan Betker
 name-sort: Betker, Jan
-games: 113
-wins: 80
-losses: 33
-inturn-total: 1182
-inturn-percent: 80
-outturn-total: 892
-outturn-percent: 79
-draw-total: 768
-draw-percent: 76
-takeout-total: 1306
-takeout-percent: 82
-shots-total: 2074
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 113
+   wins: 80
+   losses: 33
+   inturn-total: 1182
+   inturn-percent: 80
+   outturn-total: 892
+   outturn-percent: 79
+   draw-total: 768
+   draw-percent: 76
+   takeout-total: 1306
+   takeout-percent: 82
+   shots-total: 2074
+   shots-percent: 80
 years:
  - year: 1987
    event: Hearts

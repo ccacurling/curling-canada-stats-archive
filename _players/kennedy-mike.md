@@ -2,19 +2,21 @@
 title: Mike Kennedy
 name: Mike Kennedy
 name-sort: Kennedy, Mike
-games: 66
-wins: 19
-losses: 47
-inturn-total: 584
-inturn-percent: 78
-outturn-total: 674
-outturn-percent: 77
-draw-total: 543
-draw-percent: 76
-takeout-total: 715
-takeout-percent: 78
-shots-total: 1258
-shots-percent: 77
+totals:
+ - event: Brier
+   games: 66
+   wins: 19
+   losses: 47
+   inturn-total: 584
+   inturn-percent: 78
+   outturn-total: 674
+   outturn-percent: 77
+   draw-total: 543
+   draw-percent: 76
+   takeout-total: 715
+   takeout-percent: 78
+   shots-total: 1258
+   shots-percent: 77
 years:
  - year: 1992
    event: Brier

@@ -2,19 +2,21 @@
 title: Martin Crete
 name: Martin Crete
 name-sort: Crete, Martin
-games: 88
-wins: 45
-losses: 43
-inturn-total: 451
-inturn-percent: 84
-outturn-total: 1247
-outturn-percent: 84
-draw-total: 643
-draw-percent: 83
-takeout-total: 1055
-takeout-percent: 84
-shots-total: 1698
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 88
+   wins: 45
+   losses: 43
+   inturn-total: 451
+   inturn-percent: 84
+   outturn-total: 1247
+   outturn-percent: 84
+   draw-total: 643
+   draw-percent: 83
+   takeout-total: 1055
+   takeout-percent: 84
+   shots-total: 1698
+   shots-percent: 84
 years:
  - year: 2008
    event: Brier

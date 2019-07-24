@@ -2,19 +2,21 @@
 title: Deane Horning
 name: Deane Horning
 name-sort: Horning, Deane
-games: 35
-wins: 19
-losses: 16
-inturn-total: 312
-inturn-percent: 84
-outturn-total: 339
-outturn-percent: 80
-draw-total: 272
-draw-percent: 79
-takeout-total: 379
-takeout-percent: 84
-shots-total: 651
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 35
+   wins: 19
+   losses: 16
+   inturn-total: 312
+   inturn-percent: 84
+   outturn-total: 339
+   outturn-percent: 80
+   draw-total: 272
+   draw-percent: 79
+   takeout-total: 379
+   takeout-percent: 84
+   shots-total: 651
+   shots-percent: 82
 years:
  - year: 2002
    event: Brier

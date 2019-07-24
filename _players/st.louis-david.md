@@ -2,19 +2,21 @@
 title: David St.Louis
 name: David St.Louis
 name-sort: St.Louis, David
-games: 15
-wins: 0
-losses: 15
-inturn-total: 74
-inturn-percent: 60
-outturn-total: 175
-outturn-percent: 67
-draw-total: 101
-draw-percent: 55
-takeout-total: 148
-takeout-percent: 71
-shots-total: 249
-shots-percent: 65
+totals:
+ - event: Brier
+   games: 15
+   wins: 0
+   losses: 15
+   inturn-total: 74
+   inturn-percent: 60
+   outturn-total: 175
+   outturn-percent: 67
+   draw-total: 101
+   draw-percent: 55
+   takeout-total: 148
+   takeout-percent: 71
+   shots-total: 249
+   shots-percent: 65
 years:
  - year: 2018
    event: Brier

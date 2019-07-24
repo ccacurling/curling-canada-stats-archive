@@ -2,19 +2,21 @@
 title: Chris More
 name: Chris More
 name-sort: More, Chris
-games: 24
-wins: 18
-losses: 6
-inturn-total: 209
-inturn-percent: 75
-outturn-total: 240
-outturn-percent: 70
-draw-total: 201
-draw-percent: 72
-takeout-total: 248
-takeout-percent: 72
-shots-total: 449
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 24
+   wins: 18
+   losses: 6
+   inturn-total: 209
+   inturn-percent: 75
+   outturn-total: 240
+   outturn-percent: 70
+   draw-total: 201
+   draw-percent: 72
+   takeout-total: 248
+   takeout-percent: 72
+   shots-total: 449
+   shots-percent: 72
 years:
  - year: 1984
    event: Hearts

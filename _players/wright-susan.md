@@ -2,19 +2,21 @@
 title: Susan Wright
 name: Susan Wright
 name-sort: Wright, Susan
-games: 33
-wins: 11
-losses: 22
-inturn-total: 325
-inturn-percent: 70
-outturn-total: 297
-outturn-percent: 78
-draw-total: 325
-draw-percent: 72
-takeout-total: 297
-takeout-percent: 76
-shots-total: 622
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 33
+   wins: 11
+   losses: 22
+   inturn-total: 325
+   inturn-percent: 70
+   outturn-total: 297
+   outturn-percent: 78
+   draw-total: 325
+   draw-percent: 72
+   takeout-total: 297
+   takeout-percent: 76
+   shots-total: 622
+   shots-percent: 74
 years:
  - year: 1991
    event: Hearts

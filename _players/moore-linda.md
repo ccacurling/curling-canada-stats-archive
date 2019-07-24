@@ -2,19 +2,21 @@
 title: Linda Moore
 name: Linda Moore
 name-sort: Moore, Linda
-games: 36
-wins: 31
-losses: 5
-inturn-total: 217
-inturn-percent: 68
-outturn-total: 449
-outturn-percent: 73
-draw-total: 277
-draw-percent: 67
-takeout-total: 389
-takeout-percent: 74
-shots-total: 666
-shots-percent: 71
+totals:
+ - event: Hearts
+   games: 36
+   wins: 31
+   losses: 5
+   inturn-total: 217
+   inturn-percent: 68
+   outturn-total: 449
+   outturn-percent: 73
+   draw-total: 277
+   draw-percent: 67
+   takeout-total: 389
+   takeout-percent: 74
+   shots-total: 666
+   shots-percent: 71
 years:
  - year: 1984
    event: Hearts

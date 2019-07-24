@@ -2,19 +2,21 @@
 title: Peter MacPhee
 name: Peter MacPhee
 name-sort: MacPhee, Peter
-games: 44
-wins: 18
-losses: 26
-inturn-total: 306
-inturn-percent: 76
-outturn-total: 350
-outturn-percent: 72
-draw-total: 332
-draw-percent: 75
-takeout-total: 324
-takeout-percent: 73
-shots-total: 656
-shots-percent: 74
+totals:
+ - event: Brier
+   games: 44
+   wins: 18
+   losses: 26
+   inturn-total: 306
+   inturn-percent: 76
+   outturn-total: 350
+   outturn-percent: 72
+   draw-total: 332
+   draw-percent: 75
+   takeout-total: 324
+   takeout-percent: 73
+   shots-total: 656
+   shots-percent: 74
 years:
  - year: 1980
    event: Brier

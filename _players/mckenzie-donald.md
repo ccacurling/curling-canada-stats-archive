@@ -2,19 +2,21 @@
 title: Donald McKenzie
 name: Donald McKenzie
 name-sort: McKenzie, Donald
-games: 36
-wins: 32
-losses: 4
-inturn-total: 328
-inturn-percent: 82
-outturn-total: 365
-outturn-percent: 85
-draw-total: 286
-draw-percent: 83
-takeout-total: 407
-takeout-percent: 83
-shots-total: 693
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 36
+   wins: 32
+   losses: 4
+   inturn-total: 328
+   inturn-percent: 82
+   outturn-total: 365
+   outturn-percent: 85
+   draw-total: 286
+   draw-percent: 83
+   takeout-total: 407
+   takeout-percent: 83
+   shots-total: 693
+   shots-percent: 83
 years:
  - year: 1985
    event: Brier

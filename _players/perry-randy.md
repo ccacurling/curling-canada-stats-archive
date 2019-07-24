@@ -2,19 +2,21 @@
 title: Randy Perry
 name: Randy Perry
 name-sort: Perry, Randy
-games: 24
-wins: 14
-losses: 10
-inturn-total: 114
-inturn-percent: 71
-outturn-total: 126
-outturn-percent: 75
-draw-total: 98
-draw-percent: 67
-takeout-total: 142
-takeout-percent: 77
-shots-total: 240
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 24
+   wins: 14
+   losses: 10
+   inturn-total: 114
+   inturn-percent: 71
+   outturn-total: 126
+   outturn-percent: 75
+   draw-total: 98
+   draw-percent: 67
+   takeout-total: 142
+   takeout-percent: 77
+   shots-total: 240
+   shots-percent: 73
 years:
  - year: 1982
    event: Brier

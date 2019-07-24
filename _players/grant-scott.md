@@ -2,19 +2,21 @@
 title: Scott Grant
 name: Scott Grant
 name-sort: Grant, Scott
-games: 26
-wins: 21
-losses: 5
-inturn-total: 232
-inturn-percent: 77
-outturn-total: 253
-outturn-percent: 87
-draw-total: 271
-draw-percent: 85
-takeout-total: 214
-takeout-percent: 79
-shots-total: 485
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 26
+   wins: 21
+   losses: 5
+   inturn-total: 232
+   inturn-percent: 77
+   outturn-total: 253
+   outturn-percent: 87
+   draw-total: 271
+   draw-percent: 85
+   takeout-total: 214
+   takeout-percent: 79
+   shots-total: 485
+   shots-percent: 82
 years:
  - year: 1994
    event: Brier

@@ -2,19 +2,21 @@
 title: Penny Ryan
 name: Penny Ryan
 name-sort: Ryan, Penny
-games: 23
-wins: 14
-losses: 9
-inturn-total: 251
-inturn-percent: 78
-outturn-total: 298
-outturn-percent: 76
-draw-total: 260
-draw-percent: 77
-takeout-total: 289
-takeout-percent: 77
-shots-total: 549
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 23
+   wins: 14
+   losses: 9
+   inturn-total: 251
+   inturn-percent: 78
+   outturn-total: 298
+   outturn-percent: 76
+   draw-total: 260
+   draw-percent: 77
+   takeout-total: 289
+   takeout-percent: 77
+   shots-total: 549
+   shots-percent: 77
 years:
  - year: 1983
    event: Hearts

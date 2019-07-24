@@ -2,9 +2,11 @@
 title: Al Roemer
 name: Al Roemer
 name-sort: Roemer, Al
-games: 12
-wins: 9
-losses: 3
+totals:
+ - event: Brier
+   games: 12
+   wins: 9
+   losses: 3
 years:
  - year: 1982
    event: Brier

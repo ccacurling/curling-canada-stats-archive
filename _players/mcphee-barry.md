@@ -2,19 +2,21 @@
 title: Barry McPhee
 name: Barry McPhee
 name-sort: McPhee, Barry
-games: 47
-wins: 24
-losses: 23
-inturn-total: 251
-inturn-percent: 73
-outturn-total: 409
-outturn-percent: 73
-draw-total: 297
-draw-percent: 70
-takeout-total: 363
-takeout-percent: 76
-shots-total: 660
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 47
+   wins: 24
+   losses: 23
+   inturn-total: 251
+   inturn-percent: 73
+   outturn-total: 409
+   outturn-percent: 73
+   draw-total: 297
+   draw-percent: 70
+   takeout-total: 363
+   takeout-percent: 76
+   shots-total: 660
+   shots-percent: 73
 years:
  - year: 1981
    event: Brier

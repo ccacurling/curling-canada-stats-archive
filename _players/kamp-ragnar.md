@@ -2,19 +2,21 @@
 title: Ragnar Kamp
 name: Ragnar Kamp
 name-sort: Kamp, Ragnar
-games: 22
-wins: 11
-losses: 11
-inturn-total: 93
-inturn-percent: 71
-outturn-total: 102
-outturn-percent: 80
-draw-total: 94
-draw-percent: 76
-takeout-total: 101
-takeout-percent: 76
-shots-total: 195
-shots-percent: 76
+totals:
+ - event: Brier
+   games: 22
+   wins: 11
+   losses: 11
+   inturn-total: 93
+   inturn-percent: 71
+   outturn-total: 102
+   outturn-percent: 80
+   draw-total: 94
+   draw-percent: 76
+   takeout-total: 101
+   takeout-percent: 76
+   shots-total: 195
+   shots-percent: 76
 years:
  - year: 1984
    event: Brier

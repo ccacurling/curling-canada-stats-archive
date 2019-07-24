@@ -2,9 +2,11 @@
 title: Denis Marchand
 name: Denis Marchand
 name-sort: Marchand, Denis
-games: 11
-wins: 6
-losses: 5
+totals:
+ - event: Brier
+   games: 11
+   wins: 6
+   losses: 5
 years:
  - year: 1983
    event: Brier

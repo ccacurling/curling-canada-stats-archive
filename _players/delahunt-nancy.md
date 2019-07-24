@@ -2,19 +2,21 @@
 title: Nancy Delahunt
 name: Nancy Delahunt
 name-sort: Delahunt, Nancy
-games: 136
-wins: 86
-losses: 50
-inturn-total: 724
-inturn-percent: 82
-outturn-total: 1859
-outturn-percent: 86
-draw-total: 1744
-draw-percent: 86
-takeout-total: 839
-takeout-percent: 81
-shots-total: 2583
-shots-percent: 85
+totals:
+ - event: Hearts
+   games: 136
+   wins: 86
+   losses: 50
+   inturn-total: 724
+   inturn-percent: 82
+   outturn-total: 1859
+   outturn-percent: 86
+   draw-total: 1744
+   draw-percent: 86
+   takeout-total: 839
+   takeout-percent: 81
+   shots-total: 2583
+   shots-percent: 85
 years:
  - year: 1991
    event: Hearts

@@ -2,19 +2,21 @@
 title: Chelsea Carey
 name: Chelsea Carey
 name-sort: Carey, Chelsea
-games: 53
-wins: 42
-losses: 11
-inturn-total: 487
-inturn-percent: 83
-outturn-total: 536
-outturn-percent: 83
-draw-total: 424
-draw-percent: 81
-takeout-total: 599
-takeout-percent: 84
-shots-total: 1023
-shots-percent: 83
+totals:
+ - event: Hearts
+   games: 53
+   wins: 42
+   losses: 11
+   inturn-total: 487
+   inturn-percent: 83
+   outturn-total: 536
+   outturn-percent: 83
+   draw-total: 424
+   draw-percent: 81
+   takeout-total: 599
+   takeout-percent: 84
+   shots-total: 1023
+   shots-percent: 83
 years:
  - year: 2014
    event: Hearts

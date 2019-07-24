@@ -2,19 +2,21 @@
 title: Glenn Howard
 name: Glenn Howard
 name-sort: Howard, Glenn
-games: 218
-wins: 159
-losses: 59
-inturn-total: 1940
-inturn-percent: 84
-outturn-total: 2131
-outturn-percent: 85
-draw-total: 1574
-draw-percent: 83
-takeout-total: 2497
-takeout-percent: 85
-shots-total: 4071
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 218
+   wins: 159
+   losses: 59
+   inturn-total: 1940
+   inturn-percent: 84
+   outturn-total: 2131
+   outturn-percent: 85
+   draw-total: 1574
+   draw-percent: 83
+   takeout-total: 2497
+   takeout-percent: 85
+   shots-total: 4071
+   shots-percent: 85
 years:
  - year: 1986
    event: Brier

@@ -2,19 +2,21 @@
 title: Sandra Mulroney
 name: Sandra Mulroney
 name-sort: Mulroney, Sandra
-games: 37
-wins: 24
-losses: 13
-inturn-total: 361
-inturn-percent: 78
-outturn-total: 351
-outturn-percent: 77
-draw-total: 222
-draw-percent: 75
-takeout-total: 490
-takeout-percent: 78
-shots-total: 712
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 37
+   wins: 24
+   losses: 13
+   inturn-total: 361
+   inturn-percent: 78
+   outturn-total: 351
+   outturn-percent: 77
+   draw-total: 222
+   draw-percent: 75
+   takeout-total: 490
+   takeout-percent: 78
+   shots-total: 712
+   shots-percent: 77
 years:
  - year: 1996
    event: Hearts

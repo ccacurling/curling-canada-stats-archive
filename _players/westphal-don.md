@@ -2,19 +2,21 @@
 title: Don Westphal
 name: Don Westphal
 name-sort: Westphal, Don
-games: 68
-wins: 38
-losses: 30
-inturn-total: 578
-inturn-percent: 76
-outturn-total: 671
-outturn-percent: 79
-draw-total: 602
-draw-percent: 77
-takeout-total: 647
-takeout-percent: 78
-shots-total: 1249
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 68
+   wins: 38
+   losses: 30
+   inturn-total: 578
+   inturn-percent: 76
+   outturn-total: 671
+   outturn-percent: 79
+   draw-total: 602
+   draw-percent: 77
+   takeout-total: 647
+   takeout-percent: 78
+   shots-total: 1249
+   shots-percent: 78
 years:
  - year: 1989
    event: Brier

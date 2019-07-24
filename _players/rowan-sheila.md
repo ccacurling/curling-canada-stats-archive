@@ -2,19 +2,21 @@
 title: Sheila Rowan
 name: Sheila Rowan
 name-sort: Rowan, Sheila
-games: 20
-wins: 7
-losses: 13
-inturn-total: 208
-inturn-percent: 62
-outturn-total: 162
-outturn-percent: 63
-draw-total: 182
-draw-percent: 63
-takeout-total: 188
-takeout-percent: 61
-shots-total: 370
-shots-percent: 62
+totals:
+ - event: Hearts
+   games: 20
+   wins: 7
+   losses: 13
+   inturn-total: 208
+   inturn-percent: 62
+   outturn-total: 162
+   outturn-percent: 63
+   draw-total: 182
+   draw-percent: 63
+   takeout-total: 188
+   takeout-percent: 61
+   shots-total: 370
+   shots-percent: 62
 years:
  - year: 1983
    event: Hearts

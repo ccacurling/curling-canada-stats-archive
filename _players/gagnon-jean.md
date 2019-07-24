@@ -2,19 +2,21 @@
 title: Jean Gagnon
 name: Jean Gagnon
 name-sort: Gagnon, Jean
-games: 48
-wins: 22
-losses: 26
-inturn-total: 306
-inturn-percent: 84
-outturn-total: 568
-outturn-percent: 87
-draw-total: 734
-draw-percent: 88
-takeout-total: 140
-takeout-percent: 77
-shots-total: 874
-shots-percent: 86
+totals:
+ - event: Brier
+   games: 48
+   wins: 22
+   losses: 26
+   inturn-total: 306
+   inturn-percent: 84
+   outturn-total: 568
+   outturn-percent: 87
+   draw-total: 734
+   draw-percent: 88
+   takeout-total: 140
+   takeout-percent: 77
+   shots-total: 874
+   shots-percent: 86
 years:
  - year: 2000
    event: Brier

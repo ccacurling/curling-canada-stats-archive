@@ -2,19 +2,21 @@
 title: Mathew Camm
 name: Mathew Camm
 name-sort: Camm, Mathew
-games: 24
-wins: 14
-losses: 10
-inturn-total: 245
-inturn-percent: 86
-outturn-total: 209
-outturn-percent: 85
-draw-total: 161
-draw-percent: 89
-takeout-total: 293
-takeout-percent: 84
-shots-total: 454
-shots-percent: 86
+totals:
+ - event: Brier
+   games: 24
+   wins: 14
+   losses: 10
+   inturn-total: 245
+   inturn-percent: 86
+   outturn-total: 209
+   outturn-percent: 85
+   draw-total: 161
+   draw-percent: 89
+   takeout-total: 293
+   takeout-percent: 84
+   shots-total: 454
+   shots-percent: 86
 years:
  - year: 2015
    event: Brier

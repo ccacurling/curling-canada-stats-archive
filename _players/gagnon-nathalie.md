@@ -2,19 +2,21 @@
 title: Nathalie Gagnon
 name: Nathalie Gagnon
 name-sort: Gagnon, Nathalie
-games: 33
-wins: 12
-losses: 21
-inturn-total: 322
-inturn-percent: 70
-outturn-total: 289
-outturn-percent: 67
-draw-total: 283
-draw-percent: 62
-takeout-total: 328
-takeout-percent: 75
-shots-total: 611
-shots-percent: 69
+totals:
+ - event: Hearts
+   games: 33
+   wins: 12
+   losses: 21
+   inturn-total: 322
+   inturn-percent: 70
+   outturn-total: 289
+   outturn-percent: 67
+   draw-total: 283
+   draw-percent: 62
+   takeout-total: 328
+   takeout-percent: 75
+   shots-total: 611
+   shots-percent: 69
 years:
  - year: 1998
    event: Hearts

@@ -2,19 +2,21 @@
 title: Chris Schille
 name: Chris Schille
 name-sort: Schille, Chris
-games: 66
-wins: 29
-losses: 37
-inturn-total: 538
-inturn-percent: 81
-outturn-total: 738
-outturn-percent: 83
-draw-total: 595
-draw-percent: 81
-takeout-total: 681
-takeout-percent: 83
-shots-total: 1276
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 66
+   wins: 29
+   losses: 37
+   inturn-total: 538
+   inturn-percent: 81
+   outturn-total: 738
+   outturn-percent: 83
+   draw-total: 595
+   draw-percent: 81
+   takeout-total: 681
+   takeout-percent: 83
+   shots-total: 1276
+   shots-percent: 82
 years:
  - year: 2007
    event: Brier

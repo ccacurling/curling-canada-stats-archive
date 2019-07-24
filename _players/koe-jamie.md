@@ -2,19 +2,21 @@
 title: Jamie Koe
 name: Jamie Koe
 name-sort: Koe, Jamie
-games: 137
-wins: 41
-losses: 96
-inturn-total: 1159
-inturn-percent: 74
-outturn-total: 1251
-outturn-percent: 76
-draw-total: 1128
-draw-percent: 74
-takeout-total: 1282
-takeout-percent: 76
-shots-total: 2410
-shots-percent: 75
+totals:
+ - event: Brier
+   games: 137
+   wins: 41
+   losses: 96
+   inturn-total: 1159
+   inturn-percent: 74
+   outturn-total: 1251
+   outturn-percent: 76
+   draw-total: 1128
+   draw-percent: 74
+   takeout-total: 1282
+   takeout-percent: 76
+   shots-total: 2410
+   shots-percent: 75
 years:
  - year: 2006
    event: Brier

@@ -2,19 +2,21 @@
 title: Ed Lukowich
 name: Ed Lukowich
 name-sort: Lukowich, Ed
-games: 47
-wins: 33
-losses: 14
-inturn-total: 194
-inturn-percent: 72
-outturn-total: 252
-outturn-percent: 79
-draw-total: 214
-draw-percent: 74
-takeout-total: 232
-takeout-percent: 79
-shots-total: 446
-shots-percent: 76
+totals:
+ - event: Brier
+   games: 47
+   wins: 33
+   losses: 14
+   inturn-total: 194
+   inturn-percent: 72
+   outturn-total: 252
+   outturn-percent: 79
+   draw-total: 214
+   draw-percent: 74
+   takeout-total: 232
+   takeout-percent: 79
+   shots-total: 446
+   shots-percent: 76
 years:
  - year: 1983
    event: Brier

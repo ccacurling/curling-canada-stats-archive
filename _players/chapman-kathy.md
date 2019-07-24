@@ -2,19 +2,21 @@
 title: Kathy Chapman
 name: Kathy Chapman
 name-sort: Chapman, Kathy
-games: 43
-wins: 13
-losses: 30
-inturn-total: 364
-inturn-percent: 63
-outturn-total: 455
-outturn-percent: 66
-draw-total: 369
-draw-percent: 63
-takeout-total: 450
-takeout-percent: 67
-shots-total: 819
-shots-percent: 65
+totals:
+ - event: Hearts
+   games: 43
+   wins: 13
+   losses: 30
+   inturn-total: 364
+   inturn-percent: 63
+   outturn-total: 455
+   outturn-percent: 66
+   draw-total: 369
+   draw-percent: 63
+   takeout-total: 450
+   takeout-percent: 67
+   shots-total: 819
+   shots-percent: 65
 years:
  - year: 1986
    event: Hearts

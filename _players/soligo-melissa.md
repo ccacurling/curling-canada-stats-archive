@@ -2,19 +2,21 @@
 title: Melissa Soligo
 name: Melissa Soligo
 name-sort: Soligo, Melissa
-games: 47
-wins: 33
-losses: 14
-inturn-total: 453
-inturn-percent: 73
-outturn-total: 412
-outturn-percent: 77
-draw-total: 330
-draw-percent: 73
-takeout-total: 535
-takeout-percent: 76
-shots-total: 865
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 47
+   wins: 33
+   losses: 14
+   inturn-total: 453
+   inturn-percent: 73
+   outturn-total: 412
+   outturn-percent: 77
+   draw-total: 330
+   draw-percent: 73
+   takeout-total: 535
+   takeout-percent: 76
+   shots-total: 865
+   shots-percent: 74
 years:
  - year: 1989
    event: Hearts

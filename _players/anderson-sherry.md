@@ -2,19 +2,21 @@
 title: Sherry Anderson
 name: Sherry Anderson
 name-sort: Anderson, Sherry
-games: 83
-wins: 50
-losses: 33
-inturn-total: 706
-inturn-percent: 80
-outturn-total: 866
-outturn-percent: 79
-draw-total: 653
-draw-percent: 76
-takeout-total: 919
-takeout-percent: 82
-shots-total: 1572
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 83
+   wins: 50
+   losses: 33
+   inturn-total: 706
+   inturn-percent: 80
+   outturn-total: 866
+   outturn-percent: 79
+   draw-total: 653
+   draw-percent: 76
+   takeout-total: 919
+   takeout-percent: 82
+   shots-total: 1572
+   shots-percent: 79
 years:
  - year: 1994
    event: Hearts

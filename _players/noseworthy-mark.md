@@ -2,19 +2,21 @@
 title: Mark Noseworthy
 name: Mark Noseworthy
 name-sort: Noseworthy, Mark
-games: 46
-wins: 25
-losses: 21
-inturn-total: 293
-inturn-percent: 75
-outturn-total: 317
-outturn-percent: 72
-draw-total: 284
-draw-percent: 72
-takeout-total: 326
-takeout-percent: 76
-shots-total: 610
-shots-percent: 74
+totals:
+ - event: Brier
+   games: 46
+   wins: 25
+   losses: 21
+   inturn-total: 293
+   inturn-percent: 75
+   outturn-total: 317
+   outturn-percent: 72
+   draw-total: 284
+   draw-percent: 72
+   takeout-total: 326
+   takeout-percent: 76
+   shots-total: 610
+   shots-percent: 74
 years:
  - year: 1982
    event: Brier

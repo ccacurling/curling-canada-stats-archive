@@ -2,19 +2,21 @@
 title: Anne Merklinger
 name: Anne Merklinger
 name-sort: Merklinger, Anne
-games: 50
-wins: 31
-losses: 19
-inturn-total: 503
-inturn-percent: 77
-outturn-total: 430
-outturn-percent: 73
-draw-total: 472
-draw-percent: 71
-takeout-total: 461
-takeout-percent: 80
-shots-total: 933
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 50
+   wins: 31
+   losses: 19
+   inturn-total: 503
+   inturn-percent: 77
+   outturn-total: 430
+   outturn-percent: 73
+   draw-total: 472
+   draw-percent: 71
+   takeout-total: 461
+   takeout-percent: 80
+   shots-total: 933
+   shots-percent: 75
 years:
  - year: 1990
    event: Hearts

@@ -2,19 +2,21 @@
 title: Dave MacFadyen
 name: Dave MacFadyen
 name-sort: MacFadyen, Dave
-games: 12
-wins: 2
-losses: 10
-inturn-total: 83
-inturn-percent: 56
-outturn-total: 124
-outturn-percent: 63
-draw-total: 92
-draw-percent: 51
-takeout-total: 115
-takeout-percent: 68
-shots-total: 207
-shots-percent: 60
+totals:
+ - event: Brier
+   games: 12
+   wins: 2
+   losses: 10
+   inturn-total: 83
+   inturn-percent: 56
+   outturn-total: 124
+   outturn-percent: 63
+   draw-total: 92
+   draw-percent: 51
+   takeout-total: 115
+   takeout-percent: 68
+   shots-total: 207
+   shots-percent: 60
 years:
  - year: 1987
    event: Brier

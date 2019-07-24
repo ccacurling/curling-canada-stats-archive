@@ -2,19 +2,21 @@
 title: Jean MacLean
 name: Jean MacLean
 name-sort: MacLean, Jean
-games: 20
-wins: 7
-losses: 13
-inturn-total: 170
-inturn-percent: 59
-outturn-total: 204
-outturn-percent: 67
-draw-total: 180
-draw-percent: 65
-takeout-total: 194
-takeout-percent: 62
-shots-total: 374
-shots-percent: 63
+totals:
+ - event: Hearts
+   games: 20
+   wins: 7
+   losses: 13
+   inturn-total: 170
+   inturn-percent: 59
+   outturn-total: 204
+   outturn-percent: 67
+   draw-total: 180
+   draw-percent: 65
+   takeout-total: 194
+   takeout-percent: 62
+   shots-total: 374
+   shots-percent: 63
 years:
  - year: 1983
    event: Hearts

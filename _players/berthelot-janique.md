@@ -2,19 +2,21 @@
 title: Janique Berthelot
 name: Janique Berthelot
 name-sort: Berthelot, Janique
-games: 22
-wins: 7
-losses: 15
-inturn-total: 222
-inturn-percent: 69
-outturn-total: 190
-outturn-percent: 72
-draw-total: 223
-draw-percent: 65
-takeout-total: 189
-takeout-percent: 76
-shots-total: 412
-shots-percent: 70
+totals:
+ - event: Hearts
+   games: 22
+   wins: 7
+   losses: 15
+   inturn-total: 222
+   inturn-percent: 69
+   outturn-total: 190
+   outturn-percent: 72
+   draw-total: 223
+   draw-percent: 65
+   takeout-total: 189
+   takeout-percent: 76
+   shots-total: 412
+   shots-percent: 70
 years:
  - year: 1997
    event: Hearts

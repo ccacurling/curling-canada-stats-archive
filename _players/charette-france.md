@@ -2,19 +2,21 @@
 title: France Charette
 name: France Charette
 name-sort: Charette, France
-games: 57
-wins: 23
-losses: 34
-inturn-total: 500
-inturn-percent: 73
-outturn-total: 594
-outturn-percent: 72
-draw-total: 455
-draw-percent: 71
-takeout-total: 639
-takeout-percent: 73
-shots-total: 1094
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 57
+   wins: 23
+   losses: 34
+   inturn-total: 500
+   inturn-percent: 73
+   outturn-total: 594
+   outturn-percent: 72
+   draw-total: 455
+   draw-percent: 71
+   takeout-total: 639
+   takeout-percent: 73
+   shots-total: 1094
+   shots-percent: 72
 years:
  - year: 1989
    event: Hearts

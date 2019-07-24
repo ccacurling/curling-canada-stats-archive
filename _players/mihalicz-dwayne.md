@@ -2,19 +2,21 @@
 title: Dwayne Mihalicz
 name: Dwayne Mihalicz
 name-sort: Mihalicz, Dwayne
-games: 24
-wins: 13
-losses: 11
-inturn-total: 186
-inturn-percent: 83
-outturn-total: 274
-outturn-percent: 78
-draw-total: 222
-draw-percent: 81
-takeout-total: 238
-takeout-percent: 80
-shots-total: 460
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 24
+   wins: 13
+   losses: 11
+   inturn-total: 186
+   inturn-percent: 83
+   outturn-total: 274
+   outturn-percent: 78
+   draw-total: 222
+   draw-percent: 81
+   takeout-total: 238
+   takeout-percent: 80
+   shots-total: 460
+   shots-percent: 80
 years:
  - year: 1996
    event: Brier

@@ -2,19 +2,21 @@
 title: Lawren Steventon
 name: Lawren Steventon
 name-sort: Steventon, Lawren
-games: 33
-wins: 16
-losses: 17
-inturn-total: 208
-inturn-percent: 75
-outturn-total: 218
-outturn-percent: 74
-draw-total: 213
-draw-percent: 75
-takeout-total: 213
-takeout-percent: 74
-shots-total: 426
-shots-percent: 75
+totals:
+ - event: Brier
+   games: 33
+   wins: 16
+   losses: 17
+   inturn-total: 208
+   inturn-percent: 75
+   outturn-total: 218
+   outturn-percent: 74
+   draw-total: 213
+   draw-percent: 75
+   takeout-total: 213
+   takeout-percent: 74
+   shots-total: 426
+   shots-percent: 75
 years:
  - year: 1980
    event: Brier

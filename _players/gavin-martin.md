@@ -2,19 +2,21 @@
 title: Martin Gavin
 name: Martin Gavin
 name-sort: Gavin, Martin
-games: 33
-wins: 7
-losses: 26
-inturn-total: 183
-inturn-percent: 80
-outturn-total: 380
-outturn-percent: 85
-draw-total: 511
-draw-percent: 84
-takeout-total: 52
-takeout-percent: 78
-shots-total: 563
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 33
+   wins: 7
+   losses: 26
+   inturn-total: 183
+   inturn-percent: 80
+   outturn-total: 380
+   outturn-percent: 85
+   draw-total: 511
+   draw-percent: 84
+   takeout-total: 52
+   takeout-percent: 78
+   shots-total: 563
+   shots-percent: 83
 years:
  - year: 2009
    event: Brier

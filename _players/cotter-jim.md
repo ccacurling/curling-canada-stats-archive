@@ -2,19 +2,21 @@
 title: Jim Cotter
 name: Jim Cotter
 name-sort: Cotter, Jim
-games: 92
-wins: 45
-losses: 47
-inturn-total: 855
-inturn-percent: 81
-outturn-total: 859
-outturn-percent: 79
-draw-total: 751
-draw-percent: 78
-takeout-total: 963
-takeout-percent: 82
-shots-total: 1714
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 92
+   wins: 45
+   losses: 47
+   inturn-total: 855
+   inturn-percent: 81
+   outturn-total: 859
+   outturn-percent: 79
+   draw-total: 751
+   draw-percent: 78
+   takeout-total: 963
+   takeout-percent: 82
+   shots-total: 1714
+   shots-percent: 80
 years:
  - year: 2008
    event: Brier

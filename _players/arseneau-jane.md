@@ -2,19 +2,21 @@
 title: Jane Arseneau
 name: Jane Arseneau
 name-sort: Arseneau, Jane
-games: 65
-wins: 25
-losses: 40
-inturn-total: 546
-inturn-percent: 77
-outturn-total: 693
-outturn-percent: 79
-draw-total: 880
-draw-percent: 80
-takeout-total: 359
-takeout-percent: 73
-shots-total: 1239
-shots-percent: 78
+totals:
+ - event: Hearts
+   games: 65
+   wins: 25
+   losses: 40
+   inturn-total: 546
+   inturn-percent: 77
+   outturn-total: 693
+   outturn-percent: 79
+   draw-total: 880
+   draw-percent: 80
+   takeout-total: 359
+   takeout-percent: 73
+   shots-total: 1239
+   shots-percent: 78
 years:
  - year: 1995
    event: Hearts

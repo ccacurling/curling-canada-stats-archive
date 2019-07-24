@@ -2,19 +2,21 @@
 title: Ken Tresoor
 name: Ken Tresoor
 name-sort: Tresoor, Ken
-games: 24
-wins: 17
-losses: 7
-inturn-total: 224
-inturn-percent: 85
-outturn-total: 226
-outturn-percent: 81
-draw-total: 183
-draw-percent: 84
-takeout-total: 267
-takeout-percent: 82
-shots-total: 450
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 24
+   wins: 17
+   losses: 7
+   inturn-total: 224
+   inturn-percent: 85
+   outturn-total: 226
+   outturn-percent: 81
+   draw-total: 183
+   draw-percent: 84
+   takeout-total: 267
+   takeout-percent: 82
+   shots-total: 450
+   shots-percent: 83
 years:
  - year: 1991
    event: Brier

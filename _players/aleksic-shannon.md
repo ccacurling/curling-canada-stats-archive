@@ -2,19 +2,21 @@
 title: Shannon Aleksic
 name: Shannon Aleksic
 name-sort: Aleksic, Shannon
-games: 38
-wins: 16
-losses: 22
-inturn-total: 328
-inturn-percent: 79
-outturn-total: 346
-outturn-percent: 79
-draw-total: 365
-draw-percent: 76
-takeout-total: 309
-takeout-percent: 82
-shots-total: 674
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 38
+   wins: 16
+   losses: 22
+   inturn-total: 328
+   inturn-percent: 79
+   outturn-total: 346
+   outturn-percent: 79
+   draw-total: 365
+   draw-percent: 76
+   takeout-total: 309
+   takeout-percent: 82
+   shots-total: 674
+   shots-percent: 79
 years:
  - year: 1999
    event: Hearts

@@ -2,19 +2,21 @@
 title: Jillian Babin
 name: Jillian Babin
 name-sort: Babin, Jillian
-games: 40
-wins: 16
-losses: 24
-inturn-total: 398
-inturn-percent: 76
-outturn-total: 355
-outturn-percent: 76
-draw-total: 296
-draw-percent: 73
-takeout-total: 457
-takeout-percent: 78
-shots-total: 753
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 40
+   wins: 16
+   losses: 24
+   inturn-total: 398
+   inturn-percent: 76
+   outturn-total: 355
+   outturn-percent: 76
+   draw-total: 296
+   draw-percent: 73
+   takeout-total: 457
+   takeout-percent: 78
+   shots-total: 753
+   shots-percent: 76
 years:
  - year: 2010
    event: Hearts

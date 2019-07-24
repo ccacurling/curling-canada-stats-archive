@@ -2,19 +2,21 @@
 title: Debbie Jones-Walker
 name: Debbie Jones-Walker
 name-sort: Jones-Walker, Debbie
-games: 73
-wins: 54
-losses: 19
-inturn-total: 518
-inturn-percent: 74
-outturn-total: 891
-outturn-percent: 77
-draw-total: 522
-draw-percent: 72
-takeout-total: 887
-takeout-percent: 78
-shots-total: 1409
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 73
+   wins: 54
+   losses: 19
+   inturn-total: 518
+   inturn-percent: 74
+   outturn-total: 891
+   outturn-percent: 77
+   draw-total: 522
+   draw-percent: 72
+   takeout-total: 887
+   takeout-percent: 78
+   shots-total: 1409
+   shots-percent: 76
 years:
  - year: 1984
    event: Hearts

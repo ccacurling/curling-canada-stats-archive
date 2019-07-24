@@ -2,19 +2,21 @@
 title: Rob MacLean
 name: Rob MacLean
 name-sort: MacLean, Rob
-games: 34
-wins: 13
-losses: 21
-inturn-total: 341
-inturn-percent: 75
-outturn-total: 325
-outturn-percent: 78
-draw-total: 347
-draw-percent: 74
-takeout-total: 319
-takeout-percent: 79
-shots-total: 666
-shots-percent: 76
+totals:
+ - event: Brier
+   games: 34
+   wins: 13
+   losses: 21
+   inturn-total: 341
+   inturn-percent: 75
+   outturn-total: 325
+   outturn-percent: 78
+   draw-total: 347
+   draw-percent: 74
+   takeout-total: 319
+   takeout-percent: 79
+   shots-total: 666
+   shots-percent: 76
 years:
  - year: 1985
    event: Brier

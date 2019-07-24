@@ -2,19 +2,21 @@
 title: Kristie Moore
 name: Kristie Moore
 name-sort: Moore, Kristie
-games: 32
-wins: 14
-losses: 18
-inturn-total: 310
-inturn-percent: 78
-outturn-total: 264
-outturn-percent: 75
-draw-total: 312
-draw-percent: 78
-takeout-total: 262
-takeout-percent: 75
-shots-total: 574
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 32
+   wins: 14
+   losses: 18
+   inturn-total: 310
+   inturn-percent: 78
+   outturn-total: 264
+   outturn-percent: 75
+   draw-total: 312
+   draw-percent: 78
+   takeout-total: 262
+   takeout-percent: 75
+   shots-total: 574
+   shots-percent: 77
 years:
  - year: 2000
    event: Hearts

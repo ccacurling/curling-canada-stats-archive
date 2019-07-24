@@ -2,19 +2,21 @@
 title: Anson Carmody
 name: Anson Carmody
 name-sort: Carmody, Anson
-games: 51
-wins: 14
-losses: 37
-inturn-total: 447
-inturn-percent: 80
-outturn-total: 495
-outturn-percent: 79
-draw-total: 448
-draw-percent: 77
-takeout-total: 494
-takeout-percent: 81
-shots-total: 942
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 51
+   wins: 14
+   losses: 37
+   inturn-total: 447
+   inturn-percent: 80
+   outturn-total: 495
+   outturn-percent: 79
+   draw-total: 448
+   draw-percent: 77
+   takeout-total: 494
+   takeout-percent: 81
+   shots-total: 942
+   shots-percent: 79
 years:
  - year: 2013
    event: Brier

@@ -2,9 +2,11 @@
 title: Mel Logan
 name: Mel Logan
 name-sort: Logan, Mel
-games: 13
-wins: 7
-losses: 6
+totals:
+ - event: Brier
+   games: 13
+   wins: 7
+   losses: 6
 years:
  - year: 1982
    event: Brier

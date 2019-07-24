@@ -2,19 +2,21 @@
 title: Darren Roach
 name: Darren Roach
 name-sort: Roach, Darren
-games: 22
-wins: 11
-losses: 11
-inturn-total: 279
-inturn-percent: 87
-outturn-total: 135
-outturn-percent: 81
-draw-total: 149
-draw-percent: 82
-takeout-total: 265
-takeout-percent: 86
-shots-total: 414
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 22
+   wins: 11
+   losses: 11
+   inturn-total: 279
+   inturn-percent: 87
+   outturn-total: 135
+   outturn-percent: 81
+   draw-total: 149
+   draw-percent: 82
+   takeout-total: 265
+   takeout-percent: 86
+   shots-total: 414
+   shots-percent: 85
 years:
  - year: 2013
    event: Brier

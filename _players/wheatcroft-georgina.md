@@ -2,19 +2,21 @@
 title: Georgina Wheatcroft
 name: Georgina Wheatcroft
 name-sort: Wheatcroft, Georgina
-games: 103
-wins: 66
-losses: 37
-inturn-total: 1003
-inturn-percent: 78
-outturn-total: 908
-outturn-percent: 77
-draw-total: 934
-draw-percent: 78
-takeout-total: 977
-takeout-percent: 77
-shots-total: 1911
-shots-percent: 78
+totals:
+ - event: Hearts
+   games: 103
+   wins: 66
+   losses: 37
+   inturn-total: 1003
+   inturn-percent: 78
+   outturn-total: 908
+   outturn-percent: 77
+   draw-total: 934
+   draw-percent: 78
+   takeout-total: 977
+   takeout-percent: 77
+   shots-total: 1911
+   shots-percent: 78
 years:
  - year: 1987
    event: Hearts

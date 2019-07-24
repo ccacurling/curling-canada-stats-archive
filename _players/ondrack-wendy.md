@@ -2,19 +2,21 @@
 title: Wendy Ondrack
 name: Wendy Ondrack
 name-sort: Ondrack, Wendy
-games: 33
-wins: 12
-losses: 21
-inturn-total: 291
-inturn-percent: 73
-outturn-total: 359
-outturn-percent: 71
-draw-total: 302
-draw-percent: 72
-takeout-total: 348
-takeout-percent: 71
-shots-total: 650
-shots-percent: 71
+totals:
+ - event: Hearts
+   games: 33
+   wins: 12
+   losses: 21
+   inturn-total: 291
+   inturn-percent: 73
+   outturn-total: 359
+   outturn-percent: 71
+   draw-total: 302
+   draw-percent: 72
+   takeout-total: 348
+   takeout-percent: 71
+   shots-total: 650
+   shots-percent: 71
 years:
  - year: 1993
    event: Hearts

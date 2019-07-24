@@ -2,19 +2,21 @@
 title: Scott Pfeifer
 name: Scott Pfeifer
 name-sort: Pfeifer, Scott
-games: 67
-wins: 59
-losses: 8
-inturn-total: 616
-inturn-percent: 87
-outturn-total: 578
-outturn-percent: 87
-draw-total: 486
-draw-percent: 84
-takeout-total: 708
-takeout-percent: 89
-shots-total: 1194
-shots-percent: 87
+totals:
+ - event: Brier
+   games: 67
+   wins: 59
+   losses: 8
+   inturn-total: 616
+   inturn-percent: 87
+   outturn-total: 578
+   outturn-percent: 87
+   draw-total: 486
+   draw-percent: 84
+   takeout-total: 708
+   takeout-percent: 89
+   shots-total: 1194
+   shots-percent: 87
 years:
  - year: 2001
    event: Brier

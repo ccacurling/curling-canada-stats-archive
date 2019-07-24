@@ -2,19 +2,21 @@
 title: Jean-Michel Menard
 name: Jean-Michel Menard
 name-sort: Menard, Jean-Michel
-games: 119
-wins: 65
-losses: 54
-inturn-total: 672
-inturn-percent: 79
-outturn-total: 1575
-outturn-percent: 82
-draw-total: 952
-draw-percent: 80
-takeout-total: 1295
-takeout-percent: 82
-shots-total: 2247
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 119
+   wins: 65
+   losses: 54
+   inturn-total: 672
+   inturn-percent: 79
+   outturn-total: 1575
+   outturn-percent: 82
+   draw-total: 952
+   draw-percent: 80
+   takeout-total: 1295
+   takeout-percent: 82
+   shots-total: 2247
+   shots-percent: 81
 years:
  - year: 2002
    event: Brier

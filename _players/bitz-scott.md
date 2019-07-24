@@ -2,19 +2,21 @@
 title: Scott Bitz
 name: Scott Bitz
 name-sort: Bitz, Scott
-games: 23
-wins: 10
-losses: 13
-inturn-total: 211
-inturn-percent: 77
-outturn-total: 219
-outturn-percent: 81
-draw-total: 216
-draw-percent: 80
-takeout-total: 214
-takeout-percent: 78
-shots-total: 430
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 23
+   wins: 10
+   losses: 13
+   inturn-total: 211
+   inturn-percent: 77
+   outturn-total: 219
+   outturn-percent: 81
+   draw-total: 216
+   draw-percent: 80
+   takeout-total: 214
+   takeout-percent: 78
+   shots-total: 430
+   shots-percent: 79
 years:
  - year: 2002
    event: Brier

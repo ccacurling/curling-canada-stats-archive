@@ -2,19 +2,21 @@
 title: Carrie Vautour
 name: Carrie Vautour
 name-sort: Vautour, Carrie
-games: 14
-wins: 4
-losses: 10
-inturn-total: 184
-inturn-percent: 85
-outturn-total: 85
-outturn-percent: 83
-draw-total: 234
-draw-percent: 84
-takeout-total: 35
-takeout-percent: 82
-shots-total: 269
-shots-percent: 84
+totals:
+ - event: Hearts
+   games: 14
+   wins: 4
+   losses: 10
+   inturn-total: 184
+   inturn-percent: 85
+   outturn-total: 85
+   outturn-percent: 83
+   draw-total: 234
+   draw-percent: 84
+   takeout-total: 35
+   takeout-percent: 82
+   shots-total: 269
+   shots-percent: 84
 years:
  - year: 2016
    event: Hearts

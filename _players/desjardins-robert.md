@@ -2,19 +2,21 @@
 title: Robert Desjardins
 name: Robert Desjardins
 name-sort: Desjardins, Robert
-games: 22
-wins: 7
-losses: 15
-inturn-total: 152
-inturn-percent: 74
-outturn-total: 258
-outturn-percent: 78
-draw-total: 196
-draw-percent: 77
-takeout-total: 214
-takeout-percent: 77
-shots-total: 410
-shots-percent: 77
+totals:
+ - event: Brier
+   games: 22
+   wins: 7
+   losses: 15
+   inturn-total: 152
+   inturn-percent: 74
+   outturn-total: 258
+   outturn-percent: 78
+   draw-total: 196
+   draw-percent: 77
+   takeout-total: 214
+   takeout-percent: 77
+   shots-total: 410
+   shots-percent: 77
 years:
  - year: 2011
    event: Brier

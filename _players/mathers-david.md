@@ -2,19 +2,21 @@
 title: David Mathers
 name: David Mathers
 name-sort: Mathers, David
-games: 33
-wins: 11
-losses: 22
-inturn-total: 327
-inturn-percent: 83
-outturn-total: 291
-outturn-percent: 83
-draw-total: 279
-draw-percent: 84
-takeout-total: 339
-takeout-percent: 82
-shots-total: 618
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 33
+   wins: 11
+   losses: 22
+   inturn-total: 327
+   inturn-percent: 83
+   outturn-total: 291
+   outturn-percent: 83
+   draw-total: 279
+   draw-percent: 84
+   takeout-total: 339
+   takeout-percent: 82
+   shots-total: 618
+   shots-percent: 83
 years:
  - year: 2015
    event: Brier

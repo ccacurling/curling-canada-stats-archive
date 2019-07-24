@@ -2,19 +2,21 @@
 title: Al Hackner
 name: Al Hackner
 name-sort: Hackner, Al
-games: 106
-wins: 62
-losses: 44
-inturn-total: 815
-inturn-percent: 75
-outturn-total: 682
-outturn-percent: 75
-draw-total: 729
-draw-percent: 74
-takeout-total: 768
-takeout-percent: 76
-shots-total: 1497
-shots-percent: 75
+totals:
+ - event: Brier
+   games: 106
+   wins: 62
+   losses: 44
+   inturn-total: 815
+   inturn-percent: 75
+   outturn-total: 682
+   outturn-percent: 75
+   draw-total: 729
+   draw-percent: 74
+   takeout-total: 768
+   takeout-percent: 76
+   shots-total: 1497
+   shots-percent: 75
 years:
  - year: 1980
    event: Brier

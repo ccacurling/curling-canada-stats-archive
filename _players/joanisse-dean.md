@@ -2,19 +2,21 @@
 title: Dean Joanisse
 name: Dean Joanisse
 name-sort: Joanisse, Dean
-games: 22
-wins: 8
-losses: 14
-inturn-total: 205
-inturn-percent: 75
-outturn-total: 212
-outturn-percent: 78
-draw-total: 174
-draw-percent: 74
-takeout-total: 243
-takeout-percent: 79
-shots-total: 417
-shots-percent: 77
+totals:
+ - event: Brier
+   games: 22
+   wins: 8
+   losses: 14
+   inturn-total: 205
+   inturn-percent: 75
+   outturn-total: 212
+   outturn-percent: 78
+   draw-total: 174
+   draw-percent: 74
+   takeout-total: 243
+   takeout-percent: 79
+   shots-total: 417
+   shots-percent: 77
 years:
  - year: 2001
    event: Brier

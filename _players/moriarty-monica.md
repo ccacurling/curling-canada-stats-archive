@@ -2,19 +2,21 @@
 title: Monica Moriarty
 name: Monica Moriarty
 name-sort: Moriarty, Monica
-games: 45
-wins: 29
-losses: 16
-inturn-total: 339
-inturn-percent: 71
-outturn-total: 503
-outturn-percent: 78
-draw-total: 408
-draw-percent: 81
-takeout-total: 434
-takeout-percent: 70
-shots-total: 842
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 45
+   wins: 29
+   losses: 16
+   inturn-total: 339
+   inturn-percent: 71
+   outturn-total: 503
+   outturn-percent: 78
+   draw-total: 408
+   draw-percent: 81
+   takeout-total: 434
+   takeout-percent: 70
+   shots-total: 842
+   shots-percent: 75
 years:
  - year: 1982
    event: Hearts

@@ -2,19 +2,21 @@
 title: Julie Blackburn
 name: Julie Blackburn
 name-sort: Blackburn, Julie
-games: 33
-wins: 12
-losses: 21
-inturn-total: 358
-inturn-percent: 72
-outturn-total: 257
-outturn-percent: 77
-draw-total: 366
-draw-percent: 76
-takeout-total: 249
-takeout-percent: 70
-shots-total: 615
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 33
+   wins: 12
+   losses: 21
+   inturn-total: 358
+   inturn-percent: 72
+   outturn-total: 257
+   outturn-percent: 77
+   draw-total: 366
+   draw-percent: 76
+   takeout-total: 249
+   takeout-percent: 70
+   shots-total: 615
+   shots-percent: 74
 years:
  - year: 1998
    event: Hearts

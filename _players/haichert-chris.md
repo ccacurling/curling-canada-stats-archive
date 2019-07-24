@@ -2,19 +2,21 @@
 title: Chris Haichert
 name: Chris Haichert
 name-sort: Haichert, Chris
-games: 22
-wins: 11
-losses: 11
-inturn-total: 189
-inturn-percent: 83
-outturn-total: 213
-outturn-percent: 84
-draw-total: 189
-draw-percent: 80
-takeout-total: 213
-takeout-percent: 87
-shots-total: 402
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 22
+   wins: 11
+   losses: 11
+   inturn-total: 189
+   inturn-percent: 83
+   outturn-total: 213
+   outturn-percent: 84
+   draw-total: 189
+   draw-percent: 80
+   takeout-total: 213
+   takeout-percent: 87
+   shots-total: 402
+   shots-percent: 84
 years:
  - year: 2005
    event: Brier

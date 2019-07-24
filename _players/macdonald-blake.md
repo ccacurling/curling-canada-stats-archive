@@ -2,19 +2,21 @@
 title: Blake MacDonald
 name: Blake MacDonald
 name-sort: MacDonald, Blake
-games: 28
-wins: 19
-losses: 9
-inturn-total: 217
-inturn-percent: 83
-outturn-total: 261
-outturn-percent: 85
-draw-total: 165
-draw-percent: 82
-takeout-total: 313
-takeout-percent: 86
-shots-total: 478
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 28
+   wins: 19
+   losses: 9
+   inturn-total: 217
+   inturn-percent: 83
+   outturn-total: 261
+   outturn-percent: 85
+   draw-total: 165
+   draw-percent: 82
+   takeout-total: 313
+   takeout-percent: 86
+   shots-total: 478
+   shots-percent: 84
 years:
  - year: 1999
    event: Brier

@@ -2,19 +2,21 @@
 title: Jim Walsh
 name: Jim Walsh
 name-sort: Walsh, Jim
-games: 22
-wins: 8
-losses: 14
-inturn-total: 233
-inturn-percent: 74
-outturn-total: 212
-outturn-percent: 73
-draw-total: 202
-draw-percent: 72
-takeout-total: 243
-takeout-percent: 74
-shots-total: 445
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 22
+   wins: 8
+   losses: 14
+   inturn-total: 233
+   inturn-percent: 74
+   outturn-total: 212
+   outturn-percent: 73
+   draw-total: 202
+   draw-percent: 72
+   takeout-total: 243
+   takeout-percent: 74
+   shots-total: 445
+   shots-percent: 73
 years:
  - year: 1991
    event: Brier

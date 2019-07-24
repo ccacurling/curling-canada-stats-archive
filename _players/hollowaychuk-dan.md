@@ -2,19 +2,21 @@
 title: Dan Hollowaychuk
 name: Dan Hollowaychuk
 name-sort: Hollowaychuk, Dan
-games: 4
-wins: 4
-losses: 0
-inturn-total: 12
-inturn-percent: 96
-outturn-total: 28
-outturn-percent: 88
-draw-total: 15
-draw-percent: 95
-takeout-total: 25
-takeout-percent: 87
-shots-total: 40
-shots-percent: 90
+totals:
+ - event: Brier
+   games: 4
+   wins: 4
+   losses: 0
+   inturn-total: 12
+   inturn-percent: 96
+   outturn-total: 28
+   outturn-percent: 88
+   draw-total: 15
+   draw-percent: 95
+   takeout-total: 25
+   takeout-percent: 87
+   shots-total: 40
+   shots-percent: 90
 years:
  - year: 2001
    event: Brier

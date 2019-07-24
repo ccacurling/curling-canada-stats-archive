@@ -2,19 +2,21 @@
 title: Joe Frans
 name: Joe Frans
 name-sort: Frans, Joe
-games: 25
-wins: 15
-losses: 10
-inturn-total: 183
-inturn-percent: 84
-outturn-total: 279
-outturn-percent: 83
-draw-total: 200
-draw-percent: 81
-takeout-total: 262
-takeout-percent: 85
-shots-total: 462
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 25
+   wins: 15
+   losses: 10
+   inturn-total: 183
+   inturn-percent: 84
+   outturn-total: 279
+   outturn-percent: 83
+   draw-total: 200
+   draw-percent: 81
+   takeout-total: 262
+   takeout-percent: 85
+   shots-total: 462
+   shots-percent: 83
 years:
  - year: 2002
    event: Brier

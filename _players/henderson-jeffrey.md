@@ -2,19 +2,21 @@
 title: Jeffrey Henderson
 name: Jeffrey Henderson
 name-sort: Henderson, Jeffrey
-games: 21
-wins: 4
-losses: 17
-inturn-total: 181
-inturn-percent: 76
-outturn-total: 205
-outturn-percent: 78
-draw-total: 208
-draw-percent: 79
-takeout-total: 178
-takeout-percent: 75
-shots-total: 386
-shots-percent: 77
+totals:
+ - event: Brier
+   games: 21
+   wins: 4
+   losses: 17
+   inturn-total: 181
+   inturn-percent: 76
+   outturn-total: 205
+   outturn-percent: 78
+   draw-total: 208
+   draw-percent: 79
+   takeout-total: 178
+   takeout-percent: 75
+   shots-total: 386
+   shots-percent: 77
 years:
  - year: 1992
    event: Brier

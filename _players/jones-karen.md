@@ -2,19 +2,21 @@
 title: Karen Jones
 name: Karen Jones
 name-sort: Jones, Karen
-games: 33
-wins: 12
-losses: 21
-inturn-total: 339
-inturn-percent: 69
-outturn-total: 285
-outturn-percent: 67
-draw-total: 324
-draw-percent: 67
-takeout-total: 300
-takeout-percent: 69
-shots-total: 624
-shots-percent: 68
+totals:
+ - event: Hearts
+   games: 33
+   wins: 12
+   losses: 21
+   inturn-total: 339
+   inturn-percent: 69
+   outturn-total: 285
+   outturn-percent: 67
+   draw-total: 324
+   draw-percent: 67
+   takeout-total: 300
+   takeout-percent: 69
+   shots-total: 624
+   shots-percent: 68
 years:
  - year: 1982
    event: Hearts

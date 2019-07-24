@@ -2,19 +2,21 @@
 title: Brad Fitzherbert
 name: Brad Fitzherbert
 name-sort: Fitzherbert, Brad
-games: 22
-wins: 8
-losses: 14
-inturn-total: 217
-inturn-percent: 73
-outturn-total: 211
-outturn-percent: 74
-draw-total: 167
-draw-percent: 70
-takeout-total: 261
-takeout-percent: 76
-shots-total: 428
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 22
+   wins: 8
+   losses: 14
+   inturn-total: 217
+   inturn-percent: 73
+   outturn-total: 211
+   outturn-percent: 74
+   draw-total: 167
+   draw-percent: 70
+   takeout-total: 261
+   takeout-percent: 76
+   shots-total: 428
+   shots-percent: 73
 years:
  - year: 1992
    event: Brier

@@ -2,19 +2,21 @@
 title: Barb Enright
 name: Barb Enright
 name-sort: Enright, Barb
-games: 33
-wins: 12
-losses: 21
-inturn-total: 350
-inturn-percent: 76
-outturn-total: 282
-outturn-percent: 76
-draw-total: 380
-draw-percent: 78
-takeout-total: 252
-takeout-percent: 72
-shots-total: 632
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 33
+   wins: 12
+   losses: 21
+   inturn-total: 350
+   inturn-percent: 76
+   outturn-total: 282
+   outturn-percent: 76
+   draw-total: 380
+   draw-percent: 78
+   takeout-total: 252
+   takeout-percent: 72
+   shots-total: 632
+   shots-percent: 76
 years:
  - year: 1986
    event: Hearts

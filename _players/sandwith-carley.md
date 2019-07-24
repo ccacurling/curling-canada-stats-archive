@@ -2,19 +2,21 @@
 title: Carley Sandwith
 name: Carley Sandwith
 name-sort: Sandwith, Carley
-games: 23
-wins: 12
-losses: 11
-inturn-total: 227
-inturn-percent: 81
-outturn-total: 195
-outturn-percent: 84
-draw-total: 247
-draw-percent: 84
-takeout-total: 175
-takeout-percent: 81
-shots-total: 422
-shots-percent: 83
+totals:
+ - event: Hearts
+   games: 23
+   wins: 12
+   losses: 11
+   inturn-total: 227
+   inturn-percent: 81
+   outturn-total: 195
+   outturn-percent: 84
+   draw-total: 247
+   draw-percent: 84
+   takeout-total: 175
+   takeout-percent: 81
+   shots-total: 422
+   shots-percent: 83
 years:
  - year: 2014
    event: Hearts

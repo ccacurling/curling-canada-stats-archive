@@ -2,19 +2,21 @@
 title: Tricia Affleck
 name: Tricia Affleck
 name-sort: Affleck, Tricia
-games: 73
-wins: 31
-losses: 42
-inturn-total: 928
-inturn-percent: 82
-outturn-total: 399
-outturn-percent: 79
-draw-total: 876
-draw-percent: 83
-takeout-total: 451
-takeout-percent: 78
-shots-total: 1327
-shots-percent: 81
+totals:
+ - event: Hearts
+   games: 73
+   wins: 31
+   losses: 42
+   inturn-total: 928
+   inturn-percent: 82
+   outturn-total: 399
+   outturn-percent: 79
+   draw-total: 876
+   draw-percent: 83
+   takeout-total: 451
+   takeout-percent: 78
+   shots-total: 1327
+   shots-percent: 81
 years:
  - year: 1996
    event: Hearts

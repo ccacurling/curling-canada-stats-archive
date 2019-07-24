@@ -2,19 +2,21 @@
 title: Laura Strong
 name: Laura Strong
 name-sort: Strong, Laura
-games: 90
-wins: 37
-losses: 53
-inturn-total: 887
-inturn-percent: 76
-outturn-total: 872
-outturn-percent: 77
-draw-total: 805
-draw-percent: 74
-takeout-total: 954
-takeout-percent: 79
-shots-total: 1759
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 90
+   wins: 37
+   losses: 53
+   inturn-total: 887
+   inturn-percent: 76
+   outturn-total: 872
+   outturn-percent: 77
+   draw-total: 805
+   draw-percent: 74
+   takeout-total: 954
+   takeout-percent: 79
+   shots-total: 1759
+   shots-percent: 77
 years:
  - year: 2001
    event: Hearts

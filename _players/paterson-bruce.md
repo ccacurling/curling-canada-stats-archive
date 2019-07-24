@@ -2,9 +2,11 @@
 title: Bruce Paterson
 name: Bruce Paterson
 name-sort: Paterson, Bruce
-games: 11
-wins: 5
-losses: 6
+totals:
+ - event: Brier
+   games: 11
+   wins: 5
+   losses: 6
 years:
  - year: 1982
    event: Brier

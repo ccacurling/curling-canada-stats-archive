@@ -2,19 +2,21 @@
 title: Dusty Jakomait
 name: Dusty Jakomait
 name-sort: Jakomait, Dusty
-games: 22
-wins: 8
-losses: 14
-inturn-total: 183
-inturn-percent: 78
-outturn-total: 237
-outturn-percent: 75
-draw-total: 215
-draw-percent: 76
-takeout-total: 205
-takeout-percent: 76
-shots-total: 420
-shots-percent: 76
+totals:
+ - event: Brier
+   games: 22
+   wins: 8
+   losses: 14
+   inturn-total: 183
+   inturn-percent: 78
+   outturn-total: 237
+   outturn-percent: 75
+   draw-total: 215
+   draw-percent: 76
+   takeout-total: 205
+   takeout-percent: 76
+   shots-total: 420
+   shots-percent: 76
 years:
  - year: 1997
    event: Brier

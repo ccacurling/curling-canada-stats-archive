@@ -2,19 +2,21 @@
 title: Philip Gorveatt
 name: Philip Gorveatt
 name-sort: Gorveatt, Philip
-games: 33
-wins: 8
-losses: 25
-inturn-total: 252
-inturn-percent: 75
-outturn-total: 362
-outturn-percent: 79
-draw-total: 328
-draw-percent: 74
-takeout-total: 286
-takeout-percent: 82
-shots-total: 614
-shots-percent: 77
+totals:
+ - event: Brier
+   games: 33
+   wins: 8
+   losses: 25
+   inturn-total: 252
+   inturn-percent: 75
+   outturn-total: 362
+   outturn-percent: 79
+   draw-total: 328
+   draw-percent: 74
+   takeout-total: 286
+   takeout-percent: 82
+   shots-total: 614
+   shots-percent: 77
 years:
  - year: 2003
    event: Brier

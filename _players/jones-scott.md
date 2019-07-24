@@ -2,19 +2,21 @@
 title: Scott Jones
 name: Scott Jones
 name-sort: Jones, Scott
-games: 44
-wins: 10
-losses: 34
-inturn-total: 361
-inturn-percent: 78
-outturn-total: 463
-outturn-percent: 76
-draw-total: 375
-draw-percent: 77
-takeout-total: 449
-takeout-percent: 76
-shots-total: 824
-shots-percent: 77
+totals:
+ - event: Brier
+   games: 44
+   wins: 10
+   losses: 34
+   inturn-total: 361
+   inturn-percent: 78
+   outturn-total: 463
+   outturn-percent: 76
+   draw-total: 375
+   draw-percent: 77
+   takeout-total: 449
+   takeout-percent: 76
+   shots-total: 824
+   shots-percent: 77
 years:
  - year: 2007
    event: Brier

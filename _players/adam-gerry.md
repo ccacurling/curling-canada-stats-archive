@@ -2,19 +2,21 @@
 title: Gerry Adam
 name: Gerry Adam
 name-sort: Adam, Gerry
-games: 37
-wins: 24
-losses: 13
-inturn-total: 364
-inturn-percent: 85
-outturn-total: 364
-outturn-percent: 82
-draw-total: 301
-draw-percent: 80
-takeout-total: 427
-takeout-percent: 86
-shots-total: 728
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 37
+   wins: 24
+   losses: 13
+   inturn-total: 364
+   inturn-percent: 85
+   outturn-total: 364
+   outturn-percent: 82
+   draw-total: 301
+   draw-percent: 80
+   takeout-total: 427
+   takeout-percent: 86
+   shots-total: 728
+   shots-percent: 84
 years:
  - year: 1999
    event: Brier

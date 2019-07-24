@@ -2,19 +2,21 @@
 title: Marcia Gudereit
 name: Marcia Gudereit
 name-sort: Gudereit, Marcia
-games: 101
-wins: 73
-losses: 28
-inturn-total: 1321
-inturn-percent: 84
-outturn-total: 483
-outturn-percent: 82
-draw-total: 1131
-draw-percent: 82
-takeout-total: 673
-takeout-percent: 85
-shots-total: 1804
-shots-percent: 83
+totals:
+ - event: Hearts
+   games: 101
+   wins: 73
+   losses: 28
+   inturn-total: 1321
+   inturn-percent: 84
+   outturn-total: 483
+   outturn-percent: 82
+   draw-total: 1131
+   draw-percent: 82
+   takeout-total: 673
+   takeout-percent: 85
+   shots-total: 1804
+   shots-percent: 83
 years:
  - year: 1991
    event: Hearts

@@ -2,19 +2,21 @@
 title: Steve Bice
 name: Steve Bice
 name-sort: Bice, Steve
-games: 13
-wins: 8
-losses: 5
-inturn-total: 100
-inturn-percent: 88
-outturn-total: 69
-outturn-percent: 81
-draw-total: 125
-draw-percent: 87
-takeout-total: 44
-takeout-percent: 80
-shots-total: 169
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 100
+   inturn-percent: 88
+   outturn-total: 69
+   outturn-percent: 81
+   draw-total: 125
+   draw-percent: 87
+   takeout-total: 44
+   takeout-percent: 80
+   shots-total: 169
+   shots-percent: 85
 years:
  - year: 2007
    event: Brier

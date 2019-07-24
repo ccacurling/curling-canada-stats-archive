@@ -2,9 +2,11 @@
 title: Bruce MacArthur
 name: Bruce MacArthur
 name-sort: MacArthur, Bruce
-games: 11
-wins: 5
-losses: 6
+totals:
+ - event: Brier
+   games: 11
+   wins: 5
+   losses: 6
 years:
  - year: 1982
    event: Brier

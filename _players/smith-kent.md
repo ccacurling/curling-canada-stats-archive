@@ -2,19 +2,21 @@
 title: Kent Smith
 name: Kent Smith
 name-sort: Smith, Kent
-games: 22
-wins: 4
-losses: 18
-inturn-total: 168
-inturn-percent: 84
-outturn-total: 212
-outturn-percent: 81
-draw-total: 264
-draw-percent: 83
-takeout-total: 116
-takeout-percent: 80
-shots-total: 380
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 22
+   wins: 4
+   losses: 18
+   inturn-total: 168
+   inturn-percent: 84
+   outturn-total: 212
+   outturn-percent: 81
+   draw-total: 264
+   draw-percent: 83
+   takeout-total: 116
+   takeout-percent: 80
+   shots-total: 380
+   shots-percent: 83
 years:
  - year: 2010
    event: Brier

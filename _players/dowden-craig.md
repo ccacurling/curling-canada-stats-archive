@@ -2,19 +2,21 @@
 title: Craig Dowden
 name: Craig Dowden
 name-sort: Dowden, Craig
-games: 22
-wins: 8
-losses: 14
-inturn-total: 197
-inturn-percent: 86
-outturn-total: 215
-outturn-percent: 82
-draw-total: 307
-draw-percent: 86
-takeout-total: 105
-takeout-percent: 79
-shots-total: 412
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 22
+   wins: 8
+   losses: 14
+   inturn-total: 197
+   inturn-percent: 86
+   outturn-total: 215
+   outturn-percent: 82
+   draw-total: 307
+   draw-percent: 86
+   takeout-total: 105
+   takeout-percent: 79
+   shots-total: 412
+   shots-percent: 84
 years:
  - year: 1996
    event: Brier

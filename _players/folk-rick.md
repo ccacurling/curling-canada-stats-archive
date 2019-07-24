@@ -2,19 +2,21 @@
 title: Rick Folk
 name: Rick Folk
 name-sort: Folk, Rick
-games: 63
-wins: 46
-losses: 17
-inturn-total: 480
-inturn-percent: 77
-outturn-total: 705
-outturn-percent: 81
-draw-total: 522
-draw-percent: 78
-takeout-total: 663
-takeout-percent: 80
-shots-total: 1185
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 63
+   wins: 46
+   losses: 17
+   inturn-total: 480
+   inturn-percent: 77
+   outturn-total: 705
+   outturn-percent: 81
+   draw-total: 522
+   draw-percent: 78
+   takeout-total: 663
+   takeout-percent: 80
+   shots-total: 1185
+   shots-percent: 79
 years:
  - year: 1980
    event: Brier

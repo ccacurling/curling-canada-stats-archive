@@ -2,19 +2,21 @@
 title: Kevin Martin
 name: Kevin Martin
 name-sort: Martin, Kevin
-games: 150
-wins: 113
-losses: 37
-inturn-total: 1383
-inturn-percent: 81
-outturn-total: 1308
-outturn-percent: 83
-draw-total: 1153
-draw-percent: 81
-takeout-total: 1538
-takeout-percent: 82
-shots-total: 2691
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 150
+   wins: 113
+   losses: 37
+   inturn-total: 1383
+   inturn-percent: 81
+   outturn-total: 1308
+   outturn-percent: 83
+   draw-total: 1153
+   draw-percent: 81
+   takeout-total: 1538
+   takeout-percent: 82
+   shots-total: 2691
+   shots-percent: 82
 years:
  - year: 1991
    event: Brier

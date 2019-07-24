@@ -2,19 +2,21 @@
 title: Nicole Arsenault-Bishop
 name: Nicole Arsenault-Bishop
 name-sort: Arsenault-Bishop, Nicole
-games: 10
-wins: 5
-losses: 5
-inturn-total: 104
-inturn-percent: 80
-outturn-total: 66
-outturn-percent: 80
-draw-total: 63
-draw-percent: 79
-takeout-total: 107
-takeout-percent: 81
-shots-total: 170
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 10
+   wins: 5
+   losses: 5
+   inturn-total: 104
+   inturn-percent: 80
+   outturn-total: 66
+   outturn-percent: 80
+   draw-total: 63
+   draw-percent: 79
+   takeout-total: 107
+   takeout-percent: 81
+   shots-total: 170
+   shots-percent: 80
 years:
  - year: 2016
    event: Hearts

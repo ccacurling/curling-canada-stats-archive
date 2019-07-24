@@ -2,19 +2,21 @@
 title: Peter Corner
 name: Peter Corner
 name-sort: Corner, Peter
-games: 63
-wins: 43
-losses: 20
-inturn-total: 484
-inturn-percent: 86
-outturn-total: 639
-outturn-percent: 89
-draw-total: 598
-draw-percent: 90
-takeout-total: 525
-takeout-percent: 85
-shots-total: 1123
-shots-percent: 88
+totals:
+ - event: Brier
+   games: 63
+   wins: 43
+   losses: 20
+   inturn-total: 484
+   inturn-percent: 86
+   outturn-total: 639
+   outturn-percent: 89
+   draw-total: 598
+   draw-percent: 90
+   takeout-total: 525
+   takeout-percent: 85
+   shots-total: 1123
+   shots-percent: 88
 years:
  - year: 1991
    event: Brier

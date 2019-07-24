@@ -2,19 +2,21 @@
 title: Bob Doerr
 name: Bob Doerr
 name-sort: Doerr, Bob
-games: 13
-wins: 5
-losses: 8
-inturn-total: 71
-inturn-percent: 74
-outturn-total: 179
-outturn-percent: 80
-draw-total: 105
-draw-percent: 72
-takeout-total: 145
-takeout-percent: 83
-shots-total: 250
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 13
+   wins: 5
+   losses: 8
+   inturn-total: 71
+   inturn-percent: 74
+   outturn-total: 179
+   outturn-percent: 80
+   draw-total: 105
+   draw-percent: 72
+   takeout-total: 145
+   takeout-percent: 83
+   shots-total: 250
+   shots-percent: 78
 years:
  - year: 1989
    event: Brier

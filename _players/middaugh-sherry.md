@@ -2,19 +2,21 @@
 title: Sherry Middaugh
 name: Sherry Middaugh
 name-sort: Middaugh, Sherry
-games: 80
-wins: 49
-losses: 31
-inturn-total: 696
-inturn-percent: 77
-outturn-total: 744
-outturn-percent: 77
-draw-total: 674
-draw-percent: 74
-takeout-total: 766
-takeout-percent: 80
-shots-total: 1440
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 80
+   wins: 49
+   losses: 31
+   inturn-total: 696
+   inturn-percent: 77
+   outturn-total: 744
+   outturn-percent: 77
+   draw-total: 674
+   draw-percent: 74
+   takeout-total: 766
+   takeout-percent: 80
+   shots-total: 1440
+   shots-percent: 77
 years:
  - year: 1996
    event: Hearts

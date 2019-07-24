@@ -2,19 +2,21 @@
 title: Donna Scott
 name: Donna Scott
 name-sort: Scott, Donna
-games: 55
-wins: 14
-losses: 41
-inturn-total: 438
-inturn-percent: 66
-outturn-total: 600
-outturn-percent: 70
-draw-total: 490
-draw-percent: 68
-takeout-total: 548
-takeout-percent: 68
-shots-total: 1038
-shots-percent: 68
+totals:
+ - event: Hearts
+   games: 55
+   wins: 14
+   losses: 41
+   inturn-total: 438
+   inturn-percent: 66
+   outturn-total: 600
+   outturn-percent: 70
+   draw-total: 490
+   draw-percent: 68
+   takeout-total: 548
+   takeout-percent: 68
+   shots-total: 1038
+   shots-percent: 68
 years:
  - year: 1986
    event: Hearts

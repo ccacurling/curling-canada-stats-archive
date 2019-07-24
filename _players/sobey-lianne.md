@@ -2,19 +2,21 @@
 title: Lianne Sobey
 name: Lianne Sobey
 name-sort: Sobey, Lianne
-games: 33
-wins: 13
-losses: 20
-inturn-total: 429
-inturn-percent: 77
-outturn-total: 175
-outturn-percent: 76
-draw-total: 507
-draw-percent: 77
-takeout-total: 97
-takeout-percent: 73
-shots-total: 604
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 33
+   wins: 13
+   losses: 20
+   inturn-total: 429
+   inturn-percent: 77
+   outturn-total: 175
+   outturn-percent: 76
+   draw-total: 507
+   draw-percent: 77
+   takeout-total: 97
+   takeout-percent: 73
+   shots-total: 604
+   shots-percent: 76
 years:
  - year: 2006
    event: Hearts

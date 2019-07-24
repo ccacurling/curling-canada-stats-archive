@@ -2,19 +2,21 @@
 title: Mark Whitehead
 name: Mark Whitehead
 name-sort: Whitehead, Mark
-games: 42
-wins: 11
-losses: 31
-inturn-total: 353
-inturn-percent: 76
-outturn-total: 375
-outturn-percent: 75
-draw-total: 392
-draw-percent: 74
-takeout-total: 336
-takeout-percent: 78
-shots-total: 728
-shots-percent: 76
+totals:
+ - event: Brier
+   games: 42
+   wins: 11
+   losses: 31
+   inturn-total: 353
+   inturn-percent: 76
+   outturn-total: 375
+   outturn-percent: 75
+   draw-total: 392
+   draw-percent: 74
+   takeout-total: 336
+   takeout-percent: 78
+   shots-total: 728
+   shots-percent: 76
 years:
  - year: 1998
    event: Brier

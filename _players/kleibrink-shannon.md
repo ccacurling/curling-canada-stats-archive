@@ -2,19 +2,21 @@
 title: Shannon Kleibrink
 name: Shannon Kleibrink
 name-sort: Kleibrink, Shannon
-games: 52
-wins: 32
-losses: 20
-inturn-total: 459
-inturn-percent: 76
-outturn-total: 469
-outturn-percent: 77
-draw-total: 403
-draw-percent: 73
-takeout-total: 525
-takeout-percent: 80
-shots-total: 928
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 52
+   wins: 32
+   losses: 20
+   inturn-total: 459
+   inturn-percent: 76
+   outturn-total: 469
+   outturn-percent: 77
+   draw-total: 403
+   draw-percent: 73
+   takeout-total: 525
+   takeout-percent: 80
+   shots-total: 928
+   shots-percent: 77
 years:
  - year: 1993
    event: Hearts

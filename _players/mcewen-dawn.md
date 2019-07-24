@@ -2,19 +2,21 @@
 title: Dawn McEwen
 name: Dawn McEwen
 name-sort: McEwen, Dawn
-games: 151
-wins: 112
-losses: 39
-inturn-total: 1769
-inturn-percent: 89
-outturn-total: 973
-outturn-percent: 87
-draw-total: 2181
-draw-percent: 90
-takeout-total: 561
-takeout-percent: 83
-shots-total: 2742
-shots-percent: 88
+totals:
+ - event: Hearts
+   games: 151
+   wins: 112
+   losses: 39
+   inturn-total: 1769
+   inturn-percent: 89
+   outturn-total: 973
+   outturn-percent: 87
+   draw-total: 2181
+   draw-percent: 90
+   takeout-total: 561
+   takeout-percent: 83
+   shots-total: 2742
+   shots-percent: 88
 years:
  - year: 2005
    event: Hearts

@@ -2,19 +2,21 @@
 title: Don Harvey
 name: Don Harvey
 name-sort: Harvey, Don
-games: 12
-wins: 7
-losses: 5
-inturn-total: 89
-inturn-percent: 88
-outturn-total: 119
-outturn-percent: 87
-draw-total: 137
-draw-percent: 89
-takeout-total: 71
-takeout-percent: 86
-shots-total: 208
-shots-percent: 88
+totals:
+ - event: Brier
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 89
+   inturn-percent: 88
+   outturn-total: 119
+   outturn-percent: 87
+   draw-total: 137
+   draw-percent: 89
+   takeout-total: 71
+   takeout-percent: 86
+   shots-total: 208
+   shots-percent: 88
 years:
  - year: 1988
    event: Brier

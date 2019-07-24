@@ -2,19 +2,21 @@
 title: Jessie Sanderson
 name: Jessie Sanderson
 name-sort: Sanderson, Jessie
-games: 11
-wins: 6
-losses: 5
-inturn-total: 127
-inturn-percent: 87
-outturn-total: 103
-outturn-percent: 81
-draw-total: 85
-draw-percent: 82
-takeout-total: 145
-takeout-percent: 86
-shots-total: 230
-shots-percent: 84
+totals:
+ - event: Hearts
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 127
+   inturn-percent: 87
+   outturn-total: 103
+   outturn-percent: 81
+   draw-total: 85
+   draw-percent: 82
+   takeout-total: 145
+   takeout-percent: 86
+   shots-total: 230
+   shots-percent: 84
 years:
  - year: 2014
    event: Hearts

@@ -2,19 +2,21 @@
 title: Vic Peters
 name: Vic Peters
 name-sort: Peters, Vic
-games: 39
-wins: 30
-losses: 9
-inturn-total: 279
-inturn-percent: 82
-outturn-total: 463
-outturn-percent: 80
-draw-total: 330
-draw-percent: 80
-takeout-total: 412
-takeout-percent: 81
-shots-total: 742
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 39
+   wins: 30
+   losses: 9
+   inturn-total: 279
+   inturn-percent: 82
+   outturn-total: 463
+   outturn-percent: 80
+   draw-total: 330
+   draw-percent: 80
+   takeout-total: 412
+   takeout-percent: 81
+   shots-total: 742
+   shots-percent: 81
 years:
  - year: 1992
    event: Brier

@@ -2,19 +2,21 @@
 title: Heather Houston
 name: Heather Houston
 name-sort: Houston, Heather
-games: 54
-wins: 36
-losses: 18
-inturn-total: 532
-inturn-percent: 73
-outturn-total: 474
-outturn-percent: 71
-draw-total: 496
-draw-percent: 71
-takeout-total: 510
-takeout-percent: 74
-shots-total: 1006
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 54
+   wins: 36
+   losses: 18
+   inturn-total: 532
+   inturn-percent: 73
+   outturn-total: 474
+   outturn-percent: 71
+   draw-total: 496
+   draw-percent: 71
+   takeout-total: 510
+   takeout-percent: 74
+   shots-total: 1006
+   shots-percent: 72
 years:
  - year: 1988
    event: Hearts

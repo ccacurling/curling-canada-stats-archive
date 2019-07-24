@@ -2,19 +2,21 @@
 title: John Allan
 name: John Allan
 name-sort: Allan, John
-games: 55
-wins: 18
-losses: 37
-inturn-total: 353
-inturn-percent: 78
-outturn-total: 307
-outturn-percent: 82
-draw-total: 361
-draw-percent: 81
-takeout-total: 299
-takeout-percent: 79
-shots-total: 660
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 55
+   wins: 18
+   losses: 37
+   inturn-total: 353
+   inturn-percent: 78
+   outturn-total: 307
+   outturn-percent: 82
+   draw-total: 361
+   draw-percent: 81
+   takeout-total: 299
+   takeout-percent: 79
+   shots-total: 660
+   shots-percent: 80
 years:
  - year: 1981
    event: Brier

@@ -2,19 +2,21 @@
 title: Anita Ford
 name: Anita Ford
 name-sort: Ford, Anita
-games: 1
-wins: 1
-losses: 0
-inturn-total: 17
-inturn-percent: 76
-outturn-total: 3
-outturn-percent: 83
-draw-total: 15
-draw-percent: 83
-takeout-total: 5
-takeout-percent: 60
-shots-total: 20
-shots-percent: 78
+totals:
+ - event: Hearts
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 17
+   inturn-percent: 76
+   outturn-total: 3
+   outturn-percent: 83
+   draw-total: 15
+   draw-percent: 83
+   takeout-total: 5
+   takeout-percent: 60
+   shots-total: 20
+   shots-percent: 78
 years:
  - year: 1991
    event: Hearts

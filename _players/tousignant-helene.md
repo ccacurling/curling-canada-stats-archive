@@ -2,19 +2,21 @@
 title: Helene Tousignant
 name: Helene Tousignant
 name-sort: Tousignant, Helene
-games: 24
-wins: 12
-losses: 12
-inturn-total: 200
-inturn-percent: 59
-outturn-total: 250
-outturn-percent: 61
-draw-total: 228
-draw-percent: 59
-takeout-total: 222
-takeout-percent: 61
-shots-total: 450
-shots-percent: 60
+totals:
+ - event: Hearts
+   games: 24
+   wins: 12
+   losses: 12
+   inturn-total: 200
+   inturn-percent: 59
+   outturn-total: 250
+   outturn-percent: 61
+   draw-total: 228
+   draw-percent: 59
+   takeout-total: 222
+   takeout-percent: 61
+   shots-total: 450
+   shots-percent: 60
 years:
  - year: 1982
    event: Hearts

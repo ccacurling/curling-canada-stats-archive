@@ -2,19 +2,21 @@
 title: Kristen Pilote
 name: Kristen Pilote
 name-sort: Pilote, Kristen
-games: 23
-wins: 7
-losses: 16
-inturn-total: 215
-inturn-percent: 77
-outturn-total: 225
-outturn-percent: 72
-draw-total: 206
-draw-percent: 71
-takeout-total: 234
-takeout-percent: 77
-shots-total: 440
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 23
+   wins: 7
+   losses: 16
+   inturn-total: 215
+   inturn-percent: 77
+   outturn-total: 225
+   outturn-percent: 72
+   draw-total: 206
+   draw-percent: 71
+   takeout-total: 234
+   takeout-percent: 77
+   shots-total: 440
+   shots-percent: 74
 years:
  - year: 2015
    event: Hearts

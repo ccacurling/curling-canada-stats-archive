@@ -2,19 +2,21 @@
 title: Lisa Davies
 name: Lisa Davies
 name-sort: Davies, Lisa
-games: 5
-wins: 0
-losses: 5
-inturn-total: 37
-inturn-percent: 79
-outturn-total: 29
-outturn-percent: 81
-draw-total: 37
-draw-percent: 80
-takeout-total: 29
-takeout-percent: 79
-shots-total: 66
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 5
+   wins: 0
+   losses: 5
+   inturn-total: 37
+   inturn-percent: 79
+   outturn-total: 29
+   outturn-percent: 81
+   draw-total: 37
+   draw-percent: 80
+   takeout-total: 29
+   takeout-percent: 79
+   shots-total: 66
+   shots-percent: 80
 years:
  - year: 2014
    event: Hearts

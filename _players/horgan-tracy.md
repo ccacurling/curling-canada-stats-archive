@@ -2,19 +2,21 @@
 title: Tracy Horgan
 name: Tracy Horgan
 name-sort: Horgan, Tracy
-games: 22
-wins: 10
-losses: 12
-inturn-total: 198
-inturn-percent: 74
-outturn-total: 209
-outturn-percent: 77
-draw-total: 203
-draw-percent: 74
-takeout-total: 204
-takeout-percent: 77
-shots-total: 407
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 22
+   wins: 10
+   losses: 12
+   inturn-total: 198
+   inturn-percent: 74
+   outturn-total: 209
+   outturn-percent: 77
+   draw-total: 203
+   draw-percent: 74
+   takeout-total: 204
+   takeout-percent: 77
+   shots-total: 407
+   shots-percent: 76
 years:
  - year: 2012
    event: Hearts

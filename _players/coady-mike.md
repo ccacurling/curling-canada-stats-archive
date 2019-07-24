@@ -2,19 +2,21 @@
 title: Mike Coady
 name: Mike Coady
 name-sort: Coady, Mike
-games: 55
-wins: 22
-losses: 33
-inturn-total: 396
-inturn-percent: 73
-outturn-total: 464
-outturn-percent: 77
-draw-total: 388
-draw-percent: 77
-takeout-total: 472
-takeout-percent: 74
-shots-total: 860
-shots-percent: 75
+totals:
+ - event: Brier
+   games: 55
+   wins: 22
+   losses: 33
+   inturn-total: 396
+   inturn-percent: 73
+   outturn-total: 464
+   outturn-percent: 77
+   draw-total: 388
+   draw-percent: 77
+   takeout-total: 472
+   takeout-percent: 74
+   shots-total: 860
+   shots-percent: 75
 years:
  - year: 1980
    event: Brier

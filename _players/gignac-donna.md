@@ -2,19 +2,21 @@
 title: Donna Gignac
 name: Donna Gignac
 name-sort: Gignac, Donna
-games: 49
-wins: 31
-losses: 18
-inturn-total: 404
-inturn-percent: 76
-outturn-total: 527
-outturn-percent: 80
-draw-total: 488
-draw-percent: 78
-takeout-total: 443
-takeout-percent: 78
-shots-total: 931
-shots-percent: 78
+totals:
+ - event: Hearts
+   games: 49
+   wins: 31
+   losses: 18
+   inturn-total: 404
+   inturn-percent: 76
+   outturn-total: 527
+   outturn-percent: 80
+   draw-total: 488
+   draw-percent: 78
+   takeout-total: 443
+   takeout-percent: 78
+   shots-total: 931
+   shots-percent: 78
 years:
  - year: 1994
    event: Hearts

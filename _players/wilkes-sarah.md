@@ -2,19 +2,21 @@
 title: Sarah Wilkes
 name: Sarah Wilkes
 name-sort: Wilkes, Sarah
-games: 27
-wins: 18
-losses: 9
-inturn-total: 229
-inturn-percent: 81
-outturn-total: 253
-outturn-percent: 83
-draw-total: 179
-draw-percent: 81
-takeout-total: 303
-takeout-percent: 83
-shots-total: 482
-shots-percent: 82
+totals:
+ - event: Hearts
+   games: 27
+   wins: 18
+   losses: 9
+   inturn-total: 229
+   inturn-percent: 81
+   outturn-total: 253
+   outturn-percent: 83
+   draw-total: 179
+   draw-percent: 81
+   takeout-total: 303
+   takeout-percent: 83
+   shots-total: 482
+   shots-percent: 82
 years:
  - year: 2015
    event: Hearts

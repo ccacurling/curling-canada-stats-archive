@@ -2,19 +2,21 @@
 title: Rob Koffski
 name: Rob Koffski
 name-sort: Koffski, Rob
-games: 24
-wins: 15
-losses: 9
-inturn-total: 207
-inturn-percent: 81
-outturn-total: 258
-outturn-percent: 82
-draw-total: 278
-draw-percent: 83
-takeout-total: 187
-takeout-percent: 79
-shots-total: 465
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 24
+   wins: 15
+   losses: 9
+   inturn-total: 207
+   inturn-percent: 81
+   outturn-total: 258
+   outturn-percent: 82
+   draw-total: 278
+   draw-percent: 83
+   takeout-total: 187
+   takeout-percent: 79
+   shots-total: 465
+   shots-percent: 81
 years:
  - year: 1989
    event: Brier

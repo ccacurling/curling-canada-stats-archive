@@ -2,19 +2,21 @@
 title: Jolene Campbell
 name: Jolene Campbell
 name-sort: Campbell, Jolene
-games: 23
-wins: 13
-losses: 10
-inturn-total: 184
-inturn-percent: 80
-outturn-total: 178
-outturn-percent: 81
-draw-total: 151
-draw-percent: 78
-takeout-total: 211
-takeout-percent: 82
-shots-total: 362
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 23
+   wins: 13
+   losses: 10
+   inturn-total: 184
+   inturn-percent: 80
+   outturn-total: 178
+   outturn-percent: 81
+   draw-total: 151
+   draw-percent: 78
+   takeout-total: 211
+   takeout-percent: 82
+   shots-total: 362
+   shots-percent: 80
 years:
  - year: 2010
    event: Hearts

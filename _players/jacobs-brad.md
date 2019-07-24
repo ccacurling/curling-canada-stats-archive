@@ -2,19 +2,21 @@
 title: Brad Jacobs
 name: Brad Jacobs
 name-sort: Jacobs, Brad
-games: 130
-wins: 87
-losses: 43
-inturn-total: 1072
-inturn-percent: 82
-outturn-total: 1330
-outturn-percent: 84
-draw-total: 1022
-draw-percent: 81
-takeout-total: 1380
-takeout-percent: 85
-shots-total: 2402
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 130
+   wins: 87
+   losses: 43
+   inturn-total: 1072
+   inturn-percent: 82
+   outturn-total: 1330
+   outturn-percent: 84
+   draw-total: 1022
+   draw-percent: 81
+   takeout-total: 1380
+   takeout-percent: 85
+   shots-total: 2402
+   shots-percent: 83
 years:
  - year: 2007
    event: Brier

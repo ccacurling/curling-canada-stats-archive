@@ -2,19 +2,21 @@
 title: Kelley Law
 name: Kelley Law
 name-sort: Law, Kelley
-games: 85
-wins: 48
-losses: 37
-inturn-total: 805
-inturn-percent: 72
-outturn-total: 806
-outturn-percent: 72
-draw-total: 704
-draw-percent: 67
-takeout-total: 907
-takeout-percent: 77
-shots-total: 1611
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 85
+   wins: 48
+   losses: 37
+   inturn-total: 805
+   inturn-percent: 72
+   outturn-total: 806
+   outturn-percent: 72
+   draw-total: 704
+   draw-percent: 67
+   takeout-total: 907
+   takeout-percent: 77
+   shots-total: 1611
+   shots-percent: 72
 years:
  - year: 1990
    event: Hearts

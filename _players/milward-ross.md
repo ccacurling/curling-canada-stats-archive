@@ -2,19 +2,21 @@
 title: Ross Milward
 name: Ross Milward
 name-sort: Milward, Ross
-games: 22
-wins: 6
-losses: 16
-inturn-total: 287
-inturn-percent: 87
-outturn-total: 135
-outturn-percent: 80
-draw-total: 314
-draw-percent: 88
-takeout-total: 108
-takeout-percent: 75
-shots-total: 422
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 22
+   wins: 6
+   losses: 16
+   inturn-total: 287
+   inturn-percent: 87
+   outturn-total: 135
+   outturn-percent: 80
+   draw-total: 314
+   draw-percent: 88
+   takeout-total: 108
+   takeout-percent: 75
+   shots-total: 422
+   shots-percent: 85
 years:
  - year: 2000
    event: Brier

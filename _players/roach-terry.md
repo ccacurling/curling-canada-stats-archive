@@ -2,19 +2,21 @@
 title: Terry Roach
 name: Terry Roach
 name-sort: Roach, Terry
-games: 22
-wins: 8
-losses: 14
-inturn-total: 124
-inturn-percent: 73
-outturn-total: 299
-outturn-percent: 85
-draw-total: 282
-draw-percent: 86
-takeout-total: 141
-takeout-percent: 74
-shots-total: 423
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 22
+   wins: 8
+   losses: 14
+   inturn-total: 124
+   inturn-percent: 73
+   outturn-total: 299
+   outturn-percent: 85
+   draw-total: 282
+   draw-percent: 86
+   takeout-total: 141
+   takeout-percent: 74
+   shots-total: 423
+   shots-percent: 82
 years:
  - year: 1987
    event: Brier

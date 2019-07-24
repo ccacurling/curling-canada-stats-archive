@@ -2,19 +2,21 @@
 title: Connie Laliberte
 name: Connie Laliberte
 name-sort: Laliberte, Connie
-games: 103
-wins: 74
-losses: 29
-inturn-total: 895
-inturn-percent: 76
-outturn-total: 1031
-outturn-percent: 78
-draw-total: 843
-draw-percent: 74
-takeout-total: 1083
-takeout-percent: 80
-shots-total: 1926
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 103
+   wins: 74
+   losses: 29
+   inturn-total: 895
+   inturn-percent: 76
+   outturn-total: 1031
+   outturn-percent: 78
+   draw-total: 843
+   draw-percent: 74
+   takeout-total: 1083
+   takeout-percent: 80
+   shots-total: 1926
+   shots-percent: 77
 years:
  - year: 1984
    event: Hearts

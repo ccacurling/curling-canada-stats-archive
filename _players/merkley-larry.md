@@ -2,19 +2,21 @@
 title: Larry Merkley
 name: Larry Merkley
 name-sort: Merkley, Larry
-games: 11
-wins: 5
-losses: 6
-inturn-total: 103
-inturn-percent: 70
-outturn-total: 112
-outturn-percent: 67
-draw-total: 93
-draw-percent: 70
-takeout-total: 122
-takeout-percent: 67
-shots-total: 215
-shots-percent: 68
+totals:
+ - event: Brier
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 103
+   inturn-percent: 70
+   outturn-total: 112
+   outturn-percent: 67
+   draw-total: 93
+   draw-percent: 70
+   takeout-total: 122
+   takeout-percent: 67
+   shots-total: 215
+   shots-percent: 68
 years:
  - year: 1980
    event: Brier

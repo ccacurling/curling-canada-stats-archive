@@ -2,19 +2,21 @@
 title: Jan Augustyn
 name: Jan Augustyn
 name-sort: Augustyn, Jan
-games: 23
-wins: 15
-losses: 8
-inturn-total: 86
-inturn-percent: 61
-outturn-total: 328
-outturn-percent: 77
-draw-total: 246
-draw-percent: 77
-takeout-total: 168
-takeout-percent: 68
-shots-total: 414
-shots-percent: 73
+totals:
+ - event: Hearts
+   games: 23
+   wins: 15
+   losses: 8
+   inturn-total: 86
+   inturn-percent: 61
+   outturn-total: 328
+   outturn-percent: 77
+   draw-total: 246
+   draw-percent: 77
+   takeout-total: 168
+   takeout-percent: 68
+   shots-total: 414
+   shots-percent: 73
 years:
  - year: 1986
    event: Hearts

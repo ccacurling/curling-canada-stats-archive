@@ -2,19 +2,21 @@
 title: Kim Dolan
 name: Kim Dolan
 name-sort: Dolan, Kim
-games: 111
-wins: 42
-losses: 69
-inturn-total: 1090
-inturn-percent: 70
-outturn-total: 1017
-outturn-percent: 68
-draw-total: 984
-draw-percent: 66
-takeout-total: 1123
-takeout-percent: 71
-shots-total: 2107
-shots-percent: 69
+totals:
+ - event: Hearts
+   games: 111
+   wins: 42
+   losses: 69
+   inturn-total: 1090
+   inturn-percent: 70
+   outturn-total: 1017
+   outturn-percent: 68
+   draw-total: 984
+   draw-percent: 66
+   takeout-total: 1123
+   takeout-percent: 71
+   shots-total: 2107
+   shots-percent: 69
 years:
  - year: 1983
    event: Hearts

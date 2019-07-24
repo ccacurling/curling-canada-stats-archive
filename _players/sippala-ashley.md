@@ -2,19 +2,21 @@
 title: Ashley Sippala
 name: Ashley Sippala
 name-sort: Sippala, Ashley
-games: 42
-wins: 27
-losses: 15
-inturn-total: 416
-inturn-percent: 79
-outturn-total: 388
-outturn-percent: 81
-draw-total: 345
-draw-percent: 78
-takeout-total: 459
-takeout-percent: 81
-shots-total: 804
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 42
+   wins: 27
+   losses: 15
+   inturn-total: 416
+   inturn-percent: 79
+   outturn-total: 388
+   outturn-percent: 81
+   draw-total: 345
+   draw-percent: 78
+   takeout-total: 459
+   takeout-percent: 81
+   shots-total: 804
+   shots-percent: 80
 years:
  - year: 2009
    event: Hearts

@@ -2,19 +2,21 @@
 title: Sandra Jenkins
 name: Sandra Jenkins
 name-sort: Jenkins, Sandra
-games: 34
-wins: 21
-losses: 13
-inturn-total: 347
-inturn-percent: 67
-outturn-total: 414
-outturn-percent: 72
-draw-total: 324
-draw-percent: 70
-takeout-total: 437
-takeout-percent: 69
-shots-total: 761
-shots-percent: 70
+totals:
+ - event: Hearts
+   games: 34
+   wins: 21
+   losses: 13
+   inturn-total: 347
+   inturn-percent: 67
+   outturn-total: 414
+   outturn-percent: 72
+   draw-total: 324
+   draw-percent: 70
+   takeout-total: 437
+   takeout-percent: 69
+   shots-total: 761
+   shots-percent: 70
 years:
  - year: 1982
    event: Hearts

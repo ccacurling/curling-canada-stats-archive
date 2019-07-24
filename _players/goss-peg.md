@@ -2,19 +2,21 @@
 title: Peg Goss
 name: Peg Goss
 name-sort: Goss, Peg
-games: 70
-wins: 35
-losses: 35
-inturn-total: 819
-inturn-percent: 77
-outturn-total: 553
-outturn-percent: 75
-draw-total: 770
-draw-percent: 78
-takeout-total: 602
-takeout-percent: 73
-shots-total: 1372
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 70
+   wins: 35
+   losses: 35
+   inturn-total: 819
+   inturn-percent: 77
+   outturn-total: 553
+   outturn-percent: 75
+   draw-total: 770
+   draw-percent: 78
+   takeout-total: 602
+   takeout-percent: 73
+   shots-total: 1372
+   shots-percent: 76
 years:
  - year: 1988
    event: Hearts

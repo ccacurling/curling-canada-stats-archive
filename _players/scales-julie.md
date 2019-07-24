@@ -2,19 +2,21 @@
 title: Julie Scales
 name: Julie Scales
 name-sort: Scales, Julie
-games: 33
-wins: 11
-losses: 22
-inturn-total: 290
-inturn-percent: 68
-outturn-total: 343
-outturn-percent: 77
-draw-total: 364
-draw-percent: 75
-takeout-total: 269
-takeout-percent: 71
-shots-total: 633
-shots-percent: 73
+totals:
+ - event: Hearts
+   games: 33
+   wins: 11
+   losses: 22
+   inturn-total: 290
+   inturn-percent: 68
+   outturn-total: 343
+   outturn-percent: 77
+   draw-total: 364
+   draw-percent: 75
+   takeout-total: 269
+   takeout-percent: 71
+   shots-total: 633
+   shots-percent: 73
 years:
  - year: 1992
    event: Hearts

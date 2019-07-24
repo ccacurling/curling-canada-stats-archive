@@ -2,19 +2,21 @@
 title: Rich Evoy
 name: Rich Evoy
 name-sort: Evoy, Rich
-games: 34
-wins: 19
-losses: 15
-inturn-total: 190
-inturn-percent: 82
-outturn-total: 252
-outturn-percent: 77
-draw-total: 203
-draw-percent: 77
-takeout-total: 239
-takeout-percent: 81
-shots-total: 442
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 34
+   wins: 19
+   losses: 15
+   inturn-total: 190
+   inturn-percent: 82
+   outturn-total: 252
+   outturn-percent: 77
+   draw-total: 203
+   draw-percent: 77
+   takeout-total: 239
+   takeout-percent: 81
+   shots-total: 442
+   shots-percent: 79
 years:
  - year: 1983
    event: Brier

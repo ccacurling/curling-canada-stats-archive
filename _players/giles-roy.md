@@ -2,19 +2,21 @@
 title: Roy Giles
 name: Roy Giles
 name-sort: Giles, Roy
-games: 56
-wins: 22
-losses: 34
-inturn-total: 467
-inturn-percent: 73
-outturn-total: 396
-outturn-percent: 73
-draw-total: 435
-draw-percent: 74
-takeout-total: 428
-takeout-percent: 71
-shots-total: 863
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 56
+   wins: 22
+   losses: 34
+   inturn-total: 467
+   inturn-percent: 73
+   outturn-total: 396
+   outturn-percent: 73
+   draw-total: 435
+   draw-percent: 74
+   takeout-total: 428
+   takeout-percent: 71
+   shots-total: 863
+   shots-percent: 73
 years:
  - year: 1980
    event: Brier

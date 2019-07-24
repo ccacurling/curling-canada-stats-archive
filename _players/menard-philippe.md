@@ -2,19 +2,21 @@
 title: Philippe Menard
 name: Philippe Menard
 name-sort: Menard, Philippe
-games: 78
-wins: 39
-losses: 39
-inturn-total: 679
-inturn-percent: 89
-outturn-total: 786
-outturn-percent: 88
-draw-total: 1315
-draw-percent: 89
-takeout-total: 150
-takeout-percent: 81
-shots-total: 1465
-shots-percent: 88
+totals:
+ - event: Brier
+   games: 78
+   wins: 39
+   losses: 39
+   inturn-total: 679
+   inturn-percent: 89
+   outturn-total: 786
+   outturn-percent: 88
+   draw-total: 1315
+   draw-percent: 89
+   takeout-total: 150
+   takeout-percent: 81
+   shots-total: 1465
+   shots-percent: 88
 years:
  - year: 2008
    event: Brier

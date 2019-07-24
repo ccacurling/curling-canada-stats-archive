@@ -2,19 +2,21 @@
 title: Jim Packet
 name: Jim Packet
 name-sort: Packet, Jim
-games: 33
-wins: 12
-losses: 21
-inturn-total: 149
-inturn-percent: 71
-outturn-total: 260
-outturn-percent: 77
-draw-total: 157
-draw-percent: 71
-takeout-total: 252
-takeout-percent: 77
-shots-total: 409
-shots-percent: 75
+totals:
+ - event: Brier
+   games: 33
+   wins: 12
+   losses: 21
+   inturn-total: 149
+   inturn-percent: 71
+   outturn-total: 260
+   outturn-percent: 77
+   draw-total: 157
+   draw-percent: 71
+   takeout-total: 252
+   takeout-percent: 77
+   shots-total: 409
+   shots-percent: 75
 years:
  - year: 1983
    event: Brier

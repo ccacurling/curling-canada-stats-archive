@@ -2,19 +2,21 @@
 title: Peter MacDonald
 name: Peter MacDonald
 name-sort: MacDonald, Peter
-games: 36
-wins: 17
-losses: 19
-inturn-total: 182
-inturn-percent: 75
-outturn-total: 292
-outturn-percent: 79
-draw-total: 235
-draw-percent: 75
-takeout-total: 239
-takeout-percent: 80
-shots-total: 474
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 36
+   wins: 17
+   losses: 19
+   inturn-total: 182
+   inturn-percent: 75
+   outturn-total: 292
+   outturn-percent: 79
+   draw-total: 235
+   draw-percent: 75
+   takeout-total: 239
+   takeout-percent: 80
+   shots-total: 474
+   shots-percent: 78
 years:
  - year: 1981
    event: Brier

@@ -2,19 +2,21 @@
 title: Dallas Duce
 name: Dallas Duce
 name-sort: Duce, Dallas
-games: 21
-wins: 7
-losses: 14
-inturn-total: 125
-inturn-percent: 81
-outturn-total: 273
-outturn-percent: 85
-draw-total: 193
-draw-percent: 80
-takeout-total: 205
-takeout-percent: 86
-shots-total: 398
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 21
+   wins: 7
+   losses: 14
+   inturn-total: 125
+   inturn-percent: 81
+   outturn-total: 273
+   outturn-percent: 85
+   draw-total: 193
+   draw-percent: 80
+   takeout-total: 205
+   takeout-percent: 86
+   shots-total: 398
+   shots-percent: 83
 years:
  - year: 1989
    event: Brier

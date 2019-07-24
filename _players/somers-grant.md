@@ -2,19 +2,21 @@
 title: Grant Somers
 name: Grant Somers
 name-sort: Somers, Grant
-games: 24
-wins: 8
-losses: 16
-inturn-total: 245
-inturn-percent: 72
-outturn-total: 200
-outturn-percent: 76
-draw-total: 215
-draw-percent: 75
-takeout-total: 230
-takeout-percent: 73
-shots-total: 445
-shots-percent: 74
+totals:
+ - event: Brier
+   games: 24
+   wins: 8
+   losses: 16
+   inturn-total: 245
+   inturn-percent: 72
+   outturn-total: 200
+   outturn-percent: 76
+   draw-total: 215
+   draw-percent: 75
+   takeout-total: 230
+   takeout-percent: 73
+   shots-total: 445
+   shots-percent: 74
 years:
  - year: 1986
    event: Brier

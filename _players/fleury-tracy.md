@@ -2,19 +2,21 @@
 title: Tracy Fleury
 name: Tracy Fleury
 name-sort: Fleury, Tracy
-games: 20
-wins: 12
-losses: 8
-inturn-total: 202
-inturn-percent: 79
-outturn-total: 173
-outturn-percent: 81
-draw-total: 173
-draw-percent: 76
-takeout-total: 202
-takeout-percent: 83
-shots-total: 375
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 20
+   wins: 12
+   losses: 8
+   inturn-total: 202
+   inturn-percent: 79
+   outturn-total: 173
+   outturn-percent: 81
+   draw-total: 173
+   draw-percent: 76
+   takeout-total: 202
+   takeout-percent: 83
+   shots-total: 375
+   shots-percent: 80
 years:
  - year: 2018
    event: Hearts

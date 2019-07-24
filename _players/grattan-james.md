@@ -2,19 +2,21 @@
 title: James Grattan
 name: James Grattan
 name-sort: Grattan, James
-games: 135
-wins: 65
-losses: 70
-inturn-total: 947
-inturn-percent: 79
-outturn-total: 1578
-outturn-percent: 81
-draw-total: 1074
-draw-percent: 78
-takeout-total: 1451
-takeout-percent: 82
-shots-total: 2525
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 135
+   wins: 65
+   losses: 70
+   inturn-total: 947
+   inturn-percent: 79
+   outturn-total: 1578
+   outturn-percent: 81
+   draw-total: 1074
+   draw-percent: 78
+   takeout-total: 1451
+   takeout-percent: 82
+   shots-total: 2525
+   shots-percent: 80
 years:
  - year: 1997
    event: Brier

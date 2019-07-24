@@ -2,19 +2,21 @@
 title: Brian Dobson
 name: Brian Dobson
 name-sort: Dobson, Brian
-games: 33
-wins: 13
-losses: 20
-inturn-total: 328
-inturn-percent: 75
-outturn-total: 308
-outturn-percent: 80
-draw-total: 298
-draw-percent: 76
-takeout-total: 338
-takeout-percent: 78
-shots-total: 636
-shots-percent: 77
+totals:
+ - event: Brier
+   games: 33
+   wins: 13
+   losses: 20
+   inturn-total: 328
+   inturn-percent: 75
+   outturn-total: 308
+   outturn-percent: 80
+   draw-total: 298
+   draw-percent: 76
+   takeout-total: 338
+   takeout-percent: 78
+   shots-total: 636
+   shots-percent: 77
 years:
  - year: 1984
    event: Brier

@@ -2,19 +2,21 @@
 title: Laurie Ellwood
 name: Laurie Ellwood
 name-sort: Ellwood, Laurie
-games: 23
-wins: 13
-losses: 10
-inturn-total: 210
-inturn-percent: 67
-outturn-total: 235
-outturn-percent: 66
-draw-total: 200
-draw-percent: 63
-takeout-total: 245
-takeout-percent: 69
-shots-total: 445
-shots-percent: 67
+totals:
+ - event: Hearts
+   games: 23
+   wins: 13
+   losses: 10
+   inturn-total: 210
+   inturn-percent: 67
+   outturn-total: 235
+   outturn-percent: 66
+   draw-total: 200
+   draw-percent: 63
+   takeout-total: 245
+   takeout-percent: 69
+   shots-total: 445
+   shots-percent: 67
 years:
  - year: 1987
    event: Hearts

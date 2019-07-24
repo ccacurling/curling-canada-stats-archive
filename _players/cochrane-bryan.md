@@ -2,19 +2,21 @@
 title: Bryan Cochrane
 name: Bryan Cochrane
 name-sort: Cochrane, Bryan
-games: 12
-wins: 5
-losses: 7
-inturn-total: 81
-inturn-percent: 81
-outturn-total: 125
-outturn-percent: 78
-draw-total: 105
-draw-percent: 79
-takeout-total: 101
-takeout-percent: 80
-shots-total: 206
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 12
+   wins: 5
+   losses: 7
+   inturn-total: 81
+   inturn-percent: 81
+   outturn-total: 125
+   outturn-percent: 78
+   draw-total: 105
+   draw-percent: 79
+   takeout-total: 101
+   takeout-percent: 80
+   shots-total: 206
+   shots-percent: 79
 years:
  - year: 2003
    event: Brier

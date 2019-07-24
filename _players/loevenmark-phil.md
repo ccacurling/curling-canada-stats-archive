@@ -2,19 +2,21 @@
 title: Phil Loevenmark
 name: Phil Loevenmark
 name-sort: Loevenmark, Phil
-games: 33
-wins: 19
-losses: 14
-inturn-total: 272
-inturn-percent: 80
-outturn-total: 343
-outturn-percent: 80
-draw-total: 242
-draw-percent: 78
-takeout-total: 373
-takeout-percent: 81
-shots-total: 615
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 33
+   wins: 19
+   losses: 14
+   inturn-total: 272
+   inturn-percent: 80
+   outturn-total: 343
+   outturn-percent: 80
+   draw-total: 242
+   draw-percent: 78
+   takeout-total: 373
+   takeout-percent: 81
+   shots-total: 615
+   shots-percent: 80
 years:
  - year: 1994
    event: Brier

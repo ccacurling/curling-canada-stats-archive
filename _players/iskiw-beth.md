@@ -2,19 +2,21 @@
 title: Beth Iskiw
 name: Beth Iskiw
 name-sort: Iskiw, Beth
-games: 50
-wins: 29
-losses: 21
-inturn-total: 486
-inturn-percent: 82
-outturn-total: 486
-outturn-percent: 82
-draw-total: 436
-draw-percent: 82
-takeout-total: 536
-takeout-percent: 81
-shots-total: 972
-shots-percent: 82
+totals:
+ - event: Hearts
+   games: 50
+   wins: 29
+   losses: 21
+   inturn-total: 486
+   inturn-percent: 82
+   outturn-total: 486
+   outturn-percent: 82
+   draw-total: 436
+   draw-percent: 82
+   takeout-total: 536
+   takeout-percent: 81
+   shots-total: 972
+   shots-percent: 82
 years:
  - year: 2002
    event: Hearts

@@ -2,19 +2,21 @@
 title: Donald McDermaid
 name: Donald McDermaid
 name-sort: McDermaid, Donald
-games: 22
-wins: 4
-losses: 18
-inturn-total: 280
-inturn-percent: 88
-outturn-total: 124
-outturn-percent: 85
-draw-total: 359
-draw-percent: 87
-takeout-total: 45
-takeout-percent: 85
-shots-total: 404
-shots-percent: 87
+totals:
+ - event: Brier
+   games: 22
+   wins: 4
+   losses: 18
+   inturn-total: 280
+   inturn-percent: 88
+   outturn-total: 124
+   outturn-percent: 85
+   draw-total: 359
+   draw-percent: 87
+   takeout-total: 45
+   takeout-percent: 85
+   shots-total: 404
+   shots-percent: 87
 years:
  - year: 2012
    event: Brier

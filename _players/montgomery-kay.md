@@ -2,19 +2,21 @@
 title: Kay Montgomery
 name: Kay Montgomery
 name-sort: Montgomery, Kay
-games: 24
-wins: 14
-losses: 10
-inturn-total: 169
-inturn-percent: 76
-outturn-total: 297
-outturn-percent: 82
-draw-total: 189
-draw-percent: 74
-takeout-total: 277
-takeout-percent: 84
-shots-total: 466
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 24
+   wins: 14
+   losses: 10
+   inturn-total: 169
+   inturn-percent: 76
+   outturn-total: 297
+   outturn-percent: 82
+   draw-total: 189
+   draw-percent: 74
+   takeout-total: 277
+   takeout-percent: 84
+   shots-total: 466
+   shots-percent: 80
 years:
  - year: 1994
    event: Hearts

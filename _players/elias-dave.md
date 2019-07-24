@@ -2,19 +2,21 @@
 title: Dave Elias
 name: Dave Elias
 name-sort: Elias, Dave
-games: 24
-wins: 14
-losses: 10
-inturn-total: 264
-inturn-percent: 80
-outturn-total: 205
-outturn-percent: 80
-draw-total: 227
-draw-percent: 79
-takeout-total: 242
-takeout-percent: 81
-shots-total: 469
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 24
+   wins: 14
+   losses: 10
+   inturn-total: 264
+   inturn-percent: 80
+   outturn-total: 205
+   outturn-percent: 80
+   draw-total: 227
+   draw-percent: 79
+   takeout-total: 242
+   takeout-percent: 81
+   shots-total: 469
+   shots-percent: 80
 years:
  - year: 2002
    event: Brier

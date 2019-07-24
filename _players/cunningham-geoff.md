@@ -2,19 +2,21 @@
 title: Geoff Cunningham
 name: Geoff Cunningham
 name-sort: Cunningham, Geoff
-games: 47
-wins: 17
-losses: 30
-inturn-total: 396
-inturn-percent: 73
-outturn-total: 320
-outturn-percent: 66
-draw-total: 376
-draw-percent: 69
-takeout-total: 340
-takeout-percent: 71
-shots-total: 716
-shots-percent: 70
+totals:
+ - event: Brier
+   games: 47
+   wins: 17
+   losses: 30
+   inturn-total: 396
+   inturn-percent: 73
+   outturn-total: 320
+   outturn-percent: 66
+   draw-total: 376
+   draw-percent: 69
+   takeout-total: 340
+   takeout-percent: 71
+   shots-total: 716
+   shots-percent: 70
 years:
  - year: 1984
    event: Brier

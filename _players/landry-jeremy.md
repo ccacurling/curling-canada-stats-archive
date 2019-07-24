@@ -2,19 +2,21 @@
 title: Jeremy Landry
 name: Jeremy Landry
 name-sort: Landry, Jeremy
-games: 21
-wins: 5
-losses: 16
-inturn-total: 168
-inturn-percent: 80
-outturn-total: 203
-outturn-percent: 79
-draw-total: 319
-draw-percent: 81
-takeout-total: 52
-takeout-percent: 69
-shots-total: 371
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 21
+   wins: 5
+   losses: 16
+   inturn-total: 168
+   inturn-percent: 80
+   outturn-total: 203
+   outturn-percent: 79
+   draw-total: 319
+   draw-percent: 81
+   takeout-total: 52
+   takeout-percent: 69
+   shots-total: 371
+   shots-percent: 79
 years:
  - year: 2004
    event: Brier

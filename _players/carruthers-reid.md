@@ -2,19 +2,21 @@
 title: Reid Carruthers
 name: Reid Carruthers
 name-sort: Carruthers, Reid
-games: 73
-wins: 45
-losses: 28
-inturn-total: 657
-inturn-percent: 84
-outturn-total: 684
-outturn-percent: 85
-draw-total: 627
-draw-percent: 84
-takeout-total: 714
-takeout-percent: 84
-shots-total: 1341
-shots-percent: 84
+totals:
+ - event: Brier
+   games: 73
+   wins: 45
+   losses: 28
+   inturn-total: 657
+   inturn-percent: 84
+   outturn-total: 684
+   outturn-percent: 85
+   draw-total: 627
+   draw-percent: 84
+   takeout-total: 714
+   takeout-percent: 84
+   shots-total: 1341
+   shots-percent: 84
 years:
  - year: 2008
    event: Brier

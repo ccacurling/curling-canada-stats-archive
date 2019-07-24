@@ -2,19 +2,21 @@
 title: Robyn MacPhee
 name: Robyn MacPhee
 name-sort: MacPhee, Robyn
-games: 100
-wins: 46
-losses: 54
-inturn-total: 925
-inturn-percent: 78
-outturn-total: 973
-outturn-percent: 77
-draw-total: 817
-draw-percent: 74
-takeout-total: 1081
-takeout-percent: 81
-shots-total: 1898
-shots-percent: 78
+totals:
+ - event: Hearts
+   games: 100
+   wins: 46
+   losses: 54
+   inturn-total: 925
+   inturn-percent: 78
+   outturn-total: 973
+   outturn-percent: 77
+   draw-total: 817
+   draw-percent: 74
+   takeout-total: 1081
+   takeout-percent: 81
+   shots-total: 1898
+   shots-percent: 78
 years:
  - year: 2003
    event: Hearts

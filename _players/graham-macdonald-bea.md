@@ -2,19 +2,21 @@
 title: Bea Graham-MacDonald
 name: Bea Graham-MacDonald
 name-sort: Graham-MacDonald, Bea
-games: 33
-wins: 9
-losses: 24
-inturn-total: 298
-inturn-percent: 63
-outturn-total: 331
-outturn-percent: 75
-draw-total: 373
-draw-percent: 72
-takeout-total: 256
-takeout-percent: 66
-shots-total: 629
-shots-percent: 69
+totals:
+ - event: Hearts
+   games: 33
+   wins: 9
+   losses: 24
+   inturn-total: 298
+   inturn-percent: 63
+   outturn-total: 331
+   outturn-percent: 75
+   draw-total: 373
+   draw-percent: 72
+   takeout-total: 256
+   takeout-percent: 66
+   shots-total: 629
+   shots-percent: 69
 years:
  - year: 1989
    event: Hearts

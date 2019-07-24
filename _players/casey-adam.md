@@ -2,19 +2,21 @@
 title: Adam Casey
 name: Adam Casey
 name-sort: Casey, Adam
-games: 68
-wins: 31
-losses: 37
-inturn-total: 557
-inturn-percent: 81
-outturn-total: 724
-outturn-percent: 82
-draw-total: 525
-draw-percent: 81
-takeout-total: 756
-takeout-percent: 82
-shots-total: 1281
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 68
+   wins: 31
+   losses: 37
+   inturn-total: 557
+   inturn-percent: 81
+   outturn-total: 724
+   outturn-percent: 82
+   draw-total: 525
+   draw-percent: 81
+   takeout-total: 756
+   takeout-percent: 82
+   shots-total: 1281
+   shots-percent: 82
 years:
  - year: 2012
    event: Brier

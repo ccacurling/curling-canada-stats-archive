@@ -2,19 +2,21 @@
 title: Mary Harding
 name: Mary Harding
 name-sort: Harding, Mary
-games: 15
-wins: 10
-losses: 5
-inturn-total: 141
-inturn-percent: 66
-outturn-total: 148
-outturn-percent: 70
-draw-total: 167
-draw-percent: 70
-takeout-total: 122
-takeout-percent: 66
-shots-total: 289
-shots-percent: 68
+totals:
+ - event: Hearts
+   games: 15
+   wins: 10
+   losses: 5
+   inturn-total: 141
+   inturn-percent: 66
+   outturn-total: 148
+   outturn-percent: 70
+   draw-total: 167
+   draw-percent: 70
+   takeout-total: 122
+   takeout-percent: 66
+   shots-total: 289
+   shots-percent: 68
 years:
  - year: 1989
    event: Hearts

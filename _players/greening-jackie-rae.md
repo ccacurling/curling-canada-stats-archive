@@ -2,19 +2,21 @@
 title: Jackie-Rae Greening
 name: Jackie-Rae Greening
 name-sort: Greening, Jackie-Rae
-games: 34
-wins: 18
-losses: 16
-inturn-total: 264
-inturn-percent: 70
-outturn-total: 383
-outturn-percent: 80
-draw-total: 253
-draw-percent: 69
-takeout-total: 394
-takeout-percent: 80
-shots-total: 647
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 34
+   wins: 18
+   losses: 16
+   inturn-total: 264
+   inturn-percent: 70
+   outturn-total: 383
+   outturn-percent: 80
+   draw-total: 253
+   draw-percent: 69
+   takeout-total: 394
+   takeout-percent: 80
+   shots-total: 647
+   shots-percent: 76
 years:
  - year: 1990
    event: Hearts

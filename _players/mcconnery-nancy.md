@@ -2,19 +2,21 @@
 title: Nancy McConnery
 name: Nancy McConnery
 name-sort: McConnery, Nancy
-games: 55
-wins: 14
-losses: 41
-inturn-total: 518
-inturn-percent: 72
-outturn-total: 498
-outturn-percent: 69
-draw-total: 501
-draw-percent: 67
-takeout-total: 515
-takeout-percent: 74
-shots-total: 1016
-shots-percent: 71
+totals:
+ - event: Hearts
+   games: 55
+   wins: 14
+   losses: 41
+   inturn-total: 518
+   inturn-percent: 72
+   outturn-total: 498
+   outturn-percent: 69
+   draw-total: 501
+   draw-percent: 67
+   takeout-total: 515
+   takeout-percent: 74
+   shots-total: 1016
+   shots-percent: 71
 years:
  - year: 1993
    event: Hearts

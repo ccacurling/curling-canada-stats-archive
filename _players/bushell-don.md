@@ -2,9 +2,11 @@
 title: Don Bushell
 name: Don Bushell
 name-sort: Bushell, Don
-games: 14
-wins: 9
-losses: 5
+totals:
+ - event: Brier
+   games: 14
+   wins: 9
+   losses: 5
 years:
  - year: 1981
    event: Brier

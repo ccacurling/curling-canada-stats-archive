@@ -2,19 +2,21 @@
 title: Lori Olson-Johns
 name: Lori Olson-Johns
 name-sort: Olson-Johns, Lori
-games: 37
-wins: 22
-losses: 15
-inturn-total: 339
-inturn-percent: 80
-outturn-total: 350
-outturn-percent: 80
-draw-total: 265
-draw-percent: 78
-takeout-total: 424
-takeout-percent: 81
-shots-total: 689
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 37
+   wins: 22
+   losses: 15
+   inturn-total: 339
+   inturn-percent: 80
+   outturn-total: 350
+   outturn-percent: 80
+   draw-total: 265
+   draw-percent: 78
+   takeout-total: 424
+   takeout-percent: 81
+   shots-total: 689
+   shots-percent: 80
 years:
  - year: 2005
    event: Hearts

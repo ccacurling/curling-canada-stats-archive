@@ -2,19 +2,21 @@
 title: Jeff Thomas
 name: Jeff Thomas
 name-sort: Thomas, Jeff
-games: 33
-wins: 9
-losses: 24
-inturn-total: 215
-inturn-percent: 76
-outturn-total: 199
-outturn-percent: 69
-draw-total: 206
-draw-percent: 69
-takeout-total: 208
-takeout-percent: 76
-shots-total: 414
-shots-percent: 73
+totals:
+ - event: Brier
+   games: 33
+   wins: 9
+   losses: 24
+   inturn-total: 215
+   inturn-percent: 76
+   outturn-total: 199
+   outturn-percent: 69
+   draw-total: 206
+   draw-percent: 69
+   takeout-total: 208
+   takeout-percent: 76
+   shots-total: 414
+   shots-percent: 73
 years:
  - year: 1984
    event: Brier

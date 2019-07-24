@@ -2,19 +2,21 @@
 title: Kevin Koe
 name: Kevin Koe
 name-sort: Koe, Kevin
-games: 94
-wins: 72
-losses: 22
-inturn-total: 654
-inturn-percent: 82
-outturn-total: 1074
-outturn-percent: 86
-draw-total: 661
-draw-percent: 84
-takeout-total: 1067
-takeout-percent: 86
-shots-total: 1728
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 94
+   wins: 72
+   losses: 22
+   inturn-total: 654
+   inturn-percent: 82
+   outturn-total: 1074
+   outturn-percent: 86
+   draw-total: 661
+   draw-percent: 84
+   takeout-total: 1067
+   takeout-percent: 86
+   shots-total: 1728
+   shots-percent: 85
 years:
  - year: 2010
    event: Brier

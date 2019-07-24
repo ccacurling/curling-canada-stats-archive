@@ -2,19 +2,21 @@
 title: Jordan Pinder
 name: Jordan Pinder
 name-sort: Pinder, Jordan
-games: 40
-wins: 11
-losses: 29
-inturn-total: 331
-inturn-percent: 79
-outturn-total: 419
-outturn-percent: 80
-draw-total: 329
-draw-percent: 78
-takeout-total: 421
-takeout-percent: 80
-shots-total: 750
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 40
+   wins: 11
+   losses: 29
+   inturn-total: 331
+   inturn-percent: 79
+   outturn-total: 419
+   outturn-percent: 80
+   draw-total: 329
+   draw-percent: 78
+   takeout-total: 421
+   takeout-percent: 80
+   shots-total: 750
+   shots-percent: 79
 years:
  - year: 2012
    event: Brier

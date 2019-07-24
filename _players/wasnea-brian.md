@@ -2,19 +2,21 @@
 title: Brian Wasnea
 name: Brian Wasnea
 name-sort: Wasnea, Brian
-games: 22
-wins: 0
-losses: 22
-inturn-total: 206
-inturn-percent: 70
-outturn-total: 182
-outturn-percent: 73
-draw-total: 203
-draw-percent: 71
-takeout-total: 185
-takeout-percent: 72
-shots-total: 388
-shots-percent: 71
+totals:
+ - event: Brier
+   games: 22
+   wins: 0
+   losses: 22
+   inturn-total: 206
+   inturn-percent: 70
+   outturn-total: 182
+   outturn-percent: 73
+   draw-total: 203
+   draw-percent: 71
+   takeout-total: 185
+   takeout-percent: 72
+   shots-total: 388
+   shots-percent: 71
 years:
  - year: 1999
    event: Brier

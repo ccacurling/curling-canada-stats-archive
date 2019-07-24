@@ -2,19 +2,21 @@
 title: Scott Bailey
 name: Scott Bailey
 name-sort: Bailey, Scott
-games: 37
-wins: 27
-losses: 10
-inturn-total: 237
-inturn-percent: 82
-outturn-total: 391
-outturn-percent: 90
-draw-total: 528
-draw-percent: 87
-takeout-total: 100
-takeout-percent: 89
-shots-total: 628
-shots-percent: 87
+totals:
+ - event: Brier
+   games: 37
+   wins: 27
+   losses: 10
+   inturn-total: 237
+   inturn-percent: 82
+   outturn-total: 391
+   outturn-percent: 90
+   draw-total: 528
+   draw-percent: 87
+   takeout-total: 100
+   takeout-percent: 89
+   shots-total: 628
+   shots-percent: 87
 years:
  - year: 1998
    event: Brier

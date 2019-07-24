@@ -2,19 +2,21 @@
 title: Andrew Symonds
 name: Andrew Symonds
 name-sort: Symonds, Andrew
-games: 8
-wins: 1
-losses: 7
-inturn-total: 68
-inturn-percent: 72
-outturn-total: 54
-outturn-percent: 63
-draw-total: 61
-draw-percent: 66
-takeout-total: 61
-takeout-percent: 70
-shots-total: 122
-shots-percent: 68
+totals:
+ - event: Brier
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 68
+   inturn-percent: 72
+   outturn-total: 54
+   outturn-percent: 63
+   draw-total: 61
+   draw-percent: 66
+   takeout-total: 61
+   takeout-percent: 70
+   shots-total: 122
+   shots-percent: 68
 years:
  - year: 2011
    event: Brier

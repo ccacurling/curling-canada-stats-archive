@@ -2,19 +2,21 @@
 title: Ron Kammerlock
 name: Ron Kammerlock
 name-sort: Kammerlock, Ron
-games: 24
-wins: 17
-losses: 7
-inturn-total: 94
-inturn-percent: 84
-outturn-total: 109
-outturn-percent: 81
-draw-total: 111
-draw-percent: 80
-takeout-total: 92
-takeout-percent: 85
-shots-total: 203
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 24
+   wins: 17
+   losses: 7
+   inturn-total: 94
+   inturn-percent: 84
+   outturn-total: 109
+   outturn-percent: 81
+   draw-total: 111
+   draw-percent: 80
+   takeout-total: 92
+   takeout-percent: 85
+   shots-total: 203
+   shots-percent: 82
 years:
  - year: 1981
    event: Brier

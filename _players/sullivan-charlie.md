@@ -2,9 +2,11 @@
 title: Charlie Sullivan
 name: Charlie Sullivan
 name-sort: Sullivan, Charlie
-games: 24
-wins: 11
-losses: 13
+totals:
+ - event: Brier
+   games: 24
+   wins: 11
+   losses: 13
 years:
  - year: 1982
    event: Brier

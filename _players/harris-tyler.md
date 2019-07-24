@@ -2,19 +2,21 @@
 title: Tyler Harris
 name: Tyler Harris
 name-sort: Harris, Tyler
-games: 22
-wins: 5
-losses: 17
-inturn-total: 199
-inturn-percent: 72
-outturn-total: 215
-outturn-percent: 72
-draw-total: 222
-draw-percent: 75
-takeout-total: 192
-takeout-percent: 69
-shots-total: 414
-shots-percent: 72
+totals:
+ - event: Brier
+   games: 22
+   wins: 5
+   losses: 17
+   inturn-total: 199
+   inturn-percent: 72
+   outturn-total: 215
+   outturn-percent: 72
+   draw-total: 222
+   draw-percent: 75
+   takeout-total: 192
+   takeout-percent: 69
+   shots-total: 414
+   shots-percent: 72
 years:
  - year: 1994
    event: Brier

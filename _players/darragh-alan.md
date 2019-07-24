@@ -2,19 +2,21 @@
 title: Alan Darragh
 name: Alan Darragh
 name-sort: Darragh, Alan
-games: 32
-wins: 11
-losses: 21
-inturn-total: 174
-inturn-percent: 83
-outturn-total: 234
-outturn-percent: 79
-draw-total: 203
-draw-percent: 79
-takeout-total: 205
-takeout-percent: 83
-shots-total: 408
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 32
+   wins: 11
+   losses: 21
+   inturn-total: 174
+   inturn-percent: 83
+   outturn-total: 234
+   outturn-percent: 79
+   draw-total: 203
+   draw-percent: 79
+   takeout-total: 205
+   takeout-percent: 83
+   shots-total: 408
+   shots-percent: 81
 years:
  - year: 1981
    event: Brier

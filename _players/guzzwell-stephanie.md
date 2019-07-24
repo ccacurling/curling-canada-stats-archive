@@ -2,19 +2,21 @@
 title: Stephanie Guzzwell
 name: Stephanie Guzzwell
 name-sort: Guzzwell, Stephanie
-games: 18
-wins: 2
-losses: 16
-inturn-total: 179
-inturn-percent: 70
-outturn-total: 136
-outturn-percent: 70
-draw-total: 154
-draw-percent: 69
-takeout-total: 161
-takeout-percent: 72
-shots-total: 315
-shots-percent: 70
+totals:
+ - event: Hearts
+   games: 18
+   wins: 2
+   losses: 16
+   inturn-total: 179
+   inturn-percent: 70
+   outturn-total: 136
+   outturn-percent: 70
+   draw-total: 154
+   draw-percent: 69
+   takeout-total: 161
+   takeout-percent: 72
+   shots-total: 315
+   shots-percent: 70
 years:
  - year: 2011
    event: Hearts

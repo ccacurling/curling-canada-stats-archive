@@ -2,19 +2,21 @@
 title: Dan Lemery
 name: Dan Lemery
 name-sort: Lemery, Dan
-games: 44
-wins: 25
-losses: 19
-inturn-total: 342
-inturn-percent: 76
-outturn-total: 460
-outturn-percent: 79
-draw-total: 381
-draw-percent: 78
-takeout-total: 421
-takeout-percent: 77
-shots-total: 802
-shots-percent: 77
+totals:
+ - event: Brier
+   games: 44
+   wins: 25
+   losses: 19
+   inturn-total: 342
+   inturn-percent: 76
+   outturn-total: 460
+   outturn-percent: 79
+   draw-total: 381
+   draw-percent: 78
+   takeout-total: 421
+   takeout-percent: 77
+   shots-total: 802
+   shots-percent: 77
 years:
  - year: 1992
    event: Brier

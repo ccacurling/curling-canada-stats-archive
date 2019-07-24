@@ -2,19 +2,21 @@
 title: Kathie Allardyce
 name: Kathie Allardyce
 name-sort: Allardyce, Kathie
-games: 23
-wins: 13
-losses: 10
-inturn-total: 193
-inturn-percent: 66
-outturn-total: 224
-outturn-percent: 65
-draw-total: 196
-draw-percent: 61
-takeout-total: 221
-takeout-percent: 68
-shots-total: 417
-shots-percent: 65
+totals:
+ - event: Hearts
+   games: 23
+   wins: 13
+   losses: 10
+   inturn-total: 193
+   inturn-percent: 66
+   outturn-total: 224
+   outturn-percent: 65
+   draw-total: 196
+   draw-percent: 61
+   takeout-total: 221
+   takeout-percent: 68
+   shots-total: 417
+   shots-percent: 65
 years:
  - year: 1987
    event: Hearts

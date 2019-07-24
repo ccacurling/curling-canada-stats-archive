@@ -2,9 +2,11 @@
 title: Bob Ellert
 name: Bob Ellert
 name-sort: Ellert, Bob
-games: 14
-wins: 9
-losses: 5
+totals:
+ - event: Brier
+   games: 14
+   wins: 9
+   losses: 5
 years:
  - year: 1981
    event: Brier

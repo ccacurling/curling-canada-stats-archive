@@ -2,19 +2,21 @@
 title: Marcie Brown
 name: Marcie Brown
 name-sort: Brown, Marcie
-games: 12
-wins: 1
-losses: 11
-inturn-total: 124
-inturn-percent: 68
-outturn-total: 108
-outturn-percent: 69
-draw-total: 101
-draw-percent: 66
-takeout-total: 131
-takeout-percent: 70
-shots-total: 232
-shots-percent: 68
+totals:
+ - event: Hearts
+   games: 12
+   wins: 1
+   losses: 11
+   inturn-total: 124
+   inturn-percent: 68
+   outturn-total: 108
+   outturn-percent: 69
+   draw-total: 101
+   draw-percent: 66
+   takeout-total: 131
+   takeout-percent: 70
+   shots-total: 232
+   shots-percent: 68
 years:
  - year: 1990
    event: Hearts

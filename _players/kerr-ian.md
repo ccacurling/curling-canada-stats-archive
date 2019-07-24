@@ -2,19 +2,21 @@
 title: Ian Kerr
 name: Ian Kerr
 name-sort: Kerr, Ian
-games: 22
-wins: 9
-losses: 13
-inturn-total: 204
-inturn-percent: 82
-outturn-total: 178
-outturn-percent: 82
-draw-total: 288
-draw-percent: 85
-takeout-total: 94
-takeout-percent: 74
-shots-total: 382
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 22
+   wins: 9
+   losses: 13
+   inturn-total: 204
+   inturn-percent: 82
+   outturn-total: 178
+   outturn-percent: 82
+   draw-total: 288
+   draw-percent: 85
+   takeout-total: 94
+   takeout-percent: 74
+   shots-total: 382
+   shots-percent: 82
 years:
  - year: 1996
    event: Brier

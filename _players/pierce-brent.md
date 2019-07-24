@@ -2,19 +2,21 @@
 title: Brent Pierce
 name: Brent Pierce
 name-sort: Pierce, Brent
-games: 36
-wins: 24
-losses: 12
-inturn-total: 309
-inturn-percent: 82
-outturn-total: 353
-outturn-percent: 81
-draw-total: 262
-draw-percent: 79
-takeout-total: 400
-takeout-percent: 83
-shots-total: 662
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 36
+   wins: 24
+   losses: 12
+   inturn-total: 309
+   inturn-percent: 82
+   outturn-total: 353
+   outturn-percent: 81
+   draw-total: 262
+   draw-percent: 79
+   takeout-total: 400
+   takeout-percent: 83
+   shots-total: 662
+   shots-percent: 81
 years:
  - year: 1998
    event: Brier

@@ -2,19 +2,21 @@
 title: Meredith Harrison
 name: Meredith Harrison
 name-sort: Harrison, Meredith
-games: 31
-wins: 14
-losses: 17
-inturn-total: 274
-inturn-percent: 72
-outturn-total: 309
-outturn-percent: 75
-draw-total: 263
-draw-percent: 71
-takeout-total: 320
-takeout-percent: 75
-shots-total: 583
-shots-percent: 73
+totals:
+ - event: Hearts
+   games: 31
+   wins: 14
+   losses: 17
+   inturn-total: 274
+   inturn-percent: 72
+   outturn-total: 309
+   outturn-percent: 75
+   draw-total: 263
+   draw-percent: 71
+   takeout-total: 320
+   takeout-percent: 75
+   shots-total: 583
+   shots-percent: 73
 years:
  - year: 2002
    event: Hearts

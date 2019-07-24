@@ -2,19 +2,21 @@
 title: Brian Rafuse
 name: Brian Rafuse
 name-sort: Rafuse, Brian
-games: 22
-wins: 8
-losses: 14
-inturn-total: 94
-inturn-percent: 72
-outturn-total: 323
-outturn-percent: 79
-draw-total: 179
-draw-percent: 76
-takeout-total: 238
-takeout-percent: 79
-shots-total: 417
-shots-percent: 77
+totals:
+ - event: Brier
+   games: 22
+   wins: 8
+   losses: 14
+   inturn-total: 94
+   inturn-percent: 72
+   outturn-total: 323
+   outturn-percent: 79
+   draw-total: 179
+   draw-percent: 76
+   takeout-total: 238
+   takeout-percent: 79
+   shots-total: 417
+   shots-percent: 77
 years:
  - year: 1996
    event: Brier

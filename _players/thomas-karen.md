@@ -2,19 +2,21 @@
 title: Karen Thomas
 name: Karen Thomas
 name-sort: Thomas, Karen
-games: 22
-wins: 5
-losses: 17
-inturn-total: 265
-inturn-percent: 69
-outturn-total: 141
-outturn-percent: 69
-draw-total: 278
-draw-percent: 72
-takeout-total: 128
-takeout-percent: 61
-shots-total: 406
-shots-percent: 69
+totals:
+ - event: Hearts
+   games: 22
+   wins: 5
+   losses: 17
+   inturn-total: 265
+   inturn-percent: 69
+   outturn-total: 141
+   outturn-percent: 69
+   draw-total: 278
+   draw-percent: 72
+   takeout-total: 128
+   takeout-percent: 61
+   shots-total: 406
+   shots-percent: 69
 years:
  - year: 1989
    event: Hearts

@@ -2,19 +2,21 @@
 title: David Nedohin
 name: David Nedohin
 name-sort: Nedohin, David
-games: 65
-wins: 57
-losses: 8
-inturn-total: 554
-inturn-percent: 82
-outturn-total: 604
-outturn-percent: 84
-draw-total: 554
-draw-percent: 86
-takeout-total: 604
-takeout-percent: 81
-shots-total: 1158
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 65
+   wins: 57
+   losses: 8
+   inturn-total: 554
+   inturn-percent: 82
+   outturn-total: 604
+   outturn-percent: 84
+   draw-total: 554
+   draw-percent: 86
+   takeout-total: 604
+   takeout-percent: 81
+   shots-total: 1158
+   shots-percent: 83
 years:
  - year: 2001
    event: Brier

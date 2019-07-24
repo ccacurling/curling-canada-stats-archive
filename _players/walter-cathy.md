@@ -2,19 +2,21 @@
 title: Cathy Walter
 name: Cathy Walter
 name-sort: Walter, Cathy
-games: 34
-wins: 22
-losses: 12
-inturn-total: 296
-inturn-percent: 74
-outturn-total: 368
-outturn-percent: 76
-draw-total: 315
-draw-percent: 75
-takeout-total: 349
-takeout-percent: 75
-shots-total: 664
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 34
+   wins: 22
+   losses: 12
+   inturn-total: 296
+   inturn-percent: 74
+   outturn-total: 368
+   outturn-percent: 76
+   draw-total: 315
+   draw-percent: 75
+   takeout-total: 349
+   takeout-percent: 75
+   shots-total: 664
+   shots-percent: 75
 years:
  - year: 1983
    event: Hearts

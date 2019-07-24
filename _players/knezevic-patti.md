@@ -2,19 +2,21 @@
 title: Patti Knezevic
 name: Patti Knezevic
 name-sort: Knezevic, Patti
-games: 16
-wins: 5
-losses: 11
-inturn-total: 143
-inturn-percent: 72
-outturn-total: 142
-outturn-percent: 62
-draw-total: 117
-draw-percent: 61
-takeout-total: 168
-takeout-percent: 71
-shots-total: 285
-shots-percent: 67
+totals:
+ - event: Hearts
+   games: 16
+   wins: 5
+   losses: 11
+   inturn-total: 143
+   inturn-percent: 72
+   outturn-total: 142
+   outturn-percent: 62
+   draw-total: 117
+   draw-percent: 61
+   takeout-total: 168
+   takeout-percent: 71
+   shots-total: 285
+   shots-percent: 67
 years:
  - year: 2014
    event: Hearts

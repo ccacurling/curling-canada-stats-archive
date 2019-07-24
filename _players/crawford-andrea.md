@@ -2,19 +2,21 @@
 title: Andrea Crawford
 name: Andrea Crawford
 name-sort: Crawford, Andrea
-games: 84
-wins: 38
-losses: 46
-inturn-total: 847
-inturn-percent: 76
-outturn-total: 717
-outturn-percent: 73
-draw-total: 705
-draw-percent: 72
-takeout-total: 859
-takeout-percent: 77
-shots-total: 1564
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 84
+   wins: 38
+   losses: 46
+   inturn-total: 847
+   inturn-percent: 76
+   outturn-total: 717
+   outturn-percent: 73
+   draw-total: 705
+   draw-percent: 72
+   takeout-total: 859
+   takeout-percent: 77
+   shots-total: 1564
+   shots-percent: 74
 years:
  - year: 2006
    event: Hearts

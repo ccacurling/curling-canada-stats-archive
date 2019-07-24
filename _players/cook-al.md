@@ -2,9 +2,11 @@
 title: Al Cook
 name: Al Cook
 name-sort: Cook, Al
-games: 12
-wins: 8
-losses: 4
+totals:
+ - event: Brier
+   games: 12
+   wins: 8
+   losses: 4
 years:
  - year: 1983
    event: Brier

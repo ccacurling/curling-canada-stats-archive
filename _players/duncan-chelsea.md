@@ -2,19 +2,21 @@
 title: Chelsea Duncan
 name: Chelsea Duncan
 name-sort: Duncan, Chelsea
-games: 19
-wins: 3
-losses: 16
-inturn-total: 175
-inturn-percent: 71
-outturn-total: 159
-outturn-percent: 67
-draw-total: 178
-draw-percent: 69
-takeout-total: 156
-takeout-percent: 69
-shots-total: 334
-shots-percent: 69
+totals:
+ - event: Hearts
+   games: 19
+   wins: 3
+   losses: 16
+   inturn-total: 175
+   inturn-percent: 71
+   outturn-total: 159
+   outturn-percent: 67
+   draw-total: 178
+   draw-percent: 69
+   takeout-total: 156
+   takeout-percent: 69
+   shots-total: 334
+   shots-percent: 69
 years:
  - year: 2014
    event: Hearts

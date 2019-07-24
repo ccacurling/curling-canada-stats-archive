@@ -2,19 +2,21 @@
 title: Rob Thomas
 name: Rob Thomas
 name-sort: Thomas, Rob
-games: 35
-wins: 21
-losses: 14
-inturn-total: 327
-inturn-percent: 77
-outturn-total: 333
-outturn-percent: 75
-draw-total: 322
-draw-percent: 78
-takeout-total: 338
-takeout-percent: 75
-shots-total: 660
-shots-percent: 76
+totals:
+ - event: Brier
+   games: 35
+   wins: 21
+   losses: 14
+   inturn-total: 327
+   inturn-percent: 77
+   outturn-total: 333
+   outturn-percent: 75
+   draw-total: 322
+   draw-percent: 78
+   takeout-total: 338
+   takeout-percent: 75
+   shots-total: 660
+   shots-percent: 76
 years:
  - year: 1987
    event: Brier

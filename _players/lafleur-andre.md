@@ -2,19 +2,21 @@
 title: Andre Lafleur
 name: Andre Lafleur
 name-sort: Lafleur, Andre
-games: 22
-wins: 12
-losses: 10
-inturn-total: 191
-inturn-percent: 78
-outturn-total: 231
-outturn-percent: 80
-draw-total: 172
-draw-percent: 75
-takeout-total: 250
-takeout-percent: 82
-shots-total: 422
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 22
+   wins: 12
+   losses: 10
+   inturn-total: 191
+   inturn-percent: 78
+   outturn-total: 231
+   outturn-percent: 80
+   draw-total: 172
+   draw-percent: 75
+   takeout-total: 250
+   takeout-percent: 82
+   shots-total: 422
+   shots-percent: 79
 years:
  - year: 1989
    event: Brier

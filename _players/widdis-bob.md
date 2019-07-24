@@ -2,9 +2,11 @@
 title: Bob Widdis
 name: Bob Widdis
 name-sort: Widdis, Bob
-games: 12
-wins: 7
-losses: 5
+totals:
+ - event: Brier
+   games: 12
+   wins: 7
+   losses: 5
 years:
  - year: 1981
    event: Brier

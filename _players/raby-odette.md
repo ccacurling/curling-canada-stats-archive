@@ -2,19 +2,21 @@
 title: Odette Raby
 name: Odette Raby
 name-sort: Raby, Odette
-games: 20
-wins: 10
-losses: 10
-inturn-total: 162
-inturn-percent: 71
-outturn-total: 251
-outturn-percent: 67
-draw-total: 229
-draw-percent: 72
-takeout-total: 184
-takeout-percent: 63
-shots-total: 413
-shots-percent: 68
+totals:
+ - event: Hearts
+   games: 20
+   wins: 10
+   losses: 10
+   inturn-total: 162
+   inturn-percent: 71
+   outturn-total: 251
+   outturn-percent: 67
+   draw-total: 229
+   draw-percent: 72
+   takeout-total: 184
+   takeout-percent: 63
+   shots-total: 413
+   shots-percent: 68
 years:
  - year: 1983
    event: Hearts

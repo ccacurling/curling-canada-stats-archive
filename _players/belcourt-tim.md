@@ -2,19 +2,21 @@
 title: Tim Belcourt
 name: Tim Belcourt
 name-sort: Belcourt, Tim
-games: 37
-wins: 28
-losses: 9
-inturn-total: 353
-inturn-percent: 80
-outturn-total: 353
-outturn-percent: 81
-draw-total: 295
-draw-percent: 85
-takeout-total: 411
-takeout-percent: 78
-shots-total: 706
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 37
+   wins: 28
+   losses: 9
+   inturn-total: 353
+   inturn-percent: 80
+   outturn-total: 353
+   outturn-percent: 81
+   draw-total: 295
+   draw-percent: 85
+   takeout-total: 411
+   takeout-percent: 78
+   shots-total: 706
+   shots-percent: 81
 years:
  - year: 1986
    event: Brier

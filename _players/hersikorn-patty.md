@@ -2,19 +2,21 @@
 title: Patty Hersikorn
 name: Patty Hersikorn
 name-sort: Hersikorn, Patty
-games: 2
-wins: 2
-losses: 0
-inturn-total: 3
-inturn-percent: 67
-outturn-total: 1
-outturn-percent: 50
-draw-total: 1
-draw-percent: 50
-takeout-total: 3
-takeout-percent: 67
-shots-total: 4
-shots-percent: 63
+totals:
+ - event: Hearts
+   games: 2
+   wins: 2
+   losses: 0
+   inturn-total: 3
+   inturn-percent: 67
+   outturn-total: 1
+   outturn-percent: 50
+   draw-total: 1
+   draw-percent: 50
+   takeout-total: 3
+   takeout-percent: 67
+   shots-total: 4
+   shots-percent: 63
 years:
  - year: 2013
    event: Hearts

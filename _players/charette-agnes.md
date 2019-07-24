@@ -2,19 +2,21 @@
 title: Agnes Charette
 name: Agnes Charette
 name-sort: Charette, Agnes
-games: 65
-wins: 28
-losses: 37
-inturn-total: 586
-inturn-percent: 67
-outturn-total: 640
-outturn-percent: 70
-draw-total: 560
-draw-percent: 63
-takeout-total: 666
-takeout-percent: 73
-shots-total: 1226
-shots-percent: 68
+totals:
+ - event: Hearts
+   games: 65
+   wins: 28
+   losses: 37
+   inturn-total: 586
+   inturn-percent: 67
+   outturn-total: 640
+   outturn-percent: 70
+   draw-total: 560
+   draw-percent: 63
+   takeout-total: 666
+   takeout-percent: 73
+   shots-total: 1226
+   shots-percent: 68
 years:
  - year: 1983
    event: Hearts

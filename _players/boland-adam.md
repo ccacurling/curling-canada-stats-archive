@@ -2,19 +2,21 @@
 title: Adam Boland
 name: Adam Boland
 name-sort: Boland, Adam
-games: 7
-wins: 0
-losses: 7
-inturn-total: 85
-inturn-percent: 74
-outturn-total: 33
-outturn-percent: 67
-draw-total: 62
-draw-percent: 77
-takeout-total: 56
-takeout-percent: 67
-shots-total: 118
-shots-percent: 72
+totals:
+ - event: Brier
+   games: 7
+   wins: 0
+   losses: 7
+   inturn-total: 85
+   inturn-percent: 74
+   outturn-total: 33
+   outturn-percent: 67
+   draw-total: 62
+   draw-percent: 77
+   takeout-total: 56
+   takeout-percent: 67
+   shots-total: 118
+   shots-percent: 72
 years:
  - year: 2019
    event: Brier

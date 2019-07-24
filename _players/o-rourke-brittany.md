@@ -2,19 +2,21 @@
 title: Brittany O'Rourke
 name: Brittany O'Rourke
 name-sort: O'Rourke, Brittany
-games: 41
-wins: 15
-losses: 26
-inturn-total: 355
-inturn-percent: 78
-outturn-total: 401
-outturn-percent: 77
-draw-total: 420
-draw-percent: 76
-takeout-total: 336
-takeout-percent: 80
-shots-total: 756
-shots-percent: 78
+totals:
+ - event: Hearts
+   games: 41
+   wins: 15
+   losses: 26
+   inturn-total: 355
+   inturn-percent: 78
+   outturn-total: 401
+   outturn-percent: 77
+   draw-total: 420
+   draw-percent: 76
+   takeout-total: 336
+   takeout-percent: 80
+   shots-total: 756
+   shots-percent: 78
 years:
  - year: 2013
    event: Hearts

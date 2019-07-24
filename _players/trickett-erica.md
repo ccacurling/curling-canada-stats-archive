@@ -2,19 +2,21 @@
 title: Erica Trickett
 name: Erica Trickett
 name-sort: Trickett, Erica
-games: 20
-wins: 9
-losses: 11
-inturn-total: 175
-inturn-percent: 81
-outturn-total: 201
-outturn-percent: 79
-draw-total: 306
-draw-percent: 82
-takeout-total: 70
-takeout-percent: 72
-shots-total: 376
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 20
+   wins: 9
+   losses: 11
+   inturn-total: 175
+   inturn-percent: 81
+   outturn-total: 201
+   outturn-percent: 79
+   draw-total: 306
+   draw-percent: 82
+   takeout-total: 70
+   takeout-percent: 72
+   shots-total: 376
+   shots-percent: 80
 years:
  - year: 2017
    event: Hearts

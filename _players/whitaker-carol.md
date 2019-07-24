@@ -2,19 +2,21 @@
 title: Carol Whitaker
 name: Carol Whitaker
 name-sort: Whitaker, Carol
-games: 26
-wins: 10
-losses: 16
-inturn-total: 240
-inturn-percent: 76
-outturn-total: 212
-outturn-percent: 75
-draw-total: 206
-draw-percent: 70
-takeout-total: 246
-takeout-percent: 81
-shots-total: 452
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 26
+   wins: 10
+   losses: 16
+   inturn-total: 240
+   inturn-percent: 76
+   outturn-total: 212
+   outturn-percent: 75
+   draw-total: 206
+   draw-percent: 70
+   takeout-total: 246
+   takeout-percent: 81
+   shots-total: 452
+   shots-percent: 76
 years:
  - year: 2007
    event: Hearts

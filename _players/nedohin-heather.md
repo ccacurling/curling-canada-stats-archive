@@ -2,19 +2,21 @@
 title: Heather Nedohin
 name: Heather Nedohin
 name-sort: Nedohin, Heather
-games: 87
-wins: 56
-losses: 31
-inturn-total: 784
-inturn-percent: 79
-outturn-total: 846
-outturn-percent: 80
-draw-total: 661
-draw-percent: 75
-takeout-total: 969
-takeout-percent: 83
-shots-total: 1630
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 87
+   wins: 56
+   losses: 31
+   inturn-total: 784
+   inturn-percent: 79
+   outturn-total: 846
+   outturn-percent: 80
+   draw-total: 661
+   draw-percent: 75
+   takeout-total: 969
+   takeout-percent: 83
+   shots-total: 1630
+   shots-percent: 79
 years:
  - year: 1997
    event: Hearts

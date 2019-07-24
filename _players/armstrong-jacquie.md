@@ -2,19 +2,21 @@
 title: Jacquie Armstrong
 name: Jacquie Armstrong
 name-sort: Armstrong, Jacquie
-games: 37
-wins: 23
-losses: 14
-inturn-total: 362
-inturn-percent: 83
-outturn-total: 347
-outturn-percent: 81
-draw-total: 587
-draw-percent: 83
-takeout-total: 122
-takeout-percent: 77
-shots-total: 709
-shots-percent: 82
+totals:
+ - event: Hearts
+   games: 37
+   wins: 23
+   losses: 14
+   inturn-total: 362
+   inturn-percent: 83
+   outturn-total: 347
+   outturn-percent: 81
+   draw-total: 587
+   draw-percent: 83
+   takeout-total: 122
+   takeout-percent: 77
+   shots-total: 709
+   shots-percent: 82
 years:
  - year: 2003
    event: Hearts

@@ -2,19 +2,21 @@
 title: Andrew Gibson
 name: Andrew Gibson
 name-sort: Gibson, Andrew
-games: 62
-wins: 36
-losses: 26
-inturn-total: 717
-inturn-percent: 84
-outturn-total: 411
-outturn-percent: 80
-draw-total: 827
-draw-percent: 84
-takeout-total: 301
-takeout-percent: 79
-shots-total: 1128
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 62
+   wins: 36
+   losses: 26
+   inturn-total: 717
+   inturn-percent: 84
+   outturn-total: 411
+   outturn-percent: 80
+   draw-total: 827
+   draw-percent: 84
+   takeout-total: 301
+   takeout-percent: 79
+   shots-total: 1128
+   shots-percent: 83
 years:
  - year: 2003
    event: Brier

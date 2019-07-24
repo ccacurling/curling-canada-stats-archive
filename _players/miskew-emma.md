@@ -2,19 +2,21 @@
 title: Emma Miskew
 name: Emma Miskew
 name-sort: Miskew, Emma
-games: 81
-wins: 64
-losses: 17
-inturn-total: 844
-inturn-percent: 83
-outturn-total: 683
-outturn-percent: 82
-draw-total: 530
-draw-percent: 78
-takeout-total: 997
-takeout-percent: 85
-shots-total: 1527
-shots-percent: 82
+totals:
+ - event: Hearts
+   games: 81
+   wins: 64
+   losses: 17
+   inturn-total: 844
+   inturn-percent: 83
+   outturn-total: 683
+   outturn-percent: 82
+   draw-total: 530
+   draw-percent: 78
+   takeout-total: 997
+   takeout-percent: 85
+   shots-total: 1527
+   shots-percent: 82
 years:
  - year: 2011
    event: Hearts

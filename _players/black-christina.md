@@ -2,19 +2,21 @@
 title: Christina Black
 name: Christina Black
 name-sort: Black, Christina
-games: 24
-wins: 15
-losses: 9
-inturn-total: 241
-inturn-percent: 79
-outturn-total: 220
-outturn-percent: 77
-draw-total: 174
-draw-percent: 75
-takeout-total: 287
-takeout-percent: 80
-shots-total: 461
-shots-percent: 78
+totals:
+ - event: Hearts
+   games: 24
+   wins: 15
+   losses: 9
+   inturn-total: 241
+   inturn-percent: 79
+   outturn-total: 220
+   outturn-percent: 77
+   draw-total: 174
+   draw-percent: 75
+   takeout-total: 287
+   takeout-percent: 80
+   shots-total: 461
+   shots-percent: 78
 years:
  - year: 2015
    event: Hearts

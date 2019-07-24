@@ -2,19 +2,21 @@
 title: Richard Robertson
 name: Richard Robertson
 name-sort: Robertson, Richard
-games: 41
-wins: 6
-losses: 35
-inturn-total: 445
-inturn-percent: 72
-outturn-total: 336
-outturn-percent: 71
-draw-total: 379
-draw-percent: 74
-takeout-total: 402
-takeout-percent: 71
-shots-total: 781
-shots-percent: 72
+totals:
+ - event: Brier
+   games: 41
+   wins: 6
+   losses: 35
+   inturn-total: 445
+   inturn-percent: 72
+   outturn-total: 336
+   outturn-percent: 71
+   draw-total: 379
+   draw-percent: 74
+   takeout-total: 402
+   takeout-percent: 71
+   shots-total: 781
+   shots-percent: 72
 years:
  - year: 1988
    event: Brier

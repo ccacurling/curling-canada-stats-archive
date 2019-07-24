@@ -2,19 +2,21 @@
 title: Valerie Sweeting
 name: Valerie Sweeting
 name-sort: Sweeting, Valerie
-games: 39
-wins: 24
-losses: 15
-inturn-total: 374
-inturn-percent: 77
-outturn-total: 349
-outturn-percent: 81
-draw-total: 323
-draw-percent: 75
-takeout-total: 400
-takeout-percent: 82
-shots-total: 723
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 39
+   wins: 24
+   losses: 15
+   inturn-total: 374
+   inturn-percent: 77
+   outturn-total: 349
+   outturn-percent: 81
+   draw-total: 323
+   draw-percent: 75
+   takeout-total: 400
+   takeout-percent: 82
+   shots-total: 723
+   shots-percent: 79
 years:
  - year: 2010
    event: Hearts

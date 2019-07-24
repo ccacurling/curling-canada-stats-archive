@@ -2,19 +2,21 @@
 title: Dale Twa
 name: Dale Twa
 name-sort: Twa, Dale
-games: 21
-wins: 14
-losses: 7
-inturn-total: 244
-inturn-percent: 70
-outturn-total: 151
-outturn-percent: 63
-draw-total: 232
-draw-percent: 69
-takeout-total: 163
-takeout-percent: 64
-shots-total: 395
-shots-percent: 67
+totals:
+ - event: Hearts
+   games: 21
+   wins: 14
+   losses: 7
+   inturn-total: 244
+   inturn-percent: 70
+   outturn-total: 151
+   outturn-percent: 63
+   draw-total: 232
+   draw-percent: 69
+   takeout-total: 163
+   takeout-percent: 64
+   shots-total: 395
+   shots-percent: 67
 years:
  - year: 1983
    event: Hearts

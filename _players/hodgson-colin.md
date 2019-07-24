@@ -2,19 +2,21 @@
 title: Colin Hodgson
 name: Colin Hodgson
 name-sort: Hodgson, Colin
-games: 33
-wins: 15
-losses: 18
-inturn-total: 249
-inturn-percent: 90
-outturn-total: 359
-outturn-percent: 93
-draw-total: 548
-draw-percent: 93
-takeout-total: 60
-takeout-percent: 85
-shots-total: 608
-shots-percent: 92
+totals:
+ - event: Brier
+   games: 33
+   wins: 15
+   losses: 18
+   inturn-total: 249
+   inturn-percent: 90
+   outturn-total: 359
+   outturn-percent: 93
+   draw-total: 548
+   draw-percent: 93
+   takeout-total: 60
+   takeout-percent: 85
+   shots-total: 608
+   shots-percent: 92
 years:
  - year: 2015
    event: Brier

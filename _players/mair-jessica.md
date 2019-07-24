@@ -2,19 +2,21 @@
 title: Jessica Mair
 name: Jessica Mair
 name-sort: Mair, Jessica
-games: 28
-wins: 18
-losses: 10
-inturn-total: 243
-inturn-percent: 82
-outturn-total: 297
-outturn-percent: 84
-draw-total: 156
-draw-percent: 80
-takeout-total: 384
-takeout-percent: 85
-shots-total: 540
-shots-percent: 83
+totals:
+ - event: Hearts
+   games: 28
+   wins: 18
+   losses: 10
+   inturn-total: 243
+   inturn-percent: 82
+   outturn-total: 297
+   outturn-percent: 84
+   draw-total: 156
+   draw-percent: 80
+   takeout-total: 384
+   takeout-percent: 85
+   shots-total: 540
+   shots-percent: 83
 years:
  - year: 2012
    event: Hearts

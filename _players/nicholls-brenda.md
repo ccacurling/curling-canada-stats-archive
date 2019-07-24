@@ -2,19 +2,21 @@
 title: Brenda Nicholls
 name: Brenda Nicholls
 name-sort: Nicholls, Brenda
-games: 57
-wins: 25
-losses: 32
-inturn-total: 524
-inturn-percent: 77
-outturn-total: 561
-outturn-percent: 76
-draw-total: 493
-draw-percent: 75
-takeout-total: 592
-takeout-percent: 78
-shots-total: 1085
-shots-percent: 77
+totals:
+ - event: Hearts
+   games: 57
+   wins: 25
+   losses: 32
+   inturn-total: 524
+   inturn-percent: 77
+   outturn-total: 561
+   outturn-percent: 76
+   draw-total: 493
+   draw-percent: 75
+   takeout-total: 592
+   takeout-percent: 78
+   shots-total: 1085
+   shots-percent: 77
 years:
  - year: 1996
    event: Hearts

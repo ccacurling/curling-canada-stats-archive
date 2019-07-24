@@ -2,19 +2,21 @@
 title: Roger Nason
 name: Roger Nason
 name-sort: Nason, Roger
-games: 2
-wins: 0
-losses: 2
-inturn-total: 27
-inturn-percent: 69
-outturn-total: 7
-outturn-percent: 93
-draw-total: 21
-draw-percent: 83
-takeout-total: 13
-takeout-percent: 60
-shots-total: 34
-shots-percent: 74
+totals:
+ - event: Brier
+   games: 2
+   wins: 0
+   losses: 2
+   inturn-total: 27
+   inturn-percent: 69
+   outturn-total: 7
+   outturn-percent: 93
+   draw-total: 21
+   draw-percent: 83
+   takeout-total: 13
+   takeout-percent: 60
+   shots-total: 34
+   shots-percent: 74
 years:
  - year: 1996
    event: Brier

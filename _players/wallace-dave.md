@@ -2,19 +2,21 @@
 title: Dave Wallace
 name: Dave Wallace
 name-sort: Wallace, Dave
-games: 44
-wins: 22
-losses: 22
-inturn-total: 247
-inturn-percent: 85
-outturn-total: 383
-outturn-percent: 81
-draw-total: 339
-draw-percent: 85
-takeout-total: 291
-takeout-percent: 80
-shots-total: 630
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 44
+   wins: 22
+   losses: 22
+   inturn-total: 247
+   inturn-percent: 85
+   outturn-total: 383
+   outturn-percent: 81
+   draw-total: 339
+   draw-percent: 85
+   takeout-total: 291
+   takeout-percent: 80
+   shots-total: 630
+   shots-percent: 83
 years:
  - year: 1982
    event: Brier

@@ -2,19 +2,21 @@
 title: Glenn Goss
 name: Glenn Goss
 name-sort: Goss, Glenn
-games: 34
-wins: 15
-losses: 19
-inturn-total: 325
-inturn-percent: 76
-outturn-total: 305
-outturn-percent: 75
-draw-total: 324
-draw-percent: 75
-takeout-total: 306
-takeout-percent: 76
-shots-total: 630
-shots-percent: 76
+totals:
+ - event: Brier
+   games: 34
+   wins: 15
+   losses: 19
+   inturn-total: 325
+   inturn-percent: 76
+   outturn-total: 305
+   outturn-percent: 75
+   draw-total: 324
+   draw-percent: 75
+   takeout-total: 306
+   takeout-percent: 76
+   shots-total: 630
+   shots-percent: 76
 years:
  - year: 1990
    event: Brier

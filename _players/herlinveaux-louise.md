@@ -2,19 +2,21 @@
 title: Louise Herlinveaux
 name: Louise Herlinveaux
 name-sort: Herlinveaux, Louise
-games: 25
-wins: 19
-losses: 6
-inturn-total: 206
-inturn-percent: 75
-outturn-total: 255
-outturn-percent: 76
-draw-total: 197
-draw-percent: 78
-takeout-total: 264
-takeout-percent: 74
-shots-total: 461
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 25
+   wins: 19
+   losses: 6
+   inturn-total: 206
+   inturn-percent: 75
+   outturn-total: 255
+   outturn-percent: 76
+   draw-total: 197
+   draw-percent: 78
+   takeout-total: 264
+   takeout-percent: 74
+   shots-total: 461
+   shots-percent: 76
 years:
  - year: 1987
    event: Hearts

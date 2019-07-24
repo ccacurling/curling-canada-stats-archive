@@ -2,19 +2,21 @@
 title: Janice MacCallum
 name: Janice MacCallum
 name-sort: MacCallum, Janice
-games: 65
-wins: 26
-losses: 39
-inturn-total: 663
-inturn-percent: 75
-outturn-total: 554
-outturn-percent: 77
-draw-total: 580
-draw-percent: 74
-takeout-total: 637
-takeout-percent: 77
-shots-total: 1217
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 65
+   wins: 26
+   losses: 39
+   inturn-total: 663
+   inturn-percent: 75
+   outturn-total: 554
+   outturn-percent: 77
+   draw-total: 580
+   draw-percent: 74
+   takeout-total: 637
+   takeout-percent: 77
+   shots-total: 1217
+   shots-percent: 76
 years:
  - year: 1990
    event: Hearts

@@ -2,9 +2,11 @@
 title: Denis Cecil
 name: Denis Cecil
 name-sort: Cecil, Denis
-games: 11
-wins: 6
-losses: 5
+totals:
+ - event: Brier
+   games: 11
+   wins: 6
+   losses: 5
 years:
  - year: 1983
    event: Brier

@@ -2,19 +2,21 @@
 title: Lori McGeary
 name: Lori McGeary
 name-sort: McGeary, Lori
-games: 22
-wins: 14
-losses: 8
-inturn-total: 172
-inturn-percent: 72
-outturn-total: 229
-outturn-percent: 72
-draw-total: 181
-draw-percent: 66
-takeout-total: 220
-takeout-percent: 77
-shots-total: 401
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 22
+   wins: 14
+   losses: 8
+   inturn-total: 172
+   inturn-percent: 72
+   outturn-total: 229
+   outturn-percent: 72
+   draw-total: 181
+   draw-percent: 66
+   takeout-total: 220
+   takeout-percent: 77
+   shots-total: 401
+   shots-percent: 72
 years:
  - year: 1984
    event: Hearts

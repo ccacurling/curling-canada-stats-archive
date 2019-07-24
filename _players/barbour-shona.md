@@ -2,19 +2,21 @@
 title: Shona Barbour
 name: Shona Barbour
 name-sort: Barbour, Shona
-games: 47
-wins: 14
-losses: 33
-inturn-total: 529
-inturn-percent: 81
-outturn-total: 358
-outturn-percent: 74
-draw-total: 637
-draw-percent: 80
-takeout-total: 250
-takeout-percent: 74
-shots-total: 887
-shots-percent: 78
+totals:
+ - event: Hearts
+   games: 47
+   wins: 14
+   losses: 33
+   inturn-total: 529
+   inturn-percent: 81
+   outturn-total: 358
+   outturn-percent: 74
+   draw-total: 637
+   draw-percent: 80
+   takeout-total: 250
+   takeout-percent: 74
+   shots-total: 887
+   shots-percent: 78
 years:
  - year: 2005
    event: Hearts

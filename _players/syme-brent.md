@@ -2,19 +2,21 @@
 title: Brent Syme
 name: Brent Syme
 name-sort: Syme, Brent
-games: 36
-wins: 28
-losses: 8
-inturn-total: 110
-inturn-percent: 84
-outturn-total: 116
-outturn-percent: 86
-draw-total: 153
-draw-percent: 87
-takeout-total: 73
-takeout-percent: 80
-shots-total: 226
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 36
+   wins: 28
+   losses: 8
+   inturn-total: 110
+   inturn-percent: 84
+   outturn-total: 116
+   outturn-percent: 86
+   draw-total: 153
+   draw-percent: 87
+   takeout-total: 73
+   takeout-percent: 80
+   shots-total: 226
+   shots-percent: 85
 years:
  - year: 1983
    event: Brier

@@ -2,19 +2,21 @@
 title: Jeff Sharp
 name: Jeff Sharp
 name-sort: Sharp, Jeff
-games: 46
-wins: 27
-losses: 19
-inturn-total: 395
-inturn-percent: 79
-outturn-total: 473
-outturn-percent: 83
-draw-total: 367
-draw-percent: 80
-takeout-total: 501
-takeout-percent: 82
-shots-total: 868
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 46
+   wins: 27
+   losses: 19
+   inturn-total: 395
+   inturn-percent: 79
+   outturn-total: 473
+   outturn-percent: 83
+   draw-total: 367
+   draw-percent: 80
+   takeout-total: 501
+   takeout-percent: 82
+   shots-total: 868
+   shots-percent: 81
 years:
  - year: 2005
    event: Brier

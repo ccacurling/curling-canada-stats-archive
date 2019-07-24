@@ -2,19 +2,21 @@
 title: Steve Piggott
 name: Steve Piggott
 name-sort: Piggott, Steve
-games: 22
-wins: 5
-losses: 17
-inturn-total: 184
-inturn-percent: 81
-outturn-total: 239
-outturn-percent: 79
-draw-total: 296
-draw-percent: 84
-takeout-total: 127
-takeout-percent: 70
-shots-total: 423
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 22
+   wins: 5
+   losses: 17
+   inturn-total: 184
+   inturn-percent: 81
+   outturn-total: 239
+   outturn-percent: 79
+   draw-total: 296
+   draw-percent: 84
+   takeout-total: 127
+   takeout-percent: 70
+   shots-total: 423
+   shots-percent: 80
 years:
  - year: 1993
    event: Brier

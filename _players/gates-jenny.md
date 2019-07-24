@@ -2,19 +2,21 @@
 title: Jenny Gates
 name: Jenny Gates
 name-sort: Gates, Jenny
-games: 13
-wins: 9
-losses: 4
-inturn-total: 121
-inturn-percent: 81
-outturn-total: 112
-outturn-percent: 82
-draw-total: 121
-draw-percent: 82
-takeout-total: 112
-takeout-percent: 81
-shots-total: 233
-shots-percent: 82
+totals:
+ - event: Hearts
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 121
+   inturn-percent: 81
+   outturn-total: 112
+   outturn-percent: 82
+   draw-total: 121
+   draw-percent: 82
+   takeout-total: 112
+   takeout-percent: 81
+   shots-total: 233
+   shots-percent: 82
 years:
  - year: 2012
    event: Hearts

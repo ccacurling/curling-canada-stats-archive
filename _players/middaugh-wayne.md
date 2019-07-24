@@ -2,19 +2,21 @@
 title: Wayne Middaugh
 name: Wayne Middaugh
 name-sort: Middaugh, Wayne
-games: 115
-wins: 85
-losses: 30
-inturn-total: 989
-inturn-percent: 86
-outturn-total: 1144
-outturn-percent: 86
-draw-total: 767
-draw-percent: 83
-takeout-total: 1366
-takeout-percent: 87
-shots-total: 2133
-shots-percent: 86
+totals:
+ - event: Brier
+   games: 115
+   wins: 85
+   losses: 30
+   inturn-total: 989
+   inturn-percent: 86
+   outturn-total: 1144
+   outturn-percent: 86
+   draw-total: 767
+   draw-percent: 83
+   takeout-total: 1366
+   takeout-percent: 87
+   shots-total: 2133
+   shots-percent: 86
 years:
  - year: 1991
    event: Brier

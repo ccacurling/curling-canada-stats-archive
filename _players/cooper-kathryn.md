@@ -2,19 +2,21 @@
 title: Kathryn Cooper
 name: Kathryn Cooper
 name-sort: Cooper, Kathryn
-games: 22
-wins: 8
-losses: 14
-inturn-total: 314
-inturn-percent: 81
-outturn-total: 104
-outturn-percent: 73
-draw-total: 328
-draw-percent: 81
-takeout-total: 90
-takeout-percent: 71
-shots-total: 418
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 22
+   wins: 8
+   losses: 14
+   inturn-total: 314
+   inturn-percent: 81
+   outturn-total: 104
+   outturn-percent: 73
+   draw-total: 328
+   draw-percent: 81
+   takeout-total: 90
+   takeout-percent: 71
+   shots-total: 418
+   shots-percent: 79
 years:
  - year: 2014
    event: Hearts

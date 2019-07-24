@@ -2,19 +2,21 @@
 title: Kevin Folk
 name: Kevin Folk
 name-sort: Folk, Kevin
-games: 35
-wins: 16
-losses: 19
-inturn-total: 330
-inturn-percent: 84
-outturn-total: 342
-outturn-percent: 80
-draw-total: 290
-draw-percent: 78
-takeout-total: 382
-takeout-percent: 85
-shots-total: 672
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 35
+   wins: 16
+   losses: 19
+   inturn-total: 330
+   inturn-percent: 84
+   outturn-total: 342
+   outturn-percent: 80
+   draw-total: 290
+   draw-percent: 78
+   takeout-total: 382
+   takeout-percent: 85
+   shots-total: 672
+   shots-percent: 82
 years:
  - year: 2008
    event: Brier

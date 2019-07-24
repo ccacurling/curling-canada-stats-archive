@@ -2,19 +2,21 @@
 title: Jen Rusnell
 name: Jen Rusnell
 name-sort: Rusnell, Jen
-games: 23
-wins: 7
-losses: 16
-inturn-total: 171
-inturn-percent: 80
-outturn-total: 265
-outturn-percent: 81
-draw-total: 295
-draw-percent: 82
-takeout-total: 141
-takeout-percent: 78
-shots-total: 436
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 23
+   wins: 7
+   losses: 16
+   inturn-total: 171
+   inturn-percent: 80
+   outturn-total: 265
+   outturn-percent: 81
+   draw-total: 295
+   draw-percent: 82
+   takeout-total: 141
+   takeout-percent: 78
+   shots-total: 436
+   shots-percent: 80
 years:
  - year: 2015
    event: Hearts

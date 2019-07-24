@@ -2,9 +2,11 @@
 title: Merv Watchorn
 name: Merv Watchorn
 name-sort: Watchorn, Merv
-games: 11
-wins: 5
-losses: 6
+totals:
+ - event: Brier
+   games: 11
+   wins: 5
+   losses: 6
 years:
  - year: 1981
    event: Brier

@@ -2,19 +2,21 @@
 title: Ben Hebert
 name: Ben Hebert
 name-sort: Hebert, Ben
-games: 134
-wins: 99
-losses: 35
-inturn-total: 620
-inturn-percent: 87
-outturn-total: 1789
-outturn-percent: 91
-draw-total: 2099
-draw-percent: 92
-takeout-total: 310
-takeout-percent: 78
-shots-total: 2409
-shots-percent: 90
+totals:
+ - event: Brier
+   games: 134
+   wins: 99
+   losses: 35
+   inturn-total: 620
+   inturn-percent: 87
+   outturn-total: 1789
+   outturn-percent: 91
+   draw-total: 2099
+   draw-percent: 92
+   takeout-total: 310
+   takeout-percent: 78
+   shots-total: 2409
+   shots-percent: 90
 years:
  - year: 2005
    event: Brier

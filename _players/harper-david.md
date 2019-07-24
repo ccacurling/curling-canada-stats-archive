@@ -2,19 +2,21 @@
 title: David Harper
 name: David Harper
 name-sort: Harper, David
-games: 3
-wins: 2
-losses: 1
-inturn-total: 17
-inturn-percent: 76
-outturn-total: 13
-outturn-percent: 85
-draw-total: 23
-draw-percent: 74
-takeout-total: 7
-takeout-percent: 100
-shots-total: 30
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 3
+   wins: 2
+   losses: 1
+   inturn-total: 17
+   inturn-percent: 76
+   outturn-total: 13
+   outturn-percent: 85
+   draw-total: 23
+   draw-percent: 74
+   takeout-total: 7
+   takeout-percent: 100
+   shots-total: 30
+   shots-percent: 80
 years:
  - year: 2017
    event: Brier

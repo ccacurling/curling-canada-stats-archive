@@ -2,19 +2,21 @@
 title: Barb Sherrington
 name: Barb Sherrington
 name-sort: Sherrington, Barb
-games: 24
-wins: 12
-losses: 12
-inturn-total: 177
-inturn-percent: 71
-outturn-total: 271
-outturn-percent: 78
-draw-total: 204
-draw-percent: 74
-takeout-total: 244
-takeout-percent: 76
-shots-total: 448
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 24
+   wins: 12
+   losses: 12
+   inturn-total: 177
+   inturn-percent: 71
+   outturn-total: 271
+   outturn-percent: 78
+   draw-total: 204
+   draw-percent: 74
+   takeout-total: 244
+   takeout-percent: 76
+   shots-total: 448
+   shots-percent: 75
 years:
  - year: 1992
    event: Hearts

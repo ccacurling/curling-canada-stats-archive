@@ -2,19 +2,21 @@
 title: Cori Morris
 name: Cori Morris
 name-sort: Morris, Cori
-games: 26
-wins: 15
-losses: 11
-inturn-total: 242
-inturn-percent: 82
-outturn-total: 200
-outturn-percent: 83
-draw-total: 373
-draw-percent: 84
-takeout-total: 69
-takeout-percent: 76
-shots-total: 442
-shots-percent: 82
+totals:
+ - event: Hearts
+   games: 26
+   wins: 15
+   losses: 11
+   inturn-total: 242
+   inturn-percent: 82
+   outturn-total: 200
+   outturn-percent: 83
+   draw-total: 373
+   draw-percent: 84
+   takeout-total: 69
+   takeout-percent: 76
+   shots-total: 442
+   shots-percent: 82
 years:
  - year: 2007
    event: Hearts

@@ -2,19 +2,21 @@
 title: Brad Gushue
 name: Brad Gushue
 name-sort: Gushue, Brad
-games: 197
-wins: 132
-losses: 65
-inturn-total: 1464
-inturn-percent: 85
-outturn-total: 2208
-outturn-percent: 84
-draw-total: 1626
-draw-percent: 84
-takeout-total: 2046
-takeout-percent: 85
-shots-total: 3672
-shots-percent: 85
+totals:
+ - event: Brier
+   games: 197
+   wins: 132
+   losses: 65
+   inturn-total: 1464
+   inturn-percent: 85
+   outturn-total: 2208
+   outturn-percent: 84
+   draw-total: 1626
+   draw-percent: 84
+   takeout-total: 2046
+   takeout-percent: 85
+   shots-total: 3672
+   shots-percent: 85
 years:
  - year: 2003
    event: Brier

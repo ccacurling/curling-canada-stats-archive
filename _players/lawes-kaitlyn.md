@@ -2,19 +2,21 @@
 title: Kaitlyn Lawes
 name: Kaitlyn Lawes
 name-sort: Lawes, Kaitlyn
-games: 79
-wins: 59
-losses: 20
-inturn-total: 749
-inturn-percent: 82
-outturn-total: 743
-outturn-percent: 83
-draw-total: 544
-draw-percent: 81
-takeout-total: 948
-takeout-percent: 83
-shots-total: 1492
-shots-percent: 83
+totals:
+ - event: Hearts
+   games: 79
+   wins: 59
+   losses: 20
+   inturn-total: 749
+   inturn-percent: 82
+   outturn-total: 743
+   outturn-percent: 83
+   draw-total: 544
+   draw-percent: 81
+   takeout-total: 948
+   takeout-percent: 83
+   shots-total: 1492
+   shots-percent: 83
 years:
  - year: 2011
    event: Hearts

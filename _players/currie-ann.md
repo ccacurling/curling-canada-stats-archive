@@ -2,19 +2,21 @@
 title: Ann Currie
 name: Ann Currie
 name-sort: Currie, Ann
-games: 21
-wins: 4
-losses: 17
-inturn-total: 178
-inturn-percent: 59
-outturn-total: 186
-outturn-percent: 58
-draw-total: 179
-draw-percent: 60
-takeout-total: 185
-takeout-percent: 56
-shots-total: 364
-shots-percent: 58
+totals:
+ - event: Hearts
+   games: 21
+   wins: 4
+   losses: 17
+   inturn-total: 178
+   inturn-percent: 59
+   outturn-total: 186
+   outturn-percent: 58
+   draw-total: 179
+   draw-percent: 60
+   takeout-total: 185
+   takeout-percent: 56
+   shots-total: 364
+   shots-percent: 58
 years:
  - year: 1984
    event: Hearts

@@ -2,19 +2,21 @@
 title: Neil Harrison
 name: Neil Harrison
 name-sort: Harrison, Neil
-games: 77
-wins: 52
-losses: 25
-inturn-total: 128
-inturn-percent: 83
-outturn-total: 537
-outturn-percent: 86
-draw-total: 477
-draw-percent: 86
-takeout-total: 188
-takeout-percent: 84
-shots-total: 665
-shots-percent: 86
+totals:
+ - event: Brier
+   games: 77
+   wins: 52
+   losses: 25
+   inturn-total: 128
+   inturn-percent: 83
+   outturn-total: 537
+   outturn-percent: 86
+   draw-total: 477
+   draw-percent: 86
+   takeout-total: 188
+   takeout-percent: 84
+   shots-total: 665
+   shots-percent: 86
 years:
  - year: 1981
    event: Brier

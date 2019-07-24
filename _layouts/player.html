@@ -46,9 +46,8 @@ layout: default
 {% endfor %}
 </tbody>
 <tfoot>
-{% if page.games != 0 %}
-{%   if page.event-totals.size > 1 %}
-{%     for event-total in page.event-totals %}
+{% if page.totals.size > 0 %}
+{%   for event-total in page.totals %}
 <tr>
   <td colspan="4">{{ event-total.event }} Totals</td>
   <td>{{ event-total.games }}</td>
@@ -65,24 +64,7 @@ layout: default
   <td>{{ event-total.shots-total }}</td>
   <td>{{ event-total.shots-percent }}</td>
 </tr>
-{%     endfor %}
-{%   endif %}
-<tr>
-  <td colspan="4">Career Totals</td>
-  <td>{{ page.games }}</td>
-  <td>{{ page.wins }}</td>
-  <td>{{ page.losses }}</td>
-  <td>{{ page.inturn-total }}</td>
-  <td>{{ page.inturn-percent }}</td>
-  <td>{{ page.outturn-total }}</td>
-  <td>{{ page.outturn-percent }}</td>
-  <td>{{ page.draw-total }}</td>
-  <td>{{ page.draw-percent }}</td>
-  <td>{{ page.takeout-total }}</td>
-  <td>{{ page.takeout-percent }}</td>
-  <td>{{ page.shots-total }}</td>
-  <td>{{ page.shots-percent }}</td>
-</tr>
+{%   endfor %}
 {% endif %}
 </tfoot>
 </table>

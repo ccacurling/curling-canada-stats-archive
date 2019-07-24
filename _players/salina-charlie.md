@@ -2,19 +2,21 @@
 title: Charlie Salina
 name: Charlie Salina
 name-sort: Salina, Charlie
-games: 13
-wins: 9
-losses: 4
-inturn-total: 102
-inturn-percent: 78
-outturn-total: 118
-outturn-percent: 82
-draw-total: 144
-draw-percent: 81
-takeout-total: 76
-takeout-percent: 79
-shots-total: 220
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 102
+   inturn-percent: 78
+   outturn-total: 118
+   outturn-percent: 82
+   draw-total: 144
+   draw-percent: 81
+   takeout-total: 76
+   takeout-percent: 79
+   shots-total: 220
+   shots-percent: 80
 years:
  - year: 1993
    event: Brier

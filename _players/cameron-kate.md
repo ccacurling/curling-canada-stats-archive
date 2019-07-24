@@ -2,19 +2,21 @@
 title: Kate Cameron
 name: Kate Cameron
 name-sort: Cameron, Kate
-games: 24
-wins: 17
-losses: 7
-inturn-total: 245
-inturn-percent: 82
-outturn-total: 199
-outturn-percent: 82
-draw-total: 197
-draw-percent: 81
-takeout-total: 247
-takeout-percent: 82
-shots-total: 444
-shots-percent: 82
+totals:
+ - event: Hearts
+   games: 24
+   wins: 17
+   losses: 7
+   inturn-total: 245
+   inturn-percent: 82
+   outturn-total: 199
+   outturn-percent: 82
+   draw-total: 197
+   draw-percent: 81
+   takeout-total: 247
+   takeout-percent: 82
+   shots-total: 444
+   shots-percent: 82
 years:
  - year: 2017
    event: Hearts

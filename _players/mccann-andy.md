@@ -2,19 +2,21 @@
 title: Andy McCann
 name: Andy McCann
 name-sort: McCann, Andy
-games: 21
-wins: 8
-losses: 13
-inturn-total: 178
-inturn-percent: 81
-outturn-total: 218
-outturn-percent: 82
-draw-total: 196
-draw-percent: 81
-takeout-total: 200
-takeout-percent: 83
-shots-total: 396
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 21
+   wins: 8
+   losses: 13
+   inturn-total: 178
+   inturn-percent: 81
+   outturn-total: 218
+   outturn-percent: 82
+   draw-total: 196
+   draw-percent: 81
+   takeout-total: 200
+   takeout-percent: 83
+   shots-total: 396
+   shots-percent: 82
 years:
  - year: 2008
    event: Brier

@@ -2,19 +2,21 @@
 title: Brad Chorostkowski
 name: Brad Chorostkowski
 name-sort: Chorostkowski, Brad
-games: 150
-wins: 40
-losses: 110
-inturn-total: 1417
-inturn-percent: 78
-outturn-total: 1292
-outturn-percent: 78
-draw-total: 1543
-draw-percent: 78
-takeout-total: 1166
-takeout-percent: 77
-shots-total: 2709
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 150
+   wins: 40
+   losses: 110
+   inturn-total: 1417
+   inturn-percent: 78
+   outturn-total: 1292
+   outturn-percent: 78
+   draw-total: 1543
+   draw-percent: 78
+   takeout-total: 1166
+   takeout-percent: 77
+   shots-total: 2709
+   shots-percent: 78
 years:
  - year: 1998
    event: Brier

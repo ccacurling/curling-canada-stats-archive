@@ -2,19 +2,21 @@
 title: Tom Shypitka
 name: Tom Shypitka
 name-sort: Shypitka, Tom
-games: 24
-wins: 12
-losses: 12
-inturn-total: 211
-inturn-percent: 80
-outturn-total: 230
-outturn-percent: 78
-draw-total: 154
-draw-percent: 79
-takeout-total: 287
-takeout-percent: 79
-shots-total: 441
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 24
+   wins: 12
+   losses: 12
+   inturn-total: 211
+   inturn-percent: 80
+   outturn-total: 230
+   outturn-percent: 78
+   draw-total: 154
+   draw-percent: 79
+   takeout-total: 287
+   takeout-percent: 79
+   shots-total: 441
+   shots-percent: 79
 years:
  - year: 1991
    event: Brier

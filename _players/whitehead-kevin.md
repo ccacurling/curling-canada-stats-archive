@@ -2,19 +2,21 @@
 title: Kevin Whitehead
 name: Kevin Whitehead
 name-sort: Whitehead, Kevin
-games: 45
-wins: 16
-losses: 29
-inturn-total: 387
-inturn-percent: 79
-outturn-total: 389
-outturn-percent: 78
-draw-total: 372
-draw-percent: 77
-takeout-total: 404
-takeout-percent: 80
-shots-total: 776
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 45
+   wins: 16
+   losses: 29
+   inturn-total: 387
+   inturn-percent: 79
+   outturn-total: 389
+   outturn-percent: 78
+   draw-total: 372
+   draw-percent: 77
+   takeout-total: 404
+   takeout-percent: 80
+   shots-total: 776
+   shots-percent: 79
 years:
  - year: 2006
    event: Brier

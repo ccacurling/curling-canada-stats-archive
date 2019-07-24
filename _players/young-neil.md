@@ -2,19 +2,21 @@
 title: Neil Young
 name: Neil Young
 name-sort: Young, Neil
-games: 55
-wins: 18
-losses: 37
-inturn-total: 371
-inturn-percent: 79
-outturn-total: 279
-outturn-percent: 77
-draw-total: 412
-draw-percent: 80
-takeout-total: 238
-takeout-percent: 74
-shots-total: 650
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 55
+   wins: 18
+   losses: 37
+   inturn-total: 371
+   inturn-percent: 79
+   outturn-total: 279
+   outturn-percent: 77
+   draw-total: 412
+   draw-percent: 80
+   takeout-total: 238
+   takeout-percent: 74
+   shots-total: 650
+   shots-percent: 78
 years:
  - year: 1981
    event: Brier

@@ -2,19 +2,21 @@
 title: Kim Kelly
 name: Kim Kelly
 name-sort: Kelly, Kim
-games: 180
-wins: 105
-losses: 75
-inturn-total: 1477
-inturn-percent: 78
-outturn-total: 2026
-outturn-percent: 81
-draw-total: 1445
-draw-percent: 78
-takeout-total: 2058
-takeout-percent: 81
-shots-total: 3503
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 180
+   wins: 105
+   losses: 75
+   inturn-total: 1477
+   inturn-percent: 78
+   outturn-total: 2026
+   outturn-percent: 81
+   draw-total: 1445
+   draw-percent: 78
+   takeout-total: 2058
+   takeout-percent: 81
+   shots-total: 3503
+   shots-percent: 80
 years:
  - year: 1989
    event: Hearts

@@ -2,19 +2,21 @@
 title: Anna-Mae Holden
 name: Anna-Mae Holden
 name-sort: Holden, Anna-Mae
-games: 4
-wins: 0
-losses: 4
-inturn-total: 48
-inturn-percent: 79
-outturn-total: 30
-outturn-percent: 82
-draw-total: 52
-draw-percent: 87
-takeout-total: 26
-takeout-percent: 67
-shots-total: 78
-shots-percent: 80
+totals:
+ - event: Hearts
+   games: 4
+   wins: 0
+   losses: 4
+   inturn-total: 48
+   inturn-percent: 79
+   outturn-total: 30
+   outturn-percent: 82
+   draw-total: 52
+   draw-percent: 87
+   takeout-total: 26
+   takeout-percent: 67
+   shots-total: 78
+   shots-percent: 80
 years:
  - year: 2002
    event: Hearts

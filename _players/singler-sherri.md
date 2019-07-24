@@ -2,19 +2,21 @@
 title: Sherri Singler
 name: Sherri Singler
 name-sort: Singler, Sherri
-games: 35
-wins: 20
-losses: 15
-inturn-total: 391
-inturn-percent: 85
-outturn-total: 282
-outturn-percent: 84
-draw-total: 230
-draw-percent: 82
-takeout-total: 443
-takeout-percent: 86
-shots-total: 673
-shots-percent: 84
+totals:
+ - event: Hearts
+   games: 35
+   wins: 20
+   losses: 15
+   inturn-total: 391
+   inturn-percent: 85
+   outturn-total: 282
+   outturn-percent: 84
+   draw-total: 230
+   draw-percent: 82
+   takeout-total: 443
+   takeout-percent: 86
+   shots-total: 673
+   shots-percent: 84
 years:
  - year: 2005
    event: Hearts

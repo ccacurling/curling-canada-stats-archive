@@ -2,19 +2,21 @@
 title: Krista Bernard
 name: Krista Bernard
 name-sort: Bernard, Krista
-games: 23
-wins: 13
-losses: 10
-inturn-total: 230
-inturn-percent: 71
-outturn-total: 220
-outturn-percent: 78
-draw-total: 158
-draw-percent: 67
-takeout-total: 292
-takeout-percent: 78
-shots-total: 450
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 23
+   wins: 13
+   losses: 10
+   inturn-total: 230
+   inturn-percent: 71
+   outturn-total: 220
+   outturn-percent: 78
+   draw-total: 158
+   draw-percent: 67
+   takeout-total: 292
+   takeout-percent: 78
+   shots-total: 450
+   shots-percent: 74
 years:
  - year: 2000
    event: Hearts

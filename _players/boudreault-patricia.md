@@ -2,19 +2,21 @@
 title: Patricia Boudreault
 name: Patricia Boudreault
 name-sort: Boudreault, Patricia
-games: 7
-wins: 0
-losses: 7
-inturn-total: 55
-inturn-percent: 72
-outturn-total: 73
-outturn-percent: 78
-draw-total: 53
-draw-percent: 74
-takeout-total: 75
-takeout-percent: 76
-shots-total: 128
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 7
+   wins: 0
+   losses: 7
+   inturn-total: 55
+   inturn-percent: 72
+   outturn-total: 73
+   outturn-percent: 78
+   draw-total: 53
+   draw-percent: 74
+   takeout-total: 75
+   takeout-percent: 76
+   shots-total: 128
+   shots-percent: 75
 years:
  - year: 2019
    event: Hearts

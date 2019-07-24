@@ -2,19 +2,21 @@
 title: Jason Vaughan
 name: Jason Vaughan
 name-sort: Vaughan, Jason
-games: 39
-wins: 13
-losses: 26
-inturn-total: 297
-inturn-percent: 77
-outturn-total: 397
-outturn-percent: 80
-draw-total: 328
-draw-percent: 76
-takeout-total: 366
-takeout-percent: 81
-shots-total: 694
-shots-percent: 79
+totals:
+ - event: Brier
+   games: 39
+   wins: 13
+   losses: 26
+   inturn-total: 297
+   inturn-percent: 77
+   outturn-total: 397
+   outturn-percent: 80
+   draw-total: 328
+   draw-percent: 76
+   takeout-total: 366
+   takeout-percent: 81
+   shots-total: 694
+   shots-percent: 79
 years:
  - year: 2006
    event: Brier

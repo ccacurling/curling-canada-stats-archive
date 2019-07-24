@@ -2,19 +2,21 @@
 title: Steve Burnett
 name: Steve Burnett
 name-sort: Burnett, Steve
-games: 21
-wins: 4
-losses: 17
-inturn-total: 167
-inturn-percent: 71
-outturn-total: 209
-outturn-percent: 70
-draw-total: 212
-draw-percent: 68
-takeout-total: 164
-takeout-percent: 75
-shots-total: 376
-shots-percent: 71
+totals:
+ - event: Brier
+   games: 21
+   wins: 4
+   losses: 17
+   inturn-total: 167
+   inturn-percent: 71
+   outturn-total: 209
+   outturn-percent: 70
+   draw-total: 212
+   draw-percent: 68
+   takeout-total: 164
+   takeout-percent: 75
+   shots-total: 376
+   shots-percent: 71
 years:
  - year: 2004
    event: Brier

@@ -2,19 +2,21 @@
 title: Kim Gellard
 name: Kim Gellard
 name-sort: Gellard, Kim
-games: 36
-wins: 21
-losses: 15
-inturn-total: 364
-inturn-percent: 74
-outturn-total: 302
-outturn-percent: 73
-draw-total: 330
-draw-percent: 70
-takeout-total: 336
-takeout-percent: 77
-shots-total: 666
-shots-percent: 74
+totals:
+ - event: Hearts
+   games: 36
+   wins: 21
+   losses: 15
+   inturn-total: 364
+   inturn-percent: 74
+   outturn-total: 302
+   outturn-percent: 73
+   draw-total: 330
+   draw-percent: 70
+   takeout-total: 336
+   takeout-percent: 77
+   shots-total: 666
+   shots-percent: 74
 years:
  - year: 1996
    event: Hearts

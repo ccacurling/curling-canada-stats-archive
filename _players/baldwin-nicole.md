@@ -2,19 +2,21 @@
 title: Nicole Baldwin
 name: Nicole Baldwin
 name-sort: Baldwin, Nicole
-games: 11
-wins: 2
-losses: 9
-inturn-total: 92
-inturn-percent: 63
-outturn-total: 101
-outturn-percent: 70
-draw-total: 99
-draw-percent: 69
-takeout-total: 94
-takeout-percent: 63
-shots-total: 193
-shots-percent: 66
+totals:
+ - event: Hearts
+   games: 11
+   wins: 2
+   losses: 9
+   inturn-total: 92
+   inturn-percent: 63
+   outturn-total: 101
+   outturn-percent: 70
+   draw-total: 99
+   draw-percent: 69
+   takeout-total: 94
+   takeout-percent: 63
+   shots-total: 193
+   shots-percent: 66
 years:
  - year: 2007
    event: Hearts

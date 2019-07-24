@@ -2,19 +2,21 @@
 title: Randy Woytowich
 name: Randy Woytowich
 name-sort: Woytowich, Randy
-games: 23
-wins: 14
-losses: 9
-inturn-total: 171
-inturn-percent: 79
-outturn-total: 263
-outturn-percent: 80
-draw-total: 185
-draw-percent: 76
-takeout-total: 249
-takeout-percent: 82
-shots-total: 434
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 23
+   wins: 14
+   losses: 9
+   inturn-total: 171
+   inturn-percent: 79
+   outturn-total: 263
+   outturn-percent: 80
+   draw-total: 185
+   draw-percent: 76
+   takeout-total: 249
+   takeout-percent: 82
+   shots-total: 434
+   shots-percent: 80
 years:
  - year: 1991
    event: Brier

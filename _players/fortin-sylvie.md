@@ -2,19 +2,21 @@
 title: Sylvie Fortin
 name: Sylvie Fortin
 name-sort: Fortin, Sylvie
-games: 22
-wins: 7
-losses: 15
-inturn-total: 246
-inturn-percent: 71
-outturn-total: 154
-outturn-percent: 74
-draw-total: 206
-draw-percent: 72
-takeout-total: 194
-takeout-percent: 72
-shots-total: 400
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 22
+   wins: 7
+   losses: 15
+   inturn-total: 246
+   inturn-percent: 71
+   outturn-total: 154
+   outturn-percent: 74
+   draw-total: 206
+   draw-percent: 72
+   takeout-total: 194
+   takeout-percent: 72
+   shots-total: 400
+   shots-percent: 72
 years:
  - year: 1998
    event: Hearts

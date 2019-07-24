@@ -2,19 +2,21 @@
 title: Al Harnden
 name: Al Harnden
 name-sort: Harnden, Al
-games: 45
-wins: 24
-losses: 21
-inturn-total: 269
-inturn-percent: 74
-outturn-total: 378
-outturn-percent: 75
-draw-total: 334
-draw-percent: 71
-takeout-total: 313
-takeout-percent: 78
-shots-total: 647
-shots-percent: 74
+totals:
+ - event: Brier
+   games: 45
+   wins: 24
+   losses: 21
+   inturn-total: 269
+   inturn-percent: 74
+   outturn-total: 378
+   outturn-percent: 75
+   draw-total: 334
+   draw-percent: 71
+   takeout-total: 313
+   takeout-percent: 78
+   shots-total: 647
+   shots-percent: 74
 years:
  - year: 1983
    event: Brier

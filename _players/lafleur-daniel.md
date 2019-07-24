@@ -2,19 +2,21 @@
 title: Daniel Lafleur
 name: Daniel Lafleur
 name-sort: Lafleur, Daniel
-games: 12
-wins: 3
-losses: 9
-inturn-total: 90
-inturn-percent: 73
-outturn-total: 128
-outturn-percent: 76
-draw-total: 113
-draw-percent: 74
-takeout-total: 105
-takeout-percent: 75
-shots-total: 218
-shots-percent: 75
+totals:
+ - event: Brier
+   games: 12
+   wins: 3
+   losses: 9
+   inturn-total: 90
+   inturn-percent: 73
+   outturn-total: 128
+   outturn-percent: 76
+   draw-total: 113
+   draw-percent: 74
+   takeout-total: 105
+   takeout-percent: 75
+   shots-total: 218
+   shots-percent: 75
 years:
  - year: 1996
    event: Brier

@@ -2,9 +2,11 @@
 title: Doug Armour
 name: Doug Armour
 name-sort: Armour, Doug
-games: 13
-wins: 7
-losses: 6
+totals:
+ - event: Brier
+   games: 13
+   wins: 7
+   losses: 6
 years:
  - year: 1982
    event: Brier

@@ -2,19 +2,21 @@
 title: Greg Harcourt
 name: Greg Harcourt
 name-sort: Harcourt, Greg
-games: 33
-wins: 14
-losses: 19
-inturn-total: 276
-inturn-percent: 80
-outturn-total: 366
-outturn-percent: 82
-draw-total: 302
-draw-percent: 81
-takeout-total: 340
-takeout-percent: 82
-shots-total: 642
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 33
+   wins: 14
+   losses: 19
+   inturn-total: 276
+   inturn-percent: 80
+   outturn-total: 366
+   outturn-percent: 82
+   draw-total: 302
+   draw-percent: 81
+   takeout-total: 340
+   takeout-percent: 82
+   shots-total: 642
+   shots-percent: 81
 years:
  - year: 1994
    event: Brier

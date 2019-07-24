@@ -2,19 +2,21 @@
 title: Marie Richard
 name: Marie Richard
 name-sort: Richard, Marie
-games: 33
-wins: 7
-losses: 26
-inturn-total: 327
-inturn-percent: 79
-outturn-total: 293
-outturn-percent: 77
-draw-total: 240
-draw-percent: 74
-takeout-total: 380
-takeout-percent: 80
-shots-total: 620
-shots-percent: 78
+totals:
+ - event: Hearts
+   games: 33
+   wins: 7
+   losses: 26
+   inturn-total: 327
+   inturn-percent: 79
+   outturn-total: 293
+   outturn-percent: 77
+   draw-total: 240
+   draw-percent: 74
+   takeout-total: 380
+   takeout-percent: 80
+   shots-total: 620
+   shots-percent: 78
 years:
  - year: 2008
    event: Hearts

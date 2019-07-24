@@ -2,19 +2,21 @@
 title: Wayne Matheson
 name: Wayne Matheson
 name-sort: Matheson, Wayne
-games: 23
-wins: 10
-losses: 13
-inturn-total: 74
-inturn-percent: 66
-outturn-total: 141
-outturn-percent: 70
-draw-total: 112
-draw-percent: 64
-takeout-total: 103
-takeout-percent: 73
-shots-total: 215
-shots-percent: 68
+totals:
+ - event: Brier
+   games: 23
+   wins: 10
+   losses: 13
+   inturn-total: 74
+   inturn-percent: 66
+   outturn-total: 141
+   outturn-percent: 70
+   draw-total: 112
+   draw-percent: 64
+   takeout-total: 103
+   takeout-percent: 73
+   shots-total: 215
+   shots-percent: 68
 years:
  - year: 1984
    event: Brier

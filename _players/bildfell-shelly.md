@@ -2,19 +2,21 @@
 title: Shelly Bildfell
 name: Shelly Bildfell
 name-sort: Bildfell, Shelly
-games: 21
-wins: 14
-losses: 7
-inturn-total: 192
-inturn-percent: 64
-outturn-total: 193
-outturn-percent: 66
-draw-total: 180
-draw-percent: 62
-takeout-total: 205
-takeout-percent: 68
-shots-total: 385
-shots-percent: 65
+totals:
+ - event: Hearts
+   games: 21
+   wins: 14
+   losses: 7
+   inturn-total: 192
+   inturn-percent: 64
+   outturn-total: 193
+   outturn-percent: 66
+   draw-total: 180
+   draw-percent: 62
+   takeout-total: 205
+   takeout-percent: 68
+   shots-total: 385
+   shots-percent: 65
 years:
  - year: 1983
    event: Hearts

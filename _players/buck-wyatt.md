@@ -2,19 +2,21 @@
 title: Wyatt Buck
 name: Wyatt Buck
 name-sort: Buck, Wyatt
-games: 23
-wins: 14
-losses: 9
-inturn-total: 199
-inturn-percent: 79
-outturn-total: 252
-outturn-percent: 85
-draw-total: 173
-draw-percent: 86
-takeout-total: 278
-takeout-percent: 80
-shots-total: 451
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 23
+   wins: 14
+   losses: 9
+   inturn-total: 199
+   inturn-percent: 79
+   outturn-total: 252
+   outturn-percent: 85
+   draw-total: 173
+   draw-percent: 86
+   takeout-total: 278
+   takeout-percent: 80
+   shots-total: 451
+   shots-percent: 82
 years:
  - year: 1991
    event: Brier

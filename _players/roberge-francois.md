@@ -2,19 +2,21 @@
 title: Francois Roberge
 name: Francois Roberge
 name-sort: Roberge, Francois
-games: 50
-wins: 29
-losses: 21
-inturn-total: 514
-inturn-percent: 81
-outturn-total: 419
-outturn-percent: 79
-draw-total: 423
-draw-percent: 80
-takeout-total: 510
-takeout-percent: 80
-shots-total: 933
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 50
+   wins: 29
+   losses: 21
+   inturn-total: 514
+   inturn-percent: 81
+   outturn-total: 419
+   outturn-percent: 79
+   draw-total: 423
+   draw-percent: 80
+   takeout-total: 510
+   takeout-percent: 80
+   shots-total: 933
+   shots-percent: 80
 years:
  - year: 2000
    event: Brier

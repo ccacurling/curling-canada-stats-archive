@@ -2,19 +2,21 @@
 title: Rick Perron
 name: Rick Perron
 name-sort: Perron, Rick
-games: 46
-wins: 25
-losses: 21
-inturn-total: 329
-inturn-percent: 78
-outturn-total: 542
-outturn-percent: 84
-draw-total: 451
-draw-percent: 84
-takeout-total: 420
-takeout-percent: 79
-shots-total: 871
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 46
+   wins: 25
+   losses: 21
+   inturn-total: 329
+   inturn-percent: 78
+   outturn-total: 542
+   outturn-percent: 84
+   draw-total: 451
+   draw-percent: 84
+   takeout-total: 420
+   takeout-percent: 79
+   shots-total: 871
+   shots-percent: 82
 years:
  - year: 1991
    event: Brier

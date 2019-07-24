@@ -2,19 +2,21 @@
 title: Robert Andrews
 name: Robert Andrews
 name-sort: Andrews, Robert
-games: 22
-wins: 4
-losses: 18
-inturn-total: 208
-inturn-percent: 66
-outturn-total: 193
-outturn-percent: 62
-draw-total: 159
-draw-percent: 62
-takeout-total: 242
-takeout-percent: 66
-shots-total: 401
-shots-percent: 64
+totals:
+ - event: Brier
+   games: 22
+   wins: 4
+   losses: 18
+   inturn-total: 208
+   inturn-percent: 66
+   outturn-total: 193
+   outturn-percent: 62
+   draw-total: 159
+   draw-percent: 62
+   takeout-total: 242
+   takeout-percent: 66
+   shots-total: 401
+   shots-percent: 64
 years:
  - year: 1994
    event: Brier

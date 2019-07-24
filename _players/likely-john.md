@@ -2,19 +2,21 @@
 title: John Likely
 name: John Likely
 name-sort: Likely, John
-games: 30
-wins: 9
-losses: 21
-inturn-total: 217
-inturn-percent: 73
-outturn-total: 335
-outturn-percent: 69
-draw-total: 291
-draw-percent: 69
-takeout-total: 261
-takeout-percent: 72
-shots-total: 552
-shots-percent: 71
+totals:
+ - event: Brier
+   games: 30
+   wins: 9
+   losses: 21
+   inturn-total: 217
+   inturn-percent: 73
+   outturn-total: 335
+   outturn-percent: 69
+   draw-total: 291
+   draw-percent: 69
+   takeout-total: 261
+   takeout-percent: 72
+   shots-total: 552
+   shots-percent: 71
 years:
  - year: 1985
    event: Brier

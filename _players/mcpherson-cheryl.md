@@ -2,19 +2,21 @@
 title: Cheryl McPherson
 name: Cheryl McPherson
 name-sort: McPherson, Cheryl
-games: 26
-wins: 16
-losses: 10
-inturn-total: 166
-inturn-percent: 75
-outturn-total: 272
-outturn-percent: 77
-draw-total: 232
-draw-percent: 79
-takeout-total: 206
-takeout-percent: 74
-shots-total: 438
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 26
+   wins: 16
+   losses: 10
+   inturn-total: 166
+   inturn-percent: 75
+   outturn-total: 272
+   outturn-percent: 77
+   draw-total: 232
+   draw-percent: 79
+   takeout-total: 206
+   takeout-percent: 74
+   shots-total: 438
+   shots-percent: 76
 years:
  - year: 1990
    event: Hearts

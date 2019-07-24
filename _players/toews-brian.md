@@ -2,19 +2,21 @@
 title: Brian Toews
 name: Brian Toews
 name-sort: Toews, Brian
-games: 23
-wins: 15
-losses: 8
-inturn-total: 82
-inturn-percent: 82
-outturn-total: 133
-outturn-percent: 78
-draw-total: 97
-draw-percent: 79
-takeout-total: 118
-takeout-percent: 81
-shots-total: 215
-shots-percent: 80
+totals:
+ - event: Brier
+   games: 23
+   wins: 15
+   losses: 8
+   inturn-total: 82
+   inturn-percent: 82
+   outturn-total: 133
+   outturn-percent: 78
+   draw-total: 97
+   draw-percent: 79
+   takeout-total: 118
+   takeout-percent: 81
+   shots-total: 215
+   shots-percent: 80
 years:
  - year: 1984
    event: Brier

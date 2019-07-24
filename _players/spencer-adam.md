@@ -2,19 +2,21 @@
 title: Adam Spencer
 name: Adam Spencer
 name-sort: Spencer, Adam
-games: 13
-wins: 4
-losses: 9
-inturn-total: 104
-inturn-percent: 92
-outturn-total: 114
-outturn-percent: 91
-draw-total: 75
-draw-percent: 93
-takeout-total: 143
-takeout-percent: 91
-shots-total: 218
-shots-percent: 91
+totals:
+ - event: Brier
+   games: 13
+   wins: 4
+   losses: 9
+   inturn-total: 104
+   inturn-percent: 92
+   outturn-total: 114
+   outturn-percent: 91
+   draw-total: 75
+   draw-percent: 93
+   takeout-total: 143
+   takeout-percent: 91
+   shots-total: 218
+   shots-percent: 91
 years:
  - year: 2016
    event: Brier

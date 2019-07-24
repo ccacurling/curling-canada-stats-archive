@@ -2,19 +2,21 @@
 title: Scott Patterson
 name: Scott Patterson
 name-sort: Patterson, Scott
-games: 22
-wins: 13
-losses: 9
-inturn-total: 191
-inturn-percent: 75
-outturn-total: 202
-outturn-percent: 73
-draw-total: 162
-draw-percent: 65
-takeout-total: 231
-takeout-percent: 80
-shots-total: 393
-shots-percent: 74
+totals:
+ - event: Brier
+   games: 22
+   wins: 13
+   losses: 9
+   inturn-total: 191
+   inturn-percent: 75
+   outturn-total: 202
+   outturn-percent: 73
+   draw-total: 162
+   draw-percent: 65
+   takeout-total: 231
+   takeout-percent: 80
+   shots-total: 393
+   shots-percent: 74
 years:
  - year: 1994
    event: Brier

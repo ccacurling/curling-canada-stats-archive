@@ -2,19 +2,21 @@
 title: Shelley Muzika
 name: Shelley Muzika
 name-sort: Muzika, Shelley
-games: 57
-wins: 23
-losses: 34
-inturn-total: 624
-inturn-percent: 73
-outturn-total: 461
-outturn-percent: 72
-draw-total: 542
-draw-percent: 74
-takeout-total: 543
-takeout-percent: 71
-shots-total: 1085
-shots-percent: 73
+totals:
+ - event: Hearts
+   games: 57
+   wins: 23
+   losses: 34
+   inturn-total: 624
+   inturn-percent: 73
+   outturn-total: 461
+   outturn-percent: 72
+   draw-total: 542
+   draw-percent: 74
+   takeout-total: 543
+   takeout-percent: 71
+   shots-total: 1085
+   shots-percent: 73
 years:
  - year: 1987
    event: Hearts

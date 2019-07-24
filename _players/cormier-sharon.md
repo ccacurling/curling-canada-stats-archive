@@ -2,19 +2,21 @@
 title: Sharon Cormier
 name: Sharon Cormier
 name-sort: Cormier, Sharon
-games: 100
-wins: 34
-losses: 66
-inturn-total: 931
-inturn-percent: 73
-outturn-total: 954
-outturn-percent: 71
-draw-total: 1030
-draw-percent: 71
-takeout-total: 855
-takeout-percent: 73
-shots-total: 1885
-shots-percent: 72
+totals:
+ - event: Hearts
+   games: 100
+   wins: 34
+   losses: 66
+   inturn-total: 931
+   inturn-percent: 73
+   outturn-total: 954
+   outturn-percent: 71
+   draw-total: 1030
+   draw-percent: 71
+   takeout-total: 855
+   takeout-percent: 73
+   shots-total: 1885
+   shots-percent: 72
 years:
  - year: 1993
    event: Hearts

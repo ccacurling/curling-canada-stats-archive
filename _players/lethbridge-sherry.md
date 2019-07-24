@@ -2,19 +2,21 @@
 title: Sherry Lethbridge
 name: Sherry Lethbridge
 name-sort: Lethbridge, Sherry
-games: 21
-wins: 9
-losses: 12
-inturn-total: 206
-inturn-percent: 68
-outturn-total: 203
-outturn-percent: 68
-draw-total: 225
-draw-percent: 70
-takeout-total: 184
-takeout-percent: 65
-shots-total: 409
-shots-percent: 68
+totals:
+ - event: Hearts
+   games: 21
+   wins: 9
+   losses: 12
+   inturn-total: 206
+   inturn-percent: 68
+   outturn-total: 203
+   outturn-percent: 68
+   draw-total: 225
+   draw-percent: 70
+   takeout-total: 184
+   takeout-percent: 65
+   shots-total: 409
+   shots-percent: 68
 years:
  - year: 1983
    event: Hearts

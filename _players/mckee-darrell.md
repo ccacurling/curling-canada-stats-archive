@@ -2,19 +2,21 @@
 title: Darrell McKee
 name: Darrell McKee
 name-sort: McKee, Darrell
-games: 22
-wins: 9
-losses: 13
-inturn-total: 189
-inturn-percent: 75
-outturn-total: 217
-outturn-percent: 81
-draw-total: 167
-draw-percent: 75
-takeout-total: 239
-takeout-percent: 80
-shots-total: 406
-shots-percent: 78
+totals:
+ - event: Brier
+   games: 22
+   wins: 9
+   losses: 13
+   inturn-total: 189
+   inturn-percent: 75
+   outturn-total: 217
+   outturn-percent: 81
+   draw-total: 167
+   draw-percent: 75
+   takeout-total: 239
+   takeout-percent: 80
+   shots-total: 406
+   shots-percent: 78
 years:
  - year: 2000
    event: Brier

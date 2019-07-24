@@ -2,19 +2,21 @@
 title: Keith Fenton
 name: Keith Fenton
 name-sort: Fenton, Keith
-games: 28
-wins: 21
-losses: 7
-inturn-total: 175
-inturn-percent: 79
-outturn-total: 331
-outturn-percent: 84
-draw-total: 366
-draw-percent: 83
-takeout-total: 140
-takeout-percent: 79
-shots-total: 506
-shots-percent: 82
+totals:
+ - event: Brier
+   games: 28
+   wins: 21
+   losses: 7
+   inturn-total: 175
+   inturn-percent: 79
+   outturn-total: 331
+   outturn-percent: 84
+   draw-total: 366
+   draw-percent: 83
+   takeout-total: 140
+   takeout-percent: 79
+   shots-total: 506
+   shots-percent: 82
 years:
  - year: 1995
    event: Brier

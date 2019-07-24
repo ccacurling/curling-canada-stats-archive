@@ -2,19 +2,21 @@
 title: B.J. Neufeld
 name: B.J. Neufeld
 name-sort: Neufeld, B.J.
-games: 51
-wins: 38
-losses: 13
-inturn-total: 450
-inturn-percent: 89
-outturn-total: 512
-outturn-percent: 86
-draw-total: 315
-draw-percent: 85
-takeout-total: 647
-takeout-percent: 88
-shots-total: 962
-shots-percent: 87
+totals:
+ - event: Brier
+   games: 51
+   wins: 38
+   losses: 13
+   inturn-total: 450
+   inturn-percent: 89
+   outturn-total: 512
+   outturn-percent: 86
+   draw-total: 315
+   draw-percent: 85
+   takeout-total: 647
+   takeout-percent: 88
+   shots-total: 962
+   shots-percent: 87
 years:
  - year: 2016
    event: Brier

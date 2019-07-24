@@ -2,19 +2,21 @@
 title: Gerry Richard
 name: Gerry Richard
 name-sort: Richard, Gerry
-games: 38
-wins: 27
-losses: 11
-inturn-total: 221
-inturn-percent: 83
-outturn-total: 490
-outturn-percent: 88
-draw-total: 443
-draw-percent: 87
-takeout-total: 268
-takeout-percent: 85
-shots-total: 711
-shots-percent: 87
+totals:
+ - event: Brier
+   games: 38
+   wins: 27
+   losses: 11
+   inturn-total: 221
+   inturn-percent: 83
+   outturn-total: 490
+   outturn-percent: 88
+   draw-total: 443
+   draw-percent: 87
+   takeout-total: 268
+   takeout-percent: 85
+   shots-total: 711
+   shots-percent: 87
 years:
  - year: 1993
    event: Brier

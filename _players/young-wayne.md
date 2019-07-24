@@ -2,19 +2,21 @@
 title: Wayne Young
 name: Wayne Young
 name-sort: Young, Wayne
-games: 2
-wins: 1
-losses: 1
-inturn-total: 15
-inturn-percent: 83
-outturn-total: 25
-outturn-percent: 72
-draw-total: 29
-draw-percent: 81
-takeout-total: 11
-takeout-percent: 64
-shots-total: 40
-shots-percent: 76
+totals:
+ - event: Brier
+   games: 2
+   wins: 1
+   losses: 1
+   inturn-total: 15
+   inturn-percent: 83
+   outturn-total: 25
+   outturn-percent: 72
+   draw-total: 29
+   draw-percent: 81
+   takeout-total: 11
+   takeout-percent: 64
+   shots-total: 40
+   shots-percent: 76
 years:
  - year: 1998
    event: Brier

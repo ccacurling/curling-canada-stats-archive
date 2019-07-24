@@ -2,19 +2,21 @@
 title: Michelle Englot
 name: Michelle Englot
 name-sort: Englot, Michelle
-games: 104
-wins: 61
-losses: 43
-inturn-total: 966
-inturn-percent: 73
-outturn-total: 964
-outturn-percent: 77
-draw-total: 891
-draw-percent: 72
-takeout-total: 1039
-takeout-percent: 78
-shots-total: 1930
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 104
+   wins: 61
+   losses: 43
+   inturn-total: 966
+   inturn-percent: 73
+   outturn-total: 964
+   outturn-percent: 77
+   draw-total: 891
+   draw-percent: 72
+   takeout-total: 1039
+   takeout-percent: 78
+   shots-total: 1930
+   shots-percent: 75
 years:
  - year: 1987
    event: Hearts

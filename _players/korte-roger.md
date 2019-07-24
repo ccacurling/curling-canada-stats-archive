@@ -2,19 +2,21 @@
 title: Roger Korte
 name: Roger Korte
 name-sort: Korte, Roger
-games: 33
-wins: 14
-losses: 19
-inturn-total: 299
-inturn-percent: 81
-outturn-total: 323
-outturn-percent: 82
-draw-total: 310
-draw-percent: 80
-takeout-total: 312
-takeout-percent: 83
-shots-total: 622
-shots-percent: 81
+totals:
+ - event: Brier
+   games: 33
+   wins: 14
+   losses: 19
+   inturn-total: 299
+   inturn-percent: 81
+   outturn-total: 323
+   outturn-percent: 82
+   draw-total: 310
+   draw-percent: 80
+   takeout-total: 312
+   takeout-percent: 83
+   shots-total: 622
+   shots-percent: 81
 years:
  - year: 2000
    event: Brier

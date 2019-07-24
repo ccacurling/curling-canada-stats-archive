@@ -2,19 +2,21 @@
 title: Scott Seabrook
 name: Scott Seabrook
 name-sort: Seabrook, Scott
-games: 23
-wins: 12
-losses: 11
-inturn-total: 173
-inturn-percent: 84
-outturn-total: 230
-outturn-percent: 83
-draw-total: 349
-draw-percent: 84
-takeout-total: 54
-takeout-percent: 77
-shots-total: 403
-shots-percent: 83
+totals:
+ - event: Brier
+   games: 23
+   wins: 12
+   losses: 11
+   inturn-total: 173
+   inturn-percent: 84
+   outturn-total: 230
+   outturn-percent: 83
+   draw-total: 349
+   draw-percent: 84
+   takeout-total: 54
+   takeout-percent: 77
+   shots-total: 403
+   shots-percent: 83
 years:
  - year: 2009
    event: Brier

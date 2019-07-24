@@ -2,19 +2,21 @@
 title: Wade Blanchard
 name: Wade Blanchard
 name-sort: Blanchard, Wade
-games: 33
-wins: 10
-losses: 23
-inturn-total: 303
-inturn-percent: 66
-outturn-total: 310
-outturn-percent: 71
-draw-total: 301
-draw-percent: 65
-takeout-total: 312
-takeout-percent: 71
-shots-total: 613
-shots-percent: 68
+totals:
+ - event: Brier
+   games: 33
+   wins: 10
+   losses: 23
+   inturn-total: 303
+   inturn-percent: 66
+   outturn-total: 310
+   outturn-percent: 71
+   draw-total: 301
+   draw-percent: 65
+   takeout-total: 312
+   takeout-percent: 71
+   shots-total: 613
+   shots-percent: 68
 years:
  - year: 1980
    event: Brier

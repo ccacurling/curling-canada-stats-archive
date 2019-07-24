@@ -2,19 +2,21 @@
 title: Peter Mackey
 name: Peter Mackey
 name-sort: Mackey, Peter
-games: 15
-wins: 0
-losses: 15
-inturn-total: 58
-inturn-percent: 62
-outturn-total: 194
-outturn-percent: 66
-draw-total: 120
-draw-percent: 67
-takeout-total: 132
-takeout-percent: 63
-shots-total: 252
-shots-percent: 65
+totals:
+ - event: Brier
+   games: 15
+   wins: 0
+   losses: 15
+   inturn-total: 58
+   inturn-percent: 62
+   outturn-total: 194
+   outturn-percent: 66
+   draw-total: 120
+   draw-percent: 67
+   takeout-total: 132
+   takeout-percent: 63
+   shots-total: 252
+   shots-percent: 65
 years:
  - year: 2018
    event: Brier

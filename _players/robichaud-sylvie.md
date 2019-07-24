@@ -2,19 +2,21 @@
 title: Sylvie Robichaud
 name: Sylvie Robichaud
 name-sort: Robichaud, Sylvie
-games: 41
-wins: 12
-losses: 29
-inturn-total: 410
-inturn-percent: 75
-outturn-total: 372
-outturn-percent: 76
-draw-total: 374
-draw-percent: 72
-takeout-total: 408
-takeout-percent: 79
-shots-total: 782
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 41
+   wins: 12
+   losses: 29
+   inturn-total: 410
+   inturn-percent: 75
+   outturn-total: 372
+   outturn-percent: 76
+   draw-total: 374
+   draw-percent: 72
+   takeout-total: 408
+   takeout-percent: 79
+   shots-total: 782
+   shots-percent: 76
 years:
  - year: 2008
    event: Hearts

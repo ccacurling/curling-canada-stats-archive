@@ -2,19 +2,21 @@
 title: Lois Fowler
 name: Lois Fowler
 name-sort: Fowler, Lois
-games: 50
-wins: 28
-losses: 22
-inturn-total: 450
-inturn-percent: 76
-outturn-total: 486
-outturn-percent: 75
-draw-total: 452
-draw-percent: 74
-takeout-total: 484
-takeout-percent: 76
-shots-total: 936
-shots-percent: 75
+totals:
+ - event: Hearts
+   games: 50
+   wins: 28
+   losses: 22
+   inturn-total: 450
+   inturn-percent: 76
+   outturn-total: 486
+   outturn-percent: 75
+   draw-total: 452
+   draw-percent: 74
+   takeout-total: 484
+   takeout-percent: 76
+   shots-total: 936
+   shots-percent: 75
 years:
  - year: 1993
    event: Hearts

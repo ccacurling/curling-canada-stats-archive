@@ -2,19 +2,21 @@
 title: Lil Werenka
 name: Lil Werenka
 name-sort: Werenka, Lil
-games: 22
-wins: 8
-losses: 14
-inturn-total: 200
-inturn-percent: 63
-outturn-total: 191
-outturn-percent: 63
-draw-total: 181
-draw-percent: 58
-takeout-total: 210
-takeout-percent: 67
-shots-total: 391
-shots-percent: 63
+totals:
+ - event: Hearts
+   games: 22
+   wins: 8
+   losses: 14
+   inturn-total: 200
+   inturn-percent: 63
+   outturn-total: 191
+   outturn-percent: 63
+   draw-total: 181
+   draw-percent: 58
+   takeout-total: 210
+   takeout-percent: 67
+   shots-total: 391
+   shots-percent: 63
 years:
  - year: 1986
    event: Hearts

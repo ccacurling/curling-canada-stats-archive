@@ -2,19 +2,21 @@
 title: Monique Gagnier
 name: Monique Gagnier
 name-sort: Gagnier, Monique
-games: 44
-wins: 12
-losses: 32
-inturn-total: 412
-inturn-percent: 65
-outturn-total: 402
-outturn-percent: 68
-draw-total: 415
-draw-percent: 65
-takeout-total: 399
-takeout-percent: 68
-shots-total: 814
-shots-percent: 66
+totals:
+ - event: Hearts
+   games: 44
+   wins: 12
+   losses: 32
+   inturn-total: 412
+   inturn-percent: 65
+   outturn-total: 402
+   outturn-percent: 68
+   draw-total: 415
+   draw-percent: 65
+   takeout-total: 399
+   takeout-percent: 68
+   shots-total: 814
+   shots-percent: 66
 years:
  - year: 2002
    event: Hearts

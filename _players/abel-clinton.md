@@ -2,19 +2,21 @@
 title: Clinton Abel
 name: Clinton Abel
 name-sort: Abel, Clinton
-games: 29
-wins: 7
-losses: 22
-inturn-total: 296
-inturn-percent: 72
-outturn-total: 260
-outturn-percent: 68
-draw-total: 220
-draw-percent: 69
-takeout-total: 336
-takeout-percent: 71
-shots-total: 556
-shots-percent: 70
+totals:
+ - event: Brier
+   games: 29
+   wins: 7
+   losses: 22
+   inturn-total: 296
+   inturn-percent: 72
+   outturn-total: 260
+   outturn-percent: 68
+   draw-total: 220
+   draw-percent: 69
+   takeout-total: 336
+   takeout-percent: 71
+   shots-total: 556
+   shots-percent: 70
 years:
  - year: 1994
    event: Brier

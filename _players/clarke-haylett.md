@@ -2,9 +2,11 @@
 title: Haylett Clarke
 name: Haylett Clarke
 name-sort: Clarke, Haylett
-games: 11
-wins: 4
-losses: 7
+totals:
+ - event: Brier
+   games: 11
+   wins: 4
+   losses: 7
 years:
  - year: 1984
    event: Brier

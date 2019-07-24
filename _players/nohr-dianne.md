@@ -2,19 +2,21 @@
 title: Dianne Nohr
 name: Dianne Nohr
 name-sort: Nohr, Dianne
-games: 11
-wins: 1
-losses: 10
-inturn-total: 88
-inturn-percent: 60
-outturn-total: 106
-outturn-percent: 76
-draw-total: 85
-draw-percent: 58
-takeout-total: 109
-takeout-percent: 78
-shots-total: 194
-shots-percent: 69
+totals:
+ - event: Hearts
+   games: 11
+   wins: 1
+   losses: 10
+   inturn-total: 88
+   inturn-percent: 60
+   outturn-total: 106
+   outturn-percent: 76
+   draw-total: 85
+   draw-percent: 58
+   takeout-total: 109
+   takeout-percent: 78
+   shots-total: 194
+   shots-percent: 69
 years:
  - year: 1995
    event: Hearts

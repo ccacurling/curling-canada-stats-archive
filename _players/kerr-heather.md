@@ -2,19 +2,21 @@
 title: Heather Kerr
 name: Heather Kerr
 name-sort: Kerr, Heather
-games: 21
-wins: 9
-losses: 12
-inturn-total: 233
-inturn-percent: 63
-outturn-total: 156
-outturn-percent: 61
-draw-total: 203
-draw-percent: 60
-takeout-total: 186
-takeout-percent: 65
-shots-total: 389
-shots-percent: 62
+totals:
+ - event: Hearts
+   games: 21
+   wins: 9
+   losses: 12
+   inturn-total: 233
+   inturn-percent: 63
+   outturn-total: 156
+   outturn-percent: 61
+   draw-total: 203
+   draw-percent: 60
+   takeout-total: 186
+   takeout-percent: 65
+   shots-total: 389
+   shots-percent: 62
 years:
  - year: 1983
    event: Hearts

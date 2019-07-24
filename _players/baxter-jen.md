@@ -2,19 +2,21 @@
 title: Jen Baxter
 name: Jen Baxter
 name-sort: Baxter, Jen
-games: 35
-wins: 20
-losses: 15
-inturn-total: 453
-inturn-percent: 83
-outturn-total: 213
-outturn-percent: 86
-draw-total: 416
-draw-percent: 84
-takeout-total: 250
-takeout-percent: 85
-shots-total: 666
-shots-percent: 84
+totals:
+ - event: Hearts
+   games: 35
+   wins: 20
+   losses: 15
+   inturn-total: 453
+   inturn-percent: 83
+   outturn-total: 213
+   outturn-percent: 86
+   draw-total: 416
+   draw-percent: 84
+   takeout-total: 250
+   takeout-percent: 85
+   shots-total: 666
+   shots-percent: 84
 years:
  - year: 2013
    event: Hearts

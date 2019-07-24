@@ -2,19 +2,21 @@
 title: Carolyn Darbyshire
 name: Carolyn Darbyshire
 name-sort: Darbyshire, Carolyn
-games: 34
-wins: 18
-losses: 16
-inturn-total: 313
-inturn-percent: 74
-outturn-total: 325
-outturn-percent: 79
-draw-total: 280
-draw-percent: 74
-takeout-total: 358
-takeout-percent: 78
-shots-total: 638
-shots-percent: 76
+totals:
+ - event: Hearts
+   games: 34
+   wins: 18
+   losses: 16
+   inturn-total: 313
+   inturn-percent: 74
+   outturn-total: 325
+   outturn-percent: 79
+   draw-total: 280
+   draw-percent: 74
+   takeout-total: 358
+   takeout-percent: 78
+   shots-total: 638
+   shots-percent: 76
 years:
  - year: 1985
    event: Hearts

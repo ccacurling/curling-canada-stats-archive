@@ -2,9 +2,11 @@
 title: Brent Giles
 name: Brent Giles
 name-sort: Giles, Brent
-games: 12
-wins: 9
-losses: 3
+totals:
+ - event: Brier
+   games: 12
+   wins: 9
+   losses: 3
 years:
  - year: 1982
    event: Brier

@@ -2,19 +2,21 @@
 title: Deb Massullo
 name: Deb Massullo
 name-sort: Massullo, Deb
-games: 25
-wins: 19
-losses: 6
-inturn-total: 182
-inturn-percent: 80
-outturn-total: 256
-outturn-percent: 78
-draw-total: 229
-draw-percent: 81
-takeout-total: 209
-takeout-percent: 77
-shots-total: 438
-shots-percent: 79
+totals:
+ - event: Hearts
+   games: 25
+   wins: 19
+   losses: 6
+   inturn-total: 182
+   inturn-percent: 80
+   outturn-total: 256
+   outturn-percent: 78
+   draw-total: 229
+   draw-percent: 81
+   takeout-total: 209
+   takeout-percent: 77
+   shots-total: 438
+   shots-percent: 79
 years:
  - year: 1987
    event: Hearts

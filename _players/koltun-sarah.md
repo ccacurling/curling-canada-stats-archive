@@ -2,19 +2,21 @@
 title: Sarah Koltun
 name: Sarah Koltun
 name-sort: Koltun, Sarah
-games: 25
-wins: 7
-losses: 18
-inturn-total: 245
-inturn-percent: 74
-outturn-total: 215
-outturn-percent: 72
-draw-total: 240
-draw-percent: 70
-takeout-total: 220
-takeout-percent: 76
-shots-total: 460
-shots-percent: 73
+totals:
+ - event: Hearts
+   games: 25
+   wins: 7
+   losses: 18
+   inturn-total: 245
+   inturn-percent: 74
+   outturn-total: 215
+   outturn-percent: 72
+   draw-total: 240
+   draw-percent: 70
+   takeout-total: 220
+   takeout-percent: 76
+   shots-total: 460
+   shots-percent: 73
 years:
  - year: 2014
    event: Hearts

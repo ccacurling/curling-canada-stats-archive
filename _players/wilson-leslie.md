@@ -2,19 +2,21 @@
 title: Leslie Wilson
 name: Leslie Wilson
 name-sort: Wilson, Leslie
-games: 47
-wins: 28
-losses: 19
-inturn-total: 478
-inturn-percent: 77
-outturn-total: 406
-outturn-percent: 79
-draw-total: 391
-draw-percent: 76
-takeout-total: 493
-takeout-percent: 80
-shots-total: 884
-shots-percent: 78
+totals:
+ - event: Hearts
+   games: 47
+   wins: 28
+   losses: 19
+   inturn-total: 478
+   inturn-percent: 77
+   outturn-total: 406
+   outturn-percent: 79
+   draw-total: 391
+   draw-percent: 76
+   takeout-total: 493
+   takeout-percent: 80
+   shots-total: 884
+   shots-percent: 78
 years:
  - year: 2010
    event: Hearts

@@ -2,19 +2,21 @@
 title: Virginia Jackson
 name: Virginia Jackson
 name-sort: Jackson, Virginia
-games: 33
-wins: 10
-losses: 23
-inturn-total: 334
-inturn-percent: 64
-outturn-total: 285
-outturn-percent: 64
-draw-total: 335
-draw-percent: 58
-takeout-total: 284
-takeout-percent: 71
-shots-total: 619
-shots-percent: 64
+totals:
+ - event: Hearts
+   games: 33
+   wins: 10
+   losses: 23
+   inturn-total: 334
+   inturn-percent: 64
+   outturn-total: 285
+   outturn-percent: 64
+   draw-total: 335
+   draw-percent: 58
+   takeout-total: 284
+   takeout-percent: 71
+   shots-total: 619
+   shots-percent: 64
 years:
  - year: 1985
    event: Hearts

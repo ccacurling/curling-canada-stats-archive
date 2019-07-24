@@ -2,19 +2,21 @@
 title: Wendy Miller
 name: Wendy Miller
 name-sort: Miller, Wendy
-games: 30
-wins: 9
-losses: 21
-inturn-total: 239
-inturn-percent: 73
-outturn-total: 301
-outturn-percent: 70
-draw-total: 371
-draw-percent: 71
-takeout-total: 169
-takeout-percent: 73
-shots-total: 540
-shots-percent: 71
+totals:
+ - event: Hearts
+   games: 30
+   wins: 9
+   losses: 21
+   inturn-total: 239
+   inturn-percent: 73
+   outturn-total: 301
+   outturn-percent: 70
+   draw-total: 371
+   draw-percent: 71
+   takeout-total: 169
+   takeout-percent: 73
+   shots-total: 540
+   shots-percent: 71
 years:
  - year: 2011
    event: Hearts

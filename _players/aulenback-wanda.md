@@ -2,19 +2,21 @@
 title: Wanda Aulenback
 name: Wanda Aulenback
 name-sort: Aulenback, Wanda
-games: 12
-wins: 2
-losses: 10
-inturn-total: 114
-inturn-percent: 54
-outturn-total: 95
-outturn-percent: 52
-draw-total: 99
-draw-percent: 55
-takeout-total: 110
-takeout-percent: 51
-shots-total: 209
-shots-percent: 53
+totals:
+ - event: Hearts
+   games: 12
+   wins: 2
+   losses: 10
+   inturn-total: 114
+   inturn-percent: 54
+   outturn-total: 95
+   outturn-percent: 52
+   draw-total: 99
+   draw-percent: 55
+   takeout-total: 110
+   takeout-percent: 51
+   shots-total: 209
+   shots-percent: 53
 years:
  - year: 1982
    event: Hearts
