@@ -20,6 +20,10 @@ Site - Brian Cassidy Jr.
 
 ## Changelog
 
+### 2019-07-25
+
+ * Added Trials (Men & Women) data (1997-2017).
+
 ### 2019-07-10
 
  * Fixed standings lists for years with only 1 pool.
