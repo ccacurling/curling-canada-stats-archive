@@ -1,62 +1,78 @@
 ---
 title: Brad Jacobs vs Braeden Moskowy
-player1:                
-  name: Jacobs, Brad    
-  percent: 86           
-  wins: 2               
-  losses: 1             
-player2:                
+player1:
+  name: Jacobs, Brad
+  percent: 86
+  wins: 2
+  losses: 1
+player2:
   name: Moskowy, Braeden
-  percent: 87           
-  wins: 1               
-  losses: 2             
+  percent: 87
+  wins: 1
+  losses: 2
 games:
- - player1:          
-     team: 'NO'      
-     position: Fourth
-     percent: 79     
-     win: 0          
-     loss: 1         
-   player2:         
-     team: 'SK'     
-     position: Third
-     percent: 88    
-     win: 1         
-     loss: 0        
-   event: Brier         
-   year: 2013           
-   draw: Round Robin(12)
-   score: NO 6 - SK 7   
- - player1:          
-     team: 'NO'      
-     position: Fourth
-     percent: 95     
-     win: 1          
-     loss: 0         
-   player2:         
-     team: 'MB'     
-     position: Third
-     percent: 91    
-     win: 0         
-     loss: 1        
-   event: Brier         
-   year: 2015           
-   draw: Round Robin(10)
-   score: MB 2 - NO 7   
- - player1:          
-     team: 'NO'      
-     position: Fourth
-     percent: 86     
-     win: 1          
-     loss: 0         
-   player2:         
-     team: 'MB'     
-     position: Third
-     percent: 83    
-     win: 0         
-     loss: 1        
-   event: Brier         
-   year: 2018           
-   draw: Round Robin(13)
-   score: MB 3 - NO 6   
+- player1:
+    team: 'NO'
+    position: Fourth
+    percent: 79
+    win: 0
+    loss: 1
+  player2:
+    team: SK
+    position: Third
+    percent: 88
+    win: 1
+    loss: 0
+  event: Brier
+  year: 2013
+  draw: Round Robin(12)
+  score: NO 6 - SK 7
+- player1:
+    team: 'NO'
+    position: Fourth
+    percent: 95
+    win: 1
+    loss: 0
+  player2:
+    team: MB
+    position: Third
+    percent: 91
+    win: 0
+    loss: 1
+  event: Brier
+  year: 2015
+  draw: Round Robin(10)
+  score: MB 2 - NO 7
+- player1:
+    team: 'NO'
+    position: Fourth
+    percent: 86
+    win: 1
+    loss: 0
+  player2:
+    team: MB
+    position: Third
+    percent: 83
+    win: 0
+    loss: 1
+  event: Brier
+  year: 2018
+  draw: Round Robin(13)
+  score: MB 3 - NO 6
+- player1:
+    team: Jaco
+    position: Fourth
+    percent: 65
+    win: 0
+    loss: 1
+  player2:
+    team: Carr
+    position: Third
+    percent: 89
+    win: 1
+    loss: 0
+  event: Trials (Men)
+  year: 2017
+  draw: Round Robin(15)
+  score: Carr 9 - Jaco 5
 ---

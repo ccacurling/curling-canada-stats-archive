@@ -1,110 +1,126 @@
 ---
 title: Ryan Harnden vs Pat Simmons
-player1:             
+player1:
   name: Harnden, Ryan
-  percent: 89        
-  wins: 5            
-  losses: 1          
-player2:             
-  name: Simmons, Pat 
-  percent: 84        
-  wins: 1            
-  losses: 5          
+  percent: 89
+  wins: 5
+  losses: 1
+player2:
+  name: Simmons, Pat
+  percent: 84
+  wins: 1
+  losses: 5
 games:
- - player1:          
-     team: 'NO'      
-     position: Second
-     percent: 71     
-     win: 1          
-     loss: 0         
-   player2:          
-     team: 'SK'      
-     position: Fourth
-     percent: 86     
-     win: 0          
-     loss: 1         
-   event: Brier         
-   year: 2008           
-   draw: Round Robin(16)
-   score: NO 7 - SK 6   
- - player1:          
-     team: 'NO'      
-     position: Second
-     percent: 93     
-     win: 1          
-     loss: 0         
-   player2:          
-     team: 'SK'      
-     position: Fourth
-     percent: 82     
-     win: 0          
-     loss: 1         
-   event: Brier         
-   year: 2011           
-   draw: Round Robin(17)
-   score: SK 3 - NO 6   
- - player1:          
-     team: 'NO'      
-     position: Second
-     percent: 83     
-     win: 1          
-     loss: 0         
-   player2:         
-     team: 'AB'     
-     position: Third
-     percent: 85    
-     win: 0         
-     loss: 1        
-   event: Brier         
-   year: 2012           
-   draw: Round Robin(10)
-   score: AB 6 - NO 7   
- - player1:        
-     team: 'NO'    
-     position: Lead
-     percent: 98   
-     win: 1        
-     loss: 0       
-   player2:          
-     team: 'CA'      
-     position: Fourth
-     percent: 74     
-     win: 0          
-     loss: 1         
-   event: Brier         
-   year: 2015           
-   draw: Round Robin(16)
-   score: NO 6 - CA 3   
- - player1:        
-     team: 'NO'    
-     position: Lead
-     percent: 93   
-     win: 0        
-     loss: 1       
-   player2:          
-     team: 'CA'      
-     position: Fourth
-     percent: 93     
-     win: 1          
-     loss: 0         
-   event: Brier      
-   year: 2015        
-   draw: Final(22)   
-   score: CA 6 - NO 5
- - player1:        
-     team: 'NO'    
-     position: Lead
-     percent: 99   
-     win: 1        
-     loss: 0       
-   player2:          
-     team: 'CA'      
-     position: Fourth
-     percent: 82     
-     win: 0          
-     loss: 1         
-   event: Brier        
-   year: 2016          
-   draw: Round Robin(7)
-   score: CA 6 - NO 10 
+- player1:
+    team: 'NO'
+    position: Second
+    percent: 71
+    win: 1
+    loss: 0
+  player2:
+    team: SK
+    position: Fourth
+    percent: 86
+    win: 0
+    loss: 1
+  event: Brier
+  year: 2008
+  draw: Round Robin(16)
+  score: NO 7 - SK 6
+- player1:
+    team: 'NO'
+    position: Second
+    percent: 93
+    win: 1
+    loss: 0
+  player2:
+    team: SK
+    position: Fourth
+    percent: 82
+    win: 0
+    loss: 1
+  event: Brier
+  year: 2011
+  draw: Round Robin(17)
+  score: SK 3 - NO 6
+- player1:
+    team: 'NO'
+    position: Second
+    percent: 83
+    win: 1
+    loss: 0
+  player2:
+    team: AB
+    position: Third
+    percent: 85
+    win: 0
+    loss: 1
+  event: Brier
+  year: 2012
+  draw: Round Robin(10)
+  score: AB 6 - NO 7
+- player1:
+    team: 'NO'
+    position: Lead
+    percent: 98
+    win: 1
+    loss: 0
+  player2:
+    team: CA
+    position: Fourth
+    percent: 74
+    win: 0
+    loss: 1
+  event: Brier
+  year: 2015
+  draw: Round Robin(16)
+  score: NO 6 - CA 3
+- player1:
+    team: 'NO'
+    position: Lead
+    percent: 93
+    win: 0
+    loss: 1
+  player2:
+    team: CA
+    position: Fourth
+    percent: 93
+    win: 1
+    loss: 0
+  event: Brier
+  year: 2015
+  draw: Final(22)
+  score: CA 6 - NO 5
+- player1:
+    team: 'NO'
+    position: Lead
+    percent: 99
+    win: 1
+    loss: 0
+  player2:
+    team: CA
+    position: Fourth
+    percent: 82
+    win: 0
+    loss: 1
+  event: Brier
+  year: 2016
+  draw: Round Robin(7)
+  score: CA 6 - NO 10
+- player1:
+    team: JAC
+    position: Lead
+    percent: 86
+    win: 1
+    loss: 0
+  player2:
+    team: KOE
+    position: Third
+    percent: 84
+    win: 0
+    loss: 1
+  event: Trials (Men)
+  year: 2013
+  draw: Round Robin(8)
+  score: KOE 4 - JAC 9
 ---

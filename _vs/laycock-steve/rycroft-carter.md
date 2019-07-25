@@ -1,78 +1,94 @@
 ---
 title: Steve Laycock vs Carter Rycroft
-player1:               
-  name: Laycock, Steve 
-  percent: 78          
-  wins: 1              
-  losses: 3            
-player2:               
+player1:
+  name: Laycock, Steve
+  percent: 78
+  wins: 1
+  losses: 3
+player2:
   name: Rycroft, Carter
-  percent: 86          
-  wins: 3              
-  losses: 1            
+  percent: 86
+  wins: 3
+  losses: 1
 games:
- - player1:          
-     team: 'SK'      
-     position: Fourth
-     percent: 70     
-     win: 0          
-     loss: 1         
-   player2:          
-     team: 'AB'      
-     position: Second
-     percent: 81     
-     win: 1          
-     loss: 0         
-   event: Brier         
-   year: 2014           
-   draw: Round Robin(10)
-   score: AB 8 - SK 6   
- - player1:          
-     team: 'SK'      
-     position: Fourth
-     percent: 81     
-     win: 1          
-     loss: 0         
-   player2:          
-     team: 'CA'      
-     position: Second
-     percent: 84     
-     win: 0          
-     loss: 1         
-   event: Brier        
-   year: 2015          
-   draw: Round Robin(7)
-   score: CA 4 - SK 8  
- - player1:          
-     team: 'SK'      
-     position: Fourth
-     percent: 78     
-     win: 0          
-     loss: 1         
-   player2:          
-     team: 'CA'      
-     position: Second
-     percent: 92     
-     win: 1          
-     loss: 0         
-   event: Brier      
-   year: 2015        
-   draw: Page 3-4(19)
-   score: SK 7 - CA 8
- - player1:          
-     team: 'SK'      
-     position: Fourth
-     percent: 81     
-     win: 0          
-     loss: 1         
-   player2:          
-     team: 'CA'      
-     position: Second
-     percent: 86     
-     win: 1          
-     loss: 0         
-   event: Brier        
-   year: 2016          
-   draw: Round Robin(3)
-   score: SK 4 - CA 5  
+- player1:
+    team: SK
+    position: Fourth
+    percent: 70
+    win: 0
+    loss: 1
+  player2:
+    team: AB
+    position: Second
+    percent: 81
+    win: 1
+    loss: 0
+  event: Brier
+  year: 2014
+  draw: Round Robin(10)
+  score: AB 8 - SK 6
+- player1:
+    team: SK
+    position: Fourth
+    percent: 81
+    win: 1
+    loss: 0
+  player2:
+    team: CA
+    position: Second
+    percent: 84
+    win: 0
+    loss: 1
+  event: Brier
+  year: 2015
+  draw: Round Robin(7)
+  score: CA 4 - SK 8
+- player1:
+    team: SK
+    position: Fourth
+    percent: 78
+    win: 0
+    loss: 1
+  player2:
+    team: CA
+    position: Second
+    percent: 92
+    win: 1
+    loss: 0
+  event: Brier
+  year: 2015
+  draw: Page 3-4(19)
+  score: SK 7 - CA 8
+- player1:
+    team: SK
+    position: Fourth
+    percent: 81
+    win: 0
+    loss: 1
+  player2:
+    team: CA
+    position: Second
+    percent: 86
+    win: 1
+    loss: 0
+  event: Brier
+  year: 2016
+  draw: Round Robin(3)
+  score: SK 4 - CA 5
+- player1:
+    team: SIMM
+    position: Lead
+    percent: 79
+    win: 0
+    loss: 1
+  player2:
+    team: KOE
+    position: Second
+    percent: 81
+    win: 1
+    loss: 0
+  event: Trials (Men)
+  year: 2009
+  draw: Round Robin(1)
+  score: KOE 8 - SIMM 5
 ---

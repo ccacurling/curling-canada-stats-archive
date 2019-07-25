@@ -1,94 +1,126 @@
 ---
 title: Sherry Middaugh vs Cathy Overton-Clapham
-player1:                      
-  name: Middaugh, Sherry      
-  percent: 73                 
-  wins: 2                     
-  losses: 3                   
-player2:                      
+player1:
+  name: Middaugh, Sherry
+  percent: 73
+  wins: 2
+  losses: 3
+player2:
   name: Overton-Clapham, Cathy
-  percent: 79                 
-  wins: 3                     
-  losses: 2                   
+  percent: 79
+  wins: 3
+  losses: 2
 games:
- - player1:          
-     team: 'SK'      
-     position: Fourth
-     percent: 76     
-     win: 1          
-     loss: 0         
-   player2:         
-     team: 'CA'     
-     position: Third
-     percent: 79    
-     win: 0         
-     loss: 1        
-   event: Hearts        
-   year: 1996           
-   draw: Round Robin(13)
-   score: SK 6 - CA 5   
- - player1:          
-     team: 'SK'      
-     position: Fourth
-     percent: 62     
-     win: 0          
-     loss: 1         
-   player2:         
-     team: 'CA'     
-     position: Third
-     percent: 82    
-     win: 1         
-     loss: 0        
-   event: Hearts     
-   year: 1996        
-   draw: Page 3-4(21)
-   score: SK 4 - CA 7
- - player1:         
-     team: 'ON'     
-     position: Third
-     percent: 77    
-     win: 0         
-     loss: 1        
-   player2:         
-     team: 'MB'     
-     position: Third
-     percent: 83    
-     win: 1         
-     loss: 0        
-   event: Hearts        
-   year: 1999           
-   draw: Round Robin(10)
-   score: MB 9 - ON 8   
- - player1:          
-     team: 'ON'      
-     position: Fourth
-     percent: 82     
-     win: 1          
-     loss: 0         
-   player2:         
-     team: 'MB'     
-     position: Third
-     percent: 71    
-     win: 0         
-     loss: 1        
-   event: Hearts       
-   year: 2008          
-   draw: Round Robin(6)
-   score: ON 11 - MB 4 
- - player1:          
-     team: 'ON'      
-     position: Fourth
-     percent: 66     
-     win: 0          
-     loss: 1         
-   player2:         
-     team: 'MB'     
-     position: Third
-     percent: 81    
-     win: 1         
-     loss: 0        
-   event: Hearts       
-   year: 2008          
-   draw: Semi-Final(21)
-   score: ON 8 - MB 9  
+- player1:
+    team: SK
+    position: Fourth
+    percent: 76
+    win: 1
+    loss: 0
+  player2:
+    team: CA
+    position: Third
+    percent: 79
+    win: 0
+    loss: 1
+  event: Hearts
+  year: 1996
+  draw: Round Robin(13)
+  score: SK 6 - CA 5
+- player1:
+    team: SK
+    position: Fourth
+    percent: 62
+    win: 0
+    loss: 1
+  player2:
+    team: CA
+    position: Third
+    percent: 82
+    win: 1
+    loss: 0
+  event: Hearts
+  year: 1996
+  draw: Page 3-4(21)
+  score: SK 4 - CA 7
+- player1:
+    team: 'ON'
+    position: Third
+    percent: 77
+    win: 0
+    loss: 1
+  player2:
+    team: MB
+    position: Third
+    percent: 83
+    win: 1
+    loss: 0
+  event: Hearts
+  year: 1999
+  draw: Round Robin(10)
+  score: MB 9 - ON 8
+- player1:
+    team: 'ON'
+    position: Fourth
+    percent: 82
+    win: 1
+    loss: 0
+  player2:
+    team: MB
+    position: Third
+    percent: 71
+    win: 0
+    loss: 1
+  event: Hearts
+  year: 2008
+  draw: Round Robin(6)
+  score: ON 11 - MB 4
+- player1:
+    team: 'ON'
+    position: Fourth
+    percent: 66
+    win: 0
+    loss: 1
+  player2:
+    team: MB
+    position: Third
+    percent: 81
+    win: 1
+    loss: 0
+  event: Hearts
+  year: 2008
+  draw: Semi-Final(21)
+  score: ON 8 - MB 9
+- player1:
+    team: SCHE
+    position: Fourth
+    percent: 57
+    win: 0
+    loss: 1
+  player2:
+    team: LAL
+    position: Third
+    percent: 63
+    win: 1
+    loss: 0
+  event: Trials (Women)
+  year: 1997
+  draw: Round Robin(4)
+  score: SCHE 4 - LAL 6
+- player1:
+    team: MID
+    position: Fourth
+    percent: 74
+    win: 0
+    loss: 1
+  player2:
+    team: JJO
+    position: Third
+    percent: 83
+    win: 1
+    loss: 0
+  event: Trials (Women)
+  year: 2005
+  draw: Round Robin(7)
+  score: MID 8 - JJO 11
 ---

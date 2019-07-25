@@ -1,46 +1,62 @@
 ---
 title: Mathew Camm vs Braeden Moskowy
-player1:                
-  name: Camm, Mathew    
-  percent: 74           
-  wins: 2               
-  losses: 0             
-player2:                
+player1:
+  name: Camm, Mathew
+  percent: 74
+  wins: 2
+  losses: 0
+player2:
   name: Moskowy, Braeden
-  percent: 82           
-  wins: 0               
-  losses: 2             
+  percent: 82
+  wins: 0
+  losses: 2
 games:
- - player1:         
-     team: 'ON'     
-     position: Third
-     percent: 80    
-     win: 1         
-     loss: 0        
-   player2:         
-     team: 'MB'     
-     position: Third
-     percent: 80    
-     win: 0         
-     loss: 1        
-   event: Brier         
-   year: 2015           
-   draw: Round Robin(15)
-   score: MB 7 - ON 8   
- - player1:         
-     team: 'ON'     
-     position: Third
-     percent: 68    
-     win: 1         
-     loss: 0        
-   player2:         
-     team: 'MB'     
-     position: Third
-     percent: 85    
-     win: 0         
-     loss: 1        
-   event: Brier        
-   year: 2018          
-   draw: Round Robin(9)
-   score: MB 5 - ON 10 
+- player1:
+    team: 'ON'
+    position: Third
+    percent: 80
+    win: 1
+    loss: 0
+  player2:
+    team: MB
+    position: Third
+    percent: 80
+    win: 0
+    loss: 1
+  event: Brier
+  year: 2015
+  draw: Round Robin(15)
+  score: MB 7 - ON 8
+- player1:
+    team: 'ON'
+    position: Third
+    percent: 68
+    win: 1
+    loss: 0
+  player2:
+    team: MB
+    position: Third
+    percent: 85
+    win: 0
+    loss: 1
+  event: Brier
+  year: 2018
+  draw: Round Robin(9)
+  score: MB 5 - ON 10
+- player1:
+    team: Eppi
+    position: Third
+    percent: 85
+    win: 0
+    loss: 1
+  player2:
+    team: Carr
+    position: Third
+    percent: 93
+    win: 1
+    loss: 0
+  event: Trials (Men)
+  year: 2017
+  draw: Round Robin(9)
+  score: Carr 7 - Eppi 5
 ---
