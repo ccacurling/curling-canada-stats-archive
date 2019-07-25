@@ -48,6 +48,10 @@ h1 .fe-user-plus:hover {
   font-weight: bold;
 }
 
+#pvp td {
+  white-space: nowrap;
+}
+
 .vs {
   margin-left: 0.5em;
   line-height: 2rem;
