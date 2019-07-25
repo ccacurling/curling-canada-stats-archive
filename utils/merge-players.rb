@@ -16,9 +16,13 @@ Dir.glob(ARGV[0] + '*.md') do |new_file|
   new_yaml = YAML.load_file(new_file)
 
   local_file = local_players + '/' + filename
-  if File.file?(local_file) && new_yaml['aka'] == nil
+  local_yaml = nil
+  if File.file?(local_file)
     local_yaml = YAML.load_file(local_file)
+  end
 
+  # Merge regular records
+  if local_yaml != nil && local_yaml['aka'] == nil && new_yaml['aka'] == nil
     # totals
     for new_total in new_yaml['totals']
       replaced = false
@@ -59,7 +63,11 @@ Dir.glob(ARGV[0] + '*.md') do |new_file|
     end
 
     File.write(local_file, local_yaml.to_yaml)
-  else
+  # Copy new file, or update AKA record
+  elsif local_yaml == nil || (local_yaml['aka'] != nil && new_yaml['aka'] != nil)
     FileUtils.cp(new_file, local_file)
+  else
+    puts '[ERROR] attempting to merge AKA record with a regular record'
+    exit
   end
 end
