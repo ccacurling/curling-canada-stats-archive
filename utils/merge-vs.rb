@@ -39,7 +39,7 @@ Dir.glob(ARGV[0] + '**/*.md') do |new_file|
       end
     end
 
-    File.write(local_file, local_yaml.to_yaml)
+    File.write(local_file, local_yaml.to_yaml + '---')
   else
     FileUtils.cp(new_file, local_file)
   end

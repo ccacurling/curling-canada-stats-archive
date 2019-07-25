@@ -62,7 +62,7 @@ Dir.glob(ARGV[0] + '*.md') do |new_file|
       end
     end
 
-    File.write(local_file, local_yaml.to_yaml)
+    File.write(local_file, local_yaml.to_yaml + '---')
   # Copy new file, or update AKA record
   elsif local_yaml == nil || (local_yaml['aka'] != nil && new_yaml['aka'] != nil)
     FileUtils.cp(new_file, local_file)
