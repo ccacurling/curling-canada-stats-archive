@@ -29,6 +29,8 @@ require(['jquery'], function() {
       e.preventDefault();
       window.location.href = $('#vs-select select').val();
     });
+
+    $('#pvp > div' + window.location.hash).removeClass('d-none');
   });
 });
 
@@ -52,18 +54,20 @@ function updateVs() {
 
     path = $.map(vsPlayers.sort(), function(value) {
       return value.toLowerCase().replace(', ', '-');
-    }).join('/');
-
-    url = requirejs.toUrl('') + 'vs/' + path;
-    $.ajax(url, {
-      error: function() {
-        $('#vs-wrapper .avatar > span').attr('class', 'avatar-status bg-red');
-        $('#vs-status-fail').show();
-      },
-      success: function() {
-        $('#vs-wrapper .avatar > span').attr('class', 'avatar-status bg-green');
-        $('#vs-status-view').show().find('a').attr('href', url);
-      }
     });
+
+    url = requirejs.toUrl('') + 'vs/' + path.join('#');
+    $.ajax(url).done(
+      function(data, status) {
+        if(status == 'success' && data.indexOf('id="' + path[1] + '"') != -1) {
+          $('#vs-wrapper .avatar > span').attr('class', 'avatar-status bg-green');
+          $('#vs-status-view').show().find('a').attr('href', url);
+        }
+        else {
+          $('#vs-wrapper .avatar > span').attr('class', 'avatar-status bg-red');
+          $('#vs-status-fail').show();
+        }
+      }
+    );
   }
 }

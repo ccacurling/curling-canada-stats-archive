@@ -78,7 +78,7 @@ layout: default
 {% assign slug = page.name-sort | slugify %}
 {% for vs in opponents %}
 {% assign vs_slug = vs | slugify %}
-      <option value="/vs/{% if vs_slug < slug %}{{ vs_slug }}/{{ slug }}{% else %}{{ slug }}/{{ vs_slug }}{% endif %}">{{ vs }}</option>
+      <option value="/vs/{% if vs_slug < slug %}{{ vs_slug }}#{{ slug }}{% else %}{{ slug }}#{{ vs_slug }}{% endif %}">{{ vs }}</option>
 {% endfor %}
     </select>
   </div>
