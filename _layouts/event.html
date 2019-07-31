@@ -3,7 +3,7 @@ layout: default
 ---
 <h1>{{ page.title }}{% include no-detailed-stats.html event=page.title year=page.year %}</h1>
 <p class="font-italic">{{ page.location }}<br>{{ page.dates }}</p>
-{% unless page.title contains 'Trials' %}
+{% unless page.title contains 'Trials' or page.title contains 'Roar' %}
 <h2>Playoff Chart</h2>
 <p><img src="{{ site.baseurl }}/assets/images/playoffs/{{ page.collection }}/{{ page.year }}.jpg" /></p>
 {% endunless %}
@@ -90,7 +90,7 @@ layout: default
           <div class="card-status bg-yellow"></div>
           {% endif %}
           <div class="card-header">
-            <h3 class="card-title">{% if team.abbr == page.winner-team %}<i class="fe fe-award text-yellow" title="Event Winner"></i> {% endif %}{{ team.name }} ({% if page.title contains 'Trials' %}{{ team.abbr }}{% else %}<a href="team/{{ team.abbr | downcase }}">{{ team.abbr }}</a>{% endif %})</h3>
+            <h3 class="card-title">{% if team.abbr == page.winner-team %}<i class="fe fe-award text-yellow" title="Event Winner"></i> {% endif %}{{ team.name }} ({% if page.title contains 'Trials' or page.title contains 'Roar' %}{{ team.abbr }}{% else %}<a href="team/{{ team.abbr | downcase }}">{{ team.abbr }}</a>{% endif %})</h3>
             <div class="card-options">
               <a href="#" class="card-options-collapse" data-toggle="card-collapse"><i class="fe fe-chevron-up"></i></a>
             </div>
