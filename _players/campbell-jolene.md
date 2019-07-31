@@ -57,6 +57,7 @@ years:
   shots-total: 30
   shots-percent: 81
 - year: 2010
+  event: Hearts
   team: Totals
   games: 3
   wins: 2
@@ -106,6 +107,7 @@ years:
   shots-total: 20
   shots-percent: 80
 - year: 2011
+  event: Hearts
   team: Totals
   games: 3
   wins: 2

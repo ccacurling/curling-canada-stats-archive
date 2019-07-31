@@ -70,6 +70,7 @@ years:
    shots-total: 6
    shots-percent: 54
  - year: 2016
+   event: Hearts
    team: Totals
    games: 2
    wins: 1

@@ -104,6 +104,7 @@ years:
    shots-total: 6
    shots-percent: 50
  - year: 2010
+   event: Brier
    team: Totals
    games: 3
    wins: 1

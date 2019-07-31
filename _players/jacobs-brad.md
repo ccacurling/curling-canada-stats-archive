@@ -84,6 +84,7 @@ years:
   shots-total: 78
   shots-percent: 78
 - year: 2008
+  event: Brier
   team: Totals
   games: 5
   wins: 2

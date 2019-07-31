@@ -53,6 +53,7 @@ years:
    shots-total: 20
    shots-percent: 81
  - year: 1987
+   event: Hearts
    team: Totals
    games: 12
    wins: 7
@@ -119,6 +120,7 @@ years:
    shots-total: 20
    shots-percent: 76
  - year: 2001
+   event: Hearts
    team: Totals
    games: 10
    wins: 3

@@ -219,41 +219,9 @@ years:
   takeout-percent: 94
   shots-total: 152
   shots-percent: 88
-- year: 2017
+- &1
+  year: 2017
   event: Trials (Men)
-  team: Jaco
-  position: Lead
-  games: 7
-  wins: 3
-  losses: 4
-  inturn-total: 31
-  inturn-percent: 90
-  outturn-total: 99
-  outturn-percent: 88
-  draw-total: 110
-  draw-percent: 90
-  takeout-total: 20
-  takeout-percent: 79
-  shots-total: 130
-  shots-percent: 89
-- year: 2017
-  event: Trials (Men)
-  team: Jaco
-  position: Second
-  games: 1
-  wins: 0
-  losses: 1
-  inturn-total: 6
-  inturn-percent: 79
-  outturn-total: 8
-  outturn-percent: 72
-  draw-total: 9
-  draw-percent: 69
-  takeout-total: 5
-  takeout-percent: 85
-  shots-total: 14
-  shots-percent: 75
-- year: 2017
   team: Totals
   games: 8
   wins: 3
@@ -268,6 +236,7 @@ years:
   takeout-percent: 80
   shots-total: 144
   shots-percent: 87
+- *1
 vs:
 - Abel, Clinton
 - Adam, Gerry

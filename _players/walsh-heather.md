@@ -34,41 +34,9 @@ years:
   event: Trials (Women)
   team: AND
   position: Alternate
-- year: 2005
+- &1
+  year: 2005
   event: Trials (Women)
-  team: AND
-  position: Lead
-  games: 1
-  wins: 1
-  losses: 0
-  inturn-total: 12
-  inturn-percent: 73
-  outturn-total: 10
-  outturn-percent: 90
-  draw-total: 15
-  draw-percent: 80
-  takeout-total: 7
-  takeout-percent: 82
-  shots-total: 22
-  shots-percent: 81
-- year: 2005
-  event: Trials (Women)
-  team: AND
-  position: Second
-  games: 8
-  wins: 4
-  losses: 4
-  inturn-total: 80
-  inturn-percent: 81
-  outturn-total: 82
-  outturn-percent: 77
-  draw-total: 77
-  draw-percent: 76
-  takeout-total: 85
-  takeout-percent: 82
-  shots-total: 162
-  shots-percent: 79
-- year: 2005
   team: Totals
   games: 9
   wins: 5
@@ -83,6 +51,7 @@ years:
   takeout-percent: 82
   shots-total: 184
   shots-percent: 79
+- *1
 vs:
 - Arsenault, Mary-Anne
 - Bakker, Glenys

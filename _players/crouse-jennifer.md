@@ -70,6 +70,7 @@ years:
    shots-total: 18
    shots-percent: 74
  - year: 2010
+   event: Hearts
    team: Totals
    games: 11
    wins: 1

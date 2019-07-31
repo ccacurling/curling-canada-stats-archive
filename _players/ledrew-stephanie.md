@@ -70,6 +70,7 @@ years:
    shots-total: 12
    shots-percent: 67
  - year: 2013
+   event: Hearts
    team: Totals
    games: 3
    wins: 3

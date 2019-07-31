@@ -57,6 +57,7 @@ years:
   shots-total: 58
   shots-percent: 62
 - year: 1999
+  event: Hearts
   team: Totals
   games: 11
   wins: 3

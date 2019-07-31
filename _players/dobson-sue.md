@@ -70,6 +70,7 @@ years:
    shots-total: 18
    shots-percent: 78
  - year: 2004
+   event: Hearts
    team: Totals
    games: 3
    wins: 0

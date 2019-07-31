@@ -53,6 +53,7 @@ years:
    shots-total: 16
    shots-percent: 83
  - year: 2016
+   event: Hearts
    team: Totals
    games: 2
    wins: 1
@@ -102,6 +103,7 @@ years:
    shots-total: 6
    shots-percent: 88
  - year: 2018
+   event: Hearts
    team: Totals
    games: 2
    wins: 1

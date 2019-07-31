@@ -67,6 +67,7 @@ years:
   shots-total: 136
   shots-percent: 75
 - year: 1989
+  event: Hearts
   team: Totals
   games: 13
   wins: 8

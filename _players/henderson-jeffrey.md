@@ -53,6 +53,7 @@ years:
    shots-total: 14
    shots-percent: 75
  - year: 1992
+   event: Brier
    team: Totals
    games: 11
    wins: 1

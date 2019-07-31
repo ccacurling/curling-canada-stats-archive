@@ -152,6 +152,7 @@ years:
   shots-total: 20
   shots-percent: 88
 - year: 2003
+  event: Hearts
   team: Totals
   games: 12
   wins: 10
@@ -302,41 +303,9 @@ years:
   takeout-percent: 87
   shots-total: 188
   shots-percent: 83
-- year: 2005
+- &1
+  year: 2005
   event: Trials (Women)
-  team: CJO
-  position: Second
-  games: 5
-  wins: 2
-  losses: 3
-  inturn-total: 55
-  inturn-percent: 85
-  outturn-total: 41
-  outturn-percent: 80
-  draw-total: 33
-  draw-percent: 88
-  takeout-total: 63
-  takeout-percent: 80
-  shots-total: 96
-  shots-percent: 83
-- year: 2005
-  event: Trials (Women)
-  team: CJO
-  position: Third
-  games: 4
-  wins: 1
-  losses: 3
-  inturn-total: 32
-  inturn-percent: 87
-  outturn-total: 46
-  outturn-percent: 85
-  draw-total: 39
-  draw-percent: 85
-  takeout-total: 39
-  takeout-percent: 87
-  shots-total: 78
-  shots-percent: 86
-- year: 2005
   team: Totals
   games: 9
   wins: 3
@@ -351,6 +320,7 @@ years:
   takeout-percent: 83
   shots-total: 174
   shots-percent: 84
+- *1
 vs:
 - Affleck, Tricia
 - Aleksic, Shannon

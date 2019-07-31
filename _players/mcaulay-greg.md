@@ -66,41 +66,9 @@ years:
   takeout-percent: 84
   shots-total: 228
   shots-percent: 81
-- year: 2001
+- &1
+  year: 2001
   event: Trials (Men)
-  team: MCA
-  position: Third
-  games: 2
-  wins: 1
-  losses: 1
-  inturn-total: 15
-  inturn-percent: 85
-  outturn-total: 25
-  outturn-percent: 76
-  draw-total: 15
-  draw-percent: 67
-  takeout-total: 25
-  takeout-percent: 87
-  shots-total: 40
-  shots-percent: 79
-- year: 2001
-  event: Trials (Men)
-  team: MCA
-  position: Fourth
-  games: 7
-  wins: 1
-  losses: 6
-  inturn-total: 43
-  inturn-percent: 65
-  outturn-total: 65
-  outturn-percent: 70
-  draw-total: 56
-  draw-percent: 68
-  takeout-total: 52
-  takeout-percent: 67
-  shots-total: 108
-  shots-percent: 68
-- year: 2001
   team: Totals
   games: 9
   wins: 2
@@ -115,6 +83,7 @@ years:
   takeout-percent: 74
   shots-total: 148
   shots-percent: 71
+- *1
 vs:
 - Adams, Shawn
 - Alexander, Scott

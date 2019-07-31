@@ -186,6 +186,7 @@ years:
   shots-total: 180
   shots-percent: 85
 - year: 2015
+  event: Brier
   team: Totals
   games: 14
   wins: 10

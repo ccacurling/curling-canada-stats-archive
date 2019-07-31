@@ -53,6 +53,7 @@ years:
    shots-total: 20
    shots-percent: 81
  - year: 1988
+   event: Brier
    team: Totals
    games: 11
    wins: 1
@@ -102,6 +103,7 @@ years:
    shots-total: 20
    shots-percent: 61
  - year: 1989
+   event: Brier
    team: Totals
    games: 2
    wins: 0

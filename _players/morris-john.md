@@ -186,6 +186,7 @@ years:
   shots-total: 100
   shots-percent: 80
 - year: 2015
+  event: Brier
   team: Totals
   games: 14
   wins: 10
@@ -302,41 +303,9 @@ years:
   takeout-percent: 86
   shots-total: 180
   shots-percent: 85
-- year: 2017
+- &1
+  year: 2017
   event: Trials (Men)
-  team: Morr
-  position: Third
-  games: 3
-  wins: 2
-  losses: 1
-  inturn-total: 23
-  inturn-percent: 85
-  outturn-total: 39
-  outturn-percent: 88
-  draw-total: 27
-  draw-percent: 83
-  takeout-total: 35
-  takeout-percent: 89
-  shots-total: 62
-  shots-percent: 87
-- year: 2017
-  event: Trials (Men)
-  team: Morr
-  position: Fourth
-  games: 5
-  wins: 1
-  losses: 4
-  inturn-total: 52
-  inturn-percent: 82
-  outturn-total: 44
-  outturn-percent: 79
-  draw-total: 46
-  draw-percent: 79
-  takeout-total: 50
-  takeout-percent: 82
-  shots-total: 96
-  shots-percent: 80
-- year: 2017
   team: Totals
   games: 8
   wins: 3
@@ -351,6 +320,7 @@ years:
   takeout-percent: 85
   shots-total: 158
   shots-percent: 83
+- *1
 vs:
 - Adam, Gerry
 - Adams, Shawn

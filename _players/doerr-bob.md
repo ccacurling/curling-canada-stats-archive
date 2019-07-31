@@ -70,6 +70,7 @@ years:
    shots-total: 20
    shots-percent: 75
  - year: 1997
+   event: Brier
    team: Totals
    games: 3
    wins: 0

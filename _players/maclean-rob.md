@@ -74,6 +74,7 @@ years:
    shots-total: 62
    shots-percent: 81
  - year: 1990
+   event: Brier
    team: Totals
    games: 10
    wins: 4

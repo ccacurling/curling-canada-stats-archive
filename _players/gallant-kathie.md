@@ -70,6 +70,7 @@ years:
    shots-total: 20
    shots-percent: 73
  - year: 1984
+   event: Hearts
    team: Totals
    games: 3
    wins: 1

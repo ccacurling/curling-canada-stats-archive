@@ -53,6 +53,7 @@ years:
    shots-total: 76
    shots-percent: 78
  - year: 2001
+   event: Trials (Men)
    team: Totals
    games: 7
    wins: 1

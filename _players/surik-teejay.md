@@ -53,6 +53,7 @@ years:
    shots-total: 117
    shots-percent: 70
  - year: 2008
+   event: Hearts
    team: Totals
    games: 11
    wins: 1

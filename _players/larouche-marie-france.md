@@ -84,6 +84,7 @@ years:
   shots-total: 20
   shots-percent: 65
 - year: 2000
+  event: Hearts
   team: Totals
   games: 3
   wins: 1
@@ -242,41 +243,9 @@ years:
   takeout-percent: 73
   shots-total: 174
   shots-percent: 72
-- year: 2005
+- &1
+  year: 2005
   event: Trials (Women)
-  team: LAR
-  position: Third
-  games: 3
-  wins: 1
-  losses: 2
-  inturn-total: 21
-  inturn-percent: 75
-  outturn-total: 39
-  outturn-percent: 78
-  draw-total: 33
-  draw-percent: 76
-  takeout-total: 27
-  takeout-percent: 79
-  shots-total: 60
-  shots-percent: 77
-- year: 2005
-  event: Trials (Women)
-  team: LAR
-  position: Fourth
-  games: 6
-  wins: 0
-  losses: 6
-  inturn-total: 43
-  inturn-percent: 68
-  outturn-total: 60
-  outturn-percent: 70
-  draw-total: 52
-  draw-percent: 73
-  takeout-total: 51
-  takeout-percent: 65
-  shots-total: 103
-  shots-percent: 69
-- year: 2005
   team: Totals
   games: 9
   wins: 1
@@ -291,6 +260,7 @@ years:
   takeout-percent: 70
   shots-total: 163
   shots-percent: 72
+- *1
 vs:
 - Affleck, Tricia
 - Anderson, Sherry

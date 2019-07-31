@@ -312,41 +312,9 @@ years:
   takeout-percent: 84
   shots-total: 187
   shots-percent: 82
-- year: 2005
+- &1
+  year: 2005
   event: Trials (Women)
-  team: CJO
-  position: Second
-  games: 4
-  wins: 1
-  losses: 3
-  inturn-total: 35
-  inturn-percent: 86
-  outturn-total: 43
-  outturn-percent: 79
-  draw-total: 39
-  draw-percent: 87
-  takeout-total: 39
-  takeout-percent: 77
-  shots-total: 78
-  shots-percent: 82
-- year: 2005
-  event: Trials (Women)
-  team: CJO
-  position: Third
-  games: 5
-  wins: 2
-  losses: 3
-  inturn-total: 45
-  inturn-percent: 78
-  outturn-total: 50
-  outturn-percent: 84
-  draw-total: 41
-  draw-percent: 79
-  takeout-total: 54
-  takeout-percent: 82
-  shots-total: 95
-  shots-percent: 81
-- year: 2005
   team: Totals
   games: 9
   wins: 3
@@ -361,6 +329,7 @@ years:
   takeout-percent: 80
   shots-total: 173
   shots-percent: 81
+- *1
 vs:
 - Adams, Diane
 - Affleck, Tricia

@@ -87,6 +87,7 @@ years:
    shots-total: 6
    shots-percent: 71
  - year: 2015
+   event: Hearts
    team: Totals
    games: 2
    wins: 0

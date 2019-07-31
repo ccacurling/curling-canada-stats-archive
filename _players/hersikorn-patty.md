@@ -53,6 +53,7 @@ years:
    shots-total: 2
    shots-percent: 50
  - year: 2013
+   event: Hearts
    team: Totals
    games: 2
    wins: 2
