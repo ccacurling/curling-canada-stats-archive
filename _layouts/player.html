@@ -20,7 +20,7 @@ layout: default
 {% else %}
   <td><a href="../{{ year.event | slugify }}/{{ year.year }}">{{ year.year }}</a>{% include no-detailed-stats.html event=year.event year=year.year %}</td>
   <td><a href="../{{ year.event | slugify }}">{{ year.event }}</a></td>
-  <td data-order="{{ year.team }}"><a href="../{{ year.event | slugify }}/team/{{ year.team | downcase }}">{{ year.team }}</a></td>
+  <td data-order="{{ year.team }}">{% if year.event contains 'Trials' %}{{ year.team }}{% else %}<a href="../{{ year.event | slugify }}/team/{{ year.team | downcase }}">{{ year.team }}</a>{% endif %}</td>
 {% endif %}
   <td data-order="
 {% if year.position == "Fourth" %}0
