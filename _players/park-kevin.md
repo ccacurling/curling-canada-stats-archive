@@ -134,8 +134,41 @@ years:
   takeout-percent: 80
   shots-total: 162
   shots-percent: 73
-- &1
-  year: 2001
+- year: 2001
+  event: Trials (Men)
+  team: PAR
+  position: Third
+  games: 4
+  wins: 1
+  losses: 3
+  inturn-total: 36
+  inturn-percent: 72
+  outturn-total: 38
+  outturn-percent: 63
+  draw-total: 45
+  draw-percent: 64
+  takeout-total: 29
+  takeout-percent: 73
+  shots-total: 74
+  shots-percent: 68
+- year: 2001
+  event: Trials (Men)
+  team: PAR
+  position: Fourth
+  games: 4
+  wins: 1
+  losses: 3
+  inturn-total: 36
+  inturn-percent: 80
+  outturn-total: 36
+  outturn-percent: 78
+  draw-total: 29
+  draw-percent: 76
+  takeout-total: 43
+  takeout-percent: 81
+  shots-total: 72
+  shots-percent: 79
+- year: 2001
   event: Trials (Men)
   team: Totals
   games: 8
@@ -151,7 +184,6 @@ years:
   takeout-percent: 78
   shots-total: 146
   shots-percent: 73
-- *1
 - year: 2009
   event: Trials (Men)
   team: STOU

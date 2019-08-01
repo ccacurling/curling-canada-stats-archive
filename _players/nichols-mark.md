@@ -304,8 +304,41 @@ years:
   takeout-percent: 82
   shots-total: 191
   shots-percent: 84
-- &1
-  year: 2013
+- year: 2013
+  event: Trials (Men)
+  team: STO
+  position: Lead
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 58
+  inturn-percent: 90
+  outturn-total: 52
+  outturn-percent: 94
+  draw-total: 100
+  draw-percent: 92
+  takeout-total: 10
+  takeout-percent: 90
+  shots-total: 110
+  shots-percent: 92
+- year: 2013
+  event: Trials (Men)
+  team: STO
+  position: Second
+  games: 1
+  wins: 1
+  losses: 0
+  inturn-total: 2
+  inturn-percent: 100
+  outturn-total: 4
+  outturn-percent: 75
+  draw-total: 2
+  draw-percent: 50
+  takeout-total: 4
+  takeout-percent: 100
+  shots-total: 6
+  shots-percent: 83
+- year: 2013
   event: Trials (Men)
   team: Totals
   games: 7
@@ -321,7 +354,6 @@ years:
   takeout-percent: 93
   shots-total: 116
   shots-percent: 91
-- *1
 - year: 2017
   event: Trials (Men)
   team: Gush

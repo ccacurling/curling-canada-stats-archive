@@ -151,8 +151,41 @@ years:
   takeout-percent: 81
   shots-total: 212
   shots-percent: 83
-- &1
-  year: 2013
+- year: 2013
+  event: Trials (Men)
+  team: STO
+  position: Lead
+  games: 1
+  wins: 1
+  losses: 0
+  inturn-total: 2
+  inturn-percent: 38
+  outturn-total: 8
+  outturn-percent: 75
+  draw-total: 10
+  draw-percent: 68
+  takeout-total: 0
+  takeout-percent: 
+  shots-total: 10
+  shots-percent: 68
+- year: 2013
+  event: Trials (Men)
+  team: STO
+  position: Second
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 52
+  inturn-percent: 84
+  outturn-total: 60
+  outturn-percent: 86
+  draw-total: 62
+  draw-percent: 81
+  takeout-total: 50
+  takeout-percent: 91
+  shots-total: 112
+  shots-percent: 85
+- year: 2013
   event: Trials (Men)
   team: Totals
   games: 7
@@ -168,7 +201,6 @@ years:
   takeout-percent: 91
   shots-total: 122
   shots-percent: 84
-- *1
 - year: 2017
   event: Trials (Men)
   team: Carr

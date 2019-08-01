@@ -202,8 +202,41 @@ years:
   takeout-percent: 87
   shots-total: 175
   shots-percent: 86
-- &1
-  year: 2017
+- year: 2017
+  event: Trials (Men)
+  team: Morr
+  position: Third
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 53
+  inturn-percent: 90
+  outturn-total: 47
+  outturn-percent: 81
+  draw-total: 56
+  draw-percent: 87
+  takeout-total: 44
+  takeout-percent: 84
+  shots-total: 100
+  shots-percent: 86
+- year: 2017
+  event: Trials (Men)
+  team: Morr
+  position: Fourth
+  games: 3
+  wins: 2
+  losses: 1
+  inturn-total: 31
+  inturn-percent: 86
+  outturn-total: 30
+  outturn-percent: 85
+  draw-total: 30
+  draw-percent: 85
+  takeout-total: 31
+  takeout-percent: 86
+  shots-total: 61
+  shots-percent: 86
+- year: 2017
   event: Trials (Men)
   team: Totals
   games: 8
@@ -219,7 +252,6 @@ years:
   takeout-percent: 85
   shots-total: 161
   shots-percent: 86
-- *1
 vs:
 - Adam, Gerry
 - Adams, Shawn

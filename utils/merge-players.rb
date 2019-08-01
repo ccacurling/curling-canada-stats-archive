@@ -43,7 +43,7 @@ Dir.glob(ARGV[0] + '*.md') do |new_file|
       replaced = false
       local_yaml['years'].each_with_index {
         |local_year, index|
-        if local_year['event'] == new_year['event'] && local_year['year'] == new_year['year'] && local_year['poisition'] == new_year['position']
+        if local_year['event'] == new_year['event'] && local_year['year'] == new_year['year'] && local_year['position'] == new_year['position']
           local_yaml['years'][index] = new_year
           replaced = true
         end
