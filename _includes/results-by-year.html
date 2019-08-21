@@ -13,7 +13,7 @@
     <td><a href="{{ site.baseurl }}{{ event.url }}">{{ event.year }}</a></td>
     <td>{{ event.sponsor }}</td>
     <td>{{ event.location }}</td>
-    <td><a href="{{ site.baseurl }}/{{ include.event | downcase }}/team/{{ event.winner-team | downcase }}">{{ event.winner-team }}</a> (<a href="{{ site.baseurl }}/players/{{ event.winner-skip | slugify }}">{{ event.winner-skip }}</a>)</td>
+    <td>{% if page.title contains 'Trials' %}{{ event.winner-team }}{% else %}<a href="{{ site.baseurl }}/{{ include.event | downcase }}/team/{{ event.winner-team | downcase }}">{{ event.winner-team }}</a>{% endif %} (<a href="{{ site.baseurl }}/players/{{ event.winner-skip | slugify }}">{{ event.winner-skip }}</a>)</td>
   </tr>
 {% endfor %}
   </tbody>
