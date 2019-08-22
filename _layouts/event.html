@@ -3,10 +3,8 @@ layout: default
 ---
 <h1>{{ page.title }}{% include no-detailed-stats.html event=page.title year=page.year %}</h1>
 <p class="font-italic">{{ page.location }}<br>{{ page.dates }}</p>
-{% unless page.title contains 'Trials' or page.title contains 'Roar' %}
 <h2>Playoff Chart</h2>
 <p><img src="{{ site.baseurl }}/assets/images/playoffs/{{ page.collection }}/{{ page.year }}.jpg" /></p>
-{% endunless %}
 <h2>Championship Final</h2>
 {% assign final = page.draws.last.games.last %}
 <div class="col-lg-6">
