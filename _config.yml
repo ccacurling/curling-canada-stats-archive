@@ -21,16 +21,23 @@ url: "https://stats.curling.io" # the base hostname & protocol for your site, e.
 # Build settings
 markdown: kramdown
 
+collections_dir: collections
 collections:
-  players:
-    output: true
-    permalink: /players/:path
   brier:
     output: true
     permalink: /brier/:path
+  brier-teams:
+    output: true
+    permalink: /brier/team/:path
   hearts:
     output: true
     permalink: /hearts/:path
+  hearts-teams:
+    output: true
+    permalink: /hearts/team/:path
+  players:
+    output: true
+    permalink: /players/:path
   trials-men:
     output: true
     permalink: /trials-men/:path
@@ -40,19 +47,8 @@ collections:
   vs:
     output: true
     permalink: /vs/:path
-  brier-teams:
-    output: true
-    permalink: /brier/team/:path
-  hearts-teams:
-    output: true
-    permalink: /hearts/team/:path
 
 defaults:
-  - scope:
-      path: ""
-      type: "players"
-    values:
-      layout: player
   - scope:
       path: ""
       type: "brier"
@@ -60,9 +56,24 @@ defaults:
       layout: event
   - scope:
       path: ""
+      type: "brier-teams"
+    values:
+      layout: brier-team
+  - scope:
+      path: ""
       type: "hearts"
     values:
       layout: event
+  - scope:
+      path: ""
+      type: "hearts-teams"
+    values:
+      layout: hearts-team
+  - scope:
+      path: ""
+      type: "players"
+    values:
+      layout: player
   - scope:
       path: ""
       type: "trials-men"
@@ -78,16 +89,6 @@ defaults:
       type: "vs"
     values:
       layout: vs
-  - scope:
-      path: ""
-      type: "brier-teams"
-    values:
-      layout: brier-team
-  - scope:
-      path: ""
-      type: "hearts-teams"
-    values:
-      layout: hearts-team
 exclude:
   - Gemfile
   - Gemfile.lock
