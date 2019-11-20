@@ -1,15 +1,15 @@
 require(['lunr'], function(lunr) {
   $(document).ready(function () {
 
-    $.getJSON('/players.json').done(function(data) {
-      window.players = data;
+    $.getJSON('/index/players.json').done(function(data) {
+      window.players = data.players;
       window.idx = lunr(function() {
         this.ref('id');
         this.field('name');
 
         var idx = this;
-        $.each(data, function(key, value) {
-          idx.add($.extend({"id": key}, value));
+        $.each(data.players, function(i, player) {
+          idx.add({"id": player.id, "name": player.name});
         });
       });
     });
@@ -34,7 +34,7 @@ require(['lunr'], function(lunr) {
         $('#search-results-none').hide();
         players.forEach(function(player) {
           var id = player.ref;
-          results.append('<a class="dropdown-item" href="/players/' + id + '">' + window.players[id].name + '</a>');
+          results.append('<a class="dropdown-item" href="/players/' + id + '">' + window.players.find(p => p.id === id).name + '</a>');
         });
       }
       else {

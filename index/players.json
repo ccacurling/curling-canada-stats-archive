@@ -1,0 +1,16 @@
+---
+layout: null
+---
+{"players":[
+{%- assign players = site.players | sort: 'name-sort' -%}
+{%- for player in players -%}
+  {%- if player.aka -%}
+{"id":"{{ player.name-sort | slugify }}","name":"{{ player.name }}","name-sort":"{{ player.name-sort }}","aka":"{{ player.aka }}"}
+  {%- else -%}
+    {%- for total in player.totals -%}
+{"id":"{{ player.name-sort | slugify }}","name":"{{ player.name }}","name-sort":"{{ player.name-sort }}","event":"{{ total.event }}","stats":["{{ total.games }}","{{ total.wins }}","{{ total.losses }}","{{ total.inturn-total }}","{{ total.inturn-percent }}","{{ total.outturn-total }}","{{ total.outturn-percent }}","{{ total.draw-total }}","{{ total.draw-percent }}","{{ total.takeout-total }}","{{ total.takeout-percent }}","{{ total.shots-total }}","{{ total.shots-percent }}"]}{%- if forloop.last == false -%},{%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
+  {%- if forloop.last == false -%},{%- endif -%}
+{%- endfor -%}
+]}
