@@ -130,6 +130,7 @@ vs:
  - Eyamie, Lisa
  - Ferguson, Dana
  - Flaxey, Allison
+ - Fleury, Tracy
  - Foster, Kristen
  - Fullerton, Sarah
  - Galusha, Kerry
@@ -137,7 +138,6 @@ vs:
  - Hastings, Julie
  - Holtby, Taryn
  - Homan, Rachel
- - Horgan, Tracy
  - Hughes, Meaghan
  - Iskiw, Beth
  - Johnston, Kara

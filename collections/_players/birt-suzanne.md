@@ -268,6 +268,7 @@ vs:
  - Fisher, Alana
  - Fister, Teri
  - Fister, Toni
+ - Fleury, Tracy
  - Fowler, Lois
  - Freeman, Lisa
  - Fyfe, Liz
@@ -303,7 +304,6 @@ vs:
  - Hollands, Saskia
  - Holtby, Taryn
  - Homan, Rachel
- - Horgan, Tracy
  - Horne, Kate
  - Howard, Ashley
  - Hunkin, Jessie

@@ -266,6 +266,7 @@ vs:
 - Englot, Michelle
 - Farrell, Allison
 - Filteau, Anne-Marie
+- Fleury, Tracy
 - Floyd, Kathy
 - Fortin, Sylvie
 - Fowler, Lois
@@ -291,7 +292,6 @@ vs:
 - Homan, Rachel
 - Hooper Perroud, Jane
 - Hopkins, Heather
-- Horgan, Tracy
 - Horte, Rhonda
 - Johnston, Kara
 - Jones, Colleen

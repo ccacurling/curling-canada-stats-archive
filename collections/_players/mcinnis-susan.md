@@ -253,6 +253,7 @@ vs:
  - Fisher, Alana
  - Fister, Teri
  - Fister, Toni
+ - Fleury, Tracy
  - Floyd, Kathy
  - Fortin, Sylvie
  - Fowler, Lois
@@ -288,7 +289,6 @@ vs:
  - Homan, Rachel
  - Hooper Perroud, Jane
  - Hopkins, Heather
- - Horgan, Tracy
  - Horne, Kate
  - Houston, Heather
  - Hunt, Donna

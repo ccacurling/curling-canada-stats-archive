@@ -246,6 +246,7 @@ vs:
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Flannigan, Lorraine
+ - Fleury, Tracy
  - Floyd, Kathy
  - Fortier, Marie-Josee
  - Frey, Audrey
@@ -271,7 +272,6 @@ vs:
  - Holowec, Ainsley
  - Holtby, Taryn
  - Homan, Rachel
- - Horgan, Tracy
  - Horte, Rhonda
  - Iskiw, Beth
  - Johnston, Kara

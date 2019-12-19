@@ -272,6 +272,7 @@ vs:
  - Fister, Teri
  - Fister, Toni
  - Flaxey, Allison
+ - Fleury, Tracy
  - Floyd, Kathy
  - Fortier, Marie-Josee
  - Foster, Kristen
@@ -303,7 +304,6 @@ vs:
  - Holland, Amber
  - Homan, Rachel
  - Hooper Perroud, Jane
- - Horgan, Tracy
  - Horne, Kate
  - Iskiw, Beth
  - Jackson, Virginia

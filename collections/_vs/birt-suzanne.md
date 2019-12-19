@@ -2078,6 +2078,34 @@ vs:
       year: 2003           
       draw: Round Robin(14)
       score: PE 9 - BC 3   
+ - name: Fleury, Tracy
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 81   
+        wins: 1       
+        losses: 0     
+      player2:        
+        percent: 72   
+        wins: 0       
+        losses: 1     
+   games:
+    - player1:          
+        team: 'PE'      
+        position: Fourth
+        percent: 81     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NO'      
+        position: Fourth
+        percent: 72     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 2015          
+      draw: Round Robin(5)
+      score: NO 5 - PE 7  
  - name: Forward, Katie
    totals:             
     - event: Hearts    
@@ -3378,34 +3406,6 @@ vs:
       year: 2019        
       draw: Pool(18)    
       score: PE 6 - ON 7
- - name: Horgan, Tracy
-   totals:            
-    - event: Hearts   
-      player1:        
-        percent: 81   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 72   
-        wins: 0       
-        losses: 1     
-   games:
-    - player1:          
-        team: 'PE'      
-        position: Fourth
-        percent: 81     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'NO'      
-        position: Fourth
-        percent: 72     
-        win: 0          
-        loss: 1         
-      event: Hearts       
-      year: 2015          
-      draw: Round Robin(5)
-      score: NO 5 - PE 7  
  - name: Horne, Kate
    totals:          
     - event: Hearts 

@@ -106,6 +106,7 @@ vs:
  - Ellis, Danielle
  - Filteau, Anne-Marie
  - Flaxey, Allison
+ - Fleury, Tracy
  - Foster, Kristen
  - Gannon, Melissa
  - Gates, Amanda
@@ -114,7 +115,6 @@ vs:
  - Hastings, Julie
  - Holland, Amber
  - Homan, Rachel
- - Horgan, Tracy
  - Jewer, Michelle
  - Jones, Jennifer
  - Joyce, Blisse

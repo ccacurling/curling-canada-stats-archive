@@ -135,6 +135,7 @@ vs:
 - Dolan, Sinead
 - Farrell, Allison
 - Filteau, Anne-Marie
+- Fleury, Tracy
 - Floyd, Kathy
 - Galusha, Kerry
 - Gates, Amanda
@@ -144,7 +145,6 @@ vs:
 - Harvey, Alison
 - Holland, Amber
 - Holowec, Ainsley
-- Horgan, Tracy
 - Iskiw, Beth
 - Jenkins, Sandra
 - Jones, Colleen

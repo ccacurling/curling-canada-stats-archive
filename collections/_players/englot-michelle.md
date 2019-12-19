@@ -303,6 +303,7 @@ vs:
 - Farrell, Allison
 - Fast, Lois
 - Filteau, Anne-Marie
+- Fleury, Tracy
 - Floyd, Kathy
 - Fullerton, Sarah
 - Gabriele, Elena
@@ -329,7 +330,6 @@ vs:
 - Holland, Amber
 - Holowec, Ainsley
 - Homan, Rachel
-- Horgan, Tracy
 - Houston, Heather
 - Hughes, Meaghan
 - Hunt, Donna

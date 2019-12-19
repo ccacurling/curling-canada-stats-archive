@@ -162,6 +162,7 @@ vs:
 - Ferguson, Dana
 - Filteau, Anne-Marie
 - Fisher, Alana
+- Fleury, Tracy
 - Foster, Kristen
 - Fowler, Lois
 - Freeman, Lisa
@@ -181,7 +182,6 @@ vs:
 - Hodson, Kim
 - Holland, Amber
 - Homan, Rachel
-- Horgan, Tracy
 - Horte, Rhonda
 - Hunter, Lana
 - Iskiw, Beth

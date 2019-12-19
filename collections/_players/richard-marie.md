@@ -102,6 +102,7 @@ vs:
  - Englot, Michelle
  - Ferguson, Dana
  - Filteau, Anne-Marie
+ - Fleury, Tracy
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
@@ -112,7 +113,6 @@ vs:
  - Harmark, Andra
  - Hastings, Julie
  - Homan, Rachel
- - Horgan, Tracy
  - Howard, Ashley
  - Hughes, Meaghan
  - Jones, Jennifer

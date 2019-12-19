@@ -187,6 +187,7 @@ vs:
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Flaxey, Allison
+ - Fleury, Tracy
  - Foster, Kristen
  - Fraser, Sherry
  - Fullerton, Sarah
@@ -204,7 +205,6 @@ vs:
  - Hollands, Saskia
  - Holtby, Taryn
  - Homan, Rachel
- - Horgan, Tracy
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Colleen

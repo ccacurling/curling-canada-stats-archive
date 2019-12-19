@@ -3114,14 +3114,30 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 68
+      percent: 74
       wins: 0
-      losses: 1
+      losses: 2
     player2:
-      percent: 97
-      wins: 1
+      percent: 89
+      wins: 2
       losses: 0
   games:
+  - player1:
+      team: SK
+      position: Third
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: 'NO'
+      position: Fourth
+      percent: 83
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2015
+    draw: Round Robin(13)
+    score: SK 5 - NO 6
   - player1:
       team: SK
       position: Fourth
@@ -4365,34 +4381,6 @@ vs:
     year: 2013
     draw: Round Robin(12)
     score: LAW 5 - HOM 6
-- name: Horgan, Tracy
-  totals:
-  - event: Hearts
-    player1:
-      percent: 80
-      wins: 0
-      losses: 1
-    player2:
-      percent: 83
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: SK
-      position: Third
-      percent: 80
-      win: 0
-      loss: 1
-    player2:
-      team: 'NO'
-      position: Fourth
-      percent: 83
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2015
-    draw: Round Robin(13)
-    score: SK 5 - NO 6
 - name: Horne, Kate
   totals:
   - event: Hearts

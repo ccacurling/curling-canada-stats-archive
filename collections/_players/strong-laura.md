@@ -212,6 +212,7 @@ vs:
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Flaxey, Allison
+ - Fleury, Tracy
  - Floyd, Kathy
  - Fortier, Marie-Josee
  - Foster, Kristen
@@ -235,7 +236,6 @@ vs:
  - Hollands, Saskia
  - Holowec, Ainsley
  - Homan, Rachel
- - Horgan, Tracy
  - Inglis, Nancy
  - Iskiw, Beth
  - Jones, Colleen

@@ -151,6 +151,7 @@ vs:
 - Dolan, Sinead
 - Enright, Barb
 - Filteau, Anne-Marie
+- Fleury, Tracy
 - Gagnier, Monique
 - Galusha, Kerry
 - Gates, Amanda
@@ -161,7 +162,6 @@ vs:
 - Hardy, Shelley
 - Harrison, Meredith
 - Holland, Amber
-- Horgan, Tracy
 - Iskiw, Beth
 - Jones, Jennifer
 - Joyce, Blisse

@@ -80,11 +80,11 @@ vs:
  - Englot, Michelle
  - Ferguson, Dana
  - Filteau, Anne-Marie
+ - Fleury, Tracy
  - Gates, Amanda
  - Hastings, Julie
  - Holland, Amber
  - Homan, Rachel
- - Horgan, Tracy
  - Iskiw, Beth
  - Jones, Jennifer
  - Joyce, Blisse

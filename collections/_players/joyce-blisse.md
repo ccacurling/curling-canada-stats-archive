@@ -157,6 +157,7 @@ vs:
  - Fallis, Karen
  - Ferguson, Dana
  - Filteau, Anne-Marie
+ - Fleury, Tracy
  - Foster, Kristen
  - Fyfe, Liz
  - Galusha, Kerry
@@ -169,7 +170,6 @@ vs:
  - Hanna, Stephanie
  - Holland, Amber
  - Homan, Rachel
- - Horgan, Tracy
  - Howard, Ashley
  - Hughes, Meaghan
  - Iskiw, Beth

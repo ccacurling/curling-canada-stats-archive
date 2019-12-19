@@ -148,6 +148,7 @@ vs:
 - deSolla, Jodie
 - Farrell, Allison
 - Filteau, Anne-Marie
+- Fleury, Tracy
 - Fortier, Marie-Josee
 - Gagnier, Monique
 - Galusha, Kerry
@@ -162,7 +163,6 @@ vs:
 - Hastings, Julie
 - Hollands, Saskia
 - Homan, Rachel
-- Horgan, Tracy
 - Jones, Colleen
 - Jones, Jennifer
 - Kasner, Marliese

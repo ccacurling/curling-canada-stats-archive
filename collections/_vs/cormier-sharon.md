@@ -1138,6 +1138,34 @@ vs:
       year: 2003          
       draw: Round Robin(7)
       score: BC 10 - TR 8 
+ - name: Fleury, Tracy
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 61   
+        wins: 0       
+        losses: 1     
+      player2:        
+        percent: 81   
+        wins: 1       
+        losses: 0     
+   games:
+    - player1:          
+        team: 'TR'      
+        position: Fourth
+        percent: 61     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'ON'      
+        position: Fourth
+        percent: 81     
+        win: 1          
+        loss: 0         
+      event: Hearts        
+      year: 2012           
+      draw: Round Robin(11)
+      score: TR 2 - ON 12  
  - name: Floyd, Kathy
    totals:           
     - event: Hearts  
@@ -2486,34 +2514,6 @@ vs:
       year: 1998          
       draw: Round Robin(8)
       score: NS 10 - TR 6 
- - name: Horgan, Tracy
-   totals:            
-    - event: Hearts   
-      player1:        
-        percent: 61   
-        wins: 0       
-        losses: 1     
-      player2:        
-        percent: 81   
-        wins: 1       
-        losses: 0     
-   games:
-    - player1:          
-        team: 'TR'      
-        position: Fourth
-        percent: 61     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'ON'      
-        position: Fourth
-        percent: 81     
-        win: 1          
-        loss: 0         
-      event: Hearts        
-      year: 2012           
-      draw: Round Robin(11)
-      score: TR 2 - ON 12  
  - name: Horne, Kate
    totals:          
     - event: Hearts 

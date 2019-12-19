@@ -111,13 +111,13 @@ vs:
 - Dykstra, Michelle
 - Englot, Michelle
 - Filteau, Anne-Marie
+- Fleury, Tracy
 - Fullerton, Sarah
 - Galusha, Kerry
 - Gates, Amanda
 - Holland, Amber
 - Holtby, Taryn
 - Homan, Rachel
-- Horgan, Tracy
 - Johnston, Kara
 - Jones, Colleen
 - Jones, Jennifer

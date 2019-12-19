@@ -52,10 +52,10 @@ vs:
  - Cunningham, Jessica
  - Ferguson, Dana
  - Filteau, Anne-Marie
+ - Fleury, Tracy
  - Gates, Amanda
  - Hastings, Julie
  - Homan, Rachel
- - Horgan, Tracy
  - Jones, Jennifer
  - Kasner, Marliese
  - Korab, Stephanie

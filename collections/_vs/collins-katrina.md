@@ -142,6 +142,34 @@ vs:
       year: 2015          
       draw: Round Robin(6)
       score: ON 6 - QC 5  
+ - name: Fleury, Tracy
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 78   
+        wins: 0       
+        losses: 1     
+      player2:        
+        percent: 69   
+        wins: 1       
+        losses: 0     
+   games:
+    - player1:        
+        team: 'ON'    
+        position: Lead
+        percent: 78   
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'NO'      
+        position: Fourth
+        percent: 69     
+        win: 1          
+        loss: 0         
+      event: Hearts        
+      year: 2015           
+      draw: Round Robin(14)
+      score: NO 9 - ON 7   
  - name: Gates, Amanda
    totals:            
     - event: Hearts   
@@ -198,34 +226,6 @@ vs:
       year: 2015          
       draw: Round Robin(5)
       score: CA 10 - ON 7 
- - name: Horgan, Tracy
-   totals:            
-    - event: Hearts   
-      player1:        
-        percent: 78   
-        wins: 0       
-        losses: 1     
-      player2:        
-        percent: 69   
-        wins: 1       
-        losses: 0     
-   games:
-    - player1:        
-        team: 'ON'    
-        position: Lead
-        percent: 78   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'NO'      
-        position: Fourth
-        percent: 69     
-        win: 1          
-        loss: 0         
-      event: Hearts        
-      year: 2015           
-      draw: Round Robin(14)
-      score: NO 9 - ON 7   
  - name: Jones, Jennifer
    totals:              
     - event: Hearts     

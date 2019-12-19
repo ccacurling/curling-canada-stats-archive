@@ -3864,14 +3864,30 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 94
+      percent: 83
       wins: 2
-      losses: 0
+      losses: 1
     player2:
-      percent: 74
-      wins: 0
+      percent: 78
+      wins: 1
       losses: 2
   games:
+  - player1:
+      team: NS
+      position: Fourth
+      percent: 63
+      win: 0
+      loss: 1
+    player2:
+      team: 'NO'
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2015
+    draw: Round Robin(6)
+    score: NS 4 - NO 8
   - player1:
       team: NS
       position: Fourth
@@ -5944,34 +5960,6 @@ vs:
     year: 2015
     draw: Round Robin(12)
     score: CA 6 - NS 7
-- name: Horgan, Tracy
-  totals:
-  - event: Hearts
-    player1:
-      percent: 63
-      wins: 0
-      losses: 1
-    player2:
-      percent: 86
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: NS
-      position: Fourth
-      percent: 63
-      win: 0
-      loss: 1
-    player2:
-      team: 'NO'
-      position: Fourth
-      percent: 86
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2015
-    draw: Round Robin(6)
-    score: NS 4 - NO 8
 - name: Horne, Kate
   totals:
   - event: Hearts

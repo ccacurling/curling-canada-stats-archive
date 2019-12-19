@@ -113,6 +113,7 @@ vs:
  - Einarson, Kerri
  - Ferguson, Dana
  - Filteau, Anne-Marie
+ - Fleury, Tracy
  - Foster, Kristen
  - Fyfe, Liz
  - Gates, Amanda
@@ -121,7 +122,6 @@ vs:
  - Hanna, Stephanie
  - Hastings, Julie
  - Homan, Rachel
- - Horgan, Tracy
  - Howard, Ashley
  - Hughes, Meaghan
  - Jones, Jennifer

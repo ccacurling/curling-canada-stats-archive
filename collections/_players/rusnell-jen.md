@@ -78,6 +78,7 @@ vs:
  - Daigle, Julie
  - Ferguson, Dana
  - Filteau, Anne-Marie
+ - Fleury, Tracy
  - Galusha, Kerry
  - Gates, Amanda
  - Gates, Jenny
@@ -86,7 +87,6 @@ vs:
  - Hamilton, Beth
  - Hastings, Julie
  - Homan, Rachel
- - Horgan, Tracy
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Ingram, Megan

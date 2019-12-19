@@ -324,7 +324,6 @@ vs:
 - Hastings, Julie
 - Henry, Lou Ann
 - Homan, Rachel
-- Horgan, Tracy
 - Horne, Kate
 - Hughes, Meaghan
 - Hunter, Lana

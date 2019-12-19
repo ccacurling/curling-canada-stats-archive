@@ -470,7 +470,6 @@ vs:
 - Hollands, Saskia
 - Holtby, Taryn
 - Homan, Rachel
-- Horgan, Tracy
 - Howard, Ashley
 - Hughes, Meaghan
 - Hutchings, Denise

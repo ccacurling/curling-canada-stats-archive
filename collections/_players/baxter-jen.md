@@ -95,13 +95,13 @@ vs:
  - Dykstra, Michelle
  - Ferguson, Dana
  - Filteau, Anne-Marie
+ - Fleury, Tracy
  - Fullerton, Sarah
  - Galusha, Kerry
  - Gates, Amanda
  - Hastings, Julie
  - Holtby, Taryn
  - Homan, Rachel
- - Horgan, Tracy
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Jennifer

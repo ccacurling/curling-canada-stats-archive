@@ -693,14 +693,30 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 85
-      wins: 0
+      percent: 86
+      wins: 1
       losses: 1
     player2:
       percent: 76
       wins: 1
-      losses: 0
+      losses: 1
   games:
+  - player1:
+      team: CA
+      position: Second
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: 'NO'
+      position: Fourth
+      percent: 75
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2015
+    draw: Round Robin(17)
+    score: NO 4 - CA 6
   - player1:
       team: 'ON'
       position: Second
@@ -1123,34 +1139,6 @@ vs:
     year: 2013
     draw: Round Robin(1)
     score: HOM 3 - SWE 10
-- name: Horgan, Tracy
-  totals:
-  - event: Hearts
-    player1:
-      percent: 88
-      wins: 1
-      losses: 0
-    player2:
-      percent: 75
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: CA
-      position: Second
-      percent: 88
-      win: 1
-      loss: 0
-    player2:
-      team: 'NO'
-      position: Fourth
-      percent: 75
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2015
-    draw: Round Robin(17)
-    score: NO 4 - CA 6
 - name: Hughes, Meaghan
   totals:
   - event: Hearts

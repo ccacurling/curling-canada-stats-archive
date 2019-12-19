@@ -950,14 +950,30 @@ vs:
    totals:            
     - event: Hearts   
       player1:        
-        percent: 86   
+        percent: 87   
         wins: 2       
-        losses: 0     
+        losses: 1     
       player2:        
-        percent: 74   
-        wins: 0       
+        percent: 78   
+        wins: 1       
         losses: 2     
    games:
+    - player1:        
+        team: 'NS'    
+        position: Lead
+        percent: 89   
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'NO'      
+        position: Fourth
+        percent: 86     
+        win: 1          
+        loss: 0         
+      event: Hearts       
+      year: 2015          
+      draw: Round Robin(6)
+      score: NS 4 - NO 8  
     - player1:          
         team: 'NS'      
         position: Second
@@ -1294,34 +1310,6 @@ vs:
       year: 2015           
       draw: Round Robin(12)
       score: CA 6 - NS 7   
- - name: Horgan, Tracy
-   totals:            
-    - event: Hearts   
-      player1:        
-        percent: 89   
-        wins: 0       
-        losses: 1     
-      player2:        
-        percent: 86   
-        wins: 1       
-        losses: 0     
-   games:
-    - player1:        
-        team: 'NS'    
-        position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'NO'      
-        position: Fourth
-        percent: 86     
-        win: 1          
-        loss: 0         
-      event: Hearts       
-      year: 2015          
-      draw: Round Robin(6)
-      score: NS 4 - NO 8  
  - name: Iskiw, Beth
    totals:          
     - event: Hearts 

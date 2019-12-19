@@ -136,6 +136,7 @@ vs:
  - Einarson, Kerri
  - Englot, Michelle
  - Ferguson, Dana
+ - Fleury, Tracy
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
@@ -145,7 +146,6 @@ vs:
  - Hastings, Julie
  - Holland, Amber
  - Homan, Rachel
- - Horgan, Tracy
  - Howard, Ashley
  - Hughes, Meaghan
  - Iskiw, Beth

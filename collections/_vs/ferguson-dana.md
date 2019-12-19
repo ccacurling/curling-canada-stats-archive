@@ -87,14 +87,30 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 80
-      wins: 1
+      percent: 79
+      wins: 2
       losses: 0
     player2:
-      percent: 75
+      percent: 76
       wins: 0
-      losses: 1
+      losses: 2
   games:
+  - player1:
+      team: AB
+      position: Second
+      percent: 79
+      win: 1
+      loss: 0
+    player2:
+      team: 'NO'
+      position: Fourth
+      percent: 78
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2015
+    draw: Round Robin(2)
+    score: AB 6 - NO 4
   - player1:
       team: AB
       position: Second
@@ -481,34 +497,6 @@ vs:
     year: 2017
     draw: Round Robin(17)
     score: Swee 5 - Homa 7
-- name: Horgan, Tracy
-  totals:
-  - event: Hearts
-    player1:
-      percent: 79
-      wins: 1
-      losses: 0
-    player2:
-      percent: 78
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: AB
-      position: Second
-      percent: 79
-      win: 1
-      loss: 0
-    player2:
-      team: 'NO'
-      position: Fourth
-      percent: 78
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2015
-    draw: Round Robin(2)
-    score: AB 6 - NO 4
 - name: Hughes, Meaghan
   totals:
   - event: Hearts

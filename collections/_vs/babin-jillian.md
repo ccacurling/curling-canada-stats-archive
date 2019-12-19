@@ -782,6 +782,34 @@ vs:
       year: 2012          
       draw: Round Robin(3)
       score: NB 8 - QC 7  
+ - name: Fleury, Tracy
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 86   
+        wins: 1       
+        losses: 0     
+      player2:        
+        percent: 96   
+        wins: 0       
+        losses: 1     
+   games:
+    - player1:          
+        team: 'NB'      
+        position: Second
+        percent: 86     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'ON'      
+        position: Fourth
+        percent: 96     
+        win: 0          
+        loss: 1         
+      event: Hearts        
+      year: 2012           
+      draw: Round Robin(12)
+      score: NB 6 - ON 5   
  - name: Galusha, Kerry
    totals:             
     - event: Hearts    
@@ -1142,34 +1170,6 @@ vs:
       year: 2011           
       draw: Round Robin(11)
       score: NB 1 - ON 8   
- - name: Horgan, Tracy
-   totals:            
-    - event: Hearts   
-      player1:        
-        percent: 86   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 96   
-        wins: 0       
-        losses: 1     
-   games:
-    - player1:          
-        team: 'NB'      
-        position: Second
-        percent: 86     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'ON'      
-        position: Fourth
-        percent: 96     
-        win: 0          
-        loss: 1         
-      event: Hearts        
-      year: 2012           
-      draw: Round Robin(12)
-      score: NB 6 - ON 5   
  - name: Hughes, Meaghan
    totals:              
     - event: Hearts     

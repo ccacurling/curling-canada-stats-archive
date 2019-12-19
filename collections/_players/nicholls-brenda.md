@@ -161,6 +161,7 @@ vs:
  - Ellis, Danielle
  - Englot, Michelle
  - Farrell, Allison
+ - Fleury, Tracy
  - Fowler, Lois
  - Fyfe, Liz
  - Gagnier, Monique
@@ -177,7 +178,6 @@ vs:
  - Hanna, Stephanie
  - Holland, Amber
  - Hooper Perroud, Jane
- - Horgan, Tracy
  - Howard, Ashley
  - Hughes, Meaghan
  - Hutton, Barb

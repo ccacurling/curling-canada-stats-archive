@@ -163,6 +163,7 @@ vs:
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Flaxey, Allison
+ - Fleury, Tracy
  - Foster, Kristen
  - Galusha, Kerry
  - Gannon, Melissa
@@ -172,7 +173,6 @@ vs:
  - Harrison, Meredith
  - Holland, Amber
  - Homan, Rachel
- - Horgan, Tracy
  - Iskiw, Beth
  - Jones, Jennifer
  - Joyce, Blisse

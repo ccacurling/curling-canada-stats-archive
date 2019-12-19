@@ -347,6 +347,7 @@ vs:
 - Fallis, Karen
 - Farrell, Allison
 - Fisher, Alana
+- Fleury, Tracy
 - Floyd, Kathy
 - Fowler, Lois
 - Freeman, Lisa
@@ -371,7 +372,6 @@ vs:
 - Holland, Amber
 - Holowec, Ainsley
 - Homan, Rachel
-- Horgan, Tracy
 - Howard, Ashley
 - Hughes, Meaghan
 - Hunter, Lana

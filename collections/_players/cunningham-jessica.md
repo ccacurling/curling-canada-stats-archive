@@ -79,12 +79,12 @@ vs:
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Flaxey, Allison
+ - Fleury, Tracy
  - Foster, Kristen
  - Gannon, Melissa
  - Gates, Amanda
  - Hastings, Julie
  - Homan, Rachel
- - Horgan, Tracy
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese

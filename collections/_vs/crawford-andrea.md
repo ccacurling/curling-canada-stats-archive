@@ -654,6 +654,34 @@ vs:
       year: 2014           
       draw: Round Robin(10)
       score: NB 7 - ON 4   
+ - name: Fleury, Tracy
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 95   
+        wins: 1       
+        losses: 0     
+      player2:        
+        percent: 96   
+        wins: 0       
+        losses: 1     
+   games:
+    - player1:          
+        team: 'NB'      
+        position: Fourth
+        percent: 95     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'ON'      
+        position: Fourth
+        percent: 96     
+        win: 0          
+        loss: 1         
+      event: Hearts        
+      year: 2012           
+      draw: Round Robin(12)
+      score: NB 6 - ON 5   
  - name: Foster, Kristen
    totals:              
     - event: Hearts     
@@ -1454,34 +1482,6 @@ vs:
       year: 2014           
       draw: Round Robin(17)
       score: CA 7 - NB 3   
- - name: Horgan, Tracy
-   totals:            
-    - event: Hearts   
-      player1:        
-        percent: 95   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 96   
-        wins: 0       
-        losses: 1     
-   games:
-    - player1:          
-        team: 'NB'      
-        position: Fourth
-        percent: 95     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'ON'      
-        position: Fourth
-        percent: 96     
-        win: 0          
-        loss: 1         
-      event: Hearts        
-      year: 2012           
-      draw: Round Robin(12)
-      score: NB 6 - ON 5   
  - name: Hughes, Meaghan
    totals:              
     - event: Hearts     

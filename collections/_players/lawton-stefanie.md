@@ -219,6 +219,7 @@ vs:
 - Ferguson, Dana
 - Filteau, Anne-Marie
 - Flaxey, Allison
+- Fleury, Tracy
 - Fortier, Marie-Josee
 - Foster, Kristen
 - Gagnier, Monique
@@ -238,7 +239,6 @@ vs:
 - Hanna, Stephanie
 - Hastings, Julie
 - Homan, Rachel
-- Horgan, Tracy
 - Hughes, Meaghan
 - Ingram, Megan
 - Jewer, Michelle

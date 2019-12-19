@@ -132,6 +132,7 @@ vs:
 - Enright, Barb
 - Fallis, Karen
 - Filteau, Anne-Marie
+- Fleury, Tracy
 - Galusha, Kerry
 - Gates, Amanda
 - George, Tara
@@ -141,7 +142,6 @@ vs:
 - Hardy, Shelley
 - Holland, Amber
 - Homan, Rachel
-- Horgan, Tracy
 - Iskiw, Beth
 - Jones, Jennifer
 - Joyce, Blisse

@@ -317,6 +317,7 @@ vs:
  - Filion, Nicole
  - Filteau, Anne-Marie
  - Flaxey, Allison
+ - Fleury, Tracy
  - Floyd, Kathy
  - Foster, Kristen
  - Fraser, Sherry
@@ -343,7 +344,6 @@ vs:
  - Holland, Amber
  - Homan, Rachel
  - Hooper Perroud, Jane
- - Horgan, Tracy
  - Horne, Kate
  - Horne, Sharon
  - Houston, Heather

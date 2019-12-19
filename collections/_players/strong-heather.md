@@ -304,6 +304,7 @@ vs:
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Flaxey, Allison
+ - Fleury, Tracy
  - Floyd, Kathy
  - Fortier, Marie-Josee
  - Fortin, Sylvie
@@ -340,7 +341,6 @@ vs:
  - Holowec, Ainsley
  - Homan, Rachel
  - Hopkins, Heather
- - Horgan, Tracy
  - Horne, Kate
  - Horte, Rhonda
  - Inglis, Nancy

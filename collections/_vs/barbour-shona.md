@@ -966,14 +966,30 @@ vs:
    totals:            
     - event: Hearts   
       player1:        
-        percent: 85   
+        percent: 78   
         wins: 0       
-        losses: 1     
+        losses: 2     
       player2:        
-        percent: 83   
-        wins: 1       
+        percent: 82   
+        wins: 2       
         losses: 0     
    games:
+    - player1:         
+        team: 'TR'     
+        position: Third
+        percent: 69    
+        win: 0         
+        loss: 1        
+      player2:          
+        team: 'ON'      
+        position: Fourth
+        percent: 81     
+        win: 1          
+        loss: 0         
+      event: Hearts        
+      year: 2012           
+      draw: Round Robin(11)
+      score: TR 2 - ON 12  
     - player1:        
         team: 'NT'    
         position: Lead
@@ -1470,34 +1486,6 @@ vs:
       year: 2011           
       draw: Round Robin(15)
       score: TR 3 - ON 9   
- - name: Horgan, Tracy
-   totals:            
-    - event: Hearts   
-      player1:        
-        percent: 69   
-        wins: 0       
-        losses: 1     
-      player2:        
-        percent: 81   
-        wins: 1       
-        losses: 0     
-   games:
-    - player1:         
-        team: 'TR'     
-        position: Third
-        percent: 69    
-        win: 0         
-        loss: 1        
-      player2:          
-        team: 'ON'      
-        position: Fourth
-        percent: 81     
-        win: 1          
-        loss: 0         
-      event: Hearts        
-      year: 2012           
-      draw: Round Robin(11)
-      score: TR 2 - ON 12  
  - name: Hughes, Meaghan
    totals:              
     - event: Hearts     

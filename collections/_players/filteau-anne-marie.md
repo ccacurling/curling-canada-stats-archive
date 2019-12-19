@@ -81,12 +81,12 @@ vs:
  - Dolan, Sinead
  - Englot, Michelle
  - Ferguson, Dana
+ - Fleury, Tracy
  - Galusha, Kerry
  - Gates, Amanda
  - Hastings, Julie
  - Holland, Amber
  - Homan, Rachel
- - Horgan, Tracy
  - Iskiw, Beth
  - Jones, Jennifer
  - Joyce, Blisse

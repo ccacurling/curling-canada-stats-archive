@@ -83,12 +83,12 @@ vs:
  - Englot, Michelle
  - Eyamie, Lisa
  - Ferguson, Dana
+ - Fleury, Tracy
  - Fullerton, Sarah
  - Galusha, Kerry
  - Gates, Amanda
  - Hastings, Julie
  - Homan, Rachel
- - Horgan, Tracy
  - Hughes, Meaghan
  - Jones, Jennifer
  - Kasner, Marliese

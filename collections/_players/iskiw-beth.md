@@ -185,6 +185,7 @@ vs:
 - Farrell, Allison
 - Filteau, Anne-Marie
 - Fisher, Alana
+- Fleury, Tracy
 - Floyd, Kathy
 - Fortin, Sylvie
 - Fowler, Lois
@@ -207,7 +208,6 @@ vs:
 - Holland, Amber
 - Holtby, Taryn
 - Homan, Rachel
-- Horgan, Tracy
 - Horne, Kate
 - Hunter, Lana
 - Johnston, Kara

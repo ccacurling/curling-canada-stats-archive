@@ -176,6 +176,7 @@ vs:
 - Ferguson, Dana
 - Filteau, Anne-Marie
 - Flaxey, Allison
+- Fleury, Tracy
 - Foster, Kristen
 - Fullerton, Sarah
 - Galusha, Kerry
@@ -184,7 +185,6 @@ vs:
 - Hastings, Julie
 - Hill, Trish
 - Homan, Rachel
-- Horgan, Tracy
 - Hughes, Meaghan
 - Jones, Jennifer
 - Joyce, Blisse

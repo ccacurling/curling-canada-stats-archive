@@ -442,6 +442,7 @@ vs:
 - Fisher, Alana
 - Fister, Teri
 - Fister, Toni
+- Fleury, Tracy
 - Floyd, Kathy
 - Fortier, Marie-Josee
 - Fortin, Sylvie
@@ -486,7 +487,6 @@ vs:
 - Holowec, Ainsley
 - Holtby, Taryn
 - Homan, Rachel
-- Horgan, Tracy
 - Horne, Kate
 - Horte, Rhonda
 - Hunter, Lana

@@ -918,6 +918,34 @@ vs:
       year: 1994          
       draw: Round Robin(2)
       score: PE 9 - BC 6  
+ - name: Fleury, Tracy
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 80   
+        wins: 0       
+        losses: 1     
+      player2:        
+        percent: 83   
+        wins: 1       
+        losses: 0     
+   games:
+    - player1:        
+        team: 'PE'    
+        position: Lead
+        percent: 80   
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'ON'      
+        position: Fourth
+        percent: 83     
+        win: 1          
+        loss: 0         
+      event: Hearts       
+      year: 2012          
+      draw: Round Robin(1)
+      score: ON 7 - PE 6  
  - name: Floyd, Kathy
    totals:           
     - event: Hearts  
@@ -1774,34 +1802,6 @@ vs:
       year: 2001           
       draw: Round Robin(10)
       score: PE 7 - TR 5   
- - name: Horgan, Tracy
-   totals:            
-    - event: Hearts   
-      player1:        
-        percent: 80   
-        wins: 0       
-        losses: 1     
-      player2:        
-        percent: 83   
-        wins: 1       
-        losses: 0     
-   games:
-    - player1:        
-        team: 'PE'    
-        position: Lead
-        percent: 80   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'ON'      
-        position: Fourth
-        percent: 83     
-        win: 1          
-        loss: 0         
-      event: Hearts       
-      year: 2012          
-      draw: Round Robin(1)
-      score: ON 7 - PE 6  
  - name: Houston, Heather
    totals:               
     - event: Hearts      

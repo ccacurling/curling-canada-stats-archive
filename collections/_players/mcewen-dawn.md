@@ -379,7 +379,6 @@ vs:
 - Holland, Amber
 - Holtby, Taryn
 - Homan, Rachel
-- Horgan, Tracy
 - Howard, Ashley
 - Hughes, Meaghan
 - Hunkin, Jessie

@@ -201,7 +201,6 @@ vs:
  - Holland, Amber
  - Holtby, Taryn
  - Homan, Rachel
- - Horgan, Tracy
  - Hughes, Meaghan
  - Hutchings, Denise
  - Iskiw, Beth

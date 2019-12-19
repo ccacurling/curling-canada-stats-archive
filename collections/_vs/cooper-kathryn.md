@@ -342,6 +342,34 @@ vs:
       year: 2014          
       draw: Round Robin(4)
       score: ON 8 - NL 7  
+ - name: Fleury, Tracy
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 71   
+        wins: 1       
+        losses: 0     
+      player2:        
+        percent: 61   
+        wins: 0       
+        losses: 1     
+   games:
+    - player1:        
+        team: 'NL'    
+        position: Lead
+        percent: 71   
+        win: 1        
+        loss: 0       
+      player2:          
+        team: 'NO'      
+        position: Fourth
+        percent: 61     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 2015          
+      draw: Round Robin(9)
+      score: NL 6 - NO 4  
  - name: Foster, Kristen
    totals:              
     - event: Hearts     
@@ -498,34 +526,6 @@ vs:
       year: 2015           
       draw: Round Robin(10)
       score: NL 5 - CA 11  
- - name: Horgan, Tracy
-   totals:            
-    - event: Hearts   
-      player1:        
-        percent: 71   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 61   
-        wins: 0       
-        losses: 1     
-   games:
-    - player1:        
-        team: 'NL'    
-        position: Lead
-        percent: 71   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NO'      
-        position: Fourth
-        percent: 61     
-        win: 0          
-        loss: 1         
-      event: Hearts       
-      year: 2015          
-      draw: Round Robin(9)
-      score: NL 6 - NO 4  
  - name: Jones, Jennifer
    totals:              
     - event: Hearts     

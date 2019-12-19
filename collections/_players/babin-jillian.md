@@ -111,6 +111,7 @@ vs:
  - Englot, Michelle
  - Fallis, Karen
  - Filteau, Anne-Marie
+ - Fleury, Tracy
  - Fraser, Sherry
  - Galusha, Kerry
  - Gates, Amanda
@@ -121,7 +122,6 @@ vs:
  - Hardy, Shelley
  - Holland, Amber
  - Homan, Rachel
- - Horgan, Tracy
  - Iskiw, Beth
  - Jones, Jennifer
  - Joyce, Blisse

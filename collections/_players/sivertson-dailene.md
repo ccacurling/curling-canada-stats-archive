@@ -134,10 +134,10 @@ vs:
  - Dolan, Sinead
  - Englot, Michelle
  - Filteau, Anne-Marie
+ - Fleury, Tracy
  - Galusha, Kerry
  - Gates, Amanda
  - Holland, Amber
- - Horgan, Tracy
  - Iskiw, Beth
  - Jones, Jennifer
  - Joyce, Blisse

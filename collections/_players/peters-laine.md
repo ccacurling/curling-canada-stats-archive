@@ -286,6 +286,7 @@ vs:
 - Eyamie, Lisa
 - Filteau, Anne-Marie
 - Fisher, Alana
+- Fleury, Tracy
 - Fowler, Lois
 - Freeman, Lisa
 - Frey, Audrey
@@ -310,7 +311,6 @@ vs:
 - Holland, Amber
 - Holtby, Taryn
 - Homan, Rachel
-- Horgan, Tracy
 - Horte, Rhonda
 - Howard, Ashley
 - Hughes, Meaghan

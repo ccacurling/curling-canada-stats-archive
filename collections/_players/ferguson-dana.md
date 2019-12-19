@@ -152,6 +152,7 @@ vs:
 - Duncan, Chelsea
 - Filteau, Anne-Marie
 - Flaxey, Allison
+- Fleury, Tracy
 - Foster, Kristen
 - Galusha, Kerry
 - Gannon, Melissa
@@ -162,7 +163,6 @@ vs:
 - Hamilton, Beth
 - Hastings, Julie
 - Homan, Rachel
-- Horgan, Tracy
 - Hughes, Meaghan
 - Hunkin, Jessie
 - Ingram, Megan

@@ -379,6 +379,7 @@ vs:
  - Filteau, Anne-Marie
  - Fister, Teri
  - Fister, Toni
+ - Fleury, Tracy
  - Floyd, Kathy
  - Fortin, Sylvie
  - Fowler, Lois
@@ -417,7 +418,6 @@ vs:
  - Homan, Rachel
  - Hooper Perroud, Jane
  - Hopkins, Heather
- - Horgan, Tracy
  - Horne, Kate
  - Hughes, Meaghan
  - Iskiw, Beth

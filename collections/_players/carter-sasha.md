@@ -306,6 +306,7 @@ vs:
 - Fallis, Karen
 - Farrell, Allison
 - Filteau, Anne-Marie
+- Fleury, Tracy
 - Fortier, Marie-Josee
 - Fullerton, Sarah
 - Gagnier, Monique
@@ -329,7 +330,6 @@ vs:
 - Hollands, Saskia
 - Holtby, Taryn
 - Homan, Rachel
-- Horgan, Tracy
 - Inglis, Nancy
 - Iskiw, Beth
 - Johnston, Kara

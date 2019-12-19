@@ -136,6 +136,7 @@ vs:
 - Englot, Michelle
 - Fallis, Karen
 - Filteau, Anne-Marie
+- Fleury, Tracy
 - Galusha, Kerry
 - Gates, Amanda
 - George, Tara
@@ -144,7 +145,6 @@ vs:
 - Guzzwell, Stephanie
 - Hardy, Shelley
 - Homan, Rachel
-- Horgan, Tracy
 - Iskiw, Beth
 - Johnstone, Loralee
 - Jones, Jennifer

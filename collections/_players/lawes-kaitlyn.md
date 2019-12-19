@@ -221,6 +221,7 @@ vs:
 - Fallis, Karen
 - Ferguson, Dana
 - Filteau, Anne-Marie
+- Fleury, Tracy
 - Fullerton, Sarah
 - Fyfe, Liz
 - Galusha, Kerry
@@ -237,7 +238,6 @@ vs:
 - Holland, Amber
 - Holtby, Taryn
 - Homan, Rachel
-- Horgan, Tracy
 - Howard, Ashley
 - Hughes, Meaghan
 - Hunkin, Jessie

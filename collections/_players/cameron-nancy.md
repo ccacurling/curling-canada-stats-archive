@@ -239,6 +239,7 @@ vs:
  - Ferland, Marie
  - Filteau, Anne-Marie
  - Flannigan, Lorraine
+ - Fleury, Tracy
  - Floyd, Kathy
  - Fowler, Lois
  - Fowler, Rhonda
@@ -265,7 +266,6 @@ vs:
  - Herlinveaux, Louise
  - Holland, Amber
  - Hollands, Saskia
- - Horgan, Tracy
  - Houston, Heather
  - Hutchinson, Joan
  - Iskiw, Beth
