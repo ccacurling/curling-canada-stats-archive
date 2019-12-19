@@ -7,7 +7,7 @@ if ARGV.length != 1
   exit
 end
 
-local_players = File.expand_path('../_players/', __dir__)
+local_players = File.expand_path('../collections/_players/', __dir__)
 
 puts 'Reading ' + ARGV[0] + ':'
 Dir.glob(ARGV[0] + '*.md') do |new_file|

@@ -7,7 +7,7 @@ if ARGV.length != 1
   exit
 end
 
-local_vs = File.expand_path('../_vs/', __dir__)
+local_vs = File.expand_path('../collections/_vs/', __dir__)
 
 puts 'Reading ' + ARGV[0] + ':'
 Dir.glob(ARGV[0] + '*.md') do |new_file|
