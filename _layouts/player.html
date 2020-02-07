@@ -74,7 +74,7 @@ layout: default
   <div class="form-group mx-sm-3 mb-2">
     <label for="oponent" class="sr-only">Opponent</label>
     <select class="form-control form-control-lg">
-{% assign opponents = page.vs | sort %}
+{% assign opponents = page.vs | sort_natural %}
 {% assign slug = page.name-sort | slugify %}
 {% for vs in opponents %}
 {% assign vs_slug = vs | slugify %}
