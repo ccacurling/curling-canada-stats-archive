@@ -144,7 +144,7 @@ vs:
  - Smith, Stacey
  - Snyder, Jane
  - Strong, Heather
- - Sweeting, Valerie
+ - Sweeting, Val
  - Trombley, Christy
  - Vey, Lana
  - Walsh, Jenna

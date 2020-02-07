@@ -138,7 +138,7 @@ vs:
  - Shaw, Ladene
  - Silvernagle, Robyn
  - Strong, Helen
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thevenot, Kara
  - Thomas, Jill
  - Tran, Brittany

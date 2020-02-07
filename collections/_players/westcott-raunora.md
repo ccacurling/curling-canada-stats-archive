@@ -203,7 +203,7 @@ vs:
 - Sicinski, Danielle
 - Sippala, Ashley
 - Sobey, Lianne
-- Sweeting, Valerie
+- Sweeting, Val
 - Thiessen, Alison
 - Trickett, Erica
 - Weagle, Lisa
@@ -224,7 +224,6 @@ vs:
 - Olson-Johns, Lori
 - Scheidegger, Casey
 - Scheidegger, Jessie
-- Sweeting, Val
 - Tippin, Julie
 - Vink, Rachelle
 ---

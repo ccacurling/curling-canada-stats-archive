@@ -125,7 +125,7 @@ vs:
  - Strong, Heather
  - Strong, Helen
  - Strong, Laura
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thevenot, Kara
  - Titheridge, Lindsay
  - Tran, Brittany

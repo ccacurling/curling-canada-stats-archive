@@ -107,7 +107,7 @@ vs:
 - Smith, Heather
 - Strong, Heather
 - Strong, Laura
-- Sweeting, Valerie
+- Sweeting, Val
 - Udle, Teri
 - Van Osch, Kesa
 - Wallingham, Patty
@@ -128,5 +128,4 @@ vs:
 - Peters, Laine
 - Rizzo, Jo-Ann
 - Sonnenberg, Renee
-- Sweeting, Val
 ---

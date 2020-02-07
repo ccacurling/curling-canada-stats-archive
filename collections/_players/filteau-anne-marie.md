@@ -125,7 +125,7 @@ vs:
  - Snyder, Jane
  - Strong, Heather
  - Strong, Laura
- - Sweeting, Valerie
+ - Sweeting, Val
  - Trombley, Christy
  - Udle, Teri
  - Vey, Lana

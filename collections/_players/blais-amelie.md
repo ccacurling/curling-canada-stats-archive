@@ -199,7 +199,7 @@ vs:
  - Snyder, Jane
  - Strong, Heather
  - Strong, Laura
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thompson, Karla
  - Trombley, Christy
  - Udle, Teri

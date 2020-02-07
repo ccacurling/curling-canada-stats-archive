@@ -328,7 +328,7 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
- - Sweeting, Valerie
+ - Sweeting, Val
  - Tanner, Ros
  - Thomas, Jill
  - Thurston, Jill

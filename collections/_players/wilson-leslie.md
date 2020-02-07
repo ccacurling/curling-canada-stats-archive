@@ -211,7 +211,7 @@ vs:
 - Sippala, Ashley
 - Smith, Heather
 - Sobey, Lianne
-- Sweeting, Valerie
+- Sweeting, Val
 - Thiessen, Alison
 - Thomas, Jill
 - Trickett, Erica
@@ -232,7 +232,6 @@ vs:
 - Olson-Johns, Lori
 - Scheidegger, Casey
 - Scheidegger, Jessie
-- Sweeting, Val
 - Tippin, Julie
 - Vink, Rachelle
 ---

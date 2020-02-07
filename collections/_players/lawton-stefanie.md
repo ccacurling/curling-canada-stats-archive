@@ -321,7 +321,7 @@ vs:
 - Strong, Heather
 - Strong, Helen
 - Strong, Laura
-- Sweeting, Valerie
+- Sweeting, Val
 - Thomas, Jill
 - Thomas-Kennell, Noelle
 - Titheridge, Lindsay
@@ -375,7 +375,6 @@ vs:
 - Schneider, Tammy
 - Schraeder, Jeanna
 - Sonnenberg, Renee
-- Sweeting, Val
 - Tuck, Kimberly
 - Wall, Kirsten
 - Walsh, Heather

@@ -121,7 +121,7 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Surik, Teejay
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thurston, Jill
  - Vey, Lana
  - Wilson, Leslie

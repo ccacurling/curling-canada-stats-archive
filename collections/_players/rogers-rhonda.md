@@ -75,7 +75,7 @@ vs:
  - Scott, Kelly
  - Sippala, Ashley
  - Sobey, Lianne
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thomas, Jill
  - Thurston, Jill
  - Westcott, Raunora

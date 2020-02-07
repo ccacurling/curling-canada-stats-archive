@@ -163,7 +163,7 @@ vs:
  - Smith, Heather
  - Strong, Heather
  - Strong, Laura
- - Sweeting, Valerie
+ - Sweeting, Val
  - Titheridge, Lindsay
  - Udle, Teri
  - Van Osch, Kalia

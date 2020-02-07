@@ -273,7 +273,7 @@ vs:
  - Sobey, Lianne
  - Strong, Heather
  - Strong, Laura
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thomas, Jill
  - Thompson, Karla
  - Thurston, Jill

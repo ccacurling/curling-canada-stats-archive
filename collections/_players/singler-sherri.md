@@ -245,7 +245,7 @@ vs:
 - Spencer, Barb
 - Strong, Heather
 - Strong, Laura
-- Sweeting, Valerie
+- Sweeting, Val
 - Thomas, Jill
 - Titheridge, Lindsay
 - Udle, Teri
@@ -292,7 +292,6 @@ vs:
 - Schneider, Tammy
 - Schraeder, Jeanna
 - Sonnenberg, Renee
-- Sweeting, Val
 - Tuck, Kimberly
 - Wall, Kirsten
 - Walsh, Heather

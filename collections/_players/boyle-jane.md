@@ -166,7 +166,7 @@ vs:
  - Smith, Stacey
  - Snyder, Jane
  - Strong, Heather
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thompson, Karla
  - Titheridge, Lindsay
  - Trombley, Christy

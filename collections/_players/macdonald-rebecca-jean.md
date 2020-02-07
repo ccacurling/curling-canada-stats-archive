@@ -422,7 +422,7 @@ vs:
  - Street, Cindy
  - Strong, Heather
  - Strong, Laura
- - Sweeting, Valerie
+ - Sweeting, Val
  - Tanner, Allison
  - Thomas, Jill
  - Thurston, Jill

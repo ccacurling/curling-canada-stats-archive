@@ -436,7 +436,7 @@ vs:
 - Strong, Laura
 - Stubbings, Tiffany
 - Surik, Teejay
-- Sweeting, Valerie
+- Sweeting, Val
 - Tanner, Ros
 - Thomas, Jill
 - Thompson, Karla

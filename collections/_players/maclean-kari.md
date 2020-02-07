@@ -156,7 +156,7 @@ vs:
 - Spencer, Barb
 - Strong, Heather
 - Strong, Laura
-- Sweeting, Valerie
+- Sweeting, Val
 - Thomas, Jill
 - Thurston, Jill
 - Vey, Lana

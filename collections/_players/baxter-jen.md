@@ -140,7 +140,7 @@ vs:
  - Shumay, Jill
  - Smith, Stacey
  - Strong, Heather
- - Sweeting, Valerie
+ - Sweeting, Val
  - Trombley, Christy
  - Walsh, Jenna
  - Wasylkiw, Lauren

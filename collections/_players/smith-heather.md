@@ -264,7 +264,7 @@ vs:
 - Stewart, Sheri
 - Strong, Heather
 - Strong, Laura
-- Sweeting, Valerie
+- Sweeting, Val
 - Titheridge, Lindsay
 - Tuck, Kim
 - Van Osch, Kesa

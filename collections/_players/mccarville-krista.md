@@ -375,7 +375,7 @@ vs:
 - Strong, Heather
 - Strong, Helen
 - Strong, Laura
-- Sweeting, Valerie
+- Sweeting, Val
 - Tanner, Ros
 - Thevenot, Kara
 - Thiessen, Alison
@@ -409,7 +409,6 @@ vs:
 - Preston, Sam
 - Scheidegger, Casey
 - Scheidegger, Jessie
-- Sweeting, Val
 - Tippin, Julie
 - Vink, Rachelle
 - Webster, Bronwen

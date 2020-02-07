@@ -212,7 +212,7 @@ vs:
 - Sicinski, Danielle
 - Sobey, Lianne
 - Spencer, Barb
-- Sweeting, Valerie
+- Sweeting, Val
 - Thiessen, Alison
 - Thomas, Jill
 - Thompson, Karla
@@ -239,7 +239,6 @@ vs:
 - Olson-Johns, Lori
 - Scheidegger, Casey
 - Scheidegger, Jessie
-- Sweeting, Val
 - Tippin, Julie
 - Vink, Rachelle
 ---

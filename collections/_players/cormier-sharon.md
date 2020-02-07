@@ -543,7 +543,7 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Sutton, Jodie
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thiessen, Alison
  - Thomas, Jill
  - Thomas, Karen

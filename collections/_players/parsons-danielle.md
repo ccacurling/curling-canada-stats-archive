@@ -200,7 +200,7 @@ vs:
  - Sobey, Lianne
  - Strong, Heather
  - Strong, Laura
- - Sweeting, Valerie
+ - Sweeting, Val
  - Titheridge, Lindsay
  - Tuck, Kim
  - Udle, Teri

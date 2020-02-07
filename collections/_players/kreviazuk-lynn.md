@@ -106,7 +106,7 @@ vs:
 - Smith, Heather
 - Strong, Heather
 - Strong, Laura
-- Sweeting, Valerie
+- Sweeting, Val
 - Titheridge, Lindsay
 - Udle, Teri
 - Van Osch, Kesa
@@ -133,7 +133,6 @@ vs:
 - Scheidegger, Casey
 - Scheidegger, Jessie
 - Sippala, Ashley
-- Sweeting, Val
 - Tippin, Julie
 - Vink, Rachelle
 - Westcott, Raunora

@@ -175,7 +175,7 @@ vs:
  - Smith, Heather
  - Strong, Heather
  - Strong, Laura
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thomas, Jill
  - Thurston, Jill
  - Udle, Teri

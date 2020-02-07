@@ -100,7 +100,7 @@ vs:
 - Singler, Sherri
 - Strong, Heather
 - Strong, Laura
-- Sweeting, Valerie
+- Sweeting, Val
 - Titheridge, Lindsay
 - Wallingham, Patty
 - Weagle, Lisa
@@ -125,7 +125,6 @@ vs:
 - Scheidegger, Casey
 - Scheidegger, Jessie
 - Sippala, Ashley
-- Sweeting, Val
 - Tippin, Julie
 - Vink, Rachelle
 - Westcott, Raunora

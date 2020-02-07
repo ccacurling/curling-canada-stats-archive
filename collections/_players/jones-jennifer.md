@@ -633,7 +633,7 @@ vs:
 - Strong, Laura
 - Stubbings, Tiffany
 - Surik, Teejay
-- Sweeting, Valerie
+- Sweeting, Val
 - Tanner, Ros
 - Thevenot, Kara
 - Thomas, Jill
@@ -689,7 +689,6 @@ vs:
 - Preston, Sam
 - Rizzo, Jo-Ann
 - Sonnenberg, Renee
-- Sweeting, Val
 - Tippin, Julie
 - Titheridge, Lindsay
 - Tuck, Kimberly

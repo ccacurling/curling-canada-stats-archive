@@ -210,7 +210,7 @@ vs:
  - Snyder, Jane
  - Strong, Heather
  - Strong, Helen
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thevenot, Kara
  - Thiessen, Alison
  - Tran, Brittany

@@ -258,7 +258,7 @@ vs:
 - Strong, Heather
 - Strong, Helen
 - Strong, Laura
-- Sweeting, Valerie
+- Sweeting, Val
 - Thevenot, Kara
 - Thiessen, Alison
 - Thompson, Karla
@@ -294,7 +294,6 @@ vs:
 - Scheidegger, Casey
 - Scheidegger, Jessie
 - Sonnenberg, Renee
-- Sweeting, Val
 - Tippin, Julie
 - Vink, Rachelle
 ---

@@ -85,7 +85,7 @@ vs:
  - Scott, Kelly
  - Sippala, Ashley
  - Sobey, Lianne
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thomas, Jill
  - Wheatcroft, Georgina
 ---

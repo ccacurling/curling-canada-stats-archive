@@ -76,7 +76,7 @@ vs:
  - Schmidt, Stephanie
  - Snyder, Jane
  - Strong, Heather
- - Sweeting, Valerie
+ - Sweeting, Val
  - Walsh, Jenna
  - Weagle, Lisa
  - Wylie, Jennifer

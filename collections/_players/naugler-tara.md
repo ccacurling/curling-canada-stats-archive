@@ -167,7 +167,7 @@ vs:
  - Sobey, Lianne
  - Spencer, Barb
  - Strachan, Angela
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thomas, Jill
  - Thurston, Jill
  - Todd, Fran

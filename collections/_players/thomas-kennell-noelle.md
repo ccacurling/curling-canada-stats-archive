@@ -60,7 +60,7 @@ vs:
  - Peters, Laine
  - Schmidt, Stephanie
  - Slywka, Sarah
- - Sweeting, Valerie
+ - Sweeting, Val
  - Vey, Lana
  - Wilkes, Sarah
 ---

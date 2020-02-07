@@ -311,7 +311,7 @@ vs:
 - Sobey, Lianne
 - Strong, Heather
 - Strong, Laura
-- Sweeting, Valerie
+- Sweeting, Val
 - Thiessen, Alison
 - Titheridge, Lindsay
 - Trickett, Erica
@@ -340,7 +340,6 @@ vs:
 - Scheidegger, Casey
 - Scheidegger, Jessie
 - Sonnenberg, Renee
-- Sweeting, Val
 - Tippin, Julie
 - Vink, Rachelle
 ---

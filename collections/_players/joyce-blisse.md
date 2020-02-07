@@ -239,7 +239,7 @@ vs:
  - Sobey, Lianne
  - Strong, Heather
  - Strong, Laura
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thompson, Karla
  - Titheridge, Lindsay
  - Tuck, Kim

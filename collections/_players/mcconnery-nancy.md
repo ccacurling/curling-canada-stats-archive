@@ -272,7 +272,7 @@ vs:
  - Strong, Laura
  - Surik, Teejay
  - Sutton, Jodie
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thomas, Maria
  - Thurston, Jill
  - Todd, Fran

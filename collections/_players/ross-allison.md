@@ -213,7 +213,7 @@ vs:
  - Street, Cindy
  - Strong, Heather
  - Strong, Laura
- - Sweeting, Valerie
+ - Sweeting, Val
  - Tanner, Allison
  - Tincher, Twyla
  - Titheridge, Lindsay

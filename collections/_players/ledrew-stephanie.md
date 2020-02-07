@@ -211,7 +211,7 @@ vs:
  - Sippala, Ashley
  - Smallwood, Jody
  - Sobey, Lianne
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thomas, Jill
  - Thurston, Jill
  - Van Osch, Kalia

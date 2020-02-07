@@ -198,7 +198,7 @@ vs:
 - Sobey, Lianne
 - Strong, Heather
 - Strong, Laura
-- Sweeting, Valerie
+- Sweeting, Val
 - Titheridge, Lindsay
 - Udle, Teri
 - Van Osch, Kesa
@@ -220,5 +220,4 @@ vs:
 - Peters, Laine
 - Rizzo, Jo-Ann
 - Sonnenberg, Renee
-- Sweeting, Val
 ---

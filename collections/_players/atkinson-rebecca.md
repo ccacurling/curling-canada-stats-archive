@@ -241,7 +241,7 @@ vs:
  - Snyder, Jane
  - Strong, Heather
  - Strong, Laura
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thompson, Karla
  - Titheridge, Lindsay
  - Trombley, Christy

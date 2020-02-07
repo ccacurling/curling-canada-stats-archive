@@ -128,7 +128,7 @@ vs:
  - Smith, Stacey
  - Snyder, Jane
  - Strong, Heather
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thiessen, Alison
  - Trickett, Erica
  - Trombley, Christy

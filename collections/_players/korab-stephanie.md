@@ -125,7 +125,7 @@ vs:
  - Smith, Heather
  - Smith, Stacey
  - Snyder, Jane
- - Sweeting, Valerie
+ - Sweeting, Val
  - Trombley, Christy
  - Udle, Teri
  - Vey, Lana

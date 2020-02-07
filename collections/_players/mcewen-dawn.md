@@ -517,7 +517,7 @@ vs:
 - Strong, Helen
 - Strong, Laura
 - Surik, Teejay
-- Sweeting, Valerie
+- Sweeting, Val
 - Thevenot, Kara
 - Thomas, Jill
 - Thompson, Karla
@@ -565,7 +565,6 @@ vs:
 - Preston, Sam
 - Rizzo, Jo-Ann
 - Sonnenberg, Renee
-- Sweeting, Val
 - Tippin, Julie
 - Titheridge, Lindsay
 - Vink, Rachelle

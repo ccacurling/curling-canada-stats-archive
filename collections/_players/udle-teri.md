@@ -249,7 +249,7 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thompson, Karla
  - Titheridge, Lindsay
  - Tuck, Kim

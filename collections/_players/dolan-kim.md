@@ -503,7 +503,7 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Sutton, Jodie
- - Sweeting, Valerie
+ - Sweeting, Val
  - Tanner, Allison
  - Thompson, Carol
  - Thurston, Jill

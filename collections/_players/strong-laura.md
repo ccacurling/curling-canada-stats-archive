@@ -351,7 +351,7 @@ vs:
  - Stricker, Joan
  - Stubbings, Tiffany
  - Surik, Teejay
- - Sweeting, Valerie
+ - Sweeting, Val
  - Tanner, Ros
  - Tasaka, Adina
  - Thomas, Jill

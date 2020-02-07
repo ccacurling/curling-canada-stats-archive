@@ -169,7 +169,7 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thomas, Jill
  - Thurston, Jill
  - Udle, Teri

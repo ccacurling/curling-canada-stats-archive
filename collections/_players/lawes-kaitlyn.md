@@ -323,7 +323,7 @@ vs:
 - Strong, Heather
 - Strong, Helen
 - Strong, Laura
-- Sweeting, Valerie
+- Sweeting, Val
 - Thevenot, Kara
 - Thompson, Karla
 - Tran, Brittany
@@ -364,7 +364,6 @@ vs:
 - Scheidegger, Jessie
 - Singler, Sherri
 - Sonnenberg, Renee
-- Sweeting, Val
 - Tippin, Julie
 - Titheridge, Lindsay
 - Vink, Rachelle

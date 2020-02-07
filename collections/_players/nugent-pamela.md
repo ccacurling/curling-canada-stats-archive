@@ -150,7 +150,7 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
- - Sweeting, Valerie
+ - Sweeting, Val
  - Tanner, Ros
  - Thurston, Jill
  - Titheridge, Lindsay

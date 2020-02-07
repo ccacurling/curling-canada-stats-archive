@@ -635,7 +635,7 @@ vs:
 - Stubbings, Tiffany
 - Surik, Teejay
 - Sutton, Jodie
-- Sweeting, Valerie
+- Sweeting, Val
 - Tanner, Allison
 - Tanner, Ros
 - Tasaka, Adina

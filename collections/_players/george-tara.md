@@ -236,7 +236,7 @@ vs:
 - Streifel, Tracy
 - Strong, Heather
 - Strong, Laura
-- Sweeting, Valerie
+- Sweeting, Val
 - Tanner, Ros
 - Thomas, Jill
 - Thurston, Jill

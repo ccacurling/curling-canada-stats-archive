@@ -435,7 +435,7 @@ vs:
 - Stokes, Debbie
 - Strong, Heather
 - Strong, Laura
-- Sweeting, Valerie
+- Sweeting, Val
 - Taylor, Candy
 - Thomas-Kennell, Noelle
 - Titheridge, Lindsay
@@ -487,7 +487,6 @@ vs:
 - Skinner, Julie
 - Sonnenberg, Renee
 - Stricker, Joan
-- Sweeting, Val
 - Tuck, Kimberly
 - Webster, Bronwen
 ---

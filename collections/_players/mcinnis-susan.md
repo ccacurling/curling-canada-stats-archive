@@ -420,7 +420,7 @@ vs:
  - Strong, Laura
  - Stubbings, Tiffany
  - Sutton, Jodie
- - Sweeting, Valerie
+ - Sweeting, Val
  - Tanner, Ros
  - Thomas, Karen
  - Thurston, Jill

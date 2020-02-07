@@ -249,7 +249,7 @@ vs:
  - Strong, Laura
  - Stubbings, Tiffany
  - Sutton, Jodie
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thomas, Jill
  - Thomas, Maria
  - Thurston, Jill

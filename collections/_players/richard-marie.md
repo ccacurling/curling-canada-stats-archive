@@ -172,7 +172,7 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Surik, Teejay
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thompson, Karla
  - Trombley, Christy
  - Udle, Teri

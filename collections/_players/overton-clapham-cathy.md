@@ -585,7 +585,7 @@ vs:
 - Stubbings, Tiffany
 - Surik, Teejay
 - Sutton, Jodie
-- Sweeting, Valerie
+- Sweeting, Val
 - Tanner, Allison
 - Tanner, Ros
 - Thomas, Jill
@@ -650,7 +650,6 @@ vs:
 - Scheidegger, Casey
 - Scheidegger, Jessie
 - Sipka, Joanne
-- Sweeting, Val
 - Tippin, Julie
 - Tuck, Kimberly
 - Vink, Rachelle

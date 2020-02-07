@@ -381,7 +381,7 @@ vs:
  - Stricker, Joan
  - Strong, Heather
  - Strong, Laura
- - Sweeting, Valerie
+ - Sweeting, Val
  - Tasaka, Adina
  - Taylor, Candy
  - Trombley, Christy

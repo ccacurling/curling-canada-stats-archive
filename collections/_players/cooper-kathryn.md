@@ -122,7 +122,7 @@ vs:
  - Smith, Stacey
  - Snyder, Jane
  - Sonnenberg, Renee
- - Sweeting, Valerie
+ - Sweeting, Val
  - Titheridge, Lindsay
  - Trombley, Christy
  - Van Osch, Kesa

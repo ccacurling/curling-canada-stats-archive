@@ -190,7 +190,7 @@ vs:
  - Smith, Heather
  - Snider, Shelly
  - Sobey, Lianne
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thomas, Jill
  - Udle, Teri
  - Vautour, Carrie

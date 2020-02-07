@@ -99,7 +99,7 @@ vs:
  - Snyder, Jane
  - Strong, Heather
  - Strong, Laura
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thomas-Kennell, Noelle
  - Trombley, Christy
  - Walsh, Jenna

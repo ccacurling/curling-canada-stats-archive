@@ -173,7 +173,7 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
- - Sweeting, Valerie
+ - Sweeting, Val
  - Tanner, Ros
  - Thiessen, Alison
  - Thomas, Jill

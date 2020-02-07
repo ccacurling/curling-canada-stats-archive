@@ -205,7 +205,7 @@ vs:
  - Sonnenberg, Renee
  - Strong, Heather
  - Strong, Laura
- - Sweeting, Valerie
+ - Sweeting, Val
  - Thiessen, Alison
  - Titheridge, Lindsay
  - Trickett, Erica

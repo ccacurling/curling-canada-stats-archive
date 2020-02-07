@@ -193,7 +193,7 @@ vs:
  - Snyder, Jane
  - Strong, Heather
  - Strong, Laura
- - Sweeting, Valerie
+ - Sweeting, Val
  - Trombley, Christy
  - Udle, Teri
  - Van Osch, Kalia

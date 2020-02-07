@@ -491,7 +491,7 @@ vs:
  - Stricker, Joan
  - Stubbings, Tiffany
  - Surik, Teejay
- - Sweeting, Valerie
+ - Sweeting, Val
  - Tanner, Allison
  - Tanner, Ros
  - Tasaka, Adina
