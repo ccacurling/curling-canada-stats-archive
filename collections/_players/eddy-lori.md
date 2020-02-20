@@ -71,11 +71,15 @@ years:
   team: MID
   position: Alternate
 vs:
+- Arnott, Janet
 - Arseneau, Jane
+- Bakker, Glenys
 - Betker, Jan
 - Beveridge, Corie
 - Bodogh, Marilyn
 - Bohmer, Brenda
+- Breen, Thersa
+- Bryant, Angie
 - Campbell, June
 - Charette, France
 - Cormier, Sharon
@@ -85,7 +89,9 @@ vs:
 - Dolan, Kim
 - Floyd, Kathy
 - Fraser, Sherry
+- Frey, Audrey
 - Gellard, Kim
+- Godberson, Heather
 - Gudereit, Marcia
 - Hanlon, Heidi
 - Harvey, Alison
@@ -93,6 +99,8 @@ vs:
 - Harvey, Janet
 - Henry, Lou Ann
 - Hooper Perroud, Jane
+- Hooper, Jane
+- Hopkins, Heather
 - Horne, Kate
 - Jones, Colleen
 - Jones-Walker, Debbie
@@ -101,39 +109,31 @@ vs:
 - Kelly, Kim
 - Kerr, Kathy
 - King, Cathy
+- Kleibrink, Shannon
+- Laliberte, Connie
 - Law, Kelley
+- Leonard, Judy
 - MacAulay, Marion
 - MacDonald, Rebecca Jean
+- MacLeod, Lisa
 - Mallett, Marla
 - Martin, Heather
+- Mattatall, Mary
 - McCusker, Joan
+- McKnight, Patti
+- Merklinger, Anne
+- Middaugh, Sherry
 - Moss, Debbie
+- Mulroney, Sandra
 - Nedohin, Heather
+- Nimmo, Shannon
 - Ondrack, Wendy
 - Osborne, Chantal
+- Overton-Clapham, Cathy
 - Phillips, Laura
 - Radford, Helen
 - Sabourin, Joelle
 - Schmirler, Sandra
-- Arnott, Janet
-- Bakker, Glenys
-- Breen, Thersa
-- Bryant, Angie
-- Frey, Audrey
-- Godberson, Heather
-- Hooper, Jane
-- Hopkins, Heather
-- Kleibrink, Shannon
-- Laliberte, Connie
-- Leonard, Judy
-- MacLeod, Lisa
-- Mattatall, Mary
-- McKnight, Patti
-- Merklinger, Anne
-- Middaugh, Sherry
-- Mulroney, Sandra
-- Nimmo, Shannon
-- Overton-Clapham, Cathy
 - Sipka, Joanne
 - Thurston, Jill
 - Zielke, Colleen

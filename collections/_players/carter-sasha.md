@@ -255,11 +255,13 @@ years:
 vs:
 - Affleck, Tricia
 - Aleksic, Shannon
+- Anderson, Sherry
 - Arnott, Janet
 - Arsenault, Mary-Anne
 - Atkinson, Rebecca
 - Ayrey, Jinaye
 - Babin, Jillian
+- Bakker, Glenys
 - Barbour, Shona
 - Baxter, Jen
 - Beauchamp, Sasha
@@ -284,6 +286,7 @@ vs:
 - Clarke, Hayley
 - Comeau, Martine
 - Comeau, Sandy
+- Cordina, Sheri
 - Cormier, Sharon
 - Crawford, Andrea
 - Crouse, Jennifer
@@ -310,10 +313,13 @@ vs:
 - Fortier, Marie-Josee
 - Fullerton, Sarah
 - Gagnier, Monique
+- Gagnon, Karo
 - Galusha, Kerry
+- Gatchell, Sara
 - Gates, Amanda
 - Gauthier, Cathy
 - George, Tara
+- Gignac, Donna
 - Gilman, Sheena
 - Goss, Peg
 - Gregoire, Veronique
@@ -326,6 +332,7 @@ vs:
 - Harmark, Andra
 - Harrison, Meredith
 - Harvey, Janet
+- Hodson, Kim
 - Holland, Amber
 - Hollands, Saskia
 - Holtby, Taryn
@@ -339,6 +346,7 @@ vs:
 - Kalenchuk, Heather
 - Kasner, Marliese
 - Kelly, Kim
+- Keshen, Christine
 - Kidd, Darlene
 - King, Cathy
 - Kleibrink, Shannon
@@ -348,6 +356,7 @@ vs:
 - Lang, Lorraine
 - Larouche, Marie-France
 - Law, Kelley
+- Lawes, Andrea
 - Lawes, Kaitlyn
 - Lawton, Stefanie
 - LeDrew, Stephanie
@@ -355,6 +364,7 @@ vs:
 - Lemay, Annie
 - Lemon, Colette
 - Letendre, Pascale
+- Linton, Sherry
 - Loder, Cherie-Ann
 - MacDiarmid, Kristen
 - MacDonald, Rebecca Jean
@@ -364,14 +374,17 @@ vs:
 - MacPhee, Robyn
 - Mair, Jessica
 - Makichuck, Lindsay
+- Malekoff, Stephanie
 - Martin, Heather
 - Materi, Roberta
 - Mattatall, Mary
 - McCagg-Nystrom, Heather
 - McCarville, Krista
 - McConnery, Nancy
+- McCusker, Joan
 - McEwen, Dawn
 - McInnis, Susan
+- McPherson, Cheryl
 - Meakin, Breanne
 - Middaugh, Sherry
 - Miller, Wendy
@@ -394,11 +407,11 @@ vs:
 - Nowlan, Denise
 - Nugent, Pamela
 - O'Connor, Susan
-- Officer, Jill
 - O'Leary, Susan
-- Olson-Johns, Lori
 - O'Rourke, Brittany
 - O'Rourke, Kathy
+- Officer, Jill
+- Olson-Johns, Lori
 - Osborne, Chantal
 - Overton-Clapham, Cathy
 - Parsons, Danielle
@@ -407,12 +420,14 @@ vs:
 - Phillips, Kristen
 - Porter, Erin
 - Power, Marie-Anne
+- Preston, Sam
 - Prosser, Sandi
 - Provencal, Darah
 - Rainville, Julie
 - Ramsay, Geri Lynn
 - Richard, Marie
 - Ridalls, Kristen
+- Rizzo, Jo-Ann
 - Robichaud, Sylvie
 - Rocque, Raylene
 - Rogers, Rhonda
@@ -441,13 +456,16 @@ vs:
 - Thomas, Jill
 - Thompson, Karla
 - Thurston, Jill
+- Tuck, Kimberly
 - Udle, Teri
 - Vey, Lana
 - Wall, Kirsten
+- Walsh, Heather
 - Walsh, Jenna
 - Wasylkiw, Lauren
 - Weagle, Lisa
 - Webster, Bronwen
+- Webster, Crystal
 - Westcott, Raunora
 - Wheatcroft, Georgina
 - Whitaker, Carol
@@ -455,22 +473,4 @@ vs:
 - Wylie, Jennifer
 - Yardley, Janelle
 - Zinck, Kay
-- Anderson, Sherry
-- Bakker, Glenys
-- Cordina, Sheri
-- Gagnon, Karo
-- Gatchell, Sara
-- Gignac, Donna
-- Hodson, Kim
-- Keshen, Christine
-- Lawes, Andrea
-- Linton, Sherry
-- Malekoff, Stephanie
-- McCusker, Joan
-- McPherson, Cheryl
-- Preston, Sam
-- Rizzo, Jo-Ann
-- Tuck, Kimberly
-- Walsh, Heather
-- Webster, Crystal
 ---

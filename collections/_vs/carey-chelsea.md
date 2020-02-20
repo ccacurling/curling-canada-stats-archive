@@ -4547,7 +4547,7 @@ vs:
     year: 2014
     draw: Round Robin(8)
     score: NL 3 - MB 5
-- name: Sweeting, Valerie
+- name: Sweeting, Val
   totals:
   - event: Hearts
     player1:
@@ -4558,6 +4558,15 @@ vs:
       percent: 90
       wins: 2
       losses: 0
+  - event: Trials (Women)
+    player1:
+      percent: 85
+      wins: 2
+      losses: 0
+    player2:
+      percent: 74
+      wins: 0
+      losses: 2
   games:
   - player1:
       team: MB
@@ -4591,6 +4600,38 @@ vs:
     year: 2014
     draw: Semi-Final(20)
     score: MB 5 - AB 6
+  - player1:
+      team: CAR
+      position: Fourth
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: SWE
+      position: Fourth
+      percent: 74
+      win: 0
+      loss: 1
+    event: Trials (Women)
+    year: 2013
+    draw: Round Robin(11)
+    score: SWE 4 - CAR 6
+  - player1:
+      team: Care
+      position: Fourth
+      percent: 87
+      win: 1
+      loss: 0
+    player2:
+      team: Swee
+      position: Fourth
+      percent: 74
+      win: 0
+      loss: 1
+    event: Trials (Women)
+    year: 2017
+    draw: Round Robin(5)
+    score: Swee 4 - Care 7
 - name: Thevenot, Kara
   totals:
   - event: Hearts
@@ -5726,50 +5767,6 @@ vs:
     year: 2013
     draw: Round Robin(9)
     score: SON 4 - CAR 6
-- name: Sweeting, Val
-  totals:
-  - event: Trials (Women)
-    player1:
-      percent: 85
-      wins: 2
-      losses: 0
-    player2:
-      percent: 74
-      wins: 0
-      losses: 2
-  games:
-  - player1:
-      team: CAR
-      position: Fourth
-      percent: 83
-      win: 1
-      loss: 0
-    player2:
-      team: SWE
-      position: Fourth
-      percent: 74
-      win: 0
-      loss: 1
-    event: Trials (Women)
-    year: 2013
-    draw: Round Robin(11)
-    score: SWE 4 - CAR 6
-  - player1:
-      team: Care
-      position: Fourth
-      percent: 87
-      win: 1
-      loss: 0
-    player2:
-      team: Swee
-      position: Fourth
-      percent: 74
-      win: 0
-      loss: 1
-    event: Trials (Women)
-    year: 2017
-    draw: Round Robin(5)
-    score: Swee 4 - Care 7
 - name: Tippin, Julie
   totals:
   - event: Trials (Women)

@@ -311,12 +311,14 @@ vs:
 - Eldridge, Zach
 - Elias, Dave
 - Elmaleh, Maxime
+- Epping, John
 - Ferbey, Randy
 - Ferland, Martin
 - Flasch, Colton
 - Flaxey, Caleb
 - Flemming, Paul
 - Folk, Kevin
+- Forrest, Tyler
 - Fowler, Rob
 - Frans, Joe
 - Fraser, Pierre
@@ -335,6 +337,8 @@ vs:
 - Graber, Dennis
 - Grattan, James
 - Griffith, Ty
+- Griffith, Tyrel
+- Gunnlaugson, Jason
 - Gushue, Brad
 - Harnden, Al
 - Harnden, E.J.
@@ -382,6 +386,7 @@ vs:
 - Lemay, Philippe
 - Lohnes, Bruce
 - Lyburn, Allan
+- MacDonald, Blake
 - MacDonald, Rod
 - MacFadyen, Alex
 - MacInnes, David
@@ -398,11 +403,13 @@ vs:
 - McCarville, Mike
 - McDermaid, Donald
 - McEwen, Mike
+- Mead, Jon
 - Mead, Jonathan
 - Melnichuk, Greg
 - Menard, Jean-Michel
 - Menard, Philippe
 - Middaugh, Wayne
+- Mitchell, Collin
 - Mittelstadt, Kelly
 - Morgan, Tyler
 - Morris, John
@@ -421,11 +428,12 @@ vs:
 - Nichols, Mark
 - Nobert, Rob
 - Noftall, David
+- O'Rourke, Mark
 - Odishaw, Grant
 - Odishaw, Terry
-- O'Rourke, Mark
 - Ouimet, Luc
 - Palmer, Curt
+- Park, Kevin
 - Peddigrew, Ken
 - Pfeifer, Scott
 - Pielak, Rod
@@ -433,6 +441,7 @@ vs:
 - Porter, Geoff
 - Porter, Ryan
 - Rafuse, Brian
+- Richter, Justin
 - Roach, Darren
 - Roach, Jason
 - Roberge, Francois
@@ -457,6 +466,7 @@ vs:
 - Sullivan, Charles Jr
 - Sylvain, Eric
 - Tallon, Wayne
+- Thiessen, Nolan
 - Thomson, Fred
 - Toner, Lee
 - Ursel, Bob
@@ -470,15 +480,5 @@ vs:
 - Windsor, Brian
 - Wood, Mike
 - Wozniak, Matt
-- Epping, John
-- Forrest, Tyler
-- Griffith, Tyrel
-- Gunnlaugson, Jason
-- MacDonald, Blake
-- Mead, Jon
-- Mitchell, Collin
-- Park, Kevin
-- Richter, Justin
-- Thiessen, Nolan
 - Zawada, Braden
 ---

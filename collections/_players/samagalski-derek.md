@@ -159,6 +159,7 @@ vs:
 - Gaudet, Mike
 - Grattan, James
 - Griffith, Ty
+- Griffith, Tyrel
 - Gushue, Brad
 - Harnden, E.J.
 - Harnden, Ryan
@@ -221,6 +222,7 @@ vs:
 - Saccary, Scott
 - Savill, Craig
 - Sawatsky, Rick
+- Schneider, Catlin
 - Seabrook, Scott
 - Simmons, Pat
 - Smallwood, Robert
@@ -230,12 +232,10 @@ vs:
 - Symonds, Andrew
 - Thiessen, Brad
 - Thiessen, Nolan
+- Thomas, Charley
 - Trepanier, Jean-Francois
 - Villeneuve, Steeve
 - Walker, Geoff
 - Whitehead, Mark
 - Wozniak, Matt
-- Griffith, Tyrel
-- Schneider, Catlin
-- Thomas, Charley
 ---

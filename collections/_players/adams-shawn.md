@@ -136,6 +136,7 @@ vs:
 - Corner, Peter
 - Cotter, Jim
 - Cowan, Chad
+- Dacey, Mark
 - Danbrook, Jamie
 - Desjardins, Robert
 - Dillon, Mike
@@ -148,6 +149,7 @@ vs:
 - Ellis, Ken
 - Elmaleh, Maxime
 - Eloranta, Drew
+- Fenton, Brad
 - Ferbey, Randy
 - Folk, Kevin
 - Frans, Joe
@@ -157,6 +159,7 @@ vs:
 - Gagnon, Jean
 - Gaudet, Mike
 - Gavin, Martin
+- Gibson, Andrew
 - Golanowski, Rory
 - Gorveatt, Philip
 - Gould, Steve
@@ -165,6 +168,7 @@ vs:
 - Haichert, Chris
 - Harnden, E.J.
 - Harnden, Ryan
+- Harris, Rob
 - Hart, Richard
 - Hebert, Ben
 - Henderson, Ron
@@ -182,6 +186,7 @@ vs:
 - Kerr, Ian
 - Kilgallen, Shane
 - Koe, Jamie
+- Koe, Kevin
 - Koffski, Rob
 - Korab, Jamie
 - Korte, Bruce
@@ -190,7 +195,9 @@ vs:
 - Lang, Mark
 - Laycock, Steve
 - LeCocq, Marc
+- Leech, Ron
 - Likely, John
+- Lohnes, Bruce
 - Lukowich, Mark
 - MacDonald, Rod
 - MacKenzie, Eddie
@@ -202,6 +209,7 @@ vs:
 - McCarrel, Graeme
 - McCusker, Brian
 - McKee, Darrell
+- Mead, Jon
 - Mead, Jonathan
 - Melnichuk, Greg
 - Menard, Jean-Michel
@@ -211,6 +219,7 @@ vs:
 - Mikkelsen, Ray
 - Millar, Colin
 - Milward, Ross
+- Moffatt, Paul
 - Morris, John
 - Moshenko, Darcy
 - Moskowy, Kelly
@@ -225,6 +234,7 @@ vs:
 - Noseworthy, Mark
 - Odishaw, Grant
 - Ouimet, Luc
+- Peachey, Jay
 - Perron, Rick
 - Pfeifer, Scott
 - Phillips, Tim
@@ -233,6 +243,7 @@ vs:
 - Porter, Geoff
 - Pritchett, Bob
 - Pyper, Dwayne
+- Recksiedler, Kevin
 - Roberge, Francois
 - Robinson, Andrew
 - Rocque, Marcel
@@ -263,17 +274,6 @@ vs:
 - Toner, Lee
 - Turpin, Randy
 - Van Den Berghe, Garry
-- Walchuk, Don
-- Dacey, Mark
-- Fenton, Brad
-- Gibson, Andrew
-- Harris, Rob
-- Koe, Kevin
-- Leech, Ron
-- Lohnes, Bruce
-- Mead, Jon
-- Moffatt, Paul
-- Peachey, Jay
-- Recksiedler, Kevin
 - Vandenberghe, Garry
+- Walchuk, Don
 ---

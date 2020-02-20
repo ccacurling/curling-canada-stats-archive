@@ -150,10 +150,13 @@ vs:
 - Balderston, Marcy
 - Barrack, Carmen
 - Belanger, Nancy
+- Bell, Patty
 - Bernard, Krista
 - Berthelot, Janique
+- Beveridge, Corie
 - Birt, Suzanne
 - Blanchard, Judy
+- Bohmer, Brenda
 - Bonar, Maureen
 - Bradley, Shelly
 - Breen, Theresa
@@ -170,6 +173,7 @@ vs:
 - Cordina, Sheri
 - Cunningham, Cathy
 - Daku, Karen
+- Darbyshire, Carolyn
 - Delahunt, Nancy
 - Dobson, Sue
 - Englot, Michelle
@@ -177,6 +181,8 @@ vs:
 - Fisher, Alana
 - Floyd, Kathy
 - Fowler, Lois
+- Fowlie, Heather
+- Fraser, Sherry
 - Freeman, Lisa
 - Frey, Audrey
 - Gagnon, Karo
@@ -186,6 +192,7 @@ vs:
 - Goss, Peg
 - Gregoire, Veronique
 - Grenier, Valerie
+- Gushulak, Diane
 - Handfield, Simone
 - Hanlon, Heidi
 - Harding, Mary
@@ -195,7 +202,9 @@ vs:
 - Hennigar, Karen
 - Herlinveaux, Louise
 - Hodson, Kim
+- Holland, Amber
 - Holowec, Ainsley
+- Horne, Kate
 - Horte, Rhonda
 - Houston, Heather
 - Hunter, Lana
@@ -203,11 +212,13 @@ vs:
 - Jamieson, Shirley
 - Jones, Colleen
 - Jones-Walker, Debbie
+- Jurgenson, Christine
 - Karasek, Bev
 - Kehler, Lorie
 - Kelly, Kim
 - Kennedy, Tracy
 - Kerr, Kathy
+- King, Cathy
 - Kleibrink, Shannon
 - Laliberte, Connie
 - Lang, Lorraine
@@ -217,10 +228,12 @@ vs:
 - LeCraw, Carolyn
 - Lemay, Annie
 - MacCallum, Janice
+- MacDonald, Lawnie
 - MacDonald, Shelley
 - MacDougall, Leslie
 - Maher, Pat
 - Marchand, Stephanie
+- Martin, Denise
 - Martin, Heather
 - Martin, Sue
 - Massullo, Deb
@@ -236,6 +249,7 @@ vs:
 - McNamee, Karen
 - Merklinger, Anne
 - Middaugh, Sherry
+- Montgomery, Kay
 - Moore, Kristie
 - Moriarty, Monica
 - Moss, Debbie
@@ -251,6 +265,7 @@ vs:
 - Pinkney, Colleen
 - Poisson, Francine
 - Power, Marie-Anne
+- Purdy, Karen
 - Radchenka, Tammy
 - Ramsay, Jennifer
 - Renouf, Michele
@@ -275,6 +290,7 @@ vs:
 - Thurston, Jill
 - Wall, Kirsten
 - Walter, Cathy
+- Webster, Bronwen
 - Werenka, Lil
 - Wheatcroft, Georgina
 - Whitaker, Lise
@@ -282,20 +298,4 @@ vs:
 - Wright, Susan
 - Young, Karen
 - Zinck, Kay
-- Bell, Patty
-- Beveridge, Corie
-- Bohmer, Brenda
-- Darbyshire, Carolyn
-- Fowlie, Heather
-- Fraser, Sherry
-- Gushulak, Diane
-- Holland, Amber
-- Horne, Kate
-- Jurgenson, Christine
-- King, Cathy
-- MacDonald, Lawnie
-- Martin, Denise
-- Montgomery, Kay
-- Purdy, Karen
-- Webster, Bronwen
 ---

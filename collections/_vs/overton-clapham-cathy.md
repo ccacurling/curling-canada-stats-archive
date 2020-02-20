@@ -3010,7 +3010,7 @@ vs:
     year: 1991
     draw: Round Robin(7)
     score: MB 4 - BC 5
-- name: Sweeting, Valerie
+- name: Sweeting, Val
   totals:
   - event: Hearts
     player1:
@@ -3019,6 +3019,15 @@ vs:
       losses: 0
     player2:
       percent: 65
+      wins: 0
+      losses: 1
+  - event: Trials (Women)
+    player1:
+      percent: 83
+      wins: 1
+      losses: 0
+    player2:
+      percent: 74
       wins: 0
       losses: 1
   games:
@@ -3038,6 +3047,22 @@ vs:
     year: 2010
     draw: Round Robin(9)
     score: AB 7 - CA 9
+  - player1:
+      team: Care
+      position: Third
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: Swee
+      position: Fourth
+      percent: 74
+      win: 0
+      loss: 1
+    event: Trials (Women)
+    year: 2017
+    draw: Round Robin(5)
+    score: Swee 4 - Care 7
 - name: Tanner, Allison
   totals:
   - event: Hearts
@@ -4453,34 +4478,6 @@ vs:
     year: 1997
     draw: Round Robin(6)
     score: LAL 5 - KLE 8
-- name: Sweeting, Val
-  totals:
-  - event: Trials (Women)
-    player1:
-      percent: 83
-      wins: 1
-      losses: 0
-    player2:
-      percent: 74
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: Care
-      position: Third
-      percent: 83
-      win: 1
-      loss: 0
-    player2:
-      team: Swee
-      position: Fourth
-      percent: 74
-      win: 0
-      loss: 1
-    event: Trials (Women)
-    year: 2017
-    draw: Round Robin(5)
-    score: Swee 4 - Care 7
 - name: Tippin, Julie
   totals:
   - event: Trials (Women)

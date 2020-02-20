@@ -245,6 +245,7 @@ vs:
 - Giddens, Ryan
 - Grattan, James
 - Griffith, Ty
+- Griffith, Tyrel
 - Harnden, E.J.
 - Harnden, Ryan
 - Harper, David
@@ -344,5 +345,4 @@ vs:
 - Withycombe, Ian
 - Wood, Brad
 - Wozniak, Matt
-- Griffith, Tyrel
 ---

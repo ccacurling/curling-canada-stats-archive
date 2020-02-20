@@ -87,12 +87,15 @@ vs:
 - Anderson, Sherry
 - Arnott, Janet
 - Arseneau, Jane
+- Bakker, Glenys
 - Betker, Jan
 - Beveridge, Corie
 - Bodogh, Marilyn
 - Bohmer, Brenda
 - Boily, Caroline
+- Breen, Thersa
 - Brown, Maureen
+- Bryant, Angie
 - Campbell, June
 - Charette, France
 - Cormier, Sharon
@@ -104,9 +107,11 @@ vs:
 - Dolan, Kim
 - Floyd, Kathy
 - Fraser, Sherry
+- Frey, Audrey
 - Gauthier, Cathy
 - Gellard, Kim
 - Gignac, Donna
+- Godberson, Heather
 - Gudereit, Marcia
 - Hanlon, Heidi
 - Harding, Mary
@@ -116,6 +121,8 @@ vs:
 - Harvey, Janet
 - Henry, Lou Ann
 - Hooper Perroud, Jane
+- Hooper, Jane
+- Hopkins, Heather
 - Horne, Kate
 - Jackson, Virginia
 - Jennings, Tracey
@@ -128,21 +135,30 @@ vs:
 - Kelly, Kim
 - Kerr, Kathy
 - King, Cathy
+- Kleibrink, Shannon
 - Kyle, Linda
 - Laliberte, Connie
 - Law, Kelley
 - Leblanc, Lisa
+- Leonard, Judy
 - MacAulay, Marion
 - MacDonald, Rebecca Jean
+- MacLeod, Lisa
 - Mallett, Marla
 - Martin, Heather
+- Mattatall, Mary
 - McCloy, Elaine
 - McConnery, Nancy
 - McCusker, Joan
+- McKnight, Patti
+- Merklinger, Anne
+- Middaugh, Sherry
 - Montgomery, Kay
 - Moses, Dawn
 - Moss, Debbie
+- Mulroney, Sandra
 - Nedohin, Heather
+- Nimmo, Shannon
 - Ondrack, Wendy
 - Osborne, Chantal
 - Overton-Clapham, Cathy
@@ -151,24 +167,8 @@ vs:
 - Sabourin, Joelle
 - Schmirler, Sandra
 - Shields, Deanne
-- Stokes, Debbie
-- Bakker, Glenys
-- Breen, Thersa
-- Bryant, Angie
-- Frey, Audrey
-- Godberson, Heather
-- Hooper, Jane
-- Hopkins, Heather
-- Kleibrink, Shannon
-- Leonard, Judy
-- MacLeod, Lisa
-- Mattatall, Mary
-- McKnight, Patti
-- Merklinger, Anne
-- Middaugh, Sherry
-- Mulroney, Sandra
-- Nimmo, Shannon
 - Sipka, Joanne
+- Stokes, Debbie
 - Thurston, Jill
 - Zielke, Colleen
 ---

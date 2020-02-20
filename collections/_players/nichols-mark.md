@@ -385,6 +385,7 @@ vs:
 - Bardsley, Mike
 - Barker, Richard
 - Barry, Josh
+- Bartlett, Don
 - Base, John
 - Berthelot, Marco
 - Beuk, Jonathan
@@ -430,8 +431,8 @@ vs:
 - Dacey, Mark
 - Daneault, Richard
 - Darragh, Alan
-- Desjardins, Robert
 - Desilets, Mike
+- Desjardins, Robert
 - Dieno, Clint
 - Dillon, Mike
 - Dobson, Mark
@@ -481,6 +482,7 @@ vs:
 - Granchelli, Kris
 - Grattan, James
 - Griffith, Ty
+- Griffith, Tyrel
 - Gushue, Brad
 - Haichert, Chris
 - Harcourt, Doug
@@ -573,13 +575,16 @@ vs:
 - McEwen, Mike
 - McKee, Darrell
 - Meachem, Shaun Myles
+- Mead, Jon
 - Mead, Jonathan
 - Melnichuk, Greg
 - Menard, Jean-Michel
 - Menard, Philippe
 - Middaugh, Wayne
 - Milward, Ross
+- Mitchell, Collin
 - Mittelstadt, Kelly
+- Moffatt, Paul
 - Molloy, Pat
 - Morris, John
 - Moshenko, Darcy
@@ -600,15 +605,16 @@ vs:
 - Newson, Jamie
 - Ng, Matt
 - Nobert, Rob
+- O'Rourke, Mark
 - Odishaw, Grant
 - Odishaw, Terry
 - Olson, Mark-2
 - Orme, Tyler
-- O'Rourke, Mark
 - Ouimet, Luc
 - Palmer, Curt
 - Park, Kevin
 - Parsons, Cole
+- Peachey, Jay
 - Peachy, Jay
 - Pfeifer, Scott
 - Pielak, Rod
@@ -669,9 +675,11 @@ vs:
 - Trevellyan, Todd
 - Turpin, Randy
 - Ursel, Bob
+- Vandenberghe, Garry
 - Vaughan, Jason
 - Villeneuve, Steeve
 - Virtue, Brock
+- Walchuk, Don
 - Walker, Geoff
 - Wall, Trevor
 - Wasnea, Brian
@@ -684,12 +692,4 @@ vs:
 - Wood, Brad
 - Wood, Mike
 - Wozniak, Matt
-- Bartlett, Don
-- Griffith, Tyrel
-- Mead, Jon
-- Mitchell, Collin
-- Moffatt, Paul
-- Peachey, Jay
-- Vandenberghe, Garry
-- Walchuk, Don
 ---

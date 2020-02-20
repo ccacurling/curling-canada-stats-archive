@@ -119,6 +119,7 @@ years:
   shots-percent: 90
 vs:
 - Appelman, Tom
+- Bailey, Scott
 - Borden, Robert
 - Bottcher, Brendan
 - Brannen, Jamie
@@ -140,6 +141,7 @@ vs:
 - Gallant, Brett
 - Geall, Sean
 - Griffith, Ty
+- Griffith, Tyrel
 - Gushue, Brad
 - Harnden, E.J.
 - Harnden, Ryan
@@ -163,16 +165,21 @@ vs:
 - LeCocq, Marc
 - March, Tim
 - Martin, Karrick
+- Martin, Kevin
 - Mathers, David
 - Meachem, Shaun Myles
+- Mead, Jon
 - Menard, Jean-Michel
 - Menard, Philippe
+- Middaugh, Wayne
+- Mitchell, Collin
 - Morris, John
 - Moskowy, Braeden
 - Moulding, Darren
 - Murphy, Jamie
 - Muyres, Dallan
 - Muyres, Kirk
+- Nedohin, David
 - Nerpin, Andrew
 - Nichols, Mark
 - Pinder, Jordan
@@ -180,6 +187,7 @@ vs:
 - Rycroft, Carter
 - Saccary, Scott
 - Samagalski, Derek
+- Savill, Craig
 - Sawatsky, Rick
 - Schille, Chris
 - Schneider, Catlin
@@ -188,6 +196,7 @@ vs:
 - Simmons, Pat
 - Smith, Greg
 - Spencer, Adam
+- Stoughton, Jeff
 - Sylvain, Eric
 - Taylor, Andrew
 - Thiessen, Brad
@@ -195,13 +204,4 @@ vs:
 - Walker, Geoff
 - Withycombe, Ian
 - Wood, Brad
-- Bailey, Scott
-- Griffith, Tyrel
-- Martin, Kevin
-- Mead, Jon
-- Middaugh, Wayne
-- Mitchell, Collin
-- Nedohin, David
-- Savill, Craig
-- Stoughton, Jeff
 ---

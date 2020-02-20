@@ -195,11 +195,13 @@ vs:
 - Arsenault, Mary-Anne
 - Arseneau, Jane
 - Baker, Michelle
+- Bakker, Glenys
 - Balderston, Marcy
 - Barrack, Carmen
 - Barrette, Peggy
 - Bartlett, Sue Anne
 - Belanger, Nancy
+- Bell, Patty
 - Bernard, Cheryl
 - Bernard, Krista
 - Berthelot, Janique
@@ -213,12 +215,14 @@ vs:
 - Bowman, Mary
 - Bradley, Shelly
 - Breen, Theresa
+- Breen, Thersa
 - Brothers, Jill
 - Brown, Jacalyn
 - Brown, Janet
 - Brown, Katie
 - Brown, Marcie
 - Brown, Maureen
+- Bryant, Angie
 - Campbell, June
 - Carter, Sasha
 - Chapman, Kathy
@@ -249,6 +253,8 @@ vs:
 - Englot, Michelle
 - Fahlman, Kathy
 - Floyd, Kathy
+- Fowlie, Heather
+- Fraser, Sherry
 - Frey, Audrey
 - Gabriele, Elena
 - Gagnier, Monique
@@ -257,6 +263,7 @@ vs:
 - Gellard, Kim
 - George, Tara
 - Gignac, Donna
+- Godberson, Heather
 - Goring, Alison
 - Green, Sue
 - Greening, Jackie-Rae
@@ -272,8 +279,12 @@ vs:
 - Harvey, Janet
 - Hatton, Sandra
 - Henry, Lou Ann
+- Hodson, Kim
+- Holland, Amber
 - Holowec, Ainsley
 - Hooper Perroud, Jane
+- Hooper, Jane
+- Hopkins, Heather
 - Horne, Kate
 - Horte, Rhonda
 - Houston, Heather
@@ -286,6 +297,7 @@ vs:
 - Jones, Jennifer
 - Jones, Karen
 - Jones-Walker, Debbie
+- Jurgenson, Christine
 - Kaylo, Kelly
 - Kehler, Lorie
 - Kellerman, Bev
@@ -293,6 +305,7 @@ vs:
 - Kennedy, Tracy
 - Kerr, Kathy
 - King, Cathy
+- Kleibrink, Shannon
 - Kyle, Linda
 - Laliberte, Connie
 - Lang, Lorraine
@@ -301,12 +314,16 @@ vs:
 - Leblanc, Lisa
 - Leclerc, Valerie
 - Lemay, Annie
+- Leonard, Judy
 - MacAulay, Marion
 - MacCallum, Janice
+- MacDonald, Lawnie
 - MacDonald, Rebecca Jean
 - MacDonald, Shelley
 - MacDougall, Leslie
+- MacLeod, Lisa
 - MacPhee, Robyn
+- Martin, Denise
 - Martin, Heather
 - Materi, Roberta
 - Mattatall, Mary
@@ -327,19 +344,22 @@ vs:
 - Middaugh, Sherry
 - Montgomery, Kay
 - Moore, Kim
+- Moore, Kimberly
 - Moore, Kristie
 - Morgan, Cheryl
 - Morris, Cori
 - Moses, Dawn
 - Moss, Debbie
+- Mulroney, Sandra
 - Murphy, Jeanette
 - Muzika, Shelley
 - Nedohin, Heather
 - Nichols, Helen
+- Nimmo, Shannon
 - Nowlan, Denise
 - O'Connor, Susan
-- Officer, Jill
 - O'Leary, Susan
+- Officer, Jill
 - Ondrack, Wendy
 - Osborne, Chantal
 - Overton, Kim
@@ -352,6 +372,7 @@ vs:
 - Porter, Debbie
 - Power, Judy
 - Power, Marie-Anne
+- Purdy, Karen
 - Radchenka, Tammy
 - Radford, Helen
 - Rankin, Beth
@@ -371,6 +392,7 @@ vs:
 - Shields, Deanne
 - Sigurdson, Janine
 - Simons, Renee
+- Sipka, Joanne
 - Skinner, Julie
 - Smith, Heather
 - Soligo, Melissa
@@ -391,35 +413,13 @@ vs:
 - Usher, Leanne
 - Vey, Lana
 - Walter, Cathy
+- Webster, Bronwen
 - Whitaker, Carol
 - Whitaker, Lise
 - Whitrow, Leanne
 - Wilson, Patty
 - Wright, Susan
 - Young, Karen
-- Zinck, Kay
-- Bakker, Glenys
-- Bell, Patty
-- Breen, Thersa
-- Bryant, Angie
-- Fowlie, Heather
-- Fraser, Sherry
-- Godberson, Heather
-- Hodson, Kim
-- Holland, Amber
-- Hooper, Jane
-- Hopkins, Heather
-- Jurgenson, Christine
-- Kleibrink, Shannon
-- Leonard, Judy
-- MacDonald, Lawnie
-- MacLeod, Lisa
-- Martin, Denise
-- Moore, Kimberly
-- Mulroney, Sandra
-- Nimmo, Shannon
-- Purdy, Karen
-- Sipka, Joanne
-- Webster, Bronwen
 - Zielke, Colleen
+- Zinck, Kay
 ---

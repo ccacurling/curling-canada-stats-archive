@@ -983,10 +983,10 @@ vs:
     player1:
       percent: 92
       wins: 2
-      losses: 3
+      losses: 4
     player2:
-      percent: 85
-      wins: 3
+      percent: 86
+      wins: 4
       losses: 2
   games:
   - player1:
@@ -1037,6 +1037,22 @@ vs:
     year: 2015
     draw: Round Robin(6)
     score: BC 6 - NL 3
+  - player1:
+      team: BC
+      position: Lead
+      percent: 95
+      win: 0
+      loss: 1
+    player2:
+      team: NL
+      position: Lead
+      percent: 86
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2016
+    draw: Round Robin(14)
+    score: BC 7 - NL 8
   - player1:
       team: BC
       position: Lead

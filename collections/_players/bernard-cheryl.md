@@ -121,12 +121,14 @@ vs:
 - Affleck, Tricia
 - Aleksic, Shannon
 - Allen, Laurie
+- Armstrong, Jacquie
 - Arnott, Janet
 - Barbour, Shona
 - Barrette, Peggy
 - Bartlett, Sue Anne
 - Belanger, Nancy
 - Bell, Allyson
+- Bell, Chelsey
 - Betker, Jan
 - Beveridge, Corie
 - Birt, Suzanne
@@ -176,17 +178,20 @@ vs:
 - Hanlon, Heidi
 - Hardy, Shelley
 - Harrison, Meredith
+- Holland, Amber
 - Hooper Perroud, Jane
 - Hutton, Barb
 - Inglis, Nancy
 - Johnstone, Loralee
 - Jones, Colleen
 - Jones, Jennifer
+- Kalenchuk, Heather
 - Kasner, Marliese
 - Kehler, Lorie
 - Kelly, Kim
 - Kennedy, Tracy
 - Kerr, Kathy
+- Kleibrink, Shannon
 - Laliberte, Connie
 - Lang, Lorraine
 - Larouche, Marie-France
@@ -203,6 +208,7 @@ vs:
 - MacInnes, Grace
 - MacLean, Kari
 - MacPhee, Robyn
+- Malekoff, Stephanie
 - Mallett, Marla
 - Marchand, Jessica
 - Marchand, Stephanie
@@ -222,16 +228,19 @@ vs:
 - Muzika, Shelley
 - Nicholls, Brenda
 - Nichols, Helen
+- Nixon, Amy
 - Nohr, Dianne
 - Nowlan, Denise
-- Officer, Jill
 - O'Leary, Susan
 - O'Rourke, Kathy
+- Officer, Jill
+- Olson-Johns, Lori
 - Osborne, Chantal
 - Overton-Clapham, Cathy
 - Phillips, Laura
 - Pinkney, Colleen
 - Power, Marie-Anne
+- Preston, Sam
 - Provencal, Darah
 - Rainville, Julie
 - Richards, Brette
@@ -239,6 +248,8 @@ vs:
 - Sabourin, Joelle
 - Sauer, Cathy
 - Scales, Julie
+- Schneider, Kim
+- Schneider, Tammy
 - Schraeder, Jeanna
 - Scott, Donna
 - Scott, Kelly
@@ -261,6 +272,8 @@ vs:
 - Udle, Teri
 - Vey, Lana
 - Walker, Lisa
+- Webster, Bronwen
+- Webster, Crystal
 - Wheatcroft, Georgina
 - Whipple, Paula
 - Whitaker, Carol
@@ -269,17 +282,4 @@ vs:
 - Wilson, Patty
 - Zielke, Colleen
 - Zinck, Kay
-- Armstrong, Jacquie
-- Bell, Chelsey
-- Holland, Amber
-- Kalenchuk, Heather
-- Kleibrink, Shannon
-- Malekoff, Stephanie
-- Nixon, Amy
-- Olson-Johns, Lori
-- Preston, Sam
-- Schneider, Kim
-- Schneider, Tammy
-- Webster, Bronwen
-- Webster, Crystal
 ---

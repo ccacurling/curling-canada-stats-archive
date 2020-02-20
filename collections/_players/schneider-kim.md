@@ -113,6 +113,7 @@ vs:
 - Barbour, Shona
 - Belisle, Eve
 - Bell, Chelsey
+- Bernard, Cheryl
 - Birchard, Shannon
 - Birt, Suzanne
 - Blais, Amelie
@@ -127,6 +128,7 @@ vs:
 - Crouse, Jennifer
 - Cunningham, Jennifer
 - Curtis, Stacie
+- Darbyshire, Carolyn
 - deSolla, Jodie
 - Dolan, Kim
 - Dolan, Sinead
@@ -149,12 +151,15 @@ vs:
 - Johnstone, Loralee
 - Jones, Jennifer
 - Joyce, Blisse
+- Kasner, Marliese
 - Kleibrink, Shannon
 - Koehler, Megan
 - Korab, Stephanie
 - Kreviazuk, Alison
+- Lang, Lorraine
 - Larouche, Marie-France
 - Lawes, Kaitlyn
+- Lawton, Stefanie
 - LeDrew, Stephanie
 - Lemay, Annie
 - Lemon, Colette
@@ -164,6 +169,7 @@ vs:
 - MacPhee, Robyn
 - Mair, Jessica
 - Makichuck, Lindsay
+- Malekoff, Stephanie
 - Martin, Heather
 - Materi, Roberta
 - McCarville, Krista
@@ -172,19 +178,23 @@ vs:
 - Meakin, Breanne
 - Miskew, Emma
 - More, Whitney
+- Morris, Cori
 - Moses, Dawn
 - Naugler, Tara
 - Nedohin, Heather
 - Nicholls, Brenda
 - Nixon, Amy
 - Nowlan, Denise
-- Officer, Jill
+- O'Connor, Susan
 - O'Rourke, Kathy
+- Officer, Jill
+- Olson-Johns, Lori
 - Overton-Clapham, Cathy
 - Parsons, Danielle
 - Paul, Sarah
 - Peters, Laine
 - Phillips, Kristen
+- Preston, Sam
 - Price, Kara
 - Rainville, Julie
 - Ramsay, Geri Lynn
@@ -192,6 +202,7 @@ vs:
 - Rogers, Rhonda
 - Schraeder, Jeanna
 - Scott, Kelly
+- Singler, Sherri
 - Sippala, Ashley
 - Sivertson, Dailene
 - Slywka, Sarah
@@ -208,19 +219,8 @@ vs:
 - Walsh, Jenna
 - Weagle, Lisa
 - Webster, Bronwen
+- Webster, Crystal
 - Westcott, Raunora
 - Wilson, Leslie
 - Wylie, Jennifer
-- Bernard, Cheryl
-- Darbyshire, Carolyn
-- Kasner, Marliese
-- Lang, Lorraine
-- Lawton, Stefanie
-- Malekoff, Stephanie
-- Morris, Cori
-- O'Connor, Susan
-- Olson-Johns, Lori
-- Preston, Sam
-- Singler, Sherri
-- Webster, Crystal
 ---

@@ -137,6 +137,7 @@ years:
 vs:
 - Abel, Clinton
 - Appelman, Tom
+- Bailey, Scott
 - Beuk, Jonathan
 - Boland, Adam
 - Borden, Robert
@@ -164,6 +165,7 @@ vs:
 - Gallant, Brett
 - Geall, Sean
 - Griffith, Ty
+- Griffith, Tyrel
 - Gushue, Brad
 - Harnden, E.J.
 - Harnden, Ryan
@@ -192,17 +194,22 @@ vs:
 - Marsh, Dan
 - Marsh, Kevin
 - Martin, Karrick
+- Martin, Kevin
 - Mathers, David
 - McDonald, Scott
 - Meachem, Shaun Myles
+- Mead, Jon
 - Menard, Jean-Michel
 - Menard, Philippe
+- Middaugh, Wayne
+- Mitchell, Collin
 - Morris, John
 - Moskowy, Braeden
 - Moulding, Darren
 - Murphy, Jamie
 - Muyres, Dallan
 - Muyres, Kirk
+- Nedohin, David
 - Nerpin, Andrew
 - Neufeld, B.J.
 - Nichols, Mark
@@ -213,6 +220,7 @@ vs:
 - Rycroft, Carter
 - Saccary, Scott
 - Samagalski, Derek
+- Savill, Craig
 - Sawatsky, Rick
 - Schille, Chris
 - Schneider, Catlin
@@ -223,6 +231,7 @@ vs:
 - Smith, Greg
 - Solberg, Jonathon
 - Spencer, Adam
+- Stoughton, Jeff
 - Sylvain, Eric
 - Symonds, Andrew
 - Taylor, Andrew
@@ -231,13 +240,4 @@ vs:
 - Walker, Geoff
 - Withycombe, Ian
 - Wood, Brad
-- Bailey, Scott
-- Griffith, Tyrel
-- Martin, Kevin
-- Mead, Jon
-- Middaugh, Wayne
-- Mitchell, Collin
-- Nedohin, David
-- Savill, Craig
-- Stoughton, Jeff
 ---

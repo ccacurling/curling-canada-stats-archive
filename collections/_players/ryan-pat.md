@@ -271,11 +271,13 @@ vs:
 - Elmaleh, Maxime
 - Eloranta, Drew
 - Feldman, Alfred
+- Fenton, Brad
 - Fenton, Keith
 - Ferbey, Randy
 - Ferraro, Marco
 - Ferster, Greg
 - Fitzherbert, Brad
+- Flemming, Paul
 - Fletcher, Bill
 - Folk, Rick
 - Fowler, Brian
@@ -297,6 +299,7 @@ vs:
 - Gibson, Andrew
 - Giles, Roy
 - Gorveatt, Philip
+- Gould, Steve
 - Grant, Scott
 - Grattan, James
 - Gretzinger, Bert
@@ -309,6 +312,7 @@ vs:
 - Harris, Rob
 - Harris, Tyler
 - Harrison, Neil
+- Hart, Richard
 - Harvey, Don
 - Harvey, Paul
 - Heidt, Brad
@@ -333,18 +337,20 @@ vs:
 - Jenkins, Bill
 - Johnston, Steve
 - Journeaux, Ian
-- Kalthoff, Kevin
 - Kallos, Jack Jr
+- Kalthoff, Kevin
 - Kammerlock, Ron
 - Kamp, Ragnar
 - Kapicki, Ron
 - Kawaja, John
 - Kelsch, Dan
 - Kennedy, Bruce
+- Kennedy, Marc
 - Kennedy, Mike
 - Kerr, Ian
 - Kijewski, Kelly
 - Kilgallen, Shane
+- Koe, Kevin
 - Koffski, Rob
 - Korab, Jamie
 - Krupski, Gary
@@ -358,6 +364,7 @@ vs:
 - Lappalainen, Art
 - LeClair, Bob
 - LeCocq, Marc
+- Leech, Ron
 - Lemay, Jean-Yves
 - Lemery, Dan
 - Lenz, Cliff
@@ -392,6 +399,7 @@ vs:
 - McCusker, Brian
 - McDonald, Toby
 - McDonald, Ward
+- Mead, Jon
 - Meakin, Rob
 - Meger, Doug
 - Meleschuk, Orest
@@ -405,6 +413,8 @@ vs:
 - Mimeault, Bernard
 - Mimeault, Greg
 - Mitchell, Gary
+- Mittelstadt, Kelly
+- Moffatt, Paul
 - Morris, Earle
 - Morris, John
 - Moskowy, Kelly
@@ -416,13 +426,13 @@ vs:
 - Nicholls, Peter
 - Nichols, Mark
 - Noseworthy, Mark
+- O'Driscoll, Frank
+- O'Leary, Alan
+- O'Rourke, Mark
 - Odian, Scott
 - Odishaw, Grant
-- O'Driscoll, Frank
 - Oke, Gary
-- O'Leary, Alan
 - Ormbsy, Dan
-- O'Rourke, Mark
 - Packet, Jim
 - Pahl, James
 - Park, Kevin
@@ -430,6 +440,7 @@ vs:
 - Patterson, Scott
 - Paulsen, Art
 - Paulsen, Nick
+- Peachey, Jay
 - Peddigrew, Ken
 - Perroud, Pat
 - Perry, Randy
@@ -445,6 +456,7 @@ vs:
 - Power, Joe
 - Rastelli, Max
 - Ravndal, Clayton
+- Recksiedler, Kevin
 - Reddick, Don
 - Reibin, Dale
 - Roach, Terry
@@ -459,6 +471,7 @@ vs:
 - Rudd, Don
 - Ryan, Don
 - Ryan, Jeff
+- Rycroft, Carter
 - Salina, Charlie
 - Salo, John
 - Savage, Paul
@@ -483,6 +496,7 @@ vs:
 - Spencer, Jim
 - Steski, John
 - Steventon, Lawren
+- Stoughton, Jeff
 - Strain, Bill
 - Stuart, Darol
 - Suchy, Chris
@@ -500,7 +514,9 @@ vs:
 - Turner, Malcolm
 - Turpin, Randy
 - Usackis, John
+- Vandenberghe, Garry
 - Vautour, Joseph
+- Walchuk, Don
 - Wallace, Dale
 - Wallace, Dave
 - Walsh, Jim
@@ -516,20 +532,4 @@ vs:
 - Woytowich, Randy
 - Young, Neil
 - Ziola, Monte
-- Fenton, Brad
-- Flemming, Paul
-- Gould, Steve
-- Hart, Richard
-- Kennedy, Marc
-- Koe, Kevin
-- Leech, Ron
-- Mead, Jon
-- Mittelstadt, Kelly
-- Moffatt, Paul
-- Peachey, Jay
-- Recksiedler, Kevin
-- Rycroft, Carter
-- Stoughton, Jeff
-- Vandenberghe, Garry
-- Walchuk, Don
 ---

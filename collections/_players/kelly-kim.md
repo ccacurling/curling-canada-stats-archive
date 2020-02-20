@@ -389,6 +389,7 @@ vs:
 - Belisle, Eve
 - Bell, Allyson
 - Bell, Chelsey
+- Bell, Patty
 - Belley, Joelle
 - Bernard, Cheryl
 - Bernard, Krista
@@ -441,6 +442,7 @@ vs:
 - Daku, Karen
 - Dalio, Diane
 - Daniel, Sylvie
+- Darbyshire, Carolyn
 - deJager, Blaine
 - Derick, Catherine
 - deSolla, Jodie
@@ -469,6 +471,7 @@ vs:
 - Fortier, Marie-Josee
 - Fortin, Sylvie
 - Fowler, Lois
+- Fowlie, Heather
 - Fraser, Sherry
 - Freeman, Lisa
 - Frey, Audrey
@@ -478,6 +481,7 @@ vs:
 - Gagnon, Nathalie
 - Galusha, Kerry
 - Garnett, Lorelei
+- Gatchell, Sara
 - Gauthier, Cathy
 - Gellard, Kim
 - George, Tara
@@ -507,6 +511,7 @@ vs:
 - Henry, Lou Ann
 - Hensley, Merna
 - Hodson, Kim
+- Holland, Amber
 - Hollands, Saskia
 - Holowec, Ainsley
 - Holtby, Taryn
@@ -530,6 +535,7 @@ vs:
 - Kellerman, Bev
 - Kennedy, Tracy
 - Kerr, Kathy
+- Keshen, Christine
 - Kidd, Darlene
 - King, Cathy
 - Kleibrink, Shannon
@@ -574,6 +580,7 @@ vs:
 - Marchand, Karine
 - Marchand, Stephanie
 - Marchuk, Lindy
+- Martin, Denise
 - Martin, Heather
 - Materi, Roberta
 - Mattatall, Mary
@@ -616,12 +623,12 @@ vs:
 - Nixon, Amy
 - Nohr, Dianne
 - Nugent, Pamela
-- Officer, Jill
 - O'Leary, Susan
-- Olson-Johns, Lori
-- Ondrack, Wendy
 - O'Rourke, Brittany
 - O'Rourke, Kathy
+- Officer, Jill
+- Olson-Johns, Lori
+- Ondrack, Wendy
 - Osborne, Chantal
 - Overton-Clapham, Cathy
 - Palinkas, Gloria
@@ -646,6 +653,7 @@ vs:
 - Renouf, Michele
 - Richard, Marie
 - Ridalls, Kristen
+- Rizzo, Jo-Ann
 - Roberts, Angela
 - Robertson, Darcy
 - Robichaud, Sylvie
@@ -700,12 +708,14 @@ vs:
 - Todd, Fran
 - Train, Mona
 - Trider, Krista
+- Tuck, Kimberly
 - Tucker, Cindy
 - Turcotte, Kristin
 - Unrau, Faye
 - Usher, Leanne
 - Walker, Lisa
 - Wall, Kirsten
+- Walsh, Heather
 - Walter, Cathy
 - Wasylkiw, Lauren
 - Wazney, Sarah
@@ -723,14 +733,4 @@ vs:
 - Young, Karen
 - Zielke, Colleen
 - Zinck, Kay
-- Bell, Patty
-- Darbyshire, Carolyn
-- Fowlie, Heather
-- Gatchell, Sara
-- Holland, Amber
-- Keshen, Christine
-- Martin, Denise
-- Rizzo, Jo-Ann
-- Tuck, Kimberly
-- Walsh, Heather
 ---

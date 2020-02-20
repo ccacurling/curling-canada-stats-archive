@@ -7683,7 +7683,7 @@ vs:
     year: 2008
     draw: Round Robin(13)
     score: TR 5 - CA 10
-- name: Sweeting, Valerie
+- name: Sweeting, Val
   totals:
   - event: Hearts
     player1:

@@ -129,6 +129,7 @@ vs:
 - Gallant, Brett
 - Geall, Sean
 - Griffith, Ty
+- Griffith, Tyrel
 - Gushue, Brad
 - Harnden, E.J.
 - Harnden, Ryan
@@ -194,5 +195,4 @@ vs:
 - Withycombe, Ian
 - Wood, Brad
 - Wozniak, Matt
-- Griffith, Tyrel
 ---

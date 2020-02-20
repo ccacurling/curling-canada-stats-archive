@@ -86,10 +86,15 @@ years:
 vs:
 - Adams, Melissa
 - Anderson, Sherry
+- Armstrong, Jacquie
 - Arsenault-Bishop, Nicole
 - Barbour, Shona
+- Bell, Chelsey
+- Bernard, Cheryl
 - Birchard, Shannon
+- Carter, Sasha
 - Chislett, Geneva
+- Darbyshire, Carolyn
 - Duncan, Chelsea
 - Duncan, Hollie
 - Duncan, Jenna
@@ -99,59 +104,54 @@ vs:
 - Fullerton, Sarah
 - Fyfe, Liz
 - Galusha, Kerry
+- George, Tara
 - Gibson, Amy
+- Holland, Amber
 - Hughes, Meaghan
 - Hutchings, Denise
 - Jones, Jennifer
+- Kalenchuk, Heather
+- Kasner, Marliese
+- Kleibrink, Shannon
 - Koehler, Megan
 - Koltun, Sarah
 - Korchinski, Karlee
 - Kreviazuk, Cheryl
+- Lang, Lorraine
 - Lawes, Kaitlyn
+- Lawton, Stefanie
 - LeDrew, Stephanie
 - Lister, Kendra
 - MacCuish, Kristin
+- MacLean, Kari
 - MacPhee, Robyn
+- McCarville, Krista
 - McEwen, Dawn
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
 - Moore, Kristie
+- Morris, Cori
+- Nixon, Amy
 - Njegovan, Selena
+- O'Connor, Susan
 - Officer, Jill
+- Overton-Clapham, Cathy
 - Price, Kara
 - Robichaud, Sylvie
 - Sagle, Karen
 - Scheidegger, Casey
 - Scheidegger, Jessie
-- Shackleton, Amie
-- Smallwood, Jody
-- Van Osch, Kalia
-- Van Osch, Kesa
-- Van Osch, Marika
-- West, Christianne
-- Armstrong, Jacquie
-- Bell, Chelsey
-- Bernard, Cheryl
-- Carter, Sasha
-- Darbyshire, Carolyn
-- George, Tara
-- Holland, Amber
-- Kalenchuk, Heather
-- Kasner, Marliese
-- Kleibrink, Shannon
-- Lang, Lorraine
-- Lawton, Stefanie
-- MacLean, Kari
-- McCarville, Krista
-- Morris, Cori
-- Nixon, Amy
-- O'Connor, Susan
-- Overton-Clapham, Cathy
 - Schneider, Kim
 - Schneider, Tammy
 - Schraeder, Jeanna
 - Scott, Kelly
+- Shackleton, Amie
 - Singler, Sherri
+- Smallwood, Jody
+- Van Osch, Kalia
+- Van Osch, Kesa
+- Van Osch, Marika
 - Vey, Lana
 - Webster, Bronwen
+- West, Christianne
 ---

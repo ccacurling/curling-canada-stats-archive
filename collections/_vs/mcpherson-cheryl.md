@@ -963,7 +963,7 @@ vs:
     year: 1991
     draw: Round Robin(13)
     score: BC 8 - CA 4
-- name: Sweeting, Valerie
+- name: Sweeting, Val
   totals:
   - event: Hearts
     player1:

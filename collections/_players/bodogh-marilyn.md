@@ -157,6 +157,7 @@ vs:
 - Arseneau, Jane
 - Asham, Sandra
 - Aucoin, Shelley
+- Bakker, Glenys
 - Balderston, Marcy
 - Bartlett, Sue Anne
 - Bell, Allyson
@@ -167,6 +168,8 @@ vs:
 - Bonar, Maureen
 - Bowering, Andrea
 - Bowman, Mary
+- Breen, Thersa
+- Bryant, Angie
 - Burry, Gail
 - Busche, Jodi
 - Bussieres, Helene
@@ -205,9 +208,11 @@ vs:
 - Floyd, Kathy
 - Fowler, Lois
 - Fraser, Sherry
+- Frey, Audrey
 - Garnett, Lorelei
 - Gauthier, Cathy
 - Gervais, Chris
+- Godberson, Heather
 - Goring, Alison
 - Gould, Karen
 - Gudereit, Marcia
@@ -217,6 +222,7 @@ vs:
 - Harvey, Janet
 - Henry, Lou Ann
 - Herlinveaux, Louise
+- Hopkins, Heather
 - Horne, Kate
 - Hutchinson, Joan
 - Hutton, Barb
@@ -233,6 +239,7 @@ vs:
 - Kerr, Heather
 - Kerr, Kathy
 - King, Cathy
+- Kleibrink, Shannon
 - Laliberte, Connie
 - LaRocque, Penny
 - Law, Kelley
@@ -243,21 +250,26 @@ vs:
 - MacDonald, Rebecca Jean
 - MacDougall, Leslie
 - MacKay, Carolyn
+- MacLeod, Lisa
 - Mallett, Marla
 - Marchand, Jessica
 - Marchand, Stephanie
 - Marchuk, Lindy
 - Martin, Heather
 - Massullo, Deb
+- Mattatall, Mary
 - McCallan, Berniece
 - McCusker, Joan
 - McDonald, Tina
 - McGeary, Lori
 - McInnis, Susan
+- McKnight, Patti
+- Merklinger, Anne
 - Messer, Janyce
 - Middaugh, Sherry
 - Millar, Bev
 - Moore, Kim
+- Moore, Kimberly
 - Moore, Linda
 - Moss, Debbie
 - Mulroney, Sandra
@@ -265,10 +277,11 @@ vs:
 - Narduzzi, Joyce
 - Nedohin, Heather
 - Nicholls, Brenda
+- Nimmo, Shannon
 - Nohr, Dianne
 - Noye, Marnie
-- Ondrack, Wendy
 - O'Rourke, Kathy
+- Ondrack, Wendy
 - Osborne, Chantal
 - Overton-Clapham, Cathy
 - Pendergast, Judy
@@ -289,6 +302,7 @@ vs:
 - Shephard, Wendy
 - Sherrington, Barb
 - Shields, Gail
+- Sipka, Joanne
 - Slemko, Jean
 - Snider, Shelly
 - Sparkes, Lindsay
@@ -298,6 +312,7 @@ vs:
 - Thompson, Carol
 - Thompson, Gillian
 - Thompson, May
+- Thurston, Jill
 - Tousignant, Helene
 - Treloar, Cathy
 - Unrau, Faye
@@ -308,19 +323,4 @@ vs:
 - Wieler, Bev
 - Zielke, Colleen
 - Zinck, Kay
-- Bakker, Glenys
-- Breen, Thersa
-- Bryant, Angie
-- Frey, Audrey
-- Godberson, Heather
-- Hopkins, Heather
-- Kleibrink, Shannon
-- MacLeod, Lisa
-- Mattatall, Mary
-- McKnight, Patti
-- Merklinger, Anne
-- Moore, Kimberly
-- Nimmo, Shannon
-- Sipka, Joanne
-- Thurston, Jill
 ---

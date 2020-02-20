@@ -176,6 +176,7 @@ vs:
 - Armstrong, Doug
 - Assad, Mike
 - Bailey, Scott
+- Bartlett, Don
 - Bilesky, Andrew
 - Blanchard, Wade
 - Borden, Robert
@@ -197,6 +198,7 @@ vs:
 - Cotter, Jim
 - Crete, Martin
 - Cursons, Neil
+- Dacey, Mark
 - Danbrook, Jamie
 - Desjardins, Robert
 - Despins, Glen
@@ -212,6 +214,7 @@ vs:
 - Epping, John
 - Errington, Derek
 - Fecteau, Steve
+- Fenton, Brad
 - Fenton, Darin
 - Fenton, Keith
 - Ferbey, Randy
@@ -228,6 +231,7 @@ vs:
 - Gavin, Martin
 - Geall, Sean
 - Geisler, Arnie
+- Gibson, Andrew
 - Gorveatt, Philip
 - Goss, Glenn
 - Gould, Steve
@@ -241,6 +245,7 @@ vs:
 - Harcourt, Greg
 - Harnden, E.J.
 - Harnden, Ryan
+- Harris, Rob
 - Hart, Richard
 - Hebert, Ben
 - Hemmings, Guy
@@ -267,6 +272,7 @@ vs:
 - Kilgallen, Shane
 - Kirkness, James
 - Koe, Jamie
+- Koe, Kevin
 - Kopf, Steve
 - Korab, Jamie
 - Kushnir, Warren
@@ -276,7 +282,9 @@ vs:
 - Langdon, Dennis
 - Laycock, Steve
 - Ledgerwood, Sean
+- Leech, Ron
 - Loevenmark, Phil
+- Lohnes, Bruce
 - Lowe, Wayne
 - MacDonald, Blake
 - MacDonald, Brent
@@ -284,6 +292,7 @@ vs:
 - MacDonald, Rod
 - MacFadyen, Alex
 - MacKenzie, Eddie
+- MacKenzie, Kevin
 - Madden, Paul
 - March, Tim
 - Martin, Karrick
@@ -296,6 +305,7 @@ vs:
 - McEwen, Mike
 - McGregor, Ken
 - McInnis, Phillip
+- Mead, Jon
 - Mead, Jonathan
 - Meakin, Rob
 - Mellof, Dave
@@ -308,6 +318,7 @@ vs:
 - Miki, Bryan
 - Millar, Colin
 - Mitchell, Garth
+- Moffatt, Paul
 - Moffatt, Rich
 - Montgomery, Rod
 - Morris, John
@@ -328,12 +339,13 @@ vs:
 - Newson, Jamie
 - Nichols, Mark
 - Nobert, Rob
+- O'Rourke, Mark
 - Odishaw, Grant
 - Odishaw, Terry
-- O'Rourke, Mark
 - Ouimet, Luc
 - Paslawski, Pat
 - Patterson, Scott
+- Peachey, Jay
 - Peddigrew, Ken
 - Peech, Orest
 - Perron, Rick
@@ -345,6 +357,7 @@ vs:
 - Powell, Lloyd
 - Rajala, Howard
 - Rathje, Larry
+- Recksiedler, Kevin
 - Reed, Tom
 - Reynolds, Brett
 - Richard, Jeff
@@ -355,6 +368,8 @@ vs:
 - Ryan, Jeff
 - Ryan, Keith
 - Ryan, Mike
+- Ryan, Pat
+- Rycroft, Carter
 - Samagalski, Derek
 - Savill, Craig
 - Sawatsky, Rick
@@ -390,7 +405,9 @@ vs:
 - Tuson, Jay
 - Ursel, Bob
 - Van Den Berghe, Garry
+- Vandenberghe, Garry
 - Virtue, Brock
+- Walchuk, Don
 - Walker, Geoff
 - Wasnea, Brian
 - Watson, Aaron
@@ -403,21 +420,4 @@ vs:
 - Withycombe, Ian
 - Wood, Brad
 - Wozniak, Matt
-- Bartlett, Don
-- Dacey, Mark
-- Fenton, Brad
-- Gibson, Andrew
-- Harris, Rob
-- Koe, Kevin
-- Leech, Ron
-- Lohnes, Bruce
-- MacKenzie, Kevin
-- Mead, Jon
-- Moffatt, Paul
-- Peachey, Jay
-- Recksiedler, Kevin
-- Ryan, Pat
-- Rycroft, Carter
-- Vandenberghe, Garry
-- Walchuk, Don
 ---

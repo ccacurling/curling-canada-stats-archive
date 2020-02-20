@@ -153,6 +153,7 @@ years:
   shots-percent: 74
 vs:
 - Abel, Clinton
+- Adams, Shawn
 - Alderman, Dan
 - Andrews, Robert
 - Armstrong, Mark
@@ -177,6 +178,7 @@ vs:
 - Chorostkowski, Brad
 - Clarke, Dave
 - Cochrane, Bryan
+- Cotter, Jim
 - Cowan, Chad
 - Crete, Martin
 - Desilets, Mike
@@ -188,6 +190,7 @@ vs:
 - Fenton, Brad
 - Fenton, Keith
 - Ferbey, Randy
+- Flemming, Paul
 - Folk, Rick
 - Fowler, Rob
 - Fry, Ryan
@@ -236,6 +239,7 @@ vs:
 - Kelsch, Dan
 - Kennedy, Marc
 - Koe, Jamie
+- Koe, Kevin
 - Korab, Jamie
 - Korte, Bruce
 - Korte, Roger
@@ -262,6 +266,7 @@ vs:
 - MacPherson, Bryan
 - Martin, Kevin
 - McCarrel, Graeme
+- Mead, Jon
 - Mead, Jonathan
 - Meakin, Rob
 - Menard, Jean-Michel
@@ -269,6 +274,8 @@ vs:
 - Milward, Ross
 - Mimeault, Bernard
 - Mimeault, Greg
+- Mittelstadt, Kelly
+- Moffatt, Paul
 - Molloy, Pat
 - Morris, John
 - Moshenko, Darcy
@@ -278,14 +285,15 @@ vs:
 - Nelson, Randy
 - Ness, Dale
 - Nichols, Mark
+- O'Rourke, Mark
 - Odian, Scott
 - Odishaw, Grant
 - Olson, Mark-2
-- O'Rourke, Mark
 - Ouimet, Luc
 - Pahl, James
 - Park, Kevin
 - Patriquin, Chuck
+- Peachey, Jay
 - Peachy, Jay
 - Peddigrew, Ken
 - Perroud, Pat
@@ -306,6 +314,7 @@ vs:
 - Ryan, Pat
 - Rycroft, Carter
 - Savill, Craig
+- Sawatsky, Rick
 - Scales, Bob
 - Scales, Brent
 - Scharf, Joe
@@ -333,6 +342,7 @@ vs:
 - Tuson, Jay
 - Ursel, Bob
 - Van Den Berghe, Garry
+- Vandenberghe, Garry
 - Vaughan, Jason
 - Vautour, Joseph
 - Walchuk, Don
@@ -345,14 +355,4 @@ vs:
 - Whitehead, Kevin
 - Whitehead, Mark
 - Windsor, Brian
-- Adams, Shawn
-- Cotter, Jim
-- Flemming, Paul
-- Koe, Kevin
-- Mead, Jon
-- Mittelstadt, Kelly
-- Moffatt, Paul
-- Peachey, Jay
-- Sawatsky, Rick
-- Vandenberghe, Garry
 ---

@@ -384,7 +384,7 @@ vs:
     year: 2012
     draw: Round Robin(1)
     score: NL 4 - CA 7
-- name: Sweeting, Valerie
+- name: Sweeting, Val
   totals:
   - event: Hearts
     player1:

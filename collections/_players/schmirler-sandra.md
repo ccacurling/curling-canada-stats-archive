@@ -181,6 +181,7 @@ vs:
 - Aucoin, Shelley
 - Augustyn, Jan
 - Baker, Rose-Marie
+- Bakker, Glenys
 - Balderston, Marcy
 - Beever, Jocelyn
 - Bell, Allyson
@@ -196,6 +197,7 @@ vs:
 - Bowman, Mary
 - Bradley, Shelly
 - Breen, Theresa
+- Breen, Thersa
 - Brophy, Cathy
 - Brown, Katie
 - Brown, Maureen
@@ -245,6 +247,7 @@ vs:
 - Gellard, Kim
 - Gervais, Donna
 - Gignac, Donna
+- Godberson, Heather
 - Goring, Alison
 - Gould, Karen
 - Graham-MacDonald, Bea
@@ -260,6 +263,7 @@ vs:
 - Hensley, Merna
 - Herlinveaux, Louise
 - Hooper Perroud, Jane
+- Hooper, Jane
 - Hopkins, Heather
 - Horne, Kate
 - Houston, Heather
@@ -287,6 +291,7 @@ vs:
 - Lawes, Andrea
 - Lawrence, Margaret
 - Leblanc, Lisa
+- Leonard, Judy
 - Lewis, Kristy
 - Lidgren, Anna
 - Lowther, Tammi
@@ -314,15 +319,19 @@ vs:
 - McPherson, Cheryl
 - Merklinger, Anne
 - Messer, Janyce
+- Middaugh, Sherry
 - Montgomery, Kay
 - Moore, Kim
+- Moore, Kimberly
 - Moses, Dawn
 - Moss, Debbie
+- Mulroney, Sandra
 - Muzika, Shelley
 - Nedohin, Heather
+- Nimmo, Shannon
 - Nowlan, Denise
-- Ondrack, Wendy
 - O'Rourke, Kathy
+- Ondrack, Wendy
 - Osborne, Chantal
 - Overton-Clapham, Cathy
 - Palinkas, Gloria
@@ -350,6 +359,7 @@ vs:
 - Shields, Deanne
 - Shields, Gail
 - Shigehiro, Sally
+- Sipka, Joanne
 - Skinner, Julie
 - Soligo, Melissa
 - Stewart, Sheri
@@ -360,6 +370,7 @@ vs:
 - Thomas, Karen
 - Thomas, Maria
 - Thompson, Carol
+- Thurston, Jill
 - Tousignant, Helene
 - Treloar, Cathy
 - Trowell, Cathy
@@ -370,17 +381,6 @@ vs:
 - Wiltzen, Jan
 - Wright, Joanne
 - Wright, Susan
-- Zinck, Kay
-- Bakker, Glenys
-- Breen, Thersa
-- Godberson, Heather
-- Hooper, Jane
-- Leonard, Judy
-- Middaugh, Sherry
-- Moore, Kimberly
-- Mulroney, Sandra
-- Nimmo, Shannon
-- Sipka, Joanne
-- Thurston, Jill
 - Zielke, Colleen
+- Zinck, Kay
 ---

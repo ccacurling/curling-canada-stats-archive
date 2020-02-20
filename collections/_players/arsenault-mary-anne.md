@@ -374,10 +374,12 @@ vs:
 - Belisle, Eve
 - Bell, Allyson
 - Bell, Chelsey
+- Bell, Patty
 - Belley, Joelle
 - Bernard, Krista
 - Berthelot, Janique
 - Betker, Jan
+- Beveridge, Corie
 - Birt, Suzanne
 - Blackburn, Julie
 - Blais, Amelie
@@ -422,6 +424,7 @@ vs:
 - Curtis, Stacie
 - Daku, Karen
 - Daniel, Sylvie
+- Darbyshire, Carolyn
 - Davis, Brandee
 - deJager, Blaine
 - Derick, Catherine
@@ -448,6 +451,8 @@ vs:
 - Fortin, Sylvie
 - Fowler, Lois
 - Fowler, Rhonda
+- Fowlie, Heather
+- Fraser, Sherry
 - Freeman, Lisa
 - Frey, Audrey
 - Fullerton, Sarah
@@ -483,6 +488,7 @@ vs:
 - Hatton, Sandra
 - Henry, Lou Ann
 - Hodson, Kim
+- Holland, Amber
 - Hollands, Saskia
 - Holowec, Ainsley
 - Holtby, Taryn
@@ -495,11 +501,13 @@ vs:
 - Johnston, Kara
 - Jones, Jennifer
 - Jones-Walker, Debbie
+- Jurgenson, Christine
 - Karam, Sally
 - Kasner, Marliese
 - Kaylo, Kelly
 - Kehler, Lorie
 - Kerr, Kathy
+- Keshen, Christine
 - Kidd, Darlene
 - King, Cathy
 - Kleibrink, Shannon
@@ -538,6 +546,7 @@ vs:
 - Marchand, Karine
 - Marchand, Stephanie
 - Marchuk, Lindy
+- Martin, Denise
 - Martin, Heather
 - Materi, Roberta
 - Mattatall, Mary
@@ -551,6 +560,7 @@ vs:
 - McInnis, Susan
 - McKnight, Patti
 - McNamee, Karen
+- McPherson, Cheryl
 - McQuaid, Michelle
 - Merklinger, Anne
 - Middaugh, Sherry
@@ -558,6 +568,7 @@ vs:
 - Miller, Wendy
 - Miskew, Emma
 - Mittelstadt, Candice
+- Montgomery, Kay
 - Moore, Kim
 - Moore, Kristie
 - Moriarty, Monica
@@ -572,12 +583,12 @@ vs:
 - Nixon, Amy
 - Nowlan, Denise
 - Nugent, Pamela
-- Officer, Jill
 - O'Leary, Susan
-- Olson-Johns, Lori
-- Ondrack, Wendy
 - O'Rourke, Brittany
 - O'Rourke, Kathy
+- Officer, Jill
+- Olson-Johns, Lori
+- Ondrack, Wendy
 - Osborne, Chantal
 - Overton-Clapham, Cathy
 - Parsons, Danielle
@@ -589,11 +600,13 @@ vs:
 - Porter, Erin
 - Power, Marie-Anne
 - Prosser, Sandi
+- Purdy, Karen
 - Radchenka, Tammy
 - Reed, Shellan
 - Renouf, Michele
 - Richard, Marie
 - Ridalls, Kristen
+- Rizzo, Jo-Ann
 - Roberts, Angela
 - Robertson, Darcy
 - Robichaud, Sylvie
@@ -646,9 +659,11 @@ vs:
 - Todd, Fran
 - Trider, Krista
 - Trombley, Christy
+- Tuck, Kimberly
 - Tucker, Cindy
 - Unrau, Faye
 - Wall, Kirsten
+- Walsh, Heather
 - Walsh, Jenna
 - Walter, Cathy
 - Wasylkiw, Lauren
@@ -667,19 +682,4 @@ vs:
 - Yardley, Janelle
 - Young, Karen
 - Zinck, Kay
-- Bell, Patty
-- Beveridge, Corie
-- Darbyshire, Carolyn
-- Fowlie, Heather
-- Fraser, Sherry
-- Holland, Amber
-- Jurgenson, Christine
-- Keshen, Christine
-- Martin, Denise
-- McPherson, Cheryl
-- Montgomery, Kay
-- Purdy, Karen
-- Rizzo, Jo-Ann
-- Tuck, Kimberly
-- Walsh, Heather
 ---

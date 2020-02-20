@@ -90,6 +90,7 @@ vs:
 - Barbour, Shona
 - Belanger, Nancy
 - Belisle, Eve
+- Bell, Chelsey
 - Bernard, Cheryl
 - Brown, Jacalyn
 - Carmody, Erin
@@ -114,6 +115,7 @@ vs:
 - Jones, Jennifer
 - Kalenchuk, Heather
 - Kasner, Marliese
+- Kleibrink, Shannon
 - Koehler, Megan
 - Larouche, Marie-France
 - Lawton, Stefanie
@@ -125,6 +127,7 @@ vs:
 - MacInnes, Grace
 - MacPhee, Robyn
 - Makichuck, Lindsay
+- Malekoff, Stephanie
 - Mallett, Marla
 - McCagg-Nystrom, Heather
 - McConnery, Nancy
@@ -135,12 +138,15 @@ vs:
 - Muzika, Shelley
 - Naugler, Tara
 - Nicholls, Brenda
+- Nixon, Amy
 - Nowlan, Denise
 - O'Connor, Susan
-- Officer, Jill
 - O'Rourke, Kathy
+- Officer, Jill
+- Olson-Johns, Lori
 - Overton-Clapham, Cathy
 - Phillips, Kristen
+- Preston, Sam
 - Rainville, Julie
 - Ramsay, Geri Lynn
 - Richards, Brette
@@ -160,13 +166,7 @@ vs:
 - Thomas, Jill
 - Thurston, Jill
 - Vey, Lana
-- Wilson, Leslie
-- Bell, Chelsey
-- Kleibrink, Shannon
-- Malekoff, Stephanie
-- Nixon, Amy
-- Olson-Johns, Lori
-- Preston, Sam
 - Webster, Bronwen
 - Webster, Crystal
+- Wilson, Leslie
 ---

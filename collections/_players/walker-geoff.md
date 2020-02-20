@@ -4,18 +4,18 @@ name: Geoff Walker
 name-sort: Walker, Geoff
 totals:
 - event: Brier
-  games: 87
-  wins: 60
-  losses: 27
-  inturn-total: 645
+  games: 100
+  wins: 70
+  losses: 30
+  inturn-total: 785
   inturn-percent: 90
-  outturn-total: 1001
-  outturn-percent: 88
-  draw-total: 1380
+  outturn-total: 1114
+  outturn-percent: 89
+  draw-total: 1601
   draw-percent: 91
-  takeout-total: 266
-  takeout-percent: 78
-  shots-total: 1646
+  takeout-total: 298
+  takeout-percent: 79
+  shots-total: 1899
   shots-percent: 89
 - event: Trials (Men)
   games: 9
@@ -103,7 +103,20 @@ years:
 - year: 2016
   event: Brier
   team: NL
-  position: Alternate
+  position: Lead
+  games: 13
+  wins: 10
+  losses: 3
+  inturn-total: 140
+  inturn-percent: 92
+  outturn-total: 113
+  outturn-percent: 93
+  draw-total: 221
+  draw-percent: 94
+  takeout-total: 32
+  takeout-percent: 84
+  shots-total: 253
+  shots-percent: 92
 - year: 2017
   event: Brier
   team: NL
@@ -222,8 +235,10 @@ vs:
 - Fry, Ryan
 - Gaudet, Mike
 - Geall, Sean
+- Giddens, Ryan
 - Grattan, James
 - Griffith, Ty
+- Griffith, Tyrel
 - Harnden, E.J.
 - Harnden, Ryan
 - Harper, David
@@ -314,6 +329,7 @@ vs:
 - Skauge, Greg
 - Smith, Greg
 - Smith, Kent
+- Spencer, Adam
 - St.Louis, David
 - Steele, Colten
 - Stoughton, Jeff
@@ -330,5 +346,4 @@ vs:
 - Withycombe, Ian
 - Wood, Brad
 - Wozniak, Matt
-- Griffith, Tyrel
 ---

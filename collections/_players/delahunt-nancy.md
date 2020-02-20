@@ -278,6 +278,7 @@ vs:
 - Belisle, Eve
 - Bell, Allyson
 - Bell, Chelsey
+- Bell, Patty
 - Belley, Joelle
 - Bernard, Cheryl
 - Bernard, Krista
@@ -319,6 +320,7 @@ vs:
 - Currie, Wendy
 - Daku, Karen
 - Daniel, Sylvie
+- Darbyshire, Carolyn
 - Davis, Brandee
 - Derick, Catherine
 - deSolla, Jodie
@@ -339,6 +341,7 @@ vs:
 - Fortier, Marie-Josee
 - Fortin, Sylvie
 - Fowler, Lois
+- Fowlie, Heather
 - Fraser, Sherry
 - Freeman, Lisa
 - Frey, Audrey
@@ -347,6 +350,7 @@ vs:
 - Gagnon, Nathalie
 - Galusha, Kerry
 - Garnett, Lorelei
+- Gatchell, Sara
 - Gauthier, Cathy
 - Gellard, Kim
 - George, Tara
@@ -371,6 +375,7 @@ vs:
 - Harvey, Janet
 - Henry, Lou Ann
 - Hodson, Kim
+- Holland, Amber
 - Hollands, Saskia
 - Holowec, Ainsley
 - Hooper Perroud, Jane
@@ -386,6 +391,7 @@ vs:
 - Kaylo, Kelly
 - Kehler, Lorie
 - Kerr, Kathy
+- Keshen, Christine
 - Kidd, Darlene
 - King, Cathy
 - Kleibrink, Shannon
@@ -419,6 +425,7 @@ vs:
 - Marchand, Karine
 - Marchand, Stephanie
 - Marchuk, Lindy
+- Martin, Denise
 - Martin, Heather
 - Materi, Roberta
 - Mattatall, Mary
@@ -431,10 +438,12 @@ vs:
 - McInnis, Susan
 - McKnight, Patti
 - McNamee, Karen
+- McPherson, Cheryl
 - Merklinger, Anne
 - Middaugh, Sherry
 - Miller, Maureen
 - Mittelstadt, Candice
+- Montgomery, Kay
 - Moore, Kim
 - Moriarty, Monica
 - Moses, Dawn
@@ -448,11 +457,11 @@ vs:
 - Nixon, Amy
 - Nohr, Dianne
 - Nugent, Pamela
-- Officer, Jill
 - O'Leary, Susan
+- O'Rourke, Kathy
+- Officer, Jill
 - Olson-Johns, Lori
 - Ondrack, Wendy
-- O'Rourke, Kathy
 - Osborne, Chantal
 - Overton-Clapham, Cathy
 - Parsons, Danielle
@@ -462,12 +471,14 @@ vs:
 - Pinkney, Colleen
 - Power, Marie-Anne
 - Prosser, Sandi
+- Purdy, Karen
 - Radchenka, Tammy
 - Rainville, Julie
 - Reed, Shellan
 - Renouf, Michele
 - Richard, Marie
 - Ridalls, Kristen
+- Rizzo, Jo-Ann
 - Robertson, Darcy
 - Robichaud, Sylvie
 - Robinson, Lori
@@ -513,9 +524,11 @@ vs:
 - Todd, Fran
 - Train, Mona
 - Trider, Krista
+- Tuck, Kimberly
 - Tucker, Cindy
 - Unrau, Faye
 - Wall, Kirsten
+- Walsh, Heather
 - Walter, Cathy
 - Webster, Bronwen
 - Wheatcroft, Georgina
@@ -527,17 +540,4 @@ vs:
 - Young, Karen
 - Zielke, Colleen
 - Zinck, Kay
-- Bell, Patty
-- Darbyshire, Carolyn
-- Fowlie, Heather
-- Gatchell, Sara
-- Holland, Amber
-- Keshen, Christine
-- Martin, Denise
-- McPherson, Cheryl
-- Montgomery, Kay
-- Purdy, Karen
-- Rizzo, Jo-Ann
-- Tuck, Kimberly
-- Walsh, Heather
 ---

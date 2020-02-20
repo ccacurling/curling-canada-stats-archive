@@ -9691,13 +9691,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 85
-      wins: 3
-      losses: 4
-    player2:
-      percent: 91
+      percent: 88
       wins: 4
-      losses: 3
+      losses: 5
+    player2:
+      percent: 92
+      wins: 5
+      losses: 4
   - event: Trials(Men)
     player1:
       percent: 83
@@ -9772,6 +9772,38 @@ vs:
     year: 2015
     draw: Page 1-2(18)
     score: NL 5 - NO 7
+  - player1:
+      team: 'NO'
+      position: Third
+      percent: 96
+      win: 1
+      loss: 0
+    player2:
+      team: NL
+      position: Lead
+      percent: 91
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2016
+    draw: Round Robin(17)
+    score: NO 4 - NL 1
+  - player1:
+      team: 'NO'
+      position: Third
+      percent: 94
+      win: 0
+      loss: 1
+    player2:
+      team: NL
+      position: Lead
+      percent: 97
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2016
+    draw: Page 1-2(18)
+    score: NL 7 - NO 6
   - player1:
       team: 'NO'
       position: Third

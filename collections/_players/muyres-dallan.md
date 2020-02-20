@@ -204,6 +204,7 @@ vs:
 - Gould, Steve
 - Grattan, James
 - Griffith, Ty
+- Griffith, Tyrel
 - Gushue, Brad
 - Harnden, E.J.
 - Harnden, Ryan
@@ -274,6 +275,7 @@ vs:
 - Savill, Craig
 - Sawatsky, Rick
 - Schille, Chris
+- Schneider, Catlin
 - Seabrook, Scott
 - Simmons, Pat
 - Smallwood, Robert
@@ -291,6 +293,4 @@ vs:
 - Whitehead, Kevin
 - Whitehead, Mark
 - Wozniak, Matt
-- Griffith, Tyrel
-- Schneider, Catlin
 ---

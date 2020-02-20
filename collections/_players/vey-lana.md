@@ -125,6 +125,7 @@ vs:
 - Babin, Jillian
 - Barbour, Shona
 - Belanger, Nancy
+- Bell, Chelsey
 - Bernard, Cheryl
 - Birt, Suzanne
 - Blais, Amelie
@@ -166,6 +167,7 @@ vs:
 - Jones, Jennifer
 - Joyce, Blisse
 - Kalenchuk, Heather
+- Kleibrink, Shannon
 - Knezevic, Patti
 - Koehler, Megan
 - Korab, Stephanie
@@ -180,6 +182,7 @@ vs:
 - MacLean, Kari
 - MacPhee, Robyn
 - Mair, Jessica
+- Malekoff, Stephanie
 - Mallett, Marla
 - McCagg-Nystrom, Heather
 - McCarville, Krista
@@ -192,16 +195,19 @@ vs:
 - Muzika, Shelley
 - Nedohin, Heather
 - Nicholls, Brenda
+- Nixon, Amy
 - Nowlan, Denise
 - O'Connor, Susan
-- Officer, Jill
 - O'Leary, Susan
+- Officer, Jill
+- Olson-Johns, Lori
 - Osborne, Chantal
 - Overton-Clapham, Cathy
 - Parsons, Danielle
 - Peters, Laine
 - Pilote, Kristen
 - Power, Marie-Anne
+- Preston, Sam
 - Provencal, Darah
 - Richards, Brette
 - Robertson, Darcy
@@ -224,15 +230,9 @@ vs:
 - Thomas-Kennell, Noelle
 - Udle, Teri
 - Walsh, Jenna
+- Webster, Bronwen
+- Webster, Crystal
 - Wheatcroft, Georgina
 - Whitaker, Carol
 - Wylie, Jennifer
-- Bell, Chelsey
-- Kleibrink, Shannon
-- Malekoff, Stephanie
-- Nixon, Amy
-- Olson-Johns, Lori
-- Preston, Sam
-- Webster, Bronwen
-- Webster, Crystal
 ---

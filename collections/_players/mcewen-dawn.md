@@ -276,6 +276,7 @@ vs:
 - Allen, Michelle
 - Anderson, Sherry
 - Armstrong, Jacquie
+- Armstrong, Leigh
 - Arsenault, Mary-Anne
 - Arsenault-Bishop, Nicole
 - Atkinson, Rebecca
@@ -294,6 +295,7 @@ vs:
 - Black, Christina
 - Blais, Amelie
 - Blaney, Jennifer
+- Bobbie, Tess
 - Bodner, Jenine
 - Boudreault, Patricia
 - Boyle, Jane
@@ -304,6 +306,7 @@ vs:
 - Brown, Jacalyn
 - Brown, Rachel
 - Bush, Tracy
+- Cameron, Kate
 - Cameron, Nancy
 - Camozzi, Rhona
 - Campbell, Jolene
@@ -321,6 +324,7 @@ vs:
 - Comeau, Sandy
 - Cooper, Kathryn
 - Cormier, Sharon
+- Court, Morgan
 - Courtney, Joanne
 - Crawford, Andrea
 - Crouse, Jennifer
@@ -338,6 +342,7 @@ vs:
 - Dolan, Kim
 - Dolan, Sinead
 - Dufresne, Audree
+- Duhaime, Chantal
 - Duncan, Chelsea
 - Duncan, Hollie
 - Duncan, Jenna
@@ -353,8 +358,10 @@ vs:
 - Fesser, Kourtney
 - Fesser, Krista
 - Filteau, Anne-Marie
+- Flaxey, Allison
 - Fleury, Tracy
 - Fortier, Marie-Josee
+- Foster, Kristen
 - Fullerton, Sarah
 - Fyfe, Liz
 - Gagnier, Monique
@@ -366,6 +373,7 @@ vs:
 - Gibson, Amy
 - Gilman, Sheena
 - Goss, Peg
+- Grandy, Clancy
 - Gregoire, Veronique
 - Griffin, Alison
 - Gushulak, Diane
@@ -403,6 +411,7 @@ vs:
 - Korchinski, Karlee
 - Kreviazuk, Alison
 - Kreviazuk, Cheryl
+- Kreviazuk, Lynn
 - Lang, Lorraine
 - Larouche, Marie-France
 - Lavery, Tracey
@@ -416,6 +425,7 @@ vs:
 - Lister, Kendra
 - Lowther, Tammi
 - MacCuish, Kristin
+- MacDonald, Lawnie
 - MacDonald, Rebecca Jean
 - MacDougall, Leslie
 - MacInnes, Allison
@@ -424,6 +434,7 @@ vs:
 - MacPhee, Robyn
 - Mair, Jessica
 - Makichuck, Lindsay
+- Malekoff, Stephanie
 - Mallett, Marla
 - Mann, Lauren
 - Martin, Heather
@@ -432,10 +443,12 @@ vs:
 - McCagg-Nystrom, Heather
 - McCarville, Krista
 - McConnery, Nancy
+- McDonald, Kristy
 - McInnis, Susan
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
 - Meakin, Breanne
+- Merklinger, Lee
 - Middaugh, Sherry
 - Miller, Wendy
 - Miskew, Emma
@@ -451,20 +464,21 @@ vs:
 - Muzika, Shelley
 - Naugler, Tara
 - Nedohin, Heather
-- Njegovan, Selena
 - Nicholls, Brenda
 - Nicholson, Danielle
 - Nixon, Amy
+- Njegovan, Selena
 - Nowlan, Denise
 - O'Connor, Susan
-- Officer, Jill
 - O'Leary, Susan
-- Olson-Johns, Lori
 - O'Neill, Brit
 - O'Rourke, Brittany
 - O'Rourke, Kathy
+- Officer, Jill
+- Olson-Johns, Lori
 - Overton-Clapham, Cathy
 - Parsons, Danielle
+- Pasika, Rona
 - Paul, Sarah
 - Peterman, Jocelyn
 - Peters, Laine
@@ -472,6 +486,7 @@ vs:
 - Pilote, Kristen
 - Porter, Erin
 - Potts, Sarah
+- Preston, Sam
 - Price, Kara
 - Prosser, Sandi
 - Radford, Mary Sue
@@ -480,6 +495,7 @@ vs:
 - Recksiedler, Kristen
 - Richard, Marie
 - Richards, Brette
+- Rizzo, Jo-Ann
 - Robertson, Darcy
 - Robichaud, Sylvie
 - Rocque, Raylene
@@ -512,6 +528,7 @@ vs:
 - Smith, Stacey
 - Snyder, Jane
 - Sobey, Lianne
+- Sonnenberg, Renee
 - Spencer, Barb
 - Strong, Heather
 - Strong, Helen
@@ -522,15 +539,18 @@ vs:
 - Thomas, Jill
 - Thompson, Karla
 - Thurston, Jill
+- Tippin, Julie
+- Titheridge, Lindsay
 - Tran, Brittany
 - Trombley, Christy
 - Udle, Teri
-- Vandale, Trysta
 - Van Osch, Kalia
 - Van Osch, Kesa
 - Van Osch, Marika
+- Vandale, Trysta
 - Vautour, Carrie
 - Vey, Lana
+- Vink, Rachelle
 - Wall, Kirsten
 - Walsh, Jenna
 - Wark, Sarah
@@ -548,24 +568,4 @@ vs:
 - Wylie, Jennifer
 - Yardley, Janelle
 - Zinck, Kay
-- Armstrong, Leigh
-- Bobbie, Tess
-- Cameron, Kate
-- Court, Morgan
-- Duhaime, Chantal
-- Flaxey, Allison
-- Foster, Kristen
-- Grandy, Clancy
-- Kreviazuk, Lynn
-- MacDonald, Lawnie
-- Malekoff, Stephanie
-- McDonald, Kristy
-- Merklinger, Lee
-- Pasika, Rona
-- Preston, Sam
-- Rizzo, Jo-Ann
-- Sonnenberg, Renee
-- Tippin, Julie
-- Titheridge, Lindsay
-- Vink, Rachelle
 ---

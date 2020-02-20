@@ -138,6 +138,7 @@ vs:
 - Alcoe-Holland, Jill
 - Aleksic, Shannon
 - Anderson, Sherry
+- Armstrong, Leigh
 - Arsenault, Mary-Anne
 - Atkinson, Rebecca
 - Baier, Stephanie
@@ -147,6 +148,7 @@ vs:
 - Birt, Suzanne
 - Black, Christina
 - Blais, Amelie
+- Bobbie, Tess
 - Boyle, Jane
 - Bradley, Shelly
 - Brothers, Jill
@@ -170,6 +172,7 @@ vs:
 - Doig, Deanna
 - Dolan, Kim
 - Dolan, Sinead
+- Duhaime, Chantal
 - Duncan, Chelsea
 - Englot, Michelle
 - Eyamie, Lisa
@@ -182,10 +185,12 @@ vs:
 - Galusha, Kerry
 - Gannon, Melissa
 - Gates, Amanda
+- Grandy, Clancy
 - Hastings, Julie
 - Hill, Trish
 - Homan, Rachel
 - Hughes, Meaghan
+- Iskiw, Beth
 - Jones, Jennifer
 - Joyce, Blisse
 - Kasner, Marliese
@@ -199,8 +204,10 @@ vs:
 - Lawes, Kaitlyn
 - Lawton, Stefanie
 - Lilly, Kendra
+- MacDonald, Lawnie
 - MacDonald, Rebecca Jean
 - MacPhee, Robyn
+- Mair, Jessica
 - Mallett, Marla
 - Mann, Lauren
 - Mattatall, Mary
@@ -209,13 +216,20 @@ vs:
 - McEwen, Dawn
 - McInnis, Susan
 - McQuaid, Michelle
+- McTaggart, Cary-Anne
+- Merklinger, Lee
+- Middaugh, Sherry
 - Miskew, Emma
+- Moore, Kristie
+- Nedohin, Heather
 - Nixon, Amy
 - Nugent, Pamela
+- O'Rourke, Brittany
 - Officer, Jill
 - Olson-Johns, Lori
-- O'Rourke, Brittany
+- Overton-Clapham, Cathy
 - Parsons, Danielle
+- Pasika, Rona
 - Peterman, Jocelyn
 - Peters, Laine
 - Pilote, Kristen
@@ -223,6 +237,7 @@ vs:
 - Potts, Sarah
 - Richard, Marie
 - Richards, Brette
+- Rizzo, Jo-Ann
 - Robichaud, Sylvie
 - Robison, Michala
 - Ross, Allison
@@ -230,6 +245,8 @@ vs:
 - Sanderson, Jessie
 - Sandwith, Carley
 - Saulnier, Andrea
+- Scheidegger, Casey
+- Scheidegger, Jessie
 - Schmidt, Stephanie
 - Schneider, Lorraine
 - Sicinski, Danielle
@@ -239,15 +256,18 @@ vs:
 - Smith, Heather
 - Smith, Stacey
 - Snyder, Jane
+- Sonnenberg, Renee
 - Strong, Heather
 - Strong, Laura
 - Sweeting, Val
 - Thiessen, Alison
+- Tippin, Julie
 - Titheridge, Lindsay
 - Trickett, Erica
 - Trombley, Christy
 - Udle, Teri
 - Van Osch, Kesa
+- Vink, Rachelle
 - Wallingham, Patty
 - Walsh, Jenna
 - Weagle, Lisa
@@ -255,24 +275,4 @@ vs:
 - Wilkes, Sarah
 - Wilson, Leslie
 - Wylie, Jennifer
-- Armstrong, Leigh
-- Bobbie, Tess
-- Duhaime, Chantal
-- Grandy, Clancy
-- Iskiw, Beth
-- MacDonald, Lawnie
-- Mair, Jessica
-- McTaggart, Cary-Anne
-- Merklinger, Lee
-- Middaugh, Sherry
-- Moore, Kristie
-- Nedohin, Heather
-- Overton-Clapham, Cathy
-- Pasika, Rona
-- Rizzo, Jo-Ann
-- Scheidegger, Casey
-- Scheidegger, Jessie
-- Sonnenberg, Renee
-- Tippin, Julie
-- Vink, Rachelle
 ---

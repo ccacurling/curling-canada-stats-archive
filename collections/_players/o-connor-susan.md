@@ -173,9 +173,11 @@ years:
   position: Alternate
 vs:
 - Aleksic, Shannon
+- Armstrong, Jacquie
 - Arnott, Janet
 - Barbour, Shona
 - Belanger, Nancy
+- Bell, Chelsey
 - Betker, Jan
 - Birt, Suzanne
 - Brothers, Jill
@@ -200,12 +202,16 @@ vs:
 - Gushulak, Diane
 - Hardy, Shelley
 - Harrison, Meredith
+- Holland, Amber
 - Inglis, Nancy
 - Jones, Jennifer
+- Kalenchuk, Heather
 - Kasner, Marliese
+- Kleibrink, Shannon
 - Lang, Lorraine
 - Larouche, Marie-France
 - Law, Kelley
+- Lawes, Kaitlyn
 - Lawton, Stefanie
 - Lemay, Annie
 - Lowther, Tammi
@@ -213,6 +219,7 @@ vs:
 - MacInnes, Grace
 - MacLean, Kari
 - MacPhee, Robyn
+- Malekoff, Stephanie
 - Mallett, Marla
 - McCagg-Nystrom, Heather
 - McCarville, Krista
@@ -222,17 +229,22 @@ vs:
 - Moses, Dawn
 - Murphy, Jeanette
 - Muzika, Shelley
+- Nixon, Amy
 - Nowlan, Denise
-- Officer, Jill
 - O'Leary, Susan
+- Officer, Jill
+- Olson-Johns, Lori
 - Osborne, Chantal
 - Overton-Clapham, Cathy
 - Pinkney, Colleen
 - Power, Marie-Anne
+- Preston, Sam
 - Provencal, Darah
 - Richards, Brette
 - Robertson, Darcy
 - Sabourin, Joelle
+- Schneider, Kim
+- Schneider, Tammy
 - Schraeder, Jeanna
 - Scott, Kelly
 - Sharpe, Kelli
@@ -245,20 +257,8 @@ vs:
 - Stubbings, Tiffany
 - Udle, Teri
 - Vey, Lana
-- Wheatcroft, Georgina
-- Whitaker, Carol
-- Armstrong, Jacquie
-- Bell, Chelsey
-- Holland, Amber
-- Kalenchuk, Heather
-- Kleibrink, Shannon
-- Lawes, Kaitlyn
-- Malekoff, Stephanie
-- Nixon, Amy
-- Olson-Johns, Lori
-- Preston, Sam
-- Schneider, Kim
-- Schneider, Tammy
 - Webster, Bronwen
 - Webster, Crystal
+- Wheatcroft, Georgina
+- Whitaker, Carol
 ---

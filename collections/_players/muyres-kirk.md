@@ -175,6 +175,7 @@ vs:
 - Gallant, Chris
 - Grattan, James
 - Griffith, Ty
+- Griffith, Tyrel
 - Gushue, Brad
 - Harnden, E.J.
 - Harnden, Ryan
@@ -238,6 +239,7 @@ vs:
 - Samagalski, Derek
 - Sawatsky, Rick
 - Schille, Chris
+- Schneider, Catlin
 - Simmons, Pat
 - Smallwood, Robert
 - Solberg, Jonathon
@@ -253,6 +255,4 @@ vs:
 - Whitehead, Kevin
 - Whitehead, Mark
 - Wozniak, Matt
-- Griffith, Tyrel
-- Schneider, Catlin
 ---

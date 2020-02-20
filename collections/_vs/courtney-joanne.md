@@ -4289,7 +4289,7 @@ vs:
     year: 2014
     draw: Round Robin(11)
     score: AB 9 - NL 5
-- name: Sweeting, Valerie
+- name: Sweeting, Val
   totals:
   - event: Hearts
     player1:
@@ -4300,6 +4300,15 @@ vs:
       percent: 89
       wins: 1
       losses: 0
+  - event: Trials (Women)
+    player1:
+      percent: 93
+      wins: 1
+      losses: 0
+    player2:
+      percent: 83
+      wins: 0
+      losses: 1
   games:
   - player1:
       team: CA
@@ -4317,6 +4326,22 @@ vs:
     year: 2015
     draw: Round Robin(15)
     score: AB 7 - CA 6
+  - player1:
+      team: Homa
+      position: Second
+      percent: 93
+      win: 1
+      loss: 0
+    player2:
+      team: Swee
+      position: Fourth
+      percent: 83
+      win: 0
+      loss: 1
+    event: Trials (Women)
+    year: 2017
+    draw: Round Robin(17)
+    score: Swee 5 - Homa 7
 - name: Thevenot, Kara
   totals:
   - event: Hearts
@@ -5489,34 +5514,6 @@ vs:
     year: 2013
     draw: Round Robin(12)
     score: SWE 8 - SON 9
-- name: Sweeting, Val
-  totals:
-  - event: Trials (Women)
-    player1:
-      percent: 93
-      wins: 1
-      losses: 0
-    player2:
-      percent: 83
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: Homa
-      position: Second
-      percent: 93
-      win: 1
-      loss: 0
-    player2:
-      team: Swee
-      position: Fourth
-      percent: 83
-      win: 0
-      loss: 1
-    event: Trials (Women)
-    year: 2017
-    draw: Round Robin(17)
-    score: Swee 5 - Homa 7
 - name: Tippin, Julie
   totals:
   - event: Trials (Women)

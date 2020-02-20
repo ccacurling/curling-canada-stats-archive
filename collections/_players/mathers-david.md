@@ -119,6 +119,7 @@ vs:
 - Fry, Ryan
 - Gallant, Brett
 - Griffith, Ty
+- Griffith, Tyrel
 - Gushue, Brad
 - Harnden, E.J.
 - Harnden, Ryan
@@ -142,16 +143,20 @@ vs:
 - LeCocq, Marc
 - Mallais, Jeremy
 - Martin, Karrick
+- Martin, Kevin
 - McEwen, Mike
 - Meachem, Shaun Myles
+- Mead, Jon
 - Menard, Jean-Michel
 - Menard, Philippe
+- Middaugh, Wayne
 - Morris, John
 - Moskowy, Braeden
 - Moulding, Darren
 - Murphy, Jamie
 - Muyres, Dallan
 - Muyres, Kirk
+- Nedohin, David
 - Neufeld, B.J.
 - Neufeld, Denni
 - Nichols, Mark
@@ -159,23 +164,18 @@ vs:
 - Rycroft, Carter
 - Saccary, Scott
 - Samagalski, Derek
+- Savill, Craig
 - Sawatsky, Rick
 - Schille, Chris
 - Schneider, Catlin
 - Schneider, Jamie
 - Simmons, Pat
 - Spencer, Adam
+- Stoughton, Jeff
 - Sylvain, Eric
 - Thiessen, Brad
 - Thiessen, Nolan
 - Walker, Geoff
 - Whitehead, Mark
 - Wozniak, Matt
-- Griffith, Tyrel
-- Martin, Kevin
-- Mead, Jon
-- Middaugh, Wayne
-- Nedohin, David
-- Savill, Craig
-- Stoughton, Jeff
 ---

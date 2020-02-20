@@ -1888,7 +1888,7 @@ vs:
     year: 2014
     draw: Round Robin(16)
     score: NL 4 - CA 9
-- name: Sweeting, Valerie
+- name: Sweeting, Val
   totals:
   - event: Hearts
     player1:
@@ -1899,6 +1899,15 @@ vs:
       percent: 72
       wins: 0
       losses: 2
+  - event: Trials (Women)
+    player1:
+      percent: 86
+      wins: 0
+      losses: 1
+    player2:
+      percent: 86
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: CA
@@ -1932,6 +1941,22 @@ vs:
     year: 2014
     draw: Final(22)
     score: AB 6 - CA 8
+  - player1:
+      team: HOM
+      position: Second
+      percent: 86
+      win: 0
+      loss: 1
+    player2:
+      team: SWE
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    event: Trials (Women)
+    year: 2013
+    draw: Round Robin(1)
+    score: HOM 3 - SWE 10
 - name: Titheridge, Lindsay
   totals:
   - event: Hearts
@@ -2489,32 +2514,4 @@ vs:
     year: 2013
     draw: Semi-Final(16)
     score: MID 10 - HOM 4
-- name: Sweeting, Val
-  totals:
-  - event: Trials (Women)
-    player1:
-      percent: 86
-      wins: 0
-      losses: 1
-    player2:
-      percent: 86
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: HOM
-      position: Second
-      percent: 86
-      win: 0
-      loss: 1
-    player2:
-      team: SWE
-      position: Fourth
-      percent: 86
-      win: 1
-      loss: 0
-    event: Trials (Women)
-    year: 2013
-    draw: Round Robin(1)
-    score: HOM 3 - SWE 10
 ---

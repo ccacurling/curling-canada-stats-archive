@@ -204,9 +204,9 @@ years:
   shots-percent: 84
 vs:
 - Adams, Diane
+- Aleksic, Shannon
 - Alexander, Diane
 - Allardyce, Kathie
-- Aleksic, Shannon
 - Allen, Laurie
 - Anderson, Sherry
 - Arnott, Janet
@@ -214,8 +214,10 @@ vs:
 - Arseneau, Jane
 - Aucoin, Shelley
 - Baker, Rose-Marie
+- Bakker, Glenys
 - Beever, Jocelyn
 - Bell, Allyson
+- Bell, Chelsey
 - Belley, Joelle
 - Bernard, Cheryl
 - Beveridge, Corie
@@ -230,6 +232,7 @@ vs:
 - Bowman, Mary
 - Bradley, Shelly
 - Breen, Theresa
+- Breen, Thersa
 - Brophy, Cathy
 - Brothers, Jill
 - Brown, Katie
@@ -248,6 +251,7 @@ vs:
 - Clarke, Hayley
 - Comeau, Sandy
 - Copeland, Rae Ann
+- Cordina, Sheri
 - Cormier, Sharon
 - Couling, Betty
 - Crispo, Guylaine
@@ -276,6 +280,7 @@ vs:
 - Fraser, Sherry
 - Frey, Audrey
 - Gagnier, Monique
+- Gagnon, Karo
 - Gagnon, Nathalie
 - Galusha, Kerry
 - Garvey, Sue
@@ -285,11 +290,13 @@ vs:
 - George, Tara
 - Gervais, Donna
 - Gignac, Donna
+- Godberson, Heather
 - Gogan, Jennifer
 - Goring, Alison
 - Goss, Peg
 - Graham-MacDonald, Bea
 - Greening, Jackie-Rae
+- Gregoire, Veronique
 - Gushulak, Diane
 - Hanlon, Heidi
 - Harding, Mary
@@ -301,7 +308,9 @@ vs:
 - Harvey, Janet
 - Henry, Lou Ann
 - Hensley, Merna
+- Hodson, Kim
 - Hooper Perroud, Jane
+- Hooper, Jane
 - Hopkins, Heather
 - Horne, Kate
 - Houston, Heather
@@ -314,9 +323,11 @@ vs:
 - Jones, Jennifer
 - Jones-Walker, Debbie
 - Jurgenson, Christine
+- Kasner, Marliese
 - Kaylo, Kelly
 - Kelly, Kim
 - Kerr, Kathy
+- Keshen, Christine
 - King, Cathy
 - Kleibrink, Shannon
 - Kyle, Linda
@@ -325,10 +336,14 @@ vs:
 - Laliberte, Connie
 - Lang, Lorraine
 - Lange, Ann
+- Larouche, Marie-France
 - Law, Kelley
 - Lawes, Andrea
 - Lawrence, Margaret
+- Lawton, Stefanie
 - Leblanc, Lisa
+- Lemay, Annie
+- Leonard, Judy
 - Lewis, Kristy
 - Lidgren, Anna
 - Lowther, Tammi
@@ -356,22 +371,27 @@ vs:
 - McLeod, Crystal
 - McPherson, Cheryl
 - Merklinger, Anne
+- Middaugh, Sherry
 - Montgomery, Kay
 - Moore, Kim
+- Moore, Kimberly
 - Morgan, Cheryl
 - Morris, Cori
 - Moses, Dawn
 - Moss, Debbie
+- Mulroney, Sandra
 - Murphy, Jeanette
 - Muzika, Shelley
 - Naugler, Tara
 - Nedohin, Heather
+- Nimmo, Shannon
+- Nixon, Amy
 - Nowlan, Denise
 - O'Connor, Susan
-- Officer, Jill
 - O'Leary, Susan
-- Ondrack, Wendy
 - O'Rourke, Kathy
+- Officer, Jill
+- Ondrack, Wendy
 - Osborne, Chantal
 - Overton-Clapham, Cathy
 - Palinkas, Gloria
@@ -389,6 +409,7 @@ vs:
 - Radford, Helen
 - Rankin, Heather
 - Renouf, Michele
+- Rizzo, Jo-Ann
 - Roberts, Angela
 - Robertson, Darcy
 - Robinson, Charlene
@@ -402,6 +423,8 @@ vs:
 - Shields, Deanne
 - Shigehiro, Sally
 - Simons, Renee
+- Singler, Sherri
+- Sipka, Joanne
 - Skinner, Julie
 - Soligo, Melissa
 - Spencer, Barb
@@ -415,45 +438,22 @@ vs:
 - Taylor, Candy
 - Thomas, Karen
 - Thomas, Maria
+- Thurston, Jill
 - Todd, Fran
 - Trowell, Cathy
+- Tuck, Kimberly
 - Turcotte, Kristin
 - Udle, Teri
 - Unrau, Faye
 - Usher, Leanne
+- Wall, Kirsten
+- Walsh, Heather
 - Wheatcroft, Georgina
 - Whitaker, Carol
 - Willms, Karri
 - Wiltzen, Jan
 - Wright, Joanne
 - Wright, Susan
-- Zinck, Kay
-- Bakker, Glenys
-- Bell, Chelsey
-- Breen, Thersa
-- Cordina, Sheri
-- Gagnon, Karo
-- Godberson, Heather
-- Gregoire, Veronique
-- Hodson, Kim
-- Hooper, Jane
-- Kasner, Marliese
-- Keshen, Christine
-- Larouche, Marie-France
-- Lawton, Stefanie
-- Lemay, Annie
-- Leonard, Judy
-- Middaugh, Sherry
-- Moore, Kimberly
-- Mulroney, Sandra
-- Nimmo, Shannon
-- Nixon, Amy
-- Rizzo, Jo-Ann
-- Singler, Sherri
-- Sipka, Joanne
-- Thurston, Jill
-- Tuck, Kimberly
-- Wall, Kirsten
-- Walsh, Heather
 - Zielke, Colleen
+- Zinck, Kay
 ---

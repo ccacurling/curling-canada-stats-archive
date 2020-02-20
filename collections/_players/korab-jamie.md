@@ -180,6 +180,7 @@ vs:
 - Atchison, Chris
 - Bailey, Scott
 - Barker, Richard
+- Bartlett, Don
 - Base, John
 - Berthelot, Marco
 - Bitz, Scott
@@ -198,6 +199,7 @@ vs:
 - Chorostkowski, Brad
 - Cochrane, Bryan
 - Collin, Simon
+- Cotter, Jim
 - Cowan, Chad
 - Crete, Martin
 - Crowell, Phil
@@ -294,11 +296,13 @@ vs:
 - Martin, Kevin
 - McCarrel, Graeme
 - McKee, Darrell
+- Mead, Jon
 - Melnichuk, Greg
 - Menard, Jean-Michel
 - Middaugh, Wayne
 - Milward, Ross
 - Mittelstadt, Kelly
+- Moffatt, Paul
 - Molloy, Pat
 - Morris, John
 - Moshenko, Darcy
@@ -308,13 +312,14 @@ vs:
 - Nedohin, David
 - Ness, Dale
 - Nobert, Rob
+- O'Rourke, Mark
 - Odishaw, Grant
 - Olson, Mark-2
 - Orme, Tyler
-- O'Rourke, Mark
 - Ouimet, Luc
 - Palmer, Curt
 - Park, Kevin
+- Peachey, Jay
 - Peachy, Jay
 - Pfeifer, Scott
 - Pielak, Rod
@@ -331,6 +336,7 @@ vs:
 - Ryan, Pat
 - Rycroft, Carter
 - Savill, Craig
+- Sawatsky, Rick
 - Scales, Bob
 - Scales, Brent
 - Schmidt, Aryn
@@ -354,8 +360,10 @@ vs:
 - Trevellyan, Todd
 - Turpin, Randy
 - Ursel, Bob
+- Vandenberghe, Garry
 - Vaughan, Jason
 - Villeneuve, Steeve
+- Walchuk, Don
 - Wall, Trevor
 - Wasnea, Brian
 - Wempe, Brian
@@ -363,12 +371,4 @@ vs:
 - Whitehead, Kevin
 - Whitehead, Mark
 - Wood, Mike
-- Bartlett, Don
-- Cotter, Jim
-- Mead, Jon
-- Moffatt, Paul
-- Peachey, Jay
-- Sawatsky, Rick
-- Vandenberghe, Garry
-- Walchuk, Don
 ---

@@ -101,18 +101,21 @@ years:
   shots-total: 158
   shots-percent: 79
 vs:
+- Adams, Shawn
 - Arsenault, Craig
 - Bartlett, Don
 - Base, John
 - Bryant, Doug
 - Bubbs, John
 - Bucyk, James
+- Burgess, Craig
 - Burnett, Steve
 - Campbell, Robert
 - Cayouette, Maurice
 - Champion, Kevin
 - Chorostkowski, Brad
 - Cochrane, Bryan
+- Cotter, Jim
 - Cowan, Chad
 - Desilets, Mike
 - Dieno, Clint
@@ -121,6 +124,7 @@ vs:
 - Fawcett, Brian
 - Fenton, Brad
 - Ferbey, Randy
+- Flemming, Paul
 - Gagnon, Steeve
 - Gamble, Bill
 - Gaudet, Mike
@@ -149,7 +153,9 @@ vs:
 - Johnson, Bill
 - Kalthoff, Kevin
 - Kelsch, Dan
+- Kennedy, Marc
 - Koe, Jamie
+- Koe, Kevin
 - Korab, Jamie
 - Korte, Bruce
 - Korte, Roger
@@ -169,16 +175,21 @@ vs:
 - MacInnes, David
 - MacKenzie, Kevin
 - Martin, Kevin
+- Mead, Jon
 - Mead, Jonathan
 - Menard, Jean-Michel
 - Milward, Ross
+- Mittelstadt, Kelly
+- Moffatt, Paul
 - Molloy, Pat
+- Morris, John
 - Moss, Steve
 - Nedohin, David
 - Nelson, Randy
 - Ness, Dale
 - Nichols, Mark
 - Odishaw, Grant
+- Peachey, Jay
 - Peachy, Jay
 - Peddigrew, Ken
 - Pfeifer, Scott
@@ -190,6 +201,7 @@ vs:
 - Ryan, Pat
 - Rycroft, Carter
 - Savill, Craig
+- Sawatsky, Rick
 - Scales, Bob
 - Scales, Brent
 - Sharp, Jeff
@@ -204,6 +216,7 @@ vs:
 - Trevellyan, Todd
 - Ursel, Bob
 - Van Den Berghe, Garry
+- Vandenberghe, Garry
 - Vaughan, Jason
 - Walchuk, Don
 - Wall, Trevor
@@ -214,17 +227,4 @@ vs:
 - Whitehead, Kevin
 - Whitehead, Mark
 - Windsor, Brian
-- Adams, Shawn
-- Burgess, Craig
-- Cotter, Jim
-- Flemming, Paul
-- Kennedy, Marc
-- Koe, Kevin
-- Mead, Jon
-- Mittelstadt, Kelly
-- Moffatt, Paul
-- Morris, John
-- Peachey, Jay
-- Sawatsky, Rick
-- Vandenberghe, Garry
 ---

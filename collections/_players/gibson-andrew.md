@@ -135,6 +135,7 @@ years:
   shots-total: 165
   shots-percent: 90
 vs:
+- Adams, Shawn
 - Arsenault, Craig
 - Bartlett, Don
 - Base, John
@@ -142,6 +143,7 @@ vs:
 - Bryant, Doug
 - Bubbs, John
 - Bucyk, James
+- Burgess, Craig
 - Burnett, Steve
 - Campbell, Robert
 - Carruthers, Reid
@@ -154,8 +156,8 @@ vs:
 - Cowan, Chad
 - Crete, Martin
 - Danbrook, Jamie
-- Desjardins, Robert
 - Desilets, Mike
+- Desjardins, Robert
 - Dieno, Clint
 - Dillon, Mike
 - Dumontelle, Matt
@@ -163,6 +165,7 @@ vs:
 - Fawcett, Brian
 - Fenton, Brad
 - Ferbey, Randy
+- Flemming, Paul
 - Folk, Kevin
 - Fowler, Rob
 - Fry, Ryan
@@ -206,6 +209,7 @@ vs:
 - Kelsch, Dan
 - Kennedy, Marc
 - Koe, Jamie
+- Koe, Kevin
 - Korab, Jamie
 - Korte, Bruce
 - Korte, Roger
@@ -228,11 +232,14 @@ vs:
 - MacKenzie, Kevin
 - Martin, Kevin
 - Maskiewich, Ken
+- Mead, Jon
 - Mead, Jonathan
 - Menard, Jean-Michel
 - Menard, Philippe
 - Millar, Colin
 - Milward, Ross
+- Mittelstadt, Kelly
+- Moffatt, Paul
 - Molloy, Pat
 - Morris, John
 - Moss, Steve
@@ -244,11 +251,12 @@ vs:
 - Ness, Dale
 - Newson, Jamie
 - Nichols, Mark
+- O'Rourke, Mark
 - Odishaw, Grant
 - Olson, Mark-2
-- O'Rourke, Mark
 - Ouimet, Luc
 - Park, Kevin
+- Peachey, Jay
 - Peachy, Jay
 - Peddigrew, Ken
 - Pfeifer, Scott
@@ -282,6 +290,7 @@ vs:
 - Trevellyan, Todd
 - Ursel, Bob
 - Van Den Berghe, Garry
+- Vandenberghe, Garry
 - Vaughan, Jason
 - Walchuk, Don
 - Wall, Trevor
@@ -292,13 +301,4 @@ vs:
 - Whitehead, Kevin
 - Whitehead, Mark
 - Windsor, Brian
-- Adams, Shawn
-- Burgess, Craig
-- Flemming, Paul
-- Koe, Kevin
-- Mead, Jon
-- Mittelstadt, Kelly
-- Moffatt, Paul
-- Peachey, Jay
-- Vandenberghe, Garry
 ---

@@ -110,9 +110,11 @@ vs:
 - Affleck, Tricia
 - Bell, Chelsey
 - Blais, Amelie
+- Cameron, Kate
 - Campbell, Jolene
 - Carmody, Erin
 - Chisholm, Candace
+- Englot, Michelle
 - Enright, Barb
 - Filteau, Anne-Marie
 - Hamon, Callan
@@ -127,9 +129,7 @@ vs:
 - Robertson, Darcy
 - Spencer, Barb
 - Webster, Bronwen
-- Williamson, Ashley
-- Cameron, Kate
-- Englot, Michelle
 - Westcott, Raunora
+- Williamson, Ashley
 - Wilson, Leslie
 ---

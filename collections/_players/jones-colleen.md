@@ -392,9 +392,9 @@ years:
 vs:
 - Adams, Diane
 - Affleck, Tricia
+- Aleksic, Shannon
 - Alexander, Diane
 - Allardyce, Kathie
-- Aleksic, Shannon
 - Allen, Laurie
 - Allen, Michelle
 - Allen, Susan
@@ -422,6 +422,7 @@ vs:
 - Belisle, Eve
 - Bell, Allyson
 - Bell, Chelsey
+- Bell, Patty
 - Belley, Joelle
 - Bennett, Connie
 - Bernard, Cheryl
@@ -493,6 +494,7 @@ vs:
 - Daku, Karen
 - Dalio, Diane
 - Daniel, Sylvie
+- Darbyshire, Carolyn
 - Davis, Brandee
 - Davis, Carol
 - Day, Arleen
@@ -533,6 +535,7 @@ vs:
 - Fortin, Sylvie
 - Fowler, Lois
 - Fowler, Rhonda
+- Fowlie, Heather
 - Fraser, Sherry
 - Freeman, Lisa
 - Frey, Audrey
@@ -578,6 +581,7 @@ vs:
 - Hensley, Merna
 - Hepper, Dorothy
 - Hodson, Kim
+- Holland, Amber
 - Hollands, Saskia
 - Holowec, Ainsley
 - Holtby, Taryn
@@ -612,6 +616,7 @@ vs:
 - Kennedy, Tracy
 - Kerr, Heather
 - Kerr, Kathy
+- Keshen, Christine
 - King, Cathy
 - King, Shirley
 - Kleibrink, Shannon
@@ -652,8 +657,8 @@ vs:
 - MacDonald, Shelley
 - MacDougall, Leslie
 - MacKay, Carolyn
-- Mackin, Marion
 - MacKenzie, Doris
+- Mackin, Marion
 - MacNutt, Shelley
 - MacPhee, Robyn
 - Mair, Jessica
@@ -662,6 +667,7 @@ vs:
 - Marchand, Karine
 - Marchand, Stephanie
 - Marchuk, Lindy
+- Martin, Denise
 - Martin, Heather
 - Martineau, Donna
 - Materi, Roberta
@@ -717,12 +723,12 @@ vs:
 - Nowlan, Denise
 - Noye, Marnie
 - Nugent, Pamela
-- Officer, Jill
 - O'Leary, Susan
-- Olson-Johns, Lori
-- Ondrack, Wendy
 - O'Rourke, Brittany
 - O'Rourke, Kathy
+- Officer, Jill
+- Olson-Johns, Lori
+- Ondrack, Wendy
 - Osborne, Chantal
 - Ouellet, Louise
 - Overton-Clapham, Cathy
@@ -755,6 +761,7 @@ vs:
 - Renouf, Michele
 - Reynolds, Lynn
 - Ridalls, Kristen
+- Rizzo, Jo-Ann
 - Roberts, Angela
 - Robertson, Darcy
 - Robinson, Charlene
@@ -826,6 +833,7 @@ vs:
 - Tousignant, Helene
 - Train, Mona
 - Trider, Krista
+- Tuck, Kimberly
 - Tucker, Cindy
 - Turcotte, Kristin
 - Unrau, Faye
@@ -834,12 +842,14 @@ vs:
 - Walker, Lisa
 - Wall, Kirsten
 - Wall, Mary Lou
+- Walsh, Heather
 - Walter, Cathy
 - Walter, Sheila
 - Wasylkiw, Lauren
 - Wazney, Sarah
 - Weagle, Lisa
 - Webb, Corine
+- Webster, Bronwen
 - Werenka, Lil
 - Wheatcroft, Georgina
 - Whitaker, Lise
@@ -853,14 +863,4 @@ vs:
 - Zeller, Lori
 - Zielke, Colleen
 - Zinck, Kay
-- Bell, Patty
-- Darbyshire, Carolyn
-- Fowlie, Heather
-- Holland, Amber
-- Keshen, Christine
-- Martin, Denise
-- Rizzo, Jo-Ann
-- Tuck, Kimberly
-- Walsh, Heather
-- Webster, Bronwen
 ---

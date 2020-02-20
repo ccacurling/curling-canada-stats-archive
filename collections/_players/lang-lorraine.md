@@ -191,11 +191,12 @@ years:
   shots-percent: 84
 vs:
 - Affleck, Tricia
+- Aleksic, Shannon
 - Alexander, Diane
 - Allardyce, Kathie
-- Aleksic, Shannon
 - Anderson, Kelly
 - Armstrong, Iris
+- Armstrong, Jacquie
 - Arnott, Janet
 - Arsenault, Mary-Anne
 - Aucoin, Shelley
@@ -205,6 +206,7 @@ vs:
 - Bartlett, Sue Anne
 - Belanger, Nancy
 - Belisle, Eve
+- Bell, Chelsey
 - Bernard, Cheryl
 - Betker, Jan
 - Bildfell, Shelly
@@ -281,6 +283,7 @@ vs:
 - Hennigar, Karen
 - Hensley, Merna
 - Herlinveaux, Louise
+- Holland, Amber
 - Hollands, Saskia
 - Horne, Sharon
 - Hunt, Donna
@@ -292,6 +295,7 @@ vs:
 - Jones, Jennifer
 - Jones, Karen
 - Jurgenson, Christine
+- Kalenchuk, Heather
 - Karasek, Bev
 - Kasner, Marliese
 - Keays, Stella
@@ -301,6 +305,7 @@ vs:
 - Kerr, Kathy
 - King, Cathy
 - King, Shirley
+- Kleibrink, Shannon
 - Koyanagi, Karen
 - Kuruluk, Kristen
 - LaRocque, Penny
@@ -324,6 +329,7 @@ vs:
 - MacPhee, Robyn
 - Maher, Pat
 - Maitland, Donna
+- Malekoff, Stephanie
 - Mallett, Marla
 - Martin, Lillian
 - Martin, Sandra
@@ -354,13 +360,14 @@ vs:
 - Muzika, Shelley
 - Nelthorpe, Sally
 - Nicholson, Terry
+- Nixon, Amy
 - Nowlan, Denise
 - Nugent, Pamela
 - O'Connor, Susan
-- Officer, Jill
 - O'Leary, Susan
-- Olson-Johns, Lori
 - O'Rourke, Kathy
+- Officer, Jill
+- Olson-Johns, Lori
 - Osborne, Chantal
 - Overton, Kim
 - Overton-Clapham, Cathy
@@ -372,6 +379,7 @@ vs:
 - Porter, Debbie
 - Power, Judy
 - Power, Marie-Anne
+- Preston, Sam
 - Proctor, Jill
 - Pross, Margaret
 - Provencal, Darah
@@ -402,6 +410,8 @@ vs:
 - Sanford, Pamela
 - Santos, Deb
 - Schmirler, Sandra
+- Schneider, Kim
+- Schneider, Tammy
 - Schraeder, Jeanna
 - Scott, Donna
 - Scott, Kelly
@@ -439,24 +449,14 @@ vs:
 - Vey, Lana
 - Walter, Cathy
 - Wark, Sarah
+- Webster, Bronwen
+- Webster, Crystal
 - Werenka, Lil
 - Wheatcroft, Georgina
 - Whitaker, Carol
 - Whitrow, Leanne
 - Willms, Karri
-- Wuthrich, Patti
 - Wright, Susan
+- Wuthrich, Patti
 - Zeller, Lori
-- Armstrong, Jacquie
-- Bell, Chelsey
-- Holland, Amber
-- Kalenchuk, Heather
-- Kleibrink, Shannon
-- Malekoff, Stephanie
-- Nixon, Amy
-- Preston, Sam
-- Schneider, Kim
-- Schneider, Tammy
-- Webster, Bronwen
-- Webster, Crystal
 ---

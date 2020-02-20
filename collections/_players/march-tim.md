@@ -72,6 +72,7 @@ vs:
 - Bottcher, Brendan
 - Carruthers, Reid
 - Case, Peter
+- Cotter, Jim
 - Crowell, Phil
 - Dion, William
 - Dunstone, Matthew
@@ -81,13 +82,18 @@ vs:
 - Gallant, Brett
 - Gallant, Chris
 - Grattan, James
+- Griffith, Tyrel
 - Gushue, Brad
 - Harnden, E.J.
 - Harnden, Ryan
+- Hebert, Ben
 - Hodgson, Colin
 - Jacobs, Brad
 - Jeffrey, Chris
+- Kennedy, Marc
 - Kingdon, Wade
+- Koe, Kevin
+- Laing, Brent
 - Laycock, Steve
 - Ledgerwood, Sean
 - MacKenzie, Eddie
@@ -95,6 +101,7 @@ vs:
 - Martin, Karrick
 - McCann, Andy
 - McEwen, Mike
+- Morris, John
 - Moskowy, Braeden
 - Moulding, Darren
 - Murphy, Jamie
@@ -106,18 +113,11 @@ vs:
 - Nichols, Mark
 - Saccary, Scott
 - Samagalski, Derek
+- Schneider, Catlin
 - St.Louis, David
 - Thiessen, Brad
 - Trepanier, Jean-Francois
 - Walker, Geoff
 - Wozniak, Matt
 - Younker, Robbie
-- Cotter, Jim
-- Griffith, Tyrel
-- Hebert, Ben
-- Kennedy, Marc
-- Koe, Kevin
-- Laing, Brent
-- Morris, John
-- Schneider, Catlin
 ---

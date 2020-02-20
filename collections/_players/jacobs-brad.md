@@ -294,6 +294,7 @@ vs:
 - Armstrong, Mike
 - Asselin, Felix
 - Atchison, Chris
+- Bailey, Scott
 - Bardsley, Mike
 - Barker, Richard
 - Barry, Josh
@@ -359,6 +360,7 @@ vs:
 - Gould, Steve
 - Grattan, James
 - Griffith, Ty
+- Griffith, Tyrel
 - Gushue, Brad
 - Harris, Tyler
 - Hart, Richard
@@ -418,11 +420,13 @@ vs:
 - McEwen, Mike
 - McKee, Darrell
 - Meachem, Shaun Myles
+- Mead, Jon
 - Mead, Jonathan
 - Menard, Jean-Michel
 - Menard, Philippe
 - Merklinger, Bill
 - Middaugh, Wayne
+- Mitchell, Collin
 - Mittelstadt, Kelly
 - Morris, John
 - Moskowy, Braeden
@@ -435,15 +439,16 @@ vs:
 - Nantes, Dave
 - Nason, Paul
 - Naugler, Tom
+- Nedohin, David
 - Neufeld, B.J.
 - Neufeld, Denni
 - Newson, Jamie
 - Nichols, Mark
+- O'Rourke, Mark
 - Odian, Scott
 - Odishaw, Grant
 - Odishaw, Terry
 - Orme, Tyler
-- O'Rourke, Mark
 - Palmer, Curt
 - Park, Kevin
 - Pinder, Jordan
@@ -491,9 +496,4 @@ vs:
 - Wood, Brad
 - Wood, Mike
 - Wozniak, Matt
-- Bailey, Scott
-- Griffith, Tyrel
-- Mead, Jon
-- Mitchell, Collin
-- Nedohin, David
 ---

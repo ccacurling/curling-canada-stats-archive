@@ -4492,7 +4492,7 @@ vs:
     year: 2014
     draw: Round Robin(16)
     score: NL 4 - CA 9
-- name: Sweeting, Valerie
+- name: Sweeting, Val
   totals:
   - event: Hearts
     player1:
@@ -4503,6 +4503,15 @@ vs:
       percent: 78
       wins: 1
       losses: 2
+  - event: Trials (Women)
+    player1:
+      percent: 71
+      wins: 1
+      losses: 1
+    player2:
+      percent: 84
+      wins: 1
+      losses: 1
   games:
   - player1:
       team: CA
@@ -4552,6 +4561,38 @@ vs:
     year: 2015
     draw: Round Robin(15)
     score: AB 7 - CA 6
+  - player1:
+      team: HOM
+      position: Fourth
+      percent: 60
+      win: 0
+      loss: 1
+    player2:
+      team: SWE
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    event: Trials (Women)
+    year: 2013
+    draw: Round Robin(1)
+    score: HOM 3 - SWE 10
+  - player1:
+      team: Homa
+      position: Fourth
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: Swee
+      position: Fourth
+      percent: 83
+      win: 0
+      loss: 1
+    event: Trials (Women)
+    year: 2017
+    draw: Round Robin(17)
+    score: Swee 5 - Homa 7
 - name: Thevenot, Kara
   totals:
   - event: Hearts
@@ -5599,50 +5640,6 @@ vs:
     year: 2017
     draw: Round Robin(14)
     score: Homa 10 - Sche 7
-- name: Sweeting, Val
-  totals:
-  - event: Trials (Women)
-    player1:
-      percent: 71
-      wins: 1
-      losses: 1
-    player2:
-      percent: 84
-      wins: 1
-      losses: 1
-  games:
-  - player1:
-      team: HOM
-      position: Fourth
-      percent: 60
-      win: 0
-      loss: 1
-    player2:
-      team: SWE
-      position: Fourth
-      percent: 86
-      win: 1
-      loss: 0
-    event: Trials (Women)
-    year: 2013
-    draw: Round Robin(1)
-    score: HOM 3 - SWE 10
-  - player1:
-      team: Homa
-      position: Fourth
-      percent: 81
-      win: 1
-      loss: 0
-    player2:
-      team: Swee
-      position: Fourth
-      percent: 83
-      win: 0
-      loss: 1
-    event: Trials (Women)
-    year: 2017
-    draw: Round Robin(17)
-    score: Swee 5 - Homa 7
 - name: Tippin, Julie
   totals:
   - event: Trials (Women)

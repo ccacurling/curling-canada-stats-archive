@@ -2763,7 +2763,7 @@ vs:
     year: 2014
     draw: Round Robin(12)
     score: SK 7 - NL 3
-- name: Sweeting, Valerie
+- name: Sweeting, Val
   totals:
   - event: Hearts
     player1:
@@ -2774,6 +2774,15 @@ vs:
       percent: 77
       wins: 2
       losses: 2
+  - event: Trials (Women)
+    player1:
+      percent: 76
+      wins: 0
+      losses: 1
+    player2:
+      percent: 73
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: SK
@@ -2839,6 +2848,22 @@ vs:
     year: 2015
     draw: Semi-Final(20)
     score: AB 7 - SK 6
+  - player1:
+      team: LAW
+      position: Fourth
+      percent: 76
+      win: 0
+      loss: 1
+    player2:
+      team: SWE
+      position: Fourth
+      percent: 73
+      win: 1
+      loss: 0
+    event: Trials (Women)
+    year: 2013
+    draw: Round Robin(3)
+    score: SWE 8 - LAW 6
 - name: Thomas, Jill
   totals:
   - event: Hearts
@@ -4009,34 +4034,6 @@ vs:
     year: 2013
     draw: Round Robin(5)
     score: LAW 8 - SON 6
-- name: Sweeting, Val
-  totals:
-  - event: Trials (Women)
-    player1:
-      percent: 76
-      wins: 0
-      losses: 1
-    player2:
-      percent: 73
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: LAW
-      position: Fourth
-      percent: 76
-      win: 0
-      loss: 1
-    player2:
-      team: SWE
-      position: Fourth
-      percent: 73
-      win: 1
-      loss: 0
-    event: Trials (Women)
-    year: 2013
-    draw: Round Robin(3)
-    score: SWE 8 - LAW 6
 - name: Tuck, Kimberly
   totals:
   - event: Trials (Women)

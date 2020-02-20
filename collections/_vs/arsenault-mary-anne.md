@@ -13798,7 +13798,7 @@ vs:
     year: 1993
     draw: Round Robin(4)
     score: NS 6 - BC 7
-- name: Sweeting, Valerie
+- name: Sweeting, Val
   totals:
   - event: Hearts
     player1:

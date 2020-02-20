@@ -68,6 +68,7 @@ years:
   shots-percent: 80
 vs:
 - Anderson, Sherry
+- Armstrong, Leigh
 - Atkinson, Rebecca
 - Baier, Stephanie
 - Boyle, Jane
@@ -87,17 +88,31 @@ vs:
 - Flaxey, Allison
 - Gannon, Melissa
 - Homan, Rachel
+- Iskiw, Beth
+- Jones, Jennifer
 - Joyce, Blisse
 - Kasner, Marliese
 - Koltun, Sarah
 - Kreviazuk, Alison
 - Kreviazuk, Lynn
+- Lawes, Kaitlyn
 - Lawton, Stefanie
+- MacDonald, Lawnie
 - MacDonald, Rebecca Jean
+- Mair, Jessica
+- McEwen, Dawn
+- McTaggart, Cary-Anne
+- Merklinger, Lee
+- Middaugh, Sherry
 - Miskew, Emma
+- Nedohin, Heather
 - Nugent, Pamela
 - O'Rourke, Brittany
+- Officer, Jill
 - Parsons, Danielle
+- Pasika, Rona
+- Peters, Laine
+- Rizzo, Jo-Ann
 - Robison, Michala
 - Ross, Allison
 - Sanderson, Jessie
@@ -105,6 +120,7 @@ vs:
 - Sinclair, Andrea
 - Singler, Sherri
 - Smith, Heather
+- Sonnenberg, Renee
 - Strong, Heather
 - Strong, Laura
 - Sweeting, Val
@@ -112,20 +128,4 @@ vs:
 - Van Osch, Kesa
 - Wallingham, Patty
 - Weagle, Lisa
-- Armstrong, Leigh
-- Iskiw, Beth
-- Jones, Jennifer
-- Lawes, Kaitlyn
-- MacDonald, Lawnie
-- Mair, Jessica
-- McEwen, Dawn
-- McTaggart, Cary-Anne
-- Merklinger, Lee
-- Middaugh, Sherry
-- Nedohin, Heather
-- Officer, Jill
-- Pasika, Rona
-- Peters, Laine
-- Rizzo, Jo-Ann
-- Sonnenberg, Renee
 ---

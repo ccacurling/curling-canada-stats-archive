@@ -103,6 +103,7 @@ years:
 vs:
 - Anderson, Sherry
 - Armstrong, Jacquie
+- Armstrong, Leigh
 - Arsenault, Mary-Anne
 - Atkinson, Rebecca
 - Ayrey, Jinaye
@@ -149,6 +150,7 @@ vs:
 - Hersikorn, Patty
 - Holland, Amber
 - Holtby, Taryn
+- Iskiw, Beth
 - Johnston, Kara
 - Jones, Colleen
 - Jones, Jennifer
@@ -164,24 +166,33 @@ vs:
 - Lawes, Kaitlyn
 - Lawton, Stefanie
 - Lemay, Annie
+- MacDonald, Lawnie
 - MacDonald, Rebecca Jean
 - MacDougall, Leslie
 - MacPhee, Robyn
+- Mair, Jessica
 - Martin, Heather
 - McDonald, Kristy
 - McEwen, Dawn
+- McTaggart, Cary-Anne
+- Merklinger, Lee
+- Middaugh, Sherry
 - Miller, Wendy
 - Moore, Kristie
 - Moses, Dawn
+- Nedohin, Heather
 - Nixon, Amy
 - Nowlan, Denise
 - Nugent, Pamela
-- Officer, Jill
 - O'Rourke, Brittany
+- Officer, Jill
 - Overton-Clapham, Cathy
 - Parsons, Danielle
+- Pasika, Rona
 - Paul, Sarah
+- Peters, Laine
 - Porter, Erin
+- Rizzo, Jo-Ann
 - Robison, Michala
 - Ross, Allison
 - Sanderson, Jessie
@@ -196,6 +207,7 @@ vs:
 - Singler, Sherri
 - Smith, Heather
 - Sobey, Lianne
+- Sonnenberg, Renee
 - Strong, Heather
 - Strong, Laura
 - Sweeting, Val
@@ -208,16 +220,4 @@ vs:
 - Webster, Bronwen
 - Westcott, Raunora
 - Wilson, Leslie
-- Armstrong, Leigh
-- Iskiw, Beth
-- MacDonald, Lawnie
-- Mair, Jessica
-- McTaggart, Cary-Anne
-- Merklinger, Lee
-- Middaugh, Sherry
-- Nedohin, Heather
-- Pasika, Rona
-- Peters, Laine
-- Rizzo, Jo-Ann
-- Sonnenberg, Renee
 ---

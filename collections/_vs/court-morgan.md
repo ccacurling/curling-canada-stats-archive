@@ -1026,7 +1026,7 @@ vs:
     year: 2014
     draw: Round Robin(4)
     score: ON 8 - NL 7
-- name: Sweeting, Valerie
+- name: Sweeting, Val
   totals:
   - event: Hearts
     player1:
@@ -1037,6 +1037,15 @@ vs:
       percent: 70
       wins: 0
       losses: 1
+  - event: Trials (Women)
+    player1:
+      percent: 88
+      wins: 0
+      losses: 1
+    player2:
+      percent: 72
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: 'ON'
@@ -1054,6 +1063,22 @@ vs:
     year: 2014
     draw: Round Robin(12)
     score: ON 7 - AB 5
+  - player1:
+      team: Flax
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: Swee
+      position: Fourth
+      percent: 72
+      win: 1
+      loss: 0
+    event: Trials (Women)
+    year: 2017
+    draw: Round Robin(7)
+    score: Flax 5 - Swee 10
 - name: Titheridge, Lindsay
   totals:
   - event: Hearts
@@ -1695,34 +1720,6 @@ vs:
     year: 2017
     draw: Round Robin(14)
     score: Flax 7 - McCa 8
-- name: Sweeting, Val
-  totals:
-  - event: Trials (Women)
-    player1:
-      percent: 88
-      wins: 0
-      losses: 1
-    player2:
-      percent: 72
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: Flax
-      position: Lead
-      percent: 88
-      win: 0
-      loss: 1
-    player2:
-      team: Swee
-      position: Fourth
-      percent: 72
-      win: 1
-      loss: 0
-    event: Trials (Women)
-    year: 2017
-    draw: Round Robin(7)
-    score: Flax 5 - Swee 10
 - name: Tippin, Julie
   totals:
   - event: Trials (Women)

@@ -12219,13 +12219,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 86
-      wins: 3
+      percent: 88
+      wins: 4
       losses: 1
     player2:
-      percent: 87
+      percent: 88
       wins: 1
-      losses: 3
+      losses: 4
   games:
   - player1:
       team: 'ON'
@@ -12275,6 +12275,22 @@ vs:
     year: 2013
     draw: Bronze(21)
     score: NL 6 - ON 7
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 95
+      win: 1
+      loss: 0
+    player2:
+      team: NL
+      position: Lead
+      percent: 93
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2016
+    draw: Round Robin(4)
+    score: NL 3 - ON 4
   - player1:
       team: 'ON'
       position: Fourth

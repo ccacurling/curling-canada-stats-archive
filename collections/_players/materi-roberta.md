@@ -102,6 +102,7 @@ years:
   shots-percent: 78
 vs:
 - Affleck, Tricia
+- Anderson, Sherry
 - Armstrong, Jacquie
 - Arsenault, Mary-Anne
 - Arseneau, Jane
@@ -112,8 +113,11 @@ vs:
 - Barbour, Shona
 - Belanger, Nancy
 - Bell, Chelsey
+- Bell, Patty
+- Beveridge, Corie
 - Birt, Suzanne
 - Blais, Amelie
+- Bohmer, Brenda
 - Bradley, Shelly
 - Brennan, Amanda
 - Brown, Jacalyn
@@ -128,6 +132,7 @@ vs:
 - Crawford, Andrea
 - Cunningham, Cathy
 - Cunningham, Jennifer
+- Darbyshire, Carolyn
 - Delahunt, Nancy
 - deSolla, Jodie
 - Dezura, Diane
@@ -137,21 +142,29 @@ vs:
 - Filteau, Anne-Marie
 - Fleury, Tracy
 - Floyd, Kathy
+- Fowlie, Heather
+- Fraser, Sherry
 - Galusha, Kerry
 - Gates, Amanda
+- Gignac, Donna
 - Goss, Peg
 - Grenier, Valerie
+- Gushulak, Diane
 - Harmark, Andra
 - Harvey, Alison
+- Hodson, Kim
 - Holland, Amber
 - Holowec, Ainsley
+- Horne, Kate
 - Iskiw, Beth
 - Jenkins, Sandra
 - Jones, Colleen
 - Jones, Jennifer
 - Joyce, Blisse
+- Jurgenson, Christine
 - Kalenchuk, Heather
 - Kelly, Kim
+- King, Cathy
 - Kleibrink, Shannon
 - Koehler, Megan
 - Korab, Stephanie
@@ -161,19 +174,23 @@ vs:
 - Lawes, Kaitlyn
 - Lemay, Annie
 - MacCallum, Janice
+- MacDonald, Lawnie
 - MacDonald, Rebecca Jean
 - MacDonald, Shelley
 - MacDougall, Leslie
 - MacInnes, Allison
 - MacPhee, Robyn
 - Mair, Jessica
+- Martin, Denise
 - McCagg-Nystrom, Heather
 - McDonald, Tina
 - McEwen, Dawn
 - McNamee, Karen
 - Middaugh, Sherry
+- Montgomery, Kay
 - Moore, Kim
 - Moses, Dawn
+- Mulroney, Sandra
 - Nedohin, Heather
 - Nicholls, Brenda
 - Nicholson, Danielle
@@ -183,6 +200,7 @@ vs:
 - Parsons, Danielle
 - Peters, Laine
 - Power, Marie-Anne
+- Purdy, Karen
 - Radchenka, Tammy
 - Richard, Marie
 - Robichaud, Sylvie
@@ -215,22 +233,4 @@ vs:
 - Wylie, Jennifer
 - Yardley, Janelle
 - Young, Karen
-- Anderson, Sherry
-- Bell, Patty
-- Beveridge, Corie
-- Bohmer, Brenda
-- Darbyshire, Carolyn
-- Fowlie, Heather
-- Fraser, Sherry
-- Gignac, Donna
-- Gushulak, Diane
-- Hodson, Kim
-- Horne, Kate
-- Jurgenson, Christine
-- King, Cathy
-- MacDonald, Lawnie
-- Martin, Denise
-- Montgomery, Kay
-- Mulroney, Sandra
-- Purdy, Karen
 ---

@@ -173,6 +173,7 @@ vs:
 - Aleksic, Shannon
 - Anderson, Sherry
 - Armstrong, Jacquie
+- Armstrong, Leigh
 - Arsenault, Mary-Anne
 - Atkinson, Rebecca
 - Ayrey, Jinaye
@@ -187,6 +188,7 @@ vs:
 - Birt, Suzanne
 - Black, Christina
 - Blais, Amelie
+- Bobbie, Tess
 - Boyle, Jane
 - Bradley, Shelly
 - Brassard, Veronique
@@ -216,6 +218,7 @@ vs:
 - Dolan, Kim
 - Dolan, Sinead
 - Dufresne, Audree
+- Duhaime, Chantal
 - Duncan, Chelsea
 - Dykstra, Michelle
 - Englot, Michelle
@@ -230,6 +233,7 @@ vs:
 - Galusha, Kerry
 - Gannon, Melissa
 - Gates, Amanda
+- Grandy, Clancy
 - Gregoire, Veronique
 - Gushulak, Diane
 - Guzzwell, Stephanie
@@ -258,6 +262,7 @@ vs:
 - Lawton, Stefanie
 - Lemay, Annie
 - Lilly, Kendra
+- MacDonald, Lawnie
 - MacDonald, Rebecca Jean
 - MacDougall, Leslie
 - MacPhee, Robyn
@@ -271,6 +276,9 @@ vs:
 - McEwen, Dawn
 - McInnis, Susan
 - McQuaid, Michelle
+- McTaggart, Cary-Anne
+- Merklinger, Lee
+- Middaugh, Sherry
 - Miller, Wendy
 - Moore, Kristie
 - Morris, Cori
@@ -279,11 +287,12 @@ vs:
 - Nixon, Amy
 - Nowlan, Denise
 - Nugent, Pamela
+- O'Rourke, Brittany
 - Officer, Jill
 - Olson-Johns, Lori
-- O'Rourke, Brittany
 - Overton-Clapham, Cathy
 - Parsons, Danielle
+- Pasika, Rona
 - Paul, Sarah
 - Peterman, Jocelyn
 - Peters, Laine
@@ -292,6 +301,7 @@ vs:
 - Potts, Sarah
 - Richard, Marie
 - Richards, Brette
+- Rizzo, Jo-Ann
 - Robichaud, Sylvie
 - Robison, Michala
 - Ross, Allison
@@ -299,6 +309,8 @@ vs:
 - Sanderson, Jessie
 - Sandwith, Carley
 - Saulnier, Andrea
+- Scheidegger, Casey
+- Scheidegger, Jessie
 - Schmidt, Stephanie
 - Schneider, Kim
 - Schneider, Lorraine
@@ -314,15 +326,18 @@ vs:
 - Smith, Stacey
 - Snyder, Jane
 - Sobey, Lianne
+- Sonnenberg, Renee
 - Strong, Heather
 - Strong, Laura
 - Sweeting, Val
 - Thiessen, Alison
+- Tippin, Julie
 - Titheridge, Lindsay
 - Trickett, Erica
 - Trombley, Christy
 - Udle, Teri
 - Van Osch, Kesa
+- Vink, Rachelle
 - Wallingham, Patty
 - Walsh, Jenna
 - Wasylkiw, Lauren
@@ -332,19 +347,4 @@ vs:
 - Wilkes, Sarah
 - Wilson, Leslie
 - Wylie, Jennifer
-- Armstrong, Leigh
-- Bobbie, Tess
-- Duhaime, Chantal
-- Grandy, Clancy
-- MacDonald, Lawnie
-- McTaggart, Cary-Anne
-- Merklinger, Lee
-- Middaugh, Sherry
-- Pasika, Rona
-- Rizzo, Jo-Ann
-- Scheidegger, Casey
-- Scheidegger, Jessie
-- Sonnenberg, Renee
-- Tippin, Julie
-- Vink, Rachelle
 ---

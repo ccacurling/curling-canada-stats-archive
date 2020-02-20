@@ -102,24 +102,28 @@ vs:
 - Birchard, Shannon
 - Blais, Amelie
 - Chislett, Geneva
+- Court, Morgan
 - Duncan, Chelsea
 - Duncan, Jenna
 - Einarson, Kerri
 - Fesser, Kourtney
 - Fesser, Krista
 - Filteau, Anne-Marie
+- Flaxey, Allison
 - Fleury, Tracy
 - Fullerton, Sarah
 - Fyfe, Liz
 - Galusha, Kerry
 - Gates, Amanda
 - Gibson, Amy
+- Grandy, Clancy
 - Hughes, Meaghan
 - Hutchings, Denise
 - Jones, Jennifer
 - Koehler, Megan
 - Koltun, Sarah
 - Korchinski, Karlee
+- Kreviazuk, Lynn
 - Lister, Kendra
 - MacCuish, Kristin
 - MacPhee, Robyn
@@ -129,8 +133,8 @@ vs:
 - McTaggart, Cary-Anne
 - Moore, Kristie
 - Njegovan, Selena
-- Officer, Jill
 - O'Rourke, Brittany
+- Officer, Jill
 - Price, Kara
 - Robichaud, Sylvie
 - Scheidegger, Casey
@@ -143,8 +147,4 @@ vs:
 - Webster, Crystal
 - West, Christianne
 - Wylie, Jennifer
-- Court, Morgan
-- Flaxey, Allison
-- Grandy, Clancy
-- Kreviazuk, Lynn
 ---

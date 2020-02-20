@@ -420,7 +420,7 @@ vs:
     year: 2014
     draw: Round Robin(8)
     score: NL 3 - MB 5
-- name: Sweeting, Valerie
+- name: Sweeting, Val
   totals:
   - event: Hearts
     player1:
@@ -431,6 +431,15 @@ vs:
       percent: 90
       wins: 2
       losses: 0
+  - event: Trials (Women)
+    player1:
+      percent: 75
+      wins: 1
+      losses: 0
+    player2:
+      percent: 74
+      wins: 0
+      losses: 1
   games:
   - player1:
       team: MB
@@ -464,6 +473,22 @@ vs:
     year: 2014
     draw: Semi-Final(20)
     score: MB 5 - AB 6
+  - player1:
+      team: CAR
+      position: Third
+      percent: 75
+      win: 1
+      loss: 0
+    player2:
+      team: SWE
+      position: Fourth
+      percent: 74
+      win: 0
+      loss: 1
+    event: Trials (Women)
+    year: 2013
+    draw: Round Robin(11)
+    score: SWE 4 - CAR 6
 - name: Udle, Teri
   totals:
   - event: Hearts
@@ -889,32 +914,4 @@ vs:
     year: 2013
     draw: Round Robin(9)
     score: SON 4 - CAR 6
-- name: Sweeting, Val
-  totals:
-  - event: Trials (Women)
-    player1:
-      percent: 75
-      wins: 1
-      losses: 0
-    player2:
-      percent: 74
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: CAR
-      position: Third
-      percent: 75
-      win: 1
-      loss: 0
-    player2:
-      team: SWE
-      position: Fourth
-      percent: 74
-      win: 0
-      loss: 1
-    event: Trials (Women)
-    year: 2013
-    draw: Round Robin(11)
-    score: SWE 4 - CAR 6
 ---

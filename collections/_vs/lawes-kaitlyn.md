@@ -3131,7 +3131,7 @@ vs:
     year: 2012
     draw: Round Robin(7)
     score: NL 5 - MB 8
-- name: Sweeting, Valerie
+- name: Sweeting, Val
   totals:
   - event: Hearts
     player1:
@@ -3142,6 +3142,15 @@ vs:
       percent: 77
       wins: 0
       losses: 3
+  - event: Trials (Women)
+    player1:
+      percent: 80
+      wins: 1
+      losses: 1
+    player2:
+      percent: 77
+      wins: 1
+      losses: 1
   games:
   - player1:
       team: MB
@@ -3191,6 +3200,38 @@ vs:
     year: 2015
     draw: Final(22)
     score: AB 5 - MB 6
+  - player1:
+      team: JON
+      position: Third
+      percent: 76
+      win: 0
+      loss: 1
+    player2:
+      team: SWE
+      position: Fourth
+      percent: 83
+      win: 1
+      loss: 0
+    event: Trials (Women)
+    year: 2013
+    draw: Round Robin(5)
+    score: SWE 9 - JON 6
+  - player1:
+      team: Jone
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: Swee
+      position: Fourth
+      percent: 71
+      win: 0
+      loss: 1
+    event: Trials (Women)
+    year: 2017
+    draw: Round Robin(2)
+    score: Swee 6 - Jone 9
 - name: Thevenot, Kara
   totals:
   - event: Hearts
@@ -4362,50 +4403,6 @@ vs:
     year: 2013
     draw: Round Robin(9)
     score: JON 8 - LAW 3
-- name: Sweeting, Val
-  totals:
-  - event: Trials (Women)
-    player1:
-      percent: 80
-      wins: 1
-      losses: 1
-    player2:
-      percent: 77
-      wins: 1
-      losses: 1
-  games:
-  - player1:
-      team: JON
-      position: Third
-      percent: 76
-      win: 0
-      loss: 1
-    player2:
-      team: SWE
-      position: Fourth
-      percent: 83
-      win: 1
-      loss: 0
-    event: Trials (Women)
-    year: 2013
-    draw: Round Robin(5)
-    score: SWE 9 - JON 6
-  - player1:
-      team: Jone
-      position: Third
-      percent: 84
-      win: 1
-      loss: 0
-    player2:
-      team: Swee
-      position: Fourth
-      percent: 71
-      win: 0
-      loss: 1
-    event: Trials (Women)
-    year: 2017
-    draw: Round Robin(2)
-    score: Swee 6 - Jone 9
 - name: Tippin, Julie
   totals:
   - event: Trials (Women)

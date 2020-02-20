@@ -236,6 +236,7 @@ vs:
 - Arseneau, Jane
 - Aucoin, Shelley
 - Baker, Rose-Marie
+- Bakker, Glenys
 - Balderston, Marcy
 - Barker, Catherine
 - Barrack, Carmen
@@ -259,6 +260,7 @@ vs:
 - Bowman, Mary
 - Bradley, Shelly
 - Breen, Theresa
+- Breen, Thersa
 - Brophy, Cathy
 - Brothers, Jill
 - Brown, Marcie
@@ -306,6 +308,7 @@ vs:
 - Dolan, Kim
 - Dorosz, Peggy
 - Earl, Allison
+- Eddy, Lori
 - Englot, Michelle
 - Fahlman, Kathy
 - Farrell, Allison
@@ -326,6 +329,7 @@ vs:
 - Gervais, Donna
 - Gignac, Donna
 - Girard, Sylvie
+- Godberson, Heather
 - Goring, Alison
 - Green, Sue
 - Greenwood, Jill
@@ -341,6 +345,8 @@ vs:
 - Henry, Lou Ann
 - Holland, Amber
 - Hooper Perroud, Jane
+- Hooper, Jane
+- Hopkins, Heather
 - Horne, Kate
 - Horte, Rhonda
 - Howse, Lillian
@@ -384,8 +390,9 @@ vs:
 - MacDiarmid, Kristen
 - MacDonald, Rebecca Jean
 - MacDougall, Leslie
-- Mackin, Marion
 - MacKenzie, Doris
+- Mackin, Marion
+- MacLeod, Lisa
 - MacPhee, Robyn
 - Mallett, Marla
 - Marchand, Jessica
@@ -410,6 +417,7 @@ vs:
 - Millar, Bev
 - Miller, Maureen
 - Montgomery, Kay
+- Moore, Kimberly
 - Moore, Kristie
 - Moore, Linda
 - Morgan, Cheryl
@@ -424,13 +432,14 @@ vs:
 - Nedohin, Heather
 - Nicholls, Brenda
 - Nichols, Helen
+- Nimmo, Shannon
 - Nohr, Dianne
 - Nowlan, Denise
 - Noye, Marnie
 - O'Connor, Susan
 - O'Leary, Susan
-- Ondrack, Wendy
 - O'Rourke, Kathy
+- Ondrack, Wendy
 - Osborne, Chantal
 - Palinkas, Gloria
 - Paul, Sarah
@@ -467,6 +476,7 @@ vs:
 - Shields, Deanne
 - Shigehiro, Sally
 - Simons, Renee
+- Sipka, Joanne
 - Skinner, Julie
 - Smith, Heather
 - Smith, Yvonne
@@ -505,14 +515,4 @@ vs:
 - Wright, Susan
 - Zielke, Colleen
 - Zinck, Kay
-- Bakker, Glenys
-- Breen, Thersa
-- Eddy, Lori
-- Godberson, Heather
-- Hooper, Jane
-- Hopkins, Heather
-- MacLeod, Lisa
-- Moore, Kimberly
-- Nimmo, Shannon
-- Sipka, Joanne
 ---

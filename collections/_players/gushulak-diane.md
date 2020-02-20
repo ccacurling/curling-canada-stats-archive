@@ -125,12 +125,15 @@ vs:
 - Arseneau, Jane
 - Bakker, Glenys
 - Belanger, Nancy
+- Bell, Patty
 - Bernard, Cheryl
 - Betker, Jan
 - Birt, Suzanne
 - Blanchard, Judy
+- Bohmer, Brenda
 - Boily, Caroline
 - Bonar, Maureen
+- Brown, Janet
 - Brown, Maureen
 - Cheveldave, Amber
 - Cooke, Gerri
@@ -145,12 +148,15 @@ vs:
 - Delahunt, Nancy
 - Derick, Catherine
 - deSolla, Jodie
+- Dezura, Diane
 - Dolan, Kim
 - Dykstra, Michelle
+- Englot, Michelle
 - Enright, Barb
 - Fisher, Alana
 - Floyd, Kathy
 - Fowler, Lois
+- Fowlie, Heather
 - Fraser, Sherry
 - Freeman, Lisa
 - Gagnon, Karo
@@ -162,6 +168,7 @@ vs:
 - Gogan, Jennifer
 - Goss, Peg
 - Gregoire, Veronique
+- Grenier, Valerie
 - Gudereit, Marcia
 - Hanlon, Heidi
 - Harding, Mary
@@ -169,6 +176,7 @@ vs:
 - Harrison, Meredith
 - Henry, Lou Ann
 - Hodson, Kim
+- Holland, Amber
 - Homan, Rachel
 - Horne, Kate
 - Hunter, Lana
@@ -181,6 +189,7 @@ vs:
 - Jones, Jennifer
 - Jurgenson, Christine
 - Kasner, Marliese
+- Kehler, Lorie
 - Kelly, Kim
 - Kerr, Kathy
 - King, Cathy
@@ -199,12 +208,15 @@ vs:
 - Lowther, Tammi
 - MacAulay, Marion
 - MacCallum, Janice
+- MacDonald, Lawnie
 - MacDonald, Rebecca Jean
 - MacLean, Kari
 - MacPhee, Robyn
 - Mallett, Marla
 - Marchand, Stephanie
+- Martin, Denise
 - Martin, Heather
+- Materi, Roberta
 - McCagg-Nystrom, Heather
 - McCarville, Krista
 - McCloy, Elaine
@@ -229,12 +241,14 @@ vs:
 - Overton-Clapham, Cathy
 - Peters, Laine
 - Phillips, Laura
+- Purdy, Karen
 - Richards, Brette
 - Robertson, Darcy
 - Sabourin, Joelle
 - Schmirler, Sandra
 - Shields, Deanne
 - Singler, Sherri
+- Skinner, Julie
 - Smith, Heather
 - Sobey, Lianne
 - Sonnenberg, Renee
@@ -243,27 +257,13 @@ vs:
 - Stewart, Allyson
 - Stewart, Sheri
 - Stokes, Debbie
+- Stricker, Joan
 - Strong, Heather
 - Strong, Laura
 - Thomas, Jill
 - Vey, Lana
 - Wall, Kirsten
 - Weagle, Lisa
-- Bell, Patty
-- Bohmer, Brenda
-- Brown, Janet
-- Dezura, Diane
-- Englot, Michelle
-- Fowlie, Heather
-- Grenier, Valerie
-- Holland, Amber
-- Kehler, Lorie
-- MacDonald, Lawnie
-- Martin, Denise
-- Materi, Roberta
-- Purdy, Karen
-- Skinner, Julie
-- Stricker, Joan
 - Webster, Bronwen
 - Wheatcroft, Georgina
 ---

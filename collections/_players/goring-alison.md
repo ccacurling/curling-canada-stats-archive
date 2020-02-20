@@ -125,6 +125,7 @@ vs:
 - Arnott, Janet
 - Arseneau, Jane
 - Aucoin, Shelley
+- Bakker, Glenys
 - Bartlett, Sue Anne
 - Betker, Jan
 - Beveridge, Corie
@@ -132,8 +133,10 @@ vs:
 - Bodogh, Marilyn
 - Bohmer, Brenda
 - Boily, Caroline
+- Breen, Thersa
 - Brown, Katie
 - Brown, Maureen
+- Bryant, Angie
 - Cameron, Nancy
 - Campbell, June
 - Chapman, Kathy
@@ -152,10 +155,12 @@ vs:
 - Fahlman, Kathy
 - Floyd, Kathy
 - Fraser, Sherry
+- Frey, Audrey
 - Gabriele, Elena
 - Gauthier, Cathy
 - Gellard, Kim
 - Gignac, Donna
+- Godberson, Heather
 - Graham-MacDonald, Bea
 - Green, Sue
 - Greening, Jackie-Rae
@@ -169,6 +174,8 @@ vs:
 - Henry, Lou Ann
 - Hensley, Merna
 - Hooper Perroud, Jane
+- Hooper, Jane
+- Hopkins, Heather
 - Horne, Kate
 - Houston, Heather
 - Jackson, Virginia
@@ -185,16 +192,19 @@ vs:
 - Kennedy, Tracy
 - Kerr, Kathy
 - King, Cathy
+- Kleibrink, Shannon
 - Koyanagi, Karen
 - Kyle, Linda
 - Laliberte, Connie
 - Lang, Lorraine
 - Law, Kelley
 - Leblanc, Lisa
+- Leonard, Judy
 - Lidgren, Anna
 - MacAulay, Marion
 - MacCallum, Janice
 - MacDonald, Rebecca Jean
+- MacLeod, Lisa
 - Maitland, Donna
 - Mallett, Marla
 - Martin, Heather
@@ -204,13 +214,18 @@ vs:
 - McCurdy, Susan
 - McCusker, Joan
 - McHugh, Cindy
+- McKnight, Patti
+- Merklinger, Anne
+- Middaugh, Sherry
 - Montgomery, Kay
 - Moses, Dawn
 - Moss, Debbie
+- Mulroney, Sandra
 - Muzika, Shelley
 - Nedohin, Heather
-- Ondrack, Wendy
+- Nimmo, Shannon
 - O'Rourke, Kathy
+- Ondrack, Wendy
 - Osborne, Chantal
 - Overton, Kim
 - Overton-Clapham, Cathy
@@ -234,6 +249,7 @@ vs:
 - Scott, Donna
 - Shields, Deanne
 - Sigurdson, Janine
+- Sipka, Joanne
 - Skinner, Julie
 - Soligo, Melissa
 - Stewart, Sheri
@@ -241,25 +257,9 @@ vs:
 - Stricker, Joan
 - Sutton, Jodie
 - Thomas, Maria
+- Thurston, Jill
 - Usher, Leanne
 - Willms, Karri
 - Wright, Susan
-- Bakker, Glenys
-- Breen, Thersa
-- Bryant, Angie
-- Frey, Audrey
-- Godberson, Heather
-- Hooper, Jane
-- Hopkins, Heather
-- Kleibrink, Shannon
-- Leonard, Judy
-- MacLeod, Lisa
-- McKnight, Patti
-- Merklinger, Anne
-- Middaugh, Sherry
-- Mulroney, Sandra
-- Nimmo, Shannon
-- Sipka, Joanne
-- Thurston, Jill
 - Zielke, Colleen
 ---

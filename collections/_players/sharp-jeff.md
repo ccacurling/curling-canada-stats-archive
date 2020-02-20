@@ -148,11 +148,13 @@ vs:
 - Dutiaume, Randy
 - Elias, Dave
 - Elmaleh, Maxime
+- Epping, John
 - Ferbey, Randy
 - Ferland, Martin
 - Flaxey, Caleb
 - Flemming, Paul
 - Folk, Kevin
+- Forrest, Tyler
 - Fowler, Rob
 - Frans, Joe
 - Fraser, Pierre
@@ -166,6 +168,7 @@ vs:
 - Gould, Steve
 - Graber, Dennis
 - Grattan, James
+- Gunnlaugson, Jason
 - Gushue, Brad
 - Harnden, Al
 - Harnden, E.J.
@@ -192,6 +195,7 @@ vs:
 - Kennedy, Mike
 - Kilgallen, Shane
 - Koe, Jamie
+- Koe, Kevin
 - Korab, Jamie
 - Lacey, Jeff
 - Laing, Brent
@@ -199,12 +203,14 @@ vs:
 - LeDrew, Ryan
 - Lemay, Philippe
 - Lohnes, Bruce
+- MacDonald, Blake
 - MacDonald, Rod
 - MacInnes, David
 - MacLean, Stuart
 - Martin, Kevin
 - McCann, Andy
 - McCarrel, Graeme
+- Mead, Jon
 - Mead, Jonathan
 - Melnichuk, Greg
 - Menard, Jean-Michel
@@ -220,12 +226,14 @@ vs:
 - O'Rourke, Mark
 - Ouimet, Luc
 - Palmer, Curt
+- Park, Kevin
 - Peddigrew, Ken
 - Pfeifer, Scott
 - Pielak, Rod
 - Porter, Geoff
 - Porter, Ryan
 - Rafuse, Brian
+- Richter, Justin
 - Roberge, Francois
 - Rocque, Marcel
 - Rose, Jeff
@@ -242,6 +250,7 @@ vs:
 - Stoughton, Jeff
 - Sylvain, Eric
 - Tallon, Wayne
+- Thiessen, Nolan
 - Thomson, Fred
 - Toner, Lee
 - Ursel, Bob
@@ -252,14 +261,5 @@ vs:
 - Whitehead, Mark
 - Windsor, Brian
 - Wood, Mike
-- Epping, John
-- Forrest, Tyler
-- Gunnlaugson, Jason
-- Koe, Kevin
-- MacDonald, Blake
-- Mead, Jon
-- Park, Kevin
-- Richter, Justin
-- Thiessen, Nolan
 - Zawada, Braden
 ---

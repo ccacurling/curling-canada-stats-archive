@@ -107,6 +107,7 @@ vs:
 - Arnott, Janet
 - Arsenault, Mary-Anne
 - Arseneau, Jane
+- Bakker, Glenys
 - Balderston, Marcy
 - Bell, Allyson
 - Bernard, Cheryl
@@ -115,6 +116,8 @@ vs:
 - Bohmer, Brenda
 - Bonar, Maureen
 - Bowman, Mary
+- Breen, Thersa
+- Bryant, Angie
 - Busche, Jodi
 - Byers, Denise
 - Campbell, June
@@ -133,8 +136,10 @@ vs:
 - Floyd, Kathy
 - Fowler, Lois
 - Fraser, Sherry
+- Frey, Audrey
 - Garnett, Lorelei
 - Gauthier, Cathy
+- Godberson, Heather
 - Goring, Alison
 - Gudereit, Marcia
 - Hanlon, Heidi
@@ -142,6 +147,7 @@ vs:
 - Harvey, Carol
 - Harvey, Janet
 - Henry, Lou Ann
+- Hopkins, Heather
 - Horne, Kate
 - Hutton, Barb
 - Jones, Colleen
@@ -151,6 +157,7 @@ vs:
 - Kelly, Kim
 - Kerr, Kathy
 - King, Cathy
+- Kleibrink, Shannon
 - Laliberte, Connie
 - Law, Kelley
 - Lemay, Annie
@@ -160,24 +167,30 @@ vs:
 - MacAulay, Marion
 - MacDonald, Rebecca Jean
 - MacDougall, Leslie
+- MacLeod, Lisa
 - Mallett, Marla
 - Marchand, Jessica
 - Marchand, Stephanie
 - Martin, Heather
+- Mattatall, Mary
 - McCusker, Joan
 - McDonald, Tina
 - McInnis, Susan
+- McKnight, Patti
 - McNamee, Karen
+- Merklinger, Anne
 - Middaugh, Sherry
 - Miller, Maureen
 - Moore, Kim
+- Moore, Kimberly
 - Moss, Debbie
 - Mulroney, Sandra
 - Nedohin, Heather
 - Nicholls, Brenda
+- Nimmo, Shannon
 - Nohr, Dianne
-- Ondrack, Wendy
 - O'Rourke, Kathy
+- Ondrack, Wendy
 - Osborne, Chantal
 - Overton-Clapham, Cathy
 - Pendergast, Judy
@@ -194,11 +207,13 @@ vs:
 - Sharpe, Kelli
 - Shephard, Wendy
 - Sherrington, Barb
+- Sipka, Joanne
 - Snider, Shelly
 - Sonnenberg, Renee
 - Street, Cindy
 - Strong, Heather
 - Tanner, Allison
+- Thurston, Jill
 - Tincher, Twyla
 - Tucker, Cindy
 - Whipple, Paula
@@ -206,19 +221,4 @@ vs:
 - Wright, Susan
 - Zielke, Colleen
 - Zinck, Kay
-- Bakker, Glenys
-- Breen, Thersa
-- Bryant, Angie
-- Frey, Audrey
-- Godberson, Heather
-- Hopkins, Heather
-- Kleibrink, Shannon
-- MacLeod, Lisa
-- Mattatall, Mary
-- McKnight, Patti
-- Merklinger, Anne
-- Moore, Kimberly
-- Nimmo, Shannon
-- Sipka, Joanne
-- Thurston, Jill
 ---

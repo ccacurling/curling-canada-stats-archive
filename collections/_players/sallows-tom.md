@@ -134,9 +134,13 @@ vs:
 - Geall, Sean
 - Harper, David
 - Hart, Richard
+- Hebert, Ben
 - Howard, Glenn
 - Howard, Scott
 - Kendall, Lloyd
+- Kennedy, Marc
+- Koe, Kevin
+- Laing, Brent
 - Laycock, Steve
 - Mackey, Peter
 - Muyres, Dallan
@@ -150,8 +154,4 @@ vs:
 - Spencer, Adam
 - St.Louis, David
 - Wood, Brad
-- Hebert, Ben
-- Kennedy, Marc
-- Koe, Kevin
-- Laing, Brent
 ---

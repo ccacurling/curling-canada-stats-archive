@@ -126,6 +126,7 @@ vs:
 - Anderson, Sherry
 - Arnott, Janet
 - Arseneau, Jane
+- Bakker, Glenys
 - Barbour, Shona
 - Barker, Penny
 - Belanger, Nancy
@@ -137,7 +138,9 @@ vs:
 - Bohmer, Brenda
 - Boily, Caroline
 - Bowman, Mary
+- Breen, Thersa
 - Brown, Maureen
+- Bryant, Angie
 - Cameron, Kate
 - Campbell, June
 - Carey, Chelsea
@@ -164,6 +167,7 @@ vs:
 - Enright, Barb
 - Eyamie, Lisa
 - Floyd, Kathy
+- Frey, Audrey
 - Fullerton, Sarah
 - Galusha, Kerry
 - Gauthier, Cathy
@@ -171,6 +175,7 @@ vs:
 - George, Tara
 - Gignac, Donna
 - Gilman, Sheena
+- Godberson, Heather
 - Goring, Alison
 - Goss, Peg
 - Gudereit, Marcia
@@ -184,6 +189,8 @@ vs:
 - Hill, Trish
 - Homan, Rachel
 - Hooper Perroud, Jane
+- Hooper, Jane
+- Hopkins, Heather
 - Horne, Kate
 - Hughes, Meaghan
 - Jackson, Virginia
@@ -208,11 +215,13 @@ vs:
 - Lawton, Stefanie
 - Leblanc, Lisa
 - Lemay, Annie
+- Leonard, Judy
 - Lilly, Kendra
 - Lowther, Tammi
 - MacAulay, Marion
 - MacDonald, Rebecca Jean
 - MacLean, Kari
+- MacLeod, Lisa
 - MacPhee, Robyn
 - Mann, Lauren
 - Martin, Heather
@@ -224,21 +233,27 @@ vs:
 - McCrady, Christine
 - McCusker, Joan
 - McEwen, Dawn
+- McKnight, Patti
 - McQuaid, Michelle
+- Merklinger, Anne
+- Middaugh, Sherry
 - Miskew, Emma
 - Montgomery, Kay
 - Moore, Kim
+- Moore, Kimberly
 - Morris, Cori
 - Moses, Dawn
 - Moss, Debbie
+- Mulroney, Sandra
 - Muzika, Shelley
 - Nedohin, Heather
+- Nimmo, Shannon
 - Nixon, Amy
 - Nowlan, Denise
 - O'Connor, Susan
+- O'Rourke, Brittany
 - Officer, Jill
 - Ondrack, Wendy
-- O'Rourke, Brittany
 - Osborne, Chantal
 - Overton-Clapham, Cathy
 - Peterman, Jocelyn
@@ -256,6 +271,7 @@ vs:
 - Shields, Deanne
 - Sicinski, Danielle
 - Singler, Sherri
+- Sipka, Joanne
 - Sippala, Ashley
 - Sobey, Lianne
 - Spencer, Barb
@@ -264,28 +280,12 @@ vs:
 - Strong, Laura
 - Thiessen, Alison
 - Thomas, Jill
+- Thurston, Jill
 - Trickett, Erica
 - Vey, Lana
 - Weagle, Lisa
 - Westcott, Raunora
 - Wilkes, Sarah
 - Wilson, Leslie
-- Bakker, Glenys
-- Breen, Thersa
-- Bryant, Angie
-- Frey, Audrey
-- Godberson, Heather
-- Hooper, Jane
-- Hopkins, Heather
-- Leonard, Judy
-- MacLeod, Lisa
-- McKnight, Patti
-- Merklinger, Anne
-- Middaugh, Sherry
-- Moore, Kimberly
-- Mulroney, Sandra
-- Nimmo, Shannon
-- Sipka, Joanne
-- Thurston, Jill
 - Zielke, Colleen
 ---

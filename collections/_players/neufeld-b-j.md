@@ -138,6 +138,7 @@ vs:
 - Aho, David
 - Appelman, Tom
 - Ardiel, Taylor
+- Bailey, Scott
 - Beuk, Jonathan
 - Borden, Robert
 - Bottcher, Brendan
@@ -163,6 +164,7 @@ vs:
 - Gallant, Brett
 - Geall, Sean
 - Griffith, Ty
+- Griffith, Tyrel
 - Gushue, Brad
 - Harnden, E.J.
 - Harnden, Ryan
@@ -190,12 +192,16 @@ vs:
 - Marsh, Dan
 - Marsh, Kevin
 - Martin, Karrick
+- Martin, Kevin
 - Mathers, David
 - McDonald, Scott
 - McEwen, Mike
 - Meachem, Shaun Myles
+- Mead, Jon
 - Menard, Jean-Michel
 - Menard, Philippe
+- Middaugh, Wayne
+- Mitchell, Collin
 - Morris, John
 - Moskowy, Braeden
 - Moulding, Darren
@@ -203,6 +209,7 @@ vs:
 - Muyres, Dallan
 - Muyres, Kirk
 - Nadeau, Jeff
+- Nedohin, David
 - Nerpin, Andrew
 - Ng, Matt
 - Nichols, Mark
@@ -214,6 +221,7 @@ vs:
 - Rycroft, Carter
 - Saccary, Scott
 - Samagalski, Derek
+- Savill, Craig
 - Sawatsky, Rick
 - Schille, Chris
 - Schneider, Catlin
@@ -224,6 +232,7 @@ vs:
 - Spencer, Adam
 - St.Louis, David
 - Steele, Colten
+- Stoughton, Jeff
 - Sylvain, Eric
 - Taylor, Andrew
 - Thiessen, Brad
@@ -232,13 +241,4 @@ vs:
 - Walker, Geoff
 - Withycombe, Ian
 - Wood, Brad
-- Bailey, Scott
-- Griffith, Tyrel
-- Martin, Kevin
-- Mead, Jon
-- Middaugh, Wayne
-- Mitchell, Collin
-- Nedohin, David
-- Savill, Craig
-- Stoughton, Jeff
 ---

@@ -106,10 +106,12 @@ years:
   shots-percent: 82
 vs:
 - Aleksic, Shannon
+- Armstrong, Jacquie
 - Arnott, Janet
 - Ayrey, Jinaye
 - Barbour, Shona
 - Belanger, Nancy
+- Bell, Chelsey
 - Betker, Jan
 - Birt, Suzanne
 - Brothers, Jill
@@ -134,12 +136,15 @@ vs:
 - Gushulak, Diane
 - Hardy, Shelley
 - Harrison, Meredith
+- Holland, Amber
 - Holtby, Taryn
 - Homan, Rachel
 - Inglis, Nancy
 - Johnston, Kara
 - Jones, Jennifer
+- Kalenchuk, Heather
 - Kasner, Marliese
+- Kleibrink, Shannon
 - Lang, Lorraine
 - Larouche, Marie-France
 - Law, Kelley
@@ -151,6 +156,7 @@ vs:
 - MacInnes, Grace
 - MacLean, Kari
 - MacPhee, Robyn
+- Malekoff, Stephanie
 - Mallett, Marla
 - McCagg-Nystrom, Heather
 - McCarville, Krista
@@ -161,17 +167,22 @@ vs:
 - Moses, Dawn
 - Murphy, Jeanette
 - Muzika, Shelley
+- Nixon, Amy
 - Nowlan, Denise
-- Officer, Jill
 - O'Leary, Susan
+- Officer, Jill
+- Olson-Johns, Lori
 - Osborne, Chantal
 - Overton-Clapham, Cathy
 - Pinkney, Colleen
 - Power, Marie-Anne
+- Preston, Sam
 - Provencal, Darah
 - Richards, Brette
 - Robertson, Darcy
 - Sabourin, Joelle
+- Schneider, Kim
+- Schneider, Tammy
 - Schraeder, Jeanna
 - Scott, Kelly
 - Sharpe, Kelli
@@ -186,19 +197,8 @@ vs:
 - Udle, Teri
 - Vey, Lana
 - Weagle, Lisa
-- Wheatcroft, Georgina
-- Whitaker, Carol
-- Armstrong, Jacquie
-- Bell, Chelsey
-- Holland, Amber
-- Kalenchuk, Heather
-- Kleibrink, Shannon
-- Malekoff, Stephanie
-- Nixon, Amy
-- Olson-Johns, Lori
-- Preston, Sam
-- Schneider, Kim
-- Schneider, Tammy
 - Webster, Bronwen
 - Webster, Crystal
+- Wheatcroft, Georgina
+- Whitaker, Carol
 ---

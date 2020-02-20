@@ -357,10 +357,12 @@ vs:
 - Dobson, Mark
 - Dobson, Paul
 - Doherty, Robert
+- Dunstone, Matthew
 - Dutiaume, Randy
 - Eldridge, Zach
 - Elias, Dave
 - Elmaleh, Maxime
+- Epping, John
 - Errington, Derek
 - Ferbey, Randy
 - Ferland, Martin
@@ -370,6 +372,7 @@ vs:
 - Flemming, Paul
 - Folk, Kevin
 - Forget, Wes
+- Forrest, Tyler
 - Fowler, Rob
 - Frans, Joe
 - Fraser, Pierre
@@ -390,6 +393,8 @@ vs:
 - Granchelli, Kris
 - Grattan, James
 - Griffith, Ty
+- Griffith, Tyrel
+- Gunnlaugson, Jason
 - Gushue, Brad
 - Harnden, Al
 - Harnden, E.J.
@@ -409,6 +414,7 @@ vs:
 - Jacobs, Brad
 - Jakomait, Dusty
 - Jakubo, Mike
+- Janssen, Patrick
 - Jeffrey, Chris
 - Jewer, Keith
 - Joanisse, Dean
@@ -425,6 +431,7 @@ vs:
 - Klitch, Tyler
 - Knapp, Kelly
 - Koe, Jamie
+- Koe, Kevin
 - Kopf, Steve
 - Korab, Jamie
 - Kuhn, Ryan
@@ -437,12 +444,14 @@ vs:
 - LeDrew, Ryan
 - Lemay, Philippe
 - Lohnes, Bruce
+- MacDonald, Blake
 - MacDonald, Rod
 - MacFadyen, Alex
 - MacInnes, David
 - MacKenzie, Eddie
 - MacLean, Stuart
 - Mallais, Jeremy
+- March, Tim
 - Marsh, Dan
 - Marsh, Kevin
 - Martin, Karrick
@@ -454,11 +463,13 @@ vs:
 - McDonald, Scott
 - McEwen, Mike
 - Meachem, Shaun Myles
+- Mead, Jon
 - Mead, Jonathan
 - Melnichuk, Greg
 - Menard, Jean-Michel
 - Menard, Philippe
 - Middaugh, Wayne
+- Mitchell, Collin
 - Mittelstadt, Kelly
 - Morris, John
 - Moshenko, Darcy
@@ -476,10 +487,10 @@ vs:
 - Nichols, Mark
 - Nobert, Rob
 - Noftall, David
+- O'Rourke, Mark
 - Odishaw, Grant
 - Odishaw, Terry
 - Olson, Mark-2
-- O'Rourke, Mark
 - Ouimet, Luc
 - Palmer, Curt
 - Park, Kevin
@@ -493,6 +504,7 @@ vs:
 - Porter, Ryan
 - Rafuse, Brian
 - Recksiedler, Kevin
+- Richter, Justin
 - Roach, Darren
 - Roach, Jason
 - Roberge, Francois
@@ -501,6 +513,7 @@ vs:
 - Rose, Jeff
 - Ryan, Keith
 - Rycroft, Carter
+- Sallows, Tom
 - Samagalski, Derek
 - Savill, Craig
 - Sawatsky, Rick
@@ -540,18 +553,5 @@ vs:
 - Windsor, Brian
 - Wood, Mike
 - Wozniak, Matt
-- Dunstone, Matthew
-- Epping, John
-- Forrest, Tyler
-- Griffith, Tyrel
-- Gunnlaugson, Jason
-- Janssen, Patrick
-- Koe, Kevin
-- MacDonald, Blake
-- March, Tim
-- Mead, Jon
-- Mitchell, Collin
-- Richter, Justin
-- Sallows, Tom
 - Zawada, Braden
 ---

@@ -3310,7 +3310,7 @@ vs:
     year: 2009
     draw: Round Robin(1)
     score: ON 9 - NL 7
-- name: Sweeting, Valerie
+- name: Sweeting, Val
   totals:
   - event: Hearts
     player1:

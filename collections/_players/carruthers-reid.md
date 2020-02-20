@@ -223,6 +223,7 @@ vs:
 - Adam, Gerry
 - Adams, Shawn
 - Asselin, Felix
+- Bailey, Scott
 - Balsdon, Greg
 - Bardsley, Mike
 - Barry, Josh
@@ -276,6 +277,7 @@ vs:
 - Gorveatt, Philip
 - Grattan, James
 - Griffith, Ty
+- Griffith, Tyrel
 - Gushue, Brad
 - Harnden, E.J.
 - Harnden, Ryan
@@ -323,6 +325,7 @@ vs:
 - Menard, Jean-Michel
 - Menard, Philippe
 - Middaugh, Wayne
+- Mitchell, Collin
 - Mittelstadt, Kelly
 - Morris, John
 - Moskowy, Braeden
@@ -332,6 +335,7 @@ vs:
 - Muyres, Kirk
 - Nadeau, Jeff
 - Naugler, Tom
+- Nedohin, David
 - Neufeld, B.J.
 - Neufeld, Denni
 - Newson, Jamie
@@ -346,6 +350,7 @@ vs:
 - Savill, Craig
 - Sawatsky, Rick
 - Schille, Chris
+- Schneider, Catlin
 - Seabrook, Scott
 - Sharp, Jeff
 - Simmons, Pat
@@ -358,6 +363,7 @@ vs:
 - Symonds, Andrew
 - Thiessen, Brad
 - Thiessen, Nolan
+- Thomas, Charley
 - Trepanier, Jean-Francois
 - Virtue, Brock
 - Walker, Geoff
@@ -366,10 +372,4 @@ vs:
 - Whitehead, Mark
 - Wood, Brad
 - Wozniak, Matt
-- Bailey, Scott
-- Griffith, Tyrel
-- Mitchell, Collin
-- Nedohin, David
-- Schneider, Catlin
-- Thomas, Charley
 ---

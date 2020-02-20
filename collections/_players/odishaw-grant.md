@@ -294,6 +294,7 @@ vs:
 - Armstrong, Doug
 - Armstrong, Mike
 - Arsenault, Craig
+- Bailey, Scott
 - Bardsley, Mike
 - Bartlett, Don
 - Base, John
@@ -317,6 +318,7 @@ vs:
 - Bucyk, James
 - Burgess, Craig
 - Burnett, Steve
+- Burtnyk, Kerry
 - Butler, Marc
 - Butler, Mark
 - Campbell, Robert
@@ -343,8 +345,8 @@ vs:
 - deConinck-Smith, Carl
 - Deis, Ryan
 - Delmage, Ron
-- Desjardins, Robert
 - Desilets, Mike
+- Desjardins, Robert
 - Despins, Glen
 - Dieno, Clint
 - Dillon, Mike
@@ -355,8 +357,10 @@ vs:
 - Ellis, Ken
 - Elmaleh, Maxime
 - Eloranta, Drew
+- Engel, Ron
 - Fawcett, Brian
 - Fenton, Brad
+- Fenton, Keith
 - Ferbey, Randy
 - Fetterly, Tom
 - Flasch, Colton
@@ -367,6 +371,7 @@ vs:
 - Forsyth, Sandy
 - Fowler, Rob
 - Frans, Joe
+- Frans, Joseph
 - Fry, Ryan
 - Fulton, Chris
 - Gagnon, Jean
@@ -376,6 +381,7 @@ vs:
 - Gamble, Bill
 - Gaudet, Mike
 - Geisler, Arnie
+- Germsheid, Tony
 - Gibson, Andrew
 - Golanowski, Rory
 - Gordon, Robbie
@@ -460,6 +466,7 @@ vs:
 - Martin, Kevin
 - Mayne, Dave
 - McAulay, Greg
+- McCarrel, Graeme
 - McClelland, John
 - McCusker, Brian
 - McDermaid, Donald
@@ -468,8 +475,11 @@ vs:
 - McKee, Darrell
 - McLeod, Shadrach
 - McPhee, Barry
+- Mead, Jon
 - Mead, Jonathan
+- Meakin, Rob
 - Mellof, Dave
+- Mellof, David
 - Menard, Jean-Michel
 - Middaugh, Wayne
 - Mihalicz, Dwayne
@@ -521,6 +531,7 @@ vs:
 - Rowsell, Rick
 - Roy, Jean-Sebastien
 - Rumfeldt, Robert
+- Ryan, Jeff
 - Ryan, Pat
 - Rycroft, Carter
 - Samagalski, Derek
@@ -545,6 +556,7 @@ vs:
 - Somers, Grant
 - Spicer, Grant
 - St.Louis, David
+- Stambaugh, Doug
 - Steele, Colten
 - Steski, John
 - Stokes, Lionel
@@ -555,6 +567,7 @@ vs:
 - Sumner, Kevin
 - Sveistrup, Jody
 - Sylvain, Eric
+- Tetley, Ian
 - Thibaudeau, Guy
 - Thiessen, Nolan
 - Thompson, Stuart
@@ -564,6 +577,7 @@ vs:
 - Ursel, Bob
 - Van Den Berghe, Garry
 - Van Dine, Steve
+- Vandenberghe, Garry
 - Walchuk, Don
 - Walker, Geoff
 - Wall, Trevor
@@ -576,18 +590,4 @@ vs:
 - Woytowich, Randy
 - Xidos, George
 - Young, Wayne
-- Bailey, Scott
-- Burtnyk, Kerry
-- Engel, Ron
-- Fenton, Keith
-- Frans, Joseph
-- Germsheid, Tony
-- McCarrel, Graeme
-- Mead, Jon
-- Meakin, Rob
-- Mellof, David
-- Ryan, Jeff
-- Stambaugh, Doug
-- Tetley, Ian
-- Vandenberghe, Garry
 ---

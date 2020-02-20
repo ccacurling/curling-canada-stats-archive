@@ -172,6 +172,7 @@ vs:
 - Abel, Clinton
 - Adams, Bill
 - Adams, Jim
+- Adams, Shawn
 - Allan, John
 - Andrews, Robert
 - Armstrong, Jim
@@ -187,6 +188,7 @@ vs:
 - Bryant, Doug
 - Bubbs, John
 - Bucyk, James
+- Burgess, Craig
 - Burnett, Steve
 - Burtnyk, Kerry
 - Butler, Mark
@@ -204,6 +206,7 @@ vs:
 - Cochrane, Bryan
 - Corner, Peter
 - Coster, Dave
+- Cotter, Jim
 - Cowan, Chad
 - Crete, Martin
 - Cunningham, Geoff
@@ -223,6 +226,7 @@ vs:
 - Fenton, Keith
 - Ferbey, Randy
 - Fitzherbert, Brad
+- Flemming, Paul
 - Folk, Rick
 - Fowler, Ed
 - Fowler, Rob
@@ -282,6 +286,7 @@ vs:
 - Kennedy, Marc
 - Kennedy, Mike
 - Koe, Jamie
+- Koe, Kevin
 - Koffski, Rob
 - Korab, Jamie
 - Korte, Bruce
@@ -311,6 +316,7 @@ vs:
 - MacPherson, Bryan
 - Martin, Kevin
 - McKenzie, Donald
+- Mead, Jon
 - Mead, Jonathan
 - Meakin, Rob
 - Meleschuk, Orest
@@ -321,6 +327,8 @@ vs:
 - Mimeault, Bernard
 - Mimeault, Greg
 - Mitchell, Gary
+- Mittelstadt, Kelly
+- Moffatt, Paul
 - Molloy, Pat
 - Monkman, Greg
 - Morris, John
@@ -331,15 +339,16 @@ vs:
 - Neufeld, Chris
 - Nichols, Mark
 - Novakowski, Bob
+- O'Rourke, Mark
 - Odian, Scott
 - Odishaw, Grant
 - Olson, Mark-2
 - Ormbsy, Dan
-- O'Rourke, Mark
 - Ouimet, Luc
 - Packet, Jim
 - Pahl, James
 - Park, Kevin
+- Peachey, Jay
 - Peachy, Jay
 - Peddigrew, Ken
 - Perroud, Pat
@@ -363,6 +372,7 @@ vs:
 - Rycroft, Carter
 - Salo, John
 - Savill, Craig
+- Sawatsky, Rick
 - Scales, Bob
 - Scales, Brent
 - Schmidt, Aryn
@@ -391,6 +401,7 @@ vs:
 - Usackis, John
 - Van Den Berghe, Garry
 - Van Dine, Steve
+- Vandenberghe, Garry
 - Vaughan, Jason
 - Vautour, Joseph
 - Walchuk, Don
@@ -407,15 +418,4 @@ vs:
 - Whitehead, Mark
 - Windsor, Brian
 - Young, Neil
-- Adams, Shawn
-- Burgess, Craig
-- Cotter, Jim
-- Flemming, Paul
-- Koe, Kevin
-- Mead, Jon
-- Mittelstadt, Kelly
-- Moffatt, Paul
-- Peachey, Jay
-- Sawatsky, Rick
-- Vandenberghe, Garry
 ---

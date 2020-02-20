@@ -191,15 +191,16 @@ years:
   shots-percent: 72
 vs:
 - Adams, Diane
+- Aleksic, Shannon
 - Alexander, Diane
 - Allardyce, Kathie
-- Aleksic, Shannon
 - Allen, Laurie
 - Allen, Michelle
 - Arnott, Janet
 - Arsenault, Mary-Anne
 - Arseneau, Jane
 - Aucoin, Shelley
+- Bakker, Glenys
 - Barker, Penny
 - Barrette, Peggy
 - Bartlett, Sue Anne
@@ -208,11 +209,15 @@ vs:
 - Bell, Chelsey
 - Bernard, Cheryl
 - Betker, Jan
+- Beveridge, Corie
 - Blackburn, Julie
 - Blanchard, Judy
+- Bodogh, Marilyn
 - Bohmer, Brenda
+- Bowman, Mary
 - Bradley, Shelly
 - Breen, Theresa
+- Breen, Thersa
 - Brown, Katie
 - Brown, Marcie
 - Burlington, Cheryl
@@ -249,6 +254,7 @@ vs:
 - Doig, Deanna
 - Dolan, Kim
 - Earl, Allison
+- Eddy, Lori
 - Ellwood, Laurie
 - Englot, Michelle
 - Eyamie, Lisa
@@ -259,6 +265,7 @@ vs:
 - Fortin, Sylvie
 - Fowler, Lois
 - Fowler, Sharon
+- Fraser, Sherry
 - Frey, Audrey
 - Fullerton, Sarah
 - Gagnier, Monique
@@ -267,6 +274,8 @@ vs:
 - Galusha, Kerry
 - Garvey, Sue
 - Gauthier, Cathy
+- Gellard, Kim
+- Godberson, Heather
 - Goring, Alison
 - Graham-MacDonald, Bea
 - Greening, Jackie-Rae
@@ -280,6 +289,7 @@ vs:
 - Hensley, Merna
 - Hill, Trish
 - Homan, Rachel
+- Hooper, Jane
 - Horne, Kate
 - Houston, Heather
 - Hughes, Meaghan
@@ -287,6 +297,7 @@ vs:
 - Johnstone, Loralee
 - Jones, Colleen
 - Jones, Jennifer
+- Jurgenson, Christine
 - Kasner, Marliese
 - Kaylo, Kelly
 - Kehler, Lorie
@@ -306,6 +317,7 @@ vs:
 - Lawton, Stefanie
 - Leblanc, Lisa
 - Leger, Stacey
+- Leonard, Judy
 - Letendre, Pascale
 - Lewis, Kristy
 - Lidgren, Anna
@@ -329,19 +341,23 @@ vs:
 - McPherson, Cheryl
 - McQuaid, Michelle
 - Merklinger, Anne
+- Middaugh, Sherry
 - Miskew, Emma
+- Moore, Kimberly
 - More, Chris
 - Moses, Dawn
+- Mulroney, Sandra
 - Muzika, Shelley
 - Nedohin, Heather
 - Nicholls, Brenda
 - Nichols, Helen
+- Nimmo, Shannon
 - Nixon, Amy
-- Officer, Jill
 - O'Leary, Susan
-- Olson-Johns, Lori
 - O'Rourke, Brittany
 - O'Rourke, Kathy
+- Officer, Jill
+- Olson-Johns, Lori
 - Osborne, Chantal
 - Overton-Clapham, Cathy
 - Peterman, Jocelyn
@@ -379,6 +395,7 @@ vs:
 - Sicinski, Danielle
 - Simons, Renee
 - Singler, Sherri
+- Sipka, Joanne
 - Sippala, Ashley
 - Skinner, Julie
 - Smith, Yvonne
@@ -394,6 +411,7 @@ vs:
 - Thiessen, Alison
 - Thomas, Karen
 - Thomas, Maria
+- Thurston, Jill
 - Todd, Fran
 - Trickett, Erica
 - Trowell, Cathy
@@ -411,23 +429,5 @@ vs:
 - Wiltzen, Jan
 - Wright, Susan
 - Zeller, Lori
-- Bakker, Glenys
-- Beveridge, Corie
-- Bodogh, Marilyn
-- Bowman, Mary
-- Breen, Thersa
-- Eddy, Lori
-- Fraser, Sherry
-- Gellard, Kim
-- Godberson, Heather
-- Hooper, Jane
-- Jurgenson, Christine
-- Leonard, Judy
-- Middaugh, Sherry
-- Moore, Kimberly
-- Mulroney, Sandra
-- Nimmo, Shannon
-- Sipka, Joanne
-- Thurston, Jill
 - Zielke, Colleen
 ---

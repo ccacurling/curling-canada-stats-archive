@@ -1268,12 +1268,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 87
+      percent: 88
       wins: 3
-      losses: 1
+      losses: 2
     player2:
-      percent: 86
-      wins: 1
+      percent: 85
+      wins: 2
       losses: 3
   games:
   - player1:
@@ -1340,6 +1340,22 @@ vs:
     year: 2015
     draw: Semi-Final(20)
     score: NL 6 - CA 8
+  - player1:
+      team: CA
+      position: Second
+      percent: 93
+      win: 0
+      loss: 1
+    player2:
+      team: NL
+      position: Lead
+      percent: 79
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2016
+    draw: Round Robin(11)
+    score: NL 7 - CA 3
 - name: Whitehead, Kevin
   totals:
   - event: Brier
