@@ -146,9 +146,12 @@ layout: default
     <h2>Game Statistics</h2>
     {% for draw in page.draws %}
     <div class="row flex-row" id="draw-{{ draw.number }}">
+      <div class="col-lg-12">
+      <h3 class="text-center">{{ draw.name }}{% if draw.date %} <span class="draw-date"><i class="fa fa-calendar"></i> {{ draw.date | date_to_string: "ordinal", "US" }} {{ draw.time | date: '%l:%M%p' }}</span>{% endif %}</h3>
+      </div>
       {% for game in draw.games %}
       <div class="col-lg-6">
-      <h3 id="{{ game.name | slugify }}">{{ game.name }} ({{ game.type }})</h3>
+      <h4 id="{{ game.name | slugify }}">Sheet &#{{ game.sheet | plus: 64 }}; ({{ game.type }})</h4>
       <table class="table">
         <tr>
           <th></th>
