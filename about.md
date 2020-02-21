@@ -20,6 +20,11 @@ Site - Brian Cassidy Jr.
 
 ## Changelog
 
+### 2020-02-21
+
+ * Show draw dates & times when available.
+ * Fixed trials draw data & display.
+
 ### 2019-07-25
 
  * Added Trials (Men & Women) data (1997-2017).
