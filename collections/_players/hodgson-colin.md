@@ -191,7 +191,6 @@ vs:
 - Symonds, Andrew
 - Thiessen, Brad
 - Thiessen, Nolan
-- Thomas, Charley
 - Trepanier, Jean-Francois
 - Walker, Geoff
 - Whitehead, Mark

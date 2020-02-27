@@ -69,4 +69,28 @@ years:
    shots-total: 107
    shots-percent: 74
 vs:
+ - Armstrong, Doug
+ - Bailey, Scott
+ - Fenton, Darin
+ - Frans, Joseph
+ - Grattan, James
+ - Gretzinger, Bert
+ - Howard, Glenn
+ - Howard, Russ
+ - Laing, Brent
+ - McAulay, Greg
+ - McCarrel, Graeme
+ - Mead, Jon
+ - Mellof, David
+ - Middaugh, Wayne
+ - Morris, John
+ - Odishaw, Grant
+ - Pierce, Brent
+ - Savill, Craig
+ - Stoughton, Jeff
+ - Sveistrup, Jody
+ - Tetley, Ian
+ - Ursel, Bob
+ - Vandenberghe, Garry
+ - Whittle, Mark
 ---

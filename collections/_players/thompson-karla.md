@@ -58,7 +58,6 @@ vs:
  - Belanger, Nancy
  - Bell, Chelsey
  - Birt, Suzanne
- - Blais, Amelie
  - Boyle, Jane
  - Brothers, Jill
  - Campbell, Jolene
@@ -71,6 +70,7 @@ vs:
  - Curtis, Stacie
  - Delahunt, Nancy
  - Devereaux, Julie
+ - Dolan, Kim
  - Einarson, Kerri
  - Englot, Michelle
  - Fyfe, Liz
@@ -97,6 +97,7 @@ vs:
  - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McEwen, Dawn
+ - Meilleur, Briane
  - Middaugh, Sherry
  - Moore, Kim
  - Moses, Dawn
@@ -105,6 +106,7 @@ vs:
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
+ - O'Connor, Susan
  - Officer, Jill
  - O'Neill, Brit
  - Overton-Clapham, Cathy
@@ -112,6 +114,7 @@ vs:
  - Peters, Laine
  - Porter, Erin
  - Potts, Sarah
+ - Rainville, Julie
  - Richard, Marie
  - Robichaud, Sylvie
  - Sabourin, Joelle

@@ -59,6 +59,7 @@ years:
 vs:
  - Affleck, Tricia
  - Allen, Susan
+ - Allerton, Dana
  - Arsenault, Mary-Anne
  - Arseneau, Jane
  - Bakker, Glenys
@@ -78,6 +79,7 @@ vs:
  - Cunningham, Cathy
  - Delahunt, Nancy
  - Dezura, Diane
+ - Dobson, Sue
  - Fallis, Karen
  - Fallis-Kurz, Lynn
  - Farrell, Allison
@@ -89,7 +91,6 @@ vs:
  - Gagnier, Monique
  - Gagnon, Karo
  - Gagnon, Nathalie
- - Gogan, Jennifer
  - Goss, Peg
  - Graham-MacDonald, Bea
  - Gregoire, Veronique
@@ -119,13 +120,12 @@ vs:
  - Mittelstadt, Candice
  - Moss, Debbie
  - Nixon, Amy
- - Officer, Jill
  - O'Rourke, Kathy
  - Peters, Laine
  - Power, Marie-Anne
- - Reed, Shellan
  - Robinson, Lori
  - Scales, Julie
+ - Skinner, Julie
  - Smith, Heather
  - Stabel, Stacey
  - Stewart, Sheri

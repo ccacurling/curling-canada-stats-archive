@@ -86,4 +86,22 @@ years:
    shots-total: 56
    shots-percent: 76
 vs:
+ - Barker, Penny
+ - Cameron, Kate
+ - Doig, Deanna
+ - Englot, Michelle
+ - Eyamie, Lisa
+ - Fullerton, Sarah
+ - Hughes, Meaghan
+ - Karwacki, Krysten
+ - MacDonald, Rebecca Jean
+ - MacPhee, Robyn
+ - McQuaid, Michelle
+ - Nedohin, Heather
+ - Schneider, Lorraine
+ - Sicinski, Danielle
+ - Thiessen, Alison
+ - Westcott, Raunora
+ - Wilkes, Sarah
+ - Wilson, Leslie
 ---

@@ -128,8 +128,7 @@ vs:
  - Soligo, Melissa
  - Sutton, Jodie
  - Thomas, Maria
- - Webb, Corine
- - Whipple, Paula
+ - Train, Mona
  - Wieler, Bev
  - Willms, Karri
  - Wright, Joanne

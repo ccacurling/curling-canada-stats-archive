@@ -91,12 +91,9 @@ years:
    position: Alternate
 vs:
  - Adams, Diane
- - Arsenault, Mary-Anne
  - Aucoin, Shelley
  - Bacon, Kathy
- - Belanger, Nancy
  - Belley, Joelle
- - Bernard, Cheryl
  - Betker, Jan
  - Birt, Suzanne
  - Blackburn, Julie
@@ -110,11 +107,8 @@ vs:
  - Clinch, Donna
  - Cochrane, Judy
  - Cormier, Sharon
- - Crawford, Andrea
  - Cunningham, Cathy
- - Darbyshire, Carolyn
  - Delahunt, Nancy
- - deSolla, Jodie
  - Dezura, Diane
  - Dunn, Anne
  - Englot, Michelle
@@ -142,9 +136,7 @@ vs:
  - Lacey, Stacey
  - Lang, Lorraine
  - Lange, Ann
- - Larouche, Marie-France
  - LeCraw, Carolyn
- - Lemay, Annie
  - Linton, Sherry
  - MacDonald, Rebecca Jean
  - MacPhee, Robyn
@@ -159,24 +151,19 @@ vs:
  - McDermott, Karen
  - McGowan, Frances
  - McInnis, Susan
- - Morris, Cori
  - Moses, Dawn
  - Moyaert, June
  - Naugler, Tara
  - Nelthorpe, Sally
  - Nicholson, Terry
- - Nowlan, Denise
- - O'Connor, Susan
+ - Peters, Laine
  - Poisson, Francine
  - Ramsay, Jennifer
- - Richards, Kenda
  - Rintoul, Jacki
  - Robertson, Darcy
- - Sabourin, Joelle
  - Sanders, Pat
  - Santos, Deb
  - Scott, Donna
- - Sobey, Lianne
  - Spencer, Barb
  - Stevenson, Chris
  - Stokes, Debbie
@@ -188,4 +175,5 @@ vs:
  - Unrau, Faye
  - Werenka, Lil
  - Wheatcroft, Georgina
+ - Whitrow, Leanne
 ---

@@ -79,6 +79,7 @@ vs:
  - Bell, Mary Susan
  - Bennett, Connie
  - Bildfell, Shelly
+ - Blair, Diane
  - Bodogh, Marilyn
  - Boudreault, Tracie
  - Brousseau, Deb
@@ -98,7 +99,6 @@ vs:
  - Darbyshire, Carolyn
  - Darbyshire, Merline
  - Deschatelets, Guylaine
- - Dickeson, Debbi
  - Dillon, Cathy
  - Dolan, Kim
  - Donald, Grace

@@ -36,4 +36,8 @@ years:
    shots-total: 4
    shots-percent: 100
 vs:
+ - Dacey, Mark
+ - Gibson, Andrew
+ - Harris, Rob
+ - Lohnes, Bruce
 ---

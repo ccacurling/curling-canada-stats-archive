@@ -127,45 +127,44 @@ vs:
  - Arsenault, Mary-Anne
  - Arseneau, Jane
  - Baker, Michelle
+ - Beddington, Shalegh
  - Belanger, Nancy
  - Berthelot, Janique
  - Bohmer, Brenda
  - Bradley, Shelly
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Marcie
  - Byers, Denise
- - Carter, Sasha
- - Cooper, Kathryn
  - Cordina, Sheri
- - Cunningham, Jessica
  - Davis, Brandee
  - Delahunt, Nancy
  - Dezura, Diane
  - Dolan, Kim
+ - Dolan, Sinead
  - Englot, Michelle
  - Farrell, Allison
  - Floyd, Kathy
  - Galusha, Kerry
- - Gannon, Melissa
  - Gellard, Kim
  - Grenier, Valerie
- - Gushulak, Diane
- - Harding, Mary
  - Harvey, Alison
  - Henry, Lou Ann
  - Holowec, Ainsley
+ - Homan, Rachel
  - Horne, Kate
  - Jones, Colleen
+ - Jones, Jennifer
  - Jones-Walker, Debbie
  - Karam, Sally
  - Kehler, Lorie
  - Kelly, Kim
  - King, Cathy
+ - Kreviazuk, Alison
  - Laliberte, Connie
  - Larouche, Marie-France
  - Law, Kelley
  - Lawes, Andrea
+ - Lawes, Kaitlyn
  - Lemay, Annie
  - Lemire, Nancy
  - MacCallum, Janice
@@ -174,24 +173,25 @@ vs:
  - MacDougall, Leslie
  - Materi, Roberta
  - McCagg-Nystrom, Heather
+ - McEwen, Dawn
  - Middaugh, Sherry
  - Miller, Maureen
+ - Miskew, Emma
  - Moss, Debbie
  - Nedohin, Heather
- - Nugent, Pamela
+ - Officer, Jill
+ - O'Leary, Susan
  - Ondrack, Wendy
- - O'Rourke, Brittany
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
  - Power, Marie-Anne
  - Radchenka, Tammy
+ - Reid, Jackie
  - Renouf, Michele
+ - Robison, Michala
  - Ross, Allison
  - Sabourin, Joelle
- - Sanders, Pat
  - Sandison, Janice
- - Schraeder, Jeanna
- - Scott, Kelly
  - Sharpe, Kelli
  - Skinner, Julie
  - Stabel, Stacey
@@ -203,7 +203,7 @@ vs:
  - Tasaka, Adina
  - Tincher, Twyla
  - Tucker, Cindy
- - Wazney, Sarah
+ - Weagle, Lisa
  - Wheatcroft, Georgina
  - Whitaker, Lise
  - Wright, Susan

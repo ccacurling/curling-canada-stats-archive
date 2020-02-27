@@ -81,6 +81,7 @@ vs:
  - Arsenault, Mary-Anne
  - Arseneau, Jane
  - Balderston, Marcy
+ - Beddington, Shalegh
  - Bell, Allyson
  - Berthelot, Janique
  - Betker, Jan
@@ -97,6 +98,7 @@ vs:
  - Charette, Agnes
  - Charette, France
  - Comeau, Sandy
+ - Cooke, Gerri
  - Cunningham, Cathy
  - Daniel, Sylvie
  - Davis, Brandee
@@ -105,9 +107,11 @@ vs:
  - Eddy, Lori
  - Farrell, Allison
  - Floyd, Kathy
+ - Ford, Atina
  - Fowler, Lois
  - Fowler, Rhonda
  - Fraser, Sherry
+ - Frey, Audrey
  - Gatchell, Sara
  - Gauthier, Cathy
  - Gellard, Kim
@@ -161,7 +165,6 @@ vs:
  - Roberts, Angela
  - Ross, Allison
  - Sabourin, Joelle
- - Sanders, Pat
  - Schmirler, Sandra
  - Sharpe, Kelli
  - Shigehiro, Sally
@@ -173,9 +176,7 @@ vs:
  - Sutton, Jodie
  - Tanner, Allison
  - Thomas, Maria
- - Thurston, Jill
  - Tucker, Cindy
- - Turcotte, Kristin
  - Willms, Karri
  - Wright, Joanne
  - Wright, Susan

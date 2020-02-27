@@ -130,7 +130,7 @@ vs:
  - Shephard, Wendy
  - Sherrington, Barb
  - Snider, Shelly
- - Whipple, Paula
+ - Train, Mona
  - Wieler, Bev
  - Zielke, Colleen
  - Zinck, Kay

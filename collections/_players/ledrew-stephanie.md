@@ -120,62 +120,61 @@ years:
    shots-total: 220
    shots-percent: 78
 vs:
- - Adams, Melissa
  - Affleck, Tricia
- - Anderson, Sherry
  - Armstrong, Jacquie
- - Arsenault-Bishop, Nicole
- - Atkinson, Rebecca
- - Ayrey, Jinaye
+ - Arnaud, Chloe
+ - Arsenault, Mary-Anne
  - Babin, Jillian
- - Barbour, Shona
+ - Baxter, Jen
  - Belisle, Eve
  - Birchard, Shannon
  - Birt, Suzanne
+ - Black, Christina
  - Bradley, Shelly
+ - Cameron, Kate
  - Carmody, Erin
  - Carter, Sasha
  - Chislett, Geneva
  - Clark, Stefanie
+ - Clark-Rouire, Jennifer
  - Comeau, Martine
  - Cormier, Sharon
+ - Cottrill, Katie
+ - Court, Morgan
  - Crawford, Andrea
  - Crouse, Jennifer
- - deSolla, Jodie
+ - Curtis, Stacie
+ - Devereaux, Julie
  - Duncan, Chelsea
- - Duncan, Jenna
  - Einarson, Kerri
  - Einarson, Megan
  - Ellis, Danielle
- - Fesser, Kourtney
- - Fesser, Krista
+ - Englot, Michelle
+ - Flaxey, Allison
  - Fleury, Tracy
  - Fullerton, Sarah
  - Fyfe, Liz
+ - Gagnon, Emilia
  - Galusha, Kerry
  - Gates, Amanda
  - George, Tara
  - Gibson, Amy
  - Gilman, Sheena
- - Hersikorn, Patty
+ - Harvey, Marie-Pier
  - Holland, Amber
- - Holtby, Taryn
  - Hughes, Meaghan
  - Hutchings, Denise
- - Iskiw, Beth
- - Johnston, Kara
  - Jones, Jennifer
  - Kalenchuk, Heather
  - Koehler, Megan
  - Koltun, Sarah
- - Korchinski, Karlee
- - Lister, Kendra
+ - Kreviazuk, Lynn
  - MacCuish, Kristin
  - MacDougall, Leslie
  - MacLean, Kari
  - MacPhee, Robyn
- - Mair, Jessica
  - Makichuck, Lindsay
+ - Martin, Heather
  - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
@@ -184,22 +183,18 @@ vs:
  - Miller, Wendy
  - Moore, Kristie
  - More, Whitney
- - Morris, Cori
  - Naugler, Tara
- - Nedohin, Heather
  - Njegovan, Selena
  - Nicholls, Brenda
  - Nowlan, Denise
  - Officer, Jill
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
- - Parsons, Danielle
- - Peters, Laine
+ - Perron, Melina
  - Phillips, Kristen
- - Price, Kara
+ - Porter, Erin
  - Rainville, Julie
  - Ramsay, Geri Lynn
- - Robichaud, Sylvie
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schneider, Kim
@@ -207,19 +202,21 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shackleton, Amie
- - Shumay, Jill
+ - Sinclair, Andrea
  - Sippala, Ashley
- - Smallwood, Jody
  - Sobey, Lianne
  - Sweeting, Val
  - Thomas, Jill
  - Thurston, Jill
+ - Trickett, Erica
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
+ - Wallingham, Patty
+ - Walsh, Jenna
+ - Wasylkiw, Lauren
  - Webster, Crystal
  - West, Christianne
  - Westcott, Raunora
  - Wilson, Leslie
- - Wylie, Jennifer
 ---

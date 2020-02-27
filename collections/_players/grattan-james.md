@@ -494,6 +494,7 @@ vs:
 - Packet, Jim
 - Palmer, Curt
 - Park, Kevin
+- Park, Shane
 - Peachy, Jay
 - Peddigrew, Ken
 - Perroud, Pat
@@ -538,7 +539,6 @@ vs:
 - Solberg, Jonathon
 - Spicer, Grant
 - St.Louis, David
-- Stambaugh, Doug
 - Steski, John
 - Stoughton, Jeff
 - Stuart, Darol

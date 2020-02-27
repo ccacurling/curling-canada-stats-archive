@@ -96,7 +96,6 @@ vs:
  - Knezevic, Patti
  - Koehler, Megan
  - Korab, Stephanie
- - Kreviazuk, Cheryl
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
@@ -108,6 +107,7 @@ vs:
  - McInnis, Susan
  - McQuaid, Michelle
  - Miskew, Emma
+ - Nedohin, Heather
  - Nixon, Amy
  - Officer, Jill
  - Olson-Johns, Lori
@@ -129,9 +129,9 @@ vs:
  - Snyder, Jane
  - Strong, Heather
  - Sweeting, Val
- - Thiessen, Alison
  - Trickett, Erica
  - Trombley, Christy
+ - Vey, Lana
  - Walsh, Jenna
  - Weagle, Lisa
  - Westcott, Raunora

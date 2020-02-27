@@ -284,6 +284,7 @@ vs:
  - Allen, Michelle
  - Anderson, Sherry
  - Armstrong, Jacquie
+ - Armstrong, Jennifer
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
@@ -305,28 +306,24 @@ vs:
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
- - Blais, Amelie
- - Blaney, Jennifer
- - Bodner, Jenine
- - Bolland, Michelle
- - Boudreault, Patricia
+ - Black, Christina
  - Bradley, Shelly
  - Brassard, Veronique
+ - Breen, Theresa
  - Brennan, Amanda
+ - Briand, Oye-Sem Won
  - Brothers, Jill
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Rachel
  - Burgess, Carey
  - Bush, Tracy
  - Cameron, Kate
  - Cameron, Nancy
- - Campbell, June
+ - Campbell, Jolene
  - Carey, Chelsea
  - Carrier, Julie
  - Carter, Sasha
  - Cheveldave, Amber
- - Chislett, Geneva
  - Christianson, Marie
  - Clark, Stefanie
  - Clarke, Hayley
@@ -337,9 +334,9 @@ vs:
  - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
+ - Cunningham, Jennifer
  - Curtis, Stacie
  - Cutcliffe, Margaret
- - Daigle, Julie
  - Daniel, Sylvie
  - Darbyshire, Carolyn
  - deJager, Blaine
@@ -353,7 +350,6 @@ vs:
  - Dolan, Sinead
  - Dufresne, Audree
  - Duncan, Chelsea
- - Duncan, Hollie
  - Duncan, Jenna
  - Dykstra, Michelle
  - Einarson, Kerri
@@ -362,32 +358,29 @@ vs:
  - Eyamie, Lisa
  - Fallis, Karen
  - Farrell, Allison
- - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
- - Filteau, Anne-Marie
  - Fleury, Tracy
  - Floyd, Kathy
  - Fortier, Marie-Josee
+ - Forward, Katie
+ - Fraser, Sherry
+ - Frey, Audrey
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gates, Amanda
- - Gates, Jenny
  - Gauthier, Cathy
  - George, Tara
- - Gibson, Amy
  - Gilman, Sheena
  - Goss, Peg
  - Gregoire, Veronique
  - Grenier, Valerie
- - Griffin, Alison
  - Gudereit, Marcia
  - Gushulak, Diane
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Hanna, Jenn
  - Hanna, Stephanie
- - Harding, Mary
  - Hardy, Shelley
  - Harmark, Andra
  - Harrison, Meredith
@@ -400,9 +393,7 @@ vs:
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
- - Hutchings, Denise
  - Inglis, Nancy
- - Ingram, Megan
  - Iskiw, Beth
  - Jewer, Michelle
  - Johnston, Kara
@@ -416,12 +407,11 @@ vs:
  - Kidd, Darlene
  - King, Cathy
  - Kleibrink, Shannon
+ - Korab, Stephanie
  - Korchinski, Karlee
  - Kreviazuk, Alison
- - Kreviazuk, Cheryl
  - Lang, Lorraine
  - Larouche, Marie-France
- - Lavoie, Gabrielle
  - Law, Kelley
  - Lawes, Andrea
  - Lawes, Kaitlyn
@@ -434,7 +424,6 @@ vs:
  - Lister, Kendra
  - Loder, Cherie-Ann
  - Lowther, Tammi
- - MacCallum, Janice
  - MacCuish, Kristin
  - MacDiarmid, Kristen
  - MacDonald, Rebecca Jean
@@ -452,13 +441,12 @@ vs:
  - Mattatall, Mary
  - McCarville, Krista
  - McConnery, Nancy
- - McDonald, Tina
  - McEwen, Dawn
  - McInnis, Susan
+ - McKnight, Patti
  - McNamee, Karen
  - McQuaid, Michelle
- - McTaggart, Cary-Anne
- - Meakin, Breanne
+ - Merklinger, Anne
  - Middaugh, Sherry
  - Miskew, Emma
  - Mittelstadt, Candice
@@ -468,7 +456,6 @@ vs:
  - Moriarty, Monica
  - Morris, Cori
  - Muise, Morgan
- - Munroe, Anna
  - Murphy, Jeanette
  - Muzika, Shelley
  - Nedohin, Heather
@@ -489,7 +476,6 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
- - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
  - Power, Marie-Anne
@@ -497,29 +483,23 @@ vs:
  - Prosser, Sandi
  - Provencal, Darah
  - Radchenka, Tammy
- - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
  - Ridalls, Kristen
  - Robertson, Darcy
  - Robichaud, Sylvie
+ - Robison, Michala
  - Rocque, Raylene
  - Ross, Allison
  - Rudulier, Andrea
- - Rusnell, Jen
  - Sabourin, Joelle
- - Sagle, Karen
  - Sandison, Janice
- - Sandwith, Carley
  - Saulnier, Andrea
- - Scheidegger, Casey
- - Scheidegger, Jessie
  - Schneider, Kim
  - Schneider, Lorraine
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
- - Shackleton, Amie
  - Sharpe, Kelli
  - Shaw, Ladene
  - Shumay, Jill
@@ -552,19 +532,14 @@ vs:
  - Thurston, Jill
  - Trickett, Erica
  - Udle, Teri
- - Van Osch, Kalia
- - Van Osch, Kesa
- - Van Osch, Marika
+ - Vavrek, Melody
  - Vey, Lana
  - Wall, Kirsten
- - Walsh, Jenna
- - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa
  - Webster, Bronwen
  - Webster, Crystal
- - West, Christianne
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whitaker, Carol

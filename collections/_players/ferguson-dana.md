@@ -123,10 +123,7 @@ vs:
 - Arsenault, Mary-Anne
 - Atkinson, Rebecca
 - Baier, Stephanie
-- Baldwin, Nicole
-- Barbour, Shona
 - Baxter, Jen
-- Birnie, Hailey
 - Birt, Suzanne
 - Black, Christina
 - Blais, Amelie
@@ -136,10 +133,12 @@ vs:
 - Boudreault, Patricia
 - Boyle, Jane
 - Bradley, Shelly
+- Brine, Jenn
 - Brothers, Jill
 - Cameron, Kate
 - Camozzi, Rhona
 - Carey, Chelsea
+- Carmody, Erin
 - Christianson, Marie
 - Collins, Katrina
 - Cooper, Kathryn
@@ -149,6 +148,7 @@ vs:
 - Crawford, Andrea
 - Cunningham, Jessica
 - Daigle, Julie
+- Davies, Lisa
 - deSolla, Jodie
 - Dolan, Kim
 - Dolan, Sinead
@@ -159,21 +159,18 @@ vs:
 - Flaxey, Allison
 - Fleury, Tracy
 - Foster, Kristen
-- Galusha, Kerry
+- Fyfe, Liz
 - Gannon, Melissa
 - Gates, Amanda
 - Gates, Jenny
 - Grandy, Clancy
 - Griffin, Alison
-- Guzzwell, Stephanie
-- Hamilton, Beth
 - Hastings, Julie
 - Homan, Rachel
 - Hughes, Meaghan
 - Hunkin, Jessie
 - Ingram, Megan
 - Iskiw, Beth
-- Jewer, Michelle
 - Jones, Jennifer
 - Joyce, Blisse
 - Kasner, Marliese
@@ -186,6 +183,7 @@ vs:
 - Lawes, Kaitlyn
 - Lawton, Stefanie
 - Lilly, Kendra
+- MacCuish, Kristin
 - MacDonald, Lawnie
 - MacDonald, Rebecca Jean
 - Mair, Jessica
@@ -194,6 +192,7 @@ vs:
 - McDonald, Kristy
 - McEwen, Dawn
 - McInnis, Susan
+- McPherson, Cheryl
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
 - Merklinger, Lee
@@ -201,7 +200,9 @@ vs:
 - Miskew, Emma
 - Moore, Kristie
 - Munroe, Anna
+- Murphy, Sarah
 - Nedohin, Heather
+- Njegovan, Selena
 - Nugent, Pamela
 - O'Rourke, Brittany
 - Officer, Jill
@@ -211,7 +212,9 @@ vs:
 - Peterman, Jocelyn
 - Peters, Laine
 - Pilote, Kristen
+- Pinksen, Sadie
 - Potts, Sarah
+- Reid, Jackie
 - Richard, Marie
 - Rizzo, Jo-Ann
 - Robichaud, Sylvie
@@ -223,8 +226,6 @@ vs:
 - Scheidegger, Casey
 - Scheidegger, Jessie
 - Schmidt, Stephanie
-- Sharpe, Kelli
-- Shaw, Ladene
 - Silvernagle, Robyn
 - Sinclair, Andrea
 - Singler, Sherri
@@ -234,13 +235,11 @@ vs:
 - Snyder, Jane
 - Sonnenberg, Renee
 - Strong, Heather
-- Strong, Helen
 - Strong, Laura
 - Thevenot, Kara
 - Thomas-Kennell, Noelle
 - Tippin, Julie
 - Titheridge, Lindsay
-- Tran, Brittany
 - Trombley, Christy
 - Udle, Teri
 - Van Osch, Kesa
@@ -250,6 +249,7 @@ vs:
 - Wark, Sarah
 - Weagle, Lisa
 - Westcott, Raunora
+- Whitaker, Carol
 - Wilson, Leslie
 - Wylie, Jennifer
 ---

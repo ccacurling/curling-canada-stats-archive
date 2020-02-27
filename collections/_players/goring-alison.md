@@ -214,6 +214,7 @@ vs:
 - McCurdy, Susan
 - McCusker, Joan
 - McHugh, Cindy
+- McInnis, Susan
 - McKnight, Patti
 - Merklinger, Anne
 - Middaugh, Sherry

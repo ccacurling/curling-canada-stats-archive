@@ -36,4 +36,8 @@ years:
    shots-total: 20
    shots-percent: 75
 vs:
+ - Gagnon, Karo
+ - Gregoire, Veronique
+ - Larouche, Marie-France
+ - Lemay, Annie
 ---

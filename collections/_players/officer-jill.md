@@ -372,6 +372,7 @@ vs:
 - Ayrey, Jinaye
 - Babin, Jillian
 - Bakker, Glenys
+- Baldwin, Nicole
 - Barbour, Shona
 - Baxter, Jen
 - Beauchamp, Sasha
@@ -380,6 +381,7 @@ vs:
 - Bell, Chelsey
 - Bernard, Cheryl
 - Betker, Jan
+- Birnie, Hailey
 - Birt, Suzanne
 - Black, Christina
 - Blais, Amelie
@@ -388,6 +390,7 @@ vs:
 - Bradley, Shelly
 - Brassard, Veronique
 - Brennan, Amanda
+- Brine, Jenn
 - Brothers, Jill
 - Brown, Jacalyn
 - Brown, Rachel
@@ -401,9 +404,9 @@ vs:
 - Carmody, Erin
 - Carrier, Julie
 - Carter, Sasha
+- Charette, France
 - Cheveldave, Amber
 - Chisholm, Candace
-- Chislett, Geneva
 - Christianson, Marie
 - Clark, Stefanie
 - Clarke, Hayley
@@ -451,6 +454,7 @@ vs:
 - Fleury, Tracy
 - Fortier, Marie-Josee
 - Foster, Kristen
+- Fraser, Sherry
 - Fullerton, Sarah
 - Fyfe, Liz
 - Gagnier, Monique
@@ -484,10 +488,9 @@ vs:
 - Homan, Rachel
 - Howard, Ashley
 - Hughes, Meaghan
-- Hutchings, Denise
+- Inglis, Danielle
 - Inglis, Nancy
 - Iskiw, Beth
-- Jewer, Michelle
 - Johnston, Kara
 - Jones, Colleen
 - Joyce, Blisse
@@ -543,13 +546,13 @@ vs:
 - McCarville, Krista
 - McConnery, Nancy
 - McCusker, Joan
-- McDonald, Kristy
 - McEwen, Dawn
 - McInnis, Susan
 - McPherson, Cheryl
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
 - Meakin, Breanne
+- Meilleur, Briane
 - Merklinger, Lee
 - Middaugh, Sherry
 - Miller, Wendy
@@ -563,7 +566,6 @@ vs:
 - Morris, Cori
 - Moses, Dawn
 - Muise, Morgan
-- Mulroney, Sandra
 - Murphy, Jeanette
 - Murphy, Sarah
 - Muzika, Shelley
@@ -620,8 +622,8 @@ vs:
 - Schneider, Tammy
 - Schraeder, Jeanna
 - Scott, Kelly
-- Shackleton, Amie
 - Sharpe, Kelli
+- Shaw, Ladene
 - Shumay, Jill
 - Simmons, Cindy
 - Simons, Renee
@@ -638,6 +640,7 @@ vs:
 - Spencer, Barb
 - Streifel, Tracy
 - Strong, Heather
+- Strong, Helen
 - Strong, Laura
 - Stubbings, Tiffany
 - Surik, Teejay
@@ -666,7 +669,6 @@ vs:
 - Weagle, Lisa
 - Webster, Bronwen
 - Webster, Crystal
-- West, Christianne
 - Westcott, Raunora
 - Wheatcroft, Georgina
 - Whitaker, Carol

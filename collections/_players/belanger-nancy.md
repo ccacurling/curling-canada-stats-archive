@@ -202,7 +202,6 @@ vs:
 - Officer, Jill
 - Overton-Clapham, Cathy
 - Peters, Laine
-- Pinkney, Colleen
 - Power, Marie-Anne
 - Purdy, Karen
 - Radchenka, Tammy
@@ -226,6 +225,7 @@ vs:
 - Strong, Laura
 - Surik, Teejay
 - Tasaka, Adina
+- Thomas, Jill
 - Thompson, Karla
 - Vey, Lana
 - Wall, Kirsten

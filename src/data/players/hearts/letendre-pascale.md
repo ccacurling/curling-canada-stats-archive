@@ -96,10 +96,12 @@ vs:
  - Christianson, Marie
  - Clark, Stefanie
  - Comeau, Sandy
+ - Delahunt, Nancy
  - Derick, Catherine
- - Dolan, Sinead
+ - Einarson, Kerri
  - Farrell, Allison
  - Fortier, Marie-Josee
+ - Fyfe, Liz
  - Gagnier, Monique
  - Galusha, Kerry
  - Gauthier, Cathy
@@ -112,25 +114,26 @@ vs:
  - King, Cathy
  - Lawton, Stefanie
  - Leger, Stacey
+ - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacPhee, Robyn
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
  - Mittelstadt, Candice
- - Moriarty, Monica
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Officer, Jill
  - O'Leary, Susan
  - Olson-Johns, Lori
  - Overton-Clapham, Cathy
  - Prosser, Sandi
- - Radford, Mary Sue
  - Rocque, Raylene
  - Ross, Allison
  - Scott, Kelly
  - Sharpe, Kelli
  - Simons, Renee
  - Singler, Sherri
+ - Smart, Meaghan
  - Strong, Heather
  - Strong, Laura
  - Zinck, Kay

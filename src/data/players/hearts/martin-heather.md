@@ -177,7 +177,6 @@ years:
    shots-percent: 75
 vs:
  - Affleck, Tricia
- - Allen, Susan
  - Allerton, Dana
  - Anderson, Sherry
  - Armstrong, Jacquie
@@ -186,6 +185,7 @@ vs:
  - Arseneau, Jane
  - Atkinson, Rebecca
  - Aucoin, Shelley
+ - Ayrey, Jinaye
  - Babin, Jillian
  - Baker, Rose-Marie
  - Bakker, Glenys
@@ -196,14 +196,12 @@ vs:
  - Bell, Chelsey
  - Belley, Joelle
  - Bernard, Cheryl
- - Bernard, Krista
  - Betker, Jan
  - Beveridge, Corie
  - Birt, Suzanne
  - Blackburn, Julie
  - Blair, Diane
  - Blanchard, Judy
- - Blashko, Denise
  - Bodogh, Marilyn
  - Bohmer, Brenda
  - Boily, Caroline
@@ -212,13 +210,12 @@ vs:
  - Bradley, Shelly
  - Brassard, Veronique
  - Breen, Theresa
- - Brown, Janet
+ - Brown, Maureen
  - Bryant, Angie
  - Burlington, Cheryl
  - Busche, Jodi
  - Byers, Denise
  - Cameron, Nancy
- - Campbell, Gloria
  - Campbell, June
  - Carter, Sasha
  - Cey, Naomi
@@ -242,7 +239,6 @@ vs:
  - Dolan, Kim
  - Dorosz, Peggy
  - Dufresne, Audree
- - Dunn, Anne
  - Dykstra, Michelle
  - Eddy, Lori
  - Enright, Barb
@@ -260,7 +256,6 @@ vs:
  - Freeman, Lisa
  - Frey, Audrey
  - Fullerton, Sarah
- - Funk, LaDawn
  - Gagnier, Monique
  - Gagnon, Karo
  - Gagnon, Nathalie
@@ -283,9 +278,9 @@ vs:
  - Harvey, Alison
  - Harvey, Carol
  - Harvey, Janet
- - Henry, Lou Ann
  - Hodson, Kim
  - Holland, Amber
+ - Holtby, Taryn
  - Homan, Rachel
  - Hooper Perroud, Jane
  - Horne, Kate
@@ -295,6 +290,7 @@ vs:
  - Jackson, Virginia
  - Jennings, Tracey
  - Jesty, Janet
+ - Johnston, Kara
  - Johnstone, Loralee
  - Jones, Colleen
  - Jones, Jennifer
@@ -308,7 +304,6 @@ vs:
  - Kleibrink, Shannon
  - Koehler, Megan
  - Kreviazuk, Alison
- - Kuruluk, Kristen
  - Kyle, Linda
  - Lacey, Stacey
  - Laliberte, Connie
@@ -319,24 +314,26 @@ vs:
  - Lawes, Kaitlyn
  - Lawrence, Margaret
  - Leblanc, Lisa
+ - LeDrew, Stephanie
  - Lemay, Annie
  - Leonard, Judy
- - Lewis, Kristy
  - Linton, Sherry
  - London, Debra
  - MacAulay, Marion
  - MacCallum, Janice
+ - MacCuish, Kristin
  - MacDonald, Lawnie
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacKenzie, Doris
  - MacNutt, Shelley
  - MacPhee, Robyn
+ - Mair, Jessica
  - Mallett, Marla
  - Marchand, Jessica
  - Marchand, Karine
  - Marchand, Stephanie
- - Marchuk, Lindy
+ - Matheson, Sandy
  - McCloy, Elaine
  - McConnery, Nancy
  - McCrady, Christine
@@ -354,6 +351,7 @@ vs:
  - Montgomery, Kay
  - Moore, Kim
  - Moore, Kristie
+ - Morris, Cori
  - Moses, Dawn
  - Moss, Debbie
  - Mulroney, Sandra
@@ -397,6 +395,7 @@ vs:
  - Shephard, Wendy
  - Sherrington, Barb
  - Shields, Deanne
+ - Shumay, Jill
  - Smith, Heather
  - Snider, Shelly
  - Sobey, Lianne
@@ -406,7 +405,6 @@ vs:
  - Stokes, Debbie
  - Strachan, Angela
  - Taylor, Candy
- - Todd, Fran
  - Trider, Krista
  - Udle, Teri
  - Unrau, Faye
@@ -418,6 +416,7 @@ vs:
  - Wheatcroft, Georgina
  - Whipple, Paula
  - Wieler, Bev
+ - Wilson, Leslie
  - Zielke, Colleen
  - Zinck, Kay
 ---

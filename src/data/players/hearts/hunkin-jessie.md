@@ -36,34 +36,34 @@ years:
    shots-total: 252
    shots-percent: 78
 vs:
+ - Armstrong, Jennifer
+ - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
  - Birnie, Hailey
  - Birt, Suzanne
- - Blaney, Jennifer
- - Bodner, Jenine
- - Boudreault, Patricia
  - Brown, Rachel
  - Carey, Chelsea
  - Christianson, Marie
- - Daigle, Julie
+ - Courtney, Joanne
+ - Crawford, Andrea
  - Ferguson, Dana
+ - Forward, Katie
  - Galusha, Kerry
  - Gates, Jenny
- - Griffin, Alison
  - Guzzwell, Stephanie
+ - Hamilton, Beth
+ - Homan, Rachel
  - Hughes, Meaghan
- - Ingram, Megan
  - Jewer, Michelle
  - Jones, Jennifer
  - Koltun, Sarah
- - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lilly, Kendra
  - McCarville, Krista
  - McEwen, Dawn
  - McQuaid, Michelle
- - Munroe, Anna
+ - Miskew, Emma
  - Peterman, Jocelyn
  - Pilote, Kristen
  - Potts, Sarah
@@ -73,7 +73,7 @@ vs:
  - Shaw, Ladene
  - Strong, Helen
  - Tran, Brittany
- - Vautour, Carrie
  - Wark, Sarah
+ - Weagle, Lisa
  - Wilkes, Sarah
 ---

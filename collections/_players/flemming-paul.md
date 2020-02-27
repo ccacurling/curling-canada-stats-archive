@@ -250,6 +250,7 @@ vs:
 - Hebert, Ben
 - Hemmings, Guy
 - Hodgson, Colin
+- Holowaychuk, Dan
 - Horning, Deane
 - Howard, Glenn
 - Howard, Russ

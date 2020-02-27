@@ -258,6 +258,7 @@ vs:
  - Barker, Catherine
  - Barrette, Peggy
  - Bartlett, Sue Anne
+ - Beddington, Shalegh
  - Beever, Jocelyn
  - Belanger, Nancy
  - Belley, Joelle
@@ -273,7 +274,6 @@ vs:
  - Bohmer, Brenda
  - Boily, Caroline
  - Boudreault, Tracie
- - Bowes, Diane
  - Bowman, Mary
  - Bradley, Shelly
  - Breen, Theresa
@@ -281,6 +281,7 @@ vs:
  - Brown, Janet
  - Brown, Katie
  - Brown, Marcie
+ - Brown, Maureen
  - Bryant, Angie
  - Burlington, Cheryl
  - Byers, Denise
@@ -293,6 +294,7 @@ vs:
  - Charette, Agnes
  - Charette, France
  - Chaulk, Wendy
+ - Chicoine, Helene
  - Clark, Kim
  - Clarke, Betty
  - Combden, Cathy
@@ -312,11 +314,10 @@ vs:
  - Derick, Catherine
  - Deschatelets, Guylaine
  - Dezura, Diane
- - Dillon, Cathy
  - Dolan, Kim
+ - Duplisse, Rene
  - Dwyer, Patricia
  - Earl, Allison
- - Eddy, Lori
  - Ellwood, Laurie
  - Englot, Michelle
  - Fahlman, Kathy
@@ -338,7 +339,6 @@ vs:
  - Gellard, Kim
  - Gervais, Chris
  - Gignac, Donna
- - Girard, Sylvie
  - Goring, Alison
  - Goss, Peg
  - Graham-MacDonald, Bea
@@ -353,10 +353,8 @@ vs:
  - Harvey, Alison
  - Harvey, Carol
  - Harvey, Janet
- - Haspect, Ginette
  - Henry, Lou Ann
  - Hensley, Merna
- - Herbert, Candide
  - Hodson, Kim
  - Holowec, Ainsley
  - Hooper Perroud, Jane
@@ -398,7 +396,6 @@ vs:
  - Law, Kelley
  - Lawes, Andrea
  - Leblanc, Lisa
- - L'Ecuyer, Josee
  - Lemay, Annie
  - Lemire, Nancy
  - Lewis, Kristy
@@ -408,7 +405,6 @@ vs:
  - MacCallum, Janice
  - MacDonald, Lawnie
  - MacDonald, Rebecca Jean
- - MacDonald, Shelley
  - MacDougall, Leslie
  - MacInnes, Allison
  - MacLeod, Lisa
@@ -436,7 +432,6 @@ vs:
  - Miller, Maureen
  - Mittelstadt, Candice
  - Montgomery, Kay
- - Moore, Kim
  - Moore, Linda
  - More, Chris
  - Moriarty, Monica
@@ -458,11 +453,11 @@ vs:
  - Porter, Debbie
  - Power, Judy
  - Proctor, Jill
+ - Pross, Margaret
  - Pruden, Twyla
  - Purdy, Karen
  - Pushkar, Diane
  - Putland, Rose
- - Raby, Odette
  - Radchenka, Tammy
  - Radford, Helen
  - Rankin, Beth
@@ -488,6 +483,7 @@ vs:
  - Scott, Donna
  - Sharpe, Kelli
  - Sherrington, Barb
+ - Shields, Deanne
  - Sigurdson, Janine
  - Skinner, Julie
  - Smith, Yvonne
@@ -504,10 +500,10 @@ vs:
  - Sutton, Jodie
  - Tanner, Allison
  - Tasaka, Adina
- - Taylor, Gloria
  - Thomas, Karen
  - Thomas, Maria
  - Thompson, Gillian
+ - Tincher, Twyla
  - Todd, Fran
  - Trider, Krista
  - Trowell, Cathy

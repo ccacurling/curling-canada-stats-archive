@@ -110,15 +110,12 @@ vs:
 - Cameron, Nancy
 - Carmody, Erin
 - Carter, Sasha
-- Charette, France
 - Comeau, Martine
 - Cormier, Sharon
 - Crawford, Andrea
 - Crouse, Jennifer
 - Delahunt, Nancy
 - deSolla, Jodie
-- Dezura, Diane
-- Dolan, Kim
 - Eddy, Lori
 - Einarson, Megan
 - Ellis, Danielle
@@ -133,14 +130,11 @@ vs:
 - Goring, Alison
 - Gudereit, Marcia
 - Hardy, Shelley
-- Hatton, Sandra
-- Henry, Lou Ann
 - Holland, Amber
 - Hollands, Saskia
 - Hooper, Jane
 - Hopkins, Heather
 - Horne, Kate
-- Horte, Rhonda
 - Jones, Colleen
 - Jones, Jennifer
 - Jurgenson, Christine
@@ -155,7 +149,6 @@ vs:
 - Lemon, Colette
 - Leonard, Judy
 - MacDiarmid, Kristen
-- MacDonald, Rebecca Jean
 - MacLean, Kari
 - MacLeod, Lisa
 - Makichuck, Lindsay
@@ -170,14 +163,11 @@ vs:
 - McKnight, Patti
 - Merklinger, Anne
 - Middaugh, Sherry
-- Miller, Maureen
 - Moore, Kimberly
 - More, Whitney
-- Moss, Debbie
 - Muise, Morgan
 - Mulroney, Sandra
 - Naugler, Tara
-- Nedohin, Heather
 - Nicholls, Brenda
 - Nimmo, Shannon
 - Nowlan, Denise
@@ -186,12 +176,14 @@ vs:
 - O'Rourke, Kathy
 - Officer, Jill
 - Olson-Johns, Lori
-- Ondrack, Wendy
 - Overton-Clapham, Cathy
-- Phillips, Margaret Lea
+- Potts, Sarah
+- Radford, Mary Sue
+- Rainville, Julie
 - Ramsay, Geri Lynn
 - Ridalls, Kristen
 - Rocque, Raylene
+- Rogers, Leslie
 - Rogers, Rhonda
 - Rudulier, Andrea
 - Schmirler, Sandra
@@ -203,9 +195,7 @@ vs:
 - Simons, Renee
 - Sipka, Joanne
 - Sippala, Ashley
-- Skinner, Julie
 - Sobey, Lianne
-- Stahl, Carrie
 - Streifel, Tracy
 - Strong, Heather
 - Strong, Laura
@@ -213,7 +203,6 @@ vs:
 - Sweeting, Val
 - Tanner, Ros
 - Thomas, Jill
-- Tincher, Twyla
 - Wheatcroft, Georgina
 - Zielke, Colleen
 ---

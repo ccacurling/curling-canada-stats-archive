@@ -58,9 +58,9 @@ vs:
  - Atkinson, Rebecca
  - Bell, Chelsey
  - Birt, Suzanne
- - Blais, Amelie
  - Boyle, Jane
  - Bradley, Shelly
+ - Brine, Jenn
  - Brothers, Jill
  - Bush, Tracy
  - Campbell, Jolene
@@ -70,9 +70,9 @@ vs:
  - Clark, Stefanie
  - Comeau, Sandy
  - Curtis, Stacie
+ - Delahunt, Nancy
  - Derick, Catherine
  - Devereaux, Julie
- - Dolan, Sinead
  - Einarson, Kerri
  - Farrell, Allison
  - Fortier, Marie-Josee
@@ -86,7 +86,6 @@ vs:
  - Hughes, Meaghan
  - Jones, Colleen
  - Jones, Jennifer
- - Joyce, Blisse
  - Kasner, Marliese
  - Kelly, Kim
  - King, Cathy
@@ -95,6 +94,7 @@ vs:
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Leger, Stacey
+ - Lemay, Annie
  - Lilly, Kendra
  - MacCuish, Kristin
  - MacDonald, Rebecca Jean
@@ -104,7 +104,6 @@ vs:
  - McCarville, Krista
  - McEwen, Dawn
  - Mittelstadt, Candice
- - Moriarty, Monica
  - Murphy, Sarah
  - Njegovan, Selena
  - Nicholls, Brenda
@@ -118,7 +117,6 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Prosser, Sandi
- - Radford, Mary Sue
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
@@ -130,6 +128,7 @@ vs:
  - Simons, Renee
  - Singler, Sherri
  - Sippala, Ashley
+ - Smart, Meaghan
  - Strong, Heather
  - Strong, Laura
  - Thompson, Karla

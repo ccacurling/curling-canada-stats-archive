@@ -36,4 +36,34 @@ years:
    shots-total: 114
    shots-percent: 74
 vs:
+ - Boudreault, Patricia
+ - Brine, Jenn
+ - Brothers, Jill
+ - Brown, Rachel
+ - Carey, Chelsea
+ - Carmody, Erin
+ - Courtney, Joanne
+ - Daigle, Julie
+ - Dunn, Michelle
+ - Ferguson, Dana
+ - Fleury, Tracy
+ - Gates, Jenny
+ - Homan, Rachel
+ - Kreviazuk, Cheryl
+ - Lavoie, Gabrielle
+ - Lilly, Kendra
+ - MacCuish, Kristin
+ - McCarville, Krista
+ - McDonald, Taylor
+ - Miskew, Emma
+ - Munroe, Anna
+ - Murphy, Sarah
+ - Njegovan, Selena
+ - Pilote, Kristen
+ - Potts, Sarah
+ - Rusnell, Jen
+ - Sandwith, Carley
+ - Wark, Sarah
+ - Weagle, Lisa
+ - Wilkes, Sarah
 ---

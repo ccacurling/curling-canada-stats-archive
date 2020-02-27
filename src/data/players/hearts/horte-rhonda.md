@@ -51,6 +51,7 @@ vs:
  - Breen, Theresa
  - Campbell, June
  - Daku, Karen
+ - Delahunt, Nancy
  - Dezura, Diane
  - Dobson, Sue
  - Frey, Audrey
@@ -78,7 +79,6 @@ vs:
  - Smith, Heather
  - Stewart, Sheri
  - Strong, Heather
- - Thurston, Jill
  - Walter, Cathy
  - Wheatcroft, Georgina
  - Whitrow, Leanne

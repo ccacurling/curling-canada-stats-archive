@@ -45,6 +45,7 @@ vs:
  - Chicoine, Helene
  - Davis, Carol
  - Deschatelets, Guylaine
+ - Dezura, Diane
  - Englot, Michelle
  - Floyd, Kathy
  - Gallant, Kathie

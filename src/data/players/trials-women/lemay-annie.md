@@ -68,9 +68,9 @@ vs:
  - Delahunt, Nancy
  - Dezura, Diane
  - Englot, Michelle
+ - Flinn-Burton, Jayne
  - Fowlie, Heather
  - Fraser, Sherry
- - Gatchell, Sara
  - Gignac, Donna
  - Gudereit, Marcia
  - Gushulak, Diane

@@ -40,18 +40,18 @@ years:
    shots-total: 267
    shots-percent: 74
 vs:
+ - Affleck, Tricia
  - Anderson, Sherry
  - Arsenault, Mary-Anne
  - Bakker, Glenys
  - Birt, Suzanne
- - Blanchard, Judy
  - Bonar, Maureen
- - Cameron, Nancy
  - Cooke, Gerri
  - Cordina, Sheri
  - Cunningham, Cathy
  - Delahunt, Nancy
  - Dezura, Diane
+ - Dobson, Sue
  - Fisher, Alana
  - Fowler, Lois
  - Freeman, Lisa

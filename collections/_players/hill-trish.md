@@ -64,6 +64,7 @@ vs:
  - McCarville, Krista
  - McQuaid, Michelle
  - Miskew, Emma
+ - Nedohin, Heather
  - Nixon, Amy
  - Peterman, Jocelyn
  - Peters, Laine
@@ -74,7 +75,6 @@ vs:
  - Schneider, Lorraine
  - Sicinski, Danielle
  - Sippala, Ashley
- - Thiessen, Alison
  - Trickett, Erica
  - Weagle, Lisa
  - Westcott, Raunora

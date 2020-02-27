@@ -100,6 +100,7 @@ vs:
  - Cotter, Jim
  - Engel, Ron
  - Epping, John
+ - Fenton, Darin
  - Fenton, Keith
  - Ferbey, Randy
  - Forrest, Tyler
@@ -140,7 +141,6 @@ vs:
  - Mead, Jon
  - Meakin, Rob
  - Mellof, David
- - Miki, Bryan
  - Mitchell, Collin
  - Morris, John
  - Nedohin, David
@@ -151,6 +151,7 @@ vs:
  - Odishaw, Grant
  - Park, Kerry
  - Park, Kevin
+ - Park, Shane
  - Patterson, Scott
  - Perroud, Pat
  - Pfeifer, Scott
@@ -167,6 +168,7 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Smith, Dave
+ - Smith, Garth
  - Stambaugh, Doug
  - Stoughton, Jeff
  - Sveistrup, Jody

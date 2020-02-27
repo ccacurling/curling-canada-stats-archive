@@ -79,18 +79,25 @@ vs:
  - Kelly, Kim
  - Koehler, Megan
  - Kreviazuk, Alison
+ - Larouche, Marie-France
  - Lawes, Kaitlyn
+ - LeDrew, Stephanie
+ - Lemay, Annie
+ - MacCuish, Kristin
  - MacDougall, Leslie
  - Mair, Jessica
  - McEwen, Dawn
  - Miller, Wendy
  - Miskew, Emma
  - Moore, Kristie
+ - Morris, Cori
  - Nedohin, Heather
+ - Nicholls, Brenda
  - Officer, Jill
  - O'Rourke, Brittany
  - Parsons, Danielle
  - Peters, Laine
+ - Rainville, Julie
  - Ross, Allison
  - Schraeder, Jeanna
  - Scott, Kelly

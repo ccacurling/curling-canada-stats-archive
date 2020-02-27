@@ -147,9 +147,11 @@ vs:
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Arseneau, Jane
+ - Babin, Jillian
  - Baker, Michelle
  - Bakker, Glenys
  - Balderston, Marcy
+ - Barbour, Shona
  - Belanger, Nancy
  - Bell, Allyson
  - Bell, Chelsey
@@ -171,13 +173,16 @@ vs:
  - Burlington, Cheryl
  - Busche, Jodi
  - Byers, Denise
+ - Cameron, Nancy
  - Carrier, Julie
  - Carter, Sasha
  - Cey, Naomi
  - Clark, Stefanie
  - Cooke, Gerri
  - Cormier, Sharon
+ - Crawford, Andrea
  - Cunningham, Cathy
+ - Curtis, Stacie
  - Davis, Brandee
  - Delahunt, Nancy
  - Dezura, Diane
@@ -206,12 +211,14 @@ vs:
  - Gregoire, Veronique
  - Grenier, Valerie
  - Gushulak, Diane
+ - Guzzwell, Stephanie
  - Hanlon, Heidi
- - Harding, Mary
  - Harrison, Meredith
  - Harvey, Alison
  - Henry, Lou Ann
  - Hodson, Kim
+ - Holden, Anna-Mae
+ - Holland, Amber
  - Holowec, Ainsley
  - Hooper Perroud, Jane
  - Horne, Kate
@@ -221,6 +228,7 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Jones-Walker, Debbie
+ - Kalenchuk, Heather
  - Kaylo, Kelly
  - Kehler, Lorie
  - Kelly, Kim
@@ -253,7 +261,6 @@ vs:
  - McNamee, Karen
  - Miller, Maureen
  - Mittelstadt, Candice
- - Moses, Dawn
  - Moss, Debbie
  - Mulroney, Sandra
  - Nedohin, Heather
@@ -261,11 +268,13 @@ vs:
  - Nicholson, Danielle
  - Nixon, Amy
  - Nohr, Dianne
+ - Nowlan, Denise
  - Officer, Jill
  - O'Leary, Susan
  - Ondrack, Wendy
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
+ - Paul, Sarah
  - Pendergast, Judy
  - Peters, Laine
  - Phillips, Laura
@@ -281,8 +290,9 @@ vs:
  - Sabourin, Joelle
  - Sanders, Pat
  - Sandison, Janice
- - Sauder, Bobbie
  - Scales, Julie
+ - Schneider, Kim
+ - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Donna
  - Scott, Kelly
@@ -294,6 +304,7 @@ vs:
  - Skinner, Julie
  - Smith, Heather
  - Snider, Shelly
+ - Sobey, Lianne
  - Sonnenberg, Renee
  - Stabel, Stacey
  - Stewart, Sheri
@@ -309,13 +320,11 @@ vs:
  - Trider, Krista
  - Tucker, Cindy
  - Webster, Bronwen
- - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whipple, Paula
  - Whitaker, Carol
  - Whitaker, Lise
  - Wieler, Bev
- - Wilson, Leslie
  - Wright, Susan
  - Yardley, Janelle
  - Young, Karen

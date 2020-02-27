@@ -54,11 +54,13 @@ years:
    shots-percent: 78
 vs:
  - Affleck, Tricia
- - Aleksic, Shannon
  - Armstrong, Jacquie
  - Babin, Jillian
  - Barbour, Shona
+ - Belanger, Nancy
  - Belisle, Eve
+ - Bernard, Cheryl
+ - Bradley, Shelly
  - Brown, Jacalyn
  - Carmody, Erin
  - Carter, Sasha
@@ -66,6 +68,7 @@ vs:
  - Cormier, Sharon
  - Crawford, Andrea
  - Cunningham, Cathy
+ - Darbyshire, Carolyn
  - deSolla, Jodie
  - Einarson, Megan
  - Ellis, Danielle
@@ -77,14 +80,15 @@ vs:
  - Gushulak, Diane
  - Hardy, Shelley
  - Holland, Amber
- - Jewer, Michelle
  - Jones, Jennifer
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Koehler, Megan
  - Lang, Lorraine
+ - Larouche, Marie-France
  - Lawton, Stefanie
  - LeDrew, Stephanie
+ - Lemay, Annie
  - Lemon, Colette
  - Lowther, Tammi
  - MacDonald, Rebecca Jean
@@ -93,23 +97,28 @@ vs:
  - MacPhee, Robyn
  - Makichuck, Lindsay
  - Mallett, Marla
+ - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McEwen, Dawn
  - More, Whitney
+ - Morris, Cori
  - Moses, Dawn
  - Muzika, Shelley
  - Naugler, Tara
  - Nicholls, Brenda
  - Nowlan, Denise
+ - O'Connor, Susan
  - Officer, Jill
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
  - Phillips, Kristen
+ - Potts, Sarah
  - Rainville, Julie
  - Ramsay, Geri Lynn
  - Richards, Brette
  - Robertson, Darcy
  - Rogers, Rhonda
+ - Sabourin, Joelle
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
@@ -120,9 +129,9 @@ vs:
  - Spencer, Barb
  - Strong, Heather
  - Strong, Laura
- - Surik, Teejay
  - Sweeting, Val
  - Thurston, Jill
  - Vey, Lana
+ - Westcott, Raunora
  - Wilson, Leslie
 ---

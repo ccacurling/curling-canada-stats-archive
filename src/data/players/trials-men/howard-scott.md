@@ -36,4 +36,9 @@ years:
    shots-total: 4
    shots-percent: 100
 vs:
+ - Carruthers, Reid
+ - Mead, Jon
+ - Nichols, Mark
+ - Smith, Garth
+ - Stoughton, Jeff
 ---

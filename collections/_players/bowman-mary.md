@@ -114,7 +114,6 @@ vs:
 - Godberson, Heather
 - Gudereit, Marcia
 - Hanlon, Heidi
-- Harding, Mary
 - Harris, Susan
 - Harvey, Alison
 - Harvey, Carol
@@ -150,6 +149,7 @@ vs:
 - McCloy, Elaine
 - McConnery, Nancy
 - McCusker, Joan
+- McInnis, Susan
 - McKnight, Patti
 - Merklinger, Anne
 - Middaugh, Sherry
@@ -168,6 +168,7 @@ vs:
 - Schmirler, Sandra
 - Shields, Deanne
 - Sipka, Joanne
+- Stewart, Sheri
 - Stokes, Debbie
 - Thurston, Jill
 - Zielke, Colleen

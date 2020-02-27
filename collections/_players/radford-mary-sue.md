@@ -52,8 +52,8 @@ years:
   team: CJO
   position: Alternate
 vs:
-- Hanna, Jenn
-- Hanna, Stephanie
-- Letendre, Pascale
-- McEwen, Dawn
+- Burgess, Carey
+- Harvey, Janet
+- Loder, Cherie-Ann
+- Thurston, Jill
 ---

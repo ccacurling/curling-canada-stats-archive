@@ -102,8 +102,8 @@ vs:
  - Corbin, Nicole
  - Crocker, Cindy
  - Cutcliffe, Margaret
+ - Daniel, Sylvie
  - Dauphinais, Josee
- - Dillon, Cathy
  - Dolan, Kim
  - Duck, Kim
  - Dunn, Anne
@@ -114,7 +114,6 @@ vs:
  - Floyd, Kathy
  - Gabriele, Elena
  - Gauthier, Cathy
- - Girard, Sylvie
  - Goring, Alison
  - Gould, Karen
  - Green, Sue
@@ -140,6 +139,7 @@ vs:
  - Law, Kelley
  - Lawes, Andrea
  - Leblanc, Lisa
+ - MacAulay, Marion
  - MacCallum, Janice
  - Maitland, Donna
  - Marchuk, Lindy

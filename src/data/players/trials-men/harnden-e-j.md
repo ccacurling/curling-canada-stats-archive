@@ -55,7 +55,6 @@ years:
 vs:
  - Bailey, Scott
  - Bottcher, Brendan
- - Camm, Mathew
  - Carruthers, Reid
  - Cotter, Jim
  - Dunstone, Matthew
@@ -66,12 +65,10 @@ vs:
  - Hebert, Ben
  - Hodgson, Colin
  - Howard, Glenn
- - Janssen, Patrick
  - Kennedy, Marc
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
- - March, Tim
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David

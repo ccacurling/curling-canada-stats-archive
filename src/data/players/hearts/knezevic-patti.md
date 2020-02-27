@@ -113,42 +113,55 @@ vs:
  - Boyle, Jane
  - Bradley, Shelly
  - Brown, Rachel
+ - Clark-Rouire, Jennifer
  - Collins, Katrina
  - Cooper, Kathryn
+ - Cottrill, Katie
+ - Court, Morgan
  - Courtney, Joanne
  - Cunningham, Jessica
+ - Davies, Lisa
+ - Duncan, Chelsea
  - Ferguson, Dana
  - Filteau, Anne-Marie
+ - Flaxey, Allison
  - Fleury, Tracy
+ - Gannon, Melissa
  - Gates, Amanda
  - Hastings, Julie
  - Homan, Rachel
  - Jones, Jennifer
  - Kasner, Marliese
+ - Koltun, Sarah
  - Korab, Stephanie
+ - Kreviazuk, Cheryl
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Mann, Lauren
  - McEwen, Dawn
  - McInnis, Susan
+ - McPherson, Cheryl
  - McQuaid, Michelle
  - Miskew, Emma
+ - Nugent, Pamela
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Rourke, Brittany
  - Richard, Marie
  - Robichaud, Sylvie
+ - Ross, Allison
  - Schmidt, Stephanie
+ - Sinclair, Andrea
  - Singler, Sherri
- - Sivertson, Dailene
  - Smith, Stacey
  - Snyder, Jane
  - Strong, Heather
+ - Strong, Laura
  - Sweeting, Val
  - Trombley, Christy
- - Vey, Lana
+ - Tuck, Kim
+ - Wallingham, Patty
  - Walsh, Jenna
  - Weagle, Lisa
- - Wilkes, Sarah
  - Wylie, Jennifer
 ---

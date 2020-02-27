@@ -56,7 +56,6 @@ vs:
  - Anderson, Sherry
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
- - Baier, Stephanie
  - Baxter, Jen
  - Birt, Suzanne
  - Black, Christina
@@ -67,6 +66,7 @@ vs:
  - Brown, Rachel
  - Camozzi, Rhona
  - Carey, Chelsea
+ - Clark-Rouire, Jennifer
  - Collins, Katrina
  - Cottrill, Katie
  - Court, Morgan
@@ -91,6 +91,7 @@ vs:
  - Knezevic, Patti
  - Koltun, Sarah
  - Kreviazuk, Alison
+ - Kreviazuk, Cheryl
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lawton, Stefanie
@@ -107,7 +108,6 @@ vs:
  - O'Rourke, Brittany
  - Parsons, Danielle
  - Pilote, Kristen
- - Reid, Jackie
  - Richard, Marie
  - Robichaud, Sylvie
  - Robison, Michala
@@ -121,15 +121,13 @@ vs:
  - Smith, Heather
  - Smith, Stacey
  - Snyder, Jane
- - Sonnenberg, Renee
  - Sweeting, Val
  - Titheridge, Lindsay
  - Trombley, Christy
+ - Udle, Teri
  - Van Osch, Kesa
- - Vey, Lana
  - Wallingham, Patty
  - Walsh, Jenna
  - Weagle, Lisa
- - Wilkes, Sarah
  - Wylie, Jennifer
 ---

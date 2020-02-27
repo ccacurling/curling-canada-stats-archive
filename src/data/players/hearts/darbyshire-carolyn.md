@@ -72,6 +72,7 @@ years:
 vs:
  - Aleksic, Shannon
  - Arnott, Janet
+ - Baldwin, Nicole
  - Barbour, Shona
  - Bartlett, Sue Anne
  - Belanger, Nancy
@@ -157,7 +158,6 @@ vs:
  - O'Leary, Susan
  - Osborne, Chantal
  - Overton-Clapham, Cathy
- - Pinkney, Colleen
  - Porter, Debbie
  - Power, Marie-Anne
  - Provencal, Darah
@@ -168,7 +168,6 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Seitz, Susan
- - Sharpe, Kelli
  - Shields, Gail
  - Simons, Renee
  - Singler, Sherri
@@ -178,6 +177,7 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
+ - Thomas, Jill
  - Twa, Dale
  - Udle, Teri
  - Vaughan, Marlene

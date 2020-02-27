@@ -106,7 +106,6 @@ vs:
  - Fraser, Sherry
  - Frey, Audrey
  - Gagnon, Nathalie
- - Galusha, Kerry
  - Garvey, Sue
  - Gellard, Kim
  - Goring, Alison
@@ -151,6 +150,7 @@ vs:
  - Merklinger, Anne
  - Moore, Kim
  - Moore, Kristie
+ - Moses, Dawn
  - Moss, Debbie
  - Muzika, Shelley
  - Nedohin, Heather

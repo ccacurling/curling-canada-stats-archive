@@ -39,19 +39,16 @@ vs:
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Ayrey, Jinaye
+ - Barbour, Shona
  - Baxter, Jen
  - Beauchamp, Sasha
- - Birt, Suzanne
- - Bradley, Shelly
  - Cheveldave, Amber
- - Cormier, Sharon
  - Crawford, Andrea
  - Curtis, Stacie
  - deJager, Blaine
  - deSolla, Jodie
  - Dufresne, Audree
  - Dykstra, Michelle
- - Fullerton, Sarah
  - Galusha, Kerry
  - Holtby, Taryn
  - Homan, Rachel
@@ -63,7 +60,7 @@ vs:
  - Koehler, Megan
  - Kreviazuk, Alison
  - Lawes, Kaitlyn
- - MacDougall, Leslie
+ - MacCuish, Kristin
  - Mair, Jessica
  - Martin, Heather
  - McEwen, Dawn
@@ -78,7 +75,6 @@ vs:
  - Porter, Erin
  - Ross, Allison
  - Shumay, Jill
- - Sonnenberg, Renee
  - Wasylkiw, Lauren
  - Weagle, Lisa
 ---

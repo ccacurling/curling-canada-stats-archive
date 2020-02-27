@@ -86,7 +86,7 @@ years:
 vs:
 - Adams, Shawn
 - Arsenault, Craig
-- Bartlett, Don
+- Bailey, Scott
 - Base, John
 - Bitz, Scott
 - Burgess, Craig
@@ -116,6 +116,7 @@ vs:
 - Grattan, James
 - Gushue, Brad
 - Hardy, Gord
+- Harris, Mathew
 - Harris, Mike
 - Harris, Rob
 - Hart, Richard

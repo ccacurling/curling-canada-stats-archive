@@ -36,4 +36,8 @@ years:
    shots-total: 2
    shots-percent: 50
 vs:
+ - Enright, Barb
+ - Robertson, Darcy
+ - Spencer, Barb
+ - Unrau, Faye
 ---

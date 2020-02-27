@@ -266,6 +266,7 @@ vs:
  - Ellwood, Laurie
  - Englot, Michelle
  - Fahlman, Kathy
+ - Farrell, Allison
  - Fast, Lois
  - Ferland, Marie
  - Fisher, Alana
@@ -289,7 +290,6 @@ vs:
  - Gudereit, Marcia
  - Handfield, Simone
  - Hanlon, Heidi
- - Harding, Mary
  - Hardy, Shelley
  - Harrison, Meredith
  - Harvey, Alison
@@ -383,7 +383,6 @@ vs:
  - Osborne, Chantal
  - Overton-Clapham, Cathy
  - Peters, Laine
- - Phillips, Kristen
  - Phillips, Laura
  - Phillips, Margaret Lea
  - Pinkney, Colleen
@@ -420,7 +419,6 @@ vs:
  - Stabel, Stacey
  - Stahl, Carrie
  - Stevenson, Chris
- - Stewart, Allyson
  - Stewart, Sheri
  - Stokes, Debbie
  - Streifel, Tracy

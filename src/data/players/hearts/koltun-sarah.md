@@ -72,33 +72,32 @@ years:
 vs:
  - Adams, Melissa
  - Anderson, Sherry
+ - Armstrong, Jennifer
+ - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
+ - Babin, Jillian
  - Baier, Stephanie
  - Baldwin, Nicole
+ - Baxter, Jen
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
- - Blaney, Jennifer
- - Bodner, Jenine
- - Boudreault, Patricia
- - Brothers, Jill
+ - Black, Christina
  - Brown, Rachel
  - Carey, Chelsea
- - Chislett, Geneva
  - Christianson, Marie
  - Cooper, Kathryn
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
  - Crawford, Andrea
+ - Crouse, Jennifer
  - Cunningham, Jessica
- - Daigle, Julie
  - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
- - Duncan, Hollie
  - Duncan, Jenna
  - Einarson, Kerri
  - Ferguson, Dana
@@ -106,85 +105,61 @@ vs:
  - Fesser, Krista
  - Flaxey, Allison
  - Fleury, Tracy
+ - Forward, Katie
  - Foster, Kristen
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gannon, Melissa
  - Gates, Amanda
- - Gates, Jenny
- - Gibson, Amy
- - Griffin, Alison
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
- - Hutchings, Denise
- - Ingram, Megan
  - Jewer, Michelle
  - Jones, Jennifer
- - Joyce, Blisse
  - Kasner, Marliese
+ - Knezevic, Patti
  - Korchinski, Karlee
  - Kreviazuk, Alison
- - Kreviazuk, Cheryl
  - Kreviazuk, Lynn
- - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - LeDrew, Stephanie
- - Lilly, Kendra
  - Lister, Kendra
  - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacPhee, Robyn
- - McCarville, Krista
  - McDonald, Kristy
  - McEwen, Dawn
  - McQuaid, Michelle
- - McTaggart, Cary-Anne
+ - Meakin, Breanne
  - Miskew, Emma
- - Moore, Kristie
- - Munroe, Anna
  - Njegovan, Selena
  - Nugent, Pamela
  - Officer, Jill
  - O'Rourke, Brittany
  - Parsons, Danielle
  - Peterman, Jocelyn
- - Pilote, Kristen
- - Potts, Sarah
  - Price, Kara
  - Robichaud, Sylvie
  - Robison, Michala
  - Ross, Allison
- - Rusnell, Jen
- - Sagle, Karen
  - Sanderson, Jessie
  - Sandwith, Carley
- - Scheidegger, Casey
- - Scheidegger, Jessie
- - Shackleton, Amie
  - Sharpe, Kelli
  - Shaw, Ladene
  - Silvernagle, Robyn
  - Singler, Sherri
  - Smallwood, Jody
- - Smith, Heather
  - Strong, Heather
  - Strong, Helen
  - Strong, Laura
  - Sweeting, Val
  - Thevenot, Kara
  - Titheridge, Lindsay
- - Udle, Teri
- - Van Osch, Kalia
- - Van Osch, Kesa
- - Van Osch, Marika
- - Wark, Sarah
+ - Tuck, Kim
  - Weagle, Lisa
  - Webster, Crystal
- - West, Christianne
- - Wilkes, Sarah
  - Wylie, Jennifer
 ---

@@ -54,8 +54,11 @@ years:
    shots-percent: 83
 vs:
  - Atkinson, Rebecca
+ - Baldwin, Nicole
+ - Birnie, Hailey
  - Birt, Suzanne
  - Boyle, Jane
+ - Briand, Oye-Sem Won
  - Brothers, Jill
  - Campbell, Jolene
  - Carey, Chelsea
@@ -67,13 +70,11 @@ vs:
  - Hanna, Stephanie
  - Howard, Ashley
  - Hughes, Meaghan
- - Hunkin, Jessie
  - Jones, Jennifer
  - Joyce, Blisse
  - Larouche, Marie-France
  - Lavery, Tracey
  - Lawes, Kaitlyn
- - Lawton, Stefanie
  - Lemay, Annie
  - Lilly, Kendra
  - MacCuish, Kristin
@@ -94,9 +95,9 @@ vs:
  - Richard, Marie
  - Robichaud, Sylvie
  - Sagle, Karen
- - Silvernagle, Robyn
+ - Shaw, Ladene
  - Sippala, Ashley
- - Thevenot, Kara
+ - Strong, Helen
  - Thompson, Karla
  - Udle, Teri
  - Vandale, Trysta

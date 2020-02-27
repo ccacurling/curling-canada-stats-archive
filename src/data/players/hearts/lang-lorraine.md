@@ -181,6 +181,7 @@ vs:
  - Blanchard, Judy
  - Bonar, Maureen
  - Bothwell-Myers, Connie
+ - Bradley, Shelly
  - Brawley, Sandra
  - Brophy, Cathy
  - Brothers, Jill
@@ -254,13 +255,11 @@ vs:
  - Horne, Sharon
  - Hunt, Donna
  - Inglis, Nancy
- - Iskiw, Beth
  - Jamieson, Shirley
  - Jenkins, Sandra
  - Jones, Colleen
  - Jones, Jennifer
  - Jones, Karen
- - Jurgenson, Christine
  - Karasek, Bev
  - Kasner, Marliese
  - Keays, Stella
@@ -284,7 +283,6 @@ vs:
  - Loder, Cherie-Ann
  - Lowther, Tammi
  - MacCallum, Janice
- - MacDiarmid, Kristen
  - MacDonald, Karen
  - MacDonald, Rebecca Jean
  - MacInnes, Grace
@@ -334,7 +332,6 @@ vs:
  - Overton, Kim
  - Overton-Clapham, Cathy
  - Phillips, Laura
- - Pilote, Kristen
  - Pinkney, Colleen
  - Pinsent, Barbara
  - Poisson, Francine
@@ -347,7 +344,6 @@ vs:
  - Pruden, Twyla
  - Purdy, Karen
  - Putland, Rose
- - Raby, Linda
  - Raby, Odette
  - Ramsay, Jennifer
  - Rankin, Beth
@@ -358,16 +354,15 @@ vs:
  - Rintoul, Jacki
  - Roberts, Angela
  - Robertson, Darcy
+ - Rocque, Raylene
  - Rowan, Sheila
  - Rudd, Colleen
  - Rudulier, Andrea
- - Rusnell, Jen
  - Ryan, Diane
  - Ryan, Jennifer
  - Ryan, Penny
  - Sabourin, Joelle
  - Sanders, Pat
- - Sandwith, Carley
  - Sanford, Pamela
  - Santos, Deb
  - Schmirler, Sandra
@@ -407,7 +402,6 @@ vs:
  - Usher, Leanne
  - Vey, Lana
  - Walter, Cathy
- - Wark, Sarah
  - Werenka, Lil
  - Wheatcroft, Georgina
  - Whitaker, Carol

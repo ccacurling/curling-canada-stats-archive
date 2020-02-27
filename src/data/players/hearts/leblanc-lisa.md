@@ -72,10 +72,8 @@ vs:
  - Combden, Cathy
  - Crispo, Guylaine
  - Cunningham, Cathy
- - Dagg-Jackson, Elaine
  - Daniel, Sylvie
  - Derick, Catherine
- - Dillon, Cathy
  - Dolan, Kim
  - Earl, Allison
  - Englot, Michelle
@@ -128,6 +126,7 @@ vs:
  - Sherrington, Barb
  - Shields, Deanne
  - Skinner, Julie
+ - Soligo, Melissa
  - Stewart, Sheri
  - Stricker, Joan
  - Sutton, Jodie

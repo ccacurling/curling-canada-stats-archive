@@ -74,6 +74,7 @@ vs:
  - Anderson, Sherry
  - Arnott, Janet
  - Arseneau, Jane
+ - Barrette, Peggy
  - Bartlett, Sue Anne
  - Bernard, Cheryl
  - Betker, Jan
@@ -88,16 +89,18 @@ vs:
  - Campbell, June
  - Charette, Agnes
  - Charette, France
+ - Clark, Kim
  - Combden, Cathy
  - Cormier, Sharon
  - Crispo, Guylaine
  - Cunningham, Cathy
- - Dagg-Jackson, Elaine
  - Daniel, Sylvie
  - Delahunt, Nancy
  - Derick, Catherine
  - Earl, Allison
  - Eddy, Lori
+ - Englot, Michelle
+ - Fahlman, Kathy
  - Floyd, Kathy
  - Fraser, Sherry
  - Gauthier, Cathy
@@ -122,8 +125,10 @@ vs:
  - Jones-Walker, Debbie
  - Jurgenson, Christine
  - Kaylo, Kelly
+ - Kehler, Lorie
  - Kellerman, Bev
  - Kelly, Kim
+ - Kennedy, Tracy
  - Kerr, Kathy
  - King, Cathy
  - Kyle, Linda
@@ -133,6 +138,7 @@ vs:
  - Mallett, Marla
  - Martin, Heather
  - Mattatall, Mary
+ - McArdle, Cindy
  - McCloy, Elaine
  - McConnery, Nancy
  - McCrady, Christine
@@ -142,19 +148,24 @@ vs:
  - Moses, Dawn
  - Moss, Debbie
  - Nedohin, Heather
- - Nichols, Helen
  - Ondrack, Wendy
  - Osborne, Chantal
  - Overton-Clapham, Cathy
  - Phillips, Laura
+ - Porter, Debbie
  - Radford, Helen
  - Sabourin, Joelle
+ - Sauer, Cathy
  - Schmirler, Sandra
  - Sherrington, Barb
  - Shields, Deanne
+ - Skinner, Julie
  - Soligo, Melissa
  - Stewart, Sheri
  - Stokes, Debbie
+ - Stricker, Joan
  - Sutton, Jodie
+ - Walker, Lisa
  - Willms, Karri
+ - Wilson, Patty
 ---

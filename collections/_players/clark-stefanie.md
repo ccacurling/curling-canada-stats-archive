@@ -124,24 +124,23 @@ vs:
  - Allen, Michelle
  - Arnott, Janet
  - Arsenault, Mary-Anne
+ - Atkinson, Rebecca
+ - Baldwin, Nicole
  - Belanger, Nancy
  - Bell, Chelsey
  - Bernard, Cheryl
  - Betker, Jan
  - Brennan, Amanda
- - Brothers, Jill
  - Bush, Tracy
+ - Carrier, Julie
  - Carter, Sasha
- - Cheveldave, Amber
- - Clarke, Hayley
  - Comeau, Sandy
+ - Crawford, Andrea
  - Cunningham, Cathy
- - Daniel, Sylvie
  - Darbyshire, Carolyn
- - deJager, Blaine
  - Delahunt, Nancy
  - Derick, Catherine
- - Dykstra, Michelle
+ - deSolla, Jodie
  - Englot, Michelle
  - Farrell, Allison
  - Fortier, Marie-Josee
@@ -150,14 +149,12 @@ vs:
  - Gauthier, Cathy
  - George, Tara
  - Goss, Peg
- - Grenier, Valerie
  - Gudereit, Marcia
  - Hamilton, Beth
  - Hanna, Jenn
  - Hanna, Stephanie
  - Hardy, Shelley
  - Harmark, Andra
- - Harrison, Meredith
  - Homan, Rachel
  - Inglis, Nancy
  - Jones, Colleen
@@ -186,8 +183,6 @@ vs:
  - Miskew, Emma
  - Mittelstadt, Candice
  - Moore, Kim
- - Moore, Kristie
- - Morgan, Cheryl
  - Moriarty, Monica
  - Morris, Cori
  - Moses, Dawn
@@ -200,8 +195,8 @@ vs:
  - Officer, Jill
  - O'Leary, Susan
  - Olson-Johns, Lori
- - Osborne, Chantal
  - Overton-Clapham, Cathy
+ - Parsons, Danielle
  - Peters, Laine
  - Power, Marie-Anne
  - Prosser, Sandi
@@ -222,7 +217,6 @@ vs:
  - Stubbings, Tiffany
  - Surik, Teejay
  - Thompson, Karla
- - Udle, Teri
  - Vey, Lana
  - Wall, Kirsten
  - Weagle, Lisa

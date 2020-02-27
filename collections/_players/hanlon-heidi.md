@@ -237,7 +237,6 @@ vs:
  - Boily, Caroline
  - Bonar, Maureen
  - Bowering, Andrea
- - Bowes, Diane
  - Bowman, Mary
  - Bradley, Shelly
  - Breen, Theresa
@@ -246,6 +245,7 @@ vs:
  - Brown, Maureen
  - Bryant, Angie
  - Burry, Gail
+ - Butler, Donna
  - Byers, Denise
  - Cameron, Nancy
  - Campbell, Gloria
@@ -255,6 +255,7 @@ vs:
  - Charette, Agnes
  - Charette, France
  - Chaulk, Wendy
+ - Chicoine, Helene
  - Clark, Kim
  - Combden, Cathy
  - Cooke, Gerri
@@ -276,7 +277,6 @@ vs:
  - Derick, Catherine
  - Deschatelets, Guylaine
  - Dezura, Diane
- - Dillon, Cathy
  - Dolan, Kim
  - Duck, Kim
  - Dunn, Anne
@@ -304,7 +304,6 @@ vs:
  - Gellard, Kim
  - Gervais, Donna
  - Gignac, Donna
- - Girard, Sylvie
  - Goring, Alison
  - Goss, Peg
  - Gould, Karen
@@ -363,7 +362,6 @@ vs:
  - Lawrence, Margaret
  - Leblanc, Lisa
  - Leclerc, Valerie
- - L'Ecuyer, Josee
  - Lemay, Annie
  - Lidgren, Anna
  - Linton, Sherry
@@ -448,6 +446,7 @@ vs:
  - Santos, Deb
  - Sauer, Cathy
  - Savill, Jarron
+ - Scales, Julie
  - Schmirler, Sandra
  - Schneider, Sheila
  - Scott, Donna
@@ -469,7 +468,6 @@ vs:
  - Strong, Heather
  - Sutton, Jodie
  - Taylor, Candy
- - Taylor, Gloria
  - Thomas, Karen
  - Thomas, Maria
  - Thompson, Carol

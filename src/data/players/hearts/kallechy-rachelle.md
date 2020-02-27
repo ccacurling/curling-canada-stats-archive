@@ -69,4 +69,12 @@ years:
    shots-total: 22
    shots-percent: 70
 vs:
+ - Arnaud, Chloe
+ - Arsenault, Mary-Anne
+ - Baxter, Jen
+ - Black, Christina
+ - Crouse, Jennifer
+ - Gagnon, Emilia
+ - Harvey, Marie-Pier
+ - Perron, Melina
 ---

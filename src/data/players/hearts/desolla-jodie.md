@@ -140,7 +140,6 @@ years:
 vs:
  - Affleck, Tricia
  - Anderson, Sherry
- - Armstrong, Jacquie
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Ayrey, Jinaye
@@ -153,6 +152,7 @@ vs:
  - Bernard, Cheryl
  - Birt, Suzanne
  - Blais, Amelie
+ - Bolland, Michelle
  - Bradley, Shelly
  - Brothers, Jill
  - Brown, Jacalyn
@@ -163,6 +163,8 @@ vs:
  - Carey, Chelsea
  - Carter, Sasha
  - Cheveldave, Amber
+ - Clark, Stefanie
+ - Clark-Rouire, Jennifer
  - Comeau, Martine
  - Cooper, Kathryn
  - Cormier, Sharon
@@ -171,7 +173,6 @@ vs:
  - Courtney, Joanne
  - Crouse, Jennifer
  - Cunningham, Cathy
- - Cunningham, Jennifer
  - Cunningham, Jessica
  - Curtis, Stacie
  - Darbyshire, Carolyn
@@ -187,20 +188,18 @@ vs:
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Flaxey, Allison
- - Fleury, Tracy
  - Foster, Kristen
- - Fraser, Sherry
  - Fullerton, Sarah
  - Gagnier, Monique
  - Galusha, Kerry
  - Gannon, Melissa
- - Gates, Amanda
  - George, Tara
  - Gilman, Sheena
  - Goss, Peg
  - Gushulak, Diane
  - Hardy, Shelley
  - Harvey, Janet
+ - Hersikorn, Patty
  - Holland, Amber
  - Hollands, Saskia
  - Holtby, Taryn
@@ -216,20 +215,19 @@ vs:
  - King, Cathy
  - Koehler, Megan
  - Koltun, Sarah
- - Korab, Stephanie
  - Kreviazuk, Alison
  - Kreviazuk, Lynn
  - Lang, Lorraine
  - Larouche, Marie-France
  - Lawes, Kaitlyn
  - Lawton, Stefanie
- - LeDrew, Stephanie
  - Lemay, Annie
  - Loder, Cherie-Ann
  - Lowther, Tammi
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacInnes, Grace
+ - MacIntosh, Kelly
  - MacLean, Kari
  - MacPhee, Robyn
  - Mair, Jessica
@@ -242,7 +240,6 @@ vs:
  - McDonald, Kristy
  - McEwen, Dawn
  - McInnis, Susan
- - Meakin, Breanne
  - Miller, Wendy
  - Miskew, Emma
  - Moore, Kristie
@@ -260,7 +257,6 @@ vs:
  - Overton-Clapham, Cathy
  - Parsons, Danielle
  - Peters, Laine
- - Pinkney, Colleen
  - Porter, Erin
  - Richards, Brette
  - Ridalls, Kristen
@@ -272,6 +268,7 @@ vs:
  - Sabourin, Joelle
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Schmidt, Stephanie
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
@@ -294,15 +291,12 @@ vs:
  - Thomas, Jill
  - Thurston, Jill
  - Titheridge, Lindsay
- - Tuck, Kim
  - Udle, Teri
  - Van Osch, Kesa
  - Vey, Lana
  - Wallingham, Patty
- - Walsh, Jenna
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa
  - Wheatcroft, Georgina
- - Wylie, Jennifer
 ---

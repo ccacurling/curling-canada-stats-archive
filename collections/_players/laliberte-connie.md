@@ -251,7 +251,6 @@ vs:
 - Derick, Catherine
 - Deschatelets, Guylaine
 - Dezura, Diane
-- Dillon, Cathy
 - Dobson, Sue
 - Dolan, Kim
 - Dorosz, Peggy
@@ -273,7 +272,6 @@ vs:
 - Gervais, Chris
 - Gervais, Donna
 - Gignac, Donna
-- Girard, Sylvie
 - Godberson, Heather
 - Goring, Alison
 - Green, Sue
@@ -294,6 +292,7 @@ vs:
 - Hutton, Barb
 - Jackson, Virginia
 - James, Elizabeth
+- Jenkins, Sandra
 - Jennings, Tracey
 - Jesty, Janet
 - Johnstone, Loralee
@@ -313,11 +312,11 @@ vs:
 - King, Cathy
 - Kleibrink, Shannon
 - Kyle, Linda
+- Larouche, Marie-France
 - Law, Kelley
 - Lawrence, Margaret
 - Leahy, Anne
 - Leblanc, Lisa
-- Leclerc, Valerie
 - Lemay, Annie
 - Lemire, Nancy
 - Leonard, Judy
@@ -346,6 +345,7 @@ vs:
 - McInnis, Susan
 - McKnight, Patti
 - McLeod, Crystal
+- McNamee, Karen
 - Merklinger, Anne
 - Middaugh, Sherry
 - Millar, Bev
@@ -361,7 +361,6 @@ vs:
 - Muzika, Shelley
 - Nedohin, Heather
 - Nicholls, Brenda
-- Nichols, Helen
 - Nimmo, Shannon
 - Nohr, Dianne
 - Nowlan, Denise
@@ -375,6 +374,7 @@ vs:
 - Peters, Laine
 - Phillips, Laura
 - Phillips, Margaret Lea
+- Porter, Debbie
 - Power, Marie-Anne
 - Raby, Odette
 - Rainville, Julie
@@ -382,7 +382,6 @@ vs:
 - Renouf, Michele
 - Roberts, Angela
 - Robinson, Charlene
-- Rocque, Raylene
 - Roland, Mavis
 - Ross, Allison
 - Ruus, Karen
@@ -396,6 +395,7 @@ vs:
 - Shephard, Wendy
 - Sherrington, Barb
 - Shields, Deanne
+- Shigehiro, Sally
 - Sipka, Joanne
 - Skinner, Julie
 - Smith, Heather
@@ -417,15 +417,16 @@ vs:
 - Thompson, Gillian
 - Tincher, Twyla
 - Todd, Fran
+- Train, Mona
 - Tucker, Cindy
 - Walker, Lisa
 - Walter, Cathy
 - Wheatcroft, Georgina
-- Whipple, Paula
 - Whitrow, Leanne
 - Wieler, Bev
 - Willms, Karri
 - Wilson, Patty
+- Wright, Joanne
 - Wright, Susan
 - Zielke, Colleen
 - Zinck, Kay

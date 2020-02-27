@@ -39,7 +39,6 @@ vs:
  - Bobbie, Tess
  - Brown, Rachel
  - Carey, Chelsea
- - Clark-Rouire, Jennifer
  - Court, Morgan
  - Courtney, Joanne
  - Duhaime, Chantal
@@ -47,6 +46,7 @@ vs:
  - Flaxey, Allison
  - Grandy, Clancy
  - Homan, Rachel
+ - Jones, Jennifer
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lilly, Kendra

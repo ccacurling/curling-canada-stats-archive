@@ -74,10 +74,7 @@ vs:
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Baier, Stephanie
- - Baldwin, Nicole
- - Barbour, Shona
  - Baxter, Jen
- - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
@@ -86,9 +83,11 @@ vs:
  - Boudreault, Patricia
  - Boyle, Jane
  - Bradley, Shelly
+ - Brine, Jenn
  - Brothers, Jill
  - Camozzi, Rhona
  - Carey, Chelsea
+ - Carmody, Erin
  - Christianson, Marie
  - Collins, Katrina
  - Cooper, Kathryn
@@ -98,6 +97,7 @@ vs:
  - Crawford, Andrea
  - Cunningham, Jessica
  - Daigle, Julie
+ - Davies, Lisa
  - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
@@ -106,19 +106,16 @@ vs:
  - Flaxey, Allison
  - Fleury, Tracy
  - Foster, Kristen
- - Galusha, Kerry
+ - Fyfe, Liz
  - Gannon, Melissa
  - Gates, Amanda
  - Gates, Jenny
  - Griffin, Alison
- - Guzzwell, Stephanie
- - Hamilton, Beth
  - Hastings, Julie
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Ingram, Megan
- - Jewer, Michelle
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese
@@ -131,22 +128,28 @@ vs:
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
+ - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - Mann, Lauren
  - McCarville, Krista
  - McDonald, Kristy
  - McEwen, Dawn
  - McInnis, Susan
+ - McPherson, Cheryl
  - McQuaid, Michelle
  - Miskew, Emma
  - Munroe, Anna
+ - Murphy, Sarah
+ - Njegovan, Selena
  - Nugent, Pamela
  - Officer, Jill
  - O'Rourke, Brittany
  - Parsons, Danielle
  - Peterman, Jocelyn
  - Pilote, Kristen
+ - Pinksen, Sadie
  - Potts, Sarah
+ - Reid, Jackie
  - Richard, Marie
  - Robichaud, Sylvie
  - Robison, Michala
@@ -155,8 +158,6 @@ vs:
  - Sanderson, Jessie
  - Sandwith, Carley
  - Schmidt, Stephanie
- - Sharpe, Kelli
- - Shaw, Ladene
  - Silvernagle, Robyn
  - Sinclair, Andrea
  - Singler, Sherri
@@ -164,12 +165,10 @@ vs:
  - Smith, Stacey
  - Snyder, Jane
  - Strong, Heather
- - Strong, Helen
  - Strong, Laura
  - Thevenot, Kara
  - Thomas-Kennell, Noelle
  - Titheridge, Lindsay
- - Tran, Brittany
  - Trombley, Christy
  - Udle, Teri
  - Van Osch, Kesa
@@ -177,5 +176,6 @@ vs:
  - Walsh, Jenna
  - Wark, Sarah
  - Weagle, Lisa
+ - Whitaker, Carol
  - Wylie, Jennifer
 ---

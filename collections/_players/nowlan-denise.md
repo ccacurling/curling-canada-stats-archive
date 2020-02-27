@@ -104,9 +104,9 @@ years:
    shots-total: 203
    shots-percent: 78
 vs:
+ - Affleck, Tricia
  - Aleksic, Shannon
  - Allen, Laurie
- - Allen, Michelle
  - Armstrong, Jacquie
  - Arnott, Janet
  - Arsenault, Mary-Anne
@@ -133,7 +133,6 @@ vs:
  - Clark, Stefanie
  - Clarke, Hayley
  - Comeau, Martine
- - Comstock, Melanie
  - Cormier, Sharon
  - Crouse, Jennifer
  - Cunningham, Cathy
@@ -151,6 +150,7 @@ vs:
  - Gagnier, Monique
  - Galusha, Kerry
  - Gatchell, Sara
+ - Gauthier, Cathy
  - George, Tara
  - Gilman, Sheena
  - Goss, Peg
@@ -188,6 +188,7 @@ vs:
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacInnes, Grace
+ - MacIntosh, Kelly
  - MacLean, Kari
  - MacPhee, Robyn
  - Makichuck, Lindsay
@@ -201,6 +202,7 @@ vs:
  - McKnight, Patti
  - Meakin, Breanne
  - Merklinger, Anne
+ - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
  - More, Whitney
@@ -222,7 +224,6 @@ vs:
  - Parsons, Danielle
  - Paul, Sarah
  - Phillips, Kristen
- - Pinkney, Colleen
  - Provencal, Darah
  - Rainville, Julie
  - Ramsay, Geri Lynn
@@ -239,6 +240,7 @@ vs:
  - Scott, Kelly
  - Sharpe, Kelli
  - Shigehiro, Sally
+ - Simons, Renee
  - Singler, Sherri
  - Sippala, Ashley
  - Skinner, Julie
@@ -255,8 +257,6 @@ vs:
  - Thurston, Jill
  - Udle, Teri
  - Vey, Lana
- - Weagle, Lisa
- - Webb, Corine
  - Webster, Bronwen
  - Westcott, Raunora
  - Wheatcroft, Georgina

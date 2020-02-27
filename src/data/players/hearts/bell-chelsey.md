@@ -84,9 +84,7 @@ vs:
  - Carrier, Julie
  - Carter, Sasha
  - Clark, Stefanie
- - Clark-Rouire, Jennifer
  - Comeau, Sandy
- - Comstock, Melanie
  - Crawford, Andrea
  - Cunningham, Cathy
  - Curtis, Stacie
@@ -130,7 +128,6 @@ vs:
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
  - McEwen, Dawn
- - Meakin, Breanne
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
@@ -145,6 +142,7 @@ vs:
  - O'Leary, Susan
  - Olson-Johns, Lori
  - Overton-Clapham, Cathy
+ - Parsons, Danielle
  - Paul, Sarah
  - Peters, Laine
  - Prosser, Sandi
@@ -171,6 +169,7 @@ vs:
  - Weagle, Lisa
  - Westcott, Raunora
  - Whitaker, Carol
+ - Wilson, Leslie
  - Yardley, Janelle
  - Zinck, Kay
 ---

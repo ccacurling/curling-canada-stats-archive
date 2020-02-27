@@ -89,11 +89,11 @@ vs:
  - Cameron, Nancy
  - Campbell, June
  - Carter, Sasha
- - Chapman, Kathy
  - Charette, France
  - Chaulk, Wendy
  - Comeau, Martine
  - Cormier, Sharon
+ - Cowan, Michele
  - Crawford, Andrea
  - Cunningham, Cathy
  - Daniel, Sylvie
@@ -143,6 +143,7 @@ vs:
  - Maitland, Donna
  - Mallett, Marla
  - Martin, Heather
+ - Mattatall, Mary
  - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McCusker, Joan
@@ -167,6 +168,7 @@ vs:
  - Porter, Debbie
  - Power, Judy
  - Radford, Helen
+ - Radford, Mary Sue
  - Rankin, Beth
  - Rankin, Heather
  - Ridalls, Kristen

@@ -36,7 +36,6 @@ years:
    shots-total: 220
    shots-percent: 74
 vs:
- - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Belisle, Eve
  - Cameron, Kate
@@ -55,7 +54,6 @@ vs:
  - Hill, Trish
  - Homan, Rachel
  - Hughes, Meaghan
- - Kleibrink, Shannon
  - Koehler, Megan
  - Lilly, Kendra
  - MacPhee, Robyn
@@ -63,8 +61,10 @@ vs:
  - Mann, Lauren
  - Mattatall, Mary
  - McCarville, Krista
+ - McEvoy, Julie
  - McQuaid, Michelle
  - Miskew, Emma
+ - Nedohin, Heather
  - Nixon, Amy
  - O'Rourke, Brittany
  - Peterman, Jocelyn

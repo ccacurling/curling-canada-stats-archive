@@ -54,7 +54,6 @@ vs:
  - Gallant, Kathie
  - Horne, Sharon
  - Jenkins, Sandra
- - Jurgenson, Christine
  - Keays, Stella
  - Kerr, Heather
  - Lang, Lorraine

@@ -36,4 +36,16 @@ years:
    shots-total: 52
    shots-percent: 73
 vs:
+ - Betker, Jan
+ - Birt, Suzanne
+ - Enright, Barb
+ - Gudereit, Marcia
+ - Linton, Sherry
+ - MacDonald, Rebecca Jean
+ - MacPhee, Robyn
+ - McCusker, Joan
+ - McInnis, Susan
+ - Robertson, Darcy
+ - Spencer, Barb
+ - Unrau, Faye
 ---

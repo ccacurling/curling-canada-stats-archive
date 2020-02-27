@@ -46,6 +46,7 @@ vs:
  - Boyle, Jane
  - Bradley, Shelly
  - Brown, Rachel
+ - Clark-Rouire, Jennifer
  - Collins, Katrina
  - Cooper, Kathryn
  - Courtney, Joanne
@@ -59,11 +60,13 @@ vs:
  - Jones, Jennifer
  - Kasner, Marliese
  - Korab, Stephanie
+ - Kreviazuk, Cheryl
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Mann, Lauren
  - McEwen, Dawn
  - McInnis, Susan
+ - McPherson, Cheryl
  - McQuaid, Michelle
  - Miskew, Emma
  - Officer, Jill
@@ -77,9 +80,7 @@ vs:
  - Strong, Heather
  - Sweeting, Val
  - Trombley, Christy
- - Vey, Lana
  - Walsh, Jenna
  - Weagle, Lisa
- - Wilkes, Sarah
  - Wylie, Jennifer
 ---

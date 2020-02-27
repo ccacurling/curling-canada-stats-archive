@@ -114,7 +114,6 @@ vs:
  - Pinsent, Barbara
  - Provo, Anne
  - Quinn, Lori
- - Raby, Linda
  - Raby, Odette
  - Reynolds, Lynn
  - Rose, Dorothy

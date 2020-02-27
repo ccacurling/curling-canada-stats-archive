@@ -43,5 +43,9 @@ years:
   takeout-percent: 
   shots-total: 14
   shots-percent: 82
-vs: 
+vs:
+- Camm, Mathew
+- Epping, John
+- Janssen, Patrick
+- March, Tim
 ---

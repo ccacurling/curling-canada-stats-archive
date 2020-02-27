@@ -101,6 +101,7 @@ vs:
 - Bradley, Shelly
 - Breen, Theresa
 - Brown, Janet
+- Brown, Maureen
 - Bryant, Angie
 - Cameron, Nancy
 - Charette, Agnes
@@ -122,7 +123,6 @@ vs:
 - Fowlie, Heather
 - Fraser, Sherry
 - Frey, Audrey
-- Funk, LaDawn
 - Gauthier, Cathy
 - Gervais, Donna
 - Gignac, Donna

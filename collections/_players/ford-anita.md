@@ -48,8 +48,8 @@ years:
    team: "CA"
    position: Alternate
 vs:
- - Aucoin, Shelley
- - Hensley, Merna
- - Lidgren, Anna
- - Putland, Rose
+ - Charette, Agnes
+ - Charette, France
+ - Daniel, Sylvie
+ - Osborne, Chantal
 ---

@@ -264,6 +264,7 @@ vs:
  - Allen, Susan
  - Anderson, Sherry
  - Armstrong, Jacquie
+ - Armstrong, Jennifer
  - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
  - Arseneau, Jane
@@ -286,15 +287,13 @@ vs:
  - Black, Christina
  - Blackburn, Julie
  - Blais, Amelie
- - Blaney, Jennifer
  - Blashko, Denise
- - Bodner, Jenine
  - Bohmer, Brenda
- - Boudreault, Patricia
  - Boyle, Jane
  - Bradley, Shelly
  - Brassard, Veronique
  - Brennan, Amanda
+ - Brine, Jenn
  - Brothers, Jill
  - Brown, Jacalyn
  - Brown, Janet
@@ -302,6 +301,7 @@ vs:
  - Burgess, Carey
  - Burlington, Cheryl
  - Bush, Tracy
+ - Cameron, Kate
  - Cameron, Nancy
  - Camozzi, Rhona
  - Campbell, Jolene
@@ -309,9 +309,9 @@ vs:
  - Carmody, Erin
  - Carrier, Julie
  - Carter, Sasha
+ - Charette, France
  - Cheveldave, Amber
  - Chisholm, Candace
- - Chislett, Geneva
  - Christianson, Marie
  - Clark, Stefanie
  - Clarke, Hayley
@@ -328,7 +328,6 @@ vs:
  - Cunningham, Jennifer
  - Cunningham, Jessica
  - Curtis, Stacie
- - Daigle, Julie
  - Daniel, Sylvie
  - Darbyshire, Carolyn
  - deJager, Blaine
@@ -358,6 +357,8 @@ vs:
  - Floyd, Kathy
  - Fortier, Marie-Josee
  - Fortin, Sylvie
+ - Forward, Katie
+ - Fraser, Sherry
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gagnier, Monique
@@ -372,7 +373,6 @@ vs:
  - Goss, Peg
  - Graham-MacDonald, Bea
  - Gregoire, Veronique
- - Griffin, Alison
  - Gudereit, Marcia
  - Gushulak, Diane
  - Guzzwell, Stephanie
@@ -394,11 +394,9 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
- - Hutchings, Denise
+ - Inglis, Danielle
  - Inglis, Nancy
- - Ingram, Megan
  - Iskiw, Beth
- - Jewer, Michelle
  - Johnston, Kara
  - Jones, Colleen
  - Joyce, Blisse
@@ -420,7 +418,6 @@ vs:
  - Lang, Lorraine
  - Larouche, Marie-France
  - Lavery, Tracey
- - Lavoie, Gabrielle
  - Law, Kelley
  - Lawes, Andrea
  - Lawton, Stefanie
@@ -457,7 +454,7 @@ vs:
  - McInnis, Susan
  - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meakin, Breanne
+ - Meilleur, Briane
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
@@ -471,7 +468,6 @@ vs:
  - Moses, Dawn
  - Muise, Morgan
  - Mulroney, Sandra
- - Munroe, Anna
  - Murphy, Jeanette
  - Murphy, Sarah
  - Muzika, Shelley
@@ -528,7 +524,6 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
- - Shackleton, Amie
  - Sharpe, Kelli
  - Shaw, Ladene
  - Shumay, Jill
@@ -544,6 +539,7 @@ vs:
  - Smith, Stacey
  - Snyder, Jane
  - Sobey, Lianne
+ - Sonnenberg, Renee
  - Spencer, Barb
  - Streifel, Tracy
  - Strong, Heather
@@ -575,7 +571,6 @@ vs:
  - Weagle, Lisa
  - Webster, Bronwen
  - Webster, Crystal
- - West, Christianne
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whitaker, Carol

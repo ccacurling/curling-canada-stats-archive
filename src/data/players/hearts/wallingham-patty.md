@@ -91,11 +91,14 @@ vs:
  - Homan, Rachel
  - Joyce, Blisse
  - Kasner, Marliese
+ - Knezevic, Patti
  - Kreviazuk, Alison
  - Kreviazuk, Lynn
  - Lawton, Stefanie
+ - LeDrew, Stephanie
  - MacDonald, Rebecca Jean
  - McDonald, Kristy
+ - Meakin, Breanne
  - Miskew, Emma
  - Nugent, Pamela
  - O'Rourke, Brittany
@@ -110,7 +113,7 @@ vs:
  - Strong, Laura
  - Sweeting, Val
  - Titheridge, Lindsay
+ - Tuck, Kim
  - Udle, Teri
- - Van Osch, Kesa
  - Weagle, Lisa
 ---

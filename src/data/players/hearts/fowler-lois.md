@@ -111,11 +111,14 @@ vs:
  - Campbell, June
  - Carlos, Marie-Claude
  - Cey, Naomi
+ - Charette, Agnes
+ - Charette, France
  - Comeau, Sandy
  - Cordina, Sheri
  - Cormier, Sharon
  - Cunningham, Cathy
  - Daku, Karen
+ - Daniel, Sylvie
  - Delahunt, Nancy
  - Dezura, Diane
  - Dorosz, Peggy
@@ -187,6 +190,7 @@ vs:
  - Nowlan, Denise
  - Ondrack, Wendy
  - O'Rourke, Kathy
+ - Osborne, Chantal
  - Overton-Clapham, Cathy
  - Pendergast, Judy
  - Perron, Leanne
@@ -216,11 +220,10 @@ vs:
  - Sutton, Jodie
  - Thomas, Karen
  - Thomas, Maria
+ - Train, Mona
  - Trowell, Cathy
  - Wall, Kirsten
- - Webb, Corine
  - Wheatcroft, Georgina
- - Whipple, Paula
  - Wieler, Bev
  - Willms, Karri
  - Wiltzen, Jan

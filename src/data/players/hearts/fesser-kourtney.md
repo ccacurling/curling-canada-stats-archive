@@ -37,48 +37,35 @@ years:
    shots-percent: 75
 vs:
  - Adams, Melissa
+ - Arnaud, Chloe
+ - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
  - Barbour, Shona
+ - Baxter, Jen
  - Birchard, Shannon
- - Chislett, Geneva
+ - Black, Christina
+ - Crouse, Jennifer
  - Duncan, Chelsea
- - Duncan, Hollie
  - Duncan, Jenna
  - Einarson, Kerri
  - Fleury, Tracy
- - Fullerton, Sarah
  - Fyfe, Liz
+ - Gagnon, Emilia
  - Galusha, Kerry
  - Gates, Amanda
- - Gibson, Amy
- - Hughes, Meaghan
- - Hutchings, Denise
- - Johnstone, Loralee
+ - Harvey, Marie-Pier
  - Jones, Jennifer
  - Koehler, Megan
  - Koltun, Sarah
- - Kreviazuk, Cheryl
- - LeDrew, Stephanie
  - Lister, Kendra
  - MacCuish, Kristin
- - MacPhee, Robyn
  - McEwen, Dawn
- - McQuaid, Michelle
- - McTaggart, Cary-Anne
- - Moore, Kristie
  - Njegovan, Selena
  - Officer, Jill
+ - Perron, Melina
  - Price, Kara
  - Robichaud, Sylvie
- - Sagle, Karen
- - Scheidegger, Casey
- - Scheidegger, Jessie
- - Shackleton, Amie
  - Smallwood, Jody
- - Van Osch, Kalia
- - Van Osch, Kesa
- - Van Osch, Marika
  - Webster, Crystal
- - West, Christianne
  - Wylie, Jennifer
 ---

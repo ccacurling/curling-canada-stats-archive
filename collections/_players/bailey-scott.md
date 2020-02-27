@@ -199,12 +199,12 @@ vs:
 - Elias, Dave
 - Elmaleh, Maxime
 - Engel, Ron
+- Fenton, Brad
 - Fenton, Darin
 - Fenton, Keith
 - Ferbey, Randy
 - Fetterly, Tom
 - Flemming, Paul
-- Forrest, Tyler
 - Fowler, Rob
 - Frans, Joseph
 - Freschi, Don
@@ -217,7 +217,6 @@ vs:
 - Grattan, James
 - Gretzinger, Bert
 - Griffith, Tyrel
-- Gunnlaugson, Jason
 - Gushue, Brad
 - Hackner, Al
 - Haichert, Chris
@@ -257,6 +256,7 @@ vs:
 - Landry, Garry
 - Langdon, Dennis
 - Laycock, Steve
+- Leech, Ron
 - Loevenmark, Phil
 - MacDonald, Blake
 - MacDonald, Brent
@@ -299,7 +299,9 @@ vs:
 - Ouimet, Luc
 - Park, Kerry
 - Park, Kevin
+- Park, Shane
 - Patterson, Scott
+- Peachey, Jay
 - Perroud, Pat
 - Pfeifer, Scott
 - Pielak, Rod
@@ -309,8 +311,8 @@ vs:
 - Powell, Lloyd
 - Ramcharan, Rudy
 - Rathje, Larry
+- Recksiedler, Kevin
 - Reed, Tom
-- Richter, Justin
 - Roberge, Francois
 - Rocque, Marcel
 - Rogers, Les
@@ -355,5 +357,4 @@ vs:
 - Wiersema, Dale
 - Withers, Paul
 - Wozniak, Matt
-- Zawada, Braden
 ---

@@ -36,18 +36,16 @@ years:
    shots-total: 178
    shots-percent: 72
 vs:
- - Arsenault, Mary-Anne
  - Belley, Joelle
  - Betker, Jan
  - Birt, Suzanne
  - Blackburn, Julie
  - Bohmer, Brenda
+ - Butler, Donna
  - Byers, Denise
  - Campbell, Gloria
- - Cormier, Sharon
  - Cunningham, Cathy
  - Currie, Wendy
- - Delahunt, Nancy
  - Dunn, Anne
  - Enright, Barb
  - Fister, Teri
@@ -57,10 +55,7 @@ vs:
  - Greening, Jackie-Rae
  - Gudereit, Marcia
  - Horne, Kate
- - Jones, Colleen
- - Kelly, Kim
  - Kerr, Kathy
- - Lange, Ann
  - Linton, Sherry
  - MacDonald, Rebecca Jean
  - MacNutt, Shelley
@@ -71,8 +66,6 @@ vs:
  - McConnery, Nancy
  - McCusker, Joan
  - McInnis, Susan
- - Moses, Dawn
- - Naugler, Tara
  - Pinkney, Colleen
  - Robertson, Darcy
  - Santos, Deb

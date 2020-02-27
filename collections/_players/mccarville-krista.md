@@ -194,7 +194,6 @@ vs:
 - Arsenault, Mary-Anne
 - Atkinson, Rebecca
 - Babin, Jillian
-- Baldwin, Nicole
 - Barbour, Shona
 - Barker, Penny
 - Belanger, Nancy
@@ -202,14 +201,14 @@ vs:
 - Bell, Chelsey
 - Bernard, Cheryl
 - Betker, Jan
-- Birnie, Hailey
 - Birt, Suzanne
-- Blais, Amelie
 - Blaney, Jennifer
 - Bobbie, Tess
 - Bodner, Jenine
 - Boudreault, Patricia
 - Boyle, Jane
+- Bradley, Shelly
+- Brine, Jenn
 - Brothers, Jill
 - Brown, Jacalyn
 - Brown, Rachel
@@ -221,6 +220,7 @@ vs:
 - Carey, Chelsea
 - Carmody, Erin
 - Carter, Sasha
+- Charette, France
 - Christianson, Marie
 - Clark, Stefanie
 - Clarke, Hayley
@@ -253,19 +253,17 @@ vs:
 - Eyamie, Lisa
 - Ferguson, Dana
 - Flaxey, Allison
+- Fleury, Tracy
 - Fullerton, Sarah
 - Fyfe, Liz
 - Gagnier, Monique
 - Galusha, Kerry
-- Georges, Kendra
 - Gilman, Sheena
 - Goss, Peg
 - Grandy, Clancy
 - Griffin, Alison
 - Gudereit, Marcia
 - Gushulak, Diane
-- Guzzwell, Stephanie
-- Hamilton, Beth
 - Hamon, Callan
 - Hanna, Jenn
 - Hanna, Stephanie
@@ -280,8 +278,6 @@ vs:
 - Hughes, Meaghan
 - Hunkin, Jessie
 - Inglis, Nancy
-- Ingram, Megan
-- Iskiw, Beth
 - Jewer, Michelle
 - Jones, Colleen
 - Jones, Jennifer
@@ -292,7 +288,6 @@ vs:
 - King, Cathy
 - Kleibrink, Shannon
 - Koehler, Megan
-- Koltun, Sarah
 - Kreviazuk, Lynn
 - Larouche, Marie-France
 - Lavery, Tracey
@@ -318,7 +313,6 @@ vs:
 - McCagg-Nystrom, Heather
 - McConnery, Nancy
 - McEwen, Dawn
-- McInnis, Susan
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
 - Miskew, Emma
@@ -327,6 +321,7 @@ vs:
 - Morgan, Cheryl
 - Morris, Cori
 - Moses, Dawn
+- Muise, Morgan
 - Munroe, Anna
 - Murphy, Jeanette
 - Murphy, Sarah
@@ -350,6 +345,7 @@ vs:
 - Peters, Laine
 - Phillips, Kristen
 - Pilote, Kristen
+- Pinksen, Sadie
 - Porter, Erin
 - Power, Marie-Anne
 - Preston, Sam
@@ -362,6 +358,7 @@ vs:
 - Ridalls, Kristen
 - Robertson, Darcy
 - Robichaud, Sylvie
+- Rocque, Raylene
 - Rogers, Rhonda
 - Rudulier, Andrea
 - Rusnell, Jen
@@ -377,7 +374,6 @@ vs:
 - Schraeder, Jeanna
 - Scott, Kelly
 - Sharpe, Kelli
-- Shaw, Ladene
 - Sicinski, Danielle
 - Silvernagle, Robyn
 - Simons, Renee
@@ -386,7 +382,6 @@ vs:
 - Spencer, Barb
 - Streifel, Tracy
 - Strong, Heather
-- Strong, Helen
 - Strong, Laura
 - Sweeting, Val
 - Tanner, Ros
@@ -396,7 +391,6 @@ vs:
 - Thompson, Karla
 - Thurston, Jill
 - Tippin, Julie
-- Tran, Brittany
 - Trickett, Erica
 - Udle, Teri
 - Vandale, Trysta

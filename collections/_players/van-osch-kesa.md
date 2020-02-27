@@ -53,53 +53,51 @@ years:
    shots-total: 198
    shots-percent: 72
 vs:
- - Adams, Melissa
  - Anderson, Sherry
- - Arsenault-Bishop, Nicole
+ - Arnaud, Chloe
+ - Arsenault, Mary-Anne
  - Atkinson, Rebecca
- - Barbour, Shona
+ - Baxter, Jen
  - Birchard, Shannon
+ - Black, Christina
  - Brothers, Jill
  - Brown, Rachel
+ - Cameron, Kate
  - Carey, Chelsea
  - Chislett, Geneva
  - Cooper, Kathryn
- - Cottrill, Katie
  - Courtney, Joanne
  - Crawford, Andrea
+ - Crouse, Jennifer
  - Cunningham, Jessica
+ - Curtis, Stacie
+ - Davies, Lisa
  - deSolla, Jodie
+ - Devereaux, Julie
  - Dolan, Kim
  - Dolan, Sinead
- - Duncan, Chelsea
  - Duncan, Hollie
- - Duncan, Jenna
  - Einarson, Kerri
+ - Englot, Michelle
  - Ferguson, Dana
- - Fesser, Kourtney
- - Fesser, Krista
  - Fleury, Tracy
  - Foster, Kristen
  - Fullerton, Sarah
  - Fyfe, Liz
- - Galusha, Kerry
+ - Gagnon, Emilia
  - Gannon, Melissa
  - Gates, Amanda
+ - Harvey, Marie-Pier
  - Homan, Rachel
  - Hughes, Meaghan
  - Hutchings, Denise
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese
- - Koehler, Megan
- - Koltun, Sarah
- - Korchinski, Karlee
  - Kreviazuk, Alison
  - Kreviazuk, Cheryl
- - Kreviazuk, Lynn
  - Lawton, Stefanie
  - LeDrew, Stephanie
- - Lister, Kendra
  - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacPhee, Robyn
@@ -111,31 +109,29 @@ vs:
  - Moore, Kristie
  - Njegovan, Selena
  - Nugent, Pamela
+ - O'Connor, Susan
  - Officer, Jill
- - O'Rourke, Brittany
  - Parsons, Danielle
- - Price, Kara
- - Robichaud, Sylvie
+ - Perron, Melina
+ - Porter, Erin
  - Robison, Michala
  - Ross, Allison
  - Sagle, Karen
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Shackleton, Amie
- - Sinclair, Andrea
  - Singler, Sherri
- - Sivertson, Dailene
- - Smallwood, Jody
  - Smith, Heather
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
  - Titheridge, Lindsay
- - Tuck, Kim
+ - Trickett, Erica
  - Udle, Teri
- - Wallingham, Patty
  - Weagle, Lisa
  - Webster, Crystal
  - West, Christianne
+ - Westcott, Raunora
+ - Wilson, Leslie
  - Wylie, Jennifer
 ---

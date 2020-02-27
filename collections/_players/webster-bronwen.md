@@ -119,8 +119,6 @@ vs:
 - Carrier, Julie
 - Carter, Sasha
 - Clark, Stefanie
-- Clark-Rouire, Jennifer
-- Comstock, Melanie
 - Cordina, Sheri
 - Crawford, Andrea
 - Cunningham, Cathy
@@ -173,7 +171,6 @@ vs:
 - McCagg-Nystrom, Heather
 - McCarville, Krista
 - McEwen, Dawn
-- Meakin, Breanne
 - Middaugh, Sherry
 - Miller, Wendy
 - Miskew, Emma
@@ -188,6 +185,7 @@ vs:
 - Officer, Jill
 - Olson-Johns, Lori
 - Overton-Clapham, Cathy
+- Parsons, Danielle
 - Paul, Sarah
 - Peters, Laine
 - Preston, Sam
@@ -218,5 +216,6 @@ vs:
 - Westcott, Raunora
 - Wheatcroft, Georgina
 - Whitaker, Carol
+- Wilson, Leslie
 - Yardley, Janelle
 ---

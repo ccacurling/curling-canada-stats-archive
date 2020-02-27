@@ -70,7 +70,6 @@ vs:
  - Crocker, Cindy
  - Cunningham, Cathy
  - Cutcliffe, Margaret
- - Dagg-Jackson, Elaine
  - Dauphinais, Josee
  - Dolan, Kim
  - Duck, Kim
@@ -124,6 +123,7 @@ vs:
  - Scott, Donna
  - Shields, Gail
  - Skinner, Julie
+ - Soligo, Melissa
  - Stewart, Sheri
  - Stokes, Debbie
  - Sutton, Jodie

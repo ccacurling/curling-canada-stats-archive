@@ -148,7 +148,6 @@ vs:
 - Frans, Joseph
 - Gagnon, Jean
 - Gardeski, Larry
-- Germsheid, Tony
 - Golanowski, Rory
 - Grattan, James
 - Gretzinger, Bert
@@ -191,6 +190,7 @@ vs:
 - Odishaw, Grant
 - Odishaw, Terry
 - Park, Kevin
+- Park, Shane
 - Perron, Rick
 - Pfeifer, Scott
 - Phillips, Tim

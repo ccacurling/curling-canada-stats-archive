@@ -70,55 +70,46 @@ years:
    shots-total: 134
    shots-percent: 84
 vs:
- - Adams, Melissa
  - Anderson, Sherry
  - Armstrong, Jacquie
  - Arsenault, Mary-Anne
- - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Babin, Jillian
- - Backe, Nicole
  - Barbour, Shona
  - Baxter, Jen
- - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
  - Boyle, Jane
  - Bradley, Shelly
  - Brown, Rachel
+ - Cameron, Kate
  - Cameron, Nancy
  - Camozzi, Rhona
+ - Campbell, Jolene
  - Carter, Sasha
- - Chislett, Geneva
  - Collins, Katrina
  - Cooper, Kathryn
  - Cormier, Sharon
  - Courtney, Joanne
  - Crawford, Andrea
+ - Crouse, Jennifer
  - Cunningham, Jennifer
  - Cunningham, Jessica
- - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
- - Duncan, Hollie
  - Duncan, Jenna
- - Einarson, Kerri
  - Englot, Michelle
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
  - Filteau, Anne-Marie
- - Fullerton, Sarah
- - Fyfe, Liz
  - Galusha, Kerry
  - Gibson, Amy
  - Hastings, Julie
  - Holland, Amber
  - Homan, Rachel
- - Hughes, Meaghan
- - Hutchings, Denise
  - Iskiw, Beth
  - Jones, Jennifer
  - Joyce, Blisse
@@ -129,27 +120,22 @@ vs:
  - Koltun, Sarah
  - Korab, Stephanie
  - Korchinski, Karlee
- - Kreviazuk, Cheryl
  - Larouche, Marie-France
  - Lawes, Kaitlyn
  - Lawton, Stefanie
- - LeDrew, Stephanie
- - Lister, Kendra
- - MacCuish, Kristin
  - MacDonald, Rebecca Jean
- - MacPhee, Robyn
  - Mair, Jessica
  - Mann, Lauren
  - Materi, Roberta
  - McEwen, Dawn
  - McInnis, Susan
  - McQuaid, Michelle
- - McTaggart, Cary-Anne
+ - Miller, Wendy
  - Miskew, Emma
- - Moore, Kristie
+ - Murphy, Jeanette
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
+ - Nixon, Amy
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Rourke, Brittany
@@ -160,14 +146,9 @@ vs:
  - Richard, Marie
  - Robichaud, Sylvie
  - Rusnell, Jen
- - Sagle, Karen
- - Scheidegger, Casey
- - Scheidegger, Jessie
  - Schmidt, Stephanie
  - Schneider, Kim
- - Schneider, Tammy
  - Scott, Kelly
- - Shackleton, Amie
  - Sivertson, Dailene
  - Slywka, Sarah
  - Smallwood, Jody
@@ -184,5 +165,7 @@ vs:
  - Van Osch, Marika
  - Vey, Lana
  - Weagle, Lisa
- - West, Christianne
+ - Westcott, Raunora
+ - Whitaker, Carol
+ - Wilson, Leslie
 ---

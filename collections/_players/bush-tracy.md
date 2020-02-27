@@ -60,6 +60,7 @@ vs:
  - Bell, Chelsey
  - Birt, Suzanne
  - Bradley, Shelly
+ - Brown, Marcie
  - Burgess, Carey
  - Cameron, Nancy
  - Carter, Sasha
@@ -76,7 +77,6 @@ vs:
  - Galusha, Kerry
  - Gauthier, Cathy
  - George, Tara
- - Hamilton, Beth
  - Hanna, Jenn
  - Hanna, Stephanie
  - Hardy, Shelley

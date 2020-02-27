@@ -53,48 +53,43 @@ years:
    shots-total: 233
    shots-percent: 89
 vs:
- - Adams, Melissa
- - Anderson, Sherry
- - Arsenault-Bishop, Nicole
+ - Arnaud, Chloe
+ - Arsenault, Mary-Anne
  - Atkinson, Rebecca
- - Barbour, Shona
+ - Baxter, Jen
  - Birchard, Shannon
  - Birt, Suzanne
- - Blais, Amelie
+ - Black, Christina
  - Boyle, Jane
+ - Brine, Jenn
  - Brothers, Jill
+ - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
  - Chislett, Geneva
  - Christianson, Marie
+ - Crouse, Jennifer
  - Curtis, Stacie
  - Devereaux, Julie
- - Dolan, Sinead
- - Duncan, Chelsea
- - Duncan, Jenna
  - Einarson, Kerri
- - Fesser, Kourtney
- - Fesser, Krista
+ - Englot, Michelle
  - Fleury, Tracy
  - Fullerton, Sarah
  - Fyfe, Liz
- - Galusha, Kerry
+ - Gagnon, Emilia
  - Gates, Amanda
  - Gibson, Amy
  - Hamon, Callan
+ - Harvey, Marie-Pier
  - Howard, Ashley
  - Hughes, Meaghan
  - Hutchings, Denise
  - Jones, Jennifer
- - Joyce, Blisse
- - Koehler, Megan
- - Koltun, Sarah
- - Korchinski, Karlee
  - Larouche, Marie-France
  - Lavery, Tracey
  - Lawes, Kaitlyn
+ - Lemay, Annie
  - Lilly, Kendra
- - Lister, Kendra
  - MacCuish, Kristin
  - MacPhee, Robyn
  - McCarville, Krista
@@ -107,11 +102,11 @@ vs:
  - Nicholls, Brenda
  - Nixon, Amy
  - Officer, Jill
+ - Perron, Melina
  - Peterman, Jocelyn
  - Peters, Laine
  - Porter, Erin
  - Potts, Sarah
- - Price, Kara
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
@@ -120,16 +115,18 @@ vs:
  - Scheidegger, Jessie
  - Shackleton, Amie
  - Sippala, Ashley
- - Smallwood, Jody
  - Thompson, Karla
+ - Trickett, Erica
  - Udle, Teri
  - Vandale, Trysta
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
  - Vautour, Carrie
+ - Walsh, Jenna
  - Webster, Crystal
  - West, Christianne
+ - Westcott, Raunora
  - Williamson, Ashley
- - Wylie, Jennifer
+ - Wilson, Leslie
 ---

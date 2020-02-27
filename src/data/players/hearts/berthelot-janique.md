@@ -80,6 +80,7 @@ vs:
  - Dolan, Kim
  - Farrell, Allison
  - Floyd, Kathy
+ - Frey, Audrey
  - Gellard, Kim
  - Hanlon, Heidi
  - Hatton, Sandra
@@ -96,7 +97,6 @@ vs:
  - MacCallum, Janice
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
- - McCrady, Christine
  - McDonald, Tina
  - McGregor, Rona
  - McKnight, Patti

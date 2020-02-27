@@ -52,10 +52,10 @@ vs:
  - Cunningham, Cathy
  - Delahunt, Nancy
  - Dezura, Diane
- - Dobson, Sue
  - Fowler, Lois
  - Gagnon, Karo
  - Gignac, Donna
+ - Gogan, Jennifer
  - Goss, Peg
  - Gregoire, Veronique
  - Gushulak, Diane

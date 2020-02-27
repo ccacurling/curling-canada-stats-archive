@@ -207,6 +207,7 @@ years:
   shots-percent: 82
 vs:
 - Affleck, Tricia
+- Alcoe-Holland, Jill
 - Aleksic, Shannon
 - Allen, Michelle
 - Anderson, Sherry
@@ -220,9 +221,11 @@ vs:
 - Babin, Jillian
 - Balderston, Marcy
 - Barbour, Shona
+- Barker, Penny
 - Baxter, Jen
 - Beauchamp, Sasha
 - Beever, Jocelyn
+- Belisle, Eve
 - Bernard, Krista
 - Berthelot, Janique
 - Betker, Jan
@@ -239,6 +242,7 @@ vs:
 - Bryant, Angie
 - Burlington, Cheryl
 - Byers, Denise
+- Cameron, Kate
 - Cameron, Nancy
 - Campbell, June
 - Carey, Chelsea
@@ -263,6 +267,7 @@ vs:
 - Devereaux, Julie
 - Dezura, Diane
 - Dobson, Sue
+- Doig, Deanna
 - Dolan, Kim
 - Dolan, Sinead
 - Dufresne, Audree
@@ -288,18 +293,21 @@ vs:
 - Gellard, Kim
 - Goring, Alison
 - Gudereit, Marcia
+- Gushulak, Diane
 - Hanlon, Heidi
 - Harvey, Alison
 - Harvey, Carol
 - Harvey, Janet
 - Hatton, Sandra
 - Henry, Lou Ann
+- Hill, Trish
 - Holland, Amber
 - Holtby, Taryn
 - Homan, Rachel
 - Hooper Perroud, Jane
 - Hopkins, Heather
 - Horte, Rhonda
+- Hughes, Meaghan
 - Johnston, Kara
 - Jones, Colleen
 - Jones, Jennifer
@@ -322,7 +330,6 @@ vs:
 - Lawes, Kaitlyn
 - Lawton, Stefanie
 - Leclerc, Valerie
-- LeDrew, Stephanie
 - Lemay, Annie
 - Lemire, Nancy
 - Lewis, Kristy
@@ -334,21 +341,26 @@ vs:
 - MacDougall, Leslie
 - MacInnes, Allison
 - MacLeod, Lisa
+- MacPhee, Robyn
 - Mallett, Marla
+- Mann, Lauren
 - Martin, Heather
 - Materi, Roberta
 - Mattatall, Mary
 - McCusker, Joan
 - McDonald, Kristy
 - McDonald, Tina
+- McEvoy, Julie
 - McEwen, Dawn
 - McInnis, Susan
 - McKnight, Patti
 - McNamee, Karen
+- McQuaid, Michelle
 - McTaggart, Cary-Anne
 - Merklinger, Anne
 - Merklinger, Lee
 - Middaugh, Sherry
+- Miller, Maureen
 - Miller, Wendy
 - Miskew, Emma
 - Moore, Kim
@@ -357,6 +369,7 @@ vs:
 - Moss, Debbie
 - Muzika, Shelley
 - Nicholls, Brenda
+- Nixon, Amy
 - O'Rourke, Brittany
 - O'Rourke, Kathy
 - Officer, Jill
@@ -365,29 +378,31 @@ vs:
 - Overton-Clapham, Cathy
 - Parsons, Danielle
 - Pasika, Rona
-- Penkala, Sandra
+- Peterman, Jocelyn
 - Peters, Laine
 - Phillips, Laura
 - Phillips, Margaret Lea
 - Porter, Erin
 - Power, Marie-Anne
 - Radford, Helen
-- Recksiedler, Kristen
 - Renouf, Michele
 - Richards, Brette
 - Rizzo, Jo-Ann
 - Ross, Allison
 - Sabourin, Joelle
 - Sanders, Pat
+- Saulnier, Andrea
 - Scales, Julie
 - Schikowski, Keri-Lynn
 - Schmirler, Sandra
 - Schneider, Kim
+- Schneider, Lorraine
 - Schneider, Tammy
 - Schraeder, Jeanna
 - Scott, Kelly
 - Sharpe, Kelli
 - Shumay, Jill
+- Sicinski, Danielle
 - Singler, Sherri
 - Sivertson, Dailene
 - Skinner, Julie
@@ -402,10 +417,9 @@ vs:
 - Sweeting, Val
 - Tanner, Allison
 - Thomas, Karen
-- Thomas-Kennell, Noelle
-- Thurston, Jill
 - Tincher, Twyla
 - Titheridge, Lindsay
+- Trickett, Erica
 - Trowell, Cathy
 - Tucker, Cindy
 - Udle, Teri
@@ -415,8 +429,10 @@ vs:
 - Wasylkiw, Lauren
 - Wazney, Sarah
 - Weagle, Lisa
+- Westcott, Raunora
 - Wheatcroft, Georgina
 - Whitrow, Leanne
+- Wilson, Leslie
 - Wiltzen, Jan
 - Wright, Susan
 - Wylie, Jennifer

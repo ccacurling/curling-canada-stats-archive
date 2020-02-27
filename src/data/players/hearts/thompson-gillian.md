@@ -59,6 +59,7 @@ vs:
  - Barker, Catherine
  - Bartlett, Sue Anne
  - Bennett, Connie
+ - Blair, Diane
  - Bodogh, Marilyn
  - Boudreault, Tracie
  - Bussieres, Helene
@@ -73,7 +74,6 @@ vs:
  - Currie, Barbara
  - Currie, Wendy
  - Deschatelets, Guylaine
- - Dickeson, Debbi
  - Donald, Grace
  - Dwyer, Patricia
  - Emond, Muriel

@@ -53,4 +53,55 @@ years:
    shots-total: 131
    shots-percent: 80
 vs:
+ - Birt, Suzanne
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Boudreault, Patricia
+ - Brown, Rachel
+ - Campbell, Jolene
+ - Carey, Chelsea
+ - Christianson, Marie
+ - Courtney, Joanne
+ - Daigle, Julie
+ - Einarson, Kerri
+ - Ferguson, Dana
+ - Fleury, Tracy
+ - Fyfe, Liz
+ - Gates, Jenny
+ - Griffin, Alison
+ - Hamon, Callan
+ - Hanna, Jenn
+ - Hanna, Stephanie
+ - Homan, Rachel
+ - Howard, Ashley
+ - Hughes, Meaghan
+ - Jones, Jennifer
+ - Kreviazuk, Cheryl
+ - Lavoie, Gabrielle
+ - Lawes, Kaitlyn
+ - Lilly, Kendra
+ - MacCuish, Kristin
+ - MacPhee, Robyn
+ - McCarville, Krista
+ - McEwen, Dawn
+ - Meilleur, Briane
+ - Miskew, Emma
+ - Munroe, Anna
+ - Njegovan, Selena
+ - Nixon, Amy
+ - O'Connor, Susan
+ - Officer, Jill
+ - O'Neill, Brit
+ - Peterman, Jocelyn
+ - Peters, Laine
+ - Pilote, Kristen
+ - Pinksen, Sadie
+ - Potts, Sarah
+ - Rusnell, Jen
+ - Sagle, Karen
+ - Sandwith, Carley
+ - Wark, Sarah
+ - Weagle, Lisa
+ - Wilkes, Sarah
+ - Williamson, Ashley
 ---

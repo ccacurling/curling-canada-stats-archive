@@ -76,7 +76,11 @@ years:
   shots-percent: 100
 vs:
 - Blanchard, Wade
+- Dacey, Mark
 - Dobson, Mark
 - Dobson, Paul
+- Gibson, Andrew
+- Harris, Rob
+- Lohnes, Bruce
 - Porter, Geoff
 ---

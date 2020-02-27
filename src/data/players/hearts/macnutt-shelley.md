@@ -36,7 +36,6 @@ years:
    shots-total: 216
    shots-percent: 69
 vs:
- - Arsenault, Mary-Anne
  - Belley, Joelle
  - Betker, Jan
  - Birt, Suzanne
@@ -74,6 +73,7 @@ vs:
  - McInnis, Susan
  - Moses, Dawn
  - Naugler, Tara
+ - Peters, Laine
  - Robertson, Darcy
  - Santos, Deb
  - Spencer, Barb

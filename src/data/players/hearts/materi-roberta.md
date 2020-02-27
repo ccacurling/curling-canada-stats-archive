@@ -87,8 +87,8 @@ vs:
  - Brennan, Amanda
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Marcie
  - Cameron, Nancy
+ - Campbell, Jolene
  - Carrier, Julie
  - Carter, Sasha
  - Clark, Stefanie
@@ -115,14 +115,12 @@ vs:
  - Holland, Amber
  - Holowec, Ainsley
  - Iskiw, Beth
- - Jenkins, Sandra
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kelly, Kim
  - Kleibrink, Shannon
- - Koehler, Megan
  - Korab, Stephanie
  - Larouche, Marie-France
  - Law, Kelley
@@ -141,13 +139,14 @@ vs:
  - McEwen, Dawn
  - McNamee, Karen
  - Middaugh, Sherry
+ - Miller, Wendy
  - Moore, Kim
- - Moses, Dawn
  - Nedohin, Heather
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
  - Officer, Jill
+ - O'Leary, Susan
  - Overton-Clapham, Cathy
  - Parsons, Danielle
  - Peters, Laine
@@ -158,21 +157,18 @@ vs:
  - Sabourin, Joelle
  - Sandison, Janice
  - Schneider, Kim
- - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
  - Simons, Renee
  - Sivertson, Dailene
  - Skinner, Julie
  - Smith, Heather
- - Smith, Nikki
  - Sonnenberg, Renee
  - Stabel, Stacey
  - Strong, Heather
  - Strong, Laura
  - Surik, Teejay
  - Tasaka, Adina
- - Thomas-Kennell, Noelle
  - Thompson, Karla
  - Udle, Teri
  - Wall, Kirsten

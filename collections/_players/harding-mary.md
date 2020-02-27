@@ -82,59 +82,35 @@ years:
    position: Alternate
 vs:
  - Adams, Diane
- - Affleck, Tricia
  - Alexander, Diane
  - Allardyce, Kathie
- - Arsenault, Mary-Anne
+ - Aleksic, Shannon
  - Aucoin, Shelley
- - Baker, Michelle
- - Balderston, Marcy
  - Betker, Jan
- - Bowman, Mary
- - Bradley, Shelly
- - Brown, Janet
  - Brown, Katie
- - Brown, Maureen
  - Cameron, Nancy
- - Charette, Agnes
- - Cordina, Sheri
  - Cunningham, Cathy
- - Delahunt, Nancy
- - Dezura, Diane
+ - Davis, Brandee
  - Ellwood, Laurie
- - Galusha, Kerry
  - Goring, Alison
  - Graham-MacDonald, Bea
  - Greening, Jackie-Rae
  - Gudereit, Marcia
- - Gushulak, Diane
- - Harvey, Alison
  - Hensley, Merna
- - Holowec, Ainsley
- - Horne, Kate
  - Houston, Heather
  - Jones, Colleen
  - Kelly, Kim
  - Kerr, Kathy
- - King, Cathy
  - Lang, Lorraine
- - Law, Kelley
  - Lawes, Andrea
  - Lidgren, Anna
- - MacCallum, Janice
- - MacDougall, Leslie
  - Mattatall, Mary
- - McCagg-Nystrom, Heather
- - McCrady, Christine
  - McCurdy, Susan
  - McCusker, Joan
- - McDonald, Tina
- - McNamee, Karen
- - Merklinger, Anne
- - Middaugh, Sherry
+ - McHugh, Cindy
+ - McPherson, Cheryl
  - Miller, Maureen
  - Moss, Debbie
- - O'Leary, Susan
  - Ondrack, Wendy
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
@@ -143,25 +119,18 @@ vs:
  - Pross, Margaret
  - Pushkar, Diane
  - Putland, Rose
- - Radchenka, Tammy
  - Roberts, Angela
- - Sandison, Janice
  - Santos, Deb
  - Schmirler, Sandra
- - Shields, Deanne
  - Skinner, Julie
  - Soligo, Melissa
- - Sonnenberg, Renee
- - Stabel, Stacey
- - Strong, Heather
- - Strong, Laura
+ - Street, Cindy
  - Sutton, Jodie
+ - Tanner, Allison
  - Thomas, Maria
  - Tincher, Twyla
  - Turcotte, Kristin
  - Usher, Leanne
- - Wheatcroft, Georgina
  - Willms, Karri
  - Wright, Susan
- - Young, Karen
 ---

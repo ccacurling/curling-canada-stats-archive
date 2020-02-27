@@ -72,18 +72,17 @@ years:
 vs:
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
+ - Armstrong, Jennifer
  - Atkinson, Rebecca
+ - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
  - Barker, Penny
  - Belisle, Eve
  - Birnie, Hailey
  - Birt, Suzanne
- - Blais, Amelie
- - Blaney, Jennifer
- - Bodner, Jenine
- - Boudreault, Patricia
  - Boyle, Jane
+ - Brine, Jenn
  - Brothers, Jill
  - Brown, Rachel
  - Cameron, Kate
@@ -92,9 +91,9 @@ vs:
  - Christianson, Marie
  - Cormier, Sharon
  - Courtney, Joanne
+ - Crawford, Andrea
  - Curtis, Stacie
  - Cutcliffe, Margaret
- - Daigle, Julie
  - deJager, Blaine
  - Derry, Danielle
  - Devereaux, Julie
@@ -103,13 +102,11 @@ vs:
  - Englot, Michelle
  - Eyamie, Lisa
  - Ferguson, Dana
+ - Forward, Katie
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Jenny
- - Griffin, Alison
- - Guzzwell, Stephanie
- - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
@@ -118,17 +115,12 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
- - Ingram, Megan
- - Jewer, Michelle
  - Jones, Jennifer
- - Joyce, Blisse
- - Kasner, Marliese
  - Kleibrink, Shannon
  - Koehler, Megan
  - Koltun, Sarah
  - Larouche, Marie-France
  - Lavery, Tracey
- - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lemay, Annie
@@ -142,8 +134,8 @@ vs:
  - McEwen, Dawn
  - McQuaid, Michelle
  - Miskew, Emma
- - Munroe, Anna
  - Murphy, Sarah
+ - Nedohin, Heather
  - Njegovan, Selena
  - Nicholls, Brenda
  - Officer, Jill
@@ -152,6 +144,7 @@ vs:
  - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
+ - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
@@ -161,7 +154,6 @@ vs:
  - Sandwith, Carley
  - Saulnier, Andrea
  - Schneider, Lorraine
- - Sharpe, Kelli
  - Shaw, Ladene
  - Sicinski, Danielle
  - Silvernagle, Robyn

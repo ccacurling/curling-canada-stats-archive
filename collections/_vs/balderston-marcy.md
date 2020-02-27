@@ -1862,7 +1862,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 67
+        percent: 91
         wins: 1
         losses: 0
    games:
@@ -1874,8 +1874,8 @@ vs:
         loss: 1
       player2:
         team: 'ON'
-        position: Second
-        percent: 67
+        position: Lead
+        percent: 91
         win: 1
         loss: 0
       event: Hearts

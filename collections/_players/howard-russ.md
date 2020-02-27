@@ -648,6 +648,7 @@ vs:
 - Packet, Jim
 - Park, Kerry
 - Park, Kevin
+- Park, Shane
 - Paslawski, Pat
 - Patterson, Scott
 - Peachey, Jay
@@ -727,7 +728,6 @@ vs:
 - Somers, Grant
 - Sparkes, Bernie
 - Spicer, Grant
-- Stambaugh, Doug
 - Stearne, Kelly
 - Steski, John
 - Steventon, Lawren

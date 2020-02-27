@@ -65,7 +65,6 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Gould, Steve
- - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
@@ -100,6 +99,7 @@ vs:
  - Rycroft, Carter
  - Samagalski, Derek
  - Savill, Craig
+ - Sawatsky, Rick
  - Schneider, Catlin
  - Stoughton, Jeff
  - Thiessen, Brad

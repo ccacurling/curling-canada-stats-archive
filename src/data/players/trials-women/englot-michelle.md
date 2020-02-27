@@ -63,7 +63,6 @@ vs:
  - Brown, Janet
  - Brown, Rachel
  - Carey, Chelsea
- - Clark-Rouire, Jennifer
  - Cordina, Sheri
  - Court, Morgan
  - Courtney, Joanne
@@ -84,6 +83,7 @@ vs:
  - Homan, Rachel
  - Horne, Kate
  - Jones, Colleen
+ - Jones, Jennifer
  - Jurgenson, Christine
  - Kelly, Kim
  - King, Cathy

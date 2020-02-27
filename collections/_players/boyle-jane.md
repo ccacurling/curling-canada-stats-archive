@@ -103,18 +103,22 @@ vs:
  - Camozzi, Rhona
  - Campbell, Jolene
  - Carey, Chelsea
+ - Chenier, Courtney
+ - Cheveldave, Amber
  - Christianson, Marie
+ - Clark-Rouire, Jennifer
  - Collins, Katrina
  - Cooper, Kathryn
  - Courtney, Joanne
  - Cunningham, Jessica
  - Curtis, Stacie
+ - deJager, Blaine
  - Devereaux, Julie
+ - Dykstra, Michelle
  - Einarson, Kerri
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Fleury, Tracy
- - Foster, Kristen
  - Fyfe, Liz
  - Gates, Amanda
  - Hamon, Callan
@@ -133,17 +137,17 @@ vs:
  - Lavery, Tracey
  - Lawes, Kaitlyn
  - Lawton, Stefanie
+ - Lemay, Annie
  - Lilly, Kendra
  - MacCuish, Kristin
  - MacPhee, Robyn
  - Mann, Lauren
  - McCarville, Krista
- - McDonald, Kristy
  - McEwen, Dawn
  - McInnis, Susan
  - McQuaid, Michelle
- - Meakin, Breanne
  - Miskew, Emma
+ - Moore, Kristie
  - Murphy, Sarah
  - Njegovan, Selena
  - Nicholls, Brenda
@@ -163,18 +167,21 @@ vs:
  - Sagle, Karen
  - Schmidt, Stephanie
  - Sippala, Ashley
+ - Smith, Heather
  - Smith, Stacey
  - Snyder, Jane
  - Strong, Heather
+ - Strong, Laura
  - Sweeting, Val
  - Thompson, Karla
- - Titheridge, Lindsay
  - Trombley, Christy
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie
+ - Vey, Lana
  - Walsh, Jenna
  - Weagle, Lisa
+ - Wilkes, Sarah
  - Williamson, Ashley
  - Wylie, Jennifer
 ---

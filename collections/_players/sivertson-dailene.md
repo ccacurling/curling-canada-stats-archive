@@ -121,14 +121,13 @@ years:
 vs:
  - Atkinson, Rebecca
  - Babin, Jillian
- - Baier, Stephanie
  - Barbour, Shona
  - Blais, Amelie
- - Brothers, Jill
  - Cameron, Nancy
  - Cormier, Sharon
  - Crawford, Andrea
  - Cunningham, Jennifer
+ - Davies, Lisa
  - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
@@ -136,13 +135,13 @@ vs:
  - Filteau, Anne-Marie
  - Fleury, Tracy
  - Galusha, Kerry
+ - Gannon, Melissa
  - Gates, Amanda
  - Holland, Amber
  - Iskiw, Beth
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
- - Knezevic, Patti
  - Koehler, Megan
  - Korab, Stephanie
  - Larouche, Marie-France
@@ -154,12 +153,12 @@ vs:
  - Murphy, Jeanette
  - Nedohin, Heather
  - Nicholls, Brenda
+ - Nugent, Pamela
  - Officer, Jill
  - Parsons, Danielle
  - Peters, Laine
- - Sanderson, Jessie
- - Sandwith, Carley
- - Schmidt, Stephanie
+ - Robison, Michala
+ - Ross, Allison
  - Schneider, Kim
  - Schneider, Tammy
  - Slywka, Sarah
@@ -167,7 +166,6 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Udle, Teri
- - Van Osch, Kesa
  - Vey, Lana
  - Walsh, Jenna
  - Wylie, Jennifer

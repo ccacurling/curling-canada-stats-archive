@@ -163,6 +163,7 @@ vs:
 - Bell, Allyson
 - Bernard, Cheryl
 - Betker, Jan
+- Blair, Diane
 - Blanchard, Judy
 - Bohmer, Brenda
 - Bonar, Maureen
@@ -192,7 +193,6 @@ vs:
 - Daniel, Sylvie
 - Dauphinais, Josee
 - Delahunt, Nancy
-- Dickeson, Debbi
 - Dolan, Kim
 - Donald, Grace
 - Dorosz, Peggy
@@ -314,12 +314,12 @@ vs:
 - Thompson, May
 - Thurston, Jill
 - Tousignant, Helene
+- Train, Mona
 - Treloar, Cathy
 - Unrau, Faye
 - Walter, Cathy
 - Werenka, Lil
 - Wheatcroft, Georgina
-- Whipple, Paula
 - Wieler, Bev
 - Zielke, Colleen
 - Zinck, Kay

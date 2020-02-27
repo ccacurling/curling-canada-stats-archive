@@ -191,7 +191,6 @@ vs:
 - Sylvain, Eric
 - Thiessen, Brad
 - Thiessen, Nolan
-- Thomas, Charley
 - Trepanier, Jean-Francois
 - Walker, Geoff
 - Watson, Aaron

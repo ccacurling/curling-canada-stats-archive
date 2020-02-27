@@ -37,20 +37,24 @@ years:
    shots-percent: 74
 vs:
  - Affleck, Tricia
+ - Aleksic, Shannon
  - Armstrong, Jacquie
  - Babin, Jillian
  - Belisle, Eve
+ - Campbell, Jolene
  - Carmody, Erin
  - Carter, Sasha
- - Charette, France
+ - Clark-Rouire, Jennifer
  - Comeau, Martine
  - Crawford, Andrea
  - Crouse, Jennifer
  - Einarson, Megan
  - George, Tara
  - Gilman, Sheena
- - Jewer, Michelle
+ - Hardy, Shelley
+ - Holland, Amber
  - Jones, Jennifer
+ - Kalenchuk, Heather
  - LeDrew, Stephanie
  - Lemon, Colette
  - MacLean, Kari
@@ -68,6 +72,8 @@ vs:
  - Rainville, Julie
  - Ramsay, Geri Lynn
  - Rogers, Rhonda
+ - Schneider, Kim
+ - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sippala, Ashley

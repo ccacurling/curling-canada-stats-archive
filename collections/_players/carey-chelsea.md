@@ -141,22 +141,20 @@ vs:
 - Armstrong, Leigh
 - Atkinson, Rebecca
 - Baier, Stephanie
-- Baldwin, Nicole
-- Barbour, Shona
 - Barker, Penny
 - Belisle, Eve
-- Birnie, Hailey
 - Birt, Suzanne
-- Blais, Amelie
 - Blaney, Jennifer
 - Bobbie, Tess
 - Bodner, Jenine
 - Boudreault, Patricia
 - Boyle, Jane
+- Brine, Jenn
 - Brothers, Jill
 - Brown, Rachel
 - Cameron, Kate
 - Campbell, Jolene
+- Carmody, Erin
 - Christianson, Marie
 - Cooper, Kathryn
 - Cormier, Sharon
@@ -168,6 +166,7 @@ vs:
 - Curtis, Stacie
 - Cutcliffe, Margaret
 - Daigle, Julie
+- Davies, Lisa
 - deJager, Blaine
 - Derry, Danielle
 - deSolla, Jodie
@@ -182,6 +181,7 @@ vs:
 - Eyamie, Lisa
 - Ferguson, Dana
 - Flaxey, Allison
+- Fleury, Tracy
 - Fullerton, Sarah
 - Fyfe, Liz
 - Galusha, Kerry
@@ -189,8 +189,6 @@ vs:
 - Gates, Jenny
 - Grandy, Clancy
 - Griffin, Alison
-- Guzzwell, Stephanie
-- Hamilton, Beth
 - Hamon, Callan
 - Hanna, Jenn
 - Hanna, Stephanie
@@ -201,7 +199,6 @@ vs:
 - Hunkin, Jessie
 - Ingram, Megan
 - Iskiw, Beth
-- Jewer, Michelle
 - Jones, Jennifer
 - Joyce, Blisse
 - Kasner, Marliese
@@ -248,8 +245,10 @@ vs:
 - Peterman, Jocelyn
 - Peters, Laine
 - Pilote, Kristen
+- Pinksen, Sadie
 - Porter, Erin
 - Potts, Sarah
+- Rainville, Julie
 - Recksiedler, Kristen
 - Richard, Marie
 - Richards, Brette
@@ -265,8 +264,6 @@ vs:
 - Scheidegger, Casey
 - Scheidegger, Jessie
 - Schneider, Lorraine
-- Sharpe, Kelli
-- Shaw, Ladene
 - Sicinski, Danielle
 - Silvernagle, Robyn
 - Sinclair, Andrea
@@ -275,14 +272,12 @@ vs:
 - Smith, Heather
 - Sonnenberg, Renee
 - Strong, Heather
-- Strong, Helen
 - Strong, Laura
 - Sweeting, Val
 - Thevenot, Kara
 - Thiessen, Alison
 - Thompson, Karla
 - Tippin, Julie
-- Tran, Brittany
 - Trickett, Erica
 - Udle, Teri
 - Van Osch, Kesa

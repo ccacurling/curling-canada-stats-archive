@@ -104,16 +104,19 @@ years:
    shots-percent: 69
 vs:
  - Aleksic, Shannon
- - Allen, Michelle
  - Arnott, Janet
  - Arsenault, Mary-Anne
+ - Baldwin, Nicole
  - Belanger, Nancy
  - Bell, Chelsey
  - Bernard, Cheryl
  - Betker, Jan
  - Brennan, Amanda
  - Brothers, Jill
+ - Brown, Rachel
+ - Carrier, Julie
  - Carter, Sasha
+ - Chenier, Courtney
  - Clarke, Hayley
  - Comeau, Sandy
  - Cunningham, Cathy
@@ -122,15 +125,16 @@ vs:
  - Delahunt, Nancy
  - Derick, Catherine
  - Englot, Michelle
+ - Ferguson, Dana
+ - Fleury, Tracy
  - Gagnier, Monique
  - Galusha, Kerry
+ - Gates, Amanda
  - George, Tara
  - Goss, Peg
- - Grenier, Valerie
  - Gudereit, Marcia
  - Hardy, Shelley
  - Harmark, Andra
- - Harrison, Meredith
  - Inglis, Nancy
  - Jones, Jennifer
  - Kelly, Kim
@@ -142,6 +146,7 @@ vs:
  - Lemay, Annie
  - MacInnes, Allison
  - Materi, Roberta
+ - Mattatall, Mary
  - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McEwen, Dawn
@@ -151,31 +156,38 @@ vs:
  - Morris, Cori
  - Moses, Dawn
  - Murphy, Jeanette
+ - Nicholson, Danielle
  - Nixon, Amy
  - Nowlan, Denise
  - O'Connor, Susan
  - Officer, Jill
  - O'Leary, Susan
+ - Olson-Johns, Lori
  - Osborne, Chantal
  - Overton-Clapham, Cathy
  - Peters, Laine
  - Power, Marie-Anne
  - Provencal, Darah
+ - Richard, Marie
+ - Robichaud, Sylvie
  - Sabourin, Joelle
  - Schraeder, Jeanna
  - Scott, Kelly
- - Sharpe, Kelli
  - Simmons, Cindy
  - Simons, Renee
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
  - Surik, Teejay
+ - Sweeting, Val
  - Thompson, Karla
  - Udle, Teri
  - Vey, Lana
  - Wall, Kirsten
+ - Walsh, Jenna
  - Webster, Bronwen
  - Wheatcroft, Georgina
+ - Wilkes, Sarah
+ - Wylie, Jennifer
  - Yardley, Janelle
 ---

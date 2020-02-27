@@ -105,87 +105,87 @@ years:
 vs:
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
- - Baldwin, Nicole
- - Barbour, Shona
+ - Anderson, Sherry
+ - Atkinson, Rebecca
  - Barker, Penny
  - Belisle, Eve
- - Birnie, Hailey
  - Birt, Suzanne
+ - Blais, Amelie
  - Blaney, Jennifer
  - Bodner, Jenine
  - Boudreault, Patricia
+ - Boyle, Jane
+ - Brine, Jenn
+ - Brothers, Jill
  - Cameron, Kate
- - Camozzi, Rhona
  - Carey, Chelsea
+ - Carmody, Erin
  - Christianson, Marie
- - Cooper, Kathryn
  - Cormier, Sharon
  - Courtney, Joanne
- - Cunningham, Jessica
  - Curtis, Stacie
- - Cutcliffe, Margaret
  - Daigle, Julie
  - deJager, Blaine
  - Derry, Danielle
  - Devereaux, Julie
  - Doig, Deanna
  - Englot, Michelle
+ - Filteau, Anne-Marie
+ - Fleury, Tracy
  - Fullerton, Sarah
+ - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Jenny
  - Griffin, Alison
- - Guzzwell, Stephanie
- - Hamilton, Beth
  - Hill, Trish
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Ingram, Megan
- - Jewer, Michelle
  - Jones, Jennifer
- - Knezevic, Patti
+ - Kasner, Marliese
  - Koehler, Megan
- - Koltun, Sarah
- - Korab, Stephanie
  - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
+ - MacCuish, Kristin
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
  - Mattatall, Mary
  - McCarville, Krista
+ - McEvoy, Julie
  - McEwen, Dawn
  - McQuaid, Michelle
  - Miskew, Emma
  - Munroe, Anna
+ - Murphy, Sarah
+ - Njegovan, Selena
  - Nixon, Amy
  - O'Rourke, Brittany
  - Peterman, Jocelyn
  - Peters, Laine
  - Pilote, Kristen
+ - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
- - Recksiedler, Kristen
+ - Richard, Marie
  - Richards, Brette
+ - Robichaud, Sylvie
  - Rusnell, Jen
  - Sandwith, Carley
  - Saulnier, Andrea
+ - Schmidt, Stephanie
  - Schneider, Lorraine
- - Sharpe, Kelli
- - Shaw, Ladene
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley
- - Strong, Heather
- - Strong, Helen
  - Thevenot, Kara
- - Thomas-Kennell, Noelle
- - Tran, Brittany
  - Trickett, Erica
  - Wark, Sarah
  - Weagle, Lisa
  - Westcott, Raunora
+ - Whitaker, Carol
  - Wilson, Leslie
 ---

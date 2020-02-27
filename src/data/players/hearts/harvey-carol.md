@@ -47,7 +47,6 @@ vs:
  - Cormier, Sharon
  - Cunningham, Cathy
  - Daniel, Sylvie
- - Delahunt, Nancy
  - Dolan, Kim
  - Eddy, Lori
  - Floyd, Kathy
@@ -70,6 +69,7 @@ vs:
  - MacDonald, Rebecca Jean
  - Mallett, Marla
  - Martin, Heather
+ - Mattatall, Mary
  - McCusker, Joan
  - Moore, Kim
  - Moss, Debbie

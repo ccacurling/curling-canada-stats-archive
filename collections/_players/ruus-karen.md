@@ -79,8 +79,8 @@ vs:
  - Rainville, Julie
  - Scott, Donna
  - Shephard, Wendy
+ - Snider, Shelly
  - Train, Mona
- - Whipple, Paula
  - Wieler, Bev
  - Zielke, Colleen
  - Zinck, Kay

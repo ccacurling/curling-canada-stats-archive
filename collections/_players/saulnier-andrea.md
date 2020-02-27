@@ -39,7 +39,6 @@ vs:
  - Aleksic, Shannon
  - Barker, Penny
  - Belisle, Eve
- - Cameron, Kate
  - Carey, Chelsea
  - Cormier, Sharon
  - Courtney, Joanne
@@ -48,22 +47,22 @@ vs:
  - Derry, Danielle
  - Devereaux, Julie
  - Doig, Deanna
- - Englot, Michelle
  - Eyamie, Lisa
  - Fullerton, Sarah
  - Galusha, Kerry
  - Hill, Trish
  - Homan, Rachel
  - Hughes, Meaghan
- - Kleibrink, Shannon
  - Koehler, Megan
  - Lilly, Kendra
+ - MacDonald, Rebecca Jean
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
  - McCarville, Krista
  - McQuaid, Michelle
  - Miskew, Emma
+ - Nedohin, Heather
  - Nixon, Amy
  - O'Rourke, Brittany
  - Peterman, Jocelyn
@@ -77,7 +76,5 @@ vs:
  - Thiessen, Alison
  - Trickett, Erica
  - Weagle, Lisa
- - Westcott, Raunora
  - Wilkes, Sarah
- - Wilson, Leslie
 ---

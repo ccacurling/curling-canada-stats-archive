@@ -255,10 +255,12 @@ vs:
 - Delahunt, Nancy
 - Deschatelets, Guylaine
 - Dobson, Sue
+- Dolan, Kim
 - Earl, Allison
 - Ellwood, Laurie
 - Englot, Michelle
 - Fahlman, Kathy
+- Farrell, Allison
 - Floyd, Kathy
 - Fowler, Lois
 - Fowler, Rhonda
@@ -270,7 +272,6 @@ vs:
 - Gatchell, Sara
 - Gauthier, Cathy
 - Gignac, Donna
-- Girard, Sylvie
 - Goring, Alison
 - Graham-MacDonald, Bea
 - Green, Sue
@@ -315,6 +316,7 @@ vs:
 - Leclerc, Valerie
 - Lemay, Annie
 - Lidgren, Anna
+- MacAulay, Marion
 - MacCallum, Janice
 - MacDonald, Lawnie
 - MacDonald, Shelley
@@ -344,7 +346,6 @@ vs:
 - Moss, Debbie
 - Mulroney, Sandra
 - Nedohin, Heather
-- Nichols, Helen
 - Nowlan, Denise
 - O'Leary, Susan
 - O'Rourke, Kathy
@@ -356,6 +357,7 @@ vs:
 - Phillips, Laura
 - Phillips, Margaret Lea
 - Poisson, Francine
+- Porter, Debbie
 - Power, Marie-Anne
 - Proctor, Jill
 - Pross, Margaret
@@ -374,6 +376,7 @@ vs:
 - Sandison, Janice
 - Santos, Deb
 - Sauer, Cathy
+- Scales, Julie
 - Schmirler, Sandra
 - Sharpe, Kelli
 - Sherrington, Barb
@@ -392,7 +395,6 @@ vs:
 - Tasaka, Adina
 - Thomas, Karen
 - Thomas, Maria
-- Thurston, Jill
 - Todd, Fran
 - Turcotte, Kristin
 - Usher, Leanne

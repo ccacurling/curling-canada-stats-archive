@@ -46,7 +46,6 @@ vs:
  - Ferguson, Dana
  - Homan, Rachel
  - Jones, Jennifer
- - Kreviazuk, Cheryl
  - Lawes, Kaitlyn
  - Lilly, Kendra
  - McCarville, Krista

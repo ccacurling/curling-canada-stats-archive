@@ -46,7 +46,6 @@ vs:
  - Clarke, Betty
  - Currie, Ann
  - Currie, Barbara
- - Currie, Wendy
  - Deschatelets, Guylaine
  - Earl, Allison
  - Flesjer, Melody
@@ -55,8 +54,6 @@ vs:
  - Haspect, Ginette
  - Howse, Lillian
  - James, Elizabeth
- - Jones, Colleen
- - Jones-Gordon, Barb
  - Jones-Walker, Debbie
  - Kane, Cynthia
  - Kaylo, Kelly
@@ -67,7 +64,6 @@ vs:
  - Miller, Maureen
  - Moore, Linda
  - More, Chris
- - Moriarty, Monica
  - Noye, Marnie
  - Raby, Odette
  - Roland, Mavis

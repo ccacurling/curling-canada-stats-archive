@@ -87,19 +87,23 @@ years:
    shots-total: 129
    shots-percent: 75
 vs:
+ - Affleck, Tricia
  - Armstrong, Jacquie
+ - Arnott, Janet
+ - Baldwin, Nicole
  - Barbour, Shona
  - Belisle, Eve
  - Bell, Chelsey
+ - Birnie, Hailey
  - Birt, Suzanne
  - Blais, Amelie
  - Bradley, Shelly
  - Brassard, Veronique
- - Cameron, Nancy
  - Carmody, Erin
  - Carter, Sasha
+ - Christianson, Marie
+ - Clark-Rouire, Jennifer
  - Comeau, Martine
- - Comstock, Melanie
  - Cormier, Sharon
  - Crouse, Jennifer
  - Cunningham, Jennifer
@@ -112,31 +116,37 @@ vs:
  - Fallis, Karen
  - Filteau, Anne-Marie
  - Fleury, Tracy
- - Fraser, Sherry
  - Galusha, Kerry
  - Gates, Amanda
  - George, Tara
  - Gilman, Sheena
  - Gregoire, Veronique
  - Guzzwell, Stephanie
+ - Hamilton, Beth
  - Hardy, Shelley
  - Holland, Amber
  - Homan, Rachel
+ - Hughes, Meaghan
+ - Hunkin, Jessie
  - Iskiw, Beth
+ - Jewer, Michelle
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kleibrink, Shannon
  - Koehler, Megan
+ - Koltun, Sarah
  - Korab, Stephanie
  - Kreviazuk, Alison
  - Larouche, Marie-France
  - Lawes, Kaitlyn
+ - Lawton, Stefanie
  - LeDrew, Stephanie
  - Lemay, Annie
  - Lemon, Colette
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
+ - MacIntosh, Kelly
  - MacLean, Kari
  - MacPhee, Robyn
  - Mair, Jessica
@@ -146,7 +156,9 @@ vs:
  - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
+ - McQuaid, Michelle
  - Meakin, Breanne
+ - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
  - More, Whitney
@@ -160,28 +172,35 @@ vs:
  - Overton-Clapham, Cathy
  - Parsons, Danielle
  - Paul, Sarah
+ - Peterman, Jocelyn
  - Peters, Laine
  - Phillips, Kristen
  - Rainville, Julie
  - Ramsay, Geri Lynn
+ - Robison, Michala
  - Rogers, Rhonda
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
+ - Shaw, Ladene
+ - Silvernagle, Robyn
  - Sippala, Ashley
  - Sivertson, Dailene
  - Slywka, Sarah
  - Smith, Heather
  - Strong, Heather
+ - Strong, Helen
  - Strong, Laura
  - Sweeting, Val
+ - Thevenot, Kara
  - Thomas, Jill
  - Thurston, Jill
+ - Tran, Brittany
  - Udle, Teri
  - Vey, Lana
  - Walsh, Jenna
- - Weagle, Lisa
  - Webster, Bronwen
  - Westcott, Raunora
  - Wilson, Leslie

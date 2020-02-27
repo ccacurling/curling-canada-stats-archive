@@ -59,12 +59,12 @@ years:
 vs:
  - Affleck, Tricia
  - Allen, Michelle
- - Arnott, Janet
  - Arsenault, Mary-Anne
  - Belisle, Eve
  - Bell, Chelsey
  - Birt, Suzanne
  - Bradley, Shelly
+ - Brown, Marcie
  - Burgess, Carey
  - Cameron, Nancy
  - Carter, Sasha
@@ -80,7 +80,7 @@ vs:
  - Gagnier, Monique
  - Galusha, Kerry
  - Gauthier, Cathy
- - Hamilton, Beth
+ - George, Tara
  - Hanna, Jenn
  - Hanna, Stephanie
  - Hardy, Shelley
@@ -88,10 +88,9 @@ vs:
  - Hollands, Saskia
  - Jones, Colleen
  - Jones, Jennifer
- - Jones-Walker, Debbie
  - Kasner, Marliese
  - Kelly, Kim
- - Laliberte, Connie
+ - Lang, Lorraine
  - Lawton, Stefanie
  - Leger, Stacey
  - Letendre, Pascale
@@ -101,6 +100,7 @@ vs:
  - MacPhee, Robyn
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
+ - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
  - Mittelstadt, Candice
@@ -123,6 +123,7 @@ vs:
  - Streifel, Tracy
  - Strong, Heather
  - Strong, Laura
+ - Stubbings, Tiffany
  - Tanner, Ros
  - Thurston, Jill
  - Wheatcroft, Georgina

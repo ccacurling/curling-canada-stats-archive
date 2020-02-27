@@ -92,36 +92,36 @@ vs:
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Arseneau, Jane
+ - Atkinson, Rebecca
  - Bakker, Glenys
+ - Barbour, Shona
  - Belanger, Nancy
  - Bernard, Cheryl
  - Betker, Jan
  - Birt, Suzanne
- - Blanchard, Judy
  - Boily, Caroline
  - Bonar, Maureen
+ - Bradley, Shelly
  - Brown, Maureen
- - Cheveldave, Amber
  - Cooke, Gerri
  - Cordina, Sheri
- - Cormier, Sharon
  - Crawford, Andrea
  - Crispo, Guylaine
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Darbyshire, Carolyn
- - deJager, Blaine
  - Delahunt, Nancy
  - Derick, Catherine
  - deSolla, Jodie
+ - Dobson, Sue
  - Dolan, Kim
- - Dykstra, Michelle
  - Enright, Barb
  - Fisher, Alana
  - Floyd, Kathy
  - Fowler, Lois
  - Fraser, Sherry
  - Freeman, Lisa
+ - Fullerton, Sarah
  - Gagnon, Karo
  - Galusha, Kerry
  - Gauthier, Cathy
@@ -133,12 +133,9 @@ vs:
  - Gregoire, Veronique
  - Gudereit, Marcia
  - Hanlon, Heidi
- - Harding, Mary
  - Harris, Susan
  - Harrison, Meredith
- - Henry, Lou Ann
  - Hodson, Kim
- - Homan, Rachel
  - Horne, Kate
  - Hunter, Lana
  - Iskiw, Beth
@@ -154,23 +151,25 @@ vs:
  - Kerr, Kathy
  - King, Cathy
  - Kleibrink, Shannon
- - Koehler, Megan
- - Kreviazuk, Alison
  - Kyle, Linda
  - Laliberte, Connie
  - Lang, Lorraine
  - Larouche, Marie-France
  - Law, Kelley
  - Lawes, Andrea
+ - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Leblanc, Lisa
  - Lemay, Annie
  - Lowther, Tammi
  - MacAulay, Marion
  - MacCallum, Janice
+ - MacCuish, Kristin
  - MacDonald, Rebecca Jean
+ - MacDougall, Leslie
  - MacLean, Kari
  - MacPhee, Robyn
+ - Mair, Jessica
  - Mallett, Marla
  - Marchand, Stephanie
  - Martin, Heather
@@ -182,20 +181,19 @@ vs:
  - McEwen, Dawn
  - McInnis, Susan
  - Middaugh, Sherry
- - Miller, Wendy
- - Miskew, Emma
  - Montgomery, Kay
- - Moore, Kristie
  - Morris, Cori
  - Moses, Dawn
  - Moss, Debbie
  - Mulroney, Sandra
  - Muzika, Shelley
+ - Nedohin, Heather
  - Nixon, Amy
  - Nowlan, Denise
  - O'Connor, Susan
  - Officer, Jill
  - Overton-Clapham, Cathy
+ - Parsons, Danielle
  - Peters, Laine
  - Phillips, Laura
  - Richards, Brette
@@ -206,10 +204,8 @@ vs:
  - Singler, Sherri
  - Smith, Heather
  - Sobey, Lianne
- - Sonnenberg, Renee
  - Spencer, Barb
  - Stabel, Stacey
- - Stewart, Allyson
  - Stewart, Sheri
  - Stokes, Debbie
  - Strong, Heather
@@ -217,5 +213,4 @@ vs:
  - Thomas, Jill
  - Vey, Lana
  - Wall, Kirsten
- - Weagle, Lisa
 ---

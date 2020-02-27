@@ -37,7 +37,6 @@ years:
    shots-percent: 72
 vs:
  - Aleksic, Shannon
- - Barker, Penny
  - Belisle, Eve
  - Cameron, Kate
  - Carey, Chelsea
@@ -47,7 +46,6 @@ vs:
  - deJager, Blaine
  - Derry, Danielle
  - Devereaux, Julie
- - Doig, Deanna
  - Englot, Michelle
  - Eyamie, Lisa
  - Fullerton, Sarah
@@ -55,15 +53,17 @@ vs:
  - Hill, Trish
  - Homan, Rachel
  - Hughes, Meaghan
- - Kleibrink, Shannon
+ - Karwacki, Krysten
  - Koehler, Megan
  - Lilly, Kendra
+ - MacDonald, Rebecca Jean
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
  - McCarville, Krista
  - McQuaid, Michelle
  - Miskew, Emma
+ - Nedohin, Heather
  - Nixon, Amy
  - O'Rourke, Brittany
  - Peterman, Jocelyn
@@ -71,8 +71,6 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Richards, Brette
- - Schneider, Lorraine
- - Sicinski, Danielle
  - Sippala, Ashley
  - Thiessen, Alison
  - Trickett, Erica

@@ -138,6 +138,7 @@ vs:
  - Charette, France
  - Clarke, Betty
  - Comeau, Sandy
+ - Cooke, Gerri
  - Cordina, Sheri
  - Couling, Betty
  - Cunningham, Cathy
@@ -155,6 +156,7 @@ vs:
  - Fallis-Kurz, Lynn
  - Farrell, Allison
  - Floyd, Kathy
+ - Ford, Atina
  - Fortin, Sylvie
  - Fowler, Lois
  - Fowler, Rhonda
@@ -180,7 +182,6 @@ vs:
  - Harvey, Janet
  - Haspect, Ginette
  - Henry, Lou Ann
- - Herbert, Candide
  - Hodson, Kim
  - Hooper Perroud, Jane
  - Hopkins, Heather
@@ -266,7 +267,6 @@ vs:
  - Todd, Fran
  - Trider, Krista
  - Trowell, Cathy
- - Turcotte, Kristin
  - Webb, Corine
  - Willms, Karri
  - Wiltzen, Jan

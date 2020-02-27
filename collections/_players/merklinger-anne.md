@@ -179,6 +179,7 @@ vs:
 - Fowler, Sharon
 - Fraser, Sherry
 - Gagnon, Nathalie
+- Galusha, Kerry
 - Garvey, Sue
 - Gatchell, Sara
 - Gauthier, Cathy
@@ -189,7 +190,6 @@ vs:
 - Goring, Alison
 - Gudereit, Marcia
 - Hanlon, Heidi
-- Harding, Mary
 - Hatton, Sandra
 - Hooper, Jane
 - Hopkins, Heather

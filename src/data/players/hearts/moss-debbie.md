@@ -97,6 +97,7 @@ vs:
  - Arseneau, Jane
  - Bakker, Glenys
  - Balderston, Marcy
+ - Beddington, Shalegh
  - Bell, Allyson
  - Berthelot, Janique
  - Betker, Jan
@@ -122,19 +123,21 @@ vs:
  - Davis, Brandee
  - Delahunt, Nancy
  - Dezura, Diane
- - Dobson, Sue
  - Dolan, Kim
  - Eddy, Lori
  - Farrell, Allison
  - Floyd, Kathy
+ - Ford, Atina
  - Fowler, Lois
  - Fowler, Rhonda
  - Fraser, Sherry
+ - Frey, Audrey
  - Gagnon, Karo
  - Gatchell, Sara
  - Gauthier, Cathy
  - Gellard, Kim
  - Gignac, Donna
+ - Gogan, Jennifer
  - Goring, Alison
  - Goss, Peg
  - Gregoire, Veronique
@@ -200,7 +203,6 @@ vs:
  - Roberts, Angela
  - Ross, Allison
  - Sabourin, Joelle
- - Sanders, Pat
  - Schmirler, Sandra
  - Sharpe, Kelli
  - Shigehiro, Sally
@@ -214,9 +216,7 @@ vs:
  - Sutton, Jodie
  - Tanner, Allison
  - Thomas, Maria
- - Thurston, Jill
  - Tucker, Cindy
- - Turcotte, Kristin
  - Wall, Kirsten
  - Wheatcroft, Georgina
  - Willms, Karri

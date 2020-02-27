@@ -48,8 +48,6 @@ vs:
  - Bonar, Maureen
  - Busche, Jodi
  - Cey, Naomi
- - Charette, Agnes
- - Charette, France
  - Cooke, Gerri
  - Cunningham, Cathy
  - Delahunt, Nancy
@@ -58,7 +56,6 @@ vs:
  - Garnett, Lorelei
  - Gauthier, Cathy
  - Gellard, Kim
- - Girard, Sylvie
  - Hooper Perroud, Jane
  - Hutton, Barb
  - Jones, Colleen
@@ -77,14 +74,13 @@ vs:
  - Nicholls, Brenda
  - Nohr, Dianne
  - O'Rourke, Kathy
- - Osborne, Chantal
  - Overton-Clapham, Cathy
  - Phillips, Laura
  - Rainville, Julie
  - Scott, Donna
  - Shephard, Wendy
+ - Snider, Shelly
  - Train, Mona
- - Whipple, Paula
  - Wieler, Bev
  - Zielke, Colleen
  - Zinck, Kay

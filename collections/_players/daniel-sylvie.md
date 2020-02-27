@@ -112,7 +112,9 @@ vs:
  - Arseneau, Jane
  - Aucoin, Shelley
  - Baker, Rose-Marie
+ - Baldwin, Nicole
  - Barrette, Peggy
+ - Bartlett, Sue Anne
  - Bell, Allyson
  - Bernard, Cheryl
  - Betker, Jan
@@ -128,25 +130,32 @@ vs:
  - Breen, Theresa
  - Brophy, Cathy
  - Brothers, Jill
+ - Brown, Marcie
  - Bryant, Angie
  - Cameron, Nancy
  - Campbell, June
  - Carter, Sasha
  - Clark, Kim
- - Clark, Stefanie
  - Clarke, Hayley
+ - Combden, Cathy
  - Comeau, Sandy
- - Cooke, Gerri
  - Copeland, Rae Ann
  - Cormier, Sharon
  - Cunningham, Cathy
+ - Dagg-Jackson, Elaine
  - Dalio, Diane
  - Darbyshire, Carolyn
  - Delahunt, Nancy
  - Dolan, Kim
+ - Dolan, Sinead
+ - Earl, Allison
  - Eddy, Lori
+ - Englot, Michelle
+ - Fahlman, Kathy
  - Flannigan, Lorraine
  - Floyd, Kathy
+ - Ford, Anita
+ - Fowler, Lois
  - Fowler, Rhonda
  - Fraser, Sherry
  - Frey, Audrey
@@ -163,7 +172,6 @@ vs:
  - Gudereit, Marcia
  - Hanlon, Heidi
  - Hardy, Shelley
- - Harrison, Meredith
  - Harvey, Alison
  - Harvey, Carol
  - Harvey, Janet
@@ -178,6 +186,8 @@ vs:
  - Jones-Walker, Debbie
  - Jurgenson, Christine
  - Kaylo, Kelly
+ - Kehler, Lorie
+ - Kellerman, Bev
  - Kelly, Kim
  - Kennedy, Tracy
  - Kerr, Kathy
@@ -188,7 +198,6 @@ vs:
  - Law, Kelley
  - Lawrence, Margaret
  - Leblanc, Lisa
- - Linton, Sherry
  - MacAulay, Marion
  - MacCallum, Janice
  - MacDonald, Rebecca Jean
@@ -208,7 +217,6 @@ vs:
  - Merklinger, Anne
  - Montgomery, Kay
  - Moore, Kim
- - Moriarty, Monica
  - Morris, Cori
  - Moses, Dawn
  - Moss, Debbie
@@ -224,6 +232,7 @@ vs:
  - Palinkas, Gloria
  - Perron, Leanne
  - Phillips, Laura
+ - Porter, Debbie
  - Power, Marie-Anne
  - Provencal, Darah
  - Purdy, Karen
@@ -236,13 +245,14 @@ vs:
  - Schmirler, Sandra
  - Schraeder, Jeanna
  - Scott, Kelly
- - Sharpe, Kelli
+ - Sherrington, Barb
  - Shigehiro, Sally
  - Simons, Renee
  - Skinner, Julie
  - Soligo, Melissa
  - Stewart, Sheri
  - Stokes, Debbie
+ - Stricker, Joan
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany

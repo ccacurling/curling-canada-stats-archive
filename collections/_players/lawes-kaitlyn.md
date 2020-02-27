@@ -171,8 +171,10 @@ years:
 vs:
 - Anderson, Sherry
 - Armstrong, Jacquie
+- Armstrong, Jennifer
 - Armstrong, Leigh
 - Arsenault, Mary-Anne
+- Arsenault-Bishop, Nicole
 - Atkinson, Rebecca
 - Ayrey, Jinaye
 - Babin, Jillian
@@ -185,13 +187,11 @@ vs:
 - Birt, Suzanne
 - Black, Christina
 - Blais, Amelie
-- Blaney, Jennifer
 - Bobbie, Tess
-- Bodner, Jenine
-- Boudreault, Patricia
 - Boyle, Jane
 - Bradley, Shelly
 - Brassard, Veronique
+- Brine, Jenn
 - Brothers, Jill
 - Brown, Rachel
 - Cameron, Kate
@@ -212,7 +212,6 @@ vs:
 - Cunningham, Jennifer
 - Cunningham, Jessica
 - Curtis, Stacie
-- Daigle, Julie
 - deJager, Blaine
 - deSolla, Jodie
 - Devereaux, Julie
@@ -228,7 +227,9 @@ vs:
 - Filteau, Anne-Marie
 - Flaxey, Allison
 - Fleury, Tracy
+- Forward, Katie
 - Foster, Kristen
+- Fraser, Sherry
 - Fullerton, Sarah
 - Fyfe, Liz
 - Galusha, Kerry
@@ -236,7 +237,7 @@ vs:
 - Gates, Jenny
 - Grandy, Clancy
 - Gregoire, Veronique
-- Griffin, Alison
+- Gushulak, Diane
 - Guzzwell, Stephanie
 - Hamilton, Beth
 - Hamon, Callan
@@ -249,9 +250,7 @@ vs:
 - Howard, Ashley
 - Hughes, Meaghan
 - Hunkin, Jessie
-- Ingram, Megan
 - Iskiw, Beth
-- Jewer, Michelle
 - Johnston, Kara
 - Jones, Colleen
 - Joyce, Blisse
@@ -267,7 +266,6 @@ vs:
 - Kreviazuk, Lynn
 - Larouche, Marie-France
 - Lavery, Tracey
-- Lavoie, Gabrielle
 - Lawton, Stefanie
 - Lemay, Annie
 - Lilly, Kendra
@@ -281,7 +279,6 @@ vs:
 - Martin, Heather
 - Materi, Roberta
 - McCarville, Krista
-- McDonald, Kristy
 - McInnis, Susan
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
@@ -292,14 +289,13 @@ vs:
 - Miskew, Emma
 - Moore, Kristie
 - Moses, Dawn
-- Munroe, Anna
+- Murphy, Jeanette
 - Murphy, Sarah
 - Nedohin, Heather
 - Nicholls, Brenda
 - Nixon, Amy
 - Njegovan, Selena
 - Nowlan, Denise
-- O'Connor, Susan
 - O'Neill, Brit
 - O'Rourke, Brittany
 - Olson-Johns, Lori
@@ -362,7 +358,6 @@ vs:
 - Wazney, Sarah
 - Weagle, Lisa
 - Webster, Bronwen
-- Webster, Crystal
 - Westcott, Raunora
 - Wilkes, Sarah
 - Williamson, Ashley

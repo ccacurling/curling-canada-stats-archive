@@ -40,4 +40,8 @@ years:
    team: "EPP"
    position: Alternate
 vs:
+ - Forrest, Tyler
+ - Gunnlaugson, Jason
+ - Richter, Justin
+ - Zawada, Braden
 ---

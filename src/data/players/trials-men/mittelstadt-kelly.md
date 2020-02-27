@@ -46,6 +46,7 @@ vs:
  - Gushue, Brad
  - Harris, Rob
  - Hart, Richard
+ - Holowaychuk, Dan
  - Howard, Glenn
  - Howard, Russ
  - Kennedy, Marc
@@ -64,7 +65,6 @@ vs:
  - Peachey, Jay
  - Pfeifer, Scott
  - Recksiedler, Kevin
- - Rocque, Marcel
  - Ryan, Pat
  - Rycroft, Carter
  - Savill, Craig

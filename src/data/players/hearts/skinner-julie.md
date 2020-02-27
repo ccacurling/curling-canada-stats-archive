@@ -177,6 +177,7 @@ vs:
  - Allardyce, Kathie
  - Allen, Laurie
  - Anderson, Kelly
+ - Anderson, Sherry
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Arseneau, Jane
@@ -219,10 +220,12 @@ vs:
  - Delahunt, Nancy
  - Deschatelets, Guylaine
  - Dobson, Sue
+ - Dolan, Kim
  - Earl, Allison
  - Ellwood, Laurie
  - Englot, Michelle
  - Fahlman, Kathy
+ - Farrell, Allison
  - Floyd, Kathy
  - Fowler, Lois
  - Fowler, Rhonda
@@ -231,7 +234,7 @@ vs:
  - Galusha, Kerry
  - Gatchell, Sara
  - Gauthier, Cathy
- - Girard, Sylvie
+ - Gignac, Donna
  - Goring, Alison
  - Graham-MacDonald, Bea
  - Green, Sue
@@ -244,6 +247,7 @@ vs:
  - Harvey, Alison
  - Hatton, Sandra
  - Hensley, Merna
+ - Hodson, Kim
  - Holowec, Ainsley
  - Horte, Rhonda
  - Houston, Heather
@@ -270,6 +274,7 @@ vs:
  - Leclerc, Valerie
  - Lemay, Annie
  - Lidgren, Anna
+ - MacAulay, Marion
  - MacCallum, Janice
  - MacDonald, Shelley
  - MacDougall, Leslie
@@ -294,8 +299,8 @@ vs:
  - Moriarty, Monica
  - Moses, Dawn
  - Moss, Debbie
+ - Mulroney, Sandra
  - Nedohin, Heather
- - Nichols, Helen
  - Nowlan, Denise
  - O'Leary, Susan
  - Ondrack, Wendy
@@ -307,6 +312,7 @@ vs:
  - Phillips, Laura
  - Phillips, Margaret Lea
  - Poisson, Francine
+ - Porter, Debbie
  - Power, Marie-Anne
  - Proctor, Jill
  - Pross, Margaret
@@ -325,6 +331,7 @@ vs:
  - Sandison, Janice
  - Santos, Deb
  - Sauer, Cathy
+ - Scales, Julie
  - Schmirler, Sandra
  - Sharpe, Kelli
  - Sherrington, Barb
@@ -343,7 +350,6 @@ vs:
  - Tasaka, Adina
  - Thomas, Karen
  - Thomas, Maria
- - Thurston, Jill
  - Todd, Fran
  - Turcotte, Kristin
  - Usher, Leanne

@@ -104,16 +104,21 @@ vs:
  - Carmody, Erin
  - Carter, Sasha
  - Clark, Stefanie
+ - Clark-Rouire, Jennifer
  - Clarke, Hayley
  - Comeau, Martine
  - Comeau, Sandy
+ - Cormier, Sharon
  - Crawford, Andrea
  - Crouse, Jennifer
  - Daniel, Sylvie
  - Darbyshire, Carolyn
  - Delahunt, Nancy
  - Derick, Catherine
+ - Derry, Danielle
  - deSolla, Jodie
+ - Einarson, Megan
+ - Ellis, Danielle
  - Gagnier, Monique
  - Galusha, Kerry
  - George, Tara
@@ -129,22 +134,27 @@ vs:
  - Kalenchuk, Heather
  - Kelly, Kim
  - King, Cathy
+ - Koehler, Megan
  - Lang, Lorraine
  - Law, Kelley
- - Linton, Sherry
  - Loder, Cherie-Ann
  - MacDiarmid, Kristen
  - MacLean, Kari
  - MacPhee, Robyn
+ - Makichuck, Lindsay
  - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McConnery, Nancy
+ - McEwen, Dawn
  - McInnis, Susan
+ - More, Whitney
  - Morgan, Cheryl
  - Morris, Cori
  - Moses, Dawn
  - Muise, Morgan
  - Murphy, Jeanette
+ - Naugler, Tara
+ - Nicholls, Brenda
  - Nowlan, Denise
  - Nugent, Pamela
  - O'Connor, Susan
@@ -156,6 +166,7 @@ vs:
  - Phillips, Kristen
  - Power, Marie-Anne
  - Provencal, Darah
+ - Rainville, Julie
  - Ramsay, Geri Lynn
  - Ridalls, Kristen
  - Rocque, Raylene
@@ -170,6 +181,7 @@ vs:
  - Sobey, Lianne
  - Streifel, Tracy
  - Stubbings, Tiffany
+ - Sweeting, Val
  - Tanner, Ros
  - Thomas, Jill
  - Thurston, Jill

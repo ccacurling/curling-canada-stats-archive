@@ -36,4 +36,20 @@ years:
    shots-total: 68
    shots-percent: 75
 vs:
+ - Bailey, Scott
+ - Engel, Ron
+ - Ferbey, Randy
+ - Gretzinger, Bert
+ - McCarrel, Graeme
+ - Mellof, David
+ - Middaugh, Wayne
+ - Nedohin, David
+ - Park, Kevin
+ - Park, Shane
+ - Pfeifer, Scott
+ - Rocque, Marcel
+ - Stambaugh, Doug
+ - Tetley, Ian
+ - Ursel, Bob
+ - Whittle, Mark
 ---

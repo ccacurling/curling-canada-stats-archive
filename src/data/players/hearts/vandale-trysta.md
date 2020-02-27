@@ -38,7 +38,6 @@ years:
 vs:
  - Atkinson, Rebecca
  - Birt, Suzanne
- - Blais, Amelie
  - Boyle, Jane
  - Brothers, Jill
  - Campbell, Jolene
@@ -63,16 +62,19 @@ vs:
  - MacPhee, Robyn
  - McCarville, Krista
  - McEwen, Dawn
+ - Meilleur, Briane
  - Murphy, Sarah
  - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - O'Connor, Susan
  - Officer, Jill
  - O'Neill, Brit
  - Peterman, Jocelyn
  - Peters, Laine
  - Porter, Erin
  - Potts, Sarah
+ - Rainville, Julie
  - Richard, Marie
  - Robichaud, Sylvie
  - Sagle, Karen

@@ -55,46 +55,82 @@ years:
 vs:
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
+ - Arnaud, Chloe
+ - Arsenault, Mary-Anne
  - Barker, Penny
+ - Baxter, Jen
  - Belisle, Eve
+ - Birchard, Shannon
+ - Black, Christina
  - Carey, Chelsea
  - Cormier, Sharon
  - Courtney, Joanne
+ - Crouse, Jennifer
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
  - Devereaux, Julie
  - Doig, Deanna
+ - Duncan, Hollie
+ - Einarson, Kerri
  - Eyamie, Lisa
+ - Fleury, Tracy
  - Fullerton, Sarah
+ - Fyfe, Liz
+ - Gagnon, Emilia
  - Galusha, Kerry
+ - Gates, Amanda
+ - Gibson, Amy
+ - Harvey, Marie-Pier
  - Hill, Trish
  - Homan, Rachel
  - Hughes, Meaghan
- - Kleibrink, Shannon
+ - Hutchings, Denise
+ - Jones, Jennifer
  - Koehler, Megan
+ - Kreviazuk, Cheryl
+ - LeDrew, Stephanie
  - Lilly, Kendra
+ - MacCuish, Kristin
+ - Mackey, Robyn
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
  - Mattatall, Mary
  - McCarville, Krista
+ - McEvoy, Julie
+ - McEwen, Dawn
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Miskew, Emma
+ - Moore, Kristie
+ - Nedohin, Heather
+ - Njegovan, Selena
  - Nixon, Amy
+ - Officer, Jill
  - O'Rourke, Brittany
+ - Perron, Melina
  - Peterman, Jocelyn
  - Peters, Laine
  - Porter, Erin
  - Potts, Sarah
  - Richards, Brette
- - Saulnier, Andrea
+ - Sagle, Karen
+ - Scheidegger, Casey
+ - Scheidegger, Jessie
  - Schneider, Lorraine
+ - Shackleton, Amie
  - Sicinski, Danielle
  - Sippala, Ashley
  - Thiessen, Alison
  - Trickett, Erica
+ - Van Osch, Kalia
+ - Van Osch, Kesa
+ - Van Osch, Marika
  - Weagle, Lisa
+ - Webster, Crystal
+ - West, Christianne
  - Wilkes, Sarah
+ - Wylie, Jennifer
 ---

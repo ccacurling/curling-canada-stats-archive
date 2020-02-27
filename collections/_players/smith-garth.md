@@ -129,6 +129,7 @@ vs:
 - Hart, Richard
 - Hebert, Ben
 - Howard, Glenn
+- Howard, Scott
 - Ireland, Clint
 - Kennedy, Marc
 - Kennedy, Mike
@@ -140,6 +141,7 @@ vs:
 - Martin, Kevin
 - Menard, Jean-Michel
 - Menard, Philippe
+- Middaugh, Wayne
 - Morris, John
 - Nichols, Mark
 - Noftall, David

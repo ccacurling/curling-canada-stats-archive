@@ -41,10 +41,10 @@ vs:
  - Allardyce, Kathie
  - Aucoin, Shelley
  - Betker, Jan
- - Brennan, Ellen
  - Cameron, Nancy
  - Cunningham, Cathy
  - Ellwood, Laurie
+ - Floyd, Kathy
  - Goring, Alison
  - Graham-MacDonald, Bea
  - Greening, Jackie-Rae

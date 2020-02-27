@@ -104,12 +104,12 @@ vs:
 - Anderson, Sherry
 - Arsenault, Mary-Anne
 - Bakker, Glenys
+- Barbour, Shona
 - Belanger, Nancy
 - Bell, Chelsey
 - Betker, Jan
 - Birt, Suzanne
 - Blanchard, Judy
-- Bohmer, Brenda
 - Bonar, Maureen
 - Brennan, Amanda
 - Carrier, Julie
@@ -135,7 +135,6 @@ vs:
 - Hanlon, Heidi
 - Harrison, Meredith
 - Hodson, Kim
-- Horne, Kate
 - Hunter, Lana
 - Iskiw, Beth
 - Jones, Colleen
@@ -145,14 +144,12 @@ vs:
 - Kerr, Kathy
 - Keshen, Christine
 - Kidd, Darlene
-- King, Cathy
 - Kleibrink, Shannon
 - Larouche, Marie-France
 - Lawton, Stefanie
 - Lemay, Annie
 - Linton, Sherry
 - MacCallum, Janice
-- MacDonald, Lawnie
 - MacInnes, Allison
 - MacPhee, Robyn
 - Marchand, Stephanie
@@ -163,7 +160,6 @@ vs:
 - McEwen, Dawn
 - McInnis, Susan
 - McPherson, Cheryl
-- Moses, Dawn
 - Moss, Debbie
 - Mulroney, Sandra
 - Nicholson, Danielle
@@ -176,7 +172,6 @@ vs:
 - Rizzo, Jo-Ann
 - Robichaud, Sylvie
 - Sabourin, Joelle
-- Sauder, Bobbie
 - Schraeder, Jeanna
 - Scott, Kelly
 - Simmons, Cindy

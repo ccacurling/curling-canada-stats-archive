@@ -70,6 +70,8 @@ years:
    shots-total: 234
    shots-percent: 89
 vs:
+ - Affleck, Tricia
+ - Aleksic, Shannon
  - Anderson, Sherry
  - Armstrong, Jacquie
  - Arsenault, Mary-Anne
@@ -101,7 +103,6 @@ vs:
  - deJager, Blaine
  - deSolla, Jodie
  - Dolan, Kim
- - Dolan, Sinead
  - Dufresne, Audree
  - Duncan, Chelsea
  - Dykstra, Michelle
@@ -113,11 +114,10 @@ vs:
  - Galusha, Kerry
  - Gannon, Melissa
  - Gregoire, Veronique
- - Gushulak, Diane
  - Guzzwell, Stephanie
- - Hersikorn, Patty
  - Holland, Amber
  - Holtby, Taryn
+ - Iskiw, Beth
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
@@ -136,12 +136,14 @@ vs:
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacPhee, Robyn
+ - Mair, Jessica
  - Martin, Heather
  - McDonald, Kristy
  - McEwen, Dawn
  - Miller, Wendy
  - Moore, Kristie
  - Moses, Dawn
+ - Nedohin, Heather
  - Nixon, Amy
  - Nowlan, Denise
  - Nugent, Pamela
@@ -150,12 +152,13 @@ vs:
  - Overton-Clapham, Cathy
  - Parsons, Danielle
  - Paul, Sarah
+ - Peters, Laine
  - Porter, Erin
+ - Reid, Jackie
  - Robison, Michala
  - Ross, Allison
  - Sanderson, Jessie
  - Sandwith, Carley
- - Schmidt, Stephanie
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
@@ -165,6 +168,7 @@ vs:
  - Singler, Sherri
  - Smith, Heather
  - Sobey, Lianne
+ - Sonnenberg, Renee
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val

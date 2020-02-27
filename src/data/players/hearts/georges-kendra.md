@@ -70,11 +70,12 @@ years:
    shots-percent: 100
 vs:
  - Crouse, Jennifer
- - George, Tara
+ - Einarson, Megan
  - Gilman, Sheena
- - MacLean, Kari
- - McCarville, Krista
+ - Makichuck, Lindsay
  - McConnery, Nancy
- - Sippala, Ashley
+ - More, Whitney
+ - Rogers, Leslie
+ - Sweeting, Val
  - Thomas, Jill
 ---

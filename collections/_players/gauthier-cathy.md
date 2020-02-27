@@ -167,7 +167,6 @@ vs:
  - Daniel, Sylvie
  - Delahunt, Nancy
  - Derick, Catherine
- - Dillon, Cathy
  - Dolan, Kim
  - Dorosz, Peggy
  - Earl, Allison
@@ -178,6 +177,7 @@ vs:
  - Floyd, Kathy
  - Fortier, Marie-Josee
  - Fowler, Lois
+ - Fowler, Rhonda
  - Fraser, Sherry
  - Frey, Audrey
  - Gagnier, Monique
@@ -187,7 +187,6 @@ vs:
  - Gellard, Kim
  - Gervais, Donna
  - Gignac, Donna
- - Girard, Sylvie
  - Goring, Alison
  - Green, Sue
  - Gudereit, Marcia
@@ -257,8 +256,8 @@ vs:
  - Mulroney, Sandra
  - Muzika, Shelley
  - Nicholls, Brenda
- - Nichols, Helen
  - Nohr, Dianne
+ - Nowlan, Denise
  - O'Leary, Susan
  - Olson-Johns, Lori
  - Ondrack, Wendy
@@ -266,9 +265,12 @@ vs:
  - Osborne, Chantal
  - Palinkas, Gloria
  - Pendergast, Judy
+ - Perron, Leanne
  - Phillips, Laura
+ - Porter, Debbie
  - Prosser, Sandi
  - Rainville, Julie
+ - Rankin, Heather
  - Roberts, Angela
  - Robinson, Charlene
  - Rocque, Raylene
@@ -297,8 +299,8 @@ vs:
  - Sutton, Jodie
  - Taylor, Candy
  - Thomas, Maria
+ - Train, Mona
  - Walker, Lisa
- - Whipple, Paula
  - Wieler, Bev
  - Willms, Karri
  - Wilson, Patty

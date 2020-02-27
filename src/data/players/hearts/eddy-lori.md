@@ -48,7 +48,6 @@ vs:
  - Daniel, Sylvie
  - Delahunt, Nancy
  - Dolan, Kim
- - Floyd, Kathy
  - Fraser, Sherry
  - Gellard, Kim
  - Gudereit, Marcia
@@ -80,4 +79,5 @@ vs:
  - Radford, Helen
  - Sabourin, Joelle
  - Schmirler, Sandra
+ - Stewart, Sheri
 ---

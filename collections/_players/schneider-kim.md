@@ -107,19 +107,16 @@ years:
 vs:
 - Affleck, Tricia
 - Armstrong, Jacquie
-- Arnott, Janet
 - Atkinson, Rebecca
 - Babin, Jillian
 - Barbour, Shona
 - Belisle, Eve
 - Bell, Chelsey
 - Bernard, Cheryl
-- Birchard, Shannon
 - Birt, Suzanne
 - Blais, Amelie
 - Bradley, Shelly
 - Brassard, Veronique
-- Cameron, Nancy
 - Carmody, Erin
 - Carter, Sasha
 - Comeau, Martine
@@ -132,13 +129,13 @@ vs:
 - deSolla, Jodie
 - Dolan, Kim
 - Dolan, Sinead
-- Duncan, Chelsea
-- Duncan, Jenna
 - Einarson, Megan
+- Ellis, Danielle
 - Englot, Michelle
 - Fallis, Karen
 - Filteau, Anne-Marie
 - Fleury, Tracy
+- Fraser, Sherry
 - Galusha, Kerry
 - Gates, Amanda
 - George, Tara
@@ -148,7 +145,6 @@ vs:
 - Hardy, Shelley
 - Homan, Rachel
 - Iskiw, Beth
-- Johnstone, Loralee
 - Jones, Jennifer
 - Joyce, Blisse
 - Kasner, Marliese
@@ -175,7 +171,8 @@ vs:
 - McCarville, Krista
 - McConnery, Nancy
 - McEwen, Dawn
-- Meakin, Breanne
+- Middaugh, Sherry
+- Miller, Wendy
 - Miskew, Emma
 - More, Whitney
 - Morris, Cori
@@ -195,7 +192,6 @@ vs:
 - Peters, Laine
 - Phillips, Kristen
 - Preston, Sam
-- Price, Kara
 - Rainville, Julie
 - Ramsay, Geri Lynn
 - Robison, Michala
@@ -206,7 +202,6 @@ vs:
 - Sippala, Ashley
 - Sivertson, Dailene
 - Slywka, Sarah
-- Smallwood, Jody
 - Smith, Heather
 - Sobey, Lianne
 - Strong, Heather

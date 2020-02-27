@@ -54,9 +54,7 @@ vs:
 - Betker, Jan
 - Birt, Suzanne
 - Carter, Sasha
-- Clark, Stefanie
 - Comeau, Sandy
-- Cunningham, Cathy
 - Daniel, Sylvie
 - Darbyshire, Carolyn
 - Derick, Catherine
@@ -89,6 +87,7 @@ vs:
 - Sharpe, Kelli
 - Simons, Renee
 - Strong, Heather
+- Strong, Laura
 - Stubbings, Tiffany
 - Vey, Lana
 - Wheatcroft, Georgina

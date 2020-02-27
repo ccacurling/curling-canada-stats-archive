@@ -205,6 +205,7 @@ years:
    shots-total: 2
    shots-percent: 38
 vs:
+ - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Allen, Michelle
  - Anderson, Sherry
@@ -238,6 +239,7 @@ vs:
  - Bush, Tracy
  - Byers, Denise
  - Campbell, Gloria
+ - Campbell, Jolene
  - Campbell, June
  - Carey, Chelsea
  - Carter, Sasha
@@ -255,6 +257,7 @@ vs:
  - Cunningham, Jennifer
  - Cunningham, Jessica
  - Currie, Wendy
+ - Cutcliffe, Margaret
  - Daniel, Sylvie
  - Darbyshire, Carolyn
  - Davis, Brandee
@@ -301,6 +304,7 @@ vs:
  - Harvey, Alison
  - Harvey, Carol
  - Harvey, Janet
+ - Holden, Anna-Mae
  - Holland, Amber
  - Homan, Rachel
  - Hooper Perroud, Jane
@@ -326,6 +330,7 @@ vs:
  - Koltun, Sarah
  - Korab, Stephanie
  - Kreviazuk, Alison
+ - Kreviazuk, Cheryl
  - Kreviazuk, Lynn
  - Kyle, Linda
  - Lacey, Stacey
@@ -360,10 +365,12 @@ vs:
  - McCusker, Joan
  - McDonald, Kristy
  - McDonald, Tina
+ - McEvoy, Julie
  - McEwen, Dawn
  - McNamee, Karen
  - Middaugh, Sherry
  - Miller, Maureen
+ - Miller, Wendy
  - Miskew, Emma
  - Mittelstadt, Candice
  - Montgomery, Kay
@@ -372,6 +379,7 @@ vs:
  - Morris, Cori
  - Moses, Dawn
  - Moss, Debbie
+ - Murphy, Jeanette
  - Naugler, Tara
  - Nedohin, Heather
  - Nicholls, Brenda
@@ -397,14 +405,15 @@ vs:
  - Robertson, Darcy
  - Rocque, Raylene
  - Ross, Allison
+ - Round, Coralee
  - Sabourin, Joelle
  - Sanders, Pat
  - Sanderson, Jessie
  - Sandwith, Carley
  - Santos, Deb
+ - Saulnier, Andrea
  - Schmirler, Sandra
  - Schneider, Kim
- - Schneider, Tammy
  - Scott, Kelly
  - Sharpe, Kelli
  - Shields, Deanne
@@ -425,7 +434,6 @@ vs:
  - Sweeting, Val
  - Tanner, Allison
  - Thomas, Jill
- - Thurston, Jill
  - Tincher, Twyla
  - Titheridge, Lindsay
  - Todd, Fran

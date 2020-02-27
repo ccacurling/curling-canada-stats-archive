@@ -42,6 +42,7 @@ vs:
  - Barbour, Shona
  - Blais, Amelie
  - Cameron, Nancy
+ - Campbell, Jolene
  - Carter, Sasha
  - Cormier, Sharon
  - Crawford, Andrea
@@ -58,26 +59,24 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
- - Koehler, Megan
  - Korab, Stephanie
  - Larouche, Marie-France
  - Lawes, Kaitlyn
  - MacDonald, Rebecca Jean
  - Mair, Jessica
  - McEwen, Dawn
+ - Miller, Wendy
  - Nedohin, Heather
  - Nicholls, Brenda
  - Officer, Jill
  - Parsons, Danielle
  - Peters, Laine
  - Schneider, Kim
- - Schneider, Tammy
  - Scott, Kelly
  - Sivertson, Dailene
  - Smith, Heather
  - Strong, Heather
  - Strong, Laura
- - Thomas-Kennell, Noelle
  - Udle, Teri
  - Walsh, Jenna
  - Wylie, Jennifer

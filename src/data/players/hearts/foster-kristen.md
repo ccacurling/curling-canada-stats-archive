@@ -39,7 +39,6 @@ vs:
  - Anderson, Sherry
  - Atkinson, Rebecca
  - Baier, Stephanie
- - Boyle, Jane
  - Brothers, Jill
  - Brown, Rachel
  - Cooper, Kathryn
@@ -48,6 +47,7 @@ vs:
  - Courtney, Joanne
  - Crawford, Andrea
  - Cunningham, Jessica
+ - Davies, Lisa
  - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
@@ -65,7 +65,6 @@ vs:
  - MacDonald, Rebecca Jean
  - Miskew, Emma
  - Nugent, Pamela
- - O'Rourke, Brittany
  - Parsons, Danielle
  - Robison, Michala
  - Ross, Allison

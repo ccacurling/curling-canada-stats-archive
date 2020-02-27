@@ -94,6 +94,7 @@ vs:
  - Gudereit, Marcia
  - Harrison, Meredith
  - Hodson, Kim
+ - Holden, Anna-Mae
  - Hopkins, Heather
  - Horne, Kate
  - Iskiw, Beth
@@ -109,7 +110,6 @@ vs:
  - MacDonald, Lawnie
  - MacInnes, Allison
  - MacLeod, Lisa
- - Martin, Heather
  - Mattatall, Mary
  - McCusker, Joan
  - McInnis, Susan

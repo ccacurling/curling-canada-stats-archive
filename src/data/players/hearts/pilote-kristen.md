@@ -56,10 +56,7 @@ vs:
  - Anderson, Sherry
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
- - Baldwin, Nicole
- - Barbour, Shona
  - Baxter, Jen
- - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
@@ -68,9 +65,13 @@ vs:
  - Boudreault, Patricia
  - Boyle, Jane
  - Bradley, Shelly
+ - Brine, Jenn
+ - Brothers, Jill
  - Brown, Rachel
  - Carey, Chelsea
+ - Carmody, Erin
  - Christianson, Marie
+ - Clark-Rouire, Jennifer
  - Collins, Katrina
  - Cooper, Kathryn
  - Courtney, Joanne
@@ -79,55 +80,49 @@ vs:
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Fleury, Tracy
- - Galusha, Kerry
+ - Fyfe, Liz
  - Gates, Amanda
  - Gates, Jenny
  - Griffin, Alison
- - Guzzwell, Stephanie
- - Hamilton, Beth
  - Hastings, Julie
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
- - Ingram, Megan
- - Jewer, Michelle
  - Jones, Jennifer
  - Kasner, Marliese
- - Koltun, Sarah
  - Korab, Stephanie
- - Lang, Lorraine
- - Larouche, Marie-France
+ - Kreviazuk, Cheryl
  - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
+ - MacCuish, Kristin
  - Mann, Lauren
  - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
+ - McPherson, Cheryl
  - McQuaid, Michelle
  - Miskew, Emma
  - Munroe, Anna
+ - Murphy, Sarah
+ - Njegovan, Selena
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Rourke, Brittany
  - Peterman, Jocelyn
+ - Pinksen, Sadie
  - Potts, Sarah
  - Richard, Marie
  - Robichaud, Sylvie
  - Schmidt, Stephanie
- - Sharpe, Kelli
- - Shaw, Ladene
  - Silvernagle, Robyn
  - Smith, Stacey
  - Snyder, Jane
  - Strong, Heather
- - Strong, Helen
  - Sweeting, Val
  - Thevenot, Kara
- - Tran, Brittany
  - Trombley, Christy
- - Vey, Lana
  - Walsh, Jenna
  - Weagle, Lisa
  - Wilkes, Sarah

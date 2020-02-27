@@ -172,10 +172,11 @@ vs:
 - Allen, Michelle
 - Anderson, Sherry
 - Armstrong, Jacquie
+- Armstrong, Jennifer
 - Armstrong, Leigh
 - Arsenault, Mary-Anne
 - Atkinson, Rebecca
-- Baier, Stephanie
+- Babin, Jillian
 - Bakker, Glenys
 - Baldwin, Nicole
 - Barbour, Shona
@@ -188,9 +189,6 @@ vs:
 - Birt, Suzanne
 - Black, Christina
 - Blais, Amelie
-- Blaney, Jennifer
-- Bodner, Jenine
-- Boudreault, Patricia
 - Boyle, Jane
 - Bradley, Shelly
 - Brothers, Jill
@@ -213,8 +211,8 @@ vs:
 - Crouse, Jennifer
 - Cunningham, Cathy
 - Cunningham, Jessica
-- Daigle, Julie
 - Darbyshire, Carolyn
+- Davies, Lisa
 - Delahunt, Nancy
 - Derick, Catherine
 - deSolla, Jodie
@@ -228,6 +226,7 @@ vs:
 - Flaxey, Allison
 - Fleury, Tracy
 - Fortier, Marie-Josee
+- Forward, Katie
 - Foster, Kristen
 - Gagnier, Monique
 - Gagnon, Karo
@@ -238,11 +237,9 @@ vs:
 - Gates, Jenny
 - Gauthier, Cathy
 - George, Tara
-- Gignac, Donna
 - Gilman, Sheena
 - Goss, Peg
 - Gregoire, Veronique
-- Griffin, Alison
 - Gudereit, Marcia
 - Gushulak, Diane
 - Guzzwell, Stephanie
@@ -254,7 +251,6 @@ vs:
 - Holland, Amber
 - Homan, Rachel
 - Hughes, Meaghan
-- Ingram, Megan
 - Iskiw, Beth
 - Jewer, Michelle
 - Jones, Colleen
@@ -272,7 +268,6 @@ vs:
 - Kreviazuk, Lynn
 - Lang, Lorraine
 - Larouche, Marie-France
-- Lavoie, Gabrielle
 - Lawes, Andrea
 - Lawes, Kaitlyn
 - Leger, Stacey
@@ -308,7 +303,6 @@ vs:
 - Moriarty, Monica
 - Morris, Cori
 - Moses, Dawn
-- Munroe, Anna
 - Muzika, Shelley
 - Nedohin, Heather
 - Nicholls, Brenda
@@ -341,7 +335,6 @@ vs:
 - Sabourin, Joelle
 - Sanderson, Jessie
 - Sandwith, Carley
-- Schmidt, Stephanie
 - Schneider, Kim
 - Schneider, Tammy
 - Schraeder, Jeanna
@@ -361,14 +354,12 @@ vs:
 - Strong, Laura
 - Sweeting, Val
 - Thomas, Jill
-- Thomas-Kennell, Noelle
 - Titheridge, Lindsay
 - Tran, Brittany
 - Trombley, Christy
 - Tuck, Kimberly
 - Udle, Teri
 - Van Osch, Kesa
-- Vautour, Carrie
 - Wall, Kirsten
 - Wallingham, Patty
 - Walsh, Heather

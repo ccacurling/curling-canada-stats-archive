@@ -37,6 +37,7 @@ years:
    shots-percent: 82
 vs:
  - Arsenault, Mary-Anne
+ - Barbour, Shona
  - Belanger, Nancy
  - Bell, Chelsey
  - Birt, Suzanne
@@ -48,6 +49,7 @@ vs:
  - Delahunt, Nancy
  - Englot, Michelle
  - Galusha, Kerry
+ - Goss, Peg
  - Jones, Jennifer
  - Kelly, Kim
  - Kidd, Darlene
@@ -59,7 +61,6 @@ vs:
  - Materi, Roberta
  - McCagg-Nystrom, Heather
  - McEwen, Dawn
- - Moses, Dawn
  - Nicholson, Danielle
  - Nixon, Amy
  - Officer, Jill
@@ -68,7 +69,6 @@ vs:
  - Richard, Marie
  - Robichaud, Sylvie
  - Sabourin, Joelle
- - Sauder, Bobbie
  - Schraeder, Jeanna
  - Scott, Kelly
  - Simmons, Cindy

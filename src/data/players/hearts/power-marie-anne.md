@@ -91,6 +91,7 @@ years:
    shots-total: 202
    shots-percent: 75
 vs:
+ - Affleck, Tricia
  - Aleksic, Shannon
  - Allen, Michelle
  - Allen, Susan
@@ -100,6 +101,7 @@ vs:
  - Arsenault, Mary-Anne
  - Baker, Michelle
  - Balderston, Marcy
+ - Beddington, Shalegh
  - Belanger, Nancy
  - Belley, Joelle
  - Bernard, Cheryl
@@ -107,13 +109,16 @@ vs:
  - Berthelot, Janique
  - Betker, Jan
  - Birt, Suzanne
+ - Blackburn, Julie
  - Blashko, Denise
  - Bohmer, Brenda
+ - Bradley, Shelly
  - Brothers, Jill
  - Brown, Jacalyn
  - Brown, Janet
  - Burlington, Cheryl
  - Byers, Denise
+ - Cameron, Nancy
  - Carter, Sasha
  - Clark, Stefanie
  - Clarke, Hayley
@@ -122,11 +127,11 @@ vs:
  - Cunningham, Cathy
  - Daniel, Sylvie
  - Darbyshire, Carolyn
- - Davis, Brandee
  - Delahunt, Nancy
  - Derick, Catherine
  - Dezura, Diane
  - Dolan, Kim
+ - Duplisse, Rene
  - Englot, Michelle
  - Fallis, Karen
  - Fallis-Kurz, Lynn
@@ -145,7 +150,6 @@ vs:
  - Harrison, Meredith
  - Harvey, Alison
  - Henry, Lou Ann
- - Herbert, Candide
  - Hodson, Kim
  - Holowec, Ainsley
  - Horne, Kate
@@ -168,9 +172,10 @@ vs:
  - Lemay, Annie
  - Lemire, Nancy
  - Lewis, Kristy
+ - MacCallum, Janice
  - MacDonald, Lawnie
  - MacDonald, Rebecca Jean
- - MacDonald, Shelley
+ - MacDougall, Leslie
  - MacPhee, Robyn
  - Martin, Heather
  - Materi, Roberta
@@ -200,21 +205,19 @@ vs:
  - Robinson, Lori
  - Ross, Allison
  - Sabourin, Joelle
- - Sanders, Pat
  - Sandison, Janice
  - Scales, Julie
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli
+ - Simons, Renee
  - Skinner, Julie
  - Sonnenberg, Renee
  - Stabel, Stacey
- - Street, Cindy
  - Stricker, Joan
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
- - Tanner, Allison
  - Tasaka, Adina
  - Tincher, Twyla
  - Trider, Krista

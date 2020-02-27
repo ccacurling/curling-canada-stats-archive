@@ -186,13 +186,11 @@ vs:
  - Cormier, Sharon
  - Crispo, Guylaine
  - Cunningham, Cathy
- - Dagg-Jackson, Elaine
  - Daku, Karen
  - Daniel, Sylvie
  - Darbyshire, Carolyn
  - Delahunt, Nancy
  - Derick, Catherine
- - Dillon, Cathy
  - Dobson, Sue
  - Dolan, Kim
  - Dwyer, Patricia
@@ -200,9 +198,10 @@ vs:
  - Eddy, Lori
  - Englot, Michelle
  - Fahlman, Kathy
+ - Farrell, Allison
  - Floyd, Kathy
  - Frey, Audrey
- - Gabriele, Elena
+ - Funk, LaDawn
  - Gagnier, Monique
  - Galusha, Kerry
  - Gauthier, Cathy
@@ -216,9 +215,9 @@ vs:
  - Gudereit, Marcia
  - Gushulak, Diane
  - Hanlon, Heidi
- - Harding, Mary
  - Hardy, Shelley
  - Harris, Susan
+ - Harrison, Meredith
  - Harvey, Alison
  - Harvey, Carol
  - Harvey, Janet
@@ -287,6 +286,7 @@ vs:
  - Murphy, Jeanette
  - Muzika, Shelley
  - Nedohin, Heather
+ - Nelthorpe, Sally
  - Nichols, Helen
  - Nowlan, Denise
  - O'Connor, Susan
@@ -297,7 +297,6 @@ vs:
  - Overton, Kim
  - Overton-Clapham, Cathy
  - Peters, Laine
- - Phillips, Kristen
  - Phillips, Laura
  - Phillips, Margaret Lea
  - Poisson, Francine
@@ -320,7 +319,6 @@ vs:
  - Scott, Kelly
  - Sharpe, Kelli
  - Sherrington, Barb
- - Shields, Deanne
  - Sigurdson, Janine
  - Simons, Renee
  - Skinner, Julie
@@ -337,7 +335,6 @@ vs:
  - Stubbings, Tiffany
  - Sutton, Jodie
  - Tasaka, Adina
- - Thurston, Jill
  - Turcotte, Kristin
  - Udle, Teri
  - Usher, Leanne
@@ -346,6 +343,7 @@ vs:
  - Whitaker, Carol
  - Whitaker, Lise
  - Whitrow, Leanne
+ - Willms, Karri
  - Wilson, Patty
  - Wright, Susan
  - Young, Karen

@@ -126,7 +126,7 @@ vs:
 - Desilets, Mike
 - Desrosiers, John
 - Dillon, Mike
-- Engel, Ron
+- Fenton, Darin
 - Fenton, Keith
 - Ferbey, Randy
 - Fetterly, Tom
@@ -189,7 +189,6 @@ vs:
 - Meakin, Rob
 - Menard, Jean-Michel
 - Middaugh, Wayne
-- Miki, Bryan
 - Milward, Ross
 - Moffatt, Rich
 - Morris, John
@@ -201,6 +200,7 @@ vs:
 - Odishaw, Grant
 - Palmer, Curt
 - Park, Kevin
+- Park, Shane
 - Paslawski, Pat
 - Patterson, Scott
 - Peddigrew, Ken

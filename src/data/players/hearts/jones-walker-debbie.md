@@ -149,6 +149,7 @@ vs:
  - Betker, Jan
  - Beveridge, Corie
  - Bildfell, Shelly
+ - Blair, Diane
  - Blanchard, Judy
  - Bodogh, Marilyn
  - Bohmer, Brenda
@@ -183,7 +184,6 @@ vs:
  - Delahunt, Nancy
  - Deschatelets, Guylaine
  - Dezura, Diane
- - Dickeson, Debbi
  - Dillon, Cathy
  - Dobson, Sue
  - Dolan, Kim
@@ -237,10 +237,10 @@ vs:
  - Laliberte, Connie
  - Lamarre, June
  - LaRocque, Penny
+ - Larouche, Marie-France
  - Law, Kelley
  - Leahy, Anne
  - Leavitt, Pam
- - Leclerc, Valerie
  - Lemay, Annie
  - Lemire, Nancy
  - Lethbridge, Sherry
@@ -257,6 +257,7 @@ vs:
  - Mainwaring, Bev
  - Mallett, Marla
  - Martin, Heather
+ - Mattatall, Mary
  - McCallan, Berniece
  - McCarville, Susan
  - McCracken, Betty
@@ -268,6 +269,7 @@ vs:
  - McGeary, Lori
  - McGregor, Rona
  - McKnight, Patti
+ - McNamee, Karen
  - Merklinger, Anne
  - Middaugh, Sherry
  - Millar, Bev
@@ -295,7 +297,6 @@ vs:
  - Rintoul, Jacki
  - Robertson, Darcy
  - Robinson, Susan
- - Rocque, Raylene
  - Roland, Mavis
  - Ross, Allison
  - Rowan, Sheila
@@ -320,6 +321,7 @@ vs:
  - Tanner, Allison
  - Thompson, Gillian
  - Thompson, May
+ - Tincher, Twyla
  - Todd, Fran
  - Tucker, Cindy
  - Twa, Dale

@@ -218,9 +218,9 @@ vs:
 - Snider, Shelly
 - Stricker, Joan
 - Thurston, Jill
+- Train, Mona
 - Webster, Bronwen
 - Wheatcroft, Georgina
-- Whipple, Paula
 - Wieler, Bev
 - Zielke, Colleen
 - Zinck, Kay

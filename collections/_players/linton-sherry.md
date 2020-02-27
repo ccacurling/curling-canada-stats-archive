@@ -87,9 +87,7 @@ vs:
 - Cormier, Sharon
 - Cunningham, Cathy
 - Currie, Wendy
-- Daniel, Sylvie
 - Delahunt, Nancy
-- Derick, Catherine
 - Dunn, Anne
 - Enright, Barb
 - Fister, Teri
@@ -103,7 +101,6 @@ vs:
 - Greening, Jackie-Rae
 - Gregoire, Veronique
 - Hanlon, Heidi
-- Hardy, Shelley
 - Hodson, Kim
 - Horne, Kate
 - Jones, Colleen
@@ -114,7 +111,6 @@ vs:
 - Keshen, Christine
 - Kleibrink, Shannon
 - Lacey, Stacey
-- Lange, Ann
 - Larouche, Marie-France
 - Lawes, Andrea
 - Lawton, Stefanie
@@ -129,17 +125,15 @@ vs:
 - McInnis, Susan
 - McPherson, Cheryl
 - Middaugh, Sherry
-- Morgan, Cheryl
 - Moses, Dawn
 - Naugler, Tara
 - Nixon, Amy
-- O'Leary, Susan
 - Officer, Jill
-- Osborne, Chantal
 - Overton-Clapham, Cathy
 - Pinkney, Colleen
 - Rizzo, Jo-Ann
 - Robertson, Darcy
+- Round, Coralee
 - Santos, Deb
 - Schraeder, Jeanna
 - Scott, Kelly
@@ -147,8 +141,6 @@ vs:
 - Singler, Sherri
 - Spencer, Barb
 - Strachan, Angela
-- Strong, Heather
-- Strong, Laura
 - Todd, Fran
 - Tuck, Kimberly
 - Unrau, Faye

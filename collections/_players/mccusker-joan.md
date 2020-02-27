@@ -279,6 +279,7 @@ vs:
 - Harvey, Carol
 - Harvey, Janet
 - Henry, Lou Ann
+- Hensley, Merna
 - Hodson, Kim
 - Hooper Perroud, Jane
 - Hooper, Jane
@@ -306,7 +307,6 @@ vs:
 - Lahucik, Val
 - Laliberte, Connie
 - Lang, Lorraine
-- Lange, Ann
 - Larouche, Marie-France
 - Law, Kelley
 - Lawes, Andrea
@@ -316,6 +316,7 @@ vs:
 - Lemay, Annie
 - Leonard, Judy
 - Lewis, Kristy
+- Lidgren, Anna
 - Lowther, Tammi
 - MacAulay, Marion
 - MacCallum, Janice
@@ -367,6 +368,7 @@ vs:
 - Pross, Margaret
 - Purdy, Karen
 - Pushkar, Diane
+- Putland, Rose
 - Radford, Helen
 - Rankin, Heather
 - Renouf, Michele
@@ -374,6 +376,7 @@ vs:
 - Roberts, Angela
 - Robertson, Darcy
 - Robinson, Charlene
+- Round, Coralee
 - Sabourin, Joelle
 - Santos, Deb
 - Scales, Julie

@@ -71,7 +71,6 @@ years:
    shots-percent: 75
 vs:
  - Affleck, Tricia
- - Anderson, Sherry
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Baier, Stephanie
@@ -97,20 +96,19 @@ vs:
  - Ferguson, Dana
  - Flaxey, Allison
  - Foster, Kristen
- - Fullerton, Sarah
  - Gagnier, Monique
  - Galusha, Kerry
  - George, Tara
  - Hardy, Shelley
  - Harvey, Janet
  - Homan, Rachel
- - Hughes, Meaghan
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese
  - Kelly, Kim
  - King, Cathy
+ - Knezevic, Patti
  - Koltun, Sarah
  - Kreviazuk, Alison
  - Kreviazuk, Lynn
@@ -119,12 +117,11 @@ vs:
  - Loder, Cherie-Ann
  - MacDiarmid, Kristen
  - MacDonald, Rebecca Jean
- - MacPhee, Robyn
  - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McDonald, Kristy
  - McInnis, Susan
- - McQuaid, Michelle
+ - Meakin, Breanne
  - Miskew, Emma
  - Muise, Morgan
  - Officer, Jill
@@ -143,9 +140,8 @@ vs:
  - Sharpe, Kelli
  - Simons, Renee
  - Sinclair, Andrea
- - Singler, Sherri
+ - Sivertson, Dailene
  - Smith, Heather
- - Sonnenberg, Renee
  - Streifel, Tracy
  - Strong, Heather
  - Strong, Laura

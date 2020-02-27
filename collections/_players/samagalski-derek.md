@@ -232,7 +232,6 @@ vs:
 - Symonds, Andrew
 - Thiessen, Brad
 - Thiessen, Nolan
-- Thomas, Charley
 - Trepanier, Jean-Francois
 - Villeneuve, Steeve
 - Walker, Geoff

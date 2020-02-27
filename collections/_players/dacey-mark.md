@@ -153,6 +153,7 @@ years:
   shots-percent: 74
 vs:
 - Abel, Clinton
+- Adam, Mike
 - Adams, Shawn
 - Alderman, Dan
 - Andrews, Robert

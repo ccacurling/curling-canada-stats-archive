@@ -53,7 +53,6 @@ years:
    shots-total: 272
    shots-percent: 83
 vs:
- - Anderson, Sherry
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Baxter, Jen
@@ -67,7 +66,9 @@ vs:
  - Collins, Katrina
  - Cooper, Kathryn
  - Courtney, Joanne
+ - Crawford, Andrea
  - Cunningham, Jessica
+ - deSolla, Jodie
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Fleury, Tracy
@@ -75,12 +76,9 @@ vs:
  - Hastings, Julie
  - Homan, Rachel
  - Jones, Jennifer
- - Kasner, Marliese
  - Knezevic, Patti
  - Korab, Stephanie
- - Kreviazuk, Alison
  - Lawes, Kaitlyn
- - Lawton, Stefanie
  - Mann, Lauren
  - McEwen, Dawn
  - McInnis, Susan
@@ -89,20 +87,18 @@ vs:
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Rourke, Brittany
+ - Parsons, Danielle
  - Pilote, Kristen
  - Richard, Marie
  - Robichaud, Sylvie
  - Rusnell, Jen
- - Singler, Sherri
- - Sivertson, Dailene
  - Smith, Stacey
  - Snyder, Jane
  - Strong, Heather
- - Strong, Laura
  - Sweeting, Val
- - Thomas-Kennell, Noelle
  - Trombley, Christy
  - Walsh, Jenna
  - Weagle, Lisa
+ - Wilkes, Sarah
  - Wylie, Jennifer
 ---

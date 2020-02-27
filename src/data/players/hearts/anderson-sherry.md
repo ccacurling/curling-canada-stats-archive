@@ -149,13 +149,14 @@ vs:
  - Adams, Melissa
  - Affleck, Tricia
  - Allen, Susan
+ - Allerton, Dana
+ - Arnaud, Chloe
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
  - Arseneau, Jane
  - Atkinson, Rebecca
  - Aucoin, Shelley
- - Baier, Stephanie
  - Baker, Rose-Marie
  - Bakker, Glenys
  - Barbour, Shona
@@ -180,6 +181,7 @@ vs:
  - Breen, Theresa
  - Brothers, Jill
  - Brown, Janet
+ - Brown, Maureen
  - Brown, Rachel
  - Bryant, Angie
  - Burlington, Cheryl
@@ -188,7 +190,6 @@ vs:
  - Carey, Chelsea
  - Charette, Agnes
  - Charette, France
- - Chislett, Geneva
  - Collins, Katrina
  - Cooke, Gerri
  - Cooper, Kathryn
@@ -200,6 +201,7 @@ vs:
  - Courtney, Joanne
  - Crawford, Andrea
  - Crispo, Guylaine
+ - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jessica
  - Dalio, Diane
@@ -208,10 +210,10 @@ vs:
  - Derick, Catherine
  - deSolla, Jodie
  - Dezura, Diane
+ - Dobson, Sue
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
- - Duncan, Hollie
  - Duncan, Jenna
  - Einarson, Kerri
  - Fallis, Karen
@@ -230,19 +232,15 @@ vs:
  - Fraser, Sherry
  - Freeman, Lisa
  - Frey, Audrey
- - Fullerton, Sarah
- - Funk, LaDawn
  - Fyfe, Liz
  - Gagnier, Monique
+ - Gagnon, Emilia
  - Gagnon, Karo
  - Gagnon, Nathalie
  - Galusha, Kerry
- - Gannon, Melissa
  - Gates, Amanda
  - Gauthier, Cathy
  - Gervais, Donna
- - Gibson, Amy
- - Gogan, Jennifer
  - Goring, Alison
  - Goss, Peg
  - Graham-MacDonald, Bea
@@ -252,13 +250,12 @@ vs:
  - Hanlon, Heidi
  - Harris, Susan
  - Harrison, Meredith
+ - Harvey, Marie-Pier
  - Hastings, Julie
  - Henry, Lou Ann
  - Homan, Rachel
  - Horne, Kate
- - Hughes, Meaghan
  - Hunter, Lana
- - Hutchings, Denise
  - Iskiw, Beth
  - Jackson, Virginia
  - Jennings, Tracey
@@ -278,7 +275,6 @@ vs:
  - Koltun, Sarah
  - Korab, Stephanie
  - Kreviazuk, Alison
- - Kreviazuk, Cheryl
  - Kreviazuk, Lynn
  - Kyle, Linda
  - Laliberte, Connie
@@ -288,7 +284,6 @@ vs:
  - Lawes, Kaitlyn
  - Lawrence, Margaret
  - Leblanc, Lisa
- - LeDrew, Stephanie
  - Lemay, Annie
  - Lewis, Kristy
  - Lister, Kendra
@@ -298,7 +293,6 @@ vs:
  - MacDonald, Lawnie
  - MacDonald, Rebecca Jean
  - MacKenzie, Doris
- - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
  - Marchand, Stephanie
@@ -312,18 +306,15 @@ vs:
  - McKnight, Patti
  - McLeod, Crystal
  - McQuaid, Michelle
- - McTaggart, Cary-Anne
  - Merklinger, Anne
  - Middaugh, Sherry
  - Miskew, Emma
  - Mittelstadt, Candice
- - Moore, Kristie
  - Moses, Dawn
  - Moss, Debbie
  - Muzika, Shelley
  - Njegovan, Selena
  - Nixon, Amy
- - Nugent, Pamela
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Rourke, Brittany
@@ -332,31 +323,26 @@ vs:
  - Overton-Clapham, Cathy
  - Palinkas, Gloria
  - Parsons, Danielle
+ - Perron, Melina
  - Peters, Laine
  - Phillips, Laura
  - Pilote, Kristen
  - Power, Marie-Anne
  - Price, Kara
  - Purdy, Karen
- - Reed, Shellan
  - Richard, Marie
  - Robichaud, Sylvie
  - Robinson, Charlene
  - Robinson, Lori
  - Robison, Michala
- - Ross, Allison
  - Rusnell, Jen
- - Sagle, Karen
  - Sanderson, Jessie
  - Sandwith, Carley
  - Scales, Julie
- - Scheidegger, Casey
- - Scheidegger, Jessie
- - Schmidt, Stephanie
  - Schmirler, Sandra
- - Shackleton, Amie
  - Shields, Deanne
  - Sinclair, Andrea
+ - Skinner, Julie
  - Smallwood, Jody
  - Smith, Heather
  - Smith, Stacey
@@ -368,21 +354,18 @@ vs:
  - Strong, Laura
  - Sweeting, Val
  - Taylor, Candy
- - Thomas-Kennell, Noelle
  - Titheridge, Lindsay
  - Trider, Krista
  - Trombley, Christy
  - Udle, Teri
- - Van Osch, Kalia
  - Van Osch, Kesa
- - Van Osch, Marika
  - Wall, Kirsten
  - Wallingham, Patty
  - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Crystal
- - West, Christianne
  - Wheatcroft, Georgina
+ - Wilkes, Sarah
  - Wylie, Jennifer
  - Zinck, Kay
 ---

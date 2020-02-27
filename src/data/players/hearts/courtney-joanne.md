@@ -99,13 +99,19 @@ vs:
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Boudreault, Patricia
  - Boyle, Jane
  - Bradley, Shelly
+ - Brine, Jenn
  - Brothers, Jill
  - Brown, Rachel
  - Cameron, Kate
  - Camozzi, Rhona
  - Carey, Chelsea
+ - Carmody, Erin
+ - Christianson, Marie
  - Collins, Katrina
  - Cooper, Kathryn
  - Cormier, Sharon
@@ -115,6 +121,8 @@ vs:
  - Cunningham, Jessica
  - Curtis, Stacie
  - Cutcliffe, Margaret
+ - Daigle, Julie
+ - Davies, Lisa
  - deJager, Blaine
  - Derry, Danielle
  - deSolla, Jodie
@@ -131,13 +139,17 @@ vs:
  - Fleury, Tracy
  - Foster, Kristen
  - Fullerton, Sarah
+ - Fyfe, Liz
  - Galusha, Kerry
  - Gannon, Melissa
  - Gates, Amanda
+ - Gates, Jenny
+ - Griffin, Alison
  - Hastings, Julie
  - Hill, Trish
  - Homan, Rachel
  - Hughes, Meaghan
+ - Hunkin, Jessie
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese
@@ -148,9 +160,11 @@ vs:
  - Korab, Stephanie
  - Kreviazuk, Alison
  - Kreviazuk, Lynn
+ - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
+ - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacPhee, Robyn
  - Mallett, Marla
@@ -162,6 +176,9 @@ vs:
  - McInnis, Susan
  - McQuaid, Michelle
  - Miskew, Emma
+ - Munroe, Anna
+ - Murphy, Sarah
+ - Njegovan, Selena
  - Nixon, Amy
  - Nugent, Pamela
  - Officer, Jill
@@ -171,8 +188,10 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Pilote, Kristen
+ - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
+ - Reid, Jackie
  - Richard, Marie
  - Richards, Brette
  - Robichaud, Sylvie
@@ -185,6 +204,7 @@ vs:
  - Schmidt, Stephanie
  - Schneider, Lorraine
  - Sicinski, Danielle
+ - Silvernagle, Robyn
  - Sinclair, Andrea
  - Singler, Sherri
  - Sippala, Ashley
@@ -194,7 +214,9 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
+ - Thevenot, Kara
  - Thiessen, Alison
+ - Thomas-Kennell, Noelle
  - Titheridge, Lindsay
  - Trickett, Erica
  - Trombley, Christy
@@ -202,6 +224,7 @@ vs:
  - Van Osch, Kesa
  - Wallingham, Patty
  - Walsh, Jenna
+ - Wark, Sarah
  - Weagle, Lisa
  - Westcott, Raunora
  - Wilkes, Sarah

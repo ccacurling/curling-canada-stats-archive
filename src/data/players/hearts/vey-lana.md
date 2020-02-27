@@ -97,21 +97,20 @@ vs:
  - Bernard, Cheryl
  - Birt, Suzanne
  - Blais, Amelie
+ - Boyle, Jane
  - Brothers, Jill
  - Brown, Jacalyn
  - Cameron, Nancy
- - Camozzi, Rhona
+ - Campbell, Jolene
  - Carter, Sasha
  - Clark, Stefanie
  - Clarke, Hayley
  - Comeau, Sandy
- - Cooper, Kathryn
  - Cormier, Sharon
  - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
- - Cunningham, Jessica
  - Daniel, Sylvie
  - Darbyshire, Carolyn
  - Derick, Catherine
@@ -135,8 +134,6 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
- - Knezevic, Patti
- - Koehler, Megan
  - Korab, Stephanie
  - Lang, Lorraine
  - Larouche, Marie-France
@@ -150,10 +147,12 @@ vs:
  - MacPhee, Robyn
  - Mair, Jessica
  - Mallett, Marla
+ - Mann, Lauren
  - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
+ - Miller, Wendy
  - Morgan, Cheryl
  - Morris, Cori
  - Moses, Dawn
@@ -165,19 +164,19 @@ vs:
  - O'Connor, Susan
  - Officer, Jill
  - O'Leary, Susan
+ - O'Rourke, Brittany
  - Osborne, Chantal
  - Overton-Clapham, Cathy
  - Parsons, Danielle
  - Peters, Laine
- - Pilote, Kristen
  - Power, Marie-Anne
  - Provencal, Darah
+ - Richard, Marie
  - Richards, Brette
  - Robertson, Darcy
- - Rusnell, Jen
+ - Robichaud, Sylvie
  - Sabourin, Joelle
  - Schneider, Kim
- - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli
@@ -190,7 +189,6 @@ vs:
  - Strong, Laura
  - Stubbings, Tiffany
  - Thomas, Jill
- - Thomas-Kennell, Noelle
  - Udle, Teri
  - Walsh, Jenna
  - Wheatcroft, Georgina

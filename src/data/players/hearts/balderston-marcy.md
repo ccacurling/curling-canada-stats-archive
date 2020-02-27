@@ -85,6 +85,7 @@ vs:
  - Aucoin, Shelley
  - Augustyn, Jan
  - Baker, Michelle
+ - Beddington, Shalegh
  - Belanger, Nancy
  - Berthelot, Janique
  - Betker, Jan
@@ -95,10 +96,8 @@ vs:
  - Bradley, Shelly
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Marcie
  - Burry, Gail
  - Byers, Denise
- - Cameron, Nancy
  - Chapman, Kathy
  - Corbin, Nicole
  - Cordina, Sheri
@@ -121,7 +120,6 @@ vs:
  - Gellard, Kim
  - Grenier, Valerie
  - Hanlon, Heidi
- - Harding, Mary
  - Harvey, Alison
  - Henry, Lou Ann
  - Herlinveaux, Louise
@@ -131,7 +129,6 @@ vs:
  - Jackson, Sherry
  - Jackson, Virginia
  - Jones, Colleen
- - Jones, Karen
  - Jones-Walker, Debbie
  - Jurgenson, Christine
  - Karam, Sally
@@ -158,8 +155,8 @@ vs:
  - Middaugh, Sherry
  - Miller, Maureen
  - Moss, Debbie
- - Muzika, Shelley
  - Nedohin, Heather
+ - O'Leary, Susan
  - Ondrack, Wendy
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy

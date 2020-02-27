@@ -88,6 +88,7 @@ years:
   shots-total: 224
   shots-percent: 79
 vs:
+- Affleck, Tricia
 - Anderson, Sherry
 - Arnott, Janet
 - Arsenault, Mary-Anne
@@ -102,7 +103,6 @@ vs:
 - Bowman, Mary
 - Breen, Thersa
 - Bryant, Angie
-- Cameron, Nancy
 - Carter, Sasha
 - Cooke, Gerri
 - Cordina, Sheri

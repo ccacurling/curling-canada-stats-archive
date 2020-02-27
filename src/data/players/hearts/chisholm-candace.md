@@ -73,18 +73,13 @@ years:
    shots-total: 6
    shots-percent: 75
 vs:
- - Clark-Rouire, Jennifer
- - Cunningham, Jennifer
+ - Blais, Amelie
  - Jones, Jennifer
- - Joyce, Blisse
- - Korab, Stephanie
+ - Larouche, Marie-France
  - Lawes, Kaitlyn
+ - Lemay, Annie
  - McEwen, Dawn
+ - Nicholls, Brenda
  - Officer, Jill
- - Parsons, Danielle
- - Smith, Heather
- - Strong, Heather
- - Strong, Laura
- - Thomas-Kennell, Noelle
- - Udle, Teri
+ - Rainville, Julie
 ---

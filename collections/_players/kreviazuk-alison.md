@@ -101,6 +101,8 @@ years:
   shots-total: 152
   shots-percent: 85
 vs:
+- Affleck, Tricia
+- Aleksic, Shannon
 - Anderson, Sherry
 - Armstrong, Jacquie
 - Armstrong, Leigh
@@ -133,7 +135,6 @@ vs:
 - deJager, Blaine
 - deSolla, Jodie
 - Dolan, Kim
-- Dolan, Sinead
 - Dufresne, Audree
 - Duncan, Chelsea
 - Dykstra, Michelle
@@ -145,9 +146,7 @@ vs:
 - Galusha, Kerry
 - Gannon, Melissa
 - Gregoire, Veronique
-- Gushulak, Diane
 - Guzzwell, Stephanie
-- Hersikorn, Patty
 - Holland, Amber
 - Holtby, Taryn
 - Iskiw, Beth
@@ -192,12 +191,12 @@ vs:
 - Paul, Sarah
 - Peters, Laine
 - Porter, Erin
+- Reid, Jackie
 - Rizzo, Jo-Ann
 - Robison, Michala
 - Ross, Allison
 - Sanderson, Jessie
 - Sandwith, Carley
-- Schmidt, Stephanie
 - Schneider, Kim
 - Schneider, Tammy
 - Schraeder, Jeanna

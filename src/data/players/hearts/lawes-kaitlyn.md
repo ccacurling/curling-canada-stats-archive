@@ -123,7 +123,9 @@ years:
 vs:
  - Anderson, Sherry
  - Armstrong, Jacquie
+ - Armstrong, Jennifer
  - Arsenault, Mary-Anne
+ - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Ayrey, Jinaye
  - Babin, Jillian
@@ -136,12 +138,10 @@ vs:
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
- - Blaney, Jennifer
- - Bodner, Jenine
- - Boudreault, Patricia
  - Boyle, Jane
  - Bradley, Shelly
  - Brassard, Veronique
+ - Brine, Jenn
  - Brothers, Jill
  - Brown, Rachel
  - Cameron, Nancy
@@ -160,7 +160,6 @@ vs:
  - Cunningham, Jennifer
  - Cunningham, Jessica
  - Curtis, Stacie
- - Daigle, Julie
  - deJager, Blaine
  - deSolla, Jodie
  - Devereaux, Julie
@@ -174,13 +173,15 @@ vs:
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Fleury, Tracy
+ - Forward, Katie
+ - Fraser, Sherry
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
  - Gates, Jenny
  - Gregoire, Veronique
- - Griffin, Alison
+ - Gushulak, Diane
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Hamon, Callan
@@ -193,9 +194,7 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
- - Ingram, Megan
  - Iskiw, Beth
- - Jewer, Michelle
  - Johnston, Kara
  - Jones, Colleen
  - Joyce, Blisse
@@ -210,7 +209,6 @@ vs:
  - Kreviazuk, Alison
  - Larouche, Marie-France
  - Lavery, Tracey
- - Lavoie, Gabrielle
  - Lawton, Stefanie
  - Lemay, Annie
  - Lilly, Kendra
@@ -225,12 +223,10 @@ vs:
  - McCarville, Krista
  - McInnis, Susan
  - McQuaid, Michelle
- - Meakin, Breanne
  - Miller, Wendy
  - Miskew, Emma
- - Moore, Kristie
  - Moses, Dawn
- - Munroe, Anna
+ - Murphy, Jeanette
  - Murphy, Sarah
  - Nedohin, Heather
  - Njegovan, Selena
@@ -272,6 +268,7 @@ vs:
  - Smith, Stacey
  - Snyder, Jane
  - Sobey, Lianne
+ - Sonnenberg, Renee
  - Strong, Heather
  - Strong, Helen
  - Strong, Laura
@@ -290,7 +287,7 @@ vs:
  - Wazney, Sarah
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
+ - Westcott, Raunora
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie

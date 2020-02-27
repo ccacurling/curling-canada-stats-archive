@@ -95,23 +95,26 @@ vs:
  - Bernard, Cheryl
  - Betker, Jan
  - Birt, Suzanne
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Boudreault, Patricia
  - Boyle, Jane
  - Brown, Rachel
- - Campbell, Jolene
  - Carey, Chelsea
  - Carter, Sasha
  - Christianson, Marie
- - Clark, Stefanie
  - Comeau, Sandy
  - Cooper, Kathryn
  - Cottrill, Katie
+ - Court, Morgan
  - Courtney, Joanne
  - Crawford, Andrea
- - Cunningham, Cathy
  - Cunningham, Jessica
  - Curtis, Stacie
+ - Daigle, Julie
  - Daniel, Sylvie
  - Darbyshire, Carolyn
+ - Davies, Lisa
  - Derick, Catherine
  - deSolla, Jodie
  - Devereaux, Julie
@@ -120,29 +123,32 @@ vs:
  - Duncan, Chelsea
  - Einarson, Kerri
  - Ferguson, Dana
+ - Flaxey, Allison
+ - Fleury, Tracy
  - Foster, Kristen
  - Fyfe, Liz
  - Gagnier, Monique
  - Galusha, Kerry
  - Gannon, Melissa
+ - Gates, Jenny
  - George, Tara
+ - Griffin, Alison
  - Gudereit, Marcia
- - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
  - Hardy, Shelley
  - Homan, Rachel
- - Howard, Ashley
  - Hughes, Meaghan
  - Inglis, Nancy
  - Jones, Jennifer
  - Kasner, Marliese
- - Koltun, Sarah
  - Kreviazuk, Alison
+ - Kreviazuk, Cheryl
  - Kreviazuk, Lynn
  - Lang, Lorraine
  - Larouche, Marie-France
  - Lavery, Tracey
+ - Lavoie, Gabrielle
  - Law, Kelley
  - Lawes, Kaitlyn
  - Lawton, Stefanie
@@ -154,10 +160,13 @@ vs:
  - McCarville, Krista
  - McDonald, Kristy
  - McEwen, Dawn
+ - Meakin, Breanne
+ - Meilleur, Briane
  - Miskew, Emma
  - Morgan, Cheryl
  - Morris, Cori
  - Moses, Dawn
+ - Munroe, Anna
  - Murphy, Jeanette
  - Njegovan, Selena
  - Nicholls, Brenda
@@ -174,16 +183,19 @@ vs:
  - Parsons, Danielle
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
+ - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
  - Power, Marie-Anne
  - Provencal, Darah
  - Rainville, Julie
  - Recksiedler, Kristen
+ - Reid, Jackie
  - Richard, Marie
  - Robichaud, Sylvie
- - Robison, Michala
  - Ross, Allison
+ - Rusnell, Jen
  - Sagle, Karen
  - Sanderson, Jessie
  - Sandwith, Carley
@@ -194,21 +206,20 @@ vs:
  - Sinclair, Andrea
  - Singler, Sherri
  - Sippala, Ashley
- - Sivertson, Dailene
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
  - Sweeting, Val
  - Thompson, Karla
  - Titheridge, Lindsay
- - Tuck, Kim
  - Vandale, Trysta
  - Van Osch, Kesa
  - Vautour, Carrie
  - Vey, Lana
  - Wallingham, Patty
+ - Wark, Sarah
  - Weagle, Lisa
  - Wheatcroft, Georgina
  - Whitaker, Carol
- - Williamson, Ashley
+ - Wilkes, Sarah
 ---

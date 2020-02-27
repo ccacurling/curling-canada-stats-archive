@@ -94,6 +94,7 @@ vs:
  - Gudereit, Marcia
  - Hanlon, Heidi
  - Herlinveaux, Louise
+ - Holden, Anna-Mae
  - Horne, Kate
  - Hutchinson, Joan
  - Jackson, Sherry
@@ -110,7 +111,6 @@ vs:
  - MacNutt, Shelley
  - MacPhee, Robyn
  - Marchand, Karine
- - Martin, Heather
  - Massullo, Deb
  - McConnery, Nancy
  - McCusker, Joan
@@ -133,7 +133,7 @@ vs:
  - Spencer, Barb
  - Stokes, Debbie
  - Strachan, Angela
- - Tobin, Lee
+ - Tousignant, Helene
  - Treloar, Cathy
  - Unrau, Faye
  - Wheatcroft, Georgina

@@ -117,39 +117,29 @@ years:
   shots-total: 16
   shots-percent: 75
 vs:
-- Armstrong, Jacquie
-- Atkinson, Rebecca
 - Babin, Jillian
-- Barbour, Shona
-- Bell, Chelsey
-- Boyle, Jane
-- Carter, Sasha
+- Brothers, Jill
 - Crawford, Andrea
 - Curtis, Stacie
-- deSolla, Jodie
-- Galusha, Kerry
+- Davies, Lisa
+- Duncan, Chelsea
+- Gannon, Melissa
 - Guzzwell, Stephanie
-- Holland, Amber
 - Jones, Jennifer
 - Joyce, Blisse
-- Kalenchuk, Heather
-- Kleibrink, Shannon
+- Koltun, Sarah
 - Lawes, Kaitlyn
 - Martin, Heather
 - McEwen, Dawn
-- Miller, Wendy
-- Moses, Dawn
-- Nixon, Amy
 - Nowlan, Denise
+- Nugent, Pamela
 - Officer, Jill
 - Parsons, Danielle
 - Paul, Sarah
-- Schneider, Kim
-- Schneider, Tammy
-- Schraeder, Jeanna
-- Scott, Kelly
+- Ross, Allison
+- Sinclair, Andrea
 - Smith, Heather
 - Sobey, Lianne
 - Udle, Teri
-- Webster, Bronwen
+- Wallingham, Patty
 ---

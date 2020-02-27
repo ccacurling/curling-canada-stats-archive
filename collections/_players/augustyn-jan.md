@@ -59,6 +59,7 @@ vs:
  - Balderston, Marcy
  - Bartlett, Sue Anne
  - Betker, Jan
+ - Blair, Diane
  - Blanchard, Judy
  - Bowering, Andrea
  - Burry, Gail
@@ -74,7 +75,6 @@ vs:
  - Currie, Barbara
  - Cutcliffe, Margaret
  - Dauphinais, Josee
- - Dickeson, Debbi
  - Dolan, Kim
  - Donald, Grace
  - Duck, Kim

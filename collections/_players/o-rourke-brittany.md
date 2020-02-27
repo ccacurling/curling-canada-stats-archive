@@ -93,7 +93,6 @@ vs:
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Ayrey, Jinaye
- - Baier, Stephanie
  - Barker, Penny
  - Baxter, Jen
  - Birt, Suzanne
@@ -131,11 +130,11 @@ vs:
  - Ferguson, Dana
  - Flaxey, Allison
  - Fleury, Tracy
- - Foster, Kristen
  - Fullerton, Sarah
  - Galusha, Kerry
  - Gates, Amanda
  - Hastings, Julie
+ - Hersikorn, Patty
  - Holtby, Taryn
  - Homan, Rachel
  - Hughes, Meaghan
@@ -152,7 +151,6 @@ vs:
  - Koltun, Sarah
  - Korab, Stephanie
  - Kreviazuk, Alison
- - Kreviazuk, Cheryl
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lawton, Stefanie
@@ -165,13 +163,13 @@ vs:
  - Martin, Heather
  - Mattatall, Mary
  - McCarville, Krista
- - McDonald, Kristy
  - McEwen, Dawn
  - McInnis, Susan
  - McQuaid, Michelle
  - Miller, Wendy
  - Miskew, Emma
  - Moore, Kristie
+ - Morris, Cori
  - Nedohin, Heather
  - Nixon, Amy
  - Officer, Jill
@@ -187,8 +185,6 @@ vs:
  - Robichaud, Sylvie
  - Robison, Michala
  - Rusnell, Jen
- - Sanderson, Jessie
- - Sandwith, Carley
  - Saulnier, Andrea
  - Schmidt, Stephanie
  - Schneider, Lorraine
@@ -197,21 +193,17 @@ vs:
  - Shumay, Jill
  - Sicinski, Danielle
  - Sinclair, Andrea
- - Singler, Sherri
  - Sippala, Ashley
  - Smith, Heather
  - Smith, Stacey
  - Snyder, Jane
- - Sonnenberg, Renee
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
- - Thiessen, Alison
- - Titheridge, Lindsay
  - Trickett, Erica
  - Trombley, Christy
  - Udle, Teri
- - Van Osch, Kesa
+ - Vey, Lana
  - Wallingham, Patty
  - Walsh, Jenna
  - Wasylkiw, Lauren

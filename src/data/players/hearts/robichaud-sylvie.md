@@ -87,7 +87,6 @@ years:
    shots-total: 161
    shots-percent: 78
 vs:
- - Allen, Michelle
  - Anderson, Sherry
  - Arsenault, Mary-Anne
  - Barbour, Shona
@@ -106,20 +105,20 @@ vs:
  - Campbell, Jolene
  - Carey, Chelsea
  - Carter, Sasha
- - Chislett, Geneva
+ - Chenier, Courtney
  - Christianson, Marie
  - Clark, Stefanie
+ - Clark-Rouire, Jennifer
  - Collins, Katrina
  - Cooper, Kathryn
  - Courtney, Joanne
+ - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jessica
  - Curtis, Stacie
  - Delahunt, Nancy
  - Devereaux, Julie
- - Dolan, Kim
  - Duncan, Chelsea
- - Duncan, Hollie
  - Duncan, Jenna
  - Einarson, Kerri
  - Englot, Michelle
@@ -128,11 +127,9 @@ vs:
  - Fesser, Krista
  - Filteau, Anne-Marie
  - Fleury, Tracy
- - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
- - Gibson, Amy
  - Goss, Peg
  - Hamon, Callan
  - Hanna, Jenn
@@ -142,7 +139,6 @@ vs:
  - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
- - Hutchings, Denise
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese
@@ -154,12 +150,10 @@ vs:
  - Koltun, Sarah
  - Korab, Stephanie
  - Korchinski, Karlee
- - Kreviazuk, Cheryl
  - Larouche, Marie-France
  - Lavery, Tracey
  - Lawes, Kaitlyn
  - Lawton, Stefanie
- - LeDrew, Stephanie
  - Lemay, Annie
  - Lilly, Kendra
  - MacCuish, Kristin
@@ -172,11 +166,9 @@ vs:
  - McEwen, Dawn
  - McInnis, Susan
  - McQuaid, Michelle
- - McTaggart, Cary-Anne
  - Middaugh, Sherry
  - Miskew, Emma
  - Moore, Kim
- - Moore, Kristie
  - Moses, Dawn
  - Murphy, Sarah
  - Njegovan, Selena
@@ -198,13 +190,11 @@ vs:
  - Rusnell, Jen
  - Sabourin, Joelle
  - Sagle, Karen
- - Scheidegger, Casey
- - Scheidegger, Jessie
  - Schmidt, Stephanie
  - Schraeder, Jeanna
  - Scott, Kelly
- - Shackleton, Amie
  - Simmons, Cindy
+ - Simons, Renee
  - Sippala, Ashley
  - Smallwood, Jody
  - Smith, Stacey
@@ -214,19 +204,19 @@ vs:
  - Surik, Teejay
  - Sweeting, Val
  - Thompson, Karla
+ - Trickett, Erica
  - Trombley, Christy
  - Udle, Teri
  - Vandale, Trysta
- - Van Osch, Kalia
- - Van Osch, Kesa
- - Van Osch, Marika
  - Vautour, Carrie
+ - Vey, Lana
  - Wall, Kirsten
  - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Bronwen
  - Webster, Crystal
- - West, Christianne
+ - Whitaker, Carol
+ - Wilkes, Sarah
  - Williamson, Ashley
  - Wylie, Jennifer
  - Yardley, Janelle

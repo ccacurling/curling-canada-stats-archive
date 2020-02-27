@@ -69,8 +69,25 @@ years:
    shots-total: 66
    shots-percent: 80
 vs:
- - Cottrill, Katie
- - Court, Morgan
- - Flaxey, Allison
- - Kreviazuk, Lynn
+ - Baier, Stephanie
+ - Brothers, Jill
+ - Brown, Rachel
+ - Carey, Chelsea
+ - Courtney, Joanne
+ - Ferguson, Dana
+ - Foster, Kristen
+ - Joyce, Blisse
+ - Kasner, Marliese
+ - Knezevic, Patti
+ - Lawton, Stefanie
+ - McDonald, Kristy
+ - Meakin, Breanne
+ - Sanderson, Jessie
+ - Sandwith, Carley
+ - Sivertson, Dailene
+ - Smith, Heather
+ - Sweeting, Val
+ - Titheridge, Lindsay
+ - Udle, Teri
+ - Van Osch, Kesa
 ---

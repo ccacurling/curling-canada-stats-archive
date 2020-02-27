@@ -57,6 +57,7 @@ vs:
  - Bartlett, Don
  - Burtnyk, Kerry
  - Engel, Ron
+ - Fenton, Darin
  - Fenton, Keith
  - Ferbey, Randy
  - Frans, Joseph
@@ -83,7 +84,6 @@ vs:
  - Mead, Jon
  - Meakin, Rob
  - Mellof, David
- - Miki, Bryan
  - Mitchell, Collin
  - Morris, John
  - Nedohin, David
@@ -91,6 +91,7 @@ vs:
  - Odishaw, Grant
  - Park, Kerry
  - Park, Kevin
+ - Park, Shane
  - Patterson, Scott
  - Perroud, Pat
  - Pfeifer, Scott

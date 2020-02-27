@@ -42,9 +42,12 @@ vs:
  - Bartlett, Sue Anne
  - Blanchard, Judy
  - Brown, Marcie
+ - Charette, Agnes
+ - Charette, France
  - Clark, Kim
  - Combden, Cathy
- - Dillon, Cathy
+ - Daniel, Sylvie
+ - Dolan, Kim
  - Englot, Michelle
  - Fahlman, Kathy
  - Floyd, Kathy
@@ -64,7 +67,8 @@ vs:
  - McArdle, Cindy
  - McInnis, Susan
  - Moses, Dawn
- - Nichols, Helen
+ - Osborne, Chantal
+ - Porter, Debbie
  - Sauer, Cathy
  - Scales, Julie
  - Skinner, Julie

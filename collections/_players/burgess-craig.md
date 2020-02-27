@@ -203,6 +203,7 @@ vs:
 - Harvey, Paul
 - Hebert, Ben
 - Heidt, Brad
+- Holowaychuk, Dan
 - Hong, Doug
 - Horning, Deane
 - Howard, Glenn

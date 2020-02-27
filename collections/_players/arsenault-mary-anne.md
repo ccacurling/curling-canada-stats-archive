@@ -354,6 +354,7 @@ years:
   shots-total: 174
   shots-percent: 84
 vs:
+- Adams, Melissa
 - Affleck, Tricia
 - Aleksic, Shannon
 - Allen, Laurie
@@ -362,12 +363,14 @@ vs:
 - Allerton, Dana
 - Anderson, Sherry
 - Arnott, Janet
+- Arsenault-Bishop, Nicole
 - Arseneau, Jane
 - Atkinson, Rebecca
 - Ayrey, Jinaye
 - Baker, Michelle
 - Bakker, Glenys
 - Balderston, Marcy
+- Barbour, Shona
 - Barrack, Carmen
 - Beauchamp, Sasha
 - Belanger, Nancy
@@ -380,6 +383,7 @@ vs:
 - Berthelot, Janique
 - Betker, Jan
 - Beveridge, Corie
+- Birchard, Shannon
 - Birt, Suzanne
 - Blackburn, Julie
 - Blais, Amelie
@@ -399,6 +403,7 @@ vs:
 - Burlington, Cheryl
 - Bush, Tracy
 - Byers, Denise
+- Cameron, Kate
 - Cameron, Nancy
 - Camozzi, Rhona
 - Campbell, Gloria
@@ -407,6 +412,7 @@ vs:
 - Carter, Sasha
 - Charette, Agnes
 - Charette, France
+- Chenier, Courtney
 - Cheveldave, Amber
 - Clark, Stefanie
 - Collins, Katrina
@@ -420,7 +426,6 @@ vs:
 - Crawford, Andrea
 - Cunningham, Cathy
 - Cunningham, Jessica
-- Currie, Wendy
 - Curtis, Stacie
 - Daku, Karen
 - Daniel, Sylvie
@@ -433,14 +438,20 @@ vs:
 - Dobson, Sue
 - Dolan, Kim
 - Dufresne, Audree
+- Duncan, Chelsea
+- Duncan, Hollie
+- Duncan, Jenna
 - Dunn, Anne
 - Dykstra, Michelle
+- Einarson, Kerri
 - Englot, Michelle
 - Enright, Barb
 - Fallis, Karen
 - Fallis-Kurz, Lynn
 - Farrell, Allison
 - Ferguson, Dana
+- Fesser, Kourtney
+- Fesser, Krista
 - Filteau, Anne-Marie
 - Fisher, Alana
 - Fister, Teri
@@ -450,12 +461,12 @@ vs:
 - Fortier, Marie-Josee
 - Fortin, Sylvie
 - Fowler, Lois
-- Fowler, Rhonda
 - Fowlie, Heather
 - Fraser, Sherry
 - Freeman, Lisa
 - Frey, Audrey
 - Fullerton, Sarah
+- Fyfe, Liz
 - Gagnier, Monique
 - Gagnon, Karo
 - Gagnon, Nathalie
@@ -465,6 +476,7 @@ vs:
 - Gauthier, Cathy
 - Gellard, Kim
 - George, Tara
+- Gibson, Amy
 - Gignac, Donna
 - Gogan, Jennifer
 - Goss, Peg
@@ -478,7 +490,6 @@ vs:
 - Hanlon, Heidi
 - Hanna, Jenn
 - Hanna, Stephanie
-- Harding, Mary
 - Hardy, Shelley
 - Harmark, Andra
 - Harrison, Meredith
@@ -502,6 +513,7 @@ vs:
 - Jones, Jennifer
 - Jones-Walker, Debbie
 - Jurgenson, Christine
+- Kallechy, Rachelle
 - Karam, Sally
 - Kasner, Marliese
 - Kaylo, Kelly
@@ -513,9 +525,11 @@ vs:
 - Kleibrink, Shannon
 - Knezevic, Patti
 - Koehler, Megan
+- Koltun, Sarah
 - Korab, Stephanie
+- Korchinski, Karlee
 - Kreviazuk, Alison
-- Lacey, Stacey
+- Kreviazuk, Cheryl
 - Laliberte, Connie
 - Lang, Lorraine
 - Lange, Ann
@@ -525,21 +539,23 @@ vs:
 - Lawes, Kaitlyn
 - Lawton, Stefanie
 - Leclerc, Valerie
+- LeDrew, Stephanie
 - Leger, Stacey
 - Lemay, Annie
 - Lemire, Nancy
 - Letendre, Pascale
 - Lewis, Kristy
 - Linton, Sherry
+- Lister, Kendra
 - Loder, Cherie-Ann
 - MacCallum, Janice
+- MacCuish, Kristin
 - MacDiarmid, Kristen
 - MacDonald, Lawnie
 - MacDonald, Rebecca Jean
 - MacDonald, Shelley
 - MacDougall, Leslie
 - MacInnes, Allison
-- MacNutt, Shelley
 - MacPhee, Robyn
 - Mair, Jessica
 - Mann, Lauren
@@ -562,6 +578,7 @@ vs:
 - McNamee, Karen
 - McPherson, Cheryl
 - McQuaid, Michelle
+- McTaggart, Cary-Anne
 - Merklinger, Anne
 - Middaugh, Sherry
 - Miller, Maureen
@@ -581,6 +598,7 @@ vs:
 - Nicholls, Brenda
 - Nicholson, Danielle
 - Nixon, Amy
+- Njegovan, Selena
 - Nowlan, Denise
 - Nugent, Pamela
 - O'Leary, Susan
@@ -596,9 +614,9 @@ vs:
 - Peters, Laine
 - Phillips, Margaret Lea
 - Pilote, Kristen
-- Pinkney, Colleen
 - Porter, Erin
 - Power, Marie-Anne
+- Price, Kara
 - Prosser, Sandi
 - Purdy, Karen
 - Radchenka, Tammy
@@ -616,10 +634,13 @@ vs:
 - Rudulier, Andrea
 - Rusnell, Jen
 - Sabourin, Joelle
+- Sagle, Karen
 - Sanders, Pat
 - Sandison, Janice
 - Santos, Deb
 - Scales, Julie
+- Scheidegger, Casey
+- Scheidegger, Jessie
 - Schmidt, Stephanie
 - Schmirler, Sandra
 - Schraeder, Jeanna
@@ -631,6 +652,7 @@ vs:
 - Simons, Renee
 - Singler, Sherri
 - Skinner, Julie
+- Smallwood, Jody
 - Smith, Heather
 - Smith, Stacey
 - Soligo, Melissa
@@ -662,6 +684,9 @@ vs:
 - Tuck, Kimberly
 - Tucker, Cindy
 - Unrau, Faye
+- Van Osch, Kalia
+- Van Osch, Kesa
+- Van Osch, Marika
 - Wall, Kirsten
 - Walsh, Heather
 - Walsh, Jenna
@@ -669,13 +694,15 @@ vs:
 - Wasylkiw, Lauren
 - Wazney, Sarah
 - Weagle, Lisa
-- Webb, Corine
 - Webster, Bronwen
+- Webster, Crystal
+- Westcott, Raunora
 - Wheatcroft, Georgina
 - Whitaker, Carol
 - Whitaker, Lise
 - Whitrow, Leanne
 - Willms, Karri
+- Wilson, Leslie
 - Wright, Joanne
 - Wright, Susan
 - Wylie, Jennifer

@@ -173,6 +173,7 @@ years:
   team: NED
   position: Alternate
 vs:
+- Affleck, Tricia
 - Alcoe-Holland, Jill
 - Aleksic, Shannon
 - Anderson, Sherry
@@ -188,30 +189,26 @@ vs:
 - Bernard, Cheryl
 - Betker, Jan
 - Birt, Suzanne
-- Blais, Amelie
 - Blanchard, Judy
 - Bonar, Maureen
 - Boyle, Jane
 - Bradley, Shelly
 - Brassard, Veronique
 - Brennan, Amanda
+- Brine, Jenn
 - Brothers, Jill
 - Cameron, Kate
-- Cameron, Nancy
 - Campbell, Jolene
 - Carrier, Julie
 - Carter, Sasha
 - Christianson, Marie
 - Clark, Stefanie
-- Clark-Rouire, Jennifer
-- Comstock, Melanie
 - Cooke, Gerri
 - Cordina, Sheri
 - Cormier, Sharon
 - Courtney, Joanne
 - Crawford, Andrea
 - Cunningham, Cathy
-- Cunningham, Jennifer
 - Curtis, Stacie
 - Cutcliffe, Margaret
 - Darbyshire, Carolyn
@@ -226,6 +223,7 @@ vs:
 - Eyamie, Lisa
 - Fallis, Karen
 - Fisher, Alana
+- Fleury, Tracy
 - Fowler, Lois
 - Freeman, Lisa
 - Fullerton, Sarah
@@ -233,6 +231,7 @@ vs:
 - Gagnon, Karo
 - Galusha, Kerry
 - Gatchell, Sara
+- Gates, Amanda
 - George, Tara
 - Gignac, Donna
 - Gogan, Jennifer
@@ -265,7 +264,6 @@ vs:
 - Kidd, Darlene
 - Kleibrink, Shannon
 - Koehler, Megan
-- Korab, Stephanie
 - Kreviazuk, Alison
 - Lang, Lorraine
 - Larouche, Marie-France
@@ -295,7 +293,6 @@ vs:
 - McInnis, Susan
 - McPherson, Cheryl
 - McQuaid, Michelle
-- Meakin, Breanne
 - Middaugh, Sherry
 - Miller, Wendy
 - Miskew, Emma
@@ -305,6 +302,7 @@ vs:
 - Moss, Debbie
 - Mulroney, Sandra
 - Murphy, Sarah
+- Nedohin, Heather
 - Nicholls, Brenda
 - Nicholson, Danielle
 - Njegovan, Selena
@@ -315,11 +313,13 @@ vs:
 - Officer, Jill
 - Olson-Johns, Lori
 - Overton-Clapham, Cathy
+- Parsons, Danielle
 - Paul, Sarah
 - Peters, Laine
 - Porter, Erin
 - Potts, Sarah
 - Preston, Sam
+- Rainville, Julie
 - Recksiedler, Kristen
 - Reed, Shellan
 - Richard, Marie
@@ -347,7 +347,6 @@ vs:
 - Strong, Laura
 - Surik, Teejay
 - Thiessen, Alison
-- Thomas-Kennell, Noelle
 - Thompson, Karla
 - Trickett, Erica
 - Tuck, Kimberly
@@ -357,6 +356,7 @@ vs:
 - Vey, Lana
 - Wall, Kirsten
 - Walsh, Heather
+- Walsh, Jenna
 - Weagle, Lisa
 - Webster, Crystal
 - Westcott, Raunora
@@ -365,5 +365,6 @@ vs:
 - Wilkes, Sarah
 - Williamson, Ashley
 - Wilson, Leslie
+- Wylie, Jennifer
 - Yardley, Janelle
 ---

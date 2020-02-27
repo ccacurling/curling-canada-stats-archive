@@ -44,4 +44,8 @@ years:
    team: "FERB"
    position: Alternate
 vs:
+ - Adams, Shawn
+ - Burgess, Craig
+ - Flemming, Paul
+ - Mittelstadt, Kelly
 ---

@@ -61,6 +61,7 @@ vs:
  - Graham-MacDonald, Bea
  - Harrison, Meredith
  - Hodson, Kim
+ - Holden, Anna-Mae
  - Horne, Kate
  - Iskiw, Beth
  - Jones, Colleen
@@ -71,7 +72,6 @@ vs:
  - King, Cathy
  - Lawes, Andrea
  - MacDonald, Lawnie
- - Martin, Heather
  - Middaugh, Sherry
  - Mittelstadt, Candice
  - Mulroney, Sandra

@@ -127,13 +127,10 @@ vs:
  - Allen, Michelle
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
- - Baier, Stephanie
- - Baldwin, Nicole
  - Barbour, Shona
  - Baxter, Jen
  - Belanger, Nancy
  - Bernard, Cheryl
- - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
@@ -158,6 +155,7 @@ vs:
  - Cunningham, Cathy
  - Cunningham, Jessica
  - Darbyshire, Carolyn
+ - Davies, Lisa
  - Delahunt, Nancy
  - Derick, Catherine
  - deSolla, Jodie
@@ -233,7 +231,6 @@ vs:
  - O'Rourke, Brittany
  - Overton-Clapham, Cathy
  - Parsons, Danielle
- - Peterman, Jocelyn
  - Pilote, Kristen
  - Prosser, Sandi
  - Richard, Marie
@@ -247,10 +244,8 @@ vs:
  - Sabourin, Joelle
  - Sanderson, Jessie
  - Sandwith, Carley
- - Schmidt, Stephanie
  - Scott, Kelly
  - Sharpe, Kelli
- - Shaw, Ladene
  - Simons, Renee
  - Sinclair, Andrea
  - Smith, Heather
@@ -259,11 +254,9 @@ vs:
  - Sobey, Lianne
  - Spencer, Barb
  - Strong, Heather
- - Strong, Helen
  - Strong, Laura
  - Sweeting, Val
  - Thomas, Jill
- - Thomas-Kennell, Noelle
  - Titheridge, Lindsay
  - Trombley, Christy
  - Udle, Teri
@@ -271,6 +264,7 @@ vs:
  - Wallingham, Patty
  - Walsh, Jenna
  - Weagle, Lisa
+ - Wilkes, Sarah
  - Wylie, Jennifer
  - Zinck, Kay
 ---

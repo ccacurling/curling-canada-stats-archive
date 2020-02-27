@@ -40,4 +40,8 @@ years:
    shots-total: 2
    shots-percent: 0
 vs:
+ - Blanchard, Judy
+ - Gogan, Jennifer
+ - Hanlon, Heidi
+ - Lacey, Stacey
 ---

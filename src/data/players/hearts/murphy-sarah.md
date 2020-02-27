@@ -88,22 +88,35 @@ years:
 vs:
  - Atkinson, Rebecca
  - Birt, Suzanne
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Boudreault, Patricia
  - Boyle, Jane
+ - Brown, Rachel
  - Campbell, Jolene
  - Carey, Chelsea
  - Christianson, Marie
+ - Courtney, Joanne
  - Curtis, Stacie
+ - Daigle, Julie
  - Devereaux, Julie
  - Einarson, Kerri
+ - Ferguson, Dana
+ - Fleury, Tracy
  - Fyfe, Liz
+ - Gates, Jenny
+ - Griffin, Alison
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
  - Jones, Jennifer
+ - Kreviazuk, Cheryl
  - Larouche, Marie-France
  - Lavery, Tracey
+ - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lemay, Annie
  - Lilly, Kendra
@@ -111,23 +124,34 @@ vs:
  - MacPhee, Robyn
  - McCarville, Krista
  - McEwen, Dawn
+ - Meilleur, Briane
+ - Miskew, Emma
+ - Munroe, Anna
  - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - O'Connor, Susan
  - Officer, Jill
  - O'Neill, Brit
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
+ - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Robichaud, Sylvie
+ - Rusnell, Jen
  - Sagle, Karen
+ - Sandwith, Carley
  - Sippala, Ashley
  - Thompson, Karla
  - Vandale, Trysta
  - Vautour, Carrie
+ - Wark, Sarah
+ - Weagle, Lisa
+ - Wilkes, Sarah
  - Williamson, Ashley
 ---

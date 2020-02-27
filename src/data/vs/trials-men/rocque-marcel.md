@@ -2,608 +2,608 @@
 title: Marcel Rocque Head-to-head
 name: Rocque, Marcel
 vs:
- - name: Ryan, Jeff     
-   totals:              
+ - name: Ryan, Jeff
+   totals:
     - event: Trials(Men)
-      player1:          
-        percent: 93     
-        wins: 0         
-        losses: 1       
-      player2:          
-        percent: 89     
-        wins: 1         
-        losses: 0       
+      player1:
+        percent: 93
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'FER'   
+    - player1:
+        team: 'FER'
         position: Lead
-        percent: 93   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'BUR'    
+        percent: 93
+        win: 0
+        loss: 1
+      player2:
+        team: 'BUR'
         position: Third
-        percent: 89    
-        win: 1         
-        loss: 0        
-      event: Trials (Men) 
-      year: 2001          
+        percent: 89
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2001
       draw: Round Robin(5)
       score: FER 5 - BUR 9
- - name: Ryan, Pat      
-   totals:              
+ - name: Ryan, Pat
+   totals:
     - event: Trials(Men)
-      player1:          
-        percent: 99     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 84     
-        wins: 0         
-        losses: 1       
+      player1:
+        percent: 99
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'FER'   
+    - player1:
+        team: 'FER'
         position: Lead
-        percent: 99   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'RYA'    
+        percent: 99
+        win: 1
+        loss: 0
+      player2:
+        team: 'RYA'
         position: Third
-        percent: 84    
-        win: 0         
-        loss: 1        
-      event: Trials (Men)  
-      year: 2005           
+        percent: 84
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2005
       draw: Round Robin(16)
-      score: RYA 5 - FER 8 
+      score: RYA 5 - FER 8
  - name: Rycroft, Carter
-   totals:              
+   totals:
     - event: Trials(Men)
-      player1:          
-        percent: 88     
-        wins: 0         
-        losses: 3       
-      player2:          
-        percent: 92     
-        wins: 3         
-        losses: 0       
+      player1:
+        percent: 88
+        wins: 0
+        losses: 3
+      player2:
+        percent: 92
+        wins: 3
+        losses: 0
    games:
-    - player1:        
-        team: 'FER'   
+    - player1:
+        team: 'FER'
         position: Lead
-        percent: 81   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MAR'     
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'MAR'
         position: Second
-        percent: 85     
-        win: 1          
-        loss: 0         
-      event: Trials (Men) 
-      year: 2001          
+        percent: 85
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2001
       draw: Round Robin(6)
       score: FER 6 - MAR 7
-    - player1:        
-        team: 'FER'   
+    - player1:
+        team: 'FER'
         position: Lead
-        percent: 88   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MAR'     
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'MAR'
         position: Second
-        percent: 95     
-        win: 1          
-        loss: 0         
-      event: Trials (Men) 
-      year: 2005          
+        percent: 95
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2005
       draw: Round Robin(2)
       score: FER 5 - MAR 8
-    - player1:        
-        team: 'FERB'  
+    - player1:
+        team: 'FERB'
         position: Lead
-        percent: 95   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'KOE'     
+        percent: 95
+        win: 0
+        loss: 1
+      player2:
+        team: 'KOE'
         position: Second
-        percent: 98     
-        win: 1          
-        loss: 0         
-      event: Trials (Men)  
-      year: 2009           
-      draw: Round Robin(7) 
+        percent: 98
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2009
+      draw: Round Robin(7)
       score: FERB 4 - KOE 9
- - name: Savill, Craig  
-   totals:              
+ - name: Savill, Craig
+   totals:
     - event: Trials(Men)
-      player1:          
-        percent: 85     
-        wins: 1         
-        losses: 2       
-      player2:          
-        percent: 87     
-        wins: 2         
-        losses: 1       
+      player1:
+        percent: 85
+        wins: 1
+        losses: 2
+      player2:
+        percent: 87
+        wins: 2
+        losses: 1
    games:
-    - player1:        
-        team: 'FER'   
+    - player1:
+        team: 'FER'
         position: Lead
-        percent: 78   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'MOR'     
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'MOR'
         position: Second
-        percent: 82     
-        win: 0          
-        loss: 1         
-      event: Trials (Men) 
-      year: 2001          
+        percent: 82
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2001
       draw: Round Robin(2)
       score: MOR 3 - FER 9
-    - player1:        
-        team: 'FER'   
+    - player1:
+        team: 'FER'
         position: Lead
-        percent: 81   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'HOW'   
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'HOW'
         position: Lead
-        percent: 89   
-        win: 1        
-        loss: 0       
-      event: Trials (Men) 
-      year: 2005          
+        percent: 89
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2005
       draw: Round Robin(8)
       score: FER 4 - HOW 7
-    - player1:        
-        team: 'FERB'  
+    - player1:
+        team: 'FERB'
         position: Lead
-        percent: 95   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'HOWA'  
+        percent: 95
+        win: 0
+        loss: 1
+      player2:
+        team: 'HOWA'
         position: Lead
-        percent: 90   
-        win: 1        
-        loss: 0       
-      event: Trials (Men)   
-      year: 2009            
-      draw: Round Robin(6)  
+        percent: 90
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2009
+      draw: Round Robin(6)
       score: FERB 6 - HOWA 8
- - name: Sawatsky, Rick 
-   totals:              
+ - name: Sawatsky, Rick
+   totals:
     - event: Trials(Men)
-      player1:          
-        percent: 99     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 93     
-        wins: 0         
-        losses: 1       
+      player1:
+        percent: 99
+        wins: 1
+        losses: 0
+      player2:
+        percent: 93
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'FER'   
+    - player1:
+        team: 'FER'
         position: Lead
-        percent: 99   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'RYA'   
+        percent: 99
+        win: 1
+        loss: 0
+      player2:
+        team: 'RYA'
         position: Lead
-        percent: 93   
-        win: 0        
-        loss: 1       
-      event: Trials (Men)  
-      year: 2005           
+        percent: 93
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2005
       draw: Round Robin(16)
-      score: RYA 5 - FER 8 
- - name: Sharp, Jeff    
-   totals:              
+      score: RYA 5 - FER 8
+ - name: Sharp, Jeff
+   totals:
     - event: Trials(Men)
-      player1:          
-        percent: 94     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 81     
-        wins: 0         
-        losses: 1       
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'FERB'  
+    - player1:
+        team: 'FERB'
         position: Lead
-        percent: 94   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'SIMM'    
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'SIMM'
         position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      event: Trials (Men)   
-      year: 2009            
-      draw: Round Robin(3)  
+        percent: 81
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2009
+      draw: Round Robin(3)
       score: SIMM 4 - FERB 9
- - name: Simmons, Pat   
-   totals:              
+ - name: Simmons, Pat
+   totals:
     - event: Trials(Men)
-      player1:          
-        percent: 94     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 76     
-        wins: 0         
-        losses: 1       
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'FERB'  
+    - player1:
+        team: 'FERB'
         position: Lead
-        percent: 94   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'SIMM'    
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'SIMM'
         position: Fourth
-        percent: 76     
-        win: 0          
-        loss: 1         
-      event: Trials (Men)   
-      year: 2009            
-      draw: Round Robin(3)  
+        percent: 76
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2009
+      draw: Round Robin(3)
       score: SIMM 4 - FERB 9
  - name: Stambaugh, Doug
-   totals:              
+   totals:
     - event: Trials(Men)
-      player1:          
-        percent: 91     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 88     
-        wins: 0         
-        losses: 1       
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'FER'   
+    - player1:
+        team: 'FER'
         position: Lead
-        percent: 91   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'PAR'   
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'PAR'
         position: Lead
-        percent: 88   
-        win: 0        
-        loss: 1       
-      event: Trials (Men) 
-      year: 2001          
+        percent: 88
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2001
       draw: Round Robin(8)
       score: PAR 7 - FER 9
  - name: Stoughton, Jeff
-   totals:              
+   totals:
     - event: Trials(Men)
-      player1:          
-        percent: 86     
-        wins: 1         
-        losses: 2       
-      player2:          
-        percent: 89     
-        wins: 2         
-        losses: 1       
+      player1:
+        percent: 86
+        wins: 1
+        losses: 2
+      player2:
+        percent: 89
+        wins: 2
+        losses: 1
    games:
-    - player1:        
-        team: 'FER'   
+    - player1:
+        team: 'FER'
         position: Lead
-        percent: 78   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'STO'     
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'STO'
         position: Fourth
-        percent: 88     
-        win: 0          
-        loss: 1         
-      event: Trials (Men) 
-      year: 2001          
+        percent: 88
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2001
       draw: Round Robin(1)
       score: STO 3 - FER 6
-    - player1:        
-        team: 'FER'   
+    - player1:
+        team: 'FER'
         position: Lead
-        percent: 96   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'STO'     
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'STO'
         position: Fourth
-        percent: 92     
-        win: 1          
-        loss: 0         
-      event: Trials (Men)  
-      year: 2005           
+        percent: 92
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2005
       draw: Round Robin(10)
       score: STO 11 - FER 2
-    - player1:        
-        team: 'FERB'  
+    - player1:
+        team: 'FERB'
         position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'STOU'    
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'STOU'
         position: Fourth
-        percent: 88     
-        win: 1          
-        loss: 0         
-      event: Trials (Men)   
-      year: 2009            
-      draw: Round Robin(2)  
+        percent: 88
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2009
+      draw: Round Robin(2)
       score: FERB 5 - STOU 9
  - name: Sveistrup, Jody
-   totals:              
+   totals:
     - event: Trials(Men)
-      player1:          
-        percent: 91     
-        wins: 0         
-        losses: 1       
-      player2:          
-        percent: 89     
-        wins: 1         
-        losses: 0       
+      player1:
+        percent: 91
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'FER'   
+    - player1:
+        team: 'FER'
         position: Lead
-        percent: 91   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'MCA'   
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCA'
         position: Lead
-        percent: 89   
-        win: 1        
-        loss: 0       
-      event: Trials (Men) 
-      year: 2001          
+        percent: 89
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2001
       draw: Round Robin(7)
       score: FER 7 - MCA 9
- - name: Tetley, Ian    
-   totals:              
+ - name: Tetley, Ian
+   totals:
     - event: Trials(Men)
-      player1:          
-        percent: 87     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 78     
-        wins: 0         
-        losses: 1       
+      player1:
+        percent: 87
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'FER'   
+    - player1:
+        team: 'FER'
         position: Lead
-        percent: 87   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'MID'     
+        percent: 87
+        win: 1
+        loss: 0
+      player2:
+        team: 'MID'
         position: Second
-        percent: 78     
-        win: 0          
-        loss: 1         
-      event: Trials (Men)  
-      year: 2001           
-      draw: Round Robin(4) 
+        percent: 78
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2001
+      draw: Round Robin(4)
       score: MID 7 - FER 12
  - name: Thiessen, Nolan
-   totals:              
+   totals:
     - event: Trials(Men)
-      player1:          
-        percent: 95     
-        wins: 0         
-        losses: 1       
-      player2:          
-        percent: 91     
-        wins: 1         
-        losses: 0       
+      player1:
+        percent: 95
+        wins: 0
+        losses: 1
+      player2:
+        percent: 91
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'FERB'  
+    - player1:
+        team: 'FERB'
         position: Lead
-        percent: 95   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'KOE'   
+        percent: 95
+        win: 0
+        loss: 1
+      player2:
+        team: 'KOE'
         position: Lead
-        percent: 91   
-        win: 1        
-        loss: 0       
-      event: Trials (Men)  
-      year: 2009           
-      draw: Round Robin(7) 
+        percent: 91
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2009
+      draw: Round Robin(7)
       score: FERB 4 - KOE 9
- - name: Ursel, Bob     
-   totals:              
+ - name: Ursel, Bob
+   totals:
     - event: Trials(Men)
-      player1:          
-        percent: 89     
-        wins: 0         
-        losses: 1       
-      player2:          
-        percent: 69     
-        wins: 1         
-        losses: 0       
+      player1:
+        percent: 89
+        wins: 0
+        losses: 1
+      player2:
+        percent: 69
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'FER'   
+    - player1:
+        team: 'FER'
         position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'GRE'    
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'GRE'
         position: Third
-        percent: 69    
-        win: 1         
-        loss: 0        
-      event: Trials (Men)  
-      year: 2001           
-      draw: Round Robin(3) 
+        percent: 69
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2001
+      draw: Round Robin(3)
       score: GRE 10 - FER 6
  - name: Vandenberghe, Garry
-   totals:                  
-    - event: Trials(Men)    
-      player1:              
-        percent: 85         
-        wins: 1             
-        losses: 1           
-      player2:              
-        percent: 83         
-        wins: 1             
-        losses: 1           
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 85
+        wins: 1
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 1
    games:
-    - player1:        
-        team: 'FER'   
+    - player1:
+        team: 'FER'
         position: Lead
-        percent: 78   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'STO'     
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'STO'
         position: Second
-        percent: 76     
-        win: 0          
-        loss: 1         
-      event: Trials (Men) 
-      year: 2001          
+        percent: 76
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2001
       draw: Round Robin(1)
       score: STO 3 - FER 6
-    - player1:        
-        team: 'FER'   
+    - player1:
+        team: 'FER'
         position: Lead
-        percent: 96   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'STO'     
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'STO'
         position: Second
-        percent: 94     
-        win: 1          
-        loss: 0         
-      event: Trials (Men)  
-      year: 2005           
+        percent: 94
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2005
       draw: Round Robin(10)
       score: STO 11 - FER 2
- - name: Walchuk, Don   
-   totals:              
+ - name: Walchuk, Don
+   totals:
     - event: Trials(Men)
-      player1:          
-        percent: 84     
-        wins: 0         
-        losses: 2       
-      player2:          
-        percent: 86     
-        wins: 2         
-        losses: 0       
+      player1:
+        percent: 84
+        wins: 0
+        losses: 2
+      player2:
+        percent: 86
+        wins: 2
+        losses: 0
    games:
-    - player1:        
-        team: 'FER'   
+    - player1:
+        team: 'FER'
         position: Lead
-        percent: 81   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'MAR'    
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'MAR'
         position: Third
-        percent: 84    
-        win: 1         
-        loss: 0        
-      event: Trials (Men) 
-      year: 2001          
+        percent: 84
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2001
       draw: Round Robin(6)
       score: FER 6 - MAR 7
-    - player1:        
-        team: 'FER'   
+    - player1:
+        team: 'FER'
         position: Lead
-        percent: 88   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'MAR'    
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'MAR'
         position: Third
-        percent: 89    
-        win: 1         
-        loss: 0        
-      event: Trials (Men) 
-      year: 2005          
+        percent: 89
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2005
       draw: Round Robin(2)
       score: FER 5 - MAR 8
- - name: Whittle, Mark  
-   totals:              
+ - name: Whittle, Mark
+   totals:
     - event: Trials(Men)
-      player1:          
-        percent: 89     
-        wins: 0         
-        losses: 1       
-      player2:          
-        percent: 86     
-        wins: 1         
-        losses: 0       
+      player1:
+        percent: 89
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'FER'   
+    - player1:
+        team: 'FER'
         position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'GRE'     
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'GRE'
         position: Second
-        percent: 86     
-        win: 1          
-        loss: 0         
-      event: Trials (Men)  
-      year: 2001           
-      draw: Round Robin(3) 
+        percent: 86
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2001
+      draw: Round Robin(3)
       score: GRE 10 - FER 6
- - name: Zawada, Braden 
-   totals:              
+ - name: Zawada, Braden
+   totals:
     - event: Trials(Men)
-      player1:          
-        percent: 88     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 81     
-        wins: 0         
-        losses: 1       
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'FERB'  
+    - player1:
+        team: 'FERB'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'GUNN'    
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'GUNN'
         position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      event: Trials (Men)   
-      year: 2009            
-      draw: Round Robin(4)  
+        percent: 81
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2009
+      draw: Round Robin(4)
       score: FERB 9 - GUNN 4
 ---

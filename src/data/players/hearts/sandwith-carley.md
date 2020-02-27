@@ -55,52 +55,50 @@ years:
 vs:
  - Anderson, Sherry
  - Atkinson, Rebecca
- - Baldwin, Nicole
- - Barbour, Shona
- - Birnie, Hailey
  - Birt, Suzanne
  - Blaney, Jennifer
  - Bodner, Jenine
  - Boudreault, Patricia
+ - Brine, Jenn
  - Brothers, Jill
  - Brown, Rachel
  - Carey, Chelsea
+ - Carmody, Erin
  - Christianson, Marie
  - Cooper, Kathryn
  - Cottrill, Katie
+ - Court, Morgan
  - Courtney, Joanne
  - Crawford, Andrea
  - Cunningham, Jessica
  - Daigle, Julie
+ - Davies, Lisa
  - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
  - Ferguson, Dana
+ - Flaxey, Allison
+ - Fleury, Tracy
  - Foster, Kristen
- - Galusha, Kerry
+ - Fyfe, Liz
  - Gannon, Melissa
  - Gates, Jenny
  - Griffin, Alison
- - Guzzwell, Stephanie
- - Hamilton, Beth
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
- - Ingram, Megan
- - Jewer, Michelle
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese
  - Koltun, Sarah
  - Kreviazuk, Alison
- - Kreviazuk, Lynn
- - Lang, Lorraine
- - Larouche, Marie-France
+ - Kreviazuk, Cheryl
  - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
+ - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - McCarville, Krista
  - McDonald, Kristy
@@ -108,27 +106,24 @@ vs:
  - McQuaid, Michelle
  - Miskew, Emma
  - Munroe, Anna
+ - Murphy, Sarah
+ - Njegovan, Selena
  - Nugent, Pamela
- - O'Rourke, Brittany
  - Parsons, Danielle
  - Peterman, Jocelyn
+ - Pinksen, Sadie
  - Potts, Sarah
  - Robison, Michala
  - Ross, Allison
- - Sharpe, Kelli
- - Shaw, Ladene
  - Silvernagle, Robyn
  - Sinclair, Andrea
  - Singler, Sherri
- - Sivertson, Dailene
  - Smith, Heather
  - Strong, Heather
- - Strong, Helen
  - Strong, Laura
  - Sweeting, Val
  - Thevenot, Kara
  - Titheridge, Lindsay
- - Tran, Brittany
  - Tuck, Kim
  - Udle, Teri
  - Wallingham, Patty

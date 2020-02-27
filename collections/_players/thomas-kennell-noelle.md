@@ -44,23 +44,8 @@ years:
    team: "NL"
    position: Alternate
 vs:
- - Anderson, Sherry
  - Brown, Rachel
- - Chisholm, Candace
- - Englot, Michelle
+ - Courtney, Joanne
  - Ferguson, Dana
- - Iskiw, Beth
- - Kasner, Marliese
- - Lawton, Stefanie
- - Mair, Jessica
- - Materi, Roberta
- - Nedohin, Heather
- - Nixon, Amy
- - Olson-Johns, Lori
- - Peters, Laine
- - Schmidt, Stephanie
- - Slywka, Sarah
  - Sweeting, Val
- - Vey, Lana
- - Wilkes, Sarah
 ---

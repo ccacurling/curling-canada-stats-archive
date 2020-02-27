@@ -175,7 +175,6 @@ vs:
 - Gallant, Chris
 - Grattan, James
 - Griffith, Ty
-- Griffith, Tyrel
 - Gushue, Brad
 - Harnden, E.J.
 - Harnden, Ryan

@@ -150,6 +150,7 @@ vs:
 - Schneider, Catlin
 - Simmons, Pat
 - St.Louis, David
+- Steski, Peter
 - Sylvain, Eric
 - Thiessen, Brad
 - Thiessen, Nolan

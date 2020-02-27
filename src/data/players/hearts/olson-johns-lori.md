@@ -83,6 +83,7 @@ vs:
  - Blais, Amelie
  - Boyle, Jane
  - Bradley, Shelly
+ - Brown, Marcie
  - Burgess, Carey
  - Cameron, Nancy
  - Camozzi, Rhona
@@ -107,7 +108,6 @@ vs:
  - Gates, Amanda
  - Gauthier, Cathy
  - George, Tara
- - Hamilton, Beth
  - Hanna, Jenn
  - Hanna, Stephanie
  - Hardy, Shelley
@@ -136,6 +136,7 @@ vs:
  - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
+ - McPherson, Cheryl
  - McQuaid, Michelle
  - Miskew, Emma
  - Mittelstadt, Candice
@@ -168,12 +169,12 @@ vs:
  - Strong, Laura
  - Stubbings, Tiffany
  - Tanner, Ros
- - Thomas-Kennell, Noelle
  - Thurston, Jill
  - Trombley, Christy
  - Walsh, Jenna
  - Weagle, Lisa
  - Wheatcroft, Georgina
+ - Whitaker, Carol
  - Wylie, Jennifer
  - Zinck, Kay
 ---

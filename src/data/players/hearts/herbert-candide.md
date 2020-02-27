@@ -13,12 +13,4 @@ years:
    team: "QC"
    position: Alternate
 vs:
- - Arseneau, Jane
- - Burlington, Cheryl
- - Cormier, Sharon
- - Farrell, Allison
- - Floyd, Kathy
- - Gagnier, Monique
- - Kaylo, Kelly
- - Power, Marie-Anne
 ---

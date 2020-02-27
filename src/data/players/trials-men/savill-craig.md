@@ -110,7 +110,6 @@ vs:
  - Forrest, Tyler
  - Fowler, Rob
  - Fry, Ryan
- - Germsheid, Tony
  - Gibson, Andrew
  - Gould, Steve
  - Grattan, James
@@ -153,6 +152,7 @@ vs:
  - Nichols, Mark
  - Odishaw, Grant
  - Park, Kevin
+ - Park, Shane
  - Peachey, Jay
  - Pfeifer, Scott
  - Pierce, Brent
@@ -165,6 +165,7 @@ vs:
  - Sawatsky, Rick
  - Sharp, Jeff
  - Simmons, Pat
+ - Smith, Garth
  - Stambaugh, Doug
  - Stoughton, Jeff
  - Sveistrup, Jody

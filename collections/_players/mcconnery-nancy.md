@@ -105,7 +105,6 @@ years:
    shots-percent: 67
 vs:
  - Affleck, Tricia
- - Aleksic, Shannon
  - Allen, Laurie
  - Anderson, Sherry
  - Armstrong, Jacquie
@@ -126,6 +125,7 @@ vs:
  - Boily, Caroline
  - Bonar, Maureen
  - Bowman, Mary
+ - Bradley, Shelly
  - Breen, Theresa
  - Brophy, Cathy
  - Brown, Jacalyn
@@ -181,7 +181,6 @@ vs:
  - Jenkins, Sandra
  - Jennings, Tracey
  - Jesty, Janet
- - Jewer, Michelle
  - Johnstone, Loralee
  - Jones, Colleen
  - Jones, Jennifer
@@ -219,6 +218,7 @@ vs:
  - Marchand, Karine
  - Marchuk, Lindy
  - Martin, Heather
+ - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McCloy, Elaine
  - McCrady, Christine
@@ -242,8 +242,10 @@ vs:
  - O'Rourke, Kathy
  - Osborne, Chantal
  - Overton-Clapham, Cathy
+ - Peters, Laine
  - Phillips, Kristen
  - Phillips, Laura
+ - Potts, Sarah
  - Rainville, Julie
  - Ramsay, Geri Lynn
  - Rankin, Heather
@@ -270,7 +272,6 @@ vs:
  - Strachan, Angela
  - Strong, Heather
  - Strong, Laura
- - Surik, Teejay
  - Sutton, Jodie
  - Sweeting, Val
  - Thomas, Maria
@@ -278,7 +279,7 @@ vs:
  - Todd, Fran
  - Unrau, Faye
  - Vey, Lana
- - Webb, Corine
+ - Westcott, Raunora
  - Willms, Karri
  - Wilson, Leslie
  - Wright, Joanne

@@ -70,6 +70,7 @@ vs:
  - Bradley, Shelly
  - Brown, Jacalyn
  - Burlington, Cheryl
+ - Cameron, Nancy
  - Cormier, Sharon
  - Cunningham, Cathy
  - Delahunt, Nancy
@@ -87,10 +88,10 @@ vs:
  - Goss, Peg
  - Graham-MacDonald, Bea
  - Grenier, Valerie
- - Harding, Mary
  - Harrison, Meredith
  - Harvey, Alison
  - Hodson, Kim
+ - Holden, Anna-Mae
  - Holowec, Ainsley
  - Horne, Kate
  - Iskiw, Beth
@@ -109,7 +110,6 @@ vs:
  - MacDonald, Lawnie
  - MacDonald, Shelley
  - MacDougall, Leslie
- - Martin, Heather
  - Materi, Roberta
  - McCagg-Nystrom, Heather
  - McDonald, Tina

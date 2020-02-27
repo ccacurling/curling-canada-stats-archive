@@ -144,6 +144,7 @@ vs:
 - Harris, Rob
 - Hart, Richard
 - Hebert, Ben
+- Holowaychuk, Dan
 - Horning, Deane
 - Howard, Glenn
 - Howard, Russ

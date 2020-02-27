@@ -134,6 +134,7 @@ vs:
  - Bowman, Mary
  - Bradley, Shelly
  - Breen, Theresa
+ - Brown, Maureen
  - Bryant, Angie
  - Busche, Jodi
  - Cameron, Nancy
@@ -162,7 +163,6 @@ vs:
  - Fowler, Lois
  - Fraser, Sherry
  - Frey, Audrey
- - Funk, LaDawn
  - Gallant, Kathie
  - Garnett, Lorelei
  - Gauthier, Cathy
@@ -179,7 +179,6 @@ vs:
  - Harvey, Alison
  - Harvey, Carol
  - Harvey, Janet
- - Henry, Lou Ann
  - Hooper Perroud, Jane
  - Horne, Kate
  - Houston, Heather
@@ -215,6 +214,7 @@ vs:
  - Mallett, Marla
  - Marchand, Jessica
  - Marchand, Stephanie
+ - Matheson, Sandy
  - Mattatall, Mary
  - McCloy, Elaine
  - McConnery, Nancy

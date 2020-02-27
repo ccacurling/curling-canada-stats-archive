@@ -327,8 +327,8 @@ vs:
  - Bowman, Mary
  - Bradley, Shelly
  - Breen, Theresa
+ - Briand, Oye-Sem Won
  - Brophy, Cathy
- - Brown, Jacalyn
  - Brown, Janet
  - Bryant, Angie
  - Byers, Denise
@@ -344,8 +344,10 @@ vs:
  - Charette, Agnes
  - Charette, France
  - Cheveldave, Amber
+ - Clark-Rouire, Jennifer
  - Comeau, Martine
  - Comeau, Sandy
+ - Cooke, Gerri
  - Cordina, Sheri
  - Couling, Betty
  - Courtney, Joanne
@@ -381,6 +383,7 @@ vs:
  - Fister, Toni
  - Fleury, Tracy
  - Floyd, Kathy
+ - Ford, Atina
  - Fortin, Sylvie
  - Fowler, Lois
  - Fowler, Rhonda
@@ -392,6 +395,7 @@ vs:
  - Garvey, Sue
  - Gatchell, Sara
  - Gates, Amanda
+ - Gates, Jenny
  - Gauthier, Cathy
  - Gellard, Kim
  - George, Tara
@@ -403,14 +407,13 @@ vs:
  - Graham-MacDonald, Bea
  - Greening, Jackie-Rae
  - Gudereit, Marcia
- - Gushulak, Diane
  - Hanlon, Heidi
+ - Hardy, Shelley
  - Harrison, Meredith
  - Harvey, Alison
  - Harvey, Carol
  - Harvey, Janet
  - Henry, Lou Ann
- - Herbert, Candide
  - Hill, Trish
  - Hodson, Kim
  - Holland, Amber
@@ -422,7 +425,6 @@ vs:
  - Hughes, Meaghan
  - Iskiw, Beth
  - Jenkins, Sandra
- - Jewer, Michelle
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
@@ -436,7 +438,6 @@ vs:
  - Kleibrink, Shannon
  - Korab, Stephanie
  - Kreviazuk, Alison
- - Lacey, Stacey
  - Lahucik, Val
  - Laliberte, Connie
  - Larouche, Marie-France
@@ -455,7 +456,6 @@ vs:
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacInnes, Allison
- - MacInnes, Grace
  - MacLean, Kari
  - MacLeod, Lisa
  - MacNutt, Shelley
@@ -508,12 +508,12 @@ vs:
  - Rainville, Julie
  - Ramsay, Geri Lynn
  - Rankin, Heather
- - Recksiedler, Kristen
  - Renouf, Michele
  - Richards, Brette
  - Roberts, Angela
  - Robertson, Darcy
  - Robinson, Lori
+ - Robison, Michala
  - Rogers, Rhonda
  - Ross, Allison
  - Sabourin, Joelle
@@ -539,6 +539,7 @@ vs:
  - Sobey, Lianne
  - Soligo, Melissa
  - Spencer, Barb
+ - Stewart, Sheri
  - Strachan, Angela
  - Strong, Heather
  - Strong, Laura
@@ -553,13 +554,11 @@ vs:
  - Trickett, Erica
  - Trider, Krista
  - Trowell, Cathy
- - Turcotte, Kristin
  - Udle, Teri
  - Unrau, Faye
  - Vey, Lana
  - Walsh, Jenna
  - Wasylkiw, Lauren
- - Wazney, Sarah
  - Weagle, Lisa
  - Westcott, Raunora
  - Wilkes, Sarah

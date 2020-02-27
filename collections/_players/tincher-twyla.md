@@ -40,8 +40,8 @@ vs:
  - Allen, Michelle
  - Arnott, Janet
  - Arsenault, Mary-Anne
- - Arseneau, Jane
  - Balderston, Marcy
+ - Beddington, Shalegh
  - Berthelot, Janique
  - Bohmer, Brenda
  - Byers, Denise
@@ -49,11 +49,13 @@ vs:
  - Delahunt, Nancy
  - Dolan, Kim
  - Farrell, Allison
+ - Floyd, Kathy
  - Gellard, Kim
  - Harding, Mary
  - Henry, Lou Ann
  - Horne, Kate
  - Jones, Colleen
+ - Jones-Walker, Debbie
  - Karam, Sally
  - Kelly, Kim
  - King, Cathy
@@ -71,13 +73,11 @@ vs:
  - Renouf, Michele
  - Ross, Allison
  - Sabourin, Joelle
- - Sanders, Pat
  - Sharpe, Kelli
  - Sonnenberg, Renee
  - Street, Cindy
  - Strong, Heather
  - Tanner, Allison
- - Thurston, Jill
  - Tucker, Cindy
  - Wright, Susan
 ---

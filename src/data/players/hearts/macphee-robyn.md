@@ -172,17 +172,16 @@ years:
    shots-total: 153
    shots-percent: 75
 vs:
- - Adams, Melissa
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Allen, Michelle
- - Anderson, Sherry
  - Armstrong, Jacquie
+ - Arnaud, Chloe
  - Arnott, Janet
  - Arsenault, Mary-Anne
- - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Babin, Jillian
+ - Baldwin, Nicole
  - Barbour, Shona
  - Barker, Penny
  - Belanger, Nancy
@@ -191,14 +190,13 @@ vs:
  - Belley, Joelle
  - Bernard, Cheryl
  - Betker, Jan
- - Birchard, Shannon
  - Blackburn, Julie
  - Blais, Amelie
  - Blanchard, Judy
  - Bohmer, Brenda
  - Boyle, Jane
  - Brassard, Veronique
- - Brennan, Amanda
+ - Brine, Jenn
  - Brothers, Jill
  - Brown, Jacalyn
  - Bush, Tracy
@@ -207,8 +205,10 @@ vs:
  - Campbell, Gloria
  - Campbell, Jolene
  - Carey, Chelsea
+ - Carrier, Julie
  - Carter, Sasha
  - Chislett, Geneva
+ - Clark-Rouire, Jennifer
  - Clarke, Hayley
  - Comeau, Sandy
  - Cormier, Sharon
@@ -228,9 +228,7 @@ vs:
  - deSolla, Jodie
  - Devereaux, Julie
  - Doig, Deanna
- - Duncan, Chelsea
  - Duncan, Hollie
- - Duncan, Jenna
  - Dunn, Anne
  - Einarson, Kerri
  - Englot, Michelle
@@ -238,17 +236,14 @@ vs:
  - Eyamie, Lisa
  - Fallis, Karen
  - Farrell, Allison
- - Fesser, Kourtney
- - Fesser, Krista
  - Fister, Teri
  - Fister, Toni
- - Fleury, Tracy
  - Fortier, Marie-Josee
  - Fyfe, Liz
  - Gagnier, Monique
+ - Gagnon, Emilia
  - Gagnon, Nathalie
  - Galusha, Kerry
- - Gates, Amanda
  - Gauthier, Cathy
  - George, Tara
  - Gibson, Amy
@@ -257,7 +252,6 @@ vs:
  - Goss, Peg
  - Greening, Jackie-Rae
  - Gregoire, Veronique
- - Grenier, Valerie
  - Gudereit, Marcia
  - Gushulak, Diane
  - Guzzwell, Stephanie
@@ -268,18 +262,19 @@ vs:
  - Hanna, Stephanie
  - Hardy, Shelley
  - Harmark, Andra
- - Harrison, Meredith
+ - Harvey, Marie-Pier
  - Hill, Trish
+ - Holden, Anna-Mae
  - Holland, Amber
  - Homan, Rachel
  - Horne, Kate
  - Howard, Ashley
- - Hutchings, Denise
  - Inglis, Nancy
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Karwacki, Krysten
  - Kasner, Marliese
  - Kelly, Kim
  - Kerr, Kathy
@@ -288,14 +283,12 @@ vs:
  - Kleibrink, Shannon
  - Koehler, Megan
  - Koltun, Sarah
- - Korchinski, Karlee
  - Kreviazuk, Alison
  - Kreviazuk, Cheryl
  - Lacey, Stacey
  - Lang, Lorraine
  - Lange, Ann
  - Larouche, Marie-France
- - Lavery, Tracey
  - Law, Kelley
  - Lawes, Kaitlyn
  - Lawton, Stefanie
@@ -305,10 +298,9 @@ vs:
  - Letendre, Pascale
  - Lilly, Kendra
  - Linton, Sherry
- - Lister, Kendra
  - MacCuish, Kristin
- - MacInnes, Allison
  - MacInnes, Grace
+ - Mackey, Robyn
  - MacLean, Kari
  - MacNutt, Shelley
  - Mallett, Marla
@@ -322,6 +314,7 @@ vs:
  - McCarville, Krista
  - McConnery, Nancy
  - McCusker, Joan
+ - McEvoy, Julie
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Middaugh, Sherry
@@ -337,12 +330,12 @@ vs:
  - Murphy, Jeanette
  - Murphy, Sarah
  - Naugler, Tara
+ - Nedohin, Heather
  - Njegovan, Selena
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
  - Nowlan, Denise
- - Nugent, Pamela
  - O'Connor, Susan
  - Officer, Jill
  - O'Leary, Susan
@@ -353,13 +346,13 @@ vs:
  - Overton-Clapham, Cathy
  - Parsons, Danielle
  - Paul, Sarah
+ - Perron, Melina
  - Peterman, Jocelyn
  - Peters, Laine
  - Pinkney, Colleen
  - Porter, Erin
  - Potts, Sarah
  - Power, Marie-Anne
- - Price, Kara
  - Prosser, Sandi
  - Provencal, Darah
  - Rainville, Julie
@@ -370,6 +363,7 @@ vs:
  - Robichaud, Sylvie
  - Rocque, Raylene
  - Ross, Allison
+ - Round, Coralee
  - Sabourin, Joelle
  - Sagle, Karen
  - Santos, Deb
@@ -388,7 +382,6 @@ vs:
  - Simons, Renee
  - Singler, Sherri
  - Sippala, Ashley
- - Smallwood, Jody
  - Smith, Heather
  - Sobey, Lianne
  - Spencer, Barb
@@ -413,14 +406,11 @@ vs:
  - Wall, Kirsten
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - West, Christianne
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
- - Wylie, Jennifer
- - Yardley, Janelle
  - Zinck, Kay
 ---

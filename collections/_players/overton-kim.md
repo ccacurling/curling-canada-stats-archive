@@ -42,10 +42,13 @@ years:
 vs:
  - Adams, Diane
  - Alexander, Diane
+ - Bartlett, Sue Anne
  - Blanchard, Judy
  - Brown, Katie
- - Chapman, Kathy
+ - Chaulk, Wendy
+ - Cowan, Michele
  - Dolan, Kim
+ - Dwyer, Patricia
  - Englot, Michelle
  - Fahlman, Kathy
  - Floyd, Kathy
@@ -69,6 +72,7 @@ vs:
  - Moses, Dawn
  - Muzika, Shelley
  - Poisson, Francine
+ - Porter, Debbie
  - Power, Judy
  - Rankin, Beth
  - Rankin, Heather

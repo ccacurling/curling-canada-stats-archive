@@ -142,6 +142,7 @@ vs:
  - Fowler, Rhonda
  - Fowler, Sharon
  - Gagnon, Nathalie
+ - Galusha, Kerry
  - Garvey, Sue
  - Gatchell, Sara
  - Gauthier, Cathy
@@ -149,7 +150,6 @@ vs:
  - Gignac, Donna
  - Gudereit, Marcia
  - Hanlon, Heidi
- - Harding, Mary
  - Hatton, Sandra
  - Hopkins, Heather
  - Horne, Kate

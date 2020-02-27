@@ -121,6 +121,7 @@ years:
    shots-total: 254
    shots-percent: 80
 vs:
+ - Affleck, Tricia
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Anderson, Sherry
@@ -133,30 +134,26 @@ vs:
  - Belanger, Nancy
  - Belisle, Eve
  - Birt, Suzanne
- - Blais, Amelie
  - Blanchard, Judy
  - Bonar, Maureen
  - Boyle, Jane
  - Bradley, Shelly
  - Brassard, Veronique
  - Brennan, Amanda
+ - Brine, Jenn
  - Brothers, Jill
  - Cameron, Kate
- - Cameron, Nancy
  - Campbell, Jolene
  - Carrier, Julie
  - Carter, Sasha
  - Christianson, Marie
  - Clark, Stefanie
- - Clark-Rouire, Jennifer
- - Comstock, Melanie
  - Cooke, Gerri
  - Cordina, Sheri
  - Cormier, Sharon
  - Courtney, Joanne
  - Crawford, Andrea
  - Cunningham, Cathy
- - Cunningham, Jennifer
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
@@ -170,12 +167,14 @@ vs:
  - Eyamie, Lisa
  - Fallis, Karen
  - Fisher, Alana
+ - Fleury, Tracy
  - Fowler, Lois
  - Freeman, Lisa
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gagnon, Karo
  - Galusha, Kerry
+ - Gates, Amanda
  - Gignac, Donna
  - Gogan, Jennifer
  - Goss, Peg
@@ -205,7 +204,6 @@ vs:
  - Kidd, Darlene
  - Kleibrink, Shannon
  - Koehler, Megan
- - Korab, Stephanie
  - Kreviazuk, Alison
  - Larouche, Marie-France
  - Lavery, Tracey
@@ -228,7 +226,6 @@ vs:
  - McEwen, Dawn
  - McInnis, Susan
  - McQuaid, Michelle
- - Meakin, Breanne
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
@@ -237,6 +234,7 @@ vs:
  - Moss, Debbie
  - Mulroney, Sandra
  - Murphy, Sarah
+ - Nedohin, Heather
  - Njegovan, Selena
  - Nicholls, Brenda
  - Nicholson, Danielle
@@ -245,10 +243,12 @@ vs:
  - O'Neill, Brit
  - O'Rourke, Brittany
  - Overton-Clapham, Cathy
+ - Parsons, Danielle
  - Paul, Sarah
  - Peters, Laine
  - Porter, Erin
  - Potts, Sarah
+ - Rainville, Julie
  - Recksiedler, Kristen
  - Reed, Shellan
  - Richard, Marie
@@ -274,13 +274,13 @@ vs:
  - Strong, Laura
  - Surik, Teejay
  - Thiessen, Alison
- - Thomas-Kennell, Noelle
  - Thompson, Karla
  - Trickett, Erica
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie
  - Wall, Kirsten
+ - Walsh, Jenna
  - Weagle, Lisa
  - Westcott, Raunora
  - Wheatcroft, Georgina
@@ -288,5 +288,6 @@ vs:
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
+ - Wylie, Jennifer
  - Yardley, Janelle
 ---

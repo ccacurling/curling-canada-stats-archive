@@ -39,6 +39,7 @@ vs:
  - Aucoin, Shelley
  - Augustyn, Jan
  - Bartlett, Sue Anne
+ - Blair, Diane
  - Bodogh, Marilyn
  - Bussieres, Helene
  - Carney, Laurie
@@ -47,7 +48,6 @@ vs:
  - Currey, Karen
  - Currie, Ann
  - Currie, Barbara
- - Dickeson, Debbi
  - Donald, Grace
  - Dwyer, Patricia
  - Emond, Muriel

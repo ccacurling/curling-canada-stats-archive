@@ -37,6 +37,7 @@ years:
    shots-percent: 81
 vs:
  - Allen, Susan
+ - Anderson, Sherry
  - Arsenault, Mary-Anne
  - Arseneau, Jane
  - Belley, Joelle
@@ -55,9 +56,11 @@ vs:
  - Fortin, Sylvie
  - Gagnier, Monique
  - Gagnon, Nathalie
+ - Gignac, Donna
  - Goss, Peg
  - Graham-MacDonald, Bea
  - Harrison, Meredith
+ - Hodson, Kim
  - Horne, Kate
  - Iskiw, Beth
  - Jones, Colleen
@@ -71,6 +74,7 @@ vs:
  - Martin, Heather
  - Middaugh, Sherry
  - Mittelstadt, Candice
+ - Mulroney, Sandra
  - O'Rourke, Kathy
  - Power, Marie-Anne
  - Robinson, Lori

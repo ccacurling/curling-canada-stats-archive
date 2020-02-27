@@ -43,7 +43,6 @@ vs:
  - Brown, Katie
  - Cameron, Nancy
  - Cunningham, Cathy
- - Dagg-Jackson, Elaine
  - Floyd, Kathy
  - Goring, Alison
  - Graham-MacDonald, Bea
@@ -73,6 +72,7 @@ vs:
  - Santos, Deb
  - Schmirler, Sandra
  - Skinner, Julie
+ - Soligo, Melissa
  - Stewart, Sheri
  - Sutton, Jodie
  - Thomas, Maria

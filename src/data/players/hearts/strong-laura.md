@@ -162,9 +162,9 @@ vs:
  - Armstrong, Jacquie
  - Arnott, Janet
  - Arsenault, Mary-Anne
+ - Arseneau, Jane
  - Atkinson, Rebecca
  - Babin, Jillian
- - Baier, Stephanie
  - Balderston, Marcy
  - Barbour, Shona
  - Belanger, Nancy
@@ -174,6 +174,7 @@ vs:
  - Betker, Jan
  - Birt, Suzanne
  - Blais, Amelie
+ - Boyle, Jane
  - Bradley, Shelly
  - Brennan, Amanda
  - Brothers, Jill
@@ -186,8 +187,8 @@ vs:
  - Carey, Chelsea
  - Carrier, Julie
  - Carter, Sasha
- - Chisholm, Candace
  - Clark, Stefanie
+ - Clarke, Hayley
  - Comeau, Martine
  - Comeau, Sandy
  - Cordina, Sheri
@@ -228,8 +229,8 @@ vs:
  - Gushulak, Diane
  - Hanna, Jenn
  - Hanna, Stephanie
- - Harding, Mary
  - Harmark, Andra
+ - Harrison, Meredith
  - Harvey, Alison
  - Harvey, Janet
  - Holland, Amber
@@ -248,6 +249,7 @@ vs:
  - Kidd, Darlene
  - King, Cathy
  - Kleibrink, Shannon
+ - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
  - Kreviazuk, Alison
@@ -261,10 +263,8 @@ vs:
  - Leger, Stacey
  - Lemay, Annie
  - Letendre, Pascale
- - Linton, Sherry
  - Loder, Cherie-Ann
  - Lowther, Tammi
- - MacCallum, Janice
  - MacDiarmid, Kristen
  - MacDonald, Rebecca Jean
  - MacDonald, Shelley
@@ -286,7 +286,6 @@ vs:
  - McInnis, Susan
  - McNamee, Karen
  - Middaugh, Sherry
- - Miller, Wendy
  - Miskew, Emma
  - Mittelstadt, Candice
  - Moore, Kim
@@ -315,7 +314,6 @@ vs:
  - Prosser, Sandi
  - Provencal, Darah
  - Radchenka, Tammy
- - Reid, Jackie
  - Richard, Marie
  - Richards, Brette
  - Ridalls, Kristen
@@ -329,7 +327,6 @@ vs:
  - Sanderson, Jessie
  - Sandison, Janice
  - Sandwith, Carley
- - Schmidt, Stephanie
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
@@ -360,6 +357,7 @@ vs:
  - Titheridge, Lindsay
  - Udle, Teri
  - Van Osch, Kesa
+ - Vavrek, Melody
  - Vey, Lana
  - Wall, Kirsten
  - Wallingham, Patty

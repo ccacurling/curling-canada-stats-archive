@@ -129,7 +129,6 @@ vs:
  - Arsenault, Mary-Anne
  - Arseneau, Jane
  - Aucoin, Shelley
- - Baker, Michelle
  - Baker, Rose-Marie
  - Bakker, Glenys
  - Balderston, Marcy
@@ -148,7 +147,6 @@ vs:
  - Brown, Jacalyn
  - Brown, Janet
  - Brown, Katie
- - Brown, Marcie
  - Bryant, Angie
  - Campbell, June
  - Chapman, Kathy
@@ -180,7 +178,6 @@ vs:
  - Frey, Audrey
  - Gabriele, Elena
  - Gagnon, Karo
- - Galusha, Kerry
  - Gauthier, Cathy
  - Gervais, Donna
  - Gignac, Donna
@@ -194,13 +191,11 @@ vs:
  - Gudereit, Marcia
  - Gushulak, Diane
  - Hanlon, Heidi
- - Harding, Mary
  - Harrison, Meredith
  - Harvey, Alison
  - Harvey, Janet
  - Hatton, Sandra
  - Hodson, Kim
- - Holowec, Ainsley
  - Horte, Rhonda
  - Houston, Heather
  - Hunter, Lana
@@ -229,7 +224,6 @@ vs:
  - Marchand, Stephanie
  - Martin, Heather
  - Materi, Roberta
- - McCagg-Nystrom, Heather
  - McCloy, Elaine
  - McConnery, Nancy
  - McCusker, Joan
@@ -262,6 +256,7 @@ vs:
  - Poisson, Francine
  - Porter, Debbie
  - Power, Judy
+ - Power, Marie-Anne
  - Purdy, Karen
  - Radchenka, Tammy
  - Rankin, Beth
@@ -270,6 +265,7 @@ vs:
  - Renouf, Michele
  - Ridley, Terry
  - Robinson, Charlene
+ - Ryan, Jennifer
  - Sabourin, Joelle
  - Sandison, Janice
  - Santos, Deb
@@ -288,7 +284,6 @@ vs:
  - Stokes, Debbie
  - Stricker, Joan
  - Strong, Heather
- - Strong, Laura
  - Sutton, Jodie
  - Tasaka, Adina
  - Taylor, Candy

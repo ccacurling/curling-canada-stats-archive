@@ -160,7 +160,6 @@ vs:
  - Fowler, Rob
  - Fry, Ryan
  - Gallant, Brett
- - Germsheid, Tony
  - Gibson, Andrew
  - Gould, Steve
  - Grattan, James
@@ -210,6 +209,7 @@ vs:
  - Nichols, Mark
  - Odishaw, Grant
  - Park, Kevin
+ - Park, Shane
  - Peachey, Jay
  - Pfeifer, Scott
  - Pierce, Brent

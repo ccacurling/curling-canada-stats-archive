@@ -54,22 +54,16 @@ years:
    shots-percent: 78
 vs:
  - Atkinson, Rebecca
- - Barbour, Shona
  - Birt, Suzanne
- - Blais, Amelie
  - Boyle, Jane
  - Brothers, Jill
  - Campbell, Jolene
  - Carey, Chelsea
  - Christianson, Marie
- - Cormier, Sharon
  - Curtis, Stacie
- - Derry, Danielle
  - Devereaux, Julie
  - Einarson, Kerri
- - Eyamie, Lisa
  - Fyfe, Liz
- - Galusha, Kerry
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
@@ -77,8 +71,6 @@ vs:
  - Hughes, Meaghan
  - Jones, Jennifer
  - Joyce, Blisse
- - Kleibrink, Shannon
- - Koehler, Megan
  - Larouche, Marie-France
  - Lawes, Kaitlyn
  - Lemay, Annie
@@ -87,24 +79,24 @@ vs:
  - MacPhee, Robyn
  - McCarville, Krista
  - McEwen, Dawn
+ - Meilleur, Briane
  - Murphy, Sarah
- - Nedohin, Heather
  - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - O'Connor, Susan
  - Officer, Jill
  - O'Neill, Brit
  - Peterman, Jocelyn
  - Peters, Laine
  - Porter, Erin
  - Potts, Sarah
+ - Rainville, Julie
  - Richard, Marie
  - Robichaud, Sylvie
  - Sagle, Karen
  - Sippala, Ashley
- - Thiessen, Alison
  - Udle, Teri
  - Vautour, Carrie
- - Wilkes, Sarah
  - Williamson, Ashley
 ---

@@ -173,6 +173,7 @@ vs:
  - McCurdy, Susan
  - McCusker, Joan
  - McHugh, Cindy
+ - McInnis, Susan
  - Montgomery, Kay
  - Moses, Dawn
  - Moss, Debbie

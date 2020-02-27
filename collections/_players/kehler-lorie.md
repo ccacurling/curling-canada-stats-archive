@@ -181,12 +181,12 @@ vs:
 - Combden, Cathy
 - Cordina, Sheri
 - Cunningham, Cathy
+- Daniel, Sylvie
 - Darbyshire, Carolyn
 - Davis, Carol
 - Delahunt, Nancy
 - Deschatelets, Guylaine
 - Dezura, Diane
-- Dillon, Cathy
 - Dolan, Kim
 - Dwyer, Patricia
 - Earl, Allison
@@ -200,7 +200,6 @@ vs:
 - Galusha, Kerry
 - Gauthier, Cathy
 - Gignac, Donna
-- Girard, Sylvie
 - Goring, Alison
 - Goss, Peg
 - Graham-MacDonald, Bea
@@ -242,6 +241,7 @@ vs:
 - Leblanc, Lisa
 - LeCraw, Carolyn
 - Lemay, Annie
+- MacAulay, Marion
 - MacCallum, Janice
 - MacDonald, Lawnie
 - MacDonald, Shelley
@@ -273,6 +273,7 @@ vs:
 - Nelthorpe, Sally
 - Nichols, Helen
 - Nicholson, Terry
+- O'Leary, Susan
 - O'Rourke, Kathy
 - Osborne, Chantal
 - Overton, Kim

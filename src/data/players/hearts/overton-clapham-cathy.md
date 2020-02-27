@@ -249,6 +249,7 @@ vs:
  - Birt, Suzanne
  - Blanchard, Judy
  - Bodogh, Marilyn
+ - Bohmer, Brenda
  - Boily, Caroline
  - Bonar, Maureen
  - Bowman, Mary
@@ -270,6 +271,7 @@ vs:
  - Carrier, Julie
  - Carter, Sasha
  - Cey, Naomi
+ - Charette, France
  - Clark, Stefanie
  - Clarke, Hayley
  - Comeau, Martine
@@ -281,7 +283,6 @@ vs:
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Curtis, Stacie
- - Dagg-Jackson, Elaine
  - Daku, Karen
  - Daniel, Sylvie
  - Darbyshire, Carolyn
@@ -289,6 +290,7 @@ vs:
  - Delahunt, Nancy
  - Derick, Catherine
  - deSolla, Jodie
+ - Dezura, Diane
  - Dobson, Sue
  - Dolan, Kim
  - Dorosz, Peggy
@@ -342,7 +344,6 @@ vs:
  - Jackson, Virginia
  - Jennings, Tracey
  - Jesty, Janet
- - Jewer, Michelle
  - Johnstone, Loralee
  - Jones, Colleen
  - Jones, Jennifer
@@ -366,7 +367,6 @@ vs:
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Leblanc, Lisa
- - Leclerc, Valerie
  - LeDrew, Stephanie
  - Leger, Stacey
  - Lemay, Annie
@@ -407,6 +407,7 @@ vs:
  - McHugh, Cindy
  - McInnis, Susan
  - McKnight, Patti
+ - McNamee, Karen
  - McPherson, Cheryl
  - Merklinger, Anne
  - Middaugh, Sherry
@@ -491,6 +492,7 @@ vs:
  - Smith, Heather
  - Snider, Shelly
  - Sobey, Lianne
+ - Soligo, Melissa
  - Sonnenberg, Renee
  - Spencer, Barb
  - Stahl, Carrie
@@ -511,6 +513,7 @@ vs:
  - Thompson, Karla
  - Thurston, Jill
  - Tincher, Twyla
+ - Train, Mona
  - Tucker, Cindy
  - Turcotte, Kristin
  - Udle, Teri
@@ -522,7 +525,6 @@ vs:
  - Webster, Bronwen
  - Westcott, Raunora
  - Wheatcroft, Georgina
- - Whipple, Paula
  - Whitaker, Carol
  - Whitrow, Leanne
  - Wieler, Bev

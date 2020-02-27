@@ -88,33 +88,45 @@ years:
 vs:
  - Anderson, Sherry
  - Atkinson, Rebecca
+ - Babin, Jillian
  - Baier, Stephanie
- - Brothers, Jill
+ - Barbour, Shona
+ - Blais, Amelie
  - Brown, Rachel
+ - Campbell, Jolene
  - Carey, Chelsea
  - Cooper, Kathryn
+ - Cormier, Sharon
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
  - Crawford, Andrea
+ - Cunningham, Jennifer
  - Cunningham, Jessica
  - deSolla, Jodie
  - Duncan, Chelsea
  - Ferguson, Dana
+ - Filteau, Anne-Marie
  - Flaxey, Allison
  - Foster, Kristen
+ - Galusha, Kerry
  - Gannon, Melissa
  - Holland, Amber
  - Homan, Rachel
- - Joyce, Blisse
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Koehler, Megan
  - Koltun, Sarah
+ - Korab, Stephanie
  - Kreviazuk, Alison
  - Kreviazuk, Lynn
+ - Larouche, Marie-France
  - Lawton, Stefanie
  - McDonald, Kristy
+ - Miller, Wendy
  - Miskew, Emma
+ - Murphy, Jeanette
+ - Nicholls, Brenda
  - Nugent, Pamela
  - O'Rourke, Brittany
  - Parsons, Danielle
@@ -122,15 +134,13 @@ vs:
  - Sanderson, Jessie
  - Sandwith, Carley
  - Schneider, Kim
- - Schneider, Tammy
  - Sinclair, Andrea
- - Singler, Sherri
- - Smith, Heather
+ - Sivertson, Dailene
+ - Sonnenberg, Renee
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
  - Titheridge, Lindsay
- - Udle, Teri
  - Van Osch, Kesa
  - Wallingham, Patty
  - Weagle, Lisa

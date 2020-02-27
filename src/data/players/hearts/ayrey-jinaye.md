@@ -49,7 +49,6 @@ vs:
  - Curtis, Stacie
  - deJager, Blaine
  - deSolla, Jodie
- - Devereaux, Julie
  - Dufresne, Audree
  - Dykstra, Michelle
  - Fullerton, Sarah
@@ -62,15 +61,13 @@ vs:
  - Koehler, Megan
  - Kreviazuk, Alison
  - Lawes, Kaitlyn
- - LeDrew, Stephanie
- - Lemay, Annie
  - MacDougall, Leslie
  - Mair, Jessica
+ - Martin, Heather
  - McEwen, Dawn
  - Miller, Wendy
  - Miskew, Emma
  - Moore, Kristie
- - Morris, Cori
  - Nedohin, Heather
  - Officer, Jill
  - O'Rourke, Brittany
@@ -82,4 +79,5 @@ vs:
  - Scott, Kelly
  - Wasylkiw, Lauren
  - Wazney, Sarah
+ - Weagle, Lisa
 ---

@@ -198,10 +198,13 @@ vs:
  - Blanchard, Judy
  - Bodogh, Marilyn
  - Bohmer, Brenda
+ - Boily, Caroline
  - Bonar, Maureen
+ - Bowman, Mary
  - Boyle, Jane
  - Breen, Theresa
  - Brown, Marcie
+ - Brown, Maureen
  - Brown, Rachel
  - Bryant, Angie
  - Burgess, Carey
@@ -230,14 +233,15 @@ vs:
  - Couling, Betty
  - Courtney, Joanne
  - Crawford, Andrea
+ - Crispo, Guylaine
  - Cunningham, Cathy
  - Cunningham, Jessica
  - Currie, Wendy
- - Dagg-Jackson, Elaine
  - Daku, Karen
  - Daniel, Sylvie
  - Davis, Carol
  - Delahunt, Nancy
+ - Derick, Catherine
  - Deschatelets, Guylaine
  - deSolla, Jodie
  - Dezura, Diane
@@ -258,6 +262,7 @@ vs:
  - Fortin, Sylvie
  - Fowler, Lois
  - Fowler, Sharon
+ - Fraser, Sherry
  - Freeman, Lisa
  - Frey, Audrey
  - Gagnier, Monique
@@ -269,9 +274,9 @@ vs:
  - Gates, Amanda
  - Gauthier, Cathy
  - Gellard, Kim
- - George, Tara
  - Gignac, Donna
  - Gogan, Jennifer
+ - Goring, Alison
  - Goss, Peg
  - Green, Sue
  - Greening, Jackie-Rae
@@ -281,10 +286,12 @@ vs:
  - Gushulak, Diane
  - Hanlon, Heidi
  - Hardy, Shelley
+ - Harris, Susan
  - Harrison, Meredith
  - Harvey, Janet
  - Hastings, Julie
  - Hodson, Kim
+ - Holden, Anna-Mae
  - Hollands, Saskia
  - Homan, Rachel
  - Hooper Perroud, Jane
@@ -295,9 +302,13 @@ vs:
  - Hunter, Lana
  - Hutton, Barb
  - Iskiw, Beth
+ - Jackson, Virginia
+ - Jennings, Tracey
+ - Jesty, Janet
  - Johnstone, Loralee
  - Jones, Colleen
  - Jones, Jennifer
+ - Jurgenson, Christine
  - Kasner, Marliese
  - Kaylo, Kelly
  - Kehler, Lorie
@@ -310,6 +321,8 @@ vs:
  - Kleibrink, Shannon
  - Knezevic, Patti
  - Korab, Stephanie
+ - Kuruluk, Kristen
+ - Kyle, Linda
  - Lacey, Stacey
  - Lahucik, Val
  - Laliberte, Connie
@@ -331,6 +344,7 @@ vs:
  - MacInnes, Allison
  - MacLeod, Lisa
  - MacNutt, Shelley
+ - Mallett, Marla
  - Mann, Lauren
  - Marchand, Jessica
  - Marchand, Karine
@@ -340,8 +354,8 @@ vs:
  - Mattatall, Mary
  - McArdle, Cindy
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
+ - McCrady, Christine
  - McCusker, Joan
  - McEwen, Dawn
  - McKnight, Patti
@@ -357,7 +371,6 @@ vs:
  - Naugler, Tara
  - Nedohin, Heather
  - Nicholls, Brenda
- - Nichols, Helen
  - Nixon, Amy
  - Nohr, Dianne
  - Nugent, Pamela
@@ -372,6 +385,7 @@ vs:
  - Phillips, Laura
  - Pilote, Kristen
  - Pinkney, Colleen
+ - Porter, Debbie
  - Pruden, Twyla
  - Purdy, Karen
  - Rainville, Julie
@@ -382,6 +396,7 @@ vs:
  - Robertson, Darcy
  - Robichaud, Sylvie
  - Rocque, Raylene
+ - Round, Coralee
  - Rudd, Colleen
  - Rudulier, Andrea
  - Rusnell, Jen
@@ -400,6 +415,7 @@ vs:
  - Sharpe, Kelli
  - Shephard, Wendy
  - Sherrington, Barb
+ - Shields, Deanne
  - Simons, Renee
  - Skinner, Julie
  - Smith, Heather
@@ -418,7 +434,6 @@ vs:
  - Stricker, Joan
  - Strong, Heather
  - Strong, Laura
- - Stubbings, Tiffany
  - Sutton, Jodie
  - Sweeting, Val
  - Tanner, Ros

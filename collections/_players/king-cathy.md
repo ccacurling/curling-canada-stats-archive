@@ -221,6 +221,7 @@ vs:
 - Breen, Theresa
 - Breen, Thersa
 - Brown, Janet
+- Brown, Marcie
 - Bryant, Angie
 - Burgess, Carey
 - Burlington, Cheryl
@@ -275,11 +276,9 @@ vs:
 - Grenier, Valerie
 - Gudereit, Marcia
 - Gushulak, Diane
-- Hamilton, Beth
 - Hanlon, Heidi
 - Hanna, Jenn
 - Hanna, Stephanie
-- Harding, Mary
 - Hardy, Shelley
 - Harris, Susan
 - Harrison, Meredith
@@ -350,6 +349,7 @@ vs:
 - McNamee, Karen
 - Merklinger, Anne
 - Middaugh, Sherry
+- Miller, Maureen
 - Mittelstadt, Candice
 - Montgomery, Kay
 - Moore, Kim
@@ -369,7 +369,6 @@ vs:
 - Ondrack, Wendy
 - Osborne, Chantal
 - Overton-Clapham, Cathy
-- Penkala, Sandra
 - Phillips, Laura
 - Power, Marie-Anne
 - Prosser, Sandi
@@ -408,7 +407,6 @@ vs:
 - Trider, Krista
 - Trowell, Cathy
 - Tucker, Cindy
-- Wall, Kirsten
 - Webster, Bronwen
 - Wheatcroft, Georgina
 - Wiltzen, Jan

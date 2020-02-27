@@ -36,7 +36,6 @@ years:
    shots-total: 204
    shots-percent: 69
 vs:
- - Allen, Michelle
  - Arsenault, Mary-Anne
  - Belanger, Nancy
  - Bell, Chelsey
@@ -46,7 +45,6 @@ vs:
  - Clark, Stefanie
  - Cunningham, Cathy
  - Delahunt, Nancy
- - Dolan, Kim
  - Englot, Michelle
  - Galusha, Kerry
  - Goss, Peg
@@ -73,11 +71,13 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Simmons, Cindy
+ - Simons, Renee
  - Strong, Heather
  - Strong, Laura
  - Surik, Teejay
  - Thompson, Karla
  - Wall, Kirsten
  - Webster, Bronwen
+ - Whitaker, Carol
  - Yardley, Janelle
 ---

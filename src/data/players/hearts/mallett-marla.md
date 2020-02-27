@@ -130,6 +130,7 @@ vs:
  - Eyamie, Lisa
  - Floyd, Kathy
  - Fullerton, Sarah
+ - Funk, LaDawn
  - Galusha, Kerry
  - Gauthier, Cathy
  - Gellard, Kim
@@ -158,14 +159,13 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Jones-Walker, Debbie
- - Karwacki, Krysten
  - Kasner, Marliese
  - Kaylo, Kelly
  - Kelly, Kim
  - Kerr, Kathy
  - King, Cathy
- - Kleibrink, Shannon
  - Koehler, Megan
+ - Kreviazuk, Cheryl
  - Kyle, Linda
  - Laliberte, Connie
  - Lang, Lorraine
@@ -189,6 +189,7 @@ vs:
  - McCrady, Christine
  - McCusker, Joan
  - McEwen, Dawn
+ - McInnis, Susan
  - McQuaid, Michelle
  - Miskew, Emma
  - Montgomery, Kay
@@ -218,7 +219,6 @@ vs:
  - Saulnier, Andrea
  - Schmirler, Sandra
  - Schneider, Lorraine
- - Shields, Deanne
  - Sicinski, Danielle
  - Singler, Sherri
  - Sippala, Ashley

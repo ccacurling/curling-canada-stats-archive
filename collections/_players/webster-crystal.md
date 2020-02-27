@@ -87,28 +87,32 @@ vs:
 - Adams, Melissa
 - Anderson, Sherry
 - Armstrong, Jacquie
+- Arsenault, Mary-Anne
 - Arsenault-Bishop, Nicole
 - Barbour, Shona
+- Baxter, Jen
 - Bell, Chelsey
 - Bernard, Cheryl
 - Birchard, Shannon
+- Black, Christina
+- Brassard, Veronique
+- Cameron, Kate
 - Carter, Sasha
-- Chislett, Geneva
+- Crouse, Jennifer
 - Darbyshire, Carolyn
 - Duncan, Chelsea
 - Duncan, Hollie
 - Duncan, Jenna
 - Einarson, Kerri
+- Englot, Michelle
 - Fesser, Kourtney
 - Fesser, Krista
-- Fullerton, Sarah
 - Fyfe, Liz
 - Galusha, Kerry
 - George, Tara
 - Gibson, Amy
+- Gregoire, Veronique
 - Holland, Amber
-- Hughes, Meaghan
-- Hutchings, Denise
 - Jones, Jennifer
 - Kalenchuk, Heather
 - Kasner, Marliese
@@ -118,16 +122,15 @@ vs:
 - Korchinski, Karlee
 - Kreviazuk, Cheryl
 - Lang, Lorraine
-- Lawes, Kaitlyn
+- Larouche, Marie-France
 - Lawton, Stefanie
 - LeDrew, Stephanie
+- Lemay, Annie
 - Lister, Kendra
 - MacCuish, Kristin
 - MacLean, Kari
-- MacPhee, Robyn
 - McCarville, Krista
 - McEwen, Dawn
-- McQuaid, Michelle
 - McTaggart, Cary-Anne
 - Moore, Kristie
 - Morris, Cori
@@ -145,7 +148,6 @@ vs:
 - Schneider, Tammy
 - Schraeder, Jeanna
 - Scott, Kelly
-- Shackleton, Amie
 - Singler, Sherri
 - Smallwood, Jody
 - Van Osch, Kalia
@@ -153,5 +155,6 @@ vs:
 - Van Osch, Marika
 - Vey, Lana
 - Webster, Bronwen
-- West, Christianne
+- Westcott, Raunora
+- Wilson, Leslie
 ---

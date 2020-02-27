@@ -42,9 +42,9 @@ vs:
  - Baxter, Jen
  - Beauchamp, Sasha
  - Birt, Suzanne
+ - Boyle, Jane
  - Bradley, Shelly
  - Carter, Sasha
- - Clark, Stefanie
  - Cormier, Sharon
  - Crawford, Andrea
  - Curtis, Stacie
@@ -52,7 +52,6 @@ vs:
  - Dufresne, Audree
  - Fullerton, Sarah
  - Galusha, Kerry
- - Gushulak, Diane
  - Holtby, Taryn
  - Homan, Rachel
  - Iskiw, Beth

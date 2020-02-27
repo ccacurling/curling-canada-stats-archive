@@ -169,6 +169,7 @@ years:
   shots-total: 190
   shots-percent: 86
 vs:
+- Affleck, Tricia
 - Alcoe-Holland, Jill
 - Aleksic, Shannon
 - Anderson, Sherry
@@ -188,17 +189,23 @@ vs:
 - Birt, Suzanne
 - Black, Christina
 - Blais, Amelie
+- Blaney, Jennifer
 - Bobbie, Tess
+- Bodner, Jenine
+- Boudreault, Patricia
 - Boyle, Jane
 - Bradley, Shelly
 - Brassard, Veronique
+- Brine, Jenn
 - Brothers, Jill
 - Brown, Rachel
 - Cameron, Kate
 - Camozzi, Rhona
 - Carey, Chelsea
+- Carmody, Erin
 - Carter, Sasha
 - Cheveldave, Amber
+- Christianson, Marie
 - Clark, Stefanie
 - Collins, Katrina
 - Cooper, Kathryn
@@ -210,13 +217,13 @@ vs:
 - Cunningham, Jessica
 - Curtis, Stacie
 - Cutcliffe, Margaret
+- Daigle, Julie
 - deJager, Blaine
 - Derry, Danielle
 - deSolla, Jodie
 - Devereaux, Julie
 - Doig, Deanna
 - Dolan, Kim
-- Dolan, Sinead
 - Dufresne, Audree
 - Duhaime, Chantal
 - Duncan, Chelsea
@@ -230,19 +237,21 @@ vs:
 - Fleury, Tracy
 - Foster, Kristen
 - Fullerton, Sarah
+- Fyfe, Liz
 - Galusha, Kerry
 - Gannon, Melissa
 - Gates, Amanda
+- Gates, Jenny
 - Grandy, Clancy
 - Gregoire, Veronique
-- Gushulak, Diane
+- Griffin, Alison
 - Guzzwell, Stephanie
 - Hastings, Julie
-- Hersikorn, Patty
 - Hill, Trish
 - Holland, Amber
 - Holtby, Taryn
 - Hughes, Meaghan
+- Hunkin, Jessie
 - Iskiw, Beth
 - Johnston, Kara
 - Jones, Colleen
@@ -258,10 +267,12 @@ vs:
 - Korab, Stephanie
 - Kreviazuk, Lynn
 - Larouche, Marie-France
+- Lavoie, Gabrielle
 - Lawes, Kaitlyn
 - Lawton, Stefanie
 - Lemay, Annie
 - Lilly, Kendra
+- MacCuish, Kristin
 - MacDonald, Lawnie
 - MacDonald, Rebecca Jean
 - MacDougall, Leslie
@@ -281,10 +292,12 @@ vs:
 - Middaugh, Sherry
 - Miller, Wendy
 - Moore, Kristie
-- Morris, Cori
 - Moses, Dawn
+- Munroe, Anna
+- Murphy, Sarah
 - Nedohin, Heather
 - Nixon, Amy
+- Njegovan, Selena
 - Nowlan, Denise
 - Nugent, Pamela
 - O'Rourke, Brittany
@@ -297,8 +310,10 @@ vs:
 - Peterman, Jocelyn
 - Peters, Laine
 - Pilote, Kristen
+- Pinksen, Sadie
 - Porter, Erin
 - Potts, Sarah
+- Reid, Jackie
 - Richard, Marie
 - Richards, Brette
 - Rizzo, Jo-Ann
@@ -319,6 +334,7 @@ vs:
 - Scott, Kelly
 - Shumay, Jill
 - Sicinski, Danielle
+- Silvernagle, Robyn
 - Sinclair, Andrea
 - Singler, Sherri
 - Sippala, Ashley
@@ -330,6 +346,7 @@ vs:
 - Strong, Heather
 - Strong, Laura
 - Sweeting, Val
+- Thevenot, Kara
 - Thiessen, Alison
 - Tippin, Julie
 - Titheridge, Lindsay
@@ -340,6 +357,7 @@ vs:
 - Vink, Rachelle
 - Wallingham, Patty
 - Walsh, Jenna
+- Wark, Sarah
 - Wasylkiw, Lauren
 - Wazney, Sarah
 - Webster, Bronwen

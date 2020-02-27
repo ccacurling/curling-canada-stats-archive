@@ -80,7 +80,11 @@ years:
   shots-percent: 69
 vs:
 - Bitz, Scott
+- Fenton, Brad
 - Hicke, Dean
 - Jordison, Joel
+- Leech, Ron
+- Peachey, Jay
+- Recksiedler, Kevin
 - Schmidt, Aryn
 ---

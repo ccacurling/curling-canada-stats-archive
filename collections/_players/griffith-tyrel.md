@@ -57,7 +57,6 @@ vs:
  - Bottcher, Brendan
  - Camm, Mathew
  - Carruthers, Reid
- - Dunstone, Matthew
  - Epping, John
  - Fry, Ryan
  - Gallant, Brett
@@ -72,7 +71,6 @@ vs:
  - Kennedy, Marc
  - Koe, Kevin
  - Laing, Brent
- - Laycock, Steve
  - March, Tim
  - Martin, Karrick
  - Martin, Kevin
@@ -83,8 +81,6 @@ vs:
  - Mitchell, Collin
  - Moskowy, Braeden
  - Moulding, Darren
- - Muyres, Dallan
- - Muyres, Kirk
  - Nedohin, David
  - Neufeld, B.J.
  - Neufeld, Denni

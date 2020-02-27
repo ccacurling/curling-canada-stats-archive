@@ -137,6 +137,7 @@ vs:
 - Brothers, Jill
 - Cameron, Kate
 - Camozzi, Rhona
+- Campbell, Jolene
 - Carey, Chelsea
 - Carmody, Erin
 - Carter, Sasha
@@ -150,6 +151,7 @@ vs:
 - Crawford, Andrea
 - Crouse, Jennifer
 - Cunningham, Jessica
+- Davies, Lisa
 - deSolla, Jodie
 - Dolan, Kim
 - Dolan, Sinead
@@ -164,18 +166,20 @@ vs:
 - Gannon, Melissa
 - Gates, Amanda
 - George, Tara
+- Georges, Kendra
 - Gilman, Sheena
 - Grandy, Clancy
+- Hardy, Shelley
 - Hastings, Julie
 - Holland, Amber
 - Homan, Rachel
 - Iskiw, Beth
-- Jewer, Michelle
 - Jones, Jennifer
 - Joyce, Blisse
 - Kalenchuk, Heather
 - Kasner, Marliese
 - Knezevic, Patti
+- Koehler, Megan
 - Koltun, Sarah
 - Korab, Stephanie
 - Kreviazuk, Alison
@@ -195,19 +199,20 @@ vs:
 - McDonald, Kristy
 - McEwen, Dawn
 - McInnis, Susan
+- McPherson, Cheryl
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
 - Merklinger, Lee
 - Middaugh, Sherry
 - Miskew, Emma
 - Moore, Kristie
-- Moses, Dawn
 - Naugler, Tara
 - Nedohin, Heather
 - Nicholls, Brenda
 - Nowlan, Denise
 - Nugent, Pamela
 - O'Rourke, Brittany
+- O'Rourke, Kathy
 - Officer, Jill
 - Overton-Clapham, Cathy
 - Parsons, Danielle
@@ -219,6 +224,7 @@ vs:
 - Potts, Sarah
 - Rainville, Julie
 - Ramsay, Geri Lynn
+- Reid, Jackie
 - Richard, Marie
 - Rizzo, Jo-Ann
 - Robichaud, Sylvie
@@ -232,7 +238,6 @@ vs:
 - Scheidegger, Jessie
 - Schmidt, Stephanie
 - Schneider, Kim
-- Schneider, Tammy
 - Schraeder, Jeanna
 - Scott, Kelly
 - Sinclair, Andrea
@@ -258,6 +263,7 @@ vs:
 - Walsh, Jenna
 - Weagle, Lisa
 - Westcott, Raunora
+- Whitaker, Carol
 - Wilson, Leslie
 - Wylie, Jennifer
 ---

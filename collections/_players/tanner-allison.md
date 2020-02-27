@@ -41,19 +41,21 @@ vs:
  - Arsenault, Mary-Anne
  - Arseneau, Jane
  - Balderston, Marcy
+ - Beddington, Shalegh
  - Berthelot, Janique
  - Bohmer, Brenda
- - Byers, Denise
  - Delahunt, Nancy
  - Dolan, Kim
  - Farrell, Allison
  - Floyd, Kathy
  - Gellard, Kim
+ - Harding, Mary
  - Henry, Lou Ann
  - Horne, Kate
  - Jones, Colleen
  - Jones-Walker, Debbie
  - Karam, Sally
+ - Kelly, Kim
  - King, Cathy
  - Laliberte, Connie
  - Lemay, Annie
@@ -68,8 +70,6 @@ vs:
  - Ondrack, Wendy
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
- - Peters, Laine
- - Power, Marie-Anne
  - Renouf, Michele
  - Ross, Allison
  - Sabourin, Joelle

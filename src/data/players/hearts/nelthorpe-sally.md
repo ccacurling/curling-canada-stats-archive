@@ -76,8 +76,11 @@ vs:
  - Karasek, Bev
  - Kehler, Lorie
  - Kennedy, Tracy
+ - Koyanagi, Karen
  - Lang, Lorraine
+ - Law, Kelley
  - Maher, Pat
+ - Maitland, Donna
  - Martin, Sandra
  - Massullo, Deb
  - McDermott, Karen
@@ -86,6 +89,7 @@ vs:
  - Nicholson, Terry
  - Pinkney, Colleen
  - Ramsay, Jennifer
+ - Ridley, Terry
  - Rintoul, Jacki
  - Sanders, Pat
  - Scott, Donna

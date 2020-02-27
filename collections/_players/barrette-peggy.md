@@ -46,7 +46,6 @@ vs:
  - Charette, France
  - Combden, Cathy
  - Daniel, Sylvie
- - Dillon, Cathy
  - Dolan, Kim
  - Earl, Allison
  - Englot, Michelle
@@ -63,6 +62,7 @@ vs:
  - Laliberte, Connie
  - Law, Kelley
  - Leblanc, Lisa
+ - MacAulay, Marion
  - Mattatall, Mary
  - McArdle, Cindy
  - McInnis, Susan

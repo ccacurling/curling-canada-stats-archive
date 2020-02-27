@@ -40,6 +40,7 @@ vs:
  - Aleksic, Shannon
  - Barker, Penny
  - Belisle, Eve
+ - Briand, Oye-Sem Won
  - Cameron, Kate
  - Carey, Chelsea
  - Courtney, Joanne
@@ -51,10 +52,10 @@ vs:
  - Englot, Michelle
  - Eyamie, Lisa
  - Fullerton, Sarah
+ - Hardy, Shelley
  - Hill, Trish
  - Homan, Rachel
  - Hughes, Meaghan
- - Kleibrink, Shannon
  - Lilly, Kendra
  - MacPhee, Robyn
  - Mallett, Marla
@@ -70,7 +71,6 @@ vs:
  - Peters, Laine
  - Porter, Erin
  - Potts, Sarah
- - Recksiedler, Kristen
  - Richards, Brette
  - Saulnier, Andrea
  - Schneider, Lorraine

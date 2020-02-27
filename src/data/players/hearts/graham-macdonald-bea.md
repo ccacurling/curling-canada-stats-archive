@@ -73,7 +73,6 @@ vs:
  - Adams, Diane
  - Alexander, Diane
  - Allardyce, Kathie
- - Allen, Laurie
  - Allen, Susan
  - Allerton, Dana
  - Anderson, Kelly
@@ -135,6 +134,7 @@ vs:
  - Kerr, Kathy
  - King, Cathy
  - King, Shirley
+ - Kuruluk, Kristen
  - Lang, Lorraine
  - Lawes, Andrea
  - Lewis, Kristy

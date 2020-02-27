@@ -173,7 +173,6 @@ vs:
 - Sweeting, Val
 - Titheridge, Lindsay
 - Trider, Krista
-- Wall, Kirsten
 - Weagle, Lisa
 - Webster, Bronwen
 - Wheatcroft, Georgina

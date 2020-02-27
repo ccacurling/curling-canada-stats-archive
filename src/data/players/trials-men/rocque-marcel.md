@@ -71,19 +71,17 @@ years:
    shots-percent: 92
 vs:
  - Adam, Gerry
- - Adams, Shawn
  - Armstrong, Doug
  - Bailey, Scott
  - Bartlett, Don
- - Burgess, Craig
  - Burtnyk, Kerry
  - Cotter, Jim
  - Dacey, Mark
  - Engel, Ron
  - Epping, John
  - Fenton, Brad
+ - Fenton, Darin
  - Fenton, Keith
- - Flemming, Paul
  - Forrest, Tyler
  - Fowler, Rob
  - Frans, Joseph
@@ -115,8 +113,6 @@ vs:
  - Meakin, Rob
  - Mellof, David
  - Middaugh, Wayne
- - Miki, Bryan
- - Mittelstadt, Kelly
  - Moffatt, Paul
  - Morris, John
  - Nichols, Mark

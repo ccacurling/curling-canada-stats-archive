@@ -125,7 +125,6 @@ vs:
 - Dolan, Kim
 - Donald, Grace
 - Dunstone, Carol
-- Englot, Michelle
 - Felker, Arenlea
 - Ferland, Marie
 - Fowler, Lois
@@ -146,7 +145,7 @@ vs:
 - Keays, Stella
 - Kerr, Heather
 - Kerr, Kathy
-- Kidd, Darlene
+- Laliberte, Connie
 - Lang, Lorraine
 - Large, Gloria
 - LaRocque, Penny
@@ -158,7 +157,6 @@ vs:
 - MacLean, Jean
 - Marchuk, Lindy
 - Martin, Lillian
-- Materi, Roberta
 - McCallan, Berniece
 - McConnery, Nancy
 - McCrae, Betty
@@ -181,7 +179,6 @@ vs:
 - Pinsent, Barbara
 - Provo, Anne
 - Quinn, Lori
-- Raby, Linda
 - Raby, Odette
 - Rankin, Heather
 - Reynolds, Lynn
@@ -192,7 +189,6 @@ vs:
 - Sanford, Pamela
 - Schmirler, Sandra
 - Sefton, Judy
-- Simmons, Cindy
 - Skinner, Julie
 - Smith, Martha
 - Soligo, Melissa
@@ -206,7 +202,6 @@ vs:
 - Wall, Mary Lou
 - Walter, Cathy
 - Walter, Sheila
-- Webb, Corine
 - Willms, Karri
 - Wuthrich, Patti
 - Zinck, Kay

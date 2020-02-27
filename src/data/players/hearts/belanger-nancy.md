@@ -151,7 +151,6 @@ vs:
  - O'Leary, Susan
  - Overton-Clapham, Cathy
  - Peters, Laine
- - Pinkney, Colleen
  - Power, Marie-Anne
  - Radchenka, Tammy
  - Richard, Marie
@@ -174,6 +173,7 @@ vs:
  - Strong, Laura
  - Surik, Teejay
  - Tasaka, Adina
+ - Thomas, Jill
  - Thompson, Karla
  - Vey, Lana
  - Wall, Kirsten

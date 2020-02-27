@@ -111,7 +111,6 @@ vs:
  - Pinsent, Barbara
  - Provo, Anne
  - Purdy, Karen
- - Raby, Linda
  - Raby, Odette
  - Rowan, Sheila
  - Rudd, Colleen

@@ -53,7 +53,6 @@ years:
    shots-total: 212
    shots-percent: 77
 vs:
- - Aleksic, Shannon
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Arseneau, Jane
@@ -69,10 +68,10 @@ vs:
  - Cormier, Sharon
  - Cunningham, Cathy
  - Currie, Wendy
- - Davis, Brandee
  - Delahunt, Nancy
  - Dolan, Kim
  - Dunn, Anne
+ - Enright, Barb
  - Farrell, Allison
  - Floyd, Kathy
  - Gagnon, Nathalie
@@ -119,15 +118,16 @@ vs:
  - Pinkney, Colleen
  - Power, Marie-Anne
  - Renouf, Michele
+ - Robertson, Darcy
  - Ross, Allison
  - Sabourin, Joelle
  - Santos, Deb
  - Sharpe, Kelli
  - Sonnenberg, Renee
- - Street, Cindy
+ - Spencer, Barb
  - Strong, Heather
- - Tanner, Allison
  - Tincher, Twyla
  - Todd, Fran
+ - Unrau, Faye
  - Wright, Susan
 ---

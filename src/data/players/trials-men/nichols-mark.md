@@ -128,6 +128,7 @@ vs:
  - Hebert, Ben
  - Hodgson, Colin
  - Howard, Glenn
+ - Howard, Scott
  - Jacobs, Brad
  - Janssen, Patrick
  - Kennedy, Marc

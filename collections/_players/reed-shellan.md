@@ -37,27 +37,24 @@ years:
    shots-percent: 75
 vs:
  - Affleck, Tricia
- - Anderson, Sherry
  - Arsenault, Mary-Anne
  - Bakker, Glenys
  - Birt, Suzanne
- - Blanchard, Judy
  - Bonar, Maureen
  - Cooke, Gerri
  - Cordina, Sheri
  - Cunningham, Cathy
  - Delahunt, Nancy
+ - Dobson, Sue
  - Fisher, Alana
  - Fowler, Lois
  - Freeman, Lisa
  - Gagnon, Karo
- - Gignac, Donna
  - Gogan, Jennifer
  - Goss, Peg
  - Gregoire, Veronique
  - Hanlon, Heidi
  - Harrison, Meredith
- - Hodson, Kim
  - Hunter, Lana
  - Iskiw, Beth
  - Jones, Colleen
@@ -73,12 +70,10 @@ vs:
  - McInnis, Susan
  - Middaugh, Sherry
  - Moss, Debbie
- - Mulroney, Sandra
  - Nixon, Amy
  - Peters, Laine
  - Smith, Heather
  - Stabel, Stacey
- - Stewart, Allyson
  - Stewart, Sheri
  - Wall, Kirsten
 ---

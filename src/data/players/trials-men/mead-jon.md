@@ -140,6 +140,7 @@ vs:
  - Hebert, Ben
  - Howard, Glenn
  - Howard, Russ
+ - Howard, Scott
  - Jacobs, Brad
  - Johnston, Wade
  - Karrys, George
@@ -175,6 +176,7 @@ vs:
  - Odishaw, Grant
  - Park, Kerry
  - Park, Kevin
+ - Park, Shane
  - Patterson, Scott
  - Peachey, Jay
  - Perroud, Pat
@@ -193,7 +195,6 @@ vs:
  - Semen, Jerry
  - Sharp, Jeff
  - Simmons, Pat
- - Stambaugh, Doug
  - Stoughton, Jeff
  - Sveistrup, Jody
  - Tetley, Ian

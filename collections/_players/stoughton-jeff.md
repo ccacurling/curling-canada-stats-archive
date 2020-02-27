@@ -441,6 +441,7 @@ vs:
 - Hopkins, Jeff
 - Howard, Glenn
 - Howard, Russ
+- Howard, Scott
 - Howard, Steven
 - Hunka, Ken
 - Ingram, Bob
@@ -556,6 +557,7 @@ vs:
 - Palmer, Curt
 - Park, Kerry
 - Park, Kevin
+- Park, Shane
 - Paslawski, Pat
 - Patterson, Scott
 - Peachey, Jay
@@ -617,7 +619,6 @@ vs:
 - Smyth, Larry
 - Solberg, Jonathon
 - Somers, Grant
-- Stambaugh, Doug
 - Sullivan, Charles Jr
 - Sullivan, Evan
 - Sveistrup, Jody

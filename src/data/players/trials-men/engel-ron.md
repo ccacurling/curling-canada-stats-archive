@@ -73,11 +73,11 @@ vs:
  - Bailey, Scott
  - Bartlett, Don
  - Burtnyk, Kerry
+ - Fenton, Darin
  - Fenton, Keith
  - Ferbey, Randy
  - Frans, Joseph
  - Grattan, James
- - Gretzinger, Bert
  - Howard, Glenn
  - Howard, Russ
  - Laing, Brent
@@ -86,9 +86,7 @@ vs:
  - McCarrel, Graeme
  - Mead, Jon
  - Meakin, Rob
- - Mellof, David
  - Middaugh, Wayne
- - Miki, Bryan
  - Morris, John
  - Nedohin, David
  - Odishaw, Grant
@@ -101,8 +99,6 @@ vs:
  - Stoughton, Jeff
  - Sveistrup, Jody
  - Tetley, Ian
- - Ursel, Bob
  - Vandenberghe, Garry
  - Walchuk, Don
- - Whittle, Mark
 ---

@@ -297,6 +297,7 @@ vs:
 - Affleck, Tricia
 - Anderson, Sherry
 - Armstrong, Jacquie
+- Arnott, Janet
 - Arsenault, Mary-Anne
 - Arseneau, Jane
 - Atkinson, Rebecca
@@ -311,21 +312,19 @@ vs:
 - Betker, Jan
 - Beveridge, Corie
 - Birt, Suzanne
-- Blanchard, Judy
 - Bohmer, Brenda
 - Bonar, Maureen
 - Boyle, Jane
 - Bradley, Shelly
 - Brennan, Amanda
-- Briand, Oye-Sem Won
 - Brothers, Jill
 - Brown, Jacalyn
 - Brown, Janet
-- Cameron, Nancy
 - Campbell, Jolene
 - Carey, Chelsea
 - Carrier, Julie
 - Carter, Sasha
+- Chisholm, Candace
 - Christianson, Marie
 - Clark, Stefanie
 - Clark-Rouire, Jennifer
@@ -342,9 +341,9 @@ vs:
 - deSolla, Jodie
 - Devereaux, Julie
 - Dezura, Diane
+- Dobson, Sue
 - Dolan, Kim
 - Dolan, Sinead
-- Dunn, Michelle
 - Einarson, Kerri
 - Englot, Michelle
 - Enright, Barb
@@ -352,6 +351,7 @@ vs:
 - Farrell, Allison
 - Fisher, Alana
 - Fleury, Tracy
+- Flinn-Burton, Jayne
 - Floyd, Kathy
 - Fowler, Lois
 - Fowlie, Heather
@@ -359,7 +359,6 @@ vs:
 - Freeman, Lisa
 - Fyfe, Liz
 - Galusha, Kerry
-- Gatchell, Sara
 - Gates, Amanda
 - George, Tara
 - Gignac, Donna
@@ -387,6 +386,7 @@ vs:
 - Iskiw, Beth
 - Jones, Colleen
 - Jones, Jennifer
+- Jones-Walker, Debbie
 - Joyce, Blisse
 - Jurgenson, Christine
 - Kalenchuk, Heather
@@ -401,6 +401,7 @@ vs:
 - Koehler, Megan
 - Korab, Stephanie
 - Kreviazuk, Alison
+- Laliberte, Connie
 - Lang, Lorraine
 - Lavery, Tracey
 - Law, Kelley
@@ -460,8 +461,6 @@ vs:
 - Paul, Sarah
 - Peterman, Jocelyn
 - Peters, Laine
-- Pilote, Kristen
-- Pinkney, Colleen
 - Porter, Erin
 - Potts, Sarah
 - Power, Marie-Anne
@@ -475,10 +474,9 @@ vs:
 - Rizzo, Jo-Ann
 - Robertson, Darcy
 - Robichaud, Sylvie
-- Rusnell, Jen
+- Robison, Michala
 - Sagle, Karen
 - Sandison, Janice
-- Sandwith, Carley
 - Schneider, Kim
 - Schneider, Tammy
 - Schraeder, Jeanna
@@ -502,6 +500,7 @@ vs:
 - Strong, Laura
 - Surik, Teejay
 - Tasaka, Adina
+- Thomas, Jill
 - Thompson, Karla
 - Tuck, Kimberly
 - Udle, Teri
@@ -511,9 +510,10 @@ vs:
 - Wall, Kirsten
 - Walsh, Heather
 - Walsh, Jenna
-- Wark, Sarah
+- Wasylkiw, Lauren
 - Weagle, Lisa
 - Webster, Bronwen
+- Webster, Crystal
 - Westcott, Raunora
 - Wheatcroft, Georgina
 - Whitaker, Carol

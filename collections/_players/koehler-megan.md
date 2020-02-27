@@ -154,17 +154,17 @@ vs:
  - Belisle, Eve
  - Birchard, Shannon
  - Birt, Suzanne
+ - Black, Christina
  - Blais, Amelie
  - Bradley, Shelly
+ - Briand, Oye-Sem Won
  - Cameron, Kate
- - Cameron, Nancy
  - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
- - Charette, France
  - Cheveldave, Amber
- - Chislett, Geneva
+ - Clark-Rouire, Jennifer
  - Comeau, Martine
  - Courtney, Joanne
  - Crawford, Andrea
@@ -180,42 +180,38 @@ vs:
  - Dolan, Sinead
  - Dufresne, Audree
  - Duncan, Chelsea
- - Duncan, Hollie
  - Duncan, Jenna
  - Dykstra, Michelle
  - Einarson, Kerri
+ - Einarson, Megan
  - Englot, Michelle
  - Eyamie, Lisa
  - Fesser, Kourtney
  - Fesser, Krista
  - Filteau, Anne-Marie
  - Fleury, Tracy
+ - Fraser, Sherry
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gates, Amanda
+ - Gates, Jenny
  - George, Tara
- - Gibson, Amy
  - Gilman, Sheena
- - Gushulak, Diane
+ - Hardy, Shelley
  - Hill, Trish
  - Holland, Amber
  - Holtby, Taryn
  - Homan, Rachel
  - Hughes, Meaghan
- - Hutchings, Denise
  - Iskiw, Beth
- - Jewer, Michelle
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
- - Joyce, Blisse
  - Kalenchuk, Heather
  - Kelly, Kim
- - Kleibrink, Shannon
  - Korab, Stephanie
  - Korchinski, Karlee
  - Kreviazuk, Alison
- - Kreviazuk, Cheryl
  - Larouche, Marie-France
  - Lawes, Kaitlyn
  - LeDrew, Stephanie
@@ -228,18 +224,18 @@ vs:
  - MacLean, Kari
  - MacPhee, Robyn
  - Mair, Jessica
+ - Makichuck, Lindsay
  - Mallett, Marla
  - Mann, Lauren
  - Martin, Heather
- - Materi, Roberta
  - Mattatall, Mary
  - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - McQuaid, Michelle
- - McTaggart, Cary-Anne
  - Miskew, Emma
  - Moore, Kristie
+ - More, Whitney
  - Nedohin, Heather
  - Njegovan, Selena
  - Nicholls, Brenda
@@ -258,46 +254,34 @@ vs:
  - Price, Kara
  - Rainville, Julie
  - Ramsay, Geri Lynn
- - Recksiedler, Kristen
  - Richards, Brette
  - Robichaud, Sylvie
+ - Robison, Michala
  - Rogers, Rhonda
  - Ross, Allison
- - Sagle, Karen
  - Saulnier, Andrea
- - Scheidegger, Casey
- - Scheidegger, Jessie
  - Schneider, Kim
  - Schneider, Lorraine
- - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
- - Shackleton, Amie
  - Shumay, Jill
  - Sicinski, Danielle
  - Sippala, Ashley
  - Sivertson, Dailene
- - Slywka, Sarah
  - Smallwood, Jody
- - Smith, Heather
  - Sobey, Lianne
  - Strong, Heather
  - Strong, Laura
+ - Sweeting, Val
  - Thiessen, Alison
  - Thomas, Jill
  - Thurston, Jill
  - Trickett, Erica
- - Udle, Teri
- - Van Osch, Kalia
- - Van Osch, Kesa
- - Van Osch, Marika
- - Vey, Lana
  - Walsh, Jenna
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa
  - Webster, Crystal
- - West, Christianne
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie

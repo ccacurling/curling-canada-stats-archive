@@ -54,7 +54,7 @@ years:
    shots-percent: 77
 vs:
  - Arnott, Janet
- - Arsenault, Mary-Anne
+ - Aulenback, Wanda
  - Barker, Catherine
  - Belley, Joelle
  - Bennett, Connie
@@ -63,7 +63,6 @@ vs:
  - Blackburn, Julie
  - Blanchard, Judy
  - Bohmer, Brenda
- - Boudreault, Tracie
  - Byers, Denise
  - Campbell, Gloria
  - Carney, Laurie
@@ -84,6 +83,7 @@ vs:
  - Flesjer, Melody
  - Floyd, Kathy
  - Gagnon, Nathalie
+ - Gallant, Kathie
  - Gervais, Chris
  - Gogan, Jennifer
  - Goss, Peg
@@ -108,7 +108,6 @@ vs:
  - Leahy, Anne
  - Linton, Sherry
  - MacDonald, Rebecca Jean
- - Mackin, Marion
  - MacPhee, Robyn
  - Marchand, Karine
  - Marchuk, Lindy
@@ -124,6 +123,7 @@ vs:
  - Moses, Dawn
  - Naugler, Tara
  - Noye, Marnie
+ - Peters, Laine
  - Raby, Odette
  - Robertson, Darcy
  - Roland, Mavis

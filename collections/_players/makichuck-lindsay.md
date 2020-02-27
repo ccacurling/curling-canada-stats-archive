@@ -40,7 +40,7 @@ vs:
  - Armstrong, Jacquie
  - Babin, Jillian
  - Belisle, Eve
- - Bradley, Shelly
+ - Campbell, Jolene
  - Carmody, Erin
  - Carter, Sasha
  - Comeau, Martine
@@ -49,29 +49,30 @@ vs:
  - Crouse, Jennifer
  - Ellis, Danielle
  - George, Tara
+ - Georges, Kendra
  - Gilman, Sheena
+ - Hardy, Shelley
  - Holland, Amber
- - Jewer, Michelle
  - Jones, Jennifer
  - Kalenchuk, Heather
+ - Koehler, Megan
  - LeDrew, Stephanie
  - Lemon, Colette
  - MacLean, Kari
  - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
- - Moses, Dawn
  - Naugler, Tara
  - Nicholls, Brenda
  - Nowlan, Denise
  - Officer, Jill
+ - O'Rourke, Kathy
  - Overton-Clapham, Cathy
  - Phillips, Kristen
  - Rainville, Julie
  - Ramsay, Geri Lynn
  - Rogers, Rhonda
  - Schneider, Kim
- - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sippala, Ashley

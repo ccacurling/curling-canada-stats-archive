@@ -53,48 +53,86 @@ years:
    shots-total: 242
    shots-percent: 79
 vs:
+ - Adams, Melissa
  - Anderson, Sherry
+ - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
+ - Barbour, Shona
+ - Birchard, Shannon
  - Birt, Suzanne
  - Blais, Amelie
  - Boyle, Jane
  - Bradley, Shelly
  - Brown, Rachel
+ - Cameron, Kate
  - Camozzi, Rhona
+ - Chenier, Courtney
  - Collins, Katrina
  - Cooper, Kathryn
  - Courtney, Joanne
  - Cunningham, Jessica
+ - Duncan, Chelsea
+ - Duncan, Hollie
+ - Duncan, Jenna
+ - Einarson, Kerri
+ - Englot, Michelle
  - Ferguson, Dana
+ - Fesser, Kourtney
+ - Fesser, Krista
  - Filteau, Anne-Marie
  - Fleury, Tracy
+ - Fyfe, Liz
+ - Galusha, Kerry
  - Gates, Amanda
+ - Gibson, Amy
  - Hastings, Julie
  - Homan, Rachel
  - Jones, Jennifer
+ - Kallechy, Rachelle
  - Kasner, Marliese
  - Knezevic, Patti
+ - Koehler, Megan
+ - Koltun, Sarah
  - Korab, Stephanie
+ - Korchinski, Karlee
+ - Kreviazuk, Cheryl
  - Lawes, Kaitlyn
  - Lawton, Stefanie
+ - LeDrew, Stephanie
+ - Lister, Kendra
+ - MacCuish, Kristin
  - Mann, Lauren
  - McEwen, Dawn
  - McInnis, Susan
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Miskew, Emma
+ - Moore, Kristie
+ - Njegovan, Selena
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Rourke, Brittany
  - Pilote, Kristen
+ - Price, Kara
  - Richard, Marie
  - Robichaud, Sylvie
  - Rusnell, Jen
+ - Sagle, Karen
+ - Scheidegger, Casey
+ - Scheidegger, Jessie
  - Schmidt, Stephanie
+ - Smallwood, Jody
  - Smith, Stacey
  - Strong, Heather
  - Sweeting, Val
  - Trombley, Christy
+ - Van Osch, Kalia
+ - Van Osch, Kesa
+ - Van Osch, Marika
  - Walsh, Jenna
  - Weagle, Lisa
+ - Webster, Crystal
+ - Westcott, Raunora
+ - Wilson, Leslie
  - Wylie, Jennifer
 ---

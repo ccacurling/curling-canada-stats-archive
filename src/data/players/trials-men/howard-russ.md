@@ -122,6 +122,7 @@ vs:
  - Nicholls, Peter
  - Park, Kerry
  - Park, Kevin
+ - Park, Shane
  - Peachey, Jay
  - Perroud, Pat
  - Pfeifer, Scott
@@ -137,7 +138,6 @@ vs:
  - Sawatsky, Rick
  - Semen, Jerry
  - Smith, Dave
- - Stambaugh, Doug
  - Stoughton, Jeff
  - Sveistrup, Jody
  - Tetley, Ian

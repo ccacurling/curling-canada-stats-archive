@@ -108,25 +108,25 @@ years:
   shots-total: 164
   shots-percent: 73
 vs:
+- Affleck, Tricia
 - Anderson, Sherry
 - Arsenault, Mary-Anne
 - Bakker, Glenys
 - Bell, Chelsey
 - Betker, Jan
 - Birt, Suzanne
-- Blanchard, Judy
 - Bonar, Maureen
-- Cameron, Nancy
 - Carter, Sasha
 - Cooke, Gerri
 - Cordina, Sheri
 - Cunningham, Cathy
 - Delahunt, Nancy
 - Dezura, Diane
+- Dobson, Sue
 - Fisher, Alana
+- Flinn-Burton, Jayne
 - Fowler, Lois
 - Freeman, Lisa
-- Gatchell, Sara
 - Gignac, Donna
 - Gogan, Jennifer
 - Goss, Peg

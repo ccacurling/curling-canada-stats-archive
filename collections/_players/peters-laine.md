@@ -249,8 +249,8 @@ vs:
 - Bradley, Shelly
 - Breen, Theresa
 - Brennan, Amanda
+- Brine, Jenn
 - Brothers, Jill
-- Brown, Jacalyn
 - Brown, Rachel
 - Cameron, Kate
 - Cameron, Nancy
@@ -270,10 +270,10 @@ vs:
 - Crawford, Andrea
 - Cunningham, Cathy
 - Cunningham, Jennifer
+- Currie, Wendy
 - Curtis, Stacie
 - Cutcliffe, Margaret
 - Daku, Karen
-- Davis, Brandee
 - deJager, Blaine
 - Delahunt, Nancy
 - Derry, Danielle
@@ -341,6 +341,7 @@ vs:
 - Kreviazuk, Alison
 - Kreviazuk, Lynn
 - Laliberte, Connie
+- Lange, Ann
 - Larouche, Marie-France
 - Lavery, Tracey
 - Law, Kelley
@@ -348,16 +349,15 @@ vs:
 - Lawes, Kaitlyn
 - Lawton, Stefanie
 - Leclerc, Valerie
-- LeDrew, Stephanie
 - Lemay, Annie
 - Lilly, Kendra
 - MacCallum, Janice
 - MacCuish, Kristin
 - MacDonald, Lawnie
 - MacDonald, Rebecca Jean
-- MacDonald, Shelley
 - MacDougall, Leslie
 - MacInnes, Allison
+- MacNutt, Shelley
 - MacPhee, Robyn
 - Mallett, Marla
 - Mann, Lauren
@@ -367,6 +367,7 @@ vs:
 - Mattatall, Mary
 - McCagg-Nystrom, Heather
 - McCarville, Krista
+- McConnery, Nancy
 - McDonald, Kristy
 - McEwen, Dawn
 - McGregor, Rona
@@ -385,6 +386,7 @@ vs:
 - Moss, Debbie
 - Mulroney, Sandra
 - Murphy, Sarah
+- Naugler, Tara
 - Nedohin, Heather
 - Nicholls, Brenda
 - Nicholson, Danielle
@@ -398,8 +400,10 @@ vs:
 - Parsons, Danielle
 - Pasika, Rona
 - Phillips, Margaret Lea
+- Pinkney, Colleen
 - Porter, Erin
 - Potts, Sarah
+- Rainville, Julie
 - Recksiedler, Kristen
 - Reed, Shellan
 - Renouf, Michele
@@ -433,15 +437,11 @@ vs:
 - Stabel, Stacey
 - Stahl, Carrie
 - Stewart, Sheri
-- Street, Cindy
 - Strong, Heather
 - Strong, Laura
 - Surik, Teejay
 - Sweeting, Val
-- Tanner, Allison
-- Tasaka, Adina
 - Thiessen, Alison
-- Thomas-Kennell, Noelle
 - Thompson, Karla
 - Tippin, Julie
 - Titheridge, Lindsay
@@ -461,7 +461,6 @@ vs:
 - Westcott, Raunora
 - Wheatcroft, Georgina
 - Whitaker, Carol
-- Whitaker, Lise
 - Whitrow, Leanne
 - Wilkes, Sarah
 - Williamson, Ashley

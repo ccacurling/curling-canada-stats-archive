@@ -83,12 +83,10 @@ vs:
 - Balderston, Marcy
 - Bell, Patty
 - Beveridge, Corie
-- Birt, Suzanne
 - Bohmer, Brenda
 - Bradley, Shelly
 - Brown, Jacalyn
 - Brown, Janet
-- Clark, Stefanie
 - Cordina, Sheri
 - Darbyshire, Carolyn
 - Delahunt, Nancy
@@ -117,7 +115,6 @@ vs:
 - MacDonald, Lawnie
 - MacDonald, Shelley
 - MacDougall, Leslie
-- MacPhee, Robyn
 - Martin, Denise
 - Materi, Roberta
 - McCagg-Nystrom, Heather
@@ -140,7 +137,6 @@ vs:
 - Tasaka, Adina
 - Webster, Bronwen
 - Wheatcroft, Georgina
-- Whitaker, Carol
 - Whitaker, Lise
 - Young, Karen
 ---

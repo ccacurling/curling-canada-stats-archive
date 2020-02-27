@@ -154,7 +154,6 @@ vs:
 - Affleck, Tricia
 - Anderson, Sherry
 - Armstrong, Jacquie
-- Arnott, Janet
 - Arsenault, Mary-Anne
 - Atkinson, Rebecca
 - Babin, Jillian
@@ -170,7 +169,6 @@ vs:
 - Bradley, Shelly
 - Brassard, Veronique
 - Brown, Janet
-- Cameron, Nancy
 - Carmody, Erin
 - Carter, Sasha
 - Comeau, Martine
@@ -187,6 +185,7 @@ vs:
 - Dolan, Kim
 - Dolan, Sinead
 - Einarson, Megan
+- Ellis, Danielle
 - Englot, Michelle
 - Fallis, Karen
 - Filteau, Anne-Marie
@@ -242,8 +241,8 @@ vs:
 - McCarville, Krista
 - McConnery, Nancy
 - McEwen, Dawn
-- Meakin, Breanne
 - Middaugh, Sherry
+- Miller, Wendy
 - Miskew, Emma
 - More, Whitney
 - Morris, Cori

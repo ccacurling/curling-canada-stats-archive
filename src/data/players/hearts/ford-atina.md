@@ -40,4 +40,8 @@ years:
    team: "CA"
    position: Alternate
 vs:
+ - Cormier, Sharon
+ - Kaylo, Kelly
+ - Moss, Debbie
+ - Ondrack, Wendy
 ---

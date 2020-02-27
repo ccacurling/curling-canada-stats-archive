@@ -37,9 +37,9 @@ years:
    shots-percent: 69
 vs:
  - Arnott, Janet
+ - Aulenback, Wanda
  - Barker, Catherine
  - Bennett, Connie
- - Boudreault, Tracie
  - Carney, Laurie
  - Carr, Judy
  - Clarke, Betty
@@ -48,7 +48,7 @@ vs:
  - Currie, Wendy
  - Earl, Allison
  - Flesjer, Melody
- - Floyd, Kathy
+ - Gallant, Kathie
  - Gervais, Chris
  - Greenwood, Jill
  - Howse, Lillian

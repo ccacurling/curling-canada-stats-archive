@@ -72,7 +72,6 @@ vs:
  - Cameron, Nancy
  - Chapman, Kathy
  - Chaulk, Wendy
- - Cormier, Sharon
  - Cunningham, Cathy
  - Dolan, Kim
  - Dwyer, Patricia
@@ -92,7 +91,6 @@ vs:
  - Houston, Heather
  - Jones, Colleen
  - Jones, Karen
- - Kaylo, Kelly
  - Kehler, Lorie
  - Kelly, Kim
  - Kennedy, Tracy
@@ -108,9 +106,7 @@ vs:
  - McCusker, Joan
  - McHugh, Cindy
  - Moses, Dawn
- - Moss, Debbie
  - Muzika, Shelley
- - Ondrack, Wendy
  - O'Rourke, Kathy
  - Overton, Kim
  - Overton-Clapham, Cathy

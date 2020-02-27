@@ -59,12 +59,16 @@ vs:
  - Buckway, Beverly
  - Burns, Shannon
  - Caron, Diane
+ - Charette, Agnes
  - Crass, Kim
  - Cunliffe, Donna
+ - Currie, Wendy
  - Day, Arleen
+ - Deschatelets, Guylaine
  - Felker, Arenlea
  - Ferland, Marie
  - Grange, Denise
+ - Haspect, Ginette
  - Hastings, Sharon
  - Hepper, Dorothy
  - Inouye, Wendy
@@ -81,6 +85,7 @@ vs:
  - Ouellet, Louise
  - Parker, Barbara
  - Quinn, Lori
+ - Raby, Odette
  - Reynolds, Lynn
  - Rose, Dorothy
  - Ryan, Diane

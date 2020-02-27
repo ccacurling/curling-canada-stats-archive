@@ -147,6 +147,7 @@ vs:
  - Aucoin, Shelley
  - Augustyn, Jan
  - Baker, Michelle
+ - Beddington, Shalegh
  - Belanger, Nancy
  - Berthelot, Janique
  - Betker, Jan
@@ -157,7 +158,6 @@ vs:
  - Bradley, Shelly
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Marcie
  - Burry, Gail
  - Byers, Denise
  - Cameron, Nancy
@@ -179,15 +179,12 @@ vs:
  - Farrell, Allison
  - Ferland, Marie
  - Floyd, Kathy
- - Galusha, Kerry
  - Gellard, Kim
  - Grenier, Valerie
  - Hanlon, Heidi
- - Harding, Mary
  - Harvey, Alison
  - Henry, Lou Ann
  - Herlinveaux, Louise
- - Holowec, Ainsley
  - Horne, Kate
  - Hutchinson, Joan
  - Jackson, Sherry
@@ -214,7 +211,6 @@ vs:
  - Marchuk, Lindy
  - Massullo, Deb
  - Materi, Roberta
- - McCagg-Nystrom, Heather
  - McEdwards, Kathy
  - Messer, Janyce
  - Middaugh, Sherry
@@ -222,6 +218,7 @@ vs:
  - Moss, Debbie
  - Muzika, Shelley
  - Nedohin, Heather
+ - O'Leary, Susan
  - Ondrack, Wendy
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
@@ -238,7 +235,6 @@ vs:
  - Sharpe, Kelli
  - Shields, Gail
  - Skinner, Julie
- - Stabel, Stacey
  - Stokes, Debbie
  - Street, Cindy
  - Stricker, Joan

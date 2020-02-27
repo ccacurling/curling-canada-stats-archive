@@ -36,4 +36,8 @@ years:
    shots-total: 19
    shots-percent: 83
 vs:
+ - Hanna, Jenn
+ - Hanna, Stephanie
+ - Letendre, Pascale
+ - McEwen, Dawn
 ---

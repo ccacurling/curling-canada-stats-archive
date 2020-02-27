@@ -44,6 +44,7 @@ vs:
  - Bradley, Shelly
  - Brown, Rachel
  - Camozzi, Rhona
+ - Chenier, Courtney
  - Collins, Katrina
  - Cooper, Kathryn
  - Courtney, Joanne

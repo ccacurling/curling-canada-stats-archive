@@ -45,6 +45,7 @@ vs:
  - Bradley, Shelly
  - Brown, Jacalyn
  - Brown, Janet
+ - Cameron, Nancy
  - Cordina, Sheri
  - Delahunt, Nancy
  - Dezura, Diane
@@ -52,7 +53,6 @@ vs:
  - Farrell, Allison
  - Floyd, Kathy
  - Grenier, Valerie
- - Harding, Mary
  - Harvey, Alison
  - Jones, Colleen
  - Kehler, Lorie
@@ -61,11 +61,9 @@ vs:
  - Law, Kelley
  - Lawes, Andrea
  - Lemay, Annie
- - MacCallum, Janice
  - MacDonald, Shelley
  - MacDougall, Leslie
  - Materi, Roberta
- - McDonald, Tina
  - McNamee, Karen
  - Middaugh, Sherry
  - O'Leary, Susan
@@ -78,6 +76,7 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Tasaka, Adina
+ - Vavrek, Melody
  - Wheatcroft, Georgina
  - Whitaker, Lise
  - Young, Karen

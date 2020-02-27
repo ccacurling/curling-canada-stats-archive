@@ -183,6 +183,7 @@ vs:
 - Brown, Jacalyn
 - Brown, Katie
 - Burlington, Cheryl
+- Cameron, Nancy
 - Carter, Sasha
 - Chapman, Kathy
 - Chaulk, Wendy
@@ -230,6 +231,7 @@ vs:
 - Harvey, Janet
 - Hensley, Merna
 - Hodson, Kim
+- Holden, Anna-Mae
 - Holland, Amber
 - Holowec, Ainsley
 - Horne, Kate
@@ -267,6 +269,7 @@ vs:
 - Martin, Denise
 - Martin, Heather
 - Materi, Roberta
+- Mattatall, Mary
 - McCagg-Nystrom, Heather
 - McCurdy, Susan
 - McCusker, Joan

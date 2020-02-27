@@ -305,6 +305,7 @@ vs:
 - Epping, John
 - Fawcett, Brian
 - Fenton, Brad
+- Fenton, Darin
 - Fenton, Keith
 - Fetterly, Tom
 - Flemming, Paul
@@ -394,7 +395,6 @@ vs:
 - Melnichuk, Greg
 - Menard, Jean-Michel
 - Middaugh, Wayne
-- Miki, Bryan
 - Mikkelsen, Ray
 - Milward, Ross
 - Mittelstadt, Kelly

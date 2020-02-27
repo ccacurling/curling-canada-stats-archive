@@ -37,7 +37,6 @@ years:
    shots-percent: 76
 vs:
  - Affleck, Tricia
- - Arnott, Janet
  - Arsenault, Mary-Anne
  - Barrack, Carmen
  - Bernard, Krista
@@ -46,25 +45,23 @@ vs:
  - Breen, Theresa
  - Campbell, June
  - Daku, Karen
+ - Delahunt, Nancy
  - Dezura, Diane
  - Dobson, Sue
+ - Frey, Audrey
  - Hanlon, Heidi
  - Hatton, Sandra
  - Horte, Rhonda
  - Jones, Colleen
- - Jones-Walker, Debbie
  - Kelly, Kim
- - Laliberte, Connie
  - Law, Kelley
  - MacCallum, Janice
  - MacDougall, Leslie
- - McCrady, Christine
  - McGregor, Rona
  - McKnight, Patti
  - Merklinger, Anne
  - Moore, Kristie
  - Nedohin, Heather
- - Overton-Clapham, Cathy
  - Peters, Laine
  - Phillips, Margaret Lea
  - Renouf, Michele

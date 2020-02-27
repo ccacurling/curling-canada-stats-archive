@@ -55,34 +55,37 @@ years:
 vs:
  - Adams, Melissa
  - Anderson, Sherry
+ - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
  - Barbour, Shona
+ - Baxter, Jen
  - Birchard, Shannon
- - Chislett, Geneva
+ - Black, Christina
+ - Brassard, Veronique
+ - Cameron, Kate
+ - Crouse, Jennifer
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
  - Einarson, Kerri
+ - Englot, Michelle
  - Fesser, Kourtney
  - Fesser, Krista
- - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
  - Gibson, Amy
- - Hughes, Meaghan
- - Hutchings, Denise
+ - Gregoire, Veronique
  - Jones, Jennifer
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
  - Kreviazuk, Cheryl
- - Lawes, Kaitlyn
+ - Larouche, Marie-France
  - LeDrew, Stephanie
+ - Lemay, Annie
  - Lister, Kendra
  - MacCuish, Kristin
- - MacPhee, Robyn
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Moore, Kristie
  - Njegovan, Selena
@@ -92,10 +95,10 @@ vs:
  - Sagle, Karen
  - Scheidegger, Casey
  - Scheidegger, Jessie
- - Shackleton, Amie
  - Smallwood, Jody
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
- - West, Christianne
+ - Westcott, Raunora
+ - Wilson, Leslie
 ---

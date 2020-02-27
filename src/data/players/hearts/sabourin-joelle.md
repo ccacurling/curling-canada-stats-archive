@@ -161,6 +161,7 @@ vs:
  - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
+ - Curtis, Stacie
  - Daku, Karen
  - Darbyshire, Carolyn
  - Davis, Brandee
@@ -175,6 +176,7 @@ vs:
  - Farrell, Allison
  - Floyd, Kathy
  - Fraser, Sherry
+ - Frey, Audrey
  - Galusha, Kerry
  - Gellard, Kim
  - George, Tara
@@ -183,6 +185,7 @@ vs:
  - Goss, Peg
  - Gudereit, Marcia
  - Gushulak, Diane
+ - Guzzwell, Stephanie
  - Hanlon, Heidi
  - Harmark, Andra
  - Harvey, Alison
@@ -224,7 +227,6 @@ vs:
  - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McConnery, Nancy
- - McCrady, Christine
  - McCusker, Joan
  - McDonald, Tina
  - McEwen, Dawn
@@ -249,10 +251,10 @@ vs:
  - Ondrack, Wendy
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
+ - Paul, Sarah
  - Peters, Laine
  - Phillips, Laura
  - Phillips, Margaret Lea
- - Pinkney, Colleen
  - Power, Marie-Anne
  - Radford, Helen
  - Renouf, Michele
@@ -281,6 +283,7 @@ vs:
  - Strong, Laura
  - Surik, Teejay
  - Tanner, Allison
+ - Thomas, Jill
  - Thompson, Karla
  - Tincher, Twyla
  - Tucker, Cindy

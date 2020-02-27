@@ -86,7 +86,6 @@ vs:
 - Ferbey, Randy
 - Frans, Joseph
 - Gagnon, Jean
-- Germsheid, Tony
 - Golanowski, Rory
 - Grattan, James
 - Gretzinger, Bert
@@ -113,6 +112,7 @@ vs:
 - Nolan, Jason
 - Odishaw, Grant
 - Park, Kevin
+- Park, Shane
 - Perron, Rick
 - Pfeifer, Scott
 - Phillips, Tim

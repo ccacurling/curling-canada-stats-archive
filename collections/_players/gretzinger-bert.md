@@ -177,8 +177,8 @@ vs:
 - Doerr, Bob
 - Doyon, Ghislain
 - Duce, Dallas
-- Engel, Ron
 - Feldman, Alfred
+- Fenton, Darin
 - Fenton, Keith
 - Ferbey, Randy
 - Ferster, Greg
@@ -259,7 +259,6 @@ vs:
 - Meleschuk, Orest
 - Meleschuk, Sean
 - Middaugh, Wayne
-- Miki, Bryan
 - Mimeault, Bernard
 - Mimeault, Greg
 - Mitchell, Gary
@@ -282,6 +281,7 @@ vs:
 - Packet, Jim
 - Pahl, James
 - Park, Kevin
+- Park, Shane
 - Paslawski, Pat
 - Patriquin, Chuck
 - Patterson, Scott

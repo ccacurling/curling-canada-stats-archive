@@ -134,6 +134,7 @@ vs:
 - Bobbie, Tess
 - Boyle, Jane
 - Bradley, Shelly
+- Brown, Marcie
 - Burgess, Carey
 - Cameron, Kate
 - Cameron, Nancy
@@ -166,7 +167,6 @@ vs:
 - Gauthier, Cathy
 - George, Tara
 - Grandy, Clancy
-- Hamilton, Beth
 - Hanna, Jenn
 - Hanna, Stephanie
 - Hardy, Shelley
@@ -201,6 +201,7 @@ vs:
 - McCarville, Krista
 - McEwen, Dawn
 - McInnis, Susan
+- McPherson, Cheryl
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
 - Miskew, Emma
@@ -246,7 +247,6 @@ vs:
 - Strong, Laura
 - Stubbings, Tiffany
 - Tanner, Ros
-- Thomas-Kennell, Noelle
 - Thurston, Jill
 - Tippin, Julie
 - Trombley, Christy
@@ -257,6 +257,7 @@ vs:
 - Webster, Bronwen
 - Westcott, Raunora
 - Wheatcroft, Georgina
+- Whitaker, Carol
 - Wilson, Leslie
 - Wylie, Jennifer
 - Zinck, Kay

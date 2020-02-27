@@ -72,8 +72,9 @@ vs:
  - Combden, Cathy
  - Cooke, Gerri
  - Cunningham, Cathy
+ - Daniel, Sylvie
  - Delahunt, Nancy
- - Dillon, Cathy
+ - Dolan, Kim
  - Dorosz, Peggy
  - Englot, Michelle
  - Fahlman, Kathy
@@ -82,7 +83,6 @@ vs:
  - Garnett, Lorelei
  - Gauthier, Cathy
  - Gellard, Kim
- - Girard, Sylvie
  - Green, Sue
  - Hanlon, Heidi
  - Hooper Perroud, Jane
@@ -110,18 +110,19 @@ vs:
  - Moses, Dawn
  - Mulroney, Sandra
  - Nicholls, Brenda
- - Nichols, Helen
  - Nohr, Dianne
  - O'Rourke, Kathy
  - Osborne, Chantal
  - Overton-Clapham, Cathy
  - Phillips, Laura
+ - Porter, Debbie
  - Rainville, Julie
  - Sauer, Cathy
  - Scales, Julie
  - Scott, Donna
  - Shephard, Wendy
  - Skinner, Julie
+ - Snider, Shelly
  - Soligo, Melissa
  - Stewart, Sheri
  - Stokes, Debbie
@@ -129,7 +130,6 @@ vs:
  - Sutton, Jodie
  - Train, Mona
  - Walker, Lisa
- - Whipple, Paula
  - Wieler, Bev
  - Willms, Karri
  - Wilson, Patty

@@ -84,46 +84,43 @@ years:
   shots-total: 166
   shots-percent: 79
 vs:
-- Adams, Melissa
 - Anderson, Sherry
 - Armstrong, Leigh
-- Arsenault-Bishop, Nicole
-- Barbour, Shona
+- Arnaud, Chloe
+- Arsenault, Mary-Anne
+- Baxter, Jen
 - Birchard, Shannon
+- Black, Christina
 - Bobbie, Tess
 - Brown, Rachel
 - Cameron, Kate
 - Carey, Chelsea
-- Chislett, Geneva
 - Court, Morgan
 - Courtney, Joanne
+- Crouse, Jennifer
+- Curtis, Stacie
+- Devereaux, Julie
 - Duhaime, Chantal
-- Duncan, Chelsea
 - Duncan, Hollie
-- Duncan, Jenna
 - Einarson, Kerri
 - Englot, Michelle
 - Ferguson, Dana
-- Fesser, Kourtney
-- Fesser, Krista
 - Flaxey, Allison
 - Fleury, Tracy
 - Foster, Kristen
 - Fullerton, Sarah
 - Fyfe, Liz
-- Galusha, Kerry
+- Gagnon, Emilia
 - Gates, Amanda
 - Gibson, Amy
 - Grandy, Clancy
+- Harvey, Marie-Pier
 - Homan, Rachel
 - Hughes, Meaghan
 - Hutchings, Denise
 - Iskiw, Beth
 - Jones, Jennifer
 - Kasner, Marliese
-- Koehler, Megan
-- Koltun, Sarah
-- Korchinski, Karlee
 - Kreviazuk, Alison
 - Kreviazuk, Cheryl
 - Kreviazuk, Lynn
@@ -131,8 +128,8 @@ vs:
 - Lawton, Stefanie
 - LeDrew, Stephanie
 - Lilly, Kendra
-- Lister, Kendra
 - MacCuish, Kristin
+- Mackey, Robyn
 - MacPhee, Robyn
 - Mair, Jessica
 - McCarville, Krista
@@ -147,28 +144,29 @@ vs:
 - Officer, Jill
 - Olson-Johns, Lori
 - Overton-Clapham, Cathy
+- Perron, Melina
 - Peterman, Jocelyn
 - Peters, Laine
+- Porter, Erin
 - Potts, Sarah
-- Price, Kara
 - Rizzo, Jo-Ann
-- Robichaud, Sylvie
 - Sagle, Karen
 - Shackleton, Amie
 - Singler, Sherri
 - Sippala, Ashley
-- Smallwood, Jody
 - Sweeting, Val
+- Thiboutot, Isabelle
 - Tippin, Julie
 - Titheridge, Lindsay
+- Trickett, Erica
 - Van Osch, Kalia
 - Van Osch, Kesa
 - Van Osch, Marika
 - Vink, Rachelle
+- Walsh, Jenna
 - Weagle, Lisa
 - Webster, Crystal
 - West, Christianne
 - Westcott, Raunora
 - Wilson, Leslie
-- Wylie, Jennifer
 ---

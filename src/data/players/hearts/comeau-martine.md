@@ -61,6 +61,7 @@ vs:
  - Burgess, Carey
  - Bush, Tracy
  - Cameron, Nancy
+ - Campbell, Jolene
  - Carmody, Erin
  - Carter, Sasha
  - Cormier, Sharon
@@ -77,7 +78,6 @@ vs:
  - Hardy, Shelley
  - Harvey, Janet
  - Holland, Amber
- - Jewer, Michelle
  - Jones, Colleen
  - Jones, Jennifer
  - Kalenchuk, Heather

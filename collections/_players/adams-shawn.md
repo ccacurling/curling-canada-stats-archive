@@ -173,6 +173,7 @@ vs:
 - Hebert, Ben
 - Henderson, Ron
 - Hollett, Peter
+- Holowaychuk, Dan
 - Hong, Doug
 - Horning, Deane
 - Howard, Glenn

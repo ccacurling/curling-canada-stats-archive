@@ -57,11 +57,12 @@ vs:
  - Allen, Michelle
  - Arnott, Janet
  - Arsenault, Mary-Anne
- - Arseneau, Jane
  - Balderston, Marcy
  - Barker, Catherine
+ - Beddington, Shalegh
  - Bennett, Connie
  - Berthelot, Janique
+ - Bohmer, Brenda
  - Byers, Denise
  - Carney, Laurie
  - Carr, Judy
@@ -83,6 +84,7 @@ vs:
  - Harding, Mary
  - Haspect, Ginette
  - Henry, Lou Ann
+ - Horne, Kate
  - Howse, Lillian
  - James, Elizabeth
  - Jones, Colleen
@@ -92,6 +94,7 @@ vs:
  - Karam, Sally
  - Kelly, Anita
  - Kelly, Kim
+ - King, Cathy
  - Laliberte, Connie
  - Leahy, Anne
  - Lemay, Annie
@@ -107,6 +110,7 @@ vs:
  - Moore, Linda
  - More, Chris
  - Moriarty, Monica
+ - Nedohin, Heather
  - Noye, Marnie
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
@@ -116,7 +120,6 @@ vs:
  - Roland, Mavis
  - Ross, Allison
  - Sabourin, Joelle
- - Sanders, Pat
  - Sharpe, Kelli
  - Smith, Yvonne
  - Sonnenberg, Renee
@@ -125,7 +128,6 @@ vs:
  - Strong, Heather
  - Tanner, Allison
  - Thompson, Gillian
- - Thurston, Jill
  - Todd, Fran
  - Tucker, Cindy
  - Webb, Corine

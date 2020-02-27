@@ -170,6 +170,7 @@ years:
   shots-percent: 80
 vs:
 - Abel, Clinton
+- Adam, Mike
 - Adams, Bill
 - Adams, Jim
 - Adams, Shawn

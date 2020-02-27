@@ -36,46 +36,45 @@ years:
    shots-total: 235
    shots-percent: 78
 vs:
- - Baldwin, Nicole
- - Barbour, Shona
- - Birnie, Hailey
  - Birt, Suzanne
  - Blaney, Jennifer
  - Bodner, Jenine
  - Boudreault, Patricia
+ - Brine, Jenn
+ - Brothers, Jill
  - Brown, Rachel
  - Carey, Chelsea
+ - Carmody, Erin
  - Christianson, Marie
+ - Courtney, Joanne
  - Daigle, Julie
  - Ferguson, Dana
- - Galusha, Kerry
+ - Fleury, Tracy
+ - Fyfe, Liz
  - Gates, Jenny
  - Griffin, Alison
- - Guzzwell, Stephanie
- - Hamilton, Beth
+ - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
- - Ingram, Megan
- - Jewer, Michelle
  - Jones, Jennifer
- - Koltun, Sarah
- - Lang, Lorraine
- - Larouche, Marie-France
+ - Kreviazuk, Cheryl
  - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
+ - MacCuish, Kristin
  - McCarville, Krista
  - McEwen, Dawn
  - McQuaid, Michelle
+ - Miskew, Emma
  - Munroe, Anna
+ - Murphy, Sarah
+ - Njegovan, Selena
  - Peterman, Jocelyn
+ - Pinksen, Sadie
  - Potts, Sarah
- - Sharpe, Kelli
- - Shaw, Ladene
  - Silvernagle, Robyn
- - Strong, Helen
  - Thevenot, Kara
- - Tran, Brittany
+ - Weagle, Lisa
  - Wilkes, Sarah
 ---

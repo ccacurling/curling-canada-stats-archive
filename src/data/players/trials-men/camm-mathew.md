@@ -44,7 +44,6 @@ vs:
  - Gallant, Brett
  - Griffith, Tyrel
  - Gushue, Brad
- - Harnden, E.J.
  - Harnden, Ryan
  - Hebert, Ben
  - Hodgson, Colin
@@ -65,6 +64,7 @@ vs:
  - Nichols, Mark
  - Samagalski, Derek
  - Schneider, Catlin
+ - Steski, Peter
  - Thiessen, Brad
  - Walker, Geoff
  - Wozniak, Matt

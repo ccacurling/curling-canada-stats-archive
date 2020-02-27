@@ -90,7 +90,6 @@ vs:
  - Gagnon, Karo
  - Gatchell, Sara
  - George, Tara
- - Gignac, Donna
  - Gregoire, Veronique
  - Gudereit, Marcia
  - Hodson, Kim

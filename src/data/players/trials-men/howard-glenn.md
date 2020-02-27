@@ -176,6 +176,7 @@ vs:
  - Nichols, Mark
  - Park, Kerry
  - Park, Kevin
+ - Park, Shane
  - Peachey, Jay
  - Perroud, Pat
  - Pfeifer, Scott
@@ -194,7 +195,7 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Smith, Dave
- - Stambaugh, Doug
+ - Smith, Garth
  - Stoughton, Jeff
  - Sveistrup, Jody
  - Tetley, Ian

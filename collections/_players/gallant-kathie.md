@@ -123,7 +123,6 @@ vs:
  - Adams, Diane
  - Adams, Valerie
  - Alexander, Diane
- - Allen, Laurie
  - Anderson, Kelly
  - Armstrong, Iris
  - Bartlett, Sue Anne
@@ -144,6 +143,7 @@ vs:
  - Connor, Judy
  - Crocker, Rene
  - Crocker, Ruby
+ - Currie, Wendy
  - Cutcliffe, Margaret
  - Darbyshire, Carolyn
  - Darbyshire, Merline
@@ -161,6 +161,7 @@ vs:
  - Graham, Julie
  - Greenwood, Jill
  - Hanlon, Heidi
+ - Haspect, Ginette
  - Horne, Sharon
  - Houston, Heather
  - Hunt, Donna
@@ -169,14 +170,16 @@ vs:
  - Jackson, Virginia
  - Jenkins, Sandra
  - Jones, Colleen
+ - Jones-Gordon, Barb
  - Jones-Walker, Debbie
- - Jurgenson, Christine
+ - Kane, Cynthia
  - Keays, Stella
  - Kehler, Lorie
  - Kennedy, Tracy
  - Kerr, Heather
  - King, Shirley
  - Knickle, Margie
+ - Kuruluk, Kristen
  - Lamarre, June
  - Lang, Lorraine
  - LaRocque, Penny

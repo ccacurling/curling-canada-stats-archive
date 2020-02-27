@@ -38,6 +38,7 @@ years:
 vs:
  - Aucoin, Shelley
  - Augustyn, Jan
+ - Blair, Diane
  - Bodogh, Marilyn
  - Bussieres, Helene
  - Carney, Laurie
@@ -46,7 +47,6 @@ vs:
  - Currey, Karen
  - Currie, Ann
  - Currie, Barbara
- - Dickeson, Debbi
  - Donald, Grace
  - Emond, Muriel
  - Enright, Barb

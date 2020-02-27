@@ -70,51 +70,50 @@ years:
    shots-total: 179
    shots-percent: 88
 vs:
- - Adams, Melissa
  - Affleck, Tricia
- - Anderson, Sherry
+ - Arnaud, Chloe
  - Arnott, Janet
  - Arsenault, Mary-Anne
- - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Ayrey, Jinaye
- - Barbour, Shona
  - Baxter, Jen
  - Beauchamp, Sasha
  - Bernard, Krista
  - Berthelot, Janique
  - Birchard, Shannon
  - Birt, Suzanne
+ - Black, Christina
  - Blanchard, Judy
+ - Boyle, Jane
  - Bradley, Shelly
  - Breen, Theresa
+ - Cameron, Kate
  - Campbell, June
  - Carter, Sasha
- - Chislett, Geneva
- - Clark, Stefanie
  - Cormier, Sharon
  - Crawford, Andrea
+ - Crouse, Jennifer
  - Curtis, Stacie
  - Daku, Karen
+ - Delahunt, Nancy
  - deSolla, Jodie
+ - Devereaux, Julie
  - Dezura, Diane
  - Dobson, Sue
  - Dufresne, Audree
- - Duncan, Chelsea
  - Duncan, Hollie
- - Duncan, Jenna
  - Einarson, Kerri
- - Fesser, Kourtney
- - Fesser, Krista
+ - Englot, Michelle
  - Fleury, Tracy
  - Frey, Audrey
  - Fullerton, Sarah
  - Fyfe, Liz
+ - Gagnon, Emilia
  - Galusha, Kerry
  - Gates, Amanda
  - Gibson, Amy
- - Gushulak, Diane
  - Hanlon, Heidi
+ - Harvey, Marie-Pier
  - Hatton, Sandra
  - Holtby, Taryn
  - Homan, Rachel
@@ -128,20 +127,17 @@ vs:
  - Jones-Walker, Debbie
  - Kelly, Kim
  - Koehler, Megan
- - Koltun, Sarah
- - Korchinski, Karlee
  - Kreviazuk, Alison
  - Kreviazuk, Cheryl
  - Laliberte, Connie
  - Law, Kelley
- - Lawes, Kaitlyn
  - Leclerc, Valerie
  - LeDrew, Stephanie
  - Lemay, Annie
- - Lister, Kendra
  - MacCallum, Janice
  - MacCuish, Kristin
  - MacDougall, Leslie
+ - Mackey, Robyn
  - MacPhee, Robyn
  - Mair, Jessica
  - Martin, Heather
@@ -157,12 +153,11 @@ vs:
  - O'Rourke, Brittany
  - Overton-Clapham, Cathy
  - Parsons, Danielle
+ - Perron, Melina
  - Peters, Laine
  - Phillips, Margaret Lea
  - Porter, Erin
- - Price, Kara
  - Renouf, Michele
- - Robichaud, Sylvie
  - Ross, Allison
  - Sabourin, Joelle
  - Sagle, Karen
@@ -172,23 +167,26 @@ vs:
  - Sharpe, Kelli
  - Shumay, Jill
  - Skinner, Julie
- - Smallwood, Jody
  - Smith, Heather
  - Stahl, Carrie
  - Stewart, Sheri
  - Strong, Heather
+ - Thiboutot, Isabelle
+ - Trickett, Erica
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
+ - Walsh, Jenna
  - Walter, Cathy
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa
  - Webster, Crystal
  - West, Christianne
+ - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whitrow, Leanne
+ - Wilson, Leslie
  - Wright, Susan
- - Wylie, Jennifer
  - Zinck, Kay
 ---

@@ -103,7 +103,6 @@ years:
 vs:
 - Affleck, Tricia
 - Armstrong, Jacquie
-- Arnott, Janet
 - Atkinson, Rebecca
 - Babin, Jillian
 - Barbour, Shona
@@ -114,7 +113,6 @@ vs:
 - Blais, Amelie
 - Bradley, Shelly
 - Brassard, Veronique
-- Cameron, Nancy
 - Carmody, Erin
 - Carter, Sasha
 - Comeau, Martine
@@ -125,15 +123,11 @@ vs:
 - Curtis, Stacie
 - Darbyshire, Carolyn
 - deSolla, Jodie
-- Dolan, Kim
-- Dolan, Sinead
-- Einarson, Megan
-- Englot, Michelle
+- Ellis, Danielle
 - Fallis, Karen
 - Filteau, Anne-Marie
-- Fleury, Tracy
+- Fraser, Sherry
 - Galusha, Kerry
-- Gates, Amanda
 - George, Tara
 - Gilman, Sheena
 - Gregoire, Veronique
@@ -145,7 +139,6 @@ vs:
 - Joyce, Blisse
 - Kasner, Marliese
 - Kleibrink, Shannon
-- Koehler, Megan
 - Korab, Stephanie
 - Kreviazuk, Alison
 - Lang, Lorraine
@@ -155,23 +148,21 @@ vs:
 - LeDrew, Stephanie
 - Lemay, Annie
 - Lemon, Colette
-- MacDonald, Rebecca Jean
 - MacDougall, Leslie
 - MacLean, Kari
 - MacPhee, Robyn
 - Mair, Jessica
-- Makichuck, Lindsay
 - Malekoff, Stephanie
 - Martin, Heather
-- Materi, Roberta
 - McCarville, Krista
 - McConnery, Nancy
 - McEwen, Dawn
-- Meakin, Breanne
+- Middaugh, Sherry
+- Miller, Wendy
 - Miskew, Emma
-- More, Whitney
 - Morris, Cori
 - Moses, Dawn
+- Naugler, Tara
 - Nedohin, Heather
 - Nicholls, Brenda
 - Nixon, Amy
@@ -188,28 +179,23 @@ vs:
 - Preston, Sam
 - Rainville, Julie
 - Ramsay, Geri Lynn
-- Robison, Michala
 - Rogers, Rhonda
 - Schraeder, Jeanna
 - Scott, Kelly
 - Singler, Sherri
 - Sippala, Ashley
 - Sivertson, Dailene
-- Slywka, Sarah
 - Smith, Heather
 - Sobey, Lianne
 - Strong, Heather
 - Strong, Laura
-- Sweeting, Val
 - Thomas, Jill
 - Thurston, Jill
 - Udle, Teri
 - Vey, Lana
-- Walsh, Jenna
 - Weagle, Lisa
 - Webster, Bronwen
 - Webster, Crystal
 - Westcott, Raunora
 - Wilson, Leslie
-- Wylie, Jennifer
 ---

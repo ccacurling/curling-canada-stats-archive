@@ -162,6 +162,7 @@ vs:
  - Arsenault, Mary-Anne
  - Ayrey, Jinaye
  - Baier, Stephanie
+ - Baldwin, Nicole
  - Barbour, Shona
  - Baxter, Jen
  - Beauchamp, Sasha
@@ -169,8 +170,10 @@ vs:
  - Belisle, Eve
  - Bell, Chelsey
  - Bernard, Cheryl
+ - Birnie, Hailey
  - Birt, Suzanne
  - Blais, Amelie
+ - Bolland, Michelle
  - Bradley, Shelly
  - Brassard, Veronique
  - Brothers, Jill
@@ -183,8 +186,10 @@ vs:
  - Carmody, Erin
  - Carter, Sasha
  - Cheveldave, Amber
+ - Christianson, Marie
+ - Clark, Stefanie
+ - Clark-Rouire, Jennifer
  - Comeau, Martine
- - Comstock, Melanie
  - Cooper, Kathryn
  - Cormier, Sharon
  - Cottrill, Katie
@@ -213,7 +218,6 @@ vs:
  - Flaxey, Allison
  - Fleury, Tracy
  - Foster, Kristen
- - Fraser, Sherry
  - Fullerton, Sarah
  - Gagnier, Monique
  - Galusha, Kerry
@@ -225,13 +229,18 @@ vs:
  - Gregoire, Veronique
  - Gushulak, Diane
  - Guzzwell, Stephanie
+ - Hamilton, Beth
  - Hardy, Shelley
  - Harvey, Janet
+ - Hersikorn, Patty
  - Holland, Amber
  - Hollands, Saskia
  - Holtby, Taryn
  - Homan, Rachel
+ - Hughes, Meaghan
+ - Hunkin, Jessie
  - Iskiw, Beth
+ - Jewer, Michelle
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
@@ -258,6 +267,7 @@ vs:
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacInnes, Grace
+ - MacIntosh, Kelly
  - MacLean, Kari
  - MacPhee, Robyn
  - Mair, Jessica
@@ -271,7 +281,9 @@ vs:
  - McDonald, Kristy
  - McEwen, Dawn
  - McInnis, Susan
+ - McQuaid, Michelle
  - Meakin, Breanne
+ - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
  - Moore, Kristie
@@ -293,9 +305,9 @@ vs:
  - Overton-Clapham, Cathy
  - Parsons, Danielle
  - Paul, Sarah
+ - Peterman, Jocelyn
  - Peters, Laine
  - Phillips, Kristen
- - Pinkney, Colleen
  - Porter, Erin
  - Rainville, Julie
  - Ramsay, Geri Lynn
@@ -310,12 +322,15 @@ vs:
  - Sabourin, Joelle
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Schmidt, Stephanie
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli
+ - Shaw, Ladene
  - Shumay, Jill
+ - Silvernagle, Robyn
  - Simons, Renee
  - Sinclair, Andrea
  - Singler, Sherri
@@ -326,14 +341,16 @@ vs:
  - Spencer, Barb
  - Streifel, Tracy
  - Strong, Heather
+ - Strong, Helen
  - Strong, Laura
  - Stubbings, Tiffany
  - Sweeting, Val
  - Tanner, Ros
+ - Thevenot, Kara
  - Thomas, Jill
  - Thurston, Jill
  - Titheridge, Lindsay
- - Tuck, Kim
+ - Tran, Brittany
  - Udle, Teri
  - Van Osch, Kesa
  - Vey, Lana

@@ -109,7 +109,6 @@ vs:
  - Arsenault, Mary-Anne
  - Ayrey, Jinaye
  - Baier, Stephanie
- - Barbour, Shona
  - Baxter, Jen
  - Beauchamp, Sasha
  - Birt, Suzanne
@@ -118,13 +117,15 @@ vs:
  - Bradley, Shelly
  - Brothers, Jill
  - Brown, Rachel
- - Cameron, Nancy
  - Camozzi, Rhona
  - Campbell, Jolene
  - Carey, Chelsea
  - Carter, Sasha
+ - Chenier, Courtney
  - Cheveldave, Amber
  - Christianson, Marie
+ - Clark, Stefanie
+ - Clark-Rouire, Jennifer
  - Collins, Katrina
  - Cooper, Kathryn
  - Cormier, Sharon
@@ -135,7 +136,6 @@ vs:
  - Cunningham, Jessica
  - Curtis, Stacie
  - deJager, Blaine
- - Delahunt, Nancy
  - Devereaux, Julie
  - Dolan, Kim
  - Dolan, Sinead
@@ -149,16 +149,17 @@ vs:
  - Flaxey, Allison
  - Fleury, Tracy
  - Foster, Kristen
- - Fraser, Sherry
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
  - Gannon, Melissa
  - Gates, Amanda
+ - Gushulak, Diane
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
  - Hastings, Julie
+ - Hersikorn, Patty
  - Holland, Amber
  - Holtby, Taryn
  - Homan, Rachel
@@ -182,7 +183,7 @@ vs:
  - Lavery, Tracey
  - Lawes, Kaitlyn
  - Lawton, Stefanie
- - LeDrew, Stephanie
+ - Lemay, Annie
  - Lilly, Kendra
  - MacCuish, Kristin
  - MacDonald, Rebecca Jean
@@ -197,7 +198,6 @@ vs:
  - McEwen, Dawn
  - McInnis, Susan
  - McQuaid, Michelle
- - Meakin, Breanne
  - Miller, Wendy
  - Miskew, Emma
  - Moore, Kristie
@@ -245,7 +245,6 @@ vs:
  - Thompson, Karla
  - Titheridge, Lindsay
  - Trombley, Christy
- - Tuck, Kim
  - Udle, Teri
  - Vandale, Trysta
  - Van Osch, Kesa
@@ -256,6 +255,7 @@ vs:
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa
+ - Wilkes, Sarah
  - Williamson, Ashley
  - Wylie, Jennifer
 ---

@@ -103,9 +103,9 @@ vs:
  - Bernard, Krista
  - Betker, Jan
  - Birt, Suzanne
+ - Blackburn, Julie
  - Blashko, Denise
  - Bohmer, Brenda
- - Bolland, Michelle
  - Bradley, Shelly
  - Brothers, Jill
  - Brown, Janet
@@ -144,7 +144,6 @@ vs:
  - Hardy, Shelley
  - Harrison, Meredith
  - Harvey, Janet
- - Herbert, Candide
  - Hodson, Kim
  - Hollands, Saskia
  - Horne, Kate

@@ -43,7 +43,6 @@ vs:
  - Engel, Ron
  - Fenton, Keith
  - Ferbey, Randy
- - Germsheid, Tony
  - Grattan, James
  - Gretzinger, Bert
  - Howard, Glenn
@@ -59,6 +58,7 @@ vs:
  - Nedohin, David
  - Odishaw, Grant
  - Park, Kevin
+ - Park, Shane
  - Pfeifer, Scott
  - Pierce, Brent
  - Rocque, Marcel

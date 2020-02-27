@@ -107,7 +107,6 @@ vs:
  - Adams, Diane
  - Alexander, Diane
  - Allardyce, Kathie
- - Allen, Laurie
  - Anderson, Sherry
  - Arnott, Janet
  - Arseneau, Jane
@@ -115,7 +114,6 @@ vs:
  - Aucoin, Shelley
  - Augustyn, Jan
  - Baker, Rose-Marie
- - Balderston, Marcy
  - Barbour, Shona
  - Bartlett, Sue Anne
  - Beever, Jocelyn
@@ -185,6 +183,7 @@ vs:
  - Green, Sue
  - Greening, Jackie-Rae
  - Gudereit, Marcia
+ - Gummer, Janet
  - Gushulak, Diane
  - Hanlon, Heidi
  - Harvey, Janet
@@ -264,6 +263,7 @@ vs:
  - Ridley, Terry
  - Robertson, Darcy
  - Robinson, Charlene
+ - Ryan, Jennifer
  - Sabourin, Joelle
  - Sanders, Pat
  - Santos, Deb

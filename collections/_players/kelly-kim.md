@@ -365,6 +365,7 @@ years:
 vs:
 - Adams, Diane
 - Affleck, Tricia
+- Aleksic, Shannon
 - Alexander, Diane
 - Allardyce, Kathie
 - Allen, Laurie
@@ -443,11 +444,11 @@ vs:
 - Dalio, Diane
 - Daniel, Sylvie
 - Darbyshire, Carolyn
+- Davis, Brandee
 - deJager, Blaine
 - Derick, Catherine
 - deSolla, Jodie
 - Dezura, Diane
-- Dillon, Cathy
 - Dobson, Sue
 - Dolan, Kim
 - Dorosz, Peggy
@@ -541,10 +542,8 @@ vs:
 - Kleibrink, Shannon
 - Koehler, Megan
 - Kreviazuk, Alison
-- Lacey, Stacey
 - Laliberte, Connie
 - Lang, Lorraine
-- Lange, Ann
 - Larouche, Marie-France
 - Law, Kelley
 - Lawes, Andrea
@@ -615,10 +614,8 @@ vs:
 - Muise, Morgan
 - Mulroney, Sandra
 - Muzika, Shelley
-- Naugler, Tara
 - Nedohin, Heather
 - Nicholls, Brenda
-- Nichols, Helen
 - Nicholson, Danielle
 - Nixon, Amy
 - Nohr, Dianne
@@ -638,7 +635,7 @@ vs:
 - Phillips, Laura
 - Phillips, Margaret Lea
 - Pinkney, Colleen
-- Poisson, Francine
+- Porter, Debbie
 - Porter, Erin
 - Power, Marie-Anne
 - Proctor, Jill
@@ -691,6 +688,7 @@ vs:
 - Stewart, Sheri
 - Stokes, Debbie
 - Strachan, Angela
+- Street, Cindy
 - Streifel, Tracy
 - Stricker, Joan
 - Strong, Heather
@@ -698,6 +696,7 @@ vs:
 - Stubbings, Tiffany
 - Surik, Teejay
 - Sutton, Jodie
+- Tanner, Allison
 - Tanner, Ros
 - Tasaka, Adina
 - Taylor, Candy

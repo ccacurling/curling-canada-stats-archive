@@ -46,6 +46,7 @@ vs:
  - Breen, Theresa
  - Campbell, June
  - Daku, Karen
+ - Delahunt, Nancy
  - Dezura, Diane
  - Dobson, Sue
  - Frey, Audrey

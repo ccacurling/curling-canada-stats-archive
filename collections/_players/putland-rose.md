@@ -49,7 +49,6 @@ vs:
  - Cunningham, Cathy
  - Ellwood, Laurie
  - Floyd, Kathy
- - Ford, Anita
  - Goring, Alison
  - Graham-MacDonald, Bea
  - Greening, Jackie-Rae
@@ -64,6 +63,7 @@ vs:
  - Lawes, Andrea
  - Mattatall, Mary
  - McCurdy, Susan
+ - McCusker, Joan
  - McHugh, Cindy
  - McPherson, Cheryl
  - O'Rourke, Kathy

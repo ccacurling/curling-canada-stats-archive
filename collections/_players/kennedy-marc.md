@@ -404,7 +404,6 @@ vs:
 - Ryan, Pat
 - Rycroft, Carter
 - Saccary, Scott
-- Sallows, Tom
 - Samagalski, Derek
 - Savill, Craig
 - Sawatsky, Rick

@@ -218,14 +218,15 @@ vs:
 - Adams, Melissa
 - Affleck, Tricia
 - Allen, Susan
+- Allerton, Dana
 - Armstrong, Leigh
+- Arnaud, Chloe
 - Arnott, Janet
 - Arsenault, Mary-Anne
 - Arsenault-Bishop, Nicole
 - Arseneau, Jane
 - Atkinson, Rebecca
 - Aucoin, Shelley
-- Baier, Stephanie
 - Baker, Rose-Marie
 - Bakker, Glenys
 - Barbour, Shona
@@ -254,6 +255,7 @@ vs:
 - Breen, Theresa
 - Brothers, Jill
 - Brown, Janet
+- Brown, Maureen
 - Brown, Rachel
 - Bryant, Angie
 - Burlington, Cheryl
@@ -263,7 +265,6 @@ vs:
 - Carter, Sasha
 - Charette, Agnes
 - Charette, France
-- Chislett, Geneva
 - Collins, Katrina
 - Cooke, Gerri
 - Cooper, Kathryn
@@ -275,6 +276,7 @@ vs:
 - Courtney, Joanne
 - Crawford, Andrea
 - Crispo, Guylaine
+- Crouse, Jennifer
 - Cunningham, Cathy
 - Cunningham, Jessica
 - Dalio, Diane
@@ -284,10 +286,10 @@ vs:
 - Derick, Catherine
 - deSolla, Jodie
 - Dezura, Diane
+- Dobson, Sue
 - Dolan, Kim
 - Dolan, Sinead
 - Duncan, Chelsea
-- Duncan, Hollie
 - Duncan, Jenna
 - Einarson, Kerri
 - Englot, Michelle
@@ -308,20 +310,16 @@ vs:
 - Fraser, Sherry
 - Freeman, Lisa
 - Frey, Audrey
-- Fullerton, Sarah
-- Funk, LaDawn
 - Fyfe, Liz
 - Gagnier, Monique
+- Gagnon, Emilia
 - Gagnon, Karo
 - Gagnon, Nathalie
 - Galusha, Kerry
-- Gannon, Melissa
 - Gatchell, Sara
 - Gates, Amanda
 - Gauthier, Cathy
 - Gervais, Donna
-- Gibson, Amy
-- Gogan, Jennifer
 - Goring, Alison
 - Goss, Peg
 - Graham-MacDonald, Bea
@@ -332,14 +330,13 @@ vs:
 - Hanlon, Heidi
 - Harris, Susan
 - Harrison, Meredith
+- Harvey, Marie-Pier
 - Hastings, Julie
 - Henry, Lou Ann
 - Holland, Amber
 - Homan, Rachel
 - Horne, Kate
-- Hughes, Meaghan
 - Hunter, Lana
-- Hutchings, Denise
 - Iskiw, Beth
 - Jackson, Virginia
 - Jennings, Tracey
@@ -362,7 +359,6 @@ vs:
 - Koltun, Sarah
 - Korab, Stephanie
 - Kreviazuk, Alison
-- Kreviazuk, Cheryl
 - Kreviazuk, Lynn
 - Kyle, Linda
 - Laliberte, Connie
@@ -373,7 +369,6 @@ vs:
 - Lawrence, Margaret
 - Lawton, Stefanie
 - Leblanc, Lisa
-- LeDrew, Stephanie
 - Lemay, Annie
 - Lewis, Kristy
 - Linton, Sherry
@@ -384,7 +379,6 @@ vs:
 - MacDonald, Lawnie
 - MacDonald, Rebecca Jean
 - MacKenzie, Doris
-- MacPhee, Robyn
 - Mair, Jessica
 - Mallett, Marla
 - Mann, Lauren
@@ -409,14 +403,12 @@ vs:
 - Miskew, Emma
 - Mittelstadt, Candice
 - Montgomery, Kay
-- Moore, Kristie
 - Moses, Dawn
 - Moss, Debbie
 - Muzika, Shelley
 - Nedohin, Heather
 - Nixon, Amy
 - Njegovan, Selena
-- Nugent, Pamela
 - O'Rourke, Brittany
 - O'Rourke, Kathy
 - Officer, Jill
@@ -426,32 +418,26 @@ vs:
 - Palinkas, Gloria
 - Parsons, Danielle
 - Pasika, Rona
+- Perron, Melina
 - Peters, Laine
 - Phillips, Laura
 - Pilote, Kristen
 - Power, Marie-Anne
 - Price, Kara
 - Purdy, Karen
-- Reed, Shellan
 - Richard, Marie
 - Rizzo, Jo-Ann
 - Robichaud, Sylvie
 - Robinson, Charlene
 - Robinson, Lori
 - Robison, Michala
-- Ross, Allison
 - Rusnell, Jen
-- Sagle, Karen
 - Sanderson, Jessie
 - Sandwith, Carley
 - Scales, Julie
-- Scheidegger, Casey
-- Scheidegger, Jessie
-- Schmidt, Stephanie
 - Schmirler, Sandra
 - Schraeder, Jeanna
 - Scott, Kelly
-- Shackleton, Amie
 - Shields, Deanne
 - Simons, Renee
 - Sinclair, Andrea
@@ -470,23 +456,20 @@ vs:
 - Strong, Laura
 - Sweeting, Val
 - Taylor, Candy
-- Thomas-Kennell, Noelle
 - Titheridge, Lindsay
 - Trider, Krista
 - Trombley, Christy
 - Tuck, Kimberly
 - Udle, Teri
-- Van Osch, Kalia
 - Van Osch, Kesa
-- Van Osch, Marika
 - Wall, Kirsten
 - Wallingham, Patty
 - Walsh, Jenna
 - Weagle, Lisa
 - Webster, Bronwen
 - Webster, Crystal
-- West, Christianne
 - Wheatcroft, Georgina
+- Wilkes, Sarah
 - Wylie, Jennifer
 - Zinck, Kay
 ---

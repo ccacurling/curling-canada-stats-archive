@@ -111,6 +111,7 @@ years:
 vs:
 - Affleck, Tricia
 - Allen, Susan
+- Allerton, Dana
 - Arsenault, Mary-Anne
 - Arseneau, Jane
 - Bakker, Glenys
@@ -137,6 +138,7 @@ vs:
 - Darbyshire, Carolyn
 - Delahunt, Nancy
 - Dezura, Diane
+- Dobson, Sue
 - Englot, Michelle
 - Fallis, Karen
 - Fallis-Kurz, Lynn
@@ -152,7 +154,6 @@ vs:
 - Gagnon, Karo
 - Gagnon, Nathalie
 - Gatchell, Sara
-- Gogan, Jennifer
 - Goss, Peg
 - Graham-MacDonald, Bea
 - Gregoire, Veronique
@@ -203,7 +204,6 @@ vs:
 - Peters, Laine
 - Power, Marie-Anne
 - Purdy, Karen
-- Reed, Shellan
 - Rizzo, Jo-Ann
 - Robinson, Lori
 - Scales, Julie

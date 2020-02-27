@@ -163,7 +163,6 @@ vs:
  - Ferland, Marie
  - Flannigan, Lorraine
  - Floyd, Kathy
- - Ford, Anita
  - Frey, Audrey
  - Gauthier, Cathy
  - Gervais, Chris

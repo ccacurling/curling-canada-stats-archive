@@ -38,25 +38,24 @@ years:
 vs:
  - Atkinson, Rebecca
  - Birt, Suzanne
- - Blais, Amelie
  - Boyle, Jane
+ - Brine, Jenn
  - Brothers, Jill
  - Campbell, Jolene
  - Carey, Chelsea
  - Christianson, Marie
  - Curtis, Stacie
  - Devereaux, Julie
- - Dolan, Sinead
  - Einarson, Kerri
  - Fyfe, Liz
  - Hamon, Callan
  - Howard, Ashley
  - Hughes, Meaghan
  - Jones, Jennifer
- - Joyce, Blisse
  - Larouche, Marie-France
  - Lavery, Tracey
  - Lawes, Kaitlyn
+ - Lemay, Annie
  - Lilly, Kendra
  - MacCuish, Kristin
  - MacPhee, Robyn

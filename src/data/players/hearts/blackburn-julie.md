@@ -107,6 +107,7 @@ vs:
  - Fowler, Lois
  - Fowler, Sharon
  - Frey, Audrey
+ - Gagnier, Monique
  - Garvey, Sue
  - Gignac, Donna
  - Gogan, Jennifer
@@ -156,6 +157,7 @@ vs:
  - Nedohin, Heather
  - O'Rourke, Kathy
  - Pinkney, Colleen
+ - Power, Marie-Anne
  - Renouf, Michele
  - Robertson, Darcy
  - Robinson, Lori

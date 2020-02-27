@@ -78,6 +78,7 @@ vs:
  - Bradley, Shelly
  - Brown, Janet
  - Cordina, Sheri
+ - Delahunt, Nancy
  - Dezura, Diane
  - Englot, Michelle
  - Farrell, Allison
@@ -101,7 +102,6 @@ vs:
  - McNamee, Karen
  - Middaugh, Sherry
  - O'Leary, Susan
- - Peters, Laine
  - Power, Marie-Anne
  - Radchenka, Tammy
  - Sandison, Janice

@@ -36,4 +36,8 @@ years:
    shots-total: 20
    shots-percent: 84
 vs:
+ - Cunningham, Cathy
+ - Kerr, Kathy
+ - Martin, Heather
+ - Phillips, Laura
 ---

@@ -176,6 +176,7 @@ years:
    shots-total: 212
    shots-percent: 75
 vs:
+ - Aleksic, Shannon
  - Allen, Michelle
  - Anderson, Sherry
  - Armstrong, Jacquie
@@ -189,7 +190,6 @@ vs:
  - Baker, Michelle
  - Baker, Rose-Marie
  - Balderston, Marcy
- - Barbour, Shona
  - Barrack, Carmen
  - Baxter, Jen
  - Beauchamp, Sasha
@@ -207,11 +207,11 @@ vs:
  - Breen, Theresa
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Marcie
  - Brown, Rachel
  - Bryant, Angie
  - Bush, Tracy
  - Camozzi, Rhona
+ - Campbell, Jolene
  - Campbell, June
  - Carter, Sasha
  - Charette, Agnes
@@ -225,6 +225,7 @@ vs:
  - Cormier, Sharon
  - Courtney, Joanne
  - Crawford, Andrea
+ - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jessica
  - Curtis, Stacie
@@ -239,7 +240,6 @@ vs:
  - Dobson, Sue
  - Dufresne, Audree
  - Dykstra, Michelle
- - Einarson, Megan
  - Englot, Michelle
  - Fallis, Karen
  - Farrell, Allison
@@ -254,17 +254,19 @@ vs:
  - Galusha, Kerry
  - Gates, Amanda
  - Gauthier, Cathy
+ - George, Tara
  - Gervais, Donna
  - Gignac, Donna
+ - Gilman, Sheena
  - Gregoire, Veronique
  - Grenier, Valerie
  - Gudereit, Marcia
+ - Gushulak, Diane
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Hanlon, Heidi
  - Hanna, Jenn
  - Hanna, Stephanie
- - Harding, Mary
  - Harvey, Alison
  - Hastings, Julie
  - Hatton, Sandra
@@ -291,6 +293,7 @@ vs:
  - Korab, Stephanie
  - Kreviazuk, Alison
  - Laliberte, Connie
+ - Lang, Lorraine
  - Larouche, Marie-France
  - Law, Kelley
  - Lawes, Andrea
@@ -303,15 +306,17 @@ vs:
  - Lemay, Annie
  - Letendre, Pascale
  - MacDonald, Shelley
+ - MacIntosh, Kelly
  - MacKenzie, Doris
  - Mair, Jessica
- - Makichuck, Lindsay
  - Mann, Lauren
  - Martin, Heather
  - Materi, Roberta
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
+ - McCarville, Krista
  - McCloy, Elaine
+ - McConnery, Nancy
  - McCusker, Joan
  - McDonald, Tina
  - McEwen, Dawn
@@ -326,7 +331,6 @@ vs:
  - Mittelstadt, Candice
  - Montgomery, Kay
  - Moore, Kristie
- - More, Whitney
  - Moriarty, Monica
  - Moses, Dawn
  - Nedohin, Heather
@@ -347,6 +351,7 @@ vs:
  - Phillips, Margaret Lea
  - Pilote, Kristen
  - Porter, Erin
+ - Power, Marie-Anne
  - Prosser, Sandi
  - Purdy, Karen
  - Radchenka, Tammy
@@ -381,15 +386,16 @@ vs:
  - Stricker, Joan
  - Strong, Heather
  - Strong, Laura
+ - Stubbings, Tiffany
  - Sweeting, Val
  - Tasaka, Adina
  - Taylor, Candy
+ - Thomas, Jill
  - Trombley, Christy
  - Udle, Teri
  - Walsh, Jenna
  - Walter, Cathy
  - Wasylkiw, Lauren
- - Wazney, Sarah
  - Weagle, Lisa
  - Webster, Bronwen
  - Westcott, Raunora

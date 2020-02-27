@@ -61,7 +61,6 @@ vs:
 - Clark, Stefanie
 - Clarke, Hayley
 - Comeau, Sandy
-- Cunningham, Cathy
 - Daniel, Sylvie
 - Darbyshire, Carolyn
 - Derick, Catherine

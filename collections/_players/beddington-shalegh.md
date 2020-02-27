@@ -69,4 +69,20 @@ years:
    shots-total: 78
    shots-percent: 73
 vs:
+ - Aleksic, Shannon
+ - Arseneau, Jane
+ - Balderston, Marcy
+ - Davis, Brandee
+ - Farrell, Allison
+ - Floyd, Kathy
+ - McDonald, Tina
+ - McNamee, Karen
+ - Miller, Maureen
+ - Moss, Debbie
+ - Ondrack, Wendy
+ - Power, Marie-Anne
+ - Sonnenberg, Renee
+ - Street, Cindy
+ - Tanner, Allison
+ - Tincher, Twyla
 ---

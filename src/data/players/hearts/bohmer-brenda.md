@@ -138,7 +138,6 @@ vs:
  - Campbell, June
  - Carlos, Marie-Claude
  - Charette, France
- - Clinch, Donna
  - Cordina, Sheri
  - Cormier, Sharon
  - Couling, Betty
@@ -183,7 +182,6 @@ vs:
  - Hooper Perroud, Jane
  - Hopkins, Heather
  - Iskiw, Beth
- - Jamieson, Shirley
  - Jones, Colleen
  - Jones, Jennifer
  - Jones-Walker, Debbie
@@ -209,7 +207,6 @@ vs:
  - MacLeod, Lisa
  - MacNutt, Shelley
  - MacPhee, Robyn
- - Maher, Pat
  - Mallett, Marla
  - Marchand, Karine
  - Marchuk, Lindy
@@ -217,13 +214,13 @@ vs:
  - Mattatall, Mary
  - McConnery, Nancy
  - McCusker, Joan
- - McDermott, Karen
  - McDonald, Tina
  - McInnis, Susan
  - McKnight, Patti
  - McNamee, Karen
  - Merklinger, Anne
  - Middaugh, Sherry
+ - Miller, Maureen
  - Mittelstadt, Candice
  - Moore, Kim
  - Moses, Dawn
@@ -234,7 +231,7 @@ vs:
  - Ondrack, Wendy
  - O'Rourke, Kathy
  - Osborne, Chantal
- - Penkala, Sandra
+ - Overton-Clapham, Cathy
  - Phillips, Laura
  - Pinkney, Colleen
  - Power, Marie-Anne
@@ -256,14 +253,12 @@ vs:
  - Strong, Heather
  - Tanner, Allison
  - Thomas, Karen
- - Thurston, Jill
  - Tincher, Twyla
  - Todd, Fran
  - Trider, Krista
  - Trowell, Cathy
  - Tucker, Cindy
  - Unrau, Faye
- - Wall, Kirsten
  - Wiltzen, Jan
  - Wright, Susan
 ---

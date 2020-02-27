@@ -137,6 +137,7 @@ years:
 vs:
 - Affleck, Tricia
 - Allen, Susan
+- Allerton, Dana
 - Arnott, Janet
 - Arsenault, Mary-Anne
 - Arseneau, Jane
@@ -144,7 +145,6 @@ vs:
 - Baker, Rose-Marie
 - Bakker, Glenys
 - Belanger, Nancy
-- Bell, Chelsey
 - Bell, Patty
 - Belley, Joelle
 - Bernard, Krista
@@ -162,6 +162,7 @@ vs:
 - Bradley, Shelly
 - Breen, Theresa
 - Brown, Janet
+- Brown, Maureen
 - Bryant, Angie
 - Burlington, Cheryl
 - Cameron, Nancy
@@ -180,6 +181,7 @@ vs:
 - Delahunt, Nancy
 - Derick, Catherine
 - Dezura, Diane
+- Dobson, Sue
 - Dolan, Kim
 - Englot, Michelle
 - Fallis, Karen
@@ -194,14 +196,12 @@ vs:
 - Fraser, Sherry
 - Freeman, Lisa
 - Frey, Audrey
-- Funk, LaDawn
 - Gagnier, Monique
 - Gagnon, Karo
 - Gagnon, Nathalie
 - Gatchell, Sara
 - Gauthier, Cathy
 - Gervais, Donna
-- Gogan, Jennifer
 - Goring, Alison
 - Goss, Peg
 - Graham-MacDonald, Bea
@@ -224,7 +224,6 @@ vs:
 - Jones, Colleen
 - Jones, Jennifer
 - Jurgenson, Christine
-- Kasner, Marliese
 - Kaylo, Kelly
 - Kehler, Lorie
 - Kelly, Kim
@@ -238,7 +237,6 @@ vs:
 - Law, Kelley
 - Lawes, Andrea
 - Lawrence, Margaret
-- Lawton, Stefanie
 - Leblanc, Lisa
 - Lemay, Annie
 - Lewis, Kristy
@@ -277,7 +275,6 @@ vs:
 - Phillips, Laura
 - Power, Marie-Anne
 - Purdy, Karen
-- Reed, Shellan
 - Rizzo, Jo-Ann
 - Robinson, Charlene
 - Robinson, Lori
@@ -287,7 +284,6 @@ vs:
 - Scott, Kelly
 - Shields, Deanne
 - Simons, Renee
-- Singler, Sherri
 - Skinner, Julie
 - Smith, Heather
 - Stabel, Stacey

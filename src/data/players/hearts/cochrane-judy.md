@@ -63,9 +63,13 @@ vs:
  - Martin, Sue
  - Massullo, Deb
  - McDermott, Karen
+ - McGowan, Frances
+ - Moyaert, June
  - Nelthorpe, Sally
+ - Nicholson, Terry
  - Pinkney, Colleen
  - Poisson, Francine
+ - Ramsay, Jennifer
  - Sanders, Pat
  - Scott, Donna
  - Stevenson, Chris

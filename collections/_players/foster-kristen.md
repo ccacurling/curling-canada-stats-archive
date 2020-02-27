@@ -71,7 +71,6 @@ vs:
 - Armstrong, Leigh
 - Atkinson, Rebecca
 - Baier, Stephanie
-- Boyle, Jane
 - Brothers, Jill
 - Brown, Rachel
 - Cooper, Kathryn
@@ -80,6 +79,7 @@ vs:
 - Courtney, Joanne
 - Crawford, Andrea
 - Cunningham, Jessica
+- Davies, Lisa
 - deSolla, Jodie
 - Dolan, Kim
 - Dolan, Sinead
@@ -107,7 +107,6 @@ vs:
 - Miskew, Emma
 - Nedohin, Heather
 - Nugent, Pamela
-- O'Rourke, Brittany
 - Officer, Jill
 - Parsons, Danielle
 - Pasika, Rona

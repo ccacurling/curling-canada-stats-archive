@@ -36,14 +36,14 @@ years:
    shots-total: 204
    shots-percent: 80
 vs:
+ - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Birt, Suzanne
  - Blais, Amelie
  - Boyle, Jane
- - Brothers, Jill
+ - Brine, Jenn
  - Carey, Chelsea
  - Christianson, Marie
- - Clark-Rouire, Jennifer
  - Curtis, Stacie
  - Devereaux, Julie
  - Einarson, Kerri
@@ -72,6 +72,7 @@ vs:
  - Peters, Laine
  - Porter, Erin
  - Potts, Sarah
+ - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Robichaud, Sylvie

@@ -755,6 +755,7 @@ vs:
 - Palmer, Curt
 - Park, Kerry
 - Park, Kevin
+- Park, Shane
 - Patterson, Scott
 - Peachey, Jay
 - Peddigrew, Ken
@@ -837,7 +838,6 @@ vs:
 - Solberg, Jonathon
 - Somers, Grant
 - Sparkes, Bernie
-- Stambaugh, Doug
 - Stokes, Lionel
 - Stoughton, Jeff
 - Strain, Bill

@@ -21,12 +21,4 @@ years:
    team: "CA"
    position: Alternate
 vs:
- - Anderson, Kelly
- - Blanchard, Judy
- - Floyd, Kathy
- - Hanlon, Heidi
- - Jones, Colleen
- - Mattatall, Mary
- - Moriarty, Monica
- - Stewart, Sheri
 ---

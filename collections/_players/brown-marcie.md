@@ -65,25 +65,22 @@ years:
    shots-total: 16
    shots-percent: 77
 vs:
- - Affleck, Tricia
  - Allen, Laurie
  - Arnott, Janet
- - Balderston, Marcy
  - Barrette, Peggy
  - Bernard, Cheryl
  - Blanchard, Judy
- - Bradley, Shelly
+ - Bush, Tracy
  - Charette, Agnes
  - Charette, France
  - Clark, Kim
- - Dagg-Jackson, Elaine
+ - Daniel, Sylvie
  - Dolan, Kim
  - Earl, Allison
  - Englot, Michelle
  - Fahlman, Kathy
  - Floyd, Kathy
  - Gauthier, Cathy
- - Girard, Sylvie
  - Green, Sue
  - Hanlon, Heidi
  - Johnstone, Loralee
@@ -92,29 +89,27 @@ vs:
  - Kellerman, Bev
  - Kelly, Kim
  - Kennedy, Tracy
+ - King, Cathy
  - Laliberte, Connie
  - Law, Kelley
  - Leblanc, Lisa
  - MacAulay, Marion
- - MacCallum, Janice
- - MacDougall, Leslie
- - Materi, Roberta
  - Mattatall, Mary
  - McArdle, Cindy
- - McDonald, Tina
  - McInnis, Susan
- - McNamee, Karen
  - Moses, Dawn
+ - Olson-Johns, Lori
  - Osborne, Chantal
+ - Rocque, Raylene
  - Sauer, Cathy
  - Scales, Julie
  - Sherrington, Barb
  - Skinner, Julie
  - Soligo, Melissa
- - Sonnenberg, Renee
  - Stewart, Sheri
  - Stokes, Debbie
  - Stricker, Joan
+ - Sutton, Jodie
  - Walker, Lisa
  - Willms, Karri
  - Wilson, Patty

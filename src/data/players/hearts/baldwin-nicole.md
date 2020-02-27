@@ -86,44 +86,44 @@ years:
    shots-total: 123
    shots-percent: 65
 vs:
+ - Armstrong, Jennifer
+ - Babin, Jillian
  - Barbour, Shona
+ - Bernard, Cheryl
  - Birt, Suzanne
- - Blaney, Jennifer
- - Bodner, Jenine
- - Boudreault, Patricia
- - Brown, Rachel
- - Carey, Chelsea
+ - Carter, Sasha
  - Christianson, Marie
- - Daigle, Julie
- - Ferguson, Dana
+ - Clark, Stefanie
+ - Crawford, Andrea
+ - Daniel, Sylvie
+ - Darbyshire, Carolyn
+ - Derick, Catherine
+ - Forward, Katie
  - Galusha, Kerry
- - Gates, Jenny
- - Griffin, Alison
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Hughes, Meaghan
  - Hunkin, Jessie
- - Ingram, Megan
- - Jewer, Michelle
  - Jones, Jennifer
- - Kasner, Marliese
  - Koltun, Sarah
- - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
- - Lilly, Kendra
- - McCarville, Krista
+ - MacPhee, Robyn
  - McEwen, Dawn
  - McQuaid, Michelle
- - Munroe, Anna
+ - Morgan, Cheryl
+ - Morris, Cori
+ - O'Connor, Susan
+ - Officer, Jill
+ - Osborne, Chantal
  - Peterman, Jocelyn
- - Pilote, Kristen
- - Potts, Sarah
- - Rusnell, Jen
- - Sandwith, Carley
+ - Schraeder, Jeanna
+ - Scott, Kelly
  - Sharpe, Kelli
  - Silvernagle, Robyn
+ - Simons, Renee
+ - Thevenot, Kara
  - Tran, Brittany
- - Wark, Sarah
- - Wilkes, Sarah
+ - Vautour, Carrie
+ - Whitaker, Carol
 ---

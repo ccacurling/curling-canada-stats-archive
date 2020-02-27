@@ -87,6 +87,7 @@ years:
    shots-percent: 80
 vs:
  - Affleck, Tricia
+ - Anderson, Sherry
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Barrack, Carmen
@@ -96,16 +97,21 @@ vs:
  - Breen, Theresa
  - Campbell, June
  - Daku, Karen
+ - Delahunt, Nancy
  - Dezura, Diane
- - Fisher, Alana
- - Freeman, Lisa
  - Frey, Audrey
+ - Gagnon, Karo
+ - Gignac, Donna
+ - Gregoire, Veronique
+ - Gushulak, Diane
  - Hatton, Sandra
+ - Hodson, Kim
  - Horte, Rhonda
  - Jones, Colleen
  - Jones-Walker, Debbie
  - Kelly, Kim
  - Laliberte, Connie
+ - Larouche, Marie-France
  - Law, Kelley
  - Leclerc, Valerie
  - Lemay, Annie
@@ -115,17 +121,17 @@ vs:
  - McKnight, Patti
  - Merklinger, Anne
  - Moore, Kristie
- - Moss, Debbie
+ - Mulroney, Sandra
  - Nedohin, Heather
  - Overton-Clapham, Cathy
  - Peters, Laine
  - Phillips, Margaret Lea
+ - Reed, Shellan
  - Renouf, Michele
  - Sabourin, Joelle
  - Sharpe, Kelli
  - Skinner, Julie
  - Smith, Heather
- - Stabel, Stacey
  - Stahl, Carrie
  - Strong, Heather
  - Walter, Cathy

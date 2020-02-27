@@ -77,14 +77,13 @@ vs:
  - MacDonald, Lawnie
  - Mair, Jessica
  - McCarville, Krista
- - McDonald, Kristy
  - McTaggart, Cary-Anne
+ - Meakin, Breanne
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma
  - Moore, Kristie
  - Nedohin, Heather
- - O'Connor, Susan
  - Olson-Johns, Lori
  - Overton-Clapham, Cathy
  - Pasika, Rona

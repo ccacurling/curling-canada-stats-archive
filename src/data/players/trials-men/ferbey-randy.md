@@ -82,6 +82,7 @@ vs:
  - Engel, Ron
  - Epping, John
  - Fenton, Brad
+ - Fenton, Darin
  - Fenton, Keith
  - Flemming, Paul
  - Forrest, Tyler
@@ -115,7 +116,6 @@ vs:
  - Meakin, Rob
  - Mellof, David
  - Middaugh, Wayne
- - Miki, Bryan
  - Mittelstadt, Kelly
  - Moffatt, Paul
  - Morris, John

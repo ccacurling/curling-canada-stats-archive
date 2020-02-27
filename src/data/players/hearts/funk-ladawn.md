@@ -36,12 +36,12 @@ years:
    shots-total: 42
    shots-percent: 65
 vs:
- - Anderson, Sherry
- - Cunningham, Cathy
- - Gignac, Donna
- - Kerr, Kathy
- - Martin, Heather
- - McCloy, Elaine
- - Montgomery, Kay
- - Phillips, Laura
+ - Boily, Caroline
+ - Crispo, Guylaine
+ - Derick, Catherine
+ - Fraser, Sherry
+ - Jurgenson, Christine
+ - Kyle, Linda
+ - Law, Kelley
+ - Mallett, Marla
 ---

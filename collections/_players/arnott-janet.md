@@ -235,9 +235,11 @@ vs:
 - Arsenault, Mary-Anne
 - Arseneau, Jane
 - Aucoin, Shelley
+- Babin, Jillian
 - Baker, Rose-Marie
 - Bakker, Glenys
 - Balderston, Marcy
+- Barbour, Shona
 - Barker, Catherine
 - Barrack, Carmen
 - Barrette, Peggy
@@ -291,7 +293,6 @@ vs:
 - Currie, Ann
 - Currie, Barbara
 - Currie, Wendy
-- Curtis, Stacie
 - Daku, Karen
 - Dalio, Diane
 - Daniel, Sylvie
@@ -301,9 +302,7 @@ vs:
 - Derick, Catherine
 - Deschatelets, Guylaine
 - deSolla, Jodie
-- Devereaux, Julie
 - Dezura, Diane
-- Dillon, Cathy
 - Dobson, Sue
 - Dolan, Kim
 - Dorosz, Peggy
@@ -328,14 +327,12 @@ vs:
 - Gervais, Chris
 - Gervais, Donna
 - Gignac, Donna
-- Girard, Sylvie
 - Godberson, Heather
 - Goring, Alison
 - Green, Sue
 - Greenwood, Jill
 - Gudereit, Marcia
 - Gushulak, Diane
-- Guzzwell, Stephanie
 - Hanlon, Heidi
 - Hardy, Shelley
 - Harris, Susan
@@ -343,7 +340,6 @@ vs:
 - Haspect, Ginette
 - Hatton, Sandra
 - Henry, Lou Ann
-- Holland, Amber
 - Hooper Perroud, Jane
 - Hooper, Jane
 - Hopkins, Heather
@@ -362,7 +358,6 @@ vs:
 - Jones-Gordon, Barb
 - Jones-Walker, Debbie
 - Jurgenson, Christine
-- Kalenchuk, Heather
 - Kane, Cynthia
 - Karam, Sally
 - Kaylo, Kelly
@@ -376,18 +371,17 @@ vs:
 - Kleibrink, Shannon
 - Kyle, Linda
 - Lang, Lorraine
+- Larouche, Marie-France
 - Law, Kelley
 - Lawrence, Margaret
 - Leahy, Anne
 - Leblanc, Lisa
-- Leclerc, Valerie
 - Lemay, Annie
 - Lemire, Nancy
 - Leonard, Judy
 - London, Debra
 - MacAulay, Marion
 - MacCallum, Janice
-- MacDiarmid, Kristen
 - MacDonald, Rebecca Jean
 - MacDougall, Leslie
 - MacKenzie, Doris
@@ -412,10 +406,12 @@ vs:
 - McInnis, Susan
 - McKnight, Patti
 - McLeod, Crystal
+- McNamee, Karen
 - Merklinger, Anne
 - Middaugh, Sherry
 - Millar, Bev
 - Miller, Maureen
+- Miller, Wendy
 - Montgomery, Kay
 - Moore, Kimberly
 - Moore, Kristie
@@ -425,13 +421,11 @@ vs:
 - Morris, Cori
 - Moses, Dawn
 - Moss, Debbie
-- Muise, Morgan
 - Mulroney, Sandra
 - Murphy, Jeanette
 - Muzika, Shelley
 - Nedohin, Heather
 - Nicholls, Brenda
-- Nichols, Helen
 - Nimmo, Shannon
 - Nohr, Dianne
 - Nowlan, Denise
@@ -442,12 +436,12 @@ vs:
 - Ondrack, Wendy
 - Osborne, Chantal
 - Palinkas, Gloria
-- Paul, Sarah
 - Pendergast, Judy
 - Perron, Leanne
 - Peters, Laine
 - Phillips, Laura
 - Phillips, Margaret Lea
+- Porter, Debbie
 - Power, Marie-Anne
 - Provencal, Darah
 - Raby, Odette
@@ -456,7 +450,6 @@ vs:
 - Renouf, Michele
 - Roberts, Angela
 - Robinson, Charlene
-- Rocque, Raylene
 - Roland, Mavis
 - Ross, Allison
 - Ruus, Karen
@@ -465,8 +458,6 @@ vs:
 - Sauer, Cathy
 - Scales, Julie
 - Schmirler, Sandra
-- Schneider, Kim
-- Schneider, Tammy
 - Schraeder, Jeanna
 - Scott, Donna
 - Scott, Kelly
@@ -481,6 +472,7 @@ vs:
 - Smith, Heather
 - Smith, Yvonne
 - Snider, Shelly
+- Sobey, Lianne
 - Soligo, Melissa
 - Sonnenberg, Renee
 - Sparkes, Lindsay
@@ -499,13 +491,13 @@ vs:
 - Thompson, Gillian
 - Tincher, Twyla
 - Todd, Fran
+- Train, Mona
 - Tucker, Cindy
 - Udle, Teri
 - Vey, Lana
 - Walker, Lisa
 - Walter, Cathy
 - Wheatcroft, Georgina
-- Whipple, Paula
 - Whitaker, Carol
 - Whitrow, Leanne
 - Wieler, Bev

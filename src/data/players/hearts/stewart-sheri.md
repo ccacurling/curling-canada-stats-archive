@@ -212,7 +212,7 @@ vs:
  - Birt, Suzanne
  - Bodogh, Marilyn
  - Bonar, Maureen
- - Bowes, Diane
+ - Bowman, Mary
  - Bradley, Shelly
  - Breen, Theresa
  - Brown, Katie
@@ -227,11 +227,13 @@ vs:
  - Charette, Agnes
  - Charette, France
  - Chaulk, Wendy
+ - Chicoine, Helene
  - Clark, Kim
  - Combden, Cathy
  - Cooke, Gerri
  - Copeland, Rae Ann
  - Cordina, Sheri
+ - Cormier, Sharon
  - Cossette, Pierrette
  - Cunningham, Cathy
  - Currey, Karen
@@ -244,10 +246,10 @@ vs:
  - Delahunt, Nancy
  - Deschatelets, Guylaine
  - Dezura, Diane
- - Dillon, Cathy
  - Dolan, Kim
  - Dwyer, Patricia
  - Earl, Allison
+ - Eddy, Lori
  - Ellwood, Laurie
  - Emond, Muriel
  - Englot, Michelle
@@ -265,7 +267,6 @@ vs:
  - Gervais, Chris
  - Gervais, Donna
  - Gignac, Donna
- - Girard, Sylvie
  - Goring, Alison
  - Goss, Peg
  - Graham-MacDonald, Bea
@@ -304,6 +305,7 @@ vs:
  - Kuruluk, Kristen
  - Laliberte, Connie
  - Lang, Lorraine
+ - Lange, Ann
  - LaRocque, Penny
  - Larouche, Marie-France
  - Law, Kelley
@@ -311,7 +313,6 @@ vs:
  - Lawrence, Margaret
  - Leblanc, Lisa
  - Leclerc, Valerie
- - L'Ecuyer, Josee
  - Lemay, Annie
  - Lethbridge, Sherry
  - Lidgren, Anna
@@ -340,6 +341,7 @@ vs:
  - Middaugh, Sherry
  - Millar, Bev
  - Montgomery, Kay
+ - Moore, Kim
  - Moore, Kristie
  - Moore, Linda
  - More, Chris
@@ -349,6 +351,7 @@ vs:
  - Mulroney, Sandra
  - Muzika, Shelley
  - Narduzzi, Joyce
+ - Naugler, Tara
  - Nedohin, Heather
  - Nichols, Helen
  - Nixon, Amy
@@ -388,6 +391,7 @@ vs:
  - Sanders, Pat
  - Santos, Deb
  - Sauer, Cathy
+ - Scales, Julie
  - Schmirler, Sandra
  - Scott, Donna
  - Sharpe, Kelli
@@ -408,7 +412,6 @@ vs:
  - Strong, Heather
  - Sutton, Jodie
  - Taylor, Candy
- - Taylor, Gloria
  - Thomas, Karen
  - Thomas, Maria
  - Thompson, Gillian

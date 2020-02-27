@@ -154,21 +154,22 @@ vs:
  - Clark, Kim
  - Combden, Cathy
  - Comeau, Sandy
- - Cooke, Gerri
  - Copeland, Rae Ann
  - Cormier, Sharon
  - Cunningham, Cathy
+ - Dagg-Jackson, Elaine
  - Dalio, Diane
  - Davis, Carol
  - Delahunt, Nancy
  - Dolan, Kim
  - Earl, Allison
  - Eddy, Lori
- - Ellis, Danielle
  - Englot, Michelle
  - Fahlman, Kathy
  - Flannigan, Lorraine
  - Floyd, Kathy
+ - Ford, Anita
+ - Fowler, Lois
  - Fowler, Rhonda
  - Fraser, Sherry
  - Frey, Audrey
@@ -176,6 +177,7 @@ vs:
  - Gatchell, Sara
  - Gauthier, Cathy
  - Gellard, Kim
+ - George, Tara
  - Gervais, Donna
  - Gignac, Donna
  - Goring, Alison
@@ -195,17 +197,18 @@ vs:
  - Jenkins, Sandra
  - Johnstone, Loralee
  - Jones, Colleen
+ - Jones, Jennifer
  - Jones-Walker, Debbie
  - Jurgenson, Christine
  - Kaylo, Kelly
  - Kehler, Lorie
+ - Kellerman, Bev
  - Kelly, Kim
  - Kennedy, Tracy
  - Kerr, Kathy
  - King, Cathy
  - King, Shirley
  - Kleibrink, Shannon
- - Koehler, Megan
  - Kuruluk, Kristen
  - Laliberte, Connie
  - Lang, Lorraine
@@ -216,13 +219,16 @@ vs:
  - MacCallum, Janice
  - MacDonald, Rebecca Jean
  - MacKenzie, Doris
+ - MacLean, Kari
  - Mallett, Marla
  - Martin, Heather
  - Mattatall, Mary
  - McArdle, Cindy
+ - McCarville, Krista
  - McCloy, Elaine
  - McConnery, Nancy
  - McCusker, Joan
+ - McEwen, Dawn
  - McInnis, Susan
  - McKnight, Patti
  - McLeod, Crystal
@@ -234,17 +240,16 @@ vs:
  - Moses, Dawn
  - Moss, Debbie
  - Muzika, Shelley
- - Naugler, Tara
  - Nedohin, Heather
- - Nichols, Helen
  - Nowlan, Denise
+ - Officer, Jill
  - Ondrack, Wendy
  - O'Rourke, Kathy
+ - Overton-Clapham, Cathy
  - Palinkas, Gloria
- - Pendergast, Judy
  - Perron, Leanne
- - Phillips, Kristen
  - Phillips, Laura
+ - Porter, Debbie
  - Pruden, Twyla
  - Purdy, Karen
  - Radford, Helen
@@ -261,6 +266,7 @@ vs:
  - Schmirler, Sandra
  - Sherrington, Barb
  - Shigehiro, Sally
+ - Sippala, Ashley
  - Skinner, Julie
  - Smith, Yvonne
  - Soligo, Melissa
@@ -272,14 +278,11 @@ vs:
  - Taylor, Candy
  - Thomas, Karen
  - Thomas, Maria
- - Thurston, Jill
  - Todd, Fran
  - Walker, Lisa
- - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whitrow, Leanne
  - Willms, Karri
- - Wilson, Leslie
  - Wilson, Patty
  - Wright, Joanne
  - Zeller, Lori

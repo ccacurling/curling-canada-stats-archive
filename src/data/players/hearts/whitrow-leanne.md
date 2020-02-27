@@ -78,6 +78,7 @@ vs:
  - Arsenault, Mary-Anne
  - Aucoin, Shelley
  - Bacon, Kathy
+ - Baird, Mary
  - Barrack, Carmen
  - Bernard, Krista
  - Berthelot, Janique
@@ -85,6 +86,7 @@ vs:
  - Bradley, Shelly
  - Breen, Theresa
  - Brophy, Cathy
+ - Burgess, Judy
  - Carter, Linda
  - Chapman, Kathy
  - Charette, Agnes
@@ -109,6 +111,7 @@ vs:
  - Handfield, Simone
  - Hanlon, Heidi
  - Hatton, Sandra
+ - Hennigar, Karen
  - Herlinveaux, Louise
  - Horte, Rhonda
  - Houston, Heather
@@ -152,6 +155,7 @@ vs:
  - Peters, Laine
  - Phillips, Laura
  - Phillips, Margaret Lea
+ - Pinkney, Colleen
  - Poisson, Francine
  - Pruden, Twyla
  - Purdy, Karen

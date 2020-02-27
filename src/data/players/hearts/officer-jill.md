@@ -288,6 +288,7 @@ vs:
  - Atkinson, Rebecca
  - Ayrey, Jinaye
  - Babin, Jillian
+ - Baldwin, Nicole
  - Barbour, Shona
  - Baxter, Jen
  - Beauchamp, Sasha
@@ -296,6 +297,7 @@ vs:
  - Bell, Chelsey
  - Bernard, Cheryl
  - Betker, Jan
+ - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
@@ -303,11 +305,13 @@ vs:
  - Bradley, Shelly
  - Brassard, Veronique
  - Brennan, Amanda
+ - Brine, Jenn
  - Brothers, Jill
  - Brown, Jacalyn
  - Brown, Rachel
  - Burgess, Carey
  - Bush, Tracy
+ - Cameron, Kate
  - Cameron, Nancy
  - Camozzi, Rhona
  - Campbell, Jolene
@@ -315,9 +319,9 @@ vs:
  - Carmody, Erin
  - Carrier, Julie
  - Carter, Sasha
+ - Charette, France
  - Cheveldave, Amber
  - Chisholm, Candace
- - Chislett, Geneva
  - Christianson, Marie
  - Clark, Stefanie
  - Clarke, Hayley
@@ -360,6 +364,7 @@ vs:
  - Filteau, Anne-Marie
  - Fleury, Tracy
  - Fortier, Marie-Josee
+ - Fraser, Sherry
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gagnier, Monique
@@ -367,7 +372,6 @@ vs:
  - Gates, Amanda
  - George, Tara
  - Gibson, Amy
- - Gignac, Donna
  - Gilman, Sheena
  - Goss, Peg
  - Gregoire, Veronique
@@ -383,17 +387,15 @@ vs:
  - Harrison, Meredith
  - Harvey, Janet
  - Hastings, Julie
- - Hodson, Kim
  - Holland, Amber
  - Hollands, Saskia
  - Holtby, Taryn
  - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
- - Hutchings, Denise
+ - Inglis, Danielle
  - Inglis, Nancy
  - Iskiw, Beth
- - Jewer, Michelle
  - Johnston, Kara
  - Jones, Colleen
  - Joyce, Blisse
@@ -446,7 +448,7 @@ vs:
  - McInnis, Susan
  - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meakin, Breanne
+ - Meilleur, Briane
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
@@ -459,7 +461,6 @@ vs:
  - Morris, Cori
  - Moses, Dawn
  - Muise, Morgan
- - Mulroney, Sandra
  - Murphy, Jeanette
  - Murphy, Sarah
  - Muzika, Shelley
@@ -513,8 +514,8 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
- - Shackleton, Amie
  - Sharpe, Kelli
+ - Shaw, Ladene
  - Shumay, Jill
  - Simmons, Cindy
  - Simons, Renee
@@ -527,9 +528,11 @@ vs:
  - Smith, Stacey
  - Snyder, Jane
  - Sobey, Lianne
+ - Sonnenberg, Renee
  - Spencer, Barb
  - Streifel, Tracy
  - Strong, Heather
+ - Strong, Helen
  - Strong, Laura
  - Stubbings, Tiffany
  - Surik, Teejay
@@ -553,7 +556,6 @@ vs:
  - Weagle, Lisa
  - Webster, Bronwen
  - Webster, Crystal
- - West, Christianne
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whitaker, Carol

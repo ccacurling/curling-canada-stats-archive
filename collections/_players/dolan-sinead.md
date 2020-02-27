@@ -146,8 +146,10 @@ vs:
  - Blais, Amelie
  - Brothers, Jill
  - Brown, Rachel
+ - Campbell, Jolene
  - Carey, Chelsea
  - Carter, Sasha
+ - Clark-Rouire, Jennifer
  - Clarke, Hayley
  - Cooper, Kathryn
  - Cormier, Sharon
@@ -157,6 +159,8 @@ vs:
  - Crawford, Andrea
  - Cunningham, Jennifer
  - Cunningham, Jessica
+ - Daniel, Sylvie
+ - Derick, Catherine
  - deSolla, Jodie
  - Duncan, Chelsea
  - Englot, Michelle
@@ -168,11 +172,7 @@ vs:
  - Galusha, Kerry
  - Gannon, Melissa
  - Gates, Amanda
- - Hanna, Jenn
- - Hanna, Stephanie
- - Harrison, Meredith
  - Holland, Amber
- - Homan, Rachel
  - Iskiw, Beth
  - Jones, Jennifer
  - Joyce, Blisse
@@ -181,38 +181,39 @@ vs:
  - Koehler, Megan
  - Koltun, Sarah
  - Korab, Stephanie
- - Kreviazuk, Alison
  - Kreviazuk, Lynn
  - Larouche, Marie-France
  - Lawes, Kaitlyn
  - Lawton, Stefanie
- - Letendre, Pascale
+ - Lemay, Annie
  - Mair, Jessica
  - Mann, Lauren
  - Materi, Roberta
+ - Mattatall, Mary
  - McDonald, Kristy
  - McEwen, Dawn
- - Miskew, Emma
+ - Miller, Wendy
+ - Morgan, Cheryl
+ - Murphy, Jeanette
  - Nedohin, Heather
  - Nicholls, Brenda
  - Nugent, Pamela
  - Officer, Jill
- - O'Neill, Brit
  - O'Rourke, Brittany
+ - Osborne, Chantal
  - Parsons, Danielle
  - Peters, Laine
+ - Rainville, Julie
  - Ross, Allison
- - Sagle, Karen
  - Sanderson, Jessie
  - Sandwith, Carley
  - Schneider, Kim
- - Schneider, Tammy
  - Scott, Kelly
  - Sinclair, Andrea
- - Singler, Sherri
  - Sivertson, Dailene
  - Slywka, Sarah
  - Smith, Heather
+ - Sonnenberg, Renee
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
@@ -222,6 +223,5 @@ vs:
  - Vey, Lana
  - Wallingham, Patty
  - Walsh, Jenna
- - Weagle, Lisa
  - Wylie, Jennifer
 ---

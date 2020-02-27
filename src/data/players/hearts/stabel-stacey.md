@@ -67,24 +67,24 @@ vs:
  - Bradley, Shelly
  - Brown, Jacalyn
  - Brown, Janet
+ - Cameron, Nancy
  - Cooke, Gerri
  - Cordina, Sheri
  - Cunningham, Cathy
  - Delahunt, Nancy
  - Dezura, Diane
- - Dobson, Sue
  - Englot, Michelle
  - Farrell, Allison
  - Floyd, Kathy
  - Fowler, Lois
  - Gagnon, Karo
  - Gignac, Donna
+ - Gogan, Jennifer
  - Goss, Peg
  - Gregoire, Veronique
  - Grenier, Valerie
  - Gushulak, Diane
  - Hanlon, Heidi
- - Harding, Mary
  - Harrison, Meredith
  - Harvey, Alison
  - Hodson, Kim
@@ -105,7 +105,6 @@ vs:
  - Marchand, Stephanie
  - Martin, Heather
  - Materi, Roberta
- - McDonald, Tina
  - McInnis, Susan
  - McNamee, Karen
  - Middaugh, Sherry
@@ -125,6 +124,7 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Tasaka, Adina
+ - Vavrek, Melody
  - Wall, Kirsten
  - Wheatcroft, Georgina
  - Whitaker, Lise

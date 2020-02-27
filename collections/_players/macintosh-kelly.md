@@ -69,4 +69,14 @@ years:
    shots-total: 12
    shots-percent: 71
 vs:
+ - Affleck, Tricia
+ - Babin, Jillian
+ - Bradley, Shelly
+ - Carmody, Erin
+ - Crawford, Andrea
+ - deSolla, Jodie
+ - Nowlan, Denise
+ - O'Rourke, Kathy
+ - Ramsay, Geri Lynn
+ - Sobey, Lianne
 ---

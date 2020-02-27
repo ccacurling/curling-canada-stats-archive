@@ -13,8 +13,4 @@ years:
    team: "BC"
    position: Alternate
 vs:
- - Fleury, Tracy
- - Gates, Amanda
- - Walsh, Jenna
- - Wylie, Jennifer
 ---

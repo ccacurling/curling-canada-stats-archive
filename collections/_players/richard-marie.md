@@ -70,7 +70,6 @@ years:
    shots-total: 214
    shots-percent: 80
 vs:
- - Allen, Michelle
  - Anderson, Sherry
  - Arsenault, Mary-Anne
  - Baxter, Jen
@@ -87,8 +86,10 @@ vs:
  - Campbell, Jolene
  - Carey, Chelsea
  - Carter, Sasha
+ - Chenier, Courtney
  - Christianson, Marie
  - Clark, Stefanie
+ - Clark-Rouire, Jennifer
  - Collins, Katrina
  - Cooper, Kathryn
  - Courtney, Joanne
@@ -97,7 +98,6 @@ vs:
  - Curtis, Stacie
  - Delahunt, Nancy
  - Devereaux, Julie
- - Dolan, Kim
  - Einarson, Kerri
  - Englot, Michelle
  - Ferguson, Dana
@@ -166,6 +166,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Simmons, Cindy
+ - Simons, Renee
  - Sippala, Ashley
  - Smith, Stacey
  - Snyder, Jane
@@ -178,10 +179,13 @@ vs:
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie
+ - Vey, Lana
  - Wall, Kirsten
  - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Bronwen
+ - Whitaker, Carol
+ - Wilkes, Sarah
  - Williamson, Ashley
  - Wylie, Jennifer
  - Yardley, Janelle

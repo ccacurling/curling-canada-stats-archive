@@ -82,6 +82,7 @@ vs:
  - Arsenault, Mary-Anne
  - Aucoin, Shelley
  - Barrette, Peggy
+ - Bartlett, Sue Anne
  - Bell, Allyson
  - Bernard, Cheryl
  - Betker, Jan
@@ -90,15 +91,16 @@ vs:
  - Breen, Theresa
  - Brophy, Cathy
  - Brown, Katie
+ - Brown, Marcie
  - Cameron, Nancy
  - Charette, Agnes
  - Charette, France
  - Clark, Kim
+ - Combden, Cathy
  - Comeau, Sandy
  - Cormier, Sharon
  - Cunningham, Cathy
  - Daniel, Sylvie
- - Dillon, Cathy
  - Dolan, Kim
  - Earl, Allison
  - Ellwood, Laurie
@@ -110,7 +112,6 @@ vs:
  - Frey, Audrey
  - Gatchell, Sara
  - Gauthier, Cathy
- - Girard, Sylvie
  - Goring, Alison
  - Graham-MacDonald, Bea
  - Green, Sue
@@ -157,6 +158,7 @@ vs:
  - Overton-Clapham, Cathy
  - Perron, Leanne
  - Poisson, Francine
+ - Porter, Debbie
  - Proctor, Jill
  - Pross, Margaret
  - Pushkar, Diane
@@ -165,6 +167,7 @@ vs:
  - Roberts, Angela
  - Santos, Deb
  - Sauer, Cathy
+ - Scales, Julie
  - Schmirler, Sandra
  - Sherrington, Barb
  - Shigehiro, Sally

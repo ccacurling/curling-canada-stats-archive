@@ -171,6 +171,7 @@ vs:
 - Sharp, Jeff
 - Simmons, Pat
 - St.Louis, David
+- Steski, Peter
 - Stoughton, Jeff
 - Thiessen, Brad
 - Thiessen, Nolan

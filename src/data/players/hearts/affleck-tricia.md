@@ -138,12 +138,15 @@ years:
    shots-total: 4
    shots-percent: 100
 vs:
+ - Aleksic, Shannon
  - Anderson, Sherry
  - Armstrong, Jacquie
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Arseneau, Jane
+ - Babin, Jillian
  - Baker, Michelle
+ - Bakker, Glenys
  - Balderston, Marcy
  - Barrack, Carmen
  - Belanger, Nancy
@@ -159,14 +162,13 @@ vs:
  - Breen, Theresa
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Marcie
  - Burgess, Carey
  - Busche, Jodi
  - Bush, Tracy
+ - Campbell, Jolene
  - Campbell, June
  - Carter, Sasha
  - Cey, Naomi
- - Clark-Rouire, Jennifer
  - Comeau, Martine
  - Cooke, Gerri
  - Cordina, Sheri
@@ -190,6 +192,7 @@ vs:
  - Freeman, Lisa
  - Frey, Audrey
  - Gagnier, Monique
+ - Gagnon, Karo
  - Galusha, Kerry
  - Garnett, Lorelei
  - Gauthier, Cathy
@@ -199,10 +202,10 @@ vs:
  - Gilman, Sheena
  - Gogan, Jennifer
  - Goss, Peg
+ - Gregoire, Veronique
  - Grenier, Valerie
  - Gushulak, Diane
  - Hanlon, Heidi
- - Harding, Mary
  - Hardy, Shelley
  - Harrison, Meredith
  - Harvey, Alison
@@ -212,11 +215,13 @@ vs:
  - Holland, Amber
  - Hollands, Saskia
  - Holowec, Ainsley
+ - Homan, Rachel
  - Hooper Perroud, Jane
  - Horte, Rhonda
  - Hunter, Lana
  - Hutton, Barb
  - Iskiw, Beth
+ - Jewer, Michelle
  - Jones, Colleen
  - Jones, Jennifer
  - Jones-Walker, Debbie
@@ -225,7 +230,9 @@ vs:
  - Kelly, Kim
  - Kerr, Kathy
  - King, Cathy
+ - Kleibrink, Shannon
  - Koehler, Megan
+ - Kreviazuk, Alison
  - Laliberte, Connie
  - Lang, Lorraine
  - Larouche, Marie-France
@@ -240,6 +247,7 @@ vs:
  - London, Debra
  - MacDiarmid, Kristen
  - MacDonald, Shelley
+ - MacIntosh, Kelly
  - MacLean, Kari
  - Makichuck, Lindsay
  - Marchand, Jessica
@@ -256,6 +264,7 @@ vs:
  - McNamee, Karen
  - Merklinger, Anne
  - Middaugh, Sherry
+ - Miskew, Emma
  - Moore, Kristie
  - More, Whitney
  - Moss, Debbie
@@ -264,7 +273,9 @@ vs:
  - Naugler, Tara
  - Nedohin, Heather
  - Nicholls, Brenda
+ - Nixon, Amy
  - Nohr, Dianne
+ - Nowlan, Denise
  - Nugent, Pamela
  - Officer, Jill
  - O'Leary, Susan
@@ -275,13 +286,14 @@ vs:
  - Phillips, Kristen
  - Phillips, Laura
  - Phillips, Margaret Lea
- - Potts, Sarah
+ - Power, Marie-Anne
  - Radchenka, Tammy
  - Rainville, Julie
  - Reed, Shellan
  - Renouf, Michele
  - Ridalls, Kristen
  - Rocque, Raylene
+ - Rogers, Leslie
  - Rogers, Rhonda
  - Rudulier, Andrea
  - Ruus, Karen
@@ -300,6 +312,7 @@ vs:
  - Skinner, Julie
  - Smith, Heather
  - Snider, Shelly
+ - Sobey, Lianne
  - Sonnenberg, Renee
  - Stabel, Stacey
  - Stahl, Carrie
@@ -316,6 +329,7 @@ vs:
  - Thurston, Jill
  - Wall, Kirsten
  - Walter, Cathy
+ - Weagle, Lisa
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whipple, Paula

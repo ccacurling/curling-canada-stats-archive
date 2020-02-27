@@ -13,8 +13,4 @@ years:
    team: "Eppi"
    position: Alternate
 vs:
- - Carruthers, Reid
- - Hodgson, Colin
- - Moskowy, Braeden
- - Samagalski, Derek
 ---

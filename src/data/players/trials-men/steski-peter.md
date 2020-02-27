@@ -36,4 +36,8 @@ years:
    shots-total: 14
    shots-percent: 82
 vs:
+ - Camm, Mathew
+ - Epping, John
+ - Janssen, Patrick
+ - March, Tim
 ---

@@ -43,7 +43,6 @@ vs:
  - Epping, John
  - Fry, Ryan
  - Gallant, Brett
- - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -64,6 +63,7 @@ vs:
  - Neufeld, Denni
  - Nichols, Mark
  - Samagalski, Derek
+ - Sawatsky, Rick
  - Schneider, Catlin
  - Thiessen, Brad
  - Walker, Geoff

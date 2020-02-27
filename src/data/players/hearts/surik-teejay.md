@@ -81,11 +81,9 @@ vs:
  - Carrier, Julie
  - Carter, Sasha
  - Clark, Stefanie
- - Crouse, Jennifer
  - Cunningham, Cathy
  - Delahunt, Nancy
  - Englot, Michelle
- - Gilman, Sheena
  - Goss, Peg
  - Harmark, Andra
  - Jones, Jennifer
@@ -97,7 +95,6 @@ vs:
  - MacInnes, Allison
  - MacPhee, Robyn
  - Materi, Roberta
- - McConnery, Nancy
  - McEwen, Dawn
  - Middaugh, Sherry
  - Moore, Kim
@@ -115,7 +112,6 @@ vs:
  - Simons, Renee
  - Strong, Heather
  - Strong, Laura
- - Thomas, Jill
  - Thompson, Karla
  - Wall, Kirsten
  - Webster, Bronwen

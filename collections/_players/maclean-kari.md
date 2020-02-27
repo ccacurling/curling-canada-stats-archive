@@ -95,6 +95,7 @@ vs:
 - Brown, Jacalyn
 - Carmody, Erin
 - Carter, Sasha
+- Charette, France
 - Comeau, Martine
 - Cormier, Sharon
 - Crawford, Andrea
@@ -106,12 +107,12 @@ vs:
 - Ellis, Danielle
 - Enright, Barb
 - Galusha, Kerry
-- Georges, Kendra
 - Gilman, Sheena
 - Goss, Peg
 - Gushulak, Diane
 - Hardy, Shelley
 - Holland, Amber
+- Jewer, Michelle
 - Jones, Jennifer
 - Kalenchuk, Heather
 - Kasner, Marliese
@@ -168,5 +169,6 @@ vs:
 - Vey, Lana
 - Webster, Bronwen
 - Webster, Crystal
+- Westcott, Raunora
 - Wilson, Leslie
 ---

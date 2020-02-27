@@ -97,7 +97,6 @@ vs:
  - Cormier, Sharon
  - Cunningham, Cathy
  - Daniel, Sylvie
- - Dillon, Cathy
  - Dolan, Kim
  - Earl, Allison
  - Ellwood, Laurie
@@ -109,7 +108,6 @@ vs:
  - Frey, Audrey
  - Gatchell, Sara
  - Gauthier, Cathy
- - Girard, Sylvie
  - Goring, Alison
  - Graham-MacDonald, Bea
  - Green, Sue
@@ -131,12 +129,14 @@ vs:
  - Kleibrink, Shannon
  - Laliberte, Connie
  - Lang, Lorraine
+ - Law, Kelley
  - Lawes, Andrea
  - Leblanc, Lisa
  - Lidgren, Anna
  - MacAulay, Marion
  - MacCallum, Janice
  - Mattatall, Mary
+ - McArdle, Cindy
  - McConnery, Nancy
  - McCurdy, Susan
  - McCusker, Joan
@@ -147,7 +147,6 @@ vs:
  - Merklinger, Anne
  - Moses, Dawn
  - Moss, Debbie
- - Nichols, Helen
  - Nowlan, Denise
  - Ondrack, Wendy
  - O'Rourke, Kathy
@@ -155,6 +154,7 @@ vs:
  - Overton-Clapham, Cathy
  - Perron, Leanne
  - Poisson, Francine
+ - Porter, Debbie
  - Proctor, Jill
  - Pross, Margaret
  - Pushkar, Diane
@@ -162,6 +162,8 @@ vs:
  - Rankin, Heather
  - Roberts, Angela
  - Santos, Deb
+ - Sauer, Cathy
+ - Scales, Julie
  - Schmirler, Sandra
  - Sherrington, Barb
  - Shigehiro, Sally
@@ -171,6 +173,7 @@ vs:
  - Thomas, Maria
  - Turcotte, Kristin
  - Usher, Leanne
+ - Walker, Lisa
  - Wilson, Patty
  - Wright, Joanne
  - Wright, Susan

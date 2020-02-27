@@ -60,6 +60,7 @@ vs:
  - Jones, Colleen
  - Kaylo, Kelly
  - Kerr, Kathy
+ - Laliberte, Connie
  - MacCallum, Janice
  - McConnery, Nancy
  - McCusker, Joan
@@ -77,7 +78,6 @@ vs:
  - Soligo, Melissa
  - Sutton, Jodie
  - Thomas, Maria
- - Webb, Corine
  - Willms, Karri
  - Zinck, Kay
 ---

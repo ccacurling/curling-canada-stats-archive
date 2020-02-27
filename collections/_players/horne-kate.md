@@ -248,7 +248,6 @@ vs:
 - Gudereit, Marcia
 - Gushulak, Diane
 - Hanlon, Heidi
-- Harding, Mary
 - Harris, Susan
 - Harrison, Meredith
 - Harvey, Alison
@@ -313,6 +312,7 @@ vs:
 - McNamee, Karen
 - Merklinger, Anne
 - Middaugh, Sherry
+- Miller, Maureen
 - Mittelstadt, Candice
 - Montgomery, Kay
 - Moore, Kim
@@ -327,7 +327,6 @@ vs:
 - Ondrack, Wendy
 - Osborne, Chantal
 - Overton-Clapham, Cathy
-- Penkala, Sandra
 - Phillips, Laura
 - Pinkney, Colleen
 - Power, Marie-Anne
@@ -361,7 +360,6 @@ vs:
 - Trowell, Cathy
 - Tucker, Cindy
 - Unrau, Faye
-- Wall, Kirsten
 - Webster, Bronwen
 - Wheatcroft, Georgina
 - Wiltzen, Jan

@@ -103,12 +103,14 @@ vs:
  - Bodogh, Marilyn
  - Bonar, Maureen
  - Boyle, Jane
- - Briand, Oye-Sem Won
  - Brothers, Jill
  - Busche, Jodi
+ - Campbell, Jolene
+ - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
  - Cey, Naomi
+ - Chisholm, Candace
  - Christianson, Marie
  - Cooke, Gerri
  - Cormier, Sharon
@@ -118,22 +120,27 @@ vs:
  - Curtis, Stacie
  - Delahunt, Nancy
  - Devereaux, Julie
+ - Dolan, Sinead
  - Dorosz, Peggy
+ - Einarson, Kerri
  - Einarson, Megan
  - Ellis, Danielle
  - Fowler, Lois
+ - Fyfe, Liz
  - Garnett, Lorelei
  - Gauthier, Cathy
  - Gellard, Kim
  - George, Tara
  - Gilman, Sheena
+ - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Hardy, Shelley
  - Holland, Amber
  - Hooper Perroud, Jane
+ - Howard, Ashley
  - Hughes, Meaghan
  - Hutton, Barb
- - Jewer, Michelle
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
@@ -142,12 +149,14 @@ vs:
  - Kerr, Kathy
  - Koehler, Megan
  - Laliberte, Connie
+ - Lavery, Tracey
  - Lawes, Kaitlyn
  - LeDrew, Stephanie
  - Lemon, Colette
  - Leonard, Judy
  - Lilly, Kendra
  - London, Debra
+ - MacCuish, Kristin
  - MacDougall, Leslie
  - MacLean, Kari
  - MacPhee, Robyn
@@ -162,18 +171,23 @@ vs:
  - Mulroney, Sandra
  - Murphy, Sarah
  - Naugler, Tara
+ - Njegovan, Selena
+ - Nixon, Amy
  - Nohr, Dianne
  - Nowlan, Denise
  - Officer, Jill
  - O'Neill, Brit
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
- - Parsons, Danielle
  - Pendergast, Judy
+ - Peterman, Jocelyn
+ - Peters, Laine
+ - Phillips, Kristen
  - Phillips, Laura
  - Porter, Erin
  - Potts, Sarah
  - Ramsay, Geri Lynn
+ - Recksiedler, Kristen
  - Richard, Marie
  - Robichaud, Sylvie
  - Rogers, Rhonda
@@ -187,15 +201,21 @@ vs:
  - Shephard, Wendy
  - Sherrington, Barb
  - Sippala, Ashley
- - Smith, Heather
  - Snider, Shelly
  - Sobey, Lianne
  - Sweeting, Val
  - Thomas, Jill
+ - Thompson, Karla
+ - Thurston, Jill
+ - Train, Mona
  - Udle, Teri
+ - Vandale, Trysta
  - Vautour, Carrie
- - Whipple, Paula
+ - Wasylkiw, Lauren
+ - Westcott, Raunora
  - Wieler, Bev
+ - Williamson, Ashley
+ - Wilson, Leslie
  - Zielke, Colleen
  - Zinck, Kay
 ---

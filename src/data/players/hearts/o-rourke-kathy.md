@@ -125,7 +125,6 @@ vs:
  - Alexander, Diane
  - Allardyce, Kathie
  - Aleksic, Shannon
- - Allen, Laurie
  - Allen, Michelle
  - Allen, Susan
  - Allerton, Dana
@@ -164,7 +163,6 @@ vs:
  - Charette, Agnes
  - Charette, France
  - Chicoine, Helene
- - Clark-Rouire, Jennifer
  - Comeau, Martine
  - Cooke, Gerri
  - Cordina, Sheri
@@ -177,6 +175,7 @@ vs:
  - Delahunt, Nancy
  - Deschatelets, Guylaine
  - Dorosz, Peggy
+ - Einarson, Megan
  - Ellis, Danielle
  - Ellwood, Laurie
  - Englot, Michelle
@@ -212,6 +211,7 @@ vs:
  - Hunt, Donna
  - Hutton, Barb
  - Iskiw, Beth
+ - Jewer, Michelle
  - Jones, Colleen
  - Jones, Jennifer
  - Jones-Walker, Debbie
@@ -225,6 +225,7 @@ vs:
  - King, Cathy
  - King, Shirley
  - Koehler, Megan
+ - Kuruluk, Kristen
  - Laliberte, Connie
  - Lang, Lorraine
  - Lawes, Andrea
@@ -237,7 +238,9 @@ vs:
  - Lidgren, Anna
  - London, Debra
  - MacDonald, Lawnie
+ - MacIntosh, Kelly
  - MacLean, Kari
+ - Makichuck, Lindsay
  - Marchand, Jessica
  - Marchand, Stephanie
  - Martin, Heather
@@ -254,6 +257,7 @@ vs:
  - Miller, Maureen
  - Mittelstadt, Candice
  - More, Chris
+ - More, Whitney
  - Moriarty, Monica
  - Moss, Debbie
  - Mulroney, Sandra
@@ -269,7 +273,6 @@ vs:
  - Phillips, Kristen
  - Phillips, Laura
  - Poisson, Francine
- - Potts, Sarah
  - Power, Marie-Anne
  - Proctor, Jill
  - Pross, Margaret
@@ -279,6 +282,7 @@ vs:
  - Putland, Rose
  - Rainville, Julie
  - Renouf, Michele
+ - Rogers, Leslie
  - Rogers, Rhonda
  - Ross, Allison
  - Rudd, Colleen
@@ -310,6 +314,7 @@ vs:
  - Stricker, Joan
  - Strong, Heather
  - Sutton, Jodie
+ - Sweeting, Val
  - Tanner, Allison
  - Thomas, Jill
  - Thomas, Karen

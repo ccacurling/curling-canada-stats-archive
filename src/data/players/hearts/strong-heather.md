@@ -233,7 +233,6 @@ vs:
  - Arseneau, Jane
  - Atkinson, Rebecca
  - Babin, Jillian
- - Baier, Stephanie
  - Balderston, Marcy
  - Barbour, Shona
  - Barrack, Carmen
@@ -272,8 +271,8 @@ vs:
  - Carlos, Marie-Claude
  - Carrier, Julie
  - Carter, Sasha
- - Chisholm, Candace
  - Clark, Stefanie
+ - Clark-Rouire, Jennifer
  - Clarke, Hayley
  - Collins, Katrina
  - Comeau, Martine
@@ -328,7 +327,6 @@ vs:
  - Hanlon, Heidi
  - Hanna, Jenn
  - Hanna, Stephanie
- - Harding, Mary
  - Harmark, Andra
  - Harrison, Meredith
  - Harvey, Alison
@@ -362,6 +360,7 @@ vs:
  - Koehler, Megan
  - Koltun, Sarah
  - Kreviazuk, Alison
+ - Kreviazuk, Cheryl
  - Kreviazuk, Lynn
  - Lahucik, Val
  - Laliberte, Connie
@@ -377,7 +376,6 @@ vs:
  - Lemire, Nancy
  - Letendre, Pascale
  - Lewis, Kristy
- - Linton, Sherry
  - Loder, Cherie-Ann
  - Lowther, Tammi
  - MacCallum, Janice
@@ -410,7 +408,6 @@ vs:
  - Merklinger, Anne
  - Middaugh, Sherry
  - Miller, Maureen
- - Miller, Wendy
  - Miskew, Emma
  - Mittelstadt, Candice
  - Moore, Kim
@@ -445,7 +442,6 @@ vs:
  - Prosser, Sandi
  - Provencal, Darah
  - Radchenka, Tammy
- - Reid, Jackie
  - Richard, Marie
  - Richards, Brette
  - Ridalls, Kristen
@@ -505,6 +501,7 @@ vs:
  - Tucker, Cindy
  - Udle, Teri
  - Van Osch, Kesa
+ - Vavrek, Melody
  - Vey, Lana
  - Wall, Kirsten
  - Wallingham, Patty
@@ -516,7 +513,6 @@ vs:
  - Whitaker, Carol
  - Whitaker, Lise
  - Whitrow, Leanne
- - Wilkes, Sarah
  - Wiltzen, Jan
  - Wylie, Jennifer
  - Yardley, Janelle

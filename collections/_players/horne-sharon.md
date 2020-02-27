@@ -53,7 +53,6 @@ vs:
  - Dunstone, Carol
  - Gallant, Kathie
  - Jenkins, Sandra
- - Jurgenson, Christine
  - Keays, Stella
  - Kerr, Heather
  - Lang, Lorraine

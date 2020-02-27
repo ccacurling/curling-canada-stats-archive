@@ -36,4 +36,8 @@ years:
    shots-total: 14
    shots-percent: 75
 vs:
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Griffin, Alison
+ - Pinksen, Sadie
 ---

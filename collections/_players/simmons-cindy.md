@@ -37,6 +37,7 @@ years:
    shots-percent: 81
 vs:
  - Arsenault, Mary-Anne
+ - Barbour, Shona
  - Belanger, Nancy
  - Bell, Chelsey
  - Birt, Suzanne
@@ -49,7 +50,6 @@ vs:
  - Galusha, Kerry
  - Goss, Peg
  - Harmark, Andra
- - Jenkins, Sandra
  - Jones, Jennifer
  - Kelly, Kim
  - Kleibrink, Shannon
@@ -61,7 +61,6 @@ vs:
  - McEwen, Dawn
  - Middaugh, Sherry
  - Moore, Kim
- - Moses, Dawn
  - Nicholson, Danielle
  - Nixon, Amy
  - Officer, Jill
@@ -73,7 +72,6 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Simons, Renee
- - Smith, Nikki
  - Strong, Heather
  - Strong, Laura
  - Surik, Teejay

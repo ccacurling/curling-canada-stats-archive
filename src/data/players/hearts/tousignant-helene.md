@@ -82,6 +82,8 @@ vs:
  - Cutcliffe, Margaret
  - Day, Arleen
  - Dolan, Kim
+ - Duck, Kim
+ - Dunn, Anne
  - Ellwood, Laurie
  - Fahlman, Kathy
  - Felker, Arenlea

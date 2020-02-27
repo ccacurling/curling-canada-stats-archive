@@ -139,6 +139,7 @@ vs:
  - Hebert, Ben
  - Howard, Glenn
  - Howard, Russ
+ - Howard, Scott
  - Jacobs, Brad
  - Johnston, Wade
  - Karrys, George
@@ -176,6 +177,7 @@ vs:
  - Odishaw, Grant
  - Park, Kerry
  - Park, Kevin
+ - Park, Shane
  - Patterson, Scott
  - Peachey, Jay
  - Perroud, Pat
@@ -195,7 +197,6 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Smith, Dave
- - Stambaugh, Doug
  - Sveistrup, Jody
  - Tetley, Ian
  - Thiessen, Nolan

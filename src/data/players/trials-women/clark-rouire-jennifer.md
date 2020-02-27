@@ -17,8 +17,4 @@ years:
    team: "Jone"
    position: Alternate
 vs:
- - Cameron, Kate
- - Englot, Michelle
- - Westcott, Raunora
- - Wilson, Leslie
 ---

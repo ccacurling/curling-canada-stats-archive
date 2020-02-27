@@ -124,6 +124,7 @@ vs:
 - Arnott, Janet
 - Arsenault, Mary-Anne
 - Bakker, Glenys
+- Baldwin, Nicole
 - Belanger, Nancy
 - Belisle, Eve
 - Bell, Chelsey
@@ -136,12 +137,14 @@ vs:
 - Burgess, Carey
 - Bush, Tracy
 - Cameron, Nancy
+- Carrier, Julie
 - Clark, Stefanie
 - Clarke, Hayley
 - Comeau, Martine
 - Comeau, Sandy
 - Cordina, Sheri
 - Crawford, Andrea
+- Cunningham, Cathy
 - Daniel, Sylvie
 - Darbyshire, Carolyn
 - Delahunt, Nancy
@@ -157,6 +160,7 @@ vs:
 - Gauthier, Cathy
 - George, Tara
 - Gignac, Donna
+- Goss, Peg
 - Gregoire, Veronique
 - Gudereit, Marcia
 - Hamilton, Beth
@@ -207,8 +211,11 @@ vs:
 - Morris, Cori
 - Moses, Dawn
 - Muise, Morgan
+- Murphy, Jeanette
 - Nicholls, Brenda
+- Nicholson, Danielle
 - Nixon, Amy
+- Nowlan, Denise
 - Nugent, Pamela
 - O'Connor, Susan
 - O'Leary, Susan
@@ -217,10 +224,13 @@ vs:
 - Osborne, Chantal
 - Overton-Clapham, Cathy
 - Peters, Laine
+- Power, Marie-Anne
 - Prosser, Sandi
 - Provencal, Darah
+- Richard, Marie
 - Ridalls, Kristen
 - Rizzo, Jo-Ann
+- Robichaud, Sylvie
 - Rocque, Raylene
 - Ross, Allison
 - Rudulier, Andrea
@@ -228,7 +238,6 @@ vs:
 - Sharpe, Kelli
 - Simmons, Cindy
 - Singler, Sherri
-- Smith, Nikki
 - Streifel, Tracy
 - Strong, Heather
 - Strong, Laura

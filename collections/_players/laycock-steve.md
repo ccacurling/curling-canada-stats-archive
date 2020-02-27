@@ -277,7 +277,6 @@ vs:
 - Gould, Steve
 - Grattan, James
 - Griffith, Ty
-- Griffith, Tyrel
 - Gunnlaugson, Jason
 - Gushue, Brad
 - Harnden, Al

@@ -69,16 +69,12 @@ years:
    shots-total: 20
    shots-percent: 89
 vs:
- - Atkinson, Rebecca
  - Baier, Stephanie
- - Brothers, Jill
- - Crawford, Andrea
- - deSolla, Jodie
- - Joyce, Blisse
- - Parsons, Danielle
+ - Duncan, Chelsea
+ - Knezevic, Patti
+ - Koltun, Sarah
  - Sanderson, Jessie
  - Sandwith, Carley
- - Smith, Heather
- - Udle, Teri
- - Van Osch, Kesa
+ - Sinclair, Andrea
+ - Wallingham, Patty
 ---

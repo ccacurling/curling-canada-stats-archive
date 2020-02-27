@@ -98,6 +98,7 @@ vs:
  - Bell, Mary Susan
  - Bernard, Cheryl
  - Bildfell, Shelly
+ - Blair, Diane
  - Blanchard, Judy
  - Bodogh, Marilyn
  - Brousseau, Deb
@@ -115,10 +116,9 @@ vs:
  - Currie, Ann
  - Currie, Barbara
  - Cutcliffe, Margaret
- - Dagg-Jackson, Elaine
+ - Daniel, Sylvie
  - Darbyshire, Carolyn
  - Darbyshire, Merline
- - Dickeson, Debbi
  - Dillon, Cathy
  - Dolan, Kim
  - Donald, Grace
@@ -135,7 +135,6 @@ vs:
  - Gallant, Kathie
  - Gauthier, Cathy
  - Gervais, Chris
- - Girard, Sylvie
  - Goring, Alison
  - Graham, Julie
  - Green, Sue
@@ -194,6 +193,7 @@ vs:
  - Muzika, Shelley
  - Noye, Marnie
  - Osborne, Chantal
+ - Overton, Kim
  - Poisson, Francine
  - Potvin, Gisele
  - Power, Judy
@@ -221,6 +221,7 @@ vs:
  - Stewart, Sheri
  - Stokes, Debbie
  - Stricker, Joan
+ - Sutton, Jodie
  - Thompson, Gillian
  - Thompson, May
  - Turcotte, Kristin

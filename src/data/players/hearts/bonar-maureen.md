@@ -153,7 +153,6 @@ vs:
  - Iskiw, Beth
  - Jenkins, Sandra
  - Jones, Colleen
- - Jurgenson, Christine
  - Kaylo, Kelly
  - Keays, Stella
  - Kelly, Kim
@@ -204,7 +203,6 @@ vs:
  - Phillips, Laura
  - Pinsent, Barbara
  - Provo, Anne
- - Raby, Linda
  - Raby, Odette
  - Rainville, Julie
  - Rankin, Heather
@@ -229,12 +227,11 @@ vs:
  - Stewart, Sheri
  - Sutton, Jodie
  - Thomas, Maria
+ - Train, Mona
  - Twa, Dale
  - Wall, Kirsten
  - Walter, Cathy
- - Webb, Corine
  - Wheatcroft, Georgina
- - Whipple, Paula
  - Wieler, Bev
  - Willms, Karri
  - Wright, Joanne

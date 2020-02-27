@@ -173,7 +173,6 @@ vs:
 - Gagnon, Jean
 - Gardeski, Larry
 - Gavin, Martin
-- Germsheid, Tony
 - Gibson, Andrew
 - Golanowski, Rory
 - Gould, Steve
@@ -236,6 +235,7 @@ vs:
 - Odishaw, Terry
 - Ouimet, Luc
 - Park, Kevin
+- Park, Shane
 - Perron, Rick
 - Pfeifer, Scott
 - Phillips, Tim

@@ -263,7 +263,6 @@ vs:
 - Engel, Ron
 - Ernst, Georg
 - Feldman, Alfred
-- Fenton, Brad
 - Fenton, Keith
 - Ferbey, Randy
 - Fitzherbert, Brad
@@ -344,7 +343,6 @@ vs:
 - Lappalainen, Art
 - LeCocq, Marc
 - LeCocq, Vance
-- Leech, Ron
 - Lemery, Dan
 - Loevenmark, Phil
 - Lohnes, Bruce
@@ -406,7 +404,6 @@ vs:
 - Park, Kevin
 - Patriquin, Chuck
 - Patterson, Scott
-- Peachey, Jay
 - Peddigrew, Ken
 - Perozak, Brian
 - Perron, Rick
@@ -423,7 +420,6 @@ vs:
 - Pyper, Dwayne
 - Rafuse, Brian
 - Ravndal, Clayton
-- Recksiedler, Kevin
 - Reddick, Don
 - Richard, Gerry
 - Roberge, Francois

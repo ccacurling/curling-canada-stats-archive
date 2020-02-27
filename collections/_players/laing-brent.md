@@ -404,7 +404,6 @@ vs:
 - Gaudet, Mike
 - Gavin, Martin
 - Geall, Sean
-- Germsheid, Tony
 - Gibson, Andrew
 - Gionest, Francois
 - Gordon, Robbie
@@ -542,6 +541,7 @@ vs:
 - Ouimet, Luc
 - Palmer, Curt
 - Park, Kevin
+- Park, Shane
 - Peachey, Jay
 - Peddigrew, Ken
 - Pfeifer, Scott
@@ -566,7 +566,6 @@ vs:
 - Ryan, Pat
 - Rycroft, Carter
 - Saccary, Scott
-- Sallows, Tom
 - Samagalski, Derek
 - Sawatsky, Rick
 - Schille, Chris

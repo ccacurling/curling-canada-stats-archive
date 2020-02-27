@@ -50,7 +50,6 @@ vs:
  - Kasner, Marliese
  - Kleibrink, Shannon
  - Lang, Lorraine
- - Lawes, Kaitlyn
  - Lawton, Stefanie
  - MacLean, Kari
  - Malekoff, Stephanie

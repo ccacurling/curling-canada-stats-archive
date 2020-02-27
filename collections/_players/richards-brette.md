@@ -62,7 +62,6 @@ vs:
  - Brown, Jacalyn
  - Cameron, Kate
  - Carey, Chelsea
- - Clark-Rouire, Jennifer
  - Cormier, Sharon
  - Courtney, Joanne
  - Crawford, Andrea
@@ -87,10 +86,9 @@ vs:
  - Homan, Rachel
  - Hughes, Meaghan
  - Jones, Jennifer
- - Karwacki, Krysten
  - Kasner, Marliese
- - Kleibrink, Shannon
  - Koehler, Megan
+ - Kreviazuk, Cheryl
  - Lang, Lorraine
  - Larouche, Marie-France
  - Lawton, Stefanie

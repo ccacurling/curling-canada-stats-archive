@@ -13,8 +13,4 @@ years:
    team: "Gush"
    position: Alternate
 vs:
- - Hebert, Ben
- - Kennedy, Marc
- - Koe, Kevin
- - Laing, Brent
 ---

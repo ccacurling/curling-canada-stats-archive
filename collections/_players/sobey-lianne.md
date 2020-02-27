@@ -74,7 +74,9 @@ years:
    shots-total: 194
    shots-percent: 76
 vs:
+ - Affleck, Tricia
  - Armstrong, Jacquie
+ - Arnott, Janet
  - Barbour, Shona
  - Belanger, Nancy
  - Belisle, Eve
@@ -87,7 +89,6 @@ vs:
  - Carmody, Erin
  - Carter, Sasha
  - Comeau, Martine
- - Comstock, Melanie
  - Cormier, Sharon
  - Crouse, Jennifer
  - Cunningham, Cathy
@@ -125,6 +126,7 @@ vs:
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacInnes, Grace
+ - MacIntosh, Kelly
  - MacLean, Kari
  - MacPhee, Robyn
  - Makichuck, Lindsay
@@ -135,6 +137,7 @@ vs:
  - McConnery, Nancy
  - McEwen, Dawn
  - Meakin, Breanne
+ - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
  - More, Whitney
@@ -151,7 +154,6 @@ vs:
  - Parsons, Danielle
  - Paul, Sarah
  - Phillips, Kristen
- - Pinkney, Colleen
  - Rainville, Julie
  - Ramsay, Geri Lynn
  - Richards, Brette
@@ -168,13 +170,11 @@ vs:
  - Spencer, Barb
  - Strong, Heather
  - Strong, Laura
- - Stubbings, Tiffany
  - Sweeting, Val
  - Thomas, Jill
  - Thurston, Jill
  - Udle, Teri
  - Vey, Lana
- - Weagle, Lisa
  - Webster, Bronwen
  - Westcott, Raunora
  - Wilson, Leslie

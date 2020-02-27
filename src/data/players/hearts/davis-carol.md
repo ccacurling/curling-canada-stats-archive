@@ -45,6 +45,7 @@ vs:
  - Charette, France
  - Chicoine, Helene
  - Deschatelets, Guylaine
+ - Dezura, Diane
  - Englot, Michelle
  - Floyd, Kathy
  - Gallant, Kathie

@@ -99,6 +99,7 @@ vs:
  - Currie, Wendy
  - Delahunt, Nancy
  - Deschatelets, Guylaine
+ - Dezura, Diane
  - Earl, Allison
  - Englot, Michelle
  - Enright, Barb
@@ -116,6 +117,7 @@ vs:
  - Gudereit, Marcia
  - Hanlon, Heidi
  - Haspect, Ginette
+ - Holden, Anna-Mae
  - Horne, Kate
  - Houston, Heather
  - Howse, Lillian
@@ -143,7 +145,6 @@ vs:
  - MacNutt, Shelley
  - MacPhee, Robyn
  - Marchand, Karine
- - Martin, Heather
  - Mattatall, Mary
  - McCarville, Susan
  - McConnery, Nancy

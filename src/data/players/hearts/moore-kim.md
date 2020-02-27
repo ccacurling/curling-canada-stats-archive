@@ -55,6 +55,7 @@ years:
 vs:
  - Arsenault, Mary-Anne
  - Arseneau, Jane
+ - Barbour, Shona
  - Belanger, Nancy
  - Bell, Chelsey
  - Betker, Jan
@@ -74,10 +75,10 @@ vs:
  - Delahunt, Nancy
  - Dolan, Kim
  - Englot, Michelle
- - Floyd, Kathy
  - Fraser, Sherry
  - Galusha, Kerry
  - Gellard, Kim
+ - Goss, Peg
  - Gudereit, Marcia
  - Hanlon, Heidi
  - Harvey, Alison
@@ -109,7 +110,6 @@ vs:
  - McCagg-Nystrom, Heather
  - McCusker, Joan
  - McEwen, Dawn
- - Moses, Dawn
  - Moss, Debbie
  - Nedohin, Heather
  - Nicholson, Danielle
@@ -124,12 +124,12 @@ vs:
  - Richard, Marie
  - Robichaud, Sylvie
  - Sabourin, Joelle
- - Sauder, Bobbie
  - Schmirler, Sandra
  - Schraeder, Jeanna
  - Scott, Kelly
  - Simmons, Cindy
  - Simons, Renee
+ - Stewart, Sheri
  - Strong, Heather
  - Strong, Laura
  - Surik, Teejay

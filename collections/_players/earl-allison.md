@@ -72,14 +72,14 @@ vs:
  - Currie, Ann
  - Currie, Barbara
  - Currie, Wendy
+ - Daniel, Sylvie
  - Deschatelets, Guylaine
- - Dillon, Cathy
+ - Dolan, Kim
  - Englot, Michelle
  - Fahlman, Kathy
  - Flesjer, Melody
  - Floyd, Kathy
  - Gauthier, Cathy
- - Girard, Sylvie
  - Green, Sue
  - Greenwood, Jill
  - Hanlon, Heidi
@@ -112,9 +112,9 @@ vs:
  - More, Chris
  - Moriarty, Monica
  - Moses, Dawn
- - Nichols, Helen
  - Noye, Marnie
  - Osborne, Chantal
+ - Porter, Debbie
  - Raby, Odette
  - Roland, Mavis
  - Sauer, Cathy

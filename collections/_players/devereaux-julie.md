@@ -104,11 +104,12 @@ years:
    shots-total: 174
    shots-percent: 82
 vs:
+ - Adams, Melissa
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
- - Arnott, Janet
+ - Arnaud, Chloe
+ - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
- - Ayrey, Jinaye
  - Barker, Penny
  - Belisle, Eve
  - Birt, Suzanne
@@ -118,6 +119,7 @@ vs:
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
+ - Chislett, Geneva
  - Christianson, Marie
  - Cormier, Sharon
  - Courtney, Joanne
@@ -125,49 +127,59 @@ vs:
  - deJager, Blaine
  - Derry, Danielle
  - Doig, Deanna
+ - Duncan, Hollie
  - Einarson, Kerri
  - Englot, Michelle
  - Eyamie, Lisa
  - Fullerton, Sarah
  - Fyfe, Liz
+ - Gagnon, Emilia
  - Galusha, Kerry
+ - Gibson, Amy
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Harvey, Marie-Pier
  - Hill, Trish
- - Holtby, Taryn
  - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
- - Iskiw, Beth
- - Johnston, Kara
+ - Hutchings, Denise
  - Jones, Jennifer
  - Joyce, Blisse
  - Kleibrink, Shannon
  - Koehler, Megan
+ - Kreviazuk, Cheryl
  - Larouche, Marie-France
  - Lavery, Tracey
  - Lawes, Kaitlyn
+ - LeDrew, Stephanie
  - Lemay, Annie
  - Lilly, Kendra
+ - Lister, Kendra
  - MacCuish, Kristin
  - MacPhee, Robyn
- - Mair, Jessica
  - Mallett, Marla
  - Mann, Lauren
  - Mattatall, Mary
  - McCarville, Krista
  - McEwen, Dawn
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
+ - Miller, Wendy
  - Miskew, Emma
+ - Moore, Kristie
  - Murphy, Sarah
  - Nedohin, Heather
  - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - O'Connor, Susan
  - Officer, Jill
  - O'Neill, Brit
  - O'Rourke, Brittany
+ - Parsons, Danielle
+ - Perron, Melina
  - Peterman, Jocelyn
  - Peters, Laine
  - Potts, Sarah
@@ -178,15 +190,22 @@ vs:
  - Robichaud, Sylvie
  - Sagle, Karen
  - Saulnier, Andrea
+ - Scheidegger, Casey
+ - Scheidegger, Jessie
  - Schneider, Lorraine
- - Shumay, Jill
+ - Shackleton, Amie
  - Sicinski, Danielle
  - Sippala, Ashley
+ - Smith, Heather
  - Thiessen, Alison
  - Thompson, Karla
  - Udle, Teri
  - Vandale, Trysta
+ - Van Osch, Kalia
+ - Van Osch, Kesa
+ - Van Osch, Marika
  - Weagle, Lisa
+ - West, Christianne
  - Westcott, Raunora
  - Wilkes, Sarah
  - Williamson, Ashley

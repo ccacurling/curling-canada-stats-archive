@@ -42,6 +42,7 @@ vs:
  - Belisle, Eve
  - Carmody, Erin
  - Carter, Sasha
+ - Clark-Rouire, Jennifer
  - Comeau, Martine
  - Cormier, Sharon
  - Crawford, Andrea

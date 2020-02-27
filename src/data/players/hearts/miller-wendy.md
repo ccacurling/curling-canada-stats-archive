@@ -70,7 +70,9 @@ years:
    shots-total: 206
    shots-percent: 74
 vs:
+ - Aleksic, Shannon
  - Armstrong, Jacquie
+ - Arnott, Janet
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Ayrey, Jinaye
@@ -81,20 +83,27 @@ vs:
  - Birt, Suzanne
  - Bradley, Shelly
  - Brassard, Veronique
+ - Campbell, Jolene
  - Carter, Sasha
  - Cheveldave, Amber
  - Crawford, Andrea
- - Cunningham, Jennifer
  - Curtis, Stacie
  - deJager, Blaine
  - deSolla, Jodie
+ - Devereaux, Julie
+ - Dolan, Kim
+ - Dolan, Sinead
  - Dufresne, Audree
  - Dykstra, Michelle
+ - Englot, Michelle
  - Fallis, Karen
+ - Fleury, Tracy
  - Fullerton, Sarah
+ - Gates, Amanda
+ - Gates, Jenny
  - Gregoire, Veronique
- - Gushulak, Diane
  - Guzzwell, Stephanie
+ - Holland, Amber
  - Holtby, Taryn
  - Homan, Rachel
  - Iskiw, Beth
@@ -102,20 +111,21 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
+ - Kalenchuk, Heather
  - Kelly, Kim
  - Kleibrink, Shannon
- - Korab, Stephanie
  - Kreviazuk, Alison
  - Larouche, Marie-France
  - Lawes, Kaitlyn
  - LeDrew, Stephanie
  - Lemay, Annie
+ - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacPhee, Robyn
  - Mair, Jessica
  - Martin, Heather
+ - Materi, Roberta
  - McEwen, Dawn
- - Meakin, Breanne
  - Miskew, Emma
  - Moore, Kristie
  - Nedohin, Heather
@@ -128,18 +138,24 @@ vs:
  - Paul, Sarah
  - Peters, Laine
  - Porter, Erin
+ - Robison, Michala
  - Ross, Allison
+ - Schneider, Kim
+ - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shumay, Jill
+ - Slywka, Sarah
  - Smith, Heather
  - Sobey, Lianne
- - Strong, Heather
- - Strong, Laura
  - Udle, Teri
+ - Vey, Lana
+ - Walsh, Jenna
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa
  - Webster, Bronwen
+ - Westcott, Raunora
  - Wilson, Leslie
+ - Wylie, Jennifer
 ---

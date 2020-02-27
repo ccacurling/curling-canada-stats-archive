@@ -363,7 +363,6 @@ vs:
 - Symonds, Andrew
 - Thiessen, Brad
 - Thiessen, Nolan
-- Thomas, Charley
 - Trepanier, Jean-Francois
 - Virtue, Brock
 - Walker, Geoff

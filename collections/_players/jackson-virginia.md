@@ -124,10 +124,8 @@ vs:
  - Gould, Karen
  - Graham, Julie
  - Gudereit, Marcia
- - Gummer, Janet
  - Gushulak, Diane
  - Hanlon, Heidi
- - Henry, Lou Ann
  - Herlinveaux, Louise
  - Horne, Kate
  - Johnstone, Loralee
@@ -163,6 +161,7 @@ vs:
  - McCusker, Joan
  - McDonald, Tina
  - McEdwards, Kathy
+ - McInnis, Susan
  - Messer, Janyce
  - Montgomery, Kay
  - Moore, Linda

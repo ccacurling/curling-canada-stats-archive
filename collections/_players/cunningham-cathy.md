@@ -269,7 +269,6 @@ vs:
  - Alexander, Diane
  - Allardyce, Kathie
  - Allen, Laurie
- - Allen, Michelle
  - Allen, Susan
  - Allerton, Dana
  - Anderson, Sherry
@@ -303,10 +302,10 @@ vs:
  - Bradley, Shelly
  - Breen, Theresa
  - Brennan, Amanda
- - Brothers, Jill
  - Brown, Jacalyn
  - Brown, Janet
  - Brown, Katie
+ - Brown, Maureen
  - Bryant, Angie
  - Burgess, Judy
  - Burlington, Cheryl
@@ -322,7 +321,6 @@ vs:
  - Charette, Agnes
  - Charette, France
  - Clark, Stefanie
- - Clarke, Hayley
  - Cleutinx, Marlene
  - Clinch, Donna
  - Cochrane, Judy
@@ -364,7 +362,6 @@ vs:
  - Fraser, Sherry
  - Freeman, Lisa
  - Frey, Audrey
- - Funk, LaDawn
  - Gagnier, Monique
  - Gagnon, Karo
  - Gagnon, Nathalie
@@ -394,7 +391,6 @@ vs:
  - Harvey, Carol
  - Harvey, Janet
  - Hennigar, Karen
- - Henry, Lou Ann
  - Hensley, Merna
  - Herlinveaux, Louise
  - Hodson, Kim
@@ -403,7 +399,6 @@ vs:
  - Houston, Heather
  - Hunter, Lana
  - Hutton, Barb
- - Inglis, Nancy
  - Iskiw, Beth
  - Jackson, Virginia
  - Jamieson, Shirley
@@ -424,7 +419,6 @@ vs:
  - Kidd, Darlene
  - King, Cathy
  - Kleibrink, Shannon
- - Kuruluk, Kristen
  - Kyle, Linda
  - Lacey, Stacey
  - Laliberte, Connie
@@ -465,6 +459,7 @@ vs:
  - Martin, Sue
  - Massullo, Deb
  - Materi, Roberta
+ - Matheson, Sandy
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
  - McCarville, Krista
@@ -546,6 +541,7 @@ vs:
  - Shields, Deanne
  - Shigehiro, Sally
  - Simmons, Cindy
+ - Simons, Renee
  - Singler, Sherri
  - Skinner, Julie
  - Smith, Heather
@@ -568,7 +564,6 @@ vs:
  - Trider, Krista
  - Tucker, Cindy
  - Turcotte, Kristin
- - Udle, Teri
  - Unrau, Faye
  - Usher, Leanne
  - Vey, Lana

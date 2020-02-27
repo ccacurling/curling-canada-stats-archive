@@ -60,7 +60,6 @@ vs:
  - Bartlett, Sue Anne
  - Betker, Jan
  - Blanchard, Judy
- - Brennan, Ellen
  - Cameron, Nancy
  - Chapman, Kathy
  - Chaulk, Wendy

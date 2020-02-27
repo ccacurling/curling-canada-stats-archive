@@ -177,6 +177,7 @@ vs:
  - Bell, Chelsey
  - Bernard, Cheryl
  - Betker, Jan
+ - Birt, Suzanne
  - Blackburn, Julie
  - Blanchard, Judy
  - Bohmer, Brenda
@@ -213,10 +214,9 @@ vs:
  - Derry, Danielle
  - Deschatelets, Guylaine
  - Devereaux, Julie
- - Dezura, Diane
- - Dillon, Cathy
  - Doig, Deanna
  - Dolan, Kim
+ - Dolan, Sinead
  - Earl, Allison
  - Ellwood, Laurie
  - Englot, Michelle
@@ -246,6 +246,9 @@ vs:
  - Hanna, Jenn
  - Hanna, Stephanie
  - Harding, Mary
+ - Harvey, Alison
+ - Harvey, Carol
+ - Harvey, Janet
  - Hensley, Merna
  - Hill, Trish
  - Homan, Rachel
@@ -256,6 +259,8 @@ vs:
  - Johnstone, Loralee
  - Jones, Colleen
  - Jones, Jennifer
+ - Jones-Walker, Debbie
+ - Karwacki, Krysten
  - Kasner, Marliese
  - Kaylo, Kelly
  - Kehler, Lorie
@@ -265,13 +270,13 @@ vs:
  - Kerr, Kathy
  - King, Cathy
  - King, Shirley
- - Kleibrink, Shannon
  - Koehler, Megan
  - Kuruluk, Kristen
  - Lahucik, Val
  - Laliberte, Connie
  - Lang, Lorraine
  - Law, Kelley
+ - Lawes, Andrea
  - Lawton, Stefanie
  - Leblanc, Lisa
  - Leger, Stacey
@@ -300,11 +305,11 @@ vs:
  - Merklinger, Anne
  - Miskew, Emma
  - More, Chris
+ - Morgan, Cheryl
  - Moses, Dawn
  - Muzika, Shelley
  - Nedohin, Heather
  - Nicholls, Brenda
- - Nichols, Helen
  - Nixon, Amy
  - Officer, Jill
  - O'Leary, Susan
@@ -316,13 +321,12 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Phillips, Laura
- - Poisson, Francine
+ - Porter, Debbie
  - Porter, Erin
  - Potts, Sarah
  - Proctor, Jill
  - Pross, Margaret
  - Prosser, Sandi
- - Provencal, Darah
  - Pruden, Twyla
  - Purdy, Karen
  - Pushkar, Diane
@@ -359,7 +363,6 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Sutton, Jodie
- - Taylor, Gloria
  - Thiessen, Alison
  - Thomas, Karen
  - Thomas, Maria
@@ -372,6 +375,7 @@ vs:
  - Weagle, Lisa
  - Westcott, Raunora
  - Wheatcroft, Georgina
+ - Whitaker, Carol
  - Whitrow, Leanne
  - Wilkes, Sarah
  - Willms, Karri

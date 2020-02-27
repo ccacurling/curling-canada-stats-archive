@@ -48,7 +48,6 @@ vs:
  - Englot, Michelle
  - Fahlman, Kathy
  - Floyd, Kathy
- - Gabriele, Elena
  - Goring, Alison
  - Green, Sue
  - Greening, Jackie-Rae
@@ -65,6 +64,7 @@ vs:
  - McPherson, Cheryl
  - Moses, Dawn
  - Muzika, Shelley
+ - Nelthorpe, Sally
  - Overton, Kim
  - Poisson, Francine
  - Porter, Debbie

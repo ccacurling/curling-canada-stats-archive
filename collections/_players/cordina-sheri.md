@@ -143,6 +143,7 @@ vs:
 - Bradley, Shelly
 - Brown, Jacalyn
 - Burlington, Cheryl
+- Cameron, Nancy
 - Carter, Sasha
 - Cooke, Gerri
 - Cormier, Sharon
@@ -175,10 +176,10 @@ vs:
 - Gudereit, Marcia
 - Gushulak, Diane
 - Hanlon, Heidi
-- Harding, Mary
 - Harrison, Meredith
 - Harvey, Alison
 - Hodson, Kim
+- Holden, Anna-Mae
 - Holland, Amber
 - Holowec, Ainsley
 - Horne, Kate

@@ -135,6 +135,7 @@ vs:
 - Bernard, Cheryl
 - Betker, Jan
 - Birt, Suzanne
+- Bradley, Shelly
 - Brothers, Jill
 - Brown, Jacalyn
 - Burgess, Carey
@@ -142,6 +143,7 @@ vs:
 - Cameron, Nancy
 - Carmody, Erin
 - Carter, Sasha
+- Charette, France
 - Clark, Stefanie
 - Clarke, Hayley
 - Comeau, Martine
@@ -160,7 +162,6 @@ vs:
 - Enright, Barb
 - Gagnier, Monique
 - Galusha, Kerry
-- Georges, Kendra
 - Gilman, Sheena
 - Goss, Peg
 - Gudereit, Marcia
@@ -171,7 +172,7 @@ vs:
 - Holland, Amber
 - Hollands, Saskia
 - Inglis, Nancy
-- Iskiw, Beth
+- Jewer, Michelle
 - Jones, Colleen
 - Jones, Jennifer
 - Kalenchuk, Heather
@@ -198,11 +199,11 @@ vs:
 - McCagg-Nystrom, Heather
 - McConnery, Nancy
 - McEwen, Dawn
-- McInnis, Susan
 - More, Whitney
 - Morgan, Cheryl
 - Morris, Cori
 - Moses, Dawn
+- Muise, Morgan
 - Murphy, Jeanette
 - Muzika, Shelley
 - Naugler, Tara
@@ -226,6 +227,7 @@ vs:
 - Richards, Brette
 - Ridalls, Kristen
 - Robertson, Darcy
+- Rocque, Raylene
 - Rogers, Rhonda
 - Rudulier, Andrea
 - Sabourin, Joelle
@@ -249,6 +251,7 @@ vs:
 - Vey, Lana
 - Webster, Bronwen
 - Webster, Crystal
+- Westcott, Raunora
 - Wheatcroft, Georgina
 - Whitaker, Carol
 - Wilson, Leslie

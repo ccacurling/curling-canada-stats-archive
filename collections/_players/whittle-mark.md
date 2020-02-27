@@ -78,7 +78,7 @@ vs:
 - Charette, Pierre
 - Cursons, Neil
 - Dauphinee, Andrew
-- Engel, Ron
+- Fenton, Darin
 - Fenton, Keith
 - Ferbey, Randy
 - Fetterly, Tom
@@ -110,7 +110,6 @@ vs:
 - Mead, Jonathan
 - Meakin, Rob
 - Middaugh, Wayne
-- Miki, Bryan
 - Moffatt, Rich
 - Morris, John
 - Nedohin, David
@@ -118,6 +117,7 @@ vs:
 - O'Rourke, Mark
 - Odishaw, Grant
 - Park, Kevin
+- Park, Shane
 - Paslawski, Pat
 - Patterson, Scott
 - Peddigrew, Ken

@@ -184,13 +184,13 @@ vs:
  - Bohmer, Brenda
  - Bonar, Maureen
  - Bowering, Andrea
- - Bowes, Diane
  - Bradley, Shelly
  - Breen, Theresa
  - Brown, Katie
  - Brown, Marcie
  - Bryant, Angie
  - Burry, Gail
+ - Butler, Donna
  - Byers, Denise
  - Cameron, Nancy
  - Campbell, Gloria
@@ -200,6 +200,7 @@ vs:
  - Charette, Agnes
  - Charette, France
  - Chaulk, Wendy
+ - Chicoine, Helene
  - Clark, Kim
  - Combden, Cathy
  - Cooke, Gerri
@@ -219,7 +220,6 @@ vs:
  - Delahunt, Nancy
  - Deschatelets, Guylaine
  - Dezura, Diane
- - Dillon, Cathy
  - Dolan, Kim
  - Duck, Kim
  - Dunn, Anne
@@ -238,13 +238,11 @@ vs:
  - Freeman, Lisa
  - Frey, Audrey
  - Gabriele, Elena
- - Gagnon, Karo
  - Gagnon, Nathalie
  - Gallant, Kathie
  - Gauthier, Cathy
  - Gervais, Donna
  - Gignac, Donna
- - Girard, Sylvie
  - Goring, Alison
  - Goss, Peg
  - Gould, Karen
@@ -252,9 +250,7 @@ vs:
  - Green, Sue
  - Greening, Jackie-Rae
  - Greenwood, Jill
- - Gregoire, Veronique
  - Gudereit, Marcia
- - Gushulak, Diane
  - Harrison, Meredith
  - Harvey, Janet
  - Hatton, Sandra
@@ -286,13 +282,11 @@ vs:
  - Laliberte, Connie
  - Lang, Lorraine
  - Lange, Ann
- - Larouche, Marie-France
  - Law, Kelley
  - Lawes, Andrea
  - Lawrence, Margaret
  - Leblanc, Lisa
  - Leclerc, Valerie
- - L'Ecuyer, Josee
  - Lemay, Annie
  - Linton, Sherry
  - MacAulay, Marion
@@ -351,7 +345,6 @@ vs:
  - Purdy, Karen
  - Rankin, Beth
  - Rankin, Heather
- - Reed, Shellan
  - Renouf, Michele
  - Ridley, Terry
  - Robertson, Darcy
@@ -365,6 +358,7 @@ vs:
  - Santos, Deb
  - Sauer, Cathy
  - Savill, Jarron
+ - Scales, Julie
  - Schmirler, Sandra
  - Schneider, Sheila
  - Scott, Donna
@@ -385,7 +379,6 @@ vs:
  - Strong, Heather
  - Sutton, Jodie
  - Taylor, Candy
- - Taylor, Gloria
  - Thomas, Karen
  - Thompson, Carol
  - Todd, Fran

@@ -108,7 +108,6 @@ vs:
  - Bennett, Connie
  - Blanchard, Judy
  - Bond, Arlene
- - Boudreault, Tracie
  - Bradley, Diane
  - Bradley, Shelly
  - Buckway, Beverly
@@ -129,13 +128,11 @@ vs:
  - Cunliffe, Donna
  - Currie, Ann
  - Currie, Barbara
- - Daniel, Sylvie
  - Davis, Carol
  - Day, Arleen
  - Delahunt, Nancy
  - Derick, Catherine
  - Deschatelets, Guylaine
- - Dezura, Diane
  - Earl, Allison
  - Englot, Michelle
  - Farrell, Allison
@@ -154,8 +151,6 @@ vs:
  - Greenwood, Jill
  - Hamilton, Beth
  - Hanlon, Heidi
- - Hanna, Jenn
- - Hanna, Stephanie
  - Haspect, Ginette
  - Hastings, Sharon
  - Hepper, Dorothy
@@ -175,6 +170,7 @@ vs:
  - Kehler, Lorie
  - Kelly, Anita
  - Kelly, Kim
+ - Kennedy, Tracy
  - King, Cathy
  - King, Shirley
  - Kuruluk, Kristen
@@ -184,16 +180,13 @@ vs:
  - Lawton, Stefanie
  - Leahy, Anne
  - Leger, Stacey
- - Letendre, Pascale
  - MacDonald, Irene
  - MacDonald, Rebecca Jean
- - Mackin, Marion
  - MacPhee, Robyn
  - Marchuk, Lindy
  - Martineau, Donna
  - McCagg-Nystrom, Heather
  - McCarville, Susan
- - McEwen, Dawn
  - McGeary, Lori
  - McInnis, Susan
  - McIntee, Karen
@@ -209,7 +202,6 @@ vs:
  - O'Leary, Susan
  - Olson-Johns, Lori
  - O'Rourke, Kathy
- - Osborne, Chantal
  - Ouellet, Louise
  - Overton-Clapham, Cathy
  - Parker, Barbara
@@ -245,7 +237,6 @@ vs:
  - Stricker, Joan
  - Strong, Heather
  - Strong, Laura
- - Taylor, Gloria
  - Thomas, Karen
  - Thompson, Carol
  - Thompson, Gillian

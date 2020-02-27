@@ -137,7 +137,6 @@ years:
 vs:
 - Adams, Diane
 - Affleck, Tricia
-- Anderson, Kelly
 - Anderson, Sherry
 - Arnott, Janet
 - Arsenault, Mary-Anne
@@ -165,6 +164,7 @@ vs:
 - Brown, Janet
 - Burgess, Judy
 - Campbell, June
+- Carter, Linda
 - Chapman, Kathy
 - Cleutinx, Marlene
 - Clinch, Donna
@@ -174,9 +174,11 @@ vs:
 - Cunningham, Cathy
 - Daku, Karen
 - Darbyshire, Carolyn
+- Davis, Carol
 - Delahunt, Nancy
 - Dobson, Sue
 - Englot, Michelle
+- Farrell, Allison
 - Fast, Lois
 - Fisher, Alana
 - Floyd, Kathy
@@ -190,12 +192,12 @@ vs:
 - Gignac, Donna
 - Gogan, Jennifer
 - Goss, Peg
+- Greenwood, Jill
 - Gregoire, Veronique
 - Grenier, Valerie
 - Gushulak, Diane
 - Handfield, Simone
 - Hanlon, Heidi
-- Harding, Mary
 - Harrison, Meredith
 - Harvey, Alison
 - Hatton, Sandra
@@ -207,6 +209,7 @@ vs:
 - Horne, Kate
 - Horte, Rhonda
 - Houston, Heather
+- Hunt, Donna
 - Hunter, Lana
 - Iskiw, Beth
 - Jamieson, Shirley
@@ -219,6 +222,7 @@ vs:
 - Kennedy, Tracy
 - Kerr, Kathy
 - King, Cathy
+- King, Shirley
 - Kleibrink, Shannon
 - Laliberte, Connie
 - Lang, Lorraine
@@ -238,7 +242,6 @@ vs:
 - Martin, Sue
 - Massullo, Deb
 - Materi, Roberta
-- Mattatall, Mary
 - McCagg-Nystrom, Heather
 - McDermott, Karen
 - McDonald, Tina
@@ -251,7 +254,6 @@ vs:
 - Middaugh, Sherry
 - Montgomery, Kay
 - Moore, Kristie
-- Moriarty, Monica
 - Moss, Debbie
 - Moyaert, June
 - Mulroney, Sandra
@@ -260,6 +262,7 @@ vs:
 - Nicholson, Terry
 - Nixon, Amy
 - O'Leary, Susan
+- Overton-Clapham, Cathy
 - Peters, Laine
 - Phillips, Margaret Lea
 - Pinkney, Colleen
@@ -270,16 +273,17 @@ vs:
 - Ramsay, Jennifer
 - Renouf, Michele
 - Rintoul, Jacki
+- Rudd, Colleen
 - Sabourin, Joelle
 - Sanders, Pat
 - Sandison, Janice
 - Scott, Donna
 - Sharpe, Kelli
 - Smith, Heather
+- Smith, Yvonne
 - Sonnenberg, Renee
 - Stabel, Stacey
 - Stahl, Carrie
-- Stewart, Allyson
 - Stewart, Sheri
 - Stokes, Debbie
 - Stricker, Joan
@@ -287,7 +291,7 @@ vs:
 - Strong, Laura
 - Tasaka, Adina
 - Thomas, Maria
-- Thurston, Jill
+- Todd, Fran
 - Wall, Kirsten
 - Walter, Cathy
 - Webster, Bronwen

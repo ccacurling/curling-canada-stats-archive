@@ -44,7 +44,7 @@ vs:
  - Bailey, Scott
  - Bartlett, Don
  - Burtnyk, Kerry
- - Engel, Ron
+ - Fenton, Darin
  - Fenton, Keith
  - Ferbey, Randy
  - Frans, Joseph
@@ -59,11 +59,11 @@ vs:
  - Mead, Jon
  - Meakin, Rob
  - Middaugh, Wayne
- - Miki, Bryan
  - Morris, John
  - Nedohin, David
  - Odishaw, Grant
  - Park, Kevin
+ - Park, Shane
  - Pfeifer, Scott
  - Pierce, Brent
  - Rocque, Marcel

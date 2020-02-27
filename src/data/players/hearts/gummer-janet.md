@@ -36,8 +36,8 @@ years:
    shots-total: 18
    shots-percent: 76
 vs:
- - Cutcliffe, Margaret
- - Hutchinson, Joan
- - Jackson, Sherry
- - Jackson, Virginia
+ - Cameron, Nancy
+ - Dolan, Kim
+ - Jones, Karen
+ - Muzika, Shelley
 ---

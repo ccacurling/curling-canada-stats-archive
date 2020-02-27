@@ -84,6 +84,7 @@ vs:
 - Currie, Barbara
 - Currie, Wendy
 - Deschatelets, Guylaine
+- Dezura, Diane
 - Earl, Allison
 - Englot, Michelle
 - Flesjer, Melody

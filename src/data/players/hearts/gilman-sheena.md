@@ -54,13 +54,13 @@ years:
    shots-percent: 70
 vs:
  - Affleck, Tricia
- - Aleksic, Shannon
  - Armstrong, Jacquie
  - Babin, Jillian
  - Barbour, Shona
  - Belanger, Nancy
  - Belisle, Eve
  - Bernard, Cheryl
+ - Bradley, Shelly
  - Brown, Jacalyn
  - Carmody, Erin
  - Carter, Sasha
@@ -80,7 +80,6 @@ vs:
  - Gushulak, Diane
  - Hardy, Shelley
  - Holland, Amber
- - Jewer, Michelle
  - Jones, Jennifer
  - Kalenchuk, Heather
  - Kasner, Marliese
@@ -98,6 +97,7 @@ vs:
  - MacPhee, Robyn
  - Makichuck, Lindsay
  - Mallett, Marla
+ - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McEwen, Dawn
  - More, Whitney
@@ -112,6 +112,7 @@ vs:
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
  - Phillips, Kristen
+ - Potts, Sarah
  - Rainville, Julie
  - Ramsay, Geri Lynn
  - Richards, Brette
@@ -128,9 +129,9 @@ vs:
  - Spencer, Barb
  - Strong, Heather
  - Strong, Laura
- - Surik, Teejay
  - Sweeting, Val
  - Thurston, Jill
  - Vey, Lana
+ - Westcott, Raunora
  - Wilson, Leslie
 ---

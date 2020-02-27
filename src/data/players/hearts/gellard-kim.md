@@ -169,8 +169,8 @@ vs:
  - Strong, Heather
  - Tanner, Allison
  - Tincher, Twyla
+ - Train, Mona
  - Tucker, Cindy
- - Whipple, Paula
  - Wieler, Bev
  - Wright, Susan
  - Zielke, Colleen

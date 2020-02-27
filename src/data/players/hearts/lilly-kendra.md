@@ -73,22 +73,20 @@ vs:
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Atkinson, Rebecca
- - Baldwin, Nicole
- - Barbour, Shona
  - Barker, Penny
  - Belisle, Eve
- - Birnie, Hailey
  - Birt, Suzanne
- - Blais, Amelie
  - Blaney, Jennifer
  - Bodner, Jenine
  - Boudreault, Patricia
  - Boyle, Jane
+ - Brine, Jenn
  - Brothers, Jill
  - Brown, Rachel
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
+ - Carmody, Erin
  - Christianson, Marie
  - Cormier, Sharon
  - Courtney, Joanne
@@ -103,12 +101,11 @@ vs:
  - Englot, Michelle
  - Eyamie, Lisa
  - Ferguson, Dana
+ - Fleury, Tracy
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
  - Griffin, Alison
- - Guzzwell, Stephanie
- - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
@@ -117,18 +114,16 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
- - Ingram, Megan
- - Jewer, Michelle
  - Jones, Jennifer
  - Joyce, Blisse
  - Kleibrink, Shannon
  - Koehler, Megan
- - Koltun, Sarah
  - Larouche, Marie-France
  - Lavery, Tracey
  - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
+ - Lemay, Annie
  - MacCuish, Kristin
  - MacPhee, Robyn
  - Mallett, Marla
@@ -142,12 +137,14 @@ vs:
  - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - O'Connor, Susan
  - Officer, Jill
  - O'Neill, Brit
  - O'Rourke, Brittany
  - Peterman, Jocelyn
  - Peters, Laine
  - Pilote, Kristen
+ - Pinksen, Sadie
  - Porter, Erin
  - Rainville, Julie
  - Recksiedler, Kristen
@@ -159,15 +156,11 @@ vs:
  - Sandwith, Carley
  - Saulnier, Andrea
  - Schneider, Lorraine
- - Sharpe, Kelli
- - Shaw, Ladene
  - Sicinski, Danielle
  - Silvernagle, Robyn
- - Strong, Helen
  - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla
- - Tran, Brittany
  - Trickett, Erica
  - Udle, Teri
  - Vandale, Trysta

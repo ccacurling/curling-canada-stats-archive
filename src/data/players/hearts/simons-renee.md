@@ -91,6 +91,7 @@ vs:
  - Aleksic, Shannon
  - Arnott, Janet
  - Arsenault, Mary-Anne
+ - Baldwin, Nicole
  - Belanger, Nancy
  - Belisle, Eve
  - Bell, Chelsey
@@ -103,11 +104,13 @@ vs:
  - Burgess, Carey
  - Bush, Tracy
  - Cameron, Nancy
+ - Carrier, Julie
  - Clark, Stefanie
  - Clarke, Hayley
  - Comeau, Martine
  - Comeau, Sandy
  - Crawford, Andrea
+ - Cunningham, Cathy
  - Daniel, Sylvie
  - Darbyshire, Carolyn
  - Delahunt, Nancy
@@ -120,6 +123,7 @@ vs:
  - Galusha, Kerry
  - Gauthier, Cathy
  - George, Tara
+ - Goss, Peg
  - Gudereit, Marcia
  - Hamilton, Beth
  - Hanna, Jenn
@@ -163,8 +167,11 @@ vs:
  - Morris, Cori
  - Moses, Dawn
  - Muise, Morgan
+ - Murphy, Jeanette
  - Nicholls, Brenda
+ - Nicholson, Danielle
  - Nixon, Amy
+ - Nowlan, Denise
  - Nugent, Pamela
  - O'Connor, Susan
  - Officer, Jill
@@ -173,9 +180,12 @@ vs:
  - Osborne, Chantal
  - Overton-Clapham, Cathy
  - Peters, Laine
+ - Power, Marie-Anne
  - Prosser, Sandi
  - Provencal, Darah
+ - Richard, Marie
  - Ridalls, Kristen
+ - Robichaud, Sylvie
  - Rocque, Raylene
  - Ross, Allison
  - Rudulier, Andrea
@@ -183,7 +193,6 @@ vs:
  - Sharpe, Kelli
  - Simmons, Cindy
  - Singler, Sherri
- - Smith, Nikki
  - Streifel, Tracy
  - Strong, Heather
  - Strong, Laura

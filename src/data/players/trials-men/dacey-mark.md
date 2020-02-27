@@ -36,6 +36,7 @@ years:
    shots-total: 161
    shots-percent: 74
 vs:
+ - Adam, Mike
  - Adams, Shawn
  - Bartlett, Don
  - Burgess, Craig

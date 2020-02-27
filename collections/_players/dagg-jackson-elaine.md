@@ -56,24 +56,8 @@ years:
    team: "BC"
    position: Alternate
 vs:
- - Allardyce, Kathie
- - Bartlett, Sue Anne
- - Brown, Marcie
- - Combden, Cathy
- - Dillon, Cathy
- - Dolan, Kim
- - Ellwood, Laurie
- - Johnstone, Loralee
- - Law, Kelley
- - Leblanc, Lisa
- - MacAulay, Marion
- - McArdle, Cindy
- - McInnis, Susan
- - Moses, Dawn
- - Nichols, Helen
- - Overton-Clapham, Cathy
- - Proctor, Jill
- - Sauer, Cathy
- - Stokes, Debbie
- - Walker, Lisa
+ - Charette, Agnes
+ - Charette, France
+ - Daniel, Sylvie
+ - Osborne, Chantal
 ---

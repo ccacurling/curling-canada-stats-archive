@@ -92,21 +92,19 @@ vs:
  - Anderson, Sherry
  - Atkinson, Rebecca
  - Baier, Stephanie
- - Baldwin, Nicole
- - Barbour, Shona
  - Barker, Penny
  - Belisle, Eve
- - Birnie, Hailey
  - Birt, Suzanne
- - Blais, Amelie
  - Blaney, Jennifer
  - Bodner, Jenine
  - Boudreault, Patricia
  - Boyle, Jane
+ - Brine, Jenn
  - Brothers, Jill
  - Brown, Rachel
  - Cameron, Kate
  - Campbell, Jolene
+ - Carmody, Erin
  - Christianson, Marie
  - Cooper, Kathryn
  - Cormier, Sharon
@@ -118,6 +116,7 @@ vs:
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - Daigle, Julie
+ - Davies, Lisa
  - deJager, Blaine
  - Derry, Danielle
  - deSolla, Jodie
@@ -131,14 +130,13 @@ vs:
  - Eyamie, Lisa
  - Ferguson, Dana
  - Flaxey, Allison
+ - Fleury, Tracy
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
  - Gannon, Melissa
  - Gates, Jenny
  - Griffin, Alison
- - Guzzwell, Stephanie
- - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
@@ -148,7 +146,6 @@ vs:
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Ingram, Megan
- - Jewer, Michelle
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese
@@ -176,6 +173,7 @@ vs:
  - Miskew, Emma
  - Munroe, Anna
  - Murphy, Sarah
+ - Nedohin, Heather
  - Njegovan, Selena
  - Nicholls, Brenda
  - Nugent, Pamela
@@ -185,8 +183,10 @@ vs:
  - Parsons, Danielle
  - Peterman, Jocelyn
  - Pilote, Kristen
+ - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
+ - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
@@ -199,8 +199,6 @@ vs:
  - Sandwith, Carley
  - Saulnier, Andrea
  - Schneider, Lorraine
- - Sharpe, Kelli
- - Shaw, Ladene
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sinclair, Andrea
@@ -208,13 +206,11 @@ vs:
  - Sippala, Ashley
  - Smith, Heather
  - Strong, Heather
- - Strong, Helen
  - Strong, Laura
  - Sweeting, Val
  - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla
- - Tran, Brittany
  - Trickett, Erica
  - Udle, Teri
  - Vandale, Trysta

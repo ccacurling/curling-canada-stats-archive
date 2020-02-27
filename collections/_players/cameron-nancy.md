@@ -187,26 +187,23 @@ vs:
  - Armstrong, Jacquie
  - Arnott, Janet
  - Arsenault, Mary-Anne
+ - Arseneau, Jane
  - Asham, Sandra
- - Atkinson, Rebecca
  - Aucoin, Shelley
  - Augustyn, Jan
- - Babin, Jillian
+ - Baker, Michelle
  - Baker, Rose-Marie
- - Bakker, Glenys
- - Balderston, Marcy
- - Barbour, Shona
  - Belisle, Eve
  - Bell, Allyson
  - Betker, Jan
  - Blair, Diane
- - Blais, Amelie
  - Blanchard, Judy
  - Bodogh, Marilyn
  - Bonar, Maureen
  - Bowering, Andrea
  - Breen, Theresa
  - Brophy, Cathy
+ - Brown, Janet
  - Brown, Katie
  - Bryant, Angie
  - Burgess, Carey
@@ -220,11 +217,11 @@ vs:
  - Comeau, Sandy
  - Copeland, Rae Ann
  - Corbin, Nicole
+ - Cordina, Sheri
  - Cormier, Sharon
  - Crawford, Andrea
  - Crocker, Cindy
  - Cunningham, Cathy
- - Cunningham, Jennifer
  - Cutcliffe, Margaret
  - Dalio, Diane
  - Daniel, Sylvie
@@ -236,8 +233,8 @@ vs:
  - Ellwood, Laurie
  - Englot, Michelle
  - Fahlman, Kathy
+ - Farrell, Allison
  - Ferland, Marie
- - Filteau, Anne-Marie
  - Flannigan, Lorraine
  - Fleury, Tracy
  - Floyd, Kathy
@@ -245,7 +242,6 @@ vs:
  - Fowler, Rhonda
  - Frey, Audrey
  - Gagnier, Monique
- - Gagnon, Karo
  - Galusha, Kerry
  - Gates, Amanda
  - Gauthier, Cathy
@@ -256,16 +252,17 @@ vs:
  - Gould, Karen
  - Graham-MacDonald, Bea
  - Greening, Jackie-Rae
- - Gregoire, Veronique
  - Gudereit, Marcia
+ - Gummer, Janet
  - Hanlon, Heidi
  - Harding, Mary
  - Hardy, Shelley
+ - Harvey, Alison
  - Harvey, Janet
  - Hensley, Merna
  - Herlinveaux, Louise
- - Holland, Amber
  - Hollands, Saskia
+ - Holowec, Ainsley
  - Houston, Heather
  - Hutchinson, Joan
  - Iskiw, Beth
@@ -276,26 +273,21 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Jurgenson, Christine
- - Kalenchuk, Heather
  - Kaylo, Kelly
  - Kelly, Kim
  - Kerr, Kathy
  - King, Cathy
  - Kleibrink, Shannon
- - Koehler, Megan
- - Korab, Stephanie
  - Laliberte, Connie
  - Lang, Lorraine
- - Larouche, Marie-France
+ - Lawes, Andrea
  - Lawes, Kaitlyn
  - Lawrence, Margaret
- - Lemay, Annie
  - Lidgren, Anna
  - Loder, Cherie-Ann
  - MacDiarmid, Kristen
  - MacKenzie, Doris
  - Mair, Jessica
- - Marchand, Stephanie
  - Marchuk, Lindy
  - Martin, Heather
  - Massullo, Deb
@@ -315,12 +307,11 @@ vs:
  - McPherson, Cheryl
  - Merklinger, Anne
  - Messer, Janyce
+ - Middaugh, Sherry
  - Montgomery, Kay
  - Moss, Debbie
  - Muise, Morgan
  - Nedohin, Heather
- - Nicholls, Brenda
- - Nixon, Amy
  - Nowlan, Denise
  - Nugent, Pamela
  - Officer, Jill
@@ -335,12 +326,13 @@ vs:
  - Perron, Leanne
  - Peters, Laine
  - Phillips, Laura
- - Poisson, Francine
+ - Power, Marie-Anne
  - Proctor, Jill
  - Pross, Margaret
  - Purdy, Karen
  - Pushkar, Diane
  - Putland, Rose
+ - Radchenka, Tammy
  - Rankin, Heather
  - Ridalls, Kristen
  - Roberts, Angela
@@ -348,12 +340,11 @@ vs:
  - Rocque, Raylene
  - Rudulier, Andrea
  - Sanders, Pat
+ - Sandison, Janice
  - Santos, Deb
  - Savill, Jarron
  - Schmirler, Sandra
- - Schneider, Kim
  - Schneider, Sheila
- - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Donna
  - Scott, Kelly
@@ -366,6 +357,7 @@ vs:
  - Slywka, Sarah
  - Smith, Heather
  - Soligo, Melissa
+ - Stabel, Stacey
  - Stewart, Sheri
  - Stokes, Debbie
  - Streifel, Tracy
@@ -390,5 +382,6 @@ vs:
  - Wright, Joanne
  - Wright, Susan
  - Wylie, Jennifer
+ - Young, Karen
  - Zinck, Kay
 ---

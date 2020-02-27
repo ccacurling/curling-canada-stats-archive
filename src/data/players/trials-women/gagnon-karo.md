@@ -81,7 +81,7 @@ vs:
  - Carter, Sasha
  - Cordina, Sheri
  - Delahunt, Nancy
- - Gatchell, Sara
+ - Flinn-Burton, Jayne
  - Gignac, Donna
  - Gudereit, Marcia
  - Hodson, Kim

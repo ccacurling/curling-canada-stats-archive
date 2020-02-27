@@ -78,7 +78,6 @@ vs:
  - Cotter, Jim
  - Dacey, Mark
  - Engel, Ron
- - Fenton, Brad
  - Fenton, Keith
  - Ferbey, Randy
  - Flemming, Paul
@@ -104,7 +103,6 @@ vs:
  - Koe, Kevin
  - Korab, Jamie
  - Laing, Brent
- - Leech, Ron
  - Loevenmark, Phil
  - Lohnes, Bruce
  - MacDonald, Blake
@@ -128,11 +126,9 @@ vs:
  - Park, Kerry
  - Park, Kevin
  - Patterson, Scott
- - Peachey, Jay
  - Perroud, Pat
  - Pfeifer, Scott
  - Pierce, Brent
- - Recksiedler, Kevin
  - Rocque, Marcel
  - Rogers, Les
  - Ryan, Jeff

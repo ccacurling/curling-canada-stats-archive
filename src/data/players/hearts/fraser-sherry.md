@@ -106,8 +106,7 @@ vs:
  - Anderson, Sherry
  - Arnott, Janet
  - Arseneau, Jane
- - Atkinson, Rebecca
- - Babin, Jillian
+ - Barbour, Shona
  - Betker, Jan
  - Beveridge, Corie
  - Bodogh, Marilyn
@@ -118,16 +117,16 @@ vs:
  - Campbell, June
  - Charette, France
  - Cormier, Sharon
- - Crawford, Andrea
  - Crispo, Guylaine
  - Cunningham, Cathy
  - Daniel, Sylvie
  - Delahunt, Nancy
  - Derick, Catherine
- - deSolla, Jodie
  - Dolan, Kim
  - Eddy, Lori
  - Floyd, Kathy
+ - Funk, LaDawn
+ - Galusha, Kerry
  - Gauthier, Cathy
  - Gellard, Kim
  - Gignac, Donna
@@ -140,6 +139,7 @@ vs:
  - Harvey, Carol
  - Harvey, Janet
  - Henry, Lou Ann
+ - Holland, Amber
  - Hooper Perroud, Jane
  - Horne, Kate
  - Jackson, Virginia
@@ -147,13 +147,18 @@ vs:
  - Jesty, Janet
  - Johnstone, Loralee
  - Jones, Colleen
+ - Jones, Jennifer
  - Jones-Walker, Debbie
+ - Joyce, Blisse
+ - Kalenchuk, Heather
  - Kaylo, Kelly
  - Kelly, Kim
  - Kerr, Kathy
  - King, Cathy
+ - Koehler, Megan
  - Kyle, Linda
  - Laliberte, Connie
+ - Lawes, Kaitlyn
  - Leblanc, Lisa
  - MacAulay, Marion
  - MacDonald, Rebecca Jean
@@ -162,19 +167,25 @@ vs:
  - McConnery, Nancy
  - McCrady, Christine
  - McCusker, Joan
+ - McEwen, Dawn
+ - McInnis, Susan
  - Montgomery, Kay
  - Moore, Kim
  - Moses, Dawn
  - Moss, Debbie
- - Murphy, Jeanette
  - Nedohin, Heather
+ - Officer, Jill
  - Ondrack, Wendy
  - Osborne, Chantal
  - Overton-Clapham, Cathy
+ - Parsons, Danielle
  - Phillips, Laura
  - Radford, Helen
  - Sabourin, Joelle
  - Schmirler, Sandra
- - Shields, Deanne
+ - Schneider, Kim
+ - Schneider, Tammy
+ - Smith, Heather
  - Stokes, Debbie
+ - Udle, Teri
 ---

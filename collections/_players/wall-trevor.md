@@ -79,12 +79,14 @@ vs:
 - Fawcett, Brian
 - Fenton, Brad
 - Ferbey, Randy
+- Forrest, Tyler
 - Gagnon, Steeve
 - Gaudet, Mike
 - Gibson, Andrew
 - Golanowski, Rory
 - Gordon, Robbie
 - Grattan, James
+- Gunnlaugson, Jason
 - Gushue, Brad
 - Hardy, Gord
 - Harris, Rob
@@ -108,6 +110,7 @@ vs:
 - Peachy, Jay
 - Pfeifer, Scott
 - Recksiedler, Kevin
+- Richter, Justin
 - Rocque, Marcel
 - Roy, Jean-Sebastien
 - Scales, Brent
@@ -116,4 +119,5 @@ vs:
 - Trevellyan, Todd
 - Ward, Mark
 - Wasnea, Brian
+- Zawada, Braden
 ---

@@ -390,7 +390,6 @@ vs:
  - Bohmer, Brenda
  - Bonar, Maureen
  - Bond, Arlene
- - Boudreault, Tracie
  - Bowman, Mary
  - Bradley, Diane
  - Bradley, Shelly
@@ -454,7 +453,6 @@ vs:
  - deSolla, Jodie
  - Dezura, Diane
  - Dickeson, Debbi
- - Dillon, Cathy
  - Dobson, Sue
  - Dolan, Kim
  - Donald, Grace
@@ -484,7 +482,6 @@ vs:
  - Fortier, Marie-Josee
  - Fortin, Sylvie
  - Fowler, Lois
- - Fowler, Rhonda
  - Fraser, Sherry
  - Freeman, Lisa
  - Frey, Audrey
@@ -570,7 +567,6 @@ vs:
  - Koehler, Megan
  - Kreviazuk, Alison
  - Kuruluk, Kristen
- - Lacey, Stacey
  - Laliberte, Connie
  - Lang, Lorraine
  - Lange, Ann
@@ -604,7 +600,6 @@ vs:
  - MacDonald, Shelley
  - MacDougall, Leslie
  - MacKay, Carolyn
- - Mackin, Marion
  - MacKenzie, Doris
  - MacNutt, Shelley
  - MacPhee, Robyn
@@ -663,7 +658,6 @@ vs:
  - Naugler, Tara
  - Nedohin, Heather
  - Nicholls, Brenda
- - Nichols, Helen
  - Nixon, Amy
  - Nohr, Dianne
  - Nowlan, Denise
@@ -687,7 +681,6 @@ vs:
  - Phillips, Laura
  - Phillips, Margaret Lea
  - Pinkney, Colleen
- - Poisson, Francine
  - Porter, Debbie
  - Porter, Erin
  - Potvin, Gisele
@@ -766,7 +759,6 @@ vs:
  - Tanner, Ros
  - Tasaka, Adina
  - Taylor, Candy
- - Taylor, Gloria
  - Thomas, Karen
  - Thomas, Maria
  - Thompson, Carol

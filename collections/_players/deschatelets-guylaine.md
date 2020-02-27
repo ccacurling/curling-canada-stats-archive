@@ -109,13 +109,13 @@ vs:
  - Anderson, Kelly
  - Armstrong, Iris
  - Arnott, Janet
+ - Aulenback, Wanda
  - Barker, Catherine
  - Bennett, Connie
  - Bildfell, Shelly
  - Blanchard, Judy
  - Bonar, Maureen
  - Bothwell-Myers, Connie
- - Boudreault, Tracie
  - Brawley, Sandra
  - Carney, Laurie
  - Carr, Judy
@@ -150,7 +150,6 @@ vs:
  - Jones, Colleen
  - Jones-Gordon, Barb
  - Jones-Walker, Debbie
- - Jurgenson, Christine
  - Kane, Cynthia
  - Kaylo, Kelly
  - Keays, Stella

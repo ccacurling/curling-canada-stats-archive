@@ -89,7 +89,6 @@ vs:
  - Jackson, Virginia
  - Jenkins, Sandra
  - Jones-Walker, Debbie
- - Jurgenson, Christine
  - Keays, Stella
  - Kerr, Heather
  - Knickle, Margie

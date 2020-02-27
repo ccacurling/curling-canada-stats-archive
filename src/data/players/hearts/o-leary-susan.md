@@ -96,6 +96,8 @@ vs:
  - Allen, Michelle
  - Arnott, Janet
  - Arsenault, Mary-Anne
+ - Arseneau, Jane
+ - Balderston, Marcy
  - Belanger, Nancy
  - Belisle, Eve
  - Bell, Chelsey
@@ -122,6 +124,7 @@ vs:
  - Derick, Catherine
  - deSolla, Jodie
  - Dezura, Diane
+ - Englot, Michelle
  - Farrell, Allison
  - Floyd, Kathy
  - Fortier, Marie-Josee
@@ -133,7 +136,6 @@ vs:
  - Gudereit, Marcia
  - Hanna, Jenn
  - Hanna, Stephanie
- - Harding, Mary
  - Harrison, Meredith
  - Harvey, Alison
  - Harvey, Janet
@@ -143,6 +145,7 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Kasner, Marliese
+ - Kehler, Lorie
  - Kelly, Kim
  - King, Cathy
  - Lang, Lorraine
@@ -153,17 +156,20 @@ vs:
  - Leger, Stacey
  - Lemay, Annie
  - Letendre, Pascale
- - Linton, Sherry
  - Loder, Cherie-Ann
  - MacDiarmid, Kristen
  - MacDonald, Rebecca Jean
  - MacDonald, Shelley
+ - MacDougall, Leslie
  - MacPhee, Robyn
+ - Materi, Roberta
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
  - McCarville, Krista
+ - McDonald, Tina
  - McEwen, Dawn
  - McInnis, Susan
+ - McNamee, Karen
  - Middaugh, Sherry
  - Mittelstadt, Candice
  - Morgan, Cheryl
@@ -195,13 +201,16 @@ vs:
  - Simons, Renee
  - Singler, Sherri
  - Skinner, Julie
+ - Sonnenberg, Renee
  - Stabel, Stacey
  - Streifel, Tracy
+ - Stricker, Joan
  - Stubbings, Tiffany
  - Tanner, Ros
  - Tasaka, Adina
  - Thurston, Jill
  - Udle, Teri
+ - Vavrek, Melody
  - Vey, Lana
  - Wheatcroft, Georgina
  - Whitaker, Carol

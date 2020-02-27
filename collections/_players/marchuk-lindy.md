@@ -8,15 +8,15 @@ totals:
    wins: 17
    losses: 15
    inturn-total: 283
-   inturn-percent: 64
-   outturn-total: 322
-   outturn-percent: 69
-   draw-total: 285
-   draw-percent: 66
-   takeout-total: 320
-   takeout-percent: 67
-   shots-total: 605
-   shots-percent: 67
+   inturn-percent: 68
+   outturn-total: 311
+   outturn-percent: 72
+   draw-total: 314
+   draw-percent: 72
+   takeout-total: 280
+   takeout-percent: 68
+   shots-total: 594
+   shots-percent: 70
 years:
  - year: 1982
    event: Hearts
@@ -38,20 +38,20 @@ years:
  - year: 1987
    event: Hearts
    team: "ON"
-   position: Second
+   position: Lead
    games: 11
    wins: 6
    losses: 5
    inturn-total: 101
-   inturn-percent: 60
-   outturn-total: 98
-   outturn-percent: 66
-   draw-total: 83
-   draw-percent: 62
-   takeout-total: 116
-   takeout-percent: 64
-   shots-total: 199
-   shots-percent: 63
+   inturn-percent: 70
+   outturn-total: 87
+   outturn-percent: 77
+   draw-total: 112
+   draw-percent: 79
+   takeout-total: 76
+   takeout-percent: 65
+   shots-total: 188
+   shots-percent: 73
  - year: 2003
    event: Hearts
    team: "ON"
@@ -126,6 +126,7 @@ vs:
  - Hastings, Sharon
  - Hepper, Dorothy
  - Herlinveaux, Louise
+ - Holden, Anna-Mae
  - Horne, Kate
  - Hutchinson, Joan
  - Jackson, Sherry
@@ -146,7 +147,6 @@ vs:
  - MacNutt, Shelley
  - MacPhee, Robyn
  - Marchand, Karine
- - Martin, Heather
  - Martineau, Donna
  - Massullo, Deb
  - McConnery, Nancy
@@ -182,7 +182,6 @@ vs:
  - Squire, Velva
  - Stokes, Debbie
  - Strachan, Angela
- - Tobin, Lee
  - Tousignant, Helene
  - Treloar, Cathy
  - Unrau, Faye

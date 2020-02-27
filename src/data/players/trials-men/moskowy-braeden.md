@@ -40,6 +40,7 @@ vs:
  - Camm, Mathew
  - Cotter, Jim
  - Dunstone, Matthew
+ - Epping, John
  - Fry, Ryan
  - Gallant, Brett
  - Griffith, Tyrel
@@ -65,7 +66,6 @@ vs:
  - Nichols, Mark
  - Schneider, Catlin
  - Thiessen, Brad
- - Thomas, Charley
  - Walker, Geoff
  - Wozniak, Matt
 ---

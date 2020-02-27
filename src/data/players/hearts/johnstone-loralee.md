@@ -76,16 +76,12 @@ vs:
  - Combden, Cathy
  - Crispo, Guylaine
  - Cunningham, Cathy
- - Dagg-Jackson, Elaine
  - Daniel, Sylvie
  - Derick, Catherine
- - Dillon, Cathy
  - Dolan, Kim
  - Earl, Allison
  - Englot, Michelle
  - Fahlman, Kathy
- - Fesser, Kourtney
- - Fesser, Krista
  - Floyd, Kathy
  - Fraser, Sherry
  - Gauthier, Cathy
@@ -109,7 +105,6 @@ vs:
  - Kennedy, Tracy
  - Kerr, Kathy
  - King, Cathy
- - Korchinski, Karlee
  - Kyle, Linda
  - Laliberte, Connie
  - Law, Kelley
@@ -132,10 +127,10 @@ vs:
  - Sauer, Cathy
  - Scales, Julie
  - Schmirler, Sandra
- - Schneider, Kim
  - Sherrington, Barb
  - Shields, Deanne
  - Skinner, Julie
+ - Soligo, Melissa
  - Stewart, Sheri
  - Stricker, Joan
  - Sutton, Jodie

@@ -36,4 +36,12 @@ years:
    shots-total: 34
    shots-percent: 71
 vs:
+ - Baker, Michelle
+ - Galusha, Kerry
+ - Holowec, Ainsley
+ - McCagg-Nystrom, Heather
+ - O'Leary, Susan
+ - Stabel, Stacey
+ - Strong, Heather
+ - Strong, Laura
 ---

@@ -54,47 +54,41 @@ years:
    shots-percent: 80
 vs:
  - Anderson, Sherry
+ - Arsenault, Mary-Anne
  - Barbour, Shona
+ - Baxter, Jen
  - Birchard, Shannon
- - Chislett, Geneva
+ - Black, Christina
+ - Campbell, Jolene
+ - Clark-Rouire, Jennifer
+ - Crouse, Jennifer
+ - Curtis, Stacie
+ - Devereaux, Julie
  - Duncan, Chelsea
- - Duncan, Hollie
  - Duncan, Jenna
  - Einarson, Kerri
  - Fesser, Kourtney
  - Fesser, Krista
  - Fleury, Tracy
- - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
- - Gibson, Amy
- - Hughes, Meaghan
- - Hutchings, Denise
+ - Hamon, Callan
+ - Howard, Ashley
  - Jones, Jennifer
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
- - Kreviazuk, Cheryl
- - LeDrew, Stephanie
+ - Lawes, Kaitlyn
  - MacCuish, Kristin
- - MacPhee, Robyn
  - McEwen, Dawn
- - McQuaid, Michelle
- - McTaggart, Cary-Anne
- - Moore, Kristie
  - Njegovan, Selena
  - Officer, Jill
+ - Porter, Erin
  - Price, Kara
- - Sagle, Karen
- - Scheidegger, Casey
- - Scheidegger, Jessie
- - Shackleton, Amie
  - Smallwood, Jody
- - Van Osch, Kalia
- - Van Osch, Kesa
- - Van Osch, Marika
+ - Trickett, Erica
+ - Walsh, Jenna
  - Webster, Crystal
- - West, Christianne
- - Wylie, Jennifer
+ - Williamson, Ashley
 ---

@@ -87,6 +87,7 @@ years:
    shots-percent: 71
 vs:
  - Affleck, Tricia
+ - Aleksic, Shannon
  - Armstrong, Jacquie
  - Arsenault, Mary-Anne
  - Babin, Jillian
@@ -102,7 +103,7 @@ vs:
  - Campbell, Jolene
  - Carmody, Erin
  - Carter, Sasha
- - Charette, France
+ - Clark-Rouire, Jennifer
  - Comeau, Martine
  - Crawford, Andrea
  - Crouse, Jennifer
@@ -111,7 +112,6 @@ vs:
  - Delahunt, Nancy
  - Dunn, Anne
  - Einarson, Megan
- - Enright, Barb
  - Fister, Teri
  - Fister, Toni
  - Gagnon, Nathalie
@@ -122,15 +122,13 @@ vs:
  - Greening, Jackie-Rae
  - Gudereit, Marcia
  - Hanlon, Heidi
+ - Hardy, Shelley
  - Holland, Amber
  - Horne, Kate
- - Jewer, Michelle
  - Jones, Colleen
  - Jones, Jennifer
  - Kalenchuk, Heather
- - Kelly, Kim
  - Kerr, Kathy
- - Lacey, Stacey
  - LeDrew, Stephanie
  - Lemon, Colette
  - Linton, Sherry
@@ -153,25 +151,25 @@ vs:
  - Officer, Jill
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
+ - Peters, Laine
  - Phillips, Kristen
  - Pinkney, Colleen
  - Rainville, Julie
  - Ramsay, Geri Lynn
- - Robertson, Darcy
  - Rogers, Rhonda
  - Santos, Deb
  - Schneider, Kim
+ - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sippala, Ashley
  - Sobey, Lianne
- - Spencer, Barb
+ - Stewart, Sheri
  - Strachan, Angela
  - Sweeting, Val
  - Thomas, Jill
  - Thurston, Jill
  - Todd, Fran
- - Unrau, Faye
  - Westcott, Raunora
  - Wilson, Leslie
 ---

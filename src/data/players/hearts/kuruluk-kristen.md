@@ -48,11 +48,12 @@ vs:
  - Charette, Agnes
  - Charette, France
  - Chicoine, Helene
- - Cunningham, Cathy
  - Davis, Carol
  - Deschatelets, Guylaine
  - Englot, Michelle
  - Floyd, Kathy
+ - Gallant, Kathie
+ - Graham-MacDonald, Bea
  - Greenwood, Jill
  - Hanlon, Heidi
  - Houston, Heather
@@ -60,12 +61,12 @@ vs:
  - Jones, Colleen
  - Kehler, Lorie
  - Kennedy, Tracy
- - Kerr, Kathy
  - King, Shirley
  - Lang, Lorraine
- - Martin, Heather
  - Mattatall, Mary
+ - McInnis, Susan
  - Moriarty, Monica
+ - O'Rourke, Kathy
  - Phillips, Laura
  - Pruden, Twyla
  - Rudd, Colleen

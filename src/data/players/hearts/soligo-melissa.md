@@ -89,6 +89,7 @@ years:
 vs:
  - Adams, Diane
  - Alexander, Diane
+ - Allardyce, Kathie
  - Allen, Laurie
  - Anderson, Kelly
  - Arnott, Janet
@@ -118,9 +119,9 @@ vs:
  - Daniel, Sylvie
  - Davis, Carol
  - Deschatelets, Guylaine
- - Dillon, Cathy
  - Dolan, Kim
  - Earl, Allison
+ - Ellwood, Laurie
  - Englot, Michelle
  - Fahlman, Kathy
  - Floyd, Kathy
@@ -130,7 +131,6 @@ vs:
  - Gallant, Kathie
  - Gatchell, Sara
  - Gauthier, Cathy
- - Girard, Sylvie
  - Goring, Alison
  - Graham-MacDonald, Bea
  - Green, Sue
@@ -143,6 +143,7 @@ vs:
  - Houston, Heather
  - Hunt, Donna
  - Jenkins, Sandra
+ - Johnstone, Loralee
  - Jones, Colleen
  - Kaylo, Kelly
  - Kehler, Lorie
@@ -157,6 +158,7 @@ vs:
  - Lang, Lorraine
  - Law, Kelley
  - Lawes, Andrea
+ - Leblanc, Lisa
  - Lidgren, Anna
  - MacAulay, Marion
  - MacCallum, Janice
@@ -172,15 +174,18 @@ vs:
  - Merklinger, Anne
  - More, Chris
  - Moriarty, Monica
+ - Moses, Dawn
  - Moss, Debbie
- - Nichols, Helen
  - Nowlan, Denise
  - Ondrack, Wendy
  - O'Rourke, Kathy
  - Osborne, Chantal
+ - Overton-Clapham, Cathy
  - Perron, Leanne
  - Phillips, Laura
  - Poisson, Francine
+ - Porter, Debbie
+ - Proctor, Jill
  - Pross, Margaret
  - Pruden, Twyla
  - Purdy, Karen
@@ -193,12 +198,14 @@ vs:
  - Ryan, Penny
  - Santos, Deb
  - Sauer, Cathy
+ - Scales, Julie
  - Schmirler, Sandra
  - Sherrington, Barb
  - Shigehiro, Sally
  - Smith, Yvonne
  - Sparrow, Sandra
  - Stewart, Sheri
+ - Stokes, Debbie
  - Stricker, Joan
  - Thomas, Karen
  - Thomas, Maria

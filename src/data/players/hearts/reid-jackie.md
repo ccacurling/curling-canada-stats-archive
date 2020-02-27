@@ -36,8 +36,17 @@ years:
    shots-total: 48
    shots-percent: 89
 vs:
- - Cooper, Kathryn
- - Cunningham, Jessica
- - Strong, Heather
- - Strong, Laura
+ - Brothers, Jill
+ - Brown, Rachel
+ - Courtney, Joanne
+ - Ferguson, Dana
+ - Homan, Rachel
+ - Joyce, Blisse
+ - Kreviazuk, Alison
+ - Miskew, Emma
+ - Smith, Heather
+ - Sonnenberg, Renee
+ - Sweeting, Val
+ - Udle, Teri
+ - Weagle, Lisa
 ---

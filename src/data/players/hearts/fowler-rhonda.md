@@ -38,7 +38,6 @@ years:
 vs:
  - Allen, Laurie
  - Arnott, Janet
- - Arsenault, Mary-Anne
  - Betker, Jan
  - Breen, Theresa
  - Brophy, Cathy
@@ -51,9 +50,9 @@ vs:
  - Daniel, Sylvie
  - Frey, Audrey
  - Gatchell, Sara
+ - Gauthier, Cathy
  - Gudereit, Marcia
  - Jenkins, Sandra
- - Jones, Colleen
  - Kaylo, Kelly
  - Kerr, Kathy
  - Kleibrink, Shannon
@@ -68,7 +67,6 @@ vs:
  - Ondrack, Wendy
  - Osborne, Chantal
  - Perron, Leanne
- - Rankin, Heather
  - Roberts, Angela
  - Schmirler, Sandra
  - Shigehiro, Sally
@@ -76,8 +74,6 @@ vs:
  - Soligo, Melissa
  - Sutton, Jodie
  - Thomas, Maria
- - Webb, Corine
  - Willms, Karri
  - Wright, Joanne
- - Zinck, Kay
 ---

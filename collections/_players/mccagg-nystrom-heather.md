@@ -115,7 +115,6 @@ vs:
  - Bell, Chelsey
  - Bernard, Cheryl
  - Birt, Suzanne
- - Bolland, Michelle
  - Bradley, Shelly
  - Brennan, Amanda
  - Brown, Jacalyn
@@ -130,6 +129,7 @@ vs:
  - Comeau, Sandy
  - Cordina, Sheri
  - Crawford, Andrea
+ - Crouse, Jennifer
  - Cunningham, Cathy
  - Darbyshire, Carolyn
  - Delahunt, Nancy
@@ -143,13 +143,13 @@ vs:
  - Fortier, Marie-Josee
  - Gauthier, Cathy
  - George, Tara
+ - Gilman, Sheena
  - Goss, Peg
  - Grenier, Valerie
  - Gushulak, Diane
  - Hamilton, Beth
  - Hanna, Jenn
  - Hanna, Stephanie
- - Harding, Mary
  - Hardy, Shelley
  - Harmark, Andra
  - Harvey, Alison
@@ -173,7 +173,6 @@ vs:
  - Letendre, Pascale
  - Loder, Cherie-Ann
  - Lowther, Tammi
- - MacCallum, Janice
  - MacDiarmid, Kristen
  - MacDonald, Rebecca Jean
  - MacDonald, Shelley
@@ -186,7 +185,7 @@ vs:
  - Materi, Roberta
  - Mattatall, Mary
  - McCarville, Krista
- - McDonald, Tina
+ - McConnery, Nancy
  - McEwen, Dawn
  - McInnis, Susan
  - McNamee, Karen
@@ -234,10 +233,13 @@ vs:
  - Stricker, Joan
  - Strong, Heather
  - Strong, Laura
+ - Stubbings, Tiffany
  - Tanner, Ros
  - Tasaka, Adina
+ - Thomas, Jill
  - Thompson, Karla
  - Thurston, Jill
+ - Vavrek, Melody
  - Vey, Lana
  - Wall, Kirsten
  - Webster, Bronwen

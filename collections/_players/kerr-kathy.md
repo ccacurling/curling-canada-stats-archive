@@ -226,6 +226,7 @@ vs:
  - Breen, Theresa
  - Brown, Janet
  - Brown, Katie
+ - Brown, Maureen
  - Bryant, Angie
  - Burlington, Cheryl
  - Busche, Jodi
@@ -275,7 +276,6 @@ vs:
  - Fraser, Sherry
  - Freeman, Lisa
  - Frey, Audrey
- - Funk, LaDawn
  - Gagnier, Monique
  - Gagnon, Karo
  - Gagnon, Nathalie
@@ -300,7 +300,6 @@ vs:
  - Harvey, Alison
  - Harvey, Carol
  - Harvey, Janet
- - Henry, Lou Ann
  - Hensley, Merna
  - Herlinveaux, Louise
  - Hodson, Kim
@@ -326,7 +325,6 @@ vs:
  - Kelly, Kim
  - King, Cathy
  - Kleibrink, Shannon
- - Kuruluk, Kristen
  - Kyle, Linda
  - Lacey, Stacey
  - Laliberte, Connie
@@ -357,6 +355,7 @@ vs:
  - Marchand, Stephanie
  - Marchuk, Lindy
  - Massullo, Deb
+ - Matheson, Sandy
  - Mattatall, Mary
  - McCloy, Elaine
  - McConnery, Nancy

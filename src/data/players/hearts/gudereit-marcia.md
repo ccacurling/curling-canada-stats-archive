@@ -276,7 +276,6 @@ vs:
  - Lahucik, Val
  - Laliberte, Connie
  - Lang, Lorraine
- - Lange, Ann
  - Law, Kelley
  - Lawes, Andrea
  - Lawrence, Margaret
@@ -344,6 +343,7 @@ vs:
  - Roberts, Angela
  - Robertson, Darcy
  - Robinson, Charlene
+ - Round, Coralee
  - Sabourin, Joelle
  - Santos, Deb
  - Scales, Julie

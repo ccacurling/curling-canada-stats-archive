@@ -88,6 +88,7 @@ vs:
  - Harnden, Ryan
  - Hart, Richard
  - Hebert, Ben
+ - Hodgson, Colin
  - Howard, Glenn
  - Jacobs, Brad
  - Kennedy, Marc
@@ -101,6 +102,7 @@ vs:
  - Mead, Jon
  - Middaugh, Wayne
  - Morris, John
+ - Moskowy, Braeden
  - Moulding, Darren
  - Muyres, Dallan
  - Muyres, Kirk
@@ -113,11 +115,13 @@ vs:
  - Richter, Justin
  - Rocque, Marcel
  - Rycroft, Carter
+ - Samagalski, Derek
  - Savill, Craig
  - Sawatsky, Rick
  - Schneider, Catlin
  - Sharp, Jeff
  - Simmons, Pat
+ - Steski, Peter
  - Stoughton, Jeff
  - Thiessen, Brad
  - Thiessen, Nolan

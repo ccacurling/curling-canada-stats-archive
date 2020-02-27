@@ -54,80 +54,62 @@ years:
    shots-percent: 69
 vs:
  - Allen, Michelle
+ - Armstrong, Jennifer
  - Arsenault, Mary-Anne
+ - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
  - Bell, Chelsey
  - Birnie, Hailey
  - Birt, Suzanne
- - Blaney, Jennifer
- - Bodner, Jenine
- - Boudreault, Patricia
  - Bradley, Shelly
- - Brown, Rachel
- - Bush, Tracy
- - Carey, Chelsea
  - Carter, Sasha
  - Christianson, Marie
  - Clark, Stefanie
  - Comeau, Sandy
- - Daigle, Julie
+ - Crawford, Andrea
  - Delahunt, Nancy
  - Derick, Catherine
  - Farrell, Allison
- - Ferguson, Dana
  - Fortier, Marie-Josee
+ - Forward, Katie
  - Gagnier, Monique
  - Galusha, Kerry
- - Gates, Jenny
  - Gauthier, Cathy
- - Griffin, Alison
  - Hanna, Jenn
  - Hanna, Stephanie
  - Hughes, Meaghan
- - Ingram, Megan
+ - Hunkin, Jessie
  - Jones, Colleen
  - Jones, Jennifer
  - Kasner, Marliese
  - Kelly, Kim
- - King, Cathy
  - Koltun, Sarah
- - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Leger, Stacey
  - Letendre, Pascale
- - Lilly, Kendra
  - MacDonald, Rebecca Jean
  - MacPhee, Robyn
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McEwen, Dawn
  - McQuaid, Michelle
  - Mittelstadt, Candice
  - Moriarty, Monica
- - Munroe, Anna
  - Nicholls, Brenda
  - Officer, Jill
- - Olson-Johns, Lori
  - Overton-Clapham, Cathy
- - Peterman, Jocelyn
- - Pilote, Kristen
- - Potts, Sarah
  - Prosser, Sandi
- - Rocque, Raylene
  - Ross, Allison
- - Rusnell, Jen
- - Sandwith, Carley
  - Scott, Kelly
  - Sharpe, Kelli
  - Shaw, Ladene
+ - Silvernagle, Robyn
  - Simons, Renee
  - Singler, Sherri
  - Strong, Helen
+ - Thevenot, Kara
  - Tran, Brittany
- - Wark, Sarah
- - Wilkes, Sarah
  - Zinck, Kay
 ---

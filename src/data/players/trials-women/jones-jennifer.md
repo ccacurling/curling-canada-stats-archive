@@ -97,6 +97,7 @@ vs:
  - Betker, Jan
  - Bobbie, Tess
  - Brown, Rachel
+ - Cameron, Kate
  - Carey, Chelsea
  - Carter, Sasha
  - Cordina, Sheri
@@ -105,6 +106,7 @@ vs:
  - Darbyshire, Carolyn
  - Delahunt, Nancy
  - Duhaime, Chantal
+ - Englot, Michelle
  - Ferguson, Dana
  - Flaxey, Allison
  - Foster, Kristen
@@ -140,9 +142,9 @@ vs:
  - Malekoff, Stephanie
  - McCarville, Krista
  - McCusker, Joan
- - McDonald, Kristy
  - McPherson, Cheryl
  - McTaggart, Cary-Anne
+ - Meakin, Breanne
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma
@@ -180,4 +182,6 @@ vs:
  - Weagle, Lisa
  - Webster, Bronwen
  - Webster, Crystal
+ - Westcott, Raunora
+ - Wilson, Leslie
 ---

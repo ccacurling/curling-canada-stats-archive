@@ -37,7 +37,6 @@ years:
    shots-percent: 90
 vs:
  - Adam, Gerry
- - Bailey, Scott
  - Epping, John
  - Ferbey, Randy
  - Fowler, Rob
@@ -64,4 +63,5 @@ vs:
  - Simmons, Pat
  - Stoughton, Jeff
  - Thiessen, Nolan
+ - Wall, Trevor
 ---

@@ -36,12 +36,32 @@ years:
    shots-total: 128
    shots-percent: 65
 vs:
+ - Arnott, Janet
+ - Bell, Allyson
  - Bernard, Cheryl
+ - Beveridge, Corie
+ - Bodogh, Marilyn
+ - Bonar, Maureen
+ - Busche, Jodi
+ - Cooke, Gerri
  - Delahunt, Nancy
+ - Fowler, Lois
+ - Garnett, Lorelei
+ - Gauthier, Cathy
+ - Gellard, Kim
+ - Hooper Perroud, Jane
  - Jones, Colleen
  - Kelly, Kim
+ - Laliberte, Connie
+ - London, Debra
+ - Marchand, Jessica
+ - Marchand, Stephanie
+ - Nicholls, Brenda
+ - Overton-Clapham, Cathy
  - Pendergast, Judy
+ - Rainville, Julie
  - Ruus, Karen
  - Sherrington, Barb
+ - Wieler, Bev
  - Zinck, Kay
 ---

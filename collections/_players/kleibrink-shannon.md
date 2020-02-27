@@ -169,8 +169,7 @@ years:
   shots-total: 171
   shots-percent: 76
 vs:
-- Alcoe-Holland, Jill
-- Aleksic, Shannon
+- Affleck, Tricia
 - Allen, Laurie
 - Anderson, Sherry
 - Armstrong, Jacquie
@@ -178,7 +177,6 @@ vs:
 - Arsenault, Mary-Anne
 - Babin, Jillian
 - Barbour, Shona
-- Barker, Penny
 - Belanger, Nancy
 - Belisle, Eve
 - Bell, Allyson
@@ -199,7 +197,6 @@ vs:
 - Brennan, Amanda
 - Brophy, Cathy
 - Bryant, Angie
-- Cameron, Kate
 - Cameron, Nancy
 - Carey, Chelsea
 - Carrier, Julie
@@ -207,9 +204,7 @@ vs:
 - Charette, Agnes
 - Charette, France
 - Clark, Stefanie
-- Clark-Rouire, Jennifer
 - Comeau, Sandy
-- Comstock, Melanie
 - Cooke, Gerri
 - Cordina, Sheri
 - Cormier, Sharon
@@ -217,15 +212,11 @@ vs:
 - Crawford, Andrea
 - Cunningham, Cathy
 - Curtis, Stacie
-- Cutcliffe, Margaret
 - Daniel, Sylvie
 - Darbyshire, Carolyn
-- deJager, Blaine
 - Delahunt, Nancy
-- Derry, Danielle
 - Devereaux, Julie
 - Dezura, Diane
-- Doig, Deanna
 - Eddy, Lori
 - Englot, Michelle
 - Fallis, Karen
@@ -275,7 +266,6 @@ vs:
 - Kerr, Kathy
 - Kidd, Darlene
 - King, Cathy
-- Koehler, Megan
 - Kreviazuk, Alison
 - Laliberte, Connie
 - Lang, Lorraine
@@ -309,7 +299,6 @@ vs:
 - McKnight, Patti
 - McPherson, Cheryl
 - McQuaid, Michelle
-- Meakin, Breanne
 - Merklinger, Anne
 - Middaugh, Sherry
 - Miller, Wendy
@@ -330,6 +319,7 @@ vs:
 - Ondrack, Wendy
 - Osborne, Chantal
 - Overton-Clapham, Cathy
+- Parsons, Danielle
 - Paul, Sarah
 - Perron, Leanne
 - Peterman, Jocelyn
@@ -338,22 +328,17 @@ vs:
 - Potts, Sarah
 - Preston, Sam
 - Rankin, Heather
-- Recksiedler, Kristen
 - Reed, Shellan
 - Richard, Marie
-- Richards, Brette
 - Rizzo, Jo-Ann
 - Roberts, Angela
 - Robichaud, Sylvie
 - Sabourin, Joelle
-- Saulnier, Andrea
 - Schmirler, Sandra
 - Schneider, Kim
-- Schneider, Lorraine
 - Schneider, Tammy
 - Schraeder, Jeanna
 - Scott, Kelly
-- Sicinski, Danielle
 - Simmons, Cindy
 - Simons, Renee
 - Singler, Sherri
@@ -378,7 +363,6 @@ vs:
 - Wall, Kirsten
 - Walsh, Heather
 - Weagle, Lisa
-- Webb, Corine
 - Webster, Crystal
 - Westcott, Raunora
 - Wheatcroft, Georgina

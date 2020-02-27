@@ -233,9 +233,11 @@ vs:
 - Arnott, Janet
 - Arsenault, Mary-Anne
 - Arseneau, Jane
+- Babin, Jillian
 - Baker, Michelle
 - Bakker, Glenys
 - Balderston, Marcy
+- Barbour, Shona
 - Belanger, Nancy
 - Bell, Allyson
 - Bell, Chelsey
@@ -263,6 +265,7 @@ vs:
 - Burlington, Cheryl
 - Busche, Jodi
 - Byers, Denise
+- Cameron, Nancy
 - Carey, Chelsea
 - Carrier, Julie
 - Carter, Sasha
@@ -271,7 +274,9 @@ vs:
 - Cooke, Gerri
 - Cormier, Sharon
 - Courtney, Joanne
+- Crawford, Andrea
 - Cunningham, Cathy
+- Curtis, Stacie
 - Darbyshire, Carolyn
 - Davis, Brandee
 - Delahunt, Nancy
@@ -311,12 +316,13 @@ vs:
 - Grenier, Valerie
 - Gudereit, Marcia
 - Gushulak, Diane
+- Guzzwell, Stephanie
 - Hanlon, Heidi
-- Harding, Mary
 - Harrison, Meredith
 - Harvey, Alison
 - Henry, Lou Ann
 - Hodson, Kim
+- Holden, Anna-Mae
 - Holland, Amber
 - Holowec, Ainsley
 - Homan, Rachel
@@ -331,6 +337,7 @@ vs:
 - Jones, Jennifer
 - Jones-Walker, Debbie
 - Jurgenson, Christine
+- Kalenchuk, Heather
 - Kasner, Marliese
 - Kaylo, Kelly
 - Kehler, Lorie
@@ -383,7 +390,6 @@ vs:
 - Mittelstadt, Candice
 - Montgomery, Kay
 - Moore, Kimberly
-- Moses, Dawn
 - Moss, Debbie
 - Mulroney, Sandra
 - Nedohin, Heather
@@ -392,12 +398,14 @@ vs:
 - Nimmo, Shannon
 - Nixon, Amy
 - Nohr, Dianne
+- Nowlan, Denise
 - O'Leary, Susan
 - O'Rourke, Kathy
 - Officer, Jill
 - Ondrack, Wendy
 - Overton-Clapham, Cathy
 - Pasika, Rona
+- Paul, Sarah
 - Pendergast, Judy
 - Peters, Laine
 - Phillips, Laura
@@ -415,9 +423,10 @@ vs:
 - Sabourin, Joelle
 - Sanders, Pat
 - Sandison, Janice
-- Sauder, Bobbie
 - Scales, Julie
 - Schmirler, Sandra
+- Schneider, Kim
+- Schneider, Tammy
 - Schraeder, Jeanna
 - Scott, Donna
 - Scott, Kelly
@@ -431,6 +440,7 @@ vs:
 - Skinner, Julie
 - Smith, Heather
 - Snider, Shelly
+- Sobey, Lianne
 - Sonnenberg, Renee
 - Stabel, Stacey
 - Stewart, Sheri
@@ -452,13 +462,11 @@ vs:
 - Walsh, Heather
 - Weagle, Lisa
 - Webster, Bronwen
-- Westcott, Raunora
 - Wheatcroft, Georgina
 - Whipple, Paula
 - Whitaker, Carol
 - Whitaker, Lise
 - Wieler, Bev
-- Wilson, Leslie
 - Wright, Susan
 - Yardley, Janelle
 - Young, Karen

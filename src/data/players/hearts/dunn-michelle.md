@@ -36,9 +36,8 @@ years:
    shots-total: 4
    shots-percent: 38
 vs:
- - Boudreault, Patricia
- - Daigle, Julie
- - Larouche, Marie-France
- - Lavoie, Gabrielle
- - Munroe, Anna
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Griffin, Alison
+ - Pinksen, Sadie
 ---

@@ -89,6 +89,7 @@ years:
 vs:
  - Alexander, Diane
  - Allen, Laurie
+ - Anderson, Kelly
  - Arnott, Janet
  - Aucoin, Shelley
  - Bacon, Kathy
@@ -115,7 +116,6 @@ vs:
  - Davis, Carol
  - Deschatelets, Guylaine
  - Dezura, Diane
- - Dillon, Cathy
  - Dolan, Kim
  - Dwyer, Patricia
  - Earl, Allison
@@ -154,6 +154,7 @@ vs:
  - Lawes, Andrea
  - Leblanc, Lisa
  - LeCraw, Carolyn
+ - MacAulay, Marion
  - MacCallum, Janice
  - Maher, Pat
  - Maitland, Donna
@@ -168,6 +169,7 @@ vs:
  - McInnis, Susan
  - McPherson, Cheryl
  - More, Chris
+ - Moriarty, Monica
  - Moses, Dawn
  - Moyaert, June
  - Muzika, Shelley

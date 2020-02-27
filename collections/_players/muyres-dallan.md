@@ -204,7 +204,6 @@ vs:
 - Gould, Steve
 - Grattan, James
 - Griffith, Ty
-- Griffith, Tyrel
 - Gushue, Brad
 - Harnden, E.J.
 - Harnden, Ryan

@@ -65,7 +65,6 @@ vs:
  - Boyle, Jane
  - Bradley, Shelly
  - Brown, Rachel
- - Cameron, Nancy
  - Camozzi, Rhona
  - Carter, Sasha
  - Clark-Rouire, Jennifer
@@ -82,7 +81,6 @@ vs:
  - Englot, Michelle
  - Ferguson, Dana
  - Fleury, Tracy
- - Galusha, Kerry
  - Gates, Amanda
  - Hastings, Julie
  - Holland, Amber
@@ -95,7 +93,6 @@ vs:
  - Knezevic, Patti
  - Koehler, Megan
  - Korab, Stephanie
- - Kreviazuk, Cheryl
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - MacDonald, Rebecca Jean
@@ -113,6 +110,7 @@ vs:
  - Pilote, Kristen
  - Richard, Marie
  - Robichaud, Sylvie
+ - Robison, Michala
  - Rusnell, Jen
  - Schmidt, Stephanie
  - Schneider, Kim
@@ -131,5 +129,6 @@ vs:
  - Vey, Lana
  - Walsh, Jenna
  - Weagle, Lisa
+ - Wilkes, Sarah
  - Wylie, Jennifer
 ---

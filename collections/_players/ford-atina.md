@@ -47,5 +47,9 @@ years:
   event: Trials (Women)
   team: SCHM
   position: Alternate
-vs: 
+vs:
+- Cormier, Sharon
+- Kaylo, Kelly
+- Moss, Debbie
+- Ondrack, Wendy
 ---

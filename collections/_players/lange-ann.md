@@ -38,7 +38,6 @@ years:
 vs:
  - Arsenault, Mary-Anne
  - Belley, Joelle
- - Betker, Jan
  - Birt, Suzanne
  - Blackburn, Julie
  - Blanchard, Judy
@@ -56,14 +55,10 @@ vs:
  - Gogan, Jennifer
  - Goss, Peg
  - Greening, Jackie-Rae
- - Gudereit, Marcia
  - Hanlon, Heidi
  - Horne, Kate
  - Jones, Colleen
- - Kelly, Kim
  - Kerr, Kathy
- - Lacey, Stacey
- - Linton, Sherry
  - MacDonald, Rebecca Jean
  - MacNutt, Shelley
  - MacPhee, Robyn
@@ -71,12 +66,13 @@ vs:
  - Marchuk, Lindy
  - Martin, Heather
  - McConnery, Nancy
- - McCusker, Joan
  - McInnis, Susan
+ - Peters, Laine
  - Pinkney, Colleen
  - Robertson, Darcy
  - Santos, Deb
  - Spencer, Barb
+ - Stewart, Sheri
  - Strachan, Angela
  - Todd, Fran
  - Unrau, Faye

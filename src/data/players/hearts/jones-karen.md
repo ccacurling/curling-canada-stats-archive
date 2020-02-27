@@ -73,13 +73,11 @@ vs:
  - Adams, Diane
  - Alexander, Diane
  - Allardyce, Kathie
- - Allen, Laurie
  - Andrews, Lynne
  - Asham, Sandra
  - Aucoin, Shelley
  - Augustyn, Jan
  - Aulenback, Wanda
- - Balderston, Marcy
  - Baldwin, Laurel
  - Bartlett, Sue Anne
  - Betker, Jan
@@ -117,6 +115,7 @@ vs:
  - Grange, Denise
  - Green, Sue
  - Greening, Jackie-Rae
+ - Gummer, Janet
  - Hanlon, Heidi
  - Harvey, Janet
  - Hastings, Sharon
@@ -165,6 +164,7 @@ vs:
  - Ridley, Terry
  - Rose, Dorothy
  - Ryan, Diane
+ - Ryan, Jennifer
  - Sanders, Pat
  - Santos, Deb
  - Savill, Jarron

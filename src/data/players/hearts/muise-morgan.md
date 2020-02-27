@@ -37,10 +37,10 @@ years:
    shots-percent: 80
 vs:
  - Affleck, Tricia
- - Arnott, Janet
  - Arsenault, Mary-Anne
  - Belisle, Eve
  - Birt, Suzanne
+ - Bolland, Michelle
  - Burgess, Carey
  - Bush, Tracy
  - Cameron, Nancy
@@ -49,6 +49,7 @@ vs:
  - Delahunt, Nancy
  - Gagnier, Monique
  - Galusha, Kerry
+ - George, Tara
  - Hardy, Shelley
  - Harvey, Janet
  - Hollands, Saskia
@@ -58,6 +59,7 @@ vs:
  - King, Cathy
  - Loder, Cherie-Ann
  - McCagg-Nystrom, Heather
+ - McCarville, Krista
  - McInnis, Susan
  - Nugent, Pamela
  - Officer, Jill
@@ -74,6 +76,7 @@ vs:
  - Streifel, Tracy
  - Strong, Heather
  - Strong, Laura
+ - Stubbings, Tiffany
  - Tanner, Ros
  - Thurston, Jill
  - Wheatcroft, Georgina

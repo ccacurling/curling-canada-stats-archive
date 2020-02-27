@@ -69,7 +69,6 @@ vs:
  - Nicholson, Terry
  - Poisson, Francine
  - Ramsay, Jennifer
- - Richards, Kenda
  - Rintoul, Jacki
  - Sanders, Pat
  - Scott, Donna
@@ -80,4 +79,5 @@ vs:
  - Tucker, Cindy
  - Werenka, Lil
  - Wheatcroft, Georgina
+ - Whitrow, Leanne
 ---

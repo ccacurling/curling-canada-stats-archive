@@ -267,7 +267,6 @@ vs:
  - Alexander, Diane
  - Aleksic, Shannon
  - Allen, Laurie
- - Allen, Michelle
  - Anderson, Sherry
  - Armstrong, Jacquie
  - Arnott, Janet
@@ -301,6 +300,7 @@ vs:
  - Byers, Denise
  - Campbell, Gloria
  - Campbell, Jolene
+ - Campbell, June
  - Carlos, Marie-Claude
  - Carrier, Julie
  - Carter, Sasha
@@ -319,23 +319,21 @@ vs:
  - Cunningham, Cathy
  - Currie, Wendy
  - Curtis, Stacie
- - Dagg-Jackson, Elaine
  - Daku, Karen
  - Daniel, Sylvie
  - Darbyshire, Carolyn
  - Delahunt, Nancy
  - Derick, Catherine
  - deSolla, Jodie
- - Dillon, Cathy
  - Dolan, Kim
  - Dunn, Anne
  - Dwyer, Patricia
  - Earl, Allison
- - Einarson, Megan
  - Englot, Michelle
  - Enright, Barb
  - Fahlman, Kathy
  - Fallis, Karen
+ - Farrell, Allison
  - Fister, Teri
  - Fister, Toni
  - Floyd, Kathy
@@ -362,7 +360,6 @@ vs:
  - Guzzwell, Stephanie
  - Hanlon, Heidi
  - Hardy, Shelley
- - Harmark, Andra
  - Harris, Susan
  - Harrison, Meredith
  - Harvey, Janet
@@ -388,13 +385,11 @@ vs:
  - Kelly, Kim
  - Kennedy, Tracy
  - Kerr, Kathy
- - Kidd, Darlene
  - King, Cathy
  - Kleibrink, Shannon
  - Koyanagi, Karen
  - Kreviazuk, Alison
  - Kyle, Linda
- - Lacey, Stacey
  - Lahucik, Val
  - Laliberte, Connie
  - Lang, Lorraine
@@ -418,12 +413,10 @@ vs:
  - MacNutt, Shelley
  - MacPhee, Robyn
  - Maitland, Donna
- - Makichuck, Lindsay
  - Mallett, Marla
  - Marchand, Karine
  - Marchuk, Lindy
  - Martin, Heather
- - Materi, Roberta
  - Mattatall, Mary
  - McArdle, Cindy
  - McCarville, Krista
@@ -436,13 +429,9 @@ vs:
  - McInnis, Susan
  - McKnight, Patti
  - McPherson, Cheryl
- - Meakin, Breanne
  - Merklinger, Anne
- - Middaugh, Sherry
  - Miskew, Emma
  - Montgomery, Kay
- - Moore, Kim
- - More, Whitney
  - Morgan, Cheryl
  - Morris, Cori
  - Murphy, Jeanette
@@ -491,12 +480,12 @@ vs:
  - Sherrington, Barb
  - Shields, Deanne
  - Sigurdson, Janine
- - Simmons, Cindy
  - Simons, Renee
  - Singler, Sherri
  - Skinner, Julie
  - Smith, Heather
  - Sobey, Lianne
+ - Soligo, Melissa
  - Spencer, Barb
  - Stewart, Sheri
  - Strachan, Angela
@@ -505,7 +494,6 @@ vs:
  - Strong, Laura
  - Stubbings, Tiffany
  - Sutton, Jodie
- - Sweeting, Val
  - Thomas, Jill
  - Thomas, Karen
  - Thompson, Karla
@@ -517,9 +505,9 @@ vs:
  - Usher, Leanne
  - Vey, Lana
  - Walker, Lisa
- - Wall, Kirsten
  - Weagle, Lisa
  - Webster, Bronwen
+ - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whitaker, Carol
  - Willms, Karri

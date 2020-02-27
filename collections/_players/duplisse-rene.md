@@ -36,4 +36,8 @@ years:
    shots-total: 20
    shots-percent: 75
 vs:
+ - Arseneau, Jane
+ - Farrell, Allison
+ - Floyd, Kathy
+ - Power, Marie-Anne
 ---

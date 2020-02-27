@@ -37,7 +37,7 @@ years:
    shots-percent: 71
 vs:
  - Adams, Shawn
- - Bartlett, Don
+ - Bailey, Scott
  - Burgess, Craig
  - Cotter, Jim
  - Dacey, Mark
@@ -46,6 +46,7 @@ vs:
  - Gibson, Andrew
  - Gould, Steve
  - Gushue, Brad
+ - Harris, Mathew
  - Harris, Rob
  - Hart, Richard
  - Howard, Glenn

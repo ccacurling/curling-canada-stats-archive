@@ -53,4 +53,20 @@ years:
    shots-total: 38
    shots-percent: 78
 vs:
+ - Allen, Susan
+ - Bernard, Krista
+ - Birt, Suzanne
+ - Blashko, Denise
+ - Brown, Janet
+ - Campbell, Gloria
+ - Cordina, Sheri
+ - Dunn, Anne
+ - Lawes, Andrea
+ - Lewis, Kristy
+ - MacDonald, Rebecca Jean
+ - MacPhee, Robyn
+ - Marchuk, Lindy
+ - McInnis, Susan
+ - Middaugh, Sherry
+ - Todd, Fran
 ---

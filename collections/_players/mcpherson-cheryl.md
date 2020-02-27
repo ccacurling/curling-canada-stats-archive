@@ -117,7 +117,9 @@ vs:
 - Betker, Jan
 - Blanchard, Judy
 - Brown, Katie
+- Brown, Rachel
 - Cameron, Nancy
+- Camozzi, Rhona
 - Carter, Sasha
 - Chapman, Kathy
 - Chaulk, Wendy
@@ -129,6 +131,7 @@ vs:
 - Ellwood, Laurie
 - Englot, Michelle
 - Fahlman, Kathy
+- Ferguson, Dana
 - Floyd, Kathy
 - Gabriele, Elena
 - Gagnon, Karo
@@ -139,6 +142,7 @@ vs:
 - Gregoire, Veronique
 - Gudereit, Marcia
 - Hanlon, Heidi
+- Harding, Mary
 - Harvey, Janet
 - Hensley, Merna
 - Hodson, Kim
@@ -153,6 +157,7 @@ vs:
 - Kerr, Kathy
 - Keshen, Christine
 - Kleibrink, Shannon
+- Knezevic, Patti
 - Koyanagi, Karen
 - Lang, Lorraine
 - Larouche, Marie-France
@@ -174,8 +179,10 @@ vs:
 - Nixon, Amy
 - O'Rourke, Kathy
 - Officer, Jill
+- Olson-Johns, Lori
 - Overton, Kim
 - Overton-Clapham, Cathy
+- Pilote, Kristen
 - Poisson, Francine
 - Porter, Debbie
 - Power, Judy
@@ -187,6 +194,7 @@ vs:
 - Rankin, Heather
 - Ridley, Terry
 - Roberts, Angela
+- Rusnell, Jen
 - Ryan, Jennifer
 - Santos, Deb
 - Schmirler, Sandra
@@ -202,6 +210,7 @@ vs:
 - Stokes, Debbie
 - Stricker, Joan
 - Sutton, Jodie
+- Sweeting, Val
 - Thomas, Maria
 - Usher, Leanne
 - Wall, Kirsten

@@ -87,7 +87,6 @@ years:
    shots-percent: 78
 vs:
  - Aleksic, Shannon
- - Allen, Michelle
  - Armstrong, Jacquie
  - Arnott, Janet
  - Bernard, Cheryl
@@ -96,23 +95,33 @@ vs:
  - Brothers, Jill
  - Carter, Sasha
  - Clark, Stefanie
+ - Clark-Rouire, Jennifer
  - Clarke, Hayley
+ - Cunningham, Jennifer
  - Daniel, Sylvie
  - Darbyshire, Carolyn
  - Derick, Catherine
- - Fraser, Sherry
+ - Dolan, Kim
+ - Dolan, Sinead
+ - Fleury, Tracy
  - Gagnier, Monique
  - Galusha, Kerry
+ - Gates, Amanda
  - George, Tara
  - Gudereit, Marcia
  - Hardy, Shelley
  - Harrison, Meredith
  - Inglis, Nancy
  - Jones, Jennifer
+ - Joyce, Blisse
+ - Korab, Stephanie
  - Lang, Lorraine
  - Law, Kelley
+ - Lawes, Kaitlyn
+ - MacDonald, Rebecca Jean
  - MacPhee, Robyn
  - McCarville, Krista
+ - McEwen, Dawn
  - Morgan, Cheryl
  - Morris, Cori
  - Moses, Dawn
@@ -121,16 +130,22 @@ vs:
  - O'Leary, Susan
  - Osborne, Chantal
  - Overton-Clapham, Cathy
+ - Parsons, Danielle
  - Provencal, Darah
+ - Robison, Michala
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli
+ - Simons, Renee
  - Sivertson, Dailene
+ - Smith, Heather
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
  - Udle, Teri
  - Vey, Lana
+ - Walsh, Jenna
  - Wheatcroft, Georgina
  - Whitaker, Carol
+ - Wylie, Jennifer
 ---

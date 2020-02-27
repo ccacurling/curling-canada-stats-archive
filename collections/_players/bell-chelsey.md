@@ -136,9 +136,7 @@ vs:
 - Carrier, Julie
 - Carter, Sasha
 - Clark, Stefanie
-- Clark-Rouire, Jennifer
 - Comeau, Sandy
-- Comstock, Melanie
 - Cordina, Sheri
 - Crawford, Andrea
 - Cunningham, Cathy
@@ -156,7 +154,6 @@ vs:
 - Gatchell, Sara
 - Gauthier, Cathy
 - George, Tara
-- Gignac, Donna
 - Goss, Peg
 - Gregoire, Veronique
 - Gudereit, Marcia
@@ -202,7 +199,6 @@ vs:
 - McCusker, Joan
 - McEwen, Dawn
 - McPherson, Cheryl
-- Meakin, Breanne
 - Middaugh, Sherry
 - Miller, Wendy
 - Miskew, Emma
@@ -220,6 +216,7 @@ vs:
 - Officer, Jill
 - Olson-Johns, Lori
 - Overton-Clapham, Cathy
+- Parsons, Danielle
 - Paul, Sarah
 - Peters, Laine
 - Preston, Sam
@@ -254,6 +251,7 @@ vs:
 - Westcott, Raunora
 - Wheatcroft, Georgina
 - Whitaker, Carol
+- Wilson, Leslie
 - Yardley, Janelle
 - Zinck, Kay
 ---

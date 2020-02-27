@@ -127,6 +127,7 @@ vs:
  - Odishaw, Grant
  - Park, Kerry
  - Park, Kevin
+ - Park, Shane
  - Patterson, Scott
  - Peachey, Jay
  - Perroud, Pat
@@ -143,7 +144,6 @@ vs:
  - Sawatsky, Rick
  - Semen, Jerry
  - Smith, Dave
- - Stambaugh, Doug
  - Sveistrup, Jody
  - Tetley, Ian
  - Ursel, Bob

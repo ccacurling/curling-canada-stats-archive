@@ -36,9 +36,9 @@ years:
    shots-total: 248
    shots-percent: 82
 vs:
+ - Barbour, Shona
  - Belanger, Nancy
  - Bernard, Cheryl
- - Cormier, Sharon
  - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy

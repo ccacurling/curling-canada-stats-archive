@@ -147,6 +147,7 @@ vs:
  - Arsenault, Mary-Anne
  - Baker, Michelle
  - Balderston, Marcy
+ - Beddington, Shalegh
  - Beever, Jocelyn
  - Belanger, Nancy
  - Bell, Chelsey
@@ -165,6 +166,7 @@ vs:
  - Burlington, Cheryl
  - Bush, Tracy
  - Byers, Denise
+ - Cameron, Nancy
  - Carlos, Marie-Claude
  - Carter, Sasha
  - Clark, Stefanie
@@ -176,7 +178,9 @@ vs:
  - Davis, Brandee
  - Delahunt, Nancy
  - Derick, Catherine
+ - Dezura, Diane
  - Dolan, Kim
+ - Duplisse, Rene
  - Englot, Michelle
  - Fallis, Karen
  - Fallis-Kurz, Lynn
@@ -202,7 +206,6 @@ vs:
  - Harrison, Meredith
  - Harvey, Alison
  - Henry, Lou Ann
- - Herbert, Candide
  - Hodson, Kim
  - Holowec, Ainsley
  - Hopkins, Heather
@@ -221,6 +224,7 @@ vs:
  - Lahucik, Val
  - Laliberte, Connie
  - Larouche, Marie-France
+ - Law, Kelley
  - Lawes, Andrea
  - Lawton, Stefanie
  - Lemay, Annie
@@ -231,7 +235,6 @@ vs:
  - MacCallum, Janice
  - MacDonald, Lawnie
  - MacDonald, Rebecca Jean
- - MacDonald, Shelley
  - MacDougall, Leslie
  - MacInnes, Allison
  - MacLeod, Lisa
@@ -251,6 +254,7 @@ vs:
  - Miller, Maureen
  - Mittelstadt, Candice
  - Moriarty, Monica
+ - Moses, Dawn
  - Moss, Debbie
  - Mulroney, Sandra
  - Muzika, Shelley
@@ -268,7 +272,6 @@ vs:
  - Rocque, Raylene
  - Ross, Allison
  - Sabourin, Joelle
- - Sanders, Pat
  - Sandison, Janice
  - Scales, Julie
  - Schikowski, Keri-Lynn
@@ -277,6 +280,7 @@ vs:
  - Sharpe, Kelli
  - Simons, Renee
  - Singler, Sherri
+ - Skinner, Julie
  - Sonnenberg, Renee
  - Stabel, Stacey
  - Street, Cindy
@@ -290,6 +294,7 @@ vs:
  - Trider, Krista
  - Trowell, Cathy
  - Tucker, Cindy
+ - Wheatcroft, Georgina
  - Whitaker, Lise
  - Wiltzen, Jan
  - Wright, Susan

@@ -120,6 +120,7 @@ years:
 vs:
 - Affleck, Tricia
 - Allen, Susan
+- Allerton, Dana
 - Arnott, Janet
 - Arsenault, Mary-Anne
 - Arseneau, Jane
@@ -153,6 +154,7 @@ vs:
 - Darbyshire, Carolyn
 - Delahunt, Nancy
 - Dezura, Diane
+- Dobson, Sue
 - Dorosz, Peggy
 - Eddy, Lori
 - Englot, Michelle
@@ -174,7 +176,6 @@ vs:
 - Gauthier, Cathy
 - Gellard, Kim
 - Godberson, Heather
-- Gogan, Jennifer
 - Goring, Alison
 - Goss, Peg
 - Graham-MacDonald, Bea
@@ -233,7 +234,6 @@ vs:
 - Nixon, Amy
 - Nohr, Dianne
 - O'Rourke, Kathy
-- Officer, Jill
 - Overton-Clapham, Cathy
 - Pendergast, Judy
 - Peters, Laine
@@ -241,7 +241,6 @@ vs:
 - Power, Marie-Anne
 - Purdy, Karen
 - Rainville, Julie
-- Reed, Shellan
 - Robinson, Lori
 - Ruus, Karen
 - Scales, Julie

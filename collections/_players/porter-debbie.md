@@ -90,11 +90,14 @@ vs:
  - Adams, Diane
  - Alexander, Diane
  - Allen, Laurie
+ - Arnott, Janet
  - Aucoin, Shelley
  - Augustyn, Jan
  - Beaudin, Yvonne
  - Bell, Mary Susan
+ - Bernard, Cheryl
  - Bildfell, Shelly
+ - Blair, Diane
  - Blanchard, Judy
  - Bodogh, Marilyn
  - Brousseau, Deb
@@ -103,19 +106,22 @@ vs:
  - Bussieres, Helene
  - Carney, Laurie
  - Chapman, Kathy
+ - Charette, Agnes
+ - Charette, France
  - Connor, Judy
  - Cossette, Pierrette
  - Currey, Karen
  - Currie, Ann
  - Currie, Barbara
  - Cutcliffe, Margaret
+ - Daniel, Sylvie
  - Darbyshire, Carolyn
  - Darbyshire, Merline
- - Dickeson, Debbi
  - Dillon, Cathy
  - Dolan, Kim
  - Donald, Grace
  - Duranceau, Mary
+ - Earl, Allison
  - Emond, Muriel
  - Englot, Michelle
  - Enright, Barb
@@ -125,6 +131,7 @@ vs:
  - Floyd, Kathy
  - Gabriele, Elena
  - Gallant, Kathie
+ - Gauthier, Cathy
  - Gervais, Chris
  - Goring, Alison
  - Graham, Julie
@@ -143,9 +150,12 @@ vs:
  - Jurgenson, Christine
  - Kavanagh, Sheila
  - Kehler, Lorie
+ - Kellerman, Bev
+ - Kelly, Kim
  - Kennedy, Tracy
  - Kerr, Heather
  - Koyanagi, Karen
+ - Laliberte, Connie
  - Lamarre, June
  - Lang, Lorraine
  - LaRocque, Penny
@@ -155,12 +165,14 @@ vs:
  - Lethbridge, Sherry
  - Lukowich, Judy
  - Lynch, Pauline
+ - MacAulay, Marion
  - MacCallum, Janice
  - MacDonald, Karen
  - MacKay, Carolyn
  - MacLean, Jean
  - Mainwaring, Bev
  - Maitland, Donna
+ - Mattatall, Mary
  - McCallan, Berniece
  - McCracken, Betty
  - McCrae, Betty
@@ -168,12 +180,15 @@ vs:
  - McEdwards, Kathy
  - McGeary, Lori
  - McHugh, Cindy
+ - McInnis, Susan
  - McPherson, Cheryl
  - Millar, Bev
  - Moore, Linda
  - Moses, Dawn
  - Muzika, Shelley
  - Noye, Marnie
+ - Osborne, Chantal
+ - Overton, Kim
  - Poisson, Francine
  - Potvin, Gisele
  - Power, Judy
@@ -186,16 +201,21 @@ vs:
  - Rowan, Sheila
  - Ryan, Jennifer
  - Santos, Deb
+ - Scales, Julie
  - Scott, Donna
  - Seitz, Susan
+ - Sherrington, Barb
  - Shields, Gail
  - Sigurdson, Janine
+ - Skinner, Julie
  - Slemko, Jean
+ - Soligo, Melissa
  - Sparkes, Lindsay
  - Spencer, Barb
  - Stewart, Sheri
  - Stokes, Debbie
  - Stricker, Joan
+ - Sutton, Jodie
  - Thompson, Gillian
  - Thompson, May
  - Turcotte, Kristin
@@ -205,5 +225,6 @@ vs:
  - Vaughan, Marlene
  - Walter, Cathy
  - Werenka, Lil
+ - Willms, Karri
  - Wilson, Eileen
 ---

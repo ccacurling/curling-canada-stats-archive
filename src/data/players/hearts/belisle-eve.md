@@ -82,6 +82,7 @@ vs:
  - Bush, Tracy
  - Cameron, Kate
  - Cameron, Nancy
+ - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
@@ -111,7 +112,6 @@ vs:
  - Holland, Amber
  - Homan, Rachel
  - Hughes, Meaghan
- - Jewer, Michelle
  - Jones, Colleen
  - Jones, Jennifer
  - Kalenchuk, Heather
@@ -140,6 +140,7 @@ vs:
  - More, Whitney
  - Muise, Morgan
  - Naugler, Tara
+ - Nedohin, Heather
  - Nixon, Amy
  - Nowlan, Denise
  - Officer, Jill
@@ -175,7 +176,6 @@ vs:
  - Stubbings, Tiffany
  - Sweeting, Val
  - Tanner, Ros
- - Thiessen, Alison
  - Thomas, Jill
  - Thurston, Jill
  - Trickett, Erica

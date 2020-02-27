@@ -105,23 +105,22 @@ years:
   shots-total: 166
   shots-percent: 88
 vs:
-- Adams, Melissa
 - Affleck, Tricia
-- Anderson, Sherry
+- Arnaud, Chloe
 - Arnott, Janet
 - Arsenault, Mary-Anne
-- Arsenault-Bishop, Nicole
 - Atkinson, Rebecca
 - Ayrey, Jinaye
-- Barbour, Shona
 - Baxter, Jen
 - Beauchamp, Sasha
 - Bernard, Krista
 - Berthelot, Janique
 - Birchard, Shannon
 - Birt, Suzanne
+- Black, Christina
 - Blanchard, Judy
 - Bobbie, Tess
+- Boyle, Jane
 - Bradley, Shelly
 - Breen, Theresa
 - Brown, Rachel
@@ -129,38 +128,36 @@ vs:
 - Campbell, June
 - Carey, Chelsea
 - Carter, Sasha
-- Chislett, Geneva
-- Clark, Stefanie
 - Cormier, Sharon
 - Court, Morgan
 - Courtney, Joanne
 - Crawford, Andrea
+- Crouse, Jennifer
 - Curtis, Stacie
 - Daku, Karen
+- Delahunt, Nancy
 - deSolla, Jodie
+- Devereaux, Julie
 - Dezura, Diane
 - Dobson, Sue
 - Dufresne, Audree
 - Duhaime, Chantal
-- Duncan, Chelsea
 - Duncan, Hollie
-- Duncan, Jenna
 - Einarson, Kerri
 - Englot, Michelle
 - Ferguson, Dana
-- Fesser, Kourtney
-- Fesser, Krista
 - Flaxey, Allison
 - Fleury, Tracy
 - Frey, Audrey
 - Fullerton, Sarah
 - Fyfe, Liz
+- Gagnon, Emilia
 - Galusha, Kerry
 - Gates, Amanda
 - Gibson, Amy
 - Grandy, Clancy
-- Gushulak, Diane
 - Hanlon, Heidi
+- Harvey, Marie-Pier
 - Hatton, Sandra
 - Holtby, Taryn
 - Homan, Rachel
@@ -174,8 +171,6 @@ vs:
 - Jones-Walker, Debbie
 - Kelly, Kim
 - Koehler, Megan
-- Koltun, Sarah
-- Korchinski, Karlee
 - Kreviazuk, Alison
 - Kreviazuk, Cheryl
 - Kreviazuk, Lynn
@@ -186,10 +181,10 @@ vs:
 - LeDrew, Stephanie
 - Lemay, Annie
 - Lilly, Kendra
-- Lister, Kendra
 - MacCallum, Janice
 - MacCuish, Kristin
 - MacDougall, Leslie
+- Mackey, Robyn
 - MacPhee, Robyn
 - Mair, Jessica
 - Martin, Heather
@@ -207,14 +202,13 @@ vs:
 - Olson-Johns, Lori
 - Overton-Clapham, Cathy
 - Parsons, Danielle
+- Perron, Melina
 - Peterman, Jocelyn
 - Peters, Laine
 - Phillips, Margaret Lea
 - Porter, Erin
 - Potts, Sarah
-- Price, Kara
 - Renouf, Michele
-- Robichaud, Sylvie
 - Ross, Allison
 - Sabourin, Joelle
 - Sagle, Karen
@@ -225,17 +219,19 @@ vs:
 - Shumay, Jill
 - Sippala, Ashley
 - Skinner, Julie
-- Smallwood, Jody
 - Smith, Heather
 - Stahl, Carrie
 - Stewart, Sheri
 - Strong, Heather
 - Sweeting, Val
+- Thiboutot, Isabelle
 - Tippin, Julie
+- Trickett, Erica
 - Van Osch, Kalia
 - Van Osch, Kesa
 - Van Osch, Marika
 - Vink, Rachelle
+- Walsh, Jenna
 - Walter, Cathy
 - Wasylkiw, Lauren
 - Wazney, Sarah
@@ -247,6 +243,5 @@ vs:
 - Whitrow, Leanne
 - Wilson, Leslie
 - Wright, Susan
-- Wylie, Jennifer
 - Zinck, Kay
 ---

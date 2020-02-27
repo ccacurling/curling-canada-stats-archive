@@ -76,6 +76,7 @@ vs:
  - Burgess, Craig
  - Carruthers, Reid
  - Dacey, Mark
+ - Dunstone, Matthew
  - Epping, John
  - Fenton, Brad
  - Ferbey, Randy
@@ -96,6 +97,7 @@ vs:
  - Koe, Kevin
  - Korab, Jamie
  - Laing, Brent
+ - Laycock, Steve
  - Leech, Ron
  - Lohnes, Bruce
  - Martin, Kevin
@@ -107,6 +109,8 @@ vs:
  - Mittelstadt, Kelly
  - Moffatt, Paul
  - Morris, John
+ - Muyres, Dallan
+ - Muyres, Kirk
  - Nedohin, David
  - Neufeld, B.J.
  - Neufeld, Denni

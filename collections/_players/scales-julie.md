@@ -89,6 +89,7 @@ vs:
  - Bernard, Krista
  - Betker, Jan
  - Blackburn, Julie
+ - Blanchard, Judy
  - Blashko, Denise
  - Bohmer, Brenda
  - Breen, Theresa
@@ -126,7 +127,9 @@ vs:
  - Gauthier, Cathy
  - Gignac, Donna
  - Goss, Peg
+ - Green, Sue
  - Gudereit, Marcia
+ - Hanlon, Heidi
  - Harrison, Meredith
  - Hodson, Kim
  - Hopkins, Heather
@@ -162,8 +165,8 @@ vs:
  - Moses, Dawn
  - Mulroney, Sandra
  - Nedohin, Heather
- - Nichols, Helen
  - Osborne, Chantal
+ - Porter, Debbie
  - Power, Marie-Anne
  - Renouf, Michele
  - Sauer, Cathy
@@ -171,13 +174,18 @@ vs:
  - Schmirler, Sandra
  - Sharpe, Kelli
  - Sherrington, Barb
+ - Skinner, Julie
+ - Soligo, Melissa
+ - Stewart, Sheri
  - Stokes, Debbie
  - Stricker, Joan
  - Strong, Heather
+ - Sutton, Jodie
  - Thomas, Karen
  - Trider, Krista
  - Trowell, Cathy
  - Walker, Lisa
+ - Willms, Karri
  - Wilson, Patty
  - Wiltzen, Jan
 ---

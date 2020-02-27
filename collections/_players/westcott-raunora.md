@@ -122,11 +122,17 @@ vs:
 - Alcoe-Holland, Jill
 - Aleksic, Shannon
 - Armstrong, Jacquie
+- Arnaud, Chloe
+- Arsenault, Mary-Anne
 - Babin, Jillian
+- Barbour, Shona
 - Barker, Penny
+- Baxter, Jen
 - Belisle, Eve
 - Bell, Chelsey
+- Birchard, Shannon
 - Birt, Suzanne
+- Black, Christina
 - Bobbie, Tess
 - Bradley, Shelly
 - Brassard, Veronique
@@ -134,13 +140,12 @@ vs:
 - Carey, Chelsea
 - Carmody, Erin
 - Carter, Sasha
-- Charette, France
-- Clark-Rouire, Jennifer
 - Comeau, Martine
 - Cormier, Sharon
 - Court, Morgan
 - Courtney, Joanne
 - Crawford, Andrea
+- Crouse, Jennifer
 - Curtis, Stacie
 - Cutcliffe, Margaret
 - deJager, Blaine
@@ -148,17 +153,27 @@ vs:
 - Devereaux, Julie
 - Doig, Deanna
 - Duhaime, Chantal
+- Duncan, Hollie
+- Einarson, Kerri
 - Einarson, Megan
 - Ellis, Danielle
 - Eyamie, Lisa
 - Ferguson, Dana
 - Flaxey, Allison
+- Fleury, Tracy
 - Fullerton, Sarah
+- Fyfe, Liz
+- Gagnon, Emilia
 - Galusha, Kerry
+- Gates, Amanda
+- George, Tara
+- Gibson, Amy
+- Gilman, Sheena
 - Grandy, Clancy
 - Gregoire, Veronique
 - Guzzwell, Stephanie
 - Hardy, Shelley
+- Harvey, Marie-Pier
 - Hill, Trish
 - Holland, Amber
 - Homan, Rachel
@@ -168,6 +183,7 @@ vs:
 - Kleibrink, Shannon
 - Koehler, Megan
 - Kreviazuk, Alison
+- Kreviazuk, Cheryl
 - Kreviazuk, Lynn
 - Larouche, Marie-France
 - Lawes, Kaitlyn
@@ -175,7 +191,9 @@ vs:
 - Lemay, Annie
 - Lemon, Colette
 - Lilly, Kendra
+- MacCuish, Kristin
 - MacDougall, Leslie
+- MacLean, Kari
 - MacPhee, Robyn
 - Makichuck, Lindsay
 - Mallett, Marla
@@ -183,16 +201,21 @@ vs:
 - Martin, Heather
 - Mattatall, Mary
 - McCarville, Krista
+- McConnery, Nancy
+- McEvoy, Julie
 - McEwen, Dawn
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
-- Middaugh, Sherry
+- Miller, Wendy
 - Miskew, Emma
 - Moore, Kristie
 - More, Whitney
+- Moses, Dawn
 - Naugler, Tara
+- Nedohin, Heather
 - Nicholls, Brenda
 - Nixon, Amy
+- Njegovan, Selena
 - Nowlan, Denise
 - O'Rourke, Brittany
 - O'Rourke, Kathy
@@ -200,14 +223,17 @@ vs:
 - Olson-Johns, Lori
 - Overton-Clapham, Cathy
 - Paul, Sarah
+- Perron, Melina
 - Peterman, Jocelyn
 - Peters, Laine
 - Porter, Erin
 - Potts, Sarah
+- Rainville, Julie
 - Ramsay, Geri Lynn
 - Richards, Brette
+- Rogers, Leslie
 - Rogers, Rhonda
-- Saulnier, Andrea
+- Sagle, Karen
 - Scheidegger, Casey
 - Scheidegger, Jessie
 - Schneider, Kim
@@ -220,10 +246,16 @@ vs:
 - Sobey, Lianne
 - Sweeting, Val
 - Thiessen, Alison
+- Thomas, Jill
 - Tippin, Julie
 - Trickett, Erica
+- Van Osch, Kalia
+- Van Osch, Kesa
+- Van Osch, Marika
 - Vink, Rachelle
 - Weagle, Lisa
 - Webster, Bronwen
+- Webster, Crystal
 - Wilkes, Sarah
+- Wylie, Jennifer
 ---

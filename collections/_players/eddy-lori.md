@@ -87,7 +87,6 @@ vs:
 - Daniel, Sylvie
 - Delahunt, Nancy
 - Dolan, Kim
-- Floyd, Kathy
 - Fraser, Sherry
 - Frey, Audrey
 - Gellard, Kim
@@ -135,6 +134,7 @@ vs:
 - Sabourin, Joelle
 - Schmirler, Sandra
 - Sipka, Joanne
+- Stewart, Sheri
 - Thurston, Jill
 - Zielke, Colleen
 ---

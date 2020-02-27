@@ -115,6 +115,7 @@ vs:
 - Samagalski, Derek
 - Schneider, Catlin
 - St.Louis, David
+- Steski, Peter
 - Thiessen, Brad
 - Trepanier, Jean-Francois
 - Walker, Geoff

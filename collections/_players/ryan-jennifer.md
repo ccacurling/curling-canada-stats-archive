@@ -41,8 +41,9 @@ vs:
  - Bartlett, Sue Anne
  - Blanchard, Judy
  - Brown, Katie
- - Chapman, Kathy
  - Chaulk, Wendy
+ - Cowan, Michele
+ - Dolan, Kim
  - Dwyer, Patricia
  - Englot, Michelle
  - Fahlman, Kathy
@@ -53,16 +54,19 @@ vs:
  - Greening, Jackie-Rae
  - Hanlon, Heidi
  - Houston, Heather
+ - Jones, Karen
  - Kehler, Lorie
  - Kennedy, Tracy
  - Koyanagi, Karen
  - Lang, Lorraine
  - Law, Kelley
  - Lawes, Andrea
+ - MacCallum, Janice
  - Maitland, Donna
  - McHugh, Cindy
  - McPherson, Cheryl
  - Moses, Dawn
+ - Muzika, Shelley
  - Poisson, Francine
  - Porter, Debbie
  - Power, Judy

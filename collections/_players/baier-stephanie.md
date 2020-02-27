@@ -40,44 +40,36 @@ years:
    shots-total: 186
    shots-percent: 79
 vs:
- - Anderson, Sherry
  - Atkinson, Rebecca
  - Brothers, Jill
  - Brown, Rachel
  - Carey, Chelsea
- - Cooper, Kathryn
  - Cottrill, Katie
+ - Court, Morgan
  - Courtney, Joanne
  - Crawford, Andrea
- - Cunningham, Jessica
+ - Davies, Lisa
  - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
  - Ferguson, Dana
+ - Flaxey, Allison
  - Foster, Kristen
  - Gannon, Melissa
  - Homan, Rachel
  - Joyce, Blisse
- - Kasner, Marliese
  - Koltun, Sarah
  - Kreviazuk, Alison
- - Kreviazuk, Lynn
- - Lawton, Stefanie
  - MacDonald, Rebecca Jean
  - McDonald, Kristy
  - Miskew, Emma
  - Nugent, Pamela
- - O'Rourke, Brittany
  - Parsons, Danielle
  - Robison, Michala
  - Ross, Allison
  - Sinclair, Andrea
- - Singler, Sherri
- - Sivertson, Dailene
  - Smith, Heather
- - Strong, Heather
- - Strong, Laura
  - Sweeting, Val
  - Titheridge, Lindsay
  - Tuck, Kim

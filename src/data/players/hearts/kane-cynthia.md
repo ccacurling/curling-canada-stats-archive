@@ -51,6 +51,7 @@ vs:
  - Earl, Allison
  - Flesjer, Melody
  - Floyd, Kathy
+ - Gallant, Kathie
  - Gervais, Chris
  - Haspect, Ginette
  - Howse, Lillian

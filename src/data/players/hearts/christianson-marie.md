@@ -53,51 +53,52 @@ years:
    shots-total: 214
    shots-percent: 80
 vs:
+ - Armstrong, Jennifer
  - Atkinson, Rebecca
+ - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
  - Birnie, Hailey
  - Blais, Amelie
- - Blaney, Jennifer
- - Bodner, Jenine
- - Boudreault, Patricia
  - Boyle, Jane
+ - Brine, Jenn
  - Brothers, Jill
  - Brown, Rachel
  - Campbell, Jolene
  - Carey, Chelsea
+ - Carter, Sasha
+ - Clark-Rouire, Jennifer
+ - Courtney, Joanne
+ - Crawford, Andrea
  - Curtis, Stacie
- - Daigle, Julie
  - Devereaux, Julie
  - Einarson, Kerri
  - Ferguson, Dana
+ - Forward, Katie
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Jenny
- - Griffin, Alison
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Homan, Rachel
  - Howard, Ashley
  - Hunkin, Jessie
- - Ingram, Megan
  - Jewer, Michelle
  - Jones, Jennifer
- - Joyce, Blisse
  - Koltun, Sarah
  - Larouche, Marie-France
- - Lavery, Tracey
- - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
+ - Lemay, Annie
  - Letendre, Pascale
  - Lilly, Kendra
  - MacCuish, Kristin
  - McCarville, Krista
  - McEwen, Dawn
- - Munroe, Anna
+ - Miskew, Emma
  - Murphy, Sarah
  - Njegovan, Selena
  - Nicholls, Brenda
@@ -128,6 +129,7 @@ vs:
  - Vandale, Trysta
  - Vautour, Carrie
  - Wark, Sarah
+ - Weagle, Lisa
  - Wilkes, Sarah
  - Williamson, Ashley
 ---

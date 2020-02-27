@@ -103,6 +103,7 @@ vs:
 - Bradley, Shelly
 - Brown, Jacalyn
 - Burlington, Cheryl
+- Cameron, Nancy
 - Cormier, Sharon
 - Cunningham, Cathy
 - Darbyshire, Carolyn
@@ -124,10 +125,10 @@ vs:
 - Graham-MacDonald, Bea
 - Grenier, Valerie
 - Gushulak, Diane
-- Harding, Mary
 - Harrison, Meredith
 - Harvey, Alison
 - Hodson, Kim
+- Holden, Anna-Mae
 - Holland, Amber
 - Holowec, Ainsley
 - Horne, Kate
@@ -149,7 +150,6 @@ vs:
 - MacDonald, Shelley
 - MacDougall, Leslie
 - Martin, Denise
-- Martin, Heather
 - Materi, Roberta
 - McCagg-Nystrom, Heather
 - McDonald, Tina

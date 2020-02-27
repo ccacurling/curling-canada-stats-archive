@@ -60,13 +60,13 @@ vs:
  - Nedohin, David
  - Odishaw, Grant
  - Park, Kevin
+ - Park, Shane
  - Pfeifer, Scott
  - Pierce, Brent
  - Rocque, Marcel
  - Ryan, Jeff
  - Rycroft, Carter
  - Savill, Craig
- - Stambaugh, Doug
  - Sveistrup, Jody
  - Tetley, Ian
  - Ursel, Bob

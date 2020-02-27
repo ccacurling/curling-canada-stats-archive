@@ -69,4 +69,26 @@ years:
    shots-total: 82
    shots-percent: 64
 vs:
+ - Arnaud, Chloe
+ - Cameron, Kate
+ - Duncan, Chelsea
+ - Duncan, Jenna
+ - Englot, Michelle
+ - Fullerton, Sarah
+ - Gagnon, Emilia
+ - Harvey, Marie-Pier
+ - Hughes, Meaghan
+ - MacPhee, Robyn
+ - McQuaid, Michelle
+ - McTaggart, Cary-Anne
+ - Meilleur, Briane
+ - Moore, Kristie
+ - O'Connor, Susan
+ - Perron, Melina
+ - Price, Kara
+ - Scheidegger, Casey
+ - Scheidegger, Jessie
+ - Smallwood, Jody
+ - Thiboutot, Isabelle
+ - Wilson, Leslie
 ---

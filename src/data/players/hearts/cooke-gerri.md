@@ -82,11 +82,9 @@ vs:
  - Bodogh, Marilyn
  - Busche, Jodi
  - Cey, Naomi
- - Charette, Agnes
- - Charette, France
  - Cordina, Sheri
+ - Cormier, Sharon
  - Cunningham, Cathy
- - Daniel, Sylvie
  - Delahunt, Nancy
  - Dezura, Diane
  - Dorosz, Peggy
@@ -108,6 +106,7 @@ vs:
  - Hutton, Barb
  - Iskiw, Beth
  - Jones, Colleen
+ - Kaylo, Kelly
  - Kelly, Kim
  - Kerr, Kathy
  - Kleibrink, Shannon
@@ -129,13 +128,14 @@ vs:
  - Nicholls, Brenda
  - Nixon, Amy
  - Nohr, Dianne
+ - Ondrack, Wendy
  - O'Rourke, Kathy
- - Osborne, Chantal
  - Overton-Clapham, Cathy
  - Pendergast, Judy
  - Peters, Laine
  - Phillips, Laura
  - Rainville, Julie
+ - Rankin, Heather
  - Reed, Shellan
  - Ruus, Karen
  - Scott, Donna
@@ -145,9 +145,9 @@ vs:
  - Snider, Shelly
  - Stabel, Stacey
  - Stewart, Sheri
+ - Train, Mona
  - Wall, Kirsten
  - Wheatcroft, Georgina
- - Whipple, Paula
  - Wieler, Bev
  - Zielke, Colleen
  - Zinck, Kay

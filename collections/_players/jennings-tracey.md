@@ -55,7 +55,6 @@ vs:
  - Gudereit, Marcia
  - Gushulak, Diane
  - Hanlon, Heidi
- - Henry, Lou Ann
  - Horne, Kate
  - Johnstone, Loralee
  - Jurgenson, Christine
@@ -73,6 +72,7 @@ vs:
  - McConnery, Nancy
  - McCrady, Christine
  - McCusker, Joan
+ - McInnis, Susan
  - Montgomery, Kay
  - Moses, Dawn
  - Overton-Clapham, Cathy

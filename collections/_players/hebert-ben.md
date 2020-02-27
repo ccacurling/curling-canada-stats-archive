@@ -513,7 +513,6 @@ vs:
 - Rose, Jeff
 - Ryan, Keith
 - Rycroft, Carter
-- Sallows, Tom
 - Samagalski, Derek
 - Savill, Craig
 - Sawatsky, Rick

@@ -153,19 +153,34 @@ years:
    shots-total: 202
    shots-percent: 78
 vs:
+ - Affleck, Tricia
+ - Armstrong, Jacquie
+ - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
+ - Barbour, Shona
+ - Belisle, Eve
  - Birt, Suzanne
  - Blais, Amelie
  - Boyle, Jane
- - Brothers, Jill
+ - Bradley, Shelly
+ - Brine, Jenn
  - Carey, Chelsea
+ - Carter, Sasha
  - Christianson, Marie
- - Clark-Rouire, Jennifer
+ - Comeau, Martine
  - Cormier, Sharon
  - Curtis, Stacie
  - Devereaux, Julie
+ - Dolan, Kim
+ - Dolan, Sinead
  - Einarson, Kerri
+ - Einarson, Megan
+ - Ellis, Danielle
+ - Englot, Michelle
+ - Fleury, Tracy
  - Fyfe, Liz
+ - Galusha, Kerry
+ - Gates, Amanda
  - Hanna, Jenn
  - Hanna, Stephanie
  - Hughes, Meaghan
@@ -178,9 +193,15 @@ vs:
  - Lemay, Annie
  - Lilly, Kendra
  - MacCuish, Kristin
+ - MacDonald, Rebecca Jean
+ - MacDougall, Leslie
  - MacPhee, Robyn
+ - Makichuck, Lindsay
+ - Materi, Roberta
  - McCarville, Krista
  - McEwen, Dawn
+ - Miller, Wendy
+ - More, Whitney
  - Moses, Dawn
  - Murphy, Sarah
  - Naugler, Tara
@@ -189,17 +210,28 @@ vs:
  - Nixon, Amy
  - Officer, Jill
  - O'Neill, Brit
+ - Parsons, Danielle
  - Peterman, Jocelyn
  - Peters, Laine
  - Porter, Erin
  - Potts, Sarah
+ - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Robichaud, Sylvie
+ - Robison, Michala
  - Sagle, Karen
+ - Schraeder, Jeanna
+ - Scott, Kelly
  - Sippala, Ashley
+ - Slywka, Sarah
+ - Smith, Heather
+ - Sweeting, Val
  - Thompson, Karla
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie
+ - Vey, Lana
+ - Walsh, Jenna
+ - Wylie, Jennifer
 ---

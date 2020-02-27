@@ -55,27 +55,31 @@ years:
 vs:
  - Adams, Melissa
  - Anderson, Sherry
+ - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Barbour, Shona
+ - Baxter, Jen
  - Birchard, Shannon
  - Birt, Suzanne
- - Blais, Amelie
+ - Black, Christina
  - Boyle, Jane
+ - Brine, Jenn
  - Brothers, Jill
+ - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
- - Chislett, Geneva
  - Christianson, Marie
+ - Crouse, Jennifer
  - Curtis, Stacie
  - Devereaux, Julie
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
+ - Englot, Michelle
  - Fesser, Kourtney
  - Fesser, Krista
  - Fleury, Tracy
- - Fullerton, Sarah
  - Galusha, Kerry
  - Gates, Amanda
  - Gibson, Amy
@@ -84,9 +88,7 @@ vs:
  - Hanna, Stephanie
  - Howard, Ashley
  - Hughes, Meaghan
- - Hutchings, Denise
  - Jones, Jennifer
- - Joyce, Blisse
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
@@ -96,12 +98,12 @@ vs:
  - Lawes, Kaitlyn
  - LeDrew, Stephanie
  - Lemay, Annie
+ - Letendre, Pascale
  - Lilly, Kendra
  - Lister, Kendra
  - MacPhee, Robyn
  - McCarville, Krista
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Moore, Kristie
  - Murphy, Sarah
@@ -114,13 +116,13 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Price, Kara
+ - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Robichaud, Sylvie
  - Sagle, Karen
  - Scheidegger, Casey
  - Scheidegger, Jessie
- - Shackleton, Amie
  - Sippala, Ashley
  - Smallwood, Jody
  - Thompson, Karla
@@ -130,8 +132,9 @@ vs:
  - Van Osch, Kesa
  - Van Osch, Marika
  - Vautour, Carrie
+ - Walsh, Jenna
  - Webster, Crystal
- - West, Christianne
+ - Westcott, Raunora
  - Williamson, Ashley
- - Wylie, Jennifer
+ - Wilson, Leslie
 ---

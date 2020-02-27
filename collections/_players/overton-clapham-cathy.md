@@ -359,6 +359,7 @@ vs:
 - Carrier, Julie
 - Carter, Sasha
 - Cey, Naomi
+- Charette, France
 - Clark, Stefanie
 - Clarke, Hayley
 - Comeau, Martine
@@ -373,7 +374,6 @@ vs:
 - Crouse, Jennifer
 - Cunningham, Cathy
 - Curtis, Stacie
-- Dagg-Jackson, Elaine
 - Daku, Karen
 - Daniel, Sylvie
 - Darbyshire, Carolyn
@@ -381,6 +381,7 @@ vs:
 - Delahunt, Nancy
 - Derick, Catherine
 - deSolla, Jodie
+- Dezura, Diane
 - Dobson, Sue
 - Dolan, Kim
 - Dorosz, Peggy
@@ -445,7 +446,6 @@ vs:
 - Jackson, Virginia
 - Jennings, Tracey
 - Jesty, Janet
-- Jewer, Michelle
 - Johnstone, Loralee
 - Jones, Colleen
 - Jones, Jennifer
@@ -471,7 +471,6 @@ vs:
 - Lawes, Kaitlyn
 - Lawton, Stefanie
 - Leblanc, Lisa
-- Leclerc, Valerie
 - LeDrew, Stephanie
 - Leger, Stacey
 - Lemay, Annie
@@ -516,6 +515,7 @@ vs:
 - McHugh, Cindy
 - McInnis, Susan
 - McKnight, Patti
+- McNamee, Karen
 - McPherson, Cheryl
 - McTaggart, Cary-Anne
 - Merklinger, Anne
@@ -609,6 +609,7 @@ vs:
 - Smith, Heather
 - Snider, Shelly
 - Sobey, Lianne
+- Soligo, Melissa
 - Sonnenberg, Renee
 - Spencer, Barb
 - Stahl, Carrie
@@ -630,6 +631,7 @@ vs:
 - Thurston, Jill
 - Tincher, Twyla
 - Tippin, Julie
+- Train, Mona
 - Tuck, Kimberly
 - Tucker, Cindy
 - Turcotte, Kristin
@@ -645,7 +647,6 @@ vs:
 - Webster, Crystal
 - Westcott, Raunora
 - Wheatcroft, Georgina
-- Whipple, Paula
 - Whitaker, Carol
 - Whitrow, Leanne
 - Wieler, Bev

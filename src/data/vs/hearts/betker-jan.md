@@ -5810,7 +5810,7 @@ vs:
         loss: 0
       player2:
         team: 'ON'
-        position: Second
+        position: Lead
         percent: 75
         win: 0
         loss: 1

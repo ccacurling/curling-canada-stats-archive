@@ -71,6 +71,7 @@ vs:
  - Charette, France
  - Chaulk, Wendy
  - Comeau, Sandy
+ - Cooke, Gerri
  - Cormier, Sharon
  - Cunningham, Cathy
  - Daniel, Sylvie
@@ -80,10 +81,10 @@ vs:
  - Fahlman, Kathy
  - Floyd, Kathy
  - Fowler, Lois
- - Fowler, Rhonda
  - Frey, Audrey
  - Gabriele, Elena
  - Gatchell, Sara
+ - Gauthier, Cathy
  - Goring, Alison
  - Greening, Jackie-Rae
  - Gudereit, Marcia
@@ -137,7 +138,6 @@ vs:
  - Thomas, Maria
  - Turcotte, Kristin
  - Usher, Leanne
- - Webb, Corine
  - Willms, Karri
  - Wright, Joanne
 ---

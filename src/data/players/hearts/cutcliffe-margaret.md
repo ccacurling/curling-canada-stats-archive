@@ -116,7 +116,6 @@ vs:
  - Ellwood, Laurie
  - Englot, Michelle
  - Erickson, Judy
- - Eyamie, Lisa
  - Fahlman, Kathy
  - Ferland, Marie
  - Filion, Nicole
@@ -125,7 +124,6 @@ vs:
  - Galusha, Kerry
  - Gould, Karen
  - Graham, Julie
- - Gummer, Janet
  - Hanlon, Heidi
  - Herlinveaux, Louise
  - Hill, Trish
@@ -134,8 +132,8 @@ vs:
  - Jones, Karen
  - Jones-Walker, Debbie
  - Jurgenson, Christine
+ - Karwacki, Krysten
  - Kerr, Kathy
- - Kleibrink, Shannon
  - Knickle, Margie
  - Koehler, Megan
  - Lamarre, June
@@ -144,6 +142,7 @@ vs:
  - Lukowich, Judy
  - Lynch, Pauline
  - MacDonald, Karen
+ - MacDonald, Rebecca Jean
  - MacLean, Jean
  - MacPhee, Robyn
  - Mainwaring, Bev
@@ -184,7 +183,6 @@ vs:
  - Sippala, Ashley
  - Sparkes, Lindsay
  - Stokes, Debbie
- - Thiessen, Alison
  - Thompson, Carol
  - Tousignant, Helene
  - Treloar, Cathy
@@ -194,7 +192,6 @@ vs:
  - Weagle, Lisa
  - Westcott, Raunora
  - Wheatcroft, Georgina
- - Wilkes, Sarah
  - Wilson, Eileen
  - Wilson, Leslie
 ---

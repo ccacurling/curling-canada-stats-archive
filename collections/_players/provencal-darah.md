@@ -53,11 +53,11 @@ vs:
  - George, Tara
  - Gudereit, Marcia
  - Hardy, Shelley
+ - Harrison, Meredith
  - Inglis, Nancy
  - Jones, Jennifer
  - Lang, Lorraine
  - MacPhee, Robyn
- - Mattatall, Mary
  - McCarville, Krista
  - Morgan, Cheryl
  - Morris, Cori
@@ -69,7 +69,6 @@ vs:
  - O'Leary, Susan
  - Osborne, Chantal
  - Overton-Clapham, Cathy
- - Phillips, Kristen
  - Power, Marie-Anne
  - Schraeder, Jeanna
  - Scott, Kelly

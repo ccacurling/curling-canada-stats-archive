@@ -86,62 +86,28 @@ years:
    shots-total: 70
    shots-percent: 80
 vs:
- - Baldwin, Nicole
+ - Affleck, Tricia
+ - Armstrong, Jennifer
+ - Babin, Jillian
  - Barbour, Shona
- - Belisle, Eve
- - Birnie, Hailey
  - Birt, Suzanne
- - Blaney, Jennifer
- - Bodner, Jenine
- - Boudreault, Patricia
- - Brown, Rachel
- - Carey, Chelsea
+ - Carmody, Erin
  - Christianson, Marie
- - Comeau, Martine
- - Cormier, Sharon
- - Crouse, Jennifer
- - Daigle, Julie
- - Einarson, Megan
- - Ellis, Danielle
- - Ferguson, Dana
+ - Crawford, Andrea
+ - Forward, Katie
  - Galusha, Kerry
- - Gates, Jenny
- - Gilman, Sheena
- - Griffin, Alison
+ - George, Tara
  - Hughes, Meaghan
  - Hunkin, Jessie
- - Ingram, Megan
- - Jones, Jennifer
- - Koehler, Megan
  - Koltun, Sarah
- - Lavoie, Gabrielle
- - Lawes, Kaitlyn
  - Lawton, Stefanie
- - Lilly, Kendra
- - Makichuck, Lindsay
+ - MacLean, Kari
  - McCarville, Krista
- - McConnery, Nancy
- - McEwen, Dawn
  - McQuaid, Michelle
- - More, Whitney
- - Munroe, Anna
- - Naugler, Tara
- - Nicholls, Brenda
- - Officer, Jill
- - Overton-Clapham, Cathy
- - Peterman, Jocelyn
- - Pilote, Kristen
- - Potts, Sarah
- - Rainville, Julie
- - Rusnell, Jen
- - Sandwith, Carley
- - Shaw, Ladene
+ - O'Rourke, Kathy
+ - Ramsay, Geri Lynn
  - Silvernagle, Robyn
- - Strong, Helen
- - Sweeting, Val
+ - Sippala, Ashley
  - Thevenot, Kara
- - Thomas, Jill
  - Tran, Brittany
- - Wark, Sarah
- - Wilkes, Sarah
 ---

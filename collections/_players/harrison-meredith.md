@@ -71,6 +71,7 @@ years:
    shots-percent: 76
 vs:
  - Affleck, Tricia
+ - Aleksic, Shannon
  - Allen, Susan
  - Allerton, Dana
  - Anderson, Sherry
@@ -91,18 +92,14 @@ vs:
  - Brown, Janet
  - Burlington, Cheryl
  - Carter, Sasha
- - Clark, Stefanie
  - Comeau, Sandy
  - Cooke, Gerri
  - Cordina, Sheri
  - Cormier, Sharon
  - Cunningham, Cathy
- - Daniel, Sylvie
  - Darbyshire, Carolyn
  - Delahunt, Nancy
- - Derick, Catherine
  - Dezura, Diane
- - Dolan, Sinead
  - Fallis, Karen
  - Fallis-Kurz, Lynn
  - Farrell, Allison
@@ -138,18 +135,17 @@ vs:
  - Kleibrink, Shannon
  - Lang, Lorraine
  - Larouche, Marie-France
+ - Law, Kelley
  - Lawes, Andrea
  - Lemay, Annie
  - Lewis, Kristy
  - MacCallum, Janice
  - MacDonald, Lawnie
- - MacPhee, Robyn
  - Marchand, Stephanie
  - Martin, Heather
  - McCarville, Krista
  - McInnis, Susan
  - Middaugh, Sherry
- - Morgan, Cheryl
  - Morris, Cori
  - Moses, Dawn
  - Moss, Debbie
@@ -161,9 +157,9 @@ vs:
  - Officer, Jill
  - O'Leary, Susan
  - O'Rourke, Kathy
- - Osborne, Chantal
  - Overton-Clapham, Cathy
  - Power, Marie-Anne
+ - Provencal, Darah
  - Reed, Shellan
  - Robinson, Lori
  - Scales, Julie
@@ -174,9 +170,9 @@ vs:
  - Stabel, Stacey
  - Stewart, Sheri
  - Strong, Heather
+ - Strong, Laura
  - Stubbings, Tiffany
  - Vey, Lana
  - Wall, Kirsten
  - Wheatcroft, Georgina
- - Whitaker, Carol
 ---

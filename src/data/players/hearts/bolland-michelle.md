@@ -36,8 +36,8 @@ years:
    shots-total: 22
    shots-percent: 70
 vs:
- - Gagnier, Monique
- - Galusha, Kerry
- - McCagg-Nystrom, Heather
- - Sharpe, Kelli
+ - Crawford, Andrea
+ - deSolla, Jodie
+ - MacDiarmid, Kristen
+ - Muise, Morgan
 ---

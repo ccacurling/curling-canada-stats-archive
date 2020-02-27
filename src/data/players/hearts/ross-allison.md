@@ -89,7 +89,6 @@ years:
 vs:
  - Aleksic, Shannon
  - Allen, Michelle
- - Anderson, Sherry
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Arseneau, Jane
@@ -141,6 +140,7 @@ vs:
  - Hanna, Jenn
  - Hanna, Stephanie
  - Henry, Lou Ann
+ - Hersikorn, Patty
  - Holtby, Taryn
  - Homan, Rachel
  - Horne, Kate
@@ -153,6 +153,7 @@ vs:
  - Kasner, Marliese
  - Kelly, Kim
  - King, Cathy
+ - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
  - Kreviazuk, Alison
@@ -175,12 +176,14 @@ vs:
  - McDonald, Tina
  - McEwen, Dawn
  - McNamee, Karen
+ - Meakin, Breanne
  - Miller, Maureen
  - Miller, Wendy
  - Miskew, Emma
  - Mittelstadt, Candice
  - Moore, Kristie
  - Moriarty, Monica
+ - Morris, Cori
  - Moss, Debbie
  - Nedohin, Heather
  - Officer, Jill
@@ -208,6 +211,7 @@ vs:
  - Simons, Renee
  - Sinclair, Andrea
  - Singler, Sherri
+ - Sivertson, Dailene
  - Smith, Heather
  - Sonnenberg, Renee
  - Street, Cindy

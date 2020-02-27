@@ -117,6 +117,7 @@ vs:
 - Bradley, Shelly
 - Brassard, Veronique
 - Cameron, Nancy
+- Campbell, Jolene
 - Carmody, Erin
 - Comeau, Martine
 - Cormier, Sharon
@@ -125,13 +126,11 @@ vs:
 - Cunningham, Jennifer
 - Curtis, Stacie
 - Darbyshire, Carolyn
-- deSolla, Jodie
 - Dolan, Kim
 - Dolan, Sinead
 - Einarson, Megan
 - Ellis, Danielle
 - Englot, Michelle
-- Enright, Barb
 - Fallis, Karen
 - Filteau, Anne-Marie
 - Fleury, Tracy
@@ -172,7 +171,6 @@ vs:
 - McCarville, Krista
 - McConnery, Nancy
 - McEwen, Dawn
-- Meakin, Breanne
 - Miller, Wendy
 - Miskew, Emma
 - More, Whitney
@@ -196,7 +194,6 @@ vs:
 - Preston, Sam
 - Rainville, Julie
 - Ramsay, Geri Lynn
-- Robertson, Darcy
 - Rogers, Rhonda
 - Schneider, Kim
 - Schneider, Tammy
@@ -205,14 +202,12 @@ vs:
 - Slywka, Sarah
 - Smith, Heather
 - Sobey, Lianne
-- Spencer, Barb
 - Strong, Heather
 - Strong, Laura
 - Sweeting, Val
 - Thomas, Jill
 - Thurston, Jill
 - Udle, Teri
-- Unrau, Faye
 - Vey, Lana
 - Walsh, Jenna
 - Weagle, Lisa

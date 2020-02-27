@@ -38,7 +38,6 @@ years:
 vs:
  - Adams, Valerie
  - Armstrong, Iris
- - Bildfell, Shelly
  - Bonar, Maureen
  - Bothwell-Myers, Connie
  - Brawley, Sandra
@@ -54,7 +53,6 @@ vs:
  - Gallant, Kathie
  - Horne, Sharon
  - Jenkins, Sandra
- - Jurgenson, Christine
  - Keays, Stella
  - Lang, Lorraine
  - LaRocque, Penny
@@ -62,8 +60,6 @@ vs:
  - MacKay, Carolyn
  - MacLean, Jean
  - Martin, Lillian
- - McCrae, Betty
- - McCrae, Lou
  - Pinsent, Barbara
  - Provo, Anne
  - Raby, Linda
@@ -73,7 +69,6 @@ vs:
  - Sanford, Pamela
  - Sefton, Judy
  - Shaw, Cathy
- - Twa, Dale
  - Walter, Cathy
  - Wuthrich, Patti
 ---

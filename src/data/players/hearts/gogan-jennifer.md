@@ -54,7 +54,6 @@ years:
    shots-percent: 74
 vs:
  - Affleck, Tricia
- - Anderson, Sherry
  - Arsenault, Mary-Anne
  - Bakker, Glenys
  - Belley, Joelle
@@ -63,6 +62,7 @@ vs:
  - Blackburn, Julie
  - Bohmer, Brenda
  - Bonar, Maureen
+ - Butler, Donna
  - Byers, Denise
  - Campbell, Gloria
  - Cooke, Gerri
@@ -74,19 +74,19 @@ vs:
  - Dezura, Diane
  - Dunn, Anne
  - Enright, Barb
+ - Fisher, Alana
  - Fister, Teri
  - Fister, Toni
  - Fowler, Lois
+ - Freeman, Lisa
  - Gagnon, Karo
  - Gagnon, Nathalie
- - Gignac, Donna
  - Goss, Peg
  - Greening, Jackie-Rae
  - Gregoire, Veronique
  - Gudereit, Marcia
  - Gushulak, Diane
  - Harrison, Meredith
- - Hodson, Kim
  - Horne, Kate
  - Hunter, Lana
  - Iskiw, Beth
@@ -112,7 +112,7 @@ vs:
  - McInnis, Susan
  - Middaugh, Sherry
  - Moses, Dawn
- - Mulroney, Sandra
+ - Moss, Debbie
  - Naugler, Tara
  - Nixon, Amy
  - Peters, Laine
@@ -122,6 +122,7 @@ vs:
  - Santos, Deb
  - Smith, Heather
  - Spencer, Barb
+ - Stabel, Stacey
  - Strachan, Angela
  - Todd, Fran
  - Unrau, Faye

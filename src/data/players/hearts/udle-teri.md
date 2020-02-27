@@ -125,19 +125,21 @@ vs:
  - Campbell, Jolene
  - Carey, Chelsea
  - Carter, Sasha
- - Chisholm, Candace
  - Christianson, Marie
- - Clark, Stefanie
+ - Clark-Rouire, Jennifer
  - Comeau, Sandy
+ - Cooper, Kathryn
  - Cormier, Sharon
  - Cottrill, Katie
+ - Court, Morgan
  - Courtney, Joanne
  - Crawford, Andrea
- - Cunningham, Cathy
  - Cunningham, Jennifer
+ - Cunningham, Jessica
  - Curtis, Stacie
  - Daniel, Sylvie
  - Darbyshire, Carolyn
+ - Davies, Lisa
  - Derick, Catherine
  - deSolla, Jodie
  - Devereaux, Julie
@@ -149,9 +151,10 @@ vs:
  - Fallis, Karen
  - Ferguson, Dana
  - Filteau, Anne-Marie
+ - Flaxey, Allison
  - Fleury, Tracy
  - Foster, Kristen
- - Fyfe, Liz
+ - Fraser, Sherry
  - Gagnier, Monique
  - Galusha, Kerry
  - Gannon, Melissa
@@ -174,8 +177,6 @@ vs:
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kleibrink, Shannon
- - Koehler, Megan
- - Koltun, Sarah
  - Korab, Stephanie
  - Kreviazuk, Alison
  - Kreviazuk, Lynn
@@ -198,6 +199,7 @@ vs:
  - McDonald, Kristy
  - McEwen, Dawn
  - Meakin, Breanne
+ - Meilleur, Briane
  - Miller, Wendy
  - Miskew, Emma
  - Morgan, Cheryl
@@ -218,7 +220,6 @@ vs:
  - Osborne, Chantal
  - Overton-Clapham, Cathy
  - Parsons, Danielle
- - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
  - Porter, Erin
@@ -227,9 +228,9 @@ vs:
  - Provencal, Darah
  - Rainville, Julie
  - Recksiedler, Kristen
+ - Reid, Jackie
  - Richard, Marie
  - Robichaud, Sylvie
- - Robison, Michala
  - Ross, Allison
  - Sagle, Karen
  - Sanderson, Jessie
@@ -252,7 +253,6 @@ vs:
  - Sweeting, Val
  - Thompson, Karla
  - Titheridge, Lindsay
- - Tuck, Kim
  - Vandale, Trysta
  - Van Osch, Kesa
  - Vautour, Carrie

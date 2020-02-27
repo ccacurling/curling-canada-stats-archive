@@ -87,9 +87,12 @@ years:
    shots-total: 174
    shots-percent: 82
 vs:
+ - Adams, Melissa
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
+ - Arnaud, Chloe
  - Arsenault, Mary-Anne
+ - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Ayrey, Jinaye
  - Barker, Penny
@@ -106,6 +109,7 @@ vs:
  - Carey, Chelsea
  - Carter, Sasha
  - Cheveldave, Amber
+ - Chislett, Geneva
  - Christianson, Marie
  - Cormier, Sharon
  - Courtney, Joanne
@@ -116,21 +120,26 @@ vs:
  - deSolla, Jodie
  - Doig, Deanna
  - Dufresne, Audree
+ - Duncan, Hollie
  - Dykstra, Michelle
  - Einarson, Kerri
  - Englot, Michelle
  - Eyamie, Lisa
  - Fullerton, Sarah
  - Fyfe, Liz
+ - Gagnon, Emilia
  - Galusha, Kerry
+ - Gibson, Amy
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Harvey, Marie-Pier
  - Hill, Trish
  - Holtby, Taryn
  - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
+ - Hutchings, Denise
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Colleen
@@ -140,11 +149,14 @@ vs:
  - Kleibrink, Shannon
  - Koehler, Megan
  - Kreviazuk, Alison
+ - Kreviazuk, Cheryl
  - Larouche, Marie-France
  - Lavery, Tracey
  - Lawes, Kaitlyn
+ - LeDrew, Stephanie
  - Lemay, Annie
  - Lilly, Kendra
+ - Lister, Kendra
  - MacCuish, Kristin
  - MacDougall, Leslie
  - MacPhee, Robyn
@@ -155,18 +167,22 @@ vs:
  - McCarville, Krista
  - McEwen, Dawn
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Miller, Wendy
  - Miskew, Emma
  - Moore, Kristie
+ - Morris, Cori
  - Murphy, Sarah
  - Nedohin, Heather
  - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - O'Connor, Susan
  - Officer, Jill
  - O'Neill, Brit
  - O'Rourke, Brittany
  - Parsons, Danielle
+ - Perron, Melina
  - Peterman, Jocelyn
  - Peters, Laine
  - Potts, Sarah
@@ -178,9 +194,12 @@ vs:
  - Ross, Allison
  - Sagle, Karen
  - Saulnier, Andrea
+ - Scheidegger, Casey
+ - Scheidegger, Jessie
  - Schneider, Lorraine
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Shackleton, Amie
  - Shumay, Jill
  - Sicinski, Danielle
  - Sippala, Ashley
@@ -188,8 +207,12 @@ vs:
  - Thompson, Karla
  - Udle, Teri
  - Vandale, Trysta
+ - Van Osch, Kalia
+ - Van Osch, Kesa
+ - Van Osch, Marika
  - Wazney, Sarah
  - Weagle, Lisa
+ - West, Christianne
  - Westcott, Raunora
  - Wilkes, Sarah
  - Williamson, Ashley

@@ -61,6 +61,7 @@ vs:
  - Bernard, Cheryl
  - Betker, Jan
  - Birt, Suzanne
+ - Bradley, Shelly
  - Brothers, Jill
  - Burgess, Carey
  - Bush, Tracy
@@ -84,7 +85,6 @@ vs:
  - Harvey, Janet
  - Hollands, Saskia
  - Inglis, Nancy
- - Iskiw, Beth
  - Jones, Colleen
  - Jones, Jennifer
  - Kelly, Kim
@@ -93,10 +93,11 @@ vs:
  - Loder, Cherie-Ann
  - MacDiarmid, Kristen
  - MacPhee, Robyn
- - McInnis, Susan
+ - McCagg-Nystrom, Heather
  - Morgan, Cheryl
  - Morris, Cori
  - Moses, Dawn
+ - Muise, Morgan
  - Murphy, Jeanette
  - Nowlan, Denise
  - Nugent, Pamela
@@ -109,12 +110,12 @@ vs:
  - Power, Marie-Anne
  - Provencal, Darah
  - Ridalls, Kristen
+ - Rocque, Raylene
  - Rudulier, Andrea
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli
  - Simons, Renee
- - Sobey, Lianne
  - Streifel, Tracy
  - Strong, Heather
  - Strong, Laura

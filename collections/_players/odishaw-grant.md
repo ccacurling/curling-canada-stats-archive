@@ -507,6 +507,7 @@ vs:
 - O'Rourke, Mark
 - Palmer, Curt
 - Park, Kevin
+- Park, Shane
 - Parsons, Cole
 - Paslawski, Pat
 - Patterson, Scott
@@ -556,7 +557,6 @@ vs:
 - Somers, Grant
 - Spicer, Grant
 - St.Louis, David
-- Stambaugh, Doug
 - Steele, Colten
 - Steski, John
 - Stokes, Lionel

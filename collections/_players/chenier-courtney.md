@@ -36,4 +36,13 @@ years:
    shots-total: 3
    shots-percent: 67
 vs:
+ - Arsenault, Mary-Anne
+ - Atkinson, Rebecca
+ - Baxter, Jen
+ - Black, Christina
+ - Boyle, Jane
+ - Richard, Marie
+ - Robichaud, Sylvie
+ - Snyder, Jane
+ - Whitaker, Carol
 ---

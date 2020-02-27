@@ -72,55 +72,71 @@ years:
 vs:
  - Adams, Melissa
  - Anderson, Sherry
+ - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Barbour, Shona
+ - Baxter, Jen
  - Birchard, Shannon
  - Birt, Suzanne
- - Blais, Amelie
+ - Black, Christina
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Boudreault, Patricia
  - Boyle, Jane
+ - Brine, Jenn
  - Brothers, Jill
+ - Brown, Rachel
+ - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
- - Chislett, Geneva
+ - Carmody, Erin
  - Christianson, Marie
+ - Courtney, Joanne
+ - Crouse, Jennifer
  - Curtis, Stacie
+ - Daigle, Julie
  - Devereaux, Julie
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
+ - Englot, Michelle
+ - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
  - Fleury, Tracy
- - Fullerton, Sarah
  - Galusha, Kerry
  - Gates, Amanda
+ - Gates, Jenny
  - Gibson, Amy
+ - Griffin, Alison
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
- - Hutchings, Denise
  - Jones, Jennifer
- - Joyce, Blisse
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
  - Kreviazuk, Cheryl
  - Larouche, Marie-France
  - Lavery, Tracey
+ - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - LeDrew, Stephanie
  - Lemay, Annie
+ - Letendre, Pascale
  - Lilly, Kendra
  - Lister, Kendra
  - MacPhee, Robyn
  - McCarville, Krista
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
+ - Miskew, Emma
  - Moore, Kristie
+ - Munroe, Anna
  - Murphy, Sarah
  - Nicholls, Brenda
  - Nixon, Amy
@@ -128,16 +144,20 @@ vs:
  - O'Neill, Brit
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pilote, Kristen
+ - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
  - Price, Kara
+ - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Robichaud, Sylvie
+ - Rusnell, Jen
  - Sagle, Karen
+ - Sandwith, Carley
  - Scheidegger, Casey
  - Scheidegger, Jessie
- - Shackleton, Amie
  - Sippala, Ashley
  - Smallwood, Jody
  - Thompson, Karla
@@ -147,8 +167,12 @@ vs:
  - Van Osch, Kesa
  - Van Osch, Marika
  - Vautour, Carrie
+ - Walsh, Jenna
+ - Wark, Sarah
+ - Weagle, Lisa
  - Webster, Crystal
- - West, Christianne
+ - Westcott, Raunora
+ - Wilkes, Sarah
  - Williamson, Ashley
- - Wylie, Jennifer
+ - Wilson, Leslie
 ---

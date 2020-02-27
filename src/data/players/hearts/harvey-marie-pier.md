@@ -36,4 +36,36 @@ years:
    shots-total: 144
    shots-percent: 70
 vs:
+ - Anderson, Sherry
+ - Cameron, Kate
+ - Chislett, Geneva
+ - Curtis, Stacie
+ - Devereaux, Julie
+ - Duncan, Hollie
+ - Englot, Michelle
+ - Fesser, Kourtney
+ - Fesser, Krista
+ - Fullerton, Sarah
+ - Gibson, Amy
+ - Hughes, Meaghan
+ - Hutchings, Denise
+ - Kallechy, Rachelle
+ - Korchinski, Karlee
+ - Kreviazuk, Cheryl
+ - LeDrew, Stephanie
+ - Mackey, Robyn
+ - MacPhee, Robyn
+ - McQuaid, Michelle
+ - McTaggart, Cary-Anne
+ - Moore, Kristie
+ - Porter, Erin
+ - Sagle, Karen
+ - Scheidegger, Casey
+ - Scheidegger, Jessie
+ - Shackleton, Amie
+ - Trickett, Erica
+ - Van Osch, Kesa
+ - Van Osch, Marika
+ - Westcott, Raunora
+ - Wilson, Leslie
 ---

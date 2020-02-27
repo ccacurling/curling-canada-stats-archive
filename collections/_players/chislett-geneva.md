@@ -69,48 +69,30 @@ years:
    shots-total: 102
    shots-percent: 52
 vs:
- - Adams, Melissa
- - Anderson, Sherry
- - Arsenault-Bishop, Nicole
- - Barbour, Shona
- - Birchard, Shannon
+ - Arnaud, Chloe
+ - Curtis, Stacie
+ - Devereaux, Julie
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
- - Einarson, Kerri
- - Fesser, Kourtney
- - Fesser, Krista
- - Fleury, Tracy
  - Fullerton, Sarah
- - Fyfe, Liz
- - Galusha, Kerry
- - Gates, Amanda
+ - Gagnon, Emilia
  - Gibson, Amy
+ - Harvey, Marie-Pier
  - Hughes, Meaghan
- - Jones, Jennifer
- - Koehler, Megan
- - Koltun, Sarah
- - Korchinski, Karlee
+ - Inglis, Danielle
  - Kreviazuk, Cheryl
  - LeDrew, Stephanie
- - Lister, Kendra
- - MacCuish, Kristin
  - MacPhee, Robyn
- - McEwen, Dawn
  - McQuaid, Michelle
- - McTaggart, Cary-Anne
- - Moore, Kristie
- - Njegovan, Selena
- - Officer, Jill
+ - Perron, Melina
+ - Porter, Erin
  - Price, Kara
- - Robichaud, Sylvie
  - Sagle, Karen
- - Scheidegger, Casey
- - Scheidegger, Jessie
  - Smallwood, Jody
+ - Thiboutot, Isabelle
+ - Trickett, Erica
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
- - Webster, Crystal
- - Wylie, Jennifer
 ---

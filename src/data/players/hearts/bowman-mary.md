@@ -78,7 +78,6 @@ vs:
  - Gignac, Donna
  - Gudereit, Marcia
  - Hanlon, Heidi
- - Harding, Mary
  - Harris, Susan
  - Harvey, Alison
  - Harvey, Carol
@@ -108,6 +107,7 @@ vs:
  - McCloy, Elaine
  - McConnery, Nancy
  - McCusker, Joan
+ - McInnis, Susan
  - Montgomery, Kay
  - Moses, Dawn
  - Moss, Debbie
@@ -120,5 +120,6 @@ vs:
  - Sabourin, Joelle
  - Schmirler, Sandra
  - Shields, Deanne
+ - Stewart, Sheri
  - Stokes, Debbie
 ---

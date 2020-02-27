@@ -57,17 +57,16 @@ vs:
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Ayrey, Jinaye
- - Barbour, Shona
  - Barker, Penny
  - Baxter, Jen
  - Beauchamp, Sasha
  - Belisle, Eve
  - Birt, Suzanne
+ - Boyle, Jane
  - Bradley, Shelly
  - Cameron, Kate
  - Carey, Chelsea
  - Carter, Sasha
- - Clark, Stefanie
  - Cormier, Sharon
  - Courtney, Joanne
  - Crawford, Andrea
@@ -82,7 +81,6 @@ vs:
  - Eyamie, Lisa
  - Fullerton, Sarah
  - Galusha, Kerry
- - Gushulak, Diane
  - Hill, Trish
  - Holtby, Taryn
  - Homan, Rachel
@@ -91,11 +89,10 @@ vs:
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
- - Karwacki, Krysten
  - Kelly, Kim
- - Kleibrink, Shannon
  - Koehler, Megan
  - Kreviazuk, Alison
+ - Kreviazuk, Cheryl
  - Lawes, Kaitlyn
  - Lilly, Kendra
  - MacDougall, Leslie

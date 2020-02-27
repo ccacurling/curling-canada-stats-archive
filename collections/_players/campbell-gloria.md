@@ -57,6 +57,7 @@ vs:
  - Greening, Jackie-Rae
  - Gudereit, Marcia
  - Hanlon, Heidi
+ - Holden, Anna-Mae
  - Horne, Kate
  - Jones, Colleen
  - Kelly, Kim
@@ -68,7 +69,6 @@ vs:
  - MacNutt, Shelley
  - MacPhee, Robyn
  - Marchand, Karine
- - Martin, Heather
  - McConnery, Nancy
  - McCusker, Joan
  - McInnis, Susan

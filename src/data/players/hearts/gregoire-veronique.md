@@ -53,6 +53,7 @@ years:
    shots-total: 212
    shots-percent: 75
 vs:
+ - Affleck, Tricia
  - Anderson, Sherry
  - Armstrong, Jacquie
  - Arsenault, Mary-Anne
@@ -61,10 +62,8 @@ vs:
  - Barbour, Shona
  - Bell, Chelsey
  - Birt, Suzanne
- - Blanchard, Judy
  - Bonar, Maureen
  - Bradley, Shelly
- - Cameron, Nancy
  - Carter, Sasha
  - Cooke, Gerri
  - Cordina, Sheri
@@ -73,6 +72,7 @@ vs:
  - Curtis, Stacie
  - Delahunt, Nancy
  - Dezura, Diane
+ - Dobson, Sue
  - Fallis, Karen
  - Fisher, Alana
  - Fowler, Lois
@@ -133,6 +133,7 @@ vs:
  - Wall, Kirsten
  - Weagle, Lisa
  - Webster, Bronwen
+ - Webster, Crystal
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Wilson, Leslie

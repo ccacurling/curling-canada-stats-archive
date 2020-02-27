@@ -65,7 +65,6 @@ vs:
  - Bodogh, Marilyn
  - Bonar, Maureen
  - Busche, Jodi
- - Cameron, Nancy
  - Cey, Naomi
  - Cooke, Gerri
  - Cordina, Sheri
@@ -123,9 +122,9 @@ vs:
  - Snider, Shelly
  - Stabel, Stacey
  - Stewart, Sheri
+ - Train, Mona
  - Wall, Kirsten
  - Wheatcroft, Georgina
- - Whipple, Paula
  - Wieler, Bev
  - Zielke, Colleen
  - Zinck, Kay

@@ -91,6 +91,7 @@ vs:
  - Aleksic, Shannon
  - Allen, Laurie
  - Arnott, Janet
+ - Baldwin, Nicole
  - Barbour, Shona
  - Barrette, Peggy
  - Bartlett, Sue Anne
@@ -123,7 +124,7 @@ vs:
  - Delahunt, Nancy
  - Derick, Catherine
  - deSolla, Jodie
- - Dillon, Cathy
+ - Dolan, Kim
  - Dorosz, Peggy
  - Englot, Michelle
  - Enright, Barb
@@ -137,7 +138,6 @@ vs:
  - Gellard, Kim
  - George, Tara
  - Gilman, Sheena
- - Girard, Sylvie
  - Goss, Peg
  - Green, Sue
  - Gudereit, Marcia
@@ -190,7 +190,6 @@ vs:
  - Murphy, Jeanette
  - Muzika, Shelley
  - Nicholls, Brenda
- - Nichols, Helen
  - Nohr, Dianne
  - Nowlan, Denise
  - Officer, Jill
@@ -199,7 +198,7 @@ vs:
  - Osborne, Chantal
  - Overton-Clapham, Cathy
  - Phillips, Laura
- - Pinkney, Colleen
+ - Porter, Debbie
  - Power, Marie-Anne
  - Provencal, Darah
  - Rainville, Julie
@@ -211,11 +210,11 @@ vs:
  - Schraeder, Jeanna
  - Scott, Donna
  - Scott, Kelly
- - Sharpe, Kelli
  - Shephard, Wendy
  - Simons, Renee
  - Singler, Sherri
  - Skinner, Julie
+ - Snider, Shelly
  - Sobey, Lianne
  - Soligo, Melissa
  - Spencer, Barb
@@ -226,12 +225,12 @@ vs:
  - Strong, Laura
  - Stubbings, Tiffany
  - Sutton, Jodie
+ - Thomas, Jill
  - Train, Mona
  - Udle, Teri
  - Vey, Lana
  - Walker, Lisa
  - Wheatcroft, Georgina
- - Whipple, Paula
  - Whitaker, Carol
  - Wieler, Bev
  - Willms, Karri

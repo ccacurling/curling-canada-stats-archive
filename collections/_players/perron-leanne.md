@@ -54,6 +54,7 @@ vs:
  - Fowler, Rhonda
  - Frey, Audrey
  - Gatchell, Sara
+ - Gauthier, Cathy
  - Gudereit, Marcia
  - Jenkins, Sandra
  - Jones, Colleen
@@ -76,7 +77,6 @@ vs:
  - Soligo, Melissa
  - Sutton, Jodie
  - Thomas, Maria
- - Webb, Corine
  - Willms, Karri
  - Wright, Joanne
  - Zinck, Kay

@@ -175,6 +175,7 @@ vs:
 - Fowler, Sharon
 - Fraser, Sherry
 - Gagnon, Nathalie
+- Galusha, Kerry
 - Garvey, Sue
 - Gatchell, Sara
 - Gauthier, Cathy

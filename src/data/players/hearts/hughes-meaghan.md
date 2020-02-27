@@ -87,106 +87,97 @@ years:
    shots-total: 213
    shots-percent: 81
 vs:
- - Adams, Melissa
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
- - Anderson, Sherry
- - Arsenault-Bishop, Nicole
+ - Armstrong, Jennifer
+ - Arnaud, Chloe
  - Atkinson, Rebecca
+ - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
  - Barker, Penny
  - Belisle, Eve
- - Birchard, Shannon
  - Birnie, Hailey
  - Blais, Amelie
- - Blaney, Jennifer
- - Bodner, Jenine
- - Boudreault, Patricia
  - Boyle, Jane
+ - Brine, Jenn
  - Brothers, Jill
  - Brown, Rachel
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
+ - Carter, Sasha
  - Chislett, Geneva
+ - Clark-Rouire, Jennifer
  - Cormier, Sharon
  - Courtney, Joanne
+ - Crawford, Andrea
  - Curtis, Stacie
  - Cutcliffe, Margaret
- - Daigle, Julie
  - deJager, Blaine
  - Derry, Danielle
  - Devereaux, Julie
  - Doig, Deanna
- - Duncan, Chelsea
  - Duncan, Hollie
- - Duncan, Jenna
  - Einarson, Kerri
  - Englot, Michelle
  - Eyamie, Lisa
  - Ferguson, Dana
- - Fesser, Kourtney
- - Fesser, Krista
- - Fleury, Tracy
+ - Forward, Katie
  - Fyfe, Liz
+ - Gagnon, Emilia
  - Galusha, Kerry
- - Gates, Amanda
  - Gates, Jenny
  - Gibson, Amy
- - Griffin, Alison
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Harvey, Marie-Pier
  - Hill, Trish
  - Homan, Rachel
  - Howard, Ashley
  - Hunkin, Jessie
- - Hutchings, Denise
- - Ingram, Megan
  - Jewer, Michelle
  - Jones, Jennifer
- - Joyce, Blisse
+ - Karwacki, Krysten
  - Kleibrink, Shannon
  - Koehler, Megan
  - Koltun, Sarah
- - Korchinski, Karlee
  - Kreviazuk, Cheryl
  - Larouche, Marie-France
- - Lavery, Tracey
- - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - LeDrew, Stephanie
+ - Lemay, Annie
  - Letendre, Pascale
  - Lilly, Kendra
- - Lister, Kendra
  - MacCuish, Kristin
+ - Mackey, Robyn
  - Mallett, Marla
  - Mann, Lauren
  - Mattatall, Mary
  - McCarville, Krista
+ - McEvoy, Julie
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Miskew, Emma
  - Moore, Kristie
- - Munroe, Anna
  - Murphy, Sarah
+ - Nedohin, Heather
  - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
- - Nugent, Pamela
  - Officer, Jill
  - O'Neill, Brit
  - O'Rourke, Brittany
+ - Perron, Melina
  - Peterman, Jocelyn
  - Peters, Laine
  - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
- - Price, Kara
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
@@ -205,7 +196,6 @@ vs:
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley
- - Smallwood, Jody
  - Strong, Helen
  - Thevenot, Kara
  - Thiessen, Alison
@@ -220,11 +210,9 @@ vs:
  - Vautour, Carrie
  - Wark, Sarah
  - Weagle, Lisa
- - Webster, Crystal
  - West, Christianne
  - Westcott, Raunora
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
- - Wylie, Jennifer
 ---

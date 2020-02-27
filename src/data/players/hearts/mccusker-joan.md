@@ -223,6 +223,7 @@ vs:
  - Harvey, Carol
  - Harvey, Janet
  - Henry, Lou Ann
+ - Hensley, Merna
  - Hooper Perroud, Jane
  - Hopkins, Heather
  - Horne, Kate
@@ -245,12 +246,12 @@ vs:
  - Lahucik, Val
  - Laliberte, Connie
  - Lang, Lorraine
- - Lange, Ann
  - Law, Kelley
  - Lawes, Andrea
  - Lawrence, Margaret
  - Leblanc, Lisa
  - Lewis, Kristy
+ - Lidgren, Anna
  - Lowther, Tammi
  - MacAulay, Marion
  - MacCallum, Janice
@@ -296,12 +297,14 @@ vs:
  - Pross, Margaret
  - Purdy, Karen
  - Pushkar, Diane
+ - Putland, Rose
  - Radford, Helen
  - Rankin, Heather
  - Renouf, Michele
  - Roberts, Angela
  - Robertson, Darcy
  - Robinson, Charlene
+ - Round, Coralee
  - Sabourin, Joelle
  - Santos, Deb
  - Scales, Julie

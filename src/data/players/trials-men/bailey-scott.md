@@ -111,9 +111,10 @@ vs:
  - Carruthers, Reid
  - Cotter, Jim
  - Engel, Ron
+ - Fenton, Brad
+ - Fenton, Darin
  - Fenton, Keith
  - Ferbey, Randy
- - Forrest, Tyler
  - Fowler, Rob
  - Frans, Joseph
  - Fry, Ryan
@@ -122,7 +123,6 @@ vs:
  - Grattan, James
  - Gretzinger, Bert
  - Griffith, Tyrel
- - Gunnlaugson, Jason
  - Hannah, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -141,6 +141,7 @@ vs:
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
+ - Leech, Ron
  - Loevenmark, Phil
  - MacDonald, Blake
  - MacDonald, Brent
@@ -151,7 +152,6 @@ vs:
  - Meakin, Rob
  - Mellof, David
  - Middaugh, Wayne
- - Miki, Bryan
  - Mitchell, Collin
  - Morris, John
  - Nedohin, David
@@ -162,12 +162,14 @@ vs:
  - Odishaw, Grant
  - Park, Kerry
  - Park, Kevin
+ - Park, Shane
  - Patterson, Scott
+ - Peachey, Jay
  - Perroud, Pat
  - Pfeifer, Scott
  - Pierce, Brent
  - Ramcharan, Rudy
- - Richter, Justin
+ - Recksiedler, Kevin
  - Rocque, Marcel
  - Rogers, Les
  - Ryan, Jeff
@@ -189,5 +191,4 @@ vs:
  - Werenich, Ed
  - Whittle, Mark
  - Wozniak, Matt
- - Zawada, Braden
 ---

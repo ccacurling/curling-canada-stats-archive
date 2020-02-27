@@ -167,7 +167,7 @@ vs:
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Arseneau, Jane
- - Ayrey, Jinaye
+ - Atkinson, Rebecca
  - Babin, Jillian
  - Baker, Michelle
  - Bakker, Glenys
@@ -181,6 +181,7 @@ vs:
  - Blanchard, Judy
  - Bohmer, Brenda
  - Bonar, Maureen
+ - Boyle, Jane
  - Bradley, Shelly
  - Breen, Theresa
  - Brennan, Amanda
@@ -188,12 +189,13 @@ vs:
  - Brown, Jacalyn
  - Brown, Janet
  - Byers, Denise
- - Cameron, Nancy
  - Campbell, Jolene
  - Campbell, June
  - Carey, Chelsea
  - Carrier, Julie
  - Carter, Sasha
+ - Chisholm, Candace
+ - Christianson, Marie
  - Clark, Stefanie
  - Cooke, Gerri
  - Cordina, Sheri
@@ -210,6 +212,7 @@ vs:
  - Dezura, Diane
  - Dobson, Sue
  - Dolan, Kim
+ - Dolan, Sinead
  - Einarson, Kerri
  - Englot, Michelle
  - Enright, Barb
@@ -219,6 +222,7 @@ vs:
  - Floyd, Kathy
  - Fowler, Lois
  - Freeman, Lisa
+ - Frey, Audrey
  - Fyfe, Liz
  - Galusha, Kerry
  - Gellard, Kim
@@ -231,6 +235,8 @@ vs:
  - Guzzwell, Stephanie
  - Hamon, Callan
  - Hanlon, Heidi
+ - Hanna, Jenn
+ - Hanna, Stephanie
  - Harmark, Andra
  - Harrison, Meredith
  - Harvey, Alison
@@ -239,14 +245,13 @@ vs:
  - Hodson, Kim
  - Holland, Amber
  - Holowec, Ainsley
- - Holtby, Taryn
  - Homan, Rachel
  - Horne, Kate
  - Horte, Rhonda
  - Howard, Ashley
+ - Hughes, Meaghan
  - Hunter, Lana
  - Iskiw, Beth
- - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
  - Jones-Walker, Debbie
@@ -268,6 +273,7 @@ vs:
  - Lawes, Andrea
  - Lawes, Kaitlyn
  - Lawton, Stefanie
+ - Lilly, Kendra
  - Lowther, Tammi
  - MacCallum, Janice
  - MacCuish, Kristin
@@ -285,7 +291,6 @@ vs:
  - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McConnery, Nancy
- - McCrady, Christine
  - McDonald, Tina
  - McEwen, Dawn
  - McGregor, Rona
@@ -314,6 +319,7 @@ vs:
  - Officer, Jill
  - O'Leary, Susan
  - Ondrack, Wendy
+ - O'Neill, Brit
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
  - Parsons, Danielle
@@ -321,8 +327,8 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Phillips, Margaret Lea
- - Pinkney, Colleen
  - Porter, Erin
+ - Potts, Sarah
  - Power, Marie-Anne
  - Radchenka, Tammy
  - Recksiedler, Kristen
@@ -333,6 +339,7 @@ vs:
  - Robertson, Darcy
  - Robichaud, Sylvie
  - Ross, Allison
+ - Sagle, Karen
  - Sanders, Pat
  - Sandison, Janice
  - Schneider, Kim
@@ -340,10 +347,10 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli
- - Shumay, Jill
  - Simmons, Cindy
  - Simons, Renee
  - Singler, Sherri
+ - Sippala, Ashley
  - Skinner, Julie
  - Smith, Heather
  - Sobey, Lianne
@@ -359,6 +366,7 @@ vs:
  - Surik, Teejay
  - Tanner, Allison
  - Tasaka, Adina
+ - Thomas, Jill
  - Thompson, Karla
  - Tincher, Twyla
  - Tucker, Cindy
@@ -368,8 +376,10 @@ vs:
  - Vey, Lana
  - Wall, Kirsten
  - Walter, Cathy
+ - Wasylkiw, Lauren
  - Weagle, Lisa
  - Webster, Bronwen
+ - Webster, Crystal
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whitaker, Carol

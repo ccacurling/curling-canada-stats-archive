@@ -36,4 +36,8 @@ years:
    shots-total: 8
    shots-percent: 69
 vs:
+ - Fenton, Brad
+ - Leech, Ron
+ - Peachey, Jay
+ - Recksiedler, Kevin
 ---

@@ -69,8 +69,12 @@ years:
    shots-total: 5
    shots-percent: 60
 vs:
- - Aleksic, Shannon
- - deJager, Blaine
- - Mallett, Marla
- - Richards, Brette
+ - Alcoe-Holland, Jill
+ - Cutcliffe, Margaret
+ - Fullerton, Sarah
+ - Hughes, Meaghan
+ - MacPhee, Robyn
+ - Mattatall, Mary
+ - McEvoy, Julie
+ - McQuaid, Michelle
 ---

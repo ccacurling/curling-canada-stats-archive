@@ -137,48 +137,44 @@ vs:
  - Campbell, Jolene
  - Carey, Chelsea
  - Carter, Sasha
- - Chisholm, Candace
- - Christianson, Marie
+ - Clark-Rouire, Jennifer
  - Cooper, Kathryn
  - Cormier, Sharon
  - Cottrill, Katie
+ - Court, Morgan
  - Courtney, Joanne
  - Crawford, Andrea
  - Cunningham, Jennifer
  - Cunningham, Jessica
  - Curtis, Stacie
+ - Davies, Lisa
  - deSolla, Jodie
  - Devereaux, Julie
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
- - Einarson, Kerri
  - Englot, Michelle
  - Fallis, Karen
  - Ferguson, Dana
  - Filteau, Anne-Marie
+ - Flaxey, Allison
  - Fleury, Tracy
  - Foster, Kristen
- - Fyfe, Liz
+ - Fraser, Sherry
  - Galusha, Kerry
  - Gannon, Melissa
  - Gates, Amanda
  - Gregoire, Veronique
  - Guzzwell, Stephanie
  - Hamon, Callan
- - Hanna, Jenn
- - Hanna, Stephanie
  - Holland, Amber
  - Homan, Rachel
  - Howard, Ashley
- - Hughes, Meaghan
  - Iskiw, Beth
  - Jones, Jennifer
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kleibrink, Shannon
- - Koehler, Megan
- - Koltun, Sarah
  - Korab, Stephanie
  - Kreviazuk, Alison
  - Kreviazuk, Lynn
@@ -188,7 +184,6 @@ vs:
  - Lawton, Stefanie
  - Lemay, Annie
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacPhee, Robyn
@@ -202,29 +197,25 @@ vs:
  - Miller, Wendy
  - Miskew, Emma
  - Moses, Dawn
+ - Murphy, Jeanette
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Nowlan, Denise
  - Nugent, Pamela
  - Officer, Jill
- - O'Neill, Brit
  - O'Rourke, Brittany
  - Overton-Clapham, Cathy
  - Parsons, Danielle
- - Paul, Sarah
- - Peterman, Jocelyn
  - Peters, Laine
  - Porter, Erin
  - Potts, Sarah
  - Rainville, Julie
  - Recksiedler, Kristen
+ - Reid, Jackie
  - Richard, Marie
  - Robichaud, Sylvie
- - Robison, Michala
  - Ross, Allison
- - Sagle, Karen
  - Sanderson, Jessie
  - Sandwith, Carley
  - Schneider, Kim
@@ -242,7 +233,6 @@ vs:
  - Sweeting, Val
  - Thompson, Karla
  - Titheridge, Lindsay
- - Tuck, Kim
  - Vandale, Trysta
  - Van Osch, Kesa
  - Vautour, Carrie

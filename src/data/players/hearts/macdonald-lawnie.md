@@ -80,5 +80,4 @@ vs:
  - Robinson, Lori
  - Scales, Julie
  - Trider, Krista
- - Wall, Kirsten
 ---

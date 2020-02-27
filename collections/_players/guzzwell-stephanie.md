@@ -54,35 +54,25 @@ years:
    shots-percent: 76
 vs:
  - Armstrong, Jacquie
- - Arnott, Janet
+ - Armstrong, Jennifer
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
  - Bell, Chelsey
  - Birnie, Hailey
  - Birt, Suzanne
- - Blaney, Jennifer
- - Bodner, Jenine
- - Boudreault, Patricia
  - Bradley, Shelly
  - Brassard, Veronique
- - Brown, Rachel
- - Carey, Chelsea
  - Carter, Sasha
  - Christianson, Marie
  - Crawford, Andrea
- - Daigle, Julie
- - Fallis, Karen
- - Ferguson, Dana
+ - Forward, Katie
  - Galusha, Kerry
- - Gates, Jenny
  - Gregoire, Veronique
- - Griffin, Alison
  - Holland, Amber
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
- - Ingram, Megan
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
@@ -90,31 +80,24 @@ vs:
  - Koltun, Sarah
  - Kreviazuk, Alison
  - Larouche, Marie-France
- - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lemay, Annie
- - Lilly, Kendra
  - MacDougall, Leslie
  - MacPhee, Robyn
- - McCarville, Krista
  - McEwen, Dawn
  - McQuaid, Michelle
  - Meakin, Breanne
+ - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
  - Moses, Dawn
- - Munroe, Anna
  - Nixon, Amy
  - Nowlan, Denise
  - Officer, Jill
  - Overton-Clapham, Cathy
  - Parsons, Danielle
- - Peterman, Jocelyn
- - Pilote, Kristen
- - Potts, Sarah
- - Rusnell, Jen
- - Sandwith, Carley
+ - Sabourin, Joelle
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
@@ -127,9 +110,8 @@ vs:
  - Thevenot, Kara
  - Tran, Brittany
  - Udle, Teri
- - Wark, Sarah
  - Weagle, Lisa
  - Webster, Bronwen
  - Westcott, Raunora
- - Wilkes, Sarah
+ - Wilson, Leslie
 ---

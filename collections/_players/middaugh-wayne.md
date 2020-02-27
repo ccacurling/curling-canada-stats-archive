@@ -511,6 +511,7 @@ vs:
 - Ouimet, Luc
 - Park, Kerry
 - Park, Kevin
+- Park, Shane
 - Patterson, Scott
 - Perozak, Brian
 - Perron, Rick
@@ -567,6 +568,7 @@ vs:
 - Sinclair, Rob
 - Skanes, Robert
 - Smith, Dave
+- Smith, Garth
 - Smith, Kent
 - Solberg, Jonathon
 - Sosiak, Jim

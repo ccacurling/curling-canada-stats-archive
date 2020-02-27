@@ -66,21 +66,20 @@ vs:
  - Boyle, Jane
  - Bradley, Shelly
  - Brown, Rachel
- - Cameron, Nancy
  - Camozzi, Rhona
  - Carter, Sasha
- - Chisholm, Candace
+ - Clark-Rouire, Jennifer
  - Collins, Katrina
  - Cormier, Sharon
  - Courtney, Joanne
  - Crawford, Andrea
- - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
  - Englot, Michelle
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Fleury, Tracy
+ - Galusha, Kerry
  - Gates, Amanda
  - Hastings, Julie
  - Holland, Amber
@@ -92,6 +91,7 @@ vs:
  - Kasner, Marliese
  - Knezevic, Patti
  - Koehler, Megan
+ - Kreviazuk, Cheryl
  - Larouche, Marie-France
  - Lawes, Kaitlyn
  - Lawton, Stefanie
@@ -102,11 +102,10 @@ vs:
  - McEwen, Dawn
  - McInnis, Susan
  - McQuaid, Michelle
- - Miller, Wendy
  - Miskew, Emma
+ - Murphy, Jeanette
  - Nedohin, Heather
  - Nicholls, Brenda
- - Nixon, Amy
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Rourke, Brittany
@@ -115,6 +114,7 @@ vs:
  - Pilote, Kristen
  - Richard, Marie
  - Robichaud, Sylvie
+ - Robison, Michala
  - Rusnell, Jen
  - Schmidt, Stephanie
  - Schneider, Kim
@@ -131,6 +131,5 @@ vs:
  - Vey, Lana
  - Walsh, Jenna
  - Weagle, Lisa
- - Wilkes, Sarah
  - Wylie, Jennifer
 ---

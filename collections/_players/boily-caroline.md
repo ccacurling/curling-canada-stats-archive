@@ -46,6 +46,7 @@ vs:
  - Dolan, Kim
  - Floyd, Kathy
  - Fraser, Sherry
+ - Funk, LaDawn
  - Gauthier, Cathy
  - Gignac, Donna
  - Goring, Alison
@@ -53,7 +54,6 @@ vs:
  - Gushulak, Diane
  - Hanlon, Heidi
  - Harris, Susan
- - Henry, Lou Ann
  - Horne, Kate
  - Jackson, Virginia
  - Jennings, Tracey
@@ -73,11 +73,11 @@ vs:
  - McConnery, Nancy
  - McCrady, Christine
  - McCusker, Joan
+ - McInnis, Susan
  - Montgomery, Kay
  - Moses, Dawn
  - Overton-Clapham, Cathy
  - Phillips, Laura
  - Schmirler, Sandra
- - Shields, Deanne
  - Stokes, Debbie
 ---

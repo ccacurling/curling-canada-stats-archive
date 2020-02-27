@@ -72,12 +72,12 @@ years:
 vs:
  - Adams, Diane
  - Alexander, Diane
- - Allen, Laurie
  - Aucoin, Shelley
  - Augustyn, Jan
  - Beaudin, Yvonne
  - Bell, Mary Susan
  - Bildfell, Shelly
+ - Blair, Diane
  - Blanchard, Judy
  - Bodogh, Marilyn
  - Brousseau, Deb
@@ -94,7 +94,6 @@ vs:
  - Cutcliffe, Margaret
  - Darbyshire, Carolyn
  - Darbyshire, Merline
- - Dickeson, Debbi
  - Dillon, Cathy
  - Dolan, Kim
  - Donald, Grace
@@ -157,6 +156,7 @@ vs:
  - Moses, Dawn
  - Muzika, Shelley
  - Noye, Marnie
+ - Overton, Kim
  - Poisson, Francine
  - Potvin, Gisele
  - Power, Judy

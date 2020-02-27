@@ -92,6 +92,7 @@ vs:
  - Harrison, Meredith
  - Hatton, Sandra
  - Hodson, Kim
+ - Holden, Anna-Mae
  - Horne, Kate
  - Horte, Rhonda
  - Iskiw, Beth
@@ -110,7 +111,6 @@ vs:
  - MacCallum, Janice
  - MacDonald, Lawnie
  - MacDougall, Leslie
- - Martin, Heather
  - McGregor, Rona
  - McKnight, Patti
  - Merklinger, Anne

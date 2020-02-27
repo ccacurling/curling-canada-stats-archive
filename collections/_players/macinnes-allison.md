@@ -75,6 +75,7 @@ vs:
  - Cunningham, Cathy
  - Daku, Karen
  - Delahunt, Nancy
+ - Dolan, Kim
  - Englot, Michelle
  - Farrell, Allison
  - Floyd, Kathy
@@ -100,7 +101,6 @@ vs:
  - Lewis, Kristy
  - Lowther, Tammi
  - MacLeod, Lisa
- - MacPhee, Robyn
  - Materi, Roberta
  - Mattatall, Mary
  - McCagg-Nystrom, Heather

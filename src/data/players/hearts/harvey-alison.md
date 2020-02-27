@@ -71,6 +71,7 @@ vs:
  - Bradley, Shelly
  - Brown, Jacalyn
  - Brown, Janet
+ - Cameron, Nancy
  - Campbell, June
  - Charette, France
  - Cordina, Sheri
@@ -91,7 +92,6 @@ vs:
  - Grenier, Valerie
  - Gudereit, Marcia
  - Hanlon, Heidi
- - Harding, Mary
  - Henry, Lou Ann
  - Holowec, Ainsley
  - Hooper Perroud, Jane
@@ -111,10 +111,10 @@ vs:
  - MacCallum, Janice
  - MacDonald, Rebecca Jean
  - MacDonald, Shelley
- - MacDougall, Leslie
  - Mallett, Marla
  - Martin, Heather
  - Materi, Roberta
+ - Mattatall, Mary
  - McCagg-Nystrom, Heather
  - McCusker, Joan
  - McDonald, Tina

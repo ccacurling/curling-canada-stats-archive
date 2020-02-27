@@ -69,8 +69,12 @@ years:
    shots-total: 4
    shots-percent: 63
 vs:
- - Homan, Rachel
- - Kreviazuk, Alison
- - LeDrew, Stephanie
- - Miskew, Emma
+ - Atkinson, Rebecca
+ - Beauchamp, Sasha
+ - Crawford, Andrea
+ - deSolla, Jodie
+ - Dufresne, Audree
+ - O'Rourke, Brittany
+ - Parsons, Danielle
+ - Ross, Allison
 ---

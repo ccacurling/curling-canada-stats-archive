@@ -127,7 +127,6 @@ years:
 vs:
  - Adams, Diane
  - Affleck, Tricia
- - Allen, Michelle
  - Allen, Susan
  - Allerton, Dana
  - Anderson, Sherry
@@ -203,6 +202,7 @@ vs:
  - Gushulak, Diane
  - Handfield, Simone
  - Hanlon, Heidi
+ - Harmark, Andra
  - Harrison, Meredith
  - Hennigar, Karen
  - Herlinveaux, Louise
@@ -261,6 +261,7 @@ vs:
  - McInnis, Susan
  - Middaugh, Sherry
  - Mittelstadt, Candice
+ - Moore, Kim
  - Morris, Cori
  - Moses, Dawn
  - Moss, Debbie
@@ -297,6 +298,7 @@ vs:
  - Scott, Donna
  - Scott, Kelly
  - Simmons, Cindy
+ - Simons, Renee
  - Singler, Sherri
  - Smith, Heather
  - Sobey, Lianne

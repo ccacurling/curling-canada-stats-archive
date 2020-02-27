@@ -148,6 +148,7 @@ vs:
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Aucoin, Shelley
+ - Aulenback, Wanda
  - Baker, Rose-Marie
  - Barker, Catherine
  - Barrette, Peggy
@@ -161,11 +162,9 @@ vs:
  - Blanchard, Judy
  - Bonar, Maureen
  - Bothwell-Myers, Connie
- - Boudreault, Tracie
  - Bradley, Shelly
  - Brawley, Sandra
  - Breen, Theresa
- - Brennan, Ellen
  - Brophy, Cathy
  - Brown, Marcie
  - Bryant, Angie
@@ -177,7 +176,6 @@ vs:
  - Clarke, Betty
  - Combden, Cathy
  - Comeau, Sandy
- - Cooke, Gerri
  - Copeland, Rae Ann
  - Cormier, Sharon
  - Crocker, Rene
@@ -186,6 +184,7 @@ vs:
  - Currie, Ann
  - Currie, Barbara
  - Currie, Wendy
+ - Dagg-Jackson, Elaine
  - Dalio, Diane
  - Davis, Carol
  - Delorenzi, Marlene
@@ -199,6 +198,8 @@ vs:
  - Flannigan, Lorraine
  - Flesjer, Melody
  - Floyd, Kathy
+ - Ford, Anita
+ - Fowler, Lois
  - Fowler, Rhonda
  - Frey, Audrey
  - Gallant, Kathie
@@ -212,7 +213,6 @@ vs:
  - Greenwood, Jill
  - Gudereit, Marcia
  - Hanlon, Heidi
- - Harding, Mary
  - Horne, Sharon
  - Houston, Heather
  - Howse, Lillian
@@ -223,11 +223,11 @@ vs:
  - Jones, Colleen
  - Jones-Gordon, Barb
  - Jones-Walker, Debbie
- - Jurgenson, Christine
  - Kane, Cynthia
  - Kaylo, Kelly
  - Keays, Stella
  - Kehler, Lorie
+ - Kellerman, Bev
  - Kelly, Anita
  - Kelly, Kim
  - Kennedy, Tracy
@@ -277,16 +277,15 @@ vs:
  - Moses, Dawn
  - Moss, Debbie
  - Muzika, Shelley
- - Nichols, Helen
  - Nowlan, Denise
  - Noye, Marnie
  - Ondrack, Wendy
  - O'Rourke, Kathy
  - Palinkas, Gloria
- - Pendergast, Judy
  - Perron, Leanne
  - Phillips, Laura
  - Pinsent, Barbara
+ - Porter, Debbie
  - Provo, Anne
  - Pruden, Twyla
  - Purdy, Karen

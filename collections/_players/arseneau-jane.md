@@ -195,7 +195,9 @@ vs:
  - Anderson, Sherry
  - Arnott, Janet
  - Arsenault, Mary-Anne
+ - Baker, Michelle
  - Balderston, Marcy
+ - Beddington, Shalegh
  - Beever, Jocelyn
  - Belanger, Nancy
  - Belley, Joelle
@@ -217,6 +219,7 @@ vs:
  - Bryant, Angie
  - Burlington, Cheryl
  - Byers, Denise
+ - Cameron, Nancy
  - Carlos, Marie-Claude
  - Charette, France
  - Cordina, Sheri
@@ -231,6 +234,7 @@ vs:
  - Derick, Catherine
  - Dezura, Diane
  - Dolan, Kim
+ - Duplisse, Rene
  - Eddy, Lori
  - Englot, Michelle
  - Fallis, Karen
@@ -259,7 +263,6 @@ vs:
  - Harvey, Carol
  - Harvey, Janet
  - Henry, Lou Ann
- - Herbert, Candide
  - Hodson, Kim
  - Holowec, Ainsley
  - Hooper Perroud, Jane
@@ -295,7 +298,6 @@ vs:
  - MacCallum, Janice
  - MacDonald, Lawnie
  - MacDonald, Rebecca Jean
- - MacDonald, Shelley
  - MacDougall, Leslie
  - MacInnes, Allison
  - MacLeod, Lisa
@@ -313,7 +315,6 @@ vs:
  - McNamee, Karen
  - Merklinger, Anne
  - Middaugh, Sherry
- - Miller, Maureen
  - Mittelstadt, Candice
  - Montgomery, Kay
  - Moore, Kim
@@ -322,17 +323,19 @@ vs:
  - Mulroney, Sandra
  - Muzika, Shelley
  - Nedohin, Heather
+ - O'Leary, Susan
  - Ondrack, Wendy
  - O'Rourke, Kathy
  - Osborne, Chantal
  - Overton-Clapham, Cathy
  - Phillips, Laura
+ - Radchenka, Tammy
  - Radford, Helen
  - Renouf, Michele
  - Robinson, Lori
  - Ross, Allison
  - Sabourin, Joelle
- - Sanders, Pat
+ - Sandison, Janice
  - Scales, Julie
  - Schikowski, Keri-Lynn
  - Schmirler, Sandra
@@ -345,10 +348,10 @@ vs:
  - Street, Cindy
  - Stricker, Joan
  - Strong, Heather
+ - Strong, Laura
  - Tanner, Allison
  - Tasaka, Adina
  - Thomas, Karen
- - Tincher, Twyla
  - Trider, Krista
  - Trowell, Cathy
  - Tucker, Cindy
@@ -356,4 +359,5 @@ vs:
  - Whitaker, Lise
  - Wiltzen, Jan
  - Wright, Susan
+ - Young, Karen
 ---

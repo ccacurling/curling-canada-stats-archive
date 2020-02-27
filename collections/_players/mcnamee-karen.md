@@ -60,16 +60,17 @@ vs:
  - Affleck, Tricia
  - Aleksic, Shannon
  - Allen, Michelle
+ - Arnott, Janet
  - Arsenault, Mary-Anne
  - Arseneau, Jane
  - Baker, Michelle
+ - Beddington, Shalegh
  - Belanger, Nancy
  - Berthelot, Janique
  - Bohmer, Brenda
  - Bradley, Shelly
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Marcie
  - Byers, Denise
  - Cordina, Sheri
  - Davis, Brandee
@@ -82,16 +83,17 @@ vs:
  - Galusha, Kerry
  - Gellard, Kim
  - Grenier, Valerie
- - Harding, Mary
  - Harvey, Alison
  - Henry, Lou Ann
  - Holowec, Ainsley
  - Horne, Kate
  - Jones, Colleen
+ - Jones-Walker, Debbie
  - Karam, Sally
  - Kehler, Lorie
  - Kelly, Kim
  - King, Cathy
+ - Laliberte, Connie
  - Larouche, Marie-France
  - Law, Kelley
  - Lawes, Andrea
@@ -107,14 +109,15 @@ vs:
  - Miller, Maureen
  - Moss, Debbie
  - Nedohin, Heather
+ - O'Leary, Susan
  - Ondrack, Wendy
  - O'Rourke, Kathy
+ - Overton-Clapham, Cathy
  - Power, Marie-Anne
  - Radchenka, Tammy
  - Renouf, Michele
  - Ross, Allison
  - Sabourin, Joelle
- - Sanders, Pat
  - Sandison, Janice
  - Sharpe, Kelli
  - Skinner, Julie

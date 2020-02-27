@@ -36,4 +36,12 @@ years:
    shots-total: 7
    shots-percent: 75
 vs:
+ - Chislett, Geneva
+ - Hutchings, Denise
+ - Mackey, Robyn
+ - McTaggart, Cary-Anne
+ - Moore, Kristie
+ - Scheidegger, Casey
+ - Scheidegger, Jessie
+ - Shackleton, Amie
 ---

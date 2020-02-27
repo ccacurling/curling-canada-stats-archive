@@ -87,52 +87,71 @@ years:
    shots-total: 22
    shots-percent: 81
 vs:
- - Adams, Melissa
- - Anderson, Sherry
- - Arsenault-Bishop, Nicole
- - Barbour, Shona
+ - Aleksic, Shannon
+ - Arnaud, Chloe
+ - Arsenault, Mary-Anne
+ - Baxter, Jen
  - Birchard, Shannon
- - Blais, Amelie
+ - Black, Christina
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Brine, Jenn
+ - Brothers, Jill
+ - Cameron, Kate
+ - Camozzi, Rhona
+ - Carmody, Erin
  - Chislett, Geneva
- - Duncan, Chelsea
- - Duncan, Jenna
+ - Cooper, Kathryn
+ - Crouse, Jennifer
+ - Cunningham, Jessica
+ - Curtis, Stacie
+ - deJager, Blaine
+ - Devereaux, Julie
  - Einarson, Kerri
- - Fesser, Kourtney
- - Fesser, Krista
- - Filteau, Anne-Marie
+ - Englot, Michelle
  - Fleury, Tracy
  - Fullerton, Sarah
  - Fyfe, Liz
- - Galusha, Kerry
+ - Gagnon, Emilia
  - Gates, Amanda
  - Gibson, Amy
+ - Griffin, Alison
+ - Harvey, Marie-Pier
  - Hughes, Meaghan
  - Hutchings, Denise
  - Jones, Jennifer
- - Koehler, Megan
- - Koltun, Sarah
- - Korchinski, Karlee
- - Lister, Kendra
+ - Knezevic, Patti
+ - Korab, Stephanie
  - MacCuish, Kristin
+ - MacDonald, Rebecca Jean
  - MacPhee, Robyn
- - Mann, Lauren
+ - Mallett, Marla
  - McEwen, Dawn
  - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Moore, Kristie
+ - Murphy, Sarah
  - Njegovan, Selena
  - Officer, Jill
- - O'Rourke, Brittany
- - Price, Kara
- - Robichaud, Sylvie
+ - Perron, Melina
+ - Pilote, Kristen
+ - Pinksen, Sadie
+ - Porter, Erin
+ - Richards, Brette
+ - Rusnell, Jen
+ - Sandwith, Carley
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Shackleton, Amie
- - Smallwood, Jody
+ - Strong, Heather
+ - Trickett, Erica
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
+ - Walsh, Jenna
+ - Wark, Sarah
  - Webster, Crystal
  - West, Christianne
- - Wylie, Jennifer
+ - Westcott, Raunora
+ - Wilson, Leslie
 ---

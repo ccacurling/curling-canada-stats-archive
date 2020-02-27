@@ -98,7 +98,6 @@ vs:
  - Graham-MacDonald, Bea
  - Gudereit, Marcia
  - Harrison, Meredith
- - Herbert, Candide
  - Hodson, Kim
  - Hopkins, Heather
  - Horne, Kate

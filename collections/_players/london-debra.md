@@ -77,7 +77,7 @@ vs:
  - Shephard, Wendy
  - Sherrington, Barb
  - Snider, Shelly
- - Whipple, Paula
+ - Train, Mona
  - Zielke, Colleen
  - Zinck, Kay
 ---

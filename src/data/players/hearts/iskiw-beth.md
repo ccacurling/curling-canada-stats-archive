@@ -134,7 +134,6 @@ vs:
  - deJager, Blaine
  - Delahunt, Nancy
  - deSolla, Jodie
- - Devereaux, Julie
  - Dezura, Diane
  - Dolan, Kim
  - Dolan, Sinead
@@ -157,7 +156,6 @@ vs:
  - Gagnon, Nathalie
  - Galusha, Kerry
  - Gates, Amanda
- - George, Tara
  - Gignac, Donna
  - Gogan, Jennifer
  - Goss, Peg
@@ -183,11 +181,10 @@ vs:
  - Kleibrink, Shannon
  - Koehler, Megan
  - Korab, Stephanie
- - Lang, Lorraine
+ - Kreviazuk, Alison
  - Larouche, Marie-France
  - Lawes, Andrea
  - Lawes, Kaitlyn
- - LeDrew, Stephanie
  - Lemay, Annie
  - Lewis, Kristy
  - MacCallum, Janice
@@ -197,7 +194,6 @@ vs:
  - Marchand, Stephanie
  - Martin, Heather
  - Materi, Roberta
- - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
  - Middaugh, Sherry
@@ -230,8 +226,6 @@ vs:
  - Stewart, Sheri
  - Strong, Heather
  - Strong, Laura
- - Stubbings, Tiffany
- - Thomas-Kennell, Noelle
  - Udle, Teri
  - Vey, Lana
  - Wall, Kirsten

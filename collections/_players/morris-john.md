@@ -435,7 +435,6 @@ vs:
 - Gaudet, Mike
 - Gavin, Martin
 - Geall, Sean
-- Germsheid, Tony
 - Gibson, Andrew
 - Gould, Steve
 - Granchelli, Kris
@@ -547,6 +546,7 @@ vs:
 - Ouimet, Luc
 - Palmer, Curt
 - Park, Kevin
+- Park, Shane
 - Peachey, Jay
 - Pfeifer, Scott
 - Phillips, Tim

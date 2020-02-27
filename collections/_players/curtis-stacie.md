@@ -104,11 +104,13 @@ years:
    shots-total: 169
    shots-percent: 73
 vs:
+ - Adams, Melissa
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Armstrong, Jacquie
- - Arnott, Janet
+ - Arnaud, Chloe
  - Arsenault, Mary-Anne
+ - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Ayrey, Jinaye
  - Babin, Jillian
@@ -129,6 +131,7 @@ vs:
  - Carey, Chelsea
  - Carter, Sasha
  - Cheveldave, Amber
+ - Chislett, Geneva
  - Christianson, Marie
  - Cormier, Sharon
  - Courtney, Joanne
@@ -139,24 +142,28 @@ vs:
  - deSolla, Jodie
  - Doig, Deanna
  - Dufresne, Audree
+ - Duncan, Hollie
  - Dykstra, Michelle
  - Einarson, Kerri
  - Englot, Michelle
  - Eyamie, Lisa
- - Fallis, Karen
  - Fullerton, Sarah
  - Fyfe, Liz
+ - Gagnon, Emilia
  - Galusha, Kerry
+ - Gibson, Amy
  - Gregoire, Veronique
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Harvey, Marie-Pier
  - Hill, Trish
  - Holland, Amber
  - Holtby, Taryn
  - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
+ - Hutchings, Denise
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Colleen
@@ -167,11 +174,14 @@ vs:
  - Kleibrink, Shannon
  - Koehler, Megan
  - Kreviazuk, Alison
+ - Kreviazuk, Cheryl
  - Larouche, Marie-France
  - Lavery, Tracey
  - Lawes, Kaitlyn
+ - LeDrew, Stephanie
  - Lemay, Annie
  - Lilly, Kendra
+ - Lister, Kendra
  - MacCuish, Kristin
  - MacDougall, Leslie
  - MacPhee, Robyn
@@ -182,10 +192,13 @@ vs:
  - McCarville, Krista
  - McEwen, Dawn
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Meakin, Breanne
+ - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
  - Moore, Kristie
+ - Morris, Cori
  - Moses, Dawn
  - Murphy, Sarah
  - Nedohin, Heather
@@ -193,11 +206,13 @@ vs:
  - Nicholls, Brenda
  - Nixon, Amy
  - Nowlan, Denise
+ - O'Connor, Susan
  - Officer, Jill
  - O'Neill, Brit
  - O'Rourke, Brittany
  - Overton-Clapham, Cathy
  - Parsons, Danielle
+ - Perron, Melina
  - Peterman, Jocelyn
  - Peters, Laine
  - Potts, Sarah
@@ -207,13 +222,17 @@ vs:
  - Richards, Brette
  - Robichaud, Sylvie
  - Ross, Allison
+ - Sabourin, Joelle
  - Sagle, Karen
  - Saulnier, Andrea
+ - Scheidegger, Casey
+ - Scheidegger, Jessie
  - Schneider, Kim
  - Schneider, Lorraine
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Shackleton, Amie
  - Shumay, Jill
  - Sicinski, Danielle
  - Sippala, Ashley
@@ -223,9 +242,13 @@ vs:
  - Thompson, Karla
  - Udle, Teri
  - Vandale, Trysta
+ - Van Osch, Kalia
+ - Van Osch, Kesa
+ - Van Osch, Marika
  - Wazney, Sarah
  - Weagle, Lisa
  - Webster, Bronwen
+ - West, Christianne
  - Westcott, Raunora
  - Wilkes, Sarah
  - Williamson, Ashley

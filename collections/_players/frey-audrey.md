@@ -131,6 +131,7 @@ vs:
 - Beever, Jocelyn
 - Bell, Allyson
 - Bernard, Krista
+- Berthelot, Janique
 - Betker, Jan
 - Beveridge, Corie
 - Blackburn, Julie
@@ -170,6 +171,7 @@ vs:
 - Fowler, Sharon
 - Fraser, Sherry
 - Gagnon, Nathalie
+- Galusha, Kerry
 - Garvey, Sue
 - Gatchell, Sara
 - Gauthier, Cathy
@@ -198,6 +200,8 @@ vs:
 - Laliberte, Connie
 - Law, Kelley
 - Lawrence, Margaret
+- Leclerc, Valerie
+- Lemay, Annie
 - Leonard, Judy
 - Lewis, Kristy
 - Lowther, Tammi
@@ -220,11 +224,13 @@ vs:
 - Moore, Kimberly
 - Moore, Kristie
 - Moses, Dawn
+- Moss, Debbie
 - Mulroney, Sandra
 - Muzika, Shelley
 - Nedohin, Heather
 - Nimmo, Shannon
 - Nowlan, Denise
+- Ondrack, Wendy
 - Osborne, Chantal
 - Overton-Clapham, Cathy
 - Palinkas, Gloria
@@ -237,6 +243,7 @@ vs:
 - Renouf, Michele
 - Roberts, Angela
 - Robinson, Charlene
+- Sabourin, Joelle
 - Scales, Julie
 - Schikowski, Keri-Lynn
 - Schmirler, Sandra

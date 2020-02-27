@@ -37,7 +37,6 @@ years:
    shots-percent: 66
 vs:
  - Armstrong, Jacquie
- - Arnott, Janet
  - Babin, Jillian
  - Barbour, Shona
  - Bell, Chelsey
@@ -46,13 +45,11 @@ vs:
  - Brassard, Veronique
  - Carter, Sasha
  - Crawford, Andrea
- - Fallis, Karen
  - Galusha, Kerry
  - Gregoire, Veronique
  - Holland, Amber
  - Homan, Rachel
  - Jones, Jennifer
- - Joyce, Blisse
  - Kalenchuk, Heather
  - Kleibrink, Shannon
  - Kreviazuk, Alison
@@ -63,6 +60,7 @@ vs:
  - MacPhee, Robyn
  - McEwen, Dawn
  - Meakin, Breanne
+ - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
  - Moses, Dawn
@@ -70,15 +68,14 @@ vs:
  - Nowlan, Denise
  - Officer, Jill
  - Overton-Clapham, Cathy
- - Parsons, Danielle
+ - Sabourin, Joelle
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
- - Smith, Heather
  - Sobey, Lianne
- - Udle, Teri
  - Weagle, Lisa
  - Webster, Bronwen
  - Westcott, Raunora
+ - Wilson, Leslie
 ---

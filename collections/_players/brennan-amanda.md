@@ -45,6 +45,7 @@ vs:
  - Clark, Stefanie
  - Cunningham, Cathy
  - Delahunt, Nancy
+ - Dolan, Kim
  - Englot, Michelle
  - Galusha, Kerry
  - Goss, Peg
@@ -55,7 +56,6 @@ vs:
  - Kleibrink, Shannon
  - Larouche, Marie-France
  - Lemay, Annie
- - MacPhee, Robyn
  - Materi, Roberta
  - McCagg-Nystrom, Heather
  - McEwen, Dawn

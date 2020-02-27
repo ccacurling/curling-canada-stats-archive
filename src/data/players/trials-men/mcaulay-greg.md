@@ -77,7 +77,6 @@ vs:
  - Fenton, Keith
  - Ferbey, Randy
  - Frans, Joseph
- - Germsheid, Tony
  - Grattan, James
  - Gretzinger, Bert
  - Howard, Glenn
@@ -93,6 +92,7 @@ vs:
  - Nedohin, David
  - Odishaw, Grant
  - Park, Kevin
+ - Park, Shane
  - Pfeifer, Scott
  - Rocque, Marcel
  - Ryan, Jeff

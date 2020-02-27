@@ -154,7 +154,6 @@ vs:
  - Rocque, Marcel
  - Ryan, Pat
  - Rycroft, Carter
- - Sallows, Tom
  - Samagalski, Derek
  - Savill, Craig
  - Sawatsky, Rick

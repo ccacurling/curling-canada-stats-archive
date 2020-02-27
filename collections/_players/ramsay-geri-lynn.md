@@ -36,11 +36,11 @@ years:
    shots-total: 269
    shots-percent: 74
 vs:
+ - Aleksic, Shannon
  - Armstrong, Jacquie
  - Babin, Jillian
  - Belisle, Eve
  - Carter, Sasha
- - Clark-Rouire, Jennifer
  - Comeau, Martine
  - Cormier, Sharon
  - Crawford, Andrea
@@ -51,11 +51,13 @@ vs:
  - Gilman, Sheena
  - Hardy, Shelley
  - Holland, Amber
+ - Jewer, Michelle
  - Jones, Jennifer
  - Kalenchuk, Heather
  - Koehler, Megan
  - LeDrew, Stephanie
  - Lemon, Colette
+ - MacIntosh, Kelly
  - MacLean, Kari
  - Makichuck, Lindsay
  - McCarville, Krista
@@ -68,8 +70,8 @@ vs:
  - Officer, Jill
  - Overton-Clapham, Cathy
  - Phillips, Kristen
- - Potts, Sarah
  - Rainville, Julie
+ - Rogers, Leslie
  - Rogers, Rhonda
  - Schneider, Kim
  - Schneider, Tammy

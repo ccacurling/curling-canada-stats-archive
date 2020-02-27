@@ -121,6 +121,7 @@ years:
    shots-total: 268
    shots-percent: 84
 vs:
+ - Affleck, Tricia
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Anderson, Sherry
@@ -139,16 +140,22 @@ vs:
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Boudreault, Patricia
  - Boyle, Jane
  - Bradley, Shelly
  - Brassard, Veronique
+ - Brine, Jenn
  - Brothers, Jill
  - Brown, Rachel
  - Cameron, Kate
  - Camozzi, Rhona
  - Carey, Chelsea
+ - Carmody, Erin
  - Carter, Sasha
  - Cheveldave, Amber
+ - Christianson, Marie
  - Clark, Stefanie
  - Collins, Katrina
  - Cooper, Kathryn
@@ -160,13 +167,13 @@ vs:
  - Cunningham, Jessica
  - Curtis, Stacie
  - Cutcliffe, Margaret
+ - Daigle, Julie
  - deJager, Blaine
  - Derry, Danielle
  - deSolla, Jodie
  - Devereaux, Julie
  - Doig, Deanna
  - Dolan, Kim
- - Dolan, Sinead
  - Dufresne, Audree
  - Duncan, Chelsea
  - Dykstra, Michelle
@@ -179,18 +186,20 @@ vs:
  - Fleury, Tracy
  - Foster, Kristen
  - Fullerton, Sarah
+ - Fyfe, Liz
  - Galusha, Kerry
  - Gannon, Melissa
  - Gates, Amanda
+ - Gates, Jenny
  - Gregoire, Veronique
- - Gushulak, Diane
+ - Griffin, Alison
  - Guzzwell, Stephanie
  - Hastings, Julie
- - Hersikorn, Patty
  - Hill, Trish
  - Holland, Amber
  - Holtby, Taryn
  - Hughes, Meaghan
+ - Hunkin, Jessie
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Colleen
@@ -206,10 +215,12 @@ vs:
  - Korab, Stephanie
  - Kreviazuk, Lynn
  - Larouche, Marie-France
+ - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lemay, Annie
  - Lilly, Kendra
+ - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacPhee, Robyn
@@ -225,9 +236,11 @@ vs:
  - McQuaid, Michelle
  - Miller, Wendy
  - Moore, Kristie
- - Morris, Cori
  - Moses, Dawn
+ - Munroe, Anna
+ - Murphy, Sarah
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nixon, Amy
  - Nowlan, Denise
  - Nugent, Pamela
@@ -240,8 +253,10 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Pilote, Kristen
+ - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
+ - Reid, Jackie
  - Richard, Marie
  - Richards, Brette
  - Robichaud, Sylvie
@@ -259,6 +274,7 @@ vs:
  - Scott, Kelly
  - Shumay, Jill
  - Sicinski, Danielle
+ - Silvernagle, Robyn
  - Sinclair, Andrea
  - Singler, Sherri
  - Sippala, Ashley
@@ -266,9 +282,11 @@ vs:
  - Smith, Stacey
  - Snyder, Jane
  - Sobey, Lianne
+ - Sonnenberg, Renee
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
+ - Thevenot, Kara
  - Thiessen, Alison
  - Titheridge, Lindsay
  - Trickett, Erica
@@ -277,6 +295,7 @@ vs:
  - Van Osch, Kesa
  - Wallingham, Patty
  - Walsh, Jenna
+ - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Webster, Bronwen

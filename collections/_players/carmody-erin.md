@@ -53,41 +53,68 @@ years:
    shots-total: 132
    shots-percent: 77
 vs:
+ - Aleksic, Shannon
  - Armstrong, Jacquie
  - Babin, Jillian
  - Belisle, Eve
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Boudreault, Patricia
+ - Brown, Rachel
+ - Carey, Chelsea
  - Carter, Sasha
- - Clark-Rouire, Jennifer
  - Comeau, Martine
  - Cormier, Sharon
+ - Courtney, Joanne
  - Crawford, Andrea
  - Crouse, Jennifer
+ - Daigle, Julie
  - Einarson, Megan
  - Ellis, Danielle
+ - Ferguson, Dana
+ - Fleury, Tracy
+ - Fyfe, Liz
+ - Gates, Jenny
  - George, Tara
  - Gilman, Sheena
+ - Griffin, Alison
  - Hardy, Shelley
  - Holland, Amber
+ - Homan, Rachel
+ - Jewer, Michelle
  - Jones, Jennifer
  - Kalenchuk, Heather
  - Koehler, Megan
+ - Kreviazuk, Cheryl
+ - Lavoie, Gabrielle
  - LeDrew, Stephanie
  - Lemon, Colette
+ - Lilly, Kendra
+ - MacCuish, Kristin
+ - MacIntosh, Kelly
  - MacLean, Kari
  - Makichuck, Lindsay
  - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
+ - Miskew, Emma
  - More, Whitney
+ - Munroe, Anna
  - Naugler, Tara
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nowlan, Denise
  - Officer, Jill
  - Overton-Clapham, Cathy
  - Phillips, Kristen
+ - Pilote, Kristen
+ - Pinksen, Sadie
  - Potts, Sarah
  - Rainville, Julie
+ - Rogers, Leslie
  - Rogers, Rhonda
+ - Rusnell, Jen
+ - Sandwith, Carley
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
@@ -97,6 +124,9 @@ vs:
  - Sweeting, Val
  - Thomas, Jill
  - Thurston, Jill
+ - Wark, Sarah
+ - Weagle, Lisa
  - Westcott, Raunora
+ - Wilkes, Sarah
  - Wilson, Leslie
 ---

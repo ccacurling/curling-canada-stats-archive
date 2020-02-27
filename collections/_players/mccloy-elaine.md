@@ -64,6 +64,7 @@ vs:
  - Bowman, Mary
  - Bradley, Shelly
  - Breen, Theresa
+ - Brown, Maureen
  - Bryant, Angie
  - Cameron, Nancy
  - Charette, Agnes
@@ -79,7 +80,6 @@ vs:
  - Floyd, Kathy
  - Fraser, Sherry
  - Frey, Audrey
- - Funk, LaDawn
  - Gauthier, Cathy
  - Gervais, Donna
  - Goring, Alison

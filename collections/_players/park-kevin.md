@@ -246,6 +246,7 @@ vs:
 - Elkin, Derek
 - Epping, John
 - Feldman, Alfred
+- Fenton, Darin
 - Fenton, Keith
 - Ferbey, Randy
 - Fitzherbert, Brad
@@ -343,7 +344,6 @@ vs:
 - Mellof, David
 - Menard, Jean-Michel
 - Middaugh, Wayne
-- Miki, Bryan
 - Mimeault, Bernard
 - Mimeault, Greg
 - Mitchell, Collin

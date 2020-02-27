@@ -38,7 +38,6 @@ years:
 vs:
  - Adams, Diane
  - Alexander, Diane
- - Allen, Laurie
  - Blanchard, Judy
  - Brown, Katie
  - Chapman, Kathy
@@ -66,6 +65,7 @@ vs:
  - McPherson, Cheryl
  - Moses, Dawn
  - Muzika, Shelley
+ - Overton, Kim
  - Poisson, Francine
  - Power, Judy
  - Rankin, Beth

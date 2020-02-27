@@ -58,13 +58,13 @@ vs:
  - Morris, John
  - Nedohin, David
  - Park, Kevin
+ - Park, Shane
  - Pfeifer, Scott
  - Pierce, Brent
  - Rocque, Marcel
  - Ryan, Jeff
  - Rycroft, Carter
  - Savill, Craig
- - Stambaugh, Doug
  - Stoughton, Jeff
  - Sveistrup, Jody
  - Tetley, Ian

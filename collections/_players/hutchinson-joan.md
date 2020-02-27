@@ -92,7 +92,6 @@ vs:
  - Gallant, Kathie
  - Gould, Karen
  - Graham, Julie
- - Gummer, Janet
  - Hanlon, Heidi
  - Herlinveaux, Louise
  - Jones, Karen

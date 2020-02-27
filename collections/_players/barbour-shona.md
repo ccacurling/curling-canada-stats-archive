@@ -200,93 +200,84 @@ vs:
  - Aleksic, Shannon
  - Anderson, Sherry
  - Armstrong, Jacquie
+ - Armstrong, Jennifer
+ - Arnott, Janet
+ - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
- - Atkinson, Rebecca
  - Babin, Jillian
  - Baldwin, Nicole
+ - Baxter, Jen
  - Belanger, Nancy
  - Bell, Chelsey
  - Bernard, Cheryl
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
+ - Black, Christina
  - Blais, Amelie
- - Blaney, Jennifer
- - Bodner, Jenine
- - Boudreault, Patricia
- - Bradley, Shelly
  - Brassard, Veronique
- - Brown, Rachel
- - Cameron, Nancy
- - Carey, Chelsea
+ - Brown, Jacalyn
+ - Campbell, Jolene
  - Carter, Sasha
- - Chislett, Geneva
  - Christianson, Marie
  - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
  - Curtis, Stacie
- - Daigle, Julie
  - Darbyshire, Carolyn
- - deJager, Blaine
  - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
- - Duncan, Hollie
  - Duncan, Jenna
  - Einarson, Kerri
  - Englot, Michelle
  - Enright, Barb
  - Fallis, Karen
- - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
  - Filteau, Anne-Marie
  - Fleury, Tracy
+ - Forward, Katie
+ - Fraser, Sherry
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gates, Amanda
  - Gates, Jenny
  - George, Tara
- - Gibson, Amy
  - Gilman, Sheena
  - Goss, Peg
  - Gregoire, Veronique
- - Griffin, Alison
+ - Gushulak, Diane
  - Guzzwell, Stephanie
  - Hamilton, Beth
+ - Harmark, Andra
  - Holland, Amber
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
- - Hutchings, Denise
- - Ingram, Megan
  - Iskiw, Beth
  - Jewer, Michelle
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kidd, Darlene
  - Kleibrink, Shannon
  - Korab, Stephanie
  - Korchinski, Karlee
  - Kreviazuk, Alison
- - Kreviazuk, Cheryl
  - Lang, Lorraine
  - Larouche, Marie-France
- - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
- - LeDrew, Stephanie
  - Lemay, Annie
- - Lilly, Kendra
  - Lister, Kendra
  - Lowther, Tammi
  - MacCuish, Kristin
  - MacDonald, Rebecca Jean
- - MacDougall, Leslie
+ - MacInnes, Grace
  - MacLean, Kari
  - MacPhee, Robyn
  - Mair, Jessica
@@ -297,12 +288,10 @@ vs:
  - McConnery, Nancy
  - McEwen, Dawn
  - McQuaid, Michelle
- - McTaggart, Cary-Anne
- - Meakin, Breanne
+ - Middaugh, Sherry
  - Miskew, Emma
- - Moore, Kristie
+ - Moore, Kim
  - Morris, Cori
- - Munroe, Anna
  - Muzika, Shelley
  - Nedohin, Heather
  - Njegovan, Selena
@@ -316,27 +305,20 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
- - Pilote, Kristen
- - Potts, Sarah
  - Price, Kara
- - Recksiedler, Kristen
  - Richards, Brette
  - Robertson, Darcy
  - Robichaud, Sylvie
- - Rusnell, Jen
+ - Robison, Michala
  - Sabourin, Joelle
- - Sagle, Karen
- - Sandwith, Carley
- - Scheidegger, Casey
- - Scheidegger, Jessie
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
- - Shackleton, Amie
  - Sharpe, Kelli
  - Shaw, Ladene
  - Silvernagle, Robyn
+ - Simmons, Cindy
  - Singler, Sherri
  - Sivertson, Dailene
  - Slywka, Sarah
@@ -350,17 +332,14 @@ vs:
  - Thevenot, Kara
  - Thomas, Jill
  - Udle, Teri
- - Van Osch, Kalia
- - Van Osch, Kesa
- - Van Osch, Marika
  - Vey, Lana
+ - Wall, Kirsten
  - Walsh, Jenna
- - Wark, Sarah
+ - Wazney, Sarah
  - Weagle, Lisa
  - Webster, Bronwen
  - Webster, Crystal
- - West, Christianne
- - Wilkes, Sarah
+ - Westcott, Raunora
  - Wilson, Leslie
  - Wylie, Jennifer
 ---

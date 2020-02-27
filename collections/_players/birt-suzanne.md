@@ -190,9 +190,9 @@ years:
    shots-percent: 73
 vs:
  - Aleksic, Shannon
- - Allen, Michelle
  - Anderson, Sherry
  - Armstrong, Jacquie
+ - Armstrong, Jennifer
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
@@ -214,14 +214,12 @@ vs:
  - Blackburn, Julie
  - Blais, Amelie
  - Blanchard, Judy
- - Blaney, Jennifer
- - Bodner, Jenine
  - Bohmer, Brenda
  - Bonar, Maureen
- - Boudreault, Patricia
  - Boyle, Jane
  - Brassard, Veronique
  - Brennan, Amanda
+ - Brine, Jenn
  - Brothers, Jill
  - Brown, Rachel
  - Burgess, Carey
@@ -231,8 +229,10 @@ vs:
  - Campbell, Gloria
  - Campbell, Jolene
  - Carey, Chelsea
+ - Carrier, Julie
  - Carter, Sasha
  - Cheveldave, Amber
+ - Clark-Rouire, Jennifer
  - Clarke, Hayley
  - Collins, Katrina
  - Comeau, Martine
@@ -247,7 +247,6 @@ vs:
  - Cunningham, Jessica
  - Currie, Wendy
  - Curtis, Stacie
- - Daigle, Julie
  - Daniel, Sylvie
  - Darbyshire, Carolyn
  - deJager, Blaine
@@ -269,6 +268,7 @@ vs:
  - Fister, Teri
  - Fister, Toni
  - Fleury, Tracy
+ - Forward, Katie
  - Fowler, Lois
  - Freeman, Lisa
  - Fyfe, Liz
@@ -284,8 +284,6 @@ vs:
  - Goss, Peg
  - Greening, Jackie-Rae
  - Gregoire, Veronique
- - Grenier, Valerie
- - Griffin, Alison
  - Gudereit, Marcia
  - Gushulak, Diane
  - Guzzwell, Stephanie
@@ -300,6 +298,7 @@ vs:
  - Harvey, Janet
  - Hastings, Julie
  - Hodson, Kim
+ - Holden, Anna-Mae
  - Holland, Amber
  - Hollands, Saskia
  - Holtby, Taryn
@@ -309,7 +308,6 @@ vs:
  - Hunkin, Jessie
  - Hunter, Lana
  - Inglis, Nancy
- - Ingram, Megan
  - Iskiw, Beth
  - Jewer, Michelle
  - Johnston, Kara
@@ -332,14 +330,11 @@ vs:
  - Lang, Lorraine
  - Lange, Ann
  - Larouche, Marie-France
- - Lavery, Tracey
- - Lavoie, Gabrielle
  - Law, Kelley
  - Lawes, Andrea
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - LeDrew, Stephanie
- - Leger, Stacey
  - Lemay, Annie
  - Letendre, Pascale
  - Lilly, Kendra
@@ -356,6 +351,7 @@ vs:
  - Marchuk, Lindy
  - Martin, Heather
  - Materi, Roberta
+ - Mattatall, Mary
  - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McConnery, Nancy
@@ -372,7 +368,6 @@ vs:
  - Moss, Debbie
  - Muise, Morgan
  - Mulroney, Sandra
- - Munroe, Anna
  - Murphy, Jeanette
  - Murphy, Sarah
  - Naugler, Tara
@@ -410,6 +405,7 @@ vs:
  - Robichaud, Sylvie
  - Rocque, Raylene
  - Ross, Allison
+ - Round, Coralee
  - Rudulier, Andrea
  - Rusnell, Jen
  - Sabourin, Joelle
@@ -459,7 +455,6 @@ vs:
  - Walsh, Jenna
  - Wark, Sarah
  - Wasylkiw, Lauren
- - Wazney, Sarah
  - Weagle, Lisa
  - Webster, Bronwen
  - Westcott, Raunora

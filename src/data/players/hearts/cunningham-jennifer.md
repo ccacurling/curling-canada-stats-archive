@@ -41,17 +41,15 @@ vs:
  - Babin, Jillian
  - Barbour, Shona
  - Blais, Amelie
- - Cameron, Nancy
  - Carter, Sasha
- - Chisholm, Candace
  - Cormier, Sharon
  - Crawford, Andrea
- - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
  - Englot, Michelle
  - Filteau, Anne-Marie
  - Fleury, Tracy
+ - Galusha, Kerry
  - Gates, Amanda
  - Holland, Amber
  - Iskiw, Beth
@@ -65,13 +63,13 @@ vs:
  - Mair, Jessica
  - Materi, Roberta
  - McEwen, Dawn
- - Miller, Wendy
+ - Murphy, Jeanette
  - Nedohin, Heather
  - Nicholls, Brenda
- - Nixon, Amy
  - Officer, Jill
  - Parsons, Danielle
  - Peters, Laine
+ - Robison, Michala
  - Schneider, Kim
  - Schneider, Tammy
  - Scott, Kelly

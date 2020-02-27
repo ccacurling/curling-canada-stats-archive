@@ -113,7 +113,6 @@ vs:
  - Cormier, Sharon
  - Crawford, Andrea
  - Cunningham, Cathy
- - Curtis, Stacie
  - Delahunt, Nancy
  - Farrell, Allison
  - Floyd, Kathy
@@ -125,7 +124,6 @@ vs:
  - Goss, Peg
  - Graham-MacDonald, Bea
  - Gregoire, Veronique
- - Guzzwell, Stephanie
  - Harrison, Meredith
  - Hodson, Kim
  - Holland, Amber
@@ -163,7 +161,6 @@ vs:
  - Officer, Jill
  - O'Rourke, Kathy
  - Parsons, Danielle
- - Paul, Sarah
  - Power, Marie-Anne
  - Robinson, Lori
  - Scales, Julie

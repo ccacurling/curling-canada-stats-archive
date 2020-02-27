@@ -91,6 +91,7 @@ vs:
  - Bradley, Shelly
  - Brown, Jacalyn
  - Burlington, Cheryl
+ - Cameron, Nancy
  - Cooke, Gerri
  - Cormier, Sharon
  - Cunningham, Cathy
@@ -117,10 +118,10 @@ vs:
  - Grenier, Valerie
  - Gushulak, Diane
  - Hanlon, Heidi
- - Harding, Mary
  - Harrison, Meredith
  - Harvey, Alison
  - Hodson, Kim
+ - Holden, Anna-Mae
  - Holowec, Ainsley
  - Horne, Kate
  - Hunter, Lana

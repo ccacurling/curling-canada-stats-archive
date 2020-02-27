@@ -216,6 +216,7 @@ vs:
  - Affleck, Tricia
  - Anderson, Sherry
  - Armstrong, Jacquie
+ - Arnott, Janet
  - Arsenault, Mary-Anne
  - Arseneau, Jane
  - Atkinson, Rebecca
@@ -227,20 +228,18 @@ vs:
  - Bell, Chelsey
  - Bernard, Cheryl
  - Birt, Suzanne
- - Blanchard, Judy
  - Bonar, Maureen
  - Boyle, Jane
  - Bradley, Shelly
  - Brennan, Amanda
- - Briand, Oye-Sem Won
  - Brothers, Jill
  - Brown, Jacalyn
  - Brown, Janet
- - Cameron, Nancy
  - Campbell, Jolene
  - Carey, Chelsea
  - Carrier, Julie
  - Carter, Sasha
+ - Chisholm, Candace
  - Christianson, Marie
  - Clark, Stefanie
  - Clark-Rouire, Jennifer
@@ -257,9 +256,9 @@ vs:
  - deSolla, Jodie
  - Devereaux, Julie
  - Dezura, Diane
+ - Dobson, Sue
  - Dolan, Kim
  - Dolan, Sinead
- - Dunn, Michelle
  - Einarson, Kerri
  - Englot, Michelle
  - Enright, Barb
@@ -297,6 +296,7 @@ vs:
  - Iskiw, Beth
  - Jones, Colleen
  - Jones, Jennifer
+ - Jones-Walker, Debbie
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kasner, Marliese
@@ -308,6 +308,7 @@ vs:
  - Koehler, Megan
  - Korab, Stephanie
  - Kreviazuk, Alison
+ - Laliberte, Connie
  - Lang, Lorraine
  - Lavery, Tracey
  - Law, Kelley
@@ -361,8 +362,6 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
- - Pilote, Kristen
- - Pinkney, Colleen
  - Porter, Erin
  - Potts, Sarah
  - Power, Marie-Anne
@@ -374,10 +373,9 @@ vs:
  - Richards, Brette
  - Robertson, Darcy
  - Robichaud, Sylvie
- - Rusnell, Jen
+ - Robison, Michala
  - Sagle, Karen
  - Sandison, Janice
- - Sandwith, Carley
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
@@ -401,6 +399,7 @@ vs:
  - Strong, Laura
  - Surik, Teejay
  - Tasaka, Adina
+ - Thomas, Jill
  - Thompson, Karla
  - Udle, Teri
  - Vandale, Trysta
@@ -408,9 +407,10 @@ vs:
  - Vey, Lana
  - Wall, Kirsten
  - Walsh, Jenna
- - Wark, Sarah
+ - Wasylkiw, Lauren
  - Weagle, Lisa
  - Webster, Bronwen
+ - Webster, Crystal
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whitaker, Carol

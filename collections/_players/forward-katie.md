@@ -36,4 +36,28 @@ years:
    shots-total: 130
    shots-percent: 83
 vs:
+ - Baldwin, Nicole
+ - Barbour, Shona
+ - Birnie, Hailey
+ - Birt, Suzanne
+ - Christianson, Marie
+ - Galusha, Kerry
+ - Guzzwell, Stephanie
+ - Hamilton, Beth
+ - Hughes, Meaghan
+ - Hunkin, Jessie
+ - Jewer, Michelle
+ - Jones, Jennifer
+ - Koltun, Sarah
+ - Lawes, Kaitlyn
+ - Lawton, Stefanie
+ - McEwen, Dawn
+ - McQuaid, Michelle
+ - Peterman, Jocelyn
+ - Sharpe, Kelli
+ - Shaw, Ladene
+ - Silvernagle, Robyn
+ - Strong, Helen
+ - Thevenot, Kara
+ - Tran, Brittany
 ---

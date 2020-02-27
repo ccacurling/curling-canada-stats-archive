@@ -47,7 +47,6 @@ vs:
  - Anderson, Sherry
  - Arnott, Janet
  - Arseneau, Jane
- - Berthelot, Janique
  - Betker, Jan
  - Boily, Caroline
  - Brown, Maureen
@@ -61,9 +60,7 @@ vs:
  - Gignac, Donna
  - Gudereit, Marcia
  - Hanlon, Heidi
- - Harding, Mary
  - Harris, Susan
- - Henry, Lou Ann
  - Horne, Kate
  - Jackson, Virginia
  - Jennings, Tracey
@@ -76,8 +73,6 @@ vs:
  - Laliberte, Connie
  - Law, Kelley
  - Leblanc, Lisa
- - Leclerc, Valerie
- - Lemay, Annie
  - MacAulay, Marion
  - MacDonald, Rebecca Jean
  - Mallett, Marla
@@ -85,11 +80,11 @@ vs:
  - McCloy, Elaine
  - McConnery, Nancy
  - McCusker, Joan
+ - McInnis, Susan
  - Montgomery, Kay
  - Moses, Dawn
  - Overton-Clapham, Cathy
  - Phillips, Laura
- - Sabourin, Joelle
  - Schmirler, Sandra
  - Shields, Deanne
  - Stokes, Debbie

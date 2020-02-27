@@ -36,4 +36,13 @@ years:
    shots-total: 5
    shots-percent: 70
 vs:
+ - Affleck, Tricia
+ - Carmody, Erin
+ - Georges, Kendra
+ - O'Rourke, Kathy
+ - Phillips, Kristen
+ - Ramsay, Geri Lynn
+ - Thurston, Jill
+ - Westcott, Raunora
+ - Wilson, Leslie
 ---

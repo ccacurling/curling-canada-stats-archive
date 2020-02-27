@@ -109,6 +109,7 @@ vs:
  - Bartlett, Don
  - Burtnyk, Kerry
  - Epping, John
+ - Fenton, Darin
  - Fenton, Keith
  - Ferbey, Randy
  - Forrest, Tyler
@@ -142,7 +143,6 @@ vs:
  - Meakin, Rob
  - Mellof, David
  - Middaugh, Wayne
- - Miki, Bryan
  - Mitchell, Collin
  - Morris, John
  - Nedohin, David

@@ -270,10 +270,10 @@ vs:
 - Anderson, Sherry
 - Arnott, Janet
 - Arseneau, Jane
-- Atkinson, Rebecca
 - Baker, Michelle
 - Bakker, Glenys
 - Balderston, Marcy
+- Barrack, Carmen
 - Belanger, Nancy
 - Belisle, Eve
 - Bell, Allyson
@@ -296,6 +296,7 @@ vs:
 - Bradley, Shelly
 - Breen, Theresa
 - Brennan, Amanda
+- Brown, Jacalyn
 - Brown, Janet
 - Burgess, Carey
 - Burlington, Cheryl
@@ -325,6 +326,7 @@ vs:
 - Derick, Catherine
 - deSolla, Jodie
 - Dezura, Diane
+- Dobson, Sue
 - Dolan, Kim
 - Dorosz, Peggy
 - Dunn, Anne
@@ -366,13 +368,14 @@ vs:
 - Gushulak, Diane
 - Hamilton, Beth
 - Hanlon, Heidi
-- Harding, Mary
+- Hanna, Jenn
+- Hanna, Stephanie
 - Hardy, Shelley
 - Harmark, Andra
 - Harrison, Meredith
 - Harvey, Alison
-- Harvey, Carol
 - Harvey, Janet
+- Hatton, Sandra
 - Henry, Lou Ann
 - Hodson, Kim
 - Holland, Amber
@@ -380,6 +383,7 @@ vs:
 - Holowec, Ainsley
 - Hooper Perroud, Jane
 - Horne, Kate
+- Horte, Rhonda
 - Hunter, Lana
 - Hutton, Barb
 - Iskiw, Beth
@@ -395,7 +399,6 @@ vs:
 - Kidd, Darlene
 - King, Cathy
 - Kleibrink, Shannon
-- Lacey, Stacey
 - Laliberte, Connie
 - Lang, Lorraine
 - Lange, Ann
@@ -403,10 +406,12 @@ vs:
 - Law, Kelley
 - Lawes, Andrea
 - Lawton, Stefanie
+- Leclerc, Valerie
 - Leger, Stacey
 - Lemay, Annie
 - Lemire, Nancy
 - Leonard, Judy
+- Letendre, Pascale
 - Lewis, Kristy
 - Linton, Sherry
 - Loder, Cherie-Ann
@@ -416,6 +421,7 @@ vs:
 - MacDiarmid, Kristen
 - MacDonald, Lawnie
 - MacDonald, Rebecca Jean
+- MacDonald, Shelley
 - MacDougall, Leslie
 - MacInnes, Allison
 - MacNutt, Shelley
@@ -435,6 +441,7 @@ vs:
 - McCusker, Joan
 - McDonald, Tina
 - McEwen, Dawn
+- McGregor, Rona
 - McInnis, Susan
 - McKnight, Patti
 - McNamee, Karen
@@ -445,6 +452,7 @@ vs:
 - Mittelstadt, Candice
 - Montgomery, Kay
 - Moore, Kim
+- Moore, Kristie
 - Moriarty, Monica
 - Moses, Dawn
 - Moss, Debbie
@@ -464,10 +472,10 @@ vs:
 - Ondrack, Wendy
 - Osborne, Chantal
 - Overton-Clapham, Cathy
-- Parsons, Danielle
 - Pendergast, Judy
 - Peters, Laine
 - Phillips, Laura
+- Phillips, Margaret Lea
 - Pinkney, Colleen
 - Power, Marie-Anne
 - Prosser, Sandi
@@ -507,6 +515,7 @@ vs:
 - Sonnenberg, Renee
 - Spencer, Barb
 - Stabel, Stacey
+- Stahl, Carrie
 - Stewart, Sheri
 - Strachan, Angela
 - Street, Cindy
@@ -518,6 +527,7 @@ vs:
 - Surik, Teejay
 - Tanner, Allison
 - Tanner, Ros
+- Tasaka, Adina
 - Thompson, Karla
 - Thurston, Jill
 - Tincher, Twyla
@@ -533,6 +543,7 @@ vs:
 - Webster, Bronwen
 - Wheatcroft, Georgina
 - Whitaker, Carol
+- Whitaker, Lise
 - Whitrow, Leanne
 - Wieler, Bev
 - Wright, Susan

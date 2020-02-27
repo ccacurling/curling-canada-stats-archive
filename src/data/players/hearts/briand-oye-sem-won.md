@@ -53,12 +53,12 @@ years:
    shots-total: 2
    shots-percent: 50
 vs:
- - Blais, Amelie
+ - Cormier, Sharon
  - Curtis, Stacie
+ - Derry, Danielle
  - Devereaux, Julie
- - Larouche, Marie-France
- - Nicholls, Brenda
+ - Galusha, Kerry
+ - Koehler, Megan
  - Porter, Erin
- - Rainville, Julie
- - Trickett, Erica
+ - Vautour, Carrie
 ---

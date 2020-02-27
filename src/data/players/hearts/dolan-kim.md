@@ -239,6 +239,7 @@ vs:
  - Bartlett, Sue Anne
  - Beaudin, Yvonne
  - Bell, Mary Susan
+ - Bernard, Cheryl
  - Berthelot, Janique
  - Betker, Jan
  - Beveridge, Corie
@@ -253,6 +254,7 @@ vs:
  - Bowering, Andrea
  - Bowman, Mary
  - Brawley, Sandra
+ - Brennan, Amanda
  - Brothers, Jill
  - Brousseau, Deb
  - Brown, Katie
@@ -262,6 +264,7 @@ vs:
  - Burkitt, Maureen
  - Burry, Gail
  - Byers, Denise
+ - Campbell, Jolene
  - Campbell, June
  - Carey, Chelsea
  - Carney, Laurie
@@ -288,7 +291,6 @@ vs:
  - Cunningham, Jennifer
  - Cunningham, Jessica
  - Cutcliffe, Margaret
- - Dagg-Jackson, Elaine
  - Daniel, Sylvie
  - Darbyshire, Carolyn
  - Darbyshire, Merline
@@ -306,6 +308,7 @@ vs:
  - Dunstone, Carol
  - Duranceau, Mary
  - Dwyer, Patricia
+ - Earl, Allison
  - Eddy, Lori
  - Ellwood, Laurie
  - Englot, Michelle
@@ -334,6 +337,7 @@ vs:
  - Green, Sue
  - Greening, Jackie-Rae
  - Gudereit, Marcia
+ - Gummer, Janet
  - Gushulak, Diane
  - Hanlon, Heidi
  - Harris, Susan
@@ -366,6 +370,7 @@ vs:
  - Kaylo, Kelly
  - Keays, Stella
  - Kehler, Lorie
+ - Kellerman, Bev
  - Kelly, Kim
  - Kennedy, Tracy
  - Kerr, Heather
@@ -390,12 +395,12 @@ vs:
  - Lawton, Stefanie
  - Leavitt, Pam
  - Leblanc, Lisa
- - Leger, Stacey
  - Lemay, Annie
  - Lemire, Nancy
  - Lethbridge, Sherry
  - Lukowich, Judy
  - Lynch, Pauline
+ - MacInnes, Allison
  - MacKay, Carolyn
  - MacLean, Jean
  - Mainwaring, Bev
@@ -428,16 +433,16 @@ vs:
  - Messer, Janyce
  - Middaugh, Sherry
  - Miller, Maureen
+ - Miller, Wendy
  - Miskew, Emma
  - Montgomery, Kay
  - Moore, Kim
  - Moore, Linda
  - Moses, Dawn
  - Moss, Debbie
+ - Murphy, Jeanette
  - Nedohin, Heather
  - Nicholls, Brenda
- - Nichols, Helen
- - Nicholson, Danielle
  - Nugent, Pamela
  - Officer, Jill
  - Ondrack, Wendy
@@ -460,12 +465,11 @@ vs:
  - Rankin, Beth
  - Rankin, Heather
  - Renouf, Michele
- - Richard, Marie
  - Ridley, Terry
  - Rintoul, Jacki
- - Robichaud, Sylvie
  - Ross, Allison
  - Rowan, Sheila
+ - Ryan, Jennifer
  - Ryan, Penny
  - Sabourin, Joelle
  - Sanders, Pat
@@ -478,19 +482,19 @@ vs:
  - Schmirler, Sandra
  - Schneider, Kim
  - Schneider, Sheila
- - Schneider, Tammy
  - Scott, Donna
  - Scott, Kelly
  - Sefton, Judy
  - Seitz, Susan
  - Sharpe, Kelli
  - Shaw, Cathy
+ - Sherrington, Barb
  - Shields, Deanne
  - Shields, Gail
  - Sigurdson, Janine
  - Sinclair, Andrea
- - Singler, Sherri
  - Sivertson, Dailene
+ - Skinner, Julie
  - Slywka, Sarah
  - Smith, Heather
  - Soligo, Melissa
@@ -506,7 +510,7 @@ vs:
  - Sweeting, Val
  - Tanner, Allison
  - Thompson, Carol
- - Thurston, Jill
+ - Thompson, Karla
  - Tincher, Twyla
  - Titheridge, Lindsay
  - Tousignant, Helene
@@ -531,4 +535,5 @@ vs:
  - Wuthrich, Patti
  - Wright, Susan
  - Wylie, Jennifer
+ - Yardley, Janelle
 ---

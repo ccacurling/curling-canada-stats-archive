@@ -59,6 +59,7 @@ vs:
  - Augustyn, Jan
  - Bartlett, Sue Anne
  - Bildfell, Shelly
+ - Blair, Diane
  - Bodogh, Marilyn
  - Bonar, Maureen
  - Bothwell-Myers, Connie
@@ -75,7 +76,6 @@ vs:
  - Currie, Barbara
  - Delorenzi, Marlene
  - Deschatelets, Guylaine
- - Dickeson, Debbi
  - Dillon, Cathy
  - Dolan, Kim
  - Donald, Grace

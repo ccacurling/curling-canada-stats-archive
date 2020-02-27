@@ -72,8 +72,9 @@ years:
 vs:
  - Aleksic, Shannon
  - Arnott, Janet
- - Ayrey, Jinaye
+ - Baldwin, Nicole
  - Barbour, Shona
+ - Beauchamp, Sasha
  - Belanger, Nancy
  - Betker, Jan
  - Birt, Suzanne
@@ -86,9 +87,11 @@ vs:
  - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
+ - Curtis, Stacie
  - Daniel, Sylvie
  - Derick, Catherine
  - deSolla, Jodie
+ - Dufresne, Audree
  - Enright, Barb
  - Gagnier, Monique
  - Galusha, Kerry
@@ -99,17 +102,13 @@ vs:
  - Gushulak, Diane
  - Hardy, Shelley
  - Harrison, Meredith
- - Holtby, Taryn
- - Homan, Rachel
  - Inglis, Nancy
- - Johnston, Kara
  - Jones, Jennifer
  - Kasner, Marliese
  - Lang, Lorraine
  - Larouche, Marie-France
  - Law, Kelley
  - Lawton, Stefanie
- - LeDrew, Stephanie
  - Lemay, Annie
  - Lowther, Tammi
  - MacDonald, Rebecca Jean
@@ -117,11 +116,11 @@ vs:
  - MacLean, Kari
  - MacPhee, Robyn
  - Mallett, Marla
+ - Martin, Heather
  - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
- - Miskew, Emma
  - Morgan, Cheryl
  - Moses, Dawn
  - Murphy, Jeanette
@@ -129,18 +128,18 @@ vs:
  - Nowlan, Denise
  - Officer, Jill
  - O'Leary, Susan
+ - O'Rourke, Brittany
  - Osborne, Chantal
  - Overton-Clapham, Cathy
- - Pinkney, Colleen
+ - Porter, Erin
  - Power, Marie-Anne
  - Provencal, Darah
  - Richards, Brette
  - Robertson, Darcy
+ - Ross, Allison
  - Sabourin, Joelle
  - Schraeder, Jeanna
  - Scott, Kelly
- - Sharpe, Kelli
- - Shumay, Jill
  - Simons, Renee
  - Singler, Sherri
  - Sobey, Lianne
@@ -148,9 +147,10 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
+ - Thomas, Jill
  - Udle, Teri
  - Vey, Lana
- - Weagle, Lisa
+ - Wasylkiw, Lauren
  - Wheatcroft, Georgina
  - Whitaker, Carol
 ---

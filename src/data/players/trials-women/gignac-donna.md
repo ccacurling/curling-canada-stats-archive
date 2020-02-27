@@ -56,7 +56,6 @@ vs:
  - Arsenault, Mary-Anne
  - Bakker, Glenys
  - Belanger, Nancy
- - Bell, Chelsey
  - Bell, Patty
  - Betker, Jan
  - Beveridge, Corie
@@ -81,7 +80,6 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Jurgenson, Christine
- - Kasner, Marliese
  - Kehler, Lorie
  - Kelly, Kim
  - Keshen, Christine
@@ -90,7 +88,6 @@ vs:
  - Larouche, Marie-France
  - Law, Kelley
  - Lawes, Andrea
- - Lawton, Stefanie
  - Lemay, Annie
  - Linton, Sherry
  - MacDonald, Lawnie
@@ -108,7 +105,6 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Simons, Renee
- - Singler, Sherri
  - Skinner, Julie
  - Stricker, Joan
  - Tuck, Kimberly

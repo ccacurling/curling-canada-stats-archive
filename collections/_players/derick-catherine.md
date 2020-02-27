@@ -76,6 +76,7 @@ vs:
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Arseneau, Jane
+ - Baldwin, Nicole
  - Bell, Chelsey
  - Bernard, Cheryl
  - Betker, Jan
@@ -93,9 +94,11 @@ vs:
  - Darbyshire, Carolyn
  - Delahunt, Nancy
  - Dolan, Kim
+ - Dolan, Sinead
  - Farrell, Allison
  - Floyd, Kathy
  - Fraser, Sherry
+ - Funk, LaDawn
  - Gagnier, Monique
  - Galusha, Kerry
  - Gauthier, Cathy
@@ -110,8 +113,6 @@ vs:
  - Hanna, Stephanie
  - Hardy, Shelley
  - Harris, Susan
- - Harrison, Meredith
- - Henry, Lou Ann
  - Horne, Kate
  - Inglis, Nancy
  - Jackson, Virginia
@@ -132,7 +133,6 @@ vs:
  - Leblanc, Lisa
  - Leger, Stacey
  - Letendre, Pascale
- - Linton, Sherry
  - MacAulay, Marion
  - MacDonald, Rebecca Jean
  - MacPhee, Robyn
@@ -146,6 +146,7 @@ vs:
  - McCrady, Christine
  - McCusker, Joan
  - McEwen, Dawn
+ - McInnis, Susan
  - Mittelstadt, Candice
  - Montgomery, Kay
  - Moriarty, Monica
@@ -167,7 +168,6 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli
- - Shields, Deanne
  - Simons, Renee
  - Singler, Sherri
  - Stokes, Debbie

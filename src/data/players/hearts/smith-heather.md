@@ -121,20 +121,23 @@ vs:
  - Blais, Amelie
  - Blanchard, Judy
  - Bonar, Maureen
+ - Boyle, Jane
  - Bradley, Shelly
  - Brassard, Veronique
  - Breen, Theresa
  - Brown, Rachel
  - Cameron, Nancy
+ - Campbell, Jolene
  - Campbell, June
  - Carey, Chelsea
  - Carter, Sasha
- - Chisholm, Candace
+ - Clark-Rouire, Jennifer
  - Cooke, Gerri
  - Cooper, Kathryn
  - Cordina, Sheri
  - Cormier, Sharon
  - Cottrill, Katie
+ - Court, Morgan
  - Courtney, Joanne
  - Crawford, Andrea
  - Cunningham, Cathy
@@ -142,8 +145,10 @@ vs:
  - Cunningham, Jessica
  - Curtis, Stacie
  - Daku, Karen
+ - Davies, Lisa
  - Delahunt, Nancy
  - deSolla, Jodie
+ - Devereaux, Julie
  - Dezura, Diane
  - Dobson, Sue
  - Dolan, Kim
@@ -154,9 +159,11 @@ vs:
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Fisher, Alana
+ - Flaxey, Allison
  - Fleury, Tracy
  - Foster, Kristen
  - Fowler, Lois
+ - Fraser, Sherry
  - Freeman, Lisa
  - Frey, Audrey
  - Gagnon, Karo
@@ -185,8 +192,6 @@ vs:
  - Kelly, Kim
  - Kerr, Kathy
  - Kleibrink, Shannon
- - Koehler, Megan
- - Koltun, Sarah
  - Korab, Stephanie
  - Kreviazuk, Alison
  - Kreviazuk, Lynn
@@ -220,6 +225,7 @@ vs:
  - Moses, Dawn
  - Moss, Debbie
  - Mulroney, Sandra
+ - Murphy, Jeanette
  - Nedohin, Heather
  - Nicholls, Brenda
  - Nixon, Amy
@@ -229,13 +235,11 @@ vs:
  - O'Rourke, Brittany
  - Overton-Clapham, Cathy
  - Parsons, Danielle
- - Paul, Sarah
  - Peters, Laine
  - Phillips, Margaret Lea
- - Rainville, Julie
  - Reed, Shellan
+ - Reid, Jackie
  - Renouf, Michele
- - Robison, Michala
  - Ross, Allison
  - Sabourin, Joelle
  - Sanderson, Jessie
@@ -258,7 +262,6 @@ vs:
  - Strong, Laura
  - Sweeting, Val
  - Titheridge, Lindsay
- - Tuck, Kim
  - Van Osch, Kesa
  - Vey, Lana
  - Wall, Kirsten

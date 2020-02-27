@@ -13,8 +13,4 @@ years:
    team: "Homa"
    position: Alternate
 vs:
- - Court, Morgan
- - Flaxey, Allison
- - Grandy, Clancy
- - Kreviazuk, Lynn
 ---

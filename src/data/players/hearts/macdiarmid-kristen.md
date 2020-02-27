@@ -37,10 +37,10 @@ years:
    shots-percent: 75
 vs:
  - Affleck, Tricia
- - Arnott, Janet
  - Arsenault, Mary-Anne
  - Belisle, Eve
  - Birt, Suzanne
+ - Bolland, Michelle
  - Burgess, Carey
  - Bush, Tracy
  - Cameron, Nancy
@@ -57,7 +57,6 @@ vs:
  - Jones, Jennifer
  - Kelly, Kim
  - King, Cathy
- - Lang, Lorraine
  - Loder, Cherie-Ann
  - McCagg-Nystrom, Heather
  - McCarville, Krista

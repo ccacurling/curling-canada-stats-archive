@@ -182,7 +182,6 @@ vs:
  - Flannigan, Lorraine
  - Fortier, Marie-Josee
  - Fowler, Lois
- - Fowler, Rhonda
  - Frey, Audrey
  - Gagnier, Monique
  - Galusha, Kerry
@@ -318,7 +317,6 @@ vs:
  - Wall, Mary Lou
  - Walter, Cathy
  - Walter, Sheila
- - Webb, Corine
  - Wheatcroft, Georgina
  - Whitrow, Leanne
  - Wieler, Bev

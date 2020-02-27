@@ -84,7 +84,6 @@ years:
 vs:
  - Affleck, Tricia
  - Armstrong, Jacquie
- - Arnott, Janet
  - Atkinson, Rebecca
  - Babin, Jillian
  - Barbour, Shona
@@ -94,7 +93,6 @@ vs:
  - Blais, Amelie
  - Bradley, Shelly
  - Brassard, Veronique
- - Cameron, Nancy
  - Carmody, Erin
  - Carter, Sasha
  - Comeau, Martine
@@ -107,10 +105,12 @@ vs:
  - Dolan, Kim
  - Dolan, Sinead
  - Einarson, Megan
+ - Ellis, Danielle
  - Englot, Michelle
  - Fallis, Karen
  - Filteau, Anne-Marie
  - Fleury, Tracy
+ - Fraser, Sherry
  - Galusha, Kerry
  - Gates, Amanda
  - George, Tara
@@ -142,7 +142,8 @@ vs:
  - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
- - Meakin, Breanne
+ - Middaugh, Sherry
+ - Miller, Wendy
  - Miskew, Emma
  - More, Whitney
  - Moses, Dawn

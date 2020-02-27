@@ -38,7 +38,6 @@ years:
 vs:
  - Anderson, Sherry
  - Atkinson, Rebecca
- - Baier, Stephanie
  - Brothers, Jill
  - Brown, Rachel
  - Carey, Chelsea
@@ -46,7 +45,6 @@ vs:
  - Courtney, Joanne
  - Crawford, Andrea
  - Cunningham, Jessica
- - Davies, Lisa
  - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
@@ -60,6 +58,7 @@ vs:
  - Koltun, Sarah
  - Kreviazuk, Alison
  - Lawton, Stefanie
+ - LeDrew, Stephanie
  - MacDonald, Rebecca Jean
  - McDonald, Kristy
  - Miskew, Emma
@@ -68,8 +67,6 @@ vs:
  - Parsons, Danielle
  - Robison, Michala
  - Ross, Allison
- - Sanderson, Jessie
- - Sandwith, Carley
  - Sinclair, Andrea
  - Singler, Sherri
  - Smith, Heather
@@ -78,7 +75,6 @@ vs:
  - Sweeting, Val
  - Titheridge, Lindsay
  - Udle, Teri
- - Van Osch, Kesa
  - Wallingham, Patty
  - Weagle, Lisa
 ---

@@ -41,8 +41,8 @@ vs:
  - Bartlett, Sue Anne
  - Blanchard, Judy
  - Brown, Katie
- - Chapman, Kathy
  - Chaulk, Wendy
+ - Cowan, Michele
  - Dolan, Kim
  - Dwyer, Patricia
  - Englot, Michelle

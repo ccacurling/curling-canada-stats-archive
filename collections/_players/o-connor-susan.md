@@ -175,11 +175,13 @@ vs:
 - Aleksic, Shannon
 - Armstrong, Jacquie
 - Arnott, Janet
+- Baldwin, Nicole
 - Barbour, Shona
 - Belanger, Nancy
 - Bell, Chelsey
 - Betker, Jan
 - Birt, Suzanne
+- Brine, Jenn
 - Brothers, Jill
 - Brown, Jacalyn
 - Carter, Sasha
@@ -189,13 +191,16 @@ vs:
 - Crawford, Andrea
 - Crouse, Jennifer
 - Cunningham, Cathy
+- Curtis, Stacie
 - Daniel, Sylvie
 - Derick, Catherine
 - deSolla, Jodie
+- Devereaux, Julie
 - Enright, Barb
 - Gagnier, Monique
 - Galusha, Kerry
 - George, Tara
+- Gibson, Amy
 - Gilman, Sheena
 - Goss, Peg
 - Gudereit, Marcia
@@ -203,6 +208,7 @@ vs:
 - Hardy, Shelley
 - Harrison, Meredith
 - Holland, Amber
+- Hutchings, Denise
 - Inglis, Nancy
 - Jones, Jennifer
 - Kalenchuk, Heather
@@ -210,13 +216,15 @@ vs:
 - Kleibrink, Shannon
 - Lang, Lorraine
 - Larouche, Marie-France
+- Lavery, Tracey
 - Law, Kelley
-- Lawes, Kaitlyn
 - Lawton, Stefanie
 - Lemay, Annie
+- Lilly, Kendra
 - Lowther, Tammi
 - MacDonald, Rebecca Jean
 - MacInnes, Grace
+- Mackey, Robyn
 - MacLean, Kari
 - MacPhee, Robyn
 - Malekoff, Stephanie
@@ -228,6 +236,7 @@ vs:
 - Morgan, Cheryl
 - Moses, Dawn
 - Murphy, Jeanette
+- Murphy, Sarah
 - Muzika, Shelley
 - Nixon, Amy
 - Nowlan, Denise
@@ -236,10 +245,12 @@ vs:
 - Olson-Johns, Lori
 - Osborne, Chantal
 - Overton-Clapham, Cathy
-- Pinkney, Colleen
+- Porter, Erin
+- Potts, Sarah
 - Power, Marie-Anne
 - Preston, Sam
 - Provencal, Darah
+- Recksiedler, Kristen
 - Richards, Brette
 - Robertson, Darcy
 - Sabourin, Joelle
@@ -247,18 +258,27 @@ vs:
 - Schneider, Tammy
 - Schraeder, Jeanna
 - Scott, Kelly
-- Sharpe, Kelli
+- Shackleton, Amie
 - Simons, Renee
 - Singler, Sherri
+- Sippala, Ashley
 - Sobey, Lianne
 - Spencer, Barb
 - Strong, Heather
 - Strong, Laura
 - Stubbings, Tiffany
+- Thomas, Jill
+- Thompson, Karla
+- Trickett, Erica
 - Udle, Teri
+- Van Osch, Kalia
+- Van Osch, Kesa
+- Van Osch, Marika
+- Vandale, Trysta
 - Vey, Lana
 - Webster, Bronwen
 - Webster, Crystal
+- West, Christianne
 - Wheatcroft, Georgina
 - Whitaker, Carol
 ---

@@ -104,6 +104,7 @@ years:
    shots-total: 200
    shots-percent: 82
 vs:
+ - Affleck, Tricia
  - Alcoe-Holland, Jill
  - Allen, Michelle
  - Arnott, Janet
@@ -112,23 +113,24 @@ vs:
  - Balderston, Marcy
  - Barbour, Shona
  - Barker, Penny
+ - Beddington, Shalegh
  - Belisle, Eve
  - Bernard, Cheryl
  - Berthelot, Janique
  - Betker, Jan
  - Birt, Suzanne
  - Bohmer, Brenda
+ - Bradley, Shelly
  - Brothers, Jill
- - Byers, Denise
  - Cameron, Kate
  - Carey, Chelsea
+ - Carmody, Erin
  - Carter, Sasha
  - Clark, Stefanie
  - Clarke, Hayley
  - Comeau, Sandy
  - Cormier, Sharon
  - Courtney, Joanne
- - Crouse, Jennifer
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - Daniel, Sylvie
@@ -139,6 +141,7 @@ vs:
  - Devereaux, Julie
  - Doig, Deanna
  - Dolan, Kim
+ - Ellis, Danielle
  - Englot, Michelle
  - Eyamie, Lisa
  - Farrell, Allison
@@ -148,9 +151,10 @@ vs:
  - Galusha, Kerry
  - Gellard, Kim
  - George, Tara
- - Gilman, Sheena
  - Gudereit, Marcia
+ - Harding, Mary
  - Hardy, Shelley
+ - Harrison, Meredith
  - Henry, Lou Ann
  - Hill, Trish
  - Homan, Rachel
@@ -161,10 +165,11 @@ vs:
  - Jones, Jennifer
  - Jones-Walker, Debbie
  - Karam, Sally
- - Karwacki, Krysten
+ - Kelly, Kim
  - King, Cathy
- - Kleibrink, Shannon
  - Koehler, Megan
+ - Kreviazuk, Alison
+ - Kreviazuk, Cheryl
  - Laliberte, Connie
  - Lang, Lorraine
  - Lemay, Annie
@@ -175,18 +180,19 @@ vs:
  - Mann, Lauren
  - Mattatall, Mary
  - McCarville, Krista
- - McConnery, Nancy
  - McDonald, Tina
  - McNamee, Karen
  - McQuaid, Michelle
  - Middaugh, Sherry
  - Miller, Maureen
+ - Miller, Wendy
  - Miskew, Emma
  - Morgan, Cheryl
  - Morris, Cori
  - Moses, Dawn
  - Moss, Debbie
  - Murphy, Jeanette
+ - Naugler, Tara
  - Nedohin, Heather
  - Nixon, Amy
  - Nowlan, Denise
@@ -200,10 +206,10 @@ vs:
  - Overton-Clapham, Cathy
  - Peterman, Jocelyn
  - Peters, Laine
- - Phillips, Kristen
  - Porter, Erin
  - Potts, Sarah
  - Power, Marie-Anne
+ - Ramsay, Geri Lynn
  - Renouf, Michele
  - Ross, Allison
  - Sabourin, Joelle
@@ -221,7 +227,6 @@ vs:
  - Strong, Laura
  - Stubbings, Tiffany
  - Thiessen, Alison
- - Thomas, Jill
  - Tincher, Twyla
  - Trickett, Erica
  - Tucker, Cindy

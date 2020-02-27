@@ -117,7 +117,6 @@ vs:
  - Babin, Jillian
  - Baker, Michelle
  - Balderston, Marcy
- - Barbour, Shona
  - Barrack, Carmen
  - Baxter, Jen
  - Beauchamp, Sasha
@@ -135,8 +134,8 @@ vs:
  - Breen, Theresa
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Marcie
  - Busche, Jodi
+ - Campbell, Jolene
  - Campbell, June
  - Carter, Sasha
  - Cey, Naomi
@@ -168,10 +167,9 @@ vs:
  - Gellard, Kim
  - Gregoire, Veronique
  - Grenier, Valerie
+ - Gushulak, Diane
  - Guzzwell, Stephanie
  - Hanlon, Heidi
- - Harding, Mary
- - Harvey, Alison
  - Hatton, Sandra
  - Holland, Amber
  - Holowec, Ainsley
@@ -228,6 +226,7 @@ vs:
  - Nohr, Dianne
  - Nowlan, Denise
  - Officer, Jill
+ - O'Leary, Susan
  - O'Rourke, Brittany
  - Overton-Clapham, Cathy
  - Parsons, Danielle
@@ -237,13 +236,12 @@ vs:
  - Phillips, Laura
  - Phillips, Margaret Lea
  - Porter, Erin
- - Radchenka, Tammy
+ - Power, Marie-Anne
  - Rainville, Julie
  - Renouf, Michele
  - Ross, Allison
  - Ruus, Karen
  - Sabourin, Joelle
- - Sandison, Janice
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
@@ -268,7 +266,6 @@ vs:
  - Udle, Teri
  - Walter, Cathy
  - Wasylkiw, Lauren
- - Wazney, Sarah
  - Weagle, Lisa
  - Webster, Bronwen
  - Westcott, Raunora
@@ -279,7 +276,6 @@ vs:
  - Wieler, Bev
  - Wilson, Leslie
  - Wright, Susan
- - Young, Karen
  - Zielke, Colleen
  - Zinck, Kay
 ---

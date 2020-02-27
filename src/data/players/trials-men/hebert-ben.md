@@ -123,7 +123,6 @@ vs:
  - Richter, Justin
  - Rocque, Marcel
  - Rycroft, Carter
- - Sallows, Tom
  - Samagalski, Derek
  - Savill, Craig
  - Sawatsky, Rick

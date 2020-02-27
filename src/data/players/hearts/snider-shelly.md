@@ -72,6 +72,7 @@ vs:
  - Affleck, Tricia
  - Arnott, Janet
  - Bell, Allyson
+ - Bernard, Cheryl
  - Beveridge, Corie
  - Bodogh, Marilyn
  - Bonar, Maureen
@@ -103,9 +104,12 @@ vs:
  - Nohr, Dianne
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
+ - Pendergast, Judy
  - Phillips, Laura
  - Rainville, Julie
+ - Ruus, Karen
  - Scott, Donna
+ - Sherrington, Barb
  - Wieler, Bev
  - Zielke, Colleen
  - Zinck, Kay

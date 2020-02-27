@@ -139,10 +139,8 @@ years:
   shots-total: 166
   shots-percent: 80
 vs:
-- Adams, Valerie
 - Allardyce, Kathie
 - Anderson, Sherry
-- Armstrong, Iris
 - Arnott, Janet
 - Arsenault, Mary-Anne
 - Arseneau, Jane
@@ -155,16 +153,13 @@ vs:
 - Bell, Patty
 - Betker, Jan
 - Beveridge, Corie
-- Bildfell, Shelly
+- Blair, Diane
 - Blanchard, Judy
 - Bodogh, Marilyn
 - Bohmer, Brenda
 - Boily, Caroline
-- Bonar, Maureen
-- Bothwell-Myers, Connie
 - Bowering, Andrea
 - Bowman, Mary
-- Brawley, Sandra
 - Breen, Thersa
 - Brown, Janet
 - Brown, Maureen
@@ -175,7 +170,6 @@ vs:
 - Campbell, June
 - Carney, Laurie
 - Chapman, Kathy
-- Charette, Agnes
 - Charette, France
 - Corbin, Nicole
 - Cordina, Sheri
@@ -183,8 +177,6 @@ vs:
 - Cossette, Pierrette
 - Crispo, Guylaine
 - Crocker, Cindy
-- Crocker, Rene
-- Crocker, Ruby
 - Cunningham, Cathy
 - Currey, Karen
 - Currie, Ann
@@ -194,17 +186,12 @@ vs:
 - Darbyshire, Carolyn
 - Dauphinais, Josee
 - Delahunt, Nancy
-- Delorenzi, Marlene
 - Derick, Catherine
-- Deschatelets, Guylaine
 - Dezura, Diane
-- Dickeson, Debbi
-- Dillon, Cathy
 - Dolan, Kim
 - Donald, Grace
 - Duck, Kim
 - Dunn, Anne
-- Dunstone, Carol
 - Dwyer, Patricia
 - Eddy, Lori
 - Ellwood, Laurie
@@ -216,7 +203,7 @@ vs:
 - Floyd, Kathy
 - Fowlie, Heather
 - Frey, Audrey
-- Gallant, Kathie
+- Funk, LaDawn
 - Gauthier, Cathy
 - Gellard, Kim
 - Gervais, Chris
@@ -240,7 +227,6 @@ vs:
 - Hooper, Jane
 - Hopkins, Heather
 - Horne, Kate
-- Horne, Sharon
 - Hutchinson, Joan
 - Imai, Rita
 - Jackson, Sherry
@@ -253,7 +239,6 @@ vs:
 - Jones-Walker, Debbie
 - Kavanagh, Sheila
 - Kaylo, Kelly
-- Keays, Stella
 - Kehler, Lorie
 - Kelly, Kim
 - Kerr, Heather
@@ -262,7 +247,6 @@ vs:
 - Kleibrink, Shannon
 - Kyle, Linda
 - Laliberte, Connie
-- Lang, Lorraine
 - LaRocque, Penny
 - Larouche, Marie-France
 - Law, Kelley
@@ -272,16 +256,13 @@ vs:
 - Leonard, Judy
 - Lethbridge, Sherry
 - MacAulay, Marion
-- MacDonald, Karen
 - MacDonald, Lawnie
 - MacDonald, Rebecca Jean
 - MacKay, Carolyn
-- MacLean, Jean
 - MacLeod, Lisa
 - Marchuk, Lindy
 - Martin, Denise
 - Martin, Heather
-- Martin, Lillian
 - Massullo, Deb
 - Materi, Roberta
 - Mattatall, Mary
@@ -289,12 +270,10 @@ vs:
 - McCloy, Elaine
 - McConnery, Nancy
 - McCrady, Christine
-- McCrae, Betty
-- McCrae, Lou
-- McCubbin, Sandy
 - McCusker, Joan
 - McDonald, Tina
 - McGeary, Lori
+- McInnis, Susan
 - McKnight, Patti
 - Merklinger, Anne
 - Messer, Janyce
@@ -316,26 +295,18 @@ vs:
 - Osborne, Chantal
 - Overton-Clapham, Cathy
 - Phillips, Laura
-- Pinsent, Barbara
 - Porter, Debbie
 - Potvin, Gisele
-- Provo, Anne
 - Purdy, Karen
-- Raby, Linda
-- Raby, Odette
 - Radford, Helen
 - Robertson, Darcy
 - Robinson, Susan
-- Rowan, Sheila
 - Sabourin, Joelle
 - Sanders, Pat
-- Sanford, Pamela
 - Savill, Jarron
 - Schmirler, Sandra
 - Schneider, Sheila
 - Scott, Donna
-- Sefton, Judy
-- Shields, Deanne
 - Shields, Gail
 - Sipka, Joanne
 - Skinner, Julie
@@ -351,12 +322,10 @@ vs:
 - Thurston, Jill
 - Tousignant, Helene
 - Treloar, Cathy
-- Twa, Dale
 - Unrau, Faye
 - Walter, Cathy
 - Webster, Bronwen
 - Werenka, Lil
 - Wheatcroft, Georgina
-- Wuthrich, Patti
 - Zielke, Colleen
 ---

@@ -36,7 +36,6 @@ years:
    shots-total: 200
    shots-percent: 72
 vs:
- - Anderson, Sherry
  - Atkinson, Rebecca
  - Baier, Stephanie
  - Brothers, Jill
@@ -58,21 +57,22 @@ vs:
  - Homan, Rachel
  - Joyce, Blisse
  - Kasner, Marliese
+ - Knezevic, Patti
  - Koltun, Sarah
  - Kreviazuk, Alison
  - Kreviazuk, Lynn
  - Lawton, Stefanie
  - MacDonald, Rebecca Jean
  - McDonald, Kristy
+ - Meakin, Breanne
  - Miskew, Emma
  - Parsons, Danielle
  - Robison, Michala
  - Sanderson, Jessie
  - Sandwith, Carley
  - Sinclair, Andrea
- - Singler, Sherri
+ - Sivertson, Dailene
  - Smith, Heather
- - Sonnenberg, Renee
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val

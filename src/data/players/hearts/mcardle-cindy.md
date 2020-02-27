@@ -51,9 +51,7 @@ vs:
  - Charette, France
  - Clark, Kim
  - Combden, Cathy
- - Dagg-Jackson, Elaine
  - Daniel, Sylvie
- - Dillon, Cathy
  - Dolan, Kim
  - Earl, Allison
  - Englot, Michelle
@@ -70,6 +68,7 @@ vs:
  - Kennedy, Tracy
  - Laliberte, Connie
  - Leblanc, Lisa
+ - MacAulay, Marion
  - Mattatall, Mary
  - McInnis, Susan
  - Moses, Dawn
@@ -83,5 +82,6 @@ vs:
  - Stokes, Debbie
  - Stricker, Joan
  - Sutton, Jodie
+ - Willms, Karri
  - Wilson, Patty
 ---

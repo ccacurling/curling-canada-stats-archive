@@ -105,9 +105,10 @@ years:
    shots-percent: 80
 vs:
  - Allen, Michelle
+ - Armstrong, Jennifer
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
- - Baier, Stephanie
+ - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
  - Baxter, Jen
@@ -117,9 +118,6 @@ vs:
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
- - Blaney, Jennifer
- - Bodner, Jenine
- - Boudreault, Patricia
  - Boyle, Jane
  - Bradley, Shelly
  - Brothers, Jill
@@ -141,8 +139,8 @@ vs:
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jessica
- - Daigle, Julie
  - Darbyshire, Carolyn
+ - Davies, Lisa
  - Delahunt, Nancy
  - Derick, Catherine
  - deSolla, Jodie
@@ -156,6 +154,7 @@ vs:
  - Flaxey, Allison
  - Fleury, Tracy
  - Fortier, Marie-Josee
+ - Forward, Katie
  - Foster, Kristen
  - Gagnier, Monique
  - Galusha, Kerry
@@ -166,7 +165,6 @@ vs:
  - George, Tara
  - Gilman, Sheena
  - Goss, Peg
- - Griffin, Alison
  - Gushulak, Diane
  - Guzzwell, Stephanie
  - Hamilton, Beth
@@ -175,7 +173,6 @@ vs:
  - Hastings, Julie
  - Homan, Rachel
  - Hughes, Meaghan
- - Ingram, Megan
  - Jewer, Michelle
  - Jones, Colleen
  - Jones, Jennifer
@@ -189,7 +186,6 @@ vs:
  - Kreviazuk, Lynn
  - Lang, Lorraine
  - Larouche, Marie-France
- - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Leger, Stacey
  - Lemay, Annie
@@ -215,7 +211,6 @@ vs:
  - Moriarty, Monica
  - Morris, Cori
  - Moses, Dawn
- - Munroe, Anna
  - Muzika, Shelley
  - Nicholls, Brenda
  - Nowlan, Denise
@@ -242,7 +237,6 @@ vs:
  - Sabourin, Joelle
  - Sanderson, Jessie
  - Sandwith, Carley
- - Schmidt, Stephanie
  - Scott, Kelly
  - Sharpe, Kelli
  - Shaw, Ladene
@@ -258,13 +252,11 @@ vs:
  - Strong, Laura
  - Sweeting, Val
  - Thomas, Jill
- - Thomas-Kennell, Noelle
  - Titheridge, Lindsay
  - Tran, Brittany
  - Trombley, Christy
  - Udle, Teri
  - Van Osch, Kesa
- - Vautour, Carrie
  - Wallingham, Patty
  - Walsh, Jenna
  - Wark, Sarah

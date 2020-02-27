@@ -45,7 +45,6 @@ vs:
  - Chicoine, Helene
  - Davis, Carol
  - Deschatelets, Guylaine
- - Dezura, Diane
  - Englot, Michelle
  - Floyd, Kathy
  - Gallant, Kathie
@@ -55,6 +54,7 @@ vs:
  - Houston, Heather
  - Hunt, Donna
  - Kehler, Lorie
+ - Kennedy, Tracy
  - King, Shirley
  - Kuruluk, Kristen
  - Lang, Lorraine
@@ -75,7 +75,6 @@ vs:
  - Sparrow, Sandra
  - Stewart, Sheri
  - Stricker, Joan
- - Taylor, Gloria
  - Thomas, Karen
  - Todd, Fran
  - Wheatcroft, Georgina

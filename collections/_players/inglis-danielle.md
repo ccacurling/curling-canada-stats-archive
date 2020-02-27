@@ -36,4 +36,12 @@ years:
    shots-total: 16
    shots-percent: 81
 vs:
+ - Birchard, Shannon
+ - Chislett, Geneva
+ - Hutchings, Denise
+ - Jones, Jennifer
+ - McEwen, Dawn
+ - Officer, Jill
+ - Shackleton, Amie
+ - West, Christianne
 ---

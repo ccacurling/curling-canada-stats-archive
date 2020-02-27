@@ -36,4 +36,8 @@ years:
    shots-total: 16
    shots-percent: 75
 vs:
+ - Jones, Jennifer
+ - Lawes, Kaitlyn
+ - McEwen, Dawn
+ - Officer, Jill
 ---

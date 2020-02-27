@@ -238,6 +238,7 @@ vs:
 - Mathers, David
 - McEwen, Mike
 - Meachem, Shaun Myles
+- Mead, Jon
 - Menard, Jean-Michel
 - Menard, Philippe
 - Mittelstadt, Kelly
@@ -264,7 +265,9 @@ vs:
 - Schneider, Catlin
 - Schneider, Jamie
 - Simmons, Pat
+- Smith, Garth
 - Smith, Kent
+- Stoughton, Jeff
 - Sylvain, Eric
 - Thiessen, Brad
 - Thiessen, Nolan

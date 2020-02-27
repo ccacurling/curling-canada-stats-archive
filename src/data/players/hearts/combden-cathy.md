@@ -44,14 +44,13 @@ vs:
  - Charette, Agnes
  - Charette, France
  - Clark, Kim
- - Dagg-Jackson, Elaine
+ - Daniel, Sylvie
  - Dolan, Kim
  - Earl, Allison
  - Englot, Michelle
  - Fahlman, Kathy
  - Floyd, Kathy
  - Gauthier, Cathy
- - Girard, Sylvie
  - Green, Sue
  - Hanlon, Heidi
  - Johnstone, Loralee
@@ -77,6 +76,7 @@ vs:
  - Stewart, Sheri
  - Stokes, Debbie
  - Stricker, Joan
+ - Sutton, Jodie
  - Walker, Lisa
  - Willms, Karri
  - Wilson, Patty

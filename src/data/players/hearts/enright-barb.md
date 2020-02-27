@@ -70,7 +70,6 @@ years:
    shots-total: 202
    shots-percent: 86
 vs:
- - Armstrong, Jacquie
  - Arsenault, Mary-Anne
  - Aucoin, Shelley
  - Augustyn, Jan
@@ -87,10 +86,10 @@ vs:
  - Bohmer, Brenda
  - Brown, Jacalyn
  - Bussieres, Helene
+ - Byers, Denise
  - Campbell, Gloria
  - Carney, Laurie
  - Chapman, Kathy
- - Clark-Rouire, Jennifer
  - Cormier, Sharon
  - Cossette, Pierrette
  - Crawford, Andrea
@@ -167,7 +166,6 @@ vs:
  - Moses, Dawn
  - Muzika, Shelley
  - Narduzzi, Joyce
- - Naugler, Tara
  - Nowlan, Denise
  - Noye, Marnie
  - O'Connor, Susan
@@ -177,11 +175,12 @@ vs:
  - Porter, Debbie
  - Potvin, Gisele
  - Robinson, Susan
+ - Round, Coralee
  - Sabourin, Joelle
  - Santos, Deb
  - Scott, Donna
+ - Simard, Ginette
  - Singler, Sherri
- - Sippala, Ashley
  - Slemko, Jean
  - Sobey, Lianne
  - Sparkes, Lindsay

@@ -58,16 +58,17 @@ vs:
  - Arseneau, Jane
  - Baker, Michelle
  - Balderston, Marcy
+ - Barbour, Shona
  - Belanger, Nancy
  - Bernard, Cheryl
  - Bradley, Shelly
  - Brown, Janet
  - Cordina, Sheri
- - Cormier, Sharon
  - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Darbyshire, Carolyn
+ - Delahunt, Nancy
  - deSolla, Jodie
  - Dezura, Diane
  - Englot, Michelle
@@ -114,7 +115,6 @@ vs:
  - Officer, Jill
  - O'Leary, Susan
  - Overton-Clapham, Cathy
- - Peters, Laine
  - Power, Marie-Anne
  - Radchenka, Tammy
  - Richards, Brette

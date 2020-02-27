@@ -94,28 +94,36 @@ vs:
  - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Babin, Jillian
- - Backe, Nicole
  - Barbour, Shona
  - Baxter, Jen
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
+ - Blaney, Jennifer
+ - Bodner, Jenine
+ - Boudreault, Patricia
  - Boyle, Jane
  - Bradley, Shelly
+ - Brine, Jenn
+ - Brothers, Jill
  - Brown, Rachel
+ - Cameron, Kate
  - Cameron, Nancy
  - Camozzi, Rhona
+ - Campbell, Jolene
+ - Carey, Chelsea
+ - Carmody, Erin
  - Carter, Sasha
- - Chislett, Geneva
  - Collins, Katrina
  - Cooper, Kathryn
  - Cormier, Sharon
  - Courtney, Joanne
  - Crawford, Andrea
+ - Crouse, Jennifer
  - Cunningham, Jennifer
  - Cunningham, Jessica
- - deSolla, Jodie
+ - Daigle, Julie
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
@@ -127,15 +135,14 @@ vs:
  - Fesser, Kourtney
  - Fesser, Krista
  - Filteau, Anne-Marie
- - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
+ - Gates, Jenny
  - Gibson, Amy
+ - Griffin, Alison
  - Hastings, Julie
  - Holland, Amber
  - Homan, Rachel
- - Hughes, Meaghan
- - Hutchings, Denise
  - Iskiw, Beth
  - Jones, Jennifer
  - Joyce, Blisse
@@ -148,43 +155,51 @@ vs:
  - Korchinski, Karlee
  - Kreviazuk, Cheryl
  - Larouche, Marie-France
+ - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - LeDrew, Stephanie
+ - Lilly, Kendra
  - Lister, Kendra
  - MacCuish, Kristin
  - MacDonald, Rebecca Jean
- - MacPhee, Robyn
  - Mair, Jessica
  - Mann, Lauren
  - Materi, Roberta
+ - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
  - McQuaid, Michelle
  - McTaggart, Cary-Anne
+ - Miller, Wendy
  - Miskew, Emma
  - Moore, Kristie
+ - Munroe, Anna
+ - Murphy, Jeanette
+ - Murphy, Sarah
  - Nedohin, Heather
  - Njegovan, Selena
  - Nicholls, Brenda
+ - Nixon, Amy
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Rourke, Brittany
  - Parsons, Danielle
  - Peters, Laine
  - Pilote, Kristen
+ - Pinksen, Sadie
+ - Potts, Sarah
  - Price, Kara
  - Richard, Marie
  - Robichaud, Sylvie
  - Rusnell, Jen
  - Sagle, Karen
+ - Sandwith, Carley
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
  - Schneider, Kim
- - Schneider, Tammy
  - Scott, Kelly
- - Shackleton, Amie
  - Sivertson, Dailene
  - Slywka, Sarah
  - Smallwood, Jody
@@ -200,6 +215,10 @@ vs:
  - Van Osch, Kesa
  - Van Osch, Marika
  - Vey, Lana
+ - Wark, Sarah
  - Weagle, Lisa
- - West, Christianne
+ - Westcott, Raunora
+ - Whitaker, Carol
+ - Wilkes, Sarah
+ - Wilson, Leslie
 ---

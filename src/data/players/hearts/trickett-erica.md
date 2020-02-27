@@ -53,48 +53,73 @@ years:
    shots-total: 169
    shots-percent: 84
 vs:
+ - Adams, Melissa
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
+ - Arnaud, Chloe
+ - Arsenault-Bishop, Nicole
  - Barker, Penny
  - Belisle, Eve
- - Briand, Oye-Sem Won
  - Cameron, Kate
  - Carey, Chelsea
+ - Chislett, Geneva
  - Cormier, Sharon
  - Courtney, Joanne
  - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
  - Doig, Deanna
+ - Duncan, Hollie
  - Englot, Michelle
  - Eyamie, Lisa
  - Fullerton, Sarah
+ - Gagnon, Emilia
  - Galusha, Kerry
+ - Gibson, Amy
+ - Harvey, Marie-Pier
  - Hill, Trish
  - Homan, Rachel
  - Hughes, Meaghan
+ - Hutchings, Denise
  - Kleibrink, Shannon
  - Koehler, Megan
+ - Kreviazuk, Cheryl
+ - LeDrew, Stephanie
  - Lilly, Kendra
+ - Lister, Kendra
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
  - Mattatall, Mary
  - McCarville, Krista
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Miskew, Emma
+ - Moore, Kristie
+ - Nedohin, Heather
  - Nixon, Amy
+ - O'Connor, Susan
  - O'Rourke, Brittany
+ - Perron, Melina
  - Peterman, Jocelyn
  - Peters, Laine
  - Potts, Sarah
  - Richards, Brette
+ - Robichaud, Sylvie
+ - Sagle, Karen
  - Saulnier, Andrea
+ - Scheidegger, Casey
+ - Scheidegger, Jessie
  - Schneider, Lorraine
+ - Shackleton, Amie
  - Sicinski, Danielle
  - Sippala, Ashley
  - Thiessen, Alison
+ - Van Osch, Kalia
+ - Van Osch, Kesa
+ - Van Osch, Marika
  - Weagle, Lisa
+ - West, Christianne
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie

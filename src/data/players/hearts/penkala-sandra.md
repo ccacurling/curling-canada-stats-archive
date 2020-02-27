@@ -13,8 +13,4 @@ years:
    team: "TR"
    position: Alternate
 vs:
- - Bohmer, Brenda
- - Horne, Kate
- - King, Cathy
- - Nedohin, Heather
 ---

@@ -95,25 +95,42 @@ years:
    shots-total: 8
    shots-percent: 84
 vs:
- - Affleck, Tricia
- - Bell, Chelsey
+ - Arsenault-Bishop, Nicole
+ - Atkinson, Rebecca
+ - Babin, Jillian
+ - Birt, Suzanne
  - Blais, Amelie
- - Campbell, Jolene
- - Carmody, Erin
- - Chisholm, Candace
- - Enright, Barb
+ - Boyle, Jane
+ - Camozzi, Rhona
+ - Christianson, Marie
+ - Cooper, Kathryn
+ - Cormier, Sharon
+ - Crawford, Andrea
+ - Cunningham, Jessica
+ - deSolla, Jodie
+ - Dolan, Sinead
+ - Ellis, Danielle
  - Filteau, Anne-Marie
- - Hamon, Callan
- - Howard, Ashley
- - Kleibrink, Shannon
+ - Hardy, Shelley
+ - Hughes, Meaghan
+ - Joyce, Blisse
+ - Knezevic, Patti
+ - Koehler, Megan
+ - Korab, Stephanie
  - Larouche, Marie-France
+ - LeDrew, Stephanie
+ - Lemon, Colette
+ - MacPhee, Robyn
+ - Murphy, Jeanette
+ - Naugler, Tara
  - Nicholls, Brenda
- - Nixon, Amy
- - O'Rourke, Kathy
- - Ramsay, Geri Lynn
- - Richards, Brette
- - Robertson, Darcy
- - Spencer, Barb
- - Webster, Bronwen
- - Williamson, Ashley
+ - Parsons, Danielle
+ - Pilote, Kristen
+ - Richard, Marie
+ - Robichaud, Sylvie
+ - Rogers, Rhonda
+ - Rusnell, Jen
+ - Smith, Heather
+ - Strong, Heather
+ - Udle, Teri
 ---

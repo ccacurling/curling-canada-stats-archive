@@ -100,6 +100,7 @@ vs:
  - Harnden, Ryan
  - Hebert, Ben
  - Howard, Glenn
+ - Howard, Scott
  - Jacobs, Brad
  - Janssen, Patrick
  - Kennedy, Marc
@@ -128,7 +129,6 @@ vs:
  - Simmons, Pat
  - Thiessen, Brad
  - Thiessen, Nolan
- - Thomas, Charley
  - Walker, Geoff
  - Wozniak, Matt
 ---

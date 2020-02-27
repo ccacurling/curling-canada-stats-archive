@@ -36,40 +36,32 @@ years:
    shots-total: 126
    shots-percent: 78
 vs:
- - Armstrong, Doug
  - Bailey, Scott
  - Bartlett, Don
  - Burtnyk, Kerry
+ - Fenton, Darin
  - Fenton, Keith
  - Ferbey, Randy
  - Frans, Joseph
- - Grattan, James
  - Gretzinger, Bert
- - Howard, Glenn
- - Howard, Russ
  - Laing, Brent
  - Martin, Kevin
  - McAulay, Greg
  - McCarrel, Graeme
- - Mead, Jon
  - Meakin, Rob
  - Mellof, David
  - Middaugh, Wayne
- - Miki, Bryan
  - Morris, John
  - Nedohin, David
- - Odishaw, Grant
  - Pfeifer, Scott
  - Pierce, Brent
  - Rocque, Marcel
  - Ryan, Jeff
  - Rycroft, Carter
  - Savill, Craig
- - Stoughton, Jeff
  - Sveistrup, Jody
  - Tetley, Ian
  - Ursel, Bob
- - Vandenberghe, Garry
  - Walchuk, Don
  - Whittle, Mark
 ---

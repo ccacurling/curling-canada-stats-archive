@@ -104,8 +104,7 @@ years:
    shots-total: 62
    shots-percent: 69
 vs:
- - Alcoe-Holland, Jill
- - Aleksic, Shannon
+ - Affleck, Tricia
  - Allen, Laurie
  - Anderson, Sherry
  - Armstrong, Jacquie
@@ -113,7 +112,6 @@ vs:
  - Arsenault, Mary-Anne
  - Babin, Jillian
  - Barbour, Shona
- - Barker, Penny
  - Belanger, Nancy
  - Belisle, Eve
  - Bell, Allyson
@@ -126,7 +124,6 @@ vs:
  - Breen, Theresa
  - Brennan, Amanda
  - Brophy, Cathy
- - Cameron, Kate
  - Cameron, Nancy
  - Carey, Chelsea
  - Carrier, Julie
@@ -134,9 +131,7 @@ vs:
  - Charette, Agnes
  - Charette, France
  - Clark, Stefanie
- - Clark-Rouire, Jennifer
  - Comeau, Sandy
- - Comstock, Melanie
  - Cooke, Gerri
  - Cordina, Sheri
  - Cormier, Sharon
@@ -144,14 +139,10 @@ vs:
  - Crawford, Andrea
  - Cunningham, Cathy
  - Curtis, Stacie
- - Cutcliffe, Margaret
  - Daniel, Sylvie
- - deJager, Blaine
  - Delahunt, Nancy
- - Derry, Danielle
  - Devereaux, Julie
  - Dezura, Diane
- - Doig, Deanna
  - Englot, Michelle
  - Fallis, Karen
  - Fisher, Alana
@@ -189,8 +180,8 @@ vs:
  - Kelly, Kim
  - Kerr, Kathy
  - Kidd, Darlene
- - Koehler, Megan
  - Kreviazuk, Alison
+ - Laliberte, Connie
  - Larouche, Marie-France
  - Lawes, Andrea
  - Lawes, Kaitlyn
@@ -200,11 +191,9 @@ vs:
  - MacDougall, Leslie
  - MacInnes, Allison
  - MacPhee, Robyn
- - Mallett, Marla
  - Mann, Lauren
  - Martin, Heather
  - Materi, Roberta
- - Mattatall, Mary
  - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McConnery, Nancy
@@ -213,7 +202,6 @@ vs:
  - McInnis, Susan
  - McKnight, Patti
  - McQuaid, Michelle
- - Meakin, Breanne
  - Merklinger, Anne
  - Middaugh, Sherry
  - Miller, Wendy
@@ -230,6 +218,7 @@ vs:
  - O'Rourke, Brittany
  - Osborne, Chantal
  - Overton-Clapham, Cathy
+ - Parsons, Danielle
  - Paul, Sarah
  - Perron, Leanne
  - Peterman, Jocelyn
@@ -237,21 +226,16 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Rankin, Heather
- - Recksiedler, Kristen
  - Reed, Shellan
  - Richard, Marie
- - Richards, Brette
  - Roberts, Angela
  - Robichaud, Sylvie
  - Sabourin, Joelle
- - Saulnier, Andrea
  - Schmirler, Sandra
  - Schneider, Kim
- - Schneider, Lorraine
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
- - Sicinski, Danielle
  - Simmons, Cindy
  - Simons, Renee
  - Sippala, Ashley
@@ -271,7 +255,6 @@ vs:
  - Udle, Teri
  - Wall, Kirsten
  - Weagle, Lisa
- - Webb, Corine
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whitaker, Carol

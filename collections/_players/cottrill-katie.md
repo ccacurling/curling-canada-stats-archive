@@ -46,7 +46,6 @@ vs:
  - Courtney, Joanne
  - Crawford, Andrea
  - Cunningham, Jessica
- - Davies, Lisa
  - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
@@ -57,9 +56,11 @@ vs:
  - Homan, Rachel
  - Joyce, Blisse
  - Kasner, Marliese
+ - Knezevic, Patti
  - Koltun, Sarah
  - Kreviazuk, Alison
  - Lawton, Stefanie
+ - LeDrew, Stephanie
  - MacDonald, Rebecca Jean
  - McDonald, Kristy
  - Miskew, Emma
@@ -78,7 +79,6 @@ vs:
  - Sweeting, Val
  - Titheridge, Lindsay
  - Udle, Teri
- - Van Osch, Kesa
  - Wallingham, Patty
  - Weagle, Lisa
 ---

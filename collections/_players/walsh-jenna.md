@@ -70,14 +70,16 @@ years:
    shots-total: 98
    shots-percent: 83
 vs:
+ - Adams, Melissa
  - Anderson, Sherry
  - Armstrong, Jacquie
  - Arsenault, Mary-Anne
+ - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Babin, Jillian
- - Backe, Nicole
  - Barbour, Shona
  - Baxter, Jen
+ - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
@@ -86,6 +88,7 @@ vs:
  - Brown, Rachel
  - Cameron, Nancy
  - Camozzi, Rhona
+ - Campbell, Jolene
  - Carter, Sasha
  - Collins, Katrina
  - Cooper, Kathryn
@@ -94,15 +97,14 @@ vs:
  - Crawford, Andrea
  - Cunningham, Jennifer
  - Cunningham, Jessica
- - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
- - Duncan, Chelsea
- - Duncan, Jenna
+ - Duncan, Hollie
+ - Einarson, Kerri
  - Englot, Michelle
  - Ferguson, Dana
  - Filteau, Anne-Marie
- - Galusha, Kerry
+ - Fyfe, Liz
  - Hastings, Julie
  - Holland, Amber
  - Homan, Rachel
@@ -114,9 +116,13 @@ vs:
  - Knezevic, Patti
  - Koehler, Megan
  - Korab, Stephanie
+ - Kreviazuk, Cheryl
  - Larouche, Marie-France
  - Lawes, Kaitlyn
  - Lawton, Stefanie
+ - LeDrew, Stephanie
+ - Lister, Kendra
+ - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - Mair, Jessica
  - Mann, Lauren
@@ -124,26 +130,32 @@ vs:
  - McEwen, Dawn
  - McInnis, Susan
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
+ - Miller, Wendy
  - Miskew, Emma
+ - Moore, Kristie
+ - Murphy, Jeanette
  - Nedohin, Heather
+ - Njegovan, Selena
  - Nicholls, Brenda
+ - Nixon, Amy
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Rourke, Brittany
  - Parsons, Danielle
  - Peters, Laine
  - Pilote, Kristen
- - Price, Kara
  - Richard, Marie
  - Robichaud, Sylvie
  - Rusnell, Jen
+ - Sagle, Karen
+ - Scheidegger, Casey
+ - Scheidegger, Jessie
  - Schmidt, Stephanie
  - Schneider, Kim
- - Schneider, Tammy
  - Scott, Kelly
  - Sivertson, Dailene
  - Slywka, Sarah
- - Smallwood, Jody
  - Smith, Heather
  - Smith, Stacey
  - Snyder, Jane
@@ -154,4 +166,5 @@ vs:
  - Udle, Teri
  - Vey, Lana
  - Weagle, Lisa
+ - Whitaker, Carol
 ---

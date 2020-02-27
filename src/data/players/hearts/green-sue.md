@@ -70,7 +70,6 @@ vs:
  - Clark, Kim
  - Combden, Cathy
  - Daniel, Sylvie
- - Dillon, Cathy
  - Dolan, Kim
  - Dwyer, Patricia
  - Earl, Allison
@@ -104,7 +103,6 @@ vs:
  - McPherson, Cheryl
  - Moses, Dawn
  - Muzika, Shelley
- - Nichols, Helen
  - Osborne, Chantal
  - Overton, Kim
  - Poisson, Francine
@@ -113,6 +111,7 @@ vs:
  - Ryan, Jennifer
  - Santos, Deb
  - Sauer, Cathy
+ - Scales, Julie
  - Scott, Donna
  - Sherrington, Barb
  - Sigurdson, Janine

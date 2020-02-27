@@ -38,11 +38,13 @@ years:
 vs:
  - Affleck, Tricia
  - Arsenault, Mary-Anne
+ - Arseneau, Jane
  - Balderston, Marcy
  - Belanger, Nancy
  - Bradley, Shelly
  - Brown, Jacalyn
  - Brown, Janet
+ - Cameron, Nancy
  - Cordina, Sheri
  - Delahunt, Nancy
  - Dezura, Diane
@@ -51,7 +53,6 @@ vs:
  - Floyd, Kathy
  - Galusha, Kerry
  - Grenier, Valerie
- - Harding, Mary
  - Harvey, Alison
  - Holowec, Ainsley
  - Jones, Colleen
@@ -61,7 +62,6 @@ vs:
  - Law, Kelley
  - Lawes, Andrea
  - Lemay, Annie
- - MacCallum, Janice
  - MacDonald, Shelley
  - MacDougall, Leslie
  - Materi, Roberta
@@ -77,6 +77,7 @@ vs:
  - Stabel, Stacey
  - Stricker, Joan
  - Tasaka, Adina
+ - Vavrek, Melody
  - Wheatcroft, Georgina
  - Whitaker, Lise
  - Young, Karen

@@ -52,7 +52,6 @@ vs:
  - Gallant, Kathie
  - Horne, Sharon
  - Jenkins, Sandra
- - Jurgenson, Christine
  - Keays, Stella
  - Kerr, Heather
  - LaRocque, Penny
@@ -66,7 +65,6 @@ vs:
  - McCrae, Lou
  - McCubbin, Sandy
  - Pinsent, Barbara
- - Raby, Linda
  - Raby, Odette
  - Rowan, Sheila
  - Ryan, Penny

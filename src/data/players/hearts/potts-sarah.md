@@ -87,21 +87,17 @@ years:
    shots-total: 231
    shots-percent: 88
 vs:
- - Affleck, Tricia
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Atkinson, Rebecca
- - Baldwin, Nicole
- - Barbour, Shona
  - Barker, Penny
  - Belisle, Eve
- - Birnie, Hailey
  - Birt, Suzanne
- - Blais, Amelie
  - Blaney, Jennifer
  - Bodner, Jenine
  - Boudreault, Patricia
  - Boyle, Jane
+ - Brine, Jenn
  - Brothers, Jill
  - Brown, Rachel
  - Cameron, Kate
@@ -111,6 +107,7 @@ vs:
  - Christianson, Marie
  - Cormier, Sharon
  - Courtney, Joanne
+ - Crouse, Jennifer
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - Daigle, Julie
@@ -122,12 +119,12 @@ vs:
  - Englot, Michelle
  - Eyamie, Lisa
  - Ferguson, Dana
+ - Fleury, Tracy
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
+ - Gilman, Sheena
  - Griffin, Alison
- - Guzzwell, Stephanie
- - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
@@ -136,23 +133,22 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
- - Ingram, Megan
- - Jewer, Michelle
  - Jones, Jennifer
  - Joyce, Blisse
  - Kleibrink, Shannon
  - Koehler, Megan
- - Koltun, Sarah
  - Larouche, Marie-France
  - Lavery, Tracey
  - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
+ - Lemay, Annie
  - MacCuish, Kristin
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
  - Mattatall, Mary
+ - McConnery, Nancy
  - McEwen, Dawn
  - McQuaid, Michelle
  - Miskew, Emma
@@ -161,16 +157,17 @@ vs:
  - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - O'Connor, Susan
  - Officer, Jill
  - O'Neill, Brit
  - O'Rourke, Brittany
- - O'Rourke, Kathy
  - Peterman, Jocelyn
  - Peters, Laine
+ - Phillips, Kristen
  - Pilote, Kristen
+ - Pinksen, Sadie
  - Porter, Erin
  - Rainville, Julie
- - Ramsay, Geri Lynn
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
@@ -180,15 +177,13 @@ vs:
  - Sandwith, Carley
  - Saulnier, Andrea
  - Schneider, Lorraine
- - Sharpe, Kelli
- - Shaw, Ladene
  - Sicinski, Danielle
  - Silvernagle, Robyn
- - Strong, Helen
  - Thevenot, Kara
  - Thiessen, Alison
+ - Thomas, Jill
  - Thompson, Karla
- - Tran, Brittany
+ - Thurston, Jill
  - Trickett, Erica
  - Udle, Teri
  - Vandale, Trysta

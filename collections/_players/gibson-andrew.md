@@ -135,6 +135,7 @@ years:
   shots-total: 165
   shots-percent: 90
 vs:
+- Adam, Mike
 - Adams, Shawn
 - Arsenault, Craig
 - Bartlett, Don

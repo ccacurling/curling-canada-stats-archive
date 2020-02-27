@@ -70,12 +70,10 @@ years:
    shots-total: 158
    shots-percent: 78
 vs:
- - Adams, Melissa
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
- - Anderson, Sherry
+ - Arnaud, Chloe
  - Arsenault, Mary-Anne
- - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Ayrey, Jinaye
  - Barbour, Shona
@@ -83,7 +81,6 @@ vs:
  - Baxter, Jen
  - Beauchamp, Sasha
  - Belisle, Eve
- - Birchard, Shannon
  - Cameron, Kate
  - Carey, Chelsea
  - Carter, Sasha
@@ -100,65 +97,56 @@ vs:
  - Devereaux, Julie
  - Doig, Deanna
  - Dufresne, Audree
- - Duncan, Chelsea
  - Duncan, Hollie
- - Duncan, Jenna
  - Dykstra, Michelle
- - Einarson, Kerri
  - Englot, Michelle
  - Eyamie, Lisa
- - Fesser, Kourtney
- - Fesser, Krista
- - Fleury, Tracy
- - Fyfe, Liz
+ - Gagnon, Emilia
  - Galusha, Kerry
- - Gates, Amanda
  - Gibson, Amy
+ - Gushulak, Diane
+ - Harvey, Marie-Pier
  - Hill, Trish
  - Holtby, Taryn
  - Homan, Rachel
- - Hutchings, Denise
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
+ - Karwacki, Krysten
  - Kelly, Kim
  - Kleibrink, Shannon
  - Koehler, Megan
  - Koltun, Sarah
- - Korchinski, Karlee
  - Kreviazuk, Alison
  - Kreviazuk, Cheryl
  - Lawes, Kaitlyn
  - LeDrew, Stephanie
  - Lilly, Kendra
- - Lister, Kendra
- - MacCuish, Kristin
+ - Mackey, Robyn
  - Mair, Jessica
  - Mallett, Marla
  - Mann, Lauren
  - Martin, Heather
  - Mattatall, Mary
  - McCarville, Krista
+ - McEvoy, Julie
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Miller, Wendy
  - Miskew, Emma
  - Moore, Kristie
  - Nedohin, Heather
- - Njegovan, Selena
  - Nixon, Amy
- - Nugent, Pamela
  - Officer, Jill
  - O'Rourke, Brittany
  - Parsons, Danielle
+ - Perron, Melina
  - Peterman, Jocelyn
  - Peters, Laine
  - Porter, Erin
  - Potts, Sarah
- - Price, Kara
  - Richards, Brette
- - Robichaud, Sylvie
  - Ross, Allison
  - Sagle, Karen
  - Saulnier, Andrea
@@ -171,19 +159,15 @@ vs:
  - Shumay, Jill
  - Sicinski, Danielle
  - Sippala, Ashley
- - Smallwood, Jody
  - Thiessen, Alison
  - Trickett, Erica
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
  - Wasylkiw, Lauren
- - Wazney, Sarah
  - Weagle, Lisa
- - Webster, Crystal
  - West, Christianne
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie
- - Wylie, Jennifer
 ---

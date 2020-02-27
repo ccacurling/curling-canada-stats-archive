@@ -49,11 +49,9 @@ vs:
  - Arseneau, Jane
  - Baker, Michelle
  - Balderston, Marcy
- - Birt, Suzanne
  - Bradley, Shelly
  - Brown, Jacalyn
  - Brown, Janet
- - Clark, Stefanie
  - Cordina, Sheri
  - Delahunt, Nancy
  - Dezura, Diane
@@ -71,7 +69,6 @@ vs:
  - MacCallum, Janice
  - MacDonald, Shelley
  - MacDougall, Leslie
- - MacPhee, Robyn
  - Materi, Roberta
  - McCagg-Nystrom, Heather
  - McDonald, Tina
@@ -89,7 +86,6 @@ vs:
  - Strong, Laura
  - Tasaka, Adina
  - Wheatcroft, Georgina
- - Whitaker, Carol
  - Whitaker, Lise
  - Young, Karen
 ---

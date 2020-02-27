@@ -89,6 +89,7 @@ years:
 vs:
  - Affleck, Tricia
  - Allen, Susan
+ - Allerton, Dana
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Arseneau, Jane
@@ -110,6 +111,7 @@ vs:
  - Bradley, Shelly
  - Breen, Theresa
  - Brown, Janet
+ - Brown, Maureen
  - Bryant, Angie
  - Burlington, Cheryl
  - Cameron, Nancy
@@ -126,6 +128,7 @@ vs:
  - Delahunt, Nancy
  - Derick, Catherine
  - Dezura, Diane
+ - Dobson, Sue
  - Dolan, Kim
  - Fallis, Karen
  - Fallis-Kurz, Lynn
@@ -138,13 +141,11 @@ vs:
  - Fraser, Sherry
  - Freeman, Lisa
  - Frey, Audrey
- - Funk, LaDawn
  - Gagnier, Monique
  - Gagnon, Karo
  - Gagnon, Nathalie
  - Gauthier, Cathy
  - Gervais, Donna
- - Gogan, Jennifer
  - Goring, Alison
  - Goss, Peg
  - Graham-MacDonald, Bea
@@ -200,7 +201,6 @@ vs:
  - Moss, Debbie
  - Muzika, Shelley
  - Nixon, Amy
- - Officer, Jill
  - O'Rourke, Kathy
  - Osborne, Chantal
  - Overton-Clapham, Cathy
@@ -209,12 +209,12 @@ vs:
  - Phillips, Laura
  - Power, Marie-Anne
  - Purdy, Karen
- - Reed, Shellan
  - Robinson, Charlene
  - Robinson, Lori
  - Scales, Julie
  - Schmirler, Sandra
  - Shields, Deanne
+ - Skinner, Julie
  - Smith, Heather
  - Stabel, Stacey
  - Stewart, Sheri

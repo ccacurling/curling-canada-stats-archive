@@ -39,12 +39,15 @@ vs:
  - Adams, Diane
  - Alexander, Diane
  - Anderson, Kelly
+ - Blanchard, Judy
  - Carter, Linda
  - Davis, Carol
  - Englot, Michelle
+ - Floyd, Kathy
  - Gallant, Kathie
  - Graham-MacDonald, Bea
  - Greenwood, Jill
+ - Hanlon, Heidi
  - Houston, Heather
  - Hunt, Donna
  - Jones, Colleen
@@ -70,6 +73,7 @@ vs:
  - Smith, Yvonne
  - Soligo, Melissa
  - Sparrow, Sandra
+ - Stewart, Sheri
  - Stricker, Joan
  - Thomas, Karen
  - Todd, Fran

@@ -178,6 +178,7 @@ vs:
 - Ayrey, Jinaye
 - Babin, Jillian
 - Bakker, Glenys
+- Baldwin, Nicole
 - Barbour, Shona
 - Baxter, Jen
 - Beauchamp, Sasha
@@ -194,6 +195,7 @@ vs:
 - Burgess, Carey
 - Bush, Tracy
 - Cameron, Nancy
+- Campbell, Jolene
 - Carmody, Erin
 - Carrier, Julie
 - Cheveldave, Amber
@@ -262,11 +264,11 @@ vs:
 - Lawes, Kaitlyn
 - Lawton, Stefanie
 - LeDrew, Stephanie
-- Leger, Stacey
 - Lemay, Annie
 - Lemon, Colette
 - Linton, Sherry
 - Loder, Cherie-Ann
+- MacCuish, Kristin
 - MacDiarmid, Kristen
 - MacDougall, Leslie
 - MacInnes, Allison
@@ -284,7 +286,6 @@ vs:
 - McEwen, Dawn
 - McInnis, Susan
 - McPherson, Cheryl
-- Meakin, Breanne
 - Middaugh, Sherry
 - Miller, Wendy
 - Miskew, Emma
@@ -338,9 +339,7 @@ vs:
 - Singler, Sherri
 - Sippala, Ashley
 - Smith, Heather
-- Smith, Nikki
 - Sobey, Lianne
-- Sonnenberg, Renee
 - Streifel, Tracy
 - Strong, Heather
 - Strong, Laura

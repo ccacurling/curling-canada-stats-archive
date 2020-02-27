@@ -119,4 +119,20 @@ years:
    shots-total: 20
    shots-percent: 90
 vs:
+ - Birchard, Shannon
+ - Brine, Jenn
+ - Brothers, Jill
+ - Hutchings, Denise
+ - Jones, Jennifer
+ - Lavery, Tracey
+ - Mackey, Robyn
+ - McEwen, Dawn
+ - Murphy, Sarah
+ - Officer, Jill
+ - Recksiedler, Kristen
+ - Shackleton, Amie
+ - Thompson, Karla
+ - Udle, Teri
+ - Vandale, Trysta
+ - West, Christianne
 ---

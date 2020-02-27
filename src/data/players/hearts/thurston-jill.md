@@ -67,20 +67,16 @@ vs:
  - Babin, Jillian
  - Belisle, Eve
  - Birt, Suzanne
- - Bohmer, Brenda
  - Bush, Tracy
  - Cameron, Nancy
  - Carmody, Erin
  - Carter, Sasha
- - Charette, France
  - Comeau, Martine
  - Cormier, Sharon
  - Crawford, Andrea
  - Crouse, Jennifer
  - Delahunt, Nancy
  - deSolla, Jodie
- - Dezura, Diane
- - Dolan, Kim
  - Einarson, Megan
  - Ellis, Danielle
  - Gagnier, Monique
@@ -88,12 +84,8 @@ vs:
  - George, Tara
  - Gilman, Sheena
  - Hardy, Shelley
- - Hatton, Sandra
- - Henry, Lou Ann
  - Holland, Amber
  - Hollands, Saskia
- - Horne, Kate
- - Horte, Rhonda
  - Jones, Colleen
  - Jones, Jennifer
  - Kalenchuk, Heather
@@ -101,11 +93,9 @@ vs:
  - King, Cathy
  - Koehler, Megan
  - Lang, Lorraine
- - Law, Kelley
  - LeDrew, Stephanie
  - Lemon, Colette
  - MacDiarmid, Kristen
- - MacDonald, Rebecca Jean
  - MacLean, Kari
  - Makichuck, Lindsay
  - McCagg-Nystrom, Heather
@@ -113,25 +103,24 @@ vs:
  - McConnery, Nancy
  - McEwen, Dawn
  - McInnis, Susan
- - Miller, Maureen
  - More, Whitney
- - Moss, Debbie
  - Muise, Morgan
  - Naugler, Tara
- - Nedohin, Heather
  - Nicholls, Brenda
  - Nowlan, Denise
  - Nugent, Pamela
  - Officer, Jill
  - O'Leary, Susan
  - Olson-Johns, Lori
- - Ondrack, Wendy
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
- - Phillips, Margaret Lea
+ - Potts, Sarah
+ - Radford, Mary Sue
+ - Rainville, Julie
  - Ramsay, Geri Lynn
  - Ridalls, Kristen
  - Rocque, Raylene
+ - Rogers, Leslie
  - Rogers, Rhonda
  - Rudulier, Andrea
  - Schneider, Kim
@@ -141,9 +130,7 @@ vs:
  - Sharpe, Kelli
  - Simons, Renee
  - Sippala, Ashley
- - Skinner, Julie
  - Sobey, Lianne
- - Stahl, Carrie
  - Streifel, Tracy
  - Strong, Heather
  - Strong, Laura
@@ -151,6 +138,5 @@ vs:
  - Sweeting, Val
  - Tanner, Ros
  - Thomas, Jill
- - Tincher, Twyla
  - Wheatcroft, Georgina
 ---

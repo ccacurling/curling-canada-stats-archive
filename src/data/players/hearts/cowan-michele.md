@@ -36,4 +36,8 @@ years:
    shots-total: 18
    shots-percent: 60
 vs:
+ - Harvey, Janet
+ - Overton, Kim
+ - Ryan, Jennifer
+ - Sigurdson, Janine
 ---

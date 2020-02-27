@@ -118,7 +118,6 @@ vs:
 - Barker, Penny
 - Belisle, Eve
 - Birt, Suzanne
-- Blais, Amelie
 - Bobbie, Tess
 - Boyle, Jane
 - Brothers, Jill
@@ -128,6 +127,7 @@ vs:
 - Carey, Chelsea
 - Carmody, Erin
 - Carter, Sasha
+- Charette, France
 - Christianson, Marie
 - Comeau, Martine
 - Cormier, Sharon
@@ -146,14 +146,12 @@ vs:
 - Einarson, Megan
 - Ellis, Danielle
 - Englot, Michelle
-- Enright, Barb
 - Eyamie, Lisa
 - Ferguson, Dana
 - Flaxey, Allison
 - Fullerton, Sarah
 - Fyfe, Liz
 - Galusha, Kerry
-- Georges, Kendra
 - Gilman, Sheena
 - Grandy, Clancy
 - Hamon, Callan
@@ -165,6 +163,7 @@ vs:
 - Homan, Rachel
 - Howard, Ashley
 - Hughes, Meaghan
+- Jewer, Michelle
 - Jones, Jennifer
 - Joyce, Blisse
 - Kalenchuk, Heather
@@ -175,6 +174,7 @@ vs:
 - Lavery, Tracey
 - Lawes, Kaitlyn
 - LeDrew, Stephanie
+- Lemay, Annie
 - Lemon, Colette
 - MacCuish, Kristin
 - MacPhee, Robyn
@@ -195,6 +195,7 @@ vs:
 - Nixon, Amy
 - Njegovan, Selena
 - Nowlan, Denise
+- O'Connor, Susan
 - O'Neill, Brit
 - O'Rourke, Brittany
 - O'Rourke, Kathy
@@ -210,7 +211,6 @@ vs:
 - Recksiedler, Kristen
 - Richard, Marie
 - Richards, Brette
-- Robertson, Darcy
 - Robichaud, Sylvie
 - Rogers, Rhonda
 - Sagle, Karen
@@ -224,7 +224,6 @@ vs:
 - Scott, Kelly
 - Sicinski, Danielle
 - Sobey, Lianne
-- Spencer, Barb
 - Sweeting, Val
 - Thiessen, Alison
 - Thomas, Jill

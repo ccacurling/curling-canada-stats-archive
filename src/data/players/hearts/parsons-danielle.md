@@ -97,6 +97,7 @@ vs:
  - Barbour, Shona
  - Baxter, Jen
  - Beauchamp, Sasha
+ - Bell, Chelsey
  - Birt, Suzanne
  - Blais, Amelie
  - Bradley, Shelly
@@ -104,10 +105,12 @@ vs:
  - Brothers, Jill
  - Brown, Rachel
  - Cameron, Nancy
+ - Campbell, Jolene
  - Carey, Chelsea
  - Carter, Sasha
  - Cheveldave, Amber
- - Chisholm, Candace
+ - Clark, Stefanie
+ - Clark-Rouire, Jennifer
  - Cooper, Kathryn
  - Cormier, Sharon
  - Cottrill, Katie
@@ -118,8 +121,8 @@ vs:
  - Cunningham, Jessica
  - Curtis, Stacie
  - deJager, Blaine
- - Delahunt, Nancy
  - deSolla, Jodie
+ - Devereaux, Julie
  - Dolan, Kim
  - Dolan, Sinead
  - Dufresne, Audree
@@ -132,12 +135,15 @@ vs:
  - Flaxey, Allison
  - Fleury, Tracy
  - Foster, Kristen
+ - Fraser, Sherry
  - Fullerton, Sarah
  - Galusha, Kerry
  - Gannon, Melissa
  - Gates, Amanda
  - Gregoire, Veronique
+ - Gushulak, Diane
  - Guzzwell, Stephanie
+ - Hersikorn, Patty
  - Holland, Amber
  - Holtby, Taryn
  - Homan, Rachel
@@ -149,6 +155,7 @@ vs:
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kelly, Kim
+ - Kleibrink, Shannon
  - Koehler, Megan
  - Koltun, Sarah
  - Korab, Stephanie
@@ -157,7 +164,6 @@ vs:
  - Larouche, Marie-France
  - Lawes, Kaitlyn
  - Lawton, Stefanie
- - LeDrew, Stephanie
  - Lemay, Annie
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
@@ -172,21 +178,22 @@ vs:
  - Miskew, Emma
  - Moore, Kristie
  - Moses, Dawn
+ - Murphy, Jeanette
  - Nedohin, Heather
  - Nicholls, Brenda
+ - Nixon, Amy
  - Nowlan, Denise
  - Nugent, Pamela
  - Officer, Jill
  - O'Rourke, Brittany
  - Overton-Clapham, Cathy
- - Paul, Sarah
  - Peters, Laine
  - Porter, Erin
- - Rainville, Julie
  - Robison, Michala
  - Ross, Allison
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Schmidt, Stephanie
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
@@ -202,7 +209,6 @@ vs:
  - Strong, Laura
  - Sweeting, Val
  - Titheridge, Lindsay
- - Tuck, Kim
  - Udle, Teri
  - Van Osch, Kesa
  - Vey, Lana
@@ -211,6 +217,7 @@ vs:
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa
+ - Webster, Bronwen
  - Wilson, Leslie
  - Wylie, Jennifer
 ---

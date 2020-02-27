@@ -56,45 +56,65 @@ vs:
  - Anderson, Sherry
  - Arnott, Janet
  - Aucoin, Shelley
+ - Augustyn, Jan
  - Baker, Rose-Marie
+ - Bartlett, Sue Anne
  - Betker, Jan
+ - Bodogh, Marilyn
  - Bradley, Shelly
  - Breen, Theresa
  - Bryant, Angie
  - Cameron, Nancy
+ - Carney, Laurie
  - Charette, Agnes
  - Charette, France
  - Copeland, Rae Ann
  - Cunningham, Cathy
  - Dalio, Diane
  - Daniel, Sylvie
+ - Dwyer, Patricia
  - Flannigan, Lorraine
  - Frey, Audrey
  - Gauthier, Cathy
+ - Gervais, Chris
  - Gervais, Donna
  - Gignac, Donna
  - Gudereit, Marcia
+ - Imai, Rita
  - Jones, Colleen
+ - Jones-Walker, Debbie
+ - Jurgenson, Christine
+ - Kavanagh, Sheila
  - Kelly, Kim
+ - Kerr, Heather
  - Kerr, Kathy
  - Laliberte, Connie
  - Lawrence, Margaret
+ - Lethbridge, Sherry
  - MacCallum, Janice
  - MacKenzie, Doris
  - Martin, Heather
+ - McCallan, Berniece
  - McCloy, Elaine
  - McCusker, Joan
+ - McEdwards, Kathy
+ - McGeary, Lori
  - McKnight, Patti
  - McLeod, Crystal
  - Merklinger, Anne
  - Montgomery, Kay
+ - Moore, Linda
  - Muzika, Shelley
+ - Narduzzi, Joyce
  - Osborne, Chantal
  - Palinkas, Gloria
  - Phillips, Laura
+ - Porter, Debbie
  - Purdy, Karen
  - Robinson, Charlene
  - Schmirler, Sandra
+ - Sparkes, Lindsay
  - Taylor, Candy
+ - Thompson, Gillian
  - Zinck, Kay
 ---

@@ -38,17 +38,15 @@ years:
 vs:
  - Affleck, Tricia
  - Arsenault, Mary-Anne
- - Arseneau, Jane
  - Baker, Michelle
  - Balderston, Marcy
  - Belanger, Nancy
  - Bradley, Shelly
  - Brown, Janet
  - Cordina, Sheri
+ - Delahunt, Nancy
  - Dezura, Diane
  - Englot, Michelle
- - Farrell, Allison
- - Floyd, Kathy
  - Galusha, Kerry
  - Grenier, Valerie
  - Harvey, Alison
@@ -68,8 +66,6 @@ vs:
  - McNamee, Karen
  - Middaugh, Sherry
  - O'Leary, Susan
- - Peters, Laine
- - Power, Marie-Anne
  - Radchenka, Tammy
  - Sandison, Janice
  - Skinner, Julie

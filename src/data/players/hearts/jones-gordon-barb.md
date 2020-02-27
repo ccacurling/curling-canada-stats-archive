@@ -64,7 +64,6 @@ vs:
  - Barker, Catherine
  - Bennett, Connie
  - Bond, Arlene
- - Boudreault, Tracie
  - Bradley, Diane
  - Buckway, Beverly
  - Burns, Shannon
@@ -84,6 +83,7 @@ vs:
  - Ferland, Marie
  - Flesjer, Melody
  - Floyd, Kathy
+ - Gallant, Kathie
  - Gervais, Chris
  - Grange, Denise
  - Greenwood, Jill
@@ -103,7 +103,6 @@ vs:
  - Large, Gloria
  - Leahy, Anne
  - MacDonald, Irene
- - Mackin, Marion
  - Marchuk, Lindy
  - Martineau, Donna
  - McCarville, Susan

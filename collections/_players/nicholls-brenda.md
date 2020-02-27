@@ -129,16 +129,15 @@ vs:
  - Bonar, Maureen
  - Boyle, Jane
  - Bradley, Shelly
- - Briand, Oye-Sem Won
  - Brothers, Jill
  - Busche, Jodi
  - Bush, Tracy
- - Cameron, Nancy
  - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
  - Cey, Naomi
+ - Chisholm, Candace
  - Christianson, Marie
  - Clark, Stefanie
  - Clark-Rouire, Jennifer
@@ -176,13 +175,13 @@ vs:
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Hardy, Shelley
  - Holland, Amber
  - Hooper Perroud, Jane
  - Howard, Ashley
  - Hughes, Meaghan
  - Hutton, Barb
  - Iskiw, Beth
- - Jewer, Michelle
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
@@ -219,7 +218,6 @@ vs:
  - McConnery, Nancy
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - Middaugh, Sherry
  - Mittelstadt, Candice
  - More, Whitney
@@ -251,6 +249,7 @@ vs:
  - Recksiedler, Kristen
  - Richard, Marie
  - Robichaud, Sylvie
+ - Robison, Michala
  - Rocque, Raylene
  - Rogers, Rhonda
  - Ruus, Karen
@@ -277,13 +276,14 @@ vs:
  - Thomas, Jill
  - Thompson, Karla
  - Thurston, Jill
+ - Train, Mona
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie
  - Vey, Lana
  - Walsh, Jenna
+ - Wasylkiw, Lauren
  - Westcott, Raunora
- - Whipple, Paula
  - Wieler, Bev
  - Williamson, Ashley
  - Wilson, Leslie

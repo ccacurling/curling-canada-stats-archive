@@ -45,6 +45,7 @@ vs:
  - Chapman, Kathy
  - Cleutinx, Marlene
  - Clinch, Donna
+ - Cochrane, Judy
  - Cunningham, Cathy
  - Dezura, Diane
  - Englot, Michelle
@@ -68,7 +69,6 @@ vs:
  - Nelthorpe, Sally
  - Pinkney, Colleen
  - Poisson, Francine
- - Reagh, Anna
  - Rintoul, Jacki
  - Sanders, Pat
  - Scott, Donna

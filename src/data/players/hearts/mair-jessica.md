@@ -73,7 +73,6 @@ vs:
  - Curtis, Stacie
  - deJager, Blaine
  - deSolla, Jodie
- - Devereaux, Julie
  - Dolan, Kim
  - Dolan, Sinead
  - Dufresne, Audree
@@ -84,6 +83,7 @@ vs:
  - Fullerton, Sarah
  - Galusha, Kerry
  - Gates, Amanda
+ - Gushulak, Diane
  - Holland, Amber
  - Holtby, Taryn
  - Homan, Rachel
@@ -95,11 +95,12 @@ vs:
  - Kelly, Kim
  - Koehler, Megan
  - Korab, Stephanie
+ - Kreviazuk, Alison
  - Larouche, Marie-France
  - Lawes, Kaitlyn
- - LeDrew, Stephanie
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
+ - Martin, Heather
  - Materi, Roberta
  - McEwen, Dawn
  - Miller, Wendy
@@ -121,7 +122,6 @@ vs:
  - Smith, Heather
  - Strong, Heather
  - Strong, Laura
- - Thomas-Kennell, Noelle
  - Udle, Teri
  - Vey, Lana
  - Walsh, Jenna

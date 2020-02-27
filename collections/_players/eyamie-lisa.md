@@ -45,7 +45,6 @@ vs:
  - Cormier, Sharon
  - Courtney, Joanne
  - Curtis, Stacie
- - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
  - Devereaux, Julie
@@ -63,6 +62,7 @@ vs:
  - Mann, Lauren
  - Mattatall, Mary
  - McCarville, Krista
+ - McEvoy, Julie
  - McQuaid, Michelle
  - Miskew, Emma
  - Nixon, Amy
@@ -71,7 +71,6 @@ vs:
  - Peters, Laine
  - Porter, Erin
  - Potts, Sarah
- - Recksiedler, Kristen
  - Richards, Brette
  - Saulnier, Andrea
  - Schneider, Lorraine

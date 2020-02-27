@@ -38,27 +38,27 @@ years:
 vs:
  - Aleksic, Shannon
  - Arnott, Janet
+ - Baldwin, Nicole
  - Bernard, Cheryl
  - Betker, Jan
  - Birt, Suzanne
  - Brothers, Jill
  - Carter, Sasha
- - Clark, Stefanie
  - Clarke, Hayley
  - Comeau, Sandy
  - Darbyshire, Carolyn
+ - Dolan, Sinead
  - Gagnier, Monique
  - Galusha, Kerry
  - George, Tara
  - Gudereit, Marcia
  - Hardy, Shelley
- - Harrison, Meredith
  - Inglis, Nancy
  - Jones, Jennifer
  - Lang, Lorraine
  - Law, Kelley
- - Linton, Sherry
  - MacPhee, Robyn
+ - Mattatall, Mary
  - McCarville, Krista
  - Morris, Cori
  - Moses, Dawn
@@ -72,7 +72,6 @@ vs:
  - Provencal, Darah
  - Schraeder, Jeanna
  - Scott, Kelly
- - Sharpe, Kelli
  - Simons, Renee
  - Strong, Heather
  - Strong, Laura

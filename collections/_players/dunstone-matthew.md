@@ -83,7 +83,6 @@ vs:
 - Gallant, Brett
 - Gallant, Chris
 - Grattan, James
-- Griffith, Tyrel
 - Gushue, Brad
 - Harnden, E.J.
 - Harnden, Ryan
@@ -114,6 +113,7 @@ vs:
 - Nichols, Mark
 - Saccary, Scott
 - Samagalski, Derek
+- Sawatsky, Rick
 - Schneider, Catlin
 - St.Louis, David
 - Thiessen, Brad

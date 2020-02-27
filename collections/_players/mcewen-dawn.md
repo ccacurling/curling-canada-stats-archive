@@ -276,6 +276,7 @@ vs:
 - Allen, Michelle
 - Anderson, Sherry
 - Armstrong, Jacquie
+- Armstrong, Jennifer
 - Armstrong, Leigh
 - Arsenault, Mary-Anne
 - Arsenault-Bishop, Nicole
@@ -294,14 +295,12 @@ vs:
 - Birt, Suzanne
 - Black, Christina
 - Blais, Amelie
-- Blaney, Jennifer
 - Bobbie, Tess
-- Bodner, Jenine
-- Boudreault, Patricia
 - Boyle, Jane
 - Bradley, Shelly
 - Brassard, Veronique
 - Brennan, Amanda
+- Brine, Jenn
 - Brothers, Jill
 - Brown, Jacalyn
 - Brown, Rachel
@@ -314,9 +313,9 @@ vs:
 - Carmody, Erin
 - Carrier, Julie
 - Carter, Sasha
+- Charette, France
 - Cheveldave, Amber
 - Chisholm, Candace
-- Chislett, Geneva
 - Christianson, Marie
 - Clark, Stefanie
 - Collins, Katrina
@@ -332,7 +331,6 @@ vs:
 - Cunningham, Jennifer
 - Cunningham, Jessica
 - Curtis, Stacie
-- Daigle, Julie
 - Darbyshire, Carolyn
 - deJager, Blaine
 - Delahunt, Nancy
@@ -361,7 +359,9 @@ vs:
 - Flaxey, Allison
 - Fleury, Tracy
 - Fortier, Marie-Josee
+- Forward, Katie
 - Foster, Kristen
+- Fraser, Sherry
 - Fullerton, Sarah
 - Fyfe, Liz
 - Gagnier, Monique
@@ -375,13 +375,13 @@ vs:
 - Goss, Peg
 - Grandy, Clancy
 - Gregoire, Veronique
-- Griffin, Alison
 - Gushulak, Diane
 - Guzzwell, Stephanie
 - Hamilton, Beth
 - Hamon, Callan
 - Hanna, Jenn
 - Hanna, Stephanie
+- Hardy, Shelley
 - Harmark, Andra
 - Hastings, Julie
 - Holland, Amber
@@ -390,10 +390,8 @@ vs:
 - Howard, Ashley
 - Hughes, Meaghan
 - Hunkin, Jessie
-- Hutchings, Denise
-- Ingram, Megan
+- Inglis, Danielle
 - Iskiw, Beth
-- Jewer, Michelle
 - Johnston, Kara
 - Jones, Colleen
 - Jones, Jennifer
@@ -415,7 +413,6 @@ vs:
 - Lang, Lorraine
 - Larouche, Marie-France
 - Lavery, Tracey
-- Lavoie, Gabrielle
 - Lawton, Stefanie
 - LeDrew, Stephanie
 - Leger, Stacey
@@ -443,11 +440,11 @@ vs:
 - McCagg-Nystrom, Heather
 - McCarville, Krista
 - McConnery, Nancy
-- McDonald, Kristy
 - McInnis, Susan
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
 - Meakin, Breanne
+- Meilleur, Briane
 - Merklinger, Lee
 - Middaugh, Sherry
 - Miller, Wendy
@@ -456,10 +453,9 @@ vs:
 - Moore, Kim
 - Moore, Kristie
 - More, Whitney
-- Moriarty, Monica
 - Morris, Cori
 - Moses, Dawn
-- Munroe, Anna
+- Murphy, Jeanette
 - Murphy, Sarah
 - Muzika, Shelley
 - Naugler, Tara
@@ -489,7 +485,6 @@ vs:
 - Preston, Sam
 - Price, Kara
 - Prosser, Sandi
-- Radford, Mary Sue
 - Rainville, Julie
 - Ramsay, Geri Lynn
 - Recksiedler, Kristen
@@ -512,7 +507,6 @@ vs:
 - Schneider, Tammy
 - Schraeder, Jeanna
 - Scott, Kelly
-- Shackleton, Amie
 - Sharpe, Kelli
 - Shaw, Ladene
 - Shumay, Jill
@@ -524,6 +518,7 @@ vs:
 - Sivertson, Dailene
 - Slywka, Sarah
 - Smallwood, Jody
+- Smart, Meaghan
 - Smith, Heather
 - Smith, Stacey
 - Snyder, Jane
@@ -559,7 +554,6 @@ vs:
 - Weagle, Lisa
 - Webster, Bronwen
 - Webster, Crystal
-- West, Christianne
 - Westcott, Raunora
 - Whitaker, Carol
 - Wilkes, Sarah

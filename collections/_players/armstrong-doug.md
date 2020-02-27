@@ -194,6 +194,7 @@ vs:
 - Odishaw, Grant
 - Odishaw, Terry
 - Park, Kevin
+- Park, Shane
 - Paslawski, Pat
 - Patterson, Scott
 - Peddigrew, Ken
@@ -223,7 +224,6 @@ vs:
 - Schoenne, Klaus
 - Shymko, Gerald
 - Sinclair, Rob
-- Stambaugh, Doug
 - Sullivan, Evan
 - Sullivan, Tommy
 - Sveistrup, Jody

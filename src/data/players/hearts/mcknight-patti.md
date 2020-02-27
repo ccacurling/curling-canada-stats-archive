@@ -138,6 +138,7 @@ vs:
  - Fowler, Rhonda
  - Fowler, Sharon
  - Gagnon, Nathalie
+ - Galusha, Kerry
  - Garvey, Sue
  - Gatchell, Sara
  - Gauthier, Cathy

@@ -52,6 +52,7 @@ vs:
  - Dykstra, Michelle
  - Fullerton, Sarah
  - Galusha, Kerry
+ - Hersikorn, Patty
  - Holtby, Taryn
  - Homan, Rachel
  - Iskiw, Beth
@@ -69,6 +70,7 @@ vs:
  - Miller, Wendy
  - Miskew, Emma
  - Moore, Kristie
+ - Morris, Cori
  - Nedohin, Heather
  - Officer, Jill
  - Parsons, Danielle

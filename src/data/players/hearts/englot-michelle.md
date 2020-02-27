@@ -184,6 +184,7 @@ vs:
  - Allen, Laurie
  - Anderson, Kelly
  - Armstrong, Jacquie
+ - Arnaud, Chloe
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Arseneau, Jane
@@ -198,11 +199,14 @@ vs:
  - Barker, Penny
  - Barrette, Peggy
  - Bartlett, Sue Anne
+ - Baxter, Jen
  - Belanger, Nancy
  - Belisle, Eve
  - Bell, Chelsey
  - Bernard, Cheryl
+ - Birchard, Shannon
  - Birt, Suzanne
+ - Black, Christina
  - Blais, Amelie
  - Blanchard, Judy
  - Bradley, Shelly
@@ -214,6 +218,7 @@ vs:
  - Brown, Marcie
  - Burgess, Judy
  - Cameron, Nancy
+ - Campbell, Jolene
  - Carey, Chelsea
  - Carrier, Julie
  - Carter, Linda
@@ -233,10 +238,12 @@ vs:
  - Cormier, Sharon
  - Courtney, Joanne
  - Crawford, Andrea
+ - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
  - Curtis, Stacie
  - Cutcliffe, Margaret
+ - Daniel, Sylvie
  - Davis, Carol
  - deJager, Blaine
  - Delahunt, Nancy
@@ -245,12 +252,13 @@ vs:
  - deSolla, Jodie
  - Devereaux, Julie
  - Dezura, Diane
- - Dillon, Cathy
  - Doig, Deanna
  - Dolan, Kim
  - Dolan, Sinead
+ - Duncan, Hollie
  - Dwyer, Patricia
  - Earl, Allison
+ - Einarson, Kerri
  - Eyamie, Lisa
  - Farrell, Allison
  - Fast, Lois
@@ -258,12 +266,14 @@ vs:
  - Fleury, Tracy
  - Floyd, Kathy
  - Fullerton, Sarah
+ - Fyfe, Liz
  - Gabriele, Elena
+ - Gagnon, Emilia
  - Gallant, Kathie
  - Galusha, Kerry
  - Gates, Amanda
  - Gauthier, Cathy
- - Girard, Sylvie
+ - Gibson, Amy
  - Goring, Alison
  - Goss, Peg
  - Graham-MacDonald, Bea
@@ -276,6 +286,7 @@ vs:
  - Harmark, Andra
  - Harvey, Alison
  - Harvey, Janet
+ - Harvey, Marie-Pier
  - Hennigar, Karen
  - Herlinveaux, Louise
  - Hill, Trish
@@ -285,9 +296,9 @@ vs:
  - Houston, Heather
  - Hughes, Meaghan
  - Hunt, Donna
+ - Hutchings, Denise
  - Iskiw, Beth
  - Jamieson, Shirley
- - Jenkins, Sandra
  - Johnstone, Loralee
  - Jones, Colleen
  - Jones, Jennifer
@@ -303,6 +314,7 @@ vs:
  - Koehler, Megan
  - Korab, Stephanie
  - Koyanagi, Karen
+ - Kreviazuk, Cheryl
  - Kuruluk, Kristen
  - Laliberte, Connie
  - Lang, Lorraine
@@ -312,13 +324,17 @@ vs:
  - Lawes, Kaitlyn
  - Leblanc, Lisa
  - LeCraw, Carolyn
+ - LeDrew, Stephanie
  - Lemay, Annie
  - Lilly, Kendra
+ - MacAulay, Marion
  - MacCallum, Janice
+ - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacDonald, Shelley
  - MacDougall, Leslie
  - MacInnes, Allison
+ - Mackey, Robyn
  - MacPhee, Robyn
  - Maher, Pat
  - Mair, Jessica
@@ -334,6 +350,7 @@ vs:
  - McCarville, Krista
  - McDermott, Karen
  - McDonald, Tina
+ - McEvoy, Julie
  - McEwen, Dawn
  - McGowan, Frances
  - McHugh, Cindy
@@ -341,9 +358,12 @@ vs:
  - McNamee, Karen
  - McPherson, Cheryl
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Middaugh, Sherry
+ - Miller, Wendy
  - Miskew, Emma
  - Moore, Kim
+ - Moore, Kristie
  - More, Chris
  - Moriarty, Monica
  - Moses, Dawn
@@ -351,18 +371,21 @@ vs:
  - Muzika, Shelley
  - Nedohin, Heather
  - Nelthorpe, Sally
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nichols, Helen
  - Nicholson, Danielle
  - Nicholson, Terry
  - Nixon, Amy
  - Officer, Jill
+ - O'Leary, Susan
  - O'Rourke, Brittany
  - O'Rourke, Kathy
  - Osborne, Chantal
  - Overton, Kim
  - Overton-Clapham, Cathy
  - Parsons, Danielle
+ - Perron, Melina
  - Peterman, Jocelyn
  - Peters, Laine
  - Phillips, Laura
@@ -389,18 +412,20 @@ vs:
  - Ryan, Jennifer
  - Ryan, Penny
  - Sabourin, Joelle
+ - Sagle, Karen
  - Sanders, Pat
  - Sandison, Janice
  - Santos, Deb
  - Sauer, Cathy
- - Saulnier, Andrea
  - Scales, Julie
+ - Scheidegger, Casey
+ - Scheidegger, Jessie
  - Schneider, Kim
  - Schneider, Lorraine
- - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Donna
  - Scott, Kelly
+ - Shackleton, Amie
  - Sherrington, Barb
  - Sicinski, Danielle
  - Sigurdson, Janine
@@ -409,7 +434,6 @@ vs:
  - Sivertson, Dailene
  - Skinner, Julie
  - Smith, Heather
- - Smith, Nikki
  - Smith, Yvonne
  - Soligo, Melissa
  - Sonnenberg, Renee
@@ -426,7 +450,6 @@ vs:
  - Thiessen, Alison
  - Thomas, Karen
  - Thomas, Maria
- - Thomas-Kennell, Noelle
  - Thompson, Karla
  - Todd, Fran
  - Trickett, Erica
@@ -434,12 +457,17 @@ vs:
  - Turcotte, Kristin
  - Udle, Teri
  - Usher, Leanne
+ - Van Osch, Kalia
+ - Van Osch, Kesa
+ - Van Osch, Marika
  - Walker, Lisa
  - Wall, Kirsten
  - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Bronwen
+ - Webster, Crystal
  - Werenka, Lil
+ - West, Christianne
  - Wheatcroft, Georgina
  - Whitaker, Carol
  - Whitaker, Lise

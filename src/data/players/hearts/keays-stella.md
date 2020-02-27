@@ -52,7 +52,6 @@ vs:
  - Gallant, Kathie
  - Horne, Sharon
  - Jenkins, Sandra
- - Jurgenson, Christine
  - Kerr, Heather
  - Lang, Lorraine
  - LaRocque, Penny

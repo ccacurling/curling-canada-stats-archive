@@ -36,4 +36,9 @@ years:
    shots-total: 16
    shots-percent: 72
 vs:
+ - Howard, Glenn
+ - Howard, Scott
+ - Laing, Brent
+ - Middaugh, Wayne
+ - Savill, Craig
 ---

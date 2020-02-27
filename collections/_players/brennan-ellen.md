@@ -21,8 +21,4 @@ years:
    team: "NB"
    position: Alternate
 vs:
- - Brown, Katie
- - Charette, Agnes
- - Poisson, Francine
- - Pross, Margaret
 ---

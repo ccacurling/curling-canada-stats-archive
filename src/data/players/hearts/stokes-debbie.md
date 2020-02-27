@@ -201,13 +201,11 @@ vs:
  - Currie, Ann
  - Currie, Barbara
  - Cutcliffe, Margaret
- - Dagg-Jackson, Elaine
  - Daniel, Sylvie
  - Dauphinais, Josee
  - Derick, Catherine
  - Dezura, Diane
  - Dickeson, Debbi
- - Dillon, Cathy
  - Dolan, Kim
  - Donald, Grace
  - Duck, Kim
@@ -340,6 +338,7 @@ vs:
  - Sigurdson, Janine
  - Skinner, Julie
  - Slemko, Jean
+ - Soligo, Melissa
  - Sparkes, Lindsay
  - Spencer, Barb
  - Stevenson, Chris

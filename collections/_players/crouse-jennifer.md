@@ -103,15 +103,20 @@ years:
    shots-total: 239
    shots-percent: 81
 vs:
+ - Adams, Melissa
  - Affleck, Tricia
- - Aleksic, Shannon
+ - Anderson, Sherry
  - Armstrong, Jacquie
+ - Arsenault-Bishop, Nicole
  - Babin, Jillian
  - Barbour, Shona
  - Belanger, Nancy
  - Belisle, Eve
  - Bernard, Cheryl
+ - Birchard, Shannon
+ - Bradley, Shelly
  - Brown, Jacalyn
+ - Cameron, Kate
  - Carmody, Erin
  - Carter, Sasha
  - Comeau, Martine
@@ -120,41 +125,61 @@ vs:
  - Cunningham, Cathy
  - Darbyshire, Carolyn
  - deSolla, Jodie
+ - Duncan, Chelsea
+ - Duncan, Hollie
+ - Duncan, Jenna
+ - Einarson, Kerri
  - Einarson, Megan
  - Ellis, Danielle
+ - Englot, Michelle
  - Enright, Barb
+ - Fesser, Kourtney
+ - Fesser, Krista
+ - Fleury, Tracy
+ - Fyfe, Liz
  - Galusha, Kerry
+ - Gates, Amanda
  - George, Tara
  - Georges, Kendra
+ - Gibson, Amy
  - Goss, Peg
  - Gushulak, Diane
  - Hardy, Shelley
  - Holland, Amber
- - Jewer, Michelle
  - Jones, Jennifer
  - Kalenchuk, Heather
+ - Kallechy, Rachelle
  - Kasner, Marliese
  - Koehler, Megan
+ - Koltun, Sarah
+ - Korchinski, Karlee
+ - Kreviazuk, Cheryl
  - Lang, Lorraine
  - Larouche, Marie-France
  - Lawton, Stefanie
  - LeDrew, Stephanie
  - Lemay, Annie
  - Lemon, Colette
+ - Lister, Kendra
  - Lowther, Tammi
+ - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacInnes, Grace
  - MacLean, Kari
  - MacPhee, Robyn
  - Makichuck, Lindsay
  - Mallett, Marla
+ - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McEwen, Dawn
+ - McTaggart, Cary-Anne
+ - Moore, Kristie
  - More, Whitney
  - Morris, Cori
  - Moses, Dawn
  - Muzika, Shelley
  - Naugler, Tara
+ - Njegovan, Selena
  - Nicholls, Brenda
  - Nowlan, Denise
  - O'Connor, Susan
@@ -162,25 +187,37 @@ vs:
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
  - Phillips, Kristen
+ - Potts, Sarah
+ - Price, Kara
  - Rainville, Julie
  - Ramsay, Geri Lynn
  - Richards, Brette
  - Robertson, Darcy
+ - Robichaud, Sylvie
  - Rogers, Rhonda
  - Sabourin, Joelle
+ - Sagle, Karen
+ - Scheidegger, Casey
+ - Scheidegger, Jessie
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
  - Singler, Sherri
  - Sippala, Ashley
+ - Smallwood, Jody
  - Sobey, Lianne
  - Spencer, Barb
  - Strong, Heather
  - Strong, Laura
- - Surik, Teejay
  - Sweeting, Val
  - Thurston, Jill
+ - Van Osch, Kalia
+ - Van Osch, Kesa
+ - Van Osch, Marika
  - Vey, Lana
+ - Webster, Crystal
+ - Westcott, Raunora
  - Wilson, Leslie
+ - Wylie, Jennifer
 ---
