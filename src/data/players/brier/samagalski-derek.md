@@ -4,18 +4,18 @@ name: Derek Samagalski
 name-sort: Samagalski, Derek
 totals:
  - event: Brier
-   games: 47
-   wins: 24
-   losses: 23
-   inturn-total: 426
-   inturn-percent: 86
-   outturn-total: 442
-   outturn-percent: 87
-   draw-total: 545
+   games: 59
+   wins: 31
+   losses: 28
+   inturn-total: 514
+   inturn-percent: 87
+   outturn-total: 579
+   outturn-percent: 88
+   draw-total: 623
    draw-percent: 87
-   takeout-total: 323
-   takeout-percent: 86
-   shots-total: 868
+   takeout-total: 470
+   takeout-percent: 87
+   shots-total: 1093
    shots-percent: 87
 years:
  - year: 2012
@@ -86,8 +86,26 @@ years:
    takeout-percent: 85
    shots-total: 212
    shots-percent: 86
+ - year: 2020
+   event: Brier
+   team: "WC"
+   position: Second
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 88
+   inturn-percent: 88
+   outturn-total: 137
+   outturn-percent: 88
+   draw-total: 78
+   draw-percent: 89
+   takeout-total: 147
+   takeout-percent: 88
+   shots-total: 225
+   shots-percent: 88
 vs:
  - Abel, Clinton
+ - Aho, David
  - Armstrong, Mike
  - Asselin, Felix
  - Bardsley, Mike
@@ -97,6 +115,7 @@ vs:
  - Boland, Adam
  - Borden, Robert
  - Bottcher, Brendan
+ - Brannen, Jamie
  - Burgess, Steve
  - Camm, Mathew
  - Carmody, Anson
@@ -112,6 +131,7 @@ vs:
  - Deis, Ryan
  - Desjardins, Robert
  - Dion, William
+ - Dobson, Paul
  - Doherty, Robert
  - Dunstone, Matthew
  - Eldridge, Zach
@@ -121,6 +141,7 @@ vs:
  - Folk, Kevin
  - Ford, Chris
  - Forget, Wes
+ - Forrest, Alex
  - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
@@ -128,6 +149,7 @@ vs:
  - Gaudet, Mike
  - Grattan, James
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -138,10 +160,12 @@ vs:
  - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Jewer, Keith
  - Jones, Scott
  - Kean, Mark
  - Kennedy, Marc
+ - Kidby, Dustin
  - Kingdon, Wade
  - Koe, Jamie
  - Koe, Kevin
@@ -166,10 +190,12 @@ vs:
  - McDermaid, Donald
  - McDonald, Scott
  - McEwen, Mike
+ - McLeod, Shadrach
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
  - Morris, John
+ - Moskowy, Braeden
  - Moulding, Darren
  - Munroe, Steven
  - Murphy, Jamie
@@ -177,12 +203,15 @@ vs:
  - Muyres, Kirk
  - Nadeau, Jeff
  - Naugler, Tom
+ - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Odian, Scott
  - Odishaw, Grant
  - Odishaw, Terry
+ - Parsons, Cole
  - Pinder, Jordan
  - Rach, Dave
  - Roy, Jean-Sebastien
@@ -190,6 +219,8 @@ vs:
  - Saccary, Scott
  - Savill, Craig
  - Sawatsky, Rick
+ - Schneider, Catlin
+ - Scoffin, Thomas
  - Seabrook, Scott
  - Simmons, Pat
  - Smallwood, Robert
@@ -202,6 +233,8 @@ vs:
  - Trepanier, Jean-Francois
  - Villeneuve, Steeve
  - Walker, Geoff
+ - Wallingham, Joe
  - Whitehead, Mark
+ - Winfield, Brett
  - Wozniak, Matt
 ---

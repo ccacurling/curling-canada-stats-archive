@@ -102,6 +102,10 @@ years:
    takeout-percent:
    shots-total: 6
    shots-percent: 63
+ - year: 2020
+   event: Brier
+   team: "BC"
+   position: Alternate
 vs:
  - Appelman, Tom
  - Borden, Robert

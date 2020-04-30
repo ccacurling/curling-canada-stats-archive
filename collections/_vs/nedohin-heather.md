@@ -495,6 +495,50 @@ vs:
     year: 2017
     draw: Round Robin(17)
     score: CA 7 - AB 4
+- name: Pewarchuk, Dailene
+  totals:
+  - event: Hearts
+    player1:
+      percent: 83
+      wins: 2
+      losses: 0
+    player2:
+      percent: 86
+      wins: 0
+      losses: 2
+  games:
+  - player1:
+      team: AB
+      position: Fourth
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Second
+      percent: 90
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2012
+    draw: Round Robin(10)
+    score: AB 7 - BC 4
+  - player1:
+      team: AB
+      position: Fourth
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Second
+      percent: 81
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2012
+    draw: Final(22)
+    score: BC 6 - AB 7
 - name: Phillips, Laura
   totals:
   - event: Hearts
@@ -1367,50 +1411,6 @@ vs:
     year: 2017
     draw: Round Robin(8)
     score: SK 7 - AB 10
-- name: Sivertson, Dailene
-  totals:
-  - event: Hearts
-    player1:
-      percent: 83
-      wins: 2
-      losses: 0
-    player2:
-      percent: 86
-      wins: 0
-      losses: 2
-  games:
-  - player1:
-      team: AB
-      position: Fourth
-      percent: 84
-      win: 1
-      loss: 0
-    player2:
-      team: BC
-      position: Second
-      percent: 90
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2012
-    draw: Round Robin(10)
-    score: AB 7 - BC 4
-  - player1:
-      team: AB
-      position: Fourth
-      percent: 83
-      win: 1
-      loss: 0
-    player2:
-      team: BC
-      position: Second
-      percent: 81
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2012
-    draw: Final(22)
-    score: BC 6 - AB 7
 - name: Skinner, Julie
   totals:
   - event: Hearts
@@ -1868,34 +1868,6 @@ vs:
     year: 1999
     draw: Round Robin(6)
     score: CA 7 - TR 6
-- name: Trickett, Erica
-  totals:
-  - event: Hearts
-    player1:
-      percent: 88
-      wins: 1
-      losses: 0
-    player2:
-      percent: 89
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: AB
-      position: Fourth
-      percent: 88
-      win: 1
-      loss: 0
-    player2:
-      team: NL
-      position: Lead
-      percent: 89
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2017
-    draw: Round Robin(5)
-    score: AB 5 - NL 3
 - name: Trowell, Cathy
   totals:
   - event: Hearts

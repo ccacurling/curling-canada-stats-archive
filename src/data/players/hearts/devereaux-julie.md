@@ -4,19 +4,19 @@ name: Julie Devereaux
 name-sort: Devereaux, Julie
 totals:
  - event: Hearts
-   games: 33
-   wins: 12
-   losses: 21
-   inturn-total: 287
-   inturn-percent: 77
-   outturn-total: 331
+   games: 40
+   wins: 13
+   losses: 27
+   inturn-total: 341
+   inturn-percent: 76
+   outturn-total: 407
    outturn-percent: 80
-   draw-total: 279
+   draw-total: 346
    draw-percent: 76
-   takeout-total: 339
-   takeout-percent: 81
-   shots-total: 618
-   shots-percent: 79
+   takeout-total: 402
+   takeout-percent: 80
+   shots-total: 748
+   shots-percent: 78
 years:
  - year: 2011
    event: Hearts
@@ -103,19 +103,42 @@ years:
    takeout-percent: 82
    shots-total: 174
    shots-percent: 82
+ - year: 2020
+   event: Hearts
+   team: "NL"
+   position: Second
+   games: 7
+   wins: 1
+   losses: 6
+   inturn-total: 54
+   inturn-percent: 70
+   outturn-total: 76
+   outturn-percent: 78
+   draw-total: 67
+   draw-percent: 77
+   takeout-total: 63
+   takeout-percent: 73
+   shots-total: 130
+   shots-percent: 75
 vs:
  - Adams, Melissa
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Arnaud, Chloe
+ - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
+ - Barbour, Shona
  - Barker, Penny
+ - Baxter, Jen
  - Belisle, Eve
+ - Birnie, Hailey
  - Birt, Suzanne
+ - Black, Christina
  - Boyle, Jane
  - Briand, Oye-Sem Won
  - Brothers, Jill
+ - Brown, Corryn
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
@@ -127,6 +150,7 @@ vs:
  - deJager, Blaine
  - Derry, Danielle
  - Doig, Deanna
+ - Duncan, Chelsea
  - Duncan, Hollie
  - Einarson, Kerri
  - Englot, Michelle
@@ -148,7 +172,9 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kleibrink, Shannon
+ - Klymchuk, Ashley
  - Koehler, Megan
+ - Koltun, Sarah
  - Kreviazuk, Cheryl
  - Larouche, Marie-France
  - Lavery, Tracey
@@ -157,6 +183,7 @@ vs:
  - Lemay, Annie
  - Lilly, Kendra
  - Lister, Kendra
+ - Logan, Emma
  - MacCuish, Kristin
  - MacPhee, Robyn
  - Mallett, Marla
@@ -182,11 +209,15 @@ vs:
  - Perron, Melina
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pewarchuk, Dailene
+ - Pincott, Erin
+ - Plonka, Gabrielle
  - Potts, Sarah
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
+ - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Sagle, Karen
  - Saulnier, Andrea
@@ -199,6 +230,7 @@ vs:
  - Smith, Heather
  - Thiessen, Alison
  - Thompson, Karla
+ - Tuor, Kimberly
  - Udle, Teri
  - Vandale, Trysta
  - Van Osch, Kalia

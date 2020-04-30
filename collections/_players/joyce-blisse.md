@@ -208,6 +208,7 @@ vs:
  - Overton-Clapham, Cathy
  - Parsons, Danielle
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Porter, Erin
  - Potts, Sarah
  - Rainville, Julie
@@ -225,7 +226,6 @@ vs:
  - Sinclair, Andrea
  - Singler, Sherri
  - Sippala, Ashley
- - Sivertson, Dailene
  - Slywka, Sarah
  - Sobey, Lianne
  - Strong, Heather

@@ -70,6 +70,7 @@ vs:
  - Cormier, Sharon
  - Courtney, Joanne
  - Crawford, Andrea
+ - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - Derry, Danielle
@@ -124,7 +125,6 @@ vs:
  - Sicinski, Danielle
  - Sippala, Ashley
  - Thiessen, Alison
- - Trickett, Erica
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa

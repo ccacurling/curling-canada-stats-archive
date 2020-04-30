@@ -211,6 +211,7 @@ vs:
 - Courtney, Joanne
 - Crawford, Andrea
 - Cunningham, Cathy
+- Curtis, Erica
 - Curtis, Stacie
 - Daniel, Sylvie
 - Darbyshire, Carolyn
@@ -356,7 +357,6 @@ vs:
 - Thomas, Maria
 - Thompson, Karla
 - Thurston, Jill
-- Trickett, Erica
 - Tuck, Kimberly
 - Udle, Teri
 - Vey, Lana

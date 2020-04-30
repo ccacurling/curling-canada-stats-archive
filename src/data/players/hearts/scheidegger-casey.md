@@ -43,6 +43,7 @@ vs:
  - Black, Christina
  - Cameron, Kate
  - Crouse, Jennifer
+ - Curtis, Erica
  - Curtis, Stacie
  - Devereaux, Julie
  - Duncan, Hollie
@@ -72,7 +73,6 @@ vs:
  - Sagle, Karen
  - Shackleton, Amie
  - Thiboutot, Isabelle
- - Trickett, Erica
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika

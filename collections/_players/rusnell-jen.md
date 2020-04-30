@@ -82,7 +82,7 @@ vs:
  - Fleury, Tracy
  - Fyfe, Liz
  - Gates, Amanda
- - Gates, Jenny
+ - Gates, Jennifer
  - Griffin, Alison
  - Hastings, Julie
  - Homan, Rachel

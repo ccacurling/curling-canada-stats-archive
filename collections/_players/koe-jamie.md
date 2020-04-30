@@ -4,18 +4,18 @@ name: Jamie Koe
 name-sort: Koe, Jamie
 totals:
  - event: Brier
-   games: 137
-   wins: 41
-   losses: 96
-   inturn-total: 1159
+   games: 144
+   wins: 43
+   losses: 101
+   inturn-total: 1203
    inturn-percent: 74
-   outturn-total: 1251
+   outturn-total: 1337
    outturn-percent: 76
-   draw-total: 1128
-   draw-percent: 74
-   takeout-total: 1282
+   draw-total: 1179
+   draw-percent: 75
+   takeout-total: 1361
    takeout-percent: 76
-   shots-total: 2410
+   shots-total: 2540
    shots-percent: 75
 years:
  - year: 2006
@@ -239,6 +239,23 @@ years:
    takeout-percent: 71
    shots-total: 116
    shots-percent: 70
+ - year: 2020
+   event: Brier
+   team: "NT"
+   position: Fourth
+   games: 7
+   wins: 2
+   losses: 5
+   inturn-total: 44
+   inturn-percent: 73
+   outturn-total: 86
+   outturn-percent: 78
+   draw-total: 51
+   draw-percent: 80
+   takeout-total: 79
+   takeout-percent: 74
+   shots-total: 130
+   shots-percent: 76
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -292,8 +309,10 @@ vs:
  - Dion, William
  - Dobson, Paul
  - Doherty, Robert
+ - Dunstone, Matthew
  - Eldridge, Zach
  - Elmaleh, Maxime
+ - Epping, John
  - Errington, Derek
  - Fecteau, Steve
  - Ferland, Martin
@@ -345,6 +364,7 @@ vs:
  - Jakomait, Dusty
  - Jakubo, Mike
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Jewer, Keith
  - Joanisse, Dean
  - Johnson, Bill
@@ -475,8 +495,10 @@ vs:
  - Virtue, Brock
  - Walchuk, Don
  - Walker, Geoff
+ - Wallingham, Joe
  - Watson, Aaron
  - Windsor, Brian
+ - Winfield, Brett
  - Withycombe, Ian
  - Wood, Brad
  - Wood, Mike

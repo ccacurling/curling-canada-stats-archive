@@ -645,12 +645,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 98
-      wins: 2
-      losses: 0
-    player2:
       percent: 86
-      wins: 0
+      wins: 2
+      losses: 1
+    player2:
+      percent: 87
+      wins: 1
       losses: 2
   games:
   - player1:
@@ -685,6 +685,22 @@ vs:
     year: 2018
     draw: Round Robin(5)
     score: NB 4 - SK 9
+  - player1:
+      team: BC
+      position: Third
+      percent: 64
+      win: 0
+      loss: 1
+    player2:
+      team: NB
+      position: Second
+      percent: 88
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(9)
+    score: BC 3 - NB 6
 - name: McCarville, Mike
   totals:
   - event: Brier
@@ -775,10 +791,10 @@ vs:
     player1:
       percent: 79
       wins: 0
-      losses: 3
+      losses: 4
     player2:
-      percent: 83
-      wins: 3
+      percent: 84
+      wins: 4
       losses: 0
   - event: Trials(Men)
     player1:
@@ -839,6 +855,22 @@ vs:
     draw: Pool(17)
     score: BC 7 - MB 9
   - player1:
+      team: BC
+      position: Third
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: WC
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(7)
+    score: WC 10 - BC 5
+  - player1:
       team: Layc
       position: Third
       percent: 73
@@ -854,6 +886,34 @@ vs:
     year: 2017
     draw: Round Robin(12)
     score: Layc 4 - McEw 10
+- name: McLeod, Shadrach
+  totals:
+  - event: Brier
+    player1:
+      percent: 75
+      wins: 1
+      losses: 0
+    player2:
+      percent: 64
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: BC
+      position: Third
+      percent: 75
+      win: 1
+      loss: 0
+    player2:
+      team: NT
+      position: Second
+      percent: 64
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(1)
+    score: NT 4 - BC 6
 - name: Mead, Jonathan
   totals:
   - event: Brier
@@ -1291,12 +1351,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 80
+      percent: 85
       wins: 1
-      losses: 1
+      losses: 2
     player2:
-      percent: 88
-      wins: 1
+      percent: 84
+      wins: 2
       losses: 1
   - event: Trials(Men)
     player1:
@@ -1340,6 +1400,22 @@ vs:
     year: 2018
     draw: Round Robin(3)
     score: SK 5 - MB 7
+  - player1:
+      team: BC
+      position: Third
+      percent: 94
+      win: 0
+      loss: 1
+    player2:
+      team: SK
+      position: Third
+      percent: 76
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(6)
+    score: BC 8 - SK 9
   - player1:
       team: Layc
       position: Third
@@ -1631,10 +1707,10 @@ vs:
     player1:
       percent: 79
       wins: 0
-      losses: 3
+      losses: 4
     player2:
-      percent: 88
-      wins: 3
+      percent: 89
+      wins: 4
       losses: 0
   - event: Trials(Men)
     player1:
@@ -1694,6 +1770,22 @@ vs:
     year: 2019
     draw: Round Robin(10)
     score: AB 9 - BC 5
+  - player1:
+      team: BC
+      position: Third
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: CA
+      position: Third
+      percent: 91
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(14)
+    score: BC 3 - CA 9
   - player1:
       team: Layc
       position: Third
@@ -2164,13 +2256,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 89
-      wins: 1
+      percent: 82
+      wins: 2
       losses: 0
     player2:
-      percent: 90
+      percent: 80
       wins: 0
-      losses: 1
+      losses: 2
   games:
   - player1:
       team: BC
@@ -2188,6 +2280,22 @@ vs:
     year: 2019
     draw: Round Robin(12)
     score: NT 5 - BC 9
+  - player1:
+      team: BC
+      position: Third
+      percent: 75
+      win: 1
+      loss: 0
+    player2:
+      team: NT
+      position: Lead
+      percent: 71
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(1)
+    score: NT 4 - BC 6
 - name: Pinder, Jordan
   totals:
   - event: Brier
@@ -2507,10 +2615,10 @@ vs:
     player1:
       percent: 79
       wins: 1
-      losses: 2
+      losses: 3
     player2:
-      percent: 81
-      wins: 2
+      percent: 84
+      wins: 3
       losses: 1
   - event: Trials(Men)
     player1:
@@ -2570,6 +2678,22 @@ vs:
     year: 2019
     draw: Pool(17)
     score: BC 7 - MB 9
+  - player1:
+      team: BC
+      position: Third
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: WC
+      position: Second
+      percent: 97
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(7)
+    score: WC 10 - BC 5
   - player1:
       team: Layc
       position: Third
@@ -2864,6 +2988,87 @@ vs:
     year: 2016
     draw: Round Robin(11)
     score: NT 4 - SK 5
+- name: Schneider, Catlin
+  totals:
+  - event: Brier
+    player1:
+      percent: 94
+      wins: 0
+      losses: 1
+    player2:
+      percent: 95
+      wins: 1
+      losses: 0
+  - event: Trials(Men)
+    player1:
+      percent: 85
+      wins: 0
+      losses: 1
+    player2:
+      percent: 84
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: BC
+      position: Third
+      percent: 94
+      win: 0
+      loss: 1
+    player2:
+      team: SK
+      position: Second
+      percent: 95
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(6)
+    score: BC 8 - SK 9
+  - player1:
+      team: Layc
+      position: Third
+      percent: 85
+      win: 0
+      loss: 1
+    player2:
+      team: Morr
+      position: Second
+      percent: 84
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2017
+    draw: Round Robin(19)
+    score: Layc 6 - Morr 7
+- name: Scoffin, Thomas
+  totals:
+  - event: Brier
+    player1:
+      percent: 83
+      wins: 1
+      losses: 0
+    player2:
+      percent: 71
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: BC
+      position: Third
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Fourth
+      percent: 71
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(12)
+    score: YT 3 - BC 6
 - name: Scoffin, Wade
   totals:
   - event: Brier
@@ -3784,6 +3989,34 @@ vs:
     year: 2017
     draw: Round Robin(17)
     score: Gush 8 - Layc 5
+- name: Wallingham, Joe
+  totals:
+  - event: Brier
+    player1:
+      percent: 83
+      wins: 1
+      losses: 0
+    player2:
+      percent: 86
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: BC
+      position: Third
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Lead
+      percent: 86
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(12)
+    score: YT 3 - BC 6
 - name: Whitehead, Kevin
   totals:
   - event: Brier
@@ -3872,6 +4105,34 @@ vs:
     year: 2015
     draw: Round Robin(5)
     score: NT 6 - SK 10
+- name: Winfield, Brett
+  totals:
+  - event: Brier
+    player1:
+      percent: 83
+      wins: 1
+      losses: 0
+    player2:
+      percent: 43
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: BC
+      position: Third
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Second
+      percent: 43
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(12)
+    score: YT 3 - BC 6
 - name: Wood, Mike
   totals:
   - event: Brier
@@ -4193,34 +4454,6 @@ vs:
     year: 2009
     draw: Round Robin(3)
     score: SIMM 4 - FERB 9
-- name: Schneider, Catlin
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 85
-      wins: 0
-      losses: 1
-    player2:
-      percent: 84
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: Layc
-      position: Third
-      percent: 85
-      win: 0
-      loss: 1
-    player2:
-      team: Morr
-      position: Second
-      percent: 84
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2017
-    draw: Round Robin(19)
-    score: Layc 6 - Morr 7
 - name: Zawada, Braden
   totals:
   - event: Trials(Men)

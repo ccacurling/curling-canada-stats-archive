@@ -4,18 +4,18 @@ name: Meaghan Hughes
 name-sort: Hughes, Meaghan
 totals:
  - event: Hearts
-   games: 41
-   wins: 15
-   losses: 26
-   inturn-total: 382
+   games: 52
+   wins: 20
+   losses: 32
+   inturn-total: 493
    inturn-percent: 81
-   outturn-total: 419
+   outturn-total: 521
    outturn-percent: 80
-   draw-total: 361
+   draw-total: 470
    draw-percent: 78
-   takeout-total: 440
+   takeout-total: 544
    takeout-percent: 82
-   shots-total: 801
+   shots-total: 1014
    shots-percent: 80
 years:
  - year: 2016
@@ -86,22 +86,44 @@ years:
    takeout-percent: 85
    shots-total: 213
    shots-percent: 81
+ - year: 2020
+   event: Hearts
+   team: "PE"
+   position: Second
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 111
+   inturn-percent: 82
+   outturn-total: 102
+   outturn-percent: 77
+   draw-total: 109
+   draw-percent: 77
+   takeout-total: 104
+   takeout-percent: 82
+   shots-total: 213
+   shots-percent: 80
 vs:
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Armstrong, Jennifer
  - Arnaud, Chloe
+ - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
  - Barker, Penny
+ - Baxter, Jen
  - Belisle, Eve
+ - Birchard, Shannon
  - Birnie, Hailey
+ - Black, Christina
  - Blais, Amelie
  - Boyle, Jane
  - Brine, Jenn
  - Brothers, Jill
+ - Brown, Corryn
  - Brown, Rachel
  - Cameron, Kate
  - Campbell, Jolene
@@ -112,12 +134,14 @@ vs:
  - Cormier, Sharon
  - Courtney, Joanne
  - Crawford, Andrea
+ - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
  - Devereaux, Julie
  - Doig, Deanna
+ - Duncan, Chelsea
  - Duncan, Hollie
  - Einarson, Kerri
  - Englot, Michelle
@@ -127,7 +151,7 @@ vs:
  - Fyfe, Liz
  - Gagnon, Emilia
  - Galusha, Kerry
- - Gates, Jenny
+ - Gates, Jennifer
  - Gibson, Amy
  - Guzzwell, Stephanie
  - Hamilton, Beth
@@ -135,6 +159,7 @@ vs:
  - Hanna, Jenn
  - Hanna, Stephanie
  - Harvey, Marie-Pier
+ - Hawes, Dezaray
  - Hill, Trish
  - Homan, Rachel
  - Howard, Ashley
@@ -143,6 +168,7 @@ vs:
  - Jones, Jennifer
  - Karwacki, Krysten
  - Kleibrink, Shannon
+ - Klymchuk, Ashley
  - Koehler, Megan
  - Koltun, Sarah
  - Kreviazuk, Cheryl
@@ -153,6 +179,7 @@ vs:
  - Lemay, Annie
  - Letendre, Pascale
  - Lilly, Kendra
+ - Logan, Emma
  - MacCuish, Kristin
  - Mackey, Robyn
  - Mallett, Marla
@@ -162,6 +189,7 @@ vs:
  - McEvoy, Julie
  - McEwen, Dawn
  - McTaggart, Cary-Anne
+ - Meilleur, Briane
  - Miskew, Emma
  - Moore, Kristie
  - Murphy, Sarah
@@ -176,12 +204,15 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Pilote, Kristen
+ - Pincott, Erin
+ - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
+ - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Rusnell, Jen
  - Sagle, Karen
@@ -197,11 +228,13 @@ vs:
  - Silvernagle, Robyn
  - Sippala, Ashley
  - Strong, Helen
+ - Sweeting, Val
+ - Taylor, Susan
  - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla
  - Tran, Brittany
- - Trickett, Erica
+ - Tuor, Kimberly
  - Udle, Teri
  - Vandale, Trysta
  - Van Osch, Kalia

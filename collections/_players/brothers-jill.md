@@ -130,7 +130,7 @@ vs:
  - Gagnier, Monique
  - Galusha, Kerry
  - Gannon, Melissa
- - Gates, Jenny
+ - Gates, Jennifer
  - George, Tara
  - Griffin, Alison
  - Gudereit, Marcia

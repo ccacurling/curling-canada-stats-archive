@@ -4,18 +4,18 @@ name: Phil Crowell
 name-sort: Crowell, Phil
 totals:
  - event: Brier
-   games: 33
-   wins: 12
-   losses: 21
-   inturn-total: 390
-   inturn-percent: 86
-   outturn-total: 219
+   games: 40
+   wins: 15
+   losses: 25
+   inturn-total: 474
+   inturn-percent: 87
+   outturn-total: 261
    outturn-percent: 84
-   draw-total: 568
-   draw-percent: 86
-   takeout-total: 41
-   takeout-percent: 76
-   shots-total: 609
+   draw-total: 678
+   draw-percent: 87
+   takeout-total: 57
+   takeout-percent: 75
+   shots-total: 735
    shots-percent: 86
 years:
  - year: 2010
@@ -69,9 +69,28 @@ years:
    takeout-percent: 77
    shots-total: 214
    shots-percent: 88
+ - year: 2020
+   event: Brier
+   team: "NS"
+   position: Lead
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 84
+   inturn-percent: 88
+   outturn-total: 42
+   outturn-percent: 84
+   draw-total: 110
+   draw-percent: 88
+   takeout-total: 16
+   takeout-percent: 73
+   shots-total: 126
+   shots-percent: 86
 vs:
  - Anderson, Chris
  - Appelman, Tom
+ - Asselin, Emile
+ - Bedard, Alek
  - Bice, Steve
  - Borden, Robert
  - Bottcher, Brendan
@@ -82,13 +101,16 @@ vs:
  - Casey, Adam
  - Champion, Kevin
  - Chorostkowski, Brad
+ - Cochrane, Bryan
  - Collin, Simon
  - Cotter, Jim
  - Crete, Martin
+ - Currie, Morgan
  - Dunstone, Matthew
  - Epping, John
  - Fecteau, Steve
  - Flaxey, Caleb
+ - Forrest, Alex
  - Fowler, Rob
  - Fry, Ryan
  - Gallant, Brett
@@ -98,10 +120,12 @@ vs:
  - Gould, Steve
  - Grattan, James
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
+ - Higgs, Jake
  - Hodgson, Colin
  - Howard, Glenn
  - Howard, Scott
@@ -115,13 +139,17 @@ vs:
  - Kidby, Dustin
  - Koe, Jamie
  - Koe, Kevin
+ - Kohlenberg, Dale
  - Korab, Jamie
  - Korte, Bruce
  - Korte, Roger
  - Laing, Brent
  - Laycock, Steve
  - LeCocq, Marc
+ - Lequin, Bradley
+ - MacAulay, Ian
  - MacDonald, Blake
+ - MacDonald, Edmund
  - MacDonald, Rod
  - March, Tim
  - Markowsky, Rob
@@ -141,10 +169,12 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Orme, Tyler
  - O'Rourke, Mark
  - Park, Kevin
  - Pfeifer, Scott
+ - Quevillon, Louis
  - Reid, Serge
  - Richard, Jeff
  - Robinson, Andrew
@@ -168,6 +198,7 @@ vs:
  - Vaughan, Jason
  - Villeneuve, Steeve
  - Walker, Geoff
+ - Wettig, Sheldon
  - Whitehead, Kevin
  - Withycombe, Ian
  - Wood, Brad

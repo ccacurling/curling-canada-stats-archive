@@ -77,6 +77,7 @@ vs:
  - Cameron, Kate
  - Chislett, Geneva
  - Crouse, Jennifer
+ - Curtis, Erica
  - Curtis, Stacie
  - Devereaux, Julie
  - Duncan, Hollie
@@ -108,7 +109,6 @@ vs:
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Shackleton, Amie
- - Trickett, Erica
  - Webster, Crystal
  - West, Christianne
  - Westcott, Raunora

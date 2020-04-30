@@ -113,6 +113,7 @@ vs:
  - Crispo, Guylaine
  - Crouse, Jennifer
  - Cunningham, Cathy
+ - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - Daniel, Sylvie
@@ -229,7 +230,6 @@ vs:
  - Strong, Laura
  - Thiessen, Alison
  - Thomas, Jill
- - Trickett, Erica
  - Vey, Lana
  - Weagle, Lisa
  - Westcott, Raunora

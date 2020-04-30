@@ -461,6 +461,7 @@ vs:
 - Paul, Sarah
 - Peterman, Jocelyn
 - Peters, Laine
+- Pewarchuk, Dailene
 - Porter, Erin
 - Potts, Sarah
 - Power, Marie-Anne
@@ -486,7 +487,6 @@ vs:
 - Simons, Renee
 - Singler, Sherri
 - Sippala, Ashley
-- Sivertson, Dailene
 - Skinner, Julie
 - Slywka, Sarah
 - Smith, Heather

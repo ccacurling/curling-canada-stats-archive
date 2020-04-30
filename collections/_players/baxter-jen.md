@@ -4,19 +4,19 @@ name: Jen Baxter
 name-sort: Baxter, Jen
 totals:
  - event: Hearts
-   games: 35
-   wins: 20
-   losses: 15
-   inturn-total: 453
-   inturn-percent: 83
-   outturn-total: 213
-   outturn-percent: 86
-   draw-total: 416
-   draw-percent: 84
-   takeout-total: 250
-   takeout-percent: 85
-   shots-total: 666
-   shots-percent: 84
+   games: 43
+   wins: 24
+   losses: 19
+   inturn-total: 535
+   inturn-percent: 82
+   outturn-total: 289
+   outturn-percent: 82
+   draw-total: 495
+   draw-percent: 82
+   takeout-total: 329
+   takeout-percent: 82
+   shots-total: 824
+   shots-percent: 82
 years:
  - year: 2013
    event: Hearts
@@ -69,6 +69,23 @@ years:
    takeout-percent: 89
    shots-total: 242
    shots-percent: 83
+ - year: 2020
+   event: Hearts
+   team: "NS"
+   position: Second
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 82
+   inturn-percent: 74
+   outturn-total: 76
+   outturn-percent: 73
+   draw-total: 79
+   draw-percent: 75
+   takeout-total: 79
+   takeout-percent: 72
+   shots-total: 158
+   shots-percent: 74
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -78,25 +95,30 @@ vs:
  - Barbour, Shona
  - Beauchamp, Sasha
  - Birchard, Shannon
+ - Birnie, Hailey
  - Birt, Suzanne
  - Blais, Amelie
  - Boyle, Jane
  - Bradley, Shelly
+ - Brown, Corryn
  - Brown, Rachel
  - Cameron, Kate
  - Camozzi, Rhona
  - Carter, Sasha
  - Chenier, Courtney
  - Cheveldave, Amber
+ - Christianson, Marie
  - Collins, Katrina
  - Cooper, Kathryn
  - Cormier, Sharon
  - Courtney, Joanne
  - Crawford, Andrea
  - Cunningham, Jessica
+ - Curtis, Erica
  - Curtis, Stacie
  - deJager, Blaine
  - deSolla, Jodie
+ - Devereaux, Julie
  - Dufresne, Audree
  - Duncan, Chelsea
  - Duncan, Hollie
@@ -114,14 +136,18 @@ vs:
  - Galusha, Kerry
  - Gates, Amanda
  - Gibson, Amy
+ - Hamilton, Beth
  - Hastings, Julie
+ - Hawes, Dezaray
  - Holtby, Taryn
  - Homan, Rachel
+ - Hughes, Meaghan
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Jennifer
  - Kallechy, Rachelle
  - Kasner, Marliese
+ - Klymchuk, Ashley
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
@@ -151,11 +177,16 @@ vs:
  - Olson-Johns, Lori
  - O'Rourke, Brittany
  - Parsons, Danielle
+ - Peterman, Jocelyn
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Pilote, Kristen
+ - Pincott, Erin
+ - Plonka, Gabrielle
  - Porter, Erin
  - Price, Kara
  - Richard, Marie
+ - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Ross, Allison
  - Rusnell, Jen
@@ -171,6 +202,7 @@ vs:
  - Strong, Heather
  - Sweeting, Val
  - Trombley, Christy
+ - Tuor, Kimberly
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika

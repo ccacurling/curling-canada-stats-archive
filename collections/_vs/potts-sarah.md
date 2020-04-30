@@ -494,34 +494,6 @@ vs:
     year: 2010
     draw: Round Robin(12)
     score: ON 5 - MB 10
-- name: Trickett, Erica
-  totals:
-  - event: Hearts
-    player1:
-      percent: 79
-      wins: 1
-      losses: 0
-    player2:
-      percent: 90
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: 'NO'
-      position: Lead
-      percent: 79
-      win: 1
-      loss: 0
-    player2:
-      team: NL
-      position: Lead
-      percent: 90
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2017
-    draw: Round Robin(8)
-    score: NL 3 - NO 6
 - name: Udle, Teri
   totals:
   - event: Hearts

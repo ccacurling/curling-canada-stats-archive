@@ -4,18 +4,18 @@ name: Kevin Koe
 name-sort: Koe, Kevin
 totals:
 - event: Brier
-  games: 94
-  wins: 72
-  losses: 22
-  inturn-total: 654
-  inturn-percent: 82
-  outturn-total: 1074
-  outturn-percent: 86
-  draw-total: 661
+  games: 106
+  wins: 79
+  losses: 27
+  inturn-total: 715
+  inturn-percent: 83
+  outturn-total: 1227
+  outturn-percent: 87
+  draw-total: 731
   draw-percent: 84
-  takeout-total: 1067
+  takeout-total: 1211
   takeout-percent: 86
-  shots-total: 1728
+  shots-total: 1942
   shots-percent: 85
 - event: Trials (Men)
   games: 33
@@ -151,6 +151,23 @@ years:
   takeout-percent: 90
   shots-total: 241
   shots-percent: 86
+- year: 2020
+  event: Brier
+  team: CA
+  position: Fourth
+  games: 12
+  wins: 7
+  losses: 5
+  inturn-total: 61
+  inturn-percent: 84
+  outturn-total: 153
+  outturn-percent: 88
+  draw-total: 70
+  draw-percent: 84
+  takeout-total: 144
+  takeout-percent: 89
+  shots-total: 214
+  shots-percent: 87
 - year: 2005
   event: Trials (Men)
   team: MOR
@@ -260,6 +277,7 @@ vs:
 - Daneault, Richard
 - Deis, Ryan
 - Desjardins, Robert
+- Dobson, Paul
 - Doherty, Robert
 - Dunstone, Matthew
 - Dutiaume, Randy
@@ -273,6 +291,7 @@ vs:
 - Flemming, Paul
 - Folk, Kevin
 - Forget, Wes
+- Forrest, Alex
 - Forrest, Tyler
 - Fowler, Rob
 - Fry, Ryan
@@ -301,6 +320,7 @@ vs:
 - Jacobs, Brad
 - Janssen, Patrick
 - Jeffrey, Chris
+- Jensen, Trygg
 - Jones, Scott
 - Kean, Mark
 - Kendall, Lloyd
@@ -343,6 +363,7 @@ vs:
 - McDonald, Scott
 - McEwen, Mike
 - McKee, Darrell
+- McLeod, Shadrach
 - Meachem, Shaun Myles
 - Mead, Jon
 - Mead, Jonathan
@@ -362,10 +383,12 @@ vs:
 - Nadeau, Jeff
 - Naugler, Tom
 - Nedohin, David
+- Nerpin, Andrew
 - Neufeld, B.J.
 - Neufeld, Denni
 - Ng, Matt
 - Nichols, Mark
+- Njegovan, Connor
 - O'Rourke, Mark
 - Odishaw, Grant
 - Odishaw, Terry
@@ -392,6 +415,7 @@ vs:
 - Sawatsky, Rick
 - Schille, Chris
 - Schneider, Catlin
+- Scoffin, Thomas
 - Seabrook, Scott
 - Sharp, Jeff
 - Shypitka, Tom
@@ -411,8 +435,10 @@ vs:
 - Villeneuve, Steeve
 - Walchuk, Don
 - Walker, Geoff
+- Wallingham, Joe
 - Whitehead, Kevin
 - Whitehead, Mark
+- Winfield, Brett
 - Wozniak, Matt
 - Zawada, Braden
 ---

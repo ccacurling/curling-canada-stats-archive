@@ -4,18 +4,18 @@ name: B.J. Neufeld
 name-sort: Neufeld, B.J.
 totals:
  - event: Brier
-   games: 51
-   wins: 38
-   losses: 13
-   inturn-total: 450
-   inturn-percent: 89
-   outturn-total: 512
+   games: 63
+   wins: 45
+   losses: 18
+   inturn-total: 546
+   inturn-percent: 88
+   outturn-total: 632
    outturn-percent: 86
-   draw-total: 315
-   draw-percent: 85
-   takeout-total: 647
+   draw-total: 382
+   draw-percent: 84
+   takeout-total: 796
    takeout-percent: 88
-   shots-total: 962
+   shots-total: 1178
    shots-percent: 87
 years:
  - year: 2016
@@ -86,6 +86,23 @@ years:
    takeout-percent: 88
    shots-total: 242
    shots-percent: 88
+ - year: 2020
+   event: Brier
+   team: "CA"
+   position: Third
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 96
+   inturn-percent: 84
+   outturn-total: 120
+   outturn-percent: 88
+   draw-total: 67
+   draw-percent: 81
+   takeout-total: 149
+   takeout-percent: 88
+   shots-total: 216
+   shots-percent: 86
 vs:
  - Aho, David
  - Appelman, Tom
@@ -104,6 +121,7 @@ vs:
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
+ - Dobson, Paul
  - Doherty, Robert
  - Dunstone, Matthew
  - Epping, John
@@ -111,10 +129,13 @@ vs:
  - Flasch, Colton
  - Flemming, Paul
  - Forget, Wes
+ - Forrest, Alex
  - Fry, Ryan
  - Gallant, Brett
  - Geall, Sean
+ - Grattan, James
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -126,6 +147,7 @@ vs:
  - Hunt, Matthew
  - Jacobs, Brad
  - Janssen, Patrick
+ - Jensen, Trygg
  - Jones, Scott
  - Kendall, Lloyd
  - Kennedy, Marc
@@ -143,8 +165,10 @@ vs:
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
+ - McCann, Andy
  - McDonald, Scott
  - McEwen, Mike
+ - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -158,6 +182,7 @@ vs:
  - Nerpin, Andrew
  - Ng, Matt
  - Nichols, Mark
+ - Njegovan, Connor
  - Odishaw, Grant
  - Odishaw, Terry
  - Parsons, Cole
@@ -182,6 +207,8 @@ vs:
  - Thiessen, Nolan
  - Thompson, Stuart
  - Walker, Geoff
+ - Wallingham, Joe
+ - Winfield, Brett
  - Withycombe, Ian
  - Wood, Brad
 ---

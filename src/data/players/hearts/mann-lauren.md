@@ -73,6 +73,7 @@ vs:
  - Cormier, Sharon
  - Courtney, Joanne
  - Cunningham, Jessica
+ - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
@@ -129,7 +130,6 @@ vs:
  - Snyder, Jane
  - Strong, Heather
  - Sweeting, Val
- - Trickett, Erica
  - Trombley, Christy
  - Vey, Lana
  - Walsh, Jenna

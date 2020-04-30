@@ -325,6 +325,7 @@ vs:
  - Parsons, Danielle
  - Perron, Leanne
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Phillips, Laura
  - Power, Marie-Anne
  - Proctor, Jill
@@ -352,7 +353,6 @@ vs:
  - Shields, Gail
  - Shigehiro, Sally
  - Simons, Renee
- - Sivertson, Dailene
  - Skinner, Julie
  - Slywka, Sarah
  - Smith, Heather

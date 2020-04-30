@@ -105,7 +105,7 @@ vs:
  - Fleury, Tracy
  - Galusha, Kerry
  - Gates, Amanda
- - Gates, Jenny
+ - Gates, Jennifer
  - Gibson, Amy
  - Hamon, Callan
  - Hanna, Jenn

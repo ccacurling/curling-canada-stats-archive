@@ -356,6 +356,7 @@ vs:
  - Cunningham, Cathy
  - Cunningham, Jennifer
  - Currie, Wendy
+ - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - Daku, Karen
@@ -395,7 +396,7 @@ vs:
  - Garvey, Sue
  - Gatchell, Sara
  - Gates, Amanda
- - Gates, Jenny
+ - Gates, Jennifer
  - Gauthier, Cathy
  - Gellard, Kim
  - George, Tara
@@ -498,6 +499,7 @@ vs:
  - Perron, Leanne
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Phillips, Kristen
  - Phillips, Laura
  - Pinkney, Colleen
@@ -532,7 +534,6 @@ vs:
  - Shumay, Jill
  - Sicinski, Danielle
  - Sippala, Ashley
- - Sivertson, Dailene
  - Skinner, Julie
  - Slywka, Sarah
  - Smith, Heather
@@ -551,7 +552,6 @@ vs:
  - Thomas, Maria
  - Thurston, Jill
  - Todd, Fran
- - Trickett, Erica
  - Trider, Krista
  - Trowell, Cathy
  - Udle, Teri

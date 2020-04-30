@@ -203,6 +203,7 @@ vs:
  - Osborne, Chantal
  - Parsons, Danielle
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Rainville, Julie
  - Ross, Allison
  - Sanderson, Jessie
@@ -210,7 +211,6 @@ vs:
  - Schneider, Kim
  - Scott, Kelly
  - Sinclair, Andrea
- - Sivertson, Dailene
  - Slywka, Sarah
  - Smith, Heather
  - Sonnenberg, Renee

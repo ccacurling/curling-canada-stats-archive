@@ -146,6 +146,7 @@ vs:
  - Parsons, Danielle
  - Paul, Sarah
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Phillips, Kristen
  - Rainville, Julie
  - Ramsay, Geri Lynn
@@ -154,7 +155,6 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sippala, Ashley
- - Sivertson, Dailene
  - Slywka, Sarah
  - Smith, Heather
  - Sobey, Lianne

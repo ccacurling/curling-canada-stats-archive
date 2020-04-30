@@ -4,19 +4,19 @@ name: Kate Cameron
 name-sort: Cameron, Kate
 totals:
 - event: Hearts
-  games: 24
-  wins: 17
-  losses: 7
-  inturn-total: 245
-  inturn-percent: 82
-  outturn-total: 199
-  outturn-percent: 82
-  draw-total: 197
+  games: 31
+  wins: 20
+  losses: 11
+  inturn-total: 314
+  inturn-percent: 81
+  outturn-total: 260
+  outturn-percent: 81
+  draw-total: 246
   draw-percent: 81
-  takeout-total: 247
-  takeout-percent: 82
-  shots-total: 444
-  shots-percent: 82
+  takeout-total: 328
+  takeout-percent: 81
+  shots-total: 574
+  shots-percent: 81
 - event: Trials (Women)
   games: 8
   wins: 2
@@ -66,6 +66,23 @@ years:
   takeout-percent: 80
   shots-total: 198
   shots-percent: 81
+- year: 2020
+  event: Hearts
+  team: AB
+  position: Third
+  games: 7
+  wins: 3
+  losses: 4
+  inturn-total: 69
+  inturn-percent: 80
+  outturn-total: 61
+  outturn-percent: 78
+  draw-total: 49
+  draw-percent: 82
+  takeout-total: 81
+  takeout-percent: 77
+  shots-total: 130
+  shots-percent: 79
 - year: 2017
   event: Trials (Women)
   team: Engl
@@ -86,8 +103,10 @@ years:
 vs:
 - Alcoe-Holland, Jill
 - Aleksic, Shannon
+- Armstrong, Jennifer
 - Arnaud, Chloe
 - Arsenault, Mary-Anne
+- Babin, Jillian
 - Barker, Penny
 - Baxter, Jen
 - Belisle, Eve
@@ -97,9 +116,12 @@ vs:
 - Brown, Rachel
 - Carey, Chelsea
 - Cormier, Sharon
+- Cote, Marie-Pier
 - Court, Morgan
 - Courtney, Joanne
+- Crawford, Andrea
 - Crouse, Jennifer
+- Curtis, Erica
 - Curtis, Stacie
 - Cutcliffe, Margaret
 - deJager, Blaine
@@ -108,31 +130,38 @@ vs:
 - Doig, Deanna
 - Duhaime, Chantal
 - Duncan, Hollie
+- Eddy, Lori
 - Einarson, Kerri
 - Eyamie, Lisa
 - Ferguson, Dana
 - Flaxey, Allison
 - Fleury, Tracy
+- Forward, Katie
 - Fullerton, Sarah
 - Fyfe, Liz
 - Gagnon, Emilia
 - Galusha, Kerry
 - Gates, Amanda
+- Gates, Jennifer
 - Gibson, Amy
 - Grandy, Clancy
+- Griffin, Alison
 - Harvey, Marie-Pier
 - Hill, Trish
 - Homan, Rachel
 - Hughes, Meaghan
+- Hunkin, Jessie
 - Hutchings, Denise
 - Jones, Jennifer
 - Koehler, Megan
 - Kreviazuk, Cheryl
 - Kreviazuk, Lynn
 - Lawes, Kaitlyn
+- Lawton, Stefanie
 - LeDrew, Stephanie
 - Lilly, Kendra
 - MacCuish, Kristin
+- MacDonald, Kaitlin
 - Mackey, Robyn
 - MacPhee, Robyn
 - Mallett, Marla
@@ -143,6 +172,7 @@ vs:
 - McEwen, Dawn
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
+- Meilleur, Briane
 - Miskew, Emma
 - Moore, Kristie
 - Nedohin, Heather
@@ -155,23 +185,28 @@ vs:
 - Perron, Melina
 - Peterman, Jocelyn
 - Peters, Laine
+- Pinksen, Sadie
 - Porter, Erin
 - Potts, Sarah
 - Richards, Brette
+- Routledge, Alanna
+- Routledge, Jill
 - Sagle, Karen
 - Scheidegger, Casey
 - Scheidegger, Jessie
 - Schneider, Lorraine
 - Shackleton, Amie
 - Sicinski, Danielle
+- Silvernagle, Robyn
 - Sippala, Ashley
 - Sweeting, Val
+- Taylor, Susan
 - Thiessen, Alison
 - Tippin, Julie
-- Trickett, Erica
 - Van Osch, Kalia
 - Van Osch, Kesa
 - Van Osch, Marika
+- Verreault, Noemie
 - Vink, Rachelle
 - Weagle, Lisa
 - Webster, Crystal

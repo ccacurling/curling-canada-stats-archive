@@ -129,6 +129,7 @@ vs:
  - Olson-Johns, Lori
  - Overton-Clapham, Cathy
  - Parsons, Danielle
+ - Pewarchuk, Dailene
  - Ridalls, Kristen
  - Robison, Michala
  - Rocque, Raylene
@@ -140,7 +141,6 @@ vs:
  - Sharpe, Kelli
  - Simons, Renee
  - Sinclair, Andrea
- - Sivertson, Dailene
  - Smith, Heather
  - Streifel, Tracy
  - Strong, Heather

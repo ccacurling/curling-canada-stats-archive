@@ -4,18 +4,18 @@ name: Shona Barbour
 name-sort: Barbour, Shona
 totals:
  - event: Hearts
-   games: 47
-   wins: 14
-   losses: 33
-   inturn-total: 529
-   inturn-percent: 81
-   outturn-total: 358
-   outturn-percent: 74
-   draw-total: 637
+   games: 54
+   wins: 16
+   losses: 38
+   inturn-total: 635
+   inturn-percent: 80
+   outturn-total: 378
+   outturn-percent: 75
+   draw-total: 738
    draw-percent: 80
-   takeout-total: 250
-   takeout-percent: 74
-   shots-total: 887
+   takeout-total: 275
+   takeout-percent: 73
+   shots-total: 1013
    shots-percent: 78
 years:
  - year: 2005
@@ -195,6 +195,23 @@ years:
    takeout-percent: 83
    shots-total: 128
    shots-percent: 80
+ - year: 2020
+   event: Hearts
+   team: "NT"
+   position: Lead
+   games: 7
+   wins: 2
+   losses: 5
+   inturn-total: 106
+   inturn-percent: 76
+   outturn-total: 20
+   outturn-percent: 84
+   draw-total: 101
+   draw-percent: 81
+   takeout-total: 25
+   takeout-percent: 63
+   shots-total: 126
+   shots-percent: 77
 vs:
  - Adams, Melissa
  - Aleksic, Shannon
@@ -216,17 +233,21 @@ vs:
  - Black, Christina
  - Blais, Amelie
  - Brassard, Veronique
+ - Brown, Corryn
  - Brown, Jacalyn
  - Campbell, Jolene
  - Carter, Sasha
  - Christianson, Marie
+ - Courtney, Joanne
  - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
+ - Curtis, Erica
  - Curtis, Stacie
  - Darbyshire, Carolyn
  - deSolla, Jodie
+ - Devereaux, Julie
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
@@ -244,7 +265,7 @@ vs:
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gates, Amanda
- - Gates, Jenny
+ - Gates, Jennifer
  - George, Tara
  - Gilman, Sheena
  - Goss, Peg
@@ -253,6 +274,7 @@ vs:
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Harmark, Andra
+ - Hawes, Dezaray
  - Holland, Amber
  - Homan, Rachel
  - Hughes, Meaghan
@@ -265,15 +287,18 @@ vs:
  - Kasner, Marliese
  - Kidd, Darlene
  - Kleibrink, Shannon
+ - Klymchuk, Ashley
  - Korab, Stephanie
  - Korchinski, Karlee
  - Kreviazuk, Alison
+ - Kreviazuk, Cheryl
  - Lang, Lorraine
  - Larouche, Marie-France
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lemay, Annie
  - Lister, Kendra
+ - Logan, Emma
  - Lowther, Tammi
  - MacCuish, Kristin
  - MacDonald, Rebecca Jean
@@ -305,6 +330,10 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pewarchuk, Dailene
+ - Pincott, Erin
+ - Plonka, Gabrielle
+ - Porter, Erin
  - Price, Kara
  - Richards, Brette
  - Robertson, Darcy
@@ -320,7 +349,6 @@ vs:
  - Silvernagle, Robyn
  - Simmons, Cindy
  - Singler, Sherri
- - Sivertson, Dailene
  - Slywka, Sarah
  - Smallwood, Jody
  - Smith, Heather
@@ -331,6 +359,7 @@ vs:
  - Strong, Laura
  - Thevenot, Kara
  - Thomas, Jill
+ - Tuor, Kimberly
  - Udle, Teri
  - Vey, Lana
  - Wall, Kirsten

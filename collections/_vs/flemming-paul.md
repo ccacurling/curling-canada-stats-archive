@@ -30,6 +30,34 @@ vs:
     year: 2011
     draw: Round Robin(17)
     score: BC 5 - NS 6
+- name: Forrest, Alex
+  totals:
+  - event: Brier
+    player1:
+      percent: 88
+      wins: 0
+      losses: 1
+    player2:
+      percent: 81
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: NS
+      position: Third
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: MB
+      position: Third
+      percent: 81
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(13)
+    score: NS 7 - MB 9
 - name: Frans, Joe
   totals:
   - event: Brier
@@ -206,12 +234,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 70
+      percent: 74
       wins: 0
-      losses: 2
+      losses: 3
     player2:
       percent: 86
-      wins: 2
+      wins: 3
       losses: 0
   games:
   - player1:
@@ -246,6 +274,22 @@ vs:
     year: 2018
     draw: Round Robin(10)
     score: NS 5 - CA 9
+  - player1:
+      team: NS
+      position: Third
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: NL
+      position: Second
+      percent: 85
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(4)
+    score: NL 5 - NS 2
 - name: Gallant, Peter
   totals:
   - event: Brier
@@ -611,16 +655,44 @@ vs:
     year: 1999
     draw: Round Robin(15)
     score: NS 7 - BC 6
+- name: Gunnlaugson, Jason
+  totals:
+  - event: Brier
+    player1:
+      percent: 88
+      wins: 0
+      losses: 1
+    player2:
+      percent: 90
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: NS
+      position: Third
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: MB
+      position: Fourth
+      percent: 90
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(13)
+    score: NS 7 - MB 9
 - name: Gushue, Brad
   totals:
   - event: Brier
     player1:
-      percent: 75
+      percent: 76
       wins: 1
-      losses: 3
+      losses: 4
     player2:
-      percent: 87
-      wins: 3
+      percent: 88
+      wins: 4
       losses: 1
   - event: Trials(Men)
     player1:
@@ -696,6 +768,22 @@ vs:
     year: 2018
     draw: Round Robin(10)
     score: NS 5 - CA 9
+  - player1:
+      team: NS
+      position: Third
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: NL
+      position: Fourth
+      percent: 93
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(4)
+    score: NL 5 - NS 2
   - player1:
       team: ADA
       position: Third
@@ -858,10 +946,10 @@ vs:
     player1:
       percent: 84
       wins: 1
-      losses: 2
+      losses: 3
     player2:
-      percent: 84
-      wins: 2
+      percent: 85
+      wins: 3
       losses: 1
   games:
   - player1:
@@ -912,16 +1000,32 @@ vs:
     year: 2018
     draw: Pool(15)
     score: NO 6 - NS 4
+  - player1:
+      team: NS
+      position: Third
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: 'NO'
+      position: Second
+      percent: 88
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(11)
+    score: NS 2 - NO 6
 - name: Harnden, Ryan
   totals:
   - event: Brier
     player1:
       percent: 84
       wins: 1
-      losses: 2
+      losses: 3
     player2:
-      percent: 79
-      wins: 2
+      percent: 81
+      wins: 3
       losses: 1
   games:
   - player1:
@@ -972,6 +1076,22 @@ vs:
     year: 2018
     draw: Pool(15)
     score: NO 6 - NS 4
+  - player1:
+      team: NS
+      position: Third
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: 'NO'
+      position: Lead
+      percent: 88
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(11)
+    score: NS 2 - NO 6
 - name: Hart, Richard
   totals:
   - event: Brier
@@ -1145,6 +1265,34 @@ vs:
     year: 2001
     draw: Round Robin(9)
     score: QC 8 - NS 2
+- name: Higgs, Jake
+  totals:
+  - event: Brier
+    player1:
+      percent: 84
+      wins: 1
+      losses: 0
+    player2:
+      percent: 78
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: NS
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: NU
+      position: Fourth
+      percent: 78
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(7)
+    score: NU 4 - NS 7
 - name: Hodgson, Colin
   totals:
   - event: Brier
@@ -1513,10 +1661,10 @@ vs:
     player1:
       percent: 84
       wins: 1
-      losses: 2
+      losses: 3
     player2:
-      percent: 83
-      wins: 2
+      percent: 86
+      wins: 3
       losses: 1
   games:
   - player1:
@@ -1567,6 +1715,22 @@ vs:
     year: 2018
     draw: Pool(15)
     score: NO 6 - NS 4
+  - player1:
+      team: NS
+      position: Third
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: 'NO'
+      position: Fourth
+      percent: 97
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(11)
+    score: NS 2 - NO 6
 - name: Jakubo, Mike
   totals:
   - event: Brier
@@ -1767,12 +1931,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 76
+      percent: 79
       wins: 0
-      losses: 2
+      losses: 3
     player2:
-      percent: 96
-      wins: 2
+      percent: 93
+      wins: 3
       losses: 0
   - event: Trials(Men)
     player1:
@@ -1816,6 +1980,22 @@ vs:
     year: 2013
     draw: Round Robin(9)
     score: AB 9 - NS 3
+  - player1:
+      team: NS
+      position: Third
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: 'NO'
+      position: Third
+      percent: 88
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(11)
+    score: NS 2 - NO 6
   - player1:
       team: ADA
       position: Third
@@ -1992,6 +2172,34 @@ vs:
     year: 2018
     draw: Round Robin(8)
     score: NT 7 - NS 3
+- name: Kohlenberg, Dale
+  totals:
+  - event: Brier
+    player1:
+      percent: 84
+      wins: 1
+      losses: 0
+    player2:
+      percent: 69
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: NS
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: NU
+      position: Second
+      percent: 69
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(7)
+    score: NU 4 - NS 7
 - name: Kopf, Steve
   totals:
   - event: Brier
@@ -2358,6 +2566,34 @@ vs:
     year: 2013
     draw: Round Robin(16)
     score: NS 4 - PE 5
+- name: Lequin, Bradley
+  totals:
+  - event: Brier
+    player1:
+      percent: 82
+      wins: 1
+      losses: 0
+    player2:
+      percent: 64
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: NS
+      position: Third
+      percent: 82
+      win: 1
+      loss: 0
+    player2:
+      team: QC
+      position: Lead
+      percent: 64
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(1)
+    score: QC 3 - NS 10
 - name: Loevenmark, Phil
   totals:
   - event: Brier
@@ -2414,6 +2650,34 @@ vs:
     year: 1999
     draw: Round Robin(14)
     score: NO 3 - NS 5
+- name: MacAulay, Ian
+  totals:
+  - event: Brier
+    player1:
+      percent: 92
+      wins: 1
+      losses: 0
+    player2:
+      percent: 89
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: NS
+      position: Third
+      percent: 92
+      win: 1
+      loss: 0
+    player2:
+      team: PE
+      position: Third
+      percent: 89
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(6)
+    score: NS 11 - PE 2
 - name: MacDonald, Blake
   totals:
   - event: Brier
@@ -2470,6 +2734,34 @@ vs:
     year: 1999
     draw: Round Robin(17)
     score: AB 10 - NS 5
+- name: MacDonald, Edmund
+  totals:
+  - event: Brier
+    player1:
+      percent: 84
+      wins: 1
+      losses: 0
+    player2:
+      percent: 66
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: NS
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: NU
+      position: Lead
+      percent: 66
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(7)
+    score: NU 4 - NS 7
 - name: MacDonald, Peter
   totals:
   - event: Brier
@@ -2658,12 +2950,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 88
+      percent: 86
       wins: 1
-      losses: 1
+      losses: 2
     player2:
-      percent: 88
-      wins: 1
+      percent: 92
+      wins: 2
       losses: 1
   games:
   - player1:
@@ -2698,6 +2990,22 @@ vs:
     year: 2018
     draw: Round Robin(2)
     score: NS 7 - AB 6
+  - player1:
+      team: NS
+      position: Third
+      percent: 81
+      win: 0
+      loss: 1
+    player2:
+      team: AB
+      position: Lead
+      percent: 98
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(10)
+    score: AB 6 - NS 2
 - name: Martin, Kevin
   totals:
   - event: Brier
@@ -3776,12 +4084,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 90
+      percent: 86
       wins: 1
-      losses: 0
+      losses: 1
     player2:
-      percent: 80
-      wins: 0
+      percent: 86
+      wins: 1
       losses: 1
   games:
   - player1:
@@ -3800,6 +4108,22 @@ vs:
     year: 2018
     draw: Round Robin(2)
     score: NS 7 - AB 6
+  - player1:
+      team: NS
+      position: Third
+      percent: 81
+      win: 0
+      loss: 1
+    player2:
+      team: AB
+      position: Third
+      percent: 95
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(10)
+    score: AB 6 - NS 2
 - name: Muyres, Dallan
   totals:
   - event: Brier
@@ -4205,12 +4529,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 77
+      percent: 78
       wins: 1
-      losses: 3
+      losses: 4
     player2:
       percent: 88
-      wins: 3
+      wins: 4
       losses: 1
   - event: Trials(Men)
     player1:
@@ -4287,6 +4611,22 @@ vs:
     draw: Round Robin(10)
     score: NS 5 - CA 9
   - player1:
+      team: NS
+      position: Third
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: NL
+      position: Third
+      percent: 86
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(4)
+    score: NL 5 - NS 2
+  - player1:
       team: ADA
       position: Third
       percent: 88
@@ -4302,6 +4642,34 @@ vs:
     year: 2005
     draw: Round Robin(4)
     score: GUS 10 - ADA 7
+- name: Njegovan, Connor
+  totals:
+  - event: Brier
+    player1:
+      percent: 88
+      wins: 0
+      losses: 1
+    player2:
+      percent: 85
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: NS
+      position: Third
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: MB
+      position: Lead
+      percent: 85
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(13)
+    score: NS 7 - MB 9
 - name: Nobert, Rob
   totals:
   - event: Brier
@@ -4390,13 +4758,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 80
-      wins: 1
+      percent: 84
+      wins: 2
       losses: 1
     player2:
-      percent: 88
+      percent: 92
       wins: 1
-      losses: 1
+      losses: 2
   games:
   - player1:
       team: NS
@@ -4430,6 +4798,22 @@ vs:
     year: 2001
     draw: Round Robin(17)
     score: PE 7 - NS 5
+  - player1:
+      team: NS
+      position: Third
+      percent: 92
+      win: 1
+      loss: 0
+    player2:
+      team: PE
+      position: Lead
+      percent: 98
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(6)
+    score: NS 11 - PE 2
 - name: Ouimet, Luc
   totals:
   - event: Brier
@@ -4823,6 +5207,34 @@ vs:
     year: 1998
     draw: Round Robin(7)
     score: NS 7 - NL 6
+- name: Quevillon, Louis
+  totals:
+  - event: Brier
+    player1:
+      percent: 82
+      wins: 1
+      losses: 0
+    player2:
+      percent: 69
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: NS
+      position: Third
+      percent: 82
+      win: 1
+      loss: 0
+    player2:
+      team: QC
+      position: Third
+      percent: 69
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(1)
+    score: QC 3 - NS 10
 - name: Rajala, Howard
   totals:
   - event: Brier
@@ -6278,12 +6690,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 90
+      percent: 86
       wins: 1
-      losses: 0
+      losses: 1
     player2:
-      percent: 81
-      wins: 0
+      percent: 85
+      wins: 1
       losses: 1
   games:
   - player1:
@@ -6302,6 +6714,22 @@ vs:
     year: 2018
     draw: Round Robin(2)
     score: NS 7 - AB 6
+  - player1:
+      team: NS
+      position: Third
+      percent: 81
+      win: 0
+      loss: 1
+    player2:
+      team: AB
+      position: Second
+      percent: 91
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(10)
+    score: AB 6 - NS 2
 - name: Thomson, Fred
   totals:
   - event: Brier
@@ -6502,12 +6930,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 70
+      percent: 74
       wins: 0
-      losses: 2
+      losses: 3
     player2:
-      percent: 87
-      wins: 2
+      percent: 88
+      wins: 3
       losses: 0
   games:
   - player1:
@@ -6542,6 +6970,22 @@ vs:
     year: 2018
     draw: Round Robin(10)
     score: NS 5 - CA 9
+  - player1:
+      team: NS
+      position: Third
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: NL
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(4)
+    score: NL 5 - NS 2
 - name: Wasnea, Brian
   totals:
   - event: Brier
@@ -6654,6 +7098,34 @@ vs:
     year: 2001
     draw: Round Robin(9)
     score: QC 8 - NS 2
+- name: Wettig, Sheldon
+  totals:
+  - event: Brier
+    player1:
+      percent: 84
+      wins: 1
+      losses: 0
+    player2:
+      percent: 66
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: NS
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: NU
+      position: Third
+      percent: 66
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(7)
+    score: NU 4 - NS 7
 - name: Whitehead, Mark
   totals:
   - event: Brier

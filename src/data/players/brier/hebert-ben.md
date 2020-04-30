@@ -4,18 +4,18 @@ name: Ben Hebert
 name-sort: Hebert, Ben
 totals:
  - event: Brier
-   games: 134
-   wins: 99
-   losses: 35
-   inturn-total: 620
+   games: 146
+   wins: 106
+   losses: 40
+   inturn-total: 639
    inturn-percent: 87
-   outturn-total: 1789
+   outturn-total: 1982
    outturn-percent: 91
-   draw-total: 2099
+   draw-total: 2294
    draw-percent: 92
-   takeout-total: 310
-   takeout-percent: 78
-   shots-total: 2409
+   takeout-total: 327
+   takeout-percent: 79
+   shots-total: 2621
    shots-percent: 90
 years:
  - year: 2005
@@ -238,6 +238,23 @@ years:
    takeout-percent: 79
    shots-total: 225
    shots-percent: 92
+ - year: 2020
+   event: Brier
+   team: "CA"
+   position: Lead
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 19
+   inturn-percent: 88
+   outturn-total: 193
+   outturn-percent: 94
+   draw-total: 195
+   draw-percent: 93
+   takeout-total: 17
+   takeout-percent: 90
+   shots-total: 212
+   shots-percent: 93
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -288,10 +305,12 @@ vs:
  - Dobson, Mark
  - Dobson, Paul
  - Doherty, Robert
+ - Dunstone, Matthew
  - Dutiaume, Randy
  - Eldridge, Zach
  - Elias, Dave
  - Elmaleh, Maxime
+ - Epping, John
  - Errington, Derek
  - Ferbey, Randy
  - Ferland, Martin
@@ -301,6 +320,7 @@ vs:
  - Flemming, Paul
  - Folk, Kevin
  - Forget, Wes
+ - Forrest, Alex
  - Fowler, Rob
  - Frans, Joe
  - Fraser, Pierre
@@ -321,6 +341,7 @@ vs:
  - Granchelli, Kris
  - Grattan, James
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, Al
  - Harnden, E.J.
@@ -341,6 +362,7 @@ vs:
  - Jakomait, Dusty
  - Jakubo, Mike
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Jewer, Keith
  - Joanisse, Dean
  - Johnson, Bill
@@ -350,6 +372,7 @@ vs:
  - Kammerlock, Dan
  - Kean, Mark
  - Kehoe, Mark
+ - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
  - Kilgallen, Shane
@@ -381,9 +404,11 @@ vs:
  - Maskiewich, Ken
  - Mathers, David
  - Mawhinney, Spencer
+ - McCann, Andy
  - McCarrel, Graeme
  - McDonald, Scott
  - McEwen, Mike
+ - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Mead, Jonathan
  - Melnichuk, Greg
@@ -401,10 +426,12 @@ vs:
  - Naugler, Tom
  - Nedohin, David
  - Nelson, Randy
+ - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
  - Ng, Matt
  - Nichols, Mark
+ - Njegovan, Connor
  - Nobert, Rob
  - Noftall, David
  - Odishaw, Grant
@@ -438,6 +465,7 @@ vs:
  - Schille, Chris
  - Schmidt, Aryn
  - Schneider, Catlin
+ - Scoffin, Thomas
  - Scoffin, Wade
  - Seabrook, Matt
  - Seabrook, Scott
@@ -465,10 +493,12 @@ vs:
  - Virtue, Brock
  - Walchuk, Don
  - Walker, Geoff
+ - Wallingham, Joe
  - Watson, Aaron
  - Whitehead, Kevin
  - Whitehead, Mark
  - Windsor, Brian
+ - Winfield, Brett
  - Wood, Mike
  - Wozniak, Matt
 ---

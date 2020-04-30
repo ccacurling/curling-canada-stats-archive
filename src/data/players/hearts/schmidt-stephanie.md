@@ -4,18 +4,18 @@ name: Stephanie Schmidt
 name-sort: Schmidt, Stephanie
 totals:
  - event: Hearts
-   games: 15
+   games: 17
    wins: 10
-   losses: 5
-   inturn-total: 139
+   losses: 7
+   inturn-total: 147
    inturn-percent: 83
-   outturn-total: 135
+   outturn-total: 141
    outturn-percent: 82
-   draw-total: 98
-   draw-percent: 83
-   takeout-total: 176
+   draw-total: 111
+   draw-percent: 82
+   takeout-total: 177
    takeout-percent: 83
-   shots-total: 274
+   shots-total: 288
    shots-percent: 83
 years:
  - year: 2014
@@ -52,10 +52,28 @@ years:
    takeout-percent: 82
    shots-total: 272
    shots-percent: 83
+ - year: 2020
+   event: Hearts
+   team: "SK"
+   position: Second
+   games: 2
+   wins: 0
+   losses: 2
+   inturn-total: 8
+   inturn-percent: 75
+   outturn-total: 6
+   outturn-percent: 92
+   draw-total: 13
+   draw-percent: 81
+   takeout-total: 1
+   takeout-percent: 100
+   shots-total: 14
+   shots-percent: 82
 vs:
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Baxter, Jen
+ - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
@@ -69,6 +87,7 @@ vs:
  - Crawford, Andrea
  - Cunningham, Jessica
  - deSolla, Jodie
+ - Einarson, Kerri
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Fleury, Tracy
@@ -83,6 +102,7 @@ vs:
  - McEwen, Dawn
  - McInnis, Susan
  - McQuaid, Michelle
+ - Meilleur, Briane
  - Miskew, Emma
  - Officer, Jill
  - Olson-Johns, Lori

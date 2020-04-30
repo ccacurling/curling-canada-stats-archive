@@ -3,3343 +3,3343 @@ title: Diane Alexander Head-to-head
 name: Alexander, Diane
 vs:
  - name: Allardyce, Kathie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 72
-        wins: 0
-        losses: 1
-      player2:
-        percent: 71
-        wins: 1
-        losses: 0
+   totals:                
+    - event: Hearts       
+      player1:            
+        percent: 72       
+        wins: 0           
+        losses: 1         
+      player2:            
+        percent: 71       
+        wins: 1           
+        losses: 0         
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 72
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
+        percent: 72     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'MB'      
         position: Fourth
-        percent: 71
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1991
+        percent: 71     
+        win: 1          
+        loss: 0         
+      event: Hearts        
+      year: 1991           
       draw: Round Robin(13)
-      score: MB 8 - AB 2
+      score: MB 8 - AB 2   
  - name: Anderson, Kelly
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 0
-        losses: 1
-      player2:
-        percent: 57
-        wins: 1
-        losses: 0
+   totals:              
+    - event: Hearts     
+      player1:          
+        percent: 81     
+        wins: 0         
+        losses: 1       
+      player2:          
+        percent: 57     
+        wins: 1         
+        losses: 0       
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'NS'
+        percent: 81     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'NS'    
         position: Lead
-        percent: 57
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1989
+        percent: 57   
+        win: 1        
+        loss: 0       
+      event: Hearts        
+      year: 1989           
       draw: Round Robin(10)
-      score: NS 8 - AB 2
+      score: NS 8 - AB 2   
  - name: Aucoin, Shelley
-   totals:
-    - event: Hearts
-      player1:
-        percent: 59
-        wins: 1
-        losses: 0
-      player2:
-        percent: 51
-        wins: 0
-        losses: 1
+   totals:              
+    - event: Hearts     
+      player1:          
+        percent: 59     
+        wins: 1         
+        losses: 0       
+      player2:          
+        percent: 51     
+        wins: 0         
+        losses: 1       
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 59
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
+        percent: 59     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'TR'      
         position: Second
-        percent: 51
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 51     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(2)
-      score: TR 4 - AB 8
+      score: TR 4 - AB 8  
  - name: Bartlett, Sue Anne
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 1
-        losses: 0
-      player2:
-        percent: 70
-        wins: 0
-        losses: 1
+   totals:                 
+    - event: Hearts        
+      player1:             
+        percent: 76        
+        wins: 1            
+        losses: 0          
+      player2:             
+        percent: 70        
+        wins: 0            
+        losses: 1          
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 76
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
+        percent: 76     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NL'      
         position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 70     
+        win: 0          
+        loss: 1         
+      event: Hearts        
+      year: 1990           
       draw: Round Robin(14)
-      score: NL 6 - AB 7
+      score: NL 6 - AB 7   
  - name: Betker, Jan
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 1
-        losses: 1
-      player2:
-        percent: 79
-        wins: 1
-        losses: 1
+   totals:          
+    - event: Hearts 
+      player1:      
+        percent: 81 
+        wins: 1     
+        losses: 1   
+      player2:      
+        percent: 79 
+        wins: 1     
+        losses: 1   
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
+        percent: 78     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'SK'     
         position: Third
-        percent: 76
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 76    
+        win: 0         
+        loss: 1        
+      event: Hearts        
+      year: 1991           
       draw: Round Robin(12)
-      score: AB 7 - SK 4
-    - player1:
-        team: 'AB'
+      score: AB 7 - SK 4   
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
+        percent: 85     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'SK'     
         position: Third
-        percent: 81
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1991
-      draw: Playoff(16)
+        percent: 81    
+        win: 1         
+        loss: 0        
+      event: Hearts     
+      year: 1991        
+      draw: Playoff(16) 
       score: AB 3 - SK 6
  - name: Blanchard, Judy
-   totals:
-    - event: Hearts
-      player1:
-        percent: 56
-        wins: 1
-        losses: 1
-      player2:
-        percent: 86
-        wins: 1
-        losses: 1
+   totals:              
+    - event: Hearts     
+      player1:          
+        percent: 56     
+        wins: 1         
+        losses: 1       
+      player2:          
+        percent: 86     
+        wins: 1         
+        losses: 1       
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 64
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
+        percent: 64     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'NB'    
         position: Lead
-        percent: 93
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 93   
+        win: 0        
+        loss: 1       
+      event: Hearts        
+      year: 1989           
       draw: Round Robin(13)
-      score: AB 8 - NB 5
-    - player1:
-        team: 'AB'
+      score: AB 8 - NB 5   
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 45
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
+        percent: 45     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'NB'    
         position: Lead
-        percent: 77
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1990
+        percent: 77   
+        win: 1        
+        loss: 0       
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(5)
-      score: NB 11 - AB 0
+      score: NB 11 - AB 0 
  - name: Brown, Katie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 64
-        wins: 1
-        losses: 1
-      player2:
-        percent: 70
-        wins: 1
-        losses: 1
+   totals:           
+    - event: Hearts  
+      player1:       
+        percent: 64  
+        wins: 1      
+        losses: 1    
+      player2:       
+        percent: 70  
+        wins: 1      
+        losses: 1    
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 65
-        win: 0
-        loss: 1
-      player2:
-        team: 'QC'
+        percent: 65     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'QC'     
         position: Third
-        percent: 74
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1990
+        percent: 74    
+        win: 1         
+        loss: 0        
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(9)
-      score: QC 5 - AB 3
-    - player1:
-        team: 'AB'
+      score: QC 5 - AB 3  
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 63
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
+        percent: 63     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'QC'     
         position: Third
-        percent: 63
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 63    
+        win: 0         
+        loss: 1        
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(4)
-      score: QC 1 - AB 13
+      score: QC 1 - AB 13 
  - name: Cameron, Nancy
-   totals:
-    - event: Hearts
-      player1:
-        percent: 64
-        wins: 1
-        losses: 0
-      player2:
-        percent: 57
-        wins: 0
-        losses: 1
+   totals:             
+    - event: Hearts    
+      player1:         
+        percent: 64    
+        wins: 1        
+        losses: 0      
+      player2:         
+        percent: 57    
+        wins: 0        
+        losses: 1      
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 64
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
+        percent: 64     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'NS'    
         position: Lead
-        percent: 57
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 57   
+        win: 0        
+        loss: 1       
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(7)
-      score: AB 5 - NS 4
+      score: AB 5 - NS 4  
  - name: Carter, Linda
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 1
-        losses: 0
-      player2:
-        percent: 57
-        wins: 0
-        losses: 1
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 86   
+        wins: 1       
+        losses: 0     
+      player2:        
+        percent: 57   
+        wins: 0       
+        losses: 1     
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
+        percent: 86     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'TR'      
         position: Second
-        percent: 57
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 57     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(7)
-      score: TR 5 - AB 6
+      score: TR 5 - AB 6  
  - name: Chapman, Kathy
-   totals:
-    - event: Hearts
-      player1:
-        percent: 60
-        wins: 1
-        losses: 0
-      player2:
-        percent: 58
-        wins: 0
-        losses: 1
+   totals:             
+    - event: Hearts    
+      player1:         
+        percent: 60    
+        wins: 1        
+        losses: 0      
+      player2:         
+        percent: 58    
+        wins: 0        
+        losses: 1      
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 60
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
+        percent: 60     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'TR'      
         position: Fourth
-        percent: 58
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 58     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(1)
-      score: TR 3 - AB 8
+      score: TR 3 - AB 8  
  - name: Charette, Agnes
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 0
-        losses: 1
-      player2:
-        percent: 66
-        wins: 1
-        losses: 0
+   totals:              
+    - event: Hearts     
+      player1:          
+        percent: 79     
+        wins: 0         
+        losses: 1       
+      player2:          
+        percent: 66     
+        wins: 1         
+        losses: 0       
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'QC'
+        percent: 79     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'QC'      
         position: Fourth
-        percent: 66
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1989
+        percent: 66     
+        win: 1          
+        loss: 0         
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(1)
-      score: AB 3 - QC 6
+      score: AB 3 - QC 6  
  - name: Charette, France
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 0
-        losses: 1
-      player2:
-        percent: 73
-        wins: 1
-        losses: 0
+   totals:               
+    - event: Hearts      
+      player1:           
+        percent: 79      
+        wins: 0          
+        losses: 1        
+      player2:           
+        percent: 73      
+        wins: 1          
+        losses: 0        
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'QC'
+        percent: 79     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'QC'      
         position: Second
-        percent: 73
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1989
+        percent: 73     
+        win: 1          
+        loss: 0         
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(1)
-      score: AB 3 - QC 6
+      score: AB 3 - QC 6  
  - name: Chaulk, Wendy
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 1
-        losses: 0
-      player2:
-        percent: 68
-        wins: 0
-        losses: 1
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 76   
+        wins: 1       
+        losses: 0     
+      player2:        
+        percent: 68   
+        wins: 0       
+        losses: 1     
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 76
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
+        percent: 76     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'NL'    
         position: Lead
-        percent: 68
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 68   
+        win: 0        
+        loss: 1       
+      event: Hearts        
+      year: 1990           
       draw: Round Robin(14)
-      score: NL 6 - AB 7
+      score: NL 6 - AB 7   
  - name: Chicoine, Helene
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 0
-        losses: 1
-      player2:
-        percent: 76
-        wins: 1
-        losses: 0
+   totals:               
+    - event: Hearts      
+      player1:           
+        percent: 79      
+        wins: 0          
+        losses: 1        
+      player2:           
+        percent: 76      
+        wins: 1          
+        losses: 0        
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'QC'
+        percent: 79     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'QC'    
         position: Lead
-        percent: 76
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1989
+        percent: 76   
+        win: 1        
+        loss: 0       
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(1)
-      score: AB 3 - QC 6
+      score: AB 3 - QC 6  
  - name: Cunningham, Cathy
-   totals:
-    - event: Hearts
-      player1:
-        percent: 71
-        wins: 1
-        losses: 0
-      player2:
-        percent: 51
-        wins: 0
-        losses: 1
+   totals:                
+    - event: Hearts       
+      player1:            
+        percent: 71       
+        wins: 1           
+        losses: 0         
+      player2:            
+        percent: 51       
+        wins: 0           
+        losses: 1         
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 71
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
+        percent: 71     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NL'      
         position: Fourth
-        percent: 51
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 51     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(1)
-      score: AB 5 - NL 4
+      score: AB 5 - NL 4  
  - name: Davis, Carol
-   totals:
-    - event: Hearts
-      player1:
-        percent: 70
-        wins: 0
-        losses: 1
-      player2:
-        percent: 57
-        wins: 1
-        losses: 0
+   totals:           
+    - event: Hearts  
+      player1:       
+        percent: 70  
+        wins: 0      
+        losses: 1    
+      player2:       
+        percent: 57  
+        wins: 1      
+        losses: 0    
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
+        percent: 70     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'ON'      
         position: Second
-        percent: 57
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1989
+        percent: 57     
+        win: 1          
+        loss: 0         
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(3)
-      score: AB 6 - ON 8
+      score: AB 6 - ON 8  
  - name: Deschatelets, Guylaine
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 0
-        losses: 1
-      player2:
-        percent: 69
-        wins: 1
-        losses: 0
+   totals:                     
+    - event: Hearts            
+      player1:                 
+        percent: 79            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 69            
+        wins: 1                
+        losses: 0              
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'QC'
+        percent: 79     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'QC'     
         position: Third
-        percent: 69
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1989
+        percent: 69    
+        win: 1         
+        loss: 0        
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(1)
-      score: AB 3 - QC 6
+      score: AB 3 - QC 6  
  - name: Dolan, Kim
-   totals:
+   totals:         
     - event: Hearts
-      player1:
+      player1:     
         percent: 60
-        wins: 1
-        losses: 0
-      player2:
+        wins: 1    
+        losses: 0  
+      player2:     
         percent: 56
-        wins: 0
-        losses: 1
+        wins: 0    
+        losses: 1  
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 60
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
+        percent: 60     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'PE'      
         position: Fourth
-        percent: 56
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 56     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(7)
-      score: AB 6 - PE 3
+      score: AB 6 - PE 3  
  - name: Dwyer, Patricia
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 1
-        losses: 0
-      player2:
-        percent: 70
-        wins: 0
-        losses: 1
+   totals:              
+    - event: Hearts     
+      player1:          
+        percent: 76     
+        wins: 1         
+        losses: 0       
+      player2:          
+        percent: 70     
+        wins: 0         
+        losses: 1       
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 76
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
+        percent: 76     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'NL'     
         position: Third
-        percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 70    
+        win: 0         
+        loss: 1        
+      event: Hearts        
+      year: 1990           
       draw: Round Robin(14)
-      score: NL 6 - AB 7
+      score: NL 6 - AB 7   
  - name: Ellwood, Laurie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 72
-        wins: 0
-        losses: 1
-      player2:
-        percent: 73
-        wins: 1
-        losses: 0
+   totals:              
+    - event: Hearts     
+      player1:          
+        percent: 72     
+        wins: 0         
+        losses: 1       
+      player2:          
+        percent: 73     
+        wins: 1         
+        losses: 0       
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 72
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
+        percent: 72     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'MB'      
         position: Second
-        percent: 73
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1991
+        percent: 73     
+        win: 1          
+        loss: 0         
+      event: Hearts        
+      year: 1991           
       draw: Round Robin(13)
-      score: MB 8 - AB 2
+      score: MB 8 - AB 2   
  - name: Englot, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 80
-        wins: 1
-        losses: 1
-      player2:
-        percent: 72
-        wins: 1
-        losses: 1
+   totals:               
+    - event: Hearts      
+      player1:           
+        percent: 80      
+        wins: 1          
+        losses: 1        
+      player2:           
+        percent: 72      
+        wins: 1          
+        losses: 1        
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
+        percent: 85     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'SK'      
         position: Fourth
-        percent: 74
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1989
+        percent: 74     
+        win: 1          
+        loss: 0         
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(5)
-      score: SK 7 - AB 6
-    - player1:
-        team: 'AB'
+      score: SK 7 - AB 6  
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
+        percent: 75     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'SK'      
         position: Fourth
-        percent: 71
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 71     
+        win: 0          
+        loss: 1         
+      event: Hearts        
+      year: 1990           
       draw: Round Robin(15)
-      score: SK 5 - AB 6
+      score: SK 5 - AB 6   
  - name: Fahlman, Kathy
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 1
-        losses: 0
-      player2:
-        percent: 64
-        wins: 0
-        losses: 1
+   totals:             
+    - event: Hearts    
+      player1:         
+        percent: 75    
+        wins: 1        
+        losses: 0      
+      player2:         
+        percent: 64    
+        wins: 0        
+        losses: 1      
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
+        percent: 75     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'SK'     
         position: Third
-        percent: 64
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 64    
+        win: 0         
+        loss: 1        
+      event: Hearts        
+      year: 1990           
       draw: Round Robin(15)
-      score: SK 5 - AB 6
+      score: SK 5 - AB 6   
  - name: Floyd, Kathy
-   totals:
-    - event: Hearts
-      player1:
-        percent: 57
-        wins: 1
-        losses: 2
-      player2:
-        percent: 71
-        wins: 2
-        losses: 1
+   totals:           
+    - event: Hearts  
+      player1:       
+        percent: 57  
+        wins: 1      
+        losses: 2    
+      player2:       
+        percent: 71  
+        wins: 2      
+        losses: 1    
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 64
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
+        percent: 64     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'NB'     
         position: Third
-        percent: 71
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 71    
+        win: 0         
+        loss: 1        
+      event: Hearts        
+      year: 1989           
       draw: Round Robin(13)
-      score: AB 8 - NB 5
-    - player1:
-        team: 'AB'
+      score: AB 8 - NB 5   
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 45
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
+        percent: 45     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'NB'     
         position: Third
-        percent: 57
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1990
+        percent: 57    
+        win: 1         
+        loss: 0        
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(5)
-      score: NB 11 - AB 0
-    - player1:
-        team: 'AB'
+      score: NB 11 - AB 0 
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 59
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
+        percent: 59     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'NB'     
         position: Third
-        percent: 78
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1991
+        percent: 78    
+        win: 1         
+        loss: 0        
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(3)
-      score: AB 5 - NB 7
+      score: AB 5 - NB 7  
  - name: Gabriele, Elena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 65
-        wins: 0
-        losses: 1
-      player2:
-        percent: 63
-        wins: 1
-        losses: 0
+   totals:              
+    - event: Hearts     
+      player1:          
+        percent: 65     
+        wins: 0         
+        losses: 1       
+      player2:          
+        percent: 63     
+        wins: 1         
+        losses: 0       
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 65
-        win: 0
-        loss: 1
-      player2:
-        team: 'QC'
+        percent: 65     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'QC'    
         position: Lead
-        percent: 63
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1990
+        percent: 63   
+        win: 1        
+        loss: 0       
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(9)
-      score: QC 5 - AB 3
+      score: QC 5 - AB 3  
  - name: Gallant, Kathie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 74
-        wins: 1
-        losses: 0
-      player2:
-        percent: 58
-        wins: 0
-        losses: 1
+   totals:              
+    - event: Hearts     
+      player1:          
+        percent: 74     
+        wins: 1         
+        losses: 0       
+      player2:          
+        percent: 58     
+        wins: 0         
+        losses: 1       
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 74
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
+        percent: 74     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'PE'      
         position: Fourth
-        percent: 58
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 58     
+        win: 0          
+        loss: 1         
+      event: Hearts        
+      year: 1989           
       draw: Round Robin(14)
-      score: PE 4 - AB 9
+      score: PE 4 - AB 9   
  - name: Goring, Alison
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 1
-        losses: 1
-      player2:
-        percent: 71
-        wins: 1
-        losses: 1
+   totals:             
+    - event: Hearts    
+      player1:         
+        percent: 76    
+        wins: 1        
+        losses: 1      
+      player2:         
+        percent: 71    
+        wins: 1        
+        losses: 1      
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
+        percent: 79     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'ON'      
         position: Fourth
-        percent: 79
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1990
+        percent: 79     
+        win: 1          
+        loss: 0         
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(3)
-      score: ON 11 - AB 6
-    - player1:
-        team: 'AB'
+      score: ON 11 - AB 6 
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 73
-        win: 1
-        loss: 0
-      player2:
-        team: 'CA'
+        percent: 73     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'CA'      
         position: Fourth
-        percent: 63
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 63     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(8)
-      score: AB 8 - CA 2
+      score: AB 8 - CA 2  
  - name: Graham-MacDonald, Bea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 2
-        losses: 0
-      player2:
-        percent: 64
-        wins: 0
-        losses: 2
+   totals:                    
+    - event: Hearts           
+      player1:                
+        percent: 75           
+        wins: 2               
+        losses: 0             
+      player2:                
+        percent: 64           
+        wins: 0               
+        losses: 2             
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 74
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
+        percent: 74     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'PE'    
         position: Lead
-        percent: 74
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 74   
+        win: 0        
+        loss: 1       
+      event: Hearts        
+      year: 1989           
       draw: Round Robin(14)
-      score: PE 4 - AB 9
-    - player1:
-        team: 'AB'
+      score: PE 4 - AB 9   
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 76
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
+        percent: 76     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'PE'    
         position: Lead
-        percent: 55
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 55   
+        win: 0        
+        loss: 1       
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(6)
-      score: PE 4 - AB 7
+      score: PE 4 - AB 7  
  - name: Green, Sue
-   totals:
+   totals:         
     - event: Hearts
-      player1:
+      player1:     
         percent: 69
-        wins: 1
-        losses: 0
-      player2:
+        wins: 1    
+        losses: 0  
+      player2:     
         percent: 75
-        wins: 0
-        losses: 1
+        wins: 0    
+        losses: 1  
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 69
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
+        percent: 69     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'NS'    
         position: Lead
-        percent: 75
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 75   
+        win: 0        
+        loss: 1       
+      event: Hearts        
+      year: 1990           
       draw: Round Robin(13)
-      score: AB 6 - NS 5
+      score: AB 6 - NS 5   
  - name: Greenwood, Jill
-   totals:
-    - event: Hearts
-      player1:
-        percent: 70
-        wins: 0
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 0
+   totals:              
+    - event: Hearts     
+      player1:          
+        percent: 70     
+        wins: 0         
+        losses: 1       
+      player2:          
+        percent: 80     
+        wins: 1         
+        losses: 0       
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
+        percent: 70     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'ON'      
         position: Fourth
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1989
+        percent: 80     
+        win: 1          
+        loss: 0         
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(3)
-      score: AB 6 - ON 8
+      score: AB 6 - ON 8  
  - name: Gudereit, Marcia
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 1
-        losses: 1
-      player2:
-        percent: 88
-        wins: 1
-        losses: 1
+   totals:               
+    - event: Hearts      
+      player1:           
+        percent: 81      
+        wins: 1          
+        losses: 1        
+      player2:           
+        percent: 88      
+        wins: 1          
+        losses: 1        
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
+        percent: 78     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'SK'    
         position: Lead
-        percent: 88
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 88   
+        win: 0        
+        loss: 1       
+      event: Hearts        
+      year: 1991           
       draw: Round Robin(12)
-      score: AB 7 - SK 4
-    - player1:
-        team: 'AB'
+      score: AB 7 - SK 4   
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
+        percent: 85     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'SK'    
         position: Lead
-        percent: 89
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1991
-      draw: Playoff(16)
+        percent: 89   
+        win: 1        
+        loss: 0       
+      event: Hearts     
+      year: 1991        
+      draw: Playoff(16) 
       score: AB 3 - SK 6
  - name: Hanlon, Heidi
-   totals:
-    - event: Hearts
-      player1:
-        percent: 57
-        wins: 1
-        losses: 2
-      player2:
-        percent: 74
-        wins: 2
-        losses: 1
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 57   
+        wins: 1       
+        losses: 2     
+      player2:        
+        percent: 74   
+        wins: 2       
+        losses: 1     
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 64
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
+        percent: 64     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NB'      
         position: Fourth
-        percent: 89
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 89     
+        win: 0          
+        loss: 1         
+      event: Hearts        
+      year: 1989           
       draw: Round Robin(13)
-      score: AB 8 - NB 5
-    - player1:
-        team: 'AB'
+      score: AB 8 - NB 5   
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 45
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
+        percent: 45     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'NB'      
         position: Fourth
-        percent: 68
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1990
+        percent: 68     
+        win: 1          
+        loss: 0         
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(5)
-      score: NB 11 - AB 0
-    - player1:
-        team: 'AB'
+      score: NB 11 - AB 0 
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 59
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
+        percent: 59     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'NB'      
         position: Fourth
-        percent: 66
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1991
+        percent: 66     
+        win: 1          
+        loss: 0         
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(3)
-      score: AB 5 - NB 7
+      score: AB 5 - NB 7  
  - name: Harding, Mary
-   totals:
-    - event: Hearts
-      player1:
-        percent: 59
-        wins: 0
-        losses: 1
-      player2:
-        percent: 69
-        wins: 1
-        losses: 0
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 59   
+        wins: 0       
+        losses: 1     
+      player2:        
+        percent: 69   
+        wins: 1       
+        losses: 0     
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 59
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
+        percent: 59     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'NB'    
         position: Lead
-        percent: 69
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1991
+        percent: 69   
+        win: 1        
+        loss: 0       
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(3)
-      score: AB 5 - NB 7
+      score: AB 5 - NB 7  
  - name: Harvey, Janet
-   totals:
-    - event: Hearts
-      player1:
-        percent: 65
-        wins: 1
-        losses: 0
-      player2:
-        percent: 65
-        wins: 0
-        losses: 1
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 65   
+        wins: 1       
+        losses: 0     
+      player2:        
+        percent: 65   
+        wins: 0       
+        losses: 1     
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 65
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
+        percent: 65     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'MB'      
         position: Fourth
-        percent: 65
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 65     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(2)
-      score: AB 9 - MB 8
+      score: AB 9 - MB 8  
  - name: Hensley, Merna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 59
-        wins: 1
-        losses: 0
-      player2:
-        percent: 46
-        wins: 0
-        losses: 1
+   totals:             
+    - event: Hearts    
+      player1:         
+        percent: 59    
+        wins: 1        
+        losses: 0      
+      player2:         
+        percent: 46    
+        wins: 0        
+        losses: 1      
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 59
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
+        percent: 59     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'TR'     
         position: Third
-        percent: 46
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 46    
+        win: 0         
+        loss: 1        
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(2)
-      score: TR 4 - AB 8
+      score: TR 4 - AB 8  
  - name: Houston, Heather
-   totals:
-    - event: Hearts
-      player1:
-        percent: 72
-        wins: 1
-        losses: 2
-      player2:
-        percent: 75
-        wins: 2
-        losses: 1
+   totals:               
+    - event: Hearts      
+      player1:           
+        percent: 72      
+        wins: 1          
+        losses: 2        
+      player2:           
+        percent: 75      
+        wins: 2          
+        losses: 1        
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'CA'
+        percent: 81     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'CA'      
         position: Fourth
-        percent: 80
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 80     
+        win: 0          
+        loss: 1         
+      event: Hearts        
+      year: 1989           
       draw: Round Robin(15)
-      score: AB 7 - CA 6
-    - player1:
-        team: 'AB'
+      score: AB 7 - CA 6   
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
+        percent: 76     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'CA'      
         position: Fourth
-        percent: 71
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1990
+        percent: 71     
+        win: 1          
+        loss: 0         
+      event: Hearts        
+      year: 1990           
       draw: Round Robin(12)
-      score: AB 6 - CA 7
-    - player1:
-        team: 'AB'
+      score: AB 6 - CA 7   
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 59
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
+        percent: 59     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'ON'      
         position: Fourth
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1991
+        percent: 75     
+        win: 1          
+        loss: 0         
+      event: Hearts        
+      year: 1991           
       draw: Round Robin(15)
-      score: ON 6 - AB 5
+      score: ON 6 - AB 5   
  - name: Hunt, Donna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 1
-        losses: 0
-      player2:
-        percent: 65
-        wins: 0
-        losses: 1
+   totals:          
+    - event: Hearts 
+      player1:      
+        percent: 86 
+        wins: 1     
+        losses: 0   
+      player2:      
+        percent: 65 
+        wins: 0     
+        losses: 1   
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
+        percent: 86     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'TR'    
         position: Lead
-        percent: 65
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 65   
+        win: 0        
+        loss: 1       
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(7)
-      score: TR 5 - AB 6
+      score: TR 5 - AB 6  
  - name: Jones, Colleen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 72
-        wins: 1
-        losses: 1
-      player2:
-        percent: 68
-        wins: 1
-        losses: 1
+   totals:             
+    - event: Hearts    
+      player1:         
+        percent: 72    
+        wins: 1        
+        losses: 1      
+      player2:         
+        percent: 68    
+        wins: 1        
+        losses: 1      
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'NS'
+        percent: 81     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'NS'      
         position: Fourth
-        percent: 83
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1989
+        percent: 83     
+        win: 1          
+        loss: 0         
+      event: Hearts        
+      year: 1989           
       draw: Round Robin(10)
-      score: NS 8 - AB 2
-    - player1:
-        team: 'AB'
+      score: NS 8 - AB 2   
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 64
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
+        percent: 64     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NS'      
         position: Fourth
-        percent: 56
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 56     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(7)
-      score: AB 5 - NS 4
+      score: AB 5 - NS 4  
  - name: Jones, Karen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 60
-        wins: 1
-        losses: 0
-      player2:
-        percent: 60
-        wins: 0
-        losses: 1
+   totals:           
+    - event: Hearts  
+      player1:       
+        percent: 60  
+        wins: 1      
+        losses: 0    
+      player2:       
+        percent: 60  
+        wins: 0      
+        losses: 1    
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 60
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
+        percent: 60     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'PE'     
         position: Third
-        percent: 60
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 60    
+        win: 0         
+        loss: 1        
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(7)
-      score: AB 6 - PE 3
+      score: AB 6 - PE 3  
  - name: Kehler, Lorie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 80
-        wins: 1
-        losses: 1
-      player2:
-        percent: 81
-        wins: 1
-        losses: 1
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 80   
+        wins: 1       
+        losses: 1     
+      player2:        
+        percent: 81   
+        wins: 1       
+        losses: 1     
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
+        percent: 85     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'SK'      
         position: Second
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1989
+        percent: 80     
+        win: 1          
+        loss: 0         
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(5)
-      score: SK 7 - AB 6
-    - player1:
-        team: 'AB'
+      score: SK 7 - AB 6  
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
+        percent: 75     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'SK'    
         position: Lead
-        percent: 81
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 81   
+        win: 0        
+        loss: 1       
+      event: Hearts        
+      year: 1990           
       draw: Round Robin(15)
-      score: SK 5 - AB 6
+      score: SK 5 - AB 6   
  - name: Kelly, Kim
-   totals:
+   totals:         
     - event: Hearts
-      player1:
+      player1:     
         percent: 64
-        wins: 1
-        losses: 0
-      player2:
+        wins: 1    
+        losses: 0  
+      player2:     
         percent: 81
-        wins: 0
-        losses: 1
+        wins: 0    
+        losses: 1  
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 64
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
+        percent: 64     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NS'      
         position: Second
-        percent: 81
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 81     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(7)
-      score: AB 5 - NS 4
+      score: AB 5 - NS 4  
  - name: Kennedy, Tracy
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 1
-        losses: 1
-      player2:
-        percent: 76
-        wins: 1
-        losses: 1
+   totals:             
+    - event: Hearts    
+      player1:         
+        percent: 79    
+        wins: 1        
+        losses: 1      
+      player2:         
+        percent: 76    
+        wins: 1        
+        losses: 1      
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'CA'
+        percent: 81     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'CA'    
         position: Lead
-        percent: 80
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 80   
+        win: 0        
+        loss: 1       
+      event: Hearts        
+      year: 1989           
       draw: Round Robin(15)
-      score: AB 7 - CA 6
-    - player1:
-        team: 'AB'
+      score: AB 7 - CA 6   
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
+        percent: 76     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'CA'    
         position: Lead
-        percent: 73
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1990
+        percent: 73   
+        win: 1        
+        loss: 0       
+      event: Hearts        
+      year: 1990           
       draw: Round Robin(12)
-      score: AB 6 - CA 7
+      score: AB 6 - CA 7   
  - name: Kerr, Kathy
-   totals:
-    - event: Hearts
-      player1:
-        percent: 71
-        wins: 1
-        losses: 0
-      player2:
-        percent: 86
-        wins: 0
-        losses: 1
+   totals:          
+    - event: Hearts 
+      player1:      
+        percent: 71 
+        wins: 1     
+        losses: 0   
+      player2:      
+        percent: 86 
+        wins: 0     
+        losses: 1   
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 71
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
+        percent: 71     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NL'      
         position: Second
-        percent: 86
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 86     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(1)
-      score: AB 5 - NL 4
+      score: AB 5 - NL 4  
  - name: King, Shirley
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 1
-        losses: 0
-      player2:
-        percent: 60
-        wins: 0
-        losses: 1
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 86   
+        wins: 1       
+        losses: 0     
+      player2:        
+        percent: 60   
+        wins: 0       
+        losses: 1     
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
+        percent: 86     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'TR'      
         position: Fourth
-        percent: 60
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 60     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(7)
-      score: TR 5 - AB 6
+      score: TR 5 - AB 6  
  - name: Koyanagi, Karen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 71
-        wins: 0
-        losses: 1
-      player2:
-        percent: 64
-        wins: 1
-        losses: 0
+   totals:              
+    - event: Hearts     
+      player1:          
+        percent: 71     
+        wins: 0         
+        losses: 1       
+      player2:          
+        percent: 64     
+        wins: 1         
+        losses: 0       
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 71
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
+        percent: 71     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'BC'      
         position: Second
-        percent: 64
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1990
+        percent: 64     
+        win: 1          
+        loss: 0         
+      event: Hearts        
+      year: 1990           
       draw: Round Robin(10)
-      score: AB 5 - BC 8
+      score: AB 5 - BC 8   
  - name: Kuruluk, Kristen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 0
-        losses: 1
-      player2:
-        percent: 95
-        wins: 1
-        losses: 0
+   totals:               
+    - event: Hearts      
+      player1:           
+        percent: 83      
+        wins: 0          
+        losses: 1        
+      player2:           
+        percent: 95      
+        wins: 1          
+        losses: 0        
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
+        percent: 83     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'MB'    
         position: Lead
-        percent: 95
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1989
+        percent: 95   
+        win: 1        
+        loss: 0       
+      event: Hearts        
+      year: 1989           
       draw: Round Robin(12)
-      score: MB 8 - AB 0
+      score: MB 8 - AB 0   
  - name: Lang, Lorraine
-   totals:
-    - event: Hearts
-      player1:
-        percent: 72
-        wins: 1
-        losses: 2
-      player2:
-        percent: 79
-        wins: 2
-        losses: 1
+   totals:             
+    - event: Hearts    
+      player1:         
+        percent: 72    
+        wins: 1        
+        losses: 2      
+      player2:         
+        percent: 79    
+        wins: 2        
+        losses: 1      
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'CA'
+        percent: 81     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'CA'     
         position: Third
-        percent: 69
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 69    
+        win: 0         
+        loss: 1        
+      event: Hearts        
+      year: 1989           
       draw: Round Robin(15)
-      score: AB 7 - CA 6
-    - player1:
-        team: 'AB'
+      score: AB 7 - CA 6   
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
+        percent: 76     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'CA'     
         position: Third
-        percent: 93
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1990
+        percent: 93    
+        win: 1         
+        loss: 0        
+      event: Hearts        
+      year: 1990           
       draw: Round Robin(12)
-      score: AB 6 - CA 7
-    - player1:
-        team: 'AB'
+      score: AB 6 - CA 7   
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 59
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
+        percent: 59     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'ON'     
         position: Third
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1991
+        percent: 75    
+        win: 1         
+        loss: 0        
+      event: Hearts        
+      year: 1991           
       draw: Round Robin(15)
-      score: ON 6 - AB 5
+      score: ON 6 - AB 5   
  - name: Law, Kelley
-   totals:
-    - event: Hearts
-      player1:
-        percent: 71
-        wins: 0
-        losses: 1
-      player2:
-        percent: 74
-        wins: 1
-        losses: 0
+   totals:          
+    - event: Hearts 
+      player1:      
+        percent: 71 
+        wins: 0     
+        losses: 1   
+      player2:      
+        percent: 74 
+        wins: 1     
+        losses: 0   
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 71
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
+        percent: 71     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'BC'      
         position: Fourth
-        percent: 74
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1990
+        percent: 74     
+        win: 1          
+        loss: 0         
+      event: Hearts        
+      year: 1990           
       draw: Round Robin(10)
-      score: AB 5 - BC 8
+      score: AB 5 - BC 8   
  - name: Lawes, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 1
-        losses: 1
-      player2:
-        percent: 75
-        wins: 1
-        losses: 1
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 76   
+        wins: 1       
+        losses: 1     
+      player2:        
+        percent: 75   
+        wins: 1       
+        losses: 1     
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
+        percent: 79     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'ON'      
         position: Second
-        percent: 65
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1990
+        percent: 65     
+        win: 1          
+        loss: 0         
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(3)
-      score: ON 11 - AB 6
-    - player1:
-        team: 'AB'
+      score: ON 11 - AB 6 
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 73
-        win: 1
-        loss: 0
-      player2:
-        team: 'CA'
+        percent: 73     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'CA'      
         position: Second
-        percent: 86
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 86     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(8)
-      score: AB 8 - CA 2
+      score: AB 8 - CA 2  
  - name: Lidgren, Anna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 59
-        wins: 1
-        losses: 0
-      player2:
-        percent: 56
-        wins: 0
-        losses: 1
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 59   
+        wins: 1       
+        losses: 0     
+      player2:        
+        percent: 56   
+        wins: 0       
+        losses: 1     
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 59
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
+        percent: 59     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'TR'      
         position: Fourth
-        percent: 56
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 56     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(2)
-      score: TR 4 - AB 8
+      score: TR 4 - AB 8  
  - name: MacCallum, Janice
-   totals:
-    - event: Hearts
-      player1:
-        percent: 60
-        wins: 1
-        losses: 0
-      player2:
-        percent: 79
-        wins: 0
-        losses: 1
+   totals:                
+    - event: Hearts       
+      player1:            
+        percent: 60       
+        wins: 1           
+        losses: 0         
+      player2:            
+        percent: 79       
+        wins: 0           
+        losses: 1         
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 60
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
+        percent: 60     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'PE'    
         position: Lead
-        percent: 79
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 79   
+        win: 0        
+        loss: 1       
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(7)
-      score: AB 6 - PE 3
+      score: AB 6 - PE 3  
  - name: Maitland, Donna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 71
-        wins: 0
-        losses: 1
-      player2:
-        percent: 59
-        wins: 1
-        losses: 0
+   totals:              
+    - event: Hearts     
+      player1:          
+        percent: 71     
+        wins: 0         
+        losses: 1       
+      player2:          
+        percent: 59     
+        wins: 1         
+        losses: 0       
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 71
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
+        percent: 71     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'BC'     
         position: Third
-        percent: 59
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1990
+        percent: 59    
+        win: 1         
+        loss: 0        
+      event: Hearts        
+      year: 1990           
       draw: Round Robin(10)
-      score: AB 5 - BC 8
+      score: AB 5 - BC 8   
  - name: Mattatall, Mary
-   totals:
-    - event: Hearts
-      player1:
-        percent: 72
-        wins: 1
-        losses: 1
-      player2:
-        percent: 82
-        wins: 1
-        losses: 1
+   totals:              
+    - event: Hearts     
+      player1:          
+        percent: 72     
+        wins: 1         
+        losses: 1       
+      player2:          
+        percent: 82     
+        wins: 1         
+        losses: 1       
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'NS'
+        percent: 81     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'NS'     
         position: Third
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1989
+        percent: 80    
+        win: 1         
+        loss: 0        
+      event: Hearts        
+      year: 1989           
       draw: Round Robin(10)
-      score: NS 8 - AB 2
-    - player1:
-        team: 'AB'
+      score: NS 8 - AB 2   
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 64
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
+        percent: 64     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'NS'     
         position: Third
-        percent: 84
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 84    
+        win: 0         
+        loss: 1        
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(7)
-      score: AB 5 - NS 4
+      score: AB 5 - NS 4  
  - name: McCurdy, Susan
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 1
-        losses: 0
-      player2:
-        percent: 64
-        wins: 0
-        losses: 1
+   totals:             
+    - event: Hearts    
+      player1:         
+        percent: 76    
+        wins: 1        
+        losses: 0      
+      player2:         
+        percent: 64    
+        wins: 0        
+        losses: 1      
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 76
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
+        percent: 76     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'PE'      
         position: Second
-        percent: 64
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 64     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(6)
-      score: PE 4 - AB 7
+      score: PE 4 - AB 7  
  - name: McCusker, Joan
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 1
-        losses: 1
-      player2:
-        percent: 68
-        wins: 1
-        losses: 1
+   totals:             
+    - event: Hearts    
+      player1:         
+        percent: 81    
+        wins: 1        
+        losses: 1      
+      player2:         
+        percent: 68    
+        wins: 1        
+        losses: 1      
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
+        percent: 78     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'SK'      
         position: Second
-        percent: 66
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 66     
+        win: 0          
+        loss: 1         
+      event: Hearts        
+      year: 1991           
       draw: Round Robin(12)
-      score: AB 7 - SK 4
-    - player1:
-        team: 'AB'
+      score: AB 7 - SK 4   
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
+        percent: 85     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'SK'      
         position: Second
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1991
-      draw: Playoff(16)
+        percent: 70     
+        win: 1          
+        loss: 0         
+      event: Hearts     
+      year: 1991        
+      draw: Playoff(16) 
       score: AB 3 - SK 6
  - name: McHugh, Cindy
-   totals:
-    - event: Hearts
-      player1:
-        percent: 64
-        wins: 1
-        losses: 1
-      player2:
-        percent: 59
-        wins: 1
-        losses: 1
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 64   
+        wins: 1       
+        losses: 1     
+      player2:        
+        percent: 59   
+        wins: 1       
+        losses: 1     
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 65
-        win: 0
-        loss: 1
-      player2:
-        team: 'QC'
+        percent: 65     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'QC'      
         position: Second
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1990
+        percent: 70     
+        win: 1          
+        loss: 0         
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(9)
-      score: QC 5 - AB 3
-    - player1:
-        team: 'AB'
+      score: QC 5 - AB 3  
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 63
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
+        percent: 63     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'QC'      
         position: Second
-        percent: 42
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 42     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(4)
-      score: QC 1 - AB 13
+      score: QC 1 - AB 13 
  - name: McInnis, Susan
-   totals:
-    - event: Hearts
-      player1:
-        percent: 74
-        wins: 1
-        losses: 0
-      player2:
-        percent: 56
-        wins: 0
-        losses: 1
+   totals:             
+    - event: Hearts    
+      player1:         
+        percent: 74    
+        wins: 1        
+        losses: 0      
+      player2:         
+        percent: 56    
+        wins: 0        
+        losses: 1      
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 74
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
+        percent: 74     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'PE'     
         position: Third
-        percent: 56
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 56    
+        win: 0         
+        loss: 1        
+      event: Hearts        
+      year: 1989           
       draw: Round Robin(14)
-      score: PE 4 - AB 9
+      score: PE 4 - AB 9   
  - name: McPherson, Cheryl
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 1
-        losses: 1
-      player2:
-        percent: 84
-        wins: 1
-        losses: 1
+   totals:                
+    - event: Hearts       
+      player1:            
+        percent: 76       
+        wins: 1           
+        losses: 1         
+      player2:            
+        percent: 84       
+        wins: 1           
+        losses: 1         
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
+        percent: 79     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'ON'    
         position: Lead
-        percent: 77
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1990
+        percent: 77   
+        win: 1        
+        loss: 0       
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(3)
-      score: ON 11 - AB 6
-    - player1:
-        team: 'AB'
+      score: ON 11 - AB 6 
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 73
-        win: 1
-        loss: 0
-      player2:
-        team: 'CA'
+        percent: 73     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'CA'    
         position: Lead
-        percent: 92
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 92   
+        win: 0        
+        loss: 1       
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(8)
-      score: AB 8 - CA 2
+      score: AB 8 - CA 2  
  - name: More, Chris
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 0
-        losses: 1
-      player2:
-        percent: 91
-        wins: 1
-        losses: 0
+   totals:          
+    - event: Hearts 
+      player1:      
+        percent: 83 
+        wins: 0     
+        losses: 1   
+      player2:      
+        percent: 91 
+        wins: 1     
+        losses: 0   
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
+        percent: 83     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'MB'      
         position: Fourth
-        percent: 91
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1989
+        percent: 91     
+        win: 1          
+        loss: 0         
+      event: Hearts        
+      year: 1989           
       draw: Round Robin(12)
-      score: MB 8 - AB 0
+      score: MB 8 - AB 0   
  - name: Moriarty, Monica
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 0
-        losses: 1
-      player2:
-        percent: 70
-        wins: 1
-        losses: 0
+   totals:               
+    - event: Hearts      
+      player1:           
+        percent: 81      
+        wins: 0          
+        losses: 1        
+      player2:           
+        percent: 70      
+        wins: 1          
+        losses: 0        
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'NS'
+        percent: 81     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'NS'      
         position: Second
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1989
+        percent: 70     
+        win: 1          
+        loss: 0         
+      event: Hearts        
+      year: 1989           
       draw: Round Robin(10)
-      score: NS 8 - AB 2
+      score: NS 8 - AB 2   
  - name: Moses, Dawn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 60
-        wins: 1
-        losses: 0
-      player2:
-        percent: 64
-        wins: 0
-        losses: 1
+   totals:          
+    - event: Hearts 
+      player1:      
+        percent: 60 
+        wins: 1     
+        losses: 0   
+      player2:      
+        percent: 64 
+        wins: 0     
+        losses: 1   
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 60
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
+        percent: 60     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'TR'     
         position: Third
-        percent: 64
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 64    
+        win: 0         
+        loss: 1        
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(1)
-      score: TR 3 - AB 8
+      score: TR 3 - AB 8  
  - name: Muzika, Shelley
-   totals:
-    - event: Hearts
-      player1:
-        percent: 60
-        wins: 1
-        losses: 0
-      player2:
-        percent: 58
-        wins: 0
-        losses: 1
+   totals:              
+    - event: Hearts     
+      player1:          
+        percent: 60     
+        wins: 1         
+        losses: 0       
+      player2:          
+        percent: 58     
+        wins: 0         
+        losses: 1       
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 60
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
+        percent: 60     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'PE'      
         position: Second
-        percent: 58
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 58     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(7)
-      score: AB 6 - PE 3
+      score: AB 6 - PE 3  
  - name: O'Rourke, Kathy
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 2
-        losses: 0
-      player2:
-        percent: 70
-        wins: 0
-        losses: 2
+   totals:              
+    - event: Hearts     
+      player1:          
+        percent: 75     
+        wins: 2         
+        losses: 0       
+      player2:          
+        percent: 70     
+        wins: 0         
+        losses: 2       
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 74
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
+        percent: 74     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'PE'      
         position: Second
-        percent: 63
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 63     
+        win: 0          
+        loss: 1         
+      event: Hearts        
+      year: 1989           
       draw: Round Robin(14)
-      score: PE 4 - AB 9
-    - player1:
-        team: 'AB'
+      score: PE 4 - AB 9   
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 76
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
+        percent: 76     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'PE'     
         position: Third
-        percent: 76
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 76    
+        win: 0         
+        loss: 1        
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(6)
-      score: PE 4 - AB 7
+      score: PE 4 - AB 7  
  - name: Overton, Kim
-   totals:
-    - event: Hearts
-      player1:
-        percent: 65
-        wins: 1
-        losses: 0
-      player2:
-        percent: 69
-        wins: 0
-        losses: 1
+   totals:           
+    - event: Hearts  
+      player1:       
+        percent: 65  
+        wins: 1      
+        losses: 0    
+      player2:       
+        percent: 69  
+        wins: 0      
+        losses: 1    
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 65
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
+        percent: 65     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'MB'    
         position: Lead
-        percent: 69
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 69   
+        win: 0        
+        loss: 1       
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(2)
-      score: AB 9 - MB 8
+      score: AB 9 - MB 8  
  - name: Overton-Clapham, Cathy
-   totals:
-    - event: Hearts
-      player1:
-        percent: 72
-        wins: 0
-        losses: 1
-      player2:
-        percent: 56
-        wins: 1
-        losses: 0
+   totals:                     
+    - event: Hearts            
+      player1:                 
+        percent: 72            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 56            
+        wins: 1                
+        losses: 0              
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 72
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
+        percent: 72     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'MB'     
         position: Third
-        percent: 56
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1991
+        percent: 56    
+        win: 1         
+        loss: 0        
+      event: Hearts        
+      year: 1991           
       draw: Round Robin(13)
-      score: MB 8 - AB 2
+      score: MB 8 - AB 2   
  - name: Phillips, Laura
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 1
-        losses: 0
-      player2:
-        percent: 67
-        wins: 0
-        losses: 1
+   totals:              
+    - event: Hearts     
+      player1:          
+        percent: 75     
+        wins: 1         
+        losses: 0       
+      player2:          
+        percent: 67     
+        wins: 0         
+        losses: 1       
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
+        percent: 75     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NL'      
         position: Fourth
-        percent: 67
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 67     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(2)
-      score: AB 15 - NL 6
+      score: AB 15 - NL 6 
  - name: Poisson, Francine
-   totals:
-    - event: Hearts
-      player1:
-        percent: 64
-        wins: 1
-        losses: 1
-      player2:
-        percent: 58
-        wins: 1
-        losses: 1
+   totals:                
+    - event: Hearts       
+      player1:            
+        percent: 64       
+        wins: 1           
+        losses: 1         
+      player2:            
+        percent: 58       
+        wins: 1           
+        losses: 1         
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 65
-        win: 0
-        loss: 1
-      player2:
-        team: 'QC'
+        percent: 65     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'QC'      
         position: Fourth
-        percent: 83
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1990
+        percent: 83     
+        win: 1          
+        loss: 0         
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(9)
-      score: QC 5 - AB 3
-    - player1:
-        team: 'AB'
+      score: QC 5 - AB 3  
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 63
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
+        percent: 63     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'QC'      
         position: Fourth
-        percent: 19
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 19     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(4)
-      score: QC 1 - AB 13
+      score: QC 1 - AB 13 
  - name: Porter, Debbie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 1
-        losses: 0
-      player2:
-        percent: 65
-        wins: 0
-        losses: 1
+   totals:             
+    - event: Hearts    
+      player1:         
+        percent: 76    
+        wins: 1        
+        losses: 0      
+      player2:         
+        percent: 65    
+        wins: 0        
+        losses: 1      
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 76
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
+        percent: 76     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NL'      
         position: Second
-        percent: 65
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 65     
+        win: 0          
+        loss: 1         
+      event: Hearts        
+      year: 1990           
       draw: Round Robin(14)
-      score: NL 6 - AB 7
+      score: NL 6 - AB 7   
  - name: Power, Judy
-   totals:
-    - event: Hearts
-      player1:
-        percent: 69
-        wins: 1
-        losses: 0
-      player2:
-        percent: 61
-        wins: 0
-        losses: 1
+   totals:          
+    - event: Hearts 
+      player1:      
+        percent: 69 
+        wins: 1     
+        losses: 0   
+      player2:      
+        percent: 61 
+        wins: 0     
+        losses: 1   
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 69
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
+        percent: 69     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NS'      
         position: Second
-        percent: 61
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 61     
+        win: 0          
+        loss: 1         
+      event: Hearts        
+      year: 1990           
       draw: Round Robin(13)
-      score: AB 6 - NS 5
+      score: AB 6 - NS 5   
  - name: Proctor, Jill
-   totals:
-    - event: Hearts
-      player1:
-        percent: 72
-        wins: 0
-        losses: 1
-      player2:
-        percent: 67
-        wins: 1
-        losses: 0
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 72   
+        wins: 0       
+        losses: 1     
+      player2:        
+        percent: 67   
+        wins: 1       
+        losses: 0     
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 72
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
+        percent: 72     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'MB'    
         position: Lead
-        percent: 67
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1991
+        percent: 67   
+        win: 1        
+        loss: 0       
+      event: Hearts        
+      year: 1991           
       draw: Round Robin(13)
-      score: MB 8 - AB 2
+      score: MB 8 - AB 2   
  - name: Pross, Margaret
-   totals:
-    - event: Hearts
-      player1:
-        percent: 63
-        wins: 1
-        losses: 0
-      player2:
-        percent: 58
-        wins: 0
-        losses: 1
+   totals:              
+    - event: Hearts     
+      player1:          
+        percent: 63     
+        wins: 1         
+        losses: 0       
+      player2:          
+        percent: 58     
+        wins: 0         
+        losses: 1       
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 63
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
+        percent: 63     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'QC'    
         position: Lead
-        percent: 58
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 58   
+        win: 0        
+        loss: 1       
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(4)
-      score: QC 1 - AB 13
+      score: QC 1 - AB 13 
  - name: Purdy, Karen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 0
-        losses: 1
-      player2:
-        percent: 73
-        wins: 1
-        losses: 0
+   totals:           
+    - event: Hearts  
+      player1:       
+        percent: 83  
+        wins: 0      
+        losses: 1    
+      player2:       
+        percent: 73  
+        wins: 1      
+        losses: 0    
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
+        percent: 83     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'MB'     
         position: Third
-        percent: 73
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1989
+        percent: 73    
+        win: 1         
+        loss: 0        
+      event: Hearts        
+      year: 1989           
       draw: Round Robin(12)
-      score: MB 8 - AB 0
+      score: MB 8 - AB 0   
  - name: Pushkar, Diane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 59
-        wins: 0
-        losses: 1
-      player2:
-        percent: 79
-        wins: 1
-        losses: 0
+   totals:             
+    - event: Hearts    
+      player1:         
+        percent: 59    
+        wins: 0        
+        losses: 1      
+      player2:         
+        percent: 79    
+        wins: 1        
+        losses: 0      
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 59
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
+        percent: 59     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'ON'    
         position: Lead
-        percent: 79
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1991
+        percent: 79   
+        win: 1        
+        loss: 0       
+      event: Hearts        
+      year: 1991           
       draw: Round Robin(15)
-      score: ON 6 - AB 5
+      score: ON 6 - AB 5   
  - name: Putland, Rose
-   totals:
-    - event: Hearts
-      player1:
-        percent: 59
-        wins: 1
-        losses: 0
-      player2:
-        percent: 51
-        wins: 0
-        losses: 1
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 59   
+        wins: 1       
+        losses: 0     
+      player2:        
+        percent: 51   
+        wins: 0       
+        losses: 1     
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 59
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
+        percent: 59     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'TR'    
         position: Lead
-        percent: 51
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 51   
+        win: 0        
+        loss: 1       
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(2)
-      score: TR 4 - AB 8
+      score: TR 4 - AB 8  
  - name: Rankin, Beth
-   totals:
-    - event: Hearts
-      player1:
-        percent: 69
-        wins: 1
-        losses: 0
-      player2:
-        percent: 66
-        wins: 0
-        losses: 1
+   totals:           
+    - event: Hearts  
+      player1:       
+        percent: 69  
+        wins: 1      
+        losses: 0    
+      player2:       
+        percent: 66  
+        wins: 0      
+        losses: 1    
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 69
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
+        percent: 69     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'NS'     
         position: Third
-        percent: 66
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 66    
+        win: 0         
+        loss: 1        
+      event: Hearts        
+      year: 1990           
       draw: Round Robin(13)
-      score: AB 6 - NS 5
+      score: AB 6 - NS 5   
  - name: Rankin, Heather
-   totals:
-    - event: Hearts
-      player1:
-        percent: 69
-        wins: 1
-        losses: 0
-      player2:
-        percent: 63
-        wins: 0
-        losses: 1
+   totals:              
+    - event: Hearts     
+      player1:          
+        percent: 69     
+        wins: 1         
+        losses: 0       
+      player2:          
+        percent: 63     
+        wins: 0         
+        losses: 1       
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 69
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
+        percent: 69     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NS'      
         position: Fourth
-        percent: 63
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 63     
+        win: 0          
+        loss: 1         
+      event: Hearts        
+      year: 1990           
       draw: Round Robin(13)
-      score: AB 6 - NS 5
+      score: AB 6 - NS 5   
  - name: Ridley, Terry
-   totals:
-    - event: Hearts
-      player1:
-        percent: 71
-        wins: 0
-        losses: 1
-      player2:
-        percent: 70
-        wins: 1
-        losses: 0
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 71   
+        wins: 0       
+        losses: 1     
+      player2:        
+        percent: 70   
+        wins: 1       
+        losses: 0     
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 71
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
+        percent: 71     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'BC'    
         position: Lead
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1990
+        percent: 70   
+        win: 1        
+        loss: 0       
+      event: Hearts        
+      year: 1990           
       draw: Round Robin(10)
-      score: AB 5 - BC 8
+      score: AB 5 - BC 8   
  - name: Roberts, Angela
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 1
-        losses: 0
-      player2:
-        percent: 63
-        wins: 0
-        losses: 1
+   totals:              
+    - event: Hearts     
+      player1:          
+        percent: 76     
+        wins: 1         
+        losses: 0       
+      player2:          
+        percent: 63     
+        wins: 0         
+        losses: 1       
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 76
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
+        percent: 76     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'PE'      
         position: Fourth
-        percent: 63
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 63     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(6)
-      score: PE 4 - AB 7
+      score: PE 4 - AB 7  
  - name: Rudd, Colleen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 1
-        losses: 0
-      player2:
-        percent: 70
-        wins: 0
-        losses: 1
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 86   
+        wins: 1       
+        losses: 0     
+      player2:        
+        percent: 70   
+        wins: 0       
+        losses: 1     
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
+        percent: 86     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'TR'     
         position: Third
-        percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 70    
+        win: 0         
+        loss: 1        
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(7)
-      score: TR 5 - AB 6
+      score: TR 5 - AB 6  
  - name: Ryan, Diane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 1
-        losses: 0
-      player2:
-        percent: 64
-        wins: 0
-        losses: 1
+   totals:          
+    - event: Hearts 
+      player1:      
+        percent: 75 
+        wins: 1     
+        losses: 0   
+      player2:      
+        percent: 64 
+        wins: 0     
+        losses: 1   
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
+        percent: 75     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'NL'     
         position: Third
-        percent: 64
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 64    
+        win: 0         
+        loss: 1        
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(2)
-      score: AB 15 - NL 6
+      score: AB 15 - NL 6 
  - name: Ryan, Jennifer
-   totals:
-    - event: Hearts
-      player1:
-        percent: 65
-        wins: 1
-        losses: 0
-      player2:
-        percent: 61
-        wins: 0
-        losses: 1
+   totals:             
+    - event: Hearts    
+      player1:         
+        percent: 65    
+        wins: 1        
+        losses: 0      
+      player2:         
+        percent: 61    
+        wins: 0        
+        losses: 1      
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 65
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
+        percent: 65     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'MB'     
         position: Third
-        percent: 61
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 61    
+        win: 0         
+        loss: 1        
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(2)
-      score: AB 9 - MB 8
+      score: AB 9 - MB 8  
  - name: Sanders, Pat
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 1
-        losses: 0
-      player2:
-        percent: 71
-        wins: 0
-        losses: 1
+   totals:           
+    - event: Hearts  
+      player1:       
+        percent: 75  
+        wins: 1      
+        losses: 0    
+      player2:       
+        percent: 71  
+        wins: 0      
+        losses: 1    
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
+        percent: 75     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'BC'     
         position: Third
-        percent: 71
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 71    
+        win: 0         
+        loss: 1        
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(9)
-      score: BC 6 - AB 7
+      score: BC 6 - AB 7  
  - name: Schmirler, Sandra
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 1
-        losses: 1
-      player2:
-        percent: 77
-        wins: 1
-        losses: 1
+   totals:                
+    - event: Hearts       
+      player1:            
+        percent: 81       
+        wins: 1           
+        losses: 1         
+      player2:            
+        percent: 77       
+        wins: 1           
+        losses: 1         
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
+        percent: 78     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'SK'      
         position: Fourth
-        percent: 72
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 72     
+        win: 0          
+        loss: 1         
+      event: Hearts        
+      year: 1991           
       draw: Round Robin(12)
-      score: AB 7 - SK 4
-    - player1:
-        team: 'AB'
+      score: AB 7 - SK 4   
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
+        percent: 85     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'SK'      
         position: Fourth
-        percent: 82
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1991
-      draw: Playoff(16)
+        percent: 82     
+        win: 1          
+        loss: 0         
+      event: Hearts     
+      year: 1991        
+      draw: Playoff(16) 
       score: AB 3 - SK 6
  - name: Scott, Donna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 60
-        wins: 1
-        losses: 0
-      player2:
-        percent: 84
-        wins: 0
-        losses: 1
+   totals:           
+    - event: Hearts  
+      player1:       
+        percent: 60  
+        wins: 1      
+        losses: 0    
+      player2:       
+        percent: 84  
+        wins: 0      
+        losses: 1    
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 60
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
+        percent: 60     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'TR'    
         position: Lead
-        percent: 84
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 84   
+        win: 0        
+        loss: 1       
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(1)
-      score: TR 3 - AB 8
+      score: TR 3 - AB 8  
  - name: Sigurdson, Janine
-   totals:
-    - event: Hearts
-      player1:
-        percent: 65
-        wins: 1
-        losses: 0
-      player2:
-        percent: 60
-        wins: 0
-        losses: 1
+   totals:                
+    - event: Hearts       
+      player1:            
+        percent: 65       
+        wins: 1           
+        losses: 0         
+      player2:            
+        percent: 60       
+        wins: 0           
+        losses: 1         
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 65
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
+        percent: 65     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'MB'      
         position: Second
-        percent: 60
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 60     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(2)
-      score: AB 9 - MB 8
+      score: AB 9 - MB 8  
  - name: Skinner, Julie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 1
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 1
+   totals:             
+    - event: Hearts    
+      player1:         
+        percent: 79    
+        wins: 1        
+        losses: 1      
+      player2:         
+        percent: 80    
+        wins: 1        
+        losses: 1      
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
+        percent: 75     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'BC'      
         position: Fourth
-        percent: 71
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 71     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(9)
-      score: BC 6 - AB 7
-    - player1:
-        team: 'AB'
+      score: BC 6 - AB 7  
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
+        percent: 83     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'BC'      
         position: Fourth
-        percent: 89
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1991
+        percent: 89     
+        win: 1          
+        loss: 0         
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(9)
-      score: BC 6 - AB 5
+      score: BC 6 - AB 5  
  - name: Smith, Yvonne
-   totals:
-    - event: Hearts
-      player1:
-        percent: 70
-        wins: 0
-        losses: 1
-      player2:
-        percent: 68
-        wins: 1
-        losses: 0
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 70   
+        wins: 0       
+        losses: 1     
+      player2:        
+        percent: 68   
+        wins: 1       
+        losses: 0     
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
+        percent: 70     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'ON'     
         position: Third
-        percent: 68
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1989
+        percent: 68    
+        win: 1         
+        loss: 0        
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(3)
-      score: AB 6 - ON 8
+      score: AB 6 - ON 8  
  - name: Soligo, Melissa
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 1
-        losses: 1
-      player2:
-        percent: 86
-        wins: 1
-        losses: 1
+   totals:              
+    - event: Hearts     
+      player1:          
+        percent: 79     
+        wins: 1         
+        losses: 1       
+      player2:          
+        percent: 86     
+        wins: 1         
+        losses: 1       
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
+        percent: 75     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'BC'    
         position: Lead
-        percent: 90
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 90   
+        win: 0        
+        loss: 1       
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(9)
-      score: BC 6 - AB 7
-    - player1:
-        team: 'AB'
+      score: BC 6 - AB 7  
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
+        percent: 83     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'BC'      
         position: Second
-        percent: 81
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1991
+        percent: 81     
+        win: 1          
+        loss: 0         
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(9)
-      score: BC 6 - AB 5
+      score: BC 6 - AB 5  
  - name: Sparrow, Sandra
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 1
-        losses: 0
-      player2:
-        percent: 63
-        wins: 0
-        losses: 1
+   totals:              
+    - event: Hearts     
+      player1:          
+        percent: 75     
+        wins: 1         
+        losses: 0       
+      player2:          
+        percent: 63     
+        wins: 0         
+        losses: 1       
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
+        percent: 75     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NL'      
         position: Second
-        percent: 63
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 63     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(2)
-      score: AB 15 - NL 6
+      score: AB 15 - NL 6 
  - name: Stewart, Sheri
-   totals:
-    - event: Hearts
-      player1:
-        percent: 57
-        wins: 1
-        losses: 2
-      player2:
-        percent: 65
-        wins: 2
-        losses: 1
+   totals:             
+    - event: Hearts    
+      player1:         
+        percent: 57    
+        wins: 1        
+        losses: 2      
+      player2:         
+        percent: 65    
+        wins: 2        
+        losses: 1      
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 64
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
+        percent: 64     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NB'      
         position: Second
-        percent: 75
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 75     
+        win: 0          
+        loss: 1         
+      event: Hearts        
+      year: 1989           
       draw: Round Robin(13)
-      score: AB 8 - NB 5
-    - player1:
-        team: 'AB'
+      score: AB 8 - NB 5   
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 45
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
+        percent: 45     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'NB'      
         position: Second
-        percent: 43
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1990
+        percent: 43     
+        win: 1          
+        loss: 0         
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(5)
-      score: NB 11 - AB 0
-    - player1:
-        team: 'AB'
+      score: NB 11 - AB 0 
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 59
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
+        percent: 59     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'NB'      
         position: Second
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1991
+        percent: 70     
+        win: 1          
+        loss: 0         
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(3)
-      score: AB 5 - NB 7
+      score: AB 5 - NB 7  
  - name: Stokes, Debbie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 60
-        wins: 1
-        losses: 0
-      player2:
-        percent: 83
-        wins: 0
-        losses: 1
+   totals:             
+    - event: Hearts    
+      player1:         
+        percent: 60    
+        wins: 1        
+        losses: 0      
+      player2:         
+        percent: 83    
+        wins: 0        
+        losses: 1      
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 60
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
+        percent: 60     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'TR'      
         position: Second
-        percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 83     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(1)
-      score: TR 3 - AB 8
+      score: TR 3 - AB 8  
  - name: Stricker, Joan
-   totals:
-    - event: Hearts
-      player1:
-        percent: 80
-        wins: 1
-        losses: 1
-      player2:
-        percent: 76
-        wins: 1
-        losses: 1
+   totals:             
+    - event: Hearts    
+      player1:         
+        percent: 80    
+        wins: 1        
+        losses: 1      
+      player2:         
+        percent: 76    
+        wins: 1        
+        losses: 1      
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
+        percent: 85     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'SK'     
         position: Third
-        percent: 79
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1989
+        percent: 79    
+        win: 1         
+        loss: 0        
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(5)
-      score: SK 7 - AB 6
-    - player1:
-        team: 'AB'
+      score: SK 7 - AB 6  
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
+        percent: 75     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'SK'      
         position: Second
-        percent: 74
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
+        percent: 74     
+        win: 0          
+        loss: 1         
+      event: Hearts        
+      year: 1990           
       draw: Round Robin(15)
-      score: SK 5 - AB 6
+      score: SK 5 - AB 6   
  - name: Sutton, Jodie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 0
-        losses: 1
-      player2:
-        percent: 75
-        wins: 1
-        losses: 0
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 83   
+        wins: 0       
+        losses: 1     
+      player2:        
+        percent: 75   
+        wins: 1       
+        losses: 0     
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
+        percent: 83     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'BC'     
         position: Third
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1991
+        percent: 75    
+        win: 1         
+        loss: 0        
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(9)
-      score: BC 6 - AB 5
+      score: BC 6 - AB 5  
  - name: Thomas, Karen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 1
-        losses: 0
-      player2:
-        percent: 74
-        wins: 0
-        losses: 1
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 75   
+        wins: 1       
+        losses: 0     
+      player2:        
+        percent: 74   
+        wins: 0       
+        losses: 1     
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
+        percent: 75     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'NL'    
         position: Lead
-        percent: 74
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 74   
+        win: 0        
+        loss: 1       
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(2)
-      score: AB 15 - NL 6
+      score: AB 15 - NL 6 
  - name: Thomas, Maria
-   totals:
-    - event: Hearts
-      player1:
-        percent: 71
-        wins: 1
-        losses: 0
-      player2:
-        percent: 56
-        wins: 0
-        losses: 1
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 71   
+        wins: 1       
+        losses: 0     
+      player2:        
+        percent: 56   
+        wins: 0       
+        losses: 1     
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 71
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
+        percent: 71     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'NL'     
         position: Third
-        percent: 56
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 56    
+        win: 0         
+        loss: 1        
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(1)
-      score: AB 5 - NL 4
+      score: AB 5 - NL 4  
  - name: Todd, Fran
-   totals:
+   totals:         
     - event: Hearts
-      player1:
+      player1:     
         percent: 70
-        wins: 0
-        losses: 1
-      player2:
+        wins: 0    
+        losses: 1  
+      player2:     
         percent: 73
-        wins: 1
-        losses: 0
+        wins: 1    
+        losses: 0  
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
+        percent: 70     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'ON'    
         position: Lead
-        percent: 73
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1989
+        percent: 73   
+        win: 1        
+        loss: 0       
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(3)
-      score: AB 6 - ON 8
+      score: AB 6 - ON 8  
  - name: Turcotte, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 1
-        losses: 1
-      player2:
-        percent: 66
-        wins: 1
-        losses: 1
+   totals:                
+    - event: Hearts       
+      player1:            
+        percent: 76       
+        wins: 1           
+        losses: 1         
+      player2:            
+        percent: 66       
+        wins: 1           
+        losses: 1         
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
+        percent: 79     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'ON'     
         position: Third
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1990
+        percent: 75    
+        win: 1         
+        loss: 0        
+      event: Hearts       
+      year: 1990          
       draw: Round Robin(3)
-      score: ON 11 - AB 6
-    - player1:
-        team: 'AB'
+      score: ON 11 - AB 6 
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 73
-        win: 1
-        loss: 0
-      player2:
-        team: 'CA'
+        percent: 73     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'CA'     
         position: Third
-        percent: 56
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 56    
+        win: 0         
+        loss: 1        
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(8)
-      score: AB 8 - CA 2
+      score: AB 8 - CA 2  
  - name: Wheatcroft, Georgina
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 1
-        losses: 0
-      player2:
-        percent: 79
-        wins: 0
-        losses: 1
+   totals:                   
+    - event: Hearts          
+      player1:               
+        percent: 75          
+        wins: 1              
+        losses: 0            
+      player2:               
+        percent: 79          
+        wins: 0              
+        losses: 1            
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
+        percent: 75     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'BC'      
         position: Second
-        percent: 79
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1989
+        percent: 79     
+        win: 0          
+        loss: 1         
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(9)
-      score: BC 6 - AB 7
+      score: BC 6 - AB 7  
  - name: Whitrow, Leanne
-   totals:
-    - event: Hearts
-      player1:
-        percent: 85
-        wins: 0
-        losses: 1
-      player2:
-        percent: 70
-        wins: 1
-        losses: 0
+   totals:              
+    - event: Hearts     
+      player1:          
+        percent: 85     
+        wins: 0         
+        losses: 1       
+      player2:          
+        percent: 70     
+        wins: 1         
+        losses: 0       
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
+        percent: 85     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'SK'    
         position: Lead
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1989
+        percent: 70   
+        win: 1        
+        loss: 0       
+      event: Hearts       
+      year: 1989          
       draw: Round Robin(5)
-      score: SK 7 - AB 6
+      score: SK 7 - AB 6  
  - name: Willms, Karri
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 0
-        losses: 1
-      player2:
-        percent: 72
-        wins: 1
-        losses: 0
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 83   
+        wins: 0       
+        losses: 1     
+      player2:        
+        percent: 72   
+        wins: 1       
+        losses: 0     
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
+        percent: 83     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'BC'    
         position: Lead
-        percent: 72
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1991
+        percent: 72   
+        win: 1        
+        loss: 0       
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(9)
-      score: BC 6 - AB 5
+      score: BC 6 - AB 5  
  - name: Wright, Susan
-   totals:
-    - event: Hearts
-      player1:
-        percent: 71
-        wins: 1
-        losses: 0
-      player2:
-        percent: 76
-        wins: 0
-        losses: 1
+   totals:            
+    - event: Hearts   
+      player1:        
+        percent: 71   
+        wins: 1       
+        losses: 0     
+      player2:        
+        percent: 76   
+        wins: 0       
+        losses: 1     
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 71
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
+        percent: 71     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'NL'    
         position: Lead
-        percent: 76
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
+        percent: 76   
+        win: 0        
+        loss: 1       
+      event: Hearts       
+      year: 1991          
       draw: Round Robin(1)
-      score: AB 5 - NL 4
+      score: AB 5 - NL 4  
  - name: Zeller, Lori
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 0
-        losses: 1
-      player2:
-        percent: 77
-        wins: 1
-        losses: 0
+   totals:           
+    - event: Hearts  
+      player1:       
+        percent: 83  
+        wins: 0      
+        losses: 1    
+      player2:       
+        percent: 77  
+        wins: 1      
+        losses: 0    
    games:
-    - player1:
-        team: 'AB'
+    - player1:          
+        team: 'AB'      
         position: Second
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
+        percent: 83     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'MB'      
         position: Second
-        percent: 77
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 1989
+        percent: 77     
+        win: 1          
+        loss: 0         
+      event: Hearts        
+      year: 1989           
       draw: Round Robin(12)
-      score: MB 8 - AB 0
+      score: MB 8 - AB 0   
 ---

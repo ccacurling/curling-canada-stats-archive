@@ -44,6 +44,7 @@ vs:
  - Cameron, Kate
  - Carey, Chelsea
  - Courtney, Joanne
+ - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
@@ -77,7 +78,6 @@ vs:
  - Sicinski, Danielle
  - Sippala, Ashley
  - Thiessen, Alison
- - Trickett, Erica
  - Weagle, Lisa
  - Westcott, Raunora
  - Wilkes, Sarah

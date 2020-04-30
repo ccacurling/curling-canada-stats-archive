@@ -188,6 +188,7 @@ vs:
  - O'Rourke, Brittany
  - Overton-Clapham, Cathy
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Porter, Erin
  - Robison, Michala
  - Ross, Allison
@@ -201,7 +202,6 @@ vs:
  - Shumay, Jill
  - Sinclair, Andrea
  - Singler, Sherri
- - Sivertson, Dailene
  - Slywka, Sarah
  - Smith, Heather
  - Sobey, Lianne

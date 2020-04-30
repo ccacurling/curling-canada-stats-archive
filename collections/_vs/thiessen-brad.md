@@ -7,12 +7,12 @@ vs:
   - event: Brier
     player1:
       percent: 82
-      wins: 2
-      losses: 3
-    player2:
-      percent: 90
       wins: 3
-      losses: 2
+      losses: 4
+    player2:
+      percent: 88
+      wins: 4
+      losses: 3
   - event: Trials(Men)
     player1:
       percent: 81
@@ -103,6 +103,38 @@ vs:
     year: 2019
     draw: Page 3-4(19)
     score: WC 7 - CA 2
+  - player1:
+      team: AB
+      position: Second
+      percent: 80
+      win: 1
+      loss: 0
+    player2:
+      team: NL
+      position: Lead
+      percent: 89
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(5)
+    score: AB 3 - NL 2
+  - player1:
+      team: AB
+      position: Second
+      percent: 85
+      win: 0
+      loss: 1
+    player2:
+      team: NL
+      position: Lead
+      percent: 78
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Final(23)
+    score: NL 7 - AB 3
   - player1:
       team: Bott
       position: Second

@@ -4,18 +4,18 @@ name: Jeff Thomas
 name-sort: Thomas, Jeff
 totals:
  - event: Brier
-   games: 33
-   wins: 9
+   games: 35
+   wins: 11
    losses: 24
-   inturn-total: 215
+   inturn-total: 221
    inturn-percent: 76
    outturn-total: 199
    outturn-percent: 69
-   draw-total: 206
-   draw-percent: 69
-   takeout-total: 208
+   draw-total: 211
+   draw-percent: 70
+   takeout-total: 209
    takeout-percent: 76
-   shots-total: 414
+   shots-total: 420
    shots-percent: 73
 years:
  - year: 1984
@@ -73,10 +73,30 @@ years:
    event: Brier
    team: "NL"
    position: Alternate
+ - year: 2020
+   event: Brier
+   team: "NL"
+   position: Lead
+   games: 2
+   wins: 2
+   losses: 0
+   inturn-total: 6
+   inturn-percent: 83
+   outturn-total: 0
+   outturn-percent:
+   draw-total: 5
+   draw-percent: 80
+   takeout-total: 1
+   takeout-percent: 100
+   shots-total: 6
+   shots-percent: 83
 vs:
  - Aitken, Don
  - Armstrong, Jim
+ - Asselin, Emile
  - Bartlett, Don
+ - Bedard, Alek
+ - Bedard, Daniel
  - Belliveau, Dan
  - Belyea, Richard
  - Biron, Louis
@@ -117,6 +137,7 @@ vs:
  - Harrison, Neil
  - Heintz, Jim
  - Helston, John
+ - Higgs, Jake
  - Hildebrand, Dan
  - Hinch, Bert
  - Hinks, Geoffrey
@@ -135,10 +156,12 @@ vs:
  - Ledgerwood, Allan
  - Lemery, Dan
  - Lenz, Cliff
+ - Lequin, Bradley
  - Likely, John
  - Loeffler, Ken
  - Lord, Lovel
  - Lukowich, Ed
+ - MacDonald, Edmund
  - MacDonald, Ken
  - MacDonald, Ronald
  - MacLean, Rob
@@ -168,6 +191,7 @@ vs:
  - Perroud, Pat
  - Peters, Vic
  - Power, Humphrey
+ - Quevillon, Louis
  - Ramcharan, Rudy
  - Reibin, Dale
  - Riley, Mike
@@ -175,6 +199,7 @@ vs:
  - Ryan, Pat
  - Savage, Paul
  - Schleppe, Dave
+ - Smitheram, Christian
  - Sparkes, Bernie
  - Strain, Bill
  - Stuart, Darol
@@ -192,6 +217,7 @@ vs:
  - Weeks, Doug
  - Werenich, Ed
  - Westphal, Don
+ - Wettig, Sheldon
  - Wight, Bryan
  - Wookey, Russ
  - Zimmer, Jerry

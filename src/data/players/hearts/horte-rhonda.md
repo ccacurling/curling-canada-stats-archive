@@ -39,6 +39,10 @@ years:
    takeout-percent: 71
    shots-total: 214
    shots-percent: 70
+ - year: 2020
+   event: Hearts
+   team: "YT"
+   position: Alternate
 vs:
  - Affleck, Tricia
  - Arnott, Janet

@@ -90,6 +90,7 @@ vs:
  - Courtney, Joanne
  - Crawford, Andrea
  - Crouse, Jennifer
+ - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
@@ -178,7 +179,6 @@ vs:
  - Tanner, Ros
  - Thomas, Jill
  - Thurston, Jill
- - Trickett, Erica
  - Weagle, Lisa
  - Westcott, Raunora
  - Wheatcroft, Georgina

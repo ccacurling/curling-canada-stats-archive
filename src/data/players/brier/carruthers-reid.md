@@ -4,19 +4,19 @@ name: Reid Carruthers
 name-sort: Carruthers, Reid
 totals:
  - event: Brier
-   games: 73
-   wins: 45
-   losses: 28
-   inturn-total: 657
-   inturn-percent: 84
-   outturn-total: 684
+   games: 85
+   wins: 52
+   losses: 33
+   inturn-total: 752
+   inturn-percent: 85
+   outturn-total: 815
    outturn-percent: 85
-   draw-total: 627
+   draw-total: 678
    draw-percent: 84
-   takeout-total: 714
-   takeout-percent: 84
-   shots-total: 1341
-   shots-percent: 84
+   takeout-total: 889
+   takeout-percent: 86
+   shots-total: 1567
+   shots-percent: 85
 years:
  - year: 2008
    event: Brier
@@ -137,10 +137,28 @@ years:
    takeout-percent: 81
    shots-total: 212
    shots-percent: 83
+ - year: 2020
+   event: Brier
+   team: "WC"
+   position: Third
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 95
+   inturn-percent: 91
+   outturn-total: 131
+   outturn-percent: 89
+   draw-total: 51
+   draw-percent: 83
+   takeout-total: 175
+   takeout-percent: 92
+   shots-total: 226
+   shots-percent: 90
 vs:
  - Abel, Clinton
  - Adam, Gerry
  - Adams, Shawn
+ - Aho, David
  - Asselin, Felix
  - Balsdon, Greg
  - Bardsley, Mike
@@ -154,6 +172,7 @@ vs:
  - Borden, Robert
  - Bottcher, Brendan
  - Bouchard, Christian
+ - Brannen, Jamie
  - Breckon, Graham
  - Burgess, Steve
  - Camm, Mathew
@@ -172,6 +191,7 @@ vs:
  - Desjardins, Robert
  - Dillon, Mike
  - Dion, William
+ - Dobson, Paul
  - Doherty, Robert
  - Dunstone, Matthew
  - Eldridge, Zach
@@ -184,6 +204,7 @@ vs:
  - Folk, Kevin
  - Ford, Chris
  - Forget, Wes
+ - Forrest, Alex
  - Fournier, Mike
  - Fry, Ryan
  - Gagne, Francois
@@ -195,6 +216,7 @@ vs:
  - Gorveatt, Philip
  - Grattan, James
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -206,6 +228,7 @@ vs:
  - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Jewer, Keith
  - Jones, Brennen
  - Kean, Mark
@@ -239,6 +262,7 @@ vs:
  - McDermaid, Donald
  - McDonald, Scott
  - McEwen, Mike
+ - McLeod, Shadrach
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -251,11 +275,14 @@ vs:
  - Muyres, Kirk
  - Nadeau, Jeff
  - Naugler, Tom
+ - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
  - Newson, Jamie
  - Nichols, Mark
+ - Njegovan, Connor
  - Odian, Scott
+ - Parsons, Cole
  - Pinder, Jordan
  - Rach, Dave
  - Roach, Darren
@@ -265,6 +292,8 @@ vs:
  - Savill, Craig
  - Sawatsky, Rick
  - Schille, Chris
+ - Schneider, Catlin
+ - Scoffin, Thomas
  - Seabrook, Scott
  - Sharp, Jeff
  - Simmons, Pat
@@ -280,9 +309,11 @@ vs:
  - Trepanier, Jean-Francois
  - Virtue, Brock
  - Walker, Geoff
+ - Wallingham, Joe
  - Watson, Aaron
  - Whitehead, Kevin
  - Whitehead, Mark
+ - Winfield, Brett
  - Wood, Brad
  - Wozniak, Matt
 ---

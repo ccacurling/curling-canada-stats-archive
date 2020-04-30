@@ -4,18 +4,18 @@ name: Mark Nichols
 name-sort: Nichols, Mark
 totals:
 - event: Brier
-  games: 188
-  wins: 132
-  losses: 56
-  inturn-total: 1480
+  games: 202
+  wins: 143
+  losses: 59
+  inturn-total: 1587
   inturn-percent: 84
-  outturn-total: 2071
-  outturn-percent: 85
-  draw-total: 1482
-  draw-percent: 85
-  takeout-total: 2069
-  takeout-percent: 84
-  shots-total: 3551
+  outturn-total: 2228
+  outturn-percent: 86
+  draw-total: 1568
+  draw-percent: 86
+  takeout-total: 2247
+  takeout-percent: 85
+  shots-total: 3815
   shots-percent: 85
 - event: Trials (Men)
   games: 26
@@ -287,6 +287,23 @@ years:
   takeout-percent: 90
   shots-total: 210
   shots-percent: 88
+- year: 2020
+  event: Brier
+  team: NL
+  position: Third
+  games: 14
+  wins: 11
+  losses: 3
+  inturn-total: 107
+  inturn-percent: 88
+  outturn-total: 157
+  outturn-percent: 90
+  draw-total: 86
+  draw-percent: 89
+  takeout-total: 178
+  takeout-percent: 89
+  shots-total: 264
+  shots-percent: 89
 - year: 2005
   event: Trials (Men)
   team: GUS
@@ -379,6 +396,7 @@ vs:
 - Appelman, Tom
 - Ardiel, Taylor
 - Arsenault, Craig
+- Asselin, Emile
 - Atchison, Chris
 - Bailey, Scott
 - Balsdon, Greg
@@ -387,6 +405,8 @@ vs:
 - Barry, Josh
 - Bartlett, Don
 - Base, John
+- Bedard, Alek
+- Bedard, Daniel
 - Berthelot, Marco
 - Beuk, Jonathan
 - Bezanson, Jared
@@ -428,6 +448,7 @@ vs:
 - Crete, Martin
 - Crowell, Phil
 - Currie, Jeff
+- Currie, Morgan
 - Dacey, Mark
 - Daneault, Richard
 - Darragh, Alan
@@ -458,6 +479,7 @@ vs:
 - Flemming, Paul
 - Folk, Kevin
 - Forget, Wes
+- Forrest, Alex
 - Fowler, Rob
 - Frans, Joe
 - Fraser, Pierre
@@ -483,6 +505,7 @@ vs:
 - Grattan, James
 - Griffith, Ty
 - Griffith, Tyrel
+- Gunnlaugson, Jason
 - Gushue, Brad
 - Haichert, Chris
 - Harcourt, Doug
@@ -500,6 +523,7 @@ vs:
 - Hemmings, Guy
 - Henderson, Scott
 - Hicke, Dean
+- Higgs, Jake
 - Hodgson, Colin
 - Horgan, Tanner
 - Horning, Deane
@@ -547,11 +571,13 @@ vs:
 - Ledgerwood, Sean
 - Leech, Ron
 - Lemay, Philippe
+- Lequin, Bradley
 - Lindsay, Tim
 - Loevenmark, Phil
 - Lohnes, Bruce
 - MacAulay, Ian
 - MacDonald, Blake
+- MacDonald, Edmund
 - MacDonald, Rod
 - MacFadyen, Alex
 - MacKenzie, Eddie
@@ -604,6 +630,7 @@ vs:
 - Neufeld, Denni
 - Newson, Jamie
 - Ng, Matt
+- Njegovan, Connor
 - Nobert, Rob
 - O'Rourke, Mark
 - Odishaw, Grant
@@ -622,6 +649,7 @@ vs:
 - Pinder, Jordan
 - Porter, Geoff
 - Porter, Ryan
+- Quevillon, Louis
 - Rafuse, Brian
 - Recksiedler, Kevin
 - Reid, Serge
@@ -654,6 +682,7 @@ vs:
 - Smith, Garth
 - Smith, Greg
 - Smith, Kent
+- Smitheram, Christian
 - Solberg, Jonathon
 - Sosiak, Jim
 - Spencer, Adam
@@ -686,6 +715,7 @@ vs:
 - Watson, Aaron
 - Wempe, Brian
 - Westphal, Don
+- Wettig, Sheldon
 - Whitehead, Kevin
 - Whitehead, Mark
 - Withycombe, Ian

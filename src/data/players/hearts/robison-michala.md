@@ -130,12 +130,12 @@ vs:
  - Nugent, Pamela
  - O'Rourke, Brittany
  - Parsons, Danielle
+ - Pewarchuk, Dailene
  - Ross, Allison
  - Sanderson, Jessie
  - Sandwith, Carley
  - Schneider, Kim
  - Sinclair, Andrea
- - Sivertson, Dailene
  - Sonnenberg, Renee
  - Strong, Heather
  - Strong, Laura

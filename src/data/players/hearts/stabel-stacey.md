@@ -52,6 +52,10 @@ years:
    takeout-percent: 68
    shots-total: 194
    shots-percent: 66
+ - year: 2020
+   event: Hearts
+   team: "NT"
+   position: Alternate
 vs:
  - Affleck, Tricia
  - Anderson, Sherry

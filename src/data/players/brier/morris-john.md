@@ -4,18 +4,18 @@ name: John Morris
 name-sort: Morris, John
 totals:
  - event: Brier
-   games: 125
+   games: 126
    wins: 92
-   losses: 33
+   losses: 34
    inturn-total: 937
    inturn-percent: 86
-   outturn-total: 1382
+   outturn-total: 1386
    outturn-percent: 86
-   draw-total: 911
+   draw-total: 912
    draw-percent: 86
-   takeout-total: 1408
+   takeout-total: 1411
    takeout-percent: 87
-   shots-total: 2319
+   shots-total: 2323
    shots-percent: 86
 years:
  - year: 2002
@@ -221,6 +221,23 @@ years:
    takeout-percent: 86
    shots-total: 216
    shots-percent: 86
+ - year: 2020
+   event: Brier
+   team: "ON"
+   position: Third
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 0
+   inturn-percent:
+   outturn-total: 4
+   outturn-percent: 88
+   draw-total: 1
+   draw-percent: 75
+   takeout-total: 3
+   takeout-percent: 92
+   shots-total: 4
+   shots-percent: 88
 vs:
  - Adam, Gerry
  - Adams, Shawn

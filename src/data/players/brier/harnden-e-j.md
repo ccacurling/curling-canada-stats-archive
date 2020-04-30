@@ -4,18 +4,18 @@ name: E.J. Harnden
 name-sort: Harnden, E.J.
 totals:
  - event: Brier
-   games: 125
-   wins: 83
-   losses: 42
-   inturn-total: 918
-   inturn-percent: 86
-   outturn-total: 1426
+   games: 139
+   wins: 92
+   losses: 47
+   inturn-total: 1036
+   inturn-percent: 87
+   outturn-total: 1561
    outturn-percent: 87
-   draw-total: 868
-   draw-percent: 84
-   takeout-total: 1476
+   draw-total: 952
+   draw-percent: 85
+   takeout-total: 1645
    takeout-percent: 88
-   shots-total: 2344
+   shots-total: 2597
    shots-percent: 87
 years:
  - year: 2008
@@ -188,15 +188,34 @@ years:
    takeout-percent: 91
    shots-total: 235
    shots-percent: 91
+ - year: 2020
+   event: Brier
+   team: "NO"
+   position: Second
+   games: 14
+   wins: 9
+   losses: 5
+   inturn-total: 118
+   inturn-percent: 89
+   outturn-total: 135
+   outturn-percent: 91
+   draw-total: 84
+   draw-percent: 93
+   takeout-total: 169
+   takeout-percent: 88
+   shots-total: 253
+   shots-percent: 90
 vs:
  - Abel, Clinton
  - Adam, Gerry
  - Adams, Shawn
  - Anderson, Chris
  - Armstrong, Mike
+ - Asselin, Emile
  - Asselin, Felix
  - Bardsley, Mike
  - Barry, Josh
+ - Bedard, Alek
  - Beuk, Jonathan
  - Bezanson, Jared
  - Bilesky, Andrew
@@ -218,11 +237,13 @@ vs:
  - Champion, Kevin
  - Chorostkowski, Brad
  - Clarey, Sean
+ - Cochrane, Bryan
  - Collin, Simon
  - Cotter, Jim
  - Cowan, Chad
  - Crete, Martin
  - Crowell, Phil
+ - Currie, Morgan
  - Danbrook, Jamie
  - Daneault, Richard
  - Darragh, Alan
@@ -241,6 +262,7 @@ vs:
  - Folk, Kevin
  - Ford, Chris
  - Forget, Wes
+ - Forrest, Alex
  - Fournier, Mike
  - Fowler, Rob
  - Fry, Ryan
@@ -256,10 +278,12 @@ vs:
  - Gould, Steve
  - Grattan, James
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harris, Tyler
  - Hart, Richard
  - Hebert, Ben
+ - Higgs, Jake
  - Hodgson, Colin
  - Howard, Glenn
  - Howard, Scott
@@ -279,6 +303,7 @@ vs:
  - Kingdon, Wade
  - Koe, Jamie
  - Koe, Kevin
+ - Kohlenberg, Dale
  - Kopf, Steve
  - Korab, Jamie
  - Korte, Bruce
@@ -290,9 +315,12 @@ vs:
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Lemay, Philippe
+ - Lequin, Bradley
  - Likely, John
  - Lyburn, Allan
+ - MacAulay, Ian
  - MacDonald, Blake
+ - MacDonald, Edmund
  - MacDonald, Rod
  - MacFadyen, Alex
  - MacKenzie, Eddie
@@ -335,6 +363,7 @@ vs:
  - Neufeld, Denni
  - Newson, Jamie
  - Nichols, Mark
+ - Njegovan, Connor
  - Noftall, David
  - Odian, Scott
  - Odishaw, Grant
@@ -344,6 +373,7 @@ vs:
  - Palmer, Curt
  - Park, Kevin
  - Pinder, Jordan
+ - Quevillon, Louis
  - Rafuse, Brian
  - Reid, Serge
  - Richard, Jeff
@@ -368,6 +398,7 @@ vs:
  - Smallwood, Robert
  - Smith, Garth
  - Smith, Kent
+ - Smitheram, Christian
  - Solberg, Jonathon
  - Spencer, Adam
  - St.Louis, David

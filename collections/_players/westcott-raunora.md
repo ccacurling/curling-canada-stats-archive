@@ -146,6 +146,7 @@ vs:
 - Courtney, Joanne
 - Crawford, Andrea
 - Crouse, Jennifer
+- Curtis, Erica
 - Curtis, Stacie
 - Cutcliffe, Margaret
 - deJager, Blaine
@@ -248,7 +249,6 @@ vs:
 - Thiessen, Alison
 - Thomas, Jill
 - Tippin, Julie
-- Trickett, Erica
 - Van Osch, Kalia
 - Van Osch, Kesa
 - Van Osch, Marika

@@ -4,18 +4,18 @@ name: Darren Moulding
 name-sort: Moulding, Darren
 totals:
  - event: Brier
-   games: 39
-   wins: 23
-   losses: 16
-   inturn-total: 407
-   inturn-percent: 83
-   outturn-total: 315
+   games: 52
+   wins: 34
+   losses: 18
+   inturn-total: 542
+   inturn-percent: 85
+   outturn-total: 426
    outturn-percent: 82
-   draw-total: 302
+   draw-total: 377
    draw-percent: 83
-   takeout-total: 420
-   takeout-percent: 82
-   shots-total: 722
+   takeout-total: 591
+   takeout-percent: 83
+   shots-total: 968
    shots-percent: 83
 years:
  - year: 2017
@@ -69,9 +69,28 @@ years:
    takeout-percent: 86
    shots-total: 252
    shots-percent: 85
+ - year: 2020
+   event: Brier
+   team: "AB"
+   position: Third
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 135
+   inturn-percent: 88
+   outturn-total: 111
+   outturn-percent: 84
+   draw-total: 75
+   draw-percent: 85
+   takeout-total: 171
+   takeout-percent: 86
+   shots-total: 246
+   shots-percent: 86
 vs:
  - Abel, Clinton
  - Appelman, Tom
+ - Asselin, Emile
+ - Bedard, Alek
  - Beuk, Jonathan
  - Boland, Adam
  - Borden, Robert
@@ -83,9 +102,11 @@ vs:
  - Casey, Adam
  - Chadwick, Scott
  - Chorostkowski, Brad
+ - Cochrane, Bryan
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
+ - Currie, Morgan
  - Doherty, Robert
  - Dunstone, Matthew
  - Epping, John
@@ -94,15 +115,18 @@ vs:
  - Flemming, Paul
  - Ford, Chris
  - Forget, Wes
+ - Forrest, Alex
  - Fry, Ryan
  - Gallant, Brett
  - Geall, Sean
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
  - Hebert, Ben
+ - Higgs, Jake
  - Hodgson, Colin
  - Horgan, Tanner
  - Howard, Glenn
@@ -117,11 +141,15 @@ vs:
  - Kidby, Dustin
  - Koe, Jamie
  - Koe, Kevin
+ - Kohlenberg, Dale
  - Laing, Brent
  - Laycock, Steve
  - LeCocq, Marc
  - Lemay, Philippe
+ - Lequin, Bradley
  - Likely, John
+ - MacAulay, Ian
+ - MacDonald, Edmund
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
@@ -141,7 +169,10 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
+ - O'Rourke, Mark
  - Pinder, Jordan
+ - Quevillon, Louis
  - Rach, Dave
  - Richard, Jeff
  - Saccary, Scott
@@ -154,6 +185,7 @@ vs:
  - Skauge, Greg
  - Smallwood, Robert
  - Smith, Greg
+ - Smitheram, Christian
  - Solberg, Jonathon
  - Stapleton, Connor
  - Sylvain, Eric

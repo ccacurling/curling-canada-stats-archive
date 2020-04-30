@@ -4,18 +4,18 @@ name: Marc Kennedy
 name-sort: Kennedy, Marc
 totals:
  - event: Brier
-   games: 100
-   wins: 77
-   losses: 23
-   inturn-total: 1058
+   games: 114
+   wins: 86
+   losses: 28
+   inturn-total: 1180
    inturn-percent: 90
-   outturn-total: 788
+   outturn-total: 916
    outturn-percent: 89
-   draw-total: 680
+   draw-total: 762
    draw-percent: 89
-   takeout-total: 1166
+   takeout-total: 1334
    takeout-percent: 90
-   shots-total: 1846
+   shots-total: 2096
    shots-percent: 90
 years:
  - year: 2007
@@ -154,12 +154,31 @@ years:
    takeout-percent: 86
    shots-total: 280
    shots-percent: 86
+ - year: 2020
+   event: Brier
+   team: "NO"
+   position: Third
+   games: 14
+   wins: 9
+   losses: 5
+   inturn-total: 122
+   inturn-percent: 90
+   outturn-total: 128
+   outturn-percent: 91
+   draw-total: 82
+   draw-percent: 86
+   takeout-total: 168
+   takeout-percent: 93
+   shots-total: 250
+   shots-percent: 91
 vs:
  - Adam, Gerry
  - Adams, Shawn
+ - Asselin, Emile
  - Atchison, Chris
  - Barker, Richard
  - Barry, Josh
+ - Bedard, Alek
  - Berthelot, Marco
  - Bezanson, Jared
  - Bilesky, Andrew
@@ -181,10 +200,12 @@ vs:
  - Champion, Kevin
  - Charette, Pierre
  - Chorostkowski, Brad
+ - Cochrane, Bryan
  - Cotter, Jim
  - Cowan, Chad
  - Crete, Martin
  - Crowell, Phil
+ - Currie, Morgan
  - Dacey, Mark
  - Danbrook, Jamie
  - Daneault, Richard
@@ -194,7 +215,9 @@ vs:
  - Dillon, Mike
  - Dobson, Paul
  - Doherty, Robert
+ - Dunstone, Matthew
  - Eldridge, Zach
+ - Epping, John
  - Errington, Derek
  - Ferland, Martin
  - Fitzner-LeBlanc, Ian
@@ -202,6 +225,7 @@ vs:
  - Flaxey, Caleb
  - Flemming, Paul
  - Folk, Kevin
+ - Forrest, Alex
  - Fowler, Rob
  - Fraser, Pierre
  - Fry, Ryan
@@ -217,12 +241,15 @@ vs:
  - Granchelli, Kris
  - Grattan, James
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, Al
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
+ - Hebert, Ben
  - Hicke, Dean
+ - Higgs, Jake
  - Hodgson, Colin
  - Howard, Glenn
  - Howard, Russ
@@ -245,6 +272,8 @@ vs:
  - Klitch, Tyler
  - Knapp, Kelly
  - Koe, Jamie
+ - Koe, Kevin
+ - Kohlenberg, Dale
  - Kopf, Steve
  - Korab, Jamie
  - Kuhn, Ryan
@@ -253,7 +282,10 @@ vs:
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Lemay, Philippe
+ - Lequin, Bradley
  - Lohnes, Bruce
+ - MacAulay, Ian
+ - MacDonald, Edmund
  - MacDonald, Rod
  - MacFadyen, Alex
  - MacKenzie, Eddie
@@ -280,6 +312,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Noftall, David
  - Olson, Mark-2
  - O'Rourke, Mark
@@ -289,6 +322,7 @@ vs:
  - Pierce, Brent
  - Pinder, Jordan
  - Porter, Ryan
+ - Quevillon, Louis
  - Rafuse, Brian
  - Recksiedler, Kevin
  - Roach, Darren
@@ -310,6 +344,7 @@ vs:
  - Slauenwhite, David
  - Smith, Garth
  - Smith, Kent
+ - Smitheram, Christian
  - Solberg, Jonathon
  - Spencer, Adam
  - Stoughton, Jeff

@@ -47,6 +47,7 @@ vs:
  - Birchard, Shannon
  - Black, Christina
  - Crouse, Jennifer
+ - Curtis, Erica
  - Curtis, Stacie
  - Devereaux, Julie
  - Duncan, Chelsea
@@ -69,7 +70,6 @@ vs:
  - Porter, Erin
  - Price, Kara
  - Smallwood, Jody
- - Trickett, Erica
  - Walsh, Jenna
  - Webster, Crystal
 ---

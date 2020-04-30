@@ -217,6 +217,7 @@ vs:
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Currie, Wendy
+ - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - Daniel, Sylvie
@@ -394,7 +395,6 @@ vs:
  - Thomas, Jill
  - Thompson, Karla
  - Todd, Fran
- - Trickett, Erica
  - Udle, Teri
  - Unrau, Faye
  - Vandale, Trysta

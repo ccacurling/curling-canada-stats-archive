@@ -4,19 +4,19 @@ name: Lisa Weagle
 name-sort: Weagle, Lisa
 totals:
  - event: Hearts
-   games: 80
-   wins: 63
-   losses: 17
-   inturn-total: 866
+   games: 94
+   wins: 74
+   losses: 20
+   inturn-total: 1033
    inturn-percent: 87
-   outturn-total: 594
+   outturn-total: 687
    outturn-percent: 85
-   draw-total: 1057
+   draw-total: 1251
    draw-percent: 89
-   takeout-total: 403
-   takeout-percent: 81
-   shots-total: 1460
-   shots-percent: 86
+   takeout-total: 469
+   takeout-percent: 80
+   shots-total: 1720
+   shots-percent: 87
 years:
  - year: 2011
    event: Hearts
@@ -120,6 +120,23 @@ years:
    takeout-percent: 81
    shots-total: 273
    shots-percent: 86
+ - year: 2020
+   event: Hearts
+   team: "ON"
+   position: Lead
+   games: 14
+   wins: 11
+   losses: 3
+   inturn-total: 167
+   inturn-percent: 89
+   outturn-total: 93
+   outturn-percent: 84
+   draw-total: 194
+   draw-percent: 91
+   takeout-total: 66
+   takeout-percent: 77
+   shots-total: 260
+   shots-percent: 87
 vs:
  - Affleck, Tricia
  - Alcoe-Holland, Jill
@@ -136,6 +153,8 @@ vs:
  - Beauchamp, Sasha
  - Belisle, Eve
  - Bell, Chelsey
+ - Birchard, Shannon
+ - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
@@ -147,6 +166,7 @@ vs:
  - Brassard, Veronique
  - Brine, Jenn
  - Brothers, Jill
+ - Brown, Corryn
  - Brown, Rachel
  - Cameron, Kate
  - Camozzi, Rhona
@@ -164,6 +184,7 @@ vs:
  - Courtney, Joanne
  - Crawford, Andrea
  - Cunningham, Jessica
+ - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - Daigle, Julie
@@ -176,6 +197,7 @@ vs:
  - Dufresne, Audree
  - Duncan, Chelsea
  - Dykstra, Michelle
+ - Einarson, Kerri
  - Englot, Michelle
  - Eyamie, Lisa
  - Fallis, Karen
@@ -189,11 +211,13 @@ vs:
  - Galusha, Kerry
  - Gannon, Melissa
  - Gates, Amanda
- - Gates, Jenny
+ - Gates, Jennifer
  - Gregoire, Veronique
  - Griffin, Alison
  - Guzzwell, Stephanie
+ - Hamilton, Beth
  - Hastings, Julie
+ - Hawes, Dezaray
  - Hill, Trish
  - Holland, Amber
  - Holtby, Taryn
@@ -208,6 +232,7 @@ vs:
  - Kasner, Marliese
  - Kelly, Kim
  - Kleibrink, Shannon
+ - Klymchuk, Ashley
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
@@ -219,6 +244,7 @@ vs:
  - Lawton, Stefanie
  - Lemay, Annie
  - Lilly, Kendra
+ - Logan, Emma
  - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
@@ -233,6 +259,7 @@ vs:
  - McEwen, Dawn
  - McInnis, Susan
  - McQuaid, Michelle
+ - Meilleur, Briane
  - Miller, Wendy
  - Moore, Kristie
  - Moses, Dawn
@@ -251,12 +278,15 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Pilote, Kristen
+ - Pincott, Erin
  - Pinksen, Sadie
+ - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
  - Reid, Jackie
  - Richard, Marie
  - Richards, Brette
+ - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Robison, Michala
  - Ross, Allison
@@ -283,11 +313,12 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
+ - Taylor, Susan
  - Thevenot, Kara
  - Thiessen, Alison
  - Titheridge, Lindsay
- - Trickett, Erica
  - Trombley, Christy
+ - Tuor, Kimberly
  - Udle, Teri
  - Van Osch, Kesa
  - Wallingham, Patty

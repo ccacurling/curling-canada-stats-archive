@@ -6,13 +6,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 79
-      wins: 0
+      percent: 84
+      wins: 1
       losses: 2
     player2:
-      percent: 84
+      percent: 81
       wins: 2
-      losses: 0
+      losses: 1
   games:
   - player1:
       team: AB
@@ -46,6 +46,22 @@ vs:
     year: 2018
     draw: Round Robin(2)
     score: NS 7 - AB 6
+  - player1:
+      team: AB
+      position: Third
+      percent: 95
+      win: 1
+      loss: 0
+    player2:
+      team: NS
+      position: Fourth
+      percent: 73
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(10)
+    score: AB 6 - NS 2
 - name: Muyres, Dallan
   totals:
   - event: Brier
@@ -244,12 +260,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 81
+      percent: 80
       wins: 1
-      losses: 3
+      losses: 4
     player2:
       percent: 82
-      wins: 3
+      wins: 4
       losses: 1
   - event: Trials(Men)
     player1:
@@ -325,6 +341,22 @@ vs:
     year: 2019
     draw: Final(22)
     score: WC 3 - AB 4
+  - player1:
+      team: AB
+      position: Third
+      percent: 77
+      win: 0
+      loss: 1
+    player2:
+      team: CA
+      position: Third
+      percent: 81
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Pool(16)
+    score: CA 5 - AB 4
   - player1:
       team: Bott
       position: Third
@@ -414,13 +446,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 85
-      wins: 2
-      losses: 3
+      percent: 84
+      wins: 3
+      losses: 4
     player2:
       percent: 88
-      wins: 3
-      losses: 2
+      wins: 4
+      losses: 3
   - event: Trials(Men)
     player1:
       percent: 90
@@ -512,6 +544,38 @@ vs:
     draw: Page 3-4(19)
     score: WC 7 - CA 2
   - player1:
+      team: AB
+      position: Third
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: NL
+      position: Third
+      percent: 90
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(5)
+    score: AB 3 - NL 2
+  - player1:
+      team: AB
+      position: Third
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: NL
+      position: Third
+      percent: 89
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Final(23)
+    score: NL 7 - AB 3
+  - player1:
       team: Bott
       position: Third
       percent: 90
@@ -527,6 +591,62 @@ vs:
     year: 2017
     draw: Round Robin(4)
     score: Bott 5 - Gush 6
+- name: Njegovan, Connor
+  totals:
+  - event: Brier
+    player1:
+      percent: 92
+      wins: 1
+      losses: 0
+    player2:
+      percent: 98
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: AB
+      position: Third
+      percent: 92
+      win: 1
+      loss: 0
+    player2:
+      team: MB
+      position: Lead
+      percent: 98
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(8)
+    score: MB 6 - AB 7
+- name: O'Rourke, Mark
+  totals:
+  - event: Brier
+    player1:
+      percent: 88
+      wins: 1
+      losses: 0
+    player2:
+      percent: 83
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: AB
+      position: Third
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: PE
+      position: Lead
+      percent: 83
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(13)
+    score: AB 9 - PE 6
 - name: Pinder, Jordan
   totals:
   - event: Brier
@@ -555,6 +675,34 @@ vs:
     year: 2017
     draw: Round Robin(4)
     score: AB 6 - NS 11
+- name: Quevillon, Louis
+  totals:
+  - event: Brier
+    player1:
+      percent: 78
+      wins: 1
+      losses: 0
+    player2:
+      percent: 67
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: AB
+      position: Third
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: QC
+      position: Third
+      percent: 67
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(11)
+    score: QC 3 - AB 7
 - name: Rach, Dave
   totals:
   - event: Brier
@@ -615,13 +763,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 79
-      wins: 0
+      percent: 84
+      wins: 1
       losses: 2
     player2:
-      percent: 88
+      percent: 86
       wins: 2
-      losses: 0
+      losses: 1
   games:
   - player1:
       team: AB
@@ -655,17 +803,33 @@ vs:
     year: 2018
     draw: Round Robin(2)
     score: NS 7 - AB 6
+  - player1:
+      team: AB
+      position: Third
+      percent: 95
+      win: 1
+      loss: 0
+    player2:
+      team: NS
+      position: Second
+      percent: 81
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(10)
+    score: AB 6 - NS 2
 - name: Samagalski, Derek
   totals:
   - event: Brier
     player1:
-      percent: 79
-      wins: 2
+      percent: 80
+      wins: 3
       losses: 0
     player2:
-      percent: 88
+      percent: 91
       wins: 0
-      losses: 2
+      losses: 3
   - event: Trials(Men)
     player1:
       percent: 95
@@ -708,6 +872,22 @@ vs:
     year: 2019
     draw: Round Robin(5)
     score: WC 9 - MB 8
+  - player1:
+      team: AB
+      position: Third
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: WC
+      position: Second
+      percent: 98
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Pool(18)
+    score: AB 4 - WC 2
   - player1:
       team: Bott
       position: Third
@@ -816,13 +996,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 83
-      wins: 0
+      percent: 87
+      wins: 2
       losses: 1
     player2:
-      percent: 83
+      percent: 81
       wins: 1
-      losses: 0
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 84
@@ -849,6 +1029,38 @@ vs:
     year: 2017
     draw: Round Robin(3)
     score: AB 5 - SK 11
+  - player1:
+      team: AB
+      position: Third
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: SK
+      position: Second
+      percent: 80
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Pool(15)
+    score: AB 9 - SK 5
+  - player1:
+      team: AB
+      position: Third
+      percent: 95
+      win: 1
+      loss: 0
+    player2:
+      team: SK
+      position: Second
+      percent: 81
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Page 1-2(20)
+    score: SK 4 - AB 9
   - player1:
       team: Bott
       position: Third
@@ -1005,6 +1217,34 @@ vs:
     year: 2018
     draw: Round Robin(8)
     score: AB 9 - NL 2
+- name: Smitheram, Christian
+  totals:
+  - event: Brier
+    player1:
+      percent: 77
+      wins: 1
+      losses: 0
+    player2:
+      percent: 45
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: AB
+      position: Third
+      percent: 77
+      win: 1
+      loss: 0
+    player2:
+      team: NU
+      position: Second
+      percent: 45
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(3)
+    score: NU 4 - AB 9
 - name: Solberg, Jonathon
   totals:
   - event: Brier
@@ -1165,13 +1405,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 85
-      wins: 2
-      losses: 3
-    player2:
-      percent: 90
+      percent: 84
       wins: 3
-      losses: 2
+      losses: 4
+    player2:
+      percent: 88
+      wins: 4
+      losses: 3
   - event: Trials(Men)
     player1:
       percent: 90
@@ -1262,6 +1502,38 @@ vs:
     year: 2019
     draw: Page 3-4(19)
     score: WC 7 - CA 2
+  - player1:
+      team: AB
+      position: Third
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: NL
+      position: Lead
+      percent: 89
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(5)
+    score: AB 3 - NL 2
+  - player1:
+      team: AB
+      position: Third
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: NL
+      position: Lead
+      percent: 78
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Final(23)
+    score: NL 7 - AB 3
   - player1:
       team: Bott
       position: Third

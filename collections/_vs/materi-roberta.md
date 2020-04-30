@@ -555,6 +555,34 @@ vs:
     year: 2012
     draw: Round Robin(12)
     score: SK 8 - AB 9
+- name: Pewarchuk, Dailene
+  totals:
+  - event: Hearts
+    player1:
+      percent: 69
+      wins: 0
+      losses: 1
+    player2:
+      percent: 75
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: SK
+      position: Second
+      percent: 69
+      win: 0
+      loss: 1
+    player2:
+      team: BC
+      position: Second
+      percent: 75
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2012
+    draw: Round Robin(4)
+    score: BC 10 - SK 8
 - name: Power, Marie-Anne
   totals:
   - event: Hearts
@@ -851,34 +879,6 @@ vs:
     year: 2008
     draw: Round Robin(5)
     score: CA 6 - SK 8
-- name: Sivertson, Dailene
-  totals:
-  - event: Hearts
-    player1:
-      percent: 69
-      wins: 0
-      losses: 1
-    player2:
-      percent: 75
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: SK
-      position: Second
-      percent: 69
-      win: 0
-      loss: 1
-    player2:
-      team: BC
-      position: Second
-      percent: 75
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2012
-    draw: Round Robin(4)
-    score: BC 10 - SK 8
 - name: Skinner, Julie
   totals:
   - event: Hearts

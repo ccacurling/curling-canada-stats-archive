@@ -150,6 +150,7 @@ vs:
  - Overton-Clapham, Cathy
  - Parsons, Danielle
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Power, Marie-Anne
  - Radchenka, Tammy
  - Richard, Marie
@@ -160,7 +161,6 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Simons, Renee
- - Sivertson, Dailene
  - Skinner, Julie
  - Smith, Heather
  - Sonnenberg, Renee

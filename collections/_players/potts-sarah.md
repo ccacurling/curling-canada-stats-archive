@@ -141,6 +141,7 @@ vs:
 - Court, Morgan
 - Courtney, Joanne
 - Crouse, Jennifer
+- Curtis, Erica
 - Curtis, Stacie
 - Cutcliffe, Margaret
 - Daigle, Julie
@@ -229,7 +230,6 @@ vs:
 - Thompson, Karla
 - Thurston, Jill
 - Tippin, Julie
-- Trickett, Erica
 - Udle, Teri
 - Vandale, Trysta
 - Vautour, Carrie

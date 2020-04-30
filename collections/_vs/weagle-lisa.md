@@ -135,13 +135,13 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 84
-      wins: 1
+      percent: 85
+      wins: 2
       losses: 2
     player2:
-      percent: 78
+      percent: 79
       wins: 2
-      losses: 1
+      losses: 2
   games:
   - player1:
       team: 'ON'
@@ -191,6 +191,22 @@ vs:
     year: 2019
     draw: Final(23)
     score: ON 6 - AB 8
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: CA
+      position: Third
+      percent: 83
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Pool(17)
+    score: CA 4 - ON 8
 - name: Wilson, Leslie
   totals:
   - event: Hearts

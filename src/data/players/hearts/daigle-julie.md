@@ -47,7 +47,7 @@ vs:
  - Ferguson, Dana
  - Fleury, Tracy
  - Fyfe, Liz
- - Gates, Jenny
+ - Gates, Jennifer
  - Griffin, Alison
  - Homan, Rachel
  - Lilly, Kendra

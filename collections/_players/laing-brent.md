@@ -4,18 +4,18 @@ name: Brent Laing
 name-sort: Laing, Brent
 totals:
 - event: Brier
-  games: 161
-  wins: 124
-  losses: 37
-  inturn-total: 1428
-  inturn-percent: 87
-  outturn-total: 1569
+  games: 174
+  wins: 132
+  losses: 42
+  inturn-total: 1596
+  inturn-percent: 88
+  outturn-total: 1639
   outturn-percent: 88
-  draw-total: 1232
-  draw-percent: 87
-  takeout-total: 1765
+  draw-total: 1452
+  draw-percent: 88
+  takeout-total: 1783
   takeout-percent: 88
-  shots-total: 2997
+  shots-total: 3235
   shots-percent: 88
 - event: Trials (Men)
   games: 43
@@ -236,6 +236,23 @@ years:
   takeout-percent: 87
   shots-total: 280
   shots-percent: 86
+- year: 2020
+  event: Brier
+  team: 'ON'
+  position: Lead
+  games: 13
+  wins: 8
+  losses: 5
+  inturn-total: 168
+  inturn-percent: 92
+  outturn-total: 70
+  outturn-percent: 92
+  draw-total: 220
+  draw-percent: 93
+  takeout-total: 18
+  takeout-percent: 79
+  shots-total: 238
+  shots-percent: 92
 - year: 2001
   event: Trials (Men)
   team: MOR
@@ -324,6 +341,7 @@ years:
 vs:
 - Adam, Gerry
 - Adams, Shawn
+- Aho, David
 - Anderson, Chris
 - Armstrong, Doug
 - Armstrong, Mike
@@ -393,6 +411,7 @@ vs:
 - Flaxey, Caleb
 - Flemming, Paul
 - Folk, Kevin
+- Forrest, Alex
 - Forrest, Tyler
 - Fowler, Rob
 - Fraser, Pierre
@@ -442,6 +461,7 @@ vs:
 - Janssen, Patrick
 - Jeffrey, Chris
 - Jenkins, Bill
+- Jensen, Trygg
 - Jewer, Keith
 - Joanisse, Dean
 - Johnson, Bill
@@ -502,6 +522,7 @@ vs:
 - McDermaid, Donald
 - McEwen, Mike
 - McKee, Darrell
+- McLeod, Shadrach
 - Meachem, Shaun Myles
 - Mead, Jon
 - Mead, Jonathan
@@ -527,10 +548,12 @@ vs:
 - Naugler, Tom
 - Nedohin, David
 - Nelson, Randy
+- Nerpin, Andrew
 - Neufeld, B.J.
 - Neufeld, Denni
 - Newson, Jamie
 - Nichols, Mark
+- Njegovan, Connor
 - Noftall, David
 - Noseworthy, Mark
 - O'Rourke, Mark
@@ -542,6 +565,7 @@ vs:
 - Palmer, Curt
 - Park, Kevin
 - Park, Shane
+- Parsons, Cole
 - Peachey, Jay
 - Peddigrew, Ken
 - Pfeifer, Scott
@@ -571,6 +595,7 @@ vs:
 - Schille, Chris
 - Schmidt, Aryn
 - Schneider, Catlin
+- Scoffin, Thomas
 - Scoffin, Wade
 - Seabrook, Matt
 - Seabrook, Scott
@@ -604,11 +629,13 @@ vs:
 - Virtue, Brock
 - Walchuk, Don
 - Walker, Geoff
+- Wallingham, Joe
 - Watson, Aaron
 - Whitehead, Kevin
 - Whitehead, Mark
 - Whittle, Mark
 - Windsor, Brian
+- Winfield, Brett
 - Wood, Mike
 - Wozniak, Matt
 - Zawada, Braden

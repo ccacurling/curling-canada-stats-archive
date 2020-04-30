@@ -4,19 +4,19 @@ name: Mathew Camm
 name-sort: Camm, Mathew
 totals:
 - event: Brier
-  games: 24
-  wins: 14
-  losses: 10
-  inturn-total: 245
+  games: 37
+  wins: 22
+  losses: 15
+  inturn-total: 371
   inturn-percent: 86
-  outturn-total: 209
+  outturn-total: 321
   outturn-percent: 85
-  draw-total: 161
-  draw-percent: 89
-  takeout-total: 293
+  draw-total: 268
+  draw-percent: 87
+  takeout-total: 424
   takeout-percent: 84
-  shots-total: 454
-  shots-percent: 86
+  shots-total: 692
+  shots-percent: 85
 - event: Trials (Men)
   games: 8
   wins: 2
@@ -66,6 +66,23 @@ years:
   takeout-percent: 84
   shots-total: 246
   shots-percent: 86
+- year: 2020
+  event: Brier
+  team: 'ON'
+  position: Second
+  games: 13
+  wins: 8
+  losses: 5
+  inturn-total: 126
+  inturn-percent: 85
+  outturn-total: 112
+  outturn-percent: 84
+  draw-total: 107
+  draw-percent: 84
+  takeout-total: 131
+  takeout-percent: 85
+  shots-total: 238
+  shots-percent: 85
 - year: 2017
   event: Trials (Men)
   team: Eppi
@@ -84,11 +101,13 @@ years:
   shots-total: 158
   shots-percent: 85
 vs:
+- Aho, David
 - Asselin, Felix
 - Barry, Josh
 - Bezanson, Jared
 - Borden, Robert
 - Bottcher, Brendan
+- Brannen, Jamie
 - Carmody, Anson
 - Carruthers, Reid
 - Case, Peter
@@ -98,11 +117,13 @@ vs:
 - Crete, Martin
 - Crowell, Phil
 - Dion, William
+- Dobson, Paul
 - Doherty, Robert
 - Dunstone, Matthew
 - Eldridge, Zach
 - Flasch, Colton
 - Flemming, Paul
+- Forrest, Alex
 - Fournier, Mike
 - Fry, Ryan
 - Gallant, Brett
@@ -110,6 +131,7 @@ vs:
 - Grattan, James
 - Griffith, Ty
 - Griffith, Tyrel
+- Gunnlaugson, Jason
 - Gushue, Brad
 - Harnden, E.J.
 - Harnden, Ryan
@@ -117,7 +139,9 @@ vs:
 - Hodgson, Colin
 - Jacobs, Brad
 - Jeffrey, Chris
+- Jensen, Trygg
 - Kennedy, Marc
+- Kidby, Dustin
 - Kingdon, Wade
 - Koe, Jamie
 - Koe, Kevin
@@ -131,6 +155,7 @@ vs:
 - Martin, Karrick
 - McCann, Andy
 - McEwen, Mike
+- McLeod, Shadrach
 - Menard, Jean-Michel
 - Menard, Philippe
 - Morris, John
@@ -140,14 +165,18 @@ vs:
 - Muyres, Dallan
 - Muyres, Kirk
 - Nadeau, Jeff
+- Nerpin, Andrew
 - Neufeld, B.J.
 - Neufeld, Denni
 - Nichols, Mark
+- Njegovan, Connor
+- Parsons, Cole
 - Rycroft, Carter
 - Saccary, Scott
 - Samagalski, Derek
 - Sawatsky, Rick
 - Schneider, Catlin
+- Scoffin, Thomas
 - Simmons, Pat
 - St.Louis, David
 - Steski, Peter
@@ -156,7 +185,9 @@ vs:
 - Thiessen, Nolan
 - Trepanier, Jean-Francois
 - Walker, Geoff
+- Wallingham, Joe
 - Whitehead, Mark
+- Winfield, Brett
 - Wozniak, Matt
 - Younker, Robbie
 ---

@@ -208,6 +208,7 @@ vs:
  - O'Rourke, Brittany
  - O'Rourke, Kathy
  - Parsons, Danielle
+ - Pewarchuk, Dailene
  - Porter, Erin
  - Power, Marie-Anne
  - Reed, Shellan
@@ -219,7 +220,6 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shumay, Jill
- - Sivertson, Dailene
  - Slywka, Sarah
  - Smith, Heather
  - Stabel, Stacey

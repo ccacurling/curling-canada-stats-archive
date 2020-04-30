@@ -83,7 +83,7 @@ vs:
  - Foster, Kristen
  - Fyfe, Liz
  - Gannon, Melissa
- - Gates, Jenny
+ - Gates, Jennifer
  - Griffin, Alison
  - Homan, Rachel
  - Hughes, Meaghan

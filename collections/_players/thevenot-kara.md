@@ -50,7 +50,7 @@ vs:
  - Ferguson, Dana
  - Forward, Katie
  - Galusha, Kerry
- - Gates, Jenny
+ - Gates, Jennifer
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Homan, Rachel

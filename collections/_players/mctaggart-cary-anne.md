@@ -98,6 +98,7 @@ vs:
 - Court, Morgan
 - Courtney, Joanne
 - Crouse, Jennifer
+- Curtis, Erica
 - Curtis, Stacie
 - Devereaux, Julie
 - Duhaime, Chantal
@@ -158,7 +159,6 @@ vs:
 - Thiboutot, Isabelle
 - Tippin, Julie
 - Titheridge, Lindsay
-- Trickett, Erica
 - Van Osch, Kalia
 - Van Osch, Kesa
 - Van Osch, Marika

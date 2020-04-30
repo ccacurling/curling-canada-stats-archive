@@ -139,6 +139,34 @@ vs:
     year: 2018
     draw: Round Robin(11)
     score: ON 11 - PE 4
+- name: MacAulay, Ian
+  totals:
+  - event: Brier
+    player1:
+      percent: 80
+      wins: 1
+      losses: 0
+    player2:
+      percent: 83
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: AB
+      position: Lead
+      percent: 80
+      win: 1
+      loss: 0
+    player2:
+      team: PE
+      position: Third
+      percent: 83
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(13)
+    score: AB 9 - PE 6
 - name: MacKenzie, Eddie
   totals:
   - event: Brier
@@ -804,6 +832,34 @@ vs:
     year: 2017
     draw: Round Robin(2)
     score: Eppi 6 - Gush 4
+- name: O'Rourke, Mark
+  totals:
+  - event: Brier
+    player1:
+      percent: 80
+      wins: 1
+      losses: 0
+    player2:
+      percent: 83
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: AB
+      position: Lead
+      percent: 80
+      win: 1
+      loss: 0
+    player2:
+      team: PE
+      position: Lead
+      percent: 83
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(13)
+    score: AB 9 - PE 6
 - name: Saccary, Scott
   totals:
   - event: Brier

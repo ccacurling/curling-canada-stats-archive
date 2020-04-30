@@ -2,6 +2,34 @@
 title: John Epping Head-to-head
 name: Epping, John
 vs:
+- name: Flasch, Colton
+  totals:
+  - event: Brier
+    player1:
+      percent: 85
+      wins: 1
+      losses: 0
+    player2:
+      percent: 88
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: CA
+      position: Second
+      percent: 88
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(1)
+    score: ON 5 - CA 3
 - name: Flemming, Paul
   totals:
   - event: Brier
@@ -30,6 +58,34 @@ vs:
     year: 2018
     draw: Pool(16)
     score: NS 6 - ON 8
+- name: Forrest, Alex
+  totals:
+  - event: Brier
+    player1:
+      percent: 78
+      wins: 1
+      losses: 0
+    player2:
+      percent: 86
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: MB
+      position: Third
+      percent: 86
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Pool(15)
+    score: ON 9 - MB 5
 - name: Fournier, Mike
   totals:
   - event: Brier
@@ -131,13 +187,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 88
-      wins: 0
+      percent: 89
+      wins: 1
       losses: 2
     player2:
       percent: 89
       wins: 2
-      losses: 0
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 86
@@ -180,6 +236,22 @@ vs:
     year: 2018
     draw: Page 1-2(21)
     score: CA 6 - ON 2
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: NL
+      position: Second
+      percent: 88
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Pool(16)
+    score: NL 4 - ON 8
   - player1:
       team: Eppi
       position: Fourth
@@ -228,12 +300,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 77
+      percent: 65
       wins: 1
-      losses: 0
+      losses: 1
     player2:
-      percent: 76
-      wins: 0
+      percent: 79
+      wins: 1
       losses: 1
   games:
   - player1:
@@ -252,17 +324,86 @@ vs:
     year: 2018
     draw: Round Robin(3)
     score: NB 7 - ON 9
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 51
+      win: 0
+      loss: 1
+    player2:
+      team: NB
+      position: Fourth
+      percent: 83
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(8)
+    score: ON 4 - NB 7
+- name: Gunnlaugson, Jason
+  totals:
+  - event: Brier
+    player1:
+      percent: 78
+      wins: 1
+      losses: 0
+    player2:
+      percent: 80
+      wins: 0
+      losses: 1
+  - event: Trials(Men)
+    player1:
+      percent: 91
+      wins: 1
+      losses: 0
+    player2:
+      percent: 84
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: MB
+      position: Fourth
+      percent: 80
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Pool(15)
+    score: ON 9 - MB 5
+  - player1:
+      team: MIDD
+      position: Second
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: GUNN
+      position: Fourth
+      percent: 84
+      win: 0
+      loss: 1
+    event: Trials (Men)
+    year: 2009
+    draw: Round Robin(7)
+    score: GUNN 4 - MIDD 9
 - name: Gushue, Brad
   totals:
   - event: Brier
     player1:
-      percent: 88
-      wins: 0
+      percent: 89
+      wins: 1
       losses: 2
     player2:
-      percent: 99
+      percent: 94
       wins: 2
-      losses: 0
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 86
@@ -306,6 +447,22 @@ vs:
     draw: Page 1-2(21)
     score: CA 6 - ON 2
   - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: NL
+      position: Fourth
+      percent: 83
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Pool(16)
+    score: NL 4 - ON 8
+  - player1:
       team: Eppi
       position: Fourth
       percent: 86
@@ -325,13 +482,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 76
-      wins: 0
-      losses: 1
-    player2:
-      percent: 71
+      percent: 82
       wins: 1
-      losses: 0
+      losses: 2
+    player2:
+      percent: 81
+      wins: 2
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 72
@@ -359,6 +516,38 @@ vs:
     draw: Round Robin(1)
     score: NO 4 - ON 3
   - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 80
+      win: 1
+      loss: 0
+    player2:
+      team: 'NO'
+      position: Second
+      percent: 80
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Pool(18)
+    score: NO 6 - ON 10
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 90
+      win: 0
+      loss: 1
+    player2:
+      team: 'NO'
+      position: Second
+      percent: 94
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Tie-Breaker(20)
+    score: ON 4 - NO 8
+  - player1:
       team: EPP
       position: Fourth
       percent: 72
@@ -378,13 +567,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 76
-      wins: 0
-      losses: 1
-    player2:
-      percent: 85
+      percent: 82
       wins: 1
-      losses: 0
+      losses: 2
+    player2:
+      percent: 88
+      wins: 2
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 80
@@ -411,6 +600,38 @@ vs:
     year: 2018
     draw: Round Robin(1)
     score: NO 4 - ON 3
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 80
+      win: 1
+      loss: 0
+    player2:
+      team: 'NO'
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Pool(18)
+    score: NO 6 - ON 10
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 90
+      win: 0
+      loss: 1
+    player2:
+      team: 'NO'
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Tie-Breaker(20)
+    score: ON 4 - NO 8
   - player1:
       team: EPP
       position: Fourth
@@ -443,17 +664,102 @@ vs:
     year: 2017
     draw: Round Robin(19)
     score: Jaco 2 - Eppi 7
+- name: Hebert, Ben
+  totals:
+  - event: Brier
+    player1:
+      percent: 85
+      wins: 1
+      losses: 0
+    player2:
+      percent: 95
+      wins: 0
+      losses: 1
+  - event: Trials(Men)
+    player1:
+      percent: 75
+      wins: 0
+      losses: 3
+    player2:
+      percent: 92
+      wins: 3
+      losses: 0
+  games:
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: CA
+      position: Lead
+      percent: 95
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(1)
+    score: ON 5 - CA 3
+  - player1:
+      team: MIDD
+      position: Second
+      percent: 71
+      win: 0
+      loss: 1
+    player2:
+      team: MART
+      position: Lead
+      percent: 85
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2009
+    draw: Round Robin(3)
+    score: MART 7 - MIDD 3
+  - player1:
+      team: EPP
+      position: Fourth
+      percent: 69
+      win: 0
+      loss: 1
+    player2:
+      team: MAR
+      position: Lead
+      percent: 92
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2013
+    draw: Round Robin(10)
+    score: MAR 9 - EPP 5
+  - player1:
+      team: Eppi
+      position: Fourth
+      percent: 86
+      win: 0
+      loss: 1
+    player2:
+      team: Koe
+      position: Lead
+      percent: 97
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2017
+    draw: Round Robin(13)
+    score: Koe 6 - Eppi 4
 - name: Hodgson, Colin
   totals:
   - event: Brier
     player1:
-      percent: 87
-      wins: 1
-      losses: 0
-    player2:
-      percent: 90
-      wins: 0
+      percent: 80
+      wins: 2
       losses: 1
+    player2:
+      percent: 91
+      wins: 1
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 81
@@ -481,6 +787,38 @@ vs:
     draw: Round Robin(9)
     score: MB 5 - ON 10
   - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 67
+      win: 0
+      loss: 1
+    player2:
+      team: WC
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(11)
+    score: ON 7 - WC 11
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: WC
+      position: Lead
+      percent: 93
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Tie-Breaker(19)
+    score: ON 7 - WC 6
+  - player1:
       team: Eppi
       position: Fourth
       percent: 81
@@ -500,13 +838,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 76
-      wins: 0
-      losses: 1
-    player2:
-      percent: 85
+      percent: 82
       wins: 1
-      losses: 0
+      losses: 2
+    player2:
+      percent: 83
+      wins: 2
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 80
@@ -533,6 +871,38 @@ vs:
     year: 2018
     draw: Round Robin(1)
     score: NO 4 - ON 3
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 80
+      win: 1
+      loss: 0
+    player2:
+      team: 'NO'
+      position: Fourth
+      percent: 73
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Pool(18)
+    score: NO 6 - ON 10
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 90
+      win: 0
+      loss: 1
+    player2:
+      team: 'NO'
+      position: Fourth
+      percent: 92
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Tie-Breaker(20)
+    score: ON 4 - NO 8
   - player1:
       team: EPP
       position: Fourth
@@ -593,6 +963,163 @@ vs:
     year: 2018
     draw: Round Robin(3)
     score: NB 7 - ON 9
+- name: Jensen, Trygg
+  totals:
+  - event: Brier
+    player1:
+      percent: 86
+      wins: 1
+      losses: 0
+    player2:
+      percent: 65
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Third
+      percent: 65
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(5)
+    score: YT 6 - ON 10
+- name: Kennedy, Marc
+  totals:
+  - event: Brier
+    player1:
+      percent: 85
+      wins: 1
+      losses: 1
+    player2:
+      percent: 91
+      wins: 1
+      losses: 1
+  - event: Trials(Men)
+    player1:
+      percent: 75
+      wins: 0
+      losses: 3
+    player2:
+      percent: 92
+      wins: 3
+      losses: 0
+  games:
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 80
+      win: 1
+      loss: 0
+    player2:
+      team: 'NO'
+      position: Third
+      percent: 86
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Pool(18)
+    score: NO 6 - ON 10
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 90
+      win: 0
+      loss: 1
+    player2:
+      team: 'NO'
+      position: Third
+      percent: 96
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Tie-Breaker(20)
+    score: ON 4 - NO 8
+  - player1:
+      team: MIDD
+      position: Second
+      percent: 71
+      win: 0
+      loss: 1
+    player2:
+      team: MART
+      position: Second
+      percent: 85
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2009
+    draw: Round Robin(3)
+    score: MART 7 - MIDD 3
+  - player1:
+      team: EPP
+      position: Fourth
+      percent: 69
+      win: 0
+      loss: 1
+    player2:
+      team: MAR
+      position: Second
+      percent: 96
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2013
+    draw: Round Robin(10)
+    score: MAR 9 - EPP 5
+  - player1:
+      team: Eppi
+      position: Fourth
+      percent: 86
+      win: 0
+      loss: 1
+    player2:
+      team: Koe
+      position: Third
+      percent: 94
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2017
+    draw: Round Robin(13)
+    score: Koe 6 - Eppi 4
+- name: Kidby, Dustin
+  totals:
+  - event: Brier
+    player1:
+      percent: 84
+      wins: 0
+      losses: 1
+    player2:
+      percent: 79
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 84
+      win: 0
+      loss: 1
+    player2:
+      team: SK
+      position: Lead
+      percent: 79
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(10)
+    score: SK 6 - ON 4
 - name: Kingdon, Wade
   totals:
   - event: Brier
@@ -621,17 +1148,130 @@ vs:
     year: 2018
     draw: Round Robin(7)
     score: ON 14 - NU 3
+- name: Koe, Jamie
+  totals:
+  - event: Brier
+    player1:
+      percent: 83
+      wins: 1
+      losses: 0
+    player2:
+      percent: 78
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: NT
+      position: Fourth
+      percent: 78
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(14)
+    score: NT 8 - ON 11
+- name: Koe, Kevin
+  totals:
+  - event: Brier
+    player1:
+      percent: 85
+      wins: 1
+      losses: 0
+    player2:
+      percent: 70
+      wins: 0
+      losses: 1
+  - event: Trials(Men)
+    player1:
+      percent: 87
+      wins: 1
+      losses: 2
+    player2:
+      percent: 88
+      wins: 2
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: CA
+      position: Fourth
+      percent: 70
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(1)
+    score: ON 5 - CA 3
+  - player1:
+      team: MIDD
+      position: Second
+      percent: 86
+      win: 0
+      loss: 1
+    player2:
+      team: KOE
+      position: Fourth
+      percent: 94
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2009
+    draw: Round Robin(4)
+    score: MIDD 4 - KOE 11
+  - player1:
+      team: EPP
+      position: Fourth
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: KOE
+      position: Fourth
+      percent: 86
+      win: 0
+      loss: 1
+    event: Trials (Men)
+    year: 2013
+    draw: Round Robin(2)
+    score: KOE 8 - EPP 9
+  - player1:
+      team: Eppi
+      position: Fourth
+      percent: 86
+      win: 0
+      loss: 1
+    player2:
+      team: Koe
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2017
+    draw: Round Robin(13)
+    score: Koe 6 - Eppi 4
 - name: Laycock, Steve
   totals:
   - event: Brier
     player1:
-      percent: 89
-      wins: 1
+      percent: 90
+      wins: 2
       losses: 0
     player2:
-      percent: 83
+      percent: 74
       wins: 0
-      losses: 1
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 76
@@ -658,6 +1298,22 @@ vs:
     year: 2018
     draw: Round Robin(13)
     score: ON 8 - SK 4
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Third
+      percent: 63
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(4)
+    score: ON 11 - BC 3
   - player1:
       team: MIDD
       position: Second
@@ -778,12 +1434,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 90
+      percent: 85
       wins: 1
-      losses: 1
+      losses: 2
     player2:
       percent: 88
-      wins: 1
+      wins: 2
       losses: 1
   - event: Trials(Men)
     player1:
@@ -828,6 +1484,22 @@ vs:
     draw: Semi-Final(22)
     score: AB 6 - ON 4
   - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 72
+      win: 0
+      loss: 1
+    player2:
+      team: AB
+      position: Lead
+      percent: 86
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Pool(17)
+    score: ON 3 - AB 10
+  - player1:
       team: Eppi
       position: Fourth
       percent: 80
@@ -847,12 +1519,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 77
+      percent: 65
       wins: 1
-      losses: 0
+      losses: 1
     player2:
-      percent: 76
-      wins: 0
+      percent: 80
+      wins: 1
       losses: 1
   games:
   - player1:
@@ -871,17 +1543,33 @@ vs:
     year: 2018
     draw: Round Robin(3)
     score: NB 7 - ON 9
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 51
+      win: 0
+      loss: 1
+    player2:
+      team: NB
+      position: Second
+      percent: 84
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(8)
+    score: ON 4 - NB 7
 - name: McEwen, Mike
   totals:
   - event: Brier
     player1:
+      percent: 81
+      wins: 2
+      losses: 1
+    player2:
       percent: 89
       wins: 1
-      losses: 0
-    player2:
-      percent: 90
-      wins: 0
-      losses: 1
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 83
@@ -908,6 +1596,38 @@ vs:
     year: 2018
     draw: Pool(15)
     score: WC 7 - ON 8
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 67
+      win: 0
+      loss: 1
+    player2:
+      team: WC
+      position: Fourth
+      percent: 95
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(11)
+    score: ON 7 - WC 11
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: WC
+      position: Fourth
+      percent: 84
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Tie-Breaker(19)
+    score: ON 7 - WC 6
   - player1:
       team: EPP
       position: Fourth
@@ -940,16 +1660,44 @@ vs:
     year: 2017
     draw: Round Robin(7)
     score: McEw 8 - Eppi 5
+- name: McLeod, Shadrach
+  totals:
+  - event: Brier
+    player1:
+      percent: 83
+      wins: 1
+      losses: 0
+    player2:
+      percent: 89
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: NT
+      position: Second
+      percent: 89
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(14)
+    score: NT 8 - ON 11
 - name: Moskowy, Braeden
   totals:
   - event: Brier
     player1:
-      percent: 87
-      wins: 1
-      losses: 0
-    player2:
       percent: 85
-      wins: 0
+      wins: 1
+      losses: 1
+    player2:
+      percent: 82
+      wins: 1
       losses: 1
   - event: Trials(Men)
     player1:
@@ -978,6 +1726,22 @@ vs:
     draw: Round Robin(9)
     score: MB 5 - ON 10
   - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 84
+      win: 0
+      loss: 1
+    player2:
+      team: SK
+      position: Third
+      percent: 80
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(10)
+    score: SK 6 - ON 4
+  - player1:
       team: Eppi
       position: Fourth
       percent: 81
@@ -997,12 +1761,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 90
+      percent: 85
       wins: 1
-      losses: 1
+      losses: 2
     player2:
-      percent: 84
-      wins: 1
+      percent: 88
+      wins: 2
       losses: 1
   - event: Trials(Men)
     player1:
@@ -1046,6 +1810,22 @@ vs:
     year: 2018
     draw: Semi-Final(22)
     score: AB 6 - ON 4
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 72
+      win: 0
+      loss: 1
+    player2:
+      team: AB
+      position: Third
+      percent: 100
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Pool(17)
+    score: ON 3 - AB 10
   - player1:
       team: Eppi
       position: Fourth
@@ -1224,17 +2004,45 @@ vs:
     year: 2018
     draw: Round Robin(7)
     score: ON 14 - NU 3
+- name: Nerpin, Andrew
+  totals:
+  - event: Brier
+    player1:
+      percent: 91
+      wins: 1
+      losses: 0
+    player2:
+      percent: 67
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Second
+      percent: 67
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(4)
+    score: ON 11 - BC 3
 - name: Neufeld, B.J.
   totals:
   - event: Brier
     player1:
-      percent: 89
-      wins: 1
+      percent: 87
+      wins: 2
       losses: 0
     player2:
-      percent: 90
+      percent: 88
       wins: 0
-      losses: 1
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 83
@@ -1261,6 +2069,22 @@ vs:
     year: 2018
     draw: Pool(15)
     score: WC 7 - ON 8
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: CA
+      position: Third
+      percent: 86
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(1)
+    score: ON 5 - CA 3
   - player1:
       team: EPP
       position: Fourth
@@ -1366,13 +2190,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 88
-      wins: 0
+      percent: 89
+      wins: 1
       losses: 2
     player2:
-      percent: 94
+      percent: 91
       wins: 2
-      losses: 0
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 90
@@ -1416,6 +2240,22 @@ vs:
     draw: Page 1-2(21)
     score: CA 6 - ON 2
   - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: NL
+      position: Third
+      percent: 85
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Pool(16)
+    score: NL 4 - ON 8
+  - player1:
       team: EPP
       position: Fourth
       percent: 94
@@ -1447,6 +2287,62 @@ vs:
     year: 2017
     draw: Round Robin(2)
     score: Eppi 6 - Gush 4
+- name: Njegovan, Connor
+  totals:
+  - event: Brier
+    player1:
+      percent: 78
+      wins: 1
+      losses: 0
+    player2:
+      percent: 95
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: MB
+      position: Lead
+      percent: 95
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Pool(15)
+    score: ON 9 - MB 5
+- name: Parsons, Cole
+  totals:
+  - event: Brier
+    player1:
+      percent: 83
+      wins: 1
+      losses: 0
+    player2:
+      percent: 86
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: NT
+      position: Lead
+      percent: 86
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(14)
+    score: NT 8 - ON 11
 - name: Saccary, Scott
   totals:
   - event: Brier
@@ -1479,13 +2375,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 87
-      wins: 1
-      losses: 0
-    player2:
-      percent: 85
-      wins: 0
+      percent: 80
+      wins: 2
       losses: 1
+    player2:
+      percent: 83
+      wins: 1
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 81
@@ -1513,6 +2409,38 @@ vs:
     draw: Round Robin(9)
     score: MB 5 - ON 10
   - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 67
+      win: 0
+      loss: 1
+    player2:
+      team: WC
+      position: Second
+      percent: 92
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(11)
+    score: ON 7 - WC 11
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: WC
+      position: Second
+      percent: 75
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Tie-Breaker(19)
+    score: ON 7 - WC 6
+  - player1:
       team: Eppi
       position: Fourth
       percent: 81
@@ -1528,6 +2456,140 @@ vs:
     year: 2017
     draw: Round Robin(9)
     score: Carr 7 - Eppi 5
+- name: Sawatsky, Rick
+  totals:
+  - event: Brier
+    player1:
+      percent: 91
+      wins: 1
+      losses: 0
+    player2:
+      percent: 84
+      wins: 0
+      losses: 1
+  - event: Trials(Men)
+    player1:
+      percent: 86
+      wins: 0
+      losses: 1
+    player2:
+      percent: 91
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Lead
+      percent: 84
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(4)
+    score: ON 11 - BC 3
+  - player1:
+      team: EPP
+      position: Fourth
+      percent: 86
+      win: 0
+      loss: 1
+    player2:
+      team: MOR
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2013
+    draw: Round Robin(13)
+    score: EPP 6 - MOR 7
+- name: Schneider, Catlin
+  totals:
+  - event: Brier
+    player1:
+      percent: 84
+      wins: 0
+      losses: 1
+    player2:
+      percent: 74
+      wins: 1
+      losses: 0
+  - event: Trials(Men)
+    player1:
+      percent: 84
+      wins: 0
+      losses: 1
+    player2:
+      percent: 89
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 84
+      win: 0
+      loss: 1
+    player2:
+      team: SK
+      position: Second
+      percent: 74
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(10)
+    score: SK 6 - ON 4
+  - player1:
+      team: Eppi
+      position: Fourth
+      percent: 84
+      win: 0
+      loss: 1
+    player2:
+      team: Morr
+      position: Second
+      percent: 89
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2017
+    draw: Round Robin(18)
+    score: Eppi 5 - Morr 6
+- name: Scoffin, Thomas
+  totals:
+  - event: Brier
+    player1:
+      percent: 86
+      wins: 1
+      losses: 0
+    player2:
+      percent: 78
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Fourth
+      percent: 78
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(5)
+    score: YT 6 - ON 10
 - name: St.Louis, David
   totals:
   - event: Brier
@@ -1560,12 +2622,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 90
-      wins: 1
-      losses: 1
-    player2:
       percent: 85
       wins: 1
+      losses: 2
+    player2:
+      percent: 89
+      wins: 2
       losses: 1
   - event: Trials(Men)
     player1:
@@ -1609,6 +2671,22 @@ vs:
     year: 2018
     draw: Semi-Final(22)
     score: AB 6 - ON 4
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 72
+      win: 0
+      loss: 1
+    player2:
+      team: AB
+      position: Second
+      percent: 98
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Pool(17)
+    score: ON 3 - AB 10
   - player1:
       team: Eppi
       position: Fourth
@@ -1657,13 +2735,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 88
-      wins: 0
+      percent: 89
+      wins: 1
       losses: 2
     player2:
-      percent: 86
+      percent: 89
       wins: 2
-      losses: 0
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 86
@@ -1707,6 +2785,22 @@ vs:
     draw: Page 1-2(21)
     score: CA 6 - ON 2
   - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: NL
+      position: Lead
+      percent: 96
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Pool(16)
+    score: NL 4 - ON 8
+  - player1:
       team: Eppi
       position: Fourth
       percent: 86
@@ -1722,6 +2816,62 @@ vs:
     year: 2017
     draw: Round Robin(2)
     score: Eppi 6 - Gush 4
+- name: Wallingham, Joe
+  totals:
+  - event: Brier
+    player1:
+      percent: 86
+      wins: 1
+      losses: 0
+    player2:
+      percent: 92
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Lead
+      percent: 92
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(5)
+    score: YT 6 - ON 10
+- name: Winfield, Brett
+  totals:
+  - event: Brier
+    player1:
+      percent: 86
+      wins: 1
+      losses: 0
+    player2:
+      percent: 76
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Second
+      percent: 76
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(5)
+    score: YT 6 - ON 10
 - name: Wozniak, Matt
   totals:
   - event: Brier
@@ -1975,34 +3125,6 @@ vs:
     year: 2017
     draw: Round Robin(18)
     score: Eppi 5 - Morr 6
-- name: Gunnlaugson, Jason
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 91
-      wins: 1
-      losses: 0
-    player2:
-      percent: 84
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: MIDD
-      position: Second
-      percent: 91
-      win: 1
-      loss: 0
-    player2:
-      team: GUNN
-      position: Fourth
-      percent: 84
-      win: 0
-      loss: 1
-    event: Trials (Men)
-    year: 2009
-    draw: Round Robin(7)
-    score: GUNN 4 - MIDD 9
 - name: Hart, Richard
   totals:
   - event: Trials(Men)
@@ -2031,66 +3153,6 @@ vs:
     year: 2009
     draw: Round Robin(2)
     score: HOWA 6 - MIDD 5
-- name: Hebert, Ben
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 75
-      wins: 0
-      losses: 3
-    player2:
-      percent: 92
-      wins: 3
-      losses: 0
-  games:
-  - player1:
-      team: MIDD
-      position: Second
-      percent: 71
-      win: 0
-      loss: 1
-    player2:
-      team: MART
-      position: Lead
-      percent: 85
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2009
-    draw: Round Robin(3)
-    score: MART 7 - MIDD 3
-  - player1:
-      team: EPP
-      position: Fourth
-      percent: 69
-      win: 0
-      loss: 1
-    player2:
-      team: MAR
-      position: Lead
-      percent: 92
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2013
-    draw: Round Robin(10)
-    score: MAR 9 - EPP 5
-  - player1:
-      team: Eppi
-      position: Fourth
-      percent: 86
-      win: 0
-      loss: 1
-    player2:
-      team: Koe
-      position: Lead
-      percent: 97
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2017
-    draw: Round Robin(13)
-    score: Koe 6 - Eppi 4
 - name: Howard, Glenn
   totals:
   - event: Trials(Men)
@@ -2135,126 +3197,6 @@ vs:
     year: 2013
     draw: Round Robin(4)
     score: EPP 5 - HOW 9
-- name: Kennedy, Marc
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 75
-      wins: 0
-      losses: 3
-    player2:
-      percent: 92
-      wins: 3
-      losses: 0
-  games:
-  - player1:
-      team: MIDD
-      position: Second
-      percent: 71
-      win: 0
-      loss: 1
-    player2:
-      team: MART
-      position: Second
-      percent: 85
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2009
-    draw: Round Robin(3)
-    score: MART 7 - MIDD 3
-  - player1:
-      team: EPP
-      position: Fourth
-      percent: 69
-      win: 0
-      loss: 1
-    player2:
-      team: MAR
-      position: Second
-      percent: 96
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2013
-    draw: Round Robin(10)
-    score: MAR 9 - EPP 5
-  - player1:
-      team: Eppi
-      position: Fourth
-      percent: 86
-      win: 0
-      loss: 1
-    player2:
-      team: Koe
-      position: Third
-      percent: 94
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2017
-    draw: Round Robin(13)
-    score: Koe 6 - Eppi 4
-- name: Koe, Kevin
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 87
-      wins: 1
-      losses: 2
-    player2:
-      percent: 88
-      wins: 2
-      losses: 1
-  games:
-  - player1:
-      team: MIDD
-      position: Second
-      percent: 86
-      win: 0
-      loss: 1
-    player2:
-      team: KOE
-      position: Fourth
-      percent: 94
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2009
-    draw: Round Robin(4)
-    score: MIDD 4 - KOE 11
-  - player1:
-      team: EPP
-      position: Fourth
-      percent: 90
-      win: 1
-      loss: 0
-    player2:
-      team: KOE
-      position: Fourth
-      percent: 86
-      win: 0
-      loss: 1
-    event: Trials (Men)
-    year: 2013
-    draw: Round Robin(2)
-    score: KOE 8 - EPP 9
-  - player1:
-      team: Eppi
-      position: Fourth
-      percent: 86
-      win: 0
-      loss: 1
-    player2:
-      team: Koe
-      position: Fourth
-      percent: 86
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2017
-    draw: Round Robin(13)
-    score: Koe 6 - Eppi 4
 - name: Laing, Brent
   totals:
   - event: Trials(Men)
@@ -2747,62 +3689,6 @@ vs:
     year: 2013
     draw: Round Robin(4)
     score: EPP 5 - HOW 9
-- name: Sawatsky, Rick
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 86
-      wins: 0
-      losses: 1
-    player2:
-      percent: 91
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: EPP
-      position: Fourth
-      percent: 86
-      win: 0
-      loss: 1
-    player2:
-      team: MOR
-      position: Lead
-      percent: 91
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2013
-    draw: Round Robin(13)
-    score: EPP 6 - MOR 7
-- name: Schneider, Catlin
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 84
-      wins: 0
-      losses: 1
-    player2:
-      percent: 89
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: Eppi
-      position: Fourth
-      percent: 84
-      win: 0
-      loss: 1
-    player2:
-      team: Morr
-      position: Second
-      percent: 89
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2017
-    draw: Round Robin(18)
-    score: Eppi 5 - Morr 6
 - name: Sharp, Jeff
   totals:
   - event: Trials(Men)

@@ -4,18 +4,18 @@ name: Ryan Fry
 name-sort: Fry, Ryan
 totals:
  - event: Brier
-   games: 141
-   wins: 99
-   losses: 42
-   inturn-total: 1022
+   games: 154
+   wins: 107
+   losses: 47
+   inturn-total: 1138
    inturn-percent: 86
-   outturn-total: 1590
+   outturn-total: 1708
    outturn-percent: 87
-   draw-total: 925
-   draw-percent: 85
-   takeout-total: 1687
+   draw-total: 1004
+   draw-percent: 84
+   takeout-total: 1842
    takeout-percent: 88
-   shots-total: 2612
+   shots-total: 2846
    shots-percent: 87
 years:
  - year: 2007
@@ -205,10 +205,28 @@ years:
    takeout-percent: 92
    shots-total: 236
    shots-percent: 91
+ - year: 2020
+   event: Brier
+   team: "ON"
+   position: Third
+   games: 13
+   wins: 8
+   losses: 5
+   inturn-total: 116
+   inturn-percent: 85
+   outturn-total: 118
+   outturn-percent: 86
+   draw-total: 79
+   draw-percent: 82
+   takeout-total: 155
+   takeout-percent: 87
+   shots-total: 234
+   shots-percent: 86
 vs:
  - Abel, Clinton
  - Adam, Gerry
  - Adams, Shawn
+ - Aho, David
  - Anderson, Chris
  - Armstrong, Mike
  - Asselin, Felix
@@ -265,6 +283,7 @@ vs:
  - Folk, Kevin
  - Ford, Chris
  - Forget, Wes
+ - Forrest, Alex
  - Fournier, Mike
  - Fowler, Rob
  - Fraser, Pierre
@@ -282,6 +301,7 @@ vs:
  - Granchelli, Kris
  - Grattan, James
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, Al
  - Harnden, E.J.
@@ -301,6 +321,7 @@ vs:
  - Jakubo, Mike
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Jewer, Keith
  - Joanisse, Dean
  - Jones, Brennen
@@ -351,6 +372,7 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
+ - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Mead, Jonathan
  - Menard, Jean-Michel
@@ -367,10 +389,12 @@ vs:
  - Nadeau, Jeff
  - Nantes, Dave
  - Naugler, Tom
+ - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
  - Newson, Jamie
  - Nichols, Mark
+ - Njegovan, Connor
  - Odian, Scott
  - Odishaw, Grant
  - Odishaw, Terry
@@ -380,6 +404,7 @@ vs:
  - Ouimet, Luc
  - Palmer, Curt
  - Park, Kevin
+ - Parsons, Cole
  - Pierce, Brent
  - Pinder, Jordan
  - Porter, Ryan
@@ -399,6 +424,7 @@ vs:
  - Schille, Chris
  - Schmidt, Aryn
  - Schneider, Catlin
+ - Scoffin, Thomas
  - Seabrook, Matt
  - Seabrook, Scott
  - Sharp, Jeff
@@ -422,9 +448,11 @@ vs:
  - Villeneuve, Steeve
  - Virtue, Brock
  - Walker, Geoff
+ - Wallingham, Joe
  - Watson, Aaron
  - Whitehead, Kevin
  - Whitehead, Mark
+ - Winfield, Brett
  - Wood, Brad
  - Wood, Mike
  - Wozniak, Matt

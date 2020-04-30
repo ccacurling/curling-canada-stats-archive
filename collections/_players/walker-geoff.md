@@ -4,18 +4,18 @@ name: Geoff Walker
 name-sort: Walker, Geoff
 totals:
 - event: Brier
-  games: 100
-  wins: 70
-  losses: 30
-  inturn-total: 785
-  inturn-percent: 90
-  outturn-total: 1114
+  games: 114
+  wins: 81
+  losses: 33
+  inturn-total: 899
+  inturn-percent: 91
+  outturn-total: 1259
   outturn-percent: 89
-  draw-total: 1601
-  draw-percent: 91
-  takeout-total: 298
-  takeout-percent: 79
-  shots-total: 1899
+  draw-total: 1818
+  draw-percent: 92
+  takeout-total: 340
+  takeout-percent: 78
+  shots-total: 2158
   shots-percent: 89
 - event: Trials (Men)
   games: 9
@@ -168,6 +168,23 @@ years:
   takeout-percent: 73
   shots-total: 222
   shots-percent: 88
+- year: 2020
+  event: Brier
+  team: NL
+  position: Lead
+  games: 14
+  wins: 11
+  losses: 3
+  inturn-total: 114
+  inturn-percent: 91
+  outturn-total: 145
+  outturn-percent: 89
+  draw-total: 217
+  draw-percent: 93
+  takeout-total: 42
+  takeout-percent: 76
+  shots-total: 259
+  shots-percent: 90
 - year: 2017
   event: Trials (Men)
   team: Gush
@@ -190,9 +207,12 @@ vs:
 - Appelman, Tom
 - Ardiel, Taylor
 - Armstrong, Mike
+- Asselin, Emile
 - Balsdon, Greg
 - Bardsley, Mike
 - Barry, Josh
+- Bedard, Alek
+- Bedard, Daniel
 - Beuk, Jonathan
 - Bezanson, Jared
 - Bice, Mark
@@ -211,11 +231,13 @@ vs:
 - Childs, Jamie
 - Chorostkowski, Brad
 - Clarey, Sean
+- Cochrane, Bryan
 - Colter, Travis
 - Cotter, Jim
 - Crete, Martin
 - Crowell, Phil
 - Currie, Jeff
+- Currie, Morgan
 - Daneault, Richard
 - Deis, Ryan
 - Desjardins, Robert
@@ -231,6 +253,7 @@ vs:
 - Flemming, Paul
 - Folk, Kevin
 - Forget, Wes
+- Forrest, Alex
 - Fowler, Rob
 - Fry, Ryan
 - Gaudet, Mike
@@ -239,12 +262,14 @@ vs:
 - Grattan, James
 - Griffith, Ty
 - Griffith, Tyrel
+- Gunnlaugson, Jason
 - Harnden, E.J.
 - Harnden, Ryan
 - Harper, David
 - Harris, Tyler
 - Hart, Richard
 - Hebert, Ben
+- Higgs, Jake
 - Hodgson, Colin
 - Horgan, Tanner
 - Howard, Glenn
@@ -269,7 +294,10 @@ vs:
 - Laycock, Steve
 - LeCocq, Marc
 - Ledgerwood, Sean
+- Lequin, Bradley
 - Lyburn, Allan
+- MacAulay, Ian
+- MacDonald, Edmund
 - MacFadyen, Alex
 - MacKenzie, Eddie
 - MacKenzie, Tyler
@@ -307,10 +335,13 @@ vs:
 - Neufeld, Denni
 - Ng, Matt
 - Nichols, Mark
+- Njegovan, Connor
+- O'Rourke, Mark
 - Odishaw, Grant
 - Odishaw, Terry
 - Parsons, Cole
 - Pinder, Jordan
+- Quevillon, Louis
 - Richard, Jeff
 - Roach, Darren
 - Roach, Jason
@@ -329,6 +360,7 @@ vs:
 - Skauge, Greg
 - Smith, Greg
 - Smith, Kent
+- Smitheram, Christian
 - Spencer, Adam
 - St.Louis, David
 - Steele, Colten
@@ -341,6 +373,7 @@ vs:
 - Villeneuve, Steeve
 - Virtue, Brock
 - Watson, Aaron
+- Wettig, Sheldon
 - Whitehead, Kevin
 - Whitehead, Mark
 - Withycombe, Ian

@@ -71,9 +71,9 @@ vs:
  - Officer, Jill
  - Parsons, Danielle
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Schneider, Kim
  - Scott, Kelly
- - Sivertson, Dailene
  - Smith, Heather
  - Strong, Heather
  - Strong, Laura

@@ -4,18 +4,18 @@ name: Adam Casey
 name-sort: Casey, Adam
 totals:
  - event: Brier
-   games: 68
-   wins: 31
-   losses: 37
-   inturn-total: 557
+   games: 79
+   wins: 36
+   losses: 43
+   inturn-total: 645
    inturn-percent: 81
-   outturn-total: 724
-   outturn-percent: 82
-   draw-total: 525
-   draw-percent: 81
-   takeout-total: 756
-   takeout-percent: 82
-   shots-total: 1281
+   outturn-total: 844
+   outturn-percent: 83
+   draw-total: 643
+   draw-percent: 80
+   takeout-total: 846
+   takeout-percent: 83
+   shots-total: 1489
    shots-percent: 82
 years:
  - year: 2012
@@ -120,11 +120,30 @@ years:
    takeout-percent: 78
    shots-total: 205
    shots-percent: 78
+ - year: 2020
+   event: Brier
+   team: "MB"
+   position: Second
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 88
+   inturn-percent: 81
+   outturn-total: 120
+   outturn-percent: 83
+   draw-total: 118
+   draw-percent: 79
+   takeout-total: 90
+   takeout-percent: 86
+   shots-total: 208
+   shots-percent: 82
 vs:
  - Armstrong, Mike
+ - Asselin, Emile
  - Balsdon, Greg
  - Bardsley, Mike
  - Barry, Josh
+ - Bedard, Alek
  - Bezanson, Jared
  - Bice, Mark
  - Bilesky, Andrew
@@ -140,14 +159,18 @@ vs:
  - Childs, Jamie
  - Chorostkowski, Brad
  - Clarey, Sean
+ - Cochrane, Bryan
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
  - Currie, Jeff
+ - Currie, Morgan
  - Daneault, Richard
  - Deis, Ryan
  - Desjardins, Robert
+ - Dunstone, Matthew
  - Eldridge, Zach
+ - Epping, John
  - Errington, Derek
  - Farnell, Jamie
  - Fitzner-LeBlanc, Ian
@@ -168,6 +191,7 @@ vs:
  - Hart, Joey
  - Hart, Richard
  - Hebert, Ben
+ - Higgs, Jake
  - Hodgson, Colin
  - Howard, Glenn
  - Howard, Scott
@@ -180,6 +204,7 @@ vs:
  - Kidby, Dustin
  - Koe, Jamie
  - Koe, Kevin
+ - Kohlenberg, Dale
  - Koivula, Colin
  - Kopf, Steve
  - Kuhn, Ryan
@@ -188,7 +213,9 @@ vs:
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
+ - Lequin, Bradley
  - Lyburn, Allan
+ - MacAulay, Ian
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - MacKenzie, Tyler
@@ -220,8 +247,10 @@ vs:
  - Nichols, Mark
  - Odishaw, Grant
  - Odishaw, Terry
+ - O'Rourke, Mark
  - Pfeifer, Scott
  - Pinder, Jordan
+ - Quevillon, Louis
  - Roach, Darren
  - Roach, Jason
  - Roy, Jean-Sebastien
@@ -231,10 +260,12 @@ vs:
  - Savill, Craig
  - Sawatsky, Rick
  - Schille, Chris
+ - Schneider, Catlin
  - Seabrook, Scott
  - Simmons, Pat
  - Skauge, Greg
  - Smith, Kent
+ - Smitheram, Christian
  - Spencer, Adam
  - Stoughton, Jeff
  - Sylvain, Eric
@@ -244,6 +275,7 @@ vs:
  - Virtue, Brock
  - Walker, Geoff
  - Watson, Aaron
+ - Wettig, Sheldon
  - Whitehead, Kevin
  - Whitehead, Mark
  - Wozniak, Matt

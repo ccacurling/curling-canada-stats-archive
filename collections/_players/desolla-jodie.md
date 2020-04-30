@@ -257,6 +257,7 @@ vs:
  - Overton-Clapham, Cathy
  - Parsons, Danielle
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Porter, Erin
  - Richards, Brette
  - Ridalls, Kristen
@@ -278,7 +279,6 @@ vs:
  - Simons, Renee
  - Sinclair, Andrea
  - Singler, Sherri
- - Sivertson, Dailene
  - Slywka, Sarah
  - Smith, Heather
  - Spencer, Barb

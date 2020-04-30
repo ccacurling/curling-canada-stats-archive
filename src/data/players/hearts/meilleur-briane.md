@@ -4,18 +4,18 @@ name: Briane Meilleur
 name-sort: Meilleur, Briane
 totals:
  - event: Hearts
-   games: 4
-   wins: 2
-   losses: 2
-   inturn-total: 19
-   inturn-percent: 78
-   outturn-total: 17
-   outturn-percent: 97
-   draw-total: 29
-   draw-percent: 84
-   takeout-total: 7
-   takeout-percent: 96
-   shots-total: 36
+   games: 17
+   wins: 13
+   losses: 4
+   inturn-total: 157
+   inturn-percent: 86
+   outturn-total: 126
+   outturn-percent: 88
+   draw-total: 215
+   draw-percent: 92
+   takeout-total: 68
+   takeout-percent: 71
+   shots-total: 283
    shots-percent: 87
 years:
  - year: 2016
@@ -118,21 +118,81 @@ years:
    takeout-percent: 100
    shots-total: 20
    shots-percent: 90
+ - year: 2020
+   event: Hearts
+   team: "MB"
+   position: Lead
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 138
+   inturn-percent: 87
+   outturn-total: 109
+   outturn-percent: 86
+   draw-total: 186
+   draw-percent: 93
+   takeout-total: 61
+   takeout-percent: 68
+   shots-total: 247
+   shots-percent: 87
 vs:
+ - Armstrong, Jennifer
+ - Babin, Jillian
  - Birchard, Shannon
+ - Birt, Suzanne
  - Brine, Jenn
  - Brothers, Jill
+ - Brown, Corryn
+ - Brown, Rachel
+ - Cameron, Kate
+ - Carey, Chelsea
+ - Christianson, Marie
+ - Cote, Marie-Pier
+ - Courtney, Joanne
+ - Crawford, Andrea
+ - Eddy, Lori
+ - Ferguson, Dana
+ - Forward, Katie
+ - Gates, Jennifer
+ - Griffin, Alison
+ - Hawes, Dezaray
+ - Homan, Rachel
+ - Hughes, Meaghan
+ - Hunkin, Jessie
  - Hutchings, Denise
  - Jones, Jennifer
+ - Klymchuk, Ashley
  - Lavery, Tracey
+ - Lawes, Kaitlyn
+ - Lawton, Stefanie
+ - Lilly, Kendra
+ - MacDonald, Kaitlin
  - Mackey, Robyn
+ - McCarville, Krista
+ - McDonald, Taylor
  - McEwen, Dawn
+ - McQuaid, Michelle
+ - Miskew, Emma
  - Murphy, Sarah
  - Officer, Jill
+ - Peterman, Jocelyn
+ - Pincott, Erin
+ - Pinksen, Sadie
  - Recksiedler, Kristen
+ - Routledge, Alanna
+ - Routledge, Jill
+ - Schmidt, Stephanie
+ - Scotland, Nadine
  - Shackleton, Amie
+ - Silvernagle, Robyn
+ - Sippala, Ashley
+ - Taylor, Susan
  - Thompson, Karla
  - Udle, Teri
  - Vandale, Trysta
+ - Verreault, Noemie
+ - Walker, Laura
+ - Weagle, Lisa
  - West, Christianne
+ - Wilkes, Sarah
 ---

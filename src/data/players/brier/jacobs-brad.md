@@ -4,19 +4,19 @@ name: Brad Jacobs
 name-sort: Jacobs, Brad
 totals:
  - event: Brier
-   games: 130
-   wins: 87
-   losses: 43
-   inturn-total: 1072
+   games: 144
+   wins: 96
+   losses: 48
+   inturn-total: 1194
    inturn-percent: 82
-   outturn-total: 1330
+   outturn-total: 1460
    outturn-percent: 84
-   draw-total: 1022
+   draw-total: 1115
    draw-percent: 81
-   takeout-total: 1380
+   takeout-total: 1539
    takeout-percent: 85
-   shots-total: 2402
-   shots-percent: 83
+   shots-total: 2654
+   shots-percent: 84
 years:
  - year: 2007
    event: Brier
@@ -238,17 +238,36 @@ years:
    takeout-percent: 89
    shots-total: 229
    shots-percent: 88
+ - year: 2020
+   event: Brier
+   team: "NO"
+   position: Fourth
+   games: 14
+   wins: 9
+   losses: 5
+   inturn-total: 122
+   inturn-percent: 88
+   outturn-total: 130
+   outturn-percent: 86
+   draw-total: 93
+   draw-percent: 86
+   takeout-total: 159
+   takeout-percent: 87
+   shots-total: 252
+   shots-percent: 87
 vs:
  - Abel, Clinton
  - Adam, Gerry
  - Adams, Shawn
  - Anderson, Chris
  - Armstrong, Mike
+ - Asselin, Emile
  - Asselin, Felix
  - Atchison, Chris
  - Bardsley, Mike
  - Barker, Richard
  - Barry, Josh
+ - Bedard, Alek
  - Berthelot, Marco
  - Beuk, Jonathan
  - Bezanson, Jared
@@ -272,10 +291,12 @@ vs:
  - Charette, Pierre
  - Chorostkowski, Brad
  - Clarey, Sean
+ - Cochrane, Bryan
  - Collin, Simon
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
+ - Currie, Morgan
  - Danbrook, Jamie
  - Daneault, Richard
  - Darragh, Alan
@@ -295,6 +316,7 @@ vs:
  - Folk, Kevin
  - Ford, Chris
  - Forget, Wes
+ - Forrest, Alex
  - Fournier, Mike
  - Fowler, Rob
  - Fraser, Pierre
@@ -311,10 +333,12 @@ vs:
  - Gould, Steve
  - Grattan, James
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harris, Tyler
  - Hart, Richard
  - Hebert, Ben
+ - Higgs, Jake
  - Hodgson, Colin
  - Howard, Glenn
  - Howard, Scott
@@ -334,6 +358,7 @@ vs:
  - Kingdon, Wade
  - Koe, Jamie
  - Koe, Kevin
+ - Kohlenberg, Dale
  - Kopf, Steve
  - Korab, Jamie
  - Korte, Bruce
@@ -345,9 +370,12 @@ vs:
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Lemay, Philippe
+ - Lequin, Bradley
  - Likely, John
  - Lyburn, Allan
+ - MacAulay, Ian
  - MacDonald, Blake
+ - MacDonald, Edmund
  - MacDonald, Rod
  - MacFadyen, Alex
  - MacKenzie, Eddie
@@ -391,6 +419,7 @@ vs:
  - Neufeld, Denni
  - Newson, Jamie
  - Nichols, Mark
+ - Njegovan, Connor
  - Odian, Scott
  - Odishaw, Grant
  - Odishaw, Terry
@@ -400,6 +429,7 @@ vs:
  - Park, Kevin
  - Pinder, Jordan
  - Porter, Ryan
+ - Quevillon, Louis
  - Rafuse, Brian
  - Reid, Serge
  - Richard, Jeff
@@ -422,6 +452,7 @@ vs:
  - Slauenwhite, David
  - Smallwood, Robert
  - Smith, Kent
+ - Smitheram, Christian
  - Solberg, Jonathon
  - Spencer, Adam
  - St.Louis, David

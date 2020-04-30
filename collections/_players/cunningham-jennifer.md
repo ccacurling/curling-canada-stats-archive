@@ -69,11 +69,11 @@ vs:
  - Officer, Jill
  - Parsons, Danielle
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Robison, Michala
  - Schneider, Kim
  - Schneider, Tammy
  - Scott, Kelly
- - Sivertson, Dailene
  - Slywka, Sarah
  - Smith, Heather
  - Udle, Teri

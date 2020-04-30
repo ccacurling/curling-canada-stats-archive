@@ -259,6 +259,7 @@ vs:
 - Officer, Jill
 - Parsons, Danielle
 - Pasika, Rona
+- Pewarchuk, Dailene
 - Porter, Erin
 - Power, Marie-Anne
 - Reed, Shellan
@@ -272,7 +273,6 @@ vs:
 - Scott, Kelly
 - Shumay, Jill
 - Singler, Sherri
-- Sivertson, Dailene
 - Slywka, Sarah
 - Smith, Heather
 - Sonnenberg, Renee

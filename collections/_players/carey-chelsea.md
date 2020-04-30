@@ -4,19 +4,19 @@ name: Chelsea Carey
 name-sort: Carey, Chelsea
 totals:
 - event: Hearts
-  games: 53
-  wins: 42
-  losses: 11
-  inturn-total: 487
-  inturn-percent: 83
-  outturn-total: 536
-  outturn-percent: 83
-  draw-total: 424
-  draw-percent: 81
-  takeout-total: 599
-  takeout-percent: 84
-  shots-total: 1023
-  shots-percent: 83
+  games: 64
+  wins: 47
+  losses: 17
+  inturn-total: 574
+  inturn-percent: 81
+  outturn-total: 658
+  outturn-percent: 82
+  draw-total: 539
+  draw-percent: 79
+  takeout-total: 693
+  takeout-percent: 83
+  shots-total: 1232
+  shots-percent: 81
 - event: Trials (Women)
   games: 17
   wins: 12
@@ -100,6 +100,23 @@ years:
   takeout-percent: 81
   shots-total: 254
   shots-percent: 79
+- year: 2020
+  event: Hearts
+  team: CA
+  position: Fourth
+  games: 11
+  wins: 5
+  losses: 6
+  inturn-total: 87
+  inturn-percent: 72
+  outturn-total: 122
+  outturn-percent: 75
+  draw-total: 115
+  draw-percent: 73
+  takeout-total: 94
+  takeout-percent: 76
+  shots-total: 209
+  shots-percent: 74
 - year: 2013
   event: Trials (Women)
   team: CAR
@@ -138,11 +155,14 @@ vs:
 - Alcoe-Holland, Jill
 - Aleksic, Shannon
 - Anderson, Sherry
+- Armstrong, Jennifer
 - Armstrong, Leigh
 - Atkinson, Rebecca
+- Babin, Jillian
 - Baier, Stephanie
 - Barker, Penny
 - Belisle, Eve
+- Birchard, Shannon
 - Birt, Suzanne
 - Blaney, Jennifer
 - Bobbie, Tess
@@ -151,6 +171,7 @@ vs:
 - Boyle, Jane
 - Brine, Jenn
 - Brothers, Jill
+- Brown, Corryn
 - Brown, Rachel
 - Cameron, Kate
 - Campbell, Jolene
@@ -158,11 +179,13 @@ vs:
 - Christianson, Marie
 - Cooper, Kathryn
 - Cormier, Sharon
+- Cote, Marie-Pier
 - Cottrill, Katie
 - Court, Morgan
 - Courtney, Joanne
 - Crawford, Andrea
 - Cunningham, Jessica
+- Curtis, Erica
 - Curtis, Stacie
 - Cutcliffe, Margaret
 - Daigle, Julie
@@ -176,22 +199,25 @@ vs:
 - Dolan, Sinead
 - Duhaime, Chantal
 - Duncan, Chelsea
+- Eddy, Lori
 - Einarson, Kerri
 - Englot, Michelle
 - Eyamie, Lisa
 - Ferguson, Dana
 - Flaxey, Allison
 - Fleury, Tracy
+- Forward, Katie
 - Fullerton, Sarah
 - Fyfe, Liz
 - Galusha, Kerry
 - Gannon, Melissa
-- Gates, Jenny
+- Gates, Jennifer
 - Grandy, Clancy
 - Griffin, Alison
 - Hamon, Callan
 - Hanna, Jenn
 - Hanna, Stephanie
+- Hawes, Dezaray
 - Hill, Trish
 - Homan, Rachel
 - Howard, Ashley
@@ -203,6 +229,7 @@ vs:
 - Joyce, Blisse
 - Kasner, Marliese
 - Kleibrink, Shannon
+- Klymchuk, Ashley
 - Koehler, Megan
 - Koltun, Sarah
 - Kreviazuk, Alison
@@ -215,6 +242,7 @@ vs:
 - Lemay, Annie
 - Lilly, Kendra
 - MacCuish, Kristin
+- MacDonald, Kaitlin
 - MacDonald, Lawnie
 - MacDonald, Rebecca Jean
 - MacPhee, Robyn
@@ -223,9 +251,11 @@ vs:
 - Mann, Lauren
 - Mattatall, Mary
 - McCarville, Krista
+- McDonald, Taylor
 - McEwen, Dawn
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
+- Meilleur, Briane
 - Merklinger, Lee
 - Middaugh, Sherry
 - Miskew, Emma
@@ -245,6 +275,7 @@ vs:
 - Peterman, Jocelyn
 - Peters, Laine
 - Pilote, Kristen
+- Pincott, Erin
 - Pinksen, Sadie
 - Porter, Erin
 - Potts, Sarah
@@ -256,6 +287,8 @@ vs:
 - Robichaud, Sylvie
 - Robison, Michala
 - Ross, Allison
+- Routledge, Alanna
+- Routledge, Jill
 - Rusnell, Jen
 - Sagle, Karen
 - Sanderson, Jessie
@@ -264,6 +297,7 @@ vs:
 - Scheidegger, Casey
 - Scheidegger, Jessie
 - Schneider, Lorraine
+- Scotland, Nadine
 - Sicinski, Danielle
 - Silvernagle, Robyn
 - Sinclair, Andrea
@@ -274,16 +308,18 @@ vs:
 - Strong, Heather
 - Strong, Laura
 - Sweeting, Val
+- Taylor, Susan
 - Thevenot, Kara
 - Thiessen, Alison
 - Thompson, Karla
 - Tippin, Julie
-- Trickett, Erica
 - Udle, Teri
 - Van Osch, Kesa
 - Vandale, Trysta
 - Vautour, Carrie
+- Verreault, Noemie
 - Vink, Rachelle
+- Walker, Laura
 - Wallingham, Patty
 - Wark, Sarah
 - Weagle, Lisa

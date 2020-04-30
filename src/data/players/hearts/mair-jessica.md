@@ -110,6 +110,7 @@ vs:
  - Officer, Jill
  - O'Rourke, Brittany
  - Parsons, Danielle
+ - Pewarchuk, Dailene
  - Porter, Erin
  - Ross, Allison
  - Schneider, Kim
@@ -117,7 +118,6 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shumay, Jill
- - Sivertson, Dailene
  - Slywka, Sarah
  - Smith, Heather
  - Strong, Heather

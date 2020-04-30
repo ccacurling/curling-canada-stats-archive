@@ -4,18 +4,18 @@ name: Mark O'Rourke
 name-sort: O'Rourke, Mark
 totals:
  - event: Brier
-   games: 111
-   wins: 41
-   losses: 70
-   inturn-total: 851
-   inturn-percent: 78
-   outturn-total: 1254
+   games: 118
+   wins: 43
+   losses: 75
+   inturn-total: 936
+   inturn-percent: 79
+   outturn-total: 1297
    outturn-percent: 83
-   draw-total: 1038
+   draw-total: 1152
    draw-percent: 82
-   takeout-total: 1067
+   takeout-total: 1081
    takeout-percent: 80
-   shots-total: 2105
+   shots-total: 2233
    shots-percent: 81
 years:
  - year: 1991
@@ -242,6 +242,23 @@ years:
    takeout-percent: 81
    shots-total: 200
    shots-percent: 79
+ - year: 2020
+   event: Brier
+   team: "PE"
+   position: Lead
+   games: 7
+   wins: 2
+   losses: 5
+   inturn-total: 85
+   inturn-percent: 89
+   outturn-total: 43
+   outturn-percent: 80
+   draw-total: 114
+   draw-percent: 87
+   takeout-total: 14
+   takeout-percent: 79
+   shots-total: 128
+   shots-percent: 86
 vs:
  - Abel, Clinton
  - Adam, Gerry
@@ -254,10 +271,12 @@ vs:
  - Armstrong, Doug
  - Armstrong, Mark
  - Assad, Mike
+ - Asselin, Emile
  - Atchison, Chris
  - Bailey, Scott
  - Barker, Richard
  - Bartlett, Don
+ - Bedard, Alek
  - Bentley, Dan
  - Bentley, Darren
  - Berthelot, Marco
@@ -265,6 +284,7 @@ vs:
  - Biron, Louis
  - Bitz, Scott
  - Boland, John
+ - Bottcher, Brendan
  - Brown, Ken
  - Bryant, Doug
  - Buchan, Chris
@@ -278,6 +298,7 @@ vs:
  - Carriere, Eric
  - Carter, Andrew
  - Case, Peter
+ - Casey, Adam
  - Charette, Pierre
  - Charteris, Wayne
  - Chorostkowski, Brad
@@ -312,12 +333,14 @@ vs:
  - Flemming, Paul
  - Florence, Malcolm
  - Folk, Rick
+ - Forrest, Alex
  - Fowler, Rob
  - Fraser, Pierre
  - Fry, Ryan
  - Fulton, Chris
  - Gagnon, Jean
  - Gagnon, Steeve
+ - Gallant, Brett
  - Gavin, Martin
  - Geall, Sean
  - Geisler, Arnie
@@ -331,6 +354,7 @@ vs:
  - Grattan, James
  - Gretzinger, Bert
  - Grundy, John
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Hackner, Al
  - Haines, Chuck
@@ -349,6 +373,7 @@ vs:
  - Henderson, Lorne
  - Henderson, Scott
  - Hicke, Dean
+ - Higgs, Jake
  - Hinch, Bert
  - Hipkin, Rich
  - Howard, Glenn
@@ -363,6 +388,7 @@ vs:
  - Jacobs, Brad
  - Jakomait, Dusty
  - Jakubo, Mike
+ - Janssen, Patrick
  - Jenkins, Bill
  - Joanisse, Dean
  - Johnston, Steve
@@ -382,6 +408,7 @@ vs:
  - Koe, Jamie
  - Koe, Kevin
  - Kofoed, Lonnie
+ - Kohlenberg, Dale
  - Korab, Jamie
  - Korte, Bruce
  - Korte, Roger
@@ -397,12 +424,14 @@ vs:
  - LeDrew, Ryan
  - Lemay, Philippe
  - Lemery, Dan
+ - Lequin, Bradley
  - Loeffler, Ken
  - Loevenmark, Phil
  - Lohnes, Bruce
  - Lowe, Wayne
  - MacDonald, Blake
  - MacDonald, Brent
+ - MacDonald, Edmund
  - MacLean, Rob
  - MacLean, Stuart
  - MacLeod, Kris
@@ -410,6 +439,7 @@ vs:
  - MacPherson, Bryan
  - Madden, Paul
  - Markowsky, Rob
+ - Martin, Karrick
  - Martin, Kevin
  - Mayne, Dave
  - McCarrel, Graeme
@@ -433,11 +463,14 @@ vs:
  - Moshenko, Jaret
  - Mosley, Jeff
  - Moss, Steve
+ - Moulding, Darren
+ - Murphy, Jamie
  - Nantes, Dave
  - Nedohin, David
  - Ness, Dale
  - Neufeld, Chris
  - Nichols, Mark
+ - Njegovan, Connor
  - Noftall, David
  - Nowlan, Daryell
  - Odian, Scott
@@ -468,6 +501,7 @@ vs:
  - Porter, Ryan
  - Power, Humphrey
  - Power, Joe
+ - Quevillon, Louis
  - Rafuse, Brian
  - Rajala, Howard
  - Ramcharan, Rudy
@@ -489,6 +523,7 @@ vs:
  - Ryan, Mike
  - Ryan, Pat
  - Rycroft, Carter
+ - Saccary, Scott
  - Savill, Craig
  - Scharf, Joe
  - Schiewe, Calvin
@@ -517,6 +552,7 @@ vs:
  - Tetley, Ian
  - Tetley, Ross
  - Thibaudeau, Guy
+ - Thiessen, Brad
  - Thiessen, Nolan
  - Thomas, Jeff
  - Thomas, Rob
@@ -533,11 +569,13 @@ vs:
  - Vautour, Joseph
  - Villeneuve, Steeve
  - Walchuk, Don
+ - Walker, Geoff
  - Walsh, Jim
  - Wasnea, Brian
  - Wempe, Brian
  - Werenich, Ed
  - Westphal, Don
+ - Wettig, Sheldon
  - Whitehead, Kevin
  - Whitehead, Mark
  - Whittle, Mark

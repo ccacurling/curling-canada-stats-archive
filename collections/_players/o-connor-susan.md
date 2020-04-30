@@ -191,6 +191,7 @@ vs:
 - Crawford, Andrea
 - Crouse, Jennifer
 - Cunningham, Cathy
+- Curtis, Erica
 - Curtis, Stacie
 - Daniel, Sylvie
 - Derick, Catherine
@@ -269,7 +270,6 @@ vs:
 - Stubbings, Tiffany
 - Thomas, Jill
 - Thompson, Karla
-- Trickett, Erica
 - Udle, Teri
 - Van Osch, Kalia
 - Van Osch, Kesa

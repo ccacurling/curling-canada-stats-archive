@@ -217,6 +217,7 @@ vs:
  - Crawford, Andrea
  - Cunningham, Cathy
  - Cunningham, Jennifer
+ - Curtis, Erica
  - Curtis, Stacie
  - Daku, Karen
  - Daniel, Sylvie
@@ -332,6 +333,7 @@ vs:
  - Parsons, Danielle
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Phillips, Laura
  - Phillips, Margaret Lea
  - Porter, Erin
@@ -354,7 +356,6 @@ vs:
  - Sharpe, Kelli
  - Shumay, Jill
  - Sicinski, Danielle
- - Sivertson, Dailene
  - Skinner, Julie
  - Slywka, Sarah
  - Smith, Heather
@@ -367,7 +368,6 @@ vs:
  - Tanner, Allison
  - Thomas, Karen
  - Tincher, Twyla
- - Trickett, Erica
  - Trowell, Cathy
  - Tucker, Cindy
  - Udle, Teri

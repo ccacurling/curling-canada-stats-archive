@@ -44,6 +44,7 @@ vs:
  - Cameron, Kate
  - Chislett, Geneva
  - Crouse, Jennifer
+ - Curtis, Erica
  - Curtis, Stacie
  - Devereaux, Julie
  - Einarson, Kerri
@@ -71,7 +72,6 @@ vs:
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Shackleton, Amie
- - Trickett, Erica
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika

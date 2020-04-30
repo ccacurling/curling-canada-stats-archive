@@ -2,6 +2,34 @@
 title: Mike McEwen Head-to-head
 name: McEwen, Mike
 vs:
+- name: McLeod, Shadrach
+  totals:
+  - event: Brier
+    player1:
+      percent: 96
+      wins: 1
+      losses: 0
+    player2:
+      percent: 79
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: WC
+      position: Fourth
+      percent: 96
+      win: 1
+      loss: 0
+    player2:
+      team: NT
+      position: Second
+      percent: 79
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(6)
+    score: NT 2 - WC 6
 - name: Meachem, Shaun Myles
   totals:
   - event: Brier
@@ -223,13 +251,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 97
-      wins: 1
+      percent: 91
+      wins: 2
       losses: 0
     player2:
-      percent: 77
+      percent: 83
       wins: 0
-      losses: 1
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 85
@@ -257,6 +285,22 @@ vs:
     draw: Pool(19)
     score: MB 3 - WC 8
   - player1:
+      team: WC
+      position: Fourth
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: SK
+      position: Third
+      percent: 88
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(2)
+    score: SK 3 - WC 5
+  - player1:
       team: McEw
       position: Fourth
       percent: 85
@@ -278,10 +322,10 @@ vs:
     player1:
       percent: 77
       wins: 1
-      losses: 2
+      losses: 3
     player2:
       percent: 83
-      wins: 2
+      wins: 3
       losses: 1
   - event: Trials(Men)
     player1:
@@ -341,6 +385,22 @@ vs:
     year: 2019
     draw: Round Robin(5)
     score: WC 9 - MB 8
+  - player1:
+      team: WC
+      position: Fourth
+      percent: 76
+      win: 0
+      loss: 1
+    player2:
+      team: AB
+      position: Third
+      percent: 83
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Pool(18)
+    score: AB 4 - WC 2
   - player1:
       team: McEw
       position: Fourth
@@ -575,13 +635,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 89
-      wins: 1
+      percent: 88
+      wins: 2
       losses: 0
     player2:
-      percent: 84
+      percent: 90
       wins: 0
-      losses: 1
+      losses: 2
   games:
   - player1:
       team: WC
@@ -599,16 +659,32 @@ vs:
     year: 2018
     draw: Round Robin(4)
     score: WC 9 - BC 3
+  - player1:
+      team: WC
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Second
+      percent: 95
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(7)
+    score: WC 10 - BC 5
 - name: Neufeld, B.J.
   totals:
   - event: Brier
     player1:
-      percent: 72
+      percent: 80
       wins: 0
-      losses: 1
+      losses: 2
     player2:
-      percent: 84
-      wins: 1
+      percent: 88
+      wins: 2
       losses: 0
   games:
   - player1:
@@ -627,16 +703,32 @@ vs:
     year: 2019
     draw: Pool(16)
     score: MB 5 - AB 6
+  - player1:
+      team: WC
+      position: Fourth
+      percent: 89
+      win: 0
+      loss: 1
+    player2:
+      team: CA
+      position: Third
+      percent: 93
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(10)
+    score: WC 2 - CA 3
 - name: Nichols, Mark
   totals:
   - event: Brier
     player1:
-      percent: 83
+      percent: 85
       wins: 1
-      losses: 4
+      losses: 5
     player2:
-      percent: 89
-      wins: 4
+      percent: 90
+      wins: 5
       losses: 1
   - event: Trials(Men)
     player1:
@@ -729,6 +821,22 @@ vs:
     draw: Pool(15)
     score: CA 6 - MB 3
   - player1:
+      team: WC
+      position: Fourth
+      percent: 95
+      win: 0
+      loss: 1
+    player2:
+      team: NL
+      position: Third
+      percent: 94
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Pool(17)
+    score: WC 3 - NL 5
+  - player1:
       team: MCE
       position: Fourth
       percent: 81
@@ -776,6 +884,34 @@ vs:
     year: 2017
     draw: Semi-Final(21)
     score: McEw 6 - Gush 4
+- name: Njegovan, Connor
+  totals:
+  - event: Brier
+    player1:
+      percent: 92
+      wins: 1
+      losses: 0
+    player2:
+      percent: 89
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: WC
+      position: Fourth
+      percent: 92
+      win: 1
+      loss: 0
+    player2:
+      team: MB
+      position: Lead
+      percent: 89
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Pool(16)
+    score: MB 4 - WC 5
 - name: Odian, Scott
   totals:
   - event: Brier
@@ -804,6 +940,34 @@ vs:
     year: 2019
     draw: Round Robin(7)
     score: YT 7 - MB 6
+- name: Parsons, Cole
+  totals:
+  - event: Brier
+    player1:
+      percent: 96
+      wins: 1
+      losses: 0
+    player2:
+      percent: 88
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: WC
+      position: Fourth
+      percent: 96
+      win: 1
+      loss: 0
+    player2:
+      team: NT
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(6)
+    score: NT 2 - WC 6
 - name: Pinder, Jordan
   totals:
   - event: Brier
@@ -1042,13 +1206,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 83
-      wins: 2
+      percent: 84
+      wins: 3
       losses: 1
     player2:
       percent: 81
       wins: 1
-      losses: 2
+      losses: 3
   - event: Trials(Men)
     player1:
       percent: 88
@@ -1107,6 +1271,22 @@ vs:
     year: 2019
     draw: Pool(17)
     score: BC 7 - MB 9
+  - player1:
+      team: WC
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Lead
+      percent: 81
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(7)
+    score: WC 10 - BC 5
   - player1:
       team: MCE
       position: Fourth
@@ -1187,13 +1367,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 93
-      wins: 1
+      percent: 90
+      wins: 2
       losses: 0
     player2:
-      percent: 96
+      percent: 89
       wins: 0
-      losses: 1
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 94
@@ -1221,6 +1401,22 @@ vs:
     draw: Round Robin(1)
     score: SK 5 - MB 6
   - player1:
+      team: WC
+      position: Fourth
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: SK
+      position: Second
+      percent: 83
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(2)
+    score: SK 3 - WC 5
+  - player1:
       team: McEw
       position: Fourth
       percent: 94
@@ -1240,13 +1436,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 80
-      wins: 1
+      percent: 84
+      wins: 2
       losses: 0
     player2:
-      percent: 72
+      percent: 74
       wins: 0
-      losses: 1
+      losses: 2
   games:
   - player1:
       team: WC
@@ -1264,6 +1460,22 @@ vs:
     year: 2018
     draw: Round Robin(2)
     score: WC 5 - YT 3
+  - player1:
+      team: WC
+      position: Fourth
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Fourth
+      percent: 75
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(3)
+    score: WC 10 - YT 6
 - name: Scoffin, Wade
   totals:
   - event: Brier
@@ -1595,10 +1807,10 @@ vs:
     player1:
       percent: 77
       wins: 1
-      losses: 2
+      losses: 3
     player2:
       percent: 84
-      wins: 2
+      wins: 3
       losses: 1
   - event: Trials(Men)
     player1:
@@ -1658,6 +1870,22 @@ vs:
     year: 2019
     draw: Round Robin(5)
     score: WC 9 - MB 8
+  - player1:
+      team: WC
+      position: Fourth
+      percent: 76
+      win: 0
+      loss: 1
+    player2:
+      team: AB
+      position: Second
+      percent: 81
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Pool(18)
+    score: AB 4 - WC 2
   - player1:
       team: McEw
       position: Fourth
@@ -1731,12 +1959,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 83
+      percent: 85
       wins: 1
-      losses: 4
+      losses: 5
     player2:
-      percent: 89
-      wins: 4
+      percent: 90
+      wins: 5
       losses: 1
   - event: Trials(Men)
     player1:
@@ -1829,6 +2057,22 @@ vs:
     draw: Pool(15)
     score: CA 6 - MB 3
   - player1:
+      team: WC
+      position: Fourth
+      percent: 95
+      win: 0
+      loss: 1
+    player2:
+      team: NL
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Pool(17)
+    score: WC 3 - NL 5
+  - player1:
       team: McEw
       position: Fourth
       percent: 74
@@ -1860,6 +2104,62 @@ vs:
     year: 2017
     draw: Semi-Final(21)
     score: McEw 6 - Gush 4
+- name: Wallingham, Joe
+  totals:
+  - event: Brier
+    player1:
+      percent: 89
+      wins: 1
+      losses: 0
+    player2:
+      percent: 89
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: WC
+      position: Fourth
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Lead
+      percent: 89
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(3)
+    score: WC 10 - YT 6
+- name: Winfield, Brett
+  totals:
+  - event: Brier
+    player1:
+      percent: 89
+      wins: 1
+      losses: 0
+    player2:
+      percent: 68
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: WC
+      position: Fourth
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Second
+      percent: 68
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(3)
+    score: WC 10 - YT 6
 - name: Withycombe, Ian
   totals:
   - event: Brier

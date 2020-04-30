@@ -131,13 +131,13 @@ vs:
  - Osborne, Chantal
  - Overton-Clapham, Cathy
  - Parsons, Danielle
+ - Pewarchuk, Dailene
  - Provencal, Darah
  - Robison, Michala
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli
  - Simons, Renee
- - Sivertson, Dailene
  - Smith, Heather
  - Strong, Heather
  - Strong, Laura

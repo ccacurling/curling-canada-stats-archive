@@ -4,19 +4,19 @@ name: Kaitlyn Lawes
 name-sort: Lawes, Kaitlyn
 totals:
  - event: Hearts
-   games: 79
-   wins: 59
-   losses: 20
-   inturn-total: 749
-   inturn-percent: 82
-   outturn-total: 743
-   outturn-percent: 83
-   draw-total: 544
-   draw-percent: 81
-   takeout-total: 948
+   games: 92
+   wins: 68
+   losses: 24
+   inturn-total: 874
+   inturn-percent: 83
+   outturn-total: 856
+   outturn-percent: 82
+   draw-total: 653
+   draw-percent: 80
+   takeout-total: 1077
    takeout-percent: 83
-   shots-total: 1492
-   shots-percent: 83
+   shots-total: 1730
+   shots-percent: 82
 years:
  - year: 2011
    event: Hearts
@@ -120,6 +120,23 @@ years:
    takeout-percent: 79
    shots-total: 216
    shots-percent: 78
+ - year: 2020
+   event: Hearts
+   team: "WC"
+   position: Third
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 125
+   inturn-percent: 83
+   outturn-total: 113
+   outturn-percent: 76
+   draw-total: 109
+   draw-percent: 75
+   takeout-total: 129
+   takeout-percent: 84
+   shots-total: 238
+   shots-percent: 80
 vs:
  - Anderson, Sherry
  - Armstrong, Jacquie
@@ -134,6 +151,7 @@ vs:
  - Baxter, Jen
  - Beauchamp, Sasha
  - Bell, Chelsey
+ - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
@@ -143,6 +161,7 @@ vs:
  - Brassard, Veronique
  - Brine, Jenn
  - Brothers, Jill
+ - Brown, Corryn
  - Brown, Rachel
  - Cameron, Nancy
  - Camozzi, Rhona
@@ -152,6 +171,7 @@ vs:
  - Cheveldave, Amber
  - Chisholm, Candace
  - Christianson, Marie
+ - Clark-Rouire, Jennifer
  - Collins, Katrina
  - Cooper, Kathryn
  - Cormier, Sharon
@@ -159,6 +179,7 @@ vs:
  - Crawford, Andrea
  - Cunningham, Jennifer
  - Cunningham, Jessica
+ - Curtis, Erica
  - Curtis, Stacie
  - deJager, Blaine
  - deSolla, Jodie
@@ -166,6 +187,7 @@ vs:
  - Dolan, Kim
  - Dolan, Sinead
  - Dufresne, Audree
+ - Duncan, Chelsea
  - Dykstra, Michelle
  - Einarson, Kerri
  - Englot, Michelle
@@ -179,7 +201,7 @@ vs:
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
- - Gates, Jenny
+ - Gates, Jennifer
  - Gregoire, Veronique
  - Gushulak, Diane
  - Guzzwell, Stephanie
@@ -188,6 +210,7 @@ vs:
  - Hanna, Jenn
  - Hanna, Stephanie
  - Hastings, Julie
+ - Hawes, Dezaray
  - Holland, Amber
  - Holtby, Taryn
  - Homan, Rachel
@@ -202,6 +225,7 @@ vs:
  - Kasner, Marliese
  - Kelly, Kim
  - Kleibrink, Shannon
+ - Klymchuk, Ashley
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
@@ -212,6 +236,7 @@ vs:
  - Lawton, Stefanie
  - Lemay, Annie
  - Lilly, Kendra
+ - Logan, Emma
  - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
@@ -223,6 +248,7 @@ vs:
  - McCarville, Krista
  - McInnis, Susan
  - McQuaid, Michelle
+ - Meilleur, Briane
  - Miller, Wendy
  - Miskew, Emma
  - Moses, Dawn
@@ -241,12 +267,16 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Pilote, Kristen
+ - Pincott, Erin
+ - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
+ - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Ross, Allison
  - Rusnell, Jen
@@ -262,7 +292,6 @@ vs:
  - Shumay, Jill
  - Silvernagle, Robyn
  - Sippala, Ashley
- - Sivertson, Dailene
  - Slywka, Sarah
  - Smith, Heather
  - Smith, Stacey
@@ -273,10 +302,12 @@ vs:
  - Strong, Helen
  - Strong, Laura
  - Sweeting, Val
+ - Taylor, Susan
  - Thevenot, Kara
  - Thompson, Karla
  - Tran, Brittany
  - Trombley, Christy
+ - Tuor, Kimberly
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie

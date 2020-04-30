@@ -82,9 +82,9 @@ vs:
  - Lawton, Stefanie
  - McDonald, Kristy
  - Meakin, Breanne
+ - Pewarchuk, Dailene
  - Sanderson, Jessie
  - Sandwith, Carley
- - Sivertson, Dailene
  - Smith, Heather
  - Sweeting, Val
  - Titheridge, Lindsay

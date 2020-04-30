@@ -39,6 +39,7 @@ vs:
  - Anderson, Sherry
  - Cameron, Kate
  - Chislett, Geneva
+ - Curtis, Erica
  - Curtis, Stacie
  - Devereaux, Julie
  - Duncan, Hollie
@@ -63,7 +64,6 @@ vs:
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Shackleton, Amie
- - Trickett, Erica
  - Van Osch, Kesa
  - Van Osch, Marika
  - Westcott, Raunora

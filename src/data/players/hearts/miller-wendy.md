@@ -100,7 +100,7 @@ vs:
  - Fleury, Tracy
  - Fullerton, Sarah
  - Gates, Amanda
- - Gates, Jenny
+ - Gates, Jennifer
  - Gregoire, Veronique
  - Guzzwell, Stephanie
  - Holland, Amber

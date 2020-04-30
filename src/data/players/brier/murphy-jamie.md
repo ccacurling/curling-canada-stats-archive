@@ -4,19 +4,19 @@ name: Jamie Murphy
 name-sort: Murphy, Jamie
 totals:
  - event: Brier
-   games: 44
-   wins: 13
-   losses: 31
-   inturn-total: 356
-   inturn-percent: 74
-   outturn-total: 459
+   games: 51
+   wins: 16
+   losses: 35
+   inturn-total: 425
+   inturn-percent: 76
+   outturn-total: 515
    outturn-percent: 79
-   draw-total: 375
+   draw-total: 428
    draw-percent: 77
-   takeout-total: 440
-   takeout-percent: 76
-   shots-total: 815
-   shots-percent: 77
+   takeout-total: 512
+   takeout-percent: 78
+   shots-total: 940
+   shots-percent: 78
 years:
  - year: 2012
    event: Brier
@@ -86,11 +86,30 @@ years:
    takeout-percent: 78
    shots-total: 211
    shots-percent: 80
+ - year: 2020
+   event: Brier
+   team: "NS"
+   position: Fourth
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 69
+   inturn-percent: 85
+   outturn-total: 56
+   outturn-percent: 79
+   draw-total: 53
+   draw-percent: 79
+   takeout-total: 72
+   takeout-percent: 85
+   shots-total: 125
+   shots-percent: 82
 vs:
  - Appelman, Tom
  - Armstrong, Mike
+ - Asselin, Emile
  - Balsdon, Greg
  - Barry, Josh
+ - Bedard, Alek
  - Bice, Mark
  - Bice, Steve
  - Borden, Robert
@@ -103,9 +122,11 @@ vs:
  - Childs, Jamie
  - Chorostkowski, Brad
  - Clarey, Sean
+ - Cochrane, Bryan
  - Cotter, Jim
  - Crete, Martin
  - Currie, Jeff
+ - Currie, Morgan
  - Daneault, Richard
  - Deis, Ryan
  - Desjardins, Robert
@@ -114,6 +135,7 @@ vs:
  - Fecteau, Steve
  - Flasch, Colton
  - Folk, Kevin
+ - Forrest, Alex
  - Fowler, Rob
  - Fry, Ryan
  - Gallant, Brett
@@ -121,11 +143,13 @@ vs:
  - Geall, Sean
  - Grattan, James
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
  - Harris, Tyler
  - Hart, Richard
+ - Higgs, Jake
  - Hodgson, Colin
  - Howard, Glenn
  - Howard, Scott
@@ -138,13 +162,17 @@ vs:
  - Kidby, Dustin
  - Koe, Jamie
  - Koe, Kevin
+ - Kohlenberg, Dale
  - Koivula, Colin
  - Laing, Brent
  - Lang, Tyler
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
+ - Lequin, Bradley
  - Lyburn, Allan
+ - MacAulay, Ian
+ - MacDonald, Edmund
  - MacKenzie, Eddie
  - MacKenzie, Tyler
  - Manners, Scott
@@ -171,9 +199,12 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Odishaw, Grant
  - Odishaw, Terry
+ - O'Rourke, Mark
  - Pfeifer, Scott
+ - Quevillon, Louis
  - Richard, Jeff
  - Roach, Darren
  - Roach, Jason
@@ -197,6 +228,7 @@ vs:
  - Thiessen, Nolan
  - Villeneuve, Steeve
  - Walker, Geoff
+ - Wettig, Sheldon
  - Whitehead, Kevin
  - Withycombe, Ian
  - Wood, Brad

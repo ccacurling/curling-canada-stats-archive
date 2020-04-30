@@ -4,18 +4,18 @@ name: Marc Kennedy
 name-sort: Kennedy, Marc
 totals:
 - event: Brier
-  games: 100
-  wins: 77
-  losses: 23
-  inturn-total: 1058
+  games: 114
+  wins: 86
+  losses: 28
+  inturn-total: 1180
   inturn-percent: 90
-  outturn-total: 788
+  outturn-total: 916
   outturn-percent: 89
-  draw-total: 680
+  draw-total: 762
   draw-percent: 89
-  takeout-total: 1166
+  takeout-total: 1334
   takeout-percent: 90
-  shots-total: 1846
+  shots-total: 2096
   shots-percent: 90
 - event: Trials (Men)
   games: 35
@@ -168,6 +168,23 @@ years:
   takeout-percent: 86
   shots-total: 280
   shots-percent: 86
+- year: 2020
+  event: Brier
+  team: 'NO'
+  position: Third
+  games: 14
+  wins: 9
+  losses: 5
+  inturn-total: 122
+  inturn-percent: 90
+  outturn-total: 128
+  outturn-percent: 91
+  draw-total: 82
+  draw-percent: 86
+  takeout-total: 168
+  takeout-percent: 93
+  shots-total: 250
+  shots-percent: 91
 - year: 2005
   event: Trials (Men)
   team: MOR
@@ -239,11 +256,13 @@ years:
 vs:
 - Adam, Gerry
 - Adams, Shawn
+- Asselin, Emile
 - Atchison, Chris
 - Bailey, Scott
 - Barker, Richard
 - Barry, Josh
 - Bartlett, Don
+- Bedard, Alek
 - Berthelot, Marco
 - Bezanson, Jared
 - Bilesky, Andrew
@@ -266,10 +285,12 @@ vs:
 - Champion, Kevin
 - Charette, Pierre
 - Chorostkowski, Brad
+- Cochrane, Bryan
 - Cotter, Jim
 - Cowan, Chad
 - Crete, Martin
 - Crowell, Phil
+- Currie, Morgan
 - Dacey, Mark
 - Danbrook, Jamie
 - Daneault, Richard
@@ -291,6 +312,7 @@ vs:
 - Flaxey, Caleb
 - Flemming, Paul
 - Folk, Kevin
+- Forrest, Alex
 - Forrest, Tyler
 - Fowler, Rob
 - Fraser, Pierre
@@ -315,7 +337,9 @@ vs:
 - Harnden, Ryan
 - Harris, Rob
 - Hart, Richard
+- Hebert, Ben
 - Hicke, Dean
+- Higgs, Jake
 - Hodgson, Colin
 - Howard, Glenn
 - Howard, Russ
@@ -340,6 +364,7 @@ vs:
 - Knapp, Kelly
 - Koe, Jamie
 - Koe, Kevin
+- Kohlenberg, Dale
 - Kopf, Steve
 - Korab, Jamie
 - Kuhn, Ryan
@@ -349,8 +374,11 @@ vs:
 - Ledgerwood, Sean
 - Leech, Ron
 - Lemay, Philippe
+- Lequin, Bradley
 - Lohnes, Bruce
+- MacAulay, Ian
 - MacDonald, Blake
+- MacDonald, Edmund
 - MacDonald, Rod
 - MacFadyen, Alex
 - MacKenzie, Eddie
@@ -383,6 +411,7 @@ vs:
 - Neufeld, B.J.
 - Neufeld, Denni
 - Nichols, Mark
+- Njegovan, Connor
 - Noftall, David
 - O'Rourke, Mark
 - Olson, Mark-2
@@ -394,6 +423,7 @@ vs:
 - Pierce, Brent
 - Pinder, Jordan
 - Porter, Ryan
+- Quevillon, Louis
 - Rafuse, Brian
 - Recksiedler, Kevin
 - Richter, Justin
@@ -418,6 +448,7 @@ vs:
 - Slauenwhite, David
 - Smith, Garth
 - Smith, Kent
+- Smitheram, Christian
 - Solberg, Jonathon
 - Spencer, Adam
 - Stoughton, Jeff

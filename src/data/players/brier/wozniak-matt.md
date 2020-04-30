@@ -73,6 +73,10 @@ years:
    event: Brier
    team: "MB"
    position: Alternate
+ - year: 2020
+   event: Brier
+   team: "WC"
+   position: Alternate
 vs:
  - Appelman, Tom
  - Borden, Robert

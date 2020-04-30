@@ -4,19 +4,19 @@ name: Rick Sawatsky
 name-sort: Sawatsky, Rick
 totals:
  - event: Brier
-   games: 92
-   wins: 45
-   losses: 47
-   inturn-total: 933
+   games: 99
+   wins: 47
+   losses: 52
+   inturn-total: 995
    inturn-percent: 89
-   outturn-total: 806
-   outturn-percent: 88
-   draw-total: 1517
-   draw-percent: 90
-   takeout-total: 222
+   outturn-total: 872
+   outturn-percent: 87
+   draw-total: 1628
+   draw-percent: 89
+   takeout-total: 239
    takeout-percent: 82
-   shots-total: 1739
-   shots-percent: 89
+   shots-total: 1867
+   shots-percent: 88
 years:
  - year: 2008
    event: Brier
@@ -154,6 +154,23 @@ years:
    takeout-percent: 67
    shots-total: 200
    shots-percent: 88
+ - year: 2020
+   event: Brier
+   team: "BC"
+   position: Lead
+   games: 7
+   wins: 2
+   losses: 5
+   inturn-total: 62
+   inturn-percent: 87
+   outturn-total: 66
+   outturn-percent: 80
+   draw-total: 111
+   draw-percent: 84
+   takeout-total: 17
+   takeout-percent: 78
+   shots-total: 128
+   shots-percent: 83
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -195,8 +212,11 @@ vs:
  - Desjardins, Robert
  - Desrosiers, John
  - Dillon, Mike
+ - Dobson, Paul
  - Doherty, Robert
+ - Dunstone, Matthew
  - Eldridge, Zach
+ - Epping, John
  - Farnell, Jamie
  - Flasch, Colton
  - Flaxey, Caleb
@@ -226,6 +246,7 @@ vs:
  - Ireland, Clint
  - Jacobs, Brad
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Jones, Brennen
  - Jones, Scott
  - Josephson, Glenn
@@ -260,6 +281,7 @@ vs:
  - McDermaid, Donald
  - McDonald, Scott
  - McEwen, Mike
+ - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Mead, Jonathan
  - Menard, Jean-Michel
@@ -295,6 +317,7 @@ vs:
  - Savill, Craig
  - Schille, Chris
  - Schneider, Catlin
+ - Scoffin, Thomas
  - Scoffin, Wade
  - Seabrook, Scott
  - Sharp, Jeff
@@ -313,7 +336,9 @@ vs:
  - Vaughan, Jason
  - Villeneuve, Steeve
  - Walker, Geoff
+ - Wallingham, Joe
  - Whitehead, Kevin
  - Whitehead, Mark
+ - Winfield, Brett
  - Wozniak, Matt
 ---

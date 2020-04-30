@@ -131,6 +131,7 @@ vs:
  - Comeau, Sandy
  - Cormier, Sharon
  - Courtney, Joanne
+ - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - Daniel, Sylvie
@@ -228,7 +229,6 @@ vs:
  - Stubbings, Tiffany
  - Thiessen, Alison
  - Tincher, Twyla
- - Trickett, Erica
  - Tucker, Cindy
  - Udle, Teri
  - Vey, Lana

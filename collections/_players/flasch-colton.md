@@ -4,19 +4,19 @@ name: Colton Flasch
 name-sort: Flasch, Colton
 totals:
  - event: Brier
-   games: 48
-   wins: 32
-   losses: 16
-   inturn-total: 497
-   inturn-percent: 85
-   outturn-total: 444
-   outturn-percent: 84
-   draw-total: 419
-   draw-percent: 84
-   takeout-total: 522
-   takeout-percent: 86
-   shots-total: 941
-   shots-percent: 85
+   games: 60
+   wins: 39
+   losses: 21
+   inturn-total: 580
+   inturn-percent: 84
+   outturn-total: 576
+   outturn-percent: 85
+   draw-total: 519
+   draw-percent: 83
+   takeout-total: 637
+   takeout-percent: 85
+   shots-total: 1156
+   shots-percent: 84
 years:
  - year: 2014
    event: Brier
@@ -86,6 +86,23 @@ years:
    takeout-percent: 83
    shots-total: 241
    shots-percent: 84
+ - year: 2020
+   event: Brier
+   team: "CA"
+   position: Second
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 83
+   inturn-percent: 79
+   outturn-total: 132
+   outturn-percent: 85
+   draw-total: 100
+   draw-percent: 82
+   takeout-total: 115
+   takeout-percent: 83
+   shots-total: 215
+   shots-percent: 83
 vs:
  - Aho, David
  - Ardiel, Taylor
@@ -109,14 +126,19 @@ vs:
  - Cotter, Jim
  - Crete, Martin
  - Currie, Jeff
+ - Dobson, Paul
  - Doherty, Robert
+ - Dunstone, Matthew
  - Eldridge, Zach
+ - Epping, John
  - Farnell, Jamie
  - Forget, Wes
+ - Forrest, Alex
  - Fry, Ryan
  - Gallant, Brett
  - Grattan, James
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -127,11 +149,13 @@ vs:
  - Howard, Scott
  - Jacobs, Brad
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Jones, Scott
  - Kean, Mark
  - Kendall, Lloyd
  - Kennedy, Marc
  - Kennedy, Mike
+ - Kidby, Dustin
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
@@ -148,10 +172,12 @@ vs:
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
+ - McCann, Andy
  - McCarville, Mike
  - McDermaid, Donald
  - McDonald, Scott
  - McEwen, Mike
+ - McLeod, Shadrach
  - Mead, Jonathan
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -163,10 +189,12 @@ vs:
  - Muyres, Dallan
  - Muyres, Kirk
  - Nadeau, Jeff
+ - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
  - Ng, Matt
  - Nichols, Mark
+ - Njegovan, Connor
  - Odishaw, Grant
  - Odishaw, Terry
  - Parsons, Cole
@@ -178,6 +206,8 @@ vs:
  - Samagalski, Derek
  - Sawatsky, Rick
  - Schille, Chris
+ - Schneider, Catlin
+ - Scoffin, Thomas
  - Simmons, Pat
  - Spencer, Adam
  - St.Louis, David
@@ -188,7 +218,9 @@ vs:
  - Thiessen, Nolan
  - Thompson, Stuart
  - Walker, Geoff
+ - Wallingham, Joe
  - Whitehead, Kevin
  - Whitehead, Mark
+ - Winfield, Brett
  - Wozniak, Matt
 ---

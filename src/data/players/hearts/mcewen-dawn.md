@@ -4,18 +4,18 @@ name: Dawn McEwen
 name-sort: McEwen, Dawn
 totals:
  - event: Hearts
-   games: 151
-   wins: 112
-   losses: 39
-   inturn-total: 1769
+   games: 164
+   wins: 121
+   losses: 43
+   inturn-total: 1916
    inturn-percent: 89
-   outturn-total: 973
+   outturn-total: 1064
    outturn-percent: 87
-   draw-total: 2181
+   draw-total: 2389
    draw-percent: 90
-   takeout-total: 561
-   takeout-percent: 83
-   shots-total: 2742
+   takeout-total: 591
+   takeout-percent: 82
+   shots-total: 2980
    shots-percent: 88
 years:
  - year: 2005
@@ -205,6 +205,23 @@ years:
    takeout-percent: 86
    shots-total: 205
    shots-percent: 89
+ - year: 2020
+   event: Hearts
+   team: "WC"
+   position: Lead
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 147
+   inturn-percent: 88
+   outturn-total: 91
+   outturn-percent: 84
+   draw-total: 208
+   draw-percent: 89
+   takeout-total: 30
+   takeout-percent: 70
+   shots-total: 238
+   shots-percent: 87
 vs:
  - Adams, Melissa
  - Affleck, Tricia
@@ -225,6 +242,7 @@ vs:
  - Belisle, Eve
  - Bell, Chelsey
  - Bernard, Cheryl
+ - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
@@ -235,6 +253,7 @@ vs:
  - Brennan, Amanda
  - Brine, Jenn
  - Brothers, Jill
+ - Brown, Corryn
  - Brown, Jacalyn
  - Brown, Rachel
  - Bush, Tracy
@@ -251,6 +270,7 @@ vs:
  - Chisholm, Candace
  - Christianson, Marie
  - Clark, Stefanie
+ - Clark-Rouire, Jennifer
  - Collins, Katrina
  - Comeau, Martine
  - Comeau, Sandy
@@ -262,6 +282,7 @@ vs:
  - Cunningham, Cathy
  - Cunningham, Jennifer
  - Cunningham, Jessica
+ - Curtis, Erica
  - Curtis, Stacie
  - Darbyshire, Carolyn
  - deJager, Blaine
@@ -296,7 +317,7 @@ vs:
  - Gagnier, Monique
  - Galusha, Kerry
  - Gates, Amanda
- - Gates, Jenny
+ - Gates, Jennifer
  - Gauthier, Cathy
  - George, Tara
  - Gibson, Amy
@@ -312,6 +333,7 @@ vs:
  - Hardy, Shelley
  - Harmark, Andra
  - Hastings, Julie
+ - Hawes, Dezaray
  - Holland, Amber
  - Holtby, Taryn
  - Homan, Rachel
@@ -330,6 +352,7 @@ vs:
  - Kidd, Darlene
  - King, Cathy
  - Kleibrink, Shannon
+ - Klymchuk, Ashley
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
@@ -347,6 +370,7 @@ vs:
  - Lemon, Colette
  - Lilly, Kendra
  - Lister, Kendra
+ - Logan, Emma
  - Lowther, Tammi
  - MacCuish, Kristin
  - MacDonald, Rebecca Jean
@@ -400,8 +424,11 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Phillips, Kristen
  - Pilote, Kristen
+ - Pincott, Erin
+ - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
  - Price, Kara
@@ -411,6 +438,7 @@ vs:
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
+ - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Robichaud, Sylvie
  - Rocque, Raylene
@@ -435,7 +463,6 @@ vs:
  - Simons, Renee
  - Singler, Sherri
  - Sippala, Ashley
- - Sivertson, Dailene
  - Slywka, Sarah
  - Smallwood, Jody
  - Smart, Meaghan
@@ -450,12 +477,14 @@ vs:
  - Strong, Laura
  - Surik, Teejay
  - Sweeting, Val
+ - Taylor, Susan
  - Thevenot, Kara
  - Thomas, Jill
  - Thompson, Karla
  - Thurston, Jill
  - Tran, Brittany
  - Trombley, Christy
+ - Tuor, Kimberly
  - Udle, Teri
  - Vandale, Trysta
  - Van Osch, Kalia

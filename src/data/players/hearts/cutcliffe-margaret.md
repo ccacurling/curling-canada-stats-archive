@@ -99,6 +99,7 @@ vs:
  - Cormier, Sharon
  - Courtney, Joanne
  - Crocker, Cindy
+ - Curtis, Erica
  - Curtis, Stacie
  - Darbyshire, Carolyn
  - Darbyshire, Merline
@@ -186,7 +187,6 @@ vs:
  - Thompson, Carol
  - Tousignant, Helene
  - Treloar, Cathy
- - Trickett, Erica
  - Twa, Dale
  - Vaughan, Marlene
  - Weagle, Lisa

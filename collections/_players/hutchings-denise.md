@@ -38,6 +38,7 @@ years:
 vs:
  - Arnaud, Chloe
  - Cameron, Kate
+ - Curtis, Erica
  - Curtis, Stacie
  - Devereaux, Julie
  - Duncan, Chelsea
@@ -62,7 +63,6 @@ vs:
  - Scheidegger, Jessie
  - Smallwood, Jody
  - Thiboutot, Isabelle
- - Trickett, Erica
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika

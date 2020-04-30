@@ -42,6 +42,7 @@ vs:
  - Carey, Chelsea
  - Cormier, Sharon
  - Courtney, Joanne
+ - Curtis, Erica
  - Curtis, Stacie
  - deJager, Blaine
  - Derry, Danielle
@@ -73,7 +74,6 @@ vs:
  - Richards, Brette
  - Sippala, Ashley
  - Thiessen, Alison
- - Trickett, Erica
  - Weagle, Lisa
  - Westcott, Raunora
  - Wilkes, Sarah

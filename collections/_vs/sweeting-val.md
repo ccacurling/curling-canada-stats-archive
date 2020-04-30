@@ -2,6 +2,34 @@
 title: Val Sweeting Head-to-head
 name: Sweeting, Val
 vs:
+- name: Taylor, Susan
+  totals:
+  - event: Hearts
+    player1:
+      percent: 89
+      wins: 1
+      losses: 0
+    player2:
+      percent: 96
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: MB
+      position: Third
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: SK
+      position: Lead
+      percent: 96
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(11)
+    score: SK 6 - MB 10
 - name: Thomas, Jill
   totals:
   - event: Hearts
@@ -239,6 +267,62 @@ vs:
     year: 2014
     draw: Round Robin(2)
     score: AB 8 - BC 6
+- name: Verreault, Noemie
+  totals:
+  - event: Hearts
+    player1:
+      percent: 81
+      wins: 1
+      losses: 0
+    player2:
+      percent: 59
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: MB
+      position: Third
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: QC
+      position: Fourth
+      percent: 59
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(2)
+    score: QC 4 - MB 9
+- name: Walker, Laura
+  totals:
+  - event: Hearts
+    player1:
+      percent: 85
+      wins: 1
+      losses: 0
+    player2:
+      percent: 75
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: MB
+      position: Third
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: AB
+      position: Fourth
+      percent: 75
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(14)
+    score: AB 5 - MB 8
 - name: Wallingham, Patty
   totals:
   - event: Hearts
@@ -299,13 +383,13 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 78
-      wins: 1
+      percent: 82
+      wins: 3
       losses: 2
     player2:
-      percent: 83
+      percent: 87
       wins: 2
-      losses: 1
+      losses: 3
   - event: Trials (Women)
     player1:
       percent: 84
@@ -364,6 +448,38 @@ vs:
     year: 2015
     draw: Round Robin(15)
     score: AB 7 - CA 6
+  - player1:
+      team: MB
+      position: Third
+      percent: 93
+      win: 1
+      loss: 0
+    player2:
+      team: 'ON'
+      position: Lead
+      percent: 98
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Pool(19)
+    score: ON 6 - MB 9
+  - player1:
+      team: MB
+      position: Third
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: 'ON'
+      position: Lead
+      percent: 90
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Final(23)
+    score: ON 7 - MB 8
   - player1:
       team: SWE
       position: Fourth
@@ -477,6 +593,34 @@ vs:
     year: 2015
     draw: Round Robin(5)
     score: AB 10 - NB 4
+- name: Wilkes, Sarah
+  totals:
+  - event: Hearts
+    player1:
+      percent: 86
+      wins: 1
+      losses: 0
+    player2:
+      percent: 88
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: MB
+      position: Third
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: CA
+      position: Third
+      percent: 88
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(7)
+    score: MB 6 - CA 5
 - name: Wilson, Leslie
   totals:
   - event: Hearts

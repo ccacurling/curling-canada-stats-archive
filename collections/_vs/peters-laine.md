@@ -2,6 +2,50 @@
 title: Laine Peters Head-to-head
 name: Peters, Laine
 vs:
+- name: Pewarchuk, Dailene
+  totals:
+  - event: Hearts
+    player1:
+      percent: 84
+      wins: 2
+      losses: 0
+    player2:
+      percent: 86
+      wins: 0
+      losses: 2
+  games:
+  - player1:
+      team: AB
+      position: Lead
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Second
+      percent: 90
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2012
+    draw: Round Robin(10)
+    score: AB 7 - BC 4
+  - player1:
+      team: AB
+      position: Lead
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Second
+      percent: 81
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2012
+    draw: Final(22)
+    score: BC 6 - AB 7
 - name: Phillips, Margaret Lea
   totals:
   - event: Hearts
@@ -1116,50 +1160,6 @@ vs:
     year: 2017
     draw: Round Robin(18)
     score: McCa 2 - Care 5
-- name: Sivertson, Dailene
-  totals:
-  - event: Hearts
-    player1:
-      percent: 84
-      wins: 2
-      losses: 0
-    player2:
-      percent: 86
-      wins: 0
-      losses: 2
-  games:
-  - player1:
-      team: AB
-      position: Lead
-      percent: 83
-      win: 1
-      loss: 0
-    player2:
-      team: BC
-      position: Second
-      percent: 90
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2012
-    draw: Round Robin(10)
-    score: AB 7 - BC 4
-  - player1:
-      team: AB
-      position: Lead
-      percent: 85
-      win: 1
-      loss: 0
-    player2:
-      team: BC
-      position: Second
-      percent: 81
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2012
-    draw: Final(22)
-    score: BC 6 - AB 7
 - name: Skinner, Julie
   totals:
   - event: Hearts
@@ -1564,34 +1564,6 @@ vs:
     year: 2016
     draw: Round Robin(4)
     score: BC 5 - AB 8
-- name: Trickett, Erica
-  totals:
-  - event: Hearts
-    player1:
-      percent: 83
-      wins: 1
-      losses: 0
-    player2:
-      percent: 85
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: CA
-      position: Lead
-      percent: 83
-      win: 1
-      loss: 0
-    player2:
-      team: NL
-      position: Lead
-      percent: 85
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2017
-    draw: Round Robin(13)
-    score: NL 5 - CA 11
 - name: Udle, Teri
   totals:
   - event: Hearts

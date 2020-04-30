@@ -4,18 +4,18 @@ name: Chelsea Duncan
 name-sort: Duncan, Chelsea
 totals:
  - event: Hearts
-   games: 19
+   games: 26
    wins: 3
-   losses: 16
-   inturn-total: 175
+   losses: 23
+   inturn-total: 236
    inturn-percent: 71
-   outturn-total: 159
+   outturn-total: 224
    outturn-percent: 67
-   draw-total: 178
-   draw-percent: 69
-   takeout-total: 156
-   takeout-percent: 69
-   shots-total: 334
+   draw-total: 244
+   draw-percent: 68
+   takeout-total: 216
+   takeout-percent: 70
+   shots-total: 460
    shots-percent: 69
 years:
  - year: 2014
@@ -85,6 +85,23 @@ years:
    takeout-percent: 70
    shots-total: 137
    shots-percent: 62
+ - year: 2020
+   event: Hearts
+   team: "YT"
+   position: Third
+   games: 7
+   wins: 0
+   losses: 7
+   inturn-total: 61
+   inturn-percent: 71
+   outturn-total: 65
+   outturn-percent: 67
+   draw-total: 66
+   draw-percent: 67
+   takeout-total: 60
+   takeout-percent: 71
+   shots-total: 126
+   shots-percent: 69
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -95,11 +112,15 @@ vs:
  - Barbour, Shona
  - Baxter, Jen
  - Birchard, Shannon
+ - Birt, Suzanne
  - Black, Christina
  - Brothers, Jill
+ - Brown, Corryn
  - Brown, Rachel
  - Carey, Chelsea
  - Chislett, Geneva
+ - Christianson, Marie
+ - Clarke, Kristin
  - Cooper, Kathryn
  - Cottrill, Katie
  - Court, Morgan
@@ -107,7 +128,9 @@ vs:
  - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Jessica
+ - Curtis, Erica
  - deSolla, Jodie
+ - Devereaux, Julie
  - Dolan, Kim
  - Dolan, Sinead
  - Einarson, Kerri
@@ -121,25 +144,33 @@ vs:
  - Galusha, Kerry
  - Gannon, Melissa
  - Gates, Amanda
+ - Hamilton, Beth
+ - Hawes, Dezaray
  - Homan, Rachel
+ - Hughes, Meaghan
  - Hutchings, Denise
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese
+ - Klymchuk, Ashley
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
  - Kreviazuk, Alison
+ - Kreviazuk, Cheryl
  - Kreviazuk, Lynn
+ - Lawes, Kaitlyn
  - Lawton, Stefanie
  - LeDrew, Stephanie
  - Lister, Kendra
+ - Logan, Emma
  - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - Mackey, Robyn
  - McDonald, Kristy
  - McEwen, Dawn
+ - McQuaid, Michelle
  - Meakin, Breanne
  - Miskew, Emma
  - Njegovan, Selena
@@ -147,6 +178,10 @@ vs:
  - Officer, Jill
  - O'Rourke, Brittany
  - Parsons, Danielle
+ - Peterman, Jocelyn
+ - Pincott, Erin
+ - Porter, Erin
+ - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Robison, Michala
  - Ross, Allison

@@ -87,6 +87,7 @@ years:
    shots-percent: 63
 vs:
  - Cameron, Kate
+ - Curtis, Erica
  - Curtis, Stacie
  - Devereaux, Julie
  - Duncan, Chelsea
@@ -111,7 +112,6 @@ vs:
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Smallwood, Jody
- - Trickett, Erica
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika

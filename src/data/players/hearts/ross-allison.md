@@ -194,6 +194,7 @@ vs:
  - Overton-Clapham, Cathy
  - Parsons, Danielle
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Porter, Erin
  - Power, Marie-Anne
  - Prosser, Sandi
@@ -211,7 +212,6 @@ vs:
  - Simons, Renee
  - Sinclair, Andrea
  - Singler, Sherri
- - Sivertson, Dailene
  - Smith, Heather
  - Sonnenberg, Renee
  - Street, Cindy

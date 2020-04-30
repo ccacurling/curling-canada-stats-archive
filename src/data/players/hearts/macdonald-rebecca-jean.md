@@ -395,6 +395,7 @@ vs:
  - Overton-Clapham, Cathy
  - Parsons, Danielle
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Phillips, Laura
  - Pinkney, Colleen
  - Power, Marie-Anne
@@ -420,7 +421,6 @@ vs:
  - Simons, Renee
  - Sinclair, Andrea
  - Singler, Sherri
- - Sivertson, Dailene
  - Slywka, Sarah
  - Smith, Heather
  - Sobey, Lianne

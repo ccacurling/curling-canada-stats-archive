@@ -4,18 +4,18 @@ name: Jim Cotter
 name-sort: Cotter, Jim
 totals:
  - event: Brier
-   games: 92
-   wins: 45
-   losses: 47
-   inturn-total: 855
+   games: 99
+   wins: 47
+   losses: 52
+   inturn-total: 919
    inturn-percent: 81
-   outturn-total: 859
+   outturn-total: 922
    outturn-percent: 79
-   draw-total: 751
+   draw-total: 803
    draw-percent: 78
-   takeout-total: 963
-   takeout-percent: 82
-   shots-total: 1714
+   takeout-total: 1038
+   takeout-percent: 81
+   shots-total: 1841
    shots-percent: 80
 years:
  - year: 2008
@@ -154,6 +154,23 @@ years:
    takeout-percent: 79
    shots-total: 198
    shots-percent: 79
+ - year: 2020
+   event: Brier
+   team: "BC"
+   position: Fourth
+   games: 7
+   wins: 2
+   losses: 5
+   inturn-total: 64
+   inturn-percent: 77
+   outturn-total: 63
+   outturn-percent: 73
+   draw-total: 52
+   draw-percent: 76
+   takeout-total: 75
+   takeout-percent: 75
+   shots-total: 127
+   shots-percent: 75
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -195,8 +212,11 @@ vs:
  - Desjardins, Robert
  - Desrosiers, John
  - Dillon, Mike
+ - Dobson, Paul
  - Doherty, Robert
+ - Dunstone, Matthew
  - Eldridge, Zach
+ - Epping, John
  - Farnell, Jamie
  - Flasch, Colton
  - Flaxey, Caleb
@@ -226,6 +246,7 @@ vs:
  - Ireland, Clint
  - Jacobs, Brad
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Jones, Brennen
  - Jones, Scott
  - Josephson, Glenn
@@ -260,6 +281,7 @@ vs:
  - McDermaid, Donald
  - McDonald, Scott
  - McEwen, Mike
+ - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Mead, Jonathan
  - Menard, Jean-Michel
@@ -295,6 +317,7 @@ vs:
  - Savill, Craig
  - Schille, Chris
  - Schneider, Catlin
+ - Scoffin, Thomas
  - Scoffin, Wade
  - Seabrook, Scott
  - Sharp, Jeff
@@ -313,7 +336,9 @@ vs:
  - Vaughan, Jason
  - Villeneuve, Steeve
  - Walker, Geoff
+ - Wallingham, Joe
  - Whitehead, Kevin
  - Whitehead, Mark
+ - Winfield, Brett
  - Wozniak, Matt
 ---

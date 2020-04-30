@@ -4,18 +4,18 @@ name: Andrea Crawford
 name-sort: Crawford, Andrea
 totals:
  - event: Hearts
-   games: 84
-   wins: 38
-   losses: 46
-   inturn-total: 847
-   inturn-percent: 76
-   outturn-total: 717
-   outturn-percent: 73
-   draw-total: 705
-   draw-percent: 72
-   takeout-total: 859
+   games: 92
+   wins: 42
+   losses: 50
+   inturn-total: 929
+   inturn-percent: 75
+   outturn-total: 783
+   outturn-percent: 74
+   draw-total: 781
+   draw-percent: 71
+   takeout-total: 931
    takeout-percent: 77
-   shots-total: 1564
+   shots-total: 1712
    shots-percent: 74
 years:
  - year: 2006
@@ -154,6 +154,23 @@ years:
    takeout-percent: 79
    shots-total: 127
    shots-percent: 77
+ - year: 2020
+   event: Hearts
+   team: "NB"
+   position: Fourth
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 82
+   inturn-percent: 72
+   outturn-total: 66
+   outturn-percent: 78
+   draw-total: 76
+   draw-percent: 68
+   takeout-total: 72
+   takeout-percent: 81
+   shots-total: 148
+   shots-percent: 74
 vs:
  - Affleck, Tricia
  - Anderson, Sherry
@@ -170,6 +187,7 @@ vs:
  - Belisle, Eve
  - Bell, Chelsey
  - Bernard, Cheryl
+ - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
  - Blais, Amelie
@@ -181,6 +199,7 @@ vs:
  - Brown, Rachel
  - Burgess, Carey
  - Bush, Tracy
+ - Cameron, Kate
  - Cameron, Nancy
  - Carey, Chelsea
  - Carmody, Erin
@@ -192,6 +211,7 @@ vs:
  - Comeau, Martine
  - Cooper, Kathryn
  - Cormier, Sharon
+ - Cote, Marie-Pier
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
@@ -208,6 +228,8 @@ vs:
  - Dufresne, Audree
  - Duncan, Chelsea
  - Dykstra, Michelle
+ - Eddy, Lori
+ - Einarson, Kerri
  - Einarson, Megan
  - Ellis, Danielle
  - Englot, Michelle
@@ -223,10 +245,12 @@ vs:
  - Galusha, Kerry
  - Gannon, Melissa
  - Gates, Amanda
+ - Gates, Jennifer
  - George, Tara
  - Gilman, Sheena
  - Goss, Peg
  - Gregoire, Veronique
+ - Griffin, Alison
  - Gushulak, Diane
  - Guzzwell, Stephanie
  - Hamilton, Beth
@@ -262,8 +286,10 @@ vs:
  - LeDrew, Stephanie
  - Lemay, Annie
  - Lemon, Colette
+ - Lilly, Kendra
  - Loder, Cherie-Ann
  - Lowther, Tammi
+ - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacInnes, Grace
@@ -279,10 +305,12 @@ vs:
  - McCarville, Krista
  - McConnery, Nancy
  - McDonald, Kristy
+ - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
  - McQuaid, Michelle
  - Meakin, Breanne
+ - Meilleur, Briane
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
@@ -307,7 +335,9 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Phillips, Kristen
+ - Pinksen, Sadie
  - Porter, Erin
  - Rainville, Julie
  - Ramsay, Geri Lynn
@@ -315,9 +345,12 @@ vs:
  - Ridalls, Kristen
  - Robertson, Darcy
  - Robison, Michala
+ - Rocque, Kelsey
  - Rocque, Raylene
  - Rogers, Rhonda
  - Ross, Allison
+ - Routledge, Alanna
+ - Routledge, Jill
  - Rudulier, Andrea
  - Sabourin, Joelle
  - Sanderson, Jessie
@@ -326,6 +359,7 @@ vs:
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
+ - Scotland, Nadine
  - Scott, Kelly
  - Sharpe, Kelli
  - Shaw, Ladene
@@ -335,7 +369,6 @@ vs:
  - Sinclair, Andrea
  - Singler, Sherri
  - Sippala, Ashley
- - Sivertson, Dailene
  - Slywka, Sarah
  - Smith, Heather
  - Spencer, Barb
@@ -346,6 +379,7 @@ vs:
  - Stubbings, Tiffany
  - Sweeting, Val
  - Tanner, Ros
+ - Taylor, Susan
  - Thevenot, Kara
  - Thomas, Jill
  - Thurston, Jill
@@ -353,7 +387,9 @@ vs:
  - Tran, Brittany
  - Udle, Teri
  - Van Osch, Kesa
+ - Verreault, Noemie
  - Vey, Lana
+ - Walker, Laura
  - Wallingham, Patty
  - Walsh, Jenna
  - Wasylkiw, Lauren
@@ -362,6 +398,7 @@ vs:
  - Webster, Bronwen
  - Westcott, Raunora
  - Wheatcroft, Georgina
+ - Wilkes, Sarah
  - Wilson, Leslie
  - Wylie, Jennifer
 ---

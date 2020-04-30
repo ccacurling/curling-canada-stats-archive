@@ -154,6 +154,7 @@ vs:
  - Courtney, Joanne
  - Crawford, Andrea
  - Cunningham, Cathy
+ - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
@@ -275,7 +276,6 @@ vs:
  - Surik, Teejay
  - Thiessen, Alison
  - Thompson, Karla
- - Trickett, Erica
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie

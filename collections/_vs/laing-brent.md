@@ -62,13 +62,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 84
-      wins: 4
+      percent: 85
+      wins: 5
       losses: 2
     player2:
-      percent: 84
+      percent: 82
       wins: 2
-      losses: 4
+      losses: 5
   - event: Trials(Men)
     player1:
       percent: 88
@@ -175,6 +175,22 @@ vs:
     year: 2016
     draw: Round Robin(16)
     score: SK 5 - AB 7
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Third
+      percent: 63
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(4)
+    score: ON 11 - BC 3
   - player1:
       team: HOWA
       position: Second
@@ -990,12 +1006,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 85
+      percent: 89
       wins: 0
-      losses: 1
+      losses: 2
     player2:
-      percent: 99
-      wins: 1
+      percent: 93
+      wins: 2
       losses: 0
   - event: Trials(Men)
     player1:
@@ -1023,6 +1039,22 @@ vs:
     year: 2017
     draw: Round Robin(10)
     score: CA 4 - AB 6
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 94
+      win: 0
+      loss: 1
+    player2:
+      team: AB
+      position: Lead
+      percent: 86
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Pool(17)
+    score: ON 3 - AB 10
   - player1:
       team: Koe
       position: Second
@@ -1429,12 +1461,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 90
+      percent: 92
       wins: 2
-      losses: 0
+      losses: 1
     player2:
-      percent: 74
-      wins: 0
+      percent: 78
+      wins: 1
       losses: 2
   games:
   - player1:
@@ -1469,6 +1501,22 @@ vs:
     year: 2012
     draw: Round Robin(1)
     score: ON 6 - NB 5
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 96
+      win: 0
+      loss: 1
+    player2:
+      team: NB
+      position: Second
+      percent: 84
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(8)
+    score: ON 4 - NB 7
 - name: McCusker, Brian
   totals:
   - event: Brier
@@ -1529,13 +1577,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 89
-      wins: 4
-      losses: 0
+      percent: 90
+      wins: 5
+      losses: 1
     player2:
-      percent: 84
-      wins: 0
-      losses: 4
+      percent: 85
+      wins: 1
+      losses: 5
   - event: Trials(Men)
     player1:
       percent: 83
@@ -1610,6 +1658,38 @@ vs:
     year: 2017
     draw: Semi-Final(20)
     score: MB 6 - CA 7
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 94
+      win: 0
+      loss: 1
+    player2:
+      team: WC
+      position: Fourth
+      percent: 95
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(11)
+    score: ON 7 - WC 11
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: WC
+      position: Fourth
+      percent: 84
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Tie-Breaker(19)
+    score: ON 7 - WC 6
   - player1:
       team: HOW
       position: Second
@@ -1686,6 +1766,34 @@ vs:
     year: 2010
     draw: Round Robin(10)
     score: ON 9 - SK 5
+- name: McLeod, Shadrach
+  totals:
+  - event: Brier
+    player1:
+      percent: 93
+      wins: 1
+      losses: 0
+    player2:
+      percent: 89
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    player2:
+      team: NT
+      position: Second
+      percent: 89
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(14)
+    score: NT 8 - ON 11
 - name: Meachem, Shaun Myles
   totals:
   - event: Brier
@@ -2432,12 +2540,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 90
+      percent: 88
       wins: 2
-      losses: 0
+      losses: 1
     player2:
-      percent: 89
-      wins: 0
+      percent: 86
+      wins: 1
       losses: 2
   - event: Trials(Men)
     player1:
@@ -2481,6 +2589,22 @@ vs:
     year: 2015
     draw: Round Robin(16)
     score: AB 8 - MB 7
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: SK
+      position: Third
+      percent: 80
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(10)
+    score: SK 6 - ON 4
   - player1:
       team: Koe
       position: Second
@@ -2529,12 +2653,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 85
+      percent: 89
       wins: 0
-      losses: 1
+      losses: 2
     player2:
-      percent: 84
-      wins: 1
+      percent: 91
+      wins: 2
       losses: 0
   - event: Trials(Men)
     player1:
@@ -2562,6 +2686,22 @@ vs:
     year: 2017
     draw: Round Robin(10)
     score: CA 4 - AB 6
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 94
+      win: 0
+      loss: 1
+    player2:
+      team: AB
+      position: Third
+      percent: 100
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Pool(17)
+    score: ON 3 - AB 10
   - player1:
       team: Koe
       position: Second
@@ -3053,17 +3193,45 @@ vs:
     year: 2006
     draw: Round Robin(8)
     score: BC 5 - ON 9
+- name: Nerpin, Andrew
+  totals:
+  - event: Brier
+    player1:
+      percent: 91
+      wins: 1
+      losses: 0
+    player2:
+      percent: 67
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Second
+      percent: 67
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(4)
+    score: ON 11 - BC 3
 - name: Neufeld, B.J.
   totals:
   - event: Brier
     player1:
-      percent: 89
-      wins: 4
+      percent: 91
+      wins: 5
       losses: 0
     player2:
-      percent: 89
+      percent: 88
       wins: 0
-      losses: 4
+      losses: 5
   - event: Trials(Men)
     player1:
       percent: 83
@@ -3138,6 +3306,22 @@ vs:
     year: 2017
     draw: Semi-Final(20)
     score: MB 6 - CA 7
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 98
+      win: 1
+      loss: 0
+    player2:
+      team: CA
+      position: Third
+      percent: 86
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(1)
+    score: ON 5 - CA 3
   - player1:
       team: HOW
       position: Second
@@ -3352,12 +3536,12 @@ vs:
   - event: Brier
     player1:
       percent: 89
-      wins: 9
+      wins: 10
       losses: 6
     player2:
       percent: 86
       wins: 6
-      losses: 9
+      losses: 10
   - event: Trials(Men)
     player1:
       percent: 88
@@ -3609,6 +3793,22 @@ vs:
     draw: Final(22)
     score: NL 7 - CA 6
   - player1:
+      team: 'ON'
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    player2:
+      team: NL
+      position: Third
+      percent: 85
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Pool(16)
+    score: NL 4 - ON 8
+  - player1:
       team: HOW
       position: Second
       percent: 89
@@ -3656,6 +3856,34 @@ vs:
     year: 2017
     draw: Round Robin(20)
     score: Koe 3 - Gush 6
+- name: Njegovan, Connor
+  totals:
+  - event: Brier
+    player1:
+      percent: 89
+      wins: 1
+      losses: 0
+    player2:
+      percent: 95
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: MB
+      position: Lead
+      percent: 95
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Pool(15)
+    score: ON 9 - MB 5
 - name: Noftall, David
   totals:
   - event: Brier
@@ -4146,6 +4374,34 @@ vs:
     year: 2009
     draw: Semi-Final(8)
     score: STOU 6 - HOWA 11
+- name: Parsons, Cole
+  totals:
+  - event: Brier
+    player1:
+      percent: 93
+      wins: 1
+      losses: 0
+    player2:
+      percent: 86
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    player2:
+      team: NT
+      position: Lead
+      percent: 86
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(14)
+    score: NT 8 - ON 11
 - name: Peddigrew, Ken
   totals:
   - event: Brier
@@ -5240,13 +5496,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 87
-      wins: 3
-      losses: 0
+      percent: 88
+      wins: 4
+      losses: 1
     player2:
-      percent: 90
-      wins: 0
-      losses: 3
+      percent: 87
+      wins: 1
+      losses: 4
   - event: Trials(Men)
     player1:
       percent: 94
@@ -5306,6 +5562,38 @@ vs:
     draw: Round Robin(16)
     score: AB 8 - MB 7
   - player1:
+      team: 'ON'
+      position: Lead
+      percent: 94
+      win: 0
+      loss: 1
+    player2:
+      team: WC
+      position: Second
+      percent: 92
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(11)
+    score: ON 7 - WC 11
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: WC
+      position: Second
+      percent: 75
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Tie-Breaker(19)
+    score: ON 7 - WC 6
+  - player1:
       team: Koe
       position: Second
       percent: 94
@@ -5326,12 +5614,12 @@ vs:
   - event: Brier
     player1:
       percent: 88
-      wins: 5
+      wins: 6
       losses: 2
     player2:
       percent: 89
       wins: 2
-      losses: 5
+      losses: 6
   - event: Trials(Men)
     player1:
       percent: 91
@@ -5454,6 +5742,22 @@ vs:
     year: 2017
     draw: Round Robin(7)
     score: CA 4 - BC 5
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Lead
+      percent: 84
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(4)
+    score: ON 11 - BC 3
   - player1:
       team: HOW
       position: Second
@@ -5642,12 +5946,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 90
+      percent: 86
       wins: 1
-      losses: 0
+      losses: 1
     player2:
-      percent: 95
-      wins: 0
+      percent: 84
+      wins: 1
       losses: 1
   - event: Trials(Men)
     player1:
@@ -5676,6 +5980,22 @@ vs:
     draw: Round Robin(12)
     score: CA 8 - SK 7
   - player1:
+      team: 'ON'
+      position: Lead
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: SK
+      position: Second
+      percent: 74
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(10)
+    score: SK 6 - ON 4
+  - player1:
       team: Koe
       position: Second
       percent: 91
@@ -5691,6 +6011,34 @@ vs:
     year: 2017
     draw: Round Robin(16)
     score: Morr 4 - Koe 7
+- name: Scoffin, Thomas
+  totals:
+  - event: Brier
+    player1:
+      percent: 96
+      wins: 1
+      losses: 0
+    player2:
+      percent: 78
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 96
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Fourth
+      percent: 78
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(5)
+    score: YT 6 - ON 10
 - name: Scoffin, Wade
   totals:
   - event: Brier
@@ -6907,12 +7255,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 85
+      percent: 89
       wins: 0
-      losses: 1
+      losses: 2
     player2:
-      percent: 85
-      wins: 1
+      percent: 91
+      wins: 2
       losses: 0
   - event: Trials(Men)
     player1:
@@ -6940,6 +7288,22 @@ vs:
     year: 2017
     draw: Round Robin(10)
     score: CA 4 - AB 6
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 94
+      win: 0
+      loss: 1
+    player2:
+      team: AB
+      position: Second
+      percent: 98
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Pool(17)
+    score: ON 3 - AB 10
   - player1:
       team: Koe
       position: Second
@@ -7495,13 +7859,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 89
-      wins: 4
+      percent: 90
+      wins: 5
       losses: 4
     player2:
       percent: 90
       wins: 4
-      losses: 4
+      losses: 5
   - event: Trials(Men)
     player1:
       percent: 88
@@ -7641,6 +8005,22 @@ vs:
     draw: Final(22)
     score: NL 7 - CA 6
   - player1:
+      team: 'ON'
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    player2:
+      team: NL
+      position: Lead
+      percent: 96
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Pool(16)
+    score: NL 4 - ON 8
+  - player1:
       team: Koe
       position: Second
       percent: 88
@@ -7656,6 +8036,34 @@ vs:
     year: 2017
     draw: Round Robin(20)
     score: Koe 3 - Gush 6
+- name: Wallingham, Joe
+  totals:
+  - event: Brier
+    player1:
+      percent: 96
+      wins: 1
+      losses: 0
+    player2:
+      percent: 92
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 96
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Lead
+      percent: 92
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(5)
+    score: YT 6 - ON 10
 - name: Watson, Aaron
   totals:
   - event: Brier
@@ -7832,6 +8240,34 @@ vs:
     year: 2006
     draw: Round Robin(8)
     score: BC 5 - ON 9
+- name: Winfield, Brett
+  totals:
+  - event: Brier
+    player1:
+      percent: 96
+      wins: 1
+      losses: 0
+    player2:
+      percent: 76
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 96
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Second
+      percent: 76
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(5)
+    score: YT 6 - ON 10
 - name: Wood, Mike
   totals:
   - event: Brier

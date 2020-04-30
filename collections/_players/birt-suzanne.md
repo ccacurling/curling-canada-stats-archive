@@ -4,19 +4,19 @@ name: Suzanne Birt
 name-sort: Birt, Suzanne
 totals:
  - event: Hearts
-   games: 114
-   wins: 51
-   losses: 63
-   inturn-total: 1017
+   games: 125
+   wins: 56
+   losses: 69
+   inturn-total: 1121
    inturn-percent: 72
-   outturn-total: 1070
-   outturn-percent: 72
-   draw-total: 1009
-   draw-percent: 67
-   takeout-total: 1078
+   outturn-total: 1174
+   outturn-percent: 73
+   draw-total: 1092
+   draw-percent: 68
+   takeout-total: 1203
    takeout-percent: 76
-   shots-total: 2087
-   shots-percent: 72
+   shots-total: 2295
+   shots-percent: 73
 years:
  - year: 2003
    event: Hearts
@@ -188,6 +188,23 @@ years:
    takeout-percent: 77
    shots-total: 210
    shots-percent: 73
+ - year: 2020
+   event: Hearts
+   team: "PE"
+   position: Fourth
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 104
+   inturn-percent: 79
+   outturn-total: 104
+   outturn-percent: 82
+   draw-total: 83
+   draw-percent: 81
+   takeout-total: 125
+   takeout-percent: 80
+   shots-total: 208
+   shots-percent: 80
 vs:
  - Aleksic, Shannon
  - Anderson, Sherry
@@ -209,6 +226,7 @@ vs:
  - Belley, Joelle
  - Bernard, Cheryl
  - Betker, Jan
+ - Birchard, Shannon
  - Birnie, Hailey
  - Black, Christina
  - Blackburn, Julie
@@ -221,6 +239,7 @@ vs:
  - Brennan, Amanda
  - Brine, Jenn
  - Brothers, Jill
+ - Brown, Corryn
  - Brown, Rachel
  - Burgess, Carey
  - Bush, Tracy
@@ -246,6 +265,7 @@ vs:
  - Cunningham, Cathy
  - Cunningham, Jessica
  - Currie, Wendy
+ - Curtis, Erica
  - Curtis, Stacie
  - Daniel, Sylvie
  - Darbyshire, Carolyn
@@ -256,6 +276,7 @@ vs:
  - Devereaux, Julie
  - Dezura, Diane
  - Dufresne, Audree
+ - Duncan, Chelsea
  - Dunn, Anne
  - Dykstra, Michelle
  - Einarson, Kerri
@@ -277,7 +298,7 @@ vs:
  - Gagnon, Nathalie
  - Galusha, Kerry
  - Gates, Amanda
- - Gates, Jenny
+ - Gates, Jennifer
  - George, Tara
  - Gignac, Donna
  - Gogan, Jennifer
@@ -297,6 +318,7 @@ vs:
  - Harrison, Meredith
  - Harvey, Janet
  - Hastings, Julie
+ - Hawes, Dezaray
  - Hodson, Kim
  - Holden, Anna-Mae
  - Holland, Amber
@@ -321,6 +343,7 @@ vs:
  - Kidd, Darlene
  - King, Cathy
  - Kleibrink, Shannon
+ - Klymchuk, Ashley
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
@@ -340,6 +363,7 @@ vs:
  - Lilly, Kendra
  - Linton, Sherry
  - Loder, Cherie-Ann
+ - Logan, Emma
  - MacCuish, Kristin
  - MacDiarmid, Kristen
  - MacInnes, Allison
@@ -357,6 +381,7 @@ vs:
  - McConnery, Nancy
  - McCusker, Joan
  - McEwen, Dawn
+ - Meilleur, Briane
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
@@ -391,7 +416,9 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Pilote, Kristen
+ - Pincott, Erin
  - Pinkney, Colleen
+ - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
  - Power, Marie-Anne
@@ -401,6 +428,7 @@ vs:
  - Reed, Shellan
  - Richard, Marie
  - Ridalls, Kristen
+ - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Robichaud, Sylvie
  - Rocque, Raylene
@@ -440,12 +468,14 @@ vs:
  - Surik, Teejay
  - Sweeting, Val
  - Tanner, Ros
+ - Taylor, Susan
  - Thevenot, Kara
  - Thompson, Karla
  - Thurston, Jill
  - Todd, Fran
  - Tran, Brittany
  - Trombley, Christy
+ - Tuor, Kimberly
  - Udle, Teri
  - Unrau, Faye
  - Vandale, Trysta

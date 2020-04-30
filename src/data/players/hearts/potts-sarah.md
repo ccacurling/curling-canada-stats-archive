@@ -108,6 +108,7 @@ vs:
  - Cormier, Sharon
  - Courtney, Joanne
  - Crouse, Jennifer
+ - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - Daigle, Julie
@@ -184,7 +185,6 @@ vs:
  - Thomas, Jill
  - Thompson, Karla
  - Thurston, Jill
- - Trickett, Erica
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie

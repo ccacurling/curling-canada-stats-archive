@@ -214,6 +214,7 @@ vs:
  - Cunningham, Cathy
  - Cunningham, Jennifer
  - Currie, Wendy
+ - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - Daku, Karen
@@ -328,6 +329,7 @@ vs:
  - O'Rourke, Brittany
  - Overton-Clapham, Cathy
  - Parsons, Danielle
+ - Pewarchuk, Dailene
  - Phillips, Margaret Lea
  - Pinkney, Colleen
  - Porter, Erin
@@ -354,7 +356,6 @@ vs:
  - Simmons, Cindy
  - Simons, Renee
  - Sippala, Ashley
- - Sivertson, Dailene
  - Skinner, Julie
  - Slywka, Sarah
  - Smith, Heather
@@ -366,7 +367,6 @@ vs:
  - Surik, Teejay
  - Thiessen, Alison
  - Thompson, Karla
- - Trickett, Erica
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie

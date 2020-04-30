@@ -170,6 +170,7 @@ vs:
  - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Jennifer
+ - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
@@ -194,7 +195,7 @@ vs:
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gates, Amanda
- - Gates, Jenny
+ - Gates, Jennifer
  - George, Tara
  - Gilman, Sheena
  - Hardy, Shelley
@@ -248,6 +249,7 @@ vs:
  - Parsons, Danielle
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Phillips, Kristen
  - Porter, Erin
  - Potts, Sarah
@@ -267,7 +269,6 @@ vs:
  - Shumay, Jill
  - Sicinski, Danielle
  - Sippala, Ashley
- - Sivertson, Dailene
  - Smallwood, Jody
  - Sobey, Lianne
  - Strong, Heather
@@ -276,7 +277,6 @@ vs:
  - Thiessen, Alison
  - Thomas, Jill
  - Thurston, Jill
- - Trickett, Erica
  - Walsh, Jenna
  - Wasylkiw, Lauren
  - Wazney, Sarah

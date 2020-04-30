@@ -4,19 +4,19 @@ name: Scott Saccary
 name-sort: Saccary, Scott
 totals:
  - event: Brier
-   games: 22
-   wins: 9
-   losses: 13
-   inturn-total: 200
-   inturn-percent: 84
-   outturn-total: 224
-   outturn-percent: 85
-   draw-total: 202
-   draw-percent: 84
-   takeout-total: 222
-   takeout-percent: 85
-   shots-total: 424
-   shots-percent: 84
+   games: 29
+   wins: 12
+   losses: 17
+   inturn-total: 253
+   inturn-percent: 83
+   outturn-total: 294
+   outturn-percent: 84
+   draw-total: 258
+   draw-percent: 83
+   takeout-total: 289
+   takeout-percent: 84
+   shots-total: 547
+   shots-percent: 83
 years:
  - year: 2017
    event: Brier
@@ -52,8 +52,27 @@ years:
    takeout-percent: 85
    shots-total: 218
    shots-percent: 85
+ - year: 2020
+   event: Brier
+   team: "NS"
+   position: Second
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 53
+   inturn-percent: 79
+   outturn-total: 70
+   outturn-percent: 81
+   draw-total: 56
+   draw-percent: 79
+   takeout-total: 67
+   takeout-percent: 81
+   shots-total: 123
+   shots-percent: 80
 vs:
  - Appelman, Tom
+ - Asselin, Emile
+ - Bedard, Alek
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
@@ -61,19 +80,24 @@ vs:
  - Carruthers, Reid
  - Casey, Adam
  - Chorostkowski, Brad
+ - Cochrane, Bryan
  - Cotter, Jim
  - Crete, Martin
+ - Currie, Morgan
  - Dunstone, Matthew
  - Epping, John
  - Fecteau, Steve
+ - Forrest, Alex
  - Fry, Ryan
  - Gallant, Brett
  - Geall, Sean
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
+ - Higgs, Jake
  - Hodgson, Colin
  - Howard, Glenn
  - Howard, Scott
@@ -86,9 +110,13 @@ vs:
  - Kidby, Dustin
  - Koe, Jamie
  - Koe, Kevin
+ - Kohlenberg, Dale
  - Laing, Brent
  - Laycock, Steve
  - LeCocq, Marc
+ - Lequin, Bradley
+ - MacAulay, Ian
+ - MacDonald, Edmund
  - March, Tim
  - Martin, Karrick
  - Mathers, David
@@ -105,7 +133,10 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
+ - O'Rourke, Mark
  - Pfeifer, Scott
+ - Quevillon, Louis
  - Richard, Jeff
  - Samagalski, Derek
  - Sawatsky, Rick
@@ -118,6 +149,7 @@ vs:
  - Taylor, Andrew
  - Thiessen, Brad
  - Walker, Geoff
+ - Wettig, Sheldon
  - Withycombe, Ian
  - Wood, Brad
  - Wozniak, Matt

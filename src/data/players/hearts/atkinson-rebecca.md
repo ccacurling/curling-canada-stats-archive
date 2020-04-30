@@ -214,6 +214,7 @@ vs:
  - Parsons, Danielle
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
@@ -234,7 +235,6 @@ vs:
  - Sinclair, Andrea
  - Singler, Sherri
  - Sippala, Ashley
- - Sivertson, Dailene
  - Slywka, Sarah
  - Smith, Heather
  - Smith, Stacey

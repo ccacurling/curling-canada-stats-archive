@@ -74,7 +74,7 @@ vs:
  - Ferguson, Dana
  - Fleury, Tracy
  - Fyfe, Liz
- - Gates, Jenny
+ - Gates, Jennifer
  - George, Tara
  - Gilman, Sheena
  - Griffin, Alison

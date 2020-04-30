@@ -107,6 +107,7 @@ vs:
  - Olson-Johns, Lori
  - Parsons, Danielle
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Pilote, Kristen
  - Richard, Marie
  - Robichaud, Sylvie
@@ -116,7 +117,6 @@ vs:
  - Schneider, Kim
  - Schneider, Tammy
  - Scott, Kelly
- - Sivertson, Dailene
  - Slywka, Sarah
  - Smith, Heather
  - Smith, Stacey

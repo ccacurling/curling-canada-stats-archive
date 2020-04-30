@@ -4,19 +4,19 @@ name: Marie Christianson
 name-sort: Christianson, Marie
 totals:
  - event: Hearts
-   games: 22
-   wins: 10
-   losses: 12
-   inturn-total: 170
-   inturn-percent: 77
-   outturn-total: 258
-   outturn-percent: 83
-   draw-total: 265
+   games: 33
+   wins: 15
+   losses: 18
+   inturn-total: 279
+   inturn-percent: 76
+   outturn-total: 363
+   outturn-percent: 82
+   draw-total: 350
    draw-percent: 80
-   takeout-total: 163
-   takeout-percent: 81
-   shots-total: 428
-   shots-percent: 80
+   takeout-total: 292
+   takeout-percent: 79
+   shots-total: 642
+   shots-percent: 79
 years:
  - year: 2016
    event: Hearts
@@ -52,17 +52,39 @@ years:
    takeout-percent: 84
    shots-total: 214
    shots-percent: 80
+ - year: 2020
+   event: Hearts
+   team: "PE"
+   position: Third
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 109
+   inturn-percent: 75
+   outturn-total: 105
+   outturn-percent: 80
+   draw-total: 85
+   draw-percent: 76
+   takeout-total: 129
+   takeout-percent: 78
+   shots-total: 214
+   shots-percent: 77
 vs:
  - Armstrong, Jennifer
+ - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
+ - Baxter, Jen
+ - Birchard, Shannon
  - Birnie, Hailey
+ - Black, Christina
  - Blais, Amelie
  - Boyle, Jane
  - Brine, Jenn
  - Brothers, Jill
+ - Brown, Corryn
  - Brown, Rachel
  - Campbell, Jolene
  - Carey, Chelsea
@@ -70,24 +92,28 @@ vs:
  - Clark-Rouire, Jennifer
  - Courtney, Joanne
  - Crawford, Andrea
+ - Curtis, Erica
  - Curtis, Stacie
  - Devereaux, Julie
+ - Duncan, Chelsea
  - Einarson, Kerri
  - Ferguson, Dana
  - Forward, Katie
  - Fyfe, Liz
  - Galusha, Kerry
- - Gates, Jenny
+ - Gates, Jennifer
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Hawes, Dezaray
  - Homan, Rachel
  - Howard, Ashley
  - Hunkin, Jessie
  - Jewer, Michelle
  - Jones, Jennifer
+ - Klymchuk, Ashley
  - Koltun, Sarah
  - Larouche, Marie-France
  - Lawes, Kaitlyn
@@ -95,9 +121,11 @@ vs:
  - Lemay, Annie
  - Letendre, Pascale
  - Lilly, Kendra
+ - Logan, Emma
  - MacCuish, Kristin
  - McCarville, Krista
  - McEwen, Dawn
+ - Meilleur, Briane
  - Miskew, Emma
  - Murphy, Sarah
  - Njegovan, Selena
@@ -108,11 +136,14 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Pilote, Kristen
+ - Pincott, Erin
+ - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
+ - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Rusnell, Jen
  - Sagle, Karen
@@ -122,9 +153,12 @@ vs:
  - Silvernagle, Robyn
  - Sippala, Ashley
  - Strong, Helen
+ - Sweeting, Val
+ - Taylor, Susan
  - Thevenot, Kara
  - Thompson, Karla
  - Tran, Brittany
+ - Tuor, Kimberly
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie

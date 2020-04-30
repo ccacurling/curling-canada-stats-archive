@@ -4,18 +4,18 @@ name: James Grattan
 name-sort: Grattan, James
 totals:
  - event: Brier
-   games: 135
-   wins: 65
-   losses: 70
-   inturn-total: 947
+   games: 142
+   wins: 68
+   losses: 74
+   inturn-total: 1010
    inturn-percent: 79
-   outturn-total: 1578
+   outturn-total: 1648
    outturn-percent: 81
-   draw-total: 1074
+   draw-total: 1119
    draw-percent: 78
-   takeout-total: 1451
+   takeout-total: 1539
    takeout-percent: 82
-   shots-total: 2525
+   shots-total: 2658
    shots-percent: 80
 years:
  - year: 1997
@@ -222,9 +222,27 @@ years:
    takeout-percent: 85
    shots-total: 149
    shots-percent: 81
+ - year: 2020
+   event: Brier
+   team: "NB"
+   position: Fourth
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 63
+   inturn-percent: 73
+   outturn-total: 70
+   outturn-percent: 81
+   draw-total: 45
+   draw-percent: 72
+   takeout-total: 88
+   takeout-percent: 81
+   shots-total: 133
+   shots-percent: 78
 vs:
  - Adam, Gerry
  - Adams, Shawn
+ - Aho, David
  - Anderson, Chris
  - Arsenault, Craig
  - Asselin, Felix
@@ -359,6 +377,7 @@ vs:
  - Janssen, Patrick
  - Jenion, Bob
  - Jenkins, Bill
+ - Jensen, Trygg
  - Jewer, Keith
  - Johnson, Bill
  - Jones, Brennen
@@ -414,8 +433,10 @@ vs:
  - McCarville, Mike
  - McCusker, Brian
  - McDermaid, Donald
+ - McEwen, Mike
  - McGowan, Nolin
  - McKee, Darrell
+ - McLeod, Shadrach
  - McPhee, Barry
  - Mead, Jonathan
  - Menard, Jean-Michel
@@ -439,6 +460,7 @@ vs:
  - Nelson, Randy
  - Nerpin, Andrew
  - Ness, Dale
+ - Neufeld, B.J.
  - Neufeld, Chris
  - Nichols, Mark
  - Noftall, David
@@ -450,6 +472,7 @@ vs:
  - Packet, Jim
  - Palmer, Curt
  - Park, Kevin
+ - Parsons, Cole
  - Peachy, Jay
  - Peddigrew, Ken
  - Perroud, Pat
@@ -480,6 +503,8 @@ vs:
  - Schille, Chris
  - Schleppe, Dave
  - Schmidt, Aryn
+ - Schneider, Catlin
+ - Scoffin, Thomas
  - Scoffin, Wade
  - Seabrook, Matt
  - Seabrook, Scott
@@ -513,6 +538,7 @@ vs:
  - Walchuk, Don
  - Walker, Geoff
  - Wall, Trevor
+ - Wallingham, Joe
  - Ward, Mark
  - Wasnea, Brian
  - Watson, Aaron
@@ -522,5 +548,6 @@ vs:
  - Whitehead, Kevin
  - Whitehead, Mark
  - Windsor, Brian
+ - Winfield, Brett
  - Wood, Brad
 ---

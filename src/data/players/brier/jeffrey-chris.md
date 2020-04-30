@@ -52,6 +52,10 @@ years:
    takeout-percent: 84
    shots-total: 150
    shots-percent: 81
+ - year: 2020
+   event: Brier
+   team: "NB"
+   position: Alternate
 vs:
  - Asselin, Felix
  - Barry, Josh

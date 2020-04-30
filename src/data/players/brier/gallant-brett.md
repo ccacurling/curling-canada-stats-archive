@@ -4,18 +4,18 @@ name: Brett Gallant
 name-sort: Gallant, Brett
 totals:
  - event: Brier
-   games: 89
-   wins: 65
-   losses: 24
-   inturn-total: 699
+   games: 103
+   wins: 76
+   losses: 27
+   inturn-total: 821
    inturn-percent: 86
-   outturn-total: 1019
+   outturn-total: 1158
    outturn-percent: 88
-   draw-total: 619
+   draw-total: 721
    draw-percent: 86
-   takeout-total: 1099
+   takeout-total: 1258
    takeout-percent: 88
-   shots-total: 1718
+   shots-total: 1979
    shots-percent: 87
 years:
  - year: 2013
@@ -170,13 +170,33 @@ years:
    takeout-percent: 90
    shots-total: 222
    shots-percent: 90
+ - year: 2020
+   event: Brier
+   team: "NL"
+   position: Second
+   games: 14
+   wins: 11
+   losses: 3
+   inturn-total: 122
+   inturn-percent: 86
+   outturn-total: 139
+   outturn-percent: 88
+   draw-total: 102
+   draw-percent: 86
+   takeout-total: 159
+   takeout-percent: 88
+   shots-total: 261
+   shots-percent: 87
 vs:
  - Aho, David
  - Appelman, Tom
  - Ardiel, Taylor
+ - Asselin, Emile
  - Balsdon, Greg
  - Bardsley, Mike
  - Barry, Josh
+ - Bedard, Alek
+ - Bedard, Daniel
  - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
@@ -193,11 +213,13 @@ vs:
  - Chadwick, Scott
  - Childs, Jamie
  - Chorostkowski, Brad
+ - Cochrane, Bryan
  - Colter, Travis
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
  - Currie, Jeff
+ - Currie, Morgan
  - Doherty, Robert
  - Dunstone, Matthew
  - Eldridge, Zach
@@ -209,16 +231,19 @@ vs:
  - Flasch, Colton
  - Flemming, Paul
  - Forget, Wes
+ - Forrest, Alex
  - Fry, Ryan
  - Geall, Sean
  - Giddens, Ryan
  - Grattan, James
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Harnden, E.J.
  - Harnden, Ryan
  - Harper, David
  - Hart, Richard
  - Hebert, Ben
+ - Higgs, Jake
  - Hodgson, Colin
  - Horgan, Tanner
  - Howard, Glenn
@@ -242,6 +267,9 @@ vs:
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
+ - Lequin, Bradley
+ - MacAulay, Ian
+ - MacDonald, Edmund
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - MacKenzie, Tyler
@@ -277,10 +305,13 @@ vs:
  - Neufeld, Denni
  - Ng, Matt
  - Nichols, Mark
+ - Njegovan, Connor
  - Odishaw, Grant
  - Odishaw, Terry
+ - O'Rourke, Mark
  - Parsons, Cole
  - Pinder, Jordan
+ - Quevillon, Louis
  - Richard, Jeff
  - Roach, Darren
  - Roach, Jason
@@ -297,6 +328,7 @@ vs:
  - Skauge, Greg
  - Smith, Greg
  - Smith, Kent
+ - Smitheram, Christian
  - Spencer, Adam
  - St.Louis, David
  - Steele, Colten
@@ -308,6 +340,7 @@ vs:
  - Thompson, Stuart
  - Virtue, Brock
  - Watson, Aaron
+ - Wettig, Sheldon
  - Whitehead, Kevin
  - Whitehead, Mark
  - Withycombe, Ian

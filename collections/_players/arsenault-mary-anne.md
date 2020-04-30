@@ -4,18 +4,18 @@ name: Mary-Anne Arsenault
 name-sort: Arsenault, Mary-Anne
 totals:
 - event: Hearts
-  games: 158
-  wins: 101
-  losses: 57
-  inturn-total: 1423
-  inturn-percent: 79
-  outturn-total: 1608
+  games: 166
+  wins: 105
+  losses: 61
+  inturn-total: 1500
+  inturn-percent: 78
+  outturn-total: 1686
   outturn-percent: 81
-  draw-total: 1308
+  draw-total: 1381
   draw-percent: 78
-  takeout-total: 1723
+  takeout-total: 1805
   takeout-percent: 81
-  shots-total: 3031
+  shots-total: 3186
   shots-percent: 80
 - event: Trials (Women)
   games: 19
@@ -286,6 +286,23 @@ years:
   takeout-percent: 84
   shots-total: 237
   shots-percent: 82
+- year: 2020
+  event: Hearts
+  team: NS
+  position: Fourth
+  games: 8
+  wins: 4
+  losses: 4
+  inturn-total: 77
+  inturn-percent: 69
+  outturn-total: 78
+  outturn-percent: 78
+  draw-total: 73
+  draw-percent: 74
+  takeout-total: 82
+  takeout-percent: 73
+  shots-total: 155
+  shots-percent: 73
 - year: 2001
   event: Trials (Women)
   team: JON
@@ -384,6 +401,7 @@ vs:
 - Betker, Jan
 - Beveridge, Corie
 - Birchard, Shannon
+- Birnie, Hailey
 - Birt, Suzanne
 - Blackburn, Julie
 - Blais, Amelie
@@ -396,6 +414,7 @@ vs:
 - Breen, Theresa
 - Brennan, Amanda
 - Brophy, Cathy
+- Brown, Corryn
 - Brown, Jacalyn
 - Brown, Janet
 - Brown, Rachel
@@ -414,6 +433,7 @@ vs:
 - Charette, France
 - Chenier, Courtney
 - Cheveldave, Amber
+- Christianson, Marie
 - Clark, Stefanie
 - Collins, Katrina
 - Comeau, Martine
@@ -426,6 +446,7 @@ vs:
 - Crawford, Andrea
 - Cunningham, Cathy
 - Cunningham, Jessica
+- Curtis, Erica
 - Curtis, Stacie
 - Daku, Karen
 - Daniel, Sylvie
@@ -434,6 +455,7 @@ vs:
 - deJager, Blaine
 - Derick, Catherine
 - deSolla, Jodie
+- Devereaux, Julie
 - Dezura, Diane
 - Dobson, Sue
 - Dolan, Kim
@@ -497,6 +519,7 @@ vs:
 - Harvey, Janet
 - Hastings, Julie
 - Hatton, Sandra
+- Hawes, Dezaray
 - Henry, Lou Ann
 - Hodson, Kim
 - Holland, Amber
@@ -506,6 +529,7 @@ vs:
 - Homan, Rachel
 - Horne, Kate
 - Horte, Rhonda
+- Hughes, Meaghan
 - Hunter, Lana
 - Iskiw, Beth
 - Jenkins, Sandra
@@ -523,6 +547,7 @@ vs:
 - Kidd, Darlene
 - King, Cathy
 - Kleibrink, Shannon
+- Klymchuk, Ashley
 - Knezevic, Patti
 - Koehler, Megan
 - Koltun, Sarah
@@ -611,9 +636,13 @@ vs:
 - Overton-Clapham, Cathy
 - Parsons, Danielle
 - Perron, Leanne
+- Peterman, Jocelyn
 - Peters, Laine
+- Pewarchuk, Dailene
 - Phillips, Margaret Lea
 - Pilote, Kristen
+- Pincott, Erin
+- Plonka, Gabrielle
 - Porter, Erin
 - Power, Marie-Anne
 - Price, Kara
@@ -683,6 +712,7 @@ vs:
 - Trombley, Christy
 - Tuck, Kimberly
 - Tucker, Cindy
+- Tuor, Kimberly
 - Unrau, Faye
 - Van Osch, Kalia
 - Van Osch, Kesa

@@ -169,6 +169,7 @@ vs:
  - Overton-Clapham, Cathy
  - Parsons, Danielle
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Power, Marie-Anne
  - Provencal, Darah
  - Richard, Marie
@@ -181,7 +182,6 @@ vs:
  - Scott, Kelly
  - Sharpe, Kelli
  - Simons, Renee
- - Sivertson, Dailene
  - Smith, Heather
  - Sobey, Lianne
  - Spencer, Barb

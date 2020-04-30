@@ -4,18 +4,18 @@ name: Stefanie Lawton
 name-sort: Lawton, Stefanie
 totals:
 - event: Hearts
-  games: 64
-  wins: 39
-  losses: 25
-  inturn-total: 642
+  games: 76
+  wins: 46
+  losses: 30
+  inturn-total: 766
   inturn-percent: 80
-  outturn-total: 580
+  outturn-total: 690
   outturn-percent: 81
-  draw-total: 521
-  draw-percent: 79
-  takeout-total: 701
+  draw-total: 599
+  draw-percent: 78
+  takeout-total: 857
   takeout-percent: 82
-  shots-total: 1222
+  shots-total: 1456
   shots-percent: 80
 - event: Trials (Women)
   games: 26
@@ -117,6 +117,23 @@ years:
   takeout-percent: 81
   shots-total: 252
   shots-percent: 80
+- year: 2020
+  event: Hearts
+  team: SK
+  position: Third
+  games: 12
+  wins: 7
+  losses: 5
+  inturn-total: 124
+  inturn-percent: 80
+  outturn-total: 110
+  outturn-percent: 80
+  draw-total: 78
+  draw-percent: 77
+  takeout-total: 156
+  takeout-percent: 81
+  shots-total: 234
+  shots-percent: 80
 - year: 2005
   event: Trials (Women)
   team: LAW
@@ -185,6 +202,7 @@ vs:
 - Bell, Chelsey
 - Bernard, Cheryl
 - Betker, Jan
+- Birchard, Shannon
 - Birnie, Hailey
 - Birt, Suzanne
 - Black, Christina
@@ -192,9 +210,11 @@ vs:
 - Boyle, Jane
 - Bradley, Shelly
 - Brothers, Jill
+- Brown, Corryn
 - Brown, Jacalyn
 - Brown, Rachel
 - Bush, Tracy
+- Cameron, Kate
 - Camozzi, Rhona
 - Carey, Chelsea
 - Carter, Sasha
@@ -204,6 +224,7 @@ vs:
 - Comeau, Sandy
 - Cooper, Kathryn
 - Cordina, Sheri
+- Cote, Marie-Pier
 - Cottrill, Katie
 - Court, Morgan
 - Courtney, Joanne
@@ -219,6 +240,8 @@ vs:
 - Dolan, Kim
 - Dolan, Sinead
 - Duncan, Chelsea
+- Eddy, Lori
+- Einarson, Kerri
 - Enright, Barb
 - Farrell, Allison
 - Ferguson, Dana
@@ -234,12 +257,13 @@ vs:
 - Gannon, Melissa
 - Gatchell, Sara
 - Gates, Amanda
-- Gates, Jenny
+- Gates, Jennifer
 - Gauthier, Cathy
 - George, Tara
 - Gilman, Sheena
 - Goss, Peg
 - Gregoire, Veronique
+- Griffin, Alison
 - Gudereit, Marcia
 - Gushulak, Diane
 - Guzzwell, Stephanie
@@ -247,6 +271,7 @@ vs:
 - Hanna, Jenn
 - Hanna, Stephanie
 - Hastings, Julie
+- Hawes, Dezaray
 - Hodson, Kim
 - Holland, Amber
 - Homan, Rachel
@@ -261,6 +286,7 @@ vs:
 - Keshen, Christine
 - King, Cathy
 - Kleibrink, Shannon
+- Klymchuk, Ashley
 - Knezevic, Patti
 - Koltun, Sarah
 - Korab, Stephanie
@@ -276,6 +302,7 @@ vs:
 - Lilly, Kendra
 - Linton, Sherry
 - Lowther, Tammi
+- MacDonald, Kaitlin
 - MacDonald, Lawnie
 - MacDonald, Rebecca Jean
 - MacInnes, Grace
@@ -291,11 +318,13 @@ vs:
 - McConnery, Nancy
 - McCusker, Joan
 - McDonald, Kristy
+- McDonald, Taylor
 - McEwen, Dawn
 - McInnis, Susan
 - McPherson, Cheryl
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
+- Meilleur, Briane
 - Merklinger, Lee
 - Middaugh, Sherry
 - Miskew, Emma
@@ -320,6 +349,8 @@ vs:
 - Peterman, Jocelyn
 - Peters, Laine
 - Pilote, Kristen
+- Pincott, Erin
+- Pinksen, Sadie
 - Potts, Sarah
 - Preston, Sam
 - Prosser, Sandi
@@ -331,6 +362,8 @@ vs:
 - Robison, Michala
 - Rocque, Raylene
 - Ross, Allison
+- Routledge, Alanna
+- Routledge, Jill
 - Rusnell, Jen
 - Sabourin, Joelle
 - Sanderson, Jessie
@@ -338,11 +371,13 @@ vs:
 - Schneider, Kim
 - Schneider, Tammy
 - Schraeder, Jeanna
+- Scotland, Nadine
 - Scott, Kelly
 - Sharpe, Kelli
 - Shaw, Ladene
 - Simons, Renee
 - Sinclair, Andrea
+- Sippala, Ashley
 - Smith, Heather
 - Smith, Stacey
 - Snyder, Jane
@@ -360,6 +395,8 @@ vs:
 - Tuck, Kimberly
 - Udle, Teri
 - Van Osch, Kesa
+- Verreault, Noemie
+- Walker, Laura
 - Wall, Kirsten
 - Wallingham, Patty
 - Walsh, Heather

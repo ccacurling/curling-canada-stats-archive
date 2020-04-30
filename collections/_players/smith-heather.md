@@ -244,6 +244,7 @@ vs:
 - Overton-Clapham, Cathy
 - Parsons, Danielle
 - Peters, Laine
+- Pewarchuk, Dailene
 - Phillips, Margaret Lea
 - Reed, Shellan
 - Reid, Jackie
@@ -259,7 +260,6 @@ vs:
 - Sharpe, Kelli
 - Sinclair, Andrea
 - Singler, Sherri
-- Sivertson, Dailene
 - Skinner, Julie
 - Slywka, Sarah
 - Sobey, Lianne

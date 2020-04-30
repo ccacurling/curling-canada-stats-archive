@@ -70,6 +70,7 @@ years:
    shots-percent: 52
 vs:
  - Arnaud, Chloe
+ - Curtis, Erica
  - Curtis, Stacie
  - Devereaux, Julie
  - Duncan, Chelsea
@@ -91,7 +92,6 @@ vs:
  - Sagle, Karen
  - Smallwood, Jody
  - Thiboutot, Isabelle
- - Trickett, Erica
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika

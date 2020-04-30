@@ -4,19 +4,19 @@ name: Ryan Harnden
 name-sort: Harnden, Ryan
 totals:
 - event: Brier
-  games: 122
-  wins: 83
-  losses: 39
-  inturn-total: 744
-  inturn-percent: 85
-  outturn-total: 1512
+  games: 136
+  wins: 92
+  losses: 44
+  inturn-total: 895
+  inturn-percent: 87
+  outturn-total: 1613
   outturn-percent: 88
-  draw-total: 1599
-  draw-percent: 89
-  takeout-total: 657
+  draw-total: 1764
+  draw-percent: 90
+  takeout-total: 744
   takeout-percent: 83
-  shots-total: 2256
-  shots-percent: 87
+  shots-total: 2508
+  shots-percent: 88
 - event: Trials (Men)
   games: 16
   wins: 11
@@ -202,6 +202,23 @@ years:
   takeout-percent: 92
   shots-total: 236
   shots-percent: 92
+- year: 2020
+  event: Brier
+  team: 'NO'
+  position: Lead
+  games: 14
+  wins: 9
+  losses: 5
+  inturn-total: 151
+  inturn-percent: 92
+  outturn-total: 101
+  outturn-percent: 86
+  draw-total: 165
+  draw-percent: 92
+  takeout-total: 87
+  takeout-percent: 84
+  shots-total: 252
+  shots-percent: 89
 - year: 2013
   event: Trials (Men)
   team: JAC
@@ -275,10 +292,12 @@ vs:
 - Adams, Shawn
 - Anderson, Chris
 - Armstrong, Mike
+- Asselin, Emile
 - Asselin, Felix
 - Bailey, Scott
 - Bardsley, Mike
 - Barry, Josh
+- Bedard, Alek
 - Beuk, Jonathan
 - Bezanson, Jared
 - Bilesky, Andrew
@@ -300,11 +319,13 @@ vs:
 - Champion, Kevin
 - Chorostkowski, Brad
 - Clarey, Sean
+- Cochrane, Bryan
 - Collin, Simon
 - Cotter, Jim
 - Cowan, Chad
 - Crete, Martin
 - Crowell, Phil
+- Currie, Morgan
 - Danbrook, Jamie
 - Daneault, Richard
 - Darragh, Alan
@@ -323,6 +344,7 @@ vs:
 - Folk, Kevin
 - Ford, Chris
 - Forget, Wes
+- Forrest, Alex
 - Fournier, Mike
 - Fowler, Rob
 - Fry, Ryan
@@ -339,10 +361,12 @@ vs:
 - Grattan, James
 - Griffith, Ty
 - Griffith, Tyrel
+- Gunnlaugson, Jason
 - Gushue, Brad
 - Harris, Tyler
 - Hart, Richard
 - Hebert, Ben
+- Higgs, Jake
 - Hodgson, Colin
 - Howard, Glenn
 - Howard, Scott
@@ -362,6 +386,7 @@ vs:
 - Kingdon, Wade
 - Koe, Jamie
 - Koe, Kevin
+- Kohlenberg, Dale
 - Kopf, Steve
 - Korab, Jamie
 - Korte, Bruce
@@ -373,9 +398,12 @@ vs:
 - LeCocq, Marc
 - Ledgerwood, Sean
 - Lemay, Philippe
+- Lequin, Bradley
 - Likely, John
 - Lyburn, Allan
+- MacAulay, Ian
 - MacDonald, Blake
+- MacDonald, Edmund
 - MacDonald, Rod
 - MacFadyen, Alex
 - MacKenzie, Eddie
@@ -421,6 +449,7 @@ vs:
 - Neufeld, Denni
 - Newson, Jamie
 - Nichols, Mark
+- Njegovan, Connor
 - Noftall, David
 - O'Rourke, Mark
 - Odian, Scott
@@ -430,6 +459,7 @@ vs:
 - Palmer, Curt
 - Park, Kevin
 - Pinder, Jordan
+- Quevillon, Louis
 - Rafuse, Brian
 - Reid, Serge
 - Richard, Jeff
@@ -454,6 +484,7 @@ vs:
 - Smallwood, Robert
 - Smith, Garth
 - Smith, Kent
+- Smitheram, Christian
 - Solberg, Jonathon
 - Spencer, Adam
 - St.Louis, David

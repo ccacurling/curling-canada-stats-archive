@@ -4,19 +4,19 @@ name: Jamie Brannen
 name-sort: Brannen, Jamie
 totals:
  - event: Brier
-   games: 24
-   wins: 5
-   losses: 19
-   inturn-total: 222
+   games: 31
+   wins: 8
+   losses: 23
+   inturn-total: 277
    inturn-percent: 82
-   outturn-total: 222
-   outturn-percent: 87
-   draw-total: 376
+   outturn-total: 301
+   outturn-percent: 85
+   draw-total: 481
    draw-percent: 85
-   takeout-total: 68
-   takeout-percent: 84
-   shots-total: 444
-   shots-percent: 85
+   takeout-total: 97
+   takeout-percent: 77
+   shots-total: 578
+   shots-percent: 83
 years:
  - year: 2016
    event: Brier
@@ -102,17 +102,38 @@ years:
    takeout-percent: 70
    shots-total: 26
    shots-percent: 63
+ - year: 2020
+   event: Brier
+   team: "NB"
+   position: Lead
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 55
+   inturn-percent: 79
+   outturn-total: 79
+   outturn-percent: 80
+   draw-total: 105
+   draw-percent: 85
+   takeout-total: 29
+   takeout-percent: 61
+   shots-total: 134
+   shots-percent: 80
 vs:
  - Aho, David
  - Borden, Robert
  - Bottcher, Brendan
+ - Camm, Mathew
  - Carmody, Anson
+ - Carruthers, Reid
  - Casey, Adam
  - Chorostkowski, Brad
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
  - Doherty, Robert
+ - Dunstone, Matthew
+ - Epping, John
  - Flasch, Colton
  - Fry, Ryan
  - Gallant, Brett
@@ -122,9 +143,11 @@ vs:
  - Harnden, Ryan
  - Hart, Richard
  - Hebert, Ben
+ - Hodgson, Colin
  - Howard, Glenn
  - Howard, Scott
  - Jacobs, Brad
+ - Jensen, Trygg
  - Kennedy, Marc
  - Kidby, Dustin
  - Koe, Jamie
@@ -140,10 +163,12 @@ vs:
  - Menard, Jean-Michel
  - Menard, Philippe
  - Morris, John
+ - Moskowy, Braeden
  - Moulding, Darren
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
  - Ng, Matt
@@ -152,14 +177,18 @@ vs:
  - Pinder, Jordan
  - Rycroft, Carter
  - Saccary, Scott
+ - Samagalski, Derek
  - Sawatsky, Rick
  - Schille, Chris
  - Schneider, Catlin
+ - Scoffin, Thomas
  - Simmons, Pat
  - Spencer, Adam
  - Sylvain, Eric
  - Thiessen, Brad
  - Thiessen, Nolan
  - Walker, Geoff
+ - Wallingham, Joe
+ - Winfield, Brett
  - Wozniak, Matt
 ---

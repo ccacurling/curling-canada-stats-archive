@@ -4,19 +4,19 @@ name: Jocelyn Peterman
 name-sort: Peterman, Jocelyn
 totals:
  - event: Hearts
-   games: 36
-   wins: 26
-   losses: 10
-   inturn-total: 347
+   games: 49
+   wins: 35
+   losses: 14
+   inturn-total: 472
    inturn-percent: 82
-   outturn-total: 359
-   outturn-percent: 83
-   draw-total: 246
-   draw-percent: 78
-   takeout-total: 460
-   takeout-percent: 85
-   shots-total: 706
-   shots-percent: 83
+   outturn-total: 471
+   outturn-percent: 82
+   draw-total: 365
+   draw-percent: 79
+   takeout-total: 578
+   takeout-percent: 84
+   shots-total: 943
+   shots-percent: 82
 years:
  - year: 2016
    event: Hearts
@@ -69,35 +69,60 @@ years:
    takeout-percent: 82
    shots-total: 200
    shots-percent: 81
+ - year: 2020
+   event: Hearts
+   team: "WC"
+   position: Second
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 125
+   inturn-percent: 81
+   outturn-total: 112
+   outturn-percent: 78
+   draw-total: 119
+   draw-percent: 81
+   takeout-total: 118
+   takeout-percent: 78
+   shots-total: 237
+   shots-percent: 79
 vs:
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Armstrong, Jennifer
+ - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
  - Barker, Penny
+ - Baxter, Jen
  - Belisle, Eve
+ - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
+ - Black, Christina
  - Boyle, Jane
  - Brine, Jenn
  - Brothers, Jill
+ - Brown, Corryn
  - Brown, Rachel
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
  - Christianson, Marie
+ - Clark-Rouire, Jennifer
  - Cormier, Sharon
  - Courtney, Joanne
  - Crawford, Andrea
+ - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
  - Devereaux, Julie
  - Doig, Deanna
+ - Duncan, Chelsea
  - Einarson, Kerri
  - Englot, Michelle
  - Eyamie, Lisa
@@ -106,10 +131,12 @@ vs:
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
- - Gates, Jenny
+ - Gates, Jennifer
+ - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Hawes, Dezaray
  - Hill, Trish
  - Homan, Rachel
  - Howard, Ashley
@@ -117,6 +144,7 @@ vs:
  - Hunkin, Jessie
  - Jones, Jennifer
  - Kleibrink, Shannon
+ - Klymchuk, Ashley
  - Koehler, Megan
  - Koltun, Sarah
  - Larouche, Marie-France
@@ -125,6 +153,7 @@ vs:
  - Lawton, Stefanie
  - Lemay, Annie
  - Lilly, Kendra
+ - Logan, Emma
  - MacCuish, Kristin
  - MacPhee, Robyn
  - Mallett, Marla
@@ -133,6 +162,7 @@ vs:
  - McCarville, Krista
  - McEwen, Dawn
  - McQuaid, Michelle
+ - Meilleur, Briane
  - Miskew, Emma
  - Murphy, Sarah
  - Nedohin, Heather
@@ -142,12 +172,15 @@ vs:
  - O'Neill, Brit
  - O'Rourke, Brittany
  - Pilote, Kristen
+ - Pincott, Erin
+ - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
+ - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Rusnell, Jen
  - Sagle, Karen
@@ -159,11 +192,13 @@ vs:
  - Silvernagle, Robyn
  - Sippala, Ashley
  - Strong, Helen
+ - Sweeting, Val
+ - Taylor, Susan
  - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla
  - Tran, Brittany
- - Trickett, Erica
+ - Tuor, Kimberly
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie

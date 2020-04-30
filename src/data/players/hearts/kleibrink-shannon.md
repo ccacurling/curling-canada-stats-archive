@@ -138,6 +138,7 @@ vs:
  - Courtney, Joanne
  - Crawford, Andrea
  - Cunningham, Cathy
+ - Curtis, Erica
  - Curtis, Stacie
  - Daniel, Sylvie
  - Delahunt, Nancy
@@ -251,7 +252,6 @@ vs:
  - Sutton, Jodie
  - Thomas, Maria
  - Thompson, Karla
- - Trickett, Erica
  - Udle, Teri
  - Wall, Kirsten
  - Weagle, Lisa

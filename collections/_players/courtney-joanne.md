@@ -4,18 +4,18 @@ name: Joanne Courtney
 name-sort: Courtney, Joanne
 totals:
 - event: Hearts
-  games: 55
-  wins: 40
-  losses: 15
-  inturn-total: 575
+  games: 69
+  wins: 51
+  losses: 18
+  inturn-total: 722
   inturn-percent: 84
-  outturn-total: 480
+  outturn-total: 593
   outturn-percent: 83
-  draw-total: 398
+  draw-total: 530
   draw-percent: 80
-  takeout-total: 657
+  takeout-total: 785
   takeout-percent: 85
-  shots-total: 1055
+  shots-total: 1315
   shots-percent: 83
 - event: Trials (Women)
   games: 17
@@ -100,6 +100,23 @@ years:
   takeout-percent: 86
   shots-total: 251
   shots-percent: 83
+- year: 2020
+  event: Hearts
+  team: 'ON'
+  position: Second
+  games: 14
+  wins: 11
+  losses: 3
+  inturn-total: 147
+  inturn-percent: 82
+  outturn-total: 113
+  outturn-percent: 81
+  draw-total: 132
+  draw-percent: 80
+  takeout-total: 128
+  takeout-percent: 85
+  shots-total: 260
+  shots-percent: 82
 - year: 2013
   event: Trials (Women)
   team: SWE
@@ -142,9 +159,12 @@ vs:
 - Arsenault, Mary-Anne
 - Atkinson, Rebecca
 - Baier, Stephanie
+- Barbour, Shona
 - Barker, Penny
 - Baxter, Jen
 - Belisle, Eve
+- Birchard, Shannon
+- Birnie, Hailey
 - Birt, Suzanne
 - Black, Christina
 - Blais, Amelie
@@ -156,6 +176,7 @@ vs:
 - Bradley, Shelly
 - Brine, Jenn
 - Brothers, Jill
+- Brown, Corryn
 - Brown, Rachel
 - Cameron, Kate
 - Camozzi, Rhona
@@ -169,6 +190,7 @@ vs:
 - Court, Morgan
 - Crawford, Andrea
 - Cunningham, Jessica
+- Curtis, Erica
 - Curtis, Stacie
 - Cutcliffe, Margaret
 - Daigle, Julie
@@ -182,6 +204,7 @@ vs:
 - Dolan, Sinead
 - Duhaime, Chantal
 - Duncan, Chelsea
+- Einarson, Kerri
 - Englot, Michelle
 - Eyamie, Lisa
 - Ferguson, Dana
@@ -194,10 +217,12 @@ vs:
 - Galusha, Kerry
 - Gannon, Melissa
 - Gates, Amanda
-- Gates, Jenny
+- Gates, Jennifer
 - Grandy, Clancy
 - Griffin, Alison
+- Hamilton, Beth
 - Hastings, Julie
+- Hawes, Dezaray
 - Hill, Trish
 - Homan, Rachel
 - Hughes, Meaghan
@@ -207,6 +232,7 @@ vs:
 - Joyce, Blisse
 - Kasner, Marliese
 - Kleibrink, Shannon
+- Klymchuk, Ashley
 - Knezevic, Patti
 - Koehler, Megan
 - Koltun, Sarah
@@ -217,6 +243,7 @@ vs:
 - Lawes, Kaitlyn
 - Lawton, Stefanie
 - Lilly, Kendra
+- Logan, Emma
 - MacCuish, Kristin
 - MacDonald, Lawnie
 - MacDonald, Rebecca Jean
@@ -231,6 +258,7 @@ vs:
 - McInnis, Susan
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
+- Meilleur, Briane
 - Merklinger, Lee
 - Middaugh, Sherry
 - Miskew, Emma
@@ -250,7 +278,9 @@ vs:
 - Peterman, Jocelyn
 - Peters, Laine
 - Pilote, Kristen
+- Pincott, Erin
 - Pinksen, Sadie
+- Plonka, Gabrielle
 - Porter, Erin
 - Potts, Sarah
 - Reid, Jackie
@@ -280,13 +310,14 @@ vs:
 - Strong, Heather
 - Strong, Laura
 - Sweeting, Val
+- Taylor, Susan
 - Thevenot, Kara
 - Thiessen, Alison
 - Thomas-Kennell, Noelle
 - Tippin, Julie
 - Titheridge, Lindsay
-- Trickett, Erica
 - Trombley, Christy
+- Tuor, Kimberly
 - Udle, Teri
 - Van Osch, Kesa
 - Vink, Rachelle

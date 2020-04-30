@@ -34,12 +34,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 95
+      percent: 96
       wins: 0
-      losses: 3
+      losses: 4
     player2:
       percent: 89
-      wins: 3
+      wins: 4
       losses: 0
   - event: Trials(Men)
     player1:
@@ -99,6 +99,22 @@ vs:
     year: 2019
     draw: Round Robin(11)
     score: NO 9 - MB 5
+  - player1:
+      team: WC
+      position: Lead
+      percent: 100
+      win: 0
+      loss: 1
+    player2:
+      team: 'NO'
+      position: Fourth
+      percent: 88
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Pool(15)
+    score: WC 4 - NO 6
   - player1:
       team: Carr
       position: Lead
@@ -212,6 +228,34 @@ vs:
     year: 2018
     draw: Round Robin(11)
     score: MB 7 - NB 3
+- name: Jensen, Trygg
+  totals:
+  - event: Brier
+    player1:
+      percent: 90
+      wins: 1
+      losses: 0
+    player2:
+      percent: 82
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: WC
+      position: Lead
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Third
+      percent: 82
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(3)
+    score: WC 10 - YT 6
 - name: Jewer, Keith
   totals:
   - event: Brier
@@ -272,12 +316,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 98
+      percent: 99
       wins: 0
-      losses: 1
+      losses: 2
     player2:
-      percent: 86
-      wins: 1
+      percent: 89
+      wins: 2
       losses: 0
   - event: Trials(Men)
     player1:
@@ -306,6 +350,22 @@ vs:
     draw: Round Robin(16)
     score: AB 8 - MB 7
   - player1:
+      team: WC
+      position: Lead
+      percent: 100
+      win: 0
+      loss: 1
+    player2:
+      team: 'NO'
+      position: Third
+      percent: 93
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Pool(15)
+    score: WC 4 - NO 6
+  - player1:
       team: Carr
       position: Lead
       percent: 95
@@ -321,6 +381,34 @@ vs:
     year: 2017
     draw: Round Robin(5)
     score: Carr 5 - Koe 6
+- name: Kidby, Dustin
+  totals:
+  - event: Brier
+    player1:
+      percent: 93
+      wins: 1
+      losses: 0
+    player2:
+      percent: 95
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: WC
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    player2:
+      team: SK
+      position: Lead
+      percent: 95
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(2)
+    score: SK 3 - WC 5
 - name: Kingdon, Wade
   totals:
   - event: Brier
@@ -353,13 +441,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 95
-      wins: 1
+      percent: 96
+      wins: 2
       losses: 0
     player2:
-      percent: 64
+      percent: 68
       wins: 0
-      losses: 1
+      losses: 2
   games:
   - player1:
       team: MB
@@ -377,16 +465,32 @@ vs:
     year: 2015
     draw: Round Robin(8)
     score: NT 3 - MB 11
+  - player1:
+      team: WC
+      position: Lead
+      percent: 96
+      win: 1
+      loss: 0
+    player2:
+      team: NT
+      position: Fourth
+      percent: 72
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(6)
+    score: NT 2 - WC 6
 - name: Koe, Kevin
   totals:
   - event: Brier
     player1:
-      percent: 93
+      percent: 94
       wins: 0
-      losses: 2
+      losses: 3
     player2:
-      percent: 87
-      wins: 2
+      percent: 89
+      wins: 3
       losses: 0
   - event: Trials(Men)
     player1:
@@ -430,6 +534,22 @@ vs:
     year: 2019
     draw: Pool(16)
     score: MB 5 - AB 6
+  - player1:
+      team: WC
+      position: Lead
+      percent: 98
+      win: 0
+      loss: 1
+    player2:
+      team: CA
+      position: Fourth
+      percent: 93
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(10)
+    score: WC 2 - CA 3
   - player1:
       team: Carr
       position: Lead
@@ -478,13 +598,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 98
-      wins: 0
-      losses: 1
-    player2:
-      percent: 84
+      percent: 94
       wins: 1
-      losses: 0
+      losses: 2
+    player2:
+      percent: 88
+      wins: 2
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 95
@@ -512,6 +632,38 @@ vs:
     draw: Round Robin(16)
     score: AB 8 - MB 7
   - player1:
+      team: WC
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: 'ON'
+      position: Lead
+      percent: 94
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(11)
+    score: ON 7 - WC 11
+  - player1:
+      team: WC
+      position: Lead
+      percent: 93
+      win: 0
+      loss: 1
+    player2:
+      team: 'ON'
+      position: Lead
+      percent: 88
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Tie-Breaker(19)
+    score: ON 7 - WC 6
+  - player1:
       team: Carr
       position: Lead
       percent: 95
@@ -531,13 +683,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 95
-      wins: 2
+      percent: 96
+      wins: 3
       losses: 1
     player2:
       percent: 79
       wins: 1
-      losses: 2
+      losses: 3
   - event: Trials(Men)
     player1:
       percent: 95
@@ -596,6 +748,22 @@ vs:
     year: 2019
     draw: Pool(17)
     score: BC 7 - MB 9
+  - player1:
+      team: WC
+      position: Lead
+      percent: 98
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Third
+      percent: 80
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(7)
+    score: WC 10 - BC 5
   - player1:
       team: Carr
       position: Lead
@@ -895,10 +1063,10 @@ vs:
     player1:
       percent: 92
       wins: 0
-      losses: 2
+      losses: 3
     player2:
-      percent: 92
-      wins: 2
+      percent: 89
+      wins: 3
       losses: 0
   - event: Trials(Men)
     player1:
@@ -942,6 +1110,22 @@ vs:
     year: 2019
     draw: Round Robin(5)
     score: WC 9 - MB 8
+  - player1:
+      team: WC
+      position: Lead
+      percent: 93
+      win: 0
+      loss: 1
+    player2:
+      team: AB
+      position: Lead
+      percent: 85
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Pool(18)
+    score: AB 4 - WC 2
   - player1:
       team: Carr
       position: Lead
@@ -990,13 +1174,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 86
-      wins: 1
+      percent: 92
+      wins: 2
       losses: 0
     player2:
       percent: 81
       wins: 0
-      losses: 1
+      losses: 2
   games:
   - player1:
       team: MB
@@ -1014,6 +1198,22 @@ vs:
     year: 2018
     draw: Round Robin(11)
     score: MB 7 - NB 3
+  - player1:
+      team: WC
+      position: Lead
+      percent: 99
+      win: 1
+      loss: 0
+    player2:
+      team: NB
+      position: Second
+      percent: 81
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(14)
+    score: NB 4 - WC 9
 - name: McDonald, Scott
   totals:
   - event: Brier
@@ -1095,6 +1295,34 @@ vs:
     year: 2017
     draw: Round Robin(2)
     score: Carr 3 - McEw 7
+- name: McLeod, Shadrach
+  totals:
+  - event: Brier
+    player1:
+      percent: 96
+      wins: 1
+      losses: 0
+    player2:
+      percent: 79
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: WC
+      position: Lead
+      percent: 96
+      win: 1
+      loss: 0
+    player2:
+      team: NT
+      position: Second
+      percent: 79
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(6)
+    score: NT 2 - WC 6
 - name: Menard, Jean-Michel
   totals:
   - event: Brier
@@ -1220,16 +1448,44 @@ vs:
     year: 2017
     draw: Round Robin(14)
     score: Morr 6 - Carr 10
+- name: Moskowy, Braeden
+  totals:
+  - event: Brier
+    player1:
+      percent: 93
+      wins: 1
+      losses: 0
+    player2:
+      percent: 88
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: WC
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    player2:
+      team: SK
+      position: Third
+      percent: 88
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(2)
+    score: SK 3 - WC 5
 - name: Moulding, Darren
   totals:
   - event: Brier
     player1:
       percent: 92
       wins: 0
-      losses: 2
+      losses: 3
     player2:
-      percent: 79
-      wins: 2
+      percent: 80
+      wins: 3
       losses: 0
   - event: Trials(Men)
     player1:
@@ -1273,6 +1529,22 @@ vs:
     year: 2019
     draw: Round Robin(5)
     score: WC 9 - MB 8
+  - player1:
+      team: WC
+      position: Lead
+      percent: 93
+      win: 0
+      loss: 1
+    player2:
+      team: AB
+      position: Third
+      percent: 83
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Pool(18)
+    score: AB 4 - WC 2
   - player1:
       team: Carr
       position: Lead
@@ -1515,16 +1787,44 @@ vs:
     year: 2018
     draw: Round Robin(5)
     score: NU 5 - MB 12
+- name: Nerpin, Andrew
+  totals:
+  - event: Brier
+    player1:
+      percent: 98
+      wins: 1
+      losses: 0
+    player2:
+      percent: 95
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: WC
+      position: Lead
+      percent: 98
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Second
+      percent: 95
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(7)
+    score: WC 10 - BC 5
 - name: Neufeld, B.J.
   totals:
   - event: Brier
     player1:
-      percent: 89
+      percent: 92
       wins: 0
-      losses: 2
+      losses: 3
     player2:
-      percent: 83
-      wins: 2
+      percent: 87
+      wins: 3
       losses: 0
   - event: Trials(Men)
     player1:
@@ -1568,6 +1868,22 @@ vs:
     year: 2019
     draw: Pool(16)
     score: MB 5 - AB 6
+  - player1:
+      team: WC
+      position: Lead
+      percent: 98
+      win: 0
+      loss: 1
+    player2:
+      team: CA
+      position: Third
+      percent: 93
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(10)
+    score: WC 2 - CA 3
   - player1:
       team: Carr
       position: Lead
@@ -1641,12 +1957,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 90
+      percent: 92
       wins: 1
-      losses: 2
+      losses: 3
     player2:
-      percent: 86
-      wins: 2
+      percent: 88
+      wins: 3
       losses: 1
   - event: Trials(Men)
     player1:
@@ -1707,6 +2023,22 @@ vs:
     draw: Pool(15)
     score: CA 6 - MB 3
   - player1:
+      team: WC
+      position: Lead
+      percent: 96
+      win: 0
+      loss: 1
+    player2:
+      team: NL
+      position: Third
+      percent: 94
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Pool(17)
+    score: WC 3 - NL 5
+  - player1:
       team: Carr
       position: Lead
       percent: 94
@@ -1722,6 +2054,34 @@ vs:
     year: 2017
     draw: Round Robin(11)
     score: Gush 9 - Carr 5
+- name: Njegovan, Connor
+  totals:
+  - event: Brier
+    player1:
+      percent: 78
+      wins: 1
+      losses: 0
+    player2:
+      percent: 89
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: WC
+      position: Lead
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: MB
+      position: Lead
+      percent: 89
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Pool(16)
+    score: MB 4 - WC 5
 - name: Odian, Scott
   totals:
   - event: Brier
@@ -1750,6 +2110,34 @@ vs:
     year: 2019
     draw: Round Robin(7)
     score: YT 7 - MB 6
+- name: Parsons, Cole
+  totals:
+  - event: Brier
+    player1:
+      percent: 96
+      wins: 1
+      losses: 0
+    player2:
+      percent: 88
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: WC
+      position: Lead
+      percent: 96
+      win: 1
+      loss: 0
+    player2:
+      team: NT
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(6)
+    score: NT 2 - WC 6
 - name: Rach, Dave
   totals:
   - event: Brier
@@ -1838,13 +2226,13 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 97
-      wins: 2
+      percent: 98
+      wins: 3
       losses: 0
     player2:
-      percent: 83
+      percent: 82
       wins: 0
-      losses: 2
+      losses: 3
   games:
   - player1:
       team: MB
@@ -1878,6 +2266,103 @@ vs:
     year: 2019
     draw: Pool(17)
     score: BC 7 - MB 9
+  - player1:
+      team: WC
+      position: Lead
+      percent: 98
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Lead
+      percent: 81
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(7)
+    score: WC 10 - BC 5
+- name: Schneider, Catlin
+  totals:
+  - event: Brier
+    player1:
+      percent: 93
+      wins: 1
+      losses: 0
+    player2:
+      percent: 83
+      wins: 0
+      losses: 1
+  - event: Trials(Men)
+    player1:
+      percent: 85
+      wins: 1
+      losses: 0
+    player2:
+      percent: 93
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: WC
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    player2:
+      team: SK
+      position: Second
+      percent: 83
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(2)
+    score: SK 3 - WC 5
+  - player1:
+      team: Carr
+      position: Lead
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: Morr
+      position: Second
+      percent: 93
+      win: 0
+      loss: 1
+    event: Trials (Men)
+    year: 2017
+    draw: Round Robin(14)
+    score: Morr 6 - Carr 10
+- name: Scoffin, Thomas
+  totals:
+  - event: Brier
+    player1:
+      percent: 90
+      wins: 1
+      losses: 0
+    player2:
+      percent: 75
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: WC
+      position: Lead
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Fourth
+      percent: 75
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(3)
+    score: WC 10 - YT 6
 - name: Simmons, Pat
   totals:
   - event: Brier
@@ -2068,10 +2553,10 @@ vs:
     player1:
       percent: 92
       wins: 0
-      losses: 2
+      losses: 3
     player2:
-      percent: 84
-      wins: 2
+      percent: 83
+      wins: 3
       losses: 0
   - event: Trials(Men)
     player1:
@@ -2115,6 +2600,22 @@ vs:
     year: 2019
     draw: Round Robin(5)
     score: WC 9 - MB 8
+  - player1:
+      team: WC
+      position: Lead
+      percent: 93
+      win: 0
+      loss: 1
+    player2:
+      team: AB
+      position: Second
+      percent: 81
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Pool(18)
+    score: AB 4 - WC 2
   - player1:
       team: Carr
       position: Lead
@@ -2191,12 +2692,12 @@ vs:
   totals:
   - event: Brier
     player1:
-      percent: 90
+      percent: 92
       wins: 1
-      losses: 2
+      losses: 3
     player2:
       percent: 90
-      wins: 2
+      wins: 3
       losses: 1
   - event: Trials(Men)
     player1:
@@ -2257,6 +2758,22 @@ vs:
     draw: Pool(15)
     score: CA 6 - MB 3
   - player1:
+      team: WC
+      position: Lead
+      percent: 96
+      win: 0
+      loss: 1
+    player2:
+      team: NL
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Pool(17)
+    score: WC 3 - NL 5
+  - player1:
       team: Carr
       position: Lead
       percent: 94
@@ -2272,6 +2789,34 @@ vs:
     year: 2017
     draw: Round Robin(11)
     score: Gush 9 - Carr 5
+- name: Wallingham, Joe
+  totals:
+  - event: Brier
+    player1:
+      percent: 90
+      wins: 1
+      losses: 0
+    player2:
+      percent: 89
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: WC
+      position: Lead
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Lead
+      percent: 89
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(3)
+    score: WC 10 - YT 6
 - name: Whitehead, Mark
   totals:
   - event: Brier
@@ -2300,6 +2845,34 @@ vs:
     year: 2015
     draw: Round Robin(8)
     score: NT 3 - MB 11
+- name: Winfield, Brett
+  totals:
+  - event: Brier
+    player1:
+      percent: 90
+      wins: 1
+      losses: 0
+    player2:
+      percent: 68
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: WC
+      position: Lead
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Second
+      percent: 68
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(3)
+    score: WC 10 - YT 6
 - name: Wozniak, Matt
   totals:
   - event: Brier
@@ -2353,32 +2926,4 @@ vs:
     year: 2017
     draw: Round Robin(2)
     score: Carr 3 - McEw 7
-- name: Schneider, Catlin
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 85
-      wins: 1
-      losses: 0
-    player2:
-      percent: 93
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: Carr
-      position: Lead
-      percent: 85
-      win: 1
-      loss: 0
-    player2:
-      team: Morr
-      position: Second
-      percent: 93
-      win: 0
-      loss: 1
-    event: Trials (Men)
-    year: 2017
-    draw: Round Robin(14)
-    score: Morr 6 - Carr 10
 ---

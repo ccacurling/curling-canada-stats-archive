@@ -114,6 +114,7 @@ vs:
  - Courtney, Joanne
  - Crawford, Andrea
  - Cunningham, Jessica
+ - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
@@ -200,7 +201,6 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
- - Trickett, Erica
  - Trombley, Christy
  - Udle, Teri
  - Vey, Lana

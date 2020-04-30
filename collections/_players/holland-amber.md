@@ -261,6 +261,7 @@ vs:
 - Parsons, Danielle
 - Paul, Sarah
 - Peters, Laine
+- Pewarchuk, Dailene
 - Phillips, Kristen
 - Preston, Sam
 - Rainville, Julie
@@ -271,7 +272,6 @@ vs:
 - Scott, Kelly
 - Singler, Sherri
 - Sippala, Ashley
-- Sivertson, Dailene
 - Skinner, Julie
 - Slywka, Sarah
 - Smith, Heather

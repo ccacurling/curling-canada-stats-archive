@@ -141,6 +141,7 @@ vs:
  - O'Rourke, Brittany
  - Parsons, Danielle
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Pilote, Kristen
  - Price, Kara
  - Richard, Marie
@@ -149,7 +150,6 @@ vs:
  - Schmidt, Stephanie
  - Schneider, Kim
  - Scott, Kelly
- - Sivertson, Dailene
  - Slywka, Sarah
  - Smallwood, Jody
  - Smith, Heather

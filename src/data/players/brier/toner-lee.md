@@ -4,18 +4,18 @@ name: Lee Toner
 name-sort: Toner, Lee
 totals:
  - event: Brier
-   games: 33
-   wins: 10
+   games: 34
+   wins: 11
    losses: 23
-   inturn-total: 255
+   inturn-total: 258
    inturn-percent: 83
-   outturn-total: 365
+   outturn-total: 366
    outturn-percent: 85
-   draw-total: 557
+   draw-total: 559
    draw-percent: 85
-   takeout-total: 63
-   takeout-percent: 74
-   shots-total: 620
+   takeout-total: 65
+   takeout-percent: 75
+   shots-total: 624
    shots-percent: 84
 years:
  - year: 2005
@@ -81,6 +81,23 @@ years:
    event: Brier
    team: "NO"
    position: Alternate
+ - year: 2020
+   event: Brier
+   team: "NO"
+   position: Second
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 3
+   inturn-percent: 100
+   outturn-total: 1
+   outturn-percent: 100
+   draw-total: 2
+   draw-percent: 100
+   takeout-total: 2
+   takeout-percent: 100
+   shots-total: 4
+   shots-percent: 100
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -127,6 +144,7 @@ vs:
  - Hart, Richard
  - Hebert, Ben
  - Hicke, Dean
+ - Higgs, Jake
  - Hollowaychuk, Dan
  - Horning, Deane
  - Howard, Glenn
@@ -139,11 +157,13 @@ vs:
  - Kennedy, Marc
  - Kilgallen, Shane
  - Koe, Jamie
+ - Kohlenberg, Dale
  - Korab, Jamie
  - Laing, Brent
  - Laycock, Steve
  - Lemay, Philippe
  - Lohnes, Bruce
+ - MacDonald, Edmund
  - MacDonald, Rod
  - Martin, Kevin
  - McCarrel, Graeme
@@ -177,6 +197,7 @@ vs:
  - Schmidt, Aryn
  - Sharp, Jeff
  - Simmons, Pat
+ - Smitheram, Christian
  - Solberg, Jonathon
  - Sosiak, Jim
  - Stoughton, Jeff

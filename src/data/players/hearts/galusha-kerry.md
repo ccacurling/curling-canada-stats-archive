@@ -4,18 +4,18 @@ name: Kerry Galusha
 name-sort: Galusha, Kerry
 totals:
  - event: Hearts
-   games: 124
-   wins: 35
-   losses: 89
-   inturn-total: 1225
-   inturn-percent: 69
-   outturn-total: 1095
+   games: 131
+   wins: 37
+   losses: 94
+   inturn-total: 1316
+   inturn-percent: 70
+   outturn-total: 1131
    outturn-percent: 71
-   draw-total: 1195
+   draw-total: 1263
    draw-percent: 69
-   takeout-total: 1125
+   takeout-total: 1184
    takeout-percent: 71
-   shots-total: 2320
+   shots-total: 2447
    shots-percent: 70
 years:
  - year: 1998
@@ -276,6 +276,23 @@ years:
    takeout-percent: 78
    shots-total: 124
    shots-percent: 73
+ - year: 2020
+   event: Hearts
+   team: "NT"
+   position: Second
+   games: 7
+   wins: 2
+   losses: 5
+   inturn-total: 91
+   inturn-percent: 74
+   outturn-total: 36
+   outturn-percent: 74
+   draw-total: 68
+   draw-percent: 74
+   takeout-total: 59
+   takeout-percent: 74
+   shots-total: 127
+   shots-percent: 74
 vs:
  - Adams, Melissa
  - Affleck, Tricia
@@ -313,6 +330,7 @@ vs:
  - Brennan, Amanda
  - Briand, Oye-Sem Won
  - Brothers, Jill
+ - Brown, Corryn
  - Brown, Jacalyn
  - Brown, Janet
  - Burgess, Carey
@@ -335,6 +353,7 @@ vs:
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
+ - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - Daniel, Sylvie
@@ -386,6 +405,7 @@ vs:
  - Harrison, Meredith
  - Harvey, Alison
  - Harvey, Janet
+ - Hawes, Dezaray
  - Hill, Trish
  - Holland, Amber
  - Hollands, Saskia
@@ -407,9 +427,11 @@ vs:
  - Kidd, Darlene
  - King, Cathy
  - Kleibrink, Shannon
+ - Klymchuk, Ashley
  - Korab, Stephanie
  - Korchinski, Karlee
  - Kreviazuk, Alison
+ - Kreviazuk, Cheryl
  - Lang, Lorraine
  - Larouche, Marie-France
  - Law, Kelley
@@ -423,6 +445,7 @@ vs:
  - Lilly, Kendra
  - Lister, Kendra
  - Loder, Cherie-Ann
+ - Logan, Emma
  - Lowther, Tammi
  - MacCuish, Kristin
  - MacDiarmid, Kristen
@@ -476,6 +499,9 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pewarchuk, Dailene
+ - Pincott, Erin
+ - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
  - Power, Marie-Anne
@@ -509,7 +535,6 @@ vs:
  - Simons, Renee
  - Singler, Sherri
  - Sippala, Ashley
- - Sivertson, Dailene
  - Skinner, Julie
  - Slywka, Sarah
  - Smallwood, Jody
@@ -530,7 +555,7 @@ vs:
  - Thomas, Jill
  - Thompson, Karla
  - Thurston, Jill
- - Trickett, Erica
+ - Tuor, Kimberly
  - Udle, Teri
  - Vavrek, Melody
  - Vey, Lana

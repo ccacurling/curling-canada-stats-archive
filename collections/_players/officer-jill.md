@@ -590,6 +590,7 @@ vs:
 - Paul, Sarah
 - Peterman, Jocelyn
 - Peters, Laine
+- Pewarchuk, Dailene
 - Phillips, Kristen
 - Pilote, Kristen
 - Porter, Erin
@@ -629,7 +630,6 @@ vs:
 - Simons, Renee
 - Singler, Sherri
 - Sippala, Ashley
-- Sivertson, Dailene
 - Slywka, Sarah
 - Smallwood, Jody
 - Smith, Heather

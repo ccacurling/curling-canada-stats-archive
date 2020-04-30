@@ -4,18 +4,18 @@ name: Dana Ferguson
 name-sort: Ferguson, Dana
 totals:
 - event: Hearts
-  games: 41
-  wins: 31
-  losses: 10
-  inturn-total: 369
+  games: 52
+  wins: 36
+  losses: 16
+  inturn-total: 471
   inturn-percent: 83
-  outturn-total: 411
+  outturn-total: 521
   outturn-percent: 83
-  draw-total: 290
+  draw-total: 383
   draw-percent: 80
-  takeout-total: 490
-  takeout-percent: 85
-  shots-total: 780
+  takeout-total: 609
+  takeout-percent: 84
+  shots-total: 992
   shots-percent: 83
 - event: Trials (Women)
   games: 15
@@ -83,6 +83,23 @@ years:
   takeout-percent: 83
   shots-total: 257
   shots-percent: 83
+- year: 2020
+  event: Hearts
+  team: CA
+  position: Second
+  games: 11
+  wins: 5
+  losses: 6
+  inturn-total: 102
+  inturn-percent: 82
+  outturn-total: 110
+  outturn-percent: 80
+  draw-total: 93
+  draw-percent: 80
+  takeout-total: 119
+  takeout-percent: 81
+  shots-total: 212
+  shots-percent: 81
 - year: 2013
   event: Trials (Women)
   team: SWE
@@ -119,11 +136,14 @@ years:
   shots-percent: 82
 vs:
 - Anderson, Sherry
+- Armstrong, Jennifer
 - Armstrong, Leigh
 - Arsenault, Mary-Anne
 - Atkinson, Rebecca
+- Babin, Jillian
 - Baier, Stephanie
 - Baxter, Jen
+- Birchard, Shannon
 - Birt, Suzanne
 - Black, Christina
 - Blais, Amelie
@@ -135,6 +155,7 @@ vs:
 - Bradley, Shelly
 - Brine, Jenn
 - Brothers, Jill
+- Brown, Corryn
 - Cameron, Kate
 - Camozzi, Rhona
 - Carey, Chelsea
@@ -142,6 +163,7 @@ vs:
 - Christianson, Marie
 - Collins, Katrina
 - Cooper, Kathryn
+- Cote, Marie-Pier
 - Cottrill, Katie
 - Court, Morgan
 - Courtney, Joanne
@@ -154,18 +176,22 @@ vs:
 - Dolan, Sinead
 - Duhaime, Chantal
 - Duncan, Chelsea
+- Eddy, Lori
+- Einarson, Kerri
 - Englot, Michelle
 - Filteau, Anne-Marie
 - Flaxey, Allison
 - Fleury, Tracy
+- Forward, Katie
 - Foster, Kristen
 - Fyfe, Liz
 - Gannon, Melissa
 - Gates, Amanda
-- Gates, Jenny
+- Gates, Jennifer
 - Grandy, Clancy
 - Griffin, Alison
 - Hastings, Julie
+- Hawes, Dezaray
 - Homan, Rachel
 - Hughes, Meaghan
 - Hunkin, Jessie
@@ -174,6 +200,7 @@ vs:
 - Jones, Jennifer
 - Joyce, Blisse
 - Kasner, Marliese
+- Klymchuk, Ashley
 - Knezevic, Patti
 - Koltun, Sarah
 - Korab, Stephanie
@@ -184,17 +211,20 @@ vs:
 - Lawton, Stefanie
 - Lilly, Kendra
 - MacCuish, Kristin
+- MacDonald, Kaitlin
 - MacDonald, Lawnie
 - MacDonald, Rebecca Jean
 - Mair, Jessica
 - Mann, Lauren
 - McCarville, Krista
 - McDonald, Kristy
+- McDonald, Taylor
 - McEwen, Dawn
 - McInnis, Susan
 - McPherson, Cheryl
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
+- Meilleur, Briane
 - Merklinger, Lee
 - Middaugh, Sherry
 - Miskew, Emma
@@ -212,6 +242,7 @@ vs:
 - Peterman, Jocelyn
 - Peters, Laine
 - Pilote, Kristen
+- Pincott, Erin
 - Pinksen, Sadie
 - Potts, Sarah
 - Reid, Jackie
@@ -220,12 +251,15 @@ vs:
 - Robichaud, Sylvie
 - Robison, Michala
 - Ross, Allison
+- Routledge, Alanna
+- Routledge, Jill
 - Rusnell, Jen
 - Sanderson, Jessie
 - Sandwith, Carley
 - Scheidegger, Casey
 - Scheidegger, Jessie
 - Schmidt, Stephanie
+- Scotland, Nadine
 - Silvernagle, Robyn
 - Sinclair, Andrea
 - Singler, Sherri
@@ -236,6 +270,8 @@ vs:
 - Sonnenberg, Renee
 - Strong, Heather
 - Strong, Laura
+- Sweeting, Val
+- Taylor, Susan
 - Thevenot, Kara
 - Thomas-Kennell, Noelle
 - Tippin, Julie
@@ -243,7 +279,9 @@ vs:
 - Trombley, Christy
 - Udle, Teri
 - Van Osch, Kesa
+- Verreault, Noemie
 - Vink, Rachelle
+- Walker, Laura
 - Wallingham, Patty
 - Walsh, Jenna
 - Wark, Sarah

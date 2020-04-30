@@ -2611,6 +2611,34 @@ vs:
     year: 2016
     draw: Round Robin(11)
     score: QC 4 - AB 6
+- name: Pewarchuk, Dailene
+  totals:
+  - event: Hearts
+    player1:
+      percent: 84
+      wins: 0
+      losses: 1
+    player2:
+      percent: 74
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: QC
+      position: Fourth
+      percent: 84
+      win: 0
+      loss: 1
+    player2:
+      team: BC
+      position: Second
+      percent: 74
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2012
+    draw: Round Robin(1)
+    score: QC 6 - BC 7
 - name: Porter, Erin
   totals:
   - event: Hearts
@@ -3467,34 +3495,6 @@ vs:
     year: 2016
     draw: Round Robin(15)
     score: NO 7 - QC 2
-- name: Sivertson, Dailene
-  totals:
-  - event: Hearts
-    player1:
-      percent: 84
-      wins: 0
-      losses: 1
-    player2:
-      percent: 74
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: QC
-      position: Fourth
-      percent: 84
-      win: 0
-      loss: 1
-    player2:
-      team: BC
-      position: Second
-      percent: 74
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2012
-    draw: Round Robin(1)
-    score: QC 6 - BC 7
 - name: Skinner, Julie
   totals:
   - event: Hearts

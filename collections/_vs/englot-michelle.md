@@ -5140,6 +5140,34 @@ vs:
     year: 2017
     draw: Round Robin(19)
     score: Care 10 - Engl 3
+- name: Pewarchuk, Dailene
+  totals:
+  - event: Hearts
+    player1:
+      percent: 74
+      wins: 0
+      losses: 1
+    player2:
+      percent: 75
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: SK
+      position: Fourth
+      percent: 74
+      win: 0
+      loss: 1
+    player2:
+      team: BC
+      position: Second
+      percent: 75
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2012
+    draw: Round Robin(4)
+    score: BC 10 - SK 8
 - name: Phillips, Laura
   totals:
   - event: Hearts
@@ -6581,34 +6609,6 @@ vs:
     year: 2017
     draw: Round Robin(2)
     score: Engl 4 - McCa 9
-- name: Sivertson, Dailene
-  totals:
-  - event: Hearts
-    player1:
-      percent: 74
-      wins: 0
-      losses: 1
-    player2:
-      percent: 75
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: SK
-      position: Fourth
-      percent: 74
-      win: 0
-      loss: 1
-    player2:
-      team: BC
-      position: Second
-      percent: 75
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2012
-    draw: Round Robin(4)
-    score: BC 10 - SK 8
 - name: Skinner, Julie
   totals:
   - event: Hearts
@@ -7402,50 +7402,6 @@ vs:
     year: 1989
     draw: Round Robin(10)
     score: ON 9 - SK 3
-- name: Trickett, Erica
-  totals:
-  - event: Hearts
-    player1:
-      percent: 81
-      wins: 2
-      losses: 0
-    player2:
-      percent: 74
-      wins: 0
-      losses: 2
-  games:
-  - player1:
-      team: MB
-      position: Fourth
-      percent: 75
-      win: 1
-      loss: 0
-    player2:
-      team: NL
-      position: Lead
-      percent: 71
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2017
-    draw: Round Robin(6)
-    score: NL 5 - MB 10
-  - player1:
-      team: CA
-      position: Fourth
-      percent: 87
-      win: 1
-      loss: 0
-    player2:
-      team: NL
-      position: Lead
-      percent: 76
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2018
-    draw: Round Robin(9)
-    score: NL 5 - CA 8
 - name: Tucker, Cindy
   totals:
   - event: Hearts

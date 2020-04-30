@@ -452,6 +452,7 @@ vs:
  - Overton-Clapham, Cathy
  - Parsons, Danielle
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Phillips, Laura
  - Pinsent, Barbara
  - Poisson, Francine
@@ -493,7 +494,6 @@ vs:
  - Shields, Gail
  - Sigurdson, Janine
  - Sinclair, Andrea
- - Sivertson, Dailene
  - Skinner, Julie
  - Slywka, Sarah
  - Smith, Heather

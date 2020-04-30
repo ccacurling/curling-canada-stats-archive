@@ -4,19 +4,19 @@ name: Erin Porter
 name-sort: Porter, Erin
 totals:
  - event: Hearts
-   games: 42
-   wins: 14
-   losses: 28
-   inturn-total: 374
-   inturn-percent: 78
-   outturn-total: 426
-   outturn-percent: 75
-   draw-total: 329
-   draw-percent: 75
-   takeout-total: 471
+   games: 49
+   wins: 15
+   losses: 34
+   inturn-total: 441
+   inturn-percent: 76
+   outturn-total: 489
+   outturn-percent: 74
+   draw-total: 393
+   draw-percent: 73
+   takeout-total: 537
    takeout-percent: 77
-   shots-total: 800
-   shots-percent: 76
+   shots-total: 930
+   shots-percent: 75
 years:
  - year: 2013
    event: Hearts
@@ -86,6 +86,23 @@ years:
    takeout-percent: 85
    shots-total: 174
    shots-percent: 82
+ - year: 2020
+   event: Hearts
+   team: "NL"
+   position: Third
+   games: 7
+   wins: 1
+   losses: 6
+   inturn-total: 67
+   inturn-percent: 70
+   outturn-total: 63
+   outturn-percent: 67
+   draw-total: 64
+   draw-percent: 64
+   takeout-total: 66
+   takeout-percent: 73
+   shots-total: 130
+   shots-percent: 68
 vs:
  - Adams, Melissa
  - Alcoe-Holland, Jill
@@ -95,15 +112,19 @@ vs:
  - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Ayrey, Jinaye
+ - Barbour, Shona
  - Barker, Penny
  - Baxter, Jen
  - Beauchamp, Sasha
  - Belisle, Eve
+ - Birnie, Hailey
  - Birt, Suzanne
+ - Black, Christina
  - Boyle, Jane
  - Bradley, Shelly
  - Briand, Oye-Sem Won
  - Brothers, Jill
+ - Brown, Corryn
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
@@ -120,6 +141,7 @@ vs:
  - deSolla, Jodie
  - Doig, Deanna
  - Dufresne, Audree
+ - Duncan, Chelsea
  - Duncan, Hollie
  - Dykstra, Michelle
  - Einarson, Kerri
@@ -147,7 +169,9 @@ vs:
  - Joyce, Blisse
  - Kelly, Kim
  - Kleibrink, Shannon
+ - Klymchuk, Ashley
  - Koehler, Megan
+ - Koltun, Sarah
  - Kreviazuk, Alison
  - Kreviazuk, Cheryl
  - Larouche, Marie-France
@@ -157,6 +181,7 @@ vs:
  - Lemay, Annie
  - Lilly, Kendra
  - Lister, Kendra
+ - Logan, Emma
  - MacCuish, Kristin
  - MacDougall, Leslie
  - MacPhee, Robyn
@@ -185,11 +210,15 @@ vs:
  - Perron, Melina
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pewarchuk, Dailene
+ - Pincott, Erin
+ - Plonka, Gabrielle
  - Potts, Sarah
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
+ - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Ross, Allison
  - Sagle, Karen
@@ -205,6 +234,7 @@ vs:
  - Sippala, Ashley
  - Thiessen, Alison
  - Thompson, Karla
+ - Tuor, Kimberly
  - Udle, Teri
  - Vandale, Trysta
  - Van Osch, Kalia

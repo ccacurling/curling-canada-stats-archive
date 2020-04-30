@@ -4,18 +4,18 @@ name: Cheryl Kreviazuk
 name-sort: Kreviazuk, Cheryl
 totals:
 - event: Hearts
-  games: 19
-  wins: 12
+  games: 21
+  wins: 14
   losses: 7
   inturn-total: 149
   inturn-percent: 82
-  outturn-total: 113
+  outturn-total: 117
   outturn-percent: 86
   draw-total: 115
   draw-percent: 81
-  takeout-total: 147
+  takeout-total: 151
   takeout-percent: 86
-  shots-total: 262
+  shots-total: 266
   shots-percent: 84
 - event: Trials (Women)
   games: 0
@@ -90,6 +90,56 @@ years:
   takeout-percent: 86
   shots-total: 22
   shots-percent: 81
+- year: 2020
+  event: Hearts
+  team: 'ON'
+  position: Lead
+  games: 1
+  wins: 1
+  losses: 0
+  inturn-total: 0
+  inturn-percent: 
+  outturn-total: 2
+  outturn-percent: 75
+  draw-total: 0
+  draw-percent: 
+  takeout-total: 2
+  takeout-percent: 75
+  shots-total: 2
+  shots-percent: 75
+- year: 2020
+  event: Hearts
+  team: 'ON'
+  position: Second
+  games: 1
+  wins: 1
+  losses: 0
+  inturn-total: 0
+  inturn-percent: 
+  outturn-total: 2
+  outturn-percent: 88
+  draw-total: 0
+  draw-percent: 
+  takeout-total: 2
+  takeout-percent: 88
+  shots-total: 2
+  shots-percent: 88
+- year: 2020
+  event: Hearts
+  team: Totals
+  games: 2
+  wins: 2
+  losses: 0
+  inturn-total: 0
+  inturn-percent: 
+  outturn-total: 4
+  outturn-percent: 81
+  draw-total: 0
+  draw-percent: 
+  takeout-total: 4
+  takeout-percent: 81
+  shots-total: 4
+  shots-percent: 81
 - year: 2017
   event: Trials (Women)
   team: Homa
@@ -98,8 +148,10 @@ vs:
 - Aleksic, Shannon
 - Arnaud, Chloe
 - Arsenault, Mary-Anne
+- Barbour, Shona
 - Baxter, Jen
 - Birchard, Shannon
+- Birnie, Hailey
 - Black, Christina
 - Blaney, Jennifer
 - Bodner, Jenine
@@ -112,15 +164,18 @@ vs:
 - Cooper, Kathryn
 - Crouse, Jennifer
 - Cunningham, Jessica
+- Curtis, Erica
 - Curtis, Stacie
 - deJager, Blaine
 - Devereaux, Julie
+- Duncan, Chelsea
 - Einarson, Kerri
 - Englot, Michelle
 - Fleury, Tracy
 - Fullerton, Sarah
 - Fyfe, Liz
 - Gagnon, Emilia
+- Galusha, Kerry
 - Gates, Amanda
 - Gibson, Amy
 - Griffin, Alison
@@ -129,6 +184,7 @@ vs:
 - Hutchings, Denise
 - Jones, Jennifer
 - Knezevic, Patti
+- Koltun, Sarah
 - Korab, Stephanie
 - MacCuish, Kristin
 - MacDonald, Rebecca Jean
@@ -144,15 +200,17 @@ vs:
 - Perron, Melina
 - Pilote, Kristen
 - Pinksen, Sadie
+- Plonka, Gabrielle
 - Porter, Erin
 - Richards, Brette
+- Rizzo, Jo-Ann
 - Rusnell, Jen
 - Sandwith, Carley
 - Scheidegger, Casey
 - Scheidegger, Jessie
 - Shackleton, Amie
 - Strong, Heather
-- Trickett, Erica
+- Tuor, Kimberly
 - Van Osch, Kalia
 - Van Osch, Kesa
 - Van Osch, Marika

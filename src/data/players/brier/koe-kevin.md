@@ -4,18 +4,18 @@ name: Kevin Koe
 name-sort: Koe, Kevin
 totals:
  - event: Brier
-   games: 94
-   wins: 72
-   losses: 22
-   inturn-total: 654
-   inturn-percent: 82
-   outturn-total: 1074
-   outturn-percent: 86
-   draw-total: 661
+   games: 106
+   wins: 79
+   losses: 27
+   inturn-total: 715
+   inturn-percent: 83
+   outturn-total: 1227
+   outturn-percent: 87
+   draw-total: 731
    draw-percent: 84
-   takeout-total: 1067
+   takeout-total: 1211
    takeout-percent: 86
-   shots-total: 1728
+   shots-total: 1942
    shots-percent: 85
 years:
  - year: 2010
@@ -137,6 +137,23 @@ years:
    takeout-percent: 90
    shots-total: 241
    shots-percent: 86
+ - year: 2020
+   event: Brier
+   team: "CA"
+   position: Fourth
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 61
+   inturn-percent: 84
+   outturn-total: 153
+   outturn-percent: 88
+   draw-total: 70
+   draw-percent: 84
+   takeout-total: 144
+   takeout-percent: 89
+   shots-total: 214
+   shots-percent: 87
 vs:
  - Aho, David
  - Anderson, Chris
@@ -172,14 +189,18 @@ vs:
  - Daneault, Richard
  - Deis, Ryan
  - Desjardins, Robert
+ - Dobson, Paul
  - Doherty, Robert
+ - Dunstone, Matthew
  - Dutiaume, Randy
  - Eldridge, Zach
+ - Epping, John
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
  - Flaxey, Caleb
  - Folk, Kevin
  - Forget, Wes
+ - Forrest, Alex
  - Fowler, Rob
  - Fry, Ryan
  - Gallant, Brett
@@ -189,6 +210,7 @@ vs:
  - Gould, Steve
  - Grattan, James
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -200,9 +222,11 @@ vs:
  - Howard, Steven
  - Jacobs, Brad
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Jones, Scott
  - Kean, Mark
  - Kendall, Lloyd
+ - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
  - Koe, Jamie
@@ -236,6 +260,7 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
+ - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Mead, Jonathan
  - Menard, Jean-Michel
@@ -251,10 +276,12 @@ vs:
  - Muyres, Kirk
  - Nadeau, Jeff
  - Naugler, Tom
+ - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
  - Ng, Matt
  - Nichols, Mark
+ - Njegovan, Connor
  - Odishaw, Grant
  - Odishaw, Terry
  - Orme, Tyler
@@ -275,6 +302,7 @@ vs:
  - Sawatsky, Rick
  - Schille, Chris
  - Schneider, Catlin
+ - Scoffin, Thomas
  - Seabrook, Scott
  - Shypitka, Tom
  - Simmons, Pat
@@ -291,7 +319,9 @@ vs:
  - Vaughan, Jason
  - Villeneuve, Steeve
  - Walker, Geoff
+ - Wallingham, Joe
  - Whitehead, Kevin
  - Whitehead, Mark
+ - Winfield, Brett
  - Wozniak, Matt
 ---

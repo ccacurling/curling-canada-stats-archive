@@ -4,19 +4,19 @@ name: Kerri Einarson
 name-sort: Einarson, Kerri
 totals:
  - event: Hearts
-   games: 27
-   wins: 17
-   losses: 10
-   inturn-total: 253
+   games: 40
+   wins: 28
+   losses: 12
+   inturn-total: 369
    inturn-percent: 80
-   outturn-total: 250
-   outturn-percent: 77
-   draw-total: 206
-   draw-percent: 76
-   takeout-total: 297
-   takeout-percent: 80
-   shots-total: 503
-   shots-percent: 78
+   outturn-total: 381
+   outturn-percent: 81
+   draw-total: 310
+   draw-percent: 77
+   takeout-total: 440
+   takeout-percent: 83
+   shots-total: 750
+   shots-percent: 81
 years:
  - year: 2016
    event: Hearts
@@ -52,12 +52,31 @@ years:
    takeout-percent: 79
    shots-total: 263
    shots-percent: 78
+ - year: 2020
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 116
+   inturn-percent: 81
+   outturn-total: 131
+   outturn-percent: 89
+   draw-total: 104
+   draw-percent: 79
+   takeout-total: 143
+   takeout-percent: 90
+   shots-total: 247
+   shots-percent: 85
 vs:
  - Adams, Melissa
  - Anderson, Sherry
+ - Armstrong, Jennifer
  - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
+ - Babin, Jillian
  - Barbour, Shona
  - Baxter, Jen
  - Birchard, Shannon
@@ -66,29 +85,43 @@ vs:
  - Boyle, Jane
  - Brine, Jenn
  - Brothers, Jill
+ - Brown, Corryn
+ - Brown, Rachel
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
  - Christianson, Marie
+ - Cote, Marie-Pier
+ - Courtney, Joanne
+ - Crawford, Andrea
  - Crouse, Jennifer
  - Curtis, Stacie
  - Devereaux, Julie
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
+ - Eddy, Lori
  - Englot, Michelle
+ - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
  - Fleury, Tracy
+ - Forward, Katie
  - Galusha, Kerry
  - Gates, Amanda
+ - Gates, Jennifer
  - Gibson, Amy
+ - Griffin, Alison
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Hawes, Dezaray
+ - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
+ - Hunkin, Jessie
  - Jones, Jennifer
+ - Klymchuk, Ashley
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
@@ -96,15 +129,20 @@ vs:
  - Larouche, Marie-France
  - Lavery, Tracey
  - Lawes, Kaitlyn
+ - Lawton, Stefanie
  - LeDrew, Stephanie
  - Lemay, Annie
  - Letendre, Pascale
  - Lilly, Kendra
  - Lister, Kendra
+ - MacDonald, Kaitlin
  - MacPhee, Robyn
  - McCarville, Krista
+ - McDonald, Taylor
  - McEwen, Dawn
+ - McQuaid, Michelle
  - McTaggart, Cary-Anne
+ - Miskew, Emma
  - Moore, Kristie
  - Murphy, Sarah
  - Nicholls, Brenda
@@ -113,6 +151,8 @@ vs:
  - O'Neill, Brit
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pincott, Erin
+ - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
  - Price, Kara
@@ -120,11 +160,17 @@ vs:
  - Recksiedler, Kristen
  - Richard, Marie
  - Robichaud, Sylvie
+ - Routledge, Alanna
+ - Routledge, Jill
  - Sagle, Karen
  - Scheidegger, Casey
  - Scheidegger, Jessie
+ - Schmidt, Stephanie
+ - Scotland, Nadine
+ - Silvernagle, Robyn
  - Sippala, Ashley
  - Smallwood, Jody
+ - Taylor, Susan
  - Thompson, Karla
  - Udle, Teri
  - Vandale, Trysta
@@ -132,9 +178,13 @@ vs:
  - Van Osch, Kesa
  - Van Osch, Marika
  - Vautour, Carrie
+ - Verreault, Noemie
+ - Walker, Laura
  - Walsh, Jenna
+ - Weagle, Lisa
  - Webster, Crystal
  - Westcott, Raunora
+ - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
 ---

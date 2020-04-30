@@ -133,6 +133,7 @@ vs:
 - Courtney, Joanne
 - Crawford, Andrea
 - Crouse, Jennifer
+- Curtis, Erica
 - Curtis, Stacie
 - Daku, Karen
 - Delahunt, Nancy
@@ -226,7 +227,6 @@ vs:
 - Sweeting, Val
 - Thiboutot, Isabelle
 - Tippin, Julie
-- Trickett, Erica
 - Van Osch, Kalia
 - Van Osch, Kesa
 - Van Osch, Marika

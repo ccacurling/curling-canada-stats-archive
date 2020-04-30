@@ -204,6 +204,7 @@ vs:
  - Couling, Betty
  - Courtney, Joanne
  - Cunningham, Cathy
+ - Curtis, Erica
  - Curtis, Stacie
  - Daku, Karen
  - Daniel, Sylvie
@@ -367,7 +368,6 @@ vs:
  - Thomas, Karen
  - Thomas, Maria
  - Todd, Fran
- - Trickett, Erica
  - Trowell, Cathy
  - Turcotte, Kristin
  - Usher, Leanne

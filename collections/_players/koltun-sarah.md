@@ -4,18 +4,18 @@ name: Sarah Koltun
 name-sort: Koltun, Sarah
 totals:
  - event: Hearts
-   games: 25
-   wins: 7
-   losses: 18
-   inturn-total: 245
+   games: 32
+   wins: 9
+   losses: 23
+   inturn-total: 321
    inturn-percent: 74
-   outturn-total: 215
-   outturn-percent: 72
-   draw-total: 240
-   draw-percent: 70
-   takeout-total: 220
-   takeout-percent: 76
-   shots-total: 460
+   outturn-total: 267
+   outturn-percent: 71
+   draw-total: 299
+   draw-percent: 69
+   takeout-total: 289
+   takeout-percent: 77
+   shots-total: 588
    shots-percent: 73
 years:
  - year: 2014
@@ -69,6 +69,23 @@ years:
    takeout-percent: 68
    shots-total: 128
    shots-percent: 69
+ - year: 2020
+   event: Hearts
+   team: "NT"
+   position: Third
+   games: 7
+   wins: 2
+   losses: 5
+   inturn-total: 76
+   inturn-percent: 76
+   outturn-total: 52
+   outturn-percent: 71
+   draw-total: 59
+   draw-percent: 69
+   takeout-total: 69
+   takeout-percent: 78
+   shots-total: 128
+   shots-percent: 74
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -84,6 +101,7 @@ vs:
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
+ - Brown, Corryn
  - Brown, Rachel
  - Carey, Chelsea
  - Christianson, Marie
@@ -94,7 +112,9 @@ vs:
  - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Jessica
+ - Curtis, Erica
  - deSolla, Jodie
+ - Devereaux, Julie
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
@@ -113,20 +133,24 @@ vs:
  - Gates, Amanda
  - Guzzwell, Stephanie
  - Hamilton, Beth
+ - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Jewer, Michelle
  - Jones, Jennifer
  - Kasner, Marliese
+ - Klymchuk, Ashley
  - Knezevic, Patti
  - Korchinski, Karlee
  - Kreviazuk, Alison
+ - Kreviazuk, Cheryl
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - LeDrew, Stephanie
  - Lister, Kendra
+ - Logan, Emma
  - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacPhee, Robyn
@@ -141,6 +165,9 @@ vs:
  - O'Rourke, Brittany
  - Parsons, Danielle
  - Peterman, Jocelyn
+ - Pincott, Erin
+ - Plonka, Gabrielle
+ - Porter, Erin
  - Price, Kara
  - Robichaud, Sylvie
  - Robison, Michala
@@ -159,6 +186,7 @@ vs:
  - Thevenot, Kara
  - Titheridge, Lindsay
  - Tuck, Kim
+ - Tuor, Kimberly
  - Weagle, Lisa
  - Webster, Crystal
  - Wylie, Jennifer

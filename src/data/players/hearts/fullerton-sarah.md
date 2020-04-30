@@ -89,6 +89,7 @@ vs:
  - Cormier, Sharon
  - Courtney, Joanne
  - Crawford, Andrea
+ - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
@@ -160,7 +161,6 @@ vs:
  - Sicinski, Danielle
  - Sippala, Ashley
  - Thiessen, Alison
- - Trickett, Erica
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika

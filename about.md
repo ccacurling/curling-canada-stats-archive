@@ -20,6 +20,10 @@ Site - Brian Cassidy Jr.
 
 ## Changelog
 
+### 2020-04-30
+
+ * Added 2020 Brier and Hearts data.
+
 ### 2020-02-21
 
  * Show draw dates & times when available.

@@ -222,6 +222,7 @@ vs:
  - Parsons, Danielle
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Porter, Erin
  - Potts, Sarah
  - Power, Marie-Anne
@@ -244,7 +245,6 @@ vs:
  - Sinclair, Andrea
  - Singler, Sherri
  - Sippala, Ashley
- - Sivertson, Dailene
  - Slywka, Sarah
  - Sobey, Lianne
  - Strong, Heather

@@ -137,7 +137,7 @@ vs:
  - Filteau, Anne-Marie
  - Fyfe, Liz
  - Galusha, Kerry
- - Gates, Jenny
+ - Gates, Jennifer
  - Gibson, Amy
  - Griffin, Alison
  - Hastings, Julie
@@ -186,6 +186,7 @@ vs:
  - O'Rourke, Brittany
  - Parsons, Danielle
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Pilote, Kristen
  - Pinksen, Sadie
  - Potts, Sarah
@@ -200,7 +201,6 @@ vs:
  - Schmidt, Stephanie
  - Schneider, Kim
  - Scott, Kelly
- - Sivertson, Dailene
  - Slywka, Sarah
  - Smallwood, Jody
  - Smith, Heather

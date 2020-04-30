@@ -115,6 +115,7 @@ vs:
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jessica
+ - Curtis, Erica
  - Curtis, Stacie
  - Delahunt, Nancy
  - Devereaux, Julie
@@ -204,7 +205,6 @@ vs:
  - Surik, Teejay
  - Sweeting, Val
  - Thompson, Karla
- - Trickett, Erica
  - Trombley, Christy
  - Udle, Teri
  - Vandale, Trysta

@@ -4,19 +4,19 @@ name: Brendan Bottcher
 name-sort: Bottcher, Brendan
 totals:
  - event: Brier
-   games: 39
-   wins: 23
-   losses: 16
-   inturn-total: 403
-   inturn-percent: 85
-   outturn-total: 304
-   outturn-percent: 81
-   draw-total: 303
+   games: 52
+   wins: 34
+   losses: 18
+   inturn-total: 544
+   inturn-percent: 86
+   outturn-total: 404
+   outturn-percent: 82
+   draw-total: 384
    draw-percent: 80
-   takeout-total: 404
-   takeout-percent: 86
-   shots-total: 707
-   shots-percent: 83
+   takeout-total: 564
+   takeout-percent: 87
+   shots-total: 948
+   shots-percent: 84
 years:
  - year: 2017
    event: Brier
@@ -69,9 +69,28 @@ years:
    takeout-percent: 87
    shots-total: 247
    shots-percent: 83
+ - year: 2020
+   event: Brier
+   team: "AB"
+   position: Fourth
+   games: 13
+   wins: 11
+   losses: 2
+   inturn-total: 141
+   inturn-percent: 87
+   outturn-total: 100
+   outturn-percent: 86
+   draw-total: 81
+   draw-percent: 82
+   takeout-total: 160
+   takeout-percent: 90
+   shots-total: 241
+   shots-percent: 87
 vs:
  - Abel, Clinton
  - Appelman, Tom
+ - Asselin, Emile
+ - Bedard, Alek
  - Beuk, Jonathan
  - Boland, Adam
  - Borden, Robert
@@ -83,9 +102,11 @@ vs:
  - Casey, Adam
  - Chadwick, Scott
  - Chorostkowski, Brad
+ - Cochrane, Bryan
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
+ - Currie, Morgan
  - Doherty, Robert
  - Dunstone, Matthew
  - Epping, John
@@ -94,15 +115,18 @@ vs:
  - Flemming, Paul
  - Ford, Chris
  - Forget, Wes
+ - Forrest, Alex
  - Fry, Ryan
  - Gallant, Brett
  - Geall, Sean
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
  - Hebert, Ben
+ - Higgs, Jake
  - Hodgson, Colin
  - Horgan, Tanner
  - Howard, Glenn
@@ -117,11 +141,15 @@ vs:
  - Kidby, Dustin
  - Koe, Jamie
  - Koe, Kevin
+ - Kohlenberg, Dale
  - Laing, Brent
  - Laycock, Steve
  - LeCocq, Marc
  - Lemay, Philippe
+ - Lequin, Bradley
  - Likely, John
+ - MacAulay, Ian
+ - MacDonald, Edmund
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
@@ -141,7 +169,10 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
+ - O'Rourke, Mark
  - Pinder, Jordan
+ - Quevillon, Louis
  - Rach, Dave
  - Richard, Jeff
  - Saccary, Scott
@@ -154,6 +185,7 @@ vs:
  - Skauge, Greg
  - Smallwood, Robert
  - Smith, Greg
+ - Smitheram, Christian
  - Solberg, Jonathon
  - Stapleton, Connor
  - Sylvain, Eric

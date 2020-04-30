@@ -74,6 +74,50 @@ vs:
     year: 2015
     draw: Round Robin(10)
     score: NL 5 - CA 11
+- name: Curtis, Erica
+  totals:
+  - event: Hearts
+    player1:
+      percent: 87
+      wins: 2
+      losses: 0
+    player2:
+      percent: 78
+      wins: 0
+      losses: 2
+  games:
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: NL
+      position: Lead
+      percent: 94
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2017
+    draw: Round Robin(11)
+    score: NL 3 - ON 6
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: NL
+      position: Fourth
+      percent: 61
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(3)
+    score: NL 5 - ON 10
 - name: Curtis, Stacie
   totals:
   - event: Hearts
@@ -274,13 +318,13 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 84
-      wins: 1
+      percent: 87
+      wins: 2
       losses: 0
     player2:
-      percent: 85
+      percent: 76
       wins: 0
-      losses: 1
+      losses: 2
   games:
   - player1:
       team: 'ON'
@@ -298,6 +342,22 @@ vs:
     year: 2017
     draw: Round Robin(11)
     score: NL 3 - ON 6
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: NL
+      position: Second
+      percent: 67
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(3)
+    score: NL 5 - ON 10
 - name: Doig, Deanna
   totals:
   - event: Hearts
@@ -386,13 +446,13 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 90
-      wins: 1
+      percent: 83
+      wins: 2
       losses: 0
     player2:
-      percent: 74
+      percent: 72
       wins: 0
-      losses: 1
+      losses: 2
   games:
   - player1:
       team: AB
@@ -410,6 +470,66 @@ vs:
     year: 2014
     draw: Round Robin(1)
     score: TR 5 - AB 7
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 73
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Third
+      percent: 69
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(13)
+    score: ON 9 - YT 3
+- name: Einarson, Kerri
+  totals:
+  - event: Hearts
+    player1:
+      percent: 89
+      wins: 0
+      losses: 2
+    player2:
+      percent: 88
+      wins: 2
+      losses: 0
+  games:
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 94
+      win: 0
+      loss: 1
+    player2:
+      team: MB
+      position: Fourth
+      percent: 94
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2020
+    draw: Pool(19)
+    score: ON 6 - MB 9
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 84
+      win: 0
+      loss: 1
+    player2:
+      team: MB
+      position: Fourth
+      percent: 82
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2020
+    draw: Final(23)
+    score: ON 7 - MB 8
 - name: Englot, Michelle
   totals:
   - event: Hearts
@@ -527,13 +647,13 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 84
-      wins: 0
+      percent: 85
+      wins: 1
       losses: 3
     player2:
-      percent: 81
+      percent: 79
       wins: 3
-      losses: 0
+      losses: 1
   - event: Trials (Women)
     player1:
       percent: 93
@@ -592,6 +712,22 @@ vs:
     year: 2019
     draw: Final(23)
     score: ON 6 - AB 8
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: CA
+      position: Second
+      percent: 71
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Pool(17)
+    score: CA 4 - ON 8
   - player1:
       team: Homa
       position: Second
@@ -862,13 +998,13 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 88
-      wins: 1
+      percent: 86
+      wins: 2
       losses: 0
     player2:
-      percent: 68
+      percent: 66
       wins: 0
-      losses: 1
+      losses: 2
   games:
   - player1:
       team: 'ON'
@@ -886,6 +1022,22 @@ vs:
     year: 2017
     draw: Round Robin(9)
     score: NT 4 - ON 7
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: NT
+      position: Second
+      percent: 64
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(11)
+    score: NT 5 - ON 9
 - name: Gannon, Melissa
   totals:
   - event: Hearts
@@ -942,17 +1094,17 @@ vs:
     year: 2015
     draw: Round Robin(17)
     score: NO 4 - CA 6
-- name: Gates, Jenny
+- name: Gates, Jennifer
   totals:
   - event: Hearts
     player1:
-      percent: 78
-      wins: 2
+      percent: 77
+      wins: 4
       losses: 0
     player2:
-      percent: 70
+      percent: 78
       wins: 0
-      losses: 2
+      losses: 4
   games:
   - player1:
       team: 'ON'
@@ -986,6 +1138,38 @@ vs:
     year: 2019
     draw: Page 3-4(20)
     score: ON 6 - NO 4
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: 'NO'
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Pool(16)
+    score: ON 9 - NO 4
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 71
+      win: 1
+      loss: 0
+    player2:
+      team: 'NO'
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Page 3-4(20)
+    score: ON 9 - NO 5
 - name: Griffin, Alison
   totals:
   - event: Hearts
@@ -1014,6 +1198,34 @@ vs:
     year: 2019
     draw: Round Robin(3)
     score: NU 4 - ON 12
+- name: Hamilton, Beth
+  totals:
+  - event: Hearts
+    player1:
+      percent: 90
+      wins: 1
+      losses: 0
+    player2:
+      percent: 90
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: NL
+      position: Lead
+      percent: 90
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(3)
+    score: NL 5 - ON 10
 - name: Hastings, Julie
   totals:
   - event: Hearts
@@ -1042,6 +1254,34 @@ vs:
     year: 2015
     draw: Round Robin(5)
     score: CA 10 - ON 7
+- name: Hawes, Dezaray
+  totals:
+  - event: Hearts
+    player1:
+      percent: 80
+      wins: 1
+      losses: 0
+    player2:
+      percent: 83
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 80
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Second
+      percent: 83
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(8)
+    score: BC 7 - ON 9
 - name: Hill, Trish
   totals:
   - event: Hearts
@@ -1143,12 +1383,12 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 85
-      wins: 2
-      losses: 0
-    player2:
       percent: 80
-      wins: 0
+      wins: 2
+      losses: 1
+    player2:
+      percent: 79
+      wins: 1
       losses: 2
   games:
   - player1:
@@ -1183,17 +1423,33 @@ vs:
     year: 2019
     draw: Pool(18)
     score: PE 6 - ON 7
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 69
+      win: 0
+      loss: 1
+    player2:
+      team: PE
+      position: Second
+      percent: 76
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2020
+    draw: Round Robin(5)
+    score: ON 8 - PE 9
 - name: Hunkin, Jessie
   totals:
   - event: Hearts
     player1:
-      percent: 79
-      wins: 1
+      percent: 82
+      wins: 2
       losses: 1
     player2:
-      percent: 77
+      percent: 74
       wins: 1
-      losses: 1
+      losses: 2
   games:
   - player1:
       team: 'ON'
@@ -1227,17 +1483,33 @@ vs:
     year: 2019
     draw: Semi-Final(22)
     score: ON 9 - SK 7
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: SK
+      position: Second
+      percent: 63
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Pool(18)
+    score: SK 4 - ON 9
 - name: Jones, Jennifer
   totals:
   - event: Hearts
     player1:
-      percent: 85
-      wins: 1
+      percent: 84
+      wins: 3
       losses: 1
     player2:
-      percent: 76
+      percent: 73
       wins: 1
-      losses: 1
+      losses: 3
   - event: Trials (Women)
     player1:
       percent: 80
@@ -1280,6 +1552,38 @@ vs:
     year: 2019
     draw: Pool(17)
     score: ON 9 - CA 6
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: WC
+      position: Fourth
+      percent: 71
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(2)
+    score: WC 6 - ON 9
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 82
+      win: 1
+      loss: 0
+    player2:
+      team: WC
+      position: Fourth
+      percent: 71
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Semi-Final(22)
+    score: WC 3 - ON 8
   - player1:
       team: SWE
       position: Third
@@ -1501,6 +1805,34 @@ vs:
     year: 2017
     draw: Round Robin(6)
     score: ON 6 - AB 4
+- name: Klymchuk, Ashley
+  totals:
+  - event: Hearts
+    player1:
+      percent: 80
+      wins: 1
+      losses: 0
+    player2:
+      percent: 88
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 80
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(8)
+    score: BC 7 - ON 9
 - name: Knezevic, Patti
   totals:
   - event: Hearts
@@ -1561,13 +1893,13 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 90
-      wins: 1
+      percent: 88
+      wins: 2
       losses: 0
     player2:
-      percent: 78
+      percent: 71
       wins: 0
-      losses: 1
+      losses: 2
   games:
   - player1:
       team: AB
@@ -1585,6 +1917,22 @@ vs:
     year: 2014
     draw: Round Robin(1)
     score: TR 5 - AB 7
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: NT
+      position: Third
+      percent: 64
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(11)
+    score: NT 5 - ON 9
 - name: Korab, Stephanie
   totals:
   - event: Hearts
@@ -1767,13 +2115,13 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 85
-      wins: 1
+      percent: 84
+      wins: 3
       losses: 1
     player2:
       percent: 77
       wins: 1
-      losses: 1
+      losses: 3
   - event: Trials (Women)
     player1:
       percent: 80
@@ -1816,6 +2164,38 @@ vs:
     year: 2019
     draw: Pool(17)
     score: ON 9 - CA 6
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: WC
+      position: Third
+      percent: 78
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(2)
+    score: WC 6 - ON 9
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 82
+      win: 1
+      loss: 0
+    player2:
+      team: WC
+      position: Third
+      percent: 76
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Semi-Final(22)
+    score: WC 3 - ON 8
   - player1:
       team: SWE
       position: Third
@@ -1869,12 +2249,12 @@ vs:
   - event: Hearts
     player1:
       percent: 84
-      wins: 4
+      wins: 5
       losses: 3
     player2:
-      percent: 76
+      percent: 75
       wins: 3
-      losses: 4
+      losses: 5
   - event: Trials (Women)
     player1:
       percent: 81
@@ -1998,6 +2378,22 @@ vs:
     draw: Semi-Final(22)
     score: ON 9 - SK 7
   - player1:
+      team: 'ON'
+      position: Second
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: SK
+      position: Third
+      percent: 69
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Pool(18)
+    score: SK 4 - ON 9
+  - player1:
       team: SWE
       position: Third
       percent: 81
@@ -2017,13 +2413,13 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 86
-      wins: 4
+      percent: 83
+      wins: 6
       losses: 0
     player2:
-      percent: 77
+      percent: 75
       wins: 0
-      losses: 4
+      losses: 6
   - event: Trials (Women)
     player1:
       percent: 79
@@ -2099,6 +2495,38 @@ vs:
     draw: Page 3-4(20)
     score: ON 6 - NO 4
   - player1:
+      team: 'ON'
+      position: Second
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: 'NO'
+      position: Third
+      percent: 61
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Pool(16)
+    score: ON 9 - NO 4
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 71
+      win: 1
+      loss: 0
+    player2:
+      team: 'NO'
+      position: Third
+      percent: 76
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Page 3-4(20)
+    score: ON 9 - NO 5
+  - player1:
       team: Homa
       position: Second
       percent: 79
@@ -2114,6 +2542,34 @@ vs:
     year: 2017
     draw: Round Robin(6)
     score: McCa 2 - Homa 4
+- name: Logan, Emma
+  totals:
+  - event: Hearts
+    player1:
+      percent: 76
+      wins: 1
+      losses: 0
+    player2:
+      percent: 83
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 76
+      win: 1
+      loss: 0
+    player2:
+      team: NS
+      position: Lead
+      percent: 83
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(10)
+    score: ON 10 - NS 7
 - name: MacCuish, Kristin
   totals:
   - event: Hearts
@@ -2318,13 +2774,13 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 86
-      wins: 4
+      percent: 83
+      wins: 6
       losses: 0
     player2:
-      percent: 75
+      percent: 73
       wins: 0
-      losses: 4
+      losses: 6
   - event: Trials (Women)
     player1:
       percent: 79
@@ -2399,6 +2855,38 @@ vs:
     year: 2019
     draw: Page 3-4(20)
     score: ON 6 - NO 4
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: 'NO'
+      position: Fourth
+      percent: 55
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Pool(16)
+    score: ON 9 - NO 4
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 71
+      win: 1
+      loss: 0
+    player2:
+      team: 'NO'
+      position: Fourth
+      percent: 78
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Page 3-4(20)
+    score: ON 9 - NO 5
   - player1:
       team: Homa
       position: Second
@@ -2488,13 +2976,13 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 85
-      wins: 1
+      percent: 84
+      wins: 3
       losses: 1
     player2:
-      percent: 92
+      percent: 90
       wins: 1
-      losses: 1
+      losses: 3
   - event: Trials (Women)
     player1:
       percent: 80
@@ -2537,6 +3025,38 @@ vs:
     year: 2019
     draw: Pool(17)
     score: ON 9 - CA 6
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: WC
+      position: Lead
+      percent: 79
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(2)
+    score: WC 6 - ON 9
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 82
+      win: 1
+      loss: 0
+    player2:
+      team: WC
+      position: Lead
+      percent: 97
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Semi-Final(22)
+    score: WC 3 - ON 8
   - player1:
       team: SWE
       position: Third
@@ -2617,12 +3137,12 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 82
+      percent: 78
       wins: 3
-      losses: 0
+      losses: 1
     player2:
       percent: 74
-      wins: 0
+      wins: 1
       losses: 3
   games:
   - player1:
@@ -2673,6 +3193,66 @@ vs:
     year: 2019
     draw: Pool(18)
     score: PE 6 - ON 7
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 69
+      win: 0
+      loss: 1
+    player2:
+      team: PE
+      position: Lead
+      percent: 75
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2020
+    draw: Round Robin(5)
+    score: ON 8 - PE 9
+- name: Meilleur, Briane
+  totals:
+  - event: Hearts
+    player1:
+      percent: 89
+      wins: 0
+      losses: 2
+    player2:
+      percent: 90
+      wins: 2
+      losses: 0
+  games:
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 94
+      win: 0
+      loss: 1
+    player2:
+      team: MB
+      position: Lead
+      percent: 87
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2020
+    draw: Pool(19)
+    score: ON 6 - MB 9
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 84
+      win: 0
+      loss: 1
+    player2:
+      team: MB
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2020
+    draw: Final(23)
+    score: ON 7 - MB 8
 - name: Miskew, Emma
   totals:
   - event: Hearts
@@ -3128,13 +3708,13 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 89
-      wins: 2
+      percent: 87
+      wins: 4
       losses: 0
     player2:
-      percent: 85
+      percent: 79
       wins: 0
-      losses: 2
+      losses: 4
   - event: Trials (Women)
     player1:
       percent: 88
@@ -3177,6 +3757,38 @@ vs:
     year: 2019
     draw: Pool(17)
     score: ON 9 - CA 6
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: WC
+      position: Second
+      percent: 71
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(2)
+    score: WC 6 - ON 9
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 82
+      win: 1
+      loss: 0
+    player2:
+      team: WC
+      position: Second
+      percent: 71
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Semi-Final(22)
+    score: WC 3 - ON 8
   - player1:
       team: Homa
       position: Second
@@ -3338,6 +3950,34 @@ vs:
     year: 2019
     draw: Round Robin(13)
     score: ON 8 - BC 6
+- name: Pincott, Erin
+  totals:
+  - event: Hearts
+    player1:
+      percent: 80
+      wins: 1
+      losses: 0
+    player2:
+      percent: 84
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 80
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Third
+      percent: 84
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(8)
+    score: BC 7 - ON 9
 - name: Pinksen, Sadie
   totals:
   - event: Hearts
@@ -3366,17 +4006,45 @@ vs:
     year: 2019
     draw: Round Robin(3)
     score: NU 4 - ON 12
+- name: Plonka, Gabrielle
+  totals:
+  - event: Hearts
+    player1:
+      percent: 73
+      wins: 1
+      losses: 0
+    player2:
+      percent: 63
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 73
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Second
+      percent: 63
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(13)
+    score: ON 9 - YT 3
 - name: Porter, Erin
   totals:
   - event: Hearts
     player1:
-      percent: 84
-      wins: 1
+      percent: 87
+      wins: 2
       losses: 0
     player2:
-      percent: 78
+      percent: 70
       wins: 0
-      losses: 1
+      losses: 2
   games:
   - player1:
       team: 'ON'
@@ -3394,6 +4062,22 @@ vs:
     year: 2017
     draw: Round Robin(11)
     score: NL 3 - ON 6
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: NL
+      position: Third
+      percent: 61
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(3)
+    score: NL 5 - ON 10
 - name: Potts, Sarah
   totals:
   - event: Hearts
@@ -3579,6 +4263,59 @@ vs:
     year: 2017
     draw: Round Robin(3)
     score: BC 3 - ON 9
+- name: Rizzo, Jo-Ann
+  totals:
+  - event: Hearts
+    player1:
+      percent: 84
+      wins: 1
+      losses: 0
+    player2:
+      percent: 77
+      wins: 0
+      losses: 1
+  - event: Trials (Women)
+    player1:
+      percent: 85
+      wins: 0
+      losses: 1
+    player2:
+      percent: 76
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: NT
+      position: Fourth
+      percent: 77
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(11)
+    score: NT 5 - ON 9
+  - player1:
+      team: SWE
+      position: Third
+      percent: 85
+      win: 0
+      loss: 1
+    player2:
+      team: MID
+      position: Third
+      percent: 76
+      win: 1
+      loss: 0
+    event: Trials (Women)
+    year: 2013
+    draw: Round Robin(9)
+    score: MID 7 - SWE 6
 - name: Robichaud, Sylvie
   totals:
   - event: Hearts
@@ -3812,12 +4549,12 @@ vs:
   - event: Hearts
     player1:
       percent: 88
-      wins: 2
+      wins: 3
       losses: 1
     player2:
-      percent: 80
+      percent: 79
       wins: 1
-      losses: 2
+      losses: 3
   games:
   - player1:
       team: CA
@@ -3867,6 +4604,22 @@ vs:
     year: 2015
     draw: Bronze(21)
     score: CA 7 - SK 5
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: SK
+      position: Second
+      percent: 67
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Pool(18)
+    score: SK 4 - ON 9
 - name: Schneider, Lorraine
   totals:
   - event: Hearts
@@ -3927,13 +4680,13 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 79
-      wins: 1
+      percent: 82
+      wins: 2
       losses: 1
     player2:
-      percent: 76
+      percent: 70
       wins: 1
-      losses: 1
+      losses: 2
   games:
   - player1:
       team: 'ON'
@@ -3967,6 +4720,22 @@ vs:
     year: 2019
     draw: Semi-Final(22)
     score: ON 9 - SK 7
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: SK
+      position: Fourth
+      percent: 56
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Pool(18)
+    score: SK 4 - ON 9
 - name: Sinclair, Andrea
   totals:
   - event: Hearts
@@ -4068,13 +4837,13 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 94
-      wins: 2
+      percent: 86
+      wins: 4
       losses: 0
     player2:
-      percent: 83
+      percent: 78
       wins: 0
-      losses: 2
+      losses: 4
   - event: Trials (Women)
     player1:
       percent: 79
@@ -4117,6 +4886,38 @@ vs:
     year: 2017
     draw: Semi-Final(20)
     score: NO 5 - ON 7
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: 'NO'
+      position: Second
+      percent: 64
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Pool(16)
+    score: ON 9 - NO 4
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 71
+      win: 1
+      loss: 0
+    player2:
+      team: 'NO'
+      position: Second
+      percent: 76
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Page 3-4(20)
+    score: ON 9 - NO 5
   - player1:
       team: Homa
       position: Second
@@ -4293,12 +5094,12 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 78
+      percent: 85
       wins: 0
-      losses: 1
+      losses: 3
     player2:
-      percent: 89
-      wins: 1
+      percent: 88
+      wins: 3
       losses: 0
   - event: Trials (Women)
     player1:
@@ -4327,6 +5128,38 @@ vs:
     draw: Round Robin(15)
     score: AB 7 - CA 6
   - player1:
+      team: 'ON'
+      position: Second
+      percent: 94
+      win: 0
+      loss: 1
+    player2:
+      team: MB
+      position: Third
+      percent: 93
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2020
+    draw: Pool(19)
+    score: ON 6 - MB 9
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 84
+      win: 0
+      loss: 1
+    player2:
+      team: MB
+      position: Third
+      percent: 83
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2020
+    draw: Final(23)
+    score: ON 7 - MB 8
+  - player1:
       team: Homa
       position: Second
       percent: 93
@@ -4342,6 +5175,34 @@ vs:
     year: 2017
     draw: Round Robin(17)
     score: Swee 5 - Homa 7
+- name: Taylor, Susan
+  totals:
+  - event: Hearts
+    player1:
+      percent: 89
+      wins: 1
+      losses: 0
+    player2:
+      percent: 73
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: SK
+      position: Lead
+      percent: 73
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Pool(18)
+    score: SK 4 - ON 9
 - name: Thevenot, Kara
   totals:
   - event: Hearts
@@ -4511,34 +5372,6 @@ vs:
     year: 2013
     draw: Round Robin(11)
     score: SWE 4 - CAR 6
-- name: Trickett, Erica
-  totals:
-  - event: Hearts
-    player1:
-      percent: 84
-      wins: 1
-      losses: 0
-    player2:
-      percent: 94
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: 'ON'
-      position: Second
-      percent: 84
-      win: 1
-      loss: 0
-    player2:
-      team: NL
-      position: Lead
-      percent: 94
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2017
-    draw: Round Robin(11)
-    score: NL 3 - ON 6
 - name: Trombley, Christy
   totals:
   - event: Hearts
@@ -4567,6 +5400,34 @@ vs:
     year: 2015
     draw: Round Robin(5)
     score: CA 10 - ON 7
+- name: Tuor, Kimberly
+  totals:
+  - event: Hearts
+    player1:
+      percent: 73
+      wins: 1
+      losses: 0
+    player2:
+      percent: 79
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 73
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Lead
+      percent: 79
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Round Robin(13)
+    score: ON 9 - YT 3
 - name: Udle, Teri
   totals:
   - event: Hearts
@@ -4865,13 +5726,13 @@ vs:
   totals:
   - event: Hearts
     player1:
-      percent: 86
-      wins: 1
+      percent: 87
+      wins: 2
       losses: 2
     player2:
-      percent: 78
+      percent: 79
       wins: 2
-      losses: 1
+      losses: 2
   games:
   - player1:
       team: 'ON'
@@ -4921,6 +5782,22 @@ vs:
     year: 2019
     draw: Final(23)
     score: ON 6 - AB 8
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: CA
+      position: Third
+      percent: 83
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2020
+    draw: Pool(17)
+    score: CA 4 - ON 8
 - name: Wilson, Leslie
   totals:
   - event: Hearts
@@ -5402,34 +6279,6 @@ vs:
     year: 2013
     draw: Round Robin(12)
     score: SWE 8 - SON 9
-- name: Rizzo, Jo-Ann
-  totals:
-  - event: Trials (Women)
-    player1:
-      percent: 85
-      wins: 0
-      losses: 1
-    player2:
-      percent: 76
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: SWE
-      position: Third
-      percent: 85
-      win: 0
-      loss: 1
-    player2:
-      team: MID
-      position: Third
-      percent: 76
-      win: 1
-      loss: 0
-    event: Trials (Women)
-    year: 2013
-    draw: Round Robin(9)
-    score: MID 7 - SWE 6
 - name: Scheidegger, Casey
   totals:
   - event: Trials (Women)

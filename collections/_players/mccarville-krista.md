@@ -4,18 +4,18 @@ name: Krista McCarville
 name-sort: McCarville, Krista
 totals:
 - event: Hearts
-  games: 88
-  wins: 51
-  losses: 37
-  inturn-total: 852
+  games: 100
+  wins: 59
+  losses: 41
+  inturn-total: 966
   inturn-percent: 76
-  outturn-total: 831
+  outturn-total: 946
   outturn-percent: 76
-  draw-total: 819
+  draw-total: 926
   draw-percent: 74
-  takeout-total: 864
-  takeout-percent: 77
-  shots-total: 1683
+  takeout-total: 986
+  takeout-percent: 78
+  shots-total: 1912
   shots-percent: 76
 - event: Trials (Women)
   games: 18
@@ -151,6 +151,23 @@ years:
   takeout-percent: 81
   shots-total: 232
   shots-percent: 81
+- year: 2020
+  event: Hearts
+  team: 'NO'
+  position: Fourth
+  games: 12
+  wins: 8
+  losses: 4
+  inturn-total: 114
+  inturn-percent: 78
+  outturn-total: 115
+  outturn-percent: 78
+  draw-total: 107
+  draw-percent: 73
+  takeout-total: 122
+  takeout-percent: 82
+  shots-total: 229
+  shots-percent: 78
 - year: 2009
   event: Trials (Women)
   team: MCCA
@@ -190,6 +207,7 @@ vs:
 - Alcoe-Holland, Jill
 - Aleksic, Shannon
 - Armstrong, Jacquie
+- Armstrong, Jennifer
 - Arnott, Janet
 - Arsenault, Mary-Anne
 - Atkinson, Rebecca
@@ -201,6 +219,7 @@ vs:
 - Bell, Chelsey
 - Bernard, Cheryl
 - Betker, Jan
+- Birchard, Shannon
 - Birt, Suzanne
 - Blaney, Jennifer
 - Bobbie, Tess
@@ -210,6 +229,7 @@ vs:
 - Bradley, Shelly
 - Brine, Jenn
 - Brothers, Jill
+- Brown, Corryn
 - Brown, Jacalyn
 - Brown, Rachel
 - Burgess, Carey
@@ -227,11 +247,13 @@ vs:
 - Comeau, Martine
 - Comeau, Sandy
 - Cormier, Sharon
+- Cote, Marie-Pier
 - Court, Morgan
 - Courtney, Joanne
 - Crawford, Andrea
 - Crouse, Jennifer
 - Cunningham, Cathy
+- Curtis, Erica
 - Curtis, Stacie
 - Cutcliffe, Margaret
 - Daigle, Julie
@@ -245,6 +267,7 @@ vs:
 - Devereaux, Julie
 - Doig, Deanna
 - Duhaime, Chantal
+- Eddy, Lori
 - Einarson, Kerri
 - Einarson, Megan
 - Ellis, Danielle
@@ -254,6 +277,7 @@ vs:
 - Ferguson, Dana
 - Flaxey, Allison
 - Fleury, Tracy
+- Forward, Katie
 - Fullerton, Sarah
 - Fyfe, Liz
 - Gagnier, Monique
@@ -270,6 +294,7 @@ vs:
 - Hardy, Shelley
 - Harrison, Meredith
 - Harvey, Janet
+- Hawes, Dezaray
 - Hill, Trish
 - Holland, Amber
 - Hollands, Saskia
@@ -287,6 +312,7 @@ vs:
 - Kelly, Kim
 - King, Cathy
 - Kleibrink, Shannon
+- Klymchuk, Ashley
 - Koehler, Megan
 - Kreviazuk, Lynn
 - Larouche, Marie-France
@@ -302,6 +328,7 @@ vs:
 - Lowther, Tammi
 - MacCuish, Kristin
 - MacDiarmid, Kristen
+- MacDonald, Kaitlin
 - MacDonald, Rebecca Jean
 - MacInnes, Grace
 - MacPhee, Robyn
@@ -312,9 +339,11 @@ vs:
 - Mattatall, Mary
 - McCagg-Nystrom, Heather
 - McConnery, Nancy
+- McDonald, Taylor
 - McEwen, Dawn
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
+- Meilleur, Briane
 - Miskew, Emma
 - Moore, Kristie
 - More, Whitney
@@ -345,6 +374,7 @@ vs:
 - Peters, Laine
 - Phillips, Kristen
 - Pilote, Kristen
+- Pincott, Erin
 - Pinksen, Sadie
 - Porter, Erin
 - Power, Marie-Anne
@@ -360,6 +390,8 @@ vs:
 - Robichaud, Sylvie
 - Rocque, Raylene
 - Rogers, Rhonda
+- Routledge, Alanna
+- Routledge, Jill
 - Rudulier, Andrea
 - Rusnell, Jen
 - Sabourin, Joelle
@@ -372,6 +404,7 @@ vs:
 - Schneider, Lorraine
 - Schneider, Tammy
 - Schraeder, Jeanna
+- Scotland, Nadine
 - Scott, Kelly
 - Sharpe, Kelli
 - Sicinski, Danielle
@@ -385,18 +418,20 @@ vs:
 - Strong, Laura
 - Sweeting, Val
 - Tanner, Ros
+- Taylor, Susan
 - Thevenot, Kara
 - Thiessen, Alison
 - Thomas, Jill
 - Thompson, Karla
 - Thurston, Jill
 - Tippin, Julie
-- Trickett, Erica
 - Udle, Teri
 - Vandale, Trysta
 - Vautour, Carrie
+- Verreault, Noemie
 - Vey, Lana
 - Vink, Rachelle
+- Walker, Laura
 - Wark, Sarah
 - Weagle, Lisa
 - Webster, Bronwen

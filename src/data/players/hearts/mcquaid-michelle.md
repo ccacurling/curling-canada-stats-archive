@@ -4,19 +4,19 @@ name: Michelle McQuaid
 name-sort: McQuaid, Michelle
 totals:
  - event: Hearts
-   games: 41
-   wins: 15
-   losses: 26
-   inturn-total: 416
-   inturn-percent: 81
-   outturn-total: 372
-   outturn-percent: 80
-   draw-total: 582
-   draw-percent: 81
-   takeout-total: 206
-   takeout-percent: 79
-   shots-total: 788
-   shots-percent: 81
+   games: 52
+   wins: 20
+   losses: 32
+   inturn-total: 553
+   inturn-percent: 83
+   outturn-total: 449
+   outturn-percent: 79
+   draw-total: 755
+   draw-percent: 83
+   takeout-total: 247
+   takeout-percent: 78
+   shots-total: 1002
+   shots-percent: 82
 years:
  - year: 2015
    event: Hearts
@@ -86,6 +86,23 @@ years:
    takeout-percent: 84
    shots-total: 211
    shots-percent: 85
+ - year: 2020
+   event: Hearts
+   team: "PE"
+   position: Lead
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 137
+   inturn-percent: 91
+   outturn-total: 77
+   outturn-percent: 76
+   draw-total: 173
+   draw-percent: 88
+   takeout-total: 41
+   takeout-percent: 74
+   shots-total: 214
+   shots-percent: 86
 vs:
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
@@ -100,10 +117,12 @@ vs:
  - Barker, Penny
  - Baxter, Jen
  - Belisle, Eve
+ - Birchard, Shannon
  - Birnie, Hailey
  - Black, Christina
  - Blais, Amelie
  - Boyle, Jane
+ - Brown, Corryn
  - Brown, Rachel
  - Cameron, Kate
  - Camozzi, Rhona
@@ -115,13 +134,16 @@ vs:
  - Courtney, Joanne
  - Crawford, Andrea
  - Cunningham, Jessica
+ - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
  - Devereaux, Julie
  - Doig, Deanna
+ - Duncan, Chelsea
  - Duncan, Hollie
+ - Einarson, Kerri
  - Englot, Michelle
  - Eyamie, Lisa
  - Ferguson, Dana
@@ -131,12 +153,13 @@ vs:
  - Gagnon, Emilia
  - Galusha, Kerry
  - Gates, Amanda
- - Gates, Jenny
+ - Gates, Jennifer
  - Gibson, Amy
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Harvey, Marie-Pier
  - Hastings, Julie
+ - Hawes, Dezaray
  - Hill, Trish
  - Homan, Rachel
  - Hunkin, Jessie
@@ -145,6 +168,7 @@ vs:
  - Karwacki, Krysten
  - Kasner, Marliese
  - Kleibrink, Shannon
+ - Klymchuk, Ashley
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
@@ -154,6 +178,7 @@ vs:
  - Lawton, Stefanie
  - LeDrew, Stephanie
  - Lilly, Kendra
+ - Logan, Emma
  - Mackey, Robyn
  - Mallett, Marla
  - Mann, Lauren
@@ -162,6 +187,7 @@ vs:
  - McEvoy, Julie
  - McEwen, Dawn
  - McTaggart, Cary-Anne
+ - Meilleur, Briane
  - Miskew, Emma
  - Moore, Kristie
  - Nedohin, Heather
@@ -173,10 +199,13 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Pilote, Kristen
+ - Pincott, Erin
+ - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
  - Richard, Marie
  - Richards, Brette
+ - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Rusnell, Jen
  - Sagle, Karen
@@ -197,11 +226,12 @@ vs:
  - Strong, Heather
  - Strong, Helen
  - Sweeting, Val
+ - Taylor, Susan
  - Thevenot, Kara
  - Thiessen, Alison
  - Tran, Brittany
- - Trickett, Erica
  - Trombley, Christy
+ - Tuor, Kimberly
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika

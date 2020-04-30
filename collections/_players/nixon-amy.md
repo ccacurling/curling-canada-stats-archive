@@ -209,6 +209,7 @@ vs:
 - Courtney, Joanne
 - Crawford, Andrea
 - Cunningham, Cathy
+- Curtis, Erica
 - Curtis, Stacie
 - Cutcliffe, Margaret
 - Darbyshire, Carolyn
@@ -348,7 +349,6 @@ vs:
 - Surik, Teejay
 - Thiessen, Alison
 - Thompson, Karla
-- Trickett, Erica
 - Tuck, Kimberly
 - Udle, Teri
 - Vandale, Trysta

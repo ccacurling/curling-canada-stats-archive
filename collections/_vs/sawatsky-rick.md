@@ -84,10 +84,10 @@ vs:
     player1:
       percent: 89
       wins: 1
-      losses: 0
+      losses: 1
     player2:
       percent: 95
-      wins: 0
+      wins: 1
       losses: 1
   games:
   - player1:
@@ -106,6 +106,50 @@ vs:
     year: 2017
     draw: Round Robin(16)
     score: BC 7 - SK 6
+  - player1:
+      team: BC
+      position: Lead
+      percent: 90
+      win: 0
+      loss: 1
+    player2:
+      team: SK
+      position: Second
+      percent: 95
+      win: 1
+      loss: 0
+    event: Brier
+    year: 2020
+    draw: Round Robin(6)
+    score: BC 8 - SK 9
+- name: Scoffin, Thomas
+  totals:
+  - event: Brier
+    player1:
+      percent: 81
+      wins: 1
+      losses: 0
+    player2:
+      percent: 71
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: BC
+      position: Lead
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Fourth
+      percent: 71
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(12)
+    score: YT 3 - BC 6
 - name: Scoffin, Wade
   totals:
   - event: Brier
@@ -1085,6 +1129,34 @@ vs:
     year: 2019
     draw: Round Robin(6)
     score: BC 4 - CA 10
+- name: Wallingham, Joe
+  totals:
+  - event: Brier
+    player1:
+      percent: 81
+      wins: 1
+      losses: 0
+    player2:
+      percent: 86
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: BC
+      position: Lead
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Lead
+      percent: 86
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(12)
+    score: YT 3 - BC 6
 - name: Whitehead, Kevin
   totals:
   - event: Brier
@@ -1141,6 +1213,34 @@ vs:
     year: 2015
     draw: Round Robin(14)
     score: BC 6 - NT 2
+- name: Winfield, Brett
+  totals:
+  - event: Brier
+    player1:
+      percent: 81
+      wins: 1
+      losses: 0
+    player2:
+      percent: 43
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: BC
+      position: Lead
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: YT
+      position: Second
+      percent: 43
+      win: 0
+      loss: 1
+    event: Brier
+    year: 2020
+    draw: Round Robin(12)
+    score: YT 3 - BC 6
 - name: Wozniak, Matt
   totals:
   - event: Brier

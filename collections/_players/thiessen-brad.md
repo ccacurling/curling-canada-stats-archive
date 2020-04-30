@@ -4,19 +4,19 @@ name: Brad Thiessen
 name-sort: Thiessen, Brad
 totals:
 - event: Brier
-  games: 39
-  wins: 23
-  losses: 16
-  inturn-total: 334
-  inturn-percent: 86
-  outturn-total: 387
+  games: 52
+  wins: 34
+  losses: 18
+  inturn-total: 438
+  inturn-percent: 85
+  outturn-total: 529
   outturn-percent: 86
-  draw-total: 308
-  draw-percent: 87
-  takeout-total: 413
+  draw-total: 402
+  draw-percent: 86
+  takeout-total: 565
   takeout-percent: 85
-  shots-total: 721
-  shots-percent: 86
+  shots-total: 967
+  shots-percent: 85
 - event: Trials (Men)
   games: 8
   wins: 4
@@ -83,6 +83,23 @@ years:
   takeout-percent: 87
   shots-total: 251
   shots-percent: 88
+- year: 2020
+  event: Brier
+  team: AB
+  position: Second
+  games: 13
+  wins: 11
+  losses: 2
+  inturn-total: 104
+  inturn-percent: 82
+  outturn-total: 142
+  outturn-percent: 86
+  draw-total: 94
+  draw-percent: 84
+  takeout-total: 152
+  takeout-percent: 86
+  shots-total: 246
+  shots-percent: 85
 - year: 2017
   event: Trials (Men)
   team: Bott
@@ -103,6 +120,8 @@ years:
 vs:
 - Abel, Clinton
 - Appelman, Tom
+- Asselin, Emile
+- Bedard, Alek
 - Beuk, Jonathan
 - Boland, Adam
 - Borden, Robert
@@ -114,9 +133,11 @@ vs:
 - Casey, Adam
 - Chadwick, Scott
 - Chorostkowski, Brad
+- Cochrane, Bryan
 - Cotter, Jim
 - Crete, Martin
 - Crowell, Phil
+- Currie, Morgan
 - Doherty, Robert
 - Dunstone, Matthew
 - Epping, John
@@ -125,16 +146,19 @@ vs:
 - Flemming, Paul
 - Ford, Chris
 - Forget, Wes
+- Forrest, Alex
 - Fry, Ryan
 - Gallant, Brett
 - Geall, Sean
 - Griffith, Ty
 - Griffith, Tyrel
+- Gunnlaugson, Jason
 - Gushue, Brad
 - Harnden, E.J.
 - Harnden, Ryan
 - Hart, Richard
 - Hebert, Ben
+- Higgs, Jake
 - Hodgson, Colin
 - Horgan, Tanner
 - Howard, Glenn
@@ -149,11 +173,15 @@ vs:
 - Kidby, Dustin
 - Koe, Jamie
 - Koe, Kevin
+- Kohlenberg, Dale
 - Laing, Brent
 - Laycock, Steve
 - LeCocq, Marc
 - Lemay, Philippe
+- Lequin, Bradley
 - Likely, John
+- MacAulay, Ian
+- MacDonald, Edmund
 - March, Tim
 - Marsh, Dan
 - Marsh, Kevin
@@ -173,7 +201,10 @@ vs:
 - Neufeld, B.J.
 - Neufeld, Denni
 - Nichols, Mark
+- Njegovan, Connor
+- O'Rourke, Mark
 - Pinder, Jordan
+- Quevillon, Louis
 - Rach, Dave
 - Richard, Jeff
 - Saccary, Scott
@@ -186,6 +217,7 @@ vs:
 - Skauge, Greg
 - Smallwood, Robert
 - Smith, Greg
+- Smitheram, Christian
 - Solberg, Jonathon
 - Stapleton, Connor
 - Sylvain, Eric

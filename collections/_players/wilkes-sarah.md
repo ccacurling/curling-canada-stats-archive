@@ -4,18 +4,18 @@ name: Sarah Wilkes
 name-sort: Wilkes, Sarah
 totals:
  - event: Hearts
-   games: 27
-   wins: 18
-   losses: 9
-   inturn-total: 229
+   games: 38
+   wins: 23
+   losses: 15
+   inturn-total: 343
    inturn-percent: 81
-   outturn-total: 253
+   outturn-total: 351
    outturn-percent: 83
-   draw-total: 179
+   draw-total: 267
    draw-percent: 81
-   takeout-total: 303
+   takeout-total: 427
    takeout-percent: 83
-   shots-total: 482
+   shots-total: 694
    shots-percent: 82
 years:
  - year: 2015
@@ -102,13 +102,33 @@ years:
    takeout-percent: 80
    shots-total: 258
    shots-percent: 80
+ - year: 2020
+   event: Hearts
+   team: "CA"
+   position: Third
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 114
+   inturn-percent: 81
+   outturn-total: 98
+   outturn-percent: 82
+   draw-total: 88
+   draw-percent: 82
+   takeout-total: 124
+   takeout-percent: 82
+   shots-total: 212
+   shots-percent: 82
 vs:
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Anderson, Sherry
+ - Armstrong, Jennifer
  - Atkinson, Rebecca
+ - Babin, Jillian
  - Barker, Penny
  - Belisle, Eve
+ - Birchard, Shannon
  - Birt, Suzanne
  - Blais, Amelie
  - Blaney, Jennifer
@@ -117,26 +137,34 @@ vs:
  - Boyle, Jane
  - Brine, Jenn
  - Brothers, Jill
+ - Brown, Corryn
  - Cameron, Kate
  - Carey, Chelsea
  - Carmody, Erin
  - Christianson, Marie
  - Cormier, Sharon
+ - Cote, Marie-Pier
  - Courtney, Joanne
+ - Crawford, Andrea
+ - Curtis, Erica
  - Curtis, Stacie
  - Daigle, Julie
  - deJager, Blaine
  - Derry, Danielle
  - Devereaux, Julie
  - Doig, Deanna
+ - Eddy, Lori
+ - Einarson, Kerri
  - Englot, Michelle
  - Filteau, Anne-Marie
  - Fleury, Tracy
+ - Forward, Katie
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
- - Gates, Jenny
+ - Gates, Jennifer
  - Griffin, Alison
+ - Hawes, Dezaray
  - Hill, Trish
  - Homan, Rachel
  - Hughes, Meaghan
@@ -144,20 +172,24 @@ vs:
  - Ingram, Megan
  - Jones, Jennifer
  - Kasner, Marliese
+ - Klymchuk, Ashley
  - Koehler, Megan
  - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
  - MacCuish, Kristin
+ - MacDonald, Kaitlin
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
  - Mattatall, Mary
  - McCarville, Krista
+ - McDonald, Taylor
  - McEvoy, Julie
  - McEwen, Dawn
  - McQuaid, Michelle
+ - Meilleur, Briane
  - Miskew, Emma
  - Munroe, Anna
  - Murphy, Sarah
@@ -167,22 +199,29 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Pilote, Kristen
+ - Pincott, Erin
  - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
  - Richard, Marie
  - Richards, Brette
  - Robichaud, Sylvie
+ - Routledge, Alanna
+ - Routledge, Jill
  - Rusnell, Jen
  - Sandwith, Carley
  - Saulnier, Andrea
  - Schmidt, Stephanie
  - Schneider, Lorraine
+ - Scotland, Nadine
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley
+ - Sweeting, Val
+ - Taylor, Susan
  - Thevenot, Kara
- - Trickett, Erica
+ - Verreault, Noemie
+ - Walker, Laura
  - Wark, Sarah
  - Weagle, Lisa
  - Westcott, Raunora

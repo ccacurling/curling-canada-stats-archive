@@ -4,18 +4,18 @@ name: Jennifer Jones
 name-sort: Jones, Jennifer
 totals:
  - event: Hearts
-   games: 187
-   wins: 141
-   losses: 46
-   inturn-total: 1780
+   games: 200
+   wins: 150
+   losses: 50
+   inturn-total: 1892
    inturn-percent: 80
-   outturn-total: 1612
+   outturn-total: 1737
    outturn-percent: 78
-   draw-total: 1535
+   draw-total: 1649
    draw-percent: 78
-   takeout-total: 1857
+   takeout-total: 1980
    takeout-percent: 80
-   shots-total: 3392
+   shots-total: 3629
    shots-percent: 79
 years:
  - year: 2002
@@ -256,6 +256,23 @@ years:
    takeout-percent: 74
    shots-total: 209
    shots-percent: 73
+ - year: 2020
+   event: Hearts
+   team: "WC"
+   position: Fourth
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 112
+   inturn-percent: 78
+   outturn-total: 125
+   outturn-percent: 73
+   draw-total: 114
+   draw-percent: 77
+   takeout-total: 123
+   takeout-percent: 74
+   shots-total: 237
+   shots-percent: 75
 vs:
  - Adams, Melissa
  - Affleck, Tricia
@@ -282,6 +299,7 @@ vs:
  - Bernard, Cheryl
  - Bernard, Krista
  - Betker, Jan
+ - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
@@ -295,6 +313,7 @@ vs:
  - Brennan, Amanda
  - Brine, Jenn
  - Brothers, Jill
+ - Brown, Corryn
  - Brown, Jacalyn
  - Brown, Janet
  - Brown, Rachel
@@ -314,6 +333,7 @@ vs:
  - Chisholm, Candace
  - Christianson, Marie
  - Clark, Stefanie
+ - Clark-Rouire, Jennifer
  - Clarke, Hayley
  - Collins, Katrina
  - Comeau, Martine
@@ -327,6 +347,7 @@ vs:
  - Cunningham, Cathy
  - Cunningham, Jennifer
  - Cunningham, Jessica
+ - Curtis, Erica
  - Curtis, Stacie
  - Daniel, Sylvie
  - Darbyshire, Carolyn
@@ -365,7 +386,7 @@ vs:
  - Gagnon, Nathalie
  - Galusha, Kerry
  - Gates, Amanda
- - Gates, Jenny
+ - Gates, Jennifer
  - George, Tara
  - Gibson, Amy
  - Gignac, Donna
@@ -385,6 +406,7 @@ vs:
  - Harrison, Meredith
  - Harvey, Janet
  - Hastings, Julie
+ - Hawes, Dezaray
  - Hodson, Kim
  - Holland, Amber
  - Hollands, Saskia
@@ -408,6 +430,7 @@ vs:
  - Kidd, Darlene
  - King, Cathy
  - Kleibrink, Shannon
+ - Klymchuk, Ashley
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
@@ -430,6 +453,7 @@ vs:
  - Lilly, Kendra
  - Lister, Kendra
  - Loder, Cherie-Ann
+ - Logan, Emma
  - Lowther, Tammi
  - MacCuish, Kristin
  - MacDiarmid, Kristen
@@ -491,8 +515,11 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Phillips, Kristen
  - Pilote, Kristen
+ - Pincott, Erin
+ - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
  - Power, Marie-Anne
@@ -505,6 +532,7 @@ vs:
  - Richard, Marie
  - Richards, Brette
  - Ridalls, Kristen
+ - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Robichaud, Sylvie
  - Robinson, Lori
@@ -532,7 +560,6 @@ vs:
  - Simons, Renee
  - Singler, Sherri
  - Sippala, Ashley
- - Sivertson, Dailene
  - Slywka, Sarah
  - Smallwood, Jody
  - Smith, Heather
@@ -549,6 +576,7 @@ vs:
  - Surik, Teejay
  - Sweeting, Val
  - Tanner, Ros
+ - Taylor, Susan
  - Thevenot, Kara
  - Thomas, Jill
  - Thompson, Karla
@@ -556,6 +584,7 @@ vs:
  - Tran, Brittany
  - Trider, Krista
  - Trombley, Christy
+ - Tuor, Kimberly
  - Udle, Teri
  - Vandale, Trysta
  - Van Osch, Kalia

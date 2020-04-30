@@ -93,6 +93,7 @@ vs:
  - Cormier, Sharon
  - Crawford, Andrea
  - Crouse, Jennifer
+ - Curtis, Erica
  - Curtis, Stacie
  - Daku, Karen
  - Delahunt, Nancy
@@ -172,7 +173,6 @@ vs:
  - Stewart, Sheri
  - Strong, Heather
  - Thiboutot, Isabelle
- - Trickett, Erica
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika

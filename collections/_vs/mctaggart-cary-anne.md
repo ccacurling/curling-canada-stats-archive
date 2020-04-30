@@ -239,34 +239,6 @@ vs:
     year: 2018
     draw: Round Robin(13)
     score: AB 9 - QC 2
-- name: Trickett, Erica
-  totals:
-  - event: Hearts
-    player1:
-      percent: 74
-      wins: 0
-      losses: 1
-    player2:
-      percent: 71
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: AB
-      position: Third
-      percent: 74
-      win: 0
-      loss: 1
-    player2:
-      team: NL
-      position: Lead
-      percent: 71
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2018
-    draw: Round Robin(7)
-    score: AB 5 - NL 9
 - name: Van Osch, Kalia
   totals:
   - event: Hearts

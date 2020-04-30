@@ -87,6 +87,10 @@ years:
   event: Brier
   team: MB
   position: Alternate
+- year: 2020
+  event: Brier
+  team: WC
+  position: Alternate
 - year: 2013
   event: Trials (Men)
   team: MCE

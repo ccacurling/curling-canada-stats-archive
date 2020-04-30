@@ -4,19 +4,19 @@ name: Mike McEwen
 name-sort: McEwen, Mike
 totals:
  - event: Brier
-   games: 49
-   wins: 31
-   losses: 18
-   inturn-total: 406
-   inturn-percent: 83
-   outturn-total: 511
-   outturn-percent: 85
-   draw-total: 341
-   draw-percent: 84
-   takeout-total: 576
+   games: 61
+   wins: 38
+   losses: 23
+   inturn-total: 487
+   inturn-percent: 84
+   outturn-total: 649
+   outturn-percent: 86
+   draw-total: 422
+   draw-percent: 85
+   takeout-total: 714
    takeout-percent: 85
-   shots-total: 917
-   shots-percent: 84
+   shots-total: 1136
+   shots-percent: 85
 years:
  - year: 2016
    event: Brier
@@ -86,8 +86,26 @@ years:
    takeout-percent: 79
    shots-total: 210
    shots-percent: 81
+ - year: 2020
+   event: Brier
+   team: "WC"
+   position: Fourth
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 81
+   inturn-percent: 89
+   outturn-total: 138
+   outturn-percent: 89
+   draw-total: 81
+   draw-percent: 91
+   takeout-total: 138
+   takeout-percent: 88
+   shots-total: 219
+   shots-percent: 89
 vs:
  - Abel, Clinton
+ - Aho, David
  - Appelman, Tom
  - Beuk, Jonathan
  - Boland, Adam
@@ -104,6 +122,7 @@ vs:
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
+ - Dobson, Paul
  - Doherty, Robert
  - Dunstone, Matthew
  - Epping, John
@@ -112,10 +131,13 @@ vs:
  - Flemming, Paul
  - Ford, Chris
  - Forget, Wes
+ - Forrest, Alex
  - Fry, Ryan
  - Gallant, Brett
  - Geall, Sean
+ - Grattan, James
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -127,6 +149,7 @@ vs:
  - Hunt, Matthew
  - Jacobs, Brad
  - Janssen, Patrick
+ - Jensen, Trygg
  - Jewer, Keith
  - Jones, Scott
  - Kennedy, Marc
@@ -145,7 +168,9 @@ vs:
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
+ - McCann, Andy
  - McDonald, Scott
+ - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -158,7 +183,9 @@ vs:
  - Nerpin, Andrew
  - Neufeld, B.J.
  - Nichols, Mark
+ - Njegovan, Connor
  - Odian, Scott
+ - Parsons, Cole
  - Pinder, Jordan
  - Rach, Dave
  - Richard, Jeff
@@ -181,6 +208,8 @@ vs:
  - Thiessen, Brad
  - Thiessen, Nolan
  - Walker, Geoff
+ - Wallingham, Joe
+ - Winfield, Brett
  - Withycombe, Ian
  - Wood, Brad
 ---

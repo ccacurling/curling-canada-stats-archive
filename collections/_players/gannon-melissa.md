@@ -67,11 +67,11 @@ vs:
  - Meakin, Breanne
  - Miskew, Emma
  - Parsons, Danielle
+ - Pewarchuk, Dailene
  - Robison, Michala
  - Sanderson, Jessie
  - Sandwith, Carley
  - Sinclair, Andrea
- - Sivertson, Dailene
  - Smith, Heather
  - Strong, Heather
  - Strong, Laura

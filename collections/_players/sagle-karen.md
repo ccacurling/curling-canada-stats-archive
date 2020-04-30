@@ -69,6 +69,7 @@ vs:
  - Chislett, Geneva
  - Christianson, Marie
  - Crouse, Jennifer
+ - Curtis, Erica
  - Curtis, Stacie
  - Devereaux, Julie
  - Einarson, Kerri
@@ -116,7 +117,6 @@ vs:
  - Shackleton, Amie
  - Sippala, Ashley
  - Thompson, Karla
- - Trickett, Erica
  - Udle, Teri
  - Vandale, Trysta
  - Van Osch, Kalia

@@ -240,6 +240,7 @@ vs:
  - Pendergast, Judy
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Phillips, Kristen
  - Phillips, Laura
  - Porter, Erin
@@ -265,7 +266,6 @@ vs:
  - Simons, Renee
  - Singler, Sherri
  - Sippala, Ashley
- - Sivertson, Dailene
  - Slywka, Sarah
  - Smith, Heather
  - Snider, Shelly

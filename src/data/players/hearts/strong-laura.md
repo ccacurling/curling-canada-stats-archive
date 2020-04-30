@@ -310,6 +310,7 @@ vs:
  - Overton-Clapham, Cathy
  - Parsons, Danielle
  - Peters, Laine
+ - Pewarchuk, Dailene
  - Power, Marie-Anne
  - Prosser, Sandi
  - Provencal, Darah
@@ -336,7 +337,6 @@ vs:
  - Simons, Renee
  - Sinclair, Andrea
  - Singler, Sherri
- - Sivertson, Dailene
  - Skinner, Julie
  - Slywka, Sarah
  - Smith, Heather

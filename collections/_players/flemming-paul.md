@@ -4,19 +4,19 @@ name: Paul Flemming
 name-sort: Flemming, Paul
 totals:
 - event: Brier
-  games: 81
-  wins: 39
-  losses: 42
-  inturn-total: 694
+  games: 88
+  wins: 42
+  losses: 46
+  inturn-total: 753
   inturn-percent: 80
-  outturn-total: 807
+  outturn-total: 876
   outturn-percent: 81
-  draw-total: 641
+  draw-total: 686
   draw-percent: 78
-  takeout-total: 860
+  takeout-total: 943
   takeout-percent: 82
-  shots-total: 1501
-  shots-percent: 80
+  shots-total: 1629
+  shots-percent: 81
 - event: Trials (Men)
   games: 9
   wins: 3
@@ -151,6 +151,23 @@ years:
   takeout-percent: 86
   shots-total: 218
   shots-percent: 84
+- year: 2020
+  event: Brier
+  team: NS
+  position: Third
+  games: 7
+  wins: 3
+  losses: 4
+  inturn-total: 59
+  inturn-percent: 90
+  outturn-total: 69
+  outturn-percent: 79
+  draw-total: 45
+  draw-percent: 83
+  takeout-total: 83
+  takeout-percent: 85
+  shots-total: 128
+  shots-percent: 84
 - year: 2005
   event: Trials (Men)
   team: ADA
@@ -175,8 +192,10 @@ vs:
 - Appelman, Tom
 - Armstrong, Doug
 - Assad, Mike
+- Asselin, Emile
 - Bailey, Scott
 - Bartlett, Don
+- Bedard, Alek
 - Bilesky, Andrew
 - Blanchard, Wade
 - Borden, Robert
@@ -195,8 +214,10 @@ vs:
 - Charette, Pierre
 - Chorostkowski, Brad
 - Chugg, Brad
+- Cochrane, Bryan
 - Cotter, Jim
 - Crete, Martin
+- Currie, Morgan
 - Cursons, Neil
 - Dacey, Mark
 - Danbrook, Jamie
@@ -219,6 +240,7 @@ vs:
 - Fenton, Keith
 - Ferbey, Randy
 - Folk, Kevin
+- Forrest, Alex
 - Frans, Joe
 - Freschi, Don
 - Fry, Ryan
@@ -237,6 +259,7 @@ vs:
 - Gould, Steve
 - Grattan, James
 - Gretzinger, Bert
+- Gunnlaugson, Jason
 - Gushue, Brad
 - Hackner, Al
 - Haichert, Chris
@@ -249,6 +272,7 @@ vs:
 - Hart, Richard
 - Hebert, Ben
 - Hemmings, Guy
+- Higgs, Jake
 - Hodgson, Colin
 - Holowaychuk, Dan
 - Horning, Deane
@@ -274,6 +298,7 @@ vs:
 - Kirkness, James
 - Koe, Jamie
 - Koe, Kevin
+- Kohlenberg, Dale
 - Kopf, Steve
 - Korab, Jamie
 - Kushnir, Warren
@@ -284,11 +309,14 @@ vs:
 - Laycock, Steve
 - Ledgerwood, Sean
 - Leech, Ron
+- Lequin, Bradley
 - Loevenmark, Phil
 - Lohnes, Bruce
 - Lowe, Wayne
+- MacAulay, Ian
 - MacDonald, Blake
 - MacDonald, Brent
+- MacDonald, Edmund
 - MacDonald, Peter
 - MacDonald, Rod
 - MacFadyen, Alex
@@ -339,6 +367,7 @@ vs:
 - Neufeld, Denni
 - Newson, Jamie
 - Nichols, Mark
+- Njegovan, Connor
 - Nobert, Rob
 - O'Rourke, Mark
 - Odishaw, Grant
@@ -356,6 +385,7 @@ vs:
 - Pinsent, Garry
 - Porter, Geoff
 - Powell, Lloyd
+- Quevillon, Louis
 - Rajala, Howard
 - Rathje, Larry
 - Recksiedler, Kevin
@@ -414,6 +444,7 @@ vs:
 - Watson, Aaron
 - Wempe, Brian
 - Westphal, Don
+- Wettig, Sheldon
 - Whitehead, Mark
 - Whittle, Mark
 - Wiersema, Dale

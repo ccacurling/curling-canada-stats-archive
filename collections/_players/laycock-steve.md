@@ -4,18 +4,18 @@ name: Steve Laycock
 name-sort: Laycock, Steve
 totals:
 - event: Brier
-  games: 92
-  wins: 49
-  losses: 43
-  inturn-total: 947
-  inturn-percent: 84
-  outturn-total: 835
+  games: 99
+  wins: 51
+  losses: 48
+  inturn-total: 1001
+  inturn-percent: 83
+  outturn-total: 909
   outturn-percent: 84
-  draw-total: 979
-  draw-percent: 85
-  takeout-total: 803
+  draw-total: 1041
+  draw-percent: 84
+  takeout-total: 869
   takeout-percent: 83
-  shots-total: 1782
+  shots-total: 1910
   shots-percent: 84
 - event: Trials (Men)
   games: 15
@@ -168,6 +168,23 @@ years:
   takeout-percent: 85
   shots-total: 203
   shots-percent: 82
+- year: 2020
+  event: Brier
+  team: BC
+  position: Third
+  games: 7
+  wins: 2
+  losses: 5
+  inturn-total: 54
+  inturn-percent: 73
+  outturn-total: 74
+  outturn-percent: 80
+  draw-total: 62
+  draw-percent: 78
+  takeout-total: 66
+  takeout-percent: 76
+  shots-total: 128
+  shots-percent: 77
 - year: 2009
   event: Trials (Men)
   team: SIMM
@@ -250,6 +267,7 @@ vs:
 - Dion, William
 - Dobson, Paul
 - Doherty, Robert
+- Dunstone, Matthew
 - Eckstrand, Dustin
 - Eldridge, Zach
 - Epping, John
@@ -295,6 +313,7 @@ vs:
 - Jakomait, Dusty
 - Janssen, Patrick
 - Jeffrey, Chris
+- Jensen, Trygg
 - Joanisse, Dean
 - Jones, Scott
 - Kammerlock, Dan
@@ -303,6 +322,7 @@ vs:
 - Kendall, Lloyd
 - Kennedy, Marc
 - Kennedy, Mike
+- Kidby, Dustin
 - Kingdon, Wade
 - Koe, Jamie
 - Koe, Kevin
@@ -331,6 +351,7 @@ vs:
 - McDermaid, Donald
 - McDonald, Scott
 - McEwen, Mike
+- McLeod, Shadrach
 - Mead, Jon
 - Mead, Jonathan
 - Menard, Jean-Michel
@@ -375,6 +396,7 @@ vs:
 - Sawatsky, Rick
 - Schille, Chris
 - Schneider, Catlin
+- Scoffin, Thomas
 - Scoffin, Wade
 - Seabrook, Scott
 - Simmons, Pat
@@ -394,8 +416,10 @@ vs:
 - Ursel, Bob
 - Vaughan, Jason
 - Walker, Geoff
+- Wallingham, Joe
 - Whitehead, Kevin
 - Whitehead, Mark
+- Winfield, Brett
 - Wood, Mike
 - Wozniak, Matt
 - Zawada, Braden

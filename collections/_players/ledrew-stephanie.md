@@ -143,6 +143,7 @@ vs:
  - Court, Morgan
  - Crawford, Andrea
  - Crouse, Jennifer
+ - Curtis, Erica
  - Curtis, Stacie
  - Devereaux, Julie
  - Duncan, Chelsea
@@ -208,7 +209,6 @@ vs:
  - Sweeting, Val
  - Thomas, Jill
  - Thurston, Jill
- - Trickett, Erica
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika

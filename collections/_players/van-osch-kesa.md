@@ -70,6 +70,7 @@ vs:
  - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Jessica
+ - Curtis, Erica
  - Curtis, Stacie
  - Davies, Lisa
  - deSolla, Jodie
@@ -126,7 +127,6 @@ vs:
  - Strong, Laura
  - Sweeting, Val
  - Titheridge, Lindsay
- - Trickett, Erica
  - Udle, Teri
  - Weagle, Lisa
  - Webster, Crystal

@@ -296,6 +296,7 @@ vs:
 - Crouse, Jennifer
 - Cunningham, Cathy
 - Cunningham, Jennifer
+- Curtis, Erica
 - Curtis, Stacie
 - Cutcliffe, Margaret
 - Daniel, Sylvie
@@ -462,6 +463,7 @@ vs:
 - Perron, Melina
 - Peterman, Jocelyn
 - Peters, Laine
+- Pewarchuk, Dailene
 - Phillips, Laura
 - Pinkney, Colleen
 - Poisson, Francine
@@ -505,7 +507,6 @@ vs:
 - Sigurdson, Janine
 - Simons, Renee
 - Sippala, Ashley
-- Sivertson, Dailene
 - Skinner, Julie
 - Smith, Heather
 - Smith, Yvonne
@@ -528,7 +529,6 @@ vs:
 - Thompson, Karla
 - Tippin, Julie
 - Todd, Fran
-- Trickett, Erica
 - Tucker, Cindy
 - Turcotte, Kristin
 - Udle, Teri

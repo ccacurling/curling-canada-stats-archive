@@ -4,19 +4,19 @@ name: Paul Flemming
 name-sort: Flemming, Paul
 totals:
  - event: Brier
-   games: 81
-   wins: 39
-   losses: 42
-   inturn-total: 694
+   games: 88
+   wins: 42
+   losses: 46
+   inturn-total: 753
    inturn-percent: 80
-   outturn-total: 807
+   outturn-total: 876
    outturn-percent: 81
-   draw-total: 641
+   draw-total: 686
    draw-percent: 78
-   takeout-total: 860
+   takeout-total: 943
    takeout-percent: 82
-   shots-total: 1501
-   shots-percent: 80
+   shots-total: 1629
+   shots-percent: 81
 years:
  - year: 1998
    event: Brier
@@ -137,6 +137,23 @@ years:
    takeout-percent: 86
    shots-total: 218
    shots-percent: 84
+ - year: 2020
+   event: Brier
+   team: "NS"
+   position: Third
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 59
+   inturn-percent: 90
+   outturn-total: 69
+   outturn-percent: 79
+   draw-total: 45
+   draw-percent: 83
+   takeout-total: 83
+   takeout-percent: 85
+   shots-total: 128
+   shots-percent: 84
 vs:
  - Adam, Gerry
  - Alderman, Dan
@@ -144,7 +161,9 @@ vs:
  - Appelman, Tom
  - Armstrong, Doug
  - Assad, Mike
+ - Asselin, Emile
  - Bailey, Scott
+ - Bedard, Alek
  - Bilesky, Andrew
  - Blanchard, Wade
  - Borden, Robert
@@ -163,8 +182,10 @@ vs:
  - Charette, Pierre
  - Chorostkowski, Brad
  - Chugg, Brad
+ - Cochrane, Bryan
  - Cotter, Jim
  - Crete, Martin
+ - Currie, Morgan
  - Cursons, Neil
  - Danbrook, Jamie
  - Desjardins, Robert
@@ -185,6 +206,7 @@ vs:
  - Fenton, Keith
  - Ferbey, Randy
  - Folk, Kevin
+ - Forrest, Alex
  - Frans, Joe
  - Freschi, Don
  - Fry, Ryan
@@ -202,6 +224,7 @@ vs:
  - Gould, Steve
  - Grattan, James
  - Gretzinger, Bert
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Hackner, Al
  - Haichert, Chris
@@ -213,6 +236,7 @@ vs:
  - Hart, Richard
  - Hebert, Ben
  - Hemmings, Guy
+ - Higgs, Jake
  - Hodgson, Colin
  - Horning, Deane
  - Howard, Glenn
@@ -236,6 +260,7 @@ vs:
  - Kilgallen, Shane
  - Kirkness, James
  - Koe, Jamie
+ - Kohlenberg, Dale
  - Kopf, Steve
  - Korab, Jamie
  - Kushnir, Warren
@@ -245,10 +270,13 @@ vs:
  - Langdon, Dennis
  - Laycock, Steve
  - Ledgerwood, Sean
+ - Lequin, Bradley
  - Loevenmark, Phil
  - Lowe, Wayne
+ - MacAulay, Ian
  - MacDonald, Blake
  - MacDonald, Brent
+ - MacDonald, Edmund
  - MacDonald, Peter
  - MacDonald, Rod
  - MacFadyen, Alex
@@ -296,6 +324,7 @@ vs:
  - Neufeld, Denni
  - Newson, Jamie
  - Nichols, Mark
+ - Njegovan, Connor
  - Nobert, Rob
  - Odishaw, Grant
  - Odishaw, Terry
@@ -312,6 +341,7 @@ vs:
  - Pinsent, Garry
  - Porter, Geoff
  - Powell, Lloyd
+ - Quevillon, Louis
  - Rajala, Howard
  - Rathje, Larry
  - Reed, Tom
@@ -365,6 +395,7 @@ vs:
  - Watson, Aaron
  - Wempe, Brian
  - Westphal, Don
+ - Wettig, Sheldon
  - Whitehead, Mark
  - Whittle, Mark
  - Wiersema, Dale

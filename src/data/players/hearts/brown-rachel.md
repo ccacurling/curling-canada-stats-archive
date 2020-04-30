@@ -4,19 +4,19 @@ name: Rachel Brown
 name-sort: Brown, Rachel
 totals:
  - event: Hearts
-   games: 41
-   wins: 31
-   losses: 10
-   inturn-total: 444
-   inturn-percent: 87
-   outturn-total: 330
-   outturn-percent: 82
-   draw-total: 593
+   games: 52
+   wins: 36
+   losses: 16
+   inturn-total: 546
+   inturn-percent: 88
+   outturn-total: 440
+   outturn-percent: 83
+   draw-total: 759
    draw-percent: 88
-   takeout-total: 181
-   takeout-percent: 74
-   shots-total: 774
-   shots-percent: 85
+   takeout-total: 227
+   takeout-percent: 77
+   shots-total: 986
+   shots-percent: 86
 years:
  - year: 2014
    event: Hearts
@@ -69,12 +69,32 @@ years:
    takeout-percent: 71
    shots-total: 258
    shots-percent: 80
+ - year: 2020
+   event: Hearts
+   team: "CA"
+   position: Lead
+   games: 11
+   wins: 5
+   losses: 6
+   inturn-total: 102
+   inturn-percent: 93
+   outturn-total: 110
+   outturn-percent: 86
+   draw-total: 166
+   draw-percent: 90
+   takeout-total: 46
+   takeout-percent: 86
+   shots-total: 212
+   shots-percent: 89
 vs:
  - Anderson, Sherry
+ - Armstrong, Jennifer
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
+ - Babin, Jillian
  - Baier, Stephanie
  - Baxter, Jen
+ - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
@@ -85,12 +105,15 @@ vs:
  - Bradley, Shelly
  - Brine, Jenn
  - Brothers, Jill
+ - Brown, Corryn
+ - Cameron, Kate
  - Camozzi, Rhona
  - Carey, Chelsea
  - Carmody, Erin
  - Christianson, Marie
  - Collins, Katrina
  - Cooper, Kathryn
+ - Cote, Marie-Pier
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
@@ -102,16 +125,20 @@ vs:
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
+ - Eddy, Lori
+ - Einarson, Kerri
  - Filteau, Anne-Marie
  - Flaxey, Allison
  - Fleury, Tracy
+ - Forward, Katie
  - Foster, Kristen
  - Fyfe, Liz
  - Gannon, Melissa
  - Gates, Amanda
- - Gates, Jenny
+ - Gates, Jennifer
  - Griffin, Alison
  - Hastings, Julie
+ - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
@@ -119,6 +146,7 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese
+ - Klymchuk, Ashley
  - Knezevic, Patti
  - Koltun, Sarah
  - Korab, Stephanie
@@ -129,14 +157,17 @@ vs:
  - Lawton, Stefanie
  - Lilly, Kendra
  - MacCuish, Kristin
+ - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - Mann, Lauren
  - McCarville, Krista
  - McDonald, Kristy
+ - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
  - McPherson, Cheryl
  - McQuaid, Michelle
+ - Meilleur, Briane
  - Miskew, Emma
  - Munroe, Anna
  - Murphy, Sarah
@@ -147,6 +178,7 @@ vs:
  - Parsons, Danielle
  - Peterman, Jocelyn
  - Pilote, Kristen
+ - Pincott, Erin
  - Pinksen, Sadie
  - Potts, Sarah
  - Reid, Jackie
@@ -154,24 +186,32 @@ vs:
  - Robichaud, Sylvie
  - Robison, Michala
  - Ross, Allison
+ - Routledge, Alanna
+ - Routledge, Jill
  - Rusnell, Jen
  - Sanderson, Jessie
  - Sandwith, Carley
  - Schmidt, Stephanie
+ - Scotland, Nadine
  - Silvernagle, Robyn
  - Sinclair, Andrea
  - Singler, Sherri
+ - Sippala, Ashley
  - Smith, Heather
  - Smith, Stacey
  - Snyder, Jane
  - Strong, Heather
  - Strong, Laura
+ - Sweeting, Val
+ - Taylor, Susan
  - Thevenot, Kara
  - Thomas-Kennell, Noelle
  - Titheridge, Lindsay
  - Trombley, Christy
  - Udle, Teri
  - Van Osch, Kesa
+ - Verreault, Noemie
+ - Walker, Laura
  - Wallingham, Patty
  - Walsh, Jenna
  - Wark, Sarah

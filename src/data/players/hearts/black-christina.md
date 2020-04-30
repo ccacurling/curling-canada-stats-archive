@@ -4,18 +4,18 @@ name: Christina Black
 name-sort: Black, Christina
 totals:
  - event: Hearts
-   games: 24
-   wins: 15
-   losses: 9
-   inturn-total: 241
+   games: 32
+   wins: 19
+   losses: 13
+   inturn-total: 316
    inturn-percent: 79
-   outturn-total: 220
+   outturn-total: 303
    outturn-percent: 77
-   draw-total: 174
+   draw-total: 232
    draw-percent: 75
-   takeout-total: 287
-   takeout-percent: 80
-   shots-total: 461
+   takeout-total: 387
+   takeout-percent: 79
+   shots-total: 619
    shots-percent: 78
 years:
  - year: 2015
@@ -52,6 +52,23 @@ years:
    takeout-percent: 81
    shots-total: 242
    shots-percent: 79
+ - year: 2020
+   event: Hearts
+   team: "NS"
+   position: Third
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 75
+   inturn-percent: 79
+   outturn-total: 83
+   outturn-percent: 75
+   draw-total: 58
+   draw-percent: 74
+   takeout-total: 100
+   takeout-percent: 79
+   shots-total: 158
+   shots-percent: 77
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -59,18 +76,23 @@ vs:
  - Atkinson, Rebecca
  - Barbour, Shona
  - Birchard, Shannon
+ - Birnie, Hailey
  - Birt, Suzanne
  - Blais, Amelie
  - Boyle, Jane
  - Bradley, Shelly
+ - Brown, Corryn
  - Brown, Rachel
  - Cameron, Kate
  - Camozzi, Rhona
  - Chenier, Courtney
+ - Christianson, Marie
  - Collins, Katrina
  - Cooper, Kathryn
  - Courtney, Joanne
  - Cunningham, Jessica
+ - Curtis, Erica
+ - Devereaux, Julie
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
@@ -85,11 +107,15 @@ vs:
  - Galusha, Kerry
  - Gates, Amanda
  - Gibson, Amy
+ - Hamilton, Beth
  - Hastings, Julie
+ - Hawes, Dezaray
  - Homan, Rachel
+ - Hughes, Meaghan
  - Jones, Jennifer
  - Kallechy, Rachelle
  - Kasner, Marliese
+ - Klymchuk, Ashley
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
@@ -112,9 +138,15 @@ vs:
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Rourke, Brittany
+ - Peterman, Jocelyn
+ - Pewarchuk, Dailene
  - Pilote, Kristen
+ - Pincott, Erin
+ - Plonka, Gabrielle
+ - Porter, Erin
  - Price, Kara
  - Richard, Marie
+ - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Rusnell, Jen
  - Sagle, Karen
@@ -126,6 +158,7 @@ vs:
  - Strong, Heather
  - Sweeting, Val
  - Trombley, Christy
+ - Tuor, Kimberly
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika

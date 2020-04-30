@@ -47,7 +47,7 @@ vs:
  - Dunn, Michelle
  - Ferguson, Dana
  - Fleury, Tracy
- - Gates, Jenny
+ - Gates, Jennifer
  - Homan, Rachel
  - Kreviazuk, Cheryl
  - Lavoie, Gabrielle
