@@ -4,41 +4,41 @@ name: Pasika, Rona
 vs:
 - name: Rocheleau, Patty
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 80
+      percent: 84
       wins: 1
       losses: 0
     player2:
-      percent: 70
+      percent: 75
       wins: 0
       losses: 1
   games:
   - player1:
-      team: KKoe
+      team: Nedo
       position: Lead
-      percent: 80
+      percent: 84
       win: 1
       loss: 0
     player2:
-      team: Bals
+      team: Roch
       position: Fourth
-      percent: 70
+      percent: 75
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2003
-    draw: Round Robin(8)
-    score: Bals 5 - KKoe 8
+    draw: Round Robin(1)
+    score: Roch 6 - Nedo 10
 - name: Singler, Sherri
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 80
+      percent: 84
       wins: 1
       losses: 0
     player2:
-      percent: 74
+      percent: 71
       wins: 0
       losses: 1
   - event: Trials (Women)
@@ -52,21 +52,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: KKoe
+      team: Nedo
       position: Lead
-      percent: 80
+      percent: 84
       win: 1
       loss: 0
     player2:
-      team: Bals
+      team: Roch
       position: Second
-      percent: 74
+      percent: 71
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2003
-    draw: Round Robin(8)
-    score: Bals 5 - KKoe 8
+    draw: Round Robin(1)
+    score: Roch 6 - Nedo 10
   - player1:
       team: SON
       position: Lead
@@ -85,48 +85,32 @@ vs:
     score: LAW 8 - SON 6
 - name: Wall, Kirsten
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 87
+      percent: 89
       wins: 0
-      losses: 2
+      losses: 1
     player2:
-      percent: 90
-      wins: 2
+      percent: 75
+      wins: 1
       losses: 0
   games:
   - player1:
-      team: KKoe
+      team: Nedo
       position: Lead
-      percent: 79
+      percent: 89
       win: 0
       loss: 1
     player2:
-      team: Ryan
+      team: Midd
       position: Third
-      percent: 88
+      percent: 75
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2003
     draw: Round Robin(4)
-    score: KKoe 2 - Ryan 8
-  - player1:
-      team: KKoe
-      position: Lead
-      percent: 94
-      win: 0
-      loss: 1
-    player2:
-      team: Ryan
-      position: Third
-      percent: 92
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2003
-    draw: Playoff(9)
-    score: KKoe 4 - Ryan 11
+    score: Nedo 5 - Midd 7
 - name: Peters, Laine
   totals:
   - event: Trials (Women)

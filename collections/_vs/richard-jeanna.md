@@ -2,172 +2,172 @@
 title: Jeanna Richard Head-to-head
 name: Richard, Jeanna
 vs:
- - name: Robertson, Darcy    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 77          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 83          
-        wins: 0              
-        losses: 1            
+ - name: Robertson, Darcy      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 91            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 61            
+        wins: 0                
+        losses: 1              
    games:
     - player1:         
-        team: 'Humb'   
+        team: 'Scot'   
         position: Third
-        percent: 77    
+        percent: 91    
         win: 1         
         loss: 0        
       player2:         
-        team: 'Wood'   
+        team: 'Spen'   
         position: Third
-        percent: 83    
+        percent: 61    
         win: 0         
         loss: 1        
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(6)   
-      score: Wood 8 - Humb 9 
- - name: Shantz, Penny       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 89          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 80          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(3)     
+      score: Spen 1 - Scot 8   
+ - name: Shantz, Penny         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 88            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 93            
+        wins: 1                
+        losses: 0              
    games:
     - player1:         
-        team: 'Humb'   
+        team: 'Scot'   
         position: Third
-        percent: 89    
+        percent: 88    
         win: 0         
         loss: 1        
       player2:          
-        team: 'Adam'    
+        team: 'Bodo'    
         position: Fourth
-        percent: 80     
+        percent: 93     
         win: 1          
         loss: 0         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(7)   
-      score: Adam 9 - Humb 8 
- - name: Skinner, Julie      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 68          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 75          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(6)     
+      score: Bodo 7 - Scot 5   
+ - name: Skinner, Julie        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 67            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 85            
+        wins: 1                
+        losses: 0              
    games:
     - player1:         
-        team: 'Humb'   
+        team: 'Scot'   
         position: Third
-        percent: 68    
+        percent: 67    
         win: 0         
         loss: 1        
       player2:          
-        team: 'Morr'    
+        team: 'KLaw'    
         position: Second
-        percent: 75     
+        percent: 85     
         win: 1          
         loss: 0         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(4)   
-      score: Humb 2 - Morr 5 
- - name: Spencer, Barb       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 77          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 58          
-        wins: 0              
-        losses: 1            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(4)     
+      score: Scot 4 - KLaw 9   
+ - name: Spencer, Barb         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 91            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 31            
+        wins: 0                
+        losses: 1              
    games:
     - player1:         
-        team: 'Humb'   
+        team: 'Scot'   
         position: Third
-        percent: 77    
+        percent: 91    
         win: 1         
         loss: 0        
       player2:          
-        team: 'Wood'    
+        team: 'Spen'    
         position: Fourth
-        percent: 58     
+        percent: 31     
         win: 0          
         loss: 1         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(6)   
-      score: Wood 8 - Humb 9 
- - name: Unrau, Faye         
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 77          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 83          
-        wins: 0              
-        losses: 1            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(3)     
+      score: Spen 1 - Scot 8   
+ - name: Unrau, Faye           
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 91            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 86            
+        wins: 0                
+        losses: 1              
    games:
     - player1:         
-        team: 'Humb'   
+        team: 'Scot'   
         position: Third
-        percent: 77    
+        percent: 91    
         win: 1         
         loss: 0        
       player2:        
-        team: 'Wood'  
+        team: 'Spen'  
         position: Lead
-        percent: 83   
+        percent: 86   
         win: 0        
         loss: 1       
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(6)   
-      score: Wood 8 - Humb 9 
- - name: Wheatcroft, Georgina
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 68          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 76          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(3)     
+      score: Spen 1 - Scot 8   
+ - name: Wheatcroft, Georgina  
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 67            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 81            
+        wins: 1                
+        losses: 0              
    games:
     - player1:         
-        team: 'Humb'   
+        team: 'Scot'   
         position: Third
-        percent: 68    
+        percent: 67    
         win: 0         
         loss: 1        
       player2:         
-        team: 'Morr'   
+        team: 'KLaw'   
         position: Third
-        percent: 76    
+        percent: 81    
         win: 1         
         loss: 0        
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(4)   
-      score: Humb 2 - Morr 5 
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(4)     
+      score: Scot 4 - KLaw 9   
 ---

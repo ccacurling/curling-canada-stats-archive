@@ -2,1387 +2,695 @@
 title: Cheryl Bernard Head-to-head
 name: Bernard, Cheryl
 vs:
- - name: Betker, Jan         
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 85          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 78          
-        wins: 0              
-        losses: 1            
+ - name: Betker, Jan           
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 85            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 78            
+        wins: 1                
+        losses: 0              
    games:
     - player1:          
-        team: 'Bur'     
+        team: 'Ber'     
         position: Fourth
         percent: 85     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Dac'     
-        position: Fourth
-        percent: 78     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(9)   
-      score: Dac 6 - Bur 9   
- - name: Birchard, Shannon   
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 82          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 85          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Jaco'    
-        position: Fourth
-        percent: 82     
         win: 0          
         loss: 1         
       player2:          
-        team: 'Koe'     
-        position: Second
-        percent: 85     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(3)   
-      score: Koe 11 - Jaco 7 
- - name: Blair, Janice       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 68          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 92          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Jor'     
-        position: Fourth
-        percent: 68     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Men'    
-        position: Third
-        percent: 92    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(6)   
-      score: Men 6 - Jor 10  
- - name: Breen, Theresa      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 79          
-        wins: 2              
-        losses: 1            
-      player2:               
-        percent: 82          
-        wins: 1              
-        losses: 2            
-   games:
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 74     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Mor'    
-        position: Third
-        percent: 95    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(6)   
-      score: Bur 7 - Mor 6   
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 81     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Mor'    
-        position: Third
-        percent: 68    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Tie-Breaker(12)  
-      score: Mor 6 - Bur 7   
-    - player1:          
-        team: 'BURT'    
-        position: Fourth
-        percent: 81     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'APPE'  
-        position: Lead
-        percent: 84   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(5)   
-      score: BURT 4 - APPE 6 
- - name: Brown, Rachel       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 71          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 85          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Jaco'    
-        position: Fourth
-        percent: 71     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Eppi'  
-        position: Lead
-        percent: 85   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(6)   
-      score: Jaco 4 - Eppi 9 
- - name: Burgess, Allyson    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 85          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 81     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'Tuc'   
-        position: Lead
-        percent: 85   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(4)   
-      score: Bur 9 - Tuc 6   
- - name: Bush, Tracy         
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 88          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 89          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 88     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'SIMM'  
-        position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(3)   
-      score: SIMM 5 - KOE 6  
- - name: Carey, Chelsea      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 71          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 83          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Jaco'    
-        position: Fourth
-        percent: 71     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Eppi'    
-        position: Fourth
-        percent: 83     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(6)   
-      score: Jaco 4 - Eppi 9 
- - name: Carter, Sasha       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 73          
-        wins: 0              
-        losses: 4            
-      player2:               
-        percent: 82          
-        wins: 4              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 81     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Sto'     
-        position: Second
-        percent: 75     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(3)   
-      score: Sto 6 - Bur 5   
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 77     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Sto'     
-        position: Second
-        percent: 93     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Playoff(14)      
-      score: Sto 7 - Bur 5   
-    - player1:          
-        team: 'BURT'    
-        position: Fourth
-        percent: 61     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'STOU'    
-        position: Second
-        percent: 74     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(7)   
-      score: STOU 8 - BURT 5 
-    - player1:          
-        team: 'BB'      
-        position: Fourth
-        percent: 72     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'JS'      
-        position: Second
-        percent: 88     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(7)   
-      score: BB 2 - JS 7     
- - name: Courtney, Joanne    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 75          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 81          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Jaco'    
-        position: Fourth
-        percent: 75     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Gush'    
-        position: Second
-        percent: 81     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(8)   
-      score: Jaco 2 - Gush 6 
- - name: Dealy, Diane        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 78          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 79          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Jor'     
-        position: Fourth
-        percent: 78     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Mar'   
-        position: Lead
-        percent: 79   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(4)   
-      score: Mar 8 - Jor 5   
- - name: Doig, Deanna        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 71          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 58          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'BURT'    
-        position: Fourth
-        percent: 71     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'FERB'   
-        position: Third
-        percent: 58    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(4)   
-      score: FERB 4 - BURT 7 
- - name: Einarson, Kerri     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 82          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 83          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Jaco'    
-        position: Fourth
-        percent: 82     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Koe'     
-        position: Fourth
-        percent: 83     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(3)   
-      score: Koe 11 - Jaco 7 
- - name: Englot, Michelle    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 71          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 82          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'BURT'    
-        position: Fourth
-        percent: 71     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'FERB'    
-        position: Fourth
-        percent: 82     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(4)   
-      score: FERB 4 - BURT 7 
- - name: Fallis, Karen       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 68          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 65          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Jor'     
-        position: Fourth
-        percent: 68     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Men'     
-        position: Fourth
-        percent: 65     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(6)   
-      score: Men 6 - Jor 10  
- - name: Fargey, Lisa        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 2              
-        losses: 0            
-      player2:               
-        percent: 79          
-        wins: 0              
-        losses: 2            
-   games:
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 86     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'GUSH'   
-        position: Third
-        percent: 75    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(2)   
-      score: KOE 8 - GUSH 3  
-    - player1:          
-        team: 'KOE'     
+        team: 'Bet'     
         position: Fourth
         percent: 78     
         win: 1          
         loss: 0         
-      player2:         
-        team: 'GUSH'   
-        position: Third
-        percent: 83    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Page 1-2(12)     
-      score: KOE 7 - GUSH 5  
- - name: Ferguson, Dana      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 71          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 83          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(2)     
+      score: Ber 4 - Bet 5     
+ - name: Birchard, Shannon     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 89            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 73            
+        wins: 0                
+        losses: 1              
    games:
     - player1:          
-        team: 'Jaco'    
+        team: 'Sche'    
         position: Fourth
-        percent: 71     
-        win: 0          
-        loss: 1         
+        percent: 89     
+        win: 1          
+        loss: 0         
       player2:          
-        team: 'Eppi'    
+        team: 'Eina'    
         position: Second
-        percent: 83     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(6)   
-      score: Jaco 4 - Eppi 9 
- - name: Fleury, Tracy       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 65          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 82          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Jaco'    
-        position: Fourth
-        percent: 65     
+        percent: 73     
         win: 0          
         loss: 1         
-      player2:          
-        team: 'Bott'    
-        position: Fourth
-        percent: 82     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(7)   
-      score: Bott 5 - Jaco 4 
- - name: Froud, Susan        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 78          
-        wins: 2              
-        losses: 0            
-      player2:               
-        percent: 84          
-        wins: 0              
-        losses: 2            
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(3)     
+      score: Sche 7 - Eina 1   
+ - name: Blair, Janice         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 70            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 70            
+        wins: 1                
+        losses: 0              
    games:
     - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 74     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Mor'     
-        position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(6)   
-      score: Bur 7 - Mor 6   
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 81     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Mor'     
-        position: Second
-        percent: 88     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Tie-Breaker(12)  
-      score: Mor 6 - Bur 7   
- - name: Fyfe, Liz           
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 65          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 81          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Jaco'    
-        position: Fourth
-        percent: 65     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Bott'    
-        position: Second
-        percent: 81     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(7)   
-      score: Bott 5 - Jaco 4 
- - name: Gagnon, Karo        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 68          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 89          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 68     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Mar'    
-        position: Third
-        percent: 89    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(11)  
-      score: Mar 5 - Bur 3   
- - name: Gignac, Donna       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 94          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 90          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 94     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'STOU'  
-        position: Lead
-        percent: 90   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(5)   
-      score: STOU 5 - KOE 8  
- - name: Gregoire, Veronique 
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 68          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 88          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 68     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Mar'   
-        position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(11)  
-      score: Mar 5 - Bur 3   
- - name: Gudereit, Marcia    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 85          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 95          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 85     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'Dac'   
-        position: Lead
-        percent: 95   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(9)   
-      score: Dac 6 - Bur 9   
- - name: Hamer, Kate         
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 78          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 83          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Jor'     
-        position: Fourth
-        percent: 78     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Gus'     
-        position: Second
-        percent: 83     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Page 3-4(13)     
-      score: Gus 6 - Jor 4   
- - name: Harmark, Andra      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 78          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 89          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Jor'     
-        position: Fourth
-        percent: 78     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Gus'   
-        position: Lead
-        percent: 89   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Page 3-4(13)     
-      score: Gus 6 - Jor 4   
- - name: Harvey, Alison      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 68          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 93          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Jor'     
-        position: Fourth
-        percent: 68     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'Men'   
-        position: Lead
-        percent: 93   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(6)   
-      score: Men 6 - Jor 10  
- - name: Harvey, Janet       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 83          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 80          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 83     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'MCEW'    
-        position: Fourth
-        percent: 80     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(9)   
-      score: KOE 6 - MCEW 7  
- - name: Hodson, Kim         
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 88          
-        wins: 2              
-        losses: 0            
-      player2:               
-        percent: 72          
-        wins: 0              
-        losses: 2            
-   games:
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 81     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Tuc'    
-        position: Third
-        percent: 73    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(4)   
-      score: Bur 9 - Tuc 6   
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 94     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'STOU'   
-        position: Third
-        percent: 71    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(5)   
-      score: STOU 5 - KOE 8  
- - name: Holland, Amber      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 75          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 68          
-        wins: 1              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'BURT'    
+        team: 'Ber'     
         position: Fourth
         percent: 70     
         win: 0          
         loss: 1         
-      player2:          
-        team: 'GUSH'    
-        position: Fourth
-        percent: 83     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(2)   
-      score: GUSH 9 - BURT 3 
-    - player1:          
-        team: 'BB'      
-        position: Fourth
-        percent: 81     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'RFO'     
-        position: Fourth
-        percent: 48     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(6)   
-      score: RFO 1 - BB 9    
- - name: Homan, Rachel       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 75          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 88          
-        wins: 1              
-        losses: 0            
+      player2:         
+        team: 'Por'    
+        position: Third
+        percent: 70    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2007               
+      draw: Round Robin(4)     
+      score: Por 9 - Ber 4     
+ - name: Brassard, Veronique   
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 70            
+        wins: 0                
+        losses: 2              
+      player2:                 
+        percent: 73            
+        wins: 2                
+        losses: 0              
    games:
     - player1:          
-        team: 'Jaco'    
+        team: 'BERN'    
         position: Fourth
-        percent: 75     
+        percent: 69     
         win: 0          
         loss: 1         
-      player2:          
-        team: 'Gush'    
-        position: Fourth
-        percent: 88     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(8)   
-      score: Jaco 2 - Gush 6 
- - name: Horne, Kate         
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 84          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 96          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Jor'     
-        position: Fourth
-        percent: 84     
-        win: 1          
-        loss: 0         
       player2:        
-        team: 'Sto'   
+        team: 'M-FL'  
         position: Lead
-        percent: 96   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(7)   
-      score: Jor 6 - Sto 4   
- - name: Hunkin, Jessie      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 84          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 79          
-        wins: 0              
-        losses: 1            
-   games:
+        percent: 69   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(3)     
+      score: BERN 9 - M-FL 12  
     - player1:          
-        team: 'Jaco'    
-        position: Fourth
-        percent: 84     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Duns'    
-        position: Second
-        percent: 79     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(4)   
-      score: Jaco 7 - Duns 5 
- - name: Iskiw, Beth         
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 71          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 84          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'BB'      
+        team: 'BERN'    
         position: Fourth
         percent: 71     
         win: 0          
         loss: 1         
-      player2:         
-        team: 'KK'     
-        position: Third
-        percent: 84    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(2)   
-      score: KK 8 - BB 6     
- - name: Jones, Jennifer     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 86          
-        wins: 5              
-        losses: 0            
-      player2:               
-        percent: 79          
-        wins: 0              
-        losses: 5            
+      player2:        
+        team: 'M-FL'  
+        position: Lead
+        percent: 77   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Semi-Final(13)     
+      score: M-FL 7 - BERN 6   
+ - name: Breen, Theresa        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 78            
+        wins: 1                
+        losses: 1              
+      player2:                 
+        percent: 79            
+        wins: 1                
+        losses: 1              
    games:
     - player1:          
-        team: 'Jor'     
+        team: 'Ber'     
         position: Fourth
-        percent: 84     
+        percent: 78     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'Mer'    
+        position: Third
+        percent: 78    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(5)     
+      score: Ber 6 - Mer 8     
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 79     
         win: 1          
         loss: 0         
-      player2:          
-        team: 'Koe'     
+      player2:        
+        team: 'M-AA'  
+        position: Lead
+        percent: 81   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(8)     
+      score: BERN 11 - M-AA 6  
+ - name: Brown, Rachel         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 67            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 94            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Sche'    
         position: Fourth
         percent: 67     
         win: 0          
         loss: 1         
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(1)   
-      score: Jor 6 - Koe 3   
+      player2:        
+        team: 'Care'  
+        position: Lead
+        percent: 94   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(4)     
+      score: Care 9 - Sche 5   
+ - name: Bush, Tracy           
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 79            
+        wins: 2                
+        losses: 0              
+      player2:                 
+        percent: 88            
+        wins: 0                
+        losses: 2              
+   games:
     - player1:          
-        team: 'Jor'     
-        position: Fourth
-        percent: 86     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Koe'     
-        position: Fourth
-        percent: 94     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Tie-Breaker(12)  
-      score: Koe 5 - Jor 7   
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 81     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'MART'    
-        position: Fourth
-        percent: 72     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(8)   
-      score: KOE 7 - MART 3  
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 86     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'MART'    
+        team: 'BERN'    
         position: Fourth
         percent: 80     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Final(15)        
-      score: MART 5 - KOE 6  
-    - player1:          
-        team: 'Jaco'    
-        position: Fourth
-        percent: 91     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Howa'    
-        position: Fourth
-        percent: 81     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(2)   
-      score: Howa 3 - Jaco 6 
- - name: Kalenchuk, Heather  
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 100         
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'BB'      
-        position: Fourth
-        percent: 81     
         win: 1          
         loss: 0         
       player2:        
-        team: 'RFO'   
+        team: 'KING'  
         position: Lead
-        percent: 100  
+        percent: 90   
         win: 0        
         loss: 1       
-      event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(6)   
-      score: RFO 1 - BB 9    
- - name: Keshen, Christine   
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 89          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 86          
-        wins: 0              
-        losses: 1            
-   games:
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(3)     
+      score: BERN 10 - KING 9  
     - player1:          
-        team: 'Jor'     
+        team: 'BERN'    
         position: Fourth
-        percent: 89     
+        percent: 77     
         win: 1          
         loss: 0         
       player2:        
-        team: 'Bur'   
+        team: 'KING'  
         position: Lead
         percent: 86   
         win: 0        
         loss: 1       
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(10)  
-      score: Bur 2 - Jor 6   
- - name: King, Cathy         
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 83          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 76          
-        wins: 1              
-        losses: 1            
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(9)     
+      score: KING 9 - BERN 10  
+ - name: Carey, Chelsea        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 67            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 84            
+        wins: 1                
+        losses: 0              
    games:
     - player1:          
-        team: 'Jor'     
+        team: 'Sche'    
         position: Fourth
-        percent: 78     
+        percent: 67     
         win: 0          
         loss: 1         
       player2:          
-        team: 'Mar'     
+        team: 'Care'    
         position: Fourth
-        percent: 82     
+        percent: 84     
         win: 1          
         loss: 0         
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(4)   
-      score: Mar 8 - Jor 5   
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(4)     
+      score: Care 9 - Sche 5   
+ - name: Carter, Sasha         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 71            
+        wins: 1                
+        losses: 2              
+      player2:                 
+        percent: 85            
+        wins: 2                
+        losses: 1              
+   games:
     - player1:          
-        team: 'KOE'     
+        team: 'Ber'     
+        position: Fourth
+        percent: 65     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Sco'     
+        position: Second
+        percent: 75     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(7)     
+      score: Sco 8 - Ber 4     
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 60     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'SCOT'    
+        position: Second
+        percent: 93     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Semi-Final(13)     
+      score: BERN 6 - SCOT 10  
+    - player1:          
+        team: 'CB'      
         position: Fourth
         percent: 88     
         win: 1          
         loss: 0         
       player2:          
-        team: 'SIMM'    
-        position: Fourth
-        percent: 71     
+        team: 'KS'      
+        position: Second
+        percent: 86     
         win: 0          
         loss: 1         
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(3)   
-      score: SIMM 5 - KOE 6  
- - name: Kirby, Carey        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 83          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 91          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Round Robin(1)     
+      score: CB 6 - KS 3       
+ - name: Courtney, Joanne      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 68            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 89            
+        wins: 1                
+        losses: 0              
    games:
     - player1:          
-        team: 'KOE'     
+        team: 'Sche'    
         position: Fourth
-        percent: 83     
+        percent: 68     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Homa'    
+        position: Second
+        percent: 89     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(5)     
+      score: Sche 3 - Homa 8   
+ - name: Dealy, Diane          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 76            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 89            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 76     
         win: 0          
         loss: 1         
       player2:        
-        team: 'MCEW'  
+        team: 'Kin'   
         position: Lead
-        percent: 91   
+        percent: 89   
         win: 1        
         loss: 0       
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(9)   
-      score: KOE 6 - MCEW 7  
- - name: Kleibrink, Shannon  
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 68          
-        wins: 1              
-        losses: 2            
-      player2:               
-        percent: 73          
-        wins: 2              
-        losses: 1            
+      event: Canada Cup (Women)
+      year: 2007               
+      draw: Round Robin(7)     
+      score: Kin 7 - Ber 5     
+ - name: Doig, Deanna          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 56            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 56            
+        wins: 0                
+        losses: 1              
    games:
     - player1:          
-        team: 'Jor'     
+        team: 'BERN'    
+        position: Fourth
+        percent: 56     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'ENGL'   
+        position: Third
+        percent: 56    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Page 1-2(12)       
+      score: BERN 8 - ENGL 5   
+ - name: Einarson, Kerri       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 89            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 73            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Sche'    
         position: Fourth
         percent: 89     
         win: 1          
         loss: 0         
       player2:          
-        team: 'Bur'     
+        team: 'Eina'    
         position: Fourth
         percent: 73     
         win: 0          
         loss: 1         
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(10)  
-      score: Bur 2 - Jor 6   
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(3)     
+      score: Sche 7 - Eina 1   
+ - name: Englot, Michelle      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 57            
+        wins: 1                
+        losses: 1              
+      player2:                 
+        percent: 68            
+        wins: 1                
+        losses: 1              
+   games:
     - player1:          
-        team: 'BURT'    
+        team: 'Ber'     
         position: Fourth
-        percent: 55     
+        percent: 59     
         win: 0          
         loss: 1         
+      player2:         
+        team: 'Eng'    
+        position: Third
+        percent: 75    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(8)     
+      score: Ber 8 - Eng 9     
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 56     
+        win: 1          
+        loss: 0         
       player2:          
-        team: 'KOE'     
+        team: 'ENGL'    
+        position: Fourth
+        percent: 60     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Page 1-2(12)       
+      score: BERN 8 - ENGL 5   
+ - name: Fallis, Karen         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 70            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 78            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Ber'     
         position: Fourth
         percent: 70     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(9)   
-      score: BURT 4 - KOE 9  
-    - player1:          
-        team: 'BB'      
-        position: Fourth
-        percent: 63     
         win: 0          
         loss: 1         
       player2:          
-        team: 'KM'      
+        team: 'Por'     
         position: Fourth
-        percent: 75     
+        percent: 78     
         win: 1          
         loss: 0         
-      event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(9)   
-      score: BB 2 - KM 8     
- - name: Larouche, Marie-France
+      event: Canada Cup (Women)
+      year: 2007               
+      draw: Round Robin(4)     
+      score: Por 9 - Ber 4     
+ - name: Fargey, Lisa          
    totals:                     
-    - event: Canada Cup (Men)  
+    - event: Canada Cup (Women)
       player1:                 
+        percent: 90            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 83            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 90     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'RANK'   
+        position: Third
+        percent: 83    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(9)     
+      score: BERN 9 - RANK 6   
+ - name: Ferguson, Dana        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 67            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 82            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Sche'    
+        position: Fourth
+        percent: 67     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Care'    
+        position: Second
+        percent: 82     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(4)     
+      score: Care 9 - Sche 5   
+ - name: Fleury, Tracy         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 80            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 83            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Sche'    
+        position: Fourth
+        percent: 80     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Fleu'    
+        position: Fourth
+        percent: 83     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(8)     
+      score: Fleu 8 - Sche 5   
+ - name: Foster, Kristen       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 74            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 89            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'CB'      
+        position: Fourth
+        percent: 74     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'SL'      
+        position: Second
+        percent: 89     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Final(15)          
+      score: CB 3 - SL 7       
+ - name: Froud, Susan          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 78            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 85            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 78     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Mer'     
+        position: Second
+        percent: 85     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(5)     
+      score: Ber 6 - Mer 8     
+ - name: Fyfe, Liz             
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 80            
+        wins: 0                
+        losses: 1              
+      player2:                 
         percent: 68            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Sche'    
+        position: Fourth
+        percent: 80     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Fleu'    
+        position: Second
+        percent: 68     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(8)     
+      score: Fleu 8 - Sche 5   
+ - name: Gatchell, Sara        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 64            
         wins: 0                
         losses: 1              
       player2:                 
@@ -1391,2007 +699,2819 @@ vs:
         losses: 0              
    games:
     - player1:          
-        team: 'Bur'     
+        team: 'Ber'     
         position: Fourth
-        percent: 68     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Mar'     
-        position: Fourth
-        percent: 88     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(11)  
-      score: Mar 5 - Bur 3   
- - name: Lawes, Kaitlyn      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 91          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 85          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Jaco'    
-        position: Fourth
-        percent: 91     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Howa'   
-        position: Third
-        percent: 85    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(2)   
-      score: Howa 3 - Jaco 6 
- - name: Lawton, Stefanie    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 79          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 90          
-        wins: 1              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'BB'      
-        position: Fourth
-        percent: 72     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'JS'      
-        position: Fourth
-        percent: 94     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(7)   
-      score: BB 2 - JS 7     
-    - player1:          
-        team: 'Jaco'    
-        position: Fourth
-        percent: 84     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Duns'   
-        position: Third
-        percent: 88    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(4)   
-      score: Jaco 7 - Duns 5 
- - name: Lemay, Annie        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 68          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 90          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 68     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Mar'     
-        position: Second
-        percent: 90     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(11)  
-      score: Mar 5 - Bur 3   
- - name: Linton, Sherry      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 85          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 85          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 85     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Dac'    
-        position: Third
-        percent: 85    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(9)   
-      score: Dac 6 - Bur 9   
- - name: Loder, Cherie-Ann   
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 83          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 75          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 83     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'MCEW'   
-        position: Third
-        percent: 75    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(9)   
-      score: KOE 6 - MCEW 7  
- - name: Loder, Kristin      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 83          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 85          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 83     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'MCEW'    
-        position: Second
-        percent: 85     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(9)   
-      score: KOE 6 - MCEW 7  
- - name: MacCuish, Kristin   
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 65          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 81          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Jaco'    
-        position: Fourth
-        percent: 65     
+        percent: 64     
         win: 0          
         loss: 1         
       player2:        
-        team: 'Bott'  
-        position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(7)   
-      score: Bott 5 - Jaco 4 
- - name: Maclachlan, Kyla    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 2              
-        losses: 0            
-      player2:               
-        percent: 85          
-        wins: 0              
-        losses: 2            
-   games:
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 86     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'GUSH'  
-        position: Lead
-        percent: 92   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(2)   
-      score: KOE 8 - GUSH 3  
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 78     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'GUSH'  
-        position: Lead
-        percent: 80   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Page 1-2(12)     
-      score: KOE 7 - GUSH 5  
- - name: MacLean, Kari       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 72          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 90          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'BB'      
-        position: Fourth
-        percent: 72     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'GH'      
-        position: Second
-        percent: 90     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(4)   
-      score: BB 7 - GH 8     
- - name: Materi, Roberta     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 71          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 74          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'BURT'    
-        position: Fourth
-        percent: 71     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'FERB'    
-        position: Second
-        percent: 74     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(4)   
-      score: FERB 4 - BURT 7 
- - name: McCarville, Krista  
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 72          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 86          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'BB'      
-        position: Fourth
-        percent: 72     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'GH'      
-        position: Fourth
-        percent: 86     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(4)   
-      score: BB 7 - GH 8     
- - name: McCusker, Joan      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 85          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 96          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 85     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Dac'     
-        position: Second
-        percent: 96     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(9)   
-      score: Dac 6 - Bur 9   
- - name: McEwen, Dawn        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 86          
-        wins: 5              
-        losses: 0            
-      player2:               
-        percent: 88          
-        wins: 0              
-        losses: 5            
-   games:
-    - player1:          
-        team: 'Jor'     
-        position: Fourth
-        percent: 84     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'Koe'   
-        position: Lead
-        percent: 90   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(1)   
-      score: Jor 6 - Koe 3   
-    - player1:          
-        team: 'Jor'     
-        position: Fourth
-        percent: 86     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'Koe'   
-        position: Lead
-        percent: 84   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Tie-Breaker(12)  
-      score: Koe 5 - Jor 7   
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 81     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'MART'  
-        position: Lead
-        percent: 88   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(8)   
-      score: KOE 7 - MART 3  
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 86     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'MART'  
-        position: Lead
-        percent: 94   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Final(15)        
-      score: MART 5 - KOE 6  
-    - player1:          
-        team: 'Jaco'    
-        position: Fourth
-        percent: 91     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'Howa'  
-        position: Lead
-        percent: 84   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(2)   
-      score: Howa 3 - Jaco 6 
- - name: Meilleur, Briane    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 82          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 88          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Jaco'    
-        position: Fourth
-        percent: 82     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Koe'   
+        team: 'Riz'   
         position: Lead
         percent: 88   
         win: 1        
         loss: 0       
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(3)   
-      score: Koe 11 - Jaco 7 
- - name: Merklinger, Anne    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 78          
-        wins: 2              
-        losses: 0            
-      player2:               
-        percent: 84          
-        wins: 0              
-        losses: 2            
-   games:
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 74     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Mor'     
-        position: Fourth
-        percent: 80     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(6)   
-      score: Bur 7 - Mor 6   
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 81     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Mor'     
-        position: Fourth
-        percent: 88     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Tie-Breaker(12)  
-      score: Mor 6 - Bur 7   
- - name: Middaugh, Sherry    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 78          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 97          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Jor'     
-        position: Fourth
-        percent: 78     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Gus'     
-        position: Fourth
-        percent: 97     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Page 3-4(13)     
-      score: Gus 6 - Jor 4   
- - name: Miller, Jessica     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 71          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 85          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'BB'      
-        position: Fourth
-        percent: 71     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'KK'      
-        position: Second
-        percent: 85     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(2)   
-      score: KK 8 - BB 6     
- - name: Miskew, Emma        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 75          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 80          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Jaco'    
-        position: Fourth
-        percent: 75     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Gush'   
-        position: Third
-        percent: 80    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(8)   
-      score: Jaco 2 - Gush 6 
- - name: Moore, Kim          
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 78          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 91          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Jor'     
-        position: Fourth
-        percent: 78     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Gus'    
-        position: Third
-        percent: 91    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Page 3-4(13)     
-      score: Gus 6 - Jor 4   
- - name: Moore, Kristie      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 84          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 83          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Jor'     
-        position: Fourth
-        percent: 84     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Sto'     
-        position: Second
-        percent: 83     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(7)   
-      score: Jor 6 - Sto 4   
- - name: Moulding, Heather   
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 2              
-        losses: 0            
-      player2:               
-        percent: 84          
-        wins: 0              
-        losses: 2            
-   games:
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 86     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'GUSH'    
-        position: Second
-        percent: 83     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(2)   
-      score: KOE 8 - GUSH 3  
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 78     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'GUSH'    
-        position: Second
-        percent: 85     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Page 1-2(12)     
-      score: KOE 7 - GUSH 5  
- - name: Nedohin, Heather    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 78          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 79          
-        wins: 1              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Jor'     
-        position: Fourth
-        percent: 84     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Sto'     
-        position: Fourth
-        percent: 75     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(7)   
-      score: Jor 6 - Sto 4   
-    - player1:          
-        team: 'BB'      
-        position: Fourth
-        percent: 71     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'KK'      
-        position: Fourth
-        percent: 83     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(2)   
-      score: KK 8 - BB 6     
- - name: Nixon, Amy          
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 68          
-        wins: 1              
-        losses: 2            
-      player2:               
-        percent: 85          
-        wins: 2              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Jor'     
-        position: Fourth
-        percent: 89     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Bur'    
-        position: Third
-        percent: 75    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(10)  
-      score: Bur 2 - Jor 6   
-    - player1:          
-        team: 'BURT'    
-        position: Fourth
-        percent: 55     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'KOE'    
-        position: Third
-        percent: 97    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(9)   
-      score: BURT 4 - KOE 9  
-    - player1:          
-        team: 'BB'      
-        position: Fourth
-        percent: 63     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'KM'     
-        position: Third
-        percent: 79    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(9)   
-      score: BB 2 - KM 8     
- - name: Njegovan, Selena    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 65          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 68          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Jaco'    
-        position: Fourth
-        percent: 65     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Bott'   
-        position: Third
-        percent: 68    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(7)   
-      score: Bott 5 - Jaco 4 
- - name: Officer, Jill       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 85          
-        wins: 4              
-        losses: 0            
-      player2:               
-        percent: 87          
-        wins: 0              
-        losses: 4            
-   games:
-    - player1:          
-        team: 'Jor'     
-        position: Fourth
-        percent: 84     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Koe'     
-        position: Second
-        percent: 88     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(1)   
-      score: Jor 6 - Koe 3   
-    - player1:          
-        team: 'Jor'     
-        position: Fourth
-        percent: 86     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Koe'     
-        position: Second
-        percent: 83     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Tie-Breaker(12)  
-      score: Koe 5 - Jor 7   
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 81     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'MART'    
-        position: Second
-        percent: 83     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(8)   
-      score: KOE 7 - MART 3  
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 86     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'MART'    
-        position: Second
-        percent: 93     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Final(15)        
-      score: MART 5 - KOE 6  
- - name: Olson-Johns, Lori   
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 83          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 90          
-        wins: 1              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Jor'     
-        position: Fourth
-        percent: 78     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Mar'    
-        position: Third
-        percent: 88    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(4)   
-      score: Mar 8 - Jor 5   
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 88     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'SIMM'   
-        position: Third
-        percent: 93    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(3)   
-      score: SIMM 5 - KOE 6  
- - name: Overton-Clapham, Cathy
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(1)     
+      score: Riz 10 - Ber 6    
+ - name: Gignac, Donna         
    totals:                     
-    - event: Canada Cup (Men)  
+    - event: Canada Cup (Women)
       player1:                 
-        percent: 85            
-        wins: 4                
+        percent: 74            
+        wins: 1                
         losses: 0              
       player2:                 
         percent: 85            
         wins: 0                
-        losses: 4              
+        losses: 1              
    games:
     - player1:          
-        team: 'Jor'     
-        position: Fourth
-        percent: 84     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Koe'    
-        position: Third
-        percent: 86    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(1)   
-      score: Jor 6 - Koe 3   
-    - player1:          
-        team: 'Jor'     
-        position: Fourth
-        percent: 86     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Koe'    
-        position: Third
-        percent: 89    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Tie-Breaker(12)  
-      score: Koe 5 - Jor 7   
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 81     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'MART'   
-        position: Third
-        percent: 80    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(8)   
-      score: KOE 7 - MART 3  
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 86     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'MART'   
-        position: Third
-        percent: 85    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Final(15)        
-      score: MART 5 - KOE 6  
- - name: Peterman, Jocelyn   
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 91          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 90          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Jaco'    
-        position: Fourth
-        percent: 91     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Howa'    
-        position: Second
-        percent: 90     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(2)   
-      score: Howa 3 - Jaco 6 
- - name: Peters, Laine       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 78          
-        wins: 1              
-        losses: 2            
-      player2:               
-        percent: 81          
-        wins: 2              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 81     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Tuc'     
-        position: Second
-        percent: 84     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(4)   
-      score: Bur 9 - Tuc 6   
-    - player1:          
-        team: 'BURT'    
-        position: Fourth
-        percent: 81     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'APPE'    
-        position: Second
-        percent: 76     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(5)   
-      score: BURT 4 - APPE 6 
-    - player1:          
-        team: 'BB'      
-        position: Fourth
-        percent: 71     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'KK'    
-        position: Lead
-        percent: 82   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(2)   
-      score: KK 8 - BB 6     
- - name: Potts, Sarah        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 72          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 89          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'BB'      
-        position: Fourth
-        percent: 72     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'GH'    
-        position: Lead
-        percent: 89   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(4)   
-      score: BB 7 - GH 8     
- - name: Rankin, Heather     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 2              
-        losses: 0            
-      player2:               
-        percent: 82          
-        wins: 0              
-        losses: 2            
-   games:
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 86     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'GUSH'    
-        position: Fourth
-        percent: 73     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(2)   
-      score: KOE 8 - GUSH 3  
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 78     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'GUSH'    
-        position: Fourth
-        percent: 89     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Page 1-2(12)     
-      score: KOE 7 - GUSH 5  
- - name: Reddick, Audrey     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 78          
-        wins: 2              
-        losses: 0            
-      player2:               
-        percent: 99          
-        wins: 0              
-        losses: 2            
-   games:
-    - player1:          
-        team: 'Bur'     
+        team: 'BERN'    
         position: Fourth
         percent: 74     
         win: 1          
         loss: 0         
       player2:        
-        team: 'Mor'   
+        team: 'ANDE'  
         position: Lead
-        percent: 99   
+        percent: 85   
         win: 0        
         loss: 1       
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(6)   
-      score: Bur 7 - Mor 6   
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 81     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'Mor'   
-        position: Lead
-        percent: 99   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Tie-Breaker(12)  
-      score: Mor 6 - Bur 7   
- - name: Rocque, Raylene     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 83          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 93          
-        wins: 1              
-        losses: 1            
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(7)     
+      score: ANDE 7 - BERN 8   
+ - name: Gudereit, Marcia      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 85            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 86            
+        wins: 1                
+        losses: 0              
    games:
     - player1:          
-        team: 'Jor'     
+        team: 'Ber'     
+        position: Fourth
+        percent: 85     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'Bet'   
+        position: Lead
+        percent: 86   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(2)     
+      score: Ber 4 - Bet 5     
+ - name: Hardy, Shelley        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 70            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 71            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'CB'      
+        position: Fourth
+        percent: 70     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'SN'      
+        position: Fourth
+        percent: 71     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Round Robin(6)     
+      score: SN 4 - CB 7       
+ - name: Harvey, Alison        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 70            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 94            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 70     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'Por'   
+        position: Lead
+        percent: 94   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2007               
+      draw: Round Robin(4)     
+      score: Por 9 - Ber 4     
+ - name: Harvey, Janet         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 93            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 69            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 93     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'HARV'    
+        position: Fourth
+        percent: 69     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(2)     
+      score: HARV 3 - BERN 6   
+ - name: Hodson, Kim           
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 74            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 79            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 74     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'ANDE'   
+        position: Third
+        percent: 79    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(7)     
+      score: ANDE 7 - BERN 8   
+ - name: Holland, Amber        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 85            
+        wins: 1                
+        losses: 1              
+      player2:                 
+        percent: 83            
+        wins: 1                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 82     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'HOLL'    
+        position: Fourth
+        percent: 96     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(1)     
+      score: HOLL 8 - BERN 5   
+    - player1:          
+        team: 'CB'      
+        position: Fourth
+        percent: 91     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'AH'      
+        position: Fourth
+        percent: 60     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Round Robin(9)     
+      score: CB 7 - AH 1       
+ - name: Homan, Rachel         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 68            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 83            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Sche'    
+        position: Fourth
+        percent: 68     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Homa'    
+        position: Fourth
+        percent: 83     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(5)     
+      score: Sche 3 - Homa 8   
+ - name: Horne, Kate           
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 58            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 67            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 58     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'San'   
+        position: Lead
+        percent: 67   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2007               
+      draw: Round Robin(1)     
+      score: Ber 7 - San 8     
+ - name: Hunkin, Jessie        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 58            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 83            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Sche'    
+        position: Fourth
+        percent: 58     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Silv'    
+        position: Second
+        percent: 83     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(9)     
+      score: Sche 4 - Silv 9   
+ - name: Iskiw, Beth           
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 86            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 85            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'CB'      
+        position: Fourth
+        percent: 86     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'HN'     
+        position: Third
+        percent: 85    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Round Robin(8)     
+      score: CB 9 - HN 4       
+ - name: Jones, Jennifer       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 75            
+        wins: 2                
+        losses: 1              
+      player2:                 
+        percent: 71            
+        wins: 1                
+        losses: 2              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 67     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Jon'     
+        position: Fourth
+        percent: 71     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2007               
+      draw: Round Robin(6)     
+      score: Ber 5 - Jon 9     
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 78     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'JONE'    
+        position: Fourth
+        percent: 64     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(5)     
+      score: BERN 8 - JONE 5   
+    - player1:          
+        team: 'Sche'    
+        position: Fourth
+        percent: 80     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Jone'    
         position: Fourth
         percent: 78     
         win: 0          
         loss: 1         
-      player2:          
-        team: 'Mar'     
-        position: Second
-        percent: 94     
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(1)     
+      score: Jone 6 - Sche 9   
+ - name: Jordan, Stephanie     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 88            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 77            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 88     
         win: 1          
         loss: 0         
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(4)   
-      score: Mar 8 - Jor 5   
+      player2:        
+        team: 'Web'   
+        position: Lead
+        percent: 77   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2007               
+      draw: Round Robin(9)     
+      score: Ber 8 - Web 2     
+ - name: Kalenchuk, Heather    
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 91            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 79            
+        wins: 0                
+        losses: 1              
+   games:
     - player1:          
-        team: 'KOE'     
+        team: 'CB'      
+        position: Fourth
+        percent: 91     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'AH'    
+        position: Lead
+        percent: 79   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Round Robin(9)     
+      score: CB 7 - AH 1       
+ - name: Kasner, Marliese      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 73            
+        wins: 1                
+        losses: 2              
+      player2:                 
+        percent: 81            
+        wins: 2                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 68     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'LAWT'   
+        position: Third
+        percent: 88    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Page 1-2(11)       
+      score: LAWT 7 - BERN 6   
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 78     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'LAWT'   
+        position: Third
+        percent: 75    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(6)     
+      score: LAWT 5 - BERN 8   
+    - player1:          
+        team: 'CB'      
+        position: Fourth
+        percent: 74     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'SL'    
+        position: Lead
+        percent: 82   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Final(15)          
+      score: CB 3 - SL 7       
+ - name: King, Cathy           
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 78            
+        wins: 2                
+        losses: 1              
+      player2:                 
+        percent: 81            
+        wins: 1                
+        losses: 2              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 76     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Kin'     
+        position: Fourth
+        percent: 78     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2007               
+      draw: Round Robin(7)     
+      score: Kin 7 - Ber 5     
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 80     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'KING'    
+        position: Fourth
+        percent: 83     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(3)     
+      score: BERN 10 - KING 9  
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 77     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'KING'    
+        position: Fourth
+        percent: 82     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(9)     
+      score: KING 9 - BERN 10  
+ - name: Kirby, Carey          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 93            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 76            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 93     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'HARV'  
+        position: Lead
+        percent: 76   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(2)     
+      score: HARV 3 - BERN 6   
+ - name: Kleibrink, Shannon    
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 89            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 53            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'CB'      
+        position: Fourth
+        percent: 89     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'SK'      
+        position: Fourth
+        percent: 53     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Page 1-2(12)       
+      score: CB 6 - SK 4       
+ - name: Larouche, Marie-France
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 70            
+        wins: 0                
+        losses: 2              
+      player2:                 
+        percent: 81            
+        wins: 2                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 69     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'M-FL'    
+        position: Fourth
+        percent: 81     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(3)     
+      score: BERN 9 - M-FL 12  
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 71     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'M-FL'    
+        position: Fourth
+        percent: 81     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Semi-Final(13)     
+      score: M-FL 7 - BERN 6   
+ - name: Lawes, Kaitlyn        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 79            
+        wins: 2                
+        losses: 0              
+      player2:                 
+        percent: 77            
+        wins: 0                
+        losses: 2              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 77     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'KING'   
+        position: Third
+        percent: 77    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(9)     
+      score: KING 9 - BERN 10  
+    - player1:          
+        team: 'Sche'    
+        position: Fourth
+        percent: 80     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'Jone'   
+        position: Third
+        percent: 78    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(1)     
+      score: Jone 6 - Sche 9   
+ - name: Lawton, Stefanie      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 73            
+        wins: 2                
+        losses: 2              
+      player2:                 
+        percent: 69            
+        wins: 2                
+        losses: 2              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 68     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'LAWT'    
+        position: Fourth
+        percent: 87     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Page 1-2(11)       
+      score: LAWT 7 - BERN 6   
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 78     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'LAWT'    
+        position: Fourth
+        percent: 56     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(6)     
+      score: LAWT 5 - BERN 8   
+    - player1:          
+        team: 'CB'      
         position: Fourth
         percent: 88     
         win: 1          
         loss: 0         
       player2:          
-        team: 'SIMM'    
-        position: Second
-        percent: 93     
+        team: 'KS'      
+        position: Fourth
+        percent: 65     
         win: 0          
         loss: 1         
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(3)   
-      score: SIMM 5 - KOE 6  
- - name: Santos, Deb         
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 84          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 93          
-        wins: 0              
-        losses: 1            
-   games:
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Round Robin(1)     
+      score: CB 6 - KS 3       
     - player1:          
-        team: 'Jor'     
+        team: 'Sche'    
         position: Fourth
-        percent: 84     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Sto'    
-        position: Third
-        percent: 93    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(7)   
-      score: Jor 6 - Sto 4   
- - name: Schneider, Kim      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 75          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 70          
-        wins: 1              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'BURT'    
-        position: Fourth
-        percent: 70     
+        percent: 58     
         win: 0          
         loss: 1         
       player2:         
-        team: 'GUSH'   
+        team: 'Silv'   
         position: Third
-        percent: 73    
+        percent: 67    
         win: 1         
         loss: 0        
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(2)   
-      score: GUSH 9 - BURT 3 
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(9)     
+      score: Sche 4 - Silv 9   
+ - name: LeDrew, Stephanie     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 70            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 70            
+        wins: 0                
+        losses: 1              
+   games:
     - player1:          
-        team: 'BB'      
+        team: 'CB'      
         position: Fourth
-        percent: 81     
+        percent: 70     
         win: 1          
         loss: 0         
       player2:         
-        team: 'RFO'    
+        team: 'SN'     
         position: Third
-        percent: 65    
+        percent: 70    
         win: 0         
         loss: 1        
-      event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(6)   
-      score: RFO 1 - BB 9    
- - name: Schneider, Tammy    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 75          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 80          
-        wins: 1              
-        losses: 1            
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Round Robin(6)     
+      score: SN 4 - CB 7       
+ - name: Lemay, Annie          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 70            
+        wins: 0                
+        losses: 2              
+      player2:                 
+        percent: 72            
+        wins: 2                
+        losses: 0              
    games:
     - player1:          
-        team: 'BURT'    
+        team: 'BERN'    
         position: Fourth
-        percent: 70     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'GUSH'    
-        position: Second
-        percent: 89     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(2)   
-      score: GUSH 9 - BURT 3 
-    - player1:          
-        team: 'BB'      
-        position: Fourth
-        percent: 81     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'RFO'     
-        position: Second
         percent: 69     
         win: 0          
         loss: 1         
-      event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(6)   
-      score: RFO 1 - BB 9    
- - name: Schraeder, Jeanna   
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 73          
-        wins: 0              
-        losses: 4            
-      player2:               
-        percent: 89          
-        wins: 4              
-        losses: 0            
+      player2:         
+        team: 'M-FL'   
+        position: Third
+        percent: 75    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(3)     
+      score: BERN 9 - M-FL 12  
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 71     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'M-FL'   
+        position: Third
+        percent: 69    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Semi-Final(13)     
+      score: M-FL 7 - BERN 6   
+ - name: Lemon, Colette        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 70            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 84            
+        wins: 0                
+        losses: 1              
    games:
     - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 81     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Sto'    
-        position: Third
-        percent: 82    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(3)   
-      score: Sto 6 - Bur 5   
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 77     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Sto'    
-        position: Third
-        percent: 89    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Playoff(14)      
-      score: Sto 7 - Bur 5   
-    - player1:          
-        team: 'BURT'    
-        position: Fourth
-        percent: 61     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'STOU'   
-        position: Third
-        percent: 96    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(7)   
-      score: STOU 8 - BURT 5 
-    - player1:          
-        team: 'BB'      
-        position: Fourth
-        percent: 72     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'JS'     
-        position: Third
-        percent: 91    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(7)   
-      score: BB 2 - JS 7     
- - name: Scott, Kelly        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 73          
-        wins: 0              
-        losses: 4            
-      player2:               
-        percent: 88          
-        wins: 4              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 81     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Sto'     
-        position: Fourth
-        percent: 86     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(3)   
-      score: Sto 6 - Bur 5   
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 77     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Sto'     
-        position: Fourth
-        percent: 90     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Playoff(14)      
-      score: Sto 7 - Bur 5   
-    - player1:          
-        team: 'BURT'    
-        position: Fourth
-        percent: 61     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'STOU'    
-        position: Fourth
-        percent: 82     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(7)   
-      score: STOU 8 - BURT 5 
-    - player1:          
-        team: 'BB'      
-        position: Fourth
-        percent: 72     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'JS'      
-        position: Fourth
-        percent: 94     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(7)   
-      score: BB 2 - JS 7     
- - name: Seeley, Heather     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 70          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 80          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'BURT'    
+        team: 'CB'      
         position: Fourth
         percent: 70     
-        win: 0          
-        loss: 1         
+        win: 1          
+        loss: 0         
       player2:        
-        team: 'GUSH'  
+        team: 'SN'    
         position: Lead
-        percent: 80   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(2)   
-      score: GUSH 9 - BURT 3 
- - name: Silvernagle, Robyn  
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 84          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 80          
-        wins: 0              
-        losses: 1            
+        percent: 84   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Round Robin(6)     
+      score: SN 4 - CB 7       
+ - name: Linton, Sherry        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 85            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 76            
+        wins: 1                
+        losses: 0              
    games:
     - player1:          
-        team: 'Jaco'    
+        team: 'Ber'     
         position: Fourth
-        percent: 84     
+        percent: 85     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'Bet'    
+        position: Third
+        percent: 76    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(2)     
+      score: Ber 4 - Bet 5     
+ - name: Loder, Cherie-Ann     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 93            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 69            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 93     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'HARV'   
+        position: Third
+        percent: 69    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(2)     
+      score: HARV 3 - BERN 6   
+ - name: Loder, Kristin        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 93            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 80            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 93     
         win: 1          
         loss: 0         
       player2:          
-        team: 'Duns'    
+        team: 'HARV'    
+        position: Second
+        percent: 80     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(2)     
+      score: HARV 3 - BERN 6   
+ - name: MacCuish, Kristin     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 80            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 86            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Sche'    
         position: Fourth
         percent: 80     
         win: 0          
         loss: 1         
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(4)   
-      score: Jaco 7 - Duns 5 
- - name: Simmons, Cindy      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 71          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 93          
-        wins: 0              
-        losses: 1            
+      player2:        
+        team: 'Fleu'  
+        position: Lead
+        percent: 86   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(8)     
+      score: Fleu 8 - Sche 5   
+ - name: Maclachlan, Kyla      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 90            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 95            
+        wins: 0                
+        losses: 1              
    games:
     - player1:          
-        team: 'BURT'    
+        team: 'BERN'    
         position: Fourth
-        percent: 71     
+        percent: 90     
         win: 1          
         loss: 0         
       player2:        
-        team: 'FERB'  
+        team: 'RANK'  
         position: Lead
-        percent: 93   
+        percent: 95   
         win: 0        
         loss: 1       
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(4)   
-      score: FERB 4 - BURT 7 
- - name: Simons, Renee       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 74          
-        wins: 0              
-        losses: 3            
-      player2:               
-        percent: 94          
-        wins: 3              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(9)     
+      score: BERN 9 - RANK 6   
+ - name: MacLean, Kari         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 69            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 84            
+        wins: 1                
+        losses: 0              
    games:
     - player1:          
-        team: 'Bur'     
+        team: 'CB'      
         position: Fourth
-        percent: 81     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Sto'   
-        position: Lead
-        percent: 97   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(3)   
-      score: Sto 6 - Bur 5   
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 77     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Sto'   
-        position: Lead
-        percent: 93   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Playoff(14)      
-      score: Sto 7 - Bur 5   
-    - player1:          
-        team: 'BURT'    
-        position: Fourth
-        percent: 61     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'STOU'  
-        position: Lead
-        percent: 93   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(7)   
-      score: STOU 8 - BURT 5 
- - name: Sippala, Ashley     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 72          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 98          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'BB'      
-        position: Fourth
-        percent: 72     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'GH'     
-        position: Third
-        percent: 98    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(4)   
-      score: BB 7 - GH 8     
- - name: Smith, Heather      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 76          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Bur'     
-        position: Fourth
-        percent: 81     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Tuc'     
-        position: Fourth
-        percent: 76     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(4)   
-      score: Bur 9 - Tuc 6   
- - name: Sweeting, Val       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 82          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 82          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Jaco'    
-        position: Fourth
-        percent: 82     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Koe'    
-        position: Third
-        percent: 82    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(3)   
-      score: Koe 11 - Jaco 7 
- - name: Thevenot, Kara      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 84          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 83          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Jaco'    
-        position: Fourth
-        percent: 84     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'Duns'  
-        position: Lead
-        percent: 83   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(4)   
-      score: Jaco 7 - Duns 5 
- - name: Walsh, Heather      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 94          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 83          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 94     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'STOU'    
-        position: Second
-        percent: 83     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(5)   
-      score: STOU 5 - KOE 8  
- - name: Weagle, Lisa        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 75          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 91          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Jaco'    
-        position: Fourth
-        percent: 75     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Gush'  
-        position: Lead
-        percent: 91   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(8)   
-      score: Jaco 2 - Gush 6 
- - name: Webster, Bronwen    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 68          
-        wins: 1              
-        losses: 2            
-      player2:               
-        percent: 79          
-        wins: 2              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Jor'     
-        position: Fourth
-        percent: 89     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Bur'     
-        position: Second
-        percent: 75     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(10)  
-      score: Bur 2 - Jor 6   
-    - player1:          
-        team: 'BURT'    
-        position: Fourth
-        percent: 55     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'KOE'     
-        position: Second
-        percent: 78     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(9)   
-      score: BURT 4 - KOE 9  
-    - player1:          
-        team: 'BB'      
-        position: Fourth
-        percent: 63     
+        percent: 69     
         win: 0          
         loss: 1         
       player2:          
         team: 'KM'      
         position: Second
-        percent: 83     
+        percent: 84     
         win: 1          
         loss: 0         
-      event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(9)   
-      score: BB 2 - KM 8     
- - name: Wilkes, Sarah       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 71          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 79          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Round Robin(3)     
+      score: KM 8 - CB 7       
+ - name: Materi, Roberta       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 56            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 81            
+        wins: 0                
+        losses: 1              
    games:
     - player1:          
-        team: 'Jaco'    
+        team: 'BERN'    
         position: Fourth
-        percent: 71     
+        percent: 56     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'ENGL'    
+        position: Second
+        percent: 81     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Page 1-2(12)       
+      score: BERN 8 - ENGL 5   
+ - name: McCarville, Krista    
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 69            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 74            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'CB'      
+        position: Fourth
+        percent: 69     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'KM'      
+        position: Fourth
+        percent: 74     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Round Robin(3)     
+      score: KM 8 - CB 7       
+ - name: McCusker, Joan        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 85            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 89            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 85     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Bet'     
+        position: Second
+        percent: 89     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(2)     
+      score: Ber 4 - Bet 5     
+ - name: McEwen, Dawn          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 75            
+        wins: 2                
+        losses: 1              
+      player2:                 
+        percent: 88            
+        wins: 1                
+        losses: 2              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 67     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'Jon'   
+        position: Lead
+        percent: 88   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2007               
+      draw: Round Robin(6)     
+      score: Ber 5 - Jon 9     
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 78     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'JONE'  
+        position: Lead
+        percent: 93   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(5)     
+      score: BERN 8 - JONE 5   
+    - player1:          
+        team: 'Sche'    
+        position: Fourth
+        percent: 80     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'Jone'  
+        position: Lead
+        percent: 85   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(1)     
+      score: Jone 6 - Sche 9   
+ - name: McIvor, Jolene        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 59            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 80            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 59     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Eng'     
+        position: Fourth
+        percent: 80     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(8)     
+      score: Ber 8 - Eng 9     
+ - name: McIvor, Michelle      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 59            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 81            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 59     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Eng'     
+        position: Second
+        percent: 81     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(8)     
+      score: Ber 8 - Eng 9     
+ - name: McPherson, Cheryl     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 64            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 69            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 64     
         win: 0          
         loss: 1         
       player2:         
-        team: 'Eppi'   
+        team: 'Riz'    
+        position: Third
+        percent: 69    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(1)     
+      score: Riz 10 - Ber 6    
+ - name: Meilleur, Briane      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 89            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 77            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Sche'    
+        position: Fourth
+        percent: 89     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'Eina'  
+        position: Lead
+        percent: 77   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(3)     
+      score: Sche 7 - Eina 1   
+ - name: Merklinger, Anne      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 78            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 71            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 78     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Mer'     
+        position: Fourth
+        percent: 71     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(5)     
+      score: Ber 6 - Mer 8     
+ - name: Miller, Jessica       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 86            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 61            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'CB'      
+        position: Fourth
+        percent: 86     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'HN'      
+        position: Second
+        percent: 61     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Round Robin(8)     
+      score: CB 9 - HN 4       
+ - name: Miskew, Emma          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 68            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 96            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Sche'    
+        position: Fourth
+        percent: 68     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'Homa'   
+        position: Third
+        percent: 96    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(5)     
+      score: Sche 3 - Homa 8   
+ - name: Moore, Kristie        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 58            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 84            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 58     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'San'     
+        position: Second
+        percent: 84     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2007               
+      draw: Round Robin(1)     
+      score: Ber 7 - San 8     
+ - name: Moulding, Heather     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 90            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 95            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 90     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'RANK'    
+        position: Second
+        percent: 95     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(9)     
+      score: BERN 9 - RANK 6   
+ - name: Nedohin, Heather      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 71            
+        wins: 1                
+        losses: 1              
+      player2:                 
+        percent: 71            
+        wins: 1                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 58     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'San'     
+        position: Fourth
+        percent: 70     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2007               
+      draw: Round Robin(1)     
+      score: Ber 7 - San 8     
+    - player1:          
+        team: 'CB'      
+        position: Fourth
+        percent: 86     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'HN'      
+        position: Fourth
+        percent: 72     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Round Robin(8)     
+      score: CB 9 - HN 4       
+ - name: Njegovan, Selena      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 80            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 89            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Sche'    
+        position: Fourth
+        percent: 80     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'Fleu'   
+        position: Third
+        percent: 89    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(8)     
+      score: Fleu 8 - Sche 5   
+ - name: Officer, Jill         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 72            
+        wins: 1                
+        losses: 1              
+      player2:                 
+        percent: 78            
+        wins: 1                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 67     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Jon'     
+        position: Second
+        percent: 76     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2007               
+      draw: Round Robin(6)     
+      score: Ber 5 - Jon 9     
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 78     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'JONE'    
+        position: Second
+        percent: 79     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(5)     
+      score: BERN 8 - JONE 5   
+ - name: Olson-Johns, Lori     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 78            
+        wins: 1                
+        losses: 1              
+      player2:                 
+        percent: 76            
+        wins: 1                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 76     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'Kin'    
         position: Third
         percent: 79    
         win: 1         
         loss: 0        
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(6)   
-      score: Jaco 4 - Eppi 9 
- - name: Zinck, Kay          
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 78          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2007               
+      draw: Round Robin(7)     
+      score: Kin 7 - Ber 5     
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 80     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'KING'   
+        position: Third
+        percent: 74    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(3)     
+      score: BERN 10 - KING 9  
+ - name: Overton-Clapham, Cathy
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 72            
+        wins: 1                
+        losses: 1              
+      player2:                 
+        percent: 78            
+        wins: 1                
+        losses: 1              
    games:
     - player1:          
-        team: 'BURT'    
+        team: 'Ber'     
         position: Fourth
-        percent: 81     
+        percent: 67     
         win: 0          
         loss: 1         
       player2:         
-        team: 'APPE'   
+        team: 'Jon'    
         position: Third
-        percent: 78    
+        percent: 89    
         win: 1         
         loss: 0        
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(5)   
-      score: BURT 4 - APPE 6 
+      event: Canada Cup (Women)
+      year: 2007               
+      draw: Round Robin(6)     
+      score: Ber 5 - Jon 9     
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 78     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'JONE'   
+        position: Third
+        percent: 69    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(5)     
+      score: BERN 8 - JONE 5   
+ - name: Peterman, Jocelyn     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 80            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 86            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Sche'    
+        position: Fourth
+        percent: 80     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Jone'    
+        position: Second
+        percent: 86     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(1)     
+      score: Jone 6 - Sche 9   
+ - name: Peters, Laine         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 83            
+        wins: 2                
+        losses: 0              
+      player2:                 
+        percent: 76            
+        wins: 0                
+        losses: 2              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 79     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'M-AA'    
+        position: Second
+        percent: 74     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(8)     
+      score: BERN 11 - M-AA 6  
+    - player1:          
+        team: 'CB'      
+        position: Fourth
+        percent: 86     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'HN'    
+        position: Lead
+        percent: 78   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Round Robin(8)     
+      score: CB 9 - HN 4       
+ - name: Potts, Sarah          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 69            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 84            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'CB'      
+        position: Fourth
+        percent: 69     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'KM'    
+        position: Lead
+        percent: 84   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Round Robin(3)     
+      score: KM 8 - CB 7       
+ - name: Preston, Samantha     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 88            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 82            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 88     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Web'     
+        position: Second
+        percent: 82     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2007               
+      draw: Round Robin(9)     
+      score: Ber 8 - Web 2     
+ - name: Rankin, Heather       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 90            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 69            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 90     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'RANK'    
+        position: Fourth
+        percent: 69     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(9)     
+      score: BERN 9 - RANK 6   
+ - name: Reddick, Audrey       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 78            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 88            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 78     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'Mer'   
+        position: Lead
+        percent: 88   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(5)     
+      score: Ber 6 - Mer 8     
+ - name: Rizzo, Jo-Ann         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 64            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 72            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 64     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Riz'     
+        position: Fourth
+        percent: 72     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(1)     
+      score: Riz 10 - Ber 6    
+ - name: Robertson, Desiree    
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 88            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 68            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 88     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'Web'    
+        position: Third
+        percent: 68    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2007               
+      draw: Round Robin(9)     
+      score: Ber 8 - Web 2     
+ - name: Rocque, Raylene       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 78            
+        wins: 2                
+        losses: 1              
+      player2:                 
+        percent: 76            
+        wins: 1                
+        losses: 2              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 76     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Kin'     
+        position: Second
+        percent: 69     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2007               
+      draw: Round Robin(7)     
+      score: Kin 7 - Ber 5     
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 80     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'KING'    
+        position: Second
+        percent: 79     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(3)     
+      score: BERN 10 - KING 9  
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 77     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'KING'    
+        position: Second
+        percent: 80     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(9)     
+      score: KING 9 - BERN 10  
+ - name: Rogers, Rhonda        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 70            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 66            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'CB'      
+        position: Fourth
+        percent: 70     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'SN'      
+        position: Second
+        percent: 66     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Round Robin(6)     
+      score: SN 4 - CB 7       
+ - name: Sabourin, Joelle      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 70            
+        wins: 0                
+        losses: 2              
+      player2:                 
+        percent: 81            
+        wins: 2                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 69     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'M-FL'    
+        position: Second
+        percent: 78     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(3)     
+      score: BERN 9 - M-FL 12  
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 71     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'M-FL'    
+        position: Second
+        percent: 84     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Semi-Final(13)     
+      score: M-FL 7 - BERN 6   
+ - name: Santos, Deb           
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 58            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 77            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 58     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'San'    
+        position: Third
+        percent: 77    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2007               
+      draw: Round Robin(1)     
+      score: Ber 7 - San 8     
+ - name: Schneider, Kim        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 85            
+        wins: 1                
+        losses: 1              
+      player2:                 
+        percent: 86            
+        wins: 1                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 82     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'HOLL'   
+        position: Third
+        percent: 88    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(1)     
+      score: HOLL 8 - BERN 5   
+    - player1:          
+        team: 'CB'      
+        position: Fourth
+        percent: 91     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'AH'     
+        position: Third
+        percent: 83    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Round Robin(9)     
+      score: CB 7 - AH 1       
+ - name: Schneider, Tammy      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 85            
+        wins: 1                
+        losses: 1              
+      player2:                 
+        percent: 89            
+        wins: 1                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 82     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'HOLL'    
+        position: Second
+        percent: 90     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(1)     
+      score: HOLL 8 - BERN 5   
+    - player1:          
+        team: 'CB'      
+        position: Fourth
+        percent: 91     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'AH'      
+        position: Second
+        percent: 88     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Round Robin(9)     
+      score: CB 7 - AH 1       
+ - name: Schraeder, Jeanna     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 71            
+        wins: 1                
+        losses: 2              
+      player2:                 
+        percent: 89            
+        wins: 2                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 65     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'Sco'    
+        position: Third
+        percent: 92    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(7)     
+      score: Sco 8 - Ber 4     
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 60     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'SCOT'   
+        position: Third
+        percent: 90    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Semi-Final(13)     
+      score: BERN 6 - SCOT 10  
+    - player1:          
+        team: 'CB'      
+        position: Fourth
+        percent: 88     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'KS'     
+        position: Third
+        percent: 86    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Round Robin(1)     
+      score: CB 6 - KS 3       
+ - name: Scott, Kelly          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 71            
+        wins: 1                
+        losses: 2              
+      player2:                 
+        percent: 79            
+        wins: 2                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 65     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Sco'     
+        position: Fourth
+        percent: 84     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(7)     
+      score: Sco 8 - Ber 4     
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 60     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'SCOT'    
+        position: Fourth
+        percent: 89     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Semi-Final(13)     
+      score: BERN 6 - SCOT 10  
+    - player1:          
+        team: 'CB'      
+        position: Fourth
+        percent: 88     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'KS'      
+        position: Fourth
+        percent: 65     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Round Robin(1)     
+      score: CB 6 - KS 3       
+ - name: Seeley, Heather       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 82            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 92            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 82     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'HOLL'  
+        position: Lead
+        percent: 92   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(1)     
+      score: HOLL 8 - BERN 5   
+ - name: Silvernagle, Robyn    
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 58            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 81            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Sche'    
+        position: Fourth
+        percent: 58     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Silv'    
+        position: Fourth
+        percent: 81     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(9)     
+      score: Sche 4 - Silv 9   
+ - name: Simmons, Cindy        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 57            
+        wins: 1                
+        losses: 1              
+      player2:                 
+        percent: 93            
+        wins: 1                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 59     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'Eng'   
+        position: Lead
+        percent: 99   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(8)     
+      score: Ber 8 - Eng 9     
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 56     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'ENGL'  
+        position: Lead
+        percent: 86   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Page 1-2(12)       
+      score: BERN 8 - ENGL 5   
+ - name: Simons, Renee         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 63            
+        wins: 0                
+        losses: 2              
+      player2:                 
+        percent: 83            
+        wins: 2                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 65     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'Sco'   
+        position: Lead
+        percent: 89   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(7)     
+      score: Sco 8 - Ber 4     
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 60     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'SCOT'  
+        position: Lead
+        percent: 76   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Semi-Final(13)     
+      score: BERN 6 - SCOT 10  
+ - name: Singler, Sherri       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 73            
+        wins: 1                
+        losses: 2              
+      player2:                 
+        percent: 79            
+        wins: 2                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 68     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'LAWT'    
+        position: Second
+        percent: 79     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Page 1-2(11)       
+      score: LAWT 7 - BERN 6   
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 78     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'LAWT'    
+        position: Second
+        percent: 70     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(6)     
+      score: LAWT 5 - BERN 8   
+    - player1:          
+        team: 'CB'      
+        position: Fourth
+        percent: 74     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'SL'      
+        position: Second
+        percent: 89     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Final(15)          
+      score: CB 3 - SL 7       
+ - name: Sippala, Ashley       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 69            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 69            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'CB'      
+        position: Fourth
+        percent: 69     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'KM'     
+        position: Third
+        percent: 69    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Round Robin(3)     
+      score: KM 8 - CB 7       
+ - name: Sweeting, Val         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 89            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 89            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Sche'    
+        position: Fourth
+        percent: 89     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'Eina'   
+        position: Third
+        percent: 89    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(3)     
+      score: Sche 7 - Eina 1   
+ - name: Thevenot, Kara        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 58            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 72            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Sche'    
+        position: Fourth
+        percent: 58     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'Silv'  
+        position: Lead
+        percent: 72   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(9)     
+      score: Sche 4 - Silv 9   
+ - name: Tuck, Kim             
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 64            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 85            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 64     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Riz'     
+        position: Second
+        percent: 85     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(1)     
+      score: Riz 10 - Ber 6    
+ - name: Vey, Lana             
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 72            
+        wins: 1                
+        losses: 1              
+      player2:                 
+        percent: 85            
+        wins: 1                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 68     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'LAWT'  
+        position: Lead
+        percent: 86   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Page 1-2(11)       
+      score: LAWT 7 - BERN 6   
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 78     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'LAWT'  
+        position: Lead
+        percent: 84   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(6)     
+      score: LAWT 5 - BERN 8   
+ - name: Walsh, Heather        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 74            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 76            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 74     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'ANDE'    
+        position: Second
+        percent: 76     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(7)     
+      score: ANDE 7 - BERN 8   
+ - name: Weagle, Lisa          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 68            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 86            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Sche'    
+        position: Fourth
+        percent: 68     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'Homa'  
+        position: Lead
+        percent: 86   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(5)     
+      score: Sche 3 - Homa 8   
+ - name: Webster, Bronwen      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 89            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 71            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'CB'      
+        position: Fourth
+        percent: 89     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'SK'     
+        position: Third
+        percent: 71    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Page 1-2(12)       
+      score: CB 6 - SK 4       
+ - name: Webster, Crystal      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 88            
+        wins: 2                
+        losses: 0              
+      player2:                 
+        percent: 65            
+        wins: 0                
+        losses: 2              
+   games:
+    - player1:          
+        team: 'Ber'     
+        position: Fourth
+        percent: 88     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Web'     
+        position: Fourth
+        percent: 59     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2007               
+      draw: Round Robin(9)     
+      score: Ber 8 - Web 2     
+    - player1:          
+        team: 'CB'      
+        position: Fourth
+        percent: 89     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'SK'      
+        position: Second
+        percent: 70     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2010               
+      draw: Page 1-2(12)       
+      score: CB 6 - SK 4       
+ - name: Wilkes, Sarah         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 67            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 75            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Sche'    
+        position: Fourth
+        percent: 67     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'Care'   
+        position: Third
+        percent: 75    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(4)     
+      score: Care 9 - Sche 5   
+ - name: Zinck, Kay            
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 79            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 81            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'BERN'    
+        position: Fourth
+        percent: 79     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'M-AA'   
+        position: Third
+        percent: 81    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(8)     
+      score: BERN 11 - M-AA 6  
 ---

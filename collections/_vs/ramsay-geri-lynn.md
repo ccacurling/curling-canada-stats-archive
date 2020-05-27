@@ -4,132 +4,116 @@ name: Ramsay, Geri Lynn
 vs:
 - name: Rizzo, Jo-Ann
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 68
+      percent: 74
+      wins: 0
+      losses: 1
+    player2:
+      percent: 64
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: WEB
+      position: Second
+      percent: 74
+      win: 0
+      loss: 1
+    player2:
+      team: MID
+      position: Third
+      percent: 64
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2012
+    draw: Round Robin(5)
+    score: WEB 7 - MID 8
+- name: Singler, Sherri
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 76
+      wins: 0
+      losses: 1
+    player2:
+      percent: 96
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: WEB
+      position: Second
+      percent: 76
+      win: 0
+      loss: 1
+    player2:
+      team: LAW
+      position: Second
+      percent: 96
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2012
+    draw: Round Robin(7)
+    score: WEB 4 - LAW 8
+- name: Titheridge, Lindsay
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 80
       wins: 1
       losses: 0
     player2:
-      percent: 64
+      percent: 73
       wins: 0
       losses: 1
   games:
   - player1:
-      team: STO
-      position: Second
-      percent: 68
-      win: 1
-      loss: 0
-    player2:
-      team: KOE
-      position: Third
-      percent: 64
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2012
-    draw: Round Robin(3)
-    score: STO 7 - KOE 5
-- name: Singler, Sherri
-  totals:
-  - event: Canada Cup (Men)
-    player1:
-      percent: 77
-      wins: 2
-      losses: 0
-    player2:
-      percent: 79
-      wins: 0
-      losses: 2
-  games:
-  - player1:
-      team: STO
-      position: Second
-      percent: 74
-      win: 1
-      loss: 0
-    player2:
-      team: HOW
-      position: Second
-      percent: 74
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2012
-    draw: Round Robin(1)
-    score: STO 9 - HOW 5
-  - player1:
-      team: STO
+      team: WEB
       position: Second
       percent: 80
       win: 1
       loss: 0
     player2:
-      team: HOW
-      position: Second
-      percent: 85
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2012
-    draw: Final(12)
-    score: STO 4 - HOW 3
-- name: Titheridge, Lindsay
-  totals:
-  - event: Canada Cup (Men)
-    player1:
-      percent: 86
-      wins: 0
-      losses: 1
-    player2:
-      percent: 91
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: STO
-      position: Second
-      percent: 86
-      win: 0
-      loss: 1
-    player2:
-      team: EPP
+      team: CAR
       position: Lead
-      percent: 91
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
+      percent: 73
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2012
-    draw: Round Robin(7)
-    score: EPP 8 - STO 7
+    draw: Round Robin(2)
+    score: WEB 7 - CAR 4
 - name: Wall, Kirsten
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
-      wins: 1
-      losses: 0
-    player2:
-      percent: 75
+      percent: 59
       wins: 0
       losses: 1
+    player2:
+      percent: 60
+      wins: 1
+      losses: 0
   games:
   - player1:
-      team: STO
+      team: WEB
       position: Second
-      percent: 88
-      win: 1
-      loss: 0
-    player2:
-      team: GUS
-      position: Third
-      percent: 75
+      percent: 59
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: JON
+      position: Third
+      percent: 60
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2012
-    draw: Round Robin(6)
-    score: GUS 5 - STO 9
+    draw: Round Robin(1)
+    score: JON 9 - WEB 7
 - name: Rogers, Leslie
   totals:
   - event: Hearts

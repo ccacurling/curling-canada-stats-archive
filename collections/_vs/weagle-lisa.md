@@ -4,13 +4,13 @@ name: Weagle, Lisa
 vs:
 - name: Webster, Bronwen
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 83
+      percent: 85
       wins: 0
       losses: 1
     player2:
-      percent: 86
+      percent: 73
       wins: 1
       losses: 0
   - event: Hearts
@@ -24,21 +24,21 @@ vs:
       losses: 1
   games:
   - player1:
-      team: JAC
+      team: HOM
       position: Lead
-      percent: 83
+      percent: 85
       win: 0
       loss: 1
     player2:
-      team: MAR
+      team: KLE
       position: Second
-      percent: 86
+      percent: 73
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2011
-    draw: Round Robin(4)
-    score: JAC 4 - MAR 8
+    draw: Round Robin(9)
+    score: HOM 5 - KLE 6
   - player1:
       team: 'ON'
       position: Lead
@@ -57,43 +57,59 @@ vs:
     score: AB 7 - ON 10
 - name: Webster, Crystal
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 98
-      wins: 0
-      losses: 1
-    player2:
-      percent: 85
-      wins: 1
+      percent: 76
+      wins: 2
       losses: 0
+    player2:
+      percent: 73
+      wins: 0
+      losses: 2
   games:
   - player1:
-      team: CAR
+      team: HOM
       position: Lead
-      percent: 98
-      win: 0
-      loss: 1
-    player2:
-      team: LAY
-      position: Third
-      percent: 85
+      percent: 73
       win: 1
       loss: 0
-    event: Canada Cup (Men)
-    year: 2016
+    player2:
+      team: FLE
+      position: Third
+      percent: 70
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2015
     draw: Round Robin(7)
-    score: CAR 3 - LAY 5
+    score: FLE 5 - HOM 7
+  - player1:
+      team: HOM
+      position: Lead
+      percent: 80
+      win: 1
+      loss: 0
+    player2:
+      team: FLE
+      position: Third
+      percent: 75
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2016
+    draw: Round Robin(4)
+    score: FLE 4 - HOM 6
 - name: Westcott, Raunora
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 94
-      wins: 1
-      losses: 1
-    player2:
       percent: 88
-      wins: 1
-      losses: 1
+      wins: 2
+      losses: 0
+    player2:
+      percent: 89
+      wins: 0
+      losses: 2
   - event: Hearts
     player1:
       percent: 92
@@ -114,37 +130,37 @@ vs:
       losses: 1
   games:
   - player1:
-      team: JAC
+      team: HOM
       position: Lead
-      percent: 95
+      percent: 83
       win: 1
       loss: 0
     player2:
-      team: EPP
+      team: MCD
       position: Lead
-      percent: 88
+      percent: 85
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(6)
-    score: JAC 7 - EPP 3
+    draw: Round Robin(4)
+    score: MCD 4 - HOM 8
   - player1:
-      team: Carr
+      team: Homa
       position: Lead
-      percent: 92
-      win: 0
-      loss: 1
-    player2:
-      team: Duns
-      position: Lead
-      percent: 89
+      percent: 91
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: Flax
+      position: Lead
+      percent: 94
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(7)
-    score: Duns 7 - Carr 3
+    draw: Round Robin(10)
+    score: Flax 4 - Homa 5
   - player1:
       team: 'ON'
       position: Lead
@@ -227,15 +243,15 @@ vs:
     score: Engl 7 - Homa 11
 - name: Wilkes, Sarah
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 93
-      wins: 0
+      percent: 88
+      wins: 1
       losses: 1
     player2:
-      percent: 86
+      percent: 74
       wins: 1
-      losses: 0
+      losses: 1
   - event: Hearts
     player1:
       percent: 85
@@ -247,21 +263,37 @@ vs:
       losses: 2
   games:
   - player1:
-      team: Gush
+      team: Homa
       position: Lead
-      percent: 93
-      win: 0
-      loss: 1
-    player2:
-      team: Eppi
-      position: Third
       percent: 86
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: Care
+      position: Third
+      percent: 72
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2018
+    draw: Round Robin(8)
+    score: Care 2 - Homa 9
+  - player1:
+      team: Homa
+      position: Lead
+      percent: 90
+      win: 0
+      loss: 1
+    player2:
+      team: Care
+      position: Third
+      percent: 76
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2019
-    draw: Round Robin(5)
-    score: Eppi 6 - Gush 4
+    draw: Round Robin(2)
+    score: Homa 4 - Care 6
   - player1:
       team: 'ON'
       position: Lead
@@ -328,9 +360,9 @@ vs:
     score: CA 4 - ON 8
 - name: Wilson, Leslie
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 95
+      percent: 83
       wins: 1
       losses: 0
     player2:
@@ -357,21 +389,21 @@ vs:
       losses: 1
   games:
   - player1:
-      team: JAC
+      team: HOM
       position: Lead
-      percent: 95
+      percent: 83
       win: 1
       loss: 0
     player2:
-      team: EPP
+      team: MCD
       position: Second
       percent: 84
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(6)
-    score: JAC 7 - EPP 3
+    draw: Round Robin(4)
+    score: MCD 4 - HOM 8
   - player1:
       team: 'ON'
       position: Lead
@@ -454,15 +486,15 @@ vs:
     score: Engl 7 - Homa 11
 - name: Wylie, Jennifer
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
-      wins: 0
-      losses: 1
-    player2:
-      percent: 88
+      percent: 73
       wins: 1
       losses: 0
+    player2:
+      percent: 69
+      wins: 0
+      losses: 1
   - event: Hearts
     player1:
       percent: 88
@@ -474,21 +506,21 @@ vs:
       losses: 1
   games:
   - player1:
-      team: JAC
+      team: HOM
       position: Lead
-      percent: 88
-      win: 0
-      loss: 1
-    player2:
-      team: KOE
-      position: Third
-      percent: 88
+      percent: 73
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: FLE
+      position: Lead
+      percent: 69
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(3)
-    score: KOE 7 - JAC 6
+    draw: Round Robin(7)
+    score: FLE 5 - HOM 7
   - player1:
       team: CA
       position: Lead

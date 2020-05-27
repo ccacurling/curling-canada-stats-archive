@@ -2,32 +2,32 @@
 title: Faye Unrau Head-to-head
 name: Unrau, Faye
 vs:
- - name: Wheatcroft, Georgina
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 88          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 85          
-        wins: 1              
-        losses: 0            
+ - name: Wheatcroft, Georgina  
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 89            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 85            
+        wins: 1                
+        losses: 0              
    games:
     - player1:        
-        team: 'Wood'  
+        team: 'Spen'  
         position: Lead
-        percent: 88   
+        percent: 89   
         win: 0        
         loss: 1       
       player2:         
-        team: 'Morr'   
+        team: 'KLaw'   
         position: Third
         percent: 85    
         win: 1         
         loss: 0        
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(8)   
-      score: Morr 8 - Wood 1 
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(6)     
+      score: KLaw 10 - Spen 4  
 ---

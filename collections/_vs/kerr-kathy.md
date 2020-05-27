@@ -4,13 +4,13 @@ name: Kerr, Kathy
 vs:
 - name: Lawes, Andrea
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 92
+      percent: 79
       wins: 0
       losses: 1
     player2:
-      percent: 96
+      percent: 78
       wins: 1
       losses: 0
   - event: Hearts
@@ -24,21 +24,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: DAC
+      team: CUN
       position: Second
-      percent: 92
+      percent: 79
       win: 0
       loss: 1
     player2:
-      team: MOR
+      team: MID
       position: Second
-      percent: 96
+      percent: 78
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(9)
-    score: MOR 8 - DAC 2
+    draw: Round Robin(4)
+    score: CUN 5 - MID 6
   - player1:
       team: NL
       position: Second
@@ -89,15 +89,15 @@ vs:
     score: ON 11 - NL 4
 - name: McDonald, Tina
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 78
-      wins: 1
-      losses: 0
-    player2:
-      percent: 76
+      percent: 91
       wins: 0
       losses: 1
+    player2:
+      percent: 70
+      wins: 1
+      losses: 0
   - event: Hearts
     player1:
       percent: 75
@@ -109,21 +109,21 @@ vs:
       losses: 1
   games:
   - player1:
-      team: DAC
+      team: CUN
       position: Second
-      percent: 78
-      win: 1
-      loss: 0
-    player2:
-      team: KOE
-      position: Second
-      percent: 76
+      percent: 91
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: SON
+      position: Second
+      percent: 70
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(1)
-    score: KOE 4 - DAC 8
+    draw: Round Robin(2)
+    score: SON 8 - CUN 5
   - player1:
       team: NL
       position: Lead
@@ -142,41 +142,41 @@ vs:
     score: AB 6 - NL 7
 - name: McNamee, Karen
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 78
+      percent: 91
+      wins: 0
+      losses: 1
+    player2:
+      percent: 81
       wins: 1
       losses: 0
-    player2:
-      percent: 76
-      wins: 0
-      losses: 1
   games:
   - player1:
-      team: DAC
+      team: CUN
       position: Second
-      percent: 78
-      win: 1
-      loss: 0
-    player2:
-      team: KOE
-      position: Lead
-      percent: 76
+      percent: 91
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: SON
+      position: Lead
+      percent: 81
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(1)
-    score: KOE 4 - DAC 8
+    draw: Round Robin(2)
+    score: SON 8 - CUN 5
 - name: Middaugh, Sherry
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 92
+      percent: 79
       wins: 0
       losses: 1
     player2:
-      percent: 92
+      percent: 85
       wins: 1
       losses: 0
   - event: Hearts
@@ -190,21 +190,21 @@ vs:
       losses: 1
   games:
   - player1:
-      team: DAC
+      team: CUN
       position: Second
-      percent: 92
+      percent: 79
       win: 0
       loss: 1
     player2:
-      team: MOR
+      team: MID
       position: Fourth
-      percent: 92
+      percent: 85
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(9)
-    score: MOR 8 - DAC 2
+    draw: Round Robin(4)
+    score: CUN 5 - MID 6
   - player1:
       team: NL
       position: Second
@@ -255,113 +255,181 @@ vs:
     score: ON 11 - NL 4
 - name: Officer, Jill
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 82
+      percent: 83
       wins: 1
-      losses: 1
+      losses: 0
     player2:
-      percent: 85
-      wins: 1
+      percent: 71
+      wins: 0
       losses: 1
   games:
   - player1:
-      team: DAC
+      team: CUN
       position: Second
-      percent: 88
+      percent: 83
       win: 1
       loss: 0
     player2:
-      team: BUR
+      team: JJO
       position: Second
-      percent: 92
+      percent: 71
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(7)
-    score: DAC 8 - BUR 5
+    draw: Round Robin(1)
+    score: JJO 8 - CUN 9
+- name: Schraeder, Jeanna
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 74
+      wins: 0
+      losses: 1
+    player2:
+      percent: 91
+      wins: 1
+      losses: 0
+  games:
   - player1:
-      team: DAC
+      team: CUN
       position: Second
-      percent: 76
+      percent: 74
       win: 0
       loss: 1
     player2:
-      team: BUR
-      position: Second
-      percent: 79
+      team: SCO
+      position: Third
+      percent: 91
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2004
     draw: Playoff(10)
-    score: DAC 5 - BUR 6
+    score: SCO 9 - CUN 6
+- name: Scott, Kelly
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 74
+      wins: 0
+      losses: 1
+    player2:
+      percent: 71
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: CUN
+      position: Second
+      percent: 74
+      win: 0
+      loss: 1
+    player2:
+      team: SCO
+      position: Fourth
+      percent: 71
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2004
+    draw: Playoff(10)
+    score: SCO 9 - CUN 6
+- name: Simons, Renee
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 74
+      wins: 0
+      losses: 1
+    player2:
+      percent: 81
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: CUN
+      position: Second
+      percent: 74
+      win: 0
+      loss: 1
+    player2:
+      team: SCO
+      position: Lead
+      percent: 81
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2004
+    draw: Playoff(10)
+    score: SCO 9 - CUN 6
 - name: Smith, Nikki
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 78
-      wins: 1
-      losses: 0
-    player2:
-      percent: 72
+      percent: 91
       wins: 0
       losses: 1
+    player2:
+      percent: 93
+      wins: 1
+      losses: 0
   games:
   - player1:
-      team: DAC
+      team: CUN
       position: Second
-      percent: 78
-      win: 1
-      loss: 0
-    player2:
-      team: KOE
-      position: Third
-      percent: 72
+      percent: 91
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: SON
+      position: Third
+      percent: 93
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(1)
-    score: KOE 4 - DAC 8
+    draw: Round Robin(2)
+    score: SON 8 - CUN 5
 - name: Sonnenberg, Renee
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 78
+      percent: 91
+      wins: 0
+      losses: 1
+    player2:
+      percent: 86
       wins: 1
       losses: 0
-    player2:
-      percent: 60
-      wins: 0
-      losses: 1
   games:
   - player1:
-      team: DAC
+      team: CUN
       position: Second
-      percent: 78
-      win: 1
-      loss: 0
-    player2:
-      team: KOE
-      position: Fourth
-      percent: 60
+      percent: 91
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: SON
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(1)
-    score: KOE 4 - DAC 8
+    draw: Round Robin(2)
+    score: SON 8 - CUN 5
 - name: Wall, Kirsten
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 92
+      percent: 79
       wins: 0
       losses: 1
     player2:
-      percent: 94
+      percent: 81
       wins: 1
       losses: 0
   - event: Hearts
@@ -375,21 +443,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: DAC
+      team: CUN
       position: Second
-      percent: 92
+      percent: 79
       win: 0
       loss: 1
     player2:
-      team: MOR
+      team: MID
       position: Third
-      percent: 94
+      percent: 81
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(9)
-    score: MOR 8 - DAC 2
+    draw: Round Robin(4)
+    score: CUN 5 - MID 6
   - player1:
       team: NL
       position: Second

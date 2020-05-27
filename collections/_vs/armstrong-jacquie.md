@@ -4,15 +4,15 @@ name: Armstrong, Jacquie
 vs:
 - name: Bernard, Cheryl
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 81
-      wins: 1
-      losses: 0
-    player2:
-      percent: 72
+      percent: 84
       wins: 0
       losses: 1
+    player2:
+      percent: 88
+      wins: 1
+      losses: 0
   - event: Trials (Women)
     player1:
       percent: 76
@@ -24,21 +24,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: JS
+      team: KS
       position: Lead
-      percent: 81
-      win: 1
-      loss: 0
-    player2:
-      team: BB
-      position: Fourth
-      percent: 72
+      percent: 84
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: CB
+      position: Fourth
+      percent: 88
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2010
-    draw: Round Robin(7)
-    score: BB 2 - JS 7
+    draw: Round Robin(1)
+    score: CB 6 - KS 3
   - player1:
       team: SCOT
       position: Lead
@@ -57,15 +57,15 @@ vs:
     score: SCOT 7 - BERN 9
 - name: Darbyshire, Carolyn
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 81
-      wins: 1
-      losses: 0
-    player2:
-      percent: 64
+      percent: 84
       wins: 0
       losses: 1
+    player2:
+      percent: 78
+      wins: 1
+      losses: 0
   - event: Trials (Women)
     player1:
       percent: 76
@@ -77,21 +77,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: JS
+      team: KS
       position: Lead
-      percent: 81
-      win: 1
-      loss: 0
-    player2:
-      team: BB
-      position: Second
-      percent: 64
+      percent: 84
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: CB
+      position: Second
+      percent: 78
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2010
-    draw: Round Robin(7)
-    score: BB 2 - JS 7
+    draw: Round Robin(1)
+    score: CB 6 - KS 3
   - player1:
       team: SCOT
       position: Lead
@@ -110,43 +110,43 @@ vs:
     score: SCOT 7 - BERN 9
 - name: Foster, Kristen
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 84
+      percent: 83
       wins: 0
       losses: 1
     player2:
-      percent: 78
+      percent: 83
       wins: 1
       losses: 0
   games:
   - player1:
-      team: JS
+      team: KS
       position: Lead
-      percent: 84
+      percent: 83
       win: 0
       loss: 1
     player2:
-      team: MM
+      team: SL
       position: Second
-      percent: 78
+      percent: 83
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2010
-    draw: Round Robin(4)
-    score: JS 5 - MM 11
+    draw: Round Robin(3)
+    score: SL 13 - KS 3
 - name: Holland, Amber
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
-      wins: 1
-      losses: 0
-    player2:
-      percent: 81
+      percent: 66
       wins: 0
       losses: 1
+    player2:
+      percent: 73
+      wins: 1
+      losses: 0
   - event: Hearts
     player1:
       percent: 88
@@ -167,21 +167,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: JS
+      team: KS
       position: Lead
-      percent: 88
-      win: 1
-      loss: 0
-    player2:
-      team: RFO
-      position: Fourth
-      percent: 81
+      percent: 66
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: AH
+      position: Fourth
+      percent: 73
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2010
-    draw: Round Robin(9)
-    score: JS 9 - RFO 5
+    draw: Round Robin(5)
+    score: KS 5 - AH 8
   - player1:
       team: BC
       position: Lead
@@ -248,15 +248,15 @@ vs:
     score: HOLL 10 - SCOT 4
 - name: Iskiw, Beth
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 84
-      wins: 1
+      percent: 89
+      wins: 0
       losses: 1
     player2:
-      percent: 82
+      percent: 76
       wins: 1
-      losses: 1
+      losses: 0
   - event: Hearts
     player1:
       percent: 88
@@ -268,37 +268,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: JS
+      team: KS
       position: Lead
-      percent: 86
-      win: 1
-      loss: 0
-    player2:
-      team: KK
-      position: Third
-      percent: 80
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2010
-    draw: Round Robin(6)
-    score: JS 5 - KK 3
-  - player1:
-      team: JS
-      position: Lead
-      percent: 81
+      percent: 89
       win: 0
       loss: 1
     player2:
-      team: KK
+      team: HN
       position: Third
-      percent: 85
+      percent: 76
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2010
-    draw: Tie-Breaker(11)
-    score: JS 4 - KK 11
+    draw: Round Robin(7)
+    score: KS 5 - HN 6
   - player1:
       team: BC
       position: Lead
@@ -333,15 +317,15 @@ vs:
     score: BC 6 - AB 7
 - name: Kalenchuk, Heather
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
-      wins: 1
-      losses: 0
-    player2:
-      percent: 88
+      percent: 66
       wins: 0
       losses: 1
+    player2:
+      percent: 91
+      wins: 1
+      losses: 0
   - event: Hearts
     player1:
       percent: 88
@@ -362,21 +346,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: JS
+      team: KS
       position: Lead
-      percent: 88
-      win: 1
-      loss: 0
-    player2:
-      team: RFO
-      position: Lead
-      percent: 88
+      percent: 66
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: AH
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2010
-    draw: Round Robin(9)
-    score: JS 9 - RFO 5
+    draw: Round Robin(5)
+    score: KS 5 - AH 8
   - player1:
       team: BC
       position: Lead
@@ -443,13 +427,13 @@ vs:
     score: HOLL 10 - SCOT 4
 - name: Kasner, Marliese
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 84
+      percent: 83
       wins: 0
       losses: 1
     player2:
-      percent: 86
+      percent: 82
       wins: 1
       losses: 0
   - event: Trials (Women)
@@ -463,21 +447,21 @@ vs:
       losses: 1
   games:
   - player1:
-      team: JS
+      team: KS
       position: Lead
-      percent: 84
+      percent: 83
       win: 0
       loss: 1
     player2:
-      team: MM
+      team: SL
       position: Lead
-      percent: 86
+      percent: 82
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2010
-    draw: Round Robin(4)
-    score: JS 5 - MM 11
+    draw: Round Robin(3)
+    score: SL 13 - KS 3
   - player1:
       team: SCOT
       position: Lead
@@ -496,13 +480,13 @@ vs:
     score: SCOT 8 - LAWT 7
 - name: MacLean, Kari
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
+      percent: 84
       wins: 0
       losses: 1
     player2:
-      percent: 85
+      percent: 76
       wins: 1
       losses: 0
   - event: Hearts
@@ -525,21 +509,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: JS
+      team: KS
       position: Lead
-      percent: 88
+      percent: 84
       win: 0
       loss: 1
     player2:
-      team: GH
+      team: KM
       position: Second
-      percent: 85
+      percent: 76
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2010
-    draw: Round Robin(2)
-    score: GH 8 - JS 5
+    draw: Round Robin(8)
+    score: KS 3 - KM 5
   - player1:
       team: BC
       position: Lead
@@ -590,13 +574,13 @@ vs:
     score: SCOT 5 - MCCA 9
 - name: McCarville, Krista
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
+      percent: 84
       wins: 0
       losses: 1
     player2:
-      percent: 86
+      percent: 73
       wins: 1
       losses: 0
   - event: Hearts
@@ -619,21 +603,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: JS
+      team: KS
       position: Lead
-      percent: 88
+      percent: 84
       win: 0
       loss: 1
     player2:
-      team: GH
+      team: KM
       position: Fourth
-      percent: 86
+      percent: 73
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2010
-    draw: Round Robin(2)
-    score: GH 8 - JS 5
+    draw: Round Robin(8)
+    score: KS 3 - KM 5
   - player1:
       team: BC
       position: Lead
@@ -684,59 +668,43 @@ vs:
     score: SCOT 5 - MCCA 9
 - name: Miller, Jessica
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 84
-      wins: 1
-      losses: 1
-    player2:
-      percent: 84
-      wins: 1
-      losses: 1
-  games:
-  - player1:
-      team: JS
-      position: Lead
-      percent: 86
-      win: 1
-      loss: 0
-    player2:
-      team: KK
-      position: Second
-      percent: 90
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2010
-    draw: Round Robin(6)
-    score: JS 5 - KK 3
-  - player1:
-      team: JS
-      position: Lead
-      percent: 81
-      win: 0
-      loss: 1
-    player2:
-      team: KK
-      position: Second
-      percent: 73
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2010
-    draw: Tie-Breaker(11)
-    score: JS 4 - KK 11
-- name: Morris, Cori
-  totals:
-  - event: Canada Cup (Men)
-    player1:
-      percent: 81
-      wins: 1
-      losses: 0
-    player2:
-      percent: 83
+      percent: 89
       wins: 0
       losses: 1
+    player2:
+      percent: 89
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: KS
+      position: Lead
+      percent: 89
+      win: 0
+      loss: 1
+    player2:
+      team: HN
+      position: Second
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2010
+    draw: Round Robin(7)
+    score: KS 5 - HN 6
+- name: Morris, Cori
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 84
+      wins: 0
+      losses: 1
+    player2:
+      percent: 78
+      wins: 1
+      losses: 0
   - event: Trials (Women)
     player1:
       percent: 76
@@ -748,21 +716,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: JS
+      team: KS
       position: Lead
-      percent: 81
-      win: 1
-      loss: 0
-    player2:
-      team: BB
-      position: Lead
-      percent: 83
+      percent: 84
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: CB
+      position: Lead
+      percent: 78
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2010
-    draw: Round Robin(7)
-    score: BB 2 - JS 7
+    draw: Round Robin(1)
+    score: CB 6 - KS 3
   - player1:
       team: SCOT
       position: Lead
@@ -781,15 +749,15 @@ vs:
     score: SCOT 7 - BERN 9
 - name: Nedohin, Heather
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 84
-      wins: 1
+      percent: 89
+      wins: 0
       losses: 1
     player2:
-      percent: 84
+      percent: 89
       wins: 1
-      losses: 1
+      losses: 0
   - event: Hearts
     player1:
       percent: 88
@@ -801,37 +769,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: JS
+      team: KS
       position: Lead
-      percent: 86
-      win: 1
-      loss: 0
-    player2:
-      team: KK
-      position: Fourth
-      percent: 78
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2010
-    draw: Round Robin(6)
-    score: JS 5 - KK 3
-  - player1:
-      team: JS
-      position: Lead
-      percent: 81
+      percent: 89
       win: 0
       loss: 1
     player2:
-      team: KK
+      team: HN
       position: Fourth
-      percent: 94
+      percent: 89
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2010
-    draw: Tie-Breaker(11)
-    score: JS 4 - KK 11
+    draw: Round Robin(7)
+    score: KS 5 - HN 6
   - player1:
       team: BC
       position: Lead
@@ -866,15 +818,15 @@ vs:
     score: BC 6 - AB 7
 - name: O'Connor, Susan
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 81
-      wins: 1
-      losses: 0
-    player2:
-      percent: 80
+      percent: 84
       wins: 0
       losses: 1
+    player2:
+      percent: 69
+      wins: 1
+      losses: 0
   - event: Trials (Women)
     player1:
       percent: 76
@@ -886,21 +838,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: JS
+      team: KS
       position: Lead
-      percent: 81
-      win: 1
-      loss: 0
-    player2:
-      team: BB
-      position: Third
-      percent: 80
+      percent: 84
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: CB
+      position: Third
+      percent: 69
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2010
-    draw: Round Robin(7)
-    score: BB 2 - JS 7
+    draw: Round Robin(1)
+    score: CB 6 - KS 3
   - player1:
       team: SCOT
       position: Lead
@@ -919,15 +871,15 @@ vs:
     score: SCOT 7 - BERN 9
 - name: Peters, Laine
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 84
-      wins: 1
+      percent: 89
+      wins: 0
       losses: 1
     player2:
-      percent: 87
+      percent: 83
       wins: 1
-      losses: 1
+      losses: 0
   - event: Hearts
     player1:
       percent: 88
@@ -939,37 +891,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: JS
+      team: KS
       position: Lead
-      percent: 86
-      win: 1
-      loss: 0
-    player2:
-      team: KK
-      position: Lead
-      percent: 85
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2010
-    draw: Round Robin(6)
-    score: JS 5 - KK 3
-  - player1:
-      team: JS
-      position: Lead
-      percent: 81
+      percent: 89
       win: 0
       loss: 1
     player2:
-      team: KK
+      team: HN
       position: Lead
-      percent: 90
+      percent: 83
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2010
-    draw: Tie-Breaker(11)
-    score: JS 4 - KK 11
+    draw: Round Robin(7)
+    score: KS 5 - HN 6
   - player1:
       team: BC
       position: Lead
@@ -1004,43 +940,43 @@ vs:
     score: BC 6 - AB 7
 - name: Potts, Sarah
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
+      percent: 84
       wins: 0
       losses: 1
     player2:
-      percent: 76
+      percent: 85
       wins: 1
       losses: 0
   games:
   - player1:
-      team: JS
+      team: KS
       position: Lead
-      percent: 88
+      percent: 84
       win: 0
       loss: 1
     player2:
-      team: GH
+      team: KM
       position: Lead
-      percent: 76
+      percent: 85
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2010
-    draw: Round Robin(2)
-    score: GH 8 - JS 5
+    draw: Round Robin(8)
+    score: KS 3 - KM 5
 - name: Schneider, Kim
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
-      wins: 1
-      losses: 0
-    player2:
-      percent: 88
+      percent: 66
       wins: 0
       losses: 1
+    player2:
+      percent: 85
+      wins: 1
+      losses: 0
   - event: Hearts
     player1:
       percent: 88
@@ -1061,21 +997,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: JS
+      team: KS
       position: Lead
-      percent: 88
-      win: 1
-      loss: 0
-    player2:
-      team: RFO
-      position: Third
-      percent: 88
+      percent: 66
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: AH
+      position: Third
+      percent: 85
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2010
-    draw: Round Robin(9)
-    score: JS 9 - RFO 5
+    draw: Round Robin(5)
+    score: KS 5 - AH 8
   - player1:
       team: BC
       position: Lead
@@ -1142,15 +1078,15 @@ vs:
     score: HOLL 10 - SCOT 4
 - name: Schneider, Tammy
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
-      wins: 1
-      losses: 0
-    player2:
-      percent: 79
+      percent: 66
       wins: 0
       losses: 1
+    player2:
+      percent: 74
+      wins: 1
+      losses: 0
   - event: Hearts
     player1:
       percent: 86
@@ -1171,21 +1107,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: JS
+      team: KS
       position: Lead
-      percent: 88
-      win: 1
-      loss: 0
-    player2:
-      team: RFO
-      position: Second
-      percent: 79
+      percent: 66
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: AH
+      position: Second
+      percent: 74
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2010
-    draw: Round Robin(9)
-    score: JS 9 - RFO 5
+    draw: Round Robin(5)
+    score: KS 5 - AH 8
   - player1:
       team: BC
       position: Lead
@@ -1236,13 +1172,13 @@ vs:
     score: HOLL 10 - SCOT 4
 - name: Singler, Sherri
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 84
+      percent: 83
       wins: 0
       losses: 1
     player2:
-      percent: 78
+      percent: 83
       wins: 1
       losses: 0
   - event: Trials (Women)
@@ -1256,21 +1192,21 @@ vs:
       losses: 1
   games:
   - player1:
-      team: JS
+      team: KS
       position: Lead
-      percent: 84
+      percent: 83
       win: 0
       loss: 1
     player2:
-      team: MM
+      team: SL
       position: Second
-      percent: 78
+      percent: 83
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2010
-    draw: Round Robin(4)
-    score: JS 5 - MM 11
+    draw: Round Robin(3)
+    score: SL 13 - KS 3
   - player1:
       team: SCOT
       position: Lead
@@ -1289,13 +1225,13 @@ vs:
     score: SCOT 8 - LAWT 7
 - name: Sippala, Ashley
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
+      percent: 84
       wins: 0
       losses: 1
     player2:
-      percent: 90
+      percent: 85
       wins: 1
       losses: 0
   - event: Hearts
@@ -1309,21 +1245,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: JS
+      team: KS
       position: Lead
-      percent: 88
+      percent: 84
       win: 0
       loss: 1
     player2:
-      team: GH
+      team: KM
       position: Third
-      percent: 90
+      percent: 85
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2010
-    draw: Round Robin(2)
-    score: GH 8 - JS 5
+    draw: Round Robin(8)
+    score: KS 3 - KM 5
   - player1:
       team: BC
       position: Lead

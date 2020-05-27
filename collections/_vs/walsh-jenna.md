@@ -4,15 +4,15 @@ name: Walsh, Jenna
 vs:
 - name: Weagle, Lisa
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 86
-      wins: 2
-      losses: 0
-    player2:
-      percent: 93
+      percent: 77
       wins: 0
       losses: 2
+    player2:
+      percent: 76
+      wins: 2
+      losses: 0
   - event: Hearts
     player1:
       percent: 85
@@ -24,37 +24,37 @@ vs:
       losses: 0
   games:
   - player1:
-      team: KOE
+      team: FLE
       position: Second
-      percent: 85
-      win: 1
-      loss: 0
-    player2:
-      team: JAC
-      position: Lead
-      percent: 88
+      percent: 81
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: HOM
+      position: Lead
+      percent: 73
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(3)
-    score: KOE 7 - JAC 6
+    draw: Round Robin(7)
+    score: FLE 5 - HOM 7
   - player1:
-      team: LAY
+      team: FLE
       position: Second
-      percent: 88
-      win: 1
-      loss: 0
-    player2:
-      team: CAR
-      position: Lead
-      percent: 98
+      percent: 73
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: HOM
+      position: Lead
+      percent: 80
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2016
-    draw: Round Robin(7)
-    score: CAR 3 - LAY 5
+    draw: Round Robin(4)
+    score: FLE 4 - HOM 6
   - player1:
       team: 'NO'
       position: Second
@@ -73,92 +73,60 @@ vs:
     score: NO 4 - CA 6
 - name: Westcott, Raunora
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 84
-      wins: 1
+      percent: 63
+      wins: 0
       losses: 1
     player2:
-      percent: 87
+      percent: 72
       wins: 1
-      losses: 1
+      losses: 0
   games:
   - player1:
-      team: KOE
+      team: FLE
       position: Second
-      percent: 78
+      percent: 63
       win: 0
       loss: 1
     player2:
-      team: EPP
+      team: MCD
       position: Lead
-      percent: 76
+      percent: 72
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(5)
-    score: KOE 5 - EPP 9
-  - player1:
-      team: KOE
-      position: Second
-      percent: 90
-      win: 1
-      loss: 0
-    player2:
-      team: EPP
-      position: Lead
-      percent: 97
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2015
-    draw: Semi-Final(12)
-    score: EPP 6 - KOE 7
+    draw: Round Robin(2)
+    score: MCD 7 - FLE 3
 - name: Wilson, Leslie
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
+      percent: 63
+      wins: 0
+      losses: 1
+    player2:
       percent: 84
       wins: 1
-      losses: 1
-    player2:
-      percent: 86
-      wins: 1
-      losses: 1
+      losses: 0
   games:
   - player1:
-      team: KOE
+      team: FLE
       position: Second
-      percent: 78
+      percent: 63
       win: 0
       loss: 1
     player2:
-      team: EPP
+      team: MCD
       position: Second
-      percent: 83
+      percent: 84
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(5)
-    score: KOE 5 - EPP 9
-  - player1:
-      team: KOE
-      position: Second
-      percent: 90
-      win: 1
-      loss: 0
-    player2:
-      team: EPP
-      position: Second
-      percent: 89
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2015
-    draw: Semi-Final(12)
-    score: EPP 6 - KOE 7
+    draw: Round Robin(2)
+    score: MCD 7 - FLE 3
 - name: Whitaker, Carol
   totals:
   - event: Hearts

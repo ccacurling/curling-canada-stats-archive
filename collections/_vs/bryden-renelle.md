@@ -2,368 +2,368 @@
 title: Renelle Bryden Head-to-head
 name: Bryden, Renelle
 vs:
- - name: Clarke, Hayley      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 79          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 85          
-        wins: 0              
-        losses: 1            
+ - name: Clarke, Hayley        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 57            
+        wins: 1                
+        losses: 0              
    games:
     - player1:          
-        team: 'SIM'     
+        team: 'BRY'     
         position: Fourth
-        percent: 79     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'COR'   
-        position: Lead
-        percent: 85   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2004             
-      draw: Round Robin(9)   
-      score: COR 7 - SIM 8   
- - name: Comstock, Melanie   
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 79          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 73          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'SIM'     
-        position: Fourth
-        percent: 79     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'COR'    
-        position: Third
-        percent: 73    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2004             
-      draw: Round Robin(9)   
-      score: COR 7 - SIM 8   
- - name: Gignac, Donna       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 79          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 93          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'SIM'     
-        position: Fourth
-        percent: 79     
+        percent: 81     
         win: 0          
         loss: 1         
       player2:        
-        team: 'STO'   
+        team: 'JAC'   
         position: Lead
-        percent: 93   
+        percent: 57   
         win: 1        
         loss: 0       
-      event: Canada Cup (Men)
-      year: 2004             
-      draw: Round Robin(7)   
-      score: SIM 4 - STO 5   
- - name: Hodson, Kim         
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 79          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 86          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2004               
+      draw: Round Robin(2)     
+      score: BRY 5 - JAC 6     
+ - name: Comstock, Melanie     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 79            
+        wins: 1                
+        losses: 0              
    games:
     - player1:          
-        team: 'SIM'     
+        team: 'BRY'     
         position: Fourth
-        percent: 79     
+        percent: 81     
         win: 0          
         loss: 1         
       player2:         
-        team: 'STO'    
+        team: 'JAC'    
         position: Third
-        percent: 86    
+        percent: 79    
         win: 1         
         loss: 0        
-      event: Canada Cup (Men)
-      year: 2004             
-      draw: Round Robin(7)   
-      score: SIM 4 - STO 5   
- - name: Jackson, Virginia   
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 79          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 84          
-        wins: 0              
-        losses: 1            
+      event: Canada Cup (Women)
+      year: 2004               
+      draw: Round Robin(2)     
+      score: BRY 5 - JAC 6     
+ - name: Gignac, Donna         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 65            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 79            
+        wins: 1                
+        losses: 0              
    games:
     - player1:          
-        team: 'SIM'     
+        team: 'BRY'     
         position: Fourth
-        percent: 79     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'COR'     
-        position: Fourth
-        percent: 84     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2004             
-      draw: Round Robin(9)   
-      score: COR 7 - SIM 8   
- - name: Kleibrink, Shannon  
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 90          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'SIM'     
-        position: Fourth
-        percent: 81     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'FER'     
-        position: Fourth
-        percent: 90     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2004             
-      draw: Round Robin(4)   
-      score: FER 10 - SIM 4  
- - name: MacLeod, Lisa       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 79          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 80          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'SIM'     
-        position: Fourth
-        percent: 79     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'COR'     
-        position: Second
-        percent: 80     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2004             
-      draw: Round Robin(9)   
-      score: COR 7 - SIM 8   
- - name: Marchand, Stephanie 
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 84          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'SIM'     
-        position: Fourth
-        percent: 81     
+        percent: 65     
         win: 0          
         loss: 1         
       player2:        
-        team: 'FER'   
+        team: 'AND'   
         position: Lead
-        percent: 84   
+        percent: 79   
         win: 1        
         loss: 0       
-      event: Canada Cup (Men)
-      year: 2004             
-      draw: Round Robin(4)   
-      score: FER 10 - SIM 4  
- - name: Mulroney, Sandra    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 79          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 93          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2004               
+      draw: Round Robin(1)     
+      score: AND 6 - BRY 3     
+ - name: Hodson, Kim           
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 65            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 78            
+        wins: 1                
+        losses: 0              
    games:
     - player1:          
-        team: 'SIM'     
+        team: 'BRY'     
         position: Fourth
-        percent: 79     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'STO'     
-        position: Second
-        percent: 93     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2004             
-      draw: Round Robin(7)   
-      score: SIM 4 - STO 5   
- - name: Nixon, Amy          
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 88          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'SIM'     
-        position: Fourth
-        percent: 81     
+        percent: 65     
         win: 0          
         loss: 1         
       player2:         
-        team: 'FER'    
-        position: Third
-        percent: 88    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2004             
-      draw: Round Robin(4)   
-      score: FER 10 - SIM 4  
- - name: Schraeder, Jeanna   
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 74          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 78          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'SIM'     
-        position: Fourth
-        percent: 74     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'HOW'    
+        team: 'AND'    
         position: Third
         percent: 78    
         win: 1         
         loss: 0        
-      event: Canada Cup (Men)
-      year: 2004             
-      draw: Round Robin(8)   
-      score: SIM 3 - HOW 7   
- - name: Scott, Kelly        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 74          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 97          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2004               
+      draw: Round Robin(1)     
+      score: AND 6 - BRY 3     
+ - name: Jackson, Virginia     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 73            
+        wins: 1                
+        losses: 0              
    games:
     - player1:          
-        team: 'SIM'     
+        team: 'BRY'     
         position: Fourth
-        percent: 74     
+        percent: 81     
         win: 0          
         loss: 1         
       player2:          
-        team: 'HOW'     
+        team: 'JAC'     
         position: Fourth
-        percent: 97     
+        percent: 73     
         win: 1          
         loss: 0         
-      event: Canada Cup (Men)
-      year: 2004             
-      draw: Round Robin(8)   
-      score: SIM 3 - HOW 7   
- - name: Simons, Renee       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 74          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 87          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2004               
+      draw: Round Robin(2)     
+      score: BRY 5 - JAC 6     
+ - name: Kleibrink, Shannon    
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 84            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 76            
+        wins: 1                
+        losses: 0              
    games:
     - player1:          
-        team: 'SIM'     
+        team: 'BRY'     
         position: Fourth
-        percent: 74     
+        percent: 84     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'KLE'     
+        position: Fourth
+        percent: 76     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2004               
+      draw: Round Robin(4)     
+      score: KLE 7 - BRY 5     
+ - name: MacLeod, Lisa         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 84            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'BRY'     
+        position: Fourth
+        percent: 81     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'JAC'     
+        position: Second
+        percent: 84     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2004               
+      draw: Round Robin(2)     
+      score: BRY 5 - JAC 6     
+ - name: Marchand, Stephanie   
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 84            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 86            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'BRY'     
+        position: Fourth
+        percent: 84     
         win: 0          
         loss: 1         
       player2:        
-        team: 'HOW'   
+        team: 'KLE'   
         position: Lead
-        percent: 87   
+        percent: 86   
         win: 1        
         loss: 0       
-      event: Canada Cup (Men)
-      year: 2004             
-      draw: Round Robin(8)   
-      score: SIM 3 - HOW 7   
+      event: Canada Cup (Women)
+      year: 2004               
+      draw: Round Robin(4)     
+      score: KLE 7 - BRY 5     
+ - name: Mulroney, Sandra      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 65            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 88            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'BRY'     
+        position: Fourth
+        percent: 65     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'AND'     
+        position: Second
+        percent: 88     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2004               
+      draw: Round Robin(1)     
+      score: AND 6 - BRY 3     
+ - name: Nixon, Amy            
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 84            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 78            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'BRY'     
+        position: Fourth
+        percent: 84     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'KLE'    
+        position: Third
+        percent: 78    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2004               
+      draw: Round Robin(4)     
+      score: KLE 7 - BRY 5     
+ - name: Schraeder, Jeanna     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 80            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 74            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'BRY'     
+        position: Fourth
+        percent: 80     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'SCO'    
+        position: Third
+        percent: 74    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2004               
+      draw: Round Robin(5)     
+      score: BRY 7 - SCO 6     
+ - name: Scott, Kelly          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 80            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 84            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'BRY'     
+        position: Fourth
+        percent: 80     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'SCO'     
+        position: Fourth
+        percent: 84     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2004               
+      draw: Round Robin(5)     
+      score: BRY 7 - SCO 6     
+ - name: Simons, Renee         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 80            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 86            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'BRY'     
+        position: Fourth
+        percent: 80     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'SCO'   
+        position: Lead
+        percent: 86   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2004               
+      draw: Round Robin(5)     
+      score: BRY 7 - SCO 6     
 ---

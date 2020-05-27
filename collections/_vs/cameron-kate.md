@@ -4,43 +4,137 @@ name: Cameron, Kate
 vs:
 - name: Cannon, Theresa
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 76
+      percent: 69
+      wins: 1
+      losses: 0
+    player2:
+      percent: 80
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: Flax
+      position: Third
+      percent: 69
+      win: 1
+      loss: 0
+    player2:
+      team: Robe
+      position: Lead
+      percent: 80
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2018
+    draw: Round Robin(9)
+    score: Flax 9 - Robe 6
+- name: Carey, Chelsea
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 70
       wins: 0
       losses: 1
     player2:
-      percent: 93
+      percent: 80
+      wins: 1
+      losses: 0
+  - event: Hearts
+    player1:
+      percent: 83
+      wins: 0
+      losses: 2
+    player2:
+      percent: 82
+      wins: 2
+      losses: 0
+  - event: Trials (Women)
+    player1:
+      percent: 75
+      wins: 0
+      losses: 1
+    player2:
+      percent: 90
       wins: 1
       losses: 0
   games:
   - player1:
-      team: Duns
+      team: Flax
       position: Third
-      percent: 76
+      percent: 70
       win: 0
       loss: 1
     player2:
-      team: Gush
-      position: Lead
-      percent: 93
+      team: Care
+      position: Fourth
+      percent: 80
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(1)
-    score: Gush 7 - Duns 4
+    draw: Round Robin(5)
+    score: Flax 5 - Care 7
+  - player1:
+      team: MB
+      position: Third
+      percent: 89
+      win: 0
+      loss: 1
+    player2:
+      team: CA
+      position: Fourth
+      percent: 75
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2017
+    draw: Round Robin(10)
+    score: MB 7 - CA 8
+  - player1:
+      team: AB
+      position: Third
+      percent: 78
+      win: 0
+      loss: 1
+    player2:
+      team: CA
+      position: Fourth
+      percent: 89
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2020
+    draw: Round Robin(9)
+    score: CA 7 - AB 5
+  - player1:
+      team: Engl
+      position: Third
+      percent: 75
+      win: 0
+      loss: 1
+    player2:
+      team: Care
+      position: Fourth
+      percent: 90
+      win: 1
+      loss: 0
+    event: Trials (Women)
+    year: 2017
+    draw: Round Robin(19)
+    score: Care 10 - Engl 3
 - name: Courtney, Joanne
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 89
-      wins: 1
-      losses: 1
+      percent: 80
+      wins: 0
+      losses: 2
     player2:
-      percent: 95
-      wins: 1
-      losses: 1
+      percent: 88
+      wins: 2
+      losses: 0
   - event: Hearts
     player1:
       percent: 88
@@ -61,37 +155,37 @@ vs:
       losses: 0
   games:
   - player1:
-      team: EPP
+      team: MCD
       position: Third
-      percent: 86
+      percent: 69
       win: 0
       loss: 1
     player2:
-      team: JAC
+      team: HOM
       position: Second
-      percent: 98
+      percent: 86
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(6)
-    score: JAC 7 - EPP 3
+    draw: Round Robin(4)
+    score: MCD 4 - HOM 8
   - player1:
-      team: Duns
+      team: Flax
       position: Third
-      percent: 92
-      win: 1
-      loss: 0
-    player2:
-      team: Carr
-      position: Second
       percent: 91
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: Homa
+      position: Second
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(7)
-    score: Duns 7 - Carr 3
+    draw: Round Robin(10)
+    score: Flax 4 - Homa 5
   - player1:
       team: MB
       position: Third
@@ -158,57 +252,57 @@ vs:
     score: Engl 7 - Homa 11
 - name: Crocker, Laura
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 84
+      percent: 78
       wins: 1
       losses: 1
     player2:
-      percent: 79
+      percent: 66
       wins: 1
       losses: 1
   games:
   - player1:
-      team: EPP
+      team: MCD
       position: Third
-      percent: 88
-      win: 1
-      loss: 0
-    player2:
-      team: LAY
-      position: Third
-      percent: 84
+      percent: 75
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: ROC
+      position: Third
+      percent: 64
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2015
     draw: Round Robin(1)
-    score: EPP 7 - LAY 5
+    score: ROC 7 - MCD 6
   - player1:
-      team: Duns
+      team: Flax
       position: Third
       percent: 81
-      win: 0
-      loss: 1
-    player2:
-      team: Koe
-      position: Fourth
-      percent: 74
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: Walk
+      position: Fourth
+      percent: 69
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(3)
-    score: Koe 9 - Duns 6
+    draw: Round Robin(1)
+    score: Walk 5 - Flax 6
 - name: Einarson, Kerri
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 91
+      percent: 76
       wins: 0
       losses: 1
     player2:
-      percent: 90
+      percent: 72
       wins: 1
       losses: 0
   - event: Hearts
@@ -222,21 +316,21 @@ vs:
       losses: 1
   games:
   - player1:
-      team: Duns
+      team: Flax
       position: Third
-      percent: 91
+      percent: 76
       win: 0
       loss: 1
     player2:
-      team: Bott
+      team: Eina
       position: Fourth
-      percent: 90
+      percent: 72
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(6)
-    score: Duns 6 - Bott 8
+    draw: Round Robin(3)
+    score: Eina 7 - Flax 6
   - player1:
       team: CA
       position: Third
@@ -271,15 +365,15 @@ vs:
     score: AB 5 - MB 8
 - name: Ferguson, Dana
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
       percent: 74
-      wins: 1
-      losses: 0
-    player2:
-      percent: 78
       wins: 0
-      losses: 1
+      losses: 2
+    player2:
+      percent: 89
+      wins: 2
+      losses: 0
   - event: Hearts
     player1:
       percent: 78
@@ -300,21 +394,37 @@ vs:
       losses: 0
   games:
   - player1:
-      team: EPP
+      team: MCD
       position: Third
-      percent: 74
-      win: 1
-      loss: 0
-    player2:
-      team: GUS
-      position: Second
-      percent: 78
+      percent: 79
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: SWE
+      position: Second
+      percent: 86
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(9)
-    score: EPP 8 - GUS 6
+    draw: Round Robin(6)
+    score: SWE 8 - MCD 3
+  - player1:
+      team: Flax
+      position: Third
+      percent: 70
+      win: 0
+      loss: 1
+    player2:
+      team: Care
+      position: Second
+      percent: 93
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2018
+    draw: Round Robin(5)
+    score: Flax 5 - Care 7
   - player1:
       team: AB
       position: Third
@@ -349,14 +459,14 @@ vs:
     score: Engl 5 - Swee 8
 - name: Fleury, Tracy
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 79
+      percent: 90
       wins: 1
-      losses: 1
+      losses: 0
     player2:
-      percent: 83
-      wins: 1
+      percent: 64
+      wins: 0
       losses: 1
   - event: Hearts
     player1:
@@ -369,37 +479,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: EPP
+      team: MCD
       position: Third
-      percent: 79
+      percent: 90
       win: 1
       loss: 0
     player2:
-      team: KOE
+      team: FLE
       position: Fourth
-      percent: 80
+      percent: 64
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(5)
-    score: KOE 5 - EPP 9
-  - player1:
-      team: EPP
-      position: Third
-      percent: 80
-      win: 0
-      loss: 1
-    player2:
-      team: KOE
-      position: Fourth
-      percent: 85
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2015
-    draw: Semi-Final(12)
-    score: EPP 6 - KOE 7
+    draw: Round Robin(2)
+    score: MCD 7 - FLE 3
   - player1:
       team: CA
       position: Third
@@ -418,42 +512,42 @@ vs:
     score: CA 3 - NO 8
 - name: Foster, Vanessa
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 76
-      wins: 0
-      losses: 1
-    player2:
-      percent: 88
+      percent: 69
       wins: 1
       losses: 0
+    player2:
+      percent: 69
+      wins: 0
+      losses: 1
   games:
   - player1:
-      team: Duns
+      team: Flax
       position: Third
-      percent: 76
-      win: 0
-      loss: 1
-    player2:
-      team: Gush
-      position: Second
-      percent: 88
+      percent: 69
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: Robe
+      position: Second
+      percent: 69
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(1)
-    score: Gush 7 - Duns 4
+    draw: Round Robin(9)
+    score: Flax 9 - Robe 6
 - name: Gates, Amanda
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 79
+      percent: 90
       wins: 1
-      losses: 1
+      losses: 0
     player2:
-      percent: 88
-      wins: 1
+      percent: 86
+      wins: 0
       losses: 1
   - event: Hearts
     player1:
@@ -466,37 +560,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: EPP
+      team: MCD
       position: Third
-      percent: 79
+      percent: 90
       win: 1
       loss: 0
     player2:
-      team: KOE
+      team: FLE
       position: Lead
-      percent: 75
+      percent: 86
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(5)
-    score: KOE 5 - EPP 9
-  - player1:
-      team: EPP
-      position: Third
-      percent: 80
-      win: 0
-      loss: 1
-    player2:
-      team: KOE
-      position: Lead
-      percent: 99
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2015
-    draw: Semi-Final(12)
-    score: EPP 6 - KOE 7
+    draw: Round Robin(2)
+    score: MCD 7 - FLE 3
   - player1:
       team: CA
       position: Third
@@ -515,15 +593,15 @@ vs:
     score: CA 3 - NO 8
 - name: Gates, Jennifer
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
-      wins: 1
-      losses: 0
-    player2:
-      percent: 95
+      percent: 75
       wins: 0
       losses: 1
+    player2:
+      percent: 91
+      wins: 1
+      losses: 0
   - event: Hearts
     player1:
       percent: 81
@@ -535,21 +613,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: EPP
+      team: MCD
       position: Third
-      percent: 88
-      win: 1
-      loss: 0
-    player2:
-      team: LAY
-      position: Lead
-      percent: 95
+      percent: 75
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: ROC
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2015
     draw: Round Robin(1)
-    score: EPP 7 - LAY 5
+    score: ROC 7 - MCD 6
   - player1:
       team: AB
       position: Third
@@ -568,43 +646,43 @@ vs:
     score: AB 3 - NO 4
 - name: Haughian, Jessie
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 63
+      percent: 75
       wins: 0
       losses: 1
     player2:
-      percent: 88
+      percent: 95
       wins: 1
       losses: 0
   games:
   - player1:
-      team: Duns
+      team: Flax
       position: Third
-      percent: 63
+      percent: 75
       win: 0
       loss: 1
     player2:
-      team: Jaco
+      team: Sche
       position: Second
-      percent: 88
+      percent: 95
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(5)
-    score: Duns 4 - Jaco 7
+    draw: Round Robin(6)
+    score: Flax 2 - Sche 12
 - name: Homan, Rachel
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 89
-      wins: 1
-      losses: 1
+      percent: 80
+      wins: 0
+      losses: 2
     player2:
-      percent: 82
-      wins: 1
-      losses: 1
+      percent: 81
+      wins: 2
+      losses: 0
   - event: Hearts
     player1:
       percent: 88
@@ -625,37 +703,37 @@ vs:
       losses: 0
   games:
   - player1:
-      team: EPP
+      team: MCD
       position: Third
-      percent: 86
+      percent: 69
       win: 0
       loss: 1
     player2:
-      team: JAC
+      team: HOM
       position: Fourth
-      percent: 88
+      percent: 80
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(6)
-    score: JAC 7 - EPP 3
+    draw: Round Robin(4)
+    score: MCD 4 - HOM 8
   - player1:
-      team: Duns
+      team: Flax
       position: Third
-      percent: 92
-      win: 1
-      loss: 0
-    player2:
-      team: Carr
-      position: Fourth
-      percent: 77
+      percent: 91
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: Homa
+      position: Fourth
+      percent: 83
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(7)
-    score: Duns 7 - Carr 3
+    draw: Round Robin(10)
+    score: Flax 4 - Homa 5
   - player1:
       team: MB
       position: Third
@@ -722,15 +800,15 @@ vs:
     score: Engl 7 - Homa 11
 - name: Jones, Jennifer
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 83
-      wins: 1
-      losses: 1
-    player2:
       percent: 84
-      wins: 1
-      losses: 1
+      wins: 0
+      losses: 2
+    player2:
+      percent: 90
+      wins: 2
+      losses: 0
   - event: Hearts
     player1:
       percent: 90
@@ -751,37 +829,37 @@ vs:
       losses: 0
   games:
   - player1:
-      team: EPP
+      team: MCD
       position: Third
       percent: 86
-      win: 1
-      loss: 0
-    player2:
-      team: CAR
-      position: Fourth
-      percent: 68
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: JON
+      position: Fourth
+      percent: 94
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(10)
-    score: EPP 9 - CAR 4
+    draw: Round Robin(7)
+    score: MCD 4 - JON 11
   - player1:
-      team: Duns
+      team: Flax
       position: Third
-      percent: 81
+      percent: 83
       win: 0
       loss: 1
     player2:
-      team: Eppi
+      team: Jone
       position: Fourth
-      percent: 95
+      percent: 88
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(9)
-    score: Eppi 7 - Duns 5
+    draw: Round Robin(7)
+    score: Jone 7 - Flax 4
   - player1:
       team: CA
       position: Third
@@ -816,43 +894,71 @@ vs:
     score: Jone 8 - Engl 5
 - name: Klein, Karen
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
+      percent: 69
+      wins: 1
+      losses: 0
+    player2:
       percent: 76
       wins: 0
       losses: 1
-    player2:
-      percent: 95
-      wins: 1
-      losses: 0
   games:
   - player1:
-      team: Duns
+      team: Flax
+      position: Third
+      percent: 69
+      win: 1
+      loss: 0
+    player2:
+      team: Robe
       position: Third
       percent: 76
       win: 0
       loss: 1
+    event: Canada Cup (Women)
+    year: 2018
+    draw: Round Robin(9)
+    score: Flax 9 - Robe 6
+- name: Knapp, Breanne
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 70
+      wins: 0
+      losses: 1
     player2:
-      team: Gush
+      percent: 79
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Flax
       position: Third
-      percent: 95
+      percent: 70
+      win: 0
+      loss: 1
+    player2:
+      team: Care
+      position: Lead
+      percent: 79
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(1)
-    score: Gush 7 - Duns 4
+    draw: Round Robin(5)
+    score: Flax 5 - Care 7
 - name: Lawes, Kaitlyn
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 83
-      wins: 1
-      losses: 1
+      percent: 84
+      wins: 0
+      losses: 2
     player2:
-      percent: 77
-      wins: 1
-      losses: 1
+      percent: 92
+      wins: 2
+      losses: 0
   - event: Trials (Women)
     player1:
       percent: 80
@@ -864,37 +970,37 @@ vs:
       losses: 0
   games:
   - player1:
-      team: EPP
+      team: MCD
       position: Third
       percent: 86
-      win: 1
-      loss: 0
-    player2:
-      team: CAR
-      position: Third
-      percent: 73
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: JON
+      position: Third
+      percent: 95
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(10)
-    score: EPP 9 - CAR 4
+    draw: Round Robin(7)
+    score: MCD 4 - JON 11
   - player1:
-      team: Duns
+      team: Flax
       position: Third
-      percent: 81
+      percent: 83
       win: 0
       loss: 1
     player2:
-      team: Eppi
+      team: Jone
       position: Third
-      percent: 80
+      percent: 90
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(9)
-    score: Eppi 7 - Duns 5
+    draw: Round Robin(7)
+    score: Jone 7 - Flax 4
   - player1:
       team: Engl
       position: Third
@@ -913,43 +1019,43 @@ vs:
     score: Jone 8 - Engl 5
 - name: McDonald, Taylor
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
-      wins: 1
-      losses: 0
-    player2:
-      percent: 80
+      percent: 75
       wins: 0
       losses: 1
+    player2:
+      percent: 91
+      wins: 1
+      losses: 0
   games:
   - player1:
-      team: EPP
+      team: MCD
       position: Third
-      percent: 88
-      win: 1
-      loss: 0
-    player2:
-      team: LAY
-      position: Second
-      percent: 80
+      percent: 75
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: ROC
+      position: Second
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2015
     draw: Round Robin(1)
-    score: EPP 7 - LAY 5
+    score: ROC 7 - MCD 6
 - name: McEwen, Dawn
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 83
-      wins: 1
-      losses: 1
+      percent: 84
+      wins: 0
+      losses: 2
     player2:
-      percent: 93
-      wins: 1
-      losses: 1
+      percent: 87
+      wins: 2
+      losses: 0
   - event: Hearts
     player1:
       percent: 90
@@ -970,37 +1076,37 @@ vs:
       losses: 0
   games:
   - player1:
-      team: EPP
+      team: MCD
       position: Third
       percent: 86
-      win: 1
-      loss: 0
-    player2:
-      team: CAR
-      position: Lead
-      percent: 98
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: JON
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(10)
-    score: EPP 9 - CAR 4
+    draw: Round Robin(7)
+    score: MCD 4 - JON 11
   - player1:
-      team: Duns
+      team: Flax
       position: Third
-      percent: 81
+      percent: 83
       win: 0
       loss: 1
     player2:
-      team: Eppi
+      team: Jone
       position: Lead
-      percent: 89
+      percent: 83
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(9)
-    score: Eppi 7 - Duns 5
+    draw: Round Robin(7)
+    score: Jone 7 - Flax 4
   - player1:
       team: CA
       position: Third
@@ -1035,13 +1141,13 @@ vs:
     score: Jone 8 - Engl 5
 - name: McTaggart, Cary-Anne
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 63
+      percent: 75
       wins: 0
       losses: 1
     player2:
-      percent: 85
+      percent: 80
       wins: 1
       losses: 0
   - event: Hearts
@@ -1064,21 +1170,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: Duns
+      team: Flax
       position: Third
-      percent: 63
+      percent: 75
       win: 0
       loss: 1
     player2:
-      team: Jaco
+      team: Sche
       position: Third
-      percent: 85
+      percent: 80
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(5)
-    score: Duns 4 - Jaco 7
+    draw: Round Robin(6)
+    score: Flax 2 - Sche 12
   - player1:
       team: CA
       position: Third
@@ -1113,13 +1219,13 @@ vs:
     score: Sche 9 - Engl 8
 - name: Meilleur, Briane
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 91
+      percent: 76
       wins: 0
       losses: 1
     player2:
-      percent: 86
+      percent: 88
       wins: 1
       losses: 0
   - event: Hearts
@@ -1133,21 +1239,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: Duns
+      team: Flax
       position: Third
-      percent: 91
+      percent: 76
       win: 0
       loss: 1
     player2:
-      team: Bott
+      team: Eina
       position: Lead
-      percent: 86
+      percent: 88
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(6)
-    score: Duns 6 - Bott 8
+    draw: Round Robin(3)
+    score: Eina 7 - Flax 6
   - player1:
       team: AB
       position: Third
@@ -1166,71 +1272,71 @@ vs:
     score: AB 5 - MB 8
 - name: Merklinger, Lee
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
+      percent: 69
       wins: 0
       losses: 1
     player2:
-      percent: 98
+      percent: 79
       wins: 1
       losses: 0
   games:
   - player1:
-      team: EPP
+      team: MCD
       position: Third
-      percent: 88
+      percent: 69
       win: 0
       loss: 1
     player2:
-      team: MCE
+      team: MID
       position: Second
-      percent: 98
+      percent: 79
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(3)
-    score: MCE 9 - EPP 6
+    draw: Round Robin(8)
+    score: MID 7 - MCD 5
 - name: Middaugh, Sherry
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
+      percent: 69
       wins: 0
       losses: 1
     player2:
-      percent: 80
+      percent: 74
       wins: 1
       losses: 0
   games:
   - player1:
-      team: EPP
+      team: MCD
       position: Third
-      percent: 88
+      percent: 69
       win: 0
       loss: 1
     player2:
-      team: MCE
+      team: MID
       position: Fourth
-      percent: 80
+      percent: 74
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(3)
-    score: MCE 9 - EPP 6
+    draw: Round Robin(8)
+    score: MID 7 - MCD 5
 - name: Miskew, Emma
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 89
-      wins: 1
-      losses: 1
+      percent: 80
+      wins: 0
+      losses: 2
     player2:
-      percent: 91
-      wins: 1
-      losses: 1
+      percent: 82
+      wins: 2
+      losses: 0
   - event: Hearts
     player1:
       percent: 88
@@ -1251,37 +1357,37 @@ vs:
       losses: 0
   games:
   - player1:
-      team: EPP
+      team: MCD
       position: Third
-      percent: 86
+      percent: 69
       win: 0
       loss: 1
     player2:
-      team: JAC
+      team: HOM
       position: Third
-      percent: 95
+      percent: 74
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(6)
-    score: JAC 7 - EPP 3
+    draw: Round Robin(4)
+    score: MCD 4 - HOM 8
   - player1:
-      team: Duns
+      team: Flax
       position: Third
-      percent: 92
-      win: 1
-      loss: 0
-    player2:
-      team: Carr
-      position: Third
-      percent: 86
+      percent: 91
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: Homa
+      position: Third
+      percent: 90
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(7)
-    score: Duns 7 - Carr 3
+    draw: Round Robin(10)
+    score: Flax 4 - Homa 5
   - player1:
       team: MB
       position: Third
@@ -1348,13 +1454,13 @@ vs:
     score: Engl 7 - Homa 11
 - name: Moore, Kristie
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 63
+      percent: 75
       wins: 0
       losses: 1
     player2:
-      percent: 84
+      percent: 80
       wins: 1
       losses: 0
   - event: Hearts
@@ -1377,21 +1483,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: Duns
+      team: Flax
       position: Third
-      percent: 63
+      percent: 75
       win: 0
       loss: 1
     player2:
-      team: Jaco
+      team: Sche
       position: Lead
-      percent: 84
+      percent: 80
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(5)
-    score: Duns 4 - Jaco 7
+    draw: Round Robin(6)
+    score: Flax 2 - Sche 12
   - player1:
       team: CA
       position: Third
@@ -1426,15 +1532,15 @@ vs:
     score: Sche 9 - Engl 8
 - name: Officer, Jill
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
       percent: 86
-      wins: 1
-      losses: 0
-    player2:
-      percent: 91
       wins: 0
       losses: 1
+    player2:
+      percent: 100
+      wins: 1
+      losses: 0
   - event: Hearts
     player1:
       percent: 90
@@ -1455,21 +1561,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: EPP
+      team: MCD
       position: Third
       percent: 86
-      win: 1
-      loss: 0
-    player2:
-      team: CAR
-      position: Second
-      percent: 91
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: JON
+      position: Second
+      percent: 100
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(10)
-    score: EPP 9 - CAR 4
+    draw: Round Robin(7)
+    score: MCD 4 - JON 11
   - player1:
       team: CA
       position: Third
@@ -1504,13 +1610,13 @@ vs:
     score: Jone 8 - Engl 5
 - name: Olson-Johns, Lori
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 78
+      percent: 80
       wins: 1
       losses: 1
     player2:
-      percent: 84
+      percent: 78
       wins: 1
       losses: 1
   - event: Trials (Women)
@@ -1524,37 +1630,37 @@ vs:
       losses: 0
   games:
   - player1:
-      team: EPP
+      team: MCD
       position: Third
-      percent: 74
-      win: 1
-      loss: 0
-    player2:
-      team: GUS
-      position: Third
-      percent: 84
+      percent: 79
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: SWE
+      position: Third
+      percent: 83
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(9)
-    score: EPP 8 - GUS 6
+    draw: Round Robin(6)
+    score: SWE 8 - MCD 3
   - player1:
-      team: Duns
+      team: Flax
       position: Third
       percent: 81
-      win: 0
-      loss: 1
-    player2:
-      team: Koe
-      position: Second
-      percent: 85
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: Walk
+      position: Second
+      percent: 74
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(3)
-    score: Koe 9 - Duns 6
+    draw: Round Robin(1)
+    score: Walk 5 - Flax 6
   - player1:
       team: Engl
       position: Third
@@ -1573,15 +1679,15 @@ vs:
     score: Engl 5 - Swee 8
 - name: Overton-Clapham, Cathy
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
       percent: 81
-      wins: 0
-      losses: 1
-    player2:
-      percent: 86
       wins: 1
       losses: 0
+    player2:
+      percent: 80
+      wins: 0
+      losses: 1
   - event: Trials (Women)
     player1:
       percent: 75
@@ -1593,21 +1699,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: Duns
+      team: Flax
       position: Third
       percent: 81
-      win: 0
-      loss: 1
-    player2:
-      team: Koe
-      position: Third
-      percent: 86
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: Walk
+      position: Third
+      percent: 80
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(3)
-    score: Koe 9 - Duns 6
+    draw: Round Robin(1)
+    score: Walk 5 - Flax 6
   - player1:
       team: Engl
       position: Third
@@ -1626,13 +1732,13 @@ vs:
     score: Care 10 - Engl 3
 - name: Peterman, Jocelyn
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 81
+      percent: 83
       wins: 0
       losses: 1
     player2:
-      percent: 88
+      percent: 91
       wins: 1
       losses: 0
   - event: Hearts
@@ -1655,21 +1761,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: Duns
+      team: Flax
       position: Third
-      percent: 81
+      percent: 83
       win: 0
       loss: 1
     player2:
-      team: Eppi
+      team: Jone
       position: Second
-      percent: 88
+      percent: 91
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(9)
-    score: Eppi 7 - Duns 5
+    draw: Round Robin(7)
+    score: Jone 7 - Flax 4
   - player1:
       team: MB
       position: Third
@@ -1704,15 +1810,15 @@ vs:
     score: Care 10 - Engl 3
 - name: Peters, Laine
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
       percent: 81
-      wins: 0
-      losses: 1
-    player2:
-      percent: 86
       wins: 1
       losses: 0
+    player2:
+      percent: 91
+      wins: 0
+      losses: 1
   - event: Hearts
     player1:
       percent: 89
@@ -1733,21 +1839,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: Duns
+      team: Flax
       position: Third
       percent: 81
-      win: 0
-      loss: 1
-    player2:
-      team: Koe
-      position: Lead
-      percent: 86
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: Walk
+      position: Lead
+      percent: 91
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(3)
-    score: Koe 9 - Duns 6
+    draw: Round Robin(1)
+    score: Walk 5 - Flax 6
   - player1:
       team: MB
       position: Third
@@ -1782,97 +1888,97 @@ vs:
     score: Care 10 - Engl 3
 - name: Rizzo, Jo-Ann
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
+      percent: 69
       wins: 0
       losses: 1
     player2:
-      percent: 96
+      percent: 74
       wins: 1
       losses: 0
   games:
   - player1:
-      team: EPP
+      team: MCD
       position: Third
-      percent: 88
+      percent: 69
       win: 0
       loss: 1
     player2:
-      team: MCE
+      team: MID
       position: Third
-      percent: 96
+      percent: 74
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(3)
-    score: MCE 9 - EPP 6
+    draw: Round Robin(8)
+    score: MID 7 - MCD 5
 - name: Robertson, Darcy
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
+      percent: 69
+      wins: 1
+      losses: 0
+    player2:
       percent: 76
       wins: 0
       losses: 1
-    player2:
-      percent: 91
-      wins: 1
-      losses: 0
   games:
   - player1:
-      team: Duns
+      team: Flax
       position: Third
+      percent: 69
+      win: 1
+      loss: 0
+    player2:
+      team: Robe
+      position: Fourth
       percent: 76
       win: 0
       loss: 1
-    player2:
-      team: Gush
-      position: Fourth
-      percent: 91
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(1)
-    score: Gush 7 - Duns 4
+    draw: Round Robin(9)
+    score: Flax 9 - Robe 6
 - name: Rocque, Kelsey
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
+      percent: 75
+      wins: 0
+      losses: 1
+    player2:
+      percent: 75
       wins: 1
       losses: 0
-    player2:
-      percent: 88
-      wins: 0
-      losses: 1
   games:
   - player1:
-      team: EPP
+      team: MCD
       position: Third
-      percent: 88
-      win: 1
-      loss: 0
-    player2:
-      team: LAY
-      position: Fourth
-      percent: 88
+      percent: 75
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: ROC
+      position: Fourth
+      percent: 75
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2015
     draw: Round Robin(1)
-    score: EPP 7 - LAY 5
+    score: ROC 7 - MCD 6
 - name: Scheidegger, Casey
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 63
+      percent: 75
       wins: 0
       losses: 1
     player2:
-      percent: 88
+      percent: 94
       wins: 1
       losses: 0
   - event: Hearts
@@ -1895,21 +2001,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: Duns
+      team: Flax
       position: Third
-      percent: 63
+      percent: 75
       win: 0
       loss: 1
     player2:
-      team: Jaco
+      team: Sche
       position: Fourth
-      percent: 88
+      percent: 94
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(5)
-    score: Duns 4 - Jaco 7
+    draw: Round Robin(6)
+    score: Flax 2 - Sche 12
   - player1:
       team: CA
       position: Third
@@ -1944,15 +2050,15 @@ vs:
     score: Sche 9 - Engl 8
 - name: Sweeting, Val
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 83
-      wins: 1
-      losses: 1
+      percent: 78
+      wins: 0
+      losses: 2
     player2:
-      percent: 87
-      wins: 1
-      losses: 1
+      percent: 84
+      wins: 2
+      losses: 0
   - event: Hearts
     player1:
       percent: 78
@@ -1973,37 +2079,37 @@ vs:
       losses: 0
   games:
   - player1:
-      team: EPP
+      team: MCD
       position: Third
-      percent: 74
-      win: 1
-      loss: 0
+      percent: 79
+      win: 0
+      loss: 1
     player2:
-      team: GUS
+      team: SWE
       position: Fourth
-      percent: 85
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
+      percent: 86
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(9)
-    score: EPP 8 - GUS 6
+    draw: Round Robin(6)
+    score: SWE 8 - MCD 3
   - player1:
-      team: Duns
+      team: Flax
       position: Third
-      percent: 91
+      percent: 76
       win: 0
       loss: 1
     player2:
-      team: Bott
+      team: Eina
       position: Third
-      percent: 89
+      percent: 81
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(6)
-    score: Duns 6 - Bott 8
+    draw: Round Robin(3)
+    score: Eina 7 - Flax 6
   - player1:
       team: AB
       position: Third
@@ -2038,59 +2144,43 @@ vs:
     score: Engl 5 - Swee 8
 - name: Walsh, Jenna
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 79
+      percent: 90
       wins: 1
-      losses: 1
+      losses: 0
     player2:
-      percent: 84
-      wins: 1
+      percent: 63
+      wins: 0
       losses: 1
   games:
   - player1:
-      team: EPP
+      team: MCD
       position: Third
-      percent: 79
-      win: 1
-      loss: 0
-    player2:
-      team: KOE
-      position: Second
-      percent: 78
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2015
-    draw: Round Robin(5)
-    score: KOE 5 - EPP 9
-  - player1:
-      team: EPP
-      position: Third
-      percent: 80
-      win: 0
-      loss: 1
-    player2:
-      team: KOE
-      position: Second
       percent: 90
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: FLE
+      position: Second
+      percent: 63
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2015
-    draw: Semi-Final(12)
-    score: EPP 6 - KOE 7
+    draw: Round Robin(2)
+    score: MCD 7 - FLE 3
 - name: Weagle, Lisa
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 89
-      wins: 1
-      losses: 1
+      percent: 80
+      wins: 0
+      losses: 2
     player2:
-      percent: 94
-      wins: 1
-      losses: 1
+      percent: 88
+      wins: 2
+      losses: 0
   - event: Hearts
     player1:
       percent: 88
@@ -2111,37 +2201,37 @@ vs:
       losses: 0
   games:
   - player1:
-      team: EPP
+      team: MCD
       position: Third
-      percent: 86
+      percent: 69
       win: 0
       loss: 1
     player2:
-      team: JAC
+      team: HOM
       position: Lead
-      percent: 95
+      percent: 83
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2015
-    draw: Round Robin(6)
-    score: JAC 7 - EPP 3
+    draw: Round Robin(4)
+    score: MCD 4 - HOM 8
   - player1:
-      team: Duns
+      team: Flax
       position: Third
-      percent: 92
-      win: 1
-      loss: 0
-    player2:
-      team: Carr
-      position: Lead
-      percent: 92
+      percent: 91
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: Homa
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(7)
-    score: Duns 7 - Carr 3
+    draw: Round Robin(10)
+    score: Flax 4 - Homa 5
   - player1:
       team: MB
       position: Third
@@ -2206,16 +2296,16 @@ vs:
     year: 2017
     draw: Round Robin(8)
     score: Engl 7 - Homa 11
-- name: Wylie, Jennifer
+- name: Webster, Crystal
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 79
+      percent: 90
       wins: 1
-      losses: 1
+      losses: 0
     player2:
-      percent: 85
-      wins: 1
+      percent: 78
+      wins: 0
       losses: 1
   - event: Hearts
     player1:
@@ -2223,42 +2313,26 @@ vs:
       wins: 0
       losses: 1
     player2:
-      percent: 94
+      percent: 97
       wins: 1
       losses: 0
   games:
   - player1:
-      team: EPP
-      position: Third
-      percent: 79
-      win: 1
-      loss: 0
-    player2:
-      team: KOE
-      position: Third
-      percent: 79
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2015
-    draw: Round Robin(5)
-    score: KOE 5 - EPP 9
-  - player1:
-      team: EPP
-      position: Third
-      percent: 80
-      win: 0
-      loss: 1
-    player2:
-      team: KOE
+      team: MCD
       position: Third
       percent: 90
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: FLE
+      position: Third
+      percent: 78
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2015
-    draw: Semi-Final(12)
-    score: EPP 6 - KOE 7
+    draw: Round Robin(2)
+    score: MCD 7 - FLE 3
   - player1:
       team: CA
       position: Third
@@ -2267,51 +2341,67 @@ vs:
       loss: 1
     player2:
       team: 'NO'
-      position: Second
-      percent: 94
+      position: Third
+      percent: 97
       win: 1
       loss: 0
     event: Hearts
     year: 2018
     draw: Pool(17)
     score: CA 3 - NO 8
-- name: Carey, Chelsea
+- name: Wilkes, Sarah
   totals:
-  - event: Hearts
+  - event: Canada Cup (Women)
     player1:
-      percent: 83
-      wins: 0
-      losses: 2
-    player2:
-      percent: 82
-      wins: 2
-      losses: 0
-  - event: Trials (Women)
-    player1:
-      percent: 75
+      percent: 70
       wins: 0
       losses: 1
     player2:
-      percent: 90
+      percent: 88
       wins: 1
       losses: 0
+  - event: Hearts
+    player1:
+      percent: 76
+      wins: 1
+      losses: 1
+    player2:
+      percent: 87
+      wins: 1
+      losses: 1
   games:
   - player1:
-      team: MB
+      team: Flax
       position: Third
-      percent: 89
+      percent: 70
       win: 0
       loss: 1
     player2:
-      team: CA
-      position: Fourth
-      percent: 75
+      team: Care
+      position: Third
+      percent: 88
       win: 1
       loss: 0
+    event: Canada Cup (Women)
+    year: 2018
+    draw: Round Robin(5)
+    score: Flax 5 - Care 7
+  - player1:
+      team: MB
+      position: Third
+      percent: 74
+      win: 1
+      loss: 0
+    player2:
+      team: AB
+      position: Second
+      percent: 81
+      win: 0
+      loss: 1
     event: Hearts
     year: 2017
-    draw: Round Robin(10)
-    score: MB 7 - CA 8
+    draw: Round Robin(9)
+    score: AB 5 - MB 9
   - player1:
       team: AB
       position: Third
@@ -2320,30 +2410,14 @@ vs:
       loss: 1
     player2:
       team: CA
-      position: Fourth
-      percent: 89
+      position: Third
+      percent: 93
       win: 1
       loss: 0
     event: Hearts
     year: 2020
     draw: Round Robin(9)
     score: CA 7 - AB 5
-  - player1:
-      team: Engl
-      position: Third
-      percent: 75
-      win: 0
-      loss: 1
-    player2:
-      team: Care
-      position: Fourth
-      percent: 90
-      win: 1
-      loss: 0
-    event: Trials (Women)
-    year: 2017
-    draw: Round Robin(19)
-    score: Care 10 - Engl 3
 - name: Cormier, Sharon
   totals:
   - event: Hearts
@@ -4465,34 +4539,6 @@ vs:
     year: 2020
     draw: Round Robin(3)
     score: QC 3 - AB 8
-- name: Webster, Crystal
-  totals:
-  - event: Hearts
-    player1:
-      percent: 59
-      wins: 0
-      losses: 1
-    player2:
-      percent: 97
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: CA
-      position: Third
-      percent: 59
-      win: 0
-      loss: 1
-    player2:
-      team: 'NO'
-      position: Third
-      percent: 97
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2018
-    draw: Pool(17)
-    score: CA 3 - NO 8
 - name: West, Christianne
   totals:
   - event: Hearts
@@ -4521,50 +4567,34 @@ vs:
     year: 2018
     draw: Round Robin(7)
     score: NU 4 - CA 13
-- name: Wilkes, Sarah
+- name: Wylie, Jennifer
   totals:
   - event: Hearts
     player1:
-      percent: 76
-      wins: 1
+      percent: 59
+      wins: 0
       losses: 1
     player2:
-      percent: 87
+      percent: 94
       wins: 1
-      losses: 1
+      losses: 0
   games:
   - player1:
-      team: MB
-      position: Third
-      percent: 74
-      win: 1
-      loss: 0
-    player2:
-      team: AB
-      position: Second
-      percent: 81
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2017
-    draw: Round Robin(9)
-    score: AB 5 - MB 9
-  - player1:
-      team: AB
-      position: Third
-      percent: 78
-      win: 0
-      loss: 1
-    player2:
       team: CA
       position: Third
-      percent: 93
+      percent: 59
+      win: 0
+      loss: 1
+    player2:
+      team: 'NO'
+      position: Second
+      percent: 94
       win: 1
       loss: 0
     event: Hearts
-    year: 2020
-    draw: Round Robin(9)
-    score: CA 7 - AB 5
+    year: 2018
+    draw: Pool(17)
+    score: CA 3 - NO 8
 - name: Court, Morgan
   totals:
   - event: Trials (Women)

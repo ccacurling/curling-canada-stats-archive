@@ -2,480 +2,480 @@
 title: Allyson Burgess Head-to-head
 name: Burgess, Allyson
 vs:
- - name: Englot, Michelle    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 90          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 93          
-        wins: 1              
-        losses: 0            
+ - name: Carter, Sasha         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 86            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 78            
+        wins: 0                
+        losses: 1              
    games:
     - player1:        
-        team: 'Tuc'   
-        position: Lead
-        percent: 90   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'Fer'    
-        position: Third
-        percent: 93    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(9)   
-      score: Fer 5 - Tuc 4   
- - name: Froud, Susan        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 86          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 84          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:        
-        team: 'Tuc'   
+        team: 'Smi'   
         position: Lead
         percent: 86   
-        win: 0        
-        loss: 1       
+        win: 1        
+        loss: 0       
       player2:          
-        team: 'Mor'     
+        team: 'Sco'     
         position: Second
-        percent: 84     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(11)  
-      score: Mor 10 - Tuc 4  
- - name: Gagnon, Karo        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 88          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 89          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:        
-        team: 'Tuc'   
-        position: Lead
-        percent: 88   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'Mar'    
-        position: Third
-        percent: 89    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(3)   
-      score: Tuc 5 - Mar 8   
- - name: Gregoire, Veronique 
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 88          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 95          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:        
-        team: 'Tuc'   
-        position: Lead
-        percent: 88   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'Mar'   
-        position: Lead
-        percent: 95   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(3)   
-      score: Tuc 5 - Mar 8   
- - name: Gudereit, Marcia    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 95          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 99          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:        
-        team: 'Tuc'   
-        position: Lead
-        percent: 95   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'Dac'   
-        position: Lead
-        percent: 99   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(6)   
-      score: Tuc 6 - Dac 8   
- - name: Larouche, Marie-France
+        percent: 78     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(2)     
+      score: Sco 6 - Smi 7     
+ - name: Delahunt, Nancy       
    totals:                     
-    - event: Canada Cup (Men)  
+    - event: Canada Cup (Women)
       player1:                 
-        percent: 88            
+        percent: 83            
         wins: 0                
         losses: 1              
       player2:                 
-        percent: 84            
+        percent: 92            
         wins: 1                
         losses: 0              
    games:
     - player1:        
-        team: 'Tuc'   
+        team: 'Smi'   
         position: Lead
-        percent: 88   
+        percent: 83   
         win: 0        
         loss: 1       
-      player2:          
-        team: 'Mar'     
-        position: Fourth
-        percent: 84     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(3)   
-      score: Tuc 5 - Mar 8   
- - name: Lemay, Annie        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 88          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 78          
-        wins: 1              
-        losses: 0            
+      player2:        
+        team: 'Jon'   
+        position: Lead
+        percent: 92   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(8)     
+      score: Smi 5 - Jon 9     
+ - name: Froud, Susan          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 89            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 88            
+        wins: 1                
+        losses: 0              
    games:
     - player1:        
-        team: 'Tuc'   
+        team: 'Smi'   
         position: Lead
-        percent: 88   
+        percent: 89   
         win: 0        
         loss: 1       
       player2:          
-        team: 'Mar'     
+        team: 'Mer'     
         position: Second
-        percent: 78     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(3)   
-      score: Tuc 5 - Mar 8   
- - name: Linton, Sherry      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 95          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 88          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:        
-        team: 'Tuc'   
-        position: Lead
-        percent: 95   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'Dac'    
-        position: Third
-        percent: 88    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(6)   
-      score: Tuc 6 - Dac 8   
- - name: McCusker, Joan      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 95          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 91          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:        
-        team: 'Tuc'   
-        position: Lead
-        percent: 95   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'Dac'     
-        position: Second
-        percent: 91     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(6)   
-      score: Tuc 6 - Dac 8   
- - name: McIvor, Jolene      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 90          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 88          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:        
-        team: 'Tuc'   
-        position: Lead
-        percent: 90   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'Fer'     
-        position: Fourth
         percent: 88     
         win: 1          
         loss: 0         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(9)   
-      score: Fer 5 - Tuc 4   
- - name: McIvor, Michelle    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 90          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 89          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(7)     
+      score: Mer 5 - Smi 4     
+ - name: Gagnon, Karo          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 91            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 77            
+        wins: 0                
+        losses: 1              
    games:
     - player1:        
-        team: 'Tuc'   
+        team: 'Smi'   
         position: Lead
-        percent: 90   
+        percent: 91   
+        win: 1        
+        loss: 0       
+      player2:         
+        team: 'Lar'    
+        position: Third
+        percent: 77    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(5)     
+      score: Smi 10 - Lar 3    
+ - name: Gregoire, Veronique   
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 91            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 81            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:        
+        team: 'Smi'   
+        position: Lead
+        percent: 91   
+        win: 1        
+        loss: 0       
+      player2:        
+        team: 'Lar'   
+        position: Lead
+        percent: 81   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(5)     
+      score: Smi 10 - Lar 3    
+ - name: Jones, Colleen        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 83            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 83            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:        
+        team: 'Smi'   
+        position: Lead
+        percent: 83   
         win: 0        
         loss: 1       
       player2:          
-        team: 'Fer'     
-        position: Second
-        percent: 89     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(9)   
-      score: Fer 5 - Tuc 4   
- - name: McNabb, Jody        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 85          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 78          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:        
-        team: 'Tuc'   
-        position: Lead
-        percent: 85   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'Bur'     
-        position: Second
-        percent: 78     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(4)   
-      score: Bur 9 - Tuc 6   
- - name: Merklinger, Anne    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 86          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 86          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:        
-        team: 'Tuc'   
-        position: Lead
-        percent: 86   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'Mor'     
+        team: 'Jon'     
         position: Fourth
-        percent: 86     
+        percent: 83     
         win: 1          
         loss: 0         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(11)  
-      score: Mor 10 - Tuc 4  
- - name: O'Connor, Susan     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 85          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 71          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(8)     
+      score: Smi 5 - Jon 9     
+ - name: Kelly, Kim            
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 83            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 74            
+        wins: 1                
+        losses: 0              
    games:
     - player1:        
-        team: 'Tuc'   
+        team: 'Smi'   
         position: Lead
-        percent: 85   
+        percent: 83   
         win: 0        
         loss: 1       
       player2:         
-        team: 'Bur'    
+        team: 'Jon'    
         position: Third
-        percent: 71    
+        percent: 74    
         win: 1         
         loss: 0        
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(4)   
-      score: Bur 9 - Tuc 6   
- - name: Reddick, Audrey     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 86          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 88          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(8)     
+      score: Smi 5 - Jon 9     
+ - name: Keshen, Christine     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 75            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 80            
+        wins: 1                
+        losses: 0              
    games:
     - player1:        
-        team: 'Tuc'   
+        team: 'Smi'   
         position: Lead
-        percent: 86   
+        percent: 75   
         win: 0        
         loss: 1       
       player2:        
-        team: 'Mor'   
+        team: 'Kle'   
         position: Lead
-        percent: 88   
+        percent: 80   
         win: 1        
         loss: 0       
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(11)  
-      score: Mor 10 - Tuc 4  
- - name: Ruus, Karen         
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 85          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 86          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(1)     
+      score: Kle 6 - Smi 3     
+ - name: Kleibrink, Shannon    
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 75            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 81            
+        wins: 1                
+        losses: 0              
    games:
     - player1:        
-        team: 'Tuc'   
+        team: 'Smi'   
+        position: Lead
+        percent: 75   
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'Kle'     
+        position: Fourth
+        percent: 81     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(1)     
+      score: Kle 6 - Smi 3     
+ - name: Larouche, Marie-France
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 91            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 67            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:        
+        team: 'Smi'   
+        position: Lead
+        percent: 91   
+        win: 1        
+        loss: 0       
+      player2:          
+        team: 'Lar'     
+        position: Fourth
+        percent: 67     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(5)     
+      score: Smi 10 - Lar 3    
+ - name: Lemay, Annie          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 91            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 59            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:        
+        team: 'Smi'   
+        position: Lead
+        percent: 91   
+        win: 1        
+        loss: 0       
+      player2:          
+        team: 'Lar'     
+        position: Second
+        percent: 59     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(5)     
+      score: Smi 10 - Lar 3    
+ - name: Merklinger, Anne      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 89            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 79            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:        
+        team: 'Smi'   
+        position: Lead
+        percent: 89   
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'Mer'     
+        position: Fourth
+        percent: 79     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(7)     
+      score: Mer 5 - Smi 4     
+ - name: Nixon, Amy            
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 75            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 80            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:        
+        team: 'Smi'   
+        position: Lead
+        percent: 75   
+        win: 0        
+        loss: 1       
+      player2:         
+        team: 'Kle'    
+        position: Third
+        percent: 80    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(1)     
+      score: Kle 6 - Smi 3     
+ - name: Reddick, Audrey       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 89            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 85            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:        
+        team: 'Smi'   
+        position: Lead
+        percent: 89   
+        win: 0        
+        loss: 1       
+      player2:        
+        team: 'Mer'   
         position: Lead
         percent: 85   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'Bur'   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(7)     
+      score: Mer 5 - Smi 4     
+ - name: Schraeder, Jeanna     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 86            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 88            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:        
+        team: 'Smi'   
         position: Lead
         percent: 86   
         win: 1        
         loss: 0       
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(4)   
-      score: Bur 9 - Tuc 6   
- - name: Simmons, Cindy      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 90          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 96          
-        wins: 1              
-        losses: 0            
+      player2:         
+        team: 'Sco'    
+        position: Third
+        percent: 88    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(2)     
+      score: Sco 6 - Smi 7     
+ - name: Scott, Kelly          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 86            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 83            
+        wins: 0                
+        losses: 1              
    games:
     - player1:        
-        team: 'Tuc'   
+        team: 'Smi'   
         position: Lead
-        percent: 90   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'Fer'   
-        position: Lead
-        percent: 96   
+        percent: 86   
         win: 1        
         loss: 0       
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(9)   
-      score: Fer 5 - Tuc 4   
+      player2:          
+        team: 'Sco'     
+        position: Fourth
+        percent: 83     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(2)     
+      score: Sco 6 - Smi 7     
+ - name: Simons, Renee         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 86            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 89            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:        
+        team: 'Smi'   
+        position: Lead
+        percent: 86   
+        win: 1        
+        loss: 0       
+      player2:        
+        team: 'Sco'   
+        position: Lead
+        percent: 89   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(2)     
+      score: Sco 6 - Smi 7     
 ---

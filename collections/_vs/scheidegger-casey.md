@@ -4,13 +4,13 @@ name: Scheidegger, Casey
 vs:
 - name: Sweeting, Val
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 73
+      percent: 74
       wins: 0
       losses: 1
     player2:
-      percent: 81
+      percent: 89
       wins: 1
       losses: 0
   - event: Trials (Women)
@@ -24,21 +24,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: Jaco
+      team: Sche
       position: Fourth
-      percent: 73
+      percent: 74
       win: 0
       loss: 1
     player2:
-      team: Bott
+      team: Eina
       position: Third
-      percent: 81
+      percent: 89
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(9)
-    score: Jaco 6 - Bott 7
+    draw: Round Robin(7)
+    score: Eina 8 - Sche 5
   - player1:
       team: Sche
       position: Fourth
@@ -57,13 +57,13 @@ vs:
     score: Sche 6 - Swee 8
 - name: Weagle, Lisa
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 78
+      percent: 69
       wins: 1
       losses: 0
     player2:
-      percent: 93
+      percent: 75
       wins: 0
       losses: 1
   - event: Trials (Women)
@@ -77,21 +77,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: Jaco
+      team: Sche
       position: Fourth
-      percent: 78
+      percent: 69
       win: 1
       loss: 0
     player2:
-      team: Carr
+      team: Homa
       position: Lead
-      percent: 93
+      percent: 75
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(4)
-    score: Carr 4 - Jaco 5
+    draw: Round Robin(3)
+    score: Homa 5 - Sche 7
   - player1:
       team: Sche
       position: Fourth
@@ -110,13 +110,13 @@ vs:
     score: Homa 10 - Sche 7
 - name: Westcott, Raunora
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
+      percent: 94
       wins: 1
       losses: 0
     player2:
-      percent: 90
+      percent: 91
       wins: 0
       losses: 1
   - event: Hearts
@@ -139,21 +139,21 @@ vs:
       losses: 1
   games:
   - player1:
-      team: Jaco
+      team: Sche
       position: Fourth
-      percent: 88
+      percent: 94
       win: 1
       loss: 0
     player2:
-      team: Duns
+      team: Flax
       position: Lead
-      percent: 90
+      percent: 91
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2018
-    draw: Round Robin(5)
-    score: Duns 4 - Jaco 7
+    draw: Round Robin(6)
+    score: Flax 2 - Sche 12
   - player1:
       team: AB
       position: Fourth
@@ -186,6 +186,34 @@ vs:
     year: 2017
     draw: Round Robin(17)
     score: Sche 9 - Engl 8
+- name: Wilkes, Sarah
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 76
+      wins: 0
+      losses: 1
+    player2:
+      percent: 81
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Sche
+      position: Fourth
+      percent: 76
+      win: 0
+      loss: 1
+    player2:
+      team: Care
+      position: Third
+      percent: 81
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2018
+    draw: Round Robin(4)
+    score: Sche 6 - Care 7
 - name: Shackleton, Amie
   totals:
   - event: Hearts

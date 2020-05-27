@@ -2,36 +2,17 @@
 title: Kirsten Wall Head-to-head
 name: Wall, Kirsten
 vs:
-- name: Webster, Crystal
+- name: Webster, Bronwen
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 75
+      percent: 67
       wins: 0
       losses: 1
     player2:
-      percent: 91
+      percent: 80
       wins: 1
       losses: 0
-  games:
-  - player1:
-      team: GUS
-      position: Third
-      percent: 75
-      win: 0
-      loss: 1
-    player2:
-      team: STO
-      position: Fourth
-      percent: 91
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2012
-    draw: Round Robin(6)
-    score: GUS 5 - STO 9
-- name: Webster, Bronwen
-  totals:
   - event: Hearts
     player1:
       percent: 75
@@ -42,6 +23,22 @@ vs:
       wins: 2
       losses: 0
   games:
+  - player1:
+      team: SMID
+      position: Third
+      percent: 67
+      win: 0
+      loss: 1
+    player2:
+      team: KLEI
+      position: Second
+      percent: 80
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2009
+    draw: Round Robin(10)
+    score: KLEI 7 - SMID 6
   - player1:
       team: 'ON'
       position: Third
@@ -74,8 +71,45 @@ vs:
     year: 2008
     draw: Page 1-2(20)
     score: ON 7 - AB 8
+- name: Webster, Crystal
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 60
+      wins: 1
+      losses: 0
+    player2:
+      percent: 59
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: JON
+      position: Third
+      percent: 60
+      win: 1
+      loss: 0
+    player2:
+      team: WEB
+      position: Fourth
+      percent: 59
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2012
+    draw: Round Robin(1)
+    score: JON 9 - WEB 7
 - name: Wheatcroft, Georgina
   totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 79
+      wins: 2
+      losses: 0
+    player2:
+      percent: 82
+      wins: 0
+      losses: 2
   - event: Hearts
     player1:
       percent: 86
@@ -95,6 +129,38 @@ vs:
       wins: 1
       losses: 0
   games:
+  - player1:
+      team: Midd
+      position: Third
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: KLaw
+      position: Third
+      percent: 88
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2003
+    draw: Playoff(11)
+    score: KLaw 6 - Midd 8
+  - player1:
+      team: Midd
+      position: Third
+      percent: 76
+      win: 1
+      loss: 0
+    player2:
+      team: KLaw
+      position: Third
+      percent: 76
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2003
+    draw: Final(13)
+    score: Midd 8 - KLaw 7
   - player1:
       team: 'ON'
       position: Third
@@ -127,6 +193,34 @@ vs:
     year: 2005
     draw: Round Robin(7)
     score: MID 8 - JJO 11
+- name: Zinck, Kay
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 64
+      wins: 0
+      losses: 1
+    player2:
+      percent: 54
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: SMID
+      position: Third
+      percent: 64
+      win: 0
+      loss: 1
+    player2:
+      team: M-AA
+      position: Third
+      percent: 54
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2009
+    draw: Round Robin(3)
+    score: SMID 3 - M-AA 9
 - name: Whitaker, Carol
   totals:
   - event: Hearts

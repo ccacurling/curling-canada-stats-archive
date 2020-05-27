@@ -2,2400 +2,2652 @@
 title: Joanne Courtney Head-to-head
 name: Courtney, Joanne
 vs:
- - name: Crocker, Laura      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 83          
-        wins: 2              
-        losses: 1            
-      player2:               
-        percent: 86          
-        wins: 1              
-        losses: 2            
+ - name: Crocker, Laura        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 83            
+        wins: 3                
+        losses: 0              
+      player2:                 
+        percent: 65            
+        wins: 0                
+        losses: 3              
    games:
     - player1:          
-        team: 'JAC'     
-        position: Second
-        percent: 88     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'LAY'    
-        position: Third
-        percent: 80    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2015             
-      draw: Round Robin(5)   
-      score: JAC 7 - LAY 2   
-    - player1:          
-        team: 'CAR'     
+        team: 'HOM'     
         position: Second
         percent: 86     
         win: 1          
         loss: 0         
       player2:         
-        team: 'KOE'    
+        team: 'ROC'    
         position: Third
-        percent: 84    
+        percent: 64    
         win: 0         
         loss: 1        
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(5)   
-      score: KOE 6 - CAR 7   
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Round Robin(5)     
+      score: HOM 9 - ROC 2     
     - player1:          
-        team: 'Carr'    
+        team: 'HOM'     
         position: Second
-        percent: 78     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Koe'     
-        position: Fourth
-        percent: 93     
+        percent: 81     
         win: 1          
         loss: 0         
-      event: Canada Cup (Men)
-      year: 2018             
-      draw: Round Robin(6)   
-      score: Carr 2 - Koe 4  
- - name: Einarson, Kerri     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 83          
-        wins: 1              
-        losses: 2            
-      player2:               
-        percent: 85          
-        wins: 2              
-        losses: 1            
-   games:
+      player2:         
+        team: 'ROC'    
+        position: Third
+        percent: 60    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(5)     
+      score: HOM 8 - ROC 7     
     - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 84     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'MCE'     
-        position: Fourth
-        percent: 80     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(6)   
-      score: MCE 3 - CAR 4   
-    - player1:          
-        team: 'Carr'    
+        team: 'Homa'    
         position: Second
         percent: 83     
-        win: 0          
-        loss: 1         
+        win: 1          
+        loss: 0         
       player2:          
-        team: 'Bott'    
+        team: 'Walk'    
         position: Fourth
-        percent: 91     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2018             
-      draw: Round Robin(3)   
-      score: Carr 5 - Bott 9 
-    - player1:          
-        team: 'Gush'    
-        position: Second
-        percent: 81     
+        percent: 73     
         win: 0          
         loss: 1         
-      player2:          
-        team: 'Koe'     
-        position: Fourth
-        percent: 84     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(9)   
-      score: Koe 10 - Gush 4 
- - name: Ferguson, Dana      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 88          
-        wins: 3              
-        losses: 2            
-      player2:               
-        percent: 82          
-        wins: 2              
-        losses: 3            
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(4)     
+      score: Homa 8 - Walk 3   
+ - name: Einarson, Kerri       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 79            
+        wins: 3                
+        losses: 1              
+      player2:                 
+        percent: 73            
+        wins: 1                
+        losses: 3              
    games:
     - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 88     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'MOR'     
-        position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Round Robin(1)   
-      score: HOW 7 - MOR 6   
-    - player1:          
-        team: 'JAC'     
-        position: Second
-        percent: 94     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'GUS'     
-        position: Second
-        percent: 96     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2015             
-      draw: Round Robin(10)  
-      score: GUS 8 - JAC 5   
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 77     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'EPP'     
-        position: Second
-        percent: 80     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(1)   
-      score: CAR 8 - EPP 3   
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 89     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'EPP'     
-        position: Second
-        percent: 77     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Semi-Final(12)   
-      score: CAR 6 - EPP 5   
-    - player1:          
-        team: 'Gush'    
-        position: Second
-        percent: 90     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Eppi'    
-        position: Second
-        percent: 78     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(5)   
-      score: Eppi 6 - Gush 4 
- - name: Flaxey, Allison     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 91          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 83          
-        wins: 1              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 92     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'GUS'     
-        position: Fourth
-        percent: 75     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Round Robin(3)   
-      score: GUS 4 - HOW 10  
-    - player1:          
-        team: 'Carr'    
-        position: Second
-        percent: 91     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Duns'    
-        position: Fourth
-        percent: 92     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2018             
-      draw: Round Robin(7)   
-      score: Duns 7 - Carr 3 
- - name: Fleury, Tracy       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 92          
-        wins: 0              
-        losses: 3            
-      player2:               
-        percent: 85          
-        wins: 3              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'JAC'     
-        position: Second
-        percent: 96     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 94     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2015             
-      draw: Round Robin(3)   
-      score: KOE 7 - JAC 6   
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 90     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'LAY'     
-        position: Fourth
-        percent: 75     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(7)   
-      score: CAR 3 - LAY 5   
-    - player1:          
-        team: 'Gush'    
-        position: Second
-        percent: 88     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Bott'    
-        position: Fourth
-        percent: 86     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(1)   
-      score: Gush 4 - Bott 10
- - name: Foster, Kristen     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 92          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 85          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 92     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'GUS'     
-        position: Second
-        percent: 85     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Round Robin(3)   
-      score: GUS 4 - HOW 10  
- - name: Foster, Vanessa     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 89          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 89          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Carr'    
-        position: Second
-        percent: 89     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Gush'    
-        position: Second
-        percent: 89     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2018             
-      draw: Round Robin(8)   
-      score: Gush 8 - Carr 4 
- - name: Fyfe, Liz           
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 85          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 83          
-        wins: 1              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 84     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'MCE'     
-        position: Second
-        percent: 78     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(6)   
-      score: MCE 3 - CAR 4   
-    - player1:          
-        team: 'Gush'    
-        position: Second
-        percent: 88     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Bott'    
-        position: Second
-        percent: 91     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(1)   
-      score: Gush 4 - Bott 10
- - name: Gates, Amanda       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 93          
-        wins: 0              
-        losses: 2            
-      player2:               
-        percent: 89          
-        wins: 2              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'JAC'     
-        position: Second
-        percent: 96     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'KOE'   
-        position: Lead
-        percent: 95   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2015             
-      draw: Round Robin(3)   
-      score: KOE 7 - JAC 6   
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 90     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'LAY'   
-        position: Lead
-        percent: 84   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(7)   
-      score: CAR 3 - LAY 5   
- - name: Gates, Jennifer     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 87          
-        wins: 2              
-        losses: 0            
-      player2:               
-        percent: 88          
-        wins: 0              
-        losses: 2            
-   games:
-    - player1:          
-        team: 'JAC'     
-        position: Second
-        percent: 88     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'LAY'   
-        position: Lead
-        percent: 92   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2015             
-      draw: Round Robin(5)   
-      score: JAC 7 - LAY 2   
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 86     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'KOE'   
-        position: Lead
-        percent: 84   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(5)   
-      score: KOE 6 - CAR 7   
- - name: Haughian, Jessie    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 77          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 90          
-        wins: 1              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Carr'    
+        team: 'HOM'     
         position: Second
         percent: 74     
         win: 0          
         loss: 1         
       player2:          
-        team: 'Jaco'    
-        position: Second
-        percent: 88     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2018             
-      draw: Round Robin(4)   
-      score: Carr 4 - Jaco 5 
-    - player1:          
-        team: 'Gush'    
-        position: Second
-        percent: 81     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Jaco'    
-        position: Second
-        percent: 92     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(8)   
-      score: Jaco 2 - Gush 6 
- - name: Hunkin, Jessie      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 95          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 88          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Gush'    
-        position: Second
-        percent: 95     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Duns'    
-        position: Second
-        percent: 88     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(2)   
-      score: Gush 9 - Duns 7 
- - name: Jones, Jennifer     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 82          
-        wins: 2              
-        losses: 3            
-      player2:               
-        percent: 83          
-        wins: 3              
-        losses: 2            
-   games:
-    - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 67     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'JAC'     
+        team: 'EIN'     
         position: Fourth
         percent: 85     
         win: 1          
         loss: 0         
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Round Robin(6)   
-      score: JAC 7 - HOW 4   
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(3)     
+      score: EIN 8 - HOM 5     
     - player1:          
-        team: 'JAC'     
+        team: 'HOM'     
         position: Second
-        percent: 95     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'CAR'     
-        position: Fourth
-        percent: 87     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2015             
-      draw: Round Robin(8)   
-      score: JAC 6 - CAR 7   
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 88     
+        percent: 92     
         win: 1          
         loss: 0         
       player2:          
-        team: 'JAC'     
+        team: 'EIN'     
         position: Fourth
-        percent: 82     
+        percent: 81     
         win: 0          
         loss: 1         
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(8)   
-      score: JAC 1 - CAR 5   
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Semi-Final(11)     
+      score: EIN 4 - HOM 9     
     - player1:          
-        team: 'Carr'    
+        team: 'Homa'    
         position: Second
-        percent: 76     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Eppi'    
-        position: Fourth
-        percent: 84     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2018             
-      draw: Round Robin(2)   
-      score: Eppi 6 - Carr 3 
-    - player1:          
-        team: 'Gush'    
-        position: Second
-        percent: 83     
+        percent: 80     
         win: 1          
         loss: 0         
       player2:          
-        team: 'Howa'    
+        team: 'Eina'    
         position: Fourth
-        percent: 78     
+        percent: 58     
         win: 0          
         loss: 1         
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(6)   
-      score: Gush 4 - Howa 3 
- - name: Kasner, Marliese    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 90          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 73          
-        wins: 1              
-        losses: 0            
-   games:
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(2)     
+      score: Eina 5 - Homa 6   
     - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 90     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'COT'     
+        team: 'Homa'    
         position: Second
         percent: 73     
         win: 1          
         loss: 0         
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Round Robin(9)   
-      score: HOW 4 - COT 6   
- - name: Klein, Karen        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 89          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 90          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Carr'    
-        position: Second
-        percent: 89     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Gush'   
-        position: Third
-        percent: 90    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2018             
-      draw: Round Robin(8)   
-      score: Gush 8 - Carr 4 
- - name: Lawes, Kaitlyn      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 82          
-        wins: 2              
-        losses: 3            
-      player2:               
-        percent: 84          
-        wins: 3              
-        losses: 2            
-   games:
-    - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 67     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'JAC'    
-        position: Third
-        percent: 92    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Round Robin(6)   
-      score: JAC 7 - HOW 4   
-    - player1:          
-        team: 'JAC'     
-        position: Second
-        percent: 95     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'CAR'    
-        position: Third
-        percent: 90    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2015             
-      draw: Round Robin(8)   
-      score: JAC 6 - CAR 7   
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 88     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'JAC'    
-        position: Third
-        percent: 71    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(8)   
-      score: JAC 1 - CAR 5   
-    - player1:          
-        team: 'Carr'    
-        position: Second
-        percent: 76     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Eppi'   
-        position: Third
-        percent: 75    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2018             
-      draw: Round Robin(2)   
-      score: Eppi 6 - Carr 3 
-    - player1:          
-        team: 'Gush'    
-        position: Second
-        percent: 83     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Howa'   
-        position: Third
-        percent: 91    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(6)   
-      score: Gush 4 - Howa 3 
- - name: Lawton, Stefanie    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 95          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 90          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Gush'    
-        position: Second
-        percent: 95     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Duns'   
-        position: Third
-        percent: 90    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(2)   
-      score: Gush 9 - Duns 7 
- - name: MacCuish, Kristin   
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 85          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 83          
-        wins: 1              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 84     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'MCE'   
-        position: Lead
-        percent: 84   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(6)   
-      score: MCE 3 - CAR 4   
-    - player1:          
-        team: 'Gush'    
-        position: Second
-        percent: 88     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Bott'  
-        position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(1)   
-      score: Gush 4 - Bott 10
- - name: McDonald, Kristy    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 98          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 77          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'JAC'     
-        position: Second
-        percent: 98     
-        win: 1          
-        loss: 0         
       player2:          
-        team: 'EPP'     
-        position: Fourth
-        percent: 77     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2015             
-      draw: Round Robin(6)   
-      score: JAC 7 - EPP 3   
- - name: McDonald, Taylor    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 88          
-        wins: 2              
-        losses: 1            
-      player2:               
-        percent: 78          
-        wins: 1              
-        losses: 2            
-   games:
-    - player1:          
-        team: 'JAC'     
-        position: Second
-        percent: 88     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'LAY'     
-        position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2015             
-      draw: Round Robin(5)   
-      score: JAC 7 - LAY 2   
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 86     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'KOE'     
-        position: Second
-        percent: 78     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(5)   
-      score: KOE 6 - CAR 7   
-    - player1:          
-        team: 'Carr'    
-        position: Second
-        percent: 91     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Duns'    
-        position: Second
-        percent: 77     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2018             
-      draw: Round Robin(7)   
-      score: Duns 7 - Carr 3 
- - name: McEwen, Dawn        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 82          
-        wins: 2              
-        losses: 3            
-      player2:               
-        percent: 85          
-        wins: 3              
-        losses: 2            
-   games:
-    - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 67     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'JAC'   
-        position: Lead
-        percent: 94   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Round Robin(6)   
-      score: JAC 7 - HOW 4   
-    - player1:          
-        team: 'JAC'     
-        position: Second
-        percent: 95     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'CAR'   
-        position: Lead
-        percent: 82   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2015             
-      draw: Round Robin(8)   
-      score: JAC 6 - CAR 7   
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 88     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'JAC'   
-        position: Lead
-        percent: 82   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(8)   
-      score: JAC 1 - CAR 5   
-    - player1:          
-        team: 'Carr'    
-        position: Second
-        percent: 76     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Eppi'  
-        position: Lead
-        percent: 85   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2018             
-      draw: Round Robin(2)   
-      score: Eppi 6 - Carr 3 
-    - player1:          
-        team: 'Gush'    
-        position: Second
-        percent: 83     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'Howa'  
-        position: Lead
-        percent: 81   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(6)   
-      score: Gush 4 - Howa 3 
- - name: McTaggart, Cary-Anne
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 77          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 81          
-        wins: 1              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Carr'    
-        position: Second
-        percent: 74     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Jaco'   
-        position: Third
-        percent: 83    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2018             
-      draw: Round Robin(4)   
-      score: Carr 4 - Jaco 5 
-    - player1:          
-        team: 'Gush'    
-        position: Second
-        percent: 81     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Jaco'   
-        position: Third
-        percent: 80    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(8)   
-      score: Jaco 2 - Gush 6 
- - name: Meilleur, Briane    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 82          
-        wins: 0              
-        losses: 2            
-      player2:               
-        percent: 92          
-        wins: 2              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Carr'    
-        position: Second
-        percent: 83     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Bott'  
-        position: Lead
-        percent: 92   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2018             
-      draw: Round Robin(3)   
-      score: Carr 5 - Bott 9 
-    - player1:          
-        team: 'Gush'    
-        position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Koe'   
-        position: Lead
-        percent: 92   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(9)   
-      score: Koe 10 - Gush 4 
- - name: Merklinger, Lee     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 89          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 88          
-        wins: 1              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 85     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'KOE'     
-        position: Second
-        percent: 84     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Round Robin(8)   
-      score: HOW 4 - KOE 3   
-    - player1:          
-        team: 'JAC'     
-        position: Second
-        percent: 94     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'MCE'     
-        position: Second
-        percent: 91     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2015             
-      draw: Round Robin(9)   
-      score: MCE 8 - JAC 6   
- - name: Middaugh, Sherry    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 89          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 88          
-        wins: 1              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 85     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 90     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Round Robin(8)   
-      score: HOW 4 - KOE 3   
-    - player1:          
-        team: 'JAC'     
-        position: Second
-        percent: 94     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'MCE'     
-        position: Fourth
-        percent: 86     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2015             
-      draw: Round Robin(9)   
-      score: MCE 8 - JAC 6   
- - name: Moore, Kristie      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 77          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 91          
-        wins: 1              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Carr'    
-        position: Second
-        percent: 74     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Jaco'  
-        position: Lead
-        percent: 90   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2018             
-      draw: Round Robin(4)   
-      score: Carr 4 - Jaco 5 
-    - player1:          
-        team: 'Gush'    
-        position: Second
-        percent: 81     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'Jaco'  
-        position: Lead
-        percent: 92   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(8)   
-      score: Jaco 2 - Gush 6 
- - name: Nedohin, Heather    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 85          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 84          
-        wins: 1              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 74     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'MCE'     
-        position: Fourth
-        percent: 78     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Round Robin(5)   
-      score: MCE 3 - HOW 4   
-    - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 95     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'MCE'     
-        position: Fourth
-        percent: 89     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Semi-Final(10)   
-      score: HOW 4 - MCE 5   
- - name: Nixon, Amy          
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 86          
-        wins: 2              
-        losses: 2            
-      player2:               
-        percent: 85          
-        wins: 2              
-        losses: 2            
-   games:
-    - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 74     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'MCE'    
-        position: Third
-        percent: 81    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Round Robin(5)   
-      score: MCE 3 - HOW 4   
-    - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 95     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'MCE'    
-        position: Third
-        percent: 90    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Semi-Final(10)   
-      score: HOW 4 - MCE 5   
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 88     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'GUS'    
-        position: Third
-        percent: 84    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(3)   
-      score: CAR 6 - GUS 7   
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 88     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'GUS'    
-        position: Third
-        percent: 84    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Final(13)        
-      score: GUS 6 - CAR 8   
- - name: Njegovan, Selena    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 85          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 91          
-        wins: 1              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 84     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'MCE'    
-        position: Third
-        percent: 93    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(6)   
-      score: MCE 3 - CAR 4   
-    - player1:          
-        team: 'Gush'    
-        position: Second
-        percent: 88     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Bott'   
-        position: Third
-        percent: 89    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(1)   
-      score: Gush 4 - Bott 10
- - name: Officer, Jill       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 84          
-        wins: 1              
-        losses: 2            
-      player2:               
-        percent: 88          
-        wins: 2              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 67     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'JAC'     
-        position: Second
-        percent: 82     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Round Robin(6)   
-      score: JAC 7 - HOW 4   
-    - player1:          
-        team: 'JAC'     
-        position: Second
-        percent: 95     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'CAR'     
-        position: Second
-        percent: 89     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2015             
-      draw: Round Robin(8)   
-      score: JAC 6 - CAR 7   
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 88     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'JAC'     
-        position: Second
-        percent: 92     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(8)   
-      score: JAC 1 - CAR 5   
- - name: Olson-Johns, Lori   
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 85          
-        wins: 3              
-        losses: 2            
-      player2:               
-        percent: 85          
-        wins: 2              
-        losses: 3            
-   games:
-    - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 88     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'MOR'    
-        position: Third
-        percent: 84    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Round Robin(1)   
-      score: HOW 7 - MOR 6   
-    - player1:          
-        team: 'JAC'     
-        position: Second
-        percent: 94     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'GUS'    
-        position: Third
-        percent: 93    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2015             
-      draw: Round Robin(10)  
-      score: GUS 8 - JAC 5   
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 77     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'EPP'    
-        position: Third
-        percent: 63    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(1)   
-      score: CAR 8 - EPP 3   
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 89     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'EPP'    
-        position: Third
-        percent: 97    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Semi-Final(12)   
-      score: CAR 6 - EPP 5   
-    - player1:          
-        team: 'Carr'    
-        position: Second
-        percent: 78     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Koe'     
-        position: Second
-        percent: 83     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2018             
-      draw: Round Robin(6)   
-      score: Carr 2 - Koe 4  
- - name: Overton-Clapham, Cathy
-   totals:                     
-    - event: Canada Cup (Men)  
-      player1:                 
-        percent: 78            
-        wins: 0                
-        losses: 1              
-      player2:                 
-        percent: 90            
-        wins: 1                
-        losses: 0              
-   games:
-    - player1:          
-        team: 'Carr'    
-        position: Second
-        percent: 78     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Koe'    
-        position: Third
-        percent: 90    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2018             
-      draw: Round Robin(6)   
-      score: Carr 2 - Koe 4  
- - name: Peterman, Jocelyn   
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 84          
-        wins: 3              
-        losses: 3            
-      player2:               
-        percent: 86          
-        wins: 3              
-        losses: 3            
-   games:
-    - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 74     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'MCE'     
-        position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Round Robin(5)   
-      score: MCE 3 - HOW 4   
-    - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 95     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'MCE'     
-        position: Second
-        percent: 94     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Semi-Final(10)   
-      score: HOW 4 - MCE 5   
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 88     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'GUS'     
-        position: Second
-        percent: 81     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(3)   
-      score: CAR 6 - GUS 7   
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 88     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'GUS'     
-        position: Second
-        percent: 89     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Final(13)        
-      score: GUS 6 - CAR 8   
-    - player1:          
-        team: 'Carr'    
-        position: Second
-        percent: 76     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Eppi'    
-        position: Second
-        percent: 86     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2018             
-      draw: Round Robin(2)   
-      score: Eppi 6 - Carr 3 
-    - player1:          
-        team: 'Gush'    
-        position: Second
-        percent: 83     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Howa'    
-        position: Second
-        percent: 85     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(6)   
-      score: Gush 4 - Howa 3 
- - name: Peters, Laine       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 85          
-        wins: 2              
-        losses: 3            
-      player2:               
-        percent: 90          
-        wins: 3              
-        losses: 2            
-   games:
-    - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 74     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'MCE'   
-        position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Round Robin(5)   
-      score: MCE 3 - HOW 4   
-    - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 95     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'MCE'   
-        position: Lead
-        percent: 91   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Semi-Final(10)   
-      score: HOW 4 - MCE 5   
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 88     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'GUS'   
-        position: Lead
-        percent: 91   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(3)   
-      score: CAR 6 - GUS 7   
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 88     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'GUS'   
-        position: Lead
-        percent: 94   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Final(13)        
-      score: GUS 6 - CAR 8   
-    - player1:          
-        team: 'Carr'    
-        position: Second
-        percent: 78     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Koe'   
-        position: Lead
-        percent: 85   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2018             
-      draw: Round Robin(6)   
-      score: Carr 2 - Koe 4  
- - name: Rizzo, Jo-Ann       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 89          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 88          
-        wins: 1              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 85     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'KOE'    
-        position: Third
-        percent: 91    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Round Robin(8)   
-      score: HOW 4 - KOE 3   
-    - player1:          
-        team: 'JAC'     
-        position: Second
-        percent: 94     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'MCE'    
-        position: Third
-        percent: 85    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2015             
-      draw: Round Robin(9)   
-      score: MCE 8 - JAC 6   
- - name: Robertson, Darcy    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 89          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 88          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Carr'    
-        position: Second
-        percent: 89     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Gush'    
-        position: Fourth
-        percent: 88     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2018             
-      draw: Round Robin(8)   
-      score: Gush 8 - Carr 4 
- - name: Rocque, Kelsey      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 87          
-        wins: 2              
-        losses: 0            
-      player2:               
-        percent: 74          
-        wins: 0              
-        losses: 2            
-   games:
-    - player1:          
-        team: 'JAC'     
-        position: Second
-        percent: 88     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'LAY'     
-        position: Fourth
-        percent: 83     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2015             
-      draw: Round Robin(5)   
-      score: JAC 7 - LAY 2   
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 86     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'KOE'     
-        position: Fourth
-        percent: 68     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(5)   
-      score: KOE 6 - CAR 7   
- - name: Scheidegger, Casey  
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 74          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 78          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Carr'    
-        position: Second
-        percent: 74     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Jaco'    
-        position: Fourth
-        percent: 78     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2018             
-      draw: Round Robin(4)   
-      score: Carr 4 - Jaco 5 
- - name: Schmidt, Stephanie  
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 90          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 85          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 90     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'COT'   
-        position: Lead
-        percent: 85   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Round Robin(9)   
-      score: HOW 4 - COT 6   
- - name: Silvernagle, Robyn  
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 95          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 91          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Gush'    
-        position: Second
-        percent: 95     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Duns'    
-        position: Fourth
-        percent: 91     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(2)   
-      score: Gush 9 - Duns 7 
- - name: Singler, Sherri     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 90          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 86          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 90     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'COT'    
-        position: Third
-        percent: 86    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Round Robin(9)   
-      score: HOW 4 - COT 6   
- - name: Sweeting, Val       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 86          
-        wins: 3              
-        losses: 3            
-      player2:               
-        percent: 84          
-        wins: 3              
-        losses: 3            
-   games:
-    - player1:          
-        team: 'HOW'     
-        position: Second
-        percent: 88     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'MOR'     
-        position: Fourth
-        percent: 83     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2014             
-      draw: Round Robin(1)   
-      score: HOW 7 - MOR 6   
-    - player1:          
-        team: 'JAC'     
-        position: Second
-        percent: 94     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'GUS'     
-        position: Fourth
-        percent: 85     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2015             
-      draw: Round Robin(10)  
-      score: GUS 8 - JAC 5   
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 77     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'EPP'     
+        team: 'Eina'    
         position: Fourth
         percent: 70     
         win: 0          
         loss: 1         
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(1)   
-      score: CAR 8 - EPP 3   
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(8)     
+      score: Eina 4 - Homa 5   
+ - name: Ferguson, Dana        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 79            
+        wins: 5                
+        losses: 2              
+      player2:                 
+        percent: 74            
+        wins: 2                
+        losses: 5              
+   games:
     - player1:          
-        team: 'CAR'     
+        team: 'HOM'     
+        position: Second
+        percent: 81     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'SWE'     
+        position: Second
+        percent: 73     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Round Robin(6)     
+      score: HOM 7 - SWE 6     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 69     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'SWE'     
+        position: Second
+        percent: 81     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Final(11)          
+      score: HOM 3 - SWE 6     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 92     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'SWE'     
+        position: Second
+        percent: 55     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Round Robin(1)     
+      score: HOM 8 - SWE 3     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 75     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'SWE'     
+        position: Second
+        percent: 75     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Final(12)          
+      score: SWE 7 - HOM 8     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 94     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'SWE'     
+        position: Second
+        percent: 69     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(7)     
+      score: HOM 7 - SWE 3     
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 81     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Care'    
+        position: Second
+        percent: 78     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(8)     
+      score: Care 2 - Homa 9   
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 70     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Care'    
+        position: Second
+        percent: 83     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(2)     
+      score: Homa 4 - Care 6   
+ - name: Flaxey, Allison       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 87            
+        wins: 2                
+        losses: 0              
+      player2:                 
+        percent: 67            
+        wins: 0                
+        losses: 2              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 84     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'FLA'     
+        position: Fourth
+        percent: 58     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Round Robin(2)     
+      score: FLA 3 - HOM 11    
+    - player1:          
+        team: 'Homa'    
         position: Second
         percent: 89     
         win: 1          
         loss: 0         
       player2:          
-        team: 'EPP'     
+        team: 'Flax'    
         position: Fourth
-        percent: 91     
+        percent: 74     
         win: 0          
         loss: 1         
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Semi-Final(12)   
-      score: CAR 6 - EPP 5   
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(10)    
+      score: Flax 4 - Homa 5   
+ - name: Fleury, Tracy         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 80            
+        wins: 4                
+        losses: 0              
+      player2:                 
+        percent: 70            
+        wins: 0                
+        losses: 4              
+   games:
     - player1:          
-        team: 'Carr'    
+        team: 'HOM'     
+        position: Second
+        percent: 88     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'FLE'     
+        position: Fourth
+        percent: 62     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Round Robin(7)     
+      score: FLE 5 - HOM 7     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 80     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'FLE'     
+        position: Fourth
+        percent: 82     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(4)     
+      score: FLE 4 - HOM 6     
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 70     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Fleu'    
+        position: Fourth
+        percent: 64     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(4)     
+      score: Homa 10 - Fleu 7  
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 82     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Fleu'    
+        position: Fourth
+        percent: 71     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Final(11)          
+      score: Homa 9 - Fleu 4   
+ - name: Foster, Kristen       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 84            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 81            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 84     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'FLA'     
+        position: Second
+        percent: 81     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Round Robin(2)     
+      score: FLA 3 - HOM 11    
+ - name: Foster, Vanessa       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 85            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 86            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 85     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Robe'    
+        position: Second
+        percent: 86     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(7)     
+      score: Robe 6 - Homa 7   
+ - name: Fyfe, Liz             
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 79            
+        wins: 3                
+        losses: 1              
+      player2:                 
+        percent: 83            
+        wins: 1                
+        losses: 3              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 74     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'EIN'     
+        position: Second
+        percent: 86     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(3)     
+      score: EIN 8 - HOM 5     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 92     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'EIN'     
+        position: Second
+        percent: 81     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Semi-Final(11)     
+      score: EIN 4 - HOM 9     
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 70     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Fleu'    
+        position: Second
+        percent: 76     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(4)     
+      score: Homa 10 - Fleu 7  
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 82     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Fleu'    
+        position: Second
+        percent: 89     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Final(11)          
+      score: Homa 9 - Fleu 4   
+ - name: Gates, Amanda         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 80            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 83            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 80     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'FLE'   
+        position: Lead
+        percent: 83   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(4)     
+      score: FLE 4 - HOM 6     
+ - name: Gates, Jennifer       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 83            
+        wins: 2                
+        losses: 0              
+      player2:                 
+        percent: 85            
+        wins: 0                
+        losses: 2              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 86     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'ROC'   
+        position: Lead
+        percent: 86   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Round Robin(5)     
+      score: HOM 9 - ROC 2     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 81     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'ROC'   
+        position: Lead
+        percent: 84   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(5)     
+      score: HOM 8 - ROC 7     
+ - name: Haughian, Jessie      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 88            
+        wins: 1                
+        losses: 1              
+      player2:                 
+        percent: 83            
+        wins: 1                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 86     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Sche'    
+        position: Second
+        percent: 85     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(3)     
+      score: Homa 5 - Sche 7   
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 89     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Sche'    
+        position: Second
+        percent: 81     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(5)     
+      score: Sche 3 - Homa 8   
+ - name: Hunkin, Jessie        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 93            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 79            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 93     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Silv'    
+        position: Second
+        percent: 79     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(1)     
+      score: Silv 5 - Homa 8   
+ - name: Jones, Jennifer       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 83            
+        wins: 3                
+        losses: 4              
+      player2:                 
+        percent: 76            
+        wins: 4                
+        losses: 3              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 85     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'JON'     
+        position: Fourth
+        percent: 53     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Round Robin(9)     
+      score: JON 4 - HOM 9     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 94     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'JON'     
+        position: Fourth
+        percent: 79     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Round Robin(3)     
+      score: JON 5 - HOM 6     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 81     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'JON'     
+        position: Fourth
+        percent: 87     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(9)     
+      score: HOM 4 - JON 9     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 72     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'JON'     
+        position: Fourth
+        percent: 78     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Final(12)          
+      score: HOM 5 - JON 9     
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 67     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Jone'    
+        position: Fourth
+        percent: 78     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(6)     
+      score: Homa 5 - Jone 9   
+    - player1:          
+        team: 'Homa'    
         position: Second
         percent: 83     
         win: 0          
         loss: 1         
-      player2:         
-        team: 'Bott'   
-        position: Third
-        percent: 81    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2018             
-      draw: Round Robin(3)   
-      score: Carr 5 - Bott 9 
+      player2:          
+        team: 'Jone'    
+        position: Fourth
+        percent: 88     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Semi-Final(11)     
+      score: Jone 8 - Homa 4   
     - player1:          
-        team: 'Gush'    
+        team: 'Homa'    
+        position: Second
+        percent: 93     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Jone'    
+        position: Fourth
+        percent: 71     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(9)     
+      score: Homa 7 - Jone 5   
+ - name: Kasner, Marliese      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 84            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 66            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 84     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'AND'     
+        position: Second
+        percent: 66     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Round Robin(8)     
+      score: AND 8 - HOM 3     
+ - name: Klein, Karen          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 85            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 75            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 85     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'Robe'   
+        position: Third
+        percent: 75    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(7)     
+      score: Robe 6 - Homa 7   
+ - name: Lawes, Kaitlyn        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 83            
+        wins: 3                
+        losses: 4              
+      player2:                 
+        percent: 80            
+        wins: 4                
+        losses: 3              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 85     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'JON'    
+        position: Third
+        percent: 74    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Round Robin(9)     
+      score: JON 4 - HOM 9     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 94     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'JON'    
+        position: Third
+        percent: 79    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Round Robin(3)     
+      score: JON 5 - HOM 6     
+    - player1:          
+        team: 'HOM'     
         position: Second
         percent: 81     
         win: 0          
         loss: 1         
       player2:         
-        team: 'Koe'    
+        team: 'JON'    
         position: Third
-        percent: 92    
+        percent: 82    
         win: 1         
         loss: 0        
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(9)   
-      score: Koe 10 - Gush 4 
- - name: Thevenot, Kara      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 95          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 95          
-        wins: 0              
-        losses: 1            
-   games:
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(9)     
+      score: HOM 4 - JON 9     
     - player1:          
-        team: 'Gush'    
+        team: 'HOM'     
         position: Second
-        percent: 95     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'Duns'  
-        position: Lead
-        percent: 95   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(2)   
-      score: Gush 9 - Duns 7 
- - name: Walsh, Jenna        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 93          
-        wins: 0              
-        losses: 2            
-      player2:               
-        percent: 86          
-        wins: 2              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'JAC'     
-        position: Second
-        percent: 96     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'KOE'     
-        position: Second
-        percent: 85     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2015             
-      draw: Round Robin(3)   
-      score: KOE 7 - JAC 6   
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 90     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'LAY'     
-        position: Second
-        percent: 88     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(7)   
-      score: CAR 3 - LAY 5   
- - name: Webster, Crystal    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 90          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 85          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'CAR'     
-        position: Second
-        percent: 90     
+        percent: 72     
         win: 0          
         loss: 1         
       player2:         
-        team: 'LAY'    
+        team: 'JON'    
         position: Third
-        percent: 85    
+        percent: 89    
         win: 1         
         loss: 0        
-      event: Canada Cup (Men)
-      year: 2016             
-      draw: Round Robin(7)   
-      score: CAR 3 - LAY 5   
- - name: Westcott, Raunora   
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 95          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 88          
-        wins: 1              
-        losses: 1            
-   games:
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Final(12)          
+      score: HOM 5 - JON 9     
     - player1:          
-        team: 'JAC'     
+        team: 'Homa'    
         position: Second
-        percent: 98     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'EPP'   
-        position: Lead
-        percent: 88   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2015             
-      draw: Round Robin(6)   
-      score: JAC 7 - EPP 3   
-    - player1:          
-        team: 'Carr'    
-        position: Second
-        percent: 91     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Duns'  
-        position: Lead
-        percent: 89   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2018             
-      draw: Round Robin(7)   
-      score: Duns 7 - Carr 3 
- - name: Wilkes, Sarah       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 90          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 86          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Gush'    
-        position: Second
-        percent: 90     
+        percent: 67     
         win: 0          
         loss: 1         
       player2:         
-        team: 'Eppi'   
+        team: 'Jone'   
         position: Third
-        percent: 86    
+        percent: 83    
         win: 1         
         loss: 0        
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(5)   
-      score: Eppi 6 - Gush 4 
- - name: Wilson, Leslie      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 98          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 84          
-        wins: 0              
-        losses: 1            
-   games:
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(6)     
+      score: Homa 5 - Jone 9   
     - player1:          
-        team: 'JAC'     
+        team: 'Homa'    
         position: Second
-        percent: 98     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'EPP'     
-        position: Second
-        percent: 84     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2015             
-      draw: Round Robin(6)   
-      score: JAC 7 - EPP 3   
- - name: Wylie, Jennifer     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 96          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 88          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'JAC'     
-        position: Second
-        percent: 96     
+        percent: 83     
         win: 0          
         loss: 1         
       player2:         
-        team: 'KOE'    
+        team: 'Jone'   
         position: Third
         percent: 88    
         win: 1         
         loss: 0        
-      event: Canada Cup (Men)
-      year: 2015             
-      draw: Round Robin(3)   
-      score: KOE 7 - JAC 6   
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Semi-Final(11)     
+      score: Jone 8 - Homa 4   
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 93     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'Jone'   
+        position: Third
+        percent: 69    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(9)     
+      score: Homa 7 - Jone 5   
+ - name: Lawton, Stefanie      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 93            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 76            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 93     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'Silv'   
+        position: Third
+        percent: 76    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(1)     
+      score: Silv 5 - Homa 8   
+ - name: MacCuish, Kristin     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 79            
+        wins: 3                
+        losses: 1              
+      player2:                 
+        percent: 83            
+        wins: 1                
+        losses: 3              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 74     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'EIN'   
+        position: Lead
+        percent: 79   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(3)     
+      score: EIN 8 - HOM 5     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 92     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'EIN'   
+        position: Lead
+        percent: 90   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Semi-Final(11)     
+      score: EIN 4 - HOM 9     
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 70     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'Fleu'  
+        position: Lead
+        percent: 73   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(4)     
+      score: Homa 10 - Fleu 7  
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 82     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'Fleu'  
+        position: Lead
+        percent: 93   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Final(11)          
+      score: Homa 9 - Fleu 4   
+ - name: Mair, Jessica         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 91            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 38            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 91     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NED'     
+        position: Second
+        percent: 38     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Round Robin(4)     
+      score: HOM 5 - NED 4     
+ - name: McDonald, Kristy      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 86            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 64            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 86     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'MCD'     
+        position: Fourth
+        percent: 64     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Round Robin(4)     
+      score: MCD 4 - HOM 8     
+ - name: McDonald, Taylor      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 85            
+        wins: 3                
+        losses: 0              
+      player2:                 
+        percent: 70            
+        wins: 0                
+        losses: 3              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 86     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'ROC'     
+        position: Second
+        percent: 64     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Round Robin(5)     
+      score: HOM 9 - ROC 2     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 81     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'ROC'     
+        position: Second
+        percent: 64     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(5)     
+      score: HOM 8 - ROC 7     
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 89     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Flax'    
+        position: Second
+        percent: 81     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(10)    
+      score: Flax 4 - Homa 5   
+ - name: McEwen, Dawn          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 83            
+        wins: 3                
+        losses: 4              
+      player2:                 
+        percent: 86            
+        wins: 4                
+        losses: 3              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 85     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'JON'   
+        position: Lead
+        percent: 83   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Round Robin(9)     
+      score: JON 4 - HOM 9     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 94     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'JON'   
+        position: Lead
+        percent: 95   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Round Robin(3)     
+      score: JON 5 - HOM 6     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 81     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'JON'   
+        position: Lead
+        percent: 93   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(9)     
+      score: HOM 4 - JON 9     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 72     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'JON'   
+        position: Lead
+        percent: 79   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Final(12)          
+      score: HOM 5 - JON 9     
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 67     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'Jone'  
+        position: Lead
+        percent: 69   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(6)     
+      score: Homa 5 - Jone 9   
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 83     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'Jone'  
+        position: Lead
+        percent: 88   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Semi-Final(11)     
+      score: Jone 8 - Homa 4   
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 93     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'Jone'  
+        position: Lead
+        percent: 90   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(9)     
+      score: Homa 7 - Jone 5   
+ - name: McTaggart, Cary-Anne  
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 88            
+        wins: 1                
+        losses: 1              
+      player2:                 
+        percent: 67            
+        wins: 1                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 86     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'Sche'   
+        position: Third
+        percent: 69    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(3)     
+      score: Homa 5 - Sche 7   
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 89     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'Sche'   
+        position: Third
+        percent: 65    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(5)     
+      score: Sche 3 - Homa 8   
+ - name: Meilleur, Briane      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 76            
+        wins: 2                
+        losses: 0              
+      player2:                 
+        percent: 83            
+        wins: 0                
+        losses: 2              
+   games:
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 80     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'Eina'  
+        position: Lead
+        percent: 84   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(2)     
+      score: Eina 5 - Homa 6   
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 73     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'Eina'  
+        position: Lead
+        percent: 81   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(8)     
+      score: Eina 4 - Homa 5   
+ - name: Merklinger, Lee       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 88            
+        wins: 1                
+        losses: 1              
+      player2:                 
+        percent: 89            
+        wins: 1                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 93     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'MID'     
+        position: Second
+        percent: 85     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Round Robin(1)     
+      score: HOM 7 - MID 4     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 84     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'MID'     
+        position: Second
+        percent: 93     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Round Robin(9)     
+      score: HOM 4 - MID 6     
+ - name: Middaugh, Sherry      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 88            
+        wins: 1                
+        losses: 1              
+      player2:                 
+        percent: 78            
+        wins: 1                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 93     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'MID'     
+        position: Fourth
+        percent: 76     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Round Robin(1)     
+      score: HOM 7 - MID 4     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 84     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'MID'     
+        position: Fourth
+        percent: 80     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Round Robin(9)     
+      score: HOM 4 - MID 6     
+ - name: Moore, Kristie        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 88            
+        wins: 1                
+        losses: 1              
+      player2:                 
+        percent: 89            
+        wins: 1                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 86     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'Sche'  
+        position: Lead
+        percent: 88   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(3)     
+      score: Homa 5 - Sche 7   
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 89     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'Sche'  
+        position: Lead
+        percent: 92   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(5)     
+      score: Sche 3 - Homa 8   
+ - name: Nedohin, Heather      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 91            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 75            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 91     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NED'     
+        position: Fourth
+        percent: 75     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Round Robin(4)     
+      score: HOM 5 - NED 4     
+ - name: Nixon, Amy            
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 85            
+        wins: 2                
+        losses: 0              
+      player2:                 
+        percent: 85            
+        wins: 0                
+        losses: 2              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 91     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'NED'    
+        position: Third
+        percent: 83    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Round Robin(4)     
+      score: HOM 5 - NED 4     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 79     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'CAR'    
+        position: Third
+        percent: 88    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(2)     
+      score: CAR 4 - HOM 6     
+ - name: Njegovan, Selena      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 79            
+        wins: 3                
+        losses: 1              
+      player2:                 
+        percent: 71            
+        wins: 1                
+        losses: 3              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 74     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'EIN'    
+        position: Third
+        percent: 83    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(3)     
+      score: EIN 8 - HOM 5     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 92     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'EIN'    
+        position: Third
+        percent: 71    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Semi-Final(11)     
+      score: EIN 4 - HOM 9     
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 70     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'Fleu'   
+        position: Third
+        percent: 64    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(4)     
+      score: Homa 10 - Fleu 7  
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 82     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'Fleu'   
+        position: Third
+        percent: 68    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Final(11)          
+      score: Homa 9 - Fleu 4   
+ - name: Officer, Jill         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 83            
+        wins: 2                
+        losses: 2              
+      player2:                 
+        percent: 86            
+        wins: 2                
+        losses: 2              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 85     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'JON'     
+        position: Second
+        percent: 76     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Round Robin(9)     
+      score: JON 4 - HOM 9     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 94     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'JON'     
+        position: Second
+        percent: 88     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Round Robin(3)     
+      score: JON 5 - HOM 6     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 81     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'JON'     
+        position: Second
+        percent: 89     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(9)     
+      score: HOM 4 - JON 9     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 72     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'JON'     
+        position: Second
+        percent: 92     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Final(12)          
+      score: HOM 5 - JON 9     
+ - name: Olson-Johns, Lori     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 5                
+        losses: 1              
+      player2:                 
+        percent: 76            
+        wins: 1                
+        losses: 5              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 81     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'SWE'    
+        position: Third
+        percent: 72    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Round Robin(6)     
+      score: HOM 7 - SWE 6     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 69     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'SWE'    
+        position: Third
+        percent: 86    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Final(11)          
+      score: HOM 3 - SWE 6     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 92     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'SWE'    
+        position: Third
+        percent: 88    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Round Robin(1)     
+      score: HOM 8 - SWE 3     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 75     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'SWE'    
+        position: Third
+        percent: 80    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Final(12)          
+      score: SWE 7 - HOM 8     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 94     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'SWE'    
+        position: Third
+        percent: 56    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(7)     
+      score: HOM 7 - SWE 3     
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 83     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Walk'    
+        position: Second
+        percent: 75     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(4)     
+      score: Homa 8 - Walk 3   
+ - name: Overton-Clapham, Cathy
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 83            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 72            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 83     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'Walk'   
+        position: Third
+        percent: 72    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(4)     
+      score: Homa 8 - Walk 3   
+ - name: Peterman, Jocelyn     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 83            
+        wins: 3                
+        losses: 2              
+      player2:                 
+        percent: 84            
+        wins: 2                
+        losses: 3              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 91     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NED'     
+        position: Second
+        percent: 82     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Round Robin(4)     
+      score: HOM 5 - NED 4     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 79     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'CAR'     
+        position: Second
+        percent: 84     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(2)     
+      score: CAR 4 - HOM 6     
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 67     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Jone'    
+        position: Second
+        percent: 67     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(6)     
+      score: Homa 5 - Jone 9   
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 83     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Jone'    
+        position: Second
+        percent: 88     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Semi-Final(11)     
+      score: Jone 8 - Homa 4   
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 93     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Jone'    
+        position: Second
+        percent: 96     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(9)     
+      score: Homa 7 - Jone 5   
+ - name: Peters, Laine         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 84            
+        wins: 3                
+        losses: 0              
+      player2:                 
+        percent: 83            
+        wins: 0                
+        losses: 3              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 91     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'NED'   
+        position: Lead
+        percent: 83   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Round Robin(4)     
+      score: HOM 5 - NED 4     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 79     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'CAR'   
+        position: Lead
+        percent: 83   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(2)     
+      score: CAR 4 - HOM 6     
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 83     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'Walk'  
+        position: Lead
+        percent: 86   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(4)     
+      score: Homa 8 - Walk 3   
+ - name: Rizzo, Jo-Ann         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 88            
+        wins: 1                
+        losses: 1              
+      player2:                 
+        percent: 82            
+        wins: 1                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 93     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'MID'    
+        position: Third
+        percent: 82    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Round Robin(1)     
+      score: HOM 7 - MID 4     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 84     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'MID'    
+        position: Third
+        percent: 81    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Round Robin(9)     
+      score: HOM 4 - MID 6     
+ - name: Robertson, Darcy      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 85            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 84            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 85     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Robe'    
+        position: Fourth
+        percent: 84     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(7)     
+      score: Robe 6 - Homa 7   
+ - name: Rocque, Kelsey        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 83            
+        wins: 2                
+        losses: 0              
+      player2:                 
+        percent: 69            
+        wins: 0                
+        losses: 2              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 86     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'ROC'     
+        position: Fourth
+        percent: 66     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Round Robin(5)     
+      score: HOM 9 - ROC 2     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 81     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'ROC'     
+        position: Fourth
+        percent: 73     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(5)     
+      score: HOM 8 - ROC 7     
+ - name: Scheidegger, Casey    
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 86            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 69            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 86     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Sche'    
+        position: Fourth
+        percent: 69     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(3)     
+      score: Homa 5 - Sche 7   
+ - name: Schmidt, Stephanie    
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 84            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 66            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 84     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'AND'   
+        position: Lead
+        percent: 66   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Round Robin(8)     
+      score: AND 8 - HOM 3     
+ - name: Silvernagle, Robyn    
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 93            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 78            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 93     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Silv'    
+        position: Fourth
+        percent: 78     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(1)     
+      score: Silv 5 - Homa 8   
+ - name: Singler, Sherri       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 84            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 72            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 84     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'AND'    
+        position: Third
+        percent: 72    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Round Robin(8)     
+      score: AND 8 - HOM 3     
+ - name: Sweeting, Val         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 80            
+        wins: 6                
+        losses: 1              
+      player2:                 
+        percent: 75            
+        wins: 1                
+        losses: 6              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 81     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'SWE'     
+        position: Fourth
+        percent: 81     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Round Robin(6)     
+      score: HOM 7 - SWE 6     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 69     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'SWE'     
+        position: Fourth
+        percent: 89     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2014               
+      draw: Final(11)          
+      score: HOM 3 - SWE 6     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 92     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'SWE'     
+        position: Fourth
+        percent: 61     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Round Robin(1)     
+      score: HOM 8 - SWE 3     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 75     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'SWE'     
+        position: Fourth
+        percent: 70     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Final(12)          
+      score: SWE 7 - HOM 8     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 94     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'SWE'     
+        position: Fourth
+        percent: 63     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(7)     
+      score: HOM 7 - SWE 3     
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 80     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'Eina'   
+        position: Third
+        percent: 74    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(2)     
+      score: Eina 5 - Homa 6   
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 73     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'Eina'   
+        position: Third
+        percent: 81    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(8)     
+      score: Eina 4 - Homa 5   
+ - name: Thevenot, Kara        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 93            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 78            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 93     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'Silv'  
+        position: Lead
+        percent: 78   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(1)     
+      score: Silv 5 - Homa 8   
+ - name: Walsh, Jenna          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 84            
+        wins: 2                
+        losses: 0              
+      player2:                 
+        percent: 77            
+        wins: 0                
+        losses: 2              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 88     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'FLE'     
+        position: Second
+        percent: 81     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Round Robin(7)     
+      score: FLE 5 - HOM 7     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 80     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'FLE'     
+        position: Second
+        percent: 73     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(4)     
+      score: FLE 4 - HOM 6     
+ - name: Webster, Crystal      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 84            
+        wins: 2                
+        losses: 0              
+      player2:                 
+        percent: 73            
+        wins: 0                
+        losses: 2              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 88     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'FLE'    
+        position: Third
+        percent: 70    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Round Robin(7)     
+      score: FLE 5 - HOM 7     
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 80     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'FLE'    
+        position: Third
+        percent: 75    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2016               
+      draw: Round Robin(4)     
+      score: FLE 4 - HOM 6     
+ - name: Westcott, Raunora     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 88            
+        wins: 2                
+        losses: 0              
+      player2:                 
+        percent: 89            
+        wins: 0                
+        losses: 2              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 86     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'MCD'   
+        position: Lead
+        percent: 85   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Round Robin(4)     
+      score: MCD 4 - HOM 8     
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 89     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'Flax'  
+        position: Lead
+        percent: 94   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(10)    
+      score: Flax 4 - Homa 5   
+ - name: Wilkes, Sarah         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 75            
+        wins: 1                
+        losses: 1              
+      player2:                 
+        percent: 74            
+        wins: 1                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 81     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'Care'   
+        position: Third
+        percent: 72    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2018               
+      draw: Round Robin(8)     
+      score: Care 2 - Homa 9   
+    - player1:          
+        team: 'Homa'    
+        position: Second
+        percent: 70     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'Care'   
+        position: Third
+        percent: 76    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(2)     
+      score: Homa 4 - Care 6   
+ - name: Wilson, Leslie        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 86            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 84            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 86     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'MCD'     
+        position: Second
+        percent: 84     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Round Robin(4)     
+      score: MCD 4 - HOM 8     
+ - name: Wylie, Jennifer       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 88            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 69            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'HOM'     
+        position: Second
+        percent: 88     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'FLE'   
+        position: Lead
+        percent: 69   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2015               
+      draw: Round Robin(7)     
+      score: FLE 5 - HOM 7     
 ---

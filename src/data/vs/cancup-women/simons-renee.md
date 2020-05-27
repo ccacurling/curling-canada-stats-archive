@@ -2,428 +2,520 @@
 title: Renee Simons Head-to-head
 name: Simons, Renee
 vs:
- - name: Singler, Sherri     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 95          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 65          
-        wins: 0              
-        losses: 1            
+ - name: Singler, Sherri       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 94            
+        wins: 0                
+        losses: 2              
+      player2:                 
+        percent: 83            
+        wins: 2                
+        losses: 0              
    games:
     - player1:        
-        team: 'FERB'  
-        position: Lead
-        percent: 95   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'BURT'    
-        position: Second
-        percent: 65     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(8)   
-      score: BURT 2 - FERB 9 
- - name: Skinner, Julie      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 74          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 75          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:        
-        team: 'Humb'  
-        position: Lead
-        percent: 74   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'Morr'    
-        position: Second
-        percent: 75     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(4)   
-      score: Humb 2 - Morr 5 
- - name: Smith, Nancy        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 87          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 82          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:        
-        team: 'HOW'   
-        position: Lead
-        percent: 87   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'SIM'    
-        position: Third
-        percent: 82    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2004             
-      draw: Round Robin(8)   
-      score: SIM 3 - HOW 7   
- - name: Smith, Nikki        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 94          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 86          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:        
-        team: 'Joh'   
+        team: 'SCOT'  
         position: Lead
         percent: 94   
         win: 0        
         loss: 1       
+      player2:          
+        team: 'LAWT'    
+        position: Second
+        percent: 78     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(6)     
+      score: LAWT 5 - SCOT 3   
+    - player1:        
+        team: 'SCOT'  
+        position: Lead
+        percent: 94   
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'LAWT'    
+        position: Second
+        percent: 88     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Final(14)          
+      score: LAWT 7 - SCOT 4   
+ - name: Skinner, Julie        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 82            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 85            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:        
+        team: 'Scot'  
+        position: Lead
+        percent: 82   
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'KLaw'    
+        position: Second
+        percent: 85     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(4)     
+      score: Scot 4 - KLaw 9   
+ - name: Smith, Heather        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 89            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 70            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:        
+        team: 'Sco'   
+        position: Lead
+        percent: 89   
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'Smi'     
+        position: Fourth
+        percent: 70     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(2)     
+      score: Sco 6 - Smi 7     
+ - name: Smith, Nancy          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 86            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 80            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:        
+        team: 'SCO'   
+        position: Lead
+        percent: 86   
+        win: 0        
+        loss: 1       
       player2:         
-        team: 'Mar'    
+        team: 'BRY'    
         position: Third
-        percent: 86    
+        percent: 80    
         win: 1         
         loss: 0        
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(4)   
-      score: Mar 7 - Joh 4   
- - name: Sonnenberg, Renee   
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 94          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 97          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2004               
+      draw: Round Robin(5)     
+      score: BRY 7 - SCO 6     
+ - name: Spencer, Barb         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 91            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 31            
+        wins: 0                
+        losses: 1              
    games:
     - player1:        
-        team: 'Joh'   
+        team: 'Scot'  
+        position: Lead
+        percent: 91   
+        win: 1        
+        loss: 0       
+      player2:          
+        team: 'Spen'    
+        position: Fourth
+        percent: 31     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(3)     
+      score: Spen 1 - Scot 8   
+ - name: Strong, Heather       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 89            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 79            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:        
+        team: 'Sco'   
+        position: Lead
+        percent: 89   
+        win: 1        
+        loss: 0       
+      player2:          
+        team: 'Str'     
+        position: Fourth
+        percent: 79     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Round Robin(2)     
+      score: Str 2 - Sco 5     
+ - name: Strong, Laura         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 89            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 74            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:        
+        team: 'Sco'   
+        position: Lead
+        percent: 89   
+        win: 1        
+        loss: 0       
+      player2:          
+        team: 'Str'     
+        position: Second
+        percent: 74     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Round Robin(2)     
+      score: Str 2 - Sco 5     
+ - name: Tuck, Kim             
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 90            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 90            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:        
+        team: 'Sco'   
+        position: Lead
+        percent: 90   
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'Riz'     
+        position: Second
+        percent: 90     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(8)     
+      score: Sco 3 - Riz 4     
+ - name: Unrau, Faye           
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 91            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 86            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:        
+        team: 'Scot'  
+        position: Lead
+        percent: 91   
+        win: 1        
+        loss: 0       
+      player2:        
+        team: 'Spen'  
+        position: Lead
+        percent: 86   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(3)     
+      score: Spen 1 - Scot 8   
+ - name: Vey, Lana             
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 94            
+        wins: 0                
+        losses: 2              
+      player2:                 
+        percent: 75            
+        wins: 2                
+        losses: 0              
+   games:
+    - player1:        
+        team: 'SCOT'  
         position: Lead
         percent: 94   
         win: 0        
         loss: 1       
-      player2:          
-        team: 'Mar'     
-        position: Fourth
-        percent: 97     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(4)   
-      score: Mar 7 - Joh 4   
- - name: Spencer, Barb       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 99          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 58          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:        
-        team: 'Humb'  
-        position: Lead
-        percent: 99   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'Wood'    
-        position: Fourth
-        percent: 58     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(6)   
-      score: Wood 8 - Humb 9 
- - name: Tuck, Kim           
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 98          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 91          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:        
-        team: 'Sto'   
-        position: Lead
-        percent: 98   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'Rya'     
-        position: Second
-        percent: 91     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(11)  
-      score: Sto 5 - Rya 3   
- - name: Unrau, Faye         
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 99          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 83          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:        
-        team: 'Humb'  
-        position: Lead
-        percent: 99   
-        win: 1        
-        loss: 0       
       player2:        
-        team: 'Wood'  
+        team: 'LAWT'  
         position: Lead
-        percent: 83   
+        percent: 74   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(6)     
+      score: LAWT 5 - SCOT 3   
+    - player1:        
+        team: 'SCOT'  
+        position: Lead
+        percent: 94   
         win: 0        
         loss: 1       
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(6)   
-      score: Wood 8 - Humb 9 
- - name: Vey, Lana           
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 95          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 100         
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:        
-        team: 'FERB'  
+      player2:        
+        team: 'LAWT'  
         position: Lead
-        percent: 95   
+        percent: 76   
         win: 1        
         loss: 0       
-      player2:        
-        team: 'BURT'  
-        position: Lead
-        percent: 100  
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(8)   
-      score: BURT 2 - FERB 9 
- - name: Wall, Kirsten       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 87          
-        wins: 2              
-        losses: 0            
-      player2:               
-        percent: 64          
-        wins: 0              
-        losses: 2            
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Final(14)          
+      score: LAWT 7 - SCOT 4   
+ - name: Wall, Kirsten         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 2                
+        losses: 0              
+      player2:                 
+        percent: 63            
+        wins: 0                
+        losses: 2              
    games:
     - player1:        
-        team: 'STOU'  
+        team: 'SCO'   
         position: Lead
-        percent: 96   
+        percent: 79   
         win: 1        
         loss: 0       
       player2:         
-        team: 'WMID'   
+        team: 'MID'    
         position: Third
         percent: 63    
         win: 0         
         loss: 1        
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(4)   
-      score: STOU 5 - WMID 2 
+      event: Canada Cup (Women)
+      year: 2004               
+      draw: Playoff(12)        
+      score: MID 4 - SCO 10    
     - player1:        
-        team: 'STOU'  
+        team: 'SCOT'  
         position: Lead
-        percent: 79   
+        percent: 84   
         win: 1        
         loss: 0       
       player2:         
-        team: 'WMID'   
+        team: 'SMID'   
         position: Third
-        percent: 66    
+        percent: 64    
         win: 0         
         loss: 1        
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Page 1-2(11)     
-      score: STOU 5 - WMID 3 
- - name: Webster, Bronwen    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 88          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 83          
-        wins: 1              
-        losses: 1            
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(5)     
+      score: SMID 4 - SCOT 10  
+ - name: Webster, Bronwen      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 82            
+        wins: 1                
+        losses: 1              
+      player2:                 
+        percent: 88            
+        wins: 1                
+        losses: 1              
    games:
     - player1:        
-        team: 'FERB'  
+        team: 'SCOT'  
         position: Lead
-        percent: 99   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'HOWA'    
-        position: Second
-        percent: 86     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2008             
-      draw: Round Robin(6)   
-      score: FERB 5 - HOWA 7 
-    - player1:        
-        team: 'STOU'  
-        position: Lead
-        percent: 78   
+        percent: 92   
         win: 1        
         loss: 0       
       player2:          
-        team: 'KOE'     
+        team: 'KLEI'    
         position: Second
-        percent: 79     
+        percent: 86     
         win: 0          
         loss: 1         
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(2)   
-      score: STOU 7 - KOE 5  
- - name: Wheatcroft, Georgina
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 74          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 76          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2008               
+      draw: Round Robin(7)     
+      score: SCOT 6 - KLEI 3   
+    - player1:        
+        team: 'SCOT'  
+        position: Lead
+        percent: 72   
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'KLEI'    
+        position: Second
+        percent: 90     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(8)     
+      score: SCOT 6 - KLEI 11  
+ - name: Wheatcroft, Georgina  
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 87            
+        wins: 0                
+        losses: 3              
+      player2:                 
+        percent: 87            
+        wins: 3                
+        losses: 0              
    games:
     - player1:        
-        team: 'Humb'  
+        team: 'Scot'  
         position: Lead
-        percent: 74   
+        percent: 82   
         win: 0        
         loss: 1       
       player2:         
-        team: 'Morr'   
+        team: 'KLaw'   
         position: Third
-        percent: 76    
+        percent: 81    
         win: 1         
         loss: 0        
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(4)   
-      score: Humb 2 - Morr 5 
- - name: Whitaker, Carol     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 95          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 79          
-        wins: 1              
-        losses: 0            
-   games:
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(4)     
+      score: Scot 4 - KLaw 9   
     - player1:        
-        team: 'Joh'   
+        team: 'Sco'   
         position: Lead
-        percent: 95   
+        percent: 94   
         win: 0        
         loss: 1       
       player2:        
-        team: 'Urs'   
+        team: 'Jon'   
         position: Lead
-        percent: 79   
+        percent: 98   
         win: 1        
         loss: 0       
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(10)  
-      score: Joh 4 - Urs 7   
- - name: Zinck, Kay          
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 86          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 66          
-        wins: 0              
-        losses: 1            
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Round Robin(7)     
+      score: Jon 11 - Sco 2    
+    - player1:        
+        team: 'Sco'   
+        position: Lead
+        percent: 88   
+        win: 0        
+        loss: 1       
+      player2:        
+        team: 'Jon'   
+        position: Lead
+        percent: 88   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Tie-Breaker(10)    
+      score: Sco 5 - Jon 7     
+ - name: Whitaker, Carol       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 89            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 81            
+        wins: 1                
+        losses: 0              
    games:
     - player1:        
-        team: 'STOU'  
+        team: 'Sco'   
         position: Lead
-        percent: 86   
+        percent: 89   
+        win: 0        
+        loss: 1       
+      player2:        
+        team: 'Com'   
+        position: Lead
+        percent: 81   
         win: 1        
         loss: 0       
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Round Robin(5)     
+      score: Sco 5 - Com 7     
+ - name: Zinck, Kay            
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 91            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 81            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:        
+        team: 'SCOT'  
+        position: Lead
+        percent: 91   
+        win: 0        
+        loss: 1       
       player2:         
-        team: 'APPE'   
+        team: 'M-AA'   
         position: Third
-        percent: 66    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(9)   
-      score: APPE 8 - STOU 9 
+        percent: 81    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(9)     
+      score: SCOT 3 - M-AA 7   
 ---

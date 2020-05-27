@@ -2,73 +2,45 @@
 title: Lana Vey Head-to-head
 name: Vey, Lana
 vs:
-- name: Wall, Kirsten
-  totals:
-  - event: Canada Cup (Men)
-    player1:
-      percent: 86
-      wins: 0
-      losses: 1
-    player2:
-      percent: 69
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: MCEW
-      position: Lead
-      percent: 86
-      win: 0
-      loss: 1
-    player2:
-      team: WMID
-      position: Third
-      percent: 69
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2009
-    draw: Round Robin(2)
-    score: MCEW 5 - WMID 10
 - name: Walsh, Heather
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 91
+      percent: 92
       wins: 0
       losses: 1
     player2:
-      percent: 84
+      percent: 82
       wins: 1
       losses: 0
   games:
   - player1:
-      team: BURT
+      team: LAWT
       position: Lead
-      percent: 91
+      percent: 92
       win: 0
       loss: 1
     player2:
-      team: STOU
+      team: ANDE
       position: Second
-      percent: 84
+      percent: 82
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2008
-    draw: Round Robin(4)
-    score: STOU 7 - BURT 4
+    draw: Round Robin(3)
+    score: ANDE 7 - LAWT 6
 - name: Webster, Bronwen
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 96
-      wins: 0
-      losses: 1
-    player2:
-      percent: 92
+      percent: 89
       wins: 1
       losses: 0
+    player2:
+      percent: 86
+      wins: 0
+      losses: 1
   - event: Trials (Women)
     player1:
       percent: 88
@@ -80,21 +52,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: BURT
+      team: LAWT
       position: Lead
-      percent: 96
-      win: 0
-      loss: 1
-    player2:
-      team: HOWA
-      position: Second
-      percent: 92
+      percent: 89
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: KLEI
+      position: Second
+      percent: 86
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2008
-    draw: Round Robin(2)
-    score: HOWA 8 - BURT 2
+    draw: Round Robin(9)
+    score: KLEI 6 - LAWT 8
   - player1:
       team: LAWT
       position: Lead

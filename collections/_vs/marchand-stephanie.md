@@ -4,112 +4,43 @@ name: Marchand, Stephanie
 vs:
 - name: Mattheis, Shannon
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 84
+      percent: 86
       wins: 1
       losses: 0
     player2:
-      percent: 97
+      percent: 83
       wins: 0
       losses: 1
   games:
   - player1:
-      team: FER
+      team: KLE
       position: Lead
-      percent: 84
+      percent: 86
       win: 1
       loss: 0
     player2:
-      team: SIM
+      team: BRY
       position: Lead
-      percent: 97
+      percent: 83
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2004
     draw: Round Robin(4)
-    score: FER 10 - SIM 4
-- name: Middaugh, Sherry
-  totals:
-  - event: Canada Cup (Men)
-    player1:
-      percent: 97
-      wins: 1
-      losses: 0
-    player2:
-      percent: 73
-      wins: 0
-      losses: 1
-  - event: Hearts
-    player1:
-      percent: 72
-      wins: 0
-      losses: 2
-    player2:
-      percent: 76
-      wins: 2
-      losses: 0
-  games:
-  - player1:
-      team: FER
-      position: Lead
-      percent: 97
-      win: 1
-      loss: 0
-    player2:
-      team: MOR
-      position: Fourth
-      percent: 73
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2004
-    draw: Final(15)
-    score: MOR 3 - FER 10
-  - player1:
-      team: QC
-      position: Fourth
-      percent: 71
-      win: 0
-      loss: 1
-    player2:
-      team: SK
-      position: Fourth
-      percent: 75
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 1996
-    draw: Round Robin(8)
-    score: QC 4 - SK 6
-  - player1:
-      team: AB
-      position: Lead
-      percent: 73
-      win: 0
-      loss: 1
-    player2:
-      team: 'ON'
-      position: Fourth
-      percent: 78
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2004
-    draw: Round Robin(13)
-    score: ON 9 - AB 1
+    score: KLE 7 - BRY 5
 - name: Mulroney, Sandra
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 89
-      wins: 1
-      losses: 0
-    player2:
-      percent: 74
+      percent: 79
       wins: 0
       losses: 1
+    player2:
+      percent: 75
+      wins: 1
+      losses: 0
   - event: Hearts
     player1:
       percent: 79
@@ -121,21 +52,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: FER
+      team: KLE
       position: Lead
-      percent: 89
-      win: 1
-      loss: 0
-    player2:
-      team: STO
-      position: Second
-      percent: 74
+      percent: 79
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: AND
+      position: Second
+      percent: 75
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(9)
-    score: STO 7 - FER 8
+    draw: Round Robin(6)
+    score: AND 5 - KLE 4
   - player1:
       team: QC
       position: Fourth
@@ -170,169 +101,116 @@ vs:
     score: AB 5 - SK 7
 - name: Schraeder, Jeanna
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 91
+      percent: 79
       wins: 0
       losses: 1
     player2:
-      percent: 84
+      percent: 98
       wins: 1
       losses: 0
   games:
   - player1:
-      team: FER
+      team: KLE
       position: Lead
-      percent: 91
+      percent: 79
       win: 0
       loss: 1
     player2:
-      team: HOW
+      team: SCO
       position: Third
-      percent: 84
+      percent: 98
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(6)
-    score: HOW 8 - FER 6
+    draw: Round Robin(2)
+    score: KLE 4 - SCO 6
 - name: Scott, Kelly
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 91
+      percent: 79
       wins: 0
       losses: 1
     player2:
-      percent: 86
+      percent: 87
       wins: 1
       losses: 0
   games:
   - player1:
-      team: FER
+      team: KLE
       position: Lead
-      percent: 91
+      percent: 79
       win: 0
       loss: 1
     player2:
-      team: HOW
+      team: SCO
       position: Fourth
-      percent: 86
+      percent: 87
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(6)
-    score: HOW 8 - FER 6
+    draw: Round Robin(2)
+    score: KLE 4 - SCO 6
 - name: Simons, Renee
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 91
+      percent: 79
       wins: 0
       losses: 1
     player2:
-      percent: 84
+      percent: 73
       wins: 1
       losses: 0
   games:
   - player1:
-      team: FER
+      team: KLE
       position: Lead
-      percent: 91
+      percent: 79
       win: 0
       loss: 1
     player2:
-      team: HOW
+      team: SCO
       position: Lead
-      percent: 84
+      percent: 73
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(6)
-    score: HOW 8 - FER 6
+    draw: Round Robin(2)
+    score: KLE 4 - SCO 6
 - name: Smith, Nancy
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 84
+      percent: 86
       wins: 1
       losses: 0
     player2:
-      percent: 74
+      percent: 79
       wins: 0
       losses: 1
   games:
   - player1:
-      team: FER
+      team: KLE
       position: Lead
-      percent: 84
+      percent: 86
       win: 1
       loss: 0
     player2:
-      team: SIM
+      team: BRY
       position: Third
-      percent: 74
+      percent: 79
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2004
     draw: Round Robin(4)
-    score: FER 10 - SIM 4
-- name: Wall, Kirsten
-  totals:
-  - event: Canada Cup (Men)
-    player1:
-      percent: 97
-      wins: 1
-      losses: 0
-    player2:
-      percent: 73
-      wins: 0
-      losses: 1
-  - event: Hearts
-    player1:
-      percent: 73
-      wins: 0
-      losses: 1
-    player2:
-      percent: 88
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: FER
-      position: Lead
-      percent: 97
-      win: 1
-      loss: 0
-    player2:
-      team: MOR
-      position: Third
-      percent: 73
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2004
-    draw: Final(15)
-    score: MOR 3 - FER 10
-  - player1:
-      team: AB
-      position: Lead
-      percent: 73
-      win: 0
-      loss: 1
-    player2:
-      team: 'ON'
-      position: Third
-      percent: 88
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2004
-    draw: Round Robin(13)
-    score: ON 9 - AB 1
+    score: KLE 7 - BRY 5
 - name: Martin, Heather
   totals:
   - event: Hearts
@@ -421,6 +299,50 @@ vs:
     year: 2004
     draw: Round Robin(1)
     score: AB 10 - PE 6
+- name: Middaugh, Sherry
+  totals:
+  - event: Hearts
+    player1:
+      percent: 72
+      wins: 0
+      losses: 2
+    player2:
+      percent: 76
+      wins: 2
+      losses: 0
+  games:
+  - player1:
+      team: QC
+      position: Fourth
+      percent: 71
+      win: 0
+      loss: 1
+    player2:
+      team: SK
+      position: Fourth
+      percent: 75
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 1996
+    draw: Round Robin(8)
+    score: QC 4 - SK 6
+  - player1:
+      team: AB
+      position: Lead
+      percent: 73
+      win: 0
+      loss: 1
+    player2:
+      team: 'ON'
+      position: Fourth
+      percent: 78
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2004
+    draw: Round Robin(13)
+    score: ON 9 - AB 1
 - name: Moss, Debbie
   totals:
   - event: Hearts
@@ -897,6 +819,34 @@ vs:
     year: 1996
     draw: Round Robin(13)
     score: NB 5 - QC 3
+- name: Wall, Kirsten
+  totals:
+  - event: Hearts
+    player1:
+      percent: 73
+      wins: 0
+      losses: 1
+    player2:
+      percent: 88
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: AB
+      position: Lead
+      percent: 73
+      win: 0
+      loss: 1
+    player2:
+      team: 'ON'
+      position: Third
+      percent: 88
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2004
+    draw: Round Robin(13)
+    score: ON 9 - AB 1
 - name: Wheatcroft, Georgina
   totals:
   - event: Hearts

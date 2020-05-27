@@ -2,17 +2,45 @@
 title: Hayley Clarke Head-to-head
 name: Clarke, Hayley
 vs:
-- name: Darbyshire, Carolyn
+- name: Cordina, Sheri
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 85
+      percent: 80
       wins: 0
       losses: 1
     player2:
       percent: 81
       wins: 1
       losses: 0
+  games:
+  - player1:
+      team: JAC
+      position: Lead
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: MID
+      position: Lead
+      percent: 81
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2004
+    draw: Playoff(10)
+    score: MID 7 - JAC 5
+- name: Darbyshire, Carolyn
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 57
+      wins: 1
+      losses: 0
+    player2:
+      percent: 83
+      wins: 0
+      losses: 1
   - event: Hearts
     player1:
       percent: 76
@@ -24,21 +52,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: COR
+      team: JAC
       position: Lead
-      percent: 85
-      win: 0
-      loss: 1
-    player2:
-      team: SIM
-      position: Second
-      percent: 81
+      percent: 57
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: BRY
+      position: Second
+      percent: 83
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(9)
-    score: COR 7 - SIM 8
+    draw: Round Robin(2)
+    score: BRY 5 - JAC 6
   - player1:
       team: NS
       position: Lead
@@ -57,121 +85,237 @@ vs:
     score: AB 10 - NS 6
 - name: Gignac, Donna
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
+      percent: 81
       wins: 0
       losses: 1
     player2:
-      percent: 85
+      percent: 83
       wins: 1
       losses: 0
   games:
   - player1:
-      team: COR
+      team: JAC
       position: Lead
-      percent: 88
+      percent: 81
       win: 0
       loss: 1
     player2:
-      team: STO
+      team: AND
       position: Lead
-      percent: 85
+      percent: 83
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2004
     draw: Round Robin(5)
-    score: COR 2 - STO 5
+    score: JAC 4 - AND 5
 - name: Hodson, Kim
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
+      percent: 81
       wins: 0
       losses: 1
     player2:
-      percent: 71
+      percent: 90
       wins: 1
       losses: 0
   games:
   - player1:
-      team: COR
+      team: JAC
       position: Lead
-      percent: 88
+      percent: 81
       win: 0
       loss: 1
     player2:
-      team: STO
+      team: AND
       position: Third
-      percent: 71
+      percent: 90
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2004
     draw: Round Robin(5)
-    score: COR 2 - STO 5
+    score: JAC 4 - AND 5
 - name: Kleibrink, Shannon
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 90
+      percent: 61
+      wins: 1
+      losses: 1
+    player2:
+      percent: 73
+      wins: 1
+      losses: 1
+  games:
+  - player1:
+      team: JAC
+      position: Lead
+      percent: 51
+      win: 0
+      loss: 1
+    player2:
+      team: KLE
+      position: Fourth
+      percent: 72
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2004
+    draw: Round Robin(3)
+    score: JAC 5 - KLE 7
+  - player1:
+      team: JAC
+      position: Lead
+      percent: 70
+      win: 1
+      loss: 0
+    player2:
+      team: KLE
+      position: Fourth
+      percent: 73
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2004
+    draw: Playoff(9)
+    score: KLE 6 - JAC 7
+- name: Lawes, Andrea
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 80
       wins: 0
       losses: 1
     player2:
-      percent: 78
+      percent: 79
       wins: 1
       losses: 0
   games:
   - player1:
-      team: COR
+      team: JAC
       position: Lead
-      percent: 90
+      percent: 80
       win: 0
       loss: 1
     player2:
-      team: FER
-      position: Fourth
-      percent: 78
+      team: MID
+      position: Second
+      percent: 79
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(8)
-    score: FER 9 - COR 7
+    draw: Playoff(10)
+    score: MID 7 - JAC 5
 - name: Marchand, Stephanie
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 90
+      percent: 61
+      wins: 1
+      losses: 1
+    player2:
+      percent: 77
+      wins: 1
+      losses: 1
+  games:
+  - player1:
+      team: JAC
+      position: Lead
+      percent: 51
+      win: 0
+      loss: 1
+    player2:
+      team: KLE
+      position: Lead
+      percent: 65
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2004
+    draw: Round Robin(3)
+    score: JAC 5 - KLE 7
+  - player1:
+      team: JAC
+      position: Lead
+      percent: 70
+      win: 1
+      loss: 0
+    player2:
+      team: KLE
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2004
+    draw: Playoff(9)
+    score: KLE 6 - JAC 7
+- name: Mattheis, Shannon
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 57
+      wins: 1
+      losses: 0
+    player2:
+      percent: 84
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: JAC
+      position: Lead
+      percent: 57
+      win: 1
+      loss: 0
+    player2:
+      team: BRY
+      position: Lead
+      percent: 84
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2004
+    draw: Round Robin(2)
+    score: BRY 5 - JAC 6
+- name: Middaugh, Sherry
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 80
       wins: 0
       losses: 1
     player2:
-      percent: 90
+      percent: 74
       wins: 1
       losses: 0
   games:
   - player1:
-      team: COR
+      team: JAC
       position: Lead
-      percent: 90
+      percent: 80
       win: 0
       loss: 1
     player2:
-      team: FER
-      position: Lead
-      percent: 90
+      team: MID
+      position: Fourth
+      percent: 74
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(8)
-    score: FER 9 - COR 7
+    draw: Playoff(10)
+    score: MID 7 - JAC 5
 - name: Mulroney, Sandra
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
+      percent: 81
       wins: 0
       losses: 1
     player2:
@@ -180,60 +324,76 @@ vs:
       losses: 0
   games:
   - player1:
-      team: COR
+      team: JAC
       position: Lead
-      percent: 88
+      percent: 81
       win: 0
       loss: 1
     player2:
-      team: STO
+      team: AND
       position: Second
       percent: 80
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2004
     draw: Round Robin(5)
-    score: COR 2 - STO 5
+    score: JAC 4 - AND 5
 - name: Nixon, Amy
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 90
-      wins: 0
+      percent: 61
+      wins: 1
       losses: 1
     player2:
-      percent: 71
+      percent: 81
       wins: 1
-      losses: 0
+      losses: 1
   games:
   - player1:
-      team: COR
+      team: JAC
       position: Lead
-      percent: 90
+      percent: 51
       win: 0
       loss: 1
     player2:
-      team: FER
+      team: KLE
       position: Third
-      percent: 71
+      percent: 78
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(8)
-    score: FER 9 - COR 7
+    draw: Round Robin(3)
+    score: JAC 5 - KLE 7
+  - player1:
+      team: JAC
+      position: Lead
+      percent: 70
+      win: 1
+      loss: 0
+    player2:
+      team: KLE
+      position: Third
+      percent: 84
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2004
+    draw: Playoff(9)
+    score: KLE 6 - JAC 7
 - name: Schraeder, Jeanna
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 84
-      wins: 0
-      losses: 1
-    player2:
-      percent: 95
+      percent: 57
       wins: 1
       losses: 0
+    player2:
+      percent: 61
+      wins: 0
+      losses: 1
   - event: Hearts
     player1:
       percent: 77
@@ -245,21 +405,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: COR
+      team: JAC
       position: Lead
-      percent: 84
-      win: 0
-      loss: 1
-    player2:
-      team: HOW
-      position: Third
-      percent: 95
+      percent: 57
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: SCO
+      position: Third
+      percent: 61
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(2)
-    score: HOW 7 - COR 1
+    draw: Round Robin(1)
+    score: SCO 5 - JAC 7
   - player1:
       team: NS
       position: Lead
@@ -278,15 +438,15 @@ vs:
     score: CA 7 - NS 2
 - name: Scott, Kelly
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 84
-      wins: 0
-      losses: 1
-    player2:
-      percent: 88
+      percent: 57
       wins: 1
       losses: 0
+    player2:
+      percent: 71
+      wins: 0
+      losses: 1
   - event: Hearts
     player1:
       percent: 77
@@ -298,21 +458,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: COR
+      team: JAC
       position: Lead
-      percent: 84
-      win: 0
-      loss: 1
-    player2:
-      team: HOW
-      position: Fourth
-      percent: 88
+      percent: 57
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: SCO
+      position: Fourth
+      percent: 71
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(2)
-    score: HOW 7 - COR 1
+    draw: Round Robin(1)
+    score: SCO 5 - JAC 7
   - player1:
       team: NS
       position: Lead
@@ -331,15 +491,15 @@ vs:
     score: CA 7 - NS 2
 - name: Simons, Renee
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 84
-      wins: 0
-      losses: 1
-    player2:
-      percent: 84
+      percent: 57
       wins: 1
       losses: 0
+    player2:
+      percent: 94
+      wins: 0
+      losses: 1
   - event: Hearts
     player1:
       percent: 77
@@ -351,21 +511,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: COR
+      team: JAC
       position: Lead
-      percent: 84
-      win: 0
-      loss: 1
-    player2:
-      team: HOW
-      position: Lead
-      percent: 84
+      percent: 57
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: SCO
+      position: Lead
+      percent: 94
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(2)
-    score: HOW 7 - COR 1
+    draw: Round Robin(1)
+    score: SCO 5 - JAC 7
   - player1:
       team: NS
       position: Lead
@@ -384,32 +544,60 @@ vs:
     score: CA 7 - NS 2
 - name: Smith, Nancy
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
+      percent: 57
+      wins: 1
+      losses: 0
+    player2:
       percent: 85
       wins: 0
       losses: 1
+  games:
+  - player1:
+      team: JAC
+      position: Lead
+      percent: 57
+      win: 1
+      loss: 0
     player2:
-      percent: 70
+      team: BRY
+      position: Third
+      percent: 85
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2004
+    draw: Round Robin(2)
+    score: BRY 5 - JAC 6
+- name: Wall, Kirsten
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 80
+      wins: 0
+      losses: 1
+    player2:
+      percent: 66
       wins: 1
       losses: 0
   games:
   - player1:
-      team: COR
+      team: JAC
       position: Lead
-      percent: 85
+      percent: 80
       win: 0
       loss: 1
     player2:
-      team: SIM
+      team: MID
       position: Third
-      percent: 70
+      percent: 66
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(9)
-    score: COR 7 - SIM 8
+    draw: Playoff(10)
+    score: MID 7 - JAC 5
 - name: Comeau, Sandy
   totals:
   - event: Hearts

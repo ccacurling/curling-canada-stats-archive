@@ -2,504 +2,584 @@
 title: Diane Dezura Head-to-head
 name: Dezura, Diane
 vs:
- - name: Enright, Barb       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 96          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 75          
-        wins: 0              
-        losses: 1            
+ - name: Enright, Barb         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 90            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 85            
+        wins: 0                
+        losses: 1              
    games:
     - player1:        
-        team: 'Morr'  
+        team: 'KLaw'  
         position: Lead
-        percent: 96   
+        percent: 90   
         win: 1        
         loss: 0       
       player2:          
-        team: 'Wood'    
-        position: Second
-        percent: 75     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(8)   
-      score: Morr 8 - Wood 1 
- - name: Froud, Susan        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 86          
-        wins: 2              
-        losses: 0            
-      player2:               
-        percent: 87          
-        wins: 0              
-        losses: 2            
-   games:
-    - player1:        
-        team: 'Morr'  
-        position: Lead
-        percent: 84   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'Adam'    
-        position: Second
-        percent: 89     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(2)   
-      score: Morr 7 - Adam 4 
-    - player1:        
-        team: 'Morr'  
-        position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'Adam'    
+        team: 'Spen'    
         position: Second
         percent: 85     
         win: 0          
         loss: 1         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Semi-Final(14)   
-      score: Morr 8 - Adam 5 
- - name: Gatchell, Sara      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 86          
-        wins: 2              
-        losses: 0            
-      player2:               
-        percent: 96          
-        wins: 0              
-        losses: 2            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(6)     
+      score: KLaw 10 - Spen 4  
+ - name: Froud, Susan          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 95            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 71            
+        wins: 0                
+        losses: 1              
    games:
     - player1:        
-        team: 'Morr'  
+        team: 'KLaw'  
         position: Lead
-        percent: 84   
+        percent: 95   
+        win: 1        
+        loss: 0       
+      player2:          
+        team: 'Bodo'    
+        position: Second
+        percent: 71     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(7)     
+      score: Bodo 7 - KLaw 10  
+ - name: Gatchell, Sara        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 95            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 73            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:        
+        team: 'KLaw'  
+        position: Lead
+        percent: 95   
         win: 1        
         loss: 0       
       player2:        
-        team: 'Adam'  
+        team: 'Bodo'  
         position: Lead
-        percent: 94   
+        percent: 73   
         win: 0        
         loss: 1       
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(2)   
-      score: Morr 7 - Adam 4 
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(7)     
+      score: Bodo 7 - KLaw 10  
+ - name: Gignac, Donna         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 95            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 86            
+        wins: 0                
+        losses: 1              
+   games:
     - player1:        
-        team: 'Morr'  
+        team: 'KLaw'  
         position: Lead
-        percent: 88   
+        percent: 95   
         win: 1        
         loss: 0       
       player2:        
-        team: 'Adam'  
+        team: 'Ande'  
         position: Lead
-        percent: 99   
+        percent: 86   
         win: 0        
         loss: 1       
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Semi-Final(14)   
-      score: Morr 8 - Adam 5 
- - name: Gignac, Donna       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 92          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 98          
-        wins: 0              
-        losses: 1            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(2)     
+      score: KLaw 11 - Ande 7  
+ - name: Hodson, Kim           
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 95            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 94            
+        wins: 0                
+        losses: 1              
    games:
     - player1:        
-        team: 'Morr'  
+        team: 'KLaw'  
         position: Lead
-        percent: 92   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'Howa'  
-        position: Lead
-        percent: 98   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(6)   
-      score: Howa 6 - Morr 10
- - name: Hodson, Kim         
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 92          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 91          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:        
-        team: 'Morr'  
-        position: Lead
-        percent: 92   
+        percent: 95   
         win: 1        
         loss: 0       
       player2:         
-        team: 'Howa'   
+        team: 'Ande'   
         position: Third
-        percent: 91    
+        percent: 94    
         win: 0         
         loss: 1        
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(6)   
-      score: Howa 6 - Morr 10
- - name: Jones, Colleen      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 87          
-        wins: 0              
-        losses: 2            
-      player2:               
-        percent: 85          
-        wins: 2              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(2)     
+      score: KLaw 11 - Ande 7  
+ - name: Lawes, Andrea         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 83            
+        wins: 0                
+        losses: 2              
+      player2:                 
+        percent: 80            
+        wins: 2                
+        losses: 0              
    games:
     - player1:        
-        team: 'Morr'  
+        team: 'KLaw'  
         position: Lead
-        percent: 86   
+        percent: 84   
         win: 0        
         loss: 1       
       player2:          
-        team: 'Ferb'    
-        position: Fourth
-        percent: 80     
+        team: 'Midd'    
+        position: Second
+        percent: 74     
         win: 1          
         loss: 0         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Playoff(11)      
-      score: Ferb 9 - Morr 6 
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Playoff(11)        
+      score: KLaw 6 - Midd 8   
     - player1:        
-        team: 'Morr'  
+        team: 'KLaw'  
         position: Lead
-        percent: 88   
+        percent: 83   
         win: 0        
         loss: 1       
       player2:          
-        team: 'Ferb'    
-        position: Fourth
-        percent: 91     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Final(15)        
-      score: Morr 5 - Ferb 7 
- - name: Kelly, Kim          
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 87          
-        wins: 0              
-        losses: 2            
-      player2:               
-        percent: 88          
-        wins: 2              
-        losses: 0            
-   games:
-    - player1:        
-        team: 'Morr'  
-        position: Lead
-        percent: 86   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'Ferb'   
-        position: Third
-        percent: 86    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Playoff(11)      
-      score: Ferb 9 - Morr 6 
-    - player1:        
-        team: 'Morr'  
-        position: Lead
-        percent: 88   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'Ferb'   
-        position: Third
-        percent: 90    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Final(15)        
-      score: Morr 5 - Ferb 7 
- - name: Mulroney, Sandra    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 92          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 86          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:        
-        team: 'Morr'  
-        position: Lead
-        percent: 92   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'Howa'    
+        team: 'Midd'    
         position: Second
         percent: 86     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(6)   
-      score: Howa 6 - Morr 10
- - name: Richard, Jeanna     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 68          
-        wins: 0              
-        losses: 1            
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Final(13)          
+      score: Midd 8 - KLaw 7   
+ - name: MacDonald, Rebecca Jean
+   totals:                      
+    - event: Canada Cup (Women) 
+      player1:                  
+        percent: 92             
+        wins: 1                 
+        losses: 0               
+      player2:                  
+        percent: 67             
+        wins: 0                 
+        losses: 1               
    games:
     - player1:        
-        team: 'Morr'  
+        team: 'KLaw'  
         position: Lead
-        percent: 81   
+        percent: 92   
         win: 1        
         loss: 0       
       player2:         
-        team: 'Humb'   
+        team: 'Gaud'   
         position: Third
-        percent: 68    
+        percent: 67    
         win: 0         
         loss: 1        
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(4)   
-      score: Humb 2 - Morr 5 
- - name: Robertson, Darcy    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 96          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 90          
-        wins: 0              
-        losses: 1            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Semi-Final(12)     
+      score: Gaud 4 - KLaw 10  
+ - name: MacPhee, Robyn        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 92            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 80            
+        wins: 0                
+        losses: 1              
    games:
     - player1:        
-        team: 'Morr'  
+        team: 'KLaw'  
         position: Lead
-        percent: 96   
+        percent: 92   
+        win: 1        
+        loss: 0       
+      player2:          
+        team: 'Gaud'    
+        position: Second
+        percent: 80     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Semi-Final(12)     
+      score: Gaud 4 - KLaw 10  
+ - name: McInnis, Susan        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 92            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 80            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:        
+        team: 'KLaw'  
+        position: Lead
+        percent: 92   
+        win: 1        
+        loss: 0       
+      player2:        
+        team: 'Gaud'  
+        position: Lead
+        percent: 80   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Semi-Final(12)     
+      score: Gaud 4 - KLaw 10  
+ - name: Middaugh, Sherry      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 83            
+        wins: 0                
+        losses: 2              
+      player2:                 
+        percent: 77            
+        wins: 2                
+        losses: 0              
+   games:
+    - player1:        
+        team: 'KLaw'  
+        position: Lead
+        percent: 84   
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'Midd'    
+        position: Fourth
+        percent: 82     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Playoff(11)        
+      score: KLaw 6 - Midd 8   
+    - player1:        
+        team: 'KLaw'  
+        position: Lead
+        percent: 83   
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'Midd'    
+        position: Fourth
+        percent: 73     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Final(13)          
+      score: Midd 8 - KLaw 7   
+ - name: Mulroney, Sandra      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 95            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 88            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:        
+        team: 'KLaw'  
+        position: Lead
+        percent: 95   
+        win: 1        
+        loss: 0       
+      player2:          
+        team: 'Ande'    
+        position: Second
+        percent: 88     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(2)     
+      score: KLaw 11 - Ande 7  
+ - name: Richard, Jeanna       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 83            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 67            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:        
+        team: 'KLaw'  
+        position: Lead
+        percent: 83   
         win: 1        
         loss: 0       
       player2:         
-        team: 'Wood'   
+        team: 'Scot'   
+        position: Third
+        percent: 67    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(4)     
+      score: Scot 4 - KLaw 9   
+ - name: Robertson, Darcy      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 90            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 90            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:        
+        team: 'KLaw'  
+        position: Lead
+        percent: 90   
+        win: 1        
+        loss: 0       
+      player2:         
+        team: 'Spen'   
         position: Third
         percent: 90    
         win: 0         
         loss: 1        
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(8)   
-      score: Morr 8 - Wood 1 
- - name: Scott, Kelly        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 65          
-        wins: 0              
-        losses: 1            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(6)     
+      score: KLaw 10 - Spen 4  
+ - name: Scott, Kelly          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 83            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 71            
+        wins: 0                
+        losses: 1              
    games:
     - player1:        
-        team: 'Morr'  
+        team: 'KLaw'  
         position: Lead
-        percent: 81   
+        percent: 83   
         win: 1        
         loss: 0       
       player2:          
-        team: 'Humb'    
+        team: 'Scot'    
         position: Fourth
-        percent: 65     
+        percent: 71     
         win: 0          
         loss: 1         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(4)   
-      score: Humb 2 - Morr 5 
- - name: Shantz, Penny       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 86          
-        wins: 2              
-        losses: 0            
-      player2:               
-        percent: 76          
-        wins: 0              
-        losses: 2            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(4)     
+      score: Scot 4 - KLaw 9   
+ - name: Shantz, Penny         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 95            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 80            
+        wins: 0                
+        losses: 1              
    games:
     - player1:        
-        team: 'Morr'  
+        team: 'KLaw'  
+        position: Lead
+        percent: 95   
+        win: 1        
+        loss: 0       
+      player2:          
+        team: 'Bodo'    
+        position: Fourth
+        percent: 80     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(7)     
+      score: Bodo 7 - KLaw 10  
+ - name: Simons, Renee         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 83            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 82            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:        
+        team: 'KLaw'  
+        position: Lead
+        percent: 83   
+        win: 1        
+        loss: 0       
+      player2:        
+        team: 'Scot'  
+        position: Lead
+        percent: 82   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(4)     
+      score: Scot 4 - KLaw 9   
+ - name: Spencer, Barb         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 90            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 56            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:        
+        team: 'KLaw'  
+        position: Lead
+        percent: 90   
+        win: 1        
+        loss: 0       
+      player2:          
+        team: 'Spen'    
+        position: Fourth
+        percent: 56     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(6)     
+      score: KLaw 10 - Spen 4  
+ - name: Unrau, Faye           
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 90            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 89            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:        
+        team: 'KLaw'  
+        position: Lead
+        percent: 90   
+        win: 1        
+        loss: 0       
+      player2:        
+        team: 'Spen'  
+        position: Lead
+        percent: 89   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(6)     
+      score: KLaw 10 - Spen 4  
+ - name: Wall, Kirsten         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 83            
+        wins: 0                
+        losses: 2              
+      player2:                 
+        percent: 79            
+        wins: 2                
+        losses: 0              
+   games:
+    - player1:        
+        team: 'KLaw'  
         position: Lead
         percent: 84   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'Adam'    
-        position: Fourth
-        percent: 74     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(2)   
-      score: Morr 7 - Adam 4 
-    - player1:        
-        team: 'Morr'  
-        position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'Adam'    
-        position: Fourth
-        percent: 78     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Semi-Final(14)   
-      score: Morr 8 - Adam 5 
- - name: Simons, Renee       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 74          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:        
-        team: 'Morr'  
-        position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'Humb'  
-        position: Lead
-        percent: 74   
         win: 0        
         loss: 1       
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(4)   
-      score: Humb 2 - Morr 5 
- - name: Spencer, Barb       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 96          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 69          
-        wins: 0              
-        losses: 1            
-   games:
+      player2:         
+        team: 'Midd'   
+        position: Third
+        percent: 83    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Playoff(11)        
+      score: KLaw 6 - Midd 8   
     - player1:        
-        team: 'Morr'  
+        team: 'KLaw'  
         position: Lead
-        percent: 96   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'Wood'    
-        position: Fourth
-        percent: 69     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(8)   
-      score: Morr 8 - Wood 1 
- - name: Unrau, Faye         
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 96          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 88          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:        
-        team: 'Morr'  
-        position: Lead
-        percent: 96   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'Wood'  
-        position: Lead
-        percent: 88   
+        percent: 83   
         win: 0        
         loss: 1       
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(8)   
-      score: Morr 8 - Wood 1 
+      player2:         
+        team: 'Midd'   
+        position: Third
+        percent: 76    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Final(13)          
+      score: Midd 8 - KLaw 7   
 ---

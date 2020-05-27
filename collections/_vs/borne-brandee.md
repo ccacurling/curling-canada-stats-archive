@@ -2,396 +2,396 @@
 title: Brandee Borne Head-to-head
 name: Borne, Brandee
 vs:
- - name: Cordina, Sheri      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 70          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 95          
-        wins: 1              
-        losses: 0            
+ - name: Cordina, Sheri        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 78            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 85            
+        wins: 1                
+        losses: 0              
    games:
     - player1:         
-        team: 'Bals'   
+        team: 'Roch'   
         position: Third
-        percent: 70    
+        percent: 78    
         win: 0         
         loss: 1        
       player2:        
-        team: 'Ryan'  
+        team: 'Midd'  
         position: Lead
-        percent: 95   
+        percent: 85   
         win: 1        
         loss: 0       
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(1)   
-      score: Ryan 9 - Bals 1 
- - name: Delahunt, Nancy     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 80          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 89          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(5)     
+      score: Midd 8 - Roch 5   
+ - name: Delahunt, Nancy       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 86            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 94            
+        wins: 0                
+        losses: 1              
    games:
     - player1:         
-        team: 'Bals'   
+        team: 'Roch'   
         position: Third
-        percent: 80    
-        win: 0         
-        loss: 1        
+        percent: 86    
+        win: 1         
+        loss: 0        
       player2:        
-        team: 'Ferb'  
+        team: 'Jone'  
         position: Lead
-        percent: 89   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(3)   
-      score: Ferb 8 - Bals 5 
- - name: Johnston, Atina     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 74          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 75          
-        wins: 1              
-        losses: 0            
+        percent: 94   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(3)     
+      score: Roch 9 - Jone 7   
+ - name: Johnston, Atina       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 76            
+        wins: 1                
+        losses: 0              
    games:
     - player1:         
-        team: 'Bals'   
+        team: 'Roch'   
         position: Third
-        percent: 74    
+        percent: 81    
         win: 0         
         loss: 1        
       player2:         
-        team: 'KKoe'   
+        team: 'Nedo'   
         position: Third
-        percent: 75    
+        percent: 76    
         win: 1         
         loss: 0        
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(8)   
-      score: Bals 5 - KKoe 8 
- - name: Jones, Colleen      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 80          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 82          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(1)     
+      score: Roch 6 - Nedo 10  
+ - name: Jones, Colleen        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 86            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 73            
+        wins: 0                
+        losses: 1              
    games:
     - player1:         
-        team: 'Bals'   
+        team: 'Roch'   
         position: Third
-        percent: 80    
-        win: 0         
-        loss: 1        
+        percent: 86    
+        win: 1         
+        loss: 0        
       player2:          
-        team: 'Ferb'    
+        team: 'Jone'    
         position: Fourth
-        percent: 82     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(3)   
-      score: Ferb 8 - Bals 5 
- - name: Kelly, Kim          
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 80          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 79          
-        wins: 1              
-        losses: 0            
+        percent: 73     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(3)     
+      score: Roch 9 - Jone 7   
+ - name: Kelly, Kim            
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 86            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 78            
+        wins: 0                
+        losses: 1              
    games:
     - player1:         
-        team: 'Bals'   
+        team: 'Roch'   
         position: Third
-        percent: 80    
-        win: 0         
-        loss: 1        
-      player2:         
-        team: 'Ferb'   
-        position: Third
-        percent: 79    
+        percent: 86    
         win: 1         
         loss: 0        
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(3)   
-      score: Ferb 8 - Bals 5 
- - name: Lawes, Andrea       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 70          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 93          
-        wins: 1              
-        losses: 0            
+      player2:         
+        team: 'Jone'   
+        position: Third
+        percent: 78    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(3)     
+      score: Roch 9 - Jone 7   
+ - name: Lawes, Andrea         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 78            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 86            
+        wins: 1                
+        losses: 0              
    games:
     - player1:         
-        team: 'Bals'   
+        team: 'Roch'   
         position: Third
-        percent: 70    
+        percent: 78    
         win: 0         
         loss: 1        
       player2:          
-        team: 'Ryan'    
+        team: 'Midd'    
         position: Second
-        percent: 93     
+        percent: 86     
         win: 1          
         loss: 0         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(1)   
-      score: Ryan 9 - Bals 1 
- - name: MacDonald, Lawnie   
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 74          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 80          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(5)     
+      score: Midd 8 - Roch 5   
+ - name: MacDonald, Lawnie     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 83            
+        wins: 1                
+        losses: 0              
    games:
     - player1:         
-        team: 'Bals'   
+        team: 'Roch'   
         position: Third
-        percent: 74    
+        percent: 81    
         win: 0         
         loss: 1        
       player2:          
-        team: 'KKoe'    
+        team: 'Nedo'    
         position: Second
-        percent: 80     
+        percent: 83     
         win: 1          
         loss: 0         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(8)   
-      score: Bals 5 - KKoe 8 
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(1)     
+      score: Roch 6 - Nedo 10  
  - name: MacDonald, Rebecca Jean
    totals:                      
-    - event: Canada Cup (Men)   
+    - event: Canada Cup (Women) 
       player1:                  
-        percent: 79             
+        percent: 81             
         wins: 0                 
         losses: 1               
       player2:                  
-        percent: 84             
+        percent: 79             
         wins: 1                 
         losses: 0               
    games:
     - player1:         
-        team: 'Bals'   
+        team: 'Roch'   
         position: Third
-        percent: 79    
+        percent: 81    
         win: 0         
         loss: 1        
       player2:         
-        team: 'Simm'   
-        position: Third
-        percent: 84    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(7)   
-      score: Bals 4 - Simm 7 
- - name: MacPhee, Robyn      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 79          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 88          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:         
-        team: 'Bals'   
+        team: 'Gaud'   
         position: Third
         percent: 79    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(6)     
+      score: Gaud 7 - Roch 6   
+ - name: MacPhee, Robyn        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 66            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:         
+        team: 'Roch'   
+        position: Third
+        percent: 81    
         win: 0         
         loss: 1        
       player2:          
-        team: 'Simm'    
+        team: 'Gaud'    
         position: Second
-        percent: 88     
+        percent: 66     
         win: 1          
         loss: 0         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(7)   
-      score: Bals 4 - Simm 7 
- - name: McInnis, Susan      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 79          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 96          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(6)     
+      score: Gaud 7 - Roch 6   
+ - name: McInnis, Susan        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 84            
+        wins: 1                
+        losses: 0              
    games:
     - player1:         
-        team: 'Bals'   
+        team: 'Roch'   
         position: Third
-        percent: 79    
+        percent: 81    
         win: 0         
         loss: 1        
       player2:        
-        team: 'Simm'  
+        team: 'Gaud'  
         position: Lead
-        percent: 96   
+        percent: 84   
         win: 1        
         loss: 0       
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(7)   
-      score: Bals 4 - Simm 7 
- - name: Middaugh, Sherry    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 70          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 95          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(6)     
+      score: Gaud 7 - Roch 6   
+ - name: Middaugh, Sherry      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 78            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 79            
+        wins: 1                
+        losses: 0              
    games:
     - player1:         
-        team: 'Bals'   
+        team: 'Roch'   
         position: Third
-        percent: 70    
+        percent: 78    
         win: 0         
         loss: 1        
       player2:          
-        team: 'Ryan'    
+        team: 'Midd'    
         position: Fourth
-        percent: 95     
+        percent: 79     
         win: 1          
         loss: 0         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(1)   
-      score: Ryan 9 - Bals 1 
- - name: Nedohin, Heather    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 74          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 80          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(5)     
+      score: Midd 8 - Roch 5   
+ - name: Nedohin, Heather      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 91            
+        wins: 1                
+        losses: 0              
    games:
     - player1:         
-        team: 'Bals'   
+        team: 'Roch'   
         position: Third
-        percent: 74    
+        percent: 81    
         win: 0         
         loss: 1        
       player2:          
-        team: 'KKoe'    
+        team: 'Nedo'    
         position: Fourth
-        percent: 80     
+        percent: 91     
         win: 1          
         loss: 0         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(8)   
-      score: Bals 5 - KKoe 8 
- - name: Pasika, Rona        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 74          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 80          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(1)     
+      score: Roch 6 - Nedo 10  
+ - name: Pasika, Rona          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 84            
+        wins: 1                
+        losses: 0              
    games:
     - player1:         
-        team: 'Bals'   
+        team: 'Roch'   
         position: Third
-        percent: 74    
+        percent: 81    
         win: 0         
         loss: 1        
       player2:        
-        team: 'KKoe'  
+        team: 'Nedo'  
         position: Lead
-        percent: 80   
+        percent: 84   
         win: 1        
         loss: 0       
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(8)   
-      score: Bals 5 - KKoe 8 
- - name: Wall, Kirsten       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 70          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 73          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(1)     
+      score: Roch 6 - Nedo 10  
+ - name: Wall, Kirsten         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 78            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 91            
+        wins: 1                
+        losses: 0              
    games:
     - player1:         
-        team: 'Bals'   
+        team: 'Roch'   
         position: Third
-        percent: 70    
+        percent: 78    
         win: 0         
         loss: 1        
       player2:         
-        team: 'Ryan'   
+        team: 'Midd'   
         position: Third
-        percent: 73    
+        percent: 91    
         win: 1         
         loss: 0        
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(1)   
-      score: Ryan 9 - Bals 1 
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(5)     
+      score: Midd 8 - Roch 5   
 ---

@@ -2,60 +2,60 @@
 title: Kara Thevenot Head-to-head
 name: Thevenot, Kara
 vs:
- - name: Weagle, Lisa        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 95          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 91          
-        wins: 1              
-        losses: 0            
+ - name: Weagle, Lisa          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 78            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 84            
+        wins: 1                
+        losses: 0              
    games:
     - player1:        
-        team: 'Duns'  
+        team: 'Silv'  
         position: Lead
-        percent: 95   
+        percent: 78   
         win: 0        
         loss: 1       
       player2:        
-        team: 'Gush'  
+        team: 'Homa'  
         position: Lead
-        percent: 91   
+        percent: 84   
         win: 1        
         loss: 0       
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(2)   
-      score: Gush 9 - Duns 7 
- - name: Wilkes, Sarah       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 81          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(1)     
+      score: Silv 5 - Homa 8   
+ - name: Wilkes, Sarah         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 79            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 80            
+        wins: 1                
+        losses: 0              
    games:
     - player1:        
-        team: 'Duns'  
+        team: 'Silv'  
         position: Lead
-        percent: 81   
+        percent: 79   
         win: 0        
         loss: 1       
       player2:         
-        team: 'Eppi'   
+        team: 'Care'   
         position: Third
-        percent: 81    
+        percent: 80    
         win: 1         
         loss: 0        
-      event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(3)   
-      score: Duns 4 - Eppi 8 
+      event: Canada Cup (Women)
+      year: 2019               
+      draw: Round Robin(8)     
+      score: Care 4 - Silv 3   
 ---

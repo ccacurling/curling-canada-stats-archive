@@ -4,69 +4,69 @@ name: Martin, Heather
 vs:
 - name: McDonald, Tina
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 83
-      wins: 1
-      losses: 0
-    player2:
-      percent: 76
+      percent: 93
       wins: 0
       losses: 1
+    player2:
+      percent: 70
+      wins: 1
+      losses: 0
   games:
   - player1:
-      team: DAC
+      team: CUN
       position: Lead
-      percent: 83
-      win: 1
-      loss: 0
-    player2:
-      team: KOE
-      position: Second
-      percent: 76
+      percent: 93
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: SON
+      position: Second
+      percent: 70
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(1)
-    score: KOE 4 - DAC 8
+    draw: Round Robin(2)
+    score: SON 8 - CUN 5
 - name: McNamee, Karen
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 83
+      percent: 93
+      wins: 0
+      losses: 1
+    player2:
+      percent: 81
       wins: 1
       losses: 0
-    player2:
-      percent: 76
-      wins: 0
-      losses: 1
   games:
   - player1:
-      team: DAC
+      team: CUN
       position: Lead
-      percent: 83
-      win: 1
-      loss: 0
-    player2:
-      team: KOE
-      position: Lead
-      percent: 76
+      percent: 93
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: SON
+      position: Lead
+      percent: 81
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(1)
-    score: KOE 4 - DAC 8
+    draw: Round Robin(2)
+    score: SON 8 - CUN 5
 - name: Middaugh, Sherry
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 92
+      percent: 91
       wins: 0
       losses: 1
     player2:
-      percent: 92
+      percent: 85
       wins: 1
       losses: 0
   - event: Hearts
@@ -80,21 +80,21 @@ vs:
       losses: 1
   games:
   - player1:
-      team: DAC
+      team: CUN
       position: Lead
-      percent: 92
+      percent: 91
       win: 0
       loss: 1
     player2:
-      team: MOR
+      team: MID
       position: Fourth
-      percent: 92
+      percent: 85
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(9)
-    score: MOR 8 - DAC 2
+    draw: Round Robin(4)
+    score: CUN 5 - MID 6
   - player1:
       team: NL
       position: Lead
@@ -145,14 +145,14 @@ vs:
     score: ON 7 - NL 1
 - name: Officer, Jill
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 75
+      percent: 76
       wins: 1
-      losses: 1
+      losses: 0
     player2:
-      percent: 85
-      wins: 1
+      percent: 71
+      wins: 0
       losses: 1
   - event: Hearts
     player1:
@@ -165,37 +165,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: DAC
-      position: Lead
-      percent: 73
-      win: 1
-      loss: 0
-    player2:
-      team: BUR
-      position: Second
-      percent: 92
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2004
-    draw: Round Robin(7)
-    score: DAC 8 - BUR 5
-  - player1:
-      team: DAC
+      team: CUN
       position: Lead
       percent: 76
-      win: 0
-      loss: 1
-    player2:
-      team: BUR
-      position: Second
-      percent: 79
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: JJO
+      position: Second
+      percent: 71
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2004
-    draw: Playoff(10)
-    score: DAC 5 - BUR 6
+    draw: Round Robin(1)
+    score: JJO 8 - CUN 9
   - player1:
       team: NL
       position: Lead
@@ -228,71 +212,237 @@ vs:
     year: 2013
     draw: Round Robin(4)
     score: NL 1 - MB 9
+- name: Schraeder, Jeanna
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 83
+      wins: 0
+      losses: 1
+    player2:
+      percent: 91
+      wins: 1
+      losses: 0
+  - event: Hearts
+    player1:
+      percent: 77
+      wins: 0
+      losses: 2
+    player2:
+      percent: 81
+      wins: 2
+      losses: 0
+  games:
+  - player1:
+      team: CUN
+      position: Lead
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: SCO
+      position: Third
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2004
+    draw: Playoff(10)
+    score: SCO 9 - CUN 6
+  - player1:
+      team: NL
+      position: Lead
+      percent: 74
+      win: 0
+      loss: 1
+    player2:
+      team: BC
+      position: Third
+      percent: 78
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2011
+    draw: Round Robin(2)
+    score: BC 7 - NL 2
+  - player1:
+      team: NL
+      position: Lead
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: BC
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2013
+    draw: Round Robin(13)
+    score: NL 4 - BC 7
+- name: Scott, Kelly
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 83
+      wins: 0
+      losses: 1
+    player2:
+      percent: 71
+      wins: 1
+      losses: 0
+  - event: Hearts
+    player1:
+      percent: 77
+      wins: 0
+      losses: 2
+    player2:
+      percent: 72
+      wins: 2
+      losses: 0
+  games:
+  - player1:
+      team: CUN
+      position: Lead
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: SCO
+      position: Fourth
+      percent: 71
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2004
+    draw: Playoff(10)
+    score: SCO 9 - CUN 6
+  - player1:
+      team: NL
+      position: Lead
+      percent: 74
+      win: 0
+      loss: 1
+    player2:
+      team: BC
+      position: Fourth
+      percent: 71
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2011
+    draw: Round Robin(2)
+    score: BC 7 - NL 2
+  - player1:
+      team: NL
+      position: Lead
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: BC
+      position: Fourth
+      percent: 74
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2013
+    draw: Round Robin(13)
+    score: NL 4 - BC 7
+- name: Simons, Renee
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 83
+      wins: 0
+      losses: 1
+    player2:
+      percent: 81
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: CUN
+      position: Lead
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: SCO
+      position: Lead
+      percent: 81
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2004
+    draw: Playoff(10)
+    score: SCO 9 - CUN 6
 - name: Smith, Nikki
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 83
-      wins: 1
-      losses: 0
-    player2:
-      percent: 72
+      percent: 93
       wins: 0
       losses: 1
+    player2:
+      percent: 93
+      wins: 1
+      losses: 0
   games:
   - player1:
-      team: DAC
+      team: CUN
       position: Lead
-      percent: 83
-      win: 1
-      loss: 0
-    player2:
-      team: KOE
-      position: Third
-      percent: 72
+      percent: 93
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: SON
+      position: Third
+      percent: 93
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(1)
-    score: KOE 4 - DAC 8
+    draw: Round Robin(2)
+    score: SON 8 - CUN 5
 - name: Sonnenberg, Renee
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 83
+      percent: 93
+      wins: 0
+      losses: 1
+    player2:
+      percent: 86
       wins: 1
       losses: 0
-    player2:
-      percent: 60
-      wins: 0
-      losses: 1
   games:
   - player1:
-      team: DAC
+      team: CUN
       position: Lead
-      percent: 83
-      win: 1
-      loss: 0
-    player2:
-      team: KOE
-      position: Fourth
-      percent: 60
+      percent: 93
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: SON
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(1)
-    score: KOE 4 - DAC 8
+    draw: Round Robin(2)
+    score: SON 8 - CUN 5
 - name: Wall, Kirsten
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 92
+      percent: 91
       wins: 0
       losses: 1
     player2:
-      percent: 94
+      percent: 81
       wins: 1
       losses: 0
   - event: Hearts
@@ -306,21 +456,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: DAC
+      team: CUN
       position: Lead
-      percent: 92
+      percent: 91
       win: 0
       loss: 1
     player2:
-      team: MOR
+      team: MID
       position: Third
-      percent: 94
+      percent: 81
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2004
-    draw: Round Robin(9)
-    score: MOR 8 - DAC 2
+    draw: Round Robin(4)
+    score: CUN 5 - MID 6
   - player1:
       team: NL
       position: Lead
@@ -2393,50 +2543,6 @@ vs:
     year: 2011
     draw: Round Robin(12)
     score: SK 10 - NL 2
-- name: Schraeder, Jeanna
-  totals:
-  - event: Hearts
-    player1:
-      percent: 77
-      wins: 0
-      losses: 2
-    player2:
-      percent: 81
-      wins: 2
-      losses: 0
-  games:
-  - player1:
-      team: NL
-      position: Lead
-      percent: 74
-      win: 0
-      loss: 1
-    player2:
-      team: BC
-      position: Third
-      percent: 78
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2011
-    draw: Round Robin(2)
-    score: BC 7 - NL 2
-  - player1:
-      team: NL
-      position: Lead
-      percent: 80
-      win: 0
-      loss: 1
-    player2:
-      team: BC
-      position: Third
-      percent: 84
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2013
-    draw: Round Robin(13)
-    score: NL 4 - BC 7
 - name: Scott, Donna
   totals:
   - event: Hearts
@@ -2465,50 +2571,6 @@ vs:
     year: 1996
     draw: Round Robin(6)
     score: TR 7 - NL 11
-- name: Scott, Kelly
-  totals:
-  - event: Hearts
-    player1:
-      percent: 77
-      wins: 0
-      losses: 2
-    player2:
-      percent: 72
-      wins: 2
-      losses: 0
-  games:
-  - player1:
-      team: NL
-      position: Lead
-      percent: 74
-      win: 0
-      loss: 1
-    player2:
-      team: BC
-      position: Fourth
-      percent: 71
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2011
-    draw: Round Robin(2)
-    score: BC 7 - NL 2
-  - player1:
-      team: NL
-      position: Lead
-      percent: 80
-      win: 0
-      loss: 1
-    player2:
-      team: BC
-      position: Fourth
-      percent: 74
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2013
-    draw: Round Robin(13)
-    score: NL 4 - BC 7
 - name: Shephard, Wendy
   totals:
   - event: Hearts

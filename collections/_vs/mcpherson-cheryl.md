@@ -4,13 +4,13 @@ name: McPherson, Cheryl
 vs:
 - name: Nixon, Amy
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 73
+      percent: 89
       wins: 0
       losses: 1
     player2:
-      percent: 76
+      percent: 83
       wins: 1
       losses: 0
   - event: Trials (Women)
@@ -24,21 +24,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: Rya
+      team: Riz
       position: Third
-      percent: 73
+      percent: 89
       win: 0
       loss: 1
     player2:
-      team: Har
+      team: Kle
       position: Third
-      percent: 76
+      percent: 83
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2005
-    draw: Round Robin(9)
-    score: Rya 7 - Har 10
+    draw: Page 3-4(11)
+    score: Riz 8 - Kle 9
   - player1:
       team: RIZ
       position: Third
@@ -55,17 +55,73 @@ vs:
     year: 2005
     draw: Round Robin(15)
     score: KLE 7 - RIZ 4
-- name: Schraeder, Jeanna
+- name: O'Connor, Susan
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 93
-      wins: 0
-      losses: 1
-    player2:
-      percent: 85
+      percent: 69
       wins: 1
       losses: 0
+    player2:
+      percent: 57
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: Riz
+      position: Third
+      percent: 69
+      win: 1
+      loss: 0
+    player2:
+      team: Ber
+      position: Third
+      percent: 57
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2005
+    draw: Round Robin(1)
+    score: Riz 10 - Ber 6
+- name: Ruus, Karen
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 69
+      wins: 1
+      losses: 0
+    player2:
+      percent: 86
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: Riz
+      position: Third
+      percent: 69
+      win: 1
+      loss: 0
+    player2:
+      team: Ber
+      position: Lead
+      percent: 86
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2005
+    draw: Round Robin(1)
+    score: Riz 10 - Ber 6
+- name: Schraeder, Jeanna
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 78
+      wins: 1
+      losses: 0
+    player2:
+      percent: 70
+      wins: 0
+      losses: 1
   - event: Trials (Women)
     player1:
       percent: 70
@@ -77,21 +133,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: Rya
+      team: Riz
       position: Third
-      percent: 93
-      win: 0
-      loss: 1
-    player2:
-      team: Sto
-      position: Third
-      percent: 85
+      percent: 78
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: Sco
+      position: Third
+      percent: 70
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2005
-    draw: Round Robin(11)
-    score: Sto 5 - Rya 3
+    draw: Round Robin(8)
+    score: Sco 3 - Riz 4
   - player1:
       team: RIZ
       position: Third
@@ -110,15 +166,15 @@ vs:
     score: RIZ 7 - SCO 8
 - name: Scott, Kelly
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 93
-      wins: 0
-      losses: 1
-    player2:
-      percent: 94
+      percent: 78
       wins: 1
       losses: 0
+    player2:
+      percent: 80
+      wins: 0
+      losses: 1
   - event: Trials (Women)
     player1:
       percent: 70
@@ -130,21 +186,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: Rya
+      team: Riz
       position: Third
-      percent: 93
-      win: 0
-      loss: 1
-    player2:
-      team: Sto
-      position: Fourth
-      percent: 94
+      percent: 78
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: Sco
+      position: Fourth
+      percent: 80
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2005
-    draw: Round Robin(11)
-    score: Sto 5 - Rya 3
+    draw: Round Robin(8)
+    score: Sco 3 - Riz 4
   - player1:
       team: RIZ
       position: Third
@@ -163,43 +219,43 @@ vs:
     score: RIZ 7 - SCO 8
 - name: Simmons, Cindy
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 94
-      wins: 0
-      losses: 1
-    player2:
-      percent: 89
+      percent: 73
       wins: 1
       losses: 0
+    player2:
+      percent: 84
+      wins: 0
+      losses: 1
   games:
   - player1:
-      team: Rya
+      team: Riz
       position: Third
-      percent: 94
-      win: 0
-      loss: 1
-    player2:
-      team: Fer
-      position: Lead
-      percent: 89
+      percent: 73
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: Eng
+      position: Lead
+      percent: 84
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2005
-    draw: Round Robin(3)
-    score: Fer 5 - Rya 3
+    draw: Round Robin(2)
+    score: Eng 6 - Riz 8
 - name: Simons, Renee
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 93
-      wins: 0
-      losses: 1
-    player2:
-      percent: 98
+      percent: 78
       wins: 1
       losses: 0
+    player2:
+      percent: 90
+      wins: 0
+      losses: 1
   - event: Trials (Women)
     player1:
       percent: 70
@@ -211,21 +267,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: Rya
+      team: Riz
       position: Third
-      percent: 93
-      win: 0
-      loss: 1
-    player2:
-      team: Sto
-      position: Lead
-      percent: 98
+      percent: 78
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: Sco
+      position: Lead
+      percent: 90
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2005
-    draw: Round Robin(11)
-    score: Sto 5 - Rya 3
+    draw: Round Robin(8)
+    score: Sco 3 - Riz 4
   - player1:
       team: RIZ
       position: Third

@@ -2,564 +2,536 @@
 title: Sandy Comeau Head-to-head
 name: Comeau, Sandy
 vs:
- - name: Hardy, Shelley      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 44          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 88          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Urs'     
-        position: Fourth
-        percent: 44     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Mor'    
-        position: Third
-        percent: 88    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Playoff(11)      
-      score: Mor 8 - Urs 1   
- - name: Jones, Jennifer     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 84          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 86          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Urs'     
-        position: Fourth
-        percent: 84     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Fer'     
-        position: Fourth
-        percent: 86     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(6)   
-      score: Fer 5 - Urs 10  
- - name: King, Cathy         
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 91          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 80          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Urs'     
-        position: Fourth
-        percent: 91     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Gus'     
-        position: Fourth
-        percent: 80     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(3)   
-      score: Urs 7 - Gus 5   
- - name: Linton, Sherry      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 67          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 76          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Urs'     
-        position: Fourth
-        percent: 67     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Cot'    
-        position: Third
-        percent: 76    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(7)   
-      score: Urs 7 - Cot 5   
- - name: McCusker, Joan      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 67          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 81          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Urs'     
-        position: Fourth
-        percent: 67     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Cot'     
-        position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(7)   
-      score: Urs 7 - Cot 5   
- - name: McDonald, Tina      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 75          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 85          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Urs'     
-        position: Fourth
-        percent: 75     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Mar'   
-        position: Lead
-        percent: 85   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(2)   
-      score: Mar 6 - Urs 5   
- - name: McIvor, Jolene      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 67          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 84          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Urs'     
-        position: Fourth
-        percent: 67     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'Cot'   
-        position: Lead
-        percent: 84   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(7)   
-      score: Urs 7 - Cot 5   
- - name: Officer, Jill       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 84          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 84          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Urs'     
-        position: Fourth
-        percent: 84     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Fer'     
-        position: Second
-        percent: 84     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(6)   
-      score: Fer 5 - Urs 10  
- - name: O'Leary, Susan      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 44          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 100         
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Urs'     
-        position: Fourth
-        percent: 44     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Mor'   
-        position: Lead
-        percent: 100  
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Playoff(11)      
-      score: Mor 8 - Urs 1   
- - name: Olson-Johns, Lori   
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 91          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 68          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Urs'     
-        position: Fourth
-        percent: 91     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Gus'    
-        position: Third
-        percent: 68    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(3)   
-      score: Urs 7 - Gus 5   
- - name: Overton-Clapham, Cathy
+ - name: Harvey, Janet         
    totals:                     
-    - event: Canada Cup (Men)  
+    - event: Canada Cup (Women)
       player1:                 
-        percent: 84            
+        percent: 86            
         wins: 1                
         losses: 0              
       player2:                 
-        percent: 83            
+        percent: 80            
         wins: 0                
         losses: 1              
    games:
     - player1:          
-        team: 'Urs'     
+        team: 'Com'     
         position: Fourth
-        percent: 84     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Fer'    
-        position: Third
-        percent: 83    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(6)   
-      score: Fer 5 - Urs 10  
- - name: Rocque, Raylene     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 91          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 69          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Urs'     
-        position: Fourth
-        percent: 91     
+        percent: 86     
         win: 1          
         loss: 0         
       player2:          
-        team: 'Gus'     
-        position: Second
-        percent: 69     
+        team: 'Har'     
+        position: Fourth
+        percent: 80     
         win: 0          
         loss: 1         
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(3)   
-      score: Urs 7 - Gus 5   
- - name: Schraeder, Jeanna   
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 87          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 85          
-        wins: 0              
-        losses: 1            
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Round Robin(9)     
+      score: Har 4 - Com 7     
+ - name: Jones, Jennifer       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 80            
+        wins: 1                
+        losses: 0              
    games:
     - player1:          
-        team: 'Urs'     
+        team: 'Com'     
         position: Fourth
-        percent: 87     
+        percent: 81     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Jon'     
+        position: Fourth
+        percent: 80     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Playoff(11)        
+      score: Jon 10 - Com 8    
+ - name: Keshen, Christine     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 68            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 68            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Com'     
+        position: Fourth
+        percent: 68     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'Kle'   
+        position: Lead
+        percent: 68   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Round Robin(1)     
+      score: Kle 5 - Com 6     
+ - name: Kleibrink, Shannon    
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 68            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 64            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Com'     
+        position: Fourth
+        percent: 68     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Kle'     
+        position: Fourth
+        percent: 64     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Round Robin(1)     
+      score: Kle 5 - Com 6     
+ - name: Linton, Sherry        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 58            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Com'     
+        position: Fourth
+        percent: 81     
         win: 1          
         loss: 0         
       player2:         
-        team: 'Joh'    
+        team: 'Bet'    
+        position: Third
+        percent: 58    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Round Robin(4)     
+      score: Com 10 - Bet 2    
+ - name: Loder, Cherie-Ann     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 86            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 88            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Com'     
+        position: Fourth
+        percent: 86     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Har'     
+        position: Second
+        percent: 88     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Round Robin(9)     
+      score: Har 4 - Com 7     
+ - name: McCusker, Joan        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 73            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Com'     
+        position: Fourth
+        percent: 81     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Bet'     
+        position: Second
+        percent: 73     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Round Robin(4)     
+      score: Com 10 - Bet 2    
+ - name: McDonald, Tina        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 76            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 88            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Com'     
+        position: Fourth
+        percent: 76     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'Son'   
+        position: Lead
+        percent: 88   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Round Robin(8)     
+      score: Com 8 - Son 10    
+ - name: McIvor, Jolene        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 88            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Com'     
+        position: Fourth
+        percent: 81     
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'Bet'   
+        position: Lead
+        percent: 88   
+        win: 0        
+        loss: 1       
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Round Robin(4)     
+      score: Com 10 - Bet 2    
+ - name: Nixon, Amy            
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 68            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 70            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Com'     
+        position: Fourth
+        percent: 68     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'Kle'    
+        position: Third
+        percent: 70    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Round Robin(1)     
+      score: Kle 5 - Com 6     
+ - name: Officer, Jill         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 88            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Com'     
+        position: Fourth
+        percent: 81     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Jon'     
+        position: Second
+        percent: 88     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Playoff(11)        
+      score: Jon 10 - Com 8    
+ - name: Overton-Clapham, Cathy
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 83            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Com'     
+        position: Fourth
+        percent: 81     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'Jon'    
+        position: Third
+        percent: 83    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Playoff(11)        
+      score: Jon 10 - Com 8    
+ - name: Schraeder, Jeanna     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 85            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Com'     
+        position: Fourth
+        percent: 81     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'Sco'    
         position: Third
         percent: 85    
         win: 0         
         loss: 1        
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(10)  
-      score: Joh 4 - Urs 7   
- - name: Scott, Kelly        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 87          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 89          
-        wins: 0              
-        losses: 1            
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Round Robin(5)     
+      score: Sco 5 - Com 7     
+ - name: Scott, Kelly          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 76            
+        wins: 0                
+        losses: 1              
    games:
     - player1:          
-        team: 'Urs'     
+        team: 'Com'     
         position: Fourth
-        percent: 87     
+        percent: 81     
         win: 1          
         loss: 0         
       player2:          
-        team: 'Joh'     
+        team: 'Sco'     
         position: Fourth
-        percent: 89     
+        percent: 76     
         win: 0          
         loss: 1         
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(10)  
-      score: Joh 4 - Urs 7   
- - name: Simons, Renee       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 87          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 95          
-        wins: 0              
-        losses: 1            
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Round Robin(5)     
+      score: Sco 5 - Com 7     
+ - name: Simons, Renee         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 89            
+        wins: 0                
+        losses: 1              
    games:
     - player1:          
-        team: 'Urs'     
+        team: 'Com'     
         position: Fourth
-        percent: 87     
+        percent: 81     
         win: 1          
         loss: 0         
       player2:        
-        team: 'Joh'   
+        team: 'Sco'   
         position: Lead
-        percent: 95   
+        percent: 89   
         win: 0        
         loss: 1       
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(10)  
-      score: Joh 4 - Urs 7   
- - name: Smith, Nikki        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 75          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 76          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Round Robin(5)     
+      score: Sco 5 - Com 7     
+ - name: Smith, Nikki          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 76            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 86            
+        wins: 1                
+        losses: 0              
    games:
     - player1:          
-        team: 'Urs'     
+        team: 'Com'     
         position: Fourth
-        percent: 75     
+        percent: 76     
         win: 0          
         loss: 1         
       player2:         
-        team: 'Mar'    
+        team: 'Son'    
         position: Third
-        percent: 76    
+        percent: 86    
         win: 1         
         loss: 0        
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(2)   
-      score: Mar 6 - Urs 5   
- - name: Sonnenberg, Renee   
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 75          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 75          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Round Robin(8)     
+      score: Com 8 - Son 10    
+ - name: Sonnenberg, Renee     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 76            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 72            
+        wins: 1                
+        losses: 0              
    games:
     - player1:          
-        team: 'Urs'     
+        team: 'Com'     
         position: Fourth
-        percent: 75     
+        percent: 76     
         win: 0          
         loss: 1         
       player2:          
-        team: 'Mar'     
+        team: 'Son'     
         position: Fourth
-        percent: 75     
+        percent: 72     
         win: 1          
         loss: 0         
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(2)   
-      score: Mar 6 - Urs 5   
- - name: Strong, Heather     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 44          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 90          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Round Robin(8)     
+      score: Com 8 - Son 10    
+ - name: Thurston, Jill        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 86            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 80            
+        wins: 0                
+        losses: 1              
    games:
     - player1:          
-        team: 'Urs'     
+        team: 'Com'     
         position: Fourth
-        percent: 44     
+        percent: 86     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'Har'    
+        position: Third
+        percent: 80    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Round Robin(9)     
+      score: Har 4 - Com 7     
+ - name: Wheatcroft, Georgina  
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 81            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 92            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Com'     
+        position: Fourth
+        percent: 81     
         win: 0          
         loss: 1         
-      player2:          
-        team: 'Mor'     
-        position: Fourth
-        percent: 90     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Playoff(11)      
-      score: Mor 8 - Urs 1   
- - name: Strong, Laura       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 44          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 100         
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Urs'     
-        position: Fourth
-        percent: 44     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Mor'     
-        position: Second
-        percent: 100    
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Playoff(11)      
-      score: Mor 8 - Urs 1   
- - name: Wheatcroft, Georgina
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 84          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 98          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Urs'     
-        position: Fourth
-        percent: 84     
-        win: 1          
-        loss: 0         
       player2:        
-        team: 'Fer'   
+        team: 'Jon'   
         position: Lead
-        percent: 98   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(6)   
-      score: Fer 5 - Urs 10  
+        percent: 92   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2006               
+      draw: Playoff(11)        
+      score: Jon 10 - Com 8    
 ---

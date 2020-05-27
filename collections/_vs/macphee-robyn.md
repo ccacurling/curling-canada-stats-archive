@@ -4,15 +4,15 @@ name: MacPhee, Robyn
 vs:
 - name: Middaugh, Sherry
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 81
-      wins: 1
+      percent: 94
+      wins: 0
       losses: 1
     player2:
-      percent: 93
+      percent: 82
       wins: 1
-      losses: 1
+      losses: 0
   - event: Hearts
     player1:
       percent: 73
@@ -24,37 +24,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: Simm
+      team: Gaud
       position: Second
-      percent: 74
-      win: 1
-      loss: 0
-    player2:
-      team: Ryan
-      position: Fourth
       percent: 94
       win: 0
       loss: 1
-    event: Canada Cup (Men)
-    year: 2003
-    draw: Round Robin(5)
-    score: Simm 8 - Ryan 5
-  - player1:
-      team: Simm
-      position: Second
-      percent: 88
-      win: 0
-      loss: 1
     player2:
-      team: Ryan
+      team: Midd
       position: Fourth
-      percent: 91
+      percent: 82
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2003
-    draw: Playoff(10)
-    score: Simm 4 - Ryan 7
+    draw: Round Robin(2)
+    score: Midd 7 - Gaud 4
   - player1:
       team: PE
       position: Third
@@ -89,43 +73,43 @@ vs:
     score: ON 8 - PE 2
 - name: Mossman, Angela
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
+      percent: 66
       wins: 1
       losses: 0
     player2:
-      percent: 88
+      percent: 78
       wins: 0
       losses: 1
   games:
   - player1:
-      team: Simm
+      team: Gaud
       position: Second
-      percent: 88
+      percent: 66
       win: 1
       loss: 0
     player2:
-      team: Bals
+      team: Roch
       position: Lead
-      percent: 88
+      percent: 78
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2003
-    draw: Round Robin(7)
-    score: Bals 4 - Simm 7
+    draw: Round Robin(6)
+    score: Gaud 7 - Roch 6
 - name: Nedohin, Heather
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 78
-      wins: 0
-      losses: 1
-    player2:
-      percent: 82
+      percent: 81
       wins: 1
       losses: 0
+    player2:
+      percent: 64
+      wins: 0
+      losses: 1
   - event: Hearts
     player1:
       percent: 71
@@ -137,21 +121,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: Simm
+      team: Gaud
       position: Second
-      percent: 78
-      win: 0
-      loss: 1
-    player2:
-      team: KKoe
-      position: Fourth
-      percent: 82
+      percent: 81
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: Nedo
+      position: Fourth
+      percent: 64
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2003
-    draw: Round Robin(1)
-    score: KKoe 9 - Simm 5
+    draw: Round Robin(8)
+    score: Gaud 7 - Nedo 6
   - player1:
       team: PE
       position: Fourth
@@ -170,69 +154,283 @@ vs:
     score: PE 4 - AB 6
 - name: Pasika, Rona
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 78
-      wins: 0
-      losses: 1
-    player2:
       percent: 81
       wins: 1
       losses: 0
+    player2:
+      percent: 88
+      wins: 0
+      losses: 1
   games:
   - player1:
-      team: Simm
+      team: Gaud
       position: Second
-      percent: 78
-      win: 0
-      loss: 1
-    player2:
-      team: KKoe
-      position: Lead
       percent: 81
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: Nedo
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2003
-    draw: Round Robin(1)
-    score: KKoe 9 - Simm 5
+    draw: Round Robin(8)
+    score: Gaud 7 - Nedo 6
+- name: Richard, Jeanna
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 86
+      wins: 1
+      losses: 0
+    player2:
+      percent: 83
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: Gaud
+      position: Second
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: Scot
+      position: Third
+      percent: 83
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2003
+    draw: Playoff(11)
+    score: Gaud 9 - Scot 6
 - name: Rocheleau, Patty
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
+      percent: 66
       wins: 1
       losses: 0
     player2:
-      percent: 80
+      percent: 73
       wins: 0
       losses: 1
   games:
   - player1:
-      team: Simm
+      team: Gaud
       position: Second
-      percent: 88
+      percent: 66
       win: 1
       loss: 0
     player2:
-      team: Bals
+      team: Roch
       position: Fourth
-      percent: 80
+      percent: 73
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2003
-    draw: Round Robin(7)
-    score: Bals 4 - Simm 7
-- name: Singler, Sherri
+    draw: Round Robin(6)
+    score: Gaud 7 - Roch 6
+- name: Scott, Kelly
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
+      percent: 86
       wins: 1
       losses: 0
     player2:
+      percent: 75
+      wins: 0
+      losses: 1
+  - event: Hearts
+    player1:
+      percent: 76
+      wins: 1
+      losses: 3
+    player2:
+      percent: 69
+      wins: 3
+      losses: 1
+  games:
+  - player1:
+      team: Gaud
+      position: Second
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: Scot
+      position: Fourth
+      percent: 75
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2003
+    draw: Playoff(11)
+    score: Gaud 9 - Scot 6
+  - player1:
+      team: PE
+      position: Second
+      percent: 74
+      win: 0
+      loss: 1
+    player2:
+      team: BC
+      position: Fourth
+      percent: 57
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2005
+    draw: Round Robin(11)
+    score: BC 6 - PE 5
+  - player1:
+      team: PE
+      position: Third
+      percent: 65
+      win: 0
+      loss: 1
+    player2:
+      team: CA
+      position: Fourth
+      percent: 61
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2007
+    draw: Round Robin(3)
+    score: PE 6 - CA 11
+  - player1:
+      team: PE
+      position: Third
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: CA
+      position: Fourth
       percent: 78
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2008
+    draw: Round Robin(14)
+    score: CA 5 - PE 8
+  - player1:
+      team: PE
+      position: Second
+      percent: 76
+      win: 0
+      loss: 1
+    player2:
+      team: BC
+      position: Fourth
+      percent: 82
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2011
+    draw: Round Robin(12)
+    score: BC 4 - PE 3
+- name: Simons, Renee
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 86
+      wins: 1
+      losses: 0
+    player2:
+      percent: 96
+      wins: 0
+      losses: 1
+  - event: Hearts
+    player1:
+      percent: 76
+      wins: 1
+      losses: 2
+    player2:
+      percent: 84
+      wins: 2
+      losses: 1
+  games:
+  - player1:
+      team: Gaud
+      position: Second
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: Scot
+      position: Lead
+      percent: 96
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2003
+    draw: Playoff(11)
+    score: Gaud 9 - Scot 6
+  - player1:
+      team: PE
+      position: Second
+      percent: 74
+      win: 0
+      loss: 1
+    player2:
+      team: BC
+      position: Lead
+      percent: 73
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2005
+    draw: Round Robin(11)
+    score: BC 6 - PE 5
+  - player1:
+      team: PE
+      position: Third
+      percent: 65
+      win: 0
+      loss: 1
+    player2:
+      team: CA
+      position: Lead
+      percent: 88
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2007
+    draw: Round Robin(3)
+    score: PE 6 - CA 11
+  - player1:
+      team: PE
+      position: Third
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: CA
+      position: Lead
+      percent: 94
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2008
+    draw: Round Robin(14)
+    score: CA 5 - PE 8
+- name: Singler, Sherri
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 66
+      wins: 1
+      losses: 0
+    player2:
+      percent: 80
       wins: 0
       losses: 1
   - event: Hearts
@@ -246,21 +444,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: Simm
+      team: Gaud
       position: Second
-      percent: 88
+      percent: 66
       win: 1
       loss: 0
     player2:
-      team: Bals
+      team: Roch
       position: Second
-      percent: 78
+      percent: 80
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2003
-    draw: Round Robin(7)
-    score: Bals 4 - Simm 7
+    draw: Round Robin(6)
+    score: Gaud 7 - Roch 6
   - player1:
       team: PE
       position: Second
@@ -293,17 +491,45 @@ vs:
     year: 2009
     draw: Round Robin(6)
     score: SK 12 - PE 11
-- name: Wall, Kirsten
+- name: Skinner, Julie
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 81
-      wins: 1
+      percent: 80
+      wins: 0
       losses: 1
     player2:
-      percent: 80
+      percent: 66
       wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Gaud
+      position: Second
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: KLaw
+      position: Second
+      percent: 66
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2003
+    draw: Semi-Final(12)
+    score: Gaud 4 - KLaw 10
+- name: Wall, Kirsten
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 94
+      wins: 0
       losses: 1
+    player2:
+      percent: 79
+      wins: 1
+      losses: 0
   - event: Hearts
     player1:
       percent: 71
@@ -315,37 +541,21 @@ vs:
       losses: 0
   games:
   - player1:
-      team: Simm
+      team: Gaud
       position: Second
-      percent: 74
-      win: 1
-      loss: 0
-    player2:
-      team: Ryan
-      position: Third
-      percent: 76
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2003
-    draw: Round Robin(5)
-    score: Simm 8 - Ryan 5
-  - player1:
-      team: Simm
-      position: Second
-      percent: 88
+      percent: 94
       win: 0
       loss: 1
     player2:
-      team: Ryan
+      team: Midd
       position: Third
-      percent: 84
+      percent: 79
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2003
-    draw: Playoff(10)
-    score: Simm 4 - Ryan 7
+    draw: Round Robin(2)
+    score: Midd 7 - Gaud 4
   - player1:
       team: PE
       position: Third
@@ -362,6 +572,59 @@ vs:
     year: 2008
     draw: Round Robin(10)
     score: ON 10 - PE 2
+- name: Wheatcroft, Georgina
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 80
+      wins: 0
+      losses: 1
+    player2:
+      percent: 89
+      wins: 1
+      losses: 0
+  - event: Hearts
+    player1:
+      percent: 77
+      wins: 1
+      losses: 0
+    player2:
+      percent: 76
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: Gaud
+      position: Second
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: KLaw
+      position: Third
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2003
+    draw: Semi-Final(12)
+    score: Gaud 4 - KLaw 10
+  - player1:
+      team: PE
+      position: Third
+      percent: 77
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Third
+      percent: 76
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2007
+    draw: Round Robin(9)
+    score: BC 7 - PE 8
 - name: Mallett, Marla
   totals:
   - event: Hearts
@@ -3222,82 +3485,6 @@ vs:
     year: 2011
     draw: Round Robin(12)
     score: BC 4 - PE 3
-- name: Scott, Kelly
-  totals:
-  - event: Hearts
-    player1:
-      percent: 76
-      wins: 1
-      losses: 3
-    player2:
-      percent: 69
-      wins: 3
-      losses: 1
-  games:
-  - player1:
-      team: PE
-      position: Second
-      percent: 74
-      win: 0
-      loss: 1
-    player2:
-      team: BC
-      position: Fourth
-      percent: 57
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2005
-    draw: Round Robin(11)
-    score: BC 6 - PE 5
-  - player1:
-      team: PE
-      position: Third
-      percent: 65
-      win: 0
-      loss: 1
-    player2:
-      team: CA
-      position: Fourth
-      percent: 61
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2007
-    draw: Round Robin(3)
-    score: PE 6 - CA 11
-  - player1:
-      team: PE
-      position: Third
-      percent: 89
-      win: 1
-      loss: 0
-    player2:
-      team: CA
-      position: Fourth
-      percent: 78
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2008
-    draw: Round Robin(14)
-    score: CA 5 - PE 8
-  - player1:
-      team: PE
-      position: Second
-      percent: 76
-      win: 0
-      loss: 1
-    player2:
-      team: BC
-      position: Fourth
-      percent: 82
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2011
-    draw: Round Robin(12)
-    score: BC 4 - PE 3
 - name: Shackleton, Amie
   totals:
   - event: Hearts
@@ -3410,66 +3597,6 @@ vs:
     year: 2008
     draw: Round Robin(16)
     score: SK 8 - PE 1
-- name: Simons, Renee
-  totals:
-  - event: Hearts
-    player1:
-      percent: 76
-      wins: 1
-      losses: 2
-    player2:
-      percent: 84
-      wins: 2
-      losses: 1
-  games:
-  - player1:
-      team: PE
-      position: Second
-      percent: 74
-      win: 0
-      loss: 1
-    player2:
-      team: BC
-      position: Lead
-      percent: 73
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2005
-    draw: Round Robin(11)
-    score: BC 6 - PE 5
-  - player1:
-      team: PE
-      position: Third
-      percent: 65
-      win: 0
-      loss: 1
-    player2:
-      team: CA
-      position: Lead
-      percent: 88
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2007
-    draw: Round Robin(3)
-    score: PE 6 - CA 11
-  - player1:
-      team: PE
-      position: Third
-      percent: 89
-      win: 1
-      loss: 0
-    player2:
-      team: CA
-      position: Lead
-      percent: 94
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2008
-    draw: Round Robin(14)
-    score: CA 5 - PE 8
 - name: Sippala, Ashley
   totals:
   - event: Hearts
@@ -4426,34 +4553,6 @@ vs:
     year: 2018
     draw: Round Robin(11)
     score: CA 7 - PE 5
-- name: Wheatcroft, Georgina
-  totals:
-  - event: Hearts
-    player1:
-      percent: 77
-      wins: 1
-      losses: 0
-    player2:
-      percent: 76
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: PE
-      position: Third
-      percent: 77
-      win: 1
-      loss: 0
-    player2:
-      team: BC
-      position: Third
-      percent: 76
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2007
-    draw: Round Robin(9)
-    score: BC 7 - PE 8
 - name: Wilkes, Sarah
   totals:
   - event: Hearts

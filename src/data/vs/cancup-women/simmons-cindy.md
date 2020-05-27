@@ -2,216 +2,232 @@
 title: Cindy Simmons Head-to-head
 name: Simmons, Cindy
 vs:
- - name: Simons, Renee       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 98          
-        wins: 2              
-        losses: 0            
-      player2:               
-        percent: 88          
-        wins: 0              
-        losses: 2            
+ - name: Simons, Renee         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 73            
+        wins: 2                
+        losses: 0              
+      player2:                 
+        percent: 83            
+        wins: 0                
+        losses: 2              
    games:
     - player1:        
-        team: 'Fer'   
+        team: 'Eng'   
         position: Lead
-        percent: 99   
+        percent: 64   
         win: 1        
         loss: 0       
       player2:        
-        team: 'Sto'   
+        team: 'Sco'   
         position: Lead
-        percent: 89   
+        percent: 85   
         win: 0        
         loss: 1       
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(4)   
-      score: Fer 9 - Sto 5   
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(5)     
+      score: Eng 7 - Sco 4     
     - player1:        
-        team: 'FERB'  
+        team: 'ENGL'  
         position: Lead
-        percent: 97   
+        percent: 81   
         win: 1        
         loss: 0       
       player2:        
-        team: 'STOU'  
+        team: 'SCOT'  
         position: Lead
-        percent: 86   
+        percent: 81   
         win: 0        
         loss: 1       
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(8)   
-      score: FERB 9 - STOU 5 
- - name: Singler, Sherri     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 90          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 79          
-        wins: 0              
-        losses: 1            
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(1)     
+      score: ENGL 7 - SCOT 6   
+ - name: Singler, Sherri       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 78            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 84            
+        wins: 1                
+        losses: 0              
    games:
     - player1:        
-        team: 'FERB'  
+        team: 'ENGL'  
         position: Lead
-        percent: 90   
-        win: 1        
-        loss: 0       
+        percent: 78   
+        win: 0        
+        loss: 1       
       player2:          
-        team: 'MCEW'    
+        team: 'LAWT'    
         position: Second
-        percent: 79     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(9)   
-      score: MCEW 7 - FERB 8 
- - name: Smith, Heather      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 96          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 83          
-        wins: 0              
-        losses: 1            
+        percent: 84     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(10)    
+      score: LAWT 11 - ENGL 4  
+ - name: Surik, Teejay         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 78            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 80            
+        wins: 1                
+        losses: 0              
    games:
     - player1:        
-        team: 'Fer'   
+        team: 'ENGL'  
         position: Lead
-        percent: 96   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'Tuc'     
-        position: Fourth
-        percent: 83     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(9)   
-      score: Fer 5 - Tuc 4   
- - name: Tuck, Kim           
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 89          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 86          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:        
-        team: 'Fer'   
-        position: Lead
-        percent: 89   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'Rya'     
-        position: Second
-        percent: 86     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2005             
-      draw: Round Robin(3)   
-      score: Fer 5 - Rya 3   
- - name: Vey, Lana           
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 90          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 94          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:        
-        team: 'FERB'  
-        position: Lead
-        percent: 90   
-        win: 1        
-        loss: 0       
+        percent: 78   
+        win: 0        
+        loss: 1       
       player2:        
-        team: 'MCEW'  
+        team: 'LAWT'  
         position: Lead
-        percent: 94   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(9)   
-      score: MCEW 7 - FERB 8 
- - name: Webster, Bronwen    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 83          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 81          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:        
-        team: 'FERB'  
-        position: Lead
-        percent: 83   
+        percent: 80   
         win: 1        
         loss: 0       
-      player2:          
-        team: 'KOE'     
-        position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(7)   
-      score: KOE 5 - FERB 6  
- - name: Zinck, Kay          
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 97          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 93          
-        wins: 0              
-        losses: 1            
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(10)    
+      score: LAWT 11 - ENGL 4  
+ - name: Tuck, Kim             
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 84            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 84            
+        wins: 1                
+        losses: 0              
    games:
     - player1:        
-        team: 'FERB'  
+        team: 'Eng'   
         position: Lead
-        percent: 97   
+        percent: 84   
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'Riz'     
+        position: Second
+        percent: 84     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2005               
+      draw: Round Robin(2)     
+      score: Eng 6 - Riz 8     
+ - name: Wall, Kirsten         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 91            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 81            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:        
+        team: 'ENGL'  
+        position: Lead
+        percent: 91   
         win: 1        
         loss: 0       
       player2:         
-        team: 'APPE'   
+        team: 'SMID'   
         position: Third
-        percent: 93    
+        percent: 81    
         win: 0         
         loss: 1        
-      event: Canada Cup (Men)
-      year: 2009             
-      draw: Round Robin(3)   
-      score: APPE 2 - FERB 6 
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(7)     
+      score: ENGL 9 - SMID 3   
+ - name: Webster, Bronwen      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 75            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 85            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:        
+        team: 'ENGL'  
+        position: Lead
+        percent: 75   
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'KLEI'    
+        position: Second
+        percent: 85     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(4)     
+      score: KLEI 9 - ENGL 3   
+ - name: Zinck, Kay            
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 75            
+        wins: 2                
+        losses: 0              
+      player2:                 
+        percent: 70            
+        wins: 0                
+        losses: 2              
+   games:
+    - player1:        
+        team: 'ENGL'  
+        position: Lead
+        percent: 71   
+        win: 1        
+        loss: 0       
+      player2:         
+        team: 'M-AA'   
+        position: Third
+        percent: 73    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Round Robin(6)     
+      score: M-AA 5 - ENGL 7   
+    - player1:        
+        team: 'ENGL'  
+        position: Lead
+        percent: 78   
+        win: 1        
+        loss: 0       
+      player2:         
+        team: 'M-AA'   
+        position: Third
+        percent: 68    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2009               
+      draw: Playoff(11)        
+      score: M-AA 6 - ENGL 7   
 ---

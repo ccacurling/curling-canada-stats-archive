@@ -2,400 +2,420 @@
 title: Sandra Mulroney Head-to-head
 name: Mulroney, Sandra
 vs:
- - name: Nixon, Amy          
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 74          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 86          
-        wins: 1              
-        losses: 0            
+ - name: Nixon, Amy            
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 75            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 78            
+        wins: 0                
+        losses: 1              
    games:
     - player1:          
-        team: 'STO'     
+        team: 'AND'     
         position: Second
-        percent: 74     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'FER'    
-        position: Third
-        percent: 86    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2004             
-      draw: Round Robin(9)   
-      score: STO 7 - FER 8   
- - name: Richard, Jeanna     
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 94          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 90          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Howa'    
-        position: Second
-        percent: 94     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Humb'   
-        position: Third
-        percent: 90    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(2)   
-      score: Humb 11 - Howa 7
- - name: Robertson, Darcy    
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 76          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 75          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Howa'    
-        position: Second
-        percent: 76     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Wood'   
-        position: Third
-        percent: 75    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(3)   
-      score: Howa 7 - Wood 2 
- - name: Schraeder, Jeanna   
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 66          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 69          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'STO'     
-        position: Second
-        percent: 66     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'HOW'    
-        position: Third
-        percent: 69    
-        win: 0         
-        loss: 1        
-      event: Canada Cup (Men)
-      year: 2004             
-      draw: Round Robin(4)   
-      score: STO 6 - HOW 3   
- - name: Scott, Kelly        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 80          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 78          
-        wins: 1              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Howa'    
-        position: Second
-        percent: 94     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Humb'    
-        position: Fourth
-        percent: 82     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(2)   
-      score: Humb 11 - Howa 7
-    - player1:          
-        team: 'STO'     
-        position: Second
-        percent: 66     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'HOW'     
-        position: Fourth
         percent: 75     
-        win: 0          
-        loss: 1         
-      event: Canada Cup (Men)
-      year: 2004             
-      draw: Round Robin(4)   
-      score: STO 6 - HOW 3   
- - name: Shantz, Penny       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 93          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 83          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Howa'    
-        position: Second
-        percent: 93     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Adam'    
-        position: Fourth
-        percent: 83     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(8)   
-      score: Adam 8 - Howa 5 
- - name: Simons, Renee       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 80          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 87          
-        wins: 1              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'Howa'    
-        position: Second
-        percent: 94     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Humb'  
-        position: Lead
-        percent: 90   
-        win: 1        
-        loss: 0       
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(2)   
-      score: Humb 11 - Howa 7
-    - player1:          
-        team: 'STO'     
-        position: Second
-        percent: 66     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'HOW'   
-        position: Lead
-        percent: 84   
-        win: 0        
-        loss: 1       
-      event: Canada Cup (Men)
-      year: 2004             
-      draw: Round Robin(4)   
-      score: STO 6 - HOW 3   
- - name: Skinner, Julie      
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 86          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 80          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Howa'    
-        position: Second
-        percent: 86     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Morr'    
-        position: Second
-        percent: 80     
-        win: 1          
-        loss: 0         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(6)   
-      score: Howa 6 - Morr 10
- - name: Smith, Nancy        
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 93          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 85          
-        wins: 0              
-        losses: 1            
-   games:
-    - player1:          
-        team: 'STO'     
-        position: Second
-        percent: 93     
         win: 1          
         loss: 0         
       player2:         
-        team: 'SIM'    
+        team: 'KLE'    
+        position: Third
+        percent: 78    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2004               
+      draw: Round Robin(6)     
+      score: AND 5 - KLE 4     
+ - name: Richard, Jeanna       
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 69            
+        wins: 0                
+        losses: 2              
+      player2:                 
+        percent: 75            
+        wins: 2                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Ande'    
+        position: Second
+        percent: 81     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'Scot'   
+        position: Third
+        percent: 79    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(8)     
+      score: Scot 9 - Ande 5   
+    - player1:          
+        team: 'Ande'    
+        position: Second
+        percent: 59     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'Scot'   
+        position: Third
+        percent: 71    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Playoff(9)         
+      score: Ande 5 - Scot 6   
+ - name: Robertson, Darcy      
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 85            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 85            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Ande'    
+        position: Second
+        percent: 85     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'Spen'   
         position: Third
         percent: 85    
         win: 0         
         loss: 1        
-      event: Canada Cup (Men)
-      year: 2004             
-      draw: Round Robin(7)   
-      score: SIM 4 - STO 5   
- - name: Spencer, Barb       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 76          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 72          
-        wins: 0              
-        losses: 1            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(5)     
+      score: Ande 8 - Spen 5   
+ - name: Schraeder, Jeanna     
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 76            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 71            
+        wins: 1                
+        losses: 0              
    games:
     - player1:          
-        team: 'Howa'    
+        team: 'AND'     
         position: Second
         percent: 76     
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'SCO'    
+        position: Third
+        percent: 71    
+        win: 1         
+        loss: 0        
+      event: Canada Cup (Women)
+      year: 2004               
+      draw: Round Robin(3)     
+      score: SCO 7 - AND 5     
+ - name: Scott, Kelly          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 72            
+        wins: 0                
+        losses: 3              
+      player2:                 
+        percent: 81            
+        wins: 3                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Ande'    
+        position: Second
+        percent: 81     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Scot'    
+        position: Fourth
+        percent: 83     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(8)     
+      score: Scot 9 - Ande 5   
+    - player1:          
+        team: 'Ande'    
+        position: Second
+        percent: 59     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'Scot'    
+        position: Fourth
+        percent: 72     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Playoff(9)         
+      score: Ande 5 - Scot 6   
+    - player1:          
+        team: 'AND'     
+        position: Second
+        percent: 76     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'SCO'     
+        position: Fourth
+        percent: 88     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2004               
+      draw: Round Robin(3)     
+      score: SCO 7 - AND 5     
+ - name: Shantz, Penny         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 88            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 85            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Ande'    
+        position: Second
+        percent: 88     
         win: 1          
         loss: 0         
       player2:          
-        team: 'Wood'    
+        team: 'Bodo'    
         position: Fourth
-        percent: 72     
+        percent: 85     
         win: 0          
         loss: 1         
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(3)   
-      score: Howa 7 - Wood 2 
- - name: Unrau, Faye         
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 76          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 88          
-        wins: 0              
-        losses: 1            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(3)     
+      score: Ande 9 - Bodo 7   
+ - name: Simons, Renee         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 72            
+        wins: 0                
+        losses: 3              
+      player2:                 
+        percent: 78            
+        wins: 3                
+        losses: 0              
    games:
     - player1:          
-        team: 'Howa'    
+        team: 'Ande'    
+        position: Second
+        percent: 81     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'Scot'  
+        position: Lead
+        percent: 83   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(8)     
+      score: Scot 9 - Ande 5   
+    - player1:          
+        team: 'Ande'    
+        position: Second
+        percent: 59     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'Scot'  
+        position: Lead
+        percent: 85   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Playoff(9)         
+      score: Ande 5 - Scot 6   
+    - player1:          
+        team: 'AND'     
         position: Second
         percent: 76     
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'SCO'   
+        position: Lead
+        percent: 66   
+        win: 1        
+        loss: 0       
+      event: Canada Cup (Women)
+      year: 2004               
+      draw: Round Robin(3)     
+      score: SCO 7 - AND 5     
+ - name: Skinner, Julie        
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 88            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 88            
+        wins: 1                
+        losses: 0              
+   games:
+    - player1:          
+        team: 'Ande'    
+        position: Second
+        percent: 88     
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'KLaw'    
+        position: Second
+        percent: 88     
+        win: 1          
+        loss: 0         
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(2)     
+      score: KLaw 11 - Ande 7  
+ - name: Smith, Nancy          
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 88            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 66            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'AND'     
+        position: Second
+        percent: 88     
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'BRY'    
+        position: Third
+        percent: 66    
+        win: 0         
+        loss: 1        
+      event: Canada Cup (Women)
+      year: 2004               
+      draw: Round Robin(1)     
+      score: AND 6 - BRY 3     
+ - name: Spencer, Barb         
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 85            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 79            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Ande'    
+        position: Second
+        percent: 85     
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'Spen'    
+        position: Fourth
+        percent: 79     
+        win: 0          
+        loss: 1         
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(5)     
+      score: Ande 8 - Spen 5   
+ - name: Unrau, Faye           
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 85            
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent: 79            
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:          
+        team: 'Ande'    
+        position: Second
+        percent: 85     
         win: 1          
         loss: 0         
       player2:        
-        team: 'Wood'  
+        team: 'Spen'  
         position: Lead
-        percent: 88   
+        percent: 79   
         win: 0        
         loss: 1       
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(3)   
-      score: Howa 7 - Wood 2 
- - name: Wall, Kirsten       
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 74          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 76          
-        wins: 1              
-        losses: 0            
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(5)     
+      score: Ande 8 - Spen 5   
+ - name: Wheatcroft, Georgina  
+   totals:                     
+    - event: Canada Cup (Women)
+      player1:                 
+        percent: 88            
+        wins: 0                
+        losses: 1              
+      player2:                 
+        percent: 89            
+        wins: 1                
+        losses: 0              
    games:
     - player1:          
-        team: 'STO'     
+        team: 'Ande'    
         position: Second
-        percent: 74     
+        percent: 88     
         win: 0          
         loss: 1         
       player2:         
-        team: 'MOR'    
-        position: Third
-        percent: 76    
-        win: 1         
-        loss: 0        
-      event: Canada Cup (Men)
-      year: 2004             
-      draw: Playoff(11)      
-      score: STO 4 - MOR 6   
- - name: Wheatcroft, Georgina
-   totals:                   
-    - event: Canada Cup (Men)
-      player1:               
-        percent: 86          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 89          
-        wins: 1              
-        losses: 0            
-   games:
-    - player1:          
-        team: 'Howa'    
-        position: Second
-        percent: 86     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Morr'   
+        team: 'KLaw'   
         position: Third
         percent: 89    
         win: 1         
         loss: 0        
-      event: Canada Cup (Men)
-      year: 2003             
-      draw: Round Robin(6)   
-      score: Howa 6 - Morr 10
+      event: Canada Cup (Women)
+      year: 2003               
+      draw: Round Robin(2)     
+      score: KLaw 11 - Ande 7  
 ---

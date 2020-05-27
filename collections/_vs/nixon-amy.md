@@ -4,144 +4,43 @@ name: Nixon, Amy
 vs:
 - name: Njegovan, Selena
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 80
+      percent: 70
       wins: 0
       losses: 1
     player2:
-      percent: 95
+      percent: 64
       wins: 1
       losses: 0
   games:
   - player1:
-      team: GUS
+      team: CAR
       position: Third
-      percent: 80
+      percent: 70
       win: 0
       loss: 1
     player2:
-      team: MCE
+      team: EIN
       position: Third
-      percent: 95
+      percent: 64
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2016
-    draw: Round Robin(8)
-    score: GUS 6 - MCE 8
-- name: O'Connor, Susan
-  totals:
-  - event: Canada Cup (Men)
-    player1:
-      percent: 85
-      wins: 2
-      losses: 1
-    player2:
-      percent: 81
-      wins: 1
-      losses: 2
-  - event: Trials (Women)
-    player1:
-      percent: 78
-      wins: 0
-      losses: 2
-    player2:
-      percent: 76
-      wins: 2
-      losses: 0
-  games:
-  - player1:
-      team: Bur
-      position: Third
-      percent: 75
-      win: 0
-      loss: 1
-    player2:
-      team: Jor
-      position: Third
-      percent: 95
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2007
-    draw: Round Robin(10)
-    score: Bur 2 - Jor 6
-  - player1:
-      team: KOE
-      position: Third
-      percent: 97
-      win: 1
-      loss: 0
-    player2:
-      team: BURT
-      position: Third
-      percent: 75
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2009
     draw: Round Robin(9)
-    score: BURT 4 - KOE 9
-  - player1:
-      team: KM
-      position: Third
-      percent: 79
-      win: 1
-      loss: 0
-    player2:
-      team: BB
-      position: Third
-      percent: 73
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2010
-    draw: Round Robin(9)
-    score: BB 2 - KM 8
-  - player1:
-      team: KLEI
-      position: Third
-      percent: 73
-      win: 0
-      loss: 1
-    player2:
-      team: BERN
-      position: Third
-      percent: 81
-      win: 1
-      loss: 0
-    event: Trials (Women)
-    year: 2009
-    draw: Round Robin(5)
-    score: BERN 8 - KLEI 5
-  - player1:
-      team: KLEI
-      position: Third
-      percent: 84
-      win: 0
-      loss: 1
-    player2:
-      team: BERN
-      position: Third
-      percent: 71
-      win: 1
-      loss: 0
-    event: Trials (Women)
-    year: 2009
-    draw: Final(11)
-    score: BERN 7 - KLEI 6
+    score: EIN 8 - CAR 6
 - name: Officer, Jill
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 89
-      wins: 3
-      losses: 3
+      percent: 71
+      wins: 1
+      losses: 2
     player2:
-      percent: 84
-      wins: 3
-      losses: 3
+      percent: 79
+      wins: 2
+      losses: 1
   - event: Hearts
     player1:
       percent: 84
@@ -162,101 +61,53 @@ vs:
       losses: 1
   games:
   - player1:
-      team: Hei
+      team: Kle
       position: Third
-      percent: 85
-      win: 0
-      loss: 1
-    player2:
-      team: Fer
-      position: Second
-      percent: 81
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2006
-    draw: Round Robin(1)
-    score: Hei 7 - Fer 8
-  - player1:
-      team: HOWA
-      position: Third
-      percent: 85
-      win: 0
-      loss: 1
-    player2:
-      team: MART
-      position: Second
-      percent: 86
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2008
-    draw: Page 3-4(13)
-    score: MART 7 - HOWA 6
-  - player1:
-      team: KM
-      position: Third
-      percent: 90
-      win: 1
-      loss: 0
-    player2:
-      team: RFE
-      position: Second
       percent: 76
       win: 0
       loss: 1
-    event: Canada Cup (Men)
-    year: 2010
-    draw: Round Robin(10)
-    score: KM 11 - RFE 8
-  - player1:
-      team: MCE
-      position: Third
-      percent: 89
-      win: 0
-      loss: 1
     player2:
-      team: JAC
+      team: Jon
       position: Second
-      percent: 91
+      percent: 76
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
+    year: 2007
+    draw: Page 1-2(11)
+    score: Kle 4 - Jon 7
+  - player1:
+      team: NED
+      position: Third
+      percent: 74
+      win: 1
+      loss: 0
+    player2:
+      team: JON
+      position: Second
+      percent: 69
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2014
-    draw: Round Robin(7)
-    score: MCE 5 - JAC 7
-  - player1:
-      team: MCE
-      position: Third
-      percent: 100
-      win: 1
-      loss: 0
-    player2:
-      team: JAC
-      position: Second
-      percent: 80
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2014
-    draw: Final(11)
-    score: MCE 8 - JAC 3
-  - player1:
-      team: GUS
-      position: Third
-      percent: 91
-      win: 1
-      loss: 0
-    player2:
-      team: JAC
-      position: Second
-      percent: 91
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2016
     draw: Round Robin(2)
-    score: GUS 8 - JAC 3
+    score: NED 9 - JON 5
+  - player1:
+      team: CAR
+      position: Third
+      percent: 64
+      win: 0
+      loss: 1
+    player2:
+      team: JON
+      position: Second
+      percent: 90
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2016
+    draw: Round Robin(4)
+    score: JON 12 - CAR 6
   - player1:
       team: AB
       position: Third
@@ -371,42 +222,42 @@ vs:
     score: KLEI 10 - JONE 9
 - name: O'Leary, Susan
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 75
+      percent: 93
       wins: 0
       losses: 1
     player2:
-      percent: 89
+      percent: 85
       wins: 1
       losses: 0
   games:
   - player1:
-      team: Hei
+      team: Kle
       position: Third
-      percent: 75
+      percent: 93
       win: 0
       loss: 1
     player2:
-      team: Mor
+      team: Str
       position: Lead
-      percent: 89
+      percent: 85
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2006
-    draw: Round Robin(10)
-    score: Mor 11 - Hei 2
+    draw: Round Robin(7)
+    score: Kle 5 - Str 6
 - name: Olson-Johns, Lori
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 83
+      percent: 77
       wins: 1
-      losses: 1
+      losses: 2
     player2:
-      percent: 89
-      wins: 1
+      percent: 81
+      wins: 2
       losses: 1
   - event: Trials (Women)
     player1:
@@ -419,37 +270,53 @@ vs:
       losses: 0
   games:
   - player1:
-      team: MCE
+      team: NED
       position: Third
-      percent: 84
+      percent: 88
       win: 1
       loss: 0
     player2:
-      team: MOR
+      team: SWE
+      position: Third
+      percent: 79
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2014
+    draw: Round Robin(1)
+    score: SWE 6 - NED 12
+  - player1:
+      team: NED
+      position: Third
+      percent: 76
+      win: 0
+      loss: 1
+    player2:
+      team: SWE
       position: Third
       percent: 86
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2014
-    draw: Round Robin(9)
-    score: MCE 7 - MOR 4
+    draw: Semi-Final(10)
+    score: NED 6 - SWE 7
   - player1:
-      team: GUS
+      team: CAR
       position: Third
-      percent: 81
+      percent: 66
       win: 0
       loss: 1
     player2:
-      team: EPP
+      team: SWE
       position: Third
-      percent: 92
+      percent: 75
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2016
-    draw: Round Robin(6)
-    score: EPP 8 - GUS 4
+    draw: Round Robin(5)
+    score: SWE 9 - CAR 4
   - player1:
       team: KLEI
       position: Third
@@ -468,14 +335,14 @@ vs:
     score: WEBS 8 - KLEI 3
 - name: Overton-Clapham, Cathy
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 85
+      percent: 76
       wins: 0
-      losses: 2
+      losses: 1
     player2:
-      percent: 87
-      wins: 2
+      percent: 75
+      wins: 1
       losses: 0
   - event: Hearts
     player1:
@@ -497,37 +364,21 @@ vs:
       losses: 1
   games:
   - player1:
-      team: Hei
+      team: Kle
       position: Third
-      percent: 85
+      percent: 76
       win: 0
       loss: 1
     player2:
-      team: Fer
+      team: Jon
       position: Third
-      percent: 86
+      percent: 75
       win: 1
       loss: 0
-    event: Canada Cup (Men)
-    year: 2006
-    draw: Round Robin(1)
-    score: Hei 7 - Fer 8
-  - player1:
-      team: HOWA
-      position: Third
-      percent: 85
-      win: 0
-      loss: 1
-    player2:
-      team: MART
-      position: Third
-      percent: 88
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2008
-    draw: Page 3-4(13)
-    score: MART 7 - HOWA 6
+    event: Canada Cup (Women)
+    year: 2007
+    draw: Page 1-2(11)
+    score: Kle 4 - Jon 7
   - player1:
       team: AB
       position: Third
@@ -610,15 +461,15 @@ vs:
     score: KLEI 10 - JONE 9
 - name: Peters, Laine
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 90
-      wins: 2
-      losses: 0
+      percent: 81
+      wins: 3
+      losses: 1
     player2:
-      percent: 83
-      wins: 0
-      losses: 2
+      percent: 81
+      wins: 1
+      losses: 3
   - event: Hearts
     player1:
       percent: 83
@@ -630,37 +481,69 @@ vs:
       losses: 2
   games:
   - player1:
-      team: KOE
-      position: Fourth
-      percent: 86
+      team: Kle
+      position: Third
+      percent: 80
       win: 1
       loss: 0
     player2:
-      team: APPE
+      team: Smi
+      position: Second
+      percent: 83
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2005
+    draw: Round Robin(1)
+    score: Kle 6 - Smi 3
+  - player1:
+      team: KLEI
+      position: Third
+      percent: 76
+      win: 0
+      loss: 1
+    player2:
+      team: M-AA
       position: Second
       percent: 78
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2009
-    draw: Round Robin(1)
-    score: KOE 7 - APPE 2
+    draw: Round Robin(2)
+    score: M-AA 5 - KLEI 3
   - player1:
-      team: MAR
+      team: SK
       position: Third
-      percent: 94
+      percent: 83
       win: 1
       loss: 0
     player2:
-      team: LAY
+      team: HN
       position: Lead
-      percent: 88
+      percent: 79
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
+    year: 2010
+    draw: Round Robin(1)
+    score: HN 4 - SK 8
+  - player1:
+      team: KLE
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: NED
+      position: Lead
+      percent: 86
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2011
-    draw: Round Robin(2)
-    score: LAY 4 - MAR 9
+    draw: Round Robin(4)
+    score: KLE 9 - NED 8
   - player1:
       team: AB
       position: Third
@@ -693,264 +576,115 @@ vs:
     year: 2008
     draw: Round Robin(7)
     score: NS 7 - AB 9
-- name: Potts, Sarah
+- name: Preston, Samantha
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
+      percent: 66
       wins: 1
-      losses: 1
+      losses: 0
     player2:
-      percent: 78
-      wins: 1
+      percent: 59
+      wins: 0
       losses: 1
-  - event: Hearts
-    player1:
-      percent: 81
-      wins: 3
-      losses: 2
-    player2:
-      percent: 92
-      wins: 2
-      losses: 3
   games:
   - player1:
-      team: KM
+      team: Kle
+      position: Third
+      percent: 66
+      win: 1
+      loss: 0
+    player2:
+      team: Web
+      position: Second
+      percent: 59
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2007
+    draw: Round Robin(2)
+    score: Web 6 - Kle 7
+- name: Rankin, Heather
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 90
+      wins: 1
+      losses: 0
+    player2:
+      percent: 76
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: KLEI
       position: Third
       percent: 90
       win: 1
       loss: 0
     player2:
-      team: GH
-      position: Lead
+      team: RANK
+      position: Fourth
       percent: 76
       win: 0
       loss: 1
-    event: Canada Cup (Men)
-    year: 2010
-    draw: Page 1-2(12)
-    score: GH 4 - KM 7
-  - player1:
-      team: KM
-      position: Third
+    event: Canada Cup (Women)
+    year: 2008
+    draw: Round Robin(2)
+    score: KLEI 7 - RANK 5
+- name: Reddick, Audrey
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 72
+      wins: 1
+      losses: 1
+    player2:
       percent: 86
+      wins: 1
+      losses: 1
+  games:
+  - player1:
+      team: Kle
+      position: Third
+      percent: 64
       win: 0
       loss: 1
     player2:
-      team: GH
+      team: Mer
       position: Lead
-      percent: 80
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2010
-    draw: Final(16)
-    score: GH 10 - KM 7
-  - player1:
-      team: AB
-      position: Third
-      percent: 90
-      win: 1
-      loss: 0
-    player2:
-      team: 'NO'
-      position: Lead
-      percent: 94
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2016
-    draw: Round Robin(6)
-    score: AB 9 - NO 8
-  - player1:
-      team: AB
-      position: Third
-      percent: 90
-      win: 1
-      loss: 0
-    player2:
-      team: 'NO'
-      position: Lead
-      percent: 94
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2016
-    draw: Final(22)
-    score: NO 6 - AB 7
-  - player1:
-      team: CA
-      position: Third
-      percent: 69
-      win: 0
-      loss: 1
-    player2:
-      team: 'NO'
-      position: Lead
-      percent: 93
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2017
-    draw: Round Robin(15)
-    score: CA 4 - NO 8
-  - player1:
-      team: CA
-      position: Third
-      percent: 71
-      win: 0
-      loss: 1
-    player2:
-      team: 'NO'
-      position: Lead
-      percent: 88
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2017
-    draw: Page 3-4(19)
-    score: CA 1 - NO 8
-  - player1:
-      team: CA
-      position: Third
       percent: 84
       win: 1
       loss: 0
-    player2:
-      team: 'NO'
-      position: Lead
-      percent: 91
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2017
-    draw: Bronze(21)
-    score: CA 7 - NO 4
-- name: Preston, Samantha
-  totals:
-  - event: Canada Cup (Men)
-    player1:
-      percent: 73
-      wins: 0
-      losses: 2
-    player2:
-      percent: 79
-      wins: 2
-      losses: 0
-  games:
-  - player1:
-      team: Hei
-      position: Third
-      percent: 78
-      win: 0
-      loss: 1
-    player2:
-      team: How
-      position: Second
-      percent: 78
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2006
-    draw: Round Robin(3)
-    score: How 5 - Hei 3
-  - player1:
-      team: Bur
-      position: Third
-      percent: 69
-      win: 0
-      loss: 1
-    player2:
-      team: Joh
-      position: Second
-      percent: 80
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2007
-    draw: Round Robin(8)
-    score: Joh 7 - Bur 4
-- name: Rankin, Heather
-  totals:
-  - event: Canada Cup (Men)
-    player1:
-      percent: 77
-      wins: 0
-      losses: 2
-    player2:
-      percent: 88
-      wins: 2
-      losses: 0
-  games:
-  - player1:
-      team: Hei
-      position: Third
-      percent: 78
-      win: 0
-      loss: 1
-    player2:
-      team: How
-      position: Fourth
-      percent: 89
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2006
-    draw: Round Robin(3)
-    score: How 5 - Hei 3
-  - player1:
-      team: HOWA
-      position: Third
-      percent: 76
-      win: 0
-      loss: 1
-    player2:
-      team: GUSH
-      position: Fourth
-      percent: 86
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2008
-    draw: Round Robin(9)
-    score: GUSH 6 - HOWA 5
-- name: Reddick, Audrey
-  totals:
-  - event: Canada Cup (Men)
-    player1:
-      percent: 52
-      wins: 0
-      losses: 1
-    player2:
-      percent: 93
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: Har
-      position: Third
-      percent: 52
-      win: 0
-      loss: 1
-    player2:
-      team: Mor
-      position: Lead
-      percent: 93
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2005
-    draw: Round Robin(4)
-    score: Mor 11 - Har 2
+    draw: Round Robin(2)
+    score: Mer 10 - Kle 9
+  - player1:
+      team: Kle
+      position: Third
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: Mer
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2005
+    draw: Semi-Final(12)
+    score: Kle 6 - Mer 5
 - name: Rizzo, Jo-Ann
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 83
+      percent: 86
       wins: 2
       losses: 0
     player2:
-      percent: 74
+      percent: 80
       wins: 0
       losses: 2
   - event: Trials (Women)
@@ -964,37 +698,37 @@ vs:
       losses: 1
   games:
   - player1:
-      team: Har
+      team: Kle
       position: Third
-      percent: 76
+      percent: 83
       win: 1
       loss: 0
     player2:
-      team: Rya
+      team: Riz
       position: Fourth
-      percent: 78
+      percent: 76
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2005
-    draw: Round Robin(9)
-    score: Rya 7 - Har 10
+    draw: Page 3-4(11)
+    score: Riz 8 - Kle 9
   - player1:
-      team: MCE
+      team: NED
       position: Third
-      percent: 91
+      percent: 90
       win: 1
       loss: 0
     player2:
-      team: KOE
+      team: MID
       position: Third
-      percent: 70
+      percent: 85
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2014
-    draw: Round Robin(3)
-    score: KOE 2 - MCE 8
+    draw: Round Robin(9)
+    score: MID 4 - NED 7
   - player1:
       team: KLE
       position: Third
@@ -1013,127 +747,99 @@ vs:
     score: KLE 7 - RIZ 4
 - name: Robertson, Desiree
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 69
-      wins: 0
-      losses: 1
-    player2:
-      percent: 84
+      percent: 66
       wins: 1
       losses: 0
+    player2:
+      percent: 59
+      wins: 0
+      losses: 1
   games:
   - player1:
-      team: Bur
+      team: Kle
       position: Third
-      percent: 69
-      win: 0
-      loss: 1
-    player2:
-      team: Joh
-      position: Third
-      percent: 84
+      percent: 66
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    player2:
+      team: Web
+      position: Third
+      percent: 59
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2007
-    draw: Round Robin(8)
-    score: Joh 7 - Bur 4
+    draw: Round Robin(2)
+    score: Web 6 - Kle 7
 - name: Rocque, Kelsey
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 90
+      percent: 86
       wins: 1
       losses: 0
     player2:
-      percent: 89
+      percent: 84
       wins: 0
       losses: 1
   games:
   - player1:
-      team: GUS
+      team: CAR
       position: Third
-      percent: 90
+      percent: 86
       win: 1
       loss: 0
     player2:
-      team: KOE
+      team: ROC
       position: Fourth
-      percent: 89
+      percent: 84
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2016
-    draw: Round Robin(7)
-    score: GUS 5 - KOE 3
-- name: Rocque, Raylene
-  totals:
-  - event: Canada Cup (Men)
-    player1:
-      percent: 85
-      wins: 1
-      losses: 0
-    player2:
-      percent: 81
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: KOE
-      position: Third
-      percent: 85
-      win: 1
-      loss: 0
-    player2:
-      team: HOWA
-      position: Second
-      percent: 81
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2009
-    draw: Round Robin(5)
-    score: HOWA 5 - KOE 7
+    draw: Round Robin(3)
+    score: CAR 11 - ROC 5
 - name: Rogers, Rhonda
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 83
+      percent: 79
       wins: 1
       losses: 0
     player2:
-      percent: 69
+      percent: 78
       wins: 0
       losses: 1
   games:
   - player1:
-      team: KM
+      team: SK
       position: Third
-      percent: 83
+      percent: 79
       win: 1
       loss: 0
     player2:
-      team: SR
+      team: SN
       position: Second
-      percent: 69
+      percent: 78
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2010
-    draw: Round Robin(2)
-    score: KM 8 - SR 2
+    draw: Round Robin(8)
+    score: SK 10 - SN 6
 - name: Sabourin, Joelle
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 83
-      wins: 2
-      losses: 0
+      percent: 87
+      wins: 3
+      losses: 1
     player2:
-      percent: 95
-      wins: 0
-      losses: 2
+      percent: 83
+      wins: 1
+      losses: 3
   - event: Hearts
     player1:
       percent: 72
@@ -1145,37 +851,69 @@ vs:
       losses: 0
   games:
   - player1:
-      team: MAR
+      team: KLEI
       position: Third
-      percent: 75
+      percent: 95
       win: 1
       loss: 0
     player2:
-      team: HOW
+      team: M-FL
       position: Second
-      percent: 94
+      percent: 81
       win: 0
       loss: 1
-    event: Canada Cup (Men)
-    year: 2011
-    draw: Round Robin(6)
-    score: MAR 10 - HOW 8
+    event: Canada Cup (Women)
+    year: 2009
+    draw: Page 1-2(12)
+    score: KLEI 6 - M-FL 4
   - player1:
-      team: MAR
+      team: KLEI
       position: Third
-      percent: 90
+      percent: 89
       win: 1
       loss: 0
     player2:
-      team: HOW
+      team: M-FL
       position: Second
+      percent: 76
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2009
+    draw: Final(14)
+    score: KLEI 6 - M-FL 4
+  - player1:
+      team: KLE
+      position: Third
+      percent: 68
+      win: 1
+      loss: 0
+    player2:
+      team: JON
+      position: Second
+      percent: 86
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2011
+    draw: Round Robin(3)
+    score: JON 7 - KLE 9
+  - player1:
+      team: KLE
+      position: Third
       percent: 96
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: JON
+      position: Second
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2011
-    draw: Final(11)
-    score: MAR 7 - HOW 4
+    draw: Semi-Final(10)
+    score: JON 6 - KLE 3
   - player1:
       team: AB
       position: Third
@@ -1192,45 +930,73 @@ vs:
     year: 2008
     draw: Round Robin(9)
     score: AB 4 - QC 8
-- name: Schmidt, Stephanie
+- name: Santos, Deb
   totals:
-  - event: Canada Cup (Men)
-    player1:
-      percent: 84
-      wins: 1
-      losses: 0
-    player2:
-      percent: 92
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: MCE
-      position: Third
-      percent: 84
-      win: 1
-      loss: 0
-    player2:
-      team: COT
-      position: Lead
-      percent: 92
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2014
-    draw: Round Robin(4)
-    score: COT 4 - MCE 9
-- name: Schneider, Kim
-  totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
       percent: 88
       wins: 1
       losses: 0
     player2:
-      percent: 83
+      percent: 84
       wins: 0
       losses: 1
+  games:
+  - player1:
+      team: Kle
+      position: Third
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: San
+      position: Third
+      percent: 84
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2007
+    draw: Round Robin(3)
+    score: Kle 8 - San 5
+- name: Schmidt, Stephanie
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 95
+      wins: 1
+      losses: 0
+    player2:
+      percent: 90
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: NED
+      position: Third
+      percent: 95
+      win: 1
+      loss: 0
+    player2:
+      team: AND
+      position: Lead
+      percent: 90
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2014
+    draw: Round Robin(6)
+    score: NED 7 - AND 4
+- name: Schneider, Kim
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 79
+      wins: 2
+      losses: 0
+    player2:
+      percent: 74
+      wins: 0
+      losses: 2
   - event: Hearts
     player1:
       percent: 79
@@ -1251,21 +1017,37 @@ vs:
       losses: 1
   games:
   - player1:
-      team: MAR
+      team: KLEI
       position: Third
-      percent: 88
+      percent: 78
       win: 1
       loss: 0
     player2:
-      team: KOE
+      team: HOLL
       position: Third
-      percent: 83
+      percent: 72
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
+    year: 2009
+    draw: Round Robin(6)
+    score: KLEI 9 - HOLL 8
+  - player1:
+      team: KLE
+      position: Third
+      percent: 80
+      win: 1
+      loss: 0
+    player2:
+      team: HOL
+      position: Third
+      percent: 76
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2011
-    draw: Round Robin(3)
-    score: KOE 7 - MAR 8
+    draw: Round Robin(6)
+    score: KLE 7 - HOL 6
   - player1:
       team: AB
       position: Third
@@ -1300,15 +1082,15 @@ vs:
     score: HOLL 3 - KLEI 9
 - name: Schneider, Tammy
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
-      wins: 1
+      percent: 79
+      wins: 2
       losses: 0
     player2:
-      percent: 90
+      percent: 77
       wins: 0
-      losses: 1
+      losses: 2
   - event: Hearts
     player1:
       percent: 79
@@ -1329,21 +1111,37 @@ vs:
       losses: 1
   games:
   - player1:
-      team: MAR
+      team: KLEI
       position: Third
-      percent: 88
+      percent: 78
       win: 1
       loss: 0
     player2:
-      team: KOE
+      team: HOLL
       position: Second
-      percent: 90
+      percent: 76
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
+    year: 2009
+    draw: Round Robin(6)
+    score: KLEI 9 - HOLL 8
+  - player1:
+      team: KLE
+      position: Third
+      percent: 80
+      win: 1
+      loss: 0
+    player2:
+      team: HOL
+      position: Second
+      percent: 79
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2011
-    draw: Round Robin(3)
-    score: KOE 7 - MAR 8
+    draw: Round Robin(6)
+    score: KLE 7 - HOL 6
   - player1:
       team: AB
       position: Third
@@ -1378,14 +1176,14 @@ vs:
     score: HOLL 3 - KLEI 9
 - name: Schraeder, Jeanna
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 75
+      percent: 80
       wins: 1
-      losses: 3
+      losses: 2
     player2:
-      percent: 89
-      wins: 3
+      percent: 83
+      wins: 2
       losses: 1
   - event: Hearts
     player1:
@@ -1407,69 +1205,53 @@ vs:
       losses: 2
   games:
   - player1:
-      team: FER
-      position: Third
-      percent: 79
-      win: 0
-      loss: 1
-    player2:
-      team: HOW
-      position: Third
-      percent: 84
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2004
-    draw: Round Robin(6)
-    score: HOW 8 - FER 6
-  - player1:
-      team: Har
+      team: KLE
       position: Third
       percent: 71
       win: 0
       loss: 1
     player2:
-      team: Sto
+      team: SCO
       position: Third
-      percent: 94
+      percent: 98
       win: 1
       loss: 0
-    event: Canada Cup (Men)
-    year: 2005
-    draw: Round Robin(6)
-    score: Har 4 - Sto 6
-  - player1:
-      team: HOWA
-      position: Third
-      percent: 89
-      win: 1
-      loss: 0
-    player2:
-      team: FERB
-      position: Third
-      percent: 90
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2008
-    draw: Round Robin(6)
-    score: FERB 5 - HOWA 7
-  - player1:
-      team: KOE
-      position: Fourth
-      percent: 60
-      win: 0
-      loss: 1
-    player2:
-      team: STOU
-      position: Third
-      percent: 88
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2009
+    event: Canada Cup (Women)
+    year: 2004
     draw: Round Robin(2)
-    score: STOU 7 - KOE 5
+    score: KLE 4 - SCO 6
+  - player1:
+      team: KLEI
+      position: Third
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: SCOT
+      position: Third
+      percent: 82
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2008
+    draw: Round Robin(7)
+    score: SCOT 6 - KLEI 3
+  - player1:
+      team: KLEI
+      position: Third
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: SCOT
+      position: Third
+      percent: 67
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2009
+    draw: Round Robin(8)
+    score: SCOT 6 - KLEI 11
   - player1:
       team: AB
       position: Third
@@ -1552,14 +1334,14 @@ vs:
     score: KLEI 9 - SCOT 6
 - name: Scott, Kelly
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 75
+      percent: 80
       wins: 1
-      losses: 3
+      losses: 2
     player2:
-      percent: 81
-      wins: 3
+      percent: 83
+      wins: 2
       losses: 1
   - event: Hearts
     player1:
@@ -1581,69 +1363,53 @@ vs:
       losses: 2
   games:
   - player1:
-      team: FER
-      position: Third
-      percent: 79
-      win: 0
-      loss: 1
-    player2:
-      team: HOW
-      position: Fourth
-      percent: 86
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2004
-    draw: Round Robin(6)
-    score: HOW 8 - FER 6
-  - player1:
-      team: Har
+      team: KLE
       position: Third
       percent: 71
       win: 0
       loss: 1
     player2:
-      team: Sto
+      team: SCO
       position: Fourth
-      percent: 76
+      percent: 87
       win: 1
       loss: 0
-    event: Canada Cup (Men)
-    year: 2005
-    draw: Round Robin(6)
-    score: Har 4 - Sto 6
-  - player1:
-      team: HOWA
-      position: Third
-      percent: 89
-      win: 1
-      loss: 0
-    player2:
-      team: FERB
-      position: Fourth
-      percent: 76
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2008
-    draw: Round Robin(6)
-    score: FERB 5 - HOWA 7
-  - player1:
-      team: KOE
-      position: Fourth
-      percent: 60
-      win: 0
-      loss: 1
-    player2:
-      team: STOU
-      position: Fourth
-      percent: 84
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2009
+    event: Canada Cup (Women)
+    year: 2004
     draw: Round Robin(2)
-    score: STOU 7 - KOE 5
+    score: KLE 4 - SCO 6
+  - player1:
+      team: KLEI
+      position: Third
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: SCOT
+      position: Fourth
+      percent: 90
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2008
+    draw: Round Robin(7)
+    score: SCOT 6 - KLEI 3
+  - player1:
+      team: KLEI
+      position: Third
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: SCOT
+      position: Fourth
+      percent: 72
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2009
+    draw: Round Robin(8)
+    score: SCOT 6 - KLEI 11
   - player1:
       team: AB
       position: Third
@@ -1724,16 +1490,44 @@ vs:
     year: 2009
     draw: Round Robin(2)
     score: KLEI 9 - SCOT 6
+- name: Seeley, Heather
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 78
+      wins: 1
+      losses: 0
+    player2:
+      percent: 80
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: KLEI
+      position: Third
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: HOLL
+      position: Lead
+      percent: 80
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2009
+    draw: Round Robin(6)
+    score: KLEI 9 - HOLL 8
 - name: Simmons, Cindy
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 81
+      percent: 75
       wins: 1
-      losses: 1
+      losses: 0
     player2:
-      percent: 88
-      wins: 1
+      percent: 75
+      wins: 0
       losses: 1
   - event: Hearts
     player1:
@@ -1746,37 +1540,21 @@ vs:
       losses: 1
   games:
   - player1:
-      team: Har
+      team: KLEI
       position: Third
-      percent: 79
+      percent: 75
       win: 1
       loss: 0
     player2:
-      team: Fer
+      team: ENGL
       position: Lead
-      percent: 94
+      percent: 75
       win: 0
       loss: 1
-    event: Canada Cup (Men)
-    year: 2005
-    draw: Round Robin(10)
-    score: Har 6 - Fer 5
-  - player1:
-      team: KOE
-      position: Third
-      percent: 84
-      win: 0
-      loss: 1
-    player2:
-      team: FERB
-      position: Lead
-      percent: 83
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2009
-    draw: Round Robin(7)
-    score: KOE 5 - FERB 6
+    draw: Round Robin(4)
+    score: KLEI 9 - ENGL 3
   - player1:
       team: AB
       position: Third
@@ -1795,14 +1573,14 @@ vs:
     score: AB 10 - SK 3
 - name: Simons, Renee
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 75
+      percent: 80
       wins: 1
-      losses: 3
+      losses: 2
     player2:
-      percent: 87
-      wins: 3
+      percent: 78
+      wins: 2
       losses: 1
   - event: Hearts
     player1:
@@ -1824,69 +1602,53 @@ vs:
       losses: 1
   games:
   - player1:
-      team: FER
-      position: Third
-      percent: 79
-      win: 0
-      loss: 1
-    player2:
-      team: HOW
-      position: Lead
-      percent: 84
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2004
-    draw: Round Robin(6)
-    score: HOW 8 - FER 6
-  - player1:
-      team: Har
+      team: KLE
       position: Third
       percent: 71
       win: 0
       loss: 1
     player2:
-      team: Sto
+      team: SCO
       position: Lead
-      percent: 89
+      percent: 73
       win: 1
       loss: 0
-    event: Canada Cup (Men)
-    year: 2005
-    draw: Round Robin(6)
-    score: Har 4 - Sto 6
-  - player1:
-      team: HOWA
-      position: Third
-      percent: 89
-      win: 1
-      loss: 0
-    player2:
-      team: FERB
-      position: Lead
-      percent: 99
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2008
-    draw: Round Robin(6)
-    score: FERB 5 - HOWA 7
-  - player1:
-      team: KOE
-      position: Fourth
-      percent: 60
-      win: 0
-      loss: 1
-    player2:
-      team: STOU
-      position: Lead
-      percent: 78
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2009
+    event: Canada Cup (Women)
+    year: 2004
     draw: Round Robin(2)
-    score: STOU 7 - KOE 5
+    score: KLE 4 - SCO 6
+  - player1:
+      team: KLEI
+      position: Third
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: SCOT
+      position: Lead
+      percent: 92
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2008
+    draw: Round Robin(7)
+    score: SCOT 6 - KLEI 3
+  - player1:
+      team: KLEI
+      position: Third
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: SCOT
+      position: Lead
+      percent: 72
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2009
+    draw: Round Robin(8)
+    score: SCOT 6 - KLEI 11
   - player1:
       team: AB
       position: Third
@@ -1937,14 +1699,14 @@ vs:
     score: SCO 7 - KLE 8
 - name: Singler, Sherri
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
       percent: 84
       wins: 4
-      losses: 1
+      losses: 2
     player2:
-      percent: 89
-      wins: 1
+      percent: 82
+      wins: 2
       losses: 4
   - event: Trials (Women)
     player1:
@@ -1957,85 +1719,101 @@ vs:
       losses: 3
   games:
   - player1:
-      team: Bur
-      position: Third
-      percent: 72
-      win: 0
-      loss: 1
-    player2:
-      team: Fer
-      position: Second
-      percent: 90
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2007
-    draw: Round Robin(5)
-    score: Bur 5 - Fer 10
-  - player1:
-      team: HOWA
-      position: Third
-      percent: 92
-      win: 1
-      loss: 0
-    player2:
-      team: BURT
-      position: Second
-      percent: 94
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2008
-    draw: Round Robin(2)
-    score: HOWA 8 - BURT 2
-  - player1:
-      team: KM
-      position: Third
-      percent: 83
-      win: 1
-      loss: 0
-    player2:
-      team: MM
-      position: Second
-      percent: 83
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2010
-    draw: Round Robin(6)
-    score: KM 8 - MM 4
-  - player1:
-      team: MAR
-      position: Third
-      percent: 91
-      win: 1
-      loss: 0
-    player2:
-      team: MCE
-      position: Second
-      percent: 94
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2011
-    draw: Round Robin(9)
-    score: MAR 7 - MCE 5
-  - player1:
-      team: MCE
+      team: Kle
       position: Third
       percent: 84
       win: 1
       loss: 0
     player2:
-      team: COT
-      position: Third
-      percent: 83
+      team: Law
+      position: Second
+      percent: 84
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
+    year: 2007
+    draw: Round Robin(5)
+    score: Law 3 - Kle 9
+  - player1:
+      team: KLEI
+      position: Third
+      percent: 78
+      win: 0
+      loss: 1
+    player2:
+      team: LAWT
+      position: Second
+      percent: 76
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2008
+    draw: Round Robin(9)
+    score: KLEI 6 - LAWT 8
+  - player1:
+      team: SK
+      position: Third
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: SL
+      position: Second
+      percent: 76
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2010
+    draw: Round Robin(6)
+    score: SK 11 - SL 5
+  - player1:
+      team: SK
+      position: Third
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: SL
+      position: Second
+      percent: 86
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2010
+    draw: Semi-Final(13)
+    score: SK 4 - SL 8
+  - player1:
+      team: KLE
+      position: Third
+      percent: 80
+      win: 1
+      loss: 0
+    player2:
+      team: LAW
+      position: Second
+      percent: 89
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2011
+    draw: Round Robin(8)
+    score: KLE 8 - LAW 4
+  - player1:
+      team: NED
+      position: Third
+      percent: 95
+      win: 1
+      loss: 0
+    player2:
+      team: AND
+      position: Third
+      percent: 78
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2014
-    draw: Round Robin(4)
-    score: COT 4 - MCE 9
+    draw: Round Robin(6)
+    score: NED 7 - AND 4
   - player1:
       team: KLE
       position: Third
@@ -2084,232 +1862,112 @@ vs:
     year: 2009
     draw: Round Robin(6)
     score: LAWT 5 - KLEI 6
-- name: Sippala, Ashley
+- name: Smith, Heather
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
+      percent: 80
       wins: 1
-      losses: 1
+      losses: 0
     player2:
-      percent: 82
-      wins: 1
+      percent: 80
+      wins: 0
       losses: 1
   - event: Hearts
     player1:
       percent: 81
-      wins: 3
-      losses: 2
+      wins: 1
+      losses: 1
     player2:
-      percent: 85
-      wins: 2
-      losses: 3
+      percent: 78
+      wins: 1
+      losses: 1
   games:
   - player1:
-      team: KM
+      team: Kle
       position: Third
-      percent: 90
+      percent: 80
       win: 1
       loss: 0
     player2:
-      team: GH
+      team: Smi
+      position: Fourth
+      percent: 80
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2005
+    draw: Round Robin(1)
+    score: Kle 6 - Smi 3
+  - player1:
+      team: AB
       position: Third
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: NS
+      position: Third
+      percent: 81
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2004
+    draw: Round Robin(10)
+    score: AB 9 - NS 5
+  - player1:
+      team: AB
+      position: Third
+      percent: 85
+      win: 0
+      loss: 1
+    player2:
+      team: NS
+      position: Fourth
       percent: 75
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2010
-    draw: Page 1-2(12)
-    score: GH 4 - KM 7
-  - player1:
-      team: KM
-      position: Third
-      percent: 86
-      win: 0
-      loss: 1
-    player2:
-      team: GH
-      position: Third
-      percent: 89
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2010
-    draw: Final(16)
-    score: GH 10 - KM 7
-  - player1:
-      team: AB
-      position: Third
-      percent: 90
-      win: 1
-      loss: 0
-    player2:
-      team: 'NO'
-      position: Second
-      percent: 83
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2016
-    draw: Round Robin(6)
-    score: AB 9 - NO 8
-  - player1:
-      team: AB
-      position: Third
-      percent: 90
-      win: 1
-      loss: 0
-    player2:
-      team: 'NO'
-      position: Second
-      percent: 71
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2016
-    draw: Final(22)
-    score: NO 6 - AB 7
-  - player1:
-      team: CA
-      position: Third
-      percent: 69
-      win: 0
-      loss: 1
-    player2:
-      team: 'NO'
-      position: Second
-      percent: 92
       win: 1
       loss: 0
     event: Hearts
-    year: 2017
+    year: 2011
     draw: Round Robin(15)
-    score: CA 4 - NO 8
-  - player1:
-      team: CA
-      position: Third
-      percent: 71
-      win: 0
-      loss: 1
-    player2:
-      team: 'NO'
-      position: Second
-      percent: 99
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2017
-    draw: Page 3-4(19)
-    score: CA 1 - NO 8
-  - player1:
-      team: CA
-      position: Third
-      percent: 84
-      win: 1
-      loss: 0
-    player2:
-      team: 'NO'
-      position: Second
-      percent: 83
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2017
-    draw: Bronze(21)
-    score: CA 7 - NO 4
+    score: AB 7 - NS 8
 - name: Smith, Nancy
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 88
+      percent: 78
       wins: 1
       losses: 0
     player2:
-      percent: 74
+      percent: 79
       wins: 0
       losses: 1
   games:
   - player1:
-      team: FER
+      team: KLE
       position: Third
-      percent: 88
+      percent: 78
       win: 1
       loss: 0
     player2:
-      team: SIM
+      team: BRY
       position: Third
-      percent: 74
+      percent: 79
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2004
     draw: Round Robin(4)
-    score: FER 10 - SIM 4
-- name: Smith, Nikki
-  totals:
-  - event: Canada Cup (Men)
-    player1:
-      percent: 88
-      wins: 0
-      losses: 1
-    player2:
-      percent: 88
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: Hei
-      position: Third
-      percent: 88
-      win: 0
-      loss: 1
-    player2:
-      team: Mar
-      position: Third
-      percent: 88
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2006
-    draw: Round Robin(8)
-    score: Mar 8 - Hei 3
-- name: Sonnenberg, Renee
-  totals:
-  - event: Canada Cup (Men)
-    player1:
-      percent: 88
-      wins: 0
-      losses: 1
-    player2:
-      percent: 96
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: Hei
-      position: Third
-      percent: 88
-      win: 0
-      loss: 1
-    player2:
-      team: Mar
-      position: Fourth
-      percent: 96
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2006
-    draw: Round Robin(8)
-    score: Mar 8 - Hei 3
+    score: KLE 7 - BRY 5
 - name: Strong, Heather
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 75
+      percent: 93
       wins: 0
       losses: 1
     player2:
-      percent: 96
+      percent: 85
       wins: 1
       losses: 0
   - event: Hearts
@@ -2323,21 +1981,21 @@ vs:
       losses: 1
   games:
   - player1:
-      team: Hei
+      team: Kle
       position: Third
-      percent: 75
+      percent: 93
       win: 0
       loss: 1
     player2:
-      team: Mor
+      team: Str
       position: Fourth
-      percent: 96
+      percent: 85
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2006
-    draw: Round Robin(10)
-    score: Mor 11 - Hei 2
+    draw: Round Robin(7)
+    score: Kle 5 - Str 6
   - player1:
       team: AB
       position: Third
@@ -2356,13 +2014,13 @@ vs:
     score: NL 4 - AB 6
 - name: Strong, Laura
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 75
+      percent: 93
       wins: 0
       losses: 1
     player2:
-      percent: 88
+      percent: 80
       wins: 1
       losses: 0
   - event: Hearts
@@ -2376,21 +2034,21 @@ vs:
       losses: 1
   games:
   - player1:
-      team: Hei
+      team: Kle
       position: Third
-      percent: 75
+      percent: 93
       win: 0
       loss: 1
     player2:
-      team: Mor
+      team: Str
       position: Second
-      percent: 88
+      percent: 80
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2006
-    draw: Round Robin(10)
-    score: Mor 11 - Hei 2
+    draw: Round Robin(7)
+    score: Kle 5 - Str 6
   - player1:
       team: AB
       position: Third
@@ -2409,159 +2067,175 @@ vs:
     score: NL 4 - AB 6
 - name: Sweeting, Val
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 83
+      percent: 77
       wins: 1
-      losses: 1
+      losses: 2
     player2:
-      percent: 86
-      wins: 1
+      percent: 70
+      wins: 2
       losses: 1
   games:
   - player1:
-      team: MCE
+      team: NED
       position: Third
-      percent: 84
+      percent: 88
       win: 1
       loss: 0
     player2:
-      team: MOR
+      team: SWE
       position: Fourth
-      percent: 87
+      percent: 73
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2014
-    draw: Round Robin(9)
-    score: MCE 7 - MOR 4
+    draw: Round Robin(1)
+    score: SWE 6 - NED 12
   - player1:
-      team: GUS
+      team: NED
       position: Third
-      percent: 81
+      percent: 76
       win: 0
       loss: 1
     player2:
-      team: EPP
+      team: SWE
       position: Fourth
+      percent: 69
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2014
+    draw: Semi-Final(10)
+    score: NED 6 - SWE 7
+  - player1:
+      team: CAR
+      position: Third
+      percent: 66
+      win: 0
+      loss: 1
+    player2:
+      team: SWE
+      position: Fourth
+      percent: 69
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2016
+    draw: Round Robin(5)
+    score: SWE 9 - CAR 4
+- name: Thurston, Jill
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 85
+      wins: 1
+      losses: 0
+    player2:
+      percent: 63
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: Kle
+      position: Third
       percent: 85
       win: 1
       loss: 0
-    event: Canada Cup (Men)
-    year: 2016
-    draw: Round Robin(6)
-    score: EPP 8 - GUS 4
-- name: Thurston, Jill
-  totals:
-  - event: Canada Cup (Men)
-    player1:
-      percent: 81
-      wins: 0
-      losses: 1
     player2:
-      percent: 88
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: Hei
-      position: Third
-      percent: 81
-      win: 0
-      loss: 1
-    player2:
-      team: Des
-      position: Third
-      percent: 88
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2006
-    draw: Round Robin(6)
-    score: Hei 2 - Des 8
-- name: Titheridge, Lindsay
-  totals:
-  - event: Canada Cup (Men)
-    player1:
-      percent: 94
-      wins: 2
-      losses: 0
-    player2:
-      percent: 86
-      wins: 0
-      losses: 2
-  games:
-  - player1:
-      team: KM
-      position: Third
-      percent: 98
-      win: 1
-      loss: 0
-    player2:
-      team: MC
-      position: Lead
-      percent: 81
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2010
-    draw: Round Robin(4)
-    score: MC 2 - KM 7
-  - player1:
-      team: MAR
-      position: Third
-      percent: 92
-      win: 1
-      loss: 0
-    player2:
-      team: STO
-      position: Lead
-      percent: 89
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2011
-    draw: Round Robin(8)
-    score: MAR 7 - STO 6
-- name: Tuck, Kim
-  totals:
-  - event: Canada Cup (Men)
-    player1:
-      percent: 76
-      wins: 1
-      losses: 0
-    player2:
-      percent: 80
-      wins: 0
-      losses: 1
-  games:
-  - player1:
       team: Har
       position: Third
-      percent: 76
+      percent: 63
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2006
+    draw: Round Robin(3)
+    score: Kle 7 - Har 6
+- name: Titheridge, Lindsay
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 78
+      wins: 1
+      losses: 1
+    player2:
+      percent: 85
+      wins: 1
+      losses: 1
+  games:
+  - player1:
+      team: SK
+      position: Third
+      percent: 85
       win: 1
       loss: 0
     player2:
-      team: Rya
-      position: Second
-      percent: 80
+      team: CC
+      position: Lead
+      percent: 83
       win: 0
       loss: 1
-    event: Canada Cup (Men)
-    year: 2005
-    draw: Round Robin(9)
-    score: Rya 7 - Har 10
-- name: Vey, Lana
+    event: Canada Cup (Women)
+    year: 2010
+    draw: Round Robin(3)
+    score: CC 4 - SK 8
+  - player1:
+      team: KLE
+      position: Third
+      percent: 73
+      win: 0
+      loss: 1
+    player2:
+      team: CAR
+      position: Lead
+      percent: 86
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2011
+    draw: Round Robin(2)
+    score: CAR 7 - KLE 6
+- name: Tuck, Kim
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 92
+      percent: 83
       wins: 1
       losses: 0
     player2:
-      percent: 96
+      percent: 84
       wins: 0
       losses: 1
+  games:
+  - player1:
+      team: Kle
+      position: Third
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: Riz
+      position: Second
+      percent: 84
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2005
+    draw: Page 3-4(11)
+    score: Riz 8 - Kle 9
+- name: Vey, Lana
+  totals:
+  - event: Canada Cup (Women)
+    player1:
+      percent: 78
+      wins: 0
+      losses: 1
+    player2:
+      percent: 89
+      wins: 1
+      losses: 0
   - event: Trials (Women)
     player1:
       percent: 94
@@ -2573,21 +2247,21 @@ vs:
       losses: 1
   games:
   - player1:
-      team: HOWA
+      team: KLEI
       position: Third
-      percent: 92
-      win: 1
-      loss: 0
-    player2:
-      team: BURT
-      position: Lead
-      percent: 96
+      percent: 78
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: LAWT
+      position: Lead
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2008
-    draw: Round Robin(2)
-    score: HOWA 8 - BURT 2
+    draw: Round Robin(9)
+    score: KLEI 6 - LAWT 8
   - player1:
       team: KLEI
       position: Third
@@ -2606,13 +2280,13 @@ vs:
     score: LAWT 5 - KLEI 6
 - name: Wall, Kirsten
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 69
+      percent: 70
       wins: 1
       losses: 0
     player2:
-      percent: 73
+      percent: 67
       wins: 0
       losses: 1
   - event: Hearts
@@ -2635,21 +2309,21 @@ vs:
       losses: 1
   games:
   - player1:
-      team: FER
+      team: KLEI
       position: Third
-      percent: 69
+      percent: 70
       win: 1
       loss: 0
     player2:
-      team: MOR
+      team: SMID
       position: Third
-      percent: 73
+      percent: 67
       win: 0
       loss: 1
-    event: Canada Cup (Men)
-    year: 2004
-    draw: Final(15)
-    score: MOR 3 - FER 10
+    event: Canada Cup (Women)
+    year: 2009
+    draw: Round Robin(10)
+    score: KLEI 7 - SMID 6
   - player1:
       team: AB
       position: Third
@@ -2716,13 +2390,13 @@ vs:
     score: KLE 7 - MID 6
 - name: Walsh, Heather
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 77
+      percent: 81
       wins: 0
       losses: 1
     player2:
-      percent: 78
+      percent: 84
       wins: 1
       losses: 0
   - event: Trials (Women)
@@ -2736,21 +2410,21 @@ vs:
       losses: 1
   games:
   - player1:
-      team: Bur
+      team: Kle
       position: Third
-      percent: 77
+      percent: 81
       win: 0
       loss: 1
     player2:
-      team: Bas
+      team: And
       position: Second
-      percent: 78
+      percent: 84
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2007
-    draw: Round Robin(2)
-    score: Bur 9 - Bas 10
+    draw: Round Robin(7)
+    score: Kle 5 - And 9
   - player1:
       team: KLE
       position: Third
@@ -2769,13 +2443,13 @@ vs:
     score: AND 6 - KLE 7
 - name: Walsh, Jenna
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 95
+      percent: 80
       wins: 1
       losses: 0
     player2:
-      percent: 93
+      percent: 70
       wins: 0
       losses: 1
   - event: Hearts
@@ -2789,21 +2463,21 @@ vs:
       losses: 1
   games:
   - player1:
-      team: GUS
+      team: CAR
       position: Third
-      percent: 95
+      percent: 80
       win: 1
       loss: 0
     player2:
-      team: LAY
+      team: FLE
       position: Second
-      percent: 93
+      percent: 70
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2016
-    draw: Round Robin(5)
-    score: LAY 6 - GUS 7
+    draw: Round Robin(7)
+    score: CAR 7 - FLE 4
   - player1:
       team: AB
       position: Lead
@@ -2822,15 +2496,15 @@ vs:
     score: ON 4 - AB 8
 - name: Weagle, Lisa
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 87
-      wins: 3
+      percent: 86
+      wins: 1
       losses: 2
     player2:
-      percent: 87
+      percent: 83
       wins: 2
-      losses: 3
+      losses: 1
   - event: Hearts
     player1:
       percent: 71
@@ -2842,85 +2516,53 @@ vs:
       losses: 0
   games:
   - player1:
-      team: MAR
+      team: KLE
       position: Third
-      percent: 99
+      percent: 89
       win: 1
       loss: 0
     player2:
-      team: JAC
+      team: HOM
       position: Lead
+      percent: 85
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
+    year: 2011
+    draw: Round Robin(9)
+    score: HOM 5 - KLE 6
+  - player1:
+      team: NED
+      position: Third
       percent: 83
       win: 0
       loss: 1
-    event: Canada Cup (Men)
-    year: 2011
+    player2:
+      team: HOM
+      position: Lead
+      percent: 78
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
+    year: 2014
     draw: Round Robin(4)
-    score: JAC 4 - MAR 8
+    score: HOM 5 - NED 4
   - player1:
-      team: MCE
+      team: CAR
       position: Third
-      percent: 81
+      percent: 88
       win: 0
       loss: 1
     player2:
-      team: HOW
+      team: HOM
       position: Lead
       percent: 85
       win: 1
       loss: 0
-    event: Canada Cup (Men)
-    year: 2014
-    draw: Round Robin(5)
-    score: MCE 3 - HOW 4
-  - player1:
-      team: MCE
-      position: Third
-      percent: 90
-      win: 1
-      loss: 0
-    player2:
-      team: HOW
-      position: Lead
-      percent: 92
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
-    year: 2014
-    draw: Semi-Final(10)
-    score: HOW 4 - MCE 5
-  - player1:
-      team: GUS
-      position: Third
-      percent: 84
-      win: 1
-      loss: 0
-    player2:
-      team: CAR
-      position: Lead
-      percent: 83
-      win: 0
-      loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2016
-    draw: Round Robin(3)
-    score: CAR 6 - GUS 7
-  - player1:
-      team: GUS
-      position: Third
-      percent: 84
-      win: 0
-      loss: 1
-    player2:
-      team: CAR
-      position: Lead
-      percent: 92
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
-    year: 2016
-    draw: Final(13)
-    score: GUS 6 - CAR 8
+    draw: Round Robin(2)
+    score: CAR 4 - HOM 6
   - player1:
       team: AB
       position: Third
@@ -2955,15 +2597,15 @@ vs:
     score: ON 7 - CA 5
 - name: Webster, Crystal
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 82
-      wins: 1
-      losses: 1
+      percent: 73
+      wins: 2
+      losses: 0
     player2:
-      percent: 89
-      wins: 1
-      losses: 1
+      percent: 65
+      wins: 0
+      losses: 2
   - event: Trials (Women)
     player1:
       percent: 66
@@ -2975,37 +2617,37 @@ vs:
       losses: 0
   games:
   - player1:
-      team: Bur
+      team: Kle
       position: Third
-      percent: 69
-      win: 0
-      loss: 1
+      percent: 66
+      win: 1
+      loss: 0
     player2:
-      team: Joh
+      team: Web
       position: Fourth
-      percent: 95
-      win: 1
-      loss: 0
-    event: Canada Cup (Men)
+      percent: 57
+      win: 0
+      loss: 1
+    event: Canada Cup (Women)
     year: 2007
-    draw: Round Robin(8)
-    score: Joh 7 - Bur 4
+    draw: Round Robin(2)
+    score: Web 6 - Kle 7
   - player1:
-      team: GUS
+      team: CAR
       position: Third
-      percent: 95
+      percent: 80
       win: 1
       loss: 0
     player2:
-      team: LAY
+      team: FLE
       position: Third
-      percent: 84
+      percent: 75
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2016
-    draw: Round Robin(5)
-    score: LAY 6 - GUS 7
+    draw: Round Robin(7)
+    score: CAR 7 - FLE 4
   - player1:
       team: KLEI
       position: Third
@@ -3022,112 +2664,87 @@ vs:
     year: 2009
     draw: Round Robin(1)
     score: WEBS 8 - KLEI 3
-- name: Wheatcroft, Georgina
+- name: Whitaker, Carol
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 85
+      percent: 70
       wins: 0
       losses: 1
     player2:
-      percent: 81
+      percent: 71
       wins: 1
       losses: 0
   - event: Hearts
     player1:
-      percent: 91
+      percent: 70
       wins: 1
       losses: 0
     player2:
-      percent: 74
+      percent: 68
       wins: 0
       losses: 1
-  - event: Trials (Women)
-    player1:
-      percent: 93
-      wins: 0
-      losses: 1
-    player2:
-      percent: 90
-      wins: 1
-      losses: 0
   games:
   - player1:
-      team: Hei
+      team: Kle
       position: Third
-      percent: 85
+      percent: 70
       win: 0
       loss: 1
     player2:
-      team: Fer
+      team: Com
       position: Lead
-      percent: 81
+      percent: 71
       win: 1
       loss: 0
-    event: Canada Cup (Men)
+    event: Canada Cup (Women)
     year: 2006
     draw: Round Robin(1)
-    score: Hei 7 - Fer 8
+    score: Kle 5 - Com 6
   - player1:
       team: AB
       position: Third
-      percent: 91
+      percent: 70
       win: 1
       loss: 0
     player2:
-      team: BC
-      position: Fourth
-      percent: 74
+      team: PE
+      position: Second
+      percent: 68
       win: 0
       loss: 1
     event: Hearts
-    year: 2004
-    draw: Round Robin(17)
-    score: BC 6 - AB 7
-  - player1:
-      team: KLE
-      position: Third
-      percent: 93
-      win: 0
-      loss: 1
-    player2:
-      team: JJO
-      position: Lead
-      percent: 90
-      win: 1
-      loss: 0
-    event: Trials (Women)
-    year: 2005
-    draw: Round Robin(5)
-    score: JJO 8 - KLE 7
+    year: 2008
+    draw: Round Robin(15)
+    score: PE 7 - AB 8
 - name: Zinck, Kay
   totals:
-  - event: Canada Cup (Men)
+  - event: Canada Cup (Women)
     player1:
-      percent: 86
-      wins: 1
-      losses: 0
-    player2:
-      percent: 72
+      percent: 76
       wins: 0
       losses: 1
+    player2:
+      percent: 70
+      wins: 1
+      losses: 0
   games:
   - player1:
-      team: KOE
-      position: Fourth
-      percent: 86
-      win: 1
-      loss: 0
-    player2:
-      team: APPE
+      team: KLEI
       position: Third
-      percent: 72
+      percent: 76
       win: 0
       loss: 1
-    event: Canada Cup (Men)
+    player2:
+      team: M-AA
+      position: Third
+      percent: 70
+      win: 1
+      loss: 0
+    event: Canada Cup (Women)
     year: 2009
-    draw: Round Robin(1)
-    score: KOE 7 - APPE 2
+    draw: Round Robin(2)
+    score: M-AA 5 - KLEI 3
 - name: Nowlan, Denise
   totals:
   - event: Hearts
@@ -3312,6 +2929,98 @@ vs:
     year: 2017
     draw: Round Robin(13)
     score: NL 5 - CA 11
+- name: Potts, Sarah
+  totals:
+  - event: Hearts
+    player1:
+      percent: 81
+      wins: 3
+      losses: 2
+    player2:
+      percent: 92
+      wins: 2
+      losses: 3
+  games:
+  - player1:
+      team: AB
+      position: Third
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: 'NO'
+      position: Lead
+      percent: 94
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2016
+    draw: Round Robin(6)
+    score: AB 9 - NO 8
+  - player1:
+      team: AB
+      position: Third
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: 'NO'
+      position: Lead
+      percent: 94
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2016
+    draw: Final(22)
+    score: NO 6 - AB 7
+  - player1:
+      team: CA
+      position: Third
+      percent: 69
+      win: 0
+      loss: 1
+    player2:
+      team: 'NO'
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2017
+    draw: Round Robin(15)
+    score: CA 4 - NO 8
+  - player1:
+      team: CA
+      position: Third
+      percent: 71
+      win: 0
+      loss: 1
+    player2:
+      team: 'NO'
+      position: Lead
+      percent: 88
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2017
+    draw: Page 3-4(19)
+    score: CA 1 - NO 8
+  - player1:
+      team: CA
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: 'NO'
+      position: Lead
+      percent: 91
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2017
+    draw: Bronze(21)
+    score: CA 7 - NO 4
 - name: Rainville, Julie
   totals:
   - event: Hearts
@@ -3624,50 +3333,98 @@ vs:
     year: 2017
     draw: Round Robin(16)
     score: CA 11 - SK 5
-- name: Smith, Heather
+- name: Sippala, Ashley
   totals:
   - event: Hearts
     player1:
       percent: 81
-      wins: 1
-      losses: 1
+      wins: 3
+      losses: 2
     player2:
-      percent: 78
-      wins: 1
-      losses: 1
+      percent: 85
+      wins: 2
+      losses: 3
   games:
   - player1:
       team: AB
       position: Third
-      percent: 78
+      percent: 90
       win: 1
       loss: 0
     player2:
-      team: NS
-      position: Third
-      percent: 81
+      team: 'NO'
+      position: Second
+      percent: 83
       win: 0
       loss: 1
     event: Hearts
-    year: 2004
-    draw: Round Robin(10)
-    score: AB 9 - NS 5
+    year: 2016
+    draw: Round Robin(6)
+    score: AB 9 - NO 8
   - player1:
       team: AB
       position: Third
-      percent: 85
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: 'NO'
+      position: Second
+      percent: 71
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2016
+    draw: Final(22)
+    score: NO 6 - AB 7
+  - player1:
+      team: CA
+      position: Third
+      percent: 69
       win: 0
       loss: 1
     player2:
-      team: NS
-      position: Fourth
-      percent: 75
+      team: 'NO'
+      position: Second
+      percent: 92
       win: 1
       loss: 0
     event: Hearts
-    year: 2011
+    year: 2017
     draw: Round Robin(15)
-    score: AB 7 - NS 8
+    score: CA 4 - NO 8
+  - player1:
+      team: CA
+      position: Third
+      percent: 71
+      win: 0
+      loss: 1
+    player2:
+      team: 'NO'
+      position: Second
+      percent: 99
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2017
+    draw: Page 3-4(19)
+    score: CA 1 - NO 8
+  - player1:
+      team: CA
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: 'NO'
+      position: Second
+      percent: 83
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2017
+    draw: Bronze(21)
+    score: CA 7 - NO 4
 - name: Sobey, Lianne
   totals:
   - event: Hearts
@@ -3996,34 +3753,59 @@ vs:
     year: 2017
     draw: Round Robin(10)
     score: MB 7 - CA 8
-- name: Whitaker, Carol
+- name: Wheatcroft, Georgina
   totals:
   - event: Hearts
     player1:
-      percent: 70
+      percent: 91
       wins: 1
       losses: 0
     player2:
-      percent: 68
+      percent: 74
       wins: 0
       losses: 1
+  - event: Trials (Women)
+    player1:
+      percent: 93
+      wins: 0
+      losses: 1
+    player2:
+      percent: 90
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: AB
       position: Third
-      percent: 70
+      percent: 91
       win: 1
       loss: 0
     player2:
-      team: PE
-      position: Second
-      percent: 68
+      team: BC
+      position: Fourth
+      percent: 74
       win: 0
       loss: 1
     event: Hearts
-    year: 2008
-    draw: Round Robin(15)
-    score: PE 7 - AB 8
+    year: 2004
+    draw: Round Robin(17)
+    score: BC 6 - AB 7
+  - player1:
+      team: KLE
+      position: Third
+      percent: 93
+      win: 0
+      loss: 1
+    player2:
+      team: JJO
+      position: Lead
+      percent: 90
+      win: 1
+      loss: 0
+    event: Trials (Women)
+    year: 2005
+    draw: Round Robin(5)
+    score: JJO 8 - KLE 7
 - name: Wilkes, Sarah
   totals:
   - event: Hearts
@@ -4180,6 +3962,50 @@ vs:
     year: 2008
     draw: Round Robin(2)
     score: AB 6 - BC 4
+- name: O'Connor, Susan
+  totals:
+  - event: Trials (Women)
+    player1:
+      percent: 78
+      wins: 0
+      losses: 2
+    player2:
+      percent: 76
+      wins: 2
+      losses: 0
+  games:
+  - player1:
+      team: KLEI
+      position: Third
+      percent: 73
+      win: 0
+      loss: 1
+    player2:
+      team: BERN
+      position: Third
+      percent: 81
+      win: 1
+      loss: 0
+    event: Trials (Women)
+    year: 2009
+    draw: Round Robin(5)
+    score: BERN 8 - KLEI 5
+  - player1:
+      team: KLEI
+      position: Third
+      percent: 84
+      win: 0
+      loss: 1
+    player2:
+      team: BERN
+      position: Third
+      percent: 71
+      win: 1
+      loss: 0
+    event: Trials (Women)
+    year: 2009
+    draw: Final(11)
+    score: BERN 7 - KLEI 6
 - name: Preston, Sam
   totals:
   - event: Trials (Women)
