@@ -3,6 +3,20 @@ title: Jacquie Armstrong
 name: Jacquie Armstrong
 name-sort: Armstrong, Jacquie
 totals:
+- event: Canada Cup (Women)
+  games: 5
+  wins: 0
+  losses: 5
+  inturn-total: 45
+  inturn-percent: 84
+  outturn-total: 51
+  outturn-percent: 78
+  draw-total: 77
+  draw-percent: 80
+  takeout-total: 19
+  takeout-percent: 84
+  shots-total: 96
+  shots-percent: 81
 - event: Hearts
   games: 37
   wins: 23
@@ -32,6 +46,23 @@ totals:
   shots-total: 122
   shots-percent: 81
 years:
+- year: 2010
+  event: Canada Cup (Women)
+  team: KS
+  position: Lead
+  games: 5
+  wins: 0
+  losses: 5
+  inturn-total: 45
+  inturn-percent: 84
+  outturn-total: 51
+  outturn-percent: 78
+  draw-total: 77
+  draw-percent: 80
+  takeout-total: 19
+  takeout-percent: 84
+  shots-total: 96
+  shots-percent: 81
 - year: 2003
   event: Hearts
   team: BC
@@ -106,6 +137,7 @@ years:
   shots-percent: 81
 vs:
 - Affleck, Tricia
+- Anderson, Sherry
 - Atkinson, Rebecca
 - Babin, Jillian
 - Barbour, Shona
@@ -134,6 +166,7 @@ vs:
 - Fallis, Karen
 - Filteau, Anne-Marie
 - Fleury, Tracy
+- Foster, Kristen
 - Galusha, Kerry
 - Gates, Amanda
 - George, Tara
@@ -171,6 +204,7 @@ vs:
 - McCarville, Krista
 - McConnery, Nancy
 - McEwen, Dawn
+- Miller, Jessica
 - Miller, Wendy
 - Miskew, Emma
 - More, Whitney
@@ -191,6 +225,7 @@ vs:
 - Paul, Sarah
 - Peters, Laine
 - Phillips, Kristen
+- Potts, Sarah
 - Preston, Sam
 - Rainville, Julie
 - Ramsay, Geri Lynn

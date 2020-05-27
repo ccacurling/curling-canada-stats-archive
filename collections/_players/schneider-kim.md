@@ -3,6 +3,20 @@ title: Kim Schneider
 name: Kim Schneider
 name-sort: Schneider, Kim
 totals:
+- event: Canada Cup (Women)
+  games: 16
+  wins: 6
+  losses: 10
+  inturn-total: 159
+  inturn-percent: 78
+  outturn-total: 149
+  outturn-percent: 73
+  draw-total: 162
+  draw-percent: 75
+  takeout-total: 146
+  takeout-percent: 77
+  shots-total: 308
+  shots-percent: 76
 - event: Hearts
   games: 36
   wins: 23
@@ -32,6 +46,57 @@ totals:
   shots-total: 154
   shots-percent: 79
 years:
+- year: 2009
+  event: Canada Cup (Women)
+  team: HOLL
+  position: Third
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 53
+  inturn-percent: 80
+  outturn-total: 43
+  outturn-percent: 66
+  draw-total: 43
+  draw-percent: 69
+  takeout-total: 53
+  takeout-percent: 78
+  shots-total: 96
+  shots-percent: 74
+- year: 2010
+  event: Canada Cup (Women)
+  team: AH
+  position: Third
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 52
+  inturn-percent: 80
+  outturn-total: 42
+  outturn-percent: 78
+  draw-total: 59
+  draw-percent: 77
+  takeout-total: 35
+  takeout-percent: 83
+  shots-total: 94
+  shots-percent: 79
+- year: 2011
+  event: Canada Cup (Women)
+  team: HOL
+  position: Third
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 54
+  inturn-percent: 75
+  outturn-total: 64
+  outturn-percent: 73
+  draw-total: 60
+  draw-percent: 77
+  takeout-total: 58
+  takeout-percent: 72
+  shots-total: 118
+  shots-percent: 74
 - year: 2010
   event: Hearts
   team: SK
@@ -106,6 +171,7 @@ years:
   shots-percent: 79
 vs:
 - Affleck, Tricia
+- Anderson, Sherry
 - Armstrong, Jacquie
 - Atkinson, Rebecca
 - Babin, Jillian
@@ -117,6 +183,8 @@ vs:
 - Blais, Amelie
 - Bradley, Shelly
 - Brassard, Veronique
+- Bush, Tracy
+- Carey, Chelsea
 - Carmody, Erin
 - Carter, Sasha
 - Comeau, Martine
@@ -135,6 +203,7 @@ vs:
 - Fallis, Karen
 - Filteau, Anne-Marie
 - Fleury, Tracy
+- Foster, Kristen
 - Fraser, Sherry
 - Galusha, Kerry
 - Gates, Amanda
@@ -148,6 +217,7 @@ vs:
 - Jones, Jennifer
 - Joyce, Blisse
 - Kasner, Marliese
+- King, Cathy
 - Kleibrink, Shannon
 - Koehler, Megan
 - Korab, Stephanie
@@ -170,8 +240,10 @@ vs:
 - Materi, Roberta
 - McCarville, Krista
 - McConnery, Nancy
+- McDonald, Kristy
 - McEwen, Dawn
 - Middaugh, Sherry
+- Miller, Jessica
 - Miller, Wendy
 - Miskew, Emma
 - More, Whitney
@@ -192,11 +264,14 @@ vs:
 - Peters, Laine
 - Pewarchuk, Dailene
 - Phillips, Kristen
+- Potts, Sarah
 - Preston, Sam
 - Rainville, Julie
 - Ramsay, Geri Lynn
 - Robison, Michala
+- Rocque, Raylene
 - Rogers, Rhonda
+- Sabourin, Joelle
 - Schraeder, Jeanna
 - Scott, Kelly
 - Singler, Sherri
@@ -209,6 +284,7 @@ vs:
 - Sweeting, Val
 - Thomas, Jill
 - Thurston, Jill
+- Titheridge, Lindsay
 - Udle, Teri
 - Vey, Lana
 - Walsh, Jenna

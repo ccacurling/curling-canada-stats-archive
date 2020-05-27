@@ -3,6 +3,20 @@ title: Jan Betker
 name: Jan Betker
 name-sort: Betker, Jan
 totals:
+- event: Canada Cup (Women)
+  games: 12
+  wins: 9
+  losses: 3
+  inturn-total: 111
+  inturn-percent: 76
+  outturn-total: 115
+  outturn-percent: 77
+  draw-total: 107
+  draw-percent: 74
+  takeout-total: 119
+  takeout-percent: 79
+  shots-total: 226
+  shots-percent: 77
 - event: Hearts
   games: 113
   wins: 80
@@ -32,6 +46,40 @@ totals:
   shots-total: 350
   shots-percent: 78
 years:
+- year: 2005
+  event: Canada Cup (Women)
+  team: Bet
+  position: Fourth
+  games: 7
+  wins: 6
+  losses: 1
+  inturn-total: 62
+  inturn-percent: 77
+  outturn-total: 76
+  outturn-percent: 77
+  draw-total: 67
+  draw-percent: 74
+  takeout-total: 71
+  takeout-percent: 80
+  shots-total: 138
+  shots-percent: 77
+- year: 2006
+  event: Canada Cup (Women)
+  team: Bet
+  position: Fourth
+  games: 5
+  wins: 3
+  losses: 2
+  inturn-total: 49
+  inturn-percent: 76
+  outturn-total: 39
+  outturn-percent: 76
+  draw-total: 40
+  draw-percent: 74
+  takeout-total: 48
+  takeout-percent: 77
+  shots-total: 88
+  shots-percent: 76
 - year: 1987
   event: Hearts
   team: SK
@@ -262,9 +310,12 @@ vs:
 - Brothers, Jill
 - Brown, Katie
 - Brown, Maureen
+- Bruce, Twyla
 - Bryant, Angie
+- Burgess, Carey
 - Burlington, Cheryl
 - Burry, Gail
+- Bush, Tracy
 - Byers, Denise
 - Cameron, Nancy
 - Campbell, Gloria
@@ -299,6 +350,7 @@ vs:
 - Dunn, Anne
 - Eddy, Lori
 - Ellwood, Laurie
+- Englot, Michelle
 - Enright, Barb
 - Farrell, Allison
 - Ferland, Marie
@@ -312,6 +364,7 @@ vs:
 - Fowler, Sharon
 - Fraser, Sherry
 - Frey, Audrey
+- Froud, Susan
 - Gagnier, Monique
 - Gagnon, Karo
 - Gagnon, Nathalie
@@ -379,10 +432,12 @@ vs:
 - Lawrence, Margaret
 - Lawton, Stefanie
 - Leblanc, Lisa
+- Leger, Stacey
 - Lemay, Annie
 - Leonard, Judy
 - Lewis, Kristy
 - Lidgren, Anna
+- Loder, Cherie-Ann
 - Lowther, Tammi
 - MacAulay, Marion
 - MacCallum, Janice
@@ -407,8 +462,11 @@ vs:
 - McEdwards, Kathy
 - McHugh, Cindy
 - McInnis, Susan
+- McIvor, Jolene
+- McIvor, Michelle
 - McKnight, Patti
 - McLeod, Crystal
+- McNabb, Jody
 - McPherson, Cheryl
 - Merklinger, Anne
 - Messer, Janyce
@@ -432,6 +490,7 @@ vs:
 - O'Leary, Susan
 - O'Rourke, Kathy
 - Officer, Jill
+- Olson-Johns, Lori
 - Ondrack, Wendy
 - Osborne, Chantal
 - Overton-Clapham, Cathy
@@ -449,12 +508,15 @@ vs:
 - Putland, Rose
 - Radford, Helen
 - Rankin, Heather
+- Reddick, Audrey
 - Renouf, Michele
 - Rizzo, Jo-Ann
 - Roberts, Angela
 - Robertson, Darcy
 - Robinson, Charlene
+- Rocque, Raylene
 - Round, Coralee
+- Ruus, Karen
 - Sabourin, Joelle
 - Sanders, Pat
 - Santos, Deb
@@ -468,11 +530,14 @@ vs:
 - Shields, Deanne
 - Shields, Gail
 - Shigehiro, Sally
+- Simmons, Cindy
 - Simons, Renee
 - Singler, Sherri
 - Sipka, Joanne
 - Skinner, Julie
+- Smith, Nikki
 - Soligo, Melissa
+- Sonnenberg, Renee
 - Spencer, Barb
 - Stewart, Sheri
 - Stokes, Debbie
@@ -490,6 +555,7 @@ vs:
 - Tousignant, Helene
 - Treloar, Cathy
 - Trowell, Cathy
+- Tuck, Kim
 - Tuck, Kimberly
 - Turcotte, Kristin
 - Udle, Teri

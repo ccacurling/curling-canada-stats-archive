@@ -3,6 +3,20 @@ title: Leslie Wilson
 name: Leslie Wilson
 name-sort: Wilson, Leslie
 totals:
+- event: Canada Cup (Women)
+  games: 6
+  wins: 1
+  losses: 5
+  inturn-total: 51
+  inturn-percent: 80
+  outturn-total: 63
+  outturn-percent: 80
+  draw-total: 65
+  draw-percent: 82
+  takeout-total: 49
+  takeout-percent: 78
+  shots-total: 114
+  shots-percent: 80
 - event: Hearts
   games: 47
   wins: 28
@@ -32,6 +46,23 @@ totals:
   shots-total: 154
   shots-percent: 72
 years:
+- year: 2015
+  event: Canada Cup (Women)
+  team: MCD
+  position: Second
+  games: 6
+  wins: 1
+  losses: 5
+  inturn-total: 51
+  inturn-percent: 80
+  outturn-total: 63
+  outturn-percent: 80
+  draw-total: 65
+  draw-percent: 82
+  takeout-total: 49
+  takeout-percent: 78
+  shots-total: 114
+  shots-percent: 80
 - year: 2010
   event: Hearts
   team: MB
@@ -122,6 +153,7 @@ vs:
 - Alcoe-Holland, Jill
 - Aleksic, Shannon
 - Armstrong, Jacquie
+- Armstrong, Leigh
 - Arnaud, Chloe
 - Arsenault, Mary-Anne
 - Babin, Jillian
@@ -145,6 +177,7 @@ vs:
 - Court, Morgan
 - Courtney, Joanne
 - Crawford, Andrea
+- Crocker, Laura
 - Crouse, Jennifer
 - Curtis, Erica
 - Curtis, Stacie
@@ -167,6 +200,7 @@ vs:
 - Gagnon, Emilia
 - Galusha, Kerry
 - Gates, Amanda
+- Gates, Jennifer
 - George, Tara
 - Gibson, Amy
 - Gilman, Sheena
@@ -206,10 +240,13 @@ vs:
 - Mattatall, Mary
 - McCarville, Krista
 - McConnery, Nancy
+- McDonald, Taylor
 - McEvoy, Julie
 - McEwen, Dawn
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
+- Merklinger, Lee
+- Middaugh, Sherry
 - Miller, Wendy
 - Miskew, Emma
 - Moore, Kristie
@@ -236,6 +273,8 @@ vs:
 - Rainville, Julie
 - Ramsay, Geri Lynn
 - Richards, Brette
+- Rizzo, Jo-Ann
+- Rocque, Kelsey
 - Rogers, Leslie
 - Rogers, Rhonda
 - Sagle, Karen
@@ -260,6 +299,7 @@ vs:
 - Van Osch, Kesa
 - Van Osch, Marika
 - Vink, Rachelle
+- Walsh, Jenna
 - Weagle, Lisa
 - Webster, Bronwen
 - Webster, Crystal

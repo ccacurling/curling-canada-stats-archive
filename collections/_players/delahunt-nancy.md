@@ -3,6 +3,20 @@ title: Nancy Delahunt
 name: Nancy Delahunt
 name-sort: Delahunt, Nancy
 totals:
+- event: Canada Cup (Women)
+  games: 17
+  wins: 10
+  losses: 7
+  inturn-total: 103
+  inturn-percent: 86
+  outturn-total: 226
+  outturn-percent: 86
+  draw-total: 240
+  draw-percent: 86
+  takeout-total: 89
+  takeout-percent: 86
+  shots-total: 329
+  shots-percent: 86
 - event: Hearts
   games: 136
   wins: 86
@@ -32,6 +46,57 @@ totals:
   shots-total: 356
   shots-percent: 85
 years:
+- year: 2003
+  event: Canada Cup (Women)
+  team: Jone
+  position: Lead
+  games: 4
+  wins: 2
+  losses: 2
+  inturn-total: 27
+  inturn-percent: 89
+  outturn-total: 53
+  outturn-percent: 92
+  draw-total: 65
+  draw-percent: 91
+  takeout-total: 15
+  takeout-percent: 90
+  shots-total: 80
+  shots-percent: 91
+- year: 2004
+  event: Canada Cup (Women)
+  team: CJO
+  position: Lead
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 41
+  inturn-percent: 80
+  outturn-total: 93
+  outturn-percent: 81
+  draw-total: 98
+  draw-percent: 81
+  takeout-total: 36
+  takeout-percent: 79
+  shots-total: 134
+  shots-percent: 81
+- year: 2005
+  event: Canada Cup (Women)
+  team: Jon
+  position: Lead
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 35
+  inturn-percent: 92
+  outturn-total: 80
+  outturn-percent: 89
+  draw-total: 77
+  draw-percent: 89
+  takeout-total: 38
+  takeout-percent: 91
+  shots-total: 115
+  shots-percent: 90
 - year: 1991
   event: Hearts
   team: NS
@@ -280,6 +345,7 @@ vs:
 - Bell, Chelsey
 - Bell, Patty
 - Belley, Joelle
+- Bergner, Sasha
 - Bernard, Cheryl
 - Bernard, Krista
 - Berthelot, Janique
@@ -292,12 +358,14 @@ vs:
 - Bodogh, Marilyn
 - Bohmer, Brenda
 - Bonar, Maureen
+- Borne, Brandee
 - Bowman, Mary
 - Bradley, Shelly
 - Breen, Theresa
 - Brennan, Amanda
 - Brown, Jacalyn
 - Brown, Janet
+- Burgess, Allyson
 - Burgess, Carey
 - Burlington, Cheryl
 - Busche, Jodi
@@ -347,6 +415,7 @@ vs:
 - Fraser, Sherry
 - Freeman, Lisa
 - Frey, Audrey
+- Froud, Susan
 - Gagnier, Monique
 - Gagnon, Karo
 - Gagnon, Nathalie
@@ -387,6 +456,7 @@ vs:
 - Hunter, Lana
 - Hutton, Barb
 - Iskiw, Beth
+- Johnston, Atina
 - Jones, Jennifer
 - Jones-Walker, Debbie
 - Jurgenson, Christine
@@ -456,6 +526,7 @@ vs:
 - Moriarty, Monica
 - Moses, Dawn
 - Moss, Debbie
+- Mossman, Angela
 - Muise, Morgan
 - Mulroney, Sandra
 - Naugler, Tara
@@ -472,6 +543,7 @@ vs:
 - Ondrack, Wendy
 - Osborne, Chantal
 - Overton-Clapham, Cathy
+- Pasika, Rona
 - Pendergast, Judy
 - Peters, Laine
 - Phillips, Laura
@@ -482,6 +554,7 @@ vs:
 - Purdy, Karen
 - Radchenka, Tammy
 - Rainville, Julie
+- Reddick, Audrey
 - Reed, Shellan
 - Renouf, Michele
 - Richard, Marie
@@ -490,6 +563,7 @@ vs:
 - Robertson, Darcy
 - Robichaud, Sylvie
 - Robinson, Lori
+- Rocheleau, Patty
 - Rocque, Raylene
 - Ross, Allison
 - Rudulier, Andrea
@@ -511,6 +585,7 @@ vs:
 - Singler, Sherri
 - Skinner, Julie
 - Smith, Heather
+- Smith, Nikki
 - Snider, Shelly
 - Sonnenberg, Renee
 - Spencer, Barb
@@ -534,6 +609,7 @@ vs:
 - Todd, Fran
 - Train, Mona
 - Trider, Krista
+- Tuck, Kim
 - Tuck, Kimberly
 - Tucker, Cindy
 - Unrau, Faye

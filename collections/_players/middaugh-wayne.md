@@ -17,6 +17,20 @@ totals:
   takeout-percent: 87
   shots-total: 2133
   shots-percent: 86
+- event: Canada Cup (Men)
+  games: 36
+  wins: 23
+  losses: 13
+  inturn-total: 294
+  inturn-percent: 81
+  outturn-total: 377
+  outturn-percent: 86
+  draw-total: 276
+  draw-percent: 83
+  takeout-total: 395
+  takeout-percent: 84
+  shots-total: 671
+  shots-percent: 84
 - event: Trials (Men)
   games: 32
   wins: 9
@@ -185,6 +199,91 @@ years:
   takeout-percent: 89
   shots-total: 256
   shots-percent: 88
+- year: 2004
+  event: Canada Cup (Men)
+  team: MID
+  position: Fourth
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 45
+  inturn-percent: 76
+  outturn-total: 60
+  outturn-percent: 84
+  draw-total: 49
+  draw-percent: 82
+  takeout-total: 56
+  takeout-percent: 79
+  shots-total: 105
+  shots-percent: 80
+- year: 2009
+  event: Canada Cup (Men)
+  team: WMID
+  position: Fourth
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 46
+  inturn-percent: 80
+  outturn-total: 66
+  outturn-percent: 82
+  draw-total: 47
+  draw-percent: 80
+  takeout-total: 65
+  takeout-percent: 82
+  shots-total: 112
+  shots-percent: 81
+- year: 2010
+  event: Canada Cup (Men)
+  team: GH
+  position: Third
+  games: 8
+  wins: 7
+  losses: 1
+  inturn-total: 54
+  inturn-percent: 85
+  outturn-total: 98
+  outturn-percent: 90
+  draw-total: 55
+  draw-percent: 89
+  takeout-total: 97
+  takeout-percent: 88
+  shots-total: 152
+  shots-percent: 88
+- year: 2011
+  event: Canada Cup (Men)
+  team: HOW
+  position: Third
+  games: 8
+  wins: 5
+  losses: 3
+  inturn-total: 75
+  inturn-percent: 81
+  outturn-total: 79
+  outturn-percent: 90
+  draw-total: 60
+  draw-percent: 90
+  takeout-total: 94
+  takeout-percent: 83
+  shots-total: 154
+  shots-percent: 85
+- year: 2012
+  event: Canada Cup (Men)
+  team: HOW
+  position: Third
+  games: 8
+  wins: 5
+  losses: 3
+  inturn-total: 74
+  inturn-percent: 81
+  outturn-total: 74
+  outturn-percent: 83
+  draw-total: 65
+  draw-percent: 77
+  takeout-total: 83
+  takeout-percent: 86
+  shots-total: 148
+  shots-percent: 82
 - year: 1997
   event: Trials (Men)
   team: MID
@@ -276,6 +375,7 @@ vs:
 - Bailey, Scott
 - Bardsley, Mike
 - Bartlett, Don
+- Bawel, Brent
 - Bentley, Dan
 - Bentley, Darren
 - Bilesky, Andrew
@@ -293,6 +393,7 @@ vs:
 - Butler, Mark
 - Butler, Mike
 - Butler, Ted
+- Camm, Mathew
 - Campbell, Robert
 - Carey, Dan
 - Carmody, Anson
@@ -310,6 +411,7 @@ vs:
 - Coster, Dave
 - Cotter, Jim
 - Crete, Martin
+- Cripps, Scott
 - Cunningham, Geoff
 - Dacey, Mark
 - Daneault, Richard
@@ -355,6 +457,7 @@ vs:
 - Gaudet, Mike
 - Germsheid, Tony
 - Gervais, Martin
+- Gibson, Andrew
 - Gorveatt, Philip
 - Goss, Glenn
 - Gould, Steve
@@ -370,6 +473,7 @@ vs:
 - Hackner, Al
 - Haichert, Chris
 - Haines, Chuck
+- Hamilton, Andrew
 - Hamilton, Wayne
 - Hannah, Brad
 - Harcourt, Doug
@@ -377,6 +481,7 @@ vs:
 - Harnden, E.J.
 - Harnden, Ryan
 - Harris, Mike
+- Harris, Rob
 - Harris, Tom
 - Harris, Tyler
 - Harrison, Neil
@@ -391,16 +496,21 @@ vs:
 - Horning, Deane
 - Howard, Glenn
 - Howard, Russ
+- Howard, Scott
+- Howard, Steven
 - Iskiw, Blayne
 - Iverson, Dave
 - Jackson, Glen
 - Jacobs, Brad
 - Jakubo, Mike
+- Jantzen, Mike
 - Joanisse, Dean
 - Johnston, Steve
 - Johnston, Wade
+- Jones, Brennen
 - Jones, Dave
 - Jones, Scott
+- Jordison, Joel
 - Kalthoff, Kevin
 - Karrys, George
 - Kawaja, John
@@ -482,6 +592,7 @@ vs:
 - Mitchell, Garth
 - Mitchell, Gary
 - Mittelstadt, Kelly
+- Moffatt, Paul
 - Monkman, Greg
 - Montgomery, Rod
 - Morris, John
@@ -491,6 +602,7 @@ vs:
 - Moss, Steve
 - Munroe, Steven
 - Murphy, Jamie
+- Muyres, Dallan
 - Naugler, Tom
 - Nedohin, David
 - Ness, Dale
@@ -502,6 +614,7 @@ vs:
 - Nobert, Rob
 - Noseworthy, Mark
 - Novakowski, Bob
+- O'Connor, Sean
 - O'Driscoll, Frank
 - O'Leary, Alan
 - O'Rourke, Mark
@@ -576,6 +689,7 @@ vs:
 - Stambaugh, Doug
 - Stokes, Lionel
 - Stoughton, Jeff
+- Sulimma, Hardi
 - Sullivan, Charles Jr
 - Sullivan, Jim
 - Sullivan, Tommy
@@ -597,6 +711,7 @@ vs:
 - Van Den Berghe, Garry
 - Van Dine, Steve
 - Vandenberghe, Garry
+- Vaughan, Jason
 - Villeneuve, Steeve
 - Virtue, Brock
 - Walchuk, Don
@@ -605,6 +720,7 @@ vs:
 - Watson, Aaron
 - Wempe, Brian
 - Werenich, Ed
+- Westlund, Mike
 - Westphal, Don
 - Whittle, Mark
 - Wiersema, Dale

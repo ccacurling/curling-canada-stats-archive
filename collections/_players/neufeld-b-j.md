@@ -17,6 +17,20 @@ totals:
   takeout-percent: 88
   shots-total: 1178
   shots-percent: 87
+- event: Canada Cup (Men)
+  games: 66
+  wins: 36
+  losses: 30
+  inturn-total: 530
+  inturn-percent: 83
+  outturn-total: 696
+  outturn-percent: 84
+  draw-total: 466
+  draw-percent: 80
+  takeout-total: 760
+  takeout-percent: 86
+  shots-total: 1226
+  shots-percent: 83
 - event: Trials (Men)
   games: 17
   wins: 9
@@ -117,6 +131,159 @@ years:
   takeout-percent: 88
   shots-total: 216
   shots-percent: 86
+- year: 2008
+  event: Canada Cup (Men)
+  team: MCEW
+  position: Third
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 46
+  inturn-percent: 85
+  outturn-total: 66
+  outturn-percent: 80
+  draw-total: 63
+  draw-percent: 81
+  takeout-total: 49
+  takeout-percent: 83
+  shots-total: 112
+  shots-percent: 82
+- year: 2009
+  event: Canada Cup (Men)
+  team: MCEW
+  position: Third
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 37
+  inturn-percent: 74
+  outturn-total: 51
+  outturn-percent: 87
+  draw-total: 34
+  draw-percent: 72
+  takeout-total: 54
+  takeout-percent: 88
+  shots-total: 88
+  shots-percent: 82
+- year: 2010
+  event: Canada Cup (Men)
+  team: MM
+  position: Third
+  games: 6
+  wins: 4
+  losses: 2
+  inturn-total: 44
+  inturn-percent: 72
+  outturn-total: 60
+  outturn-percent: 80
+  draw-total: 39
+  draw-percent: 70
+  takeout-total: 65
+  takeout-percent: 81
+  shots-total: 104
+  shots-percent: 77
+- year: 2011
+  event: Canada Cup (Men)
+  team: MCE
+  position: Third
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 39
+  inturn-percent: 79
+  outturn-total: 67
+  outturn-percent: 86
+  draw-total: 49
+  draw-percent: 82
+  takeout-total: 57
+  takeout-percent: 85
+  shots-total: 106
+  shots-percent: 83
+- year: 2012
+  event: Canada Cup (Men)
+  team: MCE
+  position: Third
+  games: 8
+  wins: 5
+  losses: 3
+  inturn-total: 78
+  inturn-percent: 80
+  outturn-total: 78
+  outturn-percent: 82
+  draw-total: 68
+  draw-percent: 75
+  takeout-total: 88
+  takeout-percent: 86
+  shots-total: 156
+  shots-percent: 81
+- year: 2014
+  event: Canada Cup (Men)
+  team: GUS
+  position: Third
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 40
+  inturn-percent: 71
+  outturn-total: 72
+  outturn-percent: 80
+  draw-total: 38
+  draw-percent: 68
+  takeout-total: 74
+  takeout-percent: 81
+  shots-total: 112
+  shots-percent: 77
+- year: 2015
+  event: Canada Cup (Men)
+  team: MCE
+  position: Third
+  games: 8
+  wins: 5
+  losses: 3
+  inturn-total: 75
+  inturn-percent: 89
+  outturn-total: 73
+  outturn-percent: 86
+  draw-total: 52
+  draw-percent: 88
+  takeout-total: 96
+  takeout-percent: 87
+  shots-total: 148
+  shots-percent: 87
+- year: 2016
+  event: Canada Cup (Men)
+  team: MCE
+  position: Third
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 62
+  inturn-percent: 91
+  outturn-total: 60
+  outturn-percent: 85
+  draw-total: 39
+  draw-percent: 90
+  takeout-total: 83
+  takeout-percent: 87
+  shots-total: 122
+  shots-percent: 88
+- year: 2019
+  event: Canada Cup (Men)
+  team: Koe
+  position: Third
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 54
+  inturn-percent: 85
+  outturn-total: 76
+  outturn-percent: 87
+  draw-total: 44
+  draw-percent: 82
+  takeout-total: 86
+  takeout-percent: 88
+  shots-total: 130
+  shots-percent: 86
 - year: 2013
   event: Trials (Men)
   team: MCE
@@ -152,6 +319,7 @@ years:
   shots-total: 192
   shots-percent: 84
 vs:
+- Adam, Gerry
 - Aho, David
 - Appelman, Tom
 - Ardiel, Taylor
@@ -166,6 +334,7 @@ vs:
 - Casey, Adam
 - Chadwick, Scott
 - Chorostkowski, Brad
+- Collin, Simon
 - Colter, Travis
 - Cotter, Jim
 - Crete, Martin
@@ -175,40 +344,51 @@ vs:
 - Dunstone, Matthew
 - Epping, John
 - Fecteau, Steve
+- Ferbey, Randy
 - Flasch, Colton
 - Flemming, Paul
 - Forget, Wes
 - Forrest, Alex
+- Fowler, Rob
 - Fry, Ryan
 - Gallant, Brett
 - Geall, Sean
+- Gionest, Francois
+- Gould, Steve
 - Grattan, James
 - Griffith, Ty
 - Griffith, Tyrel
 - Gunnlaugson, Jason
 - Gushue, Brad
+- Hamilton, Andrew
 - Harnden, E.J.
 - Harnden, Ryan
 - Hart, Richard
 - Hebert, Ben
 - Hodgson, Colin
 - Howard, Glenn
+- Howard, Russ
 - Howard, Scott
+- Howard, Steven
 - Hunt, Matthew
 - Jacobs, Brad
 - Janssen, Patrick
 - Jensen, Trygg
+- Jones, Brennen
 - Jones, Scott
+- Jordison, Joel
 - Kendall, Lloyd
 - Kennedy, Marc
 - Kennedy, Mike
 - Kidby, Dustin
 - Koe, Jamie
 - Koe, Kevin
+- Korab, Jamie
 - Kuhn, Ryan
 - Laing, Brent
 - Laycock, Steve
 - LeCocq, Marc
+- MacDonald, Blake
 - Mackey, Peter
 - March, Tim
 - Marsh, Dan
@@ -222,6 +402,7 @@ vs:
 - McLeod, Shadrach
 - Meachem, Shaun Myles
 - Mead, Jon
+- Mead, Jonathan
 - Menard, Jean-Michel
 - Menard, Philippe
 - Middaugh, Wayne
@@ -235,14 +416,19 @@ vs:
 - Nadeau, Jeff
 - Nedohin, David
 - Nerpin, Andrew
+- Neufeld, Denni
 - Ng, Matt
 - Nichols, Mark
 - Njegovan, Connor
 - Odishaw, Grant
 - Odishaw, Terry
+- Park, Kevin
 - Parsons, Cole
+- Pfeifer, Scott
 - Pinder, Jordan
+- Reid, Serge
 - Richard, Jeff
+- Rocque, Marcel
 - Rycroft, Carter
 - Saccary, Scott
 - Samagalski, Derek
@@ -252,6 +438,8 @@ vs:
 - Schneider, Catlin
 - Scoffin, Thomas
 - Scoffin, Wade
+- Seabrook, Scott
+- Sharp, Jeff
 - Simmons, Pat
 - Smith, Greg
 - Spencer, Adam
@@ -262,10 +450,14 @@ vs:
 - Taylor, Andrew
 - Thiessen, Brad
 - Thiessen, Nolan
+- Thomas, Charley
 - Thompson, Stuart
+- Vaughan, Jason
+- Villeneuve, Steeve
 - Walker, Geoff
 - Wallingham, Joe
 - Winfield, Brett
 - Withycombe, Ian
 - Wood, Brad
+- Wozniak, Matt
 ---

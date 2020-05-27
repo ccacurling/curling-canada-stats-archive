@@ -3,6 +3,20 @@ title: Krista McCarville
 name: Krista McCarville
 name-sort: McCarville, Krista
 totals:
+- event: Canada Cup (Women)
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 61
+  inturn-percent: 71
+  outturn-total: 49
+  outturn-percent: 79
+  draw-total: 64
+  draw-percent: 71
+  takeout-total: 46
+  takeout-percent: 79
+  shots-total: 110
+  shots-percent: 74
 - event: Hearts
   games: 100
   wins: 59
@@ -32,6 +46,23 @@ totals:
   shots-total: 338
   shots-percent: 80
 years:
+- year: 2010
+  event: Canada Cup (Women)
+  team: KM
+  position: Fourth
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 61
+  inturn-percent: 71
+  outturn-total: 49
+  outturn-percent: 79
+  draw-total: 64
+  draw-percent: 71
+  takeout-total: 46
+  takeout-percent: 79
+  shots-total: 110
+  shots-percent: 74
 - year: 2006
   event: Hearts
   team: 'ON'
@@ -206,6 +237,7 @@ vs:
 - Affleck, Tricia
 - Alcoe-Holland, Jill
 - Aleksic, Shannon
+- Anderson, Sherry
 - Armstrong, Jacquie
 - Armstrong, Jennifer
 - Arnott, Janet
@@ -278,6 +310,7 @@ vs:
 - Flaxey, Allison
 - Fleury, Tracy
 - Forward, Katie
+- Foster, Kristen
 - Fullerton, Sarah
 - Fyfe, Liz
 - Gagnier, Monique
@@ -303,6 +336,7 @@ vs:
 - Hughes, Meaghan
 - Hunkin, Jessie
 - Inglis, Nancy
+- Iskiw, Beth
 - Jewer, Michelle
 - Jones, Colleen
 - Jones, Jennifer
@@ -344,6 +378,7 @@ vs:
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
 - Meilleur, Briane
+- Miller, Jessica
 - Miskew, Emma
 - Moore, Kristie
 - More, Whitney
@@ -356,6 +391,7 @@ vs:
 - Murphy, Sarah
 - Muzika, Shelley
 - Naugler, Tara
+- Nedohin, Heather
 - Nicholls, Brenda
 - Nixon, Amy
 - Njegovan, Selena

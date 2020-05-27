@@ -3,6 +3,20 @@ title: Sandra Mulroney
 name: Sandra Mulroney
 name-sort: Mulroney, Sandra
 totals:
+- event: Canada Cup (Women)
+  games: 11
+  wins: 6
+  losses: 5
+  inturn-total: 108
+  inturn-percent: 82
+  outturn-total: 114
+  outturn-percent: 78
+  draw-total: 86
+  draw-percent: 77
+  takeout-total: 136
+  takeout-percent: 82
+  shots-total: 222
+  shots-percent: 80
 - event: Hearts
   games: 37
   wins: 24
@@ -32,6 +46,40 @@ totals:
   shots-total: 384
   shots-percent: 82
 years:
+- year: 2003
+  event: Canada Cup (Women)
+  team: Ande
+  position: Second
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 39
+  inturn-percent: 80
+  outturn-total: 63
+  outturn-percent: 80
+  draw-total: 41
+  draw-percent: 79
+  takeout-total: 61
+  takeout-percent: 81
+  shots-total: 102
+  shots-percent: 80
+- year: 2004
+  event: Canada Cup (Women)
+  team: AND
+  position: Second
+  games: 6
+  wins: 4
+  losses: 2
+  inturn-total: 69
+  inturn-percent: 83
+  outturn-total: 51
+  outturn-percent: 75
+  draw-total: 45
+  draw-percent: 76
+  takeout-total: 75
+  takeout-percent: 83
+  shots-total: 120
+  shots-percent: 80
 - year: 1996
   event: Hearts
   team: SK
@@ -129,6 +177,7 @@ vs:
 - Bell, Allyson
 - Bell, Patty
 - Belley, Joelle
+- Bergner, Sasha
 - Bernard, Cheryl
 - Bernard, Krista
 - Betker, Jan
@@ -141,12 +190,16 @@ vs:
 - Bohmer, Brenda
 - Bonar, Maureen
 - Bowman, Mary
+- Breen, Theresa
 - Breen, Thersa
 - Brown, Janet
 - Bryant, Angie
+- Bryden, Renelle
 - Burlington, Cheryl
 - Busche, Jodi
 - Cey, Naomi
+- Clarke, Hayley
+- Comstock, Melanie
 - Cooke, Gerri
 - Cordina, Sheri
 - Cormier, Sharon
@@ -158,6 +211,7 @@ vs:
 - Dorosz, Peggy
 - Eddy, Lori
 - Englot, Michelle
+- Enright, Barb
 - Fallis, Karen
 - Fallis-Kurz, Lynn
 - Farrell, Allison
@@ -169,10 +223,12 @@ vs:
 - Fraser, Sherry
 - Freeman, Lisa
 - Frey, Audrey
+- Froud, Susan
 - Gagnier, Monique
 - Gagnon, Karo
 - Gagnon, Nathalie
 - Garnett, Lorelei
+- Gatchell, Sara
 - Gauthier, Cathy
 - Gellard, Kim
 - Godberson, Heather
@@ -193,6 +249,7 @@ vs:
 - Hunter, Lana
 - Hutton, Barb
 - Iskiw, Beth
+- Jackson, Virginia
 - Jones, Colleen
 - Jones, Jennifer
 - Jurgenson, Christine
@@ -220,6 +277,7 @@ vs:
 - Martin, Heather
 - Materi, Roberta
 - Mattatall, Mary
+- Mattheis, Shannon
 - McCusker, Joan
 - McInnis, Susan
 - McKnight, Patti
@@ -241,22 +299,31 @@ vs:
 - Power, Marie-Anne
 - Purdy, Karen
 - Rainville, Julie
+- Richard, Jeanna
+- Robertson, Darcy
 - Robinson, Lori
 - Ruus, Karen
 - Scales, Julie
 - Schmirler, Sandra
+- Schraeder, Jeanna
 - Scott, Donna
+- Scott, Kelly
+- Shantz, Penny
 - Shephard, Wendy
 - Sherrington, Barb
+- Simons, Renee
 - Sipka, Joanne
 - Skinner, Julie
 - Smith, Heather
+- Smith, Nancy
 - Snider, Shelly
+- Spencer, Barb
 - Stabel, Stacey
 - Stewart, Sheri
 - Stricker, Joan
 - Thurston, Jill
 - Trider, Krista
+- Unrau, Faye
 - Wall, Kirsten
 - Webster, Bronwen
 - Wheatcroft, Georgina

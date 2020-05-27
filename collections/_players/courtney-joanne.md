@@ -3,6 +3,20 @@ title: Joanne Courtney
 name: Joanne Courtney
 name-sort: Courtney, Joanne
 totals:
+- event: Canada Cup (Women)
+  games: 37
+  wins: 27
+  losses: 10
+  inturn-total: 381
+  inturn-percent: 82
+  outturn-total: 319
+  outturn-percent: 83
+  draw-total: 280
+  draw-percent: 78
+  takeout-total: 420
+  takeout-percent: 86
+  shots-total: 700
+  shots-percent: 83
 - event: Hearts
   games: 69
   wins: 51
@@ -32,6 +46,91 @@ totals:
   shots-total: 334
   shots-percent: 81
 years:
+- year: 2014
+  event: Canada Cup (Women)
+  team: HOM
+  position: Second
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 74
+  inturn-percent: 80
+  outturn-total: 56
+  outturn-percent: 89
+  draw-total: 44
+  draw-percent: 77
+  takeout-total: 86
+  takeout-percent: 87
+  shots-total: 130
+  shots-percent: 84
+- year: 2015
+  event: Canada Cup (Women)
+  team: HOM
+  position: Second
+  games: 7
+  wins: 6
+  losses: 1
+  inturn-total: 81
+  inturn-percent: 89
+  outturn-total: 53
+  outturn-percent: 82
+  draw-total: 51
+  draw-percent: 84
+  takeout-total: 83
+  takeout-percent: 87
+  shots-total: 134
+  shots-percent: 86
+- year: 2016
+  event: Canada Cup (Women)
+  team: HOM
+  position: Second
+  games: 8
+  wins: 5
+  losses: 3
+  inturn-total: 67
+  inturn-percent: 81
+  outturn-total: 83
+  outturn-percent: 81
+  draw-total: 70
+  draw-percent: 78
+  takeout-total: 80
+  takeout-percent: 84
+  shots-total: 150
+  shots-percent: 81
+- year: 2018
+  event: Canada Cup (Women)
+  team: Homa
+  position: Second
+  games: 8
+  wins: 5
+  losses: 3
+  inturn-total: 82
+  inturn-percent: 80
+  outturn-total: 68
+  outturn-percent: 85
+  draw-total: 69
+  draw-percent: 77
+  takeout-total: 81
+  takeout-percent: 86
+  shots-total: 150
+  shots-percent: 82
+- year: 2019
+  event: Canada Cup (Women)
+  team: Homa
+  position: Second
+  games: 7
+  wins: 6
+  losses: 1
+  inturn-total: 77
+  inturn-percent: 82
+  outturn-total: 59
+  outturn-percent: 80
+  draw-total: 46
+  draw-percent: 77
+  takeout-total: 90
+  takeout-percent: 83
+  shots-total: 136
+  shots-percent: 81
 - year: 2014
   event: Hearts
   team: AB
@@ -163,6 +262,7 @@ vs:
 - Barker, Penny
 - Baxter, Jen
 - Belisle, Eve
+- Bernard, Cheryl
 - Birchard, Shannon
 - Birnie, Hailey
 - Birt, Suzanne
@@ -180,6 +280,7 @@ vs:
 - Brown, Rachel
 - Cameron, Kate
 - Camozzi, Rhona
+- Cannon, Theresa
 - Carey, Chelsea
 - Carmody, Erin
 - Christianson, Marie
@@ -189,6 +290,7 @@ vs:
 - Cottrill, Katie
 - Court, Morgan
 - Crawford, Andrea
+- Crocker, Laura
 - Cunningham, Jessica
 - Curtis, Erica
 - Curtis, Stacie
@@ -212,6 +314,7 @@ vs:
 - Flaxey, Allison
 - Fleury, Tracy
 - Foster, Kristen
+- Foster, Vanessa
 - Fullerton, Sarah
 - Fyfe, Liz
 - Galusha, Kerry
@@ -222,6 +325,7 @@ vs:
 - Griffin, Alison
 - Hamilton, Beth
 - Hastings, Julie
+- Haughian, Jessie
 - Hawes, Dezaray
 - Hill, Trish
 - Homan, Rachel
@@ -232,6 +336,7 @@ vs:
 - Joyce, Blisse
 - Kasner, Marliese
 - Kleibrink, Shannon
+- Klein, Karen
 - Klymchuk, Ashley
 - Knezevic, Patti
 - Koehler, Megan
@@ -254,6 +359,7 @@ vs:
 - Mattatall, Mary
 - McCarville, Krista
 - McDonald, Kristy
+- McDonald, Taylor
 - McEwen, Dawn
 - McInnis, Susan
 - McQuaid, Michelle
@@ -287,8 +393,10 @@ vs:
 - Richard, Marie
 - Richards, Brette
 - Rizzo, Jo-Ann
+- Robertson, Darcy
 - Robichaud, Sylvie
 - Robison, Michala
+- Rocque, Kelsey
 - Ross, Allison
 - Rusnell, Jen
 - Sanderson, Jessie
@@ -325,6 +433,7 @@ vs:
 - Walsh, Jenna
 - Wark, Sarah
 - Weagle, Lisa
+- Webster, Crystal
 - Westcott, Raunora
 - Wilkes, Sarah
 - Wilson, Leslie

@@ -2,6 +2,590 @@
 title: Roberta Materi Head-to-head
 name: Materi, Roberta
 vs:
+- name: Morris, Cori
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 74
+      wins: 0
+      losses: 1
+    player2:
+      percent: 85
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: FERB
+      position: Second
+      percent: 74
+      win: 0
+      loss: 1
+    player2:
+      team: BURT
+      position: Lead
+      percent: 85
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(4)
+    score: FERB 4 - BURT 7
+- name: Nixon, Amy
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 1
+      losses: 0
+    player2:
+      percent: 84
+      wins: 0
+      losses: 1
+  - event: Hearts
+    player1:
+      percent: 70
+      wins: 0
+      losses: 1
+    player2:
+      percent: 91
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: FERB
+      position: Second
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: KOE
+      position: Third
+      percent: 84
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(7)
+    score: KOE 5 - FERB 6
+  - player1:
+      team: SK
+      position: Second
+      percent: 70
+      win: 0
+      loss: 1
+    player2:
+      team: AB
+      position: Third
+      percent: 91
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2008
+    draw: Round Robin(17)
+    score: AB 10 - SK 3
+- name: O'Connor, Susan
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 74
+      wins: 0
+      losses: 1
+    player2:
+      percent: 67
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: FERB
+      position: Second
+      percent: 74
+      win: 0
+      loss: 1
+    player2:
+      team: BURT
+      position: Third
+      percent: 67
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(4)
+    score: FERB 4 - BURT 7
+- name: Peters, Laine
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 85
+      wins: 1
+      losses: 0
+    player2:
+      percent: 90
+      wins: 0
+      losses: 1
+  - event: Hearts
+    player1:
+      percent: 79
+      wins: 0
+      losses: 2
+    player2:
+      percent: 81
+      wins: 2
+      losses: 0
+  games:
+  - player1:
+      team: FERB
+      position: Second
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: APPE
+      position: Second
+      percent: 90
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(3)
+    score: APPE 2 - FERB 6
+  - player1:
+      team: SK
+      position: Second
+      percent: 70
+      win: 0
+      loss: 1
+    player2:
+      team: NS
+      position: Second
+      percent: 77
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2008
+    draw: Round Robin(10)
+    score: SK 4 - NS 8
+  - player1:
+      team: SK
+      position: Second
+      percent: 86
+      win: 0
+      loss: 1
+    player2:
+      team: AB
+      position: Lead
+      percent: 86
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2012
+    draw: Round Robin(12)
+    score: SK 8 - AB 9
+- name: Sabourin, Joelle
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 86
+      wins: 1
+      losses: 1
+    player2:
+      percent: 85
+      wins: 1
+      losses: 1
+  - event: Hearts
+    player1:
+      percent: 79
+      wins: 0
+      losses: 1
+    player2:
+      percent: 64
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: FERB
+      position: Second
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: MART
+      position: Second
+      percent: 84
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Page 1-2(11)
+    score: MART 2 - FERB 6
+  - player1:
+      team: FERB
+      position: Second
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: MART
+      position: Second
+      percent: 86
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Final(13)
+    score: MART 8 - FERB 5
+  - player1:
+      team: SK
+      position: Second
+      percent: 79
+      win: 0
+      loss: 1
+    player2:
+      team: QC
+      position: Lead
+      percent: 64
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2008
+    draw: Round Robin(1)
+    score: QC 9 - SK 6
+- name: Schraeder, Jeanna
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 91
+      wins: 1
+      losses: 0
+    player2:
+      percent: 78
+      wins: 0
+      losses: 1
+  - event: Hearts
+    player1:
+      percent: 88
+      wins: 1
+      losses: 0
+    player2:
+      percent: 83
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: FERB
+      position: Second
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: STOU
+      position: Third
+      percent: 78
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(8)
+    score: FERB 9 - STOU 5
+  - player1:
+      team: SK
+      position: Second
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: CA
+      position: Third
+      percent: 83
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2008
+    draw: Round Robin(5)
+    score: CA 6 - SK 8
+- name: Scott, Kelly
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 91
+      wins: 1
+      losses: 0
+    player2:
+      percent: 66
+      wins: 0
+      losses: 1
+  - event: Hearts
+    player1:
+      percent: 78
+      wins: 1
+      losses: 1
+    player2:
+      percent: 74
+      wins: 1
+      losses: 1
+  games:
+  - player1:
+      team: FERB
+      position: Second
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: STOU
+      position: Fourth
+      percent: 66
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(8)
+    score: FERB 9 - STOU 5
+  - player1:
+      team: SK
+      position: Second
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: CA
+      position: Fourth
+      percent: 71
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2008
+    draw: Round Robin(5)
+    score: CA 6 - SK 8
+  - player1:
+      team: SK
+      position: Second
+      percent: 69
+      win: 0
+      loss: 1
+    player2:
+      team: BC
+      position: Fourth
+      percent: 76
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2012
+    draw: Round Robin(4)
+    score: BC 10 - SK 8
+- name: Simons, Renee
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 91
+      wins: 1
+      losses: 0
+    player2:
+      percent: 86
+      wins: 0
+      losses: 1
+  - event: Hearts
+    player1:
+      percent: 88
+      wins: 1
+      losses: 0
+    player2:
+      percent: 83
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: FERB
+      position: Second
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: STOU
+      position: Lead
+      percent: 86
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(8)
+    score: FERB 9 - STOU 5
+  - player1:
+      team: SK
+      position: Second
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: CA
+      position: Lead
+      percent: 83
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2008
+    draw: Round Robin(5)
+    score: CA 6 - SK 8
+- name: Singler, Sherri
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 90
+      wins: 1
+      losses: 0
+    player2:
+      percent: 79
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: FERB
+      position: Second
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: MCEW
+      position: Second
+      percent: 79
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(9)
+    score: MCEW 7 - FERB 8
+- name: Vey, Lana
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 90
+      wins: 1
+      losses: 0
+    player2:
+      percent: 94
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: FERB
+      position: Second
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: MCEW
+      position: Lead
+      percent: 94
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(9)
+    score: MCEW 7 - FERB 8
+- name: Webster, Bronwen
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 1
+      losses: 0
+    player2:
+      percent: 81
+      wins: 0
+      losses: 1
+  - event: Hearts
+    player1:
+      percent: 70
+      wins: 0
+      losses: 1
+    player2:
+      percent: 89
+      wins: 1
+      losses: 0
+  - event: Trials (Women)
+    player1:
+      percent: 85
+      wins: 1
+      losses: 0
+    player2:
+      percent: 85
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: FERB
+      position: Second
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: KOE
+      position: Second
+      percent: 81
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(7)
+    score: KOE 5 - FERB 6
+  - player1:
+      team: SK
+      position: Second
+      percent: 70
+      win: 0
+      loss: 1
+    player2:
+      team: AB
+      position: Second
+      percent: 89
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2008
+    draw: Round Robin(17)
+    score: AB 10 - SK 3
+  - player1:
+      team: RID
+      position: Second
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: FOW
+      position: Second
+      percent: 85
+      win: 0
+      loss: 1
+    event: Trials (Women)
+    year: 2001
+    draw: Round Robin(7)
+    score: RID 8 - FOW 6
+- name: Zinck, Kay
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 85
+      wins: 1
+      losses: 0
+    player2:
+      percent: 93
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: FERB
+      position: Second
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: APPE
+      position: Third
+      percent: 93
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(3)
+    score: APPE 2 - FERB 6
 - name: McCagg-Nystrom, Heather
   totals:
   - event: Hearts
@@ -355,34 +939,6 @@ vs:
     year: 2008
     draw: Round Robin(6)
     score: SK 10 - NB 5
-- name: Nixon, Amy
-  totals:
-  - event: Hearts
-    player1:
-      percent: 70
-      wins: 0
-      losses: 1
-    player2:
-      percent: 91
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: SK
-      position: Second
-      percent: 70
-      win: 0
-      loss: 1
-    player2:
-      team: AB
-      position: Third
-      percent: 91
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2008
-    draw: Round Robin(17)
-    score: AB 10 - SK 3
 - name: Officer, Jill
   totals:
   - event: Hearts
@@ -511,50 +1067,6 @@ vs:
     year: 2012
     draw: Round Robin(2)
     score: SK 7 - NS 5
-- name: Peters, Laine
-  totals:
-  - event: Hearts
-    player1:
-      percent: 79
-      wins: 0
-      losses: 2
-    player2:
-      percent: 81
-      wins: 2
-      losses: 0
-  games:
-  - player1:
-      team: SK
-      position: Second
-      percent: 70
-      win: 0
-      loss: 1
-    player2:
-      team: NS
-      position: Second
-      percent: 77
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2008
-    draw: Round Robin(10)
-    score: SK 4 - NS 8
-  - player1:
-      team: SK
-      position: Second
-      percent: 86
-      win: 0
-      loss: 1
-    player2:
-      team: AB
-      position: Lead
-      percent: 86
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2012
-    draw: Round Robin(12)
-    score: SK 8 - AB 9
 - name: Pewarchuk, Dailene
   totals:
   - event: Hearts
@@ -695,34 +1207,6 @@ vs:
     year: 2008
     draw: Round Robin(6)
     score: SK 10 - NB 5
-- name: Sabourin, Joelle
-  totals:
-  - event: Hearts
-    player1:
-      percent: 79
-      wins: 0
-      losses: 1
-    player2:
-      percent: 64
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: SK
-      position: Second
-      percent: 79
-      win: 0
-      loss: 1
-    player2:
-      team: QC
-      position: Lead
-      percent: 64
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2008
-    draw: Round Robin(1)
-    score: QC 9 - SK 6
 - name: Sandison, Janice
   totals:
   - event: Hearts
@@ -779,106 +1263,6 @@ vs:
     year: 2012
     draw: Round Robin(17)
     score: CA 5 - SK 11
-- name: Schraeder, Jeanna
-  totals:
-  - event: Hearts
-    player1:
-      percent: 88
-      wins: 1
-      losses: 0
-    player2:
-      percent: 83
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: SK
-      position: Second
-      percent: 88
-      win: 1
-      loss: 0
-    player2:
-      team: CA
-      position: Third
-      percent: 83
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2008
-    draw: Round Robin(5)
-    score: CA 6 - SK 8
-- name: Scott, Kelly
-  totals:
-  - event: Hearts
-    player1:
-      percent: 78
-      wins: 1
-      losses: 1
-    player2:
-      percent: 74
-      wins: 1
-      losses: 1
-  games:
-  - player1:
-      team: SK
-      position: Second
-      percent: 88
-      win: 1
-      loss: 0
-    player2:
-      team: CA
-      position: Fourth
-      percent: 71
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2008
-    draw: Round Robin(5)
-    score: CA 6 - SK 8
-  - player1:
-      team: SK
-      position: Second
-      percent: 69
-      win: 0
-      loss: 1
-    player2:
-      team: BC
-      position: Fourth
-      percent: 76
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2012
-    draw: Round Robin(4)
-    score: BC 10 - SK 8
-- name: Simons, Renee
-  totals:
-  - event: Hearts
-    player1:
-      percent: 88
-      wins: 1
-      losses: 0
-    player2:
-      percent: 83
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: SK
-      position: Second
-      percent: 88
-      win: 1
-      loss: 0
-    player2:
-      team: CA
-      position: Lead
-      percent: 83
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2008
-    draw: Round Robin(5)
-    score: CA 6 - SK 8
 - name: Skinner, Julie
   totals:
   - event: Hearts
@@ -1304,59 +1688,6 @@ vs:
     year: 2012
     draw: Round Robin(8)
     score: SK 10 - ON 3
-- name: Webster, Bronwen
-  totals:
-  - event: Hearts
-    player1:
-      percent: 70
-      wins: 0
-      losses: 1
-    player2:
-      percent: 89
-      wins: 1
-      losses: 0
-  - event: Trials (Women)
-    player1:
-      percent: 85
-      wins: 1
-      losses: 0
-    player2:
-      percent: 85
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: SK
-      position: Second
-      percent: 70
-      win: 0
-      loss: 1
-    player2:
-      team: AB
-      position: Second
-      percent: 89
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2008
-    draw: Round Robin(17)
-    score: AB 10 - SK 3
-  - player1:
-      team: RID
-      position: Second
-      percent: 85
-      win: 1
-      loss: 0
-    player2:
-      team: FOW
-      position: Second
-      percent: 85
-      win: 0
-      loss: 1
-    event: Trials (Women)
-    year: 2001
-    draw: Round Robin(7)
-    score: RID 8 - FOW 6
 - name: Wheatcroft, Georgina
   totals:
   - event: Hearts

@@ -684,6 +684,15 @@ vs:
       percent: 83
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 84
+      wins: 1
+      losses: 2
+    player2:
+      percent: 85
+      wins: 2
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 83
@@ -710,6 +719,54 @@ vs:
     year: 2010
     draw: Round Robin(11)
     score: MB 2 - AB 7
+  - player1:
+      team: MART
+      position: Third
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: KOE
+      position: Second
+      percent: 94
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Round Robin(8)
+    score: KOE 7 - MART 3
+  - player1:
+      team: MART
+      position: Third
+      percent: 85
+      win: 0
+      loss: 1
+    player2:
+      team: KOE
+      position: Second
+      percent: 85
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Final(15)
+    score: MART 5 - KOE 6
+  - player1:
+      team: STOU
+      position: Third
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: KOE
+      position: Second
+      percent: 79
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(2)
+    score: STOU 7 - KOE 5
   - player1:
       team: PAR
       position: Fourth
@@ -752,6 +809,15 @@ vs:
     player2:
       percent: 85
       wins: 2
+      losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 1
+      losses: 0
+    player2:
+      percent: 91
+      wins: 0
       losses: 1
   - event: Trials(Men)
     player1:
@@ -811,6 +877,22 @@ vs:
     year: 2010
     draw: Round Robin(14)
     score: MB 4 - ON 8
+  - player1:
+      team: MART
+      position: Third
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: HOWA
+      position: Lead
+      percent: 91
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Page 3-4(13)
+    score: MART 7 - HOWA 6
   - player1:
       team: PAR
       position: Third
@@ -1126,6 +1208,15 @@ vs:
       percent: 90
       wins: 0
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 86
+      wins: 2
+      losses: 0
+    player2:
+      percent: 79
+      wins: 0
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 81
@@ -1152,6 +1243,38 @@ vs:
     year: 1991
     draw: Round Robin(11)
     score: AB 3 - MB 2
+  - player1:
+      team: MART
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: STOU
+      position: Fourth
+      percent: 83
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Round Robin(10)
+    score: MART 7 - STOU 6
+  - player1:
+      team: MART
+      position: Third
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: STOU
+      position: Fourth
+      percent: 76
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Playoff(11)
+    score: MART 8 - STOU 7
   - player1:
       team: PAR
       position: Fourth
@@ -1267,6 +1390,15 @@ vs:
       percent: 78
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 84
+      wins: 1
+      losses: 2
+    player2:
+      percent: 95
+      wins: 2
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 91
@@ -1293,6 +1425,54 @@ vs:
     year: 2010
     draw: Round Robin(11)
     score: MB 2 - AB 7
+  - player1:
+      team: MART
+      position: Third
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: KOE
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Round Robin(8)
+    score: KOE 7 - MART 3
+  - player1:
+      team: MART
+      position: Third
+      percent: 85
+      win: 0
+      loss: 1
+    player2:
+      team: KOE
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Final(15)
+    score: MART 5 - KOE 6
+  - player1:
+      team: STOU
+      position: Third
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: KOE
+      position: Lead
+      percent: 100
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(2)
+    score: STOU 7 - KOE 5
   - player1:
       team: STOU
       position: Third
@@ -1839,36 +2019,17 @@ vs:
     year: 1992
     draw: Round Robin(14)
     score: AB 6 - NL 7
-- name: Patterson, Scott
+- name: Pfeifer, Scott
   totals:
-  - event: Trials(Men)
+  - event: Canada Cup (Men)
     player1:
-      percent: 75
+      percent: 78
       wins: 0
       losses: 1
     player2:
-      percent: 95
+      percent: 91
       wins: 1
       losses: 0
-  games:
-  - player1:
-      team: PAR
-      position: Fourth
-      percent: 75
-      win: 0
-      loss: 1
-    player2:
-      team: HOW
-      position: Second
-      percent: 95
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 1997
-    draw: Round Robin(1)
-    score: HOW 10 - PAR 4
-- name: Pfeifer, Scott
-  totals:
   - event: Trials(Men)
     player1:
       percent: 84
@@ -1879,6 +2040,22 @@ vs:
       wins: 1
       losses: 1
   games:
+  - player1:
+      team: STOU
+      position: Third
+      percent: 78
+      win: 0
+      loss: 1
+    player2:
+      team: FERB
+      position: Second
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(8)
+    score: FERB 9 - STOU 5
   - player1:
       team: PAR
       position: Fourth
@@ -1911,36 +2088,17 @@ vs:
     year: 2009
     draw: Round Robin(2)
     score: FERB 5 - STOU 9
-- name: Ramcharan, Rudy
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 83
-      wins: 1
-      losses: 0
-    player2:
-      percent: 74
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: PAR
-      position: Fourth
-      percent: 83
-      win: 1
-      loss: 0
-    player2:
-      team: MAR
-      position: Second
-      percent: 74
-      win: 0
-      loss: 1
-    event: Trials (Men)
-    year: 1997
-    draw: Round Robin(4)
-    score: PAR 7 - MAR 5
 - name: Richter, Justin
   totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 92
+      wins: 0
+      losses: 1
+    player2:
+      percent: 93
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 75
@@ -1951,6 +2109,22 @@ vs:
       wins: 0
       losses: 1
   games:
+  - player1:
+      team: MART
+      position: Third
+      percent: 92
+      win: 0
+      loss: 1
+    player2:
+      team: CARR
+      position: Second
+      percent: 93
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Round Robin(6)
+    score: MART 5 - CARR 6
   - player1:
       team: STOU
       position: Third
@@ -1969,6 +2143,15 @@ vs:
     score: STOU 8 - GUNN 4
 - name: Rocque, Marcel
   totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 78
+      wins: 0
+      losses: 1
+    player2:
+      percent: 97
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 84
@@ -1979,6 +2162,22 @@ vs:
       wins: 1
       losses: 1
   games:
+  - player1:
+      team: STOU
+      position: Third
+      percent: 78
+      win: 0
+      loss: 1
+    player2:
+      team: FERB
+      position: Lead
+      percent: 97
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(8)
+    score: FERB 9 - STOU 5
   - player1:
       team: PAR
       position: Fourth
@@ -2011,8 +2210,45 @@ vs:
     year: 2009
     draw: Round Robin(2)
     score: FERB 5 - STOU 9
+- name: Schille, Chris
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 94
+      wins: 1
+      losses: 0
+    player2:
+      percent: 81
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: MART
+      position: Third
+      percent: 94
+      win: 1
+      loss: 0
+    player2:
+      team: GUSH
+      position: Second
+      percent: 81
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Semi-Final(14)
+    score: GUSH 2 - MART 8
 - name: Sharp, Jeff
   totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 85
+      wins: 1
+      losses: 1
+    player2:
+      percent: 82
+      wins: 1
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 88
@@ -2023,6 +2259,38 @@ vs:
       wins: 0
       losses: 1
   games:
+  - player1:
+      team: MART
+      position: Third
+      percent: 79
+      win: 0
+      loss: 1
+    player2:
+      team: SIMM
+      position: Third
+      percent: 76
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Round Robin(1)
+    score: MART 6 - SIMM 7
+  - player1:
+      team: MART
+      position: Third
+      percent: 96
+      win: 1
+      loss: 0
+    player2:
+      team: SIMM
+      position: Third
+      percent: 92
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Tie-Breaker(12)
+    score: SIMM 2 - MART 10
   - player1:
       team: STOU
       position: Third
@@ -2041,6 +2309,15 @@ vs:
     score: SIMM 7 - STOU 8
 - name: Simmons, Pat
   totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 85
+      wins: 1
+      losses: 1
+    player2:
+      percent: 81
+      wins: 1
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 88
@@ -2051,6 +2328,38 @@ vs:
       wins: 0
       losses: 1
   games:
+  - player1:
+      team: MART
+      position: Third
+      percent: 79
+      win: 0
+      loss: 1
+    player2:
+      team: SIMM
+      position: Fourth
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Round Robin(1)
+    score: MART 6 - SIMM 7
+  - player1:
+      team: MART
+      position: Third
+      percent: 96
+      win: 1
+      loss: 0
+    player2:
+      team: SIMM
+      position: Fourth
+      percent: 65
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Tie-Breaker(12)
+    score: SIMM 2 - MART 10
   - player1:
       team: STOU
       position: Third
@@ -2067,6 +2376,215 @@ vs:
     year: 2009
     draw: Round Robin(7)
     score: SIMM 7 - STOU 8
+- name: Smith, Garth
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 96
+      wins: 1
+      losses: 0
+    player2:
+      percent: 83
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: STOU
+      position: Third
+      percent: 96
+      win: 1
+      loss: 0
+    player2:
+      team: BURT
+      position: Lead
+      percent: 83
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(7)
+    score: STOU 8 - BURT 5
+- name: Thomas, Charley
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 92
+      wins: 0
+      losses: 1
+    player2:
+      percent: 81
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: MART
+      position: Third
+      percent: 92
+      win: 0
+      loss: 1
+    player2:
+      team: CARR
+      position: Fourth
+      percent: 81
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Round Robin(6)
+    score: MART 5 - CARR 6
+- name: Walchuk, Don
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 96
+      wins: 1
+      losses: 0
+    player2:
+      percent: 74
+      wins: 0
+      losses: 1
+  - event: Trials(Men)
+    player1:
+      percent: 78
+      wins: 1
+      losses: 1
+    player2:
+      percent: 87
+      wins: 1
+      losses: 1
+  games:
+  - player1:
+      team: STOU
+      position: Third
+      percent: 96
+      win: 1
+      loss: 0
+    player2:
+      team: BURT
+      position: Third
+      percent: 74
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(7)
+    score: STOU 8 - BURT 5
+  - player1:
+      team: PAR
+      position: Fourth
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: MAR
+      position: Third
+      percent: 85
+      win: 0
+      loss: 1
+    event: Trials (Men)
+    year: 1997
+    draw: Round Robin(4)
+    score: PAR 7 - MAR 5
+  - player1:
+      team: PAR
+      position: Fourth
+      percent: 72
+      win: 0
+      loss: 1
+    player2:
+      team: MAR
+      position: Third
+      percent: 89
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2001
+    draw: Round Robin(1)
+    score: MAR 8 - PAR 2
+- name: Wozniak, Matt
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 91
+      wins: 1
+      losses: 0
+    player2:
+      percent: 72
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: MART
+      position: Third
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: MCEW
+      position: Second
+      percent: 72
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Round Robin(3)
+    score: MCEW 4 - MART 10
+- name: Patterson, Scott
+  totals:
+  - event: Trials(Men)
+    player1:
+      percent: 75
+      wins: 0
+      losses: 1
+    player2:
+      percent: 95
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: PAR
+      position: Fourth
+      percent: 75
+      win: 0
+      loss: 1
+    player2:
+      team: HOW
+      position: Second
+      percent: 95
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 1997
+    draw: Round Robin(1)
+    score: HOW 10 - PAR 4
+- name: Ramcharan, Rudy
+  totals:
+  - event: Trials(Men)
+    player1:
+      percent: 83
+      wins: 1
+      losses: 0
+    player2:
+      percent: 74
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: PAR
+      position: Fourth
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: MAR
+      position: Second
+      percent: 74
+      win: 0
+      loss: 1
+    event: Trials (Men)
+    year: 1997
+    draw: Round Robin(4)
+    score: PAR 7 - MAR 5
 - name: Smith, Dave
   totals:
   - event: Trials(Men)
@@ -2223,50 +2741,6 @@ vs:
     year: 2001
     draw: Round Robin(3)
     score: STO 7 - PAR 8
-- name: Walchuk, Don
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 78
-      wins: 1
-      losses: 1
-    player2:
-      percent: 87
-      wins: 1
-      losses: 1
-  games:
-  - player1:
-      team: PAR
-      position: Fourth
-      percent: 83
-      win: 1
-      loss: 0
-    player2:
-      team: MAR
-      position: Third
-      percent: 85
-      win: 0
-      loss: 1
-    event: Trials (Men)
-    year: 1997
-    draw: Round Robin(4)
-    score: PAR 7 - MAR 5
-  - player1:
-      team: PAR
-      position: Fourth
-      percent: 72
-      win: 0
-      loss: 1
-    player2:
-      team: MAR
-      position: Third
-      percent: 89
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2001
-    draw: Round Robin(1)
-    score: MAR 8 - PAR 2
 - name: Whittle, Mark
   totals:
   - event: Trials(Men)

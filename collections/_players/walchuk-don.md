@@ -17,6 +17,20 @@ totals:
   takeout-percent: 86
   shots-total: 1821
   shots-percent: 85
+- event: Canada Cup (Men)
+  games: 28
+  wins: 19
+  losses: 9
+  inturn-total: 272
+  inturn-percent: 84
+  outturn-total: 245
+  outturn-percent: 85
+  draw-total: 197
+  draw-percent: 82
+  takeout-total: 320
+  takeout-percent: 86
+  shots-total: 517
+  shots-percent: 85
 - event: Trials (Men)
   games: 30
   wins: 19
@@ -168,6 +182,74 @@ years:
   takeout-percent: 83
   shots-total: 214
   shots-percent: 84
+- year: 2004
+  event: Canada Cup (Men)
+  team: BUR
+  position: Third
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 73
+  inturn-percent: 83
+  outturn-total: 57
+  outturn-percent: 86
+  draw-total: 54
+  draw-percent: 81
+  takeout-total: 76
+  takeout-percent: 86
+  shots-total: 130
+  shots-percent: 84
+- year: 2005
+  event: Canada Cup (Men)
+  team: Mar
+  position: Third
+  games: 8
+  wins: 7
+  losses: 1
+  inturn-total: 77
+  inturn-percent: 87
+  outturn-total: 71
+  outturn-percent: 91
+  draw-total: 53
+  draw-percent: 85
+  takeout-total: 95
+  takeout-percent: 91
+  shots-total: 148
+  shots-percent: 89
+- year: 2006
+  event: Canada Cup (Men)
+  team: Mar
+  position: Third
+  games: 8
+  wins: 7
+  losses: 1
+  inturn-total: 81
+  inturn-percent: 89
+  outturn-total: 71
+  outturn-percent: 84
+  draw-total: 45
+  draw-percent: 91
+  takeout-total: 107
+  takeout-percent: 85
+  shots-total: 152
+  shots-percent: 87
+- year: 2009
+  event: Canada Cup (Men)
+  team: BURT
+  position: Third
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 41
+  inturn-percent: 70
+  outturn-total: 46
+  outturn-percent: 78
+  draw-total: 45
+  draw-percent: 69
+  takeout-total: 42
+  takeout-percent: 79
+  shots-total: 87
+  shots-percent: 74
 - year: 1997
   event: Trials (Men)
   team: MAR
@@ -223,11 +305,14 @@ vs:
 - Adams, Bill
 - Adams, Jim
 - Adams, Kevin
+- Adams, Mike
 - Adams, Shawn
 - Adams, Steve
 - Aitken, Don
 - Alexander, Trevor
 - Allan, John
+- Appelman, Ted
+- Appelman, Tom
 - Armstrong, Doug
 - Armstrong, Jim
 - Armstrong, Mark
@@ -238,6 +323,8 @@ vs:
 - Bisson, Richard
 - Blanchard, Ben
 - Blanchard, Jason
+- Blaylock, Bryan
+- Boyce, Jason
 - Brackett, James
 - Brandwood, Todd
 - Brophy, Marc
@@ -245,6 +332,7 @@ vs:
 - Bryant, Doug
 - Bubbs, John
 - Buchan, Chris
+- Bucholz, Rob
 - Burgess, Craig
 - Burnett, Steve
 - Burtnyk, Kerry
@@ -264,9 +352,12 @@ vs:
 - Cotter, Jim
 - Coulter, Mike
 - Cowan, Chad
+- Cripps, Scott
 - Cunningham, Geoff
+- Curtis, Jason
 - Dabrowski, Don
 - Dacey, Mark
+- DeCap, Scott
 - Delmage, Al
 - Delmage, Ron
 - Denis, Serge
@@ -290,12 +381,16 @@ vs:
 - Ferraro, Marco
 - Flemming, Paul
 - Fletcher, Bill
+- Folk, Kevin
 - Folk, Rick
 - Forsyth, Sandy
 - Fowler, Brian
+- Fowler, Rob
 - Foy, Sandy
 - Franklin, Graeme
+- Frans, Joe
 - Frans, Joseph
+- Fry, Ryan
 - Fulton, Chris
 - Gagnon, Jean
 - Gallant, Peter
@@ -303,6 +398,7 @@ vs:
 - Gallivan, Greg
 - Gardiner, Don
 - Gawel, Pete
+- Gedak, Brent
 - Gemmell, Dean
 - Germsheid, Tony
 - Gibson, Andrew
@@ -328,6 +424,8 @@ vs:
 - Hart, Richard
 - Harvey, Don
 - Hebert, Ben
+- Heidt, Brad
+- Heidt, Mitch
 - Henderson, Jeffrey
 - Henderson, Lorne
 - Henderson, Ron
@@ -349,7 +447,9 @@ vs:
 - Jakomait, Dusty
 - Jewer, Keith
 - Johnson, Bill
+- Johnson, Mark
 - Johnston, Wade
+- Jordison, Joel
 - Josephson, Glenn
 - Journeaux, Ian
 - Kallos, Jack Jr
@@ -359,9 +459,11 @@ vs:
 - Karrys, George
 - Kawaja, John
 - Kennedy, Bruce
+- Kennedy, Glen
 - Kennedy, Marc
 - Kennedy, Mike
 - Kerr, Ian
+- Klassen, Brandon
 - Koe, Jamie
 - Koe, Kevin
 - Koffski, Rob
@@ -419,6 +521,7 @@ vs:
 - Meleschuk, Orest
 - Meleschuk, Sean
 - Mellof, David
+- Melnyk, Brendan
 - Menard, Jean-Michel
 - Merklinger, Dave
 - Middaugh, Wayne
@@ -453,14 +556,17 @@ vs:
 - Park, Kerry
 - Park, Kevin
 - Patterson, Scott
+- Paul, Matt
 - Paulsen, Art
 - Paulsen, Nick
 - Peachey, Jay
 - Peddigrew, Ken
+- Perepolkin, T.J.
 - Perron, Rick
 - Perroud, Pat
 - Perry, Randy
 - Peters, Vic
+- Petryk, Dan
 - Pfeifer, Scott
 - Phillips, Tim
 - Pierce, Brent
@@ -476,6 +582,7 @@ vs:
 - Recksiedler, Kevin
 - Reddick, Don
 - Reibin, Dale
+- Richard, Jeff
 - Roach, Terry
 - Roberge, Francois
 - Robertson, Brad
@@ -491,6 +598,7 @@ vs:
 - Rumfeldt, Robert
 - Ryan, Jeff
 - Ryan, Pat
+- Rycroft, Carter
 - Salo, John
 - Sauve, Dan
 - Sauve, Roger
@@ -529,12 +637,14 @@ vs:
 - Sylvain, Eric
 - Tallon, Wayne
 - Tetley, Ian
+- Thiessen, Nolan
 - Thomas, Jeff
 - Thomas, Ken
 - Thomas, Rob
 - Thompson, Ron
 - Tresoor, Ken
 - Trickett, Eugene
+- Tuck, Wayne
 - Turner, Malcolm
 - Ursel, Bob
 - Usackis, John
@@ -549,11 +659,13 @@ vs:
 - Weeks, David
 - Weeks, Doug
 - Werenich, Ed
+- Westlund, Mike
 - Westphal, Don
 - Whitehead, Kevin
 - Whitehead, Mark
 - Whittle, Mark
 - Wight, Bryan
+- Willis, Brendan
 - Windsor, Brian
 - Young, Neil
 - Ziola, Monte

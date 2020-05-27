@@ -17,6 +17,20 @@ totals:
   takeout-percent: 82
   shots-total: 450
   shots-percent: 83
+- event: Canada Cup (Men)
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 72
+  inturn-percent: 78
+  outturn-total: 72
+  outturn-percent: 82
+  draw-total: 57
+  draw-percent: 76
+  takeout-total: 87
+  takeout-percent: 82
+  shots-total: 144
+  shots-percent: 80
 - event: Trials (Men)
   games: 9
   wins: 5
@@ -66,6 +80,27 @@ years:
   takeout-percent: 82
   shots-total: 242
   shots-percent: 83
+- year: 2004
+  event: Canada Cup (Men)
+  team: BUR
+  position: Alternate
+- year: 2005
+  event: Canada Cup (Men)
+  team: Bur
+  position: Third
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 72
+  inturn-percent: 78
+  outturn-total: 72
+  outturn-percent: 82
+  draw-total: 57
+  draw-percent: 76
+  takeout-total: 87
+  takeout-percent: 82
+  shots-total: 144
+  shots-percent: 80
 - year: 1997
   event: Trials (Men)
   team: STO
@@ -91,6 +126,7 @@ vs:
 - Bentley, Darren
 - Biron, Louis
 - Boland, John
+- Boyce, Jason
 - Brackett, James
 - Broda, Shawn
 - Brown, Ken
@@ -105,6 +141,8 @@ vs:
 - Charette, Pierre
 - Collison, Brian
 - Corner, Peter
+- Curtis, Jason
+- Dacey, Mark
 - Delmage, Ron
 - Despins, Glen
 - Dowden, Craig
@@ -114,11 +152,14 @@ vs:
 - Florence, Malcolm
 - Forsyth, Sandy
 - Gallant, Peter
+- Gibson, Andrew
+- Gould, Steve
 - Grundy, John
 - Gubbles, Will
 - Haines, Chuck
 - Hannah, Brad
 - Harris, Mike
+- Harris, Rob
 - Harrison, Neil
 - Hart, Richard
 - Harvey, Don
@@ -133,14 +174,17 @@ vs:
 - Josephson, Glenn
 - Karrys, George
 - Kawaja, John
+- Kennedy, Marc
 - Kennedy, Mike
 - Kent, Gerry
 - Kieley, Phil
+- Koe, Kevin
 - Lang, Rick
 - Lappalainen, Art
 - LeCocq, Marc
 - Lemery, Dan
 - Loevenmark, Phil
+- Lohnes, Bruce
 - MacDonald, Blake
 - MacDonald, Brent
 - MacDonald, Peter
@@ -154,12 +198,15 @@ vs:
 - McHargue, Ken
 - McPhee, Barry
 - Mead, Jon
+- Mead, Jonathan
 - Meakin, Rob
 - Middaugh, Wayne
 - Mihalicz, Dwayne
 - Mitchell, Collin
 - Mitchell, Gary
+- Moffatt, Paul
 - Montgomery, Rod
+- Morris, John
 - Nicholls, Peter
 - O'Driscoll, Frank
 - O'Rourke, Mark
@@ -168,6 +215,7 @@ vs:
 - Park, Kerry
 - Park, Kevin
 - Patterson, Scott
+- Paul, Matt
 - Perron, Rick
 - Perroud, Pat
 - Petryk, Dan
@@ -180,6 +228,7 @@ vs:
 - Rowsell, Rick
 - Rumfeldt, Robert
 - Ryan, Jeff
+- Rycroft, Carter
 - Semen, Jerry
 - Shypitka, Tom
 - Skanes, Robert
@@ -187,9 +236,12 @@ vs:
 - Smith, Dave
 - Smyth, Larry
 - Somers, Grant
+- Stoughton, Jeff
 - Tetley, Ian
 - Tetley, Ross
+- Tuck, Wayne
 - Tuton, Craig
+- Van Den Berghe, Garry
 - Van Dine, Steve
 - Walchuk, Don
 - Walsh, Jim

@@ -3,6 +3,20 @@ title: Cheryl McPherson
 name: Cheryl McPherson
 name-sort: McPherson, Cheryl
 totals:
+- event: Canada Cup (Women)
+  games: 6
+  wins: 4
+  losses: 2
+  inturn-total: 48
+  inturn-percent: 81
+  outturn-total: 72
+  outturn-percent: 78
+  draw-total: 45
+  draw-percent: 74
+  takeout-total: 75
+  takeout-percent: 83
+  shots-total: 120
+  shots-percent: 79
 - event: Hearts
   games: 26
   wins: 16
@@ -32,6 +46,23 @@ totals:
   shots-total: 180
   shots-percent: 72
 years:
+- year: 2005
+  event: Canada Cup (Women)
+  team: Riz
+  position: Third
+  games: 6
+  wins: 4
+  losses: 2
+  inturn-total: 48
+  inturn-percent: 81
+  outturn-total: 72
+  outturn-percent: 78
+  draw-total: 45
+  draw-percent: 74
+  takeout-total: 75
+  takeout-percent: 83
+  shots-total: 120
+  shots-percent: 79
 - year: 1990
   event: Hearts
   team: 'ON'
@@ -114,6 +145,7 @@ vs:
 - Bakker, Glenys
 - Bartlett, Sue Anne
 - Bell, Chelsey
+- Bernard, Cheryl
 - Betker, Jan
 - Blanchard, Judy
 - Brown, Katie
@@ -173,10 +205,14 @@ vs:
 - McCurdy, Susan
 - McCusker, Joan
 - McHugh, Cindy
+- McIvor, Jolene
+- McIvor, Michelle
+- McNabb, Jody
 - Middaugh, Sherry
 - Moses, Dawn
 - Muzika, Shelley
 - Nixon, Amy
+- O'Connor, Susan
 - O'Rourke, Kathy
 - Officer, Jill
 - Olson-Johns, Lori
@@ -195,6 +231,7 @@ vs:
 - Ridley, Terry
 - Roberts, Angela
 - Rusnell, Jen
+- Ruus, Karen
 - Ryan, Jennifer
 - Santos, Deb
 - Schmirler, Sandra
@@ -202,6 +239,7 @@ vs:
 - Scott, Donna
 - Scott, Kelly
 - Sigurdson, Janine
+- Simmons, Cindy
 - Simons, Renee
 - Singler, Sherri
 - Skinner, Julie

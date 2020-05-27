@@ -17,6 +17,20 @@ totals:
   takeout-percent: 83
   shots-total: 1474
   shots-percent: 85
+- event: Canada Cup (Men)
+  games: 16
+  wins: 14
+  losses: 2
+  inturn-total: 171
+  inturn-percent: 89
+  outturn-total: 123
+  outturn-percent: 86
+  draw-total: 252
+  draw-percent: 89
+  takeout-total: 42
+  takeout-percent: 81
+  shots-total: 294
+  shots-percent: 88
 - event: Trials (Men)
   games: 28
   wins: 18
@@ -155,6 +169,40 @@ years:
   takeout-percent: 76
   shots-total: 174
   shots-percent: 88
+- year: 2005
+  event: Canada Cup (Men)
+  team: Mar
+  position: Lead
+  games: 8
+  wins: 7
+  losses: 1
+  inturn-total: 92
+  inturn-percent: 93
+  outturn-total: 55
+  outturn-percent: 85
+  draw-total: 128
+  draw-percent: 91
+  takeout-total: 19
+  takeout-percent: 79
+  shots-total: 147
+  shots-percent: 90
+- year: 2006
+  event: Canada Cup (Men)
+  team: Mar
+  position: Lead
+  games: 8
+  wins: 7
+  losses: 1
+  inturn-total: 79
+  inturn-percent: 85
+  outturn-total: 68
+  outturn-percent: 88
+  draw-total: 124
+  draw-percent: 87
+  takeout-total: 23
+  takeout-percent: 83
+  shots-total: 147
+  shots-percent: 86
 - year: 1997
   event: Trials (Men)
   team: MAR
@@ -210,6 +258,7 @@ vs:
 - Abel, Clinton
 - Adams, Brian
 - Adams, Kevin
+- Adams, Mike
 - Adams, Shawn
 - Allan, John
 - Andrews, Robert
@@ -222,12 +271,15 @@ vs:
 - Biron, Louis
 - Blanchard, Ben
 - Blanchard, Jason
+- Blaylock, Bryan
 - Boland, John
+- Boyce, Jason
 - Brackett, James
 - Brandwood, Todd
 - Brown, Ken
 - Bryant, Doug
 - Buchan, Chris
+- Bucholz, Rob
 - Buck, Wyatt
 - Burgess, Craig
 - Burtnyk, Kerry
@@ -251,7 +303,9 @@ vs:
 - Coulter, Mike
 - Cowan, Chad
 - Cunningham, Geoff
+- Curtis, Jason
 - Dacey, Mark
+- DeCap, Scott
 - Delmage, Ron
 - Despins, Glen
 - Dillon, Mike
@@ -268,14 +322,17 @@ vs:
 - Fitzherbert, Brad
 - Flemming, Paul
 - Florence, Malcolm
+- Folk, Kevin
 - Folk, Rick
 - Forsyth, Sandy
 - Fowler, Ed
+- Fowler, Rob
 - Foy, Sandy
 - Frans, Joseph
 - Gagnon, Jean
 - Gagnon, Steeve
 - Gallant, Peter
+- Gedak, Brent
 - Germsheid, Tony
 - Gibson, Andrew
 - Golanowski, Rory
@@ -305,6 +362,7 @@ vs:
 - Hebert, Ben
 - Hebert, Brad
 - Heidt, Brad
+- Heidt, Mitch
 - Henderson, Jeffrey
 - Henderson, Lorne
 - Henderson, Ron
@@ -320,11 +378,14 @@ vs:
 - Jakomait, Dusty
 - Jenkins, Bill
 - Johnson, Bill
+- Johnson, Mark
 - Johnston, Wade
 - Jones, Dave
+- Jordison, Joel
 - Josephson, Glenn
 - Karrys, George
 - Kawaja, John
+- Kennedy, Glen
 - Kennedy, Marc
 - Kennedy, Mike
 - Kent, Gerry
@@ -404,7 +465,9 @@ vs:
 - Park, Kevin
 - Patriquin, Chuck
 - Patterson, Scott
+- Paul, Matt
 - Peddigrew, Ken
+- Perepolkin, T.J.
 - Perozak, Brian
 - Perron, Rick
 - Perroud, Pat
@@ -422,6 +485,7 @@ vs:
 - Ravndal, Clayton
 - Reddick, Don
 - Richard, Gerry
+- Richard, Jeff
 - Roberge, Francois
 - Robertson, Richard
 - Robinson, Andrew
@@ -464,6 +528,7 @@ vs:
 - Thompson, Ron
 - Tremblay, Roderigue
 - Tresoor, Ken
+- Tuck, Wayne
 - Tuton, Craig
 - Ursel, Bob
 - Van Den Berghe, Garry
@@ -477,6 +542,7 @@ vs:
 - Whitehead, Kevin
 - Whitehead, Mark
 - Whittle, Mark
+- Willis, Brendan
 - Windsor, Brian
 - Woytowich, Randy
 - Xidos, George

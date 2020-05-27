@@ -181,6 +181,15 @@ vs:
       percent: 83
       wins: 0
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 83
+      wins: 1
+      losses: 2
+    player2:
+      percent: 86
+      wins: 2
+      losses: 1
   games:
   - player1:
       team: AB
@@ -198,6 +207,54 @@ vs:
     year: 1999
     draw: Round Robin(2)
     score: AB 6 - MB 4
+  - player1:
+      team: SIM
+      position: Third
+      percent: 85
+      win: 0
+      loss: 1
+    player2:
+      team: STO
+      position: Third
+      percent: 86
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(7)
+    score: SIM 4 - STO 5
+  - player1:
+      team: KK
+      position: Third
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: JS
+      position: Third
+      percent: 88
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(6)
+    score: JS 5 - KK 3
+  - player1:
+      team: KK
+      position: Third
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: JS
+      position: Third
+      percent: 83
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Tie-Breaker(11)
+    score: JS 4 - KK 11
 - name: Mellof, Dave
   totals:
   - event: Brier
@@ -365,6 +422,15 @@ vs:
       percent: 83
       wins: 0
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 2
+      losses: 0
+    player2:
+      percent: 79
+      wins: 0
+      losses: 2
   games:
   - player1:
       team: AB
@@ -398,6 +464,38 @@ vs:
     year: 2010
     draw: Page 3-4(19)
     score: AB 6 - NL 5
+  - player1:
+      team: KOE
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: GUSH
+      position: Third
+      percent: 75
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Round Robin(2)
+    score: KOE 8 - GUSH 3
+  - player1:
+      team: KOE
+      position: Fourth
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: GUSH
+      position: Third
+      percent: 83
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Page 1-2(12)
+    score: KOE 7 - GUSH 5
 - name: Orme, Tyler
   totals:
   - event: Brier
@@ -481,6 +579,15 @@ vs:
       percent: 81
       wins: 0
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 75
+      wins: 2
+      losses: 1
+    player2:
+      percent: 84
+      wins: 1
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 78
@@ -507,6 +614,54 @@ vs:
     year: 2010
     draw: Round Robin(11)
     score: MB 2 - AB 7
+  - player1:
+      team: KOE
+      position: Fourth
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: MART
+      position: Third
+      percent: 80
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Round Robin(8)
+    score: KOE 7 - MART 3
+  - player1:
+      team: KOE
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: MART
+      position: Third
+      percent: 85
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Final(15)
+    score: MART 5 - KOE 6
+  - player1:
+      team: KOE
+      position: Fourth
+      percent: 60
+      win: 0
+      loss: 1
+    player2:
+      team: STOU
+      position: Third
+      percent: 88
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(2)
+    score: STOU 7 - KOE 5
   - player1:
       team: MAC
       position: Second
@@ -715,6 +870,15 @@ vs:
       percent: 74
       wins: 0
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 90
+      wins: 1
+      losses: 0
+    player2:
+      percent: 69
+      wins: 0
+      losses: 1
   games:
   - player1:
       team: AB
@@ -732,6 +896,22 @@ vs:
     year: 2010
     draw: Round Robin(12)
     score: QC 6 - AB 7
+  - player1:
+      team: KK
+      position: Third
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: SR
+      position: Fourth
+      percent: 69
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(5)
+    score: KK 8 - SR 5
 - name: Reynolds, Brett
   totals:
   - event: Brier
@@ -855,6 +1035,15 @@ vs:
       percent: 93
       wins: 1
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 0
+      losses: 2
+    player2:
+      percent: 89
+      wins: 2
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 88
@@ -897,6 +1086,38 @@ vs:
     year: 2010
     draw: Final(21)
     score: AB 6 - ON 5
+  - player1:
+      team: KK
+      position: Third
+      percent: 84
+      win: 0
+      loss: 1
+    player2:
+      team: GH
+      position: Lead
+      percent: 95
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(10)
+    score: GH 8 - KK 6
+  - player1:
+      team: KK
+      position: Third
+      percent: 76
+      win: 0
+      loss: 1
+    player2:
+      team: GH
+      position: Lead
+      percent: 82
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Semi-Final(14)
+    score: KK 7 - GH 9
   - player1:
       team: KOE
       position: Third
@@ -1036,6 +1257,15 @@ vs:
       percent: 81
       wins: 0
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 3
+      losses: 2
+    player2:
+      percent: 82
+      wins: 2
+      losses: 3
   - event: Trials(Men)
     player1:
       percent: 81
@@ -1078,6 +1308,86 @@ vs:
     year: 2010
     draw: Round Robin(11)
     score: MB 2 - AB 7
+  - player1:
+      team: Koe
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: Sto
+      position: Fourth
+      percent: 85
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2007
+    draw: Round Robin(6)
+    score: Sto 5 - Koe 7
+  - player1:
+      team: KOE
+      position: Fourth
+      percent: 94
+      win: 1
+      loss: 0
+    player2:
+      team: STOU
+      position: Fourth
+      percent: 82
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Round Robin(5)
+    score: STOU 5 - KOE 8
+  - player1:
+      team: KOE
+      position: Fourth
+      percent: 60
+      win: 0
+      loss: 1
+    player2:
+      team: STOU
+      position: Fourth
+      percent: 84
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(2)
+    score: STOU 7 - KOE 5
+  - player1:
+      team: KK
+      position: Third
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: JS
+      position: Fourth
+      percent: 83
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(6)
+    score: JS 5 - KK 3
+  - player1:
+      team: KK
+      position: Third
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: JS
+      position: Fourth
+      percent: 71
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Tie-Breaker(11)
+    score: JS 4 - KK 11
   - player1:
       team: MAC
       position: Second
@@ -1233,6 +1543,15 @@ vs:
       percent: 86
       wins: 0
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 85
+      wins: 0
+      losses: 1
+    player2:
+      percent: 93
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: AB
@@ -1250,6 +1569,22 @@ vs:
     year: 1999
     draw: Round Robin(2)
     score: AB 6 - MB 4
+  - player1:
+      team: SIM
+      position: Third
+      percent: 85
+      win: 0
+      loss: 1
+    player2:
+      team: STO
+      position: Second
+      percent: 93
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(7)
+    score: SIM 4 - STO 5
 - name: Vaughan, Jason
   totals:
   - event: Brier
@@ -1259,6 +1594,15 @@ vs:
       losses: 0
     player2:
       percent: 76
+      wins: 0
+      losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 85
+      wins: 1
+      losses: 0
+    player2:
+      percent: 81
       wins: 0
       losses: 1
   games:
@@ -1278,6 +1622,22 @@ vs:
     year: 2010
     draw: Round Robin(13)
     score: NB 3 - AB 6
+  - player1:
+      team: KOE
+      position: Third
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: HOWA
+      position: Second
+      percent: 81
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(5)
+    score: HOWA 5 - KOE 7
 - name: Villeneuve, Steeve
   totals:
   - event: Brier
@@ -1289,6 +1649,15 @@ vs:
       percent: 79
       wins: 0
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 90
+      wins: 1
+      losses: 0
+    player2:
+      percent: 74
+      wins: 0
+      losses: 1
   games:
   - player1:
       team: AB
@@ -1322,6 +1691,22 @@ vs:
     year: 2012
     draw: Round Robin(4)
     score: QC 2 - AB 9
+  - player1:
+      team: KK
+      position: Third
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: SR
+      position: Lead
+      percent: 74
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(5)
+    score: KK 8 - SR 5
 - name: Wasnea, Brian
   totals:
   - event: Brier
@@ -1408,6 +1793,15 @@ vs:
     score: AB 5 - BC 7
 - name: Martin, Kevin
   totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 82
+      wins: 3
+      losses: 0
+    player2:
+      percent: 76
+      wins: 0
+      losses: 3
   - event: Trials(Men)
     player1:
       percent: 86
@@ -1418,6 +1812,54 @@ vs:
       wins: 2
       losses: 0
   games:
+  - player1:
+      team: Koe
+      position: Fourth
+      percent: 80
+      win: 1
+      loss: 0
+    player2:
+      team: Mar
+      position: Fourth
+      percent: 76
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2007
+    draw: Round Robin(8)
+    score: Koe 8 - Mar 6
+  - player1:
+      team: KOE
+      position: Fourth
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: MART
+      position: Fourth
+      percent: 72
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Round Robin(8)
+    score: KOE 7 - MART 3
+  - player1:
+      team: KOE
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: MART
+      position: Fourth
+      percent: 80
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Final(15)
+    score: MART 5 - KOE 6
   - player1:
       team: MAC
       position: Second
@@ -1450,6 +1892,1207 @@ vs:
     year: 2009
     draw: Round Robin(6)
     score: KOE 7 - MART 8
+- name: McDermot, Ken
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 70
+      wins: 1
+      losses: 0
+    player2:
+      percent: 85
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: SIM
+      position: Third
+      percent: 70
+      win: 1
+      loss: 0
+    player2:
+      team: COR
+      position: Lead
+      percent: 85
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(9)
+    score: COR 7 - SIM 8
+- name: McEwen, Mike
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 84
+      wins: 1
+      losses: 1
+    player2:
+      percent: 81
+      wins: 1
+      losses: 1
+  games:
+  - player1:
+      team: KOE
+      position: Fourth
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: MCEW
+      position: Fourth
+      percent: 80
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Round Robin(9)
+    score: KOE 6 - MCEW 7
+  - player1:
+      team: KK
+      position: Third
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: MM
+      position: Fourth
+      percent: 82
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Page 3-4(12)
+    score: MM 7 - KK 10
+- name: Melnyk, Brendan
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 86
+      wins: 1
+      losses: 0
+    player2:
+      percent: 94
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: KOE
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: APPE
+      position: Lead
+      percent: 94
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(1)
+    score: KOE 7 - APPE 2
+- name: Menard, Jean-Michel
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 1
+      losses: 0
+    player2:
+      percent: 58
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: Koe
+      position: Fourth
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: Men
+      position: Fourth
+      percent: 58
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2007
+    draw: Round Robin(10)
+    score: Koe 9 - Men 4
+- name: Middaugh, Wayne
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 0
+      losses: 2
+    player2:
+      percent: 88
+      wins: 2
+      losses: 0
+  - event: Trials(Men)
+    player1:
+      percent: 79
+      wins: 2
+      losses: 0
+    player2:
+      percent: 70
+      wins: 0
+      losses: 2
+  games:
+  - player1:
+      team: KK
+      position: Third
+      percent: 84
+      win: 0
+      loss: 1
+    player2:
+      team: GH
+      position: Third
+      percent: 83
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(10)
+    score: GH 8 - KK 6
+  - player1:
+      team: KK
+      position: Third
+      percent: 76
+      win: 0
+      loss: 1
+    player2:
+      team: GH
+      position: Third
+      percent: 94
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Semi-Final(14)
+    score: KK 7 - GH 9
+  - player1:
+      team: MAC
+      position: Second
+      percent: 74
+      win: 1
+      loss: 0
+    player2:
+      team: MID
+      position: Fourth
+      percent: 59
+      win: 0
+      loss: 1
+    event: Trials (Men)
+    year: 1997
+    draw: Round Robin(3)
+    score: MAC 7 - MID 5
+  - player1:
+      team: KOE
+      position: Third
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: MIDD
+      position: Fourth
+      percent: 84
+      win: 0
+      loss: 1
+    event: Trials (Men)
+    year: 2009
+    draw: Round Robin(4)
+    score: MIDD 4 - KOE 11
+- name: Mitchell, Collin
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 84
+      wins: 1
+      losses: 0
+    player2:
+      percent: 77
+      wins: 0
+      losses: 1
+  - event: Trials(Men)
+    player1:
+      percent: 83
+      wins: 0
+      losses: 1
+    player2:
+      percent: 83
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Koe
+      position: Fourth
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: Bas
+      position: Second
+      percent: 77
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2007
+    draw: Round Robin(4)
+    score: Koe 6 - Bas 2
+  - player1:
+      team: MAC
+      position: Second
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: HAR
+      position: Second
+      percent: 83
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 1997
+    draw: Round Robin(8)
+    score: HAR 9 - MAC 3
+- name: Moffatt, Paul
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 84
+      wins: 1
+      losses: 0
+    player2:
+      percent: 94
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: Koe
+      position: Fourth
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: Bas
+      position: Lead
+      percent: 94
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2007
+    draw: Round Robin(4)
+    score: Koe 6 - Bas 2
+- name: Morris, John
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 1
+      losses: 0
+    player2:
+      percent: 91
+      wins: 0
+      losses: 1
+  - event: Trials(Men)
+    player1:
+      percent: 92
+      wins: 0
+      losses: 1
+    player2:
+      percent: 93
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Koe
+      position: Fourth
+      percent: 80
+      win: 1
+      loss: 0
+    player2:
+      team: Mar
+      position: Third
+      percent: 91
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2007
+    draw: Round Robin(8)
+    score: Koe 8 - Mar 6
+  - player1:
+      team: KOE
+      position: Third
+      percent: 92
+      win: 0
+      loss: 1
+    player2:
+      team: MART
+      position: Third
+      percent: 93
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2009
+    draw: Round Robin(6)
+    score: KOE 7 - MART 8
+- name: Nedohin, David
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 79
+      wins: 0
+      losses: 2
+    player2:
+      percent: 86
+      wins: 2
+      losses: 0
+  - event: Trials(Men)
+    player1:
+      percent: 84
+      wins: 1
+      losses: 0
+    player2:
+      percent: 67
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: SIM
+      position: Third
+      percent: 74
+      win: 0
+      loss: 1
+    player2:
+      team: FER
+      position: Fourth
+      percent: 90
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(4)
+    score: FER 10 - SIM 4
+  - player1:
+      team: KOE
+      position: Third
+      percent: 84
+      win: 0
+      loss: 1
+    player2:
+      team: FERB
+      position: Fourth
+      percent: 81
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(7)
+    score: KOE 5 - FERB 6
+  - player1:
+      team: KOE
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: FERB
+      position: Fourth
+      percent: 67
+      win: 0
+      loss: 1
+    event: Trials (Men)
+    year: 2009
+    draw: Round Robin(7)
+    score: FERB 4 - KOE 9
+- name: Neufeld, B.J.
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 84
+      wins: 1
+      losses: 1
+    player2:
+      percent: 72
+      wins: 1
+      losses: 1
+  games:
+  - player1:
+      team: KOE
+      position: Fourth
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: MCEW
+      position: Third
+      percent: 75
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Round Robin(9)
+    score: KOE 6 - MCEW 7
+  - player1:
+      team: KK
+      position: Third
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: MM
+      position: Third
+      percent: 68
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Page 3-4(12)
+    score: MM 7 - KK 10
+- name: Neufeld, Denni
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 84
+      wins: 1
+      losses: 1
+    player2:
+      percent: 91
+      wins: 1
+      losses: 1
+  games:
+  - player1:
+      team: KOE
+      position: Fourth
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: MCEW
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Round Robin(9)
+    score: KOE 6 - MCEW 7
+  - player1:
+      team: KK
+      position: Third
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: MM
+      position: Lead
+      percent: 92
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Page 3-4(12)
+    score: MM 7 - KK 10
+- name: Noftall, David
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 2
+      losses: 0
+    player2:
+      percent: 85
+      wins: 0
+      losses: 2
+  games:
+  - player1:
+      team: KOE
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: GUSH
+      position: Lead
+      percent: 92
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Round Robin(2)
+    score: KOE 8 - GUSH 3
+  - player1:
+      team: KOE
+      position: Fourth
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: GUSH
+      position: Lead
+      percent: 80
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Page 1-2(12)
+    score: KOE 7 - GUSH 5
+- name: O'Connor, Sean
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 84
+      wins: 1
+      losses: 0
+    player2:
+      percent: 73
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: KK
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: BB
+      position: Third
+      percent: 73
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(2)
+    score: KK 8 - BB 6
+- name: Odishaw, Grant
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 82
+      wins: 0
+      losses: 1
+    player2:
+      percent: 87
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: SIM
+      position: Third
+      percent: 82
+      win: 0
+      loss: 1
+    player2:
+      team: HOW
+      position: Lead
+      percent: 87
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(8)
+    score: SIM 3 - HOW 7
+- name: Owens, Derek
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 0
+      losses: 2
+    player2:
+      percent: 86
+      wins: 2
+      losses: 0
+  games:
+  - player1:
+      team: Koe
+      position: Fourth
+      percent: 67
+      win: 0
+      loss: 1
+    player2:
+      team: Jor
+      position: Second
+      percent: 95
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2007
+    draw: Round Robin(1)
+    score: Jor 6 - Koe 3
+  - player1:
+      team: Koe
+      position: Fourth
+      percent: 94
+      win: 0
+      loss: 1
+    player2:
+      team: Jor
+      position: Second
+      percent: 78
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2007
+    draw: Tie-Breaker(12)
+    score: Koe 5 - Jor 7
+- name: Pfeifer, Scott
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 79
+      wins: 0
+      losses: 2
+    player2:
+      percent: 82
+      wins: 2
+      losses: 0
+  - event: Trials(Men)
+    player1:
+      percent: 84
+      wins: 1
+      losses: 0
+    player2:
+      percent: 84
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: SIM
+      position: Third
+      percent: 74
+      win: 0
+      loss: 1
+    player2:
+      team: FER
+      position: Second
+      percent: 82
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(4)
+    score: FER 10 - SIM 4
+  - player1:
+      team: KOE
+      position: Third
+      percent: 84
+      win: 0
+      loss: 1
+    player2:
+      team: FERB
+      position: Second
+      percent: 81
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(7)
+    score: KOE 5 - FERB 6
+  - player1:
+      team: KOE
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: FERB
+      position: Second
+      percent: 84
+      win: 0
+      loss: 1
+    event: Trials (Men)
+    year: 2009
+    draw: Round Robin(7)
+    score: FERB 4 - KOE 9
+- name: Roberge, Francois
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 1
+      losses: 0
+    player2:
+      percent: 63
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: Koe
+      position: Fourth
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: Men
+      position: Third
+      percent: 63
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2007
+    draw: Round Robin(10)
+    score: Koe 9 - Men 4
+- name: Robertson, Ian
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 70
+      wins: 1
+      losses: 0
+    player2:
+      percent: 80
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: SIM
+      position: Third
+      percent: 70
+      win: 1
+      loss: 0
+    player2:
+      team: COR
+      position: Second
+      percent: 80
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(9)
+    score: COR 7 - SIM 8
+- name: Rocque, Marcel
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 79
+      wins: 0
+      losses: 2
+    player2:
+      percent: 83
+      wins: 2
+      losses: 0
+  - event: Trials(Men)
+    player1:
+      percent: 84
+      wins: 1
+      losses: 0
+    player2:
+      percent: 95
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: SIM
+      position: Third
+      percent: 74
+      win: 0
+      loss: 1
+    player2:
+      team: FER
+      position: Lead
+      percent: 84
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(4)
+    score: FER 10 - SIM 4
+  - player1:
+      team: KOE
+      position: Third
+      percent: 84
+      win: 0
+      loss: 1
+    player2:
+      team: FERB
+      position: Lead
+      percent: 83
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(7)
+    score: KOE 5 - FERB 6
+  - player1:
+      team: KOE
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: FERB
+      position: Lead
+      percent: 95
+      win: 0
+      loss: 1
+    event: Trials (Men)
+    year: 2009
+    draw: Round Robin(7)
+    score: FERB 4 - KOE 9
+- name: Samagalski, Derek
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 1
+      losses: 0
+    player2:
+      percent: 77
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: KK
+      position: Third
+      percent: 80
+      win: 1
+      loss: 0
+    player2:
+      team: RFO
+      position: Lead
+      percent: 77
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(4)
+    score: RFO 6 - KK 7
+- name: Schille, Chris
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 2
+      losses: 0
+    player2:
+      percent: 84
+      wins: 0
+      losses: 2
+  games:
+  - player1:
+      team: KOE
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: GUSH
+      position: Second
+      percent: 83
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Round Robin(2)
+    score: KOE 8 - GUSH 3
+  - player1:
+      team: KOE
+      position: Fourth
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: GUSH
+      position: Second
+      percent: 85
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Page 1-2(12)
+    score: KOE 7 - GUSH 5
+- name: Sharp, Jeff
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 1
+      losses: 0
+    player2:
+      percent: 93
+      wins: 0
+      losses: 1
+  - event: Trials(Men)
+    player1:
+      percent: 83
+      wins: 1
+      losses: 0
+    player2:
+      percent: 81
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: KOE
+      position: Fourth
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: SIMM
+      position: Third
+      percent: 93
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Round Robin(3)
+    score: SIMM 5 - KOE 6
+  - player1:
+      team: KOE
+      position: Third
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: SIMM
+      position: Second
+      percent: 81
+      win: 0
+      loss: 1
+    event: Trials (Men)
+    year: 2009
+    draw: Round Robin(1)
+    score: KOE 8 - SIMM 5
+- name: Simmons, Pat
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 1
+      losses: 0
+    player2:
+      percent: 71
+      wins: 0
+      losses: 1
+  - event: Trials(Men)
+    player1:
+      percent: 83
+      wins: 1
+      losses: 0
+    player2:
+      percent: 80
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: KOE
+      position: Fourth
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: SIMM
+      position: Fourth
+      percent: 71
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Round Robin(3)
+    score: SIMM 5 - KOE 6
+  - player1:
+      team: KOE
+      position: Third
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: SIMM
+      position: Fourth
+      percent: 80
+      win: 0
+      loss: 1
+    event: Trials (Men)
+    year: 2009
+    draw: Round Robin(1)
+    score: KOE 8 - SIMM 5
+- name: Smith, Garth
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 97
+      wins: 1
+      losses: 0
+    player2:
+      percent: 92
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: KOE
+      position: Third
+      percent: 97
+      win: 1
+      loss: 0
+    player2:
+      team: BURT
+      position: Lead
+      percent: 92
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(9)
+    score: BURT 4 - KOE 9
+- name: Sulimma, Hardi
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 84
+      wins: 1
+      losses: 0
+    player2:
+      percent: 79
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: KK
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: BB
+      position: Lead
+      percent: 79
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(2)
+    score: KK 8 - BB 6
+- name: Sylvain, Eric
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 1
+      losses: 0
+    player2:
+      percent: 75
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: Koe
+      position: Fourth
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: Men
+      position: Second
+      percent: 75
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2007
+    draw: Round Robin(10)
+    score: Koe 9 - Men 4
+- name: Walchuk, Don
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 97
+      wins: 1
+      losses: 0
+    player2:
+      percent: 75
+      wins: 0
+      losses: 1
+  - event: Trials(Men)
+    player1:
+      percent: 79
+      wins: 0
+      losses: 1
+    player2:
+      percent: 85
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: KOE
+      position: Third
+      percent: 97
+      win: 1
+      loss: 0
+    player2:
+      team: BURT
+      position: Third
+      percent: 75
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(9)
+    score: BURT 4 - KOE 9
+  - player1:
+      team: MAC
+      position: Second
+      percent: 79
+      win: 0
+      loss: 1
+    player2:
+      team: MAR
+      position: Third
+      percent: 85
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 1997
+    draw: Round Robin(2)
+    score: MAR 8 - MAC 4
+- name: Wozniak, Matt
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 84
+      wins: 1
+      losses: 1
+    player2:
+      percent: 84
+      wins: 1
+      losses: 1
+  games:
+  - player1:
+      team: KOE
+      position: Fourth
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: MCEW
+      position: Second
+      percent: 85
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2008
+    draw: Round Robin(9)
+    score: KOE 6 - MCEW 7
+  - player1:
+      team: KK
+      position: Third
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: MM
+      position: Second
+      percent: 83
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Page 3-4(12)
+    score: MM 7 - KK 10
 - name: McCarrel, Graeme
   totals:
   - event: Trials(Men)
@@ -1550,134 +3193,6 @@ vs:
     year: 1997
     draw: Round Robin(6)
     score: MAC 4 - BUR 9
-- name: Middaugh, Wayne
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 79
-      wins: 2
-      losses: 0
-    player2:
-      percent: 70
-      wins: 0
-      losses: 2
-  games:
-  - player1:
-      team: MAC
-      position: Second
-      percent: 74
-      win: 1
-      loss: 0
-    player2:
-      team: MID
-      position: Fourth
-      percent: 59
-      win: 0
-      loss: 1
-    event: Trials (Men)
-    year: 1997
-    draw: Round Robin(3)
-    score: MAC 7 - MID 5
-  - player1:
-      team: KOE
-      position: Third
-      percent: 86
-      win: 1
-      loss: 0
-    player2:
-      team: MIDD
-      position: Fourth
-      percent: 84
-      win: 0
-      loss: 1
-    event: Trials (Men)
-    year: 2009
-    draw: Round Robin(4)
-    score: MIDD 4 - KOE 11
-- name: Mitchell, Collin
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 83
-      wins: 0
-      losses: 1
-    player2:
-      percent: 83
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: MAC
-      position: Second
-      percent: 83
-      win: 0
-      loss: 1
-    player2:
-      team: HAR
-      position: Second
-      percent: 83
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 1997
-    draw: Round Robin(8)
-    score: HAR 9 - MAC 3
-- name: Morris, John
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 92
-      wins: 0
-      losses: 1
-    player2:
-      percent: 93
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: KOE
-      position: Third
-      percent: 92
-      win: 0
-      loss: 1
-    player2:
-      team: MART
-      position: Third
-      percent: 93
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2009
-    draw: Round Robin(6)
-    score: KOE 7 - MART 8
-- name: Nedohin, David
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 84
-      wins: 1
-      losses: 0
-    player2:
-      percent: 67
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: KOE
-      position: Third
-      percent: 84
-      win: 1
-      loss: 0
-    player2:
-      team: FERB
-      position: Fourth
-      percent: 67
-      win: 0
-      loss: 1
-    event: Trials (Men)
-    year: 2009
-    draw: Round Robin(7)
-    score: FERB 4 - KOE 9
 - name: Nicholls, Peter
   totals:
   - event: Trials(Men)
@@ -1762,34 +3277,6 @@ vs:
     year: 1997
     draw: Round Robin(4)
     score: MAC 4 - WER 6
-- name: Pfeifer, Scott
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 84
-      wins: 1
-      losses: 0
-    player2:
-      percent: 84
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: KOE
-      position: Third
-      percent: 84
-      win: 1
-      loss: 0
-    player2:
-      team: FERB
-      position: Second
-      percent: 84
-      win: 0
-      loss: 1
-    event: Trials (Men)
-    year: 2009
-    draw: Round Robin(7)
-    score: FERB 4 - KOE 9
 - name: Ramcharan, Rudy
   totals:
   - event: Trials(Men)
@@ -1846,34 +3333,6 @@ vs:
     year: 2009
     draw: Round Robin(2)
     score: GUNN 2 - KOE 7
-- name: Rocque, Marcel
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 84
-      wins: 1
-      losses: 0
-    player2:
-      percent: 95
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: KOE
-      position: Third
-      percent: 84
-      win: 1
-      loss: 0
-    player2:
-      team: FERB
-      position: Lead
-      percent: 95
-      win: 0
-      loss: 1
-    event: Trials (Men)
-    year: 2009
-    draw: Round Robin(7)
-    score: FERB 4 - KOE 9
 - name: Rogers, Les
   totals:
   - event: Trials(Men)
@@ -1958,62 +3417,6 @@ vs:
     year: 1997
     draw: Round Robin(7)
     score: PAR 5 - MAC 11
-- name: Sharp, Jeff
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 83
-      wins: 1
-      losses: 0
-    player2:
-      percent: 81
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: KOE
-      position: Third
-      percent: 83
-      win: 1
-      loss: 0
-    player2:
-      team: SIMM
-      position: Second
-      percent: 81
-      win: 0
-      loss: 1
-    event: Trials (Men)
-    year: 2009
-    draw: Round Robin(1)
-    score: KOE 8 - SIMM 5
-- name: Simmons, Pat
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 83
-      wins: 1
-      losses: 0
-    player2:
-      percent: 80
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: KOE
-      position: Third
-      percent: 83
-      win: 1
-      loss: 0
-    player2:
-      team: SIMM
-      position: Fourth
-      percent: 80
-      win: 0
-      loss: 1
-    event: Trials (Men)
-    year: 2009
-    draw: Round Robin(1)
-    score: KOE 8 - SIMM 5
 - name: Smith, Dave
   totals:
   - event: Trials(Men)
@@ -2126,34 +3529,6 @@ vs:
     year: 1997
     draw: Round Robin(5)
     score: STO 5 - MAC 6
-- name: Walchuk, Don
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 79
-      wins: 0
-      losses: 1
-    player2:
-      percent: 85
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: MAC
-      position: Second
-      percent: 79
-      win: 0
-      loss: 1
-    player2:
-      team: MAR
-      position: Third
-      percent: 85
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 1997
-    draw: Round Robin(2)
-    score: MAR 8 - MAC 4
 - name: Werenich, Ed
   totals:
   - event: Trials(Men)

@@ -16,7 +16,7 @@
 title: Curling Canada Stats Archive
 email: bcassidyjr@curling.ca
 baseurl: ""
-url: "https://stats.curling.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://stats.curling.io"
 
 # Build settings
 markdown: kramdown
@@ -44,6 +44,12 @@ collections:
   trials-women:
     output: true
     permalink: /trials-women/:path
+  cancup-men:
+    output: true
+    permalink: /cancup-men/:path
+  cancup-women:
+    output: true
+    permalink: /cancup-women/:path
   vs:
     output: true
     permalink: /vs/:path
@@ -82,6 +88,16 @@ defaults:
   - scope:
       path: ""
       type: "trials-women"
+    values:
+      layout: event
+  - scope:
+      path: ""
+      type: "cancup-men"
+    values:
+      layout: event
+  - scope:
+      path: ""
+      type: "cancup-women"
     values:
       layout: event
   - scope:

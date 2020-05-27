@@ -13,6 +13,15 @@ vs:
       percent: 88
       wins: 1
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 92
+      wins: 0
+      losses: 1
+    player2:
+      percent: 92
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 93
@@ -55,6 +64,22 @@ vs:
     year: 2018
     draw: Semi-Final(22)
     score: AB 6 - ON 4
+  - player1:
+      team: Howa
+      position: Lead
+      percent: 92
+      win: 0
+      loss: 1
+    player2:
+      team: Bott
+      position: Lead
+      percent: 92
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(3)
+    score: Bott 9 - Howa 3
   - player1:
       team: Eppi
       position: Lead
@@ -110,6 +135,15 @@ vs:
       percent: 90
       wins: 0
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 90
+      wins: 0
+      losses: 2
+    player2:
+      percent: 82
+      wins: 2
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 91
@@ -137,6 +171,38 @@ vs:
     draw: Pool(15)
     score: WC 7 - ON 8
   - player1:
+      team: EPP
+      position: Lead
+      percent: 93
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Fourth
+      percent: 80
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(3)
+    score: MCE 9 - EPP 6
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Fourth
+      percent: 85
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(4)
+    score: MCE 7 - EPP 3
+  - player1:
       team: Eppi
       position: Lead
       percent: 91
@@ -163,6 +229,15 @@ vs:
       percent: 85
       wins: 0
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 91
+      wins: 2
+      losses: 2
+    player2:
+      percent: 84
+      wins: 2
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 85
@@ -190,6 +265,70 @@ vs:
     draw: Round Robin(9)
     score: MB 5 - ON 10
   - player1:
+      team: EPP
+      position: Lead
+      percent: 98
+      win: 1
+      loss: 0
+    player2:
+      team: CAR
+      position: Third
+      percent: 73
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(10)
+    score: EPP 9 - CAR 4
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 92
+      win: 0
+      loss: 1
+    player2:
+      team: CAR
+      position: Third
+      percent: 95
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(1)
+    score: CAR 8 - EPP 3
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 95
+      win: 0
+      loss: 1
+    player2:
+      team: CAR
+      position: Third
+      percent: 95
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Semi-Final(12)
+    score: CAR 6 - EPP 5
+  - player1:
+      team: Howa
+      position: Lead
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: Duns
+      position: Third
+      percent: 66
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(9)
+    score: Duns 2 - Howa 5
+  - player1:
       team: Eppi
       position: Lead
       percent: 85
@@ -216,6 +355,15 @@ vs:
       percent: 84
       wins: 1
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 92
+      wins: 0
+      losses: 1
+    player2:
+      percent: 91
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 93
@@ -258,6 +406,22 @@ vs:
     year: 2018
     draw: Semi-Final(22)
     score: AB 6 - ON 4
+  - player1:
+      team: Howa
+      position: Lead
+      percent: 92
+      win: 0
+      loss: 1
+    player2:
+      team: Bott
+      position: Third
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(3)
+    score: Bott 9 - Howa 3
   - player1:
       team: Eppi
       position: Lead
@@ -313,6 +477,15 @@ vs:
       percent: 97
       wins: 0
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 86
+      wins: 3
+      losses: 0
+    player2:
+      percent: 92
+      wins: 0
+      losses: 3
   - event: Trials(Men)
     player1:
       percent: 79
@@ -340,6 +513,54 @@ vs:
     draw: Round Robin(13)
     score: ON 8 - SK 4
   - player1:
+      team: EPP
+      position: Lead
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: LAY
+      position: Lead
+      percent: 95
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(1)
+    score: EPP 7 - LAY 5
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: LAY
+      position: Lead
+      percent: 86
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(8)
+    score: EPP 8 - LAY 6
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: LAY
+      position: Lead
+      percent: 95
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Tie-Breaker(11)
+    score: EPP 7 - LAY 5
+  - player1:
       team: Eppi
       position: Lead
       percent: 79
@@ -366,6 +587,15 @@ vs:
       percent: 79
       wins: 0
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 86
+      wins: 3
+      losses: 0
+    player2:
+      percent: 77
+      wins: 0
+      losses: 3
   - event: Trials(Men)
     player1:
       percent: 79
@@ -392,6 +622,54 @@ vs:
     year: 2018
     draw: Round Robin(13)
     score: ON 8 - SK 4
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: LAY
+      position: Third
+      percent: 84
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(1)
+    score: EPP 7 - LAY 5
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: LAY
+      position: Third
+      percent: 65
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(8)
+    score: EPP 8 - LAY 6
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: LAY
+      position: Third
+      percent: 81
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Tie-Breaker(11)
+    score: EPP 7 - LAY 5
   - player1:
       team: Eppi
       position: Lead
@@ -447,6 +725,15 @@ vs:
       percent: 90
       wins: 0
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 1
+      losses: 2
+    player2:
+      percent: 84
+      wins: 2
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 91
@@ -474,6 +761,54 @@ vs:
     draw: Pool(15)
     score: WC 7 - ON 8
   - player1:
+      team: EPP
+      position: Lead
+      percent: 93
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Third
+      percent: 96
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(3)
+    score: MCE 9 - EPP 6
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Third
+      percent: 82
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(4)
+    score: MCE 7 - EPP 3
+  - player1:
+      team: Howa
+      position: Lead
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: Koe
+      position: Third
+      percent: 75
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(5)
+    score: Howa 9 - Koe 6
+  - player1:
       team: Eppi
       position: Lead
       percent: 91
@@ -500,6 +835,15 @@ vs:
       percent: 86
       wins: 0
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 90
+      wins: 0
+      losses: 2
+    player2:
+      percent: 87
+      wins: 2
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 91
@@ -527,6 +871,38 @@ vs:
     draw: Pool(15)
     score: WC 7 - ON 8
   - player1:
+      team: EPP
+      position: Lead
+      percent: 93
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(3)
+    score: MCE 9 - EPP 6
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Lead
+      percent: 81
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(4)
+    score: MCE 7 - EPP 3
+  - player1:
       team: Eppi
       position: Lead
       percent: 91
@@ -553,6 +929,15 @@ vs:
       percent: 94
       wins: 2
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 2
+      losses: 1
+    player2:
+      percent: 80
+      wins: 1
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 89
@@ -595,6 +980,54 @@ vs:
     year: 2018
     draw: Page 1-2(21)
     score: CA 6 - ON 2
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    player2:
+      team: GUS
+      position: Third
+      percent: 84
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(9)
+    score: EPP 8 - GUS 6
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: GUS
+      position: Fourth
+      percent: 64
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(6)
+    score: EPP 8 - GUS 4
+  - player1:
+      team: Howa
+      position: Lead
+      percent: 81
+      win: 0
+      loss: 1
+    player2:
+      team: Gush
+      position: Third
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(6)
+    score: Gush 4 - Howa 3
   - player1:
       team: Eppi
       position: Lead
@@ -650,6 +1083,15 @@ vs:
       percent: 85
       wins: 0
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 95
+      wins: 1
+      losses: 2
+    player2:
+      percent: 86
+      wins: 2
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 85
@@ -676,6 +1118,54 @@ vs:
     year: 2018
     draw: Round Robin(9)
     score: MB 5 - ON 10
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 98
+      win: 1
+      loss: 0
+    player2:
+      team: CAR
+      position: Second
+      percent: 91
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(10)
+    score: EPP 9 - CAR 4
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 92
+      win: 0
+      loss: 1
+    player2:
+      team: CAR
+      position: Second
+      percent: 77
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(1)
+    score: CAR 8 - EPP 3
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 95
+      win: 0
+      loss: 1
+    player2:
+      team: CAR
+      position: Second
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Semi-Final(12)
+    score: CAR 6 - EPP 5
   - player1:
       team: Eppi
       position: Lead
@@ -731,6 +1221,15 @@ vs:
       percent: 85
       wins: 1
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 92
+      wins: 0
+      losses: 1
+    player2:
+      percent: 84
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 93
@@ -773,6 +1272,22 @@ vs:
     year: 2018
     draw: Semi-Final(22)
     score: AB 6 - ON 4
+  - player1:
+      team: Howa
+      position: Lead
+      percent: 92
+      win: 0
+      loss: 1
+    player2:
+      team: Bott
+      position: Second
+      percent: 84
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(3)
+    score: Bott 9 - Howa 3
   - player1:
       team: Eppi
       position: Lead
@@ -828,6 +1343,15 @@ vs:
       percent: 86
       wins: 2
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 2
+      losses: 1
+    player2:
+      percent: 93
+      wins: 1
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 89
@@ -871,6 +1395,54 @@ vs:
     draw: Page 1-2(21)
     score: CA 6 - ON 2
   - player1:
+      team: EPP
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    player2:
+      team: GUS
+      position: Lead
+      percent: 98
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(9)
+    score: EPP 8 - GUS 6
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: GUS
+      position: Lead
+      percent: 94
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(6)
+    score: EPP 8 - GUS 4
+  - player1:
+      team: Howa
+      position: Lead
+      percent: 81
+      win: 0
+      loss: 1
+    player2:
+      team: Gush
+      position: Lead
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(6)
+    score: Gush 4 - Howa 3
+  - player1:
       team: Eppi
       position: Lead
       percent: 89
@@ -897,6 +1469,15 @@ vs:
       percent: 91
       wins: 0
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 90
+      wins: 0
+      losses: 2
+    player2:
+      percent: 89
+      wins: 2
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 91
@@ -923,6 +1504,38 @@ vs:
     year: 2018
     draw: Pool(15)
     score: WC 7 - ON 8
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 93
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Second
+      percent: 98
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(3)
+    score: MCE 9 - EPP 6
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Second
+      percent: 79
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(4)
+    score: MCE 7 - EPP 3
   - player1:
       team: Eppi
       position: Lead
@@ -969,6 +1582,15 @@ vs:
     score: ON 11 - PE 4
 - name: Morris, John
   totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 1
+      losses: 1
+    player2:
+      percent: 88
+      wins: 1
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 88
@@ -979,6 +1601,38 @@ vs:
       wins: 1
       losses: 0
   games:
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 90
+      win: 0
+      loss: 1
+    player2:
+      team: SIM
+      position: Third
+      percent: 86
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(8)
+    score: SIM 8 - EPP 6
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: SIM
+      position: Third
+      percent: 90
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Tie-Breaker(11)
+    score: EPP 7 - SIM 5
   - player1:
       team: Eppi
       position: Lead
@@ -995,8 +1649,61 @@ vs:
     year: 2017
     draw: Round Robin(18)
     score: Eppi 5 - Morr 6
+- name: Rycroft, Carter
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 1
+      losses: 1
+    player2:
+      percent: 82
+      wins: 1
+      losses: 1
+  games:
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 90
+      win: 0
+      loss: 1
+    player2:
+      team: SIM
+      position: Second
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(8)
+    score: SIM 8 - EPP 6
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: SIM
+      position: Second
+      percent: 75
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Tie-Breaker(11)
+    score: EPP 7 - SIM 5
 - name: Schneider, Catlin
   totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 78
+      wins: 1
+      losses: 0
+    player2:
+      percent: 61
+      wins: 0
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 88
@@ -1007,6 +1714,22 @@ vs:
       wins: 1
       losses: 0
   games:
+  - player1:
+      team: Howa
+      position: Lead
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: Duns
+      position: Second
+      percent: 61
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(9)
+    score: Duns 2 - Howa 5
   - player1:
       team: Eppi
       position: Lead
@@ -1023,6 +1746,122 @@ vs:
     year: 2017
     draw: Round Robin(18)
     score: Eppi 5 - Morr 6
+- name: Simmons, Pat
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 1
+      losses: 1
+    player2:
+      percent: 86
+      wins: 1
+      losses: 1
+  games:
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 90
+      win: 0
+      loss: 1
+    player2:
+      team: SIM
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(8)
+    score: SIM 8 - EPP 6
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: SIM
+      position: Fourth
+      percent: 86
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Tie-Breaker(11)
+    score: EPP 7 - SIM 5
+- name: Thiessen, Nolan
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 1
+      losses: 1
+    player2:
+      percent: 93
+      wins: 1
+      losses: 1
+  games:
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 90
+      win: 0
+      loss: 1
+    player2:
+      team: SIM
+      position: Lead
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(8)
+    score: SIM 8 - EPP 6
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: SIM
+      position: Lead
+      percent: 96
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Tie-Breaker(11)
+    score: EPP 7 - SIM 5
+- name: Thomas, Charley
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 91
+      wins: 1
+      losses: 0
+    player2:
+      percent: 81
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: GUS
+      position: Third
+      percent: 81
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(6)
+    score: EPP 8 - GUS 4
 - name: Steski, Peter
   totals:
   - event: Trials(Men)

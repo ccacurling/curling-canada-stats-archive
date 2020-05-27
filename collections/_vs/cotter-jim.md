@@ -868,6 +868,15 @@ vs:
       percent: 87
       wins: 6
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 86
+      wins: 0
+      losses: 1
+    player2:
+      percent: 84
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 86
@@ -991,6 +1000,22 @@ vs:
     draw: Round Robin(4)
     score: ON 11 - BC 3
   - player1:
+      team: COT
+      position: Fourth
+      percent: 86
+      win: 0
+      loss: 1
+    player2:
+      team: JAC
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(3)
+    score: JAC 8 - COT 4
+  - player1:
       team: MOR
       position: Fourth
       percent: 74
@@ -1105,6 +1130,15 @@ vs:
       percent: 86
       wins: 3
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 79
+      wins: 0
+      losses: 1
+    player2:
+      percent: 94
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 81
@@ -1195,6 +1229,22 @@ vs:
     year: 2019
     draw: Round Robin(6)
     score: BC 4 - CA 10
+  - player1:
+      team: COT
+      position: Fourth
+      percent: 79
+      win: 0
+      loss: 1
+    player2:
+      team: GUS
+      position: Second
+      percent: 94
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(7)
+    score: GUS 5 - COT 4
   - player1:
       team: Morr
       position: Third
@@ -1375,6 +1425,15 @@ vs:
       percent: 83
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 83
+      wins: 0
+      losses: 1
+    player2:
+      percent: 98
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 77
@@ -1401,6 +1460,22 @@ vs:
     year: 2011
     draw: Round Robin(1)
     score: MB 10 - BC 4
+  - player1:
+      team: Rya
+      position: Fourth
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: Sto
+      position: Lead
+      percent: 98
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(11)
+    score: Sto 5 - Rya 3
   - player1:
       team: RYA
       position: Fourth
@@ -1504,6 +1579,15 @@ vs:
       percent: 83
       wins: 5
       losses: 4
+  - event: Canada Cup (Men)
+    player1:
+      percent: 72
+      wins: 0
+      losses: 3
+    player2:
+      percent: 89
+      wins: 3
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 81
@@ -1659,6 +1743,54 @@ vs:
     draw: Round Robin(6)
     score: BC 4 - CA 10
   - player1:
+      team: Rya
+      position: Fourth
+      percent: 72
+      win: 0
+      loss: 1
+    player2:
+      team: Gus
+      position: Fourth
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(4)
+    score: Rya 7 - Gus 9
+  - player1:
+      team: Cot
+      position: Fourth
+      percent: 63
+      win: 0
+      loss: 1
+    player2:
+      team: Gus
+      position: Fourth
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2006
+    draw: Round Robin(2)
+    score: Gus 8 - Cot 3
+  - player1:
+      team: COT
+      position: Fourth
+      percent: 79
+      win: 0
+      loss: 1
+    player2:
+      team: GUS
+      position: Fourth
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(7)
+    score: GUS 5 - COT 4
+  - player1:
       team: RYA
       position: Fourth
       percent: 81
@@ -1701,6 +1833,15 @@ vs:
       percent: 84
       wins: 5
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 86
+      wins: 0
+      losses: 1
+    player2:
+      percent: 89
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 86
@@ -1824,6 +1965,22 @@ vs:
     draw: Pool(15)
     score: NO 11 - BC 5
   - player1:
+      team: COT
+      position: Fourth
+      percent: 86
+      win: 0
+      loss: 1
+    player2:
+      team: JAC
+      position: Second
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(3)
+    score: JAC 8 - COT 4
+  - player1:
       team: MOR
       position: Fourth
       percent: 74
@@ -1882,6 +2039,15 @@ vs:
       percent: 89
       wins: 5
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 86
+      wins: 0
+      losses: 1
+    player2:
+      percent: 86
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 86
@@ -2005,6 +2171,22 @@ vs:
     draw: Pool(15)
     score: NO 11 - BC 5
   - player1:
+      team: COT
+      position: Fourth
+      percent: 86
+      win: 0
+      loss: 1
+    player2:
+      team: JAC
+      position: Lead
+      percent: 86
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(3)
+    score: JAC 8 - COT 4
+  - player1:
       team: MOR
       position: Fourth
       percent: 74
@@ -2090,6 +2272,15 @@ vs:
     player2:
       percent: 88
       wins: 4
+      losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 1
+      losses: 0
+    player2:
+      percent: 86
+      wins: 0
       losses: 1
   - event: Trials(Men)
     player1:
@@ -2182,6 +2373,22 @@ vs:
     draw: Round Robin(3)
     score: BC 3 - ON 5
   - player1:
+      team: COT
+      position: Fourth
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: HOW
+      position: Third
+      percent: 86
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(9)
+    score: HOW 4 - COT 6
+  - player1:
       team: RYA
       position: Fourth
       percent: 86
@@ -2208,6 +2415,15 @@ vs:
       percent: 91
       wins: 5
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 1
+      losses: 1
+    player2:
+      percent: 95
+      wins: 1
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 83
@@ -2330,6 +2546,38 @@ vs:
     year: 2020
     draw: Round Robin(14)
     score: BC 3 - CA 9
+  - player1:
+      team: Cot
+      position: Fourth
+      percent: 85
+      win: 0
+      loss: 1
+    player2:
+      team: Mor
+      position: Lead
+      percent: 95
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2006
+    draw: Round Robin(4)
+    score: Mor 9 - Cot 7
+  - player1:
+      team: COT
+      position: Fourth
+      percent: 92
+      win: 1
+      loss: 0
+    player2:
+      team: KOE
+      position: Lead
+      percent: 96
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(5)
+    score: COT 7 - KOE 2
   - player1:
       team: MOR
       position: Fourth
@@ -2474,6 +2722,15 @@ vs:
       percent: 85
       wins: 5
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 1
+      losses: 0
+    player2:
+      percent: 73
+      wins: 0
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 88
@@ -2580,6 +2837,22 @@ vs:
     year: 2017
     draw: Round Robin(3)
     score: BC 3 - ON 5
+  - player1:
+      team: COT
+      position: Fourth
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: HOW
+      position: Fourth
+      percent: 73
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(9)
+    score: HOW 4 - COT 6
   - player1:
       team: RYA
       position: Fourth
@@ -2739,6 +3012,15 @@ vs:
       percent: 82
       wins: 5
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 86
+      wins: 0
+      losses: 1
+    player2:
+      percent: 91
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 86
@@ -2861,6 +3143,22 @@ vs:
     year: 2019
     draw: Pool(15)
     score: NO 11 - BC 5
+  - player1:
+      team: COT
+      position: Fourth
+      percent: 86
+      win: 0
+      loss: 1
+    player2:
+      team: JAC
+      position: Fourth
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(3)
+    score: JAC 8 - COT 4
   - player1:
       team: MOR
       position: Fourth
@@ -3176,6 +3474,15 @@ vs:
       percent: 92
       wins: 3
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 1
+      losses: 1
+    player2:
+      percent: 92
+      wins: 1
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 81
@@ -3266,6 +3573,38 @@ vs:
     year: 2017
     draw: Round Robin(7)
     score: CA 4 - BC 5
+  - player1:
+      team: Cot
+      position: Fourth
+      percent: 85
+      win: 0
+      loss: 1
+    player2:
+      team: Mor
+      position: Second
+      percent: 90
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2006
+    draw: Round Robin(4)
+    score: Mor 9 - Cot 7
+  - player1:
+      team: COT
+      position: Fourth
+      percent: 92
+      win: 1
+      loss: 0
+    player2:
+      team: KOE
+      position: Third
+      percent: 94
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(5)
+    score: COT 7 - KOE 2
   - player1:
       team: RYA
       position: Fourth
@@ -3585,6 +3924,15 @@ vs:
       percent: 81
       wins: 5
       losses: 4
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 1
+      losses: 1
+    player2:
+      percent: 80
+      wins: 1
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 83
@@ -3740,6 +4088,38 @@ vs:
     draw: Round Robin(14)
     score: BC 3 - CA 9
   - player1:
+      team: Cot
+      position: Fourth
+      percent: 85
+      win: 0
+      loss: 1
+    player2:
+      team: Mor
+      position: Third
+      percent: 75
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2006
+    draw: Round Robin(4)
+    score: Mor 9 - Cot 7
+  - player1:
+      team: COT
+      position: Fourth
+      percent: 92
+      win: 1
+      loss: 0
+    player2:
+      team: KOE
+      position: Fourth
+      percent: 85
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(5)
+    score: COT 7 - KOE 2
+  - player1:
       team: RYA
       position: Fourth
       percent: 76
@@ -3826,6 +4206,15 @@ vs:
       percent: 88
       wins: 6
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 92
+      wins: 1
+      losses: 0
+    player2:
+      percent: 88
+      wins: 0
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 85
@@ -3964,6 +4353,22 @@ vs:
     year: 2020
     draw: Round Robin(4)
     score: ON 11 - BC 3
+  - player1:
+      team: COT
+      position: Fourth
+      percent: 92
+      win: 1
+      loss: 0
+    player2:
+      team: KOE
+      position: Second
+      percent: 88
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(5)
+    score: COT 7 - KOE 2
   - player1:
       team: RYA
       position: Fourth
@@ -4593,6 +4998,15 @@ vs:
       percent: 83
       wins: 2
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 67
+      wins: 0
+      losses: 2
+    player2:
+      percent: 90
+      wins: 2
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 86
@@ -4635,6 +5049,38 @@ vs:
     year: 2011
     draw: Round Robin(4)
     score: BC 2 - AB 8
+  - player1:
+      team: Rya
+      position: Fourth
+      percent: 77
+      win: 0
+      loss: 1
+    player2:
+      team: Mar
+      position: Fourth
+      percent: 100
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(6)
+    score: Mar 8 - Rya 2
+  - player1:
+      team: Cot
+      position: Fourth
+      percent: 57
+      win: 0
+      loss: 1
+    player2:
+      team: Mar
+      position: Fourth
+      percent: 80
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2006
+    draw: Round Robin(10)
+    score: Cot 5 - Mar 9
   - player1:
       team: RYA
       position: Fourth
@@ -4923,6 +5369,15 @@ vs:
       percent: 84
       wins: 3
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 66
+      wins: 0
+      losses: 1
+    player2:
+      percent: 88
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 88
@@ -4997,6 +5452,22 @@ vs:
     year: 2020
     draw: Round Robin(7)
     score: WC 10 - BC 5
+  - player1:
+      team: COT
+      position: Fourth
+      percent: 66
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Fourth
+      percent: 88
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(4)
+    score: COT 4 - MCE 9
   - player1:
       team: MOR
       position: Fourth
@@ -5096,6 +5567,15 @@ vs:
       percent: 91
       wins: 2
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 82
+      wins: 1
+      losses: 1
+    player2:
+      percent: 88
+      wins: 1
+      losses: 1
   games:
   - player1:
       team: BC
@@ -5129,6 +5609,38 @@ vs:
     year: 2014
     draw: Round Robin(14)
     score: BC 6 - MB 7
+  - player1:
+      team: Rya
+      position: Fourth
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: Sto
+      position: Third
+      percent: 85
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(11)
+    score: Sto 5 - Rya 3
+  - player1:
+      team: COT
+      position: Fourth
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: HOW
+      position: Second
+      percent: 90
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(9)
+    score: HOW 4 - COT 6
 - name: Menard, Jean-Michel
   totals:
   - event: Brier
@@ -5430,6 +5942,15 @@ vs:
       percent: 88
       wins: 4
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 82
+      wins: 0
+      losses: 2
+    player2:
+      percent: 83
+      wins: 2
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 76
@@ -5504,6 +6025,38 @@ vs:
     year: 2016
     draw: Round Robin(9)
     score: BC 4 - CA 8
+  - player1:
+      team: Cot
+      position: Fourth
+      percent: 85
+      win: 0
+      loss: 1
+    player2:
+      team: Mor
+      position: Fourth
+      percent: 84
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2006
+    draw: Round Robin(4)
+    score: Mor 9 - Cot 7
+  - player1:
+      team: COT
+      position: Fourth
+      percent: 79
+      win: 0
+      loss: 1
+    player2:
+      team: MOR
+      position: Fourth
+      percent: 83
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(2)
+    score: COT 4 - MOR 7
   - player1:
       team: RYA
       position: Fourth
@@ -6047,6 +6600,15 @@ vs:
       percent: 86
       wins: 3
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 79
+      wins: 0
+      losses: 1
+    player2:
+      percent: 88
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 88
@@ -6122,6 +6684,22 @@ vs:
     draw: Round Robin(14)
     score: BC 3 - CA 9
   - player1:
+      team: COT
+      position: Fourth
+      percent: 79
+      win: 0
+      loss: 1
+    player2:
+      team: GUS
+      position: Third
+      percent: 88
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(7)
+    score: GUS 5 - COT 4
+  - player1:
       team: MOR
       position: Fourth
       percent: 87
@@ -6164,6 +6742,15 @@ vs:
       percent: 99
       wins: 1
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 66
+      wins: 0
+      losses: 1
+    player2:
+      percent: 89
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 88
@@ -6206,6 +6793,22 @@ vs:
     year: 2017
     draw: Round Robin(10)
     score: BC 7 - MB 5
+  - player1:
+      team: COT
+      position: Fourth
+      percent: 66
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Lead
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(4)
+    score: COT 4 - MCE 9
   - player1:
       team: MOR
       position: Fourth
@@ -6277,6 +6880,15 @@ vs:
       percent: 88
       wins: 5
       losses: 3
+  - event: Canada Cup (Men)
+    player1:
+      percent: 72
+      wins: 0
+      losses: 3
+    player2:
+      percent: 86
+      wins: 3
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 83
@@ -6415,6 +7027,54 @@ vs:
     year: 2019
     draw: Round Robin(6)
     score: BC 4 - CA 10
+  - player1:
+      team: Rya
+      position: Fourth
+      percent: 72
+      win: 0
+      loss: 1
+    player2:
+      team: Gus
+      position: Third
+      percent: 77
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(4)
+    score: Rya 7 - Gus 9
+  - player1:
+      team: Cot
+      position: Fourth
+      percent: 63
+      win: 0
+      loss: 1
+    player2:
+      team: Gus
+      position: Third
+      percent: 97
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2006
+    draw: Round Robin(2)
+    score: Gus 8 - Cot 3
+  - player1:
+      team: COT
+      position: Fourth
+      percent: 79
+      win: 0
+      loss: 1
+    player2:
+      team: GUS
+      position: Third
+      percent: 88
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(7)
+    score: GUS 5 - COT 4
   - player1:
       team: RYA
       position: Fourth
@@ -6866,6 +7526,15 @@ vs:
       percent: 86
       wins: 4
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 72
+      wins: 0
+      losses: 3
+    player2:
+      percent: 92
+      wins: 3
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 91
@@ -6972,6 +7641,54 @@ vs:
     year: 2016
     draw: Round Robin(9)
     score: BC 4 - CA 8
+  - player1:
+      team: Rya
+      position: Fourth
+      percent: 77
+      win: 0
+      loss: 1
+    player2:
+      team: Mar
+      position: Second
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(6)
+    score: Mar 8 - Rya 2
+  - player1:
+      team: Cot
+      position: Fourth
+      percent: 57
+      win: 0
+      loss: 1
+    player2:
+      team: Mar
+      position: Second
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2006
+    draw: Round Robin(10)
+    score: Cot 5 - Mar 9
+  - player1:
+      team: COT
+      position: Fourth
+      percent: 79
+      win: 0
+      loss: 1
+    player2:
+      team: MOR
+      position: Second
+      percent: 94
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(2)
+    score: COT 4 - MOR 7
   - player1:
       team: RYA
       position: Fourth
@@ -7144,6 +7861,15 @@ vs:
       percent: 87
       wins: 4
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 1
+      losses: 0
+    player2:
+      percent: 73
+      wins: 0
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 88
@@ -7218,6 +7944,22 @@ vs:
     year: 2012
     draw: Round Robin(12)
     score: BC 4 - ON 8
+  - player1:
+      team: COT
+      position: Fourth
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: HOW
+      position: Lead
+      percent: 73
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(9)
+    score: HOW 4 - COT 6
   - player1:
       team: RYA
       position: Fourth
@@ -7509,6 +8251,15 @@ vs:
       percent: 84
       wins: 6
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 79
+      wins: 0
+      losses: 1
+    player2:
+      percent: 85
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 93
@@ -7647,6 +8398,22 @@ vs:
     year: 2016
     draw: Round Robin(9)
     score: BC 4 - CA 8
+  - player1:
+      team: COT
+      position: Fourth
+      percent: 79
+      win: 0
+      loss: 1
+    player2:
+      team: MOR
+      position: Third
+      percent: 85
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(2)
+    score: COT 4 - MOR 7
   - player1:
       team: MOR
       position: Fourth
@@ -7814,6 +8581,15 @@ vs:
       percent: 93
       wins: 2
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 83
+      wins: 0
+      losses: 1
+    player2:
+      percent: 94
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 81
@@ -7856,6 +8632,22 @@ vs:
     year: 2014
     draw: Round Robin(14)
     score: BC 6 - MB 7
+  - player1:
+      team: Rya
+      position: Fourth
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: Sto
+      position: Fourth
+      percent: 94
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(11)
+    score: Sto 5 - Rya 3
   - player1:
       team: RYA
       position: Fourth
@@ -8088,6 +8880,15 @@ vs:
       percent: 86
       wins: 4
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 79
+      wins: 0
+      losses: 1
+    player2:
+      percent: 100
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 93
@@ -8194,6 +8995,22 @@ vs:
     year: 2016
     draw: Round Robin(9)
     score: BC 4 - CA 8
+  - player1:
+      team: COT
+      position: Fourth
+      percent: 79
+      win: 0
+      loss: 1
+    player2:
+      team: MOR
+      position: Lead
+      percent: 100
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(2)
+    score: COT 4 - MOR 7
   - player1:
       team: MOR
       position: Fourth
@@ -8305,6 +9122,15 @@ vs:
       percent: 86
       wins: 4
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 79
+      wins: 0
+      losses: 1
+    player2:
+      percent: 79
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 81
@@ -8411,6 +9237,22 @@ vs:
     year: 2019
     draw: Round Robin(6)
     score: BC 4 - CA 10
+  - player1:
+      team: COT
+      position: Fourth
+      percent: 79
+      win: 0
+      loss: 1
+    player2:
+      team: GUS
+      position: Lead
+      percent: 79
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(7)
+    score: GUS 5 - COT 4
   - player1:
       team: Morr
       position: Third
@@ -8550,6 +9392,15 @@ vs:
       percent: 92
       wins: 1
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 66
+      wins: 0
+      losses: 1
+    player2:
+      percent: 83
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 88
@@ -8593,6 +9444,22 @@ vs:
     draw: Round Robin(10)
     score: BC 7 - MB 5
   - player1:
+      team: COT
+      position: Fourth
+      percent: 66
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Second
+      percent: 83
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2014
+    draw: Round Robin(4)
+    score: COT 4 - MCE 9
+  - player1:
       team: MOR
       position: Fourth
       percent: 87
@@ -8624,6 +9491,733 @@ vs:
     year: 2017
     draw: Round Robin(4)
     score: Morr 1 - McEw 3
+- name: Ferbey, Randy
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 0
+      losses: 1
+    player2:
+      percent: 83
+      wins: 1
+      losses: 0
+  - event: Trials(Men)
+    player1:
+      percent: 75
+      wins: 0
+      losses: 1
+    player2:
+      percent: 84
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Rya
+      position: Fourth
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: Fer
+      position: Third
+      percent: 83
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(3)
+    score: Fer 5 - Rya 3
+  - player1:
+      team: RYA
+      position: Fourth
+      percent: 75
+      win: 0
+      loss: 1
+    player2:
+      team: FER
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2005
+    draw: Round Robin(16)
+    score: RYA 5 - FER 8
+- name: Folk, Kevin
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 65
+      wins: 0
+      losses: 1
+    player2:
+      percent: 90
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Cot
+      position: Fourth
+      percent: 65
+      win: 0
+      loss: 1
+    player2:
+      team: Urs
+      position: Second
+      percent: 90
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2006
+    draw: Round Robin(7)
+    score: Urs 7 - Cot 5
+- name: Harris, Mike
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 78
+      wins: 0
+      losses: 1
+    player2:
+      percent: 79
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Rya
+      position: Fourth
+      percent: 78
+      win: 0
+      loss: 1
+    player2:
+      team: Har
+      position: Fourth
+      percent: 79
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(9)
+    score: Rya 7 - Har 10
+- name: Howard, Russ
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 63
+      wins: 0
+      losses: 1
+    player2:
+      percent: 84
+      wins: 1
+      losses: 0
+  - event: Trials(Men)
+    player1:
+      percent: 81
+      wins: 1
+      losses: 0
+    player2:
+      percent: 85
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: Cot
+      position: Fourth
+      percent: 63
+      win: 0
+      loss: 1
+    player2:
+      team: Gus
+      position: Second
+      percent: 84
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2006
+    draw: Round Robin(2)
+    score: Gus 8 - Cot 3
+  - player1:
+      team: RYA
+      position: Fourth
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: GUS
+      position: Second
+      percent: 85
+      win: 0
+      loss: 1
+    event: Trials (Men)
+    year: 2005
+    draw: Round Robin(10)
+    score: RYA 9 - GUS 5
+- name: Johnson, Mark
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 71
+      wins: 0
+      losses: 1
+    player2:
+      percent: 88
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Cot
+      position: Fourth
+      percent: 71
+      win: 0
+      loss: 1
+    player2:
+      team: Joh
+      position: Fourth
+      percent: 88
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2006
+    draw: Round Robin(5)
+    score: Cot 4 - Joh 7
+- name: Kennedy, Glen
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 71
+      wins: 0
+      losses: 1
+    player2:
+      percent: 71
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Cot
+      position: Fourth
+      percent: 71
+      win: 0
+      loss: 1
+    player2:
+      team: Joh
+      position: Second
+      percent: 71
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2006
+    draw: Round Robin(5)
+    score: Cot 4 - Joh 7
+- name: Korab, Jamie
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 72
+      wins: 0
+      losses: 1
+    player2:
+      percent: 89
+      wins: 1
+      losses: 0
+  - event: Trials(Men)
+    player1:
+      percent: 81
+      wins: 1
+      losses: 0
+    player2:
+      percent: 100
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: Rya
+      position: Fourth
+      percent: 72
+      win: 0
+      loss: 1
+    player2:
+      team: Gus
+      position: Lead
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(4)
+    score: Rya 7 - Gus 9
+  - player1:
+      team: RYA
+      position: Fourth
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: GUS
+      position: Lead
+      percent: 100
+      win: 0
+      loss: 1
+    event: Trials (Men)
+    year: 2005
+    draw: Round Robin(10)
+    score: RYA 9 - GUS 5
+- name: Loevenmark, Phil
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 78
+      wins: 0
+      losses: 1
+    player2:
+      percent: 86
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Rya
+      position: Fourth
+      percent: 78
+      win: 0
+      loss: 1
+    player2:
+      team: Har
+      position: Second
+      percent: 86
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(9)
+    score: Rya 7 - Har 10
+- name: Nedohin, David
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 0
+      losses: 1
+    player2:
+      percent: 93
+      wins: 1
+      losses: 0
+  - event: Trials(Men)
+    player1:
+      percent: 81
+      wins: 1
+      losses: 2
+    player2:
+      percent: 81
+      wins: 2
+      losses: 1
+  games:
+  - player1:
+      team: Rya
+      position: Fourth
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: Fer
+      position: Fourth
+      percent: 93
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(3)
+    score: Fer 5 - Rya 3
+  - player1:
+      team: RYA
+      position: Fourth
+      percent: 75
+      win: 0
+      loss: 1
+    player2:
+      team: FER
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2005
+    draw: Round Robin(16)
+    score: RYA 5 - FER 8
+  - player1:
+      team: MOR
+      position: Fourth
+      percent: 81
+      win: 0
+      loss: 1
+    player2:
+      team: MAR
+      position: Third
+      percent: 76
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2013
+    draw: Round Robin(14)
+    score: MOR 6 - MAR 7
+  - player1:
+      team: MOR
+      position: Fourth
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: MAR
+      position: Third
+      percent: 81
+      win: 0
+      loss: 1
+    event: Trials (Men)
+    year: 2013
+    draw: Semi-Final(17)
+    score: MAR 5 - MOR 7
+- name: Perepolkin, T.J.
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 65
+      wins: 0
+      losses: 1
+    player2:
+      percent: 70
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Cot
+      position: Fourth
+      percent: 65
+      win: 0
+      loss: 1
+    player2:
+      team: Urs
+      position: Third
+      percent: 70
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2006
+    draw: Round Robin(7)
+    score: Urs 7 - Cot 5
+- name: Pfeifer, Scott
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 0
+      losses: 1
+    player2:
+      percent: 90
+      wins: 1
+      losses: 0
+  - event: Trials(Men)
+    player1:
+      percent: 75
+      wins: 0
+      losses: 1
+    player2:
+      percent: 83
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Rya
+      position: Fourth
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: Fer
+      position: Second
+      percent: 90
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(3)
+    score: Fer 5 - Rya 3
+  - player1:
+      team: RYA
+      position: Fourth
+      percent: 75
+      win: 0
+      loss: 1
+    player2:
+      team: FER
+      position: Second
+      percent: 83
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2005
+    draw: Round Robin(16)
+    score: RYA 5 - FER 8
+- name: Rocque, Marcel
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 0
+      losses: 1
+    player2:
+      percent: 89
+      wins: 1
+      losses: 0
+  - event: Trials(Men)
+    player1:
+      percent: 75
+      wins: 0
+      losses: 1
+    player2:
+      percent: 99
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Rya
+      position: Fourth
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: Fer
+      position: Lead
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(3)
+    score: Fer 5 - Rya 3
+  - player1:
+      team: RYA
+      position: Fourth
+      percent: 75
+      win: 0
+      loss: 1
+    player2:
+      team: FER
+      position: Lead
+      percent: 99
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2005
+    draw: Round Robin(16)
+    score: RYA 5 - FER 8
+- name: Ryan, Keith
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 72
+      wins: 0
+      losses: 1
+    player2:
+      percent: 65
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Rya
+      position: Fourth
+      percent: 72
+      win: 0
+      loss: 1
+    player2:
+      team: Gus
+      position: Second
+      percent: 65
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(4)
+    score: Rya 7 - Gus 9
+- name: Ursel, Bob
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 65
+      wins: 0
+      losses: 1
+    player2:
+      percent: 67
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Cot
+      position: Fourth
+      percent: 65
+      win: 0
+      loss: 1
+    player2:
+      team: Urs
+      position: Fourth
+      percent: 67
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2006
+    draw: Round Robin(7)
+    score: Urs 7 - Cot 5
+- name: Van Den Berghe, Garry
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 83
+      wins: 0
+      losses: 1
+    player2:
+      percent: 88
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Rya
+      position: Fourth
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: Sto
+      position: Second
+      percent: 88
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(11)
+    score: Sto 5 - Rya 3
+- name: Walchuk, Don
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 67
+      wins: 0
+      losses: 2
+    player2:
+      percent: 90
+      wins: 2
+      losses: 0
+  - event: Trials(Men)
+    player1:
+      percent: 90
+      wins: 1
+      losses: 0
+    player2:
+      percent: 86
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: Rya
+      position: Fourth
+      percent: 77
+      win: 0
+      loss: 1
+    player2:
+      team: Mar
+      position: Third
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(6)
+    score: Mar 8 - Rya 2
+  - player1:
+      team: Cot
+      position: Fourth
+      percent: 57
+      win: 0
+      loss: 1
+    player2:
+      team: Mar
+      position: Third
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2006
+    draw: Round Robin(10)
+    score: Cot 5 - Mar 9
+  - player1:
+      team: RYA
+      position: Fourth
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: MAR
+      position: Third
+      percent: 86
+      win: 0
+      loss: 1
+    event: Trials (Men)
+    year: 2005
+    draw: Round Robin(4)
+    score: RYA 9 - MAR 5
+- name: Wall, Trevor
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 78
+      wins: 0
+      losses: 1
+    player2:
+      percent: 83
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Rya
+      position: Fourth
+      percent: 78
+      win: 0
+      loss: 1
+    player2:
+      team: Har
+      position: Lead
+      percent: 83
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(9)
+    score: Rya 7 - Har 10
+- name: Willis, Brendan
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 65
+      wins: 0
+      losses: 1
+    player2:
+      percent: 88
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Cot
+      position: Fourth
+      percent: 65
+      win: 0
+      loss: 1
+    player2:
+      team: Urs
+      position: Lead
+      percent: 88
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2006
+    draw: Round Robin(7)
+    score: Urs 7 - Cot 5
 - name: Dacey, Mark
   totals:
   - event: Trials(Men)
@@ -8680,34 +10274,6 @@ vs:
     year: 2005
     draw: Round Robin(2)
     score: PCH 4 - RYA 7
-- name: Ferbey, Randy
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 75
-      wins: 0
-      losses: 1
-    player2:
-      percent: 84
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: RYA
-      position: Fourth
-      percent: 75
-      win: 0
-      loss: 1
-    player2:
-      team: FER
-      position: Third
-      percent: 84
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2005
-    draw: Round Robin(16)
-    score: RYA 5 - FER 8
 - name: Harris, Rob
   totals:
   - event: Trials(Men)
@@ -8736,34 +10302,6 @@ vs:
     year: 2005
     draw: Round Robin(12)
     score: RYA 7 - DAC 5
-- name: Howard, Russ
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 81
-      wins: 1
-      losses: 0
-    player2:
-      percent: 85
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: RYA
-      position: Fourth
-      percent: 81
-      win: 1
-      loss: 0
-    player2:
-      team: GUS
-      position: Second
-      percent: 85
-      win: 0
-      loss: 1
-    event: Trials (Men)
-    year: 2005
-    draw: Round Robin(10)
-    score: RYA 9 - GUS 5
 - name: Janssen, Patrick
   totals:
   - event: Trials(Men)
@@ -8792,34 +10330,6 @@ vs:
     year: 2017
     draw: Round Robin(18)
     score: Eppi 5 - Morr 6
-- name: Korab, Jamie
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 81
-      wins: 1
-      losses: 0
-    player2:
-      percent: 100
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: RYA
-      position: Fourth
-      percent: 81
-      win: 1
-      loss: 0
-    player2:
-      team: GUS
-      position: Lead
-      percent: 100
-      win: 0
-      loss: 1
-    event: Trials (Men)
-    year: 2005
-    draw: Round Robin(10)
-    score: RYA 9 - GUS 5
 - name: Leech, Ron
   totals:
   - event: Trials(Men)
@@ -9004,66 +10514,6 @@ vs:
     year: 2005
     draw: Round Robin(6)
     score: MOR 7 - RYA 3
-- name: Nedohin, David
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 81
-      wins: 1
-      losses: 2
-    player2:
-      percent: 81
-      wins: 2
-      losses: 1
-  games:
-  - player1:
-      team: RYA
-      position: Fourth
-      percent: 75
-      win: 0
-      loss: 1
-    player2:
-      team: FER
-      position: Fourth
-      percent: 86
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2005
-    draw: Round Robin(16)
-    score: RYA 5 - FER 8
-  - player1:
-      team: MOR
-      position: Fourth
-      percent: 81
-      win: 0
-      loss: 1
-    player2:
-      team: MAR
-      position: Third
-      percent: 76
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2013
-    draw: Round Robin(14)
-    score: MOR 6 - MAR 7
-  - player1:
-      team: MOR
-      position: Fourth
-      percent: 88
-      win: 1
-      loss: 0
-    player2:
-      team: MAR
-      position: Third
-      percent: 81
-      win: 0
-      loss: 1
-    event: Trials (Men)
-    year: 2013
-    draw: Semi-Final(17)
-    score: MAR 5 - MOR 7
 - name: Peachey, Jay
   totals:
   - event: Trials(Men)
@@ -9092,34 +10542,6 @@ vs:
     year: 2005
     draw: Round Robin(2)
     score: PCH 4 - RYA 7
-- name: Pfeifer, Scott
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 75
-      wins: 0
-      losses: 1
-    player2:
-      percent: 83
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: RYA
-      position: Fourth
-      percent: 75
-      win: 0
-      loss: 1
-    player2:
-      team: FER
-      position: Second
-      percent: 83
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2005
-    draw: Round Robin(16)
-    score: RYA 5 - FER 8
 - name: Recksiedler, Kevin
   totals:
   - event: Trials(Men)
@@ -9148,34 +10570,6 @@ vs:
     year: 2005
     draw: Round Robin(2)
     score: PCH 4 - RYA 7
-- name: Rocque, Marcel
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 75
-      wins: 0
-      losses: 1
-    player2:
-      percent: 99
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: RYA
-      position: Fourth
-      percent: 75
-      win: 0
-      loss: 1
-    player2:
-      team: FER
-      position: Lead
-      percent: 99
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2005
-    draw: Round Robin(16)
-    score: RYA 5 - FER 8
 - name: Vandenberghe, Garry
   totals:
   - event: Trials(Men)
@@ -9204,32 +10598,4 @@ vs:
     year: 2005
     draw: Round Robin(8)
     score: RYA 6 - STO 7
-- name: Walchuk, Don
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 90
-      wins: 1
-      losses: 0
-    player2:
-      percent: 86
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: RYA
-      position: Fourth
-      percent: 90
-      win: 1
-      loss: 0
-    player2:
-      team: MAR
-      position: Third
-      percent: 86
-      win: 0
-      loss: 1
-    event: Trials (Men)
-    year: 2005
-    draw: Round Robin(4)
-    score: RYA 9 - MAR 5
 ---

@@ -350,6 +350,15 @@ vs:
       percent: 83
       wins: 3
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 1
+      losses: 0
+    player2:
+      percent: 72
+      wins: 0
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 95
@@ -424,6 +433,22 @@ vs:
     year: 2011
     draw: Round Robin(12)
     score: NS 3 - NL 9
+  - player1:
+      team: Dac
+      position: Lead
+      percent: 80
+      win: 1
+      loss: 0
+    player2:
+      team: Gus
+      position: Fourth
+      percent: 72
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(10)
+    score: Gus 8 - Dac 9
   - player1:
       team: DAC
       position: Lead
@@ -1358,6 +1383,15 @@ vs:
       percent: 89
       wins: 2
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 83
+      wins: 0
+      losses: 2
+    player2:
+      percent: 93
+      wins: 2
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 91
@@ -1403,6 +1437,38 @@ vs:
   - player1:
       team: DAC
       position: Lead
+      percent: 92
+      win: 0
+      loss: 1
+    player2:
+      team: MOR
+      position: Second
+      percent: 96
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(9)
+    score: MOR 8 - DAC 2
+  - player1:
+      team: Dac
+      position: Lead
+      percent: 78
+      win: 0
+      loss: 1
+    player2:
+      team: Mor
+      position: Second
+      percent: 92
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(3)
+    score: Dac 5 - Mor 6
+  - player1:
+      team: DAC
+      position: Lead
       percent: 91
       win: 0
       loss: 1
@@ -1427,6 +1493,15 @@ vs:
       percent: 72
       wins: 1
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 83
+      wins: 1
+      losses: 0
+    player2:
+      percent: 72
+      wins: 0
+      losses: 1
   games:
   - player1:
       team: NS
@@ -1476,6 +1551,22 @@ vs:
     year: 2011
     draw: Round Robin(7)
     score: TR 2 - NS 9
+  - player1:
+      team: DAC
+      position: Lead
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: KOE
+      position: Third
+      percent: 72
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(1)
+    score: KOE 4 - DAC 8
 - name: Korab, Jamie
   totals:
   - event: Brier
@@ -1486,6 +1577,15 @@ vs:
     player2:
       percent: 89
       wins: 2
+      losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 1
+      losses: 0
+    player2:
+      percent: 80
+      wins: 0
       losses: 1
   - event: Trials(Men)
     player1:
@@ -1545,6 +1645,22 @@ vs:
     year: 2009
     draw: Round Robin(11)
     score: NS 6 - NL 9
+  - player1:
+      team: Dac
+      position: Lead
+      percent: 80
+      win: 1
+      loss: 0
+    player2:
+      team: Gus
+      position: Lead
+      percent: 80
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(10)
+    score: Gus 8 - Dac 9
   - player1:
       team: DAC
       position: Lead
@@ -2307,6 +2423,15 @@ vs:
       percent: 81
       wins: 2
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 94
+      wins: 0
+      losses: 1
+    player2:
+      percent: 85
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 93
@@ -2381,6 +2506,22 @@ vs:
     year: 2011
     draw: Round Robin(9)
     score: AB 9 - NS 7
+  - player1:
+      team: Dac
+      position: Lead
+      percent: 94
+      win: 0
+      loss: 1
+    player2:
+      team: Mar
+      position: Fourth
+      percent: 85
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(4)
+    score: Mar 6 - Dac 5
   - player1:
       team: DAC
       position: Lead
@@ -2668,6 +2809,15 @@ vs:
       percent: 82
       wins: 2
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 83
+      wins: 0
+      losses: 2
+    player2:
+      percent: 81
+      wins: 2
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 91
@@ -2710,6 +2860,38 @@ vs:
     year: 2011
     draw: Round Robin(9)
     score: AB 9 - NS 7
+  - player1:
+      team: DAC
+      position: Lead
+      percent: 92
+      win: 0
+      loss: 1
+    player2:
+      team: MOR
+      position: Fourth
+      percent: 92
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(9)
+    score: MOR 8 - DAC 2
+  - player1:
+      team: Dac
+      position: Lead
+      percent: 78
+      win: 0
+      loss: 1
+    player2:
+      team: Mor
+      position: Fourth
+      percent: 75
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(3)
+    score: Dac 5 - Mor 6
   - player1:
       team: DAC
       position: Lead
@@ -3050,6 +3232,15 @@ vs:
       percent: 81
       wins: 3
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 1
+      losses: 0
+    player2:
+      percent: 80
+      wins: 0
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 95
@@ -3124,6 +3315,22 @@ vs:
     year: 2011
     draw: Round Robin(12)
     score: NS 3 - NL 9
+  - player1:
+      team: Dac
+      position: Lead
+      percent: 80
+      win: 1
+      loss: 0
+    player2:
+      team: Gus
+      position: Third
+      percent: 80
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(10)
+    score: Gus 8 - Dac 9
   - player1:
       team: DAC
       position: Lead
@@ -3939,6 +4146,15 @@ vs:
       percent: 77
       wins: 0
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 94
+      wins: 0
+      losses: 1
+    player2:
+      percent: 89
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 93
@@ -3981,6 +4197,22 @@ vs:
     year: 2006
     draw: Page 3-4(18)
     score: NS 6 - AB 5
+  - player1:
+      team: Dac
+      position: Lead
+      percent: 94
+      win: 0
+      loss: 1
+    player2:
+      team: Mar
+      position: Second
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(4)
+    score: Mar 6 - Dac 5
   - player1:
       team: DAC
       position: Lead
@@ -4843,6 +5075,15 @@ vs:
       percent: 79
       wins: 0
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 82
+      wins: 1
+      losses: 2
+    player2:
+      percent: 82
+      wins: 2
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 93
@@ -4885,6 +5126,54 @@ vs:
     year: 2006
     draw: Page 3-4(18)
     score: NS 6 - AB 5
+  - player1:
+      team: DAC
+      position: Lead
+      percent: 73
+      win: 1
+      loss: 0
+    player2:
+      team: BUR
+      position: Third
+      percent: 78
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(7)
+    score: DAC 8 - BUR 5
+  - player1:
+      team: DAC
+      position: Lead
+      percent: 76
+      win: 0
+      loss: 1
+    player2:
+      team: BUR
+      position: Third
+      percent: 86
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Playoff(10)
+    score: DAC 5 - BUR 6
+  - player1:
+      team: Dac
+      position: Lead
+      percent: 94
+      win: 0
+      loss: 1
+    player2:
+      team: Mar
+      position: Third
+      percent: 81
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(4)
+    score: Mar 6 - Dac 5
   - player1:
       team: DAC
       position: Lead
@@ -5143,6 +5432,15 @@ vs:
     score: BC 6 - NS 4
 - name: Koe, Kevin
   totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 83
+      wins: 0
+      losses: 2
+    player2:
+      percent: 85
+      wins: 2
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 91
@@ -5153,6 +5451,38 @@ vs:
       wins: 1
       losses: 0
   games:
+  - player1:
+      team: DAC
+      position: Lead
+      percent: 92
+      win: 0
+      loss: 1
+    player2:
+      team: MOR
+      position: Third
+      percent: 94
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(9)
+    score: MOR 8 - DAC 2
+  - player1:
+      team: Dac
+      position: Lead
+      percent: 78
+      win: 0
+      loss: 1
+    player2:
+      team: Mor
+      position: Third
+      percent: 80
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(3)
+    score: Dac 5 - Mor 6
   - player1:
       team: DAC
       position: Lead
@@ -5169,6 +5499,299 @@ vs:
     year: 2005
     draw: Round Robin(10)
     score: MOR 7 - DAC 4
+- name: McCarrel, Graeme
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 76
+      wins: 0
+      losses: 1
+    player2:
+      percent: 90
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: DAC
+      position: Lead
+      percent: 76
+      win: 0
+      loss: 1
+    player2:
+      team: MID
+      position: Third
+      percent: 90
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(5)
+    score: DAC 5 - MID 7
+- name: Middaugh, Wayne
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 76
+      wins: 0
+      losses: 1
+    player2:
+      percent: 84
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: DAC
+      position: Lead
+      percent: 76
+      win: 0
+      loss: 1
+    player2:
+      team: MID
+      position: Fourth
+      percent: 84
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(5)
+    score: DAC 5 - MID 7
+- name: Moffatt, Paul
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 83
+      wins: 0
+      losses: 2
+    player2:
+      percent: 87
+      wins: 2
+      losses: 0
+  - event: Trials(Men)
+    player1:
+      percent: 91
+      wins: 0
+      losses: 1
+    player2:
+      percent: 93
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: DAC
+      position: Lead
+      percent: 92
+      win: 0
+      loss: 1
+    player2:
+      team: MOR
+      position: Lead
+      percent: 92
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(9)
+    score: MOR 8 - DAC 2
+  - player1:
+      team: Dac
+      position: Lead
+      percent: 78
+      win: 0
+      loss: 1
+    player2:
+      team: Mor
+      position: Lead
+      percent: 84
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(3)
+    score: Dac 5 - Mor 6
+  - player1:
+      team: DAC
+      position: Lead
+      percent: 91
+      win: 0
+      loss: 1
+    player2:
+      team: MOR
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2005
+    draw: Round Robin(10)
+    score: MOR 7 - DAC 4
+- name: Paul, Matt
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 99
+      wins: 1
+      losses: 0
+    player2:
+      percent: 78
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: Dac
+      position: Lead
+      percent: 99
+      win: 1
+      loss: 0
+    player2:
+      team: Tuc
+      position: Second
+      percent: 78
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(6)
+    score: Tuc 6 - Dac 8
+- name: Petryk, Dan
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 83
+      wins: 1
+      losses: 0
+    player2:
+      percent: 60
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: DAC
+      position: Lead
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: KOE
+      position: Fourth
+      percent: 60
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(1)
+    score: KOE 4 - DAC 8
+- name: Ryan, Keith
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 1
+      losses: 0
+    player2:
+      percent: 83
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: Dac
+      position: Lead
+      percent: 80
+      win: 1
+      loss: 0
+    player2:
+      team: Gus
+      position: Second
+      percent: 83
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(10)
+    score: Gus 8 - Dac 9
+- name: Tresoor, Ken
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 95
+      wins: 0
+      losses: 1
+    player2:
+      percent: 81
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Dac
+      position: Lead
+      percent: 95
+      win: 0
+      loss: 1
+    player2:
+      team: Bur
+      position: Third
+      percent: 81
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(9)
+    score: Dac 6 - Bur 9
+- name: Tuck, Wayne
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 99
+      wins: 1
+      losses: 0
+    player2:
+      percent: 78
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: Dac
+      position: Lead
+      percent: 99
+      win: 1
+      loss: 0
+    player2:
+      team: Tuc
+      position: Fourth
+      percent: 78
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2005
+    draw: Round Robin(6)
+    score: Tuc 6 - Dac 8
+- name: Westlund, Mike
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 83
+      wins: 1
+      losses: 0
+    player2:
+      percent: 76
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: DAC
+      position: Lead
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: KOE
+      position: Lead
+      percent: 76
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(1)
+    score: KOE 4 - DAC 8
 - name: Mead, Jon
   totals:
   - event: Trials(Men)
@@ -5225,34 +5848,6 @@ vs:
     year: 2005
     draw: Round Robin(2)
     score: DAC 5 - ADA 8
-- name: Moffatt, Paul
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 91
-      wins: 0
-      losses: 1
-    player2:
-      percent: 93
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: DAC
-      position: Lead
-      percent: 91
-      win: 0
-      loss: 1
-    player2:
-      team: MOR
-      position: Lead
-      percent: 93
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2005
-    draw: Round Robin(10)
-    score: MOR 7 - DAC 4
 - name: Peachey, Jay
   totals:
   - event: Trials(Men)

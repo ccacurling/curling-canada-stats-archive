@@ -3,6 +3,20 @@ title: Ashley Sippala
 name: Ashley Sippala
 name-sort: Sippala, Ashley
 totals:
+- event: Canada Cup (Women)
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 49
+  inturn-percent: 74
+  outturn-total: 61
+  outturn-percent: 75
+  draw-total: 59
+  draw-percent: 66
+  takeout-total: 51
+  takeout-percent: 85
+  shots-total: 110
+  shots-percent: 75
 - event: Hearts
   games: 54
   wins: 35
@@ -32,6 +46,23 @@ totals:
   shots-total: 158
   shots-percent: 82
 years:
+- year: 2010
+  event: Canada Cup (Women)
+  team: KM
+  position: Third
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 49
+  inturn-percent: 74
+  outturn-total: 61
+  outturn-percent: 75
+  draw-total: 59
+  draw-percent: 66
+  takeout-total: 51
+  takeout-percent: 85
+  shots-total: 110
+  shots-percent: 75
 - year: 2009
   event: Hearts
   team: 'ON'
@@ -129,12 +160,14 @@ vs:
 - Affleck, Tricia
 - Alcoe-Holland, Jill
 - Aleksic, Shannon
+- Anderson, Sherry
 - Armstrong, Jacquie
 - Armstrong, Jennifer
 - Atkinson, Rebecca
 - Babin, Jillian
 - Barker, Penny
 - Belisle, Eve
+- Bernard, Cheryl
 - Birchard, Shannon
 - Birt, Suzanne
 - Bobbie, Tess
@@ -159,6 +192,7 @@ vs:
 - Curtis, Erica
 - Curtis, Stacie
 - Cutcliffe, Margaret
+- Darbyshire, Carolyn
 - deJager, Blaine
 - Derry, Danielle
 - Devereaux, Julie
@@ -173,6 +207,7 @@ vs:
 - Ferguson, Dana
 - Flaxey, Allison
 - Forward, Katie
+- Foster, Kristen
 - Fullerton, Sarah
 - Fyfe, Liz
 - Galusha, Kerry
@@ -190,10 +225,12 @@ vs:
 - Howard, Ashley
 - Hughes, Meaghan
 - Hunkin, Jessie
+- Iskiw, Beth
 - Jewer, Michelle
 - Jones, Jennifer
 - Joyce, Blisse
 - Kalenchuk, Heather
+- Kasner, Marliese
 - Kleibrink, Shannon
 - Klymchuk, Ashley
 - Koehler, Megan
@@ -218,11 +255,14 @@ vs:
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
 - Meilleur, Briane
+- Miller, Jessica
 - Miskew, Emma
 - Moore, Kristie
 - More, Whitney
+- Morris, Cori
 - Murphy, Sarah
 - Naugler, Tara
+- Nedohin, Heather
 - Nicholls, Brenda
 - Nixon, Amy
 - Njegovan, Selena
@@ -261,6 +301,7 @@ vs:
 - Scott, Kelly
 - Sicinski, Danielle
 - Silvernagle, Robyn
+- Singler, Sherri
 - Sobey, Lianne
 - Sweeting, Val
 - Taylor, Susan

@@ -17,6 +17,20 @@ totals:
   takeout-percent: 84
   shots-total: 651
   shots-percent: 82
+- event: Canada Cup (Men)
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 72
+  inturn-percent: 85
+  outturn-total: 54
+  outturn-percent: 88
+  draw-total: 66
+  draw-percent: 83
+  takeout-total: 60
+  takeout-percent: 90
+  shots-total: 126
+  shots-percent: 86
 - event: Trials (Men)
   games: 0
   wins: 0
@@ -73,6 +87,23 @@ years:
   takeout-percent: 78
   shots-total: 212
   shots-percent: 78
+- year: 2003
+  event: Canada Cup (Men)
+  team: Ryan
+  position: Second
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 72
+  inturn-percent: 85
+  outturn-total: 54
+  outturn-percent: 88
+  draw-total: 66
+  draw-percent: 83
+  takeout-total: 60
+  takeout-percent: 90
+  shots-total: 126
+  shots-percent: 86
 - year: 2001
   event: Trials (Men)
   team: GRE
@@ -80,9 +111,11 @@ years:
 vs:
 - Adams, Shawn
 - Bailey, Scott
+- Balsdon, Greg
 - Bitz, Scott
 - Blanchard, Ben
 - Blanchard, Wade
+- Bowser, Don
 - Brodersen, Erik
 - Bryant, Doug
 - Bubbs, John
@@ -93,8 +126,11 @@ vs:
 - Cochrane, Bryan
 - Collins, Ron
 - Cowan, Chad
+- Cripps, Scott
+- Cursons, Neil
 - Dacey, Mark
 - Desilets, Mike
+- Dickson, Rob
 - Dillon, Mike
 - Dobson, Mark
 - Dobson, Paul
@@ -125,10 +161,13 @@ vs:
 - Jakubo, Mike
 - Jenion, Bob
 - Jenkins, Bill
+- Jordison, Joel
 - Kalthoff, Kevin
 - Kelsch, Dan
 - Kerr, Ian
 - Kilgallen, Shane
+- Koe, Jamie
+- Koe, Kevin
 - Korab, Jamie
 - Laing, Brent
 - Lang, Mark
@@ -147,6 +186,7 @@ vs:
 - Menard, Jean-Michel
 - Middaugh, Wayne
 - Mikkelsen, Ray
+- Miller, Ryan
 - Milward, Ross
 - Mittelstadt, Kelly
 - Morris, John
@@ -163,6 +203,7 @@ vs:
 - Phillips, Tim
 - Pielak, Rod
 - Porter, Geoff
+- Prebble, Darryl
 - Roberge, Francois
 - Rocque, Marcel
 - Savill, Craig
@@ -182,6 +223,7 @@ vs:
 - Turpin, Randy
 - Ward, Mark
 - Wempe, Brian
+- Westlund, Mike
 - Westphal, Don
 - Whitehead, Mark
 ---

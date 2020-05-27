@@ -17,6 +17,20 @@ totals:
   takeout-percent: 86
   shots-total: 452
   shots-percent: 85
+- event: Canada Cup (Men)
+  games: 12
+  wins: 1
+  losses: 11
+  inturn-total: 118
+  inturn-percent: 84
+  outturn-total: 102
+  outturn-percent: 79
+  draw-total: 77
+  draw-percent: 79
+  takeout-total: 143
+  takeout-percent: 83
+  shots-total: 220
+  shots-percent: 81
 - event: Trials (Men)
   games: 8
   wins: 2
@@ -66,6 +80,40 @@ years:
   takeout-percent: 87
   shots-total: 248
   shots-percent: 87
+- year: 2018
+  event: Canada Cup (Men)
+  team: Duns
+  position: Fourth
+  games: 6
+  wins: 1
+  losses: 5
+  inturn-total: 55
+  inturn-percent: 81
+  outturn-total: 58
+  outturn-percent: 78
+  draw-total: 41
+  draw-percent: 73
+  takeout-total: 72
+  takeout-percent: 83
+  shots-total: 113
+  shots-percent: 79
+- year: 2019
+  event: Canada Cup (Men)
+  team: Duns
+  position: Fourth
+  games: 6
+  wins: 0
+  losses: 6
+  inturn-total: 63
+  inturn-percent: 86
+  outturn-total: 44
+  outturn-percent: 80
+  draw-total: 36
+  draw-percent: 85
+  takeout-total: 71
+  takeout-percent: 83
+  shots-total: 107
+  shots-percent: 83
 - year: 2017
   event: Trials (Men)
   team: Layc
@@ -113,6 +161,8 @@ vs:
 - Hebert, Ben
 - Hodgson, Colin
 - Horgan, Tanner
+- Howard, Glenn
+- Howard, Scott
 - Jacobs, Brad
 - Janssen, Patrick
 - Jeffrey, Chris
@@ -128,6 +178,7 @@ vs:
 - Mackey, Peter
 - March, Tim
 - Martin, Karrick
+- Mathers, David
 - McCann, Andy
 - McEwen, Mike
 - McLeod, Shadrach
@@ -145,6 +196,7 @@ vs:
 - Parsons, Cole
 - Saccary, Scott
 - Samagalski, Derek
+- Savill, Craig
 - Sawatsky, Rick
 - Schneider, Catlin
 - Scoffin, Thomas

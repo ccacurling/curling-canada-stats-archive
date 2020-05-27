@@ -17,6 +17,20 @@ totals:
   takeout-percent: 81
   shots-total: 1841
   shots-percent: 80
+- event: Canada Cup (Men)
+  games: 16
+  wins: 2
+  losses: 14
+  inturn-total: 144
+  inturn-percent: 74
+  outturn-total: 145
+  outturn-percent: 79
+  draw-total: 119
+  draw-percent: 75
+  takeout-total: 170
+  takeout-percent: 77
+  shots-total: 289
+  shots-percent: 76
 - event: Trials (Men)
   games: 26
   wins: 13
@@ -186,6 +200,57 @@ years:
   shots-total: 127
   shots-percent: 75
 - year: 2005
+  event: Canada Cup (Men)
+  team: Rya
+  position: Fourth
+  games: 5
+  wins: 0
+  losses: 5
+  inturn-total: 42
+  inturn-percent: 71
+  outturn-total: 51
+  outturn-percent: 83
+  draw-total: 38
+  draw-percent: 82
+  takeout-total: 55
+  takeout-percent: 75
+  shots-total: 93
+  shots-percent: 78
+- year: 2006
+  event: Canada Cup (Men)
+  team: Cot
+  position: Fourth
+  games: 5
+  wins: 0
+  losses: 5
+  inturn-total: 38
+  inturn-percent: 67
+  outturn-total: 48
+  outturn-percent: 71
+  draw-total: 42
+  draw-percent: 64
+  takeout-total: 44
+  takeout-percent: 75
+  shots-total: 86
+  shots-percent: 69
+- year: 2014
+  event: Canada Cup (Men)
+  team: COT
+  position: Fourth
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 64
+  inturn-percent: 79
+  outturn-total: 46
+  outturn-percent: 82
+  draw-total: 39
+  draw-percent: 80
+  takeout-total: 71
+  takeout-percent: 81
+  shots-total: 110
+  shots-percent: 80
+- year: 2005
   event: Trials (Men)
   team: RYA
   position: Fourth
@@ -271,6 +336,7 @@ years:
   shots-percent: 86
 vs:
 - Adam, Gerry
+- Adams, Mike
 - Adams, Shawn
 - Aho, David
 - Ardiel, Taylor
@@ -280,14 +346,17 @@ vs:
 - Bardsley, Mike
 - Barry, Josh
 - Bartlett, Don
+- Base, John
 - Beuk, Jonathan
 - Bezanson, Jared
 - Bice, Mark
 - Bice, Steve
+- Blaylock, Bryan
 - Borden, Robert
 - Bottcher, Brendan
 - Bouchard, Christian
 - Brannen, Jamie
+- Bucholz, Rob
 - Burgess, Craig
 - Burtnyk, Kerry
 - Butler, Mark
@@ -325,6 +394,7 @@ vs:
 - Flasch, Colton
 - Flaxey, Caleb
 - Flemming, Paul
+- Folk, Kevin
 - Forget, Wes
 - Fowler, Rob
 - Fry, Ryan
@@ -340,6 +410,7 @@ vs:
 - Gushue, Brad
 - Harnden, E.J.
 - Harnden, Ryan
+- Harris, Mike
 - Harris, Rob
 - Harris, Tyler
 - Hart, Richard
@@ -354,12 +425,14 @@ vs:
 - Janssen, Patrick
 - Jeffrey, Chris
 - Jensen, Trygg
+- Johnson, Mark
 - Jones, Brennen
 - Jones, Scott
 - Josephson, Glenn
 - Kammerlock, Dan
 - Kean, Mark
 - Kendall, Lloyd
+- Kennedy, Glen
 - Kennedy, Marc
 - Kennedy, Mike
 - Kidby, Dustin
@@ -373,6 +446,7 @@ vs:
 - LeCocq, Marc
 - Ledgerwood, Sean
 - Leech, Ron
+- Loevenmark, Phil
 - Lohnes, Bruce
 - Lyburn, Allan
 - MacFadyen, Alex
@@ -422,6 +496,7 @@ vs:
 - Palmer, Curt
 - Parsons, Cole
 - Peachey, Jay
+- Perepolkin, T.J.
 - Pfeifer, Scott
 - Pinder, Jordan
 - Rafuse, Brian
@@ -430,6 +505,7 @@ vs:
 - Roach, Jason
 - Rocque, Marcel
 - Roy, Jean-Sebastien
+- Ryan, Keith
 - Rycroft, Carter
 - Saccary, Scott
 - Samagalski, Derek
@@ -452,14 +528,18 @@ vs:
 - Thiessen, Brad
 - Thiessen, Nolan
 - Thompson, Stuart
+- Ursel, Bob
+- Van Den Berghe, Garry
 - Vandenberghe, Garry
 - Vaughan, Jason
 - Villeneuve, Steeve
 - Walchuk, Don
 - Walker, Geoff
+- Wall, Trevor
 - Wallingham, Joe
 - Whitehead, Kevin
 - Whitehead, Mark
+- Willis, Brendan
 - Winfield, Brett
 - Wozniak, Matt
 ---

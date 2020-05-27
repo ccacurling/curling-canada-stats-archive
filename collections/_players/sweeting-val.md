@@ -3,6 +3,20 @@ title: Val Sweeting
 name: Val Sweeting
 name-sort: Sweeting, Val
 totals:
+- event: Canada Cup (Women)
+  games: 38
+  wins: 23
+  losses: 15
+  inturn-total: 331
+  inturn-percent: 78
+  outturn-total: 391
+  outturn-percent: 81
+  draw-total: 299
+  draw-percent: 78
+  takeout-total: 423
+  takeout-percent: 81
+  shots-total: 722
+  shots-percent: 80
 - event: Hearts
   games: 52
   wins: 35
@@ -32,6 +46,91 @@ totals:
   shots-total: 293
   shots-percent: 79
 years:
+- year: 2014
+  event: Canada Cup (Women)
+  team: SWE
+  position: Fourth
+  games: 8
+  wins: 6
+  losses: 2
+  inturn-total: 74
+  inturn-percent: 76
+  outturn-total: 89
+  outturn-percent: 81
+  draw-total: 64
+  draw-percent: 73
+  takeout-total: 99
+  takeout-percent: 83
+  shots-total: 163
+  shots-percent: 79
+- year: 2015
+  event: Canada Cup (Women)
+  team: SWE
+  position: Fourth
+  games: 9
+  wins: 6
+  losses: 3
+  inturn-total: 69
+  inturn-percent: 84
+  outturn-total: 92
+  outturn-percent: 81
+  draw-total: 73
+  draw-percent: 82
+  takeout-total: 88
+  takeout-percent: 82
+  shots-total: 161
+  shots-percent: 82
+- year: 2016
+  event: Canada Cup (Women)
+  team: SWE
+  position: Fourth
+  games: 7
+  wins: 3
+  losses: 4
+  inturn-total: 59
+  inturn-percent: 71
+  outturn-total: 70
+  outturn-percent: 77
+  draw-total: 49
+  draw-percent: 73
+  takeout-total: 80
+  takeout-percent: 74
+  shots-total: 129
+  shots-percent: 74
+- year: 2018
+  event: Canada Cup (Women)
+  team: Eina
+  position: Third
+  games: 8
+  wins: 6
+  losses: 2
+  inturn-total: 82
+  inturn-percent: 81
+  outturn-total: 77
+  outturn-percent: 83
+  draw-total: 62
+  draw-percent: 82
+  takeout-total: 97
+  takeout-percent: 82
+  shots-total: 159
+  shots-percent: 82
+- year: 2019
+  event: Canada Cup (Women)
+  team: Eina
+  position: Third
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 47
+  inturn-percent: 75
+  outturn-total: 63
+  outturn-percent: 83
+  draw-total: 51
+  draw-percent: 79
+  takeout-total: 59
+  takeout-percent: 81
+  shots-total: 110
+  shots-percent: 80
 - year: 2010
   event: Hearts
   team: AB
@@ -146,6 +245,7 @@ vs:
 - Baier, Stephanie
 - Baxter, Jen
 - Belisle, Eve
+- Bernard, Cheryl
 - Birt, Suzanne
 - Black, Christina
 - Blais, Amelie
@@ -158,6 +258,7 @@ vs:
 - Cameron, Kate
 - Camozzi, Rhona
 - Campbell, Jolene
+- Cannon, Theresa
 - Carey, Chelsea
 - Carmody, Erin
 - Carter, Sasha
@@ -171,6 +272,7 @@ vs:
 - Court, Morgan
 - Courtney, Joanne
 - Crawford, Andrea
+- Crocker, Laura
 - Crouse, Jennifer
 - Cunningham, Jessica
 - Davies, Lisa
@@ -180,6 +282,7 @@ vs:
 - Duhaime, Chantal
 - Duncan, Chelsea
 - Eddy, Lori
+- Einarson, Kerri
 - Ellis, Danielle
 - Englot, Michelle
 - Ferguson, Dana
@@ -188,6 +291,8 @@ vs:
 - Fleury, Tracy
 - Forward, Katie
 - Foster, Kristen
+- Foster, Vanessa
+- Fyfe, Liz
 - Gannon, Melissa
 - Gates, Amanda
 - Gates, Jennifer
@@ -198,6 +303,7 @@ vs:
 - Griffin, Alison
 - Hardy, Shelley
 - Hastings, Julie
+- Haughian, Jessie
 - Hawes, Dezaray
 - Holland, Amber
 - Homan, Rachel
@@ -208,7 +314,9 @@ vs:
 - Joyce, Blisse
 - Kalenchuk, Heather
 - Kasner, Marliese
+- Klein, Karen
 - Klymchuk, Ashley
+- Knapp, Breanne
 - Knezevic, Patti
 - Koehler, Megan
 - Koltun, Sarah
@@ -220,6 +328,7 @@ vs:
 - LeDrew, Stephanie
 - Lemon, Colette
 - Lilly, Kendra
+- MacCuish, Kristin
 - MacDonald, Kaitlin
 - MacDonald, Lawnie
 - MacDonald, Rebecca Jean
@@ -242,11 +351,14 @@ vs:
 - Naugler, Tara
 - Nedohin, Heather
 - Nicholls, Brenda
+- Nixon, Amy
+- Njegovan, Selena
 - Nowlan, Denise
 - Nugent, Pamela
 - O'Rourke, Brittany
 - O'Rourke, Kathy
 - Officer, Jill
+- Olson-Johns, Lori
 - Overton-Clapham, Cathy
 - Parsons, Danielle
 - Pasika, Rona
@@ -262,8 +374,10 @@ vs:
 - Reid, Jackie
 - Richard, Marie
 - Rizzo, Jo-Ann
+- Robertson, Darcy
 - Robichaud, Sylvie
 - Robison, Michala
+- Rocque, Kelsey
 - Rogers, Rhonda
 - Ross, Allison
 - Routledge, Alanna
@@ -290,6 +404,7 @@ vs:
 - Strong, Heather
 - Strong, Laura
 - Taylor, Susan
+- Thevenot, Kara
 - Thomas, Jill
 - Thomas-Kennell, Noelle
 - Thurston, Jill
@@ -304,6 +419,7 @@ vs:
 - Wallingham, Patty
 - Walsh, Jenna
 - Weagle, Lisa
+- Webster, Crystal
 - Westcott, Raunora
 - Whitaker, Carol
 - Wilkes, Sarah

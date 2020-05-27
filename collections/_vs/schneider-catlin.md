@@ -97,6 +97,15 @@ vs:
       percent: 91
       wins: 2
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 0
+      losses: 2
+    player2:
+      percent: 93
+      wins: 2
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 75
@@ -156,6 +165,38 @@ vs:
     draw: Page 1-2(20)
     score: SK 4 - AB 9
   - player1:
+      team: Duns
+      position: Second
+      percent: 93
+      win: 0
+      loss: 1
+    player2:
+      team: Bott
+      position: Second
+      percent: 95
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(6)
+    score: Duns 6 - Bott 8
+  - player1:
+      team: Duns
+      position: Second
+      percent: 70
+      win: 0
+      loss: 1
+    player2:
+      team: Bott
+      position: Second
+      percent: 90
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(5)
+    score: Duns 4 - Bott 5
+  - player1:
       team: Morr
       position: Second
       percent: 75
@@ -182,6 +223,15 @@ vs:
       percent: 91
       wins: 2
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 0
+      losses: 2
+    player2:
+      percent: 92
+      wins: 2
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 71
@@ -240,6 +290,38 @@ vs:
     year: 2020
     draw: Semi-Final(22)
     score: SK 6 - NL 7
+  - player1:
+      team: Duns
+      position: Second
+      percent: 75
+      win: 0
+      loss: 1
+    player2:
+      team: Gush
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(1)
+    score: Gush 7 - Duns 4
+  - player1:
+      team: Duns
+      position: Second
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: Gush
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(2)
+    score: Gush 9 - Duns 7
   - player1:
       team: Morr
       position: Second

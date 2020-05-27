@@ -3,6 +3,20 @@ title: Heather Kalenchuk
 name: Heather Kalenchuk
 name-sort: Kalenchuk, Heather
 totals:
+- event: Canada Cup (Women)
+  games: 11
+  wins: 4
+  losses: 7
+  inturn-total: 109
+  inturn-percent: 85
+  outturn-total: 103
+  outturn-percent: 80
+  draw-total: 186
+  draw-percent: 83
+  takeout-total: 26
+  takeout-percent: 85
+  shots-total: 212
+  shots-percent: 83
 - event: Hearts
   games: 36
   wins: 23
@@ -32,6 +46,40 @@ totals:
   shots-total: 152
   shots-percent: 86
 years:
+- year: 2010
+  event: Canada Cup (Women)
+  team: AH
+  position: Lead
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 47
+  inturn-percent: 87
+  outturn-total: 47
+  outturn-percent: 81
+  draw-total: 80
+  draw-percent: 83
+  takeout-total: 14
+  takeout-percent: 89
+  shots-total: 94
+  shots-percent: 84
+- year: 2011
+  event: Canada Cup (Women)
+  team: HOL
+  position: Lead
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 62
+  inturn-percent: 83
+  outturn-total: 56
+  outturn-percent: 79
+  draw-total: 106
+  draw-percent: 82
+  takeout-total: 12
+  takeout-percent: 79
+  shots-total: 118
+  shots-percent: 82
 - year: 2010
   event: Hearts
   team: SK
@@ -102,6 +150,7 @@ years:
   shots-percent: 86
 vs:
 - Affleck, Tricia
+- Anderson, Sherry
 - Armstrong, Jacquie
 - Atkinson, Rebecca
 - Babin, Jillian
@@ -113,6 +162,7 @@ vs:
 - Blais, Amelie
 - Bradley, Shelly
 - Brassard, Veronique
+- Carey, Chelsea
 - Carmody, Erin
 - Carter, Sasha
 - Comeau, Martine
@@ -131,6 +181,7 @@ vs:
 - Fallis, Karen
 - Filteau, Anne-Marie
 - Fleury, Tracy
+- Foster, Kristen
 - Fraser, Sherry
 - Galusha, Kerry
 - Gates, Amanda
@@ -166,8 +217,10 @@ vs:
 - Materi, Roberta
 - McCarville, Krista
 - McConnery, Nancy
+- McDonald, Kristy
 - McEwen, Dawn
 - Middaugh, Sherry
+- Miller, Jessica
 - Miller, Wendy
 - Miskew, Emma
 - More, Whitney
@@ -188,11 +241,13 @@ vs:
 - Peters, Laine
 - Pewarchuk, Dailene
 - Phillips, Kristen
+- Potts, Sarah
 - Preston, Sam
 - Rainville, Julie
 - Ramsay, Geri Lynn
 - Robison, Michala
 - Rogers, Rhonda
+- Sabourin, Joelle
 - Schraeder, Jeanna
 - Scott, Kelly
 - Singler, Sherri
@@ -205,6 +260,7 @@ vs:
 - Sweeting, Val
 - Thomas, Jill
 - Thurston, Jill
+- Titheridge, Lindsay
 - Udle, Teri
 - Vey, Lana
 - Walsh, Jenna

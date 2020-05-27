@@ -3,6 +3,20 @@ title: Jill Thurston
 name: Jill Thurston
 name-sort: Thurston, Jill
 totals:
+- event: Canada Cup (Women)
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 50
+  inturn-percent: 65
+  outturn-total: 46
+  outturn-percent: 70
+  draw-total: 41
+  draw-percent: 65
+  takeout-total: 55
+  takeout-percent: 69
+  shots-total: 96
+  shots-percent: 67
 - event: Hearts
   games: 23
   wins: 11
@@ -32,6 +46,23 @@ totals:
   shots-total: 172
   shots-percent: 73
 years:
+- year: 2006
+  event: Canada Cup (Women)
+  team: Har
+  position: Third
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 50
+  inturn-percent: 65
+  outturn-total: 46
+  outturn-percent: 70
+  draw-total: 41
+  draw-percent: 65
+  takeout-total: 55
+  takeout-percent: 69
+  shots-total: 96
+  shots-percent: 67
 - year: 1999
   event: Hearts
   team: MB
@@ -105,20 +136,24 @@ vs:
 - Bohmer, Brenda
 - Bowman, Mary
 - Breen, Thersa
+- Bruce, Twyla
 - Bryant, Angie
 - Bush, Tracy
 - Cameron, Nancy
 - Carmody, Erin
 - Carter, Sasha
 - Comeau, Martine
+- Comeau, Sandy
 - Cormier, Sharon
 - Crawford, Andrea
 - Crouse, Jennifer
 - Delahunt, Nancy
 - deSolla, Jodie
+- Doig, Deanna
 - Eddy, Lori
 - Einarson, Megan
 - Ellis, Danielle
+- Farrell, Allison
 - Fraser, Sherry
 - Frey, Audrey
 - Gagnier, Monique
@@ -135,19 +170,23 @@ vs:
 - Hooper, Jane
 - Hopkins, Heather
 - Horne, Kate
+- Jacques, Nicole
 - Jones, Colleen
 - Jones, Jennifer
 - Jurgenson, Christine
 - Kalenchuk, Heather
 - Kelly, Kim
+- Keshen, Christine
 - King, Cathy
 - Kleibrink, Shannon
 - Koehler, Megan
 - Lang, Lorraine
 - Law, Kelley
 - LeDrew, Stephanie
+- Leger, Stacey
 - Lemon, Colette
 - Leonard, Judy
+- Linton, Sherry
 - MacDiarmid, Kristen
 - MacLean, Kari
 - MacLeod, Lisa
@@ -158,8 +197,10 @@ vs:
 - McCarville, Krista
 - McConnery, Nancy
 - McCusker, Joan
+- McDonald, Tina
 - McEwen, Dawn
 - McInnis, Susan
+- McIvor, Jolene
 - McKnight, Patti
 - Merklinger, Anne
 - Middaugh, Sherry
@@ -170,6 +211,7 @@ vs:
 - Naugler, Tara
 - Nicholls, Brenda
 - Nimmo, Shannon
+- Nixon, Amy
 - Nowlan, Denise
 - Nugent, Pamela
 - O'Leary, Susan
@@ -178,9 +220,11 @@ vs:
 - Olson-Johns, Lori
 - Overton-Clapham, Cathy
 - Potts, Sarah
+- Preston, Samantha
 - Radford, Mary Sue
 - Rainville, Julie
 - Ramsay, Geri Lynn
+- Rankin, Heather
 - Ridalls, Kristen
 - Rocque, Raylene
 - Rogers, Leslie
@@ -195,7 +239,9 @@ vs:
 - Simons, Renee
 - Sipka, Joanne
 - Sippala, Ashley
+- Smith, Nikki
 - Sobey, Lianne
+- Sonnenberg, Renee
 - Streifel, Tracy
 - Strong, Heather
 - Strong, Laura
@@ -204,5 +250,6 @@ vs:
 - Tanner, Ros
 - Thomas, Jill
 - Wheatcroft, Georgina
+- Whitaker, Carol
 - Zielke, Colleen
 ---

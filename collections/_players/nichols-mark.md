@@ -17,6 +17,20 @@ totals:
   takeout-percent: 85
   shots-total: 3815
   shots-percent: 85
+- event: Canada Cup (Men)
+  games: 75
+  wins: 40
+  losses: 35
+  inturn-total: 598
+  inturn-percent: 84
+  outturn-total: 791
+  outturn-percent: 83
+  draw-total: 659
+  draw-percent: 83
+  takeout-total: 730
+  takeout-percent: 84
+  shots-total: 1389
+  shots-percent: 83
 - event: Trials (Men)
   games: 26
   wins: 18
@@ -305,6 +319,210 @@ years:
   shots-total: 264
   shots-percent: 89
 - year: 2005
+  event: Canada Cup (Men)
+  team: Gus
+  position: Third
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 41
+  inturn-percent: 81
+  outturn-total: 61
+  outturn-percent: 72
+  draw-total: 42
+  draw-percent: 79
+  takeout-total: 60
+  takeout-percent: 74
+  shots-total: 102
+  shots-percent: 76
+- year: 2006
+  event: Canada Cup (Men)
+  team: Gus
+  position: Third
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 36
+  inturn-percent: 88
+  outturn-total: 54
+  outturn-percent: 81
+  draw-total: 37
+  draw-percent: 86
+  takeout-total: 53
+  takeout-percent: 83
+  shots-total: 90
+  shots-percent: 84
+- year: 2007
+  event: Canada Cup (Men)
+  team: Gus
+  position: Third
+  games: 8
+  wins: 5
+  losses: 3
+  inturn-total: 65
+  inturn-percent: 88
+  outturn-total: 87
+  outturn-percent: 82
+  draw-total: 63
+  draw-percent: 81
+  takeout-total: 89
+  takeout-percent: 87
+  shots-total: 152
+  shots-percent: 85
+- year: 2008
+  event: Canada Cup (Men)
+  team: GUSH
+  position: Third
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 51
+  inturn-percent: 83
+  outturn-total: 69
+  outturn-percent: 83
+  draw-total: 51
+  draw-percent: 77
+  takeout-total: 69
+  takeout-percent: 88
+  shots-total: 120
+  shots-percent: 83
+- year: 2009
+  event: Canada Cup (Men)
+  team: GUSH
+  position: Third
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 32
+  inturn-percent: 80
+  outturn-total: 60
+  outturn-percent: 77
+  draw-total: 56
+  draw-percent: 82
+  takeout-total: 36
+  takeout-percent: 72
+  shots-total: 92
+  shots-percent: 78
+- year: 2010
+  event: Canada Cup (Men)
+  team: RFE
+  position: Second
+  games: 5
+  wins: 3
+  losses: 2
+  inturn-total: 41
+  inturn-percent: 76
+  outturn-total: 45
+  outturn-percent: 81
+  draw-total: 41
+  draw-percent: 75
+  takeout-total: 45
+  takeout-percent: 82
+  shots-total: 86
+  shots-percent: 79
+- year: 2012
+  event: Canada Cup (Men)
+  team: STO
+  position: Lead
+  games: 7
+  wins: 6
+  losses: 1
+  inturn-total: 65
+  inturn-percent: 88
+  outturn-total: 69
+  outturn-percent: 92
+  draw-total: 120
+  draw-percent: 91
+  takeout-total: 14
+  takeout-percent: 80
+  shots-total: 134
+  shots-percent: 90
+- year: 2014
+  event: Canada Cup (Men)
+  team: GUS
+  position: Third
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 40
+  inturn-percent: 71
+  outturn-total: 72
+  outturn-percent: 80
+  draw-total: 38
+  draw-percent: 68
+  takeout-total: 74
+  takeout-percent: 81
+  shots-total: 112
+  shots-percent: 77
+- year: 2015
+  event: Canada Cup (Men)
+  team: GUS
+  position: Third
+  games: 7
+  wins: 3
+  losses: 4
+  inturn-total: 57
+  inturn-percent: 91
+  outturn-total: 79
+  outturn-percent: 86
+  draw-total: 55
+  draw-percent: 88
+  takeout-total: 81
+  takeout-percent: 88
+  shots-total: 136
+  shots-percent: 88
+- year: 2016
+  event: Canada Cup (Men)
+  team: GUS
+  position: Fourth
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 71
+  inturn-percent: 85
+  outturn-total: 60
+  outturn-percent: 82
+  draw-total: 59
+  draw-percent: 84
+  takeout-total: 72
+  takeout-percent: 83
+  shots-total: 131
+  shots-percent: 83
+- year: 2018
+  event: Canada Cup (Men)
+  team: Gush
+  position: Third
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 49
+  inturn-percent: 83
+  outturn-total: 77
+  outturn-percent: 89
+  draw-total: 45
+  draw-percent: 86
+  takeout-total: 81
+  takeout-percent: 87
+  shots-total: 126
+  shots-percent: 87
+- year: 2019
+  event: Canada Cup (Men)
+  team: Gush
+  position: Third
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 50
+  inturn-percent: 87
+  outturn-total: 58
+  outturn-percent: 86
+  draw-total: 52
+  draw-percent: 86
+  takeout-total: 56
+  takeout-percent: 87
+  shots-total: 108
+  shots-percent: 86
+- year: 2005
   event: Trials (Men)
   team: GUS
   position: Third
@@ -415,6 +633,7 @@ vs:
 - Bilesky, Andrew
 - Bitz, Scott
 - Blanchard, Wade
+- Blaylock, Bryan
 - Borden, Robert
 - Bottcher, Brendan
 - Bouchard, Christian
@@ -422,6 +641,7 @@ vs:
 - Breckon, Graham
 - Bryant, Doug
 - Bubbs, John
+- Bucholz, Rob
 - Bucyk, James
 - Burgess, Craig
 - Burnett, Steve
@@ -454,6 +674,9 @@ vs:
 - Darragh, Alan
 - Desilets, Mike
 - Desjardins, Robert
+- Despins, Dale
+- Despins, Glen
+- Despins, Wayne
 - Dieno, Clint
 - Dillon, Mike
 - Dobson, Mark
@@ -465,6 +688,7 @@ vs:
 - Eldridge, Zach
 - Elias, Dave
 - Elmaleh, Maxime
+- Enright, Adam
 - Epping, John
 - Errington, Derek
 - Farnell, Jamie
@@ -480,6 +704,7 @@ vs:
 - Folk, Kevin
 - Forget, Wes
 - Forrest, Alex
+- Forrest, Tyler
 - Fowler, Rob
 - Frans, Joe
 - Fraser, Pierre
@@ -508,6 +733,7 @@ vs:
 - Gunnlaugson, Jason
 - Gushue, Brad
 - Haichert, Chris
+- Hamilton, Andrew
 - Harcourt, Doug
 - Harcourt, Greg
 - Hardy, Gord
@@ -542,6 +768,7 @@ vs:
 - Jeffrey, Chris
 - Jenion, Bob
 - Joanisse, Dean
+- Johnson, Mark
 - Jones, Brennen
 - Jones, Scott
 - Jordison, Joel
@@ -551,6 +778,7 @@ vs:
 - Kehoe, Mark
 - Kelsch, Dan
 - Kendall, Lloyd
+- Kennedy, Glen
 - Kennedy, Marc
 - Kennedy, Mike
 - Kidby, Dustin
@@ -575,6 +803,7 @@ vs:
 - Lindsay, Tim
 - Loevenmark, Phil
 - Lohnes, Bruce
+- Lyburn, Allan
 - MacAulay, Ian
 - MacDonald, Blake
 - MacDonald, Edmund
@@ -621,6 +850,7 @@ vs:
 - Muyres, Dallan
 - Muyres, Kirk
 - Nadeau, Jeff
+- Naharnie, Cory
 - Nantes, Dave
 - Naugler, Tom
 - Nedohin, David
@@ -638,11 +868,13 @@ vs:
 - Olson, Mark-2
 - Orme, Tyler
 - Ouimet, Luc
+- Owens, Derek
 - Palmer, Curt
 - Park, Kevin
 - Parsons, Cole
 - Peachey, Jay
 - Peachy, Jay
+- Perepolkin, T.J.
 - Pfeifer, Scott
 - Pielak, Rod
 - Pierce, Brent
@@ -654,6 +886,7 @@ vs:
 - Recksiedler, Kevin
 - Reid, Serge
 - Richard, Jeff
+- Richter, Justin
 - Roach, Darren
 - Roach, Jason
 - Roberge, Francois
@@ -698,12 +931,15 @@ vs:
 - Taylor, Andrew
 - Thiessen, Brad
 - Thiessen, Nolan
+- Thomas, Charley
 - Thompson, Stuart
 - Thomson, Fred
+- Tocher, Jason
 - Toner, Lee
 - Trevellyan, Todd
 - Turpin, Randy
 - Ursel, Bob
+- Van Den Berghe, Garry
 - Vandenberghe, Garry
 - Vaughan, Jason
 - Villeneuve, Steeve
@@ -718,6 +954,7 @@ vs:
 - Wettig, Sheldon
 - Whitehead, Kevin
 - Whitehead, Mark
+- Willis, Brendan
 - Withycombe, Ian
 - Wood, Brad
 - Wood, Mike

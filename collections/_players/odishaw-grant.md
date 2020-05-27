@@ -17,6 +17,20 @@ totals:
   takeout-percent: 80
   shots-total: 1856
   shots-percent: 86
+- event: Canada Cup (Men)
+  games: 9
+  wins: 4
+  losses: 5
+  inturn-total: 54
+  inturn-percent: 90
+  outturn-total: 112
+  outturn-percent: 88
+  draw-total: 149
+  draw-percent: 89
+  takeout-total: 17
+  takeout-percent: 87
+  shots-total: 166
+  shots-percent: 89
 - event: Trials (Men)
   games: 9
   wins: 5
@@ -268,6 +282,40 @@ years:
   takeout-percent: 70
   shots-total: 131
   shots-percent: 87
+- year: 2003
+  event: Canada Cup (Men)
+  team: Howa
+  position: Lead
+  games: 4
+  wins: 1
+  losses: 3
+  inturn-total: 26
+  inturn-percent: 88
+  outturn-total: 49
+  outturn-percent: 94
+  draw-total: 68
+  draw-percent: 92
+  takeout-total: 7
+  takeout-percent: 96
+  shots-total: 75
+  shots-percent: 92
+- year: 2004
+  event: Canada Cup (Men)
+  team: HOW
+  position: Lead
+  games: 5
+  wins: 3
+  losses: 2
+  inturn-total: 28
+  inturn-percent: 91
+  outturn-total: 63
+  outturn-percent: 83
+  draw-total: 81
+  draw-percent: 86
+  takeout-total: 10
+  takeout-percent: 80
+  shots-total: 91
+  shots-percent: 86
 - year: 2001
   event: Trials (Men)
   team: HOW
@@ -335,6 +383,7 @@ vs:
 - Collins, Ron
 - Collison, Brian
 - Colter, Travis
+- Connolly, T.J.
 - Corner, Peter
 - Cotter, Jim
 - Cowan, Chad
@@ -384,6 +433,7 @@ vs:
 - Germsheid, Tony
 - Gibson, Andrew
 - Golanowski, Rory
+- Goodman, Eric
 - Gordon, Robbie
 - Gorveatt, Philip
 - Gould, Steve
@@ -392,6 +442,7 @@ vs:
 - Grundy, John
 - Gubbles, Will
 - Gushue, Brad
+- Haichert, Chris
 - Haines, Chuck
 - Harcourt, Doug
 - Harcourt, Greg
@@ -406,6 +457,7 @@ vs:
 - Henderson, Jeffrey
 - Henderson, Ron
 - Henderson, Scott
+- Hersikorn, Terry
 - Hinch, Bert
 - Hollett, Peter
 - Hong, Doug
@@ -413,6 +465,7 @@ vs:
 - Horning, Deane
 - Howard, Glenn
 - Howard, Russ
+- Humble, Brian
 - Hunt, Bruce
 - Ingram, Bob
 - Irwin, Don
@@ -429,6 +482,8 @@ vs:
 - Kerr, Ian
 - Kieley, Phil
 - Kilgallen, Shane
+- Kleiter, Dean
+- Kochan, Craig
 - Koe, Jamie
 - Koe, Kevin
 - Koffski, Rob
@@ -453,6 +508,7 @@ vs:
 - Lukowich, Mark
 - Lyburn, Allan
 - MacAulay, Ian
+- MacDonald, Blake
 - MacDonald, Peter
 - MacDonald, Rod
 - MacInnes, David
@@ -470,6 +526,7 @@ vs:
 - McClelland, John
 - McCusker, Brian
 - McDermaid, Donald
+- McDermot, Ken
 - McDonald, Scott
 - McHargue, Ken
 - McKee, Darrell
@@ -513,11 +570,13 @@ vs:
 - Patterson, Scott
 - Peachy, Jay
 - Peech, Orest
+- Perrin, Hubert
 - Petryk, Dan
 - Pfeifer, Scott
 - Phillips, Tim
 - Pierce, Brent
 - Pinder, Jordan
+- Pohl, Mike
 - Postma, John
 - Pritchett, Bob
 - Pyper, Dwayne
@@ -526,6 +585,7 @@ vs:
 - Recksiedler, Kevin
 - Reddick, Don
 - Roberge, Francois
+- Robertson, Ian
 - Robertson, Richard
 - Robinson, Andrew
 - Rocque, Marcel
@@ -567,6 +627,7 @@ vs:
 - Sumner, Kevin
 - Sveistrup, Jody
 - Sylvain, Eric
+- Tarasoff, Kerry
 - Tetley, Ian
 - Thibaudeau, Guy
 - Thiessen, Nolan
@@ -587,6 +648,7 @@ vs:
 - Wempe, Brian
 - Westphal, Don
 - Whittle, Mark
+- Woodward, Murray
 - Woytowich, Randy
 - Xidos, George
 - Young, Wayne

@@ -3,6 +3,20 @@ title: Roberta Materi
 name: Roberta Materi
 name-sort: Materi, Roberta
 totals:
+- event: Canada Cup (Women)
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 70
+  inturn-percent: 80
+  outturn-total: 58
+  outturn-percent: 79
+  draw-total: 56
+  draw-percent: 75
+  takeout-total: 72
+  takeout-percent: 83
+  shots-total: 128
+  shots-percent: 79
 - event: Hearts
   games: 33
   wins: 14
@@ -32,6 +46,23 @@ totals:
   shots-total: 178
   shots-percent: 78
 years:
+- year: 2009
+  event: Canada Cup (Women)
+  team: ENGL
+  position: Second
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 70
+  inturn-percent: 80
+  outturn-total: 58
+  outturn-percent: 79
+  draw-total: 56
+  draw-percent: 75
+  takeout-total: 72
+  takeout-percent: 83
+  shots-total: 128
+  shots-percent: 79
 - year: 2001
   event: Hearts
   team: SK
@@ -114,11 +145,13 @@ vs:
 - Belanger, Nancy
 - Bell, Chelsey
 - Bell, Patty
+- Bernard, Cheryl
 - Beveridge, Corie
 - Birt, Suzanne
 - Blais, Amelie
 - Bohmer, Brenda
 - Bradley, Shelly
+- Breen, Theresa
 - Brennan, Amanda
 - Brown, Jacalyn
 - Brown, Janet
@@ -162,6 +195,7 @@ vs:
 - Joyce, Blisse
 - Jurgenson, Christine
 - Kalenchuk, Heather
+- Kasner, Marliese
 - Kelly, Kim
 - King, Cathy
 - Kleibrink, Shannon
@@ -170,6 +204,7 @@ vs:
 - Law, Kelley
 - Lawes, Andrea
 - Lawes, Kaitlyn
+- Lawton, Stefanie
 - Lemay, Annie
 - MacCallum, Janice
 - MacDonald, Lawnie
@@ -188,11 +223,13 @@ vs:
 - Miller, Wendy
 - Montgomery, Kay
 - Moore, Kim
+- Morris, Cori
 - Mulroney, Sandra
 - Nedohin, Heather
 - Nicholls, Brenda
 - Nicholson, Danielle
 - Nixon, Amy
+- O'Connor, Susan
 - O'Leary, Susan
 - Officer, Jill
 - Overton-Clapham, Cathy
@@ -210,6 +247,7 @@ vs:
 - Schraeder, Jeanna
 - Scott, Kelly
 - Simons, Renee
+- Singler, Sherri
 - Skinner, Julie
 - Smith, Heather
 - Sonnenberg, Renee
@@ -229,4 +267,5 @@ vs:
 - Wylie, Jennifer
 - Yardley, Janelle
 - Young, Karen
+- Zinck, Kay
 ---

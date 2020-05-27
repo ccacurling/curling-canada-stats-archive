@@ -17,6 +17,20 @@ totals:
   takeout-percent: 69
   shots-total: 197
   shots-percent: 84
+- event: Canada Cup (Men)
+  games: 10
+  wins: 2
+  losses: 8
+  inturn-total: 78
+  inturn-percent: 84
+  outturn-total: 92
+  outturn-percent: 91
+  draw-total: 160
+  draw-percent: 89
+  takeout-total: 10
+  takeout-percent: 78
+  shots-total: 170
+  shots-percent: 88
 - event: Trials (Men)
   games: 1
   wins: 1
@@ -87,6 +101,44 @@ years:
   takeout-percent: 58
   shots-total: 7
   shots-percent: 75
+- year: 2008
+  event: Canada Cup (Men)
+  team: BURT
+  position: Lead
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 27
+  inturn-percent: 92
+  outturn-total: 55
+  outturn-percent: 92
+  draw-total: 78
+  draw-percent: 93
+  takeout-total: 4
+  takeout-percent: 81
+  shots-total: 82
+  shots-percent: 92
+- year: 2009
+  event: Canada Cup (Men)
+  team: BURT
+  position: Lead
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 51
+  inturn-percent: 80
+  outturn-total: 37
+  outturn-percent: 90
+  draw-total: 82
+  draw-percent: 85
+  takeout-total: 6
+  takeout-percent: 75
+  shots-total: 88
+  shots-percent: 84
+- year: 2012
+  event: Canada Cup (Men)
+  team: STO
+  position: Alternate
 - year: 2013
   event: Trials (Men)
   team: STO
@@ -106,6 +158,8 @@ years:
   shots-percent: 72
 vs:
 - Adam, Gerry
+- Appelman, Ted
+- Appelman, Tom
 - Buyck, James
 - Carmody, Anson
 - Case, Peter
@@ -116,12 +170,18 @@ vs:
 - Crete, Martin
 - Darragh, Alan
 - Desrosiers, John
+- Ferbey, Randy
 - Flaxey, Caleb
 - Folk, Kevin
+- Forrest, Tyler
+- Fowler, Rob
+- Fry, Ryan
 - Gagnon, Jean
 - Gallant, Peter
 - Gorveatt, Philip
+- Gould, Steve
 - Grattan, James
+- Gunnlaugson, Jason
 - Gushue, Brad
 - Harnden, E.J.
 - Harnden, Eric
@@ -133,21 +193,32 @@ vs:
 - Ireland, Clint
 - Kennedy, Marc
 - Kennedy, Mike
+- Klassen, Brandon
+- Koe, Kevin
+- Korab, Jamie
 - Laing, Brent
 - Laycock, Steve
 - Ledgerwood, Sean
+- MacDonald, Blake
 - MacFadyen, Alex
 - MacKenzie, Eddie
 - Martin, Kevin
+- Melnyk, Brendan
 - Menard, Jean-Michel
 - Menard, Philippe
 - Middaugh, Wayne
 - Morris, John
+- Nedohin, David
 - Nichols, Mark
 - Noftall, David
 - O'Rourke, Mark
 - Palmer, Curt
+- Park, Kevin
+- Pfeifer, Scott
 - Rafuse, Brian
+- Richter, Justin
+- Rocque, Marcel
+- Rycroft, Carter
 - Savill, Craig
 - Sawatsky, Rick
 - Schille, Chris
@@ -155,7 +226,10 @@ vs:
 - Sharp, Jeff
 - Simmons, Pat
 - Slauenwhite, David
+- Stoughton, Jeff
 - Sylvain, Eric
+- Thiessen, Nolan
+- Thomas, Charley
 - Ursel, Bob
 - Vaughan, Jason
 ---

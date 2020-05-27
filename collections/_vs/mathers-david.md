@@ -13,6 +13,15 @@ vs:
       percent: 90
       wins: 2
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 0
+      losses: 2
+    player2:
+      percent: 85
+      wins: 2
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 94
@@ -55,6 +64,38 @@ vs:
     year: 2017
     draw: Round Robin(16)
     score: MB 8 - ON 3
+  - player1:
+      team: MC
+      position: Second
+      percent: 71
+      win: 0
+      loss: 1
+    player2:
+      team: MM
+      position: Fourth
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(2)
+    score: MM 6 - MC 3
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Fourth
+      percent: 81
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2012
+    draw: Round Robin(4)
+    score: EPP 8 - MCE 9
   - player1:
       team: EPP
       position: Lead
@@ -230,6 +271,15 @@ vs:
       percent: 89
       wins: 1
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 84
+      wins: 1
+      losses: 1
+    player2:
+      percent: 83
+      wins: 1
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 93
@@ -289,6 +339,38 @@ vs:
     draw: Round Robin(3)
     score: BC 3 - ON 5
   - player1:
+      team: MC
+      position: Second
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: KM
+      position: Third
+      percent: 98
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(4)
+    score: MC 2 - KM 7
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: MAR
+      position: Third
+      percent: 74
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2012
+    draw: Round Robin(1)
+    score: MAR 6 - EPP 7
+  - player1:
       team: EPP
       position: Lead
       percent: 93
@@ -315,6 +397,15 @@ vs:
       percent: 80
       wins: 0
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 94
+      wins: 1
+      losses: 0
+    player2:
+      percent: 66
+      wins: 0
+      losses: 1
   games:
   - player1:
       team: 'ON'
@@ -332,6 +423,22 @@ vs:
     year: 2015
     draw: Round Robin(15)
     score: MB 7 - ON 8
+  - player1:
+      team: Howa
+      position: Second
+      percent: 94
+      win: 1
+      loss: 0
+    player2:
+      team: Duns
+      position: Third
+      percent: 66
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(9)
+    score: Duns 2 - Howa 5
 - name: Moulding, Darren
   totals:
   - event: Brier
@@ -343,6 +450,15 @@ vs:
       percent: 78
       wins: 0
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 0
+      losses: 1
+    player2:
+      percent: 91
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: 'ON'
@@ -360,6 +476,22 @@ vs:
     year: 2017
     draw: Round Robin(12)
     score: AB 3 - ON 6
+  - player1:
+      team: Howa
+      position: Second
+      percent: 81
+      win: 0
+      loss: 1
+    player2:
+      team: Bott
+      position: Third
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(3)
+    score: Bott 9 - Howa 3
 - name: Murphy, Jamie
   totals:
   - event: Brier
@@ -487,6 +619,15 @@ vs:
       percent: 88
       wins: 2
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 77
+      wins: 1
+      losses: 2
+    player2:
+      percent: 75
+      wins: 2
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 94
@@ -530,6 +671,54 @@ vs:
     draw: Round Robin(16)
     score: MB 8 - ON 3
   - player1:
+      team: MC
+      position: Second
+      percent: 71
+      win: 0
+      loss: 1
+    player2:
+      team: MM
+      position: Third
+      percent: 74
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(2)
+    score: MM 6 - MC 3
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Third
+      percent: 77
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2012
+    draw: Round Robin(4)
+    score: EPP 8 - MCE 9
+  - player1:
+      team: Howa
+      position: Second
+      percent: 70
+      win: 1
+      loss: 0
+    player2:
+      team: Koe
+      position: Third
+      percent: 75
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(5)
+    score: Howa 9 - Koe 6
+  - player1:
       team: EPP
       position: Lead
       percent: 94
@@ -554,6 +743,15 @@ vs:
       losses: 2
     player2:
       percent: 98
+      wins: 2
+      losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 0
+      losses: 2
+    player2:
+      percent: 96
       wins: 2
       losses: 0
   - event: Trials(Men)
@@ -599,6 +797,38 @@ vs:
     draw: Round Robin(16)
     score: MB 8 - ON 3
   - player1:
+      team: MC
+      position: Second
+      percent: 71
+      win: 0
+      loss: 1
+    player2:
+      team: MM
+      position: Lead
+      percent: 94
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(2)
+    score: MM 6 - MC 3
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Lead
+      percent: 97
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2012
+    draw: Round Robin(4)
+    score: EPP 8 - MCE 9
+  - player1:
       team: EPP
       position: Lead
       percent: 94
@@ -625,6 +855,15 @@ vs:
       percent: 87
       wins: 3
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 84
+      wins: 1
+      losses: 2
+    player2:
+      percent: 87
+      wins: 2
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 86
@@ -684,6 +923,54 @@ vs:
     draw: Round Robin(15)
     score: ON 7 - NL 8
   - player1:
+      team: MC
+      position: Second
+      percent: 75
+      win: 0
+      loss: 1
+    player2:
+      team: RFE
+      position: Second
+      percent: 75
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(5)
+    score: RFE 7 - MC 2
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: STO
+      position: Lead
+      percent: 95
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2012
+    draw: Round Robin(7)
+    score: EPP 8 - STO 7
+  - player1:
+      team: Howa
+      position: Second
+      percent: 85
+      win: 0
+      loss: 1
+    player2:
+      team: Gush
+      position: Third
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(6)
+    score: Gush 4 - Howa 3
+  - player1:
       team: EPP
       position: Lead
       percent: 86
@@ -738,6 +1025,15 @@ vs:
       percent: 88
       wins: 1
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 91
+      wins: 0
+      losses: 1
+    player2:
+      percent: 88
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 88
@@ -780,6 +1076,22 @@ vs:
     year: 2016
     draw: Round Robin(6)
     score: CA 4 - PE 6
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 91
+      win: 0
+      loss: 1
+    player2:
+      team: KOE
+      position: Second
+      percent: 88
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2012
+    draw: Round Robin(2)
+    score: KOE 5 - EPP 3
   - player1:
       team: EPP
       position: Lead
@@ -992,6 +1304,15 @@ vs:
       percent: 92
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 94
+      wins: 1
+      losses: 0
+    player2:
+      percent: 61
+      wins: 0
+      losses: 1
   games:
   - player1:
       team: 'ON'
@@ -1009,6 +1330,22 @@ vs:
     year: 2017
     draw: Round Robin(10)
     score: SK 9 - ON 5
+  - player1:
+      team: Howa
+      position: Second
+      percent: 94
+      win: 1
+      loss: 0
+    player2:
+      team: Duns
+      position: Second
+      percent: 61
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(9)
+    score: Duns 2 - Howa 5
 - name: Schneider, Jamie
   totals:
   - event: Brier
@@ -1048,6 +1385,15 @@ vs:
       percent: 84
       wins: 1
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 91
+      wins: 0
+      losses: 1
+    player2:
+      percent: 81
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 88
@@ -1090,6 +1436,22 @@ vs:
     year: 2016
     draw: Round Robin(6)
     score: CA 4 - PE 6
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 91
+      win: 0
+      loss: 1
+    player2:
+      team: KOE
+      position: Third
+      percent: 81
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2012
+    draw: Round Robin(2)
+    score: KOE 5 - EPP 3
   - player1:
       team: EPP
       position: Lead
@@ -1205,6 +1567,15 @@ vs:
       percent: 75
       wins: 0
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 0
+      losses: 1
+    player2:
+      percent: 84
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: 'ON'
@@ -1222,6 +1593,22 @@ vs:
     year: 2017
     draw: Round Robin(12)
     score: AB 3 - ON 6
+  - player1:
+      team: Howa
+      position: Second
+      percent: 81
+      win: 0
+      loss: 1
+    player2:
+      team: Bott
+      position: Second
+      percent: 84
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(3)
+    score: Bott 9 - Howa 3
 - name: Thiessen, Nolan
   totals:
   - event: Brier
@@ -1233,6 +1620,15 @@ vs:
       percent: 88
       wins: 1
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 91
+      wins: 0
+      losses: 1
+    player2:
+      percent: 84
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 88
@@ -1278,6 +1674,22 @@ vs:
   - player1:
       team: EPP
       position: Lead
+      percent: 91
+      win: 0
+      loss: 1
+    player2:
+      team: KOE
+      position: Lead
+      percent: 84
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2012
+    draw: Round Robin(2)
+    score: KOE 5 - EPP 3
+  - player1:
+      team: EPP
+      position: Lead
       percent: 88
       win: 1
       loss: 0
@@ -1302,6 +1714,15 @@ vs:
       percent: 89
       wins: 3
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 89
+      wins: 1
+      losses: 1
+    player2:
+      percent: 87
+      wins: 1
+      losses: 1
   games:
   - player1:
       team: 'ON'
@@ -1351,6 +1772,38 @@ vs:
     year: 2017
     draw: Round Robin(15)
     score: ON 7 - NL 8
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 94
+      win: 1
+      loss: 0
+    player2:
+      team: GUS
+      position: Lead
+      percent: 85
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2012
+    draw: Round Robin(8)
+    score: GUS 4 - EPP 6
+  - player1:
+      team: Howa
+      position: Second
+      percent: 85
+      win: 0
+      loss: 1
+    player2:
+      team: Gush
+      position: Lead
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(6)
+    score: Gush 4 - Howa 3
 - name: Whitehead, Mark
   totals:
   - event: Brier
@@ -1388,6 +1841,15 @@ vs:
       losses: 2
     player2:
       percent: 84
+      wins: 2
+      losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 0
+      losses: 2
+    player2:
+      percent: 83
       wins: 2
       losses: 0
   - event: Trials(Men)
@@ -1433,6 +1895,38 @@ vs:
     draw: Round Robin(16)
     score: MB 8 - ON 3
   - player1:
+      team: MC
+      position: Second
+      percent: 71
+      win: 0
+      loss: 1
+    player2:
+      team: MM
+      position: Second
+      percent: 86
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(2)
+    score: MM 6 - MC 3
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Second
+      percent: 81
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2012
+    draw: Round Robin(4)
+    score: EPP 8 - MCE 9
+  - player1:
       team: EPP
       position: Lead
       percent: 94
@@ -1448,6 +1942,309 @@ vs:
     year: 2013
     draw: Round Robin(8)
     score: EPP 7 - MCE 10
+- name: Mead, Jonathan
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 91
+      wins: 1
+      losses: 0
+    player2:
+      percent: 85
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: STO
+      position: Third
+      percent: 85
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2012
+    draw: Round Robin(7)
+    score: EPP 8 - STO 7
+- name: Middaugh, Wayne
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 0
+      losses: 2
+    player2:
+      percent: 90
+      wins: 2
+      losses: 0
+  - event: Trials(Men)
+    player1:
+      percent: 93
+      wins: 0
+      losses: 1
+    player2:
+      percent: 75
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: MC
+      position: Second
+      percent: 78
+      win: 0
+      loss: 1
+    player2:
+      team: GH
+      position: Third
+      percent: 90
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(8)
+    score: MC 4 - GH 6
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 84
+      win: 0
+      loss: 1
+    player2:
+      team: HOW
+      position: Third
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2012
+    draw: Round Robin(5)
+    score: EPP 4 - HOW 10
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 93
+      win: 0
+      loss: 1
+    player2:
+      team: HOW
+      position: Third
+      percent: 75
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2013
+    draw: Round Robin(4)
+    score: EPP 5 - HOW 9
+- name: Reid, Serge
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 0
+      losses: 1
+    player2:
+      percent: 85
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: MC
+      position: Second
+      percent: 81
+      win: 0
+      loss: 1
+    player2:
+      team: SR
+      position: Fourth
+      percent: 85
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(7)
+    score: SR 8 - MC 2
+- name: Rocque, Marcel
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 75
+      wins: 0
+      losses: 1
+    player2:
+      percent: 86
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: MC
+      position: Second
+      percent: 75
+      win: 0
+      loss: 1
+    player2:
+      team: RFE
+      position: Lead
+      percent: 86
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(5)
+    score: RFE 7 - MC 2
+- name: Savill, Craig
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 0
+      losses: 2
+    player2:
+      percent: 90
+      wins: 2
+      losses: 0
+  - event: Trials(Men)
+    player1:
+      percent: 93
+      wins: 0
+      losses: 1
+    player2:
+      percent: 96
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: MC
+      position: Second
+      percent: 78
+      win: 0
+      loss: 1
+    player2:
+      team: GH
+      position: Lead
+      percent: 88
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(8)
+    score: MC 4 - GH 6
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 84
+      win: 0
+      loss: 1
+    player2:
+      team: HOW
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2012
+    draw: Round Robin(5)
+    score: EPP 4 - HOW 10
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 93
+      win: 0
+      loss: 1
+    player2:
+      team: HOW
+      position: Lead
+      percent: 96
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2013
+    draw: Round Robin(4)
+    score: EPP 5 - HOW 9
+- name: Stoughton, Jeff
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 91
+      wins: 1
+      losses: 0
+    player2:
+      percent: 75
+      wins: 0
+      losses: 1
+  - event: Trials(Men)
+    player1:
+      percent: 86
+      wins: 0
+      losses: 1
+    player2:
+      percent: 88
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: STO
+      position: Fourth
+      percent: 75
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2012
+    draw: Round Robin(7)
+    score: EPP 8 - STO 7
+  - player1:
+      team: EPP
+      position: Lead
+      percent: 86
+      win: 0
+      loss: 1
+    player2:
+      team: STO
+      position: Fourth
+      percent: 88
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2013
+    draw: Round Robin(6)
+    score: STO 4 - EPP 3
+- name: Villeneuve, Steeve
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 0
+      losses: 1
+    player2:
+      percent: 79
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: MC
+      position: Second
+      percent: 81
+      win: 0
+      loss: 1
+    player2:
+      team: SR
+      position: Lead
+      percent: 79
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(7)
+    score: SR 8 - MC 2
 - name: Mead, Jon
   totals:
   - event: Trials(Men)
@@ -1476,34 +2273,6 @@ vs:
     year: 2013
     draw: Round Robin(6)
     score: STO 4 - EPP 3
-- name: Middaugh, Wayne
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 93
-      wins: 0
-      losses: 1
-    player2:
-      percent: 75
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: EPP
-      position: Lead
-      percent: 93
-      win: 0
-      loss: 1
-    player2:
-      team: HOW
-      position: Third
-      percent: 75
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2013
-    draw: Round Robin(4)
-    score: EPP 5 - HOW 9
 - name: Nedohin, David
   totals:
   - event: Trials(Men)
@@ -1532,60 +2301,4 @@ vs:
     year: 2013
     draw: Round Robin(10)
     score: MAR 9 - EPP 5
-- name: Savill, Craig
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 93
-      wins: 0
-      losses: 1
-    player2:
-      percent: 96
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: EPP
-      position: Lead
-      percent: 93
-      win: 0
-      loss: 1
-    player2:
-      team: HOW
-      position: Lead
-      percent: 96
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2013
-    draw: Round Robin(4)
-    score: EPP 5 - HOW 9
-- name: Stoughton, Jeff
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 86
-      wins: 0
-      losses: 1
-    player2:
-      percent: 88
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: EPP
-      position: Lead
-      percent: 86
-      win: 0
-      loss: 1
-    player2:
-      team: STO
-      position: Fourth
-      percent: 88
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2013
-    draw: Round Robin(6)
-    score: STO 4 - EPP 3
 ---

@@ -3,6 +3,20 @@ title: Jeanna Schraeder
 name: Jeanna Schraeder
 name-sort: Schraeder, Jeanna
 totals:
+- event: Canada Cup (Women)
+  games: 36
+  wins: 16
+  losses: 20
+  inturn-total: 349
+  inturn-percent: 79
+  outturn-total: 343
+  outturn-percent: 79
+  draw-total: 330
+  draw-percent: 77
+  takeout-total: 362
+  takeout-percent: 82
+  shots-total: 692
+  shots-percent: 79
 - event: Hearts
   games: 75
   wins: 51
@@ -32,6 +46,108 @@ totals:
   shots-total: 322
   shots-percent: 81
 years:
+- year: 2004
+  event: Canada Cup (Women)
+  team: SCO
+  position: Third
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 68
+  inturn-percent: 78
+  outturn-total: 70
+  outturn-percent: 82
+  draw-total: 64
+  draw-percent: 72
+  takeout-total: 74
+  takeout-percent: 87
+  shots-total: 138
+  shots-percent: 80
+- year: 2005
+  event: Canada Cup (Women)
+  team: Sco
+  position: Third
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 47
+  inturn-percent: 80
+  outturn-total: 51
+  outturn-percent: 77
+  draw-total: 55
+  draw-percent: 77
+  takeout-total: 43
+  takeout-percent: 81
+  shots-total: 98
+  shots-percent: 79
+- year: 2006
+  event: Canada Cup (Women)
+  team: Sco
+  position: Third
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 62
+  inturn-percent: 79
+  outturn-total: 48
+  outturn-percent: 86
+  draw-total: 37
+  draw-percent: 86
+  takeout-total: 73
+  takeout-percent: 80
+  shots-total: 110
+  shots-percent: 82
+- year: 2008
+  event: Canada Cup (Women)
+  team: SCOT
+  position: Third
+  games: 8
+  wins: 6
+  losses: 2
+  inturn-total: 72
+  inturn-percent: 80
+  outturn-total: 84
+  outturn-percent: 80
+  draw-total: 77
+  draw-percent: 80
+  takeout-total: 79
+  takeout-percent: 80
+  shots-total: 156
+  shots-percent: 80
+- year: 2009
+  event: Canada Cup (Women)
+  team: SCOT
+  position: Third
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 56
+  inturn-percent: 77
+  outturn-total: 38
+  outturn-percent: 77
+  draw-total: 56
+  draw-percent: 72
+  takeout-total: 38
+  takeout-percent: 84
+  shots-total: 94
+  shots-percent: 77
+- year: 2010
+  event: Canada Cup (Women)
+  team: KS
+  position: Third
+  games: 5
+  wins: 0
+  losses: 5
+  inturn-total: 44
+  inturn-percent: 84
+  outturn-total: 52
+  outturn-percent: 72
+  draw-total: 41
+  draw-percent: 76
+  takeout-total: 55
+  takeout-percent: 79
+  shots-total: 96
+  shots-percent: 78
 - year: 2006
   event: Hearts
   team: BC
@@ -172,6 +288,7 @@ vs:
 - Affleck, Tricia
 - Aleksic, Shannon
 - Anderson, Sherry
+- Appelman, Pam
 - Arnott, Janet
 - Arsenault, Mary-Anne
 - Atkinson, Rebecca
@@ -190,8 +307,11 @@ vs:
 - Birt, Suzanne
 - Bradley, Shelly
 - Brassard, Veronique
+- Breen, Theresa
 - Brennan, Amanda
 - Brothers, Jill
+- Bryden, Renelle
+- Burgess, Allyson
 - Burgess, Carey
 - Bush, Tracy
 - Cameron, Nancy
@@ -203,6 +323,7 @@ vs:
 - Clarke, Hayley
 - Comeau, Martine
 - Comeau, Sandy
+- Comstock, Melanie
 - Cordina, Sheri
 - Cormier, Sharon
 - Crawford, Andrea
@@ -215,12 +336,16 @@ vs:
 - Delahunt, Nancy
 - Derick, Catherine
 - deSolla, Jodie
+- Doig, Deanna
 - Dufresne, Audree
 - Dykstra, Michelle
 - Einarson, Megan
 - Ellis, Danielle
 - Englot, Michelle
 - Fallis, Karen
+- Fargey, Lisa
+- Farrell, Allison
+- Foster, Kristen
 - Fullerton, Sarah
 - Gagnier, Monique
 - Gagnon, Karo
@@ -244,6 +369,8 @@ vs:
 - Homan, Rachel
 - Inglis, Nancy
 - Iskiw, Beth
+- Jackson, Virginia
+- Jacques, Nicole
 - Johnston, Kara
 - Jones, Colleen
 - Jones, Jennifer
@@ -251,6 +378,7 @@ vs:
 - Kalenchuk, Heather
 - Kasner, Marliese
 - Kelly, Kim
+- Kerr, Kathy
 - Keshen, Christine
 - Kidd, Darlene
 - King, Cathy
@@ -264,6 +392,7 @@ vs:
 - Lawes, Kaitlyn
 - Lawton, Stefanie
 - LeDrew, Stephanie
+- Leger, Stacey
 - Lemay, Annie
 - Lemon, Colette
 - Linton, Sherry
@@ -272,21 +401,29 @@ vs:
 - MacDiarmid, Kristen
 - MacDougall, Leslie
 - MacInnes, Allison
+- Maclachlan, Kyla
 - MacLean, Kari
+- MacLeod, Lisa
 - MacPhee, Robyn
 - Mair, Jessica
 - Makichuck, Lindsay
 - Malekoff, Stephanie
+- Marchand, Stephanie
 - Martin, Heather
 - Materi, Roberta
+- Mattheis, Shannon
 - McCagg-Nystrom, Heather
 - McCarville, Krista
 - McConnery, Nancy
 - McCusker, Joan
 - McEwen, Dawn
 - McInnis, Susan
+- McIvor, Jolene
+- McIvor, Michelle
+- McNabb, Jody
 - McPherson, Cheryl
 - Middaugh, Sherry
+- Miller, Jessica
 - Miller, Wendy
 - Miskew, Emma
 - Moore, Kim
@@ -295,7 +432,9 @@ vs:
 - Morgan, Cheryl
 - Morris, Cori
 - Moses, Dawn
+- Moulding, Heather
 - Muise, Morgan
+- Mulroney, Sandra
 - Murphy, Jeanette
 - Naugler, Tara
 - Nedohin, Heather
@@ -317,11 +456,14 @@ vs:
 - Peters, Laine
 - Phillips, Kristen
 - Porter, Erin
+- Potts, Sarah
 - Power, Marie-Anne
 - Preston, Sam
+- Preston, Samantha
 - Provencal, Darah
 - Rainville, Julie
 - Ramsay, Geri Lynn
+- Rankin, Heather
 - Richard, Marie
 - Ridalls, Kristen
 - Rizzo, Jo-Ann
@@ -330,6 +472,7 @@ vs:
 - Rogers, Rhonda
 - Ross, Allison
 - Rudulier, Andrea
+- Ruus, Karen
 - Sabourin, Joelle
 - Schneider, Kim
 - Schneider, Tammy
@@ -339,6 +482,7 @@ vs:
 - Singler, Sherri
 - Sippala, Ashley
 - Smith, Heather
+- Smith, Nancy
 - Sobey, Lianne
 - Streifel, Tracy
 - Strong, Heather
@@ -350,6 +494,7 @@ vs:
 - Thomas, Jill
 - Thompson, Karla
 - Thurston, Jill
+- Tuck, Kim
 - Tuck, Kimberly
 - Udle, Teri
 - Vey, Lana
@@ -364,4 +509,5 @@ vs:
 - Whitaker, Carol
 - Wilson, Leslie
 - Yardley, Janelle
+- Zinck, Kay
 ---

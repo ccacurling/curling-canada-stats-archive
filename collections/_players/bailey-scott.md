@@ -17,6 +17,20 @@ totals:
   takeout-percent: 89
   shots-total: 628
   shots-percent: 87
+- event: Canada Cup (Men)
+  games: 18
+  wins: 9
+  losses: 9
+  inturn-total: 163
+  inturn-percent: 79
+  outturn-total: 178
+  outturn-percent: 85
+  draw-total: 250
+  draw-percent: 85
+  takeout-total: 91
+  takeout-percent: 74
+  shots-total: 341
+  shots-percent: 82
 - event: Trials (Men)
   games: 33
   wins: 8
@@ -83,6 +97,57 @@ years:
   takeout-percent: 85
   shots-total: 203
   shots-percent: 85
+- year: 2004
+  event: Canada Cup (Men)
+  team: MID
+  position: Lead
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 44
+  inturn-percent: 84
+  outturn-total: 63
+  outturn-percent: 89
+  draw-total: 96
+  draw-percent: 86
+  takeout-total: 11
+  takeout-percent: 91
+  shots-total: 107
+  shots-percent: 87
+- year: 2009
+  event: Canada Cup (Men)
+  team: WMID
+  position: Lead
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 56
+  inturn-percent: 78
+  outturn-total: 62
+  outturn-percent: 87
+  draw-total: 107
+  draw-percent: 86
+  takeout-total: 11
+  takeout-percent: 57
+  shots-total: 118
+  shots-percent: 83
+- year: 2012
+  event: Canada Cup (Men)
+  team: EPP
+  position: Third
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 63
+  inturn-percent: 77
+  outturn-total: 53
+  outturn-percent: 78
+  draw-total: 47
+  draw-percent: 84
+  takeout-total: 69
+  takeout-percent: 74
+  shots-total: 116
+  shots-percent: 78
 - year: 1997
   event: Trials (Men)
   team: MID
@@ -183,11 +248,13 @@ vs:
 - Burtnyk, Kerry
 - Butler, Mark
 - Carruthers, Reid
+- Casey, Adam
 - Champion, Kevin
 - Charette, Pierre
 - Chorostkowski, Brad
 - Chugg, Brad
 - Cotter, Jim
+- Cripps, Scott
 - Dacey, Mark
 - Dauphinee, Andrew
 - Despins, Glen
@@ -209,9 +276,11 @@ vs:
 - Frans, Joseph
 - Freschi, Don
 - Fry, Ryan
+- Gallant, Brett
 - Gallant, Peter
 - Gardeski, Larry
 - Germsheid, Tony
+- Gibson, Andrew
 - Gorveatt, Philip
 - Gould, Steve
 - Grattan, James
@@ -227,6 +296,7 @@ vs:
 - Harnden, E.J.
 - Harnden, Ryan
 - Harris, Mike
+- Harris, Rob
 - Harrison, Neil
 - Hart, Richard
 - Harvey, Don
@@ -235,6 +305,7 @@ vs:
 - Horning, Deane
 - Howard, Glenn
 - Howard, Russ
+- Howard, Steven
 - Iskiw, Blayne
 - Jackson, Glen
 - Jacobs, Brad
@@ -248,6 +319,7 @@ vs:
 - Kennedy, Marc
 - Kilgallen, Shane
 - Kirkness, James
+- Koe, Jamie
 - Koe, Kevin
 - Korab, Jamie
 - Kushnir, Warren
@@ -258,6 +330,7 @@ vs:
 - Laycock, Steve
 - Leech, Ron
 - Loevenmark, Phil
+- Lohnes, Bruce
 - MacDonald, Blake
 - MacDonald, Brent
 - MacDonald, Peter
@@ -271,6 +344,7 @@ vs:
 - McGregor, Ken
 - McInnis, Phillip
 - Mead, Jon
+- Mead, Jonathan
 - Meakin, Rob
 - Mellof, David
 - Melnichuk, Greg
@@ -281,6 +355,7 @@ vs:
 - Miki, Bryan
 - Mitchell, Collin
 - Mitchell, Garth
+- Moffatt, Paul
 - Montgomery, Rod
 - Morris, John
 - Moshenko, Darcy
@@ -303,6 +378,7 @@ vs:
 - Patterson, Scott
 - Peachey, Jay
 - Perroud, Pat
+- Petryk, Dan
 - Pfeifer, Scott
 - Pielak, Rod
 - Pierce, Brent
@@ -349,9 +425,12 @@ vs:
 - Tuson, Jay
 - Ursel, Bob
 - Vandenberghe, Garry
+- Vaughan, Jason
 - Walchuk, Don
+- Walker, Geoff
 - Wempe, Brian
 - Werenich, Ed
+- Westlund, Mike
 - Westphal, Don
 - Whittle, Mark
 - Wiersema, Dale

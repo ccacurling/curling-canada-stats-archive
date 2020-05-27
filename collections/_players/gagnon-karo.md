@@ -3,6 +3,20 @@ title: Karo Gagnon
 name: Karo Gagnon
 name-sort: Gagnon, Karo
 totals:
+- event: Canada Cup (Women)
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 49
+  inturn-percent: 78
+  outturn-total: 45
+  outturn-percent: 77
+  draw-total: 36
+  draw-percent: 80
+  takeout-total: 58
+  takeout-percent: 76
+  shots-total: 94
+  shots-percent: 78
 - event: Hearts
   games: 14
   wins: 10
@@ -32,6 +46,23 @@ totals:
   shots-total: 164
   shots-percent: 73
 years:
+- year: 2005
+  event: Canada Cup (Women)
+  team: Lar
+  position: Third
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 49
+  inturn-percent: 78
+  outturn-total: 45
+  outturn-percent: 77
+  draw-total: 36
+  draw-percent: 80
+  takeout-total: 58
+  takeout-percent: 76
+  shots-total: 94
+  shots-percent: 78
 - year: 2001
   event: Hearts
   team: QC
@@ -116,6 +147,8 @@ vs:
 - Betker, Jan
 - Birt, Suzanne
 - Bonar, Maureen
+- Breen, Theresa
+- Burgess, Allyson
 - Carter, Sasha
 - Cooke, Gerri
 - Cordina, Sheri
@@ -123,10 +156,12 @@ vs:
 - Delahunt, Nancy
 - Dezura, Diane
 - Dobson, Sue
+- Englot, Michelle
 - Fisher, Alana
 - Flinn-Burton, Jayne
 - Fowler, Lois
 - Freeman, Lisa
+- Froud, Susan
 - Gignac, Donna
 - Gogan, Jennifer
 - Goss, Peg
@@ -152,7 +187,10 @@ vs:
 - Martin, Heather
 - McCusker, Joan
 - McInnis, Susan
+- McIvor, Jolene
+- McIvor, Michelle
 - McPherson, Cheryl
+- Merklinger, Anne
 - Middaugh, Sherry
 - Moss, Debbie
 - Mulroney, Sandra
@@ -160,10 +198,12 @@ vs:
 - Officer, Jill
 - Overton-Clapham, Cathy
 - Peters, Laine
+- Reddick, Audrey
 - Reed, Shellan
 - Rizzo, Jo-Ann
 - Schraeder, Jeanna
 - Scott, Kelly
+- Simmons, Cindy
 - Simons, Renee
 - Singler, Sherri
 - Smith, Heather

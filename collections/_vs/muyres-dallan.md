@@ -97,6 +97,15 @@ vs:
       percent: 92
       wins: 3
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 89
+      wins: 1
+      losses: 2
+    player2:
+      percent: 83
+      wins: 2
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 98
@@ -156,6 +165,54 @@ vs:
     draw: Pool(17)
     score: AB 9 - SK 3
   - player1:
+      team: LAY
+      position: Lead
+      percent: 93
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Third
+      percent: 80
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2011
+    draw: Round Robin(6)
+    score: LAY 2 - MCE 8
+  - player1:
+      team: LAY
+      position: Lead
+      percent: 95
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Third
+      percent: 86
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(10)
+    score: LAY 4 - MCE 10
+  - player1:
+      team: LAY
+      position: Lead
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: MCE
+      position: Third
+      percent: 83
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(2)
+    score: LAY 6 - MCE 5
+  - player1:
       team: Layc
       position: Lead
       percent: 98
@@ -182,6 +239,15 @@ vs:
       percent: 92
       wins: 2
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 89
+      wins: 1
+      losses: 2
+    player2:
+      percent: 92
+      wins: 2
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 98
@@ -225,6 +291,54 @@ vs:
     draw: Pool(18)
     score: WC 6 - SK 4
   - player1:
+      team: LAY
+      position: Lead
+      percent: 93
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2011
+    draw: Round Robin(6)
+    score: LAY 2 - MCE 8
+  - player1:
+      team: LAY
+      position: Lead
+      percent: 95
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Lead
+      percent: 95
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(10)
+    score: LAY 4 - MCE 10
+  - player1:
+      team: LAY
+      position: Lead
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: MCE
+      position: Lead
+      percent: 90
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(2)
+    score: LAY 6 - MCE 5
+  - player1:
       team: Layc
       position: Lead
       percent: 98
@@ -251,6 +365,15 @@ vs:
       percent: 87
       wins: 6
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 90
+      wins: 0
+      losses: 2
+    player2:
+      percent: 86
+      wins: 2
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 85
@@ -373,6 +496,38 @@ vs:
     year: 2019
     draw: Pool(16)
     score: CA 8 - SK 4
+  - player1:
+      team: LAY
+      position: Lead
+      percent: 92
+      win: 0
+      loss: 1
+    player2:
+      team: GUS
+      position: Third
+      percent: 92
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(8)
+    score: GUS 9 - LAY 3
+  - player1:
+      team: LAY
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: GUS
+      position: Fourth
+      percent: 81
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(5)
+    score: LAY 6 - GUS 7
   - player1:
       team: Layc
       position: Lead
@@ -512,6 +667,15 @@ vs:
       percent: 86
       wins: 3
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 94
+      wins: 1
+      losses: 1
+    player2:
+      percent: 89
+      wins: 1
+      losses: 1
   games:
   - player1:
       team: SK
@@ -577,6 +741,38 @@ vs:
     year: 2016
     draw: Round Robin(3)
     score: SK 4 - CA 5
+  - player1:
+      team: LAY
+      position: Lead
+      percent: 98
+      win: 0
+      loss: 1
+    player2:
+      team: KOE
+      position: Second
+      percent: 93
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2011
+    draw: Round Robin(9)
+    score: KOE 7 - LAY 4
+  - player1:
+      team: LAY
+      position: Lead
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: SIM
+      position: Second
+      percent: 85
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(7)
+    score: LAY 5 - SIM 1
 - name: Saccary, Scott
   totals:
   - event: Brier
@@ -644,6 +840,15 @@ vs:
       percent: 75
       wins: 2
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 84
+      wins: 2
+      losses: 0
+    player2:
+      percent: 85
+      wins: 0
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 81
@@ -703,6 +908,38 @@ vs:
     draw: Round Robin(1)
     score: MB 7 - SK 6
   - player1:
+      team: LAY
+      position: Lead
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: CAR
+      position: Second
+      percent: 80
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(2)
+    score: LAY 7 - CAR 6
+  - player1:
+      team: LAY
+      position: Lead
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: CAR
+      position: Second
+      percent: 90
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(7)
+    score: CAR 3 - LAY 5
+  - player1:
       team: Layc
       position: Lead
       percent: 81
@@ -729,6 +966,15 @@ vs:
       percent: 93
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 85
+      wins: 1
+      losses: 0
+    player2:
+      percent: 98
+      wins: 0
+      losses: 1
   games:
   - player1:
       team: SK
@@ -746,6 +992,22 @@ vs:
     year: 2011
     draw: Round Robin(5)
     score: ON 10 - SK 3
+  - player1:
+      team: LAY
+      position: Lead
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: HOW
+      position: Lead
+      percent: 98
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2011
+    draw: Round Robin(3)
+    score: HOW 7 - LAY 9
 - name: Sawatsky, Rick
   totals:
   - event: Brier
@@ -902,6 +1164,15 @@ vs:
       percent: 99
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 0
+      losses: 1
+    player2:
+      percent: 88
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: SK
@@ -919,6 +1190,22 @@ vs:
     year: 2011
     draw: Round Robin(17)
     score: SK 3 - NO 6
+  - player1:
+      team: LAY
+      position: Lead
+      percent: 81
+      win: 0
+      loss: 1
+    player2:
+      team: JAC
+      position: Lead
+      percent: 88
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2011
+    draw: Round Robin(8)
+    score: LAY 4 - JAC 11
 - name: Simmons, Pat
   totals:
   - event: Brier
@@ -929,6 +1216,15 @@ vs:
     player2:
       percent: 88
       wins: 3
+      losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 94
+      wins: 1
+      losses: 1
+    player2:
+      percent: 80
+      wins: 1
       losses: 1
   games:
   - player1:
@@ -995,6 +1291,38 @@ vs:
     year: 2016
     draw: Round Robin(3)
     score: SK 4 - CA 5
+  - player1:
+      team: LAY
+      position: Lead
+      percent: 98
+      win: 0
+      loss: 1
+    player2:
+      team: KOE
+      position: Third
+      percent: 85
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2011
+    draw: Round Robin(9)
+    score: KOE 7 - LAY 4
+  - player1:
+      team: LAY
+      position: Lead
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: SIM
+      position: Fourth
+      percent: 75
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(7)
+    score: LAY 5 - SIM 1
 - name: Smallwood, Robert
   totals:
   - event: Brier
@@ -1118,6 +1446,15 @@ vs:
       percent: 88
       wins: 2
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 79
+      wins: 0
+      losses: 1
+    player2:
+      percent: 86
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: SK
@@ -1151,6 +1488,22 @@ vs:
     year: 2014
     draw: Round Robin(12)
     score: SK 4 - MB 7
+  - player1:
+      team: LAY
+      position: Lead
+      percent: 79
+      win: 0
+      loss: 1
+    player2:
+      team: STO
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2011
+    draw: Round Robin(4)
+    score: STO 9 - LAY 6
 - name: Sullivan, Charles Jr
   totals:
   - event: Brier
@@ -1363,6 +1716,15 @@ vs:
       percent: 88
       wins: 3
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 94
+      wins: 1
+      losses: 1
+    player2:
+      percent: 85
+      wins: 1
+      losses: 1
   games:
   - player1:
       team: SK
@@ -1428,6 +1790,38 @@ vs:
     year: 2016
     draw: Round Robin(3)
     score: SK 4 - CA 5
+  - player1:
+      team: LAY
+      position: Lead
+      percent: 98
+      win: 0
+      loss: 1
+    player2:
+      team: KOE
+      position: Lead
+      percent: 83
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2011
+    draw: Round Robin(9)
+    score: KOE 7 - LAY 4
+  - player1:
+      team: LAY
+      position: Lead
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: SIM
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(7)
+    score: LAY 5 - SIM 1
 - name: Trepanier, Jean-Francois
   totals:
   - event: Brier
@@ -1467,6 +1861,15 @@ vs:
       percent: 92
       wins: 4
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 90
+      wins: 0
+      losses: 2
+    player2:
+      percent: 98
+      wins: 2
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 85
@@ -1574,6 +1977,38 @@ vs:
     draw: Pool(16)
     score: CA 8 - SK 4
   - player1:
+      team: LAY
+      position: Lead
+      percent: 92
+      win: 0
+      loss: 1
+    player2:
+      team: GUS
+      position: Lead
+      percent: 100
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(8)
+    score: GUS 9 - LAY 3
+  - player1:
+      team: LAY
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: GUS
+      position: Lead
+      percent: 96
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(5)
+    score: LAY 6 - GUS 7
+  - player1:
       team: Layc
       position: Lead
       percent: 85
@@ -1656,6 +2091,15 @@ vs:
       percent: 87
       wins: 2
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 89
+      wins: 1
+      losses: 2
+    player2:
+      percent: 87
+      wins: 2
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 98
@@ -1699,6 +2143,54 @@ vs:
     draw: Pool(18)
     score: WC 6 - SK 4
   - player1:
+      team: LAY
+      position: Lead
+      percent: 93
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Second
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2011
+    draw: Round Robin(6)
+    score: LAY 2 - MCE 8
+  - player1:
+      team: LAY
+      position: Lead
+      percent: 95
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Second
+      percent: 92
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(10)
+    score: LAY 4 - MCE 10
+  - player1:
+      team: LAY
+      position: Lead
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: MCE
+      position: Second
+      percent: 79
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(2)
+    score: LAY 6 - MCE 5
+  - player1:
       team: Layc
       position: Lead
       percent: 98
@@ -1714,6 +2206,34 @@ vs:
     year: 2017
     draw: Round Robin(12)
     score: Layc 4 - McEw 10
+- name: Thomas, Charley
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 0
+      losses: 1
+    player2:
+      percent: 95
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: LAY
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: GUS
+      position: Third
+      percent: 95
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(5)
+    score: LAY 6 - GUS 7
 - name: Schneider, Catlin
   totals:
   - event: Trials(Men)

@@ -3,6 +3,20 @@ title: Lana Vey
 name: Lana Vey
 name-sort: Vey, Lana
 totals:
+- event: Canada Cup (Women)
+  games: 10
+  wins: 6
+  losses: 4
+  inturn-total: 149
+  inturn-percent: 85
+  outturn-total: 41
+  outturn-percent: 80
+  draw-total: 156
+  draw-percent: 86
+  takeout-total: 34
+  takeout-percent: 77
+  shots-total: 190
+  shots-percent: 84
 - event: Hearts
   games: 38
   wins: 24
@@ -32,6 +46,40 @@ totals:
   shots-total: 156
   shots-percent: 84
 years:
+- year: 2008
+  event: Canada Cup (Women)
+  team: LAWT
+  position: Lead
+  games: 7
+  wins: 6
+  losses: 1
+  inturn-total: 107
+  inturn-percent: 85
+  outturn-total: 25
+  outturn-percent: 82
+  draw-total: 104
+  draw-percent: 86
+  takeout-total: 28
+  takeout-percent: 77
+  shots-total: 132
+  shots-percent: 84
+- year: 2009
+  event: Canada Cup (Women)
+  team: LAWT
+  position: Lead
+  games: 3
+  wins: 0
+  losses: 3
+  inturn-total: 42
+  inturn-percent: 88
+  outturn-total: 16
+  outturn-percent: 77
+  draw-total: 52
+  draw-percent: 85
+  takeout-total: 6
+  takeout-percent: 79
+  shots-total: 58
+  shots-percent: 84
 - year: 2007
   event: Hearts
   team: SK
@@ -119,6 +167,8 @@ years:
   shots-percent: 84
 vs:
 - Aleksic, Shannon
+- Anderson, Sherry
+- Appelman, Pam
 - Armstrong, Jacquie
 - Arnott, Janet
 - Atkinson, Rebecca
@@ -132,6 +182,7 @@ vs:
 - Boyle, Jane
 - Brothers, Jill
 - Brown, Jacalyn
+- Bush, Tracy
 - Cameron, Nancy
 - Campbell, Jolene
 - Carter, Sasha
@@ -150,22 +201,26 @@ vs:
 - Dolan, Kim
 - Dolan, Sinead
 - Enright, Barb
+- Fargey, Lisa
 - Filteau, Anne-Marie
 - Fleury, Tracy
 - Gagnier, Monique
 - Galusha, Kerry
 - Gates, Amanda
 - George, Tara
+- Gignac, Donna
 - Gilman, Sheena
 - Goss, Peg
 - Gushulak, Diane
 - Hardy, Shelley
 - Harrison, Meredith
+- Hodson, Kim
 - Holland, Amber
 - Iskiw, Beth
 - Jones, Jennifer
 - Joyce, Blisse
 - Kalenchuk, Heather
+- King, Cathy
 - Kleibrink, Shannon
 - Korab, Stephanie
 - Lang, Lorraine
@@ -176,6 +231,7 @@ vs:
 - Lowther, Tammi
 - MacDonald, Rebecca Jean
 - MacInnes, Grace
+- Maclachlan, Kyla
 - MacLean, Kari
 - MacPhee, Robyn
 - Mair, Jessica
@@ -187,9 +243,11 @@ vs:
 - McConnery, Nancy
 - McEwen, Dawn
 - Miller, Wendy
+- Moore, Kristie
 - Morgan, Cheryl
 - Morris, Cori
 - Moses, Dawn
+- Moulding, Heather
 - Murphy, Jeanette
 - Muzika, Shelley
 - Nedohin, Heather
@@ -209,15 +267,18 @@ vs:
 - Power, Marie-Anne
 - Preston, Sam
 - Provencal, Darah
+- Rankin, Heather
 - Richard, Marie
 - Richards, Brette
 - Robertson, Darcy
 - Robichaud, Sylvie
+- Rocque, Raylene
 - Sabourin, Joelle
 - Schneider, Kim
 - Schneider, Tammy
 - Schraeder, Jeanna
 - Scott, Kelly
+- Seeley, Heather
 - Sharpe, Kelli
 - Simons, Renee
 - Smith, Heather
@@ -228,6 +289,7 @@ vs:
 - Stubbings, Tiffany
 - Thomas, Jill
 - Udle, Teri
+- Walsh, Heather
 - Walsh, Jenna
 - Webster, Bronwen
 - Webster, Crystal

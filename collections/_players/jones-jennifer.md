@@ -3,6 +3,20 @@ title: Jennifer Jones
 name: Jennifer Jones
 name-sort: Jones, Jennifer
 totals:
+- event: Canada Cup (Women)
+  games: 75
+  wins: 47
+  losses: 28
+  inturn-total: 679
+  inturn-percent: 78
+  outturn-total: 722
+  outturn-percent: 75
+  draw-total: 643
+  draw-percent: 75
+  takeout-total: 758
+  takeout-percent: 78
+  shots-total: 1401
+  shots-percent: 77
 - event: Hearts
   games: 200
   wins: 150
@@ -32,6 +46,193 @@ totals:
   shots-total: 619
   shots-percent: 77
 years:
+- year: 2004
+  event: Canada Cup (Women)
+  team: JJO
+  position: Fourth
+  games: 4
+  wins: 1
+  losses: 3
+  inturn-total: 38
+  inturn-percent: 66
+  outturn-total: 44
+  outturn-percent: 74
+  draw-total: 40
+  draw-percent: 71
+  takeout-total: 42
+  takeout-percent: 70
+  shots-total: 82
+  shots-percent: 70
+- year: 2006
+  event: Canada Cup (Women)
+  team: Jon
+  position: Fourth
+  games: 9
+  wins: 6
+  losses: 3
+  inturn-total: 83
+  inturn-percent: 83
+  outturn-total: 88
+  outturn-percent: 74
+  draw-total: 80
+  draw-percent: 82
+  takeout-total: 91
+  takeout-percent: 75
+  shots-total: 171
+  shots-percent: 79
+- year: 2007
+  event: Canada Cup (Women)
+  team: Jon
+  position: Fourth
+  games: 8
+  wins: 6
+  losses: 2
+  inturn-total: 74
+  inturn-percent: 80
+  outturn-total: 80
+  outturn-percent: 79
+  draw-total: 69
+  draw-percent: 79
+  takeout-total: 85
+  takeout-percent: 80
+  shots-total: 154
+  shots-percent: 80
+- year: 2008
+  event: Canada Cup (Women)
+  team: JONE
+  position: Fourth
+  games: 6
+  wins: 4
+  losses: 2
+  inturn-total: 48
+  inturn-percent: 71
+  outturn-total: 55
+  outturn-percent: 78
+  draw-total: 51
+  draw-percent: 71
+  takeout-total: 52
+  takeout-percent: 79
+  shots-total: 103
+  shots-percent: 75
+- year: 2010
+  event: Canada Cup (Women)
+  team: JJ
+  position: Fourth
+  games: 5
+  wins: 3
+  losses: 2
+  inturn-total: 41
+  inturn-percent: 76
+  outturn-total: 42
+  outturn-percent: 74
+  draw-total: 42
+  draw-percent: 72
+  takeout-total: 41
+  takeout-percent: 77
+  shots-total: 83
+  shots-percent: 75
+- year: 2011
+  event: Canada Cup (Women)
+  team: JON
+  position: Fourth
+  games: 8
+  wins: 5
+  losses: 3
+  inturn-total: 70
+  inturn-percent: 76
+  outturn-total: 82
+  outturn-percent: 80
+  draw-total: 82
+  draw-percent: 76
+  takeout-total: 70
+  takeout-percent: 82
+  shots-total: 152
+  shots-percent: 79
+- year: 2014
+  event: Canada Cup (Women)
+  team: JON
+  position: Fourth
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 55
+  inturn-percent: 72
+  outturn-total: 62
+  outturn-percent: 76
+  draw-total: 49
+  draw-percent: 74
+  takeout-total: 68
+  takeout-percent: 74
+  shots-total: 117
+  shots-percent: 74
+- year: 2015
+  event: Canada Cup (Women)
+  team: JON
+  position: Fourth
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 63
+  inturn-percent: 83
+  outturn-total: 63
+  outturn-percent: 82
+  draw-total: 55
+  draw-percent: 83
+  takeout-total: 71
+  takeout-percent: 82
+  shots-total: 126
+  shots-percent: 83
+- year: 2016
+  event: Canada Cup (Women)
+  team: JON
+  position: Fourth
+  games: 7
+  wins: 6
+  losses: 1
+  inturn-total: 64
+  inturn-percent: 83
+  outturn-total: 58
+  outturn-percent: 74
+  draw-total: 45
+  draw-percent: 72
+  takeout-total: 77
+  takeout-percent: 83
+  shots-total: 122
+  shots-percent: 79
+- year: 2018
+  event: Canada Cup (Women)
+  team: Jone
+  position: Fourth
+  games: 9
+  wins: 7
+  losses: 2
+  inturn-total: 86
+  inturn-percent: 81
+  outturn-total: 90
+  outturn-percent: 73
+  draw-total: 75
+  draw-percent: 73
+  takeout-total: 101
+  takeout-percent: 79
+  shots-total: 176
+  shots-percent: 77
+- year: 2019
+  event: Canada Cup (Women)
+  team: Jone
+  position: Fourth
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 57
+  inturn-percent: 76
+  outturn-total: 58
+  outturn-percent: 62
+  draw-total: 55
+  draw-percent: 71
+  takeout-total: 60
+  takeout-percent: 67
+  shots-total: 115
+  shots-percent: 69
 - year: 2002
   event: Hearts
   team: MB
@@ -362,6 +563,7 @@ vs:
 - Allen, Michelle
 - Allen, Susan
 - Anderson, Sherry
+- Appelman, Pam
 - Armstrong, Jacquie
 - Armstrong, Jennifer
 - Armstrong, Leigh
@@ -373,6 +575,7 @@ vs:
 - Babin, Jillian
 - Bakker, Glenys
 - Baldwin, Nicole
+- Baleja, Susan
 - Barbour, Shona
 - Baxter, Jen
 - Beauchamp, Sasha
@@ -388,6 +591,7 @@ vs:
 - Birt, Suzanne
 - Black, Christina
 - Blackburn, Julie
+- Blair, Janice
 - Blais, Amelie
 - Blashko, Denise
 - Bobbie, Tess
@@ -402,6 +606,7 @@ vs:
 - Brown, Jacalyn
 - Brown, Janet
 - Brown, Rachel
+- Bruce, Twyla
 - Burgess, Carey
 - Burlington, Cheryl
 - Bush, Tracy
@@ -409,6 +614,7 @@ vs:
 - Cameron, Nancy
 - Camozzi, Rhona
 - Campbell, Jolene
+- Cannon, Theresa
 - Carey, Chelsea
 - Carmody, Erin
 - Carrier, Julie
@@ -426,9 +632,11 @@ vs:
 - Cooper, Kathryn
 - Cordina, Sheri
 - Cormier, Sharon
+- Cottrill, Katie
 - Court, Morgan
 - Courtney, Joanne
 - Crawford, Andrea
+- Crocker, Laura
 - Crouse, Jennifer
 - Cunningham, Cathy
 - Cunningham, Jennifer
@@ -437,11 +645,13 @@ vs:
 - Curtis, Stacie
 - Daniel, Sylvie
 - Darbyshire, Carolyn
+- Dealy, Diane
 - deJager, Blaine
 - Delahunt, Nancy
 - Derick, Catherine
 - deSolla, Jodie
 - Devereaux, Julie
+- Doig, Deanna
 - Dolan, Kim
 - Dolan, Sinead
 - Dufresne, Audree
@@ -468,6 +678,7 @@ vs:
 - Fortin, Sylvie
 - Forward, Katie
 - Foster, Kristen
+- Foster, Vanessa
 - Fraser, Sherry
 - Fullerton, Sarah
 - Fyfe, Liz
@@ -489,6 +700,7 @@ vs:
 - Gudereit, Marcia
 - Gushulak, Diane
 - Guzzwell, Stephanie
+- Hamer, Kate
 - Hamilton, Beth
 - Hamon, Callan
 - Hanna, Jenn
@@ -496,8 +708,10 @@ vs:
 - Hardy, Shelley
 - Harmark, Andra
 - Harrison, Meredith
+- Harvey, Alison
 - Harvey, Janet
 - Hastings, Julie
+- Haughian, Jessie
 - Hawes, Dezaray
 - Hodson, Kim
 - Holland, Amber
@@ -511,6 +725,7 @@ vs:
 - Inglis, Danielle
 - Inglis, Nancy
 - Iskiw, Beth
+- Jacques, Nicole
 - Johnston, Kara
 - Jones, Colleen
 - Joyce, Blisse
@@ -522,8 +737,11 @@ vs:
 - Keshen, Christine
 - Kidd, Darlene
 - King, Cathy
+- Kirby, Carey
 - Kleibrink, Shannon
+- Klein, Karen
 - Klymchuk, Ashley
+- Knapp, Breanne
 - Knezevic, Patti
 - Koehler, Megan
 - Koltun, Sarah
@@ -548,6 +766,7 @@ vs:
 - Linton, Sherry
 - Lister, Kendra
 - Loder, Cherie-Ann
+- Loder, Kristin
 - Logan, Emma
 - Lowther, Tammi
 - MacCuish, Kristin
@@ -571,8 +790,12 @@ vs:
 - McCarville, Krista
 - McConnery, Nancy
 - McCusker, Joan
+- McDonald, Kristy
+- McDonald, Taylor
+- McDonald, Tina
 - McEwen, Dawn
 - McInnis, Susan
+- McNamee, Karen
 - McPherson, Cheryl
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
@@ -625,11 +848,13 @@ vs:
 - Potts, Sarah
 - Power, Marie-Anne
 - Preston, Sam
+- Preston, Samantha
 - Price, Kara
 - Prosser, Sandi
 - Provencal, Darah
 - Rainville, Julie
 - Ramsay, Geri Lynn
+- Rankin, Heather
 - Recksiedler, Kristen
 - Richard, Marie
 - Richards, Brette
@@ -638,6 +863,7 @@ vs:
 - Robertson, Darcy
 - Robichaud, Sylvie
 - Robinson, Lori
+- Rocque, Kelsey
 - Rocque, Raylene
 - Rogers, Rhonda
 - Ross, Allison
@@ -646,6 +872,7 @@ vs:
 - Sabourin, Joelle
 - Sagle, Karen
 - Sandwith, Carley
+- Santos, Deb
 - Scales, Julie
 - Scheidegger, Casey
 - Scheidegger, Jessie
@@ -665,6 +892,7 @@ vs:
 - Slywka, Sarah
 - Smallwood, Jody
 - Smith, Heather
+- Smith, Nikki
 - Smith, Stacey
 - Snyder, Jane
 - Sobey, Lianne

@@ -3,6 +3,20 @@ title: Veronique Gregoire
 name: Veronique Gregoire
 name-sort: Gregoire, Veronique
 totals:
+- event: Canada Cup (Women)
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 56
+  inturn-percent: 82
+  outturn-total: 38
+  outturn-percent: 92
+  draw-total: 71
+  draw-percent: 86
+  takeout-total: 23
+  takeout-percent: 85
+  shots-total: 94
+  shots-percent: 86
 - event: Hearts
   games: 25
   wins: 14
@@ -32,6 +46,23 @@ totals:
   shots-total: 166
   shots-percent: 86
 years:
+- year: 2005
+  event: Canada Cup (Women)
+  team: Lar
+  position: Lead
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 56
+  inturn-percent: 82
+  outturn-total: 38
+  outturn-percent: 92
+  draw-total: 71
+  draw-percent: 86
+  takeout-total: 23
+  takeout-percent: 85
+  shots-total: 94
+  shots-percent: 86
 - year: 2004
   event: Hearts
   team: QC
@@ -96,6 +127,8 @@ vs:
 - Birt, Suzanne
 - Bonar, Maureen
 - Bradley, Shelly
+- Breen, Theresa
+- Burgess, Allyson
 - Carter, Sasha
 - Cooke, Gerri
 - Cordina, Sheri
@@ -105,11 +138,13 @@ vs:
 - Delahunt, Nancy
 - Dezura, Diane
 - Dobson, Sue
+- Englot, Michelle
 - Fallis, Karen
 - Fisher, Alana
 - Flinn-Burton, Jayne
 - Fowler, Lois
 - Freeman, Lisa
+- Froud, Susan
 - Galusha, Kerry
 - Gignac, Donna
 - Gogan, Jennifer
@@ -146,7 +181,10 @@ vs:
 - McCusker, Joan
 - McEwen, Dawn
 - McInnis, Susan
+- McIvor, Jolene
+- McIvor, Michelle
 - McPherson, Cheryl
+- Merklinger, Anne
 - Middaugh, Sherry
 - Miller, Wendy
 - Miskew, Emma
@@ -160,12 +198,14 @@ vs:
 - Parsons, Danielle
 - Paul, Sarah
 - Peters, Laine
+- Reddick, Audrey
 - Reed, Shellan
 - Rizzo, Jo-Ann
 - Schneider, Kim
 - Schneider, Tammy
 - Schraeder, Jeanna
 - Scott, Kelly
+- Simmons, Cindy
 - Simons, Renee
 - Singler, Sherri
 - Smith, Heather

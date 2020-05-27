@@ -3,6 +3,20 @@ title: Lori Eddy
 name: Lori Eddy
 name-sort: Eddy, Lori
 totals:
+- event: Canada Cup (Women)
+  games: 1
+  wins: 0
+  losses: 1
+  inturn-total: 8
+  inturn-percent: 88
+  outturn-total: 12
+  outturn-percent: 100
+  draw-total: 20
+  draw-percent: 95
+  takeout-total: 0
+  takeout-percent: 
+  shots-total: 20
+  shots-percent: 95
 - event: Hearts
   games: 21
   wins: 10
@@ -32,6 +46,23 @@ totals:
   shots-total: 166
   shots-percent: 75
 years:
+- year: 2014
+  event: Canada Cup (Women)
+  team: MID
+  position: Lead
+  games: 1
+  wins: 0
+  losses: 1
+  inturn-total: 8
+  inturn-percent: 88
+  outturn-total: 12
+  outturn-percent: 100
+  draw-total: 20
+  draw-percent: 95
+  takeout-total: 0
+  takeout-percent: 
+  shots-total: 20
+  shots-percent: 95
 - year: 1997
   event: Hearts
   team: 'ON'
@@ -161,9 +192,12 @@ vs:
 - Mulroney, Sandra
 - Nedohin, Heather
 - Nimmo, Shannon
+- Nixon, Amy
 - Ondrack, Wendy
 - Osborne, Chantal
 - Overton-Clapham, Cathy
+- Peterman, Jocelyn
+- Peters, Laine
 - Phillips, Laura
 - Radford, Helen
 - Rocque, Kelsey

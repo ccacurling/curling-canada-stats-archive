@@ -3,6 +3,20 @@ title: Heather Walsh
 name: Heather Walsh
 name-sort: Walsh, Heather
 totals:
+- event: Canada Cup (Women)
+  games: 12
+  wins: 7
+  losses: 5
+  inturn-total: 135
+  inturn-percent: 84
+  outturn-total: 105
+  outturn-percent: 82
+  draw-total: 119
+  draw-percent: 81
+  takeout-total: 121
+  takeout-percent: 86
+  shots-total: 240
+  shots-percent: 83
 - event: Hearts
   games: 0
   wins: 0
@@ -22,6 +36,40 @@ totals:
   shots-total: 184
   shots-percent: 79
 years:
+- year: 2007
+  event: Canada Cup (Women)
+  team: And
+  position: Second
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 77
+  inturn-percent: 87
+  outturn-total: 57
+  outturn-percent: 88
+  draw-total: 53
+  draw-percent: 85
+  takeout-total: 81
+  takeout-percent: 89
+  shots-total: 134
+  shots-percent: 87
+- year: 2008
+  event: Canada Cup (Women)
+  team: ANDE
+  position: Second
+  games: 5
+  wins: 3
+  losses: 2
+  inturn-total: 58
+  inturn-percent: 80
+  outturn-total: 48
+  outturn-percent: 76
+  draw-total: 66
+  draw-percent: 77
+  takeout-total: 40
+  takeout-percent: 81
+  shots-total: 106
+  shots-percent: 78
 - year: 2002
   event: Hearts
   team: SK
@@ -87,38 +135,65 @@ years:
 vs:
 - Arsenault, Mary-Anne
 - Bakker, Glenys
+- Baleja, Susan
 - Bell, Chelsey
+- Bernard, Cheryl
 - Betker, Jan
+- Blair, Janice
+- Bush, Tracy
 - Carter, Sasha
 - Cordina, Sheri
+- Darbyshire, Carolyn
+- Dealy, Diane
 - Delahunt, Nancy
+- Fallis, Karen
 - Gagnon, Karo
 - Gatchell, Sara
 - Gregoire, Veronique
 - Gudereit, Marcia
+- Hamer, Kate
+- Harmark, Andra
+- Harvey, Alison
+- Harvey, Janet
 - Jones, Colleen
 - Jones, Jennifer
+- Jordan, Stephanie
 - Kasner, Marliese
 - Kelly, Kim
 - Keshen, Christine
+- King, Cathy
+- Kirby, Carey
 - Kleibrink, Shannon
 - Larouche, Marie-France
 - Lawes, Andrea
 - Lawton, Stefanie
 - Lemay, Annie
 - Linton, Sherry
+- Loder, Cherie-Ann
+- Loder, Kristin
 - McCusker, Joan
+- McEwen, Dawn
 - McPherson, Cheryl
 - Middaugh, Sherry
+- Moore, Kim
+- Morris, Cori
 - Nixon, Amy
+- O'Connor, Susan
 - Officer, Jill
+- Olson-Johns, Lori
 - Overton-Clapham, Cathy
+- Preston, Samantha
 - Rizzo, Jo-Ann
+- Robertson, Desiree
+- Rocque, Raylene
 - Schraeder, Jeanna
 - Scott, Kelly
 - Simons, Renee
 - Singler, Sherri
 - Tuck, Kimberly
+- Vey, Lana
 - Wall, Kirsten
+- Webster, Bronwen
+- Webster, Crystal
 - Wheatcroft, Georgina
 ---

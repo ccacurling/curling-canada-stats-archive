@@ -3,6 +3,20 @@ title: Colleen Jones
 name: Colleen Jones
 name-sort: Jones, Colleen
 totals:
+- event: Canada Cup (Women)
+  games: 17
+  wins: 10
+  losses: 7
+  inturn-total: 122
+  inturn-percent: 71
+  outturn-total: 204
+  outturn-percent: 77
+  draw-total: 155
+  draw-percent: 75
+  takeout-total: 171
+  takeout-percent: 75
+  shots-total: 326
+  shots-percent: 75
 - event: Hearts
   games: 227
   wins: 136
@@ -32,6 +46,57 @@ totals:
   shots-total: 346
   shots-percent: 77
 years:
+- year: 2003
+  event: Canada Cup (Women)
+  team: Jone
+  position: Fourth
+  games: 4
+  wins: 2
+  losses: 2
+  inturn-total: 31
+  inturn-percent: 71
+  outturn-total: 48
+  outturn-percent: 83
+  draw-total: 41
+  draw-percent: 77
+  takeout-total: 38
+  takeout-percent: 80
+  shots-total: 79
+  shots-percent: 78
+- year: 2004
+  event: Canada Cup (Women)
+  team: CJO
+  position: Fourth
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 47
+  inturn-percent: 79
+  outturn-total: 88
+  outturn-percent: 74
+  draw-total: 58
+  draw-percent: 82
+  takeout-total: 77
+  takeout-percent: 71
+  shots-total: 135
+  shots-percent: 76
+- year: 2005
+  event: Canada Cup (Women)
+  team: Jon
+  position: Fourth
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 44
+  inturn-percent: 63
+  outturn-total: 68
+  outturn-percent: 78
+  draw-total: 56
+  draw-percent: 66
+  takeout-total: 56
+  takeout-percent: 78
+  shots-total: 112
+  shots-percent: 72
 - year: 1982
   event: Hearts
   team: NS
@@ -425,6 +490,7 @@ vs:
 - Bell, Patty
 - Belley, Joelle
 - Bennett, Connie
+- Bergner, Sasha
 - Bernard, Cheryl
 - Bernard, Krista
 - Berthelot, Janique
@@ -439,6 +505,7 @@ vs:
 - Bohmer, Brenda
 - Bonar, Maureen
 - Bond, Arlene
+- Borne, Brandee
 - Bowman, Mary
 - Bradley, Diane
 - Bradley, Shelly
@@ -449,6 +516,7 @@ vs:
 - Brown, Katie
 - Brown, Marcie
 - Buckway, Beverly
+- Burgess, Allyson
 - Burgess, Carey
 - Burlington, Cheryl
 - Burns, Shannon
@@ -536,6 +604,7 @@ vs:
 - Fraser, Sherry
 - Freeman, Lisa
 - Frey, Audrey
+- Froud, Susan
 - Fullerton, Sarah
 - Gagnier, Monique
 - Gagnon, Karo
@@ -596,6 +665,7 @@ vs:
 - Iskiw, Beth
 - James, Elizabeth
 - Jenkins, Sandra
+- Johnston, Atina
 - Johnston, Kara
 - Johnstone, Loralee
 - Jones, Jennifer
@@ -705,6 +775,7 @@ vs:
 - Moriarty, Monica
 - Moses, Dawn
 - Moss, Debbie
+- Mossman, Angela
 - Muise, Morgan
 - Mulroney, Sandra
 - Muzika, Shelley
@@ -729,6 +800,7 @@ vs:
 - Palinkas, Gloria
 - Parker, Barbara
 - Parsons, Danielle
+- Pasika, Rona
 - Pendergast, Judy
 - Perron, Leanne
 - Peters, Laine
@@ -750,6 +822,7 @@ vs:
 - Raby, Odette
 - Radchenka, Tammy
 - Rainville, Julie
+- Reddick, Audrey
 - Reed, Shellan
 - Renouf, Michele
 - Reynolds, Lynn
@@ -759,6 +832,7 @@ vs:
 - Robertson, Darcy
 - Robinson, Charlene
 - Robinson, Lori
+- Rocheleau, Patty
 - Rocque, Raylene
 - Roland, Mavis
 - Rose, Dorothy
@@ -790,6 +864,7 @@ vs:
 - Slemko, Jean
 - Smith, Heather
 - Smith, Martha
+- Smith, Nikki
 - Smith, Yvonne
 - Snider, Shelly
 - Soligo, Melissa
@@ -825,6 +900,7 @@ vs:
 - Tousignant, Helene
 - Train, Mona
 - Trider, Krista
+- Tuck, Kim
 - Tuck, Kimberly
 - Tucker, Cindy
 - Turcotte, Kristin

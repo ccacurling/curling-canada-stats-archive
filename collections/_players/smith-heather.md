@@ -3,6 +3,20 @@ title: Heather Smith
 name: Heather Smith
 name-sort: Smith, Heather
 totals:
+- event: Canada Cup (Women)
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 43
+  inturn-percent: 74
+  outturn-total: 49
+  outturn-percent: 78
+  draw-total: 40
+  draw-percent: 67
+  takeout-total: 52
+  takeout-percent: 83
+  shots-total: 92
+  shots-percent: 76
 - event: Hearts
   games: 59
   wins: 30
@@ -22,6 +36,23 @@ totals:
   wins: 0
   losses: 0
 years:
+- year: 2005
+  event: Canada Cup (Women)
+  team: Smi
+  position: Fourth
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 43
+  inturn-percent: 74
+  outturn-total: 49
+  outturn-percent: 78
+  draw-total: 40
+  draw-percent: 67
+  takeout-total: 52
+  takeout-percent: 83
+  shots-total: 92
+  shots-percent: 76
 - year: 2000
   event: Hearts
   team: NS
@@ -174,6 +205,7 @@ vs:
 - Fraser, Sherry
 - Freeman, Lisa
 - Frey, Audrey
+- Froud, Susan
 - Gagnon, Karo
 - Galusha, Kerry
 - Gannon, Melissa
@@ -199,6 +231,7 @@ vs:
 - Kasner, Marliese
 - Kelly, Kim
 - Kerr, Kathy
+- Keshen, Christine
 - Kleibrink, Shannon
 - Korab, Stephanie
 - Kreviazuk, Alison
@@ -239,13 +272,14 @@ vs:
 - Nixon, Amy
 - Nowlan, Denise
 - Nugent, Pamela
-- Officer, Jill
 - O'Rourke, Brittany
+- Officer, Jill
 - Overton-Clapham, Cathy
 - Parsons, Danielle
 - Peters, Laine
 - Pewarchuk, Dailene
 - Phillips, Margaret Lea
+- Reddick, Audrey
 - Reed, Shellan
 - Reid, Jackie
 - Renouf, Michele
@@ -258,6 +292,7 @@ vs:
 - Schraeder, Jeanna
 - Scott, Kelly
 - Sharpe, Kelli
+- Simons, Renee
 - Sinclair, Andrea
 - Singler, Sherri
 - Skinner, Julie

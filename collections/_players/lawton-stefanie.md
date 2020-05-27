@@ -3,6 +3,20 @@ title: Stefanie Lawton
 name: Stefanie Lawton
 name-sort: Lawton, Stefanie
 totals:
+- event: Canada Cup (Women)
+  games: 41
+  wins: 20
+  losses: 21
+  inturn-total: 422
+  inturn-percent: 77
+  outturn-total: 353
+  outturn-percent: 77
+  draw-total: 362
+  draw-percent: 71
+  takeout-total: 413
+  takeout-percent: 82
+  shots-total: 775
+  shots-percent: 77
 - event: Hearts
   games: 76
   wins: 46
@@ -32,6 +46,125 @@ totals:
   shots-total: 492
   shots-percent: 77
 years:
+- year: 2007
+  event: Canada Cup (Women)
+  team: Law
+  position: Fourth
+  games: 5
+  wins: 3
+  losses: 2
+  inturn-total: 50
+  inturn-percent: 82
+  outturn-total: 41
+  outturn-percent: 87
+  draw-total: 43
+  draw-percent: 86
+  takeout-total: 48
+  takeout-percent: 82
+  shots-total: 91
+  shots-percent: 84
+- year: 2008
+  event: Canada Cup (Women)
+  team: LAWT
+  position: Fourth
+  games: 7
+  wins: 6
+  losses: 1
+  inturn-total: 79
+  inturn-percent: 86
+  outturn-total: 51
+  outturn-percent: 85
+  draw-total: 61
+  draw-percent: 83
+  takeout-total: 69
+  takeout-percent: 88
+  shots-total: 130
+  shots-percent: 86
+- year: 2009
+  event: Canada Cup (Women)
+  team: LAWT
+  position: Fourth
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 47
+  inturn-percent: 66
+  outturn-total: 44
+  outturn-percent: 80
+  draw-total: 45
+  draw-percent: 62
+  takeout-total: 46
+  takeout-percent: 83
+  shots-total: 91
+  shots-percent: 73
+- year: 2010
+  event: Canada Cup (Women)
+  team: KS
+  position: Fourth
+  games: 5
+  wins: 0
+  losses: 5
+  inturn-total: 47
+  inturn-percent: 70
+  outturn-total: 49
+  outturn-percent: 65
+  draw-total: 54
+  draw-percent: 55
+  takeout-total: 42
+  takeout-percent: 85
+  shots-total: 96
+  shots-percent: 68
+- year: 2011
+  event: Canada Cup (Women)
+  team: LAW
+  position: Fourth
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 64
+  inturn-percent: 75
+  outturn-total: 57
+  outturn-percent: 82
+  draw-total: 53
+  draw-percent: 69
+  takeout-total: 68
+  takeout-percent: 85
+  shots-total: 121
+  shots-percent: 78
+- year: 2012
+  event: Canada Cup (Women)
+  team: LAW
+  position: Fourth
+  games: 7
+  wins: 6
+  losses: 1
+  inturn-total: 79
+  inturn-percent: 80
+  outturn-total: 53
+  outturn-percent: 73
+  draw-total: 53
+  draw-percent: 73
+  takeout-total: 79
+  takeout-percent: 80
+  shots-total: 132
+  shots-percent: 77
+- year: 2019
+  event: Canada Cup (Women)
+  team: Silv
+  position: Third
+  games: 6
+  wins: 1
+  losses: 5
+  inturn-total: 56
+  inturn-percent: 76
+  outturn-total: 58
+  outturn-percent: 69
+  draw-total: 53
+  draw-percent: 71
+  takeout-total: 61
+  takeout-percent: 74
+  shots-total: 114
+  shots-percent: 73
 - year: 2005
   event: Hearts
   team: SK
@@ -188,6 +321,7 @@ years:
 vs:
 - Allen, Michelle
 - Anderson, Sherry
+- Appelman, Pam
 - Armstrong, Jacquie
 - Armstrong, Jennifer
 - Armstrong, Leigh
@@ -196,6 +330,7 @@ vs:
 - Babin, Jillian
 - Bakker, Glenys
 - Baldwin, Nicole
+- Baleja, Susan
 - Barbour, Shona
 - Baxter, Jen
 - Belanger, Nancy
@@ -209,6 +344,7 @@ vs:
 - Blais, Amelie
 - Boyle, Jane
 - Bradley, Shelly
+- Brassard, Veronique
 - Brothers, Jill
 - Brown, Corryn
 - Brown, Jacalyn
@@ -217,6 +353,7 @@ vs:
 - Cameron, Kate
 - Camozzi, Rhona
 - Carey, Chelsea
+- Carmody, Erin
 - Carter, Sasha
 - Christianson, Marie
 - Clark, Stefanie
@@ -234,15 +371,19 @@ vs:
 - Cunningham, Jessica
 - Darbyshire, Carolyn
 - Davies, Lisa
+- Dealy, Diane
 - Delahunt, Nancy
 - Derick, Catherine
 - deSolla, Jodie
+- Doig, Deanna
 - Dolan, Kim
 - Dolan, Sinead
 - Duncan, Chelsea
 - Eddy, Lori
 - Einarson, Kerri
+- Englot, Michelle
 - Enright, Barb
+- Fargey, Lisa
 - Farrell, Allison
 - Ferguson, Dana
 - Filteau, Anne-Marie
@@ -251,6 +392,7 @@ vs:
 - Fortier, Marie-Josee
 - Forward, Katie
 - Foster, Kristen
+- Fyfe, Liz
 - Gagnier, Monique
 - Gagnon, Karo
 - Galusha, Kerry
@@ -260,6 +402,7 @@ vs:
 - Gates, Jennifer
 - Gauthier, Cathy
 - George, Tara
+- Gignac, Donna
 - Gilman, Sheena
 - Goss, Peg
 - Gregoire, Veronique
@@ -267,21 +410,27 @@ vs:
 - Gudereit, Marcia
 - Gushulak, Diane
 - Guzzwell, Stephanie
+- Hamer, Kate
 - Hamilton, Beth
 - Hanna, Jenn
 - Hanna, Stephanie
+- Harmark, Andra
 - Hastings, Julie
+- Haughian, Jessie
 - Hawes, Dezaray
 - Hodson, Kim
 - Holland, Amber
 - Homan, Rachel
+- Howard, Ashley
 - Hughes, Meaghan
 - Iskiw, Beth
 - Jewer, Michelle
 - Jones, Colleen
 - Jones, Jennifer
+- Jordan, Stephanie
 - Joyce, Blisse
 - Kalenchuk, Heather
+- Kasner, Marliese
 - Kelly, Kim
 - Keshen, Christine
 - King, Cathy
@@ -301,17 +450,21 @@ vs:
 - Letendre, Pascale
 - Lilly, Kendra
 - Linton, Sherry
+- Loder, Jenna
 - Lowther, Tammi
+- MacCuish, Kristin
 - MacDonald, Kaitlin
 - MacDonald, Lawnie
 - MacDonald, Rebecca Jean
 - MacInnes, Grace
+- Maclachlan, Kyla
 - MacLean, Kari
 - MacPhee, Robyn
 - Mair, Jessica
 - Malekoff, Stephanie
 - Mallett, Marla
 - Mann, Lauren
+- Materi, Roberta
 - Mattatall, Mary
 - McCagg-Nystrom, Heather
 - McCarville, Krista
@@ -324,18 +477,24 @@ vs:
 - McPherson, Cheryl
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
+- Meakin, Breanne
 - Meilleur, Briane
 - Merklinger, Lee
 - Middaugh, Sherry
+- Miller, Jessica
 - Miskew, Emma
 - Mittelstadt, Candice
+- Moore, Kim
+- Moore, Kristie
 - Moriarty, Monica
 - Morris, Cori
 - Moses, Dawn
+- Moulding, Heather
 - Muzika, Shelley
 - Nedohin, Heather
 - Nicholls, Brenda
 - Nixon, Amy
+- Njegovan, Selena
 - Nowlan, Denise
 - Nugent, Pamela
 - O'Connor, Susan
@@ -353,11 +512,15 @@ vs:
 - Pinksen, Sadie
 - Potts, Sarah
 - Preston, Sam
+- Preston, Samantha
 - Prosser, Sandi
+- Ramsay, Geri Lynn
+- Rankin, Heather
 - Richard, Marie
 - Richards, Brette
 - Rizzo, Jo-Ann
 - Robertson, Darcy
+- Robertson, Desiree
 - Robichaud, Sylvie
 - Robison, Michala
 - Rocque, Raylene
@@ -373,10 +536,13 @@ vs:
 - Schraeder, Jeanna
 - Scotland, Nadine
 - Scott, Kelly
+- Seeley, Heather
 - Sharpe, Kelli
 - Shaw, Ladene
+- Simmons, Cindy
 - Simons, Renee
 - Sinclair, Andrea
+- Singler, Sherri
 - Sippala, Ashley
 - Smith, Heather
 - Smith, Stacey

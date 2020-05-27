@@ -3,6 +3,20 @@ title: Beth Iskiw
 name: Beth Iskiw
 name-sort: Iskiw, Beth
 totals:
+- event: Canada Cup (Women)
+  games: 23
+  wins: 9
+  losses: 14
+  inturn-total: 207
+  inturn-percent: 79
+  outturn-total: 253
+  outturn-percent: 76
+  draw-total: 193
+  draw-percent: 77
+  takeout-total: 267
+  takeout-percent: 77
+  shots-total: 460
+  shots-percent: 77
 - event: Hearts
   games: 50
   wins: 29
@@ -32,6 +46,74 @@ totals:
   shots-total: 142
   shots-percent: 80
 years:
+- year: 2008
+  event: Canada Cup (Women)
+  team: MOOR
+  position: Second
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 62
+  inturn-percent: 83
+  outturn-total: 30
+  outturn-percent: 78
+  draw-total: 38
+  draw-percent: 85
+  takeout-total: 54
+  takeout-percent: 78
+  shots-total: 92
+  shots-percent: 81
+- year: 2010
+  event: Canada Cup (Women)
+  team: HN
+  position: Third
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 41
+  inturn-percent: 82
+  outturn-total: 57
+  outturn-percent: 78
+  draw-total: 38
+  draw-percent: 74
+  takeout-total: 60
+  takeout-percent: 83
+  shots-total: 98
+  shots-percent: 80
+- year: 2011
+  event: Canada Cup (Women)
+  team: NED
+  position: Third
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 55
+  inturn-percent: 80
+  outturn-total: 73
+  outturn-percent: 75
+  draw-total: 68
+  draw-percent: 76
+  takeout-total: 60
+  takeout-percent: 78
+  shots-total: 128
+  shots-percent: 77
+- year: 2012
+  event: Canada Cup (Women)
+  team: NED
+  position: Third
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 49
+  inturn-percent: 68
+  outturn-total: 93
+  outturn-percent: 75
+  draw-total: 49
+  draw-percent: 73
+  takeout-total: 93
+  takeout-percent: 72
+  shots-total: 142
+  shots-percent: 73
 - year: 2002
   event: Hearts
   team: NS
@@ -149,7 +231,9 @@ vs:
 - Barbour, Shona
 - Baxter, Jen
 - Beauchamp, Sasha
+- Bell, Chelsey
 - Belley, Joelle
+- Bernard, Cheryl
 - Bernard, Krista
 - Birt, Suzanne
 - Blackburn, Julie
@@ -164,6 +248,7 @@ vs:
 - Burlington, Cheryl
 - Cameron, Nancy
 - Carey, Chelsea
+- Carmody, Erin
 - Carter, Sasha
 - Cheveldave, Amber
 - Cooke, Gerri
@@ -174,6 +259,7 @@ vs:
 - Cunningham, Cathy
 - Cunningham, Jennifer
 - Curtis, Stacie
+- Darbyshire, Carolyn
 - deJager, Blaine
 - Delahunt, Nancy
 - deSolla, Jodie
@@ -185,6 +271,7 @@ vs:
 - Englot, Michelle
 - Fallis, Karen
 - Fallis-Kurz, Lynn
+- Fargey, Lisa
 - Farrell, Allison
 - Ferguson, Dana
 - Filteau, Anne-Marie
@@ -213,6 +300,7 @@ vs:
 - Holtby, Taryn
 - Homan, Rachel
 - Horne, Kate
+- Howard, Ashley
 - Hunter, Lana
 - Johnston, Kara
 - Jones, Colleen
@@ -234,45 +322,61 @@ vs:
 - Lawton, Stefanie
 - Lemay, Annie
 - Lewis, Kristy
+- Loder, Jenna
 - MacCallum, Janice
 - MacDonald, Lawnie
 - MacDonald, Rebecca Jean
 - MacDougall, Leslie
+- Maclachlan, Kyla
+- MacLean, Kari
 - Marchand, Stephanie
 - Martin, Heather
 - Materi, Roberta
+- McCarville, Krista
 - McDonald, Kristy
 - McEwen, Dawn
 - McInnis, Susan
 - McTaggart, Cary-Anne
+- Meakin, Breanne
 - Merklinger, Lee
 - Middaugh, Sherry
 - Miller, Wendy
 - Miskew, Emma
 - Moore, Kristie
+- Morris, Cori
 - Moss, Debbie
+- Moulding, Heather
 - Mulroney, Sandra
 - Nicholls, Brenda
 - Nixon, Amy
+- O'Connor, Susan
 - O'Rourke, Brittany
 - O'Rourke, Kathy
 - Officer, Jill
+- Overton-Clapham, Cathy
 - Parsons, Danielle
 - Pasika, Rona
 - Pewarchuk, Dailene
 - Porter, Erin
+- Potts, Sarah
 - Power, Marie-Anne
+- Preston, Samantha
+- Ramsay, Geri Lynn
+- Rankin, Heather
 - Reed, Shellan
 - Rizzo, Jo-Ann
 - Robinson, Lori
 - Ross, Allison
+- Sabourin, Joelle
 - Scales, Julie
 - Schneider, Kim
 - Schneider, Tammy
 - Schraeder, Jeanna
 - Scott, Kelly
 - Shumay, Jill
+- Simons, Renee
 - Singler, Sherri
+- Sippala, Ashley
 - Slywka, Sarah
 - Smith, Heather
 - Sonnenberg, Renee
@@ -289,6 +393,8 @@ vs:
 - Wasylkiw, Lauren
 - Wazney, Sarah
 - Weagle, Lisa
+- Webster, Bronwen
+- Webster, Crystal
 - Wheatcroft, Georgina
 - Wylie, Jennifer
 ---

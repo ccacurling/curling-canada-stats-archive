@@ -17,6 +17,20 @@ totals:
   takeout-percent: 81
   shots-total: 3216
   shots-percent: 81
+- event: Canada Cup (Men)
+  games: 17
+  wins: 6
+  losses: 11
+  inturn-total: 129
+  inturn-percent: 77
+  outturn-total: 173
+  outturn-percent: 81
+  draw-total: 149
+  draw-percent: 81
+  takeout-total: 153
+  takeout-percent: 77
+  shots-total: 302
+  shots-percent: 79
 - event: Trials (Men)
   games: 28
   wins: 17
@@ -270,6 +284,74 @@ years:
   takeout-percent: 78
   shots-total: 194
   shots-percent: 80
+- year: 2003
+  event: Canada Cup (Men)
+  team: Howa
+  position: Fourth
+  games: 4
+  wins: 1
+  losses: 3
+  inturn-total: 37
+  inturn-percent: 80
+  outturn-total: 36
+  outturn-percent: 78
+  draw-total: 44
+  draw-percent: 79
+  takeout-total: 29
+  takeout-percent: 79
+  shots-total: 73
+  shots-percent: 79
+- year: 2004
+  event: Canada Cup (Men)
+  team: HOW
+  position: Fourth
+  games: 5
+  wins: 3
+  losses: 2
+  inturn-total: 31
+  inturn-percent: 78
+  outturn-total: 58
+  outturn-percent: 88
+  draw-total: 41
+  draw-percent: 88
+  takeout-total: 48
+  takeout-percent: 82
+  shots-total: 89
+  shots-percent: 85
+- year: 2006
+  event: Canada Cup (Men)
+  team: Gus
+  position: Second
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 36
+  inturn-percent: 78
+  outturn-total: 54
+  outturn-percent: 84
+  draw-total: 39
+  draw-percent: 85
+  takeout-total: 51
+  takeout-percent: 80
+  shots-total: 90
+  shots-percent: 82
+- year: 2009
+  event: Canada Cup (Men)
+  team: HOWA
+  position: Fourth
+  games: 3
+  wins: 0
+  losses: 3
+  inturn-total: 25
+  inturn-percent: 67
+  outturn-total: 25
+  outturn-percent: 59
+  draw-total: 25
+  draw-percent: 68
+  takeout-total: 25
+  takeout-percent: 58
+  shots-total: 50
+  shots-percent: 63
 - year: 1997
   event: Trials (Men)
   team: HOW
@@ -353,6 +435,7 @@ vs:
 - Blanchard, Ben
 - Blanchard, Jason
 - Blanchard, Wade
+- Blaylock, Bryan
 - Boland, John
 - Bothamley, Doug
 - Bourque, Don
@@ -361,6 +444,7 @@ vs:
 - Brophy, Marc
 - Bryant, Doug
 - Bubbs, John
+- Bucholz, Rob
 - Buck, Wyatt
 - Buckle, Andrew
 - Bucyk, James
@@ -383,6 +467,7 @@ vs:
 - Cochrane, Bryan
 - Collins, Ron
 - Collison, Brian
+- Connolly, T.J.
 - Corner, Peter
 - Coster, Dave
 - Cotter, Jim
@@ -397,6 +482,9 @@ vs:
 - DeBlonde, Garry
 - Delmage, Al
 - Desilets, Mike
+- Despins, Dale
+- Despins, Glen
+- Despins, Wayne
 - Dieno, Clint
 - Dillon, Mike
 - Dobson, Brian
@@ -426,6 +514,7 @@ vs:
 - Fizzard, Blake
 - Flemming, Paul
 - Florence, Malcolm
+- Folk, Kevin
 - Folk, Rick
 - Fowler, Brian
 - Fowler, Ed
@@ -449,6 +538,7 @@ vs:
 - Gibson, Andrew
 - Giles, Roy
 - Golanowski, Rory
+- Goodman, Eric
 - Gordon, Robbie
 - Gorveatt, Philip
 - Goss, Glenn
@@ -462,6 +552,7 @@ vs:
 - Gudereit, Kerry
 - Gushue, Brad
 - Hackner, Al
+- Haichert, Chris
 - Haines, Chuck
 - Hamelmann, Chris
 - Hamilton, Paul
@@ -489,6 +580,7 @@ vs:
 - Hennigar, Ted
 - Henry, Terry
 - Hermann, Gord
+- Hersikorn, Terry
 - Hess, Gordon
 - Hicke, Dean
 - Hilliard, Greg
@@ -502,6 +594,7 @@ vs:
 - Horrigan, Tim
 - Houston, Neil
 - Howard, Glenn
+- Humble, Brian
 - Hunka, Ken
 - Hunt, Bruce
 - Hyrich, John
@@ -514,6 +607,7 @@ vs:
 - James, Colin
 - Jenion, Bob
 - Jenkins, Bill
+- Johnson, Mark
 - Johnston, Steve
 - Johnston, Wade
 - Jones, Dave
@@ -527,6 +621,7 @@ vs:
 - Kawaja, John
 - Kelsch, Dan
 - Kennedy, Bruce
+- Kennedy, Glen
 - Kennedy, Marc
 - Kennedy, Mike
 - Kent, Gerry
@@ -534,6 +629,8 @@ vs:
 - Kieley, Phil
 - Kijewski, Kelly
 - Kilgallen, Shane
+- Kleiter, Dean
+- Kochan, Craig
 - Koe, Jamie
 - Koe, Kevin
 - Koffski, Rob
@@ -593,6 +690,8 @@ vs:
 - McCarron, Rod
 - McClelland, John
 - McCusker, Brian
+- McDermot, Ken
+- McEwen, Mike
 - McHargue, Ken
 - McKee, Darrell
 - McKenzie, Donald
@@ -630,7 +729,9 @@ vs:
 - Nedohin, David
 - Neily, Peter
 - Ness, Dale
+- Neufeld, B.J.
 - Neufeld, Chris
+- Neufeld, Denni
 - Nichol, Bob
 - Nicholls, Peter
 - Nichols, Mark
@@ -656,7 +757,9 @@ vs:
 - Peddigrew, Ken
 - Peech, Orest
 - Pennell, Don
+- Perepolkin, T.J.
 - Perozak, Brian
+- Perrin, Hubert
 - Perron, Rick
 - Perroud, Pat
 - Perry, Randy
@@ -669,6 +772,7 @@ vs:
 - Pierce, Brent
 - Piggott, Steve
 - Pineau, Larry
+- Pohl, Mike
 - Poole, Gary
 - Pritchett, Bob
 - Pyper, Dwayne
@@ -680,9 +784,11 @@ vs:
 - Reddick, Don
 - Reynolds, Brett
 - Richard, Gerry
+- Richard, Jeff
 - Riley, Mike
 - Roach, Terry
 - Roberge, Francois
+- Robertson, Ian
 - Robertson, Richard
 - Robinson, Andrew
 - Rocque, Marcel
@@ -717,6 +823,7 @@ vs:
 - Sharp, Warren
 - Shymko, Gerald
 - Shypitka, Tom
+- Simmons, Pat
 - Skanes, Robert
 - Smith, Alex
 - Smith, Dave
@@ -743,9 +850,11 @@ vs:
 - Sweete, Don
 - Sylvain, Eric
 - Syme, Brent
+- Tarasoff, Kerry
 - Tetley, Ian
 - Tetley, Ross
 - Thibaudeau, Guy
+- Thiessen, Nolan
 - Thomas, Rob
 - Thompson, Ron
 - Toews, Brian
@@ -777,11 +886,14 @@ vs:
 - Werenich, Ed
 - Westphal, Don
 - Whittle, Mark
+- Willis, Brendan
 - Wilson, Jim
 - Wilson, Michael
 - Wilson, Tom
+- Woodward, Murray
 - Wookey, Russ
 - Woytowich, Randy
+- Wozniak, Matt
 - Xidos, George
 - Young, Neil
 - Young, Wayne

@@ -3,6 +3,20 @@ title: Alison Kreviazuk
 name: Alison Kreviazuk
 name-sort: Kreviazuk, Alison
 totals:
+- event: Canada Cup (Women)
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 66
+  inturn-percent: 78
+  outturn-total: 50
+  outturn-percent: 82
+  draw-total: 55
+  draw-percent: 78
+  takeout-total: 61
+  takeout-percent: 82
+  shots-total: 116
+  shots-percent: 80
 - event: Hearts
   games: 40
   wins: 34
@@ -32,6 +46,23 @@ totals:
   shots-total: 152
   shots-percent: 85
 years:
+- year: 2011
+  event: Canada Cup (Women)
+  team: HOM
+  position: Second
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 66
+  inturn-percent: 78
+  outturn-total: 50
+  outturn-percent: 82
+  draw-total: 55
+  draw-percent: 78
+  takeout-total: 61
+  takeout-percent: 82
+  shots-total: 116
+  shots-percent: 80
 - year: 2011
   event: Hearts
   team: 'ON'
@@ -132,6 +163,7 @@ vs:
 - Crawford, Andrea
 - Cunningham, Jessica
 - Curtis, Stacie
+- Darbyshire, Carolyn
 - deJager, Blaine
 - deSolla, Jodie
 - Dolan, Kim
@@ -195,6 +227,7 @@ vs:
 - Rizzo, Jo-Ann
 - Robison, Michala
 - Ross, Allison
+- Sabourin, Joelle
 - Sanderson, Jessie
 - Sandwith, Carley
 - Schneider, Kim

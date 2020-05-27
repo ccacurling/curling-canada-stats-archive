@@ -3,6 +3,20 @@ title: Lawnie MacDonald
 name: Lawnie MacDonald
 name-sort: MacDonald, Lawnie
 totals:
+- event: Canada Cup (Women)
+  games: 4
+  wins: 1
+  losses: 3
+  inturn-total: 27
+  inturn-percent: 80
+  outturn-total: 53
+  outturn-percent: 84
+  draw-total: 37
+  draw-percent: 82
+  takeout-total: 43
+  takeout-percent: 83
+  shots-total: 80
+  shots-percent: 83
 - event: Hearts
   games: 11
   wins: 6
@@ -32,6 +46,23 @@ totals:
   shots-total: 299
   shots-percent: 77
 years:
+- year: 2003
+  event: Canada Cup (Women)
+  team: Nedo
+  position: Second
+  games: 4
+  wins: 1
+  losses: 3
+  inturn-total: 27
+  inturn-percent: 80
+  outturn-total: 53
+  outturn-percent: 84
+  draw-total: 37
+  draw-percent: 82
+  takeout-total: 43
+  takeout-percent: 83
+  shots-total: 80
+  shots-percent: 83
 - year: 2002
   event: Hearts
   team: AB
@@ -95,8 +126,10 @@ vs:
 - Belley, Joelle
 - Bernard, Krista
 - Beveridge, Corie
+- Birt, Suzanne
 - Blackburn, Julie
 - Blashko, Denise
+- Borne, Brandee
 - Brown, Janet
 - Brown, Rachel
 - Burlington, Cheryl
@@ -146,17 +179,21 @@ vs:
 - Lawton, Stefanie
 - Lemay, Annie
 - Lewis, Kristy
+- MacDonald, Rebecca Jean
+- MacPhee, Robyn
 - Mair, Jessica
 - Martin, Denise
 - Martin, Heather
 - Materi, Roberta
 - McDonald, Kristy
 - McEwen, Dawn
+- McInnis, Susan
 - Merklinger, Lee
 - Middaugh, Sherry
 - Miskew, Emma
 - Mittelstadt, Candice
 - Montgomery, Kay
+- Mossman, Angela
 - Mulroney, Sandra
 - Nedohin, Heather
 - O'Rourke, Kathy
@@ -166,6 +203,7 @@ vs:
 - Purdy, Karen
 - Rizzo, Jo-Ann
 - Robinson, Lori
+- Rocheleau, Patty
 - Scales, Julie
 - Singler, Sherri
 - Skinner, Julie
@@ -173,6 +211,7 @@ vs:
 - Sweeting, Val
 - Titheridge, Lindsay
 - Trider, Krista
+- Wall, Kirsten
 - Weagle, Lisa
 - Webster, Bronwen
 - Wheatcroft, Georgina

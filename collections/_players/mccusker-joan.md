@@ -3,6 +3,20 @@ title: Joan McCusker
 name: Joan McCusker
 name-sort: McCusker, Joan
 totals:
+- event: Canada Cup (Women)
+  games: 12
+  wins: 9
+  losses: 3
+  inturn-total: 126
+  inturn-percent: 84
+  outturn-total: 104
+  outturn-percent: 79
+  draw-total: 96
+  draw-percent: 78
+  takeout-total: 134
+  takeout-percent: 84
+  shots-total: 230
+  shots-percent: 82
 - event: Hearts
   games: 89
   wins: 64
@@ -32,6 +46,40 @@ totals:
   shots-total: 354
   shots-percent: 80
 years:
+- year: 2005
+  event: Canada Cup (Women)
+  team: Bet
+  position: Second
+  games: 7
+  wins: 6
+  losses: 1
+  inturn-total: 75
+  inturn-percent: 87
+  outturn-total: 67
+  outturn-percent: 82
+  draw-total: 55
+  draw-percent: 81
+  takeout-total: 87
+  takeout-percent: 86
+  shots-total: 142
+  shots-percent: 85
+- year: 2006
+  event: Canada Cup (Women)
+  team: Bet
+  position: Second
+  games: 5
+  wins: 3
+  losses: 2
+  inturn-total: 51
+  inturn-percent: 79
+  outturn-total: 37
+  outturn-percent: 74
+  draw-total: 41
+  draw-percent: 74
+  takeout-total: 47
+  takeout-percent: 79
+  shots-total: 88
+  shots-percent: 77
 - year: 1991
   event: Hearts
   team: SK
@@ -201,6 +249,7 @@ vs:
 - Bell, Allyson
 - Bell, Chelsey
 - Belley, Joelle
+- Bernard, Cheryl
 - Beveridge, Corie
 - Birt, Suzanne
 - Blackburn, Julie
@@ -217,8 +266,11 @@ vs:
 - Brophy, Cathy
 - Brown, Katie
 - Brown, Maureen
+- Bruce, Twyla
 - Bryant, Angie
+- Burgess, Carey
 - Burlington, Cheryl
+- Bush, Tracy
 - Byers, Denise
 - Cameron, Nancy
 - Campbell, Gloria
@@ -244,6 +296,7 @@ vs:
 - Dunn, Anne
 - Eddy, Lori
 - Ellwood, Laurie
+- Englot, Michelle
 - Enright, Barb
 - Farrell, Allison
 - Fister, Teri
@@ -256,6 +309,7 @@ vs:
 - Fowler, Sharon
 - Fraser, Sherry
 - Frey, Audrey
+- Froud, Susan
 - Gagnon, Karo
 - Gagnon, Nathalie
 - Garvey, Sue
@@ -313,10 +367,12 @@ vs:
 - Lawrence, Margaret
 - Lawton, Stefanie
 - Leblanc, Lisa
+- Leger, Stacey
 - Lemay, Annie
 - Leonard, Judy
 - Lewis, Kristy
 - Lidgren, Anna
+- Loder, Cherie-Ann
 - Lowther, Tammi
 - MacAulay, Marion
 - MacCallum, Janice
@@ -335,10 +391,14 @@ vs:
 - McConnery, Nancy
 - McCrady, Christine
 - McCurdy, Susan
+- McDonald, Tina
 - McHugh, Cindy
 - McInnis, Susan
+- McIvor, Jolene
+- McIvor, Michelle
 - McKnight, Patti
 - McLeod, Crystal
+- McNabb, Jody
 - McPherson, Cheryl
 - Merklinger, Anne
 - Middaugh, Sherry
@@ -354,8 +414,10 @@ vs:
 - Nimmo, Shannon
 - Nixon, Amy
 - Nowlan, Denise
+- O'Connor, Susan
 - O'Rourke, Kathy
 - Officer, Jill
+- Olson-Johns, Lori
 - Ondrack, Wendy
 - Osborne, Chantal
 - Overton-Clapham, Cathy
@@ -371,12 +433,15 @@ vs:
 - Putland, Rose
 - Radford, Helen
 - Rankin, Heather
+- Reddick, Audrey
 - Renouf, Michele
 - Rizzo, Jo-Ann
 - Roberts, Angela
 - Robertson, Darcy
 - Robinson, Charlene
+- Rocque, Raylene
 - Round, Coralee
+- Ruus, Karen
 - Sabourin, Joelle
 - Santos, Deb
 - Scales, Julie
@@ -386,11 +451,14 @@ vs:
 - Sharpe, Kelli
 - Shields, Deanne
 - Shigehiro, Sally
+- Simmons, Cindy
 - Simons, Renee
 - Singler, Sherri
 - Sipka, Joanne
 - Skinner, Julie
+- Smith, Nikki
 - Soligo, Melissa
+- Sonnenberg, Renee
 - Spencer, Barb
 - Stewart, Sheri
 - Stokes, Debbie
@@ -403,6 +471,7 @@ vs:
 - Thurston, Jill
 - Todd, Fran
 - Trowell, Cathy
+- Tuck, Kim
 - Tuck, Kimberly
 - Turcotte, Kristin
 - Unrau, Faye
@@ -410,6 +479,7 @@ vs:
 - Wall, Kirsten
 - Walsh, Heather
 - Wheatcroft, Georgina
+- Whitaker, Carol
 - Willms, Karri
 - Wiltzen, Jan
 - Wright, Joanne

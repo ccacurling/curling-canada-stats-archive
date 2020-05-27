@@ -69,6 +69,15 @@ vs:
       percent: 90
       wins: 1
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 74
+      wins: 1
+      losses: 2
+    player2:
+      percent: 86
+      wins: 2
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 88
@@ -130,6 +139,54 @@ vs:
   - player1:
       team: Bott
       position: Fourth
+      percent: 70
+      win: 0
+      loss: 1
+    player2:
+      team: Eppi
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(1)
+    score: Eppi 7 - Bott 5
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: Eppi
+      position: Second
+      percent: 83
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(9)
+    score: Eppi 3 - Bott 7
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 68
+      win: 0
+      loss: 1
+    player2:
+      team: Eppi
+      position: Second
+      percent: 92
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Semi-Final(10)
+    score: Eppi 12 - Bott 4
+  - player1:
+      team: Bott
+      position: Fourth
       percent: 88
       win: 1
       loss: 0
@@ -182,6 +239,15 @@ vs:
       percent: 80
       wins: 0
       losses: 3
+  - event: Canada Cup (Men)
+    player1:
+      percent: 91
+      wins: 1
+      losses: 0
+    player2:
+      percent: 67
+      wins: 0
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 87
@@ -240,6 +306,22 @@ vs:
     year: 2020
     draw: Pool(18)
     score: AB 4 - WC 2
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: Carr
+      position: Third
+      percent: 67
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(3)
+    score: Carr 5 - Bott 9
   - player1:
       team: Bott
       position: Fourth
@@ -640,6 +722,15 @@ vs:
       percent: 82
       wins: 1
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 79
+      wins: 2
+      losses: 0
+    player2:
+      percent: 83
+      wins: 0
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 78
@@ -701,6 +792,38 @@ vs:
   - player1:
       team: Bott
       position: Fourth
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: Duns
+      position: Fourth
+      percent: 83
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(6)
+    score: Duns 6 - Bott 8
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 68
+      win: 1
+      loss: 0
+    player2:
+      team: Duns
+      position: Fourth
+      percent: 84
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(5)
+    score: Duns 4 - Bott 5
+  - player1:
+      team: Bott
+      position: Fourth
       percent: 78
       win: 1
       loss: 0
@@ -725,6 +848,15 @@ vs:
       percent: 85
       wins: 1
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 74
+      wins: 1
+      losses: 2
+    player2:
+      percent: 81
+      wins: 2
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 88
@@ -786,6 +918,54 @@ vs:
   - player1:
       team: Bott
       position: Fourth
+      percent: 70
+      win: 0
+      loss: 1
+    player2:
+      team: Eppi
+      position: Fourth
+      percent: 72
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(1)
+    score: Eppi 7 - Bott 5
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: Eppi
+      position: Fourth
+      percent: 77
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(9)
+    score: Eppi 3 - Bott 7
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 68
+      win: 0
+      loss: 1
+    player2:
+      team: Eppi
+      position: Fourth
+      percent: 93
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Semi-Final(10)
+    score: Eppi 12 - Bott 4
+  - player1:
+      team: Bott
+      position: Fourth
       percent: 88
       win: 1
       loss: 0
@@ -838,6 +1018,15 @@ vs:
       percent: 86
       wins: 3
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 0
+      losses: 3
+    player2:
+      percent: 95
+      wins: 3
+      losses: 0
   games:
   - player1:
       team: WC
@@ -887,6 +1076,54 @@ vs:
     year: 2020
     draw: Pool(16)
     score: CA 5 - AB 4
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 67
+      win: 0
+      loss: 1
+    player2:
+      team: Koe
+      position: Second
+      percent: 95
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(7)
+    score: Bott 3 - Koe 10
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: Koe
+      position: Second
+      percent: 100
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Tie-Breaker(10)
+    score: Koe 8 - Bott 7
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: Koe
+      position: Second
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(6)
+    score: Bott 3 - Koe 5
 - name: Flemming, Paul
   totals:
   - event: Brier
@@ -1026,6 +1263,15 @@ vs:
       percent: 89
       wins: 2
       losses: 4
+  - event: Canada Cup (Men)
+    player1:
+      percent: 76
+      wins: 1
+      losses: 1
+    player2:
+      percent: 77
+      wins: 1
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 94
@@ -1135,6 +1381,38 @@ vs:
   - player1:
       team: Bott
       position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: Eppi
+      position: Third
+      percent: 66
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(9)
+    score: Eppi 3 - Bott 7
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 68
+      win: 0
+      loss: 1
+    player2:
+      team: Eppi
+      position: Third
+      percent: 88
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Semi-Final(10)
+    score: Eppi 12 - Bott 4
+  - player1:
+      team: Bott
+      position: Fourth
       percent: 94
       win: 1
       loss: 0
@@ -1159,6 +1437,15 @@ vs:
       percent: 88
       wins: 4
       losses: 3
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 2
+      losses: 0
+    player2:
+      percent: 81
+      wins: 0
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 82
@@ -1281,6 +1568,38 @@ vs:
     year: 2020
     draw: Final(23)
     score: NL 7 - AB 3
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: Gush
+      position: Second
+      percent: 76
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(5)
+    score: Bott 9 - Gush 8
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: Gush
+      position: Second
+      percent: 88
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(1)
+    score: Gush 4 - Bott 10
   - player1:
       team: Bott
       position: Fourth
@@ -1408,6 +1727,15 @@ vs:
       percent: 90
       wins: 4
       losses: 3
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 2
+      losses: 0
+    player2:
+      percent: 69
+      wins: 0
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 82
@@ -1533,6 +1861,38 @@ vs:
   - player1:
       team: Bott
       position: Fourth
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: Gush
+      position: Fourth
+      percent: 74
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(5)
+    score: Bott 9 - Gush 8
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: Gush
+      position: Fourth
+      percent: 63
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(1)
+    score: Gush 4 - Bott 10
+  - player1:
+      team: Bott
+      position: Fourth
       percent: 82
       win: 0
       loss: 1
@@ -1557,6 +1917,15 @@ vs:
       percent: 88
       wins: 2
       losses: 4
+  - event: Canada Cup (Men)
+    player1:
+      percent: 85
+      wins: 2
+      losses: 0
+    player2:
+      percent: 92
+      wins: 0
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 94
@@ -1666,6 +2035,38 @@ vs:
   - player1:
       team: Bott
       position: Fourth
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: Jaco
+      position: Second
+      percent: 95
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(9)
+    score: Jaco 6 - Bott 7
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 82
+      win: 1
+      loss: 0
+    player2:
+      team: Jaco
+      position: Second
+      percent: 89
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(7)
+    score: Bott 5 - Jaco 4
+  - player1:
+      team: Bott
+      position: Fourth
       percent: 94
       win: 1
       loss: 0
@@ -1690,6 +2091,15 @@ vs:
       percent: 94
       wins: 2
       losses: 3
+  - event: Canada Cup (Men)
+    player1:
+      percent: 85
+      wins: 2
+      losses: 0
+    player2:
+      percent: 90
+      wins: 0
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 94
@@ -1783,6 +2193,38 @@ vs:
   - player1:
       team: Bott
       position: Fourth
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: Jaco
+      position: Lead
+      percent: 98
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(9)
+    score: Jaco 6 - Bott 7
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 82
+      win: 1
+      loss: 0
+    player2:
+      team: Jaco
+      position: Lead
+      percent: 83
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(7)
+    score: Bott 5 - Jaco 4
+  - player1:
+      team: Bott
+      position: Fourth
       percent: 94
       win: 1
       loss: 0
@@ -1835,6 +2277,15 @@ vs:
       percent: 94
       wins: 3
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 0
+      losses: 3
+    player2:
+      percent: 92
+      wins: 3
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 82
@@ -1912,6 +2363,54 @@ vs:
   - player1:
       team: Bott
       position: Fourth
+      percent: 67
+      win: 0
+      loss: 1
+    player2:
+      team: Koe
+      position: Lead
+      percent: 90
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(7)
+    score: Bott 3 - Koe 10
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: Koe
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Tie-Breaker(10)
+    score: Koe 8 - Bott 7
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: Koe
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(6)
+    score: Bott 3 - Koe 5
+  - player1:
+      team: Bott
+      position: Fourth
       percent: 82
       win: 0
       loss: 1
@@ -1964,6 +2463,15 @@ vs:
       percent: 92
       wins: 0
       losses: 3
+  - event: Canada Cup (Men)
+    player1:
+      percent: 91
+      wins: 1
+      losses: 0
+    player2:
+      percent: 86
+      wins: 0
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 87
@@ -2025,6 +2533,22 @@ vs:
   - player1:
       team: Bott
       position: Fourth
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: Carr
+      position: Lead
+      percent: 86
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(3)
+    score: Carr 5 - Bott 9
+  - player1:
+      team: Bott
+      position: Fourth
       percent: 87
       win: 1
       loss: 0
@@ -2077,6 +2601,15 @@ vs:
       percent: 88
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 89
+      wins: 1
+      losses: 0
+    player2:
+      percent: 80
+      wins: 0
+      losses: 1
   games:
   - player1:
       team: AB
@@ -2094,6 +2627,22 @@ vs:
     year: 2017
     draw: Round Robin(12)
     score: AB 3 - ON 6
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: Howa
+      position: Fourth
+      percent: 80
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(3)
+    score: Bott 9 - Howa 3
 - name: Howard, Scott
   totals:
   - event: Brier
@@ -2105,6 +2654,15 @@ vs:
       percent: 83
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 89
+      wins: 1
+      losses: 0
+    player2:
+      percent: 77
+      wins: 0
+      losses: 1
   games:
   - player1:
       team: AB
@@ -2122,6 +2680,22 @@ vs:
     year: 2017
     draw: Round Robin(12)
     score: AB 3 - ON 6
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: Howa
+      position: Third
+      percent: 77
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(3)
+    score: Bott 9 - Howa 3
 - name: Hunt, Matthew
   totals:
   - event: Brier
@@ -2161,6 +2735,15 @@ vs:
       percent: 85
       wins: 2
       losses: 4
+  - event: Canada Cup (Men)
+    player1:
+      percent: 85
+      wins: 2
+      losses: 0
+    player2:
+      percent: 68
+      wins: 0
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 94
@@ -2267,6 +2850,38 @@ vs:
     year: 2020
     draw: Round Robin(2)
     score: NO 2 - AB 7
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: Jaco
+      position: Fourth
+      percent: 73
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(9)
+    score: Jaco 6 - Bott 7
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 82
+      win: 1
+      loss: 0
+    player2:
+      team: Jaco
+      position: Fourth
+      percent: 65
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(7)
+    score: Bott 5 - Jaco 4
   - player1:
       team: Bott
       position: Fourth
@@ -2419,6 +3034,15 @@ vs:
       percent: 85
       wins: 0
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 85
+      wins: 2
+      losses: 0
+    player2:
+      percent: 83
+      wins: 0
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 82
@@ -2461,6 +3085,38 @@ vs:
     year: 2020
     draw: Round Robin(2)
     score: NO 2 - AB 7
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: Jaco
+      position: Third
+      percent: 86
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(9)
+    score: Jaco 6 - Bott 7
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 82
+      win: 1
+      loss: 0
+    player2:
+      team: Jaco
+      position: Third
+      percent: 80
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(7)
+    score: Bott 5 - Jaco 4
   - player1:
       team: Bott
       position: Fourth
@@ -2516,6 +3172,15 @@ vs:
       percent: 96
       wins: 1
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 79
+      wins: 2
+      losses: 0
+    player2:
+      percent: 89
+      wins: 0
+      losses: 2
   games:
   - player1:
       team: AB
@@ -2565,6 +3230,38 @@ vs:
     year: 2020
     draw: Page 1-2(20)
     score: SK 4 - AB 9
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: Duns
+      position: Lead
+      percent: 96
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(6)
+    score: Duns 6 - Bott 8
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 68
+      win: 1
+      loss: 0
+    player2:
+      team: Duns
+      position: Lead
+      percent: 83
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(5)
+    score: Duns 4 - Bott 5
 - name: Koe, Jamie
   totals:
   - event: Brier
@@ -2620,6 +3317,15 @@ vs:
       percent: 90
       wins: 3
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 0
+      losses: 3
+    player2:
+      percent: 84
+      wins: 3
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 82
@@ -2697,6 +3403,54 @@ vs:
   - player1:
       team: Bott
       position: Fourth
+      percent: 67
+      win: 0
+      loss: 1
+    player2:
+      team: Koe
+      position: Fourth
+      percent: 84
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(7)
+    score: Bott 3 - Koe 10
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: Koe
+      position: Fourth
+      percent: 76
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Tie-Breaker(10)
+    score: Koe 8 - Bott 7
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: Koe
+      position: Fourth
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(6)
+    score: Bott 3 - Koe 5
+  - player1:
+      team: Bott
+      position: Fourth
       percent: 82
       win: 0
       loss: 1
@@ -2749,6 +3503,15 @@ vs:
       percent: 89
       wins: 0
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 74
+      wins: 1
+      losses: 2
+    player2:
+      percent: 92
+      wins: 2
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 82
@@ -2791,6 +3554,54 @@ vs:
     year: 2020
     draw: Pool(17)
     score: ON 3 - AB 10
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 70
+      win: 0
+      loss: 1
+    player2:
+      team: Eppi
+      position: Second
+      percent: 84
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(1)
+    score: Eppi 7 - Bott 5
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: Eppi
+      position: Lead
+      percent: 95
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(9)
+    score: Eppi 3 - Bott 7
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 68
+      win: 0
+      loss: 1
+    player2:
+      team: Eppi
+      position: Lead
+      percent: 99
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Semi-Final(10)
+    score: Eppi 12 - Bott 4
   - player1:
       team: Bott
       position: Fourth
@@ -3055,6 +3866,15 @@ vs:
       percent: 91
       wins: 1
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 89
+      wins: 1
+      losses: 0
+    player2:
+      percent: 92
+      wins: 0
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 88
@@ -3097,6 +3917,22 @@ vs:
     year: 2018
     draw: Semi-Final(22)
     score: AB 6 - ON 4
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: Howa
+      position: Lead
+      percent: 92
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(3)
+    score: Bott 9 - Howa 3
   - player1:
       team: Bott
       position: Fourth
@@ -3180,6 +4016,15 @@ vs:
       percent: 81
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 89
+      wins: 1
+      losses: 0
+    player2:
+      percent: 81
+      wins: 0
+      losses: 1
   games:
   - player1:
       team: AB
@@ -3197,6 +4042,22 @@ vs:
     year: 2017
     draw: Round Robin(12)
     score: AB 3 - ON 6
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: Howa
+      position: Second
+      percent: 81
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(3)
+    score: Bott 9 - Howa 3
 - name: McDonald, Scott
   totals:
   - event: Brier
@@ -3236,6 +4097,15 @@ vs:
       percent: 77
       wins: 1
       losses: 3
+  - event: Canada Cup (Men)
+    player1:
+      percent: 91
+      wins: 1
+      losses: 0
+    player2:
+      percent: 73
+      wins: 0
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 75
@@ -3310,6 +4180,22 @@ vs:
     year: 2020
     draw: Pool(18)
     score: AB 4 - WC 2
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: Carr
+      position: Fourth
+      percent: 73
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(3)
+    score: Carr 5 - Bott 9
   - player1:
       team: Bott
       position: Fourth
@@ -3490,6 +4376,15 @@ vs:
       percent: 81
       wins: 0
       losses: 3
+  - event: Canada Cup (Men)
+    player1:
+      percent: 79
+      wins: 2
+      losses: 0
+    player2:
+      percent: 88
+      wins: 0
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 87
@@ -3548,6 +4443,38 @@ vs:
     year: 2020
     draw: Page 1-2(20)
     score: SK 4 - AB 9
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: Duns
+      position: Third
+      percent: 91
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(6)
+    score: Duns 6 - Bott 8
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 68
+      win: 1
+      loss: 0
+    player2:
+      team: Duns
+      position: Third
+      percent: 84
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(5)
+    score: Duns 4 - Bott 5
   - player1:
       team: Bott
       position: Fourth
@@ -3829,6 +4756,15 @@ vs:
       percent: 82
       wins: 4
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 83
+      wins: 0
+      losses: 1
+    player2:
+      percent: 88
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 75
@@ -3919,6 +4855,22 @@ vs:
     year: 2020
     draw: Pool(16)
     score: CA 5 - AB 4
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: Koe
+      position: Third
+      percent: 88
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(6)
+    score: Bott 3 - Koe 5
   - player1:
       team: Bott
       position: Fourth
@@ -4015,6 +4967,15 @@ vs:
       percent: 88
       wins: 4
       losses: 3
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 2
+      losses: 0
+    player2:
+      percent: 85
+      wins: 0
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 82
@@ -4137,6 +5098,38 @@ vs:
     year: 2020
     draw: Final(23)
     score: NL 7 - AB 3
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: Gush
+      position: Third
+      percent: 89
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(5)
+    score: Bott 9 - Gush 8
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: Gush
+      position: Third
+      percent: 81
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(1)
+    score: Gush 4 - Bott 10
   - player1:
       team: Bott
       position: Fourth
@@ -4392,6 +5385,15 @@ vs:
       percent: 91
       wins: 0
       losses: 3
+  - event: Canada Cup (Men)
+    player1:
+      percent: 91
+      wins: 1
+      losses: 0
+    player2:
+      percent: 83
+      wins: 0
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 87
@@ -4450,6 +5452,22 @@ vs:
     year: 2020
     draw: Pool(18)
     score: AB 4 - WC 2
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 91
+      win: 1
+      loss: 0
+    player2:
+      team: Carr
+      position: Second
+      percent: 83
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(3)
+    score: Carr 5 - Bott 9
   - player1:
       team: Bott
       position: Fourth
@@ -4565,6 +5583,15 @@ vs:
       percent: 81
       wins: 1
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 79
+      wins: 2
+      losses: 0
+    player2:
+      percent: 81
+      wins: 0
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 65
@@ -4623,6 +5650,38 @@ vs:
     year: 2020
     draw: Page 1-2(20)
     score: SK 4 - AB 9
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: Duns
+      position: Second
+      percent: 93
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(6)
+    score: Duns 6 - Bott 8
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 68
+      win: 1
+      loss: 0
+    player2:
+      team: Duns
+      position: Second
+      percent: 70
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(5)
+    score: Duns 4 - Bott 5
   - player1:
       team: Bott
       position: Fourth
@@ -4974,6 +6033,15 @@ vs:
       percent: 88
       wins: 4
       losses: 3
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 2
+      losses: 0
+    player2:
+      percent: 86
+      wins: 0
+      losses: 2
   - event: Trials(Men)
     player1:
       percent: 82
@@ -5096,6 +6164,38 @@ vs:
     year: 2020
     draw: Final(23)
     score: NL 7 - AB 3
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: Gush
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(5)
+    score: Bott 9 - Gush 8
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: Gush
+      position: Lead
+      percent: 84
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(1)
+    score: Gush 4 - Bott 10
   - player1:
       team: Bott
       position: Fourth
@@ -5237,6 +6337,34 @@ vs:
     year: 2017
     draw: Round Robin(18)
     score: McEw 6 - Bott 4
+- name: Savill, Craig
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 70
+      wins: 0
+      losses: 1
+    player2:
+      percent: 80
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Bott
+      position: Fourth
+      percent: 70
+      win: 0
+      loss: 1
+    player2:
+      team: Eppi
+      position: Lead
+      percent: 80
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(1)
+    score: Eppi 7 - Bott 5
 - name: Griffith, Tyrel
   totals:
   - event: Trials(Men)

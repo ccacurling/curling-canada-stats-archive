@@ -17,6 +17,20 @@ totals:
   takeout-percent: 82
   shots-total: 667
   shots-percent: 89
+- event: Canada Cup (Men)
+  games: 17
+  wins: 5
+  losses: 12
+  inturn-total: 143
+  inturn-percent: 80
+  outturn-total: 163
+  outturn-percent: 77
+  draw-total: 148
+  draw-percent: 74
+  takeout-total: 158
+  takeout-percent: 82
+  shots-total: 306
+  shots-percent: 78
 - event: Trials (Men)
   games: 1
   wins: 0
@@ -167,6 +181,57 @@ years:
   takeout-percent: 84
   shots-total: 204
   shots-percent: 89
+- year: 2010
+  event: Canada Cup (Men)
+  team: MC
+  position: Third
+  games: 5
+  wins: 0
+  losses: 5
+  inturn-total: 41
+  inturn-percent: 77
+  outturn-total: 39
+  outturn-percent: 74
+  draw-total: 46
+  draw-percent: 72
+  takeout-total: 34
+  takeout-percent: 80
+  shots-total: 80
+  shots-percent: 76
+- year: 2012
+  event: Canada Cup (Men)
+  team: EPP
+  position: Second
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 48
+  inturn-percent: 83
+  outturn-total: 68
+  outturn-percent: 79
+  draw-total: 61
+  draw-percent: 77
+  takeout-total: 55
+  takeout-percent: 84
+  shots-total: 116
+  shots-percent: 80
+- year: 2019
+  event: Canada Cup (Men)
+  team: Howa
+  position: Third
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 54
+  inturn-percent: 79
+  outturn-total: 56
+  outturn-percent: 78
+  draw-total: 41
+  draw-percent: 73
+  takeout-total: 69
+  takeout-percent: 82
+  shots-total: 110
+  shots-percent: 78
 - year: 2013
   event: Trials (Men)
   team: HOW
@@ -191,18 +256,23 @@ vs:
 - Bottcher, Brendan
 - Brannen, Jamie
 - Breckon, Graham
+- Camm, Mathew
 - Carmody, Anson
 - Carruthers, Reid
 - Casey, Adam
 - Chorostkowski, Brad
 - Clarey, Sean
+- Collin, Simon
 - Cotter, Jim
 - Crete, Martin
 - Crowell, Phil
 - Desjardins, Robert
 - Dillon, Mike
 - Doherty, Robert
+- Dunstone, Matthew
 - Eldridge, Zach
+- Epping, John
+- Ferbey, Randy
 - Fitzner-LeBlanc, Ian
 - Flasch, Colton
 - Flemming, Paul
@@ -210,6 +280,7 @@ vs:
 - Gallant, Brett
 - Gaudet, Mike
 - Giddens, Ryan
+- Gionest, Francois
 - Griffith, Ty
 - Gushue, Brad
 - Harnden, E.J.
@@ -217,6 +288,7 @@ vs:
 - Harris, Tyler
 - Hebert, Ben
 - Hodgson, Colin
+- Howard, Glenn
 - Jacobs, Brad
 - Jeffrey, Chris
 - Jones, Brennen
@@ -235,12 +307,15 @@ vs:
 - MacKenzie, Tyler
 - Mallais, Jeremy
 - Martin, Karrick
+- Martin, Kevin
 - Mathers, David
 - McEwen, Mike
 - Meachem, Shaun Myles
 - Mead, Jon
+- Mead, Jonathan
 - Menard, Jean-Michel
 - Menard, Philippe
+- Middaugh, Wayne
 - Mittelstadt, Kelly
 - Morris, John
 - Moskowy, Braeden
@@ -255,11 +330,14 @@ vs:
 - Newson, Jamie
 - Nichols, Mark
 - Pinder, Jordan
+- Reid, Serge
+- Rocque, Marcel
 - Roy, Jean-Sebastien
 - Rycroft, Carter
 - Saccary, Scott
 - Sallows, Tom
 - Samagalski, Derek
+- Savill, Craig
 - Sawatsky, Rick
 - Schille, Chris
 - Schneider, Catlin

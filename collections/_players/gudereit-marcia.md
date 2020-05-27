@@ -3,6 +3,20 @@ title: Marcia Gudereit
 name: Marcia Gudereit
 name-sort: Gudereit, Marcia
 totals:
+- event: Canada Cup (Women)
+  games: 7
+  wins: 6
+  losses: 1
+  inturn-total: 66
+  inturn-percent: 87
+  outturn-total: 72
+  outturn-percent: 87
+  draw-total: 102
+  draw-percent: 88
+  takeout-total: 36
+  takeout-percent: 83
+  shots-total: 138
+  shots-percent: 87
 - event: Hearts
   games: 101
   wins: 73
@@ -32,6 +46,23 @@ totals:
   shots-total: 346
   shots-percent: 84
 years:
+- year: 2005
+  event: Canada Cup (Women)
+  team: Bet
+  position: Lead
+  games: 7
+  wins: 6
+  losses: 1
+  inturn-total: 66
+  inturn-percent: 87
+  outturn-total: 72
+  outturn-percent: 87
+  draw-total: 102
+  draw-percent: 88
+  takeout-total: 36
+  takeout-percent: 83
+  shots-total: 138
+  shots-percent: 87
 - year: 1991
   event: Hearts
   team: SK
@@ -267,6 +298,7 @@ vs:
 - Dunn, Anne
 - Eddy, Lori
 - Ellwood, Laurie
+- Englot, Michelle
 - Enright, Barb
 - Farrell, Allison
 - Fister, Teri
@@ -279,6 +311,7 @@ vs:
 - Fowler, Sharon
 - Fraser, Sherry
 - Frey, Audrey
+- Froud, Susan
 - Gagnier, Monique
 - Gagnon, Karo
 - Gagnon, Nathalie
@@ -366,8 +399,11 @@ vs:
 - McCurdy, Susan
 - McHugh, Cindy
 - McInnis, Susan
+- McIvor, Jolene
+- McIvor, Michelle
 - McKnight, Patti
 - McLeod, Crystal
+- McNabb, Jody
 - McPherson, Cheryl
 - Merklinger, Anne
 - Middaugh, Sherry
@@ -407,12 +443,14 @@ vs:
 - Putland, Rose
 - Radford, Helen
 - Rankin, Heather
+- Reddick, Audrey
 - Renouf, Michele
 - Rizzo, Jo-Ann
 - Roberts, Angela
 - Robertson, Darcy
 - Robinson, Charlene
 - Round, Coralee
+- Ruus, Karen
 - Sabourin, Joelle
 - Santos, Deb
 - Scales, Julie
@@ -422,6 +460,7 @@ vs:
 - Sharpe, Kelli
 - Shields, Deanne
 - Shigehiro, Sally
+- Simmons, Cindy
 - Simons, Renee
 - Singler, Sherri
 - Sipka, Joanne
@@ -441,6 +480,7 @@ vs:
 - Thurston, Jill
 - Todd, Fran
 - Trowell, Cathy
+- Tuck, Kim
 - Tuck, Kimberly
 - Turcotte, Kristin
 - Udle, Teri

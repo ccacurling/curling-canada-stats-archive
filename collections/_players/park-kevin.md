@@ -17,6 +17,20 @@ totals:
   takeout-percent: 84
   shots-total: 1180
   shots-percent: 82
+- event: Canada Cup (Men)
+  games: 17
+  wins: 11
+  losses: 6
+  inturn-total: 141
+  inturn-percent: 85
+  outturn-total: 171
+  outturn-percent: 84
+  draw-total: 123
+  draw-percent: 80
+  takeout-total: 189
+  takeout-percent: 87
+  shots-total: 312
+  shots-percent: 84
 - event: Trials (Men)
   games: 25
   wins: 8
@@ -117,6 +131,40 @@ years:
   takeout-percent: 84
   shots-total: 198
   shots-percent: 84
+- year: 2008
+  event: Canada Cup (Men)
+  team: MART
+  position: Third
+  games: 10
+  wins: 6
+  losses: 4
+  inturn-total: 95
+  inturn-percent: 88
+  outturn-total: 85
+  outturn-percent: 86
+  draw-total: 76
+  draw-percent: 88
+  takeout-total: 104
+  takeout-percent: 86
+  shots-total: 180
+  shots-percent: 87
+- year: 2009
+  event: Canada Cup (Men)
+  team: STOU
+  position: Third
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 46
+  inturn-percent: 79
+  outturn-total: 86
+  outturn-percent: 81
+  draw-total: 47
+  draw-percent: 66
+  takeout-total: 85
+  takeout-percent: 88
+  shots-total: 132
+  shots-percent: 80
 - year: 1997
   event: Trials (Men)
   team: PAR
@@ -209,6 +257,8 @@ vs:
 - Allan, John
 - Anderson, Chris
 - Andrews, Robert
+- Appelman, Ted
+- Appelman, Tom
 - Armstrong, Doug
 - Armstrong, Jim
 - Armstrong, Mark
@@ -243,6 +293,7 @@ vs:
 - Crowell, Phil
 - Cunningham, Geoff
 - Dacey, Mark
+- Daneault, Richard
 - Elkin, Derek
 - Epping, John
 - Feldman, Alfred
@@ -256,6 +307,7 @@ vs:
 - Folk, Rick
 - Forrest, Tyler
 - Fowler, Ed
+- Fowler, Rob
 - Foy, Sandy
 - Frans, Joseph
 - Fry, Ryan
@@ -308,6 +360,7 @@ vs:
 - Kennedy, Mike
 - Kent, Gerry
 - Kieley, Phil
+- Klassen, Brandon
 - Koe, Jamie
 - Koe, Kevin
 - Korab, Jamie
@@ -337,11 +390,14 @@ vs:
 - McAulay, Greg
 - McCarrel, Graeme
 - McCusker, Brian
+- McEwen, Mike
 - McHargue, Ken
 - McKee, Darrell
 - Mead, Jon
+- Mead, Jonathan
 - Meakin, Rob
 - Mellof, David
+- Melnyk, Brendan
 - Menard, Jean-Michel
 - Middaugh, Wayne
 - Mimeault, Bernard
@@ -352,9 +408,12 @@ vs:
 - Morris, John
 - Moss, Steve
 - Nedohin, David
+- Neufeld, B.J.
 - Neufeld, Chris
+- Neufeld, Denni
 - Nicholls, Peter
 - Nichols, Mark
+- Noftall, David
 - Novakowski, Bob
 - O'Rourke, Mark
 - Odian, Scott
@@ -389,6 +448,7 @@ vs:
 - Ryan, Pat
 - Rycroft, Carter
 - Savill, Craig
+- Schille, Chris
 - Schmidt, Aryn
 - Seabrook, Matt
 - Sharp, Jeff
@@ -398,6 +458,7 @@ vs:
 - Skanes, Robert
 - Skillen, Aaron
 - Smith, Dave
+- Smith, Garth
 - Smith, Kent
 - Solberg, Jonathon
 - Stoughton, Jeff
@@ -406,6 +467,7 @@ vs:
 - Tetley, Ian
 - Tetley, Ross
 - Thiessen, Nolan
+- Thomas, Charley
 - Thompson, Ron
 - Toner, Lee
 - Tremblay, Roderigue
@@ -424,6 +486,7 @@ vs:
 - Whitehead, Kevin
 - Whittle, Mark
 - Woytowich, Randy
+- Wozniak, Matt
 - Xidos, George
 - Young, Neil
 - Zawada, Braden

@@ -3,6 +3,20 @@ title: Heather Nedohin
 name: Heather Nedohin
 name-sort: Nedohin, Heather
 totals:
+- event: Canada Cup (Women)
+  games: 39
+  wins: 16
+  losses: 23
+  inturn-total: 344
+  inturn-percent: 76
+  outturn-total: 414
+  outturn-percent: 79
+  draw-total: 360
+  draw-percent: 76
+  takeout-total: 398
+  takeout-percent: 79
+  shots-total: 758
+  shots-percent: 77
 - event: Hearts
   games: 87
   wins: 56
@@ -32,6 +46,125 @@ totals:
   shots-total: 142
   shots-percent: 82
 years:
+- year: 2003
+  event: Canada Cup (Women)
+  team: Nedo
+  position: Fourth
+  games: 4
+  wins: 1
+  losses: 3
+  inturn-total: 38
+  inturn-percent: 72
+  outturn-total: 39
+  outturn-percent: 74
+  draw-total: 43
+  draw-percent: 73
+  takeout-total: 34
+  takeout-percent: 73
+  shots-total: 77
+  shots-percent: 73
+- year: 2007
+  event: Canada Cup (Women)
+  team: San
+  position: Fourth
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 48
+  inturn-percent: 80
+  outturn-total: 52
+  outturn-percent: 76
+  draw-total: 67
+  draw-percent: 78
+  takeout-total: 33
+  takeout-percent: 80
+  shots-total: 100
+  shots-percent: 78
+- year: 2008
+  event: Canada Cup (Women)
+  team: MOOR
+  position: Fourth
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 53
+  inturn-percent: 75
+  outturn-total: 31
+  outturn-percent: 81
+  draw-total: 38
+  draw-percent: 71
+  takeout-total: 46
+  takeout-percent: 83
+  shots-total: 84
+  shots-percent: 77
+- year: 2010
+  event: Canada Cup (Women)
+  team: HN
+  position: Fourth
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 30
+  inturn-percent: 90
+  outturn-total: 67
+  outturn-percent: 76
+  draw-total: 30
+  draw-percent: 84
+  takeout-total: 67
+  takeout-percent: 79
+  shots-total: 97
+  shots-percent: 80
+- year: 2011
+  event: Canada Cup (Women)
+  team: NED
+  position: Fourth
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 58
+  inturn-percent: 69
+  outturn-total: 66
+  outturn-percent: 82
+  draw-total: 55
+  draw-percent: 73
+  takeout-total: 69
+  takeout-percent: 79
+  shots-total: 124
+  shots-percent: 76
+- year: 2012
+  event: Canada Cup (Women)
+  team: NED
+  position: Fourth
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 52
+  inturn-percent: 74
+  outturn-total: 89
+  outturn-percent: 79
+  draw-total: 66
+  draw-percent: 73
+  takeout-total: 75
+  takeout-percent: 80
+  shots-total: 141
+  shots-percent: 77
+- year: 2014
+  event: Canada Cup (Women)
+  team: NED
+  position: Fourth
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 65
+  inturn-percent: 77
+  outturn-total: 70
+  outturn-percent: 80
+  draw-total: 61
+  draw-percent: 79
+  takeout-total: 74
+  takeout-percent: 79
+  shots-total: 135
+  shots-percent: 79
 - year: 1997
   event: Hearts
   team: AB
@@ -220,21 +353,26 @@ vs:
 - Ayrey, Jinaye
 - Babin, Jillian
 - Balderston, Marcy
+- Baleja, Susan
 - Barbour, Shona
 - Barker, Penny
 - Baxter, Jen
 - Beauchamp, Sasha
 - Beever, Jocelyn
 - Belisle, Eve
+- Bell, Chelsey
+- Bernard, Cheryl
 - Bernard, Krista
 - Berthelot, Janique
 - Betker, Jan
 - Beveridge, Corie
 - Birt, Suzanne
 - Blackburn, Julie
+- Blair, Janice
 - Blais, Amelie
 - Blanchard, Judy
 - Bodogh, Marilyn
+- Borne, Brandee
 - Bowman, Mary
 - Bradley, Shelly
 - Breen, Theresa
@@ -247,11 +385,15 @@ vs:
 - Campbell, June
 - Carey, Chelsea
 - Carlos, Marie-Claude
+- Carmody, Erin
 - Carter, Sasha
 - Charette, France
 - Cheveldave, Amber
+- Cordina, Sheri
 - Cormier, Sharon
+- Cottrill, Katie
 - Couling, Betty
+- Court, Morgan
 - Courtney, Joanne
 - Crawford, Andrea
 - Cunningham, Cathy
@@ -260,7 +402,9 @@ vs:
 - Curtis, Stacie
 - Daku, Karen
 - Daniel, Sylvie
+- Darbyshire, Carolyn
 - Davis, Brandee
+- Dealy, Diane
 - deJager, Blaine
 - Delahunt, Nancy
 - Derry, Danielle
@@ -275,9 +419,12 @@ vs:
 - Dykstra, Michelle
 - Eddy, Lori
 - Englot, Michelle
+- Fallis, Karen
+- Fargey, Lisa
 - Farrell, Allison
 - Ferguson, Dana
 - Filteau, Anne-Marie
+- Flaxey, Allison
 - Fleury, Tracy
 - Floyd, Kathy
 - Fortin, Sylvie
@@ -308,6 +455,7 @@ vs:
 - Hooper Perroud, Jane
 - Hopkins, Heather
 - Horte, Rhonda
+- Howard, Ashley
 - Hughes, Meaghan
 - Johnston, Kara
 - Jones, Colleen
@@ -321,6 +469,9 @@ vs:
 - Kaylo, Kelly
 - Kelly, Kim
 - Kerr, Kathy
+- Keshen, Christine
+- King, Cathy
+- Kleibrink, Shannon
 - Koehler, Megan
 - Korab, Stephanie
 - Kreviazuk, Alison
@@ -328,12 +479,14 @@ vs:
 - Laliberte, Connie
 - Larouche, Marie-France
 - Law, Kelley
+- Lawes, Andrea
 - Lawes, Kaitlyn
 - Lawton, Stefanie
 - Leclerc, Valerie
 - Lemay, Annie
 - Lemire, Nancy
 - Lewis, Kristy
+- Loder, Jenna
 - Lowther, Tammi
 - MacAulay, Marion
 - MacCallum, Janice
@@ -341,6 +494,8 @@ vs:
 - MacDonald, Rebecca Jean
 - MacDougall, Leslie
 - MacInnes, Allison
+- Maclachlan, Kyla
+- MacLean, Kari
 - MacLeod, Lisa
 - MacPhee, Robyn
 - Mallett, Marla
@@ -348,6 +503,7 @@ vs:
 - Martin, Heather
 - Materi, Roberta
 - Mattatall, Mary
+- McCarville, Krista
 - McCusker, Joan
 - McDonald, Kristy
 - McDonald, Tina
@@ -358,6 +514,7 @@ vs:
 - McNamee, Karen
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
+- Meakin, Breanne
 - Merklinger, Anne
 - Merklinger, Lee
 - Middaugh, Sherry
@@ -366,14 +523,19 @@ vs:
 - Miskew, Emma
 - Moore, Kim
 - Moore, Kristie
+- Morris, Cori
 - Moses, Dawn
 - Moss, Debbie
+- Mossman, Angela
+- Moulding, Heather
 - Muzika, Shelley
 - Nicholls, Brenda
 - Nixon, Amy
+- O'Connor, Susan
 - O'Rourke, Brittany
 - O'Rourke, Kathy
 - Officer, Jill
+- Olson-Johns, Lori
 - Ondrack, Wendy
 - Osborne, Chantal
 - Overton-Clapham, Cathy
@@ -385,17 +547,24 @@ vs:
 - Phillips, Laura
 - Phillips, Margaret Lea
 - Porter, Erin
+- Potts, Sarah
 - Power, Marie-Anne
+- Preston, Samantha
 - Radford, Helen
+- Ramsay, Geri Lynn
+- Rankin, Heather
 - Renouf, Michele
 - Richards, Brette
 - Rizzo, Jo-Ann
+- Rocheleau, Patty
+- Rocque, Raylene
 - Ross, Allison
 - Sabourin, Joelle
 - Sanders, Pat
 - Saulnier, Andrea
 - Scales, Julie
 - Schikowski, Keri-Lynn
+- Schmidt, Stephanie
 - Schmirler, Sandra
 - Schneider, Kim
 - Schneider, Lorraine
@@ -405,7 +574,9 @@ vs:
 - Sharpe, Kelli
 - Shumay, Jill
 - Sicinski, Danielle
+- Simons, Renee
 - Singler, Sherri
+- Sippala, Ashley
 - Skinner, Julie
 - Slywka, Sarah
 - Smith, Heather
@@ -424,11 +595,14 @@ vs:
 - Tucker, Cindy
 - Udle, Teri
 - Vey, Lana
+- Wall, Kirsten
 - Walsh, Jenna
 - Walter, Cathy
 - Wasylkiw, Lauren
 - Wazney, Sarah
 - Weagle, Lisa
+- Webster, Bronwen
+- Webster, Crystal
 - Westcott, Raunora
 - Wheatcroft, Georgina
 - Whitrow, Leanne

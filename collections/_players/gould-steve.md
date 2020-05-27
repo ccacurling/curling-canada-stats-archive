@@ -17,6 +17,20 @@ totals:
   takeout-percent: 82
   shots-total: 1389
   shots-percent: 88
+- event: Canada Cup (Men)
+  games: 43
+  wins: 24
+  losses: 19
+  inturn-total: 428
+  inturn-percent: 90
+  outturn-total: 364
+  outturn-percent: 90
+  draw-total: 703
+  draw-percent: 90
+  takeout-total: 89
+  takeout-percent: 88
+  shots-total: 792
+  shots-percent: 90
 - event: Trials (Men)
   games: 28
   wins: 18
@@ -155,6 +169,125 @@ years:
   takeout-percent: 
   shots-total: 5
   shots-percent: 85
+- year: 2004
+  event: Canada Cup (Men)
+  team: STO
+  position: Lead
+  games: 5
+  wins: 3
+  losses: 2
+  inturn-total: 53
+  inturn-percent: 90
+  outturn-total: 41
+  outturn-percent: 90
+  draw-total: 81
+  draw-percent: 91
+  takeout-total: 13
+  takeout-percent: 83
+  shots-total: 94
+  shots-percent: 90
+- year: 2005
+  event: Canada Cup (Men)
+  team: Sto
+  position: Lead
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 90
+  inturn-percent: 91
+  outturn-total: 51
+  outturn-percent: 91
+  draw-total: 123
+  draw-percent: 91
+  takeout-total: 18
+  takeout-percent: 89
+  shots-total: 141
+  shots-percent: 91
+- year: 2007
+  event: Canada Cup (Men)
+  team: Sto
+  position: Lead
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 44
+  inturn-percent: 96
+  outturn-total: 41
+  outturn-percent: 95
+  draw-total: 79
+  draw-percent: 96
+  takeout-total: 6
+  takeout-percent: 96
+  shots-total: 85
+  shots-percent: 96
+- year: 2008
+  event: Canada Cup (Men)
+  team: STOU
+  position: Lead
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 56
+  inturn-percent: 94
+  outturn-total: 62
+  outturn-percent: 89
+  draw-total: 102
+  draw-percent: 90
+  takeout-total: 16
+  takeout-percent: 97
+  shots-total: 118
+  shots-percent: 91
+- year: 2009
+  event: Canada Cup (Men)
+  team: STOU
+  position: Lead
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 70
+  inturn-percent: 85
+  outturn-total: 59
+  outturn-percent: 88
+  draw-total: 115
+  draw-percent: 87
+  takeout-total: 14
+  takeout-percent: 82
+  shots-total: 129
+  shots-percent: 86
+- year: 2010
+  event: Canada Cup (Men)
+  team: JS
+  position: Lead
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 57
+  inturn-percent: 85
+  outturn-total: 43
+  outturn-percent: 85
+  draw-total: 91
+  draw-percent: 84
+  takeout-total: 9
+  takeout-percent: 92
+  shots-total: 100
+  shots-percent: 85
+- year: 2011
+  event: Canada Cup (Men)
+  team: STO
+  position: Lead
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 58
+  inturn-percent: 91
+  outturn-total: 67
+  outturn-percent: 93
+  draw-total: 112
+  draw-percent: 93
+  takeout-total: 13
+  takeout-percent: 79
+  shots-total: 125
+  shots-percent: 92
 - year: 1997
   event: Trials (Men)
   team: STO
@@ -210,10 +343,14 @@ vs:
 - Adam, Gerry
 - Adams, Shawn
 - Anderson, Chris
+- Appelman, Ted
+- Appelman, Tom
 - Atchison, Chris
 - Bailey, Scott
 - Barker, Richard
 - Bartlett, Don
+- Base, John
+- Bawel, Brent
 - Berthelot, Marco
 - Biron, Louis
 - Bitz, Scott
@@ -222,6 +359,7 @@ vs:
 - Brackett, James
 - Broda, Shawn
 - Brown, Ken
+- Bucholz, Rob
 - Burgess, Craig
 - Burnett, Steve
 - Burtnyk, Kerry
@@ -232,11 +370,13 @@ vs:
 - Charette, Pierre
 - Chorostkowski, Brad
 - Collin, Simon
+- Corner, Peter
 - Cotter, Jim
 - Crete, Martin
 - Crowell, Phil
 - Dacey, Mark
 - Danbrook, Jamie
+- Daneault, Richard
 - Delmage, Ron
 - Desjardins, Robert
 - Despins, Glen
@@ -246,6 +386,7 @@ vs:
 - Eberts, Tony
 - Elkin, Derek
 - Elmaleh, Maxime
+- Enright, Adam
 - Epping, John
 - Fenton, Brad
 - Fenton, Keith
@@ -257,6 +398,7 @@ vs:
 - Folk, Kevin
 - Forrest, Tyler
 - Forsyth, Sandy
+- Fowler, Rob
 - Fraser, Pierre
 - Fry, Ryan
 - Gagne, Francois
@@ -297,19 +439,25 @@ vs:
 - Jacobs, Brad
 - Jakomait, Dusty
 - Jakubo, Mike
+- Jantzen, Mike
 - Jewer, Keith
 - Joanisse, Dean
 - Johnson, Bill
+- Johnson, Mark
 - Johnston, Wade
 - Jones, Brennen
 - Jones, Scott
 - Jordison, Joel
 - Josephson, Glenn
+- Kammerlock, Dan
 - Karrys, George
 - Kawaja, John
 - Kehoe, Mark
+- Kennedy, Glen
 - Kennedy, Marc
 - Kennedy, Mike
+- Klassen, Brandon
+- Kochan, Craig
 - Koe, Jamie
 - Koe, Kevin
 - Korab, Jamie
@@ -326,6 +474,7 @@ vs:
 - Lemery, Dan
 - Loevenmark, Phil
 - Lohnes, Bruce
+- Lyburn, Allan
 - MacDonald, Blake
 - MacDonald, Brent
 - MacDonald, Peter
@@ -339,10 +488,14 @@ vs:
 - Martin, Kevin
 - Maskiewich, Ken
 - McCarrel, Graeme
+- McDermot, Ken
+- McEwen, Mike
 - McKee, Darrell
 - McPhee, Barry
 - Mead, Jon
+- Mead, Jonathan
 - Meakin, Rob
+- Melnyk, Brendan
 - Menard, Jean-Michel
 - Menard, Philippe
 - Middaugh, Wayne
@@ -357,15 +510,19 @@ vs:
 - Naugler, Tom
 - Nedohin, David
 - Nelson, Randy
+- Neufeld, B.J.
+- Neufeld, Denni
 - Newson, Jamie
 - Nicholls, Peter
 - Nichols, Mark
+- O'Connor, Sean
 - O'Driscoll, Frank
 - O'Rourke, Mark
 - Odishaw, Grant
 - Olson, Mark-2
 - Orme, Tyler
 - Ouimet, Luc
+- Owens, Derek
 - Palmer, Curt
 - Park, Kerry
 - Park, Kevin
@@ -385,6 +542,7 @@ vs:
 - Richard, Jeff
 - Richter, Justin
 - Roberge, Francois
+- Robertson, Ian
 - Robertson, Richard
 - Robinson, Andrew
 - Rocque, Marcel
@@ -393,8 +551,10 @@ vs:
 - Rowsell, Rick
 - Rumfeldt, Robert
 - Ryan, Jeff
+- Ryan, Keith
 - Ryan, Pat
 - Rycroft, Carter
+- Samagalski, Derek
 - Savill, Craig
 - Sawatsky, Rick
 - Schille, Chris
@@ -408,20 +568,24 @@ vs:
 - Slauenwhite, David
 - Smith, Dave
 - Smith, Donnie
+- Smith, Garth
 - Smith, Kent
 - Smyth, Larry
 - Solberg, Jonathon
 - Somers, Grant
+- Sulimma, Hardi
 - Sullivan, Charles Jr
 - Sylvain, Eric
 - Tallon, Wayne
 - Tetley, Ian
 - Thiessen, Nolan
 - Toner, Lee
+- Tresoor, Ken
 - Van Dine, Steve
 - Vaughan, Jason
 - Villeneuve, Steeve
 - Walchuk, Don
+- Wall, Trevor
 - Werenich, Ed
 - Westphal, Don
 - Whitehead, Kevin
@@ -429,5 +593,6 @@ vs:
 - Windsor, Brian
 - Wood, Brad
 - Wood, Mike
+- Wozniak, Matt
 - Zawada, Braden
 ---

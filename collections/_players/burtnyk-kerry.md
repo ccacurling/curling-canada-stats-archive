@@ -17,6 +17,20 @@ totals:
   takeout-percent: 82
   shots-total: 897
   shots-percent: 79
+- event: Canada Cup (Men)
+  games: 29
+  wins: 10
+  losses: 19
+  inturn-total: 269
+  inturn-percent: 77
+  outturn-total: 255
+  outturn-percent: 77
+  draw-total: 227
+  draw-percent: 75
+  takeout-total: 297
+  takeout-percent: 78
+  shots-total: 524
+  shots-percent: 77
 - event: Trials (Men)
   games: 20
   wins: 12
@@ -117,6 +131,91 @@ years:
   takeout-percent: 78
   shots-total: 188
   shots-percent: 73
+- year: 2004
+  event: Canada Cup (Men)
+  team: BUR
+  position: Fourth
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 74
+  inturn-percent: 84
+  outturn-total: 56
+  outturn-percent: 83
+  draw-total: 52
+  draw-percent: 81
+  takeout-total: 78
+  takeout-percent: 86
+  shots-total: 130
+  shots-percent: 84
+- year: 2005
+  event: Canada Cup (Men)
+  team: Bur
+  position: Fourth
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 70
+  inturn-percent: 83
+  outturn-total: 70
+  outturn-percent: 74
+  draw-total: 56
+  draw-percent: 72
+  takeout-total: 84
+  takeout-percent: 82
+  shots-total: 140
+  shots-percent: 78
+- year: 2007
+  event: Canada Cup (Men)
+  team: Bur
+  position: Fourth
+  games: 5
+  wins: 0
+  losses: 5
+  inturn-total: 45
+  inturn-percent: 75
+  outturn-total: 42
+  outturn-percent: 71
+  draw-total: 46
+  draw-percent: 71
+  takeout-total: 41
+  takeout-percent: 76
+  shots-total: 87
+  shots-percent: 73
+- year: 2008
+  event: Canada Cup (Men)
+  team: BURT
+  position: Fourth
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 31
+  inturn-percent: 79
+  outturn-total: 49
+  outturn-percent: 74
+  draw-total: 38
+  draw-percent: 76
+  takeout-total: 42
+  takeout-percent: 76
+  shots-total: 80
+  shots-percent: 76
+- year: 2009
+  event: Canada Cup (Men)
+  team: BURT
+  position: Fourth
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 49
+  inturn-percent: 58
+  outturn-total: 38
+  outturn-percent: 81
+  draw-total: 35
+  draw-percent: 75
+  takeout-total: 52
+  takeout-percent: 63
+  shots-total: 87
+  shots-percent: 68
 - year: 1997
   event: Trials (Men)
   team: BUR
@@ -160,13 +259,19 @@ vs:
 - Alexander, Trevor
 - Allan, John
 - Andrews, Robert
+- Appelman, Ted
+- Appelman, Tom
 - Armstrong, Doug
 - Armstrong, Mark
 - Assad, Mike
 - Bailey, Scott
 - Bartlett, Don
+- Base, John
 - Berner, Ken
+- Bitz, Scott
+- Boyce, Jason
 - Brophy, Marc
+- Bucholz, Rob
 - Burgess, Bryan
 - Burgess, Craig
 - Bushell, Don
@@ -185,7 +290,9 @@ vs:
 - Cotter, Jim
 - Cowan, Chad
 - Crete, Martin
+- Cripps, Scott
 - Currie, Michael
+- Curtis, Jason
 - Dabrowski, Don
 - Dacey, Mark
 - Darragh, Alan
@@ -193,6 +300,7 @@ vs:
 - Eden, Brian
 - Ellert, Bob
 - Engel, Ron
+- Enright, Adam
 - Feldman, Alfred
 - Ferbey, Randy
 - Ferraro, Marco
@@ -201,10 +309,14 @@ vs:
 - Flemming, Paul
 - Folk, Kevin
 - Folk, Rick
+- Forrest, Tyler
 - Forster, Bruce
+- Fowler, Rob
 - Fox, Jim
 - Franklin, Graeme
+- Frans, Joe
 - Frans, Joseph
+- Fry, Ryan
 - Gagnon, Jean
 - Gagnon, Steeve
 - Gallant, Peter
@@ -214,9 +326,11 @@ vs:
 - Gee, Gordon
 - Gemmell, Dean
 - Germsheid, Tony
+- Gibson, Andrew
 - Gould, Steve
 - Grattan, James
 - Gretzinger, Bert
+- Gunnlaugson, Jason
 - Gushue, Brad
 - Hackner, Al
 - Haines, Chuck
@@ -228,6 +342,7 @@ vs:
 - Harnden, Eric
 - Harnden, Ryan
 - Harris, Mike
+- Harris, Rob
 - Harrison, Neil
 - Hart, Richard
 - Harvey, Don
@@ -235,6 +350,7 @@ vs:
 - Hebert, Ben
 - Heidt, Brad
 - Hemmings, Guy
+- Hicke, Dean
 - Hillson, Glen
 - Howard, Glenn
 - Howard, Russ
@@ -245,13 +361,20 @@ vs:
 - Jenkins, Bill
 - Joanisse, Dean
 - Johnson, Gord
+- Johnson, Mark
 - Johnston, Wade
+- Jordison, Joel
 - Kalthoff, Kevin
 - Karrys, George
 - Kawaja, John
 - Kennedy, Bruce
+- Kennedy, Glen
 - Kennedy, Marc
 - Kennedy, Mike
+- Klassen, Brandon
+- Koe, Jamie
+- Koe, Kevin
+- Korab, Jamie
 - Kuroyama, Robert
 - Lacey, Jeff
 - Laing, Brent
@@ -259,6 +382,7 @@ vs:
 - Langdon, Dennis
 - Lappalainen, Art
 - Laycock, Steve
+- LeCocq, Marc
 - Loevenmark, Phil
 - Lohnes, Bruce
 - MacDonald, Blake
@@ -280,7 +404,9 @@ vs:
 - McKenzie, Donald
 - McPhee, Barry
 - Mead, Jon
+- Mead, Jonathan
 - Mellof, David
+- Melnyk, Brendan
 - Menard, Jean-Michel
 - Middaugh, Wayne
 - Miki, Bryan
@@ -289,6 +415,7 @@ vs:
 - Mimeault, Greg
 - Mitchell, Collin
 - Mix, Don
+- Moffatt, Paul
 - Morris, John
 - Moshenko, Darcy
 - Moshenko, Jaret
@@ -306,14 +433,17 @@ vs:
 - Odishaw, Grant
 - Oke, Gary
 - Ormbsy, Dan
+- Owens, Derek
 - Pahl, James
 - Palmer, Curt
 - Park, Kerry
 - Park, Kevin
 - Patriquin, Chuck
 - Patterson, Scott
+- Paul, Matt
 - Peddigrew, Ken
 - Perroud, Pat
+- Petryk, Dan
 - Pfeifer, Scott
 - Pierce, Brent
 - Pinsent, Garry
@@ -323,6 +453,7 @@ vs:
 - Ravndal, Clayton
 - Richard, Gerry
 - Richardson, Tony
+- Richter, Justin
 - Robertson, Brad
 - Robertson, Richard
 - Robinson, Bill
@@ -362,12 +493,16 @@ vs:
 - Tervo, Randy
 - Tetley, Ian
 - Thibaudeau, Guy
+- Thiessen, Nolan
+- Thomas, Charley
 - Thomas, Ken
 - Thompson, Ron
 - Tremblay, Roderigue
 - Tresoor, Ken
+- Tuck, Wayne
 - Tuson, Jay
 - Ursel, Bob
+- Van Den Berghe, Garry
 - Vandenberghe, Garry
 - Vaughan, Jason
 - Vautour, Joseph
@@ -379,6 +514,7 @@ vs:
 - Weigand, Roy
 - Wempe, Brian
 - Werenich, Ed
+- Westlund, Mike
 - Westphal, Don
 - Whittle, Mark
 - Widdis, Bob

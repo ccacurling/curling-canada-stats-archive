@@ -17,6 +17,20 @@ totals:
   takeout-percent: 86
   shots-total: 201
   shots-percent: 77
+- event: Canada Cup (Men)
+  games: 5
+  wins: 3
+  losses: 2
+  inturn-total: 37
+  inturn-percent: 75
+  outturn-total: 50
+  outturn-percent: 73
+  draw-total: 43
+  draw-percent: 74
+  takeout-total: 44
+  takeout-percent: 73
+  shots-total: 87
+  shots-percent: 74
 - event: Trials (Men)
   games: 10
   wins: 8
@@ -49,6 +63,23 @@ years:
   takeout-percent: 86
   shots-total: 201
   shots-percent: 77
+- year: 2005
+  event: Canada Cup (Men)
+  team: Har
+  position: Fourth
+  games: 5
+  wins: 3
+  losses: 2
+  inturn-total: 37
+  inturn-percent: 75
+  outturn-total: 50
+  outturn-percent: 73
+  draw-total: 43
+  draw-percent: 74
+  takeout-total: 44
+  takeout-percent: 73
+  shots-total: 87
+  shots-percent: 74
 - year: 1997
   event: Trials (Men)
   team: HAR
@@ -73,6 +104,7 @@ vs:
 - Burnett, Steve
 - Burtnyk, Kerry
 - Cayouette, Maurice
+- Cotter, Jim
 - Dacey, Mark
 - Dieno, Clint
 - Fawcett, Brian
@@ -89,6 +121,7 @@ vs:
 - Gushue, Brad
 - Hannah, Brad
 - Hardy, Gord
+- Harper, David
 - Harris, Rob
 - Harrison, Neil
 - Harvey, Don
@@ -98,6 +131,8 @@ vs:
 - Jack, Clarence
 - Johnston, Wade
 - Kawaja, John
+- Kennedy, Marc
+- Koe, Kevin
 - Korab, Jamie
 - Korte, Bruce
 - Korte, Roger
@@ -110,12 +145,16 @@ vs:
 - Lohnes, Bruce
 - MacDonald, Blake
 - MacDonald, Brent
+- MacKenzie, Kevin
 - Martin, Kevin
 - McCarrel, Graeme
 - Mead, Jon
+- Mead, Jonathan
 - Meakin, Rob
 - Middaugh, Wayne
+- Moffatt, Paul
 - Molloy, Pat
+- Morris, John
 - Moss, Steve
 - Nedohin, David
 - Nicholls, Peter
@@ -133,6 +172,9 @@ vs:
 - Rogers, Les
 - Roy, Jean-Sebastien
 - Ryan, Jeff
+- Ryan, Keith
+- Ryan, Pat
+- Sawatsky, Rick
 - Scales, Brent
 - Semen, Jerry
 - Smith, Dave
@@ -142,6 +184,7 @@ vs:
 - Tetley, Ian
 - Tresoor, Ken
 - Trevellyan, Todd
+- Van Den Berghe, Garry
 - Vandenberghe, Garry
 - Walchuk, Don
 - Ward, Mark

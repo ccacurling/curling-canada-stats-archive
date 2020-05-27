@@ -3,6 +3,20 @@ title: Renee Sonnenberg
 name: Renee Sonnenberg
 name-sort: Sonnenberg, Renee
 totals:
+- event: Canada Cup (Women)
+  games: 11
+  wins: 5
+  losses: 6
+  inturn-total: 87
+  inturn-percent: 75
+  outturn-total: 114
+  outturn-percent: 78
+  draw-total: 104
+  draw-percent: 75
+  takeout-total: 97
+  takeout-percent: 79
+  shots-total: 201
+  shots-percent: 77
 - event: Hearts
   games: 26
   wins: 10
@@ -32,6 +46,40 @@ totals:
   shots-total: 131
   shots-percent: 75
 years:
+- year: 2004
+  event: Canada Cup (Women)
+  team: SON
+  position: Fourth
+  games: 4
+  wins: 1
+  losses: 3
+  inturn-total: 30
+  inturn-percent: 70
+  outturn-total: 49
+  outturn-percent: 79
+  draw-total: 42
+  draw-percent: 73
+  takeout-total: 37
+  takeout-percent: 79
+  shots-total: 79
+  shots-percent: 76
+- year: 2006
+  event: Canada Cup (Women)
+  team: Son
+  position: Fourth
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 57
+  inturn-percent: 78
+  outturn-total: 65
+  outturn-percent: 78
+  draw-total: 62
+  draw-percent: 76
+  takeout-total: 60
+  takeout-percent: 80
+  shots-total: 122
+  shots-percent: 78
 - year: 1999
   event: Hearts
   team: AB
@@ -160,37 +208,48 @@ vs:
 - Arsenault, Mary-Anne
 - Arseneau, Jane
 - Baker, Michelle
+- Bakker, Glenys
 - Beddington, Shalegh
 - Belanger, Nancy
 - Berthelot, Janique
+- Betker, Jan
 - Bohmer, Brenda
 - Bradley, Shelly
 - Brown, Jacalyn
 - Brown, Janet
 - Brown, Rachel
+- Burgess, Carey
+- Bush, Tracy
 - Byers, Denise
 - Carey, Chelsea
+- Comeau, Sandy
 - Cordina, Sheri
 - Courtney, Joanne
+- Cunningham, Cathy
 - Davis, Brandee
 - Delahunt, Nancy
 - Dezura, Diane
 - Dolan, Kim
 - Dolan, Sinead
 - Englot, Michelle
+- Fallis, Karen
+- Fallis-Kurz, Lynn
 - Farrell, Allison
 - Ferguson, Dana
 - Floyd, Kathy
 - Foster, Kristen
 - Galusha, Kerry
 - Gellard, Kim
+- Goss, Peg
 - Grenier, Valerie
 - Harvey, Alison
+- Harvey, Janet
 - Henry, Lou Ann
 - Holowec, Ainsley
 - Homan, Rachel
 - Horne, Kate
 - Iskiw, Beth
+- Jenkins, Sandra
 - Jones, Colleen
 - Jones, Jennifer
 - Jones-Walker, Debbie
@@ -198,7 +257,10 @@ vs:
 - Kasner, Marliese
 - Kehler, Lorie
 - Kelly, Kim
+- Kerr, Kathy
+- Keshen, Christine
 - King, Cathy
+- Kleibrink, Shannon
 - Kreviazuk, Alison
 - Laliberte, Connie
 - Larouche, Marie-France
@@ -206,17 +268,23 @@ vs:
 - Lawes, Andrea
 - Lawes, Kaitlyn
 - Lawton, Stefanie
+- Leger, Stacey
 - Lemay, Annie
 - Lemire, Nancy
+- Linton, Sherry
+- Loder, Cherie-Ann
 - MacCallum, Janice
 - MacDonald, Rebecca Jean
 - MacDonald, Shelley
 - MacDougall, Leslie
 - Mair, Jessica
+- Martin, Heather
 - Materi, Roberta
 - McCagg-Nystrom, Heather
+- McCusker, Joan
 - McDonald, Kristy
 - McEwen, Dawn
+- McIvor, Jolene
 - Merklinger, Lee
 - Middaugh, Sherry
 - Miller, Maureen
@@ -226,6 +294,7 @@ vs:
 - O'Leary, Susan
 - O'Rourke, Kathy
 - Officer, Jill
+- Olson-Johns, Lori
 - Ondrack, Wendy
 - Overton-Clapham, Cathy
 - Peters, Laine
@@ -235,6 +304,7 @@ vs:
 - Renouf, Michele
 - Rizzo, Jo-Ann
 - Robison, Michala
+- Rocque, Raylene
 - Ross, Allison
 - Sabourin, Joelle
 - Sandison, Janice
@@ -249,11 +319,14 @@ vs:
 - Sweeting, Val
 - Tanner, Allison
 - Tasaka, Adina
+- Thurston, Jill
 - Tincher, Twyla
 - Titheridge, Lindsay
 - Tucker, Cindy
+- Wall, Kirsten
 - Weagle, Lisa
 - Wheatcroft, Georgina
+- Whitaker, Carol
 - Whitaker, Lise
 - Wright, Susan
 - Young, Karen

@@ -17,6 +17,20 @@ totals:
   takeout-percent: 86
   shots-total: 1567
   shots-percent: 85
+- event: Canada Cup (Men)
+  games: 41
+  wins: 21
+  losses: 20
+  inturn-total: 379
+  inturn-percent: 83
+  outturn-total: 380
+  outturn-percent: 81
+  draw-total: 265
+  draw-percent: 77
+  takeout-total: 494
+  takeout-percent: 85
+  shots-total: 759
+  shots-percent: 82
 - event: Trials (Men)
   games: 15
   wins: 7
@@ -168,6 +182,108 @@ years:
   takeout-percent: 92
   shots-total: 226
   shots-percent: 90
+- year: 2010
+  event: Canada Cup (Men)
+  team: JS
+  position: Second
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 41
+  inturn-percent: 79
+  outturn-total: 59
+  outturn-percent: 78
+  draw-total: 50
+  draw-percent: 73
+  takeout-total: 50
+  takeout-percent: 84
+  shots-total: 100
+  shots-percent: 78
+- year: 2011
+  event: Canada Cup (Men)
+  team: STO
+  position: Second
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 68
+  inturn-percent: 90
+  outturn-total: 66
+  outturn-percent: 89
+  draw-total: 34
+  draw-percent: 79
+  takeout-total: 100
+  takeout-percent: 93
+  shots-total: 134
+  shots-percent: 89
+- year: 2012
+  event: Canada Cup (Men)
+  team: STO
+  position: Second
+  games: 7
+  wins: 6
+  losses: 1
+  inturn-total: 63
+  inturn-percent: 83
+  outturn-total: 73
+  outturn-percent: 78
+  draw-total: 41
+  draw-percent: 79
+  takeout-total: 95
+  takeout-percent: 81
+  shots-total: 136
+  shots-percent: 81
+- year: 2015
+  event: Canada Cup (Men)
+  team: CAR
+  position: Fourth
+  games: 7
+  wins: 2
+  losses: 5
+  inturn-total: 76
+  inturn-percent: 84
+  outturn-total: 54
+  outturn-percent: 79
+  draw-total: 44
+  draw-percent: 72
+  takeout-total: 86
+  takeout-percent: 87
+  shots-total: 130
+  shots-percent: 82
+- year: 2016
+  event: Canada Cup (Men)
+  team: CAR
+  position: Fourth
+  games: 8
+  wins: 6
+  losses: 2
+  inturn-total: 71
+  inturn-percent: 83
+  outturn-total: 78
+  outturn-percent: 80
+  draw-total: 43
+  draw-percent: 83
+  takeout-total: 106
+  takeout-percent: 81
+  shots-total: 149
+  shots-percent: 82
+- year: 2018
+  event: Canada Cup (Men)
+  team: Carr
+  position: Third
+  games: 6
+  wins: 0
+  losses: 6
+  inturn-total: 60
+  inturn-percent: 74
+  outturn-total: 50
+  outturn-percent: 83
+  draw-total: 53
+  draw-percent: 75
+  takeout-total: 57
+  takeout-percent: 80
+  shots-total: 110
+  shots-percent: 78
 - year: 2013
   event: Trials (Men)
   team: STO
@@ -245,6 +361,7 @@ vs:
 - Balsdon, Greg
 - Bardsley, Mike
 - Barry, Josh
+- Bawel, Brent
 - Beuk, Jonathan
 - Bezanson, Jared
 - Bice, Mark
@@ -270,6 +387,7 @@ vs:
 - Crowell, Phil
 - Currie, Jeff
 - Danbrook, Jamie
+- Daneault, Richard
 - Desjardins, Robert
 - Dillon, Mike
 - Dion, William
@@ -288,6 +406,7 @@ vs:
 - Forget, Wes
 - Forrest, Alex
 - Fournier, Mike
+- Fowler, Rob
 - Fry, Ryan
 - Gagne, Francois
 - Gallant, Brett
@@ -310,10 +429,12 @@ vs:
 - Howard, Steven
 - Jacobs, Brad
 - Janssen, Patrick
+- Jantzen, Mike
 - Jeffrey, Chris
 - Jensen, Trygg
 - Jewer, Keith
 - Jones, Brennen
+- Jordison, Joel
 - Kean, Mark
 - Kennedy, Marc
 - Kidby, Dustin
@@ -328,6 +449,8 @@ vs:
 - Ledgerwood, Sean
 - Lemay, Philippe
 - Likely, John
+- Lyburn, Allan
+- MacDonald, Blake
 - MacFadyen, Alex
 - MacKenzie, Eddie
 - MacKenzie, Tyler
@@ -366,6 +489,7 @@ vs:
 - Newson, Jamie
 - Nichols, Mark
 - Njegovan, Connor
+- O'Connor, Sean
 - Odian, Scott
 - Parsons, Cole
 - Pinder, Jordan
@@ -374,6 +498,7 @@ vs:
 - Roach, Jason
 - Rycroft, Carter
 - Saccary, Scott
+- Samagalski, Derek
 - Savill, Craig
 - Sawatsky, Rick
 - Schille, Chris
@@ -386,11 +511,13 @@ vs:
 - Smith, Kent
 - Solberg, Jonathon
 - St.Louis, David
+- Sulimma, Hardi
 - Sullivan, Charles Jr
 - Sylvain, Eric
 - Symonds, Andrew
 - Thiessen, Brad
 - Thiessen, Nolan
+- Thomas, Charley
 - Trepanier, Jean-Francois
 - Virtue, Brock
 - Walker, Geoff

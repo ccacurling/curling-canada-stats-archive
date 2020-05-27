@@ -17,6 +17,20 @@ totals:
   takeout-percent: 86
   shots-total: 712
   shots-percent: 83
+- event: Canada Cup (Men)
+  games: 13
+  wins: 8
+  losses: 5
+  inturn-total: 110
+  inturn-percent: 85
+  outturn-total: 121
+  outturn-percent: 79
+  draw-total: 110
+  draw-percent: 79
+  takeout-total: 121
+  takeout-percent: 83
+  shots-total: 231
+  shots-percent: 81
 - event: Trials (Men)
   games: 10
   wins: 6
@@ -83,6 +97,40 @@ years:
   takeout-percent: 87
   shots-total: 256
   shots-percent: 85
+- year: 2003
+  event: Canada Cup (Men)
+  team: Ryan
+  position: Third
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 67
+  inturn-percent: 87
+  outturn-total: 58
+  outturn-percent: 84
+  draw-total: 60
+  draw-percent: 85
+  takeout-total: 65
+  takeout-percent: 86
+  shots-total: 125
+  shots-percent: 85
+- year: 2006
+  event: Canada Cup (Men)
+  team: Urs
+  position: Fourth
+  games: 6
+  wins: 4
+  losses: 2
+  inturn-total: 43
+  inturn-percent: 81
+  outturn-total: 63
+  outturn-percent: 73
+  draw-total: 50
+  draw-percent: 72
+  takeout-total: 56
+  takeout-percent: 81
+  shots-total: 106
+  shots-percent: 77
 - year: 2001
   event: Trials (Men)
   team: GRE
@@ -102,13 +150,21 @@ years:
   shots-percent: 81
 vs:
 - Adam, Gerry
+- Adams, Mike
+- Adams, Shawn
 - Allaire, Gilles
 - Armstrong, Doug
 - Bailey, Scott
+- Balsdon, Greg
 - Bartlett, Don
+- Blanchard, Ben
+- Blaylock, Bryan
+- Bowser, Don
 - Bryant, Doug
 - Bubbs, John
+- Bucholz, Rob
 - Bucyk, James
+- Burgess, Craig
 - Burtnyk, Kerry
 - Butler, Mark
 - Buyck, James
@@ -117,14 +173,17 @@ vs:
 - Champion, Kevin
 - Charette, Pierre
 - Cochrane, Bryan
+- Cotter, Jim
 - Cowan, Chad
 - Crete, Martin
+- Cripps, Scott
 - Cursons, Neil
 - Dacey, Mark
 - Daneault, Richard
 - Dauphinee, Andrew
 - Desilets, Mike
 - Desrosiers, John
+- Dickson, Rob
 - Dillon, Mike
 - Fenton, Darin
 - Fenton, Keith
@@ -153,6 +212,7 @@ vs:
 - Hebert, Ben
 - Hemmings, Guy
 - Henderson, Scott
+- Hopkins, Jeff
 - Howard, Glenn
 - Howard, Russ
 - Hunka, Ken
@@ -161,13 +221,18 @@ vs:
 - Iskiw, Blayne
 - Jacobs, Brad
 - Jenion, Bob
+- Johnson, Mark
 - Johnston, Wade
+- Jordison, Joel
 - Josephson, Glenn
 - Kalthoff, Kevin
 - Kammerlock, Dan
 - Kelsch, Dan
+- Kennedy, Glen
 - Kennedy, Marc
 - Kennedy, Mike
+- Koe, Jamie
+- Koe, Kevin
 - Korab, Jamie
 - Laing, Brent
 - Lappalainen, Art
@@ -179,6 +244,7 @@ vs:
 - MacAulay, Ian
 - MacDonald, Blake
 - MacDonald, Brent
+- MacKenzie, Kevin
 - Madden, Paul
 - Martin, Kevin
 - McAulay, Greg
@@ -189,6 +255,7 @@ vs:
 - Meakin, Rob
 - Menard, Jean-Michel
 - Middaugh, Wayne
+- Miller, Ryan
 - Milward, Ross
 - Moffatt, Rich
 - Morris, John
@@ -208,13 +275,16 @@ vs:
 - Perron, Rick
 - Pfeifer, Scott
 - Pierce, Brent
+- Prebble, Darryl
 - Rafuse, Brian
 - Rajala, Howard
 - Reynolds, Brett
+- Richard, Jeff
 - Rocque, Marcel
 - Ryan, Jeff
 - Rycroft, Carter
 - Savill, Craig
+- Sawatsky, Rick
 - Scales, Bob
 - Schille, Chris
 - Scoffin, Wade
@@ -239,5 +309,6 @@ vs:
 - Ward, Mark
 - Wasnea, Brian
 - Wempe, Brian
+- Westlund, Mike
 - Westphal, Don
 ---

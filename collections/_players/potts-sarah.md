@@ -3,6 +3,20 @@ title: Sarah Potts
 name: Sarah Potts
 name-sort: Potts, Sarah
 totals:
+- event: Canada Cup (Women)
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 51
+  inturn-percent: 87
+  outturn-total: 59
+  outturn-percent: 83
+  draw-total: 96
+  draw-percent: 84
+  takeout-total: 14
+  takeout-percent: 86
+  shots-total: 110
+  shots-percent: 85
 - event: Hearts
   games: 42
   wins: 27
@@ -32,6 +46,23 @@ totals:
   shots-total: 158
   shots-percent: 85
 years:
+- year: 2010
+  event: Canada Cup (Women)
+  team: KM
+  position: Lead
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 51
+  inturn-percent: 87
+  outturn-total: 59
+  outturn-percent: 83
+  draw-total: 96
+  draw-percent: 84
+  takeout-total: 14
+  takeout-percent: 86
+  shots-total: 110
+  shots-percent: 85
 - year: 2010
   event: Hearts
   team: 'ON'
@@ -120,9 +151,12 @@ years:
 vs:
 - Alcoe-Holland, Jill
 - Aleksic, Shannon
+- Anderson, Sherry
+- Armstrong, Jacquie
 - Atkinson, Rebecca
 - Barker, Penny
 - Belisle, Eve
+- Bernard, Cheryl
 - Birt, Suzanne
 - Blaney, Jennifer
 - Bobbie, Tess
@@ -136,6 +170,7 @@ vs:
 - Campbell, Jolene
 - Carey, Chelsea
 - Carmody, Erin
+- Carter, Sasha
 - Christianson, Marie
 - Cormier, Sharon
 - Court, Morgan
@@ -145,6 +180,7 @@ vs:
 - Curtis, Stacie
 - Cutcliffe, Margaret
 - Daigle, Julie
+- Darbyshire, Carolyn
 - deJager, Blaine
 - Derry, Danielle
 - Devereaux, Julie
@@ -156,6 +192,7 @@ vs:
 - Ferguson, Dana
 - Flaxey, Allison
 - Fleury, Tracy
+- Foster, Kristen
 - Fullerton, Sarah
 - Fyfe, Liz
 - Galusha, Kerry
@@ -166,12 +203,16 @@ vs:
 - Hanna, Jenn
 - Hanna, Stephanie
 - Hill, Trish
+- Holland, Amber
 - Homan, Rachel
 - Howard, Ashley
 - Hughes, Meaghan
 - Hunkin, Jessie
+- Iskiw, Beth
 - Jones, Jennifer
 - Joyce, Blisse
+- Kalenchuk, Heather
+- Kasner, Marliese
 - Kleibrink, Shannon
 - Koehler, Megan
 - Kreviazuk, Lynn
@@ -190,10 +231,13 @@ vs:
 - McEwen, Dawn
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
+- Miller, Jessica
 - Miskew, Emma
 - Moore, Kristie
+- Morris, Cori
 - Munroe, Anna
 - Murphy, Sarah
+- Nedohin, Heather
 - Nicholls, Brenda
 - Nixon, Amy
 - Njegovan, Selena
@@ -220,9 +264,14 @@ vs:
 - Saulnier, Andrea
 - Scheidegger, Casey
 - Scheidegger, Jessie
+- Schneider, Kim
 - Schneider, Lorraine
+- Schneider, Tammy
+- Schraeder, Jeanna
+- Scott, Kelly
 - Sicinski, Danielle
 - Silvernagle, Robyn
+- Singler, Sherri
 - Sweeting, Val
 - Thevenot, Kara
 - Thiessen, Alison

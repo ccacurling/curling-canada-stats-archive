@@ -3,6 +3,20 @@ title: Michelle Englot
 name: Michelle Englot
 name-sort: Englot, Michelle
 totals:
+- event: Canada Cup (Women)
+  games: 12
+  wins: 6
+  losses: 6
+  inturn-total: 112
+  inturn-percent: 78
+  outturn-total: 116
+  outturn-percent: 71
+  draw-total: 102
+  draw-percent: 73
+  takeout-total: 126
+  takeout-percent: 75
+  shots-total: 228
+  shots-percent: 74
 - event: Hearts
   games: 104
   wins: 61
@@ -32,6 +46,40 @@ totals:
   shots-total: 325
   shots-percent: 70
 years:
+- year: 2005
+  event: Canada Cup (Women)
+  team: Eng
+  position: Third
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 54
+  inturn-percent: 81
+  outturn-total: 50
+  outturn-percent: 79
+  draw-total: 50
+  draw-percent: 78
+  takeout-total: 54
+  takeout-percent: 81
+  shots-total: 104
+  shots-percent: 80
+- year: 2009
+  event: Canada Cup (Women)
+  team: ENGL
+  position: Fourth
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 58
+  inturn-percent: 75
+  outturn-total: 66
+  outturn-percent: 66
+  draw-total: 52
+  draw-percent: 68
+  takeout-total: 72
+  takeout-percent: 71
+  shots-total: 124
+  shots-percent: 70
 - year: 1987
   event: Hearts
   team: SK
@@ -254,6 +302,7 @@ vs:
 - Bell, Chelsey
 - Bell, Patty
 - Bernard, Cheryl
+- Betker, Jan
 - Beveridge, Corie
 - Birchard, Shannon
 - Birt, Suzanne
@@ -263,6 +312,7 @@ vs:
 - Bobbie, Tess
 - Bohmer, Brenda
 - Bradley, Shelly
+- Breen, Theresa
 - Brennan, Amanda
 - Brophy, Cathy
 - Brown, Jacalyn
@@ -331,8 +381,10 @@ vs:
 - Fyfe, Liz
 - Gabriele, Elena
 - Gagnon, Emilia
+- Gagnon, Karo
 - Gallant, Kathie
 - Galusha, Kerry
+- Gatchell, Sara
 - Gates, Amanda
 - Gauthier, Cathy
 - Gibson, Amy
@@ -344,7 +396,9 @@ vs:
 - Green, Sue
 - Greening, Jackie-Rae
 - Greenwood, Jill
+- Gregoire, Veronique
 - Grenier, Valerie
+- Gudereit, Marcia
 - Gushulak, Diane
 - Handfield, Simone
 - Hanlon, Heidi
@@ -374,6 +428,7 @@ vs:
 - Jurgenson, Christine
 - Kalenchuk, Heather
 - Karasek, Bev
+- Kasner, Marliese
 - Kellerman, Bev
 - Kelly, Kim
 - Kennedy, Tracy
@@ -392,11 +447,13 @@ vs:
 - Law, Kelley
 - Lawes, Andrea
 - Lawes, Kaitlyn
+- Lawton, Stefanie
 - Leblanc, Lisa
 - LeCraw, Carolyn
 - LeDrew, Stephanie
 - Lemay, Annie
 - Lilly, Kendra
+- Linton, Sherry
 - MacAulay, Marion
 - MacCallum, Janice
 - MacCuish, Kristin
@@ -420,6 +477,7 @@ vs:
 - McArdle, Cindy
 - McCagg-Nystrom, Heather
 - McCarville, Krista
+- McCusker, Joan
 - McDermott, Karen
 - McDonald, Tina
 - McEvoy, Julie
@@ -427,6 +485,7 @@ vs:
 - McGowan, Frances
 - McHugh, Cindy
 - McInnis, Susan
+- McNabb, Jody
 - McNamee, Karen
 - McPherson, Cheryl
 - McQuaid, Michelle
@@ -439,6 +498,7 @@ vs:
 - Moore, Kristie
 - More, Chris
 - Moriarty, Monica
+- Morris, Cori
 - Moses, Dawn
 - Moyaert, June
 - Mulroney, Sandra
@@ -451,6 +511,7 @@ vs:
 - Nicholson, Terry
 - Nixon, Amy
 - Njegovan, Selena
+- O'Connor, Susan
 - O'Leary, Susan
 - O'Rourke, Brittany
 - O'Rourke, Kathy
@@ -482,8 +543,10 @@ vs:
 - Richards, Brette
 - Ridley, Terry
 - Rintoul, Jacki
+- Rizzo, Jo-Ann
 - Robichaud, Sylvie
 - Rudd, Colleen
+- Ruus, Karen
 - Ryan, Diane
 - Ryan, Jennifer
 - Ryan, Penny
@@ -506,6 +569,7 @@ vs:
 - Sicinski, Danielle
 - Sigurdson, Janine
 - Simons, Renee
+- Singler, Sherri
 - Sippala, Ashley
 - Skinner, Julie
 - Smith, Heather
@@ -529,6 +593,7 @@ vs:
 - Thompson, Karla
 - Tippin, Julie
 - Todd, Fran
+- Tuck, Kim
 - Tucker, Cindy
 - Turcotte, Kristin
 - Udle, Teri
@@ -555,4 +620,5 @@ vs:
 - Yardley, Janelle
 - Young, Karen
 - Zeller, Lori
+- Zinck, Kay
 ---

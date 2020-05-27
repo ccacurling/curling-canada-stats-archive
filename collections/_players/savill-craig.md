@@ -17,6 +17,20 @@ totals:
   takeout-percent: 85
   shots-total: 2152
   shots-percent: 90
+- event: Canada Cup (Men)
+  games: 57
+  wins: 38
+  losses: 19
+  inturn-total: 514
+  inturn-percent: 89
+  outturn-total: 552
+  outturn-percent: 87
+  draw-total: 936
+  draw-percent: 89
+  takeout-total: 130
+  takeout-percent: 82
+  shots-total: 1066
+  shots-percent: 88
 - event: Trials (Men)
   games: 34
   wins: 19
@@ -202,6 +216,142 @@ years:
   takeout-percent: 
   shots-total: 2
   shots-percent: 100
+- year: 2003
+  event: Canada Cup (Men)
+  team: Morr
+  position: Lead
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 85
+  inturn-percent: 89
+  outturn-total: 43
+  outturn-percent: 83
+  draw-total: 111
+  draw-percent: 90
+  takeout-total: 17
+  takeout-percent: 69
+  shots-total: 128
+  shots-percent: 87
+- year: 2006
+  event: Canada Cup (Men)
+  team: How
+  position: Lead
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 85
+  inturn-percent: 87
+  outturn-total: 50
+  outturn-percent: 82
+  draw-total: 112
+  draw-percent: 85
+  takeout-total: 23
+  takeout-percent: 86
+  shots-total: 135
+  shots-percent: 85
+- year: 2008
+  event: Canada Cup (Men)
+  team: HOWA
+  position: Lead
+  games: 6
+  wins: 4
+  losses: 2
+  inturn-total: 46
+  inturn-percent: 91
+  outturn-total: 57
+  outturn-percent: 87
+  draw-total: 97
+  draw-percent: 90
+  takeout-total: 6
+  takeout-percent: 71
+  shots-total: 103
+  shots-percent: 89
+- year: 2010
+  event: Canada Cup (Men)
+  team: GH
+  position: Lead
+  games: 8
+  wins: 7
+  losses: 1
+  inturn-total: 46
+  inturn-percent: 84
+  outturn-total: 103
+  outturn-percent: 85
+  draw-total: 138
+  draw-percent: 86
+  takeout-total: 11
+  takeout-percent: 75
+  shots-total: 149
+  shots-percent: 85
+- year: 2011
+  event: Canada Cup (Men)
+  team: HOW
+  position: Lead
+  games: 8
+  wins: 5
+  losses: 3
+  inturn-total: 66
+  inturn-percent: 93
+  outturn-total: 86
+  outturn-percent: 94
+  draw-total: 134
+  draw-percent: 94
+  takeout-total: 18
+  takeout-percent: 89
+  shots-total: 152
+  shots-percent: 94
+- year: 2012
+  event: Canada Cup (Men)
+  team: HOW
+  position: Lead
+  games: 8
+  wins: 5
+  losses: 3
+  inturn-total: 65
+  inturn-percent: 94
+  outturn-total: 82
+  outturn-percent: 88
+  draw-total: 129
+  draw-percent: 90
+  takeout-total: 18
+  takeout-percent: 97
+  shots-total: 147
+  shots-percent: 91
+- year: 2014
+  event: Canada Cup (Men)
+  team: HOW
+  position: Lead
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 61
+  inturn-percent: 83
+  outturn-total: 79
+  outturn-percent: 89
+  draw-total: 115
+  draw-percent: 87
+  takeout-total: 25
+  takeout-percent: 82
+  shots-total: 140
+  shots-percent: 86
+- year: 2018
+  event: Canada Cup (Men)
+  team: Eppi
+  position: Lead
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 60
+  inturn-percent: 87
+  outturn-total: 52
+  outturn-percent: 84
+  draw-total: 100
+  draw-percent: 87
+  takeout-total: 12
+  takeout-percent: 75
+  shots-total: 112
+  shots-percent: 85
 - year: 2001
   event: Trials (Men)
   team: MOR
@@ -285,19 +435,24 @@ vs:
 - Bardsley, Mike
 - Barker, Richard
 - Bartlett, Don
+- Bawel, Brent
 - Berthelot, Marco
 - Bilesky, Andrew
 - Bitz, Scott
 - Blanchard, Ben
+- Blaylock, Bryan
 - Borden, Robert
+- Bottcher, Brendan
 - Bouchard, Christian
 - Breckon, Graham
 - Brodersen, Erik
 - Bryant, Doug
+- Bucholz, Rob
 - Burgess, Craig
 - Burnett, Steve
 - Burtnyk, Kerry
 - Buyck, James
+- Camm, Mathew
 - Campbell, Robert
 - Carmody, Anson
 - Carr, Larry
@@ -320,9 +475,13 @@ vs:
 - Darragh, Alan
 - Deis, Ryan
 - Desjardins, Robert
+- Despins, Dale
+- Despins, Glen
+- Despins, Wayne
 - Desrosiers, John
 - Dillon, Mike
 - Dobson, Paul
+- Dunstone, Matthew
 - Elias, Dave
 - Elmaleh, Maxime
 - Eloranta, Drew
@@ -334,6 +493,7 @@ vs:
 - Ferbey, Randy
 - Ferland, Martin
 - Fitzner-LeBlanc, Ian
+- Flasch, Colton
 - Flaxey, Caleb
 - Flemming, Paul
 - Folk, Kevin
@@ -348,8 +508,10 @@ vs:
 - Gaudet, Mike
 - Gavin, Martin
 - Geall, Sean
+- Gedak, Brent
 - Gibson, Andrew
 - Gionest, Francois
+- Goodman, Eric
 - Gordon, Robbie
 - Gorveatt, Philip
 - Gould, Steve
@@ -362,6 +524,7 @@ vs:
 - Gunnlaugson, Jason
 - Gushue, Brad
 - Haichert, Chris
+- Hamilton, Andrew
 - Harnden, Al
 - Harnden, E.J.
 - Harnden, Eric
@@ -369,31 +532,41 @@ vs:
 - Harris, Rob
 - Harris, Tyler
 - Hebert, Ben
+- Heidt, Brad
+- Heidt, Mitch
+- Hersikorn, Terry
 - Hicke, Dean
+- Hodgson, Colin
 - Hong, Doug
 - Hopkins, Jeff
 - Horning, Deane
 - Howard, Glenn
 - Howard, Russ
+- Howard, Scott
 - Howard, Steven
+- Humble, Brian
 - Ireland, Clint
 - Jacobs, Brad
 - Jakomait, Dusty
 - Jakubo, Mike
+- Jantzen, Mike
 - Jenkins, Bill
 - Jewer, Keith
 - Joanisse, Dean
 - Johnson, Bill
+- Johnson, Mark
 - Jones, Brennen
 - Jones, Scott
 - Jordison, Joel
 - Kammerlock, Dan
 - Kehoe, Mark
+- Kennedy, Glen
 - Kennedy, Marc
 - Kennedy, Mike
 - Kerr, Ian
 - Kidby, Dustin
 - Kilgallen, Shane
+- Kleiter, Dean
 - Koe, Jamie
 - Koe, Kevin
 - Koffski, Rob
@@ -401,7 +574,9 @@ vs:
 - Korab, Jamie
 - Korte, Bruce
 - Korte, Roger
+- Kuhn, Ryan
 - Lacey, Jeff
+- Laing, Brent
 - Lang, Mark
 - Lang, Tyler
 - Laycock, Steve
@@ -425,6 +600,7 @@ vs:
 - MacLean, Stuart
 - Manners, Scott
 - Markowsky, Rob
+- Martin, Karrick
 - Martin, Kevin
 - Maskiewich, Ken
 - Mathers, David
@@ -450,6 +626,7 @@ vs:
 - Morris, John
 - Moskowy, Braeden
 - Moskowy, Kelly
+- Moulding, Darren
 - Murphy, Jamie
 - Muyres, Dallan
 - Nantes, Dave
@@ -462,6 +639,7 @@ vs:
 - Nichols, Mark
 - Noftall, David
 - Noseworthy, Mark
+- O'Connor, Sean
 - O'Rourke, Mark
 - Odishaw, Grant
 - Odishaw, Terry
@@ -473,10 +651,12 @@ vs:
 - Park, Shane
 - Peachey, Jay
 - Peddigrew, Ken
+- Perrin, Hubert
 - Pfeifer, Scott
 - Phillips, Tim
 - Pierce, Brent
 - Pinder, Jordan
+- Pohl, Mike
 - Porter, Ryan
 - Rafuse, Brian
 - Recksiedler, Kevin
@@ -498,6 +678,7 @@ vs:
 - Sawatsky, Rick
 - Schille, Chris
 - Schmidt, Aryn
+- Schneider, Catlin
 - Scoffin, Wade
 - Seabrook, Matt
 - Seabrook, Scott
@@ -513,12 +694,16 @@ vs:
 - Stoughton, Jeff
 - Stuart, Darol
 - Suchy, Chris
+- Sulimma, Hardi
 - Sullivan, Charles Jr
 - Sveistrup, Jody
 - Sylvain, Eric
 - Tallon, Wayne
+- Tarasoff, Kerry
 - Tetley, Ian
+- Thiessen, Brad
 - Thiessen, Nolan
+- Thomas, Charley
 - Toner, Lee
 - Turpin, Randy
 - Ursel, Bob
@@ -535,6 +720,7 @@ vs:
 - Whittle, Mark
 - Windsor, Brian
 - Wood, Mike
+- Woodward, Murray
 - Wozniak, Matt
 - Zawada, Braden
 ---

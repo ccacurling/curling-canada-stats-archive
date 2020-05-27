@@ -3,6 +3,20 @@ title: Rachel Homan
 name: Rachel Homan
 name-sort: Homan, Rachel
 totals:
+- event: Canada Cup (Women)
+  games: 43
+  wins: 29
+  losses: 14
+  inturn-total: 405
+  inturn-percent: 81
+  outturn-total: 399
+  outturn-percent: 79
+  draw-total: 386
+  draw-percent: 78
+  takeout-total: 418
+  takeout-percent: 82
+  shots-total: 804
+  shots-percent: 80
 - event: Hearts
   games: 95
   wins: 75
@@ -32,6 +46,108 @@ totals:
   shots-total: 340
   shots-percent: 83
 years:
+- year: 2011
+  event: Canada Cup (Women)
+  team: HOM
+  position: Fourth
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 66
+  inturn-percent: 81
+  outturn-total: 50
+  outturn-percent: 77
+  draw-total: 52
+  draw-percent: 80
+  takeout-total: 64
+  takeout-percent: 79
+  shots-total: 116
+  shots-percent: 79
+- year: 2014
+  event: Canada Cup (Women)
+  team: HOM
+  position: Fourth
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 64
+  inturn-percent: 78
+  outturn-total: 66
+  outturn-percent: 78
+  draw-total: 55
+  draw-percent: 77
+  takeout-total: 75
+  takeout-percent: 79
+  shots-total: 130
+  shots-percent: 78
+- year: 2015
+  event: Canada Cup (Women)
+  team: HOM
+  position: Fourth
+  games: 7
+  wins: 6
+  losses: 1
+  inturn-total: 64
+  inturn-percent: 82
+  outturn-total: 68
+  outturn-percent: 82
+  draw-total: 62
+  draw-percent: 78
+  takeout-total: 70
+  takeout-percent: 85
+  shots-total: 132
+  shots-percent: 82
+- year: 2016
+  event: Canada Cup (Women)
+  team: HOM
+  position: Fourth
+  games: 8
+  wins: 5
+  losses: 3
+  inturn-total: 67
+  inturn-percent: 79
+  outturn-total: 80
+  outturn-percent: 81
+  draw-total: 78
+  draw-percent: 76
+  takeout-total: 69
+  takeout-percent: 85
+  shots-total: 147
+  shots-percent: 80
+- year: 2018
+  event: Canada Cup (Women)
+  team: Homa
+  position: Fourth
+  games: 8
+  wins: 5
+  losses: 3
+  inturn-total: 77
+  inturn-percent: 78
+  outturn-total: 71
+  outturn-percent: 76
+  draw-total: 76
+  draw-percent: 76
+  takeout-total: 72
+  takeout-percent: 78
+  shots-total: 148
+  shots-percent: 77
+- year: 2019
+  event: Canada Cup (Women)
+  team: Homa
+  position: Fourth
+  games: 7
+  wins: 6
+  losses: 1
+  inturn-total: 67
+  inturn-percent: 90
+  outturn-total: 64
+  outturn-percent: 82
+  draw-total: 63
+  draw-percent: 83
+  takeout-total: 68
+  takeout-percent: 89
+  shots-total: 131
+  shots-percent: 86
 - year: 2011
   event: Hearts
   team: 'ON'
@@ -203,6 +319,7 @@ vs:
 - Beauchamp, Sasha
 - Belisle, Eve
 - Bell, Chelsey
+- Bernard, Cheryl
 - Birchard, Shannon
 - Birnie, Hailey
 - Birt, Suzanne
@@ -221,6 +338,7 @@ vs:
 - Brown, Rachel
 - Cameron, Kate
 - Camozzi, Rhona
+- Cannon, Theresa
 - Carey, Chelsea
 - Carmody, Erin
 - Carter, Sasha
@@ -234,11 +352,13 @@ vs:
 - Court, Morgan
 - Courtney, Joanne
 - Crawford, Andrea
+- Crocker, Laura
 - Cunningham, Jessica
 - Curtis, Erica
 - Curtis, Stacie
 - Cutcliffe, Margaret
 - Daigle, Julie
+- Darbyshire, Carolyn
 - deJager, Blaine
 - Derry, Danielle
 - deSolla, Jodie
@@ -258,6 +378,7 @@ vs:
 - Flaxey, Allison
 - Fleury, Tracy
 - Foster, Kristen
+- Foster, Vanessa
 - Fullerton, Sarah
 - Fyfe, Liz
 - Galusha, Kerry
@@ -270,6 +391,7 @@ vs:
 - Guzzwell, Stephanie
 - Hamilton, Beth
 - Hastings, Julie
+- Haughian, Jessie
 - Hawes, Dezaray
 - Hill, Trish
 - Holland, Amber
@@ -285,6 +407,7 @@ vs:
 - Kasner, Marliese
 - Kelly, Kim
 - Kleibrink, Shannon
+- Klein, Karen
 - Klymchuk, Ashley
 - Knezevic, Patti
 - Koehler, Megan
@@ -310,6 +433,7 @@ vs:
 - Mattatall, Mary
 - McCarville, Krista
 - McDonald, Kristy
+- McDonald, Taylor
 - McEwen, Dawn
 - McInnis, Susan
 - McQuaid, Michelle
@@ -346,10 +470,13 @@ vs:
 - Richard, Marie
 - Richards, Brette
 - Rizzo, Jo-Ann
+- Robertson, Darcy
 - Robichaud, Sylvie
 - Robison, Michala
+- Rocque, Kelsey
 - Ross, Allison
 - Rusnell, Jen
+- Sabourin, Joelle
 - Sanderson, Jessie
 - Sandwith, Carley
 - Saulnier, Andrea
@@ -391,6 +518,7 @@ vs:
 - Wasylkiw, Lauren
 - Wazney, Sarah
 - Webster, Bronwen
+- Webster, Crystal
 - Westcott, Raunora
 - Wilkes, Sarah
 - Wilson, Leslie

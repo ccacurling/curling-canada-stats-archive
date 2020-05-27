@@ -3,6 +3,20 @@ title: Raunora Westcott
 name: Raunora Westcott
 name-sort: Westcott, Raunora
 totals:
+- event: Canada Cup (Women)
+  games: 13
+  wins: 3
+  losses: 10
+  inturn-total: 142
+  inturn-percent: 85
+  outturn-total: 106
+  outturn-percent: 82
+  draw-total: 215
+  draw-percent: 85
+  takeout-total: 33
+  takeout-percent: 72
+  shots-total: 248
+  shots-percent: 84
 - event: Hearts
   games: 45
   wins: 27
@@ -32,6 +46,40 @@ totals:
   shots-total: 153
   shots-percent: 86
 years:
+- year: 2015
+  event: Canada Cup (Women)
+  team: MCD
+  position: Lead
+  games: 6
+  wins: 1
+  losses: 5
+  inturn-total: 93
+  inturn-percent: 84
+  outturn-total: 19
+  outturn-percent: 76
+  draw-total: 100
+  draw-percent: 85
+  takeout-total: 12
+  takeout-percent: 63
+  shots-total: 112
+  shots-percent: 83
+- year: 2018
+  event: Canada Cup (Women)
+  team: Flax
+  position: Lead
+  games: 7
+  wins: 2
+  losses: 5
+  inturn-total: 49
+  inturn-percent: 88
+  outturn-total: 87
+  outturn-percent: 83
+  draw-total: 115
+  draw-percent: 86
+  takeout-total: 21
+  takeout-percent: 77
+  shots-total: 136
+  shots-percent: 85
 - year: 2010
   event: Hearts
   team: MB
@@ -122,6 +170,7 @@ vs:
 - Alcoe-Holland, Jill
 - Aleksic, Shannon
 - Armstrong, Jacquie
+- Armstrong, Leigh
 - Arnaud, Chloe
 - Arsenault, Mary-Anne
 - Babin, Jillian
@@ -137,6 +186,7 @@ vs:
 - Bradley, Shelly
 - Brassard, Veronique
 - Brown, Rachel
+- Cannon, Theresa
 - Carey, Chelsea
 - Carmody, Erin
 - Carter, Sasha
@@ -145,6 +195,7 @@ vs:
 - Court, Morgan
 - Courtney, Joanne
 - Crawford, Andrea
+- Crocker, Laura
 - Crouse, Jennifer
 - Curtis, Erica
 - Curtis, Stacie
@@ -162,11 +213,13 @@ vs:
 - Ferguson, Dana
 - Flaxey, Allison
 - Fleury, Tracy
+- Foster, Vanessa
 - Fullerton, Sarah
 - Fyfe, Liz
 - Gagnon, Emilia
 - Galusha, Kerry
 - Gates, Amanda
+- Gates, Jennifer
 - George, Tara
 - Gibson, Amy
 - Gilman, Sheena
@@ -175,6 +228,7 @@ vs:
 - Guzzwell, Stephanie
 - Hardy, Shelley
 - Harvey, Marie-Pier
+- Haughian, Jessie
 - Hill, Trish
 - Holland, Amber
 - Homan, Rachel
@@ -182,6 +236,8 @@ vs:
 - Jones, Jennifer
 - Kalenchuk, Heather
 - Kleibrink, Shannon
+- Klein, Karen
+- Knapp, Breanne
 - Koehler, Megan
 - Kreviazuk, Alison
 - Kreviazuk, Cheryl
@@ -203,10 +259,14 @@ vs:
 - Mattatall, Mary
 - McCarville, Krista
 - McConnery, Nancy
+- McDonald, Taylor
 - McEvoy, Julie
 - McEwen, Dawn
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
+- Meilleur, Briane
+- Merklinger, Lee
+- Middaugh, Sherry
 - Miller, Wendy
 - Miskew, Emma
 - Moore, Kristie
@@ -232,6 +292,9 @@ vs:
 - Rainville, Julie
 - Ramsay, Geri Lynn
 - Richards, Brette
+- Rizzo, Jo-Ann
+- Robertson, Darcy
+- Rocque, Kelsey
 - Rogers, Leslie
 - Rogers, Rhonda
 - Sagle, Karen
@@ -253,6 +316,7 @@ vs:
 - Van Osch, Kesa
 - Van Osch, Marika
 - Vink, Rachelle
+- Walsh, Jenna
 - Weagle, Lisa
 - Webster, Bronwen
 - Webster, Crystal

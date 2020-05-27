@@ -3,6 +3,20 @@ title: Kari MacLean
 name: Kari MacLean
 name-sort: MacLean, Kari
 totals:
+- event: Canada Cup (Women)
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 54
+  inturn-percent: 76
+  outturn-total: 56
+  outturn-percent: 82
+  draw-total: 64
+  draw-percent: 76
+  takeout-total: 46
+  takeout-percent: 83
+  shots-total: 110
+  shots-percent: 79
 - event: Hearts
   games: 25
   wins: 15
@@ -32,6 +46,23 @@ totals:
   shots-total: 190
   shots-percent: 79
 years:
+- year: 2010
+  event: Canada Cup (Women)
+  team: KM
+  position: Second
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 54
+  inturn-percent: 76
+  outturn-total: 56
+  outturn-percent: 82
+  draw-total: 64
+  draw-percent: 76
+  takeout-total: 46
+  takeout-percent: 83
+  shots-total: 110
+  shots-percent: 79
 - year: 2009
   event: Hearts
   team: 'ON'
@@ -85,6 +116,7 @@ years:
   shots-percent: 79
 vs:
 - Affleck, Tricia
+- Anderson, Sherry
 - Armstrong, Jacquie
 - Babin, Jillian
 - Barbour, Shona
@@ -106,12 +138,14 @@ vs:
 - Einarson, Megan
 - Ellis, Danielle
 - Enright, Barb
+- Foster, Kristen
 - Galusha, Kerry
 - Gilman, Sheena
 - Goss, Peg
 - Gushulak, Diane
 - Hardy, Shelley
 - Holland, Amber
+- Iskiw, Beth
 - Jewer, Michelle
 - Jones, Jennifer
 - Kalenchuk, Heather
@@ -119,6 +153,7 @@ vs:
 - Kleibrink, Shannon
 - Koehler, Megan
 - Larouche, Marie-France
+- Lawes, Kaitlyn
 - Lawton, Stefanie
 - LeDrew, Stephanie
 - Lemay, Annie
@@ -133,11 +168,13 @@ vs:
 - McCagg-Nystrom, Heather
 - McConnery, Nancy
 - McEwen, Dawn
+- Miller, Jessica
 - More, Whitney
 - Morris, Cori
 - Moses, Dawn
 - Muzika, Shelley
 - Naugler, Tara
+- Nedohin, Heather
 - Nicholls, Brenda
 - Nixon, Amy
 - Nowlan, Denise
@@ -146,6 +183,7 @@ vs:
 - Officer, Jill
 - Olson-Johns, Lori
 - Overton-Clapham, Cathy
+- Peters, Laine
 - Phillips, Kristen
 - Preston, Sam
 - Rainville, Julie

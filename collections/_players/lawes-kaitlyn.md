@@ -3,6 +3,20 @@ title: Kaitlyn Lawes
 name: Kaitlyn Lawes
 name-sort: Lawes, Kaitlyn
 totals:
+- event: Canada Cup (Women)
+  games: 61
+  wins: 37
+  losses: 24
+  inturn-total: 603
+  inturn-percent: 79
+  outturn-total: 557
+  outturn-percent: 81
+  draw-total: 488
+  draw-percent: 77
+  takeout-total: 672
+  takeout-percent: 82
+  shots-total: 1160
+  shots-percent: 80
 - event: Hearts
   games: 92
   wins: 68
@@ -32,6 +46,159 @@ totals:
   shots-total: 319
   shots-percent: 83
 years:
+- year: 2009
+  event: Canada Cup (Women)
+  team: KING
+  position: Third
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 55
+  inturn-percent: 85
+  outturn-total: 45
+  outturn-percent: 77
+  draw-total: 56
+  draw-percent: 77
+  takeout-total: 44
+  takeout-percent: 86
+  shots-total: 100
+  shots-percent: 81
+- year: 2010
+  event: Canada Cup (Women)
+  team: JJ
+  position: Third
+  games: 5
+  wins: 3
+  losses: 2
+  inturn-total: 53
+  inturn-percent: 74
+  outturn-total: 33
+  outturn-percent: 83
+  draw-total: 35
+  draw-percent: 70
+  takeout-total: 51
+  takeout-percent: 83
+  shots-total: 86
+  shots-percent: 78
+- year: 2011
+  event: Canada Cup (Women)
+  team: JON
+  position: Third
+  games: 8
+  wins: 5
+  losses: 3
+  inturn-total: 73
+  inturn-percent: 80
+  outturn-total: 81
+  outturn-percent: 86
+  draw-total: 56
+  draw-percent: 83
+  takeout-total: 98
+  takeout-percent: 83
+  shots-total: 154
+  shots-percent: 83
+- year: 2012
+  event: Canada Cup (Women)
+  team: JON
+  position: Fourth
+  games: 8
+  wins: 5
+  losses: 3
+  inturn-total: 94
+  inturn-percent: 68
+  outturn-total: 62
+  outturn-percent: 72
+  draw-total: 94
+  draw-percent: 70
+  takeout-total: 62
+  takeout-percent: 68
+  shots-total: 156
+  shots-percent: 69
+- year: 2014
+  event: Canada Cup (Women)
+  team: JON
+  position: Third
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 62
+  inturn-percent: 74
+  outturn-total: 56
+  outturn-percent: 79
+  draw-total: 45
+  draw-percent: 76
+  takeout-total: 73
+  takeout-percent: 77
+  shots-total: 118
+  shots-percent: 76
+- year: 2015
+  event: Canada Cup (Women)
+  team: JON
+  position: Third
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 61
+  inturn-percent: 82
+  outturn-total: 65
+  outturn-percent: 88
+  draw-total: 45
+  draw-percent: 83
+  takeout-total: 81
+  takeout-percent: 86
+  shots-total: 126
+  shots-percent: 85
+- year: 2016
+  event: Canada Cup (Women)
+  team: JON
+  position: Third
+  games: 7
+  wins: 6
+  losses: 1
+  inturn-total: 59
+  inturn-percent: 88
+  outturn-total: 67
+  outturn-percent: 79
+  draw-total: 26
+  draw-percent: 69
+  takeout-total: 100
+  takeout-percent: 87
+  shots-total: 126
+  shots-percent: 84
+- year: 2018
+  event: Canada Cup (Women)
+  team: Jone
+  position: Third
+  games: 9
+  wins: 7
+  losses: 2
+  inturn-total: 85
+  inturn-percent: 79
+  outturn-total: 93
+  outturn-percent: 84
+  draw-total: 69
+  draw-percent: 77
+  takeout-total: 109
+  takeout-percent: 84
+  shots-total: 178
+  shots-percent: 81
+- year: 2019
+  event: Canada Cup (Women)
+  team: Jone
+  position: Third
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 61
+  inturn-percent: 84
+  outturn-total: 55
+  outturn-percent: 75
+  draw-total: 62
+  draw-percent: 82
+  takeout-total: 54
+  takeout-percent: 76
+  shots-total: 116
+  shots-percent: 79
 - year: 2011
   event: Hearts
   team: CA
@@ -200,6 +367,7 @@ vs:
 - Baxter, Jen
 - Beauchamp, Sasha
 - Bell, Chelsey
+- Bernard, Cheryl
 - Birchard, Shannon
 - Birnie, Hailey
 - Birt, Suzanne
@@ -217,7 +385,9 @@ vs:
 - Cameron, Nancy
 - Camozzi, Rhona
 - Campbell, Jolene
+- Cannon, Theresa
 - Carey, Chelsea
+- Carmody, Erin
 - Carter, Sasha
 - Cheveldave, Amber
 - Chisholm, Candace
@@ -226,13 +396,16 @@ vs:
 - Collins, Katrina
 - Cooper, Kathryn
 - Cormier, Sharon
+- Cottrill, Katie
 - Court, Morgan
 - Courtney, Joanne
 - Crawford, Andrea
+- Crocker, Laura
 - Cunningham, Jennifer
 - Cunningham, Jessica
 - Curtis, Erica
 - Curtis, Stacie
+- Darbyshire, Carolyn
 - deJager, Blaine
 - deSolla, Jodie
 - Devereaux, Julie
@@ -251,6 +424,7 @@ vs:
 - Fleury, Tracy
 - Forward, Katie
 - Foster, Kristen
+- Foster, Vanessa
 - Fraser, Sherry
 - Fullerton, Sarah
 - Fyfe, Liz
@@ -265,7 +439,9 @@ vs:
 - Hamon, Callan
 - Hanna, Jenn
 - Hanna, Stephanie
+- Hardy, Shelley
 - Hastings, Julie
+- Haughian, Jessie
 - Hawes, Dezaray
 - Holland, Amber
 - Holtby, Taryn
@@ -281,7 +457,9 @@ vs:
 - Kasner, Marliese
 - Kelly, Kim
 - Kleibrink, Shannon
+- Klein, Karen
 - Klymchuk, Ashley
+- Knapp, Breanne
 - Knezevic, Patti
 - Koehler, Megan
 - Koltun, Sarah
@@ -291,19 +469,25 @@ vs:
 - Larouche, Marie-France
 - Lavery, Tracey
 - Lawton, Stefanie
+- LeDrew, Stephanie
 - Lemay, Annie
+- Lemon, Colette
 - Lilly, Kendra
+- Loder, Jenna
 - Logan, Emma
 - MacCuish, Kristin
 - MacDonald, Lawnie
 - MacDonald, Rebecca Jean
 - MacDougall, Leslie
+- MacLean, Kari
 - MacPhee, Robyn
 - Mair, Jessica
 - Mann, Lauren
 - Martin, Heather
 - Materi, Roberta
 - McCarville, Krista
+- McDonald, Kristy
+- McDonald, Taylor
 - McInnis, Susan
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
@@ -314,6 +498,7 @@ vs:
 - Miller, Wendy
 - Miskew, Emma
 - Moore, Kristie
+- Morris, Cori
 - Moses, Dawn
 - Murphy, Jeanette
 - Murphy, Sarah
@@ -322,6 +507,7 @@ vs:
 - Nixon, Amy
 - Njegovan, Selena
 - Nowlan, Denise
+- O'Connor, Susan
 - O'Neill, Brit
 - O'Rourke, Brittany
 - Olson-Johns, Lori
@@ -337,13 +523,19 @@ vs:
 - Plonka, Gabrielle
 - Porter, Erin
 - Potts, Sarah
+- Preston, Samantha
 - Rainville, Julie
+- Ramsay, Geri Lynn
 - Recksiedler, Kristen
 - Richard, Marie
 - Rizzo, Jo-Ann
+- Robertson, Darcy
 - Robichaud, Sylvie
+- Rocque, Kelsey
+- Rogers, Rhonda
 - Ross, Allison
 - Rusnell, Jen
+- Sabourin, Joelle
 - Sagle, Karen
 - Sandwith, Carley
 - Scheidegger, Casey
@@ -353,10 +545,12 @@ vs:
 - Schneider, Tammy
 - Schraeder, Jeanna
 - Scott, Kelly
+- Seeley, Heather
 - Sharpe, Kelli
 - Shaw, Ladene
 - Shumay, Jill
 - Silvernagle, Robyn
+- Simons, Renee
 - Singler, Sherri
 - Sippala, Ashley
 - Slywka, Sarah
@@ -388,6 +582,7 @@ vs:
 - Wazney, Sarah
 - Weagle, Lisa
 - Webster, Bronwen
+- Webster, Crystal
 - Westcott, Raunora
 - Wilkes, Sarah
 - Williamson, Ashley

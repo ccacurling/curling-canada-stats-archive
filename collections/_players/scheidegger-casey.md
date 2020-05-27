@@ -3,6 +3,20 @@ title: Casey Scheidegger
 name: Casey Scheidegger
 name-sort: Scheidegger, Casey
 totals:
+- event: Canada Cup (Women)
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 81
+  inturn-percent: 78
+  outturn-total: 53
+  outturn-percent: 73
+  draw-total: 65
+  draw-percent: 72
+  takeout-total: 69
+  takeout-percent: 80
+  shots-total: 134
+  shots-percent: 76
 - event: Hearts
   games: 11
   wins: 7
@@ -32,6 +46,23 @@ totals:
   shots-total: 162
   shots-percent: 80
 years:
+- year: 2018
+  event: Canada Cup (Women)
+  team: Sche
+  position: Fourth
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 81
+  inturn-percent: 78
+  outturn-total: 53
+  outturn-percent: 73
+  draw-total: 65
+  draw-percent: 72
+  takeout-total: 69
+  takeout-percent: 80
+  shots-total: 134
+  shots-percent: 76
 - year: 2018
   event: Hearts
   team: AB
@@ -75,9 +106,11 @@ vs:
 - Bobbie, Tess
 - Brown, Rachel
 - Cameron, Kate
+- Cannon, Theresa
 - Carey, Chelsea
 - Court, Morgan
 - Courtney, Joanne
+- Crocker, Laura
 - Crouse, Jennifer
 - Curtis, Erica
 - Curtis, Stacie
@@ -89,6 +122,7 @@ vs:
 - Ferguson, Dana
 - Flaxey, Allison
 - Fleury, Tracy
+- Foster, Vanessa
 - Fullerton, Sarah
 - Fyfe, Liz
 - Gagnon, Emilia
@@ -100,6 +134,7 @@ vs:
 - Hughes, Meaghan
 - Hutchings, Denise
 - Jones, Jennifer
+- Klein, Karen
 - Kreviazuk, Cheryl
 - Kreviazuk, Lynn
 - Lawes, Kaitlyn
@@ -109,8 +144,10 @@ vs:
 - Mackey, Robyn
 - MacPhee, Robyn
 - McCarville, Krista
+- McDonald, Taylor
 - McEwen, Dawn
 - McQuaid, Michelle
+- Meilleur, Briane
 - Miskew, Emma
 - Njegovan, Selena
 - Officer, Jill
@@ -121,6 +158,7 @@ vs:
 - Peters, Laine
 - Porter, Erin
 - Potts, Sarah
+- Robertson, Darcy
 - Sagle, Karen
 - Shackleton, Amie
 - Sippala, Ashley
@@ -136,5 +174,6 @@ vs:
 - Webster, Crystal
 - West, Christianne
 - Westcott, Raunora
+- Wilkes, Sarah
 - Wilson, Leslie
 ---

@@ -13,6 +13,15 @@ vs:
       percent: 84
       wins: 3
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 0
+      losses: 2
+    player2:
+      percent: 79
+      wins: 2
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 84
@@ -72,6 +81,38 @@ vs:
     draw: Page 1-2(20)
     score: SK 4 - AB 9
   - player1:
+      team: Duns
+      position: Third
+      percent: 91
+      win: 0
+      loss: 1
+    player2:
+      team: Bott
+      position: Third
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(6)
+    score: Duns 6 - Bott 8
+  - player1:
+      team: Duns
+      position: Third
+      percent: 84
+      win: 0
+      loss: 1
+    player2:
+      team: Bott
+      position: Third
+      percent: 70
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(5)
+    score: Duns 4 - Bott 5
+  - player1:
       team: Carr
       position: Third
       percent: 84
@@ -126,6 +167,15 @@ vs:
       percent: 82
       wins: 1
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 76
+      wins: 0
+      losses: 2
+    player2:
+      percent: 84
+      wins: 2
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 88
@@ -169,6 +219,38 @@ vs:
     draw: Round Robin(3)
     score: SK 5 - MB 7
   - player1:
+      team: CAR
+      position: Third
+      percent: 71
+      win: 0
+      loss: 1
+    player2:
+      team: LAY
+      position: Lead
+      percent: 85
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(2)
+    score: LAY 7 - CAR 6
+  - player1:
+      team: CAR
+      position: Third
+      percent: 81
+      win: 0
+      loss: 1
+    player2:
+      team: LAY
+      position: Lead
+      percent: 84
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(7)
+    score: CAR 3 - LAY 5
+  - player1:
       team: Carr
       position: Third
       percent: 88
@@ -195,6 +277,15 @@ vs:
       percent: 85
       wins: 1
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 76
+      wins: 0
+      losses: 2
+    player2:
+      percent: 76
+      wins: 2
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 88
@@ -237,6 +328,38 @@ vs:
     year: 2018
     draw: Round Robin(3)
     score: SK 5 - MB 7
+  - player1:
+      team: CAR
+      position: Third
+      percent: 71
+      win: 0
+      loss: 1
+    player2:
+      team: LAY
+      position: Third
+      percent: 68
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(2)
+    score: LAY 7 - CAR 6
+  - player1:
+      team: CAR
+      position: Third
+      percent: 81
+      win: 0
+      loss: 1
+    player2:
+      team: LAY
+      position: Third
+      percent: 85
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(7)
+    score: CAR 3 - LAY 5
   - player1:
       team: Carr
       position: Third
@@ -348,6 +471,15 @@ vs:
       percent: 88
       wins: 1
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 85
+      wins: 1
+      losses: 2
+    player2:
+      percent: 90
+      wins: 2
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 94
@@ -391,6 +523,54 @@ vs:
     draw: Round Robin(11)
     score: CA 4 - SK 5
   - player1:
+      team: CAR
+      position: Third
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Third
+      percent: 86
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(4)
+    score: CAR 4 - MCE 9
+  - player1:
+      team: CAR
+      position: Third
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: MCE
+      position: Third
+      percent: 93
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(6)
+    score: MCE 3 - CAR 4
+  - player1:
+      team: Duns
+      position: Third
+      percent: 78
+      win: 0
+      loss: 1
+    player2:
+      team: Koe
+      position: Third
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(8)
+    score: Koe 8 - Duns 3
+  - player1:
       team: Carr
       position: Third
       percent: 94
@@ -417,6 +597,15 @@ vs:
       percent: 100
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 89
+      wins: 1
+      losses: 1
+    player2:
+      percent: 86
+      wins: 1
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 94
@@ -443,6 +632,38 @@ vs:
     year: 2018
     draw: Pool(19)
     score: MB 3 - WC 8
+  - player1:
+      team: CAR
+      position: Third
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Lead
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(4)
+    score: CAR 4 - MCE 9
+  - player1:
+      team: CAR
+      position: Third
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: MCE
+      position: Lead
+      percent: 84
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(6)
+    score: MCE 3 - CAR 4
   - player1:
       team: Carr
       position: Third
@@ -496,6 +717,15 @@ vs:
       losses: 3
     player2:
       percent: 90
+      wins: 3
+      losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 84
+      wins: 2
+      losses: 3
+    player2:
+      percent: 89
       wins: 3
       losses: 2
   - event: Trials(Men)
@@ -588,6 +818,86 @@ vs:
     year: 2020
     draw: Semi-Final(22)
     score: SK 6 - NL 7
+  - player1:
+      team: CAR
+      position: Third
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: GUS
+      position: Third
+      percent: 90
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(3)
+    score: CAR 5 - GUS 4
+  - player1:
+      team: CAR
+      position: Third
+      percent: 78
+      win: 0
+      loss: 1
+    player2:
+      team: GUS
+      position: Fourth
+      percent: 80
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(3)
+    score: CAR 6 - GUS 7
+  - player1:
+      team: CAR
+      position: Third
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: GUS
+      position: Fourth
+      percent: 83
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Final(13)
+    score: GUS 6 - CAR 8
+  - player1:
+      team: Duns
+      position: Third
+      percent: 76
+      win: 0
+      loss: 1
+    player2:
+      team: Gush
+      position: Third
+      percent: 95
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(1)
+    score: Gush 7 - Duns 4
+  - player1:
+      team: Duns
+      position: Third
+      percent: 90
+      win: 0
+      loss: 1
+    player2:
+      team: Gush
+      position: Third
+      percent: 94
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(2)
+    score: Gush 9 - Duns 7
   - player1:
       team: Carr
       position: Third
@@ -727,6 +1037,15 @@ vs:
       percent: 85
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 91
+      wins: 0
+      losses: 1
+    player2:
+      percent: 94
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: MB
@@ -744,6 +1063,22 @@ vs:
     year: 2015
     draw: Round Robin(1)
     score: CA 6 - MB 4
+  - player1:
+      team: CAR
+      position: Third
+      percent: 91
+      win: 0
+      loss: 1
+    player2:
+      team: SIM
+      position: Second
+      percent: 94
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(5)
+    score: CAR 4 - SIM 5
 - name: Saccary, Scott
   totals:
   - event: Brier
@@ -783,6 +1118,15 @@ vs:
       percent: 90
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 92
+      wins: 1
+      losses: 0
+    player2:
+      percent: 91
+      wins: 0
+      losses: 1
   games:
   - player1:
       team: SK
@@ -800,6 +1144,22 @@ vs:
     year: 2020
     draw: Round Robin(2)
     score: SK 3 - WC 5
+  - player1:
+      team: Duns
+      position: Third
+      percent: 92
+      win: 1
+      loss: 0
+    player2:
+      team: Carr
+      position: Second
+      percent: 91
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(7)
+    score: Duns 7 - Carr 3
 - name: Savill, Craig
   totals:
   - event: Brier
@@ -809,6 +1169,15 @@ vs:
       losses: 1
     player2:
       percent: 83
+      wins: 1
+      losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 0
+      losses: 1
+    player2:
+      percent: 89
       wins: 1
       losses: 0
   games:
@@ -828,6 +1197,22 @@ vs:
     year: 2013
     draw: Round Robin(3)
     score: SK 5 - ON 7
+  - player1:
+      team: Duns
+      position: Third
+      percent: 81
+      win: 0
+      loss: 1
+    player2:
+      team: Eppi
+      position: Lead
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(9)
+    score: Eppi 7 - Duns 5
 - name: Sawatsky, Rick
   totals:
   - event: Brier
@@ -911,6 +1296,15 @@ vs:
       percent: 81
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 91
+      wins: 0
+      losses: 1
+    player2:
+      percent: 94
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: MB
@@ -928,6 +1322,22 @@ vs:
     year: 2015
     draw: Round Robin(1)
     score: CA 6 - MB 4
+  - player1:
+      team: CAR
+      position: Third
+      percent: 91
+      win: 0
+      loss: 1
+    player2:
+      team: SIM
+      position: Fourth
+      percent: 94
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(5)
+    score: CAR 4 - SIM 5
 - name: Smith, Kent
   totals:
   - event: Brier
@@ -1067,6 +1477,15 @@ vs:
       percent: 91
       wins: 3
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 0
+      losses: 2
+    player2:
+      percent: 93
+      wins: 2
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 84
@@ -1126,6 +1545,38 @@ vs:
     draw: Page 1-2(20)
     score: SK 4 - AB 9
   - player1:
+      team: Duns
+      position: Third
+      percent: 91
+      win: 0
+      loss: 1
+    player2:
+      team: Bott
+      position: Second
+      percent: 95
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(6)
+    score: Duns 6 - Bott 8
+  - player1:
+      team: Duns
+      position: Third
+      percent: 84
+      win: 0
+      loss: 1
+    player2:
+      team: Bott
+      position: Second
+      percent: 90
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(5)
+    score: Duns 4 - Bott 5
+  - player1:
       team: Carr
       position: Third
       percent: 84
@@ -1152,6 +1603,15 @@ vs:
       percent: 83
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 91
+      wins: 0
+      losses: 1
+    player2:
+      percent: 89
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: MB
@@ -1169,6 +1629,22 @@ vs:
     year: 2015
     draw: Round Robin(1)
     score: CA 6 - MB 4
+  - player1:
+      team: CAR
+      position: Third
+      percent: 91
+      win: 0
+      loss: 1
+    player2:
+      team: SIM
+      position: Lead
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(5)
+    score: CAR 4 - SIM 5
 - name: Trepanier, Jean-Francois
   totals:
   - event: Brier
@@ -1206,6 +1682,15 @@ vs:
       losses: 3
     player2:
       percent: 89
+      wins: 3
+      losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 84
+      wins: 2
+      losses: 3
+    player2:
+      percent: 92
       wins: 3
       losses: 2
   - event: Trials(Men)
@@ -1298,6 +1783,86 @@ vs:
     year: 2020
     draw: Semi-Final(22)
     score: SK 6 - NL 7
+  - player1:
+      team: CAR
+      position: Third
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: GUS
+      position: Lead
+      percent: 89
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(3)
+    score: CAR 5 - GUS 4
+  - player1:
+      team: CAR
+      position: Third
+      percent: 78
+      win: 0
+      loss: 1
+    player2:
+      team: GUS
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(3)
+    score: CAR 6 - GUS 7
+  - player1:
+      team: CAR
+      position: Third
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: GUS
+      position: Lead
+      percent: 94
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Final(13)
+    score: GUS 6 - CAR 8
+  - player1:
+      team: Duns
+      position: Third
+      percent: 76
+      win: 0
+      loss: 1
+    player2:
+      team: Gush
+      position: Lead
+      percent: 93
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(1)
+    score: Gush 7 - Duns 4
+  - player1:
+      team: Duns
+      position: Third
+      percent: 90
+      win: 0
+      loss: 1
+    player2:
+      team: Gush
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2019
+    draw: Round Robin(2)
+    score: Gush 9 - Duns 7
   - player1:
       team: Carr
       position: Third
@@ -1437,6 +2002,15 @@ vs:
       percent: 88
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 89
+      wins: 1
+      losses: 1
+    player2:
+      percent: 85
+      wins: 1
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 94
@@ -1464,6 +2038,38 @@ vs:
     draw: Pool(19)
     score: MB 3 - WC 8
   - player1:
+      team: CAR
+      position: Third
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Second
+      percent: 94
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(4)
+    score: CAR 4 - MCE 9
+  - player1:
+      team: CAR
+      position: Third
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: MCE
+      position: Second
+      percent: 78
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(6)
+    score: MCE 3 - CAR 4
+  - player1:
       team: Carr
       position: Third
       percent: 94
@@ -1479,6 +2085,50 @@ vs:
     year: 2017
     draw: Round Robin(2)
     score: Carr 3 - McEw 7
+- name: Thomas, Charley
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 82
+      wins: 1
+      losses: 1
+    player2:
+      percent: 84
+      wins: 1
+      losses: 1
+  games:
+  - player1:
+      team: CAR
+      position: Third
+      percent: 78
+      win: 0
+      loss: 1
+    player2:
+      team: GUS
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(3)
+    score: CAR 6 - GUS 7
+  - player1:
+      team: CAR
+      position: Third
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: GUS
+      position: Third
+      percent: 84
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Final(13)
+    score: GUS 6 - CAR 8
 - name: Schneider, Catlin
   totals:
   - event: Trials(Men)

@@ -17,6 +17,20 @@ totals:
   takeout-percent: 84
   shots-total: 446
   shots-percent: 85
+- event: Canada Cup (Men)
+  games: 17
+  wins: 4
+  losses: 13
+  inturn-total: 177
+  inturn-percent: 85
+  outturn-total: 136
+  outturn-percent: 85
+  draw-total: 212
+  draw-percent: 85
+  takeout-total: 101
+  takeout-percent: 86
+  shots-total: 313
+  shots-percent: 85
 - event: Trials (Men)
   games: 9
   wins: 5
@@ -70,6 +84,57 @@ years:
   event: Brier
   team: BC
   position: Alternate
+- year: 2003
+  event: Canada Cup (Men)
+  team: Ryan
+  position: Lead
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 73
+  inturn-percent: 92
+  outturn-total: 52
+  outturn-percent: 93
+  draw-total: 108
+  draw-percent: 92
+  takeout-total: 17
+  takeout-percent: 96
+  shots-total: 125
+  shots-percent: 93
+- year: 2005
+  event: Canada Cup (Men)
+  team: Rya
+  position: Second
+  games: 5
+  wins: 0
+  losses: 5
+  inturn-total: 52
+  inturn-percent: 84
+  outturn-total: 44
+  outturn-percent: 85
+  draw-total: 54
+  draw-percent: 81
+  takeout-total: 42
+  takeout-percent: 89
+  shots-total: 96
+  shots-percent: 84
+- year: 2006
+  event: Canada Cup (Men)
+  team: Cot
+  position: Third
+  games: 5
+  wins: 0
+  losses: 5
+  inturn-total: 52
+  inturn-percent: 76
+  outturn-total: 40
+  outturn-percent: 76
+  draw-total: 50
+  draw-percent: 74
+  takeout-total: 42
+  takeout-percent: 79
+  shots-total: 92
+  shots-percent: 76
 - year: 2005
   event: Trials (Men)
   team: RYA
@@ -88,13 +153,19 @@ years:
   shots-total: 174
   shots-percent: 87
 vs:
+- Adams, Mike
 - Adams, Shawn
+- Balsdon, Greg
 - Bartlett, Don
+- Base, John
 - Bitz, Scott
 - Blanchard, Ben
+- Blaylock, Bryan
+- Bowser, Don
 - Brodersen, Erik
 - Bryant, Doug
 - Bubbs, John
+- Bucholz, Rob
 - Bucyk, James
 - Burgess, Craig
 - Campbell, Robert
@@ -102,8 +173,11 @@ vs:
 - Cochrane, Bryan
 - Collins, Ron
 - Cowan, Chad
+- Cripps, Scott
+- Cursons, Neil
 - Dacey, Mark
 - Desilets, Mike
+- Dickson, Rob
 - Dillon, Mike
 - Elias, Dave
 - Elmaleh, Maxime
@@ -111,6 +185,7 @@ vs:
 - Fenton, Brad
 - Ferbey, Randy
 - Flemming, Paul
+- Folk, Kevin
 - Frans, Joe
 - Gagnon, Jean
 - Gamble, Bill
@@ -121,8 +196,10 @@ vs:
 - Gushue, Brad
 - Harcourt, Doug
 - Harcourt, Greg
+- Harris, Mike
 - Harris, Rob
 - Hart, Richard
+- Hebert, Ben
 - Hemmings, Guy
 - Henderson, Scott
 - Hong, Doug
@@ -131,11 +208,15 @@ vs:
 - Howard, Russ
 - Jenion, Bob
 - Jenkins, Bill
+- Johnson, Mark
+- Jordison, Joel
 - Kalthoff, Kevin
 - Kelsch, Dan
+- Kennedy, Glen
 - Kennedy, Marc
 - Kerr, Ian
 - Kilgallen, Shane
+- Koe, Jamie
 - Koe, Kevin
 - Korab, Jamie
 - Laing, Brent
@@ -145,6 +226,7 @@ vs:
 - Leech, Ron
 - Likely, John
 - Lindsay, Tim
+- Loevenmark, Phil
 - Lohnes, Bruce
 - Lukowich, Mark
 - MacAulay, Ian
@@ -152,8 +234,10 @@ vs:
 - McCusker, Brian
 - McDonald, Toby
 - Mead, Jon
+- Mead, Jonathan
 - Menard, Jean-Michel
 - Mikkelsen, Ray
+- Miller, Ryan
 - Milward, Ross
 - Mittelstadt, Kelly
 - Moffatt, Paul
@@ -165,15 +249,19 @@ vs:
 - Noseworthy, Mark
 - Odishaw, Grant
 - Peachey, Jay
+- Perepolkin, T.J.
 - Pfeifer, Scott
 - Phillips, Tim
+- Prebble, Darryl
 - Recksiedler, Kevin
 - Roberge, Francois
 - Rocque, Marcel
+- Ryan, Keith
 - Rycroft, Carter
 - Savill, Craig
 - Scales, Bob
 - Scoffin, Wade
+- Simmons, Pat
 - Smith, Jeff
 - Solberg, Jonathon
 - Steski, John
@@ -182,9 +270,14 @@ vs:
 - Suchy, Chris
 - Sylvain, Eric
 - Turpin, Randy
+- Ursel, Bob
+- Van Den Berghe, Garry
 - Vandenberghe, Garry
 - Walchuk, Don
+- Wall, Trevor
 - Ward, Mark
 - Wempe, Brian
+- Westlund, Mike
 - Westphal, Don
+- Willis, Brendan
 ---

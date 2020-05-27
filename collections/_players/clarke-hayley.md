@@ -3,6 +3,20 @@ title: Hayley Clarke
 name: Hayley Clarke
 name-sort: Clarke, Hayley
 totals:
+- event: Canada Cup (Women)
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 62
+  inturn-percent: 65
+  outturn-total: 57
+  outturn-percent: 68
+  draw-total: 92
+  draw-percent: 68
+  takeout-total: 27
+  takeout-percent: 62
+  shots-total: 119
+  shots-percent: 67
 - event: Hearts
   games: 11
   wins: 3
@@ -22,6 +36,23 @@ totals:
   wins: 0
   losses: 0
 years:
+- year: 2004
+  event: Canada Cup (Women)
+  team: JAC
+  position: Lead
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 62
+  inturn-percent: 65
+  outturn-total: 57
+  outturn-percent: 68
+  draw-total: 92
+  draw-percent: 68
+  takeout-total: 27
+  takeout-percent: 62
+  shots-total: 119
+  shots-percent: 67
 - year: 1998
   event: Hearts
   team: NS
@@ -49,12 +80,17 @@ years:
   position: Alternate
 vs:
 - Aleksic, Shannon
+- Anderson, Sherry
 - Arnott, Janet
+- Bakker, Glenys
+- Bergner, Sasha
 - Bernard, Cheryl
 - Betker, Jan
 - Birt, Suzanne
+- Bryden, Renelle
 - Carter, Sasha
 - Comeau, Sandy
+- Cordina, Sheri
 - Daniel, Sylvie
 - Darbyshire, Carolyn
 - Derick, Catherine
@@ -62,22 +98,31 @@ vs:
 - Gagnier, Monique
 - Galusha, Kerry
 - George, Tara
+- Gignac, Donna
 - Gudereit, Marcia
 - Hardy, Shelley
+- Hodson, Kim
 - Inglis, Nancy
 - Jones, Jennifer
+- Kleibrink, Shannon
 - Lang, Lorraine
 - Law, Kelley
+- Lawes, Andrea
 - MacPhee, Robyn
+- Marchand, Stephanie
+- Mattheis, Shannon
 - McCarville, Krista
+- Middaugh, Sherry
 - Morgan, Cheryl
 - Morris, Cori
 - Moses, Dawn
+- Mulroney, Sandra
 - Murphy, Jeanette
+- Nixon, Amy
 - Nowlan, Denise
 - O'Connor, Susan
-- Officer, Jill
 - O'Leary, Susan
+- Officer, Jill
 - Osborne, Chantal
 - Overton-Clapham, Cathy
 - Power, Marie-Anne
@@ -86,10 +131,12 @@ vs:
 - Scott, Kelly
 - Sharpe, Kelli
 - Simons, Renee
+- Smith, Nancy
 - Strong, Heather
 - Strong, Laura
 - Stubbings, Tiffany
 - Vey, Lana
+- Wall, Kirsten
 - Wheatcroft, Georgina
 - Whitaker, Carol
 ---

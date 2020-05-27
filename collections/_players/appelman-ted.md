@@ -17,6 +17,20 @@ totals:
   takeout-percent: 75
   shots-total: 20
   shots-percent: 91
+- event: Canada Cup (Men)
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 57
+  inturn-percent: 76
+  outturn-total: 37
+  outturn-percent: 80
+  draw-total: 50
+  draw-percent: 76
+  takeout-total: 44
+  takeout-percent: 80
+  shots-total: 94
+  shots-percent: 78
 - event: Trials (Men)
   games: 0
   wins: 0
@@ -57,16 +71,53 @@ years:
   shots-total: 4
   shots-percent: 94
 - year: 2009
+  event: Canada Cup (Men)
+  team: APPE
+  position: Fourth
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 57
+  inturn-percent: 76
+  outturn-total: 37
+  outturn-percent: 80
+  draw-total: 50
+  draw-percent: 76
+  takeout-total: 44
+  takeout-percent: 80
+  shots-total: 94
+  shots-percent: 78
+- year: 2009
   event: Trials (Men)
   team: GUNN
   position: Alternate
 vs:
+- Burtnyk, Kerry
+- Daneault, Richard
+- Ferbey, Randy
+- Fowler, Rob
+- Gould, Steve
+- Hebert, Ben
 - Jensen, Trygg
 - Kendall, Lloyd
+- Kennedy, Marc
+- Koe, Kevin
+- MacDonald, Blake
 - Mackey, Peter
+- Martin, Kevin
+- Morris, John
 - Nadeau, Jeff
+- Nedohin, David
+- Park, Kevin
+- Pfeifer, Scott
+- Rocque, Marcel
+- Rycroft, Carter
 - Scoffin, Thomas
+- Smith, Garth
 - St.Louis, David
+- Stoughton, Jeff
+- Thiessen, Nolan
+- Walchuk, Don
 - Wallingham, Joe
 - Winfield, Brett
 ---

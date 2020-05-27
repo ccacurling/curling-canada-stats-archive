@@ -3,6 +3,20 @@ title: Jocelyn Peterman
 name: Jocelyn Peterman
 name-sort: Peterman, Jocelyn
 totals:
+- event: Canada Cup (Women)
+  games: 27
+  wins: 14
+  losses: 13
+  inturn-total: 288
+  inturn-percent: 82
+  outturn-total: 233
+  outturn-percent: 82
+  draw-total: 223
+  draw-percent: 82
+  takeout-total: 298
+  takeout-percent: 82
+  shots-total: 521
+  shots-percent: 82
 - event: Hearts
   games: 49
   wins: 35
@@ -32,6 +46,74 @@ totals:
   shots-total: 172
   shots-percent: 83
 years:
+- year: 2014
+  event: Canada Cup (Women)
+  team: NED
+  position: Second
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 70
+  inturn-percent: 87
+  outturn-total: 50
+  outturn-percent: 80
+  draw-total: 32
+  draw-percent: 77
+  takeout-total: 88
+  takeout-percent: 87
+  shots-total: 120
+  shots-percent: 84
+- year: 2016
+  event: Canada Cup (Women)
+  team: CAR
+  position: Second
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 54
+  inturn-percent: 71
+  outturn-total: 56
+  outturn-percent: 82
+  draw-total: 56
+  draw-percent: 76
+  takeout-total: 54
+  takeout-percent: 77
+  shots-total: 110
+  shots-percent: 77
+- year: 2018
+  event: Canada Cup (Women)
+  team: Jone
+  position: Second
+  games: 9
+  wins: 7
+  losses: 2
+  inturn-total: 100
+  inturn-percent: 83
+  outturn-total: 75
+  outturn-percent: 80
+  draw-total: 70
+  draw-percent: 85
+  takeout-total: 105
+  takeout-percent: 80
+  shots-total: 175
+  shots-percent: 82
+- year: 2019
+  event: Canada Cup (Women)
+  team: Jone
+  position: Second
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 64
+  inturn-percent: 85
+  outturn-total: 52
+  outturn-percent: 86
+  draw-total: 65
+  draw-percent: 85
+  takeout-total: 51
+  takeout-percent: 86
+  shots-total: 116
+  shots-percent: 86
 - year: 2016
   event: Hearts
   team: AB
@@ -120,6 +202,7 @@ years:
 vs:
 - Alcoe-Holland, Jill
 - Aleksic, Shannon
+- Anderson, Sherry
 - Armstrong, Jennifer
 - Arsenault, Mary-Anne
 - Atkinson, Rebecca
@@ -129,6 +212,7 @@ vs:
 - Barker, Penny
 - Baxter, Jen
 - Belisle, Eve
+- Bernard, Cheryl
 - Birchard, Shannon
 - Birnie, Hailey
 - Birt, Suzanne
@@ -141,13 +225,16 @@ vs:
 - Brown, Rachel
 - Cameron, Kate
 - Campbell, Jolene
+- Cannon, Theresa
 - Carey, Chelsea
 - Christianson, Marie
 - Clark-Rouire, Jennifer
 - Cormier, Sharon
+- Cottrill, Katie
 - Court, Morgan
 - Courtney, Joanne
 - Crawford, Andrea
+- Crocker, Laura
 - Curtis, Erica
 - Curtis, Stacie
 - Cutcliffe, Margaret
@@ -157,21 +244,27 @@ vs:
 - Doig, Deanna
 - Duhaime, Chantal
 - Duncan, Chelsea
+- Eddy, Lori
 - Einarson, Kerri
 - Englot, Michelle
 - Eyamie, Lisa
 - Ferguson, Dana
 - Flaxey, Allison
+- Fleury, Tracy
 - Forward, Katie
+- Foster, Kristen
+- Foster, Vanessa
 - Fullerton, Sarah
 - Fyfe, Liz
 - Galusha, Kerry
+- Gates, Amanda
 - Gates, Jennifer
 - Grandy, Clancy
 - Hamilton, Beth
 - Hamon, Callan
 - Hanna, Jenn
 - Hanna, Stephanie
+- Haughian, Jessie
 - Hawes, Dezaray
 - Hill, Trish
 - Homan, Rachel
@@ -179,8 +272,11 @@ vs:
 - Hughes, Meaghan
 - Hunkin, Jessie
 - Jones, Jennifer
+- Kasner, Marliese
 - Kleibrink, Shannon
+- Klein, Karen
 - Klymchuk, Ashley
+- Knapp, Breanne
 - Koehler, Megan
 - Koltun, Sarah
 - Kreviazuk, Lynn
@@ -197,10 +293,13 @@ vs:
 - Mann, Lauren
 - Mattatall, Mary
 - McCarville, Krista
+- McDonald, Taylor
 - McEwen, Dawn
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
 - Meilleur, Briane
+- Merklinger, Lee
+- Middaugh, Sherry
 - Miskew, Emma
 - Moore, Kristie
 - Murphy, Sarah
@@ -211,6 +310,8 @@ vs:
 - O'Rourke, Brittany
 - Officer, Jill
 - Olson-Johns, Lori
+- Overton-Clapham, Cathy
+- Peters, Laine
 - Pilote, Kristen
 - Pincott, Erin
 - Plonka, Gabrielle
@@ -221,17 +322,21 @@ vs:
 - Richard, Marie
 - Richards, Brette
 - Rizzo, Jo-Ann
+- Robertson, Darcy
 - Robichaud, Sylvie
+- Rocque, Kelsey
 - Rusnell, Jen
 - Sagle, Karen
 - Sandwith, Carley
 - Saulnier, Andrea
 - Scheidegger, Casey
 - Scheidegger, Jessie
+- Schmidt, Stephanie
 - Schneider, Lorraine
 - Shaw, Ladene
 - Sicinski, Danielle
 - Silvernagle, Robyn
+- Singler, Sherri
 - Sippala, Ashley
 - Strong, Helen
 - Sweeting, Val
@@ -246,8 +351,10 @@ vs:
 - Vandale, Trysta
 - Vautour, Carrie
 - Vink, Rachelle
+- Walsh, Jenna
 - Wark, Sarah
 - Weagle, Lisa
+- Webster, Crystal
 - Westcott, Raunora
 - Wilkes, Sarah
 - Williamson, Ashley

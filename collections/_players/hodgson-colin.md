@@ -17,6 +17,20 @@ totals:
   takeout-percent: 87
   shots-total: 834
   shots-percent: 92
+- event: Canada Cup (Men)
+  games: 21
+  wins: 8
+  losses: 13
+  inturn-total: 178
+  inturn-percent: 86
+  outturn-total: 218
+  outturn-percent: 90
+  draw-total: 337
+  draw-percent: 89
+  takeout-total: 59
+  takeout-percent: 84
+  shots-total: 396
+  shots-percent: 88
 - event: Trials (Men)
   games: 8
   wins: 4
@@ -100,6 +114,57 @@ years:
   takeout-percent: 91
   shots-total: 226
   shots-percent: 93
+- year: 2015
+  event: Canada Cup (Men)
+  team: CAR
+  position: Lead
+  games: 7
+  wins: 2
+  losses: 5
+  inturn-total: 80
+  inturn-percent: 84
+  outturn-total: 52
+  outturn-percent: 87
+  draw-total: 112
+  draw-percent: 86
+  takeout-total: 20
+  takeout-percent: 79
+  shots-total: 132
+  shots-percent: 85
+- year: 2016
+  event: Canada Cup (Men)
+  team: CAR
+  position: Lead
+  games: 8
+  wins: 6
+  losses: 2
+  inturn-total: 64
+  inturn-percent: 87
+  outturn-total: 90
+  outturn-percent: 92
+  draw-total: 125
+  draw-percent: 91
+  takeout-total: 29
+  takeout-percent: 85
+  shots-total: 154
+  shots-percent: 90
+- year: 2018
+  event: Canada Cup (Men)
+  team: Carr
+  position: Lead
+  games: 6
+  wins: 0
+  losses: 6
+  inturn-total: 34
+  inturn-percent: 90
+  outturn-total: 76
+  outturn-percent: 89
+  draw-total: 100
+  draw-percent: 89
+  takeout-total: 10
+  takeout-percent: 93
+  shots-total: 110
+  shots-percent: 90
 - year: 2017
   event: Trials (Men)
   team: Carr
@@ -210,6 +275,7 @@ vs:
 - Rach, Dave
 - Rycroft, Carter
 - Saccary, Scott
+- Savill, Craig
 - Sawatsky, Rick
 - Schneider, Catlin
 - Scoffin, Thomas
@@ -221,6 +287,7 @@ vs:
 - Symonds, Andrew
 - Thiessen, Brad
 - Thiessen, Nolan
+- Thomas, Charley
 - Trepanier, Jean-Francois
 - Walker, Geoff
 - Wallingham, Joe

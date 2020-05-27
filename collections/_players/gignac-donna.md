@@ -3,6 +3,20 @@ title: Donna Gignac
 name: Donna Gignac
 name-sort: Gignac, Donna
 totals:
+- event: Canada Cup (Women)
+  games: 23
+  wins: 13
+  losses: 10
+  inturn-total: 244
+  inturn-percent: 86
+  outturn-total: 210
+  outturn-percent: 87
+  draw-total: 344
+  draw-percent: 88
+  takeout-total: 110
+  takeout-percent: 82
+  shots-total: 454
+  shots-percent: 87
 - event: Hearts
   games: 49
   wins: 31
@@ -32,6 +46,74 @@ totals:
   shots-total: 352
   shots-percent: 82
 years:
+- year: 2003
+  event: Canada Cup (Women)
+  team: Ande
+  position: Lead
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 55
+  inturn-percent: 88
+  outturn-total: 47
+  outturn-percent: 82
+  draw-total: 79
+  draw-percent: 85
+  takeout-total: 23
+  takeout-percent: 87
+  shots-total: 102
+  shots-percent: 85
+- year: 2004
+  event: Canada Cup (Women)
+  team: AND
+  position: Lead
+  games: 6
+  wins: 4
+  losses: 2
+  inturn-total: 64
+  inturn-percent: 88
+  outturn-total: 54
+  outturn-percent: 88
+  draw-total: 79
+  draw-percent: 88
+  takeout-total: 39
+  takeout-percent: 88
+  shots-total: 118
+  shots-percent: 88
+- year: 2007
+  event: Canada Cup (Women)
+  team: And
+  position: Lead
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 69
+  inturn-percent: 86
+  outturn-total: 60
+  outturn-percent: 90
+  draw-total: 101
+  draw-percent: 91
+  takeout-total: 28
+  takeout-percent: 77
+  shots-total: 129
+  shots-percent: 88
+- year: 2008
+  event: Canada Cup (Women)
+  team: ANDE
+  position: Lead
+  games: 5
+  wins: 3
+  losses: 2
+  inturn-total: 56
+  inturn-percent: 84
+  outturn-total: 49
+  outturn-percent: 86
+  draw-total: 85
+  draw-percent: 88
+  takeout-total: 20
+  takeout-percent: 73
+  shots-total: 105
+  shots-percent: 85
 - year: 1994
   event: Hearts
   team: SK
@@ -144,15 +226,20 @@ vs:
 - Aucoin, Shelley
 - Baker, Rose-Marie
 - Bakker, Glenys
+- Baleja, Susan
 - Belanger, Nancy
+- Bell, Chelsey
 - Bell, Patty
 - Belley, Joelle
+- Bergner, Sasha
+- Bernard, Cheryl
 - Bernard, Krista
 - Betker, Jan
 - Beveridge, Corie
 - Birt, Suzanne
 - Blackburn, Julie
 - Blair, Diane
+- Blair, Janice
 - Blanchard, Judy
 - Blashko, Denise
 - Bohmer, Brenda
@@ -164,11 +251,15 @@ vs:
 - Brown, Janet
 - Brown, Maureen
 - Bryant, Angie
+- Bryden, Renelle
 - Burlington, Cheryl
+- Bush, Tracy
 - Cameron, Nancy
 - Carter, Sasha
 - Charette, Agnes
 - Charette, France
+- Clarke, Hayley
+- Comstock, Melanie
 - Cooke, Gerri
 - Copeland, Rae Ann
 - Cordina, Sheri
@@ -178,12 +269,14 @@ vs:
 - Dalio, Diane
 - Daniel, Sylvie
 - Darbyshire, Carolyn
+- Dealy, Diane
 - Delahunt, Nancy
 - Derick, Catherine
 - Dezura, Diane
 - Dobson, Sue
 - Dolan, Kim
 - Englot, Michelle
+- Enright, Barb
 - Fallis, Karen
 - Fallis-Kurz, Lynn
 - Farrell, Allison
@@ -196,6 +289,7 @@ vs:
 - Fraser, Sherry
 - Freeman, Lisa
 - Frey, Audrey
+- Froud, Susan
 - Gagnier, Monique
 - Gagnon, Karo
 - Gagnon, Nathalie
@@ -209,9 +303,13 @@ vs:
 - Grenier, Valerie
 - Gudereit, Marcia
 - Gushulak, Diane
+- Hamer, Kate
 - Hanlon, Heidi
+- Harmark, Andra
 - Harris, Susan
 - Harrison, Meredith
+- Harvey, Alison
+- Harvey, Janet
 - Henry, Lou Ann
 - Holland, Amber
 - Horne, Kate
@@ -223,13 +321,16 @@ vs:
 - Johnstone, Loralee
 - Jones, Colleen
 - Jones, Jennifer
+- Jordan, Stephanie
 - Jurgenson, Christine
+- Kasner, Marliese
 - Kaylo, Kelly
 - Kehler, Lorie
 - Kelly, Kim
 - Kerr, Kathy
 - Keshen, Christine
 - King, Cathy
+- Kirby, Carey
 - Kleibrink, Shannon
 - Kyle, Linda
 - Laliberte, Connie
@@ -237,23 +338,29 @@ vs:
 - Law, Kelley
 - Lawes, Andrea
 - Lawrence, Margaret
+- Lawton, Stefanie
 - Leblanc, Lisa
 - Lemay, Annie
 - Lewis, Kristy
 - Linton, Sherry
+- Loder, Cherie-Ann
+- Loder, Kristin
 - MacAulay, Marion
 - MacCallum, Janice
 - MacDonald, Lawnie
 - MacDonald, Rebecca Jean
 - MacKenzie, Doris
+- MacLeod, Lisa
 - Mallett, Marla
 - Marchand, Stephanie
 - Martin, Denise
 - Martin, Heather
 - Materi, Roberta
+- Mattheis, Shannon
 - McConnery, Nancy
 - McCrady, Christine
 - McCusker, Joan
+- McEwen, Dawn
 - McInnis, Susan
 - McKnight, Patti
 - McLeod, Crystal
@@ -262,30 +369,43 @@ vs:
 - Middaugh, Sherry
 - Mittelstadt, Candice
 - Montgomery, Kay
+- Moore, Kim
+- Morris, Cori
 - Moses, Dawn
 - Moss, Debbie
 - Muzika, Shelley
 - Nixon, Amy
+- O'Connor, Susan
 - O'Rourke, Kathy
 - Officer, Jill
+- Olson-Johns, Lori
 - Osborne, Chantal
 - Overton-Clapham, Cathy
 - Palinkas, Gloria
 - Peters, Laine
 - Phillips, Laura
 - Power, Marie-Anne
+- Preston, Samantha
 - Purdy, Karen
+- Richard, Jeanna
 - Rizzo, Jo-Ann
+- Robertson, Darcy
+- Robertson, Desiree
 - Robinson, Charlene
 - Robinson, Lori
+- Rocque, Raylene
 - Scales, Julie
 - Schmirler, Sandra
 - Schraeder, Jeanna
 - Scott, Kelly
+- Shantz, Penny
 - Shields, Deanne
 - Simons, Renee
+- Singler, Sherri
 - Skinner, Julie
 - Smith, Heather
+- Smith, Nancy
+- Spencer, Barb
 - Stabel, Stacey
 - Stewart, Sheri
 - Stokes, Debbie
@@ -293,8 +413,11 @@ vs:
 - Taylor, Candy
 - Trider, Krista
 - Tuck, Kimberly
+- Unrau, Faye
+- Vey, Lana
 - Wall, Kirsten
 - Webster, Bronwen
+- Webster, Crystal
 - Wheatcroft, Georgina
 - Zinck, Kay
 ---

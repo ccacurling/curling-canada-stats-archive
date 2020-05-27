@@ -3,6 +3,20 @@ title: Mary-Anne Arsenault
 name: Mary-Anne Arsenault
 name-sort: Arsenault, Mary-Anne
 totals:
+- event: Canada Cup (Women)
+  games: 23
+  wins: 13
+  losses: 10
+  inturn-total: 195
+  inturn-percent: 77
+  outturn-total: 253
+  outturn-percent: 80
+  draw-total: 199
+  draw-percent: 75
+  takeout-total: 249
+  takeout-percent: 81
+  shots-total: 448
+  shots-percent: 79
 - event: Hearts
   games: 166
   wins: 105
@@ -32,6 +46,74 @@ totals:
   shots-total: 362
   shots-percent: 84
 years:
+- year: 2003
+  event: Canada Cup (Women)
+  team: Jone
+  position: Second
+  games: 4
+  wins: 2
+  losses: 2
+  inturn-total: 42
+  inturn-percent: 82
+  outturn-total: 40
+  outturn-percent: 84
+  draw-total: 29
+  draw-percent: 79
+  takeout-total: 53
+  takeout-percent: 85
+  shots-total: 82
+  shots-percent: 83
+- year: 2004
+  event: Canada Cup (Women)
+  team: CJO
+  position: Second
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 56
+  inturn-percent: 78
+  outturn-total: 82
+  outturn-percent: 84
+  draw-total: 52
+  draw-percent: 77
+  takeout-total: 86
+  takeout-percent: 85
+  shots-total: 138
+  shots-percent: 82
+- year: 2005
+  event: Canada Cup (Women)
+  team: Jon
+  position: Second
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 50
+  inturn-percent: 75
+  outturn-total: 66
+  outturn-percent: 78
+  draw-total: 62
+  draw-percent: 76
+  takeout-total: 54
+  takeout-percent: 77
+  shots-total: 116
+  shots-percent: 77
+- year: 2009
+  event: Canada Cup (Women)
+  team: M-AA
+  position: Fourth
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 47
+  inturn-percent: 74
+  outturn-total: 65
+  outturn-percent: 74
+  draw-total: 56
+  draw-percent: 71
+  takeout-total: 56
+  takeout-percent: 78
+  shots-total: 112
+  shots-percent: 74
 - year: 1993
   event: Hearts
   team: NS
@@ -396,6 +478,8 @@ vs:
 - Bell, Chelsey
 - Bell, Patty
 - Belley, Joelle
+- Bergner, Sasha
+- Bernard, Cheryl
 - Bernard, Krista
 - Berthelot, Janique
 - Betker, Jan
@@ -409,6 +493,7 @@ vs:
 - Blashko, Denise
 - Bohmer, Brenda
 - Bonar, Maureen
+- Borne, Brandee
 - Boyle, Jane
 - Bradley, Shelly
 - Breen, Theresa
@@ -418,6 +503,7 @@ vs:
 - Brown, Jacalyn
 - Brown, Janet
 - Brown, Rachel
+- Burgess, Allyson
 - Burgess, Carey
 - Burlington, Cheryl
 - Bush, Tracy
@@ -458,6 +544,7 @@ vs:
 - Devereaux, Julie
 - Dezura, Diane
 - Dobson, Sue
+- Doig, Deanna
 - Dolan, Kim
 - Dufresne, Audree
 - Duncan, Chelsea
@@ -487,6 +574,7 @@ vs:
 - Fraser, Sherry
 - Freeman, Lisa
 - Frey, Audrey
+- Froud, Susan
 - Fullerton, Sarah
 - Fyfe, Liz
 - Gagnier, Monique
@@ -533,6 +621,7 @@ vs:
 - Hunter, Lana
 - Iskiw, Beth
 - Jenkins, Sandra
+- Johnston, Atina
 - Johnston, Kara
 - Jones, Jennifer
 - Jones-Walker, Debbie
@@ -614,8 +703,10 @@ vs:
 - Moore, Kim
 - Moore, Kristie
 - Moriarty, Monica
+- Morris, Cori
 - Moses, Dawn
 - Moss, Debbie
+- Mossman, Angela
 - Muise, Morgan
 - Mulroney, Sandra
 - Naugler, Tara
@@ -626,6 +717,7 @@ vs:
 - Njegovan, Selena
 - Nowlan, Denise
 - Nugent, Pamela
+- O'Connor, Susan
 - O'Leary, Susan
 - O'Rourke, Brittany
 - O'Rourke, Kathy
@@ -635,6 +727,7 @@ vs:
 - Osborne, Chantal
 - Overton-Clapham, Cathy
 - Parsons, Danielle
+- Pasika, Rona
 - Perron, Leanne
 - Peterman, Jocelyn
 - Peters, Laine
@@ -649,6 +742,7 @@ vs:
 - Prosser, Sandi
 - Purdy, Karen
 - Radchenka, Tammy
+- Reddick, Audrey
 - Reed, Shellan
 - Renouf, Michele
 - Richard, Marie
@@ -658,6 +752,7 @@ vs:
 - Robertson, Darcy
 - Robichaud, Sylvie
 - Robinson, Lori
+- Rocheleau, Patty
 - Rocque, Raylene
 - Ross, Allison
 - Rudulier, Andrea
@@ -683,6 +778,7 @@ vs:
 - Skinner, Julie
 - Smallwood, Jody
 - Smith, Heather
+- Smith, Nikki
 - Smith, Stacey
 - Soligo, Melissa
 - Sonnenberg, Renee
@@ -710,6 +806,7 @@ vs:
 - Todd, Fran
 - Trider, Krista
 - Trombley, Christy
+- Tuck, Kim
 - Tuck, Kimberly
 - Tucker, Cindy
 - Tuor, Kimberly

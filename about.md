@@ -20,6 +20,10 @@ Site - Brian Cassidy Jr.
 
 ## Changelog
 
+### 2020-05-27
+
+ * Added Canada Cup (Men & Women) data (2003-2019).
+
 ### 2020-04-30
 
  * Added 2020 Brier and Hearts data.

@@ -17,6 +17,20 @@ totals:
   takeout-percent: 85
   shots-total: 4071
   shots-percent: 85
+- event: Canada Cup (Men)
+  games: 53
+  wins: 35
+  losses: 18
+  inturn-total: 434
+  inturn-percent: 84
+  outturn-total: 555
+  outturn-percent: 85
+  draw-total: 387
+  draw-percent: 83
+  takeout-total: 602
+  takeout-percent: 85
+  shots-total: 989
+  shots-percent: 84
 - event: Trials (Men)
   games: 43
   wins: 22
@@ -321,6 +335,142 @@ years:
   takeout-percent: 83
   shots-total: 209
   shots-percent: 84
+- year: 2004
+  event: Canada Cup (Men)
+  team: STO
+  position: Fourth
+  games: 3
+  wins: 3
+  losses: 0
+  inturn-total: 25
+  inturn-percent: 83
+  outturn-total: 35
+  outturn-percent: 92
+  draw-total: 17
+  draw-percent: 85
+  takeout-total: 43
+  takeout-percent: 90
+  shots-total: 60
+  shots-percent: 88
+- year: 2006
+  event: Canada Cup (Men)
+  team: How
+  position: Fourth
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 63
+  inturn-percent: 86
+  outturn-total: 70
+  outturn-percent: 81
+  draw-total: 53
+  draw-percent: 81
+  takeout-total: 80
+  takeout-percent: 85
+  shots-total: 133
+  shots-percent: 83
+- year: 2008
+  event: Canada Cup (Men)
+  team: HOWA
+  position: Fourth
+  games: 6
+  wins: 4
+  losses: 2
+  inturn-total: 42
+  inturn-percent: 83
+  outturn-total: 62
+  outturn-percent: 90
+  draw-total: 38
+  draw-percent: 89
+  takeout-total: 66
+  takeout-percent: 86
+  shots-total: 104
+  shots-percent: 87
+- year: 2010
+  event: Canada Cup (Men)
+  team: GH
+  position: Fourth
+  games: 8
+  wins: 7
+  losses: 1
+  inturn-total: 73
+  inturn-percent: 84
+  outturn-total: 77
+  outturn-percent: 86
+  draw-total: 58
+  draw-percent: 84
+  takeout-total: 92
+  takeout-percent: 86
+  shots-total: 150
+  shots-percent: 85
+- year: 2011
+  event: Canada Cup (Men)
+  team: HOW
+  position: Fourth
+  games: 8
+  wins: 5
+  losses: 3
+  inturn-total: 67
+  inturn-percent: 89
+  outturn-total: 85
+  outturn-percent: 88
+  draw-total: 67
+  draw-percent: 88
+  takeout-total: 85
+  takeout-percent: 88
+  shots-total: 152
+  shots-percent: 88
+- year: 2012
+  event: Canada Cup (Men)
+  team: HOW
+  position: Fourth
+  games: 8
+  wins: 5
+  losses: 3
+  inturn-total: 56
+  inturn-percent: 80
+  outturn-total: 91
+  outturn-percent: 83
+  draw-total: 67
+  draw-percent: 83
+  takeout-total: 80
+  takeout-percent: 82
+  shots-total: 147
+  shots-percent: 82
+- year: 2014
+  event: Canada Cup (Men)
+  team: HOW
+  position: Fourth
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 62
+  inturn-percent: 78
+  outturn-total: 77
+  outturn-percent: 87
+  draw-total: 51
+  draw-percent: 81
+  takeout-total: 88
+  takeout-percent: 84
+  shots-total: 139
+  shots-percent: 83
+- year: 2019
+  event: Canada Cup (Men)
+  team: Howa
+  position: Fourth
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 46
+  inturn-percent: 84
+  outturn-total: 58
+  outturn-percent: 75
+  draw-total: 36
+  draw-percent: 74
+  takeout-total: 68
+  takeout-percent: 82
+  shots-total: 104
+  shots-percent: 79
 - year: 1997
   event: Trials (Men)
   team: HOW
@@ -429,6 +579,7 @@ vs:
 - Bardsley, Mike
 - Barker, Richard
 - Bartlett, Don
+- Bawel, Brent
 - Bentley, Dan
 - Bentley, Darren
 - Bernard, Mel
@@ -438,6 +589,7 @@ vs:
 - Bisson, Richard
 - Bitz, Scott
 - Blanchard, Wade
+- Blaylock, Bryan
 - Boland, John
 - Borden, Robert
 - Bothamley, Doug
@@ -448,6 +600,7 @@ vs:
 - Breckon, Graham
 - Brophy, Marc
 - Bryant, Doug
+- Bucholz, Rob
 - Buck, Wyatt
 - Buckle, Andrew
 - Burgess, Craig
@@ -457,6 +610,7 @@ vs:
 - Butler, Mike
 - Butler, Ted
 - Buyck, James
+- Camm, Mathew
 - Campbell, Bill Jr
 - Campbell, Robert
 - Carey, Dan
@@ -473,6 +627,7 @@ vs:
 - Coady, Mike
 - Collin, Simon
 - Collison, Brian
+- Corner, Peter
 - Coster, Dave
 - Cotter, Jim
 - Coulter, Mike
@@ -487,6 +642,9 @@ vs:
 - Deis, Ryan
 - Delmage, Al
 - Desjardins, Robert
+- Despins, Dale
+- Despins, Glen
+- Despins, Wayne
 - Desrosiers, John
 - Dillon, Mike
 - Dobson, Brian
@@ -495,6 +653,7 @@ vs:
 - Doherty, Robert
 - Doyon, Ghislain
 - Duce, Dallas
+- Dunstone, Matthew
 - Durant, Fred
 - Eden, Brian
 - Edl, Don
@@ -538,6 +697,7 @@ vs:
 - Gaudet, Mike
 - Gavin, Martin
 - Geall, Sean
+- Gedak, Brent
 - Germsheid, Tony
 - Gervais, Martin
 - Gibson, Andrew
@@ -563,6 +723,7 @@ vs:
 - Haichert, Chris
 - Haines, Chuck
 - Hamelmann, Chris
+- Hamilton, Andrew
 - Hannah, Brad
 - Harcourt, Doug
 - Harcourt, Greg
@@ -580,6 +741,8 @@ vs:
 - Hebert, Ben
 - Hebert, Brad
 - Hebert, Roy
+- Heidt, Brad
+- Heidt, Mitch
 - Henderson, Jeffrey
 - Henderson, Lorne
 - Henderson, Scott
@@ -592,6 +755,7 @@ vs:
 - Hollett, Peter
 - Houston, Neil
 - Howard, Russ
+- Howard, Scott
 - Howard, Steven
 - Hyrich, John
 - Ireland, Clint
@@ -600,9 +764,11 @@ vs:
 - Jacobs, Brad
 - Jakomait, Dusty
 - Jakubo, Mike
+- Jantzen, Mike
 - Jewer, Keith
 - Joanisse, Dean
 - Johnson, Bill
+- Johnson, Mark
 - Johnston, Steve
 - Johnston, Wade
 - Jones, Brennen
@@ -619,12 +785,14 @@ vs:
 - Kawaja, John
 - Kehoe, Mark
 - Kennedy, Bruce
+- Kennedy, Glen
 - Kennedy, Marc
 - Kennedy, Mike
 - Kent, Gerry
 - Kidby, Dustin
 - Kieley, Phil
 - Kijewski, Kelly
+- Kochan, Craig
 - Koe, Jamie
 - Koe, Kevin
 - Koffski, Rob
@@ -693,6 +861,7 @@ vs:
 - McClelland, John
 - McCusker, Brian
 - McDermaid, Donald
+- McDermot, Ken
 - McEwen, Mike
 - McHargue, Ken
 - McKee, Darrell
@@ -741,6 +910,7 @@ vs:
 - Noftall, David
 - Noseworthy, Mark
 - Novakowski, Bob
+- O'Connor, Sean
 - O'Driscoll, Frank
 - O'Leary, Alan
 - O'Rourke, Mark
@@ -790,6 +960,7 @@ vs:
 - Roach, Terry
 - Robar, Mark
 - Roberge, Francois
+- Robertson, Ian
 - Robertson, Richard
 - Robinson, Andrew
 - Rocque, Marcel
@@ -841,6 +1012,7 @@ vs:
 - Stokes, Lionel
 - Stoughton, Jeff
 - Strain, Bill
+- Sulimma, Hardi
 - Sullivan, Charles Jr
 - Sveistrup, Jody
 - Sweete, Don
@@ -851,6 +1023,7 @@ vs:
 - Tetley, Ross
 - Thiessen, Brad
 - Thiessen, Nolan
+- Thomas, Charley
 - Thomas, Rob
 - Thompson, Ron
 - Toews, Brian

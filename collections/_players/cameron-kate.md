@@ -3,6 +3,20 @@ title: Kate Cameron
 name: Kate Cameron
 name-sort: Cameron, Kate
 totals:
+- event: Canada Cup (Women)
+  games: 13
+  wins: 3
+  losses: 10
+  inturn-total: 125
+  inturn-percent: 76
+  outturn-total: 125
+  outturn-percent: 79
+  draw-total: 112
+  draw-percent: 76
+  takeout-total: 138
+  takeout-percent: 79
+  shots-total: 250
+  shots-percent: 78
 - event: Hearts
   games: 31
   wins: 20
@@ -32,6 +46,40 @@ totals:
   shots-total: 154
   shots-percent: 74
 years:
+- year: 2015
+  event: Canada Cup (Women)
+  team: MCD
+  position: Third
+  games: 6
+  wins: 1
+  losses: 5
+  inturn-total: 57
+  inturn-percent: 79
+  outturn-total: 57
+  outturn-percent: 76
+  draw-total: 62
+  draw-percent: 76
+  takeout-total: 52
+  takeout-percent: 80
+  shots-total: 114
+  shots-percent: 78
+- year: 2018
+  event: Canada Cup (Women)
+  team: Flax
+  position: Third
+  games: 7
+  wins: 2
+  losses: 5
+  inturn-total: 68
+  inturn-percent: 74
+  outturn-total: 68
+  outturn-percent: 82
+  draw-total: 50
+  draw-percent: 77
+  takeout-total: 86
+  takeout-percent: 79
+  shots-total: 136
+  shots-percent: 78
 - year: 2017
   event: Hearts
   team: MB
@@ -104,6 +152,7 @@ vs:
 - Alcoe-Holland, Jill
 - Aleksic, Shannon
 - Armstrong, Jennifer
+- Armstrong, Leigh
 - Arnaud, Chloe
 - Arsenault, Mary-Anne
 - Babin, Jillian
@@ -114,12 +163,14 @@ vs:
 - Black, Christina
 - Bobbie, Tess
 - Brown, Rachel
+- Cannon, Theresa
 - Carey, Chelsea
 - Cormier, Sharon
 - Cote, Marie-Pier
 - Court, Morgan
 - Courtney, Joanne
 - Crawford, Andrea
+- Crocker, Laura
 - Crouse, Jennifer
 - Curtis, Erica
 - Curtis, Stacie
@@ -137,6 +188,7 @@ vs:
 - Flaxey, Allison
 - Fleury, Tracy
 - Forward, Katie
+- Foster, Vanessa
 - Fullerton, Sarah
 - Fyfe, Liz
 - Gagnon, Emilia
@@ -147,12 +199,15 @@ vs:
 - Grandy, Clancy
 - Griffin, Alison
 - Harvey, Marie-Pier
+- Haughian, Jessie
 - Hill, Trish
 - Homan, Rachel
 - Hughes, Meaghan
 - Hunkin, Jessie
 - Hutchings, Denise
 - Jones, Jennifer
+- Klein, Karen
+- Knapp, Breanne
 - Koehler, Megan
 - Kreviazuk, Cheryl
 - Kreviazuk, Lynn
@@ -168,11 +223,14 @@ vs:
 - Mann, Lauren
 - Mattatall, Mary
 - McCarville, Krista
+- McDonald, Taylor
 - McEvoy, Julie
 - McEwen, Dawn
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
 - Meilleur, Briane
+- Merklinger, Lee
+- Middaugh, Sherry
 - Miskew, Emma
 - Moore, Kristie
 - Nedohin, Heather
@@ -189,6 +247,9 @@ vs:
 - Porter, Erin
 - Potts, Sarah
 - Richards, Brette
+- Rizzo, Jo-Ann
+- Robertson, Darcy
+- Rocque, Kelsey
 - Routledge, Alanna
 - Routledge, Jill
 - Sagle, Karen
@@ -208,6 +269,7 @@ vs:
 - Van Osch, Marika
 - Verreault, Noemie
 - Vink, Rachelle
+- Walsh, Jenna
 - Weagle, Lisa
 - Webster, Crystal
 - West, Christianne

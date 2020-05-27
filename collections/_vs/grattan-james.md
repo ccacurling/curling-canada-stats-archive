@@ -41,6 +41,15 @@ vs:
       percent: 87
       wins: 6
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 73
+      wins: 0
+      losses: 1
+    player2:
+      percent: 83
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: NB
@@ -170,6 +179,22 @@ vs:
     year: 2014
     draw: Round Robin(7)
     score: NB 7 - NL 9
+  - player1:
+      team: HOWA
+      position: Fourth
+      percent: 73
+      win: 0
+      loss: 1
+    player2:
+      team: GUSH
+      position: Fourth
+      percent: 83
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(10)
+    score: GUSH 11 - HOWA 8
 - name: Haichert, Chris
   totals:
   - event: Brier
@@ -181,6 +206,15 @@ vs:
       percent: 89
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 78
+      wins: 1
+      losses: 0
+    player2:
+      percent: 90
+      wins: 0
+      losses: 1
   games:
   - player1:
       team: NB
@@ -198,6 +232,22 @@ vs:
     year: 2006
     draw: Round Robin(10)
     score: SK 8 - NB 5
+  - player1:
+      team: HOW
+      position: Third
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: SIM
+      position: Second
+      percent: 90
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(8)
+    score: SIM 3 - HOW 7
 - name: Harcourt, Doug
   totals:
   - event: Brier
@@ -745,6 +795,15 @@ vs:
       percent: 91
       wins: 5
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 82
+      wins: 1
+      losses: 1
+    player2:
+      percent: 90
+      wins: 1
+      losses: 1
   games:
   - player1:
       team: NB
@@ -842,6 +901,38 @@ vs:
     year: 2020
     draw: Round Robin(5)
     score: NB 4 - CA 8
+  - player1:
+      team: HOW
+      position: Third
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: SIM
+      position: Lead
+      percent: 90
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(8)
+    score: SIM 3 - HOW 7
+  - player1:
+      team: HOWA
+      position: Third
+      percent: 85
+      win: 0
+      loss: 1
+    player2:
+      team: MART
+      position: Lead
+      percent: 90
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(2)
+    score: MART 8 - HOWA 6
 - name: Hemmings, Guy
   totals:
   - event: Brier
@@ -1065,6 +1156,15 @@ vs:
       percent: 90
       wins: 0
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 0
+      losses: 1
+    player2:
+      percent: 88
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: NB
@@ -1082,6 +1182,22 @@ vs:
     year: 2002
     draw: Round Robin(5)
     score: NB 8 - NS 7
+  - player1:
+      team: Howa
+      position: Third
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: Adam
+      position: Second
+      percent: 88
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2003
+    draw: Round Robin(8)
+    score: Adam 8 - Howa 5
 - name: Horgan, Tanner
   totals:
   - event: Brier
@@ -1165,6 +1281,15 @@ vs:
       percent: 87
       wins: 5
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 69
+      wins: 0
+      losses: 1
+    player2:
+      percent: 91
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: NB
@@ -1262,6 +1387,22 @@ vs:
     year: 2013
     draw: Round Robin(11)
     score: ON 7 - NB 3
+  - player1:
+      team: HOW
+      position: Third
+      percent: 69
+      win: 0
+      loss: 1
+    player2:
+      team: STO
+      position: Fourth
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(4)
+    score: STO 6 - HOW 3
 - name: Hunt, Bruce
   totals:
   - event: Brier
@@ -1813,6 +1954,15 @@ vs:
       percent: 93
       wins: 3
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 85
+      wins: 0
+      losses: 1
+    player2:
+      percent: 71
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: NB
@@ -1878,6 +2028,22 @@ vs:
     year: 2013
     draw: Round Robin(8)
     score: AB 5 - NB 6
+  - player1:
+      team: HOWA
+      position: Third
+      percent: 85
+      win: 0
+      loss: 1
+    player2:
+      team: MART
+      position: Second
+      percent: 71
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(2)
+    score: MART 8 - HOWA 6
 - name: Kerr, Ian
   totals:
   - event: Brier
@@ -2157,6 +2323,15 @@ vs:
       percent: 89
       wins: 3
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 74
+      wins: 0
+      losses: 1
+    player2:
+      percent: 83
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: NB
@@ -2206,6 +2381,22 @@ vs:
     year: 2020
     draw: Round Robin(5)
     score: NB 4 - CA 8
+  - player1:
+      team: HOWA
+      position: Third
+      percent: 74
+      win: 0
+      loss: 1
+    player2:
+      team: KOE
+      position: Fourth
+      percent: 83
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(5)
+    score: HOWA 5 - KOE 7
 - name: Koffski, Rob
   totals:
   - event: Brier
@@ -2329,6 +2520,15 @@ vs:
       percent: 79
       wins: 2
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 73
+      wins: 0
+      losses: 1
+    player2:
+      percent: 75
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: NB
@@ -2394,6 +2594,22 @@ vs:
     year: 2010
     draw: Round Robin(11)
     score: NB 3 - NL 8
+  - player1:
+      team: HOWA
+      position: Fourth
+      percent: 73
+      win: 0
+      loss: 1
+    player2:
+      team: GUSH
+      position: Lead
+      percent: 75
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(10)
+    score: GUSH 11 - HOWA 8
 - name: Korte, Bruce
   totals:
   - event: Brier
@@ -2521,6 +2737,15 @@ vs:
       percent: 91
       wins: 7
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 91
+      wins: 0
+      losses: 1
+    player2:
+      percent: 80
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 83
@@ -2675,6 +2900,22 @@ vs:
     year: 2020
     draw: Round Robin(8)
     score: ON 4 - NB 7
+  - player1:
+      team: Howa
+      position: Third
+      percent: 91
+      win: 0
+      loss: 1
+    player2:
+      team: Morr
+      position: Second
+      percent: 80
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2003
+    draw: Round Robin(6)
+    score: Howa 6 - Morr 10
   - player1:
       team: HOW
       position: Second
@@ -3318,6 +3559,15 @@ vs:
       percent: 90
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 76
+      wins: 1
+      losses: 1
+    player2:
+      percent: 84
+      wins: 1
+      losses: 1
   games:
   - player1:
       team: NB
@@ -3335,6 +3585,38 @@ vs:
     year: 2010
     draw: Round Robin(13)
     score: NB 3 - AB 6
+  - player1:
+      team: HOW
+      position: Third
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: SIM
+      position: Third
+      percent: 82
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(8)
+    score: SIM 3 - HOW 7
+  - player1:
+      team: HOWA
+      position: Third
+      percent: 74
+      win: 0
+      loss: 1
+    player2:
+      team: KOE
+      position: Third
+      percent: 85
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(5)
+    score: HOWA 5 - KOE 7
 - name: MacDonald, Rod
   totals:
   - event: Brier
@@ -3766,6 +4048,15 @@ vs:
       percent: 84
       wins: 5
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 85
+      wins: 0
+      losses: 1
+    player2:
+      percent: 74
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 93
@@ -3872,6 +4163,22 @@ vs:
     year: 2013
     draw: Round Robin(8)
     score: AB 5 - NB 6
+  - player1:
+      team: HOWA
+      position: Third
+      percent: 85
+      win: 0
+      loss: 1
+    player2:
+      team: MART
+      position: Fourth
+      percent: 74
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(2)
+    score: MART 8 - HOWA 6
   - player1:
       team: HOW
       position: Second
@@ -4027,6 +4334,15 @@ vs:
       percent: 97
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 83
+      wins: 0
+      losses: 1
+    player2:
+      percent: 98
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: NB
@@ -4044,6 +4360,22 @@ vs:
     year: 2020
     draw: Round Robin(14)
     score: NB 4 - WC 9
+  - player1:
+      team: HOWA
+      position: Third
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: MCEW
+      position: Fourth
+      percent: 98
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(3)
+    score: HOWA 2 - MCEW 7
 - name: McGowan, Nolin
   totals:
   - event: Brier
@@ -4167,6 +4499,15 @@ vs:
       percent: 89
       wins: 3
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 71
+      wins: 1
+      losses: 1
+    player2:
+      percent: 78
+      wins: 1
+      losses: 1
   games:
   - player1:
       team: NB
@@ -4232,6 +4573,38 @@ vs:
     year: 2014
     draw: Round Robin(5)
     score: MB 9 - NB 5
+  - player1:
+      team: HOW
+      position: Third
+      percent: 69
+      win: 0
+      loss: 1
+    player2:
+      team: STO
+      position: Third
+      percent: 78
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(4)
+    score: STO 6 - HOW 3
+  - player1:
+      team: HOWA
+      position: Fourth
+      percent: 74
+      win: 1
+      loss: 0
+    player2:
+      team: WMID
+      position: Third
+      percent: 79
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(8)
+    score: HOWA 9 - WMID 8
 - name: Menard, Jean-Michel
   totals:
   - event: Brier
@@ -4427,6 +4800,15 @@ vs:
       percent: 96
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 74
+      wins: 1
+      losses: 0
+    player2:
+      percent: 69
+      wins: 0
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 86
@@ -4453,6 +4835,22 @@ vs:
     year: 2013
     draw: Round Robin(11)
     score: ON 7 - NB 3
+  - player1:
+      team: HOWA
+      position: Fourth
+      percent: 74
+      win: 1
+      loss: 0
+    player2:
+      team: WMID
+      position: Fourth
+      percent: 69
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(8)
+    score: HOWA 9 - WMID 8
   - player1:
       team: HOW
       position: Second
@@ -4608,6 +5006,15 @@ vs:
       percent: 87
       wins: 6
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 0
+      losses: 2
+    player2:
+      percent: 87
+      wins: 2
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 83
@@ -4730,6 +5137,38 @@ vs:
     year: 2014
     draw: Round Robin(9)
     score: NB 3 - BC 9
+  - player1:
+      team: Howa
+      position: Third
+      percent: 91
+      win: 0
+      loss: 1
+    player2:
+      team: Morr
+      position: Fourth
+      percent: 92
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2003
+    draw: Round Robin(6)
+    score: Howa 6 - Morr 10
+  - player1:
+      team: HOWA
+      position: Third
+      percent: 85
+      win: 0
+      loss: 1
+    player2:
+      team: MART
+      position: Third
+      percent: 83
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(2)
+    score: MART 8 - HOWA 6
   - player1:
       team: HOW
       position: Second
@@ -5121,6 +5560,15 @@ vs:
       percent: 73
       wins: 2
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 84
+      wins: 1
+      losses: 0
+    player2:
+      percent: 79
+      wins: 0
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 71
@@ -5179,6 +5627,22 @@ vs:
     year: 2004
     draw: Round Robin(10)
     score: AB 7 - NB 3
+  - player1:
+      team: HOW
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: FER
+      position: Fourth
+      percent: 79
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(6)
+    score: HOW 8 - FER 6
   - player1:
       team: HOW
       position: Second
@@ -5306,6 +5770,15 @@ vs:
       percent: 86
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 83
+      wins: 0
+      losses: 1
+    player2:
+      percent: 80
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: NB
@@ -5323,6 +5796,22 @@ vs:
     year: 2020
     draw: Round Robin(5)
     score: NB 4 - CA 8
+  - player1:
+      team: HOWA
+      position: Third
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: MCEW
+      position: Third
+      percent: 80
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(3)
+    score: HOWA 2 - MCEW 7
 - name: Neufeld, Chris
   totals:
   - event: Brier
@@ -5378,6 +5867,15 @@ vs:
       percent: 86
       wins: 6
       losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 73
+      wins: 0
+      losses: 1
+    player2:
+      percent: 83
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: NB
@@ -5507,6 +6005,22 @@ vs:
     year: 2014
     draw: Round Robin(5)
     score: MB 9 - NB 5
+  - player1:
+      team: HOWA
+      position: Fourth
+      percent: 73
+      win: 0
+      loss: 1
+    player2:
+      team: GUSH
+      position: Third
+      percent: 83
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(10)
+    score: GUSH 11 - HOWA 8
 - name: Noftall, David
   totals:
   - event: Brier
@@ -6047,6 +6561,15 @@ vs:
       percent: 86
       wins: 2
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 84
+      wins: 1
+      losses: 0
+    player2:
+      percent: 84
+      wins: 0
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 71
@@ -6105,6 +6628,22 @@ vs:
     year: 2004
     draw: Round Robin(10)
     score: AB 7 - NB 3
+  - player1:
+      team: HOW
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: FER
+      position: Second
+      percent: 84
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(6)
+    score: HOW 8 - FER 6
   - player1:
       team: HOW
       position: Second
@@ -6557,6 +7096,15 @@ vs:
       percent: 92
       wins: 2
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 84
+      wins: 1
+      losses: 0
+    player2:
+      percent: 91
+      wins: 0
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 71
@@ -6615,6 +7163,22 @@ vs:
     year: 2004
     draw: Round Robin(10)
     score: AB 7 - NB 3
+  - player1:
+      team: HOW
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: FER
+      position: Lead
+      percent: 91
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(6)
+    score: HOW 8 - FER 6
   - player1:
       team: HOW
       position: Second
@@ -6742,6 +7306,15 @@ vs:
       percent: 85
       wins: 3
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 74
+      wins: 0
+      losses: 1
+    player2:
+      percent: 78
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 93
@@ -6800,6 +7373,22 @@ vs:
     year: 2014
     draw: Round Robin(3)
     score: AB 10 - NB 1
+  - player1:
+      team: HOWA
+      position: Third
+      percent: 74
+      win: 0
+      loss: 1
+    player2:
+      team: KOE
+      position: Second
+      percent: 78
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(5)
+    score: HOWA 5 - KOE 7
   - player1:
       team: HOW
       position: Second
@@ -6871,6 +7460,15 @@ vs:
       percent: 86
       wins: 7
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 91
+      wins: 0
+      losses: 1
+    player2:
+      percent: 92
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 83
@@ -7009,6 +7607,22 @@ vs:
     year: 2013
     draw: Round Robin(11)
     score: ON 7 - NB 3
+  - player1:
+      team: Howa
+      position: Third
+      percent: 91
+      win: 0
+      loss: 1
+    player2:
+      team: Morr
+      position: Lead
+      percent: 92
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2003
+    draw: Round Robin(6)
+    score: Howa 6 - Morr 10
   - player1:
       team: HOW
       position: Second
@@ -7496,6 +8110,15 @@ vs:
       percent: 83
       wins: 3
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 78
+      wins: 1
+      losses: 0
+    player2:
+      percent: 74
+      wins: 0
+      losses: 1
   games:
   - player1:
       team: NB
@@ -7561,6 +8184,22 @@ vs:
     year: 2014
     draw: Round Robin(3)
     score: AB 10 - NB 1
+  - player1:
+      team: HOW
+      position: Third
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: SIM
+      position: Fourth
+      percent: 74
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(8)
+    score: SIM 3 - HOW 7
 - name: Slauenwhite, David
   totals:
   - event: Brier
@@ -8197,6 +8836,15 @@ vs:
       percent: 79
       wins: 2
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 74
+      wins: 0
+      losses: 1
+    player2:
+      percent: 86
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: NB
@@ -8230,6 +8878,22 @@ vs:
     year: 2014
     draw: Round Robin(3)
     score: AB 10 - NB 1
+  - player1:
+      team: HOWA
+      position: Third
+      percent: 74
+      win: 0
+      loss: 1
+    player2:
+      team: KOE
+      position: Lead
+      percent: 86
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(5)
+    score: HOWA 5 - KOE 7
 - name: Thomas, Jeff
   totals:
   - event: Brier
@@ -8450,6 +9114,15 @@ vs:
       percent: 75
       wins: 0
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 69
+      wins: 0
+      losses: 1
+    player2:
+      percent: 66
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: NB
@@ -8467,6 +9140,22 @@ vs:
     year: 2006
     draw: Round Robin(12)
     score: NB 9 - MB 3
+  - player1:
+      team: HOW
+      position: Third
+      percent: 69
+      win: 0
+      loss: 1
+    player2:
+      team: STO
+      position: Second
+      percent: 66
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(4)
+    score: STO 6 - HOW 3
 - name: Villeneuve, Steeve
   totals:
   - event: Brier
@@ -8534,6 +9223,15 @@ vs:
       percent: 85
       wins: 2
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 84
+      wins: 0
+      losses: 1
+    player2:
+      percent: 85
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 93
@@ -8576,6 +9274,22 @@ vs:
     year: 2006
     draw: Round Robin(1)
     score: NB 3 - AB 8
+  - player1:
+      team: HOW
+      position: Third
+      percent: 84
+      win: 0
+      loss: 1
+    player2:
+      team: BUR
+      position: Third
+      percent: 85
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Playoff(11)
+    score: BUR 6 - HOW 4
   - player1:
       team: HOW
       position: Second
@@ -9080,6 +9794,342 @@ vs:
     year: 2018
     draw: Pool(17)
     score: NB 12 - BC 5
+- name: Hersikorn, Terry
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 89
+      wins: 0
+      losses: 1
+    player2:
+      percent: 86
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Howa
+      position: Third
+      percent: 89
+      win: 0
+      loss: 1
+    player2:
+      team: Humb
+      position: Second
+      percent: 86
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2003
+    draw: Round Robin(2)
+    score: Humb 11 - Howa 7
+- name: Humble, Brian
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 89
+      wins: 0
+      losses: 1
+    player2:
+      percent: 90
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Howa
+      position: Third
+      percent: 89
+      win: 0
+      loss: 1
+    player2:
+      team: Humb
+      position: Lead
+      percent: 90
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2003
+    draw: Round Robin(2)
+    score: Humb 11 - Howa 7
+- name: Kleiter, Dean
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 89
+      wins: 0
+      losses: 1
+    player2:
+      percent: 90
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Howa
+      position: Third
+      percent: 89
+      win: 0
+      loss: 1
+    player2:
+      team: Humb
+      position: Third
+      percent: 90
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2003
+    draw: Round Robin(2)
+    score: Humb 11 - Howa 7
+- name: Kochan, Craig
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 95
+      wins: 1
+      losses: 0
+    player2:
+      percent: 86
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: HOW
+      position: Third
+      percent: 95
+      win: 1
+      loss: 0
+    player2:
+      team: COR
+      position: Third
+      percent: 86
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(2)
+    score: HOW 7 - COR 1
+- name: McDermot, Ken
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 95
+      wins: 1
+      losses: 0
+    player2:
+      percent: 84
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: HOW
+      position: Third
+      percent: 95
+      win: 1
+      loss: 0
+    player2:
+      team: COR
+      position: Lead
+      percent: 84
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(2)
+    score: HOW 7 - COR 1
+- name: Neufeld, Denni
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 83
+      wins: 0
+      losses: 1
+    player2:
+      percent: 98
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: HOWA
+      position: Third
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: MCEW
+      position: Lead
+      percent: 98
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(3)
+    score: HOWA 2 - MCEW 7
+- name: Perrin, Hubert
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 83
+      wins: 1
+      losses: 0
+    player2:
+      percent: 79
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: Howa
+      position: Third
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: Wood
+      position: Second
+      percent: 79
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2003
+    draw: Round Robin(3)
+    score: Howa 7 - Wood 2
+- name: Pohl, Mike
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 83
+      wins: 1
+      losses: 0
+    player2:
+      percent: 88
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: Howa
+      position: Third
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: Wood
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2003
+    draw: Round Robin(3)
+    score: Howa 7 - Wood 2
+- name: Robertson, Ian
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 95
+      wins: 1
+      losses: 0
+    player2:
+      percent: 79
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: HOW
+      position: Third
+      percent: 95
+      win: 1
+      loss: 0
+    player2:
+      team: COR
+      position: Second
+      percent: 79
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(2)
+    score: HOW 7 - COR 1
+- name: Tarasoff, Kerry
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 89
+      wins: 0
+      losses: 1
+    player2:
+      percent: 90
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: Howa
+      position: Third
+      percent: 89
+      win: 0
+      loss: 1
+    player2:
+      team: Humb
+      position: Lead
+      percent: 90
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2003
+    draw: Round Robin(2)
+    score: Humb 11 - Howa 7
+- name: Woodward, Murray
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 83
+      wins: 1
+      losses: 0
+    player2:
+      percent: 72
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: Howa
+      position: Third
+      percent: 83
+      win: 1
+      loss: 0
+    player2:
+      team: Wood
+      position: Fourth
+      percent: 72
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2003
+    draw: Round Robin(3)
+    score: Howa 7 - Wood 2
+- name: Wozniak, Matt
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 83
+      wins: 0
+      losses: 1
+    player2:
+      percent: 85
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: HOWA
+      position: Third
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: MCEW
+      position: Second
+      percent: 85
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2009
+    draw: Round Robin(3)
+    score: HOWA 2 - MCEW 7
 - name: Gretzinger, Bert
   totals:
   - event: Trials(Men)

@@ -3,6 +3,20 @@ title: Diane Dezura
 name: Diane Dezura
 name-sort: Dezura, Diane
 totals:
+- event: Canada Cup (Women)
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 40
+  inturn-percent: 83
+  outturn-total: 92
+  outturn-percent: 92
+  draw-total: 99
+  draw-percent: 91
+  takeout-total: 33
+  takeout-percent: 83
+  shots-total: 132
+  shots-percent: 89
 - event: Hearts
   games: 54
   wins: 33
@@ -32,6 +46,23 @@ totals:
   shots-total: 189
   shots-percent: 89
 years:
+- year: 2003
+  event: Canada Cup (Women)
+  team: KLaw
+  position: Lead
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 40
+  inturn-percent: 83
+  outturn-total: 92
+  outturn-percent: 92
+  draw-total: 99
+  draw-percent: 91
+  takeout-total: 33
+  takeout-percent: 83
+  shots-total: 132
+  shots-percent: 89
 - year: 1988
   event: Hearts
   team: BC
@@ -150,6 +181,7 @@ vs:
 - Barrack, Carmen
 - Belanger, Nancy
 - Bell, Patty
+- Bergner, Sasha
 - Bernard, Krista
 - Berthelot, Janique
 - Beveridge, Corie
@@ -178,6 +210,7 @@ vs:
 - Delahunt, Nancy
 - Dobson, Sue
 - Englot, Michelle
+- Enright, Barb
 - Farrell, Allison
 - Fast, Lois
 - Fisher, Alana
@@ -187,8 +220,10 @@ vs:
 - Fraser, Sherry
 - Freeman, Lisa
 - Frey, Audrey
+- Froud, Susan
 - Gagnon, Karo
 - Galusha, Kerry
+- Gatchell, Sara
 - Gignac, Donna
 - Gogan, Jennifer
 - Goss, Peg
@@ -233,8 +268,10 @@ vs:
 - Lemay, Annie
 - MacCallum, Janice
 - MacDonald, Lawnie
+- MacDonald, Rebecca Jean
 - MacDonald, Shelley
 - MacDougall, Leslie
+- MacPhee, Robyn
 - Maher, Pat
 - Marchand, Stephanie
 - Martin, Denise
@@ -272,16 +309,22 @@ vs:
 - Radchenka, Tammy
 - Ramsay, Jennifer
 - Renouf, Michele
+- Richard, Jeanna
 - Rintoul, Jacki
+- Robertson, Darcy
 - Rudd, Colleen
 - Sabourin, Joelle
 - Sanders, Pat
 - Sandison, Janice
 - Scott, Donna
+- Scott, Kelly
+- Shantz, Penny
 - Sharpe, Kelli
+- Simons, Renee
 - Smith, Heather
 - Smith, Yvonne
 - Sonnenberg, Renee
+- Spencer, Barb
 - Stabel, Stacey
 - Stahl, Carrie
 - Stewart, Sheri
@@ -292,6 +335,7 @@ vs:
 - Tasaka, Adina
 - Thomas, Maria
 - Todd, Fran
+- Unrau, Faye
 - Wall, Kirsten
 - Walter, Cathy
 - Webster, Bronwen

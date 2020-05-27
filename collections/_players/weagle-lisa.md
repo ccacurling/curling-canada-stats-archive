@@ -3,6 +3,20 @@ title: Lisa Weagle
 name: Lisa Weagle
 name-sort: Weagle, Lisa
 totals:
+- event: Canada Cup (Women)
+  games: 43
+  wins: 29
+  losses: 14
+  inturn-total: 508
+  inturn-percent: 86
+  outturn-total: 300
+  outturn-percent: 85
+  draw-total: 613
+  draw-percent: 89
+  takeout-total: 195
+  takeout-percent: 74
+  shots-total: 808
+  shots-percent: 85
 - event: Hearts
   games: 94
   wins: 74
@@ -32,6 +46,108 @@ totals:
   shots-total: 345
   shots-percent: 85
 years:
+- year: 2011
+  event: Canada Cup (Women)
+  team: HOM
+  position: Lead
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 81
+  inturn-percent: 86
+  outturn-total: 35
+  outturn-percent: 83
+  draw-total: 100
+  draw-percent: 86
+  takeout-total: 16
+  takeout-percent: 78
+  shots-total: 116
+  shots-percent: 85
+- year: 2014
+  event: Canada Cup (Women)
+  team: HOM
+  position: Lead
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 76
+  inturn-percent: 86
+  outturn-total: 52
+  outturn-percent: 87
+  draw-total: 87
+  draw-percent: 90
+  takeout-total: 41
+  takeout-percent: 78
+  shots-total: 128
+  shots-percent: 86
+- year: 2015
+  event: Canada Cup (Women)
+  team: HOM
+  position: Lead
+  games: 7
+  wins: 6
+  losses: 1
+  inturn-total: 85
+  inturn-percent: 87
+  outturn-total: 45
+  outturn-percent: 87
+  draw-total: 101
+  draw-percent: 89
+  takeout-total: 29
+  takeout-percent: 80
+  shots-total: 130
+  shots-percent: 87
+- year: 2016
+  event: Canada Cup (Women)
+  team: HOM
+  position: Lead
+  games: 8
+  wins: 5
+  losses: 3
+  inturn-total: 78
+  inturn-percent: 82
+  outturn-total: 71
+  outturn-percent: 87
+  draw-total: 108
+  draw-percent: 92
+  takeout-total: 41
+  takeout-percent: 65
+  shots-total: 149
+  shots-percent: 85
+- year: 2018
+  event: Canada Cup (Women)
+  team: Homa
+  position: Lead
+  games: 8
+  wins: 5
+  losses: 3
+  inturn-total: 109
+  inturn-percent: 86
+  outturn-total: 41
+  outturn-percent: 79
+  draw-total: 122
+  draw-percent: 87
+  takeout-total: 28
+  takeout-percent: 73
+  shots-total: 150
+  shots-percent: 84
+- year: 2019
+  event: Canada Cup (Women)
+  team: Homa
+  position: Lead
+  games: 7
+  wins: 6
+  losses: 1
+  inturn-total: 79
+  inturn-percent: 88
+  outturn-total: 56
+  outturn-percent: 82
+  draw-total: 95
+  draw-percent: 91
+  takeout-total: 40
+  takeout-percent: 74
+  shots-total: 135
+  shots-percent: 86
 - year: 2011
   event: Hearts
   team: 'ON'
@@ -202,6 +318,7 @@ vs:
 - Beauchamp, Sasha
 - Belisle, Eve
 - Bell, Chelsey
+- Bernard, Cheryl
 - Birchard, Shannon
 - Birnie, Hailey
 - Birt, Suzanne
@@ -220,6 +337,7 @@ vs:
 - Brown, Rachel
 - Cameron, Kate
 - Camozzi, Rhona
+- Cannon, Theresa
 - Carey, Chelsea
 - Carmody, Erin
 - Carter, Sasha
@@ -233,11 +351,13 @@ vs:
 - Court, Morgan
 - Courtney, Joanne
 - Crawford, Andrea
+- Crocker, Laura
 - Cunningham, Jessica
 - Curtis, Erica
 - Curtis, Stacie
 - Cutcliffe, Margaret
 - Daigle, Julie
+- Darbyshire, Carolyn
 - deJager, Blaine
 - Derry, Danielle
 - deSolla, Jodie
@@ -257,6 +377,7 @@ vs:
 - Flaxey, Allison
 - Fleury, Tracy
 - Foster, Kristen
+- Foster, Vanessa
 - Fullerton, Sarah
 - Fyfe, Liz
 - Galusha, Kerry
@@ -269,6 +390,7 @@ vs:
 - Guzzwell, Stephanie
 - Hamilton, Beth
 - Hastings, Julie
+- Haughian, Jessie
 - Hawes, Dezaray
 - Hill, Trish
 - Holland, Amber
@@ -284,6 +406,7 @@ vs:
 - Kasner, Marliese
 - Kelly, Kim
 - Kleibrink, Shannon
+- Klein, Karen
 - Klymchuk, Ashley
 - Knezevic, Patti
 - Koehler, Megan
@@ -309,6 +432,7 @@ vs:
 - Mattatall, Mary
 - McCarville, Krista
 - McDonald, Kristy
+- McDonald, Taylor
 - McEwen, Dawn
 - McInnis, Susan
 - McQuaid, Michelle
@@ -344,10 +468,13 @@ vs:
 - Richard, Marie
 - Richards, Brette
 - Rizzo, Jo-Ann
+- Robertson, Darcy
 - Robichaud, Sylvie
 - Robison, Michala
+- Rocque, Kelsey
 - Ross, Allison
 - Rusnell, Jen
+- Sabourin, Joelle
 - Sanderson, Jessie
 - Sandwith, Carley
 - Saulnier, Andrea
@@ -388,6 +515,7 @@ vs:
 - Wasylkiw, Lauren
 - Wazney, Sarah
 - Webster, Bronwen
+- Webster, Crystal
 - Westcott, Raunora
 - Wilkes, Sarah
 - Wilson, Leslie

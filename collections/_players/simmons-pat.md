@@ -17,6 +17,20 @@ totals:
   takeout-percent: 84
   shots-total: 2043
   shots-percent: 82
+- event: Canada Cup (Men)
+  games: 43
+  wins: 18
+  losses: 25
+  inturn-total: 405
+  inturn-percent: 82
+  outturn-total: 423
+  outturn-percent: 81
+  draw-total: 377
+  draw-percent: 83
+  takeout-total: 451
+  takeout-percent: 80
+  shots-total: 828
+  shots-percent: 81
 - event: Trials (Men)
   games: 14
   wins: 4
@@ -218,6 +232,125 @@ years:
   takeout-percent: 93
   shots-total: 205
   shots-percent: 88
+- year: 2003
+  event: Canada Cup (Men)
+  team: Simm
+  position: Fourth
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 54
+  inturn-percent: 77
+  outturn-total: 41
+  outturn-percent: 80
+  draw-total: 28
+  draw-percent: 76
+  takeout-total: 67
+  takeout-percent: 79
+  shots-total: 95
+  shots-percent: 78
+- year: 2004
+  event: Canada Cup (Men)
+  team: SIM
+  position: Fourth
+  games: 4
+  wins: 1
+  losses: 3
+  inturn-total: 40
+  inturn-percent: 82
+  outturn-total: 35
+  outturn-percent: 74
+  draw-total: 36
+  draw-percent: 79
+  takeout-total: 39
+  takeout-percent: 77
+  shots-total: 75
+  shots-percent: 78
+- year: 2008
+  event: Canada Cup (Men)
+  team: SIMM
+  position: Fourth
+  games: 7
+  wins: 3
+  losses: 4
+  inturn-total: 62
+  inturn-percent: 88
+  outturn-total: 64
+  outturn-percent: 74
+  draw-total: 57
+  draw-percent: 88
+  takeout-total: 69
+  takeout-percent: 75
+  shots-total: 126
+  shots-percent: 81
+- year: 2011
+  event: Canada Cup (Men)
+  team: KOE
+  position: Third
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 60
+  inturn-percent: 84
+  outturn-total: 60
+  outturn-percent: 79
+  draw-total: 50
+  draw-percent: 83
+  takeout-total: 70
+  takeout-percent: 81
+  shots-total: 120
+  shots-percent: 81
+- year: 2012
+  event: Canada Cup (Men)
+  team: KOE
+  position: Third
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 68
+  inturn-percent: 78
+  outturn-total: 66
+  outturn-percent: 80
+  draw-total: 67
+  draw-percent: 80
+  takeout-total: 67
+  takeout-percent: 78
+  shots-total: 134
+  shots-percent: 79
+- year: 2014
+  event: Canada Cup (Men)
+  team: MOR
+  position: Third
+  games: 6
+  wins: 1
+  losses: 5
+  inturn-total: 55
+  inturn-percent: 85
+  outturn-total: 69
+  outturn-percent: 83
+  draw-total: 78
+  draw-percent: 85
+  takeout-total: 46
+  takeout-percent: 82
+  shots-total: 124
+  shots-percent: 84
+- year: 2015
+  event: Canada Cup (Men)
+  team: SIM
+  position: Fourth
+  games: 8
+  wins: 4
+  losses: 4
+  inturn-total: 66
+  inturn-percent: 82
+  outturn-total: 88
+  outturn-percent: 88
+  draw-total: 61
+  draw-percent: 85
+  takeout-total: 93
+  takeout-percent: 86
+  shots-total: 154
+  shots-percent: 86
 - year: 2009
   event: Trials (Men)
   team: SIMM
@@ -273,6 +406,7 @@ vs:
 - Blanchard, Wade
 - Borden, Robert
 - Bouchard, Christian
+- Bowser, Don
 - Brannen, Jamie
 - Bryant, Doug
 - Burgess, Craig
@@ -291,9 +425,11 @@ vs:
 - Childs, Jamie
 - Chorostkowski, Brad
 - Clarey, Sean
+- Corner, Peter
 - Cotter, Jim
 - Cowan, Chad
 - Crete, Martin
+- Cripps, Scott
 - Currie, Jeff
 - Dacey, Mark
 - Danbrook, Jamie
@@ -302,6 +438,7 @@ vs:
 - Deis, Ryan
 - Desjardins, Robert
 - Desrosiers, John
+- Dickson, Rob
 - Dillon, Mike
 - Dobson, Mark
 - Dobson, Paul
@@ -353,23 +490,28 @@ vs:
 - Hodgson, Colin
 - Horning, Deane
 - Howard, Glenn
+- Howard, Russ
 - Howard, Scott
 - Howard, Steven
 - Ireland, Clint
 - Jacobs, Brad
 - Jakomait, Dusty
 - Jakubo, Mike
+- Janssen, Patrick
 - Jeffrey, Chris
 - Jewer, Keith
 - Joanisse, Dean
 - Johnson, Bill
+- Jones, Brennen
 - Jones, Scott
+- Jordison, Joel
 - Kammerlock, Dan
 - Kean, Mark
 - Kehoe, Mark
 - Kennedy, Marc
 - Kennedy, Mike
 - Kilgallen, Shane
+- Kochan, Craig
 - Koe, Jamie
 - Koe, Kevin
 - Koivula, Colin
@@ -391,10 +533,12 @@ vs:
 - MacFadyen, Alex
 - MacInnes, David
 - MacKenzie, Eddie
+- MacKenzie, Kevin
 - MacKenzie, Tyler
 - MacLean, Stuart
 - Mallais, Jeremy
 - Manners, Scott
+- March, Tim
 - Martin, Kevin
 - Maskiewich, Ken
 - Mathers, David
@@ -402,6 +546,7 @@ vs:
 - McCarrel, Graeme
 - McCarville, Mike
 - McDermaid, Donald
+- McDermot, Ken
 - McEwen, Mike
 - Mead, Jon
 - Mead, Jonathan
@@ -440,15 +585,18 @@ vs:
 - Pinder, Jordan
 - Porter, Geoff
 - Porter, Ryan
+- Prebble, Darryl
 - Rafuse, Brian
 - Richter, Justin
 - Roach, Darren
 - Roach, Jason
 - Roberge, Francois
+- Robertson, Ian
 - Rocque, Marcel
 - Rose, Jeff
 - Roy, Jean-Sebastien
 - Ryan, Keith
+- Ryan, Pat
 - Rycroft, Carter
 - Samagalski, Derek
 - Savill, Craig
@@ -475,6 +623,7 @@ vs:
 - Villeneuve, Steeve
 - Walchuk, Don
 - Walker, Geoff
+- Westlund, Mike
 - Whitehead, Kevin
 - Whitehead, Mark
 - Windsor, Brian

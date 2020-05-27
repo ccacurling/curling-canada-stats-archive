@@ -534,6 +534,15 @@ vs:
       percent: 81
       wins: 3
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 64
+      wins: 0
+      losses: 1
+    player2:
+      percent: 82
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 81
@@ -592,6 +601,22 @@ vs:
     year: 2005
     draw: Round Robin(13)
     score: ON 5 - AB 6
+  - player1:
+      team: MID
+      position: Third
+      percent: 64
+      win: 0
+      loss: 1
+    player2:
+      team: FER
+      position: Fourth
+      percent: 82
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Playoff(13)
+    score: MID 3 - FER 11
   - player1:
       team: MID
       position: Third
@@ -863,6 +888,15 @@ vs:
       percent: 83
       wins: 3
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 64
+      wins: 0
+      losses: 1
+    player2:
+      percent: 96
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 81
@@ -921,6 +955,22 @@ vs:
     year: 2005
     draw: Round Robin(13)
     score: ON 5 - AB 6
+  - player1:
+      team: MID
+      position: Third
+      percent: 64
+      win: 0
+      loss: 1
+    player2:
+      team: FER
+      position: Second
+      percent: 96
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Playoff(13)
+    score: MID 3 - FER 11
   - player1:
       team: MID
       position: Third
@@ -1337,6 +1387,15 @@ vs:
       percent: 89
       wins: 3
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 64
+      wins: 0
+      losses: 1
+    player2:
+      percent: 91
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 81
@@ -1395,6 +1454,22 @@ vs:
     year: 2005
     draw: Round Robin(13)
     score: ON 5 - AB 6
+  - player1:
+      team: MID
+      position: Third
+      percent: 64
+      win: 0
+      loss: 1
+    player2:
+      team: FER
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Playoff(13)
+    score: MID 3 - FER 11
   - player1:
       team: MID
       position: Third
@@ -2403,6 +2478,15 @@ vs:
       percent: 86
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 66
+      wins: 0
+      losses: 1
+    player2:
+      percent: 80
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 74
@@ -2429,6 +2513,22 @@ vs:
     year: 1988
     draw: Round Robin(11)
     score: ON 2 - AB 3
+  - player1:
+      team: MID
+      position: Third
+      percent: 66
+      win: 0
+      loss: 1
+    player2:
+      team: BUR
+      position: Third
+      percent: 80
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(9)
+    score: BUR 9 - MID 1
   - player1:
       team: MID
       position: Third
@@ -2601,6 +2701,175 @@ vs:
     year: 1998
     draw: Round Robin(8)
     score: NL 5 - ON 8
+- name: Moffatt, Paul
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 1
+      losses: 1
+    player2:
+      percent: 82
+      wins: 1
+      losses: 1
+  games:
+  - player1:
+      team: MID
+      position: Third
+      percent: 76
+      win: 1
+      loss: 0
+    player2:
+      team: MOR
+      position: Lead
+      percent: 81
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(7)
+    score: MID 7 - MOR 4
+  - player1:
+      team: MID
+      position: Third
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: MOR
+      position: Lead
+      percent: 83
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Semi-Final(14)
+    score: MID 6 - MOR 7
+- name: Morris, John
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 1
+      losses: 1
+    player2:
+      percent: 83
+      wins: 1
+      losses: 1
+  - event: Trials(Men)
+    player1:
+      percent: 86
+      wins: 0
+      losses: 1
+    player2:
+      percent: 82
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: MID
+      position: Third
+      percent: 76
+      win: 1
+      loss: 0
+    player2:
+      team: MOR
+      position: Fourth
+      percent: 78
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(7)
+    score: MID 7 - MOR 4
+  - player1:
+      team: MID
+      position: Third
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: MOR
+      position: Fourth
+      percent: 88
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Semi-Final(14)
+    score: MID 6 - MOR 7
+  - player1:
+      team: MID
+      position: Third
+      percent: 86
+      win: 0
+      loss: 1
+    player2:
+      team: MOR
+      position: Fourth
+      percent: 82
+      win: 1
+      loss: 0
+    event: Trials (Men)
+    year: 2001
+    draw: Round Robin(7)
+    score: MID 4 - MOR 8
+- name: Petryk, Dan
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 86
+      wins: 1
+      losses: 0
+    player2:
+      percent: 81
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: MID
+      position: Third
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: KOE
+      position: Fourth
+      percent: 81
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(3)
+    score: MID 7 - KOE 5
+- name: Westlund, Mike
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 86
+      wins: 1
+      losses: 0
+    player2:
+      percent: 95
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: MID
+      position: Third
+      percent: 86
+      win: 1
+      loss: 0
+    player2:
+      team: KOE
+      position: Lead
+      percent: 95
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2004
+    draw: Round Robin(3)
+    score: MID 7 - KOE 5
 - name: Mead, Jon
   totals:
   - event: Trials(Men)
@@ -2701,34 +2970,6 @@ vs:
     year: 1997
     draw: Round Robin(5)
     score: MID 7 - HAR 8
-- name: Morris, John
-  totals:
-  - event: Trials(Men)
-    player1:
-      percent: 86
-      wins: 0
-      losses: 1
-    player2:
-      percent: 82
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: MID
-      position: Third
-      percent: 86
-      win: 0
-      loss: 1
-    player2:
-      team: MOR
-      position: Fourth
-      percent: 82
-      win: 1
-      loss: 0
-    event: Trials (Men)
-    year: 2001
-    draw: Round Robin(7)
-    score: MID 4 - MOR 8
 - name: Nicholls, Peter
   totals:
   - event: Trials(Men)

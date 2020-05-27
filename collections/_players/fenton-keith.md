@@ -17,6 +17,20 @@ totals:
   takeout-percent: 79
   shots-total: 506
   shots-percent: 82
+- event: Canada Cup (Men)
+  games: 14
+  wins: 8
+  losses: 6
+  inturn-total: 103
+  inturn-percent: 89
+  outturn-total: 166
+  outturn-percent: 90
+  draw-total: 240
+  draw-percent: 90
+  takeout-total: 29
+  takeout-percent: 84
+  shots-total: 269
+  shots-percent: 90
 - event: Trials (Men)
   games: 20
   wins: 12
@@ -66,6 +80,40 @@ years:
   takeout-percent: 85
   shots-total: 255
   shots-percent: 88
+- year: 2004
+  event: Canada Cup (Men)
+  team: BUR
+  position: Lead
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 50
+  inturn-percent: 92
+  outturn-total: 79
+  outturn-percent: 91
+  draw-total: 121
+  draw-percent: 92
+  takeout-total: 8
+  takeout-percent: 88
+  shots-total: 129
+  shots-percent: 91
+- year: 2005
+  event: Canada Cup (Men)
+  team: Bur
+  position: Lead
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 53
+  inturn-percent: 85
+  outturn-total: 87
+  outturn-percent: 90
+  draw-total: 119
+  draw-percent: 89
+  takeout-total: 21
+  takeout-percent: 82
+  shots-total: 140
+  shots-percent: 88
 - year: 1997
   event: Trials (Men)
   team: BUR
@@ -109,6 +157,7 @@ vs:
 - Assad, Mike
 - Bailey, Scott
 - Bartlett, Don
+- Boyce, Jason
 - Burgess, Bryan
 - Burgess, Craig
 - Butler, Mark
@@ -116,6 +165,8 @@ vs:
 - Charteris, Wayne
 - Chorostkowski, Brad
 - Clarke, Dave
+- Cripps, Scott
+- Curtis, Jason
 - Dacey, Mark
 - Engel, Ron
 - Feldman, Alfred
@@ -123,10 +174,12 @@ vs:
 - Fetterly, Tom
 - Flemming, Paul
 - Folk, Rick
+- Frans, Joe
 - Frans, Joseph
 - Gagnon, Steeve
 - Gallant, Peter
 - Germsheid, Tony
+- Gibson, Andrew
 - Gould, Steve
 - Grattan, James
 - Gretzinger, Bert
@@ -135,6 +188,7 @@ vs:
 - Harcourt, Doug
 - Harcourt, Greg
 - Harris, Mike
+- Harris, Rob
 - Harrison, Neil
 - Hart, Richard
 - Harvey, Don
@@ -151,11 +205,15 @@ vs:
 - Kalthoff, Kevin
 - Karrys, George
 - Kawaja, John
+- Kennedy, Marc
+- Koe, Jamie
+- Koe, Kevin
 - Lacey, Jeff
 - Laing, Brent
 - Lang, Rick
 - Langdon, Dennis
 - Lappalainen, Art
+- LeCocq, Marc
 - Loevenmark, Phil
 - Lohnes, Bruce
 - MacDonald, Blake
@@ -167,12 +225,14 @@ vs:
 - McAulay, Greg
 - McCarrel, Graeme
 - Mead, Jon
+- Mead, Jonathan
 - Mellof, David
 - Middaugh, Wayne
 - Miki, Bryan
 - Mimeault, Bernard
 - Mimeault, Greg
 - Mitchell, Collin
+- Moffatt, Paul
 - Morris, John
 - Moshenko, Darcy
 - Moshenko, Jaret
@@ -189,8 +249,10 @@ vs:
 - Park, Kevin
 - Patriquin, Chuck
 - Patterson, Scott
+- Paul, Matt
 - Peddigrew, Ken
 - Perroud, Pat
+- Petryk, Dan
 - Pfeifer, Scott
 - Pierce, Brent
 - Pinsent, Garry
@@ -218,13 +280,16 @@ vs:
 - Thibaudeau, Guy
 - Tremblay, Roderigue
 - Tresoor, Ken
+- Tuck, Wayne
 - Tuson, Jay
 - Ursel, Bob
+- Van Den Berghe, Garry
 - Vandenberghe, Garry
 - Vautour, Joseph
 - Walchuk, Don
 - Wempe, Brian
 - Werenich, Ed
+- Westlund, Mike
 - Westphal, Don
 - Whittle, Mark
 ---

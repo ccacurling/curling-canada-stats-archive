@@ -3,6 +3,20 @@ title: Cary-Anne McTaggart
 name: Cary-Anne McTaggart
 name-sort: McTaggart, Cary-Anne
 totals:
+- event: Canada Cup (Women)
+  games: 13
+  wins: 6
+  losses: 7
+  inturn-total: 140
+  inturn-percent: 76
+  outturn-total: 102
+  outturn-percent: 76
+  draw-total: 120
+  draw-percent: 79
+  takeout-total: 122
+  takeout-percent: 73
+  shots-total: 242
+  shots-percent: 76
 - event: Hearts
   games: 11
   wins: 7
@@ -32,6 +46,40 @@ totals:
   shots-total: 302
   shots-percent: 80
 years:
+- year: 2018
+  event: Canada Cup (Women)
+  team: Sche
+  position: Third
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 74
+  inturn-percent: 75
+  outturn-total: 62
+  outturn-percent: 77
+  draw-total: 64
+  draw-percent: 81
+  takeout-total: 72
+  takeout-percent: 72
+  shots-total: 136
+  shots-percent: 76
+- year: 2019
+  event: Canada Cup (Women)
+  team: Sche
+  position: Third
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 66
+  inturn-percent: 77
+  outturn-total: 40
+  outturn-percent: 75
+  draw-total: 56
+  draw-percent: 77
+  takeout-total: 50
+  takeout-percent: 76
+  shots-total: 106
+  shots-percent: 76
 - year: 2018
   event: Hearts
   team: AB
@@ -94,9 +142,11 @@ vs:
 - Bobbie, Tess
 - Brown, Rachel
 - Cameron, Kate
+- Cannon, Theresa
 - Carey, Chelsea
 - Court, Morgan
 - Courtney, Joanne
+- Crocker, Laura
 - Crouse, Jennifer
 - Curtis, Erica
 - Curtis, Stacie
@@ -109,6 +159,7 @@ vs:
 - Flaxey, Allison
 - Fleury, Tracy
 - Foster, Kristen
+- Foster, Vanessa
 - Fullerton, Sarah
 - Fyfe, Liz
 - Gagnon, Emilia
@@ -118,10 +169,12 @@ vs:
 - Harvey, Marie-Pier
 - Homan, Rachel
 - Hughes, Meaghan
+- Hunkin, Jessie
 - Hutchings, Denise
 - Iskiw, Beth
 - Jones, Jennifer
 - Kasner, Marliese
+- Klein, Karen
 - Kreviazuk, Alison
 - Kreviazuk, Cheryl
 - Kreviazuk, Lynn
@@ -135,8 +188,10 @@ vs:
 - Mair, Jessica
 - McCarville, Krista
 - McDonald, Kristy
+- McDonald, Taylor
 - McEwen, Dawn
 - McQuaid, Michelle
+- Meilleur, Briane
 - Merklinger, Lee
 - Middaugh, Sherry
 - Miskew, Emma
@@ -151,11 +206,14 @@ vs:
 - Porter, Erin
 - Potts, Sarah
 - Rizzo, Jo-Ann
+- Robertson, Darcy
 - Sagle, Karen
 - Shackleton, Amie
+- Silvernagle, Robyn
 - Singler, Sherri
 - Sippala, Ashley
 - Sweeting, Val
+- Thevenot, Kara
 - Thiboutot, Isabelle
 - Tippin, Julie
 - Titheridge, Lindsay
@@ -168,5 +226,6 @@ vs:
 - Webster, Crystal
 - West, Christianne
 - Westcott, Raunora
+- Wilkes, Sarah
 - Wilson, Leslie
 ---

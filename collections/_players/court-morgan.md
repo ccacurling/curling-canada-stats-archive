@@ -3,6 +3,20 @@ title: Morgan Court
 name: Morgan Court
 name-sort: Court, Morgan
 totals:
+- event: Canada Cup (Women)
+  games: 6
+  wins: 1
+  losses: 5
+  inturn-total: 83
+  inturn-percent: 81
+  outturn-total: 33
+  outturn-percent: 77
+  draw-total: 105
+  draw-percent: 81
+  takeout-total: 11
+  takeout-percent: 70
+  shots-total: 116
+  shots-percent: 80
 - event: Hearts
   games: 11
   wins: 3
@@ -32,6 +46,23 @@ totals:
   shots-total: 144
   shots-percent: 84
 years:
+- year: 2014
+  event: Canada Cup (Women)
+  team: FLA
+  position: Lead
+  games: 6
+  wins: 1
+  losses: 5
+  inturn-total: 83
+  inturn-percent: 81
+  outturn-total: 33
+  outturn-percent: 77
+  draw-total: 105
+  draw-percent: 81
+  takeout-total: 11
+  takeout-percent: 70
+  shots-total: 116
+  shots-percent: 80
 - year: 2014
   event: Hearts
   team: 'ON'
@@ -68,6 +99,7 @@ years:
   shots-percent: 84
 vs:
 - Anderson, Sherry
+- Armstrong, Leigh
 - Atkinson, Rebecca
 - Baier, Stephanie
 - Bobbie, Tess
@@ -104,8 +136,12 @@ vs:
 - McDonald, Kristy
 - McEwen, Dawn
 - McTaggart, Cary-Anne
+- Merklinger, Lee
+- Middaugh, Sherry
 - Miskew, Emma
 - Moore, Kristie
+- Nedohin, Heather
+- Nixon, Amy
 - Nugent, Pamela
 - O'Rourke, Brittany
 - Officer, Jill
@@ -115,12 +151,14 @@ vs:
 - Peterman, Jocelyn
 - Peters, Laine
 - Potts, Sarah
+- Rizzo, Jo-Ann
 - Robison, Michala
 - Ross, Allison
 - Sanderson, Jessie
 - Sandwith, Carley
 - Scheidegger, Casey
 - Scheidegger, Jessie
+- Schmidt, Stephanie
 - Sinclair, Andrea
 - Singler, Sherri
 - Sippala, Ashley

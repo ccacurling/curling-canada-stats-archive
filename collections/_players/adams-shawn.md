@@ -17,6 +17,20 @@ totals:
   takeout-percent: 80
   shots-total: 852
   shots-percent: 78
+- event: Canada Cup (Men)
+  games: 6
+  wins: 4
+  losses: 2
+  inturn-total: 53
+  inturn-percent: 75
+  outturn-total: 63
+  outturn-percent: 87
+  draw-total: 55
+  draw-percent: 79
+  takeout-total: 61
+  takeout-percent: 84
+  shots-total: 116
+  shots-percent: 82
 - event: Trials (Men)
   games: 9
   wins: 3
@@ -100,6 +114,23 @@ years:
   takeout-percent: 79
   shots-total: 186
   shots-percent: 77
+- year: 2003
+  event: Canada Cup (Men)
+  team: Adam
+  position: Fourth
+  games: 6
+  wins: 4
+  losses: 2
+  inturn-total: 53
+  inturn-percent: 75
+  outturn-total: 63
+  outturn-percent: 87
+  draw-total: 55
+  draw-percent: 79
+  takeout-total: 61
+  takeout-percent: 84
+  shots-total: 116
+  shots-percent: 82
 - year: 2005
   event: Trials (Men)
   team: ADA
@@ -161,6 +192,7 @@ vs:
 - Gavin, Martin
 - Gibson, Andrew
 - Golanowski, Rory
+- Goodman, Eric
 - Gorveatt, Philip
 - Gould, Steve
 - Grattan, James
@@ -172,6 +204,7 @@ vs:
 - Hart, Richard
 - Hebert, Ben
 - Henderson, Ron
+- Hersikorn, Terry
 - Hollett, Peter
 - Holowaychuk, Dan
 - Hong, Doug
@@ -179,6 +212,7 @@ vs:
 - Howard, Glenn
 - Howard, Russ
 - Howard, Steven
+- Humble, Brian
 - Jacobs, Brad
 - Jakubo, Mike
 - Jenkins, Bill
@@ -186,6 +220,7 @@ vs:
 - Kennedy, Marc
 - Kerr, Ian
 - Kilgallen, Shane
+- Kleiter, Dean
 - Koe, Jamie
 - Koe, Kevin
 - Koffski, Rob
@@ -236,11 +271,13 @@ vs:
 - Odishaw, Grant
 - Ouimet, Luc
 - Peachey, Jay
+- Perrin, Hubert
 - Perron, Rick
 - Pfeifer, Scott
 - Phillips, Tim
 - Pielak, Rod
 - Pierce, Brent
+- Pohl, Mike
 - Porter, Geoff
 - Pritchett, Bob
 - Pyper, Dwayne
@@ -271,10 +308,13 @@ vs:
 - Sveistrup, Jody
 - Sylvain, Eric
 - Tallon, Wayne
+- Tarasoff, Kerry
 - Thomson, Fred
 - Toner, Lee
 - Turpin, Randy
+- Ursel, Bob
 - Van Den Berghe, Garry
 - Vandenberghe, Garry
 - Walchuk, Don
+- Woodward, Murray
 ---

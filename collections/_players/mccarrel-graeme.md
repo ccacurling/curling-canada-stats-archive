@@ -17,6 +17,20 @@ totals:
   takeout-percent: 87
   shots-total: 883
   shots-percent: 85
+- event: Canada Cup (Men)
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 55
+  inturn-percent: 75
+  outturn-total: 53
+  outturn-percent: 84
+  draw-total: 59
+  draw-percent: 76
+  takeout-total: 49
+  takeout-percent: 83
+  shots-total: 108
+  shots-percent: 79
 - event: Trials (Men)
   games: 18
   wins: 5
@@ -100,6 +114,23 @@ years:
   takeout-percent: 83
   shots-total: 205
   shots-percent: 81
+- year: 2004
+  event: Canada Cup (Men)
+  team: MID
+  position: Third
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 55
+  inturn-percent: 75
+  outturn-total: 53
+  outturn-percent: 84
+  draw-total: 59
+  draw-percent: 76
+  takeout-total: 49
+  takeout-percent: 83
+  shots-total: 108
+  shots-percent: 79
 - year: 1997
   event: Trials (Men)
   team: MID
@@ -155,6 +186,7 @@ vs:
 - Chorostkowski, Brad
 - Chugg, Brad
 - Collins, Gerry
+- Cripps, Scott
 - Dabrowski, Don
 - Dacey, Mark
 - Dauphinee, Andrew
@@ -173,6 +205,7 @@ vs:
 - Ferraro, Marco
 - Fetterly, Tom
 - Flemming, Paul
+- Fowler, Rob
 - Franklin, Graeme
 - Frans, Joseph
 - Freschi, Don
@@ -183,6 +216,7 @@ vs:
 - Gawel, Pete
 - Gemmell, Dean
 - Germsheid, Tony
+- Gibson, Andrew
 - Gorveatt, Philip
 - Gould, Steve
 - Grattan, James
@@ -196,6 +230,7 @@ vs:
 - Harcourt, Doug
 - Harcourt, Greg
 - Harris, Mike
+- Harris, Rob
 - Harrison, Neil
 - Hart, Richard
 - Harvey, Don
@@ -216,8 +251,11 @@ vs:
 - Karrys, George
 - Kawaja, John
 - Keefe, Kevin
+- Kennedy, Marc
 - Kilgallen, Shane
 - Kirkness, James
+- Koe, Jamie
+- Koe, Kevin
 - Korab, Jamie
 - Kushnir, Warren
 - Lacey, Jeff
@@ -226,6 +264,7 @@ vs:
 - Lang, Rick
 - Langdon, Dennis
 - Loevenmark, Phil
+- Lohnes, Bruce
 - MacDonald, Blake
 - MacDonald, Brent
 - MacDonald, Frank
@@ -252,6 +291,7 @@ vs:
 - Miki, Bryan
 - Mitchell, Collin
 - Mitchell, Garth
+- Moffatt, Paul
 - Montgomery, Rod
 - Morris, John
 - Moshenko, Darcy
@@ -272,6 +312,7 @@ vs:
 - Park, Shane
 - Patterson, Scott
 - Perroud, Pat
+- Petryk, Dan
 - Pfeifer, Scott
 - Pielak, Rod
 - Pierce, Brent
@@ -332,6 +373,7 @@ vs:
 - Wallace, Dave
 - Wempe, Brian
 - Werenich, Ed
+- Westlund, Mike
 - Westphal, Don
 - Whittle, Mark
 - Wiersema, Dale

@@ -2,6 +2,896 @@
 title: Kari MacLean Head-to-head
 name: MacLean, Kari
 vs:
+- name: McDonald, Kristy
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 1
+      losses: 0
+    player2:
+      percent: 86
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: GH
+      position: Second
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: MC
+      position: Third
+      percent: 86
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(8)
+    score: MC 4 - GH 6
+- name: Miller, Jessica
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 2
+      losses: 0
+    player2:
+      percent: 88
+      wins: 0
+      losses: 2
+  games:
+  - player1:
+      team: GH
+      position: Second
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: KK
+      position: Second
+      percent: 84
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(10)
+    score: GH 8 - KK 6
+  - player1:
+      team: GH
+      position: Second
+      percent: 73
+      win: 1
+      loss: 0
+    player2:
+      team: KK
+      position: Second
+      percent: 91
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Semi-Final(14)
+    score: KK 7 - GH 9
+- name: Morris, Cori
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 90
+      wins: 1
+      losses: 0
+    player2:
+      percent: 86
+      wins: 0
+      losses: 1
+  - event: Hearts
+    player1:
+      percent: 95
+      wins: 1
+      losses: 0
+    player2:
+      percent: 84
+      wins: 0
+      losses: 1
+  - event: Trials (Women)
+    player1:
+      percent: 80
+      wins: 0
+      losses: 1
+    player2:
+      percent: 81
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: GH
+      position: Second
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: BB
+      position: Lead
+      percent: 86
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(4)
+    score: BB 7 - GH 8
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 95
+      win: 1
+      loss: 0
+    player2:
+      team: AB
+      position: Lead
+      percent: 84
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2009
+    draw: Round Robin(17)
+    score: AB 5 - ON 6
+  - player1:
+      team: MCCA
+      position: Second
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: BERN
+      position: Lead
+      percent: 81
+      win: 1
+      loss: 0
+    event: Trials (Women)
+    year: 2009
+    draw: Round Robin(1)
+    score: BERN 11 - MCCA 7
+- name: Nedohin, Heather
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 2
+      losses: 0
+    player2:
+      percent: 76
+      wins: 0
+      losses: 2
+  games:
+  - player1:
+      team: GH
+      position: Second
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: KK
+      position: Fourth
+      percent: 75
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(10)
+    score: GH 8 - KK 6
+  - player1:
+      team: GH
+      position: Second
+      percent: 73
+      win: 1
+      loss: 0
+    player2:
+      team: KK
+      position: Fourth
+      percent: 76
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Semi-Final(14)
+    score: KK 7 - GH 9
+- name: Nixon, Amy
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 65
+      wins: 1
+      losses: 1
+    player2:
+      percent: 88
+      wins: 1
+      losses: 1
+  - event: Trials (Women)
+    player1:
+      percent: 77
+      wins: 0
+      losses: 2
+    player2:
+      percent: 81
+      wins: 2
+      losses: 0
+  games:
+  - player1:
+      team: GH
+      position: Second
+      percent: 53
+      win: 0
+      loss: 1
+    player2:
+      team: KM
+      position: Third
+      percent: 90
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Page 1-2(12)
+    score: GH 4 - KM 7
+  - player1:
+      team: GH
+      position: Second
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: KM
+      position: Third
+      percent: 86
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Final(16)
+    score: GH 10 - KM 7
+  - player1:
+      team: MCCA
+      position: Second
+      percent: 74
+      win: 0
+      loss: 1
+    player2:
+      team: KLEI
+      position: Third
+      percent: 81
+      win: 1
+      loss: 0
+    event: Trials (Women)
+    year: 2009
+    draw: Round Robin(4)
+    score: KLEI 7 - MCCA 4
+  - player1:
+      team: MCCA
+      position: Second
+      percent: 81
+      win: 0
+      loss: 1
+    player2:
+      team: KLEI
+      position: Third
+      percent: 80
+      win: 1
+      loss: 0
+    event: Trials (Women)
+    year: 2009
+    draw: Semi-Final(10)
+    score: KLEI 10 - MCCA 5
+- name: O'Connor, Susan
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 90
+      wins: 1
+      losses: 0
+    player2:
+      percent: 78
+      wins: 0
+      losses: 1
+  - event: Hearts
+    player1:
+      percent: 95
+      wins: 1
+      losses: 0
+    player2:
+      percent: 81
+      wins: 0
+      losses: 1
+  - event: Trials (Women)
+    player1:
+      percent: 80
+      wins: 0
+      losses: 1
+    player2:
+      percent: 79
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: GH
+      position: Second
+      percent: 90
+      win: 1
+      loss: 0
+    player2:
+      team: BB
+      position: Third
+      percent: 78
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(4)
+    score: BB 7 - GH 8
+  - player1:
+      team: 'ON'
+      position: Second
+      percent: 95
+      win: 1
+      loss: 0
+    player2:
+      team: AB
+      position: Third
+      percent: 81
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2009
+    draw: Round Robin(17)
+    score: AB 5 - ON 6
+  - player1:
+      team: MCCA
+      position: Second
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: BERN
+      position: Third
+      percent: 79
+      win: 1
+      loss: 0
+    event: Trials (Women)
+    year: 2009
+    draw: Round Robin(1)
+    score: BERN 11 - MCCA 7
+- name: Peters, Laine
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 2
+      losses: 0
+    player2:
+      percent: 91
+      wins: 0
+      losses: 2
+  games:
+  - player1:
+      team: GH
+      position: Second
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: KK
+      position: Lead
+      percent: 86
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(10)
+    score: GH 8 - KK 6
+  - player1:
+      team: GH
+      position: Second
+      percent: 73
+      win: 1
+      loss: 0
+    player2:
+      team: KK
+      position: Lead
+      percent: 95
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Semi-Final(14)
+    score: KK 7 - GH 9
+- name: Schneider, Kim
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 98
+      wins: 1
+      losses: 0
+    player2:
+      percent: 81
+      wins: 0
+      losses: 1
+  - event: Hearts
+    player1:
+      percent: 80
+      wins: 0
+      losses: 1
+    player2:
+      percent: 76
+      wins: 1
+      losses: 0
+  - event: Trials (Women)
+    player1:
+      percent: 83
+      wins: 1
+      losses: 1
+    player2:
+      percent: 81
+      wins: 1
+      losses: 1
+  games:
+  - player1:
+      team: GH
+      position: Second
+      percent: 98
+      win: 1
+      loss: 0
+    player2:
+      team: RFO
+      position: Third
+      percent: 81
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(7)
+    score: RFO 3 - GH 10
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: SK
+      position: Third
+      percent: 76
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2010
+    draw: Round Robin(6)
+    score: SK 7 - ON 6
+  - player1:
+      team: MCCA
+      position: Second
+      percent: 85
+      win: 0
+      loss: 1
+    player2:
+      team: HOLL
+      position: Third
+      percent: 74
+      win: 1
+      loss: 0
+    event: Trials (Women)
+    year: 2009
+    draw: Round Robin(6)
+    score: HOLL 4 - MCCA 3
+  - player1:
+      team: MCCA
+      position: Second
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: HOLL
+      position: Third
+      percent: 88
+      win: 0
+      loss: 1
+    event: Trials (Women)
+    year: 2009
+    draw: Tie-Breaker(9)
+    score: MCCA 7 - HOLL 6
+- name: Schneider, Tammy
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 98
+      wins: 1
+      losses: 0
+    player2:
+      percent: 75
+      wins: 0
+      losses: 1
+  - event: Hearts
+    player1:
+      percent: 80
+      wins: 0
+      losses: 1
+    player2:
+      percent: 89
+      wins: 1
+      losses: 0
+  - event: Trials (Women)
+    player1:
+      percent: 83
+      wins: 1
+      losses: 1
+    player2:
+      percent: 75
+      wins: 1
+      losses: 1
+  games:
+  - player1:
+      team: GH
+      position: Second
+      percent: 98
+      win: 1
+      loss: 0
+    player2:
+      team: RFO
+      position: Second
+      percent: 75
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(7)
+    score: RFO 3 - GH 10
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 80
+      win: 0
+      loss: 1
+    player2:
+      team: SK
+      position: Second
+      percent: 89
+      win: 1
+      loss: 0
+    event: Hearts
+    year: 2010
+    draw: Round Robin(6)
+    score: SK 7 - ON 6
+  - player1:
+      team: MCCA
+      position: Second
+      percent: 85
+      win: 0
+      loss: 1
+    player2:
+      team: HOLL
+      position: Second
+      percent: 73
+      win: 1
+      loss: 0
+    event: Trials (Women)
+    year: 2009
+    draw: Round Robin(6)
+    score: HOLL 4 - MCCA 3
+  - player1:
+      team: MCCA
+      position: Second
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: HOLL
+      position: Second
+      percent: 77
+      win: 0
+      loss: 1
+    event: Trials (Women)
+    year: 2009
+    draw: Tie-Breaker(9)
+    score: MCCA 7 - HOLL 6
+- name: Schraeder, Jeanna
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 85
+      wins: 1
+      losses: 0
+    player2:
+      percent: 92
+      wins: 0
+      losses: 1
+  - event: Hearts
+    player1:
+      percent: 82
+      wins: 2
+      losses: 0
+    player2:
+      percent: 64
+      wins: 0
+      losses: 2
+  - event: Trials (Women)
+    player1:
+      percent: 81
+      wins: 1
+      losses: 0
+    player2:
+      percent: 72
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: GH
+      position: Second
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: JS
+      position: Third
+      percent: 92
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(2)
+    score: GH 8 - JS 5
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 79
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Third
+      percent: 57
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2010
+    draw: Round Robin(8)
+    score: BC 6 - ON 7
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Third
+      percent: 70
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2010
+    draw: Page 3-4(20)
+    score: BC 4 - ON 6
+  - player1:
+      team: MCCA
+      position: Second
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: SCOT
+      position: Third
+      percent: 72
+      win: 0
+      loss: 1
+    event: Trials (Women)
+    year: 2009
+    draw: Round Robin(5)
+    score: SCOT 5 - MCCA 9
+- name: Scott, Kelly
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 85
+      wins: 1
+      losses: 0
+    player2:
+      percent: 72
+      wins: 0
+      losses: 1
+  - event: Hearts
+    player1:
+      percent: 82
+      wins: 2
+      losses: 0
+    player2:
+      percent: 76
+      wins: 0
+      losses: 2
+  - event: Trials (Women)
+    player1:
+      percent: 81
+      wins: 1
+      losses: 0
+    player2:
+      percent: 61
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: GH
+      position: Second
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: JS
+      position: Fourth
+      percent: 72
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(2)
+    score: GH 8 - JS 5
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 79
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Fourth
+      percent: 80
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2010
+    draw: Round Robin(8)
+    score: BC 6 - ON 7
+  - player1:
+      team: 'ON'
+      position: Lead
+      percent: 85
+      win: 1
+      loss: 0
+    player2:
+      team: BC
+      position: Fourth
+      percent: 71
+      win: 0
+      loss: 1
+    event: Hearts
+    year: 2010
+    draw: Page 3-4(20)
+    score: BC 4 - ON 6
+  - player1:
+      team: MCCA
+      position: Second
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: SCOT
+      position: Fourth
+      percent: 61
+      win: 0
+      loss: 1
+    event: Trials (Women)
+    year: 2009
+    draw: Round Robin(5)
+    score: SCOT 5 - MCCA 9
+- name: Titheridge, Lindsay
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 1
+      losses: 0
+    player2:
+      percent: 89
+      wins: 0
+      losses: 1
+  games:
+  - player1:
+      team: GH
+      position: Second
+      percent: 81
+      win: 1
+      loss: 0
+    player2:
+      team: MC
+      position: Lead
+      percent: 89
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(8)
+    score: MC 4 - GH 6
+- name: Webster, Bronwen
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 65
+      wins: 1
+      losses: 1
+    player2:
+      percent: 86
+      wins: 1
+      losses: 1
+  - event: Trials (Women)
+    player1:
+      percent: 77
+      wins: 0
+      losses: 2
+    player2:
+      percent: 91
+      wins: 2
+      losses: 0
+  games:
+  - player1:
+      team: GH
+      position: Second
+      percent: 53
+      win: 0
+      loss: 1
+    player2:
+      team: KM
+      position: Second
+      percent: 88
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Page 1-2(12)
+    score: GH 4 - KM 7
+  - player1:
+      team: GH
+      position: Second
+      percent: 78
+      win: 1
+      loss: 0
+    player2:
+      team: KM
+      position: Second
+      percent: 84
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Final(16)
+    score: GH 10 - KM 7
+  - player1:
+      team: MCCA
+      position: Second
+      percent: 74
+      win: 0
+      loss: 1
+    player2:
+      team: KLEI
+      position: Second
+      percent: 95
+      win: 1
+      loss: 0
+    event: Trials (Women)
+    year: 2009
+    draw: Round Robin(4)
+    score: KLEI 7 - MCCA 4
+  - player1:
+      team: MCCA
+      position: Second
+      percent: 81
+      win: 0
+      loss: 1
+    player2:
+      team: KLEI
+      position: Second
+      percent: 86
+      win: 1
+      loss: 0
+    event: Trials (Women)
+    year: 2009
+    draw: Semi-Final(10)
+    score: KLEI 10 - MCCA 5
 - name: MacPhee, Robyn
   totals:
   - event: Hearts
@@ -255,59 +1145,6 @@ vs:
     year: 2010
     draw: Round Robin(4)
     score: ON 7 - AB 6
-- name: Morris, Cori
-  totals:
-  - event: Hearts
-    player1:
-      percent: 95
-      wins: 1
-      losses: 0
-    player2:
-      percent: 84
-      wins: 0
-      losses: 1
-  - event: Trials (Women)
-    player1:
-      percent: 80
-      wins: 0
-      losses: 1
-    player2:
-      percent: 81
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: 'ON'
-      position: Second
-      percent: 95
-      win: 1
-      loss: 0
-    player2:
-      team: AB
-      position: Lead
-      percent: 84
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2009
-    draw: Round Robin(17)
-    score: AB 5 - ON 6
-  - player1:
-      team: MCCA
-      position: Second
-      percent: 80
-      win: 0
-      loss: 1
-    player2:
-      team: BERN
-      position: Lead
-      percent: 81
-      win: 1
-      loss: 0
-    event: Trials (Women)
-    year: 2009
-    draw: Round Robin(1)
-    score: BERN 11 - MCCA 7
 - name: Moses, Dawn
   totals:
   - event: Hearts
@@ -464,59 +1301,6 @@ vs:
     year: 2010
     draw: Round Robin(1)
     score: NB 2 - ON 9
-- name: O'Connor, Susan
-  totals:
-  - event: Hearts
-    player1:
-      percent: 95
-      wins: 1
-      losses: 0
-    player2:
-      percent: 81
-      wins: 0
-      losses: 1
-  - event: Trials (Women)
-    player1:
-      percent: 80
-      wins: 0
-      losses: 1
-    player2:
-      percent: 79
-      wins: 1
-      losses: 0
-  games:
-  - player1:
-      team: 'ON'
-      position: Second
-      percent: 95
-      win: 1
-      loss: 0
-    player2:
-      team: AB
-      position: Third
-      percent: 81
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2009
-    draw: Round Robin(17)
-    score: AB 5 - ON 6
-  - player1:
-      team: MCCA
-      position: Second
-      percent: 80
-      win: 0
-      loss: 1
-    player2:
-      team: BERN
-      position: Third
-      percent: 79
-      win: 1
-      loss: 0
-    event: Trials (Women)
-    year: 2009
-    draw: Round Robin(1)
-    score: BERN 11 - MCCA 7
 - name: Officer, Jill
   totals:
   - event: Hearts
@@ -927,282 +1711,6 @@ vs:
     year: 2009
     draw: Round Robin(10)
     score: ON 8 - QC 10
-- name: Schneider, Kim
-  totals:
-  - event: Hearts
-    player1:
-      percent: 80
-      wins: 0
-      losses: 1
-    player2:
-      percent: 76
-      wins: 1
-      losses: 0
-  - event: Trials (Women)
-    player1:
-      percent: 83
-      wins: 1
-      losses: 1
-    player2:
-      percent: 81
-      wins: 1
-      losses: 1
-  games:
-  - player1:
-      team: 'ON'
-      position: Lead
-      percent: 80
-      win: 0
-      loss: 1
-    player2:
-      team: SK
-      position: Third
-      percent: 76
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2010
-    draw: Round Robin(6)
-    score: SK 7 - ON 6
-  - player1:
-      team: MCCA
-      position: Second
-      percent: 85
-      win: 0
-      loss: 1
-    player2:
-      team: HOLL
-      position: Third
-      percent: 74
-      win: 1
-      loss: 0
-    event: Trials (Women)
-    year: 2009
-    draw: Round Robin(6)
-    score: HOLL 4 - MCCA 3
-  - player1:
-      team: MCCA
-      position: Second
-      percent: 81
-      win: 1
-      loss: 0
-    player2:
-      team: HOLL
-      position: Third
-      percent: 88
-      win: 0
-      loss: 1
-    event: Trials (Women)
-    year: 2009
-    draw: Tie-Breaker(9)
-    score: MCCA 7 - HOLL 6
-- name: Schneider, Tammy
-  totals:
-  - event: Hearts
-    player1:
-      percent: 80
-      wins: 0
-      losses: 1
-    player2:
-      percent: 89
-      wins: 1
-      losses: 0
-  - event: Trials (Women)
-    player1:
-      percent: 83
-      wins: 1
-      losses: 1
-    player2:
-      percent: 75
-      wins: 1
-      losses: 1
-  games:
-  - player1:
-      team: 'ON'
-      position: Lead
-      percent: 80
-      win: 0
-      loss: 1
-    player2:
-      team: SK
-      position: Second
-      percent: 89
-      win: 1
-      loss: 0
-    event: Hearts
-    year: 2010
-    draw: Round Robin(6)
-    score: SK 7 - ON 6
-  - player1:
-      team: MCCA
-      position: Second
-      percent: 85
-      win: 0
-      loss: 1
-    player2:
-      team: HOLL
-      position: Second
-      percent: 73
-      win: 1
-      loss: 0
-    event: Trials (Women)
-    year: 2009
-    draw: Round Robin(6)
-    score: HOLL 4 - MCCA 3
-  - player1:
-      team: MCCA
-      position: Second
-      percent: 81
-      win: 1
-      loss: 0
-    player2:
-      team: HOLL
-      position: Second
-      percent: 77
-      win: 0
-      loss: 1
-    event: Trials (Women)
-    year: 2009
-    draw: Tie-Breaker(9)
-    score: MCCA 7 - HOLL 6
-- name: Schraeder, Jeanna
-  totals:
-  - event: Hearts
-    player1:
-      percent: 82
-      wins: 2
-      losses: 0
-    player2:
-      percent: 64
-      wins: 0
-      losses: 2
-  - event: Trials (Women)
-    player1:
-      percent: 81
-      wins: 1
-      losses: 0
-    player2:
-      percent: 72
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: 'ON'
-      position: Lead
-      percent: 79
-      win: 1
-      loss: 0
-    player2:
-      team: BC
-      position: Third
-      percent: 57
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2010
-    draw: Round Robin(8)
-    score: BC 6 - ON 7
-  - player1:
-      team: 'ON'
-      position: Lead
-      percent: 85
-      win: 1
-      loss: 0
-    player2:
-      team: BC
-      position: Third
-      percent: 70
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2010
-    draw: Page 3-4(20)
-    score: BC 4 - ON 6
-  - player1:
-      team: MCCA
-      position: Second
-      percent: 81
-      win: 1
-      loss: 0
-    player2:
-      team: SCOT
-      position: Third
-      percent: 72
-      win: 0
-      loss: 1
-    event: Trials (Women)
-    year: 2009
-    draw: Round Robin(5)
-    score: SCOT 5 - MCCA 9
-- name: Scott, Kelly
-  totals:
-  - event: Hearts
-    player1:
-      percent: 82
-      wins: 2
-      losses: 0
-    player2:
-      percent: 76
-      wins: 0
-      losses: 2
-  - event: Trials (Women)
-    player1:
-      percent: 81
-      wins: 1
-      losses: 0
-    player2:
-      percent: 61
-      wins: 0
-      losses: 1
-  games:
-  - player1:
-      team: 'ON'
-      position: Lead
-      percent: 79
-      win: 1
-      loss: 0
-    player2:
-      team: BC
-      position: Fourth
-      percent: 80
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2010
-    draw: Round Robin(8)
-    score: BC 6 - ON 7
-  - player1:
-      team: 'ON'
-      position: Lead
-      percent: 85
-      win: 1
-      loss: 0
-    player2:
-      team: BC
-      position: Fourth
-      percent: 71
-      win: 0
-      loss: 1
-    event: Hearts
-    year: 2010
-    draw: Page 3-4(20)
-    score: BC 4 - ON 6
-  - player1:
-      team: MCCA
-      position: Second
-      percent: 81
-      win: 1
-      loss: 0
-    player2:
-      team: SCOT
-      position: Fourth
-      percent: 61
-      win: 0
-      loss: 1
-    event: Trials (Women)
-    year: 2009
-    draw: Round Robin(5)
-    score: SCOT 5 - MCCA 9
 - name: Singler, Sherri
   totals:
   - event: Hearts
@@ -1701,50 +2209,6 @@ vs:
     year: 2009
     draw: Round Robin(7)
     score: MCCA 6 - WEBS 4
-- name: Nixon, Amy
-  totals:
-  - event: Trials (Women)
-    player1:
-      percent: 77
-      wins: 0
-      losses: 2
-    player2:
-      percent: 81
-      wins: 2
-      losses: 0
-  games:
-  - player1:
-      team: MCCA
-      position: Second
-      percent: 74
-      win: 0
-      loss: 1
-    player2:
-      team: KLEI
-      position: Third
-      percent: 81
-      win: 1
-      loss: 0
-    event: Trials (Women)
-    year: 2009
-    draw: Round Robin(4)
-    score: KLEI 7 - MCCA 4
-  - player1:
-      team: MCCA
-      position: Second
-      percent: 81
-      win: 0
-      loss: 1
-    player2:
-      team: KLEI
-      position: Third
-      percent: 80
-      win: 1
-      loss: 0
-    event: Trials (Women)
-    year: 2009
-    draw: Semi-Final(10)
-    score: KLEI 10 - MCCA 5
 - name: Olson-Johns, Lori
   totals:
   - event: Trials (Women)
@@ -1801,50 +2265,6 @@ vs:
     year: 2009
     draw: Round Robin(7)
     score: MCCA 6 - WEBS 4
-- name: Webster, Bronwen
-  totals:
-  - event: Trials (Women)
-    player1:
-      percent: 77
-      wins: 0
-      losses: 2
-    player2:
-      percent: 91
-      wins: 2
-      losses: 0
-  games:
-  - player1:
-      team: MCCA
-      position: Second
-      percent: 74
-      win: 0
-      loss: 1
-    player2:
-      team: KLEI
-      position: Second
-      percent: 95
-      win: 1
-      loss: 0
-    event: Trials (Women)
-    year: 2009
-    draw: Round Robin(4)
-    score: KLEI 7 - MCCA 4
-  - player1:
-      team: MCCA
-      position: Second
-      percent: 81
-      win: 0
-      loss: 1
-    player2:
-      team: KLEI
-      position: Second
-      percent: 86
-      win: 1
-      loss: 0
-    event: Trials (Women)
-    year: 2009
-    draw: Semi-Final(10)
-    score: KLEI 10 - MCCA 5
 - name: Webster, Crystal
   totals:
   - event: Trials (Women)

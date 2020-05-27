@@ -17,6 +17,10 @@ totals:
   takeout-percent: 86
   shots-total: 16
   shots-percent: 67
+- event: Canada Cup (Men)
+  games: 0
+  wins: 0
+  losses: 0
 - event: Trials (Men)
   games: 1
   wins: 1
@@ -61,6 +65,10 @@ years:
   takeout-percent: 86
   shots-total: 16
   shots-percent: 67
+- year: 2004
+  event: Canada Cup (Men)
+  team: DAC
+  position: Alternate
 - year: 2005
   event: Trials (Men)
   team: DAC

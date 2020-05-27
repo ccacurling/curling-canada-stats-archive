@@ -3,6 +3,20 @@ title: Julie Skinner
 name: Julie Skinner
 name-sort: Skinner, Julie
 totals:
+- event: Canada Cup (Women)
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 80
+  inturn-percent: 85
+  outturn-total: 54
+  outturn-percent: 76
+  draw-total: 35
+  draw-percent: 76
+  takeout-total: 99
+  takeout-percent: 83
+  shots-total: 134
+  shots-percent: 82
 - event: Hearts
   games: 78
   wins: 54
@@ -32,6 +46,23 @@ totals:
   shots-total: 196
   shots-percent: 84
 years:
+- year: 2003
+  event: Canada Cup (Women)
+  team: KLaw
+  position: Second
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 80
+  inturn-percent: 85
+  outturn-total: 54
+  outturn-percent: 76
+  draw-total: 35
+  draw-percent: 76
+  takeout-total: 99
+  takeout-percent: 83
+  shots-total: 134
+  shots-percent: 82
 - year: 1989
   event: Hearts
   team: BC
@@ -221,11 +252,13 @@ vs:
 - Belanger, Nancy
 - Bell, Allyson
 - Bell, Patty
+- Bergner, Sasha
 - Bernard, Cheryl
 - Bernard, Krista
 - Berthelot, Janique
 - Betker, Jan
 - Beveridge, Corie
+- Birt, Suzanne
 - Blanchard, Judy
 - Bohmer, Brenda
 - Bonar, Maureen
@@ -259,6 +292,7 @@ vs:
 - Earl, Allison
 - Ellwood, Laurie
 - Englot, Michelle
+- Enright, Barb
 - Fahlman, Kathy
 - Farrell, Allison
 - Floyd, Kathy
@@ -267,6 +301,7 @@ vs:
 - Fowlie, Heather
 - Fraser, Sherry
 - Frey, Audrey
+- Froud, Susan
 - Gallant, Kathie
 - Galusha, Kerry
 - Gatchell, Sara
@@ -319,8 +354,10 @@ vs:
 - MacAulay, Marion
 - MacCallum, Janice
 - MacDonald, Lawnie
+- MacDonald, Rebecca Jean
 - MacDonald, Shelley
 - MacDougall, Leslie
+- MacPhee, Robyn
 - Martin, Denise
 - Materi, Roberta
 - Mattatall, Mary
@@ -368,7 +405,9 @@ vs:
 - Radchenka, Tammy
 - Rankin, Heather
 - Renouf, Michele
+- Richard, Jeanna
 - Roberts, Angela
+- Robertson, Darcy
 - Rudd, Colleen
 - Ryan, Diane
 - Ryan, Penny
@@ -378,13 +417,17 @@ vs:
 - Sauer, Cathy
 - Scales, Julie
 - Schmirler, Sandra
+- Scott, Kelly
+- Shantz, Penny
 - Sharpe, Kelli
 - Sherrington, Barb
 - Shigehiro, Sally
+- Simons, Renee
 - Smith, Heather
 - Smith, Yvonne
 - Sonnenberg, Renee
 - Sparrow, Sandra
+- Spencer, Barb
 - Stabel, Stacey
 - Stahl, Carrie
 - Stewart, Sheri
@@ -397,8 +440,10 @@ vs:
 - Thomas, Maria
 - Todd, Fran
 - Turcotte, Kristin
+- Unrau, Faye
 - Usher, Leanne
 - Walker, Lisa
+- Wall, Kirsten
 - Walter, Cathy
 - Webster, Bronwen
 - Whitaker, Lise

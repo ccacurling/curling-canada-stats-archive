@@ -17,6 +17,20 @@ totals:
   takeout-percent: 81
   shots-total: 615
   shots-percent: 80
+- event: Canada Cup (Men)
+  games: 10
+  wins: 4
+  losses: 6
+  inturn-total: 82
+  inturn-percent: 77
+  outturn-total: 94
+  outturn-percent: 77
+  draw-total: 91
+  draw-percent: 72
+  takeout-total: 85
+  takeout-percent: 83
+  shots-total: 176
+  shots-percent: 77
 - event: Trials (Men)
   games: 9
   wins: 3
@@ -83,6 +97,40 @@ years:
   takeout-percent: 87
   shots-total: 202
   shots-percent: 84
+- year: 2005
+  event: Canada Cup (Men)
+  team: Har
+  position: Second
+  games: 5
+  wins: 3
+  losses: 2
+  inturn-total: 43
+  inturn-percent: 79
+  outturn-total: 47
+  outturn-percent: 81
+  draw-total: 42
+  draw-percent: 77
+  takeout-total: 48
+  takeout-percent: 83
+  shots-total: 90
+  shots-percent: 80
+- year: 2007
+  event: Canada Cup (Men)
+  team: Bas
+  position: Third
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 39
+  inturn-percent: 74
+  outturn-total: 47
+  outturn-percent: 73
+  draw-total: 49
+  draw-percent: 67
+  takeout-total: 37
+  takeout-percent: 82
+  shots-total: 86
+  shots-percent: 74
 - year: 1997
   event: Trials (Men)
   team: HOW
@@ -108,6 +156,7 @@ vs:
 - Arsenault, Craig
 - Bailey, Scott
 - Bartlett, Don
+- Bucholz, Rob
 - Buckle, Andrew
 - Burnett, Steve
 - Burtnyk, Kerry
@@ -116,12 +165,15 @@ vs:
 - Cayouette, Maurice
 - Charette, Pierre
 - Corner, Peter
+- Cotter, Jim
 - Cursons, Neil
 - Dacey, Mark
+- Daneault, Richard
 - Dauphinee, Andrew
 - Dieno, Clint
 - Dobson, Brian
 - Doyon, Ghislain
+- Enright, Adam
 - Fawcett, Brian
 - Feldman, Alfred
 - Fenton, Brad
@@ -149,6 +201,7 @@ vs:
 - Harcourt, Doug
 - Harcourt, Greg
 - Hardy, Gord
+- Harper, David
 - Harris, Mike
 - Harris, Rob
 - Harris, Tyler
@@ -163,11 +216,16 @@ vs:
 - Irwin, Don
 - Iskiw, Blayne
 - Jack, Clarence
+- Johnson, Mark
 - Johnston, Steve
 - Johnston, Wade
 - Kalthoff, Kevin
+- Kammerlock, Dan
 - Karrys, George
 - Kawaja, John
+- Kennedy, Glen
+- Kennedy, Marc
+- Koe, Kevin
 - Korab, Jamie
 - Korte, Bruce
 - Korte, Roger
@@ -184,6 +242,7 @@ vs:
 - MacDonald, Blake
 - MacDonald, Brent
 - MacKenzie, Eddie
+- MacKenzie, Kevin
 - Madden, Paul
 - Martin, Kevin
 - Maurice, Jean
@@ -195,9 +254,12 @@ vs:
 - Mellof, Dave
 - Middaugh, Wayne
 - Mitchell, Collin
+- Moffatt, Paul
 - Moffatt, Rich
 - Molloy, Pat
+- Morris, John
 - Moss, Steve
+- Naharnie, Cory
 - Nedohin, David
 - Ness, Dale
 - Nicholls, Peter
@@ -229,9 +291,13 @@ vs:
 - Rogers, Les
 - Roy, Jean-Sebastien
 - Ryan, Jeff
+- Ryan, Keith
 - Ryan, Pat
+- Rycroft, Carter
 - Salina, Charlie
+- Sawatsky, Rick
 - Scales, Brent
+- Schille, Chris
 - Semen, Jerry
 - Shymko, Gerald
 - Smith, Dave
@@ -241,6 +307,7 @@ vs:
 - Sullivan, Evan
 - Tetley, Ian
 - Thibaudeau, Guy
+- Thiessen, Nolan
 - Thomas, Rob
 - Tresoor, Ken
 - Trevellyan, Todd

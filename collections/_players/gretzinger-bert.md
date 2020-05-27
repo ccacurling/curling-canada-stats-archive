@@ -17,6 +17,10 @@ totals:
   takeout-percent: 82
   shots-total: 1209
   shots-percent: 83
+- event: Canada Cup (Men)
+  games: 0
+  wins: 0
+  losses: 0
 - event: Trials (Men)
   games: 10
   wins: 6
@@ -117,6 +121,10 @@ years:
   takeout-percent: 81
   shots-total: 211
   shots-percent: 83
+- year: 2005
+  event: Canada Cup (Men)
+  team: Rya
+  position: Alternate
 - year: 2001
   event: Trials (Men)
   team: GRE

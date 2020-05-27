@@ -3,6 +3,20 @@ title: Amber Holland
 name: Amber Holland
 name-sort: Holland, Amber
 totals:
+- event: Canada Cup (Women)
+  games: 16
+  wins: 6
+  losses: 10
+  inturn-total: 150
+  inturn-percent: 73
+  outturn-total: 157
+  outturn-percent: 73
+  draw-total: 146
+  draw-percent: 72
+  takeout-total: 161
+  takeout-percent: 73
+  shots-total: 307
+  shots-percent: 73
 - event: Hearts
   games: 36
   wins: 23
@@ -32,6 +46,57 @@ totals:
   shots-total: 353
   shots-percent: 81
 years:
+- year: 2009
+  event: Canada Cup (Women)
+  team: HOLL
+  position: Fourth
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 51
+  inturn-percent: 63
+  outturn-total: 45
+  outturn-percent: 78
+  draw-total: 34
+  draw-percent: 58
+  takeout-total: 62
+  takeout-percent: 77
+  shots-total: 96
+  shots-percent: 70
+- year: 2010
+  event: Canada Cup (Women)
+  team: AH
+  position: Fourth
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 40
+  inturn-percent: 83
+  outturn-total: 53
+  outturn-percent: 67
+  draw-total: 46
+  draw-percent: 79
+  takeout-total: 47
+  takeout-percent: 69
+  shots-total: 93
+  shots-percent: 74
+- year: 2011
+  event: Canada Cup (Women)
+  team: HOL
+  position: Fourth
+  games: 6
+  wins: 2
+  losses: 4
+  inturn-total: 59
+  inturn-percent: 75
+  outturn-total: 59
+  outturn-percent: 73
+  draw-total: 66
+  draw-percent: 75
+  takeout-total: 52
+  takeout-percent: 73
+  shots-total: 118
+  shots-percent: 74
 - year: 1999
   event: Hearts
   team: SK
@@ -169,6 +234,8 @@ vs:
 - Bradley, Shelly
 - Brassard, Veronique
 - Brown, Janet
+- Bush, Tracy
+- Carey, Chelsea
 - Carmody, Erin
 - Carter, Sasha
 - Comeau, Martine
@@ -190,6 +257,7 @@ vs:
 - Fallis, Karen
 - Filteau, Anne-Marie
 - Fleury, Tracy
+- Foster, Kristen
 - Fowlie, Heather
 - Fraser, Sherry
 - Galusha, Kerry
@@ -240,8 +308,10 @@ vs:
 - Materi, Roberta
 - McCarville, Krista
 - McConnery, Nancy
+- McDonald, Kristy
 - McEwen, Dawn
 - Middaugh, Sherry
+- Miller, Jessica
 - Miller, Wendy
 - Miskew, Emma
 - More, Whitney
@@ -263,11 +333,14 @@ vs:
 - Peters, Laine
 - Pewarchuk, Dailene
 - Phillips, Kristen
+- Potts, Sarah
 - Preston, Sam
 - Rainville, Julie
 - Ramsay, Geri Lynn
 - Robison, Michala
+- Rocque, Raylene
 - Rogers, Rhonda
+- Sabourin, Joelle
 - Schraeder, Jeanna
 - Scott, Kelly
 - Singler, Sherri
@@ -282,6 +355,7 @@ vs:
 - Sweeting, Val
 - Thomas, Jill
 - Thurston, Jill
+- Titheridge, Lindsay
 - Udle, Teri
 - Vey, Lana
 - Walsh, Jenna

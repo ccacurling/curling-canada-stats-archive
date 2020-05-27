@@ -3,6 +3,20 @@ title: Kim Kelly
 name: Kim Kelly
 name-sort: Kelly, Kim
 totals:
+- event: Canada Cup (Women)
+  games: 17
+  wins: 10
+  losses: 7
+  inturn-total: 145
+  inturn-percent: 81
+  outturn-total: 191
+  outturn-percent: 79
+  draw-total: 137
+  draw-percent: 79
+  takeout-total: 199
+  takeout-percent: 81
+  shots-total: 336
+  shots-percent: 80
 - event: Hearts
   games: 180
   wins: 105
@@ -32,6 +46,57 @@ totals:
   shots-total: 360
   shots-percent: 82
 years:
+- year: 2003
+  event: Canada Cup (Women)
+  team: Jone
+  position: Third
+  games: 4
+  wins: 2
+  losses: 2
+  inturn-total: 35
+  inturn-percent: 86
+  outturn-total: 47
+  outturn-percent: 77
+  draw-total: 39
+  draw-percent: 78
+  takeout-total: 43
+  takeout-percent: 84
+  shots-total: 82
+  shots-percent: 81
+- year: 2004
+  event: Canada Cup (Women)
+  team: CJO
+  position: Third
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 52
+  inturn-percent: 78
+  outturn-total: 86
+  outturn-percent: 79
+  draw-total: 48
+  draw-percent: 78
+  takeout-total: 90
+  takeout-percent: 79
+  shots-total: 138
+  shots-percent: 79
+- year: 2005
+  event: Canada Cup (Women)
+  team: Jon
+  position: Third
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 58
+  inturn-percent: 81
+  outturn-total: 58
+  outturn-percent: 81
+  draw-total: 50
+  draw-percent: 81
+  takeout-total: 66
+  takeout-percent: 80
+  shots-total: 116
+  shots-percent: 81
 - year: 1989
   event: Hearts
   team: NS
@@ -392,6 +457,7 @@ vs:
 - Bell, Chelsey
 - Bell, Patty
 - Belley, Joelle
+- Bergner, Sasha
 - Bernard, Cheryl
 - Bernard, Krista
 - Berthelot, Janique
@@ -405,6 +471,7 @@ vs:
 - Bodogh, Marilyn
 - Bohmer, Brenda
 - Bonar, Maureen
+- Borne, Brandee
 - Bowman, Mary
 - Bradley, Shelly
 - Breen, Theresa
@@ -413,6 +480,7 @@ vs:
 - Brown, Janet
 - Brown, Katie
 - Brown, Marcie
+- Burgess, Allyson
 - Burgess, Carey
 - Burlington, Cheryl
 - Busche, Jodi
@@ -476,6 +544,7 @@ vs:
 - Fraser, Sherry
 - Freeman, Lisa
 - Frey, Audrey
+- Froud, Susan
 - Fullerton, Sarah
 - Gagnier, Monique
 - Gagnon, Karo
@@ -524,6 +593,7 @@ vs:
 - Hunter, Lana
 - Hutton, Barb
 - Iskiw, Beth
+- Johnston, Atina
 - Johnston, Kara
 - Johnstone, Loralee
 - Jones, Jennifer
@@ -611,6 +681,7 @@ vs:
 - Moriarty, Monica
 - Moses, Dawn
 - Moss, Debbie
+- Mossman, Angela
 - Muise, Morgan
 - Mulroney, Sandra
 - Muzika, Shelley
@@ -630,6 +701,7 @@ vs:
 - Overton-Clapham, Cathy
 - Palinkas, Gloria
 - Parsons, Danielle
+- Pasika, Rona
 - Pendergast, Judy
 - Peters, Laine
 - Phillips, Laura
@@ -646,6 +718,7 @@ vs:
 - Putland, Rose
 - Radchenka, Tammy
 - Rainville, Julie
+- Reddick, Audrey
 - Reed, Shellan
 - Renouf, Michele
 - Richard, Marie
@@ -656,6 +729,7 @@ vs:
 - Robichaud, Sylvie
 - Robinson, Charlene
 - Robinson, Lori
+- Rocheleau, Patty
 - Rocque, Raylene
 - Ross, Allison
 - Rudulier, Andrea
@@ -679,6 +753,7 @@ vs:
 - Singler, Sherri
 - Skinner, Julie
 - Smith, Heather
+- Smith, Nikki
 - Snider, Shelly
 - Soligo, Melissa
 - Sonnenberg, Renee
@@ -707,6 +782,7 @@ vs:
 - Todd, Fran
 - Train, Mona
 - Trider, Krista
+- Tuck, Kim
 - Tuck, Kimberly
 - Tucker, Cindy
 - Turcotte, Kristin

@@ -17,6 +17,20 @@ totals:
   takeout-percent: 87
   shots-total: 1093
   shots-percent: 87
+- event: Canada Cup (Men)
+  games: 26
+  wins: 8
+  losses: 18
+  inturn-total: 219
+  inturn-percent: 83
+  outturn-total: 263
+  outturn-percent: 87
+  draw-total: 261
+  draw-percent: 86
+  takeout-total: 221
+  takeout-percent: 85
+  shots-total: 482
+  shots-percent: 86
 - event: Trials (Men)
   games: 8
   wins: 4
@@ -117,6 +131,74 @@ years:
   takeout-percent: 88
   shots-total: 225
   shots-percent: 88
+- year: 2010
+  event: Canada Cup (Men)
+  team: RFO
+  position: Lead
+  games: 5
+  wins: 0
+  losses: 5
+  inturn-total: 35
+  inturn-percent: 86
+  outturn-total: 49
+  outturn-percent: 89
+  draw-total: 77
+  draw-percent: 89
+  takeout-total: 7
+  takeout-percent: 79
+  shots-total: 84
+  shots-percent: 88
+- year: 2015
+  event: Canada Cup (Men)
+  team: CAR
+  position: Second
+  games: 7
+  wins: 2
+  losses: 5
+  inturn-total: 67
+  inturn-percent: 84
+  outturn-total: 65
+  outturn-percent: 90
+  draw-total: 62
+  draw-percent: 88
+  takeout-total: 70
+  takeout-percent: 86
+  shots-total: 132
+  shots-percent: 87
+- year: 2016
+  event: Canada Cup (Men)
+  team: CAR
+  position: Second
+  games: 8
+  wins: 6
+  losses: 2
+  inturn-total: 60
+  inturn-percent: 89
+  outturn-total: 96
+  outturn-percent: 85
+  draw-total: 55
+  draw-percent: 87
+  takeout-total: 101
+  takeout-percent: 86
+  shots-total: 156
+  shots-percent: 86
+- year: 2018
+  event: Canada Cup (Men)
+  team: Carr
+  position: Second
+  games: 6
+  wins: 0
+  losses: 6
+  inturn-total: 57
+  inturn-percent: 76
+  outturn-total: 53
+  outturn-percent: 87
+  draw-total: 67
+  draw-percent: 81
+  takeout-total: 43
+  takeout-percent: 82
+  shots-total: 110
+  shots-percent: 81
 - year: 2017
   event: Trials (Men)
   team: Carr
@@ -141,6 +223,7 @@ vs:
 - Asselin, Felix
 - Bardsley, Mike
 - Barry, Josh
+- Bawel, Brent
 - Beuk, Jonathan
 - Bezanson, Jared
 - Boland, Adam
@@ -150,6 +233,7 @@ vs:
 - Burgess, Steve
 - Camm, Mathew
 - Carmody, Anson
+- Carruthers, Reid
 - Case, Peter
 - Casey, Adam
 - Chadwick, Scott
@@ -167,6 +251,7 @@ vs:
 - Dunstone, Matthew
 - Eldridge, Zach
 - Epping, John
+- Ferbey, Randy
 - Flasch, Colton
 - Flemming, Paul
 - Folk, Kevin
@@ -178,6 +263,7 @@ vs:
 - Gallant, Brett
 - Gallant, Chris
 - Gaudet, Mike
+- Gould, Steve
 - Grattan, James
 - Griffith, Ty
 - Griffith, Tyrel
@@ -191,6 +277,7 @@ vs:
 - Howard, Scott
 - Jacobs, Brad
 - Janssen, Patrick
+- Jantzen, Mike
 - Jeffrey, Chris
 - Jensen, Trygg
 - Jewer, Keith
@@ -208,6 +295,7 @@ vs:
 - Ledgerwood, Sean
 - Lemay, Philippe
 - Likely, John
+- MacDonald, Blake
 - MacKenzie, Eddie
 - MacKenzie, Tyler
 - Mackey, Peter
@@ -223,6 +311,7 @@ vs:
 - McDonald, Scott
 - McEwen, Mike
 - McLeod, Shadrach
+- Mead, Jonathan
 - Menard, Jean-Michel
 - Menard, Philippe
 - Middaugh, Wayne
@@ -240,12 +329,14 @@ vs:
 - Neufeld, Denni
 - Nichols, Mark
 - Njegovan, Connor
+- O'Connor, Sean
 - Odian, Scott
 - Odishaw, Grant
 - Odishaw, Terry
 - Parsons, Cole
 - Pinder, Jordan
 - Rach, Dave
+- Rocque, Marcel
 - Roy, Jean-Sebastien
 - Rycroft, Carter
 - Saccary, Scott
@@ -258,10 +349,13 @@ vs:
 - Smallwood, Robert
 - Solberg, Jonathon
 - St.Louis, David
+- Stoughton, Jeff
+- Sulimma, Hardi
 - Sylvain, Eric
 - Symonds, Andrew
 - Thiessen, Brad
 - Thiessen, Nolan
+- Thomas, Charley
 - Trepanier, Jean-Francois
 - Villeneuve, Steeve
 - Walker, Geoff

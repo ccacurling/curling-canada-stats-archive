@@ -3,6 +3,20 @@ title: Marie-France Larouche
 name: Marie-France Larouche
 name-sort: Larouche, Marie-France
 totals:
+- event: Canada Cup (Women)
+  games: 13
+  wins: 6
+  losses: 7
+  inturn-total: 139
+  inturn-percent: 79
+  outturn-total: 107
+  outturn-percent: 70
+  draw-total: 115
+  draw-percent: 72
+  takeout-total: 131
+  takeout-percent: 77
+  shots-total: 246
+  shots-percent: 75
 - event: Hearts
   games: 89
   wins: 49
@@ -32,6 +46,40 @@ totals:
   shots-total: 337
   shots-percent: 72
 years:
+- year: 2005
+  event: Canada Cup (Women)
+  team: Lar
+  position: Fourth
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 52
+  inturn-percent: 78
+  outturn-total: 40
+  outturn-percent: 66
+  draw-total: 36
+  draw-percent: 68
+  takeout-total: 56
+  takeout-percent: 76
+  shots-total: 92
+  shots-percent: 73
+- year: 2009
+  event: Canada Cup (Women)
+  team: M-FL
+  position: Fourth
+  games: 8
+  wins: 5
+  losses: 3
+  inturn-total: 87
+  inturn-percent: 79
+  outturn-total: 67
+  outturn-percent: 72
+  draw-total: 79
+  draw-percent: 74
+  takeout-total: 75
+  takeout-percent: 78
+  shots-total: 154
+  shots-percent: 76
 - year: 2000
   event: Hearts
   team: QC
@@ -316,10 +364,13 @@ vs:
 - Bonar, Maureen
 - Boyle, Jane
 - Bradley, Shelly
+- Breen, Theresa
 - Brennan, Amanda
 - Brothers, Jill
 - Brown, Jacalyn
 - Brown, Janet
+- Burgess, Allyson
+- Bush, Tracy
 - Campbell, Jolene
 - Carey, Chelsea
 - Carrier, Julie
@@ -357,6 +408,7 @@ vs:
 - Fowlie, Heather
 - Fraser, Sherry
 - Freeman, Lisa
+- Froud, Susan
 - Fyfe, Liz
 - Galusha, Kerry
 - Gates, Amanda
@@ -434,8 +486,11 @@ vs:
 - McDonald, Tina
 - McEwen, Dawn
 - McInnis, Susan
+- McIvor, Jolene
+- McIvor, Michelle
 - McNamee, Karen
 - McPherson, Cheryl
+- Merklinger, Anne
 - Middaugh, Sherry
 - Miller, Wendy
 - Miskew, Emma
@@ -468,6 +523,7 @@ vs:
 - Purdy, Karen
 - Radchenka, Tammy
 - Recksiedler, Kristen
+- Reddick, Audrey
 - Reed, Shellan
 - Renouf, Michele
 - Richard, Marie
@@ -476,12 +532,14 @@ vs:
 - Robertson, Darcy
 - Robichaud, Sylvie
 - Robison, Michala
+- Rocque, Raylene
 - Sagle, Karen
 - Sandison, Janice
 - Schneider, Kim
 - Schneider, Tammy
 - Schraeder, Jeanna
 - Scott, Kelly
+- Seeley, Heather
 - Sharpe, Kelli
 - Simmons, Cindy
 - Simons, Renee

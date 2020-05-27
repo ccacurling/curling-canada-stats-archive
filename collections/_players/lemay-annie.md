@@ -3,6 +3,20 @@ title: Annie Lemay
 name: Annie Lemay
 name-sort: Lemay, Annie
 totals:
+- event: Canada Cup (Women)
+  games: 13
+  wins: 6
+  losses: 7
+  inturn-total: 131
+  inturn-percent: 74
+  outturn-total: 119
+  outturn-percent: 72
+  draw-total: 117
+  draw-percent: 70
+  takeout-total: 133
+  takeout-percent: 77
+  shots-total: 250
+  shots-percent: 73
 - event: Hearts
   games: 94
   wins: 47
@@ -32,6 +46,40 @@ totals:
   shots-total: 348
   shots-percent: 78
 years:
+- year: 2005
+  event: Canada Cup (Women)
+  team: Lar
+  position: Second
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 45
+  inturn-percent: 75
+  outturn-total: 49
+  outturn-percent: 70
+  draw-total: 46
+  draw-percent: 66
+  takeout-total: 48
+  takeout-percent: 79
+  shots-total: 94
+  shots-percent: 72
+- year: 2009
+  event: Canada Cup (Women)
+  team: M-FL
+  position: Third
+  games: 8
+  wins: 5
+  losses: 3
+  inturn-total: 86
+  inturn-percent: 74
+  outturn-total: 70
+  outturn-percent: 74
+  draw-total: 71
+  draw-percent: 73
+  takeout-total: 85
+  takeout-percent: 75
+  shots-total: 156
+  shots-percent: 74
 - year: 1999
   event: Hearts
   team: QC
@@ -239,6 +287,8 @@ vs:
 - Brothers, Jill
 - Brown, Jacalyn
 - Brown, Janet
+- Burgess, Allyson
+- Bush, Tracy
 - Byers, Denise
 - Campbell, Jolene
 - Campbell, June
@@ -277,6 +327,7 @@ vs:
 - Fraser, Sherry
 - Freeman, Lisa
 - Frey, Audrey
+- Froud, Susan
 - Fyfe, Liz
 - Galusha, Kerry
 - Gellard, Kim
@@ -356,6 +407,8 @@ vs:
 - McEwen, Dawn
 - McGregor, Rona
 - McInnis, Susan
+- McIvor, Jolene
+- McIvor, Michelle
 - McKnight, Patti
 - McNamee, Karen
 - McPherson, Cheryl
@@ -396,6 +449,7 @@ vs:
 - Purdy, Karen
 - Radchenka, Tammy
 - Recksiedler, Kristen
+- Reddick, Audrey
 - Reed, Shellan
 - Renouf, Michele
 - Richard, Marie
@@ -403,6 +457,7 @@ vs:
 - Rizzo, Jo-Ann
 - Robertson, Darcy
 - Robichaud, Sylvie
+- Rocque, Raylene
 - Ross, Allison
 - Sagle, Karen
 - Sanders, Pat
@@ -411,6 +466,7 @@ vs:
 - Schneider, Tammy
 - Schraeder, Jeanna
 - Scott, Kelly
+- Seeley, Heather
 - Sharpe, Kelli
 - Simmons, Cindy
 - Simons, Renee

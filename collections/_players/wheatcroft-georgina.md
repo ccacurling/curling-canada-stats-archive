@@ -3,6 +3,20 @@ title: Georgina Wheatcroft
 name: Georgina Wheatcroft
 name-sort: Wheatcroft, Georgina
 totals:
+- event: Canada Cup (Women)
+  games: 16
+  wins: 11
+  losses: 5
+  inturn-total: 216
+  inturn-percent: 91
+  outturn-total: 89
+  outturn-percent: 83
+  draw-total: 185
+  draw-percent: 89
+  takeout-total: 120
+  takeout-percent: 88
+  shots-total: 305
+  shots-percent: 88
 - event: Hearts
   games: 103
   wins: 66
@@ -32,6 +46,40 @@ totals:
   shots-total: 366
   shots-percent: 84
 years:
+- year: 2003
+  event: Canada Cup (Women)
+  team: KLaw
+  position: Third
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 90
+  inturn-percent: 88
+  outturn-total: 44
+  outturn-percent: 76
+  draw-total: 40
+  draw-percent: 79
+  takeout-total: 94
+  takeout-percent: 86
+  shots-total: 134
+  shots-percent: 84
+- year: 2006
+  event: Canada Cup (Women)
+  team: Jon
+  position: Lead
+  games: 9
+  wins: 6
+  losses: 3
+  inturn-total: 126
+  inturn-percent: 93
+  outturn-total: 45
+  outturn-percent: 89
+  draw-total: 145
+  draw-percent: 91
+  takeout-total: 26
+  takeout-percent: 95
+  shots-total: 171
+  shots-percent: 92
 - year: 1987
   event: Hearts
   team: BC
@@ -258,6 +306,7 @@ vs:
 - Belisle, Eve
 - Bell, Chelsey
 - Bell, Patty
+- Bergner, Sasha
 - Bernard, Cheryl
 - Bernard, Krista
 - Berthelot, Janique
@@ -275,6 +324,7 @@ vs:
 - Brothers, Jill
 - Brown, Jacalyn
 - Brown, Janet
+- Bruce, Twyla
 - Burgess, Carey
 - Burgess, Judy
 - Burry, Gail
@@ -312,11 +362,13 @@ vs:
 - deSolla, Jodie
 - Dezura, Diane
 - Dobson, Sue
+- Doig, Deanna
 - Dolan, Kim
 - Duck, Kim
 - Dunn, Anne
 - Ellwood, Laurie
 - Englot, Michelle
+- Enright, Barb
 - Fahlman, Kathy
 - Farrell, Allison
 - Fast, Lois
@@ -328,6 +380,7 @@ vs:
 - Fraser, Sherry
 - Freeman, Lisa
 - Frey, Audrey
+- Froud, Susan
 - Gagnier, Monique
 - Gagnon, Karo
 - Gallant, Kathie
@@ -366,6 +419,7 @@ vs:
 - Iskiw, Beth
 - Jackson, Sherry
 - Jackson, Virginia
+- Jacques, Nicole
 - Jamieson, Shirley
 - Jones, Colleen
 - Jones, Jennifer
@@ -390,12 +444,14 @@ vs:
 - Lawton, Stefanie
 - Leclerc, Valerie
 - LeCraw, Carolyn
+- Leger, Stacey
 - Lemay, Annie
 - Linton, Sherry
 - Loder, Cherie-Ann
 - MacCallum, Janice
 - MacDiarmid, Kristen
 - MacDonald, Lawnie
+- MacDonald, Rebecca Jean
 - MacDonald, Shelley
 - MacDougall, Leslie
 - MacPhee, Robyn
@@ -455,14 +511,18 @@ vs:
 - Pinkney, Colleen
 - Poisson, Francine
 - Power, Marie-Anne
+- Preston, Samantha
 - Pruden, Twyla
 - Purdy, Karen
 - Radchenka, Tammy
 - Ramsay, Jennifer
+- Rankin, Heather
 - Renouf, Michele
+- Richard, Jeanna
 - Ridalls, Kristen
 - Rintoul, Jacki
 - Rizzo, Jo-Ann
+- Robertson, Darcy
 - Rocque, Raylene
 - Rudd, Colleen
 - Rudulier, Andrea
@@ -477,14 +537,17 @@ vs:
 - Schraeder, Jeanna
 - Scott, Donna
 - Scott, Kelly
+- Shantz, Penny
 - Sharpe, Kelli
 - Shields, Gail
 - Simons, Renee
 - Singler, Sherri
 - Smith, Heather
+- Smith, Nikki
 - Smith, Yvonne
 - Sonnenberg, Renee
 - Sparrow, Sandra
+- Spencer, Barb
 - Stabel, Stacey
 - Stahl, Carrie
 - Stevenson, Chris
@@ -507,6 +570,7 @@ vs:
 - Tuck, Kimberly
 - Tucker, Cindy
 - Udle, Teri
+- Unrau, Faye
 - Vey, Lana
 - Wall, Kirsten
 - Walsh, Heather

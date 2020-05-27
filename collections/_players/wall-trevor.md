@@ -17,6 +17,20 @@ totals:
   takeout-percent: 86
   shots-total: 196
   shots-percent: 89
+- event: Canada Cup (Men)
+  games: 5
+  wins: 3
+  losses: 2
+  inturn-total: 32
+  inturn-percent: 78
+  outturn-total: 57
+  outturn-percent: 89
+  draw-total: 78
+  draw-percent: 86
+  takeout-total: 11
+  takeout-percent: 75
+  shots-total: 89
+  shots-percent: 85
 - event: Trials (Men)
   games: 1
   wins: 1
@@ -49,6 +63,23 @@ years:
   takeout-percent: 86
   shots-total: 196
   shots-percent: 89
+- year: 2005
+  event: Canada Cup (Men)
+  team: Har
+  position: Lead
+  games: 5
+  wins: 3
+  losses: 2
+  inturn-total: 32
+  inturn-percent: 78
+  outturn-total: 57
+  outturn-percent: 89
+  draw-total: 78
+  draw-percent: 86
+  takeout-total: 11
+  takeout-percent: 75
+  shots-total: 89
+  shots-percent: 85
 - year: 2009
   event: Trials (Men)
   team: MIDD
@@ -74,6 +105,7 @@ vs:
 - Arsenault, Craig
 - Burnett, Steve
 - Cayouette, Maurice
+- Cotter, Jim
 - Dacey, Mark
 - Dieno, Clint
 - Fawcett, Brian
@@ -85,14 +117,18 @@ vs:
 - Gibson, Andrew
 - Golanowski, Rory
 - Gordon, Robbie
+- Gould, Steve
 - Grattan, James
 - Gunnlaugson, Jason
 - Gushue, Brad
 - Hardy, Gord
+- Harper, David
 - Harris, Rob
 - Howard, Russ
 - Hunt, Bruce
 - Jack, Clarence
+- Kennedy, Marc
+- Koe, Kevin
 - Korab, Jamie
 - Korte, Bruce
 - Korte, Roger
@@ -102,7 +138,11 @@ vs:
 - Ledgerwood, Sean
 - Leech, Ron
 - Lohnes, Bruce
+- MacKenzie, Kevin
+- Mead, Jonathan
+- Moffatt, Paul
 - Molloy, Pat
+- Morris, John
 - Moss, Steve
 - Nedohin, David
 - Nichols, Mark
@@ -113,10 +153,15 @@ vs:
 - Richter, Justin
 - Rocque, Marcel
 - Roy, Jean-Sebastien
+- Ryan, Keith
+- Ryan, Pat
+- Sawatsky, Rick
 - Scales, Brent
 - Spicer, Grant
+- Stoughton, Jeff
 - Sullivan, Evan
 - Trevellyan, Todd
+- Van Den Berghe, Garry
 - Ward, Mark
 - Wasnea, Brian
 - Zawada, Braden

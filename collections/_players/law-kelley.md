@@ -3,6 +3,20 @@ title: Kelley Law
 name: Kelley Law
 name-sort: Law, Kelley
 totals:
+- event: Canada Cup (Women)
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 85
+  inturn-percent: 81
+  outturn-total: 48
+  outturn-percent: 85
+  draw-total: 53
+  draw-percent: 82
+  takeout-total: 80
+  takeout-percent: 83
+  shots-total: 133
+  shots-percent: 82
 - event: Hearts
   games: 85
   wins: 48
@@ -32,6 +46,23 @@ totals:
   shots-total: 383
   shots-percent: 77
 years:
+- year: 2003
+  event: Canada Cup (Women)
+  team: KLaw
+  position: Fourth
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 85
+  inturn-percent: 81
+  outturn-total: 48
+  outturn-percent: 85
+  draw-total: 53
+  draw-percent: 82
+  takeout-total: 80
+  takeout-percent: 83
+  shots-total: 133
+  shots-percent: 82
 - year: 1990
   event: Hearts
   team: BC
@@ -202,6 +233,7 @@ vs:
 - Bartlett, Sue Anne
 - Belanger, Nancy
 - Bell, Patty
+- Bergner, Sasha
 - Bernard, Cheryl
 - Bernard, Krista
 - Berthelot, Janique
@@ -249,15 +281,18 @@ vs:
 - Earl, Allison
 - Eddy, Lori
 - Englot, Michelle
+- Enright, Barb
 - Fahlman, Kathy
 - Farrell, Allison
 - Floyd, Kathy
 - Fowlie, Heather
 - Fraser, Sherry
 - Frey, Audrey
+- Froud, Susan
 - Funk, LaDawn
 - Gagnier, Monique
 - Galusha, Kerry
+- Gatchell, Sara
 - Gauthier, Cathy
 - Gellard, Kim
 - George, Tara
@@ -377,6 +412,8 @@ vs:
 - Rankin, Beth
 - Rankin, Heather
 - Renouf, Michele
+- Richard, Jeanna
+- Robertson, Darcy
 - Ryan, Jennifer
 - Sabourin, Joelle
 - Sandison, Janice
@@ -386,6 +423,7 @@ vs:
 - Schraeder, Jeanna
 - Scott, Donna
 - Scott, Kelly
+- Shantz, Penny
 - Sharpe, Kelli
 - Sherrington, Barb
 - Sigurdson, Janine
@@ -395,6 +433,7 @@ vs:
 - Smith, Heather
 - Soligo, Melissa
 - Sonnenberg, Renee
+- Spencer, Barb
 - Stabel, Stacey
 - Stahl, Carrie
 - Stewart, Sheri
@@ -408,8 +447,10 @@ vs:
 - Thurston, Jill
 - Turcotte, Kristin
 - Udle, Teri
+- Unrau, Faye
 - Usher, Leanne
 - Vey, Lana
+- Wall, Kirsten
 - Walter, Cathy
 - Webster, Bronwen
 - Whitaker, Carol

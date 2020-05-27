@@ -3,6 +3,20 @@ title: Jill Officer
 name: Jill Officer
 name-sort: Officer, Jill
 totals:
+- event: Canada Cup (Women)
+  games: 60
+  wins: 38
+  losses: 22
+  inturn-total: 590
+  inturn-percent: 80
+  outturn-total: 540
+  outturn-percent: 84
+  draw-total: 403
+  draw-percent: 79
+  takeout-total: 727
+  takeout-percent: 83
+  shots-total: 1130
+  shots-percent: 82
 - event: Hearts
   games: 166
   wins: 129
@@ -32,6 +46,159 @@ totals:
   shots-total: 630
   shots-percent: 81
 years:
+- year: 2004
+  event: Canada Cup (Women)
+  team: JJO
+  position: Second
+  games: 4
+  wins: 1
+  losses: 3
+  inturn-total: 32
+  inturn-percent: 75
+  outturn-total: 50
+  outturn-percent: 76
+  draw-total: 35
+  draw-percent: 71
+  takeout-total: 47
+  takeout-percent: 78
+  shots-total: 82
+  shots-percent: 75
+- year: 2006
+  event: Canada Cup (Women)
+  team: Jon
+  position: Second
+  games: 9
+  wins: 6
+  losses: 3
+  inturn-total: 93
+  inturn-percent: 81
+  outturn-total: 81
+  outturn-percent: 89
+  draw-total: 83
+  draw-percent: 86
+  takeout-total: 91
+  takeout-percent: 84
+  shots-total: 174
+  shots-percent: 85
+- year: 2007
+  event: Canada Cup (Women)
+  team: Jon
+  position: Second
+  games: 8
+  wins: 6
+  losses: 2
+  inturn-total: 80
+  inturn-percent: 82
+  outturn-total: 74
+  outturn-percent: 82
+  draw-total: 44
+  draw-percent: 78
+  takeout-total: 110
+  takeout-percent: 83
+  shots-total: 154
+  shots-percent: 82
+- year: 2008
+  event: Canada Cup (Women)
+  team: JONE
+  position: Second
+  games: 6
+  wins: 4
+  losses: 2
+  inturn-total: 72
+  inturn-percent: 78
+  outturn-total: 34
+  outturn-percent: 79
+  draw-total: 36
+  draw-percent: 74
+  takeout-total: 70
+  takeout-percent: 80
+  shots-total: 106
+  shots-percent: 78
+- year: 2010
+  event: Canada Cup (Women)
+  team: JJ
+  position: Second
+  games: 5
+  wins: 3
+  losses: 2
+  inturn-total: 54
+  inturn-percent: 77
+  outturn-total: 32
+  outturn-percent: 81
+  draw-total: 32
+  draw-percent: 80
+  takeout-total: 54
+  takeout-percent: 77
+  shots-total: 86
+  shots-percent: 78
+- year: 2012
+  event: Canada Cup (Women)
+  team: JON
+  position: Second
+  games: 8
+  wins: 5
+  losses: 3
+  inturn-total: 79
+  inturn-percent: 77
+  outturn-total: 79
+  outturn-percent: 79
+  draw-total: 62
+  draw-percent: 75
+  takeout-total: 96
+  takeout-percent: 79
+  shots-total: 158
+  shots-percent: 78
+- year: 2014
+  event: Canada Cup (Women)
+  team: JON
+  position: Second
+  games: 6
+  wins: 3
+  losses: 3
+  inturn-total: 54
+  inturn-percent: 74
+  outturn-total: 64
+  outturn-percent: 87
+  draw-total: 38
+  draw-percent: 74
+  takeout-total: 80
+  takeout-percent: 84
+  shots-total: 118
+  shots-percent: 81
+- year: 2015
+  event: Canada Cup (Women)
+  team: JON
+  position: Second
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 61
+  inturn-percent: 90
+  outturn-total: 65
+  outturn-percent: 92
+  draw-total: 47
+  draw-percent: 90
+  takeout-total: 79
+  takeout-percent: 91
+  shots-total: 126
+  shots-percent: 91
+- year: 2016
+  event: Canada Cup (Women)
+  team: JON
+  position: Second
+  games: 7
+  wins: 6
+  losses: 1
+  inturn-total: 65
+  inturn-percent: 83
+  outturn-total: 61
+  outturn-percent: 88
+  draw-total: 26
+  draw-percent: 79
+  takeout-total: 100
+  takeout-percent: 87
+  shots-total: 126
+  shots-percent: 86
 - year: 2002
   event: Hearts
   team: MB
@@ -364,6 +531,7 @@ vs:
 - Aleksic, Shannon
 - Allen, Michelle
 - Anderson, Sherry
+- Appelman, Pam
 - Armstrong, Jacquie
 - Armstrong, Leigh
 - Arsenault, Mary-Anne
@@ -373,6 +541,7 @@ vs:
 - Babin, Jillian
 - Bakker, Glenys
 - Baldwin, Nicole
+- Baleja, Susan
 - Barbour, Shona
 - Baxter, Jen
 - Beauchamp, Sasha
@@ -384,6 +553,7 @@ vs:
 - Birnie, Hailey
 - Birt, Suzanne
 - Black, Christina
+- Blair, Janice
 - Blais, Amelie
 - Bobbie, Tess
 - Boyle, Jane
@@ -394,6 +564,7 @@ vs:
 - Brothers, Jill
 - Brown, Jacalyn
 - Brown, Rachel
+- Bruce, Twyla
 - Burgess, Carey
 - Bush, Tracy
 - Cameron, Kate
@@ -416,9 +587,11 @@ vs:
 - Cooper, Kathryn
 - Cordina, Sheri
 - Cormier, Sharon
+- Cottrill, Katie
 - Court, Morgan
 - Courtney, Joanne
 - Crawford, Andrea
+- Crocker, Laura
 - Crouse, Jennifer
 - Cunningham, Cathy
 - Cunningham, Jennifer
@@ -426,11 +599,13 @@ vs:
 - Curtis, Stacie
 - Daniel, Sylvie
 - Darbyshire, Carolyn
+- Dealy, Diane
 - deJager, Blaine
 - Delahunt, Nancy
 - Derick, Catherine
 - deSolla, Jodie
 - Devereaux, Julie
+- Doig, Deanna
 - Dolan, Kim
 - Dolan, Sinead
 - Dufresne, Audree
@@ -462,6 +637,7 @@ vs:
 - Galusha, Kerry
 - Gatchell, Sara
 - Gates, Amanda
+- Gates, Jennifer
 - George, Tara
 - Gibson, Amy
 - Gignac, Donna
@@ -472,6 +648,7 @@ vs:
 - Gudereit, Marcia
 - Gushulak, Diane
 - Guzzwell, Stephanie
+- Hamer, Kate
 - Hamilton, Beth
 - Hamon, Callan
 - Hanna, Jenn
@@ -479,6 +656,7 @@ vs:
 - Hardy, Shelley
 - Harmark, Andra
 - Harrison, Meredith
+- Harvey, Alison
 - Harvey, Janet
 - Hastings, Julie
 - Hodson, Kim
@@ -486,20 +664,24 @@ vs:
 - Hollands, Saskia
 - Holtby, Taryn
 - Homan, Rachel
+- Horne, Kate
 - Howard, Ashley
 - Hughes, Meaghan
 - Inglis, Danielle
 - Inglis, Nancy
 - Iskiw, Beth
+- Jacques, Nicole
 - Johnston, Kara
 - Jones, Colleen
 - Joyce, Blisse
 - Kalenchuk, Heather
 - Kasner, Marliese
 - Kelly, Kim
+- Kerr, Kathy
 - Keshen, Christine
 - Kidd, Darlene
 - King, Cathy
+- Kirby, Carey
 - Kleibrink, Shannon
 - Knezevic, Patti
 - Koehler, Megan
@@ -524,6 +706,8 @@ vs:
 - Linton, Sherry
 - Lister, Kendra
 - Loder, Cherie-Ann
+- Loder, Jenna
+- Loder, Kristin
 - Lowther, Tammi
 - MacCuish, Kristin
 - MacDiarmid, Kristen
@@ -546,8 +730,12 @@ vs:
 - McCarville, Krista
 - McConnery, Nancy
 - McCusker, Joan
+- McDonald, Kristy
+- McDonald, Taylor
+- McDonald, Tina
 - McEwen, Dawn
 - McInnis, Susan
+- McNamee, Karen
 - McPherson, Cheryl
 - McQuaid, Michelle
 - McTaggart, Cary-Anne
@@ -597,11 +785,13 @@ vs:
 - Potts, Sarah
 - Power, Marie-Anne
 - Preston, Sam
+- Preston, Samantha
 - Price, Kara
 - Prosser, Sandi
 - Provencal, Darah
 - Rainville, Julie
 - Ramsay, Geri Lynn
+- Rankin, Heather
 - Recksiedler, Kristen
 - Richard, Marie
 - Richards, Brette
@@ -609,6 +799,7 @@ vs:
 - Rizzo, Jo-Ann
 - Robertson, Darcy
 - Robichaud, Sylvie
+- Rocque, Kelsey
 - Rocque, Raylene
 - Rogers, Rhonda
 - Ross, Allison
@@ -616,6 +807,7 @@ vs:
 - Rusnell, Jen
 - Sabourin, Joelle
 - Sagle, Karen
+- Santos, Deb
 - Scheidegger, Casey
 - Scheidegger, Jessie
 - Schmidt, Stephanie
@@ -633,6 +825,7 @@ vs:
 - Slywka, Sarah
 - Smallwood, Jody
 - Smith, Heather
+- Smith, Nikki
 - Smith, Stacey
 - Snyder, Jane
 - Sobey, Lianne

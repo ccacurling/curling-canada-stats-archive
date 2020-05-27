@@ -3,6 +3,20 @@ title: Kate Horne
 name: Kate Horne
 name-sort: Horne, Kate
 totals:
+- event: Canada Cup (Women)
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 53
+  inturn-percent: 81
+  outturn-total: 51
+  outturn-percent: 82
+  draw-total: 88
+  draw-percent: 84
+  takeout-total: 16
+  takeout-percent: 69
+  shots-total: 104
+  shots-percent: 81
 - event: Hearts
   games: 77
   wins: 50
@@ -32,6 +46,23 @@ totals:
   shots-total: 333
   shots-percent: 81
 years:
+- year: 2007
+  event: Canada Cup (Women)
+  team: San
+  position: Lead
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 53
+  inturn-percent: 81
+  outturn-total: 51
+  outturn-percent: 82
+  draw-total: 88
+  draw-percent: 84
+  takeout-total: 16
+  takeout-percent: 69
+  shots-total: 104
+  shots-percent: 81
 - year: 1995
   event: Hearts
   team: AB
@@ -179,16 +210,19 @@ vs:
 - Arseneau, Jane
 - Bakker, Glenys
 - Balderston, Marcy
+- Baleja, Susan
 - Beever, Jocelyn
 - Belanger, Nancy
 - Bell, Patty
 - Belley, Joelle
+- Bernard, Cheryl
 - Bernard, Krista
 - Berthelot, Janique
 - Betker, Jan
 - Beveridge, Corie
 - Birt, Suzanne
 - Blackburn, Julie
+- Blair, Janice
 - Blanchard, Judy
 - Blashko, Denise
 - Bodogh, Marilyn
@@ -214,6 +248,7 @@ vs:
 - Daniel, Sylvie
 - Darbyshire, Carolyn
 - Davis, Brandee
+- Dealy, Diane
 - Delahunt, Nancy
 - Derick, Catherine
 - Dezura, Diane
@@ -273,6 +308,8 @@ vs:
 - Kehler, Lorie
 - Kelly, Kim
 - Kerr, Kathy
+- Keshen, Christine
+- King, Cathy
 - Kleibrink, Shannon
 - Kyle, Linda
 - Lacey, Stacey
@@ -307,6 +344,7 @@ vs:
 - McCrady, Christine
 - McCusker, Joan
 - McDonald, Tina
+- McEwen, Dawn
 - McInnis, Susan
 - McKnight, Patti
 - McNamee, Karen
@@ -317,13 +355,18 @@ vs:
 - Montgomery, Kay
 - Moore, Kim
 - Moore, Kimberly
+- Morris, Cori
 - Moses, Dawn
 - Moss, Debbie
 - Mulroney, Sandra
 - Muzika, Shelley
 - Naugler, Tara
 - Nimmo, Shannon
+- Nixon, Amy
+- O'Connor, Susan
 - O'Rourke, Kathy
+- Officer, Jill
+- Olson-Johns, Lori
 - Ondrack, Wendy
 - Osborne, Chantal
 - Overton-Clapham, Cathy
@@ -335,6 +378,7 @@ vs:
 - Renouf, Michele
 - Robertson, Darcy
 - Robinson, Lori
+- Rocque, Raylene
 - Ross, Allison
 - Sabourin, Joelle
 - Sanders, Pat

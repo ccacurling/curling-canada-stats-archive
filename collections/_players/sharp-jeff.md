@@ -17,6 +17,20 @@ totals:
   takeout-percent: 82
   shots-total: 868
   shots-percent: 81
+- event: Canada Cup (Men)
+  games: 7
+  wins: 3
+  losses: 4
+  inturn-total: 63
+  inturn-percent: 88
+  outturn-total: 65
+  outturn-percent: 86
+  draw-total: 60
+  draw-percent: 85
+  takeout-total: 68
+  takeout-percent: 88
+  shots-total: 128
+  shots-percent: 87
 - event: Trials (Men)
   games: 7
   wins: 2
@@ -100,6 +114,23 @@ years:
   takeout-percent: 84
   shots-total: 257
   shots-percent: 84
+- year: 2008
+  event: Canada Cup (Men)
+  team: SIMM
+  position: Third
+  games: 7
+  wins: 3
+  losses: 4
+  inturn-total: 63
+  inturn-percent: 88
+  outturn-total: 65
+  outturn-percent: 86
+  draw-total: 60
+  draw-percent: 85
+  takeout-total: 68
+  takeout-percent: 88
+  shots-total: 128
+  shots-percent: 87
 - year: 2009
   event: Trials (Men)
   team: SIMM
@@ -210,6 +241,7 @@ vs:
 - Martin, Kevin
 - McCann, Andy
 - McCarrel, Graeme
+- McEwen, Mike
 - Mead, Jon
 - Mead, Jonathan
 - Melnichuk, Greg
@@ -220,6 +252,8 @@ vs:
 - Nantes, Dave
 - Nedohin, David
 - Nelson, Randy
+- Neufeld, B.J.
+- Neufeld, Denni
 - Nichols, Mark
 - Nobert, Rob
 - Noftall, David
@@ -261,5 +295,6 @@ vs:
 - Whitehead, Mark
 - Windsor, Brian
 - Wood, Mike
+- Wozniak, Matt
 - Zawada, Braden
 ---

@@ -13,7 +13,7 @@ layout: default
         <tbody>
 {% for game in matchup.games %}
         <tr>
-         <td>{% if game.event contains 'Trials' %}{{ game.player1.team }}{% else %}<a href="../../{{ game.event | slugify }}/team/{{ game.player1.team | downcase }}">{{ game.player1.team }}</a>{% endif %}</td>
+         <td>{% if game.event contains 'Trials' or game.event contains 'Canada Cup' %}{{ game.player1.team }}{% else %}<a href="../../{{ game.event | slugify }}/team/{{ game.player1.team | downcase }}">{{ game.player1.team }}</a>{% endif %}</td>
          <td>{{ game.player1.position }}</td>
          <td>{{ game.player1.percent }}</td>
          <td>{% if game.player1.win == 1 %}<i class="fa fa-check" aria-hidden="true"></i>{% endif %}</td>
@@ -52,7 +52,7 @@ layout: default
         <tbody>
 {% for game in matchup.games %}
         <tr>
-         <td>{% if game.event contains 'Trials' %}{{ game.player2.team }}{% else %}<a href="../../{{ game.event | slugify }}/team/{{ game.player2.team | downcase }}">{{ game.player2.team }}</a>{% endif %}</td>
+         <td>{% if game.event contains 'Trials' or game.event contains 'Canada Cup' %}{{ game.player2.team }}{% else %}<a href="../../{{ game.event | slugify }}/team/{{ game.player2.team | downcase }}">{{ game.player2.team }}</a>{% endif %}</td>
          <td>{{ game.player2.position }}</td>
          <td>{{ game.player2.percent }}</td>
          <td>{% if game.player2.win == 1 %}<i class="fa fa-check" aria-hidden="true"></i>{% endif %}</td>

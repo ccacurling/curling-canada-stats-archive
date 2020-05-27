@@ -17,6 +17,20 @@ totals:
   takeout-percent: 84
   shots-total: 208
   shots-percent: 78
+- event: Canada Cup (Men)
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 57
+  inturn-percent: 85
+  outturn-total: 43
+  outturn-percent: 78
+  draw-total: 41
+  draw-percent: 87
+  takeout-total: 59
+  takeout-percent: 79
+  shots-total: 100
+  shots-percent: 82
 - event: Trials (Men)
   games: 7
   wins: 0
@@ -49,6 +63,23 @@ years:
   takeout-percent: 84
   shots-total: 208
   shots-percent: 78
+- year: 2008
+  event: Canada Cup (Men)
+  team: CARR
+  position: Third
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 57
+  inturn-percent: 85
+  outturn-total: 43
+  outturn-percent: 78
+  draw-total: 41
+  draw-percent: 87
+  takeout-total: 59
+  takeout-percent: 79
+  shots-total: 100
+  shots-percent: 82
 - year: 2009
   event: Trials (Men)
   team: GUNN
@@ -79,11 +110,13 @@ vs:
 - Asselin, Emile
 - Bedard, Alek
 - Bottcher, Brendan
+- Burtnyk, Kerry
 - Camm, Mathew
 - Carruthers, Reid
 - Cochrane, Bryan
 - Crowell, Phil
 - Currie, Morgan
+- Daneault, Richard
 - Dunstone, Matthew
 - Epping, John
 - Ferbey, Randy
@@ -102,6 +135,7 @@ vs:
 - Hodgson, Colin
 - Howard, Glenn
 - Jacobs, Brad
+- Kammerlock, Dan
 - Kennedy, Marc
 - Kidby, Dustin
 - Koe, Kevin
@@ -123,6 +157,7 @@ vs:
 - Nedohin, David
 - Neufeld, B.J.
 - Nichols, Mark
+- Noftall, David
 - O'Rourke, Mark
 - Park, Kevin
 - Pfeifer, Scott
@@ -132,9 +167,11 @@ vs:
 - Saccary, Scott
 - Samagalski, Derek
 - Savill, Craig
+- Schille, Chris
 - Schneider, Catlin
 - Sharp, Jeff
 - Simmons, Pat
+- Smith, Garth
 - Smitheram, Christian
 - Stoughton, Jeff
 - Thiessen, Brad

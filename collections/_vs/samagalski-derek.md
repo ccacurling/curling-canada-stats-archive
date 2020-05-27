@@ -13,6 +13,15 @@ vs:
       percent: 93
       wins: 2
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 80
+      wins: 0
+      losses: 2
+    player2:
+      percent: 88
+      wins: 2
+      losses: 0
   games:
   - player1:
       team: MB
@@ -46,6 +55,38 @@ vs:
     year: 2012
     draw: Page 1-2(18)
     score: ON 9 - MB 3
+  - player1:
+      team: RFO
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: GH
+      position: Lead
+      percent: 94
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(7)
+    score: RFO 3 - GH 10
+  - player1:
+      team: Carr
+      position: Second
+      percent: 76
+      win: 0
+      loss: 1
+    player2:
+      team: Eppi
+      position: Lead
+      percent: 85
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(2)
+    score: Eppi 6 - Carr 3
 - name: Sawatsky, Rick
   totals:
   - event: Brier
@@ -133,6 +174,15 @@ vs:
       percent: 83
       wins: 0
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 91
+      wins: 0
+      losses: 1
+    player2:
+      percent: 77
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 95
@@ -159,6 +209,22 @@ vs:
     year: 2020
     draw: Round Robin(2)
     score: SK 3 - WC 5
+  - player1:
+      team: Carr
+      position: Second
+      percent: 91
+      win: 0
+      loss: 1
+    player2:
+      team: Duns
+      position: Second
+      percent: 77
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(7)
+    score: Duns 7 - Carr 3
   - player1:
       team: Carr
       position: Second
@@ -242,6 +308,15 @@ vs:
       percent: 80
       wins: 2
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 96
+      wins: 0
+      losses: 1
+    player2:
+      percent: 94
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: MB
@@ -291,6 +366,22 @@ vs:
     year: 2015
     draw: Round Robin(1)
     score: CA 6 - MB 4
+  - player1:
+      team: CAR
+      position: Second
+      percent: 96
+      win: 0
+      loss: 1
+    player2:
+      team: SIM
+      position: Fourth
+      percent: 94
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(5)
+    score: CAR 4 - SIM 5
 - name: Smallwood, Robert
   totals:
   - event: Brier
@@ -458,6 +549,15 @@ vs:
       percent: 83
       wins: 3
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 83
+      wins: 0
+      losses: 1
+    player2:
+      percent: 80
+      wins: 1
+      losses: 0
   - event: Trials(Men)
     player1:
       percent: 94
@@ -519,6 +619,22 @@ vs:
   - player1:
       team: Carr
       position: Second
+      percent: 83
+      win: 0
+      loss: 1
+    player2:
+      team: Bott
+      position: Second
+      percent: 80
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(3)
+    score: Carr 5 - Bott 9
+  - player1:
+      team: Carr
+      position: Second
       percent: 94
       win: 0
       loss: 1
@@ -543,6 +659,15 @@ vs:
       percent: 85
       wins: 2
       losses: 1
+  - event: Canada Cup (Men)
+    player1:
+      percent: 96
+      wins: 0
+      losses: 1
+    player2:
+      percent: 89
+      wins: 1
+      losses: 0
   games:
   - player1:
       team: MB
@@ -592,6 +717,22 @@ vs:
     year: 2015
     draw: Round Robin(1)
     score: CA 6 - MB 4
+  - player1:
+      team: CAR
+      position: Second
+      percent: 96
+      win: 0
+      loss: 1
+    player2:
+      team: SIM
+      position: Lead
+      percent: 89
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(5)
+    score: CAR 4 - SIM 5
 - name: Trepanier, Jean-Francois
   totals:
   - event: Brier
@@ -658,6 +799,15 @@ vs:
     player2:
       percent: 88
       wins: 3
+      losses: 2
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 2
+      losses: 2
+    player2:
+      percent: 92
+      wins: 2
       losses: 2
   - event: Trials(Men)
     player1:
@@ -749,6 +899,70 @@ vs:
     year: 2020
     draw: Pool(17)
     score: WC 3 - NL 5
+  - player1:
+      team: CAR
+      position: Second
+      percent: 89
+      win: 1
+      loss: 0
+    player2:
+      team: GUS
+      position: Lead
+      percent: 89
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(3)
+    score: CAR 5 - GUS 4
+  - player1:
+      team: CAR
+      position: Second
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: GUS
+      position: Lead
+      percent: 91
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(3)
+    score: CAR 6 - GUS 7
+  - player1:
+      team: CAR
+      position: Second
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: GUS
+      position: Lead
+      percent: 94
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Final(13)
+    score: GUS 6 - CAR 8
+  - player1:
+      team: Carr
+      position: Second
+      percent: 89
+      win: 0
+      loss: 1
+    player2:
+      team: Gush
+      position: Lead
+      percent: 94
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2018
+    draw: Round Robin(8)
+    score: Gush 8 - Carr 4
   - player1:
       team: Carr
       position: Second
@@ -860,6 +1074,15 @@ vs:
       percent: 88
       wins: 1
       losses: 0
+  - event: Canada Cup (Men)
+    player1:
+      percent: 81
+      wins: 1
+      losses: 1
+    player2:
+      percent: 85
+      wins: 1
+      losses: 1
   - event: Trials(Men)
     player1:
       percent: 94
@@ -887,6 +1110,38 @@ vs:
     draw: Pool(19)
     score: MB 3 - WC 8
   - player1:
+      team: CAR
+      position: Second
+      percent: 77
+      win: 0
+      loss: 1
+    player2:
+      team: MCE
+      position: Second
+      percent: 94
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2015
+    draw: Round Robin(4)
+    score: CAR 4 - MCE 9
+  - player1:
+      team: CAR
+      position: Second
+      percent: 84
+      win: 1
+      loss: 0
+    player2:
+      team: MCE
+      position: Second
+      percent: 78
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(6)
+    score: MCE 3 - CAR 4
+  - player1:
       team: Carr
       position: Second
       percent: 94
@@ -902,4 +1157,104 @@ vs:
     year: 2017
     draw: Round Robin(2)
     score: Carr 3 - McEw 7
+- name: Stoughton, Jeff
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 0
+      losses: 1
+    player2:
+      percent: 75
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: RFO
+      position: Lead
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: JS
+      position: Fourth
+      percent: 75
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(9)
+    score: JS 9 - RFO 5
+- name: Sulimma, Hardi
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 100
+      wins: 0
+      losses: 1
+    player2:
+      percent: 85
+      wins: 1
+      losses: 0
+  games:
+  - player1:
+      team: RFO
+      position: Lead
+      percent: 100
+      win: 0
+      loss: 1
+    player2:
+      team: BB
+      position: Lead
+      percent: 85
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2010
+    draw: Round Robin(6)
+    score: RFO 1 - BB 9
+- name: Thomas, Charley
+  totals:
+  - event: Canada Cup (Men)
+    player1:
+      percent: 88
+      wins: 1
+      losses: 1
+    player2:
+      percent: 84
+      wins: 1
+      losses: 1
+  games:
+  - player1:
+      team: CAR
+      position: Second
+      percent: 88
+      win: 0
+      loss: 1
+    player2:
+      team: GUS
+      position: Third
+      percent: 84
+      win: 1
+      loss: 0
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Round Robin(3)
+    score: CAR 6 - GUS 7
+  - player1:
+      team: CAR
+      position: Second
+      percent: 88
+      win: 1
+      loss: 0
+    player2:
+      team: GUS
+      position: Third
+      percent: 84
+      win: 0
+      loss: 1
+    event: Canada Cup (Men)
+    year: 2016
+    draw: Final(13)
+    score: GUS 6 - CAR 8
 ---

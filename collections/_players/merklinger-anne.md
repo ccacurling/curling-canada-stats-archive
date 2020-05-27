@@ -3,6 +3,20 @@ title: Anne Merklinger
 name: Anne Merklinger
 name-sort: Merklinger, Anne
 totals:
+- event: Canada Cup (Women)
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 78
+  inturn-percent: 77
+  outturn-total: 61
+  outturn-percent: 73
+  draw-total: 66
+  draw-percent: 73
+  takeout-total: 73
+  takeout-percent: 77
+  shots-total: 139
+  shots-percent: 75
 - event: Hearts
   games: 50
   wins: 31
@@ -32,6 +46,23 @@ totals:
   shots-total: 173
   shots-percent: 75
 years:
+- year: 2005
+  event: Canada Cup (Women)
+  team: Mer
+  position: Fourth
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 78
+  inturn-percent: 77
+  outturn-total: 61
+  outturn-percent: 73
+  draw-total: 66
+  draw-percent: 73
+  takeout-total: 73
+  takeout-percent: 77
+  shots-total: 139
+  shots-percent: 75
 - year: 1990
   event: Hearts
   team: 'ON'
@@ -138,6 +169,7 @@ vs:
 - Barrack, Carmen
 - Beever, Jocelyn
 - Bell, Allyson
+- Bernard, Cheryl
 - Bernard, Krista
 - Berthelot, Janique
 - Betker, Jan
@@ -152,6 +184,7 @@ vs:
 - Bradley, Shelly
 - Brophy, Cathy
 - Bryant, Angie
+- Burgess, Allyson
 - Burlington, Cheryl
 - Cameron, Nancy
 - Campbell, June
@@ -178,6 +211,7 @@ vs:
 - Fowler, Rhonda
 - Fowler, Sharon
 - Fraser, Sherry
+- Gagnon, Karo
 - Gagnon, Nathalie
 - Galusha, Kerry
 - Garvey, Sue
@@ -188,9 +222,11 @@ vs:
 - Gignac, Donna
 - Godberson, Heather
 - Goring, Alison
+- Gregoire, Veronique
 - Gudereit, Marcia
 - Hanlon, Heidi
 - Hatton, Sandra
+- Hodson, Kim
 - Hooper, Jane
 - Hopkins, Heather
 - Horne, Kate
@@ -202,16 +238,19 @@ vs:
 - Kaylo, Kelly
 - Kelly, Kim
 - Kerr, Kathy
+- Keshen, Christine
 - King, Cathy
 - Kleibrink, Shannon
 - Lahucik, Val
 - Laliberte, Connie
+- Larouche, Marie-France
 - Law, Kelley
 - Lawrence, Margaret
 - Leclerc, Valerie
 - Lemay, Annie
 - Leonard, Judy
 - Lewis, Kristy
+- Linton, Sherry
 - Lowther, Tammi
 - MacCallum, Janice
 - MacDougall, Leslie
@@ -227,6 +266,7 @@ vs:
 - McGregor, Rona
 - McInnis, Susan
 - McLeod, Crystal
+- McNabb, Jody
 - Middaugh, Sherry
 - Montgomery, Kay
 - Moore, Kimberly
@@ -237,7 +277,9 @@ vs:
 - Muzika, Shelley
 - Nedohin, Heather
 - Nimmo, Shannon
+- Nixon, Amy
 - Nowlan, Denise
+- O'Connor, Susan
 - Ondrack, Wendy
 - Osborne, Chantal
 - Overton-Clapham, Cathy
@@ -251,6 +293,7 @@ vs:
 - Renouf, Michele
 - Roberts, Angela
 - Robinson, Charlene
+- Ruus, Karen
 - Sabourin, Joelle
 - Scales, Julie
 - Schikowski, Keri-Lynn

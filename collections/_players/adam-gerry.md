@@ -17,6 +17,20 @@ totals:
   takeout-percent: 86
   shots-total: 728
   shots-percent: 84
+- event: Canada Cup (Men)
+  games: 8
+  wins: 4
+  losses: 4
+  inturn-total: 77
+  inturn-percent: 86
+  outturn-total: 71
+  outturn-percent: 88
+  draw-total: 81
+  draw-percent: 85
+  takeout-total: 67
+  takeout-percent: 89
+  shots-total: 148
+  shots-percent: 87
 - event: Trials (Men)
   games: 7
   wins: 2
@@ -91,6 +105,40 @@ years:
   event: Brier
   team: SK
   position: Alternate
+- year: 2008
+  event: Canada Cup (Men)
+  team: SIMM
+  position: Second
+  games: 7
+  wins: 3
+  losses: 4
+  inturn-total: 67
+  inturn-percent: 87
+  outturn-total: 61
+  outturn-percent: 89
+  draw-total: 63
+  draw-percent: 85
+  takeout-total: 65
+  takeout-percent: 90
+  shots-total: 128
+  shots-percent: 88
+- year: 2009
+  event: Canada Cup (Men)
+  team: HOWA
+  position: Lead
+  games: 1
+  wins: 1
+  losses: 0
+  inturn-total: 10
+  inturn-percent: 80
+  outturn-total: 10
+  outturn-percent: 80
+  draw-total: 18
+  draw-percent: 82
+  takeout-total: 2
+  takeout-percent: 63
+  shots-total: 20
+  shots-percent: 80
 - year: 2009
   event: Trials (Men)
   team: SIMM
@@ -187,6 +235,7 @@ vs:
 - Martin, Kevin
 - McCann, Andy
 - McClelland, John
+- McEwen, Mike
 - Mead, Jon
 - Mead, Jonathan
 - Mellof, Dave
@@ -197,6 +246,8 @@ vs:
 - Nantes, Dave
 - Nedohin, David
 - Ness, Dale
+- Neufeld, B.J.
+- Neufeld, Denni
 - Nichols, Mark
 - Noftall, David
 - O'Rourke, Mark
@@ -237,5 +288,6 @@ vs:
 - Whitehead, Mark
 - Whittle, Mark
 - Wood, Mike
+- Wozniak, Matt
 - Zawada, Braden
 ---

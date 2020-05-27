@@ -17,6 +17,20 @@ totals:
   takeout-percent: 79
   shots-total: 1128
   shots-percent: 83
+- event: Canada Cup (Men)
+  games: 10
+  wins: 4
+  losses: 6
+  inturn-total: 121
+  inturn-percent: 86
+  outturn-total: 69
+  outturn-percent: 82
+  draw-total: 163
+  draw-percent: 86
+  takeout-total: 27
+  takeout-percent: 78
+  shots-total: 190
+  shots-percent: 84
 - event: Trials (Men)
   games: 9
   wins: 3
@@ -117,6 +131,40 @@ years:
   takeout-percent: 80
   shots-total: 192
   shots-percent: 81
+- year: 2004
+  event: Canada Cup (Men)
+  team: DAC
+  position: Lead
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 55
+  inturn-percent: 80
+  outturn-total: 31
+  outturn-percent: 78
+  draw-total: 73
+  draw-percent: 79
+  takeout-total: 13
+  takeout-percent: 81
+  shots-total: 86
+  shots-percent: 79
+- year: 2005
+  event: Canada Cup (Men)
+  team: Dac
+  position: Lead
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 66
+  inturn-percent: 91
+  outturn-total: 38
+  outturn-percent: 85
+  draw-total: 90
+  draw-percent: 91
+  takeout-total: 14
+  takeout-percent: 75
+  shots-total: 104
+  shots-percent: 89
 - year: 2005
   event: Trials (Men)
   team: DAC
@@ -138,14 +186,17 @@ vs:
 - Adam, Mike
 - Adams, Shawn
 - Arsenault, Craig
+- Bailey, Scott
 - Bartlett, Don
 - Base, John
 - Bouchard, Christian
+- Boyce, Jason
 - Bryant, Doug
 - Bubbs, John
 - Bucyk, James
 - Burgess, Craig
 - Burnett, Steve
+- Burtnyk, Kerry
 - Campbell, Robert
 - Carruthers, Reid
 - Case, Peter
@@ -156,6 +207,8 @@ vs:
 - Cotter, Jim
 - Cowan, Chad
 - Crete, Martin
+- Cripps, Scott
+- Curtis, Jason
 - Danbrook, Jamie
 - Desilets, Mike
 - Desjardins, Robert
@@ -165,10 +218,12 @@ vs:
 - Elmaleh, Maxime
 - Fawcett, Brian
 - Fenton, Brad
+- Fenton, Keith
 - Ferbey, Randy
 - Flemming, Paul
 - Folk, Kevin
 - Fowler, Rob
+- Frans, Joe
 - Fry, Ryan
 - Gagne, Francois
 - Gagnon, Jean
@@ -233,10 +288,12 @@ vs:
 - MacKenzie, Kevin
 - Martin, Kevin
 - Maskiewich, Ken
+- McCarrel, Graeme
 - Mead, Jon
 - Mead, Jonathan
 - Menard, Jean-Michel
 - Menard, Philippe
+- Middaugh, Wayne
 - Millar, Colin
 - Milward, Ross
 - Mittelstadt, Kelly
@@ -257,9 +314,11 @@ vs:
 - Olson, Mark-2
 - Ouimet, Luc
 - Park, Kevin
+- Paul, Matt
 - Peachey, Jay
 - Peachy, Jay
 - Peddigrew, Ken
+- Petryk, Dan
 - Pfeifer, Scott
 - Pierce, Brent
 - Recksiedler, Kevin
@@ -268,6 +327,7 @@ vs:
 - Rocque, Marcel
 - Rose, Jeff
 - Roy, Jean-Sebastien
+- Ryan, Keith
 - Ryan, Pat
 - Rycroft, Carter
 - Savill, Craig
@@ -288,7 +348,9 @@ vs:
 - Sylvain, Eric
 - Tallon, Wayne
 - Toner, Lee
+- Tresoor, Ken
 - Trevellyan, Todd
+- Tuck, Wayne
 - Ursel, Bob
 - Van Den Berghe, Garry
 - Vandenberghe, Garry
@@ -298,6 +360,7 @@ vs:
 - Ward, Mark
 - Wasnea, Brian
 - Wempe, Brian
+- Westlund, Mike
 - Westphal, Don
 - Whitehead, Kevin
 - Whitehead, Mark

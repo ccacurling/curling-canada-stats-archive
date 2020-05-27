@@ -3,6 +3,20 @@ title: Cathy King
 name: Cathy King
 name-sort: King, Cathy
 totals:
+- event: Canada Cup (Women)
+  games: 24
+  wins: 14
+  losses: 10
+  inturn-total: 239
+  inturn-percent: 78
+  outturn-total: 231
+  outturn-percent: 75
+  draw-total: 237
+  draw-percent: 75
+  takeout-total: 233
+  takeout-percent: 77
+  shots-total: 470
+  shots-percent: 76
 - event: Hearts
   games: 89
   wins: 57
@@ -32,6 +46,78 @@ totals:
   shots-total: 327
   shots-percent: 78
 years:
+- year: 2004
+  event: Canada Cup (Women)
+  team: MID
+  position: Alternate
+- year: 2006
+  event: Canada Cup (Women)
+  team: Kin
+  position: Fourth
+  games: 7
+  wins: 6
+  losses: 1
+  inturn-total: 77
+  inturn-percent: 73
+  outturn-total: 59
+  outturn-percent: 73
+  draw-total: 64
+  draw-percent: 66
+  takeout-total: 72
+  takeout-percent: 79
+  shots-total: 136
+  shots-percent: 73
+- year: 2007
+  event: Canada Cup (Women)
+  team: Kin
+  position: Fourth
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 60
+  inturn-percent: 81
+  outturn-total: 72
+  outturn-percent: 76
+  draw-total: 59
+  draw-percent: 78
+  takeout-total: 73
+  takeout-percent: 79
+  shots-total: 132
+  shots-percent: 79
+- year: 2008
+  event: Canada Cup (Women)
+  team: KING
+  position: Fourth
+  games: 5
+  wins: 1
+  losses: 4
+  inturn-total: 53
+  inturn-percent: 77
+  outturn-total: 49
+  outturn-percent: 73
+  draw-total: 60
+  draw-percent: 79
+  takeout-total: 42
+  takeout-percent: 70
+  shots-total: 102
+  shots-percent: 75
+- year: 2009
+  event: Canada Cup (Women)
+  team: KING
+  position: Fourth
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 49
+  inturn-percent: 83
+  outturn-total: 51
+  outturn-percent: 75
+  draw-total: 54
+  draw-percent: 78
+  takeout-total: 46
+  takeout-percent: 80
+  shots-total: 100
+  shots-percent: 79
 - year: 1995
   event: Hearts
   team: AB
@@ -207,21 +293,25 @@ vs:
 - Bell, Chelsey
 - Bell, Patty
 - Belley, Joelle
+- Bernard, Cheryl
 - Bernard, Krista
 - Berthelot, Janique
 - Betker, Jan
 - Beveridge, Corie
 - Birt, Suzanne
 - Blackburn, Julie
+- Blair, Janice
 - Blashko, Denise
 - Bodogh, Marilyn
 - Boily, Caroline
 - Bowman, Mary
 - Bradley, Shelly
+- Brassard, Veronique
 - Breen, Theresa
 - Breen, Thersa
 - Brown, Janet
 - Brown, Marcie
+- Bruce, Twyla
 - Bryant, Angie
 - Burgess, Carey
 - Burlington, Cheryl
@@ -248,6 +338,7 @@ vs:
 - Derick, Catherine
 - deSolla, Jodie
 - Dezura, Diane
+- Doig, Deanna
 - Dolan, Kim
 - Eddy, Lori
 - Englot, Michelle
@@ -292,8 +383,10 @@ vs:
 - Hooper Perroud, Jane
 - Hooper, Jane
 - Hopkins, Heather
+- Horne, Kate
 - Iskiw, Beth
 - Jackson, Virginia
+- Jacques, Nicole
 - Jennings, Tracey
 - Jesty, Janet
 - Johnstone, Loralee
@@ -307,6 +400,7 @@ vs:
 - Kehler, Lorie
 - Kelly, Kim
 - Kerr, Kathy
+- Kirby, Carey
 - Kleibrink, Shannon
 - Kyle, Linda
 - Lahucik, Val
@@ -323,7 +417,9 @@ vs:
 - Leonard, Judy
 - Letendre, Pascale
 - Lewis, Kristy
+- Linton, Sherry
 - Loder, Cherie-Ann
+- Loder, Kristin
 - Lowther, Tammi
 - MacAulay, Marion
 - MacDiarmid, Kristen
@@ -345,6 +441,7 @@ vs:
 - McDonald, Tina
 - McEwen, Dawn
 - McInnis, Susan
+- McIvor, Jolene
 - McKnight, Patti
 - McNamee, Karen
 - Merklinger, Anne
@@ -354,15 +451,19 @@ vs:
 - Montgomery, Kay
 - Moore, Kim
 - Moore, Kimberly
+- Moore, Kristie
 - Moriarty, Monica
+- Morris, Cori
 - Moses, Dawn
 - Moss, Debbie
 - Muise, Morgan
 - Mulroney, Sandra
 - Muzika, Shelley
+- Nedohin, Heather
 - Nicholls, Brenda
 - Nimmo, Shannon
 - Nugent, Pamela
+- O'Connor, Susan
 - O'Leary, Susan
 - O'Rourke, Kathy
 - Officer, Jill
@@ -371,9 +472,11 @@ vs:
 - Overton-Clapham, Cathy
 - Phillips, Laura
 - Power, Marie-Anne
+- Preston, Samantha
 - Prosser, Sandi
 - Purdy, Karen
 - Radford, Helen
+- Rankin, Heather
 - Renouf, Michele
 - Ridalls, Kristen
 - Robinson, Lori
@@ -381,16 +484,21 @@ vs:
 - Rudulier, Andrea
 - Sabourin, Joelle
 - Sanders, Pat
+- Santos, Deb
 - Scales, Julie
 - Schikowski, Keri-Lynn
 - Schmirler, Sandra
+- Schneider, Kim
+- Schneider, Tammy
 - Schraeder, Jeanna
 - Scott, Kelly
+- Seeley, Heather
 - Sharpe, Kelli
 - Simons, Renee
 - Singler, Sherri
 - Sipka, Joanne
 - Skinner, Julie
+- Smith, Nikki
 - Sonnenberg, Renee
 - Stokes, Debbie
 - Street, Cindy
@@ -407,6 +515,8 @@ vs:
 - Trider, Krista
 - Trowell, Cathy
 - Tucker, Cindy
+- Vey, Lana
+- Walsh, Heather
 - Webster, Bronwen
 - Wheatcroft, Georgina
 - Wiltzen, Jan

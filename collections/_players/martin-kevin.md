@@ -17,6 +17,20 @@ totals:
   takeout-percent: 82
   shots-total: 2691
   shots-percent: 82
+- event: Canada Cup (Men)
+  games: 61
+  wins: 45
+  losses: 16
+  inturn-total: 494
+  inturn-percent: 83
+  outturn-total: 617
+  outturn-percent: 83
+  draw-total: 523
+  draw-percent: 83
+  takeout-total: 588
+  takeout-percent: 83
+  shots-total: 1111
+  shots-percent: 83
 - event: Trials (Men)
   games: 46
   wins: 32
@@ -236,6 +250,142 @@ years:
   takeout-percent: 84
   shots-total: 192
   shots-percent: 84
+- year: 2005
+  event: Canada Cup (Men)
+  team: Mar
+  position: Fourth
+  games: 8
+  wins: 7
+  losses: 1
+  inturn-total: 69
+  inturn-percent: 89
+  outturn-total: 73
+  outturn-percent: 83
+  draw-total: 61
+  draw-percent: 83
+  takeout-total: 81
+  takeout-percent: 88
+  shots-total: 142
+  shots-percent: 86
+- year: 2006
+  event: Canada Cup (Men)
+  team: Mar
+  position: Fourth
+  games: 8
+  wins: 7
+  losses: 1
+  inturn-total: 69
+  inturn-percent: 83
+  outturn-total: 80
+  outturn-percent: 89
+  draw-total: 49
+  draw-percent: 88
+  takeout-total: 100
+  takeout-percent: 86
+  shots-total: 149
+  shots-percent: 86
+- year: 2007
+  event: Canada Cup (Men)
+  team: Mar
+  position: Fourth
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 56
+  inturn-percent: 85
+  outturn-total: 75
+  outturn-percent: 82
+  draw-total: 58
+  draw-percent: 87
+  takeout-total: 73
+  takeout-percent: 80
+  shots-total: 131
+  shots-percent: 83
+- year: 2008
+  event: Canada Cup (Men)
+  team: MART
+  position: Fourth
+  games: 10
+  wins: 6
+  losses: 4
+  inturn-total: 82
+  inturn-percent: 83
+  outturn-total: 97
+  outturn-percent: 83
+  draw-total: 95
+  draw-percent: 85
+  takeout-total: 84
+  takeout-percent: 81
+  shots-total: 179
+  shots-percent: 83
+- year: 2009
+  event: Canada Cup (Men)
+  team: MART
+  position: Fourth
+  games: 8
+  wins: 6
+  losses: 2
+  inturn-total: 69
+  inturn-percent: 75
+  outturn-total: 79
+  outturn-percent: 81
+  draw-total: 71
+  draw-percent: 79
+  takeout-total: 77
+  takeout-percent: 77
+  shots-total: 148
+  shots-percent: 78
+- year: 2010
+  event: Canada Cup (Men)
+  team: KM
+  position: Fourth
+  games: 7
+  wins: 6
+  losses: 1
+  inturn-total: 41
+  inturn-percent: 86
+  outturn-total: 70
+  outturn-percent: 81
+  draw-total: 54
+  draw-percent: 81
+  takeout-total: 57
+  takeout-percent: 85
+  shots-total: 111
+  shots-percent: 83
+- year: 2011
+  event: Canada Cup (Men)
+  team: MAR
+  position: Fourth
+  games: 7
+  wins: 7
+  losses: 0
+  inturn-total: 61
+  inturn-percent: 83
+  outturn-total: 75
+  outturn-percent: 90
+  draw-total: 73
+  draw-percent: 88
+  takeout-total: 63
+  takeout-percent: 86
+  shots-total: 136
+  shots-percent: 87
+- year: 2012
+  event: Canada Cup (Men)
+  team: MAR
+  position: Fourth
+  games: 6
+  wins: 1
+  losses: 5
+  inturn-total: 47
+  inturn-percent: 82
+  outturn-total: 68
+  outturn-percent: 69
+  draw-total: 62
+  draw-percent: 71
+  takeout-total: 53
+  takeout-percent: 79
+  shots-total: 115
+  shots-percent: 75
 - year: 1997
   event: Trials (Men)
   team: MAR
@@ -326,15 +476,19 @@ vs:
 - Adam, Gerry
 - Adams, Brian
 - Adams, Kevin
+- Adams, Mike
 - Adams, Shawn
 - Allan, John
 - Andrews, Robert
+- Appelman, Ted
+- Appelman, Tom
 - Armstrong, Doug
 - Armstrong, Jim
 - Armstrong, Mark
 - Atchison, Chris
 - Bailey, Scott
 - Barker, Richard
+- Bawel, Brent
 - Bentley, Dan
 - Bentley, Darren
 - Berthelot, Marco
@@ -343,15 +497,18 @@ vs:
 - Bitz, Scott
 - Blanchard, Ben
 - Blanchard, Jason
+- Blaylock, Bryan
 - Boland, John
 - Borden, Robert
 - Bouchard, Christian
+- Boyce, Jason
 - Brackett, James
 - Brandwood, Todd
 - Breckon, Graham
 - Brown, Ken
 - Bryant, Doug
 - Buchan, Chris
+- Bucholz, Rob
 - Buck, Wyatt
 - Burgess, Craig
 - Burnett, Steve
@@ -361,6 +518,7 @@ vs:
 - Butler, Mike
 - Butler, Ted
 - Buyck, James
+- Camm, Mathew
 - Campbell, Robert
 - Carey, Dan
 - Carmody, Anson
@@ -374,6 +532,7 @@ vs:
 - Chorostkowski, Brad
 - Clarke, Dave
 - Coady, Mike
+- Collin, Simon
 - Collison, Brian
 - Corner, Peter
 - Coster, Dave
@@ -382,10 +541,12 @@ vs:
 - Cowan, Chad
 - Crete, Martin
 - Cunningham, Geoff
+- Curtis, Jason
 - Dacey, Mark
 - Danbrook, Jamie
 - Daneault, Richard
 - Darragh, Alan
+- DeCap, Scott
 - Delmage, Ron
 - Desjardins, Robert
 - Despins, Glen
@@ -430,8 +591,10 @@ vs:
 - Gaudet, Mike
 - Gavin, Martin
 - Geall, Sean
+- Gedak, Brent
 - Germsheid, Tony
 - Gibson, Andrew
+- Gionest, Francois
 - Golanowski, Rory
 - Gordon, Robbie
 - Gorveatt, Philip
@@ -452,6 +615,7 @@ vs:
 - Hackner, Al
 - Haichert, Chris
 - Haines, Chuck
+- Hamilton, Andrew
 - Hannah, Brad
 - Harnden, Al
 - Harnden, E.J.
@@ -466,6 +630,7 @@ vs:
 - Hebert, Ben
 - Hebert, Brad
 - Heidt, Brad
+- Heidt, Mitch
 - Henderson, Jeffrey
 - Henderson, Lorne
 - Henderson, Ron
@@ -477,6 +642,7 @@ vs:
 - Hopkins, Jeff
 - Howard, Glenn
 - Howard, Russ
+- Howard, Scott
 - Howard, Steven
 - Ingram, Bob
 - Ireland, Clint
@@ -484,10 +650,12 @@ vs:
 - Jacobs, Brad
 - Jakomait, Dusty
 - Jakubo, Mike
+- Jantzen, Mike
 - Jenkins, Bill
 - Jewer, Keith
 - Joanisse, Dean
 - Johnson, Bill
+- Johnson, Mark
 - Johnston, Wade
 - Jones, Brennen
 - Jones, Dave
@@ -498,12 +666,14 @@ vs:
 - Karrys, George
 - Kawaja, John
 - Kehoe, Mark
+- Kennedy, Glen
 - Kennedy, Marc
 - Kennedy, Mike
 - Kent, Gerry
 - Kerr, Ian
 - Kidby, Dustin
 - Kieley, Phil
+- Klassen, Brandon
 - Klitch, Tyler
 - Knapp, Kelly
 - Koe, Jamie
@@ -560,6 +730,7 @@ vs:
 - Mead, Jonathan
 - Meakin, Rob
 - Mellof, David
+- Melnyk, Brendan
 - Menard, Jean-Michel
 - Menard, Philippe
 - Middaugh, Wayne
@@ -592,6 +763,7 @@ vs:
 - Nolan, Jason
 - Novakowski, Bob
 - Nowlan, Daryell
+- O'Connor, Sean
 - O'Driscoll, Frank
 - O'Rourke, Mark
 - Odian, Scott
@@ -599,14 +771,17 @@ vs:
 - Olson, Mark-2
 - Ormbsy, Dan
 - Ouimet, Luc
+- Owens, Derek
 - Packet, Jim
 - Palmer, Curt
 - Park, Kerry
 - Park, Kevin
 - Patriquin, Chuck
 - Patterson, Scott
+- Paul, Matt
 - Peachey, Jay
 - Peddigrew, Ken
+- Perepolkin, T.J.
 - Perozak, Brian
 - Perron, Rick
 - Perroud, Pat
@@ -625,7 +800,9 @@ vs:
 - Ravndal, Clayton
 - Recksiedler, Kevin
 - Reddick, Don
+- Reid, Serge
 - Richard, Gerry
+- Richard, Jeff
 - Richter, Justin
 - Roach, Darren
 - Roach, Jason
@@ -670,6 +847,7 @@ vs:
 - Stambaugh, Doug
 - Stoughton, Jeff
 - Stuart, Darol
+- Sulimma, Hardi
 - Sullivan, Charles Jr
 - Sullivan, Evan
 - Sveistrup, Jody
@@ -678,11 +856,13 @@ vs:
 - Tetley, Ian
 - Tetley, Ross
 - Thiessen, Nolan
+- Thomas, Charley
 - Thomas, Jeff
 - Thompson, Ron
 - Toner, Lee
 - Tremblay, Roderigue
 - Tresoor, Ken
+- Tuck, Wayne
 - Tuton, Craig
 - Ursel, Bob
 - Van Den Berghe, Garry
@@ -690,6 +870,7 @@ vs:
 - Vandenberghe, Garry
 - Vaughan, Jason
 - Vautour, Joseph
+- Villeneuve, Steeve
 - Virtue, Brock
 - Walker, Geoff
 - Walsh, Jim
@@ -699,6 +880,7 @@ vs:
 - Whitehead, Kevin
 - Whitehead, Mark
 - Whittle, Mark
+- Willis, Brendan
 - Windsor, Brian
 - Wood, Mike
 - Woytowich, Randy

@@ -17,6 +17,20 @@ totals:
   takeout-percent: 81
   shots-total: 1558
   shots-percent: 78
+- event: Canada Cup (Men)
+  games: 10
+  wins: 4
+  losses: 6
+  inturn-total: 90
+  inturn-percent: 84
+  outturn-total: 102
+  outturn-percent: 83
+  draw-total: 85
+  draw-percent: 82
+  takeout-total: 107
+  takeout-percent: 85
+  shots-total: 192
+  shots-percent: 83
 - event: Trials (Men)
   games: 9
   wins: 3
@@ -151,6 +165,40 @@ years:
   takeout-percent: 70
   shots-total: 200
   shots-percent: 72
+- year: 2004
+  event: Canada Cup (Men)
+  team: DAC
+  position: Third
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 45
+  inturn-percent: 83
+  outturn-total: 43
+  outturn-percent: 78
+  draw-total: 42
+  draw-percent: 81
+  takeout-total: 46
+  takeout-percent: 81
+  shots-total: 88
+  shots-percent: 81
+- year: 2005
+  event: Canada Cup (Men)
+  team: Dac
+  position: Third
+  games: 5
+  wins: 2
+  losses: 3
+  inturn-total: 45
+  inturn-percent: 86
+  outturn-total: 59
+  outturn-percent: 86
+  draw-total: 43
+  draw-percent: 83
+  takeout-total: 61
+  takeout-percent: 87
+  shots-total: 104
+  shots-percent: 86
 - year: 2005
   event: Trials (Men)
   team: DAC
@@ -179,12 +227,14 @@ vs:
 - Armstrong, Jim
 - Armstrong, Mark
 - Arsenault, Craig
+- Bailey, Scott
 - Bartlett, Don
 - Base, John
 - Belcourt, Tim
 - Biron, Louis
 - Bisson, Richard
 - Bitz, Scott
+- Boyce, Jason
 - Brophy, Marc
 - Bryant, Doug
 - Bubbs, John
@@ -210,7 +260,9 @@ vs:
 - Cotter, Jim
 - Cowan, Chad
 - Crete, Martin
+- Cripps, Scott
 - Cunningham, Geoff
+- Curtis, Jason
 - Dacey, Mark
 - Delmage, Al
 - Desilets, Mike
@@ -232,6 +284,7 @@ vs:
 - Fowler, Ed
 - Fowler, Rob
 - Foy, Sandy
+- Frans, Joe
 - Fry, Ryan
 - Gagnon, Jean
 - Gagnon, Steeve
@@ -316,6 +369,7 @@ vs:
 - MacPherson, Brad
 - MacPherson, Bryan
 - Martin, Kevin
+- McCarrel, Graeme
 - McKenzie, Donald
 - Mead, Jon
 - Mead, Jonathan
@@ -349,6 +403,7 @@ vs:
 - Packet, Jim
 - Pahl, James
 - Park, Kevin
+- Paul, Matt
 - Peachey, Jay
 - Peachy, Jay
 - Peddigrew, Ken
@@ -369,6 +424,7 @@ vs:
 - Roy, Jean-Sebastien
 - Rudd, Don
 - Ryan, Jeff
+- Ryan, Keith
 - Ryan, Pat
 - Rycroft, Carter
 - Salo, John
@@ -397,7 +453,9 @@ vs:
 - Thompson, Ron
 - Toner, Lee
 - Tremblay, Roderigue
+- Tresoor, Ken
 - Trevellyan, Todd
+- Tuck, Wayne
 - Ursel, Bob
 - Usackis, John
 - Van Den Berghe, Garry
@@ -414,6 +472,7 @@ vs:
 - Weeks, Doug
 - Wempe, Brian
 - Werenich, Ed
+- Westlund, Mike
 - Westphal, Don
 - Whitehead, Kevin
 - Whitehead, Mark

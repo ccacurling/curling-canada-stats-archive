@@ -17,6 +17,20 @@ totals:
   takeout-percent: 86
   shots-total: 2054
   shots-percent: 82
+- event: Canada Cup (Men)
+  games: 12
+  wins: 4
+  losses: 8
+  inturn-total: 96
+  inturn-percent: 86
+  outturn-total: 120
+  outturn-percent: 84
+  draw-total: 121
+  draw-percent: 86
+  takeout-total: 95
+  takeout-percent: 83
+  shots-total: 216
+  shots-percent: 85
 - event: Trials (Men)
   games: 9
   wins: 5
@@ -189,6 +203,40 @@ years:
   event: Brier
   team: BC
   position: Alternate
+- year: 2003
+  event: Canada Cup (Men)
+  team: Ryan
+  position: Fourth
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 59
+  inturn-percent: 87
+  outturn-total: 61
+  outturn-percent: 83
+  draw-total: 69
+  draw-percent: 86
+  takeout-total: 51
+  takeout-percent: 83
+  shots-total: 120
+  shots-percent: 85
+- year: 2005
+  event: Canada Cup (Men)
+  team: Rya
+  position: Third
+  games: 5
+  wins: 0
+  losses: 5
+  inturn-total: 37
+  inturn-percent: 85
+  outturn-total: 59
+  outturn-percent: 84
+  draw-total: 52
+  draw-percent: 86
+  takeout-total: 44
+  takeout-percent: 84
+  shots-total: 96
+  shots-percent: 85
 - year: 2005
   event: Trials (Men)
   team: RYA
@@ -221,13 +269,16 @@ vs:
 - Armstrong, Jim
 - Armstrong, Mark
 - Arsenault, Craig
+- Balsdon, Greg
 - Bartlett, Don
+- Base, John
 - Belcourt, Tim
 - Belliveau, Dan
 - Biron, Louis
 - Bisson, Richard
 - Bitz, Scott
 - Blanchard, Ben
+- Bowser, Don
 - Brodersen, Erik
 - Brophy, Marc
 - Bryant, Doug
@@ -254,13 +305,16 @@ vs:
 - Corner, Peter
 - Coster, Dave
 - Cowan, Chad
+- Cripps, Scott
 - Cunningham, Geoff
+- Cursons, Neil
 - Dabrowski, Don
 - Dacey, Mark
 - Delmage, Al
 - Denis, Serge
 - Desilets, Mike
 - Devlin, Paul
+- Dickson, Rob
 - Dillon, Billy
 - Dillon, Mike
 - Dobson, Brian
@@ -309,6 +363,7 @@ vs:
 - Hakansson, Thomas
 - Harcourt, Doug
 - Harcourt, Greg
+- Harris, Mike
 - Harris, Rob
 - Harris, Tyler
 - Harrison, Neil
@@ -336,6 +391,7 @@ vs:
 - Jenion, Bob
 - Jenkins, Bill
 - Johnston, Steve
+- Jordison, Joel
 - Journeaux, Ian
 - Kallos, Jack Jr
 - Kalthoff, Kevin
@@ -350,6 +406,7 @@ vs:
 - Kerr, Ian
 - Kijewski, Kelly
 - Kilgallen, Shane
+- Koe, Jamie
 - Koe, Kevin
 - Koffski, Rob
 - Korab, Jamie
@@ -400,6 +457,7 @@ vs:
 - McDonald, Toby
 - McDonald, Ward
 - Mead, Jon
+- Mead, Jonathan
 - Meakin, Rob
 - Meger, Doug
 - Meleschuk, Orest
@@ -409,6 +467,7 @@ vs:
 - Middaugh, Wayne
 - Mikkelsen, Ray
 - Miller, Bob
+- Miller, Ryan
 - Milward, Ross
 - Mimeault, Bernard
 - Mimeault, Greg
@@ -454,6 +513,7 @@ vs:
 - Pineau, Larry
 - Poole, Gary
 - Power, Joe
+- Prebble, Darryl
 - Rastelli, Max
 - Ravndal, Clayton
 - Recksiedler, Kevin
@@ -471,6 +531,7 @@ vs:
 - Rudd, Don
 - Ryan, Don
 - Ryan, Jeff
+- Ryan, Keith
 - Rycroft, Carter
 - Salina, Charlie
 - Salo, John
@@ -483,6 +544,7 @@ vs:
 - Sexton, Jamie
 - Shaughnessy, Del
 - Sheridan, Aidan
+- Simmons, Pat
 - Skillen, Aaron
 - Smith, Alex
 - Smith, Dave
@@ -514,9 +576,11 @@ vs:
 - Turner, Malcolm
 - Turpin, Randy
 - Usackis, John
+- Van Den Berghe, Garry
 - Vandenberghe, Garry
 - Vautour, Joseph
 - Walchuk, Don
+- Wall, Trevor
 - Wallace, Dale
 - Wallace, Dave
 - Walsh, Jim
@@ -527,6 +591,7 @@ vs:
 - Weeks, Doug
 - Wempe, Brian
 - Werenich, Ed
+- Westlund, Mike
 - Westphal, Don
 - Wight, Bryan
 - Woytowich, Randy

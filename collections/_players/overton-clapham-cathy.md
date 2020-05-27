@@ -3,6 +3,20 @@ title: Cathy Overton-Clapham
 name: Cathy Overton-Clapham
 name-sort: Overton-Clapham, Cathy
 totals:
+- event: Canada Cup (Women)
+  games: 36
+  wins: 20
+  losses: 16
+  inturn-total: 367
+  inturn-percent: 77
+  outturn-total: 324
+  outturn-percent: 73
+  draw-total: 306
+  draw-percent: 74
+  takeout-total: 385
+  takeout-percent: 76
+  shots-total: 691
+  shots-percent: 75
 - event: Hearts
   games: 159
   wins: 110
@@ -32,6 +46,91 @@ totals:
   shots-total: 654
   shots-percent: 77
 years:
+- year: 2006
+  event: Canada Cup (Women)
+  team: Jon
+  position: Third
+  games: 9
+  wins: 6
+  losses: 3
+  inturn-total: 76
+  inturn-percent: 73
+  outturn-total: 98
+  outturn-percent: 79
+  draw-total: 86
+  draw-percent: 77
+  takeout-total: 88
+  takeout-percent: 75
+  shots-total: 174
+  shots-percent: 76
+- year: 2007
+  event: Canada Cup (Women)
+  team: Jon
+  position: Third
+  games: 8
+  wins: 6
+  losses: 2
+  inturn-total: 77
+  inturn-percent: 80
+  outturn-total: 77
+  outturn-percent: 82
+  draw-total: 59
+  draw-percent: 74
+  takeout-total: 95
+  takeout-percent: 85
+  shots-total: 154
+  shots-percent: 81
+- year: 2008
+  event: Canada Cup (Women)
+  team: JONE
+  position: Third
+  games: 6
+  wins: 4
+  losses: 2
+  inturn-total: 64
+  inturn-percent: 79
+  outturn-total: 42
+  outturn-percent: 71
+  draw-total: 37
+  draw-percent: 78
+  takeout-total: 69
+  takeout-percent: 74
+  shots-total: 106
+  shots-percent: 75
+- year: 2012
+  event: Canada Cup (Women)
+  team: OVE
+  position: Fourth
+  games: 6
+  wins: 1
+  losses: 5
+  inturn-total: 75
+  inturn-percent: 75
+  outturn-total: 44
+  outturn-percent: 49
+  draw-total: 54
+  draw-percent: 65
+  takeout-total: 65
+  takeout-percent: 66
+  shots-total: 119
+  shots-percent: 66
+- year: 2018
+  event: Canada Cup (Women)
+  team: Walk
+  position: Third
+  games: 7
+  wins: 3
+  losses: 4
+  inturn-total: 75
+  inturn-percent: 81
+  outturn-total: 63
+  outturn-percent: 71
+  draw-total: 70
+  draw-percent: 76
+  takeout-total: 68
+  takeout-percent: 76
+  shots-total: 138
+  shots-percent: 76
 - year: 1991
   event: Hearts
   team: MB
@@ -311,13 +410,16 @@ vs:
 - Alexander, Diane
 - Allen, Michelle
 - Anderson, Sherry
+- Appelman, Pam
 - Armstrong, Jacquie
+- Armstrong, Leigh
 - Arsenault, Mary-Anne
 - Arseneau, Jane
 - Aucoin, Shelley
 - Babin, Jillian
 - Bakker, Glenys
 - Balderston, Marcy
+- Baleja, Susan
 - Barbour, Shona
 - Barrack, Carmen
 - Belanger, Nancy
@@ -329,7 +431,9 @@ vs:
 - Berthelot, Janique
 - Betker, Jan
 - Beveridge, Corie
+- Birchard, Shannon
 - Birt, Suzanne
+- Blair, Janice
 - Blanchard, Judy
 - Bobbie, Tess
 - Bodogh, Marilyn
@@ -347,6 +451,7 @@ vs:
 - Brown, Katie
 - Brown, Maureen
 - Brown, Rachel
+- Bruce, Twyla
 - Bryant, Angie
 - Burgess, Carey
 - Busche, Jodi
@@ -355,6 +460,8 @@ vs:
 - Cameron, Kate
 - Cameron, Nancy
 - Campbell, June
+- Cannon, Theresa
+- Carey, Chelsea
 - Carmody, Erin
 - Carrier, Julie
 - Carter, Sasha
@@ -378,24 +485,30 @@ vs:
 - Daniel, Sylvie
 - Darbyshire, Carolyn
 - Davis, Brandee
+- Dealy, Diane
 - Delahunt, Nancy
 - Derick, Catherine
 - deSolla, Jodie
 - Dezura, Diane
 - Dobson, Sue
+- Doig, Deanna
 - Dolan, Kim
 - Dorosz, Peggy
 - Duhaime, Chantal
 - Eddy, Lori
+- Einarson, Kerri
 - Einarson, Megan
 - Ellis, Danielle
 - Englot, Michelle
 - Enright, Barb
+- Fallis, Karen
 - Farrell, Allison
 - Ferguson, Dana
 - Flaxey, Allison
 - Floyd, Kathy
 - Fortier, Marie-Josee
+- Foster, Kristen
+- Foster, Vanessa
 - Fowler, Lois
 - Fraser, Sherry
 - Frey, Audrey
@@ -418,6 +531,7 @@ vs:
 - Gudereit, Marcia
 - Gushulak, Diane
 - Guzzwell, Stephanie
+- Hamer, Kate
 - Hamilton, Beth
 - Hanlon, Heidi
 - Hanna, Jenn
@@ -427,8 +541,10 @@ vs:
 - Harmark, Andra
 - Harris, Susan
 - Harrison, Meredith
+- Harvey, Alison
 - Harvey, Janet
 - Hatton, Sandra
+- Haughian, Jessie
 - Henry, Lou Ann
 - Hensley, Merna
 - Hodson, Kim
@@ -443,7 +559,9 @@ vs:
 - Houston, Heather
 - Hutton, Barb
 - Inglis, Nancy
+- Iskiw, Beth
 - Jackson, Virginia
+- Jacques, Nicole
 - Jennings, Tracey
 - Jesty, Janet
 - Johnstone, Loralee
@@ -459,7 +577,9 @@ vs:
 - Keshen, Christine
 - Kidd, Darlene
 - King, Cathy
+- Kirby, Carey
 - Kleibrink, Shannon
+- Klein, Karen
 - Koehler, Megan
 - Kreviazuk, Alison
 - Kreviazuk, Lynn
@@ -482,6 +602,7 @@ vs:
 - Lilly, Kendra
 - Linton, Sherry
 - Loder, Cherie-Ann
+- Loder, Kristin
 - London, Debra
 - Lowther, Tammi
 - MacAulay, Marion
@@ -494,6 +615,7 @@ vs:
 - MacLean, Kari
 - MacLeod, Lisa
 - MacPhee, Robyn
+- Mair, Jessica
 - Makichuck, Lindsay
 - Malekoff, Stephanie
 - Mallett, Marla
@@ -509,6 +631,8 @@ vs:
 - McCrady, Christine
 - McCurdy, Susan
 - McCusker, Joan
+- McDonald, Kristy
+- McDonald, Taylor
 - McDonald, Tina
 - McEwen, Dawn
 - McGregor, Rona
@@ -518,7 +642,9 @@ vs:
 - McNamee, Karen
 - McPherson, Cheryl
 - McTaggart, Cary-Anne
+- Meilleur, Briane
 - Merklinger, Anne
+- Merklinger, Lee
 - Middaugh, Sherry
 - Miller, Maureen
 - Miller, Wendy
@@ -557,6 +683,7 @@ vs:
 - Parsons, Danielle
 - Paul, Sarah
 - Pendergast, Judy
+- Peterman, Jocelyn
 - Peters, Laine
 - Phillips, Kristen
 - Phillips, Laura
@@ -565,6 +692,7 @@ vs:
 - Potts, Sarah
 - Power, Marie-Anne
 - Preston, Sam
+- Preston, Samantha
 - Pross, Margaret
 - Prosser, Sandi
 - Provencal, Darah
@@ -572,6 +700,7 @@ vs:
 - Putland, Rose
 - Rainville, Julie
 - Ramsay, Geri Lynn
+- Rankin, Heather
 - Renouf, Michele
 - Richard, Marie
 - Richards, Brette
@@ -607,6 +736,7 @@ vs:
 - Sippala, Ashley
 - Skinner, Julie
 - Smith, Heather
+- Smith, Nikki
 - Snider, Shelly
 - Sobey, Lianne
 - Soligo, Melissa
@@ -631,6 +761,7 @@ vs:
 - Thurston, Jill
 - Tincher, Twyla
 - Tippin, Julie
+- Titheridge, Lindsay
 - Train, Mona
 - Tuck, Kimberly
 - Tucker, Cindy
@@ -650,6 +781,7 @@ vs:
 - Whitaker, Carol
 - Whitrow, Leanne
 - Wieler, Bev
+- Wilkes, Sarah
 - Willms, Karri
 - Wilson, Leslie
 - Wright, Susan

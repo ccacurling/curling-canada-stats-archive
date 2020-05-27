@@ -17,6 +17,20 @@ totals:
   takeout-percent: 86
   shots-total: 1921
   shots-percent: 86
+- event: Canada Cup (Men)
+  games: 20
+  wins: 13
+  losses: 7
+  inturn-total: 249
+  inturn-percent: 85
+  outturn-total: 133
+  outturn-percent: 83
+  draw-total: 141
+  draw-percent: 85
+  takeout-total: 241
+  takeout-percent: 83
+  shots-total: 382
+  shots-percent: 84
 - event: Trials (Men)
   games: 28
   wins: 20
@@ -172,6 +186,57 @@ years:
   takeout-percent: 86
   shots-total: 212
   shots-percent: 85
+- year: 2006
+  event: Canada Cup (Men)
+  team: How
+  position: Third
+  games: 7
+  wins: 5
+  losses: 2
+  inturn-total: 90
+  inturn-percent: 84
+  outturn-total: 46
+  outturn-percent: 87
+  draw-total: 59
+  draw-percent: 89
+  takeout-total: 77
+  takeout-percent: 82
+  shots-total: 136
+  shots-percent: 85
+- year: 2008
+  event: Canada Cup (Men)
+  team: HOWA
+  position: Third
+  games: 6
+  wins: 4
+  losses: 2
+  inturn-total: 70
+  inturn-percent: 84
+  outturn-total: 36
+  outturn-percent: 83
+  draw-total: 36
+  draw-percent: 84
+  takeout-total: 70
+  takeout-percent: 83
+  shots-total: 106
+  shots-percent: 83
+- year: 2014
+  event: Canada Cup (Men)
+  team: HOW
+  position: Third
+  games: 7
+  wins: 4
+  losses: 3
+  inturn-total: 89
+  inturn-percent: 86
+  outturn-total: 51
+  outturn-percent: 78
+  draw-total: 46
+  draw-percent: 83
+  takeout-total: 94
+  takeout-percent: 84
+  shots-total: 140
+  shots-percent: 83
 - year: 1997
   event: Trials (Men)
   team: HAR
@@ -233,11 +298,13 @@ vs:
 - Bartlett, Don
 - Berthelot, Marco
 - Bitz, Scott
+- Blaylock, Bryan
 - Borden, Robert
 - Bottcher, Brendan
 - Bouchard, Christian
 - Brannen, Jamie
 - Bryant, Doug
+- Bucholz, Rob
 - Burgess, Craig
 - Burnett, Steve
 - Burtnyk, Kerry
@@ -261,6 +328,9 @@ vs:
 - Daneault, Richard
 - Darragh, Alan
 - Desjardins, Robert
+- Despins, Dale
+- Despins, Glen
+- Despins, Wayne
 - Desrosiers, John
 - Dillon, Mike
 - Dobson, Paul
@@ -287,6 +357,7 @@ vs:
 - Gaudet, Mike
 - Gavin, Martin
 - Geall, Sean
+- Gedak, Brent
 - Gibson, Andrew
 - Giddens, Ryan
 - Gionest, Francois
@@ -309,6 +380,8 @@ vs:
 - Harrison, Neil
 - Harvey, Don
 - Hebert, Ben
+- Heidt, Brad
+- Heidt, Mitch
 - Hicke, Dean
 - Howard, Glenn
 - Howard, Russ
@@ -320,6 +393,7 @@ vs:
 - Jewer, Keith
 - Joanisse, Dean
 - Johnson, Bill
+- Johnson, Mark
 - Johnston, Wade
 - Jones, Brennen
 - Jones, Scott
@@ -327,6 +401,7 @@ vs:
 - Kammerlock, Dan
 - Kawaja, John
 - Kehoe, Mark
+- Kennedy, Glen
 - Kennedy, Marc
 - Kennedy, Mike
 - Kidby, Dustin
@@ -442,6 +517,7 @@ vs:
 - Tetley, Ian
 - Thiessen, Brad
 - Thiessen, Nolan
+- Thomas, Charley
 - Toner, Lee
 - Tresoor, Ken
 - Ursel, Bob
