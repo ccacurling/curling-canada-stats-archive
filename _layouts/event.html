@@ -3,10 +3,14 @@ layout: default
 ---
 <h1>{{ page.title }}{% include no-detailed-stats.html event=page.title year=page.year %}</h1>
 <p class="font-italic">{{ page.location }}<br>{{ page.dates }}</p>
-{% unless page.title contains 'Canada Cup' %}
+{% for static_file in site.static_files %}
+{% capture chart_path %}/assets/images/playoffs/{{ page.collection }}/{{ page.year }}.jpg{% endcapture %}
+    {% if static_file.path == chart_path %}
 <h2>Playoff Chart</h2>
 <p><img src="{{ site.baseurl }}/assets/images/playoffs/{{ page.collection }}/{{ page.year }}.jpg" /></p>
-{% endunless %}
+    {% break %}
+    {% endif %}
+{% endfor %}
 <h2>Championship Final</h2>
 {% assign final = page.draws.last.games.last %}
 <div class="col-lg-6">
