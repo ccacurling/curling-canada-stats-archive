@@ -17,7 +17,8 @@ layout: default
 <table class="table">
   <tr>
     <th></th>
-    {% for i in (1..final.ends.size) %}
+    {% assign total_ends = final.ends.size | at_least: page.ends %}
+    {% for i in (1..total_ends) %}
     <th>{{ i }}</th>
     {% endfor %}
     <th>Total</th>
@@ -25,16 +26,17 @@ layout: default
   </tr>
   <tr>
     <th class="team1"><i class="fa fa-circle" aria-hidden="true"></i> {{ final.team1.name }}{% if final.team1.lsfe == true %} <i class="fa fa-star" aria-hidden="true" data-toggle="tooltip" data-placement="right" title="Last Shot First End"></i>{% endif %}</th>
-    {% for end in final.ends %}
-    <td>{{ end.team1 }}</td>
+    {% assign total_ends = total_ends | minus: 1 %}
+    {% for i in (0..total_ends) %}
+    <td>{{ final.ends[i].team1 | default: 'X' }}</td>
     {% endfor %}
     <td>{{ final.team1.score }}</td>
     <td>{{ final.team1.time }}</td>
   </tr>
   <tr>
     <th class="team2"><i class="fa fa-circle" aria-hidden="true"></i> {{ final.team2.name }}{% if final.team2.lsfe == true %} <i class="fa fa-star" aria-hidden="true" data-toggle="tooltip" data-placement="right" title="Last Shot First End"></i>{% endif %}</th>
-    {% for end in final.ends %}
-    <td>{{ end.team2 }}</td>
+    {% for i in (0..total_ends) %}
+    <td>{{ final.ends[i].team2 | default: 'X' }}</td>
     {% endfor %}
     <td>{{ final.team2.score }}</td>
     <td>{{ final.team2.time }}</td>
@@ -161,7 +163,8 @@ layout: default
       <table class="table">
         <tr>
           <th></th>
-          {% for i in (1..game.ends.size) %}
+          {% assign total_ends = game.ends.size | at_least: page.ends %}
+          {% for i in (1..total_ends) %}
           <th>{{ i }}</th>
           {% endfor %}
           <th>Total</th>
@@ -169,16 +172,17 @@ layout: default
         </tr>
         <tr>
           <th class="team1"><i class="fa fa-circle" aria-hidden="true"></i> {{ game.team1.name }}{% if game.team1.lsfe == true %} <i class="fa fa-star" aria-hidden="true" data-toggle="tooltip" data-placement="right" title="Last Shot First End"></i>{% endif %}</th>
-          {% for end in game.ends %}
-          <td>{{ end.team1 }}</td>
+          {% assign total_ends = total_ends | minus: 1 %}
+          {% for i in (0..total_ends) %}
+          <td>{{ game.ends[i].team1 | default: 'X' }}</td>
           {% endfor %}
           <td>{{ game.team1.score }}</td>
           <td>{{ game.team1.time }}</td>
         </tr>
         <tr>
           <th class="team2"><i class="fa fa-circle" aria-hidden="true"></i> {{ game.team2.name }}{% if game.team2.lsfe == true %} <i class="fa fa-star" aria-hidden="true" data-toggle="tooltip" data-placement="right" title="Last Shot First End"></i>{% endif %}</th>
-          {% for end in game.ends %}
-          <td>{{ end.team2 }}</td>
+          {% for i in (0..total_ends) %}
+          <td>{{ game.ends[i].team2 | default: 'X' }}</td>
           {% endfor %}
           <td>{{ game.team2.score }}</td>
           <td>{{ game.team2.time }}</td>
