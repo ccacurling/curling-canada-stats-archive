@@ -18,7 +18,29 @@ Data - Brian Cassidy Sr.
 
 Site - Brian Cassidy Jr.
 
+Curling Canada gratefully acknowledges contributions to this archive from the following individuals:
+
+Terry Begin
+
+Al Cameron
+
+Soupy Campbell
+
+Arleen Day
+
+Kyle Jahns
+
+Stella Keays
+
+Connie Laliberte
+
+Dave Thomas
+
 ## Changelog
+
+### 2020-11-02
+
+ * Added Macdonald Brier data (1927-1929).
 
 ### 2020-05-27
 

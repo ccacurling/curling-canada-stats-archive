@@ -23,6 +23,12 @@ markdown: kramdown
 
 collections_dir: collections
 collections:
+  macdonald-brier:
+    output: true
+    permalink: /macdonald-brier/:path
+  macdonald-brier-teams:
+    output: true
+    permalink: /macdonald-brier/team/:path
   brier:
     output: true
     permalink: /brier/:path
@@ -55,6 +61,16 @@ collections:
     permalink: /vs/:path
 
 defaults:
+  - scope:
+      path: ""
+      type: "macdonald-brier"
+    values:
+      layout: event
+  - scope:
+      path: ""
+      type: "macdonald-brier-teams"
+    values:
+      layout: macdonald-brier-team
   - scope:
       path: ""
       type: "brier"

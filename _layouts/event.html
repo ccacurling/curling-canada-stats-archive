@@ -11,6 +11,7 @@ layout: default
     {% break %}
     {% endif %}
 {% endfor %}
+{% unless page.title contains 'Macdonald' %}
 <h2>Championship Final</h2>
 {% assign final = page.draws.last.games.last %}
 <div class="col-lg-6">
@@ -43,6 +44,7 @@ layout: default
   </tr>
 </table>
 </div>
+{% endunless %}
 <ul class="nav nav-tabs" role="tablist" id="event-nav">
   <li class="nav-item">
     <a class="nav-link active" id="standings-tab" data-toggle="tab" href="#standings" role="tab" aria-controls="standings" aria-selected="true">Standings</a>
@@ -53,9 +55,11 @@ layout: default
   <li class="nav-item">
     <a class="nav-link" id="draw-tab" data-toggle="tab" href="#draw" role="tab" aria-controls="draw" aria-selected="false">Results by Draw</a>
   </li>
+{% unless page.title contains 'Macdonald' %}
   <li class="nav-item">
     <a class="nav-link" id="stats-tab" data-toggle="tab" href="#stats" role="tab" aria-controls="draw" aria-selected="false">Event Statistics</a>
   </li>
+{% endunless %}
 </ul>
 <div class="tab-content" id="event-tabs">
   <div class="tab-pane fade show active" id="standings" role="tabpanel" aria-labelledby="standings-tab">
@@ -168,7 +172,9 @@ layout: default
           <th>{{ i }}</th>
           {% endfor %}
           <th>Total</th>
+          {% if game.team1.time %}
           <th>Time</th>
+          {% endif %}
         </tr>
         <tr>
           <th class="team1"><i class="fa fa-circle" aria-hidden="true"></i> {{ game.team1.name }}{% if game.team1.lsfe == true %} <i class="fa fa-star" aria-hidden="true" data-toggle="tooltip" data-placement="right" title="Last Shot First End"></i>{% endif %}</th>
@@ -177,7 +183,9 @@ layout: default
           <td>{{ game.ends[i].team1 | default: 'X' }}</td>
           {% endfor %}
           <td>{{ game.team1.score }}</td>
+          {% if game.team1.time %}
           <td>{{ game.team1.time }}</td>
+          {% endif %}
         </tr>
         <tr>
           <th class="team2"><i class="fa fa-circle" aria-hidden="true"></i> {{ game.team2.name }}{% if game.team2.lsfe == true %} <i class="fa fa-star" aria-hidden="true" data-toggle="tooltip" data-placement="right" title="Last Shot First End"></i>{% endif %}</th>
@@ -185,7 +193,9 @@ layout: default
           <td>{{ game.ends[i].team2 | default: 'X' }}</td>
           {% endfor %}
           <td>{{ game.team2.score }}</td>
+          {% if game.team2.time %}
           <td>{{ game.team2.time }}</td>
+          {% endif %}
         </tr>
       </table>
       <div class="row flex-row">
@@ -198,8 +208,10 @@ layout: default
           <tr>
             <th>Pos</th>
             <th>Player</th>
+            {% if game.team1.players[0].shots %}
             <th>SHT</th>
             <th>PCT</th>
+            {% endif %}
           </tr>
           </thead>
           <tbody>
@@ -209,7 +221,7 @@ layout: default
             <td><a href="../players/{{ player.name | slugify }}">{{ player.name }}</a></td>
             {% if player.shots == 0 %}
             <td>--</td><td>--</td>
-            {% else %}
+            {% elsif player.shots %}
             <td>{{ player.shots }}</td>
             <td>{{ player.percent }}</td>
             {% endif %}
@@ -217,6 +229,7 @@ layout: default
           {% endfor %}
           </tbody>
           <tfoot>
+          {% if game.team1.shots %}
           <tr>
             <td colspan="2">Team</td>
             {% if game.team1.shots == 0 %}
@@ -226,6 +239,7 @@ layout: default
             <td>{{ game.team1.percent }}</td>
             {% endif %}
           </tr>
+          {% endif %}
           </tfoot>
         </table>
       </div>
@@ -238,8 +252,10 @@ layout: default
           <tr>
             <th>Pos</th>
             <th>Player</th>
+            {% if game.team2.players[0].shots %}
             <th>SHT</th>
             <th>PCT</th>
+            {% endif %}
           </tr>
           </thead>
           <tbody>
@@ -249,7 +265,7 @@ layout: default
             <td><a href="../players/{{ player.name | slugify }}">{{ player.name }}</a></td>
             {% if player.shots == 0 %}
             <td>--</td><td>--</td>
-            {% else %}
+            {% elsif player.shots %}
             <td>{{ player.shots }}</td>
             <td>{{ player.percent }}</td>
             {% endif %}
@@ -257,6 +273,7 @@ layout: default
           {% endfor %}
           </tbody>
           <tfoot>
+          {% if game.team2.shots %}
           <tr>
             <td colspan="2">Team</td>
             {% if game.team2.shots == 0 %}
@@ -266,6 +283,7 @@ layout: default
             <td>{{ game.team2.percent }}</td>
             {% endif %}
           </tr>
+          {% endif %}
           </tfoot>
         </table>
       </div>
@@ -276,7 +294,9 @@ layout: default
     {% if forloop.last == false %}<hr class="draws">{% endif %}
     {% endfor %}
   </div>
+{% unless page.title contains 'Macdonald' %}
   <div class="tab-pane fade" id="stats" role="tabpanel" aria-labelledby="stats-tab">
 {% include {{ page.collection }}/stats/{{ page.year }}.html %}
   </div>
+{% endunless %}
 </div>
