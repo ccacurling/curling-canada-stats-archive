@@ -45,9 +45,9 @@ vs:
  - Power, Joseph
  - Robb, Melvin
  - Scott, William
+ - Shives, Reginald
  - Smith, Emmett
  - Sutherland, Duncan
- - Shives, Reginald
  - Torey, Clifford
  - Watson, Harry
  - Watson, William

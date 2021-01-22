@@ -2,6 +2,62 @@
 title: John Malcolm Head-to-head
 name: Malcolm, John
 vs:
+ - name: Manahan, Clifford  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1933            
+      draw: Round Robin(1)  
+      score: AB 14 - NB 11  
+ - name: McCulloch, Henry   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'NS'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1933            
+      draw: Round Robin(5)  
+      score: NB 8 - NS 13   
  - name: McGillvray, W.L.   
    totals:                  
     - event: Macdonald Brier
@@ -30,6 +86,34 @@ vs:
       year: 1928            
       draw: Round Robin(6)  
       score: SK 12 - NB 11  
+ - name: McLauchlan, Cliff  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'SK'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1933            
+      draw: Round Robin(4)  
+      score: NB 9 - SK 12   
  - name: McLeod, N.D.       
    totals:                  
     - event: Macdonald Brier
@@ -198,6 +282,34 @@ vs:
       year: 1928            
       draw: Round Robin(7)  
       score: NO 9 - NB 11   
+ - name: Murray, J.R.       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1933            
+      draw: Round Robin(5)  
+      score: NB 8 - NS 13   
  - name: Newton, S.G.       
    totals:                  
     - event: Macdonald Brier
@@ -366,6 +478,62 @@ vs:
       year: 1928            
       draw: Round Robin(4)  
       score: NB 13 - QC 12  
+ - name: Ramsay, Thomas     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NO'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1933            
+      draw: Round Robin(7)  
+      score: NB 16 - NO 3   
+ - name: Reid, John         
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'MB'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1933            
+      draw: Round Robin(2)  
+      score: NB 10 - MB 9   
  - name: Robb, Melvin       
    totals:                  
     - event: Macdonald Brier
@@ -422,6 +590,34 @@ vs:
       year: 1928            
       draw: Round Robin(2)  
       score: NB 9 - NS 10   
+ - name: Ross, I.H.         
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'AB'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1933            
+      draw: Round Robin(1)  
+      score: AB 14 - NB 11  
  - name: Roy, Ormiston      
    totals:                  
     - event: Macdonald Brier
@@ -562,6 +758,34 @@ vs:
       year: 1927            
       draw: Round Robin(7)  
       score: NB 16 - NO 8   
+ - name: Snow, Charles      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'TO'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1928            
+      draw: Round Robin(9)  
+      score: TO 12 - NB 11  
  - name: Sproule, Harvey    
    totals:                  
     - event: Macdonald Brier
@@ -690,6 +914,34 @@ vs:
       year: 1928            
       draw: Round Robin(1)  
       score: MO 7 - NB 15   
+ - name: Stuart, William    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'SK'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1933            
+      draw: Round Robin(4)  
+      score: NB 9 - SK 12   
  - name: Sutherland, Duncan 
    totals:                  
     - event: Macdonald Brier
@@ -718,7 +970,7 @@ vs:
       year: 1927            
       draw: Round Robin(7)  
       score: NB 16 - NO 8   
- - name: Snow, Charles      
+ - name: Sutherland, Harry  
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -736,16 +988,16 @@ vs:
         percent:        
         win: 0          
         loss: 1         
-      player2:          
-        team: 'TO'      
-        position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+      player2:        
+        team: 'NS'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
       event: Macdonald Brier
-      year: 1928            
-      draw: Round Robin(9)  
-      score: TO 12 - NB 11  
+      year: 1933            
+      draw: Round Robin(5)  
+      score: NB 8 - NS 13   
  - name: Taylor, Charles    
    totals:                  
     - event: Macdonald Brier
@@ -858,6 +1110,34 @@ vs:
       year: 1927            
       draw: Round Robin(2)  
       score: NB 15 - NS 14  
+ - name: Walker, Harry      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'QC'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1933            
+      draw: Round Robin(6)  
+      score: QC 10 - NB 17  
  - name: Watson, Harry      
    totals:                  
     - event: Macdonald Brier
@@ -914,6 +1194,90 @@ vs:
       year: 1927            
       draw: Round Robin(3)  
       score: NB 16 - ON 10  
+ - name: Weldon, William    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'QC'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1933            
+      draw: Round Robin(6)  
+      score: QC 10 - NB 17  
+ - name: Welsh, Alexander   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'MB'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1933            
+      draw: Round Robin(2)  
+      score: NB 10 - MB 9   
+ - name: Welsh, James       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'MB'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1933            
+      draw: Round Robin(2)  
+      score: NB 10 - MB 9   
  - name: Whyte, R.W.        
    totals:                  
     - event: Macdonald Brier
@@ -970,6 +1334,34 @@ vs:
       year: 1927            
       draw: Round Robin(6)  
       score: SK 13 - NB 14  
+ - name: Wolfe, Harold      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'AB'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1933            
+      draw: Round Robin(1)  
+      score: AB 14 - NB 11  
  - name: Wright, Thomas     
    totals:                  
     - event: Macdonald Brier

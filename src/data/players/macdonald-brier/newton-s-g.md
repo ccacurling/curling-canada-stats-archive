@@ -28,6 +28,7 @@ years:
 vs:
  - Brandon, John
  - Brower, Edward
+ - Caldbick, Samuel
  - Dale, Thomas
  - Duncan, Allan
  - Graham, Frederick
@@ -53,10 +54,10 @@ vs:
  - Scott, James
  - Shaw, William
  - Singbusch, Ronald
+ - Snow, Charles
  - Sproule, Harvey
  - Stevenson, Harry
  - Stewart, Howard
- - Snow, Charles
  - Taylor, Charles
  - Teasdale, Ralph
  - Tobey, Albert

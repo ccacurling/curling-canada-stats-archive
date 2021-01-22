@@ -30,6 +30,7 @@ vs:
  - Banks, W.J.
  - Brandon, John
  - Brower, Edward
+ - Caldbick, Samuel
  - Dale, Thomas
  - Duncan, Allan
  - Graham, Frederick
@@ -54,9 +55,9 @@ vs:
  - Scott, James
  - Shaw, William
  - Singbusch, Ronald
+ - Snow, Charles
  - Sproule, Harvey
  - Stevenson, Harry
- - Snow, Charles
  - Taylor, Charles
  - Teasdale, Ralph
  - Tobey, Albert

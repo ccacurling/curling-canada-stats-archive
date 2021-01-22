@@ -142,6 +142,34 @@ vs:
       year: 1928            
       draw: Round Robin(3)  
       score: MB 17 - QC 3   
+ - name: Snow, Charles      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:        
+        team: 'QC'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'TO'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1928            
+      draw: Round Robin(6)  
+      score: TO 16 - QC 10  
  - name: Sproule, Harvey    
    totals:                  
     - event: Macdonald Brier
@@ -226,34 +254,6 @@ vs:
       year: 1928            
       draw: Round Robin(8)  
       score: QC 12 - MO 10  
- - name: Snow, Charles      
-   totals:                  
-    - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
-   games:
-    - player1:        
-        team: 'QC'    
-        position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'TO'      
-        position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
-      event: Macdonald Brier
-      year: 1928            
-      draw: Round Robin(6)  
-      score: TO 16 - QC 10  
  - name: Taylor, Charles    
    totals:                  
     - event: Macdonald Brier

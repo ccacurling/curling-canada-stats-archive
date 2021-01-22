@@ -45,11 +45,11 @@ vs:
  - Power, Joseph
  - Robb, Melvin
  - Scott, William
+ - Shives, Reginald
  - Smith, Emmett
  - Stewart, Bruce
  - Stewart, Howard
  - Sutherland, Duncan
- - Shives, Reginald
  - Torey, Clifford
  - Whyte, R.W.
  - Wilken, Pete

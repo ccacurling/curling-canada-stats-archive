@@ -142,6 +142,50 @@ vs:
       year: 1928            
       draw: Round Robin(5)  
       score: MB 14 - NB 4   
+ - name: Snow, Charles      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 2             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 2           
+   games:
+    - player1:         
+        team: 'MB'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:          
+        team: 'TO'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1928            
+      draw: Round Robin(7)  
+      score: MB 12 - TO 8   
+    - player1:         
+        team: 'MB'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:          
+        team: 'TO'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1928            
+      draw: Tie-Breaker(11) 
+      score: MB 10 - TO 6   
  - name: Sproule, Harvey    
    totals:                  
     - event: Macdonald Brier
@@ -242,50 +286,6 @@ vs:
       year: 1928            
       draw: Round Robin(6)  
       score: MB 14 - MO 10  
- - name: Snow, Charles      
-   totals:                  
-    - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 2             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 2           
-   games:
-    - player1:         
-        team: 'MB'     
-        position: Third
-        percent:       
-        win: 1         
-        loss: 0        
-      player2:          
-        team: 'TO'      
-        position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      event: Macdonald Brier
-      year: 1928            
-      draw: Round Robin(7)  
-      score: MB 12 - TO 8   
-    - player1:         
-        team: 'MB'     
-        position: Third
-        percent:       
-        win: 1         
-        loss: 0        
-      player2:          
-        team: 'TO'      
-        position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      event: Macdonald Brier
-      year: 1928            
-      draw: Tie-Breaker(11) 
-      score: MB 10 - TO 6   
  - name: Taylor, Charles    
    totals:                  
     - event: Macdonald Brier

@@ -726,6 +726,50 @@ vs:
       year: 1928            
       draw: Final(12)       
       score: MB 12 - AB 7   
+ - name: Snow, Charles      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 2             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 2           
+   games:
+    - player1:        
+        team: 'AB'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      player2:          
+        team: 'TO'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1928            
+      draw: Round Robin(2)  
+      score: TO 3 - AB 15   
+    - player1:        
+        team: 'AB'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      player2:          
+        team: 'TO'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1928            
+      draw: Tie-Breaker(10) 
+      score: AB 12 - TO 11  
  - name: Sproule, Harvey    
    totals:                  
     - event: Macdonald Brier
@@ -826,50 +870,6 @@ vs:
       year: 1928            
       draw: Round Robin(9)  
       score: MO 9 - AB 13   
- - name: Snow, Charles      
-   totals:                  
-    - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 2             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 2           
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'TO'      
-        position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      event: Macdonald Brier
-      year: 1928            
-      draw: Round Robin(2)  
-      score: TO 3 - AB 15   
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'TO'      
-        position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      event: Macdonald Brier
-      year: 1928            
-      draw: Tie-Breaker(10) 
-      score: AB 12 - TO 11  
  - name: Teasdale, Ralph    
    totals:                  
     - event: Macdonald Brier

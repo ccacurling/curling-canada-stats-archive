@@ -4,9 +4,9 @@ name: John Brower
 name-sort: Brower, John
 totals:
  - event: Macdonald Brier
-   games: 9
-   wins: 6
-   losses: 3
+   games: 37
+   wins: 22
+   losses: 15
 years:
  - year: 1929
    event: Macdonald Brier
@@ -25,41 +25,182 @@ years:
    takeout-percent:
    shots-total: 0
    shots-percent:
+ - year: 1931
+   event: Macdonald Brier
+   team: "ON"
+   position: Second
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 0
+   inturn-percent:
+   outturn-total: 0
+   outturn-percent:
+   draw-total: 0
+   draw-percent:
+   takeout-total: 0
+   takeout-percent:
+   shots-total: 0
+   shots-percent:
+ - year: 1938
+   event: Macdonald Brier
+   team: "SK"
+   position: Third
+   games: 9
+   wins: 4
+   losses: 5
+   inturn-total: 0
+   inturn-percent:
+   outturn-total: 0
+   outturn-percent:
+   draw-total: 0
+   draw-percent:
+   takeout-total: 0
+   takeout-percent:
+   shots-total: 0
+   shots-percent:
+ - year: 1939
+   event: Macdonald Brier
+   team: "SK"
+   position: Third
+   games: 9
+   wins: 5
+   losses: 4
+   inturn-total: 0
+   inturn-percent:
+   outturn-total: 0
+   outturn-percent:
+   draw-total: 0
+   draw-percent:
+   takeout-total: 0
+   takeout-percent:
+   shots-total: 0
+   shots-percent:
 vs:
+ - Annett, Sidney
+ - Arthur, Frank
+ - Avery, Francis
+ - Barbour, Bert
+ - Beecroft, William
+ - Beelby, Charles
  - Bell, Archibald
+ - Braithwaite, Robert
+ - Brown, William
  - Butler, Richard
  - Cairns, Charles
  - Carew, Frank
+ - Cartmell, Elwyn
+ - Condie, Arthur
+ - Connolly, Daniel
+ - Connolly, Joseph
+ - Cream, Robert
+ - Curliss, Jacob
+ - David, Roland
  - Donahoe, James
+ - Donald, Robert
+ - Durrant, Charles
+ - Finlay, William
  - Fleming, A.A.
+ - Fraser, John
+ - Fulton, Jack
+ - Gates, H.W.
+ - Gautier, John
  - Godfrey, Thomas
+ - Gourley, Robert
+ - Gowanlock, Albert
  - Grant, William
+ - Hall, Bert
+ - Hall, Perry
  - Hamlin, Frank
  - Hays, Jack
  - Hodgson, William
+ - Howie, James
  - Hudson, Gordon
  - Huestis, H.
+ - Hughes, Gordon
+ - Hume, Robert
+ - Irving, Ernest
  - Johnson, Arnold
+ - Kennah, John
+ - Kennedy, Ross
  - Kent, George
+ - LaFrance, Joseph
+ - Landry, Aurele
+ - Law, George
+ - LeSage, William
+ - Limerick, Arthur
+ - Limerick, Victor
+ - Limerick, Walter
+ - Lindsay, George
+ - Lockerbie, Arnold
  - Lockhart, Harold
+ - Lyall, Peter
  - MacDonald, Wendell
+ - MacDonald, William
  - MacInnes, Alfred
+ - Manahan, Clifford
+ - Manahan, Ross
+ - Mason, Lloyd
  - McAndrews, Frederick
+ - McArter, William
+ - McIntyre, Heath
+ - McIntyre, Lloyd
+ - McKnight, Edward
+ - McKnight, William
+ - McLaine, Rankine
+ - McLeod, Henry
  - McLuckie, William
+ - Meredith, Selvin
+ - Millar, Daniel
+ - Miller, Jack
+ - Murr, George
  - Nesbitt, W.
  - Nicholson, George
+ - Nicholson, John
+ - Norman, Horton
  - O'Meara, David
+ - Palmer, Howard
+ - Parkes, Ernest
  - Parkinson, Ash
+ - Ployart, Edward
+ - Pollard, Ernest
  - Reesor, Walter
+ - Robinson, Wesley
  - Rollo, Donald
  - Ross, Richard
+ - Roy, John
+ - Roy, Ormiston
+ - Seagram, Campbell
+ - Shaw, James
  - Sievert, L.E.
  - Silver, H. St.Clair
+ - Simm, Edward
+ - Simon, Albert
+ - Simon, A.D.
  - Singbusch, Ronald
  - Smith, A.
+ - Stewart, Howard
+ - Stewart, Ray
+ - Sutherland, Duncan
+ - Thibodeau, Nicholas
+ - Thompson, Edward
  - Thompson, William
+ - Tinling, Frederick
+ - Tinling, Lionel
+ - Trueman, Samuel
  - Turner, E.E.
+ - Umphrey, Lorne
+ - Walker, Harry
+ - Walker, John
+ - Webb, St. Clair
+ - Welliver, Robert
+ - Wells, Clair
  - Wheeler, Ambrose
+ - Wickstrom, Roland
+ - Williams, Charles
  - Williams, Frank
  - Williams, Stewart
+ - Wood, John
+ - Woods, Percy
+ - Young, P.
 ---

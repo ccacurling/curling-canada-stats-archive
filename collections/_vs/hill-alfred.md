@@ -422,6 +422,34 @@ vs:
       year: 1927            
       draw: Round Robin(3)  
       score: SK 17 - TO 15  
+ - name: Shives, Reginald   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:          
+        team: 'NB'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1927            
+      draw: Round Robin(6)  
+      score: SK 13 - NB 14  
  - name: Smith, Emmett      
    totals:                  
     - event: Macdonald Brier
@@ -534,34 +562,6 @@ vs:
       year: 1927            
       draw: Round Robin(5)  
       score: SK 11 - NO 9   
- - name: Shives, Reginald   
-   totals:                  
-    - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
-   games:
-    - player1:         
-        team: 'SK'     
-        position: Third
-        percent:       
-        win: 0         
-        loss: 1        
-      player2:          
-        team: 'NB'      
-        position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      event: Macdonald Brier
-      year: 1927            
-      draw: Round Robin(6)  
-      score: SK 13 - NB 14  
  - name: Torey, Clifford    
    totals:                  
     - event: Macdonald Brier

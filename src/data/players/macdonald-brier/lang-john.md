@@ -30,6 +30,7 @@ vs:
  - Banks, W.J.
  - Brandon, John
  - Brower, Edward
+ - Caldbick, Samuel
  - Dale, Thomas
  - Graham, Frederick
  - Graham, Stuart
@@ -54,10 +55,10 @@ vs:
  - Scott, James
  - Shaw, William
  - Singbusch, Ronald
+ - Snow, Charles
  - Sproule, Harvey
  - Stevenson, Harry
  - Stewart, Howard
- - Snow, Charles
  - Teasdale, Ralph
  - Tobey, Albert
  - Trigg, John

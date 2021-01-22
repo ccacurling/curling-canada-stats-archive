@@ -52,6 +52,7 @@ vs:
  - Brower, John
  - Butler, Richard
  - Cairns, Charles
+ - Caldbick, Samuel
  - Carew, Frank
  - Dale, Thomas
  - Donahoe, James
@@ -100,10 +101,10 @@ vs:
  - Sievert, L.E.
  - Silver, H. St.Clair
  - Smith, A.
+ - Snow, Charles
  - Sproule, Harvey
  - Stevenson, Harry
  - Stewart, Howard
- - Snow, Charles
  - Taylor, Charles
  - Teasdale, Ralph
  - Thompson, William
