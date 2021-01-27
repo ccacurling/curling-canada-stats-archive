@@ -46,17 +46,17 @@ vs:
       year: 1928            
       draw: Tie-Breaker(10) 
       score: AB 12 - TO 11  
- - name: Graham, Frederick  
-   totals:                  
-    - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+ - name: Graham, Frederick W.
+   totals:                   
+    - event: Macdonald Brier 
+      player1:               
+        percent:             
+        wins: 1              
+        losses: 0            
+      player2:               
+        percent:             
+        wins: 0              
+        losses: 1            
    games:
     - player1:        
         team: 'TO'    

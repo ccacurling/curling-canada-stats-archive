@@ -82,7 +82,7 @@ vs:
  - McKinlay, Jack
  - Miles, Edmund
  - Millar, Daniel
- - Monk, Harry
+ - Monk, Harry Sr.
  - Morrison, William
  - Noble, William
  - Norgan, George

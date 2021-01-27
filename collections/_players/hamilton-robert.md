@@ -60,7 +60,7 @@ vs:
  - Fulton, Jack
  - Gates, H.W.
  - Gourley, Robert
- - Graham, Frederick
+ - Graham, Frederick W.
  - Graham, Stuart
  - Grant, William
  - Heartwell, Joseph

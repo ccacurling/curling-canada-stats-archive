@@ -958,7 +958,7 @@ vs:
       year: 1932            
       draw: Round Robin(7)  
       score: QC 12 - NS 9   
- - name: Macdonald, James   
+ - name: MacDonald, J.      
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -2530,7 +2530,7 @@ vs:
       year: 1927            
       draw: Round Robin(7)  
       score: ON 9 - NS 13   
- - name: Watson, William    
+ - name: Watson, William A. 
    totals:                  
     - event: Macdonald Brier
       player1:              

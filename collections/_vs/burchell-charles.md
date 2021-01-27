@@ -86,17 +86,17 @@ vs:
       year: 1936            
       draw: Round Robin(4)  
       score: NS 5 - ON 14   
- - name: Gardner, Charles Jr.
-   totals:                   
-    - event: Macdonald Brier 
-      player1:               
-        percent:             
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent:             
-        wins: 1              
-        losses: 0            
+ - name: Gardner, Charles   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
    games:
     - player1:          
         team: 'NS'      
@@ -282,7 +282,7 @@ vs:
       year: 1936            
       draw: Round Robin(3)  
       score: SK 14 - NS 6   
- - name: McRae, Frederick   
+ - name: McRae, Frederick J.
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -758,7 +758,7 @@ vs:
       year: 1936            
       draw: Round Robin(5)  
       score: NS 7 - BC 11   
- - name: Whalen, William Jr.
+ - name: Whalen, William Jr 
    totals:                  
     - event: Macdonald Brier
       player1:              

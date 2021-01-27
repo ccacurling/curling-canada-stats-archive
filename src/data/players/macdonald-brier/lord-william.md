@@ -45,7 +45,7 @@ vs:
  - Maw, Edwin
  - McIntyre, Lloyd
  - Millar, Daniel
- - Monk, Harry
+ - Monk, Harry Sr.
  - Norgan, George
  - Porter, Harold
  - Reid, John

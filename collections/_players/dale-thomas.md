@@ -32,7 +32,7 @@ vs:
  - Brower, Edward
  - Caldbick, Samuel
  - Duncan, Allan
- - Graham, Frederick
+ - Graham, Frederick W.
  - Grant, William
  - Hamilton, Robert
  - Heartwell, Joseph

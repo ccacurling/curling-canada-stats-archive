@@ -1,8 +1,8 @@
 ---
-title: James Macdonald Head-to-head
-name: Macdonald, James
+title: James MacDonald Head-to-head
+name: MacDonald, James
 vs:
- - name: Macneill, Murray   
+ - name: Manahan, Clifford  
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -15,50 +15,22 @@ vs:
         losses: 0           
    games:
     - player1:        
-        team: 'SK'    
+        team: 'NO'    
         position: Lead
         percent:      
         win: 0        
         loss: 1       
       player2:          
-        team: 'NS'      
+        team: 'AB'      
         position: Fourth
         percent:        
         win: 1          
         loss: 0         
       event: Macdonald Brier
-      year: 1932            
-      draw: Round Robin(5)  
-      score: NS 13 - SK 9   
- - name: Mawhinney, Harry   
-   totals:                  
-    - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
-   games:
-    - player1:        
-        team: 'SK'    
-        position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'MB'    
-        position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      event: Macdonald Brier
-      year: 1932            
-      draw: Round Robin(3)  
-      score: SK 17 - MB 5   
- - name: McKinlay, Jack     
+      year: 1940            
+      draw: Round Robin(7)  
+      score: AB 19 - NO 5   
+ - name: Manahan, Robert    
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -71,119 +43,7 @@ vs:
         losses: 0           
    games:
     - player1:        
-        team: 'SK'    
-        position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
         team: 'NO'    
-        position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      event: Macdonald Brier
-      year: 1932            
-      draw: Round Robin(6)  
-      score: NO 12 - SK 11  
- - name: Morrison, William  
-   totals:                  
-    - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
-   games:
-    - player1:        
-        team: 'SK'    
-        position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'AB'     
-        position: Third
-        percent:       
-        win: 1         
-        loss: 0        
-      event: Macdonald Brier
-      year: 1932            
-      draw: Round Robin(1)  
-      score: AB 11 - SK 9   
- - name: Noble, William     
-   totals:                  
-    - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
-   games:
-    - player1:        
-        team: 'SK'    
-        position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'MB'      
-        position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      event: Macdonald Brier
-      year: 1932            
-      draw: Round Robin(3)  
-      score: SK 17 - MB 5   
- - name: Robertson, F.O.    
-   totals:                  
-    - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
-   games:
-    - player1:        
-        team: 'SK'    
-        position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'NS'    
-        position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      event: Macdonald Brier
-      year: 1932            
-      draw: Round Robin(5)  
-      score: NS 13 - SK 9   
- - name: Scott, Harry       
-   totals:                  
-    - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
-   games:
-    - player1:        
-        team: 'SK'    
         position: Lead
         percent:      
         win: 0        
@@ -195,10 +55,10 @@ vs:
         win: 1        
         loss: 0       
       event: Macdonald Brier
-      year: 1932            
-      draw: Round Robin(1)  
-      score: AB 11 - SK 9   
- - name: Stephenson, A.E.   
+      year: 1940            
+      draw: Round Robin(7)  
+      score: AB 19 - NO 5   
+ - name: Manahan, Ross      
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -211,50 +71,50 @@ vs:
         losses: 0           
    games:
     - player1:        
-        team: 'SK'    
+        team: 'NO'    
         position: Lead
         percent:      
         win: 0        
         loss: 1       
       player2:          
-        team: 'NO'      
-        position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
-      event: Macdonald Brier
-      year: 1932            
-      draw: Round Robin(6)  
-      score: NO 12 - SK 11  
- - name: Stewart, Howard    
-   totals:                  
-    - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
-   games:
-    - player1:        
-        team: 'SK'    
-        position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'QC'      
+        team: 'AB'      
         position: Second
         percent:        
         win: 1          
         loss: 0         
       event: Macdonald Brier
-      year: 1932            
-      draw: Round Robin(2)  
-      score: QC 14 - SK 10  
- - name: Thibodeau, Nicholas
+      year: 1940            
+      draw: Round Robin(7)  
+      score: AB 19 - NO 5   
+ - name: McLaine, Rankine   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:        
+        team: 'NO'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      player2:          
+        team: 'PE'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1940            
+      draw: Round Robin(1)  
+      score: NO 11 - PE 7   
+ - name: McMahon, James     
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -267,22 +127,50 @@ vs:
         losses: 0           
    games:
     - player1:        
-        team: 'SK'    
+        team: 'NO'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      player2:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1940            
+      draw: Round Robin(4)  
+      score: SK 8 - NO 6    
+ - name: Parkes, Ernest     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:        
+        team: 'NO'    
         position: Lead
         percent:      
         win: 0        
         loss: 1       
       player2:          
-        team: 'NB'      
-        position: Fourth
+        team: 'ON'      
+        position: Second
         percent:        
         win: 1          
         loss: 0         
       event: Macdonald Brier
-      year: 1932            
-      draw: Round Robin(4)  
-      score: NB 11 - SK 3   
- - name: Thompson, R.W.     
+      year: 1940            
+      draw: Round Robin(3)  
+      score: NO 9 - ON 11   
+ - name: Pollard, Ernest    
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -295,22 +183,50 @@ vs:
         losses: 0           
    games:
     - player1:        
-        team: 'SK'    
+        team: 'NO'    
         position: Lead
         percent:      
         win: 0        
         loss: 1       
       player2:         
-        team: 'NO'     
+        team: 'MB'     
         position: Third
         percent:       
         win: 1         
         loss: 0        
       event: Macdonald Brier
-      year: 1932            
+      year: 1940            
+      draw: Round Robin(8)  
+      score: NO 8 - MB 13   
+ - name: Rafuse, Stanley    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:        
+        team: 'NO'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      player2:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1940            
       draw: Round Robin(6)  
-      score: NO 12 - SK 11  
- - name: Torey, Clifford    
+      score: NO 12 - NS 6   
+ - name: Robinson, Wesley   
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -323,22 +239,22 @@ vs:
         losses: 0           
    games:
     - player1:        
-        team: 'SK'    
+        team: 'NO'    
         position: Lead
         percent:      
         win: 0        
         loss: 1       
       player2:         
-        team: 'NS'     
+        team: 'AB'     
         position: Third
         percent:       
         win: 1         
         loss: 0        
       event: Macdonald Brier
-      year: 1932            
-      draw: Round Robin(5)  
-      score: NS 13 - SK 9   
- - name: Vallance, A.R.     
+      year: 1940            
+      draw: Round Robin(7)  
+      score: AB 19 - NO 5   
+ - name: Seagram, Campbell  
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -351,47 +267,243 @@ vs:
         losses: 0           
    games:
     - player1:        
-        team: 'SK'    
+        team: 'NO'    
         position: Lead
         percent:      
         win: 0        
         loss: 1       
-      player2:         
-        team: 'QC'     
-        position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+      player2:        
+        team: 'ON'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
       event: Macdonald Brier
-      year: 1932            
+      year: 1940            
+      draw: Round Robin(3)  
+      score: NO 9 - ON 11   
+ - name: Thibodeau, Leo     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:        
+        team: 'NO'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      player2:        
+        team: 'NB'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1940            
       draw: Round Robin(2)  
-      score: QC 14 - SK 10  
+      score: NO 13 - NB 7   
+ - name: Thibodeau, Nicholas
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:        
+        team: 'NO'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      player2:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1940            
+      draw: Round Robin(2)  
+      score: NO 13 - NB 7   
+ - name: Tinling, Frederick 
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:        
+        team: 'NO'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      player2:         
+        team: 'BC'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1940            
+      draw: Round Robin(9)  
+      score: BC 11 - NO 8   
+ - name: Warner, George     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:        
+        team: 'NO'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      player2:        
+        team: 'QC'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1940            
+      draw: Round Robin(5)  
+      score: QC 8 - NO 16   
+ - name: Weyman, Hugh       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:        
+        team: 'NO'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      player2:          
+        team: 'QC'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1940            
+      draw: Round Robin(5)  
+      score: QC 8 - NO 16   
+ - name: Williams, Norman   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:        
+        team: 'NO'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'BC'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1940            
+      draw: Round Robin(9)  
+      score: BC 11 - NO 8   
+ - name: Wood, Howard Jr.   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:        
+        team: 'NO'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'MB'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1940            
+      draw: Round Robin(8)  
+      score: NO 8 - MB 13   
  - name: Wood, Howard Sr.   
    totals:                  
     - event: Macdonald Brier
       player1:              
         percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
         wins: 0             
         losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
    games:
     - player1:        
-        team: 'SK'    
+        team: 'NO'    
         position: Lead
         percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'MB'     
-        position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'MB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
       event: Macdonald Brier
-      year: 1932            
-      draw: Round Robin(3)  
-      score: SK 17 - MB 5   
+      year: 1940            
+      draw: Round Robin(8)  
+      score: NO 8 - MB 13   
 ---

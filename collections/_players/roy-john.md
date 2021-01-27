@@ -89,7 +89,7 @@ vs:
  - Miles, Edmund
  - Millar, Daniel
  - Miller, Jack
- - Monk, Harry
+ - Monk, Harry Sr.
  - Murr, George
  - Nicholson, John
  - Norgan, George

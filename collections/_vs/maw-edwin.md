@@ -86,7 +86,7 @@ vs:
       year: 1937            
       draw: Round Robin(2)  
       score: NO 15 - QC 12  
- - name: Monk, Harry        
+ - name: Monk, Harry Sr.    
    totals:                  
     - event: Macdonald Brier
       player1:              

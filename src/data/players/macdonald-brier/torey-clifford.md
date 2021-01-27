@@ -65,7 +65,7 @@ vs:
  - Kennah, John
  - Lucas, Frederick
  - Lyall, Peter
- - Macdonald, James
+ - MacDonald, J.
  - MacKay, Elbridge
  - MacKenzie, Robert
  - Malcolm, John
@@ -92,7 +92,7 @@ vs:
  - Thompson, R.W.
  - Vallance, A.R.
  - Watson, Harry
- - Watson, William
+ - Watson, William A.
  - Whyte, R.W.
  - Wilken, Pete
  - Wood, Howard Sr.

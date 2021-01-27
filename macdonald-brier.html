@@ -6,5 +6,6 @@ type: event-list
 collection: macdonald-brier
 ---
 <h1>Macdonald Brier Results by Year</h1>
+<div class="alert alert-info"><span class="fe fe-info"></span> Events during 1943-1945 were not played due to WWII.</div>
 {% assign briers = site.macdonald-brier | reverse %}
 {% include results-by-year.html events=briers event='Macdonald Brier' %}

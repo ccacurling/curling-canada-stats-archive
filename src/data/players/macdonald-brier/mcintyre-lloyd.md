@@ -88,7 +88,7 @@ vs:
  - McLeod, Henry
  - Miles, Edmund
  - Millar, Daniel
- - Monk, Harry
+ - Monk, Harry Sr.
  - Norgan, George
  - Parkes, Ernest
  - Ployart, Edward

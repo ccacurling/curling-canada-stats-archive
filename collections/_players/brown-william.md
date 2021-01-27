@@ -101,7 +101,7 @@ vs:
  - Thibodeau, Nicholas
  - Torey, Clifford
  - Watson, Harry
- - Watson, William
+ - Watson, William A.
  - Welliver, Robert
  - Whyte, R.W.
  - Wilken, Pete

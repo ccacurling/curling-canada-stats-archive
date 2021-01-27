@@ -128,7 +128,7 @@ vs:
  - Lockerbie, Arnold
  - Lucas, Frederick
  - Lunan, Arthur
- - Macdonald, James
+ - MacDonald, J.
  - MacInnes, Alfred
  - MacKay, Elbridge
  - MacKenzie, Robert
@@ -182,7 +182,7 @@ vs:
  - Torey, Clifford
  - Walker, Harry
  - Watson, Harry
- - Watson, William
+ - Watson, William A.
  - Watts, R.R.
  - Welliver, Robert
  - Whyte, R.W.

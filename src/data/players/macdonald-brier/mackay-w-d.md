@@ -33,7 +33,7 @@ vs:
  - Caldbick, Samuel
  - Dale, Thomas
  - Duncan, Allan
- - Graham, Frederick
+ - Graham, Frederick W.
  - Graham, Stuart
  - Grant, William
  - Hamilton, Robert

@@ -147,7 +147,7 @@ vs:
  - Turner, E.E.
  - Walker, Harry
  - Watson, Harry
- - Watson, William
+ - Watson, William A.
  - Watts, R.R.
  - Wheeler, Ambrose
  - Whyte, R.W.

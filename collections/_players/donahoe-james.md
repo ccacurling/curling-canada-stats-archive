@@ -133,7 +133,7 @@ vs:
  - Lucas, Frederick
  - Lunan, Arthur
  - Lyall, Peter
- - Macdonald, James
+ - MacDonald, J.
  - MacDonald, Wendell
  - MacKay, Elbridge
  - MacKenzie, Robert
@@ -188,7 +188,7 @@ vs:
  - Vallance, A.R.
  - Walker, Harry
  - Watson, Harry
- - Watson, William
+ - Watson, William A.
  - Watts, R.R.
  - Wheeler, Ambrose
  - Whyte, R.W.

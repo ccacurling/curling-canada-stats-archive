@@ -50,7 +50,7 @@ vs:
  - Sutherland, Duncan
  - Torey, Clifford
  - Watson, Harry
- - Watson, William
+ - Watson, William A.
  - Whyte, R.W.
  - Wilken, Pete
  - Wright, Thomas

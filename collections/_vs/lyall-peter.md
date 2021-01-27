@@ -2,7 +2,7 @@
 title: Peter Lyall Head-to-head
 name: Lyall, Peter
 vs:
- - name: Macdonald, James   
+ - name: MacDonald, J.      
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -1610,7 +1610,7 @@ vs:
       year: 1927            
       draw: Round Robin(5)  
       score: MO 8 - ON 16   
- - name: Watson, William    
+ - name: Watson, William A. 
    totals:                  
     - event: Macdonald Brier
       player1:              

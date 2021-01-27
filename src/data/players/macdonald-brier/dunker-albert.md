@@ -45,7 +45,7 @@ vs:
  - McIntyre, Lloyd
  - Miles, Edmund
  - Millar, Daniel
- - Monk, Harry
+ - Monk, Harry Sr.
  - Norgan, George
  - Porter, Harold
  - Reid, John

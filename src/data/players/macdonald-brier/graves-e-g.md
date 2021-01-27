@@ -39,7 +39,7 @@ vs:
  - Hallonquist, Arthur
  - Johnson, J.
  - Kennah, John
- - Macdonald, James
+ - MacDonald, J.
  - Macneill, Murray
  - Mawhinney, Harry
  - McKinlay, Jack

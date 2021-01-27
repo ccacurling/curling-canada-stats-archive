@@ -4,9 +4,9 @@ name: John Brower
 name-sort: Brower, John
 totals:
  - event: Macdonald Brier
-   games: 37
-   wins: 22
-   losses: 15
+   games: 46
+   wins: 27
+   losses: 19
 years:
  - year: 1929
    event: Macdonald Brier
@@ -76,6 +76,23 @@ years:
    takeout-percent:
    shots-total: 0
    shots-percent:
+ - year: 1946
+   event: Macdonald Brier
+   team: "SK"
+   position: Third
+   games: 9
+   wins: 5
+   losses: 4
+   inturn-total: 0
+   inturn-percent:
+   outturn-total: 0
+   outturn-percent:
+   draw-total: 0
+   draw-percent:
+   takeout-total: 0
+   takeout-percent:
+   shots-total: 0
+   shots-percent:
 vs:
  - Annett, Sidney
  - Arthur, Frank
@@ -85,26 +102,34 @@ vs:
  - Beelby, Charles
  - Bell, Archibald
  - Braithwaite, Robert
+ - Brown, Robert
  - Brown, William
  - Butler, Richard
  - Cairns, Charles
  - Carew, Frank
  - Cartmell, Elwyn
+ - Cleveland, Bernard
+ - Colquhoun, Hugh
  - Condie, Arthur
  - Connolly, Daniel
  - Connolly, Joseph
+ - Coughlin, Gray
+ - Cox, Frank
  - Cream, Robert
+ - Crooks, George
  - Curliss, Jacob
  - David, Roland
  - Donahoe, James
  - Donald, Robert
  - Durrant, Charles
+ - Ferguson, Benjamin
  - Finlay, William
  - Fleming, A.A.
  - Fraser, John
  - Fulton, Jack
  - Gates, H.W.
  - Gautier, John
+ - Gebbie, Kenneth
  - Godfrey, Thomas
  - Gourley, Robert
  - Gowanlock, Albert
@@ -112,8 +137,12 @@ vs:
  - Hall, Bert
  - Hall, Perry
  - Hamlin, Frank
+ - Hansen, Frank
  - Hays, Jack
+ - Henderson, Robert
+ - Henderson, William Jr.
  - Hodgson, William
+ - Hollies, Henry
  - Howie, James
  - Hudson, Gordon
  - Huestis, H.
@@ -121,12 +150,15 @@ vs:
  - Hume, Robert
  - Irving, Ernest
  - Johnson, Arnold
+ - Johnson, Leo
+ - Johnson, Lincoln
  - Kennah, John
  - Kennedy, Ross
  - Kent, George
  - LaFrance, Joseph
  - Landry, Aurele
  - Law, George
+ - Lehnen, Arthur
  - LeSage, William
  - Limerick, Arthur
  - Limerick, Victor
@@ -138,13 +170,17 @@ vs:
  - MacDonald, Wendell
  - MacDonald, William
  - MacInnes, Alfred
+ - MacIntosh, George
+ - MacLean, Everett
  - Manahan, Clifford
  - Manahan, Ross
  - Mason, Lloyd
+ - Mayes, Frederick
  - McAndrews, Frederick
  - McArter, William
  - McIntyre, Heath
  - McIntyre, Lloyd
+ - McKelvey, Fenwick
  - McKnight, Edward
  - McKnight, William
  - McLaine, Rankine
@@ -162,11 +198,15 @@ vs:
  - Palmer, Howard
  - Parkes, Ernest
  - Parkinson, Ash
+ - Patton, James
+ - Picard, Walter
  - Ployart, Edward
  - Pollard, Ernest
+ - Ramsay, Thomas
  - Reesor, Walter
  - Robinson, Wesley
  - Rollo, Donald
+ - Rose, William
  - Ross, Richard
  - Roy, John
  - Roy, Ormiston
@@ -179,9 +219,13 @@ vs:
  - Simon, A.D.
  - Singbusch, Ronald
  - Smith, A.
+ - Smith, Austin
+ - Snow, John
+ - Spencer, Walter
  - Stewart, Howard
  - Stewart, Ray
  - Sutherland, Duncan
+ - Swelin, Bartley
  - Thibodeau, Nicholas
  - Thompson, Edward
  - Thompson, William
@@ -195,10 +239,14 @@ vs:
  - Webb, St. Clair
  - Welliver, Robert
  - Wells, Clair
+ - Weremy, Harry
  - Wheeler, Ambrose
+ - Whitlock, Caleb
  - Wickstrom, Roland
+ - Wiginton, Edward
  - Williams, Charles
  - Williams, Frank
+ - Williams, Harold
  - Williams, Stewart
  - Wood, John
  - Woods, Percy

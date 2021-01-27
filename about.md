@@ -38,6 +38,10 @@ Dave Thomas
 
 ## Changelog
 
+### 2021-01-26
+
+ * Added Macdonald Brier data (1940-1949). Note: 1943-1945 were not played due to WWII.
+
 ### 2021-01-21
 
  * Added Macdonald Brier data (1930-1939).

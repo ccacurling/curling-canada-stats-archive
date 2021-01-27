@@ -1,6 +1,6 @@
 ---
-title: William Jr. Whalen Head-to-head
-name: Whalen, William Jr.
+title: William Jr Whalen Head-to-head
+name: Whalen, William Jr
 vs:
  - name: Wightman, C.K.     
    totals:                  

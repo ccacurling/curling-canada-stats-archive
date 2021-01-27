@@ -59,7 +59,7 @@ vs:
  - Edwards, Donald
  - English, Jack
  - Ganong, Hardy
- - Graham, Frederick
+ - Graham, Frederick W.
  - Graham, Stuart
  - Grant, William
  - Hall, Jack

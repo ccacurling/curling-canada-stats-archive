@@ -394,7 +394,7 @@ vs:
       year: 1936            
       draw: Round Robin(5)  
       score: NS 7 - BC 11   
- - name: Whalen, William Jr.
+ - name: Whalen, William Jr 
    totals:                  
     - event: Macdonald Brier
       player1:              

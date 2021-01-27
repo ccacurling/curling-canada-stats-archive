@@ -1,7 +1,7 @@
 ---
-title: William Jr. Whalen
-name: William Jr. Whalen
-name-sort: Whalen, William Jr.
+title: William Jr Whalen
+name: William Jr Whalen
+name-sort: Whalen, William Jr
 totals:
  - event: Macdonald Brier
    games: 9
@@ -34,7 +34,7 @@ vs:
  - Chilton, Murray
  - Clayton, David
  - Cowan, Hector
- - Gardner, Charles Jr.
+ - Gardner, Charles
  - Harrington, A.L.
  - Hayes, Alex
  - Kerr, Charles
@@ -43,7 +43,7 @@ vs:
  - McCart, William
  - McIntyre, James
  - McNevin, C.A.
- - McRae, Frederick
+ - McRae, Frederick J.
  - Millar, Daniel
  - Mowatt, Earl
  - Murphy, J.R.

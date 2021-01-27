@@ -105,7 +105,7 @@ vs:
  - Edwards, Donald
  - English, Jack
  - Ganong, Hardy
- - Gardner, Charles Jr.
+ - Gardner, Charles
  - Graves, E.G.
  - Hall, Jack
  - Hall, Perry
@@ -125,7 +125,7 @@ vs:
  - Lucas, Frederick
  - Lunan, Arthur
  - Lyall, Peter
- - Macdonald, James
+ - MacDonald, J.
  - MacIntyre, Marvin
  - MacKay, Elbridge
  - MacKenzie, Robert
@@ -138,7 +138,7 @@ vs:
  - McKinlay, Jack
  - McLeod, Robert
  - McNevin, C.A.
- - McRae, Frederick
+ - McRae, Frederick J.
  - McWha, Arthur
  - Millar, Daniel
  - Moore, David
@@ -182,10 +182,10 @@ vs:
  - Watson, Grant
  - Watson, Harry
  - Watson, Kenneth
- - Watson, William
+ - Watson, William A.
  - Watts, R.R.
  - Whalen, William
- - Whalen, William Jr.
+ - Whalen, William Jr
  - Whyte, R.W.
  - Wightman, C.K.
  - Wilken, Pete

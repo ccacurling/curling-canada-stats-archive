@@ -4,9 +4,9 @@ name: Gordon Campbell
 name-sort: Campbell, Gordon
 totals:
  - event: Macdonald Brier
-   games: 22
-   wins: 17
-   losses: 5
+   games: 31
+   wins: 24
+   losses: 7
 years:
  - year: 1933
    event: Macdonald Brier
@@ -59,6 +59,23 @@ years:
    takeout-percent:
    shots-total: 0
    shots-percent:
+ - year: 1942
+   event: Macdonald Brier
+   team: "ON"
+   position: Fourth
+   games: 9
+   wins: 7
+   losses: 2
+   inturn-total: 0
+   inturn-percent:
+   outturn-total: 0
+   outturn-percent:
+   draw-total: 0
+   draw-percent:
+   takeout-total: 0
+   takeout-percent:
+   shots-total: 0
+   shots-percent:
 vs:
  - Abrams, Jerry
  - Alexander, Robert
@@ -67,13 +84,24 @@ vs:
  - Andrews, William
  - Anslow, Harold
  - Arthur, Frank
+ - Avery, Francis
  - Baum, William
+ - Bell, Reginald
+ - Bickle, Warner
  - Black, J.S.
  - Boyce, Arthur
  - Burke, Cyril
+ - Campbell, Donald
+ - Carr, John
  - Charron, Mel
  - Condie, Arthur
+ - Connolly, Daniel
+ - Connolly, Joseph
+ - Cook, Frank
+ - Cooper, Albert Jr.
+ - Cooper, Albert Sr.
  - Crocker, Waldo
+ - Cruikshank, Russell
  - Cunningham, J.A.
  - Deeton, Harold
  - Domock, Karl
@@ -85,26 +113,39 @@ vs:
  - Findlay, F.E.
  - Fortier, H.C.
  - Fowler, Ralph
+ - Franklin, John
  - Fraser, Reginald
  - Frederickson, Marno
  - Galloway, Robert
+ - Gass, Donald
  - Germaine, Frank
  - Glover, Cyril
+ - Grant, James
  - Green, Bunn
+ - Groom, Donald
  - Hay, A.H.M.
  - Hayes, Fred
+ - Heartwell, Fraser
+ - Hebb, Irving
+ - Henderson, Robert
+ - Hilliker, Kenneth
  - Johnson, Leo
  - Johnson, Lincoln
+ - Kennah, John
  - Kenny, Noble
  - Kent, Harper
  - Kinsman, Harold
  - Knowles, Everett
+ - Landry, Aurele
+ - Lang, John
  - Langlais, R.
  - Lash, Herbert
+ - Law, George
  - Lunan, Arthur
  - Malcolm, Donald
  - Malcolm, John
  - Manahan, Clifford
+ - Martin, Erie
  - McCulloch, Henry
  - McGerrigle, Clarence
  - McGerrigle, William
@@ -112,20 +153,30 @@ vs:
  - McLaws, Walter
  - McLean, Robert
  - McLeod, Henry
+ - McMitchell, William
  - McNeill, James
  - Merkley, L.D.
  - Murray, J.R.
+ - Newman, Christopher
  - Palmer, Howard
  - Peat, Sidney
  - Pritchard, Roy
+ - Rafuse, Norman
  - Ramsay, Thomas
  - Reid, John
  - Robertson, Edward
  - Ross, I.H.
+ - Ross, John Jr.
  - Roy, Perley
  - Rubenstein, William
+ - Runyon, Cecil
+ - Sansom, John
+ - Scrymgeour, Charles
+ - Sear, Harry
  - Shaw, James
  - Shirley, Edward
+ - Slavik, John
+ - Slavik, Vincent
  - Smith, Logan
  - Stewart, George
  - Stewart, Gordon
@@ -136,6 +187,8 @@ vs:
  - Teskey, Mark
  - Thibodeau, Nicholas
  - Walker, Harry
+ - Watson, Grant
+ - Watson, Kenneth
  - Weldon, William
  - Welsh, Alexander
  - Welsh, James

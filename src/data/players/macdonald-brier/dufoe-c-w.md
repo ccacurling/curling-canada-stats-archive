@@ -37,7 +37,7 @@ vs:
  - Johnson, J.
  - Kennah, John
  - Lyall, Peter
- - Macdonald, James
+ - MacDonald, J.
  - Macneill, Murray
  - Mawhinney, Harry
  - McKinlay, Jack

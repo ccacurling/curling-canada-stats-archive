@@ -59,7 +59,7 @@ vs:
  - Duncan, Allan
  - Fleming, A.A.
  - Godfrey, Thomas
- - Graham, Frederick
+ - Graham, Frederick W.
  - Graham, Stuart
  - Hamilton, Robert
  - Hamlin, Frank

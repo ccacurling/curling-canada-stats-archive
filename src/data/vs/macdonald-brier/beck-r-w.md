@@ -198,17 +198,17 @@ vs:
       year: 1936            
       draw: Round Robin(2)  
       score: ON 17 - PE 10  
- - name: Gardner, Charles Jr.
-   totals:                   
-    - event: Macdonald Brier 
-      player1:               
-        percent:             
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent:             
-        wins: 1              
-        losses: 0            
+ - name: Gardner, Charles   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
    games:
     - player1:          
         team: 'PE'      
@@ -422,7 +422,7 @@ vs:
       year: 1936            
       draw: Round Robin(4)  
       score: PE 6 - SK 18   
- - name: McRae, Frederick   
+ - name: McRae, Frederick J.
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -926,7 +926,7 @@ vs:
       year: 1936            
       draw: Round Robin(1)  
       score: BC 11 - PE 6   
- - name: Whalen, William Jr.
+ - name: Whalen, William Jr 
    totals:                  
     - event: Macdonald Brier
       player1:              

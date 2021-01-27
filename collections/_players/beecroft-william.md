@@ -84,7 +84,7 @@ vs:
  - Dunker, Albert
  - Durrant, Charles
  - Ferguson, Hugh
- - Gardner, Charles Jr.
+ - Gardner, Charles
  - Glass, Robert
  - Graham, Archibald
  - Hall, Bert
@@ -119,9 +119,9 @@ vs:
  - McLaine, Rankine
  - McNeill, James
  - McNevin, C.A.
- - McRae, Frederick
+ - McRae, Frederick J.
  - Miles, Edmund
- - Monk, Harry
+ - Monk, Harry Sr.
  - Mowatt, Earl
  - Murphy, J.R.
  - Murray, William
@@ -159,7 +159,7 @@ vs:
  - Welsh, James
  - West, Earl
  - Whalen, William
- - Whalen, William Jr.
+ - Whalen, William Jr
  - Wickstrom, Roland
  - Wightman, C.K.
  - Williams, Charles

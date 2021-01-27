@@ -160,7 +160,7 @@ vs:
  - Gates, H.W.
  - Gourley, Robert
  - Graham, Archibald
- - Graham, Frederick
+ - Graham, Frederick W.
  - Graham, Stuart
  - Grant, William
  - Hall, Jack
@@ -191,7 +191,7 @@ vs:
  - Lucas, Frederick
  - Lunan, Arthur
  - Lynch, J.B.
- - Macdonald, James
+ - MacDonald, J.
  - MacInnes, Alfred
  - MacKay, Elbridge
  - MacKay, W.D.
@@ -215,7 +215,7 @@ vs:
  - Miles, Edmund
  - Millar, Daniel
  - Miller, Jack
- - Monk, Harry
+ - Monk, Harry Sr.
  - Moore, David
  - Morrison, Robert
  - Morrison, William
@@ -275,7 +275,7 @@ vs:
  - Turner, William
  - Walker, Harry
  - Watson, Harry
- - Watson, William
+ - Watson, William A.
  - Watts, R.R.
  - Welliver, Robert
  - Welsh, James

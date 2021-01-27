@@ -2,6 +2,34 @@
 title: Gordon Campbell Head-to-head
 name: Campbell, Gordon
 vs:
+ - name: Carr, John         
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'QC'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(9)  
+      score: ON 12 - QC 4   
  - name: Charron, Mel       
    totals:                  
     - event: Macdonald Brier
@@ -58,6 +86,146 @@ vs:
       year: 1933            
       draw: Round Robin(5)  
       score: QC 4 - ON 15   
+ - name: Connolly, Daniel   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(8)  
+      score: ON 14 - NB 10  
+ - name: Connolly, Joseph   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'NB'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(8)  
+      score: ON 14 - NB 10  
+ - name: Cook, Frank        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'NS'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(2)  
+      score: NS 12 - ON 14  
+ - name: Cooper, Albert Jr. 
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'NO'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(3)  
+      score: ON 13 - NO 8   
+ - name: Cooper, Albert Sr. 
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'NO'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(3)  
+      score: ON 13 - NO 8   
  - name: Crocker, Waldo     
    totals:                  
     - event: Macdonald Brier
@@ -86,6 +254,34 @@ vs:
       year: 1934            
       draw: Round Robin(4)  
       score: ON 23 - NB 7   
+ - name: Cruikshank, Russell
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'PE'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(4)  
+      score: PE 4 - ON 22   
  - name: Cunningham, J.A.   
    totals:                  
     - event: Macdonald Brier
@@ -426,6 +622,34 @@ vs:
       year: 1933            
       draw: Round Robin(3)  
       score: NB 8 - ON 22   
+ - name: Franklin, John     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'SK'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(1)  
+      score: SK 6 - ON 10   
  - name: Fraser, Reginald   
    totals:                  
     - event: Macdonald Brier
@@ -510,6 +734,34 @@ vs:
       year: 1934            
       draw: Round Robin(4)  
       score: ON 23 - NB 7   
+ - name: Gass, Donald       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'PE'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(4)  
+      score: PE 4 - ON 22   
  - name: Germaine, Frank    
    totals:                  
     - event: Macdonald Brier
@@ -566,6 +818,34 @@ vs:
       year: 1935            
       draw: Round Robin(6)  
       score: AB 8 - ON 15   
+ - name: Grant, James       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'MB'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(7)  
+      score: MB 11 - ON 8   
  - name: Green, Bunn        
    totals:                  
     - event: Macdonald Brier
@@ -594,6 +874,34 @@ vs:
       year: 1934            
       draw: Round Robin(4)  
       score: ON 23 - NB 7   
+ - name: Groom, Donald      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NO'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(3)  
+      score: ON 13 - NO 8   
  - name: Hay, A.H.M.        
    totals:                  
     - event: Macdonald Brier
@@ -650,6 +958,118 @@ vs:
       year: 1933            
       draw: Round Robin(2)  
       score: SK 5 - ON 17   
+ - name: Heartwell, Fraser  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(1)  
+      score: SK 6 - ON 10   
+ - name: Hebb, Irving       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(2)  
+      score: NS 12 - ON 14  
+ - name: Henderson, Robert  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'BC'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(5)  
+      score: BC 14 - ON 7   
+ - name: Hilliker, Kenneth  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'AB'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(6)  
+      score: AB 13 - ON 14  
  - name: Johnson, Leo       
    totals:                  
     - event: Macdonald Brier
@@ -706,6 +1126,34 @@ vs:
       year: 1934            
       draw: Round Robin(7)  
       score: MB 9 - ON 8    
+ - name: Kennah, John       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NB'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(8)  
+      score: ON 14 - NB 10  
  - name: Kenny, Noble       
    totals:                  
     - event: Macdonald Brier
@@ -818,6 +1266,62 @@ vs:
       year: 1934            
       draw: Round Robin(1)  
       score: NS 2 - ON 26   
+ - name: Landry, Aurele     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'NB'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(8)  
+      score: ON 14 - NB 10  
+ - name: Lang, John         
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'SK'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(1)  
+      score: SK 6 - ON 10   
  - name: Langlais, R.       
    totals:                  
     - event: Macdonald Brier
@@ -890,6 +1394,34 @@ vs:
       year: 1935            
       draw: Round Robin(2)  
       score: ON 18 - NO 6   
+ - name: Law, George        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'BC'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(5)  
+      score: BC 14 - ON 7   
  - name: Lunan, Arthur      
    totals:                  
     - event: Macdonald Brier
@@ -1002,6 +1534,34 @@ vs:
       year: 1933            
       draw: Round Robin(4)  
       score: AB 12 - ON 9   
+ - name: Martin, Erie       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'QC'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(9)  
+      score: ON 12 - QC 4   
  - name: McCulloch, Henry   
    totals:                  
     - event: Macdonald Brier
@@ -1198,6 +1758,34 @@ vs:
       year: 1935            
       draw: Round Robin(3)  
       score: ON 8 - NS 7    
+ - name: McMitchell, William
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NO'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(3)  
+      score: ON 13 - NO 8   
  - name: McNeill, James     
    totals:                  
     - event: Macdonald Brier
@@ -1282,6 +1870,34 @@ vs:
       year: 1933            
       draw: Round Robin(7)  
       score: ON 16 - NS 5   
+ - name: Newman, Christopher
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'QC'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(9)  
+      score: ON 12 - QC 4   
  - name: Palmer, Howard     
    totals:                  
     - event: Macdonald Brier
@@ -1366,6 +1982,34 @@ vs:
       year: 1935            
       draw: Round Robin(1)  
       score: ON 13 - MB 6   
+ - name: Rafuse, Norman     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'NS'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(2)  
+      score: NS 12 - ON 14  
  - name: Ramsay, Thomas     
    totals:                  
     - event: Macdonald Brier
@@ -1494,6 +2138,34 @@ vs:
       year: 1933            
       draw: Round Robin(4)  
       score: AB 12 - ON 9   
+ - name: Ross, John Jr.     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'QC'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(9)  
+      score: ON 12 - QC 4   
  - name: Roy, Perley        
    totals:                  
     - event: Macdonald Brier
@@ -1550,6 +2222,118 @@ vs:
       year: 1935            
       draw: Round Robin(2)  
       score: ON 18 - NO 6   
+ - name: Runyon, Cecil      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'AB'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(6)  
+      score: AB 13 - ON 14  
+ - name: Sansom, John       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'SK'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(1)  
+      score: SK 6 - ON 10   
+ - name: Scrymgeour, Charles
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'MB'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(7)  
+      score: MB 11 - ON 8   
+ - name: Sear, Harry        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'PE'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(4)  
+      score: PE 4 - ON 22   
  - name: Shaw, James        
    totals:                  
     - event: Macdonald Brier
@@ -1622,6 +2406,62 @@ vs:
       year: 1935            
       draw: Round Robin(5)  
       score: NB 6 - ON 15   
+ - name: Slavik, John       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(6)  
+      score: AB 13 - ON 14  
+ - name: Slavik, Vincent    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'AB'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(6)  
+      score: AB 13 - ON 14  
  - name: Smith, Logan       
    totals:                  
     - event: Macdonald Brier
@@ -1902,6 +2742,62 @@ vs:
       year: 1933            
       draw: Round Robin(5)  
       score: QC 4 - ON 15   
+ - name: Watson, Grant      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'MB'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(7)  
+      score: MB 11 - ON 8   
+ - name: Watson, Kenneth    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'MB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1942            
+      draw: Round Robin(7)  
+      score: MB 11 - ON 8   
  - name: Weldon, William    
    totals:                  
     - event: Macdonald Brier

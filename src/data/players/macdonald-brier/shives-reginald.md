@@ -55,7 +55,7 @@ vs:
  - Clayton, David
  - Cowan, Hector
  - Donahoe, James
- - Gardner, Charles Jr.
+ - Gardner, Charles
  - Harrington, A.L.
  - Hay, Hector
  - Hayes, Alex
@@ -94,9 +94,9 @@ vs:
  - Watson, Grant
  - Watson, Harry
  - Watson, Kenneth
- - Watson, William
+ - Watson, William A.
  - Whalen, William
- - Whalen, William Jr.
+ - Whalen, William Jr
  - Whyte, R.W.
  - Wightman, C.K.
  - Wilken, Pete

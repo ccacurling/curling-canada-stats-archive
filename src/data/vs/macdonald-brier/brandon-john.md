@@ -198,17 +198,17 @@ vs:
       year: 1928            
       draw: Round Robin(5)  
       score: AB 14 - ON 11  
- - name: Graham, Frederick  
-   totals:                  
-    - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+ - name: Graham, Frederick W.
+   totals:                   
+    - event: Macdonald Brier 
+      player1:               
+        percent:             
+        wins: 0              
+        losses: 1            
+      player2:               
+        percent:             
+        wins: 1              
+        losses: 0            
    games:
     - player1:          
         team: 'ON'      
@@ -562,7 +562,7 @@ vs:
       year: 1928            
       draw: Round Robin(6)  
       score: ON 14 - NS 7   
- - name: Macdonald, James   
+ - name: MacDonald, J.      
    totals:                  
     - event: Macdonald Brier
       player1:              

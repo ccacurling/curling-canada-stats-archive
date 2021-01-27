@@ -2,6 +2,34 @@
 title: John Brower Head-to-head
 name: Brower, John
 vs:
+ - name: Brown, Robert      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:         
+        team: 'BC'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(9)  
+      score: BC 13 - SK 2   
  - name: Brown, William     
    totals:                  
     - event: Macdonald Brier
@@ -142,6 +170,62 @@ vs:
       year: 1938            
       draw: Round Robin(2)  
       score: SK 9 - MB 10   
+ - name: Cleveland, Bernard 
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(2)  
+      score: SK 14 - NS 7   
+ - name: Colquhoun, Hugh    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:        
+        team: 'NO'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(4)  
+      score: NO 10 - SK 7   
  - name: Condie, Arthur     
    totals:                  
     - event: Macdonald Brier
@@ -258,6 +342,62 @@ vs:
       year: 1938            
       draw: Round Robin(8)  
       score: NB 17 - SK 9   
+ - name: Coughlin, Gray     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:          
+        team: 'NO'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(4)  
+      score: NO 10 - SK 7   
+ - name: Cox, Frank         
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:          
+        team: 'PE'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(6)  
+      score: SK 15 - PE 5   
  - name: Cream, Robert      
    totals:                  
     - event: Macdonald Brier
@@ -302,6 +442,34 @@ vs:
       year: 1939            
       draw: Round Robin(7)  
       score: SK 14 - QC 9   
+ - name: Crooks, George     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:        
+        team: 'AB'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(5)  
+      score: SK 14 - AB 8   
  - name: Curliss, Jacob     
    totals:                  
     - event: Macdonald Brier
@@ -474,6 +642,34 @@ vs:
       year: 1939            
       draw: Round Robin(3)  
       score: NS 5 - SK 14   
+ - name: Ferguson, Benjamin 
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:          
+        team: 'QC'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(3)  
+      score: QC 10 - SK 6   
  - name: Finlay, William    
    totals:                  
     - event: Macdonald Brier
@@ -642,6 +838,34 @@ vs:
       year: 1938            
       draw: Round Robin(6)  
       score: NO 6 - SK 13   
+ - name: Gebbie, Kenneth    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:         
+        team: 'QC'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(3)  
+      score: QC 10 - SK 6   
  - name: Godfrey, Thomas    
    totals:                  
     - event: Macdonald Brier
@@ -759,12 +983,12 @@ vs:
     - event: Macdonald Brier
       player1:              
         percent:            
-        wins: 0             
+        wins: 1             
         losses: 2           
       player2:              
         percent:            
         wins: 2             
-        losses: 0           
+        losses: 1           
    games:
     - player1:         
         team: 'SK'     
@@ -798,17 +1022,33 @@ vs:
       year: 1939            
       draw: Round Robin(5)  
       score: ON 9 - SK 8    
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:         
+        team: 'ON'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(1)  
+      score: SK 16 - ON 10  
  - name: Hall, Perry        
    totals:                  
     - event: Macdonald Brier
       player1:              
         percent:            
-        wins: 0             
+        wins: 1             
         losses: 2           
       player2:              
         percent:            
         wins: 2             
-        losses: 0           
+        losses: 1           
    games:
     - player1:         
         team: 'SK'     
@@ -842,6 +1082,22 @@ vs:
       year: 1939            
       draw: Round Robin(5)  
       score: ON 9 - SK 8    
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(1)  
+      score: SK 16 - ON 10  
  - name: Hamlin, Frank      
    totals:                  
     - event: Macdonald Brier
@@ -870,6 +1126,34 @@ vs:
       year: 1929            
       draw: Round Robin(4)  
       score: TO 17 - NO 4   
+ - name: Hansen, Frank      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:          
+        team: 'PE'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(6)  
+      score: SK 15 - PE 5   
  - name: Hays, Jack         
    totals:                  
     - event: Macdonald Brier
@@ -898,6 +1182,62 @@ vs:
       year: 1929            
       draw: Round Robin(3)  
       score: TO 14 - AB 13  
+ - name: Henderson, Robert  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:          
+        team: 'BC'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(9)  
+      score: BC 13 - SK 2   
+ - name: Henderson, William Jr.
+   totals:                     
+    - event: Macdonald Brier   
+      player1:                 
+        percent:               
+        wins: 1                
+        losses: 0              
+      player2:                 
+        percent:               
+        wins: 0                
+        losses: 1              
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:        
+        team: 'ON'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(1)  
+      score: SK 16 - ON 10  
  - name: Hodgson, William   
    totals:                  
     - event: Macdonald Brier
@@ -926,6 +1266,34 @@ vs:
       year: 1929            
       draw: Round Robin(9)  
       score: TO 10 - MO 14  
+ - name: Hollies, Henry     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:         
+        team: 'NB'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(8)  
+      score: SK 10 - NB 6   
  - name: Howie, James       
    totals:                  
     - event: Macdonald Brier
@@ -1138,6 +1506,62 @@ vs:
       year: 1929            
       draw: Round Robin(3)  
       score: TO 14 - AB 13  
+ - name: Johnson, Leo       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:          
+        team: 'MB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(7)  
+      score: MB 10 - SK 8   
+ - name: Johnson, Lincoln   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:          
+        team: 'MB'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(7)  
+      score: MB 10 - SK 8   
  - name: Kennah, John       
    totals:                  
     - event: Macdonald Brier
@@ -1322,6 +1746,34 @@ vs:
       year: 1939            
       draw: Round Robin(6)  
       score: SK 7 - BC 12   
+ - name: Lehnen, Arthur     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:          
+        team: 'ON'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(1)  
+      score: SK 16 - ON 10  
  - name: LeSage, William    
    totals:                  
     - event: Macdonald Brier
@@ -1630,6 +2082,62 @@ vs:
       year: 1929            
       draw: Round Robin(5)  
       score: TO 11 - NS 6   
+ - name: MacIntosh, George  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(2)  
+      score: SK 14 - NS 7   
+ - name: MacLean, Everett   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:          
+        team: 'NB'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(8)  
+      score: SK 10 - NB 6   
  - name: Manahan, Clifford  
    totals:                  
     - event: Macdonald Brier
@@ -1714,6 +2222,34 @@ vs:
       year: 1931            
       draw: Round Robin(8)  
       score: ON 14 - NO 7   
+ - name: Mayes, Frederick   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:        
+        team: 'NB'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(8)  
+      score: SK 10 - NB 6   
  - name: McAndrews, Frederick
    totals:                   
     - event: Macdonald Brier 
@@ -1826,6 +2362,34 @@ vs:
       year: 1938            
       draw: Round Robin(9)  
       score: SK 10 - AB 11  
+ - name: McKelvey, Fenwick  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(8)  
+      score: SK 10 - NB 6   
  - name: McKnight, Edward   
    totals:                  
     - event: Macdonald Brier
@@ -1860,10 +2424,10 @@ vs:
       player1:              
         percent:            
         wins: 0             
-        losses: 1           
+        losses: 2           
       player2:              
         percent:            
-        wins: 1             
+        wins: 2             
         losses: 0           
    games:
     - player1:         
@@ -1882,6 +2446,22 @@ vs:
       year: 1938            
       draw: Round Robin(2)  
       score: SK 9 - MB 10   
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:        
+        team: 'MB'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(7)  
+      score: MB 10 - SK 8   
  - name: McLaine, Rankine   
    totals:                  
     - event: Macdonald Brier
@@ -2366,6 +2946,62 @@ vs:
       year: 1929            
       draw: Round Robin(8)  
       score: SK 11 - TO 8   
+ - name: Patton, James      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:        
+        team: 'QC'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(3)  
+      score: QC 10 - SK 6   
+ - name: Picard, Walter     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:         
+        team: 'PE'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(6)  
+      score: SK 15 - PE 5   
  - name: Ployart, Edward    
    totals:                  
     - event: Macdonald Brier
@@ -2438,6 +3074,34 @@ vs:
       year: 1931            
       draw: Round Robin(2)  
       score: MB 16 - ON 8   
+ - name: Ramsay, Thomas     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:          
+        team: 'NO'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(4)  
+      score: NO 10 - SK 7   
  - name: Reesor, Walter     
    totals:                  
     - event: Macdonald Brier
@@ -2522,6 +3186,34 @@ vs:
       year: 1929            
       draw: Round Robin(1)  
       score: MB 12 - TO 9   
+ - name: Rose, William      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(5)  
+      score: SK 14 - AB 8   
  - name: Ross, Richard      
    totals:                  
     - event: Macdonald Brier
@@ -2906,6 +3598,90 @@ vs:
       year: 1929            
       draw: Round Robin(8)  
       score: SK 11 - TO 8   
+ - name: Smith, Austin      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:          
+        team: 'AB'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(5)  
+      score: SK 14 - AB 8   
+ - name: Snow, John         
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:         
+        team: 'NS'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(2)  
+      score: SK 14 - NS 7   
+ - name: Spencer, Walter    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:         
+        team: 'NO'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(4)  
+      score: NO 10 - SK 7   
  - name: Stewart, Howard    
    totals:                  
     - event: Macdonald Brier
@@ -2990,6 +3766,34 @@ vs:
       year: 1939            
       draw: Round Robin(8)  
       score: NO 9 - SK 8    
+ - name: Swelin, Bartley    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:         
+        team: 'AB'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(5)  
+      score: SK 14 - AB 8   
  - name: Thibodeau, Nicholas
    totals:                  
     - event: Macdonald Brier
@@ -3024,10 +3828,10 @@ vs:
       player1:              
         percent:            
         wins: 1             
-        losses: 0           
+        losses: 1           
       player2:              
         percent:            
-        wins: 0             
+        wins: 1             
         losses: 1           
    games:
     - player1:         
@@ -3046,6 +3850,22 @@ vs:
       year: 1939            
       draw: Round Robin(7)  
       score: SK 14 - QC 9   
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:          
+        team: 'QC'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(3)  
+      score: QC 10 - SK 6   
  - name: Thompson, William  
    totals:                  
     - event: Macdonald Brier
@@ -3354,6 +4174,34 @@ vs:
       year: 1939            
       draw: Round Robin(9)  
       score: SK 10 - MB 12  
+ - name: Weremy, Harry      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:         
+        team: 'MB'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(7)  
+      score: MB 10 - SK 8   
  - name: Wheeler, Ambrose   
    totals:                  
     - event: Macdonald Brier
@@ -3382,6 +4230,34 @@ vs:
       year: 1929            
       draw: Round Robin(7)  
       score: TO 16 - NB 9   
+ - name: Whitlock, Caleb    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:        
+        team: 'PE'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(6)  
+      score: SK 15 - PE 5   
  - name: Wickstrom, Roland  
    totals:                  
     - event: Macdonald Brier
@@ -3410,6 +4286,34 @@ vs:
       year: 1939            
       draw: Round Robin(6)  
       score: SK 7 - BC 12   
+ - name: Wiginton, Edward   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:        
+        team: 'BC'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(9)  
+      score: BC 13 - SK 2   
  - name: Williams, Charles  
    totals:                  
     - event: Macdonald Brier
@@ -3482,6 +4386,34 @@ vs:
       year: 1929            
       draw: Round Robin(2)  
       score: TO 10 - ON 9   
+ - name: Williams, Harold   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:        
+        team: 'NS'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1946            
+      draw: Round Robin(2)  
+      score: SK 14 - NS 7   
  - name: Williams, Stewart  
    totals:                  
     - event: Macdonald Brier

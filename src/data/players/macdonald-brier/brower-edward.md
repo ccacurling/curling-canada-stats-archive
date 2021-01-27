@@ -84,7 +84,7 @@ vs:
  - Gates, H.W.
  - Godfrey, Thomas
  - Gourley, Robert
- - Graham, Frederick
+ - Graham, Frederick W.
  - Graham, Stuart
  - Grant, William
  - Hamlin, Frank

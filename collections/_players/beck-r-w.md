@@ -34,7 +34,7 @@ vs:
  - Chilton, Murray
  - Clayton, David
  - Cowan, Hector
- - Gardner, Charles Jr.
+ - Gardner, Charles
  - Harrington, A.L.
  - Hayes, Alex
  - Kerr, Charles
@@ -42,7 +42,7 @@ vs:
  - Macneill, Murray
  - McCart, William
  - McNevin, C.A.
- - McRae, Frederick
+ - McRae, Frederick J.
  - Millar, Daniel
  - Mowatt, Earl
  - Murphy, J.R.
@@ -60,6 +60,6 @@ vs:
  - Watson, Grant
  - Watson, Kenneth
  - Whalen, William
- - Whalen, William Jr.
+ - Whalen, William Jr
  - Youngson, Leslie
 ---

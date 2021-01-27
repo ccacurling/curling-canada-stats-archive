@@ -119,7 +119,7 @@ vs:
  - Gates, H.W.
  - Gourley, Robert
  - Graham, Archibald
- - Graham, Frederick
+ - Graham, Frederick W.
  - Graham, Stuart
  - Grant, William
  - Hall, Jack
@@ -162,7 +162,7 @@ vs:
  - Miles, Edmund
  - Millar, Daniel
  - Miller, Jack
- - Monk, Harry
+ - Monk, Harry Sr.
  - Moore, David
  - Morrison, Robert
  - Muirhead, Frank

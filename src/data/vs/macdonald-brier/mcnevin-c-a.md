@@ -2,7 +2,7 @@
 title: C.A. McNevin Head-to-head
 name: McNevin, C.A.
 vs:
- - name: McRae, Frederick   
+ - name: McRae, Frederick J.
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -506,7 +506,7 @@ vs:
       year: 1936            
       draw: Round Robin(6)  
       score: BC 9 - SK 10   
- - name: Whalen, William Jr.
+ - name: Whalen, William Jr 
    totals:                  
     - event: Macdonald Brier
       player1:              

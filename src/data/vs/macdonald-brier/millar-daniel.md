@@ -2,7 +2,7 @@
 title: Daniel Millar Head-to-head
 name: Millar, Daniel
 vs:
- - name: Monk, Harry        
+ - name: Monk, Harry Sr.    
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -1154,7 +1154,7 @@ vs:
       year: 1936            
       draw: Round Robin(3)  
       score: MB 6 - NO 10   
- - name: Watson, William    
+ - name: Watson, William A. 
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -1322,7 +1322,7 @@ vs:
       year: 1936            
       draw: Round Robin(8)  
       score: BC 12 - NO 7   
- - name: Whalen, William Jr.
+ - name: Whalen, William Jr 
    totals:                  
     - event: Macdonald Brier
       player1:              

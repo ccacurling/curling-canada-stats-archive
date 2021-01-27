@@ -72,7 +72,7 @@ vs:
  - Lloyd, J.W.
  - Lunan, Arthur
  - Lyall, Peter
- - Macdonald, James
+ - MacDonald, J.
  - MacInnes, Alfred
  - Macneill, Murray
  - Matthews, Whit

@@ -2,17 +2,17 @@
 title: Allan Duncan Head-to-head
 name: Duncan, Allan
 vs:
- - name: Graham, Frederick  
-   totals:                  
-    - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+ - name: Graham, Frederick W.
+   totals:                   
+    - event: Macdonald Brier 
+      player1:               
+        percent:             
+        wins: 0              
+        losses: 1            
+      player2:               
+        percent:             
+        wins: 1              
+        losses: 0            
    games:
     - player1:        
         team: 'AB'    

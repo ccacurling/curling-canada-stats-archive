@@ -158,6 +158,34 @@ vs:
       year: 1937            
       draw: Round Robin(1)  
       score: QC 6 - MB 16   
+ - name: Simons, Herbert    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'MB'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'QC'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1947            
+      draw: Round Robin(7)  
+      score: QC 7 - MB 11   
  - name: Smith, Emmett      
    totals:                  
     - event: Macdonald Brier
@@ -214,6 +242,62 @@ vs:
       year: 1937            
       draw: Round Robin(9)  
       score: MB 10 - SK 8   
+ - name: Spencer, Adam      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'MB'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'ON'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1947            
+      draw: Round Robin(9)  
+      score: ON 6 - MB 15   
+ - name: Squarebriggs, John 
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'MB'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'PE'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1947            
+      draw: Round Robin(8)  
+      score: MB 18 - PE 7   
  - name: Stewart, Howard    
    totals:                  
     - event: Macdonald Brier
@@ -410,6 +494,62 @@ vs:
       year: 1933            
       draw: Round Robin(4)  
       score: MB 11 - QC 10  
+ - name: Ward, William      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'MB'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'NS'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1947            
+      draw: Round Robin(6)  
+      score: MB 15 - NS 5   
+ - name: Watson, William H. 
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'MB'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'AB'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1947            
+      draw: Round Robin(4)  
+      score: MB 9 - AB 7    
  - name: Weldon, William    
    totals:                  
     - event: Macdonald Brier
@@ -438,6 +578,34 @@ vs:
       year: 1933            
       draw: Round Robin(4)  
       score: MB 11 - QC 10  
+ - name: Wendell, Frederick 
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'MB'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'BC'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1947            
+      draw: Round Robin(5)  
+      score: BC 7 - MB 10   
  - name: West, Earl         
    totals:                  
     - event: Macdonald Brier
@@ -466,6 +634,34 @@ vs:
       year: 1937            
       draw: Round Robin(9)  
       score: MB 10 - SK 8   
+ - name: Williamson, Lynn   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'MB'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NO'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1947            
+      draw: Round Robin(2)  
+      score: NO 10 - MB 12  
  - name: Wolfe, Harold      
    totals:                  
     - event: Macdonald Brier

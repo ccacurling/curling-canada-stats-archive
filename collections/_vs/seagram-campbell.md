@@ -58,6 +58,62 @@ vs:
       year: 1939            
       draw: Round Robin(9)  
       score: ON 5 - NO 13   
+ - name: Thibodeau, Leo     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:        
+        team: 'ON'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      player2:        
+        team: 'NB'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1940            
+      draw: Round Robin(6)  
+      score: ON 5 - NB 12   
+ - name: Thibodeau, Nicholas
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:        
+        team: 'ON'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1940            
+      draw: Round Robin(6)  
+      score: ON 5 - NB 12   
  - name: Thompson, Edward   
    totals:                  
     - event: Macdonald Brier
@@ -91,12 +147,12 @@ vs:
     - event: Macdonald Brier
       player1:              
         percent:            
-        wins: 0             
+        wins: 1             
         losses: 1           
       player2:              
         percent:            
         wins: 1             
-        losses: 0           
+        losses: 1           
    games:
     - player1:        
         team: 'ON'    
@@ -114,6 +170,22 @@ vs:
       year: 1938            
       draw: Round Robin(6)  
       score: BC 11 - ON 8   
+    - player1:        
+        team: 'ON'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      player2:         
+        team: 'BC'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1940            
+      draw: Round Robin(1)  
+      score: BC 11 - ON 12  
  - name: Tinling, Lionel    
    totals:                  
     - event: Macdonald Brier
@@ -226,6 +298,34 @@ vs:
       year: 1938            
       draw: Round Robin(8)  
       score: ON 17 - NO 10  
+ - name: Warner, George     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:        
+        team: 'ON'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      player2:        
+        team: 'QC'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1940            
+      draw: Round Robin(4)  
+      score: QC 15 - ON 9   
  - name: Webb, St. Clair    
    totals:                  
     - event: Macdonald Brier
@@ -298,6 +398,34 @@ vs:
       year: 1939            
       draw: Playoff(10)     
       score: ON 12 - MB 10  
+ - name: Weyman, Hugh       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:        
+        team: 'ON'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'QC'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1940            
+      draw: Round Robin(4)  
+      score: QC 15 - ON 9   
  - name: Wickstrom, Roland  
    totals:                  
     - event: Macdonald Brier
@@ -370,6 +498,90 @@ vs:
       year: 1939            
       draw: Round Robin(4)  
       score: PE 9 - ON 18   
+ - name: Williams, Norman   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:        
+        team: 'ON'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      player2:          
+        team: 'BC'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1940            
+      draw: Round Robin(1)  
+      score: BC 11 - ON 12  
+ - name: Wood, Howard Jr.   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:        
+        team: 'ON'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'MB'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1940            
+      draw: Round Robin(7)  
+      score: ON 6 - MB 8    
+ - name: Wood, Howard Sr.   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:        
+        team: 'ON'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'MB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1940            
+      draw: Round Robin(7)  
+      score: ON 6 - MB 8    
  - name: Wood, John         
    totals:                  
     - event: Macdonald Brier

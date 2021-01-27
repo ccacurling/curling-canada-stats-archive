@@ -33,14 +33,14 @@ vs:
  - Broatch, W.R.
  - Burchell, Charles
  - Clayton, David
- - Gardner, Charles Jr.
+ - Gardner, Charles
  - Harrington, A.L.
  - Kerr, Charles
  - MacIntyre, Marvin
  - Macneill, Murray
  - McIntyre, James
  - McNevin, C.A.
- - McRae, Frederick
+ - McRae, Frederick J.
  - Millar, Daniel
  - Mowatt, Earl
  - Murphy, J.R.
@@ -58,7 +58,7 @@ vs:
  - Watson, Grant
  - Watson, Kenneth
  - Whalen, William
- - Whalen, William Jr.
+ - Whalen, William Jr
  - Wightman, C.K.
  - Youngson, Leslie
  - Younker, I.A.

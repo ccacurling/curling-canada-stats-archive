@@ -170,7 +170,7 @@ vs:
       year: 1937            
       draw: Round Robin(1)  
       score: AB 10 - NO 7   
- - name: Monk, Harry        
+ - name: Monk, Harry Sr.    
    totals:                  
     - event: Macdonald Brier
       player1:              

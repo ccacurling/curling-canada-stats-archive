@@ -686,7 +686,7 @@ vs:
       year: 1932            
       draw: Round Robin(6)  
       score: MB 13 - QC 8   
- - name: Macdonald, James   
+ - name: MacDonald, J.      
    totals:                  
     - event: Macdonald Brier
       player1:              

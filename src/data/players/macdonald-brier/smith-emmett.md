@@ -82,7 +82,7 @@ vs:
  - Donahoe, James
  - Dunker, Albert
  - Ferguson, Hugh
- - Gardner, Charles Jr.
+ - Gardner, Charles
  - Graham, Archibald
  - Harrington, A.L.
  - Hasenflug, Frederick
@@ -111,9 +111,9 @@ vs:
  - McIntyre, James
  - McIntyre, Lloyd
  - McNevin, C.A.
- - McRae, Frederick
+ - McRae, Frederick J.
  - Miles, Edmund
- - Monk, Harry
+ - Monk, Harry Sr.
  - Morton, Robert
  - Mowatt, Earl
  - Murphy, J.R.
@@ -146,11 +146,11 @@ vs:
  - Watson, Grant
  - Watson, Harry
  - Watson, Kenneth
- - Watson, William
+ - Watson, William A.
  - Welsh, James
  - West, Earl
  - Whalen, William
- - Whalen, William Jr.
+ - Whalen, William Jr
  - Whyte, R.W.
  - Wightman, C.K.
  - Wilken, Pete

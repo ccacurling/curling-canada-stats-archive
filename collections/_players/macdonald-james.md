@@ -1,19 +1,19 @@
 ---
-title: James Macdonald
-name: James Macdonald
-name-sort: Macdonald, James
+title: James MacDonald
+name: James MacDonald
+name-sort: MacDonald, James
 totals:
  - event: Macdonald Brier
-   games: 7
-   wins: 2
+   games: 9
+   wins: 4
    losses: 5
 years:
- - year: 1932
+ - year: 1940
    event: Macdonald Brier
-   team: "SK"
+   team: "NO"
    position: Lead
-   games: 7
-   wins: 2
+   games: 9
+   wins: 4
    losses: 5
    inturn-total: 0
    inturn-percent:
@@ -26,32 +26,40 @@ years:
    shots-total: 0
    shots-percent:
 vs:
- - Binkley, Charles
- - Black, Thomas
- - Brandon, John
- - Bulley, Charles
- - Congalton, James
- - Connolly, Daniel
- - Connolly, Joseph
- - Donahoe, James
- - Dufoe, C.W.
- - Graves, E.G.
- - Hallonquist, Arthur
- - Johnson, J.
- - Kennah, John
- - Lyall, Peter
- - Macneill, Murray
- - Mawhinney, Harry
- - McKinlay, Jack
- - Morrison, William
- - Noble, William
- - Robertson, F.O.
- - Scott, Harry
- - Stephenson, A.E.
- - Stewart, Howard
+ - Beckett, James
+ - Bell, Archibald
+ - Bell, Reginald
+ - Bickle, Warner
+ - Cook, Frank
+ - Doucet, Allen
+ - Dunbar, William
+ - Eaton, Ronald
+ - Elliott, James
+ - Enman, Roy
+ - Finlay, William
+ - Fraser, John
+ - Hall, Bert
+ - Hall, Perry
+ - Hebb, Irving
+ - Hughes, Gordon
+ - Kent, Harper
+ - LeSage, William
+ - Manahan, Clifford
+ - Manahan, Robert
+ - Manahan, Ross
+ - McLaine, Rankine
+ - McMahon, James
+ - Parkes, Ernest
+ - Pollard, Ernest
+ - Rafuse, Stanley
+ - Robinson, Wesley
+ - Seagram, Campbell
+ - Thibodeau, Leo
  - Thibodeau, Nicholas
- - Thompson, R.W.
- - Torey, Clifford
- - Vallance, A.R.
+ - Tinling, Frederick
+ - Warner, George
+ - Weyman, Hugh
+ - Williams, Norman
+ - Wood, Howard Jr.
  - Wood, Howard Sr.
 ---

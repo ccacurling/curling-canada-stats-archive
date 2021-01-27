@@ -142,17 +142,17 @@ vs:
       year: 1928            
       draw: Round Robin(1)  
       score: AB 13 - QC 7   
- - name: Graham, Frederick  
-   totals:                  
-    - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+ - name: Graham, Frederick W.
+   totals:                   
+    - event: Macdonald Brier 
+      player1:               
+        percent:             
+        wins: 0              
+        losses: 1            
+      player2:               
+        percent:             
+        wins: 1              
+        losses: 0            
    games:
     - player1:          
         team: 'QC'      

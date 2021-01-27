@@ -54,7 +54,7 @@ vs:
  - Dale, Thomas
  - Donahoe, James
  - Duncan, Allan
- - Graham, Frederick
+ - Graham, Frederick W.
  - Graham, Stuart
  - Grant, William
  - Graves, E.G.
@@ -67,7 +67,7 @@ vs:
  - Lang, John
  - Lyall, Peter
  - Lynch, J.B.
- - Macdonald, James
+ - MacDonald, J.
  - MacKay, W.D.
  - Macneill, Murray
  - Malcolm, John

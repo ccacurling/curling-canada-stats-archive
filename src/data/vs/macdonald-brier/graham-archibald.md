@@ -310,7 +310,7 @@ vs:
       year: 1937            
       draw: Round Robin(6)  
       score: SK 6 - NO 8    
- - name: Monk, Harry        
+ - name: Monk, Harry Sr.    
    totals:                  
     - event: Macdonald Brier
       player1:              

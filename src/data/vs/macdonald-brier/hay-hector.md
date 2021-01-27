@@ -618,7 +618,7 @@ vs:
       year: 1927            
       draw: Round Robin(1)  
       score: ON 13 - SK 12  
- - name: Watson, William    
+ - name: Watson, William A. 
    totals:                  
     - event: Macdonald Brier
       player1:              

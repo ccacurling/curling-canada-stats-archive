@@ -98,7 +98,7 @@ vs:
  - Torey, Clifford
  - Trueman, Samuel
  - Watson, Harry
- - Watson, William
+ - Watson, William A.
  - Webb, St. Clair
  - Wells, Clair
  - Whyte, R.W.

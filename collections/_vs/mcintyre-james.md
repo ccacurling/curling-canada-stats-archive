@@ -30,7 +30,7 @@ vs:
       year: 1936            
       draw: Round Robin(4)  
       score: PE 6 - SK 18   
- - name: McRae, Frederick   
+ - name: McRae, Frederick J.
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -534,7 +534,7 @@ vs:
       year: 1936            
       draw: Round Robin(1)  
       score: BC 11 - PE 6   
- - name: Whalen, William Jr.
+ - name: Whalen, William Jr 
    totals:                  
     - event: Macdonald Brier
       player1:              
