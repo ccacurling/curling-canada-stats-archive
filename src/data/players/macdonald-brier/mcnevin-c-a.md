@@ -59,7 +59,7 @@ vs:
  - Watson, Grant
  - Watson, Kenneth
  - Whalen, William
- - Whalen, William Jr
+ - Whalen, William Jr.
  - Wightman, C.K.
  - Younker, I.A.
 ---

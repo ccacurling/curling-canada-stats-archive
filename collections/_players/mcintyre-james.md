@@ -60,6 +60,6 @@ vs:
  - Watson, Grant
  - Watson, Kenneth
  - Whalen, William
- - Whalen, William Jr
+ - Whalen, William Jr.
  - Youngson, Leslie
 ---

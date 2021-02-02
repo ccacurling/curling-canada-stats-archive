@@ -102,7 +102,7 @@ vs:
  - Smith, Emmett
  - Smith, Franklin
  - Smith, Fred
- - St. Amand, Edmond
+ - St.Amand, Edmond
  - Stewart, Howard
  - Thomas, George
  - Tinling, Frederick

@@ -982,7 +982,7 @@ vs:
       year: 1928            
       draw: Round Robin(9)  
       score: TO 12 - NB 11  
- - name: St. Amand, Edmond  
+ - name: St.Amand, Edmond   
    totals:                  
     - event: Macdonald Brier
       player1:              

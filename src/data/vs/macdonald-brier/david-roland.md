@@ -1874,7 +1874,7 @@ vs:
       year: 1937            
       draw: Round Robin(5)  
       score: BC 6 - MB 13   
- - name: St. Amand, Edmond  
+ - name: St.Amand, Edmond   
    totals:                  
     - event: Macdonald Brier
       player1:              

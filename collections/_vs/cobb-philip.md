@@ -1378,7 +1378,7 @@ vs:
       year: 1937            
       draw: Round Robin(6)  
       score: MB 15 - PE 5   
- - name: St. Amand, Edmond  
+ - name: St.Amand, Edmond   
    totals:                  
     - event: Macdonald Brier
       player1:              

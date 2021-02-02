@@ -3142,7 +3142,7 @@ vs:
       year: 1934            
       draw: Round Robin(1)  
       score: NS 2 - ON 26   
- - name: St. Amand, Edmond  
+ - name: St.Amand, Edmond   
    totals:                  
     - event: Macdonald Brier
       player1:              

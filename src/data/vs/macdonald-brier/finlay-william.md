@@ -1554,7 +1554,7 @@ vs:
       year: 1938            
       draw: Round Robin(2)  
       score: BC 12 - NS 8   
- - name: St. Amand, Edmond  
+ - name: St.Amand, Edmond   
    totals:                  
     - event: Macdonald Brier
       player1:              

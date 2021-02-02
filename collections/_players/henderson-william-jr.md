@@ -104,7 +104,7 @@ vs:
  - Smith, Austin
  - Snow, John
  - Spencer, Walter
- - St. Amand, Edmond
+ - St.Amand, Edmond
  - Swelin, Bartley
  - Thompson, Edward
  - Tinling, Frederick

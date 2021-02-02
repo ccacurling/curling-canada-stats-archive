@@ -100,7 +100,7 @@ vs:
  - Sayles, George
  - Seagram, Campbell
  - Sear, Harry
- - St. Amand, Edmond
+ - St.Amand, Edmond
  - Sutherland, Duncan
  - Thompson, Edward
  - Tinling, Frederick

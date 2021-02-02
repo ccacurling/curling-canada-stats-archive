@@ -181,7 +181,7 @@ vs:
  - Smith, Emmett
  - Smith, Franklin
  - Smith, Fred
- - St. Amand, Edmond
+ - St.Amand, Edmond
  - Stewart, Howard
  - Thibodeau, Leo
  - Thibodeau, Nicholas

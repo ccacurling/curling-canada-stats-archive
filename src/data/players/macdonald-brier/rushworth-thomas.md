@@ -58,7 +58,7 @@ vs:
  - Palmer, Howard
  - Rockwell, Nicolas
  - Sear, Harry
- - St. Amand, Edmond
+ - St.Amand, Edmond
  - Tinling, Frederick
  - Wakefield, Albert
  - Webb, St. Clair

@@ -105,7 +105,7 @@ vs:
  - Simons, Herbert
  - Spencer, Adam
  - Squarebriggs, John
- - St. Amand, Edmond
+ - St.Amand, Edmond
  - Tinling, Frederick
  - Wakefield, Albert
  - Ward, William

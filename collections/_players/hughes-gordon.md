@@ -168,7 +168,7 @@ vs:
  - Sayles, George
  - Seagram, Campbell
  - Simm, Edward
- - St. Amand, Edmond
+ - St.Amand, Edmond
  - Sutherland, Duncan
  - Thibodeau, Leo
  - Thibodeau, Nicholas

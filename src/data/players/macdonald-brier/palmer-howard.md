@@ -182,7 +182,7 @@ vs:
  - Simons, Herbert
  - Spencer, Adam
  - Squarebriggs, John
- - St. Amand, Edmond
+ - St.Amand, Edmond
  - Sutherland, Duncan
  - Teskey, Mark
  - Thibodeau, Nicholas

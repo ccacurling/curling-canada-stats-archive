@@ -259,7 +259,7 @@ vs:
  - Smith, Austin
  - Snow, John
  - Spencer, Walter
- - St. Amand, Edmond
+ - St.Amand, Edmond
  - Stewart, Howard
  - Sutherland, Duncan
  - Swelin, Bartley

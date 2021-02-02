@@ -1,7 +1,7 @@
 ---
-title: William Jr Whalen
-name: William Jr Whalen
-name-sort: Whalen, William Jr
+title: William Jr. Whalen
+name: William Jr. Whalen
+name-sort: Whalen, William Jr.
 totals:
  - event: Macdonald Brier
    games: 9

@@ -786,7 +786,7 @@ vs:
       year: 1946            
       draw: Round Robin(8)  
       score: NO 10 - ON 7   
- - name: St. Amand, Edmond  
+ - name: St.Amand, Edmond   
    totals:                  
     - event: Macdonald Brier
       player1:              

@@ -58,7 +58,7 @@ vs:
  - Smith, Emmett
  - Wanless, George
  - Whalen, William
- - Whalen, William Jr
+ - Whalen, William Jr.
  - Wightman, C.K.
  - Youngson, Leslie
  - Younker, I.A.

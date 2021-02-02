@@ -106,7 +106,7 @@ vs:
  - Scrymgeour, Charles
  - Slavik, John
  - Slavik, Vincent
- - St. Amand, Edmond
+ - St.Amand, Edmond
  - Stone, Rufus
  - Tinling, Frederick
  - Tuck, J.C.

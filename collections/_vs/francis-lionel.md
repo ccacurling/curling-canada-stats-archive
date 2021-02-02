@@ -562,7 +562,7 @@ vs:
       year: 1941            
       draw: Round Robin(2)  
       score: MB 12 - PE 11  
- - name: St. Amand, Edmond  
+ - name: St.Amand, Edmond   
    totals:                  
     - event: Macdonald Brier
       player1:              

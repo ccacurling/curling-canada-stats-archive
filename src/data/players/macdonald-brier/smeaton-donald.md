@@ -1,0 +1,69 @@
+---
+title: Donald Smeaton
+name: Donald Smeaton
+name-sort: Smeaton, Donald
+totals:
+ - event: Macdonald Brier
+   games: 10
+   wins: 3
+   losses: 7
+years:
+ - year: 1957
+   event: Macdonald Brier
+   team: "NO"
+   position: Second
+   games: 10
+   wins: 3
+   losses: 7
+   inturn-total: 0
+   inturn-percent:
+   outturn-total: 0
+   outturn-percent:
+   draw-total: 0
+   draw-percent:
+   takeout-total: 0
+   takeout-percent:
+   shots-total: 0
+   shots-percent:
+vs:
+ - Baldwin, Mathew
+ - Cameron, James
+ - Campbell, Donald
+ - Campbell, Garnet
+ - Campbell, Glen
+ - Campbell, Lloyd
+ - Coulter, Bruce
+ - Duguid, Donald
+ - Duguid, Lorne
+ - Everett, Kenneth
+ - Fisher, Alexander
+ - Gordon, Ernest
+ - Gullage, John
+ - Haynes, Gordon
+ - Hewitt, Roy
+ - Howell, Wilbert
+ - Hutchingame, Arthur
+ - Hutton, Robert
+ - Issac, William
+ - Kleinmeyer, Arthur
+ - Lamb, Earl
+ - MacDonald, Clifford
+ - McAlpine, Thomas
+ - McGibney, Douglas
+ - Mooreside, William
+ - Neal, Douglas
+ - Piercey, William
+ - Price, William
+ - Rafuse, Robert
+ - Rhodenizer, Lee
+ - Richardson, Pennell
+ - Sarjeant, Stanley
+ - Sharp, William
+ - Simmons, Ralph
+ - Stewart, Gordon W.
+ - Stone, Reginald
+ - Stone, Roy
+ - Tissington, Harry
+ - Weldon, Kenneth
+ - Wood, Howard Jr.
+---

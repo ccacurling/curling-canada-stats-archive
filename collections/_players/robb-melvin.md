@@ -150,7 +150,7 @@ vs:
  - Welsh, James
  - West, Earl
  - Whalen, William
- - Whalen, William Jr
+ - Whalen, William Jr.
  - Whyte, R.W.
  - Wightman, C.K.
  - Wilken, Pete

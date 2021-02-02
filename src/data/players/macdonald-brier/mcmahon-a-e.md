@@ -57,7 +57,7 @@ vs:
  - Rushworth, Thomas
  - Sayles, George
  - Sear, Harry
- - St. Amand, Edmond
+ - St.Amand, Edmond
  - Tinling, Frederick
  - Tuck, J.C.
  - Wakefield, Albert

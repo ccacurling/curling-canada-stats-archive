@@ -151,7 +151,7 @@ vs:
  - Sievert, Edward
  - Slavik, John
  - Slavik, Vincent
- - St. Amand, Edmond
+ - St.Amand, Edmond
  - Stone, Reginald
  - Stone, Roy
  - Stone, Rufus

@@ -139,7 +139,7 @@ vs:
  - Seagram, Campbell
  - Sear, Harry
  - Simm, Edward
- - St. Amand, Edmond
+ - St.Amand, Edmond
  - Thibodeau, Leo
  - Thibodeau, Nicholas
  - Tuck, J.C.

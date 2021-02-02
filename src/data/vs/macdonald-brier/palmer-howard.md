@@ -478,7 +478,7 @@ vs:
       year: 1947            
       draw: Round Robin(6)  
       score: PE 1 - AB 21   
- - name: St. Amand, Edmond  
+ - name: St.Amand, Edmond   
    totals:                  
     - event: Macdonald Brier
       player1:              

@@ -30,6 +30,34 @@ vs:
       year: 1949            
       draw: Round Robin(5)  
       score: MB 12 - NS 11  
+ - name: Weldon, Kenneth    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NO'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'QC'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1953            
+      draw: Round Robin(5)  
+      score: NO 5 - QC 7    
  - name: Wellman, R.C.      
    totals:                  
     - event: Macdonald Brier
@@ -86,7 +114,7 @@ vs:
       year: 1936            
       draw: Round Robin(4)  
       score: BC 6 - MB 13   
- - name: Whalen, William Jr 
+ - name: Whalen, William Jr.
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -142,6 +170,62 @@ vs:
       year: 1936            
       draw: Round Robin(7)  
       score: MB 25 - PE 5   
+ - name: Williams, James    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NO'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'MB'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1953            
+      draw: Round Robin(9)  
+      score: NO 14 - MB 9   
+ - name: Worth, Harold Jr.  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NO'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'SK'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1953            
+      draw: Round Robin(2)  
+      score: NO 5 - SK 15   
  - name: Youngson, Leslie   
    totals:                  
     - event: Macdonald Brier

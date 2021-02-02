@@ -58,6 +58,34 @@ vs:
       year: 1947            
       draw: Round Robin(4)  
       score: PE 11 - QC 8   
+ - name: Vance, James       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'QC'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1950            
+      draw: Round Robin(5)  
+      score: QC 8 - NB 7    
  - name: Ward, William      
    totals:                  
     - event: Macdonald Brier
@@ -198,7 +226,7 @@ vs:
       year: 1947            
       draw: Round Robin(6)  
       score: QC 7 - BC 12   
- - name: Williamson, Lynn   
+ - name: Weston, William    
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -208,6 +236,118 @@ vs:
       player2:              
         percent:            
         wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'QC'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'NO'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1950            
+      draw: Round Robin(2)  
+      score: QC 8 - NO 9    
+ - name: Whitter, Ernest    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'QC'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'SK'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1950            
+      draw: Round Robin(9)  
+      score: QC 2 - SK 16   
+ - name: Whitter, James     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'QC'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'SK'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1950            
+      draw: Round Robin(9)  
+      score: QC 2 - SK 16   
+ - name: Whitter, William   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'QC'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'SK'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1950            
+      draw: Round Robin(9)  
+      score: QC 2 - SK 16   
+ - name: Williamson, Lynn   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 2           
+      player2:              
+        percent:            
+        wins: 2             
         losses: 0           
    games:
     - player1:          
@@ -226,4 +366,20 @@ vs:
       year: 1947            
       draw: Round Robin(3)  
       score: NO 13 - QC 7   
+    - player1:          
+        team: 'QC'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'NO'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1950            
+      draw: Round Robin(2)  
+      score: QC 8 - NO 9    
 ---

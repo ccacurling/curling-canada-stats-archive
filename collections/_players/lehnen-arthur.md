@@ -148,7 +148,7 @@ vs:
  - Smith, Fred
  - Snow, John
  - Spencer, Walter
- - St. Amand, Edmond
+ - St.Amand, Edmond
  - Stewart, Howard
  - Swelin, Bartley
  - Thomas, George

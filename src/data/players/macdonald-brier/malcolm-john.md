@@ -179,7 +179,7 @@ vs:
  - Smith, Emmett
  - Snow, Charles
  - Sproule, Harvey
- - St. Amand, Edmond
+ - St.Amand, Edmond
  - Stevenson, Harry
  - Stewart, Bruce
  - Stewart, Howard

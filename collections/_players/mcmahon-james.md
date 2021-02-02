@@ -98,7 +98,7 @@ vs:
  - Sayles, George
  - Seagram, Campbell
  - Sear, Harry
- - St. Amand, Edmond
+ - St.Amand, Edmond
  - Thibodeau, Leo
  - Thibodeau, Nicholas
  - Tinling, Frederick

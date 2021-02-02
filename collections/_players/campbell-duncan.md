@@ -222,7 +222,7 @@ vs:
  - Slavik, John
  - Slavik, Vincent
  - Smith, Logan
- - St. Amand, Edmond
+ - St.Amand, Edmond
  - Stewart, George
  - Stewart, Gordon
  - Stewart, Lawrence

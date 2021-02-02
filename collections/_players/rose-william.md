@@ -108,7 +108,7 @@ vs:
  - Watson, Kenneth
  - Weremy, Harry
  - Whalen, William
- - Whalen, William Jr
+ - Whalen, William Jr.
  - Whitlock, Caleb
  - Wightman, C.K.
  - Wiginton, Edward

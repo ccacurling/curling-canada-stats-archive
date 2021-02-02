@@ -1878,7 +1878,7 @@ vs:
       year: 1942            
       draw: Round Robin(1)  
       score: AB 15 - PE 4   
- - name: St. Amand, Edmond  
+ - name: St.Amand, Edmond   
    totals:                  
     - event: Macdonald Brier
       player1:              
