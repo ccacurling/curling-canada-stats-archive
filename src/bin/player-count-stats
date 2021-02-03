@@ -1,0 +1,45 @@
+#!/usr/bin/env php
+<?php
+
+$dir = new RecursiveDirectoryIterator(__DIR__ . '/../data/players/');
+$iter = new RecursiveIteratorIterator($dir);
+$files = new RegexIterator($iter, '/\.md$/i');
+
+$counts = [
+  'files' => 0,
+  'aka' => 0,
+  'players' => 0,
+  'events' => [],
+];
+
+$names = [];
+
+foreach ($files as $file) {
+  $counts['files']++;
+  $player = yaml_parse_file($file->getPathName());
+
+  if (!empty($player['aka'])) {
+    $counts['aka']++;
+    continue;
+  }
+
+  $counts['players']++;
+  $names[$player['name']] = 1;
+
+  foreach ($player['totals'] as $event) {
+    if (empty($counts['events'][$event['event']])) {
+      $counts['events'][$event['event']] = 0;
+    }
+    $counts['events'][$event['event']]++;
+  }
+}
+
+print "Total files: {$counts['files']}\n";
+print "Total AKA records: {$counts['aka']}\n";
+print "Total player records: {$counts['players']}\n";
+print "Unique player records: " . count(array_keys($names)) . "\n";
+print "Players per event:\n";
+ksort($counts['events']);
+foreach ($counts['events'] as $event => $count) {
+  print "  {$event}: {$count}\n";
+}
