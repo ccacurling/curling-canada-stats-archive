@@ -49,9 +49,9 @@ vs:
  - Beckett, James
  - Bell, Reginald
  - Bickle, Warner
- - Campbell, Donald
- - Campbell, Duncan
- - Campbell, Gordon
+ - Campbell, Donald A.
+ - Campbell, Duncan A.
+ - Campbell, Gordon M.
  - Coates, Gordon
  - Cook, Frank
  - Crocker, Waldo

@@ -2,7 +2,7 @@
 title: Hugh Brown Head-to-head
 name: Brown, Hugh
 vs:
- - name: Campbell, Donald   
+ - name: Campbell, Donald C.
    totals:                  
     - event: Macdonald Brier
       player1:              

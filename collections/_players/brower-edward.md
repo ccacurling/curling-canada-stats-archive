@@ -140,7 +140,7 @@ vs:
  - Shaw, James
  - Shaw, William
  - Sievert, L.E.
- - Silver, H. St.Clair
+ - Silver, St.Clair
  - Simon, Albert
  - Simon, A.D.
  - Singbusch, Ronald

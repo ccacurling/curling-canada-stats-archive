@@ -72,7 +72,7 @@ vs:
  - Best, Donald
  - Brower, John
  - Cameron, Donald
- - Campbell, Duncan
+ - Campbell, Duncan A.
  - Cobb, Philip
  - Colwell, Harold
  - Cox, Charles

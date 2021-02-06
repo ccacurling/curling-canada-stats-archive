@@ -28,9 +28,9 @@ years:
 vs:
  - Anderson, C.B.
  - Andrews, William
- - Campbell, Donald
- - Campbell, Duncan
- - Campbell, Gordon
+ - Campbell, Donald A.
+ - Campbell, Duncan A.
+ - Campbell, Gordon M.
  - Coates, Gordon
  - Crocker, Waldo
  - Elliott, Frank

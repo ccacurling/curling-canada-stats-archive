@@ -71,10 +71,10 @@ vs:
  - Bull, William
  - Burge, Wesley
  - Callaghan, Thomas
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
- - Campbell, Gordon
+ - Campbell, Gordon R.
  - Collins, James
  - Conn, Kenneth
  - Connolly, Daniel

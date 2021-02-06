@@ -90,7 +90,7 @@ vs:
  - Burke, Arthur
  - Cameron, Douglas
  - Cameron, James
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
  - Campbell, James

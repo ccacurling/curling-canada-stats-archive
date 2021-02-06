@@ -71,7 +71,7 @@ vs:
  - Brown, Victor
  - Brown, William F.
  - Burns, George
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
  - Campbell, Lloyd

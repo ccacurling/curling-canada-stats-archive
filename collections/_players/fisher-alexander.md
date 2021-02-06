@@ -4,9 +4,9 @@ name: Alexander Fisher
 name-sort: Fisher, Alexander
 totals:
  - event: Macdonald Brier
-   games: 40
-   wins: 9
-   losses: 31
+   games: 50
+   wins: 10
+   losses: 40
 years:
  - year: 1952
    event: Macdonald Brier
@@ -76,10 +76,30 @@ years:
    takeout-percent:
    shots-total: 0
    shots-percent:
+ - year: 1961
+   event: Macdonald Brier
+   team: "NL"
+   position: Fourth
+   games: 10
+   wins: 1
+   losses: 9
+   inturn-total: 0
+   inturn-percent:
+   outturn-total: 0
+   outturn-percent:
+   draw-total: 0
+   draw-percent:
+   takeout-total: 0
+   takeout-percent:
+   shots-total: 0
+   shots-percent:
 vs:
+ - Anton, Ronald
  - Baldwin, Mathew
  - Bauld, Donald
  - Beddoes, Richard
+ - Behan, J.A.
+ - Bell, Kenneth
  - Bergmann, John
  - Bird, Richard
  - Bissett, Kenneth
@@ -88,9 +108,10 @@ vs:
  - Braunstein, Terrance
  - Brown, Victor
  - Burke, Arthur
+ - Caldwell, Thomas
  - Cameron, Douglas
  - Cameron, James
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
  - Campbell, Lloyd
@@ -103,6 +124,9 @@ vs:
  - Cole, Allen
  - Coleman, Barry
  - Coulter, Bruce
+ - Coward, Ross
+ - Crombie, John
+ - Cummins, Jack
  - Dalsto, Norman
  - Dalziel, Dale
  - Darragh, Morell
@@ -115,12 +139,16 @@ vs:
  - Dunstan, William
  - Evans, William
  - Everett, Kenneth
+ - Eyben, Neil
  - Flemming, Harry
+ - Florian, James
+ - Folk, Tony
  - Forbes, Arthur
  - Fregeau, Leo
  - Gallant, Christopher
  - Gardiner, Sydney
  - Geddes, Jack
+ - Gervais, Hector
  - Gordon, Ernest
  - Gore, Aubrey
  - Grant, Andrew
@@ -138,12 +166,19 @@ vs:
  - Haynes, Gordon
  - Hellemond, John
  - Henry, Edward
+ - Herman, Leroy
  - Hewitt, Roy
+ - Hodgson, Eugene
+ - Hope, Peter
  - Hutchingame, Arthur
  - Hutton, Robert
  - Issac, William
  - Jones, John
+ - Kelsch, Leo
+ - Keys, John
+ - Kilburn, James
  - Kleinmeyer, Arthur
+ - Klotz, George
  - Kostick, John
  - Kydd, C.H.
  - Lacroix, Jean-Louis
@@ -156,10 +191,15 @@ vs:
  - Limerick, Arthur
  - Limerick, Victor
  - Llewellyn, Arnold
+ - Lyon, John-David
  - MacDonald, Clifford
+ - Macdonald, Frank
+ - MacDonald, John
+ - MacInnes, Earl
  - MacLean, Ronald
  - Malloy, Richard
  - Mann, Avard
+ - Marcoux, Guy
  - McAlpine, Thomas
  - McCaig, Harvey
  - McCance, Chester
@@ -169,9 +209,11 @@ vs:
  - McInnis, Harold
  - McManus, Cecil
  - McWilliams, Andrew
+ - Milligan, Frank
  - Mitten, Irving
  - Mix, Don
  - Mooreside, William
+ - Murphy, Reginald
  - Naimark, Barry
  - Neal, Douglas
  - Nielson, Gunnar
@@ -179,8 +221,11 @@ vs:
  - Olson, Herbert
  - Ostberg, F.
  - Parnell, Raymond
+ - Perry, Graham
+ - Pickering, Robert
  - Pike, Jack
  - Plourde, Yvon
+ - Polyblank, John
  - Price, William
  - Rafuse, Robert
  - Redding, Ronald
@@ -194,6 +239,7 @@ vs:
  - Ross, W.S.
  - Rumney, George
  - Sarjeant, Stanley
+ - Saunders, Allison
  - Sawkins, William
  - Seller, Edward
  - Sellers, Carl
@@ -203,8 +249,10 @@ vs:
  - Simpson, Arthur
  - Simpson, James
  - Smeaton, Donald
+ - Smith, Murvin
  - Spencer, Hugh
  - St.John, Stuart
+ - Stanhope, Donald
  - Stephen, Dennis
  - Stewart, Gordon W.
  - Stone, Reginald
@@ -218,12 +266,16 @@ vs:
  - Turnbull, Raymond
  - Turner, Alvin
  - Turney, James
+ - Ursuliak, Wally
  - Vance, James
  - Walsh, William
  - Wark, Darwin
  - Watson, John
+ - Welch, Thomas
  - Weldon, Kenneth
+ - Werner, Raymond
  - Witherow, Nels
  - Wolfe, Evan
  - Wood, Howard Jr.
+ - Zaporzan, William
 ---

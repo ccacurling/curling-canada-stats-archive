@@ -55,7 +55,7 @@ vs:
  - Reesor, Walter
  - Rollo, Donald
  - Sievert, L.E.
- - Silver, H. St.Clair
+ - Silver, St.Clair
  - Singbusch, Ronald
  - Thompson, William
  - Turner, E.E.

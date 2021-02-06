@@ -71,10 +71,10 @@ vs:
  - Burge, Wesley
  - Callaghan, Thomas
  - Campbell, Alexander
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
- - Campbell, Gordon
+ - Campbell, Gordon R.
  - Campbell, Lloyd
  - Cartmell, Elwyn
  - Cobb, Philip

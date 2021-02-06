@@ -52,7 +52,7 @@ vs:
  - Beckett, James
  - Cameron, Donald
  - Campbell, Alexander
- - Campbell, Duncan
+ - Campbell, Duncan A.
  - Campbell, Garnet
  - Campbell, Glen
  - Campbell, Lloyd

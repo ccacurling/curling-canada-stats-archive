@@ -2,6 +2,34 @@
 title: Douglas McGibney Head-to-head
 name: McGibney, Douglas
 vs:
+ - name: McIllwaine, George 
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'BC'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'NO'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1967            
+      draw: Round Robin(5)  
+      score: NO 7 - BC 9    
  - name: McInnis, Harold    
    totals:                  
     - event: Macdonald Brier
@@ -198,6 +226,34 @@ vs:
       year: 1955            
       draw: Round Robin(4)  
       score: BC 8 - MB 11   
+ - name: Murphy, John       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'BC'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'PE'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1967            
+      draw: Round Robin(7)  
+      score: BC 12 - PE 8   
  - name: Neal, Douglas      
    totals:                  
     - event: Macdonald Brier
@@ -254,6 +310,34 @@ vs:
       year: 1953            
       draw: Round Robin(7)  
       score: BC 12 - NB 5   
+ - name: Northcott, Ronald  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'BC'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1967            
+      draw: Round Robin(10) 
+      score: AB 12 - BC 8   
  - name: Oliver, Leonard    
    totals:                  
     - event: Macdonald Brier
@@ -282,6 +366,34 @@ vs:
       year: 1955            
       draw: Round Robin(7)  
       score: NL 10 - BC 12  
+ - name: Olson, Duane       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'BC'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'NL'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1967            
+      draw: Round Robin(8)  
+      score: NL 6 - BC 5    
  - name: Ostberg, F.        
    totals:                  
     - event: Macdonald Brier
@@ -338,6 +450,34 @@ vs:
       year: 1955            
       draw: Round Robin(9)  
       score: QC 9 - BC 10   
+ - name: Oyler, John        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'BC'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1967            
+      draw: Round Robin(1)  
+      score: BC 14 - NS 7   
  - name: Parnell, Raymond   
    totals:                  
     - event: Macdonald Brier
@@ -394,6 +534,34 @@ vs:
       year: 1955            
       draw: Round Robin(2)  
       score: NS 3 - BC 19   
+ - name: Phillips, Alfred Jr.
+   totals:                   
+    - event: Macdonald Brier 
+      player1:               
+        percent:             
+        wins: 0              
+        losses: 1            
+      player2:               
+        percent:             
+        wins: 1              
+        losses: 0            
+   games:
+    - player1:          
+        team: 'BC'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1967            
+      draw: Round Robin(6)  
+      score: ON 12 - BC 7   
  - name: Piercey, William   
    totals:                  
     - event: Macdonald Brier
@@ -590,6 +758,34 @@ vs:
       year: 1955            
       draw: Round Robin(4)  
       score: BC 8 - MB 11   
+ - name: Reilly, Keith      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'BC'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'ON'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1967            
+      draw: Round Robin(6)  
+      score: ON 12 - BC 7   
  - name: Rhodenizer, Lee    
    totals:                  
     - event: Macdonald Brier
@@ -750,6 +946,34 @@ vs:
       year: 1955            
       draw: Round Robin(7)  
       score: NL 10 - BC 12  
+ - name: Ross, John         
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'BC'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'ON'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1967            
+      draw: Round Robin(6)  
+      score: ON 12 - BC 7   
  - name: Samson, Olivier    
    totals:                  
     - event: Macdonald Brier
@@ -990,6 +1214,34 @@ vs:
       year: 1957            
       draw: Round Robin(11) 
       score: NO 7 - BC 11   
+ - name: Sparkes, Bernie    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'BC'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'AB'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1967            
+      draw: Round Robin(10) 
+      score: AB 12 - BC 8   
  - name: Squarebriggs, John 
    totals:                  
     - event: Macdonald Brier
@@ -1158,6 +1410,118 @@ vs:
       year: 1953            
       draw: Round Robin(2)  
       score: NL 8 - BC 9    
+ - name: Storey, Frederick  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'BC'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'AB'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1967            
+      draw: Round Robin(10) 
+      score: AB 12 - BC 8   
+ - name: Strugnell, John    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'BC'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'NL'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1967            
+      draw: Round Robin(8)  
+      score: NL 6 - BC 5    
+ - name: Sullivan, Charlie  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'BC'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1967            
+      draw: Round Robin(2)  
+      score: BC 7 - NB 4    
+ - name: Sullivan, Dave     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'BC'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'NB'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1967            
+      draw: Round Robin(2)  
+      score: BC 7 - NB 4    
  - name: Tetley, William    
    totals:                  
     - event: Macdonald Brier
@@ -1370,6 +1734,34 @@ vs:
       year: 1952            
       draw: Round Robin(3)  
       score: MB 9 - BC 8    
+ - name: Wankel, Douglas    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'BC'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'SK'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1967            
+      draw: Round Robin(9)  
+      score: SK 8 - BC 4    
  - name: Watson, Grant      
    totals:                  
     - event: Macdonald Brier
@@ -1598,6 +1990,34 @@ vs:
       year: 1953            
       draw: Round Robin(9)  
       score: SK 18 - BC 11  
+ - name: Wright, Richard    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'BC'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'MB'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1967            
+      draw: Round Robin(3)  
+      score: BC 10 - MB 11  
  - name: Wyatt, Robert      
    totals:                  
     - event: Macdonald Brier
@@ -1626,4 +2046,32 @@ vs:
       year: 1955            
       draw: Round Robin(5)  
       score: BC 10 - NO 9   
+ - name: Young, Irvine      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'BC'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'QC'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1967            
+      draw: Round Robin(4)  
+      score: BC 13 - QC 8   
 ---

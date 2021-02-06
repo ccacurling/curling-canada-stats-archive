@@ -2,7 +2,7 @@
 title: Donald Cameron Head-to-head
 name: Cameron, Donald
 vs:
- - name: Campbell, Duncan   
+ - name: Campbell, Duncan A.
    totals:                  
     - event: Macdonald Brier
       player1:              

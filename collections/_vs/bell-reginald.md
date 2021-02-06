@@ -46,7 +46,7 @@ vs:
       year: 1942            
       draw: Round Robin(5)  
       score: PE 15 - NS 7   
- - name: Campbell, Donald   
+ - name: Campbell, Donald A.
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -74,7 +74,7 @@ vs:
       year: 1942            
       draw: Round Robin(3)  
       score: PE 7 - BC 13   
- - name: Campbell, Duncan   
+ - name: Campbell, Duncan A.
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -102,7 +102,7 @@ vs:
       year: 1942            
       draw: Round Robin(4)  
       score: PE 4 - ON 22   
- - name: Campbell, Gordon   
+ - name: Campbell, Gordon M.
    totals:                  
     - event: Macdonald Brier
       player1:              

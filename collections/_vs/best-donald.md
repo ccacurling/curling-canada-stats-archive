@@ -58,7 +58,7 @@ vs:
       year: 1947            
       draw: Round Robin(6)  
       score: SK 7 - NO 10   
- - name: Campbell, Duncan   
+ - name: Campbell, Duncan A.
    totals:                  
     - event: Macdonald Brier
       player1:              

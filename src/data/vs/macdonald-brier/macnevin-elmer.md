@@ -86,6 +86,34 @@ vs:
       year: 1953            
       draw: Round Robin(2)  
       score: NO 5 - SK 15   
+ - name: McGee, Raymond     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:          
+        team: 'ON'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1965            
+      draw: Round Robin(6)  
+      score: SK 11 - ON 3   
  - name: McGibney, Douglas  
    totals:                  
     - event: Macdonald Brier
@@ -198,6 +226,34 @@ vs:
       year: 1953            
       draw: Round Robin(3)  
       score: SK 5 - AB 10   
+ - name: Miller, Terrance   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:         
+        team: 'BC'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1965            
+      draw: Round Robin(7)  
+      score: BC 6 - SK 7    
  - name: Mitton, Harris     
    totals:                  
     - event: Macdonald Brier
@@ -338,6 +394,62 @@ vs:
       year: 1953            
       draw: Round Robin(6)  
       score: SK 17 - NB 6   
+ - name: Otterson, Roland   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:         
+        team: 'AB'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1965            
+      draw: Round Robin(4)  
+      score: SK 8 - AB 6    
+ - name: Oyler, John        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:        
+        team: 'NS'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1965            
+      draw: Round Robin(10) 
+      score: SK 6 - NS 7    
  - name: Patterson, Ralph   
    totals:                  
     - event: Macdonald Brier
@@ -366,6 +478,34 @@ vs:
       year: 1956            
       draw: Round Robin(1)  
       score: SK 10 - NB 12  
+ - name: Petch, Wayne       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:        
+        team: 'NO'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1965            
+      draw: Round Robin(5)  
+      score: SK 12 - NO 6   
  - name: Phillips, Alfred Sr.
    totals:                   
     - event: Macdonald Brier 
@@ -422,6 +562,34 @@ vs:
       year: 1953            
       draw: Round Robin(4)  
       score: MB 14 - SK 6   
+ - name: Polyblank, John    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:          
+        team: 'NO'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1965            
+      draw: Round Robin(5)  
+      score: SK 12 - NO 6   
  - name: Pounder, Norman    
    totals:                  
     - event: Macdonald Brier
@@ -618,6 +786,34 @@ vs:
       year: 1953            
       draw: Round Robin(5)  
       score: NS 11 - SK 7   
+ - name: Smith, Alan        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:         
+        team: 'PE'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1965            
+      draw: Round Robin(11) 
+      score: SK 11 - PE 8   
  - name: Smith, Walter      
    totals:                  
     - event: Macdonald Brier
@@ -758,6 +954,90 @@ vs:
       year: 1953            
       draw: Round Robin(1)  
       score: NL 7 - SK 18   
+ - name: Stuart, Douglas    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:         
+        team: 'QC'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1965            
+      draw: Round Robin(3)  
+      score: SK 12 - QC 8   
+ - name: Taite, John        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:         
+        team: 'NL'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1965            
+      draw: Round Robin(8)  
+      score: NL 8 - SK 14   
+ - name: Tracy, William     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:          
+        team: 'QC'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1965            
+      draw: Round Robin(3)  
+      score: SK 12 - QC 8   
  - name: Trites, Horace     
    totals:                  
     - event: Macdonald Brier
@@ -802,6 +1082,34 @@ vs:
       year: 1956            
       draw: Round Robin(1)  
       score: SK 10 - NB 12  
+ - name: Turnbull, Raymond  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:        
+        team: 'MB'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1965            
+      draw: Round Robin(2)  
+      score: MB 11 - SK 5   
  - name: Turney, James      
    totals:                  
     - event: Macdonald Brier
@@ -858,6 +1166,34 @@ vs:
       year: 1956            
       draw: Round Robin(1)  
       score: SK 10 - NB 12  
+ - name: Walker, Glen       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:          
+        team: 'BC'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1965            
+      draw: Round Robin(7)  
+      score: BC 6 - SK 7    
  - name: Walsh, William     
    totals:                  
     - event: Macdonald Brier
@@ -1026,6 +1362,34 @@ vs:
       year: 1953            
       draw: Round Robin(4)  
       score: MB 14 - SK 6   
+ - name: Wood, Edgar        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:        
+        team: 'QC'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1965            
+      draw: Round Robin(3)  
+      score: SK 12 - QC 8   
  - name: Zuzmaski, Stephen  
    totals:                  
     - event: Macdonald Brier

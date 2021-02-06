@@ -28,7 +28,7 @@ years:
 vs:
  - Baldwin, Mathew
  - Cameron, James
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
  - Campbell, Lloyd

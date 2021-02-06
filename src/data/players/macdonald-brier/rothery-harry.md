@@ -32,7 +32,7 @@ vs:
  - Boyd, Arnold
  - Cameron, John E.
  - Campbell, Colin
- - Campbell, Gordon
+ - Campbell, Gordon M.
  - Dyke, Frederick
  - Ferguson, Huntley
  - Ferry, John

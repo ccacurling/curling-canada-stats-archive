@@ -2,7 +2,7 @@
 title: James Cameron Head-to-head
 name: Cameron, James
 vs:
- - name: Campbell, Donald   
+ - name: Campbell, Donald C.
    totals:                  
     - event: Macdonald Brier
       player1:              

@@ -55,7 +55,7 @@ vs:
  - Brown, Robert
  - Burns, Montague
  - Cameron, Donald
- - Campbell, Duncan
+ - Campbell, Duncan A.
  - Cleveland, Bernard
  - Cobb, Philip
  - Colquhoun, Hugh

@@ -91,7 +91,7 @@ vs:
  - Bickle, Warner
  - Brower, John
  - Cameron, Donald
- - Campbell, Duncan
+ - Campbell, Duncan A.
  - Cartmell, Elwyn
  - Connolly, Daniel
  - Connolly, Joseph

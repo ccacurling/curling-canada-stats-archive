@@ -30,7 +30,7 @@ vs:
       year: 1934            
       draw: Round Robin(6)  
       score: AB 11 - NS 10  
- - name: Campbell, Donald   
+ - name: Campbell, Donald A.
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -58,7 +58,7 @@ vs:
       year: 1934            
       draw: Round Robin(3)  
       score: AB 14 - ON 5   
- - name: Campbell, Duncan   
+ - name: Campbell, Duncan A.
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -86,7 +86,7 @@ vs:
       year: 1934            
       draw: Round Robin(3)  
       score: AB 14 - ON 5   
- - name: Campbell, Gordon   
+ - name: Campbell, Gordon M.
    totals:                  
     - event: Macdonald Brier
       player1:              

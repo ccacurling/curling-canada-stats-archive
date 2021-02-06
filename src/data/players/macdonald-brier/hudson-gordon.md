@@ -99,7 +99,7 @@ vs:
  - Scott, James
  - Shaw, William
  - Sievert, L.E.
- - Silver, H. St.Clair
+ - Silver, St.Clair
  - Smith, A.
  - Snow, Charles
  - Sproule, Harvey

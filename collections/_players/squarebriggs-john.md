@@ -113,10 +113,11 @@ vs:
  - Cameron, John J.
  - Campbell, Alexander
  - Campbell, Colin
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
- - Campbell, Gordon
+ - Campbell, Gordon M.
+ - Campbell, Gordon R.
  - Campbell, Lloyd
  - Cartmell, Elwyn
  - Chesser, A.M.

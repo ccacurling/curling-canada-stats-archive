@@ -394,7 +394,7 @@ vs:
       year: 1947            
       draw: Round Robin(7)  
       score: SK 18 - PE 4   
- - name: Campbell, Gordon   
+ - name: Campbell, Gordon M.
    totals:                  
     - event: Macdonald Brier
       player1:              

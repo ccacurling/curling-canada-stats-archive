@@ -28,9 +28,9 @@ years:
 vs:
  - Andrews, William
  - Anslow, Harold
- - Campbell, Donald
- - Campbell, Duncan
- - Campbell, Gordon
+ - Campbell, Donald A.
+ - Campbell, Duncan A.
+ - Campbell, Gordon M.
  - Coates, Gordon
  - Crocker, Waldo
  - Domock, Karl

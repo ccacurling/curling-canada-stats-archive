@@ -29,7 +29,7 @@ vs:
  - Abbis, Eugene
  - Boivin, Gabriel
  - Brebner, Walter
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
  - Campbell, Lloyd

@@ -52,7 +52,7 @@ vs:
  - Best, Donald
  - Bickle, Warner
  - Cameron, Donald
- - Campbell, Duncan
+ - Campbell, Duncan A.
  - Cobb, Philip
  - Cook, Frank
  - Cruikshank, Russell

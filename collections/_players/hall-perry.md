@@ -132,7 +132,7 @@ vs:
  - Buchanan, Bruce
  - Burns, Montague
  - Cameron, Donald
- - Campbell, Duncan
+ - Campbell, Duncan A.
  - Cartmell, Elwyn
  - Cleveland, Bernard
  - Cobb, Philip

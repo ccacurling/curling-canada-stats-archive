@@ -71,9 +71,9 @@ vs:
  - Brown, Robert
  - Bull, William
  - Burns, Montague
- - Campbell, Donald
- - Campbell, Duncan
- - Campbell, Gordon
+ - Campbell, Donald A.
+ - Campbell, Duncan A.
+ - Campbell, Gordon M.
  - Cartmell, Elwyn
  - Cleveland, Bernard
  - Coates, Gordon

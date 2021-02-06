@@ -102,7 +102,7 @@ vs:
  - Sackrider, Albert
  - Seagram, Campbell
  - Sievert, L.E.
- - Silver, H. St.Clair
+ - Silver, St.Clair
  - Singbusch, Ronald
  - Smith, A.
  - Thibodeau, Leo

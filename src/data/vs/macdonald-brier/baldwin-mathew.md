@@ -302,7 +302,7 @@ vs:
       year: 1958            
       draw: Round Robin(1)  
       score: AB 11 - PE 7   
- - name: Campbell, Donald   
+ - name: Campbell, Donald C.
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -434,7 +434,7 @@ vs:
       year: 1957            
       draw: Round Robin(5)  
       score: SK 7 - AB 8    
- - name: Campbell, Gordon   
+ - name: Campbell, Gordon R.
    totals:                  
     - event: Macdonald Brier
       player1:              

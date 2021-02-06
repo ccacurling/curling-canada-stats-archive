@@ -2,7 +2,7 @@
 title: Warner Bickle Head-to-head
 name: Bickle, Warner
 vs:
- - name: Campbell, Donald   
+ - name: Campbell, Donald A.
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -30,7 +30,7 @@ vs:
       year: 1942            
       draw: Round Robin(4)  
       score: BC 15 - NS 9   
- - name: Campbell, Duncan   
+ - name: Campbell, Duncan A.
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -58,7 +58,7 @@ vs:
       year: 1942            
       draw: Round Robin(2)  
       score: NS 12 - ON 14  
- - name: Campbell, Gordon   
+ - name: Campbell, Gordon M.
    totals:                  
     - event: Macdonald Brier
       player1:              

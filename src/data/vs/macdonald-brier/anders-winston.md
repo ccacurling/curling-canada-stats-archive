@@ -114,7 +114,7 @@ vs:
       year: 1941            
       draw: Round Robin(3)  
       score: MB 11 - NB 3   
- - name: Campbell, Duncan   
+ - name: Campbell, Duncan A.
    totals:                  
     - event: Macdonald Brier
       player1:              

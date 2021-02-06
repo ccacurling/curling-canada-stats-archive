@@ -29,7 +29,7 @@ vs:
  - Avery, Francis
  - Bell, Reginald
  - Bickle, Warner
- - Campbell, Donald
+ - Campbell, Donald A.
  - Carr, John
  - Connolly, Daniel
  - Connolly, Joseph

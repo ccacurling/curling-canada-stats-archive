@@ -28,10 +28,10 @@ years:
 vs:
  - Burge, Wesley
  - Callaghan, Thomas
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
- - Campbell, Gordon
+ - Campbell, Gordon R.
  - Cartmell, Elwyn
  - Cook, Raymond
  - Cross, Rogert

@@ -55,10 +55,10 @@ vs:
  - Cameron, John E.
  - Cameron, John J.
  - Campbell, Colin
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
- - Campbell, Gordon
+ - Campbell, Gordon M.
  - Campbell, Lloyd
  - Chesser, A.M.
  - Coster, James

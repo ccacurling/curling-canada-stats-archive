@@ -86,10 +86,10 @@ vs:
  - Callaghan, Thomas
  - Cameron, Douglas
  - Cameron, James
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
- - Campbell, Gordon
+ - Campbell, Gordon R.
  - Campbell, Lloyd
  - Campbell, Maurice
  - Cartmell, Elwyn

@@ -2,7 +2,7 @@
 title: Harold Anslow Head-to-head
 name: Anslow, Harold
 vs:
- - name: Campbell, Donald   
+ - name: Campbell, Donald A.
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -30,7 +30,7 @@ vs:
       year: 1934            
       draw: Round Robin(1)  
       score: NS 2 - ON 26   
- - name: Campbell, Duncan   
+ - name: Campbell, Duncan A.
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -58,7 +58,7 @@ vs:
       year: 1934            
       draw: Round Robin(1)  
       score: NS 2 - ON 26   
- - name: Campbell, Gordon   
+ - name: Campbell, Gordon M.
    totals:                  
     - event: Macdonald Brier
       player1:              

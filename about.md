@@ -38,6 +38,10 @@ Dave Thomas
 
 ## Changelog
 
+### 2021-02-06
+
+ * Added Macdonald Brier data (1960-1969).
+
 ### 2021-02-02
 
  * Added Macdonald Brier data (1950-1959).

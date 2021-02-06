@@ -2,7 +2,7 @@
 title: William F. Brown Head-to-head
 name: Brown, William F.
 vs:
- - name: Campbell, Donald   
+ - name: Campbell, Donald C.
    totals:                  
     - event: Macdonald Brier
       player1:              

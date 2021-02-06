@@ -74,7 +74,7 @@ vs:
  - Campbell, Colin
  - Campbell, Garnet
  - Campbell, Glen
- - Campbell, Gordon
+ - Campbell, Gordon M.
  - Campbell, Lloyd
  - Chesser, A.M.
  - Cream, Robert

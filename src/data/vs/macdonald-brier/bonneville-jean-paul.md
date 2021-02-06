@@ -114,7 +114,7 @@ vs:
       year: 1951            
       draw: Round Robin(4)  
       score: QC 7 - ON 8    
- - name: Campbell, Gordon   
+ - name: Campbell, Gordon M.
    totals:                  
     - event: Macdonald Brier
       player1:              

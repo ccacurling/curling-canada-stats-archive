@@ -90,9 +90,9 @@ vs:
  - Brower, Edward
  - Brower, John
  - Brown, William
- - Campbell, Donald
- - Campbell, Duncan
- - Campbell, Gordon
+ - Campbell, Donald A.
+ - Campbell, Duncan A.
+ - Campbell, Gordon M.
  - Cartmell, Elwyn
  - Coates, Gordon
  - Condie, Arthur

@@ -48,8 +48,8 @@ vs:
  - Bickle, Warner
  - Brower, John
  - Burns, Montague
- - Campbell, Duncan
- - Campbell, Gordon
+ - Campbell, Duncan A.
+ - Campbell, Gordon M.
  - Carr, John
  - Cleveland, Bernard
  - Colquhoun, Hugh

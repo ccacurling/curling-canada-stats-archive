@@ -213,7 +213,7 @@ vs:
  - Seagram, Campbell
  - Shaw, James
  - Sievert, L.E.
- - Silver, H. St.Clair
+ - Silver, St.Clair
  - Simm, Edward
  - Simon, Albert
  - Simon, A.D.

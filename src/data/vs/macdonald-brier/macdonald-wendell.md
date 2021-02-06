@@ -1198,7 +1198,7 @@ vs:
       year: 1929            
       draw: Round Robin(1)  
       score: NB 10 - NS 8   
- - name: Silver, H. St.Clair
+ - name: Silver, St.Clair   
    totals:                  
     - event: Macdonald Brier
       player1:              

@@ -32,7 +32,7 @@ vs:
  - Beaudry, F.E.
  - Beckett, James
  - Cameron, Donald
- - Campbell, Duncan
+ - Campbell, Duncan A.
  - Cobb, Philip
  - Cruikshank, Russell
  - David, Roland

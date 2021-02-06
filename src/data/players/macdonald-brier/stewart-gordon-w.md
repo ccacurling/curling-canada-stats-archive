@@ -27,7 +27,7 @@ years:
    shots-percent:
 vs:
  - Baldwin, Mathew
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
  - Campbell, Lloyd

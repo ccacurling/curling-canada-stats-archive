@@ -29,7 +29,7 @@ vs:
  - Boivin, Gabriel
  - Brown, Hugh
  - Brown, William F.
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
  - Campbell, Lloyd

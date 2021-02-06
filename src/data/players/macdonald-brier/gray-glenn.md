@@ -52,10 +52,11 @@ vs:
  - Cameron, John E.
  - Cameron, John J.
  - Campbell, Colin
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
- - Campbell, Gordon
+ - Campbell, Gordon M.
+ - Campbell, Gordon R.
  - Cartmell, Elwyn
  - Chesser, A.M.
  - Cook, Raymond

@@ -53,7 +53,7 @@ vs:
  - Beecroft, William
  - Best, Donald
  - Cameron, Donald
- - Campbell, Duncan
+ - Campbell, Duncan A.
  - Colwell, Harold
  - Cox, Charles
  - Crowe, Victor

@@ -50,10 +50,10 @@ vs:
  - Brown, Hugh
  - Brown, William F.
  - Callaghan, Thomas
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
- - Campbell, Gordon
+ - Campbell, Gordon R.
  - Campbell, Lloyd
  - Cartmell, Elwyn
  - Collins, James

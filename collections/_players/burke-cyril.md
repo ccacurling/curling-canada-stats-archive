@@ -30,9 +30,9 @@ vs:
  - Andrews, Philip
  - Black, J.S.
  - Boyce, Arthur
- - Campbell, Donald
- - Campbell, Duncan
- - Campbell, Gordon
+ - Campbell, Donald A.
+ - Campbell, Duncan A.
+ - Campbell, Gordon M.
  - Coates, Gordon
  - Elliott, Frank
  - Ellis, George

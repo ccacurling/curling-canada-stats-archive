@@ -55,7 +55,7 @@ vs:
  - Reesor, Walter
  - Ross, Richard
  - Sievert, L.E.
- - Silver, H. St.Clair
+ - Silver, St.Clair
  - Smith, A.
  - Thompson, William
  - Turner, E.E.

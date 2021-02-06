@@ -52,9 +52,9 @@ vs:
  - Bruce, H.A.
  - Buchanan, Bruce
  - Burke, Cyril
- - Campbell, Donald
- - Campbell, Duncan
- - Campbell, Gordon
+ - Campbell, Donald A.
+ - Campbell, Duncan A.
+ - Campbell, Gordon M.
  - Coates, Gordon
  - Congalton, James
  - Cooke, Lloyd

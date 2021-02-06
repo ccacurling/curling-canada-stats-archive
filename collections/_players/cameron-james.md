@@ -47,7 +47,7 @@ vs:
  - Bauld, Donald
  - Braunstein, Ronald
  - Braunstein, Terrance
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
  - Campbell, Lloyd

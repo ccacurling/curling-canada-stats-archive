@@ -28,9 +28,9 @@ years:
 vs:
  - Avery, Francis
  - Bell, Reginald
- - Campbell, Donald
- - Campbell, Duncan
- - Campbell, Gordon
+ - Campbell, Donald A.
+ - Campbell, Duncan A.
+ - Campbell, Gordon M.
  - Carr, John
  - Connolly, Daniel
  - Connolly, Joseph

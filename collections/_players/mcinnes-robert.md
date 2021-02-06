@@ -28,10 +28,10 @@ years:
 vs:
  - Baldwin, Mathew
  - Burge, Wesley
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
- - Campbell, Gordon
+ - Campbell, Gordon R.
  - Cartmell, Elwyn
  - Collins, James
  - Cross, Rogert

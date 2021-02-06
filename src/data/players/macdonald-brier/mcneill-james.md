@@ -48,9 +48,9 @@ vs:
  - Arthur, Frank
  - Avery, Francis
  - Beecroft, William
- - Campbell, Donald
- - Campbell, Duncan
- - Campbell, Gordon
+ - Campbell, Donald A.
+ - Campbell, Duncan A.
+ - Campbell, Gordon M.
  - Coates, Gordon
  - Cream, Robert
  - Crocker, Waldo

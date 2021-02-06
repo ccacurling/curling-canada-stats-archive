@@ -2,7 +2,7 @@
 title: Thomas Callaghan Head-to-head
 name: Callaghan, Thomas
 vs:
- - name: Campbell, Donald   
+ - name: Campbell, Donald C.
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -86,7 +86,7 @@ vs:
       year: 1954            
       draw: Round Robin(7)  
       score: NO 8 - SK 10   
- - name: Campbell, Gordon   
+ - name: Campbell, Gordon R.
    totals:                  
     - event: Macdonald Brier
       player1:              

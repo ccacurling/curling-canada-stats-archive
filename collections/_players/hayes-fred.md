@@ -27,9 +27,9 @@ years:
    shots-percent:
 vs:
  - Abrams, Jerry
- - Campbell, Donald
- - Campbell, Duncan
- - Campbell, Gordon
+ - Campbell, Donald A.
+ - Campbell, Duncan A.
+ - Campbell, Gordon M.
  - Charron, Mel
  - Coates, Gordon
  - Condie, Arthur

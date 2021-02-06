@@ -72,9 +72,9 @@ vs:
  - Cameron, John E.
  - Cameron, John J.
  - Campbell, Colin
- - Campbell, Donald
- - Campbell, Duncan
- - Campbell, Gordon
+ - Campbell, Donald A.
+ - Campbell, Duncan A.
+ - Campbell, Gordon M.
  - Carr, John
  - Chesser, A.M.
  - Connolly, Daniel

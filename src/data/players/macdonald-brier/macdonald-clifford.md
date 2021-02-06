@@ -47,7 +47,7 @@ vs:
  - Beddoes, Richard
  - Bergmann, John
  - Bird, Richard
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
  - Campbell, Lloyd

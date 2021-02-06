@@ -51,10 +51,10 @@ vs:
  - Burke, Arthur
  - Callaghan, Thomas
  - Cameron, Douglas
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
- - Campbell, Gordon
+ - Campbell, Gordon R.
  - Carter, Lawrence
  - Cartmell, Elwyn
  - Chabassol, Sidney

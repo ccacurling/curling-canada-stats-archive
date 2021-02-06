@@ -30,7 +30,7 @@ vs:
       year: 1954            
       draw: Round Robin(8)  
       score: NO 7 - NS 12   
- - name: Campbell, Donald   
+ - name: Campbell, Donald C.
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -114,7 +114,7 @@ vs:
       year: 1954            
       draw: Round Robin(4)  
       score: NS 11 - SK 10  
- - name: Campbell, Gordon   
+ - name: Campbell, Gordon R.
    totals:                  
     - event: Macdonald Brier
       player1:              

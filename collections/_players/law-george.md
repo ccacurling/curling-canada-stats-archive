@@ -48,8 +48,8 @@ vs:
  - Bell, Reginald
  - Bickle, Warner
  - Brower, John
- - Campbell, Duncan
- - Campbell, Gordon
+ - Campbell, Duncan A.
+ - Campbell, Gordon M.
  - Carr, John
  - Connolly, Daniel
  - Connolly, Joseph

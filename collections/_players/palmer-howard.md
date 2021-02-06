@@ -95,11 +95,11 @@ vs:
  - Burke, Cyril
  - Cameron, Donald
  - Campbell, Alexander
- - Campbell, Donald
- - Campbell, Duncan
+ - Campbell, Donald A.
+ - Campbell, Duncan A.
  - Campbell, Garnet
  - Campbell, Glen
- - Campbell, Gordon
+ - Campbell, Gordon M.
  - Campbell, Lloyd
  - Coates, Gordon
  - Cobb, Philip

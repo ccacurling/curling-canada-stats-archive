@@ -54,7 +54,7 @@ vs:
  - Brown, William F.
  - Cameron, Douglas
  - Cameron, James
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
  - Campbell, Lloyd

@@ -33,7 +33,7 @@ vs:
  - Cameron, John E.
  - Cameron, John J.
  - Campbell, Colin
- - Campbell, Gordon
+ - Campbell, Gordon M.
  - Chesser, A.M.
  - Dyke, Frederick
  - Ferguson, Huntley

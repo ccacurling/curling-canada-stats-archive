@@ -120,9 +120,9 @@ vs:
  - Burke, Cyril
  - Cameron, John J.
  - Campbell, Colin
- - Campbell, Donald
- - Campbell, Duncan
- - Campbell, Gordon
+ - Campbell, Donald A.
+ - Campbell, Duncan A.
+ - Campbell, Gordon M.
  - Chesser, A.M.
  - Coates, Gordon
  - Condie, Arthur

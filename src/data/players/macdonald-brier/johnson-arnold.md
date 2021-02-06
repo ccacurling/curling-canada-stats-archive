@@ -55,7 +55,7 @@ vs:
  - Rollo, Donald
  - Ross, Richard
  - Sievert, L.E.
- - Silver, H. St.Clair
+ - Silver, St.Clair
  - Singbusch, Ronald
  - Smith, A.
  - Thompson, William

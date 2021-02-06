@@ -29,10 +29,10 @@ vs:
  - Baldwin, Mathew
  - Burge, Wesley
  - Callaghan, Thomas
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
- - Campbell, Gordon
+ - Campbell, Gordon R.
  - Collins, James
  - Cook, Raymond
  - Cross, Rogert

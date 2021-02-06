@@ -49,7 +49,7 @@ vs:
  - Baldwin, Mathew
  - Bentley, John
  - Cameron, James
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
  - Campbell, James

@@ -72,7 +72,7 @@ vs:
  - Brown, William F.
  - Bruce, H.A.
  - Buchanan, Bruce
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
  - Campbell, Lloyd

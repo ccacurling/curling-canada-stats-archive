@@ -69,11 +69,13 @@ vs:
  - Burge, Wesley
  - Callaghan, Thomas
  - Campbell, Alexander
- - Campbell, Donald
- - Campbell, Duncan
+ - Campbell, Donald A.
+ - Campbell, Donald C.
+ - Campbell, Duncan A.
  - Campbell, Garnet
  - Campbell, Glen
- - Campbell, Gordon
+ - Campbell, Gordon M.
+ - Campbell, Gordon R.
  - Campbell, Lloyd
  - Cartmell, Elwyn
  - Charron, Mel

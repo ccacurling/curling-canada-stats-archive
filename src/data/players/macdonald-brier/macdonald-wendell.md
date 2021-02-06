@@ -93,10 +93,10 @@ vs:
  - Butler, Richard
  - Cairns, Charles
  - Callaghan, Thomas
- - Campbell, Donald
+ - Campbell, Donald C.
  - Campbell, Garnet
  - Campbell, Glen
- - Campbell, Gordon
+ - Campbell, Gordon R.
  - Campbell, Lloyd
  - Carew, Frank
  - Cartmell, Elwyn
@@ -194,7 +194,7 @@ vs:
  - Ross, Richard
  - Samson, Olivier
  - Sievert, L.E.
- - Silver, H. St.Clair
+ - Silver, St.Clair
  - Singbusch, Ronald
  - Smith, A.
  - Smith, Walter

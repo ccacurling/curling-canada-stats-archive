@@ -86,7 +86,7 @@ vs:
       year: 1955            
       draw: Round Robin(8)  
       score: AB 17 - QC 5   
- - name: Campbell, Donald   
+ - name: Campbell, Donald C.
    totals:                  
     - event: Macdonald Brier
       player1:              

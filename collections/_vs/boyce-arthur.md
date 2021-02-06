@@ -30,7 +30,7 @@ vs:
       year: 1935            
       draw: Round Robin(4)  
       score: MB 10 - NS 9   
- - name: Campbell, Donald   
+ - name: Campbell, Donald A.
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -58,7 +58,7 @@ vs:
       year: 1935            
       draw: Round Robin(1)  
       score: ON 13 - MB 6   
- - name: Campbell, Duncan   
+ - name: Campbell, Duncan A.
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -86,7 +86,7 @@ vs:
       year: 1935            
       draw: Round Robin(1)  
       score: ON 13 - MB 6   
- - name: Campbell, Gordon   
+ - name: Campbell, Gordon M.
    totals:                  
     - event: Macdonald Brier
       player1:              

@@ -33,7 +33,7 @@ vs:
  - Beckett, James
  - Best, Donald
  - Cameron, Donald
- - Campbell, Duncan
+ - Campbell, Duncan A.
  - Cobb, Philip
  - Cruikshank, Russell
  - David, Roland
