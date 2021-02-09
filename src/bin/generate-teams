@@ -1,0 +1,74 @@
+#!/usr/bin/env ruby
+require 'yaml'
+require 'fileutils'
+
+teamnames = {
+  # Province & Territories
+  "AB" => "Alberta",
+  "BC" => "British Columbia",
+  "MB" => "Manitoba",
+  "NB" => "New Brunswick",
+  "NL" => "Newfoundland and Labrador",
+  "NS" => "Nova Scotia",
+  "NT" => "Northwest Territories",
+  "NU" => "Nunavut",
+  "ON" => "Ontario",
+  "PE" => "Prince Edward Island",
+  "QC" => "Quebec",
+  "SK" => "Saskatchewan",
+  "YT" => "Yukon",
+  # Pseudo-province/territory
+  "TR" => "Yukon/Northwest Territories",
+  "NO" => "Northern Ontario",
+  # Country
+  "CA" => "Team Canada",
+  # Cities
+  "TO" => "Toronto",
+  "MO" => "Montreal",
+  # Other
+  "WC" => "Wild Card",
+}
+
+events = {
+  'hearts' => 'Tournament of Hearts',
+}
+
+project_root = File.expand_path('../..', __dir__)
+config = YAML.load_file(project_root + '/_config.yml')
+failed = false
+
+config['collections'].each {
+  |collection, options|
+  if collection.end_with?('-teams')
+    event_collection = collection.gsub('-teams', '')
+    puts 'Processing "' + event_collection + '" teams...'
+
+    team_dest = project_root + '/collections/_' + collection
+    # Clean up existing data
+    FileUtils.rm_rf(team_dest)
+    FileUtils.mkdir_p(team_dest)
+
+    Dir.glob(project_root + '/collections/_' + event_collection + '/*.html').sort.each do |event_file|
+      $stdout.write("\e[2K\r" + event_file.split('/').last)
+      event = YAML.load_file(event_file)
+      event['teams'].each do |team|
+        if !teamnames.key?(team['abbr'])
+          puts "\n[ERROR] No entry for \"" + team['abbr'] + "\"\n"
+          failed = true
+        else
+          event_name = event_collection.split('-').map(&:capitalize).join(' ')
+          event_name = events[event_collection] if events.key?(event_collection)
+          team_data = {
+            'title' => teamnames[team['abbr']] + ' - ' + event_name,
+            'abbr' => team['abbr']
+          }
+          team_file = team_dest + '/' + team['abbr'].downcase + '.html'
+          File.write(team_file, team_data.to_yaml + '---')
+        end
+      end
+    end
+    print "\n\n"
+  end
+}
+
+exit(1) if failed

@@ -19,6 +19,9 @@ jobs:
     - name: Generate player and vs files
       run: src/bin/generate
 
+    - name: Generate team files
+      run: src/bin/generate-teams
+
     - uses:  helaili/jekyll-action@v2
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
