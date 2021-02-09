@@ -101,7 +101,7 @@ class Players
 end
 
 project_root = File.expand_path('../..', __dir__)
-collections = project_root +  '/collections/'
+collections = project_root + '/collections/'
 data = project_root + '/src/data/'
 
 Dir.glob(data + '*/').sort.each do |type_dir|
@@ -112,7 +112,8 @@ Dir.glob(data + '*/').sort.each do |type_dir|
   merge_obj = Object.const_get(type.capitalize).new
 
   # Clean up existing data
-  Dir.glob(type_dest + '/*').each { |file| File.delete(file) }
+  FileUtils.rm_rf(type_dest)
+  FileUtils.mkdir_p(type_dest)
 
   Dir.glob(type_dir + '/*/*.md').sort.each do |new_file|
     $stdout.write("\e[2K\r" + new_file.split('/').last(2).join('/'))

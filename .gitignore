@@ -1,3 +1,5 @@
 _site
 .sass-cache
 .jekyll-metadata
+collections/_players/*.md
+collections/_vs/*.md
