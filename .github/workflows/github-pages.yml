@@ -1,4 +1,4 @@
-name: Testing the GitHub Pages publication
+name: Generate files and deploy to GitHub Pages
 
 on:
   push:
