@@ -1,0 +1,61 @@
+---
+title: Robin Wilber Head-to-head
+name: Wilber, Robin
+vs:
+ - name: Wyatt, Douglas     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:        
+        team: 'NS'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      player2:          
+        team: 'SK'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1972            
+      draw: Round Robin(2)  
+      score: SK 9 - NS 7    
+ - name: Zoerb, Dale        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:        
+        team: 'NS'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      player2:        
+        team: 'SK'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1972            
+      draw: Round Robin(2)  
+      score: SK 9 - NS 7    
+---

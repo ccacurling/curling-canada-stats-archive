@@ -62,7 +62,7 @@ vs:
  - Stanhope, Donald
  - Stone, Reginald
  - Stone, Roy
- - Ursel, James
+ - Ursel, Jim
  - Ursuliak, Wally
  - Werner, Raymond
  - Wilson, James

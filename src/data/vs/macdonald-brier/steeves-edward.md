@@ -8,10 +8,10 @@ vs:
       player1:              
         percent:            
         wins: 1             
-        losses: 0           
+        losses: 1           
       player2:              
         percent:            
-        wins: 0             
+        wins: 1             
         losses: 1           
    games:
     - player1:         
@@ -30,6 +30,22 @@ vs:
       year: 1969            
       draw: Round Robin(4)  
       score: NL 8 - NB 9    
+    - player1:         
+        team: 'NB'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:         
+        team: 'NL'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(8)  
+      score: NL 11 - NB 7   
  - name: Storey, Frederick  
    totals:                  
     - event: Macdonald Brier
@@ -142,6 +158,34 @@ vs:
       year: 1969            
       draw: Round Robin(2)  
       score: QC 8 - NB 7    
+ - name: Tainsh, William    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'NB'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:        
+        team: 'AB'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(11) 
+      score: NB 9 - AB 12   
  - name: Thomas, Robert     
    totals:                  
     - event: Macdonald Brier
@@ -198,6 +242,34 @@ vs:
       year: 1969            
       draw: Round Robin(9)  
       score: NO 8 - NB 6    
+ - name: Tod, Thomas        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'NB'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:          
+        team: 'NO'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(6)  
+      score: NB 7 - NO 8    
  - name: Warren, Thomas     
    totals:                  
     - event: Macdonald Brier
@@ -254,6 +326,34 @@ vs:
       year: 1969            
       draw: Round Robin(6)  
       score: ON 10 - NB 11  
+ - name: Whitfield, Carl    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'NB'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:          
+        team: 'NO'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(6)  
+      score: NB 7 - NO 8    
  - name: Wiggington, Merrill
    totals:                  
     - event: Macdonald Brier
@@ -282,6 +382,34 @@ vs:
       year: 1969            
       draw: Round Robin(1)  
       score: NB 8 - PE 11   
+ - name: Wood, Bryan        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'NB'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:        
+        team: 'MB'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(5)  
+      score: NB 4 - MB 8    
  - name: Wood, Edgar        
    totals:                  
     - event: Macdonald Brier

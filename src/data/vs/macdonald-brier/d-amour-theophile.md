@@ -2298,7 +2298,7 @@ vs:
       year: 1948            
       draw: Round Robin(8)  
       score: BC 14 - NB 6   
- - name: Ursel, James       
+ - name: Ursel, Jim         
    totals:                  
     - event: Macdonald Brier
       player1:              

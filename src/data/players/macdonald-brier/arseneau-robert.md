@@ -87,7 +87,7 @@ vs:
  - Llewellyn, Arnold
  - Lunn, Frederick
  - MacCharles, George
- - MacDonald, Kenneth
+ - MacDonald, Ken
  - MacKenzie, Kenneth
  - Mackey, Donald
  - Manning, Ralph

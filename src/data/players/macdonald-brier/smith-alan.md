@@ -119,7 +119,7 @@ vs:
  - Carey, Joseph
  - Carr, Patrick
  - Carson, Earl
- - Chernoff, Michael
+ - Chernoff, Mike
  - Claney, Alfred
  - Colbourne, Frederick
  - Conrad, David
@@ -243,7 +243,7 @@ vs:
  - Trimble, Edward
  - Tucker, Jack
  - Turnbull, Raymond
- - Ursel, James
+ - Ursel, Jim
  - Ursuliak, Wally
  - Waite, James
  - Walker, Glen

@@ -32,7 +32,7 @@ vs:
  - Britton, Frederick
  - Buchan, Kenneth
  - Campbell, Donald R.
- - Chernoff, Michael
+ - Chernoff, Mike
  - Dagg, Lyall
  - Giannou, George
  - Hebert, Leo

@@ -2342,7 +2342,7 @@ vs:
       year: 1956            
       draw: Round Robin(8)  
       score: NL 6 - NB 13   
- - name: Ursel, James       
+ - name: Ursel, Jim         
    totals:                  
     - event: Macdonald Brier
       player1:              

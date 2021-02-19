@@ -309,7 +309,7 @@ vs:
  - Trites, Horace
  - Turner, Alvin
  - Turney, James
- - Ursel, James
+ - Ursel, Jim
  - Ursuliak, Wally
  - Vail, Kenneth
  - Walsh, William

@@ -160,7 +160,7 @@ vs:
  - Syverson, Olie
  - Taite, John
  - Timmerman, William
- - Ursel, James
+ - Ursel, Jim
  - Ursuliak, Wally
  - Vallas, Murray
  - Ward, William

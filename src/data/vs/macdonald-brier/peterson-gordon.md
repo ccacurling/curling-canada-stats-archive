@@ -802,7 +802,7 @@ vs:
       year: 1969            
       draw: Round Robin(6)  
       score: SK 11 - NO 5   
- - name: Ursel, James       
+ - name: Ursel, Jim         
    totals:                  
     - event: Macdonald Brier
       player1:              

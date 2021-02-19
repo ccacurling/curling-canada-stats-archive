@@ -682,7 +682,7 @@ vs:
       year: 1960            
       draw: Round Robin(9)  
       score: NL 5 - SK 21   
- - name: Ursel, James       
+ - name: Ursel, Jim         
    totals:                  
     - event: Macdonald Brier
       player1:              

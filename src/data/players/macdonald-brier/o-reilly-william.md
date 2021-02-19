@@ -33,7 +33,7 @@ vs:
  - Buchan, Kenneth
  - Burke, Arthur
  - Campbell, Donald R.
- - Chernoff, Michael
+ - Chernoff, Mike
  - Dagg, Lyall
  - Dillon, Robert
  - Hebert, Leo

@@ -2,6 +2,34 @@
 title: Eugene Mattatall Head-to-head
 name: Mattatall, Eugene
 vs:
+ - name: Mazinke, Harvey    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'SK'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(1)  
+      score: NS 6 - SK 7    
  - name: McDonald, Robert   
    totals:                  
     - event: Macdonald Brier
@@ -30,6 +58,118 @@ vs:
       year: 1969            
       draw: Round Robin(6)  
       score: NS 8 - BC 9    
+ - name: Moon, David        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'QC'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(6)  
+      score: QC 7 - NS 11   
+ - name: Mousseau, Arthur   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'NO'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(9)  
+      score: NS 7 - NO 5    
+ - name: Narduzzi, Richard  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NL'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(5)  
+      score: NL 6 - NS 12   
+ - name: Noble, James       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'NL'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(5)  
+      score: NL 6 - NS 12   
  - name: Northcott, Ronald  
    totals:                  
     - event: Macdonald Brier
@@ -58,6 +198,34 @@ vs:
       year: 1969            
       draw: Round Robin(4)  
       score: AB 15 - NS 7   
+ - name: Peckham, Gerald    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'BC'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(11) 
+      score: NS 11 - BC 10  
  - name: Peterson, Gordon   
    totals:                  
     - event: Macdonald Brier
@@ -86,6 +254,34 @@ vs:
       year: 1969            
       draw: Round Robin(10) 
       score: NO 16 - NS 8   
+ - name: Pettapiece, James  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'MB'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(3)  
+      score: NS 6 - MB 10   
  - name: Pickering, Robert  
    totals:                  
     - event: Macdonald Brier
@@ -170,6 +366,34 @@ vs:
       year: 1969            
       draw: Round Robin(9)  
       score: NS 7 - MB 8    
+ - name: Romkey, David      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'NB'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(8)  
+      score: NB 7 - NS 6    
  - name: Roy, William       
    totals:                  
     - event: Macdonald Brier
@@ -198,6 +422,34 @@ vs:
       year: 1969            
       draw: Round Robin(5)  
       score: NL 12 - NS 9   
+ - name: Savage, Paul       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(7)  
+      score: ON 10 - NS 9   
  - name: Sherba, Peter      
    totals:                  
     - event: Macdonald Brier
@@ -315,12 +567,12 @@ vs:
     - event: Macdonald Brier
       player1:              
         percent:            
-        wins: 0             
+        wins: 1             
         losses: 1           
       player2:              
         percent:            
         wins: 1             
-        losses: 0           
+        losses: 1           
    games:
     - player1:         
         team: 'NS'     
@@ -338,6 +590,22 @@ vs:
       year: 1969            
       draw: Round Robin(4)  
       score: AB 15 - NS 7   
+    - player1:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'BC'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(11) 
+      score: NS 11 - BC 10  
  - name: Steeves, Edward    
    totals:                  
     - event: Macdonald Brier
@@ -562,6 +830,90 @@ vs:
       year: 1969            
       draw: Round Robin(10) 
       score: NO 16 - NS 8   
+ - name: Thompson, Robert   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'ON'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(7)  
+      score: ON 10 - NS 9   
+ - name: Tucker, Jack       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'BC'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(11) 
+      score: NS 11 - BC 10  
+ - name: Ward, James        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NL'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(5)  
+      score: NL 6 - NS 12   
  - name: Warren, Thomas     
    totals:                  
     - event: Macdonald Brier
@@ -590,6 +942,90 @@ vs:
       year: 1969            
       draw: Round Robin(5)  
       score: NL 12 - NS 9   
+ - name: Watchorn, Mel      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(4)  
+      score: NS 10 - AB 6   
+ - name: Watchorn, Merv     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'AB'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(4)  
+      score: NS 10 - AB 6   
+ - name: Watchorn, Terry    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'AB'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(4)  
+      score: NS 10 - AB 6   
  - name: Weisz, Gary        
    totals:                  
     - event: Macdonald Brier
@@ -618,7 +1054,7 @@ vs:
       year: 1969            
       draw: Round Robin(7)  
       score: NS 10 - ON 9   
- - name: Wiggington, Merrill
+ - name: Werenich, Ed       
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -629,6 +1065,34 @@ vs:
         percent:            
         wins: 1             
         losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'ON'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(7)  
+      score: ON 10 - NS 9   
+ - name: Wiggington, Merrill
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 1           
    games:
     - player1:         
         team: 'NS'     
@@ -646,6 +1110,78 @@ vs:
       year: 1969            
       draw: Round Robin(2)  
       score: NS 7 - PE 8    
+    - player1:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'PE'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(2)  
+      score: PE 4 - NS 12   
+ - name: Wiggins, Douglas   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'NB'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(8)  
+      score: NB 7 - NS 6    
+ - name: Wong, Peter        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NO'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(9)  
+      score: NS 7 - NO 5    
  - name: Wood, Edgar        
    totals:                  
     - event: Macdonald Brier

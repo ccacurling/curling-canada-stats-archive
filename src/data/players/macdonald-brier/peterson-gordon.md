@@ -110,7 +110,7 @@ vs:
  - Sully, Alan
  - Taite, John
  - Thomas, Robert
- - Ursel, James
+ - Ursel, Jim
  - Ursuliak, Wally
  - Warren, Thomas
  - Weisz, Gary

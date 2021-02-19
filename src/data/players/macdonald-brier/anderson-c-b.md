@@ -50,7 +50,7 @@ vs:
  - Shaw, James
  - Smith, Logan
  - Stewart, George
- - Stewart, Gordon
+ - Stewart, Gordon(AB)
  - Stewart, Lawrence
  - Stewart, Orwell
  - Weyman, Hugh

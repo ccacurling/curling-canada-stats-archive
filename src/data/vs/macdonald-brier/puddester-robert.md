@@ -366,7 +366,7 @@ vs:
       year: 1962            
       draw: Round Robin(9)  
       score: NL 4 - NB 27   
- - name: Ursel, James       
+ - name: Ursel, Jim         
    totals:                  
     - event: Macdonald Brier
       player1:              

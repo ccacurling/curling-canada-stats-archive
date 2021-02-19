@@ -58,6 +58,34 @@ vs:
       year: 1969            
       draw: Round Robin(7)  
       score: BC 6 - PE 5    
+ - name: Somers, Dale       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'BC'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:          
+        team: 'NB'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(7)  
+      score: NB 8 - BC 7    
  - name: Sparkes, Bernie    
    totals:                  
     - event: Macdonald Brier
@@ -254,6 +282,34 @@ vs:
       year: 1969            
       draw: Round Robin(8)  
       score: BC 10 - QC 9   
+ - name: Tetley, William    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'BC'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:          
+        team: 'NO'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(5)  
+      score: BC 12 - NO 13  
  - name: Thomas, Robert     
    totals:                  
     - event: Macdonald Brier
@@ -310,6 +366,62 @@ vs:
       year: 1969            
       draw: Round Robin(4)  
       score: NO 4 - BC 10   
+ - name: Van Wassenhove, Reginald
+   totals:                       
+    - event: Macdonald Brier     
+      player1:                   
+        percent:                 
+        wins: 1                  
+        losses: 0                
+      player2:                   
+        percent:                 
+        wins: 0                  
+        losses: 1                
+   games:
+    - player1:         
+        team: 'BC'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:        
+        team: 'AB'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(3)  
+      score: AB 7 - BC 16   
+ - name: Walling, John      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:         
+        team: 'BC'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      player2:        
+        team: 'QC'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(6)  
+      score: BC 9 - QC 6    
  - name: Warren, Thomas     
    totals:                  
     - event: Macdonald Brier
@@ -394,6 +506,34 @@ vs:
       year: 1969            
       draw: Round Robin(7)  
       score: BC 6 - PE 5    
+ - name: Wood, Bryan        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'BC'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:        
+        team: 'MB'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(11) 
+      score: BC 5 - MB 11   
  - name: Wood, Edgar        
    totals:                  
     - event: Macdonald Brier

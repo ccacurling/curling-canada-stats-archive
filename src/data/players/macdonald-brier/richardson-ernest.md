@@ -116,7 +116,7 @@ vs:
  - Cape, Gordon
  - Carter, Lawrence
  - Chabassol, Sidney
- - Chernoff, Michael
+ - Chernoff, Mike
  - Colbourne, Frederick
  - Coleman, Barry
  - Corkey, Joseph
@@ -247,7 +247,7 @@ vs:
  - Taite, John
  - Tipping, Edward
  - Tulley, James
- - Ursel, James
+ - Ursel, Jim
  - Ursuliak, Wally
  - Wark, Darwin
  - Werner, Raymond

@@ -113,7 +113,7 @@ vs:
  - Storey, Frederick
  - Taite, John
  - Tulley, James
- - Ursel, James
+ - Ursel, Jim
  - Ursuliak, Wally
  - Werner, Raymond
 ---

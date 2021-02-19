@@ -75,7 +75,7 @@ vs:
  - Cameron, Douglas
  - Campbell, Donald R.
  - Cape, Gordon
- - Chernoff, Michael
+ - Chernoff, Mike
  - Colbourne, Frederick
  - Corkey, Joseph
  - Dagg, Lyall
@@ -157,7 +157,7 @@ vs:
  - Storey, Frederick
  - Taite, John
  - Tulley, James
- - Ursel, James
+ - Ursel, Jim
  - Ursuliak, Wally
  - Werner, Raymond
  - Wilson, James

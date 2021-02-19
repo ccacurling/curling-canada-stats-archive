@@ -224,7 +224,7 @@ vs:
  - Smith, Logan
  - St.Amand, Edmond
  - Stewart, George
- - Stewart, Gordon
+ - Stewart, Gordon(AB)
  - Stewart, Lawrence
  - Stewart, Orwell
  - Stuart, William

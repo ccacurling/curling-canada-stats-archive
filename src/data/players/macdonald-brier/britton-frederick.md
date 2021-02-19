@@ -32,7 +32,7 @@ vs:
  - Buchan, Kenneth
  - Burke, Arthur
  - Campbell, Donald R.
- - Chernoff, Michael
+ - Chernoff, Mike
  - Dillon, Robert
  - Giannou, George
  - Hudson, Bruce

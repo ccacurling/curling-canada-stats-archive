@@ -1110,7 +1110,7 @@ vs:
       year: 1953            
       draw: Round Robin(1)  
       score: BC 14 - QC 5   
- - name: Ursel, James       
+ - name: Ursel, Jim         
    totals:                  
     - event: Macdonald Brier
       player1:              

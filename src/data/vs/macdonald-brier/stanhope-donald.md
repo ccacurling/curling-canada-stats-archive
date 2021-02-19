@@ -142,7 +142,7 @@ vs:
       year: 1961            
       draw: Round Robin(6)  
       score: NS 11 - NL 8   
- - name: Ursel, James       
+ - name: Ursel, Jim         
    totals:                  
     - event: Macdonald Brier
       player1:              

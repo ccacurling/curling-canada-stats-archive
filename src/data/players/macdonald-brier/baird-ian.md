@@ -72,7 +72,7 @@ vs:
  - Burke, Arthur
  - Cameron, Douglas
  - Cape, Gordon
- - Chernoff, Michael
+ - Chernoff, Mike
  - Corkey, Joseph
  - Dagg, Lyall
  - Dillon, George

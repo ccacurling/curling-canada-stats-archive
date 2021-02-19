@@ -2,7 +2,7 @@
 title: Donald R. Campbell Head-to-head
 name: Campbell, Donald R.
 vs:
- - name: Chernoff, Michael  
+ - name: Chernoff, Mike     
    totals:                  
     - event: Macdonald Brier
       player1:              

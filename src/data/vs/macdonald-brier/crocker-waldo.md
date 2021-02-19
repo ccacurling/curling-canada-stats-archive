@@ -1094,7 +1094,7 @@ vs:
       year: 1934            
       draw: Round Robin(5)  
       score: NB 14 - AB 13  
- - name: Stewart, Gordon    
+ - name: Stewart, Gordon(AB)
    totals:                  
     - event: Macdonald Brier
       player1:              

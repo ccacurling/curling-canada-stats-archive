@@ -95,7 +95,7 @@ vs:
  - Sievert, Edward
  - Smith, Logan
  - Stewart, George
- - Stewart, Gordon
+ - Stewart, Gordon(AB)
  - Stewart, Lawrence
  - Stewart, Orwell
  - Stone, Reginald

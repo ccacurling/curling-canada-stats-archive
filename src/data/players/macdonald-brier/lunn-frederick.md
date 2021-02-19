@@ -46,7 +46,7 @@ vs:
  - Knudson, Elmer
  - Knudson, Gerhard
  - Little, Gordon
- - MacDonald, Kenneth
+ - MacDonald, Ken
  - MacKenzie, Kenneth
  - Manning, Ronald
  - Martel, Harold

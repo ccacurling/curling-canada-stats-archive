@@ -87,7 +87,7 @@ vs:
  - Lunn, Frederick
  - Lyons, Peter
  - MacCharles, George
- - MacDonald, Kenneth
+ - MacDonald, Ken
  - MacInnes, Earl
  - MacKenzie, Kenneth
  - MacNevin, Elmer

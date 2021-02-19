@@ -51,7 +51,7 @@ vs:
  - Buchan, Kenneth
  - Burke, Arthur
  - Cameron, Douglas
- - Chernoff, Michael
+ - Chernoff, Mike
  - Dagg, Lyall
  - Dillon, George
  - Dillon, Robert

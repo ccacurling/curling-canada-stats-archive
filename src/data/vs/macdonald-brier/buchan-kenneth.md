@@ -186,7 +186,7 @@ vs:
       year: 1969            
       draw: Round Robin(9)  
       score: ON 9 - QC 8    
- - name: Chernoff, Michael  
+ - name: Chernoff, Mike     
    totals:                  
     - event: Macdonald Brier
       player1:              

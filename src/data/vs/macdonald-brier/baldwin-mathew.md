@@ -58,6 +58,62 @@ vs:
       year: 1956            
       draw: Round Robin(4)  
       score: BC 6 - AB 7    
+ - name: Bordage, Paul      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(1)  
+      score: NB 7 - AB 13   
+ - name: Bowering, Lester   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'NL'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(6)  
+      score: NL 8 - AB 10   
  - name: Braunstein, Ronald 
    totals:                  
     - event: Macdonald Brier
@@ -352,10 +408,10 @@ vs:
       player1:              
         percent:            
         wins: 2             
-        losses: 0           
+        losses: 1           
       player2:              
         percent:            
-        wins: 0             
+        wins: 1             
         losses: 2           
    games:
     - player1:          
@@ -390,6 +446,22 @@ vs:
       year: 1957            
       draw: Round Robin(5)  
       score: SK 7 - AB 8    
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'SK'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(2)  
+      score: SK 14 - AB 9   
  - name: Campbell, Glen     
    totals:                  
     - event: Macdonald Brier
@@ -518,6 +590,62 @@ vs:
       year: 1958            
       draw: Round Robin(8)  
       score: AB 12 - QC 4   
+ - name: Carr, Patrick      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'BC'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(3)  
+      score: AB 7 - BC 16   
+ - name: Carter, Douglas    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'NS'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(7)  
+      score: NS 6 - AB 11   
  - name: Cartmell, Elwyn    
    totals:                  
     - event: Macdonald Brier
@@ -546,6 +674,34 @@ vs:
       year: 1954            
       draw: Round Robin(6)  
       score: AB 11 - BC 8   
+ - name: Charlebois, Robert 
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(4)  
+      score: AB 7 - ON 11   
  - name: Clogg, Gordon      
    totals:                  
     - event: Macdonald Brier
@@ -602,6 +758,34 @@ vs:
       year: 1958            
       draw: Round Robin(11) 
       score: NS 6 - AB 10   
+ - name: Cole, Robert       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NL'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(6)  
+      score: NL 8 - AB 10   
  - name: Cook, Raymond      
    totals:                  
     - event: Macdonald Brier
@@ -776,10 +960,10 @@ vs:
       player1:              
         percent:            
         wins: 1             
-        losses: 0           
+        losses: 1           
       player2:              
         percent:            
-        wins: 0             
+        wins: 1             
         losses: 1           
    games:
     - player1:          
@@ -798,6 +982,22 @@ vs:
       year: 1957            
       draw: Round Robin(11) 
       score: MB 4 - AB 7    
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'MB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(5)  
+      score: AB 5 - MB 6    
  - name: Duguid, Lorne      
    totals:                  
     - event: Macdonald Brier
@@ -854,6 +1054,34 @@ vs:
       year: 1958            
       draw: Round Robin(5)  
       score: BC 8 - AB 12   
+ - name: Ellis, Kenneth     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NL'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(6)  
+      score: NL 8 - AB 10   
  - name: Everett, Kenneth   
    totals:                  
     - event: Macdonald Brier
@@ -926,6 +1154,34 @@ vs:
       year: 1958            
       draw: Round Robin(9)  
       score: NL 5 - AB 10   
+ - name: Fisher, Thomas     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'QC'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(11) 
+      score: QC 6 - AB 9    
  - name: Flemming, Harry    
    totals:                  
     - event: Macdonald Brier
@@ -954,6 +1210,34 @@ vs:
       year: 1958            
       draw: Round Robin(6)  
       score: AB 12 - NB 4   
+ - name: Ford, Gary         
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'SK'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(2)  
+      score: SK 14 - AB 9   
  - name: Foster, Henry      
    totals:                  
     - event: Macdonald Brier
@@ -1010,6 +1294,34 @@ vs:
       year: 1954            
       draw: Round Robin(6)  
       score: AB 11 - BC 8   
+ - name: Fulton, Donald     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'NS'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(7)  
+      score: NS 6 - AB 11   
  - name: Gardiner, Sydney   
    totals:                  
     - event: Macdonald Brier
@@ -1066,6 +1378,34 @@ vs:
       year: 1956            
       draw: Round Robin(3)  
       score: AB 12 - NL 7   
+ - name: Gillard, Arthur    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'NB'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(1)  
+      score: NB 7 - AB 13   
  - name: Glinz, Gerald      
    totals:                  
     - event: Macdonald Brier
@@ -1579,12 +1919,12 @@ vs:
     - event: Macdonald Brier
       player1:              
         percent:            
-        wins: 0             
+        wins: 1             
         losses: 1           
       player2:              
         percent:            
         wins: 1             
-        losses: 0           
+        losses: 1           
    games:
     - player1:          
         team: 'AB'      
@@ -1602,6 +1942,22 @@ vs:
       year: 1956            
       draw: Round Robin(5)  
       score: NS 10 - AB 9   
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(7)  
+      score: NS 6 - AB 11   
  - name: Howell, Wilbert    
    totals:                  
     - event: Macdonald Brier
@@ -1674,6 +2030,34 @@ vs:
       year: 1956            
       draw: Round Robin(9)  
       score: NO 11 - AB 7   
+ - name: Hunter, Roderick   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'MB'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(5)  
+      score: AB 5 - MB 6    
  - name: Hutchingame, Arthur
    totals:                  
     - event: Macdonald Brier
@@ -1814,6 +2198,34 @@ vs:
       year: 1956            
       draw: Round Robin(4)  
       score: BC 6 - AB 7    
+ - name: Kassner, David     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'PE'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(9)  
+      score: AB 11 - PE 10  
  - name: Kent, Robert       
    totals:                  
     - event: Macdonald Brier
@@ -1842,6 +2254,34 @@ vs:
       year: 1954            
       draw: Round Robin(7)  
       score: AB 20 - NL 6   
+ - name: Keys, John         
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'SK'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(2)  
+      score: SK 14 - AB 9   
  - name: Kitson, Leslie     
    totals:                  
     - event: Macdonald Brier
@@ -1870,6 +2310,34 @@ vs:
       year: 1954            
       draw: Round Robin(6)  
       score: AB 11 - BC 8   
+ - name: Knudson, Eric      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'NO'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(10) 
+      score: AB 10 - NO 14  
  - name: Kostick, John      
    totals:                  
     - event: Macdonald Brier
@@ -2038,6 +2506,34 @@ vs:
       year: 1956            
       draw: Round Robin(1)  
       score: ON 9 - AB 4    
+ - name: Leger, Murray      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'NB'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(1)  
+      score: NB 7 - AB 13   
  - name: Leibel, Gary       
    totals:                  
     - event: Macdonald Brier
@@ -2094,6 +2590,34 @@ vs:
       year: 1956            
       draw: Round Robin(2)  
       score: AB 12 - PE 11  
+ - name: Lilly, Raymond     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'ON'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(4)  
+      score: AB 7 - ON 11   
  - name: Lister, Ralph      
    totals:                  
     - event: Macdonald Brier
@@ -2406,6 +2930,62 @@ vs:
       year: 1956            
       draw: Round Robin(2)  
       score: AB 12 - PE 11  
+ - name: MacGregor, William 
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'PE'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(9)  
+      score: AB 11 - PE 10  
+ - name: MacNeill, Norman   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'PE'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(9)  
+      score: AB 11 - PE 10  
  - name: MacNevin, Elmer    
    totals:                  
     - event: Macdonald Brier
@@ -2518,6 +3098,34 @@ vs:
       year: 1954            
       draw: Round Robin(11) 
       score: AB 10 - NB 5   
+ - name: McDonald, Robert   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'BC'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(3)  
+      score: AB 7 - BC 16   
  - name: McEwen, Donald     
    totals:                  
     - event: Macdonald Brier
@@ -2574,6 +3182,34 @@ vs:
       year: 1957            
       draw: Round Robin(9)  
       score: AB 13 - BC 10  
+ - name: McGrath, Jim       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'ON'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(4)  
+      score: AB 7 - ON 11   
  - name: McInnes, Robert    
    totals:                  
     - event: Macdonald Brier
@@ -2686,6 +3322,34 @@ vs:
       year: 1958            
       draw: Round Robin(6)  
       score: AB 12 - NB 4   
+ - name: Miyashita, Herbert 
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'QC'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(11) 
+      score: QC 6 - AB 9    
  - name: Monk, Harry Sr.    
    totals:                  
     - event: Macdonald Brier
@@ -2882,6 +3546,62 @@ vs:
       year: 1954            
       draw: Round Robin(7)  
       score: AB 20 - NL 6   
+ - name: Ott, William       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'QC'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(11) 
+      score: QC 6 - AB 9    
+ - name: Palmer, Richard    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'ON'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(4)  
+      score: AB 7 - ON 11   
  - name: Patterson, Ralph   
    totals:                  
     - event: Macdonald Brier
@@ -2938,6 +3658,34 @@ vs:
       year: 1954            
       draw: Round Robin(2)  
       score: NS 4 - AB 24   
+ - name: Pettapiece, James  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'MB'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(5)  
+      score: AB 5 - MB 6    
  - name: Phillips, Alfred Sr.
    totals:                   
     - event: Macdonald Brier 
@@ -2966,6 +3714,34 @@ vs:
       year: 1956            
       draw: Round Robin(1)  
       score: ON 9 - AB 4    
+ - name: Pickering, Robert  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'SK'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(2)  
+      score: SK 14 - AB 9   
  - name: Piercey, Reginald  
    totals:                  
     - event: Macdonald Brier
@@ -3150,6 +3926,34 @@ vs:
       year: 1957            
       draw: Round Robin(10) 
       score: NS 3 - AB 12   
+ - name: Ready, Clifford    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'PE'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(9)  
+      score: AB 11 - PE 10  
  - name: Redding, Ronald    
    totals:                  
     - event: Macdonald Brier
@@ -3346,6 +4150,90 @@ vs:
       year: 1958            
       draw: Round Robin(10) 
       score: AB 6 - ON 10   
+ - name: Sanford, John      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NS'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(7)  
+      score: NS 6 - AB 11   
+ - name: Sargent, Frank Jr. 
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'NO'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(10) 
+      score: AB 10 - NO 14  
+ - name: Sargent, James     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'NO'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(10) 
+      score: AB 10 - NO 14  
  - name: Sarjeant, Stanley  
    totals:                  
     - event: Macdonald Brier
@@ -3430,6 +4318,34 @@ vs:
       year: 1957            
       draw: Round Robin(11) 
       score: MB 4 - AB 7    
+ - name: Sherba, Peter      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'BC'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(3)  
+      score: AB 7 - BC 16   
  - name: Simmons, Ralph     
    totals:                  
     - event: Macdonald Brier
@@ -3486,6 +4402,34 @@ vs:
       year: 1957            
       draw: Round Robin(8)  
       score: AB 11 - NO 8   
+ - name: Smale, Kevin       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'BC'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(3)  
+      score: AB 7 - BC 16   
  - name: Smeaton, Donald    
    totals:                  
     - event: Macdonald Brier
@@ -3542,6 +4486,34 @@ vs:
       year: 1956            
       draw: Round Robin(8)  
       score: AB 13 - QC 5   
+ - name: Somers, Dale       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NB'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(1)  
+      score: NB 7 - AB 13   
  - name: Spencer, Hugh      
    totals:                  
     - event: Macdonald Brier
@@ -3872,10 +4844,10 @@ vs:
       player1:              
         percent:            
         wins: 1             
-        losses: 0           
+        losses: 1           
       player2:              
         percent:            
-        wins: 0             
+        wins: 1             
         losses: 1           
    games:
     - player1:          
@@ -3894,6 +4866,22 @@ vs:
       year: 1957            
       draw: Round Robin(8)  
       score: AB 11 - NO 8   
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'NO'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(10) 
+      score: AB 10 - NO 14  
  - name: Tissington, Harry  
    totals:                  
     - event: Macdonald Brier
@@ -4094,6 +5082,34 @@ vs:
       year: 1954            
       draw: Round Robin(9)  
       score: QC 9 - AB 16   
+ - name: Walling, John      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'QC'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(11) 
+      score: QC 6 - AB 9    
  - name: Walsh, William     
    totals:                  
     - event: Macdonald Brier
@@ -4318,6 +5334,34 @@ vs:
       year: 1954            
       draw: Round Robin(8)  
       score: ON 8 - AB 5    
+ - name: Wood, Bryan        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'MB'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1971            
+      draw: Round Robin(5)  
+      score: AB 5 - MB 6    
  - name: Wood, Howard Jr.   
    totals:                  
     - event: Macdonald Brier

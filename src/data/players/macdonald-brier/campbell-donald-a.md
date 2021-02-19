@@ -178,7 +178,7 @@ vs:
  - Slavik, Vincent
  - Smith, Logan
  - Stewart, George
- - Stewart, Gordon
+ - Stewart, Gordon(AB)
  - Stewart, Lawrence
  - Stewart, Orwell
  - Stone, Rufus

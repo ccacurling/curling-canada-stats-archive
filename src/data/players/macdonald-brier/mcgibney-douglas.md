@@ -191,7 +191,7 @@ vs:
  - Lunn, Frederick
  - MacDonald, Clifford
  - MacDonald, Elmer
- - MacDonald, Kenneth
+ - MacDonald, Ken
  - MacDonald, Wendell
  - MacDonald, William
  - MacKenzie, Kenneth

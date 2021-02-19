@@ -53,7 +53,7 @@ vs:
  - Burke, Arthur
  - Cameron, John J.
  - Campbell, Donald R.
- - Chernoff, Michael
+ - Chernoff, Mike
  - Corkum, Peter
  - Dagg, Lyall
  - DesRoches, Paul
@@ -83,7 +83,7 @@ vs:
  - Mabey, Harold Jr.
  - Mabey, Harold Sr.
  - Macdonald, Frank
- - MacDonald, Kenneth
+ - MacDonald, Ken
  - MacInnes, Earl
  - MacKenzie, Kenneth
  - Mann, Robert

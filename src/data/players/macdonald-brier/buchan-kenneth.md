@@ -74,7 +74,7 @@ vs:
  - Campbell, Garnet
  - Carr, Patrick
  - Carson, Earl
- - Chernoff, Michael
+ - Chernoff, Mike
  - Dagg, Lyall
  - Dillon, George
  - Dillon, Robert

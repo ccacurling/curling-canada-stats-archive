@@ -146,6 +146,34 @@ vs:
       year: 1969            
       draw: Round Robin(7)  
       score: QC 12 - NL 5   
+ - name: Tainsh, William    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'NL'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:        
+        team: 'AB'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(4)  
+      score: AB 11 - NL 9   
  - name: Thomas, Robert     
    totals:                  
     - event: Macdonald Brier
@@ -201,6 +229,34 @@ vs:
       event: Macdonald Brier
       year: 1969            
       draw: Round Robin(3)  
+      score: NO 9 - NL 8    
+ - name: Tod, Thomas        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'NL'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:          
+        team: 'NO'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(10) 
       score: NO 9 - NL 8    
  - name: Tracy, William     
    totals:                  
@@ -370,6 +426,34 @@ vs:
       year: 1969            
       draw: Round Robin(11) 
       score: NL 7 - ON 15   
+ - name: Whitfield, Carl    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'NL'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:          
+        team: 'NO'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(10) 
+      score: NO 9 - NL 8    
  - name: Wiggington, Merrill
    totals:                  
     - event: Macdonald Brier
@@ -414,6 +498,34 @@ vs:
       year: 1969            
       draw: Round Robin(6)  
       score: NL 6 - PE 13   
+ - name: Wood, Bryan        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:         
+        team: 'NL'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      player2:        
+        team: 'MB'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(9)  
+      score: NL 8 - MB 11   
  - name: Wood, Edgar        
    totals:                  
     - event: Macdonald Brier

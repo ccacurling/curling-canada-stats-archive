@@ -167,7 +167,7 @@ vs:
  - Thun, Albert
  - Tracy, William
  - Turnbull, Raymond
- - Ursel, James
+ - Ursel, Jim
  - Ursuliak, Wally
  - Walker, Glen
  - Werner, Raymond

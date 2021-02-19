@@ -57,7 +57,7 @@ vs:
  - Campbell, Donald R.
  - Campbell, Garnet
  - Campbell, Glen
- - Chernoff, Michael
+ - Chernoff, Mike
  - Coward, Ross
  - Crombie, John
  - Cummins, Jack

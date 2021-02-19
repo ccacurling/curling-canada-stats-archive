@@ -99,7 +99,7 @@ vs:
  - Snow, John
  - Spencer, Walter
  - Stewart, George
- - Stewart, Gordon
+ - Stewart, Gordon(AB)
  - Stewart, Orwell
  - Swelin, Bartley
  - Thompson, Edward

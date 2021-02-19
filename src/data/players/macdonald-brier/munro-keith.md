@@ -52,7 +52,7 @@ vs:
  - Burke, Arthur
  - Cameron, Douglas
  - Campbell, Donald R.
- - Chernoff, Michael
+ - Chernoff, Mike
  - Dagg, Lyall
  - Dillon, George
  - Dillon, Robert

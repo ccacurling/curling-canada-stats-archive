@@ -1266,7 +1266,7 @@ vs:
       year: 1965            
       draw: Round Robin(1)  
       score: MB 10 - NL 7   
- - name: Ursel, James       
+ - name: Ursel, Jim         
    totals:                  
     - event: Macdonald Brier
       player1:              

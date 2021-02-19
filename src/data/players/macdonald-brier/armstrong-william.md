@@ -63,7 +63,7 @@ vs:
  - Stone, Reginald
  - Stone, Roy
  - Taite, John
- - Ursel, James
+ - Ursel, Jim
  - Ursuliak, Wally
  - Werner, Raymond
 ---

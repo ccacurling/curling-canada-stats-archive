@@ -47,7 +47,7 @@ vs:
  - Knudson, Elmer
  - Knudson, Gerhard
  - Lunn, Frederick
- - MacDonald, Kenneth
+ - MacDonald, Ken
  - MacKenzie, Kenneth
  - Manning, Ronald
  - McGibney, Douglas

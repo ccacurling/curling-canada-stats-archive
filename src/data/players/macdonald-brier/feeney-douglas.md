@@ -46,7 +46,7 @@ vs:
  - Knudson, Gerhard
  - Little, Gordon
  - Lunn, Frederick
- - MacDonald, Kenneth
+ - MacDonald, Ken
  - MacKenzie, Kenneth
  - Manning, Ronald
  - Martel, Harold

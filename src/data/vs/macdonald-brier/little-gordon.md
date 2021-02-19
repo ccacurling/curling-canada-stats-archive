@@ -142,7 +142,7 @@ vs:
       year: 1964            
       draw: Round Robin(6)  
       score: MB 10 - NO 8   
- - name: MacDonald, Kenneth 
+ - name: MacDonald, Ken     
    totals:                  
     - event: Macdonald Brier
       player1:              

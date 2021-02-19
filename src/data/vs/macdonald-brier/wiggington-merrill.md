@@ -2,6 +2,146 @@
 title: Merrill Wiggington Head-to-head
 name: Wiggington, Merrill
 vs:
+ - name: Wiggins, Douglas   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:        
+        team: 'PE'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      player2:        
+        team: 'NB'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(11) 
+      score: PE 8 - NB 7    
+ - name: Wight, Frederick   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:        
+        team: 'PE'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      player2:          
+        team: 'NL'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1974            
+      draw: Round Robin(11) 
+      score: PE 12 - NL 5   
+ - name: Wight, Keith       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:        
+        team: 'PE'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      player2:        
+        team: 'NL'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1974            
+      draw: Round Robin(11) 
+      score: PE 12 - NL 5   
+ - name: Winterton, Clark   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:        
+        team: 'PE'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      player2:        
+        team: 'BC'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1974            
+      draw: Round Robin(8)  
+      score: BC 7 - PE 6    
+ - name: Wong, Peter        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:        
+        team: 'PE'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      player2:          
+        team: 'NO'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1973            
+      draw: Round Robin(1)  
+      score: PE 10 - NO 7   
  - name: Wood, Edgar        
    totals:                  
     - event: Macdonald Brier

@@ -162,7 +162,7 @@ vs:
  - Thun, Albert
  - Tracy, William
  - Tulley, James
- - Ursel, James
+ - Ursel, Jim
  - Ursuliak, Wally
  - Welch, Thomas
  - Werner, Raymond

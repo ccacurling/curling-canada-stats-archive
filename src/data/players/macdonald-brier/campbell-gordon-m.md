@@ -231,7 +231,7 @@ vs:
  - Smith, Logan
  - Squarebriggs, John
  - Stewart, George
- - Stewart, Gordon
+ - Stewart, Gordon(AB)
  - Stewart, Lawrence
  - Stewart, Orwell
  - Stuart, William

@@ -422,7 +422,7 @@ vs:
       year: 1965            
       draw: Round Robin(9)  
       score: NL 9 - NS 11   
- - name: MacDonald, Kenneth 
+ - name: MacDonald, Ken     
    totals:                  
     - event: Macdonald Brier
       player1:              

@@ -133,7 +133,7 @@ vs:
  - Simon, A.D.
  - Smith, Logan
  - Stewart, George
- - Stewart, Gordon
+ - Stewart, Gordon(AB)
  - Stewart, Howard
  - Stewart, Lawrence
  - Stewart, Orwell

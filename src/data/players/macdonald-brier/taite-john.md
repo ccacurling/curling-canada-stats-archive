@@ -101,7 +101,7 @@ vs:
  - Cape, Gordon
  - Carey, Joseph
  - Carson, Earl
- - Chernoff, Michael
+ - Chernoff, Mike
  - Claney, Alfred
  - Corkum, Peter
  - Cunningham, Robert
@@ -209,7 +209,7 @@ vs:
  - Thun, Albert
  - Tracy, William
  - Turnbull, Raymond
- - Ursel, James
+ - Ursel, Jim
  - Ursuliak, Wally
  - Walker, Glen
  - Werner, Raymond

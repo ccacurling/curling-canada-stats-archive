@@ -374,7 +374,7 @@ vs:
       year: 1960            
       draw: Round Robin(3)  
       score: QC 8 - NS 11   
- - name: Chernoff, Michael  
+ - name: Chernoff, Mike     
    totals:                  
     - event: Macdonald Brier
       player1:              

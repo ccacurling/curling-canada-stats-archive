@@ -2,7 +2,7 @@
 title: Frederick Lunn Head-to-head
 name: Lunn, Frederick
 vs:
- - name: MacDonald, Kenneth 
+ - name: MacDonald, Ken     
    totals:                  
     - event: Macdonald Brier
       player1:              

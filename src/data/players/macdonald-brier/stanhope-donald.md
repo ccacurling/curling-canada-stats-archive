@@ -113,7 +113,7 @@ vs:
  - Stone, Roy
  - Taite, John
  - Tulley, James
- - Ursel, James
+ - Ursel, Jim
  - Ursuliak, Wally
  - Welch, Thomas
  - Werner, Raymond

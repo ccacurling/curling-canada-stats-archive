@@ -170,7 +170,7 @@ vs:
       year: 1967            
       draw: Round Robin(9)  
       score: MB 14 - QC 4   
- - name: MacDonald, Kenneth 
+ - name: MacDonald, Ken     
    totals:                  
     - event: Macdonald Brier
       player1:              

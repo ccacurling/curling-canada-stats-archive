@@ -1254,7 +1254,7 @@ vs:
       year: 1966            
       draw: Round Robin(2)  
       score: NB 7 - NL 4    
- - name: MacDonald, Kenneth 
+ - name: MacDonald, Ken     
    totals:                  
     - event: Macdonald Brier
       player1:              

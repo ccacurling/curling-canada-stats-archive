@@ -74,7 +74,7 @@ vs:
  - Burns, George
  - Campbell, Donald R.
  - Cape, Gordon
- - Chernoff, Michael
+ - Chernoff, Mike
  - Dagg, Lyall
  - D'Amour, Theophile
  - Dillon, Robert
@@ -160,7 +160,7 @@ vs:
  - Stone, Roy
  - Storey, Frederick
  - Trites, Horace
- - Ursel, James
+ - Ursel, Jim
  - Ursuliak, Wally
  - Vance, James
  - Walsh, William

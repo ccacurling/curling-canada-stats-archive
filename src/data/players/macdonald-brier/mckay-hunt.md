@@ -170,7 +170,7 @@ vs:
  - Taite, John
  - Trites, Horace
  - Turney, James
- - Ursel, James
+ - Ursel, Jim
  - Ursuliak, Wally
  - Watson, Grant
  - Weldon, Kenneth

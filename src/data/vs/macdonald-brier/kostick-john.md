@@ -1010,7 +1010,7 @@ vs:
       year: 1958            
       draw: Round Robin(3)  
       score: NO 8 - MB 16   
- - name: Ursel, James       
+ - name: Ursel, Jim         
    totals:                  
     - event: Macdonald Brier
       player1:              

@@ -73,7 +73,7 @@ vs:
  - Cameron, Douglas
  - Campbell, Donald R.
  - Cape, Gordon
- - Chernoff, Michael
+ - Chernoff, Mike
  - Corkey, Joseph
  - Dagg, Lyall
  - Dillon, George

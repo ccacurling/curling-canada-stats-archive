@@ -4,9 +4,9 @@ name: Arthur Burke
 name-sort: Burke, Arthur
 totals:
  - event: Macdonald Brier
-   games: 40
-   wins: 13
-   losses: 27
+   games: 50
+   wins: 16
+   losses: 34
 years:
  - year: 1959
    event: Macdonald Brier
@@ -76,7 +76,25 @@ years:
    takeout-percent:
    shots-total: 0
    shots-percent:
+ - year: 1970
+   event: Macdonald Brier
+   team: "PE"
+   position: Fourth
+   games: 10
+   wins: 3
+   losses: 7
+   inturn-total: 0
+   inturn-percent:
+   outturn-total: 0
+   outturn-percent:
+   draw-total: 0
+   draw-percent:
+   takeout-total: 0
+   takeout-percent:
+   shots-total: 0
+   shots-percent:
 vs:
+ - Aitken, Don
  - Andrews, Alexander
  - Anton, Ronald
  - Armstrong, William
@@ -89,28 +107,35 @@ vs:
  - Bird, Richard
  - Black, Elmer
  - Bloom, Terrance
+ - Bowering, Lester
  - Britton, Frederick
  - Buchan, Kenneth
  - Butt, Edwin
+ - Cameron, Stuart
  - Campbell, Donald R.
  - Campbell, Garnet
  - Campbell, Glen
  - Cape, Gordon
  - Carson, Earl
+ - Carson, James
  - Carter, Lawrence
  - Chabassol, Sidney
- - Chernoff, Michael
+ - Chernoff, Mike
  - Colbourne, Frederick
  - Coleman, Barry
+ - Corkum, Peter
  - Cunningham, Robert
+ - Cushing, Thomas
  - Dagg, Lyall
  - D'Amour, Theophile
  - Darragh, Morell
  - Doran, John
+ - Downer, Gerald
  - Dudar, Allan
  - Dudar, Robert
  - Dufresne, George
  - Dufresne, Mervin
+ - Duguid, Donald
  - Eberg, Omer
  - Ellis, Kenneth
  - Evans, William
@@ -118,6 +143,8 @@ vs:
  - Fisher, Alexander
  - Florian, James
  - Forbes, Arthur
+ - Ford, Gary
+ - Franklin, Ronald
  - Gervais, Hector
  - Giannou, George
  - Grant, John Jr.
@@ -126,18 +153,23 @@ vs:
  - Grozelle, William
  - Gullage, John
  - Gurowka, Joseph
+ - Hallinan, William
+ - Hammond, John
  - Hanford, Morley
  - Hansen, Alan
  - Hebert, Leo
+ - Herder, Daniel
  - Hope, Peter
  - Houck, Norman
  - Howat, Thomas
  - Howell, Wilbert
  - Hudson, Bruce
+ - Hunter, Roderick
  - Ingo, Kenneth
  - Jones, John
  - Keith, Harold
  - Kennie, Morris
+ - Kent, William
  - Keys, John
  - Kostick, John
  - Langen, Frederick
@@ -147,13 +179,16 @@ vs:
  - Lerner, Hersh
  - Lindberg, Russell
  - Little, Gordon
+ - Lobel, Arthur
  - Logan, John
  - Mabey, Harold Jr.
  - Mabey, Harold Sr.
+ - Mabey, Roger
  - MacCharles, George
  - Macdonald, Frank
  - MacInnes, Earl
  - Mackey, Donald
+ - MacMellon, Grant
  - Mann, Robert
  - Martel, Harold
  - Mason, Lynn
@@ -167,6 +202,7 @@ vs:
  - McLaughlin, Malcolm
  - McManus, Cecil
  - McRae, Oakley
+ - Mitchell, William
  - Mitten, Irving
  - Munro, Keith
  - Murdock, Ross
@@ -177,11 +213,15 @@ vs:
  - Northcott, Ronald
  - Olson, Herbert
  - O'Reilly, William
+ - Oxner, Howard
  - Palmer, Richard
+ - Paulson, Terry
  - Pedley, Edward
  - Perry, Charles
  - Petch, Wayne
  - Peterson, Gordon
+ - Pettapiece, James
+ - Phillips, David
  - Pickering, Robert
  - Piercey, William
  - Polyblank, John
@@ -192,6 +232,8 @@ vs:
  - Richardson, Garnet
  - Richardson, Wesley
  - Ruiter, Garth
+ - Saboe, Wayne
+ - Savage, Paul
  - Secord, Bayne
  - Seller, Edward
  - Sellers, Carl
@@ -201,6 +243,8 @@ vs:
  - Snarr, Victor
  - Sparkes, Bernie
  - Stanhope, Donald
+ - Steeves, Edward
+ - Stent, Frank
  - Stephen, Dennis
  - Stone, Reginald
  - Stone, Roy
@@ -208,14 +252,18 @@ vs:
  - Sullivan, Charlie
  - Sullivan, Dave
  - Sutton, Leslie
+ - Tainsh, William
  - Taite, John
  - Thun, Albert
  - Tipping, Edward
+ - Tod, Thomas
  - Tracy, William
- - Ursel, James
+ - Ursel, Jim
  - Ursuliak, Wally
  - Wark, Darwin
  - Werner, Raymond
+ - Whitfield, Carl
  - Wilson, James
  - Wolfe, Evan
+ - Wood, Bryan
 ---

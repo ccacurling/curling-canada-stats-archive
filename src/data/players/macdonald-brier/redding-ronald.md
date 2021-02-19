@@ -118,7 +118,7 @@ vs:
  - Sutherland, John
  - Taite, John
  - Turnbull, Raymond
- - Ursel, James
+ - Ursel, Jim
  - Ursuliak, Wally
  - Vance, James
  - Werner, Raymond

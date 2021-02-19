@@ -88,7 +88,7 @@ vs:
  - Little, Gordon
  - Lloyd, Harold
  - Lunn, Frederick
- - MacDonald, Kenneth
+ - MacDonald, Ken
  - MacKay, William
  - MacKenzie, Kenneth
  - MacNeill, William

@@ -115,7 +115,7 @@ vs:
  - Stone, Roy
  - Taite, John
  - Tulley, James
- - Ursel, James
+ - Ursel, Jim
  - Welch, Thomas
  - Wilson, James
  - Zaporzan, William

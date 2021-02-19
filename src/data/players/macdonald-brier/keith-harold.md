@@ -4,9 +4,9 @@ name: Harold Keith
 name-sort: Keith, Harold
 totals:
  - event: Macdonald Brier
-   games: 40
-   wins: 13
-   losses: 27
+   games: 50
+   wins: 17
+   losses: 33
 years:
  - year: 1960
    event: Macdonald Brier
@@ -76,7 +76,25 @@ years:
    takeout-percent:
    shots-total: 0
    shots-percent:
+ - year: 1970
+   event: Macdonald Brier
+   team: "NB"
+   position: Second
+   games: 10
+   wins: 4
+   losses: 6
+   inturn-total: 0
+   inturn-percent:
+   outturn-total: 0
+   outturn-percent:
+   draw-total: 0
+   draw-percent:
+   takeout-total: 0
+   takeout-percent:
+   shots-total: 0
+   shots-percent:
 vs:
+ - Aitken, Don
  - Anton, Ronald
  - Armstrong, Alan
  - Armstrong, William
@@ -88,29 +106,38 @@ vs:
  - Bell, Kenneth
  - Binnington, George
  - Black, Elmer
+ - Bowering, Lester
  - Britton, Frederick
  - Buchan, Kenneth
  - Burke, Arthur
+ - Burke, Lorne
  - Cameron, Douglas
+ - Cameron, Stuart
  - Campbell, Donald R.
  - Campbell, Garnet
  - Cape, Gordon
  - Carr, Patrick
  - Carson, Earl
- - Chernoff, Michael
+ - Carson, James
+ - Chernoff, Mike
  - Colbourne, Frederick
  - Corkey, Joseph
+ - Corkum, Peter
+ - Cushing, Thomas
  - Czaja, Mitchell
  - Dagg, Lyall
  - D'Amour, Theophile
  - Dillon, George
  - Dillon, Robert
+ - Downer, Gerald
+ - Duguid, Donald
  - Duncan, Frederick
  - Easton, Leonard
  - Edwards, Jack
  - Elliott, Robert
  - Florian, James
  - Ford, Gary
+ - Franklin, Ronald
  - Gerlack, David
  - Gervais, Hector
  - Giannou, George
@@ -120,20 +147,26 @@ vs:
  - Groom, Donald
  - Groom, William
  - Guest, Ross
+ - Hallinan, William
+ - Hammond, John
  - Hanford, Morley
  - Hansen, Alan
  - Hanson, George
  - Harper, Glen
  - Hebert, Leo
+ - Herder, Daniel
  - Hodge, Harvey
  - Hope, Peter
  - Hoppe, Rolf
  - Houck, Norman
  - Hudson, Bruce
  - Hunt, Ernest
+ - Hunter, Roderick
  - Johnson, Terence
  - Kaspick, Vernon
  - Kennie, Morris
+ - Kent, William
+ - Keys, John
  - Kostick, John
  - Lamb, Arthur
  - Larsen, Vernon
@@ -142,8 +175,10 @@ vs:
  - Lindberg, Russell
  - Little, Gordon
  - Llewellyn, Arnold
+ - Lobel, Arthur
  - Logan, John
  - Lyon, John-David
+ - Mabey, Roger
  - MacCharles, George
  - Macdonald, Frank
  - MacInnes, Earl
@@ -157,16 +192,21 @@ vs:
  - McDonough, David
  - McKay, Hunt
  - McRae, Oakley
+ - Mitchell, William
  - Munro, Keith
  - Murdock, Ross
  - Naimark, Barry
  - Ness, William
  - Northcott, Ronald
  - O'Reilly, William
+ - Oxner, Howard
  - Palmer, Richard
+ - Paulson, Terry
  - Pedley, Edward
  - Petch, Wayne
  - Peterson, Gordon
+ - Pettapiece, James
+ - Phillips, David
  - Pickering, Robert
  - Piercey, William
  - Polyblank, John
@@ -179,7 +219,9 @@ vs:
  - Robinson, Robert
  - Roy, William
  - Ruiter, Garth
+ - Saboe, Wayne
  - Saunders, Allison
+ - Savage, Paul
  - Scales, MacCabe
  - Secord, Bayne
  - Sherba, Peter
@@ -199,16 +241,20 @@ vs:
  - Strange, Douglas
  - Stuart, Douglas
  - Sully, Alan
+ - Tainsh, William
  - Taite, John
  - Thomas, Robert
  - Thompson, Jack
+ - Tod, Thomas
  - Tulley, James
- - Ursel, James
+ - Ursel, Jim
  - Ursuliak, Wally
  - Warren, Thomas
  - Weisz, Gary
  - Werner, Raymond
+ - Whitfield, Carl
  - Wiggington, Merrill
  - Wilson, James
+ - Wood, Bryan
  - Wood, Edgar
 ---

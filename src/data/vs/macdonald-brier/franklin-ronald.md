@@ -2,6 +2,34 @@
 title: Ronald Franklin Head-to-head
 name: Franklin, Ronald
 vs:
+ - name: Gervais, Hector    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'AB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(5)  
+      score: NS 8 - AB 13   
  - name: Gould, Raymond     
    totals:                  
     - event: Macdonald Brier
@@ -114,6 +142,34 @@ vs:
       year: 1967            
       draw: Round Robin(10) 
       score: NS 9 - NO 12   
+ - name: Hallinan, William  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'NO'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(11) 
+      score: NS 6 - NO 10   
  - name: Hamilton, Kenneth  
    totals:                  
     - event: Macdonald Brier
@@ -142,6 +198,34 @@ vs:
       year: 1965            
       draw: Round Robin(5)  
       score: AB 9 - NS 8    
+ - name: Hammond, John      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'QC'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(6)  
+      score: QC 7 - NS 11   
  - name: Hayes, Charles     
    totals:                  
     - event: Macdonald Brier
@@ -170,6 +254,62 @@ vs:
       year: 1967            
       draw: Round Robin(5)  
       score: NS 8 - QC 11   
+ - name: Hebert, Leo        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'BC'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(8)  
+      score: BC 13 - NS 7   
+ - name: Herder, Daniel     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'NL'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(2)  
+      score: NL 12 - NS 14  
  - name: Hudson, Bruce      
    totals:                  
     - event: Macdonald Brier
@@ -198,6 +338,34 @@ vs:
       year: 1967            
       draw: Round Robin(4)  
       score: NS 10 - MB 5   
+ - name: Hunter, Roderick   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'MB'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(10) 
+      score: NS 6 - MB 11   
  - name: Jarrett, Donald    
    totals:                  
     - event: Macdonald Brier
@@ -310,6 +478,90 @@ vs:
       year: 1967            
       draw: Round Robin(9)  
       score: NS 12 - NL 8   
+ - name: Keith, Harold      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'NB'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(9)  
+      score: NS 8 - NB 14   
+ - name: Kent, William      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'QC'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(6)  
+      score: QC 7 - NS 11   
+ - name: Keys, John         
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'SK'      
+        position: Second
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(4)  
+      score: NS 9 - SK 8    
  - name: Knudson, Arthur    
    totals:                  
     - event: Macdonald Brier
@@ -478,6 +730,34 @@ vs:
       year: 1965            
       draw: Round Robin(2)  
       score: NS 8 - NB 11   
+ - name: Lobel, Arthur      
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'QC'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(6)  
+      score: QC 7 - NS 11   
  - name: Lunn, Frederick    
    totals:                  
     - event: Macdonald Brier
@@ -534,6 +814,62 @@ vs:
       year: 1965            
       draw: Round Robin(2)  
       score: NS 8 - NB 11   
+ - name: Mabey, Harold Jr.  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'NB'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(9)  
+      score: NS 8 - NB 14   
+ - name: Mabey, Roger       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:        
+        team: 'NL'    
+        position: Lead
+        percent:      
+        win: 0        
+        loss: 1       
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(2)  
+      score: NL 12 - NS 14  
  - name: MacCharles, George 
    totals:                  
     - event: Macdonald Brier
@@ -562,7 +898,7 @@ vs:
       year: 1965            
       draw: Round Robin(9)  
       score: NL 9 - NS 11   
- - name: MacDonald, Kenneth 
+ - name: MacDonald, Ken     
    totals:                  
     - event: Macdonald Brier
       player1:              
@@ -646,6 +982,34 @@ vs:
       year: 1967            
       draw: Round Robin(3)  
       score: PE 11 - NS 10  
+ - name: MacMellon, Grant   
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'NB'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(9)  
+      score: NS 8 - NB 14   
  - name: MacNevin, Elmer    
    totals:                  
     - event: Macdonald Brier
@@ -842,6 +1206,34 @@ vs:
       year: 1965            
       draw: Round Robin(8)  
       score: NS 5 - BC 8    
+ - name: Mitchell, William  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'AB'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(5)  
+      score: NS 8 - AB 13   
  - name: Murphy, John       
    totals:                  
     - event: Macdonald Brier
@@ -870,6 +1262,34 @@ vs:
       year: 1967            
       draw: Round Robin(3)  
       score: PE 11 - NS 10  
+ - name: Naimark, Barry     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'BC'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(8)  
+      score: BC 13 - NS 7   
  - name: Northcott, Ronald  
    totals:                  
     - event: Macdonald Brier
@@ -954,6 +1374,34 @@ vs:
       year: 1965            
       draw: Round Robin(5)  
       score: AB 9 - NS 8    
+ - name: Paulson, Terry     
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'BC'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(8)  
+      score: BC 13 - NS 7   
  - name: Petch, Wayne       
    totals:                  
     - event: Macdonald Brier
@@ -982,6 +1430,34 @@ vs:
       year: 1965            
       draw: Round Robin(6)  
       score: NS 8 - NO 11   
+ - name: Pettapiece, James  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'MB'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(10) 
+      score: NS 6 - MB 11   
  - name: Phillips, Alfred Jr.
    totals:                   
     - event: Macdonald Brier 
@@ -1010,6 +1486,62 @@ vs:
       year: 1967            
       draw: Round Robin(7)  
       score: ON 9 - NS 8    
+ - name: Phillips, David    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'ON'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(7)  
+      score: ON 8 - NS 5    
+ - name: Pickering, Robert  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:          
+        team: 'SK'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(4)  
+      score: NS 9 - SK 8    
  - name: Polyblank, John    
    totals:                  
     - event: Macdonald Brier
@@ -1094,6 +1626,90 @@ vs:
       year: 1967            
       draw: Round Robin(7)  
       score: ON 9 - NS 8    
+ - name: Saboe, Wayne       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'AB'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(5)  
+      score: NS 8 - AB 13   
+ - name: Saunders, Allison  
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'PE'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(1)  
+      score: PE 13 - NS 8   
+ - name: Savage, Paul       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'ON'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(7)  
+      score: ON 8 - NS 5    
  - name: Smith, Alan        
    totals:                  
     - event: Macdonald Brier
@@ -1150,6 +1766,62 @@ vs:
       year: 1967            
       draw: Round Robin(11) 
       score: AB 8 - NS 9    
+ - name: Steeves, Edward    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:         
+        team: 'NB'     
+        position: Third
+        percent:       
+        win: 1         
+        loss: 0        
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(9)  
+      score: NS 8 - NB 14   
+ - name: Stent, Frank       
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 1             
+        losses: 0           
+      player2:              
+        percent:            
+        wins: 0             
+        losses: 1           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      player2:         
+        team: 'NL'     
+        position: Third
+        percent:       
+        win: 0         
+        loss: 1        
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(2)  
+      score: NL 12 - NS 14  
  - name: Stevenson, Gary    
    totals:                  
     - event: Macdonald Brier
@@ -1318,6 +1990,34 @@ vs:
       year: 1967            
       draw: Round Robin(8)  
       score: NS 9 - NB 8    
+ - name: Tainsh, William    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'AB'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(5)  
+      score: NS 8 - AB 13   
  - name: Taite, John        
    totals:                  
     - event: Macdonald Brier
@@ -1346,6 +2046,34 @@ vs:
       year: 1965            
       draw: Round Robin(9)  
       score: NL 9 - NS 11   
+ - name: Tod, Thomas        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'NO'      
+        position: Fourth
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(11) 
+      score: NS 6 - NO 10   
  - name: Tracy, William     
    totals:                  
     - event: Macdonald Brier
@@ -1458,6 +2186,62 @@ vs:
       year: 1967            
       draw: Round Robin(6)  
       score: SK 14 - NS 5   
+ - name: Whitfield, Carl    
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:          
+        team: 'NO'      
+        position: Second
+        percent:        
+        win: 1          
+        loss: 0         
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(11) 
+      score: NS 6 - NO 10   
+ - name: Wood, Bryan        
+   totals:                  
+    - event: Macdonald Brier
+      player1:              
+        percent:            
+        wins: 0             
+        losses: 1           
+      player2:              
+        percent:            
+        wins: 1             
+        losses: 0           
+   games:
+    - player1:          
+        team: 'NS'      
+        position: Fourth
+        percent:        
+        win: 0          
+        loss: 1         
+      player2:        
+        team: 'MB'    
+        position: Lead
+        percent:      
+        win: 1        
+        loss: 0       
+      event: Macdonald Brier
+      year: 1970            
+      draw: Round Robin(10) 
+      score: NS 6 - MB 11   
  - name: Wood, Edgar        
    totals:                  
     - event: Macdonald Brier

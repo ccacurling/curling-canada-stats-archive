@@ -114,7 +114,7 @@ vs:
       year: 1964            
       draw: Round Robin(10) 
       score: NS 6 - QC 11   
- - name: Chernoff, Michael  
+ - name: Chernoff, Mike     
    totals:                  
     - event: Macdonald Brier
       player1:              

@@ -209,7 +209,7 @@ vs:
  - Mabey, Harold Sr.
  - MacCharles, George
  - Macdonald, Frank
- - MacDonald, Kenneth
+ - MacDonald, Ken
  - Macelwain, James
  - MacInnes, Earl
  - MacKenzie, Kenneth

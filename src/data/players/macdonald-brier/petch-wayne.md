@@ -58,7 +58,7 @@ vs:
  - Campbell, Donald R.
  - Carey, Joseph
  - Carson, Earl
- - Chernoff, Michael
+ - Chernoff, Mike
  - Claney, Alfred
  - Corkum, Peter
  - Dagg, Lyall
