@@ -102,6 +102,7 @@ vs:
  - Galusha, Kerry
  - Guzzwell, Stephanie
  - Hamilton, Beth
+ - Haughian, Jessie
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Jones, Jennifer
@@ -111,12 +112,15 @@ vs:
  - MacPhee, Robyn
  - McEwen, Dawn
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
+ - Moore, Kristie
  - Morgan, Cheryl
  - Morris, Cori
  - O'Connor, Susan
  - Officer, Jill
  - Osborne, Chantal
  - Peterman, Jocelyn
+ - Scheidegger, Casey
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli

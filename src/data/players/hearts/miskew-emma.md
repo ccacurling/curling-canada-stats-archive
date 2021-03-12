@@ -4,19 +4,19 @@ name: Emma Miskew
 name-sort: Miskew, Emma
 totals:
  - event: Hearts
-   games: 95
-   wins: 75
-   losses: 20
-   inturn-total: 980
+   games: 108
+   wins: 85
+   losses: 23
+   inturn-total: 1095
    inturn-percent: 83
-   outturn-total: 809
+   outturn-total: 936
    outturn-percent: 82
-   draw-total: 636
+   draw-total: 740
    draw-percent: 79
-   takeout-total: 1153
-   takeout-percent: 85
-   shots-total: 1789
-   shots-percent: 83
+   takeout-total: 1291
+   takeout-percent: 84
+   shots-total: 2031
+   shots-percent: 82
 years:
  - year: 2011
    event: Hearts
@@ -137,11 +137,29 @@ years:
    takeout-percent: 84
    shots-total: 262
    shots-percent: 84
+ - year: 2021
+   event: Hearts
+   team: "ON"
+   position: Third
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 115
+   inturn-percent: 78
+   outturn-total: 127
+   outturn-percent: 79
+   draw-total: 104
+   draw-percent: 78
+   takeout-total: 138
+   takeout-percent: 78
+   shots-total: 242
+   shots-percent: 78
 vs:
  - Affleck, Tricia
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Anderson, Sherry
+ - Armstrong, Hailey
  - Armstrong, Jacquie
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
@@ -169,6 +187,8 @@ vs:
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Burgess, Karlee
+ - Burns, Krysta
  - Cameron, Kate
  - Camozzi, Rhona
  - Carey, Chelsea
@@ -193,6 +213,7 @@ vs:
  - Derry, Danielle
  - deSolla, Jodie
  - Devereaux, Julie
+ - Doerksen, Katherine
  - Doig, Deanna
  - Dolan, Kim
  - Dufresne, Audree
@@ -205,6 +226,7 @@ vs:
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Flaxey, Allison
+ - Flemming, Margot
  - Fleury, Tracy
  - Foster, Kristen
  - Fullerton, Sarah
@@ -215,9 +237,11 @@ vs:
  - Gates, Jennifer
  - Gregoire, Veronique
  - Griffin, Alison
+ - Guy, Sara
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Hastings, Julie
+ - Haughian, Jessie
  - Hawes, Dezaray
  - Hill, Trish
  - Holland, Amber
@@ -232,8 +256,10 @@ vs:
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kelly, Kim
+ - Kitz, Chaelynn
  - Kleibrink, Shannon
  - Klymchuk, Ashley
+ - Knapp, Breanne
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
@@ -244,7 +270,9 @@ vs:
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lemay, Annie
+ - Lenentine, Lauren
  - Lilly, Kendra
+ - Loder, Jenna
  - Logan, Emma
  - MacCuish, Kristin
  - MacDonald, Rebecca Jean
@@ -254,12 +282,15 @@ vs:
  - Mallett, Marla
  - Mann, Lauren
  - Martin, Heather
+ - Martin, Nancy
  - Mattatall, Mary
  - McCarville, Krista
  - McDonald, Kristy
+ - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Meilleur, Briane
  - Miller, Wendy
  - Moore, Kristie
@@ -269,6 +300,7 @@ vs:
  - Nedohin, Heather
  - Njegovan, Selena
  - Nixon, Amy
+ - Njegovan, Selena
  - Nowlan, Denise
  - Nugent, Pamela
  - Officer, Jill
@@ -279,6 +311,7 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
+ - Peterson, Beth
  - Pilote, Kristen
  - Pincott, Erin
  - Pinksen, Sadie
@@ -288,6 +321,7 @@ vs:
  - Reid, Jackie
  - Richard, Marie
  - Richards, Brette
+ - Riley, Emily
  - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Robison, Michala
@@ -296,6 +330,7 @@ vs:
  - Sanderson, Jessie
  - Sandwith, Carley
  - Saulnier, Andrea
+ - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schneider, Kim
  - Schneider, Lorraine
@@ -309,10 +344,13 @@ vs:
  - Singler, Sherri
  - Sippala, Ashley
  - Smith, Heather
+ - Smith, Megan
  - Smith, Stacey
  - Snyder, Jane
  - Sobey, Lianne
  - Sonnenberg, Renee
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
@@ -320,18 +358,23 @@ vs:
  - Thevenot, Kara
  - Thiessen, Alison
  - Titheridge, Lindsay
+ - Tran, Brittany
  - Trombley, Christy
  - Tuor, Kimberly
  - Udle, Teri
  - Van Osch, Kesa
+ - Walker, Laura
  - Wallingham, Patty
  - Walsh, Jenna
  - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah
+ - Weagle, Lisa
  - Webster, Bronwen
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie
  - Wylie, Jennifer
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
 ---

@@ -156,6 +156,7 @@ vs:
  - Kasner, Marliese
  - Kelly, Kim
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Koehler, Megan
  - Koltun, Sarah
  - Korab, Stephanie
@@ -173,7 +174,6 @@ vs:
  - Materi, Roberta
  - McDonald, Kristy
  - McEwen, Dawn
- - Meakin, Breanne
  - Miller, Wendy
  - Miskew, Emma
  - Moore, Kristie

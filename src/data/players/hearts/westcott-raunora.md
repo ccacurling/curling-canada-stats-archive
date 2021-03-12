@@ -4,18 +4,18 @@ name: Raunora Westcott
 name-sort: Westcott, Raunora
 totals:
  - event: Hearts
-   games: 45
-   wins: 27
+   games: 47
+   wins: 29
    losses: 18
-   inturn-total: 624
+   inturn-total: 626
    inturn-percent: 83
-   outturn-total: 198
-   outturn-percent: 78
-   draw-total: 693
-   draw-percent: 82
+   outturn-total: 203
+   outturn-percent: 79
+   draw-total: 700
+   draw-percent: 83
    takeout-total: 129
    takeout-percent: 80
-   shots-total: 822
+   shots-total: 829
    shots-percent: 82
 years:
  - year: 2010
@@ -86,13 +86,32 @@ years:
    takeout-percent: 87
    shots-total: 183
    shots-percent: 89
+ - year: 2021
+   event: Hearts
+   team: "MB"
+   position: Lead
+   games: 2
+   wins: 2
+   losses: 0
+   inturn-total: 2
+   inturn-percent: 100
+   outturn-total: 5
+   outturn-percent: 100
+   draw-total: 7
+   draw-percent: 100
+   takeout-total: 0
+   takeout-percent:
+   shots-total: 7
+   shots-percent: 100
 vs:
+ - Adams, Melissa
  - Affleck, Tricia
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Armstrong, Jacquie
  - Arnaud, Chloe
  - Arsenault, Mary-Anne
+ - Arsenault-Bishop, Nicole
  - Babin, Jillian
  - Barbour, Shona
  - Barker, Penny
@@ -107,6 +126,7 @@ vs:
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
+ - Christianson, Marie
  - Comeau, Martine
  - Cormier, Sharon
  - Courtney, Joanne
@@ -153,6 +173,7 @@ vs:
  - Lemay, Annie
  - Lemon, Colette
  - Lilly, Kendra
+ - Lister, Kendra
  - MacCuish, Kristin
  - MacDougall, Leslie
  - MacLean, Kari
@@ -208,6 +229,7 @@ vs:
  - Sweeting, Val
  - Thiessen, Alison
  - Thomas, Jill
+ - Tingley, Jaclyn
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika

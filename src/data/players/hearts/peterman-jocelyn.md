@@ -4,18 +4,18 @@ name: Jocelyn Peterman
 name-sort: Peterman, Jocelyn
 totals:
  - event: Hearts
-   games: 49
-   wins: 35
-   losses: 14
-   inturn-total: 472
-   inturn-percent: 82
-   outturn-total: 471
-   outturn-percent: 82
-   draw-total: 365
-   draw-percent: 79
-   takeout-total: 578
-   takeout-percent: 84
-   shots-total: 943
+   games: 62
+   wins: 44
+   losses: 18
+   inturn-total: 593
+   inturn-percent: 81
+   outturn-total: 595
+   outturn-percent: 83
+   draw-total: 475
+   draw-percent: 80
+   takeout-total: 713
+   takeout-percent: 83
+   shots-total: 1188
    shots-percent: 82
 years:
  - year: 2016
@@ -86,16 +86,38 @@ years:
    takeout-percent: 78
    shots-total: 237
    shots-percent: 79
+ - year: 2021
+   event: Hearts
+   team: "MB"
+   position: Second
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 121
+   inturn-percent: 77
+   outturn-total: 124
+   outturn-percent: 86
+   draw-total: 110
+   draw-percent: 83
+   takeout-total: 135
+   takeout-percent: 81
+   shots-total: 245
+   shots-percent: 82
 vs:
+ - Adams, Melissa
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
+ - Anderson, Sherry
+ - Armstrong, Hailey
  - Armstrong, Jennifer
  - Arsenault, Mary-Anne
+ - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
  - Barker, Penny
+ - Barron, Lauren
  - Baxter, Jen
  - Belisle, Eve
  - Birchard, Shannon
@@ -121,30 +143,39 @@ vs:
  - deJager, Blaine
  - Derry, Danielle
  - Devereaux, Julie
+ - Doerksen, Katherine
  - Doig, Deanna
  - Duncan, Chelsea
+ - Eddy, Lori
  - Einarson, Kerri
  - Englot, Michelle
  - Eyamie, Lisa
  - Ferguson, Dana
+ - Fisher, Sam
  - Forward, Katie
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Jennifer
+ - Griffin, Alison
  - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Haughian, Jessie
  - Hawes, Dezaray
+ - Hill, Sarah
  - Hill, Trish
  - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Inglis, Danielle
  - Jones, Jennifer
+ - Kitz, Chaelynn
  - Kleibrink, Shannon
  - Klymchuk, Ashley
+ - Knapp, Breanne
  - Koehler, Megan
  - Koltun, Sarah
  - Larouche, Marie-France
@@ -153,26 +184,37 @@ vs:
  - Lawton, Stefanie
  - Lemay, Annie
  - Lilly, Kendra
+ - Lister, Kendra
+ - Loder, Jenna
  - Logan, Emma
  - MacCuish, Kristin
+ - MacDonald, Kaitlin
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
+ - Martin, Nancy
  - Mattatall, Mary
  - McCarville, Krista
+ - McDonald, Taylor
  - McEwen, Dawn
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Meilleur, Briane
+ - Mercer, Adrienne
  - Miskew, Emma
+ - Moore, Kristie
  - Murphy, Sarah
  - Nedohin, Heather
  - Njegovan, Selena
  - Nicholls, Brenda
+ - Njegovan, Selena
  - Officer, Jill
  - O'Neill, Brit
  - O'Rourke, Brittany
+ - Peterson, Beth
  - Pilote, Kristen
  - Pincott, Erin
+ - Pinksen, Sadie
  - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
@@ -180,28 +222,34 @@ vs:
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
+ - Riley, Emily
  - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
  - Saulnier, Andrea
+ - Scheidegger, Casey
  - Schneider, Lorraine
  - Shaw, Ladene
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Strong, Helen
  - Sweeting, Val
  - Taylor, Susan
  - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla
+ - Tingley, Jaclyn
  - Tran, Brittany
  - Tuor, Kimberly
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie
+ - Walker, Laura
  - Wark, Sarah
  - Weagle, Lisa
  - Westcott, Raunora

@@ -154,6 +154,7 @@ vs:
  - Kasner, Marliese
  - Kleibrink, Shannon
  - Klein, Karen
+ - Knapp, Breanne
  - Kreviazuk, Alison
  - Lawes, Kaitlyn
  - Lawton, Stefanie
@@ -165,7 +166,6 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
- - Meakin, Breanne
  - Meilleur, Briane
  - Merklinger, Lee
  - Middaugh, Sherry

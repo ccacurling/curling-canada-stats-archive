@@ -153,6 +153,7 @@ vs:
  - Kasner, Marliese
  - Kelly, Kim
  - King, Cathy
+ - Knapp, Breanne
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
@@ -176,7 +177,6 @@ vs:
  - McDonald, Tina
  - McEwen, Dawn
  - McNamee, Karen
- - Meakin, Breanne
  - Miller, Maureen
  - Miller, Wendy
  - Miskew, Emma

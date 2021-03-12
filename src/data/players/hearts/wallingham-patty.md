@@ -91,6 +91,7 @@ vs:
  - Homan, Rachel
  - Joyce, Blisse
  - Kasner, Marliese
+ - Knapp, Breanne
  - Knezevic, Patti
  - Kreviazuk, Alison
  - Kreviazuk, Lynn
@@ -98,7 +99,6 @@ vs:
  - LeDrew, Stephanie
  - MacDonald, Rebecca Jean
  - McDonald, Kristy
- - Meakin, Breanne
  - Miskew, Emma
  - Nugent, Pamela
  - O'Rourke, Brittany

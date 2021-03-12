@@ -222,6 +222,10 @@ years:
    takeout-percent: 77
    shots-total: 214
    shots-percent: 74
+ - year: 2021
+   event: Hearts
+   team: "WC"
+   position: Alternate
 vs:
  - Adams, Diane
  - Affleck, Tricia

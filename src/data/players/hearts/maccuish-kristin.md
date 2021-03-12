@@ -4,18 +4,18 @@ name: Kristin MacCuish
 name-sort: MacCuish, Kristin
 totals:
  - event: Hearts
-   games: 37
-   wins: 23
-   losses: 14
-   inturn-total: 384
-   inturn-percent: 85
-   outturn-total: 271
+   games: 49
+   wins: 29
+   losses: 20
+   inturn-total: 507
+   inturn-percent: 84
+   outturn-total: 368
    outturn-percent: 84
-   draw-total: 529
+   draw-total: 711
    draw-percent: 86
-   takeout-total: 126
-   takeout-percent: 78
-   shots-total: 655
+   takeout-total: 164
+   takeout-percent: 75
+   shots-total: 875
    shots-percent: 84
 years:
  - year: 2013
@@ -119,13 +119,32 @@ years:
    takeout-percent: 73
    shots-total: 154
    shots-percent: 81
+ - year: 2021
+   event: Hearts
+   team: "WC"
+   position: Lead
+   games: 12
+   wins: 6
+   losses: 6
+   inturn-total: 123
+   inturn-percent: 82
+   outturn-total: 97
+   outturn-percent: 84
+   draw-total: 182
+   draw-percent: 86
+   takeout-total: 38
+   takeout-percent: 64
+   shots-total: 220
+   shots-percent: 82
 vs:
  - Adams, Melissa
  - Anderson, Sherry
+ - Armstrong, Hailey
  - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Barbour, Shona
+ - Barron, Lauren
  - Baxter, Jen
  - Birchard, Shannon
  - Birt, Suzanne
@@ -136,6 +155,7 @@ vs:
  - Boyle, Jane
  - Brine, Jenn
  - Brothers, Jill
+ - Brown, Corryn
  - Brown, Rachel
  - Cameron, Kate
  - Campbell, Jolene
@@ -148,27 +168,37 @@ vs:
  - Curtis, Stacie
  - Daigle, Julie
  - Devereaux, Julie
+ - Doerksen, Katherine
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
+ - Eddy, Lori
+ - Einarson, Kerri
  - Englot, Michelle
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
+ - Fisher, Sam
  - Fleury, Tracy
  - Galusha, Kerry
  - Gates, Amanda
  - Gates, Jennifer
  - Gibson, Amy
+ - Godsland, Brooke
  - Griffin, Alison
  - Gushulak, Diane
+ - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Hawes, Dezaray
+ - Hill, Sarah
  - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
  - Jones, Jennifer
+ - Kitz, Chaelynn
+ - Knapp, Breanne
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
@@ -182,11 +212,18 @@ vs:
  - Letendre, Pascale
  - Lilly, Kendra
  - Lister, Kendra
+ - Loder, Jenna
+ - MacDonald, Kaitlin
  - MacPhee, Robyn
  - Martin, Heather
+ - Martin, Nancy
  - McCarville, Krista
+ - McDonald, Taylor
  - McEwen, Dawn
+ - McQuaid, Michelle
  - McTaggart, Cary-Anne
+ - Meilleur, Briane
+ - Mercer, Adrienne
  - Miskew, Emma
  - Moore, Kristie
  - Munroe, Anna
@@ -197,7 +234,9 @@ vs:
  - O'Neill, Brit
  - Peterman, Jocelyn
  - Peters, Laine
+ - Peterson, Beth
  - Pilote, Kristen
+ - Pincott, Erin
  - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
@@ -205,6 +244,7 @@ vs:
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
+ - Riley, Emily
  - Robichaud, Sylvie
  - Rusnell, Jen
  - Sagle, Karen
@@ -215,13 +255,19 @@ vs:
  - Scott, Kelly
  - Sippala, Ashley
  - Smallwood, Jody
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
+ - Sweeting, Val
  - Thompson, Karla
+ - Tingley, Jaclyn
+ - Tran, Brittany
  - Udle, Teri
  - Vandale, Trysta
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
  - Vautour, Carrie
+ - Walker, Laura
  - Walsh, Jenna
  - Wark, Sarah
  - Wasylkiw, Lauren

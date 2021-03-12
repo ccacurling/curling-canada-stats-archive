@@ -4,18 +4,18 @@ name: Shona Barbour
 name-sort: Barbour, Shona
 totals:
  - event: Hearts
-   games: 54
-   wins: 16
-   losses: 38
-   inturn-total: 635
+   games: 62
+   wins: 20
+   losses: 42
+   inturn-total: 749
    inturn-percent: 80
-   outturn-total: 378
+   outturn-total: 416
    outturn-percent: 75
-   draw-total: 738
+   draw-total: 860
    draw-percent: 80
-   takeout-total: 275
+   takeout-total: 305
    takeout-percent: 73
-   shots-total: 1013
+   shots-total: 1165
    shots-percent: 78
 years:
  - year: 2005
@@ -212,6 +212,23 @@ years:
    takeout-percent: 63
    shots-total: 126
    shots-percent: 77
+ - year: 2021
+   event: Hearts
+   team: "NT"
+   position: Lead
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 114
+   inturn-percent: 78
+   outturn-total: 38
+   outturn-percent: 74
+   draw-total: 122
+   draw-percent: 78
+   takeout-total: 30
+   takeout-percent: 70
+   shots-total: 152
+   shots-percent: 77
 vs:
  - Adams, Melissa
  - Aleksic, Shannon
@@ -233,9 +250,16 @@ vs:
  - Black, Christina
  - Blais, Amelie
  - Brassard, Veronique
+ - Brine, Jenn
+ - Brothers, Jill
  - Brown, Corryn
  - Brown, Jacalyn
+ - Brown, Rachel
+ - Burgess, Karlee
+ - Burns, Krysta
+ - Cameron, Kate
  - Campbell, Jolene
+ - Carmody, Erin
  - Carter, Sasha
  - Christianson, Marie
  - Courtney, Joanne
@@ -248,6 +272,7 @@ vs:
  - Darbyshire, Carolyn
  - deSolla, Jodie
  - Devereaux, Julie
+ - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
@@ -271,9 +296,11 @@ vs:
  - Goss, Peg
  - Gregoire, Veronique
  - Gushulak, Diane
+ - Guy, Sara
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Harmark, Andra
+ - Haughian, Jessie
  - Hawes, Dezaray
  - Holland, Amber
  - Homan, Rachel
@@ -297,7 +324,9 @@ vs:
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lemay, Annie
+ - Lenentine, Lauren
  - Lister, Kendra
+ - Loder, Jenna
  - Logan, Emma
  - Lowther, Tammi
  - MacCuish, Kristin
@@ -311,11 +340,15 @@ vs:
  - Materi, Roberta
  - McCarville, Krista
  - McConnery, Nancy
+ - McDonald, Taylor
  - McEwen, Dawn
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
+ - Meilleur, Briane
  - Middaugh, Sherry
  - Miskew, Emma
  - Moore, Kim
+ - Moore, Kristie
  - Morris, Cori
  - Muzika, Shelley
  - Nedohin, Heather
@@ -330,6 +363,7 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
+ - Peterson, Beth
  - Pewarchuk, Dailene
  - Pincott, Erin
  - Plonka, Gabrielle
@@ -340,6 +374,7 @@ vs:
  - Robichaud, Sylvie
  - Robison, Michala
  - Sabourin, Joelle
+ - Scheidegger, Casey
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
@@ -352,16 +387,20 @@ vs:
  - Slywka, Sarah
  - Smallwood, Jody
  - Smith, Heather
+ - Smith, Megan
  - Sobey, Lianne
  - Spencer, Barb
  - Strong, Heather
  - Strong, Helen
  - Strong, Laura
+ - Sweeting, Val
  - Thevenot, Kara
  - Thomas, Jill
+ - Tran, Brittany
  - Tuor, Kimberly
  - Udle, Teri
  - Vey, Lana
+ - Walker, Laura
  - Wall, Kirsten
  - Walsh, Jenna
  - Wazney, Sarah
@@ -369,6 +408,9 @@ vs:
  - Webster, Bronwen
  - Webster, Crystal
  - Westcott, Raunora
+ - Wilkes, Sarah
  - Wilson, Leslie
  - Wylie, Jennifer
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
 ---

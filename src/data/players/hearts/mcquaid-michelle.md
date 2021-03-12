@@ -4,18 +4,18 @@ name: Michelle McQuaid
 name-sort: McQuaid, Michelle
 totals:
  - event: Hearts
-   games: 52
-   wins: 20
-   losses: 32
-   inturn-total: 553
-   inturn-percent: 83
-   outturn-total: 449
+   games: 60
+   wins: 24
+   losses: 36
+   inturn-total: 657
+   inturn-percent: 84
+   outturn-total: 499
    outturn-percent: 79
-   draw-total: 755
+   draw-total: 882
    draw-percent: 83
-   takeout-total: 247
-   takeout-percent: 78
-   shots-total: 1002
+   takeout-total: 274
+   takeout-percent: 77
+   shots-total: 1156
    shots-percent: 82
 years:
  - year: 2015
@@ -103,18 +103,39 @@ years:
    takeout-percent: 74
    shots-total: 214
    shots-percent: 86
+ - year: 2021
+   event: Hearts
+   team: "PE"
+   position: Lead
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 104
+   inturn-percent: 88
+   outturn-total: 50
+   outturn-percent: 71
+   draw-total: 127
+   draw-percent: 87
+   takeout-total: 27
+   takeout-percent: 62
+   shots-total: 154
+   shots-percent: 82
 vs:
+ - Adams, Melissa
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Anderson, Sherry
+ - Armstrong, Hailey
  - Armstrong, Jennifer
  - Arnaud, Chloe
  - Arsenault, Mary-Anne
+ - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
  - Barker, Penny
+ - Barron, Lauren
  - Baxter, Jen
  - Belisle, Eve
  - Birchard, Shannon
@@ -143,23 +164,29 @@ vs:
  - Doig, Deanna
  - Duncan, Chelsea
  - Duncan, Hollie
+ - Eddy, Lori
  - Einarson, Kerri
  - Englot, Michelle
  - Eyamie, Lisa
  - Ferguson, Dana
  - Filteau, Anne-Marie
+ - Fisher, Sam
  - Fleury, Tracy
  - Forward, Katie
+ - Fyfe, Liz
  - Gagnon, Emilia
  - Galusha, Kerry
  - Gates, Amanda
  - Gates, Jennifer
  - Gibson, Amy
+ - Griffin, Alison
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Harvey, Marie-Pier
  - Hastings, Julie
+ - Haughian, Jessie
  - Hawes, Dezaray
+ - Hill, Sarah
  - Hill, Trish
  - Homan, Rachel
  - Hunkin, Jessie
@@ -167,8 +194,10 @@ vs:
  - Jones, Jennifer
  - Karwacki, Krysten
  - Kasner, Marliese
+ - Kitz, Chaelynn
  - Kleibrink, Shannon
  - Klymchuk, Ashley
+ - Knapp, Breanne
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
@@ -178,20 +207,26 @@ vs:
  - Lawton, Stefanie
  - LeDrew, Stephanie
  - Lilly, Kendra
+ - Lister, Kendra
  - Logan, Emma
+ - MacCuish, Kristin
+ - MacDonald, Kaitlin
  - Mackey, Robyn
  - Mallett, Marla
  - Mann, Lauren
+ - Martin, Nancy
  - Mattatall, Mary
  - McCarville, Krista
  - McEvoy, Julie
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Meilleur, Briane
+ - Mercer, Adrienne
  - Miskew, Emma
  - Moore, Kristie
  - Nedohin, Heather
  - Nixon, Amy
+ - Njegovan, Selena
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Rourke, Brittany
@@ -200,11 +235,13 @@ vs:
  - Peters, Laine
  - Pilote, Kristen
  - Pincott, Erin
+ - Pinksen, Sadie
  - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
  - Richard, Marie
  - Richards, Brette
+ - Riley, Emily
  - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Rusnell, Jen
@@ -223,12 +260,15 @@ vs:
  - Sippala, Ashley
  - Smith, Stacey
  - Snyder, Jane
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Strong, Heather
  - Strong, Helen
  - Sweeting, Val
  - Taylor, Susan
  - Thevenot, Kara
  - Thiessen, Alison
+ - Tingley, Jaclyn
  - Tran, Brittany
  - Trombley, Christy
  - Tuor, Kimberly

@@ -98,6 +98,7 @@ vs:
  - Forward, Katie
  - Fyfe, Liz
  - Griffin, Alison
+ - Haughian, Jessie
  - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
@@ -113,9 +114,11 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Meilleur, Briane
  - Miller, Wendy
  - Miskew, Emma
+ - Moore, Kristie
  - Munroe, Anna
  - Murphy, Sarah
  - Njegovan, Selena
@@ -127,6 +130,7 @@ vs:
  - Routledge, Jill
  - Rusnell, Jen
  - Sandwith, Carley
+ - Scheidegger, Casey
  - Scotland, Nadine
  - Silvernagle, Robyn
  - Sweeting, Val

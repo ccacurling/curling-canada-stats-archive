@@ -4,18 +4,18 @@ name: Kaitlyn Lawes
 name-sort: Lawes, Kaitlyn
 totals:
  - event: Hearts
-   games: 92
-   wins: 68
-   losses: 24
-   inturn-total: 874
-   inturn-percent: 83
-   outturn-total: 856
-   outturn-percent: 82
-   draw-total: 653
+   games: 105
+   wins: 77
+   losses: 28
+   inturn-total: 990
+   inturn-percent: 82
+   outturn-total: 986
+   outturn-percent: 81
+   draw-total: 747
    draw-percent: 80
-   takeout-total: 1077
+   takeout-total: 1229
    takeout-percent: 83
-   shots-total: 1730
+   shots-total: 1976
    shots-percent: 82
 years:
  - year: 2011
@@ -137,8 +137,27 @@ years:
    takeout-percent: 84
    shots-total: 238
    shots-percent: 80
+ - year: 2021
+   event: Hearts
+   team: "MB"
+   position: Third
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 116
+   inturn-percent: 81
+   outturn-total: 130
+   outturn-percent: 79
+   draw-total: 94
+   draw-percent: 78
+   takeout-total: 152
+   takeout-percent: 81
+   shots-total: 246
+   shots-percent: 80
 vs:
+ - Adams, Melissa
  - Anderson, Sherry
+ - Armstrong, Hailey
  - Armstrong, Jacquie
  - Armstrong, Jennifer
  - Arsenault, Mary-Anne
@@ -148,6 +167,7 @@ vs:
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
+ - Barron, Lauren
  - Baxter, Jen
  - Beauchamp, Sasha
  - Bell, Chelsey
@@ -163,6 +183,7 @@ vs:
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Cameron, Kate
  - Cameron, Nancy
  - Camozzi, Rhona
  - Campbell, Jolene
@@ -184,16 +205,19 @@ vs:
  - deJager, Blaine
  - deSolla, Jodie
  - Devereaux, Julie
+ - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
  - Dufresne, Audree
  - Duncan, Chelsea
  - Dykstra, Michelle
+ - Eddy, Lori
  - Einarson, Kerri
  - Englot, Michelle
  - Fallis, Karen
  - Ferguson, Dana
  - Filteau, Anne-Marie
+ - Fisher, Sam
  - Fleury, Tracy
  - Forward, Katie
  - Fraser, Sherry
@@ -203,6 +227,7 @@ vs:
  - Gates, Amanda
  - Gates, Jennifer
  - Gregoire, Veronique
+ - Griffin, Alison
  - Gushulak, Diane
  - Guzzwell, Stephanie
  - Hamilton, Beth
@@ -210,13 +235,16 @@ vs:
  - Hanna, Jenn
  - Hanna, Stephanie
  - Hastings, Julie
+ - Haughian, Jessie
  - Hawes, Dezaray
+ - Hill, Sarah
  - Holland, Amber
  - Holtby, Taryn
  - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Inglis, Danielle
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Colleen
@@ -224,8 +252,10 @@ vs:
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kelly, Kim
+ - Kitz, Chaelynn
  - Kleibrink, Shannon
  - Klymchuk, Ashley
+ - Knapp, Breanne
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
@@ -236,21 +266,29 @@ vs:
  - Lawton, Stefanie
  - Lemay, Annie
  - Lilly, Kendra
+ - Lister, Kendra
+ - Loder, Jenna
  - Logan, Emma
  - MacCuish, Kristin
+ - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacPhee, Robyn
  - Mair, Jessica
  - Mann, Lauren
  - Martin, Heather
+ - Martin, Nancy
  - Materi, Roberta
  - McCarville, Krista
+ - McDonald, Taylor
  - McInnis, Susan
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Meilleur, Briane
+ - Mercer, Adrienne
  - Miller, Wendy
  - Miskew, Emma
+ - Moore, Kristie
  - Moses, Dawn
  - Murphy, Jeanette
  - Murphy, Sarah
@@ -258,6 +296,7 @@ vs:
  - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Selena
  - Nowlan, Denise
  - Olson-Johns, Lori
  - O'Neill, Brit
@@ -267,21 +306,25 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
+ - Peterson, Beth
  - Pewarchuk, Dailene
  - Pilote, Kristen
  - Pincott, Erin
+ - Pinksen, Sadie
  - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
+ - Riley, Emily
  - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Ross, Allison
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
+ - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schneider, Kim
  - Schneider, Tammy
@@ -298,6 +341,8 @@ vs:
  - Snyder, Jane
  - Sobey, Lianne
  - Sonnenberg, Renee
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Strong, Heather
  - Strong, Helen
  - Strong, Laura
@@ -305,6 +350,7 @@ vs:
  - Taylor, Susan
  - Thevenot, Kara
  - Thompson, Karla
+ - Tingley, Jaclyn
  - Tran, Brittany
  - Trombley, Christy
  - Tuor, Kimberly
@@ -312,6 +358,7 @@ vs:
  - Vandale, Trysta
  - Vautour, Carrie
  - Vey, Lana
+ - Walker, Laura
  - Walsh, Jenna
  - Wark, Sarah
  - Wasylkiw, Lauren

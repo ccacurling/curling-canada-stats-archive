@@ -175,6 +175,7 @@ vs:
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Korab, Stephanie
  - Kreviazuk, Alison
  - Kreviazuk, Lynn
@@ -193,7 +194,6 @@ vs:
  - McCarville, Krista
  - McDonald, Kristy
  - McEwen, Dawn
- - Meakin, Breanne
  - Miller, Wendy
  - Miskew, Emma
  - Moses, Dawn

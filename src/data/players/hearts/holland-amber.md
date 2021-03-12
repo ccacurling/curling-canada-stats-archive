@@ -4,18 +4,18 @@ name: Amber Holland
 name-sort: Holland, Amber
 totals:
  - event: Hearts
-   games: 36
+   games: 37
    wins: 23
-   losses: 13
-   inturn-total: 344
+   losses: 14
+   inturn-total: 348
    inturn-percent: 76
-   outturn-total: 340
+   outturn-total: 358
    outturn-percent: 78
-   draw-total: 292
+   draw-total: 304
    draw-percent: 73
-   takeout-total: 392
+   takeout-total: 402
    takeout-percent: 80
-   shots-total: 684
+   shots-total: 706
    shots-percent: 77
 years:
  - year: 1999
@@ -81,6 +81,23 @@ years:
    event: Hearts
    team: "SK"
    position: Alternate
+ - year: 2021
+   event: Hearts
+   team: "SK"
+   position: Fourth
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 4
+   inturn-percent: 69
+   outturn-total: 18
+   outturn-percent: 65
+   draw-total: 12
+   draw-percent: 71
+   takeout-total: 10
+   takeout-percent: 60
+   shots-total: 22
+   shots-percent: 66
 vs:
  - Affleck, Tricia
  - Armstrong, Jacquie
@@ -102,6 +119,7 @@ vs:
  - Cunningham, Jennifer
  - Curtis, Stacie
  - deSolla, Jodie
+ - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
  - Einarson, Megan
@@ -131,6 +149,7 @@ vs:
  - LeDrew, Stephanie
  - Lemay, Annie
  - Lemon, Colette
+ - Loder, Jenna
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacLean, Kari
@@ -158,6 +177,7 @@ vs:
  - Parsons, Danielle
  - Paul, Sarah
  - Peters, Laine
+ - Peterson, Beth
  - Pewarchuk, Dailene
  - Phillips, Kristen
  - Rainville, Julie
@@ -175,6 +195,7 @@ vs:
  - Sweeting, Val
  - Thomas, Jill
  - Thurston, Jill
+ - Tran, Brittany
  - Udle, Teri
  - Vey, Lana
  - Walsh, Jenna

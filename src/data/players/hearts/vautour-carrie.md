@@ -68,6 +68,7 @@ vs:
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Haughian, Jessie
  - Howard, Ashley
  - Hughes, Meaghan
  - Jones, Jennifer
@@ -81,6 +82,8 @@ vs:
  - MacPhee, Robyn
  - McCarville, Krista
  - McEwen, Dawn
+ - McTaggart, Cary-Anne
+ - Moore, Kristie
  - Murphy, Sarah
  - Njegovan, Selena
  - Nicholls, Brenda
@@ -95,6 +98,7 @@ vs:
  - Richard, Marie
  - Robichaud, Sylvie
  - Sagle, Karen
+ - Scheidegger, Casey
  - Shaw, Ladene
  - Sippala, Ashley
  - Strong, Helen

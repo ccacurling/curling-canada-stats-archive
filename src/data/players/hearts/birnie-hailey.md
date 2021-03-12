@@ -71,6 +71,7 @@ vs:
  - Galusha, Kerry
  - Guzzwell, Stephanie
  - Hamilton, Beth
+ - Haughian, Jessie
  - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
@@ -84,12 +85,15 @@ vs:
  - Logan, Emma
  - McEwen, Dawn
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Miskew, Emma
+ - Moore, Kristie
  - Officer, Jill
  - Peterman, Jocelyn
  - Pincott, Erin
  - Porter, Erin
  - Rizzo, Jo-Ann
+ - Scheidegger, Casey
  - Sharpe, Kelli
  - Silvernagle, Robyn
  - Thevenot, Kara

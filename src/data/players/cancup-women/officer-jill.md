@@ -229,6 +229,7 @@ vs:
  - King, Cathy
  - Kirby, Carey
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Lawes, Andrea
  - Lawton, Stefanie
  - LeDrew, Stephanie
@@ -246,7 +247,6 @@ vs:
  - McDonald, Taylor
  - McDonald, Tina
  - McNamee, Karen
- - Meakin, Breanne
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma

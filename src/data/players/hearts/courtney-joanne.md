@@ -4,18 +4,18 @@ name: Joanne Courtney
 name-sort: Courtney, Joanne
 totals:
  - event: Hearts
-   games: 69
-   wins: 51
-   losses: 18
-   inturn-total: 722
+   games: 82
+   wins: 61
+   losses: 21
+   inturn-total: 844
    inturn-percent: 84
-   outturn-total: 593
-   outturn-percent: 83
-   draw-total: 530
-   draw-percent: 80
-   takeout-total: 785
-   takeout-percent: 85
-   shots-total: 1315
+   outturn-total: 709
+   outturn-percent: 82
+   draw-total: 719
+   draw-percent: 82
+   takeout-total: 834
+   takeout-percent: 84
+   shots-total: 1553
    shots-percent: 83
 years:
  - year: 2014
@@ -103,10 +103,28 @@ years:
    takeout-percent: 85
    shots-total: 260
    shots-percent: 82
+ - year: 2021
+   event: Hearts
+   team: "ON"
+   position: Lead
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 122
+   inturn-percent: 86
+   outturn-total: 116
+   outturn-percent: 81
+   draw-total: 189
+   draw-percent: 87
+   takeout-total: 49
+   takeout-percent: 68
+   shots-total: 238
+   shots-percent: 83
 vs:
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Anderson, Sherry
+ - Armstrong, Hailey
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Baier, Stephanie
@@ -128,6 +146,8 @@ vs:
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Burgess, Karlee
+ - Burns, Krysta
  - Cameron, Kate
  - Camozzi, Rhona
  - Carey, Chelsea
@@ -149,6 +169,7 @@ vs:
  - Derry, Danielle
  - deSolla, Jodie
  - Devereaux, Julie
+ - Doerksen, Katherine
  - Doig, Deanna
  - Dolan, Kim
  - Dolan, Sinead
@@ -159,6 +180,7 @@ vs:
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Flaxey, Allison
+ - Flemming, Margot
  - Fleury, Tracy
  - Foster, Kristen
  - Fullerton, Sarah
@@ -168,8 +190,10 @@ vs:
  - Gates, Amanda
  - Gates, Jennifer
  - Griffin, Alison
+ - Guy, Sara
  - Hamilton, Beth
  - Hastings, Julie
+ - Haughian, Jessie
  - Hawes, Dezaray
  - Hill, Trish
  - Homan, Rachel
@@ -178,8 +202,10 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese
+ - Kitz, Chaelynn
  - Kleibrink, Shannon
  - Klymchuk, Ashley
+ - Knapp, Breanne
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
@@ -189,25 +215,32 @@ vs:
  - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
+ - Lenentine, Lauren
  - Lilly, Kendra
+ - Loder, Jenna
  - Logan, Emma
  - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
+ - Martin, Nancy
  - Mattatall, Mary
  - McCarville, Krista
  - McDonald, Kristy
+ - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Meilleur, Briane
  - Miskew, Emma
+ - Moore, Kristie
  - Munroe, Anna
  - Murphy, Sarah
  - Njegovan, Selena
  - Nixon, Amy
+ - Njegovan, Selena
  - Nugent, Pamela
  - Officer, Jill
  - Olson-Johns, Lori
@@ -215,6 +248,7 @@ vs:
  - Parsons, Danielle
  - Peterman, Jocelyn
  - Peters, Laine
+ - Peterson, Beth
  - Pilote, Kristen
  - Pincott, Erin
  - Pinksen, Sadie
@@ -224,6 +258,7 @@ vs:
  - Reid, Jackie
  - Richard, Marie
  - Richards, Brette
+ - Riley, Emily
  - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Robison, Michala
@@ -232,6 +267,7 @@ vs:
  - Sanderson, Jessie
  - Sandwith, Carley
  - Saulnier, Andrea
+ - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schneider, Lorraine
  - Sicinski, Danielle
@@ -240,8 +276,11 @@ vs:
  - Singler, Sherri
  - Sippala, Ashley
  - Smith, Heather
+ - Smith, Megan
  - Smith, Stacey
  - Snyder, Jane
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
@@ -250,10 +289,12 @@ vs:
  - Thiessen, Alison
  - Thomas-Kennell, Noelle
  - Titheridge, Lindsay
+ - Tran, Brittany
  - Trombley, Christy
  - Tuor, Kimberly
  - Udle, Teri
  - Van Osch, Kesa
+ - Walker, Laura
  - Wallingham, Patty
  - Walsh, Jenna
  - Wark, Sarah
@@ -262,4 +303,6 @@ vs:
  - Wilkes, Sarah
  - Wilson, Leslie
  - Wylie, Jennifer
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
 ---

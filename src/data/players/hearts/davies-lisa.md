@@ -78,10 +78,10 @@ vs:
  - Foster, Kristen
  - Joyce, Blisse
  - Kasner, Marliese
+ - Knapp, Breanne
  - Knezevic, Patti
  - Lawton, Stefanie
  - McDonald, Kristy
- - Meakin, Breanne
  - Pewarchuk, Dailene
  - Sanderson, Jessie
  - Sandwith, Carley

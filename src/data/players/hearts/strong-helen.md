@@ -46,6 +46,7 @@ vs:
  - Galusha, Kerry
  - Guzzwell, Stephanie
  - Hamilton, Beth
+ - Haughian, Jessie
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Jones, Jennifer
@@ -54,8 +55,11 @@ vs:
  - Lawton, Stefanie
  - McEwen, Dawn
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
+ - Moore, Kristie
  - Officer, Jill
  - Peterman, Jocelyn
+ - Scheidegger, Casey
  - Sharpe, Kelli
  - Silvernagle, Robyn
  - Thevenot, Kara

@@ -85,6 +85,7 @@ vs:
  - Gannon, Melissa
  - Gates, Jennifer
  - Griffin, Alison
+ - Haughian, Jessie
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
@@ -104,7 +105,9 @@ vs:
  - McDonald, Kristy
  - McEwen, Dawn
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Miskew, Emma
+ - Moore, Kristie
  - Munroe, Anna
  - Murphy, Sarah
  - Njegovan, Selena
@@ -115,6 +118,7 @@ vs:
  - Potts, Sarah
  - Robison, Michala
  - Ross, Allison
+ - Scheidegger, Casey
  - Silvernagle, Robyn
  - Sinclair, Andrea
  - Singler, Sherri

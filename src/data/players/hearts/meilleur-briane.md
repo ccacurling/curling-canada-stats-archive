@@ -4,19 +4,19 @@ name: Briane Meilleur
 name-sort: Meilleur, Briane
 totals:
  - event: Hearts
-   games: 17
-   wins: 13
-   losses: 4
-   inturn-total: 157
-   inturn-percent: 86
-   outturn-total: 126
-   outturn-percent: 88
-   draw-total: 215
-   draw-percent: 92
-   takeout-total: 68
+   games: 31
+   wins: 25
+   losses: 6
+   inturn-total: 296
+   inturn-percent: 84
+   outturn-total: 245
+   outturn-percent: 85
+   draw-total: 419
+   draw-percent: 88
+   takeout-total: 122
    takeout-percent: 71
-   shots-total: 283
-   shots-percent: 87
+   shots-total: 541
+   shots-percent: 84
 years:
  - year: 2016
    event: Hearts
@@ -135,50 +135,91 @@ years:
    takeout-percent: 68
    shots-total: 247
    shots-percent: 87
+ - year: 2021
+   event: Hearts
+   team: "CA"
+   position: Lead
+   games: 14
+   wins: 12
+   losses: 2
+   inturn-total: 139
+   inturn-percent: 81
+   outturn-total: 119
+   outturn-percent: 83
+   draw-total: 204
+   draw-percent: 85
+   takeout-total: 54
+   takeout-percent: 70
+   shots-total: 258
+   shots-percent: 82
 vs:
+ - Anderson, Sherry
+ - Armstrong, Hailey
  - Armstrong, Jennifer
  - Babin, Jillian
+ - Barbour, Shona
  - Birchard, Shannon
  - Birt, Suzanne
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Brunton, Kira
+ - Burgess, Karlee
+ - Burns, Krysta
  - Cameron, Kate
  - Carey, Chelsea
+ - Carmody, Erin
  - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
  - Crawford, Andrea
+ - Doerksen, Katherine
  - Eddy, Lori
  - Ferguson, Dana
+ - Flemming, Margot
  - Forward, Katie
+ - Fyfe, Liz
+ - Galusha, Kerry
+ - Gates, Amanda
  - Gates, Jennifer
  - Griffin, Alison
+ - Guy, Sara
  - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hutchings, Denise
  - Jones, Jennifer
+ - Kitz, Chaelynn
  - Klymchuk, Ashley
+ - Knapp, Breanne
  - Lavery, Tracey
  - Lawes, Kaitlyn
  - Lawton, Stefanie
+ - Lenentine, Lauren
  - Lilly, Kendra
+ - Loder, Jenna
+ - Logan, Emma
+ - MacCuish, Kristin
  - MacDonald, Kaitlin
  - Mackey, Robyn
+ - Martin, Nancy
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McQuaid, Michelle
  - Miskew, Emma
  - Murphy, Sarah
+ - Njegovan, Selena
  - Officer, Jill
  - Peterman, Jocelyn
+ - Peterson, Beth
  - Pincott, Erin
  - Pinksen, Sadie
  - Recksiedler, Kristen
+ - Riley, Emily
+ - Rizzo, Jo-Ann
  - Routledge, Alanna
  - Routledge, Jill
  - Schmidt, Stephanie
@@ -186,8 +227,12 @@ vs:
  - Shackleton, Amie
  - Silvernagle, Robyn
  - Sippala, Ashley
+ - Smith, Megan
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Taylor, Susan
  - Thompson, Karla
+ - Tran, Brittany
  - Udle, Teri
  - Vandale, Trysta
  - Verreault, Noemie
@@ -195,4 +240,6 @@ vs:
  - Weagle, Lisa
  - West, Christianne
  - Wilkes, Sarah
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
 ---

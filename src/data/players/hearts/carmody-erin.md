@@ -4,18 +4,18 @@ name: Erin Carmody
 name-sort: Carmody, Erin
 totals:
  - event: Hearts
-   games: 21
-   wins: 11
-   losses: 10
-   inturn-total: 219
-   inturn-percent: 75
-   outturn-total: 175
-   outturn-percent: 74
-   draw-total: 176
+   games: 29
+   wins: 14
+   losses: 15
+   inturn-total: 293
+   inturn-percent: 74
+   outturn-total: 243
+   outturn-percent: 73
+   draw-total: 243
    draw-percent: 69
-   takeout-total: 218
-   takeout-percent: 78
-   shots-total: 394
+   takeout-total: 293
+   takeout-percent: 77
+   shots-total: 536
    shots-percent: 74
 years:
  - year: 2010
@@ -52,15 +52,37 @@ years:
    takeout-percent: 78
    shots-total: 132
    shots-percent: 77
+ - year: 2021
+   event: Hearts
+   team: "NS"
+   position: Third
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 74
+   inturn-percent: 72
+   outturn-total: 68
+   outturn-percent: 71
+   draw-total: 67
+   draw-percent: 69
+   takeout-total: 75
+   takeout-percent: 73
+   shots-total: 142
+   shots-percent: 71
 vs:
  - Aleksic, Shannon
  - Armstrong, Jacquie
  - Babin, Jillian
+ - Barbour, Shona
  - Belisle, Eve
+ - Birchard, Shannon
  - Blaney, Jennifer
  - Bodner, Jenine
  - Boudreault, Patricia
  - Brown, Rachel
+ - Burgess, Karlee
+ - Burns, Krysta
+ - Cameron, Kate
  - Carey, Chelsea
  - Carter, Sasha
  - Comeau, Martine
@@ -69,15 +91,21 @@ vs:
  - Crawford, Andrea
  - Crouse, Jennifer
  - Daigle, Julie
+ - Doerksen, Katherine
+ - Einarson, Kerri
  - Einarson, Megan
  - Ellis, Danielle
  - Ferguson, Dana
+ - Flemming, Margot
  - Fleury, Tracy
  - Fyfe, Liz
+ - Galusha, Kerry
+ - Gates, Amanda
  - Gates, Jennifer
  - George, Tara
  - Gilman, Sheena
  - Griffin, Alison
+ - Guy, Sara
  - Hardy, Shelley
  - Holland, Amber
  - Homan, Rachel
@@ -89,14 +117,18 @@ vs:
  - Lavoie, Gabrielle
  - LeDrew, Stephanie
  - Lemon, Colette
+ - Lenentine, Lauren
  - Lilly, Kendra
+ - Loder, Jenna
  - MacCuish, Kristin
  - MacIntosh, Kelly
  - MacLean, Kari
  - Makichuck, Lindsay
  - McCarville, Krista
  - McConnery, Nancy
+ - McDonald, Taylor
  - McEwen, Dawn
+ - Meilleur, Briane
  - Miskew, Emma
  - More, Whitney
  - Munroe, Anna
@@ -106,11 +138,13 @@ vs:
  - Nowlan, Denise
  - Officer, Jill
  - Overton-Clapham, Cathy
+ - Peterson, Beth
  - Phillips, Kristen
  - Pilote, Kristen
  - Pinksen, Sadie
  - Potts, Sarah
  - Rainville, Julie
+ - Rizzo, Jo-Ann
  - Rogers, Leslie
  - Rogers, Rhonda
  - Rusnell, Jen
@@ -120,13 +154,18 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sippala, Ashley
+ - Smith, Megan
  - Sobey, Lianne
  - Sweeting, Val
  - Thomas, Jill
  - Thurston, Jill
+ - Tran, Brittany
+ - Walker, Laura
  - Wark, Sarah
  - Weagle, Lisa
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
 ---

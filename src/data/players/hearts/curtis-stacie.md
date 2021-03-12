@@ -172,6 +172,7 @@ vs:
  - Kalenchuk, Heather
  - Kelly, Kim
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Koehler, Megan
  - Kreviazuk, Alison
  - Kreviazuk, Cheryl
@@ -193,7 +194,6 @@ vs:
  - McEwen, Dawn
  - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meakin, Breanne
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma

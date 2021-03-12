@@ -85,6 +85,7 @@ vs:
  - Gates, Jennifer
  - Griffin, Alison
  - Hastings, Julie
+ - Haughian, Jessie
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
@@ -103,7 +104,9 @@ vs:
  - McInnis, Susan
  - McPherson, Cheryl
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Miskew, Emma
+ - Moore, Kristie
  - Munroe, Anna
  - Murphy, Sarah
  - Njegovan, Selena
@@ -115,6 +118,7 @@ vs:
  - Potts, Sarah
  - Richard, Marie
  - Robichaud, Sylvie
+ - Scheidegger, Casey
  - Schmidt, Stephanie
  - Silvernagle, Robyn
  - Smith, Stacey

@@ -4,19 +4,19 @@ name: Kate Cameron
 name-sort: Cameron, Kate
 totals:
  - event: Hearts
-   games: 31
-   wins: 20
-   losses: 11
-   inturn-total: 314
-   inturn-percent: 81
-   outturn-total: 260
-   outturn-percent: 81
-   draw-total: 246
-   draw-percent: 81
-   takeout-total: 328
-   takeout-percent: 81
-   shots-total: 574
-   shots-percent: 81
+   games: 45
+   wins: 30
+   losses: 15
+   inturn-total: 440
+   inturn-percent: 79
+   outturn-total: 388
+   outturn-percent: 79
+   draw-total: 356
+   draw-percent: 79
+   takeout-total: 472
+   takeout-percent: 79
+   shots-total: 828
+   shots-percent: 79
 years:
  - year: 2017
    event: Hearts
@@ -69,20 +69,45 @@ years:
    takeout-percent: 77
    shots-total: 130
    shots-percent: 79
+ - year: 2021
+   event: Hearts
+   team: "AB"
+   position: Third
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 126
+   inturn-percent: 73
+   outturn-total: 128
+   outturn-percent: 76
+   draw-total: 110
+   draw-percent: 74
+   takeout-total: 144
+   takeout-percent: 75
+   shots-total: 254
+   shots-percent: 75
 vs:
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
+ - Anderson, Sherry
+ - Armstrong, Hailey
  - Armstrong, Jennifer
  - Arnaud, Chloe
  - Arsenault, Mary-Anne
  - Babin, Jillian
+ - Barbour, Shona
  - Barker, Penny
  - Baxter, Jen
  - Belisle, Eve
  - Birchard, Shannon
  - Black, Christina
+ - Brine, Jenn
+ - Brothers, Jill
  - Brown, Rachel
+ - Burgess, Karlee
+ - Burns, Krysta
  - Carey, Chelsea
+ - Carmody, Erin
  - Cormier, Sharon
  - Cote, Marie-Pier
  - Courtney, Joanne
@@ -94,12 +119,14 @@ vs:
  - deJager, Blaine
  - Derry, Danielle
  - Devereaux, Julie
+ - Doerksen, Katherine
  - Doig, Deanna
  - Duncan, Hollie
  - Eddy, Lori
  - Einarson, Kerri
  - Eyamie, Lisa
  - Ferguson, Dana
+ - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
  - Fullerton, Sarah
@@ -110,6 +137,7 @@ vs:
  - Gates, Jennifer
  - Gibson, Amy
  - Griffin, Alison
+ - Guy, Sara
  - Harvey, Marie-Pier
  - Hill, Trish
  - Homan, Rachel
@@ -117,17 +145,24 @@ vs:
  - Hunkin, Jessie
  - Hutchings, Denise
  - Jones, Jennifer
+ - Kitz, Chaelynn
+ - Knapp, Breanne
  - Koehler, Megan
  - Kreviazuk, Cheryl
+ - Lawes, Kaitlyn
  - Lawton, Stefanie
  - LeDrew, Stephanie
+ - Lenentine, Lauren
  - Lilly, Kendra
+ - Loder, Jenna
+ - Logan, Emma
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - Mackey, Robyn
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
+ - Martin, Nancy
  - Mattatall, Mary
  - McCarville, Krista
  - McEvoy, Julie
@@ -140,15 +175,19 @@ vs:
  - Nedohin, Heather
  - Njegovan, Selena
  - Nixon, Amy
+ - Njegovan, Selena
  - Officer, Jill
  - O'Rourke, Brittany
  - Perron, Melina
  - Peterman, Jocelyn
  - Peters, Laine
+ - Peterson, Beth
  - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
  - Richards, Brette
+ - Riley, Emily
+ - Rizzo, Jo-Ann
  - Routledge, Alanna
  - Routledge, Jill
  - Sagle, Karen
@@ -159,9 +198,13 @@ vs:
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley
+ - Smith, Megan
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Sweeting, Val
  - Taylor, Susan
  - Thiessen, Alison
+ - Tran, Brittany
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
@@ -171,4 +214,6 @@ vs:
  - West, Christianne
  - Wilkes, Sarah
  - Wylie, Jennifer
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
 ---

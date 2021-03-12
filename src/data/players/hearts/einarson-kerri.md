@@ -4,18 +4,18 @@ name: Kerri Einarson
 name-sort: Einarson, Kerri
 totals:
  - event: Hearts
-   games: 40
-   wins: 28
-   losses: 12
-   inturn-total: 369
+   games: 54
+   wins: 40
+   losses: 14
+   inturn-total: 494
    inturn-percent: 80
-   outturn-total: 381
-   outturn-percent: 81
-   draw-total: 310
-   draw-percent: 77
-   takeout-total: 440
+   outturn-total: 508
+   outturn-percent: 82
+   draw-total: 411
+   draw-percent: 79
+   takeout-total: 591
    takeout-percent: 83
-   shots-total: 750
+   shots-total: 1002
    shots-percent: 81
 years:
  - year: 2016
@@ -69,9 +69,27 @@ years:
    takeout-percent: 90
    shots-total: 247
    shots-percent: 85
+ - year: 2021
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   games: 14
+   wins: 12
+   losses: 2
+   inturn-total: 125
+   inturn-percent: 81
+   outturn-total: 127
+   outturn-percent: 85
+   draw-total: 101
+   draw-percent: 84
+   takeout-total: 151
+   takeout-percent: 82
+   shots-total: 252
+   shots-percent: 83
 vs:
  - Adams, Melissa
  - Anderson, Sherry
+ - Armstrong, Hailey
  - Armstrong, Jennifer
  - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
@@ -87,9 +105,13 @@ vs:
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Brunton, Kira
+ - Burgess, Karlee
+ - Burns, Krysta
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
+ - Carmody, Erin
  - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
@@ -97,6 +119,7 @@ vs:
  - Crouse, Jennifer
  - Curtis, Stacie
  - Devereaux, Julie
+ - Doerksen, Katherine
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
@@ -105,13 +128,16 @@ vs:
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
+ - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
  - Gates, Jennifer
  - Gibson, Amy
  - Griffin, Alison
+ - Guy, Sara
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
@@ -121,7 +147,9 @@ vs:
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Jones, Jennifer
+ - Kitz, Chaelynn
  - Klymchuk, Ashley
+ - Knapp, Breanne
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
@@ -132,11 +160,16 @@ vs:
  - Lawton, Stefanie
  - LeDrew, Stephanie
  - Lemay, Annie
+ - Lenentine, Lauren
  - Letendre, Pascale
  - Lilly, Kendra
  - Lister, Kendra
+ - Loder, Jenna
+ - Logan, Emma
+ - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacPhee, Robyn
+ - Martin, Nancy
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
@@ -147,10 +180,12 @@ vs:
  - Murphy, Sarah
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Selena
  - Officer, Jill
  - O'Neill, Brit
  - Peterman, Jocelyn
  - Peters, Laine
+ - Peterson, Beth
  - Pincott, Erin
  - Pinksen, Sadie
  - Porter, Erin
@@ -159,6 +194,8 @@ vs:
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
+ - Riley, Emily
+ - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Routledge, Alanna
  - Routledge, Jill
@@ -170,8 +207,12 @@ vs:
  - Silvernagle, Robyn
  - Sippala, Ashley
  - Smallwood, Jody
+ - Smith, Megan
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Taylor, Susan
  - Thompson, Karla
+ - Tran, Brittany
  - Udle, Teri
  - Vandale, Trysta
  - Van Osch, Kalia
@@ -187,4 +228,6 @@ vs:
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
 ---

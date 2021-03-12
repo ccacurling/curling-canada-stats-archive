@@ -240,6 +240,7 @@ vs:
  - Hardy, Shelley
  - Harrison, Meredith
  - Harvey, Janet
+ - Haughian, Jessie
  - Hawes, Dezaray
  - Hill, Trish
  - Holland, Amber
@@ -286,8 +287,10 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Meilleur, Briane
  - Miskew, Emma
+ - Moore, Kristie
  - More, Whitney
  - Morgan, Cheryl
  - Morris, Cori
@@ -339,6 +342,7 @@ vs:
  - Sagle, Karen
  - Sandwith, Carley
  - Saulnier, Andrea
+ - Scheidegger, Casey
  - Schneider, Kim
  - Schneider, Lorraine
  - Schneider, Tammy

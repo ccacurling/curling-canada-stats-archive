@@ -70,6 +70,7 @@ vs:
  - Homan, Rachel
  - Iskiw, Beth
  - Kasner, Marliese
+ - Knapp, Breanne
  - Kreviazuk, Alison
  - Kreviazuk, Lynn
  - Lawton, Stefanie
@@ -78,7 +79,6 @@ vs:
  - Mair, Jessica
  - McCarville, Krista
  - McTaggart, Cary-Anne
- - Meakin, Breanne
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma

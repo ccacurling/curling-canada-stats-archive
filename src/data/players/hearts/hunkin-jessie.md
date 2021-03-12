@@ -77,6 +77,7 @@ vs:
  - Griffin, Alison
  - Guzzwell, Stephanie
  - Hamilton, Beth
+ - Haughian, Jessie
  - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
@@ -91,8 +92,10 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Meilleur, Briane
  - Miskew, Emma
+ - Moore, Kristie
  - Peterman, Jocelyn
  - Pilote, Kristen
  - Pincott, Erin
@@ -102,6 +105,7 @@ vs:
  - Routledge, Jill
  - Rusnell, Jen
  - Sandwith, Carley
+ - Scheidegger, Casey
  - Scotland, Nadine
  - Sharpe, Kelli
  - Shaw, Ladene

@@ -113,6 +113,7 @@ vs:
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Koehler, Megan
  - Kreviazuk, Alison
  - Lang, Lorraine
@@ -136,7 +137,6 @@ vs:
  - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
- - Meakin, Breanne
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma

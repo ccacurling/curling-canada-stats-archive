@@ -89,6 +89,7 @@ vs:
  - Iskiw, Beth
  - Jones, Jennifer
  - Kasner, Marliese
+ - Knapp, Breanne
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Loder, Jenna
@@ -96,7 +97,6 @@ vs:
  - McDonald, Kristy
  - McDonald, Taylor
  - McEwen, Dawn
- - Meakin, Breanne
  - Miskew, Emma
  - Nedohin, Heather
  - Nixon, Amy

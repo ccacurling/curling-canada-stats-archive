@@ -4,18 +4,18 @@ name: Dana Ferguson
 name-sort: Ferguson, Dana
 totals:
  - event: Hearts
-   games: 52
-   wins: 36
+   games: 54
+   wins: 38
    losses: 16
-   inturn-total: 471
-   inturn-percent: 83
-   outturn-total: 521
+   inturn-total: 478
+   inturn-percent: 82
+   outturn-total: 522
    outturn-percent: 83
-   draw-total: 383
+   draw-total: 387
    draw-percent: 80
-   takeout-total: 609
+   takeout-total: 613
    takeout-percent: 84
-   shots-total: 992
+   shots-total: 1000
    shots-percent: 83
 years:
  - year: 2014
@@ -86,6 +86,23 @@ years:
    takeout-percent: 81
    shots-total: 212
    shots-percent: 81
+ - year: 2021
+   event: Hearts
+   team: "AB"
+   position: Lead
+   games: 2
+   wins: 2
+   losses: 0
+   inturn-total: 7
+   inturn-percent: 79
+   outturn-total: 1
+   outturn-percent: 50
+   draw-total: 4
+   draw-percent: 75
+   takeout-total: 4
+   takeout-percent: 75
+   shots-total: 8
+   shots-percent: 75
 vs:
  - Anderson, Sherry
  - Armstrong, Jennifer
@@ -106,6 +123,7 @@ vs:
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Corryn
+ - Burns, Krysta
  - Cameron, Kate
  - Camozzi, Rhona
  - Carey, Chelsea
@@ -137,7 +155,9 @@ vs:
  - Gates, Amanda
  - Gates, Jennifer
  - Griffin, Alison
+ - Guy, Sara
  - Hastings, Julie
+ - Haughian, Jessie
  - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
@@ -167,8 +187,10 @@ vs:
  - McInnis, Susan
  - McPherson, Cheryl
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Meilleur, Briane
  - Miskew, Emma
+ - Moore, Kristie
  - Munroe, Anna
  - Murphy, Sarah
  - Njegovan, Selena
@@ -191,6 +213,7 @@ vs:
  - Rusnell, Jen
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Scheidegger, Casey
  - Schmidt, Stephanie
  - Scotland, Nadine
  - Silvernagle, Robyn
@@ -198,6 +221,7 @@ vs:
  - Singler, Sherri
  - Sippala, Ashley
  - Smith, Heather
+ - Smith, Megan
  - Smith, Stacey
  - Snyder, Jane
  - Strong, Heather

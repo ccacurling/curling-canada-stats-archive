@@ -53,6 +53,7 @@ vs:
  - Gates, Jennifer
  - Guzzwell, Stephanie
  - Hamilton, Beth
+ - Haughian, Jessie
  - Homan, Rachel
  - Hughes, Meaghan
  - Jewer, Michelle
@@ -63,12 +64,15 @@ vs:
  - McCarville, Krista
  - McEwen, Dawn
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Miskew, Emma
+ - Moore, Kristie
  - Peterman, Jocelyn
  - Pilote, Kristen
  - Potts, Sarah
  - Rusnell, Jen
  - Sandwith, Carley
+ - Scheidegger, Casey
  - Sharpe, Kelli
  - Shaw, Ladene
  - Strong, Helen

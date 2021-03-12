@@ -185,6 +185,7 @@ vs:
  - Kerr, Kathy
  - Keshen, Christine
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Larouche, Marie-France
  - Law, Kelley
  - Lawes, Kaitlyn
@@ -204,7 +205,6 @@ vs:
  - McEwen, Dawn
  - McInnis, Susan
  - McNamee, Karen
- - Meakin, Breanne
  - Miskew, Emma
  - Mossman, Angela
  - Nedohin, Heather

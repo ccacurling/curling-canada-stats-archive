@@ -4,19 +4,19 @@ name: Sherry Anderson
 name-sort: Anderson, Sherry
 totals:
  - event: Hearts
-   games: 83
-   wins: 50
-   losses: 33
-   inturn-total: 706
-   inturn-percent: 80
-   outturn-total: 866
-   outturn-percent: 79
-   draw-total: 653
-   draw-percent: 76
-   takeout-total: 919
-   takeout-percent: 82
-   shots-total: 1572
-   shots-percent: 79
+   games: 94
+   wins: 56
+   losses: 38
+   inturn-total: 818
+   inturn-percent: 78
+   outturn-total: 956
+   outturn-percent: 78
+   draw-total: 751
+   draw-percent: 75
+   takeout-total: 1023
+   takeout-percent: 81
+   shots-total: 1774
+   shots-percent: 78
 years:
  - year: 1994
    event: Hearts
@@ -145,11 +145,29 @@ years:
    takeout-percent: 76
    shots-total: 149
    shots-percent: 72
+ - year: 2021
+   event: Hearts
+   team: "SK"
+   position: Fourth
+   games: 11
+   wins: 6
+   losses: 5
+   inturn-total: 112
+   inturn-percent: 70
+   outturn-total: 90
+   outturn-percent: 72
+   draw-total: 98
+   draw-percent: 66
+   takeout-total: 104
+   takeout-percent: 75
+   shots-total: 202
+   shots-percent: 71
 vs:
  - Adams, Melissa
  - Affleck, Tricia
  - Allen, Susan
  - Allerton, Dana
+ - Armstrong, Hailey
  - Arnaud, Chloe
  - Arnott, Janet
  - Arsenault, Mary-Anne
@@ -160,6 +178,7 @@ vs:
  - Baker, Rose-Marie
  - Bakker, Glenys
  - Barbour, Shona
+ - Barron, Lauren
  - Baxter, Jen
  - Belley, Joelle
  - Bernard, Krista
@@ -180,16 +199,19 @@ vs:
  - Bradley, Shelly
  - Breen, Theresa
  - Brothers, Jill
+ - Brown, Corryn
  - Brown, Janet
  - Brown, Maureen
  - Brown, Rachel
  - Bryant, Angie
  - Burlington, Cheryl
+ - Cameron, Kate
  - Cameron, Nancy
  - Camozzi, Rhona
  - Carey, Chelsea
  - Charette, Agnes
  - Charette, France
+ - Christianson, Marie
  - Collins, Katrina
  - Cooke, Gerri
  - Cooper, Kathryn
@@ -215,6 +237,7 @@ vs:
  - Dolan, Sinead
  - Duncan, Chelsea
  - Duncan, Jenna
+ - Eddy, Lori
  - Einarson, Kerri
  - Fallis, Karen
  - Fallis-Kurz, Lynn
@@ -222,6 +245,7 @@ vs:
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Fisher, Alana
+ - Fisher, Sam
  - Flannigan, Lorraine
  - Flaxey, Allison
  - Fleury, Tracy
@@ -245,16 +269,21 @@ vs:
  - Goss, Peg
  - Graham-MacDonald, Bea
  - Gregoire, Veronique
+ - Griffin, Alison
  - Gudereit, Marcia
  - Gushulak, Diane
+ - Hamilton, Beth
  - Hanlon, Heidi
  - Harris, Susan
  - Harrison, Meredith
  - Harvey, Marie-Pier
  - Hastings, Julie
+ - Hawes, Dezaray
  - Henry, Lou Ann
+ - Hill, Sarah
  - Homan, Rachel
  - Horne, Kate
+ - Hughes, Meaghan
  - Hunter, Lana
  - Iskiw, Beth
  - Jackson, Virginia
@@ -290,6 +319,7 @@ vs:
  - MacAulay, Marion
  - MacCallum, Janice
  - MacCuish, Kristin
+ - MacDonald, Kaitlin
  - MacDonald, Lawnie
  - MacDonald, Rebecca Jean
  - MacKenzie, Doris
@@ -301,11 +331,14 @@ vs:
  - McCrady, Christine
  - McCusker, Joan
  - McDonald, Kristy
+ - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
  - McKnight, Patti
  - McLeod, Crystal
  - McQuaid, Michelle
+ - Meilleur, Briane
+ - Mercer, Adrienne
  - Merklinger, Anne
  - Middaugh, Sherry
  - Miskew, Emma
@@ -315,6 +348,7 @@ vs:
  - Muzika, Shelley
  - Njegovan, Selena
  - Nixon, Amy
+ - Njegovan, Selena
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Rourke, Brittany
@@ -324,13 +358,17 @@ vs:
  - Palinkas, Gloria
  - Parsons, Danielle
  - Perron, Melina
+ - Peterman, Jocelyn
  - Peters, Laine
  - Phillips, Laura
  - Pilote, Kristen
+ - Pincott, Erin
+ - Pinksen, Sadie
  - Power, Marie-Anne
  - Price, Kara
  - Purdy, Karen
  - Richard, Marie
+ - Riley, Emily
  - Robichaud, Sylvie
  - Robinson, Charlene
  - Robinson, Lori
@@ -347,6 +385,8 @@ vs:
  - Smith, Heather
  - Smith, Stacey
  - Snyder, Jane
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Stabel, Stacey
  - Stewart, Sheri
  - Stokes, Debbie
@@ -354,11 +394,13 @@ vs:
  - Strong, Laura
  - Sweeting, Val
  - Taylor, Candy
+ - Tingley, Jaclyn
  - Titheridge, Lindsay
  - Trider, Krista
  - Trombley, Christy
  - Udle, Teri
  - Van Osch, Kesa
+ - Walker, Laura
  - Wall, Kirsten
  - Wallingham, Patty
  - Walsh, Jenna

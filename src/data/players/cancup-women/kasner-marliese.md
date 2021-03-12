@@ -177,6 +177,7 @@ vs:
  - Keshen, Christine
  - King, Cathy
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Kreviazuk, Alison
  - Larouche, Marie-France
  - Lawes, Kaitlyn
@@ -192,7 +193,6 @@ vs:
  - McCarville, Krista
  - McDonald, Kristy
  - McEwen, Dawn
- - Meakin, Breanne
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma

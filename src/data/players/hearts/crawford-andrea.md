@@ -256,6 +256,7 @@ vs:
  - Hamilton, Beth
  - Hardy, Shelley
  - Harvey, Janet
+ - Haughian, Jessie
  - Hersikorn, Patty
  - Holland, Amber
  - Hollands, Saskia
@@ -274,6 +275,7 @@ vs:
  - Kelly, Kim
  - King, Cathy
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Koehler, Megan
  - Koltun, Sarah
  - Korab, Stephanie
@@ -309,7 +311,7 @@ vs:
  - McEwen, Dawn
  - McInnis, Susan
  - McQuaid, Michelle
- - Meakin, Breanne
+ - McTaggart, Cary-Anne
  - Meilleur, Briane
  - Middaugh, Sherry
  - Miller, Wendy
@@ -355,6 +357,7 @@ vs:
  - Sabourin, Joelle
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schneider, Kim
  - Schneider, Tammy

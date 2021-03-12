@@ -69,6 +69,7 @@ vs:
  - Forward, Katie
  - Galusha, Kerry
  - Gregoire, Veronique
+ - Haughian, Jessie
  - Holland, Amber
  - Homan, Rachel
  - Hughes, Meaghan
@@ -77,6 +78,7 @@ vs:
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Koltun, Sarah
  - Kreviazuk, Alison
  - Larouche, Marie-France
@@ -87,10 +89,11 @@ vs:
  - MacPhee, Robyn
  - McEwen, Dawn
  - McQuaid, Michelle
- - Meakin, Breanne
+ - McTaggart, Cary-Anne
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
+ - Moore, Kristie
  - Moses, Dawn
  - Nixon, Amy
  - Nowlan, Denise
@@ -98,6 +101,7 @@ vs:
  - Overton-Clapham, Cathy
  - Parsons, Danielle
  - Sabourin, Joelle
+ - Scheidegger, Casey
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

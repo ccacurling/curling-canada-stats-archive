@@ -136,6 +136,10 @@ years:
    takeout-percent: 50
    shots-total: 4
    shots-percent: 69
+ - year: 2019
+   event: Hearts
+   team: "WC"
+   position: Alternate
 vs:
  - Aleksic, Shannon
  - Arnott, Janet

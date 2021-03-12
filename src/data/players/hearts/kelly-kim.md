@@ -4,18 +4,18 @@ name: Kim Kelly
 name-sort: Kelly, Kim
 totals:
  - event: Hearts
-   games: 180
-   wins: 105
+   games: 181
+   wins: 106
    losses: 75
    inturn-total: 1477
    inturn-percent: 78
-   outturn-total: 2026
+   outturn-total: 2027
    outturn-percent: 81
    draw-total: 1445
    draw-percent: 78
-   takeout-total: 2058
+   takeout-total: 2059
    takeout-percent: 81
-   shots-total: 3503
+   shots-total: 3504
    shots-percent: 80
 years:
  - year: 1989
@@ -281,6 +281,23 @@ years:
    event: Hearts
    team: "NS"
    position: Alternate
+ - year: 2021
+   event: Hearts
+   team: "NS"
+   position: Second
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 0
+   inturn-percent:
+   outturn-total: 1
+   outturn-percent: 100
+   draw-total: 0
+   draw-percent:
+   takeout-total: 1
+   takeout-percent: 100
+   shots-total: 1
+   shots-percent: 100
 vs:
  - Adams, Diane
  - Affleck, Tricia
@@ -333,6 +350,7 @@ vs:
  - Brown, Marcie
  - Burgess, Carey
  - Burlington, Cheryl
+ - Burns, Krysta
  - Busche, Jodi
  - Bush, Tracy
  - Byers, Denise
@@ -398,6 +416,7 @@ vs:
  - Gagnon, Nathalie
  - Galusha, Kerry
  - Garnett, Lorelei
+ - Gates, Amanda
  - Gauthier, Cathy
  - Gellard, Kim
  - George, Tara
@@ -412,6 +431,7 @@ vs:
  - Grenier, Valerie
  - Gudereit, Marcia
  - Gushulak, Diane
+ - Guy, Sara
  - Hamilton, Beth
  - Hanlon, Heidi
  - Hanna, Jenn
@@ -590,6 +610,7 @@ vs:
  - Singler, Sherri
  - Skinner, Julie
  - Smith, Heather
+ - Smith, Megan
  - Snider, Shelly
  - Soligo, Melissa
  - Sonnenberg, Renee

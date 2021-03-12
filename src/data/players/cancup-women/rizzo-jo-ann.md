@@ -118,6 +118,7 @@ vs:
  - Kelly, Kim
  - Keshen, Christine
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Linton, Sherry
@@ -130,7 +131,6 @@ vs:
  - McIvor, Jolene
  - McIvor, Michelle
  - McNabb, Jody
- - Meakin, Breanne
  - Miskew, Emma
  - Nedohin, Heather
  - Nixon, Amy

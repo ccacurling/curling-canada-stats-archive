@@ -172,6 +172,7 @@ vs:
  - Kaylo, Kelly
  - Kerr, Kathy
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Koehler, Megan
  - Kreviazuk, Alison
  - Laliberte, Connie
@@ -200,7 +201,6 @@ vs:
  - McCusker, Joan
  - McEwen, Dawn
  - McKnight, Patti
- - Meakin, Breanne
  - Merklinger, Anne
  - Middaugh, Sherry
  - Miller, Wendy

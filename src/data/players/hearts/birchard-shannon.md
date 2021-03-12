@@ -4,19 +4,19 @@ name: Shannon Birchard
 name-sort: Birchard, Shannon
 totals:
  - event: Hearts
-   games: 26
-   wins: 22
-   losses: 4
-   inturn-total: 212
-   inturn-percent: 85
-   outturn-total: 256
-   outturn-percent: 85
-   draw-total: 173
-   draw-percent: 80
-   takeout-total: 295
-   takeout-percent: 88
-   shots-total: 468
-   shots-percent: 85
+   games: 40
+   wins: 34
+   losses: 6
+   inturn-total: 346
+   inturn-percent: 84
+   outturn-total: 376
+   outturn-percent: 84
+   draw-total: 286
+   draw-percent: 81
+   takeout-total: 436
+   takeout-percent: 87
+   shots-total: 722
+   shots-percent: 84
 years:
  - year: 2018
    event: Hearts
@@ -52,9 +52,27 @@ years:
    takeout-percent: 87
    shots-total: 246
    shots-percent: 84
+ - year: 2021
+   event: Hearts
+   team: "CA"
+   position: Second
+   games: 14
+   wins: 12
+   losses: 2
+   inturn-total: 134
+   inturn-percent: 84
+   outturn-total: 120
+   outturn-percent: 83
+   draw-total: 113
+   draw-percent: 82
+   takeout-total: 141
+   takeout-percent: 85
+   shots-total: 254
+   shots-percent: 83
 vs:
  - Adams, Melissa
  - Anderson, Sherry
+ - Armstrong, Hailey
  - Armstrong, Jennifer
  - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
@@ -63,15 +81,22 @@ vs:
  - Baxter, Jen
  - Birt, Suzanne
  - Black, Christina
+ - Brine, Jenn
+ - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Brunton, Kira
+ - Burgess, Karlee
+ - Burns, Krysta
  - Cameron, Kate
  - Carey, Chelsea
+ - Carmody, Erin
  - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
  - Crawford, Andrea
  - Crouse, Jennifer
+ - Doerksen, Katherine
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
@@ -81,6 +106,7 @@ vs:
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
+ - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
  - Fyfe, Liz
@@ -89,13 +115,16 @@ vs:
  - Gates, Jennifer
  - Gibson, Amy
  - Griffin, Alison
+ - Guy, Sara
  - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Inglis, Danielle
  - Jones, Jennifer
+ - Kitz, Chaelynn
  - Klymchuk, Ashley
+ - Knapp, Breanne
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
@@ -103,10 +132,14 @@ vs:
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - LeDrew, Stephanie
+ - Lenentine, Lauren
  - Lilly, Kendra
  - Lister, Kendra
+ - Loder, Jenna
+ - Logan, Emma
  - MacCuish, Kristin
  - MacDonald, Kaitlin
+ - Martin, Nancy
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
@@ -116,10 +149,14 @@ vs:
  - Miskew, Emma
  - Moore, Kristie
  - Njegovan, Selena
+ - Njegovan, Selena
  - Peterman, Jocelyn
+ - Peterson, Beth
  - Pincott, Erin
  - Pinksen, Sadie
  - Price, Kara
+ - Riley, Emily
+ - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Routledge, Alanna
  - Routledge, Jill
@@ -131,7 +168,11 @@ vs:
  - Silvernagle, Robyn
  - Sippala, Ashley
  - Smallwood, Jody
+ - Smith, Megan
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Taylor, Susan
+ - Tran, Brittany
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
@@ -143,4 +184,6 @@ vs:
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
 ---

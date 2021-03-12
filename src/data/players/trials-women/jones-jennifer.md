@@ -127,6 +127,7 @@ vs:
  - Kelly, Kim
  - Keshen, Christine
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Kreviazuk, Alison
  - Kreviazuk, Lynn
  - Lang, Lorraine
@@ -144,7 +145,6 @@ vs:
  - McCusker, Joan
  - McPherson, Cheryl
  - McTaggart, Cary-Anne
- - Meakin, Breanne
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma

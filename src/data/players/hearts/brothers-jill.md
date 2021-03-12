@@ -4,19 +4,19 @@ name: Jill Brothers
 name-sort: Brothers, Jill
 totals:
  - event: Hearts
-   games: 39
-   wins: 15
-   losses: 24
-   inturn-total: 394
-   inturn-percent: 75
-   outturn-total: 339
-   outturn-percent: 72
-   draw-total: 338
+   games: 47
+   wins: 18
+   losses: 29
+   inturn-total: 461
+   inturn-percent: 74
+   outturn-total: 412
+   outturn-percent: 70
+   draw-total: 407
    draw-percent: 68
-   takeout-total: 395
-   takeout-percent: 79
-   shots-total: 733
-   shots-percent: 74
+   takeout-total: 466
+   takeout-percent: 77
+   shots-total: 873
+   shots-percent: 72
 years:
  - year: 2007
    event: Hearts
@@ -86,20 +86,42 @@ years:
    takeout-percent: 73
    shots-total: 130
    shots-percent: 70
+ - year: 2021
+   event: Hearts
+   team: "NS"
+   position: Fourth
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 67
+   inturn-percent: 70
+   outturn-total: 73
+   outturn-percent: 62
+   draw-total: 69
+   draw-percent: 66
+   takeout-total: 71
+   takeout-percent: 65
+   shots-total: 140
+   shots-percent: 66
 vs:
  - Aleksic, Shannon
  - Anderson, Sherry
  - Arnott, Janet
  - Atkinson, Rebecca
  - Baier, Stephanie
+ - Barbour, Shona
  - Bernard, Cheryl
  - Betker, Jan
+ - Birchard, Shannon
  - Birt, Suzanne
  - Blaney, Jennifer
  - Bodner, Jenine
  - Boudreault, Patricia
  - Boyle, Jane
  - Brown, Rachel
+ - Burgess, Karlee
+ - Burns, Krysta
+ - Cameron, Kate
  - Carey, Chelsea
  - Carter, Sasha
  - Christianson, Marie
@@ -118,22 +140,26 @@ vs:
  - Derick, Catherine
  - deSolla, Jodie
  - Devereaux, Julie
+ - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
  - Einarson, Kerri
  - Ferguson, Dana
  - Flaxey, Allison
+ - Flemming, Margot
  - Fleury, Tracy
  - Foster, Kristen
  - Fyfe, Liz
  - Gagnier, Monique
  - Galusha, Kerry
  - Gannon, Melissa
+ - Gates, Amanda
  - Gates, Jennifer
  - George, Tara
  - Griffin, Alison
  - Gudereit, Marcia
+ - Guy, Sara
  - Hanna, Jenn
  - Hanna, Stephanie
  - Hardy, Shelley
@@ -142,6 +168,7 @@ vs:
  - Inglis, Nancy
  - Jones, Jennifer
  - Kasner, Marliese
+ - Knapp, Breanne
  - Kreviazuk, Alison
  - Kreviazuk, Cheryl
  - Kreviazuk, Lynn
@@ -153,14 +180,16 @@ vs:
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lemay, Annie
+ - Lenentine, Lauren
  - Lilly, Kendra
+ - Loder, Jenna
  - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacPhee, Robyn
  - McCarville, Krista
  - McDonald, Kristy
+ - McDonald, Taylor
  - McEwen, Dawn
- - Meakin, Breanne
  - Meilleur, Briane
  - Miskew, Emma
  - Morgan, Cheryl
@@ -183,6 +212,7 @@ vs:
  - Parsons, Danielle
  - Peterman, Jocelyn
  - Peters, Laine
+ - Peterson, Beth
  - Pilote, Kristen
  - Pinksen, Sadie
  - Porter, Erin
@@ -193,6 +223,7 @@ vs:
  - Recksiedler, Kristen
  - Reid, Jackie
  - Richard, Marie
+ - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Ross, Allison
  - Rusnell, Jen
@@ -206,20 +237,25 @@ vs:
  - Sinclair, Andrea
  - Singler, Sherri
  - Sippala, Ashley
+ - Smith, Megan
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
  - Sweeting, Val
  - Thompson, Karla
  - Titheridge, Lindsay
+ - Tran, Brittany
  - Vandale, Trysta
  - Van Osch, Kesa
  - Vautour, Carrie
  - Vey, Lana
+ - Walker, Laura
  - Wallingham, Patty
  - Wark, Sarah
  - Weagle, Lisa
  - Wheatcroft, Georgina
  - Whitaker, Carol
  - Wilkes, Sarah
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
 ---

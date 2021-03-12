@@ -4,19 +4,19 @@ name: Alison Griffin
 name-sort: Griffin, Alison
 totals:
  - event: Hearts
-   games: 14
+   games: 22
    wins: 3
-   losses: 11
-   inturn-total: 114
-   inturn-percent: 63
-   outturn-total: 142
-   outturn-percent: 63
-   draw-total: 98
-   draw-percent: 58
-   takeout-total: 158
-   takeout-percent: 66
-   shots-total: 256
-   shots-percent: 63
+   losses: 19
+   inturn-total: 192
+   inturn-percent: 66
+   outturn-total: 214
+   outturn-percent: 64
+   draw-total: 180
+   draw-percent: 61
+   takeout-total: 226
+   takeout-percent: 68
+   shots-total: 406
+   shots-percent: 65
 years:
  - year: 2019
    event: Hearts
@@ -52,17 +52,76 @@ years:
    takeout-percent: 67
    shots-total: 136
    shots-percent: 65
+ - year: 2021
+   event: Hearts
+   team: "NU"
+   position: Second
+   games: 7
+   wins: 0
+   losses: 7
+   inturn-total: 69
+   inturn-percent: 70
+   outturn-total: 61
+   outturn-percent: 68
+   draw-total: 73
+   draw-percent: 68
+   takeout-total: 57
+   takeout-percent: 71
+   shots-total: 130
+   shots-percent: 69
+ - year: 2021
+   event: Hearts
+   team: "NU"
+   position: Third
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 9
+   inturn-percent: 75
+   outturn-total: 11
+   outturn-percent: 45
+   draw-total: 9
+   draw-percent: 44
+   takeout-total: 11
+   takeout-percent: 70
+   shots-total: 20
+   shots-percent: 59
+ - year: 2021
+   event: Hearts
+   team: Totals
+   games: 8
+   wins: 0
+   losses: 8
+   inturn-total: 78
+   inturn-percent: 71
+   outturn-total: 72
+   outturn-percent: 65
+   draw-total: 82
+   draw-percent: 65
+   takeout-total: 68
+   takeout-percent: 71
+   shots-total: 150
+   shots-percent: 68
 vs:
+ - Adams, Melissa
+ - Anderson, Sherry
+ - Armstrong, Hailey
  - Armstrong, Jennifer
+ - Arsenault-Bishop, Nicole
  - Babin, Jillian
+ - Barron, Lauren
  - Birchard, Shannon
+ - Birt, Suzanne
+ - Boivin, Florence
  - Boudreault, Patricia
  - Brine, Jenn
  - Brothers, Jill
+ - Brown, Corryn
  - Brown, Rachel
  - Cameron, Kate
  - Carey, Chelsea
  - Carmody, Erin
+ - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
  - Crawford, Andrea
@@ -70,25 +129,43 @@ vs:
  - Dunn, Michelle
  - Einarson, Kerri
  - Ferguson, Dana
+ - Fisher, Sam
  - Fleury, Tracy
  - Forward, Katie
+ - Fyfe, Liz
  - Gates, Jennifer
+ - Hamilton, Beth
+ - Hawes, Dezaray
+ - Hill, Sarah
  - Homan, Rachel
+ - Hughes, Meaghan
  - Hunkin, Jessie
+ - Jones, Jennifer
+ - Kitz, Chaelynn
+ - Knapp, Breanne
  - Kreviazuk, Cheryl
  - Lavoie, Gabrielle
+ - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
+ - Lister, Kendra
  - MacCuish, Kristin
+ - Martin, Nancy
  - McCarville, Krista
  - McDonald, Taylor
+ - McQuaid, Michelle
  - Meilleur, Briane
+ - Mercer, Adrienne
  - Miskew, Emma
  - Munroe, Anna
  - Murphy, Sarah
  - Njegovan, Selena
+ - Njegovan, Selena
+ - Peterman, Jocelyn
  - Pilote, Kristen
+ - Pincott, Erin
  - Potts, Sarah
+ - Riley, Emily
  - Rocque, Kelsey
  - Routledge, Alanna
  - Routledge, Jill
@@ -97,8 +174,11 @@ vs:
  - Scotland, Nadine
  - Silvernagle, Robyn
  - Sippala, Ashley
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Sweeting, Val
  - Taylor, Susan
+ - Tingley, Jaclyn
  - Verreault, Noemie
  - Walker, Laura
  - Wark, Sarah

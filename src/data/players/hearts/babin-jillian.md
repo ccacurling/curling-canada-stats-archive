@@ -151,6 +151,7 @@ vs:
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Hardy, Shelley
+ - Haughian, Jessie
  - Holland, Amber
  - Homan, Rachel
  - Hughes, Meaghan
@@ -161,6 +162,7 @@ vs:
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Koehler, Megan
  - Koltun, Sarah
  - Korab, Stephanie
@@ -187,11 +189,12 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McQuaid, Michelle
- - Meakin, Breanne
+ - McTaggart, Cary-Anne
  - Meilleur, Briane
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
+ - Moore, Kristie
  - More, Whitney
  - Moses, Dawn
  - Naugler, Tara
@@ -215,6 +218,7 @@ vs:
  - Rogers, Rhonda
  - Routledge, Alanna
  - Routledge, Jill
+ - Scheidegger, Casey
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

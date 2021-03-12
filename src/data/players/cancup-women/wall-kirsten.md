@@ -120,6 +120,7 @@ vs:
  - Kelly, Kim
  - Kerr, Kathy
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Larouche, Marie-France
  - Law, Kelley
  - Lawton, Stefanie
@@ -136,7 +137,6 @@ vs:
  - McDonald, Tina
  - McInnis, Susan
  - McNamee, Karen
- - Meakin, Breanne
  - Merklinger, Lee
  - Middaugh, Sherry
  - Mossman, Angela

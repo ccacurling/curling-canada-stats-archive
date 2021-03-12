@@ -39,6 +39,10 @@ years:
    takeout-percent: 83
    shots-total: 186
    shots-percent: 79
+ - year: 2021
+   event: Hearts
+   team: "BC"
+   position: Alternate
 vs:
  - Atkinson, Rebecca
  - Brothers, Jill

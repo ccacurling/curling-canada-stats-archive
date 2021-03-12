@@ -71,6 +71,7 @@ vs:
  - Griffin, Alison
  - Guzzwell, Stephanie
  - Hamilton, Beth
+ - Haughian, Jessie
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Jewer, Michelle
@@ -84,12 +85,15 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Meilleur, Briane
+ - Moore, Kristie
  - Peterman, Jocelyn
  - Pinksen, Sadie
  - Rocque, Kelsey
  - Routledge, Alanna
  - Routledge, Jill
+ - Scheidegger, Casey
  - Scotland, Nadine
  - Sharpe, Kelli
  - Shaw, Ladene

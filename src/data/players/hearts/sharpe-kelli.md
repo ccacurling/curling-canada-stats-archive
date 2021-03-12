@@ -212,6 +212,7 @@ vs:
  - Harrison, Meredith
  - Harvey, Janet
  - Hatton, Sandra
+ - Haughian, Jessie
  - Henry, Lou Ann
  - Hollands, Saskia
  - Hopkins, Heather
@@ -261,6 +262,7 @@ vs:
  - McKnight, Patti
  - McNamee, Karen
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Merklinger, Anne
  - Middaugh, Sherry
  - Miller, Maureen
@@ -295,6 +297,7 @@ vs:
  - Sanders, Pat
  - Scales, Julie
  - Schikowski, Keri-Lynn
+ - Scheidegger, Casey
  - Schmirler, Sandra
  - Schraeder, Jeanna
  - Scott, Kelly

@@ -4,18 +4,18 @@ name: Lisa Weagle
 name-sort: Weagle, Lisa
 totals:
  - event: Hearts
-   games: 94
-   wins: 74
-   losses: 20
-   inturn-total: 1033
-   inturn-percent: 87
-   outturn-total: 687
-   outturn-percent: 85
-   draw-total: 1251
+   games: 107
+   wins: 83
+   losses: 24
+   inturn-total: 1131
+   inturn-percent: 88
+   outturn-total: 827
+   outturn-percent: 86
+   draw-total: 1449
    draw-percent: 89
-   takeout-total: 469
+   takeout-total: 509
    takeout-percent: 80
-   shots-total: 1720
+   shots-total: 1958
    shots-percent: 87
 years:
  - year: 2011
@@ -137,18 +137,39 @@ years:
    takeout-percent: 77
    shots-total: 260
    shots-percent: 87
+ - year: 2021
+   event: Hearts
+   team: "MB"
+   position: Lead
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 98
+   inturn-percent: 89
+   outturn-total: 140
+   outturn-percent: 91
+   draw-total: 198
+   draw-percent: 93
+   takeout-total: 40
+   takeout-percent: 75
+   shots-total: 238
+   shots-percent: 90
 vs:
+ - Adams, Melissa
  - Affleck, Tricia
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Anderson, Sherry
+ - Armstrong, Hailey
  - Armstrong, Jacquie
  - Arsenault, Mary-Anne
+ - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Ayrey, Jinaye
  - Baier, Stephanie
  - Barbour, Shona
  - Barker, Penny
+ - Barron, Lauren
  - Baxter, Jen
  - Beauchamp, Sasha
  - Belisle, Eve
@@ -192,17 +213,20 @@ vs:
  - Derry, Danielle
  - deSolla, Jodie
  - Devereaux, Julie
+ - Doerksen, Katherine
  - Doig, Deanna
  - Dolan, Kim
  - Dufresne, Audree
  - Duncan, Chelsea
  - Dykstra, Michelle
+ - Eddy, Lori
  - Einarson, Kerri
  - Englot, Michelle
  - Eyamie, Lisa
  - Fallis, Karen
  - Ferguson, Dana
  - Filteau, Anne-Marie
+ - Fisher, Sam
  - Flaxey, Allison
  - Fleury, Tracy
  - Foster, Kristen
@@ -217,12 +241,16 @@ vs:
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Hastings, Julie
+ - Haughian, Jessie
  - Hawes, Dezaray
+ - Hill, Sarah
  - Hill, Trish
  - Holland, Amber
  - Holtby, Taryn
+ - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Inglis, Danielle
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Colleen
@@ -231,8 +259,10 @@ vs:
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kelly, Kim
+ - Kitz, Chaelynn
  - Kleibrink, Shannon
  - Klymchuk, Ashley
+ - Knapp, Breanne
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
@@ -244,8 +274,11 @@ vs:
  - Lawton, Stefanie
  - Lemay, Annie
  - Lilly, Kendra
+ - Lister, Kendra
+ - Loder, Jenna
  - Logan, Emma
  - MacCuish, Kristin
+ - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacPhee, Robyn
@@ -253,14 +286,19 @@ vs:
  - Mallett, Marla
  - Mann, Lauren
  - Martin, Heather
+ - Martin, Nancy
  - Mattatall, Mary
  - McCarville, Krista
  - McDonald, Kristy
+ - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Meilleur, Briane
+ - Mercer, Adrienne
  - Miller, Wendy
+ - Miskew, Emma
  - Moore, Kristie
  - Moses, Dawn
  - Munroe, Anna
@@ -268,6 +306,7 @@ vs:
  - Nedohin, Heather
  - Njegovan, Selena
  - Nixon, Amy
+ - Njegovan, Selena
  - Nugent, Pamela
  - Officer, Jill
  - Olson-Johns, Lori
@@ -277,6 +316,7 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
+ - Peterson, Beth
  - Pilote, Kristen
  - Pincott, Erin
  - Pinksen, Sadie
@@ -286,6 +326,7 @@ vs:
  - Reid, Jackie
  - Richard, Marie
  - Richards, Brette
+ - Riley, Emily
  - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Robison, Michala
@@ -294,6 +335,7 @@ vs:
  - Sanderson, Jessie
  - Sandwith, Carley
  - Saulnier, Andrea
+ - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schneider, Kim
  - Schneider, Lorraine
@@ -310,17 +352,22 @@ vs:
  - Smith, Stacey
  - Snyder, Jane
  - Sonnenberg, Renee
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
  - Taylor, Susan
  - Thevenot, Kara
  - Thiessen, Alison
+ - Tingley, Jaclyn
  - Titheridge, Lindsay
+ - Tran, Brittany
  - Trombley, Christy
  - Tuor, Kimberly
  - Udle, Teri
  - Van Osch, Kesa
+ - Walker, Laura
  - Wallingham, Patty
  - Walsh, Jenna
  - Wark, Sarah

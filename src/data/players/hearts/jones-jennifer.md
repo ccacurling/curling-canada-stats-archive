@@ -4,18 +4,18 @@ name: Jennifer Jones
 name-sort: Jones, Jennifer
 totals:
  - event: Hearts
-   games: 200
-   wins: 150
-   losses: 50
-   inturn-total: 1892
+   games: 213
+   wins: 159
+   losses: 54
+   inturn-total: 2005
    inturn-percent: 80
-   outturn-total: 1737
+   outturn-total: 1864
    outturn-percent: 78
-   draw-total: 1649
+   draw-total: 1749
    draw-percent: 78
-   takeout-total: 1980
-   takeout-percent: 80
-   shots-total: 3629
+   takeout-total: 2120
+   takeout-percent: 79
+   shots-total: 3869
    shots-percent: 79
 years:
  - year: 2002
@@ -273,6 +273,23 @@ years:
    takeout-percent: 74
    shots-total: 237
    shots-percent: 75
+ - year: 2021
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 113
+   inturn-percent: 77
+   outturn-total: 127
+   outturn-percent: 80
+   draw-total: 100
+   draw-percent: 79
+   takeout-total: 140
+   takeout-percent: 78
+   shots-total: 240
+   shots-percent: 78
 vs:
  - Adams, Melissa
  - Affleck, Tricia
@@ -280,6 +297,7 @@ vs:
  - Allen, Michelle
  - Allen, Susan
  - Anderson, Sherry
+ - Armstrong, Hailey
  - Armstrong, Jacquie
  - Armstrong, Jennifer
  - Arsenault, Mary-Anne
@@ -290,6 +308,7 @@ vs:
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
+ - Barron, Lauren
  - Baxter, Jen
  - Beauchamp, Sasha
  - Belanger, Nancy
@@ -356,6 +375,7 @@ vs:
  - Derick, Catherine
  - deSolla, Jodie
  - Devereaux, Julie
+ - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
  - Dufresne, Audree
@@ -363,6 +383,7 @@ vs:
  - Duncan, Hollie
  - Duncan, Jenna
  - Dykstra, Michelle
+ - Eddy, Lori
  - Einarson, Kerri
  - Einarson, Megan
  - Ellis, Danielle
@@ -374,6 +395,7 @@ vs:
  - Fesser, Kourtney
  - Fesser, Krista
  - Filteau, Anne-Marie
+ - Fisher, Sam
  - Fleury, Tracy
  - Floyd, Kathy
  - Fortier, Marie-Josee
@@ -394,6 +416,7 @@ vs:
  - Goss, Peg
  - Graham-MacDonald, Bea
  - Gregoire, Veronique
+ - Griffin, Alison
  - Gudereit, Marcia
  - Gushulak, Diane
  - Guzzwell, Stephanie
@@ -406,7 +429,9 @@ vs:
  - Harrison, Meredith
  - Harvey, Janet
  - Hastings, Julie
+ - Haughian, Jessie
  - Hawes, Dezaray
+ - Hill, Sarah
  - Hodson, Kim
  - Holland, Amber
  - Hollands, Saskia
@@ -429,8 +454,10 @@ vs:
  - Kerr, Kathy
  - Kidd, Darlene
  - King, Cathy
+ - Kitz, Chaelynn
  - Kleibrink, Shannon
  - Klymchuk, Ashley
+ - Knapp, Breanne
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
@@ -453,10 +480,12 @@ vs:
  - Lilly, Kendra
  - Lister, Kendra
  - Loder, Cherie-Ann
+ - Loder, Jenna
  - Logan, Emma
  - Lowther, Tammi
  - MacCuish, Kristin
  - MacDiarmid, Kristen
+ - MacDonald, Kaitlin
  - MacDonald, Lawnie
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
@@ -469,16 +498,19 @@ vs:
  - Mallett, Marla
  - Mann, Lauren
  - Martin, Heather
+ - Martin, Nancy
  - Materi, Roberta
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McConnery, Nancy
+ - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
  - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Meilleur, Briane
+ - Mercer, Adrienne
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
@@ -501,6 +533,7 @@ vs:
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
+ - Njegovan, Selena
  - Nowlan, Denise
  - Nugent, Pamela
  - O'Connor, Susan
@@ -515,10 +548,12 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
+ - Peterson, Beth
  - Pewarchuk, Dailene
  - Phillips, Kristen
  - Pilote, Kristen
  - Pincott, Erin
+ - Pinksen, Sadie
  - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
@@ -532,6 +567,7 @@ vs:
  - Richard, Marie
  - Richards, Brette
  - Ridalls, Kristen
+ - Riley, Emily
  - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Robichaud, Sylvie
@@ -568,6 +604,8 @@ vs:
  - Sobey, Lianne
  - Sonnenberg, Renee
  - Spencer, Barb
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Streifel, Tracy
  - Strong, Heather
  - Strong, Helen
@@ -581,6 +619,7 @@ vs:
  - Thomas, Jill
  - Thompson, Karla
  - Thurston, Jill
+ - Tingley, Jaclyn
  - Tran, Brittany
  - Trider, Krista
  - Trombley, Christy
@@ -592,6 +631,7 @@ vs:
  - Van Osch, Marika
  - Vautour, Carrie
  - Vey, Lana
+ - Walker, Laura
  - Wall, Kirsten
  - Walsh, Jenna
  - Wark, Sarah

@@ -4,19 +4,19 @@ name: Sarah Wilkes
 name-sort: Wilkes, Sarah
 totals:
  - event: Hearts
-   games: 38
-   wins: 23
-   losses: 15
-   inturn-total: 343
-   inturn-percent: 81
-   outturn-total: 351
+   games: 51
+   wins: 33
+   losses: 18
+   inturn-total: 467
+   inturn-percent: 80
+   outturn-total: 469
    outturn-percent: 83
-   draw-total: 267
+   draw-total: 361
    draw-percent: 81
-   takeout-total: 427
-   takeout-percent: 83
-   shots-total: 694
-   shots-percent: 82
+   takeout-total: 575
+   takeout-percent: 82
+   shots-total: 936
+   shots-percent: 81
 years:
  - year: 2015
    event: Hearts
@@ -119,13 +119,32 @@ years:
    takeout-percent: 82
    shots-total: 212
    shots-percent: 82
+ - year: 2021
+   event: Hearts
+   team: "ON"
+   position: Second
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 124
+   inturn-percent: 77
+   outturn-total: 118
+   outturn-percent: 83
+   draw-total: 94
+   draw-percent: 80
+   takeout-total: 148
+   takeout-percent: 80
+   shots-total: 242
+   shots-percent: 80
 vs:
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Anderson, Sherry
+ - Armstrong, Hailey
  - Armstrong, Jennifer
  - Atkinson, Rebecca
  - Babin, Jillian
+ - Barbour, Shona
  - Barker, Penny
  - Belisle, Eve
  - Birchard, Shannon
@@ -138,6 +157,9 @@ vs:
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Corryn
+ - Brown, Rachel
+ - Burgess, Karlee
+ - Burns, Krysta
  - Cameron, Kate
  - Carey, Chelsea
  - Carmody, Erin
@@ -152,18 +174,23 @@ vs:
  - deJager, Blaine
  - Derry, Danielle
  - Devereaux, Julie
+ - Doerksen, Katherine
  - Doig, Deanna
  - Eddy, Lori
  - Einarson, Kerri
  - Englot, Michelle
  - Filteau, Anne-Marie
+ - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
+ - Gates, Amanda
  - Gates, Jennifer
  - Griffin, Alison
+ - Guy, Sara
+ - Haughian, Jessie
  - Hawes, Dezaray
  - Hill, Trish
  - Homan, Rachel
@@ -172,32 +199,42 @@ vs:
  - Ingram, Megan
  - Jones, Jennifer
  - Kasner, Marliese
+ - Kitz, Chaelynn
  - Klymchuk, Ashley
+ - Knapp, Breanne
  - Koehler, Megan
  - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
+ - Lenentine, Lauren
  - Lilly, Kendra
+ - Loder, Jenna
+ - Logan, Emma
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
+ - Martin, Nancy
  - Mattatall, Mary
  - McCarville, Krista
  - McDonald, Taylor
  - McEvoy, Julie
  - McEwen, Dawn
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Meilleur, Briane
  - Miskew, Emma
+ - Moore, Kristie
  - Munroe, Anna
  - Murphy, Sarah
  - Njegovan, Selena
  - Nixon, Amy
+ - Njegovan, Selena
  - O'Rourke, Brittany
  - Peterman, Jocelyn
  - Peters, Laine
+ - Peterson, Beth
  - Pilote, Kristen
  - Pincott, Erin
  - Pinksen, Sadie
@@ -205,21 +242,28 @@ vs:
  - Potts, Sarah
  - Richard, Marie
  - Richards, Brette
+ - Riley, Emily
+ - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Routledge, Alanna
  - Routledge, Jill
  - Rusnell, Jen
  - Sandwith, Carley
  - Saulnier, Andrea
+ - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schneider, Lorraine
  - Scotland, Nadine
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley
+ - Smith, Megan
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Sweeting, Val
  - Taylor, Susan
  - Thevenot, Kara
+ - Tran, Brittany
  - Verreault, Noemie
  - Walker, Laura
  - Wark, Sarah
@@ -227,4 +271,6 @@ vs:
  - Westcott, Raunora
  - Whitaker, Carol
  - Wilson, Leslie
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
 ---

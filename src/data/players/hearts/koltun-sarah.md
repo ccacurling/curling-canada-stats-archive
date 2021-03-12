@@ -133,6 +133,7 @@ vs:
  - Gates, Amanda
  - Guzzwell, Stephanie
  - Hamilton, Beth
+ - Haughian, Jessie
  - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
@@ -141,6 +142,7 @@ vs:
  - Jones, Jennifer
  - Kasner, Marliese
  - Klymchuk, Ashley
+ - Knapp, Breanne
  - Knezevic, Patti
  - Korchinski, Karlee
  - Kreviazuk, Alison
@@ -157,8 +159,9 @@ vs:
  - McDonald, Kristy
  - McEwen, Dawn
  - McQuaid, Michelle
- - Meakin, Breanne
+ - McTaggart, Cary-Anne
  - Miskew, Emma
+ - Moore, Kristie
  - Njegovan, Selena
  - Nugent, Pamela
  - Officer, Jill
@@ -174,6 +177,7 @@ vs:
  - Ross, Allison
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Scheidegger, Casey
  - Sharpe, Kelli
  - Shaw, Ladene
  - Silvernagle, Robyn

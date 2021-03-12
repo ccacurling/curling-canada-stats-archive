@@ -108,6 +108,7 @@ vs:
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Kreviazuk, Alison
  - Lawes, Kaitlyn
  - Lawton, Stefanie
@@ -119,7 +120,6 @@ vs:
  - McCarville, Krista
  - McDonald, Kristy
  - McEwen, Dawn
- - Meakin, Breanne
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma

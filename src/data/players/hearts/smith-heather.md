@@ -192,6 +192,7 @@ vs:
  - Kelly, Kim
  - Kerr, Kathy
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Korab, Stephanie
  - Kreviazuk, Alison
  - Kreviazuk, Lynn
@@ -216,7 +217,6 @@ vs:
  - McGregor, Rona
  - McInnis, Susan
  - McKnight, Patti
- - Meakin, Breanne
  - Merklinger, Anne
  - Middaugh, Sherry
  - Miller, Wendy

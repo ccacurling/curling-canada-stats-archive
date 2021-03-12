@@ -57,6 +57,7 @@ vs:
  - Homan, Rachel
  - Joyce, Blisse
  - Kasner, Marliese
+ - Knapp, Breanne
  - Knezevic, Patti
  - Koltun, Sarah
  - Kreviazuk, Alison
@@ -64,7 +65,6 @@ vs:
  - Lawton, Stefanie
  - MacDonald, Rebecca Jean
  - McDonald, Kristy
- - Meakin, Breanne
  - Miskew, Emma
  - Parsons, Danielle
  - Pewarchuk, Dailene

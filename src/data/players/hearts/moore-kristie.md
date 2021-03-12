@@ -4,19 +4,19 @@ name: Kristie Moore
 name-sort: Moore, Kristie
 totals:
  - event: Hearts
-   games: 32
-   wins: 14
-   losses: 18
-   inturn-total: 310
-   inturn-percent: 78
-   outturn-total: 264
-   outturn-percent: 75
-   draw-total: 312
-   draw-percent: 78
-   takeout-total: 262
+   games: 43
+   wins: 21
+   losses: 22
+   inturn-total: 426
+   inturn-percent: 79
+   outturn-total: 357
+   outturn-percent: 77
+   draw-total: 476
+   draw-percent: 80
+   takeout-total: 307
    takeout-percent: 75
-   shots-total: 574
-   shots-percent: 77
+   shots-total: 783
+   shots-percent: 78
 years:
  - year: 2000
    event: Hearts
@@ -69,28 +69,54 @@ years:
    takeout-percent: 75
    shots-total: 179
    shots-percent: 88
+ - year: 2019
+   event: Hearts
+   team: "WC"
+   position: Lead
+   games: 11
+   wins: 7
+   losses: 4
+   inturn-total: 116
+   inturn-percent: 81
+   outturn-total: 93
+   outturn-percent: 83
+   draw-total: 164
+   draw-percent: 84
+   takeout-total: 45
+   takeout-percent: 75
+   shots-total: 209
+   shots-percent: 82
 vs:
  - Affleck, Tricia
+ - Armstrong, Jennifer
  - Arnaud, Chloe
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Ayrey, Jinaye
+ - Babin, Jillian
+ - Baldwin, Nicole
+ - Barbour, Shona
  - Baxter, Jen
  - Beauchamp, Sasha
  - Bernard, Krista
  - Berthelot, Janique
  - Birchard, Shannon
+ - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Blanchard, Judy
  - Boyle, Jane
  - Bradley, Shelly
  - Breen, Theresa
+ - Brown, Rachel
  - Cameron, Kate
  - Campbell, June
+ - Carey, Chelsea
  - Carter, Sasha
+ - Christianson, Marie
  - Cormier, Sharon
+ - Courtney, Joanne
  - Crawford, Andrea
  - Crouse, Jennifer
  - Curtis, Erica
@@ -105,14 +131,19 @@ vs:
  - Duncan, Hollie
  - Einarson, Kerri
  - Englot, Michelle
+ - Ferguson, Dana
  - Fleury, Tracy
+ - Forward, Katie
  - Frey, Audrey
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gagnon, Emilia
  - Galusha, Kerry
  - Gates, Amanda
+ - Gates, Jennifer
  - Gibson, Amy
+ - Guzzwell, Stephanie
+ - Hamilton, Beth
  - Hanlon, Heidi
  - Harvey, Marie-Pier
  - Hatton, Sandra
@@ -120,6 +151,7 @@ vs:
  - Homan, Rachel
  - Horte, Rhonda
  - Hughes, Meaghan
+ - Hunkin, Jessie
  - Hutchings, Denise
  - Iskiw, Beth
  - Johnston, Kara
@@ -128,13 +160,17 @@ vs:
  - Jones-Walker, Debbie
  - Kelly, Kim
  - Koehler, Megan
+ - Koltun, Sarah
  - Kreviazuk, Alison
  - Kreviazuk, Cheryl
  - Laliberte, Connie
  - Law, Kelley
+ - Lawes, Kaitlyn
+ - Lawton, Stefanie
  - Leclerc, Valerie
  - LeDrew, Stephanie
  - Lemay, Annie
+ - Lilly, Kendra
  - MacCallum, Janice
  - MacCuish, Kristin
  - MacDougall, Leslie
@@ -142,6 +178,7 @@ vs:
  - MacPhee, Robyn
  - Mair, Jessica
  - Martin, Heather
+ - McCarville, Krista
  - McEwen, Dawn
  - McKnight, Patti
  - McQuaid, Michelle
@@ -155,29 +192,41 @@ vs:
  - Overton-Clapham, Cathy
  - Parsons, Danielle
  - Perron, Melina
+ - Peterman, Jocelyn
  - Peters, Laine
  - Phillips, Margaret Lea
+ - Pilote, Kristen
  - Porter, Erin
+ - Potts, Sarah
  - Renouf, Michele
  - Ross, Allison
+ - Rusnell, Jen
  - Sabourin, Joelle
  - Sagle, Karen
+ - Sandwith, Carley
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shackleton, Amie
  - Sharpe, Kelli
+ - Shaw, Ladene
  - Shumay, Jill
+ - Silvernagle, Robyn
  - Skinner, Julie
  - Smith, Heather
  - Stahl, Carrie
  - Stewart, Sheri
  - Strong, Heather
+ - Strong, Helen
+ - Thevenot, Kara
  - Thiboutot, Isabelle
+ - Tran, Brittany
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
+ - Vautour, Carrie
  - Walsh, Jenna
  - Walter, Cathy
+ - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa
@@ -186,6 +235,7 @@ vs:
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whitrow, Leanne
+ - Wilkes, Sarah
  - Wilson, Leslie
  - Wright, Susan
  - Zinck, Kay

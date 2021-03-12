@@ -4,19 +4,19 @@ name: Lori Eddy
 name-sort: Eddy, Lori
 totals:
  - event: Hearts
-   games: 21
+   games: 29
    wins: 10
-   losses: 11
-   inturn-total: 184
-   inturn-percent: 71
-   outturn-total: 215
+   losses: 19
+   inturn-total: 250
+   inturn-percent: 67
+   outturn-total: 294
    outturn-percent: 76
-   draw-total: 164
-   draw-percent: 69
-   takeout-total: 235
-   takeout-percent: 77
-   shots-total: 399
-   shots-percent: 73
+   draw-total: 227
+   draw-percent: 68
+   takeout-total: 317
+   takeout-percent: 74
+   shots-total: 544
+   shots-percent: 72
 years:
  - year: 1997
    event: Hearts
@@ -52,20 +52,46 @@ years:
    takeout-percent: 75
    shots-total: 129
    shots-percent: 70
+ - year: 2021
+   event: Hearts
+   team: "NU"
+   position: Fourth
+   games: 8
+   wins: 0
+   losses: 8
+   inturn-total: 66
+   inturn-percent: 57
+   outturn-total: 79
+   outturn-percent: 75
+   draw-total: 63
+   draw-percent: 65
+   takeout-total: 82
+   takeout-percent: 68
+   shots-total: 145
+   shots-percent: 67
 vs:
+ - Adams, Melissa
+ - Anderson, Sherry
+ - Armstrong, Hailey
  - Armstrong, Jennifer
+ - Arsenault-Bishop, Nicole
  - Arseneau, Jane
  - Babin, Jillian
+ - Barron, Lauren
  - Betker, Jan
  - Beveridge, Corie
  - Birchard, Shannon
+ - Birt, Suzanne
  - Bodogh, Marilyn
  - Bohmer, Brenda
+ - Boivin, Florence
+ - Brown, Corryn
  - Brown, Rachel
  - Cameron, Kate
  - Campbell, June
  - Carey, Chelsea
  - Charette, France
+ - Christianson, Marie
  - Cormier, Sharon
  - Cote, Marie-Pier
  - Crawford, Andrea
@@ -75,43 +101,62 @@ vs:
  - Dolan, Kim
  - Einarson, Kerri
  - Ferguson, Dana
+ - Fisher, Sam
  - Forward, Katie
  - Fraser, Sherry
+ - Fyfe, Liz
  - Gates, Jennifer
  - Gellard, Kim
  - Gudereit, Marcia
+ - Hamilton, Beth
  - Hanlon, Heidi
  - Harvey, Alison
  - Harvey, Carol
  - Harvey, Janet
+ - Hawes, Dezaray
  - Henry, Lou Ann
+ - Hill, Sarah
  - Hooper Perroud, Jane
  - Horne, Kate
+ - Hughes, Meaghan
  - Hunkin, Jessie
  - Jones, Colleen
+ - Jones, Jennifer
  - Jones-Walker, Debbie
  - Jurgenson, Christine
  - Kaylo, Kelly
  - Kelly, Kim
  - Kerr, Kathy
  - King, Cathy
+ - Kitz, Chaelynn
+ - Knapp, Breanne
  - Law, Kelley
+ - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
+ - Lister, Kendra
  - MacAulay, Marion
+ - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - Mallett, Marla
  - Martin, Heather
+ - Martin, Nancy
  - McCarville, Krista
  - McCusker, Joan
  - McDonald, Taylor
+ - McQuaid, Michelle
  - Meilleur, Briane
+ - Mercer, Adrienne
  - Moss, Debbie
  - Nedohin, Heather
+ - Njegovan, Selena
  - Ondrack, Wendy
  - Osborne, Chantal
+ - Peterman, Jocelyn
  - Phillips, Laura
+ - Pincott, Erin
  - Radford, Helen
+ - Riley, Emily
  - Rocque, Kelsey
  - Routledge, Alanna
  - Routledge, Jill
@@ -120,10 +165,14 @@ vs:
  - Scotland, Nadine
  - Silvernagle, Robyn
  - Sippala, Ashley
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Stewart, Sheri
  - Sweeting, Val
  - Taylor, Susan
+ - Tingley, Jaclyn
  - Verreault, Noemie
  - Walker, Laura
+ - Weagle, Lisa
  - Wilkes, Sarah
 ---

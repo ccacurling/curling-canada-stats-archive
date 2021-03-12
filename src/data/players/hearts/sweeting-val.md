@@ -4,18 +4,18 @@ name: Val Sweeting
 name-sort: Sweeting, Val
 totals:
  - event: Hearts
-   games: 52
-   wins: 35
-   losses: 17
-   inturn-total: 504
+   games: 66
+   wins: 47
+   losses: 19
+   inturn-total: 644
    inturn-percent: 78
-   outturn-total: 463
+   outturn-total: 581
    outturn-percent: 82
-   draw-total: 408
-   draw-percent: 76
-   takeout-total: 559
-   takeout-percent: 83
-   shots-total: 967
+   draw-total: 499
+   draw-percent: 77
+   takeout-total: 726
+   takeout-percent: 82
+   shots-total: 1225
    shots-percent: 80
 years:
  - year: 2010
@@ -86,15 +86,34 @@ years:
    takeout-percent: 85
    shots-total: 244
    shots-percent: 83
+ - year: 2021
+   event: Hearts
+   team: "CA"
+   position: Third
+   games: 14
+   wins: 12
+   losses: 2
+   inturn-total: 140
+   inturn-percent: 80
+   outturn-total: 118
+   outturn-percent: 81
+   draw-total: 91
+   draw-percent: 79
+   takeout-total: 167
+   takeout-percent: 81
+   shots-total: 258
+   shots-percent: 80
 vs:
  - Affleck, Tricia
  - Anderson, Sherry
+ - Armstrong, Hailey
  - Armstrong, Jacquie
  - Armstrong, Jennifer
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Babin, Jillian
  - Baier, Stephanie
+ - Barbour, Shona
  - Baxter, Jen
  - Belisle, Eve
  - Birt, Suzanne
@@ -102,9 +121,13 @@ vs:
  - Blais, Amelie
  - Boyle, Jane
  - Bradley, Shelly
+ - Brine, Jenn
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Brunton, Kira
+ - Burgess, Karlee
+ - Burns, Krysta
  - Cameron, Kate
  - Camozzi, Rhona
  - Campbell, Jolene
@@ -125,6 +148,7 @@ vs:
  - Cunningham, Jessica
  - Davies, Lisa
  - deSolla, Jodie
+ - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
@@ -133,9 +157,12 @@ vs:
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Flaxey, Allison
+ - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
  - Foster, Kristen
+ - Fyfe, Liz
+ - Galusha, Kerry
  - Gannon, Melissa
  - Gates, Amanda
  - Gates, Jennifer
@@ -143,6 +170,7 @@ vs:
  - Georges, Kendra
  - Gilman, Sheena
  - Griffin, Alison
+ - Guy, Sara
  - Hardy, Shelley
  - Hastings, Julie
  - Hawes, Dezaray
@@ -154,7 +182,9 @@ vs:
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kitz, Chaelynn
  - Klymchuk, Ashley
+ - Knapp, Breanne
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
@@ -165,11 +195,16 @@ vs:
  - Lawton, Stefanie
  - LeDrew, Stephanie
  - Lemon, Colette
+ - Lenentine, Lauren
  - Lilly, Kendra
+ - Loder, Jenna
+ - Logan, Emma
+ - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacLean, Kari
  - Mann, Lauren
+ - Martin, Nancy
  - McCarville, Krista
  - McConnery, Nancy
  - McDonald, Kristy
@@ -181,6 +216,7 @@ vs:
  - Miskew, Emma
  - Naugler, Tara
  - Nicholls, Brenda
+ - Njegovan, Selena
  - Nowlan, Denise
  - Nugent, Pamela
  - Officer, Jill
@@ -189,6 +225,7 @@ vs:
  - Overton-Clapham, Cathy
  - Parsons, Danielle
  - Peterman, Jocelyn
+ - Peterson, Beth
  - Phillips, Kristen
  - Pilote, Kristen
  - Pincott, Erin
@@ -197,6 +234,8 @@ vs:
  - Ramsay, Geri Lynn
  - Reid, Jackie
  - Richard, Marie
+ - Riley, Emily
+ - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Robison, Michala
  - Rogers, Rhonda
@@ -216,9 +255,12 @@ vs:
  - Singler, Sherri
  - Sippala, Ashley
  - Smith, Heather
+ - Smith, Megan
  - Smith, Stacey
  - Snyder, Jane
  - Sobey, Lianne
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Strong, Heather
  - Strong, Laura
  - Taylor, Susan
@@ -226,6 +268,7 @@ vs:
  - Thomas-Kennell, Noelle
  - Thurston, Jill
  - Titheridge, Lindsay
+ - Tran, Brittany
  - Trombley, Christy
  - Udle, Teri
  - Van Osch, Kesa
@@ -239,4 +282,6 @@ vs:
  - Wilkes, Sarah
  - Wilson, Leslie
  - Wylie, Jennifer
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
 ---

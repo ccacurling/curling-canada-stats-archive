@@ -206,6 +206,7 @@ vs:
  - King, Cathy
  - Kirby, Carey
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Kreviazuk, Alison
  - Law, Kelley
  - Lawes, Kaitlyn
@@ -223,7 +224,6 @@ vs:
  - McCarville, Krista
  - McDonald, Kristy
  - McEwen, Dawn
- - Meakin, Breanne
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma

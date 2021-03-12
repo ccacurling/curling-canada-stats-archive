@@ -129,6 +129,7 @@ vs:
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Haughian, Jessie
  - Hill, Trish
  - Homan, Rachel
  - Howard, Ashley
@@ -152,7 +153,9 @@ vs:
  - McConnery, Nancy
  - McEwen, Dawn
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Miskew, Emma
+ - Moore, Kristie
  - Munroe, Anna
  - Murphy, Sarah
  - Njegovan, Selena
@@ -177,6 +180,7 @@ vs:
  - Sagle, Karen
  - Sandwith, Carley
  - Saulnier, Andrea
+ - Scheidegger, Casey
  - Schneider, Lorraine
  - Sicinski, Danielle
  - Silvernagle, Robyn

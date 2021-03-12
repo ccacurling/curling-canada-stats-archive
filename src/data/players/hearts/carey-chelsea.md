@@ -4,18 +4,18 @@ name: Chelsea Carey
 name-sort: Carey, Chelsea
 totals:
  - event: Hearts
-   games: 64
-   wins: 47
-   losses: 17
-   inturn-total: 574
-   inturn-percent: 81
-   outturn-total: 658
-   outturn-percent: 82
-   draw-total: 539
+   games: 76
+   wins: 53
+   losses: 23
+   inturn-total: 669
+   inturn-percent: 80
+   outturn-total: 779
+   outturn-percent: 81
+   draw-total: 655
    draw-percent: 79
-   takeout-total: 693
-   takeout-percent: 83
-   shots-total: 1232
+   takeout-total: 793
+   takeout-percent: 82
+   shots-total: 1448
    shots-percent: 81
 years:
  - year: 2014
@@ -103,15 +103,36 @@ years:
    takeout-percent: 76
    shots-total: 209
    shots-percent: 74
+ - year: 2021
+   event: Hearts
+   team: "WC"
+   position: Fourth
+   games: 12
+   wins: 6
+   losses: 6
+   inturn-total: 95
+   inturn-percent: 73
+   outturn-total: 121
+   outturn-percent: 80
+   draw-total: 116
+   draw-percent: 78
+   takeout-total: 100
+   takeout-percent: 77
+   shots-total: 216
+   shots-percent: 77
 vs:
+ - Adams, Melissa
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Anderson, Sherry
+ - Armstrong, Hailey
  - Armstrong, Jennifer
+ - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Babin, Jillian
  - Baier, Stephanie
  - Barker, Penny
+ - Barron, Lauren
  - Belisle, Eve
  - Birchard, Shannon
  - Birt, Suzanne
@@ -144,6 +165,7 @@ vs:
  - Derry, Danielle
  - deSolla, Jodie
  - Devereaux, Julie
+ - Doerksen, Katherine
  - Doig, Deanna
  - Dolan, Kim
  - Dolan, Sinead
@@ -153,6 +175,7 @@ vs:
  - Englot, Michelle
  - Eyamie, Lisa
  - Ferguson, Dana
+ - Fisher, Sam
  - Flaxey, Allison
  - Fleury, Tracy
  - Forward, Katie
@@ -161,11 +184,15 @@ vs:
  - Galusha, Kerry
  - Gannon, Melissa
  - Gates, Jennifer
+ - Godsland, Brooke
  - Griffin, Alison
+ - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Haughian, Jessie
  - Hawes, Dezaray
+ - Hill, Sarah
  - Hill, Trish
  - Homan, Rachel
  - Howard, Ashley
@@ -175,8 +202,10 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese
+ - Kitz, Chaelynn
  - Kleibrink, Shannon
  - Klymchuk, Ashley
+ - Knapp, Breanne
  - Koehler, Megan
  - Koltun, Sarah
  - Kreviazuk, Alison
@@ -188,19 +217,25 @@ vs:
  - Lawton, Stefanie
  - Lemay, Annie
  - Lilly, Kendra
+ - Lister, Kendra
+ - Loder, Jenna
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
+ - Martin, Nancy
  - Mattatall, Mary
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Meilleur, Briane
+ - Mercer, Adrienne
  - Miskew, Emma
+ - Moore, Kristie
  - Munroe, Anna
  - Murphy, Sarah
  - Nedohin, Heather
@@ -212,6 +247,7 @@ vs:
  - O'Rourke, Brittany
  - Parsons, Danielle
  - Peterman, Jocelyn
+ - Peterson, Beth
  - Pilote, Kristen
  - Pincott, Erin
  - Pinksen, Sadie
@@ -221,6 +257,7 @@ vs:
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
+ - Riley, Emily
  - Robichaud, Sylvie
  - Robison, Michala
  - Ross, Allison
@@ -231,6 +268,7 @@ vs:
  - Sanderson, Jessie
  - Sandwith, Carley
  - Saulnier, Andrea
+ - Scheidegger, Casey
  - Schneider, Lorraine
  - Scotland, Nadine
  - Sicinski, Danielle
@@ -239,6 +277,8 @@ vs:
  - Singler, Sherri
  - Sippala, Ashley
  - Smith, Heather
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
@@ -246,6 +286,8 @@ vs:
  - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla
+ - Tingley, Jaclyn
+ - Tran, Brittany
  - Udle, Teri
  - Vandale, Trysta
  - Van Osch, Kesa

@@ -120,6 +120,10 @@ years:
    takeout-percent: 73
    shots-total: 270
    shots-percent: 75
+ - year: 2021
+   event: Hearts
+   team: "PE"
+   position: Alternate
 vs:
  - Adams, Diane
  - Alexander, Diane

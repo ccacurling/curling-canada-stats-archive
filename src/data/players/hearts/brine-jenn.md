@@ -4,19 +4,19 @@ name: Jenn Brine
 name-sort: Brine, Jenn
 totals:
  - event: Hearts
-   games: 13
-   wins: 5
-   losses: 8
-   inturn-total: 158
-   inturn-percent: 83
-   outturn-total: 83
-   outturn-percent: 76
-   draw-total: 138
-   draw-percent: 82
-   takeout-total: 103
+   games: 21
+   wins: 8
+   losses: 13
+   inturn-total: 234
+   inturn-percent: 80
+   outturn-total: 149
+   outturn-percent: 75
+   draw-total: 198
+   draw-percent: 78
+   takeout-total: 185
    takeout-percent: 79
-   shots-total: 241
-   shots-percent: 80
+   shots-total: 383
+   shots-percent: 78
 years:
  - year: 2016
    event: Hearts
@@ -52,23 +52,50 @@ years:
    takeout-percent: 71
    shots-total: 131
    shots-percent: 80
+ - year: 2021
+   event: Hearts
+   team: "NS"
+   position: Second
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 76
+   inturn-percent: 75
+   outturn-total: 66
+   outturn-percent: 75
+   draw-total: 60
+   draw-percent: 68
+   takeout-total: 82
+   takeout-percent: 80
+   shots-total: 142
+   shots-percent: 75
 vs:
+ - Barbour, Shona
+ - Birchard, Shannon
  - Birt, Suzanne
  - Blaney, Jennifer
  - Bodner, Jenine
  - Boudreault, Patricia
  - Brown, Rachel
+ - Burgess, Karlee
+ - Burns, Krysta
+ - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
  - Christianson, Marie
  - Courtney, Joanne
  - Daigle, Julie
+ - Doerksen, Katherine
  - Einarson, Kerri
  - Ferguson, Dana
+ - Flemming, Margot
  - Fleury, Tracy
  - Fyfe, Liz
+ - Galusha, Kerry
+ - Gates, Amanda
  - Gates, Jennifer
  - Griffin, Alison
+ - Guy, Sara
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
@@ -79,10 +106,13 @@ vs:
  - Kreviazuk, Cheryl
  - Lavoie, Gabrielle
  - Lawes, Kaitlyn
+ - Lenentine, Lauren
  - Lilly, Kendra
+ - Loder, Jenna
  - MacCuish, Kristin
  - MacPhee, Robyn
  - McCarville, Krista
+ - McDonald, Taylor
  - McEwen, Dawn
  - Meilleur, Briane
  - Miskew, Emma
@@ -94,14 +124,22 @@ vs:
  - O'Neill, Brit
  - Peterman, Jocelyn
  - Peters, Laine
+ - Peterson, Beth
  - Pilote, Kristen
  - Pinksen, Sadie
  - Potts, Sarah
+ - Rizzo, Jo-Ann
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
+ - Smith, Megan
+ - Sweeting, Val
+ - Tran, Brittany
+ - Walker, Laura
  - Wark, Sarah
  - Weagle, Lisa
  - Wilkes, Sarah
  - Williamson, Ashley
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
 ---

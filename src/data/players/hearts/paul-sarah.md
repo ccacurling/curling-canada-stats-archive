@@ -52,6 +52,7 @@ vs:
  - Jones, Jennifer
  - Kalenchuk, Heather
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Kreviazuk, Alison
  - Larouche, Marie-France
  - Lawes, Kaitlyn
@@ -59,7 +60,6 @@ vs:
  - MacDougall, Leslie
  - MacPhee, Robyn
  - McEwen, Dawn
- - Meakin, Breanne
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma

@@ -38,6 +38,11 @@ Dave Thomas
 
 ## Changelog
 
+### 2021-03-12
+
+ * Added 2021 Hearts data.
+ * Misc fixes across all womens events.
+
 ### 2021-02-19
 
  * Added Macdonald Brier data (1970-1979).

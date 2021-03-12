@@ -302,6 +302,7 @@ vs:
  - Kelly, Kim
  - King, Cathy
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Koehler, Megan
  - Kreviazuk, Alison
  - Kyle, Linda
@@ -342,7 +343,6 @@ vs:
  - McInnis, Susan
  - McKnight, Patti
  - McLeod, Crystal
- - Meakin, Breanne
  - Merklinger, Anne
  - Middaugh, Sherry
  - Miller, Wendy

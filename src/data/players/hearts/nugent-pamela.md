@@ -108,6 +108,7 @@ vs:
  - Kasner, Marliese
  - Kelly, Kim
  - King, Cathy
+ - Knapp, Breanne
  - Knezevic, Patti
  - Koltun, Sarah
  - Kreviazuk, Alison
@@ -121,7 +122,6 @@ vs:
  - McCarville, Krista
  - McDonald, Kristy
  - McInnis, Susan
- - Meakin, Breanne
  - Miskew, Emma
  - Muise, Morgan
  - Officer, Jill

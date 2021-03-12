@@ -195,6 +195,7 @@ vs:
  - Hanna, Jenn
  - Hanna, Stephanie
  - Hastings, Julie
+ - Haughian, Jessie
  - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
@@ -234,9 +235,11 @@ vs:
  - McEwen, Dawn
  - McInnis, Susan
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Meilleur, Briane
  - Miskew, Emma
  - Mittelstadt, Candice
+ - Moore, Kristie
  - Moriarty, Monica
  - Morris, Cori
  - Moses, Dawn
@@ -270,6 +273,7 @@ vs:
  - Sabourin, Joelle
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Scheidegger, Casey
  - Scotland, Nadine
  - Scott, Kelly
  - Sharpe, Kelli

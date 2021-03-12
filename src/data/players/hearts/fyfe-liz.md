@@ -4,19 +4,19 @@ name: Liz Fyfe
 name-sort: Fyfe, Liz
 totals:
  - event: Hearts
-   games: 33
-   wins: 20
-   losses: 13
-   inturn-total: 347
+   games: 45
+   wins: 26
+   losses: 19
+   inturn-total: 472
    inturn-percent: 84
-   outturn-total: 291
-   outturn-percent: 83
-   draw-total: 214
+   outturn-total: 388
+   outturn-percent: 81
+   draw-total: 306
    draw-percent: 79
-   takeout-total: 424
-   takeout-percent: 86
-   shots-total: 638
-   shots-percent: 83
+   takeout-total: 554
+   takeout-percent: 84
+   shots-total: 860
+   shots-percent: 82
 years:
  - year: 2016
    event: Hearts
@@ -69,13 +69,32 @@ years:
    takeout-percent: 86
    shots-total: 140
    shots-percent: 83
+ - year: 2021
+   event: Hearts
+   team: "WC"
+   position: Second
+   games: 12
+   wins: 6
+   losses: 6
+   inturn-total: 125
+   inturn-percent: 83
+   outturn-total: 97
+   outturn-percent: 77
+   draw-total: 92
+   draw-percent: 79
+   takeout-total: 130
+   takeout-percent: 81
+   shots-total: 222
+   shots-percent: 80
 vs:
  - Adams, Melissa
  - Anderson, Sherry
+ - Armstrong, Hailey
  - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Barbour, Shona
+ - Barron, Lauren
  - Baxter, Jen
  - Birchard, Shannon
  - Birt, Suzanne
@@ -84,6 +103,7 @@ vs:
  - Boyle, Jane
  - Brine, Jenn
  - Brothers, Jill
+ - Brown, Corryn
  - Brown, Rachel
  - Cameron, Kate
  - Campbell, Jolene
@@ -95,25 +115,36 @@ vs:
  - Curtis, Stacie
  - Daigle, Julie
  - Devereaux, Julie
+ - Doerksen, Katherine
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
+ - Eddy, Lori
+ - Einarson, Kerri
  - Englot, Michelle
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
+ - Fisher, Sam
  - Fleury, Tracy
  - Galusha, Kerry
  - Gates, Amanda
  - Gates, Jennifer
  - Gibson, Amy
+ - Godsland, Brooke
+ - Griffin, Alison
+ - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Hawes, Dezaray
+ - Hill, Sarah
  - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
  - Jones, Jennifer
+ - Kitz, Chaelynn
+ - Knapp, Breanne
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
@@ -127,10 +158,17 @@ vs:
  - Letendre, Pascale
  - Lilly, Kendra
  - Lister, Kendra
+ - Loder, Jenna
+ - MacDonald, Kaitlin
  - MacPhee, Robyn
+ - Martin, Nancy
  - McCarville, Krista
+ - McDonald, Taylor
  - McEwen, Dawn
+ - McQuaid, Michelle
  - McTaggart, Cary-Anne
+ - Meilleur, Briane
+ - Mercer, Adrienne
  - Miskew, Emma
  - Moore, Kristie
  - Munroe, Anna
@@ -141,13 +179,17 @@ vs:
  - O'Neill, Brit
  - Peterman, Jocelyn
  - Peters, Laine
+ - Peterson, Beth
  - Pilote, Kristen
+ - Pincott, Erin
+ - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
  - Price, Kara
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
+ - Riley, Emily
  - Robichaud, Sylvie
  - Rusnell, Jen
  - Sagle, Karen
@@ -156,12 +198,18 @@ vs:
  - Scheidegger, Jessie
  - Sippala, Ashley
  - Smallwood, Jody
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
+ - Sweeting, Val
  - Thompson, Karla
+ - Tingley, Jaclyn
+ - Tran, Brittany
  - Vandale, Trysta
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
  - Vautour, Carrie
+ - Walker, Laura
  - Walsh, Jenna
  - Wark, Sarah
  - Weagle, Lisa

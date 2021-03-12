@@ -53,6 +53,7 @@ vs:
  - Fyfe, Liz
  - Gates, Jennifer
  - Griffin, Alison
+ - Haughian, Jessie
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
@@ -66,13 +67,16 @@ vs:
  - McCarville, Krista
  - McEwen, Dawn
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Miskew, Emma
+ - Moore, Kristie
  - Munroe, Anna
  - Murphy, Sarah
  - Njegovan, Selena
  - Peterman, Jocelyn
  - Pinksen, Sadie
  - Potts, Sarah
+ - Scheidegger, Casey
  - Silvernagle, Robyn
  - Thevenot, Kara
  - Weagle, Lisa

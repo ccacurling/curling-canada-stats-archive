@@ -153,6 +153,7 @@ vs:
  - Joyce, Blisse
  - Kasner, Marliese
  - Klymchuk, Ashley
+ - Knapp, Breanne
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
@@ -171,7 +172,6 @@ vs:
  - McDonald, Kristy
  - McEwen, Dawn
  - McQuaid, Michelle
- - Meakin, Breanne
  - Miskew, Emma
  - Njegovan, Selena
  - Nugent, Pamela

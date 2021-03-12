@@ -4,19 +4,19 @@ name: Rachel Brown
 name-sort: Brown, Rachel
 totals:
  - event: Hearts
-   games: 52
-   wins: 36
-   losses: 16
-   inturn-total: 546
-   inturn-percent: 88
-   outturn-total: 440
-   outturn-percent: 83
-   draw-total: 759
+   games: 66
+   wins: 46
+   losses: 20
+   inturn-total: 646
+   inturn-percent: 87
+   outturn-total: 586
+   outturn-percent: 84
+   draw-total: 948
    draw-percent: 88
-   takeout-total: 227
-   takeout-percent: 77
-   shots-total: 986
-   shots-percent: 86
+   takeout-total: 284
+   takeout-percent: 74
+   shots-total: 1232
+   shots-percent: 85
 years:
  - year: 2014
    event: Hearts
@@ -86,13 +86,32 @@ years:
    takeout-percent: 86
    shots-total: 212
    shots-percent: 89
+ - year: 2021
+   event: Hearts
+   team: "AB"
+   position: Lead
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 100
+   inturn-percent: 80
+   outturn-total: 146
+   outturn-percent: 86
+   draw-total: 189
+   draw-percent: 89
+   takeout-total: 57
+   takeout-percent: 64
+   shots-total: 246
+   shots-percent: 83
 vs:
  - Anderson, Sherry
+ - Armstrong, Hailey
  - Armstrong, Jennifer
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Babin, Jillian
  - Baier, Stephanie
+ - Barbour, Shona
  - Baxter, Jen
  - Birchard, Shannon
  - Birt, Suzanne
@@ -106,6 +125,8 @@ vs:
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Corryn
+ - Burgess, Karlee
+ - Burns, Krysta
  - Cameron, Kate
  - Camozzi, Rhona
  - Carey, Chelsea
@@ -122,6 +143,7 @@ vs:
  - Daigle, Julie
  - Davies, Lisa
  - deSolla, Jodie
+ - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
@@ -129,15 +151,19 @@ vs:
  - Einarson, Kerri
  - Filteau, Anne-Marie
  - Flaxey, Allison
+ - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
  - Foster, Kristen
  - Fyfe, Liz
+ - Galusha, Kerry
  - Gannon, Melissa
  - Gates, Amanda
  - Gates, Jennifer
  - Griffin, Alison
+ - Guy, Sara
  - Hastings, Julie
+ - Haughian, Jessie
  - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
@@ -146,7 +172,9 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese
+ - Kitz, Chaelynn
  - Klymchuk, Ashley
+ - Knapp, Breanne
  - Knezevic, Patti
  - Koltun, Sarah
  - Korab, Stephanie
@@ -155,11 +183,15 @@ vs:
  - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
+ - Lenentine, Lauren
  - Lilly, Kendra
+ - Loder, Jenna
+ - Logan, Emma
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - Mann, Lauren
+ - Martin, Nancy
  - McCarville, Krista
  - McDonald, Kristy
  - McDonald, Taylor
@@ -167,22 +199,28 @@ vs:
  - McInnis, Susan
  - McPherson, Cheryl
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
  - Meilleur, Briane
  - Miskew, Emma
+ - Moore, Kristie
  - Munroe, Anna
  - Murphy, Sarah
+ - Njegovan, Selena
  - Njegovan, Selena
  - Nugent, Pamela
  - Officer, Jill
  - O'Rourke, Brittany
  - Parsons, Danielle
  - Peterman, Jocelyn
+ - Peterson, Beth
  - Pilote, Kristen
  - Pincott, Erin
  - Pinksen, Sadie
  - Potts, Sarah
  - Reid, Jackie
  - Richard, Marie
+ - Riley, Emily
+ - Rizzo, Jo-Ann
  - Robichaud, Sylvie
  - Robison, Michala
  - Ross, Allison
@@ -191,6 +229,7 @@ vs:
  - Rusnell, Jen
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Scheidegger, Casey
  - Schmidt, Stephanie
  - Scotland, Nadine
  - Silvernagle, Robyn
@@ -198,8 +237,11 @@ vs:
  - Singler, Sherri
  - Sippala, Ashley
  - Smith, Heather
+ - Smith, Megan
  - Smith, Stacey
  - Snyder, Jane
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
@@ -207,6 +249,7 @@ vs:
  - Thevenot, Kara
  - Thomas-Kennell, Noelle
  - Titheridge, Lindsay
+ - Tran, Brittany
  - Trombley, Christy
  - Udle, Teri
  - Van Osch, Kesa
@@ -217,5 +260,8 @@ vs:
  - Wark, Sarah
  - Weagle, Lisa
  - Whitaker, Carol
+ - Wilkes, Sarah
  - Wylie, Jennifer
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
 ---

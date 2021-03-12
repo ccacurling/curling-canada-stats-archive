@@ -204,6 +204,7 @@ vs:
  - Keshen, Christine
  - Kleibrink, Shannon
  - Klein, Karen
+ - Knapp, Breanne
  - Kreviazuk, Alison
  - Larouche, Marie-France
  - Lawes, Kaitlyn
@@ -218,7 +219,6 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
- - Meakin, Breanne
  - Meilleur, Briane
  - Merklinger, Anne
  - Merklinger, Lee

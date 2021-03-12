@@ -93,6 +93,7 @@ vs:
  - Keshen, Christine
  - King, Cathy
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Loder, Cherie-Ann
@@ -100,7 +101,6 @@ vs:
  - Mair, Jessica
  - McDonald, Kristy
  - McEwen, Dawn
- - Meakin, Breanne
  - Merklinger, Lee
  - Middaugh, Sherry
  - Moore, Kim

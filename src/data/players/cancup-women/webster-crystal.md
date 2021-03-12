@@ -134,6 +134,7 @@ vs:
  - Kasner, Marliese
  - Keshen, Christine
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Loder, Jenna
@@ -142,7 +143,6 @@ vs:
  - McDonald, Kristy
  - McDonald, Taylor
  - McEwen, Dawn
- - Meakin, Breanne
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma

@@ -4,18 +4,18 @@ name: Kerry Galusha
 name-sort: Galusha, Kerry
 totals:
  - event: Hearts
-   games: 131
-   wins: 37
-   losses: 94
-   inturn-total: 1316
+   games: 139
+   wins: 41
+   losses: 98
+   inturn-total: 1419
    inturn-percent: 70
-   outturn-total: 1131
+   outturn-total: 1180
    outturn-percent: 71
-   draw-total: 1263
+   draw-total: 1323
    draw-percent: 69
-   takeout-total: 1184
+   takeout-total: 1276
    takeout-percent: 71
-   shots-total: 2447
+   shots-total: 2599
    shots-percent: 70
 years:
  - year: 1998
@@ -293,6 +293,23 @@ years:
    takeout-percent: 74
    shots-total: 127
    shots-percent: 74
+ - year: 2021
+   event: Hearts
+   team: "NT"
+   position: Fourth
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 103
+   inturn-percent: 71
+   outturn-total: 49
+   outturn-percent: 72
+   draw-total: 60
+   draw-percent: 70
+   takeout-total: 92
+   takeout-percent: 73
+   shots-total: 152
+   shots-percent: 72
 vs:
  - Adams, Melissa
  - Affleck, Tricia
@@ -329,16 +346,21 @@ vs:
  - Breen, Theresa
  - Brennan, Amanda
  - Briand, Oye-Sem Won
+ - Brine, Jenn
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Jacalyn
  - Brown, Janet
+ - Brown, Rachel
  - Burgess, Carey
+ - Burgess, Karlee
+ - Burns, Krysta
  - Bush, Tracy
  - Cameron, Kate
  - Cameron, Nancy
  - Campbell, Jolene
  - Carey, Chelsea
+ - Carmody, Erin
  - Carrier, Julie
  - Carter, Sasha
  - Cheveldave, Amber
@@ -364,6 +386,7 @@ vs:
  - deSolla, Jodie
  - Devereaux, Julie
  - Dezura, Diane
+ - Doerksen, Katherine
  - Doig, Deanna
  - Dolan, Kim
  - Dolan, Sinead
@@ -396,6 +419,7 @@ vs:
  - Grenier, Valerie
  - Gudereit, Marcia
  - Gushulak, Diane
+ - Guy, Sara
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Hanna, Jenn
@@ -405,6 +429,7 @@ vs:
  - Harrison, Meredith
  - Harvey, Alison
  - Harvey, Janet
+ - Haughian, Jessie
  - Hawes, Dezaray
  - Hill, Trish
  - Holland, Amber
@@ -441,10 +466,12 @@ vs:
  - LeDrew, Stephanie
  - Leger, Stacey
  - Lemay, Annie
+ - Lenentine, Lauren
  - Letendre, Pascale
  - Lilly, Kendra
  - Lister, Kendra
  - Loder, Cherie-Ann
+ - Loder, Jenna
  - Logan, Emma
  - Lowther, Tammi
  - MacCuish, Kristin
@@ -464,11 +491,14 @@ vs:
  - Mattatall, Mary
  - McCarville, Krista
  - McConnery, Nancy
+ - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
  - McKnight, Patti
  - McNamee, Karen
  - McQuaid, Michelle
+ - McTaggart, Cary-Anne
+ - Meilleur, Briane
  - Merklinger, Anne
  - Middaugh, Sherry
  - Miskew, Emma
@@ -499,6 +529,7 @@ vs:
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
+ - Peterson, Beth
  - Pewarchuk, Dailene
  - Pincott, Erin
  - Plonka, Gabrielle
@@ -521,6 +552,7 @@ vs:
  - Sabourin, Joelle
  - Sandison, Janice
  - Saulnier, Andrea
+ - Scheidegger, Casey
  - Schneider, Kim
  - Schneider, Lorraine
  - Schneider, Tammy
@@ -539,6 +571,7 @@ vs:
  - Slywka, Sarah
  - Smallwood, Jody
  - Smith, Heather
+ - Smith, Megan
  - Sobey, Lianne
  - Sonnenberg, Renee
  - Spencer, Barb
@@ -548,6 +581,7 @@ vs:
  - Strong, Helen
  - Strong, Laura
  - Stubbings, Tiffany
+ - Sweeting, Val
  - Tanner, Ros
  - Tasaka, Adina
  - Thevenot, Kara
@@ -555,10 +589,12 @@ vs:
  - Thomas, Jill
  - Thompson, Karla
  - Thurston, Jill
+ - Tran, Brittany
  - Tuor, Kimberly
  - Udle, Teri
  - Vavrek, Melody
  - Vey, Lana
+ - Walker, Laura
  - Wall, Kirsten
  - Wasylkiw, Lauren
  - Wazney, Sarah
@@ -574,5 +610,7 @@ vs:
  - Wylie, Jennifer
  - Yardley, Janelle
  - Young, Karen
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
  - Zinck, Kay
 ---

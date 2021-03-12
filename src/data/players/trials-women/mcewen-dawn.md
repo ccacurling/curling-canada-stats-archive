@@ -96,6 +96,7 @@ vs:
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kleibrink, Shannon
+ - Knapp, Breanne
  - Kreviazuk, Alison
  - Kreviazuk, Lynn
  - Lang, Lorraine
@@ -107,7 +108,6 @@ vs:
  - Malekoff, Stephanie
  - McCarville, Krista
  - McTaggart, Cary-Anne
- - Meakin, Breanne
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma

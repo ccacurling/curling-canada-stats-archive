@@ -4,19 +4,19 @@ name: Suzanne Birt
 name-sort: Birt, Suzanne
 totals:
  - event: Hearts
-   games: 125
-   wins: 56
-   losses: 69
-   inturn-total: 1121
+   games: 133
+   wins: 60
+   losses: 73
+   inturn-total: 1197
    inturn-percent: 72
-   outturn-total: 1174
-   outturn-percent: 73
-   draw-total: 1092
+   outturn-total: 1248
+   outturn-percent: 72
+   draw-total: 1162
    draw-percent: 68
-   takeout-total: 1203
+   takeout-total: 1283
    takeout-percent: 76
-   shots-total: 2295
-   shots-percent: 73
+   shots-total: 2445
+   shots-percent: 72
 years:
  - year: 2003
    event: Hearts
@@ -205,19 +205,40 @@ years:
    takeout-percent: 80
    shots-total: 208
    shots-percent: 80
+ - year: 2021
+   event: Hearts
+   team: "PE"
+   position: Fourth
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 76
+   inturn-percent: 64
+   outturn-total: 74
+   outturn-percent: 61
+   draw-total: 70
+   draw-percent: 57
+   takeout-total: 80
+   takeout-percent: 67
+   shots-total: 150
+   shots-percent: 63
 vs:
+ - Adams, Melissa
  - Aleksic, Shannon
  - Anderson, Sherry
+ - Armstrong, Hailey
  - Armstrong, Jacquie
  - Armstrong, Jennifer
  - Arnott, Janet
  - Arsenault, Mary-Anne
+ - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Ayrey, Jinaye
  - Babin, Jillian
  - Bakker, Glenys
  - Baldwin, Nicole
  - Barbour, Shona
+ - Barron, Lauren
  - Baxter, Jen
  - Beauchamp, Sasha
  - Belanger, Nancy
@@ -279,6 +300,7 @@ vs:
  - Duncan, Chelsea
  - Dunn, Anne
  - Dykstra, Michelle
+ - Eddy, Lori
  - Einarson, Kerri
  - Englot, Michelle
  - Enright, Barb
@@ -286,6 +308,7 @@ vs:
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Fisher, Alana
+ - Fisher, Sam
  - Fister, Teri
  - Fister, Toni
  - Fleury, Tracy
@@ -305,6 +328,7 @@ vs:
  - Goss, Peg
  - Greening, Jackie-Rae
  - Gregoire, Veronique
+ - Griffin, Alison
  - Gudereit, Marcia
  - Gushulak, Diane
  - Guzzwell, Stephanie
@@ -318,7 +342,9 @@ vs:
  - Harrison, Meredith
  - Harvey, Janet
  - Hastings, Julie
+ - Haughian, Jessie
  - Hawes, Dezaray
+ - Hill, Sarah
  - Hodson, Kim
  - Holden, Anna-Mae
  - Holland, Amber
@@ -342,8 +368,10 @@ vs:
  - Kerr, Kathy
  - Kidd, Darlene
  - King, Cathy
+ - Kitz, Chaelynn
  - Kleibrink, Shannon
  - Klymchuk, Ashley
+ - Knapp, Breanne
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
@@ -362,10 +390,12 @@ vs:
  - Letendre, Pascale
  - Lilly, Kendra
  - Linton, Sherry
+ - Lister, Kendra
  - Loder, Cherie-Ann
  - Logan, Emma
  - MacCuish, Kristin
  - MacDiarmid, Kristen
+ - MacDonald, Kaitlin
  - MacInnes, Allison
  - MacNutt, Shelley
  - Mair, Jessica
@@ -374,6 +404,7 @@ vs:
  - Marchand, Stephanie
  - Marchuk, Lindy
  - Martin, Heather
+ - Martin, Nancy
  - Materi, Roberta
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
@@ -381,7 +412,9 @@ vs:
  - McConnery, Nancy
  - McCusker, Joan
  - McEwen, Dawn
+ - McTaggart, Cary-Anne
  - Meilleur, Briane
+ - Mercer, Adrienne
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
@@ -401,6 +434,7 @@ vs:
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
+ - Njegovan, Selena
  - Nowlan, Denise
  - Nugent, Pamela
  - O'Connor, Susan
@@ -418,6 +452,7 @@ vs:
  - Pilote, Kristen
  - Pincott, Erin
  - Pinkney, Colleen
+ - Pinksen, Sadie
  - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
@@ -428,6 +463,7 @@ vs:
  - Reed, Shellan
  - Richard, Marie
  - Ridalls, Kristen
+ - Riley, Emily
  - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Robichaud, Sylvie
@@ -440,6 +476,7 @@ vs:
  - Sagle, Karen
  - Sandwith, Carley
  - Santos, Deb
+ - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schneider, Kim
  - Schneider, Tammy
@@ -457,6 +494,8 @@ vs:
  - Snyder, Jane
  - Sobey, Lianne
  - Spencer, Barb
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Stabel, Stacey
  - Stewart, Sheri
  - Strachan, Angela
@@ -472,6 +511,7 @@ vs:
  - Thevenot, Kara
  - Thompson, Karla
  - Thurston, Jill
+ - Tingley, Jaclyn
  - Todd, Fran
  - Tran, Brittany
  - Trombley, Christy
