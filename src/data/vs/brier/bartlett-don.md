@@ -3,7951 +3,7951 @@ title: Don Bartlett Head-to-head
 name: Bartlett, Don
 vs:
  - name: Bentley, Dan
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 81  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 78  
-        wins: 0      
-        losses: 1    
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NS'      
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
         position: Fourth
-        percent: 78     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1991          
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
       draw: Round Robin(3)
-      score: NS 4 - AB 5  
+      score: NS 4 - AB 5
  - name: Bentley, Darren
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 81     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 78     
-        wins: 0         
-        losses: 1       
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NS'      
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
         position: Second
-        percent: 78     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1991          
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
       draw: Round Robin(3)
-      score: NS 4 - AB 5  
+      score: NS 4 - AB 5
  - name: Biron, Louis
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 79  
-        wins: 4      
-        losses: 0    
-      player2:       
-        percent: 77  
-        wins: 0      
-        losses: 4    
+   totals:
+    - event: Brier
+      player1:
+        percent: 79
+        wins: 4
+        losses: 0
+      player2:
+        percent: 77
+        wins: 0
+        losses: 4
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'QC'    
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Lead
-        percent: 100  
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1992          
+        percent: 100
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
       draw: Round Robin(9)
-      score: AB 8 - QC 2  
-    - player1:        
-        team: 'AB'    
+      score: AB 8 - QC 2
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 83   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'QC'      
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Second
-        percent: 65     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1996           
+        percent: 65
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(16)
-      score: AB 7 - QC 2   
-    - player1:        
-        team: 'AB'    
+      score: AB 7 - QC 2
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 79   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'QC'      
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1996          
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Semi-Final(21)
-      score: QC 8 - AB 9  
-    - player1:        
-        team: 'AB'    
+      score: QC 8 - AB 9
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 72   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'QC'    
+        percent: 72
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Lead
-        percent: 70   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1997          
+        percent: 70
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Round Robin(1)
-      score: QC 4 - AB 5  
+      score: QC 4 - AB 5
  - name: Blanchard, Ben
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 98    
-        wins: 0        
-        losses: 1      
-      player2:         
-        percent: 79    
-        wins: 1        
-        losses: 0      
+   totals:
+    - event: Brier
+      player1:
+        percent: 98
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 98   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'NS'      
+        percent: 98
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Second
-        percent: 79     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 2000          
+        percent: 79
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2000
       draw: Round Robin(4)
-      score: NS 7 - AB 6  
+      score: NS 7 - AB 6
  - name: Blanchard, Jason
-   totals:               
-    - event: Brier       
-      player1:           
-        percent: 98      
-        wins: 0          
-        losses: 1        
-      player2:           
-        percent: 84      
-        wins: 1          
-        losses: 0        
+   totals:
+    - event: Brier
+      player1:
+        percent: 98
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 98   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'NS'    
+        percent: 98
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Lead
-        percent: 84   
-        win: 1        
-        loss: 0       
-      event: Brier        
-      year: 2000          
+        percent: 84
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2000
       draw: Round Robin(4)
-      score: NS 7 - AB 6  
+      score: NS 7 - AB 6
  - name: Boland, John
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 92  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 81  
-        wins: 0      
-        losses: 1    
+   totals:
+    - event: Brier
+      player1:
+        percent: 92
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 92   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NL'      
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
         position: Fourth
-        percent: 81     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1991          
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
       draw: Round Robin(9)
-      score: AB 6 - NL 5  
+      score: AB 6 - NL 5
  - name: Brackett, James
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 79     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 85     
-        wins: 0         
-        losses: 1       
+   totals:
+    - event: Brier
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 79   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'ON'    
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Lead
-        percent: 85   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 1996           
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(12)
-      score: AB 7 - ON 3   
+      score: AB 7 - ON 3
  - name: Brandwood, Todd
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 89     
-        wins: 0         
-        losses: 1       
-      player2:          
-        percent: 73     
-        wins: 1         
-        losses: 0       
+   totals:
+    - event: Brier
+      player1:
+        percent: 89
+        wins: 0
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'ON'     
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
         position: Third
-        percent: 73    
-        win: 1         
-        loss: 0        
-      event: Brier        
-      year: 2000          
+        percent: 73
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2000
       draw: Round Robin(2)
-      score: AB 3 - ON 8  
+      score: AB 3 - ON 8
  - name: Brown, Ken
-   totals:         
-    - event: Brier 
-      player1:     
+   totals:
+    - event: Brier
+      player1:
         percent: 79
-        wins: 2    
-        losses: 0  
-      player2:     
+        wins: 2
+        losses: 0
+      player2:
         percent: 79
-        wins: 0    
-        losses: 2  
+        wins: 0
+        losses: 2
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 82   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'BC'      
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Second
-        percent: 80     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1996          
+        percent: 80
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(6)
-      score: BC 5 - AB 9  
-    - player1:        
-        team: 'AB'    
+      score: BC 5 - AB 9
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 76   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'BC'      
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Second
-        percent: 79     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1997          
+        percent: 79
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Round Robin(2)
-      score: AB 9 - BC 7  
+      score: AB 9 - BC 7
  - name: Bryant, Doug
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 85  
-        wins: 2      
-        losses: 0    
-      player2:       
-        percent: 83  
-        wins: 0      
-        losses: 2    
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 2
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 2
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 79   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'TR'    
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
         position: Lead
-        percent: 94   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1991          
+        percent: 94
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
       draw: Round Robin(1)
-      score: TR 1 - AB 9  
-    - player1:        
-        team: 'AB'    
+      score: TR 1 - AB 9
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 91   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'TR'     
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
         position: Third
-        percent: 72    
-        win: 0         
-        loss: 1        
-      event: Brier         
-      year: 2000           
+        percent: 72
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
       draw: Round Robin(12)
-      score: AB 8 - TR 3   
+      score: AB 8 - TR 3
  - name: Buchan, Chris
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 77   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 63   
-        wins: 0       
-        losses: 1     
+   totals:
+    - event: Brier
+      player1:
+        percent: 77
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 77   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NO'      
+        percent: 77
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Fourth
-        percent: 63     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1997          
+        percent: 63
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Round Robin(6)
-      score: AB 9 - NO 2  
+      score: AB 9 - NO 2
  - name: Buck, Wyatt
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 90 
-        wins: 1     
-        losses: 1   
-      player2:      
-        percent: 85 
-        wins: 1     
-        losses: 1   
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 1
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'SK'      
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
         position: Second
-        percent: 84     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 1991          
+        percent: 84
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1991
       draw: Round Robin(7)
-      score: AB 4 - SK 10 
-    - player1:        
-        team: 'AB'    
+      score: AB 4 - SK 10
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 92   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'SK'      
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
         position: Second
-        percent: 86     
-        win: 0          
-        loss: 1         
-      event: Brier      
-      year: 1991        
-      draw: Playoff(14) 
+        percent: 86
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
+      draw: Final(14)
       score: SK 4 - AB 8
  - name: Burgess, Craig
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 83    
-        wins: 0        
-        losses: 1      
-      player2:         
-        percent: 81    
-        wins: 1        
-        losses: 0      
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 83   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'NS'     
-        position: Third
-        percent: 81    
-        win: 1         
-        loss: 0        
-      event: Brier        
-      year: 1995          
-      draw: Round Robin(6)
-      score: NS 11 - AB 6 
- - name: Burtnyk, Kerry
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 69    
-        wins: 1        
-        losses: 1      
-      player2:         
-        percent: 77    
-        wins: 1        
-        losses: 1      
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 72   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'MB'      
-        position: Fourth
-        percent: 74     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1995           
-      draw: Round Robin(12)
-      score: AB 7 - MB 5   
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 64   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
-        position: Fourth
-        percent: 82     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 1995          
-      draw: Semi-Final(21)
-      score: MB 9 - AB 3  
- - name: Butler, Marc
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 80  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 69  
-        wins: 0      
-        losses: 1    
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 80   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NO'      
-        position: Second
-        percent: 69     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1996           
-      draw: Round Robin(13)
-      score: NO 3 - AB 8   
- - name: Butler, Mark
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 87  
-        wins: 3      
-        losses: 0    
-      player2:       
-        percent: 86  
-        wins: 0      
-        losses: 3    
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 97   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'PE'    
-        position: Lead
-        percent: 88   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1991          
-      draw: Round Robin(6)
-      score: PE 4 - AB 6  
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 76   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'PE'    
-        position: Lead
-        percent: 81   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1995          
-      draw: Round Robin(5)
-      score: PE 4 - AB 8  
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'PE'    
-        position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1997          
-      draw: Round Robin(5)
-      score: PE 5 - AB 10 
- - name: Butler, Mike
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 81  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 81  
-        wins: 0      
-        losses: 1    
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NB'    
-        position: Lead
-        percent: 81   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1991          
-      draw: Round Robin(5)
-      score: NB 3 - AB 7  
- - name: Butler, Ted
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 86 
-        wins: 1     
-        losses: 0   
-      player2:      
-        percent: 57 
-        wins: 0     
-        losses: 1   
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'QC'      
-        position: Fourth
-        percent: 57     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1992          
-      draw: Round Robin(9)
-      score: AB 8 - QC 2  
- - name: Campbell, Robert
-   totals:               
-    - event: Brier       
-      player1:           
-        percent: 87      
-        wins: 3          
-        losses: 0        
-      player2:           
-        percent: 67      
-        wins: 0          
-        losses: 3        
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 97   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'PE'      
-        position: Fourth
-        percent: 75     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1991          
-      draw: Round Robin(6)
-      score: PE 4 - AB 6  
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 76   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'PE'      
-        position: Fourth
-        percent: 71     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1995          
-      draw: Round Robin(5)
-      score: PE 4 - AB 8  
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'PE'      
-        position: Fourth
-        percent: 54     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1997          
-      draw: Round Robin(5)
-      score: PE 5 - AB 10 
- - name: Carey, Dan
-   totals:         
-    - event: Brier 
-      player1:     
-        percent: 89
-        wins: 2    
-        losses: 2  
-      player2:     
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
         percent: 81
-        wins: 2    
-        losses: 2  
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 96   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'MB'     
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Third
-        percent: 79    
-        win: 1         
-        loss: 0        
-      event: Brier         
-      year: 1992           
+        percent: 81
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1995
+      draw: Round Robin(6)
+      score: NS 11 - AB 6
+ - name: Burtnyk, Kerry
+   totals:
+    - event: Brier
+      player1:
+        percent: 69
+        wins: 1
+        losses: 1
+      player2:
+        percent: 77
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 72
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
+      draw: Round Robin(12)
+      score: AB 7 - MB 5
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 64
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 82
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1995
+      draw: Semi-Final(21)
+      score: MB 9 - AB 3
+ - name: Butler, Marc
+   totals:
+    - event: Brier
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 69
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 69
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
+      draw: Round Robin(13)
+      score: NO 3 - AB 8
+ - name: Butler, Mark
+   totals:
+    - event: Brier
+      player1:
+        percent: 87
+        wins: 3
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 3
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
+      draw: Round Robin(6)
+      score: PE 4 - AB 6
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
+      draw: Round Robin(5)
+      score: PE 4 - AB 8
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
+      draw: Round Robin(5)
+      score: PE 5 - AB 10
+ - name: Butler, Mike
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
+      draw: Round Robin(5)
+      score: NB 3 - AB 7
+ - name: Butler, Ted
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 57
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Fourth
+        percent: 57
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
+      draw: Round Robin(9)
+      score: AB 8 - QC 2
+ - name: Campbell, Robert
+   totals:
+    - event: Brier
+      player1:
+        percent: 87
+        wins: 3
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 3
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
+      draw: Round Robin(6)
+      score: PE 4 - AB 6
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 71
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
+      draw: Round Robin(5)
+      score: PE 4 - AB 8
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 54
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
+      draw: Round Robin(5)
+      score: PE 5 - AB 10
+ - name: Carey, Dan
+   totals:
+    - event: Brier
+      player1:
+        percent: 89
+        wins: 2
+        losses: 2
+      player2:
+        percent: 81
+        wins: 2
+        losses: 2
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1992
       draw: Round Robin(16)
-      score: AB 4 - MB 7   
-    - player1:        
-        team: 'AB'    
+      score: AB 4 - MB 7
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 94   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'MB'     
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Third
-        percent: 88    
-        win: 1         
-        loss: 0        
-      event: Brier         
-      year: 1997           
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1997
       draw: Round Robin(16)
-      score: MB 7 - AB 4   
-    - player1:        
-        team: 'AB'    
+      score: MB 7 - AB 4
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 83   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'MB'     
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
         position: Third
-        percent: 75    
-        win: 0         
-        loss: 1        
-      event: Brier      
-      year: 1997        
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Page 1-2(19)
       score: AB 6 - MB 5
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'MB'     
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
         position: Third
-        percent: 85    
-        win: 0         
-        loss: 1        
-      event: Brier       
-      year: 1997         
-      draw: Final(21)    
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
+      draw: Final(21)
       score: MB 8 - AB 10
  - name: Carter, Andrew
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 86    
-        wins: 0        
-        losses: 1      
-      player2:         
-        percent: 91    
-        wins: 1        
-        losses: 0      
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 91
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 86   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'QC'    
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
         position: Lead
-        percent: 91   
-        win: 1        
-        loss: 0       
-      event: Brier         
-      year: 1991           
+        percent: 91
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1991
       draw: Round Robin(10)
-      score: QC 5 - AB 3   
+      score: QC 5 - AB 3
  - name: Champion, Kevin
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 89     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 69     
-        wins: 0         
-        losses: 1       
+   totals:
+    - event: Brier
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 69
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 89   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'PE'     
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Third
-        percent: 69    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 2006          
+        percent: 69
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
       draw: Round Robin(2)
-      score: AB 9 - PE 3  
+      score: AB 9 - PE 3
  - name: Charette, Pierre
-   totals:               
-    - event: Brier       
-      player1:           
-        percent: 77      
-        wins: 3          
-        losses: 0        
-      player2:           
-        percent: 88      
-        wins: 0          
-        losses: 3        
+   totals:
+    - event: Brier
+      player1:
+        percent: 77
+        wins: 3
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 3
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 83   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'QC'    
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Lead
-        percent: 92   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 1996           
+        percent: 92
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(16)
-      score: AB 7 - QC 2   
-    - player1:        
-        team: 'AB'    
+      score: AB 7 - QC 2
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 79   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'QC'    
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Lead
-        percent: 86   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1996          
+        percent: 86
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Semi-Final(21)
-      score: QC 8 - AB 9  
-    - player1:        
-        team: 'AB'    
+      score: QC 8 - AB 9
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 72   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'QC'      
+        percent: 72
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Second
-        percent: 86     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1997          
+        percent: 86
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Round Robin(1)
-      score: QC 4 - AB 5  
+      score: QC 4 - AB 5
  - name: Charteris, Wayne
-   totals:               
-    - event: Brier       
-      player1:           
-        percent: 78      
-        wins: 0          
-        losses: 1        
-      player2:           
-        percent: 86      
-        wins: 1          
-        losses: 0        
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 78   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'SK'      
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
         position: Second
-        percent: 86     
-        win: 1          
-        loss: 0         
-      event: Brier         
-      year: 1995           
+        percent: 86
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1995
       draw: Round Robin(13)
-      score: SK 4 - AB 3   
+      score: SK 4 - AB 3
  - name: Chorostkowski, Brad
-   totals:                  
-    - event: Brier          
-      player1:              
-        percent: 88         
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent: 86         
-        wins: 0             
-        losses: 1           
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'TR'    
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
         position: Lead
-        percent: 86   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 2006          
+        percent: 86
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
       draw: Round Robin(4)
-      score: TR 4 - AB 6  
+      score: TR 4 - AB 6
  - name: Clarke, Dave
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 83  
-        wins: 0      
-        losses: 1    
-      player2:       
-        percent: 72  
-        wins: 1      
-        losses: 0    
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 72
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 83   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'NS'    
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Lead
-        percent: 72   
-        win: 1        
-        loss: 0       
-      event: Brier        
-      year: 1995          
+        percent: 72
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1995
       draw: Round Robin(6)
-      score: NS 11 - AB 6 
+      score: NS 11 - AB 6
  - name: Coady, Mike
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 88 
-        wins: 1     
-        losses: 0   
-      player2:      
-        percent: 90 
-        wins: 0     
-        losses: 1   
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 90
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'PE'      
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Second
-        percent: 90     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1992          
+        percent: 90
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
       draw: Round Robin(2)
-      score: AB 5 - PE 2  
+      score: AB 5 - PE 2
  - name: Collison, Brian
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 92     
-        wins: 1         
-        losses: 1       
-      player2:          
-        percent: 75     
-        wins: 1         
-        losses: 1       
+   totals:
+    - event: Brier
+      player1:
+        percent: 92
+        wins: 1
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 95   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'BC'     
+        percent: 95
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
         position: Third
-        percent: 75    
-        win: 1         
-        loss: 0        
-      event: Brier        
-      year: 1991          
+        percent: 75
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1991
       draw: Round Robin(2)
-      score: AB 1 - BC 7  
-    - player1:        
-        team: 'AB'    
+      score: AB 1 - BC 7
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 89   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'BC'     
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Third
-        percent: 75    
-        win: 0         
-        loss: 1        
-      event: Brier      
-      year: 1991        
-      draw: Playoff(13) 
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
+      draw: Semi-Final(13)
       score: AB 4 - BC 3
  - name: Corner, Peter
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 91   
-        wins: 1       
-        losses: 3     
-      player2:        
-        percent: 86   
-        wins: 3       
-        losses: 1     
+   totals:
+    - event: Brier
+      player1:
+        percent: 91
+        wins: 1
+        losses: 3
+      player2:
+        percent: 86
+        wins: 3
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'ON'    
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1991          
+        percent: 89
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
       draw: Round Robin(4)
-      score: AB 6 - ON 4  
-    - player1:        
-        team: 'AB'    
+      score: AB 6 - ON 4
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'ON'    
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
         position: Lead
-        percent: 83   
-        win: 1        
-        loss: 0       
-      event: Brier        
-      year: 1992          
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1992
       draw: Round Robin(1)
-      score: ON 3 - AB 1  
-    - player1:        
-        team: 'AB'    
+      score: ON 3 - AB 1
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 99   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'ON'    
+        percent: 99
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
         position: Lead
-        percent: 83   
-        win: 1        
-        loss: 0       
-      event: Brier      
-      year: 1992        
-      draw: Playoff(18) 
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1992
+      draw: Semi-Final(18)
       score: ON 7 - AB 4
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'ON'      
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
         position: Fourth
-        percent: 88     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 2000          
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2000
       draw: Round Robin(2)
-      score: AB 3 - ON 8  
+      score: AB 3 - ON 8
  - name: Coster, Dave
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 85  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 75  
-        wins: 0      
-        losses: 1    
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 85   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NB'    
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Lead
-        percent: 75   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1992          
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
       draw: Round Robin(4)
-      score: NB 8 - AB 10 
+      score: NB 8 - AB 10
  - name: Coulter, Mike
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 77   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 65   
-        wins: 0       
-        losses: 1     
+   totals:
+    - event: Brier
+      player1:
+        percent: 77
+        wins: 1
+        losses: 0
+      player2:
+        percent: 65
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 77   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NO'     
+        percent: 77
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Third
-        percent: 65    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1997          
+        percent: 65
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Round Robin(6)
-      score: AB 9 - NO 2  
+      score: AB 9 - NO 2
  - name: Cowan, Chad
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 91 
-        wins: 1     
-        losses: 0   
-      player2:      
-        percent: 70 
-        wins: 0     
-        losses: 1   
+   totals:
+    - event: Brier
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 91   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'TR'      
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
         position: Fourth
-        percent: 70     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 2000           
+        percent: 70
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
       draw: Round Robin(12)
-      score: AB 8 - TR 3   
+      score: AB 8 - TR 3
  - name: Cunningham, Geoff
-   totals:                
-    - event: Brier        
-      player1:            
-        percent: 96       
-        wins: 0           
-        losses: 1         
-      player2:            
-        percent: 70       
-        wins: 1           
-        losses: 0         
+   totals:
+    - event: Brier
+      player1:
+        percent: 96
+        wins: 0
+        losses: 1
+      player2:
+        percent: 70
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 96   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'NL'     
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
         position: Third
-        percent: 70    
-        win: 1         
-        loss: 0        
-      event: Brier         
-      year: 1992           
+        percent: 70
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1992
       draw: Round Robin(14)
-      score: AB 6 - NL 7   
+      score: AB 6 - NL 7
  - name: Dacey, Mark
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 86 
-        wins: 0     
-        losses: 3   
-      player2:      
-        percent: 84 
-        wins: 3     
-        losses: 0   
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 0
+        losses: 3
+      player2:
+        percent: 84
+        wins: 3
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 78   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'SK'     
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
         position: Third
-        percent: 80    
-        win: 1         
-        loss: 0        
-      event: Brier         
-      year: 1995           
+        percent: 80
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1995
       draw: Round Robin(13)
-      score: SK 4 - AB 3   
-    - player1:        
-        team: 'AB'    
+      score: SK 4 - AB 3
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 90   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'NS'      
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Fourth
-        percent: 90     
-        win: 1          
-        loss: 0         
-      event: Brier         
-      year: 2006           
+        percent: 90
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2006
       draw: Round Robin(16)
-      score: NS 7 - AB 1   
-    - player1:        
-        team: 'AB'    
+      score: NS 7 - AB 1
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 93   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'NS'      
+        percent: 93
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Fourth
-        percent: 84     
-        win: 1          
-        loss: 0         
-      event: Brier      
-      year: 2006        
+        percent: 84
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2006
       draw: Page 3-4(18)
       score: NS 6 - AB 5
  - name: Delmage, Ron
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 74  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 83  
-        wins: 0      
-        losses: 1    
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 74   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'TR'    
-        position: Lead
-        percent: 83   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1996          
-      draw: Round Robin(8)
-      score: AB 11 - TR 6 
- - name: Despins, Glen
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 86   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 84   
-        wins: 0       
-        losses: 1     
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'SK'     
-        position: Third
-        percent: 84    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1996          
-      draw: Round Robin(4)
-      score: AB 7 - SK 4  
- - name: Dillon, Mike
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 89  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 77  
-        wins: 0      
-        losses: 1    
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 89   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'PE'    
-        position: Lead
-        percent: 77   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 2006          
-      draw: Round Robin(2)
-      score: AB 9 - PE 3  
- - name: Dowden, Craig
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 83   
-        wins: 2       
-        losses: 0     
-      player2:        
-        percent: 81   
-        wins: 0       
-        losses: 2     
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NL'    
-        position: Lead
-        percent: 74   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1996          
-      draw: Round Robin(9)
-      score: AB 4 - NL 1  
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 84   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NL'    
-        position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 2000           
-      draw: Round Robin(14)
-      score: NL 3 - AB 7   
- - name: Eberts, Tony
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 82  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 75  
-        wins: 0      
-        losses: 1    
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 82   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'BC'     
-        position: Third
-        percent: 75    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1996          
-      draw: Round Robin(6)
-      score: BC 5 - AB 9  
- - name: Elkin, Derek
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 87  
-        wins: 2      
-        losses: 0    
-      player2:       
-        percent: 70  
-        wins: 0      
-        losses: 2    
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 98   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'TR'     
-        position: Third
-        percent: 70    
-        win: 0         
-        loss: 1        
-      event: Brier         
-      year: 1992           
-      draw: Round Robin(15)
-      score: TR 3 - AB 4   
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 74   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'TR'     
-        position: Third
-        percent: 69    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1996          
-      draw: Round Robin(8)
-      score: AB 11 - TR 6 
- - name: Ellis, Ken
-   totals:         
-    - event: Brier 
-      player1:     
-        percent: 80
-        wins: 2    
-        losses: 0  
-      player2:     
+   totals:
+    - event: Brier
+      player1:
+        percent: 74
+        wins: 1
+        losses: 0
+      player2:
         percent: 83
-        wins: 0    
-        losses: 2  
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 76   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NL'      
-        position: Second
-        percent: 80     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1997           
-      draw: Round Robin(17)
-      score: AB 7 - NL 6   
-    - player1:        
-        team: 'AB'    
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
         position: Lead
-        percent: 84   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NL'      
-        position: Second
-        percent: 85     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 2000           
-      draw: Round Robin(14)
-      score: NL 3 - AB 7   
- - name: Elmaleh, Maxime
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 95     
-        wins: 1         
-        losses: 1       
-      player2:          
-        percent: 80     
-        wins: 1         
-        losses: 1       
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 98   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'QC'     
-        position: Third
-        percent: 69    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 2000          
-      draw: Round Robin(7)
-      score: AB 10 - QC 3 
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 94   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'QC'    
-        position: Lead
-        percent: 87   
-        win: 1        
-        loss: 0       
-      event: Brier         
-      year: 2006           
-      draw: Round Robin(14)
-      score: QC 9 - AB 5   
- - name: Ernst, Georg
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 82  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 72  
-        wins: 0      
-        losses: 1    
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 82   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NS'      
-        position: Second
-        percent: 72     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1997          
-      draw: Round Robin(7)
-      score: NS 3 - AB 10 
- - name: Feldman, Alfred
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 86     
-        wins: 0         
-        losses: 1       
-      player2:          
-        percent: 79     
-        wins: 1         
-        losses: 0       
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 86   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'TR'      
-        position: Second
-        percent: 79     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 1995          
-      draw: Round Robin(2)
-      score: TR 7 - AB 5  
- - name: Fenton, Keith
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 69   
-        wins: 1       
-        losses: 1     
-      player2:        
-        percent: 72   
-        wins: 1       
-        losses: 1     
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 72   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'MB'    
-        position: Lead
-        percent: 83   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 1995           
-      draw: Round Robin(12)
-      score: AB 7 - MB 5   
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 64   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'MB'    
-        position: Lead
-        percent: 56   
-        win: 1        
-        loss: 0       
-      event: Brier        
-      year: 1995          
-      draw: Semi-Final(21)
-      score: MB 9 - AB 3  
- - name: Fitzherbert, Brad
-   totals:                
-    - event: Brier        
-      player1:            
-        percent: 85       
-        wins: 1           
-        losses: 0         
-      player2:            
-        percent: 71       
-        wins: 0           
-        losses: 1         
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 85   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NB'     
-        position: Third
-        percent: 71    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1992          
-      draw: Round Robin(4)
-      score: NB 8 - AB 10 
- - name: Florence, Malcolm
-   totals:                
-    - event: Brier        
-      player1:            
-        percent: 79       
-        wins: 1           
-        losses: 0         
-      player2:            
-        percent: 90       
-        wins: 0           
-        losses: 1         
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 79   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'TR'     
-        position: Third
-        percent: 90    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1991          
-      draw: Round Robin(1)
-      score: TR 1 - AB 9  
- - name: Folk, Rick
-   totals:         
-    - event: Brier 
-      player1:     
-        percent: 63
-        wins: 1    
-        losses: 0  
-      player2:     
-        percent: 48
-        wins: 0    
-        losses: 1  
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 63   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'BC'      
-        position: Fourth
-        percent: 48     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1995           
-      draw: Round Robin(17)
-      score: BC 3 - AB 9   
- - name: Forsyth, Sandy
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 86    
-        wins: 1        
-        losses: 0      
-      player2:         
-        percent: 91    
-        wins: 0        
-        losses: 1      
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'SK'    
-        position: Lead
-        percent: 91   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1996          
-      draw: Round Robin(4)
-      score: AB 7 - SK 4  
- - name: Fowler, Ed
-   totals:         
-    - event: Brier 
-      player1:     
-        percent: 93
-        wins: 1    
-        losses: 0  
-      player2:     
-        percent: 86
-        wins: 0    
-        losses: 1  
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 93   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'BC'    
-        position: Lead
-        percent: 86   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1992          
-      draw: Round Robin(7)
-      score: BC 4 - AB 6  
- - name: Foy, Sandy
-   totals:         
-    - event: Brier 
-      player1:     
-        percent: 88
-        wins: 1    
-        losses: 0  
-      player2:     
-        percent: 88
-        wins: 0    
-        losses: 1  
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'PE'    
-        position: Lead
-        percent: 88   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1992          
-      draw: Round Robin(2)
-      score: AB 5 - PE 2  
- - name: Gagnon, Jean
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 98  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 88  
-        wins: 0      
-        losses: 1    
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 98   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'QC'    
-        position: Lead
-        percent: 88   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 2000          
-      draw: Round Robin(7)
-      score: AB 10 - QC 3 
- - name: Gagnon, Steeve
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 85    
-        wins: 1        
-        losses: 0      
-      player2:         
-        percent: 59    
-        wins: 0        
-        losses: 1      
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 85   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'QC'      
-        position: Fourth
-        percent: 59     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1995          
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(8)
-      score: AB 5 - QC 4  
- - name: Gallant, Peter
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 87    
-        wins: 3        
-        losses: 0      
-      player2:         
-        percent: 81    
-        wins: 0        
-        losses: 3      
+      score: AB 11 - TR 6
+ - name: Despins, Glen
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 97   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'PE'     
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
         position: Third
-        percent: 81    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1991          
+        percent: 84
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
+      draw: Round Robin(4)
+      score: AB 7 - SK 4
+ - name: Dillon, Mike
+   totals:
+    - event: Brier
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 77
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 77
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
+      draw: Round Robin(2)
+      score: AB 9 - PE 3
+ - name: Dowden, Craig
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 2
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 74
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
+      draw: Round Robin(9)
+      score: AB 4 - NL 1
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
+      draw: Round Robin(14)
+      score: NL 3 - AB 7
+ - name: Eberts, Tony
+   totals:
+    - event: Brier
+      player1:
+        percent: 82
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(6)
-      score: PE 4 - AB 6  
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 76   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'PE'     
-        position: Third
-        percent: 86    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1995          
-      draw: Round Robin(5)
-      score: PE 4 - AB 8  
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'PE'     
-        position: Third
-        percent: 74    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1997          
-      draw: Round Robin(5)
-      score: PE 5 - AB 10 
- - name: Gibson, Andrew
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 91    
-        wins: 0        
-        losses: 2      
-      player2:         
-        percent: 90    
-        wins: 2        
-        losses: 0      
+      score: BC 5 - AB 9
+ - name: Elkin, Derek
+   totals:
+    - event: Brier
+      player1:
+        percent: 87
+        wins: 2
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 2
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 90   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'NS'    
+        percent: 98
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
+      draw: Round Robin(15)
+      score: TR 3 - AB 4
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 95   
-        win: 1        
-        loss: 0       
-      event: Brier         
-      year: 2006           
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Third
+        percent: 69
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
+      draw: Round Robin(8)
+      score: AB 11 - TR 6
+ - name: Ellis, Ken
+   totals:
+    - event: Brier
+      player1:
+        percent: 80
+        wins: 2
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 80
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
+      draw: Round Robin(17)
+      score: AB 7 - NL 6
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
+      draw: Round Robin(14)
+      score: NL 3 - AB 7
+ - name: Elmaleh, Maxime
+   totals:
+    - event: Brier
+      player1:
+        percent: 95
+        wins: 1
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 98
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 69
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
+      draw: Round Robin(7)
+      score: AB 10 - QC 3
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 87
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2006
+      draw: Round Robin(14)
+      score: QC 9 - AB 5
+ - name: Ernst, Georg
+   totals:
+    - event: Brier
+      player1:
+        percent: 82
+        wins: 1
+        losses: 0
+      player2:
+        percent: 72
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Second
+        percent: 72
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
+      draw: Round Robin(7)
+      score: NS 3 - AB 10
+ - name: Feldman, Alfred
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'TR'
+        position: Second
+        percent: 79
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1995
+      draw: Round Robin(2)
+      score: TR 7 - AB 5
+ - name: Fenton, Keith
+   totals:
+    - event: Brier
+      player1:
+        percent: 69
+        wins: 1
+        losses: 1
+      player2:
+        percent: 72
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 72
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
+      draw: Round Robin(12)
+      score: AB 7 - MB 5
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 64
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 56
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1995
+      draw: Semi-Final(21)
+      score: MB 9 - AB 3
+ - name: Fitzherbert, Brad
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 71
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 71
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
+      draw: Round Robin(4)
+      score: NB 8 - AB 10
+ - name: Florence, Malcolm
+   totals:
+    - event: Brier
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 90
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Third
+        percent: 90
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
+      draw: Round Robin(1)
+      score: TR 1 - AB 9
+ - name: Folk, Rick
+   totals:
+    - event: Brier
+      player1:
+        percent: 63
+        wins: 1
+        losses: 0
+      player2:
+        percent: 48
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 63
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 48
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
+      draw: Round Robin(17)
+      score: BC 3 - AB 9
+ - name: Forsyth, Sandy
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 91
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
+      draw: Round Robin(4)
+      score: AB 7 - SK 4
+ - name: Fowler, Ed
+   totals:
+    - event: Brier
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
+      draw: Round Robin(7)
+      score: BC 4 - AB 6
+ - name: Foy, Sandy
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
+      draw: Round Robin(2)
+      score: AB 5 - PE 2
+ - name: Gagnon, Jean
+   totals:
+    - event: Brier
+      player1:
+        percent: 98
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 98
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
+      draw: Round Robin(7)
+      score: AB 10 - QC 3
+ - name: Gagnon, Steeve
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 59
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Fourth
+        percent: 59
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
+      draw: Round Robin(8)
+      score: AB 5 - QC 4
+ - name: Gallant, Peter
+   totals:
+    - event: Brier
+      player1:
+        percent: 87
+        wins: 3
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 3
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
+      draw: Round Robin(6)
+      score: PE 4 - AB 6
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
+      draw: Round Robin(5)
+      score: PE 4 - AB 8
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Third
+        percent: 74
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
+      draw: Round Robin(5)
+      score: PE 5 - AB 10
+ - name: Gibson, Andrew
+   totals:
+    - event: Brier
+      player1:
+        percent: 91
+        wins: 0
+        losses: 2
+      player2:
+        percent: 90
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Lead
+        percent: 95
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2006
       draw: Round Robin(16)
-      score: NS 7 - AB 1   
-    - player1:        
-        team: 'AB'    
+      score: NS 7 - AB 1
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 93   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'NS'    
+        percent: 93
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      event: Brier      
-      year: 2006        
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2006
       draw: Page 3-4(18)
       score: NS 6 - AB 5
  - name: Golanowski, Rory
-   totals:               
-    - event: Brier       
-      player1:           
-        percent: 90      
-        wins: 1          
-        losses: 0        
-      player2:           
-        percent: 93      
-        wins: 0          
-        losses: 1        
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 93
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 90   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'SK'    
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
         position: Lead
-        percent: 93   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 2000           
+        percent: 93
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
       draw: Round Robin(10)
-      score: SK 6 - AB 7   
+      score: SK 6 - AB 7
  - name: Gorveatt, Philip
-   totals:               
-    - event: Brier       
-      player1:           
-        percent: 89      
-        wins: 1          
-        losses: 0        
-      player2:           
-        percent: 63      
-        wins: 0          
-        losses: 1        
+   totals:
+    - event: Brier
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 89   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'PE'      
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Second
-        percent: 63     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 2006          
+        percent: 63
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
       draw: Round Robin(2)
-      score: AB 9 - PE 3  
+      score: AB 9 - PE 3
  - name: Goss, Glenn
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 96 
-        wins: 0     
-        losses: 1   
-      player2:      
-        percent: 80 
-        wins: 1     
-        losses: 0   
+   totals:
+    - event: Brier
+      player1:
+        percent: 96
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 96   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'NL'      
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
         position: Fourth
-        percent: 80     
-        win: 1          
-        loss: 0         
-      event: Brier         
-      year: 1992           
+        percent: 80
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1992
       draw: Round Robin(14)
-      score: AB 6 - NL 7   
+      score: AB 6 - NL 7
  - name: Gould, Steve
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 82  
-        wins: 0      
-        losses: 4    
-      player2:       
-        percent: 89  
-        wins: 4      
-        losses: 0    
+   totals:
+    - event: Brier
+      player1:
+        percent: 82
+        wins: 0
+        losses: 4
+      player2:
+        percent: 89
+        wins: 4
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 75   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'MB'    
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      event: Brier        
-      year: 1996          
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1996
       draw: Round Robin(5)
-      score: MB 7 - AB 6  
-    - player1:        
-        team: 'AB'    
+      score: MB 7 - AB 6
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 84   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'MB'    
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      event: Brier      
-      year: 1996        
+        percent: 86
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1996
       draw: Page 1-2(20)
       score: MB 6 - AB 5
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 80   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'MB'    
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      event: Brier      
-      year: 1996        
-      draw: Final(22)   
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1996
+      draw: Final(22)
       score: MB 8 - AB 7
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 90   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'MB'    
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Lead
-        percent: 94   
-        win: 1        
-        loss: 0       
-      event: Brier        
-      year: 2006          
+        percent: 94
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2006
       draw: Round Robin(7)
-      score: AB 6 - MB 7  
+      score: AB 6 - MB 7
  - name: Goulden, Lowell
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 82     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 61     
-        wins: 0         
-        losses: 1       
+   totals:
+    - event: Brier
+      player1:
+        percent: 82
+        wins: 1
+        losses: 0
+      player2:
+        percent: 61
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 82   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NS'      
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
         position: Fourth
-        percent: 61     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1997          
+        percent: 61
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Round Robin(7)
-      score: NS 3 - AB 10 
+      score: NS 3 - AB 10
  - name: Graber, Dennis
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 84    
-        wins: 1        
-        losses: 0      
-      player2:         
-        percent: 82    
-        wins: 0        
-        losses: 1      
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 82
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 84   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'BC'     
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Third
-        percent: 82    
-        win: 0         
-        loss: 1        
-      event: Brier         
-      year: 2006           
+        percent: 82
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
       draw: Round Robin(12)
-      score: AB 7 - BC 1   
+      score: AB 7 - BC 1
  - name: Grant, Scott
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 86  
-        wins: 2      
-        losses: 1    
-      player2:       
-        percent: 86  
-        wins: 1      
-        losses: 2    
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 2
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 2
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 94   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'MB'    
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Lead
-        percent: 78   
-        win: 1        
-        loss: 0       
-      event: Brier         
-      year: 1997           
+        percent: 78
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1997
       draw: Round Robin(16)
-      score: MB 7 - AB 4   
-    - player1:        
-        team: 'AB'    
+      score: MB 7 - AB 4
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 83   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'MB'    
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
         position: Lead
-        percent: 93   
-        win: 0        
-        loss: 1       
-      event: Brier      
-      year: 1997        
+        percent: 93
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Page 1-2(19)
       score: AB 6 - MB 5
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'MB'    
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
         position: Lead
-        percent: 84   
-        win: 0        
-        loss: 1       
-      event: Brier       
-      year: 1997         
-      draw: Final(21)    
+        percent: 84
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
+      draw: Final(21)
       score: MB 8 - AB 10
  - name: Grattan, James
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 78    
-        wins: 2        
-        losses: 0      
-      player2:         
-        percent: 80    
-        wins: 0        
-        losses: 2      
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 2
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 2
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 71   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Fourth
-        percent: 81     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1997           
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Round Robin(12)
-      score: AB 6 - NB 4   
-    - player1:        
-        team: 'AB'    
+      score: AB 6 - NB 4
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Fourth
-        percent: 78     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 2006          
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
       draw: Round Robin(1)
-      score: NB 3 - AB 8  
+      score: NB 3 - AB 8
  - name: Gretzinger, Bert
-   totals:               
-    - event: Brier       
-      player1:           
-        percent: 63      
-        wins: 1          
-        losses: 0        
-      player2:           
-        percent: 64      
-        wins: 0          
-        losses: 1        
+   totals:
+    - event: Brier
+      player1:
+        percent: 63
+        wins: 1
+        losses: 0
+      player2:
+        percent: 64
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 63   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'BC'      
+        percent: 63
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Second
-        percent: 64     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1995           
+        percent: 64
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
       draw: Round Robin(17)
-      score: BC 3 - AB 9   
+      score: BC 3 - AB 9
  - name: Grundy, John
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 90  
-        wins: 1      
-        losses: 1    
-      player2:       
-        percent: 70  
-        wins: 1      
-        losses: 1    
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 1
+        losses: 1
+      player2:
+        percent: 70
+        wins: 1
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'SK'    
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
         position: Lead
-        percent: 78   
-        win: 1        
-        loss: 0       
-      event: Brier        
-      year: 1991          
+        percent: 78
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1991
       draw: Round Robin(7)
-      score: AB 4 - SK 10 
-    - player1:        
-        team: 'AB'    
+      score: AB 4 - SK 10
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 92   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'SK'    
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
         position: Lead
-        percent: 63   
-        win: 0        
-        loss: 1       
-      event: Brier      
-      year: 1991        
-      draw: Playoff(14) 
+        percent: 63
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
+      draw: Final(14)
       score: SK 4 - AB 8
  - name: Gubbles, Will
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 80   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 75   
-        wins: 0       
-        losses: 1     
+   totals:
+    - event: Brier
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 80   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NO'    
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Lead
-        percent: 75   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 1996           
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(13)
-      score: NO 3 - AB 8   
+      score: NO 3 - AB 8
  - name: Gudereit, Kerry
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 86     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 96     
-        wins: 0         
-        losses: 1       
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 96
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'SK'    
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
         position: Lead
-        percent: 96   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 1992           
+        percent: 96
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
       draw: Round Robin(12)
-      score: AB 6 - SK 5   
+      score: AB 6 - SK 5
  - name: Hackner, Al
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 82 
-        wins: 1     
-        losses: 1   
-      player2:      
-        percent: 74 
-        wins: 1     
-        losses: 1   
+   totals:
+    - event: Brier
+      player1:
+        percent: 82
+        wins: 1
+        losses: 1
+      player2:
+        percent: 74
+        wins: 1
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 93   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NO'      
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Fourth
-        percent: 64     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1992          
+        percent: 64
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
       draw: Round Robin(5)
-      score: AB 7 - NO 4  
-    - player1:        
-        team: 'AB'    
+      score: AB 7 - NO 4
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 74   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'NO'      
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Fourth
-        percent: 83     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 1995          
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1995
       draw: Round Robin(9)
-      score: AB 6 - NO 7  
+      score: AB 6 - NO 7
  - name: Haichert, Chris
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 71     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 78     
-        wins: 0         
-        losses: 1       
+   totals:
+    - event: Brier
+      player1:
+        percent: 71
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 71   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'SK'      
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
         position: Second
-        percent: 78     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 2006          
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
       draw: Round Robin(6)
-      score: SK 5 - AB 9  
+      score: SK 5 - AB 9
  - name: Haines, Chuck
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 79   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 50   
-        wins: 0       
-        losses: 1     
+   totals:
+    - event: Brier
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 50
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 79   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'TR'      
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
         position: Fourth
-        percent: 50     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1991          
+        percent: 50
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
       draw: Round Robin(1)
-      score: TR 1 - AB 9  
+      score: TR 1 - AB 9
  - name: Harris, Rob
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 91 
-        wins: 0     
-        losses: 2   
-      player2:      
-        percent: 84 
-        wins: 2     
-        losses: 0   
+   totals:
+    - event: Brier
+      player1:
+        percent: 91
+        wins: 0
+        losses: 2
+      player2:
+        percent: 84
+        wins: 2
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 90   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'NS'      
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Second
-        percent: 83     
-        win: 1          
-        loss: 0         
-      event: Brier         
-      year: 2006           
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2006
       draw: Round Robin(16)
-      score: NS 7 - AB 1   
-    - player1:        
-        team: 'AB'    
+      score: NS 7 - AB 1
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 93   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'NS'      
+        percent: 93
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Second
-        percent: 85     
-        win: 1          
-        loss: 0         
-      event: Brier      
-      year: 2006        
+        percent: 85
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2006
       draw: Page 3-4(18)
       score: NS 6 - AB 5
  - name: Harris, Tom
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 85 
-        wins: 1     
-        losses: 0   
-      player2:      
-        percent: 81 
-        wins: 0     
-        losses: 1   
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 85   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1992          
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
       draw: Round Robin(4)
-      score: NB 8 - AB 10 
+      score: NB 8 - AB 10
  - name: Harrison, Neil
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 78    
-        wins: 3        
-        losses: 0      
-      player2:         
-        percent: 88    
-        wins: 0        
-        losses: 3      
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 79   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'ON'    
-        position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 1995           
-      draw: Round Robin(16)
-      score: AB 5 - ON 3   
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 78   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'ON'    
-        position: Lead
-        percent: 82   
-        win: 0        
-        loss: 1       
-      event: Brier      
-      year: 1995        
-      draw: Page 3-4(19)
-      score: AB 8 - ON 4
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 78   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'ON'    
-        position: Lead
-        percent: 91   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 1997           
-      draw: Round Robin(11)
-      score: ON 3 - AB 6   
- - name: Hart, Richard
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 86   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 83   
-        wins: 0       
-        losses: 1     
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'ON'     
-        position: Third
-        percent: 83    
-        win: 0         
-        loss: 1        
-      event: Brier         
-      year: 2006           
-      draw: Round Robin(10)
-      score: ON 4 - AB 7   
- - name: Harvey, Paul
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 82  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 80  
-        wins: 0      
-        losses: 1    
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 82   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NL'      
-        position: Second
-        percent: 80     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1995          
-      draw: Round Robin(4)
-      score: AB 11 - NL 4 
- - name: Hebert, Ben
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 71 
-        wins: 1     
-        losses: 0   
-      player2:      
-        percent: 88 
-        wins: 0     
-        losses: 1   
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 71   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'SK'    
-        position: Lead
-        percent: 88   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 2006          
-      draw: Round Robin(6)
-      score: SK 5 - AB 9  
- - name: Hebert, Brad
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 86  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 73  
-        wins: 0      
-        losses: 1    
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'SK'      
-        position: Fourth
-        percent: 73     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1992           
-      draw: Round Robin(12)
-      score: AB 6 - SK 5   
- - name: Heidt, Brad
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 78 
-        wins: 0     
-        losses: 1   
-      player2:      
-        percent: 86 
-        wins: 1     
-        losses: 0   
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 78   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'SK'      
-        position: Fourth
-        percent: 86     
-        win: 1          
-        loss: 0         
-      event: Brier         
-      year: 1995           
-      draw: Round Robin(13)
-      score: SK 4 - AB 3   
- - name: Henderson, Jeffrey
-   totals:                 
-    - event: Brier         
-      player1:             
-        percent: 82        
-        wins: 2            
-        losses: 0          
-      player2:             
-        percent: 69        
-        wins: 0            
-        losses: 2          
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 85   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NS'      
-        position: Second
-        percent: 75     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1992           
-      draw: Round Robin(11)
-      score: NS 3 - AB 6   
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 80   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NO'     
-        position: Third
-        percent: 63    
-        win: 0         
-        loss: 1        
-      event: Brier         
-      year: 1996           
-      draw: Round Robin(13)
-      score: NO 3 - AB 8   
- - name: Henderson, Lorne
-   totals:               
-    - event: Brier       
-      player1:           
-        percent: 76      
-        wins: 1          
-        losses: 0        
-      player2:           
-        percent: 74      
-        wins: 0          
-        losses: 1        
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 76   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NL'     
-        position: Third
-        percent: 74    
-        win: 0         
-        loss: 1        
-      event: Brier         
-      year: 1997           
-      draw: Round Robin(17)
-      score: AB 7 - NL 6   
- - name: Henderson, Ron
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 74    
-        wins: 1        
-        losses: 0      
-      player2:         
-        percent: 85    
-        wins: 0        
-        losses: 1      
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 74   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NO'      
-        position: Second
-        percent: 85     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 2000           
-      draw: Round Robin(15)
-      score: AB 8 - NO 5   
- - name: Henderson, Scott
-   totals:               
-    - event: Brier       
-      player1:           
-        percent: 81      
-        wins: 1          
-        losses: 0        
-      player2:           
-        percent: 83      
-        wins: 0          
-        losses: 1        
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NO'     
-        position: Third
-        percent: 83    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1991          
-      draw: Round Robin(8)
-      score: NO 6 - AB 8  
- - name: Herrick, Aron
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 84   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 100  
-        wins: 0       
-        losses: 1     
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 84   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'BC'    
-        position: Lead
-        percent: 100  
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 2006           
-      draw: Round Robin(12)
-      score: AB 7 - BC 1   
- - name: Hinch, Bert
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 79 
-        wins: 2     
-        losses: 0   
-      player2:      
-        percent: 86 
-        wins: 0     
-        losses: 2   
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 82   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'BC'    
-        position: Lead
-        percent: 94   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1996          
-      draw: Round Robin(6)
-      score: BC 5 - AB 9  
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 76   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'BC'    
-        position: Lead
-        percent: 78   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1997          
-      draw: Round Robin(2)
-      score: AB 9 - BC 7  
- - name: Hollett, Peter
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 83    
-        wins: 2        
-        losses: 0      
-      player2:         
-        percent: 79    
-        wins: 0        
-        losses: 2      
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NL'      
-        position: Second
-        percent: 85     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1996          
-      draw: Round Robin(9)
-      score: AB 4 - NL 1  
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 84   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NL'     
-        position: Third
-        percent: 72    
-        win: 0         
-        loss: 1        
-      event: Brier         
-      year: 2000           
-      draw: Round Robin(14)
-      score: NL 3 - AB 7   
- - name: Hopkins, Jeff
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 98   
-        wins: 0       
-        losses: 1     
-      player2:        
-        percent: 65   
-        wins: 1       
-        losses: 0     
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 98   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'NS'     
-        position: Third
-        percent: 65    
-        win: 1         
-        loss: 0        
-      event: Brier        
-      year: 2000          
-      draw: Round Robin(4)
-      score: NS 7 - AB 6  
- - name: Howard, Glenn
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 90   
-        wins: 2       
-        losses: 2     
-      player2:        
-        percent: 85   
-        wins: 2       
-        losses: 2     
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'ON'     
-        position: Third
-        percent: 88    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1991          
-      draw: Round Robin(4)
-      score: AB 6 - ON 4  
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'ON'     
-        position: Third
-        percent: 76    
-        win: 1         
-        loss: 0        
-      event: Brier        
-      year: 1992          
-      draw: Round Robin(1)
-      score: ON 3 - AB 1  
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 99   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'ON'     
-        position: Third
-        percent: 88    
-        win: 1         
-        loss: 0        
-      event: Brier      
-      year: 1992        
-      draw: Playoff(18) 
-      score: ON 7 - AB 4
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'ON'      
-        position: Fourth
-        percent: 90     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 2006           
-      draw: Round Robin(10)
-      score: ON 4 - AB 7   
- - name: Howard, Russ
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 91  
-        wins: 2      
-        losses: 2    
-      player2:       
-        percent: 85  
-        wins: 2      
-        losses: 2    
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'ON'      
-        position: Fourth
-        percent: 77     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1991          
-      draw: Round Robin(4)
-      score: AB 6 - ON 4  
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'ON'      
-        position: Fourth
-        percent: 95     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 1992          
-      draw: Round Robin(1)
-      score: ON 3 - AB 1  
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 99   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'ON'      
-        position: Fourth
-        percent: 85     
-        win: 1          
-        loss: 0         
-      event: Brier      
-      year: 1992        
-      draw: Playoff(18) 
-      score: ON 7 - AB 4
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
-        position: Fourth
-        percent: 83     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 2000          
-      draw: Round Robin(1)
-      score: NB 5 - AB 8  
- - name: Ingram, Bob
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 79 
-        wins: 1     
-        losses: 0   
-      player2:      
-        percent: 79 
-        wins: 0     
-        losses: 1   
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 79   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'ON'      
-        position: Fourth
-        percent: 79     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1996           
-      draw: Round Robin(12)
-      score: AB 7 - ON 3   
- - name: Iverson, Dave
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 92   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 99   
-        wins: 0       
-        losses: 1     
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 92   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'MB'     
-        position: Third
-        percent: 99    
-        win: 0         
-        loss: 1        
-      event: Brier         
-      year: 1991           
-      draw: Round Robin(11)
-      score: AB 3 - MB 2   
- - name: Jakomait, Dusty
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 77     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 75     
-        wins: 0         
-        losses: 1       
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 77   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NO'      
-        position: Second
-        percent: 75     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1997          
-      draw: Round Robin(6)
-      score: AB 9 - NO 2  
- - name: Jenkins, Bill
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 82   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 43   
-        wins: 0       
-        losses: 1     
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 82   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NL'      
-        position: Fourth
-        percent: 43     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1995          
-      draw: Round Robin(4)
-      score: AB 11 - NL 4 
- - name: Johnson, Bill
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 84   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 78   
-        wins: 0       
-        losses: 1     
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 84   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'BC'    
-        position: Lead
-        percent: 78   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 2006           
-      draw: Round Robin(12)
-      score: AB 7 - BC 1   
- - name: Jones, Dave
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 85 
-        wins: 1     
-        losses: 0   
-      player2:      
-        percent: 65 
-        wins: 0     
-        losses: 1   
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 85   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NS'      
-        position: Fourth
-        percent: 65     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1992           
-      draw: Round Robin(11)
-      score: NS 3 - AB 6   
- - name: Josephson, Glenn
-   totals:               
-    - event: Brier       
-      player1:           
-        percent: 86      
-        wins: 1          
-        losses: 0        
-      player2:           
-        percent: 88      
-        wins: 0          
-        losses: 1        
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NS'    
-        position: Lead
-        percent: 88   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 1996           
-      draw: Round Robin(10)
-      score: NS 5 - AB 6   
- - name: Kawaja, John
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 78  
-        wins: 3      
-        losses: 0    
-      player2:       
-        percent: 67  
-        wins: 0      
-        losses: 3    
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 79   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'ON'     
-        position: Third
-        percent: 57    
-        win: 0         
-        loss: 1        
-      event: Brier         
-      year: 1995           
-      draw: Round Robin(16)
-      score: AB 5 - ON 3   
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 78   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'ON'     
-        position: Third
-        percent: 65    
-        win: 0         
-        loss: 1        
-      event: Brier      
-      year: 1995        
-      draw: Page 3-4(19)
-      score: AB 8 - ON 4
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 78   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'ON'     
-        position: Third
-        percent: 75    
-        win: 0         
-        loss: 1        
-      event: Brier         
-      year: 1997           
-      draw: Round Robin(11)
-      score: ON 3 - AB 6   
- - name: Kennedy, Mike
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 83   
-        wins: 2       
-        losses: 0     
-      player2:        
-        percent: 81   
-        wins: 0       
-        losses: 2     
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 85   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
-        position: Fourth
-        percent: 80     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1992          
-      draw: Round Robin(4)
-      score: NB 8 - AB 10 
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
-        position: Fourth
-        percent: 82     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1996           
-      draw: Round Robin(17)
-      score: NB 5 - AB 6   
- - name: Kent, Gerry
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 92 
-        wins: 1     
-        losses: 1   
-      player2:      
-        percent: 71 
-        wins: 1     
-        losses: 1   
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 95   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'BC'      
-        position: Fourth
-        percent: 73     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 1991          
-      draw: Round Robin(2)
-      score: AB 1 - BC 7  
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 89   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'BC'      
-        position: Fourth
-        percent: 69     
-        win: 0          
-        loss: 1         
-      event: Brier      
-      year: 1991        
-      draw: Playoff(13) 
-      score: AB 4 - BC 3
- - name: Kerr, Ian 
-   totals:         
-    - event: Brier 
-      player1:     
-        percent: 76
-        wins: 1    
-        losses: 0  
-      player2:     
-        percent: 79
-        wins: 0    
-        losses: 1  
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 76   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NL'    
-        position: Lead
-        percent: 79   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 1997           
-      draw: Round Robin(17)
-      score: AB 7 - NL 6   
- - name: Kieley, Phil
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 92  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 83  
-        wins: 0      
-        losses: 1    
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 92   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NL'     
-        position: Third
-        percent: 83    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1991          
-      draw: Round Robin(9)
-      score: AB 6 - NL 5  
- - name: Koe, Jamie
-   totals:         
-    - event: Brier 
-      player1:     
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 3
+        losses: 0
+      player2:
         percent: 88
-        wins: 1    
-        losses: 0  
-      player2:     
+        wins: 0
+        losses: 3
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
         percent: 79
-        wins: 0    
-        losses: 1  
-   games:
-    - player1:        
-        team: 'AB'    
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'TR'      
-        position: Fourth
-        percent: 79     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 2006          
+        percent: 89
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
+      draw: Round Robin(16)
+      score: AB 5 - ON 3
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 82
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
+      draw: Page 3-4(19)
+      score: AB 8 - ON 4
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
+      draw: Round Robin(11)
+      score: ON 3 - AB 6
+ - name: Hart, Richard
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Third
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
+      draw: Round Robin(10)
+      score: ON 4 - AB 7
+ - name: Harvey, Paul
+   totals:
+    - event: Brier
+      player1:
+        percent: 82
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 80
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
       draw: Round Robin(4)
-      score: TR 4 - AB 6  
- - name: Kofoed, Lonnie
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 88    
-        wins: 1        
-        losses: 0      
-      player2:         
-        percent: 50    
-        wins: 0        
-        losses: 1      
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'TR'      
-        position: Fourth
-        percent: 50     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1997          
-      draw: Round Robin(9)
-      score: AB 7 - TR 1  
- - name: Korte, Bruce
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 90  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 80  
-        wins: 0      
-        losses: 1    
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 90   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'SK'      
-        position: Fourth
-        percent: 80     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 2000           
-      draw: Round Robin(10)
-      score: SK 6 - AB 7   
- - name: Korte, Roger
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 90  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 86  
-        wins: 0      
-        losses: 1    
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 90   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'SK'      
-        position: Second
-        percent: 86     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 2000           
-      draw: Round Robin(10)
-      score: SK 6 - AB 7   
- - name: Lacey, Jeff
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 78 
-        wins: 2     
-        losses: 0   
-      player2:      
-        percent: 88 
-        wins: 0     
-        losses: 2   
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 71   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NB'    
-        position: Lead
-        percent: 86   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 1997           
-      draw: Round Robin(12)
-      score: AB 6 - NB 4   
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NB'    
-        position: Lead
-        percent: 91   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 2006          
-      draw: Round Robin(1)
-      score: NB 3 - AB 8  
- - name: Lafleur, Andre
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 86    
-        wins: 1        
-        losses: 0      
-      player2:         
-        percent: 68    
-        wins: 0        
-        losses: 1      
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'QC'      
-        position: Second
-        percent: 68     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1992          
-      draw: Round Robin(9)
-      score: AB 8 - QC 2  
- - name: Laing, Brent
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 86  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 90  
-        wins: 0      
-        losses: 1    
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'ON'      
-        position: Second
-        percent: 90     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 2006           
-      draw: Round Robin(10)
-      score: ON 4 - AB 7   
- - name: Lang, Rick
-   totals:         
-    - event: Brier 
-      player1:     
-        percent: 77
-        wins: 1    
-        losses: 1  
-      player2:     
+      score: AB 11 - NL 4
+ - name: Hebert, Ben
+   totals:
+    - event: Brier
+      player1:
         percent: 71
-        wins: 1    
-        losses: 1  
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NO'      
-        position: Fourth
-        percent: 68     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1991          
-      draw: Round Robin(8)
-      score: NO 6 - AB 8  
-    - player1:        
-        team: 'AB'    
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
         position: Lead
-        percent: 74   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'NO'     
-        position: Third
-        percent: 74    
-        win: 1         
-        loss: 0        
-      event: Brier        
-      year: 1995          
-      draw: Round Robin(9)
-      score: AB 6 - NO 7  
- - name: Lappalainen, Art
-   totals:               
-    - event: Brier       
-      player1:           
-        percent: 77      
-        wins: 1          
-        losses: 1        
-      player2:           
-        percent: 81      
-        wins: 1          
-        losses: 1        
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NO'    
-        position: Lead
-        percent: 74   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1991          
-      draw: Round Robin(8)
-      score: NO 6 - AB 8  
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 74   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'NO'    
-        position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      event: Brier        
-      year: 1995          
-      draw: Round Robin(9)
-      score: AB 6 - NO 7  
- - name: LeCocq, Marc
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 81  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 74  
-        wins: 0      
-        losses: 1    
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
-        position: Second
-        percent: 74     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1996           
-      draw: Round Robin(17)
-      score: NB 5 - AB 6   
- - name: LeCocq, Vance
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 85   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 84   
-        wins: 0       
-        losses: 1     
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 85   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NS'    
-        position: Lead
-        percent: 84   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 1992           
-      draw: Round Robin(11)
-      score: NS 3 - AB 6   
- - name: Lemery, Dan
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 79 
-        wins: 4     
-        losses: 0   
-      player2:      
-        percent: 74 
-        wins: 0     
-        losses: 4   
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'QC'     
-        position: Third
-        percent: 75    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1992          
-      draw: Round Robin(9)
-      score: AB 8 - QC 2  
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 83   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'QC'     
-        position: Third
-        percent: 81    
-        win: 0         
-        loss: 1        
-      event: Brier         
-      year: 1996           
-      draw: Round Robin(16)
-      score: AB 7 - QC 2   
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 79   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'QC'     
-        position: Third
-        percent: 79    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1996          
-      draw: Semi-Final(21)
-      score: QC 8 - AB 9  
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 72   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'QC'     
-        position: Third
-        percent: 65    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1997          
-      draw: Round Robin(1)
-      score: QC 4 - AB 5  
- - name: Lohnes, Bruce
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 88   
-        wins: 1       
-        losses: 3     
-      player2:        
-        percent: 82   
-        wins: 3       
-        losses: 1     
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 85   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NS'     
-        position: Third
-        percent: 78    
-        win: 0         
-        loss: 1        
-      event: Brier         
-      year: 1992           
-      draw: Round Robin(11)
-      score: NS 3 - AB 6   
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 83   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'NS'      
-        position: Fourth
-        percent: 89     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 1995          
+        percent: 88
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
       draw: Round Robin(6)
-      score: NS 11 - AB 6 
-    - player1:        
-        team: 'AB'    
+      score: SK 5 - AB 9
+ - name: Hebert, Brad
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 73
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 90   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'NS'     
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Fourth
+        percent: 73
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
+      draw: Round Robin(12)
+      score: AB 6 - SK 5
+ - name: Heidt, Brad
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1995
+      draw: Round Robin(13)
+      score: SK 4 - AB 3
+ - name: Henderson, Jeffrey
+   totals:
+    - event: Brier
+      player1:
+        percent: 82
+        wins: 2
+        losses: 0
+      player2:
+        percent: 69
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
+      draw: Round Robin(11)
+      score: NS 3 - AB 6
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Third
-        percent: 90    
-        win: 1         
-        loss: 0        
-      event: Brier         
-      year: 2006           
+        percent: 63
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
+      draw: Round Robin(13)
+      score: NO 3 - AB 8
+ - name: Henderson, Lorne
+   totals:
+    - event: Brier
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 74
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
+      draw: Round Robin(17)
+      score: AB 7 - NL 6
+ - name: Henderson, Ron
+   totals:
+    - event: Brier
+      player1:
+        percent: 74
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
+      draw: Round Robin(15)
+      score: AB 8 - NO 5
+ - name: Henderson, Scott
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
+      draw: Round Robin(8)
+      score: NO 6 - AB 8
+ - name: Herrick, Aron
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 100
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Lead
+        percent: 100
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
+      draw: Round Robin(12)
+      score: AB 7 - BC 1
+ - name: Hinch, Bert
+   totals:
+    - event: Brier
+      player1:
+        percent: 79
+        wins: 2
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
+      draw: Round Robin(6)
+      score: BC 5 - AB 9
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
+      draw: Round Robin(2)
+      score: AB 9 - BC 7
+ - name: Hollett, Peter
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 2
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
+      draw: Round Robin(9)
+      score: AB 4 - NL 1
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 72
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
+      draw: Round Robin(14)
+      score: NL 3 - AB 7
+ - name: Hopkins, Jeff
+   totals:
+    - event: Brier
+      player1:
+        percent: 98
+        wins: 0
+        losses: 1
+      player2:
+        percent: 65
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 98
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 65
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2000
+      draw: Round Robin(4)
+      score: NS 7 - AB 6
+ - name: Howard, Glenn
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 2
+        losses: 2
+      player2:
+        percent: 85
+        wins: 2
+        losses: 2
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
+      draw: Round Robin(4)
+      score: AB 6 - ON 4
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Third
+        percent: 76
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1992
+      draw: Round Robin(1)
+      score: ON 3 - AB 1
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 99
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1992
+      draw: Semi-Final(18)
+      score: ON 7 - AB 4
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 90
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
+      draw: Round Robin(10)
+      score: ON 4 - AB 7
+ - name: Howard, Russ
+   totals:
+    - event: Brier
+      player1:
+        percent: 91
+        wins: 2
+        losses: 2
+      player2:
+        percent: 85
+        wins: 2
+        losses: 2
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 77
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
+      draw: Round Robin(4)
+      score: AB 6 - ON 4
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 95
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1992
+      draw: Round Robin(1)
+      score: ON 3 - AB 1
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 99
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1992
+      draw: Semi-Final(18)
+      score: ON 7 - AB 4
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
+      draw: Round Robin(1)
+      score: NB 5 - AB 8
+ - name: Ingram, Bob
+   totals:
+    - event: Brier
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
+      draw: Round Robin(12)
+      score: AB 7 - ON 3
+ - name: Iverson, Dave
+   totals:
+    - event: Brier
+      player1:
+        percent: 92
+        wins: 1
+        losses: 0
+      player2:
+        percent: 99
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 99
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
+      draw: Round Robin(11)
+      score: AB 3 - MB 2
+ - name: Jakomait, Dusty
+   totals:
+    - event: Brier
+      player1:
+        percent: 77
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 77
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
+      draw: Round Robin(6)
+      score: AB 9 - NO 2
+ - name: Jenkins, Bill
+   totals:
+    - event: Brier
+      player1:
+        percent: 82
+        wins: 1
+        losses: 0
+      player2:
+        percent: 43
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 43
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
+      draw: Round Robin(4)
+      score: AB 11 - NL 4
+ - name: Johnson, Bill
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
+      draw: Round Robin(12)
+      score: AB 7 - BC 1
+ - name: Jones, Dave
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 65
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Fourth
+        percent: 65
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
+      draw: Round Robin(11)
+      score: NS 3 - AB 6
+ - name: Josephson, Glenn
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
+      draw: Round Robin(10)
+      score: NS 5 - AB 6
+ - name: Kawaja, John
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 3
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 3
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Third
+        percent: 57
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
       draw: Round Robin(16)
-      score: NS 7 - AB 1   
-    - player1:        
-        team: 'AB'    
+      score: AB 5 - ON 3
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 93   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'NS'     
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Third
-        percent: 75    
-        win: 1         
-        loss: 0        
-      event: Brier      
-      year: 2006        
+        percent: 65
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
+      draw: Page 3-4(19)
+      score: AB 8 - ON 4
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
+      draw: Round Robin(11)
+      score: ON 3 - AB 6
+ - name: Kennedy, Mike
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 2
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 80
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
+      draw: Round Robin(4)
+      score: NB 8 - AB 10
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 82
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
+      draw: Round Robin(17)
+      score: NB 5 - AB 6
+ - name: Kent, Gerry
+   totals:
+    - event: Brier
+      player1:
+        percent: 92
+        wins: 1
+        losses: 1
+      player2:
+        percent: 71
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 95
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 73
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1991
+      draw: Round Robin(2)
+      score: AB 1 - BC 7
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
+      draw: Semi-Final(13)
+      score: AB 4 - BC 3
+ - name: Kerr, Ian
+   totals:
+    - event: Brier
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 79
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
+      draw: Round Robin(17)
+      score: AB 7 - NL 6
+ - name: Kieley, Phil
+   totals:
+    - event: Brier
+      player1:
+        percent: 92
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
+      draw: Round Robin(9)
+      score: AB 6 - NL 5
+ - name: Koe, Jamie
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
+      draw: Round Robin(4)
+      score: TR 4 - AB 6
+ - name: Kofoed, Lonnie
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 50
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 50
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
+      draw: Round Robin(9)
+      score: AB 7 - TR 1
+ - name: Korte, Bruce
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Fourth
+        percent: 80
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
+      draw: Round Robin(10)
+      score: SK 6 - AB 7
+ - name: Korte, Roger
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 86
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
+      draw: Round Robin(10)
+      score: SK 6 - AB 7
+ - name: Lacey, Jeff
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 2
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
+      draw: Round Robin(12)
+      score: AB 6 - NB 4
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
+      draw: Round Robin(1)
+      score: NB 3 - AB 8
+ - name: Lafleur, Andre
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 68
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Second
+        percent: 68
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
+      draw: Round Robin(9)
+      score: AB 8 - QC 2
+ - name: Laing, Brent
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 90
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Second
+        percent: 90
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
+      draw: Round Robin(10)
+      score: ON 4 - AB 7
+ - name: Lang, Rick
+   totals:
+    - event: Brier
+      player1:
+        percent: 77
+        wins: 1
+        losses: 1
+      player2:
+        percent: 71
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
+      draw: Round Robin(8)
+      score: NO 6 - AB 8
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 74
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1995
+      draw: Round Robin(9)
+      score: AB 6 - NO 7
+ - name: Lappalainen, Art
+   totals:
+    - event: Brier
+      player1:
+        percent: 77
+        wins: 1
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Lead
+        percent: 74
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
+      draw: Round Robin(8)
+      score: NO 6 - AB 8
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1995
+      draw: Round Robin(9)
+      score: AB 6 - NO 7
+ - name: LeCocq, Marc
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Second
+        percent: 74
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
+      draw: Round Robin(17)
+      score: NB 5 - AB 6
+ - name: LeCocq, Vance
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
+      draw: Round Robin(11)
+      score: NS 3 - AB 6
+ - name: Lemery, Dan
+   totals:
+    - event: Brier
+      player1:
+        percent: 79
+        wins: 4
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 4
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
+      draw: Round Robin(9)
+      score: AB 8 - QC 2
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
+      draw: Round Robin(16)
+      score: AB 7 - QC 2
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 79
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
+      draw: Semi-Final(21)
+      score: QC 8 - AB 9
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 72
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 65
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
+      draw: Round Robin(1)
+      score: QC 4 - AB 5
+ - name: Lohnes, Bruce
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 3
+      player2:
+        percent: 82
+        wins: 3
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
+      draw: Round Robin(11)
+      score: NS 3 - AB 6
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Fourth
+        percent: 89
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1995
+      draw: Round Robin(6)
+      score: NS 11 - AB 6
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2006
+      draw: Round Robin(16)
+      score: NS 7 - AB 1
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 75
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2006
       draw: Page 3-4(18)
       score: NS 6 - AB 5
  - name: MacDonald, Peter
-   totals:               
-    - event: Brier       
-      player1:           
-        percent: 86      
-        wins: 1          
-        losses: 0        
-      player2:           
-        percent: 78      
-        wins: 0          
-        losses: 1        
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'PE'      
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Fourth
-        percent: 78     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1996          
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(2)
-      score: PE 5 - AB 9  
+      score: PE 5 - AB 9
  - name: MacDonald, Rod
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 88    
-        wins: 2        
-        losses: 0      
-      player2:         
-        percent: 87    
-        wins: 0        
-        losses: 2      
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 2
+        losses: 0
+      player2:
+        percent: 87
+        wins: 0
+        losses: 2
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'PE'    
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Lead
-        percent: 90   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1996          
+        percent: 90
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(2)
-      score: PE 5 - AB 9  
-    - player1:        
-        team: 'AB'    
+      score: PE 5 - AB 9
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 89   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'PE'      
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Fourth
-        percent: 83     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 2006          
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
       draw: Round Robin(2)
-      score: AB 9 - PE 3  
+      score: AB 9 - PE 3
  - name: MacFadyen, Bill
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 88     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 76     
-        wins: 0         
-        losses: 1       
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'PE'     
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Third
-        percent: 76    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1992          
+        percent: 76
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
       draw: Round Robin(2)
-      score: AB 5 - PE 2  
+      score: AB 5 - PE 2
  - name: MacFadyen, Ted
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 88    
-        wins: 1        
-        losses: 0      
-      player2:         
-        percent: 75    
-        wins: 0        
-        losses: 1      
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'PE'      
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Fourth
-        percent: 75     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1992          
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
       draw: Round Robin(2)
-      score: AB 5 - PE 2  
+      score: AB 5 - PE 2
  - name: MacInnes, David
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 80     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 69     
-        wins: 0         
-        losses: 1       
+   totals:
+    - event: Brier
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 69
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 80   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NO'      
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Fourth
-        percent: 69     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1996           
+        percent: 69
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(13)
-      score: NO 3 - AB 8   
+      score: NO 3 - AB 8
  - name: Macklin, Drew
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 89   
-        wins: 0       
-        losses: 1     
-      player2:        
-        percent: 72   
-        wins: 1       
-        losses: 0     
+   totals:
+    - event: Brier
+      player1:
+        percent: 89
+        wins: 0
+        losses: 1
+      player2:
+        percent: 72
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'ON'      
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
         position: Second
-        percent: 72     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 2000          
+        percent: 72
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2000
       draw: Round Robin(2)
-      score: AB 3 - ON 8  
+      score: AB 3 - ON 8
  - name: MacLean, Rob
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 86  
-        wins: 0      
-        losses: 1    
-      player2:       
-        percent: 85  
-        wins: 1      
-        losses: 0    
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 86   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'QC'     
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
         position: Third
-        percent: 85    
-        win: 1         
-        loss: 0        
-      event: Brier         
-      year: 1991           
+        percent: 85
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1991
       draw: Round Robin(10)
-      score: QC 5 - AB 3   
+      score: QC 5 - AB 3
  - name: MacLeod, Kris
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 82   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 75   
-        wins: 0       
-        losses: 1     
+   totals:
+    - event: Brier
+      player1:
+        percent: 82
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 82   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NS'    
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
         position: Lead
-        percent: 75   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1997          
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Round Robin(7)
-      score: NS 3 - AB 10 
+      score: NS 3 - AB 10
  - name: MacPherson, Brad
-   totals:               
-    - event: Brier       
-      player1:           
-        percent: 93      
-        wins: 1          
-        losses: 0        
-      player2:           
-        percent: 73      
-        wins: 0          
-        losses: 1        
+   totals:
+    - event: Brier
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 73
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 93   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NB'    
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Lead
-        percent: 73   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 1995           
+        percent: 73
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
       draw: Round Robin(10)
-      score: NB 4 - AB 11  
+      score: NB 4 - AB 11
  - name: MacPherson, Bryan
-   totals:                
-    - event: Brier        
-      player1:            
-        percent: 93       
-        wins: 1           
-        losses: 0         
-      player2:            
-        percent: 75       
-        wins: 0           
-        losses: 1         
+   totals:
+    - event: Brier
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 93   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Fourth
-        percent: 75     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1995           
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
       draw: Round Robin(10)
-      score: NB 4 - AB 11  
+      score: NB 4 - AB 11
  - name: Mayne, Dave
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 92 
-        wins: 1     
-        losses: 0   
-      player2:      
-        percent: 81 
-        wins: 0     
-        losses: 1   
+   totals:
+    - event: Brier
+      player1:
+        percent: 92
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 92   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NL'    
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
         position: Lead
-        percent: 81   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1991          
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
       draw: Round Robin(9)
-      score: AB 6 - NL 5  
+      score: AB 6 - NL 5
  - name: McAulay, Greg
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 94   
-        wins: 0       
-        losses: 1     
-      player2:        
-        percent: 83   
-        wins: 1       
-        losses: 0     
+   totals:
+    - event: Brier
+      player1:
+        percent: 94
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 94   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'BC'      
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
         position: Fourth
-        percent: 83     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 2000          
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2000
       draw: Round Robin(6)
-      score: BC 8 - AB 3  
+      score: BC 8 - AB 3
  - name: McCusker, Brian
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 90     
-        wins: 1         
-        losses: 1       
-      player2:          
-        percent: 77     
-        wins: 1         
-        losses: 1       
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 1
+        losses: 1
+      player2:
+        percent: 77
+        wins: 1
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'SK'     
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
         position: Third
-        percent: 84    
-        win: 1         
-        loss: 0        
-      event: Brier        
-      year: 1991          
+        percent: 84
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1991
       draw: Round Robin(7)
-      score: AB 4 - SK 10 
-    - player1:        
-        team: 'AB'    
+      score: AB 4 - SK 10
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 92   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'SK'     
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
         position: Third
-        percent: 71    
-        win: 0         
-        loss: 1        
-      event: Brier      
-      year: 1991        
-      draw: Playoff(14) 
+        percent: 71
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
+      draw: Final(14)
       score: SK 4 - AB 8
  - name: McGowan, Nolin
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 88    
-        wins: 1        
-        losses: 0      
-      player2:         
-        percent: 86    
-        wins: 0        
-        losses: 1      
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'TR'     
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
         position: Third
-        percent: 86    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1997          
+        percent: 86
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Round Robin(9)
-      score: AB 7 - TR 1  
+      score: AB 7 - TR 1
  - name: McHargue, Ken
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 92   
-        wins: 1       
-        losses: 1     
-      player2:        
-        percent: 91   
-        wins: 1       
-        losses: 1     
+   totals:
+    - event: Brier
+      player1:
+        percent: 92
+        wins: 1
+        losses: 1
+      player2:
+        percent: 91
+        wins: 1
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 95   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'BC'    
+        percent: 95
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
         position: Lead
-        percent: 92   
-        win: 1        
-        loss: 0       
-      event: Brier        
-      year: 1991          
+        percent: 92
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1991
       draw: Round Robin(2)
-      score: AB 1 - BC 7  
-    - player1:        
-        team: 'AB'    
+      score: AB 1 - BC 7
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 89   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'BC'    
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Lead
-        percent: 90   
-        win: 0        
-        loss: 1       
-      event: Brier      
-      year: 1991        
-      draw: Playoff(13) 
+        percent: 90
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
+      draw: Semi-Final(13)
       score: AB 4 - BC 3
  - name: McKee, Darrell
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 90    
-        wins: 1        
-        losses: 0      
-      player2:         
-        percent: 71    
-        wins: 0        
-        losses: 1      
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 71
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 90   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'SK'     
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
         position: Third
-        percent: 71    
-        win: 0         
-        loss: 1        
-      event: Brier         
-      year: 2000           
+        percent: 71
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
       draw: Round Robin(10)
-      score: SK 6 - AB 7   
+      score: SK 6 - AB 7
  - name: McPhee, Barry
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 79   
-        wins: 2       
-        losses: 0     
-      player2:        
-        percent: 69   
-        wins: 0       
-        losses: 2     
+   totals:
+    - event: Brier
+      player1:
+        percent: 79
+        wins: 2
+        losses: 0
+      player2:
+        percent: 69
+        wins: 0
+        losses: 2
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 82   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'BC'      
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Fourth
-        percent: 72     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1996          
+        percent: 72
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(6)
-      score: BC 5 - AB 9  
-    - player1:        
-        team: 'AB'    
+      score: BC 5 - AB 9
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 76   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'BC'      
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Fourth
-        percent: 66     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1997          
+        percent: 66
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Round Robin(2)
-      score: AB 9 - BC 7  
+      score: AB 9 - BC 7
  - name: Mead, Jonathan
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 89    
-        wins: 0        
-        losses: 2      
-      player2:         
-        percent: 86    
-        wins: 2        
-        losses: 0      
+   totals:
+    - event: Brier
+      player1:
+        percent: 89
+        wins: 0
+        losses: 2
+      player2:
+        percent: 86
+        wins: 2
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'MB'     
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Third
-        percent: 83    
-        win: 1         
-        loss: 0        
-      event: Brier         
-      year: 2000           
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2000
       draw: Round Robin(11)
-      score: AB 4 - MB 10  
-    - player1:        
-        team: 'AB'    
+      score: AB 4 - MB 10
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 90   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'MB'     
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Third
-        percent: 89    
-        win: 1         
-        loss: 0        
-      event: Brier        
-      year: 2006          
+        percent: 89
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2006
       draw: Round Robin(7)
-      score: AB 6 - MB 7  
+      score: AB 6 - MB 7
  - name: Meakin, Rob
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 69 
-        wins: 1     
-        losses: 1   
-      player2:      
-        percent: 81 
-        wins: 1     
-        losses: 1   
+   totals:
+    - event: Brier
+      player1:
+        percent: 69
+        wins: 1
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 72   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'MB'      
+        percent: 72
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
         position: Second
-        percent: 89     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1995           
+        percent: 89
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
       draw: Round Robin(12)
-      score: AB 7 - MB 5   
-    - player1:        
-        team: 'AB'    
+      score: AB 7 - MB 5
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 64   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent: 64
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Second
-        percent: 70     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 1995          
+        percent: 70
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1995
       draw: Semi-Final(21)
-      score: MB 9 - AB 3  
+      score: MB 9 - AB 3
  - name: Menard, Jean-Michel
-   totals:                  
-    - event: Brier          
-      player1:              
-        percent: 94         
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent: 69         
-        wins: 1             
-        losses: 0           
+   totals:
+    - event: Brier
+      player1:
+        percent: 94
+        wins: 0
+        losses: 1
+      player2:
+        percent: 69
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 94   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'QC'      
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
         position: Fourth
-        percent: 69     
-        win: 1          
-        loss: 0         
-      event: Brier         
-      year: 2006           
+        percent: 69
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2006
       draw: Round Robin(14)
-      score: QC 9 - AB 5   
+      score: QC 9 - AB 5
  - name: Middaugh, Wayne
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 92     
-        wins: 1         
-        losses: 2       
-      player2:          
-        percent: 85     
-        wins: 2         
-        losses: 1       
+   totals:
+    - event: Brier
+      player1:
+        percent: 92
+        wins: 1
+        losses: 2
+      player2:
+        percent: 85
+        wins: 2
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'ON'      
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Second
-        percent: 75     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1991          
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
       draw: Round Robin(4)
-      score: AB 6 - ON 4  
-    - player1:        
-        team: 'AB'    
+      score: AB 6 - ON 4
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'ON'      
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
         position: Second
-        percent: 96     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 1992          
+        percent: 96
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1992
       draw: Round Robin(1)
-      score: ON 3 - AB 1  
-    - player1:        
-        team: 'AB'    
+      score: ON 3 - AB 1
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 99   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'ON'      
+        percent: 99
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
         position: Second
-        percent: 87     
-        win: 1          
-        loss: 0         
-      event: Brier      
-      year: 1992        
-      draw: Playoff(18) 
+        percent: 87
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1992
+      draw: Semi-Final(18)
       score: ON 7 - AB 4
  - name: Mihalicz, Dwayne
-   totals:               
-    - event: Brier       
-      player1:           
-        percent: 86      
-        wins: 1          
-        losses: 0        
-      player2:           
-        percent: 93      
-        wins: 0          
-        losses: 1        
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 93
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'SK'      
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
         position: Second
-        percent: 93     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1996          
+        percent: 93
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(4)
-      score: AB 7 - SK 4  
+      score: AB 7 - SK 4
  - name: Miki, Bryan
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 94 
-        wins: 0     
-        losses: 1   
-      player2:      
-        percent: 81 
-        wins: 1     
-        losses: 0   
+   totals:
+    - event: Brier
+      player1:
+        percent: 94
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 94   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'BC'      
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
         position: Second
-        percent: 81     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 2000          
+        percent: 81
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2000
       draw: Round Robin(6)
-      score: BC 8 - AB 3  
+      score: BC 8 - AB 3
  - name: Milward, Ross
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 91   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 81   
-        wins: 0       
-        losses: 1     
+   totals:
+    - event: Brier
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 91   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'TR'    
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
         position: Lead
-        percent: 81   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 2000           
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
       draw: Round Robin(12)
-      score: AB 8 - TR 3   
+      score: AB 8 - TR 3
  - name: Mimeault, Bernard
-   totals:                
-    - event: Brier        
-      player1:            
-        percent: 85       
-        wins: 1           
-        losses: 0         
-      player2:            
-        percent: 81       
-        wins: 0           
-        losses: 1         
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 85   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'QC'      
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1995          
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
       draw: Round Robin(8)
-      score: AB 5 - QC 4  
+      score: AB 5 - QC 4
  - name: Mimeault, Greg
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 85    
-        wins: 1        
-        losses: 0      
-      player2:         
-        percent: 83    
-        wins: 0        
-        losses: 1      
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 85   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'QC'     
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Third
-        percent: 83    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1995          
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
       draw: Round Robin(8)
-      score: AB 5 - QC 4  
+      score: AB 5 - QC 4
  - name: Mitchell, Gary
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 81    
-        wins: 1        
-        losses: 0      
-      player2:         
-        percent: 66    
-        wins: 0        
-        losses: 1      
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Fourth
-        percent: 66     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1991          
+        percent: 66
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
       draw: Round Robin(5)
-      score: NB 3 - AB 7  
+      score: NB 3 - AB 7
  - name: Monkman, Greg
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 93   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 81   
-        wins: 0       
-        losses: 1     
+   totals:
+    - event: Brier
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 93   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'BC'      
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1992          
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
       draw: Round Robin(7)
-      score: BC 4 - AB 6  
+      score: BC 4 - AB 6
  - name: Montgomery, Rod
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 86     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 74     
-        wins: 0         
-        losses: 1       
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'SK'      
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
         position: Fourth
-        percent: 74     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1996          
+        percent: 74
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(4)
-      score: AB 7 - SK 4  
+      score: AB 7 - SK 4
  - name: Moss, Steve
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 98 
-        wins: 1     
-        losses: 0   
-      player2:      
-        percent: 76 
-        wins: 0     
-        losses: 1   
+   totals:
+    - event: Brier
+      player1:
+        percent: 98
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 98   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'TR'      
+        percent: 98
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
         position: Fourth
-        percent: 76     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1992           
+        percent: 76
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
       draw: Round Robin(15)
-      score: TR 3 - AB 4   
+      score: TR 3 - AB 4
  - name: Nelson, Randy
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 84   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 66   
-        wins: 0       
-        losses: 1     
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 84   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'BC'      
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Second
-        percent: 66     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 2006           
+        percent: 66
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
       draw: Round Robin(12)
-      score: AB 7 - BC 1   
+      score: AB 7 - BC 1
  - name: Neufeld, Chris
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 89    
-        wins: 2        
-        losses: 2      
-      player2:         
-        percent: 86    
-        wins: 2        
-        losses: 2      
+   totals:
+    - event: Brier
+      player1:
+        percent: 89
+        wins: 2
+        losses: 2
+      player2:
+        percent: 86
+        wins: 2
+        losses: 2
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 96   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Second
-        percent: 83     
-        win: 1          
-        loss: 0         
-      event: Brier         
-      year: 1992           
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1992
       draw: Round Robin(16)
-      score: AB 4 - MB 7   
-    - player1:        
-        team: 'AB'    
+      score: AB 4 - MB 7
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 94   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Second
-        percent: 86     
-        win: 1          
-        loss: 0         
-      event: Brier         
-      year: 1997           
+        percent: 86
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1997
       draw: Round Robin(16)
-      score: MB 7 - AB 4   
-    - player1:        
-        team: 'AB'    
+      score: MB 7 - AB 4
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 83   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'MB'      
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
         position: Second
-        percent: 86     
-        win: 0          
-        loss: 1         
-      event: Brier      
-      year: 1997        
+        percent: 86
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Page 1-2(19)
       score: AB 6 - MB 5
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'MB'      
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
         position: Second
-        percent: 88     
-        win: 0          
-        loss: 1         
-      event: Brier       
-      year: 1997         
-      draw: Final(21)    
+        percent: 88
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
+      draw: Final(21)
       score: MB 8 - AB 10
  - name: Nolan, Jason
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 91  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 67  
-        wins: 0      
-        losses: 1    
+   totals:
+    - event: Brier
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 91   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'TR'      
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
         position: Second
-        percent: 67     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 2000           
+        percent: 67
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
       draw: Round Robin(12)
-      score: AB 8 - TR 3   
+      score: AB 8 - TR 3
  - name: Novakowski, Bob
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 86     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 80     
-        wins: 0         
-        losses: 1       
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'SK'      
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
         position: Second
-        percent: 80     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1992           
+        percent: 80
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
       draw: Round Robin(12)
-      score: AB 6 - SK 5   
+      score: AB 6 - SK 5
  - name: Nowlan, Daryell
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 71     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 69     
-        wins: 0         
-        losses: 1       
+   totals:
+    - event: Brier
+      player1:
+        percent: 71
+        wins: 1
+        losses: 0
+      player2:
+        percent: 69
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 71   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Second
-        percent: 69     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1997           
+        percent: 69
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Round Robin(12)
-      score: AB 6 - NB 4   
+      score: AB 6 - NB 4
  - name: Odian, Scott
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 86  
-        wins: 0      
-        losses: 1    
-      player2:       
-        percent: 79  
-        wins: 1      
-        losses: 0    
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 86   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'TR'    
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'TR'
         position: Lead
-        percent: 79   
-        win: 1        
-        loss: 0       
-      event: Brier        
-      year: 1995          
+        percent: 79
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1995
       draw: Round Robin(2)
-      score: TR 7 - AB 5  
+      score: TR 7 - AB 5
  - name: Odishaw, Grant
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 84    
-        wins: 3        
-        losses: 0      
-      player2:         
-        percent: 87    
-        wins: 0        
-        losses: 3      
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 3
+        losses: 0
+      player2:
+        percent: 87
+        wins: 0
+        losses: 3
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NB'     
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Third
-        percent: 88    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1991          
+        percent: 88
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
       draw: Round Robin(5)
-      score: NB 3 - AB 7  
-    - player1:        
-        team: 'AB'    
+      score: NB 3 - AB 7
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NB'     
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Third
-        percent: 76    
-        win: 0         
-        loss: 1        
-      event: Brier         
-      year: 1996           
+        percent: 76
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(17)
-      score: NB 5 - AB 6   
-    - player1:        
-        team: 'AB'    
+      score: NB 5 - AB 6
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NB'    
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Lead
-        percent: 96   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 2000          
+        percent: 96
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
       draw: Round Robin(1)
-      score: NB 5 - AB 8  
+      score: NB 5 - AB 8
  - name: O'Driscoll, Frank
-   totals:                
-    - event: Brier        
-      player1:            
-        percent: 81       
-        wins: 1           
-        losses: 0         
-      player2:            
-        percent: 69       
-        wins: 0           
-        losses: 1         
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 69
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NL'      
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
         position: Fourth
-        percent: 69     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1996          
+        percent: 69
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(9)
-      score: AB 4 - NL 1  
+      score: AB 4 - NL 1
  - name: Ormbsy, Dan
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 78 
-        wins: 0     
-        losses: 1   
-      player2:      
-        percent: 84 
-        wins: 1     
-        losses: 0   
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 78   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'SK'    
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
         position: Lead
-        percent: 84   
-        win: 1        
-        loss: 0       
-      event: Brier         
-      year: 1995           
+        percent: 84
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1995
       draw: Round Robin(13)
-      score: SK 4 - AB 3   
+      score: SK 4 - AB 3
  - name: O'Rourke, Mark
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 87    
-        wins: 3        
-        losses: 0      
-      player2:         
-        percent: 83    
-        wins: 0        
-        losses: 3      
+   totals:
+    - event: Brier
+      player1:
+        percent: 87
+        wins: 3
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 3
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 97   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'PE'      
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Second
-        percent: 86     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1991          
+        percent: 86
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
       draw: Round Robin(6)
-      score: PE 4 - AB 6  
-    - player1:        
-        team: 'AB'    
+      score: PE 4 - AB 6
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 76   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'PE'      
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Second
-        percent: 90     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1995          
+        percent: 90
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
       draw: Round Robin(5)
-      score: PE 4 - AB 8  
-    - player1:        
-        team: 'AB'    
+      score: PE 4 - AB 8
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'PE'      
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Second
-        percent: 71     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1997          
+        percent: 71
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Round Robin(5)
-      score: PE 5 - AB 10 
+      score: PE 5 - AB 10
  - name: Palmer, Curt
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 86  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 85  
-        wins: 0      
-        losses: 1    
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NS'     
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
         position: Third
-        percent: 85    
-        win: 0         
-        loss: 1        
-      event: Brier         
-      year: 1996           
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(10)
-      score: NS 5 - AB 6   
+      score: NS 5 - AB 6
  - name: Patriquin, Chuck
-   totals:               
-    - event: Brier       
-      player1:           
-        percent: 83      
-        wins: 0          
-        losses: 1        
-      player2:           
-        percent: 75      
-        wins: 1          
-        losses: 0        
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 83   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'NS'      
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Second
-        percent: 75     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 1995          
+        percent: 75
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1995
       draw: Round Robin(6)
-      score: NS 11 - AB 6 
+      score: NS 11 - AB 6
  - name: Peddigrew, Ken
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 82    
-        wins: 1        
-        losses: 0      
-      player2:         
-        percent: 77    
-        wins: 0        
-        losses: 1      
+   totals:
+    - event: Brier
+      player1:
+        percent: 82
+        wins: 1
+        losses: 0
+      player2:
+        percent: 77
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 82   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NL'    
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
         position: Lead
-        percent: 77   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1995          
+        percent: 77
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
       draw: Round Robin(4)
-      score: AB 11 - NL 4 
+      score: AB 11 - NL 4
  - name: Perozak, Brian
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 93    
-        wins: 1        
-        losses: 0      
-      player2:         
-        percent: 83    
-        wins: 0        
-        losses: 1      
+   totals:
+    - event: Brier
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 93   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NO'      
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Second
-        percent: 83     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1992          
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
       draw: Round Robin(5)
-      score: AB 7 - NO 4  
+      score: AB 7 - NO 4
  - name: Perron, Rick
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 84  
-        wins: 3      
-        losses: 0    
-      player2:       
-        percent: 85  
-        wins: 0      
-        losses: 3    
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 3
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 3
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Second
-        percent: 83     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1991          
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
       draw: Round Robin(5)
-      score: NB 3 - AB 7  
-    - player1:        
-        team: 'AB'    
+      score: NB 3 - AB 7
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NB'    
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Lead
-        percent: 79   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 1996           
+        percent: 79
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(17)
-      score: NB 5 - AB 6   
-    - player1:        
-        team: 'AB'    
+      score: NB 5 - AB 6
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Second
-        percent: 91     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 2000          
+        percent: 91
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
       draw: Round Robin(1)
-      score: NB 5 - AB 8  
+      score: NB 5 - AB 8
  - name: Perroud, Pat
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 78  
-        wins: 3      
-        losses: 0    
-      player2:       
-        percent: 80  
-        wins: 0      
-        losses: 3    
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 3
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 3
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 79   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'ON'      
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Second
-        percent: 75     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1995           
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
       draw: Round Robin(16)
-      score: AB 5 - ON 3   
-    - player1:        
-        team: 'AB'    
+      score: AB 5 - ON 3
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 78   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'ON'      
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Second
-        percent: 76     
-        win: 0          
-        loss: 1         
-      event: Brier      
-      year: 1995        
+        percent: 76
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
       draw: Page 3-4(19)
       score: AB 8 - ON 4
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 78   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'ON'      
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Second
-        percent: 86     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1997           
+        percent: 86
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Round Robin(11)
-      score: ON 3 - AB 6   
+      score: ON 3 - AB 6
  - name: Peters, Vic
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 89 
-        wins: 2     
-        losses: 2   
-      player2:      
-        percent: 77 
-        wins: 2     
-        losses: 2   
+   totals:
+    - event: Brier
+      player1:
+        percent: 89
+        wins: 2
+        losses: 2
+      player2:
+        percent: 77
+        wins: 2
+        losses: 2
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 96   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Fourth
-        percent: 82     
-        win: 1          
-        loss: 0         
-      event: Brier         
-      year: 1992           
+        percent: 82
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1992
       draw: Round Robin(16)
-      score: AB 4 - MB 7   
-    - player1:        
-        team: 'AB'    
+      score: AB 4 - MB 7
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 94   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Fourth
-        percent: 74     
-        win: 1          
-        loss: 0         
-      event: Brier         
-      year: 1997           
+        percent: 74
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1997
       draw: Round Robin(16)
-      score: MB 7 - AB 4   
-    - player1:        
-        team: 'AB'    
+      score: MB 7 - AB 4
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 83   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'MB'      
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
         position: Fourth
-        percent: 81     
-        win: 0          
-        loss: 1         
-      event: Brier      
-      year: 1997        
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Page 1-2(19)
       score: AB 6 - MB 5
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'MB'      
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
         position: Fourth
-        percent: 71     
-        win: 0          
-        loss: 1         
-      event: Brier       
-      year: 1997         
-      draw: Final(21)    
+        percent: 71
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
+      draw: Final(21)
       score: MB 8 - AB 10
  - name: Phillips, Tim
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 74   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 75   
-        wins: 0       
-        losses: 1     
+   totals:
+    - event: Brier
+      player1:
+        percent: 74
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 74   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NO'      
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Fourth
-        percent: 75     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 2000           
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
       draw: Round Robin(15)
-      score: AB 8 - NO 5   
+      score: AB 8 - NO 5
  - name: Pierce, Brent
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 94   
-        wins: 0       
-        losses: 1     
-      player2:        
-        percent: 94   
-        wins: 1       
-        losses: 0     
+   totals:
+    - event: Brier
+      player1:
+        percent: 94
+        wins: 0
+        losses: 1
+      player2:
+        percent: 94
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 94   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'BC'     
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
         position: Third
-        percent: 94    
-        win: 1         
-        loss: 0        
-      event: Brier        
-      year: 2000          
+        percent: 94
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2000
       draw: Round Robin(6)
-      score: BC 8 - AB 3  
+      score: BC 8 - AB 3
  - name: Pineau, Larry
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 93   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 71   
-        wins: 0       
-        losses: 1     
+   totals:
+    - event: Brier
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 71
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 93   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NO'     
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Third
-        percent: 71    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1992          
+        percent: 71
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
       draw: Round Robin(5)
-      score: AB 7 - NO 4  
+      score: AB 7 - NO 4
  - name: Postma, John
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 86  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 71  
-        wins: 0      
-        losses: 1    
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'PE'      
-        position: Second
-        percent: 71     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1996          
-      draw: Round Robin(2)
-      score: PE 5 - AB 9  
- - name: Power, Humphrey
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 88     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 88     
-        wins: 0         
-        losses: 1       
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'TR'      
-        position: Second
-        percent: 88     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1997          
-      draw: Round Robin(9)
-      score: AB 7 - TR 1  
- - name: Power, Joe
-   totals:         
-    - event: Brier 
-      player1:     
-        percent: 82
-        wins: 1    
-        losses: 0  
-      player2:     
-        percent: 67
-        wins: 0    
-        losses: 1  
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 82   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NL'     
-        position: Third
-        percent: 67    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1995          
-      draw: Round Robin(4)
-      score: AB 11 - NL 4 
- - name: Pritchett, Bob
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 91    
-        wins: 0        
-        losses: 1      
-      player2:         
-        percent: 75    
-        wins: 1        
-        losses: 0      
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 91   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'PE'    
-        position: Lead
-        percent: 75   
-        win: 1        
-        loss: 0       
-      event: Brier         
-      year: 2000           
-      draw: Round Robin(17)
-      score: PE 8 - AB 7   
- - name: Pyper, Dwayne
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 89   
-        wins: 0       
-        losses: 1     
-      player2:        
-        percent: 88   
-        wins: 1       
-        losses: 0     
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'ON'    
-        position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      event: Brier        
-      year: 2000          
-      draw: Round Robin(2)
-      score: AB 3 - ON 8  
- - name: Rafuse, Brian
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 86   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 78   
-        wins: 0       
-        losses: 1     
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NS'      
-        position: Fourth
-        percent: 78     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1996           
-      draw: Round Robin(10)
-      score: NS 5 - AB 6   
- - name: Ravndal, Clayton
-   totals:               
-    - event: Brier       
-      player1:           
-        percent: 98      
-        wins: 1          
-        losses: 0        
-      player2:           
-        percent: 86      
-        wins: 0          
-        losses: 1        
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 98   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'TR'    
-        position: Lead
-        percent: 86   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 1992           
-      draw: Round Robin(15)
-      score: TR 3 - AB 4   
- - name: Reddick, Don
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 86  
-        wins: 0      
-        losses: 1    
-      player2:       
-        percent: 87  
-        wins: 1      
-        losses: 0    
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 86   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'QC'      
-        position: Second
-        percent: 87     
-        win: 1          
-        loss: 0         
-      event: Brier         
-      year: 1991           
-      draw: Round Robin(10)
-      score: QC 5 - AB 3   
- - name: Richard, Gerry
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 63    
-        wins: 1        
-        losses: 0      
-      player2:         
-        percent: 92    
-        wins: 0        
-        losses: 1      
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 63   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'BC'    
-        position: Lead
-        percent: 92   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 1995           
-      draw: Round Robin(17)
-      score: BC 3 - AB 9   
- - name: Roberge, Francois
-   totals:                
-    - event: Brier        
-      player1:            
-        percent: 95       
-        wins: 1           
-        losses: 1         
-      player2:            
-        percent: 80       
-        wins: 1           
-        losses: 1         
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 98   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'QC'      
-        position: Fourth
-        percent: 67     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 2000          
-      draw: Round Robin(7)
-      score: AB 10 - QC 3 
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 94   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'QC'     
-        position: Third
-        percent: 89    
-        win: 1         
-        loss: 0        
-      event: Brier         
-      year: 2006           
-      draw: Round Robin(14)
-      score: QC 9 - AB 5   
- - name: Robertson, Richard
-   totals:                 
-    - event: Brier         
-      player1:             
-        percent: 74        
-        wins: 1            
-        losses: 0          
-      player2:             
-        percent: 68        
-        wins: 0            
-        losses: 1          
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 74   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'TR'      
-        position: Fourth
-        percent: 68     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1996          
-      draw: Round Robin(8)
-      score: AB 11 - TR 6 
- - name: Robinson, Andrew
-   totals:               
-    - event: Brier       
-      player1:           
-        percent: 91      
-        wins: 0          
-        losses: 1        
-      player2:           
-        percent: 76      
-        wins: 1          
-        losses: 0        
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 91   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'PE'      
-        position: Fourth
-        percent: 76     
-        win: 1          
-        loss: 0         
-      event: Brier         
-      year: 2000           
-      draw: Round Robin(17)
-      score: PE 8 - AB 7   
- - name: Robinson, Bill
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 82    
-        wins: 1        
-        losses: 0      
-      player2:         
-        percent: 67    
-        wins: 0        
-        losses: 1      
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 82   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NS'     
-        position: Third
-        percent: 67    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1997          
-      draw: Round Robin(7)
-      score: NS 3 - AB 10 
- - name: Rowsell, Rick
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 83   
-        wins: 2       
-        losses: 0     
-      player2:        
-        percent: 78   
-        wins: 0       
-        losses: 2     
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NL'     
-        position: Third
-        percent: 78    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1996          
-      draw: Round Robin(9)
-      score: AB 4 - NL 1  
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 84   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NL'      
-        position: Fourth
-        percent: 79     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 2000           
-      draw: Round Robin(14)
-      score: NL 3 - AB 7   
- - name: Rudd, Don 
-   totals:         
-    - event: Brier 
-      player1:     
-        percent: 96
-        wins: 0    
-        losses: 1  
-      player2:     
-        percent: 69
-        wins: 1    
-        losses: 0  
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 96   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'MB'    
-        position: Lead
-        percent: 69   
-        win: 1        
-        loss: 0       
-      event: Brier         
-      year: 1992           
-      draw: Round Robin(16)
-      score: AB 4 - MB 7   
- - name: Rumfeldt, Robert
-   totals:               
-    - event: Brier       
-      player1:           
-        percent: 79      
-        wins: 1          
-        losses: 0        
-      player2:           
-        percent: 91      
-        wins: 0          
-        losses: 1        
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 79   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'ON'      
-        position: Second
-        percent: 91     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1996           
-      draw: Round Robin(12)
-      score: AB 7 - ON 3   
- - name: Ryan, Jeff
-   totals:         
-    - event: Brier 
-      player1:     
-        percent: 69
-        wins: 1    
-        losses: 1  
-      player2:     
-        percent: 74
-        wins: 1    
-        losses: 1  
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 72   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'MB'     
-        position: Third
-        percent: 76    
-        win: 0         
-        loss: 1        
-      event: Brier         
-      year: 1995           
-      draw: Round Robin(12)
-      score: AB 7 - MB 5   
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 64   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'MB'     
-        position: Third
-        percent: 70    
-        win: 1         
-        loss: 0        
-      event: Brier        
-      year: 1995          
-      draw: Semi-Final(21)
-      score: MB 9 - AB 3  
- - name: Ryan, Pat 
-   totals:         
-    - event: Brier 
-      player1:     
-        percent: 63
-        wins: 1    
-        losses: 0  
-      player2:     
-        percent: 59
-        wins: 0    
-        losses: 1  
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 63   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'BC'     
-        position: Third
-        percent: 59    
-        win: 0         
-        loss: 1        
-      event: Brier         
-      year: 1995           
-      draw: Round Robin(17)
-      score: BC 3 - AB 9   
- - name: Sauve, Dan
-   totals:         
-    - event: Brier 
-      player1:     
-        percent: 74
-        wins: 1    
-        losses: 0  
-      player2:     
+   totals:
+    - event: Brier
+      player1:
         percent: 86
-        wins: 0    
-        losses: 1  
+        wins: 1
+        losses: 0
+      player2:
+        percent: 71
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 74   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NO'    
-        position: Lead
-        percent: 86   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 2000           
-      draw: Round Robin(15)
-      score: AB 8 - NO 5   
- - name: Sauve, Roger
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 74  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 79  
-        wins: 0      
-        losses: 1    
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 74   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NO'     
-        position: Third
-        percent: 79    
-        win: 0         
-        loss: 1        
-      event: Brier         
-      year: 2000           
-      draw: Round Robin(15)
-      score: AB 8 - NO 5   
- - name: Savill, Craig
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 86   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 93   
-        wins: 0       
-        losses: 1     
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'ON'    
-        position: Lead
-        percent: 93   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 2006           
-      draw: Round Robin(10)
-      score: ON 4 - AB 7   
- - name: Scales, Brian
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 91   
-        wins: 0       
-        losses: 1     
-      player2:        
-        percent: 69   
-        wins: 1       
-        losses: 0     
-   games:
-    - player1:        
-        team: 'AB'    
-        position: Lead
-        percent: 91   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'PE'      
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Second
-        percent: 69     
-        win: 1          
-        loss: 0         
-      event: Brier         
-      year: 2000           
+        percent: 71
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
+      draw: Round Robin(2)
+      score: PE 5 - AB 9
+ - name: Power, Humphrey
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
+      draw: Round Robin(9)
+      score: AB 7 - TR 1
+ - name: Power, Joseph Jr.
+   totals:
+    - event: Brier
+      player1:
+        percent: 82
+        wins: 1
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 67
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
+      draw: Round Robin(4)
+      score: AB 11 - NL 4
+ - name: Pritchett, Bob
+   totals:
+    - event: Brier
+      player1:
+        percent: 91
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 75
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2000
       draw: Round Robin(17)
-      score: PE 8 - AB 7   
- - name: Schleppe, Dave
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 76    
-        wins: 1        
-        losses: 0      
-      player2:         
-        percent: 84    
-        wins: 0        
-        losses: 1      
+      score: PE 8 - AB 7
+ - name: Pyper, Dwayne
+   totals:
+    - event: Brier
+      player1:
+        percent: 89
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 76   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'BC'     
-        position: Third
-        percent: 84    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1997          
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2000
       draw: Round Robin(2)
-      score: AB 9 - BC 7  
- - name: Sharp, Jeff
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 71 
-        wins: 1     
-        losses: 0   
-      player2:      
-        percent: 78 
-        wins: 0     
-        losses: 1   
+      score: AB 3 - ON 8
+ - name: Rafuse, Brian
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 71   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'SK'     
-        position: Third
-        percent: 78    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 2006          
-      draw: Round Robin(6)
-      score: SK 5 - AB 9  
- - name: Sharp, Warren
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 86   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 80   
-        wins: 0       
-        losses: 1     
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
+      draw: Round Robin(10)
+      score: NS 5 - AB 6
+ - name: Ravndal, Clayton
+   totals:
+    - event: Brier
+      player1:
+        percent: 98
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'SK'     
+        percent: 98
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
+      draw: Round Robin(15)
+      score: TR 3 - AB 4
+ - name: Reddick, Don
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 87
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Second
+        percent: 87
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1991
+      draw: Round Robin(10)
+      score: QC 5 - AB 3
+ - name: Richard, Gerry
+   totals:
+    - event: Brier
+      player1:
+        percent: 63
+        wins: 1
+        losses: 0
+      player2:
+        percent: 92
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 63
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Lead
+        percent: 92
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
+      draw: Round Robin(17)
+      score: BC 3 - AB 9
+ - name: Roberge, Francois
+   totals:
+    - event: Brier
+      player1:
+        percent: 95
+        wins: 1
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 98
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
+      draw: Round Robin(7)
+      score: AB 10 - QC 3
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
         position: Third
-        percent: 80    
-        win: 0         
-        loss: 1        
-      event: Brier         
-      year: 1992           
+        percent: 89
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2006
+      draw: Round Robin(14)
+      score: QC 9 - AB 5
+ - name: Robertson, Richard
+   totals:
+    - event: Brier
+      player1:
+        percent: 74
+        wins: 1
+        losses: 0
+      player2:
+        percent: 68
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
+      draw: Round Robin(8)
+      score: AB 11 - TR 6
+ - name: Robinson, Andrew
+   totals:
+    - event: Brier
+      player1:
+        percent: 91
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2000
+      draw: Round Robin(17)
+      score: PE 8 - AB 7
+ - name: Robinson, Bill
+   totals:
+    - event: Brier
+      player1:
+        percent: 82
+        wins: 1
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 67
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
+      draw: Round Robin(7)
+      score: NS 3 - AB 10
+ - name: Rowsell, Rick
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 2
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
+      draw: Round Robin(9)
+      score: AB 4 - NL 1
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
+      draw: Round Robin(14)
+      score: NL 3 - AB 7
+ - name: Rudd, Don
+   totals:
+    - event: Brier
+      player1:
+        percent: 96
+        wins: 0
+        losses: 1
+      player2:
+        percent: 69
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 69
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1992
+      draw: Round Robin(16)
+      score: AB 4 - MB 7
+ - name: Rumfeldt, Robert
+   totals:
+    - event: Brier
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 91
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Second
+        percent: 91
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(12)
-      score: AB 6 - SK 5   
- - name: Shypitka, Tom
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 92   
-        wins: 1       
-        losses: 1     
-      player2:        
-        percent: 83   
-        wins: 1       
-        losses: 1     
+      score: AB 7 - ON 3
+ - name: Ryan, Jeff
+   totals:
+    - event: Brier
+      player1:
+        percent: 69
+        wins: 1
+        losses: 1
+      player2:
+        percent: 74
+        wins: 1
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 95   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'BC'      
+        percent: 72
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 76
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
+      draw: Round Robin(12)
+      score: AB 7 - MB 5
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 64
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 70
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1995
+      draw: Semi-Final(21)
+      score: MB 9 - AB 3
+ - name: Ryan, Pat
+   totals:
+    - event: Brier
+      player1:
+        percent: 63
+        wins: 1
+        losses: 0
+      player2:
+        percent: 59
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 63
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 59
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
+      draw: Round Robin(17)
+      score: BC 3 - AB 9
+ - name: Sauve, Dan
+   totals:
+    - event: Brier
+      player1:
+        percent: 74
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
+      draw: Round Robin(15)
+      score: AB 8 - NO 5
+ - name: Sauve, Roger
+   totals:
+    - event: Brier
+      player1:
+        percent: 74
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 79
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
+      draw: Round Robin(15)
+      score: AB 8 - NO 5
+ - name: Savill, Craig
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 93
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
+      draw: Round Robin(10)
+      score: ON 4 - AB 7
+ - name: Scales, Brian
+   totals:
+    - event: Brier
+      player1:
+        percent: 91
+        wins: 0
+        losses: 1
+      player2:
+        percent: 69
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
         position: Second
-        percent: 81     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 1991          
+        percent: 69
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2000
+      draw: Round Robin(17)
+      score: PE 8 - AB 7
+ - name: Schleppe, Dave
+   totals:
+    - event: Brier
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 84
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Round Robin(2)
-      score: AB 1 - BC 7  
-    - player1:        
-        team: 'AB'    
+      score: AB 9 - BC 7
+ - name: Sharp, Jeff
+   totals:
+    - event: Brier
+      player1:
+        percent: 71
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 89   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'BC'      
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
+      draw: Round Robin(6)
+      score: SK 5 - AB 9
+ - name: Sharp, Warren
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Third
+        percent: 80
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
+      draw: Round Robin(12)
+      score: AB 6 - SK 5
+ - name: Shypitka, Tom
+   totals:
+    - event: Brier
+      player1:
+        percent: 92
+        wins: 1
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 95
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
         position: Second
-        percent: 84     
-        win: 0          
-        loss: 1         
-      event: Brier      
-      year: 1991        
-      draw: Playoff(13) 
+        percent: 81
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1991
+      draw: Round Robin(2)
+      score: AB 1 - BC 7
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
+      draw: Semi-Final(13)
       score: AB 4 - BC 3
  - name: Simmons, Pat
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 71  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 70  
-        wins: 0      
-        losses: 1    
+   totals:
+    - event: Brier
+      player1:
+        percent: 71
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 71   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'SK'      
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
         position: Fourth
-        percent: 70     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 2006          
+        percent: 70
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
       draw: Round Robin(6)
-      score: SK 5 - AB 9  
+      score: SK 5 - AB 9
  - name: Skanes, Robert
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 92    
-        wins: 1        
-        losses: 0      
-      player2:         
-        percent: 85    
-        wins: 0        
-        losses: 1      
+   totals:
+    - event: Brier
+      player1:
+        percent: 92
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 92   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NL'      
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
         position: Second
-        percent: 85     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1991          
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
       draw: Round Robin(9)
-      score: AB 6 - NL 5  
+      score: AB 6 - NL 5
  - name: Skillen, Aaron
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 74    
-        wins: 0        
-        losses: 1      
-      player2:         
-        percent: 88    
-        wins: 1        
-        losses: 0      
+   totals:
+    - event: Brier
+      player1:
+        percent: 74
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 74   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'NO'      
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Second
-        percent: 88     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 1995          
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1995
       draw: Round Robin(9)
-      score: AB 6 - NO 7  
+      score: AB 6 - NO 7
  - name: Slauenwhite, David
-   totals:                 
-    - event: Brier         
-      player1:             
-        percent: 86        
-        wins: 1            
-        losses: 0          
-      player2:             
-        percent: 84        
-        wins: 0            
-        losses: 1          
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NS'      
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
         position: Second
-        percent: 84     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1996           
+        percent: 84
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(10)
-      score: NS 5 - AB 6   
+      score: NS 5 - AB 6
  - name: Smyth, Larry
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 79  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 83  
-        wins: 0      
-        losses: 1    
+   totals:
+    - event: Brier
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 79   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'ON'     
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Third
-        percent: 83    
-        win: 0         
-        loss: 1        
-      event: Brier         
-      year: 1996           
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(12)
-      score: AB 7 - ON 3   
+      score: AB 7 - ON 3
  - name: Somers, Grant
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 86   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 75   
-        wins: 0       
-        losses: 1     
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'PE'     
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Third
-        percent: 75    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1996          
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(2)
-      score: PE 5 - AB 9  
+      score: PE 5 - AB 9
  - name: Stoughton, Jeff
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 84     
-        wins: 1         
-        losses: 5       
-      player2:          
-        percent: 81     
-        wins: 5         
-        losses: 1       
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 1
+        losses: 5
+      player2:
+        percent: 81
+        wins: 5
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 92   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'MB'      
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
         position: Fourth
-        percent: 90     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1991           
+        percent: 90
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
       draw: Round Robin(11)
-      score: AB 3 - MB 2   
-    - player1:        
-        team: 'AB'    
+      score: AB 3 - MB 2
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 75   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Fourth
-        percent: 65     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 1996          
+        percent: 65
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1996
       draw: Round Robin(5)
-      score: MB 7 - AB 6  
-    - player1:        
-        team: 'AB'    
+      score: MB 7 - AB 6
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 84   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Fourth
-        percent: 85     
-        win: 1          
-        loss: 0         
-      event: Brier      
-      year: 1996        
+        percent: 85
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1996
       draw: Page 1-2(20)
       score: MB 6 - AB 5
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 80   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Fourth
-        percent: 78     
-        win: 1          
-        loss: 0         
-      event: Brier      
-      year: 1996        
-      draw: Final(22)   
+        percent: 78
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1996
+      draw: Final(22)
       score: MB 8 - AB 7
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Fourth
-        percent: 84     
-        win: 1          
-        loss: 0         
-      event: Brier         
-      year: 2000           
+        percent: 84
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2000
       draw: Round Robin(11)
-      score: AB 4 - MB 10  
-    - player1:        
-        team: 'AB'    
+      score: AB 4 - MB 10
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 90   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Fourth
-        percent: 82     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 2006          
+        percent: 82
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2006
       draw: Round Robin(7)
-      score: AB 6 - MB 7  
+      score: AB 6 - MB 7
  - name: Stuart, Darol
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 88   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 91   
-        wins: 0       
-        losses: 1     
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 91
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'TR'    
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
         position: Lead
-        percent: 91   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1997          
+        percent: 91
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Round Robin(9)
-      score: AB 7 - TR 1  
+      score: AB 7 - TR 1
  - name: Sullivan, Charles Jr
-   totals:                   
-    - event: Brier           
-      player1:               
-        percent: 71          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 73          
-        wins: 0              
-        losses: 1            
+   totals:
+    - event: Brier
+      player1:
+        percent: 71
+        wins: 1
+        losses: 0
+      player2:
+        percent: 73
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 71   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NB'     
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Third
-        percent: 73    
-        win: 0         
-        loss: 1        
-      event: Brier         
-      year: 1997           
+        percent: 73
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Round Robin(12)
-      score: AB 6 - NB 4   
+      score: AB 6 - NB 4
  - name: Sullivan, Evan
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 91    
-        wins: 0        
-        losses: 1      
-      player2:         
-        percent: 55    
-        wins: 1        
-        losses: 0      
+   totals:
+    - event: Brier
+      player1:
+        percent: 91
+        wins: 0
+        losses: 1
+      player2:
+        percent: 55
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 91   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'PE'     
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
         position: Third
-        percent: 55    
-        win: 1         
-        loss: 0        
-      event: Brier         
-      year: 2000           
+        percent: 55
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2000
       draw: Round Robin(17)
-      score: PE 8 - AB 7   
+      score: PE 8 - AB 7
  - name: Sveistrup, Jody
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 94     
-        wins: 0         
-        losses: 1       
-      player2:          
-        percent: 88     
-        wins: 1         
-        losses: 0       
+   totals:
+    - event: Brier
+      player1:
+        percent: 94
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 94   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'BC'    
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      event: Brier        
-      year: 2000          
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2000
       draw: Round Robin(6)
-      score: BC 8 - AB 3  
+      score: BC 8 - AB 3
  - name: Sylvain, Eric
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 95   
-        wins: 1       
-        losses: 1     
-      player2:        
-        percent: 75   
-        wins: 1       
-        losses: 1     
+   totals:
+    - event: Brier
+      player1:
+        percent: 95
+        wins: 1
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 98   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'QC'      
+        percent: 98
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 2000          
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
       draw: Round Robin(7)
-      score: AB 10 - QC 3 
-    - player1:        
-        team: 'AB'    
+      score: AB 10 - QC 3
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 94   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'QC'      
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
         position: Second
-        percent: 71     
-        win: 1          
-        loss: 0         
-      event: Brier         
-      year: 2006           
+        percent: 71
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2006
       draw: Round Robin(14)
-      score: QC 9 - AB 5   
+      score: QC 9 - AB 5
  - name: Tallon, Wayne
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 88   
-        wins: 2       
-        losses: 0     
-      player2:        
-        percent: 72   
-        wins: 0       
-        losses: 2     
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 2
+        losses: 0
+      player2:
+        percent: 72
+        wins: 0
+        losses: 2
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NB'     
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Third
-        percent: 68    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 2000          
+        percent: 68
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2000
       draw: Round Robin(1)
-      score: NB 5 - AB 8  
-    - player1:        
-        team: 'AB'    
+      score: NB 5 - AB 8
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NB'     
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Third
-        percent: 78    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 2006          
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
       draw: Round Robin(1)
-      score: NB 3 - AB 8  
+      score: NB 3 - AB 8
  - name: Tetley, Ross
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 81  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 89  
-        wins: 0      
-        losses: 1    
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 89
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NO'      
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Second
-        percent: 89     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1991          
+        percent: 89
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
       draw: Round Robin(8)
-      score: NO 6 - AB 8  
+      score: NO 6 - AB 8
  - name: Thomas, Jeff
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 76  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 85  
-        wins: 0      
-        losses: 1    
+   totals:
+    - event: Brier
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 76   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NL'      
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
         position: Fourth
-        percent: 85     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1997           
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Round Robin(17)
-      score: AB 7 - NL 6   
+      score: AB 7 - NL 6
  - name: Thompson, Ron
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 93   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 71   
-        wins: 0       
-        losses: 1     
+   totals:
+    - event: Brier
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 71
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 93   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'BC'     
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Third
-        percent: 71    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1992          
+        percent: 71
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
       draw: Round Robin(7)
-      score: BC 4 - AB 6  
+      score: BC 4 - AB 6
  - name: Tremblay, Roderigue
-   totals:                  
-    - event: Brier          
-      player1:              
-        percent: 85         
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent: 71         
-        wins: 0             
-        losses: 1           
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 71
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 85   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'QC'    
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Lead
-        percent: 71   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1995          
+        percent: 71
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
       draw: Round Robin(8)
-      score: AB 5 - QC 4  
+      score: AB 5 - QC 4
  - name: Tresoor, Ken
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 82  
-        wins: 1      
-        losses: 3    
-      player2:       
-        percent: 82  
-        wins: 3      
-        losses: 1    
+   totals:
+    - event: Brier
+      player1:
+        percent: 82
+        wins: 1
+        losses: 3
+      player2:
+        percent: 82
+        wins: 3
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 92   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'MB'      
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
         position: Second
-        percent: 91     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1991           
+        percent: 91
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
       draw: Round Robin(11)
-      score: AB 3 - MB 2   
-    - player1:        
-        team: 'AB'    
+      score: AB 3 - MB 2
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 75   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'MB'     
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Third
-        percent: 79    
-        win: 1         
-        loss: 0        
-      event: Brier        
-      year: 1996          
+        percent: 79
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1996
       draw: Round Robin(5)
-      score: MB 7 - AB 6  
-    - player1:        
-        team: 'AB'    
+      score: MB 7 - AB 6
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 84   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'MB'     
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Third
-        percent: 71    
-        win: 1         
-        loss: 0        
-      event: Brier      
-      year: 1996        
+        percent: 71
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1996
       draw: Page 1-2(20)
       score: MB 6 - AB 5
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 80   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'MB'     
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Third
-        percent: 88    
-        win: 1         
-        loss: 0        
-      event: Brier      
-      year: 1996        
-      draw: Final(22)   
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1996
+      draw: Final(22)
       score: MB 8 - AB 7
  - name: Tuton, Craig
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 79  
-        wins: 1      
-        losses: 0    
-      player2:       
-        percent: 78  
-        wins: 0      
-        losses: 1    
+   totals:
+    - event: Brier
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 79   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'TR'      
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
         position: Second
-        percent: 78     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1991          
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
       draw: Round Robin(1)
-      score: TR 1 - AB 9  
+      score: TR 1 - AB 9
  - name: Van Den Berghe, Garry
-   totals:                    
-    - event: Brier            
-      player1:                
-        percent: 84           
-        wins: 1               
-        losses: 5             
-      player2:                
-        percent: 84           
-        wins: 5               
-        losses: 1             
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 1
+        losses: 5
+      player2:
+        percent: 84
+        wins: 5
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 92   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'MB'    
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
         position: Lead
-        percent: 98   
-        win: 0        
-        loss: 1       
-      event: Brier         
-      year: 1991           
+        percent: 98
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
       draw: Round Robin(11)
-      score: AB 3 - MB 2   
-    - player1:        
-        team: 'AB'    
+      score: AB 3 - MB 2
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 75   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Second
-        percent: 79     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 1996          
+        percent: 79
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1996
       draw: Round Robin(5)
-      score: MB 7 - AB 6  
-    - player1:        
-        team: 'AB'    
+      score: MB 7 - AB 6
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 84   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Second
-        percent: 83     
-        win: 1          
-        loss: 0         
-      event: Brier      
-      year: 1996        
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1996
       draw: Page 1-2(20)
       score: MB 6 - AB 5
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 80   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Second
-        percent: 69     
-        win: 1          
-        loss: 0         
-      event: Brier      
-      year: 1996        
-      draw: Final(22)   
+        percent: 69
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1996
+      draw: Final(22)
       score: MB 8 - AB 7
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Second
-        percent: 84     
-        win: 1          
-        loss: 0         
-      event: Brier         
-      year: 2000           
+        percent: 84
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2000
       draw: Round Robin(11)
-      score: AB 4 - MB 10  
-    - player1:        
-        team: 'AB'    
+      score: AB 4 - MB 10
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 90   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Second
-        percent: 91     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 2006          
+        percent: 91
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2006
       draw: Round Robin(7)
-      score: AB 6 - MB 7  
+      score: AB 6 - MB 7
  - name: Van Dine, Steve
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 87     
-        wins: 2         
-        losses: 0       
-      player2:          
-        percent: 66     
-        wins: 0         
-        losses: 2       
+   totals:
+    - event: Brier
+      player1:
+        percent: 87
+        wins: 2
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 2
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 98   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'TR'      
+        percent: 98
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
         position: Second
-        percent: 59     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1992           
+        percent: 59
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1992
       draw: Round Robin(15)
-      score: TR 3 - AB 4   
-    - player1:        
-        team: 'AB'    
+      score: TR 3 - AB 4
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 74   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'TR'      
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
         position: Second
-        percent: 74     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1996          
+        percent: 74
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(8)
-      score: AB 11 - TR 6 
+      score: AB 11 - TR 6
  - name: Vaughan, Jason
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 88    
-        wins: 1        
-        losses: 0      
-      player2:         
-        percent: 67    
-        wins: 0        
-        losses: 1      
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Second
-        percent: 67     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 2006          
+        percent: 67
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
       draw: Round Robin(1)
-      score: NB 3 - AB 8  
+      score: NB 3 - AB 8
  - name: Vautour, Joseph
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 93     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 91     
-        wins: 0         
-        losses: 1       
+   totals:
+    - event: Brier
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 91
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 93   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Second
-        percent: 91     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1995           
+        percent: 91
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
       draw: Round Robin(10)
-      score: NB 4 - AB 11  
+      score: NB 4 - AB 11
  - name: Walsh, Jim
-   totals:         
-    - event: Brier 
-      player1:     
+   totals:
+    - event: Brier
+      player1:
         percent: 81
-        wins: 1    
-        losses: 0  
-      player2:     
+        wins: 1
+        losses: 0
+      player2:
         percent: 75
-        wins: 0    
-        losses: 1  
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NS'     
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
         position: Third
-        percent: 75    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 1991          
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
       draw: Round Robin(3)
-      score: NS 4 - AB 5  
+      score: NS 4 - AB 5
  - name: Werenich, Ed
-   totals:           
-    - event: Brier   
-      player1:       
-        percent: 78  
-        wins: 3      
-        losses: 0    
-      player2:       
-        percent: 61  
-        wins: 0      
-        losses: 3    
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 3
+        losses: 0
+      player2:
+        percent: 61
+        wins: 0
+        losses: 3
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 79   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'ON'      
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Fourth
-        percent: 64     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1995           
+        percent: 64
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
       draw: Round Robin(16)
-      score: AB 5 - ON 3   
-    - player1:        
-        team: 'AB'    
+      score: AB 5 - ON 3
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 78   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'ON'      
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Fourth
-        percent: 39     
-        win: 0          
-        loss: 1         
-      event: Brier      
-      year: 1995        
+        percent: 39
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1995
       draw: Page 3-4(19)
       score: AB 8 - ON 4
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 78   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'ON'      
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Fourth
-        percent: 76     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1997           
+        percent: 76
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Round Robin(11)
-      score: ON 3 - AB 6   
+      score: ON 3 - AB 6
  - name: Westphal, Don
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 77   
-        wins: 3       
-        losses: 0     
-      player2:        
-        percent: 75   
-        wins: 0       
-        losses: 3     
+   totals:
+    - event: Brier
+      player1:
+        percent: 77
+        wins: 3
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 3
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 83   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'QC'      
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Fourth
-        percent: 67     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 1996           
+        percent: 67
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Round Robin(16)
-      score: AB 7 - QC 2   
-    - player1:        
-        team: 'AB'    
+      score: AB 7 - QC 2
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 79   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'QC'      
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Fourth
-        percent: 69     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1996          
+        percent: 69
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1996
       draw: Semi-Final(21)
-      score: QC 8 - AB 9  
-    - player1:        
-        team: 'AB'    
+      score: QC 8 - AB 9
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 72   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'QC'      
+        percent: 72
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Fourth
-        percent: 85     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 1997          
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1997
       draw: Round Robin(1)
-      score: QC 4 - AB 5  
+      score: QC 4 - AB 5
  - name: Whitehead, Kevin
-   totals:               
-    - event: Brier       
-      player1:           
-        percent: 88      
-        wins: 1          
-        losses: 0        
-      player2:           
-        percent: 81      
-        wins: 0          
-        losses: 1        
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'TR'     
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
         position: Third
-        percent: 81    
-        win: 0         
-        loss: 1        
-      event: Brier        
-      year: 2006          
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
       draw: Round Robin(4)
-      score: TR 4 - AB 6  
+      score: TR 4 - AB 6
  - name: Whitehead, Mark
-   totals:              
-    - event: Brier      
-      player1:          
-        percent: 88     
-        wins: 1         
-        losses: 0       
-      player2:          
-        percent: 83     
-        wins: 0         
-        losses: 1       
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'TR'      
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
         position: Second
-        percent: 83     
-        win: 0          
-        loss: 1         
-      event: Brier        
-      year: 2006          
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
       draw: Round Robin(4)
-      score: TR 4 - AB 6  
+      score: TR 4 - AB 6
  - name: Windsor, Brian
-   totals:             
-    - event: Brier     
-      player1:         
-        percent: 84    
-        wins: 1        
-        losses: 0      
-      player2:         
-        percent: 61    
-        wins: 0        
-        losses: 1      
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 61
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 84   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'BC'      
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Fourth
-        percent: 61     
-        win: 0          
-        loss: 1         
-      event: Brier         
-      year: 2006           
+        percent: 61
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2006
       draw: Round Robin(12)
-      score: AB 7 - BC 1   
+      score: AB 7 - BC 1
  - name: Woytowich, Randy
-   totals:               
-    - event: Brier       
-      player1:           
-        percent: 90      
-        wins: 1          
-        losses: 1        
-      player2:           
-        percent: 68      
-        wins: 1          
-        losses: 1        
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 1
+        losses: 1
+      player2:
+        percent: 68
+        wins: 1
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'SK'      
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
         position: Fourth
-        percent: 78     
-        win: 1          
-        loss: 0         
-      event: Brier        
-      year: 1991          
+        percent: 78
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1991
       draw: Round Robin(7)
-      score: AB 4 - SK 10 
-    - player1:        
-        team: 'AB'    
+      score: AB 4 - SK 10
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 92   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'SK'      
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
         position: Fourth
-        percent: 60     
-        win: 0          
-        loss: 1         
-      event: Brier      
-      year: 1991        
-      draw: Playoff(14) 
+        percent: 60
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
+      draw: Final(14)
       score: SK 4 - AB 8
  - name: Xidos, George
-   totals:            
-    - event: Brier    
-      player1:        
-        percent: 81   
-        wins: 1       
-        losses: 0     
-      player2:        
-        percent: 89   
-        wins: 0       
-        losses: 1     
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 89
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NS'    
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
         position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
-      event: Brier        
-      year: 1991          
+        percent: 89
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1991
       draw: Round Robin(3)
-      score: NS 4 - AB 5  
+      score: NS 4 - AB 5
  - name: Young, Neil
-   totals:          
-    - event: Brier  
-      player1:      
-        percent: 96 
-        wins: 0     
-        losses: 1   
-      player2:      
-        percent: 81 
-        wins: 1     
-        losses: 0   
+   totals:
+    - event: Brier
+      player1:
+        percent: 96
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'AB'    
+    - player1:
+        team: 'AB'
         position: Lead
-        percent: 96   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'NL'    
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
         position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
-      event: Brier         
-      year: 1992           
+        percent: 81
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1992
       draw: Round Robin(14)
-      score: AB 6 - NL 7   
+      score: AB 6 - NL 7
 ---

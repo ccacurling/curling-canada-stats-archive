@@ -4,18 +4,18 @@ name: Brett Gallant
 name-sort: Gallant, Brett
 totals:
  - event: Brier
-   games: 103
-   wins: 76
-   losses: 27
-   inturn-total: 821
-   inturn-percent: 86
-   outturn-total: 1158
+   games: 115
+   wins: 84
+   losses: 31
+   inturn-total: 911
+   inturn-percent: 85
+   outturn-total: 1274
    outturn-percent: 88
-   draw-total: 721
+   draw-total: 823
    draw-percent: 86
-   takeout-total: 1258
-   takeout-percent: 88
-   shots-total: 1979
+   takeout-total: 1362
+   takeout-percent: 87
+   shots-total: 2185
    shots-percent: 87
 years:
  - year: 2013
@@ -187,20 +187,40 @@ years:
    takeout-percent: 88
    shots-total: 261
    shots-percent: 87
+ - year: 2021
+   event: Brier
+   team: "CA"
+   position: Second
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 90
+   inturn-percent: 83
+   outturn-total: 116
+   outturn-percent: 85
+   draw-total: 102
+   draw-percent: 85
+   takeout-total: 104
+   takeout-percent: 83
+   shots-total: 206
+   shots-percent: 84
 vs:
  - Aho, David
  - Appelman, Tom
  - Ardiel, Taylor
  - Asselin, Emile
+ - Asselin, Felix
  - Balsdon, Greg
  - Bardsley, Mike
  - Barry, Josh
+ - Bartling, Aaron
  - Bedard, Alek
  - Bedard, Daniel
  - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
  - Bilesky, Andrew
+ - Blyde, Greg
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
@@ -213,6 +233,7 @@ vs:
  - Chadwick, Scott
  - Childs, Jamie
  - Chorostkowski, Brad
+ - Chown, Jeff
  - Cochrane, Bryan
  - Colter, Travis
  - Cotter, Jim
@@ -232,7 +253,9 @@ vs:
  - Flemming, Paul
  - Forget, Wes
  - Forrest, Alex
+ - Fournier, Mike
  - Fry, Ryan
+ - Gauthier, Jacques
  - Geall, Sean
  - Giddens, Ryan
  - Grattan, James
@@ -247,6 +270,7 @@ vs:
  - Hodgson, Colin
  - Horgan, Tanner
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Scott
  - Hunt, Matthew
  - Jacobs, Brad
@@ -268,6 +292,7 @@ vs:
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Lequin, Bradley
+ - Lowery, Ryan
  - MacAulay, Ian
  - MacDonald, Edmund
  - MacFadyen, Alex
@@ -283,6 +308,8 @@ vs:
  - Mathers, David
  - McCarville, Mike
  - McDermaid, Donald
+ - McDonah, Alex
+ - McDonah, Evan
  - McDonald, Scott
  - McEwen, Mike
  - Meachem, Shaun Myles
@@ -328,6 +355,7 @@ vs:
  - Skauge, Greg
  - Smith, Greg
  - Smith, Kent
+ - Smith, Tyler
  - Smitheram, Christian
  - Spencer, Adam
  - St.Louis, David
@@ -338,6 +366,7 @@ vs:
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thompson, Stuart
+ - Trepanier, Jean-Francois
  - Virtue, Brock
  - Watson, Aaron
  - Wettig, Sheldon

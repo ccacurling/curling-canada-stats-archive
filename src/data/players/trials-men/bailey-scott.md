@@ -122,7 +122,7 @@ vs:
  - Gould, Steve
  - Grattan, James
  - Gretzinger, Bert
- - Griffith, Tyrel
+ - Griffith, Ty
  - Hannah, Brad
  - Harnden, E.J.
  - Harnden, Ryan

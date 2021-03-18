@@ -247,7 +247,7 @@ vs:
  - Peters, Vic
  - Pierce, Brent
  - Pineau, Larry
- - Power, Joe
+ - Power, Joseph Jr.
  - Ravndal, Clayton
  - Recksiedler, Kevin
  - Reddick, Don

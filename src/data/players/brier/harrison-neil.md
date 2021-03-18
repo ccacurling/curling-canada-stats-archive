@@ -305,7 +305,7 @@ vs:
  - Peddigrew, Ken
  - Peters, Vic
  - Power, Humphrey
- - Power, Joe
+ - Power, Joseph Jr.
  - Ramcharan, Rudy
  - Ravndal, Clayton
  - Richard, Gerry

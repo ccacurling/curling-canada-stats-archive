@@ -4,18 +4,18 @@ name: Glenn Howard
 name-sort: Howard, Glenn
 totals:
  - event: Brier
-   games: 218
-   wins: 159
+   games: 219
+   wins: 160
    losses: 59
-   inturn-total: 1940
+   inturn-total: 1942
    inturn-percent: 84
-   outturn-total: 2131
-   outturn-percent: 85
-   draw-total: 1574
+   outturn-total: 2133
+   outturn-percent: 86
+   draw-total: 1578
    draw-percent: 83
    takeout-total: 2497
    takeout-percent: 85
-   shots-total: 4071
+   shots-total: 4075
    shots-percent: 85
 years:
  - year: 1986
@@ -307,6 +307,23 @@ years:
    takeout-percent: 83
    shots-total: 209
    shots-percent: 84
+ - year: 2021
+   event: Brier
+   team: "WC"
+   position: Lead
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 2
+   inturn-percent: 100
+   outturn-total: 2
+   outturn-percent: 100
+   draw-total: 4
+   draw-percent: 100
+   takeout-total: 0
+   takeout-percent:
+   shots-total: 4
+   shots-percent: 100
 vs:
  - Abel, Clinton
  - Adam, Gerry
@@ -449,6 +466,7 @@ vs:
  - Gudereit, Kerry
  - Gushue, Brad
  - Hackner, Al
+ - Hagen, Brandon
  - Haichert, Chris
  - Haines, Chuck
  - Hamelmann, Chris
@@ -573,6 +591,7 @@ vs:
  - McHargue, Ken
  - McKee, Darrell
  - McKenzie, Donald
+ - McKinnon, Robert
  - McPhee, Barry
  - Meachem, Shaun Myles
  - Mead, Jonathan
@@ -581,6 +600,7 @@ vs:
  - Menard, Gerry
  - Menard, Jean-Michel
  - Menard, Philippe
+ - Mikkelsen, Dustin
  - Mitchell, Gary
  - Mittelstadt, Kelly
  - Monkman, Greg
@@ -624,6 +644,7 @@ vs:
  - Park, Kevin
  - Patterson, Scott
  - Peddigrew, Ken
+ - Peech, Alexander
  - Perozak, Brian
  - Perron, Rick
  - Perry, Randy

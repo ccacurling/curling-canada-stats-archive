@@ -4,18 +4,18 @@ name: Jim Cotter
 name-sort: Cotter, Jim
 totals:
  - event: Brier
-   games: 99
-   wins: 47
-   losses: 52
-   inturn-total: 919
-   inturn-percent: 81
-   outturn-total: 922
+   games: 107
+   wins: 50
+   losses: 57
+   inturn-total: 984
+   inturn-percent: 80
+   outturn-total: 1009
    outturn-percent: 79
-   draw-total: 803
-   draw-percent: 78
-   takeout-total: 1038
+   draw-total: 865
+   draw-percent: 77
+   takeout-total: 1128
    takeout-percent: 81
-   shots-total: 1841
+   shots-total: 1993
    shots-percent: 80
 years:
  - year: 2008
@@ -171,6 +171,23 @@ years:
    takeout-percent: 75
    shots-total: 127
    shots-percent: 75
+ - year: 2021
+   event: Brier
+   team: "BC"
+   position: Fourth
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 65
+   inturn-percent: 80
+   outturn-total: 87
+   outturn-percent: 78
+   draw-total: 62
+   draw-percent: 71
+   takeout-total: 90
+   takeout-percent: 84
+   shots-total: 152
+   shots-percent: 78
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -233,7 +250,9 @@ vs:
  - Gibson, Andrew
  - Gould, Steve
  - Grattan, James
+ - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
  - Harnden, E.J.
  - Harnden, Ryan
  - Harris, Tyler
@@ -271,6 +290,7 @@ vs:
  - Mackey, Peter
  - Mallais, Jeremy
  - Manners, Scott
+ - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
  - Martin, Karrick
@@ -281,12 +301,14 @@ vs:
  - McDermaid, Donald
  - McDonald, Scott
  - McEwen, Mike
+ - McKinnon, Robert
  - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Mead, Jonathan
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Mikkelsen, Dustin
  - Mittelstadt, Kelly
  - Morris, John
  - Moskowy, Braeden
@@ -301,11 +323,14 @@ vs:
  - Neufeld, Denni
  - Ng, Matt
  - Nichols, Mark
+ - Njegovan, Connor
  - Noftall, David
  - Odishaw, Grant
  - Odishaw, Terry
  - Palmer, Curt
  - Parsons, Cole
+ - Patzer, Brad
+ - Peech, Alexander
  - Pinder, Jordan
  - Rafuse, Brian
  - Roach, Darren
@@ -322,6 +347,7 @@ vs:
  - Seabrook, Scott
  - Sharp, Jeff
  - Simmons, Pat
+ - Skauge, Greg
  - Slauenwhite, David
  - Smith, Garth
  - Spencer, Adam

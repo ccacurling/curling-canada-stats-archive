@@ -411,7 +411,7 @@ vs:
  - Piggott, Steve
  - Pineau, Larry
  - Poole, Gary
- - Power, Joe
+ - Power, Joseph Jr.
  - Rastelli, Max
  - Ravndal, Clayton
  - Reddick, Don

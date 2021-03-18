@@ -261,7 +261,7 @@ vs:
  - Pfeifer, Scott
  - Pierce, Brent
  - Pinsent, Garry
- - Power, Joe
+ - Power, Joseph Jr.
  - Recksiedler, Kevin
  - Richard, Gerry
  - Roberge, Francois

@@ -4,18 +4,18 @@ name: Derek Samagalski
 name-sort: Samagalski, Derek
 totals:
  - event: Brier
-   games: 59
-   wins: 31
-   losses: 28
-   inturn-total: 514
-   inturn-percent: 87
-   outturn-total: 579
-   outturn-percent: 88
-   draw-total: 623
+   games: 67
+   wins: 35
+   losses: 32
+   inturn-total: 599
+   inturn-percent: 86
+   outturn-total: 640
+   outturn-percent: 87
+   draw-total: 700
    draw-percent: 87
-   takeout-total: 470
-   takeout-percent: 87
-   shots-total: 1093
+   takeout-total: 539
+   takeout-percent: 86
+   shots-total: 1239
    shots-percent: 87
 years:
  - year: 2012
@@ -103,6 +103,23 @@ years:
    takeout-percent: 88
    shots-total: 225
    shots-percent: 88
+ - year: 2021
+   event: Brier
+   team: "WC"
+   position: Second
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 85
+   inturn-percent: 84
+   outturn-total: 61
+   outturn-percent: 80
+   draw-total: 77
+   draw-percent: 84
+   takeout-total: 69
+   takeout-percent: 80
+   shots-total: 146
+   shots-percent: 83
 vs:
  - Abel, Clinton
  - Aho, David
@@ -151,6 +168,7 @@ vs:
  - Griffith, Ty
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
  - Harnden, E.J.
  - Harnden, Ryan
  - Harris, Tyler
@@ -190,10 +208,12 @@ vs:
  - McDermaid, Donald
  - McDonald, Scott
  - McEwen, Mike
+ - McKinnon, Robert
  - McLeod, Shadrach
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Mikkelsen, Dustin
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -212,6 +232,8 @@ vs:
  - Odishaw, Grant
  - Odishaw, Terry
  - Parsons, Cole
+ - Patzer, Brad
+ - Peech, Alexander
  - Pinder, Jordan
  - Rach, Dave
  - Roy, Jean-Sebastien
@@ -223,6 +245,7 @@ vs:
  - Scoffin, Thomas
  - Seabrook, Scott
  - Simmons, Pat
+ - Skauge, Greg
  - Smallwood, Robert
  - Solberg, Jonathon
  - St.Louis, David

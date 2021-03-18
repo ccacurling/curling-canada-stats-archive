@@ -2,768 +2,768 @@
 title: David Mathers Head-to-head
 name: Mathers, David
 vs:
- - name: McEwen, Mike        
-   totals:                   
+ - name: McEwen, Mike
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 80          
-        wins: 0              
-        losses: 2            
-      player2:               
-        percent: 85          
-        wins: 2              
-        losses: 0            
+      player1:
+        percent: 80
+        wins: 0
+        losses: 2
+      player2:
+        percent: 85
+        wins: 2
+        losses: 0
    games:
-    - player1:          
-        team: 'MC'      
+    - player1:
+        team: 'MC'
         position: Second
-        percent: 71     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'MM'      
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'MM'
         position: Fourth
-        percent: 91     
-        win: 1          
-        loss: 0         
+        percent: 91
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(2)   
-      score: MM 6 - MC 3     
-    - player1:        
-        team: 'EPP'   
+      year: 2010
+      draw: Round Robin(2)
+      score: MM 6 - MC 3
+    - player1:
+        team: 'EPP'
         position: Lead
-        percent: 88   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MCE'     
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCE'
         position: Fourth
-        percent: 81     
-        win: 1          
-        loss: 0         
+        percent: 81
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2012             
-      draw: Round Robin(4)   
-      score: EPP 8 - MCE 9   
- - name: Mead, Jonathan      
-   totals:                   
+      year: 2012
+      draw: Round Robin(4)
+      score: EPP 8 - MCE 9
+ - name: Mead, Jonathan
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 91          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 85          
-        wins: 0              
-        losses: 1            
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'EPP'   
+    - player1:
+        team: 'EPP'
         position: Lead
-        percent: 91   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'STO'    
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'STO'
         position: Third
-        percent: 85    
-        win: 0         
-        loss: 1        
+        percent: 85
+        win: 0
+        loss: 1
       event: Canada Cup (Men)
-      year: 2012             
-      draw: Round Robin(7)   
-      score: EPP 8 - STO 7   
- - name: Middaugh, Wayne     
-   totals:                   
+      year: 2012
+      draw: Round Robin(7)
+      score: EPP 8 - STO 7
+ - name: Middaugh, Wayne
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 80          
-        wins: 0              
-        losses: 2            
-      player2:               
-        percent: 90          
-        wins: 2              
-        losses: 0            
+      player1:
+        percent: 80
+        wins: 0
+        losses: 2
+      player2:
+        percent: 90
+        wins: 2
+        losses: 0
    games:
-    - player1:          
-        team: 'MC'      
+    - player1:
+        team: 'MC'
         position: Second
-        percent: 78     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'GH'     
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'GH'
         position: Third
-        percent: 90    
-        win: 1         
-        loss: 0        
+        percent: 90
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(8)   
-      score: MC 4 - GH 6     
-    - player1:        
-        team: 'EPP'   
+      year: 2010
+      draw: Round Robin(8)
+      score: MC 4 - GH 6
+    - player1:
+        team: 'EPP'
         position: Lead
-        percent: 84   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'HOW'    
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'HOW'
         position: Third
-        percent: 91    
-        win: 1         
-        loss: 0        
+        percent: 91
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2012             
-      draw: Round Robin(5)   
-      score: EPP 4 - HOW 10  
- - name: Morris, John        
-   totals:                   
+      year: 2012
+      draw: Round Robin(5)
+      score: EPP 4 - HOW 10
+ - name: Morris, John
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 84          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 83          
-        wins: 1              
-        losses: 1            
+      player1:
+        percent: 84
+        wins: 1
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 1
    games:
-    - player1:          
-        team: 'MC'      
+    - player1:
+        team: 'MC'
         position: Second
-        percent: 83     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'KM'     
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'KM'
         position: Third
-        percent: 98    
-        win: 1         
-        loss: 0        
+        percent: 98
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(4)   
-      score: MC 2 - KM 7     
-    - player1:        
-        team: 'EPP'   
+      year: 2010
+      draw: Round Robin(4)
+      score: MC 2 - KM 7
+    - player1:
+        team: 'EPP'
         position: Lead
-        percent: 85   
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'MAR'    
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'MAR'
         position: Third
-        percent: 74    
-        win: 0         
-        loss: 1        
+        percent: 74
+        win: 0
+        loss: 1
       event: Canada Cup (Men)
-      year: 2012             
-      draw: Round Robin(1)   
-      score: MAR 6 - EPP 7   
- - name: Moskowy, Braeden    
-   totals:                   
+      year: 2012
+      draw: Round Robin(1)
+      score: MAR 6 - EPP 7
+ - name: Moskowy, Braeden
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 94          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 66          
-        wins: 0              
-        losses: 1            
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'Howa'    
+    - player1:
+        team: 'Howa'
         position: Second
-        percent: 94     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Duns'   
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'Duns'
         position: Third
-        percent: 66    
-        win: 0         
-        loss: 1        
+        percent: 66
+        win: 0
+        loss: 1
       event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(9)   
-      score: Duns 2 - Howa 5 
- - name: Moulding, Darren    
-   totals:                   
+      year: 2019
+      draw: Round Robin(9)
+      score: Duns 2 - Howa 5
+ - name: Moulding, Darren
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 91          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 91
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Howa'    
+    - player1:
+        team: 'Howa'
         position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Bott'   
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'Bott'
         position: Third
-        percent: 91    
-        win: 1         
-        loss: 0        
+        percent: 91
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(3)   
-      score: Bott 9 - Howa 3 
- - name: Neufeld, B.J.       
-   totals:                   
+      year: 2019
+      draw: Round Robin(3)
+      score: Bott 9 - Howa 3
+ - name: Neufeld, B.J.
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 77          
-        wins: 1              
-        losses: 2            
-      player2:               
-        percent: 75          
-        wins: 2              
-        losses: 1            
+      player1:
+        percent: 77
+        wins: 1
+        losses: 2
+      player2:
+        percent: 75
+        wins: 2
+        losses: 1
    games:
-    - player1:          
-        team: 'MC'      
+    - player1:
+        team: 'MC'
         position: Second
-        percent: 71     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'MM'     
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'MM'
         position: Third
-        percent: 74    
-        win: 1         
-        loss: 0        
+        percent: 74
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(2)   
-      score: MM 6 - MC 3     
-    - player1:        
-        team: 'EPP'   
+      year: 2010
+      draw: Round Robin(2)
+      score: MM 6 - MC 3
+    - player1:
+        team: 'EPP'
         position: Lead
-        percent: 88   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'MCE'    
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCE'
         position: Third
-        percent: 77    
-        win: 1         
-        loss: 0        
+        percent: 77
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2012             
-      draw: Round Robin(4)   
-      score: EPP 8 - MCE 9   
-    - player1:          
-        team: 'Howa'    
+      year: 2012
+      draw: Round Robin(4)
+      score: EPP 8 - MCE 9
+    - player1:
+        team: 'Howa'
         position: Second
-        percent: 70     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Koe'    
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'Koe'
         position: Third
-        percent: 75    
-        win: 0         
-        loss: 1        
+        percent: 75
+        win: 0
+        loss: 1
       event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(5)   
-      score: Howa 9 - Koe 6  
- - name: Neufeld, Denni      
-   totals:                   
+      year: 2019
+      draw: Round Robin(5)
+      score: Howa 9 - Koe 6
+ - name: Neufeld, Denni
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 80          
-        wins: 0              
-        losses: 2            
-      player2:               
-        percent: 96          
-        wins: 2              
-        losses: 0            
+      player1:
+        percent: 80
+        wins: 0
+        losses: 2
+      player2:
+        percent: 96
+        wins: 2
+        losses: 0
    games:
-    - player1:          
-        team: 'MC'      
+    - player1:
+        team: 'MC'
         position: Second
-        percent: 71     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'MM'    
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'MM'
         position: Lead
-        percent: 94   
-        win: 1        
-        loss: 0       
+        percent: 94
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(2)   
-      score: MM 6 - MC 3     
-    - player1:        
-        team: 'EPP'   
+      year: 2010
+      draw: Round Robin(2)
+      score: MM 6 - MC 3
+    - player1:
+        team: 'EPP'
         position: Lead
-        percent: 88   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'MCE'   
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCE'
         position: Lead
-        percent: 97   
-        win: 1        
-        loss: 0       
+        percent: 97
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2012             
-      draw: Round Robin(4)   
-      score: EPP 8 - MCE 9   
- - name: Nichols, Mark       
-   totals:                   
+      year: 2012
+      draw: Round Robin(4)
+      score: EPP 8 - MCE 9
+ - name: Nichols, Mark
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 84          
-        wins: 1              
-        losses: 2            
-      player2:               
-        percent: 87          
-        wins: 2              
-        losses: 1            
+      player1:
+        percent: 84
+        wins: 1
+        losses: 2
+      player2:
+        percent: 87
+        wins: 2
+        losses: 1
    games:
-    - player1:          
-        team: 'MC'      
+    - player1:
+        team: 'MC'
         position: Second
-        percent: 75     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'RFE'     
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'RFE'
         position: Second
-        percent: 75     
-        win: 1          
-        loss: 0         
+        percent: 75
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(5)   
-      score: RFE 7 - MC 2    
-    - player1:        
-        team: 'EPP'   
+      year: 2010
+      draw: Round Robin(5)
+      score: RFE 7 - MC 2
+    - player1:
+        team: 'EPP'
         position: Lead
-        percent: 91   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'STO'   
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'STO'
         position: Lead
-        percent: 95   
-        win: 0        
-        loss: 1       
+        percent: 95
+        win: 0
+        loss: 1
       event: Canada Cup (Men)
-      year: 2012             
-      draw: Round Robin(7)   
-      score: EPP 8 - STO 7   
-    - player1:          
-        team: 'Howa'    
+      year: 2012
+      draw: Round Robin(7)
+      score: EPP 8 - STO 7
+    - player1:
+        team: 'Howa'
         position: Second
-        percent: 85     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Gush'   
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'Gush'
         position: Third
-        percent: 89    
-        win: 1         
-        loss: 0        
+        percent: 89
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(6)   
-      score: Gush 4 - Howa 3 
- - name: Reid, Serge         
-   totals:                   
+      year: 2019
+      draw: Round Robin(6)
+      score: Gush 4 - Howa 3
+ - name: Reid, Serge
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 85          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'MC'      
+    - player1:
+        team: 'MC'
         position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'SR'      
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'SR'
         position: Fourth
-        percent: 85     
-        win: 1          
-        loss: 0         
+        percent: 85
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(7)   
-      score: SR 8 - MC 2     
- - name: Rocque, Marcel      
-   totals:                   
+      year: 2010
+      draw: Round Robin(7)
+      score: SR 8 - MC 2
+ - name: Rocque, Marcel
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 75          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 86          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'MC'      
+    - player1:
+        team: 'MC'
         position: Second
-        percent: 75     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'RFE'   
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'RFE'
         position: Lead
-        percent: 86   
-        win: 1        
-        loss: 0       
+        percent: 86
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(5)   
-      score: RFE 7 - MC 2    
- - name: Rycroft, Carter     
-   totals:                   
+      year: 2010
+      draw: Round Robin(5)
+      score: RFE 7 - MC 2
+ - name: Rycroft, Carter
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 91          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 88          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 91
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'EPP'   
+    - player1:
+        team: 'EPP'
         position: Lead
-        percent: 91   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'KOE'     
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'KOE'
         position: Second
-        percent: 88     
-        win: 1          
-        loss: 0         
+        percent: 88
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2012             
-      draw: Round Robin(2)   
-      score: KOE 5 - EPP 3   
- - name: Savill, Craig       
-   totals:                   
+      year: 2012
+      draw: Round Robin(2)
+      score: KOE 5 - EPP 3
+ - name: Savill, Craig
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 80          
-        wins: 0              
-        losses: 2            
-      player2:               
-        percent: 90          
-        wins: 2              
-        losses: 0            
+      player1:
+        percent: 80
+        wins: 0
+        losses: 2
+      player2:
+        percent: 90
+        wins: 2
+        losses: 0
    games:
-    - player1:          
-        team: 'MC'      
+    - player1:
+        team: 'MC'
         position: Second
-        percent: 78     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'GH'    
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'GH'
         position: Lead
-        percent: 88   
-        win: 1        
-        loss: 0       
+        percent: 88
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(8)   
-      score: MC 4 - GH 6     
-    - player1:        
-        team: 'EPP'   
+      year: 2010
+      draw: Round Robin(8)
+      score: MC 4 - GH 6
+    - player1:
+        team: 'EPP'
         position: Lead
-        percent: 84   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'HOW'   
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'HOW'
         position: Lead
-        percent: 93   
-        win: 1        
-        loss: 0       
+        percent: 93
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2012             
-      draw: Round Robin(5)   
-      score: EPP 4 - HOW 10  
- - name: Schneider, Catlin   
-   totals:                   
+      year: 2012
+      draw: Round Robin(5)
+      score: EPP 4 - HOW 10
+ - name: Schneider, Catlin
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 94          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 61          
-        wins: 0              
-        losses: 1            
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 61
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'Howa'    
+    - player1:
+        team: 'Howa'
         position: Second
-        percent: 94     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Duns'    
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'Duns'
         position: Second
-        percent: 61     
-        win: 0          
-        loss: 1         
+        percent: 61
+        win: 0
+        loss: 1
       event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(9)   
-      score: Duns 2 - Howa 5 
- - name: Simmons, Pat        
-   totals:                   
+      year: 2019
+      draw: Round Robin(9)
+      score: Duns 2 - Howa 5
+ - name: Simmons, Pat
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 91          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 81          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 91
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'EPP'   
+    - player1:
+        team: 'EPP'
         position: Lead
-        percent: 91   
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'KOE'    
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'KOE'
         position: Third
-        percent: 81    
-        win: 1         
-        loss: 0        
+        percent: 81
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2012             
-      draw: Round Robin(2)   
-      score: KOE 5 - EPP 3   
- - name: Stoughton, Jeff     
-   totals:                   
+      year: 2012
+      draw: Round Robin(2)
+      score: KOE 5 - EPP 3
+ - name: Stoughton, Jeff
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 91          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 75          
-        wins: 0              
-        losses: 1            
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'EPP'   
+    - player1:
+        team: 'EPP'
         position: Lead
-        percent: 91   
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'STO'     
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'STO'
         position: Fourth
-        percent: 75     
-        win: 0          
-        loss: 1         
+        percent: 75
+        win: 0
+        loss: 1
       event: Canada Cup (Men)
-      year: 2012             
-      draw: Round Robin(7)   
-      score: EPP 8 - STO 7   
- - name: Thiessen, Brad      
-   totals:                   
+      year: 2012
+      draw: Round Robin(7)
+      score: EPP 8 - STO 7
+ - name: Thiessen, Brad
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 84          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Howa'    
+    - player1:
+        team: 'Howa'
         position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Bott'    
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'Bott'
         position: Second
-        percent: 84     
-        win: 1          
-        loss: 0         
+        percent: 84
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(3)   
-      score: Bott 9 - Howa 3 
- - name: Thiessen, Nolan     
-   totals:                   
+      year: 2019
+      draw: Round Robin(3)
+      score: Bott 9 - Howa 3
+ - name: Thiessen, Nolan
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 91          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 84          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 91
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'EPP'   
+    - player1:
+        team: 'EPP'
         position: Lead
-        percent: 91   
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'KOE'   
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'KOE'
         position: Lead
-        percent: 84   
-        win: 1        
-        loss: 0       
+        percent: 84
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2012             
-      draw: Round Robin(2)   
-      score: KOE 5 - EPP 3   
- - name: Villeneuve, Steeve  
-   totals:                   
+      year: 2012
+      draw: Round Robin(2)
+      score: KOE 5 - EPP 3
+ - name: Villeneuve, Steeve
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 79          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'MC'      
+    - player1:
+        team: 'MC'
         position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'SR'    
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'SR'
         position: Lead
-        percent: 79   
-        win: 1        
-        loss: 0       
+        percent: 79
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(7)   
-      score: SR 8 - MC 2     
- - name: Walker, Geoff       
-   totals:                   
+      year: 2010
+      draw: Round Robin(7)
+      score: SR 8 - MC 2
+ - name: Walker, Geoff
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 89          
-        wins: 1              
-        losses: 1            
-      player2:               
-        percent: 87          
-        wins: 1              
-        losses: 1            
+      player1:
+        percent: 89
+        wins: 1
+        losses: 1
+      player2:
+        percent: 87
+        wins: 1
+        losses: 1
    games:
-    - player1:        
-        team: 'EPP'   
+    - player1:
+        team: 'EPP'
         position: Lead
-        percent: 94   
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'GUS'   
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'GUS'
         position: Lead
-        percent: 85   
-        win: 0        
-        loss: 1       
+        percent: 85
+        win: 0
+        loss: 1
       event: Canada Cup (Men)
-      year: 2012             
-      draw: Round Robin(8)   
-      score: GUS 4 - EPP 6   
-    - player1:          
-        team: 'Howa'    
+      year: 2012
+      draw: Round Robin(8)
+      score: GUS 4 - EPP 6
+    - player1:
+        team: 'Howa'
         position: Second
-        percent: 85     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Gush'  
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'Gush'
         position: Lead
-        percent: 89   
-        win: 1        
-        loss: 0       
+        percent: 89
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2019             
-      draw: Round Robin(6)   
-      score: Gush 4 - Howa 3 
- - name: Wozniak, Matt       
-   totals:                   
+      year: 2019
+      draw: Round Robin(6)
+      score: Gush 4 - Howa 3
+ - name: Wozniak, Matt
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 80          
-        wins: 0              
-        losses: 2            
-      player2:               
-        percent: 83          
-        wins: 2              
-        losses: 0            
+      player1:
+        percent: 80
+        wins: 0
+        losses: 2
+      player2:
+        percent: 83
+        wins: 2
+        losses: 0
    games:
-    - player1:          
-        team: 'MC'      
+    - player1:
+        team: 'MC'
         position: Second
-        percent: 71     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'MM'      
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'MM'
         position: Second
-        percent: 86     
-        win: 1          
-        loss: 0         
+        percent: 86
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2010             
-      draw: Round Robin(2)   
-      score: MM 6 - MC 3     
-    - player1:        
-        team: 'EPP'   
+      year: 2010
+      draw: Round Robin(2)
+      score: MM 6 - MC 3
+    - player1:
+        team: 'EPP'
         position: Lead
-        percent: 88   
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MCE'     
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCE'
         position: Second
-        percent: 81     
-        win: 1          
-        loss: 0         
+        percent: 81
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2012             
-      draw: Round Robin(4)   
-      score: EPP 8 - MCE 9   
+      year: 2012
+      draw: Round Robin(4)
+      score: EPP 8 - MCE 9
 ---

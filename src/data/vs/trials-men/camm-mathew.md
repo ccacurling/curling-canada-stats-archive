@@ -142,7 +142,7 @@ vs:
       year: 2017
       draw: Round Robin(2)
       score: Eppi 6 - Gush 4
- - name: Griffith, Tyrel
+ - name: Griffith, Ty
    totals:
     - event: Trials(Men)
       player1:

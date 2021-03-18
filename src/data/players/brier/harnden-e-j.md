@@ -4,18 +4,18 @@ name: E.J. Harnden
 name-sort: Harnden, E.J.
 totals:
  - event: Brier
-   games: 139
-   wins: 92
-   losses: 47
-   inturn-total: 1036
-   inturn-percent: 87
-   outturn-total: 1561
+   games: 151
+   wins: 99
+   losses: 52
+   inturn-total: 1137
+   inturn-percent: 86
+   outturn-total: 1690
    outturn-percent: 87
-   draw-total: 952
+   draw-total: 1054
    draw-percent: 85
-   takeout-total: 1645
+   takeout-total: 1773
    takeout-percent: 88
-   shots-total: 2597
+   shots-total: 2827
    shots-percent: 87
 years:
  - year: 2008
@@ -205,6 +205,23 @@ years:
    takeout-percent: 88
    shots-total: 253
    shots-percent: 90
+ - year: 2021
+   event: Brier
+   team: "NO"
+   position: Second
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 101
+   inturn-percent: 86
+   outturn-total: 129
+   outturn-percent: 84
+   draw-total: 102
+   draw-percent: 86
+   takeout-total: 128
+   takeout-percent: 85
+   shots-total: 230
+   shots-percent: 85
 vs:
  - Abel, Clinton
  - Adam, Gerry
@@ -280,6 +297,7 @@ vs:
  - Griffith, Ty
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
  - Harris, Tyler
  - Hart, Richard
  - Hebert, Ben
@@ -342,12 +360,14 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
+ - McKinnon, Robert
  - Meachem, Shaun Myles
  - Mead, Jonathan
  - Menard, Jean-Michel
  - Menard, Philippe
  - Merklinger, Bill
  - Middaugh, Wayne
+ - Mikkelsen, Dustin
  - Mittelstadt, Kelly
  - Morris, John
  - Moskowy, Braeden
@@ -359,6 +379,7 @@ vs:
  - Nadeau, Jeff
  - Nason, Paul
  - Naugler, Tom
+ - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
  - Newson, Jamie
@@ -372,6 +393,8 @@ vs:
  - O'Rourke, Mark
  - Palmer, Curt
  - Park, Kevin
+ - Patzer, Brad
+ - Peech, Alexander
  - Pinder, Jordan
  - Quevillon, Louis
  - Rafuse, Brian
@@ -394,6 +417,7 @@ vs:
  - Sharp, Jeff
  - Shypitka, Tom
  - Simmons, Pat
+ - Skauge, Greg
  - Slauenwhite, David
  - Smallwood, Robert
  - Smith, Garth

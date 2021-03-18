@@ -42,7 +42,7 @@ vs:
  - Dunstone, Matthew
  - Fry, Ryan
  - Gallant, Brett
- - Griffith, Tyrel
+ - Griffith, Ty
  - Gushue, Brad
  - Harnden, Ryan
  - Hebert, Ben

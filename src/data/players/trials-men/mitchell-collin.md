@@ -61,7 +61,7 @@ vs:
  - Fenton, Keith
  - Fry, Ryan
  - Gould, Steve
- - Griffith, Tyrel
+ - Griffith, Ty
  - Hannah, Brad
  - Harnden, E.J.
  - Harnden, Ryan

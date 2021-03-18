@@ -401,7 +401,7 @@ vs:
  - Petryk, Dan
  - Pfeifer, Scott
  - Pinsent, Garry
- - Power, Joe
+ - Power, Joseph Jr.
  - Ravndal, Clayton
  - Rechenmacher, Warren
  - Reibin, Dale

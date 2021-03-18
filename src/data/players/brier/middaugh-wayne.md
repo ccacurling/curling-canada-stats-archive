@@ -4,18 +4,18 @@ name: Wayne Middaugh
 name-sort: Middaugh, Wayne
 totals:
  - event: Brier
-   games: 115
-   wins: 85
-   losses: 30
-   inturn-total: 989
+   games: 127
+   wins: 93
+   losses: 34
+   inturn-total: 1103
    inturn-percent: 86
-   outturn-total: 1144
-   outturn-percent: 86
-   draw-total: 767
+   outturn-total: 1259
+   outturn-percent: 85
+   draw-total: 863
    draw-percent: 83
-   takeout-total: 1366
+   takeout-total: 1499
    takeout-percent: 87
-   shots-total: 2133
+   shots-total: 2362
    shots-percent: 86
 years:
  - year: 1991
@@ -171,6 +171,23 @@ years:
    takeout-percent: 89
    shots-total: 256
    shots-percent: 88
+ - year: 2021
+   event: Brier
+   team: "WC"
+   position: Fourth
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 114
+   inturn-percent: 86
+   outturn-total: 115
+   outturn-percent: 80
+   draw-total: 96
+   draw-percent: 77
+   takeout-total: 133
+   takeout-percent: 87
+   shots-total: 229
+   shots-percent: 83
 vs:
  - Abel, Clinton
  - Adams, Brian
@@ -190,11 +207,14 @@ vs:
  - Bartlett, Don
  - Bentley, Dan
  - Bentley, Darren
+ - Beuk, Jonathan
  - Bilesky, Andrew
  - Biron, Louis
  - Blanchard, Wade
  - Boland, John
  - Borden, Robert
+ - Bottcher, Brendan
+ - Brannen, Jamie
  - Breckon, Graham
  - Bryant, Doug
  - Buck, Wyatt
@@ -205,6 +225,7 @@ vs:
  - Butler, Mark
  - Butler, Mike
  - Butler, Ted
+ - Camm, Mathew
  - Campbell, Robert
  - Carey, Dan
  - Carmody, Anson
@@ -235,10 +256,12 @@ vs:
  - Dobson, Paul
  - Doyon, Ghislain
  - Duguid, Dale
+ - Dunstone, Matthew
  - Dutiaume, Randy
  - Elias, Dave
  - Elkin, Derek
  - Elmaleh, Maxime
+ - Epping, John
  - Errington, Derek
  - Feldman, Alfred
  - Fenton, Darin
@@ -270,8 +293,10 @@ vs:
  - Griffith, Ty
  - Grundy, John
  - Gudereit, Kerry
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Hackner, Al
+ - Hagen, Brandon
  - Haichert, Chris
  - Haines, Chuck
  - Hamilton, Wayne
@@ -287,6 +312,7 @@ vs:
  - Henderson, Jeffrey
  - Henderson, Scott
  - Hipkin, Rich
+ - Hodgson, Colin
  - Horning, Deane
  - Iskiw, Blayne
  - Iverson, Dave
@@ -314,11 +340,13 @@ vs:
  - Kushnir, Warren
  - Lacey, Jeff
  - Lafleur, Andre
+ - Laing, Brent
  - Landry, Garry
  - Lang, Rick
  - Lang, Tyler
  - Langdon, Dennis
  - Lappalainen, Art
+ - Laycock, Steve
  - LeClair, Bob
  - LeCocq, Marc
  - LeCocq, Vance
@@ -343,6 +371,7 @@ vs:
  - MacLean, Stuart
  - MacLeod, Glen
  - Manners, Scott
+ - Martin, Karrick
  - Martin, Kevin
  - Maurice, Jean
  - Maxie, Fred
@@ -353,9 +382,11 @@ vs:
  - McCusker, Brian
  - McDermaid, Donald
  - McDonald, Toby
+ - McEwen, Mike
  - McGregor, Ken
  - McHargue, Ken
  - McInnis, Phillip
+ - McKinnon, Robert
  - Mead, Jonathan
  - Meakin, Rob
  - Melnichuk, Greg
@@ -364,6 +395,7 @@ vs:
  - Menard, Philippe
  - Mihalicz, Dwayne
  - Miki, Bryan
+ - Mikkelsen, Dustin
  - Mitchell, Garth
  - Mitchell, Gary
  - Mittelstadt, Kelly
@@ -374,14 +406,19 @@ vs:
  - Moshenko, Jaret
  - Moskowy, Braeden
  - Moss, Steve
+ - Moulding, Darren
  - Munroe, Steven
  - Murphy, Jamie
+ - Muyres, Kirk
  - Naugler, Tom
  - Nedohin, David
+ - Nerpin, Andrew
  - Ness, Dale
+ - Neufeld, B.J.
  - Neufeld, Chris
  - Nicholls, Peter
  - Nichols, Mark
+ - Njegovan, Connor
  - Nobert, Rob
  - Noseworthy, Mark
  - Novakowski, Bob
@@ -394,6 +431,8 @@ vs:
  - Ouimet, Luc
  - Park, Kevin
  - Patterson, Scott
+ - Patzer, Brad
+ - Peech, Alexander
  - Perozak, Brian
  - Perron, Rick
  - Peters, Vic
@@ -442,6 +481,7 @@ vs:
  - Simmons, Pat
  - Sinclair, Rob
  - Skanes, Robert
+ - Skauge, Greg
  - Smith, Dave
  - Smith, Kent
  - Solberg, Jonathon
@@ -457,6 +497,7 @@ vs:
  - Tervo, Randy
  - Tetley, Ross
  - Thibaudeau, Guy
+ - Thiessen, Brad
  - Thiessen, Nolan
  - Thomas, Rob
  - Thompson, Ron
@@ -477,6 +518,7 @@ vs:
  - Wiersema, Dale
  - Withers, Paul
  - Woytowich, Randy
+ - Wozniak, Matt
  - Xidos, George
  - Young, Neil
 ---

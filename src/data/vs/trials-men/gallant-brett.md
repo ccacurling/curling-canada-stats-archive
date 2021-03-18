@@ -2,7 +2,7 @@
 title: Brett Gallant Head-to-head
 name: Gallant, Brett
 vs:
- - name: Griffith, Tyrel
+ - name: Griffith, Ty
    totals:
     - event: Trials(Men)
       player1:

@@ -4,18 +4,18 @@ name: Martin Crete
 name-sort: Crete, Martin
 totals:
  - event: Brier
-   games: 88
-   wins: 45
-   losses: 43
-   inturn-total: 451
+   games: 96
+   wins: 49
+   losses: 47
+   inturn-total: 529
    inturn-percent: 84
-   outturn-total: 1247
+   outturn-total: 1319
    outturn-percent: 84
-   draw-total: 643
+   draw-total: 727
    draw-percent: 83
-   takeout-total: 1055
+   takeout-total: 1121
    takeout-percent: 84
-   shots-total: 1698
+   shots-total: 1848
    shots-percent: 84
 years:
  - year: 2008
@@ -187,6 +187,23 @@ years:
    takeout-percent: 78
    shots-total: 122
    shots-percent: 78
+ - year: 2021
+   event: Brier
+   team: "QC"
+   position: Third
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 78
+   inturn-percent: 80
+   outturn-total: 72
+   outturn-percent: 84
+   draw-total: 84
+   draw-percent: 85
+   takeout-total: 66
+   takeout-percent: 79
+   shots-total: 150
+   shots-percent: 82
 vs:
  - Abel, Clinton
  - Adam, Gerry
@@ -198,6 +215,7 @@ vs:
  - Bice, Steve
  - Bilesky, Andrew
  - Bitz, Scott
+ - Blyde, Greg
  - Boland, Adam
  - Borden, Robert
  - Bottcher, Brendan
@@ -214,6 +232,7 @@ vs:
  - Champion, Kevin
  - Childs, Jamie
  - Chorostkowski, Brad
+ - Chown, Jeff
  - Cotter, Jim
  - Cowan, Chad
  - Crowell, Phil
@@ -223,7 +242,9 @@ vs:
  - Darragh, Alan
  - Desrosiers, John
  - Doherty, Robert
+ - Dunstone, Matthew
  - Eldridge, Zach
+ - Epping, John
  - Errington, Derek
  - Farnell, Jamie
  - Fitzner-LeBlanc, Ian
@@ -251,6 +272,7 @@ vs:
  - Hicke, Dean
  - Hodgson, Colin
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Russ
  - Howard, Scott
  - Howard, Steven
@@ -278,10 +300,12 @@ vs:
  - Ledgerwood, Sean
  - Likely, John
  - Lohnes, Bruce
+ - Lowery, Ryan
  - MacDonald, Rod
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - MacKenzie, Tyler
+ - Mackey, Peter
  - Mallais, Jeremy
  - Marsh, Dan
  - Marsh, Kevin
@@ -290,6 +314,9 @@ vs:
  - Mathers, David
  - McCarville, Mike
  - McDermaid, Donald
+ - McDonah, Alex
+ - McDonah, Evan
+ - McDonald, Scott
  - McEwen, Mike
  - Meachem, Shaun Myles
  - Mead, Jonathan
@@ -301,6 +328,7 @@ vs:
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Naugler, Tom
  - Neufeld, B.J.
  - Neufeld, Denni
@@ -335,9 +363,12 @@ vs:
  - Slauenwhite, David
  - Smallwood, Robert
  - Smith, Garth
+ - Smith, Greg
  - Smith, Kent
+ - Smith, Tyler
  - Solberg, Jonathon
  - Spencer, Adam
+ - St.Louis, Brady
  - Stoughton, Jeff
  - Symonds, Andrew
  - Thiessen, Brad

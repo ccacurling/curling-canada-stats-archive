@@ -4,18 +4,18 @@ name: Adam Casey
 name-sort: Casey, Adam
 totals:
  - event: Brier
-   games: 79
-   wins: 36
-   losses: 43
-   inturn-total: 645
+   games: 91
+   wins: 42
+   losses: 49
+   inturn-total: 751
    inturn-percent: 81
-   outturn-total: 844
+   outturn-total: 960
    outturn-percent: 83
-   draw-total: 643
-   draw-percent: 80
-   takeout-total: 846
+   draw-total: 734
+   draw-percent: 81
+   takeout-total: 977
    takeout-percent: 83
-   shots-total: 1489
+   shots-total: 1711
    shots-percent: 82
 years:
  - year: 2012
@@ -137,6 +137,23 @@ years:
    takeout-percent: 86
    shots-total: 208
    shots-percent: 82
+ - year: 2021
+   event: Brier
+   team: "MB"
+   position: Third
+   games: 12
+   wins: 6
+   losses: 6
+   inturn-total: 106
+   inturn-percent: 82
+   outturn-total: 116
+   outturn-percent: 86
+   draw-total: 91
+   draw-percent: 85
+   takeout-total: 131
+   takeout-percent: 84
+   shots-total: 222
+   shots-percent: 84
 vs:
  - Armstrong, Mike
  - Asselin, Emile
@@ -144,6 +161,7 @@ vs:
  - Bardsley, Mike
  - Barry, Josh
  - Bedard, Alek
+ - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
  - Bilesky, Andrew
@@ -184,6 +202,7 @@ vs:
  - Grattan, James
  - Griffith, Ty
  - Gushue, Brad
+ - Hagen, Brandon
  - Harnden, E.J.
  - Harnden, Eric
  - Harnden, Ryan
@@ -221,6 +240,7 @@ vs:
  - MacKenzie, Tyler
  - Mallais, Jeremy
  - Manners, Scott
+ - March, Tim
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
@@ -228,11 +248,14 @@ vs:
  - McCarville, Mike
  - McDermaid, Donald
  - McEwen, Mike
+ - McKinnon, Robert
+ - NcNeil-Lamswood, Ryan
  - Mead, Jonathan
  - Menard, Jean-Michel
  - Menard, Philippe
  - Merklinger, Bill
  - Middaugh, Wayne
+ - Mikkelsen, Dustin
  - Mittelstadt, Kelly
  - Morgan, Tyler
  - Morris, John
@@ -242,12 +265,15 @@ vs:
  - Muyres, Dallan
  - Muyres, Kirk
  - Naugler, Tom
+ - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
  - Odishaw, Grant
  - Odishaw, Terry
  - O'Rourke, Mark
+ - Patzer, Brad
+ - Peech, Alexander
  - Pfeifer, Scott
  - Pinder, Jordan
  - Quevillon, Louis

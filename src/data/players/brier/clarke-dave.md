@@ -72,7 +72,7 @@ vs:
  - Park, Kevin
  - Peddigrew, Ken
  - Perroud, Pat
- - Power, Joe
+ - Power, Joseph Jr.
  - Richard, Gerry
  - Ryan, Jeff
  - Ryan, Pat

@@ -1,6 +1,6 @@
 ---
-title: Tyrel Griffith Head-to-head
-name: Griffith, Tyrel
+title: Ty Griffith Head-to-head
+name: Griffith, Ty
 vs:
  - name: Gushue, Brad
    totals:

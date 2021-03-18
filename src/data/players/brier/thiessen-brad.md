@@ -4,19 +4,19 @@ name: Brad Thiessen
 name-sort: Thiessen, Brad
 totals:
  - event: Brier
-   games: 52
-   wins: 34
-   losses: 18
-   inturn-total: 438
-   inturn-percent: 85
-   outturn-total: 529
+   games: 66
+   wins: 45
+   losses: 21
+   inturn-total: 546
+   inturn-percent: 86
+   outturn-total: 687
    outturn-percent: 86
-   draw-total: 402
-   draw-percent: 86
-   takeout-total: 565
+   draw-total: 527
+   draw-percent: 87
+   takeout-total: 706
    takeout-percent: 85
-   shots-total: 967
-   shots-percent: 85
+   shots-total: 1233
+   shots-percent: 86
 years:
  - year: 2017
    event: Brier
@@ -86,8 +86,26 @@ years:
    takeout-percent: 86
    shots-total: 246
    shots-percent: 85
+ - year: 2021
+   event: Brier
+   team: "AB"
+   position: Second
+   games: 14
+   wins: 11
+   losses: 3
+   inturn-total: 108
+   inturn-percent: 88
+   outturn-total: 158
+   outturn-percent: 87
+   draw-total: 125
+   draw-percent: 88
+   takeout-total: 141
+   takeout-percent: 87
+   shots-total: 266
+   shots-percent: 87
 vs:
  - Abel, Clinton
+ - Aho, David
  - Appelman, Tom
  - Asselin, Emile
  - Bedard, Alek
@@ -119,9 +137,11 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Geall, Sean
+ - Grattan, James
  - Griffith, Ty
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
@@ -154,23 +174,30 @@ vs:
  - Marsh, Dan
  - Marsh, Kevin
  - Mathers, David
+ - McCann, Andy
  - McDonald, Scott
  - McEwen, Mike
+ - McKinnon, Robert
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe
+ - Middaugh, Wayne
+ - Mikkelsen, Dustin
  - Morris, John
  - Moskowy, Braeden
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
  - Nabuurs, Matt
+ - Naugler, Tom
  - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
  - Njegovan, Connor
  - O'Rourke, Mark
+ - Patzer, Brad
+ - Peech, Alexander
  - Pinder, Jordan
  - Quevillon, Louis
  - Rach, Dave
@@ -190,6 +217,7 @@ vs:
  - Stapleton, Connor
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tardi, Tyler
  - Taylor, Andrew
  - Walker, Geoff
  - Withycombe, Ian

@@ -43,7 +43,7 @@ vs:
  - Dunstone, Matthew
  - Epping, John
  - Fry, Ryan
- - Griffith, Tyrel
+ - Griffith, Ty
  - Harnden, E.J.
  - Harnden, Ryan
  - Hebert, Ben

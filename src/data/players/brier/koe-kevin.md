@@ -4,18 +4,18 @@ name: Kevin Koe
 name-sort: Koe, Kevin
 totals:
  - event: Brier
-   games: 106
-   wins: 79
-   losses: 27
-   inturn-total: 715
+   games: 119
+   wins: 89
+   losses: 30
+   inturn-total: 812
    inturn-percent: 83
-   outturn-total: 1227
+   outturn-total: 1364
    outturn-percent: 87
-   draw-total: 731
+   draw-total: 812
    draw-percent: 84
-   takeout-total: 1211
+   takeout-total: 1364
    takeout-percent: 86
-   shots-total: 1942
+   shots-total: 2176
    shots-percent: 85
 years:
  - year: 2010
@@ -154,18 +154,38 @@ years:
    takeout-percent: 89
    shots-total: 214
    shots-percent: 87
+ - year: 2021
+   event: Brier
+   team: "WC"
+   position: Fourth
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 97
+   inturn-percent: 86
+   outturn-total: 137
+   outturn-percent: 86
+   draw-total: 81
+   draw-percent: 85
+   takeout-total: 153
+   takeout-percent: 87
+   shots-total: 234
+   shots-percent: 86
 vs:
  - Aho, David
  - Anderson, Chris
  - Ardiel, Taylor
  - Armstrong, Mike
+ - Asselin, Felix
  - Balsdon, Greg
  - Bardsley, Mike
  - Barry, Josh
+ - Bartling, Aaron
  - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
  - Bice, Steve
+ - Blyde, Greg
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
@@ -179,6 +199,7 @@ vs:
  - Charest, Jean-Francois
  - Childs, Jamie
  - Chorostkowski, Brad
+ - Chown, Jeff
  - Clarey, Sean
  - Collin, Simon
  - Colter, Travis
@@ -198,9 +219,11 @@ vs:
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
  - Flaxey, Caleb
+ - Flemming, Paul
  - Folk, Kevin
  - Forget, Wes
  - Forrest, Alex
+ - Fournier, Mike
  - Fowler, Rob
  - Fry, Ryan
  - Gallant, Brett
@@ -218,6 +241,7 @@ vs:
  - Hart, Richard
  - Hodgson, Colin
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Scott
  - Howard, Steven
  - Jacobs, Brad
@@ -240,6 +264,7 @@ vs:
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
+ - Lowery, Ryan
  - Lyburn, Allan
  - MacDonald, Rod
  - MacKenzie, Eddie
@@ -248,6 +273,7 @@ vs:
  - MacLean, Stuart
  - Mallais, Jeremy
  - Manners, Scott
+ - March, Tim
  - Markowsky, Rob
  - Marsh, Dan
  - Marsh, Kevin
@@ -257,6 +283,8 @@ vs:
  - McCann, Andy
  - McCarville, Mike
  - McDermaid, Donald
+ - McDonah, Alex
+ - McDonah, Evan
  - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
@@ -307,8 +335,11 @@ vs:
  - Shypitka, Tom
  - Simmons, Pat
  - Skauge, Greg
+ - Smith, Greg
  - Smith, Kent
+ - Smith, Tyler
  - Spencer, Adam
+ - St.Louis, Brady
  - St.Louis, David
  - Steele, Colten
  - Stoughton, Jeff
@@ -316,6 +347,7 @@ vs:
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thompson, Stuart
+ - Trepanier, Jean-Francois
  - Vaughan, Jason
  - Villeneuve, Steeve
  - Walker, Geoff

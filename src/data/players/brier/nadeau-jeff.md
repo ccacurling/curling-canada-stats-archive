@@ -4,19 +4,19 @@ name: Jeff Nadeau
 name-sort: Nadeau, Jeff
 totals:
  - event: Brier
-   games: 15
+   games: 22
    wins: 0
-   losses: 15
-   inturn-total: 28
-   inturn-percent: 64
-   outturn-total: 224
-   outturn-percent: 67
-   draw-total: 153
-   draw-percent: 68
-   takeout-total: 99
-   takeout-percent: 65
-   shots-total: 252
-   shots-percent: 66
+   losses: 22
+   inturn-total: 75
+   inturn-percent: 58
+   outturn-total: 278
+   outturn-percent: 66
+   draw-total: 183
+   draw-percent: 62
+   takeout-total: 170
+   takeout-percent: 67
+   shots-total: 353
+   shots-percent: 65
 years:
  - year: 2018
    event: Brier
@@ -52,6 +52,56 @@ years:
    takeout-percent: 65
    shots-total: 114
    shots-percent: 64
+ - year: 2021
+   event: Brier
+   team: "NU"
+   position: Second
+   games: 4
+   wins: 0
+   losses: 4
+   inturn-total: 23
+   inturn-percent: 55
+   outturn-total: 36
+   outturn-percent: 65
+   draw-total: 22
+   draw-percent: 39
+   takeout-total: 37
+   takeout-percent: 75
+   shots-total: 59
+   shots-percent: 61
+ - year: 2021
+   event: Brier
+   team: "NU"
+   position: Third
+   games: 3
+   wins: 0
+   losses: 3
+   inturn-total: 24
+   inturn-percent: 52
+   outturn-total: 18
+   outturn-percent: 64
+   draw-total: 8
+   draw-percent: 25
+   takeout-total: 34
+   takeout-percent: 65
+   shots-total: 42
+   shots-percent: 57
+ - year: 2021
+   event: Brier
+   team: Totals
+   games: 7
+   wins: 0
+   losses: 7
+   inturn-total: 47
+   inturn-percent: 54
+   outturn-total: 54
+   outturn-percent: 65
+   draw-total: 30
+   draw-percent: 35
+   takeout-total: 71
+   takeout-percent: 70
+   shots-total: 101
+   shots-percent: 60
 vs:
  - Aho, David
  - Appelman, Ted
@@ -61,12 +111,16 @@ vs:
  - Asselin, Felix
  - Barry, Josh
  - Beuk, Jonathan
+ - Blyde, Greg
+ - Boland, Adam
+ - Caione, Michael
  - Camm, Mathew
  - Carruthers, Reid
  - Case, Peter
  - Chadwick, Scott
  - Colter, Travis
  - Cotter, Jim
+ - Crete, Martin
  - Dion, William
  - Dunstone, Matthew
  - Epping, John
@@ -82,23 +136,31 @@ vs:
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
+ - Hebert, Ben
  - Hodgson, Colin
  - Horgan, Tanner
  - Ireland, Clint
  - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Kidby, Dustin
  - Koe, Jamie
  - Koe, Kevin
+ - Laing, Brent
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
+ - Lowery, Ryan
  - MacKenzie, Eddie
  - MacPhee, Bill
  - March, Tim
  - McCann, Andy
+ - McDonah, Alex
+ - McDonah, Evan
  - McDonald, Scott
  - McLeod, Shadrach
+ - NcNeil-Lamswood, Ryan
+ - Morris, John
  - Moskowy, Braeden
  - Muyres, Dallan
  - Muyres, Kirk
@@ -114,6 +176,8 @@ vs:
  - Sawatsky, Rick
  - Scoffin, Thomas
  - Scoffin, Wade
+ - Smith, Greg
+ - Smith, Tyler
  - Steele, Colten
  - Thompson, Stuart
  - Trepanier, Jean-Francois

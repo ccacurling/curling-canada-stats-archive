@@ -1,7 +1,7 @@
 ---
-title: Toby Jr McDonald
-name: Toby Jr McDonald
-name-sort: McDonald, Toby Jr
+title: Toby Jr. McDonald
+name: Toby Jr. McDonald
+name-sort: McDonald, Toby Jr.
 totals:
  - event: Brier
    games: 0

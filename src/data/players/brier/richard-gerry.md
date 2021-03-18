@@ -168,7 +168,7 @@ vs:
  - Petryk, Steve
  - Philip, Dan
  - Piggott, Steve
- - Power, Joe
+ - Power, Joseph Jr.
  - Robertson, Richard
  - Rowe, Gary
  - Rudd, Don

@@ -251,7 +251,7 @@ vs:
  - Petryk, Steve
  - Philip, Dan
  - Piggott, Steve
- - Power, Joe
+ - Power, Joseph Jr.
  - Roach, Terry
  - Robertson, Richard
  - Rodd, Roy

@@ -4,18 +4,18 @@ name: Ryan Harnden
 name-sort: Harnden, Ryan
 totals:
  - event: Brier
-   games: 136
-   wins: 92
-   losses: 44
-   inturn-total: 895
+   games: 148
+   wins: 99
+   losses: 49
+   inturn-total: 1022
    inturn-percent: 87
-   outturn-total: 1613
+   outturn-total: 1712
    outturn-percent: 88
-   draw-total: 1764
+   draw-total: 1923
    draw-percent: 90
-   takeout-total: 744
+   takeout-total: 811
    takeout-percent: 83
-   shots-total: 2508
+   shots-total: 2734
    shots-percent: 88
 years:
  - year: 2008
@@ -205,6 +205,23 @@ years:
    takeout-percent: 84
    shots-total: 252
    shots-percent: 89
+ - year: 2021
+   event: Brier
+   team: "NO"
+   position: Lead
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 127
+   inturn-percent: 94
+   outturn-total: 99
+   outturn-percent: 89
+   draw-total: 159
+   draw-percent: 95
+   takeout-total: 67
+   takeout-percent: 82
+   shots-total: 226
+   shots-percent: 92
 vs:
  - Abel, Clinton
  - Adam, Gerry
@@ -280,6 +297,7 @@ vs:
  - Griffith, Ty
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
  - Harris, Tyler
  - Hart, Richard
  - Hebert, Ben
@@ -342,12 +360,14 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
+ - McKinnon, Robert
  - Meachem, Shaun Myles
  - Mead, Jonathan
  - Menard, Jean-Michel
  - Menard, Philippe
  - Merklinger, Bill
  - Middaugh, Wayne
+ - Mikkelsen, Dustin
  - Mittelstadt, Kelly
  - Morris, John
  - Moskowy, Braeden
@@ -359,6 +379,7 @@ vs:
  - Nadeau, Jeff
  - Nason, Paul
  - Naugler, Tom
+ - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
  - Newson, Jamie
@@ -372,6 +393,8 @@ vs:
  - O'Rourke, Mark
  - Palmer, Curt
  - Park, Kevin
+ - Patzer, Brad
+ - Peech, Alexander
  - Pinder, Jordan
  - Quevillon, Louis
  - Rafuse, Brian
@@ -394,6 +417,7 @@ vs:
  - Sharp, Jeff
  - Shypitka, Tom
  - Simmons, Pat
+ - Skauge, Greg
  - Slauenwhite, David
  - Smallwood, Robert
  - Smith, Garth

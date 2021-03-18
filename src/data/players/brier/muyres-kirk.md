@@ -4,18 +4,18 @@ name: Kirk Muyres
 name-sort: Muyres, Kirk
 totals:
  - event: Brier
-   games: 57
-   wins: 30
-   losses: 27
-   inturn-total: 605
+   games: 70
+   wins: 39
+   losses: 31
+   inturn-total: 722
    inturn-percent: 86
-   outturn-total: 504
+   outturn-total: 630
    outturn-percent: 83
-   draw-total: 445
+   draw-total: 539
    draw-percent: 83
-   takeout-total: 664
-   takeout-percent: 86
-   shots-total: 1109
+   takeout-total: 813
+   takeout-percent: 85
+   shots-total: 1352
    shots-percent: 85
 years:
  - year: 2014
@@ -103,15 +103,34 @@ years:
    takeout-percent: 81
    shots-total: 197
    shots-percent: 79
+ - year: 2021
+   event: Brier
+   team: "SK"
+   position: Second
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 117
+   inturn-percent: 88
+   outturn-total: 126
+   outturn-percent: 81
+   draw-total: 94
+   draw-percent: 86
+   takeout-total: 149
+   takeout-percent: 84
+   shots-total: 243
+   shots-percent: 85
 vs:
  - Abel, Clinton
  - Asselin, Felix
  - Balsdon, Greg
  - Bardsley, Mike
  - Barry, Josh
+ - Bartling, Aaron
  - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
+ - Blyde, Greg
  - Boland, Adam
  - Borden, Robert
  - Bottcher, Brendan
@@ -125,6 +144,7 @@ vs:
  - Chadwick, Scott
  - Childs, Jamie
  - Chorostkowski, Brad
+ - Chown, Jeff
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
@@ -144,6 +164,7 @@ vs:
  - Gallant, Chris
  - Grattan, James
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -152,6 +173,7 @@ vs:
  - Hodgson, Colin
  - Horgan, Tanner
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Scott
  - Jacobs, Brad
  - Janssen, Patrick
@@ -172,6 +194,7 @@ vs:
  - Ledgerwood, Sean
  - Lemay, Philippe
  - Likely, John
+ - Lowery, Ryan
  - MacKenzie, Eddie
  - MacKenzie, Tyler
  - Mackey, Peter
@@ -182,11 +205,14 @@ vs:
  - McCann, Andy
  - McCarville, Mike
  - McDermaid, Donald
+ - McDonah, Alex
+ - McDonah, Evan
  - McDonald, Scott
  - McEwen, Mike
  - Mead, Jonathan
  - Menard, Jean-Michel
  - Menard, Philippe
+ - Middaugh, Wayne
  - Morgan, Tyler
  - Morris, John
  - Moskowy, Braeden
@@ -197,6 +223,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Odian, Scott
  - Pinder, Jordan
  - Roach, Darren
@@ -209,8 +236,11 @@ vs:
  - Schille, Chris
  - Simmons, Pat
  - Smallwood, Robert
+ - Smith, Greg
+ - Smith, Tyler
  - Solberg, Jonathon
  - Spencer, Adam
+ - St.Louis, Brady
  - St.Louis, David
  - Stoughton, Jeff
  - Sylvain, Eric

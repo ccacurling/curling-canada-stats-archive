@@ -4,18 +4,18 @@ name: Phil Crowell
 name-sort: Crowell, Phil
 totals:
  - event: Brier
-   games: 40
-   wins: 15
-   losses: 25
-   inturn-total: 474
+   games: 48
+   wins: 19
+   losses: 29
+   inturn-total: 571
    inturn-percent: 87
-   outturn-total: 261
-   outturn-percent: 84
-   draw-total: 678
+   outturn-total: 311
+   outturn-percent: 85
+   draw-total: 810
    draw-percent: 87
-   takeout-total: 57
-   takeout-percent: 75
-   shots-total: 735
+   takeout-total: 72
+   takeout-percent: 78
+   shots-total: 882
    shots-percent: 86
 years:
  - year: 2010
@@ -86,12 +86,32 @@ years:
    takeout-percent: 73
    shots-total: 126
    shots-percent: 86
+ - year: 2021
+   event: Brier
+   team: "NS"
+   position: Lead
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 97
+   inturn-percent: 90
+   outturn-total: 50
+   outturn-percent: 90
+   draw-total: 132
+   draw-percent: 90
+   takeout-total: 15
+   takeout-percent: 88
+   shots-total: 147
+   shots-percent: 90
 vs:
  - Anderson, Chris
  - Appelman, Tom
  - Asselin, Emile
+ - Asselin, Felix
  - Bedard, Alek
  - Bice, Steve
+ - Blyde, Greg
+ - Boland, Adam
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
@@ -101,6 +121,7 @@ vs:
  - Casey, Adam
  - Champion, Kevin
  - Chorostkowski, Brad
+ - Chown, Jeff
  - Cochrane, Bryan
  - Collin, Simon
  - Cotter, Jim
@@ -111,6 +132,7 @@ vs:
  - Fecteau, Steve
  - Flaxey, Caleb
  - Forrest, Alex
+ - Fournier, Mike
  - Fowler, Rob
  - Fry, Ryan
  - Gallant, Brett
@@ -125,9 +147,11 @@ vs:
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
+ - Hebert, Ben
  - Higgs, Jake
  - Hodgson, Colin
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Scott
  - Howard, Steven
  - Hunt, Matthew
@@ -146,15 +170,21 @@ vs:
  - Laing, Brent
  - Laycock, Steve
  - LeCocq, Marc
+ - Ledgerwood, Sean
  - Lequin, Bradley
+ - Lowery, Ryan
  - MacAulay, Ian
  - MacDonald, Blake
  - MacDonald, Edmund
  - MacDonald, Rod
+ - MacKenzie, Eddie
+ - Mackey, Peter
  - March, Tim
  - Markowsky, Rob
  - Martin, Karrick
  - Mathers, David
+ - McDonah, Alex
+ - McDonah, Evan
  - McEwen, Mike
  - McKee, Darrell
  - Meachem, Shaun Myles
@@ -188,13 +218,16 @@ vs:
  - Scoffin, Wade
  - Shypitka, Tom
  - Smith, Greg
+ - Smith, Tyler
  - Solberg, Jonathon
+ - St.Louis, Brady
  - Stoughton, Jeff
  - Sylvain, Eric
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thomas, Rob
+ - Trepanier, Jean-Francois
  - Vaughan, Jason
  - Villeneuve, Steeve
  - Walker, Geoff

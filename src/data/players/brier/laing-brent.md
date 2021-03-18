@@ -4,18 +4,18 @@ name: Brent Laing
 name-sort: Laing, Brent
 totals:
  - event: Brier
-   games: 174
-   wins: 132
-   losses: 42
-   inturn-total: 1596
+   games: 186
+   wins: 139
+   losses: 47
+   inturn-total: 1713
    inturn-percent: 88
-   outturn-total: 1639
-   outturn-percent: 88
-   draw-total: 1452
+   outturn-total: 1737
+   outturn-percent: 89
+   draw-total: 1651
    draw-percent: 88
-   takeout-total: 1783
+   takeout-total: 1799
    takeout-percent: 88
-   shots-total: 3235
+   shots-total: 3450
    shots-percent: 88
 years:
  - year: 2002
@@ -239,12 +239,30 @@ years:
    takeout-percent: 79
    shots-total: 238
    shots-percent: 92
+ - year: 2021
+   event: Brier
+   team: "ON"
+   position: Lead
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 117
+   inturn-percent: 91
+   outturn-total: 98
+   outturn-percent: 94
+   draw-total: 199
+   draw-percent: 93
+   takeout-total: 16
+   takeout-percent: 83
+   shots-total: 215
+   shots-percent: 92
 vs:
  - Adam, Gerry
  - Adams, Shawn
  - Aho, David
  - Anderson, Chris
  - Armstrong, Mike
+ - Asselin, Felix
  - Atchison, Chris
  - Bardsley, Mike
  - Barker, Richard
@@ -255,6 +273,7 @@ vs:
  - Bilesky, Andrew
  - Bitz, Scott
  - Blanchard, Ben
+ - Blyde, Greg
  - Borden, Robert
  - Bottcher, Brendan
  - Bouchard, Christian
@@ -276,6 +295,7 @@ vs:
  - Champion, Kevin
  - Charette, Pierre
  - Chorostkowski, Brad
+ - Chown, Jeff
  - Clarey, Sean
  - Collin, Simon
  - Collins, Ron
@@ -307,6 +327,7 @@ vs:
  - Flemming, Paul
  - Folk, Kevin
  - Forrest, Alex
+ - Fournier, Mike
  - Fowler, Rob
  - Fraser, Pierre
  - Fry, Ryan
@@ -343,6 +364,7 @@ vs:
  - Hopkins, Jeff
  - Horning, Deane
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Russ
  - Howard, Scott
  - Howard, Steven
@@ -385,6 +407,7 @@ vs:
  - Lemay, Philippe
  - Likely, John
  - Lohnes, Bruce
+ - Lowery, Ryan
  - Lukowich, Mark
  - Lyburn, Allan
  - Lyburn, William
@@ -395,9 +418,11 @@ vs:
  - MacKenzie, Eddie
  - MacKenzie, Kevin
  - MacKenzie, Tyler
+ - Mackey, Peter
  - MacLean, Stuart
  - Mallais, Jeremy
  - Manners, Scott
+ - March, Tim
  - Markowsky, Rob
  - Martin, Karrick
  - Martin, Kevin
@@ -407,6 +432,9 @@ vs:
  - McCann, Andy
  - McCusker, Brian
  - McDermaid, Donald
+ - McDonah, Alex
+ - McDonah, Evan
+ - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
  - McLeod, Shadrach
@@ -414,6 +442,7 @@ vs:
  - Mead, Jonathan
  - Menard, Jean-Michel
  - Menard, Philippe
+ - Middaugh, Wayne
  - Mikkelsen, Ray
  - Mittelstadt, Kelly
  - Morris, John
@@ -424,6 +453,7 @@ vs:
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Nantes, Dave
  - Naugler, Tom
  - Nedohin, David
@@ -480,10 +510,13 @@ vs:
  - Simmons, Pat
  - Slauenwhite, David
  - Smith, Garth
+ - Smith, Greg
  - Smith, Jeff
  - Smith, Kent
+ - Smith, Tyler
  - Solberg, Jonathon
  - Spencer, Adam
+ - St.Louis, Brady
  - Stoughton, Jeff
  - Stuart, Darol
  - Suchy, Chris
@@ -493,6 +526,7 @@ vs:
  - Thiessen, Brad
  - Thiessen, Nolan
  - Toner, Lee
+ - Trepanier, Jean-Francois
  - Turpin, Randy
  - Ursel, Bob
  - Van Den Berghe, Garry

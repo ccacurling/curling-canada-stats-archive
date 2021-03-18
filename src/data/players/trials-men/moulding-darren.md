@@ -43,7 +43,7 @@ vs:
  - Epping, John
  - Fry, Ryan
  - Gallant, Brett
- - Griffith, Tyrel
+ - Griffith, Ty
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan

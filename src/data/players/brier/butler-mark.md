@@ -387,7 +387,7 @@ vs:
  - Piggott, Steve
  - Pinsent, Garry
  - Power, Humphrey
- - Power, Joe
+ - Power, Joseph Jr.
  - Rajala, Howard
  - Ramcharan, Rudy
  - Reddick, Don

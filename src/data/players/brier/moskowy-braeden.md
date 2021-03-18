@@ -4,19 +4,19 @@ name: Braeden Moskowy
 name-sort: Moskowy, Braeden
 totals:
  - event: Brier
-   games: 46
-   wins: 22
-   losses: 24
-   inturn-total: 420
-   inturn-percent: 84
-   outturn-total: 454
-   outturn-percent: 86
-   draw-total: 346
-   draw-percent: 83
-   takeout-total: 528
-   takeout-percent: 86
-   shots-total: 874
-   shots-percent: 85
+   games: 59
+   wins: 31
+   losses: 28
+   inturn-total: 554
+   inturn-percent: 85
+   outturn-total: 564
+   outturn-percent: 87
+   draw-total: 436
+   draw-percent: 84
+   takeout-total: 682
+   takeout-percent: 87
+   shots-total: 1118
+   shots-percent: 86
 years:
  - year: 2013
    event: Brier
@@ -86,12 +86,31 @@ years:
    takeout-percent: 85
    shots-total: 252
    shots-percent: 84
+ - year: 2021
+   event: Brier
+   team: "SK"
+   position: Third
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 134
+   inturn-percent: 90
+   outturn-total: 110
+   outturn-percent: 88
+   draw-total: 90
+   draw-percent: 88
+   takeout-total: 154
+   takeout-percent: 89
+   shots-total: 244
+   shots-percent: 89
 vs:
  - Aho, David
  - Asselin, Felix
  - Barry, Josh
+ - Bartling, Aaron
  - Bezanson, Jared
  - Bilesky, Andrew
+ - Blyde, Greg
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
@@ -102,6 +121,7 @@ vs:
  - Case, Peter
  - Casey, Adam
  - Chorostkowski, Brad
+ - Chown, Jeff
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
@@ -129,6 +149,7 @@ vs:
  - Hebert, Ben
  - Hodgson, Colin
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Scott
  - Jacobs, Brad
  - Janssen, Patrick
@@ -144,6 +165,7 @@ vs:
  - Laing, Brent
  - Laycock, Steve
  - Ledgerwood, Sean
+ - Lowery, Ryan
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - Mackey, Peter
@@ -153,6 +175,9 @@ vs:
  - Martin, Kevin
  - Mathers, David
  - McCann, Andy
+ - McDonah, Alex
+ - McDonah, Evan
+ - McDonald, Scott
  - McEwen, Mike
  - McLeod, Shadrach
  - Mead, Jonathan
@@ -183,7 +208,10 @@ vs:
  - Sawatsky, Rick
  - Scoffin, Thomas
  - Simmons, Pat
+ - Smith, Greg
  - Smith, Kent
+ - Smith, Tyler
+ - St.Louis, Brady
  - St.Louis, David
  - Stoughton, Jeff
  - Sylvain, Eric

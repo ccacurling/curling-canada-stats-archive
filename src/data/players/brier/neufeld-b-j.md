@@ -4,18 +4,18 @@ name: B.J. Neufeld
 name-sort: Neufeld, B.J.
 totals:
  - event: Brier
-   games: 63
-   wins: 45
-   losses: 18
-   inturn-total: 546
+   games: 76
+   wins: 55
+   losses: 21
+   inturn-total: 671
    inturn-percent: 88
-   outturn-total: 632
-   outturn-percent: 86
-   draw-total: 382
+   outturn-total: 745
+   outturn-percent: 87
+   draw-total: 481
    draw-percent: 84
-   takeout-total: 796
-   takeout-percent: 88
-   shots-total: 1178
+   takeout-total: 935
+   takeout-percent: 89
+   shots-total: 1416
    shots-percent: 87
 years:
  - year: 2016
@@ -103,11 +103,31 @@ years:
    takeout-percent: 88
    shots-total: 216
    shots-percent: 86
+ - year: 2021
+   event: Brier
+   team: "WC"
+   position: Third
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 125
+   inturn-percent: 85
+   outturn-total: 113
+   outturn-percent: 90
+   draw-total: 99
+   draw-percent: 84
+   takeout-total: 139
+   takeout-percent: 90
+   shots-total: 238
+   shots-percent: 88
 vs:
  - Aho, David
  - Appelman, Tom
  - Ardiel, Taylor
+ - Asselin, Felix
+ - Bartling, Aaron
  - Beuk, Jonathan
+ - Blyde, Greg
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
@@ -117,6 +137,7 @@ vs:
  - Casey, Adam
  - Chadwick, Scott
  - Chorostkowski, Brad
+ - Chown, Jeff
  - Colter, Travis
  - Cotter, Jim
  - Crete, Martin
@@ -130,6 +151,7 @@ vs:
  - Flemming, Paul
  - Forget, Wes
  - Forrest, Alex
+ - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
  - Geall, Sean
@@ -143,6 +165,7 @@ vs:
  - Hebert, Ben
  - Hodgson, Colin
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Scott
  - Hunt, Matthew
  - Jacobs, Brad
@@ -159,6 +182,9 @@ vs:
  - Laing, Brent
  - Laycock, Steve
  - LeCocq, Marc
+ - Ledgerwood, Sean
+ - Lowery, Ryan
+ - MacKenzie, Eddie
  - Mackey, Peter
  - March, Tim
  - Marsh, Dan
@@ -166,12 +192,15 @@ vs:
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
+ - McDonah, Alex
+ - McDonah, Evan
  - McDonald, Scott
  - McEwen, Mike
  - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe
+ - Middaugh, Wayne
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -198,7 +227,9 @@ vs:
  - Scoffin, Wade
  - Simmons, Pat
  - Smith, Greg
+ - Smith, Tyler
  - Spencer, Adam
+ - St.Louis, Brady
  - St.Louis, David
  - Steele, Colten
  - Sylvain, Eric
@@ -206,9 +237,11 @@ vs:
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thompson, Stuart
+ - Trepanier, Jean-Francois
  - Walker, Geoff
  - Wallingham, Joe
  - Winfield, Brett
  - Withycombe, Ian
  - Wood, Brad
+ - Wozniak, Matt
 ---

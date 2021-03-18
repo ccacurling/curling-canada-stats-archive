@@ -4,19 +4,19 @@ name: Matt Wozniak
 name-sort: Wozniak, Matt
 totals:
  - event: Brier
-   games: 38
-   wins: 25
-   losses: 13
-   inturn-total: 361
-   inturn-percent: 89
-   outturn-total: 359
-   outturn-percent: 89
-   draw-total: 270
-   draw-percent: 88
-   takeout-total: 450
-   takeout-percent: 90
-   shots-total: 720
-   shots-percent: 89
+   games: 50
+   wins: 31
+   losses: 19
+   inturn-total: 442
+   inturn-percent: 88
+   outturn-total: 495
+   outturn-percent: 87
+   draw-total: 390
+   draw-percent: 87
+   takeout-total: 547
+   takeout-percent: 88
+   shots-total: 937
+   shots-percent: 88
 years:
  - year: 2016
    event: Brier
@@ -77,8 +77,26 @@ years:
    event: Brier
    team: "WC"
    position: Alternate
+ - year: 2021
+   event: Brier
+   team: "MB"
+   position: Second
+   games: 12
+   wins: 6
+   losses: 6
+   inturn-total: 81
+   inturn-percent: 84
+   outturn-total: 136
+   outturn-percent: 83
+   draw-total: 120
+   draw-percent: 85
+   takeout-total: 97
+   takeout-percent: 81
+   shots-total: 217
+   shots-percent: 83
 vs:
  - Appelman, Tom
+ - Beuk, Jonathan
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
@@ -99,8 +117,10 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Geall, Sean
+ - Grattan, James
  - Griffith, Ty
  - Gushue, Brad
+ - Hagen, Brandon
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
@@ -124,17 +144,27 @@ vs:
  - March, Tim
  - Martin, Karrick
  - Mathers, David
+ - McCann, Andy
+ - McEwen, Mike
+ - McKinnon, Robert
+ - NcNeil-Lamswood, Ryan
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe
+ - Middaugh, Wayne
+ - Mikkelsen, Dustin
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Naugler, Tom
  - Nerpin, Andrew
+ - Neufeld, B.J.
  - Nichols, Mark
+ - Patzer, Brad
+ - Peech, Alexander
  - Pinder, Jordan
  - Richard, Jeff
  - Rycroft, Carter
@@ -146,6 +176,7 @@ vs:
  - Scoffin, Thomas
  - Scoffin, Wade
  - Simmons, Pat
+ - Skauge, Greg
  - Smith, Greg
  - Spencer, Adam
  - Sylvain, Eric

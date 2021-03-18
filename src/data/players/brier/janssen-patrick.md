@@ -4,19 +4,19 @@ name: Patrick Janssen
 name-sort: Janssen, Patrick
 totals:
  - event: Brier
-   games: 14
-   wins: 10
+   games: 15
+   wins: 11
    losses: 4
-   inturn-total: 138
+   inturn-total: 144
    inturn-percent: 86
    outturn-total: 118
    outturn-percent: 85
-   draw-total: 109
+   draw-total: 113
    draw-percent: 83
-   takeout-total: 147
+   takeout-total: 149
    takeout-percent: 87
-   shots-total: 256
-   shots-percent: 85
+   shots-total: 262
+   shots-percent: 86
 years:
  - year: 2018
    event: Brier
@@ -52,9 +52,28 @@ years:
    takeout-percent: 63
    shots-total: 10
    shots-percent: 80
+ - year: 2021
+   event: Brier
+   team: "AB"
+   position: Lead
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 6
+   inturn-percent: 100
+   outturn-total: 0
+   outturn-percent:
+   draw-total: 4
+   draw-percent: 100
+   takeout-total: 2
+   takeout-percent: 100
+   shots-total: 6
+   shots-percent: 100
 vs:
+ - Aho, David
  - Asselin, Felix
  - Barry, Josh
+ - Borden, Robert
  - Bottcher, Brendan
  - Carruthers, Reid
  - Case, Peter
@@ -90,12 +109,15 @@ vs:
  - Muyres, Dallan
  - Muyres, Kirk
  - Nadeau, Jeff
+ - Naugler, Tom
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
  - O'Rourke, Mark
+ - Patzer, Brad
  - Saccary, Scott
  - Samagalski, Derek
+ - Skauge, Greg
  - St.Louis, David
  - Thiessen, Brad
  - Trepanier, Jean-Francois

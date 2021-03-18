@@ -4,18 +4,18 @@ name: Geoff Walker
 name-sort: Walker, Geoff
 totals:
  - event: Brier
-   games: 114
-   wins: 81
-   losses: 33
-   inturn-total: 899
-   inturn-percent: 91
-   outturn-total: 1259
+   games: 126
+   wins: 89
+   losses: 37
+   inturn-total: 992
+   inturn-percent: 90
+   outturn-total: 1383
    outturn-percent: 89
-   draw-total: 1818
-   draw-percent: 92
-   takeout-total: 340
+   draw-total: 1994
+   draw-percent: 91
+   takeout-total: 381
    takeout-percent: 78
-   shots-total: 2158
+   shots-total: 2375
    shots-percent: 89
 years:
  - year: 2012
@@ -171,21 +171,41 @@ years:
    takeout-percent: 76
    shots-total: 259
    shots-percent: 90
+ - year: 2021
+   event: Brier
+   team: "CA"
+   position: Lead
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 93
+   inturn-percent: 84
+   outturn-total: 124
+   outturn-percent: 89
+   draw-total: 176
+   draw-percent: 90
+   takeout-total: 41
+   takeout-percent: 73
+   shots-total: 217
+   shots-percent: 87
 vs:
  - Aho, David
  - Appelman, Tom
  - Ardiel, Taylor
  - Armstrong, Mike
  - Asselin, Emile
+ - Asselin, Felix
  - Balsdon, Greg
  - Bardsley, Mike
  - Barry, Josh
+ - Bartling, Aaron
  - Bedard, Alek
  - Bedard, Daniel
  - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
  - Bilesky, Andrew
+ - Blyde, Greg
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
@@ -199,6 +219,7 @@ vs:
  - Charest, Jean-Francois
  - Childs, Jamie
  - Chorostkowski, Brad
+ - Chown, Jeff
  - Clarey, Sean
  - Cochrane, Bryan
  - Colter, Travis
@@ -223,9 +244,11 @@ vs:
  - Folk, Kevin
  - Forget, Wes
  - Forrest, Alex
+ - Fournier, Mike
  - Fowler, Rob
  - Fry, Ryan
  - Gaudet, Mike
+ - Gauthier, Jacques
  - Geall, Sean
  - Giddens, Ryan
  - Grattan, James
@@ -241,6 +264,7 @@ vs:
  - Hodgson, Colin
  - Horgan, Tanner
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Scott
  - Hunt, Matthew
  - Jacobs, Brad
@@ -263,6 +287,7 @@ vs:
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Lequin, Bradley
+ - Lowery, Ryan
  - Lyburn, Allan
  - MacAulay, Ian
  - MacDonald, Edmund
@@ -281,6 +306,8 @@ vs:
  - McCann, Andy
  - McCarville, Mike
  - McDermaid, Donald
+ - McDonah, Alex
+ - McDonah, Evan
  - McDonald, Scott
  - McEwen, Mike
  - Meachem, Shaun Myles
@@ -328,6 +355,7 @@ vs:
  - Skauge, Greg
  - Smith, Greg
  - Smith, Kent
+ - Smith, Tyler
  - Smitheram, Christian
  - Spencer, Adam
  - St.Louis, David
@@ -338,6 +366,7 @@ vs:
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thompson, Stuart
+ - Trepanier, Jean-Francois
  - Villeneuve, Steeve
  - Virtue, Brock
  - Watson, Aaron

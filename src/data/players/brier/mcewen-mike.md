@@ -4,18 +4,18 @@ name: Mike McEwen
 name-sort: McEwen, Mike
 totals:
  - event: Brier
-   games: 61
-   wins: 38
-   losses: 23
-   inturn-total: 487
+   games: 69
+   wins: 42
+   losses: 27
+   inturn-total: 544
    inturn-percent: 84
-   outturn-total: 649
-   outturn-percent: 86
-   draw-total: 422
+   outturn-total: 736
+   outturn-percent: 85
+   draw-total: 489
    draw-percent: 85
-   takeout-total: 714
+   takeout-total: 791
    takeout-percent: 85
-   shots-total: 1136
+   shots-total: 1280
    shots-percent: 85
 years:
  - year: 2016
@@ -103,6 +103,23 @@ years:
    takeout-percent: 88
    shots-total: 219
    shots-percent: 89
+ - year: 2021
+   event: Brier
+   team: "WC"
+   position: Fourth
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 57
+   inturn-percent: 85
+   outturn-total: 87
+   outturn-percent: 78
+   draw-total: 67
+   draw-percent: 83
+   takeout-total: 77
+   takeout-percent: 79
+   shots-total: 144
+   shots-percent: 81
 vs:
  - Abel, Clinton
  - Aho, David
@@ -139,6 +156,7 @@ vs:
  - Griffith, Ty
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
@@ -170,22 +188,28 @@ vs:
  - Mathers, David
  - McCann, Andy
  - McDonald, Scott
+ - McKinnon, Robert
  - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe
+ - Middaugh, Wayne
+ - Mikkelsen, Dustin
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Naugler, Tom
  - Nerpin, Andrew
  - Neufeld, B.J.
  - Nichols, Mark
  - Njegovan, Connor
  - Odian, Scott
  - Parsons, Cole
+ - Patzer, Brad
+ - Peech, Alexander
  - Pinder, Jordan
  - Rach, Dave
  - Richard, Jeff
@@ -198,6 +222,7 @@ vs:
  - Scoffin, Thomas
  - Scoffin, Wade
  - Simmons, Pat
+ - Skauge, Greg
  - Smallwood, Robert
  - Smith, Greg
  - Solberg, Jonathon
@@ -212,4 +237,5 @@ vs:
  - Winfield, Brett
  - Withycombe, Ian
  - Wood, Brad
+ - Wozniak, Matt
 ---

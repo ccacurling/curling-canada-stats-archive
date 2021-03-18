@@ -4,18 +4,18 @@ name: John Epping
 name-sort: Epping, John
 totals:
  - event: Brier
-   games: 26
-   wins: 17
-   losses: 9
-   inturn-total: 274
-   inturn-percent: 82
-   outturn-total: 208
-   outturn-percent: 84
-   draw-total: 194
-   draw-percent: 81
-   takeout-total: 288
-   takeout-percent: 85
-   shots-total: 482
+   games: 38
+   wins: 24
+   losses: 14
+   inturn-total: 383
+   inturn-percent: 83
+   outturn-total: 312
+   outturn-percent: 82
+   draw-total: 281
+   draw-percent: 82
+   takeout-total: 414
+   takeout-percent: 83
+   shots-total: 695
    shots-percent: 83
 years:
  - year: 2018
@@ -52,16 +52,36 @@ years:
    takeout-percent: 82
    shots-total: 237
    shots-percent: 80
+ - year: 2021
+   event: Brier
+   team: "ON"
+   position: Fourth
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 109
+   inturn-percent: 85
+   outturn-total: 104
+   outturn-percent: 79
+   draw-total: 87
+   draw-percent: 85
+   takeout-total: 126
+   takeout-percent: 80
+   shots-total: 213
+   shots-percent: 82
 vs:
  - Aho, David
  - Asselin, Felix
  - Barry, Josh
+ - Blyde, Greg
  - Bottcher, Brendan
  - Brannen, Jamie
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
+ - Chown, Jeff
  - Cotter, Jim
+ - Crete, Martin
  - Crowell, Phil
  - Dion, William
  - Dobson, Paul
@@ -80,6 +100,8 @@ vs:
  - Harnden, Ryan
  - Hebert, Ben
  - Hodgson, Colin
+ - Howard, Greg
+ - Howard, Scott
  - Jacobs, Brad
  - Jeffrey, Chris
  - Jensen, Trygg
@@ -90,12 +112,20 @@ vs:
  - Koe, Kevin
  - Laycock, Steve
  - Ledgerwood, Sean
+ - Lowery, Ryan
  - MacKenzie, Eddie
  - Mackey, Peter
+ - March, Tim
  - Martin, Karrick
+ - Mathers, David
  - McCann, Andy
+ - McDonah, Alex
+ - McDonah, Evan
+ - McDonald, Scott
  - McEwen, Mike
  - McLeod, Shadrach
+ - Middaugh, Wayne
+ - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
  - Murphy, Jamie
@@ -113,6 +143,9 @@ vs:
  - Sawatsky, Rick
  - Schneider, Catlin
  - Scoffin, Thomas
+ - Smith, Greg
+ - Smith, Tyler
+ - St.Louis, Brady
  - St.Louis, David
  - Thiessen, Brad
  - Trepanier, Jean-Francois

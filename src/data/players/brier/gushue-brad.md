@@ -4,18 +4,18 @@ name: Brad Gushue
 name-sort: Gushue, Brad
 totals:
  - event: Brier
-   games: 211
-   wins: 143
-   losses: 68
-   inturn-total: 1577
+   games: 223
+   wins: 151
+   losses: 72
+   inturn-total: 1681
    inturn-percent: 85
-   outturn-total: 2356
+   outturn-total: 2469
    outturn-percent: 85
-   draw-total: 1717
-   draw-percent: 84
-   takeout-total: 2216
+   draw-total: 1817
+   draw-percent: 85
+   takeout-total: 2333
    takeout-percent: 86
-   shots-total: 3933
+   shots-total: 4150
    shots-percent: 85
 years:
  - year: 2003
@@ -307,6 +307,23 @@ years:
    takeout-percent: 90
    shots-total: 261
    shots-percent: 91
+ - year: 2021
+   event: Brier
+   team: "CA"
+   position: Fourth
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 104
+   inturn-percent: 90
+   outturn-total: 113
+   outturn-percent: 87
+   draw-total: 100
+   draw-percent: 87
+   takeout-total: 117
+   takeout-percent: 90
+   shots-total: 217
+   shots-percent: 88
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -317,12 +334,14 @@ vs:
  - Armstrong, Mike
  - Arsenault, Craig
  - Asselin, Emile
+ - Asselin, Felix
  - Atchison, Chris
  - Bailey, Scott
  - Balsdon, Greg
  - Bardsley, Mike
  - Barker, Richard
  - Barry, Josh
+ - Bartling, Aaron
  - Base, John
  - Bedard, Alek
  - Bedard, Daniel
@@ -333,6 +352,7 @@ vs:
  - Bilesky, Andrew
  - Bitz, Scott
  - Blanchard, Wade
+ - Blyde, Greg
  - Borden, Robert
  - Bottcher, Brendan
  - Bouchard, Christian
@@ -359,6 +379,7 @@ vs:
  - Charette, Pierre
  - Childs, Jamie
  - Chorostkowski, Brad
+ - Chown, Jeff
  - Clarey, Sean
  - Cochrane, Bryan
  - Collin, Simon
@@ -401,6 +422,7 @@ vs:
  - Folk, Kevin
  - Forget, Wes
  - Forrest, Alex
+ - Fournier, Mike
  - Fowler, Rob
  - Frans, Joe
  - Fraser, Pierre
@@ -412,6 +434,7 @@ vs:
  - Gallant, Peter
  - Gamble, Bill
  - Gaudet, Mike
+ - Gauthier, Jacques
  - Gavin, Martin
  - Geall, Sean
  - Gibson, Andrew
@@ -447,6 +470,7 @@ vs:
  - Horgan, Tanner
  - Horning, Deane
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Russ
  - Howard, Scott
  - Howard, Steven
@@ -495,6 +519,7 @@ vs:
  - Lindsay, Tim
  - Loevenmark, Phil
  - Lohnes, Bruce
+ - Lowery, Ryan
  - Lyburn, Allan
  - MacAulay, Ian
  - MacDonald, Blake
@@ -520,6 +545,8 @@ vs:
  - McCarrel, Graeme
  - McCarville, Mike
  - McDermaid, Donald
+ - McDonah, Alex
+ - McDonah, Evan
  - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
@@ -604,6 +631,7 @@ vs:
  - Smith, Garth
  - Smith, Greg
  - Smith, Kent
+ - Smith, Tyler
  - Smitheram, Christian
  - Solberg, Jonathon
  - Sosiak, Jim
@@ -623,6 +651,7 @@ vs:
  - Thompson, Stuart
  - Thomson, Fred
  - Toner, Lee
+ - Trepanier, Jean-Francois
  - Trevellyan, Todd
  - Turpin, Randy
  - Ursel, Bob

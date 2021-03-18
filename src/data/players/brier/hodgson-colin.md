@@ -4,18 +4,18 @@ name: Colin Hodgson
 name-sort: Hodgson, Colin
 totals:
  - event: Brier
-   games: 45
-   wins: 22
-   losses: 23
-   inturn-total: 304
-   inturn-percent: 90
-   outturn-total: 530
+   games: 53
+   wins: 26
+   losses: 27
+   inturn-total: 360
+   inturn-percent: 89
+   outturn-total: 620
    outturn-percent: 94
-   draw-total: 731
+   draw-total: 857
    draw-percent: 93
-   takeout-total: 103
+   takeout-total: 123
    takeout-percent: 87
-   shots-total: 834
+   shots-total: 980
    shots-percent: 92
 years:
  - year: 2015
@@ -86,6 +86,23 @@ years:
    takeout-percent: 91
    shots-total: 226
    shots-percent: 93
+ - year: 2021
+   event: Brier
+   team: "WC"
+   position: Lead
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 56
+   inturn-percent: 88
+   outturn-total: 90
+   outturn-percent: 92
+   draw-total: 126
+   draw-percent: 92
+   takeout-total: 20
+   takeout-percent: 84
+   shots-total: 146
+   shots-percent: 91
 vs:
  - Abel, Clinton
  - Aho, David
@@ -126,6 +143,7 @@ vs:
  - Griffith, Ty
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
  - Harnden, E.J.
  - Harnden, Ryan
  - Hebert, Ben
@@ -158,9 +176,12 @@ vs:
  - McCann, Andy
  - McDonald, Scott
  - McEwen, Mike
+ - McKinnon, Robert
  - McLeod, Shadrach
  - Menard, Jean-Michel
  - Menard, Philippe
+ - Middaugh, Wayne
+ - Mikkelsen, Dustin
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -168,6 +189,7 @@ vs:
  - Muyres, Dallan
  - Muyres, Kirk
  - Nadeau, Jeff
+ - Naugler, Tom
  - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
@@ -175,6 +197,8 @@ vs:
  - Njegovan, Connor
  - Odian, Scott
  - Parsons, Cole
+ - Patzer, Brad
+ - Peech, Alexander
  - Rach, Dave
  - Rycroft, Carter
  - Saccary, Scott
@@ -182,6 +206,7 @@ vs:
  - Schneider, Catlin
  - Scoffin, Thomas
  - Simmons, Pat
+ - Skauge, Greg
  - Smallwood, Robert
  - Solberg, Jonathon
  - St.Louis, David

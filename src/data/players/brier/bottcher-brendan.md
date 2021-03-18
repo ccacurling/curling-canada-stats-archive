@@ -4,18 +4,18 @@ name: Brendan Bottcher
 name-sort: Bottcher, Brendan
 totals:
  - event: Brier
-   games: 52
-   wins: 34
-   losses: 18
-   inturn-total: 544
+   games: 66
+   wins: 45
+   losses: 21
+   inturn-total: 704
    inturn-percent: 86
-   outturn-total: 404
+   outturn-total: 503
    outturn-percent: 82
-   draw-total: 384
-   draw-percent: 80
-   takeout-total: 564
+   draw-total: 488
+   draw-percent: 81
+   takeout-total: 719
    takeout-percent: 87
-   shots-total: 948
+   shots-total: 1207
    shots-percent: 84
 years:
  - year: 2017
@@ -86,8 +86,26 @@ years:
    takeout-percent: 90
    shots-total: 241
    shots-percent: 87
+ - year: 2021
+   event: Brier
+   team: "AB"
+   position: Fourth
+   games: 14
+   wins: 11
+   losses: 3
+   inturn-total: 160
+   inturn-percent: 88
+   outturn-total: 99
+   outturn-percent: 83
+   draw-total: 104
+   draw-percent: 86
+   takeout-total: 155
+   takeout-percent: 86
+   shots-total: 259
+   shots-percent: 86
 vs:
  - Abel, Clinton
+ - Aho, David
  - Appelman, Tom
  - Asselin, Emile
  - Bedard, Alek
@@ -119,9 +137,11 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Geall, Sean
+ - Grattan, James
  - Griffith, Ty
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
@@ -154,23 +174,30 @@ vs:
  - Marsh, Dan
  - Marsh, Kevin
  - Mathers, David
+ - McCann, Andy
  - McDonald, Scott
  - McEwen, Mike
+ - McKinnon, Robert
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe
+ - Middaugh, Wayne
+ - Mikkelsen, Dustin
  - Morris, John
  - Moskowy, Braeden
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
  - Nabuurs, Matt
+ - Naugler, Tom
  - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
  - Njegovan, Connor
  - O'Rourke, Mark
+ - Patzer, Brad
+ - Peech, Alexander
  - Pinder, Jordan
  - Quevillon, Louis
  - Rach, Dave
@@ -190,6 +217,7 @@ vs:
  - Stapleton, Connor
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tardi, Tyler
  - Taylor, Andrew
  - Walker, Geoff
  - Withycombe, Ian

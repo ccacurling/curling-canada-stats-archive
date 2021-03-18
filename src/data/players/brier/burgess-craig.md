@@ -228,7 +228,7 @@ vs:
  - Phillips, Tim
  - Pielak, Rod
  - Porter, Geoff
- - Power, Joe
+ - Power, Joseph Jr.
  - Ravndal, Clayton
  - Richard, Gerry
  - Roberge, Francois

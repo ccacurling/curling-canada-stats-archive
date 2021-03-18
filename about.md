@@ -38,6 +38,11 @@ Dave Thomas
 
 ## Changelog
 
+### 2021-03-18
+
+ * Added 2021 Brier data.
+ * Misc fixes across all mens events.
+
 ### 2021-03-12
 
  * Added 2021 Hearts data.

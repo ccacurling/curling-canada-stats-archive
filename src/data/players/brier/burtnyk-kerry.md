@@ -245,7 +245,7 @@ vs:
  - Perroud, Pat
  - Pfeifer, Scott
  - Pinsent, Garry
- - Power, Joe
+ - Power, Joseph Jr.
  - Rafuse, Brian
  - Ravndal, Clayton
  - Richard, Gerry

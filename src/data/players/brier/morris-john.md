@@ -4,18 +4,18 @@ name: John Morris
 name-sort: Morris, John
 totals:
  - event: Brier
-   games: 126
-   wins: 92
-   losses: 34
-   inturn-total: 937
+   games: 139
+   wins: 102
+   losses: 37
+   inturn-total: 1027
    inturn-percent: 86
-   outturn-total: 1386
-   outturn-percent: 86
-   draw-total: 912
-   draw-percent: 86
-   takeout-total: 1411
+   outturn-total: 1534
+   outturn-percent: 87
+   draw-total: 1033
+   draw-percent: 85
+   takeout-total: 1528
    takeout-percent: 87
-   shots-total: 2323
+   shots-total: 2561
    shots-percent: 86
 years:
  - year: 2002
@@ -238,14 +238,33 @@ years:
    takeout-percent: 92
    shots-total: 4
    shots-percent: 88
+ - year: 2021
+   event: Brier
+   team: "WC"
+   position: Second
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 90
+   inturn-percent: 84
+   outturn-total: 148
+   outturn-percent: 89
+   draw-total: 121
+   draw-percent: 84
+   takeout-total: 117
+   takeout-percent: 90
+   shots-total: 238
+   shots-percent: 87
 vs:
  - Adam, Gerry
  - Adams, Shawn
+ - Asselin, Felix
  - Atchison, Chris
  - Balsdon, Greg
  - Bardsley, Mike
  - Barker, Richard
  - Barry, Josh
+ - Bartling, Aaron
  - Berthelot, Marco
  - Bezanson, Jared
  - Bice, Mark
@@ -253,6 +272,7 @@ vs:
  - Bilesky, Andrew
  - Bitz, Scott
  - Blanchard, Ben
+ - Blyde, Greg
  - Borden, Robert
  - Bottcher, Brendan
  - Bouchard, Christian
@@ -273,6 +293,7 @@ vs:
  - Charette, Pierre
  - Childs, Jamie
  - Chorostkowski, Brad
+ - Chown, Jeff
  - Collins, Ron
  - Cotter, Jim
  - Cowan, Chad
@@ -288,10 +309,12 @@ vs:
  - Dillon, Mike
  - Dobson, Paul
  - Doherty, Robert
+ - Dunstone, Matthew
  - Eldridge, Zach
  - Elias, Dave
  - Elmaleh, Maxime
  - Eloranta, Drew
+ - Epping, John
  - Errington, Derek
  - Farnell, Jamie
  - Ferbey, Randy
@@ -301,6 +324,7 @@ vs:
  - Flaxey, Caleb
  - Flemming, Paul
  - Folk, Kevin
+ - Fournier, Mike
  - Fowler, Rob
  - Fraser, Pierre
  - Fry, Ryan
@@ -316,6 +340,7 @@ vs:
  - Granchelli, Kris
  - Grattan, James
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, Al
  - Harnden, E.J.
@@ -328,6 +353,7 @@ vs:
  - Hopkins, Jeff
  - Horning, Deane
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Russ
  - Howard, Scott
  - Howard, Steven
@@ -366,19 +392,25 @@ vs:
  - Lemay, Philippe
  - Likely, John
  - Lohnes, Bruce
+ - Lowery, Ryan
  - Lukowich, Mark
  - MacDonald, Rod
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - MacKenzie, Kevin
  - MacKenzie, Tyler
+ - Mackey, Peter
  - Mallais, Jeremy
+ - March, Tim
  - Martin, Karrick
  - Maskiewich, Ken
  - Mathers, David
  - McCarville, Mike
  - McCusker, Brian
  - McDermaid, Donald
+ - McDonah, Alex
+ - McDonah, Evan
+ - McDonald, Scott
  - McEwen, Mike
  - Meachem, Shaun Myles
  - Mead, Jonathan
@@ -393,12 +425,14 @@ vs:
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Nantes, Dave
  - Naugler, Tom
  - Nedohin, David
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Noftall, David
  - Noseworthy, Mark
  - Odishaw, Grant
@@ -435,10 +469,13 @@ vs:
  - Simmons, Pat
  - Slauenwhite, David
  - Smith, Garth
+ - Smith, Greg
  - Smith, Jeff
  - Smith, Kent
+ - Smith, Tyler
  - Solberg, Jonathon
  - Spencer, Adam
+ - St.Louis, Brady
  - Stoughton, Jeff
  - Stuart, Darol
  - Suchy, Chris
@@ -447,6 +484,7 @@ vs:
  - Thiessen, Brad
  - Thiessen, Nolan
  - Toner, Lee
+ - Trepanier, Jean-Francois
  - Turpin, Randy
  - Ursel, Bob
  - Vaughan, Jason

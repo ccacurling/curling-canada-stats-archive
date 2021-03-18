@@ -90,6 +90,7 @@ vs:
  - Jakubo, Mike
  - Joanisse, Dean
  - Kalthoff, Kevin
+ - Keefe, Kevin
  - Kilgallen, Shane
  - Lacey, Jeff
  - MacDonald, Peter

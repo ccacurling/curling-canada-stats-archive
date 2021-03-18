@@ -4,19 +4,19 @@ name: Mathew Camm
 name-sort: Camm, Mathew
 totals:
  - event: Brier
-   games: 37
-   wins: 22
-   losses: 15
-   inturn-total: 371
-   inturn-percent: 86
-   outturn-total: 321
-   outturn-percent: 85
-   draw-total: 268
-   draw-percent: 87
-   takeout-total: 424
-   takeout-percent: 84
-   shots-total: 692
-   shots-percent: 85
+   games: 49
+   wins: 29
+   losses: 20
+   inturn-total: 479
+   inturn-percent: 85
+   outturn-total: 429
+   outturn-percent: 82
+   draw-total: 372
+   draw-percent: 85
+   takeout-total: 536
+   takeout-percent: 83
+   shots-total: 908
+   shots-percent: 84
 years:
  - year: 2015
    event: Brier
@@ -69,11 +69,29 @@ years:
    takeout-percent: 85
    shots-total: 238
    shots-percent: 85
+ - year: 2021
+   event: Brier
+   team: "ON"
+   position: Second
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 108
+   inturn-percent: 82
+   outturn-total: 108
+   outturn-percent: 76
+   draw-total: 104
+   draw-percent: 81
+   takeout-total: 112
+   takeout-percent: 77
+   shots-total: 216
+   shots-percent: 79
 vs:
  - Aho, David
  - Asselin, Felix
  - Barry, Josh
  - Bezanson, Jared
+ - Blyde, Greg
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
@@ -82,6 +100,7 @@ vs:
  - Case, Peter
  - Casey, Adam
  - Chorostkowski, Brad
+ - Chown, Jeff
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
@@ -105,6 +124,8 @@ vs:
  - Harnden, Ryan
  - Hebert, Ben
  - Hodgson, Colin
+ - Howard, Greg
+ - Howard, Scott
  - Jacobs, Brad
  - Jeffrey, Chris
  - Jensen, Trygg
@@ -117,15 +138,22 @@ vs:
  - Laing, Brent
  - Laycock, Steve
  - Ledgerwood, Sean
+ - Lowery, Ryan
  - MacKenzie, Eddie
  - Mackey, Peter
  - Mallais, Jeremy
+ - March, Tim
  - Martin, Karrick
+ - Mathers, David
  - McCann, Andy
+ - McDonah, Alex
+ - McDonah, Evan
+ - McDonald, Scott
  - McEwen, Mike
  - McLeod, Shadrach
  - Menard, Jean-Michel
  - Menard, Philippe
+ - Middaugh, Wayne
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -146,6 +174,9 @@ vs:
  - Schneider, Catlin
  - Scoffin, Thomas
  - Simmons, Pat
+ - Smith, Greg
+ - Smith, Tyler
+ - St.Louis, Brady
  - St.Louis, David
  - Sylvain, Eric
  - Thiessen, Brad

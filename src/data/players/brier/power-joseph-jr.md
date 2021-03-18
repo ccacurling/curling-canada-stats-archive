@@ -1,7 +1,7 @@
 ---
-title: Joe Power
-name: Joe Power
-name-sort: Power, Joe
+title: Joseph Jr. Power
+name: Joseph Jr. Power
+name-sort: Power, Joseph Jr.
 totals:
  - event: Brier
    games: 11

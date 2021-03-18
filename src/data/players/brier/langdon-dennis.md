@@ -57,6 +57,7 @@ vs:
  - Iskiw, Blayne
  - Joanisse, Dean
  - Kalthoff, Kevin
+ - Keefe, Kevin
  - Lacey, Jeff
  - MacDonald, Peter
  - McCarrel, Graeme

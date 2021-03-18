@@ -198,7 +198,7 @@ vs:
       year: 2017
       draw: Round Robin(4)
       score: Bott 5 - Gush 6
- - name: Griffith, Tyrel
+ - name: Griffith, Ty
    totals:
     - event: Trials(Men)
       player1:

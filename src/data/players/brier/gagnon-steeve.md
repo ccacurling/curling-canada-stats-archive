@@ -124,7 +124,7 @@ vs:
  - Peddigrew, Ken
  - Perroud, Pat
  - Pfeifer, Scott
- - Power, Joe
+ - Power, Joseph Jr.
  - Recksiedler, Kevin
  - Richard, Gerry
  - Rocque, Marcel

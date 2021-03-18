@@ -247,7 +247,7 @@ vs:
  - Petryk, Steve
  - Philip, Dan
  - Piggott, Steve
- - Power, Joe
+ - Power, Joseph Jr.
  - Rajala, Howard
  - Reynolds, Brett
  - Roach, Terry

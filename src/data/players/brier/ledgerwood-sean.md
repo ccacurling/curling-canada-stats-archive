@@ -4,19 +4,19 @@ name: Sean Ledgerwood
 name-sort: Ledgerwood, Sean
 totals:
  - event: Brier
-   games: 41
-   wins: 11
-   losses: 30
-   inturn-total: 385
-   inturn-percent: 88
-   outturn-total: 351
-   outturn-percent: 86
-   draw-total: 653
-   draw-percent: 88
-   takeout-total: 83
-   takeout-percent: 80
-   shots-total: 736
-   shots-percent: 87
+   games: 48
+   wins: 12
+   losses: 36
+   inturn-total: 448
+   inturn-percent: 87
+   outturn-total: 412
+   outturn-percent: 84
+   draw-total: 723
+   draw-percent: 87
+   takeout-total: 137
+   takeout-percent: 79
+   shots-total: 860
+   shots-percent: 86
 years:
  - year: 2004
    event: Brier
@@ -86,6 +86,23 @@ years:
    takeout-percent: 90
    shots-total: 135
    shots-percent: 89
+ - year: 2021
+   event: Brier
+   team: "PE"
+   position: Second
+   games: 7
+   wins: 1
+   losses: 6
+   inturn-total: 63
+   inturn-percent: 80
+   outturn-total: 61
+   outturn-percent: 75
+   draw-total: 70
+   draw-percent: 79
+   takeout-total: 54
+   takeout-percent: 76
+   shots-total: 124
+   shots-percent: 78
 vs:
  - Asselin, Felix
  - Balsdon, Greg
@@ -94,6 +111,7 @@ vs:
  - Base, John
  - Bice, Mark
  - Bilesky, Andrew
+ - Blyde, Greg
  - Borden, Robert
  - Breckon, Graham
  - Burnett, Steve
@@ -104,8 +122,10 @@ vs:
  - Cayouette, Maurice
  - Childs, Jamie
  - Chorostkowski, Brad
+ - Chown, Jeff
  - Cotter, Jim
  - Crete, Martin
+ - Crowell, Phil
  - Currie, Jeff
  - Dacey, Mark
  - Dieno, Clint
@@ -139,6 +159,7 @@ vs:
  - Hodgson, Colin
  - Horgan, Tanner
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Russ
  - Hunt, Bruce
  - Hunt, Matthew
@@ -169,6 +190,9 @@ vs:
  - McCann, Andy
  - McCarville, Mike
  - McDermaid, Donald
+ - McDonah, Alex
+ - McDonah, Evan
+ - McDonald, Scott
  - Mead, Jonathan
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -185,6 +209,7 @@ vs:
  - Nadeau, Jeff
  - Naugler, Tom
  - Nedohin, David
+ - Neufeld, B.J.
  - Nichols, Mark
  - Odishaw, Grant
  - Peachy, Jay
@@ -196,6 +221,7 @@ vs:
  - Rocque, Marcel
  - Roy, Jean-Sebastien
  - Rycroft, Carter
+ - Saccary, Scott
  - Samagalski, Derek
  - Savill, Craig
  - Sawatsky, Rick
@@ -206,6 +232,7 @@ vs:
  - Smith, Greg
  - Smith, Kent
  - Spicer, Grant
+ - St.Louis, Brady
  - St.Louis, David
  - Stoughton, Jeff
  - Sumner, Kevin

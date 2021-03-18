@@ -500,7 +500,7 @@ vs:
  - Pinsent, Garry
  - Porter, Ryan
  - Power, Humphrey
- - Power, Joe
+ - Power, Joseph Jr.
  - Quevillon, Louis
  - Rafuse, Brian
  - Rajala, Howard

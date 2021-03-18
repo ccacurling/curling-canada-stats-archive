@@ -4,19 +4,19 @@ name: Darren Moulding
 name-sort: Moulding, Darren
 totals:
  - event: Brier
-   games: 52
-   wins: 34
-   losses: 18
-   inturn-total: 542
+   games: 66
+   wins: 45
+   losses: 21
+   inturn-total: 695
    inturn-percent: 85
-   outturn-total: 426
-   outturn-percent: 82
-   draw-total: 377
+   outturn-total: 539
+   outturn-percent: 83
+   draw-total: 475
    draw-percent: 83
-   takeout-total: 591
-   takeout-percent: 83
-   shots-total: 968
-   shots-percent: 83
+   takeout-total: 759
+   takeout-percent: 85
+   shots-total: 1234
+   shots-percent: 84
 years:
  - year: 2017
    event: Brier
@@ -86,8 +86,26 @@ years:
    takeout-percent: 86
    shots-total: 246
    shots-percent: 86
+ - year: 2021
+   event: Brier
+   team: "AB"
+   position: Third
+   games: 14
+   wins: 11
+   losses: 3
+   inturn-total: 153
+   inturn-percent: 87
+   outturn-total: 113
+   outturn-percent: 87
+   draw-total: 98
+   draw-percent: 82
+   takeout-total: 168
+   takeout-percent: 90
+   shots-total: 266
+   shots-percent: 87
 vs:
  - Abel, Clinton
+ - Aho, David
  - Appelman, Tom
  - Asselin, Emile
  - Bedard, Alek
@@ -119,9 +137,11 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Geall, Sean
+ - Grattan, James
  - Griffith, Ty
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
@@ -154,23 +174,30 @@ vs:
  - Marsh, Dan
  - Marsh, Kevin
  - Mathers, David
+ - McCann, Andy
  - McDonald, Scott
  - McEwen, Mike
+ - McKinnon, Robert
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe
+ - Middaugh, Wayne
+ - Mikkelsen, Dustin
  - Morris, John
  - Moskowy, Braeden
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
  - Nabuurs, Matt
+ - Naugler, Tom
  - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
  - Njegovan, Connor
  - O'Rourke, Mark
+ - Patzer, Brad
+ - Peech, Alexander
  - Pinder, Jordan
  - Quevillon, Louis
  - Rach, Dave
@@ -190,6 +217,7 @@ vs:
  - Stapleton, Connor
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tardi, Tyler
  - Taylor, Andrew
  - Walker, Geoff
  - Withycombe, Ian

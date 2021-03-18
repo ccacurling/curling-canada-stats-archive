@@ -4,19 +4,19 @@ name: Ryan Fry
 name-sort: Fry, Ryan
 totals:
  - event: Brier
-   games: 154
-   wins: 107
-   losses: 47
-   inturn-total: 1138
-   inturn-percent: 86
-   outturn-total: 1708
+   games: 166
+   wins: 114
+   losses: 52
+   inturn-total: 1244
+   inturn-percent: 85
+   outturn-total: 1818
    outturn-percent: 87
-   draw-total: 1004
+   draw-total: 1086
    draw-percent: 84
-   takeout-total: 1842
-   takeout-percent: 88
-   shots-total: 2846
-   shots-percent: 87
+   takeout-total: 1976
+   takeout-percent: 87
+   shots-total: 3062
+   shots-percent: 86
 years:
  - year: 2007
    event: Brier
@@ -222,6 +222,23 @@ years:
    takeout-percent: 87
    shots-total: 234
    shots-percent: 86
+ - year: 2021
+   event: Brier
+   team: "ON"
+   position: Third
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 106
+   inturn-percent: 77
+   outturn-total: 110
+   outturn-percent: 85
+   draw-total: 82
+   draw-percent: 79
+   takeout-total: 134
+   takeout-percent: 83
+   shots-total: 216
+   shots-percent: 81
 vs:
  - Abel, Clinton
  - Adam, Gerry
@@ -239,6 +256,7 @@ vs:
  - Bezanson, Jared
  - Bilesky, Andrew
  - Bitz, Scott
+ - Blyde, Greg
  - Boland, Adam
  - Borden, Robert
  - Bottcher, Brendan
@@ -257,6 +275,7 @@ vs:
  - Charest, Jean-Francois
  - Charette, Pierre
  - Chorostkowski, Brad
+ - Chown, Jeff
  - Clarey, Sean
  - Collin, Simon
  - Cotter, Jim
@@ -312,6 +331,7 @@ vs:
  - Hicke, Dean
  - Hodgson, Colin
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Russ
  - Howard, Scott
  - Howard, Steven
@@ -349,6 +369,7 @@ vs:
  - Lemay, Philippe
  - Likely, John
  - Lohnes, Bruce
+ - Lowery, Ryan
  - Lyburn, Allan
  - MacDonald, Blake
  - MacDonald, Rod
@@ -369,6 +390,8 @@ vs:
  - Mathers, David
  - McCann, Andy
  - McDermaid, Donald
+ - McDonah, Alex
+ - McDonah, Evan
  - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
@@ -432,9 +455,12 @@ vs:
  - Simmons, Pat
  - Smallwood, Robert
  - Smith, Donnie
+ - Smith, Greg
  - Smith, Kent
+ - Smith, Tyler
  - Solberg, Jonathon
  - Spencer, Adam
+ - St.Louis, Brady
  - St.Louis, David
  - Stoughton, Jeff
  - Sullivan, Charles Jr

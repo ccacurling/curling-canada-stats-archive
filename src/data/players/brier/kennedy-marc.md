@@ -4,19 +4,19 @@ name: Marc Kennedy
 name-sort: Kennedy, Marc
 totals:
  - event: Brier
-   games: 114
-   wins: 86
-   losses: 28
-   inturn-total: 1180
+   games: 126
+   wins: 93
+   losses: 33
+   inturn-total: 1304
    inturn-percent: 90
-   outturn-total: 916
-   outturn-percent: 89
-   draw-total: 762
-   draw-percent: 89
-   takeout-total: 1334
+   outturn-total: 1022
+   outturn-percent: 88
+   draw-total: 850
+   draw-percent: 88
+   takeout-total: 1476
    takeout-percent: 90
-   shots-total: 2096
-   shots-percent: 90
+   shots-total: 2326
+   shots-percent: 89
 years:
  - year: 2007
    event: Brier
@@ -171,6 +171,23 @@ years:
    takeout-percent: 93
    shots-total: 250
    shots-percent: 91
+ - year: 2021
+   event: Brier
+   team: "NO"
+   position: Third
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 124
+   inturn-percent: 87
+   outturn-total: 106
+   outturn-percent: 84
+   draw-total: 88
+   draw-percent: 83
+   takeout-total: 142
+   takeout-percent: 87
+   shots-total: 230
+   shots-percent: 86
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -180,6 +197,7 @@ vs:
  - Barry, Josh
  - Bedard, Alek
  - Berthelot, Marco
+ - Beuk, Jonathan
  - Bezanson, Jared
  - Bilesky, Andrew
  - Bitz, Scott
@@ -243,6 +261,7 @@ vs:
  - Griffith, Ty
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
  - Harnden, Al
  - Harnden, E.J.
  - Harnden, Ryan
@@ -290,16 +309,20 @@ vs:
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - Mallais, Jeremy
+ - March, Tim
  - Martin, Karrick
  - Maskiewich, Ken
  - Mathers, David
  - Mawhinney, Spencer
+ - McCann, Andy
  - McEwen, Mike
+ - McKinnon, Robert
  - Meachem, Shaun Myles
  - Mead, Jonathan
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Mikkelsen, Dustin
  - Mittelstadt, Kelly
  - Morris, John
  - Moskowy, Braeden
@@ -309,6 +332,7 @@ vs:
  - Muyres, Kirk
  - Nantes, Dave
  - Naugler, Tom
+ - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
@@ -319,6 +343,8 @@ vs:
  - Ouimet, Luc
  - Palmer, Curt
  - Park, Kevin
+ - Patzer, Brad
+ - Peech, Alexander
  - Pierce, Brent
  - Pinder, Jordan
  - Porter, Ryan
@@ -341,6 +367,7 @@ vs:
  - Seabrook, Scott
  - Sharp, Jeff
  - Simmons, Pat
+ - Skauge, Greg
  - Slauenwhite, David
  - Smith, Garth
  - Smith, Kent

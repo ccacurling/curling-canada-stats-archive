@@ -383,7 +383,7 @@ vs:
  - Piggott, Steve
  - Porter, Ryan
  - Power, Humphrey
- - Power, Joe
+ - Power, Joseph Jr.
  - Rajala, Howard
  - Ramcharan, Rudy
  - Reddick, Don

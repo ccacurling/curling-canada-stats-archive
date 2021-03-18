@@ -4,19 +4,19 @@ name: Andy McCann
 name-sort: McCann, Andy
 totals:
  - event: Brier
-   games: 28
-   wins: 11
-   losses: 17
-   inturn-total: 250
+   games: 36
+   wins: 15
+   losses: 21
+   inturn-total: 319
    inturn-percent: 80
-   outturn-total: 280
-   outturn-percent: 82
-   draw-total: 240
-   draw-percent: 80
-   takeout-total: 290
-   takeout-percent: 82
-   shots-total: 530
-   shots-percent: 81
+   outturn-total: 367
+   outturn-percent: 81
+   draw-total: 308
+   draw-percent: 81
+   takeout-total: 378
+   takeout-percent: 80
+   shots-total: 686
+   shots-percent: 80
 years:
  - year: 2008
    event: Brier
@@ -90,6 +90,23 @@ years:
    takeout-percent: 78
    shots-total: 134
    shots-percent: 78
+ - year: 2021
+   event: Brier
+   team: "NB"
+   position: Second
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 69
+   inturn-percent: 77
+   outturn-total: 87
+   outturn-percent: 78
+   draw-total: 68
+   draw-percent: 83
+   takeout-total: 88
+   takeout-percent: 73
+   shots-total: 156
+   shots-percent: 77
 vs:
  - Adam, Gerry
  - Aho, David
@@ -98,6 +115,7 @@ vs:
  - Bardsley, Mike
  - Barry, Josh
  - Borden, Robert
+ - Bottcher, Brendan
  - Camm, Mathew
  - Carruthers, Reid
  - Casey, Adam
@@ -121,7 +139,9 @@ vs:
  - Gaudet, Mike
  - Geall, Sean
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
  - Harnden, E.J.
  - Harnden, Ryan
  - Harris, Tyler
@@ -130,9 +150,11 @@ vs:
  - Hodgson, Colin
  - Horgan, Tanner
  - Howard, Glenn
+ - Howard, Scott
  - Jacobs, Brad
  - Janssen, Patrick
  - Jensen, Trygg
+ - Kennedy, Marc
  - Kidby, Dustin
  - Kingdon, Wade
  - Koe, Jamie
@@ -147,11 +169,17 @@ vs:
  - Mackey, Peter
  - Manners, Scott
  - March, Tim
+ - Martin, Karrick
+ - Mathers, David
  - McDermaid, Donald
  - McEwen, Mike
+ - McKinnon, Robert
  - McLeod, Shadrach
  - Middaugh, Wayne
+ - Mikkelsen, Ray
+ - Mikkelsen, Dustin
  - Moskowy, Braeden
+ - Moulding, Darren
  - Munroe, Steven
  - Murphy, Jamie
  - Muyres, Dallan
@@ -160,7 +188,9 @@ vs:
  - Naugler, Tom
  - Nerpin, Andrew
  - Neufeld, B.J.
+ - Njegovan, Connor
  - Parsons, Cole
+ - Patzer, Brad
  - Pinder, Jordan
  - Roy, Jean-Sebastien
  - Rycroft, Carter
@@ -173,11 +203,14 @@ vs:
  - Seabrook, Scott
  - Sharp, Jeff
  - Simmons, Pat
+ - Skauge, Greg
  - St.Louis, David
+ - Thiessen, Brad
  - Thiessen, Nolan
  - Trepanier, Jean-Francois
  - Walker, Geoff
  - Wallingham, Joe
  - Winfield, Brett
  - Wood, Brad
+ - Wozniak, Matt
 ---

@@ -4,19 +4,19 @@ name: Steve Laycock
 name-sort: Laycock, Steve
 totals:
  - event: Brier
-   games: 99
-   wins: 51
-   losses: 48
-   inturn-total: 1001
+   games: 107
+   wins: 54
+   losses: 53
+   inturn-total: 1089
    inturn-percent: 83
-   outturn-total: 909
-   outturn-percent: 84
-   draw-total: 1041
+   outturn-total: 975
+   outturn-percent: 83
+   draw-total: 1102
    draw-percent: 84
-   takeout-total: 869
+   takeout-total: 962
    takeout-percent: 83
-   shots-total: 1910
-   shots-percent: 84
+   shots-total: 2064
+   shots-percent: 83
 years:
  - year: 2007
    event: Brier
@@ -171,6 +171,23 @@ years:
    takeout-percent: 76
    shots-total: 128
    shots-percent: 77
+ - year: 2021
+   event: Brier
+   team: "BC"
+   position: Third
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 88
+   inturn-percent: 81
+   outturn-total: 66
+   outturn-percent: 77
+   draw-total: 61
+   draw-percent: 77
+   takeout-total: 93
+   takeout-percent: 81
+   shots-total: 154
+   shots-percent: 79
 vs:
  - Adams, Shawn
  - Aho, David
@@ -244,7 +261,9 @@ vs:
  - Gould, Steve
  - Grattan, James
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
  - Harnden, Al
  - Harnden, E.J.
  - Harnden, Eric
@@ -298,10 +317,13 @@ vs:
  - McDermaid, Donald
  - McDonald, Scott
  - McEwen, Mike
+ - McKinnon, Robert
  - McLeod, Shadrach
  - Mead, Jonathan
  - Menard, Jean-Michel
  - Menard, Philippe
+ - Middaugh, Wayne
+ - Mikkelsen, Dustin
  - Mittelstadt, Kelly
  - Morgan, Tyler
  - Morris, John
@@ -317,12 +339,15 @@ vs:
  - Neufeld, Denni
  - Ng, Matt
  - Nichols, Mark
+ - Njegovan, Connor
  - Noftall, David
  - Odishaw, Grant
  - Odishaw, Terry
  - O'Rourke, Mark
  - Palmer, Curt
  - Parsons, Cole
+ - Patzer, Brad
+ - Peech, Alexander
  - Pinder, Jordan
  - Porter, Ryan
  - Rafuse, Brian
@@ -340,6 +365,7 @@ vs:
  - Scoffin, Wade
  - Seabrook, Scott
  - Simmons, Pat
+ - Skauge, Greg
  - Slauenwhite, David
  - Smith, Garth
  - Spencer, Adam

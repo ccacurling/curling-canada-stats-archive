@@ -1,7 +1,7 @@
 ---
-title: Tyrel Griffith
-name: Tyrel Griffith
-name-sort: Griffith, Tyrel
+title: Ty Griffith
+name: Ty Griffith
+name-sort: Griffith, Ty
 totals:
  - event: Trials (Men)
    games: 16

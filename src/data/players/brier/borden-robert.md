@@ -4,19 +4,19 @@ name: Robert Borden
 name-sort: Borden, Robert
 totals:
  - event: Brier
-   games: 76
-   wins: 23
-   losses: 53
-   inturn-total: 910
-   inturn-percent: 88
-   outturn-total: 491
-   outturn-percent: 86
-   draw-total: 1251
+   games: 84
+   wins: 25
+   losses: 59
+   inturn-total: 1026
+   inturn-percent: 87
+   outturn-total: 517
+   outturn-percent: 85
+   draw-total: 1380
    draw-percent: 88
-   takeout-total: 150
+   takeout-total: 163
    takeout-percent: 75
-   shots-total: 1401
-   shots-percent: 87
+   shots-total: 1543
+   shots-percent: 86
 years:
  - year: 2012
    event: Brier
@@ -137,6 +137,23 @@ years:
    takeout-percent: 90
    shots-total: 140
    shots-percent: 86
+ - year: 2021
+   event: Brier
+   team: "NT"
+   position: Lead
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 116
+   inturn-percent: 83
+   outturn-total: 26
+   outturn-percent: 76
+   draw-total: 129
+   draw-percent: 82
+   takeout-total: 13
+   takeout-percent: 77
+   shots-total: 142
+   shots-percent: 82
 vs:
  - Appelman, Tom
  - Armstrong, Mike
@@ -145,6 +162,7 @@ vs:
  - Balsdon, Greg
  - Bardsley, Mike
  - Barry, Josh
+ - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
  - Bice, Steve
@@ -185,7 +203,9 @@ vs:
  - Gould, Steve
  - Grattan, James
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
  - Harnden, E.J.
  - Harnden, Eric
  - Harnden, Ryan
@@ -198,6 +218,7 @@ vs:
  - Howard, Scott
  - Hunt, Matthew
  - Jacobs, Brad
+ - Janssen, Patrick
  - Jeffrey, Chris
  - Jones, Scott
  - Kean, Mark
@@ -221,6 +242,7 @@ vs:
  - MacKenzie, Tyler
  - Mallais, Jeremy
  - Manners, Scott
+ - March, Tim
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
@@ -228,11 +250,13 @@ vs:
  - McCarville, Mike
  - McDermaid, Donald
  - McEwen, Mike
+ - McKinnon, Robert
  - Meachem, Shaun Myles
  - Mead, Jonathan
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Mikkelsen, Dustin
  - Mittelstadt, Kelly
  - Morgan, Tyler
  - Morris, John
@@ -246,8 +270,10 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Odishaw, Grant
  - Odishaw, Terry
+ - Peech, Alexander
  - Pinder, Jordan
  - Richard, Jeff
  - Roach, Darren

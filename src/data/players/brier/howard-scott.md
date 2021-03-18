@@ -4,19 +4,19 @@ name: Scott Howard
 name-sort: Howard, Scott
 totals:
  - event: Brier
-   games: 40
-   wins: 19
-   losses: 21
-   inturn-total: 353
+   games: 52
+   wins: 27
+   losses: 25
+   inturn-total: 474
    inturn-percent: 89
-   outturn-total: 314
-   outturn-percent: 88
-   draw-total: 583
+   outturn-total: 429
+   outturn-percent: 87
+   draw-total: 664
    draw-percent: 89
-   takeout-total: 84
-   takeout-percent: 82
-   shots-total: 667
-   shots-percent: 89
+   takeout-total: 239
+   takeout-percent: 86
+   shots-total: 903
+   shots-percent: 88
 years:
  - year: 2011
    event: Brier
@@ -153,13 +153,32 @@ years:
    takeout-percent: 84
    shots-total: 204
    shots-percent: 89
+ - year: 2021
+   event: Brier
+   team: "WC"
+   position: Third
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 121
+   inturn-percent: 88
+   outturn-total: 115
+   outturn-percent: 84
+   draw-total: 81
+   draw-percent: 83
+   takeout-total: 155
+   takeout-percent: 88
+   shots-total: 236
+   shots-percent: 86
 vs:
  - Barry, Josh
+ - Beuk, Jonathan
  - Bezanson, Jared
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
  - Breckon, Graham
+ - Camm, Mathew
  - Carmody, Anson
  - Carruthers, Reid
  - Casey, Adam
@@ -171,7 +190,9 @@ vs:
  - Desjardins, Robert
  - Dillon, Mike
  - Doherty, Robert
+ - Dunstone, Matthew
  - Eldridge, Zach
+ - Epping, John
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
  - Flemming, Paul
@@ -179,8 +200,11 @@ vs:
  - Gallant, Brett
  - Gaudet, Mike
  - Giddens, Ryan
+ - Grattan, James
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
  - Harnden, E.J.
  - Harnden, Ryan
  - Harris, Tyler
@@ -205,10 +229,13 @@ vs:
  - Mallais, Jeremy
  - Martin, Karrick
  - Mathers, David
+ - McCann, Andy
  - McEwen, Mike
+ - McKinnon, Robert
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe
+ - Mikkelsen, Dustin
  - Mittelstadt, Kelly
  - Morris, John
  - Moskowy, Braeden
@@ -218,10 +245,14 @@ vs:
  - Muyres, Dallan
  - Muyres, Kirk
  - Naugler, Tom
+ - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
  - Newson, Jamie
  - Nichols, Mark
+ - Njegovan, Connor
+ - Patzer, Brad
+ - Peech, Alexander
  - Pinder, Jordan
  - Roy, Jean-Sebastien
  - Rycroft, Carter
@@ -233,6 +264,7 @@ vs:
  - Schneider, Catlin
  - Schneider, Jamie
  - Simmons, Pat
+ - Skauge, Greg
  - Smith, Kent
  - Sylvain, Eric
  - Thiessen, Brad

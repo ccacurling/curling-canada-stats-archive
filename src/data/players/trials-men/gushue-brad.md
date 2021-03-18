@@ -73,7 +73,7 @@ vs:
  - Fry, Ryan
  - Gibson, Andrew
  - Gould, Steve
- - Griffith, Tyrel
+ - Griffith, Ty
  - Harnden, E.J.
  - Harnden, Ryan
  - Harris, Rob

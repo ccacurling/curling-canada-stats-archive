@@ -162,7 +162,7 @@ vs:
  - Petryk, Steve
  - Philip, Dan
  - Piggott, Steve
- - Power, Joe
+ - Power, Joseph Jr.
  - Richard, Gerry
  - Rocheleau, Serge
  - Ryan, Jeff

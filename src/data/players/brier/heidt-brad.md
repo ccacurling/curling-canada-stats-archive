@@ -119,7 +119,7 @@ vs:
  - Peddigrew, Ken
  - Perroud, Pat
  - Perry, Randy
- - Power, Joe
+ - Power, Joseph Jr.
  - Richard, Gerry
  - Rodd, Roy
  - Roemer, Al

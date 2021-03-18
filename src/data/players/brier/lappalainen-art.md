@@ -203,7 +203,7 @@ vs:
  - Petryk, Dan
  - Pfeifer, Scott
  - Piggott, Steve
- - Power, Joe
+ - Power, Joseph Jr.
  - Reddick, Don
  - Richard, Gerry
  - Robertson, Richard

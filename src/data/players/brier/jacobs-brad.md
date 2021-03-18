@@ -4,19 +4,19 @@ name: Brad Jacobs
 name-sort: Jacobs, Brad
 totals:
  - event: Brier
-   games: 144
-   wins: 96
-   losses: 48
-   inturn-total: 1194
+   games: 156
+   wins: 103
+   losses: 53
+   inturn-total: 1299
    inturn-percent: 82
-   outturn-total: 1460
+   outturn-total: 1580
    outturn-percent: 84
-   draw-total: 1115
+   draw-total: 1199
    draw-percent: 81
-   takeout-total: 1539
+   takeout-total: 1680
    takeout-percent: 85
-   shots-total: 2654
-   shots-percent: 84
+   shots-total: 2879
+   shots-percent: 83
 years:
  - year: 2007
    event: Brier
@@ -255,6 +255,23 @@ years:
    takeout-percent: 87
    shots-total: 252
    shots-percent: 87
+ - year: 2021
+   event: Brier
+   team: "NO"
+   position: Fourth
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 105
+   inturn-percent: 80
+   outturn-total: 120
+   outturn-percent: 82
+   draw-total: 84
+   draw-percent: 83
+   takeout-total: 141
+   takeout-percent: 80
+   shots-total: 225
+   shots-percent: 81
 vs:
  - Abel, Clinton
  - Adam, Gerry
@@ -335,6 +352,7 @@ vs:
  - Griffith, Ty
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
  - Harris, Tyler
  - Hart, Richard
  - Hebert, Ben
@@ -397,12 +415,14 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
+ - McKinnon, Robert
  - Meachem, Shaun Myles
  - Mead, Jonathan
  - Menard, Jean-Michel
  - Menard, Philippe
  - Merklinger, Bill
  - Middaugh, Wayne
+ - Mikkelsen, Dustin
  - Mittelstadt, Kelly
  - Morris, John
  - Moskowy, Braeden
@@ -415,6 +435,7 @@ vs:
  - Nantes, Dave
  - Nason, Paul
  - Naugler, Tom
+ - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
  - Newson, Jamie
@@ -427,6 +448,8 @@ vs:
  - O'Rourke, Mark
  - Palmer, Curt
  - Park, Kevin
+ - Patzer, Brad
+ - Peech, Alexander
  - Pinder, Jordan
  - Porter, Ryan
  - Quevillon, Louis
@@ -449,6 +472,7 @@ vs:
  - Sharp, Jeff
  - Shypitka, Tom
  - Simmons, Pat
+ - Skauge, Greg
  - Slauenwhite, David
  - Smallwood, Robert
  - Smith, Kent

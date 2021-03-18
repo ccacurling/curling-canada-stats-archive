@@ -2,684 +2,684 @@
 title: Glen Kennedy Head-to-head
 name: Kennedy, Glen
 vs:
- - name: Korab, Jamie        
-   totals:                   
+ - name: Korab, Jamie
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 85          
-        wins: 0              
-        losses: 2            
-      player2:               
-        percent: 91          
-        wins: 2              
-        losses: 0            
+      player1:
+        percent: 85
+        wins: 0
+        losses: 2
+      player2:
+        percent: 91
+        wins: 2
+        losses: 0
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 84     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Gus'   
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'Gus'
         position: Lead
-        percent: 91   
-        win: 1        
-        loss: 0       
+        percent: 91
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(10)  
-      score: Joh 6 - Gus 7   
-    - player1:          
-        team: 'Joh'     
+      year: 2007
+      draw: Round Robin(10)
+      score: Joh 6 - Gus 7
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 86     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Gus'   
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'Gus'
         position: Lead
-        percent: 90   
-        win: 1        
-        loss: 0       
+        percent: 90
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2007             
-      draw: Tie-Breaker(12)  
-      score: Joh 6 - Gus 7   
- - name: Laing, Brent        
-   totals:                   
+      year: 2007
+      draw: Tie-Breaker(12)
+      score: Joh 6 - Gus 7
+ - name: Laing, Brent
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 80          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 75          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 80
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 80     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'How'     
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'How'
         position: Second
-        percent: 75     
-        win: 1          
-        loss: 0         
+        percent: 75
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(2)   
-      score: How 9 - Joh 4   
- - name: Loevenmark, Phil    
-   totals:                   
+      year: 2006
+      draw: Round Robin(2)
+      score: How 9 - Joh 4
+ - name: Loevenmark, Phil
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 75          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 77          
-        wins: 0              
-        losses: 1            
+      player1:
+        percent: 75
+        wins: 1
+        losses: 0
+      player2:
+        percent: 77
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 75     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Bas'    
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'Bas'
         position: Third
-        percent: 77    
-        win: 0         
-        loss: 1        
+        percent: 77
+        win: 0
+        loss: 1
       event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(5)   
-      score: Bas 3 - Joh 8   
- - name: MacKenzie, Kevin    
-   totals:                   
+      year: 2007
+      draw: Round Robin(5)
+      score: Bas 3 - Joh 8
+ - name: MacKenzie, Kevin
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 71          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 75          
-        wins: 0              
-        losses: 1            
+      player1:
+        percent: 71
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 71     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Cot'    
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'Cot'
         position: Third
-        percent: 75    
-        win: 0         
-        loss: 1        
+        percent: 75
+        win: 0
+        loss: 1
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(5)   
-      score: Cot 4 - Joh 7   
- - name: Martin, Kevin       
-   totals:                   
+      year: 2006
+      draw: Round Robin(5)
+      score: Cot 4 - Joh 7
+ - name: Martin, Kevin
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 75          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 97          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 97
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 75     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Mar'     
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'Mar'
         position: Fourth
-        percent: 97     
-        win: 1          
-        loss: 0         
+        percent: 97
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(4)   
-      score: Mar 7 - Joh 4   
- - name: Mitchell, Collin    
-   totals:                   
+      year: 2006
+      draw: Round Robin(4)
+      score: Mar 7 - Joh 4
+ - name: Mitchell, Collin
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 75          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 64          
-        wins: 0              
-        losses: 1            
+      player1:
+        percent: 75
+        wins: 1
+        losses: 0
+      player2:
+        percent: 64
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 75     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Bas'     
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'Bas'
         position: Second
-        percent: 64     
-        win: 0          
-        loss: 1         
+        percent: 64
+        win: 0
+        loss: 1
       event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(5)   
-      score: Bas 3 - Joh 8   
- - name: Moffatt, Paul       
-   totals:                   
+      year: 2007
+      draw: Round Robin(5)
+      score: Bas 3 - Joh 8
+ - name: Moffatt, Paul
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 75          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 84          
-        wins: 0              
-        losses: 1            
+      player1:
+        percent: 75
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 75     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'Bas'   
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'Bas'
         position: Lead
-        percent: 84   
-        win: 0        
-        loss: 1       
+        percent: 84
+        win: 0
+        loss: 1
       event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(5)   
-      score: Bas 3 - Joh 8   
- - name: Naharnie, Cory      
-   totals:                   
+      year: 2007
+      draw: Round Robin(5)
+      score: Bas 3 - Joh 8
+ - name: Naharnie, Cory
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 80          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 88          
-        wins: 0              
-        losses: 1            
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 80     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'Bur'   
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'Bur'
         position: Lead
-        percent: 88   
-        win: 0        
-        loss: 1       
+        percent: 88
+        win: 0
+        loss: 1
       event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(8)   
-      score: Joh 7 - Bur 4   
- - name: Nedohin, David      
-   totals:                   
+      year: 2007
+      draw: Round Robin(8)
+      score: Joh 7 - Bur 4
+ - name: Nedohin, David
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 90          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 79          
-        wins: 0              
-        losses: 1            
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 90     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Fer'     
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'Fer'
         position: Fourth
-        percent: 79     
-        win: 0          
-        loss: 1         
+        percent: 79
+        win: 0
+        loss: 1
       event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(4)   
-      score: Fer 6 - Joh 8   
- - name: Nichols, Mark       
-   totals:                   
+      year: 2007
+      draw: Round Robin(4)
+      score: Fer 6 - Joh 8
+ - name: Nichols, Mark
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 86          
-        wins: 1              
-        losses: 2            
-      player2:               
-        percent: 86          
-        wins: 2              
-        losses: 1            
+      player1:
+        percent: 86
+        wins: 1
+        losses: 2
+      player2:
+        percent: 86
+        wins: 2
+        losses: 1
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 88     
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'Gus'    
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'Gus'
         position: Third
-        percent: 77    
-        win: 0         
-        loss: 1        
+        percent: 77
+        win: 0
+        loss: 1
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(8)   
-      score: Joh 11 - Gus 3  
-    - player1:          
-        team: 'Joh'     
+      year: 2006
+      draw: Round Robin(8)
+      score: Joh 11 - Gus 3
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 84     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Gus'    
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'Gus'
         position: Third
-        percent: 89    
-        win: 1         
-        loss: 0        
+        percent: 89
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(10)  
-      score: Joh 6 - Gus 7   
-    - player1:          
-        team: 'Joh'     
+      year: 2007
+      draw: Round Robin(10)
+      score: Joh 6 - Gus 7
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 86     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Gus'    
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'Gus'
         position: Third
-        percent: 88    
-        win: 1         
-        loss: 0        
+        percent: 88
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2007             
-      draw: Tie-Breaker(12)  
-      score: Joh 6 - Gus 7   
- - name: Perepolkin, T.J.    
-   totals:                   
+      year: 2007
+      draw: Tie-Breaker(12)
+      score: Joh 6 - Gus 7
+ - name: Perepolkin, T.J.
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 83          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 94          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 94
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 83     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Urs'    
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'Urs'
         position: Third
-        percent: 94    
-        win: 1         
-        loss: 0        
+        percent: 94
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(10)  
-      score: Joh 4 - Urs 7   
- - name: Pfeifer, Scott      
-   totals:                   
+      year: 2006
+      draw: Round Robin(10)
+      score: Joh 4 - Urs 7
+ - name: Pfeifer, Scott
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 90          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 95          
-        wins: 0              
-        losses: 1            
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 95
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 90     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Fer'     
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'Fer'
         position: Second
-        percent: 95     
-        win: 0          
-        loss: 1         
+        percent: 95
+        win: 0
+        loss: 1
       event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(4)   
-      score: Fer 6 - Joh 8   
- - name: Richard, Jeff       
-   totals:                   
+      year: 2007
+      draw: Round Robin(4)
+      score: Fer 6 - Joh 8
+ - name: Richard, Jeff
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 71          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 80          
-        wins: 0              
-        losses: 1            
+      player1:
+        percent: 71
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 71     
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'Cot'     
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'Cot'
         position: Second
-        percent: 80     
-        win: 0          
-        loss: 1         
+        percent: 80
+        win: 0
+        loss: 1
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(5)   
-      score: Cot 4 - Joh 7   
- - name: Rocque, Marcel      
-   totals:                   
+      year: 2006
+      draw: Round Robin(5)
+      score: Cot 4 - Joh 7
+ - name: Rocque, Marcel
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 90          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 93          
-        wins: 0              
-        losses: 1            
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 93
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 90     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'Fer'   
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'Fer'
         position: Lead
-        percent: 93   
-        win: 0        
-        loss: 1       
+        percent: 93
+        win: 0
+        loss: 1
       event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(4)   
-      score: Fer 6 - Joh 8   
- - name: Rycroft, Carter     
-   totals:                   
+      year: 2007
+      draw: Round Robin(4)
+      score: Fer 6 - Joh 8
+ - name: Rycroft, Carter
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 75          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 95          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 95
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 75     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Mar'     
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'Mar'
         position: Second
-        percent: 95     
-        win: 1          
-        loss: 0         
+        percent: 95
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(4)   
-      score: Mar 7 - Joh 4   
- - name: Savill, Craig       
-   totals:                   
+      year: 2006
+      draw: Round Robin(4)
+      score: Mar 7 - Joh 4
+ - name: Savill, Craig
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 80          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 78          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 80
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 80     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'How'   
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'How'
         position: Lead
-        percent: 78   
-        win: 1        
-        loss: 0       
+        percent: 78
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(2)   
-      score: How 9 - Joh 4   
- - name: Sawatsky, Rick      
-   totals:                   
+      year: 2006
+      draw: Round Robin(2)
+      score: How 9 - Joh 4
+ - name: Sawatsky, Rick
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 71          
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent: 89          
-        wins: 0              
-        losses: 1            
+      player1:
+        percent: 71
+        wins: 1
+        losses: 0
+      player2:
+        percent: 89
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 71     
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'Cot'   
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'Cot'
         position: Lead
-        percent: 89   
-        win: 0        
-        loss: 1       
+        percent: 89
+        win: 0
+        loss: 1
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(5)   
-      score: Cot 4 - Joh 7   
- - name: Schille, Chris      
-   totals:                   
+      year: 2006
+      draw: Round Robin(5)
+      score: Cot 4 - Joh 7
+ - name: Schille, Chris
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 85          
-        wins: 0              
-        losses: 2            
-      player2:               
-        percent: 86          
-        wins: 2              
-        losses: 0            
+      player1:
+        percent: 85
+        wins: 0
+        losses: 2
+      player2:
+        percent: 86
+        wins: 2
+        losses: 0
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 84     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Gus'     
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'Gus'
         position: Second
-        percent: 90     
-        win: 1          
-        loss: 0         
+        percent: 90
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(10)  
-      score: Joh 6 - Gus 7   
-    - player1:          
-        team: 'Joh'     
+      year: 2007
+      draw: Round Robin(10)
+      score: Joh 6 - Gus 7
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 86     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Gus'     
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'Gus'
         position: Second
-        percent: 83     
-        win: 1          
-        loss: 0         
+        percent: 83
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2007             
-      draw: Tie-Breaker(12)  
-      score: Joh 6 - Gus 7   
- - name: Stoughton, Jeff     
-   totals:                   
+      year: 2007
+      draw: Tie-Breaker(12)
+      score: Joh 6 - Gus 7
+ - name: Stoughton, Jeff
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 90          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 89          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 90     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Sto'     
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'Sto'
         position: Fourth
-        percent: 89     
-        win: 1          
-        loss: 0         
+        percent: 89
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2007             
-      draw: Round Robin(2)   
-      score: Sto 7 - Joh 5   
- - name: Ursel, Bob          
-   totals:                   
+      year: 2007
+      draw: Round Robin(2)
+      score: Sto 7 - Joh 5
+ - name: Ursel, Bob
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 83          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 87          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 87
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 83     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Urs'     
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'Urs'
         position: Fourth
-        percent: 87     
-        win: 1          
-        loss: 0         
+        percent: 87
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(10)  
-      score: Joh 4 - Urs 7   
- - name: Walchuk, Don        
-   totals:                   
+      year: 2006
+      draw: Round Robin(10)
+      score: Joh 4 - Urs 7
+ - name: Walchuk, Don
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 75          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 86          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 75     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Mar'    
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'Mar'
         position: Third
-        percent: 86    
-        win: 1         
-        loss: 0        
+        percent: 86
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(4)   
-      score: Mar 7 - Joh 4   
- - name: Willis, Brendan     
-   totals:                   
+      year: 2006
+      draw: Round Robin(4)
+      score: Mar 7 - Joh 4
+ - name: Willis, Brendan
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 83          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 79          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Joh'     
+    - player1:
+        team: 'Joh'
         position: Second
-        percent: 83     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Urs'   
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'Urs'
         position: Lead
-        percent: 79   
-        win: 1        
-        loss: 0       
+        percent: 79
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(10)  
-      score: Joh 4 - Urs 7   
+      year: 2006
+      draw: Round Robin(10)
+      score: Joh 4 - Urs 7
 ---

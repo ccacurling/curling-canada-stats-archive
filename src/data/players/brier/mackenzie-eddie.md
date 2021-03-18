@@ -4,19 +4,19 @@ name: Eddie MacKenzie
 name-sort: MacKenzie, Eddie
 totals:
  - event: Brier
-   games: 52
-   wins: 12
-   losses: 40
-   inturn-total: 454
-   inturn-percent: 69
-   outturn-total: 468
+   games: 59
+   wins: 13
+   losses: 46
+   inturn-total: 512
+   inturn-percent: 68
+   outturn-total: 522
    outturn-percent: 71
-   draw-total: 448
+   draw-total: 513
    draw-percent: 70
-   takeout-total: 474
-   takeout-percent: 70
-   shots-total: 922
-   shots-percent: 70
+   takeout-total: 521
+   takeout-percent: 69
+   shots-total: 1034
+   shots-percent: 69
 years:
  - year: 1994
    event: Brier
@@ -103,6 +103,23 @@ years:
    takeout-percent: 75
    shots-total: 140
    shots-percent: 78
+ - year: 2021
+   event: Brier
+   team: "PE"
+   position: Fourth
+   games: 7
+   wins: 1
+   losses: 6
+   inturn-total: 58
+   inturn-percent: 59
+   outturn-total: 54
+   outturn-percent: 65
+   draw-total: 65
+   draw-percent: 64
+   takeout-total: 47
+   takeout-percent: 59
+   shots-total: 112
+   shots-percent: 62
 vs:
  - Abel, Clinton
  - Adams, Shawn
@@ -113,6 +130,7 @@ vs:
  - Barry, Josh
  - Bice, Mark
  - Bilesky, Andrew
+ - Blyde, Greg
  - Borden, Robert
  - Bouchard, Christian
  - Breckon, Graham
@@ -124,9 +142,11 @@ vs:
  - Casey, Adam
  - Childs, Jamie
  - Chorostkowski, Brad
+ - Chown, Jeff
  - Corner, Peter
  - Cotter, Jim
  - Crete, Martin
+ - Crowell, Phil
  - Currie, Jeff
  - Danbrook, Jamie
  - Desjardins, Robert
@@ -167,6 +187,7 @@ vs:
  - Hodgson, Colin
  - Horgan, Tanner
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Russ
  - Howard, Scott
  - Howard, Steven
@@ -201,6 +222,9 @@ vs:
  - McCarville, Mike
  - McClelland, John
  - McDermaid, Donald
+ - McDonah, Alex
+ - McDonah, Evan
+ - McDonald, Scott
  - Mead, Jonathan
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -214,6 +238,7 @@ vs:
  - Muyres, Kirk
  - Nadeau, Jeff
  - Naugler, Tom
+ - Neufeld, B.J.
  - Nicholls, Peter
  - Nichols, Mark
  - Noseworthy, Mark
@@ -230,6 +255,7 @@ vs:
  - Roach, Jason
  - Ryan, Pat
  - Rycroft, Carter
+ - Saccary, Scott
  - Salina, Charlie
  - Samagalski, Derek
  - Savill, Craig
@@ -241,6 +267,7 @@ vs:
  - Smith, Garth
  - Smith, Greg
  - Smith, Kent
+ - St.Louis, Brady
  - St.Louis, David
  - Stoughton, Jeff
  - Sullivan, Charles Jr

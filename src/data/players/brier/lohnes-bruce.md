@@ -316,7 +316,7 @@ vs:
  - Petryk, Dan
  - Pfeifer, Scott
  - Pierce, Brent
- - Power, Joe
+ - Power, Joseph Jr.
  - Ravndal, Clayton
  - Recksiedler, Kevin
  - Richard, Gerry

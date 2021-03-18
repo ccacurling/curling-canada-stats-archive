@@ -108,7 +108,7 @@ vs:
  - Gallant, Brett
  - Gibson, Andrew
  - Gould, Steve
- - Griffith, Tyrel
+ - Griffith, Ty
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.

@@ -4,19 +4,19 @@ name: Dustin Kidby
 name-sort: Kidby, Dustin
 totals:
  - event: Brier
-   games: 35
-   wins: 18
-   losses: 17
-   inturn-total: 273
+   games: 48
+   wins: 27
+   losses: 21
+   inturn-total: 365
    inturn-percent: 89
-   outturn-total: 393
-   outturn-percent: 90
-   draw-total: 583
+   outturn-total: 545
+   outturn-percent: 89
+   draw-total: 768
    draw-percent: 91
-   takeout-total: 83
+   takeout-total: 142
    takeout-percent: 81
-   shots-total: 666
-   shots-percent: 90
+   shots-total: 910
+   shots-percent: 89
 years:
  - year: 2013
    event: Brier
@@ -69,9 +69,29 @@ years:
    takeout-percent: 82
    shots-total: 252
    shots-percent: 90
+ - year: 2021
+   event: Brier
+   team: "SK"
+   position: Lead
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 92
+   inturn-percent: 87
+   outturn-total: 152
+   outturn-percent: 87
+   draw-total: 185
+   draw-percent: 89
+   takeout-total: 59
+   takeout-percent: 80
+   shots-total: 244
+   shots-percent: 87
 vs:
  - Aho, David
+ - Asselin, Felix
+ - Bartling, Aaron
  - Bilesky, Andrew
+ - Blyde, Greg
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
@@ -82,6 +102,7 @@ vs:
  - Case, Peter
  - Casey, Adam
  - Chorostkowski, Brad
+ - Chown, Jeff
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
@@ -92,6 +113,7 @@ vs:
  - Flasch, Colton
  - Flemming, Paul
  - Forrest, Alex
+ - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
  - Grattan, James
@@ -104,6 +126,7 @@ vs:
  - Hebert, Ben
  - Hodgson, Colin
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Scott
  - Jacobs, Brad
  - Jensen, Trygg
@@ -117,12 +140,18 @@ vs:
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
+ - Lowery, Ryan
  - MacFadyen, Alex
  - MacKenzie, Eddie
+ - Mackey, Peter
+ - March, Tim
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
  - McCann, Andy
+ - McDonah, Alex
+ - McDonah, Evan
+ - McDonald, Scott
  - McEwen, Mike
  - McLeod, Shadrach
  - Mead, Jonathan
@@ -133,6 +162,7 @@ vs:
  - Morris, John
  - Moulding, Darren
  - Murphy, Jamie
+ - Nadeau, Jeff
  - Naugler, Tom
  - Nerpin, Andrew
  - Neufeld, B.J.
@@ -151,11 +181,15 @@ vs:
  - Sawatsky, Rick
  - Schille, Chris
  - Scoffin, Thomas
+ - Smith, Greg
  - Smith, Kent
+ - Smith, Tyler
  - Spencer, Adam
+ - St.Louis, Brady
  - Stoughton, Jeff
  - Sylvain, Eric
  - Thiessen, Brad
+ - Trepanier, Jean-Francois
  - Walker, Geoff
  - Wallingham, Joe
  - Watson, Aaron

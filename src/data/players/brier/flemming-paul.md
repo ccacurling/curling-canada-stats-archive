@@ -4,19 +4,19 @@ name: Paul Flemming
 name-sort: Flemming, Paul
 totals:
  - event: Brier
-   games: 88
-   wins: 42
-   losses: 46
-   inturn-total: 753
+   games: 96
+   wins: 46
+   losses: 50
+   inturn-total: 825
    inturn-percent: 80
-   outturn-total: 876
+   outturn-total: 944
    outturn-percent: 81
-   draw-total: 686
+   draw-total: 751
    draw-percent: 78
-   takeout-total: 943
+   takeout-total: 1018
    takeout-percent: 82
-   shots-total: 1629
-   shots-percent: 81
+   shots-total: 1769
+   shots-percent: 80
 years:
  - year: 1998
    event: Brier
@@ -154,6 +154,23 @@ years:
    takeout-percent: 85
    shots-total: 128
    shots-percent: 84
+ - year: 2021
+   event: Brier
+   team: "NS"
+   position: Third
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 72
+   inturn-percent: 78
+   outturn-total: 68
+   outturn-percent: 78
+   draw-total: 65
+   draw-percent: 79
+   takeout-total: 75
+   takeout-percent: 77
+   shots-total: 140
+   shots-percent: 78
 vs:
  - Adam, Gerry
  - Alderman, Dan
@@ -162,10 +179,13 @@ vs:
  - Armstrong, Doug
  - Assad, Mike
  - Asselin, Emile
+ - Asselin, Felix
  - Bailey, Scott
  - Bedard, Alek
  - Bilesky, Andrew
  - Blanchard, Wade
+ - Blyde, Greg
+ - Boland, Adam
  - Borden, Robert
  - Bottcher, Brendan
  - Bouchard, Christian
@@ -181,6 +201,7 @@ vs:
  - Champion, Kevin
  - Charette, Pierre
  - Chorostkowski, Brad
+ - Chown, Jeff
  - Chugg, Brad
  - Cochrane, Bryan
  - Cotter, Jim
@@ -207,6 +228,7 @@ vs:
  - Ferbey, Randy
  - Folk, Kevin
  - Forrest, Alex
+ - Fournier, Mike
  - Frans, Joe
  - Freschi, Don
  - Fry, Ryan
@@ -240,6 +262,7 @@ vs:
  - Hodgson, Colin
  - Horning, Deane
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Russ
  - Howard, Scott
  - Howard, Steven
@@ -260,6 +283,7 @@ vs:
  - Kilgallen, Shane
  - Kirkness, James
  - Koe, Jamie
+ - Koe, Kevin
  - Kohlenberg, Dale
  - Kopf, Steve
  - Korab, Jamie
@@ -273,6 +297,7 @@ vs:
  - Lequin, Bradley
  - Loevenmark, Phil
  - Lowe, Wayne
+ - Lowery, Ryan
  - MacAulay, Ian
  - MacDonald, Blake
  - MacDonald, Brent
@@ -281,6 +306,7 @@ vs:
  - MacDonald, Rod
  - MacFadyen, Alex
  - MacKenzie, Eddie
+ - Mackey, Peter
  - Madden, Paul
  - March, Tim
  - Martin, Karrick
@@ -289,6 +315,8 @@ vs:
  - McAulay, Greg
  - McCarrel, Graeme
  - McClelland, John
+ - McDonah, Alex
+ - McDonah, Evan
  - McDonald, Toby
  - McEwen, Mike
  - McGregor, Ken
@@ -368,9 +396,11 @@ vs:
  - Simmons, Pat
  - Sinclair, Rob
  - Smith, Greg
+ - Smith, Tyler
  - Solberg, Jonathon
  - Sosiak, Jim
  - Spencer, Jim
+ - St.Louis, Brady
  - Stoughton, Jeff
  - Sullivan, Charles Jr
  - Sullivan, Jim
@@ -385,6 +415,7 @@ vs:
  - Thiessen, Brad
  - Thomson, Fred
  - Toner, Lee
+ - Trepanier, Jean-Francois
  - Turpin, Glenn
  - Tuson, Jay
  - Ursel, Bob

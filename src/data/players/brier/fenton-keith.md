@@ -117,7 +117,7 @@ vs:
  - Perroud, Pat
  - Pfeifer, Scott
  - Pinsent, Garry
- - Power, Joe
+ - Power, Joseph Jr.
  - Richard, Gerry
  - Rocque, Marcel
  - Ryan, Keith

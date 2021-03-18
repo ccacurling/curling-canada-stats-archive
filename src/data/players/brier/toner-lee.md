@@ -4,18 +4,18 @@ name: Lee Toner
 name-sort: Toner, Lee
 totals:
  - event: Brier
-   games: 34
-   wins: 11
+   games: 35
+   wins: 12
    losses: 23
-   inturn-total: 258
+   inturn-total: 260
    inturn-percent: 83
    outturn-total: 366
    outturn-percent: 85
-   draw-total: 559
+   draw-total: 561
    draw-percent: 85
    takeout-total: 65
    takeout-percent: 75
-   shots-total: 624
+   shots-total: 626
    shots-percent: 84
 years:
  - year: 2005
@@ -98,6 +98,23 @@ years:
    takeout-percent: 100
    shots-total: 4
    shots-percent: 100
+ - year: 2021
+   event: Brier
+   team: "NO"
+   position: Lead
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 2
+   inturn-percent: 88
+   outturn-total: 0
+   outturn-percent:
+   draw-total: 2
+   draw-percent: 88
+   takeout-total: 0
+   takeout-percent:
+   shots-total: 2
+   shots-percent: 88
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -140,6 +157,7 @@ vs:
  - Granchelli, Kris
  - Grattan, James
  - Gushue, Brad
+ - Hagen, Brandon
  - Haichert, Chris
  - Hart, Richard
  - Hebert, Ben
@@ -167,10 +185,12 @@ vs:
  - MacDonald, Rod
  - Martin, Kevin
  - McCarrel, Graeme
+ - McKinnon, Robert
  - Meek, Terry
  - Melnichuk, Greg
  - Menard, Jean-Michel
  - Middaugh, Wayne
+ - Mikkelsen, Dustin
  - Mittelstadt, Kelly
  - Morris, John
  - Moshenko, Darcy
@@ -182,6 +202,7 @@ vs:
  - O'Rourke, Mark
  - Palmer, Curt
  - Park, Kevin
+ - Peech, Alexander
  - Pfeifer, Scott
  - Pielak, Rod
  - Pierce, Brent

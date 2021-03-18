@@ -158,7 +158,7 @@ vs:
  - Perry, Randy
  - Pineau, Larry
  - Poole, Gary
- - Power, Joe
+ - Power, Joseph Jr.
  - Rastelli, Max
  - Reddick, Don
  - Richard, Gerry

@@ -4,18 +4,18 @@ name: Rick Sawatsky
 name-sort: Sawatsky, Rick
 totals:
  - event: Brier
-   games: 99
-   wins: 47
-   losses: 52
-   inturn-total: 995
+   games: 106
+   wins: 50
+   losses: 56
+   inturn-total: 1014
    inturn-percent: 89
-   outturn-total: 872
-   outturn-percent: 87
-   draw-total: 1628
+   outturn-total: 987
+   outturn-percent: 88
+   draw-total: 1741
    draw-percent: 89
-   takeout-total: 239
-   takeout-percent: 82
-   shots-total: 1867
+   takeout-total: 260
+   takeout-percent: 81
+   shots-total: 2001
    shots-percent: 88
 years:
  - year: 2008
@@ -171,6 +171,23 @@ years:
    takeout-percent: 78
    shots-total: 128
    shots-percent: 83
+ - year: 2021
+   event: Brier
+   team: "BC"
+   position: Lead
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 19
+   inturn-percent: 76
+   outturn-total: 115
+   outturn-percent: 89
+   draw-total: 113
+   draw-percent: 91
+   takeout-total: 21
+   takeout-percent: 70
+   shots-total: 134
+   shots-percent: 88
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -233,7 +250,9 @@ vs:
  - Gibson, Andrew
  - Gould, Steve
  - Grattan, James
+ - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
  - Harnden, E.J.
  - Harnden, Ryan
  - Harris, Tyler
@@ -271,6 +290,7 @@ vs:
  - Mackey, Peter
  - Mallais, Jeremy
  - Manners, Scott
+ - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
  - Martin, Karrick
@@ -281,12 +301,14 @@ vs:
  - McDermaid, Donald
  - McDonald, Scott
  - McEwen, Mike
+ - McKinnon, Robert
  - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Mead, Jonathan
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Mikkelsen, Dustin
  - Mittelstadt, Kelly
  - Morris, John
  - Moskowy, Braeden
@@ -301,11 +323,14 @@ vs:
  - Neufeld, Denni
  - Ng, Matt
  - Nichols, Mark
+ - Njegovan, Connor
  - Noftall, David
  - Odishaw, Grant
  - Odishaw, Terry
  - Palmer, Curt
  - Parsons, Cole
+ - Patzer, Brad
+ - Peech, Alexander
  - Pinder, Jordan
  - Rafuse, Brian
  - Roach, Darren
@@ -322,6 +347,7 @@ vs:
  - Seabrook, Scott
  - Sharp, Jeff
  - Simmons, Pat
+ - Skauge, Greg
  - Slauenwhite, David
  - Smith, Garth
  - Spencer, Adam

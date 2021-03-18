@@ -4,18 +4,18 @@ name: Reid Carruthers
 name-sort: Carruthers, Reid
 totals:
  - event: Brier
-   games: 85
-   wins: 52
-   losses: 33
-   inturn-total: 752
+   games: 93
+   wins: 56
+   losses: 37
+   inturn-total: 840
    inturn-percent: 85
-   outturn-total: 815
+   outturn-total: 873
    outturn-percent: 85
-   draw-total: 678
+   draw-total: 746
    draw-percent: 84
-   takeout-total: 889
-   takeout-percent: 86
-   shots-total: 1567
+   takeout-total: 967
+   takeout-percent: 85
+   shots-total: 1713
    shots-percent: 85
 years:
  - year: 2008
@@ -154,6 +154,23 @@ years:
    takeout-percent: 92
    shots-total: 226
    shots-percent: 90
+ - year: 2021
+   event: Brier
+   team: "WC"
+   position: Third
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 88
+   inturn-percent: 83
+   outturn-total: 58
+   outturn-percent: 84
+   draw-total: 68
+   draw-percent: 89
+   takeout-total: 78
+   takeout-percent: 79
+   shots-total: 146
+   shots-percent: 83
 vs:
  - Abel, Clinton
  - Adam, Gerry
@@ -218,6 +235,7 @@ vs:
  - Griffith, Ty
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
@@ -262,10 +280,12 @@ vs:
  - McDermaid, Donald
  - McDonald, Scott
  - McEwen, Mike
+ - McKinnon, Robert
  - McLeod, Shadrach
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Mikkelsen, Dustin
  - Mittelstadt, Kelly
  - Morris, John
  - Moskowy, Braeden
@@ -283,6 +303,8 @@ vs:
  - Njegovan, Connor
  - Odian, Scott
  - Parsons, Cole
+ - Patzer, Brad
+ - Peech, Alexander
  - Pinder, Jordan
  - Rach, Dave
  - Roach, Darren
@@ -297,6 +319,7 @@ vs:
  - Seabrook, Scott
  - Sharp, Jeff
  - Simmons, Pat
+ - Skauge, Greg
  - Smallwood, Robert
  - Smith, Kent
  - Solberg, Jonathon

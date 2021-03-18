@@ -4,18 +4,18 @@ name: Karrick Martin
 name-sort: Martin, Karrick
 totals:
  - event: Brier
-   games: 54
-   wins: 35
-   losses: 19
-   inturn-total: 757
+   games: 68
+   wins: 46
+   losses: 22
+   inturn-total: 974
    inturn-percent: 90
-   outturn-total: 196
-   outturn-percent: 85
-   draw-total: 809
+   outturn-total: 238
+   outturn-percent: 86
+   draw-total: 1039
    draw-percent: 90
-   takeout-total: 144
-   takeout-percent: 82
-   shots-total: 953
+   takeout-total: 173
+   takeout-percent: 83
+   shots-total: 1212
    shots-percent: 89
 years:
  - year: 2013
@@ -103,8 +103,26 @@ years:
    takeout-percent: 87
    shots-total: 236
    shots-percent: 88
+ - year: 2021
+   event: Brier
+   team: "AB"
+   position: Lead
+   games: 14
+   wins: 11
+   losses: 3
+   inturn-total: 217
+   inturn-percent: 90
+   outturn-total: 42
+   outturn-percent: 90
+   draw-total: 230
+   draw-percent: 91
+   takeout-total: 29
+   takeout-percent: 86
+   shots-total: 259
+   shots-percent: 90
 vs:
  - Abel, Clinton
+ - Aho, David
  - Appelman, Tom
  - Asselin, Emile
  - Bedard, Alek
@@ -138,9 +156,11 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Geall, Sean
+ - Grattan, James
  - Griffith, Ty
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
@@ -173,11 +193,15 @@ vs:
  - Marsh, Dan
  - Marsh, Kevin
  - Mathers, David
+ - McCann, Andy
  - McDonald, Scott
  - McEwen, Mike
+ - McKinnon, Robert
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe
+ - Middaugh, Wayne
+ - Mikkelsen, Dustin
  - Mittelstadt, Kelly
  - Morris, John
  - Moskowy, Braeden
@@ -185,12 +209,15 @@ vs:
  - Muyres, Dallan
  - Muyres, Kirk
  - Nabuurs, Matt
+ - Naugler, Tom
  - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
  - Njegovan, Connor
  - O'Rourke, Mark
+ - Patzer, Brad
+ - Peech, Alexander
  - Pinder, Jordan
  - Quevillon, Louis
  - Rach, Dave
@@ -211,6 +238,7 @@ vs:
  - Stapleton, Connor
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tardi, Tyler
  - Taylor, Andrew
  - Walker, Geoff
  - Withycombe, Ian

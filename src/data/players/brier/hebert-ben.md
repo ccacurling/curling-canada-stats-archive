@@ -4,18 +4,18 @@ name: Ben Hebert
 name-sort: Hebert, Ben
 totals:
  - event: Brier
-   games: 146
-   wins: 106
-   losses: 40
-   inturn-total: 639
+   games: 159
+   wins: 116
+   losses: 43
+   inturn-total: 696
    inturn-percent: 87
-   outturn-total: 1982
+   outturn-total: 2157
    outturn-percent: 91
-   draw-total: 2294
+   draw-total: 2497
    draw-percent: 92
-   takeout-total: 327
+   takeout-total: 356
    takeout-percent: 79
-   shots-total: 2621
+   shots-total: 2853
    shots-percent: 90
 years:
  - year: 2005
@@ -255,22 +255,42 @@ years:
    takeout-percent: 90
    shots-total: 212
    shots-percent: 93
+ - year: 2021
+   event: Brier
+   team: "WC"
+   position: Lead
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 57
+   inturn-percent: 92
+   outturn-total: 175
+   outturn-percent: 92
+   draw-total: 203
+   draw-percent: 94
+   takeout-total: 29
+   takeout-percent: 82
+   shots-total: 232
+   shots-percent: 92
 vs:
  - Adam, Gerry
  - Adams, Shawn
  - Aho, David
  - Ardiel, Taylor
+ - Asselin, Felix
  - Atchison, Chris
  - Bailey, Scott
  - Barker, Richard
  - Barry, Josh
  - Bartlett, Don
+ - Bartling, Aaron
  - Berthelot, Marco
  - Beuk, Jonathan
  - Bezanson, Jared
  - Bilesky, Andrew
  - Bitz, Scott
  - Blanchard, Wade
+ - Blyde, Greg
  - Borden, Robert
  - Bottcher, Brendan
  - Bouchard, Christian
@@ -291,10 +311,12 @@ vs:
  - Champion, Kevin
  - Charette, Pierre
  - Chorostkowski, Brad
+ - Chown, Jeff
  - Colter, Travis
  - Cotter, Jim
  - Cowan, Chad
  - Crete, Martin
+ - Crowell, Phil
  - Dacey, Mark
  - Danbrook, Jamie
  - Daneault, Richard
@@ -321,6 +343,7 @@ vs:
  - Folk, Kevin
  - Forget, Wes
  - Forrest, Alex
+ - Fournier, Mike
  - Fowler, Rob
  - Frans, Joe
  - Fraser, Pierre
@@ -354,6 +377,7 @@ vs:
  - Hodgson, Colin
  - Horning, Deane
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Russ
  - Howard, Scott
  - Howard, Steven
@@ -391,12 +415,15 @@ vs:
  - LeDrew, Ryan
  - Lemay, Philippe
  - Lohnes, Bruce
+ - Lowery, Ryan
  - MacDonald, Rod
  - MacFadyen, Alex
  - MacInnes, David
  - MacKenzie, Eddie
+ - Mackey, Peter
  - MacLean, Stuart
  - Mallais, Jeremy
+ - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
  - Martin, Karrick
@@ -406,6 +433,8 @@ vs:
  - Mawhinney, Spencer
  - McCann, Andy
  - McCarrel, Graeme
+ - McDonah, Alex
+ - McDonah, Evan
  - McDonald, Scott
  - McEwen, Mike
  - McLeod, Shadrach
@@ -422,6 +451,7 @@ vs:
  - Moulding, Darren
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Nantes, Dave
  - Naugler, Tom
  - Nedohin, David
@@ -459,6 +489,7 @@ vs:
  - Rose, Jeff
  - Ryan, Keith
  - Rycroft, Carter
+ - Saccary, Scott
  - Samagalski, Derek
  - Savill, Craig
  - Sawatsky, Rick
@@ -473,10 +504,13 @@ vs:
  - Simmons, Pat
  - Slauenwhite, David
  - Smith, Garth
+ - Smith, Greg
  - Smith, Kent
+ - Smith, Tyler
  - Solberg, Jonathon
  - Sosiak, Jim
  - Spencer, Adam
+ - St.Louis, Brady
  - Steele, Colten
  - Stoughton, Jeff
  - Sullivan, Charles Jr
@@ -487,6 +521,7 @@ vs:
  - Thompson, Stuart
  - Thomson, Fred
  - Toner, Lee
+ - Trepanier, Jean-Francois
  - Ursel, Bob
  - Van Den Berghe, Garry
  - Vaughan, Jason

@@ -4,18 +4,18 @@ name: James Grattan
 name-sort: Grattan, James
 totals:
  - event: Brier
-   games: 142
-   wins: 68
-   losses: 74
-   inturn-total: 1010
+   games: 150
+   wins: 72
+   losses: 78
+   inturn-total: 1075
    inturn-percent: 79
-   outturn-total: 1648
+   outturn-total: 1740
    outturn-percent: 81
-   draw-total: 1119
+   draw-total: 1178
    draw-percent: 78
-   takeout-total: 1539
+   takeout-total: 1637
    takeout-percent: 82
-   shots-total: 2658
+   shots-total: 2815
    shots-percent: 80
 years:
  - year: 1997
@@ -239,6 +239,23 @@ years:
    takeout-percent: 81
    shots-total: 133
    shots-percent: 78
+ - year: 2021
+   event: Brier
+   team: "NB"
+   position: Fourth
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 65
+   inturn-percent: 78
+   outturn-total: 92
+   outturn-percent: 79
+   draw-total: 59
+   draw-percent: 78
+   takeout-total: 98
+   takeout-percent: 79
+   shots-total: 157
+   shots-percent: 79
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -258,6 +275,7 @@ vs:
  - Bitz, Scott
  - Blanchard, Ben
  - Borden, Robert
+ - Bottcher, Brendan
  - Bouchard, Christian
  - Breckon, Graham
  - Brodersen, Erik
@@ -345,7 +363,9 @@ vs:
  - Granchelli, Kris
  - Grant, Scott
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
  - Haichert, Chris
  - Harcourt, Doug
  - Harcourt, Greg
@@ -369,6 +389,7 @@ vs:
  - Horgan, Tanner
  - Horning, Deane
  - Howard, Glenn
+ - Howard, Scott
  - Hunt, Bruce
  - Ireland, Clint
  - Jacobs, Brad
@@ -428,14 +449,17 @@ vs:
  - MacLeod, Kris
  - March, Tim
  - Markowsky, Rob
+ - Martin, Karrick
  - Martin, Kevin
  - Maskiewich, Ken
+ - Mathers, David
  - McCarville, Mike
  - McCusker, Brian
  - McDermaid, Donald
  - McEwen, Mike
  - McGowan, Nolin
  - McKee, Darrell
+ - McKinnon, Robert
  - McLeod, Shadrach
  - McPhee, Barry
  - Mead, Jonathan
@@ -443,6 +467,7 @@ vs:
  - Menard, Philippe
  - Middaugh, Wayne
  - Mikkelsen, Ray
+ - Mikkelsen, Dustin
  - Milward, Ross
  - Mittelstadt, Kelly
  - Molloy, Pat
@@ -451,6 +476,7 @@ vs:
  - Moskowy, Kelly
  - Mosley, Jeff
  - Moss, Steve
+ - Moulding, Darren
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
@@ -463,6 +489,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Chris
  - Nichols, Mark
+ - Njegovan, Connor
  - Noftall, David
  - Noseworthy, Mark
  - Olson, Mark-2
@@ -473,6 +500,7 @@ vs:
  - Palmer, Curt
  - Park, Kevin
  - Parsons, Cole
+ - Patzer, Brad
  - Peachy, Jay
  - Peddigrew, Ken
  - Perroud, Pat
@@ -511,6 +539,7 @@ vs:
  - Sharp, Jeff
  - Shypitka, Tom
  - Simmons, Pat
+ - Skauge, Greg
  - Slauenwhite, David
  - Smith, Garth
  - Smith, Jeff
@@ -525,6 +554,7 @@ vs:
  - Sullivan, Evan
  - Sumner, Kevin
  - Sylvain, Eric
+ - Thiessen, Brad
  - Thiessen, Nolan
  - Thomas, Jeff
  - Toner, Lee
@@ -550,4 +580,5 @@ vs:
  - Windsor, Brian
  - Winfield, Brett
  - Wood, Brad
+ - Wozniak, Matt
 ---

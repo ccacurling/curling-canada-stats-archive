@@ -4,18 +4,18 @@ name: Jamie Brannen
 name-sort: Brannen, Jamie
 totals:
  - event: Brier
-   games: 31
-   wins: 8
-   losses: 23
-   inturn-total: 277
-   inturn-percent: 82
-   outturn-total: 301
+   games: 39
+   wins: 12
+   losses: 27
+   inturn-total: 330
+   inturn-percent: 81
+   outturn-total: 402
    outturn-percent: 85
-   draw-total: 481
+   draw-total: 602
    draw-percent: 85
-   takeout-total: 97
-   takeout-percent: 77
-   shots-total: 578
+   takeout-total: 130
+   takeout-percent: 74
+   shots-total: 732
    shots-percent: 83
 years:
  - year: 2016
@@ -119,6 +119,23 @@ years:
    takeout-percent: 61
    shots-total: 134
    shots-percent: 80
+ - year: 2021
+   event: Brier
+   team: "NB"
+   position: Lead
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 53
+   inturn-percent: 78
+   outturn-total: 101
+   outturn-percent: 83
+   draw-total: 121
+   draw-percent: 86
+   takeout-total: 33
+   takeout-percent: 63
+   shots-total: 154
+   shots-percent: 81
 vs:
  - Aho, David
  - Borden, Robert
@@ -138,7 +155,9 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
@@ -155,25 +174,33 @@ vs:
  - Kuhn, Ryan
  - Laing, Brent
  - Laycock, Steve
+ - March, Tim
  - Martin, Karrick
  - Mathers, David
  - McEwen, Mike
+ - McKinnon, Robert
  - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe
+ - Middaugh, Wayne
+ - Mikkelsen, Ray
+ - Mikkelsen, Dustin
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Naugler, Tom
  - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
  - Ng, Matt
  - Nichols, Mark
+ - Njegovan, Connor
  - Parsons, Cole
+ - Patzer, Brad
  - Pinder, Jordan
  - Rycroft, Carter
  - Saccary, Scott
@@ -183,6 +210,7 @@ vs:
  - Schneider, Catlin
  - Scoffin, Thomas
  - Simmons, Pat
+ - Skauge, Greg
  - Spencer, Adam
  - Sylvain, Eric
  - Thiessen, Brad

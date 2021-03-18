@@ -4,18 +4,18 @@ name: Matthew Dunstone
 name-sort: Dunstone, Matthew
 totals:
  - event: Brier
-   games: 24
-   wins: 14
-   losses: 10
-   inturn-total: 266
+   games: 37
+   wins: 23
+   losses: 14
+   inturn-total: 406
    inturn-percent: 85
-   outturn-total: 186
+   outturn-total: 288
    outturn-percent: 85
-   draw-total: 161
-   draw-percent: 84
-   takeout-total: 291
-   takeout-percent: 86
-   shots-total: 452
+   draw-total: 260
+   draw-percent: 85
+   takeout-total: 434
+   takeout-percent: 85
+   shots-total: 694
    shots-percent: 85
 years:
  - year: 2018
@@ -52,17 +52,38 @@ years:
    takeout-percent: 87
    shots-total: 248
    shots-percent: 87
+ - year: 2021
+   event: Brier
+   team: "SK"
+   position: Fourth
+   games: 13
+   wins: 9
+   losses: 4
+   inturn-total: 140
+   inturn-percent: 85
+   outturn-total: 102
+   outturn-percent: 84
+   draw-total: 99
+   draw-percent: 86
+   takeout-total: 143
+   takeout-percent: 84
+   shots-total: 242
+   shots-percent: 85
 vs:
  - Aho, David
  - Asselin, Felix
  - Barry, Josh
+ - Bartling, Aaron
+ - Blyde, Greg
  - Bottcher, Brendan
  - Brannen, Jamie
  - Camm, Mathew
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
+ - Chown, Jeff
  - Cotter, Jim
+ - Crete, Martin
  - Crowell, Phil
  - Dion, William
  - Dobson, Paul
@@ -82,6 +103,8 @@ vs:
  - Hebert, Ben
  - Hodgson, Colin
  - Horgan, Tanner
+ - Howard, Greg
+ - Howard, Scott
  - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
@@ -93,13 +116,20 @@ vs:
  - Laing, Brent
  - Laycock, Steve
  - Ledgerwood, Sean
+ - Lowery, Ryan
  - MacKenzie, Eddie
  - Mackey, Peter
  - March, Tim
  - Martin, Karrick
+ - Mathers, David
  - McCann, Andy
+ - McDonah, Alex
+ - McDonah, Evan
+ - McDonald, Scott
  - McEwen, Mike
  - McLeod, Shadrach
+ - Middaugh, Wayne
+ - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
  - Murphy, Jamie
@@ -115,6 +145,9 @@ vs:
  - Samagalski, Derek
  - Sawatsky, Rick
  - Scoffin, Thomas
+ - Smith, Greg
+ - Smith, Tyler
+ - St.Louis, Brady
  - St.Louis, David
  - Thiessen, Brad
  - Trepanier, Jean-Francois

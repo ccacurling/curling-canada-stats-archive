@@ -4,19 +4,19 @@ name: David Mathers
 name-sort: Mathers, David
 totals:
  - event: Brier
-   games: 33
-   wins: 11
-   losses: 22
-   inturn-total: 327
-   inturn-percent: 83
-   outturn-total: 291
-   outturn-percent: 83
-   draw-total: 279
+   games: 45
+   wins: 19
+   losses: 26
+   inturn-total: 438
+   inturn-percent: 84
+   outturn-total: 415
+   outturn-percent: 85
+   draw-total: 384
    draw-percent: 84
-   takeout-total: 339
-   takeout-percent: 82
-   shots-total: 618
-   shots-percent: 83
+   takeout-total: 469
+   takeout-percent: 84
+   shots-total: 853
+   shots-percent: 84
 years:
  - year: 2015
    event: Brier
@@ -69,12 +69,31 @@ years:
    takeout-percent: 82
    shots-total: 210
    shots-percent: 84
+ - year: 2021
+   event: Brier
+   team: "WC"
+   position: Second
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 111
+   inturn-percent: 85
+   outturn-total: 124
+   outturn-percent: 88
+   draw-total: 105
+   draw-percent: 84
+   takeout-total: 130
+   takeout-percent: 88
+   shots-total: 235
+   shots-percent: 86
 vs:
  - Barry, Josh
+ - Beuk, Jonathan
  - Bezanson, Jared
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
+ - Camm, Mathew
  - Carmody, Anson
  - Carruthers, Reid
  - Casey, Adam
@@ -83,12 +102,17 @@ vs:
  - Crete, Martin
  - Crowell, Phil
  - Doherty, Robert
+ - Dunstone, Matthew
  - Eldridge, Zach
+ - Epping, John
  - Flasch, Colton
  - Fry, Ryan
  - Gallant, Brett
+ - Grattan, James
  - Griffith, Ty
+ - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Joey
@@ -111,19 +135,27 @@ vs:
  - LeCocq, Marc
  - Mallais, Jeremy
  - Martin, Karrick
+ - McCann, Andy
  - McEwen, Mike
+ - McKinnon, Robert
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe
+ - Mikkelsen, Dustin
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Naugler, Tom
+ - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
+ - Patzer, Brad
+ - Peech, Alexander
  - Pinder, Jordan
  - Rycroft, Carter
  - Saccary, Scott
@@ -133,6 +165,7 @@ vs:
  - Schneider, Catlin
  - Schneider, Jamie
  - Simmons, Pat
+ - Skauge, Greg
  - Spencer, Adam
  - Sylvain, Eric
  - Thiessen, Brad

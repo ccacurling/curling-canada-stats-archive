@@ -434,7 +434,7 @@ vs:
  - Pinsent, Garry
  - Porter, Ryan
  - Power, Humphrey
- - Power, Joe
+ - Power, Joseph Jr.
  - Rafuse, Brian
  - Rajala, Howard
  - Ramcharan, Rudy

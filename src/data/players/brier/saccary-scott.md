@@ -4,18 +4,18 @@ name: Scott Saccary
 name-sort: Saccary, Scott
 totals:
  - event: Brier
-   games: 29
-   wins: 12
-   losses: 17
-   inturn-total: 253
+   games: 37
+   wins: 16
+   losses: 21
+   inturn-total: 327
    inturn-percent: 83
-   outturn-total: 294
-   outturn-percent: 84
-   draw-total: 258
-   draw-percent: 83
-   takeout-total: 289
-   takeout-percent: 84
-   shots-total: 547
+   outturn-total: 366
+   outturn-percent: 83
+   draw-total: 337
+   draw-percent: 82
+   takeout-total: 356
+   takeout-percent: 83
+   shots-total: 693
    shots-percent: 83
 years:
  - year: 2017
@@ -69,10 +69,63 @@ years:
    takeout-percent: 81
    shots-total: 123
    shots-percent: 80
+ - year: 2021
+   event: Brier
+   team: "NS"
+   position: Second
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 63
+   inturn-percent: 85
+   outturn-total: 67
+   outturn-percent: 76
+   draw-total: 72
+   draw-percent: 82
+   takeout-total: 58
+   takeout-percent: 80
+   shots-total: 130
+   shots-percent: 81
+ - year: 2021
+   event: Brier
+   team: "NS"
+   position: Third
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 11
+   inturn-percent: 86
+   outturn-total: 5
+   outturn-percent: 85
+   draw-total: 7
+   draw-percent: 79
+   takeout-total: 9
+   takeout-percent: 92
+   shots-total: 16
+   shots-percent: 86
+ - year: 2021
+   event: Brier
+   team: Totals
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 74
+   inturn-percent: 85
+   outturn-total: 72
+   outturn-percent: 77
+   draw-total: 79
+   draw-percent: 81
+   takeout-total: 67
+   takeout-percent: 81
+   shots-total: 146
+   shots-percent: 81
 vs:
  - Appelman, Tom
  - Asselin, Emile
+ - Asselin, Felix
  - Bedard, Alek
+ - Blyde, Greg
+ - Boland, Adam
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
@@ -80,6 +133,7 @@ vs:
  - Carruthers, Reid
  - Casey, Adam
  - Chorostkowski, Brad
+ - Chown, Jeff
  - Cochrane, Bryan
  - Cotter, Jim
  - Crete, Martin
@@ -88,6 +142,7 @@ vs:
  - Epping, John
  - Fecteau, Steve
  - Forrest, Alex
+ - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
  - Geall, Sean
@@ -97,9 +152,11 @@ vs:
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
+ - Hebert, Ben
  - Higgs, Jake
  - Hodgson, Colin
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Scott
  - Hunt, Matthew
  - Jacobs, Brad
@@ -114,12 +171,18 @@ vs:
  - Laing, Brent
  - Laycock, Steve
  - LeCocq, Marc
+ - Ledgerwood, Sean
  - Lequin, Bradley
+ - Lowery, Ryan
  - MacAulay, Ian
  - MacDonald, Edmund
+ - MacKenzie, Eddie
+ - Mackey, Peter
  - March, Tim
  - Martin, Karrick
  - Mathers, David
+ - McDonah, Alex
+ - McDonah, Evan
  - McEwen, Mike
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
@@ -145,9 +208,12 @@ vs:
  - Scoffin, Thomas
  - Scoffin, Wade
  - Smith, Greg
+ - Smith, Tyler
+ - St.Louis, Brady
  - Sylvain, Eric
  - Taylor, Andrew
  - Thiessen, Brad
+ - Trepanier, Jean-Francois
  - Walker, Geoff
  - Wettig, Sheldon
  - Withycombe, Ian

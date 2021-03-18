@@ -4,18 +4,18 @@ name: Andrew Nerpin
 name-sort: Nerpin, Andrew
 totals:
  - event: Brier
-   games: 15
-   wins: 4
-   losses: 11
-   inturn-total: 125
-   inturn-percent: 74
-   outturn-total: 151
-   outturn-percent: 80
-   draw-total: 146
-   draw-percent: 78
-   takeout-total: 130
-   takeout-percent: 77
-   shots-total: 276
+   games: 23
+   wins: 7
+   losses: 16
+   inturn-total: 200
+   inturn-percent: 75
+   outturn-total: 228
+   outturn-percent: 79
+   draw-total: 227
+   draw-percent: 75
+   takeout-total: 201
+   takeout-percent: 79
+   shots-total: 428
    shots-percent: 77
 years:
  - year: 2018
@@ -85,15 +85,34 @@ years:
    takeout-percent: 79
    shots-total: 128
    shots-percent: 78
+ - year: 2021
+   event: Brier
+   team: "BC"
+   position: Second
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 75
+   inturn-percent: 76
+   outturn-total: 77
+   outturn-percent: 78
+   draw-total: 81
+   draw-percent: 71
+   takeout-total: 71
+   takeout-percent: 84
+   shots-total: 152
+   shots-percent: 77
 vs:
  - Aho, David
  - Appelman, Tom
+ - Beuk, Jonathan
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
  - Camm, Mathew
  - Carruthers, Reid
  - Case, Peter
+ - Casey, Adam
  - Chorostkowski, Brad
  - Crowell, Phil
  - Dobson, Paul
@@ -105,29 +124,45 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Grattan, James
+ - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hagen, Brandon
+ - Harnden, E.J.
+ - Harnden, Ryan
  - Hebert, Ben
  - Hodgson, Colin
+ - Howard, Scott
  - Hunt, Matthew
  - Ireland, Clint
+ - Jacobs, Brad
  - Jeffrey, Chris
  - Jensen, Trygg
+ - Kennedy, Marc
  - Kidby, Dustin
  - King, Brian
  - Koe, Jamie
  - Koe, Kevin
  - Laing, Brent
+ - March, Tim
  - Martin, Karrick
+ - Mathers, David
  - McCann, Andy
  - McEwen, Mike
+ - McKinnon, Robert
  - McLeod, Shadrach
+ - Middaugh, Wayne
+ - Mikkelsen, Dustin
  - Moskowy, Braeden
  - Moulding, Darren
  - Murphy, Jamie
+ - Naugler, Tom
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Parsons, Cole
+ - Patzer, Brad
+ - Peech, Alexander
  - Saccary, Scott
  - Sallows, Tom
  - Samagalski, Derek
@@ -135,6 +170,7 @@ vs:
  - Schneider, Catlin
  - Scoffin, Thomas
  - Scoffin, Wade
+ - Skauge, Greg
  - Smith, Greg
  - Stapleton, Connor
  - Taylor, Andrew

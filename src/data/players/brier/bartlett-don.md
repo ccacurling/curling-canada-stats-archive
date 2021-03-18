@@ -316,7 +316,7 @@ vs:
  - Pineau, Larry
  - Postma, John
  - Power, Humphrey
- - Power, Joe
+ - Power, Joseph Jr.
  - Pritchett, Bob
  - Pyper, Dwayne
  - Rafuse, Brian

@@ -2,424 +2,424 @@
 title: Brent Gedak Head-to-head
 name: Gedak, Brent
 vs:
- - name: Hart, Richard       
-   totals:                   
+ - name: Hart, Richard
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 85          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Hei'     
+    - player1:
+        team: 'Hei'
         position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'How'    
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'How'
         position: Third
-        percent: 85    
-        win: 1         
-        loss: 0        
+        percent: 85
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(3)   
-      score: How 5 - Hei 3   
- - name: Hebert, Ben         
-   totals:                   
+      year: 2006
+      draw: Round Robin(3)
+      score: How 5 - Hei 3
+ - name: Hebert, Ben
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 75          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 89          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Hei'     
+    - player1:
+        team: 'Hei'
         position: Second
-        percent: 75     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Mor'   
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'Mor'
         position: Lead
-        percent: 89   
-        win: 1        
-        loss: 0       
+        percent: 89
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(10)  
-      score: Mor 11 - Hei 2  
- - name: Hicke, Dean         
-   totals:                   
+      year: 2006
+      draw: Round Robin(10)
+      score: Mor 11 - Hei 2
+ - name: Hicke, Dean
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 88          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 98          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 88
+        wins: 0
+        losses: 1
+      player2:
+        percent: 98
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Hei'     
+    - player1:
+        team: 'Hei'
         position: Second
-        percent: 88     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Des'   
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'Des'
         position: Lead
-        percent: 98   
-        win: 1        
-        loss: 0       
+        percent: 98
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(6)   
-      score: Hei 2 - Des 8   
- - name: Howard, Glenn       
-   totals:                   
+      year: 2006
+      draw: Round Robin(6)
+      score: Hei 2 - Des 8
+ - name: Howard, Glenn
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 89          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Hei'     
+    - player1:
+        team: 'Hei'
         position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'How'     
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'How'
         position: Fourth
-        percent: 89     
-        win: 1          
-        loss: 0         
+        percent: 89
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(3)   
-      score: How 5 - Hei 3   
- - name: Kennedy, Marc       
-   totals:                   
+      year: 2006
+      draw: Round Robin(3)
+      score: How 5 - Hei 3
+ - name: Kennedy, Marc
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 75          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 88          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Hei'     
+    - player1:
+        team: 'Hei'
         position: Second
-        percent: 75     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Mor'     
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'Mor'
         position: Second
-        percent: 88     
-        win: 1          
-        loss: 0         
+        percent: 88
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(10)  
-      score: Mor 11 - Hei 2  
- - name: Koe, Kevin          
-   totals:                   
+      year: 2006
+      draw: Round Robin(10)
+      score: Mor 11 - Hei 2
+ - name: Koe, Kevin
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 75          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 85          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Hei'     
+    - player1:
+        team: 'Hei'
         position: Second
-        percent: 75     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Mor'    
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'Mor'
         position: Third
-        percent: 85    
-        win: 1         
-        loss: 0        
+        percent: 85
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(10)  
-      score: Mor 11 - Hei 2  
- - name: Laing, Brent        
-   totals:                   
+      year: 2006
+      draw: Round Robin(10)
+      score: Mor 11 - Hei 2
+ - name: Laing, Brent
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 78          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Hei'     
+    - player1:
+        team: 'Hei'
         position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'How'     
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'How'
         position: Second
-        percent: 78     
-        win: 1          
-        loss: 0         
+        percent: 78
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(3)   
-      score: How 5 - Hei 3   
- - name: Martin, Kevin       
-   totals:                   
+      year: 2006
+      draw: Round Robin(3)
+      score: How 5 - Hei 3
+ - name: Martin, Kevin
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 93          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 96          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 93
+        wins: 0
+        losses: 1
+      player2:
+        percent: 96
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Hei'     
+    - player1:
+        team: 'Hei'
         position: Second
-        percent: 93     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Mar'     
+        percent: 93
+        win: 0
+        loss: 1
+      player2:
+        team: 'Mar'
         position: Fourth
-        percent: 96     
-        win: 1          
-        loss: 0         
+        percent: 96
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(8)   
-      score: Mar 8 - Hei 3   
- - name: Morris, John        
-   totals:                   
+      year: 2006
+      draw: Round Robin(8)
+      score: Mar 8 - Hei 3
+ - name: Morris, John
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 75          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 96          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 96
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Hei'     
+    - player1:
+        team: 'Hei'
         position: Second
-        percent: 75     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Mor'     
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'Mor'
         position: Fourth
-        percent: 96     
-        win: 1          
-        loss: 0         
+        percent: 96
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(10)  
-      score: Mor 11 - Hei 2  
- - name: Nedohin, David      
-   totals:                   
+      year: 2006
+      draw: Round Robin(10)
+      score: Mor 11 - Hei 2
+ - name: Nedohin, David
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 79          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 80          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 79
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Hei'     
+    - player1:
+        team: 'Hei'
         position: Second
-        percent: 79     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Fer'     
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'Fer'
         position: Fourth
-        percent: 80     
-        win: 1          
-        loss: 0         
+        percent: 80
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(1)   
-      score: Hei 7 - Fer 8   
- - name: Pfeifer, Scott      
-   totals:                   
+      year: 2006
+      draw: Round Robin(1)
+      score: Hei 7 - Fer 8
+ - name: Pfeifer, Scott
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 79          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 81          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 79
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Hei'     
+    - player1:
+        team: 'Hei'
         position: Second
-        percent: 79     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Fer'     
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'Fer'
         position: Second
-        percent: 81     
-        win: 1          
-        loss: 0         
+        percent: 81
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(1)   
-      score: Hei 7 - Fer 8   
- - name: Rocque, Marcel      
-   totals:                   
+      year: 2006
+      draw: Round Robin(1)
+      score: Hei 7 - Fer 8
+ - name: Rocque, Marcel
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 79          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 81          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 79
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Hei'     
+    - player1:
+        team: 'Hei'
         position: Second
-        percent: 79     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'Fer'   
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'Fer'
         position: Lead
-        percent: 81   
-        win: 1        
-        loss: 0       
+        percent: 81
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(1)   
-      score: Hei 7 - Fer 8   
- - name: Rycroft, Carter     
-   totals:                   
+      year: 2006
+      draw: Round Robin(1)
+      score: Hei 7 - Fer 8
+ - name: Rycroft, Carter
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 93          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 93          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 93
+        wins: 0
+        losses: 1
+      player2:
+        percent: 93
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Hei'     
+    - player1:
+        team: 'Hei'
         position: Second
-        percent: 93     
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'Mar'     
+        percent: 93
+        win: 0
+        loss: 1
+      player2:
+        team: 'Mar'
         position: Second
-        percent: 93     
-        win: 1          
-        loss: 0         
+        percent: 93
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(8)   
-      score: Mar 8 - Hei 3   
- - name: Savill, Craig       
-   totals:                   
+      year: 2006
+      draw: Round Robin(8)
+      score: Mar 8 - Hei 3
+ - name: Savill, Craig
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 81          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 89          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Hei'     
+    - player1:
+        team: 'Hei'
         position: Second
-        percent: 81     
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'How'   
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'How'
         position: Lead
-        percent: 89   
-        win: 1        
-        loss: 0       
+        percent: 89
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(3)   
-      score: How 5 - Hei 3   
- - name: Walchuk, Don        
-   totals:                   
+      year: 2006
+      draw: Round Robin(3)
+      score: How 5 - Hei 3
+ - name: Walchuk, Don
+   totals:
     - event: Canada Cup (Men)
-      player1:               
-        percent: 93          
-        wins: 0              
-        losses: 1            
-      player2:               
-        percent: 88          
-        wins: 1              
-        losses: 0            
+      player1:
+        percent: 93
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'Hei'     
+    - player1:
+        team: 'Hei'
         position: Second
-        percent: 93     
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'Mar'    
+        percent: 93
+        win: 0
+        loss: 1
+      player2:
+        team: 'Mar'
         position: Third
-        percent: 88    
-        win: 1         
-        loss: 0        
+        percent: 88
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
-      year: 2006             
-      draw: Round Robin(8)   
-      score: Mar 8 - Hei 3   
+      year: 2006
+      draw: Round Robin(8)
+      score: Mar 8 - Hei 3
 ---

@@ -366,7 +366,7 @@ vs:
  - Peters, Vic
  - Petryk, Dan
  - Piggott, Steve
- - Power, Joe
+ - Power, Joseph Jr.
  - Ravndal, Clayton
  - Rechenmacher, Warren
  - Reddick, Don
