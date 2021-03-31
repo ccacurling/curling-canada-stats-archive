@@ -226,7 +226,7 @@ vs:
       year: 1956
       draw: Round Robin(5)
       score: NS 10 - AB 9
- - name: Knudson, Eric
+ - name: Knudsen, Eric
    totals:
     - event: Macdonald Brier
       player1:

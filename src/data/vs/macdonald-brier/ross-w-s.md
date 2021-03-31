@@ -114,7 +114,7 @@ vs:
       year: 1949
       draw: Round Robin(1)
       score: NO 13 - BC 16
- - name: Tomlin, J.W.
+ - name: Tomelin, J.W.
    totals:
     - event: Macdonald Brier
       player1:

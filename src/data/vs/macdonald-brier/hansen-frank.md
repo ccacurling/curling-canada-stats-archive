@@ -758,7 +758,7 @@ vs:
       year: 1952
       draw: Round Robin(7)
       score: PE 8 - MB 14
- - name: Ostberg, F.
+ - name: Ostberg, Fritz
    totals:
     - event: Macdonald Brier
       player1:
@@ -1178,7 +1178,7 @@ vs:
       year: 1946
       draw: Round Robin(8)
       score: PE 17 - QC 9
- - name: Tomlin, J.W.
+ - name: Tomelin, J.W.
    totals:
     - event: Macdonald Brier
       player1:

@@ -702,7 +702,7 @@ vs:
       year: 1972
       draw: Round Robin(7)
       score: NB 6 - NL 5
- - name: Romando, David
+ - name: Romano, David
    totals:
     - event: Macdonald Brier
       player1:

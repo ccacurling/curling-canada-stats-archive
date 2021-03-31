@@ -94,7 +94,6 @@ vs:
  - Brown, William
  - Bruce, H.A.
  - Buchanan, Bruce
- - Caldbick, Samuel
  - Cobb, Philip
  - Colwell, Harold
  - Condie, Arthur
@@ -152,7 +151,7 @@ vs:
  - Mason, Lloyd
  - Matthews, Whit
  - McArter, William
- - McGillvray, W.L.
+ - McGillivray, W.L.
  - McIntyre, Lloyd
  - McLeod, Henry
  - McLeod, Robert

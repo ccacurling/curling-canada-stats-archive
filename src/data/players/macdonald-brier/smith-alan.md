@@ -136,7 +136,7 @@ vs:
  - Florian, James
  - Ford, Gary
  - Franklin, Ronald
- - Gerlack, David
+ - Gerlach, David
  - Gervais, Hector
  - Giannou, George
  - Gilbert, Donald
@@ -145,7 +145,7 @@ vs:
  - Green, Grant
  - Guest, Ross
  - Hamilton, Kenneth
- - Hanford, Morley
+ - Handford, Morley
  - Hansen, Alan
  - Hawkins, John
  - Hebert, Leo

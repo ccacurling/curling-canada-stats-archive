@@ -1,6 +1,6 @@
 ---
-title: David Gerlack Head-to-head
-name: Gerlack, David
+title: David Gerlach Head-to-head
+name: Gerlach, David
 vs:
  - name: Green, Grant
    totals:

@@ -450,7 +450,7 @@ vs:
       year: 1971
       draw: Round Robin(6)
       score: NB 5 - SK 14
- - name: Knudson, Eric
+ - name: Knudsen, Eric
    totals:
     - event: Macdonald Brier
       player1:

@@ -61,11 +61,11 @@ vs:
  - Easton, Leonard
  - Florian, James
  - Ford, Gary
- - Gerlack, David
+ - Gerlach, David
  - Gervais, Hector
  - Giannou, George
  - Guest, Ross
- - Hanford, Morley
+ - Handford, Morley
  - Hope, Peter
  - Houck, Norman
  - Keith, Harold

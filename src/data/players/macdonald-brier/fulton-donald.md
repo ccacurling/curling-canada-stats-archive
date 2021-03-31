@@ -43,7 +43,7 @@ vs:
  - Hunter, Roderick
  - Kassner, David
  - Keys, John
- - Knudson, Eric
+ - Knudsen, Eric
  - Kroeger, Thomas
  - Leger, Murray
  - Lilly, Raymond

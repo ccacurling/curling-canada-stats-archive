@@ -90,7 +90,7 @@ vs:
  - Flemming, Don
  - Ford, Gary
  - Franklin, Ronald
- - Gerlack, David
+ - Gerlach, David
  - Gervais, Hector
  - Gilbert, Donald
  - Green, Grant

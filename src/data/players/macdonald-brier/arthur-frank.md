@@ -90,6 +90,7 @@ vs:
  - Brower, Edward
  - Brower, John
  - Brown, William
+ - Caldbick, Samuel
  - Campbell, Donald A.
  - Campbell, Duncan A.
  - Campbell, Gordon M.
@@ -109,7 +110,7 @@ vs:
  - Fraser, John
  - Fraser, Reginald
  - Fulton, Jack
- - Gautier, John
+ - Gauthier, John
  - Germaine, Frank
  - Glass, Robert
  - Glover, Cyril

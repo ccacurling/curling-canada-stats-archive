@@ -314,6 +314,34 @@ vs:
       year: 1931
       draw: Round Robin(4)
       score: MO 10 - NS 9
+ - name: Caldbick, Samuel
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Second
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Third
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1938
+      draw: Round Robin(5)
+      score: NO 10 - NS 13
  - name: Campbell, Donald A.
    totals:
     - event: Macdonald Brier
@@ -910,7 +938,7 @@ vs:
       year: 1931
       draw: Round Robin(8)
       score: AB 17 - NS 6
- - name: Gautier, John
+ - name: Gauthier, John
    totals:
     - event: Macdonald Brier
       player1:

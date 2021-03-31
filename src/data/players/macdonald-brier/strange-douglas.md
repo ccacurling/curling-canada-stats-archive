@@ -35,7 +35,7 @@ vs:
  - Czaja, Mitchell
  - Dillon, Robert
  - Ford, Gary
- - Gerlack, David
+ - Gerlach, David
  - Green, Grant
  - Guest, Ross
  - Hope, Peter

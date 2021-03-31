@@ -51,7 +51,7 @@ vs:
  - Landry, Aurele
  - Lang, John
  - Law, George
- - Martin, Erie
+ - Martin, Erle
  - McMitchell, William
  - Newman, Christopher
  - Rafuse, Norman

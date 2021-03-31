@@ -326,7 +326,7 @@ vs:
       year: 1976
       draw: Round Robin(11)
       score: TR 5 - MB 8
- - name: Ducat, SAtephen
+ - name: Ducat, Stephen
    totals:
     - event: Macdonald Brier
       player1:
@@ -1574,7 +1574,7 @@ vs:
       year: 1976
       draw: Round Robin(4)
       score: TR 5 - QC 4
- - name: Ross, John k.
+ - name: Ross, John K.
    totals:
     - event: Macdonald Brier
       player1:

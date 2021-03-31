@@ -105,7 +105,7 @@ vs:
  - Kassner, David
  - Keys, John
  - Kleinmeyer, Arthur
- - Knudson, Eric
+ - Knudsen, Eric
  - Kroeger, Thomas
  - Langlois, Allan
  - Leak, William

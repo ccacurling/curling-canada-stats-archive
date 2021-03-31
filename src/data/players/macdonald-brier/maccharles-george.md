@@ -99,7 +99,7 @@ vs:
  - Grozelle, William
  - Gurowka, Joseph
  - Hamilton, Kenneth
- - Hanford, Morley
+ - Handford, Morley
  - Hansen, Alan
  - Hawkins, John
  - Hooper, Temple

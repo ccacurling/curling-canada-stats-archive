@@ -80,7 +80,7 @@ vs:
  - Kassner, David
  - Keys, John
  - Klippenstein, Daniel
- - Knudson, Eric
+ - Knudsen, Eric
  - Kroeger, Thomas
  - Lang, Rick
  - Leger, Murray

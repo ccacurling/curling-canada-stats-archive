@@ -58,7 +58,7 @@ vs:
       year: 1971
       draw: Round Robin(1)
       score: NS 7 - SK 8
- - name: Gerlack, David
+ - name: Gerlach, David
    totals:
     - event: Macdonald Brier
       player1:
@@ -650,7 +650,7 @@ vs:
       year: 1968
       draw: Round Robin(2)
       score: NB 6 - SK 18
- - name: Knudson, Eric
+ - name: Knudsen, Eric
    totals:
     - event: Macdonald Brier
       player1:

@@ -47,6 +47,7 @@ vs:
  - Arthur, Frank
  - Avery, Francis
  - Beecroft, William
+ - Caldbick, Samuel
  - Cartmell, Elwyn
  - Connolly, Daniel
  - Connolly, Joseph
@@ -57,7 +58,7 @@ vs:
  - Durrant, Charles
  - Finlay, William
  - Fraser, John
- - Gautier, John
+ - Gauthier, John
  - Gowanlock, Albert
  - Hall, Bert
  - Hall, Perry

@@ -142,7 +142,7 @@ vs:
       year: 1953
       draw: Round Robin(6)
       score: MB 12 - ON 9
- - name: Kydd, C.H.
+ - name: Kydd, Charles
    totals:
     - event: Macdonald Brier
       player1:

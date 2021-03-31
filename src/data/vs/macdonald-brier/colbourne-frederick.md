@@ -114,7 +114,7 @@ vs:
       year: 1962
       draw: Round Robin(6)
       score: AB 10 - NL 8
- - name: Hanford, Morley
+ - name: Handford, Morley
    totals:
     - event: Macdonald Brier
       player1:

@@ -71,7 +71,7 @@ vs:
  - Henry, Edward
  - Hollies, Henry
  - Hood, Norman
- - Kydd, C.H.
+ - Kydd, Charles
  - Langlois, Allan
  - Limerick, Arthur
  - Limerick, Victor
@@ -93,7 +93,7 @@ vs:
  - Meyer, William
  - Morrison, Theron
  - Oliver, Angus
- - Ostberg, F.
+ - Ostberg, Fritz
  - Patrick, Jack
  - Petrie, William
  - Piette, Guillaume
@@ -108,7 +108,7 @@ vs:
  - Stone, Roy
  - Syverson, Olie
  - Timmerman, William
- - Tomlin, J.W.
+ - Tomelin, J.W.
  - Turner, Alvin
  - Turney, James
  - Vallas, Murray

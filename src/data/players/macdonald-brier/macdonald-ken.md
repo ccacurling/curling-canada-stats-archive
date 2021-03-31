@@ -195,7 +195,7 @@ vs:
  - Rogers, Les
  - Rogers, Victor
  - Romain, Alfred
- - Romando, David
+ - Romano, David
  - Ross, Brian
  - Ross, John
  - Rubec, Thomas

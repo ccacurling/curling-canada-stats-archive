@@ -36,7 +36,7 @@ vs:
  - Dillon, Robert
  - Easton, Leonard
  - Ford, Gary
- - Gerlack, David
+ - Gerlach, David
  - Guest, Ross
  - Hope, Peter
  - Keith, Harold

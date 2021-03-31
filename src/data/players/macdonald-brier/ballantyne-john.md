@@ -5,16 +5,16 @@ name-sort: Ballantyne, John
 totals:
  - event: Macdonald Brier
    games: 11
-   wins: 5
-   losses: 6
+   wins: 3
+   losses: 8
 years:
  - year: 1978
    event: Macdonald Brier
-   team: "NL"
+   team: "NO"
    position: Third
    games: 11
-   wins: 5
-   losses: 6
+   wins: 3
+   losses: 8
    inturn-total: 0
    inturn-percent:
    outturn-total: 0
@@ -28,14 +28,14 @@ years:
 vs:
  - Aldridge, Glenn
  - Bauer, Keiven
- - Bowcock, Edward
  - Brazeau, Howard
  - Casey, Ronald
  - Chernoff, Mike
  - Cook, Al
  - Currie, Michael
  - Darragh, Alan
- - Ducat, SAtephen
+ - Ducat, Stephen
+ - Fennimore, Charles
  - Folk, Rick
  - Goulden, Lowell
  - Guest, Ross
@@ -49,12 +49,13 @@ vs:
  - MacEachern, Malcolm
  - MacPhee, Peter
  - McLenaghan, Ralph
+ - Melnyk, Thomas
  - Murovic, Karl
  - Murray, Peter
- - Mutrie, Barry
  - Oliver, Bill
  - Paterson, Barry
- - Ross, John k.
+ - Pilling, Anthony
+ - Rowe, Robert
  - Sampson, James
  - Schaefer, Charles
  - Schaefer, James

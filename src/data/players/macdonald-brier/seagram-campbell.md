@@ -69,6 +69,7 @@ vs:
  - Bell, Reginald
  - Bickle, Warner
  - Brower, John
+ - Caldbick, Samuel
  - Cartmell, Elwyn
  - Connolly, Daniel
  - Connolly, Joseph
@@ -87,7 +88,7 @@ vs:
  - Enman, Roy
  - Finlay, William
  - Fraser, John
- - Gautier, John
+ - Gauthier, John
  - Glass, Robert
  - Gowanlock, Albert
  - Hebb, Irving

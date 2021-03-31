@@ -65,8 +65,8 @@ vs:
  - Giles, Brock
  - Gregga, Murray
  - Hailley, Patrick
+ - Handford, Morley
  - Hanesiak, John
- - Hanford, Morley
  - Hansen, Alan
  - Hope, Peter
  - Houck, Norman
@@ -101,7 +101,7 @@ vs:
  - Richardson, Ernest
  - Richardson, Garnet
  - Richardson, Wesley
- - Romando, David
+ - Romano, David
  - Rowe, Robert
  - Ruiter, Garth
  - Secord, Bayne

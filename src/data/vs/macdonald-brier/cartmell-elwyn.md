@@ -410,7 +410,7 @@ vs:
       year: 1938
       draw: Round Robin(8)
       score: MB 12 - PE 6
- - name: Gautier, John
+ - name: Gauthier, John
    totals:
     - event: Macdonald Brier
       player1:

@@ -34,7 +34,7 @@ vs:
  - Chernoff, Mike
  - Currie, Michael
  - Darragh, Alan
- - Ducat, SAtephen
+ - Ducat, Stephen
  - Fennimore, Charles
  - Folk, Rick
  - Goulden, Lowell
@@ -56,7 +56,7 @@ vs:
  - Oliver, Bill
  - Paterson, Barry
  - Pilling, Anthony
- - Ross, John k.
+ - Ross, John K.
  - Rowe, Robert
  - Sampson, James
  - Schaefer, Charles

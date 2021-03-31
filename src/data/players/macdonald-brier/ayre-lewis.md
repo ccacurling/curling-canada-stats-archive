@@ -1,7 +1,7 @@
 ---
-title: Lewis Ayer
-name: Lewis Ayer
-name-sort: Ayer, Lewis
+title: Lewis Ayre
+name: Lewis Ayre
+name-sort: Ayre, Lewis
 totals:
  - event: Macdonald Brier
    games: 10
@@ -43,7 +43,7 @@ vs:
  - Hill, James
  - Issac, William
  - Jackman, Russel
- - Kydd, C.H.
+ - Kydd, Charles
  - MacNevin, Elmer
  - McCance, Chester
  - McEwen, Donald

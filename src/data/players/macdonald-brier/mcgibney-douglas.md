@@ -98,7 +98,7 @@ vs:
  - Acorn, Frank
  - Agnew, Frederick
  - Arseneau, Robert
- - Ayer, Lewis
+ - Ayre, Lewis
  - Baldwin, Mathew
  - Bentley, John
  - Beveridge, Bruce
@@ -180,7 +180,7 @@ vs:
  - Knudson, Arthur
  - Knudson, Elmer
  - Knudson, Gerhard
- - Kydd, C.H.
+ - Kydd, Charles
  - Lamb, Earl
  - Langlois, Allan
  - Likely, Andrew
@@ -220,7 +220,7 @@ vs:
  - Northcott, Ronald
  - Oliver, Leonard
  - Olson, Duane
- - Ostberg, F.
+ - Ostberg, Fritz
  - Ouellet, Aime
  - Oyler, John
  - Parnell, Raymond
@@ -260,7 +260,7 @@ vs:
  - Sullivan, Dave
  - Tetley, William
  - Tissington, Harry
- - Tomlin, J.W.
+ - Tomelin, J.W.
  - Trites, Horace
  - Turner, Alvin
  - Turney, James

@@ -102,7 +102,7 @@ vs:
       year: 1938
       draw: Round Robin(1)
       score: SK 16 - PE 7
- - name: Gautier, John
+ - name: Gauthier, John
    totals:
     - event: Macdonald Brier
       player1:

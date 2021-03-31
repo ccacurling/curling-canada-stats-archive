@@ -1178,7 +1178,7 @@ vs:
       year: 1941
       draw: Round Robin(6)
       score: NB 7 - PE 19
- - name: Martin, Erie
+ - name: Martin, Erle
    totals:
     - event: Macdonald Brier
       player1:

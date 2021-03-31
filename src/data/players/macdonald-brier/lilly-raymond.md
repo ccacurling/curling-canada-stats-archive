@@ -82,7 +82,7 @@ vs:
  - Kaeser, Paul Jr.
  - Kassner, David
  - Keys, John
- - Knudson, Eric
+ - Knudsen, Eric
  - Kroeger, Thomas
  - Lang, Rick
  - LaRocque, Guy

@@ -62,7 +62,7 @@ vs:
  - Cowan, Hector
  - Cox, Frank
  - Ferguson, Benjamin
- - Gardner, Charles
+ - Gardner, Charles Jr.
  - Gebbie, Kenneth
  - Hall, Bert
  - Hall, Perry

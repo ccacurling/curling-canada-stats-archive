@@ -1,20 +1,20 @@
 ---
-title: F. Ostberg
-name: F. Ostberg
-name-sort: Ostberg, F.
+title: J.W. Tomelin
+name: J.W. Tomelin
+name-sort: Tomelin, J.W.
 totals:
  - event: Macdonald Brier
    games: 10
-   wins: 4
-   losses: 6
+   wins: 1
+   losses: 9
 years:
  - year: 1952
    event: Macdonald Brier
-   team: "SK"
-   position: Lead
+   team: "NL"
+   position: Fourth
    games: 10
-   wins: 4
-   losses: 6
+   wins: 1
+   losses: 9
    inturn-total: 0
    inturn-percent:
    outturn-total: 0
@@ -28,23 +28,21 @@ years:
 vs:
  - Bissett, Kenneth
  - Blanchard, Henry
- - Boyd, Austin
  - Brown, Victor
  - Cartwright, Craig
  - Clark, Ralph
  - Dalsto, Norman
- - Fisher, Alexander
  - Fregeau, Leo
  - Gallant, Christopher
  - Gore, Aubrey
  - Guy, James
  - Hansen, Frank
  - Harrison, Burritt
+ - Hastings, Frank
  - Hatfield, Larry
  - Hawkins, Joseph
  - Henry, Edward
- - Hood, Norman
- - Kydd, C.H.
+ - Kydd, Charles
  - Langlois, Allan
  - Limerick, Arthur
  - Limerick, Victor
@@ -55,15 +53,17 @@ vs:
  - McGibney, Douglas
  - McInnis, Harold
  - McWilliams, Andrew
+ - Ostberg, Fritz
  - Parnell, Raymond
  - Pike, Jack
  - Ross, W.S.
  - Simpson, Arthur
  - Stone, Reginald
  - Stone, Roy
- - Tomlin, J.W.
+ - Turner, Alvin
  - Turney, James
  - Walsh, William
  - Watson, John
  - Weldon, Kenneth
+ - Witherow, Nels
 ---

@@ -27,7 +27,7 @@ years:
    shots-percent:
 vs:
  - Agnew, Frederick
- - Ayer, Lewis
+ - Ayre, Lewis
  - Bentley, John
  - Eagles, Albert
  - Gilbert, Gordon

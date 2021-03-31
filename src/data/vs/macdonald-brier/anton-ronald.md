@@ -374,7 +374,7 @@ vs:
         loss: 0
       player2:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -946,7 +946,7 @@ vs:
       year: 1974
       draw: Round Robin(9)
       score: ON 12 - AB 5
- - name: Hanford, Morley
+ - name: Handford, Morley
    totals:
     - event: Macdonald Brier
       player1:

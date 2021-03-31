@@ -35,7 +35,7 @@ vs:
  - Chilton, Murray
  - Clayton, David
  - Cowan, Hector
- - Gardner, Charles
+ - Gardner, Charles Jr.
  - Harrington, A.L.
  - Hayes, Alex
  - Macneill, Murray

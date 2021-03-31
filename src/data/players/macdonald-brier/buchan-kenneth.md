@@ -84,7 +84,7 @@ vs:
  - Fellows, Ronald
  - Ford, Gary
  - Gathercole, Douglas
- - Gerlack, David
+ - Gerlach, David
  - Giannou, George
  - Gingles, Raymond
  - Goodyear, Denzelo

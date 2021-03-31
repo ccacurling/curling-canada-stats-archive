@@ -90,7 +90,7 @@ vs:
  - Lucas, J.A.
  - Magee, Harry
  - Malcolm, John
- - Martin, Erie
+ - Martin, Erle
  - McMahon, A.E.
  - McMahon, James
  - McMitchell, William

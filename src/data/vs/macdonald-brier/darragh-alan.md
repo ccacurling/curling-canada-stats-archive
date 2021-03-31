@@ -86,7 +86,7 @@ vs:
       year: 1979
       draw: Round Robin(1)
       score: AB 8 - NS 6
- - name: Ducat, SAtephen
+ - name: Ducat, Stephen
    totals:
     - event: Macdonald Brier
       player1:
@@ -1138,7 +1138,7 @@ vs:
       year: 1979
       draw: Round Robin(3)
       score: NO 3 - NS 5
- - name: Ross, John k.
+ - name: Ross, John K.
    totals:
     - event: Macdonald Brier
       player1:

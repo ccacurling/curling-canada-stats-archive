@@ -1,6 +1,6 @@
 ---
-title: John Gautier Head-to-head
-name: Gautier, John
+title: John Gauthier Head-to-head
+name: Gauthier, John
 vs:
  - name: Gowanlock, Albert
    totals:

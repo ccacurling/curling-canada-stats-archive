@@ -114,7 +114,7 @@ vs:
  - Kent, William
  - Keys, John
  - Klippenstein, Daniel
- - Knudson, Eric
+ - Knudsen, Eric
  - Kroeger, Thomas
  - Lang, Rick
  - Langille, Kenneth
@@ -148,7 +148,7 @@ vs:
  - Reed, Tom
  - Rhodenizer, Wayne
  - Riley, Mike
- - Romando, David
+ - Romano, David
  - Rowe, Robert
  - Sanford, John
  - Sargent, Frank Jr.

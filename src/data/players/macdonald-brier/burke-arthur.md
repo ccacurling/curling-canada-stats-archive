@@ -155,7 +155,7 @@ vs:
  - Gurowka, Joseph
  - Hallinan, William
  - Hammond, John
- - Hanford, Morley
+ - Handford, Morley
  - Hansen, Alan
  - Hebert, Leo
  - Herder, Daniel

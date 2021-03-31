@@ -91,7 +91,7 @@ vs:
  - Davey, Bruce
  - Devlin, Derek
  - Devlin, Paul
- - Ducat, SAtephen
+ - Ducat, Stephen
  - Fedosa, Robert
  - Fennimore, Charles
  - Folk, Rick
@@ -150,7 +150,7 @@ vs:
  - Reed, Lorne
  - Reed, Tom
  - Riley, Mike
- - Ross, John k.
+ - Ross, John K.
  - Rowe, Robert
  - Ryan, Pat
  - Sampson, James

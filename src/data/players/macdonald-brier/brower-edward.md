@@ -70,7 +70,6 @@ vs:
  - Brown, William
  - Butler, Richard
  - Cairns, Charles
- - Caldbick, Samuel
  - Carew, Frank
  - Condie, Arthur
  - Connolly, Daniel
@@ -111,7 +110,7 @@ vs:
  - Mason, Lloyd
  - McAndrews, Frederick
  - McArter, William
- - McGillvray, W.L.
+ - McGillivray, W.L.
  - McLeod, Henry
  - McLeod, N.D.
  - McLuckie, William

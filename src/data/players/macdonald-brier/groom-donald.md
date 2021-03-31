@@ -133,7 +133,7 @@ vs:
  - MacDonald, Elmer
  - MacDonald, Wendell
  - Mann, Robert
- - Martin, Erie
+ - Martin, Erle
  - McCorrister, John
  - McCully, Richard
  - McManus, Cecil

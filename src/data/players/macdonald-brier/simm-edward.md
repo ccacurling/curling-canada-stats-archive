@@ -28,6 +28,7 @@ years:
 vs:
  - Annett, Sidney
  - Brower, John
+ - Caldbick, Samuel
  - Cartmell, Elwyn
  - Connolly, Daniel
  - Connolly, Joseph
@@ -36,7 +37,7 @@ vs:
  - Dunbar, George
  - Finlay, William
  - Fraser, John
- - Gautier, John
+ - Gauthier, John
  - Gowanlock, Albert
  - Hall, Bert
  - Hall, Perry

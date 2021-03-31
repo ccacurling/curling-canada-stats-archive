@@ -151,7 +151,7 @@ vs:
  - Richardson, Arnold
  - Richardson, Ernest
  - Richardson, Garnet
- - Romando, David
+ - Romano, David
  - Rowe, Robert
  - Saboe, Wayne
  - Saunders, Allison

@@ -1018,7 +1018,7 @@ vs:
       year: 1957
       draw: Round Robin(11)
       score: MB 4 - AB 7
- - name: Knudson, Eric
+ - name: Knudsen, Eric
    totals:
     - event: Macdonald Brier
       player1:

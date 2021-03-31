@@ -94,7 +94,7 @@ vs:
  - McKelvey, Fenwick
  - McKnight, William
  - McWilliams, Andrew
- - Ostberg, F.
+ - Ostberg, Fritz
  - Parnell, Raymond
  - Patton, James
  - Pike, Jack
@@ -109,7 +109,7 @@ vs:
  - Stone, Roy
  - Swelin, Bartley
  - Thompson, Edward
- - Tomlin, J.W.
+ - Tomelin, J.W.
  - Turner, Alvin
  - Turney, James
  - Walsh, William

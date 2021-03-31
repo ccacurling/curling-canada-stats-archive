@@ -106,7 +106,7 @@ vs:
  - Jones, Stanley
  - Jordan, Harold
  - Kleinmeyer, Arthur
- - Kydd, C.H.
+ - Kydd, Charles
  - Langlois, Allan
  - Leak, William
  - Likely, Andrew
@@ -134,7 +134,7 @@ vs:
  - Moscovitz, William
  - Muirhead, Frank
  - Oliver, Leonard
- - Ostberg, F.
+ - Ostberg, Fritz
  - Ouellet, Aime
  - Parnell, Raymond
  - Patterson, Ralph
@@ -155,7 +155,7 @@ vs:
  - Steski, Rudy
  - Stone, Reginald
  - Stone, Roy
- - Tomlin, J.W.
+ - Tomelin, J.W.
  - Trites, Horace
  - Turner, Alvin
  - Turney, James

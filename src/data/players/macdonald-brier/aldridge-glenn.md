@@ -55,7 +55,7 @@ vs:
  - Oliver, Bill
  - Paterson, Barry
  - Pilling, Anthony
- - Ross, John k.
+ - Ross, John K.
  - Rowe, Robert
  - Sampson, James
  - Schaefer, Charles

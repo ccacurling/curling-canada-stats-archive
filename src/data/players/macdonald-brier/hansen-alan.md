@@ -75,7 +75,7 @@ vs:
  - Grimes, Gordon
  - Gullage, John
  - Gutoski, Anthony
- - Hanford, Morley
+ - Handford, Morley
  - Haynes, Gordon
  - Hellemond, John
  - Hope, Peter

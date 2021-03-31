@@ -27,7 +27,7 @@ years:
    shots-percent:
 vs:
  - Allanach, Lee
- - Asnussen, Carl
+ - Asmussen, Carl
  - Bull, William
  - Cartmell, Elwyn
  - Cobb, T.R.

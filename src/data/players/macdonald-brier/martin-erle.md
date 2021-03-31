@@ -1,7 +1,7 @@
 ---
-title: Erie Martin
-name: Erie Martin
-name-sort: Martin, Erie
+title: Erle Martin
+name: Erle Martin
+name-sort: Martin, Erle
 totals:
  - event: Macdonald Brier
    games: 9

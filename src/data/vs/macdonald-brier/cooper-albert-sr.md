@@ -366,7 +366,7 @@ vs:
       year: 1942
       draw: Round Robin(1)
       score: BC 10 - NO 13
- - name: Martin, Erie
+ - name: Martin, Erle
    totals:
     - event: Macdonald Brier
       player1:

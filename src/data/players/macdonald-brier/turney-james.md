@@ -45,7 +45,7 @@ years:
 vs:
  - Acorn, Frank
  - Agnew, Frederick
- - Ayer, Lewis
+ - Ayre, Lewis
  - Bentley, John
  - Bissett, Kenneth
  - Blanchard, Henry
@@ -79,7 +79,7 @@ vs:
  - Hood, Norman
  - Howell, Wilbert
  - Jackman, Russel
- - Kydd, C.H.
+ - Kydd, Charles
  - Langlois, Allan
  - Limerick, Arthur
  - Limerick, Victor
@@ -96,7 +96,7 @@ vs:
  - Mitton, Harris
  - Moore, Stewart
  - Noble, Ralph
- - Ostberg, F.
+ - Ostberg, Fritz
  - Parnell, Raymond
  - Pike, Jack
  - Pollen, Arthur
@@ -110,7 +110,7 @@ vs:
  - Stone, Reginald
  - Stone, Roy
  - Stoneman, Jack
- - Tomlin, J.W.
+ - Tomelin, J.W.
  - Trites, Horace
  - Turner, Alvin
  - Walsh, William

@@ -50,7 +50,6 @@ vs:
  - Beelby, Charles
  - Braithwaite, Robert
  - Brown, William
- - Caldbick, Samuel
  - Condie, Arthur
  - Connolly, Daniel
  - Connolly, Joseph
@@ -77,7 +76,7 @@ vs:
  - Malcolm, John
  - Mason, Lloyd
  - McArter, William
- - McGillvray, W.L.
+ - McGillivray, W.L.
  - McLeod, Henry
  - McLeod, N.D.
  - Meredith, Selvin

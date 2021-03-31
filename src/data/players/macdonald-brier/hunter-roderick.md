@@ -149,7 +149,7 @@ vs:
  - Keys, John
  - Klein, Joseph
  - Klippenstein, Daniel
- - Knudson, Eric
+ - Knudsen, Eric
  - Kroeger, Thomas
  - Lang, Rick
  - Leger, Murray

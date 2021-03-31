@@ -268,7 +268,7 @@ vs:
  - Franklin, Ronald
  - Fry, Reginald
  - Fulton, Donald
- - Gerlack, David
+ - Gerlach, David
  - Gervais, Hector
  - Gilbert, Donald
  - Gillard, Arthur
@@ -323,7 +323,7 @@ vs:
  - Kitson, Leslie
  - Kleinmeyer, Arthur
  - Klotz, George
- - Knudson, Eric
+ - Knudsen, Eric
  - Kroeger, Thomas
  - Lamb, Earl
  - Lanaghan, Harold

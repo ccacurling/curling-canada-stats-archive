@@ -1,6 +1,6 @@
 ---
-title: Lewis Ayer Head-to-head
-name: Ayer, Lewis
+title: Lewis Ayre Head-to-head
+name: Ayre, Lewis
 vs:
  - name: Bentley, John
    totals:
@@ -422,7 +422,7 @@ vs:
       year: 1953
       draw: Round Robin(8)
       score: MB 22 - NL 5
- - name: Kydd, C.H.
+ - name: Kydd, Charles
    totals:
     - event: Macdonald Brier
       player1:

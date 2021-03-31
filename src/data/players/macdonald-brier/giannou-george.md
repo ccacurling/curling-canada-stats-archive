@@ -82,7 +82,7 @@ vs:
  - Foster, Henry
  - Gervais, Hector
  - Glinz, Gerald
- - Hanford, Morley
+ - Handford, Morley
  - Hansen, Alan
  - Haynes, Gordon
  - Hebert, Leo

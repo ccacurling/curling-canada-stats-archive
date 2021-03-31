@@ -45,6 +45,7 @@ years:
 vs:
  - Aitken, Don
  - Aldridge, Glenn
+ - Ballantyne, John
  - Bauer, Keiven
  - Bowcock, Edward
  - Boyd, John
@@ -56,7 +57,7 @@ vs:
  - Coombe, Eldon
  - Currie, Michael
  - Darragh, Alan
- - Ducat, SAtephen
+ - Ducat, Stephen
  - Farrell, Glen
  - Folk, Rick
  - Forgues, Keith
@@ -100,8 +101,8 @@ vs:
  - Provost, Barry
  - Ready, Clifford
  - Rhodenizer, Wayne
- - Romando, David
- - Ross, John k.
+ - Romano, David
+ - Ross, John K.
  - Sampson, James
  - Schaefer, Charles
  - Schaefer, James

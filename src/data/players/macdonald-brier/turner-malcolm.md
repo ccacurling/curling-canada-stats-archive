@@ -99,7 +99,7 @@ vs:
  - Pierce, Glen
  - Pilling, Anthony
  - Pineau, Larry
- - Ross, John k.
+ - Ross, John K.
  - Rowe, Robert
  - Ryan, Pat
  - Sampson, James

@@ -1,6 +1,6 @@
 ---
-title: Carl Asnussen Head-to-head
-name: Asnussen, Carl
+title: Carl Asmussen Head-to-head
+name: Asmussen, Carl
 vs:
  - name: Beattie, Andrew
    totals:

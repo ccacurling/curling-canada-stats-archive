@@ -60,7 +60,7 @@ vs:
  - Darragh, Alan
  - DeBlonde, Clare
  - DeBlonde, Garry
- - Ducat, SAtephen
+ - Ducat, Stephen
  - Fennimore, Charles
  - Finkbeiner, Donald
  - Finkbeiner, Douglas
@@ -105,7 +105,7 @@ vs:
  - Pilling, Anthony
  - Romain, Alfred
  - Ross, Brian
- - Ross, John k.
+ - Ross, John K.
  - Rowe, Robert
  - Rubec, Thomas
  - Sampson, James

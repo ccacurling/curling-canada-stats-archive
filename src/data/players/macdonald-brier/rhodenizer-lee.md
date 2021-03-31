@@ -63,8 +63,8 @@ vs:
  - Acorn, Frank
  - Agnew, Frederick
  - Allanach, Lee
- - Asnussen, Carl
- - Ayer, Lewis
+ - Asmussen, Carl
+ - Ayre, Lewis
  - Baldwin, Mathew
  - Beattie, Andrew
  - Beattie, Thomas
@@ -110,7 +110,7 @@ vs:
  - Jackman, Russel
  - Kenny, William
  - Kleinmeyer, Arthur
- - Kydd, C.H.
+ - Kydd, Charles
  - Lamb, Earl
  - Lillyman, Gordon
  - Lister, Ralph

@@ -62,7 +62,7 @@ years:
 vs:
  - Acorn, Frank
  - Agnew, Frederick
- - Ayer, Lewis
+ - Ayre, Lewis
  - Baldwin, Mathew
  - Bentley, John
  - Bissett, Kenneth
@@ -111,7 +111,7 @@ vs:
  - Hutton, Robert
  - Jackman, Russel
  - Kleinmeyer, Arthur
- - Kydd, C.H.
+ - Kydd, Charles
  - Lamb, Earl
  - Langlois, Allan
  - Limerick, Arthur
@@ -133,7 +133,7 @@ vs:
  - Mooreside, William
  - Neal, Douglas
  - Noble, Ralph
- - Ostberg, F.
+ - Ostberg, Fritz
  - Parnell, Raymond
  - Piercey, William
  - Pike, Jack
@@ -157,7 +157,7 @@ vs:
  - Stoneman, Jack
  - Tetley, William
  - Tissington, Harry
- - Tomlin, J.W.
+ - Tomelin, J.W.
  - Trites, Horace
  - Turner, Alvin
  - Walsh, William

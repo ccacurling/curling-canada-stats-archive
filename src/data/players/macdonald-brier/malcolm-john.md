@@ -91,7 +91,6 @@ vs:
  - Brandon, John
  - Brower, Edward
  - Brown, William
- - Caldbick, Samuel
  - Campbell, Donald A.
  - Campbell, Duncan A.
  - Campbell, Gordon M.
@@ -146,7 +145,7 @@ vs:
  - Macneill, Murray
  - Manahan, Clifford
  - McCulloch, Henry
- - McGillvray, W.L.
+ - McGillivray, W.L.
  - McLauchlan, Cliff
  - McLeod, N.D.
  - McMahon, A.E.

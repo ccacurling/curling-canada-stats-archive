@@ -170,7 +170,7 @@ vs:
       year: 1978
       draw: Round Robin(3)
       score: NO 4 - NS 13
- - name: Ducat, SAtephen
+ - name: Ducat, Stephen
    totals:
     - event: Macdonald Brier
       player1:

@@ -55,7 +55,7 @@ vs:
  - Provost, Barry
  - Ready, Clifford
  - Rhodenizer, Wayne
- - Romando, David
+ - Romano, David
  - Shearer, Barry
  - Sparkes, Bernie
  - Sullivan, Dave

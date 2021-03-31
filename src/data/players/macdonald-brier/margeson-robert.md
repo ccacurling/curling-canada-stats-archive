@@ -92,7 +92,7 @@ vs:
  - Ford, Gary
  - Fortier, John
  - Fox, Jim
- - Gerlack, David
+ - Gerlach, David
  - Grahame, Kenneth
  - Green, Grant
  - Green, Ronald

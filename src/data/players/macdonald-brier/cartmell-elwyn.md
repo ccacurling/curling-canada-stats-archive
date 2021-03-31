@@ -63,13 +63,14 @@ vs:
  - Allanach, Lee
  - Annett, Sidney
  - Arthur, Frank
- - Asnussen, Carl
+ - Asmussen, Carl
  - Baldwin, Mathew
  - Beattie, Andrew
  - Beattie, Thomas
  - Brower, John
  - Bull, William
  - Burge, Wesley
+ - Caldbick, Samuel
  - Callaghan, Thomas
  - Campbell, Donald C.
  - Campbell, Garnet
@@ -89,7 +90,7 @@ vs:
  - Ferry, John
  - Finlay, William
  - Fraser, John
- - Gautier, John
+ - Gauthier, John
  - Gray, Glenn
  - Groom, Donald
  - Haines, Bernard

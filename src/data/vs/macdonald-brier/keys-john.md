@@ -58,7 +58,7 @@ vs:
       year: 1961
       draw: Round Robin(2)
       score: BC 9 - SK 10
- - name: Knudson, Eric
+ - name: Knudsen, Eric
    totals:
     - event: Macdonald Brier
       player1:

@@ -114,7 +114,7 @@ vs:
       year: 1978
       draw: Round Robin(5)
       score: NS 8 - PE 10
- - name: Ducat, SAtephen
+ - name: Ducat, Stephen
    totals:
     - event: Macdonald Brier
       player1:
@@ -674,7 +674,7 @@ vs:
       year: 1978
       draw: Round Robin(8)
       score: NL 8 - PE 3
- - name: Ross, John k.
+ - name: Ross, John K.
    totals:
     - event: Macdonald Brier
       player1:

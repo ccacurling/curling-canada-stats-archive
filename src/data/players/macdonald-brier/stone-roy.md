@@ -117,7 +117,7 @@ vs:
  - Anton, Ronald
  - Armstrong, William
  - Atkinson, Hiram
- - Ayer, Lewis
+ - Ayre, Lewis
  - Baldwin, Mathew
  - Beagle, Stuart
  - Bell, Kenneth
@@ -184,7 +184,7 @@ vs:
  - Guy, James
  - Haggarty, David
  - Haines, Bernard
- - Hanford, Morley
+ - Handford, Morley
  - Hansen, Alan
  - Hansen, Frank
  - Harrington, James
@@ -215,7 +215,7 @@ vs:
  - Kittleson, E.S.
  - Kleinmeyer, Arthur
  - Kostick, John
- - Kydd, C.H.
+ - Kydd, Charles
  - Lamb, Earl
  - Langlois, Allan
  - Larsen, Vernon
@@ -254,7 +254,7 @@ vs:
  - Neal, Douglas
  - Noble, Ralph
  - Oliver, Leonard
- - Ostberg, F.
+ - Ostberg, Fritz
  - Ouellet, Aime
  - Painter, Donald
  - Parnell, Raymond
@@ -305,7 +305,7 @@ vs:
  - Taite, John
  - Tetley, William
  - Tissington, Harry
- - Tomlin, J.W.
+ - Tomelin, J.W.
  - Trites, Horace
  - Turner, Alvin
  - Turney, James

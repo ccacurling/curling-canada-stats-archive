@@ -2,7 +2,7 @@
 title: Frederick Agnew Head-to-head
 name: Agnew, Frederick
 vs:
- - name: Ayer, Lewis
+ - name: Ayre, Lewis
    totals:
     - event: Macdonald Brier
       player1:
@@ -422,7 +422,7 @@ vs:
       year: 1953
       draw: Round Robin(10)
       score: MB 10 - AB 6
- - name: Kydd, C.H.
+ - name: Kydd, Charles
    totals:
     - event: Macdonald Brier
       player1:

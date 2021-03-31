@@ -382,7 +382,7 @@ vs:
       year: 1938
       draw: Round Robin(5)
       score: MB 13 - NB 7
- - name: Kydd, C.H.
+ - name: Kydd, Charles
    totals:
     - event: Macdonald Brier
       player1:

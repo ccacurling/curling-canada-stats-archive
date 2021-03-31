@@ -170,7 +170,7 @@ vs:
  - Folk, Tony
  - Franklin, Ronald
  - Fulton, Donald
- - Gerlack, David
+ - Gerlach, David
  - Gervais, Hector
  - Gilbert, Donald
  - Gillard, Arthur
@@ -203,7 +203,7 @@ vs:
  - Ketch, Ronald
  - Kilburn, James
  - Klotz, George
- - Knudson, Eric
+ - Knudsen, Eric
  - Kroeger, Thomas
  - Leger, Murray
  - Lemecha, Robert

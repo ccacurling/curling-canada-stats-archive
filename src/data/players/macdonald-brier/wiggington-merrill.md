@@ -110,7 +110,7 @@ vs:
  - Ford, Gary
  - Fox, Jim
  - Fraser, Jack
- - Gerlack, David
+ - Gerlach, David
  - Gervais, Hector
  - Gilbert, Donald
  - Grahame, Kenneth

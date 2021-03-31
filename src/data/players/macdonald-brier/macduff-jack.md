@@ -103,7 +103,7 @@ vs:
  - Ready, Clifford
  - Rhodenizer, Wayne
  - Romain, Alfred
- - Romando, David
+ - Romano, David
  - Ross, Brian
  - Rubec, Thomas
  - Schaefer, Charles

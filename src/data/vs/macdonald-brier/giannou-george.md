@@ -30,7 +30,7 @@ vs:
       year: 1956
       draw: Round Robin(2)
       score: NL 8 - NS 14
- - name: Hanford, Morley
+ - name: Handford, Morley
    totals:
     - event: Macdonald Brier
       player1:

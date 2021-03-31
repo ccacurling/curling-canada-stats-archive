@@ -562,7 +562,7 @@ vs:
       year: 1947
       draw: Round Robin(6)
       score: ON 8 - NB 17
- - name: Ostberg, F.
+ - name: Ostberg, Fritz
    totals:
     - event: Macdonald Brier
       player1:
@@ -1082,7 +1082,7 @@ vs:
       year: 1939
       draw: Round Robin(6)
       score: QC 7 - NB 13
- - name: Tomlin, J.W.
+ - name: Tomelin, J.W.
    totals:
     - event: Macdonald Brier
       player1:

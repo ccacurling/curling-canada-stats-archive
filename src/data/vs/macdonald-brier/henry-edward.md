@@ -198,7 +198,7 @@ vs:
       year: 1956
       draw: Round Robin(5)
       score: NS 10 - AB 9
- - name: Kydd, C.H.
+ - name: Kydd, Charles
    totals:
     - event: Macdonald Brier
       player1:
@@ -818,7 +818,7 @@ vs:
       year: 1956
       draw: Round Robin(3)
       score: BC 7 - NS 14
- - name: Ostberg, F.
+ - name: Ostberg, Fritz
    totals:
     - event: Macdonald Brier
       player1:
@@ -1182,7 +1182,7 @@ vs:
       year: 1952
       draw: Round Robin(6)
       score: BC 9 - NS 8
- - name: Tomlin, J.W.
+ - name: Tomelin, J.W.
    totals:
     - event: Macdonald Brier
       player1:

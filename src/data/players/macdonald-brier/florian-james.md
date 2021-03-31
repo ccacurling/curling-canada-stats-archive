@@ -93,7 +93,7 @@ vs:
  - Goldburg, Reginald
  - Grahame, Kenneth
  - Green, Ronald
- - Hanford, Morley
+ - Handford, Morley
  - Hansen, Alan
  - Harry, Donald
  - Harry, Morley

@@ -188,7 +188,7 @@ vs:
  - Malcolm, Donald
  - Malcolm, John
  - Manahan, Clifford
- - Martin, Erie
+ - Martin, Erle
  - McArdle, Charles
  - McCulloch, Henry
  - McDiairmid, Alixter

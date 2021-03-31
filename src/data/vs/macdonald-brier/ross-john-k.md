@@ -1,6 +1,6 @@
 ---
-title: John k. Ross Head-to-head
-name: Ross, John k.
+title: John K. Ross Head-to-head
+name: Ross, John K.
 vs:
  - name: Rowe, Robert
    totals:

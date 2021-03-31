@@ -35,7 +35,7 @@ vs:
  - Dillon, Robert
  - Easton, Leonard
  - Ford, Gary
- - Gerlack, David
+ - Gerlach, David
  - Green, Grant
  - Guest, Ross
  - Johnson, Terence

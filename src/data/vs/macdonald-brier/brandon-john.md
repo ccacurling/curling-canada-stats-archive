@@ -2,34 +2,6 @@
 title: John Brandon Head-to-head
 name: Brandon, John
 vs:
- - name: Caldbick, Samuel
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'ON'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1928
-      draw: Round Robin(1)
-      score: NO 8 - ON 14
  - name: Congalton, James
    totals:
     - event: Macdonald Brier
@@ -702,7 +674,7 @@ vs:
       year: 1932
       draw: Round Robin(5)
       score: MB 12 - ON 10
- - name: McGillvray, W.L.
+ - name: McGillivray, W.L.
    totals:
     - event: Macdonald Brier
       player1:

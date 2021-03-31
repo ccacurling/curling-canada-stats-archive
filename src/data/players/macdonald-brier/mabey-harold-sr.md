@@ -92,7 +92,7 @@ vs:
  - Goodman, Lloyd
  - Groom, Donald
  - Groom, William
- - Hanford, Morley
+ - Handford, Morley
  - Hansen, Alan
  - Hanson, George
  - Harper, Glen

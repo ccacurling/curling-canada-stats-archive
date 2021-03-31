@@ -147,7 +147,7 @@ vs:
  - Ford, Gary
  - Gardiner, Sydney
  - Geddes, Jack
- - Gerlack, David
+ - Gerlach, David
  - Gilbert, Donald
  - Gordon, Ernest
  - Grant, Andrew

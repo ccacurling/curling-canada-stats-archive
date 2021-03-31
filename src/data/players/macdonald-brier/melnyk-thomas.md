@@ -27,6 +27,7 @@ years:
    shots-percent:
 vs:
  - Aldridge, Glenn
+ - Ballantyne, John
  - Bauer, Keiven
  - Bowcock, Edward
  - Brazeau, Howard
@@ -35,7 +36,7 @@ vs:
  - Cook, Al
  - Currie, Michael
  - Darragh, Alan
- - Ducat, SAtephen
+ - Ducat, Stephen
  - Folk, Rick
  - Goulden, Lowell
  - Guest, Ross
@@ -54,7 +55,7 @@ vs:
  - Mutrie, Barry
  - Oliver, Bill
  - Paterson, Barry
- - Ross, John k.
+ - Ross, John K.
  - Sampson, James
  - Schaefer, Charles
  - Schaefer, James

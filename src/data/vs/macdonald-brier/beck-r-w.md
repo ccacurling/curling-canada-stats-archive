@@ -198,7 +198,7 @@ vs:
       year: 1936
       draw: Round Robin(2)
       score: ON 17 - PE 10
- - name: Gardner, Charles
+ - name: Gardner, Charles Jr.
    totals:
     - event: Macdonald Brier
       player1:

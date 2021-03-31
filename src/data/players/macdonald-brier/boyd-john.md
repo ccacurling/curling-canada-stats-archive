@@ -104,7 +104,7 @@ vs:
  - Reed, Tom
  - Rhodenizer, Wayne
  - Riley, Mike
- - Romando, David
+ - Romano, David
  - Rowe, Robert
  - Shearer, Barry
  - Silliphant, David

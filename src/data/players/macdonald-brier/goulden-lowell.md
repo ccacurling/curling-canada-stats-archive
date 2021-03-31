@@ -34,7 +34,7 @@ vs:
  - Casey, Ronald
  - Chernoff, Mike
  - Cook, Al
- - Ducat, SAtephen
+ - Ducat, Stephen
  - Fennimore, Charles
  - Folk, Rick
  - Guest, Ross
@@ -54,7 +54,7 @@ vs:
  - Oliver, Bill
  - Paterson, Barry
  - Pilling, Anthony
- - Ross, John k.
+ - Ross, John K.
  - Rowe, Robert
  - Sampson, James
  - Schaefer, Charles

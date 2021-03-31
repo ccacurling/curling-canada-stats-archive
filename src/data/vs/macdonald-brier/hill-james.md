@@ -226,7 +226,7 @@ vs:
       year: 1956
       draw: Round Robin(7)
       score: SK 12 - AB 4
- - name: Kydd, C.H.
+ - name: Kydd, Charles
    totals:
     - event: Macdonald Brier
       player1:

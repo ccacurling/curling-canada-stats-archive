@@ -66,7 +66,7 @@ vs:
  - Ellis, Kenneth
  - Ford, Gary
  - Franklin, Ronald
- - Gerlack, David
+ - Gerlach, David
  - Gould, Raymond
  - Grant, Ray
  - Green, Grant

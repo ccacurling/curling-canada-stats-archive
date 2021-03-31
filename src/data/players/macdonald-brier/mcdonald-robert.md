@@ -64,7 +64,7 @@ vs:
  - Fisher, Thomas
  - Ford, Gary
  - Fulton, Donald
- - Gerlack, David
+ - Gerlach, David
  - Gillard, Arthur
  - Green, Grant
  - Guest, Ross
@@ -75,7 +75,7 @@ vs:
  - Kassner, David
  - Keith, Harold
  - Keys, John
- - Knudson, Eric
+ - Knudsen, Eric
  - Kroeger, Thomas
  - Leger, Murray
  - Lilly, Raymond

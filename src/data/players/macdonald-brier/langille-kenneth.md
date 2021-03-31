@@ -92,7 +92,7 @@ vs:
  - Provost, Barry
  - Ready, Clifford
  - Rhodenizer, Wayne
- - Romando, David
+ - Romano, David
  - Ross, John R.
  - Ross, William
  - Rowe, Robert

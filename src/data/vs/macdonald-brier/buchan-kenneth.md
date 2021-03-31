@@ -482,7 +482,7 @@ vs:
       year: 1963
       draw: Round Robin(2)
       score: NO 4 - ON 8
- - name: Gerlack, David
+ - name: Gerlach, David
    totals:
     - event: Macdonald Brier
       player1:

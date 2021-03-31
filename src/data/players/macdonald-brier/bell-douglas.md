@@ -59,7 +59,7 @@ vs:
  - Easton, Leonard
  - Flemming, Don
  - Ford, Gary
- - Gerlack, David
+ - Gerlach, David
  - Gilbert, Donald
  - Green, Grant
  - Guest, Ross

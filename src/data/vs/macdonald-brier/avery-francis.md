@@ -2098,7 +2098,7 @@ vs:
       year: 1937
       draw: Round Robin(3)
       score: BC 13 - AB 6
- - name: Martin, Erie
+ - name: Martin, Erle
    totals:
     - event: Macdonald Brier
       player1:

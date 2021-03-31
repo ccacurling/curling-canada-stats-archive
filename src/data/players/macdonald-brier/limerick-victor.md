@@ -107,7 +107,7 @@ vs:
  - Irish, I.O.
  - Irving, Ernest
  - Kennedy, Ross
- - Kydd, C.H.
+ - Kydd, Charles
  - Lanaghan, Harold
  - Langlois, Allan
  - Law, George
@@ -132,7 +132,7 @@ vs:
  - Munro, Robert
  - Norman, Horton
  - O'Donnell, Edmond
- - Ostberg, F.
+ - Ostberg, Fritz
  - Palmer, Howard
  - Parkes, Ernest
  - Parnell, Raymond
@@ -150,7 +150,7 @@ vs:
  - Stone, Roy
  - Sutherland, Duncan
  - Thompson, Edward
- - Tomlin, J.W.
+ - Tomelin, J.W.
  - Trueman, Samuel
  - Turner, Alvin
  - Turney, James

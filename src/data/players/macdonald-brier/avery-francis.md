@@ -151,7 +151,7 @@ vs:
  - MacLean, Everett
  - Manahan, Clifford
  - Manahan, Ross
- - Martin, Erie
+ - Martin, Erle
  - Maw, Edwin
  - Mayes, Frederick
  - McIntyre, Heath

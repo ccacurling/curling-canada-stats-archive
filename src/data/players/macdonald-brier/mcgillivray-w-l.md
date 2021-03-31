@@ -1,7 +1,7 @@
 ---
-title: W.L. McGillvray
-name: W.L. McGillvray
-name-sort: McGillvray, W.L.
+title: W.L. McGillivray
+name: W.L. McGillivray
+name-sort: McGillivray, W.L.
 totals:
  - event: Macdonald Brier
    games: 9
@@ -30,7 +30,6 @@ vs:
  - Banks, W.J.
  - Brandon, John
  - Brower, Edward
- - Caldbick, Samuel
  - Dale, Thomas
  - Duncan, Allan
  - Graham, Stuart

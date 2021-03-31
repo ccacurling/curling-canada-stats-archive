@@ -28,7 +28,7 @@ years:
  - year: 1962
    event: Macdonald Brier
    team: "QC"
-   position: Fourth
+   position: Third
    games: 10
    wins: 3
    losses: 7
@@ -67,7 +67,7 @@ vs:
  - Goodman, Lloyd
  - Groom, Donald
  - Groom, William
- - Hanford, Morley
+ - Handford, Morley
  - Hansen, Alan
  - Hanson, George
  - Harper, Glen

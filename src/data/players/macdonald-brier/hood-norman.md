@@ -42,7 +42,7 @@ vs:
  - Hatfield, Larry
  - Hawkins, Joseph
  - Henry, Edward
- - Kydd, C.H.
+ - Kydd, Charles
  - Langlois, Allan
  - Limerick, Arthur
  - Limerick, Victor
@@ -53,7 +53,7 @@ vs:
  - McGibney, Douglas
  - McInnis, Harold
  - McWilliams, Andrew
- - Ostberg, F.
+ - Ostberg, Fritz
  - Parnell, Raymond
  - Pike, Jack
  - Ross, W.S.

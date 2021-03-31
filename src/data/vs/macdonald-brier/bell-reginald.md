@@ -1086,7 +1086,7 @@ vs:
       year: 1940
       draw: Round Robin(4)
       score: AB 10 - PE 6
- - name: Martin, Erie
+ - name: Martin, Erle
    totals:
     - event: Macdonald Brier
       player1:

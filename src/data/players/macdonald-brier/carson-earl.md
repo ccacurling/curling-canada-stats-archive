@@ -118,7 +118,7 @@ vs:
  - Flemming, Don
  - Ford, Gary
  - Franklin, Ronald
- - Gerlack, David
+ - Gerlach, David
  - Gilbert, Donald
  - Gould, Raymond
  - Grant, Ray

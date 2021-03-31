@@ -34,7 +34,7 @@ vs:
  - Czaja, Mitchell
  - Dillon, Robert
  - Easton, Leonard
- - Gerlack, David
+ - Gerlach, David
  - Green, Grant
  - Guest, Ross
  - Hope, Peter

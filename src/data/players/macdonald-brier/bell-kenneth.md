@@ -95,7 +95,7 @@ vs:
  - Grozelle, Robert
  - Grozelle, William
  - Gurowka, Joseph
- - Hanford, Morley
+ - Handford, Morley
  - Hansen, Alan
  - Herman, Leroy
  - Hodgson, Eugene

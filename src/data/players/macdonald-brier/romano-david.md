@@ -1,7 +1,7 @@
 ---
-title: David Romando
-name: David Romando
-name-sort: Romando, David
+title: David Romano
+name: David Romano
+name-sort: Romano, David
 totals:
  - event: Macdonald Brier
    games: 21

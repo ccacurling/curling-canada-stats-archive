@@ -142,7 +142,7 @@ vs:
       year: 1964
       draw: Round Robin(6)
       score: PE 9 - AB 7
- - name: Ducat, SAtephen
+ - name: Ducat, Stephen
    totals:
     - event: Macdonald Brier
       player1:
@@ -1486,7 +1486,7 @@ vs:
       year: 1964
       draw: Round Robin(5)
       score: SK 8 - AB 5
- - name: Ross, John k.
+ - name: Ross, John K.
    totals:
     - event: Macdonald Brier
       player1:

@@ -170,7 +170,7 @@ vs:
  - Kent, Robert
  - Keys, John
  - Kitson, Leslie
- - Knudson, Eric
+ - Knudsen, Eric
  - Kostick, John
  - Lacroix, Jean-Louis
  - Lahaie, Robert

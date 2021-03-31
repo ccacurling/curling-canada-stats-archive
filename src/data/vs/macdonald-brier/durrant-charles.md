@@ -170,7 +170,7 @@ vs:
       year: 1931
       draw: Round Robin(8)
       score: AB 17 - NS 6
- - name: Gautier, John
+ - name: Gauthier, John
    totals:
     - event: Macdonald Brier
       player1:

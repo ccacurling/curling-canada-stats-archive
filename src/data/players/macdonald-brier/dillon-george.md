@@ -360,7 +360,7 @@ vs:
  - Roberts, Murray
  - Rogers, Les
  - Rogers, Victor
- - Romando, David
+ - Romano, David
  - Ross, Brian
  - Rumney, George
  - Saboe, Wayne

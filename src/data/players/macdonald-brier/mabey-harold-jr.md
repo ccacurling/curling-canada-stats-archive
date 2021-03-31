@@ -138,7 +138,7 @@ vs:
  - Florian, James
  - Ford, Gary
  - Franklin, Ronald
- - Gerlack, David
+ - Gerlach, David
  - Gervais, Hector
  - Giannou, George
  - Goldburg, Reginald
@@ -149,7 +149,7 @@ vs:
  - Guest, Ross
  - Hallinan, William
  - Hammond, John
- - Hanford, Morley
+ - Handford, Morley
  - Hansen, Alan
  - Hanson, George
  - Harper, Glen

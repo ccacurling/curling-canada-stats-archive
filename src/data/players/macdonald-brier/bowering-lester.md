@@ -76,7 +76,7 @@ vs:
  - Keith, Harold
  - Kent, William
  - Keys, John
- - Knudson, Eric
+ - Knudsen, Eric
  - Kroeger, Thomas
  - Leger, Murray
  - Lilly, Raymond

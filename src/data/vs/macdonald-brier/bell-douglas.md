@@ -386,7 +386,7 @@ vs:
       year: 1969
       draw: Round Robin(9)
       score: PE 10 - SK 7
- - name: Gerlack, David
+ - name: Gerlach, David
    totals:
     - event: Macdonald Brier
       player1:

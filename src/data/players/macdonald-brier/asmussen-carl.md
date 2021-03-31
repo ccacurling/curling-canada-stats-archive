@@ -1,7 +1,7 @@
 ---
-title: Carl Asnussen
-name: Carl Asnussen
-name-sort: Asnussen, Carl
+title: Carl Asmussen
+name: Carl Asmussen
+name-sort: Asmussen, Carl
 totals:
  - event: Macdonald Brier
    games: 11

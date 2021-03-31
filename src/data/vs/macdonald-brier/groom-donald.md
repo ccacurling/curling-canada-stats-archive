@@ -470,7 +470,7 @@ vs:
         loss: 0
       player2:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -926,7 +926,7 @@ vs:
       year: 1960
       draw: Round Robin(1)
       score: NO 9 - NS 10
- - name: Martin, Erie
+ - name: Martin, Erle
    totals:
     - event: Macdonald Brier
       player1:

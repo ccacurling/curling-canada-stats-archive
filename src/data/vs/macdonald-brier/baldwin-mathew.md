@@ -350,7 +350,7 @@ vs:
         loss: 0
       player2:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 0
         loss: 1
@@ -2302,7 +2302,7 @@ vs:
         loss: 0
       player2:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -2310,7 +2310,7 @@ vs:
       year: 1954
       draw: Round Robin(6)
       score: AB 11 - BC 8
- - name: Knudson, Eric
+ - name: Knudsen, Eric
    totals:
     - event: Macdonald Brier
       player1:

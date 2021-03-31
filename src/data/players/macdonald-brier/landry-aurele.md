@@ -49,6 +49,7 @@ vs:
  - Bell, Reginald
  - Bickle, Warner
  - Brower, John
+ - Caldbick, Samuel
  - Campbell, Donald A.
  - Campbell, Duncan A.
  - Campbell, Gordon M.
@@ -66,7 +67,7 @@ vs:
  - Franklin, John
  - Fraser, John
  - Gass, Donald
- - Gautier, John
+ - Gauthier, John
  - Gowanlock, Albert
  - Grant, James
  - Groom, Donald
@@ -84,7 +85,7 @@ vs:
  - LeSage, William
  - Manahan, Clifford
  - Manahan, Ross
- - Martin, Erie
+ - Martin, Erle
  - McIntyre, Lloyd
  - McKnight, Edward
  - McKnight, William

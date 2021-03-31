@@ -786,7 +786,7 @@ vs:
       year: 1969
       draw: Round Robin(4)
       score: ON 7 - MB 8
- - name: Ross, John k.
+ - name: Ross, John K.
    totals:
     - event: Macdonald Brier
       player1:

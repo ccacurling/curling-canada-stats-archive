@@ -106,7 +106,7 @@ vs:
  - Rogers, Les
  - Rogers, Victor
  - Romain, Alfred
- - Romando, David
+ - Romano, David
  - Rubec, Thomas
  - Savage, Paul
  - Schaefer, Charles

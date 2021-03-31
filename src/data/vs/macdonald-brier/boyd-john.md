@@ -1546,7 +1546,7 @@ vs:
       year: 1975
       draw: Round Robin(7)
       score: ON 7 - MB 8
- - name: Romando, David
+ - name: Romano, David
    totals:
     - event: Macdonald Brier
       player1:

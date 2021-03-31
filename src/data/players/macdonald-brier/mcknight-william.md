@@ -50,6 +50,7 @@ vs:
  - Brower, John
  - Brown, Robert
  - Burns, Montague
+ - Caldbick, Samuel
  - Cleveland, Bernard
  - Colquhoun, Hugh
  - Connolly, Daniel
@@ -64,7 +65,7 @@ vs:
  - Ferguson, Benjamin
  - Finlay, William
  - Fraser, John
- - Gautier, John
+ - Gauthier, John
  - Gebbie, Kenneth
  - Hall, Bert
  - Hall, Perry

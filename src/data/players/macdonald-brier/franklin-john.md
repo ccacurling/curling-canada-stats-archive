@@ -124,7 +124,7 @@ vs:
  - MacNeill, William
  - MacVicar, Stewart
  - Mark, James
- - Martin, Erie
+ - Martin, Erle
  - McArdle, Charles
  - McDiairmid, Alixter
  - McGhie, Robert

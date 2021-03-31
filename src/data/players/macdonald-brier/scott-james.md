@@ -43,7 +43,7 @@ vs:
  - Lynch, J.B.
  - MacKay, W.D.
  - Malcolm, John
- - McGillvray, W.L.
+ - McGillivray, W.L.
  - McLeod, N.D.
  - McWilliams, Victor
  - Newton, S.G.

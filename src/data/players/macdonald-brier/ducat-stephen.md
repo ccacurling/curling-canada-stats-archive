@@ -1,7 +1,7 @@
 ---
-title: SAtephen Ducat
-name: SAtephen Ducat
-name-sort: Ducat, SAtephen
+title: Stephen Ducat
+name: Stephen Ducat
+name-sort: Ducat, Stephen
 totals:
  - event: Macdonald Brier
    games: 11
@@ -55,7 +55,7 @@ vs:
  - Oliver, Bill
  - Paterson, Barry
  - Pilling, Anthony
- - Ross, John k.
+ - Ross, John K.
  - Rowe, Robert
  - Sampson, James
  - Schaefer, Charles

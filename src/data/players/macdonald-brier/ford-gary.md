@@ -116,7 +116,7 @@ vs:
  - Flemming, Don
  - Franklin, Ronald
  - Fulton, Donald
- - Gerlack, David
+ - Gerlach, David
  - Gervais, Hector
  - Gilbert, Donald
  - Gillard, Arthur
@@ -136,7 +136,7 @@ vs:
  - Keith, Harold
  - Kent, William
  - Ketch, Ronald
- - Knudson, Eric
+ - Knudsen, Eric
  - Kroeger, Thomas
  - Leger, Murray
  - Lilly, Raymond

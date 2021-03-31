@@ -128,7 +128,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -156,7 +156,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -184,7 +184,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -240,7 +240,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 0
         loss: 1
@@ -324,7 +324,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 0
         loss: 1
@@ -396,7 +396,7 @@ vs:
       score: NL 8 - PE 12
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -424,7 +424,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -452,7 +452,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -480,7 +480,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 0
         loss: 1
@@ -536,7 +536,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 0
         loss: 1
@@ -564,7 +564,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 0
         loss: 1
@@ -592,7 +592,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -636,7 +636,7 @@ vs:
       score: NL 8 - PE 12
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -664,7 +664,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 0
         loss: 1
@@ -692,7 +692,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 0
         loss: 1
@@ -736,7 +736,7 @@ vs:
       score: AB 17 - PE 3
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 0
         loss: 1
@@ -764,7 +764,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 0
         loss: 1
@@ -836,7 +836,7 @@ vs:
       score: NL 8 - PE 12
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -976,7 +976,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 0
         loss: 1
@@ -1004,7 +1004,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -1032,7 +1032,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -1088,7 +1088,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 0
         loss: 1
@@ -1200,7 +1200,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -1272,7 +1272,7 @@ vs:
       score: NL 8 - PE 12
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -1300,7 +1300,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -1344,7 +1344,7 @@ vs:
       score: AB 17 - PE 3
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 0
         loss: 1
@@ -1400,7 +1400,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 0
         loss: 1
@@ -1484,7 +1484,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 0
         loss: 1
@@ -1512,7 +1512,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 0
         loss: 1
@@ -1568,7 +1568,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 0
         loss: 1
@@ -1708,7 +1708,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -1736,7 +1736,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -1820,7 +1820,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -1848,7 +1848,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -1932,7 +1932,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 0
         loss: 1
@@ -1960,7 +1960,7 @@ vs:
    games:
     - player1:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 1
         loss: 0

@@ -426,7 +426,7 @@ vs:
       year: 1974
       draw: Round Robin(9)
       score: MB 8 - PE 6
- - name: Gerlack, David
+ - name: Gerlach, David
    totals:
     - event: Macdonald Brier
       player1:
@@ -782,7 +782,7 @@ vs:
       year: 1965
       draw: Round Robin(6)
       score: AB 13 - PE 9
- - name: Hanford, Morley
+ - name: Handford, Morley
    totals:
     - event: Macdonald Brier
       player1:

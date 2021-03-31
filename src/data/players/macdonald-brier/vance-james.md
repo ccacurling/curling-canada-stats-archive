@@ -60,7 +60,7 @@ years:
    shots-total: 0
    shots-percent:
 vs:
- - Asnussen, Carl
+ - Asmussen, Carl
  - Baldwin, Mathew
  - Bauld, Donald
  - Beattie, Andrew

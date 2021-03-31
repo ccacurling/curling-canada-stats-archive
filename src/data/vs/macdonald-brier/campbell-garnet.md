@@ -1702,7 +1702,7 @@ vs:
       year: 1971
       draw: Round Robin(1)
       score: NS 7 - SK 8
- - name: Gerlack, David
+ - name: Gerlach, David
    totals:
     - event: Macdonald Brier
       player1:
@@ -3258,7 +3258,7 @@ vs:
         loss: 0
       player2:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -3322,7 +3322,7 @@ vs:
       year: 1961
       draw: Round Robin(2)
       score: BC 9 - SK 10
- - name: Knudson, Eric
+ - name: Knudsen, Eric
    totals:
     - event: Macdonald Brier
       player1:

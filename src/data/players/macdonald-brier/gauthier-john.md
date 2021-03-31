@@ -1,7 +1,7 @@
 ---
-title: John Gautier
-name: John Gautier
-name-sort: Gautier, John
+title: John Gauthier
+name: John Gauthier
+name-sort: Gauthier, John
 totals:
  - event: Macdonald Brier
    games: 9

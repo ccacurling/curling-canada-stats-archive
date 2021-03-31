@@ -59,12 +59,12 @@ vs:
  - Currie, Michael
  - Darragh, Alan
  - Dillon, Robert
- - Ducat, SAtephen
+ - Ducat, Stephen
  - Easton, Leonard
  - Fennimore, Charles
  - Folk, Rick
  - Ford, Gary
- - Gerlack, David
+ - Gerlach, David
  - Goulden, Lowell
  - Green, Grant
  - Harrison, Doug
@@ -95,7 +95,7 @@ vs:
  - Piercey, William
  - Pilling, Anthony
  - Robinson, Robert
- - Ross, John k.
+ - Ross, John K.
  - Rowe, Robert
  - Roy, William
  - Sampson, James

@@ -124,7 +124,7 @@ vs:
  - McArter, William
  - McCormick, Earl
  - McGibney, Douglas
- - McGillvray, W.L.
+ - McGillivray, W.L.
  - McKay, Hunt
  - McLeod, N.D.
  - McLeod, Robert

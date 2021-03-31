@@ -62,7 +62,7 @@ years:
 vs:
  - Agnew, Frederick
  - Annabel, Clifford
- - Ayer, Lewis
+ - Ayre, Lewis
  - Beattie, Thomas
  - Bentley, John
  - Best, Donald

@@ -105,7 +105,7 @@ vs:
  - Edwards, Donald
  - English, Jack
  - Ganong, Hardy
- - Gardner, Charles
+ - Gardner, Charles Jr.
  - Graves, E.G.
  - Hall, Jack
  - Hall, Perry

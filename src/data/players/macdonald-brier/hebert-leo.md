@@ -151,7 +151,7 @@ vs:
  - Richardson, Wesley
  - Rogers, Les
  - Rogers, Victor
- - Romando, David
+ - Romano, David
  - Ross, Brian
  - Saboe, Wayne
  - Saunders, Allison

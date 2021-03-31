@@ -82,7 +82,7 @@ vs:
  - Malcolm, John
  - Matthews, Whit
  - McArter, William
- - McGillvray, W.L.
+ - McGillivray, W.L.
  - McLeod, N.D.
  - McLeod, Robert
  - McWha, Arthur

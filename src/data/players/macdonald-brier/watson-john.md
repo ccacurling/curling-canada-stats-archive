@@ -45,7 +45,7 @@ vs:
  - Hawkins, Joseph
  - Henry, Edward
  - Hood, Norman
- - Kydd, C.H.
+ - Kydd, Charles
  - Limerick, Arthur
  - Limerick, Victor
  - MacLean, Ronald
@@ -54,14 +54,14 @@ vs:
  - McCance, Chester
  - McGibney, Douglas
  - McInnis, Harold
- - Ostberg, F.
+ - Ostberg, Fritz
  - Parnell, Raymond
  - Pike, Jack
  - Ross, W.S.
  - Simpson, Arthur
  - Stone, Reginald
  - Stone, Roy
- - Tomlin, J.W.
+ - Tomelin, J.W.
  - Turner, Alvin
  - Turney, James
  - Weldon, Kenneth

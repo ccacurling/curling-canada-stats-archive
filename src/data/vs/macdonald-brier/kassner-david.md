@@ -86,7 +86,7 @@ vs:
       year: 1975
       draw: Round Robin(5)
       score: PE 6 - SK 7
- - name: Knudson, Eric
+ - name: Knudsen, Eric
    totals:
     - event: Macdonald Brier
       player1:
@@ -1054,7 +1054,7 @@ vs:
       year: 1975
       draw: Round Robin(14)
       score: PE 5 - MB 4
- - name: Romando, David
+ - name: Romano, David
    totals:
     - event: Macdonald Brier
       player1:

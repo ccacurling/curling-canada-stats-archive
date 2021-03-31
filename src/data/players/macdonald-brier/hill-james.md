@@ -45,7 +45,7 @@ years:
 vs:
  - Acorn, Frank
  - Agnew, Frederick
- - Ayer, Lewis
+ - Ayre, Lewis
  - Baldwin, Mathew
  - Beattie, Donald
  - Burns, George
@@ -76,7 +76,7 @@ vs:
  - Jones, Stanley
  - Jordan, Harold
  - Kleinmeyer, Arthur
- - Kydd, C.H.
+ - Kydd, Charles
  - Langlois, Allan
  - Leak, William
  - Likely, Andrew

@@ -185,7 +185,7 @@ vs:
  - Fox, Jim
  - Franklin, Ronald
  - Fraser, Jack
- - Gerlack, David
+ - Gerlach, David
  - Gervais, Hector
  - Giannou, George
  - Gilbert, Donald
@@ -196,7 +196,7 @@ vs:
  - Green, Ronald
  - Guest, Ross
  - Hamilton, Kenneth
- - Hanford, Morley
+ - Handford, Morley
  - Hansen, Alan
  - Hansen, Warren
  - Harry, Donald

@@ -114,6 +114,34 @@ vs:
       year: 1929
       draw: Round Robin(3)
       score: TO 14 - AB 13
+ - name: Caldbick, Samuel
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Third
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Third
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1938
+      draw: Round Robin(6)
+      score: NO 6 - SK 13
  - name: Carew, Frank
    totals:
     - event: Macdonald Brier
@@ -810,7 +838,7 @@ vs:
       year: 1931
       draw: Round Robin(6)
       score: ON 13 - NS 3
- - name: Gautier, John
+ - name: Gauthier, John
    totals:
     - event: Macdonald Brier
       player1:

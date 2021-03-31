@@ -63,7 +63,7 @@ vs:
  - Davey, Bruce
  - Devlin, Derek
  - Devlin, Paul
- - Ducat, SAtephen
+ - Ducat, Stephen
  - Durrant, David
  - Fedosa, Robert
  - Fennimore, Charles
@@ -102,7 +102,7 @@ vs:
  - Pierce, Glen
  - Pilling, Anthony
  - Pineau, Larry
- - Ross, John k.
+ - Ross, John K.
  - Rowe, Robert
  - Ryan, Pat
  - Sampson, James

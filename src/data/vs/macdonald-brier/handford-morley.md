@@ -1,8 +1,8 @@
 ---
-title: Leonard Haw Head-to-head
-name: Haw, Leonard
+title: Morley Handford Head-to-head
+name: Handford, Morley
 vs:
- - name: Hill, James
+ - name: Hansen, Alan
    totals:
     - event: Macdonald Brier
       player1:
@@ -15,22 +15,218 @@ vs:
         losses: 1
    games:
     - player1:
-        team: 'AB'
-        position: Fourth
+        team: 'MB'
+        position: Second
         percent:
         win: 1
         loss: 0
       player2:
-        team: 'SK'
+        team: 'NO'
+        position: Second
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1962
+      draw: Round Robin(10)
+      score: MB 10 - NO 7
+ - name: Hope, Peter
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Third
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1962
+      draw: Round Robin(2)
+      score: NS 6 - MB 10
+ - name: Keith, Harold
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Second
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1962
+      draw: Round Robin(7)
+      score: NB 4 - MB 7
+ - name: Kostick, John
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Third
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1962
+      draw: Round Robin(10)
+      score: MB 10 - NO 7
+ - name: Larsen, Vernon
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Third
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1962
+      draw: Round Robin(1)
+      score: ON 6 - MB 7
+ - name: Lindberg, Russell
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Second
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1962
+      draw: Round Robin(1)
+      score: ON 6 - MB 7
+ - name: Mabey, Harold Jr.
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Third
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1962
+      draw: Round Robin(7)
+      score: NB 4 - MB 7
+ - name: Mabey, Harold Sr.
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Fourth
         percent:
         win: 0
         loss: 1
       event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(3)
-      score: SK 5 - AB 10
- - name: Howell, Wilbert
+      year: 1962
+      draw: Round Robin(7)
+      score: NB 4 - MB 7
+ - name: MacCharles, George
    totals:
     - event: Macdonald Brier
       player1:
@@ -43,217 +239,49 @@ vs:
         losses: 1
    games:
     - player1:
-        team: 'AB'
-        position: Fourth
+        team: 'MB'
+        position: Second
         percent:
         win: 1
         loss: 0
       player2:
         team: 'NL'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(7)
-      score: AB 17 - NL 7
- - name: Issac, William
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'QC'
         position: Second
         percent:
-        win: 1
-        loss: 0
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(6)
-      score: QC 10 - AB 9
- - name: Jackman, Russel
+      year: 1962
+      draw: Round Robin(5)
+      score: MB 10 - NL 5
+ - name: McDonough, David
    totals:
     - event: Macdonald Brier
       player1:
         percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
         wins: 1
         losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
     - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
         team: 'MB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(10)
-      score: MB 10 - AB 6
- - name: Kydd, Charles
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
         position: Second
         percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(2)
-      score: PE 10 - AB 14
- - name: MacNevin, Elmer
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
         win: 1
         loss: 0
       player2:
-        team: 'SK'
+        team: 'ON'
         position: Lead
         percent:
         win: 0
         loss: 1
       event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(3)
-      score: SK 5 - AB 10
- - name: McCance, Chester
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'QC'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(6)
-      score: QC 10 - AB 9
- - name: McEwen, Donald
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(8)
-      score: NO 9 - AB 8
- - name: McGibney, Douglas
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(4)
-      score: AB 11 - BC 10
+      year: 1962
+      draw: Round Robin(1)
+      score: ON 6 - MB 7
  - name: McKay, Hunt
    totals:
     - event: Macdonald Brier
@@ -267,8 +295,8 @@ vs:
         losses: 1
    games:
     - player1:
-        team: 'AB'
-        position: Fourth
+        team: 'MB'
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -279,10 +307,10 @@ vs:
         win: 0
         loss: 1
       event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(4)
-      score: AB 11 - BC 10
- - name: Mitton, Harris
+      year: 1962
+      draw: Round Robin(11)
+      score: MB 10 - BC 7
+ - name: Peterson, Gordon
    totals:
     - event: Macdonald Brier
       player1:
@@ -295,8 +323,36 @@ vs:
         losses: 1
    games:
     - player1:
-        team: 'AB'
-        position: Fourth
+        team: 'MB'
+        position: Second
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Lead
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1962
+      draw: Round Robin(10)
+      score: MB 10 - NO 7
+ - name: Puddester, Robert
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -307,10 +363,10 @@ vs:
         win: 0
         loss: 1
       event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(1)
-      score: NB 6 - AB 13
- - name: Moore, Stewart
+      year: 1962
+      draw: Round Robin(7)
+      score: NB 4 - MB 7
+ - name: Redding, Ronald
    totals:
     - event: Macdonald Brier
       player1:
@@ -323,8 +379,232 @@ vs:
         losses: 1
    games:
     - player1:
-        team: 'AB'
+        team: 'MB'
+        position: Second
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Fourth
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1962
+      draw: Round Robin(10)
+      score: MB 10 - NO 7
+ - name: Rhodenizer, Wayne
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1962
+      draw: Round Robin(9)
+      score: MB 15 - PE 2
+ - name: Richardson, Arnold
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Third
+        percent:
+        win: 1
+        loss: 0
+      event: Macdonald Brier
+      year: 1962
+      draw: Round Robin(6)
+      score: SK 7 - MB 5
+ - name: Richardson, Ernest
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Fourth
+        percent:
+        win: 1
+        loss: 0
+      event: Macdonald Brier
+      year: 1962
+      draw: Round Robin(6)
+      score: SK 7 - MB 5
+ - name: Richardson, Garnet
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent:
+        win: 1
+        loss: 0
+      event: Macdonald Brier
+      year: 1962
+      draw: Round Robin(6)
+      score: SK 7 - MB 5
+ - name: Richardson, Wesley
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Lead
+        percent:
+        win: 1
+        loss: 0
+      event: Macdonald Brier
+      year: 1962
+      draw: Round Robin(6)
+      score: SK 7 - MB 5
+ - name: Ruiter, Garth
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Second
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1962
+      draw: Round Robin(8)
+      score: QC 6 - MB 9
+ - name: Secord, Bayne
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1962
+      draw: Round Robin(1)
+      score: ON 6 - MB 7
+ - name: Smith, Alan
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -335,10 +615,10 @@ vs:
         win: 0
         loss: 1
       event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(2)
-      score: PE 10 - AB 14
- - name: Noble, Ralph
+      year: 1962
+      draw: Round Robin(9)
+      score: MB 15 - PE 2
+ - name: Stanhope, Donald
    totals:
     - event: Macdonald Brier
       player1:
@@ -351,64 +631,8 @@ vs:
         losses: 1
    games:
     - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(1)
-      score: NB 6 - AB 13
- - name: Pollen, Arthur
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
         team: 'MB'
         position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(10)
-      score: MB 10 - AB 6
- - name: Rhodenizer, Lee
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
         percent:
         win: 1
         loss: 0
@@ -419,121 +643,9 @@ vs:
         win: 0
         loss: 1
       event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(11)
-      score: AB 15 - NS 7
- - name: Richardson, Pennell
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(11)
-      score: AB 15 - NS 7
- - name: Rockwell, Norman
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(7)
-      score: AB 17 - NL 7
- - name: Sargent, Frank
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(8)
-      score: NO 9 - AB 8
- - name: Simmons, Ralph
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(11)
-      score: AB 15 - NS 7
+      year: 1962
+      draw: Round Robin(2)
+      score: NS 6 - MB 10
  - name: Stone, Reginald
    totals:
     - event: Macdonald Brier
@@ -547,8 +659,8 @@ vs:
         losses: 1
    games:
     - player1:
-        team: 'AB'
-        position: Fourth
+        team: 'MB'
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -559,9 +671,9 @@ vs:
         win: 0
         loss: 1
       event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(4)
-      score: AB 11 - BC 10
+      year: 1962
+      draw: Round Robin(11)
+      score: MB 10 - BC 7
  - name: Stone, Roy
    totals:
     - event: Macdonald Brier
@@ -575,8 +687,8 @@ vs:
         losses: 1
    games:
     - player1:
-        team: 'AB'
-        position: Fourth
+        team: 'MB'
+        position: Second
         percent:
         win: 1
         loss: 0
@@ -587,10 +699,10 @@ vs:
         win: 0
         loss: 1
       event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(4)
-      score: AB 11 - BC 10
- - name: Stoneman, Jack
+      year: 1962
+      draw: Round Robin(11)
+      score: MB 10 - BC 7
+ - name: Taite, John
    totals:
     - event: Macdonald Brier
       player1:
@@ -603,187 +715,135 @@ vs:
         losses: 1
    games:
     - player1:
-        team: 'AB'
-        position: Fourth
+        team: 'MB'
+        position: Second
         percent:
         win: 1
         loss: 0
       player2:
         team: 'NL'
+        position: Lead
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1962
+      draw: Round Robin(5)
+      score: MB 10 - NL 5
+ - name: Ursuliak, Wally
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 0
+        losses: 2
+      player2:
+        percent:
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
         position: Second
         percent:
         win: 0
         loss: 1
-      event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(7)
-      score: AB 17 - NL 7
- - name: Trites, Horace
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
       player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
         team: 'AB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(1)
-      score: NB 6 - AB 13
- - name: Turney, James
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'QC'
         position: Lead
         percent:
         win: 1
         loss: 0
       event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(6)
-      score: QC 10 - AB 9
- - name: Watson, Grant
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
+      year: 1962
+      draw: Round Robin(4)
+      score: MB 9 - AB 11
     - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(8)
-      score: NO 9 - AB 8
- - name: Weldon, Kenneth
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'QC'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(6)
-      score: QC 10 - AB 9
- - name: Williams, James
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
         team: 'MB'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(10)
-      score: MB 10 - AB 6
- - name: Worth, Harold Jr.
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
         position: Second
         percent:
         win: 0
         loss: 1
+      player2:
+        team: 'AB'
+        position: Lead
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1953
-      draw: Round Robin(3)
-      score: SK 5 - AB 10
+      year: 1962
+      draw: Playoff(12)
+      score: AB 8 - MB 7
+ - name: Werner, Raymond
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 0
+        losses: 2
+      player2:
+        percent:
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Second
+        percent:
+        win: 1
+        loss: 0
+      event: Macdonald Brier
+      year: 1962
+      draw: Round Robin(4)
+      score: MB 9 - AB 11
+    - player1:
+        team: 'MB'
+        position: Second
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Second
+        percent:
+        win: 1
+        loss: 0
+      event: Macdonald Brier
+      year: 1962
+      draw: Playoff(12)
+      score: AB 8 - MB 7
+ - name: Wilson, James
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Lead
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1962
+      draw: Round Robin(8)
+      score: QC 6 - MB 9
 ---

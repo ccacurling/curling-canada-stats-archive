@@ -1,7 +1,7 @@
 ---
-title: John k. Ross
-name: John k. Ross
-name-sort: Ross, John k.
+title: John K. Ross
+name: John K. Ross
+name-sort: Ross, John K.
 totals:
  - event: Macdonald Brier
    games: 11
@@ -27,7 +27,6 @@ years:
    shots-percent:
 vs:
  - Aldridge, Glenn
- - Ballantyne, John
  - Bauer, Keiven
  - Brazeau, Howard
  - Casey, Ronald
@@ -35,7 +34,7 @@ vs:
  - Cook, Al
  - Currie, Michael
  - Darragh, Alan
- - Ducat, SAtephen
+ - Ducat, Stephen
  - Fennimore, Charles
  - Folk, Rick
  - Goulden, Lowell

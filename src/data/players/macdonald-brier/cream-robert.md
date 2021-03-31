@@ -80,12 +80,13 @@ vs:
  - Acorn, Frank
  - Allanach, Lee
  - Arthur, Frank
- - Asnussen, Carl
+ - Asmussen, Carl
  - Avery, Francis
  - Beecroft, William
  - Best, Donald
  - Brower, John
  - Bull, William
+ - Caldbick, Samuel
  - Campbell, Alexander
  - Campbell, Garnet
  - Campbell, Glen
@@ -108,7 +109,7 @@ vs:
  - Flinn, Jeffrey
  - Fraser, John
  - Garnham, David
- - Gautier, John
+ - Gauthier, John
  - Glass, Robert
  - Gowanlock, Albert
  - Haines, Bernard

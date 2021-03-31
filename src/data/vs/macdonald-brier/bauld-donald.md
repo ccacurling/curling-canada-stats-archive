@@ -106,7 +106,7 @@ vs:
         loss: 1
       player2:
         team: 'PE'
-        position: Third
+        position: Second
         percent:
         win: 1
         loss: 0

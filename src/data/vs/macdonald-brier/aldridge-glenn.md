@@ -7,29 +7,29 @@ vs:
     - event: Macdonald Brier
       player1:
         percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
         wins: 1
         losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
     - player1:
         team: 'QC'
         position: Second
         percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Third
-        percent:
         win: 1
         loss: 0
+      player2:
+        team: 'NO'
+        position: Third
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
       year: 1978
-      draw: Round Robin(5)
-      score: QC 6 - NL 8
+      draw: Round Robin(2)
+      score: NO 1 - QC 11
  - name: Bauer, Keiven
    totals:
     - event: Macdonald Brier
@@ -814,7 +814,7 @@ vs:
       year: 1978
       draw: Round Robin(5)
       score: QC 6 - NL 8
- - name: Ross, John k.
+ - name: Ross, John K.
    totals:
     - event: Macdonald Brier
       player1:

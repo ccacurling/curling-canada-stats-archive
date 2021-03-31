@@ -57,7 +57,7 @@ vs:
  - Reed, Tom
  - Rogers, Les
  - Rogers, Victor
- - Romando, David
+ - Romano, David
  - Ross, Brian
  - Savage, Paul
  - Stokes, Lionel

@@ -114,7 +114,7 @@ vs:
  - Keys, John
  - Klein, Joseph
  - Klippenstein, Daniel
- - Knudson, Eric
+ - Knudsen, Eric
  - Kroeger, Thomas
  - Leger, Murray
  - Lilly, Raymond

@@ -2,7 +2,7 @@
 title: Russel Jackman Head-to-head
 name: Jackman, Russel
 vs:
- - name: Kydd, C.H.
+ - name: Kydd, Charles
    totals:
     - event: Macdonald Brier
       player1:

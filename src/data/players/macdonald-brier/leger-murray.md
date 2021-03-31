@@ -44,7 +44,7 @@ vs:
  - Hunter, Roderick
  - Kassner, David
  - Keys, John
- - Knudson, Eric
+ - Knudsen, Eric
  - Kroeger, Thomas
  - Lilly, Raymond
  - MacGregor, William

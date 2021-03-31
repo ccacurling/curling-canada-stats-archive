@@ -105,7 +105,7 @@ vs:
  - Riley, Mike
  - Rogers, Les
  - Rogers, Victor
- - Romando, David
+ - Romano, David
  - Ross, Brian
  - Savage, Paul
  - Scott, Alexander

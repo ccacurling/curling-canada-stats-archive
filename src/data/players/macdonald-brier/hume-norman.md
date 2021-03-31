@@ -27,7 +27,7 @@ years:
    shots-percent:
 vs:
  - Allanach, Lee
- - Asnussen, Carl
+ - Asmussen, Carl
  - Beattie, Andrew
  - Beattie, Thomas
  - Bull, William

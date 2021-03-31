@@ -83,7 +83,7 @@ vs:
  - Manahan, Clifford
  - Manahan, Robert
  - Manahan, Ross
- - Martin, Erie
+ - Martin, Erle
  - McMahon, James
  - McMitchell, William
  - McNabb, Harry

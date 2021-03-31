@@ -144,7 +144,7 @@ vs:
  - Malcolm, Donald
  - Malcolm, John
  - Manahan, Clifford
- - Martin, Erie
+ - Martin, Erle
  - McCulloch, Henry
  - McGerrigle, Clarence
  - McGerrigle, William

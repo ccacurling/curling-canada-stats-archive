@@ -196,7 +196,7 @@ vs:
  - Ready, Clifford
  - Reilly, Keith
  - Romain, Alfred
- - Romando, David
+ - Romano, David
  - Ross, Brian
  - Ross, John
  - Rowe, Robert

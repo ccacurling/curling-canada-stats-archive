@@ -1122,7 +1122,7 @@ vs:
       year: 1963
       draw: Round Robin(6)
       score: QC 5 - SK 9
- - name: Romando, David
+ - name: Romano, David
    totals:
     - event: Macdonald Brier
       player1:

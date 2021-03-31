@@ -78,7 +78,7 @@ years:
    shots-percent:
 vs:
  - Allanach, Lee
- - Asnussen, Carl
+ - Asmussen, Carl
  - Bauld, Donald
  - Beattie, Andrew
  - Beattie, Donald

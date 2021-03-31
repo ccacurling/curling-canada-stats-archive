@@ -180,7 +180,7 @@ vs:
  - Kleinmeyer, Arthur
  - Klotz, George
  - Kostick, John
- - Kydd, C.H.
+ - Kydd, Charles
  - Lacroix, Jean-Louis
  - Lahaie, Robert
  - Lamb, Earl
@@ -219,7 +219,7 @@ vs:
  - Nielson, Gunnar
  - Norris, Douglas
  - Olson, Herbert
- - Ostberg, F.
+ - Ostberg, Fritz
  - Parnell, Raymond
  - Perry, Graham
  - Pickering, Robert

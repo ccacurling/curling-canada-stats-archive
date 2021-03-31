@@ -37,7 +37,7 @@ vs:
  - Florian, James
  - Gervais, Hector
  - Giannou, George
- - Hanford, Morley
+ - Handford, Morley
  - Hansen, Alan
  - Hope, Peter
  - Houck, Norman

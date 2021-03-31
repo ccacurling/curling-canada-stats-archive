@@ -2,7 +2,7 @@
 title: Victor Rogers Head-to-head
 name: Rogers, Victor
 vs:
- - name: Romando, David
+ - name: Romano, David
    totals:
     - event: Macdonald Brier
       player1:

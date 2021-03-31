@@ -1,6 +1,6 @@
 ---
-title: C.H. Kydd Head-to-head
-name: Kydd, C.H.
+title: Charles Kydd Head-to-head
+name: Kydd, Charles
 vs:
  - name: Langlois, Allan
    totals:
@@ -454,7 +454,7 @@ vs:
       year: 1953
       draw: Round Robin(5)
       score: NB 10 - PE 8
- - name: Ostberg, F.
+ - name: Ostberg, Fritz
    totals:
     - event: Macdonald Brier
       player1:
@@ -878,7 +878,7 @@ vs:
       year: 1953
       draw: Round Robin(11)
       score: PE 10 - NL 8
- - name: Tomlin, J.W.
+ - name: Tomelin, J.W.
    totals:
     - event: Macdonald Brier
       player1:

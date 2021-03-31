@@ -52,7 +52,6 @@ vs:
  - Brower, John
  - Butler, Richard
  - Cairns, Charles
- - Caldbick, Samuel
  - Carew, Frank
  - Dale, Thomas
  - Donahoe, James
@@ -79,7 +78,7 @@ vs:
  - MacKay, W.D.
  - Malcolm, John
  - McAndrews, Frederick
- - McGillvray, W.L.
+ - McGillivray, W.L.
  - McLeod, N.D.
  - McLuckie, William
  - McWilliams, Victor

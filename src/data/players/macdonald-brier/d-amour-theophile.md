@@ -89,7 +89,7 @@ vs:
  - Glinz, Gerald
  - Graham, Frederick J.
  - Guy, James
- - Hanford, Morley
+ - Handford, Morley
  - Hansen, Alan
  - Hayes, Gerald
  - Heartwell, William

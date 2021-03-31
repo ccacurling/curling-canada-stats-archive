@@ -11,7 +11,7 @@ years:
  - year: 1954
    event: Macdonald Brier
    team: "BC"
-   position: Fourth
+   position: Third
    games: 10
    wins: 6
    losses: 4

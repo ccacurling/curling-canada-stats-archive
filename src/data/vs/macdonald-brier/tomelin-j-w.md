@@ -1,6 +1,6 @@
 ---
-title: J.W. Tomlin Head-to-head
-name: Tomlin, J.W.
+title: J.W. Tomelin Head-to-head
+name: Tomelin, J.W.
 vs:
  - name: Turner, Alvin
    totals:

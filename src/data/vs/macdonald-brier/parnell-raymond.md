@@ -114,7 +114,7 @@ vs:
       year: 1952
       draw: Round Robin(8)
       score: BC 9 - NO 5
- - name: Tomlin, J.W.
+ - name: Tomelin, J.W.
    totals:
     - event: Macdonald Brier
       player1:

@@ -48,6 +48,7 @@ vs:
  - Avery, Francis
  - Beecroft, William
  - Brower, John
+ - Caldbick, Samuel
  - Cartmell, Elwyn
  - Connolly, Daniel
  - Connolly, Joseph
@@ -58,7 +59,7 @@ vs:
  - Dunbar, George
  - Durrant, Charles
  - Finlay, William
- - Gautier, John
+ - Gauthier, John
  - Glass, Robert
  - Gowanlock, Albert
  - Hall, Bert

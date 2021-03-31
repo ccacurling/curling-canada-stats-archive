@@ -49,7 +49,7 @@ vs:
  - Kennedy, William
  - Landry, Aurele
  - Law, George
- - Martin, Erie
+ - Martin, Erle
  - McMitchell, William
  - Newman, Christopher
  - Rafuse, Norman

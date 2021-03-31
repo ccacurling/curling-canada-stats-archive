@@ -142,7 +142,7 @@ vs:
       year: 1957
       draw: Round Robin(8)
       score: BC 9 - ON 12
- - name: Tomlin, J.W.
+ - name: Tomelin, J.W.
    totals:
     - event: Macdonald Brier
       player1:

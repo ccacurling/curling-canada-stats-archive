@@ -4,9 +4,9 @@ name: Robert Thompson
 name-sort: Thompson, Robert
 totals:
  - event: Macdonald Brier
-   games: 42
-   wins: 28
-   losses: 14
+   games: 31
+   wins: 20
+   losses: 11
 years:
  - year: 1973
    event: Macdonald Brier
@@ -59,23 +59,6 @@ years:
    takeout-percent:
    shots-total: 0
    shots-percent:
- - year: 1978
-   event: Macdonald Brier
-   team: "SK"
-   position: Third
-   games: 11
-   wins: 8
-   losses: 3
-   inturn-total: 0
-   inturn-percent:
-   outturn-total: 0
-   outturn-percent:
-   draw-total: 0
-   draw-percent:
-   takeout-total: 0
-   takeout-percent:
-   shots-total: 0
-   shots-percent:
 vs:
  - Achtymichuk, George
  - Aldridge, Glenn
@@ -99,7 +82,7 @@ vs:
  - Currie, Michael
  - Darragh, Alan
  - Dillon, Robert
- - Ducat, SAtephen
+ - Ducat, Stephen
  - Dugre, Louis
  - Emond, Andre
  - Fennimore, Charles
@@ -157,7 +140,7 @@ vs:
  - Pettapiece, James
  - Pilling, Anthony
  - Romkey, David
- - Ross, John k.
+ - Ross, John K.
  - Ross, John R.
  - Ross, William
  - Rowe, Robert

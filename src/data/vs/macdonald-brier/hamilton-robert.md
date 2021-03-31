@@ -394,7 +394,7 @@ vs:
       year: 1931
       draw: Round Robin(3)
       score: SK 11 - ON 9
- - name: McGillvray, W.L.
+ - name: McGillivray, W.L.
    totals:
     - event: Macdonald Brier
       player1:

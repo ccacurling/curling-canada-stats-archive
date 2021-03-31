@@ -84,7 +84,7 @@ vs:
  - Limerick, Victor
  - Limerick, Walter
  - MacDonald, William
- - Martin, Erie
+ - Martin, Erle
  - McIntyre, Heath
  - McLaine, Rankine
  - McMitchell, William

@@ -50,7 +50,6 @@ vs:
  - Bickle, Warner
  - Brandon, John
  - Brower, Edward
- - Caldbick, Samuel
  - Campbell, Donald A.
  - Campbell, Duncan A.
  - Campbell, Gordon M.
@@ -81,8 +80,8 @@ vs:
  - Lynch, J.B.
  - MacKay, W.D.
  - Malcolm, John
- - Martin, Erie
- - McGillvray, W.L.
+ - Martin, Erle
+ - McGillivray, W.L.
  - McLeod, N.D.
  - McMitchell, William
  - McWilliams, Victor

@@ -114,7 +114,7 @@ vs:
       year: 1928
       draw: Round Robin(1)
       score: MO 7 - NB 15
- - name: McGillvray, W.L.
+ - name: McGillivray, W.L.
    totals:
     - event: Macdonald Brier
       player1:

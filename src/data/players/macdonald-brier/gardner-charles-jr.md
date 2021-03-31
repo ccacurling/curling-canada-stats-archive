@@ -1,7 +1,7 @@
 ---
-title: Charles Gardner
-name: Charles Gardner
-name-sort: Gardner, Charles
+title: Charles Jr. Gardner
+name: Charles Jr. Gardner
+name-sort: Gardner, Charles Jr.
 totals:
  - event: Macdonald Brier
    games: 9

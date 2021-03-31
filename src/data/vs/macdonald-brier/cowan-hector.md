@@ -2,7 +2,7 @@
 title: Hector Cowan Head-to-head
 name: Cowan, Hector
 vs:
- - name: Gardner, Charles
+ - name: Gardner, Charles Jr.
    totals:
     - event: Macdonald Brier
       player1:

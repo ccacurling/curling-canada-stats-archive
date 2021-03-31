@@ -5058,7 +5058,7 @@ vs:
       year: 1976
       draw: Round Robin(12)
       score: QC 8 - NS 3
- - name: Romando, David
+ - name: Romano, David
    totals:
     - event: Macdonald Brier
       player1:

@@ -46,7 +46,7 @@ vs:
  - Acorn, Frank
  - Agnew, Frederick
  - Atkinson, Hiram
- - Ayer, Lewis
+ - Ayre, Lewis
  - Beagle, Stuart
  - Bentley, John
  - Calverley, Hugh
@@ -77,7 +77,7 @@ vs:
  - Issac, William
  - Jackman, Russel
  - Kittleson, E.S.
- - Kydd, C.H.
+ - Kydd, Charles
  - MacNevin, Elmer
  - McCance, Chester
  - McDonald, Clarence

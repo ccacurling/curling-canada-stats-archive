@@ -29,6 +29,7 @@ vs:
  - Annett, Sidney
  - Arthur, Frank
  - Brower, John
+ - Caldbick, Samuel
  - Connolly, Daniel
  - Connolly, Joseph
  - Cream, Robert
@@ -37,7 +38,7 @@ vs:
  - Durrant, Charles
  - Finlay, William
  - Fraser, John
- - Gautier, John
+ - Gauthier, John
  - Hall, Bert
  - Hall, Perry
  - Hughes, Gordon

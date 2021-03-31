@@ -86,7 +86,7 @@ vs:
       year: 1978
       draw: Round Robin(9)
       score: NB 7 - NL 9
- - name: Ross, John k.
+ - name: Ross, John K.
    totals:
     - event: Macdonald Brier
       player1:

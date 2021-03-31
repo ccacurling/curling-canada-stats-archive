@@ -1,7 +1,7 @@
 ---
-title: Eric Knudson
-name: Eric Knudson
-name-sort: Knudson, Eric
+title: Eric Knudsen
+name: Eric Knudsen
+name-sort: Knudsen, Eric
 totals:
  - event: Macdonald Brier
    games: 12

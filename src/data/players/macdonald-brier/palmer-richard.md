@@ -108,7 +108,7 @@ vs:
  - Kennie, Morris
  - Kent, William
  - Keys, John
- - Knudson, Eric
+ - Knudsen, Eric
  - Kroeger, Thomas
  - Lavers, Sterling
  - LeClair, Bernard

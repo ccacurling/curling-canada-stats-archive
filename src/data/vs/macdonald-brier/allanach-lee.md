@@ -2,7 +2,7 @@
 title: Lee Allanach Head-to-head
 name: Allanach, Lee
 vs:
- - name: Asnussen, Carl
+ - name: Asmussen, Carl
    totals:
     - event: Macdonald Brier
       player1:

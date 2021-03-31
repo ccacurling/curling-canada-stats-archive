@@ -142,7 +142,7 @@ vs:
       year: 1970
       draw: Round Robin(8)
       score: AB 12 - QC 9
- - name: Hanford, Morley
+ - name: Handford, Morley
    totals:
     - event: Macdonald Brier
       player1:

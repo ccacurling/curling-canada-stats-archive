@@ -147,7 +147,7 @@ vs:
  - Rogers, Les
  - Rogers, Victor
  - Romain, Alfred
- - Romando, David
+ - Romano, David
  - Ross, Brian
  - Rubec, Thomas
  - Ryan, Pat

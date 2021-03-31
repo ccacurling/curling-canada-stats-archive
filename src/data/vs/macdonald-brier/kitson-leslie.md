@@ -16,7 +16,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -44,7 +44,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -72,7 +72,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -100,7 +100,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -128,7 +128,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -156,7 +156,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -184,7 +184,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -212,7 +212,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -240,7 +240,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -268,7 +268,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -296,7 +296,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -324,7 +324,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -352,7 +352,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -380,7 +380,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -408,7 +408,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -436,7 +436,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -464,7 +464,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -492,7 +492,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -520,7 +520,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -548,7 +548,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -576,7 +576,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -604,7 +604,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -632,7 +632,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -660,7 +660,7 @@ vs:
    games:
     - player1:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0

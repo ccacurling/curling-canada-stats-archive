@@ -145,7 +145,7 @@ vs:
  - Jones, John
  - Kleinmeyer, Arthur
  - Kostick, John
- - Kydd, C.H.
+ - Kydd, Charles
  - Lacroix, Jean-Louis
  - Lahaie, Robert
  - Lamb, Earl

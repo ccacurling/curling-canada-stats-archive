@@ -81,7 +81,7 @@ vs:
  - Agnew, Frederick
  - Atkinson, Hiram
  - Avery, Francis
- - Ayer, Lewis
+ - Ayre, Lewis
  - Baptist, K.O.
  - Beagle, Stuart
  - Beck, R.W.
@@ -119,7 +119,7 @@ vs:
  - Gagnon, Hermenegilde
  - Galloway, Arthur
  - Galloway, Robert
- - Gardner, Charles
+ - Gardner, Charles Jr.
  - Gass, Donald
  - Gilbert, Gordon
  - Gilbert, Peter
@@ -147,13 +147,13 @@ vs:
  - Kennah, John
  - Kennedy, William
  - Kittleson, E.S.
- - Kydd, C.H.
+ - Kydd, Charles
  - Landry, Aurele
  - Lang, John
  - Law, George
  - Macneill, Murray
  - MacNevin, Elmer
- - Martin, Erie
+ - Martin, Erle
  - McCance, Chester
  - McCart, William
  - McDonald, Clarence

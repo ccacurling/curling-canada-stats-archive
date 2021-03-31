@@ -45,7 +45,7 @@ years:
 vs:
  - Acorn, Frank
  - Agnew, Frederick
- - Ayer, Lewis
+ - Ayre, Lewis
  - Baldwin, Mathew
  - Bentley, John
  - Cameron, James
@@ -77,7 +77,7 @@ vs:
  - Hutton, Robert
  - Jackman, Russel
  - Kleinmeyer, Arthur
- - Kydd, C.H.
+ - Kydd, Charles
  - Lamb, Earl
  - MacDonald, Clifford
  - MacNevin, Elmer

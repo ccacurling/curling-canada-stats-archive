@@ -46,8 +46,8 @@ vs:
  - Acorn, Frank
  - Agnew, Frederick
  - Allanach, Lee
- - Asnussen, Carl
- - Ayer, Lewis
+ - Asmussen, Carl
+ - Ayre, Lewis
  - Beattie, Andrew
  - Beattie, Thomas
  - Bentley, John
@@ -76,7 +76,7 @@ vs:
  - Issac, William
  - Jackman, Russel
  - Kenny, William
- - Kydd, C.H.
+ - Kydd, Charles
  - Lillyman, Gordon
  - Lister, Ralph
  - MacLeod, David

@@ -55,7 +55,7 @@ vs:
  - Clayton, David
  - Cowan, Hector
  - Donahoe, James
- - Gardner, Charles
+ - Gardner, Charles Jr.
  - Harrington, A.L.
  - Hay, Hector
  - Hayes, Alex

@@ -114,7 +114,7 @@ vs:
       year: 1928
       draw: Round Robin(3)
       score: AB 13 - NB 7
- - name: Martin, Erie
+ - name: Martin, Erle
    totals:
     - event: Macdonald Brier
       player1:
@@ -142,7 +142,7 @@ vs:
       year: 1942
       draw: Round Robin(3)
       score: QC 3 - SK 14
- - name: McGillvray, W.L.
+ - name: McGillivray, W.L.
    totals:
     - event: Macdonald Brier
       player1:

@@ -254,7 +254,7 @@ vs:
       year: 1950
       draw: Round Robin(8)
       score: NS 1 - NO 14
- - name: Kydd, C.H.
+ - name: Kydd, Charles
    totals:
     - event: Macdonald Brier
       player1:

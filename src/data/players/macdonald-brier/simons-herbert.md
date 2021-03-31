@@ -45,7 +45,7 @@ years:
 vs:
  - Acorn, Frank
  - Allanach, Lee
- - Asnussen, Carl
+ - Asmussen, Carl
  - Best, Donald
  - Bull, William
  - Campbell, Alexander

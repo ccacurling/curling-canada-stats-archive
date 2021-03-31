@@ -90,6 +90,7 @@ vs:
  - Best, Donald
  - Bickle, Warner
  - Brower, John
+ - Caldbick, Samuel
  - Cameron, Donald
  - Campbell, Duncan A.
  - Cartmell, Elwyn
@@ -111,7 +112,7 @@ vs:
  - Enman, Roy
  - Finlay, William
  - Francis, Lionel
- - Gautier, John
+ - Gauthier, John
  - Glass, Robert
  - Gooder, Arthur
  - Gowanlock, Albert

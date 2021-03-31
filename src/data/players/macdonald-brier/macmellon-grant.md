@@ -66,7 +66,7 @@ vs:
  - Easton, Leonard
  - Ford, Gary
  - Franklin, Ronald
- - Gerlack, David
+ - Gerlach, David
  - Gervais, Hector
  - Green, Grant
  - Guest, Ross

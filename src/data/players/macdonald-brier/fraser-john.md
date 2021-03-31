@@ -49,6 +49,7 @@ vs:
  - Bell, Archibald
  - Bickle, Warner
  - Brower, John
+ - Caldbick, Samuel
  - Cartmell, Elwyn
  - Connolly, Daniel
  - Connolly, Joseph
@@ -64,7 +65,7 @@ vs:
  - Elliott, James
  - Enman, Roy
  - Finlay, William
- - Gautier, John
+ - Gauthier, John
  - Gowanlock, Albert
  - Hall, Bert
  - Hall, Perry

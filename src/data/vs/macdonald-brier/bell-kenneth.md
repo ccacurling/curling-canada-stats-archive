@@ -266,7 +266,7 @@ vs:
         loss: 1
       player2:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -906,7 +906,7 @@ vs:
       year: 1966
       draw: Round Robin(4)
       score: NS 7 - ON 13
- - name: Hanford, Morley
+ - name: Handford, Morley
    totals:
     - event: Macdonald Brier
       player1:

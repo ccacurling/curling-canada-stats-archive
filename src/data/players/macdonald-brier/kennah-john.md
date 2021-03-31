@@ -93,6 +93,7 @@ vs:
  - Brower, John
  - Brown, William
  - Bulley, Charles
+ - Caldbick, Samuel
  - Campbell, Donald A.
  - Campbell, Duncan A.
  - Campbell, Gordon M.
@@ -116,7 +117,7 @@ vs:
  - Fulton, Jack
  - Gass, Donald
  - Gates, H.W.
- - Gautier, John
+ - Gauthier, John
  - Gourley, Robert
  - Gowanlock, Albert
  - Grant, James
@@ -145,7 +146,7 @@ vs:
  - Macneill, Murray
  - Manahan, Clifford
  - Manahan, Ross
- - Martin, Erie
+ - Martin, Erle
  - Mason, Lloyd
  - Mawhinney, Harry
  - McArter, William

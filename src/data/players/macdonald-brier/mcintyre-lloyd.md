@@ -50,6 +50,7 @@ vs:
  - Beecroft, William
  - Belcher, Arthur
  - Brower, John
+ - Caldbick, Samuel
  - Cartmell, Elwyn
  - Cobb, Philip
  - Colwell, Harold
@@ -66,7 +67,7 @@ vs:
  - Ferguson, Hugh
  - Finlay, William
  - Fraser, John
- - Gautier, John
+ - Gauthier, John
  - Gowanlock, Albert
  - Graham, Archibald
  - Hall, Bert

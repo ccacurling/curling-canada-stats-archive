@@ -16,7 +16,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -72,7 +72,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -128,7 +128,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -240,7 +240,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -268,7 +268,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -296,7 +296,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -422,7 +422,7 @@ vs:
       year: 1960
       draw: Round Robin(6)
       score: NO 6 - QC 11
- - name: Hanford, Morley
+ - name: Handford, Morley
    totals:
     - event: Macdonald Brier
       player1:
@@ -436,7 +436,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -464,7 +464,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -576,7 +576,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -604,7 +604,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -676,7 +676,7 @@ vs:
       score: NB 12 - QC 16
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -704,7 +704,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -732,7 +732,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -816,7 +816,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -916,7 +916,7 @@ vs:
       score: NB 12 - QC 16
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -960,7 +960,7 @@ vs:
       score: NB 12 - QC 16
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -988,7 +988,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -1072,7 +1072,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -1100,7 +1100,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -1128,7 +1128,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -1156,7 +1156,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -1184,7 +1184,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -1212,7 +1212,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -1240,7 +1240,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -1284,7 +1284,7 @@ vs:
       score: QC 5 - SK 8
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -1328,7 +1328,7 @@ vs:
       score: QC 5 - SK 8
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -1372,7 +1372,7 @@ vs:
       score: QC 5 - SK 8
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -1416,7 +1416,7 @@ vs:
       score: QC 5 - SK 8
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -1500,7 +1500,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -1584,7 +1584,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -1640,7 +1640,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -1696,7 +1696,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -1724,7 +1724,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -1780,7 +1780,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -1836,7 +1836,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -1864,7 +1864,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -1892,7 +1892,7 @@ vs:
    games:
     - player1:
         team: 'QC'
-        position: Fourth
+        position: Third
         percent:
         win: 0
         loss: 1

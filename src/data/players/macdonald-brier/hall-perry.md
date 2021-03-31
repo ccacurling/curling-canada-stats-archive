@@ -131,6 +131,7 @@ vs:
  - Bruce, H.A.
  - Buchanan, Bruce
  - Burns, Montague
+ - Caldbick, Samuel
  - Cameron, Donald
  - Campbell, Duncan A.
  - Cartmell, Elwyn
@@ -166,7 +167,7 @@ vs:
  - Francis, Lionel
  - Fraser, John
  - Ganong, Hardy
- - Gautier, John
+ - Gauthier, John
  - Gebbie, Kenneth
  - Glass, Robert
  - Gooder, Arthur

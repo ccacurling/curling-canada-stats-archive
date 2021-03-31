@@ -598,7 +598,7 @@ vs:
       year: 1965
       draw: Round Robin(4)
       score: QC 10 - NS 9
- - name: Gerlack, David
+ - name: Gerlach, David
    totals:
     - event: Macdonald Brier
       player1:

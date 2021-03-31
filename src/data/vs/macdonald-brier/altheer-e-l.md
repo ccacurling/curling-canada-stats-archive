@@ -58,34 +58,6 @@ vs:
       year: 1928
       draw: Round Robin(7)
       score: ON 19 - QC 6
- - name: Caldbick, Samuel
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Macdonald Brier
-      year: 1928
-      draw: Round Robin(2)
-      score: QC 11 - NO 14
  - name: Dale, Thomas
    totals:
     - event: Macdonald Brier
@@ -450,7 +422,7 @@ vs:
       year: 1928
       draw: Round Robin(4)
       score: NB 13 - QC 12
- - name: McGillvray, W.L.
+ - name: McGillivray, W.L.
    totals:
     - event: Macdonald Brier
       player1:

@@ -47,9 +47,10 @@ vs:
  - Agnew, Frederick
  - Annett, Sidney
  - Arthur, Frank
- - Ayer, Lewis
+ - Ayre, Lewis
  - Bentley, John
  - Brower, John
+ - Caldbick, Samuel
  - Campbell, James
  - Connolly, Daniel
  - Connolly, Joseph
@@ -60,7 +61,7 @@ vs:
  - Eagles, Albert
  - Finlay, William
  - Fraser, John
- - Gautier, John
+ - Gauthier, John
  - Gilbert, Gordon
  - Gilbert, Peter
  - Gilbert, Robert
@@ -77,7 +78,7 @@ vs:
  - Humphries, Manfield
  - Issac, William
  - Kennah, John
- - Kydd, C.H.
+ - Kydd, Charles
  - Landry, Aurele
  - LeSage, William
  - MacNevin, Elmer

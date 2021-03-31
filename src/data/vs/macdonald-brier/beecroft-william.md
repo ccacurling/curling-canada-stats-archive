@@ -550,7 +550,7 @@ vs:
       year: 1937
       draw: Round Robin(5)
       score: NO 10 - NS 5
- - name: Gardner, Charles
+ - name: Gardner, Charles Jr.
    totals:
     - event: Macdonald Brier
       player1:

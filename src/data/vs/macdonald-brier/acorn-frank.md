@@ -58,7 +58,7 @@ vs:
       year: 1951
       draw: Round Robin(4)
       score: PE 11 - SK 13
- - name: Ayer, Lewis
+ - name: Ayre, Lewis
    totals:
     - event: Macdonald Brier
       player1:

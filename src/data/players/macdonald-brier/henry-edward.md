@@ -73,7 +73,7 @@ vs:
  - Jones, Stanley
  - Jordan, Harold
  - Kleinmeyer, Arthur
- - Kydd, C.H.
+ - Kydd, Charles
  - Langlois, Allan
  - Leak, William
  - Likely, Andrew
@@ -94,7 +94,7 @@ vs:
  - Mooney, Reginald
  - Morris, Donald
  - Moscovitz, William
- - Ostberg, F.
+ - Ostberg, Fritz
  - Parnell, Raymond
  - Patterson, Ralph
  - Phillips, Alfred Sr.
@@ -107,7 +107,7 @@ vs:
  - Squarebriggs, John
  - Stone, Reginald
  - Stone, Roy
- - Tomlin, J.W.
+ - Tomelin, J.W.
  - Trites, Horace
  - Turner, Alvin
  - Turney, James

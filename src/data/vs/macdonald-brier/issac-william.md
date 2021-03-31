@@ -74,7 +74,7 @@ vs:
       year: 1957
       draw: Round Robin(1)
       score: QC 8 - AB 11
- - name: Kydd, C.H.
+ - name: Kydd, Charles
    totals:
     - event: Macdonald Brier
       player1:

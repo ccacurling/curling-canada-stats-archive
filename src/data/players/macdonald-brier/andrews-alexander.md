@@ -114,7 +114,7 @@ vs:
  - Jewett, Keith
  - Kassner, David
  - Keys, John
- - Knudson, Eric
+ - Knudsen, Eric
  - Kroeger, Thomas
  - Lashuk, Nicholas
  - Leger, Murray

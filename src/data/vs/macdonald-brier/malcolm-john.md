@@ -58,7 +58,7 @@ vs:
       year: 1933
       draw: Round Robin(5)
       score: NB 8 - NS 13
- - name: McGillvray, W.L.
+ - name: McGillivray, W.L.
    totals:
     - event: Macdonald Brier
       player1:

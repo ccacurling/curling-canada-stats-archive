@@ -30,7 +30,6 @@ vs:
  - Banks, W.J.
  - Brandon, John
  - Brower, Edward
- - Caldbick, Samuel
  - Dale, Thomas
  - Duncan, Allan
  - Graham, Stuart

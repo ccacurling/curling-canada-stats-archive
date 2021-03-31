@@ -123,7 +123,7 @@ vs:
  - Green, Ronald
  - Hallinan, William
  - Hammond, John
- - Hanford, Morley
+ - Handford, Morley
  - Hansen, Alan
  - Hebert, Leo
  - Herder, Daniel

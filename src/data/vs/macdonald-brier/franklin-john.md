@@ -998,7 +998,7 @@ vs:
       year: 1948
       draw: Round Robin(4)
       score: BC 8 - SK 7
- - name: Martin, Erie
+ - name: Martin, Erle
    totals:
     - event: Macdonald Brier
       player1:

@@ -270,7 +270,7 @@ vs:
       year: 1953
       draw: Round Robin(9)
       score: QC 14 - NB 6
- - name: Ostberg, F.
+ - name: Ostberg, Fritz
    totals:
     - event: Macdonald Brier
       player1:
@@ -710,7 +710,7 @@ vs:
       year: 1953
       draw: Round Robin(4)
       score: QC 15 - NL 2
- - name: Tomlin, J.W.
+ - name: Tomelin, J.W.
    totals:
     - event: Macdonald Brier
       player1:

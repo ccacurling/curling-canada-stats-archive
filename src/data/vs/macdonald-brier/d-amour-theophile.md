@@ -310,7 +310,7 @@ vs:
       year: 1948
       draw: Round Robin(5)
       score: BC 16 - NO 2
- - name: Hanford, Morley
+ - name: Handford, Morley
    totals:
     - event: Macdonald Brier
       player1:

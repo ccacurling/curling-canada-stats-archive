@@ -2,7 +2,7 @@
 title: Anthony Pilling Head-to-head
 name: Pilling, Anthony
 vs:
- - name: Ross, John k.
+ - name: Ross, John K.
    totals:
     - event: Macdonald Brier
       player1:

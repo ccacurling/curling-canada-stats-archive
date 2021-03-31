@@ -582,7 +582,7 @@ vs:
       year: 1956
       draw: Round Robin(8)
       score: BC 8 - MB 11
- - name: Ostberg, F.
+ - name: Ostberg, Fritz
    totals:
     - event: Macdonald Brier
       player1:
@@ -962,7 +962,7 @@ vs:
       year: 1952
       draw: Round Robin(3)
       score: MB 9 - BC 8
- - name: Tomlin, J.W.
+ - name: Tomelin, J.W.
    totals:
     - event: Macdonald Brier
       player1:

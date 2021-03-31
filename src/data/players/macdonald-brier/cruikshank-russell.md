@@ -126,7 +126,7 @@ vs:
  - Lucas, J.A.
  - Magee, Harry
  - Malcolm, John
- - Martin, Erie
+ - Martin, Erle
  - McDonald, Clarence
  - McMahon, A.E.
  - McMahon, James

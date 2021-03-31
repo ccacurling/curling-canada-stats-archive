@@ -65,7 +65,7 @@ vs:
  - Gervais, Hector
  - Giannou, George
  - Goldburg, Reginald
- - Hanford, Morley
+ - Handford, Morley
  - Hansen, Alan
  - Herman, Leroy
  - Hodgson, Eugene

@@ -246,7 +246,7 @@ vs:
         loss: 1
       player2:
         team: 'BC'
-        position: Fourth
+        position: Third
         percent:
         win: 1
         loss: 0

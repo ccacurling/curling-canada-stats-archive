@@ -43,7 +43,7 @@ vs:
  - Hill, James
  - Issac, William
  - Jackman, Russel
- - Kydd, C.H.
+ - Kydd, Charles
  - MacNevin, Elmer
  - McCance, Chester
  - McEwen, Donald

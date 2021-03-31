@@ -103,7 +103,7 @@ vs:
  - Provost, Barry
  - Ready, Clifford
  - Rhodenizer, Wayne
- - Romando, David
+ - Romano, David
  - Romkey, David
  - Rowe, Robert
  - Savage, Paul

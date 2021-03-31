@@ -370,7 +370,7 @@ vs:
       year: 1950
       draw: Round Robin(8)
       score: BC 8 - QC 7
- - name: Gautier, John
+ - name: Gauthier, John
    totals:
     - event: Macdonald Brier
       player1:

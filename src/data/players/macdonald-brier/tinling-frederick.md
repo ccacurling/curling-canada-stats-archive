@@ -92,6 +92,7 @@ vs:
  - Best, Donald
  - Bickle, Warner
  - Brower, John
+ - Caldbick, Samuel
  - Cameron, Donald
  - Campbell, Duncan A.
  - Cartmell, Elwyn
@@ -118,7 +119,7 @@ vs:
  - Ferguson, Hugh
  - Francis, Lionel
  - Fraser, John
- - Gautier, John
+ - Gauthier, John
  - Gooder, Arthur
  - Gowanlock, Albert
  - Graham, Archibald

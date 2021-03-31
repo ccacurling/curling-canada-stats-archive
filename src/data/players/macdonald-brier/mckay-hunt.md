@@ -65,7 +65,7 @@ vs:
  - Agnew, Frederick
  - Anton, Ronald
  - Armstrong, William
- - Ayer, Lewis
+ - Ayre, Lewis
  - Bell, Kenneth
  - Bentley, John
  - Boivin, Gabriel
@@ -99,7 +99,7 @@ vs:
  - Grant, Ray
  - Haggarty, David
  - Haines, Bernard
- - Hanford, Morley
+ - Handford, Morley
  - Hansen, Alan
  - Harrington, James
  - Haw, Leonard
@@ -113,7 +113,7 @@ vs:
  - Jackman, Russel
  - Keith, Harold
  - Kostick, John
- - Kydd, C.H.
+ - Kydd, Charles
  - Larsen, Vernon
  - Likely, Andrew
  - Lindberg, Russell

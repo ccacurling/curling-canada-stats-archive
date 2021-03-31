@@ -2,7 +2,7 @@
 title: John Fraser Head-to-head
 name: Fraser, John
 vs:
- - name: Gautier, John
+ - name: Gauthier, John
    totals:
     - event: Macdonald Brier
       player1:

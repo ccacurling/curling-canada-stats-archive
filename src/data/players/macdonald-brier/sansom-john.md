@@ -82,7 +82,7 @@ vs:
  - MacLennan, Neil
  - MacVicar, Stewart
  - Mark, James
- - Martin, Erie
+ - Martin, Erle
  - McGhie, Robert
  - McLaws, William
  - McLeod, Jack

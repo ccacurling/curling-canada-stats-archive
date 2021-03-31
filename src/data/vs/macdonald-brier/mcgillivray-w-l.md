@@ -1,6 +1,6 @@
 ---
-title: W.L. McGillvray Head-to-head
-name: McGillvray, W.L.
+title: W.L. McGillivray Head-to-head
+name: McGillivray, W.L.
 vs:
  - name: McLeod, N.D.
    totals:

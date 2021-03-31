@@ -62,7 +62,7 @@ years:
 vs:
  - Allanach, Lee
  - Annabel, Clifford
- - Asnussen, Carl
+ - Asmussen, Carl
  - Avery, Francis
  - Baum, William
  - Beattie, Andrew

@@ -394,7 +394,7 @@ vs:
       year: 1952
       draw: Round Robin(11)
       score: NL 4 - NS 11
- - name: Kydd, C.H.
+ - name: Kydd, Charles
    totals:
     - event: Macdonald Brier
       player1:
@@ -702,7 +702,7 @@ vs:
       year: 1952
       draw: Round Robin(8)
       score: NL 6 - MB 12
- - name: Ostberg, F.
+ - name: Ostberg, Fritz
    totals:
     - event: Macdonald Brier
       player1:

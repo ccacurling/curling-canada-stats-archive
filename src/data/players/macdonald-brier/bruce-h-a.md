@@ -11,7 +11,7 @@ years:
  - year: 1930
    event: Macdonald Brier
    team: "ON"
-   position: Third
+   position: Fourth
    games: 9
    wins: 3
    losses: 6

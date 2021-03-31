@@ -27,7 +27,6 @@ years:
    shots-percent:
 vs:
  - Aldridge, Glenn
- - Ballantyne, John
  - Bauer, Keiven
  - Brazeau, Howard
  - Casey, Ronald
@@ -35,7 +34,7 @@ vs:
  - Cook, Al
  - Currie, Michael
  - Darragh, Alan
- - Ducat, SAtephen
+ - Ducat, Stephen
  - Fennimore, Charles
  - Folk, Rick
  - Goulden, Lowell

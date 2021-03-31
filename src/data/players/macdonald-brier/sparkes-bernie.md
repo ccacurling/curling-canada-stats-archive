@@ -220,7 +220,7 @@ vs:
  - Devine, Robert
  - Dillon, Robert
  - Downey, Wayne
- - Ducat, SAtephen
+ - Ducat, Stephen
  - Dudar, Allan
  - Dudar, Robert
  - Dugre, Louis
@@ -385,12 +385,12 @@ vs:
  - Rhodenizer, Wayne
  - Robinson, Robert
  - Romain, Alfred
- - Romando, David
+ - Romano, David
  - Romkey, David
  - Ronald, Dick
  - Ross, Brian
  - Ross, John
- - Ross, John k.
+ - Ross, John K.
  - Ross, John R.
  - Ross, William
  - Rowe, Robert

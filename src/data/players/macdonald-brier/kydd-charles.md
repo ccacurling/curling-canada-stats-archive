@@ -1,7 +1,7 @@
 ---
-title: C.H. Kydd
-name: C.H. Kydd
-name-sort: Kydd, C.H.
+title: Charles Kydd
+name: Charles Kydd
+name-sort: Kydd, Charles
 totals:
  - event: Macdonald Brier
    games: 20
@@ -44,7 +44,7 @@ years:
    shots-percent:
 vs:
  - Agnew, Frederick
- - Ayer, Lewis
+ - Ayre, Lewis
  - Bentley, John
  - Bissett, Kenneth
  - Blanchard, Henry
@@ -92,7 +92,7 @@ vs:
  - Miller, Edward
  - Mitton, Harris
  - Noble, Ralph
- - Ostberg, F.
+ - Ostberg, Fritz
  - Parnell, Raymond
  - Pike, Jack
  - Pollen, Arthur
@@ -106,7 +106,7 @@ vs:
  - Stone, Reginald
  - Stone, Roy
  - Stoneman, Jack
- - Tomlin, J.W.
+ - Tomelin, J.W.
  - Trites, Horace
  - Turner, Alvin
  - Turney, James

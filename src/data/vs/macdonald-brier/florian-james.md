@@ -242,7 +242,7 @@ vs:
       year: 1973
       draw: Round Robin(7)
       score: ON 10 - NS 9
- - name: Hanford, Morley
+ - name: Handford, Morley
    totals:
     - event: Macdonald Brier
       player1:

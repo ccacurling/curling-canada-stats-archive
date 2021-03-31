@@ -28,7 +28,7 @@ years:
 vs:
  - Acorn, Frank
  - Agnew, Frederick
- - Ayer, Lewis
+ - Ayre, Lewis
  - Bentley, John
  - Campbell, James
  - Gilbert, Gordon
@@ -44,7 +44,7 @@ vs:
  - Howell, Wilbert
  - Issac, William
  - Jackman, Russel
- - Kydd, C.H.
+ - Kydd, Charles
  - MacNevin, Elmer
  - McCance, Chester
  - McEwen, Donald

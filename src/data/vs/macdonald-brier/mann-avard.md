@@ -370,7 +370,7 @@ vs:
       year: 1955
       draw: Round Robin(8)
       score: NS 10 - NL 7
- - name: Ostberg, F.
+ - name: Ostberg, Fritz
    totals:
     - event: Macdonald Brier
       player1:
@@ -1022,7 +1022,7 @@ vs:
       year: 1955
       draw: Round Robin(2)
       score: NS 3 - BC 19
- - name: Tomlin, J.W.
+ - name: Tomelin, J.W.
    totals:
     - event: Macdonald Brier
       player1:

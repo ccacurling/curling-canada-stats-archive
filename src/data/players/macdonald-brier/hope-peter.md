@@ -112,7 +112,7 @@ vs:
  - Ford, Gary
  - Fortier, John
  - Fox, Jim
- - Gerlack, David
+ - Gerlach, David
  - Gervais, Hector
  - Giannou, George
  - Goldburg, Reginald
@@ -120,7 +120,7 @@ vs:
  - Green, Grant
  - Green, Ronald
  - Guest, Ross
- - Hanford, Morley
+ - Handford, Morley
  - Hansen, Alan
  - Harry, Donald
  - Harry, Morley

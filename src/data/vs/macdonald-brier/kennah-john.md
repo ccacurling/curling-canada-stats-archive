@@ -354,7 +354,7 @@ vs:
       year: 1938
       draw: Round Robin(2)
       score: AB 14 - NB 9
- - name: Martin, Erie
+ - name: Martin, Erle
    totals:
     - event: Macdonald Brier
       player1:

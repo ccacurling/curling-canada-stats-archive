@@ -254,7 +254,7 @@ vs:
       year: 1969
       draw: Round Robin(8)
       score: NS 6 - SK 12
- - name: Gerlack, David
+ - name: Gerlach, David
    totals:
     - event: Macdonald Brier
       player1:

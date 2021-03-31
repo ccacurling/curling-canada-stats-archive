@@ -114,7 +114,7 @@ vs:
       year: 1939
       draw: Round Robin(8)
       score: BC 7 - MB 14
- - name: Martin, Erie
+ - name: Martin, Erle
    totals:
     - event: Macdonald Brier
       player1:

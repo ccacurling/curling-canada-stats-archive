@@ -78,7 +78,7 @@ vs:
  - Hushagen, Earl
  - Issac, William
  - Jackman, Russel
- - Kydd, C.H.
+ - Kydd, Charles
  - Likely, Andrew
  - Lord, Donald
  - MacDonald, Elmer

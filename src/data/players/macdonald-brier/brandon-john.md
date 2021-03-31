@@ -47,7 +47,6 @@ vs:
  - Banks, W.J.
  - Battel, Carl
  - Binkley, Charles
- - Caldbick, Samuel
  - Congalton, James
  - Connolly, Daniel
  - Connolly, Joseph
@@ -72,7 +71,7 @@ vs:
  - Macneill, Murray
  - Malcolm, John
  - Mawhinney, Harry
- - McGillvray, W.L.
+ - McGillivray, W.L.
  - McKinlay, Jack
  - McLeod, N.D.
  - Morrison, Robert

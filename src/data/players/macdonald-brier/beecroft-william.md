@@ -84,7 +84,7 @@ vs:
  - Dunker, Albert
  - Durrant, Charles
  - Ferguson, Hugh
- - Gardner, Charles
+ - Gardner, Charles Jr.
  - Glass, Robert
  - Graham, Archibald
  - Hall, Bert

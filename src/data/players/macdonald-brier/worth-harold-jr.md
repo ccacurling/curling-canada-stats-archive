@@ -64,7 +64,7 @@ vs:
  - Agnew, Frederick
  - Andrews, Alexander
  - Arnett, John
- - Ayer, Lewis
+ - Ayre, Lewis
  - Baldwin, Mathew
  - Beattie, Donald
  - Braunstein, Ronald
@@ -115,7 +115,7 @@ vs:
  - Jones, Stanley
  - Jordan, Harold
  - Kleinmeyer, Arthur
- - Kydd, C.H.
+ - Kydd, Charles
  - Langlois, Allan
  - Lashuk, Nicholas
  - Leak, William

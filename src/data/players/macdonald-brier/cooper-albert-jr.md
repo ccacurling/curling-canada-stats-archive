@@ -49,7 +49,7 @@ vs:
  - Landry, Aurele
  - Lang, John
  - Law, George
- - Martin, Erie
+ - Martin, Erle
  - Newman, Christopher
  - Rafuse, Norman
  - Ross, John Jr.

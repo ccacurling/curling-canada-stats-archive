@@ -98,7 +98,7 @@ vs:
  - Allanach, Lee
  - Annett, Sidney
  - Arthur, Frank
- - Asnussen, Carl
+ - Asmussen, Carl
  - Avery, Francis
  - Barry, Charles
  - Baum, William
@@ -111,6 +111,7 @@ vs:
  - Bell, Reginald
  - Bickle, Warner
  - Brower, John
+ - Caldbick, Samuel
  - Campbell, Donald A.
  - Campbell, Duncan A.
  - Campbell, Gordon M.
@@ -150,7 +151,7 @@ vs:
  - Fowler, Ralph
  - Fraser, John
  - Garnham, David
- - Gautier, John
+ - Gauthier, John
  - Gowanlock, Albert
  - Graham, Archibald
  - Haines, Bernard

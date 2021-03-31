@@ -57,7 +57,7 @@ vs:
  - Rankel, Anthony
  - Reed, Lorne
  - Reed, Tom
- - Romando, David
+ - Romano, David
  - Ross, Brian
  - Savage, Paul
  - Stokes, Lionel

@@ -1,6 +1,6 @@
 ---
-title: F. Ostberg Head-to-head
-name: Ostberg, F.
+title: Fritz Ostberg Head-to-head
+name: Ostberg, Fritz
 vs:
  - name: Parnell, Raymond
    totals:
@@ -170,7 +170,7 @@ vs:
       year: 1952
       draw: Round Robin(9)
       score: SK 4 - BC 10
- - name: Tomlin, J.W.
+ - name: Tomelin, J.W.
    totals:
     - event: Macdonald Brier
       player1:

@@ -84,7 +84,7 @@ vs:
  - Horeak, Harold
  - Howatt, J.H.
  - Kittleson, E.S.
- - Kydd, C.H.
+ - Kydd, Charles
  - Langlois, Allan
  - Limerick, Arthur
  - Limerick, Victor
@@ -96,7 +96,7 @@ vs:
  - McInnis, Harold
  - McIntyre, Heath
  - McWilliams, Andrew
- - Ostberg, F.
+ - Ostberg, Fritz
  - Painter, Donald
  - Parnell, Raymond
  - Pike, Jack
@@ -107,7 +107,7 @@ vs:
  - Sievert, Edward
  - Simpson, Arthur
  - Sutherland, James
- - Tomlin, J.W.
+ - Tomelin, J.W.
  - Turner, Alvin
  - Turney, James
  - Vail, Kenneth

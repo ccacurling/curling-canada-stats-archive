@@ -33,7 +33,7 @@ vs:
  - Broatch, W.R.
  - Burchell, Charles
  - Clayton, David
- - Gardner, Charles
+ - Gardner, Charles Jr.
  - Harrington, A.L.
  - Kerr, Charles
  - MacIntyre, Marvin

@@ -149,7 +149,7 @@ vs:
  - Groom, Donald
  - Groom, William
  - Gullage, John
- - Hanford, Morley
+ - Handford, Morley
  - Hansen, Alan
  - Hanson, George
  - Harper, Glen

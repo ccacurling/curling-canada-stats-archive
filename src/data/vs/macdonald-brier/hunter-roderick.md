@@ -246,7 +246,7 @@ vs:
       year: 1975
       draw: Round Robin(10)
       score: MB 10 - SK 4
- - name: Knudson, Eric
+ - name: Knudsen, Eric
    totals:
     - event: Macdonald Brier
       player1:

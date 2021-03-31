@@ -178,7 +178,7 @@ vs:
  - Ketch, Ronald
  - Kilburn, James
  - Klotz, George
- - Knudson, Eric
+ - Knudsen, Eric
  - Kroeger, Thomas
  - Leger, Murray
  - Lemecha, Robert

@@ -144,7 +144,7 @@ vs:
  - Kent, William
  - Keys, John
  - Kleinmeyer, Arthur
- - Knudson, Eric
+ - Knudsen, Eric
  - Kroeger, Thomas
  - Lamb, Earl
  - Lashuk, Nicholas

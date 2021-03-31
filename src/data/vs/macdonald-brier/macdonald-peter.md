@@ -478,7 +478,7 @@ vs:
       year: 1976
       draw: Round Robin(7)
       score: QC 5 - PE 13
- - name: Ross, John k.
+ - name: Ross, John K.
    totals:
     - event: Macdonald Brier
       player1:

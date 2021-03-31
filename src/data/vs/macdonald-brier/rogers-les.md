@@ -2,7 +2,7 @@
 title: Les Rogers Head-to-head
 name: Rogers, Les
 vs:
- - name: Romando, David
+ - name: Romano, David
    totals:
     - event: Macdonald Brier
       player1:

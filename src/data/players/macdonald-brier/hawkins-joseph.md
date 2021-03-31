@@ -44,7 +44,7 @@ vs:
  - Hatfield, Larry
  - Henry, Edward
  - Hood, Norman
- - Kydd, C.H.
+ - Kydd, Charles
  - Langlois, Allan
  - Limerick, Arthur
  - Limerick, Victor
@@ -54,14 +54,14 @@ vs:
  - McGibney, Douglas
  - McInnis, Harold
  - McWilliams, Andrew
- - Ostberg, F.
+ - Ostberg, Fritz
  - Parnell, Raymond
  - Pike, Jack
  - Ross, W.S.
  - Simpson, Arthur
  - Stone, Reginald
  - Stone, Roy
- - Tomlin, J.W.
+ - Tomelin, J.W.
  - Turner, Alvin
  - Walsh, William
  - Watson, John

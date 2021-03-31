@@ -54,7 +54,7 @@ vs:
  - Patrick, James
  - Provost, Barry
  - Ready, Clifford
- - Romando, David
+ - Romano, David
  - Rowe, Robert
  - Shearer, Barry
  - Sparkes, Bernie

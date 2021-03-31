@@ -5,16 +5,16 @@ name-sort: Caldbick, Samuel
 totals:
  - event: Macdonald Brier
    games: 9
-   wins: 5
-   losses: 4
+   wins: 3
+   losses: 6
 years:
- - year: 1928
+ - year: 1938
    event: Macdonald Brier
    team: "NO"
    position: Third
    games: 9
-   wins: 5
-   losses: 4
+   wins: 3
+   losses: 6
    inturn-total: 0
    inturn-percent:
    outturn-total: 0
@@ -26,40 +26,40 @@ years:
    shots-total: 0
    shots-percent:
 vs:
- - Altheer, E.L.
- - Banks, W.J.
- - Brandon, John
- - Brower, Edward
- - Dale, Thomas
- - Duncan, Allan
- - Graham, Frederick W.
- - Graham, Stuart
- - Grant, William
- - Hamilton, Robert
- - Heartwell, Joseph
- - Hudson, Gordon
- - Hutchison, William
- - Lang, John
- - Lynch, J.B.
- - MacKay, W.D.
- - Malcolm, John
- - McGillvray, W.L.
- - McLeod, N.D.
- - McWilliams, Victor
- - Newton, S.G.
- - Pace, C.S.
- - Penwarden, Samuel
- - Purcell, J.E.
- - Ross, Hugh
- - Roy, Ormiston
- - Shaw, William
- - Singbusch, Ronald
- - Snow, Charles
- - Sproule, Harvey
- - Stevenson, Harry
- - Stewart, Howard
- - Taylor, Charles
- - Teasdale, Ralph
- - Trigg, John
- - White, Frank
+ - Annett, Sidney
+ - Arthur, Frank
+ - Brower, John
+ - Cartmell, Elwyn
+ - Connolly, Daniel
+ - Connolly, Joseph
+ - Cream, Robert
+ - Dunbar, George
+ - Durrant, Charles
+ - Finlay, William
+ - Fraser, John
+ - Gowanlock, Albert
+ - Hall, Bert
+ - Hall, Perry
+ - Hughes, Gordon
+ - Humphries, Manfield
+ - Kennah, John
+ - Landry, Aurele
+ - LeSage, William
+ - Manahan, Clifford
+ - Manahan, Ross
+ - McIntyre, Lloyd
+ - McKnight, Edward
+ - McKnight, William
+ - McLaine, Rankine
+ - McLeod, Henry
+ - Parkes, Ernest
+ - Ployart, Edward
+ - Reed, Sudbury
+ - Robinson, Wesley
+ - Seagram, Campbell
+ - Simm, Edward
+ - Tinling, Frederick
+ - Tinling, Lionel
+ - Williams, Charles
+ - Woods, Percy
 ---

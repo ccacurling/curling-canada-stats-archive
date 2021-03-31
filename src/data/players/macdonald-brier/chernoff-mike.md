@@ -60,7 +60,7 @@ vs:
  - Dagg, Lyall
  - Darragh, Alan
  - Dillon, Robert
- - Ducat, SAtephen
+ - Ducat, Stephen
  - Fennimore, Charles
  - Folk, Rick
  - Giannou, George
@@ -108,7 +108,7 @@ vs:
  - Richardson, Ernest
  - Richardson, Garnet
  - Richardson, Wesley
- - Ross, John k.
+ - Ross, John K.
  - Rowe, Robert
  - Sampson, James
  - Schaefer, Charles

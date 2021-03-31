@@ -478,7 +478,7 @@ vs:
       year: 1979
       draw: Round Robin(3)
       score: NO 3 - NS 5
- - name: Ross, John k.
+ - name: Ross, John K.
    totals:
     - event: Macdonald Brier
       player1:

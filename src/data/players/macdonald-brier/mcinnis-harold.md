@@ -52,14 +52,14 @@ vs:
  - McCance, Chester
  - McGibney, Douglas
  - McWilliams, Andrew
- - Ostberg, F.
+ - Ostberg, Fritz
  - Parnell, Raymond
  - Pike, Jack
  - Ross, W.S.
  - Simpson, Arthur
  - Stone, Reginald
  - Stone, Roy
- - Tomlin, J.W.
+ - Tomelin, J.W.
  - Turner, Alvin
  - Turney, James
  - Walsh, William

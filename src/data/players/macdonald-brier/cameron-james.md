@@ -28,7 +28,7 @@ years:
  - year: 1958
    event: Macdonald Brier
    team: "PE"
-   position: Third
+   position: Second
    games: 10
    wins: 5
    losses: 5

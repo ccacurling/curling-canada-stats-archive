@@ -78,7 +78,7 @@ vs:
  - Hunter, Roderick
  - Kent, William
  - Keys, John
- - Knudson, Eric
+ - Knudsen, Eric
  - Kroeger, Thomas
  - Langille, Kenneth
  - Leger, Murray
@@ -100,7 +100,7 @@ vs:
  - Pickering, Robert
  - Provost, Barry
  - Rhodenizer, Wayne
- - Romando, David
+ - Romano, David
  - Rowe, Robert
  - Sanford, John
  - Sargent, Frank Jr.

@@ -89,6 +89,7 @@ vs:
  - Brower, John
  - Brown, Robert
  - Burns, Montague
+ - Caldbick, Samuel
  - Cartmell, Elwyn
  - Cleveland, Bernard
  - Colquhoun, Hugh
@@ -113,7 +114,7 @@ vs:
  - Ferguson, Benjamin
  - Finlay, William
  - Fraser, John
- - Gautier, John
+ - Gauthier, John
  - Gebbie, Kenneth
  - Glass, Robert
  - Gowanlock, Albert

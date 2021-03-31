@@ -106,6 +106,7 @@ vs:
  - Brown, William
  - Butler, Richard
  - Cairns, Charles
+ - Caldbick, Samuel
  - Carew, Frank
  - Cartmell, Elwyn
  - Cleveland, Bernard
@@ -128,7 +129,7 @@ vs:
  - Fraser, John
  - Fulton, Jack
  - Gates, H.W.
- - Gautier, John
+ - Gauthier, John
  - Gebbie, Kenneth
  - Godfrey, Thomas
  - Gourley, Robert

@@ -80,7 +80,7 @@ vs:
  - Allanach, Lee
  - Annett, Sidney
  - Arthur, Frank
- - Asnussen, Carl
+ - Asmussen, Carl
  - Avery, Francis
  - Barry, Charles
  - Beattie, Andrew
@@ -92,6 +92,7 @@ vs:
  - Bell, Reginald
  - Bickle, Warner
  - Brower, John
+ - Caldbick, Samuel
  - Cartmell, Elwyn
  - Cobb, Philip
  - Cobb, T.R.
@@ -120,7 +121,7 @@ vs:
  - Finlay, William
  - Fraser, John
  - Garnham, David
- - Gautier, John
+ - Gauthier, John
  - Gowanlock, Albert
  - Graham, Archibald
  - Haines, Bernard

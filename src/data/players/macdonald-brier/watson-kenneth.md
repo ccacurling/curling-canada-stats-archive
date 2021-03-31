@@ -96,7 +96,7 @@ vs:
  - Gagnon, Hermenegilde
  - Galloway, Arthur
  - Galloway, Robert
- - Gardner, Charles
+ - Gardner, Charles Jr.
  - Gass, Donald
  - Gilbert, Gordon
  - Gilbert, Peter
@@ -118,7 +118,7 @@ vs:
  - Lang, John
  - Law, George
  - Macneill, Murray
- - Martin, Erie
+ - Martin, Erle
  - McCart, William
  - McDonald, Clarence
  - McIntyre, Heath

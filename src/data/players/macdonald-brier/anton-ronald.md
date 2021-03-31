@@ -92,7 +92,7 @@ vs:
  - Giannou, George
  - Goldburg, Reginald
  - Green, Ronald
- - Hanford, Morley
+ - Handford, Morley
  - Hansen, Alan
  - Herman, Leroy
  - Hodgson, Eugene

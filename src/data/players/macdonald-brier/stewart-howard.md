@@ -134,7 +134,6 @@ vs:
  - Bruce, H.A.
  - Buchanan, Bruce
  - Bulley, Charles
- - Caldbick, Samuel
  - Cobb, Philip
  - Colwell, Harold
  - Condie, Arthur
@@ -204,7 +203,7 @@ vs:
  - Matthews, Whit
  - Mawhinney, Harry
  - McArter, William
- - McGillvray, W.L.
+ - McGillivray, W.L.
  - McIntyre, Lloyd
  - McKinlay, Jack
  - McLeod, Henry

@@ -48,7 +48,7 @@ vs:
  - Amyot, Gaston
  - Amyot, Pierre
  - Annabel, Clifford
- - Ayer, Lewis
+ - Ayre, Lewis
  - Bentley, John
  - Blais, Ernest
  - Campbell, James
@@ -73,7 +73,7 @@ vs:
  - Howell, Wilbert
  - Issac, William
  - Johnson, William
- - Kydd, C.H.
+ - Kydd, Charles
  - Logan, Walter
  - MacGregor, Walter
  - MacLennan, Neil

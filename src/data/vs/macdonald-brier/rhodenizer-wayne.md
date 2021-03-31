@@ -114,7 +114,7 @@ vs:
       year: 1962
       draw: Round Robin(1)
       score: PE 7 - SK 11
- - name: Romando, David
+ - name: Romano, David
    totals:
     - event: Macdonald Brier
       player1:

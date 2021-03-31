@@ -450,7 +450,7 @@ vs:
       year: 1977
       draw: Round Robin(10)
       score: NB 5 - SK 10
- - name: Romando, David
+ - name: Romano, David
    totals:
     - event: Macdonald Brier
       player1:

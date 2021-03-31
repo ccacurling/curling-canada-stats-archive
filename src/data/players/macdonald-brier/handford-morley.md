@@ -1,7 +1,7 @@
 ---
-title: Morley Hanford
-name: Morley Hanford
-name-sort: Hanford, Morley
+title: Morley Handford
+name: Morley Handford
+name-sort: Handford, Morley
 totals:
  - event: Macdonald Brier
    games: 11

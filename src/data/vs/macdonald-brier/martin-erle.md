@@ -1,6 +1,6 @@
 ---
-title: Erie Martin Head-to-head
-name: Martin, Erie
+title: Erle Martin Head-to-head
+name: Martin, Erle
 vs:
  - name: McMitchell, William
    totals:

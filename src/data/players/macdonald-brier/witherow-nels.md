@@ -44,7 +44,7 @@ vs:
  - Hawkins, Joseph
  - Henry, Edward
  - Hood, Norman
- - Kydd, C.H.
+ - Kydd, Charles
  - Langlois, Allan
  - Limerick, Arthur
  - Limerick, Victor
@@ -61,7 +61,7 @@ vs:
  - Simpson, Arthur
  - Stone, Reginald
  - Stone, Roy
- - Tomlin, J.W.
+ - Tomelin, J.W.
  - Turney, James
  - Walsh, William
  - Watson, John

@@ -36,7 +36,7 @@ vs:
  - Cook, Al
  - Currie, Michael
  - Darragh, Alan
- - Ducat, SAtephen
+ - Ducat, Stephen
  - Fennimore, Charles
  - Folk, Rick
  - Goulden, Lowell
@@ -55,7 +55,7 @@ vs:
  - Mutrie, Barry
  - Paterson, Barry
  - Pilling, Anthony
- - Ross, John k.
+ - Ross, John K.
  - Rowe, Robert
  - Sampson, James
  - Schaefer, Charles

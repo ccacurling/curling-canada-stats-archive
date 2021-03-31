@@ -30,7 +30,6 @@ vs:
  - Banks, W.J.
  - Brandon, John
  - Brower, Edward
- - Caldbick, Samuel
  - Dale, Thomas
  - Graham, Frederick W.
  - Graham, Stuart
@@ -41,7 +40,7 @@ vs:
  - Lynch, J.B.
  - MacKay, W.D.
  - Malcolm, John
- - McGillvray, W.L.
+ - McGillivray, W.L.
  - McLeod, N.D.
  - McWilliams, Victor
  - Morrison, Robert

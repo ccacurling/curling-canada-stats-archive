@@ -450,7 +450,7 @@ vs:
       year: 1976
       draw: Round Robin(9)
       score: NS 4 - NL 8
- - name: Romando, David
+ - name: Romano, David
    totals:
     - event: Macdonald Brier
       player1:

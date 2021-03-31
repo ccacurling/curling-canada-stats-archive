@@ -181,7 +181,7 @@ vs:
  - Reed, Tom
  - Rogers, Les
  - Rogers, Victor
- - Romando, David
+ - Romano, David
  - Romkey, David
  - Ross, Brian
  - Ross, John R.

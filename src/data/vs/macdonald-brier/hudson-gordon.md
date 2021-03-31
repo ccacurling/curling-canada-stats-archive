@@ -354,7 +354,7 @@ vs:
       year: 1929
       draw: Round Robin(3)
       score: MB 11 - NB 5
- - name: McGillvray, W.L.
+ - name: McGillivray, W.L.
    totals:
     - event: Macdonald Brier
       player1:

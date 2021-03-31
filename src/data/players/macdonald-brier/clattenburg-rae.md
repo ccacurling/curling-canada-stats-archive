@@ -53,7 +53,7 @@ vs:
  - Provost, Barry
  - Ready, Clifford
  - Rhodenizer, Wayne
- - Romando, David
+ - Romano, David
  - Rowe, Robert
  - Shearer, Barry
  - Sparkes, Bernie

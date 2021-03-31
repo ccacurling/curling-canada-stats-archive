@@ -35,7 +35,7 @@ vs:
  - Dillon, Robert
  - Florian, James
  - Gervais, Hector
- - Hanford, Morley
+ - Handford, Morley
  - Hansen, Alan
  - Hope, Peter
  - Houck, Norman

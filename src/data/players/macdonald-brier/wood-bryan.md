@@ -146,7 +146,7 @@ vs:
  - Devlin, Paul
  - Dillon, George
  - Downer, Gerald
- - Ducat, SAtephen
+ - Ducat, Stephen
  - Durrant, David
  - Ellis, Kenneth
  - Fedosa, Robert
@@ -181,7 +181,7 @@ vs:
  - Kent, William
  - Keys, John
  - Klippenstein, Daniel
- - Knudson, Eric
+ - Knudsen, Eric
  - Kroeger, Thomas
  - Lang, Rick
  - Ledgerwood, Allan
@@ -239,7 +239,7 @@ vs:
  - Ready, Clifford
  - Reed, Lorne
  - Reed, Tom
- - Ross, John k.
+ - Ross, John K.
  - Rowe, Robert
  - Ryan, Pat
  - Saboe, Wayne

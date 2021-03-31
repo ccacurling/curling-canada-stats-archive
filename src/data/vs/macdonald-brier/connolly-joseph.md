@@ -466,7 +466,7 @@ vs:
       year: 1931
       draw: Round Robin(3)
       score: NS 9 - NB 6
- - name: Gautier, John
+ - name: Gauthier, John
    totals:
     - event: Macdonald Brier
       player1:
@@ -1294,7 +1294,7 @@ vs:
       year: 1938
       draw: Round Robin(2)
       score: AB 14 - NB 9
- - name: Martin, Erie
+ - name: Martin, Erle
    totals:
     - event: Macdonald Brier
       player1:

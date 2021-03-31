@@ -82,7 +82,7 @@ vs:
  - Donahoe, James
  - Dunker, Albert
  - Ferguson, Hugh
- - Gardner, Charles
+ - Gardner, Charles Jr.
  - Graham, Archibald
  - Harrington, A.L.
  - Hasenflug, Frederick

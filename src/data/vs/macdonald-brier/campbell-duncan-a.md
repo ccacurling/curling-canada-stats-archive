@@ -2014,7 +2014,7 @@ vs:
       year: 1933
       draw: Round Robin(4)
       score: AB 12 - ON 9
- - name: Martin, Erie
+ - name: Martin, Erle
    totals:
     - event: Macdonald Brier
       player1:

@@ -86,7 +86,7 @@ vs:
  - Lehnen, Arthur
  - MacIntosh, George
  - MacLean, Everett
- - Martin, Erie
+ - Martin, Erle
  - Mayes, Frederick
  - McKelvey, Fenwick
  - McKnight, William

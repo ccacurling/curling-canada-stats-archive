@@ -1,7 +1,7 @@
 ---
-title: David Gerlack
-name: David Gerlack
-name-sort: Gerlack, David
+title: David Gerlach
+name: David Gerlach
+name-sort: Gerlach, David
 totals:
  - event: Macdonald Brier
    games: 10
