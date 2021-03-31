@@ -1,7 +1,7 @@
 ---
-title: Donald Pennell
-name: Donald Pennell
-name-sort: Pennell, Donald
+title: Don Pennell
+name: Don Pennell
+name-sort: Pennell, Don
 totals:
  - event: Macdonald Brier
    games: 11

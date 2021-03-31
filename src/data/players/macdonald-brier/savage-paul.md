@@ -169,7 +169,7 @@ vs:
  - Narduzzi, Richard
  - Noble, James
  - Oxner, Howard
- - Palk, Sheldon
+ - Palk, Shelly
  - Paulson, Terry
  - Peckham, Gerald
  - Pettapiece, James

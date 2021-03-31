@@ -46,7 +46,7 @@ vs:
  - Mackin, Brian
  - McGrath, Larry
  - Muzika, James
- - Palk, Sheldon
+ - Palk, Shelly
  - Peckham, Gerald
  - Ross, John R.
  - Ross, William

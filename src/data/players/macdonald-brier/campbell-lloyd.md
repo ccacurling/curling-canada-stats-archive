@@ -152,7 +152,7 @@ vs:
  - Simons, Herbert
  - Simpson, James
  - Smeaton, Donald
- - Spencer, Adam
+ - Spencer, Adam F.
  - Squarebriggs, John
  - St.Pierre, Edgar
  - Staples, Owen

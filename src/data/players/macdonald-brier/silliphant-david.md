@@ -70,7 +70,7 @@ vs:
  - Dillon, Robert
  - Fortier, John
  - Giannou, George
- - Haines, Charles
+ - Haines, Chuck
  - Hebert, Leo
  - Hnatiw, Peter
  - Hodgson, William Jr.

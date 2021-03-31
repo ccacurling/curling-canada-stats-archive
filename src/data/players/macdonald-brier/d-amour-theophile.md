@@ -154,7 +154,7 @@ vs:
  - Simons, Herbert
  - Smith, Alan
  - Soulis, Philip
- - Spencer, Adam
+ - Spencer, Adam F.
  - Squarebriggs, John
  - Stanhope, Donald
  - Syverson, Olie

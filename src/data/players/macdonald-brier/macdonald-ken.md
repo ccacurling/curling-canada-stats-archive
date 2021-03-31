@@ -182,7 +182,7 @@ vs:
  - Northcott, Ronald
  - Olson, Duane
  - Oyler, John
- - Pennell, Donald
+ - Pennell, Don
  - Phillips, Alfred Jr.
  - Pierce, Glen
  - Pineau, Larry

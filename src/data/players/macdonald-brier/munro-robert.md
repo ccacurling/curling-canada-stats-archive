@@ -101,7 +101,7 @@ vs:
  - Roy, Ormiston
  - Scollon, Alex
  - Simons, Herbert
- - Spencer, Adam
+ - Spencer, Adam F.
  - Squarebriggs, John
  - Stewart, Howard
  - Tobey, Albert

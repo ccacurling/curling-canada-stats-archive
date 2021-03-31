@@ -156,7 +156,7 @@ vs:
  - Scott, Warren
  - Simmons, Ralph
  - Simons, Herbert
- - Spencer, Adam
+ - Spencer, Adam F.
  - Stewart, Lawrence
  - Stone, Reginald
  - Stone, Roy

@@ -100,7 +100,7 @@ vs:
  - Robinson, Wesley
  - Seagram, Campbell
  - Simons, Herbert
- - Spencer, Adam
+ - Spencer, Adam F.
  - Squarebriggs, John
  - Thibodeau, Leo
  - Thibodeau, Nicholas

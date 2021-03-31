@@ -2,452 +2,452 @@
 title: Frank Germaine Head-to-head
 name: Germaine, Frank
 vs:
- - name: Glover, Cyril      
-   totals:                  
+ - name: Glover, Cyril
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:         
-        team: 'SK'     
+    - player1:
+        team: 'SK'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
-      player2:          
-        team: 'AB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1935            
-      draw: Round Robin(4)  
-      score: AB 12 - SK 9   
- - name: Kent, Harper       
-   totals:                  
+      year: 1935
+      draw: Round Robin(4)
+      score: AB 12 - SK 9
+ - name: Kent, Harper
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:         
-        team: 'SK'     
+    - player1:
+        team: 'SK'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
-      player2:         
-        team: 'NB'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1935            
-      draw: Round Robin(3)  
-      score: NB 8 - SK 13   
- - name: Lash, Herbert      
-   totals:                  
+      year: 1935
+      draw: Round Robin(3)
+      score: NB 8 - SK 13
+ - name: Lash, Herbert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:         
-        team: 'SK'     
+    - player1:
+        team: 'SK'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
-      player2:         
-        team: 'NO'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1935            
-      draw: Round Robin(5)  
-      score: SK 7 - NO 9    
- - name: Lunan, Arthur      
-   totals:                  
+      year: 1935
+      draw: Round Robin(5)
+      score: SK 7 - NO 9
+ - name: Lunan, Arthur
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:         
-        team: 'SK'     
+    - player1:
+        team: 'SK'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
-      player2:         
-        team: 'QC'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1935            
-      draw: Round Robin(6)  
-      score: SK 14 - QC 8   
+      year: 1935
+      draw: Round Robin(6)
+      score: SK 14 - QC 8
  - name: McGerrigle, Clarence
-   totals:                   
-    - event: Macdonald Brier 
-      player1:               
-        percent:             
-        wins: 1              
-        losses: 0            
-      player2:               
-        percent:             
-        wins: 0              
-        losses: 1            
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:         
-        team: 'SK'     
+    - player1:
+        team: 'SK'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
-      player2:          
-        team: 'QC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1935            
-      draw: Round Robin(6)  
-      score: SK 14 - QC 8   
+      year: 1935
+      draw: Round Robin(6)
+      score: SK 14 - QC 8
  - name: McGerrigle, William
-   totals:                  
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:         
-        team: 'SK'     
+    - player1:
+        team: 'SK'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
-      player2:          
-        team: 'QC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1935            
-      draw: Round Robin(6)  
-      score: SK 14 - QC 8   
- - name: McLaws, Walter     
-   totals:                  
+      year: 1935
+      draw: Round Robin(6)
+      score: SK 14 - QC 8
+ - name: McLaws, Walter
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:         
-        team: 'SK'     
+    - player1:
+        team: 'SK'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
-      player2:        
-        team: 'AB'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1935            
-      draw: Round Robin(4)  
-      score: AB 12 - SK 9   
- - name: McLeod, Henry      
-   totals:                  
+      year: 1935
+      draw: Round Robin(4)
+      score: AB 12 - SK 9
+ - name: McLeod, Henry
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:         
-        team: 'SK'     
+    - player1:
+        team: 'SK'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
-      player2:         
-        team: 'NS'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1935            
-      draw: Round Robin(1)  
-      score: NS 11 - SK 6   
- - name: Merkley, L.D.      
-   totals:                  
+      year: 1935
+      draw: Round Robin(1)
+      score: NS 11 - SK 6
+ - name: Merkley, L.D.
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:         
-        team: 'SK'     
+    - player1:
+        team: 'SK'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
-      player2:        
-        team: 'QC'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1935            
-      draw: Round Robin(6)  
-      score: SK 14 - QC 8   
- - name: Palmer, Howard     
-   totals:                  
+      year: 1935
+      draw: Round Robin(6)
+      score: SK 14 - QC 8
+ - name: Palmer, Howard
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:         
-        team: 'SK'     
+    - player1:
+        team: 'SK'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
-      player2:         
-        team: 'AB'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1935            
-      draw: Round Robin(4)  
-      score: AB 12 - SK 9   
- - name: Pritchard, Roy     
-   totals:                  
+      year: 1935
+      draw: Round Robin(4)
+      score: AB 12 - SK 9
+ - name: Pritchard, Roy
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:         
-        team: 'SK'     
+    - player1:
+        team: 'SK'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
-      player2:          
-        team: 'MB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1935            
-      draw: Round Robin(2)  
-      score: MB 12 - SK 13  
+      year: 1935
+      draw: Round Robin(2)
+      score: MB 12 - SK 13
  - name: Rubenstein, William
-   totals:                  
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:         
-        team: 'SK'     
+    - player1:
+        team: 'SK'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
-      player2:          
-        team: 'NO'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1935            
-      draw: Round Robin(5)  
-      score: SK 7 - NO 9    
- - name: Shaw, James        
-   totals:                  
+      year: 1935
+      draw: Round Robin(5)
+      score: SK 7 - NO 9
+ - name: Shaw, James
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:         
-        team: 'SK'     
+    - player1:
+        team: 'SK'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
-      player2:          
-        team: 'NO'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1935            
-      draw: Round Robin(5)  
-      score: SK 7 - NO 9    
- - name: Shirley, Edward    
-   totals:                  
+      year: 1935
+      draw: Round Robin(5)
+      score: SK 7 - NO 9
+ - name: Shirley, Edward
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:         
-        team: 'SK'     
+    - player1:
+        team: 'SK'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
-      player2:          
-        team: 'NB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1935            
-      draw: Round Robin(3)  
-      score: NB 8 - SK 13   
- - name: Teskey, Mark       
-   totals:                  
+      year: 1935
+      draw: Round Robin(3)
+      score: NB 8 - SK 13
+ - name: Teskey, Mark
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:         
-        team: 'SK'     
+    - player1:
+        team: 'SK'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
-      player2:        
-        team: 'MB'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1935            
-      draw: Round Robin(2)  
-      score: MB 12 - SK 13  
+      year: 1935
+      draw: Round Robin(2)
+      score: MB 12 - SK 13
  - name: Thibodeau, Nicholas
-   totals:                  
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:         
-        team: 'SK'     
+    - player1:
+        team: 'SK'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
-      player2:          
-        team: 'NB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1935            
-      draw: Round Robin(3)  
-      score: NB 8 - SK 13   
+      year: 1935
+      draw: Round Robin(3)
+      score: NB 8 - SK 13
 ---

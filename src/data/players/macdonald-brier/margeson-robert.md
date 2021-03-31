@@ -97,7 +97,7 @@ vs:
  - Green, Grant
  - Green, Ronald
  - Guest, Ross
- - Haines, Charles
+ - Haines, Chuck
  - Harry, Donald
  - Harry, Morley
  - Hnatiw, Peter
@@ -125,7 +125,7 @@ vs:
  - Narduzzi, Richard
  - Noble, James
  - Northcott, Ronald
- - Palk, Sheldon
+ - Palk, Shelly
  - Partridge, Robert
  - Peckham, Gerald
  - Peterson, Gordon

@@ -136,7 +136,7 @@ vs:
  - Morrison, Douglas
  - Naimark, Barry
  - Nicol, Bob
- - Pennell, Donald
+ - Pennell, Don
  - Pierce, Glen
  - Pineau, Larry
  - Power, Joseph Jr.

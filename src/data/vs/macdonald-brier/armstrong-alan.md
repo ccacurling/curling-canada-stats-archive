@@ -2,1124 +2,1124 @@
 title: Alan Armstrong Head-to-head
 name: Armstrong, Alan
 vs:
- - name: Baird, Ian         
-   totals:                  
+ - name: Baird, Ian
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'NS'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(1)  
-      score: NO 9 - NS 10   
- - name: Baker, Ronald      
-   totals:                  
+      year: 1960
+      draw: Round Robin(1)
+      score: NO 9 - NS 10
+ - name: Baker, Ronald
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'AB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(7)  
-      score: AB 9 - NO 8    
- - name: Beagle, Stuart     
-   totals:                  
+      year: 1960
+      draw: Round Robin(7)
+      score: AB 9 - NO 8
+ - name: Beagle, Stuart
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'AB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(7)  
-      score: AB 9 - NO 8    
- - name: Binnington, George 
-   totals:                  
+      year: 1960
+      draw: Round Robin(7)
+      score: AB 9 - NO 8
+ - name: Binnington, George
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'ON'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(9)  
-      score: ON 11 - NO 9   
- - name: Cameron, Douglas   
-   totals:                  
+      year: 1960
+      draw: Round Robin(9)
+      score: ON 11 - NO 9
+ - name: Cameron, Douglas
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'PE'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(5)  
-      score: NO 6 - PE 8    
- - name: Cape, Gordon       
-   totals:                  
+      year: 1960
+      draw: Round Robin(5)
+      score: NO 6 - PE 8
+ - name: Cape, Gordon
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'QC'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(6)  
-      score: NO 6 - QC 11   
- - name: Corkey, Joseph     
-   totals:                  
+      year: 1960
+      draw: Round Robin(6)
+      score: NO 6 - QC 11
+ - name: Corkey, Joseph
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'ON'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(9)  
-      score: ON 11 - NO 9   
- - name: Dillon, George     
-   totals:                  
+      year: 1960
+      draw: Round Robin(9)
+      score: ON 11 - NO 9
+ - name: Dillon, George
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'PE'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(5)  
-      score: NO 6 - PE 8    
- - name: Duncan, Frederick  
-   totals:                  
+      year: 1960
+      draw: Round Robin(5)
+      score: NO 6 - PE 8
+ - name: Duncan, Frederick
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'BC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(8)  
-      score: BC 6 - NO 11   
- - name: Edwards, Jack      
-   totals:                  
+      year: 1960
+      draw: Round Robin(8)
+      score: BC 6 - NO 11
+ - name: Edwards, Jack
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'ON'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(9)  
-      score: ON 11 - NO 9   
- - name: Elliott, Robert    
-   totals:                  
+      year: 1960
+      draw: Round Robin(9)
+      score: ON 11 - NO 9
+ - name: Elliott, Robert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'ON'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(9)  
-      score: ON 11 - NO 9   
- - name: Goldburg, Reginald 
-   totals:                  
+      year: 1960
+      draw: Round Robin(9)
+      score: ON 11 - NO 9
+ - name: Goldburg, Reginald
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NL'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(11) 
-      score: NO 9 - NL 6    
- - name: Goodman, Lloyd     
-   totals:                  
+      year: 1960
+      draw: Round Robin(11)
+      score: NO 9 - NL 6
+ - name: Goodman, Lloyd
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'MB'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(3)  
-      score: MB 8 - NO 5    
- - name: Hanson, George     
-   totals:                  
+      year: 1960
+      draw: Round Robin(3)
+      score: MB 8 - NO 5
+ - name: Hanson, George
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'NS'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(1)  
-      score: NO 9 - NS 10   
- - name: Harper, Glen       
-   totals:                  
+      year: 1960
+      draw: Round Robin(1)
+      score: NO 9 - NS 10
+ - name: Harper, Glen
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'BC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(8)  
-      score: BC 6 - NO 11   
- - name: Hodge, Harvey      
-   totals:                  
+      year: 1960
+      draw: Round Robin(8)
+      score: BC 6 - NO 11
+ - name: Hodge, Harvey
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'BC'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(8)  
-      score: BC 6 - NO 11   
- - name: Hoppe, Rolf        
-   totals:                  
+      year: 1960
+      draw: Round Robin(8)
+      score: BC 6 - NO 11
+ - name: Hoppe, Rolf
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'QC'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(6)  
-      score: NO 6 - QC 11   
- - name: Hunt, Ernest       
-   totals:                  
+      year: 1960
+      draw: Round Robin(6)
+      score: NO 6 - QC 11
+ - name: Hunt, Ernest
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'QC'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(6)  
-      score: NO 6 - QC 11   
- - name: Kaspick, Vernon    
-   totals:                  
+      year: 1960
+      draw: Round Robin(6)
+      score: NO 6 - QC 11
+ - name: Kaspick, Vernon
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'BC'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(8)  
-      score: BC 6 - NO 11   
- - name: Keith, Harold      
-   totals:                  
+      year: 1960
+      draw: Round Robin(8)
+      score: BC 6 - NO 11
+ - name: Keith, Harold
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(10) 
-      score: NO 16 - NB 6   
- - name: Lamb, Arthur       
-   totals:                  
+      year: 1960
+      draw: Round Robin(10)
+      score: NO 16 - NB 6
+ - name: Lamb, Arthur
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'QC'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(6)  
-      score: NO 6 - QC 11   
- - name: Laudrum, George    
-   totals:                  
+      year: 1960
+      draw: Round Robin(6)
+      score: NO 6 - QC 11
+ - name: Laudrum, George
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'MB'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(3)  
-      score: MB 8 - NO 5    
- - name: Lewis, Ronald      
-   totals:                  
+      year: 1960
+      draw: Round Robin(3)
+      score: MB 8 - NO 5
+ - name: Lewis, Ronald
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NB'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(10) 
-      score: NO 16 - NB 6   
- - name: Llewellyn, Arnold  
-   totals:                  
+      year: 1960
+      draw: Round Robin(10)
+      score: NO 16 - NB 6
+ - name: Llewellyn, Arnold
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'PE'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(5)  
-      score: NO 6 - PE 8    
- - name: Lyon, John-David   
-   totals:                  
+      year: 1960
+      draw: Round Robin(5)
+      score: NO 6 - PE 8
+ - name: Lyon, John-David
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NL'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(11) 
-      score: NO 9 - NL 6    
- - name: Mabey, Harold Jr.  
-   totals:                  
+      year: 1960
+      draw: Round Robin(11)
+      score: NO 9 - NL 6
+ - name: Mabey, Harold Jr.
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NB'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(10) 
-      score: NO 16 - NB 6   
- - name: Mabey, Harold Sr.  
-   totals:                  
+      year: 1960
+      draw: Round Robin(10)
+      score: NO 16 - NB 6
+ - name: Mabey, Harold Sr.
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(10) 
-      score: NO 16 - NB 6   
- - name: Mann, Robert       
-   totals:                  
+      year: 1960
+      draw: Round Robin(10)
+      score: NO 16 - NB 6
+ - name: Mann, Robert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'NS'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(1)  
-      score: NO 9 - NS 10   
- - name: McCorrister, John  
-   totals:                  
+      year: 1960
+      draw: Round Robin(1)
+      score: NO 9 - NS 10
+ - name: McCorrister, John
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(3)  
-      score: MB 8 - NO 5    
- - name: Richardson, Arnold 
-   totals:                  
+      year: 1960
+      draw: Round Robin(3)
+      score: MB 8 - NO 5
+ - name: Richardson, Arnold
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'SK'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(2)  
-      score: SK 19 - NO 3   
- - name: Richardson, Ernest 
-   totals:                  
+      year: 1960
+      draw: Round Robin(2)
+      score: SK 19 - NO 3
+ - name: Richardson, Ernest
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'SK'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(2)  
-      score: SK 19 - NO 3   
- - name: Richardson, Garnet 
-   totals:                  
+      year: 1960
+      draw: Round Robin(2)
+      score: SK 19 - NO 3
+ - name: Richardson, Garnet
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'SK'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(2)  
-      score: SK 19 - NO 3   
- - name: Richardson, Wesley 
-   totals:                  
+      year: 1960
+      draw: Round Robin(2)
+      score: SK 19 - NO 3
+ - name: Richardson, Wesley
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'SK'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(2)  
-      score: SK 19 - NO 3   
- - name: Saunders, Allison  
-   totals:                  
+      year: 1960
+      draw: Round Robin(2)
+      score: SK 19 - NO 3
+ - name: Saunders, Allison
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'PE'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(5)  
-      score: NO 6 - PE 8    
- - name: Scales, MacCabe    
-   totals:                  
+      year: 1960
+      draw: Round Robin(5)
+      score: NO 6 - PE 8
+ - name: Scales, MacCabe
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(3)  
-      score: MB 8 - NO 5    
- - name: Shields, James     
-   totals:                  
+      year: 1960
+      draw: Round Robin(3)
+      score: MB 8 - NO 5
+ - name: Shields, James
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'AB'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(7)  
-      score: AB 9 - NO 8    
- - name: Smith, Duncan      
-   totals:                  
+      year: 1960
+      draw: Round Robin(7)
+      score: AB 9 - NO 8
+ - name: Smith, Duncan
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'NS'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(1)  
-      score: NO 9 - NS 10   
- - name: Stanley, Harry     
-   totals:                  
+      year: 1960
+      draw: Round Robin(1)
+      score: NO 9 - NS 10
+ - name: Stanley, Harry
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NL'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(11) 
-      score: NO 9 - NL 6    
- - name: Storey, Frederick  
-   totals:                  
+      year: 1960
+      draw: Round Robin(11)
+      score: NO 9 - NL 6
+ - name: Storey, Frederick
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'AB'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(7)  
-      score: AB 9 - NO 8    
- - name: Tulley, James      
-   totals:                  
+      year: 1960
+      draw: Round Robin(7)
+      score: AB 9 - NO 8
+ - name: Tulley, James
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NO'    
+    - player1:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NL'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1960            
-      draw: Round Robin(11) 
-      score: NO 9 - NL 6    
+      year: 1960
+      draw: Round Robin(11)
+      score: NO 9 - NL 6
 ---

@@ -98,7 +98,7 @@ vs:
  - Mutrie, Barry
  - Oliver, Bill
  - Paterson, Barry
- - Pennell, Donald
+ - Pennell, Don
  - Pierce, Glen
  - Pilling, Anthony
  - Pineau, Larry

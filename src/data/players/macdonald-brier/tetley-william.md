@@ -103,7 +103,7 @@ vs:
  - Gillard, Arthur
  - Gordon, Ernest
  - Gullage, John
- - Haines, Charles
+ - Haines, Chuck
  - Haynes, Gordon
  - Hewitt, Roy
  - Hoar, Frank
@@ -139,7 +139,7 @@ vs:
  - Mooreside, William
  - Neal, Douglas
  - Ott, William
- - Palk, Sheldon
+ - Palk, Shelly
  - Palmer, Richard
  - Partridge, Robert
  - Pettapiece, James

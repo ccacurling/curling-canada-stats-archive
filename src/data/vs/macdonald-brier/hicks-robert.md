@@ -2,732 +2,732 @@
 title: Robert Hicks Head-to-head
 name: Hicks, Robert
 vs:
- - name: Hudson, Douglas    
-   totals:                  
+ - name: Hudson, Douglas
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'NL'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(12) 
-      score: NL 5 - SK 4    
- - name: Kaeser, Paul Jr.   
-   totals:                  
+      year: 1976
+      draw: Round Robin(12)
+      score: NL 5 - SK 4
+ - name: Kaeser, Paul Jr.
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'TR'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'TR'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(8)  
-      score: SK 4 - TR 5    
- - name: Lang, Rick         
-   totals:                  
+      year: 1976
+      draw: Round Robin(8)
+      score: SK 4 - TR 5
+ - name: Lang, Rick
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'NO'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(10) 
-      score: SK 8 - NO 5    
- - name: LaRocque, Guy      
-   totals:                  
+      year: 1976
+      draw: Round Robin(10)
+      score: SK 8 - NO 5
+ - name: LaRocque, Guy
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'NS'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(5)  
-      score: SK 7 - NS 9    
- - name: Ledgerwood, Allan  
-   totals:                  
+      year: 1976
+      draw: Round Robin(5)
+      score: SK 7 - NS 9
+ - name: Ledgerwood, Allan
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'PE'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(9)  
-      score: SK 8 - PE 3    
- - name: Lilly, Raymond     
-   totals:                  
+      year: 1976
+      draw: Round Robin(9)
+      score: SK 8 - PE 3
+ - name: Lilly, Raymond
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'ON'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(2)  
-      score: ON 6 - SK 7    
- - name: Lobel, Arthur      
-   totals:                  
+      year: 1976
+      draw: Round Robin(2)
+      score: ON 6 - SK 7
+ - name: Lobel, Arthur
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'QC'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(11) 
-      score: QC 6 - SK 3    
- - name: MacDonald, Ken     
-   totals:                  
+      year: 1976
+      draw: Round Robin(11)
+      score: QC 6 - SK 3
+ - name: MacDonald, Ken
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'PE'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(9)  
-      score: SK 8 - PE 3    
- - name: MacDonald, Peter   
-   totals:                  
+      year: 1976
+      draw: Round Robin(9)
+      score: SK 8 - PE 3
+ - name: MacDonald, Peter
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'PE'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(9)  
-      score: SK 8 - PE 3    
- - name: MacDuff, Jack      
-   totals:                  
+      year: 1976
+      draw: Round Robin(9)
+      score: SK 8 - PE 3
+ - name: MacDuff, Jack
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'NL'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(12) 
-      score: NL 5 - SK 4    
- - name: MacEachern, Keith  
-   totals:                  
+      year: 1976
+      draw: Round Robin(12)
+      score: NL 5 - SK 4
+ - name: MacEachern, Keith
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'PE'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(9)  
-      score: SK 8 - PE 3    
- - name: McDonald, Toby     
-   totals:                  
+      year: 1976
+      draw: Round Robin(9)
+      score: SK 8 - PE 3
+ - name: McDonald, Toby
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'NL'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(12) 
-      score: NL 5 - SK 4    
- - name: McGrath, Jim       
-   totals:                  
+      year: 1976
+      draw: Round Robin(12)
+      score: NL 5 - SK 4
+ - name: McGrath, Jim
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'ON'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(2)  
-      score: ON 6 - SK 7    
- - name: Morissette, Frank  
-   totals:                  
+      year: 1976
+      draw: Round Robin(2)
+      score: ON 6 - SK 7
+ - name: Morissette, Frank
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'AB'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(7)  
-      score: SK 5 - AB 9    
- - name: Nicol, Bob         
-   totals:                  
+      year: 1976
+      draw: Round Robin(7)
+      score: SK 5 - AB 9
+ - name: Nicol, Bob
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'NO'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(10) 
-      score: SK 8 - NO 5    
- - name: Romain, Alfred     
-   totals:                  
+      year: 1976
+      draw: Round Robin(10)
+      score: SK 8 - NO 5
+ - name: Romain, Alfred
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'NS'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(5)  
-      score: SK 7 - NS 9    
- - name: Ross, Brian        
-   totals:                  
+      year: 1976
+      draw: Round Robin(5)
+      score: SK 7 - NS 9
+ - name: Ross, Brian
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'QC'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(11) 
-      score: QC 6 - SK 3    
- - name: Rubec, Thomas      
-   totals:                  
+      year: 1976
+      draw: Round Robin(11)
+      score: QC 6 - SK 3
+ - name: Rubec, Thomas
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'NB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(6)  
-      score: NB 6 - SK 2    
- - name: Schaefer, Charles  
-   totals:                  
+      year: 1976
+      draw: Round Robin(6)
+      score: NB 6 - SK 2
+ - name: Schaefer, Charles
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'TR'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'TR'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(8)  
-      score: SK 4 - TR 5    
- - name: Schaefer, James    
-   totals:                  
+      year: 1976
+      draw: Round Robin(8)
+      score: SK 4 - TR 5
+ - name: Schaefer, James
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'TR'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'TR'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(8)  
-      score: SK 4 - TR 5    
- - name: Sokolosky, Wayne   
-   totals:                  
+      year: 1976
+      draw: Round Robin(8)
+      score: SK 4 - TR 5
+ - name: Sokolosky, Wayne
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'AB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(7)  
-      score: SK 5 - AB 9    
- - name: Sparkes, Bernie    
-   totals:                  
+      year: 1976
+      draw: Round Robin(7)
+      score: SK 5 - AB 9
+ - name: Sparkes, Bernie
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'BC'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(4)  
-      score: SK 3 - BC 8    
- - name: Sullivan, Dave     
-   totals:                  
+      year: 1976
+      draw: Round Robin(4)
+      score: SK 3 - BC 8
+ - name: Sullivan, Dave
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'NB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(6)  
-      score: NB 6 - SK 2    
- - name: Templeton, Kenneth 
-   totals:                  
+      year: 1976
+      draw: Round Robin(6)
+      score: NB 6 - SK 2
+ - name: Templeton, Kenneth
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'NL'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(12) 
-      score: NL 5 - SK 4    
- - name: Ursel, Jim         
-   totals:                  
+      year: 1976
+      draw: Round Robin(12)
+      score: NL 5 - SK 4
+ - name: Ursel, Jim
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'QC'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(11) 
-      score: QC 6 - SK 3    
- - name: Wylie, Shayne      
-   totals:                  
+      year: 1976
+      draw: Round Robin(11)
+      score: QC 6 - SK 3
+ - name: Wylie, Shayne
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'AB'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1976            
-      draw: Round Robin(7)  
-      score: SK 5 - AB 9    
+      year: 1976
+      draw: Round Robin(7)
+      score: SK 5 - AB 9
 ---

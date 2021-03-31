@@ -266,7 +266,7 @@ vs:
  - O'Reilly, William
  - Otterson, Roland
  - Oyler, John
- - Palk, Sheldon
+ - Palk, Shelly
  - Palmer, Richard
  - Parker, Burke
  - Peckham, Gerald

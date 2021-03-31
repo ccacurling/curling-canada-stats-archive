@@ -99,7 +99,7 @@ vs:
  - Fry, Barry
  - Garratt, Craig
  - Guest, Ross
- - Haines, Charles
+ - Haines, Chuck
  - Hamilton, Scott
  - Harrison, Doug
  - Hnatiw, Peter
@@ -138,10 +138,10 @@ vs:
  - Murray, Peter
  - Mutrie, Barry
  - Oliver, Bill
- - Palk, Sheldon
+ - Palk, Shelly
  - Partridge, Robert
  - Paterson, Barry
- - Pennell, Donald
+ - Pennell, Don
  - Pierce, Glen
  - Pilling, Anthony
  - Pineau, Larry

@@ -2,1068 +2,1068 @@
 title: Paul Bordage Head-to-head
 name: Bordage, Paul
 vs:
- - name: Bowering, Lester   
-   totals:                  
+ - name: Bowering, Lester
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'NL'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(10) 
-      score: NL 8 - NB 5    
- - name: Campbell, Garnet   
-   totals:                  
+      year: 1971
+      draw: Round Robin(10)
+      score: NL 8 - NB 5
+ - name: Campbell, Garnet
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'SK'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(6)  
-      score: NB 5 - SK 14   
- - name: Carr, Patrick      
-   totals:                  
+      year: 1971
+      draw: Round Robin(6)
+      score: NB 5 - SK 14
+ - name: Carr, Patrick
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'BC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(7)  
-      score: NB 8 - BC 7    
- - name: Carter, Douglas    
-   totals:                  
+      year: 1971
+      draw: Round Robin(7)
+      score: NB 8 - BC 7
+ - name: Carter, Douglas
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'NS'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(11) 
-      score: NB 9 - NS 11   
- - name: Charlebois, Robert 
-   totals:                  
+      year: 1971
+      draw: Round Robin(11)
+      score: NB 9 - NS 11
+ - name: Charlebois, Robert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'ON'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(8)  
-      score: ON 4 - NB 12   
- - name: Cole, Robert       
-   totals:                  
+      year: 1971
+      draw: Round Robin(8)
+      score: ON 4 - NB 12
+ - name: Cole, Robert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'NL'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(10) 
-      score: NL 8 - NB 5    
- - name: Cust, Richard      
-   totals:                  
+      year: 1971
+      draw: Round Robin(10)
+      score: NL 8 - NB 5
+ - name: Cust, Richard
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'AB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(1)  
-      score: NB 7 - AB 13   
- - name: Duguid, Donald     
-   totals:                  
+      year: 1971
+      draw: Round Robin(1)
+      score: NB 7 - AB 13
+ - name: Duguid, Donald
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'MB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(9)  
-      score: MB 10 - NB 6   
- - name: Ellis, Kenneth     
-   totals:                  
+      year: 1971
+      draw: Round Robin(9)
+      score: MB 10 - NB 6
+ - name: Ellis, Kenneth
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'NL'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(10) 
-      score: NL 8 - NB 5    
- - name: Fisher, Thomas     
-   totals:                  
+      year: 1971
+      draw: Round Robin(10)
+      score: NL 8 - NB 5
+ - name: Fisher, Thomas
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'QC'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(4)  
-      score: QC 7 - NB 12   
- - name: Ford, Gary         
-   totals:                  
+      year: 1971
+      draw: Round Robin(4)
+      score: QC 7 - NB 12
+ - name: Ford, Gary
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'SK'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(6)  
-      score: NB 5 - SK 14   
- - name: Fulton, Donald     
-   totals:                  
+      year: 1971
+      draw: Round Robin(6)
+      score: NB 5 - SK 14
+ - name: Fulton, Donald
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'NS'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(11) 
-      score: NB 9 - NS 11   
- - name: Hoar, Frank        
-   totals:                  
+      year: 1971
+      draw: Round Robin(11)
+      score: NB 9 - NS 11
+ - name: Hoar, Frank
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'NS'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(11) 
-      score: NB 9 - NS 11   
- - name: Hunter, Roderick   
-   totals:                  
+      year: 1971
+      draw: Round Robin(11)
+      score: NB 9 - NS 11
+ - name: Hunter, Roderick
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'MB'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(9)  
-      score: MB 10 - NB 6   
- - name: Kassner, David     
-   totals:                  
+      year: 1971
+      draw: Round Robin(9)
+      score: MB 10 - NB 6
+ - name: Kassner, David
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'PE'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(2)  
-      score: NB 13 - PE 14  
- - name: Keys, John         
-   totals:                  
+      year: 1971
+      draw: Round Robin(2)
+      score: NB 13 - PE 14
+ - name: Keys, John
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'SK'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(6)  
-      score: NB 5 - SK 14   
- - name: Knudson, Eric      
-   totals:                  
+      year: 1971
+      draw: Round Robin(6)
+      score: NB 5 - SK 14
+ - name: Knudson, Eric
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'NO'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(3)  
-      score: NO 14 - NB 6   
- - name: Kroeger, Thomas    
-   totals:                  
+      year: 1971
+      draw: Round Robin(3)
+      score: NO 14 - NB 6
+ - name: Kroeger, Thomas
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'AB'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(1)  
-      score: NB 7 - AB 13   
- - name: Lilly, Raymond     
-   totals:                  
+      year: 1971
+      draw: Round Robin(1)
+      score: NB 7 - AB 13
+ - name: Lilly, Raymond
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'ON'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(8)  
-      score: ON 4 - NB 12   
- - name: MacGregor, William 
-   totals:                  
+      year: 1971
+      draw: Round Robin(8)
+      score: ON 4 - NB 12
+ - name: MacGregor, William
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'PE'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(2)  
-      score: NB 13 - PE 14  
- - name: MacNeill, Norman   
-   totals:                  
+      year: 1971
+      draw: Round Robin(2)
+      score: NB 13 - PE 14
+ - name: MacNeill, Norman
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'PE'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(2)  
-      score: NB 13 - PE 14  
- - name: McDonald, Robert   
-   totals:                  
+      year: 1971
+      draw: Round Robin(2)
+      score: NB 13 - PE 14
+ - name: McDonald, Robert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'BC'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(7)  
-      score: NB 8 - BC 7    
- - name: McGrath, Jim       
-   totals:                  
+      year: 1971
+      draw: Round Robin(7)
+      score: NB 8 - BC 7
+ - name: McGrath, Jim
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'ON'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(8)  
-      score: ON 4 - NB 12   
- - name: Miyashita, Herbert 
-   totals:                  
+      year: 1971
+      draw: Round Robin(8)
+      score: ON 4 - NB 12
+ - name: Miyashita, Herbert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'QC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(4)  
-      score: QC 7 - NB 12   
- - name: Ott, William       
-   totals:                  
+      year: 1971
+      draw: Round Robin(4)
+      score: QC 7 - NB 12
+ - name: Ott, William
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'QC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(4)  
-      score: QC 7 - NB 12   
- - name: Palmer, Richard    
-   totals:                  
+      year: 1971
+      draw: Round Robin(4)
+      score: QC 7 - NB 12
+ - name: Palmer, Richard
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'ON'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(8)  
-      score: ON 4 - NB 12   
- - name: Pettapiece, James  
-   totals:                  
+      year: 1971
+      draw: Round Robin(8)
+      score: ON 4 - NB 12
+ - name: Pettapiece, James
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'MB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(9)  
-      score: MB 10 - NB 6   
- - name: Pickering, Robert  
-   totals:                  
+      year: 1971
+      draw: Round Robin(9)
+      score: MB 10 - NB 6
+ - name: Pickering, Robert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'SK'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(6)  
-      score: NB 5 - SK 14   
- - name: Ready, Clifford    
-   totals:                  
+      year: 1971
+      draw: Round Robin(6)
+      score: NB 5 - SK 14
+ - name: Ready, Clifford
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'PE'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(2)  
-      score: NB 13 - PE 14  
- - name: Sanford, John      
-   totals:                  
+      year: 1971
+      draw: Round Robin(2)
+      score: NB 13 - PE 14
+ - name: Sanford, John
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'NS'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(11) 
-      score: NB 9 - NS 11   
- - name: Sargent, Frank Jr. 
-   totals:                  
+      year: 1971
+      draw: Round Robin(11)
+      score: NB 9 - NS 11
+ - name: Sargent, Frank Jr.
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'NO'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(3)  
-      score: NO 14 - NB 6   
- - name: Sargent, James     
-   totals:                  
+      year: 1971
+      draw: Round Robin(3)
+      score: NO 14 - NB 6
+ - name: Sargent, James
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'NO'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(3)  
-      score: NO 14 - NB 6   
- - name: Sherba, Peter      
-   totals:                  
+      year: 1971
+      draw: Round Robin(3)
+      score: NO 14 - NB 6
+ - name: Sherba, Peter
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'BC'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(7)  
-      score: NB 8 - BC 7    
- - name: Smale, Kevin       
-   totals:                  
+      year: 1971
+      draw: Round Robin(7)
+      score: NB 8 - BC 7
+ - name: Smale, Kevin
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'BC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(7)  
-      score: NB 8 - BC 7    
- - name: Tetley, William    
-   totals:                  
+      year: 1971
+      draw: Round Robin(7)
+      score: NB 8 - BC 7
+ - name: Tetley, William
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'NO'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(3)  
-      score: NO 14 - NB 6   
+      year: 1971
+      draw: Round Robin(3)
+      score: NO 14 - NB 6
  - name: Van Wassenhove, Reginald
-   totals:                       
-    - event: Macdonald Brier     
-      player1:                   
-        percent:                 
-        wins: 0                  
-        losses: 1                
-      player2:                   
-        percent:                 
-        wins: 1                  
-        losses: 0                
-   games:
-    - player1:          
-        team: 'NB'      
-        position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'AB'    
-        position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(1)  
-      score: NB 7 - AB 13   
- - name: Walling, John      
-   totals:                  
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'QC'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(4)  
-      score: QC 7 - NB 12   
- - name: Wood, Bryan        
-   totals:                  
+      year: 1971
+      draw: Round Robin(1)
+      score: NB 7 - AB 13
+ - name: Walling, John
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'NB'      
+    - player1:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'MB'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1971            
-      draw: Round Robin(9)  
-      score: MB 10 - NB 6   
+      year: 1971
+      draw: Round Robin(4)
+      score: QC 7 - NB 12
+ - name: Wood, Bryan
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent:
+        win: 1
+        loss: 0
+      event: Macdonald Brier
+      year: 1971
+      draw: Round Robin(9)
+      score: MB 10 - NB 6
 ---

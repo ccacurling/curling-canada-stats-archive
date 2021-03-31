@@ -1,7 +1,7 @@
 ---
-title: Sheldon Palk
-name: Sheldon Palk
-name-sort: Palk, Sheldon
+title: Shelly Palk
+name: Shelly Palk
+name-sort: Palk, Shelly
 totals:
  - event: Macdonald Brier
    games: 21
@@ -69,7 +69,7 @@ vs:
  - Fraser, Jack
  - Gervais, Hector
  - Green, Ronald
- - Haines, Charles
+ - Haines, Chuck
  - Hansen, Warren
  - Hnatiw, Peter
  - Hodgson, William Jr.

@@ -144,7 +144,7 @@ vs:
  - Seagram, Campbell
  - Simons, Herbert
  - Simpson, Arthur
- - Spencer, Adam
+ - Spencer, Adam F.
  - Squarebriggs, John
  - Stone, Reginald
  - Stone, Roy

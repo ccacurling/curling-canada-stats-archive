@@ -69,7 +69,7 @@ vs:
  - Fraser, Jack
  - Gervais, Hector
  - Green, Ronald
- - Haines, Charles
+ - Haines, Chuck
  - Hansen, Warren
  - Hnatiw, Peter
  - Hodgson, William Jr.

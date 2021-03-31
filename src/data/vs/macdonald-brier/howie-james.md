@@ -2,1308 +2,1308 @@
 title: James Howie Head-to-head
 name: Howie, James
 vs:
- - name: Hughes, Gordon     
-   totals:                  
+ - name: Hughes, Gordon
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'PE'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(8)  
-      score: PE 9 - NB 10   
- - name: Hume, Robert       
-   totals:                  
+      year: 1939
+      draw: Round Robin(8)
+      score: PE 9 - NB 10
+ - name: Hume, Robert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(2)  
-      score: MB 10 - NB 4   
- - name: Irish, I.O.        
-   totals:                  
+      year: 1939
+      draw: Round Robin(2)
+      score: MB 10 - NB 4
+ - name: Irish, I.O.
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'AB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(7)  
-      score: NB 9 - AB 14   
- - name: Irving, Ernest     
-   totals:                  
+      year: 1947
+      draw: Round Robin(7)
+      score: NB 9 - AB 14
+ - name: Irving, Ernest
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'AB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(7)  
-      score: AB 12 - NB 5   
- - name: Kennedy, Ross      
-   totals:                  
+      year: 1939
+      draw: Round Robin(7)
+      score: AB 12 - NB 5
+ - name: Kennedy, Ross
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(2)  
-      score: MB 10 - NB 4   
- - name: Lanaghan, Harold   
-   totals:                  
+      year: 1939
+      draw: Round Robin(2)
+      score: MB 10 - NB 4
+ - name: Lanaghan, Harold
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NS'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(4)  
-      score: NB 12 - NS 5   
- - name: Law, George        
-   totals:                  
+      year: 1947
+      draw: Round Robin(4)
+      score: NB 12 - NS 5
+ - name: Law, George
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'BC'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(9)  
-      score: BC 12 - NB 8   
- - name: Likely, Andrew     
-   totals:                  
+      year: 1939
+      draw: Round Robin(9)
+      score: BC 12 - NB 8
+ - name: Likely, Andrew
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'PE'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(9)  
-      score: NB 16 - PE 9   
- - name: MacDonald, William 
-   totals:                  
+      year: 1947
+      draw: Round Robin(9)
+      score: NB 16 - PE 9
+ - name: MacDonald, William
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'MB'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(2)  
-      score: MB 10 - NB 4   
- - name: MacNicol, Nicol    
-   totals:                  
+      year: 1939
+      draw: Round Robin(2)
+      score: MB 10 - NB 4
+ - name: MacNicol, Nicol
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'ON'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(6)  
-      score: ON 8 - NB 17   
- - name: Mark, James        
-   totals:                  
+      year: 1947
+      draw: Round Robin(6)
+      score: ON 8 - NB 17
+ - name: Mark, James
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'BC'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(3)  
-      score: BC 7 - NB 11   
- - name: Marston, Thomas    
-   totals:                  
+      year: 1947
+      draw: Round Robin(3)
+      score: BC 7 - NB 11
+ - name: Marston, Thomas
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NO'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(8)  
-      score: NO 10 - NB 11  
- - name: McGhie, Robert     
-   totals:                  
+      year: 1947
+      draw: Round Robin(8)
+      score: NO 10 - NB 11
+ - name: McGhie, Robert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'BC'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(3)  
-      score: BC 7 - NB 11   
- - name: McIntyre, Heath    
-   totals:                  
+      year: 1947
+      draw: Round Robin(3)
+      score: BC 7 - NB 11
+ - name: McIntyre, Heath
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'PE'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(8)  
-      score: PE 9 - NB 10   
- - name: McLaine, Rankine   
-   totals:                  
+      year: 1939
+      draw: Round Robin(8)
+      score: PE 9 - NB 10
+ - name: McLaine, Rankine
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'PE'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(8)  
-      score: PE 9 - NB 10   
- - name: McNabb, Harry      
-   totals:                  
+      year: 1939
+      draw: Round Robin(8)
+      score: PE 9 - NB 10
+ - name: McNabb, Harry
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NO'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(8)  
-      score: NO 10 - NB 11  
- - name: McNeill, James     
-   totals:                  
+      year: 1947
+      draw: Round Robin(8)
+      score: NO 10 - NB 11
+ - name: McNeill, James
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'SK'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(4)  
-      score: NB 7 - SK 10   
- - name: Millar, Daniel     
-   totals:                  
+      year: 1939
+      draw: Round Robin(4)
+      score: NB 7 - SK 10
+ - name: Millar, Daniel
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'NO'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(1)  
-      score: NB 6 - NO 13   
- - name: Monk, Harry Sr.    
-   totals:                  
+      year: 1939
+      draw: Round Robin(1)
+      score: NB 6 - NO 13
+ - name: Monk, Harry Sr.
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'MB'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(1)  
-      score: NB 9 - MB 10   
- - name: Munro, Robert      
-   totals:                  
+      year: 1947
+      draw: Round Robin(1)
+      score: NB 9 - MB 10
+ - name: Munro, Robert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'AB'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(7)  
-      score: NB 9 - AB 14   
- - name: Norman, Horton     
-   totals:                  
+      year: 1947
+      draw: Round Robin(7)
+      score: NB 9 - AB 14
+ - name: Norman, Horton
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'NS'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(5)  
-      score: NB 11 - NS 13  
- - name: O'Donnell, Edmond  
-   totals:                  
+      year: 1939
+      draw: Round Robin(5)
+      score: NB 11 - NS 13
+ - name: O'Donnell, Edmond
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'ON'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(6)  
-      score: ON 8 - NB 17   
- - name: Palmer, Howard     
-   totals:                  
+      year: 1947
+      draw: Round Robin(6)
+      score: ON 8 - NB 17
+ - name: Palmer, Howard
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 2           
-      player2:              
-        percent:            
-        wins: 2             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 2
+      player2:
+        percent:
+        wins: 2
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'AB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(7)  
-      score: AB 12 - NB 5   
-    - player1:        
-        team: 'NB'    
+      year: 1939
+      draw: Round Robin(7)
+      score: AB 12 - NB 5
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'AB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(7)  
-      score: NB 9 - AB 14   
- - name: Parkes, Ernest     
-   totals:                  
+      year: 1947
+      draw: Round Robin(7)
+      score: NB 9 - AB 14
+ - name: Parkes, Ernest
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'ON'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(3)  
-      score: NB 4 - ON 15   
- - name: Piercey, Reginald  
-   totals:                  
+      year: 1939
+      draw: Round Robin(3)
+      score: NB 4 - ON 15
+ - name: Piercey, Reginald
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NS'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(4)  
-      score: NB 12 - NS 5   
- - name: Ployart, Edward    
-   totals:                  
+      year: 1947
+      draw: Round Robin(4)
+      score: NB 12 - NS 5
+ - name: Ployart, Edward
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'QC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(6)  
-      score: QC 7 - NB 13   
- - name: Reid, John         
-   totals:                  
+      year: 1939
+      draw: Round Robin(6)
+      score: QC 7 - NB 13
+ - name: Reid, John
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(1)  
-      score: NB 9 - MB 10   
- - name: Seagram, Campbell  
-   totals:                  
+      year: 1947
+      draw: Round Robin(1)
+      score: NB 9 - MB 10
+ - name: Seagram, Campbell
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'ON'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(3)  
-      score: NB 4 - ON 15   
- - name: Simons, Herbert    
-   totals:                  
+      year: 1939
+      draw: Round Robin(3)
+      score: NB 4 - ON 15
+ - name: Simons, Herbert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'QC'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(2)  
-      score: QC 15 - NB 8   
- - name: Spencer, Adam      
-   totals:                  
+      year: 1947
+      draw: Round Robin(2)
+      score: QC 15 - NB 8
+ - name: Spencer, Adam F.
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'ON'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(6)  
-      score: ON 8 - NB 17   
- - name: Squarebriggs, John 
-   totals:                  
+      year: 1947
+      draw: Round Robin(6)
+      score: ON 8 - NB 17
+ - name: Squarebriggs, John
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'PE'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(9)  
-      score: NB 16 - PE 9   
- - name: Sutherland, Duncan 
-   totals:                  
+      year: 1947
+      draw: Round Robin(9)
+      score: NB 16 - PE 9
+ - name: Sutherland, Duncan
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'NO'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(1)  
-      score: NB 6 - NO 13   
- - name: Thompson, Edward   
-   totals:                  
+      year: 1939
+      draw: Round Robin(1)
+      score: NB 6 - NO 13
+ - name: Thompson, Edward
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'QC'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(6)  
-      score: QC 7 - NB 13   
- - name: Trueman, Samuel    
-   totals:                  
+      year: 1939
+      draw: Round Robin(6)
+      score: QC 7 - NB 13
+ - name: Trueman, Samuel
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'QC'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(6)  
-      score: QC 7 - NB 13   
- - name: Umphrey, Lorne     
-   totals:                  
+      year: 1939
+      draw: Round Robin(6)
+      score: QC 7 - NB 13
+ - name: Umphrey, Lorne
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'NO'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(1)  
-      score: NB 6 - NO 13   
- - name: Ward, William      
-   totals:                  
+      year: 1939
+      draw: Round Robin(1)
+      score: NB 6 - NO 13
+ - name: Ward, William
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NS'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(4)  
-      score: NB 12 - NS 5   
- - name: Watson, William H. 
-   totals:                  
+      year: 1947
+      draw: Round Robin(4)
+      score: NB 12 - NS 5
+ - name: Watson, William H.
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'AB'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(7)  
-      score: NB 9 - AB 14   
- - name: Webb, St. Clair    
-   totals:                  
+      year: 1947
+      draw: Round Robin(7)
+      score: NB 9 - AB 14
+ - name: Webb, St. Clair
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'AB'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(7)  
-      score: AB 12 - NB 5   
- - name: Wells, Clair       
-   totals:                  
+      year: 1939
+      draw: Round Robin(7)
+      score: AB 12 - NB 5
+ - name: Wells, Clair
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'MB'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(2)  
-      score: MB 10 - NB 4   
- - name: Welsh, Alexander   
-   totals:                  
+      year: 1939
+      draw: Round Robin(2)
+      score: MB 10 - NB 4
+ - name: Welsh, Alexander
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'MB'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(1)  
-      score: NB 9 - MB 10   
- - name: Welsh, James       
-   totals:                  
+      year: 1947
+      draw: Round Robin(1)
+      score: NB 9 - MB 10
+ - name: Welsh, James
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(1)  
-      score: NB 9 - MB 10   
- - name: Wendell, Frederick 
-   totals:                  
+      year: 1947
+      draw: Round Robin(1)
+      score: NB 9 - MB 10
+ - name: Wendell, Frederick
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'BC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(3)  
-      score: BC 7 - NB 11   
- - name: Wickstrom, Roland  
-   totals:                  
+      year: 1947
+      draw: Round Robin(3)
+      score: BC 7 - NB 11
+ - name: Wickstrom, Roland
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'BC'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(9)  
-      score: BC 12 - NB 8   
- - name: Williams, Charles  
-   totals:                  
+      year: 1939
+      draw: Round Robin(9)
+      score: BC 12 - NB 8
+ - name: Williams, Charles
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'PE'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(8)  
-      score: PE 9 - NB 10   
- - name: Williamson, Lynn   
-   totals:                  
+      year: 1939
+      draw: Round Robin(8)
+      score: PE 9 - NB 10
+ - name: Williamson, Lynn
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NO'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(8)  
-      score: NO 10 - NB 11  
- - name: Wood, John         
-   totals:                  
+      year: 1947
+      draw: Round Robin(8)
+      score: NO 10 - NB 11
+ - name: Wood, John
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'NB'    
+    - player1:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'NS'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1939            
-      draw: Round Robin(5)  
-      score: NB 11 - NS 13  
+      year: 1939
+      draw: Round Robin(5)
+      score: NB 11 - NS 13
 ---

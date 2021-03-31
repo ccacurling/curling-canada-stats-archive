@@ -2,368 +2,368 @@
 title: William MacNeill Head-to-head
 name: MacNeill, William
 vs:
- - name: McArdle, Charles   
-   totals:                  
+ - name: McArdle, Charles
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'PE'      
+    - player1:
+        team: 'PE'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'NB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1951            
-      draw: Round Robin(8)  
-      score: PE 12 - NB 11  
+      year: 1951
+      draw: Round Robin(8)
+      score: PE 12 - NB 11
  - name: McDiairmid, Alixter
-   totals:                  
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'PE'      
+    - player1:
+        team: 'PE'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'MB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1951            
-      draw: Round Robin(2)  
-      score: MB 14 - PE 13  
- - name: Meers, Arthur      
-   totals:                  
+      year: 1951
+      draw: Round Robin(2)
+      score: MB 14 - PE 13
+ - name: Meers, Arthur
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'PE'      
+    - player1:
+        team: 'PE'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'MB'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1951            
-      draw: Round Robin(2)  
-      score: MB 14 - PE 13  
- - name: Mooney, Reginald   
-   totals:                  
+      year: 1951
+      draw: Round Robin(2)
+      score: MB 14 - PE 13
+ - name: Mooney, Reginald
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'PE'      
+    - player1:
+        team: 'PE'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'ON'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1951            
-      draw: Round Robin(5)  
-      score: PE 12 - ON 13  
- - name: Oyler, Donald      
-   totals:                  
+      year: 1951
+      draw: Round Robin(5)
+      score: PE 12 - ON 13
+ - name: Oyler, Donald
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'PE'      
+    - player1:
+        team: 'PE'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'NS'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1951            
-      draw: Round Robin(9)  
-      score: NS 14 - PE 7   
- - name: Peppard, Augustus  
-   totals:                  
+      year: 1951
+      draw: Round Robin(9)
+      score: NS 14 - PE 7
+ - name: Peppard, Augustus
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'PE'      
+    - player1:
+        team: 'PE'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'QC'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1951            
-      draw: Round Robin(11) 
-      score: PE 7 - QC 13   
- - name: Randall, Albert    
-   totals:                  
+      year: 1951
+      draw: Round Robin(11)
+      score: PE 7 - QC 13
+ - name: Randall, Albert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'PE'      
+    - player1:
+        team: 'PE'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'QC'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1951            
-      draw: Round Robin(11) 
-      score: PE 7 - QC 13   
- - name: Rothery, Harry     
-   totals:                  
+      year: 1951
+      draw: Round Robin(11)
+      score: PE 7 - QC 13
+ - name: Rothery, Harry
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'PE'      
+    - player1:
+        team: 'PE'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'BC'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1951            
-      draw: Round Robin(3)  
-      score: BC 13 - PE 5   
- - name: Scott, Warren      
-   totals:                  
+      year: 1951
+      draw: Round Robin(3)
+      score: BC 13 - PE 5
+ - name: Scott, Warren
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'PE'      
+    - player1:
+        team: 'PE'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'AB'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1951            
-      draw: Round Robin(6)  
-      score: PE 6 - AB 12   
- - name: Stewart, Lawrence  
-   totals:                  
+      year: 1951
+      draw: Round Robin(6)
+      score: PE 6 - AB 12
+ - name: Stewart, Lawrence
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'PE'      
+    - player1:
+        team: 'PE'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'MB'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1951            
-      draw: Round Robin(2)  
-      score: MB 14 - PE 13  
+      year: 1951
+      draw: Round Robin(2)
+      score: MB 14 - PE 13
  - name: Thibodeau, Nicholas
-   totals:                  
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'PE'      
+    - player1:
+        team: 'PE'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'NB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1951            
-      draw: Round Robin(8)  
-      score: PE 12 - NB 11  
- - name: Thomas, Merle      
-   totals:                  
+      year: 1951
+      draw: Round Robin(8)
+      score: PE 12 - NB 11
+ - name: Thomas, Merle
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'PE'      
+    - player1:
+        team: 'PE'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'QC'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1951            
-      draw: Round Robin(11) 
-      score: PE 7 - QC 13   
- - name: Wylie, Frederick   
-   totals:                  
+      year: 1951
+      draw: Round Robin(11)
+      score: PE 7 - QC 13
+ - name: Wylie, Frederick
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'PE'      
+    - player1:
+        team: 'PE'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'NL'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1951            
-      draw: Round Robin(10) 
-      score: NL 5 - PE 12   
+      year: 1951
+      draw: Round Robin(10)
+      score: NL 5 - PE 12
 ---

@@ -54,7 +54,7 @@ vs:
  - McLeod, Brian
  - Miki, Fuji
  - Morrison, Douglas
- - Pennell, Donald
+ - Pennell, Don
  - Pierce, Glen
  - Pineau, Larry
  - Ryan, Pat

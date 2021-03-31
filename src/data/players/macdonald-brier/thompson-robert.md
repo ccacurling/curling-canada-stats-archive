@@ -151,7 +151,7 @@ vs:
  - Narduzzi, Richard
  - Noble, James
  - Oliver, Bill
- - Palk, Sheldon
+ - Palk, Shelly
  - Paterson, Barry
  - Peckham, Gerald
  - Pettapiece, James

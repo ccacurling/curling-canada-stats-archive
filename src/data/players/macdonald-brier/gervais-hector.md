@@ -167,7 +167,7 @@ vs:
  - Muzika, James
  - Naimark, Barry
  - Oxner, Howard
- - Palk, Sheldon
+ - Palk, Shelly
  - Paulson, Terry
  - Peckham, Gerald
  - Perry, Graham

@@ -72,7 +72,7 @@ vs:
  - Fox, Jim
  - Grahame, Kenneth
  - Green, Ronald
- - Haines, Charles
+ - Haines, Chuck
  - Harry, Donald
  - Harry, Morley
  - Hnatiw, Peter
@@ -94,7 +94,7 @@ vs:
  - Mousseau, Arthur
  - Narduzzi, Richard
  - Noble, James
- - Palk, Sheldon
+ - Palk, Shelly
  - Partridge, Robert
  - Peckham, Gerald
  - Pettapiece, James

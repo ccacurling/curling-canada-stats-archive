@@ -44,7 +44,7 @@ vs:
  - Cormier, John
  - Currie, Michael
  - Fortier, John
- - Haines, Charles
+ - Haines, Chuck
  - Hnatiw, Peter
  - Hodgson, William Jr.
  - Jones, Raymond
@@ -57,7 +57,7 @@ vs:
  - Martin, William
  - Mazinke, Harvey
  - Miller, Thomas
- - Palk, Sheldon
+ - Palk, Shelly
  - Partridge, Robert
  - Power, Joseph Jr.
  - Rankel, Anthony

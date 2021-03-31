@@ -190,7 +190,7 @@ vs:
  - Gretzinger, Bert
  - Gurowka, Joseph
  - Hailley, Patrick
- - Haines, Charles
+ - Haines, Chuck
  - Hallinan, William
  - Hamilton, Paul
  - Hamilton, Scott
@@ -259,11 +259,11 @@ vs:
  - Nason, Walter
  - Nicol, Bob
  - Oxner, Howard
- - Palk, Sheldon
+ - Palk, Shelly
  - Partridge, Robert
  - Patrick, James
  - Paulson, Terry
- - Pennell, Donald
+ - Pennell, Don
  - Pettapiece, James
  - Phillips, David
  - Pickering, Robert

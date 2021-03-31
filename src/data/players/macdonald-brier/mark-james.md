@@ -103,7 +103,7 @@ vs:
  - Sansom, John
  - Simons, Herbert
  - Soulis, Philip
- - Spencer, Adam
+ - Spencer, Adam F.
  - Squarebriggs, John
  - Syverson, Olie
  - Timmerman, William

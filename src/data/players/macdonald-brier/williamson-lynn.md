@@ -101,7 +101,7 @@ vs:
  - Shantz, Larry
  - Simmons, Ralph
  - Simons, Herbert
- - Spencer, Adam
+ - Spencer, Adam F.
  - Squarebriggs, John
  - Vance, James
  - Ward, William

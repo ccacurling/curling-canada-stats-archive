@@ -55,7 +55,7 @@ vs:
  - Piercey, Reginald
  - Reid, John
  - Simons, Herbert
- - Spencer, Adam
+ - Spencer, Adam F.
  - Squarebriggs, John
  - Ward, William
  - Welsh, Alexander

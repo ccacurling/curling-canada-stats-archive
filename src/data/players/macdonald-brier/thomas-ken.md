@@ -92,7 +92,7 @@ vs:
  - Mockler, Roland
  - Morrison, Douglas
  - Naimark, Barry
- - Pennell, Donald
+ - Pennell, Don
  - Pierce, Glen
  - Pineau, Larry
  - Pruden, Gregory

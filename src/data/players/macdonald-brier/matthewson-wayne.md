@@ -52,7 +52,7 @@ vs:
  - McDonald, Toby
  - McLeod, Brian
  - Morrison, Douglas
- - Pennell, Donald
+ - Pennell, Don
  - Pineau, Larry
  - Ryan, Pat
  - Scales, John

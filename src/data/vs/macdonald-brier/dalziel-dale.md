@@ -2,872 +2,872 @@
 title: Dale Dalziel Head-to-head
 name: Dalziel, Dale
 vs:
- - name: Dillon, George     
-   totals:                  
+ - name: Dillon, George
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'PE'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(3)  
-      score: PE 5 - BC 9    
- - name: Fisher, Alexander  
-   totals:                  
+      year: 1958
+      draw: Round Robin(3)
+      score: PE 5 - BC 9
+ - name: Fisher, Alexander
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'NL'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(11) 
-      score: BC 6 - NL 8    
- - name: Flemming, Harry    
-   totals:                  
+      year: 1958
+      draw: Round Robin(11)
+      score: BC 6 - NL 8
+ - name: Flemming, Harry
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(8)  
-      score: NB 6 - BC 16   
- - name: Gardiner, Sydney   
-   totals:                  
+      year: 1958
+      draw: Round Robin(8)
+      score: NB 6 - BC 16
+ - name: Gardiner, Sydney
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'SK'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(9)  
-      score: SK 6 - BC 14   
- - name: Geddes, Jack       
-   totals:                  
+      year: 1958
+      draw: Round Robin(9)
+      score: SK 6 - BC 14
+ - name: Geddes, Jack
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'AB'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(5)  
-      score: BC 8 - AB 12   
- - name: Grant, Andrew      
-   totals:                  
+      year: 1958
+      draw: Round Robin(5)
+      score: BC 8 - AB 12
+ - name: Grant, Andrew
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'ON'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(1)  
-      score: BC 7 - ON 10   
- - name: Grant, Ray         
-   totals:                  
+      year: 1958
+      draw: Round Robin(1)
+      score: BC 7 - ON 10
+ - name: Grant, Ray
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'ON'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(1)  
-      score: BC 7 - ON 10   
- - name: Grimes, Gordon     
-   totals:                  
+      year: 1958
+      draw: Round Robin(1)
+      score: BC 7 - ON 10
+ - name: Grimes, Gordon
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'SK'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(9)  
-      score: SK 6 - BC 14   
- - name: Gullage, John      
-   totals:                  
+      year: 1958
+      draw: Round Robin(9)
+      score: SK 6 - BC 14
+ - name: Gullage, John
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'NL'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(11) 
-      score: BC 6 - NL 8    
- - name: Hansen, Alan       
-   totals:                  
+      year: 1958
+      draw: Round Robin(11)
+      score: BC 6 - NL 8
+ - name: Hansen, Alan
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'NO'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(6)  
-      score: BC 9 - NO 14   
- - name: Haynes, Gordon     
-   totals:                  
+      year: 1958
+      draw: Round Robin(6)
+      score: BC 9 - NO 14
+ - name: Haynes, Gordon
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'AB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(5)  
-      score: BC 8 - AB 12   
- - name: Hellemond, John    
-   totals:                  
+      year: 1958
+      draw: Round Robin(5)
+      score: BC 8 - AB 12
+ - name: Hellemond, John
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'MB'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(4)  
-      score: MB 9 - BC 10   
- - name: Howell, Wilbert    
-   totals:                  
+      year: 1958
+      draw: Round Robin(4)
+      score: MB 9 - BC 10
+ - name: Howell, Wilbert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'NL'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(11) 
-      score: BC 6 - NL 8    
- - name: Kostick, John      
-   totals:                  
+      year: 1958
+      draw: Round Robin(11)
+      score: BC 6 - NL 8
+ - name: Kostick, John
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'NO'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(6)  
-      score: BC 9 - NO 14   
+      year: 1958
+      draw: Round Robin(6)
+      score: BC 9 - NO 14
  - name: Lacroix, Jean-Louis
-   totals:                  
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'QC'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(10) 
-      score: QC 7 - BC 10   
- - name: Lahaie, Robert     
-   totals:                  
+      year: 1958
+      draw: Round Robin(10)
+      score: QC 7 - BC 10
+ - name: Lahaie, Robert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'QC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(10) 
-      score: QC 7 - BC 10   
- - name: Llewellyn, Arnold  
-   totals:                  
+      year: 1958
+      draw: Round Robin(10)
+      score: QC 7 - BC 10
+ - name: Llewellyn, Arnold
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'PE'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(3)  
-      score: PE 5 - BC 9    
- - name: Mix, Don           
-   totals:                  
+      year: 1958
+      draw: Round Robin(3)
+      score: PE 5 - BC 9
+ - name: Mix, Don
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NB'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(8)  
-      score: NB 6 - BC 16   
- - name: Piercey, William   
-   totals:                  
+      year: 1958
+      draw: Round Robin(8)
+      score: NB 6 - BC 16
+ - name: Piercey, William
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'NL'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(11) 
-      score: BC 6 - NL 8    
- - name: Plourde, Yvon      
-   totals:                  
+      year: 1958
+      draw: Round Robin(11)
+      score: BC 6 - NL 8
+ - name: Plourde, Yvon
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'QC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(10) 
-      score: QC 7 - BC 10   
- - name: Price, William     
-   totals:                  
+      year: 1958
+      draw: Round Robin(10)
+      score: QC 7 - BC 10
+ - name: Price, William
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'AB'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(5)  
-      score: BC 8 - AB 12   
- - name: Redding, Ronald    
-   totals:                  
+      year: 1958
+      draw: Round Robin(5)
+      score: BC 8 - AB 12
+ - name: Redding, Ronald
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'NO'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(6)  
-      score: BC 9 - NO 14   
- - name: Roberts, Murray    
-   totals:                  
+      year: 1958
+      draw: Round Robin(6)
+      score: BC 9 - NO 14
+ - name: Roberts, Murray
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'ON'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(1)  
-      score: BC 7 - ON 10   
- - name: Rumney, George     
-   totals:                  
+      year: 1958
+      draw: Round Robin(1)
+      score: BC 7 - ON 10
+ - name: Rumney, George
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'ON'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(1)  
-      score: BC 7 - ON 10   
- - name: Sawkins, William   
-   totals:                  
+      year: 1958
+      draw: Round Robin(1)
+      score: BC 7 - ON 10
+ - name: Sawkins, William
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'NO'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(6)  
-      score: BC 9 - NO 14   
- - name: Spencer, Hugh      
-   totals:                  
+      year: 1958
+      draw: Round Robin(6)
+      score: BC 9 - NO 14
+ - name: Spencer, Hugh
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NS'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(2)  
-      score: NS 5 - BC 6    
- - name: St.John, Stuart    
-   totals:                  
+      year: 1958
+      draw: Round Robin(2)
+      score: NS 5 - BC 6
+ - name: St.John, Stuart
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'SK'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(9)  
-      score: SK 6 - BC 14   
- - name: Sullivan, D'Arcy   
-   totals:                  
+      year: 1958
+      draw: Round Robin(9)
+      score: SK 6 - BC 14
+ - name: Sullivan, D'Arcy
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NS'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(2)  
-      score: NS 5 - BC 6    
- - name: Sutherland, John   
-   totals:                  
+      year: 1958
+      draw: Round Robin(2)
+      score: NS 5 - BC 6
+ - name: Sutherland, John
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'SK'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(9)  
-      score: SK 6 - BC 14   
- - name: Turnbull, Raymond  
-   totals:                  
+      year: 1958
+      draw: Round Robin(9)
+      score: SK 6 - BC 14
+ - name: Turnbull, Raymond
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'MB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(4)  
-      score: MB 9 - BC 10   
- - name: Vance, James       
-   totals:                  
+      year: 1958
+      draw: Round Robin(4)
+      score: MB 9 - BC 10
+ - name: Vance, James
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'BC'    
+    - player1:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1958            
-      draw: Round Robin(8)  
-      score: NB 6 - BC 16   
+      year: 1958
+      draw: Round Robin(8)
+      score: NB 6 - BC 16
 ---

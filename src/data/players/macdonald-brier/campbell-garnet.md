@@ -449,7 +449,7 @@ vs:
  - Snarr, Victor
  - Somers, Dale
  - Sparkes, Bernie
- - Spencer, Adam
+ - Spencer, Adam F.
  - Squarebriggs, John
  - St.Pierre, Edgar
  - Stanhope, Donald

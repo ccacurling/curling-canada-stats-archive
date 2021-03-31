@@ -180,7 +180,7 @@ vs:
  - Shaw, James
  - Shirley, Edward
  - Simons, Herbert
- - Spencer, Adam
+ - Spencer, Adam F.
  - Squarebriggs, John
  - St.Amand, Edmond
  - Sutherland, Duncan

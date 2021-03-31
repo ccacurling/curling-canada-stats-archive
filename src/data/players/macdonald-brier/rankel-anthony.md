@@ -66,7 +66,7 @@ vs:
  - Fitzner, Robert
  - Fortier, John
  - Green, Ronald
- - Haines, Charles
+ - Haines, Chuck
  - Hamilton, Paul
  - Hamilton, Wayne
  - Hebert, Leo
@@ -98,7 +98,7 @@ vs:
  - Mockler, Martin
  - Mockler, Roland
  - Naimark, Barry
- - Palk, Sheldon
+ - Palk, Shelly
  - Partridge, Robert
  - Power, Joseph Jr.
  - Pruden, Gregory

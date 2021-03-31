@@ -182,7 +182,7 @@ vs:
  - Green, Ronald
  - Gretzinger, Bert
  - Gurowka, Joseph
- - Haines, Charles
+ - Haines, Chuck
  - Hamilton, Paul
  - Hamilton, Scott
  - Hamilton, Wayne
@@ -251,10 +251,10 @@ vs:
  - Muzika, James
  - Naimark, Barry
  - Nicol, Bob
- - Palk, Sheldon
+ - Palk, Shelly
  - Partridge, Robert
  - Peckham, Gerald
- - Pennell, Donald
+ - Pennell, Don
  - Peterson, Gordon
  - Pierce, Glen
  - Pineau, Larry

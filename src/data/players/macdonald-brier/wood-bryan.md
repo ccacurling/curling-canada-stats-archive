@@ -162,7 +162,7 @@ vs:
  - Gillard, Arthur
  - Goulden, Lowell
  - Guest, Ross
- - Haines, Charles
+ - Haines, Chuck
  - Hallinan, William
  - Hamilton, Scott
  - Hammond, John
@@ -223,12 +223,12 @@ vs:
  - Oliver, Bill
  - Ott, William
  - Oxner, Howard
- - Palk, Sheldon
+ - Palk, Shelly
  - Palmer, Richard
  - Partridge, Robert
  - Paterson, Barry
  - Paulson, Terry
- - Pennell, Donald
+ - Pennell, Don
  - Phillips, David
  - Pickering, Robert
  - Pierce, Glen

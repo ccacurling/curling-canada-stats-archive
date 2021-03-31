@@ -99,7 +99,7 @@ vs:
  - Giannou, George
  - Grahame, Kenneth
  - Green, Ronald
- - Haines, Charles
+ - Haines, Chuck
  - Harry, Donald
  - Harry, Morley
  - Hebert, Leo
@@ -137,7 +137,7 @@ vs:
  - Noble, James
  - Northcott, Ronald
  - O'Reilly, William
- - Palk, Sheldon
+ - Palk, Shelly
  - Palmer, Richard
  - Partridge, Robert
  - Peckham, Gerald

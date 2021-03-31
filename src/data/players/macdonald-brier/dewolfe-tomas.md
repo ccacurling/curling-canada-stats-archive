@@ -54,7 +54,7 @@ vs:
  - Palmer, Howard
  - Piercey, Reginald
  - Reid, John
- - Spencer, Adam
+ - Spencer, Adam F.
  - Squarebriggs, John
  - Ward, William
  - Watson, William H.

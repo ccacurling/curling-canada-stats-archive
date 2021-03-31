@@ -1,7 +1,7 @@
 ---
-title: Charles Haines
-name: Charles Haines
-name-sort: Haines, Charles
+title: Chuck Haines
+name: Chuck Haines
+name-sort: Haines, Chuck
 totals:
  - event: Macdonald Brier
    games: 11
@@ -57,7 +57,7 @@ vs:
  - Martin, William
  - Mazinke, Harvey
  - Miller, Thomas
- - Palk, Sheldon
+ - Palk, Shelly
  - Partridge, Robert
  - Power, Joseph Jr.
  - Rankel, Anthony

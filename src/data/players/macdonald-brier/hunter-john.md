@@ -96,7 +96,7 @@ vs:
  - Narduzzi, Richard
  - Noble, James
  - Peckham, Gerald
- - Pennell, Donald
+ - Pennell, Don
  - Pierce, Glen
  - Pineau, Larry
  - Romkey, David

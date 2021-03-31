@@ -86,7 +86,7 @@ vs:
  - Mockler, Roland
  - Muzika, James
  - Naimark, Barry
- - Palk, Sheldon
+ - Palk, Shelly
  - Peckham, Gerald
  - Power, Joseph Jr.
  - Pruden, Gregory

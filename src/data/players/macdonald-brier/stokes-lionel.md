@@ -97,7 +97,7 @@ vs:
  - Mockler, Martin
  - Mockler, Roland
  - Naimark, Barry
- - Palk, Sheldon
+ - Palk, Shelly
  - Partridge, Robert
  - Power, Joseph Jr.
  - Pruden, Gregory

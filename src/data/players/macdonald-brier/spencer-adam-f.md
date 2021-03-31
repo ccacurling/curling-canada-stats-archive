@@ -1,7 +1,7 @@
 ---
-title: Adam Spencer
-name: Adam Spencer
-name-sort: Spencer, Adam
+title: Adam F. Spencer
+name: Adam F. Spencer
+name-sort: Spencer, Adam F.
 totals:
  - event: Macdonald Brier
    games: 9

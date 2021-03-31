@@ -2,312 +2,312 @@
 title: Leonard Oliver Head-to-head
 name: Oliver, Leonard
 vs:
- - name: Ouellet, Aime      
-   totals:                  
+ - name: Ouellet, Aime
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:         
-        team: 'NL'     
+    - player1:
+        team: 'NL'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
-      player2:        
-        team: 'QC'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(4)  
-      score: QC 11 - NL 10  
- - name: Peters, William    
-   totals:                  
+      year: 1955
+      draw: Round Robin(4)
+      score: QC 11 - NL 10
+ - name: Peters, William
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:         
-        team: 'NL'     
+    - player1:
+        team: 'NL'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
-      player2:        
-        team: 'NS'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(8)  
-      score: NS 10 - NL 7   
- - name: Reid, Donald       
-   totals:                  
+      year: 1955
+      draw: Round Robin(8)
+      score: NS 10 - NL 7
+ - name: Reid, Donald
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:         
-        team: 'NL'     
+    - player1:
+        team: 'NL'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
-      player2:        
-        team: 'MB'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(10) 
-      score: MB 11 - NL 3   
- - name: Samson, Olivier    
-   totals:                  
+      year: 1955
+      draw: Round Robin(10)
+      score: MB 11 - NL 3
+ - name: Samson, Olivier
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:         
-        team: 'NL'     
+    - player1:
+        team: 'NL'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
-      player2:          
-        team: 'QC'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(4)  
-      score: QC 11 - NL 10  
- - name: Squarebriggs, John 
-   totals:                  
+      year: 1955
+      draw: Round Robin(4)
+      score: QC 11 - NL 10
+ - name: Squarebriggs, John
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:         
-        team: 'NL'     
+    - player1:
+        team: 'NL'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
-      player2:         
-        team: 'PE'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(3)  
-      score: PE 10 - NL 8   
- - name: St.Pierre, Edgar   
-   totals:                  
+      year: 1955
+      draw: Round Robin(3)
+      score: PE 10 - NL 8
+ - name: St.Pierre, Edgar
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:         
-        team: 'NL'     
+    - player1:
+        team: 'NL'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
-      player2:          
-        team: 'NB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(5)  
-      score: NL 11 - NB 8   
- - name: Staples, Owen      
-   totals:                  
+      year: 1955
+      draw: Round Robin(5)
+      score: NL 11 - NB 8
+ - name: Staples, Owen
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:         
-        team: 'NL'     
+    - player1:
+        team: 'NL'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
-      player2:          
-        team: 'NO'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(11) 
-      score: NL 7 - NO 11   
- - name: Steski, Rudy       
-   totals:                  
+      year: 1955
+      draw: Round Robin(11)
+      score: NL 7 - NO 11
+ - name: Steski, Rudy
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:         
-        team: 'NL'     
+    - player1:
+        team: 'NL'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
-      player2:          
-        team: 'NO'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(11) 
-      score: NL 7 - NO 11   
- - name: Stone, Reginald    
-   totals:                  
+      year: 1955
+      draw: Round Robin(11)
+      score: NL 7 - NO 11
+ - name: Stone, Reginald
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:         
-        team: 'NL'     
+    - player1:
+        team: 'NL'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
-      player2:          
-        team: 'BC'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(7)  
-      score: NL 10 - BC 12  
- - name: Stone, Roy         
-   totals:                  
+      year: 1955
+      draw: Round Robin(7)
+      score: NL 10 - BC 12
+ - name: Stone, Roy
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:         
-        team: 'NL'     
+    - player1:
+        team: 'NL'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
-      player2:         
-        team: 'BC'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(7)  
-      score: NL 10 - BC 12  
- - name: Wyatt, Robert      
-   totals:                  
+      year: 1955
+      draw: Round Robin(7)
+      score: NL 10 - BC 12
+ - name: Wyatt, Robert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:         
-        team: 'NL'     
+    - player1:
+        team: 'NL'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
-      player2:         
-        team: 'NO'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(11) 
-      score: NL 7 - NO 11   
+      year: 1955
+      draw: Round Robin(11)
+      score: NL 7 - NO 11
 ---

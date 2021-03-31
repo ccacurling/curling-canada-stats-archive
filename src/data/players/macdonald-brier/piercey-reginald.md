@@ -98,7 +98,7 @@ vs:
  - Palmer, Howard
  - Reid, John
  - Simons, Herbert
- - Spencer, Adam
+ - Spencer, Adam F.
  - Squarebriggs, John
  - Stirling, Gordon
  - Tarleton, Ross

@@ -93,7 +93,7 @@ vs:
  - Gervais, Hector
  - Grahame, Kenneth
  - Green, Ronald
- - Haines, Charles
+ - Haines, Chuck
  - Hansen, Warren
  - Harry, Donald
  - Harry, Morley
@@ -123,7 +123,7 @@ vs:
  - Mousseau, Arthur
  - Narduzzi, Richard
  - Noble, James
- - Palk, Sheldon
+ - Palk, Shelly
  - Partridge, Robert
  - Peckham, Gerald
  - Pettapiece, James

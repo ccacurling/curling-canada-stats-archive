@@ -52,7 +52,7 @@ vs:
  - McDonald, Toby
  - McLeod, Brian
  - Miki, Fuji
- - Pennell, Donald
+ - Pennell, Don
  - Pierce, Glen
  - Pineau, Larry
  - Ryan, Pat

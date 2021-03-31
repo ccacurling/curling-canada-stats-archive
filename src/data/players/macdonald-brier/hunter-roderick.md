@@ -131,7 +131,7 @@ vs:
  - Gillard, Arthur
  - Grahame, Kenneth
  - Green, Ronald
- - Haines, Charles
+ - Haines, Chuck
  - Hallinan, William
  - Hammond, John
  - Harry, Donald
@@ -177,7 +177,7 @@ vs:
  - Noble, James
  - Ott, William
  - Oxner, Howard
- - Palk, Sheldon
+ - Palk, Shelly
  - Palmer, Richard
  - Partridge, Robert
  - Paulson, Terry

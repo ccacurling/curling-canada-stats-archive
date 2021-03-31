@@ -44,7 +44,7 @@ vs:
  - Little, Robert
  - Mackin, Brian
  - McGrath, Larry
- - Palk, Sheldon
+ - Palk, Shelly
  - Peckham, Gerald
  - Ross, John R.
  - Ross, William

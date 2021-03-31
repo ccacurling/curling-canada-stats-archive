@@ -95,7 +95,7 @@ vs:
  - Morissette, Frank
  - Muzika, James
  - Nicol, Bob
- - Palk, Sheldon
+ - Palk, Shelly
  - Peckham, Gerald
  - Romain, Alfred
  - Ross, Brian

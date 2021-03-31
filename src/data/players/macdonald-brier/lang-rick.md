@@ -77,7 +77,7 @@ vs:
  - Gilks, Gregory
  - Gretzinger, Bert
  - Gurowka, Joseph
- - Haines, Charles
+ - Haines, Chuck
  - Hicks, Robert
  - Holmes, Douglas
  - Hudson, Douglas
@@ -102,7 +102,7 @@ vs:
  - McGrath, Jim
  - Miller, Thomas
  - Morissette, Frank
- - Palk, Sheldon
+ - Palk, Shelly
  - Partridge, Robert
  - Power, Joseph Jr.
  - Rankel, Anthony

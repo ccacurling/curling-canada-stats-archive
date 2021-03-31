@@ -177,7 +177,7 @@ vs:
  - Shantz, Larry
  - Simm, Edward
  - Simmons, Ralph
- - Spencer, Adam
+ - Spencer, Adam F.
  - Squarebriggs, John
  - Sutherland, Duncan
  - Tinling, Frederick

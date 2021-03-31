@@ -42,7 +42,7 @@ vs:
  - Comstock, Peter
  - Cormier, John
  - Currie, Michael
- - Haines, Charles
+ - Haines, Chuck
  - Hnatiw, Peter
  - Hodgson, William Jr.
  - Holmes, Douglas
@@ -55,7 +55,7 @@ vs:
  - Martin, William
  - Mazinke, Harvey
  - Miller, Thomas
- - Palk, Sheldon
+ - Palk, Shelly
  - Partridge, Robert
  - Power, Joseph Jr.
  - Rankel, Anthony

@@ -64,7 +64,7 @@ vs:
  - Fitzner, Robert
  - Fortier, John
  - Green, Ronald
- - Haines, Charles
+ - Haines, Chuck
  - Hebert, Leo
  - Hnatiw, Peter
  - Hodgson, William Jr.
@@ -94,7 +94,7 @@ vs:
  - Mockler, Martin
  - Mockler, Roland
  - Naimark, Barry
- - Palk, Sheldon
+ - Palk, Shelly
  - Partridge, Robert
  - Pruden, Gregory
  - Rankel, Anthony

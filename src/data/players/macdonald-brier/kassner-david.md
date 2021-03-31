@@ -103,7 +103,7 @@ vs:
  - Gorman, John
  - Gregga, Murray
  - Hailley, Patrick
- - Haines, Charles
+ - Haines, Chuck
  - Hanesiak, John
  - Hnatiw, Peter
  - Hoar, Frank
@@ -135,7 +135,7 @@ vs:
  - Morgan, Edward
  - Nason, Walter
  - Ott, William
- - Palk, Sheldon
+ - Palk, Shelly
  - Palmer, Richard
  - Partridge, Robert
  - Patrick, James

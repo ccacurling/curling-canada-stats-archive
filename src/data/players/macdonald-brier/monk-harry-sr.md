@@ -150,7 +150,7 @@ vs:
  - Simons, Herbert
  - Smith, Emmett
  - Smith, Franklin
- - Spencer, Adam
+ - Spencer, Adam F.
  - Squarebriggs, John
  - Stewart, Howard
  - Stirling, Gordon

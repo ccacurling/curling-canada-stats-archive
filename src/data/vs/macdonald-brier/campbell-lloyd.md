@@ -2,2976 +2,2976 @@
 title: Lloyd Campbell Head-to-head
 name: Campbell, Lloyd
 vs:
- - name: Coster, James      
-   totals:                  
+ - name: Coster, James
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(4)  
-      score: SK 14 - NB 6   
- - name: Coulter, Bruce     
-   totals:                  
+      year: 1955
+      draw: Round Robin(4)
+      score: SK 14 - NB 6
+ - name: Coulter, Bruce
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'QC'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(11) 
-      score: SK 9 - QC 7    
- - name: Cream, Robert      
-   totals:                  
+      year: 1957
+      draw: Round Robin(11)
+      score: SK 9 - QC 7
+ - name: Cream, Robert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'QC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(9)  
-      score: SK 13 - QC 6   
- - name: D'Amour, Theophile 
-   totals:                  
+      year: 1947
+      draw: Round Robin(9)
+      score: SK 13 - QC 6
+ - name: D'Amour, Theophile
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'BC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(4)  
-      score: BC 9 - SK 10   
-    - player1:          
-        team: 'SK'      
+      year: 1947
+      draw: Round Robin(4)
+      score: BC 9 - SK 10
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'BC'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Playoff(10)     
-      score: BC 10 - SK 9   
- - name: Denison, Gordon    
-   totals:                  
+      year: 1947
+      draw: Playoff(10)
+      score: BC 10 - SK 9
+ - name: Denison, Gordon
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'ON'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(1)  
-      score: ON 11 - SK 13  
- - name: Derrett, Walter    
-   totals:                  
+      year: 1947
+      draw: Round Robin(1)
+      score: ON 11 - SK 13
+ - name: Derrett, Walter
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'ON'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(8)  
-      score: ON 7 - SK 15   
- - name: DeWolfe, Tomas     
-   totals:                  
+      year: 1955
+      draw: Round Robin(8)
+      score: ON 7 - SK 15
+ - name: DeWolfe, Tomas
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'QC'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(9)  
-      score: SK 13 - QC 6   
- - name: Dodd, C.L.         
-   totals:                  
+      year: 1947
+      draw: Round Robin(9)
+      score: SK 13 - QC 6
+ - name: Dodd, C.L.
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'AB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(5)  
-      score: SK 11 - AB 5   
- - name: Duguid, Donald     
-   totals:                  
+      year: 1955
+      draw: Round Robin(5)
+      score: SK 11 - AB 5
+ - name: Duguid, Donald
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(8)  
-      score: MB 10 - SK 9   
- - name: Duguid, Lorne      
-   totals:                  
+      year: 1957
+      draw: Round Robin(8)
+      score: MB 10 - SK 9
+ - name: Duguid, Lorne
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'MB'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(8)  
-      score: MB 10 - SK 9   
- - name: Everett, Kenneth   
-   totals:                  
+      year: 1957
+      draw: Round Robin(8)
+      score: MB 10 - SK 9
+ - name: Everett, Kenneth
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(2)  
-      score: NB 3 - SK 30   
- - name: Fisher, Alexander  
-   totals:                  
+      year: 1957
+      draw: Round Robin(2)
+      score: NB 3 - SK 30
+ - name: Fisher, Alexander
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NL'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(10) 
-      score: SK 11 - NL 6   
- - name: Flinn, Jeffrey     
-   totals:                  
+      year: 1957
+      draw: Round Robin(10)
+      score: SK 11 - NL 6
+ - name: Flinn, Jeffrey
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'NS'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(2)  
-      score: SK 4 - NS 15   
- - name: Forsythe, Roy      
-   totals:                  
+      year: 1947
+      draw: Round Robin(2)
+      score: SK 4 - NS 15
+ - name: Forsythe, Roy
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'MB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(9)  
-      score: SK 8 - MB 6    
- - name: Glinz, Gerald      
-   totals:                  
+      year: 1955
+      draw: Round Robin(9)
+      score: SK 8 - MB 6
+ - name: Glinz, Gerald
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NS'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(7)  
-      score: NS 8 - SK 19   
- - name: Gordon, Ernest     
-   totals:                  
+      year: 1955
+      draw: Round Robin(7)
+      score: NS 8 - SK 19
+ - name: Gordon, Ernest
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'BC'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(7)  
-      score: BC 11 - SK 13  
- - name: Grant, Andrew      
-   totals:                  
+      year: 1957
+      draw: Round Robin(7)
+      score: BC 11 - SK 13
+ - name: Grant, Andrew
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'ON'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(8)  
-      score: ON 7 - SK 15   
- - name: Grant, Ray         
-   totals:                  
+      year: 1955
+      draw: Round Robin(8)
+      score: ON 7 - SK 15
+ - name: Grant, Ray
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'ON'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(8)  
-      score: ON 7 - SK 15   
- - name: Gullage, John      
-   totals:                  
+      year: 1955
+      draw: Round Robin(8)
+      score: ON 7 - SK 15
+ - name: Gullage, John
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NL'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(10) 
-      score: SK 11 - NL 6   
- - name: Haynes, Gordon     
-   totals:                  
+      year: 1957
+      draw: Round Robin(10)
+      score: SK 11 - NL 6
+ - name: Haynes, Gordon
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'AB'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(5)  
-      score: SK 7 - AB 8    
- - name: Hewitt, Roy        
-   totals:                  
+      year: 1957
+      draw: Round Robin(5)
+      score: SK 7 - AB 8
+ - name: Hewitt, Roy
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'ON'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(4)  
-      score: SK 11 - ON 6   
- - name: Hoar, Frank        
-   totals:                  
+      year: 1957
+      draw: Round Robin(4)
+      score: SK 11 - ON 6
+ - name: Hoar, Frank
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NS'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(7)  
-      score: NS 8 - SK 19   
- - name: Howatt, Arnett     
-   totals:                  
+      year: 1955
+      draw: Round Robin(7)
+      score: NS 8 - SK 19
+ - name: Howatt, Arnett
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'PE'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(7)  
-      score: SK 18 - PE 4   
- - name: Howell, Wilbert    
-   totals:                  
+      year: 1947
+      draw: Round Robin(7)
+      score: SK 18 - PE 4
+ - name: Howell, Wilbert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NL'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(10) 
-      score: SK 11 - NL 6   
- - name: Howie, James       
-   totals:                  
+      year: 1957
+      draw: Round Robin(10)
+      score: SK 11 - NL 6
+ - name: Howie, James
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'NB'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(5)  
-      score: NB 7 - SK 11   
- - name: Hushagen, Earl     
-   totals:                  
+      year: 1947
+      draw: Round Robin(5)
+      score: NB 7 - SK 11
+ - name: Hushagen, Earl
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'ON'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(8)  
-      score: ON 7 - SK 15   
+      year: 1955
+      draw: Round Robin(8)
+      score: ON 7 - SK 15
  - name: Hutchingame, Arthur
-   totals:                  
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'QC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(11) 
-      score: SK 9 - QC 7    
- - name: Hutton, Robert     
-   totals:                  
+      year: 1957
+      draw: Round Robin(11)
+      score: SK 9 - QC 7
+ - name: Hutton, Robert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(2)  
-      score: NB 3 - SK 30   
- - name: Irish, I.O.        
-   totals:                  
+      year: 1957
+      draw: Round Robin(2)
+      score: NB 3 - SK 30
+ - name: Irish, I.O.
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'AB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(8)  
-      score: SK 14 - AB 7   
- - name: Issac, William     
-   totals:                  
+      year: 1947
+      draw: Round Robin(8)
+      score: SK 14 - AB 7
+ - name: Issac, William
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'QC'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(11) 
-      score: SK 9 - QC 7    
- - name: Kleinmeyer, Arthur 
-   totals:                  
+      year: 1957
+      draw: Round Robin(11)
+      score: SK 9 - QC 7
+ - name: Kleinmeyer, Arthur
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'AB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(5)  
-      score: SK 7 - AB 8    
- - name: Lamb, Earl         
-   totals:                  
+      year: 1957
+      draw: Round Robin(5)
+      score: SK 7 - AB 8
+ - name: Lamb, Earl
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'ON'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(4)  
-      score: SK 11 - ON 6   
- - name: Lanaghan, Harold   
-   totals:                  
+      year: 1957
+      draw: Round Robin(4)
+      score: SK 11 - ON 6
+ - name: Lanaghan, Harold
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'NS'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(2)  
-      score: SK 4 - NS 15   
- - name: Likely, Andrew     
-   totals:                  
+      year: 1947
+      draw: Round Robin(2)
+      score: SK 4 - NS 15
+ - name: Likely, Andrew
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 2             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 2           
+      player1:
+        percent:
+        wins: 2
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 2
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'PE'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(7)  
-      score: SK 18 - PE 4   
-    - player1:        
-        team: 'SK'    
+      year: 1947
+      draw: Round Robin(7)
+      score: SK 18 - PE 4
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'PE'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(2)  
-      score: PE 8 - SK 11   
- - name: Limerick, Arthur   
-   totals:                  
+      year: 1955
+      draw: Round Robin(2)
+      score: PE 8 - SK 11
+ - name: Limerick, Arthur
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'NB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(5)  
-      score: NB 7 - SK 11   
- - name: Limerick, Victor   
-   totals:                  
+      year: 1947
+      draw: Round Robin(5)
+      score: NB 7 - SK 11
+ - name: Limerick, Victor
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'NB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(5)  
-      score: NB 7 - SK 11   
- - name: Limerick, Walter   
-   totals:                  
+      year: 1947
+      draw: Round Robin(5)
+      score: NB 7 - SK 11
+ - name: Limerick, Walter
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'NB'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(5)  
-      score: NB 7 - SK 11   
- - name: Lord, Donald       
-   totals:                  
+      year: 1947
+      draw: Round Robin(5)
+      score: NB 7 - SK 11
+ - name: Lord, Donald
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'MB'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(9)  
-      score: SK 8 - MB 6    
+      year: 1955
+      draw: Round Robin(9)
+      score: SK 8 - MB 6
  - name: MacDonald, Clifford
-   totals:                  
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'PE'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(1)  
-      score: PE 6 - SK 8    
- - name: MacDonald, Elmer   
-   totals:                  
+      year: 1957
+      draw: Round Robin(1)
+      score: PE 6 - SK 8
+ - name: MacDonald, Elmer
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'PE'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(2)  
-      score: PE 8 - SK 11   
- - name: MacDonald, Wendell 
-   totals:                  
+      year: 1955
+      draw: Round Robin(2)
+      score: PE 8 - SK 11
+ - name: MacDonald, Wendell
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'PE'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(2)  
-      score: PE 8 - SK 11   
- - name: MacDonald, William 
-   totals:                  
+      year: 1955
+      draw: Round Robin(2)
+      score: PE 8 - SK 11
+ - name: MacDonald, William
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'QC'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(3)  
-      score: SK 18 - QC 3   
- - name: MacNicol, Nicol    
-   totals:                  
+      year: 1955
+      draw: Round Robin(3)
+      score: SK 18 - QC 3
+ - name: MacNicol, Nicol
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'ON'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(1)  
-      score: ON 11 - SK 13  
- - name: Mann, Avard        
-   totals:                  
+      year: 1947
+      draw: Round Robin(1)
+      score: ON 11 - SK 13
+ - name: Mann, Avard
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NS'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(7)  
-      score: NS 8 - SK 19   
- - name: Mark, James        
-   totals:                  
+      year: 1955
+      draw: Round Robin(7)
+      score: NS 8 - SK 19
+ - name: Mark, James
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'BC'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(4)  
-      score: BC 9 - SK 10   
-    - player1:          
-        team: 'SK'      
+      year: 1947
+      draw: Round Robin(4)
+      score: BC 9 - SK 10
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'BC'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Playoff(10)     
-      score: BC 10 - SK 9   
- - name: Markle, Oscar      
-   totals:                  
+      year: 1947
+      draw: Playoff(10)
+      score: BC 10 - SK 9
+ - name: Markle, Oscar
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'AB'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(5)  
-      score: SK 11 - AB 5   
- - name: Marston, Thomas    
-   totals:                  
+      year: 1955
+      draw: Round Robin(5)
+      score: SK 11 - AB 5
+ - name: Marston, Thomas
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'NO'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(6)  
-      score: SK 7 - NO 10   
- - name: McAlpine, Thomas   
-   totals:                  
+      year: 1947
+      draw: Round Robin(6)
+      score: SK 7 - NO 10
+ - name: McAlpine, Thomas
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NB'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(2)  
-      score: NB 3 - SK 30   
- - name: McCormick, Earl    
-   totals:                  
+      year: 1957
+      draw: Round Robin(2)
+      score: NB 3 - SK 30
+ - name: McCormick, Earl
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NO'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(10) 
-      score: SK 9 - NO 7    
- - name: McEwen, Donald     
-   totals:                  
+      year: 1955
+      draw: Round Robin(10)
+      score: SK 9 - NO 7
+ - name: McEwen, Donald
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NO'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(6)  
-      score: NO 6 - SK 12   
- - name: McGhie, Robert     
-   totals:                  
+      year: 1957
+      draw: Round Robin(6)
+      score: NO 6 - SK 12
+ - name: McGhie, Robert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'BC'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(4)  
-      score: BC 9 - SK 10   
-    - player1:          
-        team: 'SK'      
+      year: 1947
+      draw: Round Robin(4)
+      score: BC 9 - SK 10
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'BC'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Playoff(10)     
-      score: BC 10 - SK 9   
- - name: McGibney, Douglas  
-   totals:                  
+      year: 1947
+      draw: Playoff(10)
+      score: BC 10 - SK 9
+ - name: McGibney, Douglas
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 2             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 2           
+      player1:
+        percent:
+        wins: 2
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 2
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'BC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(6)  
-      score: BC 8 - SK 10   
-    - player1:        
-        team: 'SK'    
+      year: 1955
+      draw: Round Robin(6)
+      score: BC 8 - SK 10
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'BC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(7)  
-      score: BC 11 - SK 13  
- - name: McKay, Hunt        
-   totals:                  
+      year: 1957
+      draw: Round Robin(7)
+      score: BC 11 - SK 13
+ - name: McKay, Hunt
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'BC'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(6)  
-      score: BC 8 - SK 10   
- - name: McNabb, Harry      
-   totals:                  
+      year: 1955
+      draw: Round Robin(6)
+      score: BC 8 - SK 10
+ - name: McNabb, Harry
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'NO'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(6)  
-      score: SK 7 - NO 10   
- - name: Monk, Harry Sr.    
-   totals:                  
+      year: 1947
+      draw: Round Robin(6)
+      score: SK 7 - NO 10
+ - name: Monk, Harry Sr.
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'MB'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(3)  
-      score: MB 22 - SK 7   
- - name: Mooreside, William 
-   totals:                  
+      year: 1947
+      draw: Round Robin(3)
+      score: MB 22 - SK 7
+ - name: Mooreside, William
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'PE'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(1)  
-      score: PE 6 - SK 8    
- - name: Muirhead, Frank    
-   totals:                  
+      year: 1957
+      draw: Round Robin(1)
+      score: PE 6 - SK 8
+ - name: Muirhead, Frank
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'MB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(9)  
-      score: SK 8 - MB 6    
- - name: Munro, Robert      
-   totals:                  
+      year: 1955
+      draw: Round Robin(9)
+      score: SK 8 - MB 6
+ - name: Munro, Robert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'AB'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(8)  
-      score: SK 14 - AB 7   
- - name: Neal, Douglas      
-   totals:                  
+      year: 1947
+      draw: Round Robin(8)
+      score: SK 14 - AB 7
+ - name: Neal, Douglas
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NB'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(2)  
-      score: NB 3 - SK 30   
- - name: O'Donnell, Edmond  
-   totals:                  
+      year: 1957
+      draw: Round Robin(2)
+      score: NB 3 - SK 30
+ - name: O'Donnell, Edmond
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:         
-        team: 'ON'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(1)  
-      score: ON 11 - SK 13  
- - name: Oliver, Leonard    
-   totals:                  
+      year: 1947
+      draw: Round Robin(1)
+      score: ON 11 - SK 13
+ - name: Oliver, Leonard
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NL'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(1)  
-      score: SK 20 - NL 3   
- - name: Ouellet, Aime      
-   totals:                  
+      year: 1955
+      draw: Round Robin(1)
+      score: SK 20 - NL 3
+ - name: Ouellet, Aime
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'QC'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(3)  
-      score: SK 18 - QC 3   
- - name: Palmer, Howard     
-   totals:                  
+      year: 1955
+      draw: Round Robin(3)
+      score: SK 18 - QC 3
+ - name: Palmer, Howard
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'AB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(8)  
-      score: SK 14 - AB 7   
- - name: Peters, William    
-   totals:                  
+      year: 1947
+      draw: Round Robin(8)
+      score: SK 14 - AB 7
+ - name: Peters, William
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NS'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(7)  
-      score: NS 8 - SK 19   
- - name: Piercey, Reginald  
-   totals:                  
+      year: 1955
+      draw: Round Robin(7)
+      score: NS 8 - SK 19
+ - name: Piercey, Reginald
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'NS'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(2)  
-      score: SK 4 - NS 15   
- - name: Piercey, William   
-   totals:                  
+      year: 1947
+      draw: Round Robin(2)
+      score: SK 4 - NS 15
+ - name: Piercey, William
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NL'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(10) 
-      score: SK 11 - NL 6   
- - name: Pounder, Norman    
-   totals:                  
+      year: 1957
+      draw: Round Robin(10)
+      score: SK 11 - NL 6
+ - name: Pounder, Norman
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NL'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(1)  
-      score: SK 20 - NL 3   
- - name: Price, William     
-   totals:                  
+      year: 1955
+      draw: Round Robin(1)
+      score: SK 20 - NL 3
+ - name: Price, William
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:        
-        team: 'AB'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(5)  
-      score: SK 7 - AB 8    
- - name: Rafuse, Robert     
-   totals:                  
+      year: 1957
+      draw: Round Robin(5)
+      score: SK 7 - AB 8
+ - name: Rafuse, Robert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NS'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(9)  
-      score: SK 13 - NS 7   
- - name: Reid, Donald       
-   totals:                  
+      year: 1957
+      draw: Round Robin(9)
+      score: SK 13 - NS 7
+ - name: Reid, Donald
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'MB'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(9)  
-      score: SK 8 - MB 6    
- - name: Reid, John         
-   totals:                  
+      year: 1955
+      draw: Round Robin(9)
+      score: SK 8 - MB 6
+ - name: Reid, John
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'MB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(3)  
-      score: MB 22 - SK 7   
- - name: Rhodenizer, Lee    
-   totals:                  
+      year: 1947
+      draw: Round Robin(3)
+      score: MB 22 - SK 7
+ - name: Rhodenizer, Lee
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NS'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(9)  
-      score: SK 13 - NS 7   
+      year: 1957
+      draw: Round Robin(9)
+      score: SK 13 - NS 7
  - name: Richardson, Pennell
-   totals:                  
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NS'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(9)  
-      score: SK 13 - NS 7   
- - name: Rockwell, Carmen   
-   totals:                  
+      year: 1957
+      draw: Round Robin(9)
+      score: SK 13 - NS 7
+ - name: Rockwell, Carmen
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NL'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(1)  
-      score: SK 20 - NL 3   
- - name: Rockwell, Norman   
-   totals:                  
+      year: 1955
+      draw: Round Robin(1)
+      score: SK 20 - NL 3
+ - name: Rockwell, Norman
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NL'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(1)  
-      score: SK 20 - NL 3   
- - name: Samson, Olivier    
-   totals:                  
+      year: 1955
+      draw: Round Robin(1)
+      score: SK 20 - NL 3
+ - name: Samson, Olivier
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'QC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(3)  
-      score: SK 18 - QC 3   
- - name: Sarjeant, Stanley  
-   totals:                  
+      year: 1955
+      draw: Round Robin(3)
+      score: SK 18 - QC 3
+ - name: Sarjeant, Stanley
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'ON'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(4)  
-      score: SK 11 - ON 6   
- - name: Sharp, William     
-   totals:                  
+      year: 1957
+      draw: Round Robin(4)
+      score: SK 11 - ON 6
+ - name: Sharp, William
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:         
-        team: 'MB'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(8)  
-      score: MB 10 - SK 9   
- - name: Simmons, Ralph     
-   totals:                  
+      year: 1957
+      draw: Round Robin(8)
+      score: MB 10 - SK 9
+ - name: Simmons, Ralph
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NS'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(9)  
-      score: SK 13 - NS 7   
- - name: Simons, Herbert    
-   totals:                  
+      year: 1957
+      draw: Round Robin(9)
+      score: SK 13 - NS 7
+ - name: Simons, Herbert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'QC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(9)  
-      score: SK 13 - QC 6   
- - name: Simpson, James     
-   totals:                  
+      year: 1947
+      draw: Round Robin(9)
+      score: SK 13 - QC 6
+ - name: Simpson, James
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NO'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(6)  
-      score: NO 6 - SK 12   
- - name: Smeaton, Donald    
-   totals:                  
+      year: 1957
+      draw: Round Robin(6)
+      score: NO 6 - SK 12
+ - name: Smeaton, Donald
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NO'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(6)  
-      score: NO 6 - SK 12   
- - name: Spencer, Adam      
-   totals:                  
+      year: 1957
+      draw: Round Robin(6)
+      score: NO 6 - SK 12
+ - name: Spencer, Adam F.
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'ON'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(1)  
-      score: ON 11 - SK 13  
- - name: Squarebriggs, John 
-   totals:                  
+      year: 1947
+      draw: Round Robin(1)
+      score: ON 11 - SK 13
+ - name: Squarebriggs, John
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 2             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 2           
+      player1:
+        percent:
+        wins: 2
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 2
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'PE'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(7)  
-      score: SK 18 - PE 4   
-    - player1:        
-        team: 'SK'    
+      year: 1947
+      draw: Round Robin(7)
+      score: SK 18 - PE 4
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'PE'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(2)  
-      score: PE 8 - SK 11   
- - name: St.Pierre, Edgar   
-   totals:                  
+      year: 1955
+      draw: Round Robin(2)
+      score: PE 8 - SK 11
+ - name: St.Pierre, Edgar
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NB'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(4)  
-      score: SK 14 - NB 6   
- - name: Staples, Owen      
-   totals:                  
+      year: 1955
+      draw: Round Robin(4)
+      score: SK 14 - NB 6
+ - name: Staples, Owen
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NO'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(10) 
-      score: SK 9 - NO 7    
- - name: Steski, Rudy       
-   totals:                  
+      year: 1955
+      draw: Round Robin(10)
+      score: SK 9 - NO 7
+ - name: Steski, Rudy
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'NO'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(10) 
-      score: SK 9 - NO 7    
- - name: Stewart, Gordon W. 
-   totals:                  
+      year: 1955
+      draw: Round Robin(10)
+      score: SK 9 - NO 7
+ - name: Stewart, Gordon W.
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'PE'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(1)  
-      score: PE 6 - SK 8    
- - name: Stone, Reginald    
-   totals:                  
+      year: 1957
+      draw: Round Robin(1)
+      score: PE 6 - SK 8
+ - name: Stone, Reginald
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 2             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 2           
+      player1:
+        percent:
+        wins: 2
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 2
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'BC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(6)  
-      score: BC 8 - SK 10   
-    - player1:        
-        team: 'SK'    
+      year: 1955
+      draw: Round Robin(6)
+      score: BC 8 - SK 10
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'BC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(7)  
-      score: BC 11 - SK 13  
- - name: Stone, Roy         
-   totals:                  
+      year: 1957
+      draw: Round Robin(7)
+      score: BC 11 - SK 13
+ - name: Stone, Roy
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 2             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 2           
+      player1:
+        percent:
+        wins: 2
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 2
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'BC'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(6)  
-      score: BC 8 - SK 10   
-    - player1:        
-        team: 'SK'    
+      year: 1955
+      draw: Round Robin(6)
+      score: BC 8 - SK 10
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'BC'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(7)  
-      score: BC 11 - SK 13  
- - name: Tetley, William    
-   totals:                  
+      year: 1957
+      draw: Round Robin(7)
+      score: BC 11 - SK 13
+ - name: Tetley, William
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'NO'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(6)  
-      score: NO 6 - SK 12   
- - name: Tissington, Harry  
-   totals:                  
+      year: 1957
+      draw: Round Robin(6)
+      score: NO 6 - SK 12
+ - name: Tissington, Harry
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:        
-        team: 'ON'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(4)  
-      score: SK 11 - ON 6   
- - name: Ward, William      
-   totals:                  
+      year: 1957
+      draw: Round Robin(4)
+      score: SK 11 - ON 6
+ - name: Ward, William
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:        
-        team: 'NS'    
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(2)  
-      score: SK 4 - NS 15   
- - name: Watson, William H. 
-   totals:                  
+      year: 1947
+      draw: Round Robin(2)
+      score: SK 4 - NS 15
+ - name: Watson, William H.
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:        
-        team: 'AB'    
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(8)  
-      score: SK 14 - AB 7   
- - name: Weldon, Kenneth    
-   totals:                  
+      year: 1947
+      draw: Round Robin(8)
+      score: SK 14 - AB 7
+ - name: Weldon, Kenneth
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:          
-        team: 'QC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
         position: Fourth
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(11) 
-      score: SK 9 - QC 7    
- - name: Welsh, Alexander   
-   totals:                  
+      year: 1957
+      draw: Round Robin(11)
+      score: SK 9 - QC 7
+ - name: Welsh, Alexander
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:         
-        team: 'MB'     
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Third
-        percent:       
-        win: 1         
-        loss: 0        
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(3)  
-      score: MB 22 - SK 7   
- - name: Welsh, James       
-   totals:                  
+      year: 1947
+      draw: Round Robin(3)
+      score: MB 22 - SK 7
+ - name: Welsh, James
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'MB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(3)  
-      score: MB 22 - SK 7   
- - name: Wendell, Frederick 
-   totals:                  
+      year: 1947
+      draw: Round Robin(3)
+      score: MB 22 - SK 7
+ - name: Wendell, Frederick
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 1
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
-      player2:          
-        team: 'BC'      
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(4)  
-      score: BC 9 - SK 10   
-    - player1:          
-        team: 'SK'      
+      year: 1947
+      draw: Round Robin(4)
+      score: BC 9 - SK 10
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'BC'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Playoff(10)     
-      score: BC 10 - SK 9   
- - name: Williamson, Lynn   
-   totals:                  
+      year: 1947
+      draw: Playoff(10)
+      score: BC 10 - SK 9
+ - name: Williamson, Lynn
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:          
-        team: 'SK'      
+    - player1:
+        team: 'SK'
         position: Second
-        percent:        
-        win: 0          
-        loss: 1         
-      player2:          
-        team: 'NO'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
         position: Second
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1947            
-      draw: Round Robin(6)  
-      score: SK 7 - NO 10   
- - name: Wood, Howard Jr.   
-   totals:                  
+      year: 1947
+      draw: Round Robin(6)
+      score: SK 7 - NO 10
+ - name: Wood, Howard Jr.
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 0             
-        losses: 1           
-      player2:              
-        percent:            
-        wins: 1             
-        losses: 0           
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 0        
-        loss: 1       
-      player2:          
-        team: 'MB'      
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
         position: Fourth
-        percent:        
-        win: 1          
-        loss: 0         
+        percent:
+        win: 1
+        loss: 0
       event: Macdonald Brier
-      year: 1957            
-      draw: Round Robin(8)  
-      score: MB 10 - SK 9   
- - name: Wyatt, Robert      
-   totals:                  
+      year: 1957
+      draw: Round Robin(8)
+      score: MB 10 - SK 9
+ - name: Wyatt, Robert
+   totals:
     - event: Macdonald Brier
-      player1:              
-        percent:            
-        wins: 1             
-        losses: 0           
-      player2:              
-        percent:            
-        wins: 0             
-        losses: 1           
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
    games:
-    - player1:        
-        team: 'SK'    
+    - player1:
+        team: 'SK'
         position: Lead
-        percent:      
-        win: 1        
-        loss: 0       
-      player2:         
-        team: 'NO'     
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
         position: Third
-        percent:       
-        win: 0         
-        loss: 1        
+        percent:
+        win: 0
+        loss: 1
       event: Macdonald Brier
-      year: 1955            
-      draw: Round Robin(10) 
-      score: SK 9 - NO 7    
+      year: 1955
+      draw: Round Robin(10)
+      score: SK 9 - NO 7
 ---

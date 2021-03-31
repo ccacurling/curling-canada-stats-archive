@@ -70,7 +70,7 @@ vs:
  - Gorman, John
  - Gregga, Murray
  - Hailley, Patrick
- - Haines, Charles
+ - Haines, Chuck
  - Hanesiak, John
  - Hnatiw, Peter
  - Hodgson, William Jr.
@@ -93,7 +93,7 @@ vs:
  - Meleschuk, Orest
  - Morgan, Edward
  - Nason, Walter
- - Palk, Sheldon
+ - Palk, Shelly
  - Partridge, Robert
  - Patrick, James
  - Power, Joseph Jr.

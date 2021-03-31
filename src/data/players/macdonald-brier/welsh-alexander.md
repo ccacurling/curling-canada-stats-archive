@@ -142,7 +142,7 @@ vs:
  - Ramsay, Thomas
  - Ross, I.H.
  - Simons, Herbert
- - Spencer, Adam
+ - Spencer, Adam F.
  - Squarebriggs, John
  - Stirling, Gordon
  - Stuart, William

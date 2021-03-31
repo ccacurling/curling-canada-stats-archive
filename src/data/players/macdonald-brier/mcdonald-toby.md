@@ -99,7 +99,7 @@ vs:
  - Morissette, Frank
  - Morrison, Douglas
  - Nicol, Bob
- - Pennell, Donald
+ - Pennell, Don
  - Pierce, Glen
  - Pineau, Larry
  - Romain, Alfred

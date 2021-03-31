@@ -149,7 +149,7 @@ vs:
  - Samson, Olivier
  - Simons, Herbert
  - Smith, Walter
- - Spencer, Adam
+ - Spencer, Adam F.
  - St.Pierre, Edgar
  - Staples, Owen
  - Steski, Rudy

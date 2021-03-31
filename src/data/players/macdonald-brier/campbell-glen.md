@@ -290,7 +290,7 @@ vs:
  - Smith, Murvin
  - Snarr, Victor
  - Sparkes, Bernie
- - Spencer, Adam
+ - Spencer, Adam F.
  - Squarebriggs, John
  - St.Pierre, Edgar
  - Stanhope, Donald

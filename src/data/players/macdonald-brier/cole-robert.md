@@ -70,7 +70,7 @@ vs:
  - Fortier, John
  - Fulton, Donald
  - Gillard, Arthur
- - Haines, Charles
+ - Haines, Chuck
  - Hnatiw, Peter
  - Hoar, Frank
  - Hodgson, William Jr.
@@ -97,7 +97,7 @@ vs:
  - Miller, Thomas
  - Miyashita, Herbert
  - Ott, William
- - Palk, Sheldon
+ - Palk, Shelly
  - Palmer, Richard
  - Partridge, Robert
  - Pettapiece, James

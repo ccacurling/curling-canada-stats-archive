@@ -86,7 +86,7 @@ vs:
  - Meleschuk, Orest
  - Muzika, James
  - Nason, Walter
- - Palk, Sheldon
+ - Palk, Shelly
  - Patrick, James
  - Peckham, Gerald
  - Provost, Barry

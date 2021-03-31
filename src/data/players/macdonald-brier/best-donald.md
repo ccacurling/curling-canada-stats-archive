@@ -103,7 +103,7 @@ vs:
  - Rockwell, Nicolas
  - Sear, Harry
  - Simons, Herbert
- - Spencer, Adam
+ - Spencer, Adam F.
  - Squarebriggs, John
  - St.Amand, Edmond
  - Tinling, Frederick

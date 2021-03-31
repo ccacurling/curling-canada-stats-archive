@@ -101,7 +101,7 @@ vs:
  - Schulz, Edwin
  - Shantz, Larry
  - Simmons, Ralph
- - Spencer, Adam
+ - Spencer, Adam F.
  - Squarebriggs, John
  - Vance, James
  - Ward, William

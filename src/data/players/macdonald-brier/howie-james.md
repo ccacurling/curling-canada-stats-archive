@@ -96,7 +96,7 @@ vs:
  - Reid, John
  - Seagram, Campbell
  - Simons, Herbert
- - Spencer, Adam
+ - Spencer, Adam F.
  - Squarebriggs, John
  - Sutherland, Duncan
  - Thompson, Edward
