@@ -198,7 +198,7 @@ vs:
       year: 1999
       draw: Round Robin(16)
       score: NO 6 - AB 4
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:

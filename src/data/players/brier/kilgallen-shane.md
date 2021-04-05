@@ -7,16 +7,16 @@ totals:
    games: 24
    wins: 14
    losses: 10
-   inturn-total: 222
-   inturn-percent: 74
-   outturn-total: 241
-   outturn-percent: 84
-   draw-total: 268
-   draw-percent: 82
-   takeout-total: 195
-   takeout-percent: 76
-   shots-total: 463
-   shots-percent: 79
+   inturn-total: 259
+   inturn-percent: 78
+   outturn-total: 197
+   outturn-percent: 87
+   draw-total: 369
+   draw-percent: 86
+   takeout-total: 87
+   takeout-percent: 65
+   shots-total: 456
+   shots-percent: 82
 years:
  - year: 2002
    event: Brier
@@ -38,20 +38,20 @@ years:
  - year: 2005
    event: Brier
    team: "MB"
-   position: Fourth
+   position: Lead
    games: 13
    wins: 8
    losses: 5
-   inturn-total: 124
-   inturn-percent: 71
-   outturn-total: 125
-   outturn-percent: 80
-   draw-total: 98
-   draw-percent: 74
-   takeout-total: 151
-   takeout-percent: 76
-   shots-total: 249
-   shots-percent: 76
+   inturn-total: 161
+   inturn-percent: 78
+   outturn-total: 81
+   outturn-percent: 85
+   draw-total: 199
+   draw-percent: 85
+   takeout-total: 43
+   takeout-percent: 58
+   shots-total: 242
+   shots-percent: 80
 vs:
  - Adams, Shawn
  - Bailey, Scott
@@ -103,6 +103,7 @@ vs:
  - Morris, John
  - Moshenko, Darcy
  - Moskowy, Kelly
+ - Moss, Steve
  - Nedohin, David
  - Nichols, Mark
  - Nobert, Rob
@@ -121,7 +122,7 @@ vs:
  - Scoffin, Wade
  - Sharp, Jeff
  - Simmons, Pat
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Stuart, Darol
  - Sylvain, Eric

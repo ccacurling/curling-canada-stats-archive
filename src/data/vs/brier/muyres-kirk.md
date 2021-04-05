@@ -930,7 +930,7 @@ vs:
       year: 2021
       draw: Round Robin(15)
       score: PE 5 - SK 10
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

@@ -310,7 +310,7 @@ vs:
       year: 1987
       draw: Round Robin(7)
       score: QC 3 - MB 6
- - name: Kallos, Jack Jr
+ - name: Kallos, Jack Jr.
    totals:
     - event: Brier
       player1:

@@ -154,7 +154,7 @@ vs:
  - Lang, Rick
  - Langille, Vic
  - Ledgerwood, Allan
- - Lemery, Dan
+ - Lemery, Daniel
  - Lenz, Cliff
  - Lequin, Bradley
  - Likely, John
@@ -203,7 +203,7 @@ vs:
  - Sparkes, Bernie
  - Strain, Bill
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sutherland, Cy
  - Syme, Brent
  - Tetley, Ian

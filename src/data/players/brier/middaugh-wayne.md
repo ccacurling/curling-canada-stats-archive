@@ -256,7 +256,7 @@ vs:
  - Dobson, Paul
  - Doyon, Ghislain
  - Duguid, Dale
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Dutiaume, Randy
  - Elias, Dave
  - Elkin, Derek
@@ -290,7 +290,7 @@ vs:
  - Grant, Scott
  - Grattan, James
  - Gretzinger, Bert
- - Griffith, Ty
+ - Griffith, Tyrel
  - Grundy, John
  - Gudereit, Kerry
  - Gunnlaugson, Jason
@@ -352,7 +352,7 @@ vs:
  - LeCocq, Vance
  - Ledgerwood, Sean
  - Lemay, Jean-Yves
- - Lemery, Dan
+ - Lemery, Daniel
  - Lewis, Wayne
  - Loevenmark, Phil
  - Lohnes, Bruce
@@ -386,8 +386,8 @@ vs:
  - McGregor, Ken
  - McHargue, Ken
  - McInnis, Phillip
- - McKinnon, Robert
- - Mead, Jonathan
+ - Mckinnon, Robert
+ - Mead, Jon
  - Meakin, Rob
  - Melnichuk, Greg
  - Melville, Bruce
@@ -484,12 +484,12 @@ vs:
  - Skauge, Greg
  - Smith, Dave
  - Smith, Kent
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Spencer, Jim
  - Stokes, Lionel
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Sullivan, Tommy
  - Sylvain, Eric

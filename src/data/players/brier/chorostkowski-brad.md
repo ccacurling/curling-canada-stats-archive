@@ -345,7 +345,7 @@ vs:
  - Dillon, Mike
  - Dion, William
  - Dobson, Paul
- - Doherty, Robert
+ - Doherty, Robbie
  - Duguid, Dale
  - Eldridge, Zach
  - Elmaleh, Maxime
@@ -379,7 +379,7 @@ vs:
  - Graber, Dennis
  - Granchelli, Kris
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Hackner, Al
  - Haichert, Chris
@@ -470,7 +470,7 @@ vs:
  - McInnis, Phillip
  - McKee, Darrell
  - Meachem, Shaun Myles
- - Mead, Jonathan
+ - Mead, Jon
  - Meakin, Rob
  - Melville, Bruce
  - Menard, Jean-Michel
@@ -549,7 +549,7 @@ vs:
  - Spencer, Adam
  - Spencer, Jim
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Sylvain, Eric
  - Tait, Jeff

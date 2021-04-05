@@ -1902,7 +1902,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 91
+        percent: 89
         wins: 0
         losses: 1
    games:
@@ -1914,8 +1914,8 @@ vs:
         loss: 0
       player2:
         team: 'MB'
-        position: Third
-        percent: 91
+        position: Second
+        percent: 89
         win: 0
         loss: 1
       event: Brier
@@ -2006,7 +2006,7 @@ vs:
       year: 2003
       draw: Round Robin(15)
       score: SK 8 - ON 4
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

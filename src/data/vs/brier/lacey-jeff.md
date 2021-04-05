@@ -114,7 +114,7 @@ vs:
       year: 2006
       draw: Round Robin(15)
       score: NB 9 - NL 3
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:
@@ -578,7 +578,7 @@ vs:
       year: 1997
       draw: Round Robin(10)
       score: NB 8 - BC 5
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:

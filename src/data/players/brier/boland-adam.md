@@ -95,7 +95,7 @@ vs:
  - Chown, Jeff
  - Crete, Martin
  - Crowell, Phil
- - Doherty, Robert
+ - Doherty, Robbie
  - Flemming, Paul
  - Fry, Ryan
  - Harnden, E.J.
@@ -119,7 +119,7 @@ vs:
  - Saccary, Scott
  - Samagalski, Derek
  - Smallwood, Robert
- - Solberg, Jonathon
+ - Solberg, Jon
  - St.Louis, Brady
  - Sylvain, Eric
  - Thiessen, Brad

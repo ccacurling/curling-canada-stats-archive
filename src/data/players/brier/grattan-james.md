@@ -283,7 +283,6 @@ vs:
  - Bryant, Doug
  - Bubbs, John
  - Buchan, Chris
- - Bucyk, James
  - Burgess, Craig
  - Burnett, Steve
  - Burtnyk, Kerry
@@ -321,7 +320,7 @@ vs:
  - Dion, William
  - Doerr, Bob
  - Duce, Dallas
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Elias, Dave
  - Ellis, Ken
  - Elmaleh, Maxime
@@ -362,7 +361,7 @@ vs:
  - Graber, Dennis
  - Granchelli, Kris
  - Grant, Scott
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Hagen, Brandon
@@ -430,7 +429,7 @@ vs:
  - Ledgerwood, Sean
  - LeDrew, Ryan
  - Leech, Ron
- - Lemery, Dan
+ - Lemery, Daniel
  - Likely, John
  - Lindsay, Tim
  - Loevenmark, Phil
@@ -459,10 +458,10 @@ vs:
  - McEwen, Mike
  - McGowan, Nolin
  - McKee, Darrell
- - McKinnon, Robert
- - McLeod, Shadrach
+ - Mckinnon, Robert
+ - Mcleod, Shadrach
  - McPhee, Barry
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -475,7 +474,6 @@ vs:
  - Moskowy, Braeden
  - Moskowy, Kelly
  - Mosley, Jeff
- - Moss, Steve
  - Moulding, Darren
  - Murphy, Jamie
  - Muyres, Dallan
@@ -501,7 +499,7 @@ vs:
  - Park, Kevin
  - Parsons, Cole
  - Patzer, Brad
- - Peachy, Jay
+ - Peachey, Jay
  - Peddigrew, Ken
  - Perroud, Pat
  - Peters, Vic
@@ -544,7 +542,7 @@ vs:
  - Smith, Garth
  - Smith, Jeff
  - Smith, Kent
- - Solberg, Jonathon
+ - Solberg, Jon
  - Spicer, Grant
  - St.Louis, David
  - Steski, John

@@ -68,7 +68,7 @@ vs:
  - Colter, Travis
  - Cotter, Jim
  - Dion, William
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
  - Forget, Wes
@@ -78,7 +78,7 @@ vs:
  - Gallant, Chris
  - Grant, Jeff
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -98,7 +98,7 @@ vs:
  - March, Tim
  - McCann, Andy
  - McDonald, Scott
- - McLeod, Shadrach
+ - Mcleod, Shadrach
  - Moskowy, Braeden
  - Muyres, Dallan
  - Muyres, Kirk

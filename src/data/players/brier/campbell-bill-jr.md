@@ -1,7 +1,7 @@
 ---
-title: Bill Jr Campbell
-name: Bill Jr Campbell
-name-sort: Campbell, Bill Jr
+title: Bill Jr. Campbell
+name: Bill Jr. Campbell
+name-sort: Campbell, Bill Jr.
 totals:
  - event: Brier
    games: 11

@@ -70,7 +70,7 @@ vs:
  - Korab, Jamie
  - MacDonald, Blake
  - MacKenzie, Kevin
- - Mead, Jonathan
+ - Mead, Jon
  - Moffatt, Paul
  - Morris, John
  - Naharnie, Cory

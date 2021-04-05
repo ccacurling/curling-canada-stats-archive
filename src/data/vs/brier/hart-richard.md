@@ -2242,7 +2242,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 92
+        percent: 94
         wins: 1
         losses: 0
    games:
@@ -2254,15 +2254,15 @@ vs:
         loss: 1
       player2:
         team: 'SK'
-        position: Third
-        percent: 92
+        position: Second
+        percent: 94
         win: 1
         loss: 0
       event: Brier
       year: 2017
       draw: Round Robin(10)
       score: SK 9 - ON 5
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -4662,7 +4662,7 @@ vs:
       year: 2010
       draw: Round Robin(8)
       score: ON 9 - NS 3
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -4830,7 +4830,7 @@ vs:
       year: 2011
       draw: Final(22)
       score: ON 6 - MB 8
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

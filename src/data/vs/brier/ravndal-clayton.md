@@ -478,7 +478,7 @@ vs:
       year: 1988
       draw: Round Robin(5)
       score: QC 7 - TR 5
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

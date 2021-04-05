@@ -76,7 +76,7 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -95,7 +95,7 @@ vs:
  - McCann, Andy
  - McCarville, Mike
  - McDermaid, Donald
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne

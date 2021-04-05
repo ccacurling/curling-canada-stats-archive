@@ -62,6 +62,7 @@ vs:
  - Middaugh, Wayne
  - Mittelstadt, Kelly
  - Moshenko, Darcy
+ - Moss, Steve
  - Nedohin, David
  - Nichols, Mark
  - Nobert, Rob
@@ -74,7 +75,7 @@ vs:
  - Ryan, Keith
  - Sharp, Jeff
  - Simmons, Pat
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Sylvain, Eric
  - Thomson, Fred

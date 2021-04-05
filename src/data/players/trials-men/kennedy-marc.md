@@ -108,7 +108,7 @@ vs:
  - Gallant, Brett
  - Gibson, Andrew
  - Gould, Steve
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
@@ -163,7 +163,7 @@ vs:
  - Stoughton, Jeff
  - Thiessen, Brad
  - Thiessen, Nolan
- - Vandenberghe, Garry
+ - Van Den Berghe, Garry
  - Walchuk, Don
  - Walker, Geoff
  - Wozniak, Matt

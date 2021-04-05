@@ -78,7 +78,7 @@ vs:
  - Gallant, Peter
  - Gaudet, Mike
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Eric

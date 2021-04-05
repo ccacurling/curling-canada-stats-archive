@@ -74,7 +74,7 @@ vs:
  - Korab, Jamie
  - Loevenmark, Phil
  - Martin, Kevin
- - Mead, Jonathan
+ - Mead, Jon
  - Miller, Ryan
  - Nedohin, David
  - Nichols, Mark

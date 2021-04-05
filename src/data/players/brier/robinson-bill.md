@@ -95,7 +95,7 @@ vs:
  - Kofoed, Lonnie
  - Lacey, Jeff
  - Lang, Rick
- - Lemery, Dan
+ - Lemery, Daniel
  - Loeffler, Ken
  - MacDonald, Frank
  - MacFadyen, Dave
@@ -130,7 +130,7 @@ vs:
  - Spencer, Jim
  - Steventon, Lawren
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Thomas, Jeff
  - Thomas, Ken
  - Thompson, Ron

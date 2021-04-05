@@ -120,7 +120,7 @@ vs:
  - Johannesson, Harold
  - Johnston, Bill
  - Journeaux, Ian
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kamp, Ragnar
  - Kapicki, Ron
  - Kawaja, John

@@ -59,12 +59,12 @@ vs:
  - Chadwick, Scott
  - Colter, Travis
  - Cotter, Jim
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Flasch, Colton
  - Forget, Wes
  - Gallant, Brett
  - Grant, Jeff
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Hebert, Ben
  - Kendall, Lloyd

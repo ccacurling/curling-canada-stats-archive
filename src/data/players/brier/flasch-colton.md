@@ -127,8 +127,8 @@ vs:
  - Crete, Martin
  - Currie, Jeff
  - Dobson, Paul
- - Doherty, Robert
- - Dunstone, Matthew
+ - Doherty, Robbie
+ - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
  - Farnell, Jamie
@@ -137,7 +137,7 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
@@ -177,8 +177,8 @@ vs:
  - McDermaid, Donald
  - McDonald, Scott
  - McEwen, Mike
- - McLeod, Shadrach
- - Mead, Jonathan
+ - Mcleod, Shadrach
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Morgan, Tyler

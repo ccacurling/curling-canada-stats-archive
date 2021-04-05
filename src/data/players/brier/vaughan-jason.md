@@ -159,7 +159,7 @@ vs:
  - Markowsky, Rob
  - Martin, Kevin
  - McKee, Darrell
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Morris, John
@@ -188,7 +188,7 @@ vs:
  - Slauenwhite, David
  - Smith, Garth
  - Smith, Kent
- - Solberg, Jonathon
+ - Solberg, Jon
  - Stoughton, Jeff
  - Sylvain, Eric
  - Thiessen, Nolan

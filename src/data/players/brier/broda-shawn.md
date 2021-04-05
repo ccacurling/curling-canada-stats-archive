@@ -48,7 +48,7 @@ vs:
  - Elkin, Derek
  - Forsyth, Sandy
  - Gould, Steve
- - Gubbles, Will
+ - Gubbels, Will
  - Henderson, Jeffrey
  - Hinch, Bert
  - Hollett, Peter
@@ -56,7 +56,7 @@ vs:
  - Josephson, Glenn
  - Kennedy, Mike
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - MacDonald, Peter
  - MacDonald, Rod
  - MacInnes, David

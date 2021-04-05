@@ -42,7 +42,7 @@ vs:
  - Carmody, Anson
  - Carruthers, Reid
  - Crete, Martin
- - Doherty, Robert
+ - Doherty, Robbie
  - Ford, Chris
  - Fry, Ryan
  - Harnden, E.J.

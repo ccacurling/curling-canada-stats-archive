@@ -127,7 +127,7 @@ vs:
  - Kofoed, Lonnie
  - Lacey, Jeff
  - Lafleur, Andre
- - Lemery, Dan
+ - Lemery, Daniel
  - Lohnes, Bruce
  - MacLeod, Kris
  - Martin, Kevin
@@ -157,7 +157,7 @@ vs:
  - Smith, Doug-2
  - Strain, Bill
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Thomas, Jeff
  - Usackis, John
  - Walchuk, Don

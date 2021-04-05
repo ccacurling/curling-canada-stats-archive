@@ -78,7 +78,7 @@ vs:
  - Flemming, Paul
  - Gardeski, Larry
  - Gould, Steve
- - Gubbles, Will
+ - Gubbels, Will
  - Hamilton, Wayne
  - Hemmings, Guy
  - Henderson, Jeffrey
@@ -92,7 +92,7 @@ vs:
  - Kushnir, Warren
  - Landry, Garry
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - MacDonald, Peter
  - MacDonald, Rod
  - MacInnes, David

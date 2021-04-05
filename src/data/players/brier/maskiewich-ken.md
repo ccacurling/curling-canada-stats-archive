@@ -72,7 +72,7 @@ vs:
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - Martin, Kevin
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Philippe
  - Mittelstadt, Kelly
  - Morris, John
@@ -83,5 +83,5 @@ vs:
  - Seabrook, Scott
  - Simmons, Pat
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
 ---

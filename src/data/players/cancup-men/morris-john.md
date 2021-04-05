@@ -245,7 +245,7 @@ vs:
  - Goodman, Eric
  - Gould, Steve
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Hamilton, Andrew
  - Harnden, E.J.
@@ -289,7 +289,7 @@ vs:
  - Mathers, David
  - McCarrel, Graeme
  - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Melnyk, Brendan
  - Menard, Jean-Michel
  - Middaugh, Wayne

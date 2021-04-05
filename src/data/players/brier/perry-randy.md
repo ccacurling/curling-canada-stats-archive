@@ -92,7 +92,7 @@ vs:
  - Jackson, Glenn
  - Jenkins, Peter
  - Journeaux, Ian
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kapicki, Ron
  - Kennedy, Bruce
  - Krupski, Gary

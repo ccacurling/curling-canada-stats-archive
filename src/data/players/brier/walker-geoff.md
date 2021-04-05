@@ -231,8 +231,8 @@ vs:
  - Daneault, Richard
  - Deis, Ryan
  - Desjardins, Robert
- - Doherty, Robert
- - Dunstone, Matthew
+ - Doherty, Robbie
+ - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
  - Errington, Derek
@@ -252,7 +252,7 @@ vs:
  - Geall, Sean
  - Giddens, Ryan
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Harnden, E.J.
  - Harnden, Ryan
@@ -311,7 +311,7 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - Meachem, Shaun Myles
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -354,7 +354,6 @@ vs:
  - Simmons, Pat
  - Skauge, Greg
  - Smith, Greg
- - Smith, Kent
  - Smith, Tyler
  - Smitheram, Christian
  - Spencer, Adam

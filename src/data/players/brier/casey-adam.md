@@ -186,7 +186,7 @@ vs:
  - Daneault, Richard
  - Deis, Ryan
  - Desjardins, Robert
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
  - Errington, Derek
@@ -200,7 +200,7 @@ vs:
  - Gallant, Brett
  - Gaudet, Mike
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Hagen, Brandon
  - Harnden, E.J.
@@ -248,9 +248,9 @@ vs:
  - McCarville, Mike
  - McDermaid, Donald
  - McEwen, Mike
- - McKinnon, Robert
+ - Mckinnon, Robert
  - NcNeil-Lamswood, Ryan
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Merklinger, Bill
@@ -290,7 +290,6 @@ vs:
  - Seabrook, Scott
  - Simmons, Pat
  - Skauge, Greg
- - Smith, Kent
  - Smitheram, Christian
  - Spencer, Adam
  - Stoughton, Jeff

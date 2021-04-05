@@ -1950,7 +1950,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 94
+        percent: 97
         wins: 1
         losses: 0
    games:
@@ -1962,15 +1962,15 @@ vs:
         loss: 1
       player2:
         team: 'SK'
-        position: Third
-        percent: 94
+        position: Second
+        percent: 97
         win: 1
         loss: 0
       event: Brier
       year: 2017
       draw: Round Robin(4)
       score: NT 3 - SK 8
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -5146,34 +5146,6 @@ vs:
       year: 2018
       draw: Round Robin(2)
       score: NT 9 - NL 7
- - name: Smith, Kent
-   totals:
-    - event: Brier
-      player1:
-        percent: 81
-        wins: 1
-        losses: 0
-      player2:
-        percent: 88
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'TR'
-        position: Fourth
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Lead
-        percent: 88
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2013
-      draw: Round Robin(7)
-      score: TR 9 - NS 6
  - name: Spencer, Adam
    totals:
     - event: Brier
@@ -5382,7 +5354,7 @@ vs:
       year: 2014
       draw: Round Robin(4)
       score: TR 6 - MB 7
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

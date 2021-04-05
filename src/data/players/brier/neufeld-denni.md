@@ -82,8 +82,8 @@ vs:
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
- - Doherty, Robert
- - Dunstone, Matthew
+ - Doherty, Robbie
+ - Dunstone, Matt
  - Epping, John
  - Fecteau, Steve
  - Flasch, Colton
@@ -91,7 +91,7 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Geall, Sean
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan

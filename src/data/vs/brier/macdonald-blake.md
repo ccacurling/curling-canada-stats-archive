@@ -170,7 +170,7 @@ vs:
       year: 2010
       draw: Round Robin(8)
       score: AB 9 - SK 5
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:

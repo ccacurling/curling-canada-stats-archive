@@ -2,7 +2,7 @@
 title: Mike McEwen Head-to-head
 name: McEwen, Mike
 vs:
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:
@@ -514,34 +514,6 @@ vs:
       year: 2009
       draw: Round Robin(9)
       score: MCEW 7 - FERB 8
- - name: Neufeld, B.J.
-   totals:
-    - event: Canada Cup (Men)
-      player1:
-        percent: 86
-        wins: 1
-        losses: 0
-      player2:
-        percent: 53
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MCE'
-        position: Fourth
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'GUS'
-        position: Third
-        percent: 53
-        win: 0
-        loss: 1
-      event: Canada Cup (Men)
-      year: 2014
-      draw: Round Robin(2)
-      score: GUS 3 - MCE 9
  - name: Nichols, Mark
    totals:
     - event: Canada Cup (Men)

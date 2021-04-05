@@ -58,7 +58,7 @@ vs:
       year: 1993
       draw: Round Robin(5)
       score: NB 4 - NO 7
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:
@@ -2014,7 +2014,7 @@ vs:
       year: 1981
       draw: Final(19)
       score: NO 4 - MB 5
- - name: Ormbsy, Dan
+ - name: Ormsby, Dan
    totals:
     - event: Brier
       player1:

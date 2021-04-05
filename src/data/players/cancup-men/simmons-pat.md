@@ -156,7 +156,7 @@ vs:
  - Gallant, Brett
  - Gould, Steve
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -186,7 +186,7 @@ vs:
  - Mathers, David
  - McDermot, Ken
  - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Middaugh, Wayne
  - Morris, John
  - Moskowy, Braeden

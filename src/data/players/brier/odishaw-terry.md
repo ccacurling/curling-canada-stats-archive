@@ -132,7 +132,7 @@ vs:
  - Gallant, Brett
  - Gardeski, Larry
  - Gaudet, Mike
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Hamilton, Wayne
  - Harnden, E.J.
@@ -166,7 +166,7 @@ vs:
  - McDonald, Toby
  - McGregor, Ken
  - McInnis, Phillip
- - McLeod, Shadrach
+ - Mcleod, Shadrach
  - Melville, Bruce
  - Middaugh, Wayne
  - Mihalicz, Dwayne

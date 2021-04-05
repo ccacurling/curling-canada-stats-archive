@@ -51,7 +51,7 @@ vs:
  - Flasch, Colton
  - Gallant, Brett
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Koe, Jamie
  - Koe, Kevin
@@ -62,7 +62,7 @@ vs:
  - MacKenzie, Tyler
  - McCarville, Mike
  - McDermaid, Donald
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Morris, John

@@ -43,5 +43,5 @@ vs:
  - Biron, Louis
  - Butler, Ted
  - Lafleur, Andre
- - Lemery, Dan
+ - Lemery, Daniel
 ---

@@ -246,11 +246,11 @@ vs:
    totals:
     - event: Canada Cup (Men)
       player1:
-        percent: 81
+        percent: 83
         wins: 4
         losses: 2
       player2:
-        percent: 84
+        percent: 85
         wins: 2
         losses: 4
    games:
@@ -321,19 +321,19 @@ vs:
     - player1:
         team: 'MOR'
         position: Fourth
-        percent: 76
+        percent: 87
         win: 0
         loss: 1
       player2:
-        team: 'GUS'
+        team: 'MCE'
         position: Third
-        percent: 75
+        percent: 84
         win: 1
         loss: 0
       event: Canada Cup (Men)
       year: 2014
-      draw: Round Robin(4)
-      score: MOR 6 - GUS 8
+      draw: Round Robin(9)
+      score: MCE 7 - MOR 4
     - player1:
         team: 'SIM'
         position: Third

@@ -130,7 +130,7 @@ vs:
  - Gagnon, Jean
  - Golanowski, Rory
  - Gould, Steve
- - Gubbles, Will
+ - Gubbels, Will
  - Harnden, E.J.
  - Harnden, Ryan
  - Henderson, Jeffrey
@@ -146,7 +146,7 @@ vs:
  - Korte, Roger
  - LeCocq, Marc
  - Lemay, Philippe
- - Lemery, Dan
+ - Lemery, Daniel
  - MacDonald, Peter
  - MacDonald, Rod
  - MacInnes, David
@@ -155,7 +155,7 @@ vs:
  - McAulay, Greg
  - McKee, Darrell
  - McPhee, Barry
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Philippe
  - Mihalicz, Dwayne
  - Miki, Bryan

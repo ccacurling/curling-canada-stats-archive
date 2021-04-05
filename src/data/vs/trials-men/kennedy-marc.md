@@ -1750,7 +1750,7 @@ vs:
       year: 2013
       draw: Round Robin(6)
       score: MAR 6 - KOE 5
- - name: Vandenberghe, Garry
+ - name: Van Den Berghe, Garry
    totals:
     - event: Trials(Men)
       player1:

@@ -75,7 +75,7 @@ vs:
  - Gavin, Martin
  - Gould, Steve
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -119,7 +119,7 @@ vs:
  - Shypitka, Tom
  - Simmons, Pat
  - Smith, Kent
- - Solberg, Jonathon
+ - Solberg, Jon
  - Stoughton, Jeff
  - Thiessen, Nolan
  - Vaughan, Jason

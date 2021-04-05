@@ -702,7 +702,7 @@ vs:
       year: 1986
       draw: Round Robin(15)
       score: NO 11 - NS 4
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:
@@ -1490,7 +1490,7 @@ vs:
       year: 1986
       draw: Round Robin(4)
       score: PE 3 - NO 8
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

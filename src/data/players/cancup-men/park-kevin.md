@@ -78,7 +78,7 @@ vs:
  - MacDonald, Blake
  - Martin, Kevin
  - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Melnyk, Brendan
  - Middaugh, Wayne
  - Morris, John

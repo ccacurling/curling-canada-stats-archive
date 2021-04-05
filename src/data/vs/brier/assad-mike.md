@@ -982,7 +982,7 @@ vs:
       year: 2001
       draw: Round Robin(10)
       score: NO 7 - NL 5
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

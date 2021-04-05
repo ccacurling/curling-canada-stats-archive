@@ -63,8 +63,8 @@ vs:
  - Brodersen, Erik
  - Bryant, Doug
  - Bubbs, John
- - Bucyk, James
  - Burgess, Craig
+ - Buyck, James
  - Campbell, Robert
  - Champion, Kevin
  - Cochrane, Bryan
@@ -128,7 +128,7 @@ vs:
  - Scales, Bob
  - Scoffin, Wade
  - Smith, Jeff
- - Solberg, Jonathon
+ - Solberg, Jon
  - Steski, John
  - Stuart, Darol
  - Suchy, Chris

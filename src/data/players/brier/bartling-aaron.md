@@ -69,7 +69,7 @@ years:
    shots-total: 46
    shots-percent: 74
 vs:
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Gallant, Brett
  - Gushue, Brad
  - Hebert, Ben

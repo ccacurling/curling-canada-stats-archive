@@ -95,7 +95,7 @@ vs:
  - Kofoed, Lonnie
  - Lacey, Jeff
  - Lemay, Jean-Yves
- - Lemery, Dan
+ - Lemery, Daniel
  - Lewis, Wayne
  - Loeffler, Ken
  - Loevenmark, Phil
@@ -130,7 +130,7 @@ vs:
  - Ryan, Pat
  - Schleppe, Dave
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Thomas, Jeff
  - Thomas, Rob
  - Trickett, Eugene

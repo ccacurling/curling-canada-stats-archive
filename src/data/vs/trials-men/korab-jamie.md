@@ -566,7 +566,7 @@ vs:
       year: 2005
       draw: Final(23)
       score: STO 7 - GUS 8
- - name: Vandenberghe, Garry
+ - name: Van Den Berghe, Garry
    totals:
     - event: Trials(Men)
       player1:

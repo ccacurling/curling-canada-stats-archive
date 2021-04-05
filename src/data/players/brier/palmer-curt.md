@@ -108,7 +108,7 @@ vs:
  - Gee, Doug
  - Gould, Steve
  - Grattan, James
- - Gubbles, Will
+ - Gubbels, Will
  - Gushue, Brad
  - Harnden, Al
  - Harnden, E.J.
@@ -133,7 +133,7 @@ vs:
  - Laycock, Steve
  - LeCocq, Marc
  - Lemay, Philippe
- - Lemery, Dan
+ - Lemery, Daniel
  - MacDonald, Peter
  - MacDonald, Rod
  - MacInnes, David

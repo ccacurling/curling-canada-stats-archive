@@ -140,8 +140,8 @@ vs:
  - Crete, Martin
  - Crowell, Phil
  - Dobson, Paul
- - Doherty, Robert
- - Dunstone, Matthew
+ - Doherty, Robbie
+ - Dunstone, Matt
  - Epping, John
  - Fecteau, Steve
  - Flasch, Colton
@@ -153,7 +153,7 @@ vs:
  - Gallant, Brett
  - Geall, Sean
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Hagen, Brandon
@@ -188,8 +188,8 @@ vs:
  - Mathers, David
  - McCann, Andy
  - McDonald, Scott
- - McKinnon, Robert
- - McLeod, Shadrach
+ - Mckinnon, Robert
+ - Mcleod, Shadrach
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -225,7 +225,7 @@ vs:
  - Skauge, Greg
  - Smallwood, Robert
  - Smith, Greg
- - Solberg, Jonathon
+ - Solberg, Jon
  - Spencer, Adam
  - Sylvain, Eric
  - Symonds, Andrew

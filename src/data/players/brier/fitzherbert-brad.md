@@ -95,7 +95,7 @@ vs:
  - Lappalainen, Art
  - LeClair, Bob
  - LeCocq, Vance
- - Lemery, Dan
+ - Lemery, Daniel
  - Lohnes, Bruce
  - MacFadyen, Bill
  - MacFadyen, Ted

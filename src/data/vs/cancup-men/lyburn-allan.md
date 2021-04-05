@@ -30,7 +30,7 @@ vs:
       year: 2010
       draw: Round Robin(4)
       score: RFO 6 - KK 7
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:

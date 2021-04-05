@@ -132,7 +132,7 @@ vs:
  - MacDonald, Blake
  - MacKenzie, Kevin
  - McCarrel, Graeme
- - Mead, Jonathan
+ - Mead, Jon
  - Melnyk, Brendan
  - Middaugh, Wayne
  - Moffatt, Paul

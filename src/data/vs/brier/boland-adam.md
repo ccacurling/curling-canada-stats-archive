@@ -226,7 +226,7 @@ vs:
       year: 2021
       draw: Round Robin(7)
       score: NL 4 - NS 11
- - name: Doherty, Robert
+ - name: Doherty, Robbie
    totals:
     - event: Brier
       player1:
@@ -898,7 +898,7 @@ vs:
       year: 2019
       draw: Round Robin(5)
       score: NL 4 - YT 8
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

@@ -534,7 +534,7 @@ vs:
       year: 1997
       draw: Round Robin(15)
       score: NL 3 - NB 5
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:
@@ -802,7 +802,7 @@ vs:
       year: 1997
       draw: Round Robin(7)
       score: NL 10 - BC 4
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -1586,7 +1586,7 @@ vs:
       year: 1997
       draw: Round Robin(13)
       score: NL 3 - TR 6
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

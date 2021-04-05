@@ -125,7 +125,7 @@ vs:
  - Gibson, Andrew
  - Grattan, James
  - Gretzinger, Bert
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Hannah, Brad

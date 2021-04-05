@@ -57,7 +57,6 @@ vs:
  - Iskiw, Blayne
  - Joanisse, Dean
  - Kalthoff, Kevin
- - Keefe, Kevin
  - Lacey, Jeff
  - MacDonald, Peter
  - McCarrel, Graeme
@@ -73,7 +72,7 @@ vs:
  - Rocque, Marcel
  - Ryan, Jeff
  - Scharf, Joe
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Tervo, Randy
  - Tetley, Ian

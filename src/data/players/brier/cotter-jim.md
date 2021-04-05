@@ -230,8 +230,8 @@ vs:
  - Desrosiers, John
  - Dillon, Mike
  - Dobson, Paul
- - Doherty, Robert
- - Dunstone, Matthew
+ - Doherty, Robbie
+ - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
  - Farnell, Jamie
@@ -301,10 +301,10 @@ vs:
  - McDermaid, Donald
  - McDonald, Scott
  - McEwen, Mike
- - McKinnon, Robert
- - McLeod, Shadrach
+ - Mckinnon, Robert
+ - Mcleod, Shadrach
  - Meachem, Shaun Myles
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -354,7 +354,7 @@ vs:
  - St.Louis, David
  - Steele, Colten
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Thiessen, Brad
  - Thiessen, Nolan

@@ -170,7 +170,7 @@ vs:
       year: 2009
       draw: Round Robin(3)
       score: HOWA 2 - MCEW 7
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:

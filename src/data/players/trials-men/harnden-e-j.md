@@ -60,7 +60,7 @@ vs:
  - Dunstone, Matthew
  - Epping, John
  - Gallant, Brett
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Hebert, Ben
  - Hodgson, Colin

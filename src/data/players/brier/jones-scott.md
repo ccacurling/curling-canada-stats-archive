@@ -112,7 +112,7 @@ vs:
  - deConinck-Smith, Carl
  - Deis, Ryan
  - Desjardins, Robert
- - Doherty, Robert
+ - Doherty, Robbie
  - Ferland, Martin
  - Flasch, Colton
  - Folk, Kevin
@@ -122,7 +122,7 @@ vs:
  - Gallant, Peter
  - Gaudet, Mike
  - Gould, Steve
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, Al
  - Harnden, E.J.

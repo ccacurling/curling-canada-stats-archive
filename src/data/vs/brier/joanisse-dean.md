@@ -1082,7 +1082,7 @@ vs:
       year: 2007
       draw: Round Robin(13)
       score: MB 8 - BC 7
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

@@ -79,10 +79,10 @@ vs:
  - Bryant, Doug
  - Bubbs, John
  - Buckle, Andrew
- - Bucyk, James
  - Burgess, Bryan
  - Burtnyk, Kerry
  - Butler, Mark
+ - Buyck, James
  - Campbell, Robert
  - Champion, Kevin
  - Chorostkowski, Brad
@@ -178,7 +178,7 @@ vs:
  - Scharf, Joe
  - Smith, Dave
  - Steski, John
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Tervo, Randy
  - Tetley, Ian

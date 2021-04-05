@@ -78,7 +78,7 @@ vs:
  - Adams, Kevin
  - Alexander, Trevor
  - Allan, John
- - Balderson, Dennis
+ - Balderston, Dennis
  - Berner, Ken
  - Bradley, Mike
  - Breckenridge, Harold
@@ -183,7 +183,7 @@ vs:
  - Smith, Garth
  - Spencer, Jim
  - Stewart, Alexander
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Sylvain, Eric
  - Tetley, Ian

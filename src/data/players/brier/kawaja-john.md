@@ -115,7 +115,7 @@ vs:
  - Andrews, Robert
  - Armstrong, Jim
  - Armstrong, Mark
- - Balderson, Dennis
+ - Balderston, Dennis
  - Barrette, Yves
  - Bartlett, Don
  - Bauer, Keiven
@@ -206,7 +206,7 @@ vs:
  - Lauziere, Claude
  - Lawrence, Harry
  - Ledgerwood, Allan
- - Lemery, Dan
+ - Lemery, Daniel
  - Lepine, Craig
  - Loeffler, Ken
  - Lohnes, Bruce
@@ -246,7 +246,7 @@ vs:
  - Odian, Scott
  - Ogden, Steve
  - Oke, Gary
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Packet, Jim
  - Pacquin, Rolland
@@ -282,7 +282,7 @@ vs:
  - Strain, Bill
  - Strang, Don
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Charlie
  - Sullivan, Dave
  - Sullivan, Jim

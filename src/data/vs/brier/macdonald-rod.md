@@ -318,7 +318,7 @@ vs:
       year: 1996
       draw: Round Robin(14)
       score: PE 8 - BC 5
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -652,6 +652,34 @@ vs:
         team: 'TR'
         position: Third
         percent: 79
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2005
+      draw: Round Robin(7)
+      score: TR 4 - PE 5
+ - name: Moss, Steve
+   totals:
+    - event: Brier
+      player1:
+        percent: 69
+        wins: 1
+        losses: 0
+      player2:
+        percent: 71
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Fourth
+        percent: 69
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 71
         win: 0
         loss: 1
       event: Brier
@@ -2110,7 +2138,7 @@ vs:
       year: 1996
       draw: Round Robin(7)
       score: ON 6 - PE 7
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

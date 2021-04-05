@@ -45,12 +45,12 @@ vs:
  - Chorostkowski, Brad
  - Cotter, Jim
  - Crete, Martin
- - Doherty, Robert
+ - Doherty, Robbie
  - Eldridge, Zach
  - Flasch, Colton
  - Fry, Ryan
  - Gallant, Brett
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan

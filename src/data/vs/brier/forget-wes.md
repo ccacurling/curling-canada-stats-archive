@@ -58,7 +58,7 @@ vs:
       year: 2019
       draw: Round Robin(2)
       score: CA 7 - ON 6
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:
@@ -534,7 +534,7 @@ vs:
       year: 2019
       draw: Pool(18)
       score: MB 8 - ON 4
- - name: McLeod, Shadrach
+ - name: Mcleod, Shadrach
    totals:
     - event: Brier
       player1:

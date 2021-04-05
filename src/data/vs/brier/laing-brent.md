@@ -1686,7 +1686,7 @@ vs:
       year: 2010
       draw: Round Robin(10)
       score: ON 9 - SK 5
- - name: McLeod, Shadrach
+ - name: Mcleod, Shadrach
    totals:
     - event: Brier
       player1:
@@ -1722,7 +1722,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 95
+        percent: 99
         wins: 0
         losses: 1
    games:
@@ -1734,15 +1734,15 @@ vs:
         loss: 0
       player2:
         team: 'SK'
-        position: Third
-        percent: 95
+        position: Second
+        percent: 99
         win: 0
         loss: 1
       event: Brier
       year: 2017
       draw: Round Robin(12)
       score: CA 8 - SK 7
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -5746,7 +5746,7 @@ vs:
         wins: 2
         losses: 0
       player2:
-        percent: 86
+        percent: 83
         wins: 0
         losses: 2
    games:
@@ -5774,8 +5774,8 @@ vs:
         loss: 0
       player2:
         team: 'NS'
-        position: Lead
-        percent: 93
+        position: Second
+        percent: 100
         win: 0
         loss: 1
       event: Brier
@@ -5810,7 +5810,7 @@ vs:
       year: 2021
       draw: Round Robin(17)
       score: PE 4 - ON 8
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -6138,7 +6138,7 @@ vs:
       year: 2002
       draw: Round Robin(4)
       score: MB 10 - ON 8
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

@@ -7,13 +7,13 @@ totals:
    games: 11
    wins: 3
    losses: 8
-   inturn-total: 111
-   inturn-percent: 83
-   outturn-total: 103
-   outturn-percent: 79
-   draw-total: 110
-   draw-percent: 78
-   takeout-total: 104
+   inturn-total: 103
+   inturn-percent: 81
+   outturn-total: 111
+   outturn-percent: 82
+   draw-total: 105
+   draw-percent: 79
+   takeout-total: 109
    takeout-percent: 84
    shots-total: 214
    shots-percent: 81
@@ -21,23 +21,23 @@ years:
  - year: 2003
    event: Brier
    team: "MB"
-   position: Third
+   position: Second
    games: 11
    wins: 3
    losses: 8
-   inturn-total: 111
-   inturn-percent: 83
-   outturn-total: 103
-   outturn-percent: 79
-   draw-total: 110
-   draw-percent: 78
-   takeout-total: 104
+   inturn-total: 103
+   inturn-percent: 81
+   outturn-total: 111
+   outturn-percent: 82
+   draw-total: 105
+   draw-percent: 79
+   takeout-total: 109
    takeout-percent: 84
    shots-total: 214
    shots-percent: 81
 vs:
  - Bryant, Doug
- - Bucyk, James
+ - Buyck, James
  - Campbell, Robert
  - Champion, Kevin
  - Cochrane, Bryan

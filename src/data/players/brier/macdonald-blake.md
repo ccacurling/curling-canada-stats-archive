@@ -161,7 +161,7 @@ vs:
  - Markowsky, Rob
  - McClelland, John
  - McKee, Darrell
- - Mead, Jonathan
+ - Mead, Jon
  - Mellof, Dave
  - Moffatt, Rich
  - Munroe, Steven

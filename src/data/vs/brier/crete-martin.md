@@ -186,7 +186,7 @@ vs:
       year: 2008
       draw: Round Robin(13)
       score: QC 8 - PE 2
- - name: Doherty, Robert
+ - name: Doherty, Robbie
    totals:
     - event: Brier
       player1:
@@ -246,7 +246,7 @@ vs:
       year: 2019
       draw: Round Robin(9)
       score: QC 8 - PE 5
- - name: Dunstone, Matthew
+ - name: Dunstone, Matt
    totals:
     - event: Brier
       player1:
@@ -1138,7 +1138,7 @@ vs:
       year: 2014
       draw: Round Robin(10)
       score: QC 8 - NB 10
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:
@@ -4014,7 +4014,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 84
+        percent: 83
         wins: 0
         losses: 1
    games:
@@ -4026,15 +4026,15 @@ vs:
         loss: 0
       player2:
         team: 'SK'
-        position: Third
-        percent: 84
+        position: Second
+        percent: 83
         win: 0
         loss: 1
       event: Brier
       year: 2017
       draw: Round Robin(6)
       score: SK 3 - QC 8
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -6206,34 +6206,6 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: QC 7 - NL 6
- - name: Smith, Kent
-   totals:
-    - event: Brier
-      player1:
-        percent: 96
-        wins: 1
-        losses: 0
-      player2:
-        percent: 86
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent: 96
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Lead
-        percent: 86
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2013
-      draw: Round Robin(12)
-      score: NS 5 - QC 8
  - name: Smith, Tyler
    totals:
     - event: Brier
@@ -6262,7 +6234,7 @@ vs:
       year: 2021
       draw: Round Robin(7)
       score: PE 4 - QC 10
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

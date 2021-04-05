@@ -177,12 +177,12 @@ vs:
  - Brophy, Marc
  - Bryant, Doug
  - Bubbs, John
- - Bucyk, James
  - Burgess, Bryan
  - Burgess, Craig
  - Burnett, Steve
  - Burtnyk, Kerry
  - Butler, Mark
+ - Buyck, James
  - Campbell, Robert
  - Carstairs, Kent
  - Cayouette, Maurice
@@ -275,7 +275,7 @@ vs:
  - Joanisse, Dean
  - Journeaux, Ian
  - Kalthoff, Kevin
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kammerlock, Ron
  - Kamp, Ragnar
  - Kapicki, Ron
@@ -348,7 +348,7 @@ vs:
  - O'Rourke, Mark
  - Ouimet, Luc
  - Packet, Jim
- - Peachy, Jay
+ - Peachey, Jay
  - Perry, Randy
  - Phillips, Tim
  - Pielak, Rod
@@ -390,7 +390,7 @@ vs:
  - Smith, Doug-2
  - Smith, Jeff
  - Snell, Brian
- - Solberg, Jonathon
+ - Solberg, Jon
  - Soparlo, Murray
  - Sosiak, Jim
  - Sparkes, Bernie
@@ -401,7 +401,7 @@ vs:
  - Strain, Bill
  - Stuart, Darol
  - Suchy, Chris
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Evan
  - Sullivan, Jim
  - Sumner, Kevin

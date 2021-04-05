@@ -78,7 +78,7 @@ vs:
  - Gallant, Brett
  - Gaudet, Mike
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -99,7 +99,7 @@ vs:
  - Manners, Scott
  - McCann, Andy
  - McCarville, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne

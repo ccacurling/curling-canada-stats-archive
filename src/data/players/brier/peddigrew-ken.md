@@ -133,7 +133,7 @@ vs:
  - MacPherson, Bryan
  - Martin, Kevin
  - McClelland, John
- - Mead, Jonathan
+ - Mead, Jon
  - Meakin, Rob
  - Mellof, Dave
  - Menard, Jean-Michel
@@ -141,7 +141,7 @@ vs:
  - Mimeault, Greg
  - Nelson, Randy
  - Odian, Scott
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Pahl, James
  - Park, Kevin

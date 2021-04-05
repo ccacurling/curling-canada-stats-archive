@@ -58,7 +58,7 @@ vs:
  - Martin, Kevin
  - McAulay, Greg
  - McKee, Darrell
- - Mead, Jonathan
+ - Mead, Jon
  - Miki, Bryan
  - Odishaw, Grant
  - Perron, Rick

@@ -62,7 +62,7 @@ vs:
  - Bourque, Don
  - Brown, Ken
  - Butler, Mark
- - Campbell, Bill Jr
+ - Campbell, Bill Jr.
  - Campbell, Robert
  - Carey, Dan
  - Carstairs, Kent
@@ -92,7 +92,7 @@ vs:
  - Kuroyama, Robert
  - Lacey, Jeff
  - LaRocque, Guy
- - Lemery, Dan
+ - Lemery, Daniel
  - Loeffler, Ken
  - Lukowich, Ed
  - MacDonald, Doug
@@ -119,7 +119,7 @@ vs:
  - Robinson, Bill
  - Schleppe, Dave
  - Somers, Grant
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sweete, Don
  - Syme, Brent
  - Thomas, Jeff

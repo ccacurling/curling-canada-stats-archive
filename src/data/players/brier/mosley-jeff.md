@@ -55,7 +55,7 @@ vs:
  - Kawaja, John
  - Kofoed, Lonnie
  - Lacey, Jeff
- - Lemery, Dan
+ - Lemery, Daniel
  - MacLeod, Kris
  - Martin, Kevin
  - McGowan, Nolin
@@ -71,7 +71,7 @@ vs:
  - Robinson, Bill
  - Schleppe, Dave
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Walchuk, Don
  - Werenich, Ed
  - Westphal, Don

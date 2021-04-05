@@ -55,7 +55,7 @@ vs:
  - Howard, Glenn
  - Howard, Russ
  - Jackson, Glenn
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kapicki, Ron
  - Kennedy, Bruce
  - Krupski, Gary

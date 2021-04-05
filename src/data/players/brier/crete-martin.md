@@ -241,8 +241,8 @@ vs:
  - Daneault, Richard
  - Darragh, Alan
  - Desrosiers, John
- - Doherty, Robert
- - Dunstone, Matthew
+ - Doherty, Robbie
+ - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
  - Errington, Derek
@@ -263,7 +263,7 @@ vs:
  - Gould, Steve
  - Granchelli, Kris
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -319,7 +319,7 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - Meachem, Shaun Myles
- - Mead, Jonathan
+ - Mead, Jon
  - Middaugh, Wayne
  - Mittelstadt, Kelly
  - Morris, John
@@ -364,9 +364,8 @@ vs:
  - Smallwood, Robert
  - Smith, Garth
  - Smith, Greg
- - Smith, Kent
  - Smith, Tyler
- - Solberg, Jonathon
+ - Solberg, Jon
  - Spencer, Adam
  - St.Louis, Brady
  - Stoughton, Jeff

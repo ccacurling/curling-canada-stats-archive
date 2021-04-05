@@ -842,7 +842,7 @@ vs:
       year: 1990
       draw: Round Robin(10)
       score: SK 5 - AB 4
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

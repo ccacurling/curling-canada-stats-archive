@@ -90,7 +90,7 @@ vs:
  - Jackson, Glenn
  - Johannesson, Harold
  - Journeaux, Ian
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kapicki, Ron
  - Kawaja, John
  - Kennedy, Bruce

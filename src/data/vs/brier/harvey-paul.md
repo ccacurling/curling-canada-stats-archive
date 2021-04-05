@@ -338,7 +338,7 @@ vs:
       year: 1995
       draw: Round Robin(15)
       score: NL 6 - TR 5
- - name: Ormbsy, Dan
+ - name: Ormsby, Dan
    totals:
     - event: Brier
       player1:

@@ -88,7 +88,7 @@ vs:
  - Hart, Richard
  - Hebert, Ben
  - Hicke, Dean
- - Hollowaychuk, Dan
+ - Holowaychuk, Dan
  - Horning, Deane
  - Howard, Glenn
  - Howard, Russ
@@ -110,6 +110,7 @@ vs:
  - Mittelstadt, Kelly
  - Morris, John
  - Moshenko, Darcy
+ - Moss, Steve
  - Nedohin, David
  - Nichols, Mark
  - Nobert, Rob
@@ -129,7 +130,7 @@ vs:
  - Schmidt, Aryn
  - Sharp, Jeff
  - Simmons, Pat
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Stoughton, Jeff
  - Sylvain, Eric

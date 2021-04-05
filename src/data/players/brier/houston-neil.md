@@ -101,7 +101,7 @@ vs:
  - Bothamley, Doug
  - Bourque, Don
  - Bryden, Gary
- - Campbell, Bill Jr
+ - Campbell, Bill Jr.
  - Carr, Brian
  - Carstairs, Kent
  - Cecil, Denis

@@ -96,7 +96,7 @@ vs:
  - McAulay, Greg
  - McCusker, Brian
  - McKee, Darrell
- - Mead, Jonathan
+ - Mead, Jon
  - Miki, Bryan
  - Mikkelsen, Ray
  - Milward, Ross
@@ -123,7 +123,7 @@ vs:
  - Savill, Craig
  - Scales, Brian
  - Scoffin, Wade
- - Solberg, Jonathon
+ - Solberg, Jon
  - Stoughton, Jeff
  - Stuart, Darol
  - Suchy, Chris

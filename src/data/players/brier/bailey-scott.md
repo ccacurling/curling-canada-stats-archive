@@ -170,10 +170,10 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Sinclair, Rob
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Spencer, Jim
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Sullivan, Tommy
  - Sylvain, Eric

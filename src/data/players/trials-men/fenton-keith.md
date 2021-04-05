@@ -108,7 +108,7 @@ vs:
  - Tetley, Ian
  - Tresoor, Ken
  - Ursel, Bob
- - Vandenberghe, Garry
+ - Van Den Berghe, Garry
  - Walchuk, Don
  - Werenich, Ed
  - Whittle, Mark

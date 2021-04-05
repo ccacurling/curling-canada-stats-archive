@@ -143,7 +143,7 @@ vs:
  - Tetley, Ian
  - Thiessen, Nolan
  - Ursel, Bob
- - Vandenberghe, Garry
+ - Van Den Berghe, Garry
  - Walchuk, Don
  - Whittle, Mark
  - Zawada, Braden

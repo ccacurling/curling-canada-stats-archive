@@ -78,7 +78,7 @@ vs:
  - Golanowski, Rory
  - Gordon, Robbie
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Hardy, Gord
  - Harnden, E.J.
@@ -86,7 +86,7 @@ vs:
  - Harris, Mike
  - Harris, Rob
  - Harris, Tyler
- - Hollowaychuk, Dan
+ - Holowaychuk, Dan
  - Howard, Glenn
  - Howard, Russ
  - Howard, Scott
@@ -114,14 +114,13 @@ vs:
  - McDermaid, Donald
  - Middaugh, Wayne
  - Molloy, Pat
- - Moss, Steve
  - Murphy, Jamie
  - Naugler, Tom
  - Nedohin, David
  - Nichols, Mark
  - Odishaw, Grant
  - Odishaw, Terry
- - Peachy, Jay
+ - Peachey, Jay
  - Pfeifer, Scott
  - Pinder, Jordan
  - Recksiedler, Kevin

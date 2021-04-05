@@ -124,7 +124,7 @@ vs:
  - Kennedy, Mike
  - Lafleur, Andre
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - MacDonald, Peter
  - MacDonald, Rod
  - MacFadyen, Bill

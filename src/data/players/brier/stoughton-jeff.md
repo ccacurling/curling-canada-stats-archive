@@ -303,9 +303,9 @@ vs:
  - Granchelli, Kris
  - Grattan, James
  - Gretzinger, Bert
- - Griffith, Ty
+ - Griffith, Tyrel
  - Grundy, John
- - Gubbles, Will
+ - Gubbels, Will
  - Gushue, Brad
  - Haichert, Chris
  - Haines, Chuck
@@ -364,7 +364,7 @@ vs:
  - Ledgerwood, Sean
  - LeDrew, Ryan
  - Lemay, Philippe
- - Lemery, Dan
+ - Lemery, Daniel
  - Loevenmark, Phil
  - Lohnes, Bruce
  - Lowe, Wayne
@@ -471,9 +471,9 @@ vs:
  - Smith, Donnie
  - Smith, Kent
  - Smyth, Larry
- - Solberg, Jonathon
+ - Solberg, Jon
  - Somers, Grant
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Evan
  - Sveistrup, Jody
  - Sylvain, Eric

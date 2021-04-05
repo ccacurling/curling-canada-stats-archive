@@ -7,34 +7,34 @@ totals:
    games: 4
    wins: 2
    losses: 2
-   inturn-total: 43
-   inturn-percent: 90
-   outturn-total: 35
-   outturn-percent: 91
-   draw-total: 69
-   draw-percent: 92
-   takeout-total: 9
-   takeout-percent: 81
-   shots-total: 78
-   shots-percent: 90
+   inturn-total: 41
+   inturn-percent: 77
+   outturn-total: 36
+   outturn-percent: 79
+   draw-total: 37
+   draw-percent: 80
+   takeout-total: 40
+   takeout-percent: 77
+   shots-total: 77
+   shots-percent: 78
 years:
  - year: 2003
    event: Canada Cup (Men)
    team: "Humb"
-   position: Lead
+   position: Fourth
    games: 4
    wins: 2
    losses: 2
-   inturn-total: 43
-   inturn-percent: 90
-   outturn-total: 35
-   outturn-percent: 91
-   draw-total: 69
-   draw-percent: 92
-   takeout-total: 9
-   takeout-percent: 81
-   shots-total: 78
-   shots-percent: 90
+   inturn-total: 41
+   inturn-percent: 77
+   outturn-total: 36
+   outturn-percent: 79
+   draw-total: 37
+   draw-percent: 80
+   takeout-total: 40
+   takeout-percent: 77
+   shots-total: 77
+   shots-percent: 78
 vs:
  - Adams, Shawn
  - Blanchard, Ben

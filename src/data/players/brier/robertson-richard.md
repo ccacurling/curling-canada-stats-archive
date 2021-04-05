@@ -98,7 +98,7 @@ vs:
  - Adams, Jim
  - Adams, Steve
  - Allan, John
- - Balderson, Dennis
+ - Balderston, Dennis
  - Bartlett, Don
  - Biron, Louis
  - Brackett, James
@@ -147,7 +147,7 @@ vs:
  - Graham, Ross
  - Gretzinger, Bert
  - Grundy, John
- - Gubbles, Will
+ - Gubbels, Will
  - Hackner, Al
  - Hakansson, Thomas
  - Harnden, Al
@@ -174,7 +174,7 @@ vs:
  - Lappalainen, Art
  - LeClair, Bob
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - Lepine, Craig
  - MacDonald, Peter
  - MacDonald, Rod
@@ -233,7 +233,7 @@ vs:
  - Spencer, Jim
  - Steventon, Lawren
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Tetley, Ian
  - Tetley, Ross

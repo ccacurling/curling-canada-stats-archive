@@ -254,7 +254,7 @@ vs:
       year: 2006
       draw: Round Robin(12)
       score: AB 7 - BC 1
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:

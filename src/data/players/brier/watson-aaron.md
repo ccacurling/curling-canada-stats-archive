@@ -64,7 +64,7 @@ vs:
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - Martin, Kevin
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -77,7 +77,6 @@ vs:
  - Roach, Jason
  - Savill, Craig
  - Schille, Chris
- - Smith, Kent
  - Stoughton, Jeff
  - Sylvain, Eric
  - Virtue, Brock

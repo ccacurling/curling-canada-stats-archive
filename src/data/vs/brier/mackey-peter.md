@@ -186,7 +186,7 @@ vs:
       year: 2021
       draw: Round Robin(15)
       score: NS 14 - NU 1
- - name: McLeod, Shadrach
+ - name: Mcleod, Shadrach
    totals:
     - event: Brier
       player1:

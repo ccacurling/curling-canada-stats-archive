@@ -62,7 +62,7 @@ vs:
  - Kawaja, John
  - Kerr, Ian
  - Lacey, Jeff
- - Lemery, Dan
+ - Lemery, Daniel
  - Loeffler, Ken
  - MacLeod, Kris
  - Martin, Kevin
@@ -78,7 +78,7 @@ vs:
  - Ramcharan, Rudy
  - Robinson, Bill
  - Schleppe, Dave
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Thomas, Jeff
  - Walchuk, Don
  - Werenich, Ed

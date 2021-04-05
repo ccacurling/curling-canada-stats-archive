@@ -70,6 +70,6 @@ vs:
  - Stoughton, Jeff
  - Sveistrup, Jody
  - Tetley, Ian
- - Vandenberghe, Garry
+ - Van Den Berghe, Garry
  - Walchuk, Don
 ---

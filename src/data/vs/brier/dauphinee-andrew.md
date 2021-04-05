@@ -1506,7 +1506,7 @@ vs:
       year: 1998
       draw: Round Robin(1)
       score: PE 3 - NS 9
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:

@@ -2030,7 +2030,7 @@ vs:
       year: 2010
       draw: Round Robin(12)
       score: PE 8 - NS 10
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -2178,7 +2178,7 @@ vs:
       year: 1997
       draw: Round Robin(8)
       score: TR 4 - PE 11
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

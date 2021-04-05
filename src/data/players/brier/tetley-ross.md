@@ -91,7 +91,7 @@ vs:
  - Kijewski, Kelly
  - LeClair, Bob
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - MacLean, Rob
  - Martin, Kevin
  - Mayne, Dave

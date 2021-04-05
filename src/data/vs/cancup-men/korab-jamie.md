@@ -174,7 +174,7 @@ vs:
       year: 2009
       draw: Round Robin(6)
       score: GUSH 5 - MCEW 8
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:

@@ -156,9 +156,9 @@ vs:
  - Borden, Robert
  - Bryant, Doug
  - Bubbs, John
- - Bucyk, James
  - Burgess, Craig
  - Burnett, Steve
+ - Buyck, James
  - Campbell, Robert
  - Case, Peter
  - Cayouette, Maurice
@@ -284,7 +284,7 @@ vs:
  - Ouimet, Luc
  - Palmer, Curt
  - Park, Kevin
- - Peachy, Jay
+ - Peachey, Jay
  - Pfeifer, Scott
  - Pielak, Rod
  - Pierce, Brent
@@ -309,7 +309,7 @@ vs:
  - Simmons, Pat
  - Skauge, Greg
  - Smith, Kent
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Spicer, Grant
  - Steski, John

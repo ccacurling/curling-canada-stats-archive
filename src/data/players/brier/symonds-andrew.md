@@ -61,7 +61,7 @@ vs:
  - Carruthers, Reid
  - Crete, Martin
  - Dillon, Mike
- - Doherty, Robert
+ - Doherty, Robbie
  - Fry, Ryan
  - Gaudet, Mike
  - Harnden, E.J.
@@ -84,7 +84,7 @@ vs:
  - Odian, Scott
  - Samagalski, Derek
  - Smallwood, Robert
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sylvain, Eric
  - Thiessen, Brad
 ---

@@ -110,8 +110,8 @@ vs:
  - Bouchard, Christian
  - Bryant, Doug
  - Bubbs, John
- - Bucyk, James
  - Burnett, Steve
+ - Buyck, James
  - Campbell, Robert
  - Carruthers, Reid
  - Case, Peter
@@ -197,14 +197,13 @@ vs:
  - MacKenzie, Kevin
  - Martin, Kevin
  - Maskiewich, Ken
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Millar, Colin
  - Milward, Ross
  - Molloy, Pat
  - Morris, John
- - Moss, Steve
  - Muyres, Dallan
  - Nason, Paul
  - Naugler, Tom
@@ -218,7 +217,7 @@ vs:
  - O'Rourke, Mark
  - Ouimet, Luc
  - Park, Kevin
- - Peachy, Jay
+ - Peachey, Jay
  - Peddigrew, Ken
  - Pfeifer, Scott
  - Pierce, Brent
@@ -238,11 +237,11 @@ vs:
  - Seabrook, Scott
  - Sharp, Jeff
  - Simmons, Pat
- - Solberg, Jonathon
+ - Solberg, Jon
  - Spicer, Grant
  - Steski, John
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Evan
  - Sumner, Kevin
  - Sylvain, Eric

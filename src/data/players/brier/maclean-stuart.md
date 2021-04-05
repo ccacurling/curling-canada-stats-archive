@@ -211,7 +211,7 @@ vs:
  - Shypitka, Tom
  - Simmons, Pat
  - Smith, Doug-1
- - Solberg, Jonathon
+ - Solberg, Jon
  - Soparlo, Murray
  - Spencer, Jim
  - Steventon, Lawren

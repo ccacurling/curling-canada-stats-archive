@@ -57,7 +57,7 @@ vs:
  - Allan, John
  - Belliveau, Dan
  - Bryant, Doug
- - Bucyk, James
+ - Buyck, James
  - Campbell, Robert
  - Carruthers, Bob
  - Carter, Andrew

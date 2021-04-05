@@ -290,7 +290,7 @@ vs:
  - Lang, Lloyd
  - LeClair, Bob
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - Lenz, Cliff
  - Likely, John
  - Logan, Mel
@@ -349,7 +349,7 @@ vs:
  - Oke, Gary
  - O'Leary, Alan
  - Olson, Mark-1
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Pahl, James
  - Palk, Shelly

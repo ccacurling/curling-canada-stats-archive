@@ -2,7 +2,7 @@
 title: Donald McDermaid Head-to-head
 name: McDermaid, Donald
 vs:
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:

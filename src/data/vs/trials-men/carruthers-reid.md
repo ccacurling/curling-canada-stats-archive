@@ -190,7 +190,7 @@ vs:
       year: 2017
       draw: Round Robin(11)
       score: Gush 9 - Carr 5
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Trials(Men)
       player1:

@@ -95,7 +95,7 @@ vs:
  - Allan, John
  - Armstrong, Doug
  - Assad, Mike
- - Balderson, Dennis
+ - Balderston, Dennis
  - Belliveau, Dan
  - Bradley, Mike
  - Breckenridge, Harold
@@ -226,7 +226,7 @@ vs:
  - Sinclair, Rob
  - Spencer, Jim
  - Strain, Bill
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Sullivan, Tommy
  - Sutherland, Cy

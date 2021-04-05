@@ -346,7 +346,7 @@ vs:
       year: 2001
       draw: Semi-Final(10)
       score: BUR 8 - GRE 6
- - name: Vandenberghe, Garry
+ - name: Van Den Berghe, Garry
    totals:
     - event: Trials(Men)
       player1:

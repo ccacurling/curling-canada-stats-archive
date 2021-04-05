@@ -1126,7 +1126,7 @@ vs:
       year: 2018
       draw: Round Robin(4)
       score: Carr 4 - Jaco 5
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:
@@ -1518,13 +1518,13 @@ vs:
    totals:
     - event: Canada Cup (Men)
       player1:
-        percent: 86
-        wins: 1
+        percent: 88
+        wins: 2
         losses: 4
       player2:
-        percent: 87
+        percent: 90
         wins: 4
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'JAC'
@@ -1545,19 +1545,35 @@ vs:
     - player1:
         team: 'JAC'
         position: Lead
-        percent: 81
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCE'
+        position: Third
+        percent: 89
+        win: 0
+        loss: 1
+      event: Canada Cup (Men)
+      year: 2014
+      draw: Round Robin(7)
+      score: MCE 5 - JAC 7
+    - player1:
+        team: 'JAC'
+        position: Lead
+        percent: 94
         win: 0
         loss: 1
       player2:
-        team: 'GUS'
+        team: 'MCE'
         position: Third
-        percent: 84
+        percent: 100
         win: 1
         loss: 0
       event: Canada Cup (Men)
       year: 2014
-      draw: Round Robin(5)
-      score: JAC 4 - GUS 5
+      draw: Final(11)
+      score: MCE 8 - JAC 3
     - player1:
         team: 'JAC'
         position: Lead

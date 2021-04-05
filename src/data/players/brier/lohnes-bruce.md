@@ -155,11 +155,11 @@ vs:
  - Brophy, Marc
  - Bryant, Doug
  - Bubbs, John
- - Bucyk, James
  - Burnett, Steve
  - Burtnyk, Kerry
  - Butler, Mark
  - Butler, Ted
+ - Buyck, James
  - Campbell, Robert
  - Carey, Dan
  - Carstairs, Kent
@@ -267,7 +267,7 @@ vs:
  - Ledgerwood, Sean
  - LeDrew, Ryan
  - Leech, Ron
- - Lemery, Dan
+ - Lemery, Daniel
  - Lindsay, Tim
  - Loevenmark, Phil
  - MacAulay, Ian
@@ -280,7 +280,7 @@ vs:
  - MacPherson, Bryan
  - Martin, Kevin
  - McKenzie, Donald
- - Mead, Jonathan
+ - Mead, Jon
  - Meakin, Rob
  - Meleschuk, Orest
  - Meleschuk, Sean
@@ -303,13 +303,13 @@ vs:
  - Odian, Scott
  - Odishaw, Grant
  - Olson, Mark-2
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Ouimet, Luc
  - Packet, Jim
  - Pahl, James
  - Park, Kevin
- - Peachy, Jay
+ - Peachey, Jay
  - Peddigrew, Ken
  - Perroud, Pat
  - Peters, Vic
@@ -343,7 +343,7 @@ vs:
  - Skillen, Aaron
  - Smith, Alex
  - Smith, Doug-2
- - Solberg, Jonathon
+ - Solberg, Jon
  - Spicer, Grant
  - Steski, John
  - Stoughton, Jeff

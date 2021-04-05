@@ -54,7 +54,6 @@ vs:
  - Gushue, Brad
  - Haichert, Chris
  - Hebert, Ben
- - Horning, Deane
  - Jakubo, Mike
  - Kilgallen, Shane
  - Korab, Jamie
@@ -65,6 +64,7 @@ vs:
  - Middaugh, Wayne
  - Mittelstadt, Kelly
  - Moshenko, Darcy
+ - Moss, Steve
  - Nedohin, David
  - Nichols, Mark
  - Ouimet, Luc
@@ -76,7 +76,7 @@ vs:
  - Ryan, Keith
  - Sharp, Jeff
  - Simmons, Pat
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Sylvain, Eric
  - Toner, Lee

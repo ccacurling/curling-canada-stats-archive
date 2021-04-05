@@ -134,7 +134,7 @@ vs:
  - Gould, Steve
  - Gretzinger, Bert
  - Grundy, John
- - Gubbles, Will
+ - Gubbels, Will
  - Haines, Chuck
  - Hemmings, Guy
  - Henderson, Jeffrey
@@ -157,7 +157,7 @@ vs:
  - Korte, Roger
  - Lang, Rick
  - Lappalainen, Art
- - Lemery, Dan
+ - Lemery, Daniel
  - Loevenmark, Phil
  - Lowe, Wayne
  - MacDonald, Blake
@@ -176,7 +176,7 @@ vs:
  - McHargue, Ken
  - McKee, Darrell
  - McPhee, Barry
- - Mead, Jonathan
+ - Mead, Jon
  - Mellof, Dave
  - Middaugh, Wayne
  - Mihalicz, Dwayne

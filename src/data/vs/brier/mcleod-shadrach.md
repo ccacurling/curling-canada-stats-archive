@@ -1,6 +1,6 @@
 ---
-title: Shadrach McLeod Head-to-head
-name: McLeod, Shadrach
+title: Shadrach Mcleod Head-to-head
+name: Mcleod, Shadrach
 vs:
  - name: Moskowy, Braeden
    totals:

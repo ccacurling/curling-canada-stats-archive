@@ -116,7 +116,7 @@ vs:
  - Chorostkowski, Brad
  - Crowell, Phil
  - Dobson, Paul
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Fecteau, Steve
  - Flasch, Colton
@@ -148,8 +148,8 @@ vs:
  - Mathers, David
  - McCann, Andy
  - McEwen, Mike
- - McKinnon, Robert
- - McLeod, Shadrach
+ - Mckinnon, Robert
+ - Mcleod, Shadrach
  - Middaugh, Wayne
  - Mikkelsen, Dustin
  - Moskowy, Braeden

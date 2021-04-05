@@ -241,7 +241,7 @@ vs:
  - Grant, Scott
  - Grattan, James
  - Gretzinger, Bert
- - Gubbles, Will
+ - Gubbels, Will
  - Hackner, Al
  - Haichert, Chris
  - Hakansson, Thomas
@@ -273,7 +273,7 @@ vs:
  - Johnson, Bill
  - Josephson, Glenn
  - Journeaux, Ian
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kammerlock, Ron
  - Kamp, Ragnar
  - Kapicki, Ron
@@ -297,7 +297,7 @@ vs:
  - Lang, Rick
  - LeCocq, Marc
  - LeDrew, Ryan
- - Lemery, Dan
+ - Lemery, Daniel
  - Lenz, Cliff
  - Likely, John
  - Loeffler, Ken
@@ -324,7 +324,7 @@ vs:
  - McGowan, Nolin
  - McKee, Darrell
  - McPhee, Barry
- - Mead, Jonathan
+ - Mead, Jon
  - Meger, Doug
  - Meleschuk, Orest
  - Meleschuk, Sean
@@ -409,7 +409,7 @@ vs:
  - Stoughton, Jeff
  - Strain, Bill
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Evan
  - Sutherland, Cy
  - Sveistrup, Jody

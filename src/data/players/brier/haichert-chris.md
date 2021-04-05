@@ -101,11 +101,12 @@ vs:
  - MacLean, Stuart
  - Martin, Kevin
  - McCarrel, Graeme
- - Mead, Jonathan
+ - Mead, Jon
  - Melnichuk, Greg
  - Menard, Jean-Michel
  - Middaugh, Wayne
  - Moshenko, Darcy
+ - Moss, Steve
  - Nedohin, David
  - Nelson, Randy
  - Nichols, Mark
@@ -121,7 +122,7 @@ vs:
  - Ryan, Keith
  - Rycroft, Carter
  - Savill, Craig
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Stoughton, Jeff
  - Sylvain, Eric

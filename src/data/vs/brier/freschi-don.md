@@ -114,34 +114,6 @@ vs:
       year: 2005
       draw: Round Robin(4)
       score: BC 6 - SK 4
- - name: Horning, Deane
-   totals:
-    - event: Brier
-      player1:
-        percent: 78
-        wins: 1
-        losses: 0
-      player2:
-        percent: 78
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'BC'
-        position: Second
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Fourth
-        percent: 78
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2005
-      draw: Round Robin(10)
-      score: NL 6 - BC 7
  - name: Jakubo, Mike
    totals:
     - event: Brier
@@ -178,7 +150,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 75
+        percent: 51
         wins: 1
         losses: 0
    games:
@@ -190,8 +162,8 @@ vs:
         loss: 1
       player2:
         team: 'MB'
-        position: Fourth
-        percent: 75
+        position: Lead
+        percent: 51
         win: 1
         loss: 0
       event: Brier
@@ -416,6 +388,34 @@ vs:
         team: 'TR'
         position: Third
         percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2005
+      draw: Round Robin(1)
+      score: TR 5 - BC 10
+ - name: Moss, Steve
+   totals:
+    - event: Brier
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 64
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Second
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 64
         win: 0
         loss: 1
       event: Brier
@@ -730,7 +730,7 @@ vs:
       year: 2005
       draw: Round Robin(4)
       score: BC 6 - SK 4
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

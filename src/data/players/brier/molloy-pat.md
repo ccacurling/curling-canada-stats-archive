@@ -66,11 +66,10 @@ vs:
  - Leech, Ron
  - Loevenmark, Phil
  - Lohnes, Bruce
- - Moss, Steve
  - Nedohin, David
  - Nichols, Mark
  - Odishaw, Grant
- - Peachy, Jay
+ - Peachey, Jay
  - Pfeifer, Scott
  - Recksiedler, Kevin
  - Rocque, Marcel

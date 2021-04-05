@@ -1322,7 +1322,7 @@ vs:
       year: 1994
       draw: Round Robin(17)
       score: QC 3 - BC 9
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:
@@ -1918,7 +1918,7 @@ vs:
       year: 1989
       draw: Final(17)
       score: BC 2 - AB 3
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -2558,7 +2558,7 @@ vs:
       year: 1994
       draw: Round Robin(2)
       score: NS 1 - BC 7
- - name: Ormbsy, Dan
+ - name: Ormsby, Dan
    totals:
     - event: Brier
       player1:
@@ -3718,7 +3718,7 @@ vs:
       year: 1989
       draw: Round Robin(10)
       score: TR 6 - BC 7
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

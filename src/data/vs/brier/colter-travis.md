@@ -114,7 +114,7 @@ vs:
       year: 2019
       draw: Round Robin(12)
       score: NS 2 - CA 9
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:

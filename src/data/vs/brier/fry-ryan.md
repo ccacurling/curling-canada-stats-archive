@@ -734,7 +734,7 @@ vs:
       year: 2020
       draw: Round Robin(8)
       score: ON 4 - NB 7
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:
@@ -5582,7 +5582,7 @@ vs:
       year: 2010
       draw: Round Robin(4)
       score: NL 11 - SK 5
- - name: McLeod, Shadrach
+ - name: Mcleod, Shadrach
    totals:
     - event: Brier
       player1:
@@ -5618,7 +5618,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 79
+        percent: 74
         wins: 0
         losses: 1
    games:
@@ -5630,15 +5630,15 @@ vs:
         loss: 0
       player2:
         team: 'SK'
-        position: Third
-        percent: 79
+        position: Second
+        percent: 74
         win: 0
         loss: 1
       event: Brier
       year: 2017
       draw: Round Robin(14)
       score: SK 5 - NO 8
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -9150,13 +9150,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 90
-        wins: 2
+        percent: 82
+        wins: 1
         losses: 0
       player2:
-        percent: 84
+        percent: 86
         wins: 0
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'NL'
@@ -9174,22 +9174,6 @@ vs:
       year: 2010
       draw: Round Robin(6)
       score: NS 3 - NL 10
-    - player1:
-        team: 'NO'
-        position: Third
-        percent: 96
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2013
-      draw: Round Robin(17)
-      score: NS 2 - NO 5
  - name: Smith, Tyler
    totals:
     - event: Brier
@@ -9218,7 +9202,7 @@ vs:
       year: 2021
       draw: Round Robin(17)
       score: PE 4 - ON 8
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -9470,7 +9454,7 @@ vs:
       year: 2013
       draw: Final(22)
       score: MB 4 - NO 11
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

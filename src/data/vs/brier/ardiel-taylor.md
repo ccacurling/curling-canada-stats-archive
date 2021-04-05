@@ -10,7 +10,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 85
+        percent: 90
         wins: 1
         losses: 0
    games:
@@ -22,8 +22,8 @@ vs:
         loss: 1
       player2:
         team: 'ON'
-        position: Fourth
-        percent: 85
+        position: Third
+        percent: 90
         win: 1
         loss: 0
       event: Brier
@@ -170,7 +170,7 @@ vs:
       year: 2019
       draw: Round Robin(12)
       score: NS 2 - CA 9
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:

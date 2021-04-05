@@ -390,13 +390,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 87
-        wins: 3
+        percent: 86
+        wins: 4
         losses: 0
       player2:
-        percent: 74
+        percent: 73
         wins: 0
-        losses: 3
+        losses: 4
    games:
     - player1:
         team: 'ON'
@@ -446,6 +446,22 @@ vs:
       year: 2001
       draw: Round Robin(17)
       score: TR 2 - ON 7
+    - player1:
+        team: 'ON'
+        position: Fourth
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2005
+      draw: Round Robin(12)
+      score: TR 4 - ON 6
  - name: Moulding, Darren
    totals:
     - event: Brier
@@ -3458,7 +3474,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 93
+        percent: 100
         wins: 0
         losses: 1
    games:
@@ -3470,15 +3486,15 @@ vs:
         loss: 0
       player2:
         team: 'NS'
-        position: Lead
-        percent: 93
+        position: Second
+        percent: 100
         win: 0
         loss: 1
       event: Brier
       year: 2013
       draw: Round Robin(6)
       score: NS 2 - ON 10
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -3650,7 +3666,7 @@ vs:
       year: 2013
       draw: Page 1-2(18)
       score: MB 7 - ON 6
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

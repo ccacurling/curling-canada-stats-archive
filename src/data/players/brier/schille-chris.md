@@ -153,7 +153,7 @@ vs:
  - Darragh, Alan
  - Dion, William
  - Dobson, Paul
- - Doherty, Robert
+ - Doherty, Robbie
  - Errington, Derek
  - Fecteau, Steve
  - Ferland, Martin
@@ -172,7 +172,7 @@ vs:
  - Geall, Sean
  - Gould, Steve
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, Al
  - Harnden, E.J.
@@ -210,7 +210,7 @@ vs:
  - Mathers, David
  - McEwen, Mike
  - Meachem, Shaun Myles
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -246,7 +246,6 @@ vs:
  - Slauenwhite, David
  - Smith, Garth
  - Smith, Greg
- - Smith, Kent
  - Spencer, Adam
  - Stoughton, Jeff
  - Sylvain, Eric

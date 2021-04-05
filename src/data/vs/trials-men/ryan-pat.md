@@ -86,7 +86,7 @@ vs:
       year: 2005
       draw: Round Robin(8)
       score: RYA 6 - STO 7
- - name: Vandenberghe, Garry
+ - name: Van Den Berghe, Garry
    totals:
     - event: Trials(Men)
       player1:

@@ -554,7 +554,7 @@ vs:
       year: 2003
       draw: Round Robin(16)
       score: NB 9 - SK 3
- - name: Kallos, Jack Jr
+ - name: Kallos, Jack Jr.
    totals:
     - event: Brier
       player1:
@@ -1882,7 +1882,7 @@ vs:
       year: 1994
       draw: Round Robin(2)
       score: QC 4 - ON 8
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:
@@ -3378,7 +3378,7 @@ vs:
       year: 1986
       draw: Semi-Final(17)
       score: BC 5 - ON 6
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -4018,13 +4018,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 91
-        wins: 3
+        percent: 92
+        wins: 2
         losses: 0
       player2:
-        percent: 72
+        percent: 74
         wins: 0
-        losses: 3
+        losses: 2
    games:
     - player1:
         team: 'ON'
@@ -4058,22 +4058,6 @@ vs:
       year: 1993
       draw: Round Robin(11)
       score: TR 3 - ON 5
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 89
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Fourth
-        percent: 68
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2004
-      draw: Round Robin(14)
-      score: SK 5 - NB 6
  - name: Muyres, Craig
    totals:
     - event: Brier
@@ -5106,7 +5090,7 @@ vs:
       year: 1999
       draw: Round Robin(6)
       score: NB 8 - NO 2
- - name: Peachy, Jay
+ - name: Peachey, Jay
    totals:
     - event: Brier
       player1:
@@ -7062,7 +7046,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 73
+        percent: 78
         wins: 0
         losses: 1
    games:
@@ -7074,8 +7058,8 @@ vs:
         loss: 0
       player2:
         team: 'MB'
-        position: Third
-        percent: 73
+        position: Second
+        percent: 78
         win: 0
         loss: 1
       event: Brier
@@ -7722,7 +7706,7 @@ vs:
       year: 1987
       draw: Round Robin(2)
       score: ON 11 - NO 5
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -8154,7 +8138,7 @@ vs:
       year: 2002
       draw: Round Robin(14)
       score: NB 2 - MB 5
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

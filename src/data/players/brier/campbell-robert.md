@@ -201,10 +201,10 @@ vs:
  - Bubbs, John
  - Buchan, Chris
  - Buck, Wyatt
- - Bucyk, James
  - Burgess, Craig
  - Burtnyk, Kerry
  - Butler, Mike
+ - Buyck, James
  - Carey, Dan
  - Carriere, Eric
  - Carter, Andrew
@@ -314,7 +314,7 @@ vs:
  - LeClair, Bob
  - LeCocq, Marc
  - Lemay, Philippe
- - Lemery, Dan
+ - Lemery, Daniel
  - Lindsay, Tim
  - Loeffler, Ken
  - Loevenmark, Phil
@@ -337,7 +337,7 @@ vs:
  - McGowan, Nolin
  - McHargue, Ken
  - McPhee, Barry
- - Mead, Jonathan
+ - Mead, Jon
  - Meakin, Rob
  - Mellof, Dave
  - Menard, Jean-Michel
@@ -364,7 +364,7 @@ vs:
  - Odishaw, Grant
  - Oke, Gary
  - O'Leary, Alan
- - Ormbsy, Dan
+ - Ormsby, Dan
  - Packet, Jim
  - Pahl, James
  - Palmer, Curt
@@ -410,12 +410,12 @@ vs:
  - Simmons, Pat
  - Skanes, Robert
  - Skillen, Aaron
- - Solberg, Jonathon
+ - Solberg, Jon
  - Steski, John
  - Stoughton, Jeff
  - Stuart, Darol
  - Suchy, Chris
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Tallon, Wayne
  - Tetley, Ross

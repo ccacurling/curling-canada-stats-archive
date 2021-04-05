@@ -216,7 +216,7 @@ vs:
  - Dobson, Paul
  - Duguid, Dale
  - Dumontelle, Matt
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Dutiaume, Randy
  - Elias, Dave
  - Elmaleh, Maxime
@@ -321,7 +321,7 @@ vs:
  - McEwen, Mike
  - McGregor, Ken
  - McInnis, Phillip
- - Mead, Jonathan
+ - Mead, Jon
  - Meakin, Rob
  - Mellof, Dave
  - Melnichuk, Greg
@@ -397,12 +397,12 @@ vs:
  - Sinclair, Rob
  - Smith, Greg
  - Smith, Tyler
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Spencer, Jim
  - St.Louis, Brady
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Sullivan, Tommy
  - Sylvain, Eric

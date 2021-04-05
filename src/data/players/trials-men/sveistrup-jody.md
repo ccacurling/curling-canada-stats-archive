@@ -69,7 +69,7 @@ vs:
  - Stoughton, Jeff
  - Tetley, Ian
  - Ursel, Bob
- - Vandenberghe, Garry
+ - Van Den Berghe, Garry
  - Walchuk, Don
  - Whittle, Mark
 ---

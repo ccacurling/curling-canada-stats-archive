@@ -198,7 +198,7 @@ vs:
       year: 2020
       draw: Round Robin(3)
       score: WC 10 - YT 6
- - name: McLeod, Shadrach
+ - name: Mcleod, Shadrach
    totals:
     - event: Brier
       player1:

@@ -394,7 +394,7 @@ vs:
       year: 1997
       draw: Round Robin(3)
       score: TR 4 - NS 6
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

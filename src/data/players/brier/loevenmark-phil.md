@@ -144,12 +144,11 @@ vs:
  - Madden, Paul
  - Maurice, Jean
  - Maxie, Fred
- - Mead, Jonathan
+ - Mead, Jon
  - Mellof, Dave
  - Middaugh, Wayne
  - Moffatt, Rich
  - Molloy, Pat
- - Moss, Steve
  - Nedohin, David
  - Ness, Dale
  - Nicholls, Peter
@@ -160,7 +159,7 @@ vs:
  - O'Leary, Alan
  - O'Rourke, Mark
  - Paslawski, Pat
- - Peachy, Jay
+ - Peachey, Jay
  - Peddigrew, Ken
  - Peech, Orest
  - Perron, Rick
@@ -182,7 +181,7 @@ vs:
  - Smith, Dave
  - Spicer, Grant
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Evan
  - Thibaudeau, Guy
  - Thomas, Rob

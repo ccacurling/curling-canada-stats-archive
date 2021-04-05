@@ -58,7 +58,7 @@ vs:
  - Bottcher, Brendan
  - Bryant, Doug
  - Bubbs, John
- - Bucyk, James
+ - Buyck, James
  - Campbell, Robert
  - Casey, Adam
  - Champion, Kevin

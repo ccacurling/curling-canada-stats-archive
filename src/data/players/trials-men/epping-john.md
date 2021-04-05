@@ -81,7 +81,7 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Gould, Steve
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.

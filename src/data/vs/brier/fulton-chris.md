@@ -466,7 +466,7 @@ vs:
       year: 1987
       draw: Round Robin(8)
       score: QC 8 - NS 5
- - name: Kallos, Jack Jr
+ - name: Kallos, Jack Jr.
    totals:
     - event: Brier
       player1:
@@ -858,7 +858,7 @@ vs:
       year: 1999
       draw: Round Robin(12)
       score: ON 6 - NO 5
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:

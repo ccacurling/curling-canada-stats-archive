@@ -76,7 +76,7 @@ vs:
  - Laing, Brent
  - MacDonald, Blake
  - McDermot, Ken
- - Mead, Jonathan
+ - Mead, Jon
  - Morris, John
  - Nedohin, David
  - Perrin, Hubert

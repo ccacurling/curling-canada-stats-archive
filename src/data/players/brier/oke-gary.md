@@ -136,7 +136,7 @@ vs:
  - Lawrence, Harry
  - LeClair, Bob
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - Lukowich, Ed
  - MacDonald, Frank
  - MacDonald, Robert

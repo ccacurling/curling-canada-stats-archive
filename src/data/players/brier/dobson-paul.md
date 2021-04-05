@@ -89,7 +89,7 @@ vs:
  - Chorostkowski, Brad
  - Cotter, Jim
  - Dillon, Mike
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Dutiaume, Randy
  - Elias, Dave
  - Elmaleh, Maxime
@@ -134,7 +134,7 @@ vs:
  - Martin, Kevin
  - McCarrel, Graeme
  - McEwen, Mike
- - McLeod, Shadrach
+ - Mcleod, Shadrach
  - Melnichuk, Greg
  - Menard, Jean-Michel
  - Middaugh, Wayne
@@ -142,6 +142,7 @@ vs:
  - Morris, John
  - Moshenko, Darcy
  - Moskowy, Braeden
+ - Moss, Steve
  - Nantes, Dave
  - Nedohin, David
  - Nerpin, Andrew
@@ -165,7 +166,7 @@ vs:
  - Scoffin, Thomas
  - Sharp, Jeff
  - Simmons, Pat
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Stoughton, Jeff
  - Sylvain, Eric

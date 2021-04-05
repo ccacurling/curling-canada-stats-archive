@@ -63,7 +63,7 @@ vs:
  - Bourque, Don
  - Burtnyk, Kerry
  - Bushell, Don
- - Campbell, Bill Jr
+ - Campbell, Bill Jr.
  - Carruthers, Bob
  - Carstairs, Kent
  - Carter, Robert

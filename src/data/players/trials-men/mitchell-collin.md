@@ -61,7 +61,7 @@ vs:
  - Fenton, Keith
  - Fry, Ryan
  - Gould, Steve
- - Griffith, Ty
+ - Griffith, Tyrel
  - Hannah, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -108,7 +108,7 @@ vs:
  - Tetley, Ian
  - Thiessen, Nolan
  - Tresoor, Ken
- - Vandenberghe, Garry
+ - Van Den Berghe, Garry
  - Walchuk, Don
  - Werenich, Ed
  - Wozniak, Matt

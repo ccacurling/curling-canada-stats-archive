@@ -40,7 +40,7 @@ vs:
  - Belcourt, Tim
  - Blanchard, Wade
  - Bothamley, Doug
- - Campbell, Bill Jr
+ - Campbell, Bill Jr.
  - Carstairs, Kent
  - Coulter, Mike
  - Durant, Fred

@@ -86,7 +86,7 @@ vs:
       year: 1987
       draw: Round Robin(12)
       score: NB 7 - QC 5
- - name: Balderson, Dennis
+ - name: Balderston, Dennis
    totals:
     - event: Brier
       player1:
@@ -550,7 +550,7 @@ vs:
       year: 1991
       draw: Round Robin(4)
       score: QC 5 - NB 8
- - name: Campbell, Bill Jr
+ - name: Campbell, Bill Jr.
    totals:
     - event: Brier
       player1:
@@ -2010,7 +2010,7 @@ vs:
       year: 1987
       draw: Round Robin(11)
       score: QC 9 - TR 4
- - name: Kallos, Jack Jr
+ - name: Kallos, Jack Jr.
    totals:
     - event: Brier
       player1:
@@ -3906,7 +3906,7 @@ vs:
       year: 1991
       draw: Round Robin(5)
       score: MB 8 - QC 2
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

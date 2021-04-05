@@ -86,34 +86,6 @@ vs:
       year: 1998
       draw: Round Robin(17)
       score: AB 7 - NB 4
- - name: Langdon, Dennis
-   totals:
-    - event: Brier
-      player1:
-        percent: 86
-        wins: 1
-        losses: 0
-      player2:
-        percent: 86
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'BC'
-        position: Second
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Lead
-        percent: 86
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2001
-      draw: Round Robin(16)
-      score: NL 4 - BC 8
  - name: MacLeod, Glen
    totals:
     - event: Brier
@@ -282,6 +254,34 @@ vs:
       year: 1998
       draw: Round Robin(6)
       score: PE 7 - NB 5
+ - name: Mckinnon, Robert
+   totals:
+    - event: Brier
+      player1:
+        percent: 75
+        wins: 1
+        losses: 0
+      player2:
+        percent: 58
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 58
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2021
+      draw: Round Robin(10)
+      score: NB 8 - YT 3
  - name: Melville, Bruce
    totals:
     - event: Brier
@@ -394,6 +394,62 @@ vs:
       year: 1998
       draw: Round Robin(4)
       score: BC 9 - NB 4
+ - name: Mikkelsen, Ray
+   totals:
+    - event: Brier
+      player1:
+        percent: 75
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Third
+        percent: 76
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2021
+      draw: Round Robin(10)
+      score: NB 8 - YT 3
+ - name: Mikkelsen, Dustin
+   totals:
+    - event: Brier
+      player1:
+        percent: 75
+        wins: 1
+        losses: 0
+      player2:
+        percent: 72
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2021
+      draw: Round Robin(10)
+      score: NB 8 - YT 3
  - name: Mitchell, Garth
    totals:
     - event: Brier
@@ -506,34 +562,6 @@ vs:
       year: 1998
       draw: Round Robin(4)
       score: BC 9 - NB 4
- - name: Pinsent, Garry
-   totals:
-    - event: Brier
-      player1:
-        percent: 86
-        wins: 1
-        losses: 0
-      player2:
-        percent: 76
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'BC'
-        position: Second
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Third
-        percent: 76
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2001
-      draw: Round Robin(16)
-      score: NL 4 - BC 8
  - name: Powell, Lloyd
    totals:
     - event: Brier
@@ -618,62 +646,6 @@ vs:
       year: 1998
       draw: Round Robin(17)
       score: AB 7 - NB 4
- - name: Ryan, Keith
-   totals:
-    - event: Brier
-      player1:
-        percent: 86
-        wins: 1
-        losses: 0
-      player2:
-        percent: 72
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'BC'
-        position: Second
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Fourth
-        percent: 72
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2001
-      draw: Round Robin(16)
-      score: NL 4 - BC 8
- - name: Ryan, Mike
-   totals:
-    - event: Brier
-      player1:
-        percent: 86
-        wins: 1
-        losses: 0
-      player2:
-        percent: 86
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'BC'
-        position: Second
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 86
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2001
-      draw: Round Robin(16)
-      score: NL 4 - BC 8
  - name: Schoenne, Klaus
    totals:
     - event: Brier

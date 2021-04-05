@@ -47,7 +47,7 @@ vs:
  - Lohnes, Bruce
  - Loevenmark, Phil
  - MacKenzie, Kevin
- - Mead, Jonathan
+ - Mead, Jon
  - Nedohin, David
  - Pfeifer, Scott
  - Rocque, Marcel

@@ -970,7 +970,7 @@ vs:
       year: 1989
       draw: Round Robin(2)
       score: SK 9 - TR 6
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

@@ -124,7 +124,7 @@ vs:
  - Allan, John
  - Armstrong, Jim
  - Armstrong, Mark
- - Balderson, Dennis
+ - Balderston, Dennis
  - Bartlett, Don
  - Belcourt, Tim
  - Bentley, Dan
@@ -138,7 +138,7 @@ vs:
  - Buck, Wyatt
  - Butler, Mark
  - Butler, Mike
- - Campbell, Bill Jr
+ - Campbell, Bill Jr.
  - Campbell, Robert
  - Carstairs, Kent
  - Coady, Mike
@@ -184,7 +184,7 @@ vs:
  - Howard, Russ
  - Iverson, Dave
  - Jackson, Glenn
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kapicki, Ron
  - Kawaja, John
  - Kennedy, Bruce

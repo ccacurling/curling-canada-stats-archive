@@ -130,7 +130,7 @@ vs:
  - Daneault, Richard
  - Deis, Ryan
  - Desjardins, Robert
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Fecteau, Steve
  - Flasch, Colton
@@ -142,7 +142,7 @@ vs:
  - Gaudet, Mike
  - Geall, Sean
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
@@ -183,7 +183,7 @@ vs:
  - McCarville, Mike
  - McEwen, Mike
  - Meachem, Shaun Myles
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne

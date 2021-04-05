@@ -235,7 +235,7 @@ vs:
  - Noftall, David
  - Odian, Scott
  - Oke, Gary
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Pahl, James
  - Palmer, Curt
@@ -276,7 +276,7 @@ vs:
  - Soparlo, Murray
  - Steventon, Lawren
  - Stewart, Alexander
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Sylvain, Eric
  - Tervo, Randy

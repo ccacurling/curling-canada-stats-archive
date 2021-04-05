@@ -216,7 +216,7 @@ vs:
  - Grattan, James
  - Gretzinger, Bert
  - Grundy, John
- - Gubbles, Will
+ - Gubbels, Will
  - Gudereit, Kerry
  - Hackner, Al
  - Haichert, Chris
@@ -262,7 +262,7 @@ vs:
  - Lappalainen, Art
  - LeCocq, Marc
  - LeCocq, Vance
- - Lemery, Dan
+ - Lemery, Daniel
  - Lohnes, Bruce
  - MacDonald, Peter
  - MacDonald, Rod
@@ -281,7 +281,7 @@ vs:
  - McHargue, Ken
  - McKee, Darrell
  - McPhee, Barry
- - Mead, Jonathan
+ - Mead, Jon
  - Meakin, Rob
  - Menard, Jean-Michel
  - Middaugh, Wayne
@@ -302,7 +302,7 @@ vs:
  - Odian, Scott
  - Odishaw, Grant
  - O'Driscoll, Frank
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Palmer, Curt
  - Patriquin, Chuck
@@ -348,7 +348,7 @@ vs:
  - Somers, Grant
  - Stoughton, Jeff
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Evan
  - Sveistrup, Jody
  - Sylvain, Eric

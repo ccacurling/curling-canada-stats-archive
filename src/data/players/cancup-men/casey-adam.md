@@ -81,7 +81,7 @@ vs:
  - Martin, Kevin
  - Mathers, David
  - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Middaugh, Wayne
  - Morris, John
  - Neufeld, B.J.

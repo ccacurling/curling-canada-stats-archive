@@ -37,7 +37,7 @@ years:
    shots-percent: 81
 vs:
  - Bryant, Doug
- - Bucyk, James
+ - Buyck, James
  - Campbell, Robert
  - Champion, Kevin
  - Cochrane, Bryan

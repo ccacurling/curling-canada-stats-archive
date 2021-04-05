@@ -86,7 +86,7 @@ vs:
       year: 2015
       draw: Round Robin(9)
       score: NL 10 - NB 2
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:

@@ -74,6 +74,7 @@ vs:
  - Horning, Deane
  - Howard, Russ
  - Jenkins, Bill
+ - Keefe, Kevin
  - Kerr, Ian
  - Kilgallen, Shane
  - Koffski, Rob

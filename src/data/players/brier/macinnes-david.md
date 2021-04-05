@@ -93,13 +93,13 @@ vs:
  - Laing, Brent
  - LeCocq, Marc
  - LeDrew, Ryan
- - Lemery, Dan
+ - Lemery, Daniel
  - Lohnes, Bruce
  - MacDonald, Peter
  - MacDonald, Rod
  - Martin, Kevin
  - McPhee, Barry
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Mihalicz, Dwayne
  - Montgomery, Rod

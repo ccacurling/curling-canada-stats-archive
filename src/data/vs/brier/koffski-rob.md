@@ -1014,7 +1014,7 @@ vs:
       year: 2002
       draw: Round Robin(7)
       score: BC 6 - PE 4
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

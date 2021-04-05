@@ -75,7 +75,7 @@ vs:
  - Savill, Craig
  - Schmidt, Aryn
  - Seabrook, Matt
- - Solberg, Jonathon
+ - Solberg, Jon
  - Stoughton, Jeff
  - Sylvain, Eric
  - Toner, Lee

@@ -46,7 +46,7 @@ vs:
       year: 2006
       draw: Round Robin(10)
       score: Cot 5 - Mar 9
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:

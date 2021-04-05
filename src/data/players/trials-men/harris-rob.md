@@ -71,6 +71,6 @@ vs:
  - Savill, Craig
  - Sawatsky, Rick
  - Stoughton, Jeff
- - Vandenberghe, Garry
+ - Van Den Berghe, Garry
  - Walchuk, Don
 ---

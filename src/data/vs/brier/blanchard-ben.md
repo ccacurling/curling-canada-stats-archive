@@ -1170,7 +1170,7 @@ vs:
       year: 2000
       draw: Round Robin(12)
       score: SK 5 - NS 7
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -1974,7 +1974,7 @@ vs:
       year: 2002
       draw: Round Robin(8)
       score: TR 6 - NS 7
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

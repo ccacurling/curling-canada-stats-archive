@@ -76,7 +76,7 @@ vs:
  - Allan, John
  - Andrews, Robert
  - Arsenault, Craig
- - Balderson, Dennis
+ - Balderston, Dennis
  - Biron, Louis
  - Breckenridge, Harold
  - Buck, Wyatt
@@ -119,7 +119,7 @@ vs:
  - Lappalainen, Art
  - LeCocq, Marc
  - Lemay, Jean-Yves
- - Lemery, Dan
+ - Lemery, Daniel
  - Lewis, Wayne
  - Loevenmark, Phil
  - Lowe, Wayne
@@ -160,7 +160,7 @@ vs:
  - Schneider, Mike
  - Schneider, Rick
  - Smith, Dave
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Tetley, Ian
  - Tetley, Ross

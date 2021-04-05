@@ -45,7 +45,7 @@ vs:
  - Koe, Kevin
  - Korab, Jamie
  - MacKenzie, Kevin
- - Mead, Jonathan
+ - Mead, Jon
  - Moffatt, Paul
  - Morris, John
  - Nedohin, David

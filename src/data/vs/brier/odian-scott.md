@@ -2,7 +2,7 @@
 title: Scott Odian Head-to-head
 name: Odian, Scott
 vs:
- - name: Ormbsy, Dan
+ - name: Ormsby, Dan
    totals:
     - event: Brier
       player1:

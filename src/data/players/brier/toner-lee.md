@@ -163,7 +163,7 @@ vs:
  - Hebert, Ben
  - Hicke, Dean
  - Higgs, Jake
- - Hollowaychuk, Dan
+ - Holowaychuk, Dan
  - Horning, Deane
  - Howard, Glenn
  - Howard, Russ
@@ -185,7 +185,7 @@ vs:
  - MacDonald, Rod
  - Martin, Kevin
  - McCarrel, Graeme
- - McKinnon, Robert
+ - Mckinnon, Robert
  - Meek, Terry
  - Melnichuk, Greg
  - Menard, Jean-Michel
@@ -194,6 +194,7 @@ vs:
  - Mittelstadt, Kelly
  - Morris, John
  - Moshenko, Darcy
+ - Moss, Steve
  - Nantes, Dave
  - Nedohin, David
  - Nichols, Mark
@@ -219,7 +220,7 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Smitheram, Christian
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Stoughton, Jeff
  - Sylvain, Eric

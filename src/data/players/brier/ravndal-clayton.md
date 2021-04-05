@@ -75,7 +75,7 @@ vs:
  - Adams, Steve
  - Allan, John
  - Armstrong, Jim
- - Balderson, Dennis
+ - Balderston, Dennis
  - Bartlett, Don
  - Biron, Louis
  - Bradley, Mike
@@ -131,7 +131,7 @@ vs:
  - Lafleur, Andre
  - Lang, Rick
  - LeCocq, Vance
- - Lemery, Dan
+ - Lemery, Daniel
  - Lepine, Craig
  - Lohnes, Bruce
  - MacDonald, Frank
@@ -179,7 +179,7 @@ vs:
  - Soparlo, Murray
  - Spencer, Jim
  - Steventon, Lawren
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Tetley, Ian
  - Thomas, Ken

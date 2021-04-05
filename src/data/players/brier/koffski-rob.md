@@ -132,7 +132,7 @@ vs:
  - Scoffin, Wade
  - Smith, Alex
  - Smith, Jeff
- - Solberg, Jonathon
+ - Solberg, Jon
  - Strain, Bill
  - Stuart, Darol
  - Suchy, Chris

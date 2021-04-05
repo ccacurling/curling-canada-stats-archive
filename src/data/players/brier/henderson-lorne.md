@@ -95,7 +95,7 @@ vs:
  - Kofoed, Lonnie
  - Lacey, Jeff
  - Lafleur, Andre
- - Lemery, Dan
+ - Lemery, Daniel
  - Loeffler, Ken
  - Lohnes, Bruce
  - MacLeod, Kris
@@ -126,7 +126,7 @@ vs:
  - Schmidt, Lloyd
  - Smith, Doug-2
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Usackis, John
  - Walchuk, Don
  - Weeks, Blair

@@ -67,11 +67,10 @@ vs:
  - Loevenmark, Phil
  - Lohnes, Bruce
  - Molloy, Pat
- - Moss, Steve
  - Nedohin, David
  - Nichols, Mark
  - Odishaw, Grant
- - Peachy, Jay
+ - Peachey, Jay
  - Pfeifer, Scott
  - Recksiedler, Kevin
  - Rocque, Marcel

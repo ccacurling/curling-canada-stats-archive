@@ -101,6 +101,7 @@ vs:
  - Mikkelsen, Ray
  - Moshenko, Darcy
  - Moskowy, Kelly
+ - Moss, Steve
  - Nedohin, David
  - Nichols, Mark
  - Nobert, Rob
@@ -119,7 +120,7 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Smith, Jeff
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Stuart, Darol
  - Suchy, Chris

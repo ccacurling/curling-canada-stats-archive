@@ -1238,30 +1238,30 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 83
-        wins: 1
-        losses: 0
-      player2:
-        percent: 80
+        percent: 88
         wins: 0
         losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
    games:
     - player1:
         team: 'ON'
         position: Lead
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Fourth
-        percent: 80
+        percent: 88
         win: 0
         loss: 1
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
       event: Brier
       year: 2005
-      draw: Round Robin(17)
-      score: ON 7 - NL 5
+      draw: Round Robin(7)
+      score: BC 7 - ON 5
  - name: Iskiw, Blayne
    totals:
     - event: Brier
@@ -1438,7 +1438,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 84
+        percent: 83
         wins: 1
         losses: 0
    games:
@@ -1450,8 +1450,8 @@ vs:
         loss: 1
       player2:
         team: 'MB'
-        position: Fourth
-        percent: 84
+        position: Lead
+        percent: 83
         win: 1
         loss: 0
       event: Brier
@@ -2166,13 +2166,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 88
-        wins: 1
+        percent: 86
+        wins: 2
         losses: 0
       player2:
-        percent: 75
+        percent: 72
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'ON'
@@ -2190,6 +2190,22 @@ vs:
       year: 2001
       draw: Round Robin(17)
       score: TR 2 - ON 7
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2005
+      draw: Round Robin(12)
+      score: TR 4 - ON 6
  - name: Nedohin, David
    totals:
     - event: Brier
@@ -3066,7 +3082,7 @@ vs:
       year: 1998
       draw: Round Robin(5)
       score: ON 8 - NO 2
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -3150,7 +3166,7 @@ vs:
       year: 1998
       draw: Round Robin(11)
       score: ON 10 - MB 5
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

@@ -61,7 +61,7 @@ vs:
  - Kennedy, Mike
  - Lafleur, Andre
  - LeCocq, Vance
- - Lemery, Dan
+ - Lemery, Daniel
  - Lohnes, Bruce
  - MacFadyen, Bill
  - MacFadyen, Ted

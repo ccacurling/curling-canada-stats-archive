@@ -372,7 +372,7 @@ vs:
  - Butler, Mike
  - Butler, Ted
  - Buyck, James
- - Campbell, Bill Jr
+ - Campbell, Bill Jr.
  - Campbell, Robert
  - Carey, Dan
  - Carmody, Anson
@@ -407,7 +407,7 @@ vs:
  - Dobson, Brian
  - Dobson, Paul
  - Doerr, Bob
- - Doherty, Robert
+ - Doherty, Robbie
  - Doyon, Ghislain
  - Duce, Dallas
  - Durant, Fred
@@ -461,7 +461,7 @@ vs:
  - Grant, Scott
  - Grattan, James
  - Gretzinger, Bert
- - Griffith, Ty
+ - Griffith, Tyrel
  - Grundy, John
  - Gudereit, Kerry
  - Gushue, Brad
@@ -512,7 +512,7 @@ vs:
  - Jordison, Joel
  - Journeaux, Ian
  - Kalthoff, Kevin
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kammerlock, Dan
  - Kamp, Ragnar
  - Kapicki, Ron
@@ -552,7 +552,7 @@ vs:
  - LeDrew, Ryan
  - Lemay, Jean-Yves
  - Lemay, Philippe
- - Lemery, Dan
+ - Lemery, Daniel
  - Lewis, Wayne
  - Loevenmark, Phil
  - Lohnes, Bruce
@@ -591,10 +591,10 @@ vs:
  - McHargue, Ken
  - McKee, Darrell
  - McKenzie, Donald
- - McKinnon, Robert
+ - Mckinnon, Robert
  - McPhee, Barry
  - Meachem, Shaun Myles
- - Mead, Jonathan
+ - Mead, Jon
  - Meleschuk, Orest
  - Meleschuk, Sean
  - Menard, Gerry
@@ -712,13 +712,13 @@ vs:
  - Smith, Garth
  - Smith, Kent
  - Snell, Brian
- - Solberg, Jonathon
+ - Solberg, Jon
  - Somers, Grant
  - Sparkes, Bernie
  - Stokes, Lionel
  - Stoughton, Jeff
  - Strain, Bill
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sweete, Don
  - Sylvain, Eric
  - Syme, Brent

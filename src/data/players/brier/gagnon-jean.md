@@ -207,7 +207,7 @@ vs:
  - McAulay, Greg
  - McCusker, Brian
  - McKee, Darrell
- - Mead, Jonathan
+ - Mead, Jon
  - Miki, Bryan
  - Mikkelsen, Ray
  - Milward, Ross
@@ -251,7 +251,7 @@ vs:
  - Slauenwhite, David
  - Smith, Garth
  - Smith, Jeff
- - Solberg, Jonathon
+ - Solberg, Jon
  - Stoughton, Jeff
  - Stuart, Darol
  - Suchy, Chris

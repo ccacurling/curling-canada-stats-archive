@@ -108,7 +108,6 @@ vs:
  - Menard, Jean-Michel
  - Molloy, Pat
  - Morris, John
- - Moss, Steve
  - Naugler, Tom
  - Nedohin, David
  - Nichols, Mark

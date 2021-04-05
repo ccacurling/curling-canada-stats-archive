@@ -85,7 +85,7 @@ vs:
  - Laing, Brent
  - Lohnes, Bruce
  - MacKenzie, Kevin
- - Mead, Jonathan
+ - Mead, Jon
  - Moffatt, Paul
  - Morris, John
  - Nedohin, David

@@ -112,7 +112,7 @@ vs:
  - Nedohin, David
  - Ness, Dale
  - Odian, Scott
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Pahl, James
  - Park, Kevin
@@ -129,7 +129,7 @@ vs:
  - Ryan, Pat
  - Scharf, Joe
  - Skillen, Aaron
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Tervo, Randy
  - Tetley, Ian

@@ -181,7 +181,7 @@ vs:
  - James, Colin
  - Johnston, Bill
  - Journeaux, Ian
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kamp, Ragnar
  - Kawaja, John
  - Kennedy, Bruce

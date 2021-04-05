@@ -135,7 +135,7 @@ vs:
  - Lappalainen, Art
  - LeCocq, Vance
  - Lemay, Jean-Yves
- - Lemery, Dan
+ - Lemery, Daniel
  - Lewis, Wayne
  - Loevenmark, Phil
  - Lohnes, Bruce
@@ -179,7 +179,7 @@ vs:
  - Skanes, Robert
  - Smith, Dave
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Tetley, Ross
  - Thomas, Rob
  - Thompson, Ron

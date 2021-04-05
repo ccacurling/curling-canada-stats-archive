@@ -1142,7 +1142,7 @@ vs:
       year: 1988
       draw: Round Robin(12)
       score: NS 8 - NO 4
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

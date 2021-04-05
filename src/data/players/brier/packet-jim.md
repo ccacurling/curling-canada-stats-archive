@@ -142,7 +142,7 @@ vs:
  - Lafleur, Andre
  - Lauziere, Claude
  - Lawrence, Harry
- - Lemery, Dan
+ - Lemery, Daniel
  - Lohnes, Bruce
  - Lukowich, Ed
  - MacDonald, Robert
@@ -191,7 +191,7 @@ vs:
  - Strain, Bill
  - Strang, Don
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Charlie
  - Sullivan, Dave
  - Syme, Brent

@@ -286,7 +286,7 @@ vs:
       year: 1994
       draw: Round Robin(10)
       score: BC 10 - PE 5
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:
@@ -1850,7 +1850,7 @@ vs:
       year: 2012
       draw: Round Robin(2)
       score: NS 10 - PE 4
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -2034,34 +2034,6 @@ vs:
       year: 2011
       draw: Round Robin(7)
       score: PE 2 - AB 9
- - name: Moss, Steve
-   totals:
-    - event: Brier
-      player1:
-        percent: 74
-        wins: 0
-        losses: 1
-      player2:
-        percent: 85
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent: 74
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Fourth
-        percent: 85
-        win: 1
-        loss: 0
-      event: Brier
-      year: 2004
-      draw: Round Robin(10)
-      score: SK 9 - PE 5
  - name: Munroe, Steven
    totals:
     - event: Brier
@@ -2474,7 +2446,7 @@ vs:
       year: 1994
       draw: Round Robin(16)
       score: PE 8 - NO 9
- - name: Peachy, Jay
+ - name: Peachey, Jay
    totals:
     - event: Brier
       player1:
@@ -3226,7 +3198,7 @@ vs:
       year: 2011
       draw: Round Robin(5)
       score: PE 4 - MB 9
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

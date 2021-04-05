@@ -58,7 +58,7 @@ vs:
  - Kerr, Ian
  - Kofoed, Lonnie
  - Lacey, Jeff
- - Lemery, Dan
+ - Lemery, Daniel
  - Loeffler, Ken
  - Martin, Kevin
  - McGowan, Nolin
@@ -74,7 +74,7 @@ vs:
  - Ramcharan, Rudy
  - Schleppe, Dave
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Thomas, Jeff
  - Walchuk, Don
  - Werenich, Ed

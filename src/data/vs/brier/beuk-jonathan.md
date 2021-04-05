@@ -34,7 +34,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 81
+        percent: 86
         wins: 0
         losses: 2
       player2:
@@ -44,8 +44,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 82
+        position: Third
+        percent: 93
         win: 0
         loss: 1
       player2:
@@ -78,7 +78,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 72
+        percent: 76
         wins: 1
         losses: 1
       player2:
@@ -88,8 +88,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 69
+        position: Third
+        percent: 78
         win: 0
         loss: 1
       player2:
@@ -150,7 +150,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 85
+        percent: 90
         wins: 1
         losses: 0
       player2:
@@ -160,8 +160,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 85
+        position: Third
+        percent: 90
         win: 1
         loss: 0
       player2:
@@ -188,7 +188,7 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
+        position: Third
         percent: 81
         win: 1
         loss: 0
@@ -222,7 +222,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 79
+        percent: 82
         wins: 0
         losses: 1
       player2:
@@ -232,8 +232,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 79
+        position: Third
+        percent: 82
         win: 0
         loss: 1
       player2:
@@ -250,7 +250,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 78
+        percent: 80
         wins: 1
         losses: 0
       player2:
@@ -260,8 +260,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 78
+        position: Third
+        percent: 80
         win: 1
         loss: 0
       player2:
@@ -278,7 +278,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 83
+        percent: 84
         wins: 0
         losses: 1
       player2:
@@ -288,8 +288,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 83
+        position: Third
+        percent: 84
         win: 0
         loss: 1
       player2:
@@ -302,7 +302,7 @@ vs:
       year: 2019
       draw: Round Robin(2)
       score: CA 7 - ON 6
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:
@@ -316,7 +316,7 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
+        position: Third
         percent: 81
         win: 1
         loss: 0
@@ -362,7 +362,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 83
+        percent: 84
         wins: 0
         losses: 1
       player2:
@@ -372,8 +372,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 83
+        position: Third
+        percent: 84
         win: 0
         loss: 1
       player2:
@@ -418,7 +418,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 81
+        percent: 82
         wins: 2
         losses: 0
       player2:
@@ -428,8 +428,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 78
+        position: Third
+        percent: 80
         win: 1
         loss: 0
       player2:
@@ -462,7 +462,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 81
+        percent: 82
         wins: 2
         losses: 0
       player2:
@@ -472,8 +472,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 78
+        position: Third
+        percent: 80
         win: 1
         loss: 0
       player2:
@@ -506,7 +506,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 79
+        percent: 82
         wins: 0
         losses: 1
       player2:
@@ -516,8 +516,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 79
+        position: Third
+        percent: 82
         win: 0
         loss: 1
       player2:
@@ -534,7 +534,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 72
+        percent: 76
         wins: 1
         losses: 1
       player2:
@@ -544,8 +544,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 69
+        position: Third
+        percent: 78
         win: 0
         loss: 1
       player2:
@@ -606,7 +606,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 81
+        percent: 82
         wins: 2
         losses: 0
       player2:
@@ -616,8 +616,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 78
+        position: Third
+        percent: 80
         win: 1
         loss: 0
       player2:
@@ -650,7 +650,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 88
+        percent: 94
         wins: 1
         losses: 0
       player2:
@@ -660,8 +660,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 88
+        position: Third
+        percent: 94
         win: 1
         loss: 0
       player2:
@@ -706,7 +706,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 94
+        percent: 88
         wins: 1
         losses: 0
       player2:
@@ -716,8 +716,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 94
+        position: Third
+        percent: 88
         win: 1
         loss: 0
       player2:
@@ -734,7 +734,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 79
+        percent: 82
         wins: 0
         losses: 1
       player2:
@@ -744,8 +744,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 79
+        position: Third
+        percent: 82
         win: 0
         loss: 1
       player2:
@@ -772,7 +772,7 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
+        position: Third
         percent: 81
         win: 1
         loss: 0
@@ -806,7 +806,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 89
+        percent: 84
         wins: 0
         losses: 1
       player2:
@@ -816,8 +816,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 89
+        position: Third
+        percent: 84
         win: 0
         loss: 1
       player2:
@@ -834,7 +834,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 88
+        percent: 94
         wins: 1
         losses: 0
       player2:
@@ -844,8 +844,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 88
+        position: Third
+        percent: 94
         win: 1
         loss: 0
       player2:
@@ -890,7 +890,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 81
+        percent: 74
         wins: 1
         losses: 0
       player2:
@@ -900,8 +900,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 81
+        position: Third
+        percent: 74
         win: 1
         loss: 0
       player2:
@@ -918,7 +918,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 81
+        percent: 74
         wins: 1
         losses: 0
       player2:
@@ -928,8 +928,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 81
+        position: Third
+        percent: 74
         win: 1
         loss: 0
       player2:
@@ -946,7 +946,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 81
+        percent: 86
         wins: 0
         losses: 2
       player2:
@@ -956,8 +956,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 82
+        position: Third
+        percent: 93
         win: 0
         loss: 1
       player2:
@@ -1018,7 +1018,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 72
+        percent: 76
         wins: 1
         losses: 1
       player2:
@@ -1028,8 +1028,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 69
+        position: Third
+        percent: 78
         win: 0
         loss: 1
       player2:
@@ -1058,7 +1058,7 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: WC 3 - NB 6
- - name: McKinnon, Robert
+ - name: Mckinnon, Robert
    totals:
     - event: Brier
       player1:
@@ -1086,11 +1086,11 @@ vs:
       year: 2021
       draw: Round Robin(10)
       score: NB 8 - YT 3
- - name: McLeod, Shadrach
+ - name: Mcleod, Shadrach
    totals:
     - event: Brier
       player1:
-        percent: 94
+        percent: 88
         wins: 1
         losses: 0
       player2:
@@ -1100,8 +1100,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 94
+        position: Third
+        percent: 88
         win: 1
         loss: 0
       player2:
@@ -1202,7 +1202,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 81
+        percent: 86
         wins: 0
         losses: 2
       player2:
@@ -1212,8 +1212,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 82
+        position: Third
+        percent: 93
         win: 0
         loss: 1
       player2:
@@ -1246,7 +1246,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 81
+        percent: 74
         wins: 1
         losses: 0
       player2:
@@ -1256,8 +1256,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 81
+        position: Third
+        percent: 74
         win: 1
         loss: 0
       player2:
@@ -1274,7 +1274,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 81
+        percent: 74
         wins: 1
         losses: 0
       player2:
@@ -1284,8 +1284,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 81
+        position: Third
+        percent: 74
         win: 1
         loss: 0
       player2:
@@ -1302,7 +1302,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 88
+        percent: 94
         wins: 1
         losses: 0
       player2:
@@ -1312,8 +1312,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 88
+        position: Third
+        percent: 94
         win: 1
         loss: 0
       player2:
@@ -1386,7 +1386,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 79
+        percent: 82
         wins: 0
         losses: 1
       player2:
@@ -1396,8 +1396,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 79
+        position: Third
+        percent: 82
         win: 0
         loss: 1
       player2:
@@ -1414,7 +1414,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 94
+        percent: 88
         wins: 1
         losses: 0
       player2:
@@ -1424,8 +1424,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 94
+        position: Third
+        percent: 88
         win: 1
         loss: 0
       player2:
@@ -1442,7 +1442,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 83
+        percent: 84
         wins: 0
         losses: 1
       player2:
@@ -1452,8 +1452,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 83
+        position: Third
+        percent: 84
         win: 0
         loss: 1
       player2:
@@ -1498,7 +1498,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 89
+        percent: 84
         wins: 0
         losses: 1
       player2:
@@ -1508,8 +1508,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 89
+        position: Third
+        percent: 84
         win: 0
         loss: 1
       player2:
@@ -1526,7 +1526,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 89
+        percent: 84
         wins: 0
         losses: 1
       player2:
@@ -1536,8 +1536,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 89
+        position: Third
+        percent: 84
         win: 0
         loss: 1
       player2:
@@ -1554,7 +1554,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 94
+        percent: 88
         wins: 1
         losses: 0
       player2:
@@ -1564,8 +1564,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 94
+        position: Third
+        percent: 88
         win: 1
         loss: 0
       player2:
@@ -1610,7 +1610,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 89
+        percent: 84
         wins: 0
         losses: 1
       player2:
@@ -1620,8 +1620,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 89
+        position: Third
+        percent: 84
         win: 0
         loss: 1
       player2:
@@ -1638,7 +1638,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 72
+        percent: 76
         wins: 1
         losses: 1
       player2:
@@ -1648,8 +1648,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 69
+        position: Third
+        percent: 78
         win: 0
         loss: 1
       player2:
@@ -1692,7 +1692,7 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
+        position: Third
         percent: 81
         win: 1
         loss: 0
@@ -1754,7 +1754,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 88
+        percent: 94
         wins: 1
         losses: 0
       player2:
@@ -1764,8 +1764,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 88
+        position: Third
+        percent: 94
         win: 1
         loss: 0
       player2:
@@ -1782,7 +1782,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 85
+        percent: 90
         wins: 1
         losses: 0
       player2:
@@ -1792,8 +1792,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 85
+        position: Third
+        percent: 90
         win: 1
         loss: 0
       player2:
@@ -1810,7 +1810,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 81
+        percent: 86
         wins: 0
         losses: 2
       player2:
@@ -1820,8 +1820,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 82
+        position: Third
+        percent: 93
         win: 0
         loss: 1
       player2:
@@ -1854,7 +1854,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 85
+        percent: 90
         wins: 1
         losses: 0
       player2:
@@ -1864,8 +1864,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 85
+        position: Third
+        percent: 90
         win: 1
         loss: 0
       player2:
@@ -1882,7 +1882,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 83
+        percent: 84
         wins: 0
         losses: 1
       player2:
@@ -1892,8 +1892,8 @@ vs:
    games:
     - player1:
         team: 'ON'
-        position: Fourth
-        percent: 83
+        position: Third
+        percent: 84
         win: 0
         loss: 1
       player2:

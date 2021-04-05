@@ -132,7 +132,7 @@ vs:
  - LeClair, Bob
  - LeCocq, Marc
  - LeCocq, Vance
- - Lemery, Dan
+ - Lemery, Daniel
  - Loeffler, Ken
  - Lohnes, Bruce
  - MacFadyen, Bill
@@ -170,7 +170,7 @@ vs:
  - Schleppe, Dave
  - Sharp, Warren
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Tetley, Ross
  - Thomas, Jeff
  - Thomas, Rob

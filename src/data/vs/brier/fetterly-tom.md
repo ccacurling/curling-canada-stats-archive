@@ -1534,7 +1534,7 @@ vs:
       year: 1981
       draw: Round Robin(12)
       score: NS 3 - BC 11
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -3042,7 +3042,7 @@ vs:
       year: 1999
       draw: Round Robin(7)
       score: NS 6 - MB 9
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

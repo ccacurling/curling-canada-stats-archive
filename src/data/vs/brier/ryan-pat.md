@@ -122,7 +122,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 79
+        percent: 83
         wins: 1
         losses: 0
    games:
@@ -134,8 +134,8 @@ vs:
         loss: 1
       player2:
         team: 'MB'
-        position: Third
-        percent: 79
+        position: Second
+        percent: 83
         win: 1
         loss: 0
       event: Brier
@@ -538,7 +538,7 @@ vs:
       year: 1987
       draw: Round Robin(10)
       score: NO 6 - AB 7
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -822,7 +822,7 @@ vs:
       year: 2002
       draw: Round Robin(2)
       score: BC 7 - MB 4
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

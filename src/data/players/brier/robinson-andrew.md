@@ -153,7 +153,7 @@ vs:
  - McAulay, Greg
  - McDermaid, Donald
  - McKee, Darrell
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Miki, Bryan
  - Milward, Ross
@@ -185,7 +185,7 @@ vs:
  - Seabrook, Matt
  - Shypitka, Tom
  - Smith, Kent
- - Solberg, Jonathon
+ - Solberg, Jon
  - Stoughton, Jeff
  - Sveistrup, Jody
  - Sylvain, Eric

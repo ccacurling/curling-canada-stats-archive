@@ -104,7 +104,7 @@ vs:
  - MacInnes, David
  - MacPhee, Peter
  - Martin, Kevin
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Monkman, Greg
  - Morris, Earle

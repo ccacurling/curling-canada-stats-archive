@@ -90,7 +90,7 @@ vs:
       year: 2021
       draw: Round Robin(10)
       score: WC 6 - WC 5
- - name: McKinnon, Robert
+ - name: Mckinnon, Robert
    totals:
     - event: Brier
       player1:
@@ -126,7 +126,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 92
+        percent: 94
         wins: 1
         losses: 0
    games:
@@ -138,8 +138,8 @@ vs:
         loss: 1
       player2:
         team: 'SK'
-        position: Third
-        percent: 92
+        position: Second
+        percent: 94
         win: 1
         loss: 0
       event: Brier

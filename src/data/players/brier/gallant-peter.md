@@ -357,7 +357,7 @@ vs:
  - LeClair, Bob
  - LeCocq, Marc
  - Lemay, Philippe
- - Lemery, Dan
+ - Lemery, Daniel
  - Loeffler, Ken
  - Loevenmark, Phil
  - Logan, Mel
@@ -381,7 +381,7 @@ vs:
  - McGowan, Nolin
  - McHargue, Ken
  - McPhee, Barry
- - Mead, Jonathan
+ - Mead, Jon
  - Meakin, Rob
  - Mellof, Dave
  - Menard, Jean-Michel
@@ -412,7 +412,7 @@ vs:
  - Odishaw, Grant
  - Oke, Gary
  - O'Leary, Alan
- - Ormbsy, Dan
+ - Ormsby, Dan
  - Packet, Jim
  - Pahl, James
  - Palk, Shelly
@@ -471,7 +471,7 @@ vs:
  - Steventon, Lawren
  - Stoughton, Jeff
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Charlie
  - Sullivan, Dave
  - Sullivan, Jim

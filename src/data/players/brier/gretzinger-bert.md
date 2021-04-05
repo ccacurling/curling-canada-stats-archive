@@ -191,7 +191,7 @@ vs:
  - LeClair, Bob
  - LeCocq, Marc
  - Lemay, Jean-Yves
- - Lemery, Dan
+ - Lemery, Daniel
  - Lewis, Wayne
  - Loevenmark, Phil
  - Lohnes, Bruce
@@ -210,7 +210,7 @@ vs:
  - McClelland, John
  - McCusker, Brian
  - McKenzie, Donald
- - Mead, Jonathan
+ - Mead, Jon
  - Meakin, Rob
  - Meleschuk, Orest
  - Meleschuk, Sean
@@ -230,7 +230,7 @@ vs:
  - O'Driscoll, Frank
  - Oke, Gary
  - O'Leary, Alan
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Packet, Jim
  - Pahl, James
@@ -268,7 +268,7 @@ vs:
  - Smith, Dave
  - Stoughton, Jeff
  - Strain, Bill
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Tallon, Wayne
  - Tetley, Ross
  - Thibaudeau, Guy

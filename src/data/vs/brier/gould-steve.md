@@ -134,7 +134,7 @@ vs:
       year: 2011
       draw: Round Robin(2)
       score: MB 9 - NB 4
- - name: Gubbles, Will
+ - name: Gubbels, Will
    totals:
     - event: Brier
       player1:
@@ -2110,7 +2110,7 @@ vs:
       year: 2007
       draw: Round Robin(8)
       score: QC 4 - MB 6
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:
@@ -4470,7 +4470,7 @@ vs:
       year: 1996
       draw: Round Robin(4)
       score: ON 7 - MB 8
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -4526,7 +4526,7 @@ vs:
       year: 1996
       draw: Round Robin(17)
       score: PE 4 - MB 7
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

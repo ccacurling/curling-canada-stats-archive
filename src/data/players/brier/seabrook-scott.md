@@ -94,7 +94,7 @@ vs:
  - Gibson, Andrew
  - Gould, Steve
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harris, Tyler
  - Hart, Richard
@@ -118,7 +118,7 @@ vs:
  - Maskiewich, Ken
  - McCann, Andy
  - McDermaid, Donald
- - Mead, Jonathan
+ - Mead, Jon
  - Meek, Terry
  - Menard, Philippe
  - Middaugh, Wayne
@@ -141,7 +141,7 @@ vs:
  - Sawatsky, Rick
  - Simmons, Pat
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Thiessen, Nolan
  - Villeneuve, Steeve
  - Walker, Geoff

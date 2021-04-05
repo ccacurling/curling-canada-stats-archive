@@ -2,7 +2,7 @@
 title: Don Bourque Head-to-head
 name: Bourque, Don
 vs:
- - name: Campbell, Bill Jr
+ - name: Campbell, Bill Jr.
    totals:
     - event: Brier
       player1:

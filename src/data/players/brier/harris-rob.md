@@ -75,8 +75,8 @@ vs:
  - Base, John
  - Bryant, Doug
  - Bubbs, John
- - Bucyk, James
  - Burnett, Steve
+ - Buyck, James
  - Campbell, Robert
  - Cayouette, Maurice
  - Champion, Kevin
@@ -138,17 +138,16 @@ vs:
  - MacInnes, David
  - MacKenzie, Kevin
  - Martin, Kevin
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Milward, Ross
  - Molloy, Pat
- - Moss, Steve
  - Nedohin, David
  - Nelson, Randy
  - Ness, Dale
  - Nichols, Mark
  - Odishaw, Grant
- - Peachy, Jay
+ - Peachey, Jay
  - Peddigrew, Ken
  - Pfeifer, Scott
  - Recksiedler, Kevin

@@ -194,7 +194,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 90
+        percent: 82
         wins: 1
         losses: 0
    games:
@@ -206,8 +206,8 @@ vs:
         loss: 1
       player2:
         team: 'Humb'
-        position: Lead
-        percent: 90
+        position: Fourth
+        percent: 82
         win: 1
         loss: 0
       event: Canada Cup (Men)
@@ -510,7 +510,7 @@ vs:
       year: 2009
       draw: Round Robin(3)
       score: HOWA 2 - MCEW 7
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:

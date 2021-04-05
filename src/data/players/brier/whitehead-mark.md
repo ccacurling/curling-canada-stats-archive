@@ -194,7 +194,7 @@ vs:
  - Dillon, Mike
  - Dobson, Mark
  - Dobson, Paul
- - Doherty, Robert
+ - Doherty, Robbie
  - Duguid, Dale
  - Eldridge, Zach
  - Elmaleh, Maxime
@@ -215,7 +215,7 @@ vs:
  - Gould, Steve
  - Graber, Dennis
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Haichert, Chris
  - Hamilton, Wayne
@@ -227,8 +227,7 @@ vs:
  - Hart, Richard
  - Hebert, Ben
  - Hodgson, Colin
- - Hollowaychuk, Dan
- - Horning, Deane
+ - Holowaychuk, Dan
  - Howard, Glenn
  - Howard, Scott
  - Jacobs, Brad
@@ -265,7 +264,7 @@ vs:
  - McDonald, Toby
  - McGregor, Ken
  - McInnis, Phillip
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Mitchell, Garth

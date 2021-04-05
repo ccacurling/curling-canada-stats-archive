@@ -423,7 +423,7 @@ vs:
  - LeCocq, Marc
  - LeDrew, Ryan
  - Lemay, Philippe
- - Lemery, Dan
+ - Lemery, Daniel
  - Lequin, Bradley
  - Loeffler, Ken
  - Loevenmark, Phil
@@ -449,7 +449,7 @@ vs:
  - McHargue, Ken
  - McKee, Darrell
  - McPhee, Barry
- - Mead, Jonathan
+ - Mead, Jon
  - Meakin, Rob
  - Mellof, Dave
  - Menard, Jean-Michel
@@ -478,8 +478,8 @@ vs:
  - Oke, Gary
  - O'Leary, Alan
  - Olson, Mark-2
- - Ormbsy, Dan
  - Orme, Tyler
+ - Ormsby, Dan
  - Ouimet, Luc
  - Packet, Jim
  - Pahl, James
@@ -541,10 +541,10 @@ vs:
  - Slauenwhite, David
  - Smith, Garth
  - Smith, Kent
- - Solberg, Jonathon
+ - Solberg, Jon
  - Stoughton, Jeff
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Sylvain, Eric
  - Tallon, Wayne

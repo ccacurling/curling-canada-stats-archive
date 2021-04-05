@@ -786,11 +786,11 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 83
+        percent: 85
         wins: 2
         losses: 0
       player2:
-        percent: 80
+        percent: 77
         wins: 0
         losses: 2
    games:
@@ -813,19 +813,19 @@ vs:
     - player1:
         team: 'QC'
         position: Lead
-        percent: 80
+        percent: 84
         win: 1
         loss: 0
       player2:
-        team: 'NL'
+        team: 'BC'
         position: Fourth
-        percent: 81
+        percent: 75
         win: 0
         loss: 1
       event: Brier
       year: 2005
-      draw: Round Robin(13)
-      score: QC 6 - NL 3
+      draw: Round Robin(15)
+      score: BC 6 - QC 7
  - name: Howard, Glenn
    totals:
     - event: Brier
@@ -1122,7 +1122,7 @@ vs:
         loss: 1
       player2:
         team: 'MB'
-        position: Fourth
+        position: Lead
         percent: 78
         win: 1
         loss: 0
@@ -1926,7 +1926,7 @@ vs:
       year: 2000
       draw: Round Robin(1)
       score: SK 5 - QC 6
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -2238,6 +2238,34 @@ vs:
       year: 2002
       draw: Round Robin(10)
       score: SK 6 - QC 3
+ - name: Moss, Steve
+   totals:
+    - event: Brier
+      player1:
+        percent: 69
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Lead
+        percent: 69
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2005
+      draw: Round Robin(11)
+      score: TR 5 - QC 8
  - name: Nedohin, David
    totals:
     - event: Brier
@@ -3342,7 +3370,7 @@ vs:
       year: 2002
       draw: Round Robin(11)
       score: QC 8 - PE 7
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

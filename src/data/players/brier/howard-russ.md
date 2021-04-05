@@ -297,13 +297,13 @@ vs:
  - Bubbs, John
  - Buck, Wyatt
  - Buckle, Andrew
- - Bucyk, James
  - Burgess, Craig
  - Burnett, Steve
  - Butler, Mark
  - Butler, Mike
  - Butler, Ted
- - Campbell, Bill Jr
+ - Buyck, James
+ - Campbell, Bill Jr.
  - Campbell, Robert
  - Carey, Dan
  - Carter, Andrew
@@ -445,7 +445,7 @@ vs:
  - Jordison, Joel
  - Journeaux, Ian
  - Kalthoff, Kevin
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kamp, Ragnar
  - Kapicki, Ron
  - Kelsch, Dan
@@ -481,7 +481,7 @@ vs:
  - Ledgerwood, Sean
  - Leech, Ron
  - Lemay, Jean-Yves
- - Lemery, Dan
+ - Lemery, Daniel
  - Lewis, Wayne
  - Likely, John
  - Lindsay, Tim
@@ -519,7 +519,7 @@ vs:
  - McKenzie, Donald
  - McLeod, Brian
  - McPhee, Barry
- - Mead, Jonathan
+ - Mead, Jon
  - Meleschuk, Orest
  - Meleschuk, Sean
  - Mellof, Dave
@@ -563,7 +563,7 @@ vs:
  - Park, Kevin
  - Paslawski, Pat
  - Patterson, Scott
- - Peachy, Jay
+ - Peachey, Jay
  - Peddigrew, Ken
  - Peech, Orest
  - Pennell, Don
@@ -629,7 +629,7 @@ vs:
  - Smith, Doug-2
  - Smith, Jeff
  - Snell, Brian
- - Solberg, Jonathon
+ - Solberg, Jon
  - Somers, Grant
  - Sparkes, Bernie
  - Spicer, Grant
@@ -641,7 +641,7 @@ vs:
  - Strain, Bill
  - Stuart, Darol
  - Suchy, Chris
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Evan
  - Sumner, Kevin
  - Sveistrup, Jody

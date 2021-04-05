@@ -320,7 +320,7 @@ vs:
  - Lang, Lloyd
  - Langdon, Dennis
  - LeCocq, Vance
- - Lemery, Dan
+ - Lemery, Daniel
  - Lenz, Cliff
  - Likely, John
  - Logan, Mel
@@ -383,7 +383,7 @@ vs:
  - Odian, Scott
  - Oke, Gary
  - Olson, Mark-1
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Packet, Jim
  - Pahl, James
@@ -437,7 +437,7 @@ vs:
  - Steventon, Lawren
  - Stewart, Alexander
  - Strain, Bill
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Charlie
  - Sullivan, Dave
  - Sullivan, Jim

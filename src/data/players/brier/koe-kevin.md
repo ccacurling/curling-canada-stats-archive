@@ -211,8 +211,8 @@ vs:
  - Deis, Ryan
  - Desjardins, Robert
  - Dobson, Paul
- - Doherty, Robert
- - Dunstone, Matthew
+ - Doherty, Robbie
+ - Dunstone, Matt
  - Dutiaume, Randy
  - Eldridge, Zach
  - Epping, John
@@ -232,7 +232,7 @@ vs:
  - Gionest, Francois
  - Gould, Steve
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
@@ -288,9 +288,9 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
- - McLeod, Shadrach
+ - Mcleod, Shadrach
  - Meachem, Shaun Myles
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne

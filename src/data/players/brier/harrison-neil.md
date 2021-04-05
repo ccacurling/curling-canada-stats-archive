@@ -244,7 +244,7 @@ vs:
  - Lauziere, Claude
  - Lawrence, Harry
  - Ledgerwood, Allan
- - Lemery, Dan
+ - Lemery, Daniel
  - Loeffler, Ken
  - Lohnes, Bruce
  - Lukowich, Ed
@@ -293,7 +293,7 @@ vs:
  - Ogden, Steve
  - Oke, Gary
  - Olson, Mark-1
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Packet, Jim
  - Pacquin, Rolland
@@ -334,7 +334,7 @@ vs:
  - Strain, Bill
  - Strang, Don
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Charlie
  - Sullivan, Dave
  - Syme, Brent

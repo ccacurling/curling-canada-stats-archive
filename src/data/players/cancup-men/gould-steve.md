@@ -189,7 +189,7 @@ vs:
  - Martin, Kevin
  - McDermot, Ken
  - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Melnyk, Brendan
  - Menard, Jean-Michel
  - Middaugh, Wayne

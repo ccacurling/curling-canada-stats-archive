@@ -1482,7 +1482,7 @@ vs:
       year: 2010
       draw: Round Robin(8)
       score: AB 9 - SK 5
- - name: McLeod, Shadrach
+ - name: Mcleod, Shadrach
    totals:
     - event: Brier
       player1:
@@ -1518,7 +1518,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 95
+        percent: 99
         wins: 0
         losses: 1
    games:
@@ -1530,15 +1530,15 @@ vs:
         loss: 0
       player2:
         team: 'SK'
-        position: Third
-        percent: 95
+        position: Second
+        percent: 99
         win: 0
         loss: 1
       event: Brier
       year: 2017
       draw: Round Robin(12)
       score: CA 8 - SK 7
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:

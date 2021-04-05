@@ -43,7 +43,7 @@ vs:
  - Carmody, Anson
  - Carruthers, Reid
  - Crete, Martin
- - Doherty, Robert
+ - Doherty, Robbie
  - Fry, Ryan
  - Harnden, E.J.
  - Harnden, Ryan
@@ -62,7 +62,7 @@ vs:
  - Odian, Scott
  - Samagalski, Derek
  - Smallwood, Robert
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sylvain, Eric
  - Thiessen, Brad
 ---

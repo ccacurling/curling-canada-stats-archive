@@ -74,7 +74,7 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: WC 3 - NB 6
- - name: McKinnon, Robert
+ - name: Mckinnon, Robert
    totals:
     - event: Brier
       player1:
@@ -102,7 +102,7 @@ vs:
       year: 2021
       draw: Round Robin(10)
       score: NB 8 - YT 3
- - name: McLeod, Shadrach
+ - name: Mcleod, Shadrach
    totals:
     - event: Brier
       player1:

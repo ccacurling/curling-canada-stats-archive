@@ -30,7 +30,7 @@ vs:
       year: 2009
       draw: Round Robin(9)
       score: NO 7 - SK 5
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

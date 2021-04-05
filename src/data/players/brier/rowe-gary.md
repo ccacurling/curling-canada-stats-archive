@@ -63,7 +63,7 @@ vs:
  - Lappalainen, Art
  - LeClair, Bob
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - McCusker, Brian
  - Middaugh, Wayne
  - Moss, Steve

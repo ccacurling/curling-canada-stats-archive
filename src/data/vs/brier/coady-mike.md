@@ -1790,7 +1790,7 @@ vs:
       year: 1987
       draw: Round Robin(4)
       score: PE 7 - QC 9
- - name: Kallos, Jack Jr
+ - name: Kallos, Jack Jr.
    totals:
     - event: Brier
       player1:
@@ -2230,7 +2230,7 @@ vs:
       year: 1992
       draw: Round Robin(13)
       score: NS 2 - PE 8
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:
@@ -4258,7 +4258,7 @@ vs:
       year: 1983
       draw: Round Robin(2)
       score: PE 6 - TR 7
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

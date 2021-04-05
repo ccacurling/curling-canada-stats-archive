@@ -542,7 +542,7 @@ vs:
       year: 2005
       draw: Round Robin(9)
       score: Rya 7 - Har 10
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:

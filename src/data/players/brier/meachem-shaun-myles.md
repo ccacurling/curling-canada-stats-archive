@@ -7,34 +7,34 @@ totals:
    games: 11
    wins: 5
    losses: 6
-   inturn-total: 76
-   inturn-percent: 85
-   outturn-total: 130
-   outturn-percent: 91
-   draw-total: 87
-   draw-percent: 90
-   takeout-total: 119
+   inturn-total: 87
+   inturn-percent: 86
+   outturn-total: 119
+   outturn-percent: 90
+   draw-total: 100
+   draw-percent: 88
+   takeout-total: 106
    takeout-percent: 88
    shots-total: 206
-   shots-percent: 89
+   shots-percent: 88
 years:
  - year: 2017
    event: Brier
    team: "SK"
-   position: Third
+   position: Second
    games: 11
    wins: 5
    losses: 6
-   inturn-total: 76
-   inturn-percent: 85
-   outturn-total: 130
-   outturn-percent: 91
-   draw-total: 87
-   draw-percent: 90
-   takeout-total: 119
+   inturn-total: 87
+   inturn-percent: 86
+   outturn-total: 119
+   outturn-percent: 90
+   draw-total: 100
+   draw-percent: 88
+   takeout-total: 106
    takeout-percent: 88
    shots-total: 206
-   shots-percent: 89
+   shots-percent: 88
 vs:
  - Borden, Robert
  - Bottcher, Brendan
@@ -45,7 +45,7 @@ vs:
  - Crowell, Phil
  - Fry, Ryan
  - Gallant, Brett
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan

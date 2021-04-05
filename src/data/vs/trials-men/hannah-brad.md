@@ -786,7 +786,7 @@ vs:
       year: 1997
       draw: Round Robin(5)
       score: STO 5 - MAC 6
- - name: Vandenberghe, Garry
+ - name: Van Den Berghe, Garry
    totals:
     - event: Trials(Men)
       player1:

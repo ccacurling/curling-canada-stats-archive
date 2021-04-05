@@ -116,12 +116,12 @@ vs:
  - Brodersen, Erik
  - Bryant, Doug
  - Bubbs, John
- - Bucyk, James
  - Burgess, Bryan
  - Burgess, Craig
  - Burnett, Steve
  - Burtnyk, Kerry
  - Butler, Mark
+ - Buyck, James
  - Campbell, Robert
  - Cayouette, Maurice
  - Champion, Kevin
@@ -223,7 +223,7 @@ vs:
  - Odishaw, Grant
  - O'Rourke, Mark
  - Ouimet, Luc
- - Peachy, Jay
+ - Peachey, Jay
  - Phillips, Tim
  - Pielak, Rod
  - Pinsent, Garry
@@ -243,13 +243,13 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Smith, Jeff
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Spicer, Grant
  - Steski, John
  - Stuart, Darol
  - Suchy, Chris
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Evan
  - Sullivan, Jim
  - Sumner, Kevin

@@ -78,7 +78,7 @@ vs:
  - Robinson, Andrew
  - Savill, Craig
  - Schmidt, Aryn
- - Solberg, Jonathon
+ - Solberg, Jon
  - Stoughton, Jeff
  - Sylvain, Eric
 ---

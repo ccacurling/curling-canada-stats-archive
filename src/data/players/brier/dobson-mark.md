@@ -130,6 +130,7 @@ vs:
  - Mittelstadt, Kelly
  - Montgomery, Rod
  - Moshenko, Darcy
+ - Moss, Steve
  - Nedohin, David
  - Nelson, Randy
  - Ness, Dale
@@ -149,7 +150,7 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Sinclair, Rob
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Spencer, Jim
  - Sylvain, Eric

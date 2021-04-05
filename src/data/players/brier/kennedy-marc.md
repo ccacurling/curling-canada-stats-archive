@@ -232,8 +232,8 @@ vs:
  - Desrosiers, John
  - Dillon, Mike
  - Dobson, Paul
- - Doherty, Robert
- - Dunstone, Matthew
+ - Doherty, Robbie
+ - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
  - Errington, Derek
@@ -258,7 +258,7 @@ vs:
  - Gould, Steve
  - Granchelli, Kris
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Hagen, Brandon
@@ -316,9 +316,9 @@ vs:
  - Mawhinney, Spencer
  - McCann, Andy
  - McEwen, Mike
- - McKinnon, Robert
+ - Mckinnon, Robert
  - Meachem, Shaun Myles
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -372,10 +372,10 @@ vs:
  - Smith, Garth
  - Smith, Kent
  - Smitheram, Christian
- - Solberg, Jonathon
+ - Solberg, Jon
  - Spencer, Adam
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Thiessen, Brad
  - Thiessen, Nolan

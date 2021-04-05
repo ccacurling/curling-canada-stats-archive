@@ -1618,11 +1618,11 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 81
+        percent: 79
         wins: 2
         losses: 0
       player2:
-        percent: 86
+        percent: 81
         wins: 0
         losses: 2
    games:
@@ -1645,19 +1645,19 @@ vs:
     - player1:
         team: 'NS'
         position: Second
-        percent: 80
+        percent: 78
         win: 1
         loss: 0
       player2:
-        team: 'NL'
+        team: 'BC'
         position: Fourth
-        percent: 81
+        percent: 71
         win: 0
         loss: 1
       event: Brier
       year: 2005
-      draw: Round Robin(9)
-      score: NS 5 - NL 4
+      draw: Round Robin(11)
+      score: BC 2 - NS 4
  - name: Howard, Russ
    totals:
     - event: Brier
@@ -1882,7 +1882,7 @@ vs:
         wins: 1
         losses: 2
       player2:
-        percent: 77
+        percent: 82
         wins: 2
         losses: 1
    games:
@@ -1910,8 +1910,8 @@ vs:
         loss: 1
       player2:
         team: 'MB'
-        position: Fourth
-        percent: 71
+        position: Lead
+        percent: 72
         win: 1
         loss: 0
       event: Brier
@@ -1926,8 +1926,8 @@ vs:
         loss: 0
       player2:
         team: 'MB'
-        position: Fourth
-        percent: 73
+        position: Lead
+        percent: 84
         win: 0
         loss: 1
       event: Brier
@@ -2946,6 +2946,34 @@ vs:
       year: 2002
       draw: Round Robin(1)
       score: NS 8 - SK 4
+ - name: Moss, Steve
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 71
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 71
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2005
+      draw: Round Robin(15)
+      score: TR 4 - NS 6
  - name: Nedohin, David
    totals:
     - event: Brier
@@ -3174,7 +3202,7 @@ vs:
       year: 2002
       draw: Round Robin(5)
       score: NB 8 - NS 7
- - name: Ormbsy, Dan
+ - name: Ormsby, Dan
    totals:
     - event: Brier
       player1:
@@ -4222,7 +4250,7 @@ vs:
       year: 1995
       draw: Round Robin(5)
       score: NO 8 - NS 3
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

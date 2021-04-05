@@ -111,7 +111,7 @@ vs:
  - Gould, Steve
  - Grattan, James
  - Gretzinger, Bert
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Hannah, Brad
  - Harnden, E.J.
@@ -175,7 +175,7 @@ vs:
  - Thiessen, Nolan
  - Tresoor, Ken
  - Ursel, Bob
- - Vandenberghe, Garry
+ - Van Den Berghe, Garry
  - Walchuk, Don
  - Werenich, Ed
  - Whittle, Mark

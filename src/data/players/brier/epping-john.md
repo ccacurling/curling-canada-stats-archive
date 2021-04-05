@@ -85,7 +85,7 @@ vs:
  - Crowell, Phil
  - Dion, William
  - Dobson, Paul
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Flasch, Colton
  - Flemming, Paul
  - Forrest, Alex
@@ -123,7 +123,7 @@ vs:
  - McDonah, Evan
  - McDonald, Scott
  - McEwen, Mike
- - McLeod, Shadrach
+ - Mcleod, Shadrach
  - Middaugh, Wayne
  - Morris, John
  - Moskowy, Braeden

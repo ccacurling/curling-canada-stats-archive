@@ -130,7 +130,7 @@ vs:
       year: 2014
       draw: Round Robin(7)
       score: NB 7 - NL 9
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:
@@ -3574,7 +3574,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 90
+        percent: 92
         wins: 0
         losses: 1
    games:
@@ -3586,15 +3586,15 @@ vs:
         loss: 0
       player2:
         team: 'SK'
-        position: Third
-        percent: 90
+        position: Second
+        percent: 92
         win: 0
         loss: 1
       event: Brier
       year: 2017
       draw: Round Robin(7)
       score: SK 5 - NL 10
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -6054,34 +6054,6 @@ vs:
       year: 2021
       draw: Round Robin(15)
       score: CA 11 - NL 3
- - name: Smith, Kent
-   totals:
-    - event: Brier
-      player1:
-        percent: 79
-        wins: 1
-        losses: 0
-      player2:
-        percent: 89
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NL'
-        position: Third
-        percent: 79
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Lead
-        percent: 89
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2013
-      draw: Round Robin(1)
-      score: NS 2 - NL 10
  - name: Smith, Tyler
    totals:
     - event: Brier

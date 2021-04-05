@@ -81,7 +81,7 @@ vs:
  - Bothamley, Doug
  - Bourque, Don
  - Burgess, Craig
- - Campbell, Bill Jr
+ - Campbell, Bill Jr.
  - Carstairs, Kent
  - Clarke, Gary
  - Coady, Mike
@@ -156,6 +156,7 @@ vs:
  - Mittelstadt, Kelly
  - Morris, Earle
  - Moshenko, Darcy
+ - Moss, Steve
  - Muyres, Craig
  - Muyres, Garth
  - Muyres, Lyle
@@ -178,7 +179,7 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Smith, David
- - Solberg, Jonathon
+ - Solberg, Jon
  - Somers, Grant
  - Sosiak, Jim
  - Stearne, Kelly

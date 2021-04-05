@@ -182,7 +182,7 @@ vs:
  - Gould, Steve
  - Graber, Dennis
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Haichert, Chris
  - Harnden, Al
@@ -227,7 +227,7 @@ vs:
  - McCusker, Brian
  - McDermaid, Donald
  - McKee, Darrell
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Morgan, Tyler

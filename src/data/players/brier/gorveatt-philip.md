@@ -97,9 +97,9 @@ vs:
  - Blanchard, Wade
  - Bryant, Doug
  - Bubbs, John
- - Bucyk, James
  - Burgess, Craig
  - Burnett, Steve
+ - Buyck, James
  - Carruthers, Reid
  - Chorostkowski, Brad
  - Cochrane, Bryan
@@ -154,13 +154,14 @@ vs:
  - MacKenzie, Kevin
  - Martin, Kevin
  - McCarrel, Graeme
- - Mead, Jonathan
+ - Mead, Jon
  - Melnichuk, Greg
  - Menard, Jean-Michel
  - Middaugh, Wayne
  - Milward, Ross
  - Mittelstadt, Kelly
  - Moshenko, Darcy
+ - Moss, Steve
  - Nedohin, David
  - Nelson, Randy
  - Ness, Dale
@@ -180,7 +181,7 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Smith, Garth
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Steski, John
  - Stoughton, Jeff

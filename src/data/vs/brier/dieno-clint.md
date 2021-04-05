@@ -730,7 +730,7 @@ vs:
       year: 2004
       draw: Round Robin(14)
       score: SK 5 - NB 6
- - name: Peachy, Jay
+ - name: Peachey, Jay
    totals:
     - event: Brier
       player1:

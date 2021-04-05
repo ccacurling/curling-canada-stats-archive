@@ -198,7 +198,7 @@ vs:
       year: 2002
       draw: Round Robin(9)
       score: NL 5 - NB 10
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:
@@ -1122,7 +1122,7 @@ vs:
       year: 2002
       draw: Round Robin(4)
       score: PE 8 - NL 5
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -1222,7 +1222,7 @@ vs:
       year: 2002
       draw: Round Robin(7)
       score: MB 5 - NL 10
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

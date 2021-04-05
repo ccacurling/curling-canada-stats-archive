@@ -2,7 +2,7 @@
 title: Ian Journeaux Head-to-head
 name: Journeaux, Ian
 vs:
- - name: Kallos, Jack Jr
+ - name: Kallos, Jack Jr.
    totals:
     - event: Brier
       player1:

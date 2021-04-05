@@ -72,7 +72,7 @@ vs:
  - Ryan, Pat
  - Salina, Charlie
  - Smith, Dave
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Thomas, Rob
  - Trickett, Eugene
  - Wempe, Brian

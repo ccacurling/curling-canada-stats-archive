@@ -58,7 +58,7 @@ vs:
  - Howard, Glenn
  - Howard, Russ
  - Journeaux, Ian
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kennedy, Bruce
  - Krupski, Gary
  - Krupski, Mark

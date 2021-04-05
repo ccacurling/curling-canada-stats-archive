@@ -46,7 +46,7 @@ vs:
  - Koe, Kevin
  - Laing, Brent
  - MacDonald, Blake
- - Mead, Jonathan
+ - Mead, Jon
  - Middaugh, Wayne
  - Nichols, Mark
  - O'Connor, Sean

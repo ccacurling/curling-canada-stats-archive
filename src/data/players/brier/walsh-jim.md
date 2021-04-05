@@ -128,7 +128,7 @@ vs:
  - Smith, Dave
  - Stokes, Lionel
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Tetley, Ross
  - Thomas, Rob
  - Tresoor, Ken

@@ -2,7 +2,7 @@
 title: Matt Seabrook Head-to-head
 name: Seabrook, Matt
 vs:
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

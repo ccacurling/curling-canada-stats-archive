@@ -142,7 +142,7 @@ vs:
  - Tetley, Ian
  - Thiessen, Nolan
  - Tresoor, Ken
- - Vandenberghe, Garry
+ - Van Den Berghe, Garry
  - Walchuk, Don
  - Werenich, Ed
  - Zawada, Braden

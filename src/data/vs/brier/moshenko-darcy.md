@@ -542,7 +542,7 @@ vs:
       year: 2005
       draw: Round Robin(2)
       score: SK 8 - TR 3
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -570,7 +570,7 @@ vs:
       year: 2005
       draw: Round Robin(16)
       score: NO 8 - TR 6
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

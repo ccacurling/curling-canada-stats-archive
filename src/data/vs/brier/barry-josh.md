@@ -534,7 +534,7 @@ vs:
       year: 2018
       draw: Round Robin(3)
       score: PE 7 - QC 6
- - name: Dunstone, Matthew
+ - name: Dunstone, Matt
    totals:
     - event: Brier
       player1:
@@ -834,7 +834,7 @@ vs:
       year: 2018
       draw: Round Robin(9)
       score: PE 6 - NB 9
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:
@@ -1906,7 +1906,7 @@ vs:
       year: 2014
       draw: Round Robin(15)
       score: NB 6 - NS 5
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:

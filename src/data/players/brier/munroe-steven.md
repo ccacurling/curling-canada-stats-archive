@@ -47,7 +47,7 @@ vs:
  - Folk, Kevin
  - Fowler, Rob
  - Gaudet, Mike
- - Griffith, Ty
+ - Griffith, Tyrel
  - Harnden, E.J.
  - Harnden, Ryan
  - Harris, Tyler

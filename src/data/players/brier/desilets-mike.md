@@ -38,7 +38,7 @@ years:
 vs:
  - Bryant, Doug
  - Bubbs, John
- - Bucyk, James
+ - Buyck, James
  - Campbell, Robert
  - Champion, Kevin
  - Cochrane, Bryan
@@ -55,7 +55,7 @@ vs:
  - Harcourt, Greg
  - Harris, Rob
  - Hemmings, Guy
- - Hollowaychuk, Dan
+ - Holowaychuk, Dan
  - Horning, Deane
  - Howard, Russ
  - Jenion, Bob

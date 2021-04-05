@@ -75,7 +75,7 @@ vs:
  - Carruthers, Reid
  - Casey, Adam
  - Collin, Simon
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Ferbey, Randy
  - Flasch, Colton
@@ -95,7 +95,7 @@ vs:
  - Martin, Karrick
  - Martin, Kevin
  - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Middaugh, Wayne
  - Morris, John
  - Moskowy, Braeden

@@ -4,19 +4,19 @@ name: B.J. Neufeld
 name-sort: Neufeld, B.J.
 totals:
  - event: Canada Cup (Men)
-   games: 66
-   wins: 36
-   losses: 30
-   inturn-total: 530
-   inturn-percent: 83
-   outturn-total: 696
-   outturn-percent: 84
-   draw-total: 466
-   draw-percent: 80
-   takeout-total: 760
+   games: 68
+   wins: 39
+   losses: 29
+   inturn-total: 545
+   inturn-percent: 84
+   outturn-total: 717
+   outturn-percent: 85
+   draw-total: 468
+   draw-percent: 82
+   takeout-total: 794
    takeout-percent: 86
-   shots-total: 1226
-   shots-percent: 83
+   shots-total: 1262
+   shots-percent: 84
 years:
  - year: 2008
    event: Canada Cup (Men)
@@ -156,21 +156,21 @@ years:
    shots-percent: 88
  - year: 2014
    event: Canada Cup (Men)
-   team: "GUS"
+   team: "MCE"
    position: Third
-   games: 6
-   wins: 3
-   losses: 3
-   inturn-total: 40
-   inturn-percent: 71
-   outturn-total: 72
-   outturn-percent: 80
-   draw-total: 38
-   draw-percent: 68
-   takeout-total: 74
-   takeout-percent: 81
-   shots-total: 112
-   shots-percent: 77
+   games: 8
+   wins: 6
+   losses: 2
+   inturn-total: 55
+   inturn-percent: 87
+   outturn-total: 93
+   outturn-percent: 87
+   draw-total: 40
+   draw-percent: 88
+   takeout-total: 108
+   takeout-percent: 87
+   shots-total: 148
+   shots-percent: 87
  - year: 2019
    event: Canada Cup (Men)
    team: "Koe"
@@ -197,7 +197,7 @@ vs:
  - Casey, Adam
  - Collin, Simon
  - Cotter, Jim
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Ferbey, Randy
  - Flasch, Colton
@@ -207,7 +207,7 @@ vs:
  - Gionest, Francois
  - Gould, Steve
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Hamilton, Andrew
  - Harnden, E.J.
@@ -235,8 +235,7 @@ vs:
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
- - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Middaugh, Wayne
  - Morris, John
  - Moskowy, Braeden
@@ -244,7 +243,6 @@ vs:
  - Muyres, Dallan
  - Muyres, Kirk
  - Nedohin, David
- - Neufeld, Denni
  - Nichols, Mark
  - Park, Kevin
  - Pfeifer, Scott
@@ -265,5 +263,4 @@ vs:
  - Vaughan, Jason
  - Villeneuve, Steeve
  - Walker, Geoff
- - Wozniak, Matt
 ---

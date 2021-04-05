@@ -986,7 +986,7 @@ vs:
       year: 1984
       draw: Round Robin(11)
       score: PE 2 - ON 7
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:
@@ -2502,7 +2502,7 @@ vs:
       year: 1981
       draw: Round Robin(2)
       score: MB 6 - ON 5
- - name: Ormbsy, Dan
+ - name: Ormsby, Dan
    totals:
     - event: Brier
       player1:
@@ -3858,7 +3858,7 @@ vs:
       year: 1997
       draw: Round Robin(2)
       score: ON 9 - TR 3
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

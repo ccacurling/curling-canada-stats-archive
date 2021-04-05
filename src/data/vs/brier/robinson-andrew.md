@@ -314,7 +314,7 @@ vs:
       year: 2010
       draw: Round Robin(12)
       score: PE 8 - NS 10
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

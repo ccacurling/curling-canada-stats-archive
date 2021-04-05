@@ -6,7 +6,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 84
+        percent: 83
         wins: 0
         losses: 1
       player2:
@@ -16,8 +16,8 @@ vs:
    games:
     - player1:
         team: 'SK'
-        position: Third
-        percent: 84
+        position: Second
+        percent: 83
         win: 0
         loss: 1
       player2:
@@ -34,7 +34,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 84
+        percent: 83
         wins: 0
         losses: 1
       player2:
@@ -44,8 +44,8 @@ vs:
    games:
     - player1:
         team: 'SK'
-        position: Third
-        percent: 84
+        position: Second
+        percent: 83
         win: 0
         loss: 1
       player2:
@@ -62,7 +62,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 95
+        percent: 90
         wins: 0
         losses: 1
       player2:
@@ -72,8 +72,8 @@ vs:
    games:
     - player1:
         team: 'SK'
-        position: Third
-        percent: 95
+        position: Second
+        percent: 90
         win: 0
         loss: 1
       player2:
@@ -90,7 +90,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 83
+        percent: 90
         wins: 1
         losses: 0
       player2:
@@ -100,8 +100,8 @@ vs:
    games:
     - player1:
         team: 'SK'
-        position: Third
-        percent: 83
+        position: Second
+        percent: 90
         win: 1
         loss: 0
       player2:
@@ -118,7 +118,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 84
+        percent: 78
         wins: 1
         losses: 0
       player2:
@@ -128,8 +128,8 @@ vs:
    games:
     - player1:
         team: 'SK'
-        position: Third
-        percent: 84
+        position: Second
+        percent: 78
         win: 1
         loss: 0
       player2:
@@ -146,7 +146,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 96
+        percent: 89
         wins: 0
         losses: 1
       player2:
@@ -156,8 +156,8 @@ vs:
    games:
     - player1:
         team: 'SK'
-        position: Third
-        percent: 96
+        position: Second
+        percent: 89
         win: 0
         loss: 1
       player2:
@@ -174,7 +174,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 96
+        percent: 89
         wins: 0
         losses: 1
       player2:
@@ -184,8 +184,8 @@ vs:
    games:
     - player1:
         team: 'SK'
-        position: Third
-        percent: 96
+        position: Second
+        percent: 89
         win: 0
         loss: 1
       player2:
@@ -202,7 +202,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 90
+        percent: 92
         wins: 0
         losses: 1
       player2:
@@ -212,8 +212,8 @@ vs:
    games:
     - player1:
         team: 'SK'
-        position: Third
-        percent: 90
+        position: Second
+        percent: 92
         win: 0
         loss: 1
       player2:
@@ -230,7 +230,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 95
+        percent: 99
         wins: 0
         losses: 1
       player2:
@@ -240,8 +240,8 @@ vs:
    games:
     - player1:
         team: 'SK'
-        position: Third
-        percent: 95
+        position: Second
+        percent: 99
         win: 0
         loss: 1
       player2:
@@ -258,7 +258,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 84
+        percent: 78
         wins: 1
         losses: 0
       player2:
@@ -268,8 +268,8 @@ vs:
    games:
     - player1:
         team: 'SK'
-        position: Third
-        percent: 84
+        position: Second
+        percent: 78
         win: 1
         loss: 0
       player2:
@@ -286,7 +286,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 84
+        percent: 78
         wins: 1
         losses: 0
       player2:
@@ -296,8 +296,8 @@ vs:
    games:
     - player1:
         team: 'SK'
-        position: Third
-        percent: 84
+        position: Second
+        percent: 78
         win: 1
         loss: 0
       player2:
@@ -314,7 +314,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 95
+        percent: 90
         wins: 0
         losses: 1
       player2:
@@ -324,8 +324,8 @@ vs:
    games:
     - player1:
         team: 'SK'
-        position: Third
-        percent: 95
+        position: Second
+        percent: 90
         win: 0
         loss: 1
       player2:
@@ -342,7 +342,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 94
+        percent: 97
         wins: 1
         losses: 0
       player2:
@@ -352,8 +352,8 @@ vs:
    games:
     - player1:
         team: 'SK'
-        position: Third
-        percent: 94
+        position: Second
+        percent: 97
         win: 1
         loss: 0
       player2:
@@ -370,7 +370,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 92
+        percent: 94
         wins: 1
         losses: 0
       player2:
@@ -380,8 +380,8 @@ vs:
    games:
     - player1:
         team: 'SK'
-        position: Third
-        percent: 92
+        position: Second
+        percent: 94
         win: 1
         loss: 0
       player2:
@@ -398,7 +398,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 84
+        percent: 83
         wins: 0
         losses: 1
       player2:
@@ -408,8 +408,8 @@ vs:
    games:
     - player1:
         team: 'SK'
-        position: Third
-        percent: 84
+        position: Second
+        percent: 83
         win: 0
         loss: 1
       player2:
@@ -426,7 +426,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 83
+        percent: 90
         wins: 1
         losses: 0
       player2:
@@ -436,8 +436,8 @@ vs:
    games:
     - player1:
         team: 'SK'
-        position: Third
-        percent: 83
+        position: Second
+        percent: 90
         win: 1
         loss: 0
       player2:
@@ -454,7 +454,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 90
+        percent: 92
         wins: 0
         losses: 1
       player2:
@@ -464,8 +464,8 @@ vs:
    games:
     - player1:
         team: 'SK'
-        position: Third
-        percent: 90
+        position: Second
+        percent: 92
         win: 0
         loss: 1
       player2:
@@ -482,7 +482,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 96
+        percent: 89
         wins: 0
         losses: 1
       player2:
@@ -492,8 +492,8 @@ vs:
    games:
     - player1:
         team: 'SK'
-        position: Third
-        percent: 96
+        position: Second
+        percent: 89
         win: 0
         loss: 1
       player2:

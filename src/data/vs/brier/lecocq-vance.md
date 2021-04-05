@@ -2,7 +2,7 @@
 title: Vance LeCocq Head-to-head
 name: LeCocq, Vance
 vs:
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:

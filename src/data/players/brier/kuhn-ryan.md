@@ -63,7 +63,7 @@ vs:
  - Casey, Adam
  - Chorostkowski, Brad
  - Crete, Martin
- - Doherty, Robert
+ - Doherty, Robbie
  - Eldridge, Zach
  - Flasch, Colton
  - Fry, Ryan

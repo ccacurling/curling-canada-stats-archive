@@ -65,7 +65,7 @@ vs:
  - MacKenzie, Eddie
  - Martin, Karrick
  - Martin, Kevin
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne

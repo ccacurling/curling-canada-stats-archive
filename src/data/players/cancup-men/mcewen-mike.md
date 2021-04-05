@@ -180,7 +180,7 @@ vs:
  - Casey, Adam
  - Collin, Simon
  - Cotter, Jim
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Ferbey, Randy
  - Flasch, Colton
@@ -190,7 +190,7 @@ vs:
  - Gionest, Francois
  - Gould, Steve
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Hamilton, Andrew
  - Harnden, E.J.
@@ -218,7 +218,7 @@ vs:
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
- - Mead, Jonathan
+ - Mead, Jon
  - Middaugh, Wayne
  - Morris, John
  - Moskowy, Braeden
@@ -226,7 +226,6 @@ vs:
  - Muyres, Dallan
  - Muyres, Kirk
  - Nedohin, David
- - Neufeld, B.J.
  - Nichols, Mark
  - Park, Kevin
  - Pfeifer, Scott

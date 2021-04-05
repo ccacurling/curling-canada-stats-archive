@@ -1,7 +1,7 @@
 ---
-title: Charles Jr Sullivan
-name: Charles Jr Sullivan
-name-sort: Sullivan, Charles Jr
+title: Charles Jr. Sullivan
+name: Charles Jr. Sullivan
+name-sort: Sullivan, Charles Jr.
 totals:
  - event: Brier
    games: 60
@@ -113,7 +113,7 @@ vs:
  - Arsenault, Craig
  - Assad, Mike
  - Bailey, Scott
- - Balderson, Dennis
+ - Balderston, Dennis
  - Bartlett, Don
  - Biron, Louis
  - Bouchard, Christian
@@ -205,7 +205,7 @@ vs:
  - Langdon, Dennis
  - Laycock, Steve
  - Lemay, Jean-Yves
- - Lemery, Dan
+ - Lemery, Daniel
  - Lepine, Craig
  - Lewis, Wayne
  - Loevenmark, Phil
@@ -230,7 +230,7 @@ vs:
  - McGowan, Nolin
  - McMechan, Kelly
  - McPhee, Barry
- - Mead, Jonathan
+ - Mead, Jon
  - Meakin, Rob
  - Menard, Philippe
  - Middaugh, Wayne

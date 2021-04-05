@@ -650,7 +650,7 @@ vs:
         wins: 2
         losses: 0
       player2:
-        percent: 86
+        percent: 83
         wins: 0
         losses: 2
    games:
@@ -678,15 +678,15 @@ vs:
         loss: 0
       player2:
         team: 'NS'
-        position: Lead
-        percent: 93
+        position: Second
+        percent: 100
         win: 0
         loss: 1
       event: Brier
       year: 2013
       draw: Round Robin(6)
       score: NS 2 - ON 10
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -958,7 +958,7 @@ vs:
       year: 2002
       draw: Round Robin(4)
       score: MB 10 - ON 8
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

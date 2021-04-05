@@ -526,30 +526,30 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 75
-        wins: 0
-        losses: 1
-      player2:
-        percent: 86
+        percent: 80
         wins: 1
         losses: 0
+      player2:
+        percent: 68
+        wins: 0
+        losses: 1
    games:
     - player1:
         team: 'NB'
         position: Third
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Fourth
-        percent: 86
+        percent: 80
         win: 1
         loss: 0
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
       event: Brier
       year: 2005
-      draw: Round Robin(5)
-      score: NB 4 - NL 10
+      draw: Round Robin(6)
+      score: NB 10 - BC 8
  - name: Jakubo, Mike
    totals:
     - event: Brier
@@ -614,7 +614,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 88
+        percent: 90
         wins: 1
         losses: 0
    games:
@@ -626,8 +626,8 @@ vs:
         loss: 1
       player2:
         team: 'MB'
-        position: Fourth
-        percent: 88
+        position: Lead
+        percent: 90
         win: 1
         loss: 0
       event: Brier
@@ -1282,6 +1282,34 @@ vs:
       year: 2005
       draw: Round Robin(10)
       score: NB 8 - TR 6
+ - name: Moss, Steve
+   totals:
+    - event: Brier
+      player1:
+        percent: 70
+        wins: 1
+        losses: 0
+      player2:
+        percent: 61
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2005
+      draw: Round Robin(10)
+      score: NB 8 - TR 6
  - name: Nedohin, David
    totals:
     - event: Brier
@@ -1814,7 +1842,7 @@ vs:
       year: 1998
       draw: Round Robin(11)
       score: NB 4 - NO 10
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

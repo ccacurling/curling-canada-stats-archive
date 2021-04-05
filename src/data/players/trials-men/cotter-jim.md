@@ -168,7 +168,7 @@ vs:
  - Stoughton, Jeff
  - Thiessen, Brad
  - Thiessen, Nolan
- - Vandenberghe, Garry
+ - Van Den Berghe, Garry
  - Walchuk, Don
  - Walker, Geoff
  - Wozniak, Matt

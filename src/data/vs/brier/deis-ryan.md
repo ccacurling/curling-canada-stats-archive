@@ -142,7 +142,7 @@ vs:
       year: 2012
       draw: Round Robin(1)
       score: PE 4 - SK 8
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:

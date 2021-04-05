@@ -43,7 +43,7 @@ vs:
  - Blanchard, Wade
  - Bothamley, Doug
  - Bourque, Don
- - Campbell, Bill Jr
+ - Campbell, Bill Jr.
  - Carstairs, Kent
  - Coulter, Mike
  - Durant, Fred

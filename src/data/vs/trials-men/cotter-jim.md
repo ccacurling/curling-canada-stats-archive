@@ -2154,7 +2154,7 @@ vs:
       year: 2013
       draw: Round Robin(4)
       score: MOR 6 - KOE 4
- - name: Vandenberghe, Garry
+ - name: Van Den Berghe, Garry
    totals:
     - event: Trials(Men)
       player1:

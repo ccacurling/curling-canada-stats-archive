@@ -135,7 +135,7 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Eric
@@ -172,7 +172,7 @@ vs:
  - McCarville, Mike
  - McDermaid, Donald
  - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Merklinger, Bill
@@ -201,8 +201,7 @@ vs:
  - Simmons, Pat
  - Smallwood, Robert
  - Smith, Garth
- - Smith, Kent
- - Solberg, Jonathon
+ - Solberg, Jon
  - Spencer, Adam
  - Stoughton, Jeff
  - Sylvain, Eric

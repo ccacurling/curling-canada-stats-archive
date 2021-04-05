@@ -89,7 +89,7 @@ vs:
  - Harrison, Neil
  - Harvey, Paul
  - Heidt, Brad
- - Hollowaychuk, Dan
+ - Holowaychuk, Dan
  - Howard, Russ
  - Hunt, Bruce
  - Jenkins, Bill
@@ -110,17 +110,16 @@ vs:
  - Martin, Kevin
  - Meakin, Rob
  - Molloy, Pat
- - Moss, Steve
  - Nedohin, David
  - Nichols, Mark
  - Odian, Scott
  - Odishaw, Grant
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Pahl, James
  - Park, Kevin
  - Patriquin, Chuck
- - Peachy, Jay
+ - Peachey, Jay
  - Peddigrew, Ken
  - Perroud, Pat
  - Pfeifer, Scott

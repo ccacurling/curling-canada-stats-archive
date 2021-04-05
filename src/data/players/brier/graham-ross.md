@@ -72,7 +72,7 @@ vs:
  - Schneider, Larry
  - Schneider, Mike
  - Schneider, Rick
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Tetley, Ian
  - Turner, Malcolm

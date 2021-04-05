@@ -1342,7 +1342,7 @@ vs:
       year: 2006
       draw: Round Robin(15)
       score: AB 10 - NO 7
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -1398,34 +1398,6 @@ vs:
       year: 2006
       draw: Round Robin(8)
       score: NO 5 - QC 10
- - name: Moss, Steve
-   totals:
-    - event: Brier
-      player1:
-        percent: 66
-        wins: 0
-        losses: 1
-      player2:
-        percent: 78
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NO'
-        position: Second
-        percent: 66
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      event: Brier
-      year: 2004
-      draw: Round Robin(3)
-      score: SK 10 - NO 3
  - name: Nedohin, David
    totals:
     - event: Brier
@@ -1538,7 +1510,7 @@ vs:
       year: 2004
       draw: Round Robin(6)
       score: NO 5 - NB 4
- - name: Peachy, Jay
+ - name: Peachey, Jay
    totals:
     - event: Brier
       player1:

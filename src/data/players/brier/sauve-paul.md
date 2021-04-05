@@ -37,7 +37,7 @@ years:
    shots-percent: 50
 vs:
  - Armstrong, Doug
- - Mead, Jonathan
+ - Mead, Jon
  - Stoughton, Jeff
  - Van Den Berghe, Garry
 ---

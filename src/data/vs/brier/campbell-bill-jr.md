@@ -1,6 +1,6 @@
 ---
-title: Bill Jr Campbell Head-to-head
-name: Campbell, Bill Jr
+title: Bill Jr. Campbell Head-to-head
+name: Campbell, Bill Jr.
 vs:
  - name: Carstairs, Kent
    totals:

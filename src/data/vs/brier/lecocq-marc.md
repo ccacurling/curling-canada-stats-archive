@@ -74,7 +74,7 @@ vs:
       year: 2004
       draw: Tie-Breaker(18)
       score: BC 7 - NB 5
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:
@@ -706,7 +706,7 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: NB 7 - MB 9
- - name: McLeod, Shadrach
+ - name: Mcleod, Shadrach
    totals:
     - event: Brier
       player1:
@@ -770,7 +770,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 85
+        percent: 88
         wins: 1
         losses: 0
    games:
@@ -782,8 +782,8 @@ vs:
         loss: 1
       player2:
         team: 'SK'
-        position: Third
-        percent: 85
+        position: Second
+        percent: 88
         win: 1
         loss: 0
       event: Brier
@@ -1187,12 +1187,12 @@ vs:
     - event: Brier
       player1:
         percent: 83
-        wins: 1
+        wins: 0
         losses: 1
       player2:
-        percent: 77
+        percent: 85
         wins: 1
-        losses: 1
+        losses: 0
    games:
     - player1:
         team: 'NB'
@@ -1210,22 +1210,6 @@ vs:
       year: 1993
       draw: Round Robin(4)
       score: NB 4 - TR 7
-    - player1:
-        team: 'NB'
-        position: Second
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Fourth
-        percent: 68
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2004
-      draw: Round Robin(14)
-      score: SK 5 - NB 6
  - name: Moulding, Darren
    totals:
     - event: Brier
@@ -1902,7 +1886,7 @@ vs:
       year: 2019
       draw: Round Robin(14)
       score: NT 2 - NB 8
- - name: Peachy, Jay
+ - name: Peachey, Jay
    totals:
     - event: Brier
       player1:
@@ -2742,7 +2726,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 73
+        percent: 78
         wins: 0
         losses: 1
    games:
@@ -2754,8 +2738,8 @@ vs:
         loss: 0
       player2:
         team: 'MB'
-        position: Third
-        percent: 73
+        position: Second
+        percent: 78
         win: 0
         loss: 1
       event: Brier
@@ -3030,7 +3014,7 @@ vs:
       year: 1996
       draw: Round Robin(11)
       score: NB 6 - ON 5
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

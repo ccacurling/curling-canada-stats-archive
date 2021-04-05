@@ -109,7 +109,7 @@ vs:
  - Aitken, Don
  - Alexander, Trevor
  - Armstrong, Jim
- - Balderson, Dennis
+ - Balderston, Dennis
  - Bartlett, Don
  - Belliveau, Dan
  - Belyea, Richard
@@ -198,7 +198,7 @@ vs:
  - Langille, Vic
  - LeCocq, Vance
  - Ledgerwood, Allan
- - Lemery, Dan
+ - Lemery, Daniel
  - Lenz, Cliff
  - Lepine, Craig
  - Likely, John
@@ -271,7 +271,7 @@ vs:
  - Spencer, Jim
  - Stewart, Alexander
  - Strain, Bill
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Sutherland, Cy
  - Syme, Brent

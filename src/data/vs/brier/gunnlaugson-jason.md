@@ -810,7 +810,7 @@ vs:
       year: 2021
       draw: Round Robin(8)
       score: MB 8 - WC 5
- - name: McKinnon, Robert
+ - name: Mckinnon, Robert
    totals:
     - event: Brier
       player1:

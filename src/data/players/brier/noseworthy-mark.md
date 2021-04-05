@@ -159,7 +159,7 @@ vs:
  - Johnston, Steve
  - Journeaux, Ian
  - Kalthoff, Kevin
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kapicki, Ron
  - Kennedy, Bruce
  - Kilgallen, Shane
@@ -235,12 +235,12 @@ vs:
  - Smith, Dave
  - Smith, Jeff
  - Snell, Brian
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sparkes, Bernie
  - Steventon, Lawren
  - Stuart, Darol
  - Suchy, Chris
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Charlie
  - Sullivan, Dave
  - Sylvain, Eric

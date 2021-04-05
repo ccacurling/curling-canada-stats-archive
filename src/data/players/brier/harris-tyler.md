@@ -76,7 +76,7 @@ vs:
  - Gervais, Martin
  - Grant, Scott
  - Gretzinger, Bert
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harcourt, Doug
  - Harcourt, Greg
@@ -133,7 +133,7 @@ vs:
  - Seabrook, Scott
  - Simmons, Pat
  - Smith, Dave
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Thiessen, Nolan
  - Thomas, Rob
  - Trickett, Eugene

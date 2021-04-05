@@ -69,7 +69,7 @@ vs:
  - Reddick, Don
  - Robertson, Brad
  - Robertson, Richard
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Tetley, Ian
  - Wallace, Dave

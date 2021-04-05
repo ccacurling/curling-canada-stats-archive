@@ -159,7 +159,7 @@ vs:
  - Landry, Jeremy
  - Langdon, Dennis
  - LeDrew, Ryan
- - Lemery, Dan
+ - Lemery, Daniel
  - Loevenmark, Phil
  - Lohnes, Bruce
  - Lowe, Wayne
@@ -175,7 +175,7 @@ vs:
  - McClelland, John
  - McGowan, Nolin
  - McPhee, Barry
- - Mead, Jonathan
+ - Mead, Jon
  - Meakin, Rob
  - Menard, Jean-Michel
  - Middaugh, Wayne

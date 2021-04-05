@@ -2,7 +2,7 @@
 title: William Dion Head-to-head
 name: Dion, William
 vs:
- - name: Dunstone, Matthew
+ - name: Dunstone, Matt
    totals:
     - event: Brier
       player1:

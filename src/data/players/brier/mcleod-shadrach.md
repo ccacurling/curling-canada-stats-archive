@@ -1,7 +1,7 @@
 ---
-title: Shadrach McLeod
-name: Shadrach McLeod
-name-sort: McLeod, Shadrach
+title: Shadrach Mcleod
+name: Shadrach Mcleod
+name-sort: Mcleod, Shadrach
 totals:
  - event: Brier
    games: 10
@@ -60,7 +60,7 @@ vs:
  - Chadwick, Scott
  - Cotter, Jim
  - Dobson, Paul
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
  - Forget, Wes

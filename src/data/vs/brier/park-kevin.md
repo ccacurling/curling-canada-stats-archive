@@ -898,7 +898,7 @@ vs:
       year: 2010
       draw: Round Robin(15)
       score: NS 3 - MB 9
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

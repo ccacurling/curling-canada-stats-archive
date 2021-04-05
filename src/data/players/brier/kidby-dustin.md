@@ -117,7 +117,7 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
@@ -153,8 +153,8 @@ vs:
  - McDonah, Evan
  - McDonald, Scott
  - McEwen, Mike
- - McLeod, Shadrach
- - Mead, Jonathan
+ - Mcleod, Shadrach
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -182,7 +182,6 @@ vs:
  - Schille, Chris
  - Scoffin, Thomas
  - Smith, Greg
- - Smith, Kent
  - Smith, Tyler
  - Spencer, Adam
  - St.Louis, Brady

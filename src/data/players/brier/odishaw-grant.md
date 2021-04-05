@@ -283,11 +283,11 @@ vs:
  - Bryant, Doug
  - Bubbs, John
  - Buck, Wyatt
- - Bucyk, James
  - Burgess, Craig
  - Burnett, Steve
  - Butler, Marc
  - Butler, Mark
+ - Buyck, James
  - Campbell, Robert
  - Carter, Andrew
  - Casey, Adam
@@ -351,9 +351,9 @@ vs:
  - Gorveatt, Philip
  - Gould, Steve
  - Gretzinger, Bert
- - Griffith, Ty
+ - Griffith, Tyrel
  - Grundy, John
- - Gubbles, Will
+ - Gubbels, Will
  - Gushue, Brad
  - Haines, Chuck
  - Harcourt, Doug
@@ -407,7 +407,7 @@ vs:
  - Laycock, Steve
  - Ledgerwood, Sean
  - Leech, Ron
- - Lemery, Dan
+ - Lemery, Daniel
  - Likely, John
  - Lindsay, Tim
  - Loevenmark, Phil
@@ -435,9 +435,9 @@ vs:
  - McDonald, Scott
  - McHargue, Ken
  - McKee, Darrell
- - McLeod, Shadrach
+ - Mcleod, Shadrach
  - McPhee, Barry
- - Mead, Jonathan
+ - Mead, Jon
  - Mellof, Dave
  - Menard, Jean-Michel
  - Middaugh, Wayne
@@ -450,7 +450,6 @@ vs:
  - Montgomery, Rod
  - Morris, John
  - Moskowy, Kelly
- - Moss, Steve
  - Munroe, Steven
  - Murphy, Jamie
  - Nadeau, Jeff
@@ -469,7 +468,7 @@ vs:
  - Parsons, Cole
  - Paslawski, Pat
  - Patterson, Scott
- - Peachy, Jay
+ - Peachey, Jay
  - Peech, Orest
  - Petryk, Dan
  - Pfeifer, Scott
@@ -510,7 +509,7 @@ vs:
  - Slauenwhite, David
  - Smith, Jeff
  - Smyth, Larry
- - Solberg, Jonathon
+ - Solberg, Jon
  - Somers, Grant
  - Spicer, Grant
  - St.Louis, David

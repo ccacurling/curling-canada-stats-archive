@@ -89,7 +89,7 @@ vs:
  - Crete, Martin
  - Dacey, Mark
  - Dobson, Brian
- - Doherty, Robert
+ - Doherty, Robbie
  - Doyon, Ghislain
  - Fenton, Keith
  - Folk, Rick
@@ -150,7 +150,7 @@ vs:
  - Noseworthy, Mark
  - O'Driscoll, Frank
  - O'Leary, Alan
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Pahl, James
  - Park, Kevin
@@ -171,7 +171,7 @@ vs:
  - Samagalski, Derek
  - Skillen, Aaron
  - Smith, Dave
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Symonds, Andrew
  - Thiessen, Brad

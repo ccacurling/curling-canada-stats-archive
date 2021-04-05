@@ -60,7 +60,7 @@ vs:
  - Odian, Scott
  - Samagalski, Derek
  - Smallwood, Robert
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sylvain, Eric
  - Symonds, Andrew
  - Thiessen, Brad

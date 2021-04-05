@@ -109,7 +109,7 @@ vs:
  - Noseworthy, Mark
  - O'Driscoll, Frank
  - O'Leary, Alan
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Pahl, James
  - Park, Kevin
@@ -129,7 +129,7 @@ vs:
  - Salina, Charlie
  - Skillen, Aaron
  - Smith, Dave
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Thomas, Rob
  - Tremblay, Roderigue
  - Trickett, Eugene

@@ -84,7 +84,7 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Gedak, Brent
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.

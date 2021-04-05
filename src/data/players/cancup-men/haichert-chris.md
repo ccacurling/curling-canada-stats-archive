@@ -45,7 +45,7 @@ vs:
  - Kochan, Craig
  - LeCocq, Marc
  - McDermot, Ken
- - Mead, Jonathan
+ - Mead, Jon
  - Nedohin, David
  - Odishaw, Grant
  - Pfeifer, Scott

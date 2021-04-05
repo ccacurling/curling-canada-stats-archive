@@ -97,7 +97,7 @@ vs:
  - Laing, Brent
  - Lang, Mark
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - Likely, John
  - Loeffler, Ken
  - Lukowich, Mark
@@ -131,7 +131,7 @@ vs:
  - Schleppe, Dave
  - Smith, Jeff
  - Suchy, Chris
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Thomas, Jeff
  - Turpin, Randy
  - Walchuk, Don

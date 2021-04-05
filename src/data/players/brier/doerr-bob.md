@@ -130,7 +130,7 @@ vs:
  - Smith, Alex
  - Smith, Doug-2
  - Strain, Bill
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Thomas, Jeff
  - Usackis, John
  - Walchuk, Don

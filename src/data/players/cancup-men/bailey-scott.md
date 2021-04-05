@@ -97,7 +97,7 @@ vs:
  - Lohnes, Bruce
  - Martin, Kevin
  - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Middaugh, Wayne
  - Moffatt, Paul
  - Morris, John

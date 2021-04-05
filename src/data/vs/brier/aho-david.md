@@ -38,7 +38,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 94
+        percent: 88
         wins: 1
         losses: 0
    games:
@@ -50,8 +50,8 @@ vs:
         loss: 1
       player2:
         team: 'ON'
-        position: Fourth
-        percent: 94
+        position: Third
+        percent: 88
         win: 1
         loss: 0
       event: Brier
@@ -330,7 +330,7 @@ vs:
       year: 2020
       draw: Round Robin(12)
       score: NB 6 - NT 8
- - name: Dunstone, Matthew
+ - name: Dunstone, Matt
    totals:
     - event: Brier
       player1:
@@ -570,7 +570,7 @@ vs:
       year: 2020
       draw: Round Robin(12)
       score: NB 6 - NT 8
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:

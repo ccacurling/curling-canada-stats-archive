@@ -166,7 +166,7 @@ vs:
  - Savill, Craig
  - Scoffin, Wade
  - Smallwood, Robert
- - Solberg, Jonathon
+ - Solberg, Jon
  - Strain, Bill
  - Stuart, Darol
  - Suchy, Chris

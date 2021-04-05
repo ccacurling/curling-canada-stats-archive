@@ -1886,7 +1886,7 @@ vs:
       year: 1994
       draw: Round Robin(2)
       score: QC 4 - ON 8
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:
@@ -2498,7 +2498,7 @@ vs:
       year: 2000
       draw: Round Robin(7)
       score: SK 7 - ON 4
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -4498,7 +4498,7 @@ vs:
       year: 2000
       draw: Tie-Breaker(18)
       score: ON 5 - MB 7
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

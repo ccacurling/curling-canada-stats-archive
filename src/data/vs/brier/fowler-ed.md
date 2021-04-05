@@ -366,7 +366,7 @@ vs:
       year: 1992
       draw: Round Robin(3)
       score: NS 4 - BC 7
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:

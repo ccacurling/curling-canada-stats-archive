@@ -86,7 +86,7 @@ vs:
       year: 1996
       draw: Round Robin(16)
       score: MB 8 - BC 6
- - name: Gubbles, Will
+ - name: Gubbels, Will
    totals:
     - event: Brier
       player1:
@@ -282,7 +282,7 @@ vs:
       year: 1996
       draw: Round Robin(9)
       score: BC 6 - NB 4
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:

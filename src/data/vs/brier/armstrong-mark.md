@@ -1422,7 +1422,7 @@ vs:
       year: 1987
       draw: Round Robin(12)
       score: NB 7 - QC 5
- - name: Kallos, Jack Jr
+ - name: Kallos, Jack Jr.
    totals:
     - event: Brier
       player1:
@@ -2210,7 +2210,7 @@ vs:
       year: 1995
       draw: Round Robin(9)
       score: TR 7 - NB 4
- - name: Ormbsy, Dan
+ - name: Ormsby, Dan
    totals:
     - event: Brier
       player1:

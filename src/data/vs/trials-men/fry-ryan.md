@@ -30,7 +30,7 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: Gush 4 - Jaco 7
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Trials(Men)
       player1:

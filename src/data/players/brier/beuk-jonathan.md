@@ -7,34 +7,34 @@ totals:
    games: 19
    wins: 10
    losses: 9
-   inturn-total: 180
+   inturn-total: 153
    inturn-percent: 81
-   outturn-total: 189
-   outturn-percent: 83
-   draw-total: 155
-   draw-percent: 82
-   takeout-total: 214
-   takeout-percent: 82
-   shots-total: 369
-   shots-percent: 82
+   outturn-total: 217
+   outturn-percent: 84
+   draw-total: 150
+   draw-percent: 83
+   takeout-total: 220
+   takeout-percent: 83
+   shots-total: 370
+   shots-percent: 83
 years:
  - year: 2019
    event: Brier
    team: "ON"
-   position: Fourth
+   position: Third
    games: 11
    wins: 6
    losses: 5
-   inturn-total: 111
-   inturn-percent: 81
-   outturn-total: 100
-   outturn-percent: 84
-   draw-total: 95
-   draw-percent: 83
-   takeout-total: 116
-   takeout-percent: 82
-   shots-total: 211
-   shots-percent: 82
+   inturn-total: 84
+   inturn-percent: 82
+   outturn-total: 128
+   outturn-percent: 86
+   draw-total: 90
+   draw-percent: 84
+   takeout-total: 122
+   takeout-percent: 84
+   shots-total: 212
+   shots-percent: 84
  - year: 2021
    event: Brier
    team: "NB"
@@ -64,7 +64,7 @@ vs:
  - Flasch, Colton
  - Fry, Ryan
  - Gallant, Brett
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Hagen, Brandon
@@ -87,8 +87,8 @@ vs:
  - Martin, Karrick
  - Mathers, David
  - McEwen, Mike
- - McKinnon, Robert
- - McLeod, Shadrach
+ - Mckinnon, Robert
+ - Mcleod, Shadrach
  - Middaugh, Wayne
  - Mikkelsen, Ray
  - Mikkelsen, Dustin

@@ -108,8 +108,8 @@ vs:
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
- - Doherty, Robert
- - Dunstone, Matthew
+ - Doherty, Robbie
+ - Dunstone, Matt
  - Epping, John
  - Fecteau, Steve
  - Flasch, Colton
@@ -118,7 +118,7 @@ vs:
  - Gallant, Brett
  - Geall, Sean
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Hagen, Brandon
  - Harnden, E.J.
@@ -146,7 +146,7 @@ vs:
  - Mathers, David
  - McCann, Andy
  - McEwen, Mike
- - McKinnon, Robert
+ - Mckinnon, Robert
  - NcNeil-Lamswood, Ryan
  - Meachem, Shaun Myles
  - Menard, Jean-Michel

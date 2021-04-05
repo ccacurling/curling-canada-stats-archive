@@ -302,7 +302,7 @@ vs:
       year: 2020
       draw: Round Robin(5)
       score: NB 4 - CA 8
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:
@@ -2158,7 +2158,7 @@ vs:
       year: 2020
       draw: Round Robin(10)
       score: WC 2 - CA 3
- - name: McLeod, Shadrach
+ - name: Mcleod, Shadrach
    totals:
     - event: Brier
       player1:
@@ -2186,7 +2186,7 @@ vs:
       year: 2020
       draw: Round Robin(4)
       score: CA 7 - NT 3
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:

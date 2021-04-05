@@ -103,6 +103,7 @@ vs:
  - Morris, John
  - Moshenko, Darcy
  - Moskowy, Kelly
+ - Moss, Steve
  - Nedohin, David
  - Nichols, Mark
  - Nobert, Rob
@@ -121,7 +122,7 @@ vs:
  - Scoffin, Wade
  - Sharp, Jeff
  - Simmons, Pat
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Stuart, Darol
  - Sylvain, Eric

@@ -1026,7 +1026,7 @@ vs:
       year: 1994
       draw: Round Robin(1)
       score: NB 5 - SK 1
- - name: Kallos, Jack Jr
+ - name: Kallos, Jack Jr.
    totals:
     - event: Brier
       player1:

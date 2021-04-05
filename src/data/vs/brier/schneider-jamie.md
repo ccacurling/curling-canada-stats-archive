@@ -30,7 +30,7 @@ vs:
       year: 2017
       draw: Round Robin(10)
       score: SK 9 - ON 5
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

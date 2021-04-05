@@ -746,7 +746,7 @@ vs:
       year: 1992
       draw: Round Robin(7)
       score: NL 4 - NS 3
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:
@@ -1282,7 +1282,7 @@ vs:
       year: 1990
       draw: Round Robin(13)
       score: MB 4 - NL 6
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -2250,7 +2250,7 @@ vs:
       year: 1999
       draw: Round Robin(3)
       score: MB 5 - NL 3
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

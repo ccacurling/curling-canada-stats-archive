@@ -634,7 +634,7 @@ vs:
       year: 1996
       draw: Round Robin(9)
       score: TR 0 - MB 10
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

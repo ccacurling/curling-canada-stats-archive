@@ -134,7 +134,7 @@ vs:
       year: 2010
       draw: Page 3-4(12)
       score: MM 7 - KK 10
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:

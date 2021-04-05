@@ -153,7 +153,7 @@ vs:
  - Johnston, Bill
  - Jones, Dave
  - Journeaux, Ian
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kamp, Ragnar
  - Kapicki, Ron
  - Kawaja, John
@@ -169,7 +169,7 @@ vs:
  - Lawrence, Harry
  - LeCocq, Vance
  - Ledgerwood, Allan
- - Lemery, Dan
+ - Lemery, Daniel
  - Lohnes, Bruce
  - Lukowich, Ed
  - MacDonald, Ken

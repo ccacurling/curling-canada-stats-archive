@@ -155,7 +155,7 @@ vs:
  - Fraser, Pierre
  - Gallant, Peter
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Howard, Russ
  - Howard, Steven
  - Jones, Scott
@@ -166,7 +166,7 @@ vs:
  - MacLean, Stuart
  - McCarville, Mike
  - McDermaid, Donald
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Morris, John

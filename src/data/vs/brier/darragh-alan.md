@@ -2466,7 +2466,7 @@ vs:
       year: 1981
       draw: Round Robin(13)
       score: PE 3 - NS 9
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

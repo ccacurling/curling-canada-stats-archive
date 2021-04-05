@@ -85,7 +85,7 @@ vs:
  - Hyrich, John
  - Jackson, Glenn
  - Journeaux, Ian
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kamp, Ragnar
  - Kapicki, Ron
  - Kennedy, Bruce

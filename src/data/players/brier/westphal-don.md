@@ -172,11 +172,11 @@ vs:
  - Bubbs, John
  - Buchan, Chris
  - Buck, Wyatt
- - Bucyk, James
  - Burgess, Bryan
  - Burtnyk, Kerry
  - Butler, Marc
  - Butler, Mark
+ - Buyck, James
  - Campbell, Robert
  - Carey, Dan
  - Carstairs, Kent
@@ -219,7 +219,7 @@ vs:
  - Grattan, James
  - Gretzinger, Bert
  - Grundy, John
- - Gubbles, Will
+ - Gubbels, Will
  - Gushue, Brad
  - Hackner, Al
  - Harcourt, Doug
@@ -340,7 +340,7 @@ vs:
  - Stoughton, Jeff
  - Strain, Bill
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Tervo, Randy
  - Tetley, Ian

@@ -74,7 +74,7 @@ vs:
  - Alexander, Trevor
  - Allan, John
  - Armstrong, Jim
- - Balderson, Dennis
+ - Balderston, Dennis
  - Barrette, Yves
  - Bauer, Keiven
  - Belcourt, Tim
@@ -85,7 +85,7 @@ vs:
  - Bradley, Mike
  - Breckenridge, Harold
  - Burgess, Craig
- - Campbell, Bill Jr
+ - Campbell, Bill Jr.
  - Carstairs, Kent
  - Carter, Andrew
  - Cecil, Denis
@@ -173,7 +173,7 @@ vs:
  - Somers, Grant
  - Sparkes, Bernie
  - Strang, Don
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Charlie
  - Sullivan, Dave
  - Sullivan, Jim

@@ -177,7 +177,7 @@ vs:
  - Deis, Ryan
  - Desjardins, Robert
  - Dillon, Mike
- - Doherty, Robert
+ - Doherty, Robbie
  - Dowden, Craig
  - Dutiaume, Randy
  - Eldridge, Zach
@@ -201,7 +201,7 @@ vs:
  - Gould, Steve
  - Graber, Dennis
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Haichert, Chris
  - Harnden, E.J.
@@ -260,7 +260,7 @@ vs:
  - McDermaid, Donald
  - McEwen, Mike
  - McKee, Darrell
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne

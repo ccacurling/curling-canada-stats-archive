@@ -138,7 +138,7 @@ vs:
  - Gibson, Andrew
  - Gould, Steve
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Hagen, Brandon
@@ -178,8 +178,8 @@ vs:
  - McCann, Andy
  - McDermaid, Donald
  - McEwen, Mike
- - McKinnon, Robert
- - Mead, Jonathan
+ - Mckinnon, Robert
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -211,9 +211,8 @@ vs:
  - Schille, Chris
  - Seabrook, Scott
  - Simmons, Pat
- - Smith, Kent
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Thiessen, Brad
  - Thiessen, Nolan

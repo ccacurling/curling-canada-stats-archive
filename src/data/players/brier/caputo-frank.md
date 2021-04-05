@@ -39,7 +39,7 @@ vs:
  - Adams, Kevin
  - Alexander, Trevor
  - Allan, John
- - Balderson, Dennis
+ - Balderston, Dennis
  - Bradley, Mike
  - Breckenridge, Harold
  - Burgess, Craig
@@ -72,7 +72,7 @@ vs:
  - Schneider, Larry
  - Schneider, Mike
  - Schneider, Rick
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Tetley, Ian
  - Turner, Malcolm

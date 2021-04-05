@@ -63,7 +63,7 @@ vs:
  - Broda, Shawn
  - Brown, Ken
  - Butler, Marc
- - Campbell, Bill Jr
+ - Campbell, Bill Jr.
  - Carstairs, Kent
  - Charette, Pierre
  - Coulter, Mike
@@ -81,7 +81,7 @@ vs:
  - Fizzard, Blake
  - Forsyth, Sandy
  - Gould, Steve
- - Gubbles, Will
+ - Gubbels, Will
  - Hamelmann, Chris
  - Harnden, Al
  - Henderson, Jeffrey
@@ -98,7 +98,7 @@ vs:
  - Kuroyama, Robert
  - LaRocque, Guy
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - Lukowich, Ed
  - MacDonald, Doug
  - MacInnes, David

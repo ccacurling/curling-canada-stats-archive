@@ -93,7 +93,7 @@ vs:
  - Allan, John
  - Armstrong, Jim
  - Atchison, Chris
- - Balderson, Dennis
+ - Balderston, Dennis
  - Barker, Richard
  - Barrette, Yves
  - Bauer, Keiven
@@ -107,7 +107,7 @@ vs:
  - Breckenridge, Harold
  - Bryant, Doug
  - Burgess, Craig
- - Campbell, Bill Jr
+ - Campbell, Bill Jr.
  - Campbell, Robert
  - Carstairs, Kent
  - Carter, Andrew
@@ -230,7 +230,7 @@ vs:
  - Sparkes, Bernie
  - Stoughton, Jeff
  - Strang, Don
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Charlie
  - Sullivan, Dave
  - Sullivan, Jim

@@ -30,7 +30,7 @@ vs:
       year: 2020
       draw: Round Robin(6)
       score: NS 11 - PE 2
- - name: Dunstone, Matthew
+ - name: Dunstone, Matt
    totals:
     - event: Brier
       player1:
@@ -550,7 +550,7 @@ vs:
       year: 2010
       draw: Round Robin(1)
       score: NB 8 - NS 6
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:
@@ -2246,7 +2246,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 84
+        percent: 78
         wins: 1
         losses: 0
    games:
@@ -2258,8 +2258,8 @@ vs:
         loss: 1
       player2:
         team: 'SK'
-        position: Third
-        percent: 84
+        position: Second
+        percent: 78
         win: 1
         loss: 0
       event: Brier
@@ -3390,7 +3390,7 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: NS 11 - PE 4
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

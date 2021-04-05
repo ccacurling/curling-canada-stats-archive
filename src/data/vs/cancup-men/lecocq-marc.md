@@ -58,7 +58,7 @@ vs:
       year: 2004
       draw: Round Robin(2)
       score: HOW 7 - COR 1
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:

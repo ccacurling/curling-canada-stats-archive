@@ -148,14 +148,14 @@ vs:
  - Carruthers, Reid
  - Cotter, Jim
  - Daneault, Richard
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Elmaleh, Maxime
  - Enright, Adam
  - Epping, John
  - Flasch, Colton
  - Gallant, Brett
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -184,7 +184,7 @@ vs:
  - Martin, Kevin
  - Mathers, David
  - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Middaugh, Wayne
  - Morris, John

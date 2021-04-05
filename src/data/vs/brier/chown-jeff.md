@@ -86,7 +86,7 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: NU 1 - QC 15
- - name: Dunstone, Matthew
+ - name: Dunstone, Matt
    totals:
     - event: Brier
       player1:

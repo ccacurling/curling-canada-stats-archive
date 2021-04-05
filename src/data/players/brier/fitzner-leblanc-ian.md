@@ -101,7 +101,7 @@ vs:
  - Martin, Karrick
  - Martin, Kevin
  - McKee, Darrell
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -121,7 +121,7 @@ vs:
  - Savill, Craig
  - Schille, Chris
  - Shypitka, Tom
- - Solberg, Jonathon
+ - Solberg, Jon
  - Stoughton, Jeff
  - Sylvain, Eric
  - Thiessen, Nolan

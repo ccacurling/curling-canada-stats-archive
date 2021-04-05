@@ -72,7 +72,7 @@ vs:
  - Lohnes, Bruce
  - Martin, Kevin
  - McCarrel, Graeme
- - Mead, Jonathan
+ - Mead, Jon
  - Middaugh, Wayne
  - Moffatt, Paul
  - Morris, John

@@ -124,7 +124,7 @@ vs:
  - Simmons, Pat
  - Stoughton, Jeff
  - Thiessen, Nolan
- - Vandenberghe, Garry
+ - Van Den Berghe, Garry
  - Walchuk, Don
  - Wozniak, Matt
 ---

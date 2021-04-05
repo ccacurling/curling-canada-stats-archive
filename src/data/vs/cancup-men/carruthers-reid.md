@@ -58,7 +58,7 @@ vs:
       year: 2010
       draw: Round Robin(9)
       score: JS 9 - RFO 5
- - name: Dunstone, Matthew
+ - name: Dunstone, Matt
    totals:
     - event: Canada Cup (Men)
       player1:

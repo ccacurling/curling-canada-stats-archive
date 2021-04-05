@@ -89,6 +89,7 @@ vs:
  - Middaugh, Wayne
  - Mittelstadt, Kelly
  - Moshenko, Darcy
+ - Moss, Steve
  - Nedohin, David
  - Nichols, Mark
  - Nobert, Rob
@@ -102,7 +103,7 @@ vs:
  - Rycroft, Carter
  - Sharp, Jeff
  - Simmons, Pat
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Sylvain, Eric
  - Thiessen, Nolan

@@ -126,7 +126,7 @@ vs:
  - Martin, Kevin
  - McDermot, Ken
  - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Morris, John
  - Nedohin, David
  - Neufeld, B.J.

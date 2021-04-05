@@ -150,7 +150,7 @@ vs:
       year: 2021
       draw: Round Robin(10)
       score: WC 6 - WC 5
- - name: McKinnon, Robert
+ - name: Mckinnon, Robert
    totals:
     - event: Brier
       player1:

@@ -290,30 +290,30 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 65
-        wins: 0
-        losses: 1
-      player2:
-        percent: 64
+        percent: 75
         wins: 1
         losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
    games:
     - player1:
         team: 'MB'
         position: Fourth
-        percent: 65
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Fourth
-        percent: 64
+        percent: 75
         win: 1
         loss: 0
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
       event: Brier
       year: 2005
-      draw: Round Robin(16)
-      score: NL 8 - MB 6
+      draw: Round Robin(2)
+      score: MB 6 - BC 4
  - name: Jakubo, Mike
    totals:
     - event: Brier
@@ -604,6 +604,34 @@ vs:
         team: 'TR'
         position: Third
         percent: 73
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2005
+      draw: Round Robin(4)
+      score: TR 6 - MB 7
+ - name: Moss, Steve
+   totals:
+    - event: Brier
+      player1:
+        percent: 71
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Fourth
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 66
         win: 0
         loss: 1
       event: Brier
@@ -1022,7 +1050,7 @@ vs:
       year: 2005
       draw: Round Robin(1)
       score: MB 6 - SK 3
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

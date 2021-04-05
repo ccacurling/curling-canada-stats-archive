@@ -86,7 +86,7 @@ vs:
       year: 1998
       draw: Round Robin(4)
       score: TR 4 - ON 7
- - name: Balderson, Dennis
+ - name: Balderston, Dennis
    totals:
     - event: Brier
       player1:
@@ -4146,7 +4146,7 @@ vs:
       year: 1988
       draw: Round Robin(5)
       score: QC 7 - TR 5
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

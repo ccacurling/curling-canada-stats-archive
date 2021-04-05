@@ -1686,11 +1686,11 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 86
+        percent: 85
         wins: 2
         losses: 0
       player2:
-        percent: 86
+        percent: 81
         wins: 0
         losses: 2
    games:
@@ -1713,19 +1713,19 @@ vs:
     - player1:
         team: 'NS'
         position: Fourth
-        percent: 88
+        percent: 85
         win: 1
         loss: 0
       player2:
-        team: 'NL'
+        team: 'BC'
         position: Fourth
-        percent: 81
+        percent: 71
         win: 0
         loss: 1
       event: Brier
       year: 2005
-      draw: Round Robin(9)
-      score: NS 5 - NL 4
+      draw: Round Robin(11)
+      score: BC 2 - NS 4
  - name: Howard, Glenn
    totals:
     - event: Brier
@@ -2002,7 +2002,7 @@ vs:
         wins: 1
         losses: 2
       player2:
-        percent: 77
+        percent: 82
         wins: 2
         losses: 1
    games:
@@ -2030,8 +2030,8 @@ vs:
         loss: 1
       player2:
         team: 'MB'
-        position: Fourth
-        percent: 71
+        position: Lead
+        percent: 72
         win: 1
         loss: 0
       event: Brier
@@ -2046,8 +2046,8 @@ vs:
         loss: 0
       player2:
         team: 'MB'
-        position: Fourth
-        percent: 73
+        position: Lead
+        percent: 84
         win: 0
         loss: 1
       event: Brier
@@ -2674,7 +2674,7 @@ vs:
       year: 2000
       draw: Round Robin(12)
       score: SK 5 - NS 7
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -3074,6 +3074,34 @@ vs:
       year: 2002
       draw: Round Robin(1)
       score: NS 8 - SK 4
+ - name: Moss, Steve
+   totals:
+    - event: Brier
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 71
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 71
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2005
+      draw: Round Robin(15)
+      score: TR 4 - NS 6
  - name: Muyres, Dallan
    totals:
     - event: Brier
@@ -4278,7 +4306,7 @@ vs:
       year: 2011
       draw: Round Robin(8)
       score: NS 7 - SK 6
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -4450,7 +4478,7 @@ vs:
       year: 2002
       draw: Round Robin(17)
       score: NS 5 - MB 7
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

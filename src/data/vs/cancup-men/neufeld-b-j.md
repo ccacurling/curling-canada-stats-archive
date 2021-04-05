@@ -2,45 +2,17 @@
 title: B.J. Neufeld Head-to-head
 name: Neufeld, B.J.
 vs:
- - name: Neufeld, Denni
-   totals:
-    - event: Canada Cup (Men)
-      player1:
-        percent: 53
-        wins: 0
-        losses: 1
-      player2:
-        percent: 67
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'GUS'
-        position: Third
-        percent: 53
-        win: 0
-        loss: 1
-      player2:
-        team: 'MCE'
-        position: Lead
-        percent: 67
-        win: 1
-        loss: 0
-      event: Canada Cup (Men)
-      year: 2014
-      draw: Round Robin(2)
-      score: GUS 3 - MCE 9
  - name: Nichols, Mark
    totals:
     - event: Canada Cup (Men)
       player1:
         percent: 79
-        wins: 4
+        wins: 5
         losses: 2
       player2:
-        percent: 80
+        percent: 77
         wins: 2
-        losses: 4
+        losses: 5
    games:
     - player1:
         team: 'MCEW'
@@ -90,6 +62,22 @@ vs:
       year: 2012
       draw: Round Robin(9)
       score: MCE 5 - STO 7
+    - player1:
+        team: 'MCE'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'GUS'
+        position: Third
+        percent: 53
+        win: 0
+        loss: 1
+      event: Canada Cup (Men)
+      year: 2014
+      draw: Round Robin(2)
+      score: GUS 3 - MCE 9
     - player1:
         team: 'MCE'
         position: Third
@@ -270,11 +258,11 @@ vs:
    totals:
     - event: Canada Cup (Men)
       player1:
-        percent: 78
+        percent: 80
         wins: 3
         losses: 4
       player2:
-        percent: 83
+        percent: 85
         wins: 4
         losses: 3
    games:
@@ -359,21 +347,21 @@ vs:
       draw: Tie-Breaker(10)
       score: KOE 7 - MCE 9
     - player1:
-        team: 'GUS'
+        team: 'MCE'
         position: Third
-        percent: 75
+        percent: 84
         win: 1
         loss: 0
       player2:
         team: 'MOR'
         position: Second
-        percent: 78
+        percent: 89
         win: 0
         loss: 1
       event: Canada Cup (Men)
       year: 2014
-      draw: Round Robin(4)
-      score: MOR 6 - GUS 8
+      draw: Round Robin(9)
+      score: MCE 7 - MOR 4
     - player1:
         team: 'MCE'
         position: Third
@@ -438,13 +426,13 @@ vs:
    totals:
     - event: Canada Cup (Men)
       player1:
-        percent: 79
-        wins: 1
+        percent: 82
+        wins: 2
         losses: 4
       player2:
-        percent: 91
+        percent: 90
         wins: 4
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'MCEW'
@@ -511,49 +499,65 @@ vs:
       draw: Semi-Final(11)
       score: HOW 9 - MCE 6
     - player1:
-        team: 'GUS'
+        team: 'MCE'
         position: Third
-        percent: 78
+        percent: 81
         win: 0
         loss: 1
       player2:
         team: 'HOW'
         position: Lead
-        percent: 92
+        percent: 85
         win: 1
         loss: 0
       event: Canada Cup (Men)
       year: 2014
-      draw: Round Robin(3)
-      score: GUS 4 - HOW 10
+      draw: Round Robin(5)
+      score: MCE 3 - HOW 4
+    - player1:
+        team: 'MCE'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'HOW'
+        position: Lead
+        percent: 92
+        win: 0
+        loss: 1
+      event: Canada Cup (Men)
+      year: 2014
+      draw: Semi-Final(10)
+      score: HOW 4 - MCE 5
  - name: Sawatsky, Rick
    totals:
     - event: Canada Cup (Men)
       player1:
-        percent: 88
+        percent: 84
         wins: 1
         losses: 0
       player2:
-        percent: 83
+        percent: 92
         wins: 0
         losses: 1
    games:
     - player1:
-        team: 'GUS'
+        team: 'MCE'
         position: Third
-        percent: 88
+        percent: 84
         win: 1
         loss: 0
       player2:
         team: 'COT'
         position: Lead
-        percent: 83
+        percent: 92
         win: 0
         loss: 1
       event: Canada Cup (Men)
       year: 2014
-      draw: Round Robin(7)
-      score: GUS 5 - COT 4
+      draw: Round Robin(4)
+      score: COT 4 - MCE 9
  - name: Schneider, Catlin
    totals:
     - event: Canada Cup (Men)
@@ -658,11 +662,11 @@ vs:
    totals:
     - event: Canada Cup (Men)
       player1:
-        percent: 83
+        percent: 84
         wins: 3
         losses: 4
       player2:
-        percent: 84
+        percent: 85
         wins: 4
         losses: 3
    games:
@@ -747,21 +751,21 @@ vs:
       draw: Tie-Breaker(10)
       score: KOE 7 - MCE 9
     - player1:
-        team: 'GUS'
+        team: 'MCE'
         position: Third
-        percent: 75
+        percent: 84
         win: 1
         loss: 0
       player2:
         team: 'MOR'
         position: Third
-        percent: 79
+        percent: 86
         win: 0
         loss: 1
       event: Canada Cup (Men)
       year: 2014
-      draw: Round Robin(4)
-      score: MOR 6 - GUS 8
+      draw: Round Robin(9)
+      score: MCE 7 - MOR 4
     - player1:
         team: 'MCE'
         position: Third
@@ -886,11 +890,11 @@ vs:
    totals:
     - event: Canada Cup (Men)
       player1:
-        percent: 78
+        percent: 80
         wins: 3
         losses: 4
       player2:
-        percent: 86
+        percent: 87
         wins: 4
         losses: 3
    games:
@@ -975,21 +979,21 @@ vs:
       draw: Tie-Breaker(10)
       score: KOE 7 - MCE 9
     - player1:
-        team: 'GUS'
+        team: 'MCE'
         position: Third
-        percent: 75
+        percent: 84
         win: 1
         loss: 0
       player2:
         team: 'MOR'
         position: Lead
-        percent: 88
+        percent: 91
         win: 0
         loss: 1
       event: Canada Cup (Men)
       year: 2014
-      draw: Round Robin(4)
-      score: MOR 6 - GUS 8
+      draw: Round Robin(9)
+      score: MCE 7 - MOR 4
     - player1:
         team: 'MCE'
         position: Third
@@ -1094,13 +1098,13 @@ vs:
    totals:
     - event: Canada Cup (Men)
       player1:
-        percent: 89
-        wins: 3
+        percent: 88
+        wins: 4
         losses: 1
       player2:
-        percent: 96
+        percent: 93
         wins: 1
-        losses: 3
+        losses: 4
    games:
     - player1:
         team: 'MCE'
@@ -1118,6 +1122,22 @@ vs:
       year: 2012
       draw: Round Robin(2)
       score: GUS 2 - MCE 8
+    - player1:
+        team: 'MCE'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'GUS'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      event: Canada Cup (Men)
+      year: 2014
+      draw: Round Robin(2)
+      score: GUS 3 - MCE 9
     - player1:
         team: 'MCE'
         position: Third
@@ -1166,32 +1186,4 @@ vs:
       year: 2019
       draw: Round Robin(9)
       score: Koe 10 - Gush 4
- - name: Wozniak, Matt
-   totals:
-    - event: Canada Cup (Men)
-      player1:
-        percent: 53
-        wins: 0
-        losses: 1
-      player2:
-        percent: 89
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'GUS'
-        position: Third
-        percent: 53
-        win: 0
-        loss: 1
-      player2:
-        team: 'MCE'
-        position: Second
-        percent: 89
-        win: 1
-        loss: 0
-      event: Canada Cup (Men)
-      year: 2014
-      draw: Round Robin(2)
-      score: GUS 3 - MCE 9
 ---

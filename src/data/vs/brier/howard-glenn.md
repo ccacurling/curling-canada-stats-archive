@@ -758,7 +758,7 @@ vs:
       year: 1994
       draw: Round Robin(15)
       score: ON 5 - SK 6
- - name: Kallos, Jack Jr
+ - name: Kallos, Jack Jr.
    totals:
     - event: Brier
       player1:
@@ -2582,7 +2582,7 @@ vs:
       year: 2007
       draw: Round Robin(2)
       score: QC 5 - ON 8
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:
@@ -4138,7 +4138,7 @@ vs:
       year: 1989
       draw: Round Robin(12)
       score: AB 6 - ON 5
- - name: McKinnon, Robert
+ - name: Mckinnon, Robert
    totals:
     - event: Brier
       player1:
@@ -4218,7 +4218,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 92
+        percent: 94
         wins: 1
         losses: 0
    games:
@@ -4230,15 +4230,15 @@ vs:
         loss: 1
       player2:
         team: 'SK'
-        position: Third
-        percent: 92
+        position: Second
+        percent: 94
         win: 1
         loss: 0
       event: Brier
       year: 2017
       draw: Round Robin(10)
       score: SK 9 - ON 5
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -9478,7 +9478,7 @@ vs:
         wins: 2
         losses: 0
       player2:
-        percent: 86
+        percent: 83
         wins: 0
         losses: 2
    games:
@@ -9506,8 +9506,8 @@ vs:
         loss: 0
       player2:
         team: 'NS'
-        position: Lead
-        percent: 93
+        position: Second
+        percent: 100
         win: 0
         loss: 1
       event: Brier
@@ -9542,7 +9542,7 @@ vs:
       year: 1987
       draw: Round Robin(2)
       score: ON 11 - NO 5
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -9886,7 +9886,7 @@ vs:
       year: 1989
       draw: Round Robin(6)
       score: TR 3 - ON 8
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

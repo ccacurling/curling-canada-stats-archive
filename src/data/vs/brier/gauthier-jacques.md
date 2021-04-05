@@ -58,7 +58,7 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: YT 5 - MB 9
- - name: McKinnon, Robert
+ - name: Mckinnon, Robert
    totals:
     - event: Brier
       player1:

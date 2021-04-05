@@ -96,10 +96,10 @@ vs:
  - Bailey, Scott
  - Bryant, Doug
  - Bubbs, John
- - Bucyk, James
  - Burgess, Bryan
  - Burtnyk, Kerry
  - Butler, Mark
+ - Buyck, James
  - Campbell, Robert
  - Champion, Kevin
  - Chorostkowski, Brad
@@ -174,7 +174,7 @@ vs:
  - McDonald, Toby
  - McGregor, Ken
  - McInnis, Phillip
- - Mead, Jonathan
+ - Mead, Jon
  - Meakin, Rob
  - Mellof, Dave
  - Melville, Bruce
@@ -218,7 +218,7 @@ vs:
  - Spencer, Jim
  - Steski, John
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Sullivan, Tommy
  - Surkan, Ernie

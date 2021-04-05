@@ -45,7 +45,7 @@ vs:
  - Flasch, Colton
  - Fry, Ryan
  - Gallant, Brett
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -62,7 +62,7 @@ vs:
  - Marsh, Kevin
  - Martin, Karrick
  - McEwen, Mike
- - McLeod, Shadrach
+ - Mcleod, Shadrach
  - Moulding, Darren
  - Muyres, Dallan
  - Muyres, Kirk

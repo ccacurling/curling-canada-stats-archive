@@ -5,18 +5,18 @@ name-sort: Moss, Steve
 totals:
  - event: Brier
    games: 55
-   wins: 14
-   losses: 41
-   inturn-total: 421
-   inturn-percent: 74
-   outturn-total: 406
-   outturn-percent: 73
-   draw-total: 437
-   draw-percent: 72
-   takeout-total: 390
-   takeout-percent: 75
-   shots-total: 827
-   shots-percent: 74
+   wins: 9
+   losses: 46
+   inturn-total: 431
+   inturn-percent: 72
+   outturn-total: 391
+   outturn-percent: 71
+   draw-total: 426
+   draw-percent: 71
+   takeout-total: 396
+   takeout-percent: 72
+   shots-total: 822
+   shots-percent: 71
 years:
  - year: 1983
    event: Brier
@@ -86,47 +86,47 @@ years:
    takeout-percent: 75
    shots-total: 199
    shots-percent: 70
- - year: 2004
+ - year: 2005
    event: Brier
-   team: "SK"
+   team: "TR"
    position: Fourth
    games: 11
-   wins: 5
-   losses: 6
-   inturn-total: 98
-   inturn-percent: 79
-   outturn-total: 110
-   outturn-percent: 79
-   draw-total: 102
-   draw-percent: 74
-   takeout-total: 106
-   takeout-percent: 84
-   shots-total: 208
-   shots-percent: 79
+   wins: 0
+   losses: 11
+   inturn-total: 108
+   inturn-percent: 70
+   outturn-total: 95
+   outturn-percent: 70
+   draw-total: 91
+   draw-percent: 71
+   takeout-total: 112
+   takeout-percent: 70
+   shots-total: 203
+   shots-percent: 70
 vs:
  - Adams, Brian
+ - Adams, Shawn
  - Alderman, Dan
  - Allan, John
  - Armstrong, Jim
- - Arsenault, Craig
  - Assad, Mike
  - Bailey, Scott
  - Barrette, Yves
  - Bartlett, Don
- - Base, John
  - Bauer, Keiven
  - Biron, Louis
+ - Blanchard, Wade
  - Buck, Wyatt
  - Burgess, Bryan
- - Burnett, Steve
+ - Burgess, Craig
  - Burtnyk, Kerry
  - Butler, Mark
  - Butler, Ted
  - Campbell, Robert
  - Carey, Dan
  - Carriere, Eric
- - Cayouette, Maurice
  - Cecil, Denis
+ - Champion, Kevin
  - Charette, Pierre
  - Chernoff, Mike
  - Coady, Mike
@@ -138,9 +138,13 @@ vs:
  - Dacey, Mark
  - Dauphinee, Andrew
  - Davidson, Robert
+ - Dillon, Mike
+ - Dobson, Mark
+ - Dobson, Paul
+ - Dutiaume, Randy
+ - Elias, Dave
+ - Elmaleh, Maxime
  - Evoy, Rich
- - Fawcett, Brian
- - Fenton, Brad
  - Fenton, Keith
  - Ferbey, Randy
  - Ferster, Greg
@@ -150,39 +154,38 @@ vs:
  - Folk, Rick
  - Fowler, Ed
  - Foy, Sandy
- - Gagnon, Steeve
+ - Frans, Joe
+ - Freschi, Don
  - Gallant, Peter
- - Gaudet, Mike
- - Gibson, Andrew
- - Gordon, Robbie
+ - Gorveatt, Philip
  - Goss, Glenn
- - Grattan, James
  - Gretzinger, Bert
  - Grundy, John
  - Gudereit, Kerry
  - Gunnlaugson, Lloyd
  - Gushue, Brad
  - Hackner, Al
+ - Haichert, Chris
  - Harcourt, Doug
  - Harcourt, Greg
- - Hardy, Gord
  - Harnden, Al
  - Harnden, Eric
- - Harris, Mike
- - Harris, Rob
  - Harris, Tom
  - Harrison, Neil
+ - Hebert, Ben
  - Hebert, Brad
  - Hemmings, Guy
  - Henderson, Jeffrey
  - Henderson, Scott
  - Hipkin, Rich
+ - Holowaychuk, Dan
+ - Horning, Deane
  - Houston, Neil
  - Howard, Glenn
  - Howard, Russ
- - Hunt, Bruce
  - Iskiw, Blayne
  - Jackson, Glen
+ - Jakubo, Mike
  - Joanisse, Dean
  - Johannesson, Harold
  - Johnston, Steve
@@ -191,11 +194,10 @@ vs:
  - Kawaja, John
  - Kennedy, Mike
  - Kijewski, Kelly
+ - Kilgallen, Shane
  - Korab, Jamie
  - Lacey, Jeff
  - Lafleur, Andre
- - Lafleur, Daniel
- - Landry, Jeremy
  - Lang, Rick
  - Langdon, Dennis
  - Lappalainen, Art
@@ -203,14 +205,12 @@ vs:
  - LeClair, Bob
  - LeCocq, Marc
  - LeCocq, Vance
- - Ledgerwood, Sean
- - Leech, Ron
- - Lemery, Dan
- - Loevenmark, Phil
+ - Lemery, Daniel
  - Lohnes, Bruce
  - Lukowich, Ed
  - MacDonald, Peter
  - MacDonald, Robert
+ - MacDonald, Rod
  - MacFadyen, Bill
  - MacFadyen, Ted
  - MacFarlane, John
@@ -220,25 +220,27 @@ vs:
  - McCarrel, Graeme
  - McCusker, Brian
  - Meakin, Rob
+ - Melnichuk, Greg
+ - Menard, Jean-Michel
  - Middaugh, Wayne
  - Mitchell, Kevin
- - Molloy, Pat
+ - Mittelstadt, Kelly
  - Monkman, Greg
  - Nedohin, David
  - Ness, Dale
  - Neufeld, Chris
  - Nichols, Mark
+ - Nobert, Rob
  - Novakowski, Bob
- - Odishaw, Grant
  - Ogden, Steve
  - Oke, Gary
  - O'Leary, Alan
  - O'Rourke, Mark
+ - Ouimet, Luc
  - Packet, Jim
  - Palk, Shelly
  - Park, Kevin
  - Paterson, Gordon
- - Peachy, Jay
  - Perozak, Brian
  - Peters, Vic
  - Petryk, Dan
@@ -246,12 +248,12 @@ vs:
  - Piggott, Steve
  - Pineau, Larry
  - Pinsent, Garry
- - Recksiedler, Kevin
+ - Porter, Geoff
  - Richard, Gerry
  - Robar, Jack
+ - Roberge, Francois
  - Rocque, Marcel
  - Rowe, Gary
- - Roy, Jean-Sebastien
  - Rudd, Don
  - Ryan, Don
  - Ryan, Jeff
@@ -259,18 +261,18 @@ vs:
  - Ryan, Mike
  - Ryan, Pat
  - Savage, Paul
- - Scales, Brent
  - Scharf, Joe
  - Schiewe, Calvin
+ - Sharp, Jeff
  - Sharp, Warren
+ - Simmons, Pat
+ - Solberg, Jon
  - Sparkes, Bernie
- - Spicer, Grant
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Charlie
  - Sullivan, Dave
- - Sullivan, Evan
  - Sullivan, Jim
- - Sumner, Kevin
+ - Sylvain, Eric
  - Syme, Brent
  - Tervo, Randy
  - Tetley, Ian
@@ -278,11 +280,9 @@ vs:
  - Thibaudeau, Guy
  - Thomas, Rob
  - Thompson, Ron
- - Trevellyan, Todd
+ - Thomson, Fred
+ - Toner, Lee
  - Tuson, Jay
- - Wall, Trevor
- - Ward, Mark
- - Wasnea, Brian
  - Wempe, Brian
  - Werenich, Ed
  - Westphal, Don

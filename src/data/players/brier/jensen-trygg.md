@@ -43,7 +43,7 @@ vs:
  - Carruthers, Reid
  - Cotter, Jim
  - Dobson, Paul
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
  - Fry, Ryan
@@ -57,7 +57,7 @@ vs:
  - Laycock, Steve
  - McCann, Andy
  - McEwen, Mike
- - McLeod, Shadrach
+ - Mcleod, Shadrach
  - Moskowy, Braeden
  - Nerpin, Andrew
  - Neufeld, B.J.

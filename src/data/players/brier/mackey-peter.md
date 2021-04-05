@@ -123,7 +123,7 @@ vs:
  - Crete, Martin
  - Crowell, Phil
  - Dion, William
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
  - Flemming, Paul
@@ -134,7 +134,7 @@ vs:
  - Gallant, Chris
  - Grant, Jeff
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -160,7 +160,7 @@ vs:
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
- - McLeod, Shadrach
+ - Mcleod, Shadrach
  - NcNeil-Lamswood, Ryan
  - Morris, John
  - Moskowy, Braeden

@@ -127,7 +127,7 @@ vs:
  - Gionest, Francois
  - Granchelli, Kris
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, Al
  - Harnden, E.J.
@@ -202,7 +202,7 @@ vs:
  - Simmons, Pat
  - Smith, Donnie
  - Smith, Kent
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sylvain, Eric
  - Thiessen, Nolan
  - Toner, Lee

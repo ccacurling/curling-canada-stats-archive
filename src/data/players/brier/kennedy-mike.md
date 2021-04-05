@@ -160,7 +160,7 @@ vs:
  - Delmage, Ron
  - Despins, Glen
  - Desrosiers, John
- - Doherty, Robert
+ - Doherty, Robbie
  - Dowden, Craig
  - Eberts, Tony
  - Elkin, Derek
@@ -178,9 +178,9 @@ vs:
  - Goss, Glenn
  - Gould, Steve
  - Gretzinger, Bert
- - Griffith, Ty
+ - Griffith, Tyrel
  - Grundy, John
- - Gubbles, Will
+ - Gubbels, Will
  - Gudereit, Kerry
  - Gushue, Brad
  - Hackner, Al
@@ -218,7 +218,7 @@ vs:
  - Laycock, Steve
  - LeClair, Bob
  - LeCocq, Vance
- - Lemery, Dan
+ - Lemery, Daniel
  - Lohnes, Bruce
  - MacDonald, Peter
  - MacDonald, Rod

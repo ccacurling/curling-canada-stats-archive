@@ -422,7 +422,7 @@ vs:
       year: 1999
       draw: Round Robin(1)
       score: MB 7 - NO 2
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

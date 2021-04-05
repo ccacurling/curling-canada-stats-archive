@@ -195,7 +195,7 @@ vs:
  - Grattan, James
  - Gretzinger, Bert
  - Grundy, John
- - Gubbles, Will
+ - Gubbels, Will
  - Gudereit, Kerry
  - Hackner, Al
  - Harris, Tom
@@ -284,7 +284,7 @@ vs:
  - Somers, Grant
  - Stoughton, Jeff
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Tetley, Ross
  - Thomas, Jeff
  - Thomas, Rob

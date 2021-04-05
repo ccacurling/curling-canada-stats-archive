@@ -1770,7 +1770,7 @@ vs:
         wins: 4
         losses: 0
       player2:
-        percent: 80
+        percent: 81
         wins: 0
         losses: 4
    games:
@@ -1829,15 +1829,15 @@ vs:
         win: 1
         loss: 0
       player2:
-        team: 'NL'
+        team: 'BC'
         position: Fourth
-        percent: 71
+        percent: 77
         win: 0
         loss: 1
       event: Brier
       year: 2005
-      draw: Round Robin(3)
-      score: NL 6 - AB 10
+      draw: Round Robin(16)
+      score: AB 8 - BC 7
  - name: Howard, Glenn
    totals:
     - event: Brier
@@ -2342,7 +2342,7 @@ vs:
       year: 2003
       draw: Round Robin(10)
       score: AB 8 - SK 6
- - name: Kallos, Jack Jr
+ - name: Kallos, Jack Jr.
    totals:
     - event: Brier
       player1:
@@ -2562,7 +2562,7 @@ vs:
         wins: 3
         losses: 0
       player2:
-        percent: 76
+        percent: 90
         wins: 0
         losses: 3
    games:
@@ -2590,8 +2590,8 @@ vs:
         loss: 0
       player2:
         team: 'MB'
-        position: Fourth
-        percent: 70
+        position: Lead
+        percent: 93
         win: 0
         loss: 1
       event: Brier
@@ -2606,8 +2606,8 @@ vs:
         loss: 0
       player2:
         team: 'MB'
-        position: Fourth
-        percent: 75
+        position: Lead
+        percent: 94
         win: 0
         loss: 1
       event: Brier
@@ -4582,7 +4582,7 @@ vs:
         wins: 2
         losses: 0
       player2:
-        percent: 82
+        percent: 78
         wins: 0
         losses: 2
    games:
@@ -4609,15 +4609,15 @@ vs:
         win: 1
         loss: 0
       player2:
-        team: 'SK'
+        team: 'TR'
         position: Fourth
-        percent: 83
+        percent: 73
         win: 0
         loss: 1
       event: Brier
-      year: 2004
-      draw: Round Robin(1)
-      score: AB 8 - SK 7
+      year: 2005
+      draw: Round Robin(14)
+      score: AB 10 - TR 3
  - name: Neily, Peter
    totals:
     - event: Brier
@@ -4994,7 +4994,7 @@ vs:
       year: 1989
       draw: Round Robin(3)
       score: SK 9 - AB 4
- - name: Peachy, Jay
+ - name: Peachey, Jay
    totals:
     - event: Brier
       player1:
@@ -5886,7 +5886,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 75
+        percent: 86
         wins: 0
         losses: 1
    games:
@@ -5898,8 +5898,8 @@ vs:
         loss: 0
       player2:
         team: 'MB'
-        position: Third
-        percent: 75
+        position: Second
+        percent: 86
         win: 0
         loss: 1
       event: Brier
@@ -6330,7 +6330,7 @@ vs:
       year: 1987
       draw: Round Robin(10)
       score: NO 6 - AB 7
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -6670,7 +6670,7 @@ vs:
       year: 2002
       draw: Round Robin(10)
       score: AB 9 - MB 4
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

@@ -186,7 +186,7 @@ vs:
       year: 2009
       draw: Round Robin(6)
       score: STOU 7 - MIDD 6
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Trials(Men)
       player1:

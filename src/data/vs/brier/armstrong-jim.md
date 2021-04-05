@@ -2006,7 +2006,7 @@ vs:
       year: 1987
       draw: Round Robin(5)
       score: BC 6 - QC 7
- - name: Kallos, Jack Jr
+ - name: Kallos, Jack Jr.
    totals:
     - event: Brier
       player1:
@@ -2502,7 +2502,7 @@ vs:
       year: 1984
       draw: Round Robin(12)
       score: BC 9 - PE 3
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:

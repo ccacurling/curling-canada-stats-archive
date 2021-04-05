@@ -1346,7 +1346,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 81
+        percent: 71
         wins: 0
         losses: 1
    games:
@@ -1357,15 +1357,15 @@ vs:
         win: 1
         loss: 0
       player2:
-        team: 'NL'
+        team: 'BC'
         position: Fourth
-        percent: 81
+        percent: 71
         win: 0
         loss: 1
       event: Brier
       year: 2005
-      draw: Round Robin(9)
-      score: NS 5 - NL 4
+      draw: Round Robin(11)
+      score: BC 2 - NS 4
  - name: Howard, Glenn
    totals:
     - event: Brier
@@ -2034,7 +2034,7 @@ vs:
         wins: 1
         losses: 1
       player2:
-        percent: 72
+        percent: 78
         wins: 1
         losses: 1
    games:
@@ -2046,8 +2046,8 @@ vs:
         loss: 1
       player2:
         team: 'MB'
-        position: Fourth
-        percent: 71
+        position: Lead
+        percent: 72
         win: 1
         loss: 0
       event: Brier
@@ -2062,8 +2062,8 @@ vs:
         loss: 0
       player2:
         team: 'MB'
-        position: Fourth
-        percent: 73
+        position: Lead
+        percent: 84
         win: 0
         loss: 1
       event: Brier
@@ -3430,7 +3430,7 @@ vs:
       year: 1998
       draw: Round Robin(1)
       score: PE 3 - NS 9
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -4162,13 +4162,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 75
-        wins: 1
+        percent: 76
+        wins: 2
         losses: 0
       player2:
-        percent: 68
+        percent: 69
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NS'
@@ -4186,6 +4186,22 @@ vs:
       year: 2001
       draw: Round Robin(14)
       score: TR 5 - NS 6
+    - player1:
+        team: 'NS'
+        position: Third
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 71
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2005
+      draw: Round Robin(15)
+      score: TR 4 - NS 6
  - name: Moulding, Darren
    totals:
     - event: Brier
@@ -6198,7 +6214,7 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: NS 11 - PE 4
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -6370,7 +6386,7 @@ vs:
       year: 2013
       draw: Round Robin(3)
       score: NS 4 - MB 9
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

@@ -226,7 +226,7 @@ vs:
       year: 1993
       draw: Round Robin(6)
       score: AB 5 - NB 3
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:

@@ -58,7 +58,7 @@ vs:
       year: 1986
       draw: Round Robin(8)
       score: PE 8 - TR 3
- - name: Campbell, Bill Jr
+ - name: Campbell, Bill Jr.
    totals:
     - event: Brier
       player1:

@@ -125,7 +125,7 @@ vs:
  - Bottcher, Brendan
  - Carruthers, Reid
  - Casey, Adam
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Flasch, Colton
  - Fowler, Rob
  - Fry, Ryan
@@ -152,7 +152,7 @@ vs:
  - Martin, Kevin
  - Mathers, David
  - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Middaugh, Wayne
  - Morris, John
  - Moskowy, Braeden

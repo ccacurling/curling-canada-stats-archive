@@ -96,7 +96,7 @@ vs:
  - Allan, John
  - Armstrong, Doug
  - Bailey, Scott
- - Balderson, Dennis
+ - Balderston, Dennis
  - Biron, Louis
  - Bradley, Mike
  - Breckenridge, Harold
@@ -237,7 +237,7 @@ vs:
  - Soparlo, Murray
  - Spencer, Jim
  - Steventon, Lawren
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Sullivan, Tommy
  - Tait, Jeff

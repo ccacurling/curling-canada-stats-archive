@@ -1946,7 +1946,7 @@ vs:
       year: 2001
       draw: Round Robin(2)
       score: MAR 4 - GRE 9
- - name: Vandenberghe, Garry
+ - name: Van Den Berghe, Garry
    totals:
     - event: Trials(Men)
       player1:

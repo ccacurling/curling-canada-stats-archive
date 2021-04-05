@@ -66,7 +66,7 @@ vs:
  - Cotter, Jim
  - Crowell, Phil
  - Dion, William
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Flemming, Paul
  - Fournier, Mike
@@ -95,7 +95,7 @@ vs:
  - Martin, Karrick
  - McCann, Andy
  - McEwen, Mike
- - McKinnon, Robert
+ - Mckinnon, Robert
  - Mikkelsen, Dustin
  - Morris, John
  - Moskowy, Braeden

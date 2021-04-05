@@ -58,7 +58,7 @@ vs:
       year: 2014
       draw: Round Robin(4)
       score: COT 4 - MCE 9
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:
@@ -122,7 +122,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 88
+        percent: 84
         wins: 1
         losses: 0
    games:
@@ -133,15 +133,15 @@ vs:
         win: 0
         loss: 1
       player2:
-        team: 'GUS'
+        team: 'MCE'
         position: Third
-        percent: 88
+        percent: 84
         win: 1
         loss: 0
       event: Canada Cup (Men)
       year: 2014
-      draw: Round Robin(7)
-      score: GUS 5 - COT 4
+      draw: Round Robin(4)
+      score: COT 4 - MCE 9
  - name: Neufeld, Denni
    totals:
     - event: Canada Cup (Men)

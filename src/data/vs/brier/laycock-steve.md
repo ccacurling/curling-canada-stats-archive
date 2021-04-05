@@ -866,7 +866,7 @@ vs:
       year: 2021
       draw: Round Robin(6)
       score: WC 10 - BC 7
- - name: McKinnon, Robert
+ - name: Mckinnon, Robert
    totals:
     - event: Brier
       player1:
@@ -894,7 +894,7 @@ vs:
       year: 2021
       draw: Round Robin(8)
       score: BC 9 - YT 2
- - name: McLeod, Shadrach
+ - name: Mcleod, Shadrach
    totals:
     - event: Brier
       player1:
@@ -922,7 +922,7 @@ vs:
       year: 2020
       draw: Round Robin(1)
       score: NT 4 - BC 6
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -3350,7 +3350,7 @@ vs:
       year: 2014
       draw: Round Robin(12)
       score: SK 4 - MB 7
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

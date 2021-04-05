@@ -702,7 +702,7 @@ vs:
       year: 2002
       draw: Round Robin(9)
       score: NL 5 - NB 10
- - name: Ormbsy, Dan
+ - name: Ormsby, Dan
    totals:
     - event: Brier
       player1:
@@ -1194,7 +1194,7 @@ vs:
       year: 2002
       draw: Round Robin(4)
       score: PE 8 - NL 5
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

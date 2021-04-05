@@ -171,7 +171,7 @@ vs:
  - McCarrel, Graeme
  - McCusker, Brian
  - McKee, Darrell
- - Mead, Jonathan
+ - Mead, Jon
  - Melnichuk, Greg
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -183,6 +183,7 @@ vs:
  - Morris, John
  - Moshenko, Darcy
  - Moskowy, Kelly
+ - Moss, Steve
  - Muyres, Dallan
  - Nason, Paul
  - Naugler, Tom
@@ -218,12 +219,12 @@ vs:
  - Seabrook, Scott
  - Sharp, Jeff
  - Simmons, Pat
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Stoughton, Jeff
  - Stuart, Darol
  - Suchy, Chris
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Evan
  - Sveistrup, Jody
  - Sylvain, Eric

@@ -78,7 +78,7 @@ vs:
  - Foy, Sandy
  - Goss, Glenn
  - Gould, Steve
- - Gubbles, Will
+ - Gubbels, Will
  - Gudereit, Kerry
  - Hackner, Al
  - Harris, Tom
@@ -95,7 +95,7 @@ vs:
  - Lafleur, Andre
  - LeCocq, Marc
  - LeCocq, Vance
- - Lemery, Dan
+ - Lemery, Daniel
  - Lohnes, Bruce
  - MacDonald, Peter
  - MacDonald, Rod

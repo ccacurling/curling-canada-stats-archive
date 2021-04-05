@@ -122,30 +122,30 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 88
+        percent: 78
         wins: 0
         losses: 1
       player2:
-        percent: 88
+        percent: 74
         wins: 1
         losses: 0
    games:
     - player1:
         team: 'SK'
         position: Lead
-        percent: 88
+        percent: 78
         win: 0
         loss: 1
       player2:
-        team: 'NL'
+        team: 'BC'
         position: Fourth
-        percent: 88
+        percent: 74
         win: 1
         loss: 0
       event: Brier
       year: 2005
-      draw: Round Robin(14)
-      score: NL 6 - SK 2
+      draw: Round Robin(4)
+      score: BC 6 - SK 4
  - name: Howard, Glenn
    totals:
     - event: Brier
@@ -1374,7 +1374,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 90
+        percent: 72
         wins: 1
         losses: 0
    games:
@@ -1386,8 +1386,8 @@ vs:
         loss: 1
       player2:
         team: 'MB'
-        position: Fourth
-        percent: 90
+        position: Lead
+        percent: 72
         win: 1
         loss: 0
       event: Brier
@@ -3246,7 +3246,7 @@ vs:
       year: 2020
       draw: Round Robin(10)
       score: WC 2 - CA 3
- - name: McLeod, Shadrach
+ - name: Mcleod, Shadrach
    totals:
     - event: Brier
       player1:
@@ -3282,7 +3282,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 95
+        percent: 99
         wins: 0
         losses: 1
    games:
@@ -3294,15 +3294,15 @@ vs:
         loss: 0
       player2:
         team: 'SK'
-        position: Third
-        percent: 95
+        position: Second
+        percent: 99
         win: 0
         loss: 1
       event: Brier
       year: 2017
       draw: Round Robin(12)
       score: CA 8 - SK 7
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -3890,6 +3890,34 @@ vs:
       year: 2021
       draw: Round Robin(13)
       score: SK 2 - WC 9
+ - name: Moss, Steve
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2005
+      draw: Round Robin(2)
+      score: SK 8 - TR 3
  - name: Moulding, Darren
    totals:
     - event: Brier
@@ -6630,7 +6658,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 93
+        percent: 88
         wins: 0
         losses: 1
    games:
@@ -6642,8 +6670,8 @@ vs:
         loss: 0
       player2:
         team: 'NS'
-        position: Lead
-        percent: 93
+        position: Second
+        percent: 88
         win: 0
         loss: 1
       event: Brier
@@ -6678,7 +6706,7 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: WC 12 - PE 5
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -6958,7 +6986,7 @@ vs:
       year: 2013
       draw: Round Robin(2)
       score: AB 4 - MB 5
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

@@ -156,7 +156,7 @@ vs:
  - Allan, John
  - Armstrong, Jim
  - Armstrong, Mark
- - Balderson, Dennis
+ - Balderston, Dennis
  - Bartlett, Don
  - Belcourt, Tim
  - Bentley, Dan
@@ -172,7 +172,7 @@ vs:
  - Burgess, Craig
  - Butler, Mark
  - Butler, Mike
- - Campbell, Bill Jr
+ - Campbell, Bill Jr.
  - Campbell, Robert
  - Caputo, Frank
  - Carstairs, Kent
@@ -219,7 +219,7 @@ vs:
  - Howard, Russ
  - Iverson, Dave
  - Jackson, Glenn
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kapicki, Ron
  - Kawaja, John
  - Kennedy, Bruce
@@ -285,7 +285,7 @@ vs:
  - Somers, Grant
  - Sparkes, Bernie
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Sweete, Don
  - Syme, Brent

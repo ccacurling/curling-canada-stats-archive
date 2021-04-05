@@ -193,7 +193,7 @@ vs:
  - Graber, Dennis
  - Granchelli, Kris
  - Grattan, James
- - Gubbles, Will
+ - Gubbels, Will
  - Gushue, Brad
  - Hackner, Al
  - Haichert, Chris
@@ -236,7 +236,7 @@ vs:
  - Lang, Rick
  - LeCocq, Marc
  - LeDrew, Ryan
- - Lemery, Dan
+ - Lemery, Daniel
  - Lohnes, Bruce
  - MacDonald, Blake
  - MacInnes, David
@@ -248,7 +248,7 @@ vs:
  - McGrath, Jim
  - McKee, Darrell
  - McPhee, Barry
- - Mead, Jonathan
+ - Mead, Jon
  - Melnichuk, Greg
  - Menard, Jean-Michel
  - Middaugh, Wayne
@@ -259,6 +259,7 @@ vs:
  - Montgomery, Rod
  - Morris, John
  - Moshenko, Darcy
+ - Moss, Steve
  - Murovic, Karl
  - Nedohin, David
  - Nelson, Randy
@@ -304,7 +305,7 @@ vs:
  - Slauenwhite, David
  - Smith, Kent
  - Smyth, Larry
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Spencer, Jim
  - Stoughton, Jeff

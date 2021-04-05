@@ -1002,7 +1002,7 @@ vs:
       year: 1980
       draw: Round Robin(12)
       score: TR 5 - AB 6
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

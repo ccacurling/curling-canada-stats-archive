@@ -52,6 +52,7 @@ vs:
  - Howard, Glenn
  - Howard, Scott
  - Jacobs, Brad
+ - Keefe, Kevin
  - Kennedy, Marc
  - Laycock, Steve
  - March, Tim

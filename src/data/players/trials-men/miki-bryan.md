@@ -58,6 +58,6 @@ vs:
  - Rycroft, Carter
  - Savill, Craig
  - Stoughton, Jeff
- - Vandenberghe, Garry
+ - Van Den Berghe, Garry
  - Walchuk, Don
 ---

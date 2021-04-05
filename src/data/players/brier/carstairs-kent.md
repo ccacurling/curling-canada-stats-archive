@@ -101,7 +101,7 @@ vs:
  - Bothamley, Doug
  - Bourque, Don
  - Brophy, Marc
- - Campbell, Bill Jr
+ - Campbell, Bill Jr.
  - Charette, Pierre
  - Clarke, Gary
  - Coady, Mike
@@ -151,7 +151,7 @@ vs:
  - Jackson, Glenn
  - James, Colin
  - Journeaux, Ian
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kamp, Ragnar
  - Kapicki, Ron
  - Kennedy, Bruce

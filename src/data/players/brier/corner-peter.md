@@ -191,7 +191,7 @@ vs:
  - LeCocq, Marc
  - LeCocq, Vance
  - Lemay, Jean-Yves
- - Lemery, Dan
+ - Lemery, Daniel
  - Lewis, Wayne
  - Loevenmark, Phil
  - Lohnes, Bruce
@@ -210,7 +210,7 @@ vs:
  - McCusker, Brian
  - McHargue, Ken
  - McKee, Darrell
- - Mead, Jonathan
+ - Mead, Jon
  - Miki, Bryan
  - Milward, Ross
  - Mitchell, Gary
@@ -262,7 +262,7 @@ vs:
  - Smith, Dave
  - Stokes, Lionel
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Evan
  - Sveistrup, Jody
  - Sylvain, Eric

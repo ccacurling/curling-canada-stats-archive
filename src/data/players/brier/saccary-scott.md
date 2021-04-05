@@ -138,7 +138,7 @@ vs:
  - Cotter, Jim
  - Crete, Martin
  - Currie, Morgan
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Fecteau, Steve
  - Forrest, Alex
@@ -146,7 +146,7 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Geall, Sean
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.

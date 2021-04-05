@@ -598,7 +598,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 79
+        percent: 83
         wins: 1
         losses: 0
    games:
@@ -610,8 +610,8 @@ vs:
         loss: 1
       player2:
         team: 'MB'
-        position: Third
-        percent: 79
+        position: Second
+        percent: 83
         win: 1
         loss: 0
       event: Brier
@@ -674,7 +674,7 @@ vs:
       year: 2002
       draw: Round Robin(7)
       score: BC 6 - PE 4
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

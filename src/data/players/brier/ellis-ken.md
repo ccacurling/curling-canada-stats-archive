@@ -91,7 +91,7 @@ vs:
  - Korte, Bruce
  - Korte, Roger
  - Lacey, Jeff
- - Lemery, Dan
+ - Lemery, Daniel
  - Loeffler, Ken
  - Macklin, Drew
  - MacLeod, Kris
@@ -100,7 +100,7 @@ vs:
  - McGowan, Nolin
  - McKee, Darrell
  - McPhee, Barry
- - Mead, Jonathan
+ - Mead, Jon
  - Miki, Bryan
  - Milward, Ross
  - Neufeld, Chris
@@ -128,7 +128,7 @@ vs:
  - Schleppe, Dave
  - Stoughton, Jeff
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Evan
  - Sveistrup, Jody
  - Sylvain, Eric

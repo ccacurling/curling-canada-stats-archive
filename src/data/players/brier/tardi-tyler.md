@@ -72,7 +72,7 @@ vs:
  - Bottcher, Brendan
  - Hagen, Brandon
  - Martin, Karrick
- - McKinnon, Robert
+ - Mckinnon, Robert
  - Mikkelsen, Dustin
  - Moulding, Darren
  - Peech, Alexander

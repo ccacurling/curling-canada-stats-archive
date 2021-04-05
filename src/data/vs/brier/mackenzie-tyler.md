@@ -130,7 +130,7 @@ vs:
       year: 2014
       draw: Round Robin(3)
       score: PE 7 - NS 5
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:

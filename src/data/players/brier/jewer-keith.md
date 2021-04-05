@@ -63,7 +63,7 @@ vs:
  - Chorostkowski, Brad
  - Crete, Martin
  - Dacey, Mark
- - Doherty, Robert
+ - Doherty, Robbie
  - Elmaleh, Maxime
  - Fry, Ryan
  - Gibson, Andrew
@@ -95,7 +95,7 @@ vs:
  - Martin, Karrick
  - Martin, Kevin
  - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Moulding, Darren
@@ -110,7 +110,7 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Smallwood, Robert
- - Solberg, Jonathon
+ - Solberg, Jon
  - Stoughton, Jeff
  - Sylvain, Eric
  - Tallon, Wayne

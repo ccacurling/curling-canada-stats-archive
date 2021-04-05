@@ -103,7 +103,7 @@ vs:
  - Bourque, Don
  - Bryden, Gary
  - Buckle, Andrew
- - Campbell, Bill Jr
+ - Campbell, Bill Jr.
  - Carr, Brian
  - Carstairs, Kent
  - Cecil, Denis
@@ -229,7 +229,7 @@ vs:
  - Sparkes, Bernie
  - Strain, Bill
  - Strang, Don
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Charlie
  - Sullivan, Dave
  - Sweete, Don

@@ -90,7 +90,7 @@ vs:
  - Jackson, Glenn
  - Johnston, Wade
  - Journeaux, Ian
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kapicki, Ron
  - Krupski, Gary
  - Krupski, Mark
@@ -104,7 +104,7 @@ vs:
  - MacFadyen, Bill
  - MacFadyen, Ted
  - McClelland, John
- - Mead, Jonathan
+ - Mead, Jon
  - Mellof, Dave
  - Mitchell, Gary
  - Ness, Dale

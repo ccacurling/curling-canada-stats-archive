@@ -7,16 +7,16 @@ totals:
    games: 35
    wins: 19
    losses: 16
-   inturn-total: 312
-   inturn-percent: 84
-   outturn-total: 339
+   inturn-total: 323
+   inturn-percent: 83
+   outturn-total: 335
    outturn-percent: 80
-   draw-total: 272
-   draw-percent: 79
-   takeout-total: 379
+   draw-total: 273
+   draw-percent: 77
+   takeout-total: 385
    takeout-percent: 84
-   shots-total: 651
-   shots-percent: 82
+   shots-total: 658
+   shots-percent: 81
 years:
  - year: 2002
    event: Brier
@@ -54,21 +54,21 @@ years:
    shots-percent: 85
  - year: 2005
    event: Brier
-   team: "NL"
+   team: "BC"
    position: Fourth
    games: 11
    wins: 6
    losses: 5
-   inturn-total: 91
-   inturn-percent: 82
-   outturn-total: 121
-   outturn-percent: 75
-   draw-total: 86
-   draw-percent: 78
-   takeout-total: 126
-   takeout-percent: 78
-   shots-total: 212
-   shots-percent: 78
+   inturn-total: 102
+   inturn-percent: 77
+   outturn-total: 117
+   outturn-percent: 76
+   draw-total: 87
+   draw-percent: 71
+   takeout-total: 132
+   takeout-percent: 80
+   shots-total: 219
+   shots-percent: 76
 vs:
  - Adams, Shawn
  - Bailey, Scott
@@ -78,8 +78,8 @@ vs:
  - Brodersen, Erik
  - Bryant, Doug
  - Bubbs, John
- - Bucyk, James
  - Burgess, Craig
+ - Buyck, James
  - Campbell, Robert
  - Champion, Kevin
  - Cochrane, Bryan
@@ -97,7 +97,6 @@ vs:
  - Ferbey, Randy
  - Flemming, Paul
  - Frans, Joe
- - Freschi, Don
  - Gagnon, Jean
  - Gamble, Bill
  - Gibson, Andrew
@@ -144,10 +143,10 @@ vs:
  - Morris, John
  - Moshenko, Darcy
  - Moskowy, Kelly
+ - Moss, Steve
  - Nedohin, David
  - Ness, Dale
  - Nichols, Mark
- - Nobert, Rob
  - Noseworthy, Mark
  - Odishaw, Grant
  - Ouimet, Luc
@@ -157,23 +156,22 @@ vs:
  - Porter, Geoff
  - Roberge, Francois
  - Rocque, Marcel
+ - Ryan, Keith
  - Savill, Craig
  - Scales, Bob
  - Scoffin, Wade
  - Sharp, Jeff
  - Simmons, Pat
  - Smith, Jeff
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Steski, John
  - Stuart, Darol
  - Suchy, Chris
  - Sylvain, Eric
- - Thomson, Fred
  - Toner, Lee
  - Turpin, Randy
  - Ward, Mark
  - Wempe, Brian
  - Westphal, Don
- - Whitehead, Mark
 ---

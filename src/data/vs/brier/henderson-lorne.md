@@ -338,7 +338,7 @@ vs:
       year: 1989
       draw: Round Robin(3)
       score: NL 7 - QC 9
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:
@@ -1222,7 +1222,7 @@ vs:
       year: 1997
       draw: Round Robin(13)
       score: NL 3 - TR 6
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

@@ -2,7 +2,7 @@
 title: Dave Smith Head-to-head
 name: Smith, Dave
 vs:
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

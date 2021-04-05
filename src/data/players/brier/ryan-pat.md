@@ -203,10 +203,10 @@ vs:
  - Bubbs, John
  - Buck, Wyatt
  - Buckle, Andrew
- - Bucyk, James
  - Burgess, Craig
  - Burtnyk, Kerry
  - Butler, Mark
+ - Buyck, James
  - Campbell, Robert
  - Carey, Dan
  - Carruthers, Bob
@@ -303,7 +303,7 @@ vs:
  - Johnston, Steve
  - Journeaux, Ian
  - Kalthoff, Kevin
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kammerlock, Ron
  - Kamp, Ragnar
  - Kapicki, Ron
@@ -328,7 +328,7 @@ vs:
  - LeClair, Bob
  - LeCocq, Marc
  - Lemay, Jean-Yves
- - Lemery, Dan
+ - Lemery, Daniel
  - Lenz, Cliff
  - Lewis, Wayne
  - Likely, John
@@ -390,7 +390,7 @@ vs:
  - O'Driscoll, Frank
  - Oke, Gary
  - O'Leary, Alan
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Packet, Jim
  - Pahl, James
@@ -446,7 +446,7 @@ vs:
  - Smith, Doug-2
  - Smith, Jeff
  - Snell, Brian
- - Solberg, Jonathon
+ - Solberg, Jon
  - Soparlo, Murray
  - Sparkes, Bernie
  - Spencer, Jim
@@ -455,7 +455,7 @@ vs:
  - Strain, Bill
  - Stuart, Darol
  - Suchy, Chris
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sutherland, Cy
  - Sylvain, Eric
  - Tetley, Ian

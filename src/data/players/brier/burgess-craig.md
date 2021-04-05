@@ -111,7 +111,7 @@ vs:
  - Andrews, Robert
  - Armstrong, Mark
  - Bailey, Scott
- - Balderson, Dennis
+ - Balderston, Dennis
  - Bartlett, Don
  - Bitz, Scott
  - Blanchard, Wade
@@ -210,6 +210,7 @@ vs:
  - Morris, John
  - Moshenko, Darcy
  - Moskowy, Kelly
+ - Moss, Steve
  - Nedohin, David
  - Newson, Jamie
  - Nichols, Mark
@@ -217,7 +218,7 @@ vs:
  - Noseworthy, Mark
  - Odian, Scott
  - Odishaw, Grant
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Ouimet, Luc
  - Pahl, James
@@ -247,7 +248,7 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Skillen, Aaron
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Stuart, Darol
  - Suchy, Chris

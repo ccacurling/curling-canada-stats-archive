@@ -111,7 +111,7 @@ vs:
  - Gould, Steve
  - Grattan, James
  - Gretzinger, Bert
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
@@ -167,7 +167,7 @@ vs:
  - Sveistrup, Jody
  - Tetley, Ian
  - Ursel, Bob
- - Vandenberghe, Garry
+ - Van Den Berghe, Garry
  - Whittle, Mark
  - Wozniak, Matt
  - Zawada, Braden

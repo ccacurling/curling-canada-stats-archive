@@ -174,12 +174,13 @@ vs:
  - Martin, Kevin
  - McCann, Andy
  - McCarrel, Graeme
- - Mead, Jonathan
+ - Mead, Jon
  - Melnichuk, Greg
  - Menard, Jean-Michel
  - Middaugh, Wayne
  - Morris, John
  - Moshenko, Darcy
+ - Moss, Steve
  - Nantes, Dave
  - Nedohin, David
  - Nelson, Randy
@@ -206,7 +207,7 @@ vs:
  - Scoffin, Wade
  - Slauenwhite, David
  - Smith, Garth
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Stoughton, Jeff
  - Sylvain, Eric

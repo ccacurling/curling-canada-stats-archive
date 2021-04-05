@@ -650,7 +650,7 @@ vs:
       year: 1997
       draw: Round Robin(3)
       score: HAR 10 - STO 1
- - name: Vandenberghe, Garry
+ - name: Van Den Berghe, Garry
    totals:
     - event: Trials(Men)
       player1:

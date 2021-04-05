@@ -34,7 +34,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 65
+        percent: 80
         wins: 0
         losses: 1
       player2:
@@ -44,8 +44,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 65
+        position: Lead
+        percent: 80
         win: 0
         loss: 1
       player2:
@@ -174,7 +174,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 79
+        percent: 76
         wins: 1
         losses: 0
       player2:
@@ -184,8 +184,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 79
+        position: Lead
+        percent: 76
         win: 1
         loss: 0
       player2:
@@ -230,7 +230,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 84
+        percent: 83
         wins: 1
         losses: 0
       player2:
@@ -240,8 +240,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 84
+        position: Lead
+        percent: 83
         win: 1
         loss: 0
       player2:
@@ -296,7 +296,7 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Fourth
+        position: Lead
         percent: 78
         win: 1
         loss: 0
@@ -314,7 +314,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 84
+        percent: 83
         wins: 1
         losses: 0
       player2:
@@ -324,8 +324,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 84
+        position: Lead
+        percent: 83
         win: 1
         loss: 0
       player2:
@@ -370,7 +370,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 72
+        percent: 78
         wins: 1
         losses: 1
       player2:
@@ -380,8 +380,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 71
+        position: Lead
+        percent: 72
         win: 1
         loss: 0
       player2:
@@ -396,8 +396,8 @@ vs:
       score: MB 10 - NS 8
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 73
+        position: Lead
+        percent: 84
         win: 0
         loss: 1
       player2:
@@ -442,7 +442,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 71
+        percent: 84
         wins: 1
         losses: 0
       player2:
@@ -452,8 +452,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 71
+        position: Lead
+        percent: 84
         win: 1
         loss: 0
       player2:
@@ -494,11 +494,39 @@ vs:
       year: 2002
       draw: Round Robin(6)
       score: SK 7 - MB 8
+ - name: Moss, Steve
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2005
+      draw: Round Robin(4)
+      score: TR 6 - MB 7
  - name: Nedohin, David
    totals:
     - event: Brier
       player1:
-        percent: 76
+        percent: 90
         wins: 0
         losses: 3
       player2:
@@ -524,8 +552,8 @@ vs:
       score: AB 9 - MB 4
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 70
+        position: Lead
+        percent: 93
         win: 0
         loss: 1
       player2:
@@ -540,8 +568,8 @@ vs:
       score: AB 9 - MB 5
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 75
+        position: Lead
+        percent: 94
         win: 0
         loss: 1
       player2:
@@ -558,7 +586,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 65
+        percent: 80
         wins: 0
         losses: 1
       player2:
@@ -568,8 +596,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 65
+        position: Lead
+        percent: 80
         win: 0
         loss: 1
       player2:
@@ -586,7 +614,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 75
+        percent: 51
         wins: 1
         losses: 0
       player2:
@@ -596,8 +624,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 75
+        position: Lead
+        percent: 51
         win: 1
         loss: 0
       player2:
@@ -670,7 +698,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 63
+        percent: 85
         wins: 0
         losses: 1
       player2:
@@ -680,8 +708,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 63
+        position: Lead
+        percent: 85
         win: 0
         loss: 1
       player2:
@@ -698,7 +726,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 76
+        percent: 90
         wins: 0
         losses: 3
       player2:
@@ -724,8 +752,8 @@ vs:
       score: AB 9 - MB 4
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 70
+        position: Lead
+        percent: 93
         win: 0
         loss: 1
       player2:
@@ -740,8 +768,8 @@ vs:
       score: AB 9 - MB 5
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 75
+        position: Lead
+        percent: 94
         win: 0
         loss: 1
       player2:
@@ -786,7 +814,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 71
+        percent: 84
         wins: 1
         losses: 0
       player2:
@@ -796,8 +824,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 71
+        position: Lead
+        percent: 84
         win: 1
         loss: 0
       player2:
@@ -814,7 +842,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 88
+        percent: 90
         wins: 1
         losses: 0
       player2:
@@ -824,8 +852,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 88
+        position: Lead
+        percent: 90
         win: 1
         loss: 0
       player2:
@@ -868,7 +896,7 @@ vs:
       score: MB 10 - QC 9
     - player1:
         team: 'MB'
-        position: Fourth
+        position: Lead
         percent: 78
         win: 1
         loss: 0
@@ -886,7 +914,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 76
+        percent: 90
         wins: 0
         losses: 3
       player2:
@@ -912,8 +940,8 @@ vs:
       score: AB 9 - MB 4
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 70
+        position: Lead
+        percent: 93
         win: 0
         loss: 1
       player2:
@@ -928,8 +956,8 @@ vs:
       score: AB 9 - MB 5
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 75
+        position: Lead
+        percent: 94
         win: 0
         loss: 1
       player2:
@@ -946,7 +974,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 65
+        percent: 80
         wins: 0
         losses: 1
       player2:
@@ -956,8 +984,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 65
+        position: Lead
+        percent: 80
         win: 0
         loss: 1
       player2:
@@ -1058,7 +1086,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 90
+        percent: 72
         wins: 1
         losses: 0
       player2:
@@ -1068,8 +1096,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 90
+        position: Lead
+        percent: 72
         win: 1
         loss: 0
       player2:
@@ -1086,7 +1114,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 90
+        percent: 72
         wins: 1
         losses: 0
       player2:
@@ -1096,8 +1124,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 90
+        position: Lead
+        percent: 72
         win: 1
         loss: 0
       player2:
@@ -1110,11 +1138,11 @@ vs:
       year: 2005
       draw: Round Robin(1)
       score: MB 6 - SK 3
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
-        percent: 76
+        percent: 88
         wins: 0
         losses: 2
       player2:
@@ -1140,8 +1168,8 @@ vs:
       score: MB 10 - TR 11
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 63
+        position: Lead
+        percent: 85
         win: 0
         loss: 1
       player2:
@@ -1158,7 +1186,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 71
+        percent: 84
         wins: 1
         losses: 0
       player2:
@@ -1168,8 +1196,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 71
+        position: Lead
+        percent: 84
         win: 1
         loss: 0
       player2:
@@ -1240,7 +1268,7 @@ vs:
       score: MB 10 - QC 9
     - player1:
         team: 'MB'
-        position: Fourth
+        position: Lead
         percent: 78
         win: 1
         loss: 0
@@ -1258,7 +1286,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 75
+        percent: 51
         wins: 1
         losses: 0
       player2:
@@ -1268,8 +1296,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 75
+        position: Lead
+        percent: 51
         win: 1
         loss: 0
       player2:
@@ -1286,7 +1314,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 63
+        percent: 85
         wins: 0
         losses: 1
       player2:
@@ -1296,8 +1324,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Fourth
-        percent: 63
+        position: Lead
+        percent: 85
         win: 0
         loss: 1
       player2:

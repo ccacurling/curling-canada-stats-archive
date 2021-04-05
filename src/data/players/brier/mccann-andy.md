@@ -128,7 +128,7 @@ vs:
  - Deis, Ryan
  - Desjardins, Robert
  - Dion, William
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
  - Folk, Kevin
@@ -138,7 +138,7 @@ vs:
  - Gallant, Chris
  - Gaudet, Mike
  - Geall, Sean
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Hagen, Brandon
@@ -173,8 +173,8 @@ vs:
  - Mathers, David
  - McDermaid, Donald
  - McEwen, Mike
- - McKinnon, Robert
- - McLeod, Shadrach
+ - Mckinnon, Robert
+ - Mcleod, Shadrach
  - Middaugh, Wayne
  - Mikkelsen, Ray
  - Mikkelsen, Dustin

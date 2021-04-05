@@ -406,7 +406,7 @@ vs:
       year: 2020
       draw: Round Robin(9)
       score: BC 3 - NB 6
- - name: Doherty, Robert
+ - name: Doherty, Robbie
    totals:
     - event: Brier
       player1:
@@ -450,7 +450,7 @@ vs:
       year: 2016
       draw: Round Robin(2)
       score: PE 4 - BC 8
- - name: Dunstone, Matthew
+ - name: Dunstone, Matt
    totals:
     - event: Brier
       player1:
@@ -4346,7 +4346,7 @@ vs:
       year: 2021
       draw: Round Robin(6)
       score: WC 10 - BC 7
- - name: McKinnon, Robert
+ - name: Mckinnon, Robert
    totals:
     - event: Brier
       player1:
@@ -4374,7 +4374,7 @@ vs:
       year: 2021
       draw: Round Robin(8)
       score: BC 9 - YT 2
- - name: McLeod, Shadrach
+ - name: Mcleod, Shadrach
    totals:
     - event: Brier
       player1:
@@ -4410,7 +4410,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 95
+        percent: 90
         wins: 0
         losses: 1
    games:
@@ -4422,15 +4422,15 @@ vs:
         loss: 0
       player2:
         team: 'SK'
-        position: Third
-        percent: 95
+        position: Second
+        percent: 90
         win: 0
         loss: 1
       event: Brier
       year: 2017
       draw: Round Robin(16)
       score: BC 7 - SK 6
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -6950,7 +6950,7 @@ vs:
       year: 2014
       draw: Round Robin(14)
       score: BC 6 - MB 7
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

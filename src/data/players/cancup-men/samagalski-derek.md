@@ -91,7 +91,7 @@ vs:
  - Bottcher, Brendan
  - Camm, Mathew
  - Carruthers, Reid
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Ferbey, Randy
  - Flasch, Colton
@@ -115,7 +115,7 @@ vs:
  - March, Tim
  - Martin, Karrick
  - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Middaugh, Wayne
  - Morris, John
  - Moskowy, Braeden

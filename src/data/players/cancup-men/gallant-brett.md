@@ -159,11 +159,11 @@ vs:
  - Camm, Mathew
  - Carruthers, Reid
  - Cotter, Jim
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
  - Fry, Ryan
- - Griffith, Ty
+ - Griffith, Tyrel
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
@@ -184,7 +184,7 @@ vs:
  - Martin, Kevin
  - Mathers, David
  - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Middaugh, Wayne
  - Morris, John
  - Moskowy, Braeden

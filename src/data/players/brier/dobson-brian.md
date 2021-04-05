@@ -124,7 +124,7 @@ vs:
  - Johnston, Steve
  - Journeaux, Ian
  - Kalthoff, Kevin
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kamp, Ragnar
  - Kapicki, Ron
  - Kennedy, Bruce

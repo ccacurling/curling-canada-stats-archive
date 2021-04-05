@@ -354,7 +354,7 @@ vs:
       year: 2008
       draw: Round Robin(6)
       score: MB 8 - NB 3
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:

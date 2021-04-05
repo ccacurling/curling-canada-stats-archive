@@ -86,7 +86,7 @@ vs:
       year: 2008
       draw: Round Robin(17)
       score: SK 8 - MB 2
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -246,7 +246,7 @@ vs:
       year: 2014
       draw: Round Robin(7)
       score: MB 4 - AB 10
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

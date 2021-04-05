@@ -75,7 +75,6 @@ vs:
  - Armstrong, Doug
  - Bryant, Doug
  - Bubbs, John
- - Bucyk, James
  - Burtnyk, Kerry
  - Butler, Mark
  - Buyck, James
@@ -145,7 +144,7 @@ vs:
  - Madden, Paul
  - Martin, Kevin
  - McClelland, John
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Milward, Ross
  - Moffatt, Rich

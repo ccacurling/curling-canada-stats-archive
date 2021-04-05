@@ -143,7 +143,7 @@ vs:
  - Tetley, Ian
  - Tresoor, Ken
  - Ursel, Bob
- - Vandenberghe, Garry
+ - Van Den Berghe, Garry
  - Werenich, Ed
  - Whittle, Mark
 ---

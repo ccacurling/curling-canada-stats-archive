@@ -77,7 +77,7 @@ vs:
  - Robinson, Andrew
  - Savill, Craig
  - Seabrook, Matt
- - Solberg, Jonathon
+ - Solberg, Jon
  - Stoughton, Jeff
  - Sylvain, Eric
  - Toner, Lee

@@ -354,7 +354,7 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: NS 11 - PE 4
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -702,34 +702,6 @@ vs:
       year: 2018
       draw: Round Robin(1)
       score: PE 7 - MB 12
- - name: Moss, Steve
-   totals:
-    - event: Brier
-      player1:
-        percent: 93
-        wins: 0
-        losses: 1
-      player2:
-        percent: 85
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Lead
-        percent: 93
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Fourth
-        percent: 85
-        win: 1
-        loss: 0
-      event: Brier
-      year: 2004
-      draw: Round Robin(10)
-      score: SK 9 - PE 5
  - name: Murphy, Jamie
    totals:
     - event: Brier
@@ -1078,7 +1050,7 @@ vs:
       year: 2004
       draw: Round Robin(4)
       score: PE 6 - NB 7
- - name: Peachy, Jay
+ - name: Peachey, Jay
    totals:
     - event: Brier
       player1:
@@ -1630,34 +1602,6 @@ vs:
       year: 2021
       draw: Round Robin(9)
       score: PE 7 - NL 11
- - name: Smith, Kent
-   totals:
-    - event: Brier
-      player1:
-        percent: 90
-        wins: 1
-        losses: 0
-      player2:
-        percent: 95
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Lead
-        percent: 90
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Lead
-        percent: 95
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2013
-      draw: Round Robin(16)
-      score: NS 4 - PE 5
  - name: Spicer, Grant
    totals:
     - event: Brier

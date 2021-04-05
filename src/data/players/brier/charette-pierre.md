@@ -300,7 +300,7 @@ vs:
  - Grattan, James
  - Gretzinger, Bert
  - Grundy, John
- - Gubbles, Will
+ - Gubbels, Will
  - Gushue, Brad
  - Hackner, Al
  - Hamilton, Wayne
@@ -376,7 +376,7 @@ vs:
  - McInnis, Phillip
  - McKenzie, Donald
  - McPhee, Barry
- - Mead, Jonathan
+ - Mead, Jon
  - Meleschuk, Orest
  - Meleschuk, Sean
  - Mellof, Dave
@@ -455,7 +455,7 @@ vs:
  - Stoughton, Jeff
  - Strain, Bill
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Tommy
  - Surkan, Ernie
  - Tait, Jeff

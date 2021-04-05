@@ -62,7 +62,7 @@ vs:
  - Colter, Travis
  - Cotter, Jim
  - Dobson, Paul
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
  - Forget, Wes
@@ -70,7 +70,7 @@ vs:
  - Gallant, Brett
  - Grant, Jeff
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Hebert, Ben
  - Hodgson, Colin

@@ -115,7 +115,7 @@ vs:
  - Laing, Brent
  - Loevenmark, Phil
  - MacDonald, Blake
- - Mead, Jonathan
+ - Mead, Jon
  - Melnyk, Brendan
  - Middaugh, Wayne
  - Mitchell, Collin

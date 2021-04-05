@@ -197,7 +197,7 @@ vs:
  - Desrosiers, John
  - Dillon, Mike
  - Dobson, Paul
- - Doherty, Robert
+ - Doherty, Robbie
  - Elmaleh, Maxime
  - Ferland, Martin
  - Fitzner-LeBlanc, Ian
@@ -224,7 +224,7 @@ vs:
  - Graber, Dennis
  - Granchelli, Kris
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Haichert, Chris
  - Harnden, Al
@@ -279,7 +279,7 @@ vs:
  - McEwen, Mike
  - McKee, Darrell
  - Meachem, Shaun Myles
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Mittelstadt, Kelly
@@ -331,9 +331,9 @@ vs:
  - Slauenwhite, David
  - Smith, Garth
  - Smith, Kent
- - Solberg, Jonathon
+ - Solberg, Jon
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Tallon, Wayne
  - Thiessen, Brad

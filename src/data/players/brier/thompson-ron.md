@@ -135,7 +135,7 @@ vs:
  - Langille, Vic
  - LeCocq, Vance
  - Ledgerwood, Allan
- - Lemery, Dan
+ - Lemery, Daniel
  - Lohnes, Bruce
  - Lukowich, Ed
  - MacDonald, Frank

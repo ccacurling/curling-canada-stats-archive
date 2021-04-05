@@ -898,7 +898,7 @@ vs:
       year: 2019
       draw: Round Robin(3)
       score: YT 5 - SK 6
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -1026,7 +1026,7 @@ vs:
       year: 2014
       draw: Round Robin(12)
       score: SK 4 - MB 7
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

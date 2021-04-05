@@ -152,7 +152,7 @@ vs:
  - Desjardins, Robert
  - Dillon, Mike
  - Dion, William
- - Doherty, Robert
+ - Doherty, Robbie
  - Eckstrand, Dustin
  - Eldridge, Zach
  - Epping, John
@@ -172,7 +172,7 @@ vs:
  - Gibson, Andrew
  - Gould, Steve
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -217,7 +217,7 @@ vs:
  - McDermaid, Donald
  - McDonald, Scott
  - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Mittelstadt, Kelly
@@ -246,11 +246,11 @@ vs:
  - Seabrook, Scott
  - Simmons, Pat
  - Smallwood, Robert
- - Solberg, Jonathon
+ - Solberg, Jon
  - Spencer, Adam
  - St.Louis, David
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Symonds, Andrew
  - Thiessen, Brad

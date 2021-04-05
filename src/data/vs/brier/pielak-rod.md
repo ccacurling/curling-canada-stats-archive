@@ -170,7 +170,7 @@ vs:
       year: 2005
       draw: Round Robin(2)
       score: SK 8 - TR 3
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

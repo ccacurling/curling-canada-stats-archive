@@ -60,7 +60,7 @@ vs:
  - Bernard, Mel
  - Blanchard, Wade
  - Bourque, Don
- - Campbell, Bill Jr
+ - Campbell, Bill Jr.
  - Carstairs, Kent
  - Charette, Pierre
  - Dauphinee, Andrew

@@ -1722,7 +1722,7 @@ vs:
       year: 2018
       draw: Round Robin(2)
       score: Eppi 6 - Carr 3
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:

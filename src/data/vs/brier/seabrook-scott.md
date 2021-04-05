@@ -74,7 +74,7 @@ vs:
       year: 2011
       draw: Round Robin(7)
       score: MB 8 - NO 4
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

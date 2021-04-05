@@ -66,7 +66,6 @@ vs:
  - Loevenmark, Phil
  - Lohnes, Bruce
  - Molloy, Pat
- - Moss, Steve
  - Nedohin, David
  - Nichols, Mark
  - Odishaw, Grant

@@ -602,7 +602,7 @@ vs:
       year: 2014
       draw: Round Robin(14)
       score: BC 6 - MB 7
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

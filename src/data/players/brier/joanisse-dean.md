@@ -129,7 +129,7 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Tetley, Ian
  - Thibaudeau, Guy

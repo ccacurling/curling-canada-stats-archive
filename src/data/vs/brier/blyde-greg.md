@@ -114,7 +114,7 @@ vs:
       year: 2021
       draw: Round Robin(7)
       score: NL 4 - NS 11
- - name: Dunstone, Matthew
+ - name: Dunstone, Matt
    totals:
     - event: Brier
       player1:

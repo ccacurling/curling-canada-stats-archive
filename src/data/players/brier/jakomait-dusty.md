@@ -100,7 +100,7 @@ vs:
  - Laing, Brent
  - Laycock, Steve
  - Lemay, Philippe
- - Lemery, Dan
+ - Lemery, Daniel
  - Loeffler, Ken
  - MacLeod, Kris
  - Martin, Kevin
@@ -128,7 +128,7 @@ vs:
  - Simmons, Pat
  - Stoughton, Jeff
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Thomas, Jeff
  - Walchuk, Don
  - Werenich, Ed

@@ -67,7 +67,7 @@ vs:
  - Clarke, Dave
  - Crete, Martin
  - Dacey, Mark
- - Doherty, Robert
+ - Doherty, Robbie
  - Fenton, Keith
  - Folk, Rick
  - Ford, Chris
@@ -103,7 +103,7 @@ vs:
  - Mimeault, Greg
  - Muyres, Dallan
  - Muyres, Kirk
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Pahl, James
  - Park, Kevin

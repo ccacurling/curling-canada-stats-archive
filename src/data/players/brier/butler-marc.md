@@ -55,7 +55,7 @@ vs:
  - Josephson, Glenn
  - Kennedy, Mike
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - MacDonald, Peter
  - MacDonald, Rod
  - Martin, Kevin

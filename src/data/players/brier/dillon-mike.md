@@ -127,9 +127,9 @@ vs:
  - Bouchard, Christian
  - Bryant, Doug
  - Bubbs, John
- - Bucyk, James
  - Burgess, Craig
  - Burnett, Steve
+ - Buyck, James
  - Carruthers, Reid
  - Case, Peter
  - Chorostkowski, Brad
@@ -200,7 +200,7 @@ vs:
  - Martin, Kevin
  - Maskiewich, Ken
  - McCarrel, Graeme
- - Mead, Jonathan
+ - Mead, Jon
  - Melnichuk, Greg
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -209,6 +209,7 @@ vs:
  - Mittelstadt, Kelly
  - Morris, John
  - Moshenko, Darcy
+ - Moss, Steve
  - Muyres, Dallan
  - Naugler, Tom
  - Nedohin, David
@@ -233,11 +234,11 @@ vs:
  - Scales, Bob
  - Sharp, Jeff
  - Simmons, Pat
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Steski, John
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Symonds, Andrew
  - Tallon, Wayne

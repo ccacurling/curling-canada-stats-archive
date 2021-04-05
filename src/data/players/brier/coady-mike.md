@@ -112,7 +112,7 @@ vs:
  - Andrews, Lew
  - Armstrong, Jim
  - Armstrong, Mark
- - Balderson, Dennis
+ - Balderston, Dennis
  - Barrette, Yves
  - Bartlett, Don
  - Bauer, Keiven
@@ -188,7 +188,7 @@ vs:
  - Johannesson, Harold
  - Jones, Dave
  - Journeaux, Ian
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kapicki, Ron
  - Kawaja, John
  - Kennedy, Bruce
@@ -202,7 +202,7 @@ vs:
  - Lauziere, Claude
  - Lawrence, Harry
  - LeCocq, Vance
- - Lemery, Dan
+ - Lemery, Daniel
  - Lepine, Craig
  - Lohnes, Bruce
  - Lukowich, Ed
@@ -271,7 +271,7 @@ vs:
  - Steventon, Lawren
  - Strain, Bill
  - Strang, Don
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Charlie
  - Sullivan, Dave
  - Sullivan, Jim

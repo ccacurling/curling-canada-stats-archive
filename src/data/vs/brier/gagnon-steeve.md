@@ -422,7 +422,7 @@ vs:
       year: 1995
       draw: Round Robin(1)
       score: QC 5 - SK 4
- - name: Hollowaychuk, Dan
+ - name: Holowaychuk, Dan
    totals:
     - event: Brier
       player1:
@@ -1026,34 +1026,6 @@ vs:
       year: 2004
       draw: Round Robin(12)
       score: QC 9 - TR 4
- - name: Moss, Steve
-   totals:
-    - event: Brier
-      player1:
-        percent: 84
-        wins: 1
-        losses: 0
-      player2:
-        percent: 81
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent: 84
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Fourth
-        percent: 81
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2004
-      draw: Round Robin(6)
-      score: SK 6 - QC 7
  - name: Nedohin, David
    totals:
     - event: Brier
@@ -1166,7 +1138,7 @@ vs:
       year: 2004
       draw: Round Robin(2)
       score: NB 8 - QC 7
- - name: Ormbsy, Dan
+ - name: Ormsby, Dan
    totals:
     - event: Brier
       player1:
@@ -1306,7 +1278,7 @@ vs:
       year: 1995
       draw: Round Robin(7)
       score: QC 4 - NS 8
- - name: Peachy, Jay
+ - name: Peachey, Jay
    totals:
     - event: Brier
       player1:

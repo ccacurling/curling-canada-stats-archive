@@ -106,7 +106,7 @@ vs:
       year: 2010
       draw: Round Robin(7)
       score: SR 8 - MC 2
- - name: Dunstone, Matthew
+ - name: Dunstone, Matt
    totals:
     - event: Canada Cup (Men)
       player1:

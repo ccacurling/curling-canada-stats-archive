@@ -482,7 +482,7 @@ vs:
       year: 2014
       draw: Round Robin(6)
       score: ON 6 - NB 9
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:
@@ -790,7 +790,7 @@ vs:
       year: 2014
       draw: Round Robin(17)
       score: ON 9 - NS 6
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:

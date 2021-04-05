@@ -56,7 +56,7 @@ vs:
  - Howard, Russ
  - Jackson, Glenn
  - Journeaux, Ian
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kennedy, Bruce
  - Kyle, Keith
  - MacFadyen, Bill

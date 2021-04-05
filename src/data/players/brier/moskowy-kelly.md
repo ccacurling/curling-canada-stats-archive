@@ -75,7 +75,7 @@ vs:
  - Savill, Craig
  - Scoffin, Wade
  - Smith, Jeff
- - Solberg, Jonathon
+ - Solberg, Jon
  - Stuart, Darol
  - Suchy, Chris
  - Sylvain, Eric

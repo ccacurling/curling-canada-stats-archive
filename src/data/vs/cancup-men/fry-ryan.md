@@ -106,7 +106,7 @@ vs:
       year: 2009
       draw: Round Robin(10)
       score: GUSH 11 - HOWA 8
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Canada Cup (Men)
       player1:
@@ -1606,7 +1606,7 @@ vs:
       year: 2016
       draw: Round Robin(1)
       score: MCE 4 - JAC 5
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:
@@ -2010,13 +2010,13 @@ vs:
    totals:
     - event: Canada Cup (Men)
       player1:
-        percent: 81
-        wins: 3
+        percent: 82
+        wins: 4
         losses: 4
       player2:
-        percent: 84
+        percent: 87
         wins: 4
-        losses: 3
+        losses: 4
    games:
     - player1:
         team: 'STOU'
@@ -2053,19 +2053,35 @@ vs:
     - player1:
         team: 'JAC'
         position: Third
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCE'
+        position: Third
         percent: 89
         win: 0
         loss: 1
-      player2:
-        team: 'GUS'
+      event: Canada Cup (Men)
+      year: 2014
+      draw: Round Robin(7)
+      score: MCE 5 - JAC 7
+    - player1:
+        team: 'JAC'
         position: Third
-        percent: 84
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCE'
+        position: Third
+        percent: 100
         win: 1
         loss: 0
       event: Canada Cup (Men)
       year: 2014
-      draw: Round Robin(5)
-      score: JAC 4 - GUS 5
+      draw: Final(11)
+      score: MCE 8 - JAC 3
     - player1:
         team: 'JAC'
         position: Third

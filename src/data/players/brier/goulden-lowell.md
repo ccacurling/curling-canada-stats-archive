@@ -133,7 +133,7 @@ vs:
  - Laidlaw, Bob
  - Lang, Lloyd
  - Lang, Rick
- - Lemery, Dan
+ - Lemery, Daniel
  - Loeffler, Ken
  - Logan, Mel
  - MacFadyen, Bill
@@ -175,7 +175,7 @@ vs:
  - Steventon, Lawren
  - Strain, Bill
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Charlie
  - Sullivan, Dave
  - Thomas, Jeff

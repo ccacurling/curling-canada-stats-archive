@@ -148,13 +148,13 @@ vs:
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
- - Doherty, Robert
- - Dunstone, Matthew
+ - Doherty, Robbie
+ - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
  - Fry, Ryan
  - Gallant, Brett
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Hagen, Brandon
@@ -178,8 +178,8 @@ vs:
  - Martin, Karrick
  - Mathers, David
  - McEwen, Mike
- - McKinnon, Robert
- - McLeod, Shadrach
+ - Mckinnon, Robert
+ - Mcleod, Shadrach
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe

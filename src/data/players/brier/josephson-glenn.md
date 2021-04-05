@@ -71,14 +71,14 @@ vs:
  - Forsyth, Sandy
  - Gee, Doug
  - Gould, Steve
- - Gubbles, Will
+ - Gubbels, Will
  - Hinch, Bert
  - Hollett, Peter
  - Ingram, Bob
  - Ireland, Clint
  - Kennedy, Mike
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - MacDonald, Peter
  - MacDonald, Rod
  - MacInnes, David

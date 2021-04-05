@@ -62,7 +62,7 @@ vs:
  - MacDonald, Blake
  - MacDonald, Brent
  - McClelland, John
- - Mead, Jonathan
+ - Mead, Jon
  - Mellof, Dave
  - Ness, Dale
  - Odishaw, Grant

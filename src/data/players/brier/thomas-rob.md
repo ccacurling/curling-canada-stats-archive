@@ -146,7 +146,7 @@ vs:
  - Johnston, Steve
  - Journeaux, Ian
  - Kalthoff, Kevin
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kapicki, Ron
  - Kennedy, Bruce
  - Kennedy, Mike
@@ -160,7 +160,7 @@ vs:
  - LeClair, Bob
  - LeCocq, Marc
  - Lemay, Jean-Yves
- - Lemery, Dan
+ - Lemery, Daniel
  - Lewis, Wayne
  - Loevenmark, Phil
  - Lowe, Wayne
@@ -203,7 +203,7 @@ vs:
  - Smith, Kent
  - Snell, Brian
  - Sparkes, Bernie
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Tetley, Ross
  - Turner, Malcolm
  - Walchuk, Don

@@ -40,7 +40,7 @@ vs:
  - Campbell, Robert
  - Carmody, Anson
  - Casey, Adam
- - Doherty, Robert
+ - Doherty, Robbie
  - Fry, Ryan
  - Harnden, E.J.
  - Harnden, Eric

@@ -72,7 +72,7 @@ vs:
  - Ryan, Jeff
  - Ryan, Keith
  - Ryan, Mike
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Tervo, Randy
  - Tetley, Ian

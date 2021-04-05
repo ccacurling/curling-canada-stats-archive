@@ -342,6 +342,34 @@ vs:
       year: 2015
       draw: Round Robin(12)
       score: MB 4 - QC 7
+ - name: Moss, Steve
+   totals:
+    - event: Brier
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2005
+      draw: Round Robin(11)
+      score: TR 5 - QC 8
  - name: Moulding, Darren
    totals:
     - event: Brier
@@ -2038,7 +2066,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 83
+        percent: 84
         wins: 0
         losses: 1
    games:
@@ -2050,8 +2078,8 @@ vs:
         loss: 0
       player2:
         team: 'MB'
-        position: Third
-        percent: 83
+        position: Second
+        percent: 84
         win: 0
         loss: 1
       event: Brier
@@ -2518,35 +2546,7 @@ vs:
       year: 2014
       draw: Bronze(21)
       score: MB 9 - QC 5
- - name: Smith, Kent
-   totals:
-    - event: Brier
-      player1:
-        percent: 90
-        wins: 1
-        losses: 0
-      player2:
-        percent: 86
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Fourth
-        percent: 90
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Lead
-        percent: 86
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2013
-      draw: Round Robin(12)
-      score: NS 5 - QC 8
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

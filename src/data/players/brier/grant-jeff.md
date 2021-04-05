@@ -73,7 +73,7 @@ vs:
  - Kendall, Lloyd
  - Koe, Jamie
  - Mackey, Peter
- - McLeod, Shadrach
+ - Mcleod, Shadrach
  - Nadeau, Jeff
  - Ng, Matt
  - Parsons, Cole

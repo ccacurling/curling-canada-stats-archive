@@ -58,7 +58,7 @@ vs:
       year: 1996
       draw: Round Robin(13)
       score: NS 4 - NB 6
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:

@@ -65,7 +65,7 @@ vs:
  - MacDonald, Blake
  - Martin, Kevin
  - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Middaugh, Wayne
  - Nedohin, David
  - Neufeld, B.J.

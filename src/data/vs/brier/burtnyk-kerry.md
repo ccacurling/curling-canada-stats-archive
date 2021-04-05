@@ -3798,7 +3798,7 @@ vs:
       year: 1988
       draw: Round Robin(12)
       score: MB 5 - NL 4
- - name: Ormbsy, Dan
+ - name: Ormsby, Dan
    totals:
     - event: Brier
       player1:
@@ -5090,7 +5090,7 @@ vs:
       year: 1981
       draw: Round Robin(11)
       score: PE 3 - MB 8
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

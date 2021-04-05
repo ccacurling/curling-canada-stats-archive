@@ -1282,7 +1282,7 @@ vs:
       year: 1996
       draw: Round Robin(17)
       score: PE 4 - MB 7
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

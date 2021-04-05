@@ -478,13 +478,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 78
-        wins: 0
-        losses: 2
+        percent: 79
+        wins: 1
+        losses: 1
       player2:
-        percent: 74
-        wins: 2
-        losses: 0
+        percent: 76
+        wins: 1
+        losses: 1
    games:
     - player1:
         team: 'MB'
@@ -505,19 +505,19 @@ vs:
     - player1:
         team: 'MB'
         position: Third
-        percent: 73
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Fourth
-        percent: 64
+        percent: 75
         win: 1
         loss: 0
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
       event: Brier
       year: 2005
-      draw: Round Robin(16)
-      score: NL 8 - MB 6
+      draw: Round Robin(2)
+      score: MB 6 - BC 4
  - name: Howard, Russ
    totals:
     - event: Brier
@@ -1122,6 +1122,34 @@ vs:
       year: 2002
       draw: Round Robin(6)
       score: SK 7 - MB 8
+ - name: Moss, Steve
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2005
+      draw: Round Robin(4)
+      score: TR 6 - MB 7
  - name: Nedohin, David
    totals:
     - event: Brier
@@ -1738,7 +1766,7 @@ vs:
       year: 2005
       draw: Round Robin(1)
       score: MB 6 - SK 3
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

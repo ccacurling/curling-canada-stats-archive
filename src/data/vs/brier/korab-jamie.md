@@ -1146,30 +1146,30 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 92
+        percent: 81
         wins: 1
         losses: 0
       player2:
-        percent: 91
+        percent: 71
         wins: 0
         losses: 1
    games:
     - player1:
         team: 'NL'
-        position: Second
-        percent: 92
+        position: Lead
+        percent: 81
         win: 1
         loss: 0
       player2:
-        team: 'SK'
+        team: 'TR'
         position: Fourth
-        percent: 91
+        percent: 71
         win: 0
         loss: 1
       event: Brier
-      year: 2004
-      draw: Round Robin(9)
-      score: NL 5 - SK 4
+      year: 2005
+      draw: Round Robin(6)
+      score: NL 9 - TR 6
  - name: Nantes, Dave
    totals:
     - event: Brier
@@ -1634,7 +1634,7 @@ vs:
       year: 2010
       draw: Round Robin(13)
       score: NL 5 - MB 3
- - name: Peachy, Jay
+ - name: Peachey, Jay
    totals:
     - event: Brier
       player1:
@@ -2298,7 +2298,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 81
+        percent: 78
         wins: 0
         losses: 1
    games:
@@ -2310,8 +2310,8 @@ vs:
         loss: 0
       player2:
         team: 'MB'
-        position: Third
-        percent: 81
+        position: Second
+        percent: 78
         win: 0
         loss: 1
       event: Brier
@@ -2574,7 +2574,7 @@ vs:
       year: 2010
       draw: Round Robin(6)
       score: NS 3 - NL 10
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

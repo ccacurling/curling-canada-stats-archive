@@ -1762,7 +1762,7 @@ vs:
       year: 2000
       draw: Round Robin(5)
       score: SK 7 - TR 6
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -2602,7 +2602,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 76
+        percent: 79
         wins: 1
         losses: 0
    games:
@@ -2614,8 +2614,8 @@ vs:
         loss: 1
       player2:
         team: 'MB'
-        position: Third
-        percent: 76
+        position: Second
+        percent: 79
         win: 1
         loss: 0
       event: Brier

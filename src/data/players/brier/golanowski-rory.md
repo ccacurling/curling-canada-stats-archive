@@ -99,7 +99,7 @@ vs:
  - Macklin, Drew
  - Martin, Kevin
  - McAulay, Greg
- - Mead, Jonathan
+ - Mead, Jon
  - Miki, Bryan
  - Milward, Ross
  - Molloy, Pat
@@ -107,7 +107,7 @@ vs:
  - Nichols, Mark
  - Nolan, Jason
  - Odishaw, Grant
- - Peachy, Jay
+ - Peachey, Jay
  - Perron, Rick
  - Pfeifer, Scott
  - Phillips, Tim

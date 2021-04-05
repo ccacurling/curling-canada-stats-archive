@@ -68,7 +68,7 @@ vs:
  - Ryan, Pat
  - Savill, Craig
  - Scoffin, Wade
- - Solberg, Jonathon
+ - Solberg, Jon
  - Stuart, Darol
  - Sylvain, Eric
  - Turpin, Randy

@@ -61,7 +61,7 @@ vs:
  - MacDonald, Brent
  - Madden, Paul
  - McClelland, John
- - Mead, Jonathan
+ - Mead, Jon
  - Moffatt, Rich
  - Ness, Dale
  - Odishaw, Grant

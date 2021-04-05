@@ -173,7 +173,7 @@ vs:
  - Despins, Dale
  - Despins, Glen
  - Despins, Wayne
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Ferbey, Randy
  - Flasch, Colton
@@ -185,7 +185,7 @@ vs:
  - Goodman, Eric
  - Gould, Steve
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Hamilton, Andrew
@@ -222,7 +222,7 @@ vs:
  - Martin, Kevin
  - Mathers, David
  - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren

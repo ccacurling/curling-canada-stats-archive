@@ -75,7 +75,7 @@ vs:
  - Flemming, Paul
  - Fry, Ryan
  - Gallant, Brett
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -97,7 +97,7 @@ vs:
  - Martin, Kevin
  - McCarville, Mike
  - McDermaid, Donald
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -115,7 +115,6 @@ vs:
  - Sawatsky, Rick
  - Schille, Chris
  - Simmons, Pat
- - Smith, Kent
  - Stoughton, Jeff
  - Sylvain, Eric
  - Thiessen, Nolan

@@ -125,7 +125,7 @@ vs:
  - Smith, David
  - Steventon, Lawren
  - Strain, Bill
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Tetley, Ian
  - Thibaudeau, Guy

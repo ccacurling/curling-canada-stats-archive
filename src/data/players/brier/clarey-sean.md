@@ -48,7 +48,7 @@ vs:
  - Folk, Kevin
  - Fowler, Rob
  - Fry, Ryan
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan

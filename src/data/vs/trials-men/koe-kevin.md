@@ -1586,7 +1586,7 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: Koe 7 - Bott 6
- - name: Vandenberghe, Garry
+ - name: Van Den Berghe, Garry
    totals:
     - event: Trials(Men)
       player1:

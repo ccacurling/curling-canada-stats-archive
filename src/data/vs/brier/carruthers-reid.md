@@ -742,7 +742,7 @@ vs:
       year: 2020
       draw: Round Robin(14)
       score: NB 4 - WC 9
- - name: Doherty, Robert
+ - name: Doherty, Robbie
    totals:
     - event: Brier
       player1:
@@ -786,7 +786,7 @@ vs:
       year: 2019
       draw: Round Robin(13)
       score: PE 6 - MB 7
- - name: Dunstone, Matthew
+ - name: Dunstone, Matt
    totals:
     - event: Brier
       player1:
@@ -1818,7 +1818,7 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: WC 3 - NB 6
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:
@@ -4442,7 +4442,7 @@ vs:
       year: 2018
       draw: Pool(19)
       score: MB 3 - WC 8
- - name: McKinnon, Robert
+ - name: Mckinnon, Robert
    totals:
     - event: Brier
       player1:
@@ -4470,7 +4470,7 @@ vs:
       year: 2021
       draw: Round Robin(18)
       score: YT 2 - WC 14
- - name: McLeod, Shadrach
+ - name: Mcleod, Shadrach
    totals:
     - event: Brier
       player1:
@@ -6438,35 +6438,7 @@ vs:
       year: 2019
       draw: Round Robin(7)
       score: YT 7 - MB 6
- - name: Smith, Kent
-   totals:
-    - event: Brier
-      player1:
-        percent: 91
-        wins: 1
-        losses: 0
-      player2:
-        percent: 80
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MB'
-        position: Second
-        percent: 91
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Lead
-        percent: 80
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2013
-      draw: Round Robin(3)
-      score: NS 4 - MB 9
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -6522,7 +6494,7 @@ vs:
       year: 2018
       draw: Round Robin(5)
       score: NU 5 - MB 12
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

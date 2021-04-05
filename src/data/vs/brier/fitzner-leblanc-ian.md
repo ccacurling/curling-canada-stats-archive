@@ -1110,7 +1110,7 @@ vs:
       year: 2010
       draw: Round Robin(17)
       score: SK 7 - NS 8
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -1702,7 +1702,7 @@ vs:
       year: 2010
       draw: Round Robin(5)
       score: NS 5 - BC 9
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

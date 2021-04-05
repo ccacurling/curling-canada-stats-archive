@@ -2,7 +2,7 @@
 title: Ken McDermot Head-to-head
 name: McDermot, Ken
 vs:
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:

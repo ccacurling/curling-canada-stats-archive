@@ -1490,7 +1490,7 @@ vs:
       year: 1993
       draw: Round Robin(9)
       score: QC 4 - SK 5
- - name: Gubbles, Will
+ - name: Gubbels, Will
    totals:
     - event: Brier
       player1:
@@ -3922,7 +3922,7 @@ vs:
       year: 1997
       draw: Round Robin(15)
       score: BC 6 - QC 7
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -6598,7 +6598,7 @@ vs:
       year: 1997
       draw: Round Robin(11)
       score: TR 7 - QC 5
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

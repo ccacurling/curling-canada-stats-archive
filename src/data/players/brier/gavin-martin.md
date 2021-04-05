@@ -130,7 +130,7 @@ vs:
  - Martin, Kevin
  - Maskiewich, Ken
  - McKee, Darrell
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Mittelstadt, Kelly
@@ -157,7 +157,7 @@ vs:
  - Simmons, Pat
  - Smith, Kent
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Thiessen, Nolan
  - Toner, Lee

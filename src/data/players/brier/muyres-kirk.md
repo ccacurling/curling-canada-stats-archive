@@ -150,7 +150,7 @@ vs:
  - Crowell, Phil
  - Currie, Jeff
  - Dion, William
- - Doherty, Robert
+ - Doherty, Robbie
  - Eldridge, Zach
  - Epping, John
  - Farnell, Jamie
@@ -163,7 +163,7 @@ vs:
  - Gallant, Brett
  - Gallant, Chris
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
@@ -209,7 +209,7 @@ vs:
  - McDonah, Evan
  - McDonald, Scott
  - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -238,7 +238,7 @@ vs:
  - Smallwood, Robert
  - Smith, Greg
  - Smith, Tyler
- - Solberg, Jonathon
+ - Solberg, Jon
  - Spencer, Adam
  - St.Louis, Brady
  - St.Louis, David

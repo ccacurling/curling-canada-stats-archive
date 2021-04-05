@@ -842,7 +842,7 @@ vs:
       year: 2010
       draw: Round Robin(4)
       score: NS 7 - QC 8
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

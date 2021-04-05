@@ -854,7 +854,7 @@ vs:
       year: 2011
       draw: Round Robin(5)
       score: BC 6 - NL 5
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -1254,7 +1254,7 @@ vs:
       year: 2011
       draw: Page 1-2(18)
       score: NL 6 - MB 7
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

@@ -168,7 +168,7 @@ vs:
  - McCarrel, Graeme
  - McCusker, Brian
  - McKee, Darrell
- - Mead, Jonathan
+ - Mead, Jon
  - Melnichuk, Greg
  - Middaugh, Wayne
  - Miki, Bryan
@@ -178,6 +178,7 @@ vs:
  - Morris, John
  - Moshenko, Darcy
  - Moskowy, Kelly
+ - Moss, Steve
  - Nedohin, David
  - Nelson, Randy
  - Nichols, Mark
@@ -210,7 +211,7 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Smith, Jeff
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Stoughton, Jeff
  - Stuart, Darol

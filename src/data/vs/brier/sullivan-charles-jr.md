@@ -1,6 +1,6 @@
 ---
-title: Charles Jr Sullivan Head-to-head
-name: Sullivan, Charles Jr
+title: Charles Jr. Sullivan Head-to-head
+name: Sullivan, Charles Jr.
 vs:
  - name: Tervo, Randy
    totals:

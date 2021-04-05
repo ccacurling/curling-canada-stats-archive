@@ -186,7 +186,7 @@ vs:
  - Deis, Ryan
  - Desjardins, Robert
  - Dion, William
- - Doherty, Robert
+ - Doherty, Robbie
  - Eldridge, Zach
  - Errington, Derek
  - Fecteau, Steve
@@ -202,7 +202,7 @@ vs:
  - Geall, Sean
  - Gould, Steve
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Hagen, Brandon
@@ -250,9 +250,9 @@ vs:
  - McCarville, Mike
  - McDermaid, Donald
  - McEwen, Mike
- - McKinnon, Robert
+ - Mckinnon, Robert
  - Meachem, Shaun Myles
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -291,7 +291,6 @@ vs:
  - Seabrook, Scott
  - Simmons, Pat
  - Smith, Greg
- - Smith, Kent
  - Spencer, Adam
  - Stoughton, Jeff
  - Sylvain, Eric

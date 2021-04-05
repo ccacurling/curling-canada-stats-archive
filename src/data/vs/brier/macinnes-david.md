@@ -74,7 +74,7 @@ vs:
       year: 1996
       draw: Round Robin(12)
       score: BC 5 - NO 6
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:

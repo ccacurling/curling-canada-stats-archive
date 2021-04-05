@@ -127,7 +127,7 @@ vs:
  - Scoffin, Wade
  - Seabrook, Matt
  - Smith, Jeff
- - Solberg, Jonathon
+ - Solberg, Jon
  - Stoughton, Jeff
  - Stuart, Darol
  - Suchy, Chris

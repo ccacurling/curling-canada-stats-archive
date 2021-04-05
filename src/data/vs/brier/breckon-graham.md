@@ -758,7 +758,7 @@ vs:
       year: 2013
       draw: Round Robin(9)
       score: AB 9 - NS 3
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:

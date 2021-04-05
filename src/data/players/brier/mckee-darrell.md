@@ -106,7 +106,7 @@ vs:
  - MacLean, Stuart
  - Martin, Kevin
  - McAulay, Greg
- - Mead, Jonathan
+ - Mead, Jon
  - Miki, Bryan
  - Milward, Ross
  - Nichols, Mark
@@ -132,7 +132,7 @@ vs:
  - Scales, Brian
  - Shypitka, Tom
  - Smith, Kent
- - Solberg, Jonathon
+ - Solberg, Jon
  - Stoughton, Jeff
  - Sullivan, Evan
  - Sveistrup, Jody

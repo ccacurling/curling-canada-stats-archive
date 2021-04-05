@@ -270,7 +270,7 @@ vs:
       year: 2021
       draw: Round Robin(9)
       score: NS 9 - QC 6
- - name: Dunstone, Matthew
+ - name: Dunstone, Matt
    totals:
     - event: Brier
       player1:

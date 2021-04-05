@@ -366,7 +366,7 @@ vs:
       year: 2007
       draw: Round Robin(13)
       score: NO 8 - QC 6
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:
@@ -1182,7 +1182,7 @@ vs:
       year: 1997
       draw: Round Robin(17)
       score: TR 7 - NO 2
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

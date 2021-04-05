@@ -758,7 +758,7 @@ vs:
       year: 2002
       draw: Round Robin(5)
       score: NO 6 - PE 5
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

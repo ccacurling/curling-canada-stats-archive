@@ -906,7 +906,7 @@ vs:
       year: 1987
       draw: Round Robin(7)
       score: NO 4 - NL 10
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -1062,7 +1062,7 @@ vs:
       year: 2002
       draw: Round Robin(7)
       score: MB 5 - NL 10
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

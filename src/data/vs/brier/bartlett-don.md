@@ -2414,7 +2414,7 @@ vs:
       year: 1991
       draw: Final(14)
       score: SK 4 - AB 8
- - name: Gubbles, Will
+ - name: Gubbels, Will
    totals:
     - event: Brier
       player1:
@@ -4022,7 +4022,7 @@ vs:
       year: 1992
       draw: Round Robin(11)
       score: NS 3 - AB 6
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:
@@ -4714,7 +4714,7 @@ vs:
       year: 1997
       draw: Round Robin(2)
       score: AB 9 - BC 7
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -5446,7 +5446,7 @@ vs:
       year: 1996
       draw: Round Robin(9)
       score: AB 4 - NL 1
- - name: Ormbsy, Dan
+ - name: Ormsby, Dan
    totals:
     - event: Brier
       player1:
@@ -7022,7 +7022,7 @@ vs:
       year: 1997
       draw: Round Robin(9)
       score: AB 7 - TR 1
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

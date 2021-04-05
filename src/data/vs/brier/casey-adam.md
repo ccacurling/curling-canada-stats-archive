@@ -606,7 +606,7 @@ vs:
       year: 2012
       draw: Round Robin(17)
       score: QC 3 - NL 7
- - name: Dunstone, Matthew
+ - name: Dunstone, Matt
    totals:
     - event: Brier
       player1:
@@ -1286,7 +1286,7 @@ vs:
       year: 2021
       draw: Round Robin(12)
       score: NB 4 - MB 8
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:
@@ -4054,7 +4054,7 @@ vs:
       year: 2021
       draw: Round Robin(8)
       score: MB 8 - WC 5
- - name: McKinnon, Robert
+ - name: Mckinnon, Robert
    totals:
     - event: Brier
       player1:
@@ -4110,7 +4110,7 @@ vs:
       year: 2021
       draw: Pool(20)
       score: CA 12 - MB 2
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -6286,34 +6286,6 @@ vs:
       year: 2021
       draw: Round Robin(10)
       score: NT 4 - MB 7
- - name: Smith, Kent
-   totals:
-    - event: Brier
-      player1:
-        percent: 82
-        wins: 1
-        losses: 0
-      player2:
-        percent: 89
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NL'
-        position: Second
-        percent: 82
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Lead
-        percent: 89
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2013
-      draw: Round Robin(1)
-      score: NS 2 - NL 10
  - name: Smitheram, Christian
    totals:
     - event: Brier

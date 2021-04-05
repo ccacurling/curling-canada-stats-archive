@@ -321,8 +321,8 @@ vs:
  - Desjardins, Robert
  - Dion, William
  - Dobson, Paul
- - Doherty, Robert
- - Dunstone, Matthew
+ - Doherty, Robbie
+ - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
  - Errington, Derek
@@ -349,7 +349,7 @@ vs:
  - Gionest, Francois
  - Gould, Steve
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Hagen, Brandon
@@ -415,9 +415,9 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
- - McKinnon, Robert
+ - Mckinnon, Robert
  - Meachem, Shaun Myles
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Merklinger, Bill
@@ -477,11 +477,11 @@ vs:
  - Smallwood, Robert
  - Smith, Kent
  - Smitheram, Christian
- - Solberg, Jonathon
+ - Solberg, Jon
  - Spencer, Adam
  - St.Louis, David
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Symonds, Andrew
  - Thiessen, Brad

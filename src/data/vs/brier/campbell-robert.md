@@ -3710,7 +3710,7 @@ vs:
       year: 2007
       draw: Round Robin(7)
       score: PE 7 - QC 8
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:
@@ -4466,7 +4466,7 @@ vs:
       year: 1997
       draw: Round Robin(14)
       score: BC 9 - PE 7
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -5366,7 +5366,7 @@ vs:
       year: 1993
       draw: Round Robin(11)
       score: NS 6 - PE 7
- - name: Ormbsy, Dan
+ - name: Ormsby, Dan
    totals:
     - event: Brier
       player1:
@@ -6562,7 +6562,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 89
+        percent: 88
         wins: 1
         losses: 0
    games:
@@ -6574,8 +6574,8 @@ vs:
         loss: 1
       player2:
         team: 'MB'
-        position: Third
-        percent: 89
+        position: Second
+        percent: 88
         win: 1
         loss: 0
       event: Brier
@@ -6862,7 +6862,7 @@ vs:
       year: 1995
       draw: Round Robin(6)
       score: NO 7 - PE 6
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -7050,7 +7050,7 @@ vs:
       year: 2002
       draw: Round Robin(15)
       score: MB 6 - PE 5
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

@@ -100,14 +100,13 @@ vs:
  - Lohnes, Bruce
  - MacDonald, Rod
  - Martin, Kevin
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
- - Moss, Steve
  - Nedohin, David
  - Nelson, Randy
  - Nichols, Mark
  - Odishaw, Grant
- - Peachy, Jay
+ - Peachey, Jay
  - Peddigrew, Ken
  - Pfeifer, Scott
  - Recksiedler, Kevin

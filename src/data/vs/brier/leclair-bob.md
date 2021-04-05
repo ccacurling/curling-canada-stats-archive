@@ -30,7 +30,7 @@ vs:
       year: 1993
       draw: Round Robin(9)
       score: NB 8 - NS 3
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:

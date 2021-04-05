@@ -94,7 +94,7 @@ vs:
  - Allan, John
  - Andrews, Robert
  - Armstrong, Mark
- - Balderson, Dennis
+ - Balderston, Dennis
  - Bartlett, Don
  - Belliveau, Dan
  - Biron, Louis
@@ -164,7 +164,7 @@ vs:
  - Lacey, Jeff
  - Lang, Rick
  - Lappalainen, Art
- - Lemery, Dan
+ - Lemery, Daniel
  - Lenz, Cliff
  - Lepine, Craig
  - Likely, John
@@ -198,7 +198,7 @@ vs:
  - Neufeld, Chris
  - Nowlan, Daryell
  - Odian, Scott
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Packet, Jim
  - Pahl, James
@@ -229,7 +229,7 @@ vs:
  - Skillen, Aaron
  - Strain, Bill
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Sutherland, Cy
  - Thomas, Jeff

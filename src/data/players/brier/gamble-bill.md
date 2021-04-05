@@ -38,7 +38,7 @@ years:
 vs:
  - Bryant, Doug
  - Bubbs, John
- - Bucyk, James
+ - Buyck, James
  - Campbell, Robert
  - Champion, Kevin
  - Cowan, Chad

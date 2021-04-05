@@ -138,7 +138,7 @@ years:
 vs:
  - Alexander, Trevor
  - Allan, John
- - Balderson, Dennis
+ - Balderston, Dennis
  - Bartlett, Don
  - Bentley, Dan
  - Bentley, Darren
@@ -232,7 +232,7 @@ vs:
  - Skanes, Robert
  - Stoughton, Jeff
  - Strain, Bill
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Sutherland, Cy
  - Tetley, Ian

@@ -738,34 +738,6 @@ vs:
       year: 2012
       draw: Page 3-4(19)
       score: AB 10 - TR 6
- - name: Smith, Kent
-   totals:
-    - event: Brier
-      player1:
-        percent: 68
-        wins: 1
-        losses: 0
-      player2:
-        percent: 88
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'TR'
-        position: Third
-        percent: 68
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Lead
-        percent: 88
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2013
-      draw: Round Robin(7)
-      score: TR 9 - NS 6
  - name: Stoughton, Jeff
    totals:
     - event: Brier
@@ -810,7 +782,7 @@ vs:
       year: 2013
       draw: Round Robin(15)
       score: MB 5 - TR 7
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

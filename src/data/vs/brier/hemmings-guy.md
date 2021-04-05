@@ -1178,7 +1178,7 @@ vs:
       year: 1998
       draw: Round Robin(8)
       score: QC 10 - PE 5
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -2386,7 +2386,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 83
+        percent: 84
         wins: 0
         losses: 1
    games:
@@ -2398,8 +2398,8 @@ vs:
         loss: 0
       player2:
         team: 'MB'
-        position: Third
-        percent: 83
+        position: Second
+        percent: 84
         win: 0
         loss: 1
       event: Brier
@@ -2666,7 +2666,7 @@ vs:
       year: 1999
       draw: Final(22)
       score: QC 5 - MB 9
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

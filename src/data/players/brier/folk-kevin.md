@@ -134,7 +134,7 @@ vs:
  - Martin, Kevin
  - McCann, Andy
  - McDermaid, Donald
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -163,7 +163,7 @@ vs:
  - Slauenwhite, David
  - Smith, Garth
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Thiessen, Nolan
  - Vaughan, Jason

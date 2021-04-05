@@ -3110,7 +3110,7 @@ vs:
       year: 2001
       draw: Round Robin(1)
       score: NS 4 - ON 8
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -3518,13 +3518,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 78
-        wins: 2
+        percent: 81
+        wins: 1
         losses: 0
       player2:
-        percent: 73
+        percent: 68
         wins: 0
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'NS'
@@ -3542,22 +3542,6 @@ vs:
       year: 2001
       draw: Round Robin(14)
       score: TR 5 - NS 6
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent: 74
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Fourth
-        percent: 79
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2004
-      draw: Round Robin(8)
-      score: NS 7 - SK 6
  - name: Nedohin, David
    totals:
     - event: Brier
@@ -4102,7 +4086,7 @@ vs:
       year: 1995
       draw: Round Robin(12)
       score: NS 3 - SK 4
- - name: Peachy, Jay
+ - name: Peachey, Jay
    totals:
     - event: Brier
       player1:
@@ -5022,7 +5006,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 66
+        percent: 78
         wins: 0
         losses: 1
    games:
@@ -5034,8 +5018,8 @@ vs:
         loss: 0
       player2:
         team: 'MB'
-        position: Third
-        percent: 66
+        position: Second
+        percent: 78
         win: 0
         loss: 1
       event: Brier
@@ -5238,7 +5222,7 @@ vs:
       year: 1995
       draw: Round Robin(4)
       score: SK 5 - NO 4
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -5366,7 +5350,7 @@ vs:
       year: 2009
       draw: Round Robin(1)
       score: NS 3 - MB 8
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

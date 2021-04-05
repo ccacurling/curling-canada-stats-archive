@@ -394,34 +394,6 @@ vs:
       year: 2004
       draw: Round Robin(15)
       score: ON 10 - TR 3
- - name: Moss, Steve
-   totals:
-    - event: Brier
-      player1:
-        percent: 76
-        wins: 0
-        losses: 1
-      player2:
-        percent: 82
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'ON'
-        position: Fourth
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Fourth
-        percent: 82
-        win: 1
-        loss: 0
-      event: Brier
-      year: 2004
-      draw: Round Robin(16)
-      score: SK 10 - ON 9
  - name: Nedohin, David
    totals:
     - event: Brier
@@ -506,7 +478,7 @@ vs:
       year: 2004
       draw: Round Robin(1)
       score: ON 8 - NB 9
- - name: Peachy, Jay
+ - name: Peachey, Jay
    totals:
     - event: Brier
       player1:

@@ -86,7 +86,7 @@ vs:
  - Howard, Scott
  - Jacobs, Brad
  - Laing, Brent
- - Mead, Jonathan
+ - Mead, Jon
  - Mittelstadt, Kelly
  - Nichols, Mark
  - Savill, Craig

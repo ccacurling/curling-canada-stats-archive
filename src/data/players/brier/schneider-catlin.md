@@ -71,7 +71,7 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
@@ -95,7 +95,7 @@ vs:
  - Mathers, David
  - McCann, Andy
  - McEwen, Mike
- - McLeod, Shadrach
+ - Mcleod, Shadrach
  - Menard, Jean-Michel
  - Menard, Philippe
  - Morris, John

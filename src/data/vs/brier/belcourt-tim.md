@@ -170,7 +170,7 @@ vs:
       year: 1989
       draw: Round Robin(13)
       score: ON 10 - NL 3
- - name: Campbell, Bill Jr
+ - name: Campbell, Bill Jr.
    totals:
     - event: Brier
       player1:
@@ -1350,7 +1350,7 @@ vs:
       year: 1987
       draw: Round Robin(15)
       score: ON 5 - QC 4
- - name: Kallos, Jack Jr
+ - name: Kallos, Jack Jr.
    totals:
     - event: Brier
       player1:

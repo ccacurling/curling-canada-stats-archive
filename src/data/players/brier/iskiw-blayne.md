@@ -113,7 +113,7 @@ vs:
  - Madden, Paul
  - McCarrel, Graeme
  - McClelland, John
- - Mead, Jonathan
+ - Mead, Jon
  - Meakin, Rob
  - Mellof, Dave
  - Middaugh, Wayne
@@ -142,7 +142,7 @@ vs:
  - Scharf, Joe
  - Shymko, Gerald
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Tallon, Wayne
  - Tervo, Randy

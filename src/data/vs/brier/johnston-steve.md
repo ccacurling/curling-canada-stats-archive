@@ -226,7 +226,7 @@ vs:
       year: 1994
       draw: Round Robin(15)
       score: NS 5 - QC 6
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:
@@ -1422,7 +1422,7 @@ vs:
       year: 1994
       draw: Round Robin(6)
       score: MB 8 - NS 4
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

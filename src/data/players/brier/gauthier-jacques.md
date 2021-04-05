@@ -72,7 +72,7 @@ vs:
  - Gallant, Brett
  - Gushue, Brad
  - Hagen, Brandon
- - McKinnon, Robert
+ - Mckinnon, Robert
  - NcNeil-Lamswood, Ryan
  - Mikkelsen, Dustin
  - Nichols, Mark

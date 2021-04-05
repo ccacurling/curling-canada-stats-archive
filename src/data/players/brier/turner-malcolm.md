@@ -158,7 +158,7 @@ vs:
  - Bowden, Clive
  - Bradley, Mike
  - Burgess, Craig
- - Campbell, Bill Jr
+ - Campbell, Bill Jr.
  - Caputo, Frank
  - Carstairs, Kent
  - Charteris, Wayne
@@ -222,7 +222,7 @@ vs:
  - Jackson, Glenn
  - James, Colin
  - Jenkins, Peter
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kapicki, Ron
  - Kennedy, Bruce
  - Krupski, Gary
@@ -297,7 +297,7 @@ vs:
  - Sparkes, Bernie
  - Stearne, Kelly
  - Strain, Bill
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Charlie
  - Sullivan, Dave
  - Sullivan, Jim

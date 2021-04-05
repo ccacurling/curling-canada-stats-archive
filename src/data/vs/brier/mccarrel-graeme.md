@@ -458,13 +458,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 77
-        wins: 1
+        percent: 83
+        wins: 2
         losses: 0
       player2:
-        percent: 75
+        percent: 72
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'ON'
@@ -482,6 +482,22 @@ vs:
       year: 2001
       draw: Round Robin(17)
       score: TR 2 - ON 7
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2005
+      draw: Round Robin(12)
+      score: TR 4 - ON 6
  - name: Nedohin, David
    totals:
     - event: Brier
@@ -1654,7 +1670,7 @@ vs:
       year: 1988
       draw: Round Robin(6)
       score: NO 8 - ON 11
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -1826,7 +1842,7 @@ vs:
       year: 1988
       draw: Round Robin(13)
       score: ON 8 - QC 2
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

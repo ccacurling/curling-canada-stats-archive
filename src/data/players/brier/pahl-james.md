@@ -67,7 +67,7 @@ vs:
  - Mimeault, Bernard
  - Mimeault, Greg
  - Odian, Scott
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Patriquin, Chuck
  - Peddigrew, Ken

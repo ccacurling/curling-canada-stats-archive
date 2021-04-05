@@ -143,7 +143,7 @@ vs:
  - McGregor, Ken
  - McInnis, Phillip
  - McKee, Darrell
- - Mead, Jonathan
+ - Mead, Jon
  - Melville, Bruce
  - Menard, Jean-Michel
  - Middaugh, Wayne

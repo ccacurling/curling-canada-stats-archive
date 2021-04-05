@@ -514,7 +514,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 75
+        percent: 86
         wins: 0
         losses: 1
    games:
@@ -526,8 +526,8 @@ vs:
         loss: 0
       player2:
         team: 'MB'
-        position: Third
-        percent: 75
+        position: Second
+        percent: 86
         win: 0
         loss: 1
       event: Brier
@@ -730,7 +730,7 @@ vs:
       year: 2002
       draw: Round Robin(13)
       score: PE 3 - AB 9
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -914,7 +914,7 @@ vs:
       year: 2002
       draw: Round Robin(10)
       score: AB 9 - MB 4
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

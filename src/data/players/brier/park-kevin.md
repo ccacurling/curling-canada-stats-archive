@@ -204,7 +204,7 @@ vs:
  - Lang, Rick
  - Lappalainen, Art
  - LeCocq, Vance
- - Lemery, Dan
+ - Lemery, Daniel
  - Lohnes, Bruce
  - MacDonald, Blake
  - MacDonald, Rod
@@ -235,8 +235,8 @@ vs:
  - Odian, Scott
  - Odishaw, Grant
  - Olson, Mark-2
- - Ormbsy, Dan
  - Orme, Tyler
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Ouimet, Luc
  - Patriquin, Chuck
@@ -267,7 +267,7 @@ vs:
  - Skanes, Robert
  - Skillen, Aaron
  - Smith, Kent
- - Solberg, Jonathon
+ - Solberg, Jon
  - Stoughton, Jeff
  - Sylvain, Eric
  - Tetley, Ross

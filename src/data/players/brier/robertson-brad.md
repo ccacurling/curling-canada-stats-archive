@@ -139,7 +139,7 @@ vs:
  - Adams, Jim
  - Adams, Steve
  - Allan, John
- - Balderson, Dennis
+ - Balderston, Dennis
  - Bradley, Mike
  - Breckenridge, Harold
  - Brophy, Marc
@@ -218,7 +218,7 @@ vs:
  - Soparlo, Murray
  - Spencer, Jim
  - Steventon, Lawren
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Tetley, Ian
  - Thomas, Ken

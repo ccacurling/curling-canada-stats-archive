@@ -163,7 +163,7 @@ vs:
  - McGregor, Ken
  - McInnis, Phillip
  - McPhee, Barry
- - Mead, Jonathan
+ - Mead, Jon
  - Meakin, Rob
  - Mellof, Dave
  - Melville, Bruce
@@ -214,7 +214,7 @@ vs:
  - Spencer, Jim
  - Stewart, Alexander
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Sullivan, Tommy
  - Tait, Jeff

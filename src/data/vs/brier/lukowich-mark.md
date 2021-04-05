@@ -422,7 +422,7 @@ vs:
       year: 2002
       draw: Round Robin(11)
       score: MB 10 - TR 11
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

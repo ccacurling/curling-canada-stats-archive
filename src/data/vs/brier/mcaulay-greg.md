@@ -142,7 +142,7 @@ vs:
       year: 2000
       draw: Round Robin(4)
       score: BC 10 - SK 6
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:

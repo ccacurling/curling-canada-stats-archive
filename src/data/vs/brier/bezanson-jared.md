@@ -254,7 +254,7 @@ vs:
       year: 2015
       draw: Round Robin(4)
       score: NB 5 - QC 8
- - name: Doherty, Robert
+ - name: Doherty, Robbie
    totals:
     - event: Brier
       player1:
@@ -366,7 +366,7 @@ vs:
       year: 2015
       draw: Round Robin(9)
       score: NL 10 - NB 2
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:

@@ -189,8 +189,8 @@ vs:
  - Crowell, Phil
  - Desjardins, Robert
  - Dillon, Mike
- - Doherty, Robert
- - Dunstone, Matthew
+ - Doherty, Robbie
+ - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
  - Fitzner-LeBlanc, Ian
@@ -201,7 +201,7 @@ vs:
  - Gaudet, Mike
  - Giddens, Ryan
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Hagen, Brandon
@@ -231,7 +231,7 @@ vs:
  - Mathers, David
  - McCann, Andy
  - McEwen, Mike
- - McKinnon, Robert
+ - Mckinnon, Robert
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe

@@ -394,7 +394,7 @@ vs:
       year: 2000
       draw: Round Robin(4)
       score: BC 10 - SK 6
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -734,7 +734,7 @@ vs:
       year: 2010
       draw: Round Robin(16)
       score: SK 6 - MB 7
- - name: Peachy, Jay
+ - name: Peachey, Jay
    totals:
     - event: Brier
       player1:
@@ -1410,7 +1410,7 @@ vs:
       year: 2010
       draw: Round Robin(17)
       score: SK 7 - NS 8
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

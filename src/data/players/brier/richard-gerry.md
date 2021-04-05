@@ -129,7 +129,7 @@ vs:
  - LeClair, Bob
  - LeCocq, Marc
  - Lemay, Jean-Yves
- - Lemery, Dan
+ - Lemery, Daniel
  - Lewis, Wayne
  - Loevenmark, Phil
  - Lohnes, Bruce
@@ -155,7 +155,7 @@ vs:
  - O'Driscoll, Frank
  - Oke, Gary
  - O'Leary, Alan
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Pahl, James
  - Park, Kevin
@@ -178,7 +178,7 @@ vs:
  - Schiewe, Calvin
  - Skillen, Aaron
  - Smith, Dave
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Tetley, Ross
  - Thomas, Rob
  - Tremblay, Roderigue

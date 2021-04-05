@@ -52,7 +52,7 @@ vs:
  - Gushue, Brad
  - Haichert, Chris
  - Hebert, Ben
- - Hollowaychuk, Dan
+ - Holowaychuk, Dan
  - Horning, Deane
  - Jakubo, Mike
  - Kilgallen, Shane
@@ -73,7 +73,7 @@ vs:
  - Ryan, Keith
  - Sharp, Jeff
  - Simmons, Pat
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sylvain, Eric
  - Thomson, Fred
  - Toner, Lee

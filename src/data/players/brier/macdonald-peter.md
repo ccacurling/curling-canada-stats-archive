@@ -143,7 +143,7 @@ vs:
  - Fox, Jim
  - Gee, Gordon
  - Gould, Steve
- - Gubbles, Will
+ - Gubbels, Will
  - Hackner, Al
  - Haines, Chuck
  - Harcourt, Doug
@@ -168,7 +168,7 @@ vs:
  - Lang, Rick
  - Langdon, Dennis
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - MacInnes, David
  - Martin, Kevin
  - McCarrel, Graeme
@@ -213,7 +213,7 @@ vs:
  - Smyth, Larry
  - Spencer, Jim
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Tervo, Randy
  - Tetley, Ian

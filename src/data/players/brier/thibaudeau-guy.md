@@ -132,7 +132,7 @@ vs:
  - McDonald, Toby
  - McGregor, Ken
  - McInnis, Phillip
- - Mead, Jonathan
+ - Mead, Jon
  - Meakin, Rob
  - Mellof, Dave
  - Melville, Bruce
@@ -171,7 +171,7 @@ vs:
  - Sinclair, Rob
  - Spencer, Jim
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Sullivan, Tommy
  - Surkan, Ernie

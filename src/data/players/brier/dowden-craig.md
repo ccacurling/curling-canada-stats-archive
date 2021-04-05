@@ -77,7 +77,7 @@ vs:
  - Gagnon, Jean
  - Golanowski, Rory
  - Gould, Steve
- - Gubbles, Will
+ - Gubbels, Will
  - Henderson, Jeffrey
  - Henderson, Ron
  - Hinch, Bert
@@ -88,7 +88,7 @@ vs:
  - Korte, Bruce
  - Korte, Roger
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - MacDonald, Peter
  - MacDonald, Rod
  - MacInnes, David
@@ -97,7 +97,7 @@ vs:
  - McAulay, Greg
  - McKee, Darrell
  - McPhee, Barry
- - Mead, Jonathan
+ - Mead, Jon
  - Mihalicz, Dwayne
  - Miki, Bryan
  - Milward, Ross

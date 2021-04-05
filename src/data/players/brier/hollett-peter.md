@@ -116,7 +116,7 @@ vs:
  - Golanowski, Rory
  - Gould, Steve
  - Gretzinger, Bert
- - Gubbles, Will
+ - Gubbels, Will
  - Hackner, Al
  - Henderson, Jeffrey
  - Henderson, Ron
@@ -135,7 +135,7 @@ vs:
  - Korte, Roger
  - Lafleur, Andre
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - Lohnes, Bruce
  - MacDonald, Peter
  - MacDonald, Rod
@@ -147,7 +147,7 @@ vs:
  - McKee, Darrell
  - McKenzie, Donald
  - McPhee, Barry
- - Mead, Jonathan
+ - Mead, Jon
  - Meleschuk, Orest
  - Meleschuk, Sean
  - Mihalicz, Dwayne

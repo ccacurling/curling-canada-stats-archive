@@ -2422,7 +2422,7 @@ vs:
       year: 1985
       draw: Tie-Breaker(16)
       score: QC 6 - TR 5
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

@@ -30,7 +30,7 @@ vs:
       year: 1995
       draw: Round Robin(13)
       score: QC 4 - TR 3
- - name: Ormbsy, Dan
+ - name: Ormsby, Dan
    totals:
     - event: Brier
       player1:

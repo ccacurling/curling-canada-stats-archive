@@ -47,7 +47,7 @@ vs:
  - Forget, Wes
  - Gallant, Brett
  - Grant, Jeff
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Koe, Jamie
  - Koe, Kevin
@@ -55,7 +55,7 @@ vs:
  - LeCocq, Marc
  - MacPhee, Bill
  - McDonald, Scott
- - McLeod, Shadrach
+ - Mcleod, Shadrach
  - Neufeld, B.J.
  - Ng, Matt
  - Nichols, Mark

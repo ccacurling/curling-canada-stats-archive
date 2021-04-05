@@ -63,7 +63,7 @@ vs:
  - Kawaja, John
  - Kerr, Ian
  - Kofoed, Lonnie
- - Lemery, Dan
+ - Lemery, Daniel
  - MacLeod, Kris
  - Martin, Kevin
  - McGowan, Nolin

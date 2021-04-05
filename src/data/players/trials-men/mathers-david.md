@@ -39,7 +39,7 @@ vs:
  - Carruthers, Reid
  - Cotter, Jim
  - Fry, Ryan
- - Griffith, Ty
+ - Griffith, Tyrel
  - Harnden, E.J.
  - Harnden, Ryan
  - Hebert, Ben

@@ -97,7 +97,7 @@ vs:
  - Lang, Lloyd
  - Lang, Rick
  - LeCocq, Vance
- - Lemery, Dan
+ - Lemery, Daniel
  - Logan, Mel
  - Lohnes, Bruce
  - MacArthur, Bruce

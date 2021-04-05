@@ -76,7 +76,7 @@ vs:
  - Savill, Craig
  - Shypitka, Tom
  - Smith, Kent
- - Solberg, Jonathon
+ - Solberg, Jon
  - Stoughton, Jeff
  - Thiessen, Nolan
  - Vaughan, Jason

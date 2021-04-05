@@ -219,12 +219,12 @@ vs:
  - Simmons, Pat
  - Sinclair, Rob
  - Smith, Doug-1
- - Solberg, Jonathon
+ - Solberg, Jon
  - Soparlo, Murray
  - Sosiak, Jim
  - Spencer, Jim
  - Steventon, Lawren
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Sullivan, Tommy
  - Sylvain, Eric

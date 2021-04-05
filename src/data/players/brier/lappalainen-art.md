@@ -101,11 +101,11 @@ vs:
  - Bryant, Doug
  - Bubbs, John
  - Buck, Wyatt
- - Bucyk, James
  - Burgess, Craig
  - Burtnyk, Kerry
  - Butler, Mark
  - Butler, Mike
+ - Buyck, James
  - Campbell, Robert
  - Carey, Dan
  - Carter, Andrew
@@ -145,7 +145,7 @@ vs:
  - Heidt, Brad
  - Hemmings, Guy
  - Hipkin, Rich
- - Hollowaychuk, Dan
+ - Holowaychuk, Dan
  - Horning, Deane
  - Howard, Glenn
  - Howard, Russ
@@ -163,7 +163,7 @@ vs:
  - Korab, Jamie
  - LeClair, Bob
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - Lohnes, Bruce
  - MacAulay, Ian
  - MacKenzie, Kevin
@@ -191,7 +191,7 @@ vs:
  - Odishaw, Terry
  - Oke, Gary
  - O'Leary, Alan
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Pahl, James
  - Park, Kevin

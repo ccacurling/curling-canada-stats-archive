@@ -74,7 +74,7 @@ vs:
       year: 2011
       draw: Round Robin(15)
       score: BC 7 - PE 1
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -674,34 +674,6 @@ vs:
       year: 2013
       draw: Round Robin(8)
       score: MB 9 - PE 2
- - name: Smith, Kent
-   totals:
-    - event: Brier
-      player1:
-        percent: 86
-        wins: 1
-        losses: 0
-      player2:
-        percent: 95
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Lead
-        percent: 95
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2013
-      draw: Round Robin(16)
-      score: NS 4 - PE 5
  - name: Stoughton, Jeff
    totals:
     - event: Brier
@@ -746,7 +718,7 @@ vs:
       year: 2013
       draw: Round Robin(8)
       score: MB 9 - PE 2
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

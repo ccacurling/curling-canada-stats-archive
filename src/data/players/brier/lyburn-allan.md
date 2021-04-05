@@ -49,7 +49,7 @@ vs:
  - Folk, Kevin
  - Fry, Ryan
  - Gaudet, Mike
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan

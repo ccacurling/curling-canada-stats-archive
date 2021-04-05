@@ -44,7 +44,7 @@ vs:
  - Howard, Russ
  - LeCocq, Marc
  - MacDonald, Blake
- - Mead, Jonathan
+ - Mead, Jon
  - Nedohin, David
  - Odishaw, Grant
  - Pfeifer, Scott

@@ -46,13 +46,13 @@ vs:
  - Chadwick, Scott
  - Cotter, Jim
  - Crete, Martin
- - Doherty, Robert
+ - Doherty, Robbie
  - Flasch, Colton
  - Ford, Chris
  - Forget, Wes
  - Fry, Ryan
  - Gallant, Brett
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -76,7 +76,7 @@ vs:
  - Samagalski, Derek
  - Sawatsky, Rick
  - Smallwood, Robert
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sylvain, Eric
  - Symonds, Andrew
  - Thiessen, Brad

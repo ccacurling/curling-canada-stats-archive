@@ -1,7 +1,7 @@
 ---
-title: Jack Jr Kallos
-name: Jack Jr Kallos
-name-sort: Kallos, Jack Jr
+title: Jack Jr. Kallos
+name: Jack Jr. Kallos
+name-sort: Kallos, Jack Jr.
 totals:
  - event: Brier
    games: 11

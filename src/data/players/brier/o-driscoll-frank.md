@@ -79,7 +79,7 @@ vs:
  - Gould, Steve
  - Grant, Scott
  - Gretzinger, Bert
- - Gubbles, Will
+ - Gubbels, Will
  - Harcourt, Doug
  - Harcourt, Greg
  - Harris, Tyler
@@ -94,7 +94,7 @@ vs:
  - Kennedy, Mike
  - LeCocq, Marc
  - Lemay, Jean-Yves
- - Lemery, Dan
+ - Lemery, Daniel
  - Lewis, Wayne
  - Loevenmark, Phil
  - Lowe, Wayne
@@ -133,7 +133,7 @@ vs:
  - Smyth, Larry
  - Somers, Grant
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Tresoor, Ken
  - Van Den Berghe, Garry
  - Van Dine, Steve

@@ -2,7 +2,7 @@
 title: Charlie Salina Head-to-head
 name: Salina, Charlie
 vs:
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

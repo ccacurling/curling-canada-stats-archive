@@ -2,7 +2,7 @@
 title: Bob Ursel Head-to-head
 name: Ursel, Bob
 vs:
- - name: Vandenberghe, Garry
+ - name: Van Den Berghe, Garry
    totals:
     - event: Trials(Men)
       player1:

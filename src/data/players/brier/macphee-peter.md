@@ -99,7 +99,7 @@ vs:
  - Armour, Doug
  - Aucoin, Gabriel
  - Austman, Stan
- - Balderson, Dennis
+ - Balderston, Dennis
  - Belliveau, Dan
  - Belyea, Richard
  - Birnie, Ross
@@ -217,7 +217,7 @@ vs:
  - Stearne, Kelly
  - Steventon, Lawren
  - Strain, Bill
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Charlie
  - Sullivan, Dave
  - Sullivan, Jim

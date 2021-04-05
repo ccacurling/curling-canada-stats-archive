@@ -59,7 +59,7 @@ vs:
  - Howard, Russ
  - Jackson, Glenn
  - Journeaux, Ian
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kapicki, Ron
  - Kennedy, Bruce
  - Krupski, Gary

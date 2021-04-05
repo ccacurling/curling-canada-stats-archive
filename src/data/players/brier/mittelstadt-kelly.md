@@ -130,7 +130,7 @@ vs:
  - Martin, Karrick
  - Martin, Kevin
  - Maskiewich, Ken
- - Mead, Jonathan
+ - Mead, Jon
  - Melnichuk, Greg
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -139,6 +139,7 @@ vs:
  - Morris, John
  - Moshenko, Darcy
  - Moskowy, Braeden
+ - Moss, Steve
  - Muyres, Dallan
  - Nason, Paul
  - Naugler, Tom
@@ -160,10 +161,10 @@ vs:
  - Schille, Chris
  - Seabrook, Scott
  - Simmons, Pat
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Thomson, Fred
  - Toner, Lee

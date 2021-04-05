@@ -120,7 +120,7 @@ vs:
  - Jackson, Glenn
  - Jenkins, Bill
  - Journeaux, Ian
- - Kallos, Jack Jr
+ - Kallos, Jack Jr.
  - Kamp, Ragnar
  - Kapicki, Ron
  - Kawaja, John
@@ -147,7 +147,7 @@ vs:
  - Neily, Peter
  - Noseworthy, Mark
  - Odian, Scott
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Packet, Jim
  - Pahl, James

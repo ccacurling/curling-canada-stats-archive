@@ -95,7 +95,7 @@ vs:
  - Piggott, Steve
  - Richard, Gerry
  - Ryan, Pat
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Thomas, Rob
  - Trickett, Eugene
  - Walsh, Jim

@@ -1198,7 +1198,7 @@ vs:
       year: 2018
       draw: Pool(19)
       score: MB 3 - WC 8
- - name: McKinnon, Robert
+ - name: Mckinnon, Robert
    totals:
     - event: Brier
       player1:
@@ -1226,7 +1226,7 @@ vs:
       year: 2021
       draw: Round Robin(18)
       score: YT 2 - WC 14
- - name: McLeod, Shadrach
+ - name: Mcleod, Shadrach
    totals:
     - event: Brier
       player1:
@@ -2382,7 +2382,7 @@ vs:
       year: 2019
       draw: Round Robin(7)
       score: YT 7 - MB 6
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

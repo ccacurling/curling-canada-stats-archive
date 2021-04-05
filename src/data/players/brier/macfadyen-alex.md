@@ -95,7 +95,7 @@ vs:
  - Laycock, Steve
  - Martin, Kevin
  - Maskiewich, Ken
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -113,9 +113,8 @@ vs:
  - Seabrook, Scott
  - Simmons, Pat
  - Smith, Garth
- - Smith, Kent
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Symonds, Andrew
  - Virtue, Brock

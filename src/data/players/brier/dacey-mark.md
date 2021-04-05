@@ -133,12 +133,12 @@ vs:
  - Bitz, Scott
  - Bryant, Doug
  - Bubbs, John
- - Bucyk, James
  - Burgess, Bryan
  - Burgess, Craig
  - Burnett, Steve
  - Burtnyk, Kerry
  - Butler, Mark
+ - Buyck, James
  - Campbell, Robert
  - Case, Peter
  - Cayouette, Maurice
@@ -231,7 +231,7 @@ vs:
  - MacPherson, Bryan
  - Martin, Kevin
  - McCarrel, Graeme
- - Mead, Jonathan
+ - Mead, Jon
  - Meakin, Rob
  - Menard, Jean-Michel
  - Middaugh, Wayne
@@ -255,7 +255,7 @@ vs:
  - Pahl, James
  - Park, Kevin
  - Patriquin, Chuck
- - Peachy, Jay
+ - Peachey, Jay
  - Peddigrew, Ken
  - Perroud, Pat
  - Pfeifer, Scott
@@ -283,11 +283,11 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Skillen, Aaron
- - Solberg, Jonathon
+ - Solberg, Jon
  - Spicer, Grant
  - Steski, John
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Evan
  - Sullivan, Jim
  - Sumner, Kevin

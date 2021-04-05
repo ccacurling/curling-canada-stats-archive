@@ -101,7 +101,7 @@ vs:
  - Madden, Paul
  - Maurice, Jean
  - Maxie, Fred
- - Mead, Jonathan
+ - Mead, Jon
  - Mellof, Dave
  - Middaugh, Wayne
  - Moffatt, Rich
@@ -128,7 +128,7 @@ vs:
  - Shymko, Gerald
  - Smith, Dave
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Thibaudeau, Guy
  - Thomas, Rob
  - Trickett, Eugene

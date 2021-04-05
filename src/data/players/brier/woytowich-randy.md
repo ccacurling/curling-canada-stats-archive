@@ -92,7 +92,7 @@ vs:
  - Lappalainen, Art
  - LeClair, Bob
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - MacLean, Rob
  - Martin, Kevin
  - McHargue, Ken

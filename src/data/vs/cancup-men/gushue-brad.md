@@ -2058,7 +2058,7 @@ vs:
       year: 2018
       draw: Round Robin(8)
       score: Gush 8 - Carr 4
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:
@@ -2612,10 +2612,10 @@ vs:
       player1:
         percent: 74
         wins: 1
-        losses: 4
+        losses: 5
       player2:
         percent: 79
-        wins: 4
+        wins: 5
         losses: 1
    games:
     - player1:
@@ -2666,6 +2666,22 @@ vs:
       year: 2012
       draw: Round Robin(2)
       score: GUS 2 - MCE 8
+    - player1:
+        team: 'GUS'
+        position: Fourth
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCE'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      event: Canada Cup (Men)
+      year: 2014
+      draw: Round Robin(2)
+      score: GUS 3 - MCE 9
     - player1:
         team: 'GUS'
         position: Fourth

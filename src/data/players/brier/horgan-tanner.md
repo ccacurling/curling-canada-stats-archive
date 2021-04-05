@@ -72,7 +72,7 @@ vs:
  - Barry, Josh
  - Bottcher, Brendan
  - Case, Peter
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Gallant, Brett
  - Gallant, Chris
  - Grattan, James

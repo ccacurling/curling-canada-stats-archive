@@ -2,7 +2,7 @@
 title: Jeff Smith Head-to-head
 name: Smith, Jeff
 vs:
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

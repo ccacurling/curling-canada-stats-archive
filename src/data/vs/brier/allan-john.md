@@ -46,7 +46,7 @@ vs:
       year: 1992
       draw: Round Robin(10)
       score: NL 8 - BC 6
- - name: Balderson, Dennis
+ - name: Balderston, Dennis
    totals:
     - event: Brier
       player1:
@@ -2746,7 +2746,7 @@ vs:
       year: 1984
       draw: Round Robin(4)
       score: NL 5 - PE 6
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:
@@ -4902,7 +4902,7 @@ vs:
       year: 1985
       draw: Round Robin(14)
       score: TR 6 - NL 2
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

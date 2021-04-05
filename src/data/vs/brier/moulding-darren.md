@@ -1298,7 +1298,7 @@ vs:
       year: 2020
       draw: Round Robin(3)
       score: NU 4 - AB 9
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

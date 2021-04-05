@@ -1,6 +1,6 @@
 ---
-title: Jack Jr Kallos Head-to-head
-name: Kallos, Jack Jr
+title: Jack Jr. Kallos Head-to-head
+name: Kallos, Jack Jr.
 vs:
  - name: Kapicki, Ron
    totals:

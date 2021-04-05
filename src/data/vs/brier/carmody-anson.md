@@ -858,7 +858,7 @@ vs:
       year: 2014
       draw: Round Robin(11)
       score: PE 3 - NB 8
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:
@@ -2406,7 +2406,7 @@ vs:
       year: 2019
       draw: Round Robin(13)
       score: PE 6 - MB 7
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -3714,35 +3714,7 @@ vs:
       year: 2013
       draw: Round Robin(8)
       score: MB 9 - PE 2
- - name: Smith, Kent
-   totals:
-    - event: Brier
-      player1:
-        percent: 77
-        wins: 1
-        losses: 0
-      player2:
-        percent: 95
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Third
-        percent: 77
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Lead
-        percent: 95
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2013
-      draw: Round Robin(16)
-      score: NS 4 - PE 5
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

@@ -85,7 +85,7 @@ vs:
  - Harcourt, Greg
  - Hebert, Ben
  - Hemmings, Guy
- - Hollowaychuk, Dan
+ - Holowaychuk, Dan
  - Horning, Deane
  - Iskiw, Blayne
  - Jackson, Glen
@@ -121,8 +121,8 @@ vs:
  - Scharf, Joe
  - Sharp, Jeff
  - Simmons, Pat
- - Solberg, Jonathon
- - Sullivan, Charles Jr
+ - Solberg, Jon
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Sylvain, Eric
  - Tervo, Randy

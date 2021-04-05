@@ -69,7 +69,7 @@ vs:
  - Sveistrup, Jody
  - Tetley, Ian
  - Ursel, Bob
- - Vandenberghe, Garry
+ - Van Den Berghe, Garry
  - Walchuk, Don
  - Whittle, Mark
 ---

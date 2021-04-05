@@ -88,7 +88,7 @@ vs:
  - Crete, Martin
  - Currie, Jeff
  - Dion, William
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
  - Farnell, Jamie
@@ -97,7 +97,7 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Eric
@@ -129,7 +129,7 @@ vs:
  - McCann, Andy
  - McCarville, Mike
  - McDermaid, Donald
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Merklinger, Bill

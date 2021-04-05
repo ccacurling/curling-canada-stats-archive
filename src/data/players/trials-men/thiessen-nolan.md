@@ -63,7 +63,7 @@ vs:
  - Fowler, Rob
  - Fry, Ryan
  - Gould, Steve
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Harnden, E.J.
  - Harnden, Ryan

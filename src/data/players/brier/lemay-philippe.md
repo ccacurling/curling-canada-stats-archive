@@ -66,7 +66,7 @@ vs:
  - Carruthers, Reid
  - Champion, Kevin
  - Dobson, Paul
- - Doherty, Robert
+ - Doherty, Robbie
  - Ford, Chris
  - Fowler, Rob
  - Fraser, Pierre
@@ -115,7 +115,7 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Smallwood, Robert
- - Solberg, Jonathon
+ - Solberg, Jon
  - Stoughton, Jeff
  - Symonds, Andrew
  - Thiessen, Brad

@@ -160,7 +160,7 @@ vs:
  - Grattan, James
  - Gretzinger, Bert
  - Grundy, John
- - Gubbles, Will
+ - Gubbels, Will
  - Haichert, Chris
  - Haines, Chuck
  - Harris, Rob
@@ -196,7 +196,7 @@ vs:
  - Lappalainen, Art
  - LeCocq, Marc
  - LeDrew, Ryan
- - Lemery, Dan
+ - Lemery, Daniel
  - Loevenmark, Phil
  - Lohnes, Bruce
  - Lowe, Wayne

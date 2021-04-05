@@ -220,7 +220,7 @@ vs:
  - Danbrook, Jamie
  - Darragh, Alan
  - Dillon, Mike
- - Doherty, Robert
+ - Doherty, Robbie
  - Eldridge, Zach
  - Errington, Derek
  - Farnell, Jamie
@@ -236,7 +236,7 @@ vs:
  - Gibson, Andrew
  - Gould, Steve
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -279,7 +279,7 @@ vs:
  - McDermaid, Donald
  - McEwen, Mike
  - Meachem, Shaun Myles
- - Mead, Jonathan
+ - Mead, Jon
  - Middaugh, Wayne
  - Millar, Colin
  - Mittelstadt, Kelly
@@ -312,11 +312,10 @@ vs:
  - Slauenwhite, David
  - Smallwood, Robert
  - Smith, Garth
- - Smith, Kent
- - Solberg, Jonathon
+ - Solberg, Jon
  - Spencer, Adam
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan

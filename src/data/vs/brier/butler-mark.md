@@ -2734,7 +2734,7 @@ vs:
       year: 1993
       draw: Round Robin(16)
       score: PE 5 - NB 2
- - name: Lemery, Dan
+ - name: Lemery, Daniel
    totals:
     - event: Brier
       player1:
@@ -3370,7 +3370,7 @@ vs:
       year: 1997
       draw: Round Robin(14)
       score: BC 9 - PE 7
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -4114,7 +4114,7 @@ vs:
       year: 1993
       draw: Round Robin(11)
       score: NS 6 - PE 7
- - name: Ormbsy, Dan
+ - name: Ormsby, Dan
    totals:
     - event: Brier
       player1:
@@ -5566,7 +5566,7 @@ vs:
       year: 2002
       draw: Round Robin(15)
       score: MB 6 - PE 5
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

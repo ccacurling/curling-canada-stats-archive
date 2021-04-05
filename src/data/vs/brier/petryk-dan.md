@@ -410,7 +410,7 @@ vs:
       year: 1991
       draw: Round Robin(11)
       score: AB 3 - MB 2
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

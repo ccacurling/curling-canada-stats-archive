@@ -58,7 +58,7 @@ vs:
       year: 2008
       draw: Round Robin(17)
       score: SK 8 - MB 2
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

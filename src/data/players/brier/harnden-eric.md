@@ -142,7 +142,7 @@ vs:
  - Alexander, Trevor
  - Allan, John
  - Armstrong, Jim
- - Balderson, Dennis
+ - Balderston, Dennis
  - Barrette, Yves
  - Barry, Josh
  - Bauer, Keiven
@@ -171,7 +171,7 @@ vs:
  - Dauphinee, Andrew
  - Davidson, Robert
  - Desrosiers, John
- - Doherty, Robert
+ - Doherty, Robbie
  - Edl, Don
  - Edwards, Duane
  - Edwards, Jack
@@ -245,7 +245,7 @@ vs:
  - Smith, Garth
  - Sparkes, Bernie
  - Strang, Don
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Charlie
  - Sullivan, Dave
  - Sullivan, Jim

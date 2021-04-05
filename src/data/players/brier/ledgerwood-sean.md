@@ -130,7 +130,7 @@ vs:
  - Dacey, Mark
  - Dieno, Clint
  - Dion, William
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Errington, Derek
  - Farnell, Jamie
@@ -148,7 +148,7 @@ vs:
  - Golanowski, Rory
  - Gordon, Robbie
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Hardy, Gord
  - Harnden, E.J.
@@ -193,7 +193,7 @@ vs:
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -202,7 +202,6 @@ vs:
  - Morgan, Tyler
  - Morris, John
  - Moskowy, Braeden
- - Moss, Steve
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
@@ -212,7 +211,7 @@ vs:
  - Neufeld, B.J.
  - Nichols, Mark
  - Odishaw, Grant
- - Peachy, Jay
+ - Peachey, Jay
  - Pfeifer, Scott
  - Pinder, Jordan
  - Recksiedler, Kevin
@@ -230,7 +229,6 @@ vs:
  - Simmons, Pat
  - Smith, Garth
  - Smith, Greg
- - Smith, Kent
  - Spicer, Grant
  - St.Louis, Brady
  - St.Louis, David

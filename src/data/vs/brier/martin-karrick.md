@@ -194,7 +194,7 @@ vs:
       year: 2021
       draw: Round Robin(14)
       score: WC 3 - AB 9
- - name: McKinnon, Robert
+ - name: Mckinnon, Robert
    totals:
     - event: Brier
       player1:
@@ -230,7 +230,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 83
+        percent: 90
         wins: 1
         losses: 0
    games:
@@ -242,8 +242,8 @@ vs:
         loss: 1
       player2:
         team: 'SK'
-        position: Third
-        percent: 83
+        position: Second
+        percent: 90
         win: 1
         loss: 0
       event: Brier
@@ -1834,7 +1834,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 93
+        percent: 88
         wins: 0
         losses: 1
    games:
@@ -1846,8 +1846,8 @@ vs:
         loss: 0
       player2:
         team: 'NS'
-        position: Lead
-        percent: 93
+        position: Second
+        percent: 88
         win: 0
         loss: 1
       event: Brier
@@ -1882,7 +1882,7 @@ vs:
       year: 2020
       draw: Round Robin(3)
       score: NU 4 - AB 9
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

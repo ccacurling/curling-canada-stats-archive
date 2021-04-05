@@ -2,7 +2,7 @@
 title: Brett Gallant Head-to-head
 name: Gallant, Brett
 vs:
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Canada Cup (Men)
       player1:
@@ -1406,7 +1406,7 @@ vs:
       year: 2018
       draw: Round Robin(8)
       score: Gush 8 - Carr 4
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:
@@ -1766,12 +1766,12 @@ vs:
    totals:
     - event: Canada Cup (Men)
       player1:
-        percent: 79
+        percent: 81
         wins: 1
-        losses: 3
+        losses: 4
       player2:
-        percent: 89
-        wins: 3
+        percent: 88
+        wins: 4
         losses: 1
    games:
     - player1:
@@ -1790,6 +1790,22 @@ vs:
       year: 2012
       draw: Round Robin(2)
       score: GUS 2 - MCE 8
+    - player1:
+        team: 'GUS'
+        position: Second
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCE'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      event: Canada Cup (Men)
+      year: 2014
+      draw: Round Robin(2)
+      score: GUS 3 - MCE 9
     - player1:
         team: 'GUS'
         position: Second

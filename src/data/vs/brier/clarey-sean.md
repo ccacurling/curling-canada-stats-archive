@@ -198,7 +198,7 @@ vs:
       year: 2012
       draw: Round Robin(16)
       score: NL 10 - PE 5
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:

@@ -6,7 +6,7 @@ vs:
    totals:
     - event: Canada Cup (Men)
       player1:
-        percent: 74
+        percent: 65
         wins: 0
         losses: 1
       player2:
@@ -16,8 +16,8 @@ vs:
    games:
     - player1:
         team: 'Humb'
-        position: Lead
-        percent: 74
+        position: Fourth
+        percent: 65
         win: 0
         loss: 1
       player2:
@@ -34,7 +34,7 @@ vs:
    totals:
     - event: Canada Cup (Men)
       player1:
-        percent: 90
+        percent: 82
         wins: 1
         losses: 0
       player2:
@@ -44,8 +44,8 @@ vs:
    games:
     - player1:
         team: 'Humb'
-        position: Lead
-        percent: 90
+        position: Fourth
+        percent: 82
         win: 1
         loss: 0
       player2:
@@ -62,7 +62,7 @@ vs:
    totals:
     - event: Canada Cup (Men)
       player1:
-        percent: 74
+        percent: 65
         wins: 0
         losses: 1
       player2:
@@ -72,8 +72,8 @@ vs:
    games:
     - player1:
         team: 'Humb'
-        position: Lead
-        percent: 74
+        position: Fourth
+        percent: 65
         win: 0
         loss: 1
       player2:
@@ -90,7 +90,7 @@ vs:
    totals:
     - event: Canada Cup (Men)
       player1:
-        percent: 90
+        percent: 82
         wins: 1
         losses: 0
       player2:
@@ -100,8 +100,8 @@ vs:
    games:
     - player1:
         team: 'Humb'
-        position: Lead
-        percent: 90
+        position: Fourth
+        percent: 82
         win: 1
         loss: 0
       player2:
@@ -118,7 +118,7 @@ vs:
    totals:
     - event: Canada Cup (Men)
       player1:
-        percent: 99
+        percent: 81
         wins: 1
         losses: 0
       player2:
@@ -128,8 +128,8 @@ vs:
    games:
     - player1:
         team: 'Humb'
-        position: Lead
-        percent: 99
+        position: Fourth
+        percent: 81
         win: 1
         loss: 0
       player2:
@@ -146,7 +146,7 @@ vs:
    totals:
     - event: Canada Cup (Men)
       player1:
-        percent: 99
+        percent: 81
         wins: 1
         losses: 0
       player2:
@@ -156,8 +156,8 @@ vs:
    games:
     - player1:
         team: 'Humb'
-        position: Lead
-        percent: 99
+        position: Fourth
+        percent: 81
         win: 1
         loss: 0
       player2:
@@ -174,7 +174,7 @@ vs:
    totals:
     - event: Canada Cup (Men)
       player1:
-        percent: 74
+        percent: 65
         wins: 0
         losses: 1
       player2:
@@ -184,8 +184,8 @@ vs:
    games:
     - player1:
         team: 'Humb'
-        position: Lead
-        percent: 74
+        position: Fourth
+        percent: 65
         win: 0
         loss: 1
       player2:
@@ -202,7 +202,7 @@ vs:
    totals:
     - event: Canada Cup (Men)
       player1:
-        percent: 99
+        percent: 81
         wins: 1
         losses: 0
       player2:
@@ -212,8 +212,8 @@ vs:
    games:
     - player1:
         team: 'Humb'
-        position: Lead
-        percent: 99
+        position: Fourth
+        percent: 81
         win: 1
         loss: 0
       player2:

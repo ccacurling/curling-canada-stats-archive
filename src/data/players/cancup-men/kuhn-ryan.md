@@ -49,7 +49,7 @@ vs:
  - Koe, Kevin
  - Laing, Brent
  - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Morris, John
  - Neufeld, B.J.
  - Neufeld, Denni

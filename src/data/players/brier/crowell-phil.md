@@ -127,7 +127,7 @@ vs:
  - Cotter, Jim
  - Crete, Martin
  - Currie, Morgan
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Fecteau, Steve
  - Flaxey, Caleb
@@ -141,7 +141,7 @@ vs:
  - Gionest, Francois
  - Gould, Steve
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
@@ -219,7 +219,7 @@ vs:
  - Shypitka, Tom
  - Smith, Greg
  - Smith, Tyler
- - Solberg, Jonathon
+ - Solberg, Jon
  - St.Louis, Brady
  - Stoughton, Jeff
  - Sylvain, Eric

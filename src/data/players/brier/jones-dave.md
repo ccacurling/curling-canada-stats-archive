@@ -60,7 +60,7 @@ vs:
  - Howard, Russ
  - Kennedy, Mike
  - Lafleur, Andre
- - Lemery, Dan
+ - Lemery, Daniel
  - MacFadyen, Bill
  - MacFadyen, Ted
  - Martin, Kevin

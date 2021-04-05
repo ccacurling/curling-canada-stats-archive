@@ -120,7 +120,7 @@ vs:
  - Fry, Ryan
  - Gibson, Andrew
  - Gould, Steve
- - Griffith, Ty
+ - Griffith, Tyrel
  - Harnden, E.J.
  - Harnden, Ryan
  - Harris, Rob
@@ -170,7 +170,7 @@ vs:
  - Stoughton, Jeff
  - Thiessen, Brad
  - Thiessen, Nolan
- - Vandenberghe, Garry
+ - Van Den Berghe, Garry
  - Walchuk, Don
  - Wozniak, Matt
 ---

@@ -107,17 +107,16 @@ vs:
  - MacDonald, Brent
  - Madden, Paul
  - McClelland, John
- - Mead, Jonathan
+ - Mead, Jon
  - Mellof, Dave
  - Moffatt, Rich
- - Moss, Steve
  - Nedohin, David
  - Ness, Dale
  - Nichols, Mark
  - Odishaw, Grant
  - O'Rourke, Mark
  - Patterson, Scott
- - Peachy, Jay
+ - Peachey, Jay
  - Peddigrew, Ken
  - Pfeifer, Scott
  - Rajala, Howard

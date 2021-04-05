@@ -2,7 +2,7 @@
 title: Aaron Bartling Head-to-head
 name: Bartling, Aaron
 vs:
- - name: Dunstone, Matthew
+ - name: Dunstone, Matt
    totals:
     - event: Brier
       player1:

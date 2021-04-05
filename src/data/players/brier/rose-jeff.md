@@ -62,7 +62,7 @@ vs:
  - MacDonald, Rod
  - MacInnes, David
  - Martin, Kevin
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Nelson, Randy
  - O'Rourke, Mark

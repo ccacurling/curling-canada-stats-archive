@@ -338,7 +338,7 @@ vs:
       year: 2012
       draw: Round Robin(4)
       score: EPP 8 - MCE 9
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:

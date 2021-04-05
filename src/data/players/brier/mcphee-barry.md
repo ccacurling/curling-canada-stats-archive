@@ -104,7 +104,7 @@ vs:
  - Bushell, Don
  - Butler, Marc
  - Butler, Mark
- - Campbell, Bill Jr
+ - Campbell, Bill Jr.
  - Campbell, Robert
  - Carey, Dan
  - Carruthers, Bob
@@ -139,7 +139,7 @@ vs:
  - Goulden, Lowell
  - Grant, Scott
  - Grattan, James
- - Gubbles, Will
+ - Gubbels, Will
  - Hackner, Al
  - Haines, Chuck
  - Hamelmann, Chris
@@ -167,7 +167,7 @@ vs:
  - Lang, Rick
  - LaRocque, Guy
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - Loeffler, Ken
  - Lukowich, Ed
  - MacDonald, Doug
@@ -227,7 +227,7 @@ vs:
  - Stewart, Alexander
  - Stoughton, Jeff
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sweete, Don
  - Syme, Brent
  - Thomas, Jeff

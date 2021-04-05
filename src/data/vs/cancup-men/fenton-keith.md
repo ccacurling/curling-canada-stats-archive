@@ -574,7 +574,7 @@ vs:
       year: 2004
       draw: Round Robin(9)
       score: BUR 9 - MID 1
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:

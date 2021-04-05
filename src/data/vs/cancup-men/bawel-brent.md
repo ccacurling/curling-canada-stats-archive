@@ -338,7 +338,7 @@ vs:
       year: 2010
       draw: Round Robin(9)
       score: BB 2 - KM 8
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:

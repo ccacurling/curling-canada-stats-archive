@@ -1270,7 +1270,7 @@ vs:
       year: 2008
       draw: Round Robin(1)
       score: STOU 6 - MCEW 4
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:

@@ -2,7 +2,7 @@
 title: John Bubbs Head-to-head
 name: Bubbs, John
 vs:
- - name: Bucyk, James
+ - name: Buyck, James
    totals:
     - event: Brier
       player1:

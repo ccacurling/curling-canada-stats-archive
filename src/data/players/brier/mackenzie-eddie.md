@@ -154,7 +154,7 @@ vs:
  - Dobson, Brian
  - Doyon, Ghislain
  - Dumontelle, Matt
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Eckstrand, Dustin
  - Epping, John
  - Errington, Derek
@@ -176,7 +176,7 @@ vs:
  - Grant, Scott
  - Grattan, James
  - Gretzinger, Bert
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harcourt, Doug
  - Harcourt, Greg
@@ -225,7 +225,7 @@ vs:
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -266,11 +266,10 @@ vs:
  - Smith, Dave
  - Smith, Garth
  - Smith, Greg
- - Smith, Kent
  - St.Louis, Brady
  - St.Louis, David
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Symonds, Andrew
  - Taylor, Andrew

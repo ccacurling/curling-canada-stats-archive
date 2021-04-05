@@ -2,7 +2,7 @@
 title: Jeff Stoughton Head-to-head
 name: Stoughton, Jeff
 vs:
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

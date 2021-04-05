@@ -1,6 +1,6 @@
 ---
-title: Robert McKinnon Head-to-head
-name: McKinnon, Robert
+title: Robert Mckinnon Head-to-head
+name: Mckinnon, Robert
 vs:
  - name: Middaugh, Wayne
    totals:

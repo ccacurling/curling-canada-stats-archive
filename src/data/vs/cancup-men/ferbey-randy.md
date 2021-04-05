@@ -1906,7 +1906,7 @@ vs:
       year: 2010
       draw: Round Robin(8)
       score: MM 8 - RFE 3
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:

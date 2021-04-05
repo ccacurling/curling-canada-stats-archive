@@ -48,7 +48,7 @@ vs:
  - Laing, Brent
  - Martin, Kevin
  - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Middaugh, Wayne
  - Morris, John
  - Neufeld, B.J.

@@ -132,7 +132,7 @@ vs:
  - Daneault, Richard
  - Deis, Ryan
  - Desjardins, Robert
- - Doherty, Robert
+ - Doherty, Robbie
  - Dutiaume, Randy
  - Eldridge, Zach
  - Fitzner-LeBlanc, Ian
@@ -147,7 +147,7 @@ vs:
  - Gionest, Francois
  - Gould, Steve
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -190,7 +190,7 @@ vs:
  - McDermaid, Donald
  - McEwen, Mike
  - McKee, Darrell
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne

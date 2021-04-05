@@ -171,7 +171,7 @@ vs:
  - Gionest, Francois
  - Gould, Steve
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Hamilton, Andrew
  - Harnden, E.J.
@@ -197,14 +197,13 @@ vs:
  - March, Tim
  - Martin, Kevin
  - Mathers, David
- - Mead, Jonathan
+ - Mead, Jon
  - Middaugh, Wayne
  - Morris, John
  - Moskowy, Braeden
  - Muyres, Dallan
  - Muyres, Kirk
  - Nedohin, David
- - Neufeld, B.J.
  - Nichols, Mark
  - Park, Kevin
  - Pfeifer, Scott

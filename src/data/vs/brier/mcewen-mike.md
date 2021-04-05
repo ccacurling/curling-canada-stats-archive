@@ -2,7 +2,7 @@
 title: Mike McEwen Head-to-head
 name: McEwen, Mike
 vs:
- - name: McKinnon, Robert
+ - name: Mckinnon, Robert
    totals:
     - event: Brier
       player1:
@@ -30,7 +30,7 @@ vs:
       year: 2021
       draw: Round Robin(18)
       score: YT 2 - WC 14
- - name: McLeod, Shadrach
+ - name: Mcleod, Shadrach
    totals:
     - event: Brier
       player1:
@@ -66,7 +66,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 96
+        percent: 89
         wins: 0
         losses: 1
    games:
@@ -78,8 +78,8 @@ vs:
         loss: 0
       player2:
         team: 'SK'
-        position: Third
-        percent: 96
+        position: Second
+        percent: 89
         win: 0
         loss: 1
       event: Brier
@@ -1550,7 +1550,7 @@ vs:
       year: 2018
       draw: Round Robin(12)
       score: NL 2 - WC 6
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

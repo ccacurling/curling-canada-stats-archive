@@ -327,7 +327,7 @@ vs:
  - Lappalainen, Art
  - LeClair, Bob
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - Loeffler, Ken
  - Loevenmark, Phil
  - Lohnes, Bruce
@@ -348,7 +348,7 @@ vs:
  - McGowan, Nolin
  - McHargue, Ken
  - McPhee, Barry
- - Mead, Jonathan
+ - Mead, Jon
  - Meakin, Rob
  - Mellof, Dave
  - Middaugh, Wayne
@@ -370,7 +370,7 @@ vs:
  - Odishaw, Grant
  - Oke, Gary
  - O'Leary, Alan
- - Ormbsy, Dan
+ - Ormsby, Dan
  - Packet, Jim
  - Pahl, James
  - Park, Kevin
@@ -415,7 +415,7 @@ vs:
  - Stoughton, Jeff
  - Stuart, Darol
  - Suchy, Chris
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Tallon, Wayne
  - Tervo, Randy

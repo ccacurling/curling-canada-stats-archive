@@ -81,7 +81,7 @@ vs:
  - Forsyth, Sandy
  - Gallant, Peter
  - Grundy, John
- - Gubbles, Will
+ - Gubbels, Will
  - Haines, Chuck
  - Henderson, Jeffrey
  - Henderson, Scott
@@ -97,7 +97,7 @@ vs:
  - Lang, Rick
  - Lappalainen, Art
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - MacDonald, Peter
  - MacDonald, Rod
  - MacInnes, David

@@ -142,7 +142,7 @@ vs:
       year: 1995
       draw: Round Robin(17)
       score: MB 8 - NO 2
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

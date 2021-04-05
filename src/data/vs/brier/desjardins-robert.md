@@ -330,7 +330,7 @@ vs:
       year: 2011
       draw: Round Robin(7)
       score: QC 5 - NB 7
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:
@@ -1254,7 +1254,7 @@ vs:
       year: 2012
       draw: Round Robin(13)
       score: QC 7 - NS 6
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -1850,7 +1850,7 @@ vs:
       year: 2011
       draw: Round Robin(16)
       score: MB 8 - QC 4
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

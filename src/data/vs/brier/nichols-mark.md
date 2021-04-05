@@ -486,7 +486,7 @@ vs:
       year: 2019
       draw: Round Robin(4)
       score: CA 7 - NT 5
- - name: Peachy, Jay
+ - name: Peachey, Jay
    totals:
     - event: Brier
       player1:
@@ -1806,7 +1806,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 81
+        percent: 78
         wins: 0
         losses: 1
    games:
@@ -1818,8 +1818,8 @@ vs:
         loss: 0
       player2:
         team: 'MB'
-        position: Third
-        percent: 81
+        position: Second
+        percent: 78
         win: 0
         loss: 1
       event: Brier
@@ -2478,13 +2478,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 87
-        wins: 2
+        percent: 71
+        wins: 1
         losses: 0
       player2:
-        percent: 83
+        percent: 86
         wins: 0
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'NL'
@@ -2502,22 +2502,6 @@ vs:
       year: 2010
       draw: Round Robin(6)
       score: NS 3 - NL 10
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent: 100
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Lead
-        percent: 80
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2013
-      draw: Round Robin(3)
-      score: NS 4 - MB 9
  - name: Smith, Tyler
    totals:
     - event: Brier
@@ -2574,7 +2558,7 @@ vs:
       year: 2020
       draw: Round Robin(9)
       score: NL 7 - NU 2
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -2894,7 +2878,7 @@ vs:
       year: 2011
       draw: Page 1-2(18)
       score: NL 6 - MB 7
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

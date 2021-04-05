@@ -103,7 +103,7 @@ vs:
  - LeClair, Bob
  - LeCocq, Marc
  - LeCocq, Vance
- - Lemery, Dan
+ - Lemery, Daniel
  - Lohnes, Bruce
  - MacFadyen, Bill
  - MacFadyen, Ted

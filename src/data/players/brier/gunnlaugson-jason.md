@@ -65,7 +65,7 @@ vs:
  - Cotter, Jim
  - Crowell, Phil
  - Currie, Morgan
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
  - Flemming, Paul
@@ -94,7 +94,7 @@ vs:
  - Mathers, David
  - McCann, Andy
  - McEwen, Mike
- - McKinnon, Robert
+ - Mckinnon, Robert
  - NcNeil-Lamswood, Ryan
  - Middaugh, Wayne
  - Mikkelsen, Dustin

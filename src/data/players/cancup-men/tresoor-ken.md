@@ -51,7 +51,7 @@ vs:
  - Koe, Kevin
  - Lohnes, Bruce
  - Martin, Kevin
- - Mead, Jonathan
+ - Mead, Jon
  - Moffatt, Paul
  - Morris, John
  - Paul, Matt

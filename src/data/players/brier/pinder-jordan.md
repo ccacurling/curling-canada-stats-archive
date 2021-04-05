@@ -120,7 +120,7 @@ vs:
  - Gallant, Brett
  - Gaudet, Mike
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -154,9 +154,9 @@ vs:
  - McCarville, Mike
  - McDonald, Scott
  - McEwen, Mike
- - McLeod, Shadrach
+ - Mcleod, Shadrach
  - Meachem, Shaun Myles
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne

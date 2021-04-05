@@ -155,7 +155,7 @@ vs:
  - Desrosiers, John
  - Dillon, Mike
  - Dion, William
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Errington, Derek
  - Fitzner-LeBlanc, Ian
@@ -217,7 +217,7 @@ vs:
  - Martin, Kevin
  - Maskiewich, Ken
  - McKee, Darrell
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -256,7 +256,7 @@ vs:
  - Slauenwhite, David
  - Smith, Garth
  - Smith, Kent
- - Solberg, Jonathon
+ - Solberg, Jon
  - St.Louis, David
  - Stoughton, Jeff
  - Sylvain, Eric

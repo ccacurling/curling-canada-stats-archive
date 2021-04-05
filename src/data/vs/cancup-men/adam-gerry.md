@@ -402,7 +402,7 @@ vs:
       year: 2008
       draw: Playoff(11)
       score: SIMM 8 - MCEW 6
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:

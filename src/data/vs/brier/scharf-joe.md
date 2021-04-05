@@ -2,7 +2,7 @@
 title: Joe Scharf Head-to-head
 name: Scharf, Joe
 vs:
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

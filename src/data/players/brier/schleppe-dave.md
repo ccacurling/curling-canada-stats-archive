@@ -63,7 +63,7 @@ vs:
  - Bourque, Don
  - Buchan, Chris
  - Butler, Mark
- - Campbell, Bill Jr
+ - Campbell, Bill Jr.
  - Campbell, Robert
  - Carey, Dan
  - Carstairs, Kent
@@ -97,7 +97,7 @@ vs:
  - Kofoed, Lonnie
  - Lacey, Jeff
  - LaRocque, Guy
- - Lemery, Dan
+ - Lemery, Daniel
  - Loeffler, Ken
  - Lukowich, Ed
  - MacDonald, Doug
@@ -127,7 +127,7 @@ vs:
  - Schoenne, Klaus
  - Somers, Grant
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sweete, Don
  - Syme, Brent
  - Thomas, Jeff

@@ -282,7 +282,7 @@ vs:
       year: 2012
       draw: Round Robin(2)
       score: GUS 2 - MCE 8
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:

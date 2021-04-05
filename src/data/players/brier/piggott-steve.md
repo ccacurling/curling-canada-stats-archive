@@ -92,7 +92,7 @@ vs:
  - Lappalainen, Art
  - LeCocq, Marc
  - Lemay, Jean-Yves
- - Lemery, Dan
+ - Lemery, Daniel
  - Lewis, Wayne
  - Loevenmark, Phil
  - Lowe, Wayne
@@ -125,7 +125,7 @@ vs:
  - Salina, Charlie
  - Schiewe, Calvin
  - Smith, Dave
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Tetley, Ross
  - Thomas, Rob
  - Trickett, Eugene

@@ -438,7 +438,7 @@ vs:
       year: 2020
       draw: Round Robin(8)
       score: ON 4 - NB 7
- - name: Doherty, Robert
+ - name: Doherty, Robbie
    totals:
     - event: Brier
       player1:
@@ -466,7 +466,7 @@ vs:
       year: 2015
       draw: Round Robin(2)
       score: PE 7 - ON 8
- - name: Dunstone, Matthew
+ - name: Dunstone, Matt
    totals:
     - event: Brier
       player1:
@@ -922,7 +922,7 @@ vs:
       year: 2020
       draw: Round Robin(8)
       score: ON 4 - NB 7
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:
@@ -2502,7 +2502,7 @@ vs:
       year: 2020
       draw: Tie-Breaker(19)
       score: ON 7 - WC 6
- - name: McLeod, Shadrach
+ - name: Mcleod, Shadrach
    totals:
     - event: Brier
       player1:

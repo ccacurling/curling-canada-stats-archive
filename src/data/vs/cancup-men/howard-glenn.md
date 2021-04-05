@@ -1218,7 +1218,7 @@ vs:
       year: 2014
       draw: Semi-Final(10)
       score: HOW 4 - MCE 5
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:
@@ -1568,10 +1568,10 @@ vs:
       player1:
         percent: 86
         wins: 5
-        losses: 1
+        losses: 2
       player2:
-        percent: 78
-        wins: 1
+        percent: 81
+        wins: 2
         losses: 5
    games:
     - player1:
@@ -1641,19 +1641,35 @@ vs:
     - player1:
         team: 'HOW'
         position: Fourth
-        percent: 88
+        percent: 82
         win: 1
         loss: 0
       player2:
-        team: 'GUS'
+        team: 'MCE'
         position: Third
-        percent: 78
+        percent: 81
         win: 0
         loss: 1
       event: Canada Cup (Men)
       year: 2014
-      draw: Round Robin(3)
-      score: GUS 4 - HOW 10
+      draw: Round Robin(5)
+      score: MCE 3 - HOW 4
+    - player1:
+        team: 'HOW'
+        position: Fourth
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCE'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      event: Canada Cup (Men)
+      year: 2014
+      draw: Semi-Final(10)
+      score: HOW 4 - MCE 5
     - player1:
         team: 'Howa'
         position: Fourth

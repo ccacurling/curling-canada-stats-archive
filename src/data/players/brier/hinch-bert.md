@@ -77,7 +77,7 @@ vs:
  - Goulden, Lowell
  - Grant, Scott
  - Grattan, James
- - Gubbles, Will
+ - Gubbels, Will
  - Harrison, Neil
  - Henderson, Jeffrey
  - Henderson, Lorne
@@ -91,7 +91,7 @@ vs:
  - Kofoed, Lonnie
  - Lacey, Jeff
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - Loeffler, Ken
  - MacDonald, Peter
  - MacDonald, Rod
@@ -125,7 +125,7 @@ vs:
  - Somers, Grant
  - Stoughton, Jeff
  - Stuart, Darol
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Thomas, Jeff
  - Tresoor, Ken
  - Van Den Berghe, Garry

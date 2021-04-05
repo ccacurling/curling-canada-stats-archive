@@ -100,7 +100,7 @@ vs:
  - Korab, Jamie
  - Loevenmark, Phil
  - Martin, Kevin
- - Mead, Jonathan
+ - Mead, Jon
  - Miller, Ryan
  - Morris, John
  - Nedohin, David

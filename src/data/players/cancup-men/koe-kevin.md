@@ -334,7 +334,7 @@ vs:
  - Despins, Glen
  - Despins, Wayne
  - Dickson, Rob
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Elmaleh, Maxime
  - Epping, John
  - Fenton, Keith
@@ -350,7 +350,7 @@ vs:
  - Gionest, Francois
  - Gould, Steve
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -389,7 +389,7 @@ vs:
  - Mathers, David
  - McCarrel, Graeme
  - McEwen, Mike
- - Mead, Jonathan
+ - Mead, Jon
  - Melnyk, Brendan
  - Menard, Jean-Michel
  - Middaugh, Wayne

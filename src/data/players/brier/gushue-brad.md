@@ -360,7 +360,6 @@ vs:
  - Breckon, Graham
  - Bryant, Doug
  - Bubbs, John
- - Bucyk, James
  - Burgess, Craig
  - Burnett, Steve
  - Burtnyk, Kerry
@@ -400,8 +399,8 @@ vs:
  - Dillon, Mike
  - Dobson, Mark
  - Dobson, Paul
- - Doherty, Robert
- - Dunstone, Matthew
+ - Doherty, Robbie
+ - Dunstone, Matt
  - Dutiaume, Randy
  - Eckstrand, Dustin
  - Eldridge, Zach
@@ -446,7 +445,7 @@ vs:
  - Gould, Steve
  - Granchelli, Kris
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Haichert, Chris
  - Harcourt, Doug
@@ -551,7 +550,7 @@ vs:
  - McEwen, Mike
  - McKee, Darrell
  - Meachem, Shaun Myles
- - Mead, Jonathan
+ - Mead, Jon
  - Melnichuk, Greg
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -590,7 +589,7 @@ vs:
  - Palmer, Curt
  - Park, Kevin
  - Parsons, Cole
- - Peachy, Jay
+ - Peachey, Jay
  - Pfeifer, Scott
  - Pielak, Rod
  - Pierce, Brent
@@ -633,7 +632,7 @@ vs:
  - Smith, Kent
  - Smith, Tyler
  - Smitheram, Christian
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Spencer, Adam
  - Spicer, Grant
@@ -641,7 +640,7 @@ vs:
  - Steele, Colten
  - Steski, John
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Evan
  - Sumner, Kevin
  - Sylvain, Eric

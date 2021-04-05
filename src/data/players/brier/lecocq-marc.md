@@ -176,11 +176,11 @@ vs:
  - Bryant, Doug
  - Bubbs, John
  - Buck, Wyatt
- - Bucyk, James
  - Burgess, Craig
  - Burnett, Steve
  - Butler, Marc
  - Butler, Mark
+ - Buyck, James
  - Campbell, Robert
  - Carey, Dan
  - Carmody, Anson
@@ -205,7 +205,7 @@ vs:
  - Despins, Glen
  - Dieno, Clint
  - Dillon, Mike
- - Doherty, Robert
+ - Doherty, Robbie
  - Dowden, Craig
  - Eberts, Tony
  - Elias, Dave
@@ -234,9 +234,9 @@ vs:
  - Gorveatt, Philip
  - Gould, Steve
  - Gretzinger, Bert
- - Griffith, Ty
+ - Griffith, Tyrel
  - Grundy, John
- - Gubbles, Will
+ - Gubbels, Will
  - Gushue, Brad
  - Harcourt, Doug
  - Harcourt, Greg
@@ -291,7 +291,7 @@ vs:
  - LeClair, Bob
  - Ledgerwood, Sean
  - Leech, Ron
- - Lemery, Dan
+ - Lemery, Daniel
  - Likely, John
  - Lindsay, Tim
  - Loevenmark, Phil
@@ -309,7 +309,7 @@ vs:
  - McCusker, Brian
  - McDonald, Scott
  - McEwen, Mike
- - McLeod, Shadrach
+ - Mcleod, Shadrach
  - McPhee, Barry
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
@@ -342,7 +342,7 @@ vs:
  - O'Rourke, Mark
  - Palmer, Curt
  - Parsons, Cole
- - Peachy, Jay
+ - Peachey, Jay
  - Peters, Vic
  - Pfeifer, Scott
  - Phillips, Tim
@@ -376,7 +376,7 @@ vs:
  - Slauenwhite, David
  - Smith, Jeff
  - Smyth, Larry
- - Solberg, Jonathon
+ - Solberg, Jon
  - Somers, Grant
  - Spencer, Adam
  - Spicer, Grant

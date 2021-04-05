@@ -64,7 +64,7 @@ vs:
  - MacDonald, Rod
  - MacInnes, David
  - Martin, Kevin
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Peddigrew, Ken
  - Roberge, Francois

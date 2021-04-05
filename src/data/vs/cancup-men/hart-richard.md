@@ -658,12 +658,12 @@ vs:
    totals:
     - event: Canada Cup (Men)
       player1:
-        percent: 82
+        percent: 81
         wins: 2
-        losses: 0
+        losses: 1
       player2:
-        percent: 79
-        wins: 0
+        percent: 84
+        wins: 1
         losses: 2
    games:
     - player1:
@@ -685,19 +685,35 @@ vs:
     - player1:
         team: 'HOW'
         position: Third
-        percent: 82
+        percent: 78
         win: 1
         loss: 0
       player2:
-        team: 'GUS'
+        team: 'MCE'
         position: Third
-        percent: 78
+        percent: 81
         win: 0
         loss: 1
       event: Canada Cup (Men)
       year: 2014
-      draw: Round Robin(3)
-      score: GUS 4 - HOW 10
+      draw: Round Robin(5)
+      score: MCE 3 - HOW 4
+    - player1:
+        team: 'HOW'
+        position: Third
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCE'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      event: Canada Cup (Men)
+      year: 2014
+      draw: Semi-Final(10)
+      score: HOW 4 - MCE 5
  - name: Neufeld, Denni
    totals:
     - event: Canada Cup (Men)

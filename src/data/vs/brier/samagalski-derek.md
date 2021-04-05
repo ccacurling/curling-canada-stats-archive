@@ -338,7 +338,7 @@ vs:
       year: 2019
       draw: Round Robin(7)
       score: YT 7 - MB 6
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

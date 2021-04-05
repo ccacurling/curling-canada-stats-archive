@@ -69,7 +69,7 @@ vs:
  - Stoughton, Jeff
  - Tetley, Ian
  - Tresoor, Ken
- - Vandenberghe, Garry
+ - Van Den Berghe, Garry
  - Walchuk, Don
  - Werenich, Ed
 ---

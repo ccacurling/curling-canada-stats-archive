@@ -822,7 +822,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 86
+        percent: 70
         wins: 0
         losses: 1
    games:
@@ -834,8 +834,8 @@ vs:
         loss: 0
       player2:
         team: 'MB'
-        position: Third
-        percent: 86
+        position: Second
+        percent: 70
         win: 0
         loss: 1
       event: Brier

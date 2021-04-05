@@ -1890,7 +1890,7 @@ vs:
       year: 1983
       draw: Round Robin(2)
       score: PE 6 - TR 7
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

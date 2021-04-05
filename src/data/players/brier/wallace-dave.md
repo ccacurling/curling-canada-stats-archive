@@ -96,7 +96,7 @@ vs:
  - Armour, Doug
  - Aucoin, Gabriel
  - Austman, Stan
- - Balderson, Dennis
+ - Balderston, Dennis
  - Belliveau, Dan
  - Birnie, Ross
  - Bowden, Clive
@@ -218,7 +218,7 @@ vs:
  - Spencer, Jim
  - Steventon, Lawren
  - Strain, Bill
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Charlie
  - Sullivan, Dave
  - Sullivan, Jim

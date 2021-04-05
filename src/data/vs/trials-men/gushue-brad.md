@@ -1350,7 +1350,7 @@ vs:
       year: 2017
       draw: Round Robin(4)
       score: Bott 5 - Gush 6
- - name: Vandenberghe, Garry
+ - name: Van Den Berghe, Garry
    totals:
     - event: Trials(Men)
       player1:

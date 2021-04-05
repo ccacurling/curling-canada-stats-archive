@@ -106,7 +106,6 @@ vs:
  - McClelland, John
  - Middaugh, Wayne
  - Molloy, Pat
- - Moss, Steve
  - Nedohin, David
  - Nicholls, Peter
  - Nichols, Mark
@@ -115,7 +114,7 @@ vs:
  - O'Driscoll, Frank
  - O'Leary, Alan
  - Patterson, Scott
- - Peachy, Jay
+ - Peachey, Jay
  - Petryk, Dan
  - Petryk, Steve
  - Pfeifer, Scott
@@ -130,7 +129,7 @@ vs:
  - Scales, Brent
  - Smith, Dave
  - Spicer, Grant
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sumner, Kevin
  - Thomas, Rob
  - Trevellyan, Todd

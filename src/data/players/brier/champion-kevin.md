@@ -158,7 +158,6 @@ vs:
  - Bitz, Scott
  - Bryant, Doug
  - Bubbs, John
- - Bucyk, James
  - Burgess, Craig
  - Burnett, Steve
  - Burtnyk, Kerry
@@ -261,7 +260,7 @@ vs:
  - Martin, Kevin
  - McCarrel, Graeme
  - McKee, Darrell
- - Mead, Jonathan
+ - Mead, Jon
  - Melnichuk, Greg
  - Menard, Jean-Michel
  - Middaugh, Wayne
@@ -269,6 +268,7 @@ vs:
  - Mittelstadt, Kelly
  - Morris, John
  - Moshenko, Darcy
+ - Moss, Steve
  - Nantes, Dave
  - Nedohin, David
  - Nelson, Randy
@@ -309,7 +309,7 @@ vs:
  - Slauenwhite, David
  - Smith, Garth
  - Smith, Kent
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
  - Steski, John
  - Stoughton, Jeff

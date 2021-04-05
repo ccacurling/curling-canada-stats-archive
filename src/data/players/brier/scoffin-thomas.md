@@ -64,7 +64,7 @@ vs:
  - Cotter, Jim
  - Crowell, Phil
  - Dobson, Paul
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
  - Flemming, Paul
@@ -86,7 +86,7 @@ vs:
  - Martin, Karrick
  - McCann, Andy
  - McEwen, Mike
- - McLeod, Shadrach
+ - Mcleod, Shadrach
  - Moskowy, Braeden
  - Moulding, Darren
  - Murphy, Jamie

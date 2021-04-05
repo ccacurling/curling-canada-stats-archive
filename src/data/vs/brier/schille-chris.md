@@ -290,34 +290,6 @@ vs:
       year: 2018
       draw: Round Robin(2)
       score: NT 9 - NL 7
- - name: Smith, Kent
-   totals:
-    - event: Brier
-      player1:
-        percent: 81
-        wins: 1
-        losses: 0
-      player2:
-        percent: 66
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Second
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Lead
-        percent: 66
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2013
-      draw: Round Robin(10)
-      score: SK 7 - NS 2
  - name: Spencer, Adam
    totals:
     - event: Brier

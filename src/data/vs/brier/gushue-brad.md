@@ -1462,12 +1462,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 40
+        percent: 63
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 77
-        wins: 1
+        percent: 81
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1486,6 +1486,22 @@ vs:
       year: 2003
       draw: Round Robin(15)
       score: NL 1 - BC 9
+    - player1:
+        team: 'NL'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2005
+      draw: Round Robin(10)
+      score: NL 6 - BC 7
  - name: Howard, Glenn
    totals:
     - event: Brier
@@ -3190,7 +3206,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 65
+        percent: 80
         wins: 0
         losses: 1
    games:
@@ -3202,8 +3218,8 @@ vs:
         loss: 0
       player2:
         team: 'MB'
-        position: Fourth
-        percent: 65
+        position: Lead
+        percent: 80
         win: 0
         loss: 1
       event: Brier
@@ -6162,7 +6178,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 90
+        percent: 92
         wins: 0
         losses: 1
    games:
@@ -6174,15 +6190,15 @@ vs:
         loss: 0
       player2:
         team: 'SK'
-        position: Third
-        percent: 90
+        position: Second
+        percent: 92
         win: 0
         loss: 1
       event: Brier
       year: 2017
       draw: Round Robin(7)
       score: SK 5 - NL 10
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -7130,30 +7146,30 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 85
+        percent: 84
         wins: 1
         losses: 0
       player2:
-        percent: 91
+        percent: 71
         wins: 0
         losses: 1
    games:
     - player1:
         team: 'NL'
         position: Fourth
-        percent: 85
+        percent: 84
         win: 1
         loss: 0
       player2:
-        team: 'SK'
+        team: 'TR'
         position: Fourth
-        percent: 91
+        percent: 71
         win: 0
         loss: 1
       event: Brier
-      year: 2004
-      draw: Round Robin(9)
-      score: NL 5 - SK 4
+      year: 2005
+      draw: Round Robin(6)
+      score: NL 9 - TR 6
  - name: Moulding, Darren
    totals:
     - event: Brier
@@ -8714,7 +8730,7 @@ vs:
       year: 2019
       draw: Round Robin(4)
       score: CA 7 - NT 5
- - name: Peachy, Jay
+ - name: Peachey, Jay
    totals:
     - event: Brier
       player1:
@@ -10130,7 +10146,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 81
+        percent: 78
         wins: 0
         losses: 1
    games:
@@ -10142,8 +10158,8 @@ vs:
         loss: 0
       player2:
         team: 'MB'
-        position: Third
-        percent: 81
+        position: Second
+        percent: 78
         win: 0
         loss: 1
       event: Brier
@@ -10862,13 +10878,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 90
-        wins: 2
+        percent: 91
+        wins: 1
         losses: 0
       player2:
-        percent: 88
+        percent: 86
         wins: 0
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'NL'
@@ -10886,22 +10902,6 @@ vs:
       year: 2010
       draw: Round Robin(6)
       score: NS 3 - NL 10
-    - player1:
-        team: 'NL'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Lead
-        percent: 89
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2013
-      draw: Round Robin(1)
-      score: NS 2 - NL 10
  - name: Smith, Tyler
    totals:
     - event: Brier
@@ -10958,7 +10958,7 @@ vs:
       year: 2020
       draw: Round Robin(9)
       score: NL 7 - NU 2
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -11310,7 +11310,7 @@ vs:
       year: 2014
       draw: Round Robin(2)
       score: NL 5 - MB 6
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

@@ -90,7 +90,7 @@ vs:
       year: 2018
       draw: Round Robin(3)
       score: Carr 5 - Bott 9
- - name: Dunstone, Matthew
+ - name: Dunstone, Matt
    totals:
     - event: Canada Cup (Men)
       player1:

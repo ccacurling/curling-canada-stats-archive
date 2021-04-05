@@ -199,7 +199,7 @@ vs:
  - Graber, Dennis
  - Granchelli, Kris
  - Grattan, James
- - Gubbles, Will
+ - Gubbels, Will
  - Gushue, Brad
  - Haichert, Chris
  - Harnden, Al
@@ -241,7 +241,7 @@ vs:
  - LeCocq, Marc
  - LeDrew, Ryan
  - Lemay, Philippe
- - Lemery, Dan
+ - Lemery, Daniel
  - Lohnes, Bruce
  - MacDonald, Blake
  - MacDonald, Peter
@@ -303,9 +303,9 @@ vs:
  - Smith, Donnie
  - Smith, Kent
  - Smyth, Larry
- - Solberg, Jonathon
+ - Solberg, Jon
  - Somers, Grant
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Tallon, Wayne
  - Thiessen, Nolan

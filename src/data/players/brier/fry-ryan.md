@@ -288,8 +288,8 @@ vs:
  - Dillon, Mike
  - Dion, William
  - Dobson, Paul
- - Doherty, Robert
- - Dunstone, Matthew
+ - Doherty, Robbie
+ - Dunstone, Matt
  - Eckstrand, Dustin
  - Eldridge, Zach
  - Epping, John
@@ -319,7 +319,7 @@ vs:
  - Gould, Steve
  - Granchelli, Kris
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, Al
@@ -395,9 +395,9 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
- - McLeod, Shadrach
+ - Mcleod, Shadrach
  - Meachem, Shaun Myles
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Merklinger, Bill
@@ -458,12 +458,12 @@ vs:
  - Smith, Greg
  - Smith, Kent
  - Smith, Tyler
- - Solberg, Jonathon
+ - Solberg, Jon
  - Spencer, Adam
  - St.Louis, Brady
  - St.Louis, David
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Symonds, Andrew
  - Thiessen, Brad

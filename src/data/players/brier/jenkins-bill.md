@@ -114,7 +114,7 @@ vs:
  - Nedohin, David
  - Odian, Scott
  - Odishaw, Grant
- - Ormbsy, Dan
+ - Ormsby, Dan
  - O'Rourke, Mark
  - Pahl, James
  - Park, Kevin
@@ -131,7 +131,7 @@ vs:
  - Scoffin, Wade
  - Skillen, Aaron
  - Smith, Jeff
- - Solberg, Jonathon
+ - Solberg, Jon
  - Stuart, Darol
  - Suchy, Chris
  - Sylvain, Eric

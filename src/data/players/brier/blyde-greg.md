@@ -41,7 +41,7 @@ vs:
  - Chown, Jeff
  - Crete, Martin
  - Crowell, Phil
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Flemming, Paul
  - Fournier, Mike

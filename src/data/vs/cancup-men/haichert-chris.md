@@ -142,7 +142,7 @@ vs:
       year: 2004
       draw: Round Robin(9)
       score: COR 7 - SIM 8
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:

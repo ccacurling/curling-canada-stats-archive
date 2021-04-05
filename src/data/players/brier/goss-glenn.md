@@ -101,7 +101,7 @@ vs:
  - Alexander, Trevor
  - Armstrong, Doug
  - Armstrong, Jim
- - Balderson, Dennis
+ - Balderston, Dennis
  - Bartlett, Don
  - Biron, Louis
  - Bradley, Mike
@@ -159,7 +159,7 @@ vs:
  - Lacey, Jeff
  - Lafleur, Andre
  - LeCocq, Vance
- - Lemery, Dan
+ - Lemery, Daniel
  - Lepine, Craig
  - Loevenmark, Phil
  - Lohnes, Bruce
@@ -177,7 +177,7 @@ vs:
  - McEachran, Glen
  - McKee, Darrell
  - McMechan, Kelly
- - Mead, Jonathan
+ - Mead, Jon
  - Mellof, Dave
  - Middaugh, Wayne
  - Moffatt, Rich
@@ -211,7 +211,7 @@ vs:
  - Sharp, Warren
  - Shymko, Gerald
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Tallon, Wayne
  - Tetley, Ian

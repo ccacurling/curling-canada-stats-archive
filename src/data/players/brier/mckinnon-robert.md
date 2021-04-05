@@ -1,7 +1,7 @@
 ---
-title: Robert McKinnon
-name: Robert McKinnon
-name-sort: McKinnon, Robert
+title: Robert Mckinnon
+name: Robert Mckinnon
+name-sort: Mckinnon, Robert
 totals:
  - event: Brier
    games: 8
@@ -52,6 +52,7 @@ vs:
  - Howard, Glenn
  - Howard, Scott
  - Jacobs, Brad
+ - Keefe, Kevin
  - Kennedy, Marc
  - Laycock, Steve
  - March, Tim

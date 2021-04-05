@@ -86,11 +86,11 @@ vs:
  - Harcourt, Greg
  - Hebert, Ben
  - Hemmings, Guy
+ - Horning, Deane
  - Iskiw, Blayne
  - Jakubo, Mike
  - Joanisse, Dean
  - Kalthoff, Kevin
- - Keefe, Kevin
  - Kilgallen, Shane
  - Lacey, Jeff
  - MacDonald, Peter
@@ -118,9 +118,9 @@ vs:
  - Scharf, Joe
  - Sharp, Jeff
  - Simmons, Pat
- - Solberg, Jonathon
+ - Solberg, Jon
  - Sosiak, Jim
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sullivan, Jim
  - Sylvain, Eric
  - Tervo, Randy

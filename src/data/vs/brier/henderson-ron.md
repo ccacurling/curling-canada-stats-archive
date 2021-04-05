@@ -254,7 +254,7 @@ vs:
       year: 2000
       draw: Round Robin(17)
       score: NO 5 - SK 7
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:

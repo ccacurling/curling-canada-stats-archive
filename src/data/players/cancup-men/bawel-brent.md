@@ -48,7 +48,7 @@ vs:
  - Lyburn, Allan
  - MacDonald, Blake
  - Martin, Kevin
- - Mead, Jonathan
+ - Mead, Jon
  - Middaugh, Wayne
  - Morris, John
  - Rycroft, Carter

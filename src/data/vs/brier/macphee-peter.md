@@ -1330,7 +1330,7 @@ vs:
       year: 1985
       draw: Round Robin(5)
       score: NS 6 - TR 9
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

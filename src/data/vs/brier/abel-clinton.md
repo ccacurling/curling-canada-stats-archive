@@ -534,7 +534,7 @@ vs:
       year: 1994
       draw: Round Robin(15)
       score: NB 9 - TR 6
- - name: Doherty, Robert
+ - name: Doherty, Robbie
    totals:
     - event: Brier
       player1:
@@ -2274,7 +2274,7 @@ vs:
       year: 1994
       draw: Round Robin(7)
       score: NS 7 - TR 4
- - name: Ormbsy, Dan
+ - name: Ormsby, Dan
    totals:
     - event: Brier
       player1:
@@ -2894,7 +2894,7 @@ vs:
       year: 1994
       draw: Round Robin(1)
       score: MB 7 - TR 3
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

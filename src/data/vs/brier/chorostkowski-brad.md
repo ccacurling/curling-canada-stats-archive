@@ -750,7 +750,7 @@ vs:
       year: 2007
       draw: Round Robin(1)
       score: NB 3 - TR 6
- - name: Doherty, Robert
+ - name: Doherty, Robbie
    totals:
     - event: Brier
       player1:
@@ -2374,7 +2374,7 @@ vs:
       year: 2014
       draw: Round Robin(13)
       score: TR 3 - NB 8
- - name: Griffith, Ty
+ - name: Griffith, Tyrel
    totals:
     - event: Brier
       player1:
@@ -6774,7 +6774,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 94
+        percent: 97
         wins: 1
         losses: 0
    games:
@@ -6786,15 +6786,15 @@ vs:
         loss: 1
       player2:
         team: 'SK'
-        position: Third
-        percent: 94
+        position: Second
+        percent: 97
         win: 1
         loss: 0
       event: Brier
       year: 2017
       draw: Round Robin(4)
       score: NT 3 - SK 8
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -10322,13 +10322,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 82
-        wins: 2
+        percent: 80
+        wins: 1
         losses: 0
       player2:
-        percent: 83
+        percent: 78
         wins: 0
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'TR'
@@ -10346,22 +10346,6 @@ vs:
       year: 2010
       draw: Round Robin(11)
       score: NS 2 - TR 7
-    - player1:
-        team: 'TR'
-        position: Second
-        percent: 85
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Lead
-        percent: 88
-        win: 0
-        loss: 1
-      event: Brier
-      year: 2013
-      draw: Round Robin(7)
-      score: TR 9 - NS 6
  - name: Spencer, Adam
    totals:
     - event: Brier
@@ -10542,7 +10526,7 @@ vs:
       year: 2014
       draw: Round Robin(4)
       score: TR 6 - MB 7
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

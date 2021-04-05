@@ -77,7 +77,7 @@ vs:
  - Hardy, Gord
  - Harris, Mike
  - Harris, Rob
- - Hollowaychuk, Dan
+ - Holowaychuk, Dan
  - Howard, Russ
  - Hunt, Bruce
  - Korab, Jamie
@@ -90,12 +90,11 @@ vs:
  - Loevenmark, Phil
  - Lohnes, Bruce
  - Molloy, Pat
- - Moss, Steve
  - Nedohin, David
  - Nichols, Mark
  - Odishaw, Grant
  - O'Rourke, Mark
- - Peachy, Jay
+ - Peachey, Jay
  - Pfeifer, Scott
  - Recksiedler, Kevin
  - Rocque, Marcel

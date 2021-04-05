@@ -75,7 +75,7 @@ vs:
  - Crete, Martin
  - Crowell, Phil
  - Dion, William
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Flemming, Paul
  - Fournier, Mike

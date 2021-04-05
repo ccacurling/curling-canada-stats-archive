@@ -214,7 +214,7 @@ vs:
       year: 1999
       draw: Round Robin(6)
       score: NB 8 - NO 2
- - name: Peachy, Jay
+ - name: Peachey, Jay
    totals:
     - event: Brier
       player1:
@@ -1294,7 +1294,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 73
+        percent: 78
         wins: 0
         losses: 1
    games:
@@ -1306,8 +1306,8 @@ vs:
         loss: 0
       player2:
         team: 'MB'
-        position: Third
-        percent: 73
+        position: Second
+        percent: 78
         win: 0
         loss: 1
       event: Brier
@@ -1666,7 +1666,7 @@ vs:
       year: 1996
       draw: Round Robin(11)
       score: NB 6 - ON 5
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

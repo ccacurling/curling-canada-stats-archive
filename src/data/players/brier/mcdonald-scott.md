@@ -65,13 +65,13 @@ vs:
  - Colter, Travis
  - Cotter, Jim
  - Crete, Martin
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
  - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -96,7 +96,7 @@ vs:
  - McDonah, Alex
  - McDonah, Evan
  - McEwen, Mike
- - McLeod, Shadrach
+ - Mcleod, Shadrach
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren

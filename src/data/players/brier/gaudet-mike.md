@@ -135,7 +135,7 @@ vs:
  - Grant, Scott
  - Grattan, James
  - Gretzinger, Bert
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harcourt, Doug
  - Harcourt, Greg
@@ -184,13 +184,12 @@ vs:
  - McCann, Andy
  - McClelland, John
  - McDermaid, Donald
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Philippe
  - Middaugh, Wayne
  - Mittelstadt, Kelly
  - Molloy, Pat
  - Morris, John
- - Moss, Steve
  - Munroe, Steven
  - Murphy, Jamie
  - Muyres, Dallan
@@ -204,7 +203,7 @@ vs:
  - O'Driscoll, Frank
  - O'Leary, Alan
  - Patterson, Scott
- - Peachy, Jay
+ - Peachey, Jay
  - Petryk, Dan
  - Petryk, Steve
  - Pfeifer, Scott
@@ -228,7 +227,7 @@ vs:
  - Smith, Dave
  - Spicer, Grant
  - Stoughton, Jeff
- - Sullivan, Charles Jr
+ - Sullivan, Charles Jr.
  - Sumner, Kevin
  - Symonds, Andrew
  - Thiessen, Nolan

@@ -170,7 +170,7 @@ vs:
       year: 1994
       draw: Round Robin(9)
       score: AB 6 - MB 7
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

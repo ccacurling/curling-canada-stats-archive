@@ -1530,7 +1530,7 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: WC 8 - NO 5
- - name: McKinnon, Robert
+ - name: Mckinnon, Robert
    totals:
     - event: Brier
       player1:
@@ -1566,7 +1566,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 95
+        percent: 99
         wins: 0
         losses: 1
    games:
@@ -1578,15 +1578,15 @@ vs:
         loss: 0
       player2:
         team: 'SK'
-        position: Third
-        percent: 95
+        position: Second
+        percent: 99
         win: 0
         loss: 1
       event: Brier
       year: 2017
       draw: Round Robin(12)
       score: CA 8 - SK 7
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -4394,7 +4394,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 93
+        percent: 88
         wins: 0
         losses: 1
    games:
@@ -4406,8 +4406,8 @@ vs:
         loss: 0
       player2:
         team: 'NS'
-        position: Lead
-        percent: 93
+        position: Second
+        percent: 88
         win: 0
         loss: 1
       event: Brier
@@ -4442,7 +4442,7 @@ vs:
       year: 2020
       draw: Round Robin(13)
       score: NO 10 - NU 3
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:
@@ -4606,7 +4606,7 @@ vs:
       year: 2013
       draw: Round Robin(2)
       score: AB 4 - MB 5
- - name: Sullivan, Charles Jr
+ - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
       player1:

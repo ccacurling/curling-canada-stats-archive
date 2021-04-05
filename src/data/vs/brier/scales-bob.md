@@ -6,7 +6,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 86
+        percent: 70
         wins: 0
         losses: 1
       player2:
@@ -16,8 +16,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Third
-        percent: 86
+        position: Second
+        percent: 70
         win: 0
         loss: 1
       player2:
@@ -34,7 +34,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 79
+        percent: 83
         wins: 1
         losses: 0
       player2:
@@ -44,8 +44,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Third
-        percent: 79
+        position: Second
+        percent: 83
         win: 1
         loss: 0
       player2:
@@ -62,7 +62,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 81
+        percent: 78
         wins: 0
         losses: 1
       player2:
@@ -72,8 +72,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Third
-        percent: 81
+        position: Second
+        percent: 78
         win: 0
         loss: 1
       player2:
@@ -90,7 +90,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 91
+        percent: 89
         wins: 0
         losses: 1
       player2:
@@ -100,8 +100,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Third
-        percent: 91
+        position: Second
+        percent: 89
         win: 0
         loss: 1
       player2:
@@ -118,7 +118,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 83
+        percent: 84
         wins: 0
         losses: 1
       player2:
@@ -128,8 +128,8 @@ vs:
    games:
     - player1:
         team: 'MB'
-        position: Third
-        percent: 83
+        position: Second
+        percent: 84
         win: 0
         loss: 1
       player2:

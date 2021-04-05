@@ -142,7 +142,7 @@ vs:
  - MacLean, Stuart
  - Martin, Kevin
  - McAulay, Greg
- - Mead, Jonathan
+ - Mead, Jon
  - Miki, Bryan
  - Milward, Ross
  - Molloy, Pat
@@ -153,7 +153,7 @@ vs:
  - Orme, Tyler
  - O'Rourke, Mark
  - Park, Kevin
- - Peachy, Jay
+ - Peachey, Jay
  - Perron, Rick
  - Pfeifer, Scott
  - Phillips, Tim
@@ -176,7 +176,7 @@ vs:
  - Scales, Brian
  - Shypitka, Tom
  - Smith, Kent
- - Solberg, Jonathon
+ - Solberg, Jon
  - Spicer, Grant
  - Stoughton, Jeff
  - Sullivan, Evan

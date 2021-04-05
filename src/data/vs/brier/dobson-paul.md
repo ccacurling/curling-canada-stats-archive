@@ -2,7 +2,7 @@
 title: Paul Dobson Head-to-head
 name: Dobson, Paul
 vs:
- - name: Dunstone, Matthew
+ - name: Dunstone, Matt
    totals:
     - event: Brier
       player1:
@@ -686,30 +686,30 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 66
-        wins: 0
-        losses: 1
-      player2:
-        percent: 86
+        percent: 76
         wins: 1
         losses: 0
+      player2:
+        percent: 68
+        wins: 0
+        losses: 1
    games:
     - player1:
         team: 'NB'
         position: Second
-        percent: 66
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Fourth
-        percent: 86
+        percent: 76
         win: 1
         loss: 0
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
       event: Brier
       year: 2005
-      draw: Round Robin(5)
-      score: NB 4 - NL 10
+      draw: Round Robin(6)
+      score: NB 10 - BC 8
  - name: Howard, Glenn
    totals:
     - event: Brier
@@ -998,7 +998,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 88
+        percent: 90
         wins: 1
         losses: 0
    games:
@@ -1010,8 +1010,8 @@ vs:
         loss: 1
       player2:
         team: 'MB'
-        position: Fourth
-        percent: 88
+        position: Lead
+        percent: 90
         win: 1
         loss: 0
       event: Brier
@@ -1390,7 +1390,7 @@ vs:
       year: 2020
       draw: Round Robin(14)
       score: NB 4 - WC 9
- - name: McLeod, Shadrach
+ - name: Mcleod, Shadrach
    totals:
     - event: Brier
       player1:
@@ -1614,6 +1614,34 @@ vs:
       year: 2020
       draw: Round Robin(3)
       score: SK 10 - NB 6
+ - name: Moss, Steve
+   totals:
+    - event: Brier
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 61
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2005
+      draw: Round Robin(10)
+      score: NB 8 - TR 6
  - name: Nantes, Dave
    totals:
     - event: Brier
@@ -2306,7 +2334,7 @@ vs:
       year: 2007
       draw: Round Robin(5)
       score: NB 5 - SK 6
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

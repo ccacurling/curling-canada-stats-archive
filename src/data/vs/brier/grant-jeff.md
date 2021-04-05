@@ -86,7 +86,7 @@ vs:
       year: 2019
       draw: Round Robin(6)
       score: NU 2 - ON 9
- - name: McLeod, Shadrach
+ - name: Mcleod, Shadrach
    totals:
     - event: Brier
       player1:

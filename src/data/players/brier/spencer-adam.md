@@ -93,12 +93,12 @@ vs:
  - Chorostkowski, Brad
  - Cotter, Jim
  - Crete, Martin
- - Doherty, Robert
+ - Doherty, Robbie
  - Flasch, Colton
  - Fry, Ryan
  - Gallant, Brett
  - Giddens, Ryan
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan

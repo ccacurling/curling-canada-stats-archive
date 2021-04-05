@@ -118,30 +118,30 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 89
+        percent: 78
         wins: 0
         losses: 1
       player2:
-        percent: 88
+        percent: 74
         wins: 1
         losses: 0
    games:
     - player1:
         team: 'SK'
         position: Second
-        percent: 89
+        percent: 78
         win: 0
         loss: 1
       player2:
-        team: 'NL'
+        team: 'BC'
         position: Fourth
-        percent: 88
+        percent: 74
         win: 1
         loss: 0
       event: Brier
       year: 2005
-      draw: Round Robin(14)
-      score: NL 6 - SK 2
+      draw: Round Robin(4)
+      score: BC 6 - SK 4
  - name: Howard, Glenn
    totals:
     - event: Brier
@@ -262,7 +262,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 90
+        percent: 72
         wins: 1
         losses: 0
    games:
@@ -274,8 +274,8 @@ vs:
         loss: 1
       player2:
         team: 'MB'
-        position: Fourth
-        percent: 90
+        position: Lead
+        percent: 72
         win: 1
         loss: 0
       event: Brier
@@ -634,7 +634,7 @@ vs:
       year: 2005
       draw: Round Robin(11)
       score: SK 4 - ON 9
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Brier
       player1:
@@ -784,6 +784,34 @@ vs:
         team: 'TR'
         position: Third
         percent: 63
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2005
+      draw: Round Robin(2)
+      score: SK 8 - TR 3
+ - name: Moss, Steve
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 70
         win: 0
         loss: 1
       event: Brier
@@ -1226,7 +1254,7 @@ vs:
       year: 2006
       draw: Round Robin(5)
       score: SK 5 - ON 10
- - name: Solberg, Jonathon
+ - name: Solberg, Jon
    totals:
     - event: Brier
       player1:

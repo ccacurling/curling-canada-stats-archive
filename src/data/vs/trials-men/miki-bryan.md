@@ -170,7 +170,7 @@ vs:
       year: 2001
       draw: Round Robin(2)
       score: STO 9 - MCA 5
- - name: Vandenberghe, Garry
+ - name: Van Den Berghe, Garry
    totals:
     - event: Trials(Men)
       player1:

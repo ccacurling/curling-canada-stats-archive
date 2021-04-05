@@ -242,7 +242,7 @@ vs:
       year: 2016
       draw: Round Robin(2)
       score: LAY 6 - MCE 5
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:

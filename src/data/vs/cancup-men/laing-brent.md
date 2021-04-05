@@ -654,7 +654,7 @@ vs:
       year: 2018
       draw: Round Robin(2)
       score: Eppi 6 - Carr 3
- - name: Mead, Jonathan
+ - name: Mead, Jon
    totals:
     - event: Canada Cup (Men)
       player1:
@@ -1222,13 +1222,13 @@ vs:
    totals:
     - event: Canada Cup (Men)
       player1:
-        percent: 88
-        wins: 7
-        losses: 3
+        percent: 86
+        wins: 6
+        losses: 4
       player2:
-        percent: 84
-        wins: 3
-        losses: 7
+        percent: 85
+        wins: 4
+        losses: 6
    games:
     - player1:
         team: 'HOWA'
@@ -1297,19 +1297,19 @@ vs:
     - player1:
         team: 'KOE'
         position: Second
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'GUS'
-        position: Third
-        percent: 78
+        percent: 70
         win: 0
         loss: 1
+      player2:
+        team: 'MCE'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
       event: Canada Cup (Men)
       year: 2014
-      draw: Round Robin(9)
-      score: KOE 10 - GUS 4
+      draw: Round Robin(3)
+      score: KOE 2 - MCE 8
     - player1:
         team: 'KOE'
         position: Second

@@ -156,7 +156,7 @@ vs:
  - Lappalainen, Art
  - LeClair, Bob
  - LeCocq, Marc
- - Lemery, Dan
+ - Lemery, Daniel
  - Likely, John
  - Lukowich, Mark
  - MacKenzie, Kevin
@@ -199,7 +199,7 @@ vs:
  - Shypitka, Tom
  - Skanes, Robert
  - Smith, Jeff
- - Solberg, Jonathon
+ - Solberg, Jon
  - Stoughton, Jeff
  - Stuart, Darol
  - Suchy, Chris

@@ -46,13 +46,13 @@ vs:
  - Flasch, Colton
  - Gallant, Brett
  - Grattan, James
- - Griffith, Ty
+ - Griffith, Tyrel
  - Gushue, Brad
  - Laycock, Steve
  - Ledgerwood, Sean
  - MacKenzie, Eddie
  - MacKenzie, Tyler
- - Mead, Jonathan
+ - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Morris, John
