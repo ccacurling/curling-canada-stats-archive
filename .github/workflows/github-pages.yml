@@ -24,6 +24,9 @@ jobs:
     - name: Generate team files
       run: src/bin/generate-teams
 
+    - name: Set event sponsors
+      run: src/bin/set-sponsors
+
     - uses:  helaili/jekyll-action@v2
       with:
         token: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,57 @@
+#!/usr/bin/env ruby
+require 'yaml'
+require 'fileutils'
+
+# This data is not stored in the original event files, so we must merge in this external data
+sponsors = {
+  # Nothing for Macdonald Brier
+  "brier" => {
+    '1980' => 'Labatt',
+    '2001' => 'Nokia',
+    '2005' => 'Tim Hortons',
+  },
+  "cancup-men" => {
+    '2003' => 'Strauss',
+    '2009' => nil,
+    '2011' => 'Capital One',
+    '2014' => 'Home Hardware',
+  },
+  "trials-men" => {
+    '2005' => 'Tim Hortons',
+  },
+  "hearts" => {
+    '1982' => 'Scotties',
+  },
+  "cancup-women" => {
+    '2003' => 'Strauss',
+    '2009' => nil,
+    '2011' => 'Capital One',
+    '2014' => 'Home Hardware',
+  },
+  "trials-women" => {
+    '2005' => 'Tim Hortons',
+  },
+}
+
+project_root = File.expand_path('../..', __dir__)
+
+sponsors.each {
+  |event, years|
+  puts 'Processing "' + event + '"...'
+
+  sponsor = nil
+  Dir.glob(project_root + '/collections/_' + event + '/*.html').sort.each do |event_file|
+    year = event_file.split('/').last.split('.').first
+    $stdout.write("\e[2K\r" + year)
+    event_data = YAML.load_file(event_file)
+    if years.key?(year)
+      sponsor = years[year]
+    end
+
+    if sponsor
+      event_data['sponsor'] = sponsor
+      File.write(event_file, event_data.to_yaml + '---')
+    end
+  end
+  print "\n\n"
+}
