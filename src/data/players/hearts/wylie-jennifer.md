@@ -76,16 +76,16 @@ vs:
  - Atkinson, Rebecca
  - Babin, Jillian
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Rachel
  - Cameron, Kate
  - Cameron, Nancy
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Campbell, Jolene
  - Carter, Sasha
  - Collins, Katrina

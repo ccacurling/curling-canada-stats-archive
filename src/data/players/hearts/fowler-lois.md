@@ -103,7 +103,7 @@ vs:
  - Bodogh, Marilyn
  - Bohmer, Brenda
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Bryant, Angie
  - Burlington, Cheryl
  - Busche, Jodi
@@ -186,7 +186,7 @@ vs:
  - Nedohin, Heather
  - Nicholls, Brenda
  - Nixon, Amy
- - Nohr, Dianne
+ - Nohr, Diane
  - Nowlan, Denise
  - Ondrack, Wendy
  - O'Rourke, Kathy

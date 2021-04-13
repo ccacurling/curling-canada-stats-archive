@@ -75,7 +75,7 @@ vs:
  - Duncan, Jenna
  - Englot, Michelle
  - Fullerton, Sarah
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Harvey, Marie-Pier
  - Hughes, Meaghan
  - MacPhee, Robyn

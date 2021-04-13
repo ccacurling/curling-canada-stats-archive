@@ -181,7 +181,7 @@ vs:
  - Baier, Stephanie
  - Baldwin, Nicole
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belanger, Nancy
  - Belisle, Eve
@@ -192,7 +192,7 @@ vs:
  - Birt, Suzanne
  - Blais, Amelie
  - Bolland, Michelle
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Brothers, Jill
  - Brown, Jacalyn
@@ -299,7 +299,7 @@ vs:
  - MacLean, Kari
  - MacPhee, Robyn
  - Mair, Jessica
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Mallett, Marla
  - Martin, Heather
  - Materi, Roberta
@@ -382,7 +382,6 @@ vs:
  - Stubbings, Tiffany
  - Sweeting, Val
  - Tanner, Ros
- - Taylor, Susan
  - Thevenot, Kara
  - Thomas, Jill
  - Thurston, Jill

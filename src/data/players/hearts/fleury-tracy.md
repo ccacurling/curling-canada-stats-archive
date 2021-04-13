@@ -95,7 +95,7 @@ vs:
  - Atkinson, Rebecca
  - Babin, Jillian
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
@@ -104,13 +104,13 @@ vs:
  - Bodner, Jenine
  - Boudreault, Patricia
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Rachel
  - Cameron, Kate
  - Cameron, Nancy
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
@@ -178,9 +178,9 @@ vs:
  - Murphy, Jeanette
  - Murphy, Sarah
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Selena
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Rourke, Brittany

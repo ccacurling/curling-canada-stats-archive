@@ -116,13 +116,13 @@ vs:
  - Babin, Jillian
  - Barbour, Shona
  - Barker, Penny
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belisle, Eve
  - Bell, Chelsey
  - Birt, Suzanne
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Briand, Oye-Sem Won
  - Brothers, Jill
@@ -149,7 +149,7 @@ vs:
  - Eyamie, Lisa
  - Fullerton, Sarah
  - Fyfe, Liz
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Galusha, Kerry
  - Gibson, Amy
  - Gregoire, Veronique
@@ -202,9 +202,9 @@ vs:
  - Moses, Dawn
  - Murphy, Sarah
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Selena
  - Nowlan, Denise
  - O'Connor, Susan
  - Officer, Jill

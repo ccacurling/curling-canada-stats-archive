@@ -82,7 +82,7 @@ vs:
  - Betker, Jan
  - Birt, Suzanne
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brothers, Jill
  - Brown, Maureen
  - Bush, Tracy

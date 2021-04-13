@@ -934,7 +934,7 @@ vs:
       year: 1992
       draw: Round Robin(2)
       score: AB 3 - PE 4
- - name: Millar, Bev
+ - name: Millar, Beverley
    totals:
     - event: Hearts
       player1:
@@ -1118,7 +1118,7 @@ vs:
       year: 1992
       draw: Round Robin(3)
       score: TR 6 - AB 7
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

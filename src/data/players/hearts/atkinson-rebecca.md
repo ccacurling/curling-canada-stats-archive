@@ -109,15 +109,15 @@ vs:
  - Arsenault, Mary-Anne
  - Ayrey, Jinaye
  - Baier, Stephanie
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brothers, Jill
  - Brown, Rachel
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Campbell, Jolene
  - Carey, Chelsea
  - Carter, Sasha
@@ -203,9 +203,9 @@ vs:
  - Moore, Kristie
  - Murphy, Sarah
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Selena
  - Nugent, Pamela
  - Officer, Jill
  - Olson-Johns, Lori

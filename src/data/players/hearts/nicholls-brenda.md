@@ -128,7 +128,7 @@ vs:
  - Bodogh, Marilyn
  - Bonar, Maureen
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brothers, Jill
  - Busche, Jodi
  - Bush, Tracy
@@ -209,7 +209,7 @@ vs:
  - MacLean, Kari
  - MacPhee, Robyn
  - Mair, Jessica
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Martin, Heather
  - Materi, Roberta
  - Mattatall, Mary
@@ -226,9 +226,9 @@ vs:
  - Murphy, Sarah
  - Naugler, Tara
  - Nedohin, Heather
- - Njegovan, Selena
  - Nixon, Amy
- - Nohr, Dianne
+ - Njegovan, Selena
+ - Nohr, Diane
  - Nowlan, Denise
  - Officer, Jill
  - O'Leary, Susan

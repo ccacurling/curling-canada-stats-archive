@@ -62,7 +62,7 @@ vs:
  - LeDrew, Stephanie
  - Lemon, Colette
  - MacLean, Kari
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn

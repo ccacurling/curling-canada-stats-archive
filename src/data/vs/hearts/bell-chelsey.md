@@ -46,7 +46,7 @@ vs:
       year: 2011
       draw: Round Robin(10)
       score: PE 7 - AB 5
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:

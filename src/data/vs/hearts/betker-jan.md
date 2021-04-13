@@ -486,7 +486,7 @@ vs:
       year: 1997
       draw: Final(21)
       score: SK 8 - ON 5
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:
@@ -590,7 +590,7 @@ vs:
       year: 1998
       draw: Semi-Final(21)
       score: CA 3 - ON 9
- - name: Brophy, Cathy
+ - name: Brophy, Kathy
    totals:
     - event: Hearts
       player1:

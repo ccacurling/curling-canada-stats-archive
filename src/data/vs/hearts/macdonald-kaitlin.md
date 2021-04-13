@@ -534,7 +534,7 @@ vs:
       year: 2020
       draw: Round Robin(3)
       score: MB 6 - NU 4
- - name: Taylor, Susan
+ - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:

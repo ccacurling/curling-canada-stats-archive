@@ -185,7 +185,7 @@ vs:
  - Balderston, Marcy
  - Barbour, Shona
  - Barker, Penny
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Beever, Jocelyn
  - Belisle, Eve
@@ -199,7 +199,7 @@ vs:
  - Blanchard, Judy
  - Bodogh, Marilyn
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Bryant, Angie
  - Burlington, Cheryl

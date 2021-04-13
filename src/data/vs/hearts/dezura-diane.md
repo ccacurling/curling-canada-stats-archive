@@ -3710,7 +3710,7 @@ vs:
       year: 1988
       draw: Round Robin(6)
       score: CA 7 - BC 6
- - name: Whitaker, Lise
+ - name: Whitaker, Lisa
    totals:
     - event: Hearts
       player1:

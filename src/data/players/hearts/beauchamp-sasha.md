@@ -39,9 +39,9 @@ vs:
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Ayrey, Jinaye
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birt, Suzanne
- - Bradley, Shelly
+ - Bradley, Shelley
  - Carter, Sasha
  - Cheveldave, Amber
  - Cormier, Sharon

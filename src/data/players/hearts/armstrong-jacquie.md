@@ -82,7 +82,7 @@ vs:
  - Bell, Chelsey
  - Birt, Suzanne
  - Blais, Amelie
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Cameron, Nancy
  - Campbell, Jolene
@@ -128,7 +128,7 @@ vs:
  - MacLean, Kari
  - MacPhee, Robyn
  - Mair, Jessica
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Martin, Heather
  - Materi, Roberta
  - McCarville, Krista

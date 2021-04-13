@@ -77,7 +77,7 @@ vs:
  - Barbour, Shona
  - Belanger, Nancy
  - Birt, Suzanne
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Brennan, Amanda
  - Bush, Tracy

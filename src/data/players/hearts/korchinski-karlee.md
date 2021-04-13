@@ -41,7 +41,7 @@ vs:
  - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Black, Christina
  - Crouse, Jennifer
@@ -50,7 +50,7 @@ vs:
  - Einarson, Kerri
  - Fleury, Tracy
  - Fyfe, Liz
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Galusha, Kerry
  - Gates, Amanda
  - Harvey, Marie-Pier

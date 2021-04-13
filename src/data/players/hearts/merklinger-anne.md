@@ -114,8 +114,8 @@ vs:
  - Blanchard, Judy
  - Bohmer, Brenda
  - Bonar, Maureen
- - Bradley, Shelly
- - Brophy, Cathy
+ - Bradley, Shelley
+ - Brophy, Kathy
  - Bryant, Angie
  - Burlington, Cheryl
  - Cameron, Nancy

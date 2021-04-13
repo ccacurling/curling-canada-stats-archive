@@ -61,7 +61,7 @@ vs:
  - Bernard, Cheryl
  - Betker, Jan
  - Birt, Suzanne
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brothers, Jill
  - Burgess, Carey
  - Bush, Tracy

@@ -842,7 +842,7 @@ vs:
       year: 1987
       draw: Round Robin(10)
       score: CA 11 - NB 2
- - name: Millar, Bev
+ - name: Millar, Beverley
    totals:
     - event: Hearts
       player1:
@@ -1110,7 +1110,7 @@ vs:
       year: 1997
       draw: Round Robin(17)
       score: BC 3 - AB 11
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

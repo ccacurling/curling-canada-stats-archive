@@ -746,7 +746,7 @@ vs:
         loss: 0
       player2:
         team: 'WC'
-        position: Third
+        position: Second
         percent: 80
         win: 0
         loss: 1
@@ -1106,7 +1106,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 86
+        percent: 67
         wins: 0
         losses: 1
    games:
@@ -1118,8 +1118,8 @@ vs:
         loss: 0
       player2:
         team: 'ON'
-        position: Lead
-        percent: 86
+        position: Fourth
+        percent: 67
         win: 0
         loss: 1
       event: Hearts
@@ -3838,6 +3838,34 @@ vs:
       year: 2017
       draw: Round Robin(17)
       score: CA 7 - AB 4
+ - name: Nicholls, Brenda
+   totals:
+    - event: Hearts
+      player1:
+        percent: 87
+        wins: 1
+        losses: 0
+      player2:
+        percent: 90
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 87
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 90
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(11)
+      score: QC 4 - AB 6
  - name: Njegovan, Selena
    totals:
     - event: Hearts
@@ -3882,34 +3910,6 @@ vs:
       year: 2019
       draw: Round Robin(1)
       score: AB 7 - MB 6
- - name: Nicholls, Brenda
-   totals:
-    - event: Hearts
-      player1:
-        percent: 87
-        wins: 1
-        losses: 0
-      player2:
-        percent: 90
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent: 87
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
-        position: Third
-        percent: 90
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(11)
-      score: QC 4 - AB 6
  - name: Nugent, Pamela
    totals:
     - event: Hearts
@@ -5442,45 +5442,17 @@ vs:
       year: 2021
       draw: Pool(21)
       score: CA 9 - WC 3
- - name: Taylor, Susan
-   totals:
-    - event: Hearts
-      player1:
-        percent: 69
-        wins: 1
-        losses: 0
-      player2:
-        percent: 70
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'CA'
-        position: Fourth
-        percent: 69
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Lead
-        percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Round Robin(4)
-      score: SK 6 - CA 9
  - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:
         percent: 68
-        wins: 2
+        wins: 3
         losses: 0
       player2:
-        percent: 76
+        percent: 74
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'AB'
@@ -5514,6 +5486,22 @@ vs:
       year: 2019
       draw: Page 1-2(21)
       score: SK 7 - AB 11
+    - player1:
+        team: 'CA'
+        position: Fourth
+        percent: 69
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Round Robin(4)
+      score: SK 6 - CA 9
  - name: Thiessen, Alison
    totals:
     - event: Hearts

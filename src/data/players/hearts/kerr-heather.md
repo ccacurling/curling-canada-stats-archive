@@ -98,14 +98,14 @@ vs:
  - MacKay, Carolyn
  - MacLean, Jean
  - Martin, Lillian
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - McEdwards, Kathy
  - McGeary, Lori
- - Millar, Bev
+ - Millar, Beverley
  - Moore, Linda
  - Narduzzi, Joyce
- - Noye, Marnie
+ - Noye, Marlene
  - Pinsent, Barbara
  - Porter, Debbie
  - Potvin, Gisele

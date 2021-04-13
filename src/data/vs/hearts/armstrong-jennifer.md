@@ -1442,18 +1442,34 @@ vs:
       year: 2020
       draw: Round Robin(10)
       score: MB 7 - NB 13
- - name: Taylor, Susan
+ - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:
-        percent: 70
+        percent: 68
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 77
-        wins: 2
+        percent: 75
+        wins: 3
         losses: 0
    games:
+    - player1:
+        team: 'NB'
+        position: Second
+        percent: 64
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(4)
+      score: SK 6 - NB 4
     - player1:
         team: 'NB'
         position: Third
@@ -1486,34 +1502,6 @@ vs:
       year: 2020
       draw: Tie-Breaker(15)
       score: SK 9 - NB 7
- - name: Thevenot, Kara
-   totals:
-    - event: Hearts
-      player1:
-        percent: 64
-        wins: 0
-        losses: 1
-      player2:
-        percent: 70
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Second
-        percent: 64
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Lead
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(4)
-      score: SK 6 - NB 4
  - name: Tran, Brittany
    totals:
     - event: Hearts

@@ -58,7 +58,7 @@ vs:
  - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Black, Christina
  - Brassard, Veronique

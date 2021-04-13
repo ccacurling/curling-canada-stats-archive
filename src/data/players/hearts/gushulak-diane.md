@@ -101,7 +101,7 @@ vs:
  - Birt, Suzanne
  - Boily, Caroline
  - Bonar, Maureen
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Maureen
  - Cooke, Gerri
  - Cordina, Sheri

@@ -114,7 +114,7 @@ vs:
       year: 1987
       draw: Round Robin(8)
       score: NL 8 - NB 3
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:

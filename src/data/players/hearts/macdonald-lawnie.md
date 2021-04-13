@@ -36,7 +36,7 @@ years:
    shots-total: 205
    shots-percent: 85
 vs:
- - Allen, Susan
+ - Allan, Susan
  - Allerton, Dana
  - Anderson, Sherry
  - Arsenault, Mary-Anne

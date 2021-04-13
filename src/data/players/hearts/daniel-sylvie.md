@@ -126,9 +126,9 @@ vs:
  - Bohmer, Brenda
  - Bonar, Maureen
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brothers, Jill
  - Brown, Marcie
  - Bryant, Angie

@@ -100,8 +100,8 @@ vs:
  - Martin, Lillian
  - Mattatall, Mary
  - McCallan, Berniece
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - McCubbin, Sandy
  - McInnis, Susan
  - More, Chris

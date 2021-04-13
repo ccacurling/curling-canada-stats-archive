@@ -137,7 +137,7 @@ vs:
  - Blanchard, Judy
  - Bonar, Maureen
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Brennan, Amanda
  - Brine, Jenn
@@ -236,9 +236,9 @@ vs:
  - Mulroney, Sandra
  - Murphy, Sarah
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nicholson, Danielle
+ - Njegovan, Selena
  - Nowlan, Denise
  - Officer, Jill
  - O'Neill, Brit

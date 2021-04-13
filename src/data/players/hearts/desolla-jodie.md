@@ -145,7 +145,7 @@ vs:
  - Ayrey, Jinaye
  - Baier, Stephanie
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belanger, Nancy
  - Belisle, Eve
@@ -153,7 +153,7 @@ vs:
  - Birt, Suzanne
  - Blais, Amelie
  - Bolland, Michelle
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brothers, Jill
  - Brown, Jacalyn
  - Brown, Rachel

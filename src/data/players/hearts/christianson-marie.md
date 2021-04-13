@@ -98,7 +98,7 @@ vs:
  - Baldwin, Nicole
  - Barbour, Shona
  - Barron, Lauren
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birnie, Hailey
  - Black, Christina
@@ -163,7 +163,6 @@ vs:
  - Miskew, Emma
  - Moore, Kristie
  - Murphy, Sarah
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Njegovan, Selena
@@ -195,7 +194,6 @@ vs:
  - St-Georges, Laurie
  - Strong, Helen
  - Sweeting, Val
- - Taylor, Susan
  - Thevenot, Kara
  - Thompson, Karla
  - Tingley, Jaclyn

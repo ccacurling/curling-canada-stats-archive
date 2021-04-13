@@ -1590,7 +1590,7 @@ vs:
       year: 2017
       draw: Round Robin(6)
       score: QC 8 - PE 7
- - name: Makichuck, Lindsay
+ - name: Makichuk, Lindsay
    totals:
     - event: Hearts
       player1:

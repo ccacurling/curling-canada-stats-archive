@@ -62,7 +62,7 @@ vs:
       year: 1989
       draw: Round Robin(6)
       score: MB 7 - NS 3
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

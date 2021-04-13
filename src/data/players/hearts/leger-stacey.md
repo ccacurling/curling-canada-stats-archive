@@ -43,7 +43,7 @@ vs:
  - Allen, Michelle
  - Arsenault, Mary-Anne
  - Bell, Chelsey
- - Bradley, Shelly
+ - Bradley, Shelley
  - Bush, Tracy
  - Carter, Sasha
  - Clark, Stefanie

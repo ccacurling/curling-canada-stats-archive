@@ -60,7 +60,7 @@ vs:
  - Bartlett, Sue Anne
  - Bell, Mary Susan
  - Bildfell, Shelly
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brousseau, Deb
  - Burgess, Judy
  - Burkitt, Maureen
@@ -108,8 +108,8 @@ vs:
  - Martin, Sue
  - Massullo, Deb
  - McCracken, Betty
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - McDermott, Karen
  - McGowan, Frances
  - Moore, Linda

@@ -140,8 +140,8 @@ years:
 vs:
  - Affleck, Tricia
  - Aleksic, Shannon
+ - Allan, Susan
  - Allen, Michelle
- - Allen, Susan
  - Allerton, Dana
  - Anderson, Sherry
  - Arnott, Janet
@@ -167,7 +167,7 @@ vs:
  - Bodogh, Marilyn
  - Bohmer, Brenda
  - Bonar, Maureen
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brennan, Amanda
  - Brown, Jacalyn
  - Burlington, Cheryl
@@ -267,7 +267,7 @@ vs:
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
- - Nohr, Dianne
+ - Nohr, Diane
  - Nowlan, Denise
  - Officer, Jill
  - O'Leary, Susan
@@ -323,7 +323,7 @@ vs:
  - Wheatcroft, Georgina
  - Whipple, Paula
  - Whitaker, Carol
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Wieler, Bev
  - Wright, Susan
  - Yardley, Janelle

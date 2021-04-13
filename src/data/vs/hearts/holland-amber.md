@@ -710,7 +710,7 @@ vs:
       year: 2012
       draw: Round Robin(5)
       score: CA 6 - AB 5
- - name: Makichuck, Lindsay
+ - name: Makichuk, Lindsay
    totals:
     - event: Hearts
       player1:

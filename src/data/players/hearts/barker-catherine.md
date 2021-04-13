@@ -37,7 +37,7 @@ years:
    shots-percent: 64
 vs:
  - Arnott, Janet
- - Bennett, Connie
+ - Bennet, Connie
  - Boudreault, Tracie
  - Carney, Laurie
  - Carr, Judy
@@ -63,12 +63,12 @@ vs:
  - Mackin, Marion
  - McCarville, Susan
  - McGeary, Lori
- - Millar, Bev
+ - Millar, Beverley
  - Miller, Maureen
  - Moore, Linda
  - More, Chris
  - Moriarty, Monica
- - Noye, Marnie
+ - Noye, Marlene
  - Raby, Odette
  - Roland, Mavis
  - Smith, Yvonne

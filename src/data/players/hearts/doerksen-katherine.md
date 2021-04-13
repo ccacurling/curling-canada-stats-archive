@@ -7,34 +7,34 @@ totals:
    games: 12
    wins: 7
    losses: 5
-   inturn-total: 130
-   inturn-percent: 74
-   outturn-total: 104
-   outturn-percent: 74
-   draw-total: 92
-   draw-percent: 77
-   takeout-total: 142
-   takeout-percent: 73
-   shots-total: 234
-   shots-percent: 74
+   inturn-total: 132
+   inturn-percent: 75
+   outturn-total: 100
+   outturn-percent: 76
+   draw-total: 107
+   draw-percent: 71
+   takeout-total: 125
+   takeout-percent: 78
+   shots-total: 232
+   shots-percent: 75
 years:
  - year: 2021
    event: Hearts
    team: "WC"
-   position: Third
+   position: Second
    games: 12
    wins: 7
    losses: 5
-   inturn-total: 130
-   inturn-percent: 74
-   outturn-total: 104
-   outturn-percent: 74
-   draw-total: 92
-   draw-percent: 77
-   takeout-total: 142
-   takeout-percent: 73
-   shots-total: 234
-   shots-percent: 74
+   inturn-total: 132
+   inturn-percent: 75
+   outturn-total: 100
+   outturn-percent: 76
+   draw-total: 107
+   draw-percent: 71
+   takeout-total: 125
+   takeout-percent: 78
+   shots-total: 232
+   shots-percent: 75
 vs:
  - Armstrong, Hailey
  - Barbour, Shona

@@ -118,11 +118,11 @@ vs:
  - McEdwards, Kathy
  - McGeary, Lori
  - McInnis, Susan
- - Millar, Bev
+ - Millar, Beverley
  - Moore, Linda
  - Moses, Dawn
  - Narduzzi, Joyce
- - Noye, Marnie
+ - Noye, Marlene
  - Pinkney, Colleen
  - Porter, Debbie
  - Potvin, Gisele

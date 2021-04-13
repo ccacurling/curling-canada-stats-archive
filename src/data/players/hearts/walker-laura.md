@@ -112,7 +112,7 @@ vs:
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Sweeting, Val
- - Taylor, Susan
+ - Thevenot, Kara
  - Tran, Brittany
  - Verreault, Noemie
  - Weagle, Lisa

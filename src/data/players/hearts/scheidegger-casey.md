@@ -59,7 +59,7 @@ vs:
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
@@ -82,7 +82,7 @@ vs:
  - Forward, Katie
  - Fullerton, Sarah
  - Fyfe, Liz
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Galusha, Kerry
  - Gates, Amanda
  - Gates, Jennifer

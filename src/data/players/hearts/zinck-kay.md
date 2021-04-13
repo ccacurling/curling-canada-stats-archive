@@ -145,9 +145,9 @@ vs:
  - Bonar, Maureen
  - Bond, Arlene
  - Bradley, Diane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Buckway, Beverly
  - Burns, Shannon
  - Busche, Jodi
@@ -258,7 +258,7 @@ vs:
  - Muzika, Shelley
  - Nedohin, Heather
  - Nicholls, Brenda
- - Nohr, Dianne
+ - Nohr, Diane
  - Nowlan, Denise
  - Officer, Jill
  - O'Leary, Susan

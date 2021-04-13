@@ -111,7 +111,7 @@ vs:
  - Arnott, Janet
  - Aulenback, Wanda
  - Barker, Catherine
- - Bennett, Connie
+ - Bennet, Connie
  - Bildfell, Shelly
  - Blanchard, Judy
  - Bonar, Maureen
@@ -172,17 +172,17 @@ vs:
  - Mattatall, Mary
  - McCallan, Berniece
  - McCarville, Susan
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - McCubbin, Sandy
  - McGeary, Lori
  - McInnis, Susan
- - Millar, Bev
+ - Millar, Beverley
  - Miller, Maureen
  - Moore, Linda
  - More, Chris
  - Moriarty, Monica
- - Noye, Marnie
+ - Noye, Marlene
  - O'Rourke, Kathy
  - Phillips, Laura
  - Pinsent, Barbara

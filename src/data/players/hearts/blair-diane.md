@@ -61,7 +61,7 @@ vs:
  - Bartlett, Sue Anne
  - Betker, Jan
  - Bodogh, Marilyn
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Bryant, Angie
  - Cameron, Nancy

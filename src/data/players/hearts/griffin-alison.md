@@ -160,7 +160,6 @@ vs:
  - Munroe, Anna
  - Murphy, Sarah
  - Njegovan, Selena
- - Njegovan, Selena
  - Peterman, Jocelyn
  - Pilote, Kristen
  - Pincott, Erin
@@ -177,7 +176,7 @@ vs:
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Sweeting, Val
- - Taylor, Susan
+ - Thevenot, Kara
  - Tingley, Jaclyn
  - Verreault, Noemie
  - Walker, Laura

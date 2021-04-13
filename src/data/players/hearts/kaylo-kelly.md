@@ -104,8 +104,8 @@ years:
    shots-total: 205
    shots-percent: 82
 vs:
+ - Allan, Susan
  - Allen, Laurie
- - Allen, Susan
  - Allerton, Dana
  - Anderson, Sherry
  - Arnott, Janet
@@ -115,7 +115,7 @@ vs:
  - Beever, Jocelyn
  - Bell, Allyson
  - Belley, Joelle
- - Bennett, Connie
+ - Bennet, Connie
  - Bernard, Krista
  - Betker, Jan
  - Beveridge, Corie
@@ -126,7 +126,7 @@ vs:
  - Bonar, Maureen
  - Bowman, Mary
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brown, Janet
  - Bryant, Angie
  - Cameron, Nancy
@@ -226,7 +226,7 @@ vs:
  - McKnight, Patti
  - Merklinger, Anne
  - Middaugh, Sherry
- - Millar, Bev
+ - Millar, Beverley
  - Mittelstadt, Candice
  - Moore, Kim
  - Moore, Linda
@@ -236,7 +236,7 @@ vs:
  - Muzika, Shelley
  - Nedohin, Heather
  - Nowlan, Denise
- - Noye, Marnie
+ - Noye, Marlene
  - O'Rourke, Kathy
  - Osborne, Chantal
  - Perron, Leanne

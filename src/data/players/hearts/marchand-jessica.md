@@ -66,7 +66,7 @@ vs:
  - McInnis, Susan
  - Middaugh, Sherry
  - Mulroney, Sandra
- - Nohr, Dianne
+ - Nohr, Diane
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
  - Pendergast, Judy

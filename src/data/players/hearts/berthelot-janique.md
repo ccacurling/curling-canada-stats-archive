@@ -68,7 +68,7 @@ vs:
  - Bernard, Krista
  - Blanchard, Judy
  - Bohmer, Brenda
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Byers, Denise
  - Campbell, June

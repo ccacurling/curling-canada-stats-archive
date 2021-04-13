@@ -95,7 +95,7 @@ vs:
  - Bradley, Diane
  - Brawley, Sandra
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Buckway, Beverly
  - Burns, Shannon
  - Cameron, Nancy
@@ -151,8 +151,8 @@ vs:
  - Martin, Lillian
  - McCallan, Berniece
  - McConnery, Nancy
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - McCubbin, Sandy
  - McCusker, Joan
  - McIntee, Karen

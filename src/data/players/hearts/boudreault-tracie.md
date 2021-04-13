@@ -38,7 +38,7 @@ years:
 vs:
  - Arnott, Janet
  - Barker, Catherine
- - Bennett, Connie
+ - Bennet, Connie
  - Carney, Laurie
  - Carr, Judy
  - Clarke, Betty
@@ -58,10 +58,10 @@ vs:
  - Mackin, Marion
  - McCarville, Susan
  - McGeary, Lori
- - Millar, Bev
+ - Millar, Beverley
  - Moore, Linda
  - More, Chris
- - Noye, Marnie
+ - Noye, Marlene
  - Roland, Mavis
  - Smith, Yvonne
  - Sparkes, Lindsay

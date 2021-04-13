@@ -122,7 +122,7 @@ vs:
  - Blanchard, Judy
  - Bonar, Maureen
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Breen, Theresa
  - Brown, Rachel

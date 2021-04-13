@@ -130,7 +130,7 @@ vs:
  - Birt, Suzanne
  - Blais, Amelie
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Brown, Rachel
  - Cameron, Nancy

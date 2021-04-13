@@ -2562,34 +2562,6 @@ vs:
       year: 2013
       draw: Round Robin(17)
       score: ON 6 - CA 5
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 0
-        losses: 1
-      player2:
-        percent: 73
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'ON'
-        position: Fourth
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Third
-        percent: 73
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(9)
-      score: MB 6 - ON 5
  - name: Nixon, Amy
    totals:
     - event: Hearts
@@ -2638,14 +2610,30 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 66
+        percent: 71
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 80
-        wins: 0
+        percent: 76
+        wins: 1
         losses: 1
    games:
+    - player1:
+        team: 'ON'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 73
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(9)
+      score: MB 6 - ON 5
     - player1:
         team: 'ON'
         position: Fourth
@@ -4946,45 +4934,17 @@ vs:
       year: 2021
       draw: Final(26)
       score: ON 7 - CA 9
- - name: Taylor, Susan
-   totals:
-    - event: Hearts
-      player1:
-        percent: 91
-        wins: 1
-        losses: 0
-      player2:
-        percent: 73
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'ON'
-        position: Fourth
-        percent: 91
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Lead
-        percent: 73
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Pool(18)
-      score: SK 4 - ON 9
  - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:
-        percent: 79
-        wins: 1
+        percent: 83
+        wins: 2
         losses: 1
       player2:
-        percent: 89
+        percent: 85
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'ON'
@@ -5018,6 +4978,22 @@ vs:
       year: 2019
       draw: Semi-Final(22)
       score: ON 9 - SK 7
+    - player1:
+        team: 'ON'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Pool(18)
+      score: SK 4 - ON 9
  - name: Thiessen, Alison
    totals:
     - event: Hearts

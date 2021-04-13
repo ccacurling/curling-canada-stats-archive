@@ -826,7 +826,7 @@ vs:
       year: 2010
       draw: Round Robin(5)
       score: ON 12 - QC 6
- - name: Makichuck, Lindsay
+ - name: Makichuk, Lindsay
    totals:
     - event: Hearts
       player1:

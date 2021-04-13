@@ -304,9 +304,9 @@ vs:
  - Alexander, Diane
  - Allardyce, Kathie
  - Aleksic, Shannon
+ - Allan, Susan
  - Allen, Laurie
  - Allen, Michelle
- - Allen, Susan
  - Allerton, Dana
  - Anderson, Sherry
  - Arnott, Janet
@@ -341,7 +341,7 @@ vs:
  - Bohmer, Brenda
  - Bonar, Maureen
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Brennan, Amanda
  - Brown, Jacalyn
@@ -550,7 +550,7 @@ vs:
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
- - Nohr, Dianne
+ - Nohr, Diane
  - Nugent, Pamela
  - Officer, Jill
  - O'Leary, Susan
@@ -652,7 +652,7 @@ vs:
  - Webster, Bronwen
  - Wheatcroft, Georgina
  - Whitaker, Carol
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Whitrow, Leanne
  - Wieler, Bev
  - Willms, Karri

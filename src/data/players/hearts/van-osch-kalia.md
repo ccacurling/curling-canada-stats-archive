@@ -70,7 +70,7 @@ years:
    shots-percent: 83
 vs:
  - Arsenault, Mary-Anne
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Black, Christina
  - Cameron, Kate

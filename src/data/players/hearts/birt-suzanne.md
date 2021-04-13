@@ -239,7 +239,7 @@ vs:
  - Baldwin, Nicole
  - Barbour, Shona
  - Barron, Lauren
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belanger, Nancy
  - Belisle, Eve
@@ -265,7 +265,7 @@ vs:
  - Burgess, Carey
  - Bush, Tracy
  - Byers, Denise
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Campbell, Gloria
  - Campbell, Jolene
  - Carey, Chelsea
@@ -430,7 +430,6 @@ vs:
  - Murphy, Sarah
  - Naugler, Tara
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
@@ -507,7 +506,6 @@ vs:
  - Surik, Teejay
  - Sweeting, Val
  - Tanner, Ros
- - Taylor, Susan
  - Thevenot, Kara
  - Thompson, Karla
  - Thurston, Jill

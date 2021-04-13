@@ -64,10 +64,10 @@ vs:
  - McCallan, Berniece
  - McEdwards, Kathy
  - McGeary, Lori
- - Millar, Bev
+ - Millar, Beverley
  - Moore, Linda
  - Narduzzi, Joyce
- - Noye, Marnie
+ - Noye, Marlene
  - Porter, Debbie
  - Potvin, Gisele
  - Robertson, Darcy

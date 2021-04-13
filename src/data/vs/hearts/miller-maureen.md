@@ -114,7 +114,7 @@ vs:
       year: 1999
       draw: Round Robin(6)
       score: CA 7 - TR 6
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

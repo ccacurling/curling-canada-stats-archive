@@ -182,7 +182,7 @@ vs:
  - Bohmer, Brenda
  - Bonar, Maureen
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Brennan, Amanda
  - Brothers, Jill
@@ -311,9 +311,9 @@ vs:
  - Murphy, Sarah
  - Muzika, Shelley
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholson, Danielle
  - Nixon, Amy
+ - Njegovan, Selena
  - Nowlan, Denise
  - O'Connor, Susan
  - Officer, Jill
@@ -383,7 +383,7 @@ vs:
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whitaker, Carol
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Whitrow, Leanne
  - Williamson, Ashley
  - Wilson, Leslie

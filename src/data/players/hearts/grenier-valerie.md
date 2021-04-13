@@ -49,7 +49,7 @@ vs:
  - Arseneau, Jane
  - Baker, Michelle
  - Balderston, Marcy
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Jacalyn
  - Brown, Janet
  - Cordina, Sheri
@@ -86,6 +86,6 @@ vs:
  - Strong, Laura
  - Tasaka, Adina
  - Wheatcroft, Georgina
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Young, Karen
 ---

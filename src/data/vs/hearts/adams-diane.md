@@ -350,7 +350,7 @@ vs:
       year: 1990
       draw: Round Robin(4)
       score: CA 11 - NB 4
- - name: Brophy, Cathy
+ - name: Brophy, Kathy
    totals:
     - event: Hearts
       player1:

@@ -160,7 +160,7 @@ vs:
  - MacDougall, Leslie
  - MacLean, Kari
  - MacPhee, Robyn
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Martin, Heather
  - McCarville, Krista
  - McConnery, Nancy
@@ -171,9 +171,9 @@ vs:
  - Mulroney, Sandra
  - Murphy, Sarah
  - Naugler, Tara
- - Njegovan, Selena
  - Nixon, Amy
- - Nohr, Dianne
+ - Njegovan, Selena
+ - Nohr, Diane
  - Nowlan, Denise
  - Officer, Jill
  - O'Neill, Brit

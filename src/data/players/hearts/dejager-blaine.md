@@ -58,12 +58,12 @@ vs:
  - Atkinson, Rebecca
  - Ayrey, Jinaye
  - Barker, Penny
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belisle, Eve
  - Birt, Suzanne
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Cameron, Kate
  - Carey, Chelsea
  - Carter, Sasha

@@ -2930,7 +2930,7 @@ vs:
       year: 2005
       draw: Round Robin(10)
       score: MB 10 - QC 3
- - name: Nohr, Dianne
+ - name: Nohr, Diane
    totals:
     - event: Hearts
       player1:

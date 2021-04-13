@@ -127,7 +127,7 @@ vs:
  - Mulroney, Sandra
  - Nicholls, Brenda
  - Nixon, Amy
- - Nohr, Dianne
+ - Nohr, Diane
  - Ondrack, Wendy
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy

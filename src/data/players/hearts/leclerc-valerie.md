@@ -41,7 +41,7 @@ vs:
  - Barrack, Carmen
  - Bernard, Krista
  - Blanchard, Judy
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Campbell, June
  - Daku, Karen

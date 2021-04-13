@@ -184,7 +184,7 @@ vs:
  - Bohmer, Brenda
  - Bonar, Maureen
  - Bowering, Andrea
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Brown, Katie
  - Brown, Marcie

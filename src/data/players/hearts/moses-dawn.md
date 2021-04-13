@@ -287,7 +287,7 @@ vs:
  - Bohmer, Brenda
  - Boily, Caroline
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Breen, Theresa
  - Brennan, Amanda

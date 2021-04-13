@@ -145,8 +145,8 @@ vs:
  - McCarville, Krista
  - McConnery, Nancy
  - McCracken, Betty
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - McEwen, Dawn
  - Moore, Linda
  - Morgan, Cheryl

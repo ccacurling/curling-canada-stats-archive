@@ -120,9 +120,9 @@ vs:
  - Blanchard, Judy
  - Bodogh, Marilyn
  - Bowering, Andrea
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brown, Katie
  - Bryant, Angie
  - Burgess, Judy
@@ -226,7 +226,7 @@ vs:
  - McPherson, Cheryl
  - Merklinger, Anne
  - Messer, Janyce
- - Millar, Bev
+ - Millar, Beverley
  - Montgomery, Kay
  - Moore, Linda
  - Moyaert, June
@@ -234,7 +234,7 @@ vs:
  - Narduzzi, Joyce
  - Nelthorpe, Sally
  - Nicholson, Terry
- - Noye, Marnie
+ - Noye, Marlene
  - O'Rourke, Kathy
  - Osborne, Chantal
  - Overton-Clapham, Cathy

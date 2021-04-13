@@ -770,12 +770,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 84
+        percent: 70
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 92
-        wins: 1
+        percent: 82
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -794,18 +794,6 @@ vs:
       year: 2019
       draw: Round Robin(11)
       score: MB 12 - NU 2
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 59
-        wins: 0
-        losses: 1
-      player2:
-        percent: 74
-        wins: 1
-        losses: 0
-   games:
     - player1:
         team: 'NU'
         position: Third
@@ -1270,7 +1258,7 @@ vs:
       year: 2020
       draw: Round Robin(3)
       score: MB 6 - NU 4
- - name: Taylor, Susan
+ - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:

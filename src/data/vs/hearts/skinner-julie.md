@@ -726,7 +726,7 @@ vs:
       year: 2000
       draw: Page 3-4(20)
       score: SK 4 - BC 8
- - name: Whitaker, Lise
+ - name: Whitaker, Lisa
    totals:
     - event: Hearts
       player1:

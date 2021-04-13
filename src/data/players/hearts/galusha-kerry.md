@@ -330,7 +330,7 @@ vs:
  - Balderston, Marcy
  - Baldwin, Nicole
  - Barker, Penny
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belanger, Nancy
  - Belisle, Eve
@@ -341,7 +341,7 @@ vs:
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Breen, Theresa
  - Brennan, Amanda
@@ -512,10 +512,10 @@ vs:
  - Murphy, Jeanette
  - Muzika, Shelley
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
+ - Njegovan, Selena
  - Nowlan, Denise
  - Nugent, Pamela
  - O'Connor, Susan
@@ -604,7 +604,7 @@ vs:
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whitaker, Carol
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Wilkes, Sarah
  - Wilson, Leslie
  - Wylie, Jennifer

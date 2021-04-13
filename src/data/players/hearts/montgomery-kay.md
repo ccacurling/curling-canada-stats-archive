@@ -62,7 +62,7 @@ vs:
  - Blanchard, Judy
  - Boily, Caroline
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Brown, Maureen
  - Bryant, Angie

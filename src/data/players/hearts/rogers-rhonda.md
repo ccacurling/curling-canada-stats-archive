@@ -56,7 +56,7 @@ vs:
  - Kalenchuk, Heather
  - Koehler, Megan
  - MacLean, Kari
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn

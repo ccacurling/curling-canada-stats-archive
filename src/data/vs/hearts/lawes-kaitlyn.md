@@ -1418,50 +1418,6 @@ vs:
       year: 2013
       draw: Semi-Final(20)
       score: MB 8 - CA 5
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 2
-        losses: 0
-      player2:
-        percent: 77
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'CA'
-        position: Third
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Third
-        percent: 78
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(15)
-      score: MB 4 - CA 8
-    - player1:
-        team: 'CA'
-        position: Third
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Third
-        percent: 76
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Bronze(21)
-      score: CA 8 - MB 7
  - name: Nicholls, Brenda
    totals:
     - event: Hearts
@@ -1586,14 +1542,46 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 69
-        wins: 0
+        percent: 79
+        wins: 2
         losses: 1
       player2:
-        percent: 81
+        percent: 78
         wins: 1
-        losses: 0
+        losses: 2
    games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(15)
+      score: MB 4 - CA 8
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 76
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Bronze(21)
+      score: CA 8 - MB 7
     - player1:
         team: 'MB'
         position: Third
@@ -3682,45 +3670,17 @@ vs:
       year: 2021
       draw: Pool(23)
       score: CA 9 - MB 10
- - name: Taylor, Susan
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 1
-        losses: 0
-      player2:
-        percent: 89
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'WC'
-        position: Third
-        percent: 84
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Lead
-        percent: 89
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Pool(17)
-      score: WC 8 - SK 3
  - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:
-        percent: 68
-        wins: 1
+        percent: 75
+        wins: 2
         losses: 0
       player2:
-        percent: 81
+        percent: 85
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'CA'
@@ -3738,6 +3698,22 @@ vs:
       year: 2019
       draw: Round Robin(2)
       score: SK 5 - CA 6
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Pool(17)
+      score: WC 8 - SK 3
  - name: Thompson, Karla
    totals:
     - event: Hearts

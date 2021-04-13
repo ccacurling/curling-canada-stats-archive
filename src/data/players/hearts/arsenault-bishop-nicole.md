@@ -75,7 +75,7 @@ vs:
  - Arsenault, Mary-Anne
  - Barbour, Shona
  - Barron, Lauren
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
@@ -119,7 +119,6 @@ vs:
  - McEwen, Dawn
  - McQuaid, Michelle
  - Mercer, Adrienne
- - Njegovan, Selena
  - Njegovan, Selena
  - Officer, Jill
  - Peterman, Jocelyn

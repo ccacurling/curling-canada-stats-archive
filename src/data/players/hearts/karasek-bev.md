@@ -39,7 +39,7 @@ vs:
  - Adams, Diane
  - Aucoin, Shelley
  - Baird, Mary
- - Brophy, Cathy
+ - Brophy, Kathy
  - Burgess, Judy
  - Chapman, Kathy
  - Cleutinx, Marlene

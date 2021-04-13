@@ -56,10 +56,10 @@ vs:
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Ayrey, Jinaye
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Birt, Suzanne
- - Bradley, Shelly
+ - Bradley, Shelley
  - Carter, Sasha
  - Cheveldave, Amber
  - Cormier, Sharon

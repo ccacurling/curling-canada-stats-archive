@@ -39,14 +39,14 @@ vs:
  - Anderson, Sherry
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Rachel
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Cooper, Kathryn
  - Courtney, Joanne
  - Cunningham, Jessica

@@ -190,12 +190,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 89
+        percent: 81
         wins: 0
-        losses: 1
+        losses: 2
       player2:
         percent: 85
-        wins: 1
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -214,18 +214,6 @@ vs:
       year: 2018
       draw: Round Robin(2)
       score: WC 8 - NB 6
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 70
-        wins: 0
-        losses: 1
-      player2:
-        percent: 86
-        wins: 1
-        losses: 0
-   games:
     - player1:
         team: 'NB'
         position: Lead

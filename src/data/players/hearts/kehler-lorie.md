@@ -126,8 +126,8 @@ vs:
  - Belanger, Nancy
  - Bernard, Cheryl
  - Blanchard, Judy
- - Bradley, Shelly
- - Brophy, Cathy
+ - Bradley, Shelley
+ - Brophy, Kathy
  - Brown, Jacalyn
  - Brown, Janet
  - Brown, Katie
@@ -276,7 +276,7 @@ vs:
  - Walker, Lisa
  - Werenka, Lil
  - Wheatcroft, Georgina
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Willms, Karri
  - Wilson, Patty
  - Young, Karen

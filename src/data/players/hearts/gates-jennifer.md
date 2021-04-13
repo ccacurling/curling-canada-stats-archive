@@ -134,7 +134,6 @@ vs:
  - Scotland, Nadine
  - Silvernagle, Robyn
  - Sweeting, Val
- - Taylor, Susan
  - Thevenot, Kara
  - Verreault, Noemie
  - Walker, Laura

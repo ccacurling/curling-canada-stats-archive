@@ -62,8 +62,8 @@ vs:
  - MacDonald, Karen
  - MacKay, Carolyn
  - McCallan, Berniece
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - McCubbin, Sandy
  - Pinsent, Barbara
  - Provo, Anne

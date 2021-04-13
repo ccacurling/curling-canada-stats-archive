@@ -242,7 +242,7 @@ vs:
       year: 2004
       draw: Round Robin(12)
       score: TR 5 - BC 7
- - name: Whitaker, Lise
+ - name: Whitaker, Lisa
    totals:
     - event: Hearts
       player1:

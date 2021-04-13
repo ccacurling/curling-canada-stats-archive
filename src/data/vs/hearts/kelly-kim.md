@@ -3930,7 +3930,7 @@ vs:
       year: 2008
       draw: Round Robin(7)
       score: NS 7 - AB 9
- - name: Nohr, Dianne
+ - name: Nohr, Diane
    totals:
     - event: Hearts
       player1:
@@ -8146,7 +8146,7 @@ vs:
       year: 2008
       draw: Round Robin(2)
       score: PE 9 - NS 3
- - name: Whitaker, Lise
+ - name: Whitaker, Lisa
    totals:
     - event: Hearts
       player1:

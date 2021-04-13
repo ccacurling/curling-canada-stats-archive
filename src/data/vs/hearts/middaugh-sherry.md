@@ -290,7 +290,7 @@ vs:
       year: 2008
       draw: Page 1-2(20)
       score: ON 7 - AB 8
- - name: Nohr, Dianne
+ - name: Nohr, Diane
    totals:
     - event: Hearts
       player1:
@@ -2178,7 +2178,7 @@ vs:
       year: 2008
       draw: Round Robin(10)
       score: ON 10 - PE 2
- - name: Whitaker, Lise
+ - name: Whitaker, Lisa
    totals:
     - event: Hearts
       player1:

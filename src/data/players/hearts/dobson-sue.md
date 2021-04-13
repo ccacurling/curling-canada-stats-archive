@@ -93,7 +93,7 @@ vs:
  - Barrack, Carmen
  - Bernard, Krista
  - Berthelot, Janique
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Campbell, June
  - Daku, Karen

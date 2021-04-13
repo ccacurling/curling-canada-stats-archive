@@ -64,7 +64,7 @@ vs:
  - Betker, Jan
  - Bonar, Maureen
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brown, Katie
  - Cameron, Nancy
  - Charette, Agnes

@@ -59,14 +59,14 @@ vs:
  - Atkinson, Rebecca
  - Babin, Jillian
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Rachel
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Carter, Sasha
  - Clark-Rouire, Jennifer
  - Collins, Katrina

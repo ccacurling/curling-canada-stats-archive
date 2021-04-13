@@ -91,7 +91,7 @@ vs:
  - Bonar, Maureen
  - Bowman, Mary
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Byers, Denise
  - Cameron, Nancy
  - Campbell, June

@@ -118,7 +118,7 @@ vs:
  - Birt, Suzanne
  - Blais, Amelie
  - Boyle, Jane
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Christianson, Marie
  - Cooper, Kathryn
  - Cormier, Sharon

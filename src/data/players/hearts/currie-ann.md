@@ -58,7 +58,7 @@ vs:
  - Augustyn, Jan
  - Barker, Catherine
  - Bartlett, Sue Anne
- - Bennett, Connie
+ - Bennet, Connie
  - Bodogh, Marilyn
  - Boudreault, Tracie
  - Bussieres, Helene

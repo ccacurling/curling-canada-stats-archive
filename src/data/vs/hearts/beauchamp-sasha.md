@@ -30,7 +30,7 @@ vs:
       year: 2013
       draw: Round Robin(8)
       score: QC 6 - PE 8
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:

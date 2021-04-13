@@ -184,7 +184,7 @@ vs:
  - Bakker, Glenys
  - Barrette, Peggy
  - Bartlett, Sue Anne
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beever, Jocelyn
  - Belisle, Eve
  - Bell, Allyson
@@ -212,7 +212,7 @@ vs:
  - Busche, Jodi
  - Bush, Tracy
  - Byers, Denise
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Campbell, Gloria
  - Campbell, June
  - Carlos, Marie-Claude
@@ -372,7 +372,7 @@ vs:
  - Nedohin, Heather
  - Nicholls, Brenda
  - Nixon, Amy
- - Nohr, Dianne
+ - Nohr, Diane
  - Nugent, Pamela
  - Officer, Jill
  - O'Leary, Susan

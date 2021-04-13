@@ -95,7 +95,7 @@ vs:
  - Atkinson, Rebecca
  - Barbour, Shona
  - Barron, Lauren
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina

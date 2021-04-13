@@ -175,18 +175,18 @@ vs:
  - Mattatall, Mary
  - McCallan, Berniece
  - McCracken, Betty
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - McEdwards, Kathy
  - McGeary, Lori
  - McHugh, Cindy
  - McInnis, Susan
  - McPherson, Cheryl
- - Millar, Bev
+ - Millar, Beverley
  - Moore, Linda
  - Moses, Dawn
  - Muzika, Shelley
- - Noye, Marnie
+ - Noye, Marlene
  - Osborne, Chantal
  - Overton, Kim
  - Poisson, Francine

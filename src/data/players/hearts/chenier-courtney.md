@@ -38,7 +38,7 @@ years:
 vs:
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
- - Baxter, Jen
+ - Baxter, Jennifer
  - Black, Christina
  - Boyle, Jane
  - Richard, Marie

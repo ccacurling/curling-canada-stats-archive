@@ -61,8 +61,8 @@ vs:
  - MacLean, Jean
  - Martin, Lillian
  - McCallan, Berniece
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - McCubbin, Sandy
  - Pinsent, Barbara
  - Raby, Odette

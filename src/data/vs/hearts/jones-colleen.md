@@ -4354,7 +4354,7 @@ vs:
       year: 2004
       draw: Page 1-2(19)
       score: ON 8 - CA 9
- - name: Millar, Bev
+ - name: Millar, Beverley
    totals:
     - event: Hearts
       player1:
@@ -5262,7 +5262,7 @@ vs:
       year: 2004
       draw: Round Robin(5)
       score: CA 9 - AB 4
- - name: Nohr, Dianne
+ - name: Nohr, Diane
    totals:
     - event: Hearts
       player1:
@@ -5318,7 +5318,7 @@ vs:
       year: 1993
       draw: Round Robin(11)
       score: NB 4 - NS 9
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:
@@ -10594,7 +10594,7 @@ vs:
       year: 2006
       draw: Semi-Final(21)
       score: NS 4 - CA 10
- - name: Whitaker, Lise
+ - name: Whitaker, Lisa
    totals:
     - event: Hearts
       player1:

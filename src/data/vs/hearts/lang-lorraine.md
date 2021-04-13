@@ -958,7 +958,7 @@ vs:
       year: 2009
       draw: Round Robin(9)
       score: NS 6 - ON 9
- - name: McCrae, Betty
+ - name: McCrae, Elizabeth
    totals:
     - event: Hearts
       player1:
@@ -986,7 +986,7 @@ vs:
       year: 1983
       draw: Round Robin(7)
       score: ON 6 - TR 7
- - name: McCrae, Lou
+ - name: McCrae, Louise
    totals:
     - event: Hearts
       player1:

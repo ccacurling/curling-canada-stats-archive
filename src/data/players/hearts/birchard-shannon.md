@@ -78,7 +78,7 @@ vs:
  - Arsenault-Bishop, Nicole
  - Babin, Jillian
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birt, Suzanne
  - Black, Christina
  - Brine, Jenn
@@ -149,7 +149,6 @@ vs:
  - Miskew, Emma
  - Moore, Kristie
  - Njegovan, Selena
- - Njegovan, Selena
  - Peterman, Jocelyn
  - Peterson, Beth
  - Pincott, Erin
@@ -171,7 +170,7 @@ vs:
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
- - Taylor, Susan
+ - Thevenot, Kara
  - Tran, Brittany
  - Van Osch, Kalia
  - Van Osch, Kesa

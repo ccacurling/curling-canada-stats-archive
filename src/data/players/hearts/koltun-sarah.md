@@ -96,7 +96,7 @@ vs:
  - Babin, Jillian
  - Baier, Stephanie
  - Baldwin, Nicole
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne

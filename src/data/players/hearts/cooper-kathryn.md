@@ -56,15 +56,15 @@ vs:
  - Anderson, Sherry
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brothers, Jill
  - Brown, Rachel
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Carey, Chelsea
  - Clark-Rouire, Jennifer
  - Collins, Katrina

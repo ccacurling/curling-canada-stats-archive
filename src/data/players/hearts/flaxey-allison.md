@@ -7,34 +7,34 @@ totals:
    games: 11
    wins: 3
    losses: 8
-   inturn-total: 137
-   inturn-percent: 90
-   outturn-total: 70
-   outturn-percent: 87
-   draw-total: 173
-   draw-percent: 90
-   takeout-total: 34
-   takeout-percent: 81
+   inturn-total: 120
+   inturn-percent: 73
+   outturn-total: 87
+   outturn-percent: 73
+   draw-total: 98
+   draw-percent: 70
+   takeout-total: 109
+   takeout-percent: 76
    shots-total: 207
-   shots-percent: 89
+   shots-percent: 73
 years:
  - year: 2014
    event: Hearts
    team: "ON"
-   position: Lead
+   position: Fourth
    games: 11
    wins: 3
    losses: 8
-   inturn-total: 137
-   inturn-percent: 90
-   outturn-total: 70
-   outturn-percent: 87
-   draw-total: 173
-   draw-percent: 90
-   takeout-total: 34
-   takeout-percent: 81
+   inturn-total: 120
+   inturn-percent: 73
+   outturn-total: 87
+   outturn-percent: 73
+   draw-total: 98
+   draw-percent: 70
+   takeout-total: 109
+   takeout-percent: 76
    shots-total: 207
-   shots-percent: 89
+   shots-percent: 73
 vs:
  - Anderson, Sherry
  - Atkinson, Rebecca

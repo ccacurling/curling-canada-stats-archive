@@ -119,10 +119,10 @@ vs:
  - Betker, Jan
  - Birt, Suzanne
  - Bonar, Maureen
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brothers, Jill
  - Brown, Jacalyn
  - Cameron, Nancy
@@ -192,7 +192,7 @@ vs:
  - MacIntosh, Kelly
  - MacLean, Kari
  - MacPhee, Robyn
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Mallett, Marla
  - Martin, Heather
  - McCagg-Nystrom, Heather

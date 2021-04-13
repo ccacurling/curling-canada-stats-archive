@@ -690,7 +690,7 @@ vs:
       year: 2008
       draw: Round Robin(7)
       score: PE 8 - NL 9
- - name: Whitaker, Lise
+ - name: Whitaker, Lisa
    totals:
     - event: Hearts
       player1:

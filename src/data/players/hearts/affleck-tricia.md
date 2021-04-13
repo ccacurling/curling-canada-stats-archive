@@ -249,7 +249,7 @@ vs:
  - MacDonald, Shelley
  - MacIntosh, Kelly
  - MacLean, Kari
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Marchand, Jessica
  - Marchand, Stephanie
  - Martin, Heather
@@ -274,7 +274,7 @@ vs:
  - Nedohin, Heather
  - Nicholls, Brenda
  - Nixon, Amy
- - Nohr, Dianne
+ - Nohr, Diane
  - Nowlan, Denise
  - Nugent, Pamela
  - Officer, Jill
@@ -333,7 +333,7 @@ vs:
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whipple, Paula
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Whitrow, Leanne
  - Wieler, Bev
  - Wilson, Leslie

@@ -225,7 +225,7 @@ vs:
  - McInnis, Susan
  - Messer, Janyce
  - Middaugh, Sherry
- - Millar, Bev
+ - Millar, Beverley
  - Moore, Kim
  - Moore, Linda
  - Moss, Debbie
@@ -234,8 +234,8 @@ vs:
  - Narduzzi, Joyce
  - Nedohin, Heather
  - Nicholls, Brenda
- - Nohr, Dianne
- - Noye, Marnie
+ - Nohr, Diane
+ - Noye, Marlene
  - Ondrack, Wendy
  - O'Rourke, Kathy
  - Osborne, Chantal

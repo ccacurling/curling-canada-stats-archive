@@ -105,11 +105,11 @@ vs:
  - Baldwin, Laurel
  - Barker, Catherine
  - Bell, Chelsey
- - Bennett, Connie
+ - Bennet, Connie
  - Blanchard, Judy
  - Bond, Arlene
  - Bradley, Diane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Buckway, Beverly
  - Burns, Shannon
  - Bush, Tracy
@@ -192,12 +192,12 @@ vs:
  - McIntee, Karen
  - McKendry, Shirley
  - Mellis, Sheila
- - Millar, Bev
+ - Millar, Beverley
  - Miller, Maureen
  - Moore, Linda
  - More, Chris
  - Nicholls, Brenda
- - Noye, Marnie
+ - Noye, Marlene
  - Officer, Jill
  - O'Leary, Susan
  - Olson-Johns, Lori

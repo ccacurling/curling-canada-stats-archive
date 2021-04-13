@@ -2,7 +2,7 @@
 title: Theresa Breen Head-to-head
 name: Breen, Theresa
 vs:
- - name: Brophy, Cathy
+ - name: Brophy, Kathy
    totals:
     - event: Hearts
       player1:

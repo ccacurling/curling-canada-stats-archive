@@ -149,14 +149,14 @@ vs:
  - Ayrey, Jinaye
  - Babin, Jillian
  - Barker, Penny
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belisle, Eve
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
- - Bradley, Shelly
+ - Bradley, Shelley
  - Briand, Oye-Sem Won
  - Cameron, Kate
  - Campbell, Jolene
@@ -225,7 +225,7 @@ vs:
  - MacLean, Kari
  - MacPhee, Robyn
  - Mair, Jessica
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Mallett, Marla
  - Mann, Lauren
  - Martin, Heather
@@ -238,9 +238,9 @@ vs:
  - Moore, Kristie
  - More, Whitney
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Selena
  - Nowlan, Denise
  - Officer, Jill
  - O'Rourke, Brittany

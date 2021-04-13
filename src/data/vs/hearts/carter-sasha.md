@@ -3718,7 +3718,7 @@ vs:
       year: 2013
       draw: Bronze(21)
       score: CA 8 - BC 10
- - name: Makichuck, Lindsay
+ - name: Makichuk, Lindsay
    totals:
     - event: Hearts
       player1:

@@ -57,7 +57,7 @@ vs:
  - Aulenback, Wanda
  - Barker, Catherine
  - Belley, Joelle
- - Bennett, Connie
+ - Bennet, Connie
  - Betker, Jan
  - Birt, Suzanne
  - Blackburn, Julie
@@ -116,13 +116,13 @@ vs:
  - McCusker, Joan
  - McGeary, Lori
  - McInnis, Susan
- - Millar, Bev
+ - Millar, Beverley
  - Miller, Maureen
  - Moore, Linda
  - More, Chris
  - Moses, Dawn
  - Naugler, Tara
- - Noye, Marnie
+ - Noye, Marlene
  - Peters, Laine
  - Raby, Odette
  - Robertson, Darcy

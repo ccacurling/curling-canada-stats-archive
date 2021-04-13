@@ -168,7 +168,7 @@ vs:
  - Baier, Stephanie
  - Barbour, Shona
  - Barker, Penny
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belisle, Eve
  - Bell, Chelsey
@@ -181,7 +181,7 @@ vs:
  - Bodner, Jenine
  - Boudreault, Patricia
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Brine, Jenn
  - Brothers, Jill
@@ -190,7 +190,7 @@ vs:
  - Burgess, Karlee
  - Burns, Krysta
  - Cameron, Kate
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
@@ -298,7 +298,6 @@ vs:
  - Munroe, Anna
  - Murphy, Sarah
  - Nedohin, Heather
- - Njegovan, Selena
  - Nixon, Amy
  - Njegovan, Selena
  - Nowlan, Denise
@@ -354,7 +353,6 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
- - Taylor, Susan
  - Thevenot, Kara
  - Thiessen, Alison
  - Titheridge, Lindsay

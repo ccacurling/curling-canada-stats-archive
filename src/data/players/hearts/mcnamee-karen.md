@@ -68,7 +68,7 @@ vs:
  - Belanger, Nancy
  - Berthelot, Janique
  - Bohmer, Brenda
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Jacalyn
  - Brown, Janet
  - Byers, Denise
@@ -131,7 +131,7 @@ vs:
  - Tincher, Twyla
  - Tucker, Cindy
  - Wheatcroft, Georgina
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Wright, Susan
  - Young, Karen
 ---

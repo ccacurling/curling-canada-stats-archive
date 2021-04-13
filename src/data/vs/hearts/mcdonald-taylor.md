@@ -546,7 +546,7 @@ vs:
       year: 2021
       draw: Semi-Final(25)
       score: AB 3 - CA 9
- - name: Taylor, Susan
+ - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:

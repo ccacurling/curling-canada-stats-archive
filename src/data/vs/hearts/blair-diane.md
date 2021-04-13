@@ -30,7 +30,7 @@ vs:
       year: 1986
       draw: Round Robin(10)
       score: NB 4 - ON 7
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:

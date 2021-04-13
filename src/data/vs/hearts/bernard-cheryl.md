@@ -3086,7 +3086,7 @@ vs:
       year: 1996
       draw: Round Robin(12)
       score: QC 9 - AB 6
- - name: Nohr, Dianne
+ - name: Nohr, Diane
    totals:
     - event: Hearts
       player1:

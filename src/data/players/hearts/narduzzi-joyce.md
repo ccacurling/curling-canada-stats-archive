@@ -63,9 +63,9 @@ vs:
  - McCallan, Berniece
  - McEdwards, Kathy
  - McGeary, Lori
- - Millar, Bev
+ - Millar, Beverley
  - Moore, Linda
- - Noye, Marnie
+ - Noye, Marlene
  - Potvin, Gisele
  - Robertson, Darcy
  - Robinson, Susan

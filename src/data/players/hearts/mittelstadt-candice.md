@@ -53,8 +53,8 @@ years:
    shots-total: 202
    shots-percent: 74
 vs:
+ - Allan, Susan
  - Allen, Michelle
- - Allen, Susan
  - Allerton, Dana
  - Anderson, Sherry
  - Arsenault, Mary-Anne
@@ -65,7 +65,7 @@ vs:
  - Blackburn, Julie
  - Blashko, Denise
  - Bohmer, Brenda
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Janet
  - Burlington, Cheryl
  - Bush, Tracy

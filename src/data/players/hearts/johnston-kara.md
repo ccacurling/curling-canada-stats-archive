@@ -38,10 +38,10 @@ years:
 vs:
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Birt, Suzanne
- - Bradley, Shelly
+ - Bradley, Shelley
  - Carter, Sasha
  - Cheveldave, Amber
  - Cormier, Sharon

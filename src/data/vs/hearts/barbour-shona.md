@@ -2,7 +2,7 @@
 title: Shona Barbour Head-to-head
 name: Barbour, Shona
 vs:
- - name: Baxter, Jen
+ - name: Baxter, Jennifer
    totals:
     - event: Hearts
       player1:
@@ -1078,7 +1078,7 @@ vs:
         loss: 1
       player2:
         team: 'WC'
-        position: Third
+        position: Second
         percent: 80
         win: 1
         loss: 0
@@ -3890,34 +3890,6 @@ vs:
       year: 2012
       draw: Round Robin(1)
       score: AB 7 - TR 8
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 97
-        wins: 0
-        losses: 1
-      player2:
-        percent: 91
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NT'
-        position: Lead
-        percent: 97
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Third
-        percent: 91
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(12)
-      score: NT 3 - WC 9
  - name: Nicholls, Brenda
    totals:
     - event: Hearts
@@ -3974,6 +3946,34 @@ vs:
       year: 2011
       draw: Round Robin(1)
       score: TR 2 - AB 9
+ - name: Njegovan, Selena
+   totals:
+    - event: Hearts
+      player1:
+        percent: 97
+        wins: 0
+        losses: 1
+      player2:
+        percent: 91
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 97
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(12)
+      score: NT 3 - WC 9
  - name: Nowlan, Denise
    totals:
     - event: Hearts

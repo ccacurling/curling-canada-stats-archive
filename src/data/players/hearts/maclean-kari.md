@@ -94,7 +94,7 @@ vs:
  - MacDonald, Rebecca Jean
  - MacInnes, Grace
  - MacPhee, Robyn
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Mallett, Marla
  - McCagg-Nystrom, Heather
  - McConnery, Nancy

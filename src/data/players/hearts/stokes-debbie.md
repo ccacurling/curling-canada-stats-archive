@@ -175,7 +175,7 @@ vs:
  - Boily, Caroline
  - Bowering, Andrea
  - Bowman, Mary
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brown, Katie
  - Brown, Marcie
  - Brown, Maureen
@@ -298,7 +298,7 @@ vs:
  - McInnis, Susan
  - McPherson, Cheryl
  - Messer, Janyce
- - Millar, Bev
+ - Millar, Beverley
  - Montgomery, Kay
  - Moore, Linda
  - Moyaert, June
@@ -307,7 +307,7 @@ vs:
  - Nelthorpe, Sally
  - Nichols, Helen
  - Nicholson, Terry
- - Noye, Marnie
+ - Noye, Marlene
  - Osborne, Chantal
  - Overton, Kim
  - Overton-Clapham, Cathy

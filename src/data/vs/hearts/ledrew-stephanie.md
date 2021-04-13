@@ -114,7 +114,7 @@ vs:
       year: 2018
       draw: Round Robin(7)
       score: PE 6 - ON 8
- - name: Makichuck, Lindsay
+ - name: Makichuk, Lindsay
    totals:
     - event: Hearts
       player1:
@@ -438,34 +438,6 @@ vs:
       year: 2010
       draw: Round Robin(1)
       score: TR 2 - NL 12
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 0
-        losses: 1
-      player2:
-        percent: 84
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'ON'
-        position: Third
-        percent: 84
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Third
-        percent: 84
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Pool(16)
-      score: ON 5 - WC 7
  - name: Nicholls, Brenda
    totals:
     - event: Hearts
@@ -494,6 +466,34 @@ vs:
       year: 2010
       draw: Round Robin(6)
       score: QC 9 - NL 3
+ - name: Njegovan, Selena
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Pool(16)
+      score: ON 5 - WC 7
  - name: Nowlan, Denise
    totals:
     - event: Hearts

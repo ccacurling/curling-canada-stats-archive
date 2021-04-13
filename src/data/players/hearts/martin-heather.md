@@ -190,7 +190,7 @@ vs:
  - Baker, Rose-Marie
  - Bakker, Glenys
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Bell, Allyson
  - Bell, Chelsey
@@ -207,7 +207,7 @@ vs:
  - Boily, Caroline
  - Bonar, Maureen
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Breen, Theresa
  - Brown, Maureen
@@ -360,7 +360,7 @@ vs:
  - Nedohin, Heather
  - Nicholls, Brenda
  - Nixon, Amy
- - Nohr, Dianne
+ - Nohr, Diane
  - Nowlan, Denise
  - Officer, Jill
  - Ondrack, Wendy

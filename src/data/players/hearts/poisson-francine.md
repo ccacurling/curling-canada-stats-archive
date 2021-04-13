@@ -79,7 +79,7 @@ vs:
  - Bartlett, Sue Anne
  - Betker, Jan
  - Blanchard, Judy
- - Brophy, Cathy
+ - Brophy, Kathy
  - Burgess, Judy
  - Chapman, Kathy
  - Chaulk, Wendy

@@ -63,9 +63,9 @@ vs:
  - McCarville, Krista
  - McEwen, Dawn
  - Murphy, Sarah
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Selena
  - Officer, Jill
  - O'Neill, Brit
  - Peterman, Jocelyn

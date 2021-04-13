@@ -76,7 +76,7 @@ vs:
  - Barbour, Shona
  - Belanger, Nancy
  - Bernard, Cheryl
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brothers, Jill
  - Brown, Jacalyn
  - Brown, Rachel

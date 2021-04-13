@@ -594,7 +594,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 89
+        percent: 61
         wins: 0
         losses: 1
    games:
@@ -606,8 +606,8 @@ vs:
         loss: 0
       player2:
         team: 'ON'
-        position: Lead
-        percent: 89
+        position: Fourth
+        percent: 61
         win: 0
         loss: 1
       event: Hearts
@@ -4218,7 +4218,7 @@ vs:
       year: 1995
       draw: Round Robin(12)
       score: PE 9 - ON 4
- - name: McCrae, Betty
+ - name: McCrae, Elizabeth
    totals:
     - event: Hearts
       player1:
@@ -4262,7 +4262,7 @@ vs:
       year: 1985
       draw: Round Robin(11)
       score: TR 7 - PE 6
- - name: McCrae, Lou
+ - name: McCrae, Louise
    totals:
     - event: Hearts
       player1:

@@ -58,7 +58,7 @@ vs:
       year: 2001
       draw: Round Robin(12)
       score: QC 7 - NL 3
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:
@@ -1122,7 +1122,7 @@ vs:
       year: 2001
       draw: Round Robin(13)
       score: NL 5 - CA 3
- - name: Whitaker, Lise
+ - name: Whitaker, Lisa
    totals:
     - event: Hearts
       player1:

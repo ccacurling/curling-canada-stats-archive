@@ -558,7 +558,7 @@ vs:
       year: 2007
       draw: Round Robin(5)
       score: NL 6 - PE 4
- - name: Makichuck, Lindsay
+ - name: Makichuk, Lindsay
    totals:
     - event: Hearts
       player1:

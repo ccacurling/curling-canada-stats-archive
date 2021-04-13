@@ -59,14 +59,14 @@ vs:
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Barker, Penny
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birt, Suzanne
  - Black, Christina
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Rachel
  - Cameron, Kate
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Carey, Chelsea
  - Collins, Katrina
  - Cooper, Kathryn

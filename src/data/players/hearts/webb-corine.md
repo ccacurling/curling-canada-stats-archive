@@ -41,7 +41,7 @@ years:
    position: Alternate
 vs:
  - Barker, Catherine
- - Bennett, Connie
+ - Bennet, Connie
  - Boudreault, Tracie
  - Carney, Laurie
  - Carr, Judy
@@ -69,11 +69,11 @@ vs:
  - Mackin, Marion
  - McCarville, Susan
  - McGeary, Lori
- - Millar, Bev
+ - Millar, Beverley
  - Miller, Maureen
  - Moore, Linda
  - Moriarty, Monica
- - Noye, Marnie
+ - Noye, Marlene
  - Raby, Odette
  - Roland, Mavis
  - Smith, Yvonne

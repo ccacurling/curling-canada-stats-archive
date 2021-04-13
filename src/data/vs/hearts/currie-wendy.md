@@ -1222,7 +1222,7 @@ vs:
       year: 2003
       draw: Round Robin(13)
       score: NS 4 - PE 7
- - name: Millar, Bev
+ - name: Millar, Beverley
    totals:
     - event: Hearts
       player1:
@@ -1406,7 +1406,7 @@ vs:
       year: 2003
       draw: Round Robin(2)
       score: NS 11 - TR 6
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

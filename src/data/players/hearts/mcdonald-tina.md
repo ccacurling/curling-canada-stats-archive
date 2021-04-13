@@ -155,7 +155,7 @@ vs:
  - Bodogh, Marilyn
  - Bohmer, Brenda
  - Bowering, Andrea
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Jacalyn
  - Brown, Janet
  - Burry, Gail
@@ -248,7 +248,7 @@ vs:
  - Treloar, Cathy
  - Tucker, Cindy
  - Wheatcroft, Georgina
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Wright, Susan
  - Young, Karen
 ---

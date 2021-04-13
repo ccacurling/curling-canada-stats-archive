@@ -43,7 +43,7 @@ vs:
  - Betker, Jan
  - Bonar, Maureen
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Charette, Agnes
  - Charette, France
  - Comeau, Sandy

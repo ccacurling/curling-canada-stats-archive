@@ -58,7 +58,7 @@ vs:
       year: 2004
       draw: Round Robin(16)
       score: AB 5 - SK 7
- - name: Nohr, Dianne
+ - name: Nohr, Diane
    totals:
     - event: Hearts
       player1:

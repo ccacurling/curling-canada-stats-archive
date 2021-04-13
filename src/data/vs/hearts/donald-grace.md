@@ -654,7 +654,7 @@ vs:
       year: 1986
       draw: Round Robin(15)
       score: BC 11 - NB 2
- - name: McCrae, Betty
+ - name: McCrae, Elizabeth
    totals:
     - event: Hearts
       player1:
@@ -682,7 +682,7 @@ vs:
       year: 1983
       draw: Round Robin(1)
       score: NB 3 - TR 5
- - name: McCrae, Lou
+ - name: McCrae, Louise
    totals:
     - event: Hearts
       player1:
@@ -794,7 +794,7 @@ vs:
       year: 1986
       draw: Round Robin(13)
       score: NB 5 - SK 3
- - name: Millar, Bev
+ - name: Millar, Beverley
    totals:
     - event: Hearts
       player1:
@@ -878,7 +878,7 @@ vs:
       year: 1986
       draw: Round Robin(11)
       score: NB 8 - NL 5
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

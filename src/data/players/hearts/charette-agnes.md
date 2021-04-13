@@ -154,7 +154,7 @@ vs:
  - Barrette, Peggy
  - Bartlett, Sue Anne
  - Bell, Allyson
- - Bennett, Connie
+ - Bennet, Connie
  - Bernard, Cheryl
  - Betker, Jan
  - Bildfell, Shelly
@@ -162,10 +162,10 @@ vs:
  - Blanchard, Judy
  - Bonar, Maureen
  - Bothwell-Myers, Connie
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brawley, Sandra
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brown, Marcie
  - Bryant, Angie
  - Cameron, Nancy
@@ -259,8 +259,8 @@ vs:
  - McCarville, Susan
  - McCloy, Elaine
  - McConnery, Nancy
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - McCubbin, Sandy
  - McCusker, Joan
  - McGeary, Lori
@@ -268,7 +268,7 @@ vs:
  - McKnight, Patti
  - McLeod, Crystal
  - Merklinger, Anne
- - Millar, Bev
+ - Millar, Beverley
  - Miller, Maureen
  - Montgomery, Kay
  - Moore, Linda
@@ -278,7 +278,7 @@ vs:
  - Moss, Debbie
  - Muzika, Shelley
  - Nowlan, Denise
- - Noye, Marnie
+ - Noye, Marlene
  - Ondrack, Wendy
  - O'Rourke, Kathy
  - Palinkas, Gloria

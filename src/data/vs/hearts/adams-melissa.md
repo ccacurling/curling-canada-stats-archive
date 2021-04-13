@@ -158,7 +158,7 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: NL 8 - NB 7
- - name: Baxter, Jen
+ - name: Baxter, Jennifer
    totals:
     - event: Hearts
       player1:
@@ -1330,12 +1330,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 76
+        percent: 67
         wins: 0
-        losses: 1
+        losses: 2
       player2:
         percent: 85
-        wins: 1
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1354,18 +1354,6 @@ vs:
       year: 2018
       draw: Round Robin(2)
       score: WC 8 - NB 6
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 55
-        wins: 0
-        losses: 1
-      player2:
-        percent: 86
-        wins: 1
-        losses: 0
-   games:
     - player1:
         team: 'NB'
         position: Fourth

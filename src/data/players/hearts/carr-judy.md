@@ -64,12 +64,12 @@ vs:
  - Mackin, Marion
  - McCarville, Susan
  - McGeary, Lori
- - Millar, Bev
+ - Millar, Beverley
  - Miller, Maureen
  - Moore, Linda
  - More, Chris
  - Moriarty, Monica
- - Noye, Marnie
+ - Noye, Marlene
  - Raby, Odette
  - Smith, Yvonne
  - Sparkes, Lindsay

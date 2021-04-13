@@ -630,7 +630,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 71
+        percent: 74
         wins: 0
         losses: 1
    games:
@@ -642,8 +642,8 @@ vs:
         loss: 0
       player2:
         team: 'WC'
-        position: Third
-        percent: 71
+        position: Second
+        percent: 74
         win: 0
         loss: 1
       event: Hearts
@@ -2450,13 +2450,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 79
-        wins: 2
+        percent: 82
+        wins: 3
         losses: 1
       player2:
-        percent: 81
+        percent: 82
         wins: 1
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'MB'
@@ -2506,18 +2506,6 @@ vs:
       year: 2018
       draw: Final(24)
       score: WC 6 - MB 8
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 89
-        wins: 1
-        losses: 0
-      player2:
-        percent: 84
-        wins: 0
-        losses: 1
-   games:
     - player1:
         team: 'CA'
         position: Second
@@ -3154,7 +3142,7 @@ vs:
       year: 2021
       draw: Pool(22)
       score: QC 4 - CA 7
- - name: Taylor, Susan
+ - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:

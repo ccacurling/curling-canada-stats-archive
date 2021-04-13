@@ -83,7 +83,7 @@ vs:
  - Bell, Chelsey
  - Bernard, Cheryl
  - Birt, Suzanne
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Brown, Jacalyn
  - Carmody, Erin
@@ -130,7 +130,7 @@ vs:
  - MacIntosh, Kelly
  - MacLean, Kari
  - MacPhee, Robyn
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Mallett, Marla
  - Martin, Heather
  - McCagg-Nystrom, Heather

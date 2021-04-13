@@ -58,7 +58,7 @@ vs:
       year: 2014
       draw: Round Robin(5)
       score: NB 4 - BC 3
- - name: Baxter, Jen
+ - name: Baxter, Jennifer
    totals:
     - event: Hearts
       player1:
@@ -262,7 +262,7 @@ vs:
       year: 2015
       draw: Round Robin(10)
       score: QC 8 - NB 9
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:
@@ -394,7 +394,7 @@ vs:
       year: 2015
       draw: Round Robin(5)
       score: AB 10 - NB 4
- - name: Camozzi, Rhona
+ - name: Camozzi, Rhonda
    totals:
     - event: Hearts
       player1:
@@ -1406,7 +1406,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 89
+        percent: 76
         wins: 0
         losses: 1
    games:
@@ -1418,8 +1418,8 @@ vs:
         loss: 0
       player2:
         team: 'ON'
-        position: Lead
-        percent: 89
+        position: Fourth
+        percent: 76
         win: 0
         loss: 1
       event: Hearts
@@ -3458,34 +3458,6 @@ vs:
       year: 2013
       draw: Round Robin(1)
       score: CA 9 - NB 6
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 0
-        losses: 1
-      player2:
-        percent: 85
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Third
-        percent: 78
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Third
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Round Robin(17)
-      score: NB 6 - MB 7
  - name: Nicholls, Brenda
    totals:
     - event: Hearts
@@ -3558,6 +3530,34 @@ vs:
       year: 2016
       draw: Round Robin(9)
       score: NB 4 - AB 6
+ - name: Njegovan, Selena
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Round Robin(17)
+      score: NB 6 - MB 7
  - name: Nugent, Pamela
    totals:
     - event: Hearts

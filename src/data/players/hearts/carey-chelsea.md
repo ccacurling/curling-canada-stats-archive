@@ -239,8 +239,8 @@ vs:
  - Munroe, Anna
  - Murphy, Sarah
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
+ - Njegovan, Selena
  - Nugent, Pamela
  - Officer, Jill
  - O'Neill, Brit
@@ -282,7 +282,6 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
- - Taylor, Susan
  - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla

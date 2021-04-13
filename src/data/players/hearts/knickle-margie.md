@@ -65,8 +65,8 @@ vs:
  - MacLean, Jean
  - Mainwaring, Bev
  - McCracken, Betty
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - Moore, Linda
  - Rintoul, Jacki
  - Rowan, Sheila

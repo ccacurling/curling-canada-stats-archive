@@ -136,7 +136,7 @@ vs:
  - Barbour, Shona
  - Barker, Penny
  - Barron, Lauren
- - Baxter, Jen
+ - Baxter, Jennifer
  - Belisle, Eve
  - Birchard, Shannon
  - Birnie, Hailey
@@ -146,7 +146,7 @@ vs:
  - Brown, Corryn
  - Brown, Rachel
  - Cameron, Kate
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Carey, Chelsea
  - Chislett, Geneva
  - Collins, Katrina
@@ -174,7 +174,7 @@ vs:
  - Fleury, Tracy
  - Forward, Katie
  - Fyfe, Liz
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Galusha, Kerry
  - Gates, Amanda
  - Gates, Jennifer
@@ -265,7 +265,6 @@ vs:
  - Strong, Heather
  - Strong, Helen
  - Sweeting, Val
- - Taylor, Susan
  - Thevenot, Kara
  - Thiessen, Alison
  - Tingley, Jaclyn

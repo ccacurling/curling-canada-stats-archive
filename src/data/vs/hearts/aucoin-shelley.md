@@ -362,7 +362,7 @@ vs:
       year: 1987
       draw: Round Robin(1)
       score: TR 1 - NL 9
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:
@@ -418,7 +418,7 @@ vs:
       year: 1994
       draw: Round Robin(1)
       score: ON 6 - TR 8
- - name: Brophy, Cathy
+ - name: Brophy, Kathy
    totals:
     - event: Hearts
       player1:
@@ -3650,7 +3650,7 @@ vs:
       year: 1987
       draw: Round Robin(2)
       score: TR 6 - NB 5
- - name: Millar, Bev
+ - name: Millar, Beverley
    totals:
     - event: Hearts
       player1:
@@ -3890,7 +3890,7 @@ vs:
       year: 1988
       draw: Round Robin(12)
       score: TR 4 - PE 8
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

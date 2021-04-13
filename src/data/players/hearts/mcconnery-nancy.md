@@ -125,9 +125,9 @@ vs:
  - Boily, Caroline
  - Bonar, Maureen
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brown, Jacalyn
  - Brown, Maureen
  - Byers, Denise
@@ -213,7 +213,7 @@ vs:
  - MacInnes, Grace
  - MacLean, Kari
  - MacPhee, Robyn
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Mallett, Marla
  - Marchand, Karine
  - Marchuk, Lindy

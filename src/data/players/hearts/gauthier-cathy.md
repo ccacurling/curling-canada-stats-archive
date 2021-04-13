@@ -141,9 +141,9 @@ vs:
  - Boily, Caroline
  - Bonar, Maureen
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brown, Marcie
  - Brown, Maureen
  - Bryant, Angie
@@ -256,7 +256,7 @@ vs:
  - Mulroney, Sandra
  - Muzika, Shelley
  - Nicholls, Brenda
- - Nohr, Dianne
+ - Nohr, Diane
  - Nowlan, Denise
  - O'Leary, Susan
  - Olson-Johns, Lori

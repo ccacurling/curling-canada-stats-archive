@@ -129,8 +129,8 @@ vs:
  - Alexander, Diane
  - Allardyce, Kathie
  - Aleksic, Shannon
+ - Allan, Susan
  - Allen, Michelle
- - Allen, Susan
  - Allerton, Dana
  - Anderson, Kelly
  - Anderson, Sherry
@@ -244,7 +244,7 @@ vs:
  - MacDonald, Lawnie
  - MacIntosh, Kelly
  - MacLean, Kari
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Marchand, Jessica
  - Marchand, Stephanie
  - Martin, Heather
@@ -268,7 +268,7 @@ vs:
  - Naugler, Tara
  - Nedohin, Heather
  - Nicholls, Brenda
- - Nohr, Dianne
+ - Nohr, Diane
  - Nowlan, Denise
  - Officer, Jill
  - Ondrack, Wendy

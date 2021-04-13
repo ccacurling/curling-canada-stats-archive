@@ -72,7 +72,7 @@ vs:
  - Crouse, Jennifer
  - Einarson, Megan
  - Gilman, Sheena
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - McConnery, Nancy
  - More, Whitney
  - Rogers, Leslie

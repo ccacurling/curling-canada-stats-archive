@@ -114,14 +114,14 @@ vs:
  - Ayrey, Jinaye
  - Barbour, Shona
  - Barker, Penny
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belisle, Eve
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Briand, Oye-Sem Won
  - Brothers, Jill
  - Brown, Corryn
@@ -149,7 +149,7 @@ vs:
  - Eyamie, Lisa
  - Fullerton, Sarah
  - Fyfe, Liz
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Galusha, Kerry
  - Gibson, Amy
  - Hamon, Callan
@@ -199,9 +199,9 @@ vs:
  - Morris, Cori
  - Murphy, Sarah
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Selena
  - O'Connor, Susan
  - Officer, Jill
  - O'Neill, Brit

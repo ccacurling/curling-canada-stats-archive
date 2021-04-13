@@ -246,7 +246,7 @@ vs:
       year: 2012
       draw: Round Robin(1)
       score: QC 6 - BC 7
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:
@@ -1902,7 +1902,7 @@ vs:
       year: 2012
       draw: Final(22)
       score: BC 6 - AB 7
- - name: Makichuck, Lindsay
+ - name: Makichuk, Lindsay
    totals:
     - event: Hearts
       player1:

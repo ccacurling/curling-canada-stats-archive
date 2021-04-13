@@ -63,7 +63,7 @@ vs:
  - Blanchard, Judy
  - Bonar, Maureen
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brown, Katie
  - Cameron, Nancy
  - Chapman, Kathy

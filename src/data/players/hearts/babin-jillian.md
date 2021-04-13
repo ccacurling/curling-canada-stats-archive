@@ -115,7 +115,7 @@ vs:
  - Birnie, Hailey
  - Birt, Suzanne
  - Blais, Amelie
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Brown, Rachel
  - Cameron, Kate
@@ -181,7 +181,7 @@ vs:
  - MacLean, Kari
  - MacPhee, Robyn
  - Mair, Jessica
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Martin, Heather
  - Materi, Roberta
  - McCarville, Krista
@@ -234,7 +234,6 @@ vs:
  - Strong, Helen
  - Strong, Laura
  - Sweeting, Val
- - Taylor, Susan
  - Thevenot, Kara
  - Thomas, Jill
  - Thurston, Jill

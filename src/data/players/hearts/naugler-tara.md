@@ -136,7 +136,7 @@ vs:
  - MacLean, Kari
  - MacNutt, Shelley
  - MacPhee, Robyn
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Marchand, Karine
  - Marchuk, Lindy
  - Martin, Heather

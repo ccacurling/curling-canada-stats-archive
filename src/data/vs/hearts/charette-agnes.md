@@ -2950,7 +2950,7 @@ vs:
       year: 1993
       draw: Round Robin(9)
       score: QC 5 - NB 9
- - name: McCrae, Betty
+ - name: McCrae, Elizabeth
    totals:
     - event: Hearts
       player1:
@@ -2978,7 +2978,7 @@ vs:
       year: 1983
       draw: Round Robin(5)
       score: QC 6 - TR 7
- - name: McCrae, Lou
+ - name: McCrae, Louise
    totals:
     - event: Hearts
       player1:
@@ -3266,7 +3266,7 @@ vs:
       year: 1994
       draw: Round Robin(8)
       score: QC 9 - ON 5
- - name: Millar, Bev
+ - name: Millar, Beverley
    totals:
     - event: Hearts
       player1:
@@ -3578,7 +3578,7 @@ vs:
       year: 1993
       draw: Round Robin(9)
       score: QC 5 - NB 9
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

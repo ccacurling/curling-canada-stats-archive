@@ -118,7 +118,7 @@ vs:
  - Baker, Michelle
  - Balderston, Marcy
  - Barrack, Carmen
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belanger, Nancy
  - Bell, Allyson
@@ -223,7 +223,7 @@ vs:
  - Nedohin, Heather
  - Nicholls, Brenda
  - Nixon, Amy
- - Nohr, Dianne
+ - Nohr, Diane
  - Nowlan, Denise
  - Officer, Jill
  - O'Leary, Susan
@@ -271,7 +271,7 @@ vs:
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whipple, Paula
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Whitrow, Leanne
  - Wieler, Bev
  - Wilson, Leslie

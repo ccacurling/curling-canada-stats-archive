@@ -226,7 +226,7 @@ vs:
       year: 1987
       draw: Round Robin(3)
       score: AB 6 - NL 7
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:
@@ -3082,7 +3082,7 @@ vs:
       year: 2001
       draw: Round Robin(1)
       score: CA 10 - AB 6
- - name: Whitaker, Lise
+ - name: Whitaker, Lisa
    totals:
     - event: Hearts
       player1:

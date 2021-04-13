@@ -201,9 +201,9 @@ vs:
  - Bonar, Maureen
  - Bowering, Andrea
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brothers, Jill
  - Brown, Katie
  - Brown, Maureen

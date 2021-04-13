@@ -75,18 +75,18 @@ vs:
  - Anderson, Sherry
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
- - Baxter, Jen
+ - Baxter, Jennifer
  - Belisle, Eve
  - Bell, Chelsey
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Marcie
  - Burgess, Carey
  - Cameron, Nancy
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Carter, Sasha
  - Clark, Stefanie
  - Collins, Katrina

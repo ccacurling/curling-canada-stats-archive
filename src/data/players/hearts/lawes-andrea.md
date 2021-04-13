@@ -108,7 +108,7 @@ vs:
  - Affleck, Tricia
  - Alexander, Diane
  - Allardyce, Kathie
- - Allen, Susan
+ - Allan, Susan
  - Allerton, Dana
  - Anderson, Sherry
  - Arsenault, Mary-Anne
@@ -128,7 +128,7 @@ vs:
  - Blashko, Denise
  - Bohmer, Brenda
  - Bonar, Maureen
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Jacalyn
  - Brown, Katie
  - Burlington, Cheryl
@@ -263,7 +263,7 @@ vs:
  - Trider, Krista
  - Usher, Leanne
  - Wheatcroft, Georgina
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Willms, Karri
  - Wright, Susan
  - Young, Karen

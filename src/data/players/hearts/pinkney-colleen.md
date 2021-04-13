@@ -99,7 +99,7 @@ vs:
  - Blackburn, Julie
  - Blanchard, Judy
  - Bohmer, Brenda
- - Brophy, Cathy
+ - Brophy, Kathy
  - Byers, Denise
  - Campbell, Gloria
  - Chapman, Kathy

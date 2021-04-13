@@ -65,8 +65,8 @@ vs:
  - MacDonald, Karen
  - MacLean, Jean
  - Mainwaring, Bev
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - Moore, Linda
  - Porter, Debbie
  - Rintoul, Jacki

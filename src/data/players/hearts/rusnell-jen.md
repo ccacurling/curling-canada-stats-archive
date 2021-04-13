@@ -56,7 +56,7 @@ vs:
  - Anderson, Sherry
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
@@ -64,7 +64,7 @@ vs:
  - Bodner, Jenine
  - Boudreault, Patricia
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Rachel

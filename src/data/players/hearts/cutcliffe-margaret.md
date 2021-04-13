@@ -153,8 +153,8 @@ vs:
  - Massullo, Deb
  - McCarville, Krista
  - McCracken, Betty
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - McDonald, Tina
  - McEdwards, Kathy
  - McQuaid, Michelle

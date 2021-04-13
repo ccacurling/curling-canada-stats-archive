@@ -78,7 +78,7 @@ vs:
  - Ayrey, Jinaye
  - Barbour, Shona
  - Barker, Penny
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belisle, Eve
  - Cameron, Kate
@@ -102,7 +102,7 @@ vs:
  - Dykstra, Michelle
  - Englot, Michelle
  - Eyamie, Lisa
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Galusha, Kerry
  - Gibson, Amy
  - Gushulak, Diane

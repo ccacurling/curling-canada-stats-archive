@@ -118,7 +118,7 @@ vs:
  - Birt, Suzanne
  - Blais, Amelie
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Brown, Rachel
  - Cameron, Nancy
@@ -207,9 +207,9 @@ vs:
  - Moses, Dawn
  - Murphy, Jeanette
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Selena
  - Nowlan, Denise
  - Nugent, Pamela
  - O'Connor, Susan

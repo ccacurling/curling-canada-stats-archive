@@ -40,7 +40,7 @@ vs:
  - Aucoin, Shelley
  - Bacon, Kathy
  - Baird, Mary
- - Brophy, Cathy
+ - Brophy, Kathy
  - Burgess, Judy
  - Chapman, Kathy
  - Cleutinx, Marlene

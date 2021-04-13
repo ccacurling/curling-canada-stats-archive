@@ -498,7 +498,7 @@ vs:
       year: 2021
       draw: Round Robin(19)
       score: SK 9 - NL 3
- - name: Baxter, Jen
+ - name: Baxter, Jennifer
    totals:
     - event: Hearts
       player1:
@@ -1102,7 +1102,7 @@ vs:
       year: 2015
       draw: Round Robin(15)
       score: NB 4 - SK 9
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:
@@ -1490,7 +1490,7 @@ vs:
       year: 1994
       draw: Round Robin(6)
       score: SK 6 - PE 5
- - name: Camozzi, Rhona
+ - name: Camozzi, Rhonda
    totals:
     - event: Hearts
       player1:
@@ -3002,7 +3002,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 79
+        percent: 64
         wins: 0
         losses: 1
    games:
@@ -3014,8 +3014,8 @@ vs:
         loss: 0
       player2:
         team: 'ON'
-        position: Lead
-        percent: 79
+        position: Fourth
+        percent: 64
         win: 0
         loss: 1
       event: Hearts
@@ -3354,6 +3354,34 @@ vs:
       year: 2021
       draw: Round Robin(15)
       score: SK 8 - WC 7
+ - name: Gagne, Emilia
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 62
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Fourth
+        percent: 62
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Pool(18)
+      score: QC 7 - SK 9
  - name: Gagnier, Monique
    totals:
     - event: Hearts
@@ -3382,34 +3410,6 @@ vs:
       year: 2002
       draw: Round Robin(12)
       score: SK 6 - TR 5
- - name: Gagnon, Emilia
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 1
-        losses: 0
-      player2:
-        percent: 62
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
-        position: Fourth
-        percent: 62
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Pool(18)
-      score: QC 7 - SK 9
  - name: Gagnon, Karo
    totals:
     - event: Hearts
@@ -6742,34 +6742,6 @@ vs:
       year: 1994
       draw: Round Robin(6)
       score: SK 6 - PE 5
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 74
-        wins: 0
-        losses: 1
-      player2:
-        percent: 89
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 74
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Third
-        percent: 89
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(6)
-      score: WC 8 - SK 4
  - name: Nixon, Amy
    totals:
     - event: Hearts
@@ -6802,14 +6774,30 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 75
+        percent: 74
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 66
-        wins: 0
+        percent: 77
+        wins: 1
         losses: 1
    games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(6)
+      score: WC 8 - SK 4
     - player1:
         team: 'SK'
         position: Fourth

@@ -47,8 +47,8 @@ vs:
  - Enright, Barb
  - Jones, Colleen
  - LaRocque, Penny
- - Millar, Bev
- - Noye, Marnie
+ - Millar, Beverley
+ - Noye, Marlene
  - Potvin, Gisele
  - Robertson, Darcy
  - Robinson, Susan

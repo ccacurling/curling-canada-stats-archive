@@ -108,7 +108,7 @@ vs:
  - Bothwell-Myers, Connie
  - Brawley, Sandra
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Busche, Jodi
  - Cameron, Nancy
  - Cey, Naomi
@@ -179,8 +179,8 @@ vs:
  - Martin, Lillian
  - McCallan, Berniece
  - McConnery, Nancy
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - McCubbin, Sandy
  - McCusker, Joan
  - McInnis, Susan
@@ -191,7 +191,7 @@ vs:
  - Mulroney, Sandra
  - Nicholls, Brenda
  - Nixon, Amy
- - Nohr, Dianne
+ - Nohr, Diane
  - Nowlan, Denise
  - Ondrack, Wendy
  - O'Rourke, Kathy

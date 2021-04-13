@@ -854,7 +854,7 @@ vs:
       year: 2007
       draw: Round Robin(17)
       score: NB 3 - PE 8
- - name: Whitaker, Lise
+ - name: Whitaker, Lisa
    totals:
     - event: Hearts
       player1:

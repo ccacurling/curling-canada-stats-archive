@@ -1438,34 +1438,6 @@ vs:
       year: 2017
       draw: Round Robin(14)
       score: PE 4 - AB 6
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 88
-        wins: 0
-        losses: 1
-      player2:
-        percent: 89
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent: 88
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Third
-        percent: 89
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Round Robin(16)
-      score: PE 7 - MB 8
  - name: Nicholls, Brenda
    totals:
     - event: Hearts
@@ -1542,14 +1514,30 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 79
+        percent: 83
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 85
-        wins: 1
+        percent: 87
+        wins: 2
         losses: 0
    games:
+    - player1:
+        team: 'PE'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Round Robin(16)
+      score: PE 7 - MB 8
     - player1:
         team: 'PE'
         position: Second
@@ -2830,44 +2818,16 @@ vs:
       year: 2020
       draw: Pool(17)
       score: PE 4 - MB 9
- - name: Taylor, Susan
-   totals:
-    - event: Hearts
-      player1:
-        percent: 71
-        wins: 0
-        losses: 1
-      player2:
-        percent: 91
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent: 71
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Lead
-        percent: 91
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Pool(16)
-      score: SK 8 - PE 7
  - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:
-        percent: 79
+        percent: 75
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 74
-        wins: 1
+        percent: 83
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -2886,6 +2846,22 @@ vs:
       year: 2019
       draw: Round Robin(14)
       score: PE 3 - SK 7
+    - player1:
+        team: 'PE'
+        position: Second
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Pool(16)
+      score: SK 8 - PE 7
  - name: Thiessen, Alison
    totals:
     - event: Hearts

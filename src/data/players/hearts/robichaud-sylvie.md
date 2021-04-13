@@ -90,18 +90,18 @@ vs:
  - Anderson, Sherry
  - Arsenault, Mary-Anne
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Belanger, Nancy
  - Bell, Chelsey
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brennan, Amanda
  - Brothers, Jill
  - Brown, Rachel
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Campbell, Jolene
  - Carey, Chelsea
  - Carter, Sasha
@@ -172,9 +172,9 @@ vs:
  - Moore, Kim
  - Moses, Dawn
  - Murphy, Sarah
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Selena
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Neill, Brit

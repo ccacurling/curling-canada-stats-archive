@@ -578,7 +578,7 @@ vs:
       year: 1997
       draw: Round Robin(16)
       score: NB 8 - ON 5
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:
@@ -5854,7 +5854,7 @@ vs:
       year: 2001
       draw: Round Robin(8)
       score: CA 8 - NB 1
- - name: Whitaker, Lise
+ - name: Whitaker, Lisa
    totals:
     - event: Hearts
       player1:

@@ -254,7 +254,7 @@ vs:
       year: 1993
       draw: Round Robin(1)
       score: ON 5 - CA 4
- - name: Brophy, Cathy
+ - name: Brophy, Kathy
    totals:
     - event: Hearts
       player1:

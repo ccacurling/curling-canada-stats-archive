@@ -199,7 +199,7 @@ vs:
  - Barker, Penny
  - Barrette, Peggy
  - Bartlett, Sue Anne
- - Baxter, Jen
+ - Baxter, Jennifer
  - Belanger, Nancy
  - Belisle, Eve
  - Bell, Chelsey
@@ -209,9 +209,9 @@ vs:
  - Black, Christina
  - Blais, Amelie
  - Blanchard, Judy
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brennan, Amanda
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brown, Jacalyn
  - Brown, Janet
  - Brown, Katie
@@ -269,7 +269,7 @@ vs:
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gabriele, Elena
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Gallant, Kathie
  - Galusha, Kerry
  - Gates, Amanda
@@ -372,12 +372,12 @@ vs:
  - Muzika, Shelley
  - Nedohin, Heather
  - Nelthorpe, Sally
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nichols, Helen
  - Nicholson, Danielle
  - Nicholson, Terry
  - Nixon, Amy
+ - Njegovan, Selena
  - Officer, Jill
  - O'Leary, Susan
  - O'Rourke, Brittany
@@ -470,7 +470,7 @@ vs:
  - West, Christianne
  - Wheatcroft, Georgina
  - Whitaker, Carol
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Wilkes, Sarah
  - Willms, Karri
  - Wilson, Patty

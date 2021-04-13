@@ -97,12 +97,12 @@ vs:
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Bell, Chelsey
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Corryn
  - Carey, Chelsea
  - Carter, Sasha

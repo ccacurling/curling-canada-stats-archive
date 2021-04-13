@@ -293,9 +293,9 @@ vs:
  - Adams, Melissa
  - Affleck, Tricia
  - Aleksic, Shannon
+ - Allan, Susan
  - Allen, Laurie
  - Allen, Michelle
- - Allen, Susan
  - Allerton, Dana
  - Anderson, Sherry
  - Arnott, Janet
@@ -327,10 +327,10 @@ vs:
  - Bohmer, Brenda
  - Bonar, Maureen
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Brennan, Amanda
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brown, Corryn
  - Brown, Jacalyn
  - Brown, Janet
@@ -341,7 +341,7 @@ vs:
  - Byers, Denise
  - Cameron, Kate
  - Cameron, Nancy
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Campbell, Gloria
  - Campbell, June
  - Carrier, Julie
@@ -528,10 +528,10 @@ vs:
  - Mulroney, Sandra
  - Naugler, Tara
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
+ - Njegovan, Selena
  - Nowlan, Denise
  - Nugent, Pamela
  - Officer, Jill
@@ -634,7 +634,7 @@ vs:
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whitaker, Carol
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Whitrow, Leanne
  - Willms, Karri
  - Wilson, Leslie

@@ -61,7 +61,7 @@ vs:
  - Barbour, Shona
  - Belanger, Nancy
  - Bernard, Cheryl
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Janet
  - Cordina, Sheri
  - Crawford, Andrea

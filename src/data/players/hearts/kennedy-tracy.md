@@ -97,7 +97,7 @@ vs:
  - Bartlett, Sue Anne
  - Bernard, Cheryl
  - Blanchard, Judy
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brown, Katie
  - Brown, Marcie
  - Burgess, Judy

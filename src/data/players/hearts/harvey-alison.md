@@ -68,7 +68,7 @@ vs:
  - Bodogh, Marilyn
  - Bohmer, Brenda
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Jacalyn
  - Brown, Janet
  - Cameron, Nancy
@@ -139,5 +139,5 @@ vs:
  - Strong, Laura
  - Tasaka, Adina
  - Wheatcroft, Georgina
- - Whitaker, Lise
+ - Whitaker, Lisa
 ---

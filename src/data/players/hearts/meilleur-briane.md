@@ -230,7 +230,7 @@ vs:
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
- - Taylor, Susan
+ - Thevenot, Kara
  - Thompson, Karla
  - Tran, Brittany
  - Udle, Teri

@@ -96,7 +96,7 @@ vs:
  - Atkinson, Rebecca
  - Babin, Jillian
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
@@ -210,7 +210,7 @@ vs:
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
- - Taylor, Susan
+ - Thevenot, Kara
  - Thompson, Karla
  - Tran, Brittany
  - Udle, Teri

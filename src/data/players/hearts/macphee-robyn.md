@@ -241,8 +241,8 @@ vs:
  - Fister, Toni
  - Fortier, Marie-Josee
  - Fyfe, Liz
+ - Gagne, Emilia
  - Gagnier, Monique
- - Gagnon, Emilia
  - Gagnon, Nathalie
  - Galusha, Kerry
  - Gauthier, Cathy
@@ -332,10 +332,10 @@ vs:
  - Murphy, Sarah
  - Naugler, Tara
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
+ - Njegovan, Selena
  - Nowlan, Denise
  - O'Connor, Susan
  - Officer, Jill

@@ -93,8 +93,8 @@ years:
 vs:
  - Affleck, Tricia
  - Aleksic, Shannon
+ - Allan, Susan
  - Allen, Michelle
- - Allen, Susan
  - Allerton, Dana
  - Anderson, Sherry
  - Arnott, Janet
@@ -112,7 +112,7 @@ vs:
  - Blackburn, Julie
  - Blashko, Denise
  - Bohmer, Brenda
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brothers, Jill
  - Brown, Jacalyn
  - Brown, Janet
@@ -226,7 +226,7 @@ vs:
  - Vey, Lana
  - Wheatcroft, Georgina
  - Whitaker, Carol
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Wright, Susan
  - Young, Karen
 ---

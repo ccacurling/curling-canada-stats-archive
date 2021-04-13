@@ -240,7 +240,7 @@ vs:
  - Arsenault-Bishop, Nicole
  - Babin, Jillian
  - Baldwin, Nicole
- - Baxter, Jen
+ - Baxter, Jennifer
  - Belanger, Nancy
  - Bell, Chelsey
  - Bernard, Cheryl
@@ -352,9 +352,9 @@ vs:
  - Morris, Cori
  - Muzika, Shelley
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Selena
  - Nowlan, Denise
  - O'Connor, Susan
  - Officer, Jill

@@ -103,7 +103,7 @@ vs:
  - Bernard, Cheryl
  - Betker, Jan
  - Birt, Suzanne
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brothers, Jill
  - Brown, Jacalyn
  - Burgess, Carey
@@ -160,7 +160,7 @@ vs:
  - MacDonald, Rebecca Jean
  - MacInnes, Grace
  - MacPhee, Robyn
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Mallett, Marla
  - McCagg-Nystrom, Heather
  - McConnery, Nancy

@@ -1510,7 +1510,7 @@ vs:
       year: 1999
       draw: Round Robin(10)
       score: MB 9 - ON 8
- - name: Millar, Bev
+ - name: Millar, Beverley
    totals:
     - event: Hearts
       player1:
@@ -2006,7 +2006,7 @@ vs:
       year: 1996
       draw: Round Robin(2)
       score: CA 9 - QC 4
- - name: Nohr, Dianne
+ - name: Nohr, Diane
    totals:
     - event: Hearts
       player1:
@@ -2062,7 +2062,7 @@ vs:
       year: 1993
       draw: Round Robin(2)
       score: CA 10 - NB 5
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

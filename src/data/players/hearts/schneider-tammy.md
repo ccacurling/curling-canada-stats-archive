@@ -79,7 +79,7 @@ vs:
  - Bell, Chelsey
  - Birt, Suzanne
  - Blais, Amelie
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Carmody, Erin
  - Carter, Sasha

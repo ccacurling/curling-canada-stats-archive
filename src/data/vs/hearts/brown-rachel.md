@@ -86,7 +86,7 @@ vs:
       year: 2020
       draw: Round Robin(9)
       score: CA 7 - AB 5
- - name: Camozzi, Rhona
+ - name: Camozzi, Rhonda
    totals:
     - event: Hearts
       player1:
@@ -690,7 +690,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 66
+        percent: 83
         wins: 1
         losses: 0
    games:
@@ -702,8 +702,8 @@ vs:
         loss: 1
       player2:
         team: 'WC'
-        position: Third
-        percent: 66
+        position: Second
+        percent: 83
         win: 1
         loss: 0
       event: Hearts
@@ -918,7 +918,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 83
+        percent: 81
         wins: 1
         losses: 0
    games:
@@ -930,8 +930,8 @@ vs:
         loss: 1
       player2:
         team: 'ON'
-        position: Lead
-        percent: 83
+        position: Fourth
+        percent: 81
         win: 1
         loss: 0
       event: Hearts
@@ -3334,13 +3334,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 76
-        wins: 1
+        percent: 85
+        wins: 2
         losses: 0
       player2:
-        percent: 79
+        percent: 77
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'AB'
@@ -3358,18 +3358,6 @@ vs:
       year: 2019
       draw: Round Robin(1)
       score: AB 7 - MB 6
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 94
-        wins: 1
-        losses: 0
-      player2:
-        percent: 75
-        wins: 0
-        losses: 1
-   games:
     - player1:
         team: 'AB'
         position: Lead
@@ -4722,45 +4710,17 @@ vs:
       year: 2021
       draw: Semi-Final(25)
       score: AB 3 - CA 9
- - name: Taylor, Susan
-   totals:
-    - event: Hearts
-      player1:
-        percent: 89
-        wins: 1
-        losses: 0
-      player2:
-        percent: 70
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'CA'
-        position: Lead
-        percent: 89
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Lead
-        percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Round Robin(4)
-      score: SK 6 - CA 9
  - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:
-        percent: 82
-        wins: 2
+        percent: 84
+        wins: 3
         losses: 0
       player2:
-        percent: 76
+        percent: 74
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'AB'
@@ -4794,6 +4754,22 @@ vs:
       year: 2019
       draw: Page 1-2(21)
       score: SK 7 - AB 11
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Round Robin(4)
+      score: SK 6 - CA 9
  - name: Thomas-Kennell, Noelle
    totals:
     - event: Hearts

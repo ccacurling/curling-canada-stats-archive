@@ -114,7 +114,7 @@ vs:
  - Mulroney, Sandra
  - Nedohin, Heather
  - Nicholls, Brenda
- - Nohr, Dianne
+ - Nohr, Diane
  - Ondrack, Wendy
  - O'Rourke, Kathy
  - Osborne, Chantal

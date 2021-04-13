@@ -366,34 +366,6 @@ vs:
       year: 2016
       draw: Round Robin(1)
       score: SK 11 - NS 7
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 91
-        wins: 1
-        losses: 0
-      player2:
-        percent: 88
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Third
-        percent: 91
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Third
-        percent: 88
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(7)
-      score: MB 4 - SK 8
  - name: Nicholls, Brenda
    totals:
     - event: Hearts
@@ -450,6 +422,34 @@ vs:
       year: 2016
       draw: Round Robin(16)
       score: AB 6 - SK 5
+ - name: Njegovan, Selena
+   totals:
+    - event: Hearts
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(7)
+      score: MB 4 - SK 8
  - name: Officer, Jill
    totals:
     - event: Hearts

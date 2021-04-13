@@ -162,7 +162,7 @@ vs:
  - Birt, Suzanne
  - Blais, Amelie
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brine, Jenn
  - Carey, Chelsea
  - Carter, Sasha
@@ -196,7 +196,7 @@ vs:
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacPhee, Robyn
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Materi, Roberta
  - McCarville, Krista
  - McEwen, Dawn
@@ -205,9 +205,9 @@ vs:
  - Moses, Dawn
  - Murphy, Sarah
  - Naugler, Tara
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Selena
  - Officer, Jill
  - O'Neill, Brit
  - Parsons, Danielle

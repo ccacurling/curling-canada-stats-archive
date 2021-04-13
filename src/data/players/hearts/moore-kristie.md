@@ -97,7 +97,7 @@ vs:
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Bernard, Krista
  - Berthelot, Janique
@@ -107,7 +107,7 @@ vs:
  - Black, Christina
  - Blanchard, Judy
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Brown, Rachel
  - Cameron, Kate
@@ -137,7 +137,7 @@ vs:
  - Frey, Audrey
  - Fullerton, Sarah
  - Fyfe, Liz
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Galusha, Kerry
  - Gates, Amanda
  - Gates, Jennifer

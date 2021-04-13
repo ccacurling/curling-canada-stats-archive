@@ -410,7 +410,7 @@ vs:
       year: 1985
       draw: Round Robin(8)
       score: AB 5 - ON 4
- - name: McCrae, Betty
+ - name: McCrae, Elizabeth
    totals:
     - event: Hearts
       player1:
@@ -438,7 +438,7 @@ vs:
       year: 1985
       draw: Round Robin(4)
       score: TR 4 - AB 7
- - name: McCrae, Lou
+ - name: McCrae, Louise
    totals:
     - event: Hearts
       player1:

@@ -114,7 +114,7 @@ vs:
       year: 2002
       draw: Round Robin(17)
       score: BC 6 - AB 9
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:

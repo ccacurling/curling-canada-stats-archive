@@ -128,7 +128,7 @@ vs:
  - MacDiarmid, Kristen
  - MacLean, Kari
  - MacPhee, Robyn
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Mallett, Marla
  - Mattatall, Mary
  - McCagg-Nystrom, Heather

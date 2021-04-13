@@ -143,7 +143,7 @@ vs:
  - Bartlett, Sue Anne
  - Beaudin, Yvonne
  - Bell, Mary Susan
- - Bennett, Connie
+ - Bennet, Connie
  - Bernard, Krista
  - Berthelot, Janique
  - Betker, Jan
@@ -155,7 +155,7 @@ vs:
  - Bohmer, Brenda
  - Boudreault, Tracie
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Brousseau, Deb
  - Burkitt, Maureen
@@ -261,8 +261,8 @@ vs:
  - McCallan, Berniece
  - McCarville, Susan
  - McCracken, Betty
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - McCusker, Joan
  - McDonald, Tina
  - McEdwards, Kathy
@@ -272,7 +272,7 @@ vs:
  - McNamee, Karen
  - Merklinger, Anne
  - Middaugh, Sherry
- - Millar, Bev
+ - Millar, Beverley
  - Miller, Maureen
  - Moore, Kim
  - Moore, Kristie
@@ -281,7 +281,7 @@ vs:
  - Moss, Debbie
  - Narduzzi, Joyce
  - Nedohin, Heather
- - Noye, Marnie
+ - Noye, Marlene
  - Ondrack, Wendy
  - O'Rourke, Kathy
  - Osborne, Chantal

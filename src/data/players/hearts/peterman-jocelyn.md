@@ -118,7 +118,7 @@ vs:
  - Barbour, Shona
  - Barker, Penny
  - Barron, Lauren
- - Baxter, Jen
+ - Baxter, Jennifer
  - Belisle, Eve
  - Birchard, Shannon
  - Birnie, Hailey
@@ -205,7 +205,6 @@ vs:
  - Moore, Kristie
  - Murphy, Sarah
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
  - Njegovan, Selena
  - Officer, Jill
@@ -239,7 +238,6 @@ vs:
  - St-Georges, Laurie
  - Strong, Helen
  - Sweeting, Val
- - Taylor, Susan
  - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla

@@ -1562,34 +1562,6 @@ vs:
       year: 2000
       draw: Round Robin(12)
       score: QC 5 - AB 8
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 69
-        wins: 1
-        losses: 0
-      player2:
-        percent: 71
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Second
-        percent: 69
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Third
-        percent: 71
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(8)
-      score: MB 5 - QC 6
  - name: Nicholson, Danielle
    totals:
     - event: Hearts
@@ -1694,6 +1666,34 @@ vs:
       year: 2016
       draw: Round Robin(11)
       score: QC 4 - AB 6
+ - name: Njegovan, Selena
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 1
+        losses: 0
+      player2:
+        percent: 71
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Second
+        percent: 69
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 71
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(8)
+      score: MB 5 - QC 6
  - name: Nowlan, Denise
    totals:
     - event: Hearts
@@ -4298,7 +4298,7 @@ vs:
       year: 2008
       draw: Round Robin(6)
       score: QC 8 - PE 7
- - name: Whitaker, Lise
+ - name: Whitaker, Lisa
    totals:
     - event: Hearts
       player1:

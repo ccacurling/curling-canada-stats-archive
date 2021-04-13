@@ -58,7 +58,7 @@ vs:
       year: 2015
       draw: Round Robin(7)
       score: NB 4 - NS 5
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:
@@ -186,7 +186,7 @@ vs:
       year: 2018
       draw: Pool(16)
       score: CA 1 - NS 7
- - name: Camozzi, Rhona
+ - name: Camozzi, Rhonda
    totals:
     - event: Hearts
       player1:

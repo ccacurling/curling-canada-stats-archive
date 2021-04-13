@@ -434,7 +434,7 @@ vs:
       year: 1996
       draw: Tie-Breaker(20)
       score: MB 2 - CA 5
- - name: Bennett, Connie
+ - name: Bennet, Connie
    totals:
     - event: Hearts
       player1:
@@ -1110,7 +1110,7 @@ vs:
       year: 1995
       draw: Round Robin(5)
       score: ON 5 - MB 7
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:
@@ -1230,7 +1230,7 @@ vs:
       year: 2000
       draw: Page 1-2(19)
       score: MB 4 - ON 6
- - name: Brophy, Cathy
+ - name: Brophy, Kathy
    totals:
     - event: Hearts
       player1:
@@ -6954,7 +6954,7 @@ vs:
       year: 1999
       draw: Round Robin(10)
       score: MB 9 - ON 8
- - name: Millar, Bev
+ - name: Millar, Beverley
    totals:
     - event: Hearts
       player1:
@@ -7594,7 +7594,7 @@ vs:
       year: 1996
       draw: Round Robin(2)
       score: CA 9 - QC 4
- - name: Nohr, Dianne
+ - name: Nohr, Diane
    totals:
     - event: Hearts
       player1:
@@ -7682,7 +7682,7 @@ vs:
       year: 2011
       draw: Round Robin(7)
       score: NB 3 - CA 9
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

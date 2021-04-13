@@ -778,66 +778,6 @@ vs:
       year: 2010
       draw: Round Robin(13)
       score: TR 7 - ON 5
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 77
-        wins: 2
-        losses: 1
-      player2:
-        percent: 81
-        wins: 1
-        losses: 2
-   games:
-    - player1:
-        team: 'NO'
-        position: Fourth
-        percent: 73
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Third
-        percent: 86
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Round Robin(13)
-      score: MB 9 - NO 6
-    - player1:
-        team: 'NO'
-        position: Fourth
-        percent: 70
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Third
-        percent: 76
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Page 3-4(19)
-      score: NO 7 - MB 5
-    - player1:
-        team: 'NO'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Third
-        percent: 81
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2019
-      draw: Round Robin(13)
-      score: MB 5 - NO 7
  - name: Nicholls, Brenda
    totals:
     - event: Hearts
@@ -974,6 +914,66 @@ vs:
       year: 2017
       draw: Bronze(21)
       score: CA 7 - NO 4
+ - name: Njegovan, Selena
+   totals:
+    - event: Hearts
+      player1:
+        percent: 77
+        wins: 2
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 2
+   games:
+    - player1:
+        team: 'NO'
+        position: Fourth
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Round Robin(13)
+      score: MB 9 - NO 6
+    - player1:
+        team: 'NO'
+        position: Fourth
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 76
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Page 3-4(19)
+      score: NO 7 - MB 5
+    - player1:
+        team: 'NO'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2019
+      draw: Round Robin(13)
+      score: MB 5 - NO 7
  - name: Nowlan, Denise
    totals:
     - event: Hearts
@@ -3322,45 +3322,17 @@ vs:
       year: 2006
       draw: Round Robin(6)
       score: ON 7 - SK 5
- - name: Taylor, Susan
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 1
-        losses: 0
-      player2:
-        percent: 91
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NO'
-        position: Fourth
-        percent: 73
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Lead
-        percent: 91
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Round Robin(14)
-      score: NO 4 - SK 3
  - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:
-        percent: 79
-        wins: 0
+        percent: 76
+        wins: 1
         losses: 1
       player2:
-        percent: 96
+        percent: 93
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'NO'
@@ -3378,6 +3350,22 @@ vs:
       year: 2019
       draw: Pool(16)
       score: SK 11 - NO 5
+    - player1:
+        team: 'NO'
+        position: Fourth
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Round Robin(14)
+      score: NO 4 - SK 3
  - name: Thiessen, Alison
    totals:
     - event: Hearts

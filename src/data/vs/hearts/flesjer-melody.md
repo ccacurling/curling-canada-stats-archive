@@ -450,7 +450,7 @@ vs:
       year: 1984
       draw: Round Robin(1)
       score: SK 8 - TR 7
- - name: Millar, Bev
+ - name: Millar, Beverley
    totals:
     - event: Hearts
       player1:
@@ -562,7 +562,7 @@ vs:
       year: 1984
       draw: Round Robin(6)
       score: NS 10 - TR 2
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

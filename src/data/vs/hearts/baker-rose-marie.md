@@ -86,7 +86,7 @@ vs:
       year: 1994
       draw: Round Robin(16)
       score: TR 8 - NB 5
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:

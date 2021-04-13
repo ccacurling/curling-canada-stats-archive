@@ -125,12 +125,12 @@ vs:
  - Arnaud, Chloe
  - Arsenault, Mary-Anne
  - Babin, Jillian
- - Baxter, Jen
+ - Baxter, Jennifer
  - Belisle, Eve
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
- - Bradley, Shelly
+ - Bradley, Shelley
  - Cameron, Kate
  - Carmody, Erin
  - Carter, Sasha
@@ -155,7 +155,7 @@ vs:
  - Fleury, Tracy
  - Fullerton, Sarah
  - Fyfe, Liz
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Galusha, Kerry
  - Gates, Amanda
  - George, Tara
@@ -174,7 +174,7 @@ vs:
  - MacDougall, Leslie
  - MacLean, Kari
  - MacPhee, Robyn
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Martin, Heather
  - McCarville, Krista
  - McConnery, Nancy
@@ -185,8 +185,8 @@ vs:
  - Moore, Kristie
  - More, Whitney
  - Naugler, Tara
- - Njegovan, Selena
  - Nicholls, Brenda
+ - Njegovan, Selena
  - Nowlan, Denise
  - Officer, Jill
  - O'Rourke, Kathy

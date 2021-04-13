@@ -214,7 +214,7 @@ vs:
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belanger, Nancy
  - Belisle, Eve
@@ -223,7 +223,7 @@ vs:
  - Betker, Jan
  - Birt, Suzanne
  - Blais, Amelie
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Brennan, Amanda
  - Brothers, Jill
@@ -320,7 +320,7 @@ vs:
  - MacLean, Kari
  - MacPhee, Robyn
  - Mair, Jessica
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Martin, Heather
  - Materi, Roberta
  - Mattatall, Mary

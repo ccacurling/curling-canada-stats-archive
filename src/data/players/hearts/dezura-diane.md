@@ -123,9 +123,9 @@ vs:
  - Birt, Suzanne
  - Blanchard, Judy
  - Bonar, Maureen
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brown, Jacalyn
  - Brown, Janet
  - Burgess, Judy
@@ -250,7 +250,7 @@ vs:
  - Walter, Cathy
  - Werenka, Lil
  - Wheatcroft, Georgina
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Whitrow, Leanne
  - Wright, Susan
  - Young, Karen

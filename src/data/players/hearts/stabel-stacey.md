@@ -68,7 +68,7 @@ vs:
  - Birt, Suzanne
  - Blanchard, Judy
  - Bonar, Maureen
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Jacalyn
  - Brown, Janet
  - Cameron, Nancy
@@ -131,6 +131,6 @@ vs:
  - Vavrek, Melody
  - Wall, Kirsten
  - Wheatcroft, Georgina
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Young, Karen
 ---

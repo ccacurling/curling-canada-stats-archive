@@ -750,7 +750,7 @@ vs:
       year: 2011
       draw: Round Robin(10)
       score: PE 7 - AB 5
- - name: Nohr, Dianne
+ - name: Nohr, Diane
    totals:
     - event: Hearts
       player1:
@@ -2302,7 +2302,7 @@ vs:
       year: 1996
       draw: Round Robin(5)
       score: PE 5 - NB 6
- - name: Whitaker, Lise
+ - name: Whitaker, Lisa
    totals:
     - event: Hearts
       player1:

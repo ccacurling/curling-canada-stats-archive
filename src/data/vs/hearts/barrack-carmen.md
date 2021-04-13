@@ -86,7 +86,7 @@ vs:
       year: 2000
       draw: Round Robin(17)
       score: AB 9 - NB 6
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:

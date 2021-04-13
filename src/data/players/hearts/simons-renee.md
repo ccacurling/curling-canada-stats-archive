@@ -98,7 +98,7 @@ vs:
  - Bernard, Cheryl
  - Betker, Jan
  - Birt, Suzanne
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brennan, Amanda
  - Brothers, Jill
  - Burgess, Carey

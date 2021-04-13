@@ -170,7 +170,7 @@ vs:
  - Barbour, Shona
  - Barker, Penny
  - Barron, Lauren
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belisle, Eve
  - Bell, Chelsey
@@ -183,14 +183,14 @@ vs:
  - Bodner, Jenine
  - Boudreault, Patricia
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
  - Cameron, Kate
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
@@ -304,7 +304,6 @@ vs:
  - Munroe, Anna
  - Murphy, Sarah
  - Nedohin, Heather
- - Njegovan, Selena
  - Nixon, Amy
  - Njegovan, Selena
  - Nugent, Pamela
@@ -357,7 +356,6 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
- - Taylor, Susan
  - Thevenot, Kara
  - Thiessen, Alison
  - Tingley, Jaclyn

@@ -83,7 +83,7 @@ vs:
  - Bell, Chelsey
  - Bernard, Cheryl
  - Birt, Suzanne
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brennan, Amanda
  - Brown, Jacalyn
  - Brown, Janet
@@ -180,7 +180,7 @@ vs:
  - Webster, Bronwen
  - Wheatcroft, Georgina
  - Whitaker, Carol
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Yardley, Janelle
  - Young, Karen
 ---

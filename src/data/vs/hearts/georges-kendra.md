@@ -30,7 +30,7 @@ vs:
       year: 2010
       draw: Round Robin(3)
       score: NS 3 - MB 7
- - name: Makichuck, Lindsay
+ - name: Makichuk, Lindsay
    totals:
     - event: Hearts
       player1:

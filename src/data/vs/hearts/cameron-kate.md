@@ -502,7 +502,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 66
+        percent: 83
         wins: 1
         losses: 0
    games:
@@ -514,8 +514,8 @@ vs:
         loss: 1
       player2:
         team: 'WC'
-        position: Third
-        percent: 66
+        position: Second
+        percent: 83
         win: 1
         loss: 0
       event: Hearts
@@ -910,7 +910,7 @@ vs:
       year: 2021
       draw: Pool(23)
       score: WC 4 - AB 9
- - name: Gagnon, Emilia
+ - name: Gagne, Emilia
    totals:
     - event: Hearts
       player1:
@@ -2390,34 +2390,6 @@ vs:
       year: 2017
       draw: Round Robin(9)
       score: AB 5 - MB 9
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 74
-        wins: 1
-        losses: 0
-      player2:
-        percent: 75
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'CA'
-        position: Third
-        percent: 74
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Third
-        percent: 75
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Pool(19)
-      score: WC 5 - CA 8
  - name: Nixon, Amy
    totals:
     - event: Hearts
@@ -2450,14 +2422,30 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 78
-        wins: 1
+        percent: 76
+        wins: 2
         losses: 0
       player2:
         percent: 75
         wins: 0
-        losses: 1
+        losses: 2
    games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Pool(19)
+      score: WC 5 - CA 8
     - player1:
         team: 'AB'
         position: Third
@@ -3298,7 +3286,7 @@ vs:
       year: 2021
       draw: Semi-Final(25)
       score: AB 3 - CA 9
- - name: Taylor, Susan
+ - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:

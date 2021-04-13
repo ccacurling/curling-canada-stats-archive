@@ -40,7 +40,7 @@ vs:
  - Arnott, Janet
  - Betker, Jan
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Cameron, Nancy
  - Charette, Agnes
  - Charette, France

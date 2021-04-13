@@ -139,7 +139,7 @@ vs:
  - Bodogh, Marilyn
  - Bohmer, Brenda
  - Bowering, Andrea
- - Brophy, Cathy
+ - Brophy, Kathy
  - Burgess, Judy
  - Burry, Gail
  - Cameron, Nancy

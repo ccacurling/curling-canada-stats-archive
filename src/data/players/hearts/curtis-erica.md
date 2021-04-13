@@ -78,7 +78,7 @@ vs:
  - Arsenault-Bishop, Nicole
  - Barbour, Shona
  - Barker, Penny
- - Baxter, Jen
+ - Baxter, Jennifer
  - Belisle, Eve
  - Birnie, Hailey
  - Birt, Suzanne
@@ -99,7 +99,7 @@ vs:
  - Englot, Michelle
  - Eyamie, Lisa
  - Fullerton, Sarah
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Galusha, Kerry
  - Gibson, Amy
  - Harvey, Marie-Pier

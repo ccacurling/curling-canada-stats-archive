@@ -97,7 +97,7 @@ vs:
  - Babin, Jillian
  - Barbour, Shona
  - Barker, Penny
- - Baxter, Jen
+ - Baxter, Jennifer
  - Belisle, Eve
  - Birchard, Shannon
  - Black, Christina
@@ -131,7 +131,7 @@ vs:
  - Forward, Katie
  - Fullerton, Sarah
  - Fyfe, Liz
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Galusha, Kerry
  - Gates, Amanda
  - Gates, Jennifer
@@ -173,7 +173,6 @@ vs:
  - Miskew, Emma
  - Moore, Kristie
  - Nedohin, Heather
- - Njegovan, Selena
  - Nixon, Amy
  - Njegovan, Selena
  - Officer, Jill
@@ -202,7 +201,7 @@ vs:
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Sweeting, Val
- - Taylor, Susan
+ - Thevenot, Kara
  - Thiessen, Alison
  - Tran, Brittany
  - Van Osch, Kalia

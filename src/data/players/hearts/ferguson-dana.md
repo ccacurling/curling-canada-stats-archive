@@ -110,7 +110,7 @@ vs:
  - Atkinson, Rebecca
  - Babin, Jillian
  - Baier, Stephanie
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
@@ -119,13 +119,13 @@ vs:
  - Bodner, Jenine
  - Boudreault, Patricia
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Corryn
  - Burns, Krysta
  - Cameron, Kate
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Carey, Chelsea
  - Carmody, Erin
  - Christianson, Marie
@@ -227,7 +227,6 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
- - Taylor, Susan
  - Thevenot, Kara
  - Thomas-Kennell, Noelle
  - Titheridge, Lindsay

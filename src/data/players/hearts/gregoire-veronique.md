@@ -63,7 +63,7 @@ vs:
  - Bell, Chelsey
  - Birt, Suzanne
  - Bonar, Maureen
- - Bradley, Shelly
+ - Bradley, Shelley
  - Carter, Sasha
  - Cooke, Gerri
  - Cordina, Sheri

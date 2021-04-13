@@ -2,7 +2,7 @@
 title: Sarah Fullerton Head-to-head
 name: Fullerton, Sarah
 vs:
- - name: Gagnon, Emilia
+ - name: Gagne, Emilia
    totals:
     - event: Hearts
       player1:

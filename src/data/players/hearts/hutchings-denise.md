@@ -45,7 +45,7 @@ vs:
  - Duncan, Hollie
  - Duncan, Jenna
  - Englot, Michelle
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Gibson, Amy
  - Harvey, Marie-Pier
  - Inglis, Danielle

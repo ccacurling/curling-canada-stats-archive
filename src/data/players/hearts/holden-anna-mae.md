@@ -53,7 +53,7 @@ years:
    shots-total: 38
    shots-percent: 78
 vs:
- - Allen, Susan
+ - Allan, Susan
  - Bernard, Krista
  - Birt, Suzanne
  - Blashko, Denise

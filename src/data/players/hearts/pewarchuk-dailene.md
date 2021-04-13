@@ -140,7 +140,7 @@ vs:
  - Atkinson, Rebecca
  - Babin, Jillian
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Black, Christina
  - Blais, Amelie
  - Cameron, Nancy

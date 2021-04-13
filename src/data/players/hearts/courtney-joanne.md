@@ -130,7 +130,7 @@ vs:
  - Baier, Stephanie
  - Barbour, Shona
  - Barker, Penny
- - Baxter, Jen
+ - Baxter, Jennifer
  - Belisle, Eve
  - Birchard, Shannon
  - Birnie, Hailey
@@ -141,7 +141,7 @@ vs:
  - Bodner, Jenine
  - Boudreault, Patricia
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Corryn
@@ -149,7 +149,7 @@ vs:
  - Burgess, Karlee
  - Burns, Krysta
  - Cameron, Kate
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Carey, Chelsea
  - Carmody, Erin
  - Christianson, Marie
@@ -238,7 +238,6 @@ vs:
  - Moore, Kristie
  - Munroe, Anna
  - Murphy, Sarah
- - Njegovan, Selena
  - Nixon, Amy
  - Njegovan, Selena
  - Nugent, Pamela
@@ -284,7 +283,6 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
- - Taylor, Susan
  - Thevenot, Kara
  - Thiessen, Alison
  - Thomas-Kennell, Noelle

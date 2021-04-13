@@ -106,12 +106,12 @@ vs:
  - Anderson, Sherry
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Rachel
  - Clark-Rouire, Jennifer
  - Collins, Katrina

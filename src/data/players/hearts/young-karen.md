@@ -42,7 +42,7 @@ vs:
  - Baker, Michelle
  - Balderston, Marcy
  - Belanger, Nancy
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Jacalyn
  - Brown, Janet
  - Cameron, Nancy
@@ -79,5 +79,5 @@ vs:
  - Strong, Laura
  - Tasaka, Adina
  - Wheatcroft, Georgina
- - Whitaker, Lise
+ - Whitaker, Lisa
 ---

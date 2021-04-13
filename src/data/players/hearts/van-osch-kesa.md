@@ -57,7 +57,7 @@ vs:
  - Arnaud, Chloe
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Black, Christina
  - Brothers, Jill
@@ -85,7 +85,7 @@ vs:
  - Foster, Kristen
  - Fullerton, Sarah
  - Fyfe, Liz
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Gannon, Melissa
  - Gates, Amanda
  - Harvey, Marie-Pier

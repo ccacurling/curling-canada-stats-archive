@@ -63,7 +63,7 @@ vs:
  - Bell, Chelsey
  - Birt, Suzanne
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brine, Jenn
  - Brothers, Jill
  - Bush, Tracy
@@ -109,9 +109,9 @@ vs:
  - McEwen, Dawn
  - Mittelstadt, Candice
  - Murphy, Sarah
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Selena
  - Officer, Jill
  - O'Leary, Susan
  - Olson-Johns, Lori

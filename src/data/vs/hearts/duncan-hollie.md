@@ -142,7 +142,7 @@ vs:
       year: 2018
       draw: Pool(16)
       score: ON 5 - WC 7
- - name: Gagnon, Emilia
+ - name: Gagne, Emilia
    totals:
     - event: Hearts
       player1:

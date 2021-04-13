@@ -181,9 +181,9 @@ vs:
  - Blanchard, Judy
  - Bonar, Maureen
  - Bothwell-Myers, Connie
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brawley, Sandra
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brothers, Jill
  - Brown, Jacalyn
  - Brown, Katie
@@ -300,8 +300,8 @@ vs:
  - McCagg-Nystrom, Heather
  - McCallan, Berniece
  - McConnery, Nancy
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - McCubbin, Sandy
  - McCurdy, Susan
  - McCusker, Joan

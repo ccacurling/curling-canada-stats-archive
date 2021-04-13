@@ -236,7 +236,7 @@ vs:
  - Balderston, Marcy
  - Barbour, Shona
  - Barrack, Carmen
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beever, Jocelyn
  - Belanger, Nancy
  - Belisle, Eve
@@ -252,7 +252,7 @@ vs:
  - Blanchard, Judy
  - Bohmer, Brenda
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Brennan, Amanda
  - Brothers, Jill
@@ -265,7 +265,7 @@ vs:
  - Bush, Tracy
  - Byers, Denise
  - Cameron, Nancy
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Campbell, June
  - Carey, Chelsea
  - Carlos, Marie-Claude
@@ -511,7 +511,7 @@ vs:
  - Webster, Bronwen
  - Wheatcroft, Georgina
  - Whitaker, Carol
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Whitrow, Leanne
  - Wiltzen, Jan
  - Wylie, Jennifer

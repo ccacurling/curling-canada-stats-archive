@@ -72,7 +72,7 @@ vs:
  - Middaugh, Sherry
  - Mulroney, Sandra
  - Nicholls, Brenda
- - Nohr, Dianne
+ - Nohr, Diane
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
  - Phillips, Laura

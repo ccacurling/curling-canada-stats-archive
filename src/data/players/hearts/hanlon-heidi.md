@@ -238,7 +238,7 @@ vs:
  - Bonar, Maureen
  - Bowering, Andrea
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Brown, Katie
  - Brown, Marcie

@@ -58,7 +58,7 @@ vs:
  - Anderson, Kelly
  - Arnott, Janet
  - Barker, Catherine
- - Bennett, Connie
+ - Bennet, Connie
  - Blanchard, Judy
  - Boudreault, Tracie
  - Carney, Laurie
@@ -103,12 +103,12 @@ vs:
  - McCarville, Susan
  - McGeary, Lori
  - McInnis, Susan
- - Millar, Bev
+ - Millar, Beverley
  - Miller, Maureen
  - Moore, Linda
  - More, Chris
  - Moriarty, Monica
- - Noye, Marnie
+ - Noye, Marlene
  - O'Rourke, Kathy
  - Phillips, Laura
  - Pruden, Twyla

@@ -419,8 +419,8 @@ vs:
  - McConnery, Nancy
  - McCracken, Betty
  - McCrady, Christine
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - McCubbin, Sandy
  - McCusker, Joan
  - McDonald, Kristy

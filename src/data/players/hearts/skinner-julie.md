@@ -195,9 +195,9 @@ vs:
  - Betker, Jan
  - Blanchard, Judy
  - Bonar, Maureen
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brown, Jacalyn
  - Brown, Janet
  - Brown, Katie
@@ -355,7 +355,7 @@ vs:
  - Usher, Leanne
  - Walker, Lisa
  - Walter, Cathy
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Whitrow, Leanne
  - Wilson, Patty
  - Wright, Joanne

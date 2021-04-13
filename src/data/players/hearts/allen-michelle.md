@@ -106,7 +106,7 @@ vs:
  - Bell, Chelsey
  - Berthelot, Janique
  - Bohmer, Brenda
- - Bradley, Shelly
+ - Bradley, Shelley
  - Bush, Tracy
  - Clark, Stefanie
  - Comeau, Sandy

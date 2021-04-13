@@ -141,7 +141,7 @@ vs:
  - Arnaud, Chloe
  - Arsenault, Mary-Anne
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birnie, Hailey
  - Black, Christina
@@ -150,7 +150,7 @@ vs:
  - Brine, Jenn
  - Brothers, Jill
  - Cameron, Kate
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Carmody, Erin
  - Chislett, Geneva
  - Cooper, Kathryn
@@ -166,7 +166,7 @@ vs:
  - Fleury, Tracy
  - Fullerton, Sarah
  - Fyfe, Liz
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Galusha, Kerry
  - Gates, Amanda
  - Gibson, Amy

@@ -119,11 +119,11 @@ vs:
  - Birt, Suzanne
  - Blanchard, Judy
  - Bonar, Maureen
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Breen, Theresa
  - Brennan, Amanda
- - Brophy, Cathy
+ - Brophy, Kathy
  - Cameron, Nancy
  - Carey, Chelsea
  - Carrier, Julie

@@ -169,7 +169,7 @@ vs:
  - St-Georges, Laurie
  - Stewart, Sheri
  - Sweeting, Val
- - Taylor, Susan
+ - Thevenot, Kara
  - Tingley, Jaclyn
  - Verreault, Noemie
  - Walker, Laura

@@ -2826,7 +2826,7 @@ vs:
       year: 1985
       draw: Playoff(12)
       score: NL 8 - AB 2
- - name: McCrae, Betty
+ - name: McCrae, Elizabeth
    totals:
     - event: Hearts
       player1:
@@ -2854,7 +2854,7 @@ vs:
       year: 1985
       draw: Round Robin(9)
       score: TR 7 - NL 10
- - name: McCrae, Lou
+ - name: McCrae, Louise
    totals:
     - event: Hearts
       player1:
@@ -3022,7 +3022,7 @@ vs:
       year: 1990
       draw: Round Robin(4)
       score: NL 6 - ON 10
- - name: Millar, Bev
+ - name: Millar, Beverley
    totals:
     - event: Hearts
       player1:
@@ -3198,7 +3198,7 @@ vs:
       year: 1990
       draw: Round Robin(3)
       score: NL 5 - PE 3
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

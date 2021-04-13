@@ -100,7 +100,7 @@ vs:
  - Bartlett, Sue Anne
  - Betker, Jan
  - Blanchard, Judy
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brown, Katie
  - Burgess, Judy
  - Cameron, Nancy

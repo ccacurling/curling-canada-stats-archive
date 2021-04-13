@@ -1646,7 +1646,7 @@ vs:
       year: 2004
       draw: Round Robin(14)
       score: AB 4 - MB 8
- - name: Nohr, Dianne
+ - name: Nohr, Diane
    totals:
     - event: Hearts
       player1:

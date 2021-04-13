@@ -39,11 +39,11 @@ vs:
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Ayrey, Jinaye
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Birt, Suzanne
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Carter, Sasha
  - Cormier, Sharon
  - Crawford, Andrea

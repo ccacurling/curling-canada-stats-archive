@@ -60,7 +60,7 @@ vs:
  - Arsenault-Bishop, Nicole
  - Barbour, Shona
  - Barron, Lauren
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
@@ -114,7 +114,7 @@ vs:
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Sweeting, Val
- - Taylor, Susan
+ - Thevenot, Kara
  - Tingley, Jaclyn
  - Tuor, Kimberly
  - Weagle, Lisa

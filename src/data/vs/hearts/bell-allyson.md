@@ -174,7 +174,7 @@ vs:
       year: 1993
       draw: Playoff(18)
       score: ON 4 - MB 8
- - name: Brophy, Cathy
+ - name: Brophy, Kathy
    totals:
     - event: Hearts
       player1:
@@ -1618,7 +1618,7 @@ vs:
       year: 1996
       draw: Round Robin(7)
       score: MB 5 - QC 7
- - name: Nohr, Dianne
+ - name: Nohr, Diane
    totals:
     - event: Hearts
       player1:

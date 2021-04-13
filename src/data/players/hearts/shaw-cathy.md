@@ -102,8 +102,8 @@ vs:
  - Marchuk, Lindy
  - Martin, Lillian
  - McCallan, Berniece
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - McCubbin, Sandy
  - McIntee, Karen
  - McKendry, Shirley

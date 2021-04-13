@@ -217,9 +217,9 @@ vs:
  - Bodogh, Marilyn
  - Bonar, Maureen
  - Bowering, Andrea
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brothers, Jill
  - Brown, Jacalyn
  - Brown, Janet
@@ -442,7 +442,7 @@ vs:
  - Walter, Cathy
  - Werenka, Lil
  - Whitaker, Carol
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Whitrow, Leanne
  - Wright, Susan
  - Young, Karen

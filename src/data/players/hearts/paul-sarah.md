@@ -41,7 +41,7 @@ vs:
  - Barbour, Shona
  - Bell, Chelsey
  - Birt, Suzanne
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Carter, Sasha
  - Crawford, Andrea

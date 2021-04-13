@@ -118,7 +118,7 @@ vs:
       year: 1986
       draw: Playoff(16)
       score: CA 3 - NL 2
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

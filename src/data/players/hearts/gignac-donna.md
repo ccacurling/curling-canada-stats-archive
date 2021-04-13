@@ -88,7 +88,7 @@ years:
    shots-percent: 80
 vs:
  - Affleck, Tricia
- - Allen, Susan
+ - Allan, Susan
  - Allerton, Dana
  - Arnott, Janet
  - Arsenault, Mary-Anne
@@ -108,7 +108,7 @@ vs:
  - Boily, Caroline
  - Bonar, Maureen
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Brown, Janet
  - Brown, Maureen

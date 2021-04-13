@@ -58,7 +58,7 @@ vs:
  - Barker, Catherine
  - Barrette, Peggy
  - Bartlett, Sue Anne
- - Bennett, Connie
+ - Bennet, Connie
  - Blanchard, Judy
  - Boudreault, Tracie
  - Brown, Marcie
@@ -106,13 +106,13 @@ vs:
  - McArdle, Cindy
  - McCarville, Susan
  - McInnis, Susan
- - Millar, Bev
+ - Millar, Beverley
  - Miller, Maureen
  - Moore, Linda
  - More, Chris
  - Moriarty, Monica
  - Moses, Dawn
- - Noye, Marnie
+ - Noye, Marlene
  - Osborne, Chantal
  - Porter, Debbie
  - Raby, Odette

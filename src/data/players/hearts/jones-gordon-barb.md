@@ -62,7 +62,7 @@ vs:
  - Aulenback, Wanda
  - Baldwin, Laurel
  - Barker, Catherine
- - Bennett, Connie
+ - Bennet, Connie
  - Bond, Arlene
  - Bradley, Diane
  - Buckway, Beverly
@@ -110,11 +110,11 @@ vs:
  - McIntee, Karen
  - McKendry, Shirley
  - Mellis, Sheila
- - Millar, Bev
+ - Millar, Beverley
  - Miller, Maureen
  - Moore, Linda
  - More, Chris
- - Noye, Marnie
+ - Noye, Marlene
  - Ouellet, Louise
  - Parker, Barbara
  - Quinn, Lori

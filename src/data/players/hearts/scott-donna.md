@@ -156,7 +156,7 @@ vs:
  - Bodogh, Marilyn
  - Bonar, Maureen
  - Bowering, Andrea
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brown, Katie
  - Burgess, Judy
  - Burry, Gail
@@ -262,7 +262,7 @@ vs:
  - McPherson, Cheryl
  - Messer, Janyce
  - Middaugh, Sherry
- - Millar, Bev
+ - Millar, Beverley
  - Moore, Linda
  - Moyaert, June
  - Mulroney, Sandra
@@ -271,7 +271,7 @@ vs:
  - Nelthorpe, Sally
  - Nicholls, Brenda
  - Nicholson, Terry
- - Noye, Marnie
+ - Noye, Marlene
  - O'Rourke, Kathy
  - Overton, Kim
  - Overton-Clapham, Cathy

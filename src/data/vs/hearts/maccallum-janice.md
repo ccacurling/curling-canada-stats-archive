@@ -2470,7 +2470,7 @@ vs:
       year: 2004
       draw: Round Robin(9)
       score: BC 11 - PE 2
- - name: Whitaker, Lise
+ - name: Whitaker, Lisa
    totals:
     - event: Hearts
       player1:

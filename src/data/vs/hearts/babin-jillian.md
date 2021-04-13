@@ -258,7 +258,7 @@ vs:
       year: 2012
       draw: Round Robin(3)
       score: NB 8 - QC 7
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:
@@ -2458,7 +2458,7 @@ vs:
       year: 2012
       draw: Round Robin(8)
       score: AB 5 - NB 8
- - name: Makichuck, Lindsay
+ - name: Makichuk, Lindsay
    totals:
     - event: Hearts
       player1:
@@ -4294,18 +4294,34 @@ vs:
       year: 2020
       draw: Round Robin(10)
       score: MB 7 - NB 13
- - name: Taylor, Susan
+ - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:
-        percent: 67
+        percent: 71
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 77
-        wins: 2
+        percent: 75
+        wins: 3
         losses: 0
    games:
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(4)
+      score: SK 6 - NB 4
     - player1:
         team: 'NB'
         position: Second
@@ -4338,34 +4354,6 @@ vs:
       year: 2020
       draw: Tie-Breaker(15)
       score: SK 9 - NB 7
- - name: Thevenot, Kara
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 0
-        losses: 1
-      player2:
-        percent: 70
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Third
-        percent: 78
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Lead
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(4)
-      score: SK 6 - NB 4
  - name: Thomas, Jill
    totals:
     - event: Hearts

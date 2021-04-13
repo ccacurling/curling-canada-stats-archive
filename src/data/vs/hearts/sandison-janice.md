@@ -226,7 +226,7 @@ vs:
       year: 2001
       draw: Round Robin(15)
       score: CA 9 - MB 8
- - name: Whitaker, Lise
+ - name: Whitaker, Lisa
    totals:
     - event: Hearts
       player1:

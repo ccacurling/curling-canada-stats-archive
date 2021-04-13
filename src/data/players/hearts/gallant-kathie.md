@@ -194,8 +194,8 @@ vs:
  - Mattatall, Mary
  - McCallan, Berniece
  - McCracken, Betty
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - McCubbin, Sandy
  - Moore, Linda
  - More, Chris

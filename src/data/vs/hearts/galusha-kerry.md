@@ -4394,34 +4394,6 @@ vs:
       year: 2017
       draw: Round Robin(15)
       score: AB 3 - NT 4
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 47
-        wins: 0
-        losses: 1
-      player2:
-        percent: 91
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NT'
-        position: Fourth
-        percent: 47
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Third
-        percent: 91
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(12)
-      score: NT 3 - WC 9
  - name: Nicholls, Brenda
    totals:
     - event: Hearts
@@ -4538,6 +4510,34 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: NT 4 - CA 7
+ - name: Njegovan, Selena
+   totals:
+    - event: Hearts
+      player1:
+        percent: 47
+        wins: 0
+        losses: 1
+      player2:
+        percent: 91
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 47
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(12)
+      score: NT 3 - WC 9
  - name: Nowlan, Denise
    totals:
     - event: Hearts
@@ -8250,7 +8250,7 @@ vs:
       year: 2008
       draw: Round Robin(12)
       score: PE 9 - TR 8
- - name: Whitaker, Lise
+ - name: Whitaker, Lisa
    totals:
     - event: Hearts
       player1:

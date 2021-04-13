@@ -72,7 +72,7 @@ years:
 vs:
  - Affleck, Tricia
  - Aleksic, Shannon
- - Allen, Susan
+ - Allan, Susan
  - Allerton, Dana
  - Anderson, Sherry
  - Arnott, Janet

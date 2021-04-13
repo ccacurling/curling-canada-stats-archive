@@ -61,7 +61,7 @@ vs:
  - Silvernagle, Robyn
  - Sippala, Ashley
  - Sweeting, Val
- - Taylor, Susan
+ - Thevenot, Kara
  - Walker, Laura
  - Wilkes, Sarah
 ---

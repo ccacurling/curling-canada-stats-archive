@@ -100,7 +100,7 @@ vs:
  - Blanchard, Judy
  - Bodogh, Marilyn
  - Bowering, Andrea
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brown, Katie
  - Burgess, Judy
  - Burry, Gail
@@ -186,14 +186,14 @@ vs:
  - McHugh, Cindy
  - McPherson, Cheryl
  - Messer, Janyce
- - Millar, Bev
+ - Millar, Beverley
  - Moore, Linda
  - Moyaert, June
  - Muzika, Shelley
  - Narduzzi, Joyce
  - Nelthorpe, Sally
  - Nicholson, Terry
- - Noye, Marnie
+ - Noye, Marlene
  - Pinkney, Colleen
  - Poisson, Francine
  - Porter, Debbie

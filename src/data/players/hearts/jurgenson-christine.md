@@ -196,7 +196,7 @@ vs:
  - McGeary, Lori
  - McInnis, Susan
  - Messer, Janyce
- - Millar, Bev
+ - Millar, Beverley
  - Montgomery, Kay
  - Moore, Kim
  - Moore, Linda
@@ -205,7 +205,7 @@ vs:
  - Muzika, Shelley
  - Narduzzi, Joyce
  - Nedohin, Heather
- - Noye, Marnie
+ - Noye, Marlene
  - Ondrack, Wendy
  - Osborne, Chantal
  - Overton-Clapham, Cathy

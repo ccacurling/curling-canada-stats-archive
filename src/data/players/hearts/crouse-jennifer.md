@@ -114,7 +114,7 @@ vs:
  - Belisle, Eve
  - Bernard, Cheryl
  - Birchard, Shannon
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Jacalyn
  - Cameron, Kate
  - Carmody, Erin
@@ -167,7 +167,7 @@ vs:
  - MacInnes, Grace
  - MacLean, Kari
  - MacPhee, Robyn
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Mallett, Marla
  - McCagg-Nystrom, Heather
  - McCarville, Krista
@@ -179,8 +179,8 @@ vs:
  - Moses, Dawn
  - Muzika, Shelley
  - Naugler, Tara
- - Njegovan, Selena
  - Nicholls, Brenda
+ - Njegovan, Selena
  - Nowlan, Denise
  - O'Connor, Susan
  - Officer, Jill

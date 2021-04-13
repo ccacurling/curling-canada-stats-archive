@@ -59,11 +59,11 @@ vs:
  - Ayrey, Jinaye
  - Babin, Jillian
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Birt, Suzanne
  - Blais, Amelie
- - Bradley, Shelly
+ - Bradley, Shelley
  - Cameron, Nancy
  - Carter, Sasha
  - Cheveldave, Amber

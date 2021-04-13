@@ -96,12 +96,12 @@ vs:
  - Ayrey, Jinaye
  - Baier, Stephanie
  - Balderston, Marcy
- - Baxter, Jen
+ - Baxter, Jennifer
  - Bell, Chelsey
  - Berthelot, Janique
  - Birt, Suzanne
  - Bohmer, Brenda
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brothers, Jill
  - Brown, Rachel
  - Bush, Tracy

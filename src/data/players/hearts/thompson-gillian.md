@@ -58,7 +58,7 @@ vs:
  - Augustyn, Jan
  - Barker, Catherine
  - Bartlett, Sue Anne
- - Bennett, Connie
+ - Bennet, Connie
  - Blair, Diane
  - Bodogh, Marilyn
  - Boudreault, Tracie
@@ -102,13 +102,13 @@ vs:
  - McCallan, Berniece
  - McCarville, Susan
  - McEdwards, Kathy
- - Millar, Bev
+ - Millar, Beverley
  - Miller, Maureen
  - Moore, Linda
  - More, Chris
  - Moriarty, Monica
  - Narduzzi, Joyce
- - Noye, Marnie
+ - Noye, Marlene
  - Porter, Debbie
  - Potvin, Gisele
  - Raby, Odette

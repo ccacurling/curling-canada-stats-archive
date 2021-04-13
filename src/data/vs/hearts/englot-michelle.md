@@ -334,7 +334,7 @@ vs:
       year: 1990
       draw: Round Robin(4)
       score: SK 10 - QC 3
- - name: Gagnon, Emilia
+ - name: Gagne, Emilia
    totals:
     - event: Hearts
       player1:
@@ -4034,34 +4034,6 @@ vs:
       year: 1988
       draw: Round Robin(13)
       score: SK 7 - QC 5
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 80
-        wins: 1
-        losses: 0
-      player2:
-        percent: 75
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'CA'
-        position: Fourth
-        percent: 80
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Third
-        percent: 75
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Pool(19)
-      score: WC 5 - CA 8
  - name: Nicholls, Brenda
    totals:
     - event: Hearts
@@ -4218,6 +4190,34 @@ vs:
       year: 2017
       draw: Round Robin(10)
       score: MB 7 - CA 8
+ - name: Njegovan, Selena
+   totals:
+    - event: Hearts
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Pool(19)
+      score: WC 5 - CA 8
  - name: Officer, Jill
    totals:
     - event: Hearts
@@ -7258,7 +7258,7 @@ vs:
       year: 2008
       draw: Round Robin(16)
       score: SK 8 - PE 1
- - name: Whitaker, Lise
+ - name: Whitaker, Lisa
    totals:
     - event: Hearts
       player1:

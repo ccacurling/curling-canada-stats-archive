@@ -366,7 +366,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 65
+        percent: 64
         wins: 0
         losses: 1
    games:
@@ -378,8 +378,8 @@ vs:
         loss: 0
       player2:
         team: 'WC'
-        position: Third
-        percent: 65
+        position: Second
+        percent: 64
         win: 0
         loss: 1
       event: Hearts
@@ -790,7 +790,7 @@ vs:
         wins: 0
         losses: 1
       player2:
-        percent: 83
+        percent: 81
         wins: 1
         losses: 0
    games:
@@ -802,8 +802,8 @@ vs:
         loss: 1
       player2:
         team: 'ON'
-        position: Lead
-        percent: 83
+        position: Fourth
+        percent: 81
         win: 1
         loss: 0
       event: Hearts
@@ -3394,34 +3394,6 @@ vs:
       year: 2019
       draw: Round Robin(5)
       score: ON 6 - NS 3
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 85
-        wins: 0
-        losses: 1
-      player2:
-        percent: 73
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'ON'
-        position: Second
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Third
-        percent: 73
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(9)
-      score: MB 6 - ON 5
  - name: Nixon, Amy
    totals:
     - event: Hearts
@@ -3454,14 +3426,30 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 90
+        percent: 88
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 80
-        wins: 0
+        percent: 76
+        wins: 1
         losses: 1
    games:
+    - player1:
+        team: 'ON'
+        position: Second
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 73
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(9)
+      score: MB 6 - ON 5
     - player1:
         team: 'ON'
         position: Lead
@@ -5146,45 +5134,17 @@ vs:
       year: 2021
       draw: Final(26)
       score: ON 7 - CA 9
- - name: Taylor, Susan
-   totals:
-    - event: Hearts
-      player1:
-        percent: 89
-        wins: 1
-        losses: 0
-      player2:
-        percent: 73
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'ON'
-        position: Second
-        percent: 89
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Lead
-        percent: 73
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Pool(18)
-      score: SK 4 - ON 9
  - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:
-        percent: 79
-        wins: 1
+        percent: 82
+        wins: 2
         losses: 1
       player2:
-        percent: 89
+        percent: 85
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'ON'
@@ -5218,6 +5178,22 @@ vs:
       year: 2019
       draw: Semi-Final(22)
       score: ON 9 - SK 7
+    - player1:
+        team: 'ON'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Pool(18)
+      score: SK 4 - ON 9
  - name: Thiessen, Alison
    totals:
     - event: Hearts

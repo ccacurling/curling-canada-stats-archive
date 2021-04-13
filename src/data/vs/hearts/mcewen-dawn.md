@@ -874,98 +874,6 @@ vs:
       year: 2013
       draw: Semi-Final(20)
       score: MB 8 - CA 5
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 91
-        wins: 4
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 4
-   games:
-    - player1:
-        team: 'CA'
-        position: Lead
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Third
-        percent: 78
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(15)
-      score: MB 4 - CA 8
-    - player1:
-        team: 'CA'
-        position: Lead
-        percent: 96
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Third
-        percent: 76
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Bronze(21)
-      score: CA 8 - MB 7
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent: 98
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Third
-        percent: 72
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(14)
-      score: MB 4 - WC 9
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Third
-        percent: 89
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Page 1-2(22)
-      score: WC 7 - MB 9
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Third
-        percent: 81
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Final(24)
-      score: WC 6 - MB 8
  - name: Nicholls, Brenda
    totals:
     - event: Hearts
@@ -1178,6 +1086,98 @@ vs:
       year: 2016
       draw: Page 1-2(18)
       score: CA 5 - AB 7
+ - name: Njegovan, Selena
+   totals:
+    - event: Hearts
+      player1:
+        percent: 91
+        wins: 4
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 4
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(15)
+      score: MB 4 - CA 8
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 96
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 76
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Bronze(21)
+      score: CA 8 - MB 7
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 98
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 72
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(14)
+      score: MB 4 - WC 9
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 89
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Page 1-2(22)
+      score: WC 7 - MB 9
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Final(24)
+      score: WC 6 - MB 8
  - name: Nowlan, Denise
    totals:
     - event: Hearts
@@ -4466,45 +4466,17 @@ vs:
       year: 2020
       draw: Page 1-2(21)
       score: WC 4 - MB 6
- - name: Taylor, Susan
-   totals:
-    - event: Hearts
-      player1:
-        percent: 88
-        wins: 1
-        losses: 0
-      player2:
-        percent: 89
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'WC'
-        position: Lead
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Lead
-        percent: 89
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Pool(17)
-      score: WC 8 - SK 3
  - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:
-        percent: 76
-        wins: 1
+        percent: 81
+        wins: 2
         losses: 0
       player2:
-        percent: 81
+        percent: 85
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'CA'
@@ -4522,6 +4494,22 @@ vs:
       year: 2019
       draw: Round Robin(2)
       score: SK 5 - CA 6
+    - player1:
+        team: 'WC'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Pool(17)
+      score: WC 8 - SK 3
  - name: Thomas, Jill
    totals:
     - event: Hearts

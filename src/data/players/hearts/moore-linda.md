@@ -77,7 +77,7 @@ vs:
  - Bartlett, Sue Anne
  - Beaudin, Yvonne
  - Bell, Mary Susan
- - Bennett, Connie
+ - Bennet, Connie
  - Bildfell, Shelly
  - Blair, Diane
  - Bodogh, Marilyn
@@ -147,16 +147,16 @@ vs:
  - McCallan, Berniece
  - McCarville, Susan
  - McCracken, Betty
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - McEdwards, Kathy
  - McGeary, Lori
- - Millar, Bev
+ - Millar, Beverley
  - Miller, Maureen
  - More, Chris
  - Moriarty, Monica
  - Narduzzi, Joyce
- - Noye, Marnie
+ - Noye, Marlene
  - Porter, Debbie
  - Potvin, Gisele
  - Raby, Odette

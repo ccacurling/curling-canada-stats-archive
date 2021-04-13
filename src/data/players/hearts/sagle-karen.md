@@ -56,7 +56,7 @@ vs:
  - Arnaud, Chloe
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
@@ -77,7 +77,7 @@ vs:
  - Fleury, Tracy
  - Fullerton, Sarah
  - Fyfe, Liz
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Gates, Amanda
  - Gibson, Amy
  - Hamon, Callan
@@ -99,9 +99,9 @@ vs:
  - McTaggart, Cary-Anne
  - Moore, Kristie
  - Murphy, Sarah
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Selena
  - Officer, Jill
  - Perron, Melina
  - Peterman, Jocelyn

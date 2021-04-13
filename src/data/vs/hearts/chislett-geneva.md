@@ -198,7 +198,7 @@ vs:
       year: 2018
       draw: Round Robin(13)
       score: NU 4 - PE 12
- - name: Gagnon, Emilia
+ - name: Gagne, Emilia
    totals:
     - event: Hearts
       player1:

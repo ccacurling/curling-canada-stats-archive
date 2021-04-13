@@ -1042,45 +1042,17 @@ vs:
       year: 2021
       draw: Pool(23)
       score: CA 9 - MB 10
- - name: Taylor, Susan
-   totals:
-    - event: Hearts
-      player1:
-        percent: 92
-        wins: 1
-        losses: 0
-      player2:
-        percent: 89
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'WC'
-        position: Second
-        percent: 92
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Lead
-        percent: 89
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Pool(17)
-      score: WC 8 - SK 3
  - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:
-        percent: 70
-        wins: 1
+        percent: 80
+        wins: 2
         losses: 0
       player2:
-        percent: 81
+        percent: 85
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'CA'
@@ -1098,6 +1070,22 @@ vs:
       year: 2019
       draw: Round Robin(2)
       score: SK 5 - CA 6
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Pool(17)
+      score: WC 8 - SK 3
  - name: Thiessen, Alison
    totals:
     - event: Hearts

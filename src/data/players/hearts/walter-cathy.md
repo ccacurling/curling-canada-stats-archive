@@ -86,7 +86,7 @@ vs:
  - Bodogh, Marilyn
  - Bonar, Maureen
  - Bothwell-Myers, Connie
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brawley, Sandra
  - Breen, Theresa
  - Bussieres, Helene
@@ -140,20 +140,20 @@ vs:
  - MacLean, Jean
  - Martin, Lillian
  - McCallan, Berniece
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - McCubbin, Sandy
  - McEdwards, Kathy
  - McGeary, Lori
  - McGregor, Rona
  - McKnight, Patti
  - Merklinger, Anne
- - Millar, Bev
+ - Millar, Beverley
  - Moore, Kristie
  - Moore, Linda
  - Narduzzi, Joyce
  - Nedohin, Heather
- - Noye, Marnie
+ - Noye, Marlene
  - Overton-Clapham, Cathy
  - Peters, Laine
  - Phillips, Margaret Lea

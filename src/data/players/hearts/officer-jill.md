@@ -290,7 +290,7 @@ vs:
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belanger, Nancy
  - Belisle, Eve
@@ -302,7 +302,7 @@ vs:
  - Black, Christina
  - Blais, Amelie
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Brennan, Amanda
  - Brine, Jenn
@@ -313,7 +313,7 @@ vs:
  - Bush, Tracy
  - Cameron, Kate
  - Cameron, Nancy
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
@@ -435,7 +435,7 @@ vs:
  - MacLean, Kari
  - MacPhee, Robyn
  - Mair, Jessica
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Mallett, Marla
  - Mann, Lauren
  - Martin, Heather
@@ -466,10 +466,10 @@ vs:
  - Muzika, Shelley
  - Naugler, Tara
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
+ - Njegovan, Selena
  - Nowlan, Denise
  - Nugent, Pamela
  - O'Connor, Susan

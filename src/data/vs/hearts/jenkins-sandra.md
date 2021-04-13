@@ -594,7 +594,7 @@ vs:
       year: 1993
       draw: Round Robin(8)
       score: AB 7 - NB 3
- - name: McCrae, Betty
+ - name: McCrae, Elizabeth
    totals:
     - event: Hearts
       player1:
@@ -638,7 +638,7 @@ vs:
       year: 1983
       draw: Playoff(12)
       score: AB 9 - TR 7
- - name: McCrae, Lou
+ - name: McCrae, Louise
    totals:
     - event: Hearts
       player1:

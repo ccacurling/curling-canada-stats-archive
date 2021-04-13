@@ -80,11 +80,11 @@ vs:
  - Babin, Jillian
  - Baier, Stephanie
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Bell, Chelsey
  - Birt, Suzanne
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Brothers, Jill
  - Brown, Rachel

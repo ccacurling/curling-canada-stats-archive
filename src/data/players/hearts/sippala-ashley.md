@@ -167,7 +167,7 @@ vs:
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacPhee, Robyn
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Mallett, Marla
  - Mann, Lauren
  - Mattatall, Mary
@@ -180,9 +180,9 @@ vs:
  - More, Whitney
  - Murphy, Sarah
  - Naugler, Tara
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Selena
  - Nowlan, Denise
  - O'Connor, Susan
  - Officer, Jill
@@ -217,7 +217,7 @@ vs:
  - Silvernagle, Robyn
  - Sobey, Lianne
  - Sweeting, Val
- - Taylor, Susan
+ - Thevenot, Kara
  - Thiessen, Alison
  - Thomas, Jill
  - Thompson, Karla

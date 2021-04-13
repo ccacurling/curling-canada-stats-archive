@@ -136,7 +136,7 @@ vs:
  - Barbour, Shona
  - Barker, Penny
  - Barron, Lauren
- - Baxter, Jen
+ - Baxter, Jennifer
  - Belisle, Eve
  - Birchard, Shannon
  - Birnie, Hailey
@@ -173,7 +173,7 @@ vs:
  - Fisher, Sam
  - Forward, Katie
  - Fyfe, Liz
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Galusha, Kerry
  - Gates, Jennifer
  - Gibson, Amy
@@ -227,7 +227,6 @@ vs:
  - Moore, Kristie
  - Murphy, Sarah
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
  - Njegovan, Selena
@@ -267,7 +266,6 @@ vs:
  - St-Georges, Laurie
  - Strong, Helen
  - Sweeting, Val
- - Taylor, Susan
  - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla

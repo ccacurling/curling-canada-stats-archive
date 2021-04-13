@@ -295,8 +295,8 @@ vs:
  - Affleck, Tricia
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
+ - Allan, Susan
  - Allen, Laurie
- - Allen, Susan
  - Allerton, Dana
  - Anderson, Sherry
  - Armstrong, Jacquie
@@ -307,7 +307,7 @@ vs:
  - Ayrey, Jinaye
  - Babin, Jillian
  - Barker, Penny
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Beever, Jocelyn
  - Belisle, Eve
@@ -325,10 +325,10 @@ vs:
  - Bohmer, Brenda
  - Bonar, Maureen
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Briand, Oye-Sem Won
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brown, Janet
  - Bryant, Angie
  - Byers, Denise
@@ -462,7 +462,7 @@ vs:
  - MacNutt, Shelley
  - MacPhee, Robyn
  - Mair, Jessica
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Mallett, Marla
  - Mann, Lauren
  - Marchand, Karine

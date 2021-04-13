@@ -39,7 +39,7 @@ vs:
  - Adams, Diane
  - Aucoin, Shelley
  - Bacon, Kathy
- - Brophy, Cathy
+ - Brophy, Kathy
  - Chapman, Kathy
  - Cleutinx, Marlene
  - Clinch, Donna

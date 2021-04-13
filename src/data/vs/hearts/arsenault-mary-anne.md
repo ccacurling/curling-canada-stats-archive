@@ -1186,7 +1186,7 @@ vs:
       year: 2015
       draw: Round Robin(7)
       score: NB 4 - NS 5
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:
@@ -1350,7 +1350,7 @@ vs:
       year: 2008
       draw: Round Robin(12)
       score: NS 6 - BC 9
- - name: Brophy, Cathy
+ - name: Brophy, Kathy
    totals:
     - event: Hearts
       player1:
@@ -1770,7 +1770,7 @@ vs:
       year: 2006
       draw: Round Robin(14)
       score: NS 6 - PE 1
- - name: Camozzi, Rhona
+ - name: Camozzi, Rhonda
    totals:
     - event: Hearts
       player1:
@@ -9902,50 +9902,6 @@ vs:
       year: 2013
       draw: Round Robin(3)
       score: CA 7 - NS 6
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 0
-        losses: 2
-      player2:
-        percent: 88
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent: 84
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Third
-        percent: 90
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(4)
-      score: WC 7 - NS 5
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent: 74
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Third
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Semi-Final(23)
-      score: WC 12 - NS 9
  - name: Nicholls, Brenda
    totals:
     - event: Hearts
@@ -10046,6 +10002,50 @@ vs:
       year: 2008
       draw: Round Robin(7)
       score: NS 7 - AB 9
+ - name: Njegovan, Selena
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 0
+        losses: 2
+      player2:
+        percent: 88
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Fourth
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(4)
+      score: WC 7 - NS 5
+    - player1:
+        team: 'NS'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Semi-Final(23)
+      score: WC 12 - NS 9
  - name: Nowlan, Denise
    totals:
     - event: Hearts
@@ -14134,7 +14134,7 @@ vs:
       year: 2008
       draw: Round Robin(2)
       score: PE 9 - NS 3
- - name: Whitaker, Lise
+ - name: Whitaker, Lisa
    totals:
     - event: Hearts
       player1:

@@ -1162,7 +1162,7 @@ vs:
       year: 2011
       draw: Round Robin(8)
       score: NL 5 - AB 8
- - name: Nohr, Dianne
+ - name: Nohr, Diane
    totals:
     - event: Hearts
       player1:

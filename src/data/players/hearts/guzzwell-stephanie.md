@@ -61,7 +61,7 @@ vs:
  - Bell, Chelsey
  - Birnie, Hailey
  - Birt, Suzanne
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Carter, Sasha
  - Christianson, Marie

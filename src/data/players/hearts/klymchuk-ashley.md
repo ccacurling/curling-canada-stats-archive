@@ -38,7 +38,7 @@ years:
 vs:
  - Arsenault, Mary-Anne
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
@@ -76,7 +76,7 @@ vs:
  - Silvernagle, Robyn
  - Sippala, Ashley
  - Sweeting, Val
- - Taylor, Susan
+ - Thevenot, Kara
  - Tuor, Kimberly
  - Weagle, Lisa
  - Wilkes, Sarah

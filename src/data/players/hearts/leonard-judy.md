@@ -66,7 +66,7 @@ vs:
  - Martin, Heather
  - McInnis, Susan
  - Nicholls, Brenda
- - Nohr, Dianne
+ - Nohr, Diane
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
  - Pendergast, Judy

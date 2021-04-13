@@ -193,8 +193,8 @@ vs:
  - Affleck, Tricia
  - Alexander, Diane
  - Allardyce, Kathie
+ - Allan, Susan
  - Allen, Laurie
- - Allen, Susan
  - Allerton, Dana
  - Anderson, Sherry
  - Arnott, Janet
@@ -222,7 +222,7 @@ vs:
  - Boily, Caroline
  - Bonar, Maureen
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Brown, Janet
  - Brown, Katie
@@ -383,7 +383,7 @@ vs:
  - Nedohin, Heather
  - Nicholls, Brenda
  - Nixon, Amy
- - Nohr, Dianne
+ - Nohr, Diane
  - Nowlan, Denise
  - Ondrack, Wendy
  - O'Rourke, Kathy

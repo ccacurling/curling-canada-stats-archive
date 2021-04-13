@@ -566,7 +566,7 @@ vs:
       year: 2009
       draw: Round Robin(7)
       score: PE 8 - NS 6
- - name: Makichuck, Lindsay
+ - name: Makichuk, Lindsay
    totals:
     - event: Hearts
       player1:

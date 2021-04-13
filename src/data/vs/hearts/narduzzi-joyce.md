@@ -2,7 +2,7 @@
 title: Joyce Narduzzi Head-to-head
 name: Narduzzi, Joyce
 vs:
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

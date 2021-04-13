@@ -2,7 +2,7 @@
 title: Val Sweeting Head-to-head
 name: Sweeting, Val
 vs:
- - name: Taylor, Susan
+ - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:

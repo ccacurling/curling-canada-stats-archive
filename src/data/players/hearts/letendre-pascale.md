@@ -90,7 +90,7 @@ vs:
  - Arsenault, Mary-Anne
  - Bell, Chelsey
  - Birt, Suzanne
- - Bradley, Shelly
+ - Bradley, Shelley
  - Bush, Tracy
  - Carter, Sasha
  - Christianson, Marie
@@ -120,8 +120,8 @@ vs:
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
  - Mittelstadt, Candice
- - Njegovan, Selena
  - Nicholls, Brenda
+ - Njegovan, Selena
  - Officer, Jill
  - O'Leary, Susan
  - Olson-Johns, Lori

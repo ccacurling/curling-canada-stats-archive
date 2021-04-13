@@ -209,7 +209,7 @@ vs:
  - Barrette, Peggy
  - Bartlett, Sue Anne
  - Bell, Allyson
- - Bennett, Connie
+ - Bennet, Connie
  - Bernard, Cheryl
  - Bernard, Krista
  - Berthelot, Janique
@@ -224,9 +224,9 @@ vs:
  - Bonar, Maureen
  - Boudreault, Tracie
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brothers, Jill
  - Brown, Marcie
  - Brown, Maureen
@@ -367,7 +367,7 @@ vs:
  - McNamee, Karen
  - Merklinger, Anne
  - Middaugh, Sherry
- - Millar, Bev
+ - Millar, Beverley
  - Miller, Maureen
  - Miller, Wendy
  - Montgomery, Kay
@@ -383,9 +383,9 @@ vs:
  - Muzika, Shelley
  - Nedohin, Heather
  - Nicholls, Brenda
- - Nohr, Dianne
+ - Nohr, Diane
  - Nowlan, Denise
- - Noye, Marnie
+ - Noye, Marlene
  - O'Connor, Susan
  - O'Leary, Susan
  - Ondrack, Wendy

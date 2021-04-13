@@ -202,7 +202,7 @@ vs:
  - Bonar, Maureen
  - Bowering, Andrea
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brown, Janet
  - Brown, Katie
  - Bryant, Angie

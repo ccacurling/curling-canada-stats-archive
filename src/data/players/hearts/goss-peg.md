@@ -127,7 +127,7 @@ years:
 vs:
  - Adams, Diane
  - Affleck, Tricia
- - Allen, Susan
+ - Allan, Susan
  - Allerton, Dana
  - Anderson, Sherry
  - Arsenault, Mary-Anne

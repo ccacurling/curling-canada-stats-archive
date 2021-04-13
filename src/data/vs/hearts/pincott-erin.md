@@ -282,7 +282,7 @@ vs:
       year: 2020
       draw: Pool(16)
       score: MB 8 - BC 4
- - name: Taylor, Susan
+ - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:

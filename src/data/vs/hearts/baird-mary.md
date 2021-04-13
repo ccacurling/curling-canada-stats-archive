@@ -2,7 +2,7 @@
 title: Mary Baird Head-to-head
 name: Baird, Mary
 vs:
- - name: Brophy, Cathy
+ - name: Brophy, Kathy
    totals:
     - event: Hearts
       player1:

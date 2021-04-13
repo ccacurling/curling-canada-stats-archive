@@ -3942,7 +3942,7 @@ vs:
       year: 2010
       draw: Semi-Final(21)
       score: ON 6 - PE 10
- - name: Makichuck, Lindsay
+ - name: Makichuk, Lindsay
    totals:
     - event: Hearts
       player1:
@@ -4850,7 +4850,7 @@ vs:
       year: 2004
       draw: Round Robin(1)
       score: AB 10 - PE 6
- - name: Nohr, Dianne
+ - name: Nohr, Diane
    totals:
     - event: Hearts
       player1:
@@ -6966,7 +6966,7 @@ vs:
       year: 1996
       draw: Round Robin(5)
       score: PE 5 - NB 6
- - name: Whitaker, Lise
+ - name: Whitaker, Lisa
    totals:
     - event: Hearts
       player1:

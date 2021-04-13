@@ -6938,7 +6938,7 @@ vs:
       year: 2008
       draw: Round Robin(4)
       score: NL 4 - AB 6
- - name: Nohr, Dianne
+ - name: Nohr, Diane
    totals:
     - event: Hearts
       player1:

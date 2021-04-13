@@ -2,62 +2,6 @@
 title: Selena Njegovan Head-to-head
 name: Njegovan, Selena
 vs:
- - name: Nicholls, Brenda
-   totals:
-    - event: Hearts
-      player1:
-        percent: 71
-        wins: 0
-        losses: 1
-      player2:
-        percent: 76
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'MB'
-        position: Third
-        percent: 71
-        win: 0
-        loss: 1
-      player2:
-        team: 'QC'
-        position: Third
-        percent: 76
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Round Robin(8)
-      score: MB 5 - QC 6
- - name: Nixon, Amy
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 1
-        losses: 0
-      player2:
-        percent: 83
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MB'
-        position: Third
-        percent: 79
-        win: 1
-        loss: 0
-      player2:
-        team: 'AB'
-        position: Third
-        percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(12)
-      score: MB 11 - AB 7
  - name: Officer, Jill
    totals:
     - event: Hearts
@@ -182,13 +126,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 79
-        wins: 1
+        percent: 80
+        wins: 2
         losses: 0
       player2:
-        percent: 74
+        percent: 66
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'MB'
@@ -206,6 +150,22 @@ vs:
       year: 2016
       draw: Round Robin(12)
       score: MB 11 - AB 7
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 56
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(4)
+      score: MB 2 - WC 9
  - name: Peters, Laine
    totals:
     - event: Hearts
@@ -234,6 +194,34 @@ vs:
       year: 2016
       draw: Round Robin(12)
       score: MB 11 - AB 7
+ - name: Peterson, Beth
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 1
+        losses: 0
+      player2:
+        percent: 59
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Fourth
+        percent: 59
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Pool(22)
+      score: WC 6 - WC 5
  - name: Pilote, Kristen
    totals:
     - event: Hearts
@@ -278,17 +266,45 @@ vs:
       year: 2019
       draw: Tie-Breaker(15)
       score: BC 8 - MB 5
+ - name: Pincott, Erin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(11)
+      score: BC 7 - WC 5
  - name: Pinksen, Sadie
    totals:
     - event: Hearts
       player1:
-        percent: 92
-        wins: 1
+        percent: 82
+        wins: 2
         losses: 0
       player2:
-        percent: 94
+        percent: 78
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'MB'
@@ -306,6 +322,22 @@ vs:
       year: 2019
       draw: Round Robin(11)
       score: MB 12 - NU 2
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Second
+        percent: 66
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(2)
+      score: NU 3 - WC 6
  - name: Porter, Erin
    totals:
     - event: Hearts
@@ -506,6 +538,34 @@ vs:
       year: 2016
       draw: Round Robin(17)
       score: NB 6 - MB 7
+ - name: Riley, Emily
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Second
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(9)
+      score: WC 7 - QC 8
  - name: Robichaud, Sylvie
    totals:
     - event: Hearts
@@ -810,6 +870,90 @@ vs:
       year: 2018
       draw: Round Robin(10)
       score: YT 3 - WC 10
+ - name: St-Georges, Cynthia
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 0
+        losses: 1
+      player2:
+        percent: 68
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 68
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(9)
+      score: WC 7 - QC 8
+ - name: St-Georges, Laurie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 0
+        losses: 1
+      player2:
+        percent: 74
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Fourth
+        percent: 74
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(9)
+      score: WC 7 - QC 8
+ - name: Sweeting, Val
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Pool(21)
+      score: CA 9 - WC 3
  - name: Thompson, Karla
    totals:
     - event: Hearts
@@ -838,6 +982,62 @@ vs:
       year: 2016
       draw: Round Robin(2)
       score: BC 2 - MB 10
+ - name: Tingley, Jaclyn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 58
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 58
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(6)
+      score: WC 9 - NB 2
+ - name: Tran, Brittany
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Pool(22)
+      score: WC 6 - WC 5
  - name: Udle, Teri
    totals:
     - event: Hearts
@@ -1006,6 +1206,34 @@ vs:
       year: 2016
       draw: Round Robin(10)
       score: MB 8 - NL 5
+ - name: Walker, Laura
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Pool(23)
+      score: WC 4 - AB 9
  - name: Walsh, Jenna
    totals:
     - event: Hearts
@@ -1082,13 +1310,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 73
-        wins: 1
+        percent: 76
+        wins: 2
         losses: 0
       player2:
-        percent: 81
+        percent: 83
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'MB'
@@ -1106,6 +1334,22 @@ vs:
       year: 2019
       draw: Round Robin(9)
       score: MB 6 - ON 5
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(4)
+      score: MB 2 - WC 9
  - name: Webster, Crystal
    totals:
     - event: Hearts
@@ -1168,10 +1412,10 @@ vs:
       player1:
         percent: 79
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 84
-        wins: 1
+        percent: 82
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1190,6 +1434,22 @@ vs:
       year: 2019
       draw: Round Robin(1)
       score: AB 7 - MB 6
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Pool(20)
+      score: ON 7 - WC 6
  - name: Williamson, Ashley
    totals:
     - event: Hearts

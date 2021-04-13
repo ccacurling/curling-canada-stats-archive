@@ -64,7 +64,7 @@ vs:
  - Balderston, Marcy
  - Berthelot, Janique
  - Bohmer, Brenda
- - Brophy, Cathy
+ - Brophy, Kathy
  - Burgess, Judy
  - Chapman, Kathy
  - Cleutinx, Marlene

@@ -62,7 +62,7 @@ vs:
  - Beveridge, Corie
  - Bodogh, Marilyn
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Busche, Jodi
  - Cameron, Nancy
  - Cey, Naomi
@@ -105,7 +105,7 @@ vs:
  - Moss, Debbie
  - Mulroney, Sandra
  - Nicholls, Brenda
- - Nohr, Dianne
+ - Nohr, Diane
  - Nowlan, Denise
  - Ondrack, Wendy
  - O'Rourke, Kathy

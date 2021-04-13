@@ -41,9 +41,9 @@ vs:
  - Birt, Suzanne
  - Blais, Amelie
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Rachel
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Chenier, Courtney
  - Collins, Katrina
  - Cooper, Kathryn

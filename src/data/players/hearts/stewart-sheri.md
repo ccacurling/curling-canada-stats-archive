@@ -213,7 +213,7 @@ vs:
  - Bodogh, Marilyn
  - Bonar, Maureen
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Brown, Katie
  - Brown, Marcie
@@ -339,7 +339,7 @@ vs:
  - McPherson, Cheryl
  - Merklinger, Anne
  - Middaugh, Sherry
- - Millar, Bev
+ - Millar, Beverley
  - Montgomery, Kay
  - Moore, Kim
  - Moore, Kristie
@@ -355,7 +355,7 @@ vs:
  - Nedohin, Heather
  - Nichols, Helen
  - Nixon, Amy
- - Noye, Marnie
+ - Noye, Marlene
  - O'Rourke, Kathy
  - Osborne, Chantal
  - Overton, Kim

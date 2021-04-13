@@ -39,7 +39,7 @@ vs:
  - Arnott, Janet
  - Aulenback, Wanda
  - Barker, Catherine
- - Bennett, Connie
+ - Bennet, Connie
  - Carney, Laurie
  - Carr, Judy
  - Clarke, Betty
@@ -64,12 +64,12 @@ vs:
  - Mackin, Marion
  - McCarville, Susan
  - McGeary, Lori
- - Millar, Bev
+ - Millar, Beverley
  - Miller, Maureen
  - Moore, Linda
  - More, Chris
  - Moriarty, Monica
- - Noye, Marnie
+ - Noye, Marlene
  - Roland, Mavis
  - Smith, Yvonne
  - Sparkes, Lindsay

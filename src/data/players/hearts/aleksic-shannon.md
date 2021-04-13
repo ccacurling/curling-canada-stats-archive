@@ -120,7 +120,7 @@ vs:
  - Betker, Jan
  - Birt, Suzanne
  - Bohmer, Brenda
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brothers, Jill
  - Cameron, Kate
  - Carey, Chelsea

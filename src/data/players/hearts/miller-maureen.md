@@ -60,7 +60,7 @@ vs:
  - Balderston, Marcy
  - Barker, Catherine
  - Beddington, Shalegh
- - Bennett, Connie
+ - Bennet, Connie
  - Berthelot, Janique
  - Bohmer, Brenda
  - Byers, Denise
@@ -106,12 +106,12 @@ vs:
  - McGeary, Lori
  - McNamee, Karen
  - Middaugh, Sherry
- - Millar, Bev
+ - Millar, Beverley
  - Moore, Linda
  - More, Chris
  - Moriarty, Monica
  - Nedohin, Heather
- - Noye, Marnie
+ - Noye, Marlene
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
  - Power, Marie-Anne

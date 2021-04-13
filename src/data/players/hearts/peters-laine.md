@@ -181,7 +181,7 @@ vs:
  - Barbour, Shona
  - Barker, Penny
  - Barrack, Carmen
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belanger, Nancy
  - Belisle, Eve
@@ -192,7 +192,7 @@ vs:
  - Blanchard, Judy
  - Bonar, Maureen
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Brennan, Amanda
  - Brine, Jenn
@@ -320,10 +320,10 @@ vs:
  - Murphy, Sarah
  - Naugler, Tara
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
+ - Njegovan, Selena
  - Officer, Jill
  - O'Neill, Brit
  - O'Rourke, Brittany

@@ -115,13 +115,13 @@ vs:
  - Babin, Jillian
  - Barbour, Shona
  - Barker, Penny
- - Baxter, Jen
+ - Baxter, Jennifer
  - Belisle, Eve
  - Bell, Chelsey
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Carey, Chelsea
  - Carmody, Erin
@@ -147,7 +147,7 @@ vs:
  - Fleury, Tracy
  - Fullerton, Sarah
  - Fyfe, Liz
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Galusha, Kerry
  - Gates, Amanda
  - George, Tara
@@ -178,7 +178,7 @@ vs:
  - MacDougall, Leslie
  - MacLean, Kari
  - MacPhee, Robyn
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Mallett, Marla
  - Mann, Lauren
  - Martin, Heather
@@ -196,9 +196,9 @@ vs:
  - Moses, Dawn
  - Naugler, Tara
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Selena
  - Nowlan, Denise
  - Officer, Jill
  - O'Rourke, Brittany

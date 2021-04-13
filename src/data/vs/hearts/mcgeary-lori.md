@@ -2,7 +2,7 @@
 title: Lori McGeary Head-to-head
 name: McGeary, Lori
 vs:
- - name: Millar, Bev
+ - name: Millar, Beverley
    totals:
     - event: Hearts
       player1:
@@ -218,7 +218,7 @@ vs:
       year: 1986
       draw: Round Robin(15)
       score: NL 6 - SK 2
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

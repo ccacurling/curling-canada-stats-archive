@@ -230,7 +230,7 @@ vs:
  - Birt, Suzanne
  - Bonar, Maureen
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brennan, Amanda
  - Brothers, Jill
  - Brown, Jacalyn
@@ -349,9 +349,9 @@ vs:
  - Murphy, Sarah
  - Muzika, Shelley
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholson, Danielle
  - Nixon, Amy
+ - Njegovan, Selena
  - Nowlan, Denise
  - O'Connor, Susan
  - Officer, Jill
@@ -414,7 +414,7 @@ vs:
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whitaker, Carol
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Williamson, Ashley
  - Wilson, Leslie
  - Wright, Susan

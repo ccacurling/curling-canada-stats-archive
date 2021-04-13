@@ -30,7 +30,7 @@ vs:
       year: 2015
       draw: Round Robin(10)
       score: QC 8 - NB 9
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:
@@ -86,7 +86,7 @@ vs:
       year: 2015
       draw: Round Robin(12)
       score: QC 6 - AB 8
- - name: Camozzi, Rhona
+ - name: Camozzi, Rhonda
    totals:
     - event: Hearts
       player1:

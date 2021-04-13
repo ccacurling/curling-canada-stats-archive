@@ -44,7 +44,7 @@ vs:
  - Duncan, Hollie
  - Englot, Michelle
  - Fullerton, Sarah
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Gibson, Amy
  - Harvey, Marie-Pier
  - Hughes, Meaghan

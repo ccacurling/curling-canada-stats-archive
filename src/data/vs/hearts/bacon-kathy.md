@@ -30,7 +30,7 @@ vs:
       year: 1988
       draw: Round Robin(9)
       score: AB 5 - NS 6
- - name: Brophy, Cathy
+ - name: Brophy, Kathy
    totals:
     - event: Hearts
       player1:

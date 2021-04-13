@@ -258,7 +258,7 @@ vs:
       year: 1985
       draw: Playoff(12)
       score: NL 8 - AB 2
- - name: McCrae, Betty
+ - name: McCrae, Elizabeth
    totals:
     - event: Hearts
       player1:
@@ -286,7 +286,7 @@ vs:
       year: 1985
       draw: Round Robin(9)
       score: TR 7 - NL 10
- - name: McCrae, Lou
+ - name: McCrae, Louise
    totals:
     - event: Hearts
       player1:

@@ -47,7 +47,7 @@ vs:
  - McInnis, Susan
  - Middaugh, Sherry
  - Mulroney, Sandra
- - Nohr, Dianne
+ - Nohr, Diane
  - O'Rourke, Kathy
  - Phillips, Laura
  - Scott, Donna

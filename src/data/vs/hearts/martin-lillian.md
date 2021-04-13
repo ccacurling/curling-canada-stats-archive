@@ -30,7 +30,7 @@ vs:
       year: 1983
       draw: Round Robin(8)
       score: SK 4 - BC 6
- - name: McCrae, Betty
+ - name: McCrae, Elizabeth
    totals:
     - event: Hearts
       player1:
@@ -58,7 +58,7 @@ vs:
       year: 1983
       draw: Round Robin(4)
       score: TR 8 - SK 7
- - name: McCrae, Lou
+ - name: McCrae, Louise
    totals:
     - event: Hearts
       player1:

@@ -123,7 +123,7 @@ vs:
  - MacCuish, Kristin
  - MacIntosh, Kelly
  - MacLean, Kari
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - McCarville, Krista
  - McConnery, Nancy
  - McDonald, Taylor
@@ -133,8 +133,8 @@ vs:
  - More, Whitney
  - Munroe, Anna
  - Naugler, Tara
- - Njegovan, Selena
  - Nicholls, Brenda
+ - Njegovan, Selena
  - Nowlan, Denise
  - Officer, Jill
  - Overton-Clapham, Cathy

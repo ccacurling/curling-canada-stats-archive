@@ -110,7 +110,7 @@ vs:
  - Atkinson, Rebecca
  - Baier, Stephanie
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina

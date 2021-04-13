@@ -2834,7 +2834,7 @@ vs:
       year: 1996
       draw: Round Robin(5)
       score: SK 7 - ON 4
- - name: Millar, Bev
+ - name: Millar, Beverley
    totals:
     - event: Hearts
       player1:
@@ -3102,7 +3102,7 @@ vs:
       year: 1996
       draw: Round Robin(9)
       score: ON 7 - QC 3
- - name: Nohr, Dianne
+ - name: Nohr, Diane
    totals:
     - event: Hearts
       player1:
@@ -3130,7 +3130,7 @@ vs:
       year: 1996
       draw: Round Robin(12)
       score: ON 11 - TR 1
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

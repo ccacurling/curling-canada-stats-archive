@@ -2498,7 +2498,7 @@ vs:
       year: 2004
       draw: Round Robin(3)
       score: AB 7 - NL 6
- - name: Nohr, Dianne
+ - name: Nohr, Diane
    totals:
     - event: Hearts
       player1:

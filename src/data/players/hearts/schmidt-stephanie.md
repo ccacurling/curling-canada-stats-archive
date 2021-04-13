@@ -72,15 +72,15 @@ years:
 vs:
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Rachel
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Collins, Katrina
  - Cooper, Kathryn
  - Courtney, Joanne

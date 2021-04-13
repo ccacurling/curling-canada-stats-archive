@@ -4142,7 +4142,7 @@ vs:
       year: 2013
       draw: Round Robin(16)
       score: CA 8 - TR 10
- - name: Makichuck, Lindsay
+ - name: Makichuk, Lindsay
    totals:
     - event: Hearts
       player1:

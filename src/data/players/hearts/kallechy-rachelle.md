@@ -71,10 +71,10 @@ years:
 vs:
  - Arnaud, Chloe
  - Arsenault, Mary-Anne
- - Baxter, Jen
+ - Baxter, Jennifer
  - Black, Christina
  - Crouse, Jennifer
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Harvey, Marie-Pier
  - Perron, Melina
 ---

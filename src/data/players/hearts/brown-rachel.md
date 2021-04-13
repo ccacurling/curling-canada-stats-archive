@@ -112,7 +112,7 @@ vs:
  - Babin, Jillian
  - Baier, Stephanie
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
@@ -121,14 +121,14 @@ vs:
  - Bodner, Jenine
  - Boudreault, Patricia
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Corryn
  - Burgess, Karlee
  - Burns, Krysta
  - Cameron, Kate
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Carey, Chelsea
  - Carmody, Erin
  - Christianson, Marie
@@ -206,7 +206,6 @@ vs:
  - Munroe, Anna
  - Murphy, Sarah
  - Njegovan, Selena
- - Njegovan, Selena
  - Nugent, Pamela
  - Officer, Jill
  - O'Rourke, Brittany
@@ -245,7 +244,6 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
- - Taylor, Susan
  - Thevenot, Kara
  - Thomas-Kennell, Noelle
  - Titheridge, Lindsay

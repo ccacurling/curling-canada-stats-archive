@@ -59,7 +59,7 @@ vs:
  - Belisle, Eve
  - Bell, Chelsey
  - Birt, Suzanne
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Marcie
  - Burgess, Carey
  - Cameron, Nancy

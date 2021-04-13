@@ -1290,7 +1290,7 @@ vs:
       year: 1985
       draw: Round Robin(10)
       score: AB 6 - BC 7
- - name: McCrae, Betty
+ - name: McCrae, Elizabeth
    totals:
     - event: Hearts
       player1:
@@ -1318,7 +1318,7 @@ vs:
       year: 1985
       draw: Round Robin(7)
       score: TR 5 - BC 10
- - name: McCrae, Lou
+ - name: McCrae, Louise
    totals:
     - event: Hearts
       player1:
@@ -1678,7 +1678,7 @@ vs:
       year: 1999
       draw: Round Robin(10)
       score: MB 9 - ON 8
- - name: Millar, Bev
+ - name: Millar, Beverley
    totals:
     - event: Hearts
       player1:
@@ -2058,7 +2058,7 @@ vs:
       year: 2000
       draw: Round Robin(10)
       score: AB 4 - MB 7
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

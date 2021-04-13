@@ -38,7 +38,7 @@ years:
 vs:
  - Arnaud, Chloe
  - Arsenault, Mary-Anne
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Black, Christina
  - Cameron, Kate
@@ -52,7 +52,7 @@ vs:
  - Fleury, Tracy
  - Fullerton, Sarah
  - Fyfe, Liz
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Gates, Amanda
  - Gibson, Amy
  - Harvey, Marie-Pier

@@ -77,11 +77,11 @@ vs:
  - Atkinson, Rebecca
  - Ayrey, Jinaye
  - Babin, Jillian
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Bell, Chelsey
  - Birt, Suzanne
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Campbell, Jolene
  - Carter, Sasha

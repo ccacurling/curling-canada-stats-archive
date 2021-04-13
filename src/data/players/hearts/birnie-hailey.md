@@ -57,7 +57,7 @@ vs:
  - Arsenault, Mary-Anne
  - Babin, Jillian
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birt, Suzanne
  - Black, Christina
  - Brown, Corryn

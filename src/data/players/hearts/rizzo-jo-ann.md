@@ -54,7 +54,7 @@ years:
    shots-percent: 70
 vs:
  - Arsenault, Mary-Anne
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne

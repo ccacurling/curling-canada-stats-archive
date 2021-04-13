@@ -109,8 +109,8 @@ vs:
  - Marchuk, Lindy
  - Massullo, Deb
  - McCracken, Betty
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - McDonald, Tina
  - McEdwards, Kathy
  - Messer, Janyce

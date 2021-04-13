@@ -128,19 +128,19 @@ vs:
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Belanger, Nancy
  - Bernard, Cheryl
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brothers, Jill
  - Brown, Jacalyn
  - Brown, Rachel
  - Bush, Tracy
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Carey, Chelsea
  - Carter, Sasha
  - Clark, Stefanie

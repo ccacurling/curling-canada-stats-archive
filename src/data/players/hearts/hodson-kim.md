@@ -58,7 +58,7 @@ years:
    shots-percent: 81
 vs:
  - Affleck, Tricia
- - Allen, Susan
+ - Allan, Susan
  - Allerton, Dana
  - Arsenault, Mary-Anne
  - Arseneau, Jane

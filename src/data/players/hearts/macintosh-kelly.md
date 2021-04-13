@@ -71,7 +71,7 @@ years:
 vs:
  - Affleck, Tricia
  - Babin, Jillian
- - Bradley, Shelly
+ - Bradley, Shelley
  - Carmody, Erin
  - Crawford, Andrea
  - deSolla, Jodie

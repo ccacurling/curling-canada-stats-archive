@@ -6,7 +6,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 71
+        percent: 74
         wins: 0
         losses: 1
       player2:
@@ -16,8 +16,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 71
+        position: Second
+        percent: 74
         win: 0
         loss: 1
       player2:
@@ -44,7 +44,7 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
+        position: Second
         percent: 80
         win: 1
         loss: 0
@@ -72,7 +72,7 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
+        position: Second
         percent: 80
         win: 0
         loss: 1
@@ -100,7 +100,7 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
+        position: Second
         percent: 80
         win: 1
         loss: 0
@@ -118,7 +118,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 74
+        percent: 81
         wins: 1
         losses: 0
       player2:
@@ -128,8 +128,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 74
+        position: Second
+        percent: 81
         win: 1
         loss: 0
       player2:
@@ -146,7 +146,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 74
+        percent: 81
         wins: 1
         losses: 0
       player2:
@@ -156,8 +156,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 74
+        position: Second
+        percent: 81
         win: 1
         loss: 0
       player2:
@@ -174,7 +174,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 72
+        percent: 73
         wins: 1
         losses: 0
       player2:
@@ -184,8 +184,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 72
+        position: Second
+        percent: 73
         win: 1
         loss: 0
       player2:
@@ -202,7 +202,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 65
+        percent: 64
         wins: 0
         losses: 1
       player2:
@@ -212,8 +212,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 65
+        position: Second
+        percent: 64
         win: 0
         loss: 1
       player2:
@@ -230,7 +230,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 81
+        percent: 70
         wins: 0
         losses: 1
       player2:
@@ -240,8 +240,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 81
+        position: Second
+        percent: 70
         win: 0
         loss: 1
       player2:
@@ -258,7 +258,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 72
+        percent: 73
         wins: 1
         losses: 0
       player2:
@@ -268,8 +268,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 72
+        position: Second
+        percent: 73
         win: 1
         loss: 0
       player2:
@@ -286,7 +286,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 72
+        percent: 73
         wins: 1
         losses: 0
       player2:
@@ -296,8 +296,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 72
+        position: Second
+        percent: 73
         win: 1
         loss: 0
       player2:
@@ -314,7 +314,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 81
+        percent: 70
         wins: 0
         losses: 1
       player2:
@@ -324,8 +324,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 81
+        position: Second
+        percent: 70
         win: 0
         loss: 1
       player2:
@@ -342,7 +342,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 65
+        percent: 76
         wins: 1
         losses: 0
       player2:
@@ -352,8 +352,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 65
+        position: Second
+        percent: 76
         win: 1
         loss: 0
       player2:
@@ -370,7 +370,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 65
+        percent: 71
         wins: 0
         losses: 1
       player2:
@@ -380,8 +380,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 65
+        position: Second
+        percent: 71
         win: 0
         loss: 1
       player2:
@@ -408,7 +408,7 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
+        position: Second
         percent: 80
         win: 0
         loss: 1
@@ -426,7 +426,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 72
+        percent: 73
         wins: 1
         losses: 0
       player2:
@@ -436,8 +436,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 72
+        position: Second
+        percent: 73
         win: 1
         loss: 0
       player2:
@@ -454,7 +454,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 66
+        percent: 83
         wins: 1
         losses: 0
       player2:
@@ -464,8 +464,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 66
+        position: Second
+        percent: 83
         win: 1
         loss: 0
       player2:
@@ -482,7 +482,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 71
+        percent: 74
         wins: 0
         losses: 1
       player2:
@@ -492,8 +492,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 71
+        position: Second
+        percent: 74
         win: 0
         loss: 1
       player2:
@@ -510,7 +510,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 65
+        percent: 64
         wins: 0
         losses: 1
       player2:
@@ -520,8 +520,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 65
+        position: Second
+        percent: 64
         win: 0
         loss: 1
       player2:
@@ -548,7 +548,7 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
+        position: Second
         percent: 80
         win: 0
         loss: 1
@@ -566,7 +566,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 81
+        percent: 70
         wins: 0
         losses: 1
       player2:
@@ -576,8 +576,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 81
+        position: Second
+        percent: 70
         win: 0
         loss: 1
       player2:
@@ -594,7 +594,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 91
+        percent: 85
         wins: 1
         losses: 0
       player2:
@@ -604,8 +604,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 91
+        position: Second
+        percent: 85
         win: 1
         loss: 0
       player2:
@@ -632,7 +632,7 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
+        position: Second
         percent: 80
         win: 1
         loss: 0
@@ -650,7 +650,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 74
+        percent: 81
         wins: 1
         losses: 0
       player2:
@@ -660,8 +660,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 74
+        position: Second
+        percent: 81
         win: 1
         loss: 0
       player2:
@@ -678,7 +678,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 91
+        percent: 85
         wins: 1
         losses: 0
       player2:
@@ -688,8 +688,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 91
+        position: Second
+        percent: 85
         win: 1
         loss: 0
       player2:
@@ -706,7 +706,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 91
+        percent: 85
         wins: 1
         losses: 0
       player2:
@@ -716,8 +716,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 91
+        position: Second
+        percent: 85
         win: 1
         loss: 0
       player2:
@@ -734,7 +734,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 71
+        percent: 74
         wins: 0
         losses: 1
       player2:
@@ -744,8 +744,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 71
+        position: Second
+        percent: 74
         win: 0
         loss: 1
       player2:
@@ -762,7 +762,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 66
+        percent: 83
         wins: 1
         losses: 0
       player2:
@@ -772,8 +772,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 66
+        position: Second
+        percent: 83
         win: 1
         loss: 0
       player2:
@@ -790,7 +790,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 81
+        percent: 70
         wins: 0
         losses: 1
       player2:
@@ -800,8 +800,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 81
+        position: Second
+        percent: 70
         win: 0
         loss: 1
       player2:
@@ -818,7 +818,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 65
+        percent: 64
         wins: 0
         losses: 1
       player2:
@@ -828,8 +828,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 65
+        position: Second
+        percent: 64
         win: 0
         loss: 1
       player2:
@@ -846,7 +846,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 65
+        percent: 76
         wins: 1
         losses: 0
       player2:
@@ -856,8 +856,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 65
+        position: Second
+        percent: 76
         win: 1
         loss: 0
       player2:
@@ -874,7 +874,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 65
+        percent: 76
         wins: 1
         losses: 0
       player2:
@@ -884,8 +884,8 @@ vs:
    games:
     - player1:
         team: 'WC'
-        position: Third
-        percent: 65
+        position: Second
+        percent: 76
         win: 1
         loss: 0
       player2:

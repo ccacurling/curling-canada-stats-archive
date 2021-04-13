@@ -114,13 +114,13 @@ vs:
  - Babin, Jillian
  - Baier, Stephanie
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Belisle, Eve
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Corryn
@@ -129,7 +129,7 @@ vs:
  - Burgess, Karlee
  - Burns, Krysta
  - Cameron, Kate
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
@@ -263,7 +263,7 @@ vs:
  - St-Georges, Laurie
  - Strong, Heather
  - Strong, Laura
- - Taylor, Susan
+ - Thevenot, Kara
  - Thomas, Jill
  - Thomas-Kennell, Noelle
  - Thurston, Jill

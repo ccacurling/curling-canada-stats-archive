@@ -73,7 +73,7 @@ vs:
  - Adams, Diane
  - Alexander, Diane
  - Allardyce, Kathie
- - Allen, Susan
+ - Allan, Susan
  - Allerton, Dana
  - Anderson, Kelly
  - Anderson, Sherry

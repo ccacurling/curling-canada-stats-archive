@@ -93,14 +93,14 @@ years:
 vs:
  - Anderson, Sherry
  - Arsenault, Mary-Anne
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brothers, Jill
  - Brown, Rachel
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Campbell, Jolene
  - Carey, Chelsea
  - Chenier, Courtney
@@ -149,9 +149,9 @@ vs:
  - Miskew, Emma
  - Moore, Kristie
  - Murphy, Sarah
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Selena
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Neill, Brit

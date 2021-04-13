@@ -83,9 +83,9 @@ vs:
  - Bernard, Krista
  - Berthelot, Janique
  - Blanchard, Judy
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Burgess, Judy
  - Carter, Linda
  - Chapman, Kathy

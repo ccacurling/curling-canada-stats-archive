@@ -71,7 +71,7 @@ years:
    shots-percent: 78
 vs:
  - Affleck, Tricia
- - Allen, Susan
+ - Allan, Susan
  - Allerton, Dana
  - Arnott, Janet
  - Arsenault, Mary-Anne
@@ -151,7 +151,7 @@ vs:
  - Moss, Debbie
  - Nicholls, Brenda
  - Nixon, Amy
- - Nohr, Dianne
+ - Nohr, Diane
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
  - Pendergast, Judy

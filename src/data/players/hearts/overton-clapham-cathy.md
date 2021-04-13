@@ -257,7 +257,7 @@ vs:
  - Boily, Caroline
  - Bonar, Maureen
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Breen, Theresa
  - Brennan, Amanda
@@ -391,7 +391,7 @@ vs:
  - MacInnes, Grace
  - MacLean, Kari
  - MacPhee, Robyn
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Mallett, Marla
  - Marchand, Jessica
  - Marchand, Stephanie
@@ -437,7 +437,7 @@ vs:
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
- - Nohr, Dianne
+ - Nohr, Diane
  - Nowlan, Denise
  - Nugent, Pamela
  - O'Connor, Susan

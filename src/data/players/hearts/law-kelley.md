@@ -163,7 +163,7 @@ vs:
  - Bohmer, Brenda
  - Boily, Caroline
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Brothers, Jill
  - Brown, Jacalyn
@@ -341,7 +341,7 @@ vs:
  - Vey, Lana
  - Walter, Cathy
  - Whitaker, Carol
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Whitrow, Leanne
  - Willms, Karri
  - Wilson, Patty

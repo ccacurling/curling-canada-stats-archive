@@ -176,7 +176,7 @@ vs:
  - Bodner, Jenine
  - Boudreault, Patricia
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Corryn
@@ -278,7 +278,7 @@ vs:
  - MacDonald, Rebecca Jean
  - MacInnes, Grace
  - MacPhee, Robyn
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Mallett, Marla
  - Mann, Lauren
  - Mattatall, Mary
@@ -301,9 +301,9 @@ vs:
  - Murphy, Sarah
  - Muzika, Shelley
  - Naugler, Tara
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Selena
  - Nowlan, Denise
  - Nugent, Pamela
  - O'Connor, Susan
@@ -361,7 +361,6 @@ vs:
  - Strong, Laura
  - Sweeting, Val
  - Tanner, Ros
- - Taylor, Susan
  - Thevenot, Kara
  - Thiessen, Alison
  - Thomas, Jill

@@ -60,7 +60,7 @@ vs:
  - Belanger, Nancy
  - Belisle, Eve
  - Bernard, Cheryl
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Jacalyn
  - Carmody, Erin
  - Carter, Sasha
@@ -95,7 +95,7 @@ vs:
  - MacInnes, Grace
  - MacLean, Kari
  - MacPhee, Robyn
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Mallett, Marla
  - McCagg-Nystrom, Heather
  - McCarville, Krista

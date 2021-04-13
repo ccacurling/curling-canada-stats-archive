@@ -64,7 +64,7 @@ vs:
  - Blair, Diane
  - Blanchard, Judy
  - Bohmer, Brenda
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Burlington, Cheryl
  - Cameron, Nancy

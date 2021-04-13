@@ -104,7 +104,7 @@ vs:
  - Bernard, Cheryl
  - Betker, Jan
  - Birt, Suzanne
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brothers, Jill
  - Brown, Jacalyn
  - Brown, Janet
@@ -214,7 +214,7 @@ vs:
  - Vey, Lana
  - Wheatcroft, Georgina
  - Whitaker, Carol
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Young, Karen
  - Zinck, Kay
 ---

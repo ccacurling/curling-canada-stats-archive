@@ -141,11 +141,11 @@ vs:
  - McDonald, Tina
  - McGeary, Lori
  - Messer, Janyce
- - Millar, Bev
+ - Millar, Beverley
  - Moore, Linda
  - Muzika, Shelley
  - Narduzzi, Joyce
- - Noye, Marnie
+ - Noye, Marlene
  - Porter, Debbie
  - Potvin, Gisele
  - Robertson, Darcy

@@ -86,7 +86,7 @@ vs:
       year: 2008
       draw: Round Robin(6)
       score: QC 8 - PE 7
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:
@@ -3410,7 +3410,7 @@ vs:
       year: 2008
       draw: Round Robin(6)
       score: QC 8 - PE 7
- - name: Whitaker, Lise
+ - name: Whitaker, Lisa
    totals:
     - event: Hearts
       player1:

@@ -80,11 +80,11 @@ vs:
  - Birt, Suzanne
  - Blais, Amelie
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Corryn
  - Brown, Rachel
  - Cameron, Kate
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Chenier, Courtney
  - Christianson, Marie
  - Collins, Katrina

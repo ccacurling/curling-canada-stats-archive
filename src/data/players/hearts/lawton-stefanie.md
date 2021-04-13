@@ -128,7 +128,7 @@ vs:
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Belanger, Nancy
  - Bernard, Cheryl
  - Birchard, Shannon
@@ -137,14 +137,14 @@ vs:
  - Black, Christina
  - Blais, Amelie
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Jacalyn
  - Brown, Rachel
  - Bush, Tracy
  - Cameron, Kate
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Carey, Chelsea
  - Carter, Sasha
  - Christianson, Marie

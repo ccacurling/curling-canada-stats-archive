@@ -228,7 +228,6 @@ vs:
  - Moore, Kristie
  - Munroe, Anna
  - Murphy, Sarah
- - Njegovan, Selena
  - Nixon, Amy
  - Njegovan, Selena
  - O'Rourke, Brittany
@@ -261,7 +260,6 @@ vs:
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Sweeting, Val
- - Taylor, Susan
  - Thevenot, Kara
  - Tran, Brittany
  - Verreault, Noemie

@@ -662,7 +662,7 @@ vs:
       year: 1989
       draw: Round Robin(6)
       score: ON 3 - PE 13
- - name: Millar, Bev
+ - name: Millar, Beverley
    totals:
     - event: Hearts
       player1:
@@ -834,7 +834,7 @@ vs:
       year: 1989
       draw: Round Robin(14)
       score: ON 5 - NS 7
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

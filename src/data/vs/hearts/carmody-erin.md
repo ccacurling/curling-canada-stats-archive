@@ -222,7 +222,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 65
+        percent: 71
         wins: 0
         losses: 1
    games:
@@ -234,8 +234,8 @@ vs:
         loss: 0
       player2:
         team: 'WC'
-        position: Third
-        percent: 65
+        position: Second
+        percent: 71
         win: 0
         loss: 1
       event: Hearts
@@ -1190,7 +1190,7 @@ vs:
       year: 2010
       draw: Semi-Final(21)
       score: ON 6 - PE 10
- - name: Makichuck, Lindsay
+ - name: Makichuk, Lindsay
    totals:
     - event: Hearts
       player1:
@@ -1550,34 +1550,6 @@ vs:
       year: 2010
       draw: Round Robin(5)
       score: PE 10 - TR 7
- - name: Njegovan, Selena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 67
-        wins: 0
-        losses: 1
-      player2:
-        percent: 85
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Third
-        percent: 67
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Third
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(7)
-      score: MB 9 - NS 4
  - name: Nicholls, Brenda
    totals:
     - event: Hearts
@@ -1606,6 +1578,34 @@ vs:
       year: 2010
       draw: Round Robin(13)
       score: PE 7 - QC 3
+ - name: Njegovan, Selena
+   totals:
+    - event: Hearts
+      player1:
+        percent: 67
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Third
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(7)
+      score: MB 9 - NS 4
  - name: Nowlan, Denise
    totals:
     - event: Hearts

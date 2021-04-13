@@ -2438,7 +2438,7 @@ vs:
       year: 1987
       draw: Round Robin(2)
       score: TR 6 - NB 5
- - name: Millar, Bev
+ - name: Millar, Beverley
    totals:
     - event: Hearts
       player1:
@@ -2650,7 +2650,7 @@ vs:
       year: 1988
       draw: Round Robin(12)
       score: TR 4 - PE 8
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

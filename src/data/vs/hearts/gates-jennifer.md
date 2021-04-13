@@ -1310,45 +1310,17 @@ vs:
       year: 2020
       draw: Round Robin(6)
       score: NO 7 - MB 8
- - name: Taylor, Susan
-   totals:
-    - event: Hearts
-      player1:
-        percent: 80
-        wins: 1
-        losses: 0
-      player2:
-        percent: 91
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent: 80
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Lead
-        percent: 91
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Round Robin(14)
-      score: NO 4 - SK 3
  - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:
-        percent: 92
-        wins: 0
+        percent: 85
+        wins: 1
         losses: 1
       player2:
-        percent: 96
+        percent: 93
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'NO'
@@ -1366,6 +1338,22 @@ vs:
       year: 2019
       draw: Pool(16)
       score: SK 11 - NO 5
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Round Robin(14)
+      score: NO 4 - SK 3
  - name: Verreault, Noemie
    totals:
     - event: Hearts

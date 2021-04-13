@@ -4450,7 +4450,7 @@ vs:
       year: 2002
       draw: Round Robin(11)
       score: ON 9 - NB 6
- - name: Millar, Bev
+ - name: Millar, Beverley
    totals:
     - event: Hearts
       player1:
@@ -4974,7 +4974,7 @@ vs:
       year: 1992
       draw: Round Robin(6)
       score: NL 6 - NB 13
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:
@@ -7758,7 +7758,7 @@ vs:
       year: 2001
       draw: Round Robin(8)
       score: CA 8 - NB 1
- - name: Whitaker, Lise
+ - name: Whitaker, Lisa
    totals:
     - event: Hearts
       player1:

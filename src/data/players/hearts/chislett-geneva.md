@@ -77,7 +77,7 @@ vs:
  - Duncan, Hollie
  - Duncan, Jenna
  - Fullerton, Sarah
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Gibson, Amy
  - Harvey, Marie-Pier
  - Hughes, Meaghan

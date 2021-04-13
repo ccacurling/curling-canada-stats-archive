@@ -74,8 +74,8 @@ years:
    shots-total: 203
    shots-percent: 69
 vs:
+ - Allan, Susan
  - Allen, Laurie
- - Allen, Susan
  - Allerton, Dana
  - Anderson, Sherry
  - Arnott, Janet

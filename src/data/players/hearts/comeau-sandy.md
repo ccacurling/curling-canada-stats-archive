@@ -81,9 +81,9 @@ vs:
  - Betker, Jan
  - Birt, Suzanne
  - Bonar, Maureen
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brothers, Jill
  - Bush, Tracy
  - Cameron, Nancy

@@ -706,7 +706,7 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 89
+        percent: 76
         wins: 0
         losses: 1
    games:
@@ -718,8 +718,8 @@ vs:
         loss: 0
       player2:
         team: 'ON'
-        position: Lead
-        percent: 89
+        position: Fourth
+        percent: 76
         win: 0
         loss: 1
       event: Hearts
@@ -3266,7 +3266,7 @@ vs:
       year: 2013
       draw: Round Robin(1)
       score: CA 9 - NB 6
- - name: Makichuck, Lindsay
+ - name: Makichuk, Lindsay
    totals:
     - event: Hearts
       player1:
@@ -6550,18 +6550,34 @@ vs:
       year: 2006
       draw: Round Robin(2)
       score: SK 7 - NB 9
- - name: Taylor, Susan
+ - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:
-        percent: 72
+        percent: 73
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 77
-        wins: 2
+        percent: 75
+        wins: 3
         losses: 0
    games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(4)
+      score: SK 6 - NB 4
     - player1:
         team: 'NB'
         position: Fourth
@@ -6594,34 +6610,6 @@ vs:
       year: 2020
       draw: Tie-Breaker(15)
       score: SK 9 - NB 7
- - name: Thevenot, Kara
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 0
-        losses: 1
-      player2:
-        percent: 70
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Lead
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(4)
-      score: SK 6 - NB 4
  - name: Thomas, Jill
    totals:
     - event: Hearts

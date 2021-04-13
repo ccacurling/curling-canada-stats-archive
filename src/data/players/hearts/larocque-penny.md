@@ -103,15 +103,15 @@ vs:
  - MacLean, Jean
  - Martin, Lillian
  - McCallan, Berniece
- - McCrae, Betty
- - McCrae, Lou
+ - McCrae, Elizabeth
+ - McCrae, Louise
  - McCubbin, Sandy
  - McEdwards, Kathy
  - McGeary, Lori
- - Millar, Bev
+ - Millar, Beverley
  - Moore, Linda
  - Narduzzi, Joyce
- - Noye, Marnie
+ - Noye, Marlene
  - Pinsent, Barbara
  - Porter, Debbie
  - Potvin, Gisele

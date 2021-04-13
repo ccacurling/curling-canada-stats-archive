@@ -1314,7 +1314,7 @@ vs:
       year: 1984
       draw: Round Robin(9)
       score: NB 3 - QC 8
- - name: McCrae, Betty
+ - name: McCrae, Elizabeth
    totals:
     - event: Hearts
       player1:
@@ -1342,7 +1342,7 @@ vs:
       year: 1983
       draw: Round Robin(5)
       score: QC 6 - TR 7
- - name: McCrae, Lou
+ - name: McCrae, Louise
    totals:
     - event: Hearts
       player1:
@@ -1454,7 +1454,7 @@ vs:
       year: 1989
       draw: Round Robin(10)
       score: QC 7 - PE 6
- - name: Millar, Bev
+ - name: Millar, Beverley
    totals:
     - event: Hearts
       player1:
@@ -1626,7 +1626,7 @@ vs:
       year: 1989
       draw: Round Robin(9)
       score: NS 6 - QC 4
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

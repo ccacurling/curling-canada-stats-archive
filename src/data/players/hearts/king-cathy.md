@@ -140,8 +140,8 @@ years:
 vs:
  - Affleck, Tricia
  - Aleksic, Shannon
+ - Allan, Susan
  - Allen, Michelle
- - Allen, Susan
  - Allerton, Dana
  - Anderson, Sherry
  - Arnott, Janet
@@ -162,7 +162,7 @@ vs:
  - Bodogh, Marilyn
  - Boily, Caroline
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Brown, Janet
  - Brown, Marcie

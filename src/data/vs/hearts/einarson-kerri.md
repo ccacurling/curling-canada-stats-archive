@@ -3114,7 +3114,7 @@ vs:
       year: 2021
       draw: Pool(22)
       score: QC 4 - CA 7
- - name: Taylor, Susan
+ - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:

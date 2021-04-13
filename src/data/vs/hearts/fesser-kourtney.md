@@ -58,7 +58,7 @@ vs:
       year: 2018
       draw: Round Robin(6)
       score: WC 8 - SK 4
- - name: Gagnon, Emilia
+ - name: Gagne, Emilia
    totals:
     - event: Hearts
       player1:

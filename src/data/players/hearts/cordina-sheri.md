@@ -71,7 +71,7 @@ years:
    shots-percent: 81
 vs:
  - Affleck, Tricia
- - Allen, Susan
+ - Allan, Susan
  - Allerton, Dana
  - Anderson, Sherry
  - Arsenault, Mary-Anne
@@ -88,7 +88,7 @@ vs:
  - Blashko, Denise
  - Bohmer, Brenda
  - Bonar, Maureen
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Jacalyn
  - Burlington, Cheryl
  - Cameron, Nancy
@@ -173,6 +173,6 @@ vs:
  - Tasaka, Adina
  - Trider, Krista
  - Wheatcroft, Georgina
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Young, Karen
 ---

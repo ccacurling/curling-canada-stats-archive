@@ -160,14 +160,14 @@ vs:
  - McEwen, Dawn
  - McGeary, Lori
  - McInnis, Susan
- - Millar, Bev
+ - Millar, Beverley
  - Moore, Linda
  - Morris, Cori
  - Moses, Dawn
  - Muzika, Shelley
  - Narduzzi, Joyce
  - Nowlan, Denise
- - Noye, Marnie
+ - Noye, Marlene
  - O'Connor, Susan
  - Officer, Jill
  - Overton-Clapham, Cathy

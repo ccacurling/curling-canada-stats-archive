@@ -38,7 +38,7 @@ years:
 vs:
  - Arsenault, Mary-Anne
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birt, Suzanne
  - Black, Christina
  - Brown, Corryn

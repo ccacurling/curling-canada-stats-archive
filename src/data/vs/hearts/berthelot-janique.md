@@ -58,7 +58,7 @@ vs:
       year: 1999
       draw: Round Robin(14)
       score: QC 7 - CA 8
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:

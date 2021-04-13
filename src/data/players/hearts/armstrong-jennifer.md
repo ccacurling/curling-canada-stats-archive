@@ -101,7 +101,6 @@ vs:
  - Sippala, Ashley
  - Strong, Helen
  - Sweeting, Val
- - Taylor, Susan
  - Thevenot, Kara
  - Tran, Brittany
  - Verreault, Noemie

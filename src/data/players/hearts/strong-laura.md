@@ -175,7 +175,7 @@ vs:
  - Birt, Suzanne
  - Blais, Amelie
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brennan, Amanda
  - Brothers, Jill
  - Brown, Jacalyn
@@ -366,7 +366,7 @@ vs:
  - Webster, Bronwen
  - Wheatcroft, Georgina
  - Whitaker, Carol
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Wylie, Jennifer
  - Yardley, Janelle
  - Young, Karen

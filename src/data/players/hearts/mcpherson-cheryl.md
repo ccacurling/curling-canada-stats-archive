@@ -84,7 +84,7 @@ vs:
  - Brown, Katie
  - Brown, Rachel
  - Cameron, Nancy
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Chapman, Kathy
  - Chaulk, Wendy
  - Cunningham, Cathy

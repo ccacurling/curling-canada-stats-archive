@@ -96,7 +96,7 @@ years:
    shots-percent: 81
 vs:
  - Affleck, Tricia
- - Allen, Susan
+ - Allan, Susan
  - Allerton, Dana
  - Anderson, Sherry
  - Armstrong, Jacquie
@@ -107,7 +107,7 @@ vs:
  - Babin, Jillian
  - Bakker, Glenys
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belley, Joelle
  - Bernard, Krista
@@ -118,7 +118,7 @@ vs:
  - Blashko, Denise
  - Bohmer, Brenda
  - Bonar, Maureen
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brown, Janet
  - Burlington, Cheryl
  - Cameron, Nancy

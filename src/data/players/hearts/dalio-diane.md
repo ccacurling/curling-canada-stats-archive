@@ -43,7 +43,7 @@ vs:
  - Betker, Jan
  - Blair, Diane
  - Blanchard, Judy
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Bryant, Angie
  - Cameron, Nancy

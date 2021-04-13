@@ -102,7 +102,7 @@ vs:
       year: 1993
       draw: Playoff(18)
       score: ON 4 - MB 8
- - name: Brophy, Cathy
+ - name: Brophy, Kathy
    totals:
     - event: Hearts
       player1:
@@ -2554,7 +2554,7 @@ vs:
       year: 1993
       draw: Round Robin(12)
       score: MB 7 - NB 4
- - name: McCrae, Betty
+ - name: McCrae, Elizabeth
    totals:
     - event: Hearts
       player1:
@@ -2582,7 +2582,7 @@ vs:
       year: 1983
       draw: Round Robin(9)
       score: TR 8 - MB 6
- - name: McCrae, Lou
+ - name: McCrae, Louise
    totals:
     - event: Hearts
       player1:
@@ -3018,7 +3018,7 @@ vs:
       year: 2004
       draw: Round Robin(14)
       score: AB 4 - MB 8
- - name: Nohr, Dianne
+ - name: Nohr, Diane
    totals:
     - event: Hearts
       player1:

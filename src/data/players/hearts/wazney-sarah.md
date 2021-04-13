@@ -40,7 +40,7 @@ vs:
  - Atkinson, Rebecca
  - Ayrey, Jinaye
  - Barbour, Shona
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Cheveldave, Amber
  - Crawford, Andrea

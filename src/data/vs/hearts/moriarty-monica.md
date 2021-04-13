@@ -30,7 +30,7 @@ vs:
       year: 2005
       draw: Round Robin(12)
       score: QC 4 - NS 8
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

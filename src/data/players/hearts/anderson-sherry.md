@@ -165,7 +165,7 @@ years:
 vs:
  - Adams, Melissa
  - Affleck, Tricia
- - Allen, Susan
+ - Allan, Susan
  - Allerton, Dana
  - Armstrong, Hailey
  - Arnaud, Chloe
@@ -179,7 +179,7 @@ vs:
  - Bakker, Glenys
  - Barbour, Shona
  - Barron, Lauren
- - Baxter, Jen
+ - Baxter, Jennifer
  - Belley, Joelle
  - Bernard, Krista
  - Betker, Jan
@@ -196,7 +196,7 @@ vs:
  - Bonar, Maureen
  - Bowman, Mary
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Brothers, Jill
  - Brown, Corryn
@@ -207,7 +207,7 @@ vs:
  - Burlington, Cheryl
  - Cameron, Kate
  - Cameron, Nancy
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Carey, Chelsea
  - Charette, Agnes
  - Charette, France
@@ -257,8 +257,8 @@ vs:
  - Freeman, Lisa
  - Frey, Audrey
  - Fyfe, Liz
+ - Gagne, Emilia
  - Gagnier, Monique
- - Gagnon, Emilia
  - Gagnon, Karo
  - Gagnon, Nathalie
  - Galusha, Kerry
@@ -346,7 +346,6 @@ vs:
  - Moses, Dawn
  - Moss, Debbie
  - Muzika, Shelley
- - Njegovan, Selena
  - Nixon, Amy
  - Njegovan, Selena
  - Officer, Jill

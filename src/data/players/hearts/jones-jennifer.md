@@ -294,8 +294,8 @@ vs:
  - Adams, Melissa
  - Affleck, Tricia
  - Aleksic, Shannon
+ - Allan, Susan
  - Allen, Michelle
- - Allen, Susan
  - Anderson, Sherry
  - Armstrong, Hailey
  - Armstrong, Jacquie
@@ -309,7 +309,7 @@ vs:
  - Baldwin, Nicole
  - Barbour, Shona
  - Barron, Lauren
- - Baxter, Jen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belanger, Nancy
  - Belisle, Eve
@@ -327,7 +327,7 @@ vs:
  - Blashko, Denise
  - Bohmer, Brenda
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brassard, Veronique
  - Brennan, Amanda
  - Brine, Jenn
@@ -341,7 +341,7 @@ vs:
  - Bush, Tracy
  - Cameron, Kate
  - Cameron, Nancy
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
@@ -494,7 +494,7 @@ vs:
  - MacLean, Kari
  - MacPhee, Robyn
  - Mair, Jessica
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - Mallett, Marla
  - Mann, Lauren
  - Martin, Heather
@@ -529,7 +529,6 @@ vs:
  - Muzika, Shelley
  - Naugler, Tara
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
@@ -614,7 +613,6 @@ vs:
  - Surik, Teejay
  - Sweeting, Val
  - Tanner, Ros
- - Taylor, Susan
  - Thevenot, Kara
  - Thomas, Jill
  - Thompson, Karla

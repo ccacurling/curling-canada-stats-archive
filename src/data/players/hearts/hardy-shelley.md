@@ -141,7 +141,7 @@ vs:
  - MacDiarmid, Kristen
  - MacLean, Kari
  - MacPhee, Robyn
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McConnery, Nancy

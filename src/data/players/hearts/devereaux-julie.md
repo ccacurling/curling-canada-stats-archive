@@ -130,7 +130,7 @@ vs:
  - Atkinson, Rebecca
  - Barbour, Shona
  - Barker, Penny
- - Baxter, Jen
+ - Baxter, Jennifer
  - Belisle, Eve
  - Birnie, Hailey
  - Birt, Suzanne
@@ -157,7 +157,7 @@ vs:
  - Eyamie, Lisa
  - Fullerton, Sarah
  - Fyfe, Liz
- - Gagnon, Emilia
+ - Gagne, Emilia
  - Galusha, Kerry
  - Gibson, Amy
  - Hamon, Callan
@@ -198,9 +198,9 @@ vs:
  - Moore, Kristie
  - Murphy, Sarah
  - Nedohin, Heather
- - Njegovan, Selena
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Selena
  - O'Connor, Susan
  - Officer, Jill
  - O'Neill, Brit

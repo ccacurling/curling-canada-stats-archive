@@ -97,7 +97,7 @@ vs:
  - Lemon, Colette
  - MacDiarmid, Kristen
  - MacLean, Kari
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McConnery, Nancy

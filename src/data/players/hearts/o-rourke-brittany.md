@@ -94,15 +94,15 @@ vs:
  - Atkinson, Rebecca
  - Ayrey, Jinaye
  - Barker, Penny
- - Baxter, Jen
+ - Baxter, Jennifer
  - Birt, Suzanne
  - Black, Christina
  - Boyle, Jane
- - Bradley, Shelly
+ - Bradley, Shelley
  - Brothers, Jill
  - Brown, Rachel
  - Cameron, Kate
- - Camozzi, Rhona
+ - Camozzi, Rhonda
  - Carey, Chelsea
  - Carter, Sasha
  - Cheveldave, Amber

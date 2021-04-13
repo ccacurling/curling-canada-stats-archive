@@ -59,7 +59,7 @@ vs:
  - Lemon, Colette
  - MacIntosh, Kelly
  - MacLean, Kari
- - Makichuck, Lindsay
+ - Makichuk, Lindsay
  - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn

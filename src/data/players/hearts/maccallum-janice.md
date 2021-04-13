@@ -143,7 +143,7 @@ vs:
  - Blanchard, Judy
  - Bonar, Maureen
  - Breen, Theresa
- - Brophy, Cathy
+ - Brophy, Kathy
  - Brown, Jacalyn
  - Brown, Janet
  - Brown, Katie
@@ -293,7 +293,7 @@ vs:
  - Wall, Kirsten
  - Walter, Cathy
  - Wheatcroft, Georgina
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Whitrow, Leanne
  - Willms, Karri
  - Wright, Joanne

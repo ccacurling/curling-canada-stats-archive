@@ -244,9 +244,9 @@ vs:
  - Alexander, Diane
  - Allardyce, Kathie
  - Aleksic, Shannon
+ - Allan, Susan
  - Allen, Laurie
  - Allen, Michelle
- - Allen, Susan
  - Allerton, Dana
  - Anderson, Kelly
  - Anderson, Sherry
@@ -262,7 +262,7 @@ vs:
  - Beever, Jocelyn
  - Belanger, Nancy
  - Belley, Joelle
- - Bennett, Connie
+ - Bennet, Connie
  - Bernard, Cheryl
  - Bernard, Krista
  - Berthelot, Janique
@@ -275,7 +275,7 @@ vs:
  - Boily, Caroline
  - Boudreault, Tracie
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Brown, Jacalyn
  - Brown, Janet
@@ -428,7 +428,7 @@ vs:
  - McPherson, Cheryl
  - Merklinger, Anne
  - Middaugh, Sherry
- - Millar, Bev
+ - Millar, Beverley
  - Miller, Maureen
  - Mittelstadt, Candice
  - Montgomery, Kay
@@ -441,7 +441,7 @@ vs:
  - Muzika, Shelley
  - Nedohin, Heather
  - Nichols, Helen
- - Noye, Marnie
+ - Noye, Marlene
  - O'Leary, Susan
  - Ondrack, Wendy
  - O'Rourke, Kathy
@@ -513,7 +513,7 @@ vs:
  - Walker, Lisa
  - Webb, Corine
  - Wheatcroft, Georgina
- - Whitaker, Lise
+ - Whitaker, Lisa
  - Whitrow, Leanne
  - Willms, Karri
  - Wilson, Patty

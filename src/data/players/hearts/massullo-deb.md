@@ -65,7 +65,7 @@ vs:
  - Blanchard, Judy
  - Bodogh, Marilyn
  - Bowering, Andrea
- - Brophy, Cathy
+ - Brophy, Kathy
  - Burgess, Judy
  - Burry, Gail
  - Cameron, Nancy

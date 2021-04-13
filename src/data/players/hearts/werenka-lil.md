@@ -59,7 +59,7 @@ vs:
  - Baird, Mary
  - Bartlett, Sue Anne
  - Bodogh, Marilyn
- - Brophy, Cathy
+ - Brophy, Kathy
  - Burgess, Judy
  - Bussieres, Helene
  - Carney, Laurie
@@ -107,13 +107,13 @@ vs:
  - McEdwards, Kathy
  - McGeary, Lori
  - McGowan, Frances
- - Millar, Bev
+ - Millar, Beverley
  - Moore, Linda
  - Moyaert, June
  - Narduzzi, Joyce
  - Nelthorpe, Sally
  - Nicholson, Terry
- - Noye, Marnie
+ - Noye, Marlene
  - Pinkney, Colleen
  - Poisson, Francine
  - Porter, Debbie

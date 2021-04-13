@@ -226,7 +226,7 @@ vs:
       year: 1986
       draw: Round Robin(12)
       score: SK 4 - BC 6
- - name: Millar, Bev
+ - name: Millar, Beverley
    totals:
     - event: Hearts
       player1:
@@ -310,7 +310,7 @@ vs:
       year: 1986
       draw: Round Robin(2)
       score: NL 9 - BC 1
- - name: Noye, Marnie
+ - name: Noye, Marlene
    totals:
     - event: Hearts
       player1:

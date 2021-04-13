@@ -2,7 +2,7 @@
 title: Jinaye Ayrey Head-to-head
 name: Ayrey, Jinaye
 vs:
- - name: Baxter, Jen
+ - name: Baxter, Jennifer
    totals:
     - event: Hearts
       player1:
@@ -86,7 +86,7 @@ vs:
       year: 2013
       draw: Round Robin(7)
       score: PE 12 - SK 7
- - name: Bradley, Shelly
+ - name: Bradley, Shelley
    totals:
     - event: Hearts
       player1:

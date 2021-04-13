@@ -132,7 +132,7 @@ vs:
  - Boily, Caroline
  - Bonar, Maureen
  - Bowman, Mary
- - Bradley, Shelly
+ - Bradley, Shelley
  - Breen, Theresa
  - Brown, Maureen
  - Bryant, Angie
@@ -235,7 +235,7 @@ vs:
  - Muzika, Shelley
  - Nedohin, Heather
  - Nicholls, Brenda
- - Nohr, Dianne
+ - Nohr, Diane
  - Ondrack, Wendy
  - O'Rourke, Kathy
  - Osborne, Chantal
