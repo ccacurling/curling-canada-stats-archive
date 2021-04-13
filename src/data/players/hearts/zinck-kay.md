@@ -200,7 +200,7 @@ vs:
  - Hastings, Sharon
  - Hatton, Sandra
  - Hepper, Dorothy
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horte, Rhonda
  - Hutton, Barb
  - Inouye, Wendy

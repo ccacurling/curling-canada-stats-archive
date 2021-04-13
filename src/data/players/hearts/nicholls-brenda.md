@@ -177,7 +177,7 @@ vs:
  - Hanna, Stephanie
  - Hardy, Shelley
  - Holland, Amber
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Howard, Ashley
  - Hughes, Meaghan
  - Hutton, Barb
@@ -246,7 +246,7 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Prosser, Sandi
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Recksiedler, Kristen
  - Richard, Marie
  - Robichaud, Sylvie

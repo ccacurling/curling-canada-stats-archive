@@ -56,7 +56,7 @@ vs:
  - Gudereit, Marcia
  - Hanlon, Heidi
  - Henry, Lou Ann
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Jones, Colleen
  - Jurgenson, Christine

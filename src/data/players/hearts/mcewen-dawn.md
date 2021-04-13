@@ -435,7 +435,7 @@ vs:
  - Price, Kara
  - Prosser, Sandi
  - Rainville, Julie
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette

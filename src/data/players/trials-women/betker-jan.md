@@ -82,7 +82,7 @@ vs:
  - Goring, Alison
  - Gregoire, Veronique
  - Hodson, Kim
- - Hooper, Jane
+ - Hooper-Perroud, Jane
  - Hopkins, Heather
  - Horne, Kate
  - Jones, Colleen
@@ -107,7 +107,7 @@ vs:
  - McPherson, Cheryl
  - Merklinger, Anne
  - Middaugh, Sherry
- - Moore, Kimberly
+ - Moore, Kim
  - Mulroney, Sandra
  - Nimmo, Shannon
  - Nixon, Amy

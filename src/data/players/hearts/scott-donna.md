@@ -210,7 +210,7 @@ vs:
  - Harvey, Janet
  - Hennigar, Karen
  - Herlinveaux, Louise
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Houston, Heather
  - Hutchinson, Joan
  - Hutton, Barb

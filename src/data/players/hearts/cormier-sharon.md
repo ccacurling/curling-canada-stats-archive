@@ -420,7 +420,7 @@ vs:
  - Holland, Amber
  - Holtby, Taryn
  - Homan, Rachel
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Hopkins, Heather
  - Horne, Kate
  - Hughes, Meaghan
@@ -508,7 +508,7 @@ vs:
  - Power, Marie-Anne
  - Radford, Helen
  - Rainville, Julie
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rankin, Heather
  - Renouf, Michele
  - Richards, Brette

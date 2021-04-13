@@ -325,7 +325,7 @@ vs:
  - Power, Marie-Anne
  - Provencal, Darah
  - Rainville, Julie
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette

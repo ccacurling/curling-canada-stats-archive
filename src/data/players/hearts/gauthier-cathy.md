@@ -197,7 +197,7 @@ vs:
  - Hanna, Stephanie
  - Harris, Susan
  - Henry, Lou Ann
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Hutton, Barb
  - Jackson, Virginia

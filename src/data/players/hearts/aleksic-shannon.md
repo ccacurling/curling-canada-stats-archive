@@ -210,7 +210,7 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Power, Marie-Anne
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Renouf, Michele
  - Ross, Allison
  - Sabourin, Joelle

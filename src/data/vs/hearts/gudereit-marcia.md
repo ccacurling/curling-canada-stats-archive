@@ -374,7 +374,7 @@ vs:
       year: 1991
       draw: Round Robin(14)
       score: SK 11 - TR 2
- - name: Hooper Perroud, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Hearts
       player1:

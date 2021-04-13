@@ -2246,7 +2246,7 @@ vs:
       year: 2001
       draw: Round Robin(15)
       score: NS 9 - TR 7
- - name: Hooper Perroud, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Hearts
       player1:

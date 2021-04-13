@@ -130,7 +130,7 @@ vs:
       year: 2005
       draw: Round Robin(3)
       score: MID 11 - BET 4
- - name: Moore, Kimberly
+ - name: Moore, Kim
    totals:
     - event: Trials (Women)
       player1:

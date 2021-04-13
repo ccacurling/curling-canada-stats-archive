@@ -602,34 +602,6 @@ vs:
       year: 2019
       draw: Round Robin(8)
       score: Fleu 8 - Sche 5
- - name: Foster, Kristen
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 74
-        wins: 0
-        losses: 1
-      player2:
-        percent: 89
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'CB'
-        position: Fourth
-        percent: 74
-        win: 0
-        loss: 1
-      player2:
-        team: 'SL'
-        position: Second
-        percent: 89
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2010
-      draw: Final(15)
-      score: CB 3 - SL 7
  - name: Froud, Susan
    totals:
     - event: Canada Cup (Women)
@@ -1422,13 +1394,13 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 73
-        wins: 2
-        losses: 2
-      player2:
         percent: 69
-        wins: 2
-        losses: 2
+        wins: 1
+        losses: 3
+      player2:
+        percent: 74
+        wins: 3
+        losses: 1
    games:
     - player1:
         team: 'BERN'
@@ -1465,19 +1437,19 @@ vs:
     - player1:
         team: 'CB'
         position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'KS'
-        position: Fourth
-        percent: 65
+        percent: 74
         win: 0
         loss: 1
+      player2:
+        team: 'SL'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
       event: Canada Cup (Women)
       year: 2010
-      draw: Round Robin(1)
-      score: CB 6 - KS 3
+      draw: Final(15)
+      score: CB 3 - SL 7
     - player1:
         team: 'Sche'
         position: Fourth

@@ -92,6 +92,7 @@ years:
    shots-percent: 79
 vs:
  - Anderson, Sherry
+ - Baleja, Susan
  - Bell, Chelsey
  - Bernard, Cheryl
  - Betker, Jan

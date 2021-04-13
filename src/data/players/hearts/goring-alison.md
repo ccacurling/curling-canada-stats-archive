@@ -137,7 +137,7 @@ vs:
  - Harvey, Janet
  - Henry, Lou Ann
  - Hensley, Merna
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Houston, Heather
  - Jackson, Virginia

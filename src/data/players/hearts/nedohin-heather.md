@@ -264,7 +264,7 @@ vs:
  - Holland, Amber
  - Holtby, Taryn
  - Homan, Rachel
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Hopkins, Heather
  - Horte, Rhonda
  - Hughes, Meaghan

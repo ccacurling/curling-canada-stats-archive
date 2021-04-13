@@ -155,7 +155,7 @@ vs:
  - Paul, Sarah
  - Phillips, Kristen
  - Rainville, Julie
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Richards, Brette
  - Robertson, Darcy
  - Rogers, Rhonda

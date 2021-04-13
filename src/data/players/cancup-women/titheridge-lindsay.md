@@ -75,7 +75,6 @@ vs:
  - Bell, Chelsey
  - Carmody, Erin
  - Darbyshire, Carolyn
- - Foster, Kristen
  - Hardy, Shelley
  - Holland, Amber
  - Homan, Rachel
@@ -103,7 +102,7 @@ vs:
  - Overton-Clapham, Cathy
  - Peters, Laine
  - Preston, Samantha
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
  - Rogers, Rhonda
  - Sabourin, Joelle

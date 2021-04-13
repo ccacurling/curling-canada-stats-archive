@@ -58,7 +58,7 @@ vs:
       year: 2012
       draw: Round Robin(8)
       score: NED 6 - WEB 9
- - name: Ramsay, Geri Lynn
+ - name: Ramsay, Geri-Lynn
    totals:
     - event: Canada Cup (Women)
       player1:

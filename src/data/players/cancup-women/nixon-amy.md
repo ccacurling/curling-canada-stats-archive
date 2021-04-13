@@ -192,7 +192,6 @@ vs:
  - Anderson, Sherry
  - Appelman, Pam
  - Arsenault, Mary-Anne
- - Bakker, Glenys
  - Bell, Chelsey
  - Bergner, Sasha
  - Betker, Jan

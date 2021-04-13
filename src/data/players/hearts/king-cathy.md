@@ -227,7 +227,7 @@ vs:
  - Henry, Lou Ann
  - Hodson, Kim
  - Hollands, Saskia
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Hopkins, Heather
  - Iskiw, Beth
  - Jackson, Virginia

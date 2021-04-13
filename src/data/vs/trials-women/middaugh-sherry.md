@@ -74,7 +74,7 @@ vs:
       year: 2001
       draw: Round Robin(5)
       score: HOL 9 - MID 10
- - name: Moore, Kimberly
+ - name: Moore, Kim
    totals:
     - event: Trials (Women)
       player1:

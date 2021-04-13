@@ -119,7 +119,6 @@ vs:
  - Englot, Michelle
  - Fargey, Lisa
  - Farrell, Allison
- - Foster, Kristen
  - Gatchell, Sara
  - Gudereit, Marcia
  - Hardy, Shelley

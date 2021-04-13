@@ -85,7 +85,7 @@ vs:
  - Gellard, Kim
  - Green, Sue
  - Hanlon, Heidi
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Hutton, Barb
  - Johnstone, Loralee
  - Jones, Colleen

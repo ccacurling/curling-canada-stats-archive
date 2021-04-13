@@ -83,7 +83,7 @@ vs:
  - Gudereit, Marcia
  - Hodson, Kim
  - Holland, Amber
- - Hooper, Jane
+ - Hooper-Perroud, Jane
  - Hopkins, Heather
  - Horne, Kate
  - Jones, Colleen
@@ -107,7 +107,7 @@ vs:
  - Merklinger, Anne
  - Middaugh, Sherry
  - Montgomery, Kay
- - Moore, Kimberly
+ - Moore, Kim
  - Mulroney, Sandra
  - Nimmo, Shannon
  - Overton-Clapham, Cathy

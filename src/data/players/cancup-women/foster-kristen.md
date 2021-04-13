@@ -4,37 +4,37 @@ name: Kristen Foster
 name-sort: Foster, Kristen
 totals:
  - event: Canada Cup (Women)
-   games: 27
-   wins: 15
-   losses: 12
-   inturn-total: 280
-   inturn-percent: 77
-   outturn-total: 238
-   outturn-percent: 77
-   draw-total: 216
-   draw-percent: 73
-   takeout-total: 302
-   takeout-percent: 80
-   shots-total: 518
-   shots-percent: 77
+   games: 24
+   wins: 10
+   losses: 14
+   inturn-total: 240
+   inturn-percent: 73
+   outturn-total: 228
+   outturn-percent: 75
+   draw-total: 208
+   draw-percent: 71
+   takeout-total: 260
+   takeout-percent: 76
+   shots-total: 468
+   shots-percent: 74
 years:
  - year: 2010
    event: Canada Cup (Women)
-   team: "SL"
+   team: "CC"
    position: Second
-   games: 8
-   wins: 7
-   losses: 1
-   inturn-total: 83
-   inturn-percent: 83
-   outturn-total: 67
-   outturn-percent: 84
-   draw-total: 56
-   draw-percent: 76
-   takeout-total: 94
-   takeout-percent: 87
-   shots-total: 150
-   shots-percent: 83
+   games: 5
+   wins: 2
+   losses: 3
+   inturn-total: 43
+   inturn-percent: 65
+   outturn-total: 57
+   outturn-percent: 75
+   draw-total: 48
+   draw-percent: 69
+   takeout-total: 52
+   takeout-percent: 73
+   shots-total: 100
+   shots-percent: 71
  - year: 2011
    event: Canada Cup (Women)
    team: "CAR"
@@ -88,14 +88,10 @@ years:
    shots-percent: 79
 vs:
  - Anderson, Sherry
- - Armstrong, Jacquie
  - Armstrong, Leigh
  - Bell, Chelsey
- - Bernard, Cheryl
  - Brown, Rachel
- - Carey, Chelsea
  - Carmody, Erin
- - Carter, Sasha
  - Courtney, Joanne
  - Darbyshire, Carolyn
  - Ferguson, Dana
@@ -115,38 +111,28 @@ vs:
  - LeDrew, Stephanie
  - Lemon, Colette
  - Loder, Jenna
- - MacLean, Kari
  - Mair, Jessica
- - McCarville, Krista
- - McDonald, Kristy
  - McEwen, Dawn
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma
- - Morris, Cori
  - Nedohin, Heather
  - Nixon, Amy
- - O'Connor, Susan
  - Officer, Jill
  - Olson-Johns, Lori
  - Overton-Clapham, Cathy
  - Peterman, Jocelyn
  - Peters, Laine
- - Potts, Sarah
  - Preston, Samantha
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
  - Rogers, Rhonda
  - Sabourin, Joelle
  - Schmidt, Stephanie
  - Schneider, Kim
  - Schneider, Tammy
- - Schraeder, Jeanna
- - Scott, Kelly
  - Singler, Sherri
- - Sippala, Ashley
  - Sweeting, Val
- - Titheridge, Lindsay
  - Wall, Kirsten
  - Weagle, Lisa
  - Webster, Bronwen

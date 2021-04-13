@@ -195,7 +195,7 @@ vs:
  - Phillips, Kristen
  - Porter, Erin
  - Rainville, Julie
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schneider, Kim

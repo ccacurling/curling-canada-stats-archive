@@ -80,7 +80,7 @@ vs:
  - Gauthier, Cathy
  - Gellard, Kim
  - Gudereit, Marcia
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Hutton, Barb
  - Jenkins, Sandra
  - Jones, Colleen

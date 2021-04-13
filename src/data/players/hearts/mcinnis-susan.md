@@ -294,7 +294,7 @@ vs:
  - Holden, Anna-Mae
  - Hollands, Saskia
  - Homan, Rachel
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Hopkins, Heather
  - Horne, Kate
  - Houston, Heather

@@ -1414,7 +1414,7 @@ vs:
       year: 2010
       draw: Round Robin(10)
       score: QC 6 - SK 8
- - name: Ramsay, Geri Lynn
+ - name: Ramsay, Geri-Lynn
    totals:
     - event: Hearts
       player1:

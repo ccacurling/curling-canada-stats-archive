@@ -94,7 +94,7 @@ vs:
  - Hanlon, Heidi
  - Henry, Lou Ann
  - Holowec, Ainsley
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Jones, Colleen
  - Jurgenson, Christine

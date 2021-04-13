@@ -6,12 +6,12 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 80
+        percent: 78
         wins: 2
-        losses: 3
+        losses: 4
       player2:
-        percent: 79
-        wins: 3
+        percent: 81
+        wins: 4
         losses: 2
    games:
     - player1:
@@ -30,6 +30,22 @@ vs:
       year: 2009
       draw: Round Robin(1)
       score: LAWT 4 - KING 10
+    - player1:
+        team: 'JJ'
+        position: Third
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'SL'
+        position: Fourth
+        percent: 92
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(5)
+      score: JJ 2 - SL 7
     - player1:
         team: 'JON'
         position: Third
@@ -1522,7 +1538,7 @@ vs:
       year: 2012
       draw: Round Robin(1)
       score: JON 9 - WEB 7
- - name: Ramsay, Geri Lynn
+ - name: Ramsay, Geri-Lynn
    totals:
     - event: Canada Cup (Women)
       player1:

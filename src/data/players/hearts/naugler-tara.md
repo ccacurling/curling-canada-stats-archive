@@ -155,7 +155,7 @@ vs:
  - Phillips, Kristen
  - Pinkney, Colleen
  - Rainville, Julie
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rogers, Rhonda
  - Santos, Deb
  - Schneider, Kim

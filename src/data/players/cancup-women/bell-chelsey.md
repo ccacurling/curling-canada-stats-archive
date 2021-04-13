@@ -90,7 +90,6 @@ vs:
  - Anderson, Sherry
  - Appelman, Pam
  - Arsenault, Mary-Anne
- - Baleja, Susan
  - Bernard, Cheryl
  - Brassard, Veronique
  - Breen, Theresa

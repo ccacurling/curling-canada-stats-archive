@@ -224,7 +224,7 @@ vs:
  - Harvey, Janet
  - Henry, Lou Ann
  - Hensley, Merna
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Hopkins, Heather
  - Horne, Kate
  - Houston, Heather

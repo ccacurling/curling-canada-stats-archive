@@ -77,6 +77,6 @@ vs:
  - deSolla, Jodie
  - Nowlan, Denise
  - O'Rourke, Kathy
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Sobey, Lianne
 ---

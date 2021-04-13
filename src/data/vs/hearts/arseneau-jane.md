@@ -2458,7 +2458,7 @@ vs:
       year: 2001
       draw: Round Robin(5)
       score: NB 11 - TR 5
- - name: Hooper Perroud, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Hearts
       player1:

@@ -958,7 +958,7 @@ vs:
       year: 2016
       draw: Round Robin(13)
       score: QC 3 - CA 10
- - name: Ramsay, Geri Lynn
+ - name: Ramsay, Geri-Lynn
    totals:
     - event: Hearts
       player1:

@@ -198,7 +198,7 @@ vs:
       year: 1997
       draw: Round Robin(7)
       score: MAT 4 - SCHM 6
- - name: Hooper, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Trials (Women)
       player1:
@@ -562,7 +562,7 @@ vs:
       year: 1997
       draw: Round Robin(2)
       score: SCHE 8 - MAT 3
- - name: Moore, Kimberly
+ - name: Moore, Kim
    totals:
     - event: Trials (Women)
       player1:

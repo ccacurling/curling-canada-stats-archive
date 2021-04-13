@@ -358,34 +358,6 @@ vs:
       year: 2014
       draw: Round Robin(7)
       score: AND 6 - JON 7
- - name: Lawton, Stefanie
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 82
-        wins: 1
-        losses: 0
-      player2:
-        percent: 59
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SL'
-        position: Lead
-        percent: 82
-        win: 1
-        loss: 0
-      player2:
-        team: 'KS'
-        position: Fourth
-        percent: 59
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2010
-      draw: Round Robin(3)
-      score: SL 13 - KS 3
  - name: LeDrew, Stephanie
    totals:
     - event: Canada Cup (Women)
@@ -1650,7 +1622,7 @@ vs:
       year: 2012
       draw: Round Robin(7)
       score: WEB 4 - LAW 8
- - name: Ramsay, Geri Lynn
+ - name: Ramsay, Geri-Lynn
    totals:
     - event: Canada Cup (Women)
       player1:

@@ -3882,7 +3882,7 @@ vs:
       year: 1987
       draw: Round Robin(9)
       score: SK 3 - BC 9
- - name: Hooper Perroud, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Hearts
       player1:

@@ -175,7 +175,7 @@ vs:
  - Holowec, Ainsley
  - Holtby, Taryn
  - Homan, Rachel
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horte, Rhonda
  - Hutton, Barb
  - Iskiw, Beth

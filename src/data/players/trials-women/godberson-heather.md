@@ -50,7 +50,7 @@ vs:
  - Gellard, Kim
  - Goring, Alison
  - Gudereit, Marcia
- - Hooper, Jane
+ - Hooper-Perroud, Jane
  - Hopkins, Heather
  - Jurgenson, Christine
  - Kleibrink, Shannon
@@ -64,7 +64,7 @@ vs:
  - McKnight, Patti
  - Merklinger, Anne
  - Middaugh, Sherry
- - Moore, Kimberly
+ - Moore, Kim
  - Mulroney, Sandra
  - Nimmo, Shannon
  - Overton-Clapham, Cathy

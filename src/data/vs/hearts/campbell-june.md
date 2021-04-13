@@ -866,7 +866,7 @@ vs:
       year: 1997
       draw: Round Robin(15)
       score: PE 7 - NB 6
- - name: Hooper Perroud, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Hearts
       player1:

@@ -197,7 +197,7 @@ vs:
  - Pinksen, Sadie
  - Porter, Erin
  - Rainville, Julie
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette

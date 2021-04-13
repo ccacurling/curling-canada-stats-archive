@@ -79,7 +79,7 @@ vs:
  - Gregoire, Veronique
  - Gudereit, Marcia
  - Hodson, Kim
- - Hooper, Jane
+ - Hooper-Perroud, Jane
  - Hopkins, Heather
  - Horne, Kate
  - Jones, Colleen
@@ -104,7 +104,7 @@ vs:
  - McPherson, Cheryl
  - Merklinger, Anne
  - Middaugh, Sherry
- - Moore, Kimberly
+ - Moore, Kim
  - Mulroney, Sandra
  - Officer, Jill
  - Overton-Clapham, Cathy

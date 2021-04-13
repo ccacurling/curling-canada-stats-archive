@@ -198,7 +198,7 @@ vs:
       year: 1996
       draw: Round Robin(12)
       score: ON 11 - TR 1
- - name: Hooper Perroud, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Hearts
       player1:

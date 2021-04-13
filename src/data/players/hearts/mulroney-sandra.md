@@ -121,7 +121,7 @@ vs:
  - Gushulak, Diane
  - Hanlon, Heidi
  - Harrison, Meredith
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Hunter, Lana
  - Hutton, Barb

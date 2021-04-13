@@ -212,7 +212,7 @@ vs:
  - Phillips, Kristen
  - Pinksen, Sadie
  - Rainville, Julie
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Robison, Michala
  - Rocque, Kelsey
  - Rogers, Rhonda

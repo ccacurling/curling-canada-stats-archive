@@ -1570,7 +1570,7 @@ vs:
       year: 2007
       draw: Round Robin(10)
       score: AB 10 - NS 6
- - name: Hooper Perroud, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Hearts
       player1:

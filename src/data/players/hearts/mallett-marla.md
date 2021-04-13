@@ -150,7 +150,7 @@ vs:
  - Henry, Lou Ann
  - Hill, Trish
  - Homan, Rachel
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Hughes, Meaghan
  - Jackson, Virginia

@@ -254,7 +254,7 @@ vs:
       year: 2001
       draw: Round Robin(2)
       score: FRA 6 - HOL 7
- - name: Hooper, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Trials (Women)
       player1:
@@ -990,7 +990,7 @@ vs:
       year: 2001
       draw: Round Robin(2)
       score: FRA 6 - HOL 7
- - name: Moore, Kimberly
+ - name: Moore, Kim
    totals:
     - event: Trials (Women)
       player1:

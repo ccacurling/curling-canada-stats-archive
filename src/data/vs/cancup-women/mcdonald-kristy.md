@@ -530,7 +530,7 @@ vs:
       year: 2012
       draw: Round Robin(2)
       score: WEB 7 - CAR 4
- - name: Ramsay, Geri Lynn
+ - name: Ramsay, Geri-Lynn
    totals:
     - event: Canada Cup (Women)
       player1:

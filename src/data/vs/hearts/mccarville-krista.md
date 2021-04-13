@@ -2026,7 +2026,7 @@ vs:
       year: 2016
       draw: Round Robin(15)
       score: NO 7 - QC 2
- - name: Ramsay, Geri Lynn
+ - name: Ramsay, Geri-Lynn
    totals:
     - event: Hearts
       player1:

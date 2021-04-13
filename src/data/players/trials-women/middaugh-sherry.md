@@ -132,7 +132,7 @@ vs:
  - Hodson, Kim
  - Holland, Amber
  - Homan, Rachel
- - Hooper, Jane
+ - Hooper-Perroud, Jane
  - Hopkins, Heather
  - Horne, Kate
  - Iskiw, Beth
@@ -169,7 +169,7 @@ vs:
  - Merklinger, Anne
  - Miskew, Emma
  - Montgomery, Kay
- - Moore, Kimberly
+ - Moore, Kim
  - Mulroney, Sandra
  - Nedohin, Heather
  - Nimmo, Shannon

@@ -116,7 +116,7 @@ vs:
  - Harvey, Janet
  - Hatton, Sandra
  - Henry, Lou Ann
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Hopkins, Heather
  - Horne, Kate
  - Horte, Rhonda

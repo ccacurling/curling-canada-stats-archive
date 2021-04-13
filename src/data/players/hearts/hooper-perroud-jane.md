@@ -1,7 +1,7 @@
 ---
-title: Jane Hooper Perroud
-name: Jane Hooper Perroud
-name-sort: Hooper Perroud, Jane
+title: Jane Hooper-Perroud
+name: Jane Hooper-Perroud
+name-sort: Hooper-Perroud, Jane
 totals:
  - event: Hearts
    games: 25

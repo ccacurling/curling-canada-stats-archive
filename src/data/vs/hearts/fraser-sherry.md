@@ -486,7 +486,7 @@ vs:
       year: 2012
       draw: Round Robin(6)
       score: BC 7 - CA 5
- - name: Hooper Perroud, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Hearts
       player1:

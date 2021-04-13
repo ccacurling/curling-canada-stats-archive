@@ -155,12 +155,12 @@ vs:
     - event: Canada Cup (Women)
       player1:
         percent: 70
-        wins: 2
-        losses: 1
-      player2:
-        percent: 88
-        wins: 1
+        wins: 3
         losses: 2
+      player2:
+        percent: 82
+        wins: 2
+        losses: 3
    games:
     - player1:
         team: 'Kle'
@@ -194,6 +194,38 @@ vs:
       year: 2008
       draw: Round Robin(9)
       score: KLEI 6 - LAWT 8
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'SL'
+        position: Fourth
+        percent: 58
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(6)
+      score: SK 11 - SL 5
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 57
+        win: 0
+        loss: 1
+      player2:
+        team: 'SL'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Semi-Final(13)
+      score: SK 4 - SL 8
     - player1:
         team: 'KLE'
         position: Fourth

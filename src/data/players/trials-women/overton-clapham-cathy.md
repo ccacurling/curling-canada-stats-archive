@@ -129,7 +129,7 @@ vs:
  - Hodson, Kim
  - Holland, Amber
  - Homan, Rachel
- - Hooper, Jane
+ - Hooper-Perroud, Jane
  - Hopkins, Heather
  - Horne, Kate
  - Jones, Colleen
@@ -166,7 +166,7 @@ vs:
  - Merklinger, Anne
  - Middaugh, Sherry
  - Miskew, Emma
- - Moore, Kimberly
+ - Moore, Kim
  - Moore, Kristie
  - Morris, Cori
  - Mulroney, Sandra

@@ -39,11 +39,11 @@ vs:
  - Anderson, Sherry
  - Bernard, Cheryl
  - Darbyshire, Carolyn
- - Foster, Kristen
  - Holland, Amber
  - Iskiw, Beth
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Lawton, Stefanie
  - MacLean, Kari
  - McCarville, Krista
  - Miller, Jessica

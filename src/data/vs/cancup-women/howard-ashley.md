@@ -366,7 +366,7 @@ vs:
       year: 2012
       draw: Round Robin(4)
       score: OVE 4 - WEB 8
- - name: Ramsay, Geri Lynn
+ - name: Ramsay, Geri-Lynn
    totals:
     - event: Canada Cup (Women)
       player1:

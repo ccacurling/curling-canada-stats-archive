@@ -30,7 +30,7 @@ vs:
       year: 1997
       draw: Round Robin(9)
       score: SCHM 11 - GOR 4
- - name: Hooper, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Trials (Women)
       player1:

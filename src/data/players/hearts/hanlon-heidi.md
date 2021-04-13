@@ -324,7 +324,7 @@ vs:
  - Hensley, Merna
  - Herlinveaux, Louise
  - Hodson, Kim
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Horte, Rhonda
  - Houston, Heather

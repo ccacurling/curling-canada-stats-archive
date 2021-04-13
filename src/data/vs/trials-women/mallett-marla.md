@@ -142,7 +142,7 @@ vs:
       year: 1997
       draw: Round Robin(8)
       score: SCHE 5 - LAW 7
- - name: Moore, Kimberly
+ - name: Moore, Kim
    totals:
     - event: Trials (Women)
       player1:

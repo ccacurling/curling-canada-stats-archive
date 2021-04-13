@@ -2,7 +2,7 @@
 title: Lou Ann Henry Head-to-head
 name: Henry, Lou Ann
 vs:
- - name: Hooper Perroud, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Hearts
       player1:

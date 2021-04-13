@@ -35,6 +35,10 @@ years:
    takeout-percent: 87
    shots-total: 152
    shots-percent: 85
+ - year: 2017
+   event: Trials (Women)
+   team: "Flax"
+   position: Alternate
 vs:
  - Anderson, Sherry
  - Armstrong, Leigh

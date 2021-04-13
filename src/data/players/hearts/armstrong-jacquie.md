@@ -152,7 +152,7 @@ vs:
  - Peters, Laine
  - Phillips, Kristen
  - Rainville, Julie
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rogers, Rhonda
  - Schneider, Kim
  - Schneider, Tammy

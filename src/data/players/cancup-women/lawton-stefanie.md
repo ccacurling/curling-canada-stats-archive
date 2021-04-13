@@ -4,19 +4,19 @@ name: Stefanie Lawton
 name-sort: Lawton, Stefanie
 totals:
  - event: Canada Cup (Women)
-   games: 41
-   wins: 20
-   losses: 21
-   inturn-total: 422
-   inturn-percent: 77
-   outturn-total: 353
-   outturn-percent: 77
-   draw-total: 362
-   draw-percent: 71
-   takeout-total: 413
+   games: 44
+   wins: 27
+   losses: 17
+   inturn-total: 450
+   inturn-percent: 78
+   outturn-total: 374
+   outturn-percent: 79
+   draw-total: 374
+   draw-percent: 75
+   takeout-total: 450
    takeout-percent: 82
-   shots-total: 775
-   shots-percent: 77
+   shots-total: 824
+   shots-percent: 79
 years:
  - year: 2007
    event: Canada Cup (Women)
@@ -71,21 +71,21 @@ years:
    shots-percent: 73
  - year: 2010
    event: Canada Cup (Women)
-   team: "KS"
+   team: "SL"
    position: Fourth
-   games: 5
-   wins: 0
-   losses: 5
-   inturn-total: 47
-   inturn-percent: 70
-   outturn-total: 49
-   outturn-percent: 65
-   draw-total: 54
-   draw-percent: 55
-   takeout-total: 42
-   takeout-percent: 85
-   shots-total: 96
-   shots-percent: 68
+   games: 8
+   wins: 7
+   losses: 1
+   inturn-total: 75
+   inturn-percent: 77
+   outturn-total: 70
+   outturn-percent: 81
+   draw-total: 66
+   draw-percent: 77
+   takeout-total: 79
+   takeout-percent: 82
+   shots-total: 145
+   shots-percent: 79
  - year: 2011
    event: Canada Cup (Women)
    team: "LAW"
@@ -140,8 +140,8 @@ years:
 vs:
  - Anderson, Sherry
  - Appelman, Pam
+ - Armstrong, Jacquie
  - Armstrong, Leigh
- - Baleja, Susan
  - Bell, Chelsey
  - Bernard, Cheryl
  - Birchard, Shannon
@@ -164,6 +164,7 @@ vs:
  - Fyfe, Liz
  - Gignac, Donna
  - Hamer, Kate
+ - Hardy, Shelley
  - Harmark, Andra
  - Haughian, Jessie
  - Hodson, Kim
@@ -174,7 +175,6 @@ vs:
  - Jones, Jennifer
  - Jordan, Stephanie
  - Kalenchuk, Heather
- - Kasner, Marliese
  - Keshen, Christine
  - King, Cathy
  - Kleibrink, Shannon
@@ -182,7 +182,9 @@ vs:
  - Kreviazuk, Alison
  - Larouche, Marie-France
  - Lawes, Kaitlyn
+ - LeDrew, Stephanie
  - Lemay, Annie
+ - Lemon, Colette
  - Loder, Jenna
  - MacCuish, Kristin
  - Maclachlan, Kyla
@@ -196,7 +198,6 @@ vs:
  - Meilleur, Briane
  - Merklinger, Lee
  - Middaugh, Sherry
- - Miller, Jessica
  - Miskew, Emma
  - Moore, Kim
  - Moore, Kristie
@@ -213,11 +214,12 @@ vs:
  - Peters, Laine
  - Potts, Sarah
  - Preston, Samantha
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rankin, Heather
  - Rizzo, Jo-Ann
  - Robertson, Desiree
  - Rocque, Raylene
+ - Rogers, Rhonda
  - Sabourin, Joelle
  - Schneider, Kim
  - Schneider, Tammy
@@ -226,7 +228,6 @@ vs:
  - Seeley, Heather
  - Simmons, Cindy
  - Simons, Renee
- - Singler, Sherri
  - Sippala, Ashley
  - Sweeting, Val
  - Titheridge, Lindsay

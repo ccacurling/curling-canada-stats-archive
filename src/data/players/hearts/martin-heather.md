@@ -282,7 +282,7 @@ vs:
  - Holland, Amber
  - Holtby, Taryn
  - Homan, Rachel
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Hunter, Lana
  - Hutton, Barb

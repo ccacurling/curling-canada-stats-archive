@@ -137,7 +137,6 @@ vs:
  - Ferguson, Dana
  - Flaxey, Allison
  - Fleury, Tracy
- - Foster, Kristen
  - Foster, Vanessa
  - Fyfe, Liz
  - Gates, Amanda
@@ -181,7 +180,7 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Preston, Samantha
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Rocque, Kelsey

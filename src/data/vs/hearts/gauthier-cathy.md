@@ -542,7 +542,7 @@ vs:
       year: 1995
       draw: Round Robin(4)
       score: MB 10 - PE 4
- - name: Hooper Perroud, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Hearts
       player1:

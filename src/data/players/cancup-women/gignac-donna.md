@@ -88,6 +88,7 @@ years:
    shots-percent: 85
 vs:
  - Arsenault, Mary-Anne
+ - Bakker, Glenys
  - Baleja, Susan
  - Bell, Chelsey
  - Bergner, Sasha

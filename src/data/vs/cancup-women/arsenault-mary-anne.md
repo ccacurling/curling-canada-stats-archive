@@ -6,46 +6,14 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 77
-        wins: 1
-        losses: 3
+        percent: 71
+        wins: 0
+        losses: 2
       player2:
         percent: 81
-        wins: 3
-        losses: 1
+        wins: 2
+        losses: 0
    games:
-    - player1:
-        team: 'CJO'
-        position: Second
-        percent: 73
-        win: 0
-        loss: 1
-      player2:
-        team: 'AND'
-        position: Second
-        percent: 85
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2004
-      draw: Playoff(12)
-      score: AND 7 - CJO 6
-    - player1:
-        team: 'CJO'
-        position: Second
-        percent: 90
-        win: 1
-        loss: 0
-      player2:
-        team: 'AND'
-        position: Second
-        percent: 76
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2004
-      draw: Final(14)
-      score: AND 7 - CJO 8
     - player1:
         team: 'Jon'
         position: Second

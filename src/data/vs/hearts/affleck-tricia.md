@@ -2666,7 +2666,7 @@ vs:
       year: 2011
       draw: Round Robin(6)
       score: ON 8 - PE 2
- - name: Hooper Perroud, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Hearts
       player1:

@@ -706,7 +706,7 @@ vs:
       year: 2005
       draw: Round Robin(11)
       score: QC 5 - NB 8
- - name: Ramsay, Geri Lynn
+ - name: Ramsay, Geri-Lynn
    totals:
     - event: Hearts
       player1:

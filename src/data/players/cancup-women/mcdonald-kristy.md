@@ -97,7 +97,6 @@ vs:
  - Darbyshire, Carolyn
  - Ferguson, Dana
  - Fleury, Tracy
- - Foster, Kristen
  - Gates, Amanda
  - Gates, Jennifer
  - Hardy, Shelley
@@ -129,7 +128,7 @@ vs:
  - Overton-Clapham, Cathy
  - Peters, Laine
  - Preston, Samantha
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
  - Rocque, Kelsey
  - Rogers, Rhonda

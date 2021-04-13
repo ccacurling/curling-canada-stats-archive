@@ -247,7 +247,7 @@ vs:
  - Phillips, Laura
  - Potts, Sarah
  - Rainville, Julie
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rankin, Heather
  - Richards, Brette
  - Roberts, Angela

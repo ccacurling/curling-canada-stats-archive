@@ -318,46 +318,30 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 86
+        percent: 88
         wins: 1
-        losses: 1
+        losses: 0
       player2:
-        percent: 82
-        wins: 1
+        percent: 76
+        wins: 0
         losses: 1
    games:
     - player1:
         team: 'SK'
         position: Lead
-        percent: 93
+        percent: 88
         win: 1
         loss: 0
       player2:
-        team: 'SL'
+        team: 'CC'
         position: Second
         percent: 76
         win: 0
         loss: 1
       event: Canada Cup (Women)
       year: 2010
-      draw: Round Robin(6)
-      score: SK 11 - SL 5
-    - player1:
-        team: 'SK'
-        position: Lead
-        percent: 80
-        win: 0
-        loss: 1
-      player2:
-        team: 'SL'
-        position: Second
-        percent: 86
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2010
-      draw: Semi-Final(13)
-      score: SK 4 - SL 8
+      draw: Round Robin(3)
+      score: CC 4 - SK 8
  - name: Gignac, Donna
    totals:
     - event: Canada Cup (Women)
@@ -918,13 +902,13 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 88
-        wins: 0
-        losses: 1
-      player2:
-        percent: 89
+        percent: 87
         wins: 1
-        losses: 0
+        losses: 2
+      player2:
+        percent: 79
+        wins: 2
+        losses: 1
    games:
     - player1:
         team: 'KLEI'
@@ -942,6 +926,38 @@ vs:
       year: 2008
       draw: Round Robin(9)
       score: KLEI 6 - LAWT 8
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'SL'
+        position: Fourth
+        percent: 58
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(6)
+      score: SK 11 - SL 5
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'SL'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Semi-Final(13)
+      score: SK 4 - SL 8
  - name: LeDrew, Stephanie
    totals:
     - event: Canada Cup (Women)

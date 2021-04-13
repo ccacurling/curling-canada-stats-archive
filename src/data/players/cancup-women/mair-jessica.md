@@ -98,7 +98,7 @@ vs:
  - Officer, Jill
  - Overton-Clapham, Cathy
  - Preston, Samantha
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
  - Sabourin, Joelle
  - Schneider, Kim

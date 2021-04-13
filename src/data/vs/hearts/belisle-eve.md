@@ -2430,7 +2430,7 @@ vs:
       year: 2017
       draw: Round Robin(3)
       score: NO 9 - QC 4
- - name: Ramsay, Geri Lynn
+ - name: Ramsay, Geri-Lynn
    totals:
     - event: Hearts
       player1:

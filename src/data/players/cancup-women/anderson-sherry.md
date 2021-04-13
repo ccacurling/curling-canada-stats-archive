@@ -158,6 +158,7 @@ vs:
  - Armstrong, Jacquie
  - Armstrong, Leigh
  - Arsenault, Mary-Anne
+ - Bakker, Glenys
  - Baleja, Susan
  - Bell, Chelsey
  - Bergner, Sasha
@@ -239,7 +240,7 @@ vs:
  - Peters, Laine
  - Potts, Sarah
  - Preston, Samantha
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Richard, Jeanna
  - Rizzo, Jo-Ann
  - Robertson, Darcy

@@ -2554,7 +2554,7 @@ vs:
       year: 2004
       draw: Round Robin(10)
       score: NL 8 - SK 6
- - name: Hooper Perroud, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Hearts
       player1:

@@ -170,7 +170,7 @@ vs:
       year: 1997
       draw: Round Robin(3)
       score: MER 5 - SCHE 8
- - name: Moore, Kimberly
+ - name: Moore, Kim
    totals:
     - event: Trials (Women)
       player1:

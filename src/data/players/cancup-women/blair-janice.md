@@ -37,7 +37,6 @@ years:
    shots-percent: 76
 vs:
  - Anderson, Sherry
- - Baleja, Susan
  - Bernard, Cheryl
  - Darbyshire, Carolyn
  - Dealy, Diane

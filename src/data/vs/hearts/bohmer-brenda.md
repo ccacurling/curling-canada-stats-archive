@@ -1958,7 +1958,7 @@ vs:
       year: 2002
       draw: Round Robin(2)
       score: SK 5 - AB 3
- - name: Hooper Perroud, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Hearts
       player1:

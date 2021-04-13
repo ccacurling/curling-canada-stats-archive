@@ -183,7 +183,7 @@ vs:
  - Haspect, Ginette
  - Henry, Lou Ann
  - Hodson, Kim
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Hopkins, Heather
  - Horne, Kate
  - Howse, Lillian

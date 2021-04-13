@@ -58,7 +58,7 @@ vs:
       year: 2010
       draw: Round Robin(9)
       score: PE 7 - NS 4
- - name: Ramsay, Geri Lynn
+ - name: Ramsay, Geri-Lynn
    totals:
     - event: Hearts
       player1:

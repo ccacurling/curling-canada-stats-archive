@@ -486,14 +486,30 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 76
+        percent: 73
         wins: 1
-        losses: 1
+        losses: 2
       player2:
-        percent: 84
-        wins: 1
+        percent: 87
+        wins: 2
         losses: 1
    games:
+    - player1:
+        team: 'JJ'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'SL'
+        position: Fourth
+        percent: 92
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(5)
+      score: JJ 2 - SL 7
     - player1:
         team: 'JON'
         position: Fourth

@@ -141,7 +141,7 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Preston, Samantha
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rocque, Kelsey
  - Ruus, Karen
  - Schmidt, Stephanie

@@ -314,7 +314,7 @@ vs:
       year: 2004
       draw: Round Robin(12)
       score: SK 9 - NB 4
- - name: Hooper Perroud, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Hearts
       player1:

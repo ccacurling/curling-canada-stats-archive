@@ -75,7 +75,7 @@ vs:
  - Overton-Clapham, Cathy
  - Potts, Sarah
  - Rainville, Julie
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rogers, Leslie
  - Rogers, Rhonda
  - Schneider, Kim

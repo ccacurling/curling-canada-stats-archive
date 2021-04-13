@@ -103,7 +103,7 @@ vs:
  - Harvey, Alison
  - Harvey, Carol
  - Harvey, Janet
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Johnstone, Loralee
  - Jones, Colleen

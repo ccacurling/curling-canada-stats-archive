@@ -106,7 +106,7 @@ vs:
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
  - Phillips, Kristen
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Ridalls, Kristen
  - Rocque, Raylene
  - Rogers, Rhonda

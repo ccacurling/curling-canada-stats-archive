@@ -240,7 +240,7 @@ vs:
  - Peters, Laine
  - Potts, Sarah
  - Preston, Samantha
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Rocque, Kelsey

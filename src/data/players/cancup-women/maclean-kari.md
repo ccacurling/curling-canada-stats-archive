@@ -41,7 +41,6 @@ vs:
  - Bernard, Cheryl
  - Carter, Sasha
  - Darbyshire, Carolyn
- - Foster, Kristen
  - Holland, Amber
  - Iskiw, Beth
  - Jones, Jennifer

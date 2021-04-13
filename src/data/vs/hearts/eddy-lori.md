@@ -510,7 +510,7 @@ vs:
       year: 2021
       draw: Round Robin(6)
       score: NL 9 - NU 3
- - name: Hooper Perroud, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Hearts
       player1:

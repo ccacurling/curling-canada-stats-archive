@@ -147,7 +147,7 @@ vs:
  - Pasika, Rona
  - Peters, Laine
  - Preston, Samantha
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
  - Rocheleau, Patty
  - Sabourin, Joelle

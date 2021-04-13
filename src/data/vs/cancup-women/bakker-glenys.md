@@ -6,30 +6,30 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 76
+        percent: 78
         wins: 0
         losses: 1
       player2:
-        percent: 81
+        percent: 74
         wins: 1
         losses: 0
    games:
     - player1:
-        team: 'AND'
+        team: 'KLE'
         position: Second
-        percent: 76
+        percent: 78
         win: 0
         loss: 1
       player2:
         team: 'SCO'
         position: Second
-        percent: 81
+        percent: 74
         win: 1
         loss: 0
       event: Canada Cup (Women)
       year: 2004
-      draw: Round Robin(3)
-      score: SCO 7 - AND 5
+      draw: Round Robin(2)
+      score: KLE 4 - SCO 6
  - name: Betker, Jan
    totals:
     - event: Canada Cup (Women)
@@ -170,12 +170,12 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 65
+        percent: 84
         wins: 0
         losses: 1
    games:
     - player1:
-        team: 'AND'
+        team: 'KLE'
         position: Second
         percent: 88
         win: 1
@@ -183,13 +183,13 @@ vs:
       player2:
         team: 'BRY'
         position: Fourth
-        percent: 65
+        percent: 84
         win: 0
         loss: 1
       event: Canada Cup (Women)
       year: 2004
-      draw: Round Robin(1)
-      score: AND 6 - BRY 3
+      draw: Round Robin(4)
+      score: KLE 7 - BRY 5
  - name: Burgess, Allyson
    totals:
     - event: Canada Cup (Women)
@@ -250,30 +250,46 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 80
+        percent: 71
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 81
-        wins: 0
+        percent: 61
+        wins: 1
         losses: 1
    games:
     - player1:
-        team: 'AND'
+        team: 'KLE'
         position: Second
-        percent: 80
+        percent: 68
         win: 1
         loss: 0
       player2:
         team: 'JAC'
         position: Lead
-        percent: 81
+        percent: 51
         win: 0
         loss: 1
       event: Canada Cup (Women)
       year: 2004
-      draw: Round Robin(5)
-      score: JAC 4 - AND 5
+      draw: Round Robin(3)
+      score: JAC 5 - KLE 7
+    - player1:
+        team: 'KLE'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'JAC'
+        position: Lead
+        percent: 70
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2004
+      draw: Playoff(9)
+      score: KLE 6 - JAC 7
  - name: Comeau, Sandy
    totals:
     - event: Canada Cup (Women)
@@ -306,30 +322,46 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 80
+        percent: 71
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 81
-        wins: 0
+        percent: 78
+        wins: 1
         losses: 1
    games:
     - player1:
-        team: 'AND'
+        team: 'KLE'
         position: Second
-        percent: 80
+        percent: 68
         win: 1
         loss: 0
       player2:
         team: 'JAC'
         position: Third
-        percent: 81
+        percent: 71
         win: 0
         loss: 1
       event: Canada Cup (Women)
       year: 2004
-      draw: Round Robin(5)
-      score: JAC 4 - AND 5
+      draw: Round Robin(3)
+      score: JAC 5 - KLE 7
+    - player1:
+        team: 'KLE'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'JAC'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2004
+      draw: Playoff(9)
+      score: KLE 6 - JAC 7
  - name: Darbyshire, Carolyn
    totals:
     - event: Canada Cup (Women)
@@ -338,12 +370,12 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 74
+        percent: 80
         wins: 0
         losses: 1
    games:
     - player1:
-        team: 'AND'
+        team: 'KLE'
         position: Second
         percent: 88
         win: 1
@@ -351,57 +383,25 @@ vs:
       player2:
         team: 'BRY'
         position: Second
-        percent: 74
+        percent: 80
         win: 0
         loss: 1
       event: Canada Cup (Women)
       year: 2004
-      draw: Round Robin(1)
-      score: AND 6 - BRY 3
+      draw: Round Robin(4)
+      score: KLE 7 - BRY 5
  - name: Delahunt, Nancy
    totals:
     - event: Canada Cup (Women)
       player1:
         percent: 81
-        wins: 3
-        losses: 1
+        wins: 2
+        losses: 0
       player2:
-        percent: 86
-        wins: 1
-        losses: 3
+        percent: 89
+        wins: 0
+        losses: 2
    games:
-    - player1:
-        team: 'AND'
-        position: Second
-        percent: 85
-        win: 1
-        loss: 0
-      player2:
-        team: 'CJO'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2004
-      draw: Playoff(12)
-      score: AND 7 - CJO 6
-    - player1:
-        team: 'AND'
-        position: Second
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'CJO'
-        position: Lead
-        percent: 85
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2004
-      draw: Final(14)
-      score: AND 7 - CJO 8
     - player1:
         team: 'Kle'
         position: Second
@@ -562,6 +562,34 @@ vs:
       year: 2005
       draw: Page 3-4(11)
       score: Riz 8 - Kle 9
+ - name: Gignac, Donna
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 70
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'KLE'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'AND'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2004
+      draw: Round Robin(6)
+      score: AND 5 - KLE 4
  - name: Gregoire, Veronique
    totals:
     - event: Canada Cup (Women)
@@ -694,14 +722,30 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 78
+        percent: 74
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 90
-        wins: 0
+        percent: 83
+        wins: 1
         losses: 1
    games:
+    - player1:
+        team: 'KLE'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'AND'
+        position: Third
+        percent: 76
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2004
+      draw: Round Robin(6)
+      score: AND 5 - KLE 4
     - player1:
         team: 'Kle'
         position: Second
@@ -722,74 +766,58 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 80
+        percent: 71
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 70
-        wins: 0
+        percent: 68
+        wins: 1
         losses: 1
    games:
     - player1:
-        team: 'AND'
+        team: 'KLE'
         position: Second
-        percent: 80
+        percent: 68
         win: 1
         loss: 0
       player2:
         team: 'JAC'
         position: Fourth
-        percent: 70
+        percent: 55
         win: 0
         loss: 1
       event: Canada Cup (Women)
       year: 2004
-      draw: Round Robin(5)
-      score: JAC 4 - AND 5
+      draw: Round Robin(3)
+      score: JAC 5 - KLE 7
+    - player1:
+        team: 'KLE'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'JAC'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2004
+      draw: Playoff(9)
+      score: KLE 6 - JAC 7
  - name: Jones, Colleen
    totals:
     - event: Canada Cup (Women)
       player1:
         percent: 81
-        wins: 3
-        losses: 1
+        wins: 2
+        losses: 0
       player2:
-        percent: 74
-        wins: 1
-        losses: 3
+        percent: 71
+        wins: 0
+        losses: 2
    games:
-    - player1:
-        team: 'AND'
-        position: Second
-        percent: 85
-        win: 1
-        loss: 0
-      player2:
-        team: 'CJO'
-        position: Fourth
-        percent: 73
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2004
-      draw: Playoff(12)
-      score: AND 7 - CJO 6
-    - player1:
-        team: 'AND'
-        position: Second
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'CJO'
-        position: Fourth
-        percent: 80
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2004
-      draw: Final(14)
-      score: AND 7 - CJO 8
     - player1:
         team: 'Kle'
         position: Second
@@ -827,45 +855,13 @@ vs:
     - event: Canada Cup (Women)
       player1:
         percent: 81
-        wins: 3
-        losses: 1
+        wins: 2
+        losses: 0
       player2:
         percent: 77
-        wins: 1
-        losses: 3
+        wins: 0
+        losses: 2
    games:
-    - player1:
-        team: 'AND'
-        position: Second
-        percent: 85
-        win: 1
-        loss: 0
-      player2:
-        team: 'CJO'
-        position: Third
-        percent: 80
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2004
-      draw: Playoff(12)
-      score: AND 7 - CJO 6
-    - player1:
-        team: 'AND'
-        position: Second
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'CJO'
-        position: Third
-        percent: 74
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2004
-      draw: Final(14)
-      score: AND 7 - CJO 8
     - player1:
         team: 'Kle'
         position: Second
@@ -898,34 +894,6 @@ vs:
       year: 2005
       draw: Playoff(10)
       score: Kle 8 - Jon 1
- - name: Kleibrink, Shannon
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 75
-        wins: 1
-        losses: 0
-      player2:
-        percent: 83
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AND'
-        position: Second
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'KLE'
-        position: Fourth
-        percent: 83
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2004
-      draw: Round Robin(6)
-      score: AND 5 - KLE 4
  - name: Larouche, Marie-France
    totals:
     - event: Canada Cup (Women)
@@ -1102,58 +1070,46 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 80
+        percent: 71
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 88
-        wins: 0
+        percent: 76
+        wins: 1
         losses: 1
    games:
     - player1:
-        team: 'AND'
+        team: 'KLE'
         position: Second
-        percent: 80
+        percent: 68
         win: 1
         loss: 0
       player2:
         team: 'JAC'
         position: Second
-        percent: 88
+        percent: 75
         win: 0
         loss: 1
       event: Canada Cup (Women)
       year: 2004
-      draw: Round Robin(5)
-      score: JAC 4 - AND 5
- - name: Marchand, Stephanie
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 75
-        wins: 1
-        losses: 0
-      player2:
-        percent: 79
-        wins: 0
-        losses: 1
-   games:
+      draw: Round Robin(3)
+      score: JAC 5 - KLE 7
     - player1:
-        team: 'AND'
+        team: 'KLE'
         position: Second
         percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'KLE'
-        position: Lead
-        percent: 79
         win: 0
         loss: 1
+      player2:
+        team: 'JAC'
+        position: Second
+        percent: 77
+        win: 1
+        loss: 0
       event: Canada Cup (Women)
       year: 2004
-      draw: Round Robin(6)
-      score: AND 5 - KLE 4
+      draw: Playoff(9)
+      score: KLE 6 - JAC 7
  - name: Mattheis, Shannon
    totals:
     - event: Canada Cup (Women)
@@ -1162,12 +1118,12 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 85
+        percent: 83
         wins: 0
         losses: 1
    games:
     - player1:
-        team: 'AND'
+        team: 'KLE'
         position: Second
         percent: 88
         win: 1
@@ -1175,13 +1131,13 @@ vs:
       player2:
         team: 'BRY'
         position: Lead
-        percent: 85
+        percent: 83
         win: 0
         loss: 1
       event: Canada Cup (Women)
       year: 2004
-      draw: Round Robin(1)
-      score: AND 6 - BRY 3
+      draw: Round Robin(4)
+      score: KLE 7 - BRY 5
  - name: McCusker, Joan
    totals:
     - event: Canada Cup (Women)
@@ -1370,30 +1326,30 @@ vs:
       year: 2005
       draw: Semi-Final(12)
       score: Kle 6 - Mer 5
- - name: Nixon, Amy
+ - name: Mulroney, Sandra
    totals:
     - event: Canada Cup (Women)
       player1:
+        percent: 70
+        wins: 0
+        losses: 1
+      player2:
         percent: 75
         wins: 1
         losses: 0
-      player2:
-        percent: 78
-        wins: 0
-        losses: 1
    games:
     - player1:
+        team: 'KLE'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
         team: 'AND'
         position: Second
         percent: 75
         win: 1
         loss: 0
-      player2:
-        team: 'KLE'
-        position: Third
-        percent: 78
-        win: 0
-        loss: 1
       event: Canada Cup (Women)
       year: 2004
       draw: Round Robin(6)
@@ -1530,86 +1486,86 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 76
+        percent: 78
         wins: 0
         losses: 1
       player2:
-        percent: 71
+        percent: 98
         wins: 1
         losses: 0
    games:
     - player1:
-        team: 'AND'
+        team: 'KLE'
         position: Second
-        percent: 76
+        percent: 78
         win: 0
         loss: 1
       player2:
         team: 'SCO'
         position: Third
-        percent: 71
+        percent: 98
         win: 1
         loss: 0
       event: Canada Cup (Women)
       year: 2004
-      draw: Round Robin(3)
-      score: SCO 7 - AND 5
+      draw: Round Robin(2)
+      score: KLE 4 - SCO 6
  - name: Scott, Kelly
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 76
+        percent: 78
         wins: 0
         losses: 1
       player2:
-        percent: 88
+        percent: 87
         wins: 1
         losses: 0
    games:
     - player1:
-        team: 'AND'
+        team: 'KLE'
         position: Second
-        percent: 76
+        percent: 78
         win: 0
         loss: 1
       player2:
         team: 'SCO'
         position: Fourth
-        percent: 88
+        percent: 87
         win: 1
         loss: 0
       event: Canada Cup (Women)
       year: 2004
-      draw: Round Robin(3)
-      score: SCO 7 - AND 5
+      draw: Round Robin(2)
+      score: KLE 4 - SCO 6
  - name: Simons, Renee
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 76
+        percent: 78
         wins: 0
         losses: 1
       player2:
-        percent: 66
+        percent: 73
         wins: 1
         losses: 0
    games:
     - player1:
-        team: 'AND'
+        team: 'KLE'
         position: Second
-        percent: 76
+        percent: 78
         win: 0
         loss: 1
       player2:
         team: 'SCO'
         position: Lead
-        percent: 66
+        percent: 73
         win: 1
         loss: 0
       event: Canada Cup (Women)
       year: 2004
-      draw: Round Robin(3)
-      score: SCO 7 - AND 5
+      draw: Round Robin(2)
+      score: KLE 4 - SCO 6
  - name: Smith, Heather
    totals:
     - event: Canada Cup (Women)
@@ -1646,12 +1602,12 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 66
+        percent: 79
         wins: 0
         losses: 1
    games:
     - player1:
-        team: 'AND'
+        team: 'KLE'
         position: Second
         percent: 88
         win: 1
@@ -1659,13 +1615,13 @@ vs:
       player2:
         team: 'BRY'
         position: Third
-        percent: 66
+        percent: 79
         win: 0
         loss: 1
       event: Canada Cup (Women)
       year: 2004
-      draw: Round Robin(1)
-      score: AND 6 - BRY 3
+      draw: Round Robin(4)
+      score: KLE 7 - BRY 5
  - name: Smith, Nikki
    totals:
     - event: Canada Cup (Women)

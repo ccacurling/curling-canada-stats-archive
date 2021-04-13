@@ -105,7 +105,7 @@ vs:
  - McCarville, Krista
  - McQuaid, Michelle
  - O'Rourke, Kathy
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Silvernagle, Robyn
  - Sippala, Ashley
  - Thevenot, Kara

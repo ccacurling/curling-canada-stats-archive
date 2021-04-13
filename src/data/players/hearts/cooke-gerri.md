@@ -102,7 +102,7 @@ vs:
  - Hanlon, Heidi
  - Harrison, Meredith
  - Hodson, Kim
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Hutton, Barb
  - Iskiw, Beth
  - Jones, Colleen

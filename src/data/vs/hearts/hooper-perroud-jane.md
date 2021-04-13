@@ -1,6 +1,6 @@
 ---
-title: Jane Hooper Perroud Head-to-head
-name: Hooper Perroud, Jane
+title: Jane Hooper-Perroud Head-to-head
+name: Hooper-Perroud, Jane
 vs:
  - name: Horne, Kate
    totals:

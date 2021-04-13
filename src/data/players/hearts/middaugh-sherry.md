@@ -220,7 +220,7 @@ vs:
  - Holden, Anna-Mae
  - Holland, Amber
  - Holowec, Ainsley
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Hunter, Lana
  - Hutton, Barb

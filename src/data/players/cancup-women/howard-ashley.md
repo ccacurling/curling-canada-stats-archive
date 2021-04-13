@@ -54,7 +54,7 @@ vs:
  - Officer, Jill
  - Peters, Laine
  - Preston, Samantha
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
  - Singler, Sherri
  - Titheridge, Lindsay

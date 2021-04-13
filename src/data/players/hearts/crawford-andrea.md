@@ -342,7 +342,7 @@ vs:
  - Pinksen, Sadie
  - Porter, Erin
  - Rainville, Julie
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Richards, Brette
  - Ridalls, Kristen
  - Robertson, Darcy

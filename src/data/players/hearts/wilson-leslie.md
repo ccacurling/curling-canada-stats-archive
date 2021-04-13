@@ -194,7 +194,7 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Rainville, Julie
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Richards, Brette
  - Rogers, Leslie
  - Rogers, Rhonda

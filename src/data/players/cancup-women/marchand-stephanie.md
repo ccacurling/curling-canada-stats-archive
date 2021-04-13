@@ -37,7 +37,6 @@ years:
    shots-percent: 79
 vs:
  - Anderson, Sherry
- - Bakker, Glenys
  - Bergner, Sasha
  - Bryden, Renelle
  - Clarke, Hayley

@@ -328,7 +328,7 @@ vs:
  - Hodson, Kim
  - Hollands, Saskia
  - Holowec, Ainsley
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Horte, Rhonda
  - Hunter, Lana

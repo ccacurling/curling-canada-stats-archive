@@ -4,37 +4,37 @@ name: Glenys Bakker
 name-sort: Bakker, Glenys
 totals:
  - event: Canada Cup (Women)
-   games: 20
-   wins: 12
-   losses: 8
-   inturn-total: 226
-   inturn-percent: 80
-   outturn-total: 168
+   games: 19
+   wins: 10
+   losses: 9
+   inturn-total: 221
+   inturn-percent: 77
+   outturn-total: 155
    outturn-percent: 75
-   draw-total: 159
-   draw-percent: 74
-   takeout-total: 235
-   takeout-percent: 80
-   shots-total: 394
-   shots-percent: 78
+   draw-total: 152
+   draw-percent: 73
+   takeout-total: 224
+   takeout-percent: 79
+   shots-total: 376
+   shots-percent: 77
 years:
  - year: 2004
    event: Canada Cup (Women)
-   team: "AND"
+   team: "KLE"
    position: Second
-   games: 6
-   wins: 4
-   losses: 2
-   inturn-total: 69
-   inturn-percent: 83
-   outturn-total: 51
-   outturn-percent: 75
-   draw-total: 45
-   draw-percent: 76
-   takeout-total: 75
-   takeout-percent: 83
-   shots-total: 120
-   shots-percent: 80
+   games: 5
+   wins: 2
+   losses: 3
+   inturn-total: 64
+   inturn-percent: 73
+   outturn-total: 38
+   outturn-percent: 79
+   draw-total: 38
+   draw-percent: 68
+   takeout-total: 64
+   takeout-percent: 80
+   shots-total: 102
+   shots-percent: 75
  - year: 2005
    event: Canada Cup (Women)
    team: "Kle"
@@ -103,6 +103,7 @@ years:
    shots-total: 94
    shots-percent: 76
 vs:
+ - Anderson, Sherry
  - Arsenault, Mary-Anne
  - Bergner, Sasha
  - Betker, Jan
@@ -120,6 +121,7 @@ vs:
  - Froud, Susan
  - Gagnon, Karo
  - Gatchell, Sara
+ - Gignac, Donna
  - Gregoire, Veronique
  - Gudereit, Marcia
  - Hardy, Shelley
@@ -128,21 +130,19 @@ vs:
  - Jackson, Virginia
  - Jones, Colleen
  - Kelly, Kim
- - Kleibrink, Shannon
  - Larouche, Marie-France
  - Leger, Stacey
  - Lemay, Annie
  - Linton, Sherry
  - Loder, Cherie-Ann
  - MacLeod, Lisa
- - Marchand, Stephanie
  - Mattheis, Shannon
  - McCusker, Joan
  - McDonald, Tina
  - McIvor, Jolene
  - McPherson, Cheryl
  - Merklinger, Anne
- - Nixon, Amy
+ - Mulroney, Sandra
  - O'Leary, Susan
  - Peters, Laine
  - Reddick, Audrey

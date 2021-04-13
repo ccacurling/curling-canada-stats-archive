@@ -1402,7 +1402,7 @@ vs:
       year: 2004
       draw: Tie-Breaker(18)
       score: MB 10 - SK 9
- - name: Hooper Perroud, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Hearts
       player1:

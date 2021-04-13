@@ -1,7 +1,7 @@
 ---
-title: Geri Lynn Ramsay
-name: Geri Lynn Ramsay
-name-sort: Ramsay, Geri Lynn
+title: Geri-Lynn Ramsay
+name: Geri-Lynn Ramsay
+name-sort: Ramsay, Geri-Lynn
 totals:
  - event: Canada Cup (Women)
    games: 6

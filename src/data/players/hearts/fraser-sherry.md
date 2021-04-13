@@ -140,7 +140,7 @@ vs:
  - Harvey, Janet
  - Henry, Lou Ann
  - Holland, Amber
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Jackson, Virginia
  - Jennings, Tracey

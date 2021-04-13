@@ -307,7 +307,7 @@ vs:
  - Holden, Anna-Mae
  - Holland, Amber
  - Homan, Rachel
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Iskiw, Beth
  - Jackson, Virginia

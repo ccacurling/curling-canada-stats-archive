@@ -3202,7 +3202,7 @@ vs:
       year: 2007
       draw: Round Robin(5)
       score: NB 9 - BC 10
- - name: Ramsay, Geri Lynn
+ - name: Ramsay, Geri-Lynn
    totals:
     - event: Hearts
       player1:

@@ -236,7 +236,7 @@ vs:
  - Peterman, Jocelyn
  - Potts, Sarah
  - Preston, Samantha
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Reddick, Audrey
  - Rizzo, Jo-Ann
  - Robertson, Darcy

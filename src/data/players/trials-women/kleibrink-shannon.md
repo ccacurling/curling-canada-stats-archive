@@ -101,7 +101,7 @@ vs:
  - Gudereit, Marcia
  - Hodson, Kim
  - Holland, Amber
- - Hooper, Jane
+ - Hooper-Perroud, Jane
  - Hopkins, Heather
  - Horne, Kate
  - Jones, Colleen
@@ -132,7 +132,7 @@ vs:
  - McPherson, Cheryl
  - Merklinger, Anne
  - Middaugh, Sherry
- - Moore, Kimberly
+ - Moore, Kim
  - Morris, Cori
  - Mulroney, Sandra
  - O'Connor, Susan

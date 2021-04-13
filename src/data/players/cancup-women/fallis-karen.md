@@ -55,7 +55,6 @@ years:
 vs:
  - Anderson, Sherry
  - Arsenault, Mary-Anne
- - Baleja, Susan
  - Bernard, Cheryl
  - Cordina, Sheri
  - Cunningham, Cathy

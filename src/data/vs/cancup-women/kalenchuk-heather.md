@@ -118,30 +118,14 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 87
-        wins: 2
+        percent: 83
+        wins: 1
         losses: 0
       player2:
-        percent: 64
+        percent: 62
         wins: 0
-        losses: 2
+        losses: 1
    games:
-    - player1:
-        team: 'AH'
-        position: Lead
-        percent: 91
-        win: 1
-        loss: 0
-      player2:
-        team: 'KS'
-        position: Fourth
-        percent: 66
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2010
-      draw: Round Robin(5)
-      score: KS 5 - AH 8
     - player1:
         team: 'HOL'
         position: Lead

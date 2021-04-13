@@ -69,7 +69,7 @@ vs:
  - Overton-Clapham, Cathy
  - Phillips, Kristen
  - Rainville, Julie
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

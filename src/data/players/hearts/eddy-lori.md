@@ -116,7 +116,7 @@ vs:
  - Hawes, Dezaray
  - Henry, Lou Ann
  - Hill, Sarah
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Hughes, Meaghan
  - Hunkin, Jessie

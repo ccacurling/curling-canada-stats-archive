@@ -750,7 +750,7 @@ vs:
       year: 2005
       draw: Round Robin(13)
       score: KLE 7 - MID 6
- - name: Moore, Kimberly
+ - name: Moore, Kim
    totals:
     - event: Trials (Women)
       player1:

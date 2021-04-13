@@ -44,7 +44,6 @@ vs:
  - Holland, Amber
  - Kalenchuk, Heather
  - Kleibrink, Shannon
- - Lawton, Stefanie
  - MacLean, Kari
  - McCarville, Krista
  - Morris, Cori

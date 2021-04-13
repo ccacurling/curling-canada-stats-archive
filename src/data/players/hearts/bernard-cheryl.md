@@ -145,7 +145,7 @@ vs:
  - Hanlon, Heidi
  - Hardy, Shelley
  - Harrison, Meredith
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Hutton, Barb
  - Inglis, Nancy
  - Johnstone, Loralee

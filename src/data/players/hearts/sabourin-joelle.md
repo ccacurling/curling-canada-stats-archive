@@ -193,7 +193,7 @@ vs:
  - Harvey, Janet
  - Hatton, Sandra
  - Henry, Lou Ann
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Horte, Rhonda
  - Jones, Colleen

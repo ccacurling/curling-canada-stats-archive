@@ -702,7 +702,7 @@ vs:
       year: 1997
       draw: Round Robin(5)
       score: BOD 6 - SCHE 10
- - name: Moore, Kimberly
+ - name: Moore, Kim
    totals:
     - event: Trials (Women)
       player1:

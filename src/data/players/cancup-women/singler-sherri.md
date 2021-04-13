@@ -160,7 +160,6 @@ vs:
  - Armstrong, Jacquie
  - Armstrong, Leigh
  - Arsenault, Mary-Anne
- - Baleja, Susan
  - Bell, Chelsey
  - Bernard, Cheryl
  - Birt, Suzanne
@@ -206,7 +205,6 @@ vs:
  - Larouche, Marie-France
  - Lawes, Andrea
  - Lawes, Kaitlyn
- - Lawton, Stefanie
  - LeDrew, Stephanie
  - Lemay, Annie
  - Lemon, Colette
@@ -240,7 +238,7 @@ vs:
  - Peters, Laine
  - Potts, Sarah
  - Preston, Samantha
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rankin, Heather
  - Rizzo, Jo-Ann
  - Robertson, Desiree

@@ -216,7 +216,7 @@ vs:
  - Hollands, Saskia
  - Holowec, Ainsley
  - Homan, Rachel
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horte, Rhonda
  - Hunter, Lana
  - Hutton, Barb

@@ -1,7 +1,7 @@
 ---
-title: Kimberly Moore
-name: Kimberly Moore
-name-sort: Moore, Kimberly
+title: Kim Moore
+name: Kim Moore
+name-sort: Moore, Kim
 totals:
  - event: Trials (Women)
    games: 9
@@ -49,7 +49,7 @@ vs:
  - Gellard, Kim
  - Godberson, Heather
  - Gudereit, Marcia
- - Hooper, Jane
+ - Hooper-Perroud, Jane
  - Hopkins, Heather
  - Horne, Kate
  - Jurgenson, Christine

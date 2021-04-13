@@ -264,7 +264,7 @@ vs:
  - Peters, Laine
  - Potts, Sarah
  - Preston, Samantha
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rankin, Heather
  - Rizzo, Jo-Ann
  - Rocque, Kelsey

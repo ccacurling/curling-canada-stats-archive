@@ -46,6 +46,7 @@ vs:
  - Kasner, Marliese
  - Kleibrink, Shannon
  - Lawes, Kaitlyn
+ - Lawton, Stefanie
  - McDonald, Kristy
  - McEwen, Dawn
  - Morris, Cori

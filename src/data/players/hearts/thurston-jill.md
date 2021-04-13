@@ -117,7 +117,7 @@ vs:
  - Potts, Sarah
  - Radford, Mary Sue
  - Rainville, Julie
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Ridalls, Kristen
  - Rocque, Raylene
  - Rogers, Leslie

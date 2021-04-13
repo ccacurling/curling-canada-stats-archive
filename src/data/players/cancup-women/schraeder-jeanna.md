@@ -143,7 +143,6 @@ vs:
  - Englot, Michelle
  - Fargey, Lisa
  - Farrell, Allison
- - Foster, Kristen
  - Gatchell, Sara
  - Gignac, Donna
  - Goss, Peg

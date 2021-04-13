@@ -58,34 +58,6 @@ vs:
       year: 2010
       draw: Round Robin(1)
       score: CB 6 - KS 3
- - name: Foster, Kristen
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 83
-        wins: 0
-        losses: 1
-      player2:
-        percent: 83
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'KS'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'SL'
-        position: Second
-        percent: 83
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2010
-      draw: Round Robin(3)
-      score: SL 13 - KS 3
  - name: Holland, Amber
    totals:
     - event: Canada Cup (Women)
@@ -192,6 +164,34 @@ vs:
         team: 'SL'
         position: Lead
         percent: 82
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(3)
+      score: SL 13 - KS 3
+ - name: Lawton, Stefanie
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'KS'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'SL'
+        position: Fourth
+        percent: 78
         win: 1
         loss: 0
       event: Canada Cup (Women)

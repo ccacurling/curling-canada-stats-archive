@@ -1,6 +1,6 @@
 ---
-title: Geri Lynn Ramsay Head-to-head
-name: Ramsay, Geri Lynn
+title: Geri-Lynn Ramsay Head-to-head
+name: Ramsay, Geri-Lynn
 vs:
  - name: Rogers, Leslie
    totals:

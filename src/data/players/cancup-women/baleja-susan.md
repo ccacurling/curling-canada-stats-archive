@@ -4,59 +4,56 @@ name: Susan Baleja
 name-sort: Baleja, Susan
 totals:
  - event: Canada Cup (Women)
-   games: 7
-   wins: 5
-   losses: 2
-   inturn-total: 63
-   inturn-percent: 78
-   outturn-total: 73
-   outturn-percent: 82
-   draw-total: 44
+   games: 5
+   wins: 2
+   losses: 3
+   inturn-total: 56
+   inturn-percent: 75
+   outturn-total: 40
+   outturn-percent: 68
+   draw-total: 47
    draw-percent: 74
-   takeout-total: 92
-   takeout-percent: 83
-   shots-total: 136
-   shots-percent: 80
+   takeout-total: 49
+   takeout-percent: 70
+   shots-total: 96
+   shots-percent: 72
 years:
  - year: 2007
    event: Canada Cup (Women)
-   team: "Kin"
+   team: "Por"
    position: Second
-   games: 7
-   wins: 5
-   losses: 2
-   inturn-total: 63
-   inturn-percent: 78
-   outturn-total: 73
-   outturn-percent: 82
-   draw-total: 44
+   games: 5
+   wins: 2
+   losses: 3
+   inturn-total: 56
+   inturn-percent: 75
+   outturn-total: 40
+   outturn-percent: 68
+   draw-total: 47
    draw-percent: 74
-   takeout-total: 92
-   takeout-percent: 83
-   shots-total: 136
-   shots-percent: 80
+   takeout-total: 49
+   takeout-percent: 70
+   shots-total: 96
+   shots-percent: 72
 vs:
  - Anderson, Sherry
- - Bell, Chelsey
  - Bernard, Cheryl
- - Blair, Janice
  - Darbyshire, Carolyn
- - Fallis, Karen
+ - Dealy, Diane
  - Gignac, Donna
- - Harvey, Alison
  - Hodson, Kim
  - Horne, Kate
  - Jones, Jennifer
- - Kasner, Marliese
- - Lawton, Stefanie
+ - King, Cathy
  - McEwen, Dawn
  - Moore, Kristie
  - Morris, Cori
  - Nedohin, Heather
  - O'Connor, Susan
  - Officer, Jill
+ - Olson-Johns, Lori
  - Overton-Clapham, Cathy
+ - Rocque, Raylene
  - Santos, Deb
- - Singler, Sherri
  - Walsh, Heather
 ---

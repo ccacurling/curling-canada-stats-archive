@@ -1,6 +1,6 @@
 ---
-title: Kimberly Moore Head-to-head
-name: Moore, Kimberly
+title: Kim Moore Head-to-head
+name: Moore, Kim
 vs:
  - name: Mulroney, Sandra
    totals:

@@ -198,7 +198,7 @@ vs:
  - Harvey, Janet
  - Henry, Lou Ann
  - Hodson, Kim
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Hopkins, Heather
  - Iskiw, Beth
  - Jackson, Virginia

@@ -2486,7 +2486,7 @@ vs:
       year: 2017
       draw: Round Robin(9)
       score: NT 4 - ON 7
- - name: Hooper Perroud, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Hearts
       player1:
@@ -5942,7 +5942,7 @@ vs:
       year: 2010
       draw: Round Robin(11)
       score: QC 6 - TR 5
- - name: Ramsay, Geri Lynn
+ - name: Ramsay, Geri-Lynn
    totals:
     - event: Hearts
       player1:

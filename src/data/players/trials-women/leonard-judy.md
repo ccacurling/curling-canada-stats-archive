@@ -52,7 +52,7 @@ vs:
  - Godberson, Heather
  - Goring, Alison
  - Gudereit, Marcia
- - Hooper, Jane
+ - Hooper-Perroud, Jane
  - Hopkins, Heather
  - Horne, Kate
  - Jurgenson, Christine
@@ -66,7 +66,7 @@ vs:
  - McCusker, Joan
  - McKnight, Patti
  - Merklinger, Anne
- - Moore, Kimberly
+ - Moore, Kim
  - Nimmo, Shannon
  - Overton-Clapham, Cathy
  - Schmirler, Sandra

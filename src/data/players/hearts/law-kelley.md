@@ -224,7 +224,7 @@ vs:
  - Hatton, Sandra
  - Henry, Lou Ann
  - Holowec, Ainsley
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Horte, Rhonda
  - Houston, Heather

@@ -2,6 +2,34 @@
 title: Stefanie Lawton Head-to-head
 name: Lawton, Stefanie
 vs:
+ - name: LeDrew, Stephanie
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SL'
+        position: Fourth
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'SN'
+        position: Third
+        percent: 79
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(1)
+      score: SL 9 - SN 6
  - name: Lemay, Annie
    totals:
     - event: Canada Cup (Women)
@@ -30,6 +58,34 @@ vs:
       year: 2009
       draw: Round Robin(8)
       score: M-FL 5 - LAWT 6
+ - name: Lemon, Colette
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SL'
+        position: Fourth
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'SN'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(1)
+      score: SL 9 - SN 6
  - name: Loder, Jenna
    totals:
     - event: Canada Cup (Women)
@@ -118,30 +174,30 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 64
-        wins: 0
-        losses: 1
-      player2:
-        percent: 76
+        percent: 81
         wins: 1
         losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
    games:
     - player1:
-        team: 'KS'
+        team: 'SL'
         position: Fourth
-        percent: 64
-        win: 0
-        loss: 1
+        percent: 81
+        win: 1
+        loss: 0
       player2:
         team: 'KM'
         position: Second
-        percent: 76
-        win: 1
-        loss: 0
+        percent: 78
+        win: 0
+        loss: 1
       event: Canada Cup (Women)
       year: 2010
-      draw: Round Robin(8)
-      score: KS 3 - KM 5
+      draw: Page 3-4(12)
+      score: KM 2 - SL 9
  - name: Mair, Jessica
    totals:
     - event: Canada Cup (Women)
@@ -218,42 +274,58 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 64
-        wins: 0
-        losses: 1
-      player2:
-        percent: 73
+        percent: 81
         wins: 1
         losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
    games:
     - player1:
-        team: 'KS'
+        team: 'SL'
         position: Fourth
-        percent: 64
-        win: 0
-        loss: 1
+        percent: 81
+        win: 1
+        loss: 0
       player2:
         team: 'KM'
         position: Fourth
-        percent: 73
-        win: 1
-        loss: 0
+        percent: 67
+        win: 0
+        loss: 1
       event: Canada Cup (Women)
       year: 2010
-      draw: Round Robin(8)
-      score: KS 3 - KM 5
+      draw: Page 3-4(12)
+      score: KM 2 - SL 9
  - name: McDonald, Kristy
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 80
-        wins: 1
+        percent: 75
+        wins: 2
         losses: 1
       player2:
-        percent: 72
+        percent: 74
         wins: 1
-        losses: 1
+        losses: 2
    games:
+    - player1:
+        team: 'SL'
+        position: Fourth
+        percent: 65
+        win: 1
+        loss: 0
+      player2:
+        team: 'CC'
+        position: Third
+        percent: 77
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(9)
+      score: SL 8 - CC 5
     - player1:
         team: 'LAW'
         position: Fourth
@@ -290,14 +362,30 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 80
-        wins: 3
+        percent: 82
+        wins: 4
         losses: 1
       player2:
-        percent: 83
+        percent: 86
         wins: 1
-        losses: 3
+        losses: 4
    games:
+    - player1:
+        team: 'SL'
+        position: Fourth
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'JJ'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(5)
+      score: JJ 2 - SL 7
     - player1:
         team: 'LAW'
         position: Fourth
@@ -490,34 +578,6 @@ vs:
       year: 2012
       draw: Round Robin(1)
       score: MID 4 - LAW 10
- - name: Miller, Jessica
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 83
-        wins: 0
-        losses: 1
-      player2:
-        percent: 89
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'KS'
-        position: Fourth
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'HN'
-        position: Second
-        percent: 89
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2010
-      draw: Round Robin(7)
-      score: KS 5 - HN 6
  - name: Miskew, Emma
    totals:
     - event: Canada Cup (Women)
@@ -638,13 +698,13 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 69
-        wins: 1
-        losses: 2
-      player2:
-        percent: 78
+        percent: 76
         wins: 2
         losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 2
    games:
     - player1:
         team: 'LAWT'
@@ -679,21 +739,21 @@ vs:
       draw: Round Robin(6)
       score: LAWT 5 - BERN 8
     - player1:
-        team: 'KS'
+        team: 'SL'
         position: Fourth
-        percent: 65
-        win: 0
-        loss: 1
+        percent: 86
+        win: 1
+        loss: 0
       player2:
         team: 'CB'
         position: Lead
-        percent: 78
-        win: 1
-        loss: 0
+        percent: 86
+        win: 0
+        loss: 1
       event: Canada Cup (Women)
       year: 2010
-      draw: Round Robin(1)
-      score: CB 6 - KS 3
+      draw: Final(15)
+      score: CB 3 - SL 7
  - name: Moulding, Heather
    totals:
     - event: Canada Cup (Women)
@@ -726,12 +786,12 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 77
+        percent: 75
         wins: 2
-        losses: 2
+        losses: 1
       player2:
-        percent: 77
-        wins: 2
+        percent: 73
+        wins: 1
         losses: 2
    games:
     - player1:
@@ -750,22 +810,6 @@ vs:
       year: 2008
       draw: Round Robin(2)
       score: LAWT 7 - MOOR 3
-    - player1:
-        team: 'KS'
-        position: Fourth
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'HN'
-        position: Fourth
-        percent: 89
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2010
-      draw: Round Robin(7)
-      score: KS 5 - HN 6
     - player1:
         team: 'LAW'
         position: Fourth
@@ -802,13 +846,13 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 88
-        wins: 1
-        losses: 2
-      player2:
-        percent: 80
+        percent: 82
         wins: 2
-        losses: 1
+        losses: 3
+      player2:
+        percent: 81
+        wins: 3
+        losses: 2
    games:
     - player1:
         team: 'Law'
@@ -842,6 +886,38 @@ vs:
       year: 2008
       draw: Round Robin(9)
       score: KLEI 6 - LAWT 8
+    - player1:
+        team: 'SL'
+        position: Fourth
+        percent: 58
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(6)
+      score: SK 11 - SL 5
+    - player1:
+        team: 'SL'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Semi-Final(13)
+      score: SK 4 - SL 8
     - player1:
         team: 'LAW'
         position: Fourth
@@ -890,13 +966,13 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 69
-        wins: 1
-        losses: 2
-      player2:
-        percent: 78
+        percent: 76
         wins: 2
         losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 2
    games:
     - player1:
         team: 'LAWT'
@@ -931,33 +1007,49 @@ vs:
       draw: Round Robin(6)
       score: LAWT 5 - BERN 8
     - player1:
-        team: 'KS'
+        team: 'SL'
         position: Fourth
-        percent: 65
-        win: 0
-        loss: 1
+        percent: 86
+        win: 1
+        loss: 0
       player2:
         team: 'CB'
         position: Third
-        percent: 69
-        win: 1
-        loss: 0
+        percent: 82
+        win: 0
+        loss: 1
       event: Canada Cup (Women)
       year: 2010
-      draw: Round Robin(1)
-      score: CB 6 - KS 3
+      draw: Final(15)
+      score: CB 3 - SL 7
  - name: Officer, Jill
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 76
-        wins: 2
+        percent: 81
+        wins: 3
         losses: 0
       player2:
         percent: 76
         wins: 0
-        losses: 2
+        losses: 3
    games:
+    - player1:
+        team: 'SL'
+        position: Fourth
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'JJ'
+        position: Second
+        percent: 76
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(5)
+      score: JJ 2 - SL 7
     - player1:
         team: 'LAW'
         position: Fourth
@@ -1078,30 +1170,14 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 75
+        percent: 72
         wins: 1
-        losses: 2
+        losses: 1
       player2:
-        percent: 87
-        wins: 2
+        percent: 89
+        wins: 1
         losses: 1
    games:
-    - player1:
-        team: 'KS'
-        position: Fourth
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'HN'
-        position: Lead
-        percent: 83
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2010
-      draw: Round Robin(7)
-      score: KS 5 - HN 6
     - player1:
         team: 'LAW'
         position: Fourth
@@ -1138,30 +1214,30 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 64
-        wins: 0
-        losses: 1
-      player2:
-        percent: 85
+        percent: 81
         wins: 1
         losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
    games:
     - player1:
-        team: 'KS'
+        team: 'SL'
         position: Fourth
-        percent: 64
-        win: 0
-        loss: 1
+        percent: 81
+        win: 1
+        loss: 0
       player2:
         team: 'KM'
         position: Lead
-        percent: 85
-        win: 1
-        loss: 0
+        percent: 81
+        win: 0
+        loss: 1
       event: Canada Cup (Women)
       year: 2010
-      draw: Round Robin(8)
-      score: KS 3 - KM 5
+      draw: Page 3-4(12)
+      score: KM 2 - SL 9
  - name: Preston, Samantha
    totals:
     - event: Canada Cup (Women)
@@ -1206,7 +1282,7 @@ vs:
       year: 2012
       draw: Round Robin(7)
       score: WEB 4 - LAW 8
- - name: Ramsay, Geri Lynn
+ - name: Ramsay, Geri-Lynn
    totals:
     - event: Canada Cup (Women)
       player1:
@@ -1362,6 +1438,34 @@ vs:
       year: 2009
       draw: Round Robin(1)
       score: LAWT 4 - KING 10
+ - name: Rogers, Rhonda
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SL'
+        position: Fourth
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'SN'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(1)
+      score: SL 9 - SN 6
  - name: Sabourin, Joelle
    totals:
     - event: Canada Cup (Women)
@@ -1410,12 +1514,12 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 69
+        percent: 70
         wins: 0
-        losses: 3
+        losses: 2
       player2:
-        percent: 75
-        wins: 3
+        percent: 70
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1434,22 +1538,6 @@ vs:
       year: 2009
       draw: Round Robin(4)
       score: HOLL 10 - LAWT 8
-    - player1:
-        team: 'KS'
-        position: Fourth
-        percent: 66
-        win: 0
-        loss: 1
-      player2:
-        team: 'AH'
-        position: Third
-        percent: 85
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2010
-      draw: Round Robin(5)
-      score: KS 5 - AH 8
     - player1:
         team: 'LAW'
         position: Fourth
@@ -1470,12 +1558,12 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 69
+        percent: 70
         wins: 0
-        losses: 3
+        losses: 2
       player2:
-        percent: 67
-        wins: 3
+        percent: 64
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1494,22 +1582,6 @@ vs:
       year: 2009
       draw: Round Robin(4)
       score: HOLL 10 - LAWT 8
-    - player1:
-        team: 'KS'
-        position: Fourth
-        percent: 66
-        win: 0
-        loss: 1
-      player2:
-        team: 'AH'
-        position: Second
-        percent: 74
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2010
-      draw: Round Robin(5)
-      score: KS 5 - AH 8
     - player1:
         team: 'LAW'
         position: Fourth
@@ -1530,13 +1602,13 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 86
-        wins: 2
+        percent: 84
+        wins: 3
         losses: 0
       player2:
-        percent: 78
+        percent: 79
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'LAWT'
@@ -1570,17 +1642,33 @@ vs:
       year: 2008
       draw: Final(14)
       score: LAWT 7 - SCOT 4
+    - player1:
+        team: 'SL'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'KS'
+        position: Third
+        percent: 83
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(3)
+      score: SL 13 - KS 3
  - name: Scott, Kelly
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 86
-        wins: 2
+        percent: 84
+        wins: 3
         losses: 0
       player2:
-        percent: 70
+        percent: 67
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'LAWT'
@@ -1614,6 +1702,22 @@ vs:
       year: 2008
       draw: Final(14)
       score: LAWT 7 - SCOT 4
+    - player1:
+        team: 'SL'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'KS'
+        position: Fourth
+        percent: 59
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(3)
+      score: SL 13 - KS 3
  - name: Seeley, Heather
    totals:
     - event: Canada Cup (Women)
@@ -1714,62 +1818,34 @@ vs:
       year: 2008
       draw: Final(14)
       score: LAWT 7 - SCOT 4
- - name: Singler, Sherri
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 59
-        wins: 0
-        losses: 1
-      player2:
-        percent: 83
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'KS'
-        position: Fourth
-        percent: 59
-        win: 0
-        loss: 1
-      player2:
-        team: 'SL'
-        position: Second
-        percent: 83
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2010
-      draw: Round Robin(3)
-      score: SL 13 - KS 3
  - name: Sippala, Ashley
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 64
-        wins: 0
-        losses: 1
-      player2:
-        percent: 85
+        percent: 81
         wins: 1
         losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
    games:
     - player1:
-        team: 'KS'
+        team: 'SL'
         position: Fourth
-        percent: 64
-        win: 0
-        loss: 1
+        percent: 81
+        win: 1
+        loss: 0
       player2:
         team: 'KM'
         position: Third
-        percent: 85
-        win: 1
-        loss: 0
+        percent: 70
+        win: 0
+        loss: 1
       event: Canada Cup (Women)
       year: 2010
-      draw: Round Robin(8)
-      score: KS 3 - KM 5
+      draw: Page 3-4(12)
+      score: KM 2 - SL 9
  - name: Sweeting, Val
    totals:
     - event: Canada Cup (Women)
@@ -1802,14 +1878,30 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 80
-        wins: 1
+        percent: 75
+        wins: 2
         losses: 1
       player2:
-        percent: 87
+        percent: 85
         wins: 1
-        losses: 1
+        losses: 2
    games:
+    - player1:
+        team: 'SL'
+        position: Fourth
+        percent: 65
+        win: 1
+        loss: 0
+      player2:
+        team: 'CC'
+        position: Lead
+        percent: 82
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(9)
+      score: SL 8 - CC 5
     - player1:
         team: 'LAW'
         position: Fourth
@@ -1978,13 +2070,13 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 88
-        wins: 1
-        losses: 2
+        percent: 82
+        wins: 2
+        losses: 3
       player2:
         percent: 89
-        wins: 2
-        losses: 1
+        wins: 3
+        losses: 2
    games:
     - player1:
         team: 'Law'
@@ -2018,6 +2110,38 @@ vs:
       year: 2008
       draw: Round Robin(9)
       score: KLEI 6 - LAWT 8
+    - player1:
+        team: 'SL'
+        position: Fourth
+        percent: 58
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(6)
+      score: SK 11 - SL 5
+    - player1:
+        team: 'SL'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 89
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Semi-Final(13)
+      score: SK 4 - SL 8
     - player1:
         team: 'LAW'
         position: Fourth

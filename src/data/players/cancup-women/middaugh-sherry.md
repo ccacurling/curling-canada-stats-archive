@@ -216,7 +216,7 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Preston, Samantha
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Robertson, Desiree
  - Rocheleau, Patty
  - Rocque, Kelsey

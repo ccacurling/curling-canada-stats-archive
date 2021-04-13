@@ -451,7 +451,7 @@ vs:
  - Holowec, Ainsley
  - Holtby, Taryn
  - Homan, Rachel
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Horte, Rhonda
  - Houston, Heather

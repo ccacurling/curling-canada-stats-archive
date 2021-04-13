@@ -142,7 +142,6 @@ vs:
  - Appelman, Pam
  - Armstrong, Jacquie
  - Armstrong, Leigh
- - Baleja, Susan
  - Bell, Chelsey
  - Bernard, Cheryl
  - Brassard, Veronique
@@ -181,7 +180,6 @@ vs:
  - Kreviazuk, Alison
  - Larouche, Marie-France
  - Lawes, Kaitlyn
- - Lawton, Stefanie
  - LeDrew, Stephanie
  - Lemay, Annie
  - Lemon, Colette
@@ -210,7 +208,7 @@ vs:
  - Peters, Laine
  - Potts, Sarah
  - Preston, Samantha
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rankin, Heather
  - Rizzo, Jo-Ann
  - Robertson, Desiree

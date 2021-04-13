@@ -154,7 +154,7 @@ vs:
  - Phillips, Kristen
  - Porter, Erin
  - Potts, Sarah
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Richards, Brette
  - Ridalls, Kristen
  - Rocque, Raylene

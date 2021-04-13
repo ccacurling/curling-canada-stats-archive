@@ -248,7 +248,7 @@ vs:
  - Haspect, Ginette
  - Hatton, Sandra
  - Henry, Lou Ann
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Horte, Rhonda
  - Howse, Lillian

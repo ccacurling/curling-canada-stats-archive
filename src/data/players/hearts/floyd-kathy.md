@@ -357,7 +357,7 @@ vs:
  - Hensley, Merna
  - Hodson, Kim
  - Holowec, Ainsley
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Hopkins, Heather
  - Horne, Kate
  - Houston, Heather

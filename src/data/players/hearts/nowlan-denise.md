@@ -226,7 +226,7 @@ vs:
  - Phillips, Kristen
  - Provencal, Darah
  - Rainville, Julie
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rankin, Heather
  - Richards, Brette
  - Roberts, Angela

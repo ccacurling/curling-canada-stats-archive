@@ -177,7 +177,7 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Preston, Samantha
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rankin, Heather
  - Rizzo, Jo-Ann
  - Robertson, Darcy

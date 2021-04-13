@@ -58,7 +58,7 @@ vs:
       year: 2006
       draw: Round Robin(4)
       score: QC 8 - MB 7
- - name: Hooper Perroud, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Hearts
       player1:

@@ -163,7 +163,6 @@ vs:
  - Enright, Barb
  - Fargey, Lisa
  - Farrell, Allison
- - Foster, Kristen
  - Froud, Susan
  - Gatchell, Sara
  - Gignac, Donna

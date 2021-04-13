@@ -138,7 +138,7 @@ vs:
  - Pewarchuk, Dailene
  - Phillips, Kristen
  - Rainville, Julie
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rogers, Rhonda
  - Schraeder, Jeanna
  - Scott, Kelly

@@ -218,34 +218,6 @@ vs:
       year: 2006
       draw: Round Robin(5)
       score: Sco 5 - Com 7
- - name: Foster, Kristen
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 67
-        wins: 0
-        losses: 1
-      player2:
-        percent: 83
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'KS'
-        position: Second
-        percent: 67
-        win: 0
-        loss: 1
-      player2:
-        team: 'SL'
-        position: Second
-        percent: 83
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2010
-      draw: Round Robin(3)
-      score: SL 13 - KS 3
  - name: Gatchell, Sara
    totals:
     - event: Canada Cup (Women)
@@ -770,12 +742,12 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 82
+        percent: 78
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 86
-        wins: 2
+        percent: 84
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -810,6 +782,22 @@ vs:
       year: 2008
       draw: Final(14)
       score: LAWT 7 - SCOT 4
+    - player1:
+        team: 'KS'
+        position: Second
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'SL'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(3)
+      score: SL 13 - KS 3
  - name: Leger, Stacey
    totals:
     - event: Canada Cup (Women)

@@ -87,7 +87,7 @@ vs:
  - Hanlon, Heidi
  - Harrison, Meredith
  - Hodson, Kim
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Hunter, Lana
  - Hutton, Barb
  - Iskiw, Beth

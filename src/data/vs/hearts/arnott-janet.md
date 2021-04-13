@@ -4114,7 +4114,7 @@ vs:
       year: 1999
       draw: Round Robin(17)
       score: PE 3 - MB 6
- - name: Hooper Perroud, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Hearts
       player1:

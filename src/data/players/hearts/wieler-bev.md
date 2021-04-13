@@ -51,7 +51,7 @@ vs:
  - Fowler, Lois
  - Gauthier, Cathy
  - Gellard, Kim
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Hutton, Barb
  - Jones, Colleen
  - Kelly, Kim

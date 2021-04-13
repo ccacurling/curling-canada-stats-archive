@@ -209,7 +209,7 @@ vs:
  - Hensley, Merna
  - Hodson, Kim
  - Holland, Amber
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Houston, Heather
  - Hunt, Donna

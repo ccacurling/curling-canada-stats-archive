@@ -758,7 +758,7 @@ vs:
       year: 2005
       draw: Round Robin(11)
       score: AND 6 - KLE 7
- - name: Hooper, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Trials (Women)
       player1:
@@ -1586,7 +1586,7 @@ vs:
       year: 2005
       draw: Round Robin(13)
       score: KLE 7 - MID 6
- - name: Moore, Kimberly
+ - name: Moore, Kim
    totals:
     - event: Trials (Women)
       player1:

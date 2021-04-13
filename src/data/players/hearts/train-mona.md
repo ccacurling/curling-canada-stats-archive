@@ -49,7 +49,7 @@ vs:
  - Garnett, Lorelei
  - Gauthier, Cathy
  - Gellard, Kim
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Jones, Colleen
  - Kelly, Kim
  - Laliberte, Connie

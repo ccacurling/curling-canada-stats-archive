@@ -774,7 +774,7 @@ vs:
       year: 1993
       draw: Playoff(19)
       score: SK 7 - MB 6
- - name: Hooper Perroud, Jane
+ - name: Hooper-Perroud, Jane
    totals:
     - event: Hearts
       player1:

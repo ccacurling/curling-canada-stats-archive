@@ -394,7 +394,7 @@ vs:
  - Hensley, Merna
  - Herlinveaux, Louise
  - Hodson, Kim
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Houston, Heather
  - Hunter, Lana

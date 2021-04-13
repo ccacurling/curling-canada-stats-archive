@@ -339,7 +339,7 @@ vs:
  - Holland, Amber
  - Hollands, Saskia
  - Homan, Rachel
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Horte, Rhonda
  - Houston, Heather
@@ -462,7 +462,7 @@ vs:
  - Pushkar, Diane
  - Putland, Rose
  - Rainville, Julie
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Renouf, Michele
  - Richard, Marie
  - Richards, Brette

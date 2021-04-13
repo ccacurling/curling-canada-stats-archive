@@ -167,7 +167,7 @@ vs:
  - Power, Marie-Anne
  - Provencal, Darah
  - Rainville, Julie
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Ridalls, Kristen
  - Rocque, Raylene
  - Rudulier, Andrea

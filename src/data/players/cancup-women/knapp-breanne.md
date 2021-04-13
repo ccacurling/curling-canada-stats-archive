@@ -79,7 +79,7 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Preston, Samantha
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
  - Singler, Sherri
  - Sweeting, Val

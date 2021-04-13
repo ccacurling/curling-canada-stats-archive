@@ -85,7 +85,7 @@ vs:
  - Harvey, Carol
  - Harvey, Janet
  - Henry, Lou Ann
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Jones, Colleen
  - Jones, Jennifer

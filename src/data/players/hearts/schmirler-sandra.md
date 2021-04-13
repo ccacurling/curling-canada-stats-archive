@@ -228,7 +228,7 @@ vs:
  - Henry, Lou Ann
  - Hensley, Merna
  - Herlinveaux, Louise
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Hopkins, Heather
  - Horne, Kate
  - Houston, Heather

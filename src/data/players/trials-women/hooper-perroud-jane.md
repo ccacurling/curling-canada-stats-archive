@@ -1,7 +1,7 @@
 ---
-title: Jane Hooper
-name: Jane Hooper
-name-sort: Hooper, Jane
+title: Jane Hooper-Perroud
+name: Jane Hooper-Perroud
+name-sort: Hooper-Perroud, Jane
 totals:
  - event: Trials (Women)
    games: 9
@@ -64,7 +64,7 @@ vs:
  - McKnight, Patti
  - Merklinger, Anne
  - Middaugh, Sherry
- - Moore, Kimberly
+ - Moore, Kim
  - Mulroney, Sandra
  - Nimmo, Shannon
  - Overton-Clapham, Cathy

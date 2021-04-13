@@ -54,6 +54,7 @@ years:
    shots-percent: 80
 vs:
  - Arsenault, Mary-Anne
+ - Bakker, Glenys
  - Bergner, Sasha
  - Breen, Theresa
  - Bryden, Renelle

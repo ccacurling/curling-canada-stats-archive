@@ -2,7 +2,7 @@
 title: Julie Rainville Head-to-head
 name: Rainville, Julie
 vs:
- - name: Ramsay, Geri Lynn
+ - name: Ramsay, Geri-Lynn
    totals:
     - event: Hearts
       player1:

@@ -230,6 +230,34 @@ vs:
       year: 2010
       draw: Round Robin(3)
       score: SN 3 - JJ 10
+ - name: Lawton, Stefanie
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 80
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SN'
+        position: Fourth
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'SL'
+        position: Fourth
+        percent: 89
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(1)
+      score: SL 9 - SN 6
  - name: McDonald, Kristy
    totals:
     - event: Canada Cup (Women)

@@ -49,7 +49,7 @@ vs:
  - Gellard, Kim
  - Godberson, Heather
  - Gudereit, Marcia
- - Hooper, Jane
+ - Hooper-Perroud, Jane
  - Hopkins, Heather
  - Horne, Kate
  - Jurgenson, Christine

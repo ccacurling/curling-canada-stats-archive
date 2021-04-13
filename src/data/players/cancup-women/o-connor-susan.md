@@ -140,7 +140,6 @@ vs:
  - Fallis, Karen
  - Fargey, Lisa
  - Ferguson, Dana
- - Foster, Kristen
  - Froud, Susan
  - Gatchell, Sara
  - Gignac, Donna

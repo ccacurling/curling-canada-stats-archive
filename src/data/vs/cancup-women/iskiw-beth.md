@@ -331,12 +331,12 @@ vs:
     - event: Canada Cup (Women)
       player1:
         percent: 73
-        wins: 2
+        wins: 1
         losses: 2
       player2:
-        percent: 77
+        percent: 75
         wins: 2
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'MOOR'
@@ -354,22 +354,6 @@ vs:
       year: 2008
       draw: Round Robin(2)
       score: LAWT 7 - MOOR 3
-    - player1:
-        team: 'HN'
-        position: Third
-        percent: 76
-        win: 1
-        loss: 0
-      player2:
-        team: 'KS'
-        position: Fourth
-        percent: 83
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2010
-      draw: Round Robin(7)
-      score: KS 5 - HN 6
     - player1:
         team: 'NED'
         position: Third
@@ -1022,7 +1006,7 @@ vs:
       year: 2012
       draw: Round Robin(8)
       score: NED 6 - WEB 9
- - name: Ramsay, Geri Lynn
+ - name: Ramsay, Geri-Lynn
    totals:
     - event: Canada Cup (Women)
       player1:

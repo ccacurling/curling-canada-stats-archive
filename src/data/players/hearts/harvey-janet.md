@@ -119,7 +119,7 @@ vs:
  - Hardy, Shelley
  - Henry, Lou Ann
  - Hollands, Saskia
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Houston, Heather
  - Jones, Colleen

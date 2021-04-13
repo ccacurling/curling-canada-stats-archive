@@ -190,7 +190,7 @@ vs:
  - Potts, Sarah
  - Price, Kara
  - Rainville, Julie
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Richards, Brette
  - Robertson, Darcy
  - Robichaud, Sylvie

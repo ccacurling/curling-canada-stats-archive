@@ -102,7 +102,6 @@ vs:
  - Englot, Michelle
  - Fallis, Karen
  - Fargey, Lisa
- - Foster, Kristen
  - Gignac, Donna
  - Hardy, Shelley
  - Harvey, Alison

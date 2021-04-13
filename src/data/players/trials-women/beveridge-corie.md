@@ -106,7 +106,7 @@ vs:
  - Merklinger, Anne
  - Middaugh, Sherry
  - Montgomery, Kay
- - Moore, Kimberly
+ - Moore, Kim
  - Mulroney, Sandra
  - Nimmo, Shannon
  - Overton-Clapham, Cathy

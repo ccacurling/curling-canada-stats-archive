@@ -41,7 +41,7 @@ vs:
  - Georges, Kendra
  - O'Rourke, Kathy
  - Phillips, Kristen
- - Ramsay, Geri Lynn
+ - Ramsay, Geri-Lynn
  - Thurston, Jill
  - Westcott, Raunora
  - Wilson, Leslie

@@ -118,34 +118,62 @@ vs:
       year: 2004
       draw: Final(14)
       score: AND 7 - CJO 8
+ - name: Bakker, Glenys
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AND'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'KLE'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2004
+      draw: Round Robin(6)
+      score: AND 5 - KLE 4
  - name: Baleja, Susan
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 80
-        wins: 0
-        losses: 1
-      player2:
-        percent: 70
+        percent: 82
         wins: 1
         losses: 0
+      player2:
+        percent: 91
+        wins: 0
+        losses: 1
    games:
     - player1:
         team: 'And'
         position: Fourth
-        percent: 80
-        win: 0
-        loss: 1
-      player2:
-        team: 'Kin'
-        position: Second
-        percent: 70
+        percent: 82
         win: 1
         loss: 0
+      player2:
+        team: 'Por'
+        position: Second
+        percent: 91
+        win: 0
+        loss: 1
       event: Canada Cup (Women)
       year: 2007
-      draw: Page 3-4(11)
-      score: And 4 - Kin 6
+      draw: Round Robin(5)
+      score: And 9 - Por 6
  - name: Bell, Chelsey
    totals:
     - event: Canada Cup (Women)
@@ -998,14 +1026,30 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 75
-        wins: 2
+        percent: 74
+        wins: 3
         losses: 1
       player2:
-        percent: 68
+        percent: 66
         wins: 1
-        losses: 2
+        losses: 3
    games:
+    - player1:
+        team: 'SL'
+        position: Third
+        percent: 72
+        win: 1
+        loss: 0
+      player2:
+        team: 'CC'
+        position: Second
+        percent: 63
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(9)
+      score: SL 8 - CC 5
     - player1:
         team: 'LAW'
         position: Third
@@ -2074,13 +2118,13 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 80
-        wins: 3
+        percent: 78
+        wins: 2
         losses: 0
       player2:
-        percent: 73
+        percent: 79
         wins: 0
-        losses: 3
+        losses: 2
    games:
     - player1:
         team: 'And'
@@ -2114,22 +2158,6 @@ vs:
       year: 2008
       draw: Round Robin(3)
       score: ANDE 7 - LAWT 6
-    - player1:
-        team: 'SL'
-        position: Third
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'KS'
-        position: Fourth
-        percent: 59
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2010
-      draw: Round Robin(3)
-      score: SL 13 - KS 3
  - name: LeDrew, Stephanie
    totals:
     - event: Canada Cup (Women)
@@ -3458,7 +3486,7 @@ vs:
       year: 2012
       draw: Round Robin(7)
       score: WEB 4 - LAW 8
- - name: Ramsay, Geri Lynn
+ - name: Ramsay, Geri-Lynn
    totals:
     - event: Canada Cup (Women)
       player1:

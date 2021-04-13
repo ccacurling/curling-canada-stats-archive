@@ -158,7 +158,7 @@ vs:
  - Harvey, Janet
  - Henry, Lou Ann
  - Herlinveaux, Louise
- - Hooper Perroud, Jane
+ - Hooper-Perroud, Jane
  - Horne, Kate
  - Hutchinson, Joan
  - Imai, Rita
