@@ -4,8 +4,8 @@ name: Jane Boyle
 name-sort: Boyle, Jane
 totals:
  - event: Hearts
-   games: 25
-   wins: 8
+   games: 24
+   wins: 7
    losses: 17
    inturn-total: 301
    inturn-percent: 83
@@ -25,20 +25,7 @@ years:
  - year: 2013
    event: Hearts
    team: "NB"
-   position: Lead
-   games: 1
-   wins: 1
-   losses: 0
-   inturn-total: 0
-   inturn-percent:
-   outturn-total: 0
-   outturn-percent:
-   draw-total: 0
-   draw-percent:
-   takeout-total: 0
-   takeout-percent:
-   shots-total: 0
-   shots-percent:
+   position: Alternate
  - year: 2014
    event: Hearts
    team: "NB"
@@ -103,8 +90,6 @@ vs:
  - Camozzi, Rhonda
  - Campbell, Jolene
  - Carey, Chelsea
- - Chenier, Courtney
- - Cheveldave, Amber
  - Christianson, Marie
  - Clark-Rouire, Jennifer
  - Collins, Katrina
@@ -112,9 +97,7 @@ vs:
  - Courtney, Joanne
  - Cunningham, Jessica
  - Curtis, Stacie
- - deJager, Blaine
  - Devereaux, Julie
- - Dykstra, Michelle
  - Einarson, Kerri
  - Ferguson, Dana
  - Filteau, Anne-Marie
@@ -147,7 +130,6 @@ vs:
  - McInnis, Susan
  - McQuaid, Michelle
  - Miskew, Emma
- - Moore, Kristie
  - Murphy, Sarah
  - Nicholls, Brenda
  - Nixon, Amy

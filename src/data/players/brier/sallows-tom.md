@@ -31,8 +31,6 @@ years:
    outturn-percent: 100
    draw-total: 4
    draw-percent: 81
-   takeout-total: 0
-   takeout-percent:
    shots-total: 4
    shots-percent: 81
  - year: 2016
@@ -48,8 +46,6 @@ years:
    outturn-percent: 88
    draw-total: 6
    draw-percent: 92
-   takeout-total: 0
-   takeout-percent:
    shots-total: 6
    shots-percent: 92
  - year: 2018
@@ -61,12 +57,8 @@ years:
    losses: 0
    inturn-total: 2
    inturn-percent: 50
-   outturn-total: 0
-   outturn-percent:
    draw-total: 2
    draw-percent: 50
-   takeout-total: 0
-   takeout-percent:
    shots-total: 2
    shots-percent: 50
  - year: 2018
@@ -76,12 +68,8 @@ years:
    games: 1
    wins: 1
    losses: 0
-   inturn-total: 0
-   inturn-percent:
    outturn-total: 2
    outturn-percent: 38
-   draw-total: 0
-   draw-percent:
    takeout-total: 2
    takeout-percent: 38
    shots-total: 2

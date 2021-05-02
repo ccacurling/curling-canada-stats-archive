@@ -98,7 +98,6 @@ vs:
  - McTaggart, Cary-Anne
  - Moore, Kristie
  - Njegovan, Selena
- - O'Connor, Susan
  - Officer, Jill
  - Porter, Erin
  - Sagle, Karen

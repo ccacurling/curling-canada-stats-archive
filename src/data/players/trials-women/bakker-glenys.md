@@ -74,7 +74,6 @@ vs:
  - Gatchell, Sara
  - Gellard, Kim
  - Gignac, Donna
- - Godberson, Heather
  - Goring, Alison
  - Gregoire, Veronique
  - Gudereit, Marcia
@@ -106,6 +105,7 @@ vs:
  - Middaugh, Sherry
  - Moore, Kim
  - Mulroney, Sandra
+ - Nedohin, Heather
  - Officer, Jill
  - Overton-Clapham, Cathy
  - Rizzo, Jo-Ann

@@ -116,7 +116,6 @@ vs:
  - Brown, Rachel
  - Carrier, Julie
  - Carter, Sasha
- - Chenier, Courtney
  - Clarke, Hayley
  - Comeau, Sandy
  - Cunningham, Cathy

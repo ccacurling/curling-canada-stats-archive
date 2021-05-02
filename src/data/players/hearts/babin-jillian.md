@@ -123,7 +123,6 @@ vs:
  - Carmody, Erin
  - Carter, Sasha
  - Christianson, Marie
- - Clark-Rouire, Jennifer
  - Comeau, Martine
  - Cormier, Sharon
  - Cote, Marie-Pier

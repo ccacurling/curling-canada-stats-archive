@@ -82,8 +82,6 @@ years:
    outturn-percent: 85
    draw-total: 14
    draw-percent: 86
-   takeout-total: 0
-   takeout-percent:
    shots-total: 14
    shots-percent: 86
  - year: 2011

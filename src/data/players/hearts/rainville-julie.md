@@ -211,7 +211,6 @@ vs:
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie
- - Wasylkiw, Lauren
  - Westcott, Raunora
  - Wieler, Bev
  - Williamson, Ashley

@@ -143,7 +143,6 @@ vs:
  - Lukowich, Judy
  - Lynch, Pauline
  - MacDonald, Karen
- - MacDonald, Rebecca Jean
  - MacLean, Jean
  - MacPhee, Robyn
  - Mainwaring, Bev

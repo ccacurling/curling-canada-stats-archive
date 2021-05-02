@@ -30,34 +30,6 @@ vs:
       year: 1997
       draw: Round Robin(2)
       score: BOD 4 - MER 9
- - name: Godberson, Heather
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 98
-        wins: 1
-        losses: 0
-      player2:
-        percent: 64
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MER'
-        position: Lead
-        percent: 98
-        win: 1
-        loss: 0
-      player2:
-        team: 'BOR'
-        position: Third
-        percent: 64
-        win: 0
-        loss: 1
-      event: Trials (Women)
-      year: 1997
-      draw: Round Robin(6)
-      score: BOR 8 - MER 9
  - name: Goring, Alison
    totals:
     - event: Trials (Women)
@@ -562,6 +534,34 @@ vs:
       year: 1997
       draw: Round Robin(3)
       score: MER 5 - SCHE 8
+ - name: Nedohin, Heather
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 98
+        wins: 1
+        losses: 0
+      player2:
+        percent: 64
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MER'
+        position: Lead
+        percent: 98
+        win: 1
+        loss: 0
+      player2:
+        team: 'BOR'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 1997
+      draw: Round Robin(6)
+      score: BOR 8 - MER 9
  - name: Nimmo, Shannon
    totals:
     - event: Trials (Women)

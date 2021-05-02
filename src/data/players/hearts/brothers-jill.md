@@ -168,7 +168,6 @@ vs:
  - Inglis, Nancy
  - Jones, Jennifer
  - Kasner, Marliese
- - Knapp, Breanne
  - Kreviazuk, Alison
  - Kreviazuk, Cheryl
  - Kreviazuk, Lynn

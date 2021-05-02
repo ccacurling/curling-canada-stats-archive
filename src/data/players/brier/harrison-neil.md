@@ -25,16 +25,6 @@ years:
    games: 12
    wins: 7
    losses: 5
-   inturn-total: 0
-   inturn-percent:
-   outturn-total: 0
-   outturn-percent:
-   draw-total: 0
-   draw-percent:
-   takeout-total: 0
-   takeout-percent:
-   shots-total: 0
-   shots-percent:
  - year: 1983
    event: Brier
    team: "ON"
@@ -42,16 +32,6 @@ years:
    games: 13
    wins: 12
    losses: 1
-   inturn-total: 0
-   inturn-percent:
-   outturn-total: 0
-   outturn-percent:
-   draw-total: 0
-   draw-percent:
-   takeout-total: 0
-   takeout-percent:
-   shots-total: 0
-   shots-percent:
  - year: 1984
    event: Brier
    team: "ON"
@@ -59,16 +39,6 @@ years:
    games: 15
    wins: 10
    losses: 5
-   inturn-total: 0
-   inturn-percent:
-   outturn-total: 0
-   outturn-percent:
-   draw-total: 0
-   draw-percent:
-   takeout-total: 0
-   takeout-percent:
-   shots-total: 0
-   shots-percent:
  - year: 1988
    event: Brier
    team: "ON"

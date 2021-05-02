@@ -91,7 +91,6 @@ vs:
  - Kasner, Marliese
  - Knezevic, Patti
  - Koehler, Megan
- - Kreviazuk, Cheryl
  - Larouche, Marie-France
  - Lawes, Kaitlyn
  - Lawton, Stefanie

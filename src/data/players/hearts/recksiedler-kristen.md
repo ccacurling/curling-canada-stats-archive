@@ -79,7 +79,6 @@ vs:
  - MacPhee, Robyn
  - McCarville, Krista
  - McEwen, Dawn
- - Meilleur, Briane
  - Murphy, Sarah
  - Nicholls, Brenda
  - Nixon, Amy

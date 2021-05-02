@@ -2,34 +2,6 @@
 title: Tricia Affleck Head-to-head
 name: Affleck, Tricia
 vs:
- - name: Aleksic, Shannon
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Lead
-        percent: 78
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2010
-      draw: Round Robin(16)
-      score: PE 5 - BC 10
  - name: Anderson, Sherry
    totals:
     - event: Hearts
@@ -902,34 +874,6 @@ vs:
       year: 2006
       draw: Round Robin(10)
       score: AB 7 - PE 0
- - name: Campbell, Jolene
-   totals:
-    - event: Hearts
-      player1:
-        percent: 100
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Lead
-        percent: 100
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2011
-      draw: Round Robin(5)
-      score: SK 10 - PE 6
  - name: Campbell, June
    totals:
     - event: Hearts
@@ -4452,10 +4396,10 @@ vs:
       player1:
         percent: 88
         wins: 1
-        losses: 4
+        losses: 3
       player2:
         percent: 77
-        wins: 4
+        wins: 3
         losses: 1
    games:
     - player1:
@@ -4522,22 +4466,6 @@ vs:
       year: 2004
       draw: Round Robin(8)
       score: ON 7 - PE 6
-    - player1:
-        team: 'PE'
-        position: Lead
-        percent: 100
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2011
-      draw: Round Robin(6)
-      score: ON 8 - PE 2
  - name: Miskew, Emma
    totals:
     - event: Hearts

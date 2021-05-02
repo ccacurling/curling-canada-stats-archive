@@ -195,7 +195,6 @@ vs:
  - Jones, Jennifer
  - Karwacki, Krysten
  - Kitz, Chaelynn
- - Kleibrink, Shannon
  - Klymchuk, Ashley
  - Knapp, Breanne
  - Koehler, Megan

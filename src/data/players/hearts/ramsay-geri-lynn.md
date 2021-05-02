@@ -36,7 +36,6 @@ years:
    shots-total: 269
    shots-percent: 74
 vs:
- - Aleksic, Shannon
  - Armstrong, Jacquie
  - Babin, Jillian
  - Belisle, Eve

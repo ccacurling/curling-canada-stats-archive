@@ -186,62 +186,6 @@ vs:
       year: 2016
       draw: Round Robin(9)
       score: NB 4 - AB 6
- - name: Chenier, Courtney
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Lead
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2015
-      draw: Round Robin(8)
-      score: NO 8 - NB 4
- - name: Cheveldave, Amber
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 86
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'AB'
-        position: Lead
-        percent: 86
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2013
-      draw: Round Robin(13)
-      score: NB 9 - AB 3
  - name: Christianson, Marie
    totals:
     - event: Hearts
@@ -470,34 +414,6 @@ vs:
       year: 2016
       draw: Round Robin(4)
       score: NL 4 - NB 7
- - name: deJager, Blaine
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 75
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'AB'
-        position: Third
-        percent: 75
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2013
-      draw: Round Robin(13)
-      score: NB 9 - AB 3
  - name: Devereaux, Julie
    totals:
     - event: Hearts
@@ -526,34 +442,6 @@ vs:
       year: 2016
       draw: Round Robin(4)
       score: NL 4 - NB 7
- - name: Dykstra, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 73
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'AB'
-        position: Second
-        percent: 73
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2013
-      draw: Round Robin(13)
-      score: NB 9 - AB 3
  - name: Einarson, Kerri
    totals:
     - event: Hearts
@@ -1514,34 +1402,6 @@ vs:
       year: 2015
       draw: Round Robin(16)
       score: CA 5 - NB 6
- - name: Moore, Kristie
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 50
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'AB'
-        position: Fourth
-        percent: 50
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2013
-      draw: Round Robin(13)
-      score: NB 9 - AB 3
  - name: Murphy, Sarah
    totals:
     - event: Hearts

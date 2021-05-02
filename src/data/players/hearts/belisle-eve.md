@@ -82,7 +82,6 @@ vs:
  - Bush, Tracy
  - Cameron, Kate
  - Cameron, Nancy
- - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha

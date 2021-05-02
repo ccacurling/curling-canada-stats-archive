@@ -4,8 +4,8 @@ name: Sherry Middaugh
 name-sort: Middaugh, Sherry
 totals:
  - event: Hearts
-   games: 80
-   wins: 49
+   games: 79
+   wins: 48
    losses: 31
    inturn-total: 696
    inturn-percent: 77
@@ -124,8 +124,8 @@ years:
    event: Hearts
    team: "ON"
    position: Lead
-   games: 4
-   wins: 3
+   games: 3
+   wins: 2
    losses: 1
    inturn-total: 13
    inturn-percent: 81

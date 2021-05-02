@@ -4,8 +4,8 @@ name: Sarah Potts
 name-sort: Potts, Sarah
 totals:
  - event: Hearts
-   games: 42
-   wins: 27
+   games: 41
+   wins: 26
    losses: 15
    inturn-total: 417
    inturn-percent: 88
@@ -22,8 +22,8 @@ years:
    event: Hearts
    team: "ON"
    position: Lead
-   games: 2
-   wins: 1
+   games: 1
+   wins: 0
    losses: 1
    inturn-total: 6
    inturn-percent: 88
@@ -107,7 +107,6 @@ vs:
  - Christianson, Marie
  - Cormier, Sharon
  - Courtney, Joanne
- - Crouse, Jennifer
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
@@ -124,7 +123,6 @@ vs:
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
- - Gilman, Sheena
  - Griffin, Alison
  - Hamon, Callan
  - Hanna, Jenn
@@ -150,7 +148,6 @@ vs:
  - Mallett, Marla
  - Mann, Lauren
  - Mattatall, Mary
- - McConnery, Nancy
  - McEwen, Dawn
  - McQuaid, Michelle
  - McTaggart, Cary-Anne
@@ -186,7 +183,6 @@ vs:
  - Silvernagle, Robyn
  - Thevenot, Kara
  - Thiessen, Alison
- - Thomas, Jill
  - Thompson, Karla
  - Thurston, Jill
  - Udle, Teri

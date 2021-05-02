@@ -30,62 +30,18 @@ vs:
       year: 2018
       draw: Pool(16)
       score: ON 5 - WC 7
- - name: MacDonald, Rebecca Jean
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 38
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'ON'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Third
-        percent: 38
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2017
-      draw: Round Robin(4)
-      score: PE 3 - ON 8
  - name: MacPhee, Robyn
    totals:
     - event: Hearts
       player1:
         percent: 76
-        wins: 2
+        wins: 1
         losses: 0
       player2:
-        percent: 74
+        percent: 81
         wins: 0
-        losses: 2
+        losses: 1
    games:
-    - player1:
-        team: 'ON'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Fourth
-        percent: 67
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2017
-      draw: Round Robin(4)
-      score: PE 3 - ON 8
     - player1:
         team: 'ON'
         position: Second
@@ -163,29 +119,13 @@ vs:
     - event: Hearts
       player1:
         percent: 76
-        wins: 2
+        wins: 1
         losses: 0
       player2:
-        percent: 77
+        percent: 84
         wins: 0
-        losses: 2
+        losses: 1
    games:
-    - player1:
-        team: 'ON'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2017
-      draw: Round Robin(4)
-      score: PE 3 - ON 8
     - player1:
         team: 'ON'
         position: Second
@@ -726,34 +666,6 @@ vs:
       year: 2018
       draw: Round Robin(11)
       score: NU 2 - ON 12
- - name: Strong, Heather
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 64
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'CA'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Fourth
-        percent: 64
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(10)
-      score: NL 5 - CA 11
  - name: Tuor, Kimberly
    totals:
     - event: Hearts

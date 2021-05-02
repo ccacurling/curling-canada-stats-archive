@@ -46,7 +46,6 @@ vs:
  - Eddy, Lori
  - Fraser, Sherry
  - Frey, Audrey
- - Godberson, Heather
  - Goring, Alison
  - Gudereit, Marcia
  - Hopkins, Heather
@@ -66,6 +65,7 @@ vs:
  - Middaugh, Sherry
  - Moore, Kim
  - Mulroney, Sandra
+ - Nedohin, Heather
  - Nimmo, Shannon
  - Overton-Clapham, Cathy
  - Schmirler, Sandra

@@ -282,7 +282,6 @@ vs:
  - Vautour, Carrie
  - Vey, Lana
  - Walsh, Jenna
- - Wasylkiw, Lauren
  - Westcott, Raunora
  - Wieler, Bev
  - Williamson, Ashley

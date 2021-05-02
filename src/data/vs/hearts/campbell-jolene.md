@@ -86,34 +86,6 @@ vs:
       year: 2016
       draw: Round Robin(12)
       score: SK 6 - PE 7
- - name: Comeau, Martine
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 50
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
-        position: Second
-        percent: 50
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(10)
-      score: QC 6 - SK 8
  - name: Cormier, Sharon
    totals:
     - event: Hearts
@@ -922,62 +894,18 @@ vs:
       year: 2012
       draw: Round Robin(13)
       score: CA 10 - PE 4
- - name: MacDougall, Leslie
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 88
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 88
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2011
-      draw: Round Robin(5)
-      score: SK 10 - PE 6
  - name: MacPhee, Robyn
    totals:
     - event: Hearts
       player1:
         percent: 64
-        wins: 1
+        wins: 0
         losses: 1
       player2:
-        percent: 82
+        percent: 80
         wins: 1
-        losses: 1
+        losses: 0
    games:
-    - player1:
-        team: 'SK'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Second
-        percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2011
-      draw: Round Robin(5)
-      score: SK 10 - PE 6
     - player1:
         team: 'SK'
         position: Fourth
@@ -1299,29 +1227,13 @@ vs:
     - event: Hearts
       player1:
         percent: 58
-        wins: 1
+        wins: 0
         losses: 1
       player2:
-        percent: 70
+        percent: 85
         wins: 1
-        losses: 1
+        losses: 0
    games:
-    - player1:
-        team: 'SK'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
-        position: Third
-        percent: 60
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(10)
-      score: QC 6 - SK 8
     - player1:
         team: 'SK'
         position: Fourth
@@ -1611,29 +1523,13 @@ vs:
     - event: Hearts
       player1:
         percent: 58
-        wins: 1
+        wins: 0
         losses: 1
       player2:
-        percent: 86
+        percent: 92
         wins: 1
-        losses: 1
+        losses: 0
    games:
-    - player1:
-        team: 'SK'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(10)
-      score: QC 6 - SK 8
     - player1:
         team: 'SK'
         position: Fourth

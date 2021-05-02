@@ -206,34 +206,6 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: PE 7 - SK 6
- - name: Kleibrink, Shannon
-   totals:
-    - event: Hearts
-      player1:
-        percent: 71
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent: 71
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2017
-      draw: Round Robin(14)
-      score: PE 4 - AB 6
  - name: Klymchuk, Ashley
    totals:
     - event: Hearts
@@ -398,30 +370,14 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 74
+        percent: 80
         wins: 0
-        losses: 2
+        losses: 1
       player2:
         percent: 76
-        wins: 2
+        wins: 1
         losses: 0
    games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent: 68
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2017
-      draw: Round Robin(4)
-      score: PE 3 - ON 8
     - player1:
         team: 'PE'
         position: Second

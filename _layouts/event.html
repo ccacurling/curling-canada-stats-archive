@@ -208,10 +208,8 @@ layout: default
           <tr>
             <th>Pos</th>
             <th>Player</th>
-            {% if game.team1.players[0].shots %}
             <th>SHT</th>
             <th>PCT</th>
-            {% endif %}
           </tr>
           </thead>
           <tbody>
@@ -219,11 +217,11 @@ layout: default
           <tr>
             <td>{{ player.position | capitalize }}</td>
             <td><a href="../players/{{ player.name | slugify }}">{{ player.name }}</a></td>
-            {% if player.shots == 0 %}
-            <td>--</td><td>--</td>
-            {% elsif player.shots %}
+            {% if player.shots %}
             <td>{{ player.shots }}</td>
             <td>{{ player.percent }}</td>
+            {% else %}
+            <td>--</td><td>--</td>
             {% endif %}
           </tr>
           {% endfor %}
@@ -232,11 +230,11 @@ layout: default
           {% if game.team1.shots %}
           <tr>
             <td colspan="2">Team</td>
-            {% if game.team1.shots == 0 %}
-            <td>--</td><td>--</td>
-            {% else %}
+            {% if game.team1.shots %}
             <td>{{ game.team1.shots }}</td>
             <td>{{ game.team1.percent }}</td>
+            {% else %}
+            <td>--</td><td>--</td>
             {% endif %}
           </tr>
           {% endif %}
@@ -252,10 +250,8 @@ layout: default
           <tr>
             <th>Pos</th>
             <th>Player</th>
-            {% if game.team2.players[0].shots %}
             <th>SHT</th>
             <th>PCT</th>
-            {% endif %}
           </tr>
           </thead>
           <tbody>
@@ -263,11 +259,11 @@ layout: default
           <tr>
             <td>{{ player.position | capitalize }}</td>
             <td><a href="../players/{{ player.name | slugify }}">{{ player.name }}</a></td>
-            {% if player.shots == 0 %}
-            <td>--</td><td>--</td>
-            {% elsif player.shots %}
+            {% if player.shots  %}
             <td>{{ player.shots }}</td>
             <td>{{ player.percent }}</td>
+            {% else %}
+            <td>--</td><td>--</td>
             {% endif %}
           </tr>
           {% endfor %}

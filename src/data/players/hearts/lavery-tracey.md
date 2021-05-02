@@ -58,7 +58,6 @@ vs:
  - MacCuish, Kristin
  - McCarville, Krista
  - McEwen, Dawn
- - Meilleur, Briane
  - Murphy, Sarah
  - Nicholls, Brenda
  - Nixon, Amy

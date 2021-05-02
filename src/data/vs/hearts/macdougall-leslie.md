@@ -390,12 +390,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 78
+        percent: 80
         wins: 1
-        losses: 3
+        losses: 2
       player2:
         percent: 78
-        wins: 3
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -446,22 +446,6 @@ vs:
       year: 2001
       draw: Tie-Breaker(18)
       score: PE 2 - ON 9
-    - player1:
-        team: 'PE'
-        position: Lead
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2011
-      draw: Round Robin(6)
-      score: ON 8 - PE 2
  - name: Miller, Wendy
    totals:
     - event: Hearts

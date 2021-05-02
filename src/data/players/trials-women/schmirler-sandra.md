@@ -48,7 +48,6 @@ vs:
  - Fraser, Sherry
  - Frey, Audrey
  - Gellard, Kim
- - Godberson, Heather
  - Goring, Alison
  - Hooper-Perroud, Jane
  - Hopkins, Heather
@@ -67,6 +66,7 @@ vs:
  - Middaugh, Sherry
  - Moore, Kim
  - Mulroney, Sandra
+ - Nedohin, Heather
  - Nimmo, Shannon
  - Overton-Clapham, Cathy
  - Sipka, Joanne

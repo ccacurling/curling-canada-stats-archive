@@ -610,34 +610,6 @@ vs:
       year: 2020
       draw: Round Robin(9)
       score: BC 12 - YT 5
- - name: Knapp, Breanne
-   totals:
-    - event: Hearts
-      player1:
-        percent: 67
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'TR'
-        position: Third
-        percent: 67
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2014
-      draw: Round Robin(10)
-      score: MB 10 - TR 4
  - name: Knezevic, Patti
    totals:
     - event: Hearts

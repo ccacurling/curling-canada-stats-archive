@@ -86,7 +86,6 @@ vs:
  - Campbell, Jolene
  - Carey, Chelsea
  - Carter, Sasha
- - Chenier, Courtney
  - Christianson, Marie
  - Clark, Stefanie
  - Clark-Rouire, Jennifer

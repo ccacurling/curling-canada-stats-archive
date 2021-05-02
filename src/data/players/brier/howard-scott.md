@@ -31,8 +31,6 @@ years:
    outturn-percent: 75
    draw-total: 4
    draw-percent: 88
-   takeout-total: 0
-   takeout-percent:
    shots-total: 4
    shots-percent: 88
  - year: 2012
@@ -76,8 +74,6 @@ years:
    games: 1
    wins: 1
    losses: 0
-   inturn-total: 0
-   inturn-percent:
    outturn-total: 2
    outturn-percent: 100
    draw-total: 1

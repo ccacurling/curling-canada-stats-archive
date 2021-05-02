@@ -519,12 +519,12 @@ vs:
     - event: Hearts
       player1:
         percent: 63
-        wins: 2
+        wins: 1
         losses: 0
       player2:
-        percent: 69
+        percent: 70
         wins: 0
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'NB'
@@ -542,22 +542,6 @@ vs:
       year: 2009
       draw: Round Robin(15)
       score: NB 9 - NS 8
-    - player1:
-        team: 'NB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Second
-        percent: 69
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(5)
-      score: NB 10 - NS 6
  - name: Goss, Peg
    totals:
     - event: Hearts
@@ -1742,34 +1726,6 @@ vs:
       year: 2009
       draw: Round Robin(10)
       score: BC 7 - NB 5
- - name: MacIntosh, Kelly
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 50
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Lead
-        percent: 50
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(5)
-      score: NB 10 - NS 6
  - name: MacLean, Kari
    totals:
     - event: Hearts
@@ -2047,12 +2003,12 @@ vs:
     - event: Hearts
       player1:
         percent: 63
-        wins: 2
+        wins: 1
         losses: 0
       player2:
-        percent: 64
+        percent: 69
         wins: 0
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'NB'
@@ -2070,22 +2026,6 @@ vs:
       year: 2009
       draw: Round Robin(15)
       score: NB 9 - NS 8
-    - player1:
-        team: 'NB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Fourth
-        percent: 58
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(5)
-      score: NB 10 - NS 6
  - name: McDonald, Kristy
    totals:
     - event: Hearts
@@ -3887,12 +3827,12 @@ vs:
     - event: Hearts
       player1:
         percent: 63
-        wins: 2
+        wins: 1
         losses: 0
       player2:
-        percent: 80
+        percent: 76
         wins: 0
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'NB'
@@ -3910,22 +3850,6 @@ vs:
       year: 2009
       draw: Round Robin(15)
       score: NB 9 - NS 8
-    - player1:
-        team: 'NB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(5)
-      score: NB 10 - NS 6
  - name: Thurston, Jill
    totals:
     - event: Hearts

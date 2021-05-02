@@ -4,8 +4,8 @@ name: Susan O'Connor
 name-sort: O'Connor, Susan
 totals:
  - event: Hearts
-   games: 30
-   wins: 18
+   games: 29
+   wins: 17
    losses: 12
    inturn-total: 240
    inturn-percent: 78
@@ -123,8 +123,8 @@ years:
    event: Hearts
    team: "AB"
    position: Lead
-   games: 2
-   wins: 2
+   games: 1
+   wins: 1
    losses: 0
    inturn-total: 3
    inturn-percent: 58
@@ -168,7 +168,6 @@ vs:
  - Gagnier, Monique
  - Galusha, Kerry
  - George, Tara
- - Gibson, Amy
  - Gilman, Sheena
  - Goss, Peg
  - Gudereit, Marcia
@@ -230,9 +229,6 @@ vs:
  - Thompson, Karla
  - Udle, Teri
  - Vandale, Trysta
- - Van Osch, Kalia
- - Van Osch, Kesa
- - Van Osch, Marika
  - Vey, Lana
  - West, Christianne
  - Wheatcroft, Georgina

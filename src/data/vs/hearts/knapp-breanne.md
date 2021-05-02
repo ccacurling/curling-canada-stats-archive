@@ -2,34 +2,6 @@
 title: Breanne Knapp Head-to-head
 name: Knapp, Breanne
 vs:
- - name: Koltun, Sarah
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 63
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
-        position: Fourth
-        percent: 63
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2014
-      draw: Round Robin(10)
-      score: MB 10 - TR 4
  - name: Lawes, Kaitlyn
    totals:
     - event: Hearts
@@ -646,45 +618,17 @@ vs:
       year: 2014
       draw: Round Robin(12)
       score: QC 3 - MB 15
- - name: Sinclair, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 83
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2014
-      draw: Round Robin(10)
-      score: MB 10 - TR 4
  - name: Smith, Heather
    totals:
     - event: Hearts
       player1:
         percent: 72
-        wins: 1
+        wins: 0
         losses: 1
       player2:
-        percent: 72
+        percent: 68
         wins: 1
-        losses: 1
+        losses: 0
    games:
     - player1:
         team: 'MB'
@@ -702,22 +646,6 @@ vs:
       year: 2011
       draw: Round Robin(9)
       score: NS 8 - MB 7
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Fourth
-        percent: 76
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2014
-      draw: Round Robin(6)
-      score: MB 7 - NS 3
  - name: Sobey, Lianne
    totals:
     - event: Hearts
@@ -891,12 +819,12 @@ vs:
     - event: Hearts
       player1:
         percent: 72
-        wins: 1
+        wins: 0
         losses: 1
       player2:
-        percent: 78
+        percent: 74
         wins: 1
-        losses: 1
+        losses: 0
    games:
     - player1:
         team: 'MB'
@@ -914,22 +842,6 @@ vs:
       year: 2011
       draw: Round Robin(9)
       score: NS 8 - MB 7
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2014
-      draw: Round Robin(6)
-      score: MB 7 - NS 3
  - name: Walker, Laura
    totals:
     - event: Hearts
@@ -958,34 +870,6 @@ vs:
       year: 2021
       draw: Pool(22)
       score: AB 9 - SK 4
- - name: Wallingham, Patty
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 92
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
-        position: Second
-        percent: 92
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2014
-      draw: Round Robin(10)
-      score: MB 10 - TR 4
  - name: Weagle, Lisa
    totals:
     - event: Hearts

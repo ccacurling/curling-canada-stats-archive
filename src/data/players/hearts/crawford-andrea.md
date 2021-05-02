@@ -207,7 +207,6 @@ vs:
  - Cheveldave, Amber
  - Christianson, Marie
  - Clark, Stefanie
- - Clark-Rouire, Jennifer
  - Comeau, Martine
  - Cooper, Kathryn
  - Cormier, Sharon

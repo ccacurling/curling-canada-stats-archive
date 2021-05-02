@@ -95,12 +95,8 @@ years:
    losses: 0
    inturn-total: 2
    inturn-percent: 100
-   outturn-total: 0
-   outturn-percent:
    draw-total: 2
    draw-percent: 100
-   takeout-total: 0
-   takeout-percent:
    shots-total: 2
    shots-percent: 100
 vs:

@@ -222,7 +222,6 @@ vs:
  - Richards, Brette
  - Robichaud, Sylvie
  - Ross, Allison
- - Sabourin, Joelle
  - Sagle, Karen
  - Saulnier, Andrea
  - Scheidegger, Casey

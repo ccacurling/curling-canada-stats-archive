@@ -31,8 +31,6 @@ years:
    outturn-percent: 88
    draw-total: 7
    draw-percent: 86
-   takeout-total: 0
-   takeout-percent:
    shots-total: 7
    shots-percent: 86
  - year: 2013
@@ -44,10 +42,6 @@ years:
    losses: 0
    inturn-total: 1
    inturn-percent: 0
-   outturn-total: 0
-   outturn-percent:
-   draw-total: 0
-   draw-percent:
    takeout-total: 1
    takeout-percent: 0
    shots-total: 1

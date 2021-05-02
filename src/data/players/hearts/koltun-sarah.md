@@ -142,7 +142,6 @@ vs:
  - Jones, Jennifer
  - Kasner, Marliese
  - Klymchuk, Ashley
- - Knapp, Breanne
  - Knezevic, Patti
  - Korchinski, Karlee
  - Kreviazuk, Alison

@@ -61,12 +61,8 @@ years:
    losses: 1
    inturn-total: 4
    inturn-percent: 63
-   outturn-total: 0
-   outturn-percent:
    draw-total: 4
    draw-percent: 63
-   takeout-total: 0
-   takeout-percent:
    shots-total: 4
    shots-percent: 63
  - year: 2019
@@ -78,12 +74,8 @@ years:
    losses: 1
    inturn-total: 4
    inturn-percent: 88
-   outturn-total: 0
-   outturn-percent:
    draw-total: 4
    draw-percent: 88
-   takeout-total: 0
-   takeout-percent:
    shots-total: 4
    shots-percent: 88
  - year: 2019
@@ -94,12 +86,8 @@ years:
    losses: 2
    inturn-total: 8
    inturn-percent: 75
-   outturn-total: 0
-   outturn-percent:
    draw-total: 8
    draw-percent: 75
-   takeout-total: 0
-   takeout-percent:
    shots-total: 8
    shots-percent: 75
 vs:

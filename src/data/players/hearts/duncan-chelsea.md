@@ -153,7 +153,6 @@ vs:
  - Joyce, Blisse
  - Kasner, Marliese
  - Klymchuk, Ashley
- - Knapp, Breanne
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah

@@ -183,8 +183,6 @@ years:
    outturn-percent: 82
    draw-total: 22
    draw-percent: 83
-   takeout-total: 0
-   takeout-percent:
    shots-total: 22
    shots-percent: 83
  - year: 2008

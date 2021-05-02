@@ -91,7 +91,6 @@ vs:
  - Knezevic, Patti
  - Koltun, Sarah
  - Kreviazuk, Alison
- - Kreviazuk, Cheryl
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lawton, Stefanie

@@ -42,8 +42,6 @@ years:
    games: 1
    wins: 1
    losses: 0
-   inturn-total: 0
-   inturn-percent:
    outturn-total: 2
    outturn-percent: 100
    draw-total: 1
@@ -65,8 +63,6 @@ years:
    outturn-percent: 63
    draw-total: 8
    draw-percent: 78
-   takeout-total: 0
-   takeout-percent:
    shots-total: 8
    shots-percent: 78
  - year: 2021

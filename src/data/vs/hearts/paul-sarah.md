@@ -2,34 +2,6 @@
 title: Sarah Paul Head-to-head
 name: Paul, Sarah
 vs:
- - name: Sabourin, Joelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 61
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NL'
-        position: Second
-        percent: 61
-        win: 0
-        loss: 1
-      player2:
-        team: 'QC'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2011
-      draw: Round Robin(9)
-      score: NL 6 - QC 10
  - name: Schneider, Kim
    totals:
     - event: Hearts

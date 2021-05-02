@@ -121,7 +121,6 @@ vs:
  - Campbell, Jolene
  - Carey, Chelsea
  - Carter, Sasha
- - Chenier, Courtney
  - Cheveldave, Amber
  - Christianson, Marie
  - Clark, Stefanie

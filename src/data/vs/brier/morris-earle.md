@@ -2,44 +2,16 @@
 title: Earle Morris Head-to-head
 name: Morris, Earle
 vs:
- - name: Munro, Bruce
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(4)
-      score: ON 5 - QC 6
  - name: Nichol, Bob
    totals:
     - event: Brier
       player1:
         percent: 36
         wins: 0
-        losses: 2
+        losses: 1
       player2:
         percent: 72
-        wins: 2
+        wins: 1
         losses: 0
    games:
     - player1:
@@ -58,106 +30,6 @@ vs:
       year: 1980
       draw: Round Robin(6)
       score: NO 11 - MB 3
-    - player1:
-        team: 'QC'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(7)
-      score: QC 4 - NO 10
- - name: Noseworthy, Mark
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(5)
-      score: QC 4 - NL 6
- - name: Palk, Shelly
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(11)
-      score: QC 4 - NB 5
- - name: Paterson, Bruce
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(4)
-      score: ON 5 - QC 6
  - name: Paulsen, Art
    totals:
     - event: Brier
@@ -270,62 +142,6 @@ vs:
       year: 1985
       draw: Round Robin(1)
       score: ON 8 - NO 6
- - name: Perry, Randy
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(5)
-      score: QC 4 - NL 6
- - name: Rechenmacher, Warren
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(1)
-      score: SK 9 - QC 6
  - name: Reibin, Dale
    totals:
     - event: Brier
@@ -354,62 +170,6 @@ vs:
       year: 1985
       draw: Round Robin(8)
       score: ON 5 - BC 8
- - name: Rodd, Roy
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(15)
-      score: PE 4 - QC 8
- - name: Roemer, Al
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(9)
-      score: QC 7 - BC 3
  - name: Rushton, Robert
    totals:
     - event: Brier
@@ -594,62 +354,6 @@ vs:
       year: 1985
       draw: Round Robin(13)
       score: TR 7 - ON 8
- - name: Sullivan, Charlie
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(11)
-      score: QC 4 - NB 5
- - name: Sullivan, Dave
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(11)
-      score: QC 4 - NB 5
  - name: Sutherland, Cy
    totals:
     - event: Brier
@@ -762,34 +466,6 @@ vs:
       year: 1985
       draw: Round Robin(7)
       score: ON 2 - AB 8
- - name: Trickett, Eugene
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(5)
-      score: QC 4 - NL 6
  - name: Turner, Malcolm
    totals:
     - event: Brier
@@ -880,28 +556,12 @@ vs:
       player1:
         percent: 82
         wins: 0
-        losses: 2
+        losses: 1
       player2:
         percent: 83
-        wins: 2
+        wins: 1
         losses: 0
    games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NS'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(12)
-      score: NS 10 - QC 4
     - player1:
         team: 'ON'
         position: Fourth
@@ -951,29 +611,13 @@ vs:
     - event: Brier
       player1:
         percent: 79
-        wins: 2
+        wins: 1
         losses: 0
       player2:
         percent: 76
         wins: 0
-        losses: 2
+        losses: 1
    games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(15)
-      score: PE 4 - QC 8
     - player1:
         team: 'ON'
         position: Fourth
@@ -990,62 +634,6 @@ vs:
       year: 1985
       draw: Round Robin(4)
       score: ON 8 - PE 7
- - name: Wheeler, John
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(5)
-      score: QC 4 - NL 6
- - name: Whetter, John
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(1)
-      score: SK 9 - QC 6
  - name: Wight, Bryan
    totals:
     - event: Brier
@@ -1130,34 +718,6 @@ vs:
       year: 1980
       draw: Round Robin(8)
       score: SK 7 - MB 5
- - name: Yeulet, John
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(14)
-      score: TR 3 - QC 4
  - name: Young, Neil
    totals:
     - event: Brier

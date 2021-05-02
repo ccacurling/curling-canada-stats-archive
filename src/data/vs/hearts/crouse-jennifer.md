@@ -62,12 +62,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 76
+        percent: 80
         wins: 0
-        losses: 2
+        losses: 1
       player2:
         percent: 63
-        wins: 2
+        wins: 1
         losses: 0
    games:
     - player1:
@@ -86,22 +86,6 @@ vs:
       year: 2009
       draw: Round Robin(15)
       score: NB 9 - NS 8
-    - player1:
-        team: 'NS'
-        position: Third
-        percent: 72
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2010
-      draw: Round Robin(5)
-      score: NB 10 - NS 6
  - name: Duncan, Chelsea
    totals:
     - event: Hearts
@@ -2158,34 +2142,6 @@ vs:
       year: 2010
       draw: Round Robin(3)
       score: NS 3 - MB 7
- - name: Potts, Sarah
-   totals:
-    - event: Hearts
-      player1:
-        percent: 64
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Third
-        percent: 64
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2010
-      draw: Round Robin(15)
-      score: NS 3 - ON 7
  - name: Price, Kara
    totals:
     - event: Hearts

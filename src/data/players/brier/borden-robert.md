@@ -207,7 +207,6 @@ vs:
  - Gushue, Brad
  - Hagen, Brandon
  - Harnden, E.J.
- - Harnden, Eric
  - Harnden, Ryan
  - Harper, David
  - Harris, Tyler

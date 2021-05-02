@@ -58,7 +58,6 @@ vs:
  - Homan, Rachel
  - Joyce, Blisse
  - Kasner, Marliese
- - Knapp, Breanne
  - Knezevic, Patti
  - Kreviazuk, Alison
  - Kreviazuk, Lynn

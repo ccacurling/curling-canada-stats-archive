@@ -116,7 +116,6 @@ vs:
  - Jones, Jennifer
  - Karwacki, Krysten
  - Kelly, Kim
- - Kleibrink, Shannon
  - Koehler, Megan
  - Koltun, Sarah
  - Kreviazuk, Alison

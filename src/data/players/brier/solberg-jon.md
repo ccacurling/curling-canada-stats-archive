@@ -99,8 +99,6 @@ years:
    outturn-percent: 25
    draw-total: 6
    draw-percent: 50
-   takeout-total: 0
-   takeout-percent:
    shots-total: 6
    shots-percent: 50
  - year: 2010

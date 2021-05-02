@@ -75,7 +75,6 @@ vs:
  - Fraser, Sherry
  - Frey, Audrey
  - Gignac, Donna
- - Godberson, Heather
  - Goring, Alison
  - Grenier, Valerie
  - Gudereit, Marcia
@@ -108,6 +107,7 @@ vs:
  - Montgomery, Kay
  - Moore, Kim
  - Mulroney, Sandra
+ - Nedohin, Heather
  - Nimmo, Shannon
  - Overton-Clapham, Cathy
  - Purdy, Karen

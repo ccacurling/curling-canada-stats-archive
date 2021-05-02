@@ -108,7 +108,6 @@ vs:
  - Hughes, Meaghan
  - Hutchings, Denise
  - Jones, Jennifer
- - Kleibrink, Shannon
  - Klymchuk, Ashley
  - Koehler, Megan
  - Koltun, Sarah

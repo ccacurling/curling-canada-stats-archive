@@ -138,7 +138,6 @@ years:
    shots-total: 4
    shots-percent: 100
 vs:
- - Aleksic, Shannon
  - Anderson, Sherry
  - Armstrong, Jacquie
  - Arnott, Janet
@@ -165,7 +164,6 @@ vs:
  - Burgess, Carey
  - Busche, Jodi
  - Bush, Tracy
- - Campbell, Jolene
  - Campbell, June
  - Carter, Sasha
  - Cey, Naomi

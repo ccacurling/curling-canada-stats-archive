@@ -4,8 +4,8 @@ name: Joelle Sabourin
 name-sort: Sabourin, Joelle
 totals:
  - event: Hearts
-   games: 58
-   wins: 28
+   games: 57
+   wins: 27
    losses: 30
    inturn-total: 506
    inturn-percent: 76
@@ -114,20 +114,7 @@ years:
  - year: 2011
    event: Hearts
    team: "QC"
-   position: Lead
-   games: 1
-   wins: 1
-   losses: 0
-   inturn-total: 0
-   inturn-percent:
-   outturn-total: 0
-   outturn-percent:
-   draw-total: 0
-   draw-percent:
-   takeout-total: 0
-   takeout-percent:
-   shots-total: 0
-   shots-percent:
+   position: Alternate
 vs:
  - Affleck, Tricia
  - Aleksic, Shannon
@@ -161,7 +148,6 @@ vs:
  - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
- - Curtis, Stacie
  - Daku, Karen
  - Darbyshire, Carolyn
  - Davis, Brandee
@@ -185,7 +171,6 @@ vs:
  - Goss, Peg
  - Gudereit, Marcia
  - Gushulak, Diane
- - Guzzwell, Stephanie
  - Hanlon, Heidi
  - Harmark, Andra
  - Harvey, Alison
@@ -251,7 +236,6 @@ vs:
  - Ondrack, Wendy
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
- - Paul, Sarah
  - Peters, Laine
  - Phillips, Laura
  - Phillips, Margaret Lea

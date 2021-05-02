@@ -258,34 +258,6 @@ vs:
       year: 2015
       draw: Round Robin(6)
       score: PE 4 - BC 7
- - name: Campbell, Jolene
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Third
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2011
-      draw: Round Robin(5)
-      score: SK 10 - PE 6
  - name: Campbell, June
    totals:
     - event: Hearts
@@ -4288,10 +4260,10 @@ vs:
       player1:
         percent: 64
         wins: 0
-        losses: 3
+        losses: 2
       player2:
         percent: 77
-        wins: 3
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -4326,22 +4298,6 @@ vs:
       year: 2001
       draw: Tie-Breaker(18)
       score: PE 2 - ON 9
-    - player1:
-        team: 'PE'
-        position: Third
-        percent: 63
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2011
-      draw: Round Robin(6)
-      score: ON 8 - PE 2
  - name: Miller, Wendy
    totals:
     - event: Hearts

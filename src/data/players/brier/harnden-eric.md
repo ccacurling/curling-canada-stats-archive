@@ -4,8 +4,8 @@ name: Eric Harnden
 name-sort: Harnden, Eric
 totals:
  - event: Brier
-   games: 33
-   wins: 18
+   games: 32
+   wins: 17
    losses: 15
    inturn-total: 133
    inturn-percent: 76
@@ -25,16 +25,6 @@ years:
    games: 11
    wins: 5
    losses: 6
-   inturn-total: 0
-   inturn-percent:
-   outturn-total: 0
-   outturn-percent:
-   draw-total: 0
-   draw-percent:
-   takeout-total: 0
-   takeout-percent:
-   shots-total: 0
-   shots-percent:
  - year: 1986
    event: Brier
    team: "NO"
@@ -89,49 +79,12 @@ years:
  - year: 2015
    event: Brier
    team: "NO"
-   position: Lead
-   games: 1
-   wins: 1
-   losses: 0
-   inturn-total: 0
-   inturn-percent:
-   outturn-total: 0
-   outturn-percent:
-   draw-total: 0
-   draw-percent:
-   takeout-total: 0
-   takeout-percent:
-   shots-total: 0
-   shots-percent:
- - year: 2015
-   event: Brier
-   team: "NO"
    position: Third
    games: 1
    wins: 1
    losses: 0
-   inturn-total: 0
-   inturn-percent:
    outturn-total: 2
    outturn-percent: 100
-   draw-total: 0
-   draw-percent:
-   takeout-total: 2
-   takeout-percent: 100
-   shots-total: 2
-   shots-percent: 100
- - year: 2015
-   event: Brier
-   team: Totals
-   games: 2
-   wins: 2
-   losses: 0
-   inturn-total: 0
-   inturn-percent:
-   outturn-total: 2
-   outturn-percent: 100
-   draw-total: 0
-   draw-percent:
    takeout-total: 2
    takeout-percent: 100
    shots-total: 2
@@ -146,7 +99,6 @@ vs:
  - Barrette, Yves
  - Barry, Josh
  - Bauer, Keiven
- - Borden, Robert
  - Bothamley, Doug
  - Bradley, Mike
  - Breckenridge, Harold
@@ -160,7 +112,6 @@ vs:
  - Cecil, Denis
  - Champion, Kevin
  - Chernoff, Mike
- - Chorostkowski, Brad
  - Coady, Mike
  - Cook, Al
  - Cormier, Robert
@@ -194,7 +145,6 @@ vs:
  - Kammerlock, Dan
  - Kawaja, John
  - Kennedy, Mike
- - Koe, Jamie
  - Laing, Brent
  - Lauziere, Claude
  - Lawrence, Harry
@@ -213,7 +163,6 @@ vs:
  - McEachran, Glen
  - McMechan, Kelly
  - Menard, Gerry
- - Merklinger, Bill
  - Mitchell, Kevin
  - Moss, Steve
  - Nichols, Mark
@@ -255,7 +204,6 @@ vs:
  - Vaughan, Jason
  - Wallace, Dave
  - Werenich, Ed
- - Whitehead, Mark
  - Williams, Don
  - Young, Neil
  - Ziola, Kirk

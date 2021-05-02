@@ -4,8 +4,8 @@ name: Briane Meilleur
 name-sort: Meilleur, Briane
 totals:
  - event: Hearts
-   games: 31
-   wins: 25
+   games: 30
+   wins: 24
    losses: 6
    inturn-total: 296
    inturn-percent: 84
@@ -21,42 +21,9 @@ years:
  - year: 2016
    event: Hearts
    team: "MB"
-   position: Lead
-   games: 1
-   wins: 1
-   losses: 0
-   inturn-total: 0
-   inturn-percent:
-   outturn-total: 0
-   outturn-percent:
-   draw-total: 0
-   draw-percent:
-   takeout-total: 0
-   takeout-percent:
-   shots-total: 0
-   shots-percent:
- - year: 2016
-   event: Hearts
-   team: "MB"
    position: Second
    games: 1
    wins: 0
-   losses: 1
-   inturn-total: 8
-   inturn-percent: 72
-   outturn-total: 8
-   outturn-percent: 94
-   draw-total: 13
-   draw-percent: 81
-   takeout-total: 3
-   takeout-percent: 92
-   shots-total: 16
-   shots-percent: 83
- - year: 2016
-   event: Hearts
-   team: Totals
-   games: 2
-   wins: 1
    losses: 1
    inturn-total: 8
    inturn-percent: 72
@@ -194,7 +161,6 @@ vs:
  - Kitz, Chaelynn
  - Klymchuk, Ashley
  - Knapp, Breanne
- - Lavery, Tracey
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lenentine, Lauren
@@ -217,7 +183,6 @@ vs:
  - Peterson, Beth
  - Pincott, Erin
  - Pinksen, Sadie
- - Recksiedler, Kristen
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Routledge, Alanna
@@ -231,10 +196,8 @@ vs:
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Thevenot, Kara
- - Thompson, Karla
  - Tran, Brittany
  - Udle, Teri
- - Vandale, Trysta
  - Verreault, Noemie
  - Walker, Laura
  - Weagle, Lisa

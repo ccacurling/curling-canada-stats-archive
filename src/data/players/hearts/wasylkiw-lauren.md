@@ -4,8 +4,8 @@ name: Lauren Wasylkiw
 name-sort: Wasylkiw, Lauren
 totals:
  - event: Hearts
-   games: 12
-   wins: 3
+   games: 11
+   wins: 2
    losses: 9
    inturn-total: 114
    inturn-percent: 62
@@ -38,20 +38,7 @@ years:
  - year: 2016
    event: Hearts
    team: "NL"
-   position: Lead
-   games: 1
-   wins: 1
-   losses: 0
-   inturn-total: 0
-   inturn-percent:
-   outturn-total: 0
-   outturn-percent:
-   draw-total: 0
-   draw-percent:
-   takeout-total: 0
-   takeout-percent:
-   shots-total: 0
-   shots-percent:
+   position: Alternate
 vs:
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
@@ -79,10 +66,8 @@ vs:
  - Kelly, Kim
  - Koehler, Megan
  - Kreviazuk, Alison
- - Larouche, Marie-France
  - Lawes, Kaitlyn
  - LeDrew, Stephanie
- - Lemay, Annie
  - MacCuish, Kristin
  - MacDougall, Leslie
  - Mair, Jessica
@@ -92,12 +77,10 @@ vs:
  - Moore, Kristie
  - Morris, Cori
  - Nedohin, Heather
- - Nicholls, Brenda
  - Officer, Jill
  - O'Rourke, Brittany
  - Parsons, Danielle
  - Peters, Laine
- - Rainville, Julie
  - Ross, Allison
  - Schraeder, Jeanna
  - Scott, Kelly

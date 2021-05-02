@@ -4,8 +4,8 @@ name: Cheryl Kreviazuk
 name-sort: Kreviazuk, Cheryl
 totals:
  - event: Hearts
-   games: 21
-   wins: 14
+   games: 19
+   wins: 12
    losses: 7
    inturn-total: 149
    inturn-percent: 82
@@ -22,8 +22,8 @@ years:
    event: Hearts
    team: "CA"
    position: Lead
-   games: 2
-   wins: 2
+   games: 1
+   wins: 1
    losses: 0
    inturn-total: 1
    inturn-percent: 100
@@ -39,8 +39,8 @@ years:
    event: Hearts
    team: "ON"
    position: Lead
-   games: 2
-   wins: 2
+   games: 1
+   wins: 1
    losses: 0
    inturn-total: 2
    inturn-percent: 100
@@ -153,9 +153,7 @@ vs:
  - Camozzi, Rhonda
  - Carmody, Erin
  - Chislett, Geneva
- - Cooper, Kathryn
  - Crouse, Jennifer
- - Cunningham, Jessica
  - Curtis, Erica
  - Curtis, Stacie
  - deJager, Blaine
@@ -177,9 +175,7 @@ vs:
  - Jones, Jennifer
  - Knezevic, Patti
  - Koltun, Sarah
- - Korab, Stephanie
  - MacCuish, Kristin
- - MacDonald, Rebecca Jean
  - MacPhee, Robyn
  - Mallett, Marla
  - McEwen, Dawn
@@ -201,7 +197,6 @@ vs:
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Shackleton, Amie
- - Strong, Heather
  - Tuor, Kimberly
  - Van Osch, Kalia
  - Van Osch, Kesa

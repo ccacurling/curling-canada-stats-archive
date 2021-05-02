@@ -61,7 +61,6 @@ vs:
  - Burgess, Carey
  - Bush, Tracy
  - Cameron, Nancy
- - Campbell, Jolene
  - Carmody, Erin
  - Carter, Sasha
  - Cormier, Sharon

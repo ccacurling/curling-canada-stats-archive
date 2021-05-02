@@ -171,7 +171,6 @@ vs:
  - Hutchings, Denise
  - Jones, Jennifer
  - Joyce, Blisse
- - Kleibrink, Shannon
  - Klymchuk, Ashley
  - Koehler, Megan
  - Koltun, Sarah

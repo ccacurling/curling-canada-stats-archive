@@ -176,7 +176,6 @@ years:
    shots-total: 212
    shots-percent: 75
 vs:
- - Aleksic, Shannon
  - Allen, Michelle
  - Anderson, Sherry
  - Armstrong, Jacquie
@@ -211,7 +210,6 @@ vs:
  - Bryant, Angie
  - Bush, Tracy
  - Camozzi, Rhonda
- - Campbell, Jolene
  - Campbell, June
  - Carter, Sasha
  - Charette, Agnes

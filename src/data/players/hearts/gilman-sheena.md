@@ -112,7 +112,6 @@ vs:
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
  - Phillips, Kristen
- - Potts, Sarah
  - Rainville, Julie
  - Ramsay, Geri-Lynn
  - Richards, Brette

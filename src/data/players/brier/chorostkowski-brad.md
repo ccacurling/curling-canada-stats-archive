@@ -388,7 +388,6 @@ vs:
  - Harcourt, Greg
  - Harnden, Al
  - Harnden, E.J.
- - Harnden, Eric
  - Harnden, Ryan
  - Harper, David
  - Harris, Rob

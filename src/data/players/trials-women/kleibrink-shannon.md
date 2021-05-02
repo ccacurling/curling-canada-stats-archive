@@ -95,7 +95,6 @@ vs:
  - Gellard, Kim
  - George, Tara
  - Gignac, Donna
- - Godberson, Heather
  - Goring, Alison
  - Gregoire, Veronique
  - Gudereit, Marcia
@@ -135,6 +134,7 @@ vs:
  - Moore, Kim
  - Morris, Cori
  - Mulroney, Sandra
+ - Nedohin, Heather
  - O'Connor, Susan
  - Officer, Jill
  - Olson-Johns, Lori

@@ -2,62 +2,6 @@
 title: Jim Packet Head-to-head
 name: Packet, Jim
 vs:
- - name: Palk, Shelly
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(14)
-      score: SK 7 - NB 8
- - name: Paterson, Gordon
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1983
-      draw: Round Robin(13)
-      score: SK 3 - MB 2
  - name: Perroud, Pat
    totals:
     - event: Brier
@@ -198,34 +142,6 @@ vs:
       year: 1989
       draw: Round Robin(10)
       score: NB 1 - SK 7
- - name: Robar, Jack
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NS'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(8)
-      score: NS 11 - SK 1
  - name: Robertson, Brad
    totals:
     - event: Brier
@@ -310,34 +226,6 @@ vs:
       year: 1989
       draw: Round Robin(7)
       score: SK 9 - PE 3
- - name: Ryan, Don
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1983
-      draw: Round Robin(10)
-      score: NL 3 - SK 10
  - name: Ryan, Pat
    totals:
     - event: Brier
@@ -394,34 +282,6 @@ vs:
       year: 1989
       draw: Round Robin(4)
       score: SK 5 - NO 7
- - name: Savage, Paul
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(12)
-      score: SK 6 - ON 8
  - name: Schleppe, Dave
    totals:
     - event: Brier
@@ -506,34 +366,6 @@ vs:
       year: 1989
       draw: Round Robin(14)
       score: BC 5 - SK 3
- - name: Sparkes, Bernie
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(7)
-      score: BC 7 - SK 6
  - name: Strain, Bill
    totals:
     - event: Brier
@@ -562,34 +394,6 @@ vs:
       year: 1989
       draw: Round Robin(2)
       score: SK 9 - TR 6
- - name: Strang, Don
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1983
-      draw: Round Robin(5)
-      score: SK 6 - TR 4
  - name: Stuart, Darol
    totals:
     - event: Brier
@@ -646,90 +450,6 @@ vs:
       year: 1997
       draw: Round Robin(8)
       score: SK 2 - NB 5
- - name: Sullivan, Charlie
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(14)
-      score: SK 7 - NB 8
- - name: Sullivan, Dave
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(14)
-      score: SK 7 - NB 8
- - name: Syme, Brent
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'AB'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1983
-      draw: Round Robin(15)
-      score: SK 5 - AB 4
  - name: Thomas, Jeff
    totals:
     - event: Brier
@@ -920,28 +640,12 @@ vs:
       player1:
         percent: 65
         wins: 0
-        losses: 2
+        losses: 1
       player2:
         percent: 94
-        wins: 2
+        wins: 1
         losses: 0
    games:
-    - player1:
-        team: 'SK'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(12)
-      score: SK 6 - ON 8
     - player1:
         team: 'SK'
         position: Fourth

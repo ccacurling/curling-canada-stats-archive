@@ -2,90 +2,18 @@
 title: Brent Syme Head-to-head
 name: Syme, Brent
 vs:
- - name: Thomas, Jeff
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1984
-      draw: Round Robin(10)
-      score: AB 13 - NL 4
- - name: Thompson, Ron
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1984
-      draw: Round Robin(6)
-      score: AB 2 - BC 10
  - name: Toews, Brian
    totals:
     - event: Brier
       player1:
         percent: 78
         wins: 1
-        losses: 1
+        losses: 0
       player2:
         percent: 75
-        wins: 1
+        wins: 0
         losses: 1
    games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1984
-      draw: Round Robin(11)
-      score: MB 9 - AB 4
     - player1:
         team: 'AB'
         position: Lead
@@ -130,34 +58,6 @@ vs:
       year: 1986
       draw: Round Robin(15)
       score: AB 4 - QC 7
- - name: Victor, Mark
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1984
-      draw: Round Robin(13)
-      score: AB 6 - PE 5
  - name: Warren, Dave
    totals:
     - event: Brier
@@ -186,82 +86,6 @@ vs:
       year: 1986
       draw: Round Robin(10)
       score: NL 0 - AB 11
- - name: Werenich, Ed
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 3
-      player2:
-        percent:
-        wins: 3
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1983
-      draw: Round Robin(5)
-      score: AB 7 - ON 6
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Final(17)
-      score: AB 3 - ON 7
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1984
-      draw: Round Robin(1)
-      score: ON 9 - AB 7
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1984
-      draw: Playoff(18)
-      score: AB 3 - ON 6
  - name: Wilson, Michael
    totals:
     - event: Brier
@@ -296,28 +120,12 @@ vs:
       player1:
         percent: 78
         wins: 1
-        losses: 1
+        losses: 0
       player2:
         percent: 73
-        wins: 1
+        wins: 0
         losses: 1
    games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1984
-      draw: Round Robin(11)
-      score: MB 9 - AB 4
     - player1:
         team: 'AB'
         position: Lead
@@ -334,116 +142,4 @@ vs:
       year: 1986
       draw: Round Robin(7)
       score: AB 8 - MB 3
- - name: Young, Neil
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1984
-      draw: Round Robin(10)
-      score: AB 13 - NL 4
- - name: Zimmer, Jerry
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1984
-      draw: Round Robin(12)
-      score: SK 5 - AB 9
- - name: Ziola, Kirk
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(15)
-      score: SK 5 - AB 4
- - name: Ziola, Monte
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(15)
-      score: SK 5 - AB 4
 ---

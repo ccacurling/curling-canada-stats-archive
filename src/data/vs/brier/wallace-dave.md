@@ -35,29 +35,13 @@ vs:
     - event: Brier
       player1:
         percent: 75
-        wins: 1
+        wins: 0
         losses: 1
       player2:
         percent: 76
         wins: 1
-        losses: 1
+        losses: 0
    games:
-    - player1:
-        team: 'NS'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(13)
-      score: PE 2 - NS 9
     - player1:
         team: 'NS'
         position: Lead
@@ -118,62 +102,6 @@ vs:
       year: 1990
       draw: Round Robin(2)
       score: NS 4 - ON 6
- - name: Wheeler, John
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(15)
-      score: NL 7 - NS 5
- - name: Whetter, John
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(7)
-      score: SK 3 - NS 7
  - name: Wight, Bryan
    totals:
     - event: Brier
@@ -230,34 +158,6 @@ vs:
       year: 1990
       draw: Round Robin(14)
       score: MB 8 - NS 5
- - name: Yeulet, John
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(6)
-      score: NS 9 - TR 3
  - name: Young, Neil
    totals:
     - event: Brier

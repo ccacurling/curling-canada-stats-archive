@@ -407,7 +407,6 @@ vs:
  - Vey, Lana
  - Wall, Kirsten
  - Walsh, Jenna
- - Wasylkiw, Lauren
  - Weagle, Lisa
  - Webster, Bronwen
  - Webster, Crystal

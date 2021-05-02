@@ -4054,34 +4054,6 @@ vs:
       year: 2000
       draw: Round Robin(9)
       score: SK 11 - QC 4
- - name: Wasylkiw, Lauren
-   totals:
-    - event: Hearts
-      player1:
-        percent: 89
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Second
-        percent: 89
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Round Robin(6)
-      score: NL 10 - QC 6
  - name: Weagle, Lisa
    totals:
     - event: Hearts

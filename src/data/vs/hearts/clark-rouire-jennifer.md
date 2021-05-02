@@ -58,34 +58,6 @@ vs:
       year: 2010
       draw: Round Robin(7)
       score: CA 4 - TR 10
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 74
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 74
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2012
-      draw: Round Robin(2)
-      score: MB 7 - NB 3
  - name: Cunningham, Jessica
    totals:
     - event: Hearts
@@ -114,34 +86,6 @@ vs:
       year: 2015
       draw: Round Robin(6)
       score: MB 9 - NL 3
- - name: deSolla, Jodie
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 86
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Lead
-        percent: 86
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2012
-      draw: Round Robin(2)
-      score: MB 7 - NB 3
  - name: Dolan, Sinead
    totals:
     - event: Hearts
@@ -590,34 +534,6 @@ vs:
       year: 2020
       draw: Pool(18)
       score: MB 7 - WC 12
- - name: Murphy, Jeanette
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 50
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Second
-        percent: 50
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2012
-      draw: Round Robin(2)
-      score: MB 7 - NB 3
  - name: Naugler, Tara
    totals:
     - event: Hearts

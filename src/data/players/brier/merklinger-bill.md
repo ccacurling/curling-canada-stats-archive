@@ -13,8 +13,6 @@ totals:
    outturn-percent: 100
    draw-total: 10
    draw-percent: 78
-   takeout-total: 0
-   takeout-percent:
    shots-total: 10
    shots-percent: 78
 years:
@@ -31,8 +29,6 @@ years:
    outturn-percent: 100
    draw-total: 10
    draw-percent: 78
-   takeout-total: 0
-   takeout-percent:
    shots-total: 10
    shots-percent: 78
 vs:
@@ -43,7 +39,6 @@ vs:
  - Doherty, Robbie
  - Fry, Ryan
  - Harnden, E.J.
- - Harnden, Eric
  - Harnden, Ryan
  - Jacobs, Brad
 ---

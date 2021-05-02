@@ -367,12 +367,12 @@ vs:
     - event: Hearts
       player1:
         percent: 75
-        wins: 2
+        wins: 1
         losses: 1
       player2:
         percent: 71
         wins: 1
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'AB'
@@ -406,22 +406,6 @@ vs:
       year: 2011
       draw: Round Robin(10)
       score: PE 7 - AB 5
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Fourth
-        percent: 71
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2017
-      draw: Round Robin(14)
-      score: PE 4 - AB 6
  - name: Mann, Lauren
    totals:
     - event: Hearts
@@ -750,34 +734,6 @@ vs:
       year: 1993
       draw: Round Robin(17)
       score: ON 7 - AB 2
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 85
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 85
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2017
-      draw: Round Robin(14)
-      score: PE 4 - AB 6
  - name: Merklinger, Anne
    totals:
     - event: Hearts
@@ -1574,34 +1530,6 @@ vs:
       year: 2017
       draw: Round Robin(17)
       score: CA 7 - AB 4
- - name: Porter, Erin
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 66
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Third
-        percent: 66
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2017
-      draw: Round Robin(5)
-      score: AB 5 - NL 3
  - name: Potts, Sarah
    totals:
     - event: Hearts

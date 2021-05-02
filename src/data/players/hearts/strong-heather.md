@@ -360,7 +360,6 @@ vs:
  - Koehler, Megan
  - Koltun, Sarah
  - Kreviazuk, Alison
- - Kreviazuk, Cheryl
  - Kreviazuk, Lynn
  - Lahucik, Val
  - Laliberte, Connie

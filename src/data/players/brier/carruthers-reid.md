@@ -25,14 +25,10 @@ years:
    games: 1
    wins: 0
    losses: 1
-   inturn-total: 0
-   inturn-percent:
    outturn-total: 2
    outturn-percent: 88
    draw-total: 2
    draw-percent: 88
-   takeout-total: 0
-   takeout-percent:
    shots-total: 2
    shots-percent: 88
  - year: 2011

@@ -4,8 +4,8 @@ name: Jennifer Clark-Rouire
 name-sort: Clark-Rouire, Jennifer
 totals:
  - event: Hearts
-   games: 10
-   wins: 7
+   games: 9
+   wins: 6
    losses: 3
    inturn-total: 23
    inturn-percent: 89
@@ -47,8 +47,8 @@ years:
    event: Hearts
    team: "MB"
    position: Lead
-   games: 3
-   wins: 3
+   games: 2
+   wins: 2
    losses: 0
    inturn-total: 5
    inturn-percent: 95
@@ -114,7 +114,6 @@ years:
 vs:
  - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
- - Babin, Jillian
  - Birt, Suzanne
  - Blais, Amelie
  - Boyle, Jane
@@ -122,9 +121,7 @@ vs:
  - Christianson, Marie
  - Cooper, Kathryn
  - Cormier, Sharon
- - Crawford, Andrea
  - Cunningham, Jessica
- - deSolla, Jodie
  - Dolan, Sinead
  - Ellis, Danielle
  - Filteau, Anne-Marie
@@ -141,7 +138,6 @@ vs:
  - Lemon, Colette
  - MacPhee, Robyn
  - McEwen, Dawn
- - Murphy, Jeanette
  - Naugler, Tara
  - Nicholls, Brenda
  - Parsons, Danielle

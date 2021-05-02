@@ -195,7 +195,6 @@ vs:
  - Karwacki, Krysten
  - Kasner, Marliese
  - Kitz, Chaelynn
- - Kleibrink, Shannon
  - Klymchuk, Ashley
  - Knapp, Breanne
  - Knezevic, Patti

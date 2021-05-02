@@ -94,7 +94,6 @@ vs:
  - Fullerton, Sarah
  - Hughes, Meaghan
  - Karwacki, Krysten
- - MacDonald, Rebecca Jean
  - MacPhee, Robyn
  - McQuaid, Michelle
  - Nedohin, Heather

@@ -4,8 +4,8 @@ name: Shannon Kleibrink
 name-sort: Kleibrink, Shannon
 totals:
  - event: Hearts
-   games: 52
-   wins: 32
+   games: 50
+   wins: 30
    losses: 20
    inturn-total: 459
    inturn-percent: 76
@@ -90,8 +90,8 @@ years:
    event: Hearts
    team: "AB"
    position: Fourth
-   games: 6
-   wins: 3
+   games: 4
+   wins: 1
    losses: 3
    inturn-total: 32
    inturn-percent: 66
@@ -138,11 +138,9 @@ vs:
  - Courtney, Joanne
  - Crawford, Andrea
  - Cunningham, Cathy
- - Curtis, Erica
  - Curtis, Stacie
  - Daniel, Sylvie
  - Delahunt, Nancy
- - Devereaux, Julie
  - Dezura, Diane
  - Englot, Michelle
  - Fallis, Karen
@@ -151,7 +149,6 @@ vs:
  - Fowler, Rhonda
  - Freeman, Lisa
  - Frey, Audrey
- - Fullerton, Sarah
  - Gagnon, Karo
  - Galusha, Kerry
  - Gatchell, Sara
@@ -170,7 +167,6 @@ vs:
  - Hodson, Kim
  - Holland, Amber
  - Homan, Rachel
- - Hughes, Meaghan
  - Hunter, Lana
  - Iskiw, Beth
  - Jones, Colleen
@@ -202,7 +198,6 @@ vs:
  - McEwen, Dawn
  - McInnis, Susan
  - McKnight, Patti
- - McQuaid, Michelle
  - Merklinger, Anne
  - Middaugh, Sherry
  - Miller, Wendy
@@ -224,7 +219,6 @@ vs:
  - Perron, Leanne
  - Peterman, Jocelyn
  - Peters, Laine
- - Porter, Erin
  - Potts, Sarah
  - Rankin, Heather
  - Reed, Shellan

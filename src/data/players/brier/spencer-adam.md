@@ -48,8 +48,6 @@ years:
    outturn-percent: 100
    draw-total: 4
    draw-percent: 100
-   takeout-total: 0
-   takeout-percent:
    shots-total: 4
    shots-percent: 100
  - year: 2017
@@ -65,8 +63,6 @@ years:
    outturn-percent: 75
    draw-total: 2
    draw-percent: 88
-   takeout-total: 0
-   takeout-percent:
    shots-total: 2
    shots-percent: 88
  - year: 2017
@@ -81,8 +77,6 @@ years:
    outturn-percent: 88
    draw-total: 6
    draw-percent: 96
-   takeout-total: 0
-   takeout-percent:
    shots-total: 6
    shots-percent: 96
 vs:

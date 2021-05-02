@@ -245,7 +245,6 @@ vs:
  - Peters, Laine
  - Phillips, Kristen
  - Phillips, Laura
- - Potts, Sarah
  - Rainville, Julie
  - Ramsay, Geri-Lynn
  - Rankin, Heather

@@ -65,8 +65,6 @@ years:
    outturn-percent: 100
    draw-total: 10
    draw-percent: 93
-   takeout-total: 0
-   takeout-percent:
    shots-total: 10
    shots-percent: 93
  - year: 2006
@@ -82,8 +80,6 @@ years:
    outturn-percent: 100
    draw-total: 10
    draw-percent: 100
-   takeout-total: 0
-   takeout-percent:
    shots-total: 10
    shots-percent: 100
  - year: 2008

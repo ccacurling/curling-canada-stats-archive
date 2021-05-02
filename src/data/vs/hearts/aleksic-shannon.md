@@ -426,34 +426,6 @@ vs:
       year: 1999
       draw: Page 3-4(18)
       score: SK 4 - CA 12
- - name: Bradley, Shelley
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 75
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'BC'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 75
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(16)
-      score: PE 5 - BC 10
  - name: Brothers, Jill
    totals:
     - event: Hearts
@@ -538,34 +510,6 @@ vs:
       year: 2017
       draw: Round Robin(7)
       score: CA 6 - BC 2
- - name: Carmody, Erin
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 67
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'BC'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Fourth
-        percent: 67
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(16)
-      score: PE 5 - BC 10
  - name: Carter, Sasha
    totals:
     - event: Hearts
@@ -2951,12 +2895,12 @@ vs:
     - event: Hearts
       player1:
         percent: 86
-        wins: 2
+        wins: 1
         losses: 0
       player2:
-        percent: 79
+        percent: 76
         wins: 0
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'SK'
@@ -2974,22 +2918,6 @@ vs:
       year: 1999
       draw: Round Robin(1)
       score: SK 6 - PE 1
-    - player1:
-        team: 'BC'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Second
-        percent: 81
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(16)
-      score: PE 5 - BC 10
  - name: Osborne, Chantal
    totals:
     - event: Hearts
@@ -3202,34 +3130,6 @@ vs:
       year: 2007
       draw: Round Robin(5)
       score: NB 9 - BC 10
- - name: Ramsay, Geri-Lynn
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 74
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'BC'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Third
-        percent: 74
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(16)
-      score: PE 5 - BC 10
  - name: Renouf, Michele
    totals:
     - event: Hearts

@@ -121,7 +121,6 @@ vs:
  - Gellard, Kim
  - George, Tara
  - Gignac, Donna
- - Godberson, Heather
  - Goring, Alison
  - Grandy, Clancy
  - Gregoire, Veronique
@@ -170,6 +169,7 @@ vs:
  - Moore, Kristie
  - Morris, Cori
  - Mulroney, Sandra
+ - Nedohin, Heather
  - Nimmo, Shannon
  - Nixon, Amy
  - O'Connor, Susan

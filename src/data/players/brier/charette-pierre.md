@@ -212,8 +212,6 @@ years:
    outturn-percent: 100
    draw-total: 8
    draw-percent: 94
-   takeout-total: 0
-   takeout-percent:
    shots-total: 8
    shots-percent: 94
  - year: 2015

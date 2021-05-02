@@ -4,8 +4,8 @@ name: Shannon Aleksic
 name-sort: Aleksic, Shannon
 totals:
  - event: Hearts
-   games: 38
-   wins: 16
+   games: 37
+   wins: 15
    losses: 22
    inturn-total: 328
    inturn-percent: 79
@@ -56,8 +56,8 @@ years:
    event: Hearts
    team: "BC"
    position: Lead
-   games: 2
-   wins: 2
+   games: 1
+   wins: 1
    losses: 0
    inturn-total: 0
    inturn-percent:
@@ -104,7 +104,6 @@ years:
    shots-total: 200
    shots-percent: 82
 vs:
- - Affleck, Tricia
  - Alcoe-Holland, Jill
  - Allen, Michelle
  - Arnott, Janet
@@ -120,11 +119,9 @@ vs:
  - Betker, Jan
  - Birt, Suzanne
  - Bohmer, Brenda
- - Bradley, Shelley
  - Brothers, Jill
  - Cameron, Kate
  - Carey, Chelsea
- - Carmody, Erin
  - Carter, Sasha
  - Clark, Stefanie
  - Clarke, Hayley
@@ -210,7 +207,6 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Power, Marie-Anne
- - Ramsay, Geri-Lynn
  - Renouf, Michele
  - Ross, Allison
  - Sabourin, Joelle

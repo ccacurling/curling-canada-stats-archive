@@ -1922,12 +1922,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 86
+        percent: 85
         wins: 0
-        losses: 2
+        losses: 1
       player2:
         percent: 59
-        wins: 2
+        wins: 1
         losses: 0
    games:
     - player1:
@@ -1946,22 +1946,6 @@ vs:
       year: 1997
       draw: Round Robin(6)
       score: QC 5 - NL 4
-    - player1:
-        team: 'NL'
-        position: Lead
-        percent: 86
-        win: 0
-        loss: 1
-      player2:
-        team: 'QC'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2011
-      draw: Round Robin(9)
-      score: NL 6 - QC 10
  - name: Santos, Deb
    totals:
     - event: Hearts

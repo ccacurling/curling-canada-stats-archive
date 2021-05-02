@@ -13,8 +13,6 @@ totals:
    outturn-percent: 100
    draw-total: 6
    draw-percent: 100
-   takeout-total: 0
-   takeout-percent:
    shots-total: 6
    shots-percent: 100
 years:
@@ -31,8 +29,6 @@ years:
    outturn-percent: 100
    draw-total: 6
    draw-percent: 100
-   takeout-total: 0
-   takeout-percent:
    shots-total: 6
    shots-percent: 100
 vs:

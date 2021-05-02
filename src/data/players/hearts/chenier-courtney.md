@@ -4,8 +4,8 @@ name: Courtney Chenier
 name-sort: Chenier, Courtney
 totals:
  - event: Hearts
-   games: 2
-   wins: 2
+   games: 1
+   wins: 1
    losses: 0
    inturn-total: 3
    inturn-percent: 67
@@ -22,8 +22,8 @@ years:
    event: Hearts
    team: "NO"
    position: Lead
-   games: 2
-   wins: 2
+   games: 1
+   wins: 1
    losses: 0
    inturn-total: 3
    inturn-percent: 67
@@ -37,12 +37,7 @@ years:
    shots-percent: 67
 vs:
  - Arsenault, Mary-Anne
- - Atkinson, Rebecca
  - Baxter, Jennifer
  - Black, Christina
- - Boyle, Jane
- - Richard, Marie
- - Robichaud, Sylvie
  - Snyder, Jane
- - Whitaker, Carol
 ---

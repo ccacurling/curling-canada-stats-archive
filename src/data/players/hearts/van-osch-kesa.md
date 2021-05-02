@@ -110,7 +110,6 @@ vs:
  - Moore, Kristie
  - Njegovan, Selena
  - Nugent, Pamela
- - O'Connor, Susan
  - Officer, Jill
  - Parsons, Danielle
  - Perron, Melina

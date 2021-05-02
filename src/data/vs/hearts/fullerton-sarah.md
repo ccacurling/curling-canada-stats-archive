@@ -442,34 +442,6 @@ vs:
       year: 2013
       draw: Round Robin(13)
       score: NS 9 - PE 6
- - name: Kleibrink, Shannon
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Third
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2017
-      draw: Round Robin(14)
-      score: PE 4 - AB 6
  - name: Koehler, Megan
    totals:
     - event: Hearts
@@ -590,30 +562,14 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 63
+        percent: 69
         wins: 0
-        losses: 2
+        losses: 1
       player2:
         percent: 76
-        wins: 2
+        wins: 1
         losses: 0
    games:
-    - player1:
-        team: 'PE'
-        position: Third
-        percent: 56
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2017
-      draw: Round Robin(4)
-      score: PE 3 - ON 8
     - player1:
         team: 'PE'
         position: Third

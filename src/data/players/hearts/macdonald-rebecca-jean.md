@@ -4,8 +4,8 @@ name: Rebecca Jean MacDonald
 name-sort: MacDonald, Rebecca Jean
 totals:
  - event: Hearts
-   games: 95
-   wins: 47
+   games: 94
+   wins: 46
    losses: 48
    inturn-total: 867
    inturn-percent: 77
@@ -157,23 +157,6 @@ years:
  - year: 2017
    event: Hearts
    team: "PE"
-   position: Lead
-   games: 1
-   wins: 1
-   losses: 0
-   inturn-total: 0
-   inturn-percent:
-   outturn-total: 0
-   outturn-percent:
-   draw-total: 0
-   draw-percent:
-   takeout-total: 0
-   takeout-percent:
-   shots-total: 0
-   shots-percent:
- - year: 2017
-   event: Hearts
-   team: "PE"
    position: Third
    games: 1
    wins: 0
@@ -188,24 +171,7 @@ years:
    takeout-percent:
    shots-total: 2
    shots-percent: 38
- - year: 2017
-   event: Hearts
-   team: Totals
-   games: 2
-   wins: 1
-   losses: 1
-   inturn-total: 0
-   inturn-percent:
-   outturn-total: 2
-   outturn-percent: 38
-   draw-total: 2
-   draw-percent: 38
-   takeout-total: 0
-   takeout-percent:
-   shots-total: 2
-   shots-percent: 38
 vs:
- - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Allen, Michelle
  - Anderson, Sherry
@@ -257,7 +223,6 @@ vs:
  - Cunningham, Jennifer
  - Cunningham, Jessica
  - Currie, Wendy
- - Cutcliffe, Margaret
  - Daniel, Sylvie
  - Darbyshire, Carolyn
  - Davis, Brandee
@@ -330,7 +295,6 @@ vs:
  - Koltun, Sarah
  - Korab, Stephanie
  - Kreviazuk, Alison
- - Kreviazuk, Cheryl
  - Kreviazuk, Lynn
  - Kyle, Linda
  - Lacey, Stacey
@@ -365,7 +329,6 @@ vs:
  - McCusker, Joan
  - McDonald, Kristy
  - McDonald, Tina
- - McEvoy, Julie
  - McEwen, Dawn
  - McNamee, Karen
  - Middaugh, Sherry
@@ -412,7 +375,6 @@ vs:
  - Sanderson, Jessie
  - Sandwith, Carley
  - Santos, Deb
- - Saulnier, Andrea
  - Schmirler, Sandra
  - Schneider, Kim
  - Scott, Kelly

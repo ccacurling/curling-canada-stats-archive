@@ -95,7 +95,6 @@ vs:
  - Brothers, Jill
  - Carter, Sasha
  - Clark, Stefanie
- - Clark-Rouire, Jennifer
  - Clarke, Hayley
  - Cunningham, Jennifer
  - Daniel, Sylvie

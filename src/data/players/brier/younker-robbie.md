@@ -44,12 +44,8 @@ years:
    losses: 1
    inturn-total: 4
    inturn-percent: 94
-   outturn-total: 0
-   outturn-percent:
    draw-total: 4
    draw-percent: 94
-   takeout-total: 0
-   takeout-percent:
    shots-total: 4
    shots-percent: 94
  - year: 2018

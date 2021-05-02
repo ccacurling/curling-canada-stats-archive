@@ -50,14 +50,10 @@ years:
    games: 1
    wins: 0
    losses: 1
-   inturn-total: 0
-   inturn-percent:
    outturn-total: 4
    outturn-percent: 63
    draw-total: 4
    draw-percent: 63
-   takeout-total: 0
-   takeout-percent:
    shots-total: 4
    shots-percent: 63
 vs:

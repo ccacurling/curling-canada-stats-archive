@@ -70,7 +70,6 @@ years:
    shots-total: 142
    shots-percent: 71
 vs:
- - Aleksic, Shannon
  - Armstrong, Jacquie
  - Babin, Jillian
  - Barbour, Shona

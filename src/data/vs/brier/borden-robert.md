@@ -2050,34 +2050,6 @@ vs:
       year: 2021
       draw: Round Robin(6)
       score: NO 7 - NT 5
- - name: Harnden, Eric
-   totals:
-    - event: Brier
-      player1:
-        percent: 77
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NT'
-        position: Lead
-        percent: 77
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 2015
-      draw: Round Robin(6)
-      score: NT 4 - NO 9
  - name: Harnden, Ryan
    totals:
     - event: Brier

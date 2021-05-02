@@ -168,7 +168,6 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kelly, Kim
- - Kleibrink, Shannon
  - Klymchuk, Ashley
  - Koehler, Megan
  - Koltun, Sarah

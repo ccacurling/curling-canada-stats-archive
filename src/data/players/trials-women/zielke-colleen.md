@@ -49,7 +49,6 @@ vs:
  - Fraser, Sherry
  - Frey, Audrey
  - Gellard, Kim
- - Godberson, Heather
  - Goring, Alison
  - Gudereit, Marcia
  - Hooper-Perroud, Jane
@@ -67,6 +66,7 @@ vs:
  - McKnight, Patti
  - Merklinger, Anne
  - Moore, Kim
+ - Nedohin, Heather
  - Nimmo, Shannon
  - Overton-Clapham, Cathy
  - Schmirler, Sandra

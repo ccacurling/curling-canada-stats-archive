@@ -638,12 +638,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 73
+        percent: 71
         wins: 0
-        losses: 2
+        losses: 1
       player2:
         percent: 86
-        wins: 2
+        wins: 1
         losses: 0
    games:
     - player1:
@@ -662,22 +662,6 @@ vs:
       year: 2008
       draw: Round Robin(10)
       score: ON 10 - PE 2
-    - player1:
-        team: 'PE'
-        position: Second
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2011
-      draw: Round Robin(6)
-      score: ON 8 - PE 2
  - name: Miller, Wendy
    totals:
     - event: Hearts

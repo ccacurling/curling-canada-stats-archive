@@ -1210,12 +1210,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 68
+        percent: 65
         wins: 0
-        losses: 2
+        losses: 1
       player2:
         percent: 85
-        wins: 2
+        wins: 1
         losses: 0
    games:
     - player1:
@@ -1234,22 +1234,6 @@ vs:
       year: 2011
       draw: Round Robin(8)
       score: NL 5 - AB 8
-    - player1:
-        team: 'NL'
-        position: Fourth
-        percent: 71
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2017
-      draw: Round Robin(5)
-      score: AB 5 - NL 3
  - name: Knapp, Breanne
    totals:
     - event: Hearts
@@ -3210,34 +3194,6 @@ vs:
       year: 2013
       draw: Round Robin(15)
       score: NL 8 - QC 7
- - name: Sabourin, Joelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 60
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NL'
-        position: Fourth
-        percent: 60
-        win: 0
-        loss: 1
-      player2:
-        team: 'QC'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2011
-      draw: Round Robin(9)
-      score: NL 6 - QC 10
  - name: Sagle, Karen
    totals:
     - event: Hearts

@@ -42,7 +42,6 @@ vs:
  - Baxter, Jennifer
  - Beauchamp, Sasha
  - Birt, Suzanne
- - Boyle, Jane
  - Bradley, Shelley
  - Carter, Sasha
  - Cormier, Sharon

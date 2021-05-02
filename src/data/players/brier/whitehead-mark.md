@@ -221,7 +221,6 @@ vs:
  - Hamilton, Wayne
  - Harnden, Al
  - Harnden, E.J.
- - Harnden, Eric
  - Harnden, Ryan
  - Harris, Rob
  - Hart, Richard

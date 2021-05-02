@@ -27,12 +27,8 @@ years:
    losses: 1
    inturn-total: 2
    inturn-percent: 63
-   outturn-total: 0
-   outturn-percent:
    draw-total: 2
    draw-percent: 63
-   takeout-total: 0
-   takeout-percent:
    shots-total: 2
    shots-percent: 63
  - year: 2011

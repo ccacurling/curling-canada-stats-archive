@@ -4,8 +4,8 @@ name: Jodie deSolla
 name-sort: deSolla, Jodie
 totals:
  - event: Hearts
-   games: 53
-   wins: 27
+   games: 52
+   wins: 26
    losses: 26
    inturn-total: 578
    inturn-percent: 81
@@ -55,20 +55,7 @@ years:
  - year: 2010
    event: Hearts
    team: "NB"
-   position: Lead
-   games: 1
-   wins: 1
-   losses: 0
-   inturn-total: 0
-   inturn-percent:
-   outturn-total: 0
-   outturn-percent:
-   draw-total: 0
-   draw-percent:
-   takeout-total: 0
-   takeout-percent:
-   shots-total: 0
-   shots-percent:
+   position: Alternate
  - year: 2011
    event: Hearts
    team: "NB"
@@ -164,7 +151,6 @@ vs:
  - Carter, Sasha
  - Cheveldave, Amber
  - Clark, Stefanie
- - Clark-Rouire, Jennifer
  - Comeau, Martine
  - Cooper, Kathryn
  - Cormier, Sharon
@@ -227,7 +213,6 @@ vs:
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacInnes, Grace
- - MacIntosh, Kelly
  - MacLean, Kari
  - MacPhee, Robyn
  - Mair, Jessica

@@ -323,12 +323,12 @@ vs:
     - event: Hearts
       player1:
         percent: 71
-        wins: 1
+        wins: 0
         losses: 1
       player2:
-        percent: 81
+        percent: 88
         wins: 1
-        losses: 1
+        losses: 0
    games:
     - player1:
         team: 'PE'
@@ -346,22 +346,6 @@ vs:
       year: 2005
       draw: Round Robin(5)
       score: PE 4 - NS 9
-    - player1:
-        team: 'PE'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Fourth
-        percent: 75
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2017
-      draw: Round Robin(8)
-      score: NS 4 - PE 9
  - name: McCagg-Nystrom, Heather
    totals:
     - event: Hearts
@@ -666,34 +650,6 @@ vs:
       year: 1999
       draw: Round Robin(7)
       score: AB 7 - PE 8
- - name: McEvoy, Julie
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 100
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Third
-        percent: 100
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2017
-      draw: Round Robin(8)
-      score: NS 4 - PE 9
  - name: McEwen, Dawn
    totals:
     - event: Hearts
@@ -2398,34 +2354,6 @@ vs:
       year: 2003
       draw: Round Robin(16)
       score: PE 9 - AB 5
- - name: Saulnier, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 79
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Lead
-        percent: 79
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2017
-      draw: Round Robin(8)
-      score: NS 4 - PE 9
  - name: Schmirler, Sandra
    totals:
     - event: Hearts

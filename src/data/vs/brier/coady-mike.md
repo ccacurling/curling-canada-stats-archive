@@ -2,62 +2,6 @@
 title: Mike Coady Head-to-head
 name: Coady, Mike
 vs:
- - name: Cook, Al
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(8)
-      score: PE 3 - BC 8
- - name: Cormier, Robert
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(12)
-      score: NB 7 - PE 6
  - name: Corner, Peter
    totals:
     - event: Brier
@@ -186,62 +130,6 @@ vs:
       year: 1990
       draw: Round Robin(7)
       score: PE 4 - NS 6
- - name: Dauphinee, Andrew
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NS'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(10)
-      score: NS 8 - PE 5
- - name: Davidson, Robert
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1983
-      draw: Round Robin(6)
-      score: MB 3 - PE 5
  - name: DeBlonde, Clare
    totals:
     - event: Brier
@@ -459,29 +347,13 @@ vs:
     - event: Brier
       player1:
         percent: 90
-        wins: 1
+        wins: 0
         losses: 1
       player2:
         percent: 70
         wins: 1
-        losses: 1
+        losses: 0
    games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1983
-      draw: Round Robin(11)
-      score: NO 4 - PE 5
     - player1:
         team: 'PE'
         position: Second
@@ -894,34 +766,6 @@ vs:
       year: 1990
       draw: Round Robin(8)
       score: PE 8 - BC 2
- - name: Grundy, John
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1983
-      draw: Round Robin(4)
-      score: PE 6 - SK 5
  - name: Gudereit, Kerry
    totals:
     - event: Brier
@@ -950,34 +794,6 @@ vs:
       year: 1992
       draw: Round Robin(8)
       score: PE 3 - SK 5
- - name: Gunnlaugson, Lloyd
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1983
-      draw: Round Robin(6)
-      score: MB 3 - PE 5
  - name: Hackner, Al
    totals:
     - event: Brier
@@ -1022,34 +838,6 @@ vs:
       year: 1992
       draw: Round Robin(1)
       score: PE 3 - NO 8
- - name: Hale, Robert
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'TR'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(2)
-      score: PE 6 - TR 7
  - name: Hamilton, Paul
    totals:
     - event: Brier
@@ -1111,29 +899,13 @@ vs:
     - event: Brier
       player1:
         percent: 90
-        wins: 1
+        wins: 0
         losses: 1
       player2:
         percent: 85
         wins: 1
-        losses: 1
+        losses: 0
    games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1983
-      draw: Round Robin(11)
-      score: NO 4 - PE 5
     - player1:
         team: 'PE'
         position: Second
@@ -1155,29 +927,13 @@ vs:
     - event: Brier
       player1:
         percent: 90
-        wins: 1
+        wins: 0
         losses: 1
       player2:
         percent: 88
         wins: 1
-        losses: 1
+        losses: 0
    games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1983
-      draw: Round Robin(11)
-      score: NO 4 - PE 5
     - player1:
         team: 'PE'
         position: Second
@@ -1222,34 +978,6 @@ vs:
       year: 1992
       draw: Round Robin(9)
       score: NB 7 - PE 5
- - name: Harrison, Neil
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(1)
-      score: PE 6 - ON 7
  - name: Hebert, Brad
    totals:
     - event: Brier
@@ -1480,10 +1208,10 @@ vs:
       player1:
         percent: 66
         wins: 0
-        losses: 2
+        losses: 1
       player2:
         percent: 76
-        wins: 2
+        wins: 1
         losses: 0
    games:
     - player1:
@@ -1502,22 +1230,6 @@ vs:
       year: 1980
       draw: Round Robin(8)
       score: AB 7 - PE 4
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(14)
-      score: PE 8 - AB 9
  - name: Howard, Glenn
    totals:
     - event: Brier
@@ -1706,34 +1418,6 @@ vs:
       year: 1980
       draw: Round Robin(3)
       score: NL 8 - PE 7
- - name: Johannesson, Harold
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1983
-      draw: Round Robin(6)
-      score: MB 3 - PE 5
  - name: Jones, Dave
    totals:
     - event: Brier
@@ -1868,28 +1552,12 @@ vs:
       player1:
         percent: 95
         wins: 0
-        losses: 2
+        losses: 1
       player2:
         percent: 88
-        wins: 2
+        wins: 1
         losses: 0
    games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(1)
-      score: PE 6 - ON 7
     - player1:
         team: 'PE'
         position: Second
@@ -2146,62 +1814,6 @@ vs:
       year: 1980
       draw: Round Robin(11)
       score: PE 10 - NO 6
- - name: Lauziere, Claude
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'QC'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(5)
-      score: QC 9 - PE 8
- - name: Lawrence, Harry
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'TR'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(2)
-      score: PE 6 - TR 7
  - name: LeCocq, Vance
    totals:
     - event: Brier
@@ -2314,90 +1926,6 @@ vs:
       year: 1992
       draw: Round Robin(13)
       score: NS 2 - PE 8
- - name: Lukowich, Ed
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(14)
-      score: PE 8 - AB 9
- - name: MacDonald, Robert
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NS'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(10)
-      score: NS 8 - PE 5
- - name: MacFarlane, John
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1983
-      draw: Round Robin(11)
-      score: NO 4 - PE 5
  - name: MacLean, Rob
    totals:
     - event: Brier
@@ -2498,62 +2026,6 @@ vs:
       year: 1990
       draw: Round Robin(7)
       score: PE 4 - NS 6
- - name: Marchand, Denis
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'QC'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(5)
-      score: QC 9 - PE 8
- - name: Martin, Darrell
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1983
-      draw: Round Robin(13)
-      score: PE 7 - NL 3
  - name: Martin, Kevin
    totals:
     - event: Brier
@@ -2834,34 +2306,6 @@ vs:
       year: 1987
       draw: Round Robin(11)
       score: NB 8 - PE 6
- - name: Mitchell, Kevin
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1983
-      draw: Round Robin(13)
-      score: PE 7 - NL 3
  - name: Monkman, Greg
    totals:
     - event: Brier
@@ -2924,28 +2368,12 @@ vs:
       player1:
         percent: 74
         wins: 0
-        losses: 2
+        losses: 1
       player2:
         percent: 79
-        wins: 2
+        wins: 1
         losses: 0
    games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'TR'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(2)
-      score: PE 6 - TR 7
     - player1:
         team: 'PE'
         position: Second
@@ -3074,118 +2502,6 @@ vs:
       year: 1992
       draw: Round Robin(8)
       score: PE 3 - SK 5
- - name: Ogden, Steve
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(10)
-      score: NS 8 - PE 5
- - name: Oke, Gary
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1983
-      draw: Round Robin(13)
-      score: PE 7 - NL 3
- - name: Packet, Jim
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1983
-      draw: Round Robin(4)
-      score: PE 6 - SK 5
- - name: Palk, Shelly
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(12)
-      score: NB 7 - PE 6
  - name: Park, Kevin
    totals:
     - event: Brier
@@ -3214,34 +2530,6 @@ vs:
       year: 1992
       draw: Round Robin(2)
       score: AB 5 - PE 2
- - name: Paterson, Gordon
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1983
-      draw: Round Robin(6)
-      score: MB 3 - PE 5
  - name: Pennell, Don
    totals:
     - event: Brier
@@ -3654,34 +2942,6 @@ vs:
       year: 1987
       draw: Round Robin(11)
       score: NB 8 - PE 6
- - name: Robar, Jack
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NS'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(10)
-      score: NS 8 - PE 5
  - name: Robertson, Brad
    totals:
     - event: Brier
@@ -3794,34 +3054,6 @@ vs:
       year: 1980
       draw: Round Robin(7)
       score: ON 6 - PE 3
- - name: Ryan, Don
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1983
-      draw: Round Robin(13)
-      score: PE 7 - NL 3
  - name: Ryan, Pat
    totals:
     - event: Brier
@@ -3850,34 +3082,6 @@ vs:
       year: 1987
       draw: Round Robin(7)
       score: PE 7 - AB 5
- - name: Savage, Paul
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(1)
-      score: PE 6 - ON 7
  - name: Schneider, Jamie
    totals:
     - event: Brier
@@ -4108,28 +3312,12 @@ vs:
       player1:
         percent: 70
         wins: 0
-        losses: 2
+        losses: 1
       player2:
         percent: 86
-        wins: 2
+        wins: 1
         losses: 0
    games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(8)
-      score: PE 3 - BC 8
     - player1:
         team: 'PE'
         position: Second
@@ -4230,34 +3418,6 @@ vs:
       year: 1980
       draw: Round Robin(5)
       score: TR 7 - PE 6
- - name: Strang, Don
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'TR'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(2)
-      score: PE 6 - TR 7
  - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
@@ -4286,62 +3446,6 @@ vs:
       year: 1990
       draw: Round Robin(14)
       score: NB 2 - PE 1
- - name: Sullivan, Charlie
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(12)
-      score: NB 7 - PE 6
- - name: Sullivan, Dave
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(12)
-      score: NB 7 - PE 6
  - name: Sullivan, Jim
    totals:
     - event: Brier
@@ -4370,34 +3474,6 @@ vs:
       year: 1990
       draw: Round Robin(14)
       score: NB 2 - PE 1
- - name: Syme, Brent
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(14)
-      score: PE 8 - AB 9
  - name: Tetley, Ian
    totals:
     - event: Brier
@@ -4728,28 +3804,12 @@ vs:
       player1:
         percent: 95
         wins: 0
-        losses: 2
+        losses: 1
       player2:
         percent: 90
-        wins: 2
+        wins: 1
         losses: 0
    games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1983
-      draw: Round Robin(1)
-      score: PE 6 - ON 7
     - player1:
         team: 'PE'
         position: Second
@@ -4894,62 +3954,18 @@ vs:
       year: 1992
       draw: Round Robin(12)
       score: PE 7 - NL 6
- - name: Ziola, Kirk
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1983
-      draw: Round Robin(4)
-      score: PE 6 - SK 5
  - name: Ziola, Monte
    totals:
     - event: Brier
       player1:
         percent: 70
-        wins: 1
+        wins: 0
         losses: 1
       player2:
         percent: 89
         wins: 1
-        losses: 1
+        losses: 0
    games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1983
-      draw: Round Robin(4)
-      score: PE 6 - SK 5
     - player1:
         team: 'PE'
         position: Second

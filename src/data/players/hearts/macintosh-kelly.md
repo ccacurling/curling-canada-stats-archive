@@ -74,7 +74,6 @@ vs:
  - Bradley, Shelley
  - Carmody, Erin
  - Crawford, Andrea
- - deSolla, Jodie
  - Nowlan, Denise
  - O'Rourke, Kathy
  - Ramsay, Geri-Lynn

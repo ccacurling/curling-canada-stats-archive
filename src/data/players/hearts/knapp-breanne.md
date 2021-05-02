@@ -4,8 +4,8 @@ name: Breanne Knapp
 name-sort: Knapp, Breanne
 totals:
  - event: Hearts
-   games: 18
-   wins: 10
+   games: 16
+   wins: 8
    losses: 8
    inturn-total: 125
    inturn-percent: 75
@@ -72,8 +72,8 @@ years:
    event: Hearts
    team: "MB"
    position: Lead
-   games: 3
-   wins: 3
+   games: 1
+   wins: 1
    losses: 0
    inturn-total: 2
    inturn-percent: 100
@@ -110,7 +110,6 @@ vs:
  - Barron, Lauren
  - Birchard, Shannon
  - Birt, Suzanne
- - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
  - Cameron, Kate
@@ -121,7 +120,6 @@ vs:
  - Curtis, Stacie
  - Davies, Lisa
  - Doerksen, Katherine
- - Duncan, Chelsea
  - Eddy, Lori
  - Einarson, Kerri
  - Fisher, Sam
@@ -136,7 +134,6 @@ vs:
  - Hughes, Meaghan
  - Jones, Jennifer
  - Joyce, Blisse
- - Koltun, Sarah
  - Lawes, Kaitlyn
  - Lister, Kendra
  - Loder, Jenna
@@ -159,7 +156,6 @@ vs:
  - Pinksen, Sadie
  - Riley, Emily
  - Ross, Allison
- - Sinclair, Andrea
  - Smith, Heather
  - Sobey, Lianne
  - St-Georges, Cynthia
@@ -169,7 +165,6 @@ vs:
  - Tran, Brittany
  - Udle, Teri
  - Walker, Laura
- - Wallingham, Patty
  - Weagle, Lisa
  - Wilkes, Sarah
 ---

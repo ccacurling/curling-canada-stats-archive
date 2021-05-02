@@ -13,8 +13,6 @@ totals:
    outturn-percent: 100
    draw-total: 12
    draw-percent: 96
-   takeout-total: 0
-   takeout-percent:
    shots-total: 12
    shots-percent: 96
 years:
@@ -31,8 +29,6 @@ years:
    outturn-percent: 100
    draw-total: 6
    draw-percent: 92
-   takeout-total: 0
-   takeout-percent:
    shots-total: 6
    shots-percent: 92
  - year: 2012
@@ -48,8 +44,6 @@ years:
    outturn-percent: 100
    draw-total: 6
    draw-percent: 100
-   takeout-total: 0
-   takeout-percent:
    shots-total: 6
    shots-percent: 100
  - year: 2012
@@ -64,8 +58,6 @@ years:
    outturn-percent: 100
    draw-total: 12
    draw-percent: 96
-   takeout-total: 0
-   takeout-percent:
    shots-total: 12
    shots-percent: 96
 vs:

@@ -29,8 +29,6 @@ years:
    inturn-percent: 88
    outturn-total: 2
    outturn-percent: 100
-   draw-total: 0
-   draw-percent:
    takeout-total: 4
    takeout-percent: 94
    shots-total: 4

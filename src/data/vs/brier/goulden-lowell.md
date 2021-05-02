@@ -30,62 +30,6 @@ vs:
       year: 1980
       draw: Round Robin(1)
       score: BC 3 - AB 5
- - name: Graber, Dennis
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(2)
-      score: AB 8 - NS 7
- - name: Granger, Allan
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(5)
-      score: NS 3 - MB 12
  - name: Grant, Scott
    totals:
     - event: Brier
@@ -142,44 +86,16 @@ vs:
       year: 1997
       draw: Round Robin(1)
       score: NS 1 - NB 7
- - name: Gummer, Murray
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(2)
-      score: AB 8 - NS 7
  - name: Hackner, Al
    totals:
     - event: Brier
       player1:
         percent: 70
         wins: 1
-        losses: 1
+        losses: 0
       player2:
         percent: 73
-        wins: 1
+        wins: 0
         losses: 1
    games:
     - player1:
@@ -198,22 +114,6 @@ vs:
       year: 1980
       draw: Round Robin(13)
       score: NO 7 - BC 9
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(11)
-      score: NO 9 - NS 4
  - name: Hamilton, Paul
    totals:
     - event: Brier
@@ -298,34 +198,6 @@ vs:
       year: 1997
       draw: Round Robin(16)
       score: NS 8 - ON 12
- - name: Heidt, Brad
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(7)
-      score: SK 3 - NS 7
  - name: Henderson, Lorne
    totals:
     - event: Brier
@@ -494,34 +366,6 @@ vs:
       year: 1980
       draw: Round Robin(8)
       score: BC 4 - ON 7
- - name: Hunter, Paul
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(6)
-      score: NS 9 - TR 3
  - name: Jackson, Glen
    totals:
     - event: Brier
@@ -606,34 +450,6 @@ vs:
       year: 1980
       draw: Round Robin(4)
       score: NL 6 - BC 9
- - name: Jenkins, Peter
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(13)
-      score: PE 2 - NS 9
  - name: Kapicki, Ron
    totals:
     - event: Brier
@@ -696,10 +512,10 @@ vs:
       player1:
         percent: 70
         wins: 1
-        losses: 1
+        losses: 0
       player2:
         percent: 92
-        wins: 1
+        wins: 0
         losses: 1
    games:
     - player1:
@@ -718,22 +534,6 @@ vs:
       year: 1980
       draw: Round Robin(13)
       score: NO 7 - BC 9
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(11)
-      score: NO 9 - NS 4
  - name: Kerr, Ian
    totals:
     - event: Brier
@@ -818,72 +618,16 @@ vs:
       year: 1997
       draw: Round Robin(1)
       score: NS 1 - NB 7
- - name: Laidlaw, Bob
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(1)
-      score: NS 6 - ON 14
- - name: Lang, Lloyd
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(5)
-      score: NS 3 - MB 12
  - name: Lang, Rick
    totals:
     - event: Brier
       player1:
         percent: 70
         wins: 1
-        losses: 1
+        losses: 0
       player2:
         percent: 78
-        wins: 1
+        wins: 0
         losses: 1
    games:
     - player1:
@@ -902,22 +646,6 @@ vs:
       year: 1980
       draw: Round Robin(13)
       score: NO 7 - BC 9
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(11)
-      score: NO 9 - NS 4
  - name: Lemery, Daniel
    totals:
     - event: Brier
@@ -974,34 +702,6 @@ vs:
       year: 1997
       draw: Round Robin(13)
       score: NS 6 - SK 3
- - name: Logan, Mel
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(5)
-      score: NS 3 - MB 12
  - name: MacFadyen, Bill
    totals:
     - event: Brier
@@ -1114,34 +814,6 @@ vs:
       year: 1980
       draw: Round Robin(11)
       score: BC 9 - NS 7
- - name: Maksymetz, Richard
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(2)
-      score: AB 8 - NS 7
  - name: Martin, Kevin
    totals:
     - event: Brier
@@ -1310,73 +982,17 @@ vs:
       year: 1980
       draw: Round Robin(14)
       score: BC 2 - SK 7
- - name: Monkman, Greg
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(10)
-      score: NS 4 - BC 8
- - name: Morkin, Gary
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(2)
-      score: AB 8 - NS 7
  - name: Morris, Earle
    totals:
     - event: Brier
       player1:
         percent: 83
-        wins: 1
+        wins: 0
         losses: 1
       player2:
         percent: 65
         wins: 1
-        losses: 1
+        losses: 0
    games:
     - player1:
         team: 'BC'
@@ -1394,22 +1010,6 @@ vs:
       year: 1980
       draw: Round Robin(12)
       score: MB 9 - BC 6
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(12)
-      score: NS 10 - QC 4
  - name: Mosley, Jeff
    totals:
     - event: Brier
@@ -1438,34 +1038,6 @@ vs:
       year: 1997
       draw: Round Robin(13)
       score: NS 6 - SK 3
- - name: Munro, Bruce
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(1)
-      score: NS 6 - ON 14
  - name: Neufeld, Chris
    totals:
     - event: Brier
@@ -1500,10 +1072,10 @@ vs:
       player1:
         percent: 70
         wins: 1
-        losses: 1
+        losses: 0
       player2:
         percent: 81
-        wins: 1
+        wins: 0
         losses: 1
    games:
     - player1:
@@ -1522,50 +1094,6 @@ vs:
       year: 1980
       draw: Round Robin(13)
       score: NO 7 - BC 9
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(11)
-      score: NO 9 - NS 4
- - name: Noseworthy, Mark
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(15)
-      score: NL 7 - NS 5
  - name: Nowlan, Daryell
    totals:
     - event: Brier
@@ -1650,62 +1178,6 @@ vs:
       year: 1997
       draw: Round Robin(13)
       score: NS 6 - SK 3
- - name: Palk, Shelly
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(4)
-      score: NB 3 - NS 7
- - name: Paterson, Bruce
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(1)
-      score: NS 6 - ON 14
  - name: Pennell, Don
    totals:
     - event: Brier
@@ -1762,34 +1234,6 @@ vs:
       year: 1997
       draw: Round Robin(16)
       score: NS 8 - ON 12
- - name: Perry, Randy
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(15)
-      score: NL 7 - NS 5
  - name: Peters, Vic
    totals:
     - event: Brier
@@ -1874,90 +1318,6 @@ vs:
       year: 1997
       draw: Round Robin(7)
       score: NS 3 - AB 10
- - name: Rechenmacher, Warren
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(7)
-      score: SK 3 - NS 7
- - name: Rodd, Roy
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(13)
-      score: PE 2 - NS 9
- - name: Roemer, Al
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(10)
-      score: NS 4 - BC 8
  - name: Rushton, Robert
    totals:
     - event: Brier
@@ -2047,12 +1407,12 @@ vs:
     - event: Brier
       player1:
         percent: 66
-        wins: 1
+        wins: 0
         losses: 1
       player2:
         percent: 86
         wins: 1
-        losses: 1
+        losses: 0
    games:
     - player1:
         team: 'BC'
@@ -2070,22 +1430,6 @@ vs:
       year: 1980
       draw: Round Robin(9)
       score: BC 5 - QC 7
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(12)
-      score: NS 10 - QC 4
  - name: Strain, Bill
    totals:
     - event: Brier
@@ -2170,62 +1514,6 @@ vs:
       year: 1997
       draw: Round Robin(1)
       score: NS 1 - NB 7
- - name: Sullivan, Charlie
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(4)
-      score: NB 3 - NS 7
- - name: Sullivan, Dave
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(4)
-      score: NB 3 - NS 7
  - name: Thomas, Jeff
    totals:
     - event: Brier
@@ -2254,45 +1542,17 @@ vs:
       year: 1997
       draw: Round Robin(5)
       score: NS 5 - NL 6
- - name: Trickett, Eugene
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(15)
-      score: NL 7 - NS 5
  - name: Turner, Malcolm
    totals:
     - event: Brier
       player1:
         percent: 66
-        wins: 1
+        wins: 0
         losses: 1
       player2:
         percent: 79
         wins: 1
-        losses: 1
+        losses: 0
    games:
     - player1:
         team: 'BC'
@@ -2310,22 +1570,6 @@ vs:
       year: 1980
       draw: Round Robin(9)
       score: BC 5 - QC 7
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(12)
-      score: NS 10 - QC 4
  - name: Ursel, Jim
    totals:
     - event: Brier
@@ -2410,34 +1654,6 @@ vs:
       year: 1980
       draw: Round Robin(12)
       score: MB 9 - BC 6
- - name: Weeks, Doug
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(13)
-      score: PE 2 - NS 9
  - name: Werenich, Ed
    totals:
     - event: Brier
@@ -2494,62 +1710,6 @@ vs:
       year: 1997
       draw: Round Robin(14)
       score: QC 9 - NS 5
- - name: Wheeler, John
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(15)
-      score: NL 7 - NS 5
- - name: Whetter, John
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(7)
-      score: SK 3 - NS 7
  - name: Wilson, Jim
    totals:
     - event: Brier
@@ -2606,32 +1766,4 @@ vs:
       year: 1980
       draw: Round Robin(14)
       score: BC 2 - SK 7
- - name: Yeulet, John
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(6)
-      score: NS 9 - TR 3
 ---

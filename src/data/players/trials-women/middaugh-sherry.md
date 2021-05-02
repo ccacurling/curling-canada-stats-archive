@@ -123,7 +123,6 @@ vs:
  - Gatchell, Sara
  - Gellard, Kim
  - Gignac, Donna
- - Godberson, Heather
  - Goring, Alison
  - Gregoire, Veronique
  - Grenier, Valerie

@@ -44,12 +44,8 @@ years:
    losses: 1
    inturn-total: 4
    inturn-percent: 100
-   outturn-total: 0
-   outturn-percent:
    draw-total: 4
    draw-percent: 100
-   takeout-total: 0
-   takeout-percent:
    shots-total: 4
    shots-percent: 100
  - year: 2020

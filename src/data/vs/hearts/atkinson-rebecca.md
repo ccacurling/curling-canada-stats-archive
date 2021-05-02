@@ -538,34 +538,6 @@ vs:
       year: 2013
       draw: Round Robin(8)
       score: BC 13 - NB 7
- - name: Chenier, Courtney
-   totals:
-    - event: Hearts
-      player1:
-        percent: 55
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Third
-        percent: 55
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2015
-      draw: Round Robin(8)
-      score: NO 8 - NB 4
  - name: Cheveldave, Amber
    totals:
     - event: Hearts
@@ -654,30 +626,14 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 79
+        percent: 74
         wins: 0
-        losses: 2
+        losses: 1
       player2:
         percent: 100
-        wins: 2
+        wins: 1
         losses: 0
    games:
-    - player1:
-        team: 'NB'
-        position: Third
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2012
-      draw: Round Robin(2)
-      score: MB 7 - NB 3
     - player1:
         team: 'NB'
         position: Third

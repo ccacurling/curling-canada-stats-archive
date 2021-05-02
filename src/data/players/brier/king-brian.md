@@ -13,8 +13,6 @@ totals:
    outturn-percent: 100
    draw-total: 6
    draw-percent: 100
-   takeout-total: 0
-   takeout-percent:
    shots-total: 6
    shots-percent: 100
 years:
@@ -31,8 +29,6 @@ years:
    outturn-percent: 100
    draw-total: 4
    draw-percent: 100
-   takeout-total: 0
-   takeout-percent:
    shots-total: 4
    shots-percent: 100
  - year: 2018
@@ -44,12 +40,8 @@ years:
    losses: 1
    inturn-total: 2
    inturn-percent: 100
-   outturn-total: 0
-   outturn-percent:
    draw-total: 2
    draw-percent: 100
-   takeout-total: 0
-   takeout-percent:
    shots-total: 2
    shots-percent: 100
  - year: 2018
@@ -64,8 +56,6 @@ years:
    outturn-percent: 100
    draw-total: 6
    draw-percent: 100
-   takeout-total: 0
-   takeout-percent:
    shots-total: 6
    shots-percent: 100
 vs:

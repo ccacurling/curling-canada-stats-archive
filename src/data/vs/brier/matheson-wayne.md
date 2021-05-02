@@ -2,34 +2,6 @@
 title: Wayne Matheson Head-to-head
 name: Matheson, Wayne
 vs:
- - name: McCarron, Rod
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NS'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1984
-      draw: Round Robin(1)
-      score: PE 6 - NS 7
  - name: McKenzie, Donald
    totals:
     - event: Brier
@@ -58,34 +30,6 @@ vs:
       year: 1985
       draw: Round Robin(15)
       score: AB 8 - PE 2
- - name: McKnight, Gord
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1984
-      draw: Round Robin(8)
-      score: PE 8 - NO 6
  - name: Meger, Doug
    totals:
     - event: Brier
@@ -142,34 +86,6 @@ vs:
       year: 1985
       draw: Round Robin(4)
       score: ON 8 - PE 7
- - name: Millard, Neil
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1984
-      draw: Round Robin(14)
-      score: PE 8 - QC 6
  - name: Miller, Bob
    totals:
     - event: Brier
@@ -214,34 +130,6 @@ vs:
       year: 1985
       draw: Tie-Breaker(16)
       score: PE 1 - SK 8
- - name: Moore, Claude
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1984
-      draw: Round Robin(7)
-      score: PE 5 - NB 8
  - name: Morris, Earle
    totals:
     - event: Brier
@@ -270,34 +158,6 @@ vs:
       year: 1985
       draw: Round Robin(4)
       score: ON 8 - PE 7
- - name: Pacquin, Rolland
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1984
-      draw: Round Robin(14)
-      score: PE 8 - QC 6
  - name: Paulsen, Art
    totals:
     - event: Brier
@@ -442,34 +302,6 @@ vs:
       year: 1985
       draw: Round Robin(1)
       score: PE 6 - BC 5
- - name: Riley, Mike
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1984
-      draw: Round Robin(15)
-      score: MB 8 - PE 1
  - name: Ryan, Pat
    totals:
     - event: Brier
@@ -498,90 +330,18 @@ vs:
       year: 1985
       draw: Round Robin(15)
       score: AB 8 - PE 2
- - name: Savage, Paul
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1984
-      draw: Round Robin(11)
-      score: PE 2 - ON 7
- - name: Sparkes, Bernie
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1984
-      draw: Round Robin(12)
-      score: BC 9 - PE 3
  - name: Strain, Bill
    totals:
     - event: Brier
       player1:
         percent: 76
-        wins: 2
+        wins: 1
         losses: 0
       player2:
         percent: 69
         wins: 0
-        losses: 2
+        losses: 1
    games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1984
-      draw: Round Robin(5)
-      score: TR 2 - PE 9
     - player1:
         team: 'PE'
         position: Fourth
@@ -626,34 +386,6 @@ vs:
       year: 1985
       draw: Round Robin(7)
       score: NB 8 - PE 9
- - name: Syme, Brent
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1984
-      draw: Round Robin(13)
-      score: AB 6 - PE 5
  - name: Tetley, Ian
    totals:
     - event: Brier
@@ -687,29 +419,13 @@ vs:
     - event: Brier
       player1:
         percent: 77
-        wins: 2
+        wins: 1
         losses: 0
       player2:
         percent: 69
         wins: 0
-        losses: 2
+        losses: 1
    games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1984
-      draw: Round Robin(4)
-      score: NL 5 - PE 6
     - player1:
         team: 'PE'
         position: Fourth
@@ -726,62 +442,6 @@ vs:
       year: 1985
       draw: Round Robin(12)
       score: PE 10 - NL 8
- - name: Thompson, Ron
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1984
-      draw: Round Robin(12)
-      score: BC 9 - PE 3
- - name: Toews, Brian
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1984
-      draw: Round Robin(15)
-      score: MB 8 - PE 1
  - name: Trenchie, Gord
    totals:
     - event: Brier
@@ -894,34 +554,6 @@ vs:
       year: 1985
       draw: Round Robin(1)
       score: PE 6 - BC 5
- - name: Werenich, Ed
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1984
-      draw: Round Robin(11)
-      score: PE 2 - ON 7
  - name: Wight, Bryan
    totals:
     - event: Brier
@@ -950,62 +582,18 @@ vs:
       year: 1985
       draw: Round Robin(7)
       score: NB 8 - PE 9
- - name: Wookey, Russ
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1984
-      draw: Round Robin(15)
-      score: MB 8 - PE 1
  - name: Young, Neil
    totals:
     - event: Brier
       player1:
         percent: 77
-        wins: 2
+        wins: 1
         losses: 0
       player2:
         percent: 77
         wins: 0
-        losses: 2
+        losses: 1
    games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1984
-      draw: Round Robin(4)
-      score: NL 5 - PE 6
     - player1:
         team: 'PE'
         position: Fourth
@@ -1022,32 +610,4 @@ vs:
       year: 1985
       draw: Round Robin(12)
       score: PE 10 - NL 8
- - name: Zimmer, Jerry
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1984
-      draw: Round Robin(9)
-      score: PE 5 - SK 7
 ---

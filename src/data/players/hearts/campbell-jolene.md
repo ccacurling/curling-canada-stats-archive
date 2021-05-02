@@ -4,8 +4,8 @@ name: Jolene Campbell
 name-sort: Campbell, Jolene
 totals:
  - event: Hearts
-   games: 23
-   wins: 13
+   games: 21
+   wins: 11
    losses: 10
    inturn-total: 184
    inturn-percent: 80
@@ -18,23 +18,6 @@ totals:
    shots-total: 362
    shots-percent: 80
 years:
- - year: 2010
-   event: Hearts
-   team: "SK"
-   position: Lead
-   games: 1
-   wins: 1
-   losses: 0
-   inturn-total: 0
-   inturn-percent:
-   outturn-total: 0
-   outturn-percent:
-   draw-total: 0
-   draw-percent:
-   takeout-total: 0
-   takeout-percent:
-   shots-total: 0
-   shots-percent:
  - year: 2010
    event: Hearts
    team: "SK"
@@ -52,28 +35,12 @@ years:
    takeout-percent: 81
    shots-total: 30
    shots-percent: 81
- - year: 2010
-   event: Hearts
-   team: Totals
-   games: 3
-   wins: 2
-   losses: 1
-   inturn-total: 19
-   inturn-percent: 83
-   outturn-total: 11
-   outturn-percent: 77
-   draw-total: 12
-   draw-percent: 81
-   takeout-total: 18
-   takeout-percent: 81
-   shots-total: 30
-   shots-percent: 81
  - year: 2011
    event: Hearts
    team: "SK"
    position: Lead
-   games: 2
-   wins: 2
+   games: 1
+   wins: 1
    losses: 0
    inturn-total: 3
    inturn-percent: 67
@@ -105,8 +72,8 @@ years:
  - year: 2011
    event: Hearts
    team: Totals
-   games: 3
-   wins: 2
+   games: 2
+   wins: 1
    losses: 1
    inturn-total: 14
    inturn-percent: 75
@@ -153,21 +120,17 @@ years:
    shots-total: 202
    shots-percent: 78
 vs:
- - Affleck, Tricia
  - Armstrong, Jacquie
  - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Barbour, Shona
- - Belisle, Eve
  - Birt, Suzanne
  - Blais, Amelie
  - Boyle, Jane
- - Bradley, Shelley
  - Brine, Jenn
  - Carey, Chelsea
  - Carter, Sasha
  - Christianson, Marie
- - Comeau, Martine
  - Cormier, Sharon
  - Curtis, Stacie
  - Devereaux, Julie
@@ -194,7 +157,6 @@ vs:
  - Lilly, Kendra
  - MacCuish, Kristin
  - MacDonald, Rebecca Jean
- - MacDougall, Leslie
  - MacPhee, Robyn
  - Makichuk, Lindsay
  - Materi, Roberta

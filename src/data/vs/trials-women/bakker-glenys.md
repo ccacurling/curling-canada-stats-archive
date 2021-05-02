@@ -586,34 +586,6 @@ vs:
       year: 2005
       draw: Round Robin(11)
       score: AND 6 - KLE 7
- - name: Godberson, Heather
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 71
-        wins: 0
-        losses: 1
-      player2:
-        percent: 78
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'KLE'
-        position: Third
-        percent: 71
-        win: 0
-        loss: 1
-      player2:
-        team: 'BOR'
-        position: Third
-        percent: 78
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 1997
-      draw: Round Robin(7)
-      score: KLE 4 - BOR 5
  - name: Goring, Alison
    totals:
     - event: Trials (Women)
@@ -1642,6 +1614,34 @@ vs:
       year: 1997
       draw: Round Robin(1)
       score: SCHE 1 - KLE 12
+ - name: Nedohin, Heather
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 71
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'KLE'
+        position: Third
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'BOR'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 1997
+      draw: Round Robin(7)
+      score: KLE 4 - BOR 5
  - name: Officer, Jill
    totals:
     - event: Trials (Women)

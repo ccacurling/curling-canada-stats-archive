@@ -31,8 +31,6 @@ years:
    outturn-percent: 100
    draw-total: 4
    draw-percent: 88
-   takeout-total: 0
-   takeout-percent:
    shots-total: 4
    shots-percent: 88
  - year: 2019

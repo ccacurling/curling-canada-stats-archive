@@ -30,62 +30,6 @@ vs:
       year: 1980
       draw: Round Robin(13)
       score: QC 11 - TR 5
- - name: Sullivan, Charlie
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(11)
-      score: QC 4 - NB 5
- - name: Sullivan, Dave
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(11)
-      score: QC 4 - NB 5
  - name: Thomas, Ken
    totals:
     - event: Brier
@@ -142,34 +86,6 @@ vs:
       year: 1988
       draw: Round Robin(7)
       score: QC 6 - BC 7
- - name: Trickett, Eugene
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(5)
-      score: QC 4 - NL 6
  - name: Walchuk, Don
    totals:
     - event: Brier
@@ -204,28 +120,12 @@ vs:
       player1:
         percent: 66
         wins: 0
-        losses: 2
+        losses: 1
       player2:
         percent: 67
-        wins: 2
+        wins: 1
         losses: 0
    games:
-    - player1:
-        team: 'QC'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NS'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(12)
-      score: NS 10 - QC 4
     - player1:
         team: 'QC'
         position: Fourth
@@ -270,34 +170,6 @@ vs:
       year: 1980
       draw: Round Robin(5)
       score: QC 6 - MB 5
- - name: Weeks, Doug
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(15)
-      score: PE 4 - QC 8
  - name: Werenich, Ed
    totals:
     - event: Brier
@@ -326,62 +198,6 @@ vs:
       year: 1988
       draw: Round Robin(13)
       score: ON 8 - QC 2
- - name: Wheeler, John
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(5)
-      score: QC 4 - NL 6
- - name: Whetter, John
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1982
-      draw: Round Robin(1)
-      score: SK 9 - QC 6
  - name: Wilson, Jim
    totals:
     - event: Brier
@@ -438,32 +254,4 @@ vs:
       year: 1980
       draw: Round Robin(10)
       score: SK 6 - QC 4
- - name: Yeulet, John
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1982
-      draw: Round Robin(14)
-      score: TR 3 - QC 4
 ---

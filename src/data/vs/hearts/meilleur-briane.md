@@ -306,34 +306,6 @@ vs:
       year: 2020
       draw: Round Robin(3)
       score: MB 6 - NU 4
- - name: Recksiedler, Kristen
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 77
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
-        position: Third
-        percent: 77
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(2)
-      score: BC 2 - MB 10
  - name: Riley, Emily
    totals:
     - event: Hearts
@@ -698,34 +670,6 @@ vs:
       year: 2020
       draw: Round Robin(11)
       score: SK 6 - MB 10
- - name: Thompson, Karla
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 52
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
-        position: Fourth
-        percent: 52
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(2)
-      score: BC 2 - MB 10
  - name: Tran, Brittany
    totals:
     - event: Hearts
@@ -782,34 +726,6 @@ vs:
       year: 2016
       draw: Round Robin(3)
       score: NS 9 - MB 3
- - name: Vandale, Trysta
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 73
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
-        position: Lead
-        percent: 73
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(2)
-      score: BC 2 - MB 10
  - name: Verreault, Noemie
    totals:
     - event: Hearts

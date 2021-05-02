@@ -57,7 +57,6 @@ vs:
  - Karwacki, Krysten
  - Koehler, Megan
  - Lilly, Kendra
- - MacDonald, Rebecca Jean
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren

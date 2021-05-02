@@ -2,50 +2,6 @@
 title: Mike Riley Head-to-head
 name: Riley, Mike
 vs:
- - name: Savage, Paul
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 2
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1984
-      draw: Round Robin(12)
-      score: MB 7 - ON 4
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1984
-      draw: Playoff(19)
-      score: MB 7 - ON 4
  - name: Schleppe, Dave
    totals:
     - event: Brier
@@ -130,62 +86,6 @@ vs:
       year: 1986
       draw: Round Robin(12)
       score: MB 7 - PE 6
- - name: Sparkes, Bernie
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1984
-      draw: Round Robin(10)
-      score: BC 7 - MB 6
- - name: Strain, Bill
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1984
-      draw: Round Robin(1)
-      score: MB 5 - TR 3
  - name: Sweete, Don
    totals:
     - event: Brier
@@ -219,29 +119,13 @@ vs:
     - event: Brier
       player1:
         percent: 58
-        wins: 1
+        wins: 0
         losses: 1
       player2:
         percent: 78
         wins: 1
-        losses: 1
+        losses: 0
    games:
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'AB'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1984
-      draw: Round Robin(11)
-      score: MB 9 - AB 4
     - player1:
         team: 'MB'
         position: Fourth
@@ -258,62 +142,6 @@ vs:
       year: 1986
       draw: Round Robin(7)
       score: AB 8 - MB 3
- - name: Thomas, Jeff
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1984
-      draw: Round Robin(3)
-      score: NL 7 - MB 4
- - name: Thompson, Ron
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1984
-      draw: Round Robin(10)
-      score: BC 7 - MB 6
  - name: Turner, Malcolm
    totals:
     - event: Brier
@@ -342,34 +170,6 @@ vs:
       year: 1986
       draw: Round Robin(2)
       score: MB 1 - QC 6
- - name: Victor, Mark
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1984
-      draw: Round Robin(15)
-      score: MB 8 - PE 1
  - name: Warren, Dave
    totals:
     - event: Brier
@@ -398,50 +198,6 @@ vs:
       year: 1986
       draw: Round Robin(5)
       score: NL 3 - MB 5
- - name: Werenich, Ed
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 2
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1984
-      draw: Round Robin(12)
-      score: MB 7 - ON 4
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1984
-      draw: Playoff(19)
-      score: MB 7 - ON 4
  - name: Wilson, Michael
    totals:
     - event: Brier
@@ -470,60 +226,4 @@ vs:
       year: 1986
       draw: Round Robin(8)
       score: NS 5 - MB 7
- - name: Young, Neil
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Brier
-      year: 1984
-      draw: Round Robin(3)
-      score: NL 7 - MB 4
- - name: Zimmer, Jerry
-   totals:
-    - event: Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Brier
-      year: 1984
-      draw: Round Robin(14)
-      score: SK 5 - MB 6
 ---

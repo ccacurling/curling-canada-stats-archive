@@ -62,7 +62,6 @@ vs:
  - Beauchamp, Sasha
  - Belisle, Eve
  - Birt, Suzanne
- - Boyle, Jane
  - Bradley, Shelley
  - Cameron, Kate
  - Carey, Chelsea

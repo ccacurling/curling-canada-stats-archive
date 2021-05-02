@@ -438,34 +438,6 @@ vs:
       year: 2017
       draw: Round Robin(2)
       score: NO 6 - AB 11
- - name: Thomas, Jill
-   totals:
-    - event: Hearts
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent: 63
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'ON'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Lead
-        percent: 63
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(15)
-      score: NS 3 - ON 7
  - name: Thompson, Karla
    totals:
     - event: Hearts
