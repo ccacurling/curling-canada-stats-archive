@@ -34,14 +34,30 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 74
+        percent: 68
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 69
-        wins: 1
+        percent: 54
+        wins: 2
         losses: 0
    games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 42
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(15)
+      score: NL 4 - TR 8
     - player1:
         team: 'NL'
         position: Third
@@ -142,6 +158,62 @@ vs:
       year: 1985
       draw: Round Robin(12)
       score: PE 10 - NL 8
+ - name: Dobson, Arnie
+   totals:
+    - event: Brier
+      player1:
+        percent: 69
+        wins: 0
+        losses: 1
+      player2:
+        percent: 77
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 77
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(2)
+      score: NL 2 - NB 8
+ - name: Dobson, Michael
+   totals:
+    - event: Brier
+      player1:
+        percent: 69
+        wins: 0
+        losses: 1
+      player2:
+        percent: 67
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Second
+        percent: 67
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(2)
+      score: NL 2 - NB 8
  - name: Edwards, Duane
    totals:
     - event: Brier
@@ -254,6 +326,34 @@ vs:
       year: 1990
       draw: Round Robin(14)
       score: NL 10 - NO 8
+ - name: Ferguson, John
+   totals:
+    - event: Brier
+      player1:
+        percent: 56
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 56
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 75
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(10)
+      score: AB 13 - NL 4
  - name: Fitzherbert, Brad
    totals:
     - event: Brier
@@ -310,6 +410,34 @@ vs:
       year: 1985
       draw: Round Robin(11)
       score: NL 5 - ON 8
+ - name: Foss, Wilf
+   totals:
+    - event: Brier
+      player1:
+        percent: 64
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(7)
+      score: NL 1 - SK 10
  - name: Fowler, Ed
    totals:
     - event: Brier
@@ -438,18 +566,62 @@ vs:
       year: 1999
       draw: Round Robin(15)
       score: ON 9 - NL 8
+ - name: Gardner, Reg
+   totals:
+    - event: Brier
+      player1:
+        percent: 65
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 65
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Lead
+        percent: 74
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1984
+      draw: Round Robin(14)
+      score: NO 5 - NL 11
  - name: Giles, Roy
    totals:
     - event: Brier
       player1:
-        percent: 74
+        percent: 68
         wins: 0
-        losses: 1
+        losses: 2
       player2:
         percent: 63
-        wins: 1
+        wins: 2
         losses: 0
    games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'TR'
+        position: Third
+        percent: 63
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(15)
+      score: NL 4 - TR 8
     - player1:
         team: 'NL'
         position: Third
@@ -466,6 +638,34 @@ vs:
       year: 1985
       draw: Round Robin(14)
       score: TR 6 - NL 2
+ - name: Graham, Dale
+   totals:
+    - event: Brier
+      player1:
+        percent: 64
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(7)
+      score: NL 1 - SK 10
  - name: Graham, Ross
    totals:
     - event: Brier
@@ -678,6 +878,34 @@ vs:
       year: 1992
       draw: Round Robin(15)
       score: NL 9 - NB 5
+ - name: Harrison, Neil
+   totals:
+    - event: Brier
+      player1:
+        percent: 46
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 46
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 78
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(8)
+      score: ON 8 - NL 5
  - name: Hebert, Brad
    totals:
     - event: Brier
@@ -706,6 +934,62 @@ vs:
       year: 1992
       draw: Round Robin(3)
       score: SK 6 - NL 5
+ - name: Heintz, Jim
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 59
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Lead
+        percent: 59
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1984
+      draw: Round Robin(11)
+      score: BC 6 - NL 9
+ - name: Helston, John
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1984
+      draw: Round Robin(3)
+      score: NL 7 - MB 4
  - name: Hemmings, Guy
    totals:
     - event: Brier
@@ -790,6 +1074,62 @@ vs:
       year: 1985
       draw: Round Robin(7)
       score: NL 7 - MB 6
+ - name: Hinks, Geoffrey
+   totals:
+    - event: Brier
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(1)
+      score: QC 6 - NL 4
+ - name: Houston, Neil
+   totals:
+    - event: Brier
+      player1:
+        percent: 56
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 56
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(10)
+      score: AB 13 - NL 4
  - name: Howard, Glenn
    totals:
     - event: Brier
@@ -930,6 +1270,34 @@ vs:
       year: 1985
       draw: Round Robin(7)
       score: NL 7 - MB 6
+ - name: Johnston, Bill
+   totals:
+    - event: Brier
+      player1:
+        percent: 65
+        wins: 1
+        losses: 0
+      player2:
+        percent: 68
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 65
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 68
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1984
+      draw: Round Robin(14)
+      score: NO 5 - NL 11
  - name: Johnston, Steve
    totals:
     - event: Brier
@@ -1014,18 +1382,62 @@ vs:
       year: 1992
       draw: Round Robin(7)
       score: NL 4 - NS 3
+ - name: Kamp, Ragnar
+   totals:
+    - event: Brier
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 71
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Fourth
+        percent: 71
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(13)
+      score: NL 8 - NS 9
  - name: Kapicki, Ron
    totals:
     - event: Brier
       player1:
-        percent: 74
+        percent: 68
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 77
-        wins: 1
+        percent: 72
+        wins: 2
         losses: 0
    games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'TR'
+        position: Lead
+        percent: 67
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(15)
+      score: NL 4 - TR 8
     - player1:
         team: 'NL'
         position: Third
@@ -1046,14 +1458,30 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 86
+        percent: 65
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 90
-        wins: 1
+        percent: 89
+        wins: 2
         losses: 0
    games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 46
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(8)
+      score: ON 8 - NL 5
     - player1:
         team: 'NL'
         position: Third
@@ -1154,6 +1582,34 @@ vs:
       year: 1985
       draw: Round Robin(13)
       score: NO 5 - NL 4
+ - name: Langille, Vic
+   totals:
+    - event: Brier
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 69
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 69
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(13)
+      score: NL 8 - NS 9
  - name: LeCocq, Vance
    totals:
     - event: Brier
@@ -1182,6 +1638,34 @@ vs:
       year: 1992
       draw: Round Robin(7)
       score: NL 4 - NS 3
+ - name: Ledgerwood, Allan
+   totals:
+    - event: Brier
+      player1:
+        percent: 55
+        wins: 0
+        losses: 1
+      player2:
+        percent: 74
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 55
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 74
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(4)
+      score: NL 5 - PE 6
  - name: Lemery, Daniel
    totals:
     - event: Brier
@@ -1350,6 +1834,34 @@ vs:
       year: 1985
       draw: Round Robin(11)
       score: NL 5 - ON 8
+ - name: Lukowich, Ed
+   totals:
+    - event: Brier
+      player1:
+        percent: 56
+        wins: 0
+        losses: 1
+      player2:
+        percent: 91
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 56
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(10)
+      score: AB 13 - NL 4
  - name: MacDonald, Blake
    totals:
     - event: Brier
@@ -1406,6 +1918,62 @@ vs:
       year: 1999
       draw: Round Robin(14)
       score: NL 7 - AB 6
+ - name: MacDonald, Ken
+   totals:
+    - event: Brier
+      player1:
+        percent: 55
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 55
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Third
+        percent: 76
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(4)
+      score: NL 5 - PE 6
+ - name: MacDonald, Ronald
+   totals:
+    - event: Brier
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Second
+        percent: 79
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(1)
+      score: QC 6 - NL 4
  - name: MacFadyen, Bill
    totals:
     - event: Brier
@@ -1654,14 +2222,30 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 68
+        percent: 62
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 77
-        wins: 1
+        percent: 68
+        wins: 2
         losses: 0
    games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 55
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 58
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(4)
+      score: NL 5 - PE 6
     - player1:
         team: 'NL'
         position: Third
@@ -1678,6 +2262,34 @@ vs:
       year: 1985
       draw: Round Robin(12)
       score: PE 10 - NL 8
+ - name: McCarron, Rod
+   totals:
+    - event: Brier
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 66
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Second
+        percent: 66
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(13)
+      score: NL 8 - NS 9
  - name: McDonald, Jim
    totals:
     - event: Brier
@@ -1762,6 +2374,34 @@ vs:
       year: 1985
       draw: Round Robin(5)
       score: NL 6 - AB 11
+ - name: McKnight, Gord
+   totals:
+    - event: Brier
+      player1:
+        percent: 65
+        wins: 1
+        losses: 0
+      player2:
+        percent: 65
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 65
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 65
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1984
+      draw: Round Robin(14)
+      score: NO 5 - NL 11
  - name: McMechan, Kelly
    totals:
     - event: Brier
@@ -1874,6 +2514,34 @@ vs:
       year: 1992
       draw: Round Robin(16)
       score: ON 8 - NL 4
+ - name: Millard, Neil
+   totals:
+    - event: Brier
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 80
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(1)
+      score: QC 6 - NL 4
  - name: Miller, Bob
    totals:
     - event: Brier
@@ -1958,6 +2626,34 @@ vs:
       year: 1992
       draw: Round Robin(10)
       score: NL 8 - BC 6
+ - name: Moore, Claude
+   totals:
+    - event: Brier
+      player1:
+        percent: 69
+        wins: 0
+        losses: 1
+      player2:
+        percent: 71
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Lead
+        percent: 71
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(2)
+      score: NL 2 - NB 8
  - name: Morris, Earle
    totals:
     - event: Brier
@@ -2098,6 +2794,34 @@ vs:
       year: 1992
       draw: Round Robin(3)
       score: SK 6 - NL 5
+ - name: Pacquin, Rolland
+   totals:
+    - event: Brier
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(1)
+      score: QC 6 - NL 4
  - name: Park, Kevin
    totals:
     - event: Brier
@@ -2494,6 +3218,34 @@ vs:
       year: 1985
       draw: Round Robin(4)
       score: BC 8 - NL 5
+ - name: Riley, Mike
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 71
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 71
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1984
+      draw: Round Robin(3)
+      score: NL 7 - MB 4
  - name: Robertson, Brad
    totals:
     - event: Brier
@@ -2606,6 +3358,34 @@ vs:
       year: 1985
       draw: Round Robin(5)
       score: NL 6 - AB 11
+ - name: Savage, Paul
+   totals:
+    - event: Brier
+      player1:
+        percent: 46
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 46
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(8)
+      score: ON 8 - NL 5
  - name: Schneider, Jamie
    totals:
     - event: Brier
@@ -2746,18 +3526,62 @@ vs:
       year: 1992
       draw: Round Robin(3)
       score: SK 6 - NL 5
+ - name: Sparkes, Bernie
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 57
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 57
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1984
+      draw: Round Robin(11)
+      score: BC 6 - NL 9
  - name: Strain, Bill
    totals:
     - event: Brier
       player1:
-        percent: 74
+        percent: 68
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 81
-        wins: 1
+        percent: 79
+        wins: 2
         losses: 0
    games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'TR'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(15)
+      score: NL 4 - TR 8
     - player1:
         team: 'NL'
         position: Third
@@ -2858,6 +3682,34 @@ vs:
       year: 1985
       draw: Round Robin(1)
       score: NB 10 - NL 6
+ - name: Syme, Brent
+   totals:
+    - event: Brier
+      player1:
+        percent: 56
+        wins: 0
+        losses: 1
+      player2:
+        percent: 77
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 56
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 77
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(10)
+      score: AB 13 - NL 4
  - name: Tetley, Ian
    totals:
     - event: Brier
@@ -2934,14 +3786,30 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 57
-        wins: 1
+        percent: 71
+        wins: 2
         losses: 0
       player2:
-        percent: 63
+        percent: 74
         wins: 0
-        losses: 1
+        losses: 2
    games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Second
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1984
+      draw: Round Robin(11)
+      score: BC 6 - NL 9
     - player1:
         team: 'NL'
         position: Third
@@ -2958,6 +3826,34 @@ vs:
       year: 1992
       draw: Round Robin(10)
       score: NL 8 - BC 6
+ - name: Toews, Brian
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 73
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 73
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1984
+      draw: Round Robin(3)
+      score: NL 7 - MB 4
  - name: Trenchie, Gord
    totals:
     - event: Brier
@@ -3042,6 +3938,34 @@ vs:
       year: 1992
       draw: Round Robin(6)
       score: NL 7 - TR 6
+ - name: Victor, Mark
+   totals:
+    - event: Brier
+      player1:
+        percent: 55
+        wins: 0
+        losses: 1
+      player2:
+        percent: 64
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 55
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 64
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(4)
+      score: NL 5 - PE 6
  - name: Walchuk, Don
    totals:
     - event: Brier
@@ -3174,14 +4098,30 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 86
+        percent: 65
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 92
-        wins: 1
+        percent: 81
+        wins: 2
         losses: 0
    games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 46
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 71
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(8)
+      score: ON 8 - NL 5
     - player1:
         team: 'NL'
         position: Third
@@ -3254,4 +4194,60 @@ vs:
       year: 1990
       draw: Round Robin(13)
       score: MB 4 - NL 6
+ - name: Wookey, Russ
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1984
+      draw: Round Robin(3)
+      score: NL 7 - MB 4
+ - name: Zimmer, Jerry
+   totals:
+    - event: Brier
+      player1:
+        percent: 64
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(7)
+      score: NL 1 - SK 10
 ---

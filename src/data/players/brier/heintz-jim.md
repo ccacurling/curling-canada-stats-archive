@@ -7,6 +7,16 @@ totals:
    games: 11
    wins: 6
    losses: 5
+   inturn-total: 44
+   inturn-percent: 72
+   outturn-total: 156
+   outturn-percent: 76
+   draw-total: 101
+   draw-percent: 70
+   takeout-total: 99
+   takeout-percent: 81
+   shots-total: 200
+   shots-percent: 75
 years:
  - year: 1984
    event: Brier
@@ -15,6 +25,16 @@ years:
    games: 11
    wins: 6
    losses: 5
+   inturn-total: 44
+   inturn-percent: 72
+   outturn-total: 156
+   outturn-percent: 76
+   draw-total: 101
+   draw-percent: 70
+   takeout-total: 99
+   takeout-percent: 81
+   shots-total: 200
+   shots-percent: 75
 vs:
  - Allan, John
  - Belyea, Richard

@@ -7,16 +7,16 @@ totals:
    games: 34
    wins: 19
    losses: 15
-   inturn-total: 89
-   inturn-percent: 88
-   outturn-total: 349
-   outturn-percent: 83
-   draw-total: 236
-   draw-percent: 86
-   takeout-total: 202
-   takeout-percent: 81
-   shots-total: 438
-   shots-percent: 84
+   inturn-total: 142
+   inturn-percent: 83
+   outturn-total: 508
+   outturn-percent: 81
+   draw-total: 339
+   draw-percent: 84
+   takeout-total: 311
+   takeout-percent: 80
+   shots-total: 650
+   shots-percent: 82
 years:
  - year: 1983
    event: Brier
@@ -25,6 +25,16 @@ years:
    games: 11
    wins: 5
    losses: 6
+   inturn-total: 53
+   inturn-percent: 75
+   outturn-total: 159
+   outturn-percent: 78
+   draw-total: 103
+   draw-percent: 78
+   takeout-total: 109
+   takeout-percent: 77
+   shots-total: 212
+   shots-percent: 77
  - year: 1991
    event: Brier
    team: "SK"

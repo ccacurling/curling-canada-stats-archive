@@ -7,6 +7,16 @@ totals:
    games: 11
    wins: 6
    losses: 5
+   inturn-total: 112
+   inturn-percent: 61
+   outturn-total: 104
+   outturn-percent: 76
+   draw-total: 99
+   draw-percent: 62
+   takeout-total: 117
+   takeout-percent: 73
+   shots-total: 216
+   shots-percent: 68
 years:
  - year: 1984
    event: Brier
@@ -15,6 +25,16 @@ years:
    games: 11
    wins: 6
    losses: 5
+   inturn-total: 112
+   inturn-percent: 61
+   outturn-total: 104
+   outturn-percent: 76
+   draw-total: 99
+   draw-percent: 62
+   takeout-total: 117
+   takeout-percent: 73
+   shots-total: 216
+   shots-percent: 68
 vs:
  - Allan, John
  - Armstrong, Jim

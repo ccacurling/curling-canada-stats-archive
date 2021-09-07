@@ -7,15 +7,15 @@ totals:
    games: 65
    wins: 48
    losses: 17
-   inturn-total: 226
-   inturn-percent: 78
-   outturn-total: 467
+   inturn-total: 393
+   inturn-percent: 77
+   outturn-total: 835
    outturn-percent: 82
-   draw-total: 258
+   draw-total: 477
    draw-percent: 76
-   takeout-total: 435
+   takeout-total: 751
    takeout-percent: 84
-   shots-total: 693
+   shots-total: 1228
    shots-percent: 81
 years:
  - year: 1983
@@ -25,6 +25,16 @@ years:
    games: 13
    wins: 12
    losses: 1
+   inturn-total: 66
+   inturn-percent: 81
+   outturn-total: 179
+   outturn-percent: 85
+   draw-total: 88
+   draw-percent: 81
+   takeout-total: 157
+   takeout-percent: 86
+   shots-total: 245
+   shots-percent: 84
  - year: 1984
    event: Brier
    team: "ON"
@@ -32,6 +42,16 @@ years:
    games: 15
    wins: 10
    losses: 5
+   inturn-total: 101
+   inturn-percent: 72
+   outturn-total: 189
+   outturn-percent: 80
+   draw-total: 131
+   draw-percent: 72
+   takeout-total: 159
+   takeout-percent: 81
+   shots-total: 290
+   shots-percent: 77
  - year: 1988
    event: Brier
    team: "ON"
@@ -194,6 +214,7 @@ vs:
  - MacDonald, Ken
  - MacDonald, Robert
  - MacDonald, Ronald
+ - MacEachern, Keith
  - MacFadyen, Bill
  - MacFadyen, Ted
  - MacFarlane, John
@@ -272,7 +293,6 @@ vs:
  - Toews, Brian
  - Tremblay, Roderigue
  - Vautour, Joseph
- - Victor, Mark
  - Walchuk, Don
  - Wallace, Dave
  - Westphal, Don

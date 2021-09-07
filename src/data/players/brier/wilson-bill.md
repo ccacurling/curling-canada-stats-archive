@@ -7,6 +7,16 @@ totals:
    games: 14
    wins: 9
    losses: 5
+   inturn-total: 96
+   inturn-percent: 71
+   outturn-total: 170
+   outturn-percent: 74
+   draw-total: 137
+   draw-percent: 72
+   takeout-total: 129
+   takeout-percent: 74
+   shots-total: 266
+   shots-percent: 73
 years:
  - year: 1981
    event: Brier
@@ -15,6 +25,16 @@ years:
    games: 14
    wins: 9
    losses: 5
+   inturn-total: 96
+   inturn-percent: 71
+   outturn-total: 170
+   outturn-percent: 74
+   draw-total: 137
+   draw-percent: 72
+   takeout-total: 129
+   takeout-percent: 74
+   shots-total: 266
+   shots-percent: 73
 vs:
  - Allan, John
  - Burtnyk, Kerry

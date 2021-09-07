@@ -7,6 +7,16 @@ totals:
    games: 11
    wins: 3
    losses: 8
+   inturn-total: 133
+   inturn-percent: 72
+   outturn-total: 85
+   outturn-percent: 80
+   draw-total: 103
+   draw-percent: 73
+   takeout-total: 115
+   takeout-percent: 77
+   shots-total: 218
+   shots-percent: 75
 years:
  - year: 1981
    event: Brier
@@ -15,6 +25,16 @@ years:
    games: 11
    wins: 3
    losses: 8
+   inturn-total: 133
+   inturn-percent: 72
+   outturn-total: 85
+   outturn-percent: 80
+   draw-total: 103
+   draw-percent: 73
+   takeout-total: 115
+   takeout-percent: 77
+   shots-total: 218
+   shots-percent: 75
 vs:
  - Berner, Ken
  - Burtnyk, Kerry

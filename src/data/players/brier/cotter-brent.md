@@ -7,6 +7,16 @@ totals:
    games: 11
    wins: 3
    losses: 8
+   inturn-total: 88
+   inturn-percent: 76
+   outturn-total: 121
+   outturn-percent: 75
+   draw-total: 137
+   draw-percent: 78
+   takeout-total: 72
+   takeout-percent: 70
+   shots-total: 209
+   shots-percent: 75
 years:
  - year: 1981
    event: Brier
@@ -15,6 +25,16 @@ years:
    games: 11
    wins: 3
    losses: 8
+   inturn-total: 88
+   inturn-percent: 76
+   outturn-total: 121
+   outturn-percent: 75
+   draw-total: 137
+   draw-percent: 78
+   takeout-total: 72
+   takeout-percent: 70
+   shots-total: 209
+   shots-percent: 75
 vs:
  - Allan, John
  - Berner, Ken

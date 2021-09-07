@@ -230,6 +230,34 @@ vs:
       year: 1994
       draw: Round Robin(9)
       score: NB 5 - BC 3
+ - name: Foss, Wilf
+   totals:
+    - event: Brier
+      player1:
+        percent: 54
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 54
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(13)
+      score: SK 5 - NB 4
  - name: Fowler, Brian
    totals:
     - event: Brier
@@ -442,6 +470,34 @@ vs:
       year: 1989
       draw: Round Robin(15)
       score: NB 3 - TR 8
+ - name: Graham, Dale
+   totals:
+    - event: Brier
+      player1:
+        percent: 54
+        wins: 0
+        losses: 1
+      player2:
+        percent: 94
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 54
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(13)
+      score: SK 5 - NB 4
  - name: Grant, Scott
    totals:
     - event: Brier
@@ -3014,6 +3070,34 @@ vs:
       year: 1989
       draw: Round Robin(2)
       score: QC 8 - NB 5
+ - name: Zimmer, Jerry
+   totals:
+    - event: Brier
+      player1:
+        percent: 54
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 54
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1984
+      draw: Round Robin(13)
+      score: SK 5 - NB 4
  - name: Ziola, Monte
    totals:
     - event: Brier

@@ -7,24 +7,34 @@ totals:
    games: 32
    wins: 17
    losses: 15
-   inturn-total: 133
-   inturn-percent: 76
-   outturn-total: 254
+   inturn-total: 191
+   inturn-percent: 74
+   outturn-total: 407
    outturn-percent: 79
-   draw-total: 176
+   draw-total: 250
    draw-percent: 75
-   takeout-total: 211
-   takeout-percent: 81
-   shots-total: 387
-   shots-percent: 78
+   takeout-total: 348
+   takeout-percent: 79
+   shots-total: 598
+   shots-percent: 77
 years:
  - year: 1983
    event: Brier
    team: "NO"
-   position: Second
+   position: Third
    games: 11
    wins: 5
    losses: 6
+   inturn-total: 58
+   inturn-percent: 69
+   outturn-total: 153
+   outturn-percent: 78
+   draw-total: 74
+   draw-percent: 73
+   takeout-total: 137
+   takeout-percent: 77
+   shots-total: 211
+   shots-percent: 76
  - year: 1986
    event: Brier
    team: "NO"

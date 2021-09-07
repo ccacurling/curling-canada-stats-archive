@@ -30,6 +30,34 @@ vs:
       year: 1993
       draw: Round Robin(11)
       score: BC 7 - NL 6
+ - name: Savage, Paul
+   totals:
+    - event: Brier
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 82
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Third
+        percent: 82
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1983
+      draw: Round Robin(7)
+      score: NL 4 - ON 8
  - name: Schiewe, Calvin
    totals:
     - event: Brier
@@ -58,6 +86,146 @@ vs:
       year: 1993
       draw: Round Robin(7)
       score: NL 6 - AB 3
+ - name: Sparkes, Bernie
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1983
+      draw: Round Robin(1)
+      score: NL 3 - BC 4
+ - name: Strang, Don
+   totals:
+    - event: Brier
+      player1:
+        percent: 77
+        wins: 1
+        losses: 0
+      player2:
+        percent: 52
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 77
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Fourth
+        percent: 52
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1983
+      draw: Round Robin(8)
+      score: NL 10 - TR 4
+ - name: Sullivan, Charlie
+   totals:
+    - event: Brier
+      player1:
+        percent: 63
+        wins: 0
+        losses: 1
+      player2:
+        percent: 71
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 71
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1983
+      draw: Round Robin(2)
+      score: NB 6 - NL 4
+ - name: Sullivan, Dave
+   totals:
+    - event: Brier
+      player1:
+        percent: 63
+        wins: 0
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 73
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1983
+      draw: Round Robin(2)
+      score: NB 6 - NL 4
+ - name: Syme, Brent
+   totals:
+    - event: Brier
+      player1:
+        percent: 69
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 78
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1983
+      draw: Round Robin(11)
+      score: AB 6 - NL 4
  - name: Tetley, Ross
    totals:
     - event: Brier
@@ -86,6 +254,34 @@ vs:
       year: 1993
       draw: Round Robin(1)
       score: NL 4 - NO 6
+ - name: Werenich, Ed
+   totals:
+    - event: Brier
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 74
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 74
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1983
+      draw: Round Robin(7)
+      score: NL 4 - ON 8
  - name: Westphal, Don
    totals:
     - event: Brier
@@ -142,4 +338,60 @@ vs:
       year: 1993
       draw: Round Robin(17)
       score: NL 8 - SK 5
+ - name: Ziola, Kirk
+   totals:
+    - event: Brier
+      player1:
+        percent: 59
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 59
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1983
+      draw: Round Robin(10)
+      score: NL 3 - SK 10
+ - name: Ziola, Monte
+   totals:
+    - event: Brier
+      player1:
+        percent: 59
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 59
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 84
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1983
+      draw: Round Robin(10)
+      score: NL 3 - SK 10
 ---

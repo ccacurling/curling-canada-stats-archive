@@ -7,16 +7,16 @@ totals:
    games: 22
    wins: 11
    losses: 11
-   inturn-total: 93
-   inturn-percent: 71
-   outturn-total: 102
-   outturn-percent: 80
-   draw-total: 94
-   draw-percent: 76
-   takeout-total: 101
-   takeout-percent: 76
-   shots-total: 195
-   shots-percent: 76
+   inturn-total: 184
+   inturn-percent: 68
+   outturn-total: 218
+   outturn-percent: 72
+   draw-total: 199
+   draw-percent: 68
+   takeout-total: 203
+   takeout-percent: 72
+   shots-total: 402
+   shots-percent: 70
 years:
  - year: 1984
    event: Brier
@@ -25,6 +25,16 @@ years:
    games: 11
    wins: 4
    losses: 7
+   inturn-total: 91
+   inturn-percent: 65
+   outturn-total: 116
+   outturn-percent: 64
+   draw-total: 105
+   draw-percent: 62
+   takeout-total: 102
+   takeout-percent: 67
+   shots-total: 207
+   shots-percent: 64
  - year: 1989
    event: Brier
    team: "NS"
@@ -46,7 +56,6 @@ vs:
  - Adams, Bill
  - Adams, Jim
  - Allan, John
- - Armstrong, Jim
  - Armstrong, Mark
  - Belcourt, Tim
  - Belyea, Richard
@@ -68,6 +77,7 @@ vs:
  - Folk, Rick
  - Foss, Wilf
  - Gardner, Reg
+ - Giles, Brent
  - Giles, Roy
  - Graham, Dale
  - Gretzinger, Bert

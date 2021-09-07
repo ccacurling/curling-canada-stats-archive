@@ -8,7 +8,7 @@ permalink: /about/
 
 This is the official site for player career statistics across Curling Canada events. The initial focus is on Brier and Hearts events, but will hopefully be expanded over time.
 
-Note: There are no detailed statistics available for the Brier from 1981 to 1984.
+Note: There are no detailed statistics available for the 1982 Brier.
 
 If anyone has detailed statistics information from this Brier era, Curling Canada would like to incorporate that into this site. Contact <a href="mailto:bcassidy@curling.ca">bcassidy@curling.ca</a>.
 
@@ -37,6 +37,10 @@ Connie Laliberte
 Dave Thomas
 
 ## Changelog
+
+### 2021-09-07
+
+ * Added stats for 1981, 1983 and 1984 Briers.
 
 ### 2021-03-18
 

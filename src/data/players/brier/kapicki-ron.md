@@ -7,15 +7,15 @@ totals:
    games: 54
    wins: 21
    losses: 33
-   inturn-total: 472
-   inturn-percent: 77
-   outturn-total: 314
+   inturn-total: 561
+   inturn-percent: 76
+   outturn-total: 414
    outturn-percent: 75
-   draw-total: 475
-   draw-percent: 81
-   takeout-total: 311
-   takeout-percent: 68
-   shots-total: 786
+   draw-total: 603
+   draw-percent: 80
+   takeout-total: 372
+   takeout-percent: 69
+   shots-total: 975
    shots-percent: 76
 years:
  - year: 1980
@@ -42,6 +42,16 @@ years:
    games: 11
    wins: 3
    losses: 8
+   inturn-total: 89
+   inturn-percent: 76
+   outturn-total: 100
+   outturn-percent: 75
+   draw-total: 128
+   draw-percent: 76
+   takeout-total: 61
+   takeout-percent: 74
+   shots-total: 189
+   shots-percent: 75
  - year: 1985
    event: Brier
    team: "TR"

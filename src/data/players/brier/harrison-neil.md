@@ -7,16 +7,16 @@ totals:
    games: 77
    wins: 52
    losses: 25
-   inturn-total: 128
-   inturn-percent: 83
-   outturn-total: 537
-   outturn-percent: 86
-   draw-total: 477
-   draw-percent: 86
-   takeout-total: 188
-   takeout-percent: 84
-   shots-total: 665
-   shots-percent: 86
+   inturn-total: 263
+   inturn-percent: 79
+   outturn-total: 1161
+   outturn-percent: 83
+   draw-total: 888
+   draw-percent: 85
+   takeout-total: 536
+   takeout-percent: 79
+   shots-total: 1424
+   shots-percent: 83
 years:
  - year: 1981
    event: Brier
@@ -25,6 +25,16 @@ years:
    games: 12
    wins: 7
    losses: 5
+   inturn-total: 71
+   inturn-percent: 70
+   outturn-total: 171
+   outturn-percent: 78
+   draw-total: 128
+   draw-percent: 74
+   takeout-total: 114
+   takeout-percent: 77
+   shots-total: 242
+   shots-percent: 76
  - year: 1983
    event: Brier
    team: "ON"
@@ -32,6 +42,16 @@ years:
    games: 13
    wins: 12
    losses: 1
+   inturn-total: 20
+   inturn-percent: 86
+   outturn-total: 214
+   outturn-percent: 82
+   draw-total: 112
+   draw-percent: 86
+   takeout-total: 122
+   takeout-percent: 78
+   shots-total: 234
+   shots-percent: 82
  - year: 1984
    event: Brier
    team: "ON"
@@ -39,6 +59,16 @@ years:
    games: 15
    wins: 10
    losses: 5
+   inturn-total: 44
+   inturn-percent: 79
+   outturn-total: 239
+   outturn-percent: 82
+   draw-total: 171
+   draw-percent: 87
+   takeout-total: 112
+   takeout-percent: 74
+   shots-total: 283
+   shots-percent: 82
  - year: 1988
    event: Brier
    team: "ON"
@@ -224,6 +254,7 @@ vs:
  - MacDonald, Robert
  - MacDonald, Rod
  - MacDonald, Ronald
+ - MacEachern, Keith
  - MacFadyen, Bill
  - MacFadyen, Dave
  - MacFadyen, Neil
@@ -314,7 +345,6 @@ vs:
  - Toews, Brian
  - Tremblay, Roderigue
  - Vautour, Joseph
- - Victor, Mark
  - Walchuk, Don
  - Wallace, Dave
  - Watchorn, Mel

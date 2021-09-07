@@ -4,19 +4,19 @@ name: Jim Armstrong
 name-sort: Armstrong, Jim
 totals:
  - event: Brier
-   games: 47
-   wins: 28
-   losses: 19
-   inturn-total: 206
-   inturn-percent: 82
-   outturn-total: 246
+   games: 45
+   wins: 27
+   losses: 18
+   inturn-total: 311
+   inturn-percent: 76
+   outturn-total: 551
    outturn-percent: 79
-   draw-total: 205
-   draw-percent: 82
-   takeout-total: 247
-   takeout-percent: 79
-   shots-total: 452
-   shots-percent: 80
+   draw-total: 374
+   draw-percent: 77
+   takeout-total: 488
+   takeout-percent: 80
+   shots-total: 862
+   shots-percent: 78
 years:
  - year: 1983
    event: Brier
@@ -25,13 +25,33 @@ years:
    games: 12
    wins: 8
    losses: 4
+   inturn-total: 47
+   inturn-percent: 69
+   outturn-total: 195
+   outturn-percent: 82
+   draw-total: 100
+   draw-percent: 74
+   takeout-total: 142
+   takeout-percent: 83
+   shots-total: 242
+   shots-percent: 79
  - year: 1984
    event: Brier
    team: "BC"
    position: Third
-   games: 11
-   wins: 6
-   losses: 5
+   games: 9
+   wins: 5
+   losses: 4
+   inturn-total: 58
+   inturn-percent: 62
+   outturn-total: 110
+   outturn-percent: 76
+   draw-total: 69
+   draw-percent: 64
+   takeout-total: 99
+   takeout-percent: 77
+   shots-total: 168
+   shots-percent: 71
  - year: 1987
    event: Brier
    team: "BC"
@@ -76,14 +96,12 @@ vs:
  - Belcourt, Tim
  - Belyea, Richard
  - Biron, Louis
- - Bryden, Gary
  - Butler, Ted
  - Carey, Dan
  - Carr, Brian
  - Carstairs, Kent
  - Cecil, Denis
  - Chernoff, Mike
- - Clarke, Haylett
  - Coady, Mike
  - Cormier, Robert
  - Corner, Peter
@@ -100,7 +118,6 @@ vs:
  - Ferbey, Randy
  - Ferguson, John
  - Fitzherbert, Brad
- - Foss, Wilf
  - Fowler, Brian
  - Foy, Sandy
  - Fulton, Chris
@@ -108,7 +125,6 @@ vs:
  - Gardner, Reg
  - Giles, Roy
  - Goss, Glenn
- - Graham, Dale
  - Grundy, John
  - Gudereit, Kerry
  - Gunnlaugson, Lloyd
@@ -134,7 +150,6 @@ vs:
  - Jones, Dave
  - Journeaux, Ian
  - Kallos, Jack Jr.
- - Kamp, Ragnar
  - Kapicki, Ron
  - Kawaja, John
  - Kennedy, Bruce
@@ -144,7 +159,6 @@ vs:
  - Krupski, Ray
  - Kyle, Keith
  - Lafleur, Andre
- - Langille, Vic
  - Lauziere, Claude
  - Lawrence, Harry
  - LeCocq, Vance
@@ -163,7 +177,6 @@ vs:
  - Martin, Darrell
  - Martin, Kevin
  - Matheson, Wayne
- - McCarron, Rod
  - McKnight, Gord
  - Middaugh, Wayne
  - Millard, Neil
@@ -216,7 +229,6 @@ vs:
  - Werenich, Ed
  - Wookey, Russ
  - Young, Neil
- - Zimmer, Jerry
  - Ziola, Kirk
  - Ziola, Monte
 ---

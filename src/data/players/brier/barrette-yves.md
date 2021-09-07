@@ -7,6 +7,16 @@ totals:
    games: 11
    wins: 6
    losses: 5
+   inturn-total: 87
+   inturn-percent: 76
+   outturn-total: 102
+   outturn-percent: 74
+   draw-total: 124
+   draw-percent: 80
+   takeout-total: 65
+   takeout-percent: 65
+   shots-total: 189
+   shots-percent: 75
 years:
  - year: 1983
    event: Brier
@@ -15,6 +25,16 @@ years:
    games: 11
    wins: 6
    losses: 5
+   inturn-total: 87
+   inturn-percent: 76
+   outturn-total: 102
+   outturn-percent: 74
+   draw-total: 124
+   draw-percent: 80
+   takeout-total: 65
+   takeout-percent: 65
+   shots-total: 189
+   shots-percent: 75
 vs:
  - Armstrong, Jim
  - Bauer, Keiven

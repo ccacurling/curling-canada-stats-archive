@@ -7,6 +7,16 @@ totals:
    games: 11
    wins: 3
    losses: 8
+   inturn-total: 112
+   inturn-percent: 73
+   outturn-total: 91
+   outturn-percent: 69
+   draw-total: 114
+   draw-percent: 71
+   takeout-total: 89
+   takeout-percent: 71
+   shots-total: 203
+   shots-percent: 71
 years:
  - year: 1983
    event: Brier
@@ -15,6 +25,16 @@ years:
    games: 11
    wins: 3
    losses: 8
+   inturn-total: 112
+   inturn-percent: 73
+   outturn-total: 91
+   outturn-percent: 69
+   draw-total: 114
+   draw-percent: 71
+   takeout-total: 89
+   takeout-percent: 71
+   shots-total: 203
+   shots-percent: 71
 vs:
  - Armstrong, Jim
  - Barrette, Yves

@@ -7,16 +7,16 @@ totals:
    games: 40
    wins: 30
    losses: 10
-   inturn-total: 109
-   inturn-percent: 79
-   outturn-total: 109
-   outturn-percent: 75
-   draw-total: 107
+   inturn-total: 458
+   inturn-percent: 80
+   outturn-total: 294
+   outturn-percent: 77
+   draw-total: 335
    draw-percent: 75
-   takeout-total: 111
-   takeout-percent: 78
-   shots-total: 218
-   shots-percent: 77
+   takeout-total: 417
+   takeout-percent: 82
+   shots-total: 752
+   shots-percent: 79
 years:
  - year: 1983
    event: Brier
@@ -25,6 +25,16 @@ years:
    games: 13
    wins: 12
    losses: 1
+   inturn-total: 162
+   inturn-percent: 81
+   outturn-total: 84
+   outturn-percent: 85
+   draw-total: 103
+   draw-percent: 77
+   takeout-total: 143
+   takeout-percent: 85
+   shots-total: 246
+   shots-percent: 82
  - year: 1984
    event: Brier
    team: "ON"
@@ -32,6 +42,16 @@ years:
    games: 15
    wins: 10
    losses: 5
+   inturn-total: 187
+   inturn-percent: 81
+   outturn-total: 101
+   outturn-percent: 72
+   draw-total: 125
+   draw-percent: 72
+   takeout-total: 163
+   takeout-percent: 82
+   shots-total: 288
+   shots-percent: 78
  - year: 1988
    event: Brier
    team: "ON"
@@ -119,6 +139,7 @@ vs:
  - MacDonald, Ken
  - MacDonald, Robert
  - MacDonald, Ronald
+ - MacEachern, Keith
  - MacFadyen, Bill
  - MacFadyen, Dave
  - MacFadyen, Neil
@@ -167,7 +188,6 @@ vs:
  - Thomas, Ken
  - Thompson, Ron
  - Toews, Brian
- - Victor, Mark
  - Walchuk, Don
  - Wallace, Dave
  - Wookey, Russ

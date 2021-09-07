@@ -7,6 +7,16 @@ totals:
    games: 12
    wins: 8
    losses: 4
+   inturn-total: 60
+   inturn-percent: 69
+   outturn-total: 182
+   outturn-percent: 77
+   draw-total: 111
+   draw-percent: 74
+   takeout-total: 131
+   takeout-percent: 76
+   shots-total: 242
+   shots-percent: 75
 years:
  - year: 1983
    event: Brier
@@ -15,6 +25,16 @@ years:
    games: 12
    wins: 8
    losses: 4
+   inturn-total: 60
+   inturn-percent: 69
+   outturn-total: 182
+   outturn-percent: 77
+   draw-total: 111
+   draw-percent: 74
+   takeout-total: 131
+   takeout-percent: 76
+   shots-total: 242
+   shots-percent: 75
 vs:
  - Barrette, Yves
  - Cecil, Denis

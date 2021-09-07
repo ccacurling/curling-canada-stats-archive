@@ -7,6 +7,16 @@ totals:
    games: 11
    wins: 4
    losses: 7
+   inturn-total: 90
+   inturn-percent: 73
+   outturn-total: 119
+   outturn-percent: 72
+   draw-total: 103
+   draw-percent: 73
+   takeout-total: 106
+   takeout-percent: 72
+   shots-total: 209
+   shots-percent: 73
 years:
  - year: 1984
    event: Brier
@@ -15,9 +25,18 @@ years:
    games: 11
    wins: 4
    losses: 7
+   inturn-total: 90
+   inturn-percent: 73
+   outturn-total: 119
+   outturn-percent: 72
+   draw-total: 103
+   draw-percent: 73
+   takeout-total: 106
+   takeout-percent: 72
+   shots-total: 209
+   shots-percent: 73
 vs:
  - Allan, John
- - Armstrong, Jim
  - Belyea, Richard
  - Bryden, Gary
  - Carr, Brian
@@ -28,6 +47,7 @@ vs:
  - Ferguson, John
  - Foss, Wilf
  - Gardner, Reg
+ - Giles, Brent
  - Giles, Roy
  - Graham, Dale
  - Harrison, Neil

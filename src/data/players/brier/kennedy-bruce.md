@@ -7,16 +7,16 @@ totals:
    games: 48
    wins: 32
    losses: 16
-   inturn-total: 285
-   inturn-percent: 75
-   outturn-total: 150
+   inturn-total: 440
+   inturn-percent: 77
+   outturn-total: 226
    outturn-percent: 75
-   draw-total: 282
-   draw-percent: 78
-   takeout-total: 153
-   takeout-percent: 68
-   shots-total: 435
-   shots-percent: 75
+   draw-total: 422
+   draw-percent: 79
+   takeout-total: 244
+   takeout-percent: 71
+   shots-total: 666
+   shots-percent: 76
 years:
  - year: 1980
    event: Brier
@@ -42,6 +42,16 @@ years:
    games: 12
    wins: 9
    losses: 3
+   inturn-total: 155
+   inturn-percent: 80
+   outturn-total: 76
+   outturn-percent: 77
+   draw-total: 140
+   draw-percent: 82
+   takeout-total: 91
+   takeout-percent: 76
+   shots-total: 231
+   shots-percent: 79
  - year: 1982
    event: Brier
    team: "NO"

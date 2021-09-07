@@ -4,24 +4,37 @@ name: Brian Dobson
 name-sort: Dobson, Brian
 totals:
  - event: Brier
-   games: 33
+   games: 34
    wins: 13
-   losses: 20
-   inturn-total: 328
+   losses: 21
+   inturn-total: 342
    inturn-percent: 75
-   outturn-total: 308
-   outturn-percent: 80
-   draw-total: 298
-   draw-percent: 76
-   takeout-total: 338
+   outturn-total: 314
+   outturn-percent: 79
+   draw-total: 309
+   draw-percent: 75
+   takeout-total: 347
    takeout-percent: 78
-   shots-total: 636
+   shots-total: 656
    shots-percent: 77
 years:
  - year: 1984
    event: Brier
    team: "NB"
-   position: Alternate
+   position: Lead
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 14
+   inturn-percent: 68
+   outturn-total: 6
+   outturn-percent: 21
+   draw-total: 11
+   draw-percent: 45
+   takeout-total: 9
+   takeout-percent: 64
+   shots-total: 20
+   shots-percent: 54
  - year: 1987
    event: Brier
    team: "NB"
@@ -87,6 +100,7 @@ vs:
  - Belcourt, Tim
  - Bisson, Richard
  - Brophy, Marc
+ - Bryden, Gary
  - Carstairs, Kent
  - Charette, Pierre
  - Coady, Mike
@@ -99,6 +113,7 @@ vs:
  - Feldman, Alfred
  - Ferbey, Randy
  - Folk, Rick
+ - Foss, Wilf
  - Fowler, Brian
  - Foy, Sandy
  - Fulton, Chris
@@ -106,6 +121,7 @@ vs:
  - Gaudet, Mike
  - Gervais, Martin
  - Giles, Roy
+ - Graham, Dale
  - Grant, Scott
  - Gretzinger, Bert
  - Hackner, Al
@@ -191,5 +207,6 @@ vs:
  - Weeks, Doug
  - Wempe, Brian
  - Westphal, Don
+ - Zimmer, Jerry
  - Ziola, Monte
 ---

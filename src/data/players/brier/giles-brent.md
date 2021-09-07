@@ -4,9 +4,19 @@ name: Brent Giles
 name-sort: Giles, Brent
 totals:
  - event: Brier
-   games: 12
-   wins: 9
-   losses: 3
+   games: 14
+   wins: 10
+   losses: 4
+   inturn-total: 14
+   inturn-percent: 48
+   outturn-total: 26
+   outturn-percent: 80
+   draw-total: 18
+   draw-percent: 71
+   takeout-total: 22
+   takeout-percent: 67
+   shots-total: 40
+   shots-percent: 69
 years:
  - year: 1982
    event: Brier
@@ -18,7 +28,20 @@ years:
  - year: 1984
    event: Brier
    team: "BC"
-   position: Alternate
+   position: Third
+   games: 2
+   wins: 1
+   losses: 1
+   inturn-total: 14
+   inturn-percent: 48
+   outturn-total: 26
+   outturn-percent: 80
+   draw-total: 18
+   draw-percent: 71
+   takeout-total: 22
+   takeout-percent: 67
+   shots-total: 40
+   shots-percent: 69
  - year: 1990
    event: Brier
    team: "BC"
@@ -29,25 +52,32 @@ vs:
  - Aucoin, Gabriel
  - Birnie, Ross
  - Bowden, Clive
+ - Bryden, Gary
  - Charteris, Wayne
+ - Clarke, Haylett
  - Cormier, Robert
+ - Foss, Wilf
  - Gallant, Peter
  - Goulden, Lowell
  - Graber, Dennis
+ - Graham, Dale
  - Granger, Allan
  - Gummer, Murray
  - Hackner, Al
  - Heidt, Brad
  - Hunter, Paul
  - Jenkins, Peter
+ - Kamp, Ragnar
  - Kennedy, Bruce
  - Laidlaw, Bob
  - Lang, Lloyd
  - Lang, Rick
+ - Langille, Vic
  - Logan, Mel
  - MacArthur, Bruce
  - MacPhee, Peter
  - Maksymetz, Richard
+ - McCarron, Rod
  - Morkin, Gary
  - Morris, Earle
  - Munro, Bruce
@@ -68,4 +98,5 @@ vs:
  - Wheeler, John
  - Whetter, John
  - Yeulet, John
+ - Zimmer, Jerry
 ---

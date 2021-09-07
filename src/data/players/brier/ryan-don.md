@@ -7,24 +7,67 @@ totals:
    games: 22
    wins: 6
    losses: 16
-   inturn-total: 116
-   inturn-percent: 65
-   outturn-total: 106
-   outturn-percent: 72
-   draw-total: 107
-   draw-percent: 68
-   takeout-total: 115
-   takeout-percent: 69
-   shots-total: 222
+   inturn-total: 209
+   inturn-percent: 66
+   outturn-total: 217
+   outturn-percent: 71
+   draw-total: 200
+   draw-percent: 64
+   takeout-total: 226
+   takeout-percent: 72
+   shots-total: 426
    shots-percent: 68
 years:
  - year: 1983
    event: Brier
    team: "NL"
    position: Third
+   games: 10
+   wins: 1
+   losses: 9
+   inturn-total: 89
+   inturn-percent: 69
+   outturn-total: 97
+   outturn-percent: 71
+   draw-total: 80
+   draw-percent: 63
+   takeout-total: 106
+   takeout-percent: 75
+   shots-total: 186
+   shots-percent: 70
+ - year: 1983
+   event: Brier
+   team: "NL"
+   position: Fourth
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 4
+   inturn-percent: 19
+   outturn-total: 14
+   outturn-percent: 57
+   draw-total: 13
+   draw-percent: 40
+   takeout-total: 5
+   takeout-percent: 70
+   shots-total: 18
+   shots-percent: 49
+ - year: 1983
+   event: Brier
+   team: Totals
    games: 11
    wins: 1
    losses: 10
+   inturn-total: 93
+   inturn-percent: 67
+   outturn-total: 111
+   outturn-percent: 69
+   draw-total: 93
+   draw-percent: 60
+   takeout-total: 111
+   takeout-percent: 75
+   shots-total: 204
+   shots-percent: 68
  - year: 1993
    event: Brier
    team: "NL"

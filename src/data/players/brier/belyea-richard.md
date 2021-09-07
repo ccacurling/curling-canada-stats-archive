@@ -7,16 +7,16 @@ totals:
    games: 23
    wins: 10
    losses: 13
-   inturn-total: 85
-   inturn-percent: 70
-   outturn-total: 119
-   outturn-percent: 64
-   draw-total: 97
-   draw-percent: 59
-   takeout-total: 107
+   inturn-total: 194
+   inturn-percent: 68
+   outturn-total: 233
+   outturn-percent: 69
+   draw-total: 209
+   draw-percent: 63
+   takeout-total: 218
    takeout-percent: 74
-   shots-total: 204
-   shots-percent: 67
+   shots-total: 427
+   shots-percent: 69
 years:
  - year: 1980
    event: Brier
@@ -42,6 +42,16 @@ years:
    games: 12
    wins: 7
    losses: 5
+   inturn-total: 109
+   inturn-percent: 67
+   outturn-total: 114
+   outturn-percent: 74
+   draw-total: 112
+   draw-percent: 67
+   takeout-total: 111
+   takeout-percent: 74
+   shots-total: 223
+   shots-percent: 71
 vs:
  - Aitken, Don
  - Allan, John

@@ -7,6 +7,16 @@ totals:
    games: 12
    wins: 7
    losses: 5
+   inturn-total: 110
+   inturn-percent: 73
+   outturn-total: 111
+   outturn-percent: 73
+   draw-total: 97
+   draw-percent: 64
+   takeout-total: 124
+   takeout-percent: 80
+   shots-total: 221
+   shots-percent: 73
 years:
  - year: 1984
    event: Brier
@@ -15,18 +25,29 @@ years:
    games: 12
    wins: 7
    losses: 5
+   inturn-total: 110
+   inturn-percent: 73
+   outturn-total: 111
+   outturn-percent: 73
+   draw-total: 97
+   draw-percent: 64
+   takeout-total: 124
+   takeout-percent: 80
+   shots-total: 221
+   shots-percent: 73
 vs:
  - Allan, John
- - Armstrong, Jim
  - Belyea, Richard
  - Carr, Brian
  - Clarke, Haylett
  - Cunningham, Geoff
  - Delmage, Al
  - Dobson, Arnie
+ - Dobson, Brian
  - Dobson, Michael
  - Ferguson, John
  - Gardner, Reg
+ - Giles, Brent
  - Giles, Roy
  - Harrison, Neil
  - Heintz, Jim
@@ -42,11 +63,11 @@ vs:
  - Lukowich, Ed
  - MacDonald, Ken
  - MacDonald, Ronald
+ - MacEachern, Keith
  - Matheson, Wayne
  - McCarron, Rod
  - McKnight, Gord
  - Millard, Neil
- - Moore, Claude
  - Pacquin, Rolland
  - Riley, Mike
  - Savage, Paul
@@ -56,7 +77,6 @@ vs:
  - Thomas, Jeff
  - Thompson, Ron
  - Toews, Brian
- - Victor, Mark
  - Werenich, Ed
  - Wookey, Russ
  - Young, Neil

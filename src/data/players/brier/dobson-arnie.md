@@ -7,6 +7,16 @@ totals:
    games: 12
    wins: 7
    losses: 5
+   inturn-total: 114
+   inturn-percent: 73
+   outturn-total: 107
+   outturn-percent: 68
+   draw-total: 130
+   draw-percent: 65
+   takeout-total: 91
+   takeout-percent: 78
+   shots-total: 221
+   shots-percent: 70
 years:
  - year: 1984
    event: Brier
@@ -15,6 +25,16 @@ years:
    games: 12
    wins: 7
    losses: 5
+   inturn-total: 114
+   inturn-percent: 73
+   outturn-total: 107
+   outturn-percent: 68
+   draw-total: 130
+   draw-percent: 65
+   takeout-total: 91
+   takeout-percent: 78
+   shots-total: 221
+   shots-percent: 70
  - year: 1987
    event: Brier
    team: "NB"

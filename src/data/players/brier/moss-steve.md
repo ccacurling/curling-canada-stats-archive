@@ -7,15 +7,15 @@ totals:
    games: 55
    wins: 9
    losses: 46
-   inturn-total: 431
-   inturn-percent: 72
-   outturn-total: 391
+   inturn-total: 556
+   inturn-percent: 71
+   outturn-total: 478
    outturn-percent: 71
-   draw-total: 426
+   draw-total: 524
    draw-percent: 71
-   takeout-total: 396
-   takeout-percent: 72
-   shots-total: 822
+   takeout-total: 510
+   takeout-percent: 71
+   shots-total: 1034
    shots-percent: 71
 years:
  - year: 1983
@@ -25,6 +25,16 @@ years:
    games: 11
    wins: 3
    losses: 8
+   inturn-total: 125
+   inturn-percent: 70
+   outturn-total: 87
+   outturn-percent: 70
+   draw-total: 98
+   draw-percent: 72
+   takeout-total: 114
+   takeout-percent: 68
+   shots-total: 212
+   shots-percent: 70
  - year: 1992
    event: Brier
    team: "TR"

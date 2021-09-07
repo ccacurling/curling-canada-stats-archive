@@ -7,16 +7,16 @@ totals:
    games: 23
    wins: 15
    losses: 8
-   inturn-total: 116
+   inturn-total: 234
    inturn-percent: 78
-   outturn-total: 92
-   outturn-percent: 70
-   draw-total: 96
-   draw-percent: 74
-   takeout-total: 112
-   takeout-percent: 75
-   shots-total: 208
-   shots-percent: 74
+   outturn-total: 194
+   outturn-percent: 72
+   draw-total: 188
+   draw-percent: 72
+   takeout-total: 240
+   takeout-percent: 78
+   shots-total: 428
+   shots-percent: 75
 years:
  - year: 1984
    event: Brier
@@ -25,6 +25,16 @@ years:
    games: 12
    wins: 9
    losses: 3
+   inturn-total: 118
+   inturn-percent: 78
+   outturn-total: 102
+   outturn-percent: 74
+   draw-total: 92
+   draw-percent: 70
+   takeout-total: 128
+   takeout-percent: 80
+   shots-total: 220
+   shots-percent: 76
  - year: 1986
    event: Brier
    team: "MB"

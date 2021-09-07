@@ -4,22 +4,41 @@ name: Mark Victor
 name-sort: Victor, Mark
 totals:
  - event: Brier
-   games: 11
+   games: 9
    wins: 4
-   losses: 7
+   losses: 5
+   inturn-total: 47
+   inturn-percent: 77
+   outturn-total: 122
+   outturn-percent: 73
+   draw-total: 88
+   draw-percent: 72
+   takeout-total: 81
+   takeout-percent: 76
+   shots-total: 169
+   shots-percent: 74
 years:
  - year: 1984
    event: Brier
    team: "PE"
    position: Lead
-   games: 11
+   games: 9
    wins: 4
-   losses: 7
+   losses: 5
+   inturn-total: 47
+   inturn-percent: 77
+   outturn-total: 122
+   outturn-percent: 73
+   draw-total: 88
+   draw-percent: 72
+   takeout-total: 81
+   takeout-percent: 76
+   shots-total: 169
+   shots-percent: 74
 vs:
  - Allan, John
  - Armstrong, Jim
  - Belyea, Richard
- - Bryden, Gary
  - Carr, Brian
  - Clarke, Haylett
  - Cunningham, Geoff
@@ -27,11 +46,8 @@ vs:
  - Dobson, Arnie
  - Dobson, Michael
  - Ferguson, John
- - Foss, Wilf
  - Gardner, Reg
  - Giles, Roy
- - Graham, Dale
- - Harrison, Neil
  - Heintz, Jim
  - Helston, John
  - Hinks, Geoffrey
@@ -39,7 +55,6 @@ vs:
  - Johnston, Bill
  - Kamp, Ragnar
  - Kapicki, Ron
- - Kawaja, John
  - Langille, Vic
  - Lukowich, Ed
  - MacDonald, Ronald
@@ -49,15 +64,12 @@ vs:
  - Moore, Claude
  - Pacquin, Rolland
  - Riley, Mike
- - Savage, Paul
  - Sparkes, Bernie
  - Strain, Bill
  - Syme, Brent
  - Thomas, Jeff
  - Thompson, Ron
  - Toews, Brian
- - Werenich, Ed
  - Wookey, Russ
  - Young, Neil
- - Zimmer, Jerry
 ---

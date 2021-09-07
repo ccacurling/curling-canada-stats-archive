@@ -4,30 +4,47 @@ name: Claude Moore
 name-sort: Moore, Claude
 totals:
  - event: Brier
-   games: 12
+   games: 11
    wins: 7
-   losses: 5
+   losses: 4
+   inturn-total: 90
+   inturn-percent: 74
+   outturn-total: 106
+   outturn-percent: 72
+   draw-total: 113
+   draw-percent: 76
+   takeout-total: 83
+   takeout-percent: 69
+   shots-total: 196
+   shots-percent: 73
 years:
  - year: 1984
    event: Brier
    team: "NB"
    position: Lead
-   games: 12
+   games: 11
    wins: 7
-   losses: 5
+   losses: 4
+   inturn-total: 90
+   inturn-percent: 74
+   outturn-total: 106
+   outturn-percent: 72
+   draw-total: 113
+   draw-percent: 76
+   takeout-total: 83
+   takeout-percent: 69
+   shots-total: 196
+   shots-percent: 73
 vs:
  - Allan, John
  - Armstrong, Jim
- - Bryden, Gary
  - Carr, Brian
  - Clarke, Haylett
  - Cunningham, Geoff
  - Delmage, Al
  - Ferguson, John
- - Foss, Wilf
  - Gardner, Reg
  - Giles, Roy
- - Graham, Dale
  - Harrison, Neil
  - Heintz, Jim
  - Helston, John
@@ -59,5 +76,4 @@ vs:
  - Werenich, Ed
  - Wookey, Russ
  - Young, Neil
- - Zimmer, Jerry
 ---
