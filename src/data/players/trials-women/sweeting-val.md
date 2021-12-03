@@ -4,19 +4,19 @@ name: Val Sweeting
 name-sort: Sweeting, Val
 totals:
  - event: Trials (Women)
-   games: 15
-   wins: 7
-   losses: 8
-   inturn-total: 152
-   inturn-percent: 77
-   outturn-total: 141
-   outturn-percent: 81
-   draw-total: 132
-   draw-percent: 74
-   takeout-total: 161
-   takeout-percent: 83
-   shots-total: 293
-   shots-percent: 79
+   games: 25
+   wins: 12
+   losses: 13
+   inturn-total: 251
+   inturn-percent: 78
+   outturn-total: 240
+   outturn-percent: 83
+   draw-total: 196
+   draw-percent: 76
+   takeout-total: 295
+   takeout-percent: 84
+   shots-total: 491
+   shots-percent: 81
 years:
  - year: 2013
    event: Trials (Women)
@@ -52,19 +52,43 @@ years:
    takeout-percent: 80
    shots-total: 154
    shots-percent: 77
+ - year: 2021
+   event: Trials (Women)
+   team: "Eina"
+   position: Third
+   games: 10
+   wins: 5
+   losses: 5
+   inturn-total: 99
+   inturn-percent: 81
+   outturn-total: 99
+   outturn-percent: 86
+   draw-total: 64
+   draw-percent: 80
+   takeout-total: 134
+   takeout-percent: 85
+   shots-total: 198
+   shots-percent: 84
 vs:
  - Anderson, Sherry
  - Armstrong, Leigh
  - Bobbie, Tess
+ - Brown, Rachel
  - Cameron, Kate
  - Carey, Chelsea
  - Court, Morgan
  - Courtney, Joanne
  - Duhaime, Chantal
  - Englot, Michelle
+ - Ferguson, Dana
  - Flaxey, Allison
+ - Fleury, Tracy
  - Foster, Kristen
+ - Fyfe, Liz
  - Grandy, Clancy
+ - Harrison, Jacqueline
+ - Haughian, Jessie
+ - Hickey, Laura
  - Homan, Rachel
  - Iskiw, Beth
  - Jones, Jennifer
@@ -74,10 +98,12 @@ vs:
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
+ - MacCuish, Kristin
  - MacDonald, Lawnie
  - Mair, Jessica
  - McCarville, Krista
  - McDonald, Kristy
+ - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Merklinger, Lee
@@ -85,22 +111,29 @@ vs:
  - Miskew, Emma
  - Moore, Kristie
  - Nedohin, Heather
+ - Njegovan, Selena
  - Officer, Jill
  - Overton-Clapham, Cathy
  - Pasika, Rona
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pincott, Erin
  - Potts, Sarah
  - Rizzo, Jo-Ann
+ - Rocque, Kelsey
  - Scheidegger, Casey
  - Scheidegger, Jessie
+ - Schmiemann, Danielle
+ - Scotland, Nadine
  - Singler, Sherri
  - Sippala, Ashley
  - Sonnenberg, Renee
  - Tippin, Julie
  - Titheridge, Lindsay
  - Vink, Rachelle
+ - Walker, Laura
  - Weagle, Lisa
  - Westcott, Raunora
+ - Wilkes, Sarah
  - Wilson, Leslie
 ---

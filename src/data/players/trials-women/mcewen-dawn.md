@@ -4,19 +4,19 @@ name: Dawn McEwen
 name-sort: McEwen, Dawn
 totals:
  - event: Trials (Women)
-   games: 24
-   wins: 14
-   losses: 10
-   inturn-total: 285
+   games: 33
+   wins: 20
+   losses: 13
+   inturn-total: 420
    inturn-percent: 91
-   outturn-total: 162
-   outturn-percent: 89
-   draw-total: 397
+   outturn-total: 203
+   outturn-percent: 90
+   draw-total: 552
    draw-percent: 92
-   takeout-total: 50
-   takeout-percent: 77
-   shots-total: 447
-   shots-percent: 90
+   takeout-total: 71
+   takeout-percent: 80
+   shots-total: 623
+   shots-percent: 91
 years:
  - year: 2009
    event: Trials (Women)
@@ -69,12 +69,30 @@ years:
    takeout-percent: 63
    shots-total: 167
    shots-percent: 92
+ - year: 2021
+   event: Trials (Women)
+   team: "Jone"
+   position: Lead
+   games: 9
+   wins: 6
+   losses: 3
+   inturn-total: 135
+   inturn-percent: 90
+   outturn-total: 41
+   outturn-percent: 95
+   draw-total: 155
+   draw-percent: 91
+   takeout-total: 21
+   takeout-percent: 89
+   shots-total: 176
+   shots-percent: 91
 vs:
  - Anderson, Sherry
  - Armstrong, Jacquie
  - Armstrong, Leigh
  - Bell, Chelsey
  - Bernard, Cheryl
+ - Birchard, Shannon
  - Bobbie, Tess
  - Brown, Rachel
  - Cameron, Kate
@@ -84,12 +102,18 @@ vs:
  - Courtney, Joanne
  - Darbyshire, Carolyn
  - Duhaime, Chantal
+ - Einarson, Kerri
  - Englot, Michelle
  - Ferguson, Dana
  - Flaxey, Allison
+ - Fleury, Tracy
  - Foster, Kristen
+ - Fyfe, Liz
  - George, Tara
  - Grandy, Clancy
+ - Harrison, Jacqueline
+ - Haughian, Jessie
+ - Hickey, Laura
  - Holland, Amber
  - Homan, Rachel
  - Iskiw, Beth
@@ -102,12 +126,14 @@ vs:
  - Lang, Lorraine
  - Lawton, Stefanie
  - Lilly, Kendra
+ - MacCuish, Kristin
  - MacDonald, Lawnie
  - MacLean, Kari
  - Mair, Jessica
  - Malekoff, Stephanie
  - McCarville, Krista
  - McTaggart, Cary-Anne
+ - Meilleur, Briane
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma
@@ -115,6 +141,7 @@ vs:
  - Morris, Cori
  - Nedohin, Heather
  - Nixon, Amy
+ - Njegovan, Selena
  - O'Connor, Susan
  - Olson-Johns, Lori
  - Overton-Clapham, Cathy
@@ -124,8 +151,10 @@ vs:
  - Potts, Sarah
  - Preston, Sam
  - Rizzo, Jo-Ann
+ - Rocque, Kelsey
  - Scheidegger, Casey
  - Scheidegger, Jessie
+ - Schmiemann, Danielle
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
@@ -142,5 +171,6 @@ vs:
  - Webster, Bronwen
  - Webster, Crystal
  - Westcott, Raunora
+ - Wilkes, Sarah
  - Wilson, Leslie
 ---

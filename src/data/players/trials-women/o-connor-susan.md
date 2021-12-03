@@ -39,6 +39,10 @@ years:
    event: Trials (Women)
    team: "Sche"
    position: Alternate
+ - year: 2021
+   event: Trials (Women)
+   team: "Sche"
+   position: Alternate
 vs:
  - Armstrong, Jacquie
  - Bell, Chelsey

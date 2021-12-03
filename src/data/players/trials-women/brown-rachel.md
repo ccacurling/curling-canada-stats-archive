@@ -4,19 +4,19 @@ name: Rachel Brown
 name-sort: Brown, Rachel
 totals:
  - event: Trials (Women)
-   games: 15
-   wins: 7
-   losses: 8
-   inturn-total: 194
-   inturn-percent: 85
-   outturn-total: 97
-   outturn-percent: 82
-   draw-total: 247
-   draw-percent: 87
-   takeout-total: 44
-   takeout-percent: 66
-   shots-total: 291
-   shots-percent: 84
+   games: 23
+   wins: 10
+   losses: 13
+   inturn-total: 277
+   inturn-percent: 86
+   outturn-total: 170
+   outturn-percent: 84
+   draw-total: 376
+   draw-percent: 88
+   takeout-total: 71
+   takeout-percent: 69
+   shots-total: 447
+   shots-percent: 85
 years:
  - year: 2013
    event: Trials (Women)
@@ -52,19 +52,43 @@ years:
    takeout-percent: 81
    shots-total: 156
    shots-percent: 87
+ - year: 2021
+   event: Trials (Women)
+   team: "Rocq"
+   position: Lead
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 83
+   inturn-percent: 87
+   outturn-total: 73
+   outturn-percent: 86
+   draw-total: 129
+   draw-percent: 89
+   takeout-total: 27
+   takeout-percent: 73
+   shots-total: 156
+   shots-percent: 87
 vs:
  - Anderson, Sherry
  - Armstrong, Leigh
+ - Birchard, Shannon
  - Bobbie, Tess
  - Cameron, Kate
  - Carey, Chelsea
  - Court, Morgan
  - Courtney, Joanne
  - Duhaime, Chantal
+ - Einarson, Kerri
  - Englot, Michelle
  - Flaxey, Allison
+ - Fleury, Tracy
  - Foster, Kristen
+ - Fyfe, Liz
  - Grandy, Clancy
+ - Harrison, Jacqueline
+ - Haughian, Jessie
+ - Hickey, Laura
  - Homan, Rachel
  - Iskiw, Beth
  - Jones, Jennifer
@@ -74,17 +98,21 @@ vs:
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
+ - MacCuish, Kristin
  - MacDonald, Lawnie
  - Mair, Jessica
  - McCarville, Krista
  - McDonald, Kristy
+ - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
+ - Meilleur, Briane
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma
  - Moore, Kristie
  - Nedohin, Heather
+ - Njegovan, Selena
  - Officer, Jill
  - Overton-Clapham, Cathy
  - Pasika, Rona
@@ -94,13 +122,17 @@ vs:
  - Rizzo, Jo-Ann
  - Scheidegger, Casey
  - Scheidegger, Jessie
+ - Scotland, Nadine
  - Singler, Sherri
  - Sippala, Ashley
  - Sonnenberg, Renee
+ - Sweeting, Val
  - Tippin, Julie
  - Titheridge, Lindsay
  - Vink, Rachelle
+ - Walker, Laura
  - Weagle, Lisa
  - Westcott, Raunora
+ - Wilkes, Sarah
  - Wilson, Leslie
 ---

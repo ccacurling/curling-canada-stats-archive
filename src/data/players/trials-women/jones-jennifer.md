@@ -4,18 +4,18 @@ name: Jennifer Jones
 name-sort: Jones, Jennifer
 totals:
  - event: Trials (Women)
-   games: 33
-   wins: 19
-   losses: 14
-   inturn-total: 339
+   games: 43
+   wins: 26
+   losses: 17
+   inturn-total: 407
    inturn-percent: 76
-   outturn-total: 280
-   outturn-percent: 78
-   draw-total: 283
+   outturn-total: 405
+   outturn-percent: 77
+   draw-total: 375
    draw-percent: 74
-   takeout-total: 336
+   takeout-total: 437
    takeout-percent: 79
-   shots-total: 619
+   shots-total: 812
    shots-percent: 77
 years:
  - year: 2005
@@ -86,6 +86,23 @@ years:
    takeout-percent: 79
    shots-total: 165
    shots-percent: 74
+ - year: 2021
+   event: Trials (Women)
+   team: "Jone"
+   position: Fourth
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 68
+   inturn-percent: 76
+   outturn-total: 125
+   outturn-percent: 77
+   draw-total: 92
+   draw-percent: 76
+   takeout-total: 101
+   takeout-percent: 77
+   shots-total: 193
+   shots-percent: 77
 vs:
  - Anderson, Sherry
  - Armstrong, Jacquie
@@ -95,6 +112,7 @@ vs:
  - Bell, Chelsey
  - Bernard, Cheryl
  - Betker, Jan
+ - Birchard, Shannon
  - Bobbie, Tess
  - Brown, Rachel
  - Cameron, Kate
@@ -106,10 +124,13 @@ vs:
  - Darbyshire, Carolyn
  - Delahunt, Nancy
  - Duhaime, Chantal
+ - Einarson, Kerri
  - Englot, Michelle
  - Ferguson, Dana
  - Flaxey, Allison
+ - Fleury, Tracy
  - Foster, Kristen
+ - Fyfe, Liz
  - Gagnon, Karo
  - Gatchell, Sara
  - George, Tara
@@ -117,6 +138,9 @@ vs:
  - Grandy, Clancy
  - Gregoire, Veronique
  - Gudereit, Marcia
+ - Harrison, Jacqueline
+ - Haughian, Jessie
+ - Hickey, Laura
  - Hodson, Kim
  - Holland, Amber
  - Homan, Rachel
@@ -137,14 +161,17 @@ vs:
  - Lemay, Annie
  - Lilly, Kendra
  - Linton, Sherry
+ - MacCuish, Kristin
  - MacDonald, Lawnie
  - MacLean, Kari
  - Mair, Jessica
  - Malekoff, Stephanie
  - McCarville, Krista
  - McCusker, Joan
+ - McDonald, Taylor
  - McPherson, Cheryl
  - McTaggart, Cary-Anne
+ - Meilleur, Briane
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma
@@ -152,6 +179,7 @@ vs:
  - Morris, Cori
  - Nedohin, Heather
  - Nixon, Amy
+ - Njegovan, Selena
  - O'Connor, Susan
  - Olson-Johns, Lori
  - Overton-Clapham, Cathy
@@ -161,11 +189,14 @@ vs:
  - Potts, Sarah
  - Preston, Sam
  - Rizzo, Jo-Ann
+ - Rocque, Kelsey
  - Scheidegger, Casey
  - Scheidegger, Jessie
+ - Schmiemann, Danielle
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
+ - Scotland, Nadine
  - Scott, Kelly
  - Simons, Renee
  - Singler, Sherri
@@ -177,11 +208,13 @@ vs:
  - Tuck, Kimberly
  - Vey, Lana
  - Vink, Rachelle
+ - Walker, Laura
  - Wall, Kirsten
  - Walsh, Heather
  - Weagle, Lisa
  - Webster, Bronwen
  - Webster, Crystal
  - Westcott, Raunora
+ - Wilkes, Sarah
  - Wilson, Leslie
 ---

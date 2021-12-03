@@ -4,19 +4,19 @@ name: Emma Miskew
 name-sort: Miskew, Emma
 totals:
  - event: Trials (Women)
-   games: 18
-   wins: 13
-   losses: 5
-   inturn-total: 193
-   inturn-percent: 81
-   outturn-total: 153
+   games: 26
+   wins: 15
+   losses: 11
+   inturn-total: 277
+   inturn-percent: 79
+   outturn-total: 225
    outturn-percent: 85
-   draw-total: 99
+   draw-total: 175
    draw-percent: 77
-   takeout-total: 247
-   takeout-percent: 85
-   shots-total: 346
-   shots-percent: 83
+   takeout-total: 327
+   takeout-percent: 84
+   shots-total: 502
+   shots-percent: 82
 years:
  - year: 2013
    event: Trials (Women)
@@ -52,9 +52,27 @@ years:
    takeout-percent: 85
    shots-total: 194
    shots-percent: 84
+ - year: 2021
+   event: Trials (Women)
+   team: "Homa"
+   position: Third
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 84
+   inturn-percent: 75
+   outturn-total: 72
+   outturn-percent: 84
+   draw-total: 76
+   draw-percent: 78
+   takeout-total: 80
+   takeout-percent: 81
+   shots-total: 156
+   shots-percent: 79
 vs:
  - Anderson, Sherry
  - Armstrong, Leigh
+ - Birchard, Shannon
  - Bobbie, Tess
  - Brown, Rachel
  - Cameron, Kate
@@ -62,11 +80,17 @@ vs:
  - Court, Morgan
  - Courtney, Joanne
  - Duhaime, Chantal
+ - Einarson, Kerri
  - Englot, Michelle
  - Ferguson, Dana
  - Flaxey, Allison
+ - Fleury, Tracy
  - Foster, Kristen
+ - Fyfe, Liz
  - Grandy, Clancy
+ - Harrison, Jacqueline
+ - Haughian, Jessie
+ - Hickey, Laura
  - Iskiw, Beth
  - Jones, Jennifer
  - Kasner, Marliese
@@ -74,26 +98,34 @@ vs:
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
+ - MacCuish, Kristin
  - MacDonald, Lawnie
  - Mair, Jessica
  - McCarville, Krista
  - McDonald, Kristy
+ - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
+ - Meilleur, Briane
  - Merklinger, Lee
  - Middaugh, Sherry
  - Moore, Kristie
  - Nedohin, Heather
+ - Njegovan, Selena
  - Officer, Jill
  - Olson-Johns, Lori
  - Overton-Clapham, Cathy
  - Pasika, Rona
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pincott, Erin
  - Potts, Sarah
  - Rizzo, Jo-Ann
+ - Rocque, Kelsey
  - Scheidegger, Casey
  - Scheidegger, Jessie
+ - Schmiemann, Danielle
+ - Scotland, Nadine
  - Singler, Sherri
  - Sippala, Ashley
  - Sonnenberg, Renee
@@ -101,6 +133,7 @@ vs:
  - Tippin, Julie
  - Titheridge, Lindsay
  - Vink, Rachelle
+ - Walker, Laura
  - Westcott, Raunora
  - Wilson, Leslie
 ---

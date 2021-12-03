@@ -52,6 +52,10 @@ years:
    takeout-percent: 81
    shots-total: 166
    shots-percent: 80
+ - year: 2021
+   event: Trials (Women)
+   team: "Fleu"
+   position: Alternate
 vs:
  - Anderson, Sherry
  - Armstrong, Leigh

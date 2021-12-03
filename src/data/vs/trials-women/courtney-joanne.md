@@ -30,6 +30,34 @@ vs:
       year: 2017
       draw: Round Robin(4)
       score: Homa 8 - Tipp 7
+ - name: Einarson, Kerri
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 79
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'Eina'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(8)
+      score: Eina 7 - Homa 6
  - name: Englot, Michelle
    totals:
     - event: Trials (Women)
@@ -62,13 +90,13 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 93
-        wins: 1
+        percent: 88
+        wins: 2
         losses: 0
       player2:
-        percent: 85
+        percent: 78
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'Homa'
@@ -86,16 +114,32 @@ vs:
       year: 2017
       draw: Round Robin(17)
       score: Swee 5 - Homa 7
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'Rocq'
+        position: Second
+        percent: 71
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(4)
+      score: Rocq 6 - Homa 9
  - name: Flaxey, Allison
    totals:
     - event: Trials (Women)
       player1:
-        percent: 81
+        percent: 83
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 78
-        wins: 0
+        percent: 74
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -114,6 +158,50 @@ vs:
       year: 2017
       draw: Round Robin(11)
       score: Flax 3 - Homa 5
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'Harr'
+        position: Third
+        percent: 70
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(1)
+      score: Harr 6 - Homa 5
+ - name: Fleury, Tracy
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 93
+        wins: 0
+        losses: 1
+      player2:
+        percent: 96
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      player2:
+        team: 'Fleu'
+        position: Fourth
+        percent: 96
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(5)
+      score: Homa 3 - Fleu 8
  - name: Foster, Kristen
    totals:
     - event: Trials (Women)
@@ -142,6 +230,34 @@ vs:
       year: 2013
       draw: Round Robin(11)
       score: SWE 4 - CAR 6
+ - name: Fyfe, Liz
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 93
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      player2:
+        team: 'Fleu'
+        position: Second
+        percent: 90
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(5)
+      score: Homa 3 - Fleu 8
  - name: Grandy, Clancy
    totals:
     - event: Trials (Women)
@@ -170,6 +286,90 @@ vs:
       year: 2017
       draw: Round Robin(11)
       score: Flax 3 - Homa 5
+ - name: Harrison, Jacqueline
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'Harr'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(1)
+      score: Harr 6 - Homa 5
+ - name: Haughian, Jessie
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 91
+        wins: 0
+        losses: 1
+      player2:
+        percent: 91
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'Sche'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(9)
+      score: Sche 8 - Homa 6
+ - name: Hickey, Laura
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'Harr'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(1)
+      score: Harr 6 - Homa 5
  - name: Homan, Rachel
    totals:
     - event: Trials (Women)
@@ -230,13 +430,13 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 80
-        wins: 3
+        percent: 83
+        wins: 4
         losses: 0
       player2:
         percent: 70
         wins: 0
-        losses: 3
+        losses: 4
    games:
     - player1:
         team: 'SWE'
@@ -286,6 +486,22 @@ vs:
       year: 2017
       draw: Semi-Final(21)
       score: Homa 6 - Jone 3
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'Jone'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(7)
+      score: Homa 7 - Jone 5
  - name: Kasner, Marliese
    totals:
     - event: Trials (Women)
@@ -346,12 +562,12 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 81
+        percent: 83
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 75
-        wins: 0
+        percent: 73
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -370,17 +586,33 @@ vs:
       year: 2017
       draw: Round Robin(11)
       score: Flax 3 - Homa 5
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'Harr'
+        position: Second
+        percent: 71
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(1)
+      score: Harr 6 - Homa 5
  - name: Lawes, Kaitlyn
    totals:
     - event: Trials (Women)
       player1:
-        percent: 80
-        wins: 3
+        percent: 83
+        wins: 4
         losses: 0
       player2:
-        percent: 76
+        percent: 77
         wins: 0
-        losses: 3
+        losses: 4
    games:
     - player1:
         team: 'SWE'
@@ -430,6 +662,22 @@ vs:
       year: 2017
       draw: Semi-Final(21)
       score: Homa 6 - Jone 3
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'Jone'
+        position: Third
+        percent: 80
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(7)
+      score: Homa 7 - Jone 5
  - name: Lawton, Stefanie
    totals:
     - event: Trials (Women)
@@ -462,12 +710,12 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 79
+        percent: 88
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 79
-        wins: 0
+        percent: 74
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -486,6 +734,50 @@ vs:
       year: 2017
       draw: Round Robin(6)
       score: McCa 2 - Homa 4
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'McCa'
+        position: Third
+        percent: 69
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(2)
+      score: Homa 5 - McCa 9
+ - name: MacCuish, Kristin
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 93
+        wins: 0
+        losses: 1
+      player2:
+        percent: 82
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      player2:
+        team: 'Fleu'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(5)
+      score: Homa 3 - Fleu 8
  - name: MacDonald, Lawnie
    totals:
     - event: Trials (Women)
@@ -546,12 +838,12 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
+        percent: 88
+        wins: 1
+        losses: 1
+      player2:
         percent: 79
         wins: 1
-        losses: 0
-      player2:
-        percent: 84
-        wins: 0
         losses: 1
    games:
     - player1:
@@ -570,6 +862,22 @@ vs:
       year: 2017
       draw: Round Robin(6)
       score: McCa 2 - Homa 4
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'McCa'
+        position: Fourth
+        percent: 74
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(2)
+      score: Homa 5 - McCa 9
  - name: McDonald, Kristy
    totals:
     - event: Trials (Women)
@@ -598,17 +906,45 @@ vs:
       year: 2013
       draw: Round Robin(11)
       score: SWE 4 - CAR 6
+ - name: McDonald, Taylor
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 100
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 100
+        win: 0
+        loss: 1
+      player2:
+        team: 'Walk'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(6)
+      score: Homa 5 - Walk 11
  - name: McEwen, Dawn
    totals:
     - event: Trials (Women)
       player1:
-        percent: 80
-        wins: 3
+        percent: 83
+        wins: 4
         losses: 0
       player2:
-        percent: 94
+        percent: 93
         wins: 0
-        losses: 3
+        losses: 4
    games:
     - player1:
         team: 'SWE'
@@ -658,16 +994,32 @@ vs:
       year: 2017
       draw: Semi-Final(21)
       score: Homa 6 - Jone 3
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'Jone'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(7)
+      score: Homa 7 - Jone 5
  - name: McTaggart, Cary-Anne
    totals:
     - event: Trials (Women)
       player1:
-        percent: 72
+        percent: 78
         wins: 1
-        losses: 1
+        losses: 2
       player2:
         percent: 75
-        wins: 1
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -702,6 +1054,50 @@ vs:
       year: 2017
       draw: Round Robin(14)
       score: Homa 10 - Sche 7
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'Sche'
+        position: Third
+        percent: 76
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(9)
+      score: Sche 8 - Homa 6
+ - name: Meilleur, Briane
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 79
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'Eina'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(8)
+      score: Eina 7 - Homa 6
  - name: Merklinger, Lee
    totals:
     - event: Trials (Women)
@@ -790,12 +1186,12 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 86
+        percent: 89
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 83
-        wins: 0
+        percent: 89
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -814,6 +1210,22 @@ vs:
       year: 2017
       draw: Round Robin(14)
       score: Homa 10 - Sche 7
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'Sche'
+        position: Lead
+        percent: 96
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(9)
+      score: Sche 8 - Homa 6
  - name: Nedohin, Heather
    totals:
     - event: Trials (Women)
@@ -842,6 +1254,34 @@ vs:
       year: 2013
       draw: Round Robin(7)
       score: NED 6 - SWE 5
+ - name: Njegovan, Selena
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 93
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      player2:
+        team: 'Fleu'
+        position: Third
+        percent: 76
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(5)
+      score: Homa 3 - Fleu 8
  - name: Officer, Jill
    totals:
     - event: Trials (Women)
@@ -1006,13 +1446,13 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 88
-        wins: 1
+        percent: 90
+        wins: 2
         losses: 1
       player2:
-        percent: 85
+        percent: 84
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'Homa'
@@ -1046,6 +1486,22 @@ vs:
       year: 2017
       draw: Final(22)
       score: Homa 6 - Care 5
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'Jone'
+        position: Second
+        percent: 83
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(7)
+      score: Homa 7 - Jone 5
  - name: Peters, Laine
    totals:
     - event: Trials (Women)
@@ -1106,16 +1562,44 @@ vs:
       year: 2017
       draw: Final(22)
       score: Homa 6 - Care 5
+ - name: Pincott, Erin
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 100
+        wins: 0
+        losses: 1
+      player2:
+        percent: 69
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 100
+        win: 0
+        loss: 1
+      player2:
+        team: 'Walk'
+        position: Third
+        percent: 69
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(6)
+      score: Homa 5 - Walk 11
  - name: Potts, Sarah
    totals:
     - event: Trials (Women)
       player1:
-        percent: 79
+        percent: 88
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 86
-        wins: 0
+        percent: 83
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -1134,6 +1618,22 @@ vs:
       year: 2017
       draw: Round Robin(6)
       score: McCa 2 - Homa 4
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'McCa'
+        position: Lead
+        percent: 80
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(2)
+      score: Homa 5 - McCa 9
  - name: Rizzo, Jo-Ann
    totals:
     - event: Trials (Women)
@@ -1162,16 +1662,44 @@ vs:
       year: 2013
       draw: Round Robin(9)
       score: MID 7 - SWE 6
+ - name: Rocque, Kelsey
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 64
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'Rocq'
+        position: Fourth
+        percent: 64
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(4)
+      score: Rocq 6 - Homa 9
  - name: Scheidegger, Casey
    totals:
     - event: Trials (Women)
       player1:
-        percent: 86
+        percent: 89
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 78
-        wins: 0
+        percent: 83
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -1190,6 +1718,22 @@ vs:
       year: 2017
       draw: Round Robin(14)
       score: Homa 10 - Sche 7
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'Sche'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(9)
+      score: Sche 8 - Homa 6
  - name: Scheidegger, Jessie
    totals:
     - event: Trials (Women)
@@ -1218,6 +1762,62 @@ vs:
       year: 2017
       draw: Round Robin(14)
       score: Homa 10 - Sche 7
+ - name: Schmiemann, Danielle
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'Rocq'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(4)
+      score: Rocq 6 - Homa 9
+ - name: Scotland, Nadine
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 100
+        wins: 0
+        losses: 1
+      player2:
+        percent: 92
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 100
+        win: 0
+        loss: 1
+      player2:
+        team: 'Walk'
+        position: Lead
+        percent: 92
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(6)
+      score: Homa 5 - Walk 11
  - name: Singler, Sherri
    totals:
     - event: Trials (Women)
@@ -1250,12 +1850,12 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 79
+        percent: 88
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 86
-        wins: 0
+        percent: 89
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -1274,6 +1874,22 @@ vs:
       year: 2017
       draw: Round Robin(6)
       score: McCa 2 - Homa 4
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'McCa'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(2)
+      score: Homa 5 - McCa 9
  - name: Sonnenberg, Renee
    totals:
     - event: Trials (Women)
@@ -1306,12 +1922,12 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 93
+        percent: 86
         wins: 1
-        losses: 0
+        losses: 1
       player2:
         percent: 83
-        wins: 0
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -1330,6 +1946,22 @@ vs:
       year: 2017
       draw: Round Robin(17)
       score: Swee 5 - Homa 7
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'Eina'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(8)
+      score: Eina 7 - Homa 6
  - name: Tippin, Julie
    totals:
     - event: Trials (Women)
@@ -1414,6 +2046,34 @@ vs:
       year: 2017
       draw: Round Robin(4)
       score: Homa 8 - Tipp 7
+ - name: Walker, Laura
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 100
+        wins: 0
+        losses: 1
+      player2:
+        percent: 92
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Homa'
+        position: Lead
+        percent: 100
+        win: 0
+        loss: 1
+      player2:
+        team: 'Walk'
+        position: Fourth
+        percent: 92
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(6)
+      score: Homa 5 - Walk 11
  - name: Weagle, Lisa
    totals:
     - event: Trials (Women)

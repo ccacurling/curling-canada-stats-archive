@@ -30,6 +30,34 @@ vs:
       year: 2017
       draw: Round Robin(13)
       score: Koe 6 - Eppi 4
+ - name: Kidby, Dustin
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Bott'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'Duns'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(6)
+      score: Duns 9 - Bott 4
  - name: Koe, Kevin
    totals:
     - event: Trials(Men)
@@ -114,6 +142,34 @@ vs:
       year: 2017
       draw: Round Robin(5)
       score: Eppi 4 - Layc 7
+ - name: Lott, Colton
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 93
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Bott'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'Duns'
+        position: Third
+        percent: 93
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(6)
+      score: Duns 9 - Bott 4
  - name: Martin, Karrick
    totals:
     - event: Trials(Men)
@@ -288,10 +344,10 @@ vs:
       player1:
         percent: 81
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 80
-        wins: 1
+        percent: 81
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -310,6 +366,22 @@ vs:
       year: 2017
       draw: Round Robin(5)
       score: Eppi 4 - Layc 7
+    - player1:
+        team: 'Bott'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'Duns'
+        position: Second
+        percent: 82
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(6)
+      score: Duns 9 - Bott 4
  - name: Neufeld, B.J.
    totals:
     - event: Trials(Men)

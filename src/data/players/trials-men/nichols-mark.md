@@ -4,19 +4,19 @@ name: Mark Nichols
 name-sort: Nichols, Mark
 totals:
  - event: Trials (Men)
-   games: 26
-   wins: 18
-   losses: 8
-   inturn-total: 236
-   inturn-percent: 88
-   outturn-total: 247
-   outturn-percent: 84
-   draw-total: 229
-   draw-percent: 89
-   takeout-total: 254
-   takeout-percent: 84
-   shots-total: 483
-   shots-percent: 86
+   games: 35
+   wins: 26
+   losses: 9
+   inturn-total: 320
+   inturn-percent: 89
+   outturn-total: 337
+   outturn-percent: 86
+   draw-total: 278
+   draw-percent: 88
+   takeout-total: 379
+   takeout-percent: 86
+   shots-total: 657
+   shots-percent: 87
 years:
  - year: 2005
    event: Trials (Men)
@@ -102,41 +102,67 @@ years:
    takeout-percent: 85
    shots-total: 176
    shots-percent: 86
+ - year: 2021
+   event: Trials (Men)
+   team: "Gush"
+   position: Third
+   games: 9
+   wins: 8
+   losses: 1
+   inturn-total: 84
+   inturn-percent: 90
+   outturn-total: 90
+   outturn-percent: 89
+   draw-total: 49
+   draw-percent: 88
+   takeout-total: 125
+   takeout-percent: 90
+   shots-total: 174
+   shots-percent: 89
 vs:
  - Adams, Shawn
  - Bailey, Scott
  - Bartlett, Don
+ - Beuk, Jonathan
  - Bottcher, Brendan
  - Burgess, Craig
  - Camm, Mathew
  - Carruthers, Reid
+ - Casey, Adam
+ - Chadwick, Scott
  - Cotter, Jim
  - Dacey, Mark
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Fenton, Brad
  - Ferbey, Randy
  - Flemming, Paul
+ - Forget, Wesley
  - Fry, Ryan
  - Gibson, Andrew
  - Gould, Steve
  - Griffith, Tyrel
+ - Gunnlaugson, Jason
  - Harnden, E.J.
  - Harnden, Ryan
  - Harris, Rob
  - Hart, Richard
  - Hebert, Ben
  - Hodgson, Colin
+ - Horgan, Jacob
+ - Horgan, Tanner
  - Howard, Glenn
  - Howard, Scott
  - Jacobs, Brad
  - Janssen, Patrick
  - Kennedy, Marc
+ - Kidby, Dustin
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
  - Leech, Ron
  - Lohnes, Bruce
+ - Lott, Colton
  - MacKenzie, Kevin
  - March, Tim
  - Martin, Karrick
@@ -156,6 +182,7 @@ vs:
  - Nedohin, David
  - Neufeld, B.J.
  - Neufeld, Denni
+ - Njegovan, Connor
  - Peachey, Jay
  - Pfeifer, Scott
  - Recksiedler, Kevin

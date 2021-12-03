@@ -86,6 +86,34 @@ vs:
       year: 2017
       draw: Round Robin(3)
       score: Swee 3 - Tipp 7
+ - name: Walker, Laura
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 57
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Eina'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'Walk'
+        position: Fourth
+        percent: 57
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(4)
+      score: Walk 5 - Eina 9
  - name: Weagle, Lisa
    totals:
     - event: Trials (Women)
@@ -158,6 +186,34 @@ vs:
       year: 2017
       draw: Round Robin(10)
       score: Engl 5 - Swee 8
+ - name: Wilkes, Sarah
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Eina'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'Homa'
+        position: Second
+        percent: 66
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(8)
+      score: Eina 7 - Homa 6
  - name: Wilson, Leslie
    totals:
     - event: Trials (Women)

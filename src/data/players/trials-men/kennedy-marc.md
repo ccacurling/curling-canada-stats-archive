@@ -4,18 +4,18 @@ name: Marc Kennedy
 name-sort: Kennedy, Marc
 totals:
  - event: Trials (Men)
-   games: 35
-   wins: 27
-   losses: 8
-   inturn-total: 407
+   games: 45
+   wins: 35
+   losses: 10
+   inturn-total: 500
    inturn-percent: 91
-   outturn-total: 289
-   outturn-percent: 85
-   draw-total: 250
+   outturn-total: 376
+   outturn-percent: 87
+   draw-total: 301
    draw-percent: 86
-   takeout-total: 446
+   takeout-total: 575
    takeout-percent: 91
-   shots-total: 696
+   shots-total: 876
    shots-percent: 89
 years:
  - year: 2005
@@ -86,22 +86,43 @@ years:
    takeout-percent: 90
    shots-total: 184
    shots-percent: 87
+ - year: 2021
+   event: Trials (Men)
+   team: "Jaco"
+   position: Third
+   games: 10
+   wins: 8
+   losses: 2
+   inturn-total: 93
+   inturn-percent: 90
+   outturn-total: 87
+   outturn-percent: 91
+   draw-total: 51
+   draw-percent: 86
+   takeout-total: 129
+   takeout-percent: 92
+   shots-total: 180
+   shots-percent: 90
 vs:
  - Adam, Gerry
  - Adams, Shawn
  - Bailey, Scott
  - Bartlett, Don
+ - Beuk, Jonathan
  - Bottcher, Brendan
  - Burgess, Craig
  - Camm, Mathew
  - Carruthers, Reid
+ - Casey, Adam
+ - Chadwick, Scott
  - Cotter, Jim
  - Dacey, Mark
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Fenton, Brad
  - Ferbey, Randy
  - Flemming, Paul
+ - Forget, Wesley
  - Forrest, Tyler
  - Fowler, Rob
  - Fry, Ryan
@@ -115,17 +136,22 @@ vs:
  - Harnden, Ryan
  - Harris, Rob
  - Hart, Richard
+ - Hebert, Ben
  - Hodgson, Colin
+ - Horgan, Jacob
+ - Horgan, Tanner
  - Howard, Glenn
  - Howard, Russ
  - Jacobs, Brad
  - Janssen, Patrick
+ - Kidby, Dustin
  - Koe, Kevin
  - Korab, Jamie
  - Laing, Brent
  - Laycock, Steve
  - Leech, Ron
  - Lohnes, Bruce
+ - Lott, Colton
  - MacDonald, Blake
  - MacKenzie, Kevin
  - March, Tim
@@ -146,6 +172,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Park, Kevin
  - Peachey, Jay
  - Pfeifer, Scott

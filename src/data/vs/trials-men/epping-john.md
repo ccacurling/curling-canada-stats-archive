@@ -30,6 +30,34 @@ vs:
       year: 2009
       draw: Round Robin(1)
       score: MIDD 7 - FERB 9
+ - name: Forget, Wesley
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 92
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'Horg'
+        position: Second
+        percent: 86
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(6)
+      score: Horg 4 - Eppi 8
  - name: Forrest, Tyler
    totals:
     - event: Trials(Men)
@@ -134,12 +162,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 86
+        percent: 77
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 83
-        wins: 0
+        percent: 82
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -158,6 +186,22 @@ vs:
       year: 2017
       draw: Round Robin(2)
       score: Eppi 6 - Gush 4
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'Gush'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(3)
+      score: Gush 8 - Eppi 6
  - name: Gould, Steve
    totals:
     - event: Trials(Men)
@@ -234,13 +278,13 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 91
-        wins: 1
+        percent: 92
+        wins: 2
         losses: 0
       player2:
-        percent: 84
+        percent: 73
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'MIDD'
@@ -258,16 +302,32 @@ vs:
       year: 2009
       draw: Round Robin(7)
       score: GUNN 4 - MIDD 9
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'Gunn'
+        position: Fourth
+        percent: 63
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(2)
+      score: Eppi 10 - Gunn 5
  - name: Gushue, Brad
    totals:
     - event: Trials(Men)
       player1:
-        percent: 86
+        percent: 77
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 79
-        wins: 0
+        percent: 83
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -286,16 +346,32 @@ vs:
       year: 2017
       draw: Round Robin(2)
       score: Eppi 6 - Gush 4
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'Gush'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(3)
+      score: Gush 8 - Eppi 6
  - name: Harnden, E.J.
    totals:
     - event: Trials(Men)
       player1:
-        percent: 72
+        percent: 79
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 83
-        wins: 1
+        percent: 84
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -314,16 +390,32 @@ vs:
       year: 2013
       draw: Round Robin(14)
       score: EPP 4 - JAC 7
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'Jaco'
+        position: Second
+        percent: 84
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(1)
+      score: Jaco 9 - Eppi 3
  - name: Harnden, Ryan
    totals:
     - event: Trials(Men)
       player1:
-        percent: 80
+        percent: 83
         wins: 1
-        losses: 1
+        losses: 2
       player2:
-        percent: 81
-        wins: 1
+        percent: 84
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -358,6 +450,22 @@ vs:
       year: 2017
       draw: Round Robin(19)
       score: Jaco 2 - Eppi 7
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'Jaco'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(1)
+      score: Jaco 9 - Eppi 3
  - name: Hart, Richard
    totals:
     - event: Trials(Men)
@@ -392,10 +500,10 @@ vs:
       player1:
         percent: 75
         wins: 0
-        losses: 3
+        losses: 4
       player2:
         percent: 92
-        wins: 3
+        wins: 4
         losses: 0
    games:
     - player1:
@@ -446,16 +554,32 @@ vs:
       year: 2017
       draw: Round Robin(13)
       score: Koe 6 - Eppi 4
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      player2:
+        team: 'Koe'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(9)
+      score: Eppi 3 - Koe 9
  - name: Hodgson, Colin
    totals:
     - event: Trials(Men)
       player1:
-        percent: 81
+        percent: 78
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 99
-        wins: 1
+        percent: 96
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -474,6 +598,50 @@ vs:
       year: 2017
       draw: Round Robin(9)
       score: Carr 7 - Eppi 5
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'McEw'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(7)
+      score: McEw 6 - Eppi 2
+ - name: Horgan, Tanner
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 92
+        wins: 1
+        losses: 0
+      player2:
+        percent: 64
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'Horg'
+        position: Fourth
+        percent: 64
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(6)
+      score: Horg 4 - Eppi 8
  - name: Howard, Glenn
    totals:
     - event: Trials(Men)
@@ -522,12 +690,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 80
+        percent: 83
         wins: 1
-        losses: 1
+        losses: 2
       player2:
-        percent: 79
-        wins: 1
+        percent: 85
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -562,16 +730,32 @@ vs:
       year: 2017
       draw: Round Robin(19)
       score: Jaco 2 - Eppi 7
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'Jaco'
+        position: Fourth
+        percent: 97
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(1)
+      score: Jaco 9 - Eppi 3
  - name: Kennedy, Marc
    totals:
     - event: Trials(Men)
       player1:
-        percent: 75
+        percent: 78
         wins: 0
-        losses: 3
+        losses: 4
       player2:
-        percent: 92
-        wins: 3
+        percent: 93
+        wins: 4
         losses: 0
    games:
     - player1:
@@ -622,16 +806,60 @@ vs:
       year: 2017
       draw: Round Robin(13)
       score: Koe 6 - Eppi 4
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'Jaco'
+        position: Third
+        percent: 100
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(1)
+      score: Jaco 9 - Eppi 3
+ - name: Kidby, Dustin
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 73
+        wins: 1
+        losses: 0
+      player2:
+        percent: 91
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'Duns'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(4)
+      score: Eppi 9 - Duns 7
  - name: Koe, Kevin
    totals:
     - event: Trials(Men)
       player1:
-        percent: 87
+        percent: 84
         wins: 1
-        losses: 2
+        losses: 3
       player2:
-        percent: 88
-        wins: 2
+        percent: 90
+        wins: 3
         losses: 1
    games:
     - player1:
@@ -682,6 +910,22 @@ vs:
       year: 2017
       draw: Round Robin(13)
       score: Koe 6 - Eppi 4
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      player2:
+        team: 'Koe'
+        position: Fourth
+        percent: 98
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(9)
+      score: Eppi 3 - Koe 9
  - name: Laing, Brent
    totals:
     - event: Trials(Men)
@@ -786,6 +1030,34 @@ vs:
       year: 2017
       draw: Round Robin(5)
       score: Eppi 4 - Layc 7
+ - name: Lott, Colton
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 73
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'Duns'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(4)
+      score: Eppi 9 - Duns 7
  - name: MacDonald, Blake
    totals:
     - event: Trials(Men)
@@ -820,10 +1092,10 @@ vs:
       player1:
         percent: 80
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 88
-        wins: 1
+        percent: 89
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -842,6 +1114,22 @@ vs:
       year: 2017
       draw: Round Robin(16)
       score: Eppi 6 - Bott 7
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'Bott'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(8)
+      score: Eppi 6 - Bott 10
  - name: Martin, Kevin
    totals:
     - event: Trials(Men)
@@ -890,12 +1178,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 83
+        percent: 80
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 91
-        wins: 2
+        percent: 92
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -930,6 +1218,22 @@ vs:
       year: 2017
       draw: Round Robin(7)
       score: McEw 8 - Eppi 5
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'McEw'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(7)
+      score: McEw 6 - Eppi 2
  - name: Mead, Jon
    totals:
     - event: Trials(Men)
@@ -990,12 +1294,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 81
+        percent: 79
         wins: 0
-        losses: 3
+        losses: 4
       player2:
-        percent: 88
-        wins: 3
+        percent: 89
+        wins: 4
         losses: 0
    games:
     - player1:
@@ -1046,6 +1350,22 @@ vs:
       year: 2017
       draw: Round Robin(18)
       score: Eppi 5 - Morr 6
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      player2:
+        team: 'Koe'
+        position: Second
+        percent: 97
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(9)
+      score: Eppi 3 - Koe 9
  - name: Moskowy, Braeden
    totals:
     - event: Trials(Men)
@@ -1080,10 +1400,10 @@ vs:
       player1:
         percent: 80
         wins: 0
-        losses: 1
+        losses: 2
       player2:
         percent: 84
-        wins: 1
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1102,6 +1422,22 @@ vs:
       year: 2017
       draw: Round Robin(16)
       score: Eppi 6 - Bott 7
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'Bott'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(8)
+      score: Eppi 6 - Bott 10
  - name: Muyres, Dallan
    totals:
     - event: Trials(Men)
@@ -1134,13 +1470,13 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 71
-        wins: 0
+        percent: 72
+        wins: 1
         losses: 1
       player2:
-        percent: 80
+        percent: 78
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'Eppi'
@@ -1158,6 +1494,22 @@ vs:
       year: 2017
       draw: Round Robin(5)
       score: Eppi 4 - Layc 7
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'Duns'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(4)
+      score: Eppi 9 - Duns 7
  - name: Nedohin, David
    totals:
     - event: Trials(Men)
@@ -1206,12 +1558,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 83
+        percent: 80
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 89
-        wins: 2
+        percent: 90
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -1246,16 +1598,32 @@ vs:
       year: 2017
       draw: Round Robin(7)
       score: McEw 8 - Eppi 5
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      player2:
+        team: 'Koe'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(9)
+      score: Eppi 3 - Koe 9
  - name: Neufeld, Denni
    totals:
     - event: Trials(Men)
       player1:
-        percent: 83
+        percent: 80
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 84
-        wins: 2
+        percent: 85
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -1290,16 +1658,32 @@ vs:
       year: 2017
       draw: Round Robin(7)
       score: McEw 8 - Eppi 5
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      player2:
+        team: 'Koe'
+        position: Lead
+        percent: 100
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(9)
+      score: Eppi 3 - Koe 9
  - name: Nichols, Mark
    totals:
     - event: Trials(Men)
       player1:
-        percent: 90
-        wins: 1
-        losses: 1
-      player2:
         percent: 83
         wins: 1
+        losses: 2
+      player2:
+        percent: 83
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -1334,6 +1718,50 @@ vs:
       year: 2017
       draw: Round Robin(2)
       score: Eppi 6 - Gush 4
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'Gush'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(3)
+      score: Gush 8 - Eppi 6
+ - name: Njegovan, Connor
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 97
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'Gunn'
+        position: Lead
+        percent: 97
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(2)
+      score: Eppi 10 - Gunn 5
  - name: Park, Kevin
    totals:
     - event: Trials(Men)
@@ -1494,12 +1922,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 81
+        percent: 78
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 85
-        wins: 1
+        percent: 84
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1518,6 +1946,22 @@ vs:
       year: 2017
       draw: Round Robin(9)
       score: Carr 7 - Eppi 5
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'McEw'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(7)
+      score: McEw 6 - Eppi 2
  - name: Savill, Craig
    totals:
     - event: Trials(Men)
@@ -1768,10 +2212,10 @@ vs:
       player1:
         percent: 80
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 92
-        wins: 1
+        percent: 90
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1790,6 +2234,22 @@ vs:
       year: 2017
       draw: Round Robin(16)
       score: Eppi 6 - Bott 7
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'Bott'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(8)
+      score: Eppi 6 - Bott 10
  - name: Thiessen, Nolan
    totals:
     - event: Trials(Men)
@@ -1838,12 +2298,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 86
+        percent: 77
         wins: 1
-        losses: 0
+        losses: 1
       player2:
         percent: 91
-        wins: 0
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -1862,17 +2322,33 @@ vs:
       year: 2017
       draw: Round Robin(2)
       score: Eppi 6 - Gush 4
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'Gush'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(3)
+      score: Gush 8 - Eppi 6
  - name: Wozniak, Matt
    totals:
     - event: Trials(Men)
       player1:
-        percent: 83
-        wins: 0
+        percent: 86
+        wins: 1
         losses: 2
       player2:
-        percent: 82
+        percent: 80
         wins: 2
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'EPP'
@@ -1906,6 +2382,22 @@ vs:
       year: 2017
       draw: Round Robin(7)
       score: McEw 8 - Eppi 5
+    - player1:
+        team: 'Eppi'
+        position: Fourth
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'Gunn'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(2)
+      score: Eppi 10 - Gunn 5
  - name: Zawada, Braden
    totals:
     - event: Trials(Men)

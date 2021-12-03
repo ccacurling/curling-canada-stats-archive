@@ -38,6 +38,10 @@ Dave Thomas
 
 ## Changelog
 
+### 2021-12-03
+
+ * Added 2021 Trials (Men & Women) data.
+
 ### 2021-09-07
 
  * Added stats for 1981, 1983 and 1984 Briers.

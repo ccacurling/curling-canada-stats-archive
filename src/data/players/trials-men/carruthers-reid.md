@@ -4,19 +4,19 @@ name: Reid Carruthers
 name-sort: Carruthers, Reid
 totals:
  - event: Trials (Men)
-   games: 15
-   wins: 7
-   losses: 8
-   inturn-total: 149
-   inturn-percent: 84
-   outturn-total: 130
+   games: 23
+   wins: 11
+   losses: 12
+   inturn-total: 210
+   inturn-percent: 86
+   outturn-total: 215
    outturn-percent: 87
-   draw-total: 133
-   draw-percent: 85
-   takeout-total: 146
+   draw-total: 186
+   draw-percent: 86
+   takeout-total: 239
    takeout-percent: 86
-   shots-total: 279
-   shots-percent: 85
+   shots-total: 425
+   shots-percent: 86
 years:
  - year: 2013
    event: Trials (Men)
@@ -31,8 +31,6 @@ years:
    outturn-percent: 75
    draw-total: 10
    draw-percent: 68
-   takeout-total: 0
-   takeout-percent:
    shots-total: 10
    shots-percent: 68
  - year: 2013
@@ -85,28 +83,53 @@ years:
    takeout-percent: 83
    shots-total: 157
    shots-percent: 86
+ - year: 2021
+   event: Trials (Men)
+   team: "McEw"
+   position: Third
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 61
+   inturn-percent: 91
+   outturn-total: 85
+   outturn-percent: 85
+   draw-total: 53
+   draw-percent: 90
+   takeout-total: 93
+   takeout-percent: 86
+   shots-total: 146
+   shots-percent: 88
 vs:
  - Bailey, Scott
+ - Beuk, Jonathan
  - Bottcher, Brendan
  - Camm, Mathew
+ - Casey, Adam
+ - Chadwick, Scott
  - Cotter, Jim
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
+ - Forget, Wesley
  - Fry, Ryan
  - Gallant, Brett
  - Griffith, Tyrel
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
  - Hebert, Ben
+ - Horgan, Tanner
  - Howard, Glenn
  - Howard, Scott
  - Jacobs, Brad
  - Janssen, Patrick
  - Kennedy, Marc
+ - Kidby, Dustin
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
+ - Lott, Colton
  - March, Tim
  - Martin, Karrick
  - Martin, Kevin
@@ -122,6 +145,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Rycroft, Carter
  - Savill, Craig
  - Sawatsky, Rick

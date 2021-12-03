@@ -4,18 +4,18 @@ name: Dana Ferguson
 name-sort: Ferguson, Dana
 totals:
  - event: Trials (Women)
-   games: 15
-   wins: 7
-   losses: 8
-   inturn-total: 146
-   inturn-percent: 80
-   outturn-total: 152
-   outturn-percent: 84
-   draw-total: 113
+   games: 23
+   wins: 10
+   losses: 13
+   inturn-total: 229
+   inturn-percent: 81
+   outturn-total: 225
+   outturn-percent: 83
+   draw-total: 176
    draw-percent: 81
-   takeout-total: 185
+   takeout-total: 278
    takeout-percent: 83
-   shots-total: 298
+   shots-total: 454
    shots-percent: 82
 years:
  - year: 2013
@@ -52,19 +52,43 @@ years:
    takeout-percent: 82
    shots-total: 158
    shots-percent: 82
+ - year: 2021
+   event: Trials (Women)
+   team: "Rocq"
+   position: Second
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 83
+   inturn-percent: 82
+   outturn-total: 73
+   outturn-percent: 80
+   draw-total: 63
+   draw-percent: 80
+   takeout-total: 93
+   takeout-percent: 82
+   shots-total: 156
+   shots-percent: 81
 vs:
  - Anderson, Sherry
  - Armstrong, Leigh
+ - Birchard, Shannon
  - Bobbie, Tess
  - Cameron, Kate
  - Carey, Chelsea
  - Court, Morgan
  - Courtney, Joanne
  - Duhaime, Chantal
+ - Einarson, Kerri
  - Englot, Michelle
  - Flaxey, Allison
+ - Fleury, Tracy
  - Foster, Kristen
+ - Fyfe, Liz
  - Grandy, Clancy
+ - Harrison, Jacqueline
+ - Haughian, Jessie
+ - Hickey, Laura
  - Homan, Rachel
  - Iskiw, Beth
  - Jones, Jennifer
@@ -74,17 +98,21 @@ vs:
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
+ - MacCuish, Kristin
  - MacDonald, Lawnie
  - Mair, Jessica
  - McCarville, Krista
  - McDonald, Kristy
+ - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
+ - Meilleur, Briane
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma
  - Moore, Kristie
  - Nedohin, Heather
+ - Njegovan, Selena
  - Officer, Jill
  - Overton-Clapham, Cathy
  - Pasika, Rona
@@ -94,13 +122,17 @@ vs:
  - Rizzo, Jo-Ann
  - Scheidegger, Casey
  - Scheidegger, Jessie
+ - Scotland, Nadine
  - Singler, Sherri
  - Sippala, Ashley
  - Sonnenberg, Renee
+ - Sweeting, Val
  - Tippin, Julie
  - Titheridge, Lindsay
  - Vink, Rachelle
+ - Walker, Laura
  - Weagle, Lisa
  - Westcott, Raunora
+ - Wilkes, Sarah
  - Wilson, Leslie
 ---

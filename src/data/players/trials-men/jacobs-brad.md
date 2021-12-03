@@ -4,19 +4,19 @@ name: Brad Jacobs
 name-sort: Jacobs, Brad
 totals:
  - event: Trials (Men)
-   games: 16
-   wins: 11
-   losses: 5
-   inturn-total: 121
-   inturn-percent: 84
-   outturn-total: 176
-   outturn-percent: 85
-   draw-total: 107
-   draw-percent: 81
-   takeout-total: 190
-   takeout-percent: 87
-   shots-total: 297
-   shots-percent: 85
+   games: 26
+   wins: 19
+   losses: 7
+   inturn-total: 204
+   inturn-percent: 87
+   outturn-total: 270
+   outturn-percent: 87
+   draw-total: 149
+   draw-percent: 84
+   takeout-total: 325
+   takeout-percent: 89
+   shots-total: 474
+   shots-percent: 87
 years:
  - year: 2013
    event: Trials (Men)
@@ -52,25 +52,52 @@ years:
    takeout-percent: 85
    shots-total: 144
    shots-percent: 79
+ - year: 2021
+   event: Trials (Men)
+   team: "Jaco"
+   position: Fourth
+   games: 10
+   wins: 8
+   losses: 2
+   inturn-total: 83
+   inturn-percent: 92
+   outturn-total: 94
+   outturn-percent: 90
+   draw-total: 42
+   draw-percent: 92
+   takeout-total: 135
+   takeout-percent: 91
+   shots-total: 177
+   shots-percent: 91
 vs:
  - Bailey, Scott
+ - Beuk, Jonathan
  - Bottcher, Brendan
  - Camm, Mathew
  - Carruthers, Reid
+ - Casey, Adam
+ - Chadwick, Scott
  - Cotter, Jim
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
+ - Forget, Wesley
+ - Fry, Ryan
  - Gallant, Brett
  - Griffith, Tyrel
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Hebert, Ben
  - Hodgson, Colin
+ - Horgan, Jacob
+ - Horgan, Tanner
  - Howard, Glenn
  - Janssen, Patrick
  - Kennedy, Marc
+ - Kidby, Dustin
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
+ - Lott, Colton
  - March, Tim
  - Martin, Karrick
  - Martin, Kevin
@@ -88,6 +115,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Rycroft, Carter
  - Samagalski, Derek
  - Savill, Craig

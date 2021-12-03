@@ -4,18 +4,18 @@ name: Kevin Koe
 name-sort: Koe, Kevin
 totals:
  - event: Trials (Men)
-   games: 33
-   wins: 20
-   losses: 13
-   inturn-total: 243
+   games: 42
+   wins: 26
+   losses: 16
+   inturn-total: 290
    inturn-percent: 83
-   outturn-total: 392
+   outturn-total: 496
    outturn-percent: 88
-   draw-total: 247
-   draw-percent: 84
-   takeout-total: 388
-   takeout-percent: 87
-   shots-total: 635
+   draw-total: 308
+   draw-percent: 86
+   takeout-total: 478
+   takeout-percent: 86
+   shots-total: 786
    shots-percent: 86
 years:
  - year: 2005
@@ -86,22 +86,43 @@ years:
    takeout-percent: 89
    shots-total: 178
    shots-percent: 88
+ - year: 2021
+   event: Trials (Men)
+   team: "Koe"
+   position: Fourth
+   games: 9
+   wins: 6
+   losses: 3
+   inturn-total: 47
+   inturn-percent: 84
+   outturn-total: 104
+   outturn-percent: 90
+   draw-total: 61
+   draw-percent: 93
+   takeout-total: 90
+   takeout-percent: 85
+   shots-total: 151
+   shots-percent: 88
 vs:
  - Adam, Gerry
  - Adams, Shawn
  - Bailey, Scott
  - Bartlett, Don
+ - Beuk, Jonathan
  - Bottcher, Brendan
  - Burgess, Craig
  - Camm, Mathew
  - Carruthers, Reid
+ - Casey, Adam
+ - Chadwick, Scott
  - Cotter, Jim
  - Dacey, Mark
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Fenton, Brad
  - Ferbey, Randy
  - Flemming, Paul
+ - Forget, Wesley
  - Forrest, Tyler
  - Fowler, Rob
  - Fry, Ryan
@@ -117,16 +138,19 @@ vs:
  - Hart, Richard
  - Hebert, Ben
  - Hodgson, Colin
+ - Horgan, Tanner
  - Howard, Glenn
  - Howard, Russ
  - Jacobs, Brad
  - Janssen, Patrick
  - Kennedy, Marc
+ - Kidby, Dustin
  - Korab, Jamie
  - Laing, Brent
  - Laycock, Steve
  - Leech, Ron
  - Lohnes, Bruce
+ - Lott, Colton
  - MacKenzie, Kevin
  - March, Tim
  - Martin, Karrick
@@ -146,6 +170,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Park, Kevin
  - Peachey, Jay
  - Pfeifer, Scott

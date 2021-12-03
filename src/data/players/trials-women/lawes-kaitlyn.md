@@ -4,18 +4,18 @@ name: Kaitlyn Lawes
 name-sort: Lawes, Kaitlyn
 totals:
  - event: Trials (Women)
-   games: 17
-   wins: 12
-   losses: 5
-   inturn-total: 150
+   games: 27
+   wins: 19
+   losses: 8
+   inturn-total: 248
    inturn-percent: 82
-   outturn-total: 169
+   outturn-total: 271
    outturn-percent: 84
-   draw-total: 124
+   draw-total: 204
    draw-percent: 83
-   takeout-total: 195
+   takeout-total: 315
    takeout-percent: 83
-   shots-total: 319
+   shots-total: 519
    shots-percent: 83
 years:
  - year: 2013
@@ -52,9 +52,27 @@ years:
    takeout-percent: 81
    shots-total: 167
    shots-percent: 82
+ - year: 2021
+   event: Trials (Women)
+   team: "Jone"
+   position: Third
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 98
+   inturn-percent: 81
+   outturn-total: 102
+   outturn-percent: 84
+   draw-total: 80
+   draw-percent: 82
+   takeout-total: 120
+   takeout-percent: 83
+   shots-total: 200
+   shots-percent: 82
 vs:
  - Anderson, Sherry
  - Armstrong, Leigh
+ - Birchard, Shannon
  - Bobbie, Tess
  - Brown, Rachel
  - Cameron, Kate
@@ -62,11 +80,17 @@ vs:
  - Court, Morgan
  - Courtney, Joanne
  - Duhaime, Chantal
+ - Einarson, Kerri
  - Englot, Michelle
  - Ferguson, Dana
  - Flaxey, Allison
+ - Fleury, Tracy
  - Foster, Kristen
+ - Fyfe, Liz
  - Grandy, Clancy
+ - Harrison, Jacqueline
+ - Haughian, Jessie
+ - Hickey, Laura
  - Homan, Rachel
  - Iskiw, Beth
  - Kasner, Marliese
@@ -75,15 +99,19 @@ vs:
  - Kreviazuk, Lynn
  - Lawton, Stefanie
  - Lilly, Kendra
+ - MacCuish, Kristin
  - MacDonald, Lawnie
  - Mair, Jessica
  - McCarville, Krista
+ - McDonald, Taylor
  - McTaggart, Cary-Anne
+ - Meilleur, Briane
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma
  - Moore, Kristie
  - Nedohin, Heather
+ - Njegovan, Selena
  - Olson-Johns, Lori
  - Overton-Clapham, Cathy
  - Pasika, Rona
@@ -91,8 +119,11 @@ vs:
  - Peters, Laine
  - Potts, Sarah
  - Rizzo, Jo-Ann
+ - Rocque, Kelsey
  - Scheidegger, Casey
  - Scheidegger, Jessie
+ - Schmiemann, Danielle
+ - Scotland, Nadine
  - Singler, Sherri
  - Sippala, Ashley
  - Sonnenberg, Renee
@@ -100,7 +131,9 @@ vs:
  - Tippin, Julie
  - Titheridge, Lindsay
  - Vink, Rachelle
+ - Walker, Laura
  - Weagle, Lisa
  - Westcott, Raunora
+ - Wilkes, Sarah
  - Wilson, Leslie
 ---

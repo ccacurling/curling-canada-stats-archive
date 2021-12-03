@@ -4,18 +4,18 @@ name: Ben Hebert
 name-sort: Hebert, Ben
 totals:
  - event: Trials (Men)
-   games: 25
-   wins: 21
-   losses: 4
-   inturn-total: 69
-   inturn-percent: 88
-   outturn-total: 425
+   games: 34
+   wins: 27
+   losses: 7
+   inturn-total: 89
+   inturn-percent: 90
+   outturn-total: 559
    outturn-percent: 93
-   draw-total: 434
-   draw-percent: 93
-   takeout-total: 60
-   takeout-percent: 84
-   shots-total: 494
+   draw-total: 564
+   draw-percent: 94
+   takeout-total: 84
+   takeout-percent: 80
+   shots-total: 648
    shots-percent: 92
 years:
  - year: 2005
@@ -73,16 +73,37 @@ years:
    takeout-percent: 86
    shots-total: 181
    shots-percent: 92
+ - year: 2021
+   event: Trials (Men)
+   team: "Koe"
+   position: Lead
+   games: 9
+   wins: 6
+   losses: 3
+   inturn-total: 20
+   inturn-percent: 94
+   outturn-total: 134
+   outturn-percent: 92
+   draw-total: 130
+   draw-percent: 96
+   takeout-total: 24
+   takeout-percent: 71
+   shots-total: 154
+   shots-percent: 92
 vs:
  - Adam, Gerry
  - Bailey, Scott
+ - Beuk, Jonathan
  - Bottcher, Brendan
  - Camm, Mathew
  - Carruthers, Reid
+ - Casey, Adam
+ - Chadwick, Scott
  - Cotter, Jim
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Ferbey, Randy
+ - Forget, Wesley
  - Forrest, Tyler
  - Fowler, Rob
  - Fry, Ryan
@@ -95,12 +116,16 @@ vs:
  - Harnden, Ryan
  - Hart, Richard
  - Hodgson, Colin
+ - Horgan, Tanner
  - Howard, Glenn
  - Jacobs, Brad
  - Janssen, Patrick
+ - Kennedy, Marc
+ - Kidby, Dustin
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
+ - Lott, Colton
  - MacDonald, Blake
  - March, Tim
  - Martin, Karrick
@@ -118,6 +143,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Park, Kevin
  - Pfeifer, Scott
  - Richter, Justin

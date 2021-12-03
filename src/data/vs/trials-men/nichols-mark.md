@@ -2,6 +2,34 @@
 title: Mark Nichols Head-to-head
 name: Nichols, Mark
 vs:
+ - name: Njegovan, Connor
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 94
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Gush'
+        position: Third
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'Gunn'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(6)
+      score: Gunn 7 - Gush 6
  - name: Peachey, Jay
    totals:
     - event: Trials(Men)
@@ -190,13 +218,13 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 83
-        wins: 1
+        percent: 88
+        wins: 2
         losses: 0
       player2:
-        percent: 88
+        percent: 92
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'Gush'
@@ -214,6 +242,22 @@ vs:
       year: 2017
       draw: Round Robin(11)
       score: Gush 9 - Carr 5
+    - player1:
+        team: 'Gush'
+        position: Third
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'McEw'
+        position: Second
+        percent: 96
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(9)
+      score: Gush 6 - McEw 4
  - name: Savill, Craig
    totals:
     - event: Trials(Men)
@@ -406,13 +450,13 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 84
-        wins: 1
+        percent: 83
+        wins: 2
         losses: 0
       player2:
-        percent: 81
+        percent: 83
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'Gush'
@@ -430,6 +474,22 @@ vs:
       year: 2017
       draw: Round Robin(4)
       score: Bott 5 - Gush 6
+    - player1:
+        team: 'Gush'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'Bott'
+        position: Second
+        percent: 85
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(1)
+      score: Bott 4 - Gush 6
  - name: Thiessen, Nolan
    totals:
     - event: Trials(Men)
@@ -534,12 +594,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 89
+        percent: 90
         wins: 1
-        losses: 2
+        losses: 3
       player2:
-        percent: 88
-        wins: 2
+        percent: 89
+        wins: 3
         losses: 1
    games:
     - player1:
@@ -590,4 +650,20 @@ vs:
       year: 2017
       draw: Semi-Final(21)
       score: McEw 6 - Gush 4
+    - player1:
+        team: 'Gush'
+        position: Third
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'Gunn'
+        position: Second
+        percent: 93
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(6)
+      score: Gunn 7 - Gush 6
 ---

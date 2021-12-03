@@ -4,18 +4,18 @@ name: Brent Laing
 name-sort: Laing, Brent
 totals:
  - event: Trials (Men)
-   games: 43
-   wins: 27
-   losses: 16
-   inturn-total: 429
+   games: 51
+   wins: 30
+   losses: 21
+   inturn-total: 497
    inturn-percent: 86
-   outturn-total: 416
+   outturn-total: 488
    outturn-percent: 88
-   draw-total: 396
-   draw-percent: 84
-   takeout-total: 449
+   draw-total: 527
+   draw-percent: 85
+   takeout-total: 458
    takeout-percent: 89
-   shots-total: 845
+   shots-total: 985
    shots-percent: 87
 years:
  - year: 2001
@@ -103,26 +103,47 @@ years:
    takeout-percent: 87
    shots-total: 184
    shots-percent: 89
+ - year: 2021
+   event: Trials (Men)
+   team: "Eppi"
+   position: Lead
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 68
+   inturn-percent: 86
+   outturn-total: 72
+   outturn-percent: 87
+   draw-total: 131
+   draw-percent: 87
+   takeout-total: 9
+   takeout-percent: 78
+   shots-total: 140
+   shots-percent: 86
 vs:
  - Adam, Gerry
  - Adams, Shawn
  - Armstrong, Doug
  - Bailey, Scott
  - Bartlett, Don
+ - Beuk, Jonathan
  - Bottcher, Brendan
  - Burgess, Craig
  - Burtnyk, Kerry
  - Camm, Mathew
  - Carruthers, Reid
+ - Casey, Adam
+ - Chadwick, Scott
  - Cotter, Jim
  - Dacey, Mark
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Engel, Ron
  - Epping, John
  - Fenton, Brad
  - Fenton, Keith
  - Ferbey, Randy
  - Flemming, Paul
+ - Forget, Wesley
  - Forrest, Tyler
  - Fowler, Rob
  - Fry, Ryan
@@ -139,16 +160,19 @@ vs:
  - Harris, Rob
  - Hebert, Ben
  - Hodgson, Colin
+ - Horgan, Tanner
  - Howard, Glenn
  - Howard, Russ
  - Jacobs, Brad
  - Janssen, Patrick
  - Kennedy, Marc
+ - Kidby, Dustin
  - Koe, Kevin
  - Korab, Jamie
  - Laycock, Steve
  - Leech, Ron
  - Lohnes, Bruce
+ - Lott, Colton
  - MacDonald, Blake
  - MacKenzie, Kevin
  - March, Tim
@@ -175,6 +199,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Odishaw, Grant
  - Park, Kevin
  - Park, Shane

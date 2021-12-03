@@ -4,19 +4,19 @@ name: John Epping
 name-sort: Epping, John
 totals:
  - event: Trials (Men)
-   games: 22
-   wins: 5
-   losses: 17
-   inturn-total: 222
-   inturn-percent: 84
-   outturn-total: 197
-   outturn-percent: 81
-   draw-total: 197
-   draw-percent: 81
-   takeout-total: 222
-   takeout-percent: 83
-   shots-total: 419
-   shots-percent: 83
+   games: 30
+   wins: 8
+   losses: 22
+   inturn-total: 289
+   inturn-percent: 83
+   outturn-total: 269
+   outturn-percent: 80
+   draw-total: 256
+   draw-percent: 82
+   takeout-total: 302
+   takeout-percent: 82
+   shots-total: 558
+   shots-percent: 82
 years:
  - year: 2009
    event: Trials (Men)
@@ -69,13 +69,34 @@ years:
    takeout-percent: 82
    shots-total: 155
    shots-percent: 82
+ - year: 2021
+   event: Trials (Men)
+   team: "Eppi"
+   position: Fourth
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 67
+   inturn-percent: 80
+   outturn-total: 72
+   outturn-percent: 79
+   draw-total: 59
+   draw-percent: 83
+   takeout-total: 80
+   takeout-percent: 77
+   shots-total: 139
+   shots-percent: 79
 vs:
  - Adam, Gerry
+ - Beuk, Jonathan
  - Bottcher, Brendan
  - Carruthers, Reid
+ - Casey, Adam
+ - Chadwick, Scott
  - Cotter, Jim
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Ferbey, Randy
+ - Forget, Wesley
  - Forrest, Tyler
  - Fowler, Rob
  - Fry, Ryan
@@ -89,12 +110,15 @@ vs:
  - Hart, Richard
  - Hebert, Ben
  - Hodgson, Colin
+ - Horgan, Tanner
  - Howard, Glenn
  - Jacobs, Brad
  - Kennedy, Marc
+ - Kidby, Dustin
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
+ - Lott, Colton
  - MacDonald, Blake
  - Martin, Karrick
  - Martin, Kevin
@@ -110,6 +134,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Park, Kevin
  - Pfeifer, Scott
  - Richter, Justin

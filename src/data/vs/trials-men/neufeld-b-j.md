@@ -6,12 +6,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 87
+        percent: 86
         wins: 2
-        losses: 1
+        losses: 2
       player2:
         percent: 89
-        wins: 1
+        wins: 2
         losses: 2
    games:
     - player1:
@@ -62,6 +62,50 @@ vs:
       year: 2017
       draw: Semi-Final(21)
       score: McEw 6 - Gush 4
+    - player1:
+        team: 'Koe'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'Gush'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(2)
+      score: Koe 3 - Gush 7
+ - name: Njegovan, Connor
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 93
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Koe'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'Gunn'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(8)
+      score: Gunn 7 - Koe 8
  - name: Rycroft, Carter
    totals:
     - event: Trials(Men)
@@ -94,13 +138,13 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 86
-        wins: 1
+        percent: 84
+        wins: 2
         losses: 0
       player2:
-        percent: 94
+        percent: 84
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'McEw'
@@ -118,6 +162,22 @@ vs:
       year: 2017
       draw: Round Robin(2)
       score: Carr 3 - McEw 7
+    - player1:
+        team: 'Koe'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'McEw'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(6)
+      score: McEw 6 - Koe 7
  - name: Savill, Craig
    totals:
     - event: Trials(Men)
@@ -262,13 +322,13 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 76
-        wins: 1
+        percent: 81
+        wins: 2
         losses: 0
       player2:
-        percent: 80
+        percent: 78
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'McEw'
@@ -286,6 +346,22 @@ vs:
       year: 2017
       draw: Round Robin(18)
       score: McEw 6 - Bott 4
+    - player1:
+        team: 'Koe'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'Bott'
+        position: Second
+        percent: 76
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(5)
+      score: Bott 7 - Koe 9
  - name: Thiessen, Nolan
    totals:
     - event: Trials(Men)
@@ -318,12 +394,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 84
+        percent: 85
         wins: 1
-        losses: 1
+        losses: 2
       player2:
-        percent: 91
-        wins: 1
+        percent: 90
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -358,4 +434,48 @@ vs:
       year: 2017
       draw: Semi-Final(21)
       score: McEw 6 - Gush 4
+    - player1:
+        team: 'Koe'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'Gush'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(2)
+      score: Koe 3 - Gush 7
+ - name: Wozniak, Matt
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Koe'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'Gunn'
+        position: Second
+        percent: 86
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(8)
+      score: Gunn 7 - Koe 8
 ---

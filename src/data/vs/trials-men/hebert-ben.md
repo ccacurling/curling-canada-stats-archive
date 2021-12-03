@@ -7,12 +7,12 @@ vs:
     - event: Trials(Men)
       player1:
         percent: 95
-        wins: 1
+        wins: 2
         losses: 0
       player2:
-        percent: 95
+        percent: 94
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'Koe'
@@ -30,6 +30,50 @@ vs:
       year: 2017
       draw: Round Robin(5)
       score: Carr 5 - Koe 6
+    - player1:
+        team: 'Koe'
+        position: Lead
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'McEw'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(6)
+      score: McEw 6 - Koe 7
+ - name: Horgan, Tanner
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 82
+        wins: 1
+        losses: 0
+      player2:
+        percent: 61
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Koe'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'Horg'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(1)
+      score: Koe 9 - Horg 2
  - name: Howard, Glenn
    totals:
     - event: Trials(Men)
@@ -94,12 +138,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 96
+        percent: 97
         wins: 1
-        losses: 1
+        losses: 3
       player2:
-        percent: 86
-        wins: 1
+        percent: 90
+        wins: 3
         losses: 1
    games:
     - player1:
@@ -134,6 +178,38 @@ vs:
       year: 2017
       draw: Round Robin(3)
       score: Jaco 6 - Koe 8
+    - player1:
+        team: 'Koe'
+        position: Lead
+        percent: 95
+        win: 0
+        loss: 1
+      player2:
+        team: 'Jaco'
+        position: Fourth
+        percent: 97
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(7)
+      score: Koe 2 - Jaco 8
+    - player1:
+        team: 'Koe'
+        position: Lead
+        percent: 100
+        win: 0
+        loss: 1
+      player2:
+        team: 'Jaco'
+        position: Fourth
+        percent: 92
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Semi-Final(10)
+      score: Koe 3 - Jaco 8
  - name: Janssen, Patrick
    totals:
     - event: Trials(Men)
@@ -162,6 +238,78 @@ vs:
       year: 2017
       draw: Round Robin(13)
       score: Koe 6 - Eppi 4
+ - name: Kennedy, Marc
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 97
+        wins: 0
+        losses: 2
+      player2:
+        percent: 95
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'Koe'
+        position: Lead
+        percent: 95
+        win: 0
+        loss: 1
+      player2:
+        team: 'Jaco'
+        position: Third
+        percent: 95
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(7)
+      score: Koe 2 - Jaco 8
+    - player1:
+        team: 'Koe'
+        position: Lead
+        percent: 100
+        win: 0
+        loss: 1
+      player2:
+        team: 'Jaco'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Semi-Final(10)
+      score: Koe 3 - Jaco 8
+ - name: Kidby, Dustin
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 97
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Koe'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'Duns'
+        position: Lead
+        percent: 97
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(3)
+      score: Koe 10 - Duns 3
  - name: Koe, Kevin
    totals:
     - event: Trials(Men)
@@ -211,12 +359,12 @@ vs:
     - event: Trials(Men)
       player1:
         percent: 93
-        wins: 3
+        wins: 4
         losses: 0
       player2:
         percent: 83
         wins: 0
-        losses: 3
+        losses: 4
    games:
     - player1:
         team: 'MART'
@@ -266,6 +414,22 @@ vs:
       year: 2013
       draw: Round Robin(8)
       score: HOW 7 - MAR 9
+    - player1:
+        team: 'Koe'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'Eppi'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(9)
+      score: Eppi 3 - Koe 9
  - name: Laycock, Steve
    totals:
     - event: Trials(Men)
@@ -310,6 +474,34 @@ vs:
       year: 2017
       draw: Round Robin(1)
       score: Koe 6 - Layc 3
+ - name: Lott, Colton
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Koe'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'Duns'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(3)
+      score: Koe 10 - Duns 3
  - name: MacDonald, Blake
    totals:
     - event: Trials(Men)
@@ -370,13 +562,13 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 98
-        wins: 1
+        percent: 95
+        wins: 2
         losses: 0
       player2:
-        percent: 86
+        percent: 91
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'Koe'
@@ -394,6 +586,22 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: Koe 7 - Bott 6
+    - player1:
+        team: 'Koe'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'Bott'
+        position: Lead
+        percent: 95
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(5)
+      score: Bott 7 - Koe 9
  - name: Mathers, David
    totals:
     - event: Trials(Men)
@@ -426,13 +634,13 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 90
-        wins: 3
+        percent: 91
+        wins: 4
         losses: 0
       player2:
-        percent: 91
+        percent: 88
         wins: 0
-        losses: 3
+        losses: 4
    games:
     - player1:
         team: 'MAR'
@@ -482,6 +690,22 @@ vs:
       year: 2017
       draw: Final(22)
       score: Koe 7 - McEw 6
+    - player1:
+        team: 'Koe'
+        position: Lead
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'McEw'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(6)
+      score: McEw 6 - Koe 7
  - name: Mead, Jon
    totals:
     - event: Trials(Men)
@@ -690,13 +914,13 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 98
-        wins: 1
+        percent: 95
+        wins: 2
         losses: 0
       player2:
-        percent: 75
+        percent: 81
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'Koe'
@@ -714,6 +938,22 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: Koe 7 - Bott 6
+    - player1:
+        team: 'Koe'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'Bott'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(5)
+      score: Bott 7 - Koe 9
  - name: Muyres, Dallan
    totals:
     - event: Trials(Men)
@@ -746,13 +986,13 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 86
-        wins: 1
+        percent: 84
+        wins: 2
         losses: 0
       player2:
-        percent: 90
+        percent: 89
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'Koe'
@@ -770,6 +1010,22 @@ vs:
       year: 2017
       draw: Round Robin(1)
       score: Koe 6 - Layc 3
+    - player1:
+        team: 'Koe'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'Duns'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(3)
+      score: Koe 10 - Duns 3
  - name: Nedohin, David
    totals:
     - event: Trials(Men)
@@ -922,12 +1178,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 87
+        percent: 90
         wins: 1
-        losses: 1
+        losses: 2
       player2:
-        percent: 89
-        wins: 1
+        percent: 90
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -962,6 +1218,50 @@ vs:
       year: 2017
       draw: Round Robin(20)
       score: Koe 3 - Gush 6
+    - player1:
+        team: 'Koe'
+        position: Lead
+        percent: 97
+        win: 0
+        loss: 1
+      player2:
+        team: 'Gush'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(2)
+      score: Koe 3 - Gush 7
+ - name: Njegovan, Connor
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 96
+        wins: 1
+        losses: 0
+      player2:
+        percent: 93
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Koe'
+        position: Lead
+        percent: 96
+        win: 1
+        loss: 0
+      player2:
+        team: 'Gunn'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(8)
+      score: Gunn 7 - Koe 8
  - name: Park, Kevin
    totals:
     - event: Trials(Men)
@@ -1123,12 +1423,12 @@ vs:
     - event: Trials(Men)
       player1:
         percent: 95
-        wins: 1
+        wins: 2
         losses: 0
       player2:
-        percent: 90
+        percent: 83
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'Koe'
@@ -1146,6 +1446,22 @@ vs:
       year: 2017
       draw: Round Robin(5)
       score: Carr 5 - Koe 6
+    - player1:
+        team: 'Koe'
+        position: Lead
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'McEw'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(6)
+      score: McEw 6 - Koe 7
  - name: Savill, Craig
    totals:
     - event: Trials(Men)
@@ -1398,13 +1714,13 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 98
-        wins: 1
+        percent: 95
+        wins: 2
         losses: 0
       player2:
-        percent: 86
+        percent: 81
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'Koe'
@@ -1422,6 +1738,22 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: Koe 7 - Bott 6
+    - player1:
+        team: 'Koe'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'Bott'
+        position: Second
+        percent: 76
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(5)
+      score: Bott 7 - Koe 9
  - name: Thiessen, Nolan
    totals:
     - event: Trials(Men)
@@ -1470,12 +1802,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 84
+        percent: 90
         wins: 0
-        losses: 1
+        losses: 2
       player2:
         percent: 88
-        wins: 1
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1494,17 +1826,33 @@ vs:
       year: 2017
       draw: Round Robin(20)
       score: Koe 3 - Gush 6
+    - player1:
+        team: 'Koe'
+        position: Lead
+        percent: 97
+        win: 0
+        loss: 1
+      player2:
+        team: 'Gush'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(2)
+      score: Koe 3 - Gush 7
  - name: Wozniak, Matt
    totals:
     - event: Trials(Men)
       player1:
-        percent: 90
-        wins: 3
+        percent: 92
+        wins: 4
         losses: 0
       player2:
-        percent: 81
+        percent: 83
         wins: 0
-        losses: 3
+        losses: 4
    games:
     - player1:
         team: 'MAR'
@@ -1554,6 +1902,22 @@ vs:
       year: 2017
       draw: Final(22)
       score: Koe 7 - McEw 6
+    - player1:
+        team: 'Koe'
+        position: Lead
+        percent: 96
+        win: 1
+        loss: 0
+      player2:
+        team: 'Gunn'
+        position: Second
+        percent: 86
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(8)
+      score: Gunn 7 - Koe 8
  - name: Zawada, Braden
    totals:
     - event: Trials(Men)

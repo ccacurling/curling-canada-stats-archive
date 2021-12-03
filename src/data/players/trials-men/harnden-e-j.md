@@ -4,18 +4,18 @@ name: E.J. Harnden
 name-sort: Harnden, E.J.
 totals:
  - event: Trials (Men)
-   games: 15
-   wins: 11
-   losses: 4
-   inturn-total: 102
-   inturn-percent: 87
-   outturn-total: 186
-   outturn-percent: 88
-   draw-total: 82
-   draw-percent: 84
-   takeout-total: 206
+   games: 25
+   wins: 19
+   losses: 6
+   inturn-total: 190
+   inturn-percent: 88
+   outturn-total: 278
+   outturn-percent: 89
+   draw-total: 148
+   draw-percent: 86
+   takeout-total: 320
    takeout-percent: 89
-   shots-total: 288
+   shots-total: 468
    shots-percent: 88
 years:
  - year: 2013
@@ -52,23 +52,51 @@ years:
    takeout-percent: 90
    shots-total: 134
    shots-percent: 88
+ - year: 2021
+   event: Trials (Men)
+   team: "Jaco"
+   position: Second
+   games: 10
+   wins: 8
+   losses: 2
+   inturn-total: 88
+   inturn-percent: 89
+   outturn-total: 92
+   outturn-percent: 90
+   draw-total: 66
+   draw-percent: 90
+   takeout-total: 114
+   takeout-percent: 89
+   shots-total: 180
+   shots-percent: 89
 vs:
  - Bailey, Scott
+ - Beuk, Jonathan
  - Bottcher, Brendan
+ - Camm, Mathew
  - Carruthers, Reid
+ - Casey, Adam
+ - Chadwick, Scott
  - Cotter, Jim
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
+ - Forget, Wesley
+ - Fry, Ryan
  - Gallant, Brett
  - Griffith, Tyrel
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Hebert, Ben
  - Hodgson, Colin
+ - Horgan, Jacob
+ - Horgan, Tanner
  - Howard, Glenn
  - Kennedy, Marc
+ - Kidby, Dustin
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
+ - Lott, Colton
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
@@ -85,6 +113,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Rycroft, Carter
  - Samagalski, Derek
  - Savill, Craig

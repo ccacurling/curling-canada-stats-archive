@@ -30,7 +30,7 @@ vs:
       year: 2005
       draw: Round Robin(12)
       score: RYA 7 - DAC 5
- - name: Dunstone, Matthew
+ - name: Dunstone, Matt
    totals:
     - event: Trials(Men)
       player1:

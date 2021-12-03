@@ -4,19 +4,19 @@ name: Matt Wozniak
 name-sort: Wozniak, Matt
 totals:
  - event: Trials (Men)
-   games: 17
-   wins: 9
-   losses: 8
-   inturn-total: 148
-   inturn-percent: 83
-   outturn-total: 182
-   outturn-percent: 86
-   draw-total: 129
+   games: 25
+   wins: 11
+   losses: 14
+   inturn-total: 201
+   inturn-percent: 84
+   outturn-total: 279
+   outturn-percent: 85
+   draw-total: 194
    draw-percent: 88
-   takeout-total: 201
+   takeout-total: 286
    takeout-percent: 82
-   shots-total: 330
-   shots-percent: 84
+   shots-total: 480
+   shots-percent: 85
 years:
  - year: 2013
    event: Trials (Men)
@@ -52,14 +52,34 @@ years:
    takeout-percent: 84
    shots-total: 192
    shots-percent: 86
+ - year: 2021
+   event: Trials (Men)
+   team: "Gunn"
+   position: Second
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 53
+   inturn-percent: 85
+   outturn-total: 97
+   outturn-percent: 85
+   draw-total: 65
+   draw-percent: 89
+   takeout-total: 85
+   takeout-percent: 82
+   shots-total: 150
+   shots-percent: 85
 vs:
  - Bailey, Scott
+ - Beuk, Jonathan
  - Bottcher, Brendan
  - Camm, Mathew
  - Carruthers, Reid
+ - Chadwick, Scott
  - Cotter, Jim
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
+ - Forget, Wesley
  - Fry, Ryan
  - Gallant, Brett
  - Griffith, Tyrel
@@ -68,17 +88,21 @@ vs:
  - Harnden, Ryan
  - Hebert, Ben
  - Hodgson, Colin
+ - Horgan, Tanner
  - Howard, Glenn
  - Jacobs, Brad
  - Janssen, Patrick
  - Kennedy, Marc
+ - Kidby, Dustin
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
+ - Lott, Colton
  - March, Tim
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
+ - McEwen, Mike
  - Mead, Jon
  - Middaugh, Wayne
  - Mitchell, Collin
@@ -88,6 +112,7 @@ vs:
  - Muyres, Dallan
  - Muyres, Kirk
  - Nedohin, David
+ - Neufeld, B.J.
  - Nichols, Mark
  - Rycroft, Carter
  - Samagalski, Derek

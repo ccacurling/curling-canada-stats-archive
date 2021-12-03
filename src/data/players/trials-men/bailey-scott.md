@@ -65,8 +65,6 @@ years:
    outturn-percent: 93
    draw-total: 34
    draw-percent: 90
-   takeout-total: 0
-   takeout-percent:
    shots-total: 34
    shots-percent: 90
  - year: 2009

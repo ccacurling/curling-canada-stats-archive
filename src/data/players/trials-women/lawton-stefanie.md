@@ -69,6 +69,10 @@ years:
    takeout-percent: 84
    shots-total: 134
    shots-percent: 76
+ - year: 2021
+   event: Trials (Women)
+   team: "Rocq"
+   position: Alternate
 vs:
  - Anderson, Sherry
  - Armstrong, Jacquie

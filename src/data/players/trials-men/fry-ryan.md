@@ -4,19 +4,19 @@ name: Ryan Fry
 name-sort: Fry, Ryan
 totals:
  - event: Trials (Men)
-   games: 16
-   wins: 11
-   losses: 5
-   inturn-total: 99
-   inturn-percent: 84
-   outturn-total: 202
-   outturn-percent: 86
-   draw-total: 92
-   draw-percent: 82
-   takeout-total: 209
-   takeout-percent: 87
-   shots-total: 301
-   shots-percent: 85
+   games: 24
+   wins: 14
+   losses: 10
+   inturn-total: 160
+   inturn-percent: 85
+   outturn-total: 281
+   outturn-percent: 87
+   draw-total: 140
+   draw-percent: 84
+   takeout-total: 301
+   takeout-percent: 88
+   shots-total: 441
+   shots-percent: 86
 years:
  - year: 2013
    event: Trials (Men)
@@ -52,25 +52,53 @@ years:
    takeout-percent: 87
    shots-total: 148
    shots-percent: 85
+ - year: 2021
+   event: Trials (Men)
+   team: "Eppi"
+   position: Third
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 61
+   inturn-percent: 86
+   outturn-total: 79
+   outturn-percent: 91
+   draw-total: 48
+   draw-percent: 86
+   takeout-total: 92
+   takeout-percent: 90
+   shots-total: 140
+   shots-percent: 89
 vs:
  - Bailey, Scott
+ - Beuk, Jonathan
  - Bottcher, Brendan
  - Camm, Mathew
  - Carruthers, Reid
+ - Casey, Adam
+ - Chadwick, Scott
  - Cotter, Jim
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
+ - Forget, Wesley
  - Gallant, Brett
  - Griffith, Tyrel
+ - Gunnlaugson, Jason
  - Gushue, Brad
+ - Harnden, E.J.
+ - Harnden, Ryan
  - Hebert, Ben
  - Hodgson, Colin
+ - Horgan, Tanner
  - Howard, Glenn
+ - Jacobs, Brad
  - Janssen, Patrick
  - Kennedy, Marc
+ - Kidby, Dustin
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
+ - Lott, Colton
  - March, Tim
  - Martin, Karrick
  - Martin, Kevin
@@ -88,6 +116,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Rycroft, Carter
  - Samagalski, Derek
  - Savill, Craig

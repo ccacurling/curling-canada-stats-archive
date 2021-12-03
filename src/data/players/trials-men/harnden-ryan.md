@@ -4,19 +4,19 @@ name: Ryan Harnden
 name-sort: Harnden, Ryan
 totals:
  - event: Trials (Men)
-   games: 16
-   wins: 11
-   losses: 5
-   inturn-total: 64
-   inturn-percent: 84
-   outturn-total: 232
-   outturn-percent: 89
-   draw-total: 251
-   draw-percent: 88
-   takeout-total: 45
+   games: 26
+   wins: 19
+   losses: 7
+   inturn-total: 168
+   inturn-percent: 89
+   outturn-total: 308
+   outturn-percent: 90
+   draw-total: 406
+   draw-percent: 90
+   takeout-total: 70
    takeout-percent: 86
-   shots-total: 296
-   shots-percent: 88
+   shots-total: 476
+   shots-percent: 90
 years:
  - year: 2013
    event: Trials (Men)
@@ -85,25 +85,52 @@ years:
    takeout-percent: 80
    shots-total: 144
    shots-percent: 87
+ - year: 2021
+   event: Trials (Men)
+   team: "Jaco"
+   position: Lead
+   games: 10
+   wins: 8
+   losses: 2
+   inturn-total: 104
+   inturn-percent: 93
+   outturn-total: 76
+   outturn-percent: 92
+   draw-total: 155
+   draw-percent: 94
+   takeout-total: 25
+   takeout-percent: 85
+   shots-total: 180
+   shots-percent: 93
 vs:
  - Bailey, Scott
+ - Beuk, Jonathan
  - Bottcher, Brendan
  - Camm, Mathew
  - Carruthers, Reid
+ - Casey, Adam
+ - Chadwick, Scott
  - Cotter, Jim
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
+ - Forget, Wesley
+ - Fry, Ryan
  - Gallant, Brett
  - Griffith, Tyrel
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Hebert, Ben
  - Hodgson, Colin
+ - Horgan, Jacob
+ - Horgan, Tanner
  - Howard, Glenn
  - Janssen, Patrick
  - Kennedy, Marc
+ - Kidby, Dustin
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
+ - Lott, Colton
  - March, Tim
  - Martin, Karrick
  - Martin, Kevin
@@ -121,6 +148,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Rycroft, Carter
  - Samagalski, Derek
  - Savill, Craig

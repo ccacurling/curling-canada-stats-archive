@@ -13,8 +13,6 @@ totals:
    outturn-percent: 81
    draw-total: 14
    draw-percent: 82
-   takeout-total: 0
-   takeout-percent:
    shots-total: 14
    shots-percent: 82
 years:
@@ -31,8 +29,6 @@ years:
    outturn-percent: 81
    draw-total: 14
    draw-percent: 82
-   takeout-total: 0
-   takeout-percent:
    shots-total: 14
    shots-percent: 82
 vs:

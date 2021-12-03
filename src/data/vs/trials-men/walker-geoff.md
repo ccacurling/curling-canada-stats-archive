@@ -6,12 +6,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 91
+        percent: 90
         wins: 1
-        losses: 1
+        losses: 2
       player2:
-        percent: 88
-        wins: 1
+        percent: 89
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -46,4 +46,20 @@ vs:
       year: 2017
       draw: Semi-Final(21)
       score: McEw 6 - Gush 4
+    - player1:
+        team: 'Gush'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'Gunn'
+        position: Second
+        percent: 93
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2021
+      draw: Round Robin(6)
+      score: Gunn 7 - Gush 6
 ---

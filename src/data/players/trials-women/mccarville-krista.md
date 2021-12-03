@@ -4,19 +4,19 @@ name: Krista McCarville
 name-sort: McCarville, Krista
 totals:
  - event: Trials (Women)
-   games: 18
-   wins: 10
-   losses: 8
-   inturn-total: 169
-   inturn-percent: 78
-   outturn-total: 169
-   outturn-percent: 82
-   draw-total: 145
-   draw-percent: 72
-   takeout-total: 193
-   takeout-percent: 85
-   shots-total: 338
-   shots-percent: 80
+   games: 28
+   wins: 15
+   losses: 13
+   inturn-total: 260
+   inturn-percent: 79
+   outturn-total: 266
+   outturn-percent: 80
+   draw-total: 226
+   draw-percent: 73
+   takeout-total: 300
+   takeout-percent: 84
+   shots-total: 526
+   shots-percent: 79
 years:
  - year: 2009
    event: Trials (Women)
@@ -52,10 +52,28 @@ years:
    takeout-percent: 86
    shots-total: 153
    shots-percent: 82
+ - year: 2021
+   event: Trials (Women)
+   team: "McCa"
+   position: Fourth
+   games: 10
+   wins: 5
+   losses: 5
+   inturn-total: 91
+   inturn-percent: 80
+   outturn-total: 97
+   outturn-percent: 77
+   draw-total: 81
+   draw-percent: 74
+   takeout-total: 107
+   takeout-percent: 81
+   shots-total: 188
+   shots-percent: 78
 vs:
  - Armstrong, Jacquie
  - Bell, Chelsey
  - Bernard, Cheryl
+ - Birchard, Shannon
  - Bobbie, Tess
  - Brown, Rachel
  - Cameron, Kate
@@ -65,10 +83,16 @@ vs:
  - Courtney, Joanne
  - Darbyshire, Carolyn
  - Duhaime, Chantal
+ - Einarson, Kerri
  - Englot, Michelle
  - Ferguson, Dana
  - Flaxey, Allison
+ - Fleury, Tracy
+ - Fyfe, Liz
  - Grandy, Clancy
+ - Harrison, Jacqueline
+ - Haughian, Jessie
+ - Hickey, Laura
  - Holland, Amber
  - Homan, Rachel
  - Jones, Jennifer
@@ -78,34 +102,44 @@ vs:
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lawton, Stefanie
+ - MacCuish, Kristin
  - Malekoff, Stephanie
+ - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
+ - Meilleur, Briane
  - Miskew, Emma
  - Moore, Kristie
  - Morris, Cori
  - Nixon, Amy
+ - Njegovan, Selena
  - O'Connor, Susan
  - Officer, Jill
  - Olson-Johns, Lori
  - Overton-Clapham, Cathy
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pincott, Erin
  - Preston, Sam
+ - Rocque, Kelsey
  - Scheidegger, Casey
  - Scheidegger, Jessie
+ - Schmiemann, Danielle
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
+ - Scotland, Nadine
  - Scott, Kelly
  - Singler, Sherri
  - Sweeting, Val
  - Tippin, Julie
  - Vey, Lana
  - Vink, Rachelle
+ - Walker, Laura
  - Weagle, Lisa
  - Webster, Bronwen
  - Webster, Crystal
  - Westcott, Raunora
+ - Wilkes, Sarah
  - Wilson, Leslie
 ---

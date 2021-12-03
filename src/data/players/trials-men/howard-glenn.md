@@ -103,6 +103,10 @@ years:
    takeout-percent: 82
    shots-total: 132
    shots-percent: 83
+ - year: 2021
+   event: Trials (Men)
+   team: "Eppi"
+   position: Alternate
 vs:
  - Adam, Gerry
  - Adams, Shawn

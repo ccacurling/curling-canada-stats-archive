@@ -4,18 +4,18 @@ name: Denni Neufeld
 name-sort: Neufeld, Denni
 totals:
  - event: Trials (Men)
-   games: 17
-   wins: 9
+   games: 18
+   wins: 10
    losses: 8
    inturn-total: 199
    inturn-percent: 89
-   outturn-total: 127
+   outturn-total: 129
    outturn-percent: 90
-   draw-total: 294
+   draw-total: 296
    draw-percent: 90
    takeout-total: 32
    takeout-percent: 81
-   shots-total: 326
+   shots-total: 328
    shots-percent: 89
 years:
  - year: 2013
@@ -52,13 +52,26 @@ years:
    takeout-percent: 80
    shots-total: 191
    shots-percent: 90
+ - year: 2021
+   event: Trials (Men)
+   team: "Koe"
+   position: Lead
+   games: 1
+   wins: 1
+   losses: 0
+   outturn-total: 2
+   outturn-percent: 100
+   draw-total: 2
+   draw-percent: 100
+   shots-total: 2
+   shots-percent: 100
 vs:
  - Bailey, Scott
  - Bottcher, Brendan
  - Camm, Mathew
  - Carruthers, Reid
  - Cotter, Jim
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Epping, John
  - Fry, Ryan
  - Gallant, Brett

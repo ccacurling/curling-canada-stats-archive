@@ -4,19 +4,19 @@ name: John Morris
 name-sort: Morris, John
 totals:
  - event: Trials (Men)
-   games: 44
-   wins: 26
-   losses: 18
-   inturn-total: 378
-   inturn-percent: 83
-   outturn-total: 469
-   outturn-percent: 84
-   draw-total: 372
-   draw-percent: 84
-   takeout-total: 475
-   takeout-percent: 83
-   shots-total: 847
-   shots-percent: 83
+   games: 53
+   wins: 32
+   losses: 21
+   inturn-total: 449
+   inturn-percent: 84
+   outturn-total: 554
+   outturn-percent: 85
+   draw-total: 448
+   draw-percent: 85
+   takeout-total: 555
+   takeout-percent: 84
+   shots-total: 1003
+   shots-percent: 85
 years:
  - year: 2001
    event: Trials (Men)
@@ -136,26 +136,47 @@ years:
    takeout-percent: 85
    shots-total: 158
    shots-percent: 83
+ - year: 2021
+   event: Trials (Men)
+   team: "Koe"
+   position: Second
+   games: 9
+   wins: 6
+   losses: 3
+   inturn-total: 71
+   inturn-percent: 89
+   outturn-total: 85
+   outturn-percent: 94
+   draw-total: 76
+   draw-percent: 93
+   takeout-total: 80
+   takeout-percent: 90
+   shots-total: 156
+   shots-percent: 92
 vs:
  - Adam, Gerry
  - Adams, Shawn
  - Armstrong, Doug
  - Bailey, Scott
  - Bartlett, Don
+ - Beuk, Jonathan
  - Bottcher, Brendan
  - Burgess, Craig
  - Burtnyk, Kerry
  - Camm, Mathew
  - Carruthers, Reid
+ - Casey, Adam
+ - Chadwick, Scott
  - Cotter, Jim
  - Dacey, Mark
- - Dunstone, Matthew
+ - Dunstone, Matt
  - Engel, Ron
  - Epping, John
  - Fenton, Brad
  - Fenton, Keith
  - Ferbey, Randy
  - Flemming, Paul
+ - Forget, Wesley
  - Forrest, Tyler
  - Fowler, Rob
  - Fry, Ryan
@@ -172,17 +193,20 @@ vs:
  - Hart, Richard
  - Hebert, Ben
  - Hodgson, Colin
+ - Horgan, Tanner
  - Howard, Glenn
  - Howard, Russ
  - Jacobs, Brad
  - Janssen, Patrick
  - Kennedy, Marc
+ - Kidby, Dustin
  - Koe, Kevin
  - Korab, Jamie
  - Laing, Brent
  - Laycock, Steve
  - Leech, Ron
  - Lohnes, Bruce
+ - Lott, Colton
  - MacDonald, Blake
  - MacKenzie, Kevin
  - March, Tim
@@ -207,6 +231,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Odishaw, Grant
  - Park, Kevin
  - Park, Shane
