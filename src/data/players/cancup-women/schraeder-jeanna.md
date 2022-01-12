@@ -4,20 +4,37 @@ name: Jeanna Schraeder
 name-sort: Schraeder, Jeanna
 totals:
  - event: Canada Cup (Women)
-   games: 36
-   wins: 16
-   losses: 20
-   inturn-total: 349
-   inturn-percent: 79
-   outturn-total: 343
+   games: 42
+   wins: 19
+   losses: 23
+   inturn-total: 407
+   inturn-percent: 80
+   outturn-total: 395
    outturn-percent: 79
-   draw-total: 330
+   draw-total: 375
    draw-percent: 77
-   takeout-total: 362
-   takeout-percent: 82
-   shots-total: 692
+   takeout-total: 427
+   takeout-percent: 81
+   shots-total: 802
    shots-percent: 79
 years:
+ - year: 2003
+   event: Canada Cup (Women)
+   team: "Scot"
+   position: Third
+   games: 6
+   wins: 3
+   losses: 3
+   inturn-total: 58
+   inturn-percent: 82
+   outturn-total: 52
+   outturn-percent: 76
+   draw-total: 45
+   draw-percent: 81
+   takeout-total: 65
+   takeout-percent: 78
+   shots-total: 110
+   shots-percent: 79
  - year: 2004
    event: Canada Cup (Women)
    team: "SCO"
@@ -128,6 +145,7 @@ vs:
  - Bell, Chelsey
  - Bernard, Cheryl
  - Betker, Jan
+ - Birt, Suzanne
  - Breen, Theresa
  - Bryden, Renelle
  - Burgess, Allyson
@@ -139,10 +157,13 @@ vs:
  - Cunningham, Cathy
  - Darbyshire, Carolyn
  - Delahunt, Nancy
+ - Dezura, Diane
  - Doig, Deanna
  - Englot, Michelle
+ - Enright, Barb
  - Fargey, Lisa
  - Farrell, Allison
+ - Froud, Susan
  - Gatchell, Sara
  - Gignac, Donna
  - Goss, Peg
@@ -162,14 +183,17 @@ vs:
  - Kerr, Kathy
  - King, Cathy
  - Kleibrink, Shannon
+ - Law, Kelley
  - Lawes, Andrea
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Leger, Stacey
  - Linton, Sherry
+ - MacDonald, Rebecca Jean
  - Maclachlan, Kyla
  - MacLean, Kari
  - MacLeod, Lisa
+ - MacPhee, Robyn
  - Marchand, Stephanie
  - Martin, Heather
  - Materi, Roberta
@@ -177,6 +201,7 @@ vs:
  - McCarville, Krista
  - McCusker, Joan
  - McEwen, Dawn
+ - McInnis, Susan
  - McIvor, Jolene
  - McIvor, Michelle
  - McNabb, Jody
@@ -200,18 +225,23 @@ vs:
  - Preston, Samantha
  - Rankin, Heather
  - Rizzo, Jo-Ann
+ - Robertson, Darcy
  - Rocque, Raylene
  - Ruus, Karen
  - Schneider, Kim
  - Schneider, Tammy
+ - Shantz, Penny
  - Simmons, Cindy
  - Singler, Sherri
  - Sippala, Ashley
+ - Skinner, Julie
  - Smith, Heather
  - Smith, Nancy
+ - Spencer, Barb
  - Strong, Heather
  - Strong, Laura
  - Tuck, Kim
+ - Unrau, Faye
  - Vey, Lana
  - Wall, Kirsten
  - Webster, Bronwen

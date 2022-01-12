@@ -234,66 +234,6 @@ vs:
       year: 2010
       draw: Semi-Final(13)
       score: SK 4 - SL 8
- - name: Bergner, Sasha
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 69
-        wins: 0
-        losses: 3
-      player2:
-        percent: 80
-        wins: 3
-        losses: 0
-   games:
-    - player1:
-        team: 'Ande'
-        position: Fourth
-        percent: 53
-        win: 0
-        loss: 1
-      player2:
-        team: 'Scot'
-        position: Second
-        percent: 82
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2003
-      draw: Round Robin(8)
-      score: Scot 9 - Ande 5
-    - player1:
-        team: 'Ande'
-        position: Fourth
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'Scot'
-        position: Second
-        percent: 78
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2003
-      draw: Playoff(9)
-      score: Ande 5 - Scot 6
-    - player1:
-        team: 'AND'
-        position: Fourth
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'SCO'
-        position: Second
-        percent: 81
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2004
-      draw: Round Robin(3)
-      score: SCO 7 - AND 5
  - name: Bernard, Cheryl
    totals:
     - event: Canada Cup (Women)
@@ -570,14 +510,62 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 86
+        percent: 73
         wins: 1
-        losses: 0
+        losses: 3
       player2:
-        percent: 67
-        wins: 0
+        percent: 77
+        wins: 3
         losses: 1
    games:
+    - player1:
+        team: 'Ande'
+        position: Fourth
+        percent: 53
+        win: 0
+        loss: 1
+      player2:
+        team: 'Scot'
+        position: Second
+        percent: 82
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2003
+      draw: Round Robin(8)
+      score: Scot 9 - Ande 5
+    - player1:
+        team: 'Ande'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'Scot'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2003
+      draw: Playoff(9)
+      score: Ande 5 - Scot 6
+    - player1:
+        team: 'AND'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'SCO'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2004
+      draw: Round Robin(3)
+      score: SCO 7 - AND 5
     - player1:
         team: 'SL'
         position: Third
@@ -3514,50 +3502,6 @@ vs:
       year: 2012
       draw: Round Robin(7)
       score: WEB 4 - LAW 8
- - name: Richard, Jeanna
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 64
-        wins: 0
-        losses: 2
-      player2:
-        percent: 75
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'Ande'
-        position: Fourth
-        percent: 53
-        win: 0
-        loss: 1
-      player2:
-        team: 'Scot'
-        position: Third
-        percent: 79
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2003
-      draw: Round Robin(8)
-      score: Scot 9 - Ande 5
-    - player1:
-        team: 'Ande'
-        position: Fourth
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'Scot'
-        position: Third
-        percent: 71
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2003
-      draw: Playoff(9)
-      score: Ande 5 - Scot 6
  - name: Rizzo, Jo-Ann
    totals:
     - event: Canada Cup (Women)
@@ -3818,14 +3762,46 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 82
+        percent: 73
         wins: 1
-        losses: 1
+        losses: 3
       player2:
         percent: 76
-        wins: 1
+        wins: 3
         losses: 1
    games:
+    - player1:
+        team: 'Ande'
+        position: Fourth
+        percent: 53
+        win: 0
+        loss: 1
+      player2:
+        team: 'Scot'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2003
+      draw: Round Robin(8)
+      score: Scot 9 - Ande 5
+    - player1:
+        team: 'Ande'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'Scot'
+        position: Third
+        percent: 71
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2003
+      draw: Playoff(9)
+      score: Ande 5 - Scot 6
     - player1:
         team: 'AND'
         position: Fourth

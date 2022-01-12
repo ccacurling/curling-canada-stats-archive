@@ -193,7 +193,6 @@ vs:
  - Appelman, Pam
  - Arsenault, Mary-Anne
  - Bell, Chelsey
- - Bergner, Sasha
  - Betker, Jan
  - Brassard, Veronique
  - Breen, Theresa

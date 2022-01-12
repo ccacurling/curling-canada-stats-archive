@@ -2,6 +2,34 @@
 title: Renelle Bryden Head-to-head
 name: Bryden, Renelle
 vs:
+ - name: Carter, Sasha
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BRY'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'SCO'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2004
+      draw: Round Robin(5)
+      score: BRY 7 - SCO 6
  - name: Clarke, Hayley
    totals:
     - event: Canada Cup (Women)

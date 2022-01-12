@@ -30,16 +30,44 @@ vs:
       year: 2004
       draw: Round Robin(6)
       score: AND 5 - KLE 4
- - name: Richard, Jeanna
+ - name: Robertson, Darcy
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 69
-        wins: 0
-        losses: 2
+        percent: 85
+        wins: 1
+        losses: 0
       player2:
-        percent: 75
-        wins: 2
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Ande'
+        position: Second
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'Spen'
+        position: Third
+        percent: 85
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2003
+      draw: Round Robin(5)
+      score: Ande 8 - Spen 5
+ - name: Schraeder, Jeanna
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 72
+        wins: 0
+        losses: 3
+      player2:
+        percent: 74
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -74,46 +102,6 @@ vs:
       year: 2003
       draw: Playoff(9)
       score: Ande 5 - Scot 6
- - name: Robertson, Darcy
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 85
-        wins: 1
-        losses: 0
-      player2:
-        percent: 85
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'Ande'
-        position: Second
-        percent: 85
-        win: 1
-        loss: 0
-      player2:
-        team: 'Spen'
-        position: Third
-        percent: 85
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2003
-      draw: Round Robin(5)
-      score: Ande 8 - Spen 5
- - name: Schraeder, Jeanna
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 76
-        wins: 0
-        losses: 1
-      player2:
-        percent: 71
-        wins: 1
-        losses: 0
-   games:
     - player1:
         team: 'AND'
         position: Second

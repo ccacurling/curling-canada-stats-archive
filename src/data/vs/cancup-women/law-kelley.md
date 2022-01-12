@@ -202,34 +202,6 @@ vs:
       year: 2003
       draw: Round Robin(2)
       score: KLaw 11 - Ande 7
- - name: Richard, Jeanna
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 78
-        wins: 1
-        losses: 0
-      player2:
-        percent: 67
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'KLaw'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'Scot'
-        position: Third
-        percent: 67
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2003
-      draw: Round Robin(4)
-      score: Scot 4 - KLaw 9
  - name: Robertson, Darcy
    totals:
     - event: Canada Cup (Women)
@@ -258,6 +230,34 @@ vs:
       year: 2003
       draw: Round Robin(6)
       score: KLaw 10 - Spen 4
+ - name: Schraeder, Jeanna
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'KLaw'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'Scot'
+        position: Third
+        percent: 67
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2003
+      draw: Round Robin(4)
+      score: Scot 4 - KLaw 9
  - name: Scott, Kelly
    totals:
     - event: Canada Cup (Women)

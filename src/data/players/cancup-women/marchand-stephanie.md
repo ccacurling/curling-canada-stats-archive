@@ -37,8 +37,8 @@ years:
    shots-percent: 79
 vs:
  - Anderson, Sherry
- - Bergner, Sasha
  - Bryden, Renelle
+ - Carter, Sasha
  - Clarke, Hayley
  - Comstock, Melanie
  - Darbyshire, Carolyn

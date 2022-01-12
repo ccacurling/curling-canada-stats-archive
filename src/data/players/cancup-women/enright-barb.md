@@ -37,8 +37,8 @@ years:
    shots-percent: 79
 vs:
  - Anderson, Sherry
- - Bergner, Sasha
  - Breen, Theresa
+ - Carter, Sasha
  - Dezura, Diane
  - Froud, Susan
  - Gatchell, Sara
@@ -46,7 +46,7 @@ vs:
  - Hodson, Kim
  - Law, Kelley
  - Mulroney, Sandra
- - Richard, Jeanna
+ - Schraeder, Jeanna
  - Scott, Kelly
  - Shantz, Penny
  - Simons, Renee

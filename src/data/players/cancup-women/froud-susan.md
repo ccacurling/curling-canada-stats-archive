@@ -56,10 +56,10 @@ vs:
  - Anderson, Sherry
  - Arsenault, Mary-Anne
  - Bakker, Glenys
- - Bergner, Sasha
  - Bernard, Cheryl
  - Betker, Jan
  - Burgess, Allyson
+ - Carter, Sasha
  - Delahunt, Nancy
  - Dezura, Diane
  - Enright, Barb
@@ -82,9 +82,9 @@ vs:
  - Nixon, Amy
  - O'Connor, Susan
  - Peters, Laine
- - Richard, Jeanna
  - Robertson, Darcy
  - Ruus, Karen
+ - Schraeder, Jeanna
  - Scott, Kelly
  - Simons, Renee
  - Skinner, Julie

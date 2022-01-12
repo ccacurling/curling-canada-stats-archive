@@ -161,7 +161,6 @@ vs:
  - Bakker, Glenys
  - Baleja, Susan
  - Bell, Chelsey
- - Bergner, Sasha
  - Bernard, Cheryl
  - Blair, Janice
  - Breen, Theresa
@@ -241,7 +240,6 @@ vs:
  - Potts, Sarah
  - Preston, Samantha
  - Ramsay, Geri-Lynn
- - Richard, Jeanna
  - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Robertson, Desiree

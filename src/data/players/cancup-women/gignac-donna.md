@@ -91,12 +91,12 @@ vs:
  - Bakker, Glenys
  - Baleja, Susan
  - Bell, Chelsey
- - Bergner, Sasha
  - Bernard, Cheryl
  - Blair, Janice
  - Breen, Theresa
  - Bryden, Renelle
  - Bush, Tracy
+ - Carter, Sasha
  - Clarke, Hayley
  - Comstock, Melanie
  - Darbyshire, Carolyn
@@ -138,7 +138,6 @@ vs:
  - Olson-Johns, Lori
  - Overton-Clapham, Cathy
  - Preston, Samantha
- - Richard, Jeanna
  - Robertson, Darcy
  - Robertson, Desiree
  - Rocque, Raylene

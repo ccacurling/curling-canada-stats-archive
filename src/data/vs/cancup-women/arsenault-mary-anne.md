@@ -74,34 +74,6 @@ vs:
       year: 2009
       draw: Round Robin(2)
       score: M-AA 5 - KLEI 3
- - name: Bergner, Sasha
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 88
-        wins: 1
-        losses: 0
-      player2:
-        percent: 74
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'CJO'
-        position: Second
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'SCO'
-        position: Second
-        percent: 74
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2004
-      draw: Semi-Final(13)
-      score: SCO 5 - CJO 6
  - name: Bernard, Cheryl
    totals:
     - event: Canada Cup (Women)
@@ -246,14 +218,30 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 83
-        wins: 1
+        percent: 85
+        wins: 2
         losses: 0
       player2:
-        percent: 79
+        percent: 76
         wins: 0
-        losses: 1
+        losses: 2
    games:
+    - player1:
+        team: 'CJO'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'SCO'
+        position: Second
+        percent: 74
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2004
+      draw: Semi-Final(13)
+      score: SCO 5 - CJO 6
     - player1:
         team: 'M-AA'
         position: Fourth

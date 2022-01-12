@@ -37,8 +37,8 @@ years:
    shots-percent: 88
 vs:
  - Arsenault, Mary-Anne
- - Bergner, Sasha
  - Borne, Brandee
+ - Carter, Sasha
  - Cordina, Sheri
  - Delahunt, Nancy
  - Dezura, Diane
@@ -52,8 +52,8 @@ vs:
  - Mossman, Angela
  - Nedohin, Heather
  - Pasika, Rona
- - Richard, Jeanna
  - Rocheleau, Patty
+ - Schraeder, Jeanna
  - Scott, Kelly
  - Simons, Renee
  - Singler, Sherri

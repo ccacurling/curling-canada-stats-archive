@@ -170,7 +170,7 @@ vs:
       year: 2003
       draw: Round Robin(5)
       score: Ande 8 - Spen 5
- - name: Richard, Jeanna
+ - name: Schraeder, Jeanna
    totals:
     - event: Canada Cup (Women)
       player1:

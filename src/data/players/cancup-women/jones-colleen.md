@@ -72,11 +72,11 @@ years:
 vs:
  - Anderson, Sherry
  - Bakker, Glenys
- - Bergner, Sasha
  - Birt, Suzanne
  - Borne, Brandee
  - Breen, Theresa
  - Burgess, Allyson
+ - Carter, Sasha
  - Cordina, Sheri
  - Cunningham, Cathy
  - Fallis, Karen

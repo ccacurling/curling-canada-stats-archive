@@ -108,7 +108,6 @@ vs:
  - Bakker, Glenys
  - Baleja, Susan
  - Bell, Chelsey
- - Bergner, Sasha
  - Bernard, Cheryl
  - Blair, Janice
  - Breen, Theresa
@@ -162,7 +161,6 @@ vs:
  - Overton-Clapham, Cathy
  - Preston, Samantha
  - Reddick, Audrey
- - Richard, Jeanna
  - Robertson, Darcy
  - Robertson, Desiree
  - Rocque, Raylene

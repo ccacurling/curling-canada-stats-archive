@@ -2,6 +2,34 @@
 title: Jeanna Schraeder Head-to-head
 name: Schraeder, Jeanna
 vs:
+ - name: Shantz, Penny
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 88
+        wins: 0
+        losses: 1
+      player2:
+        percent: 93
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Scot'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'Bodo'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2003
+      draw: Round Robin(6)
+      score: Bodo 7 - Scot 5
  - name: Simmons, Cindy
    totals:
     - event: Canada Cup (Women)
@@ -134,6 +162,34 @@ vs:
       year: 2010
       draw: Round Robin(8)
       score: KS 3 - KM 5
+ - name: Skinner, Julie
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 67
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Scot'
+        position: Third
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'KLaw'
+        position: Second
+        percent: 85
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2003
+      draw: Round Robin(4)
+      score: Scot 4 - KLaw 9
  - name: Smith, Heather
    totals:
     - event: Canada Cup (Women)
@@ -190,6 +246,34 @@ vs:
       year: 2004
       draw: Round Robin(5)
       score: BRY 7 - SCO 6
+ - name: Spencer, Barb
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 31
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Scot'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'Spen'
+        position: Fourth
+        percent: 31
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2003
+      draw: Round Robin(3)
+      score: Spen 1 - Scot 8
  - name: Strong, Heather
    totals:
     - event: Canada Cup (Women)
@@ -274,6 +358,34 @@ vs:
       year: 2005
       draw: Round Robin(8)
       score: Sco 3 - Riz 4
+ - name: Unrau, Faye
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Scot'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'Spen'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2003
+      draw: Round Robin(3)
+      score: Spen 1 - Scot 8
  - name: Vey, Lana
    totals:
     - event: Canada Cup (Women)
@@ -410,14 +522,30 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 75
+        percent: 72
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 91
-        wins: 2
+        percent: 87
+        wins: 3
         losses: 0
    games:
+    - player1:
+        team: 'Scot'
+        position: Third
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'KLaw'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2003
+      draw: Round Robin(4)
+      score: Scot 4 - KLaw 9
     - player1:
         team: 'Sco'
         position: Third

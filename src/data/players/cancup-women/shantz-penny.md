@@ -37,15 +37,15 @@ years:
    shots-percent: 84
 vs:
  - Anderson, Sherry
- - Bergner, Sasha
+ - Carter, Sasha
  - Dezura, Diane
  - Enright, Barb
  - Gignac, Donna
  - Hodson, Kim
  - Law, Kelley
  - Mulroney, Sandra
- - Richard, Jeanna
  - Robertson, Darcy
+ - Schraeder, Jeanna
  - Scott, Kelly
  - Simons, Renee
  - Skinner, Julie

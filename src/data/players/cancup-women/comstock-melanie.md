@@ -38,8 +38,8 @@ years:
 vs:
  - Anderson, Sherry
  - Bakker, Glenys
- - Bergner, Sasha
  - Bryden, Renelle
+ - Carter, Sasha
  - Cordina, Sheri
  - Darbyshire, Carolyn
  - Gignac, Donna

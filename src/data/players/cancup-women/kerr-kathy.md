@@ -37,7 +37,7 @@ years:
    shots-percent: 82
 vs:
  - Arsenault, Mary-Anne
- - Bergner, Sasha
+ - Carter, Sasha
  - Cordina, Sheri
  - Delahunt, Nancy
  - Fallis, Karen

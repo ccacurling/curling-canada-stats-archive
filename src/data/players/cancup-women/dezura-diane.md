@@ -37,9 +37,9 @@ years:
    shots-percent: 89
 vs:
  - Anderson, Sherry
- - Bergner, Sasha
  - Birt, Suzanne
  - Breen, Theresa
+ - Carter, Sasha
  - Cordina, Sheri
  - Enright, Barb
  - Froud, Susan
@@ -52,8 +52,8 @@ vs:
  - McInnis, Susan
  - Middaugh, Sherry
  - Mulroney, Sandra
- - Richard, Jeanna
  - Robertson, Darcy
+ - Schraeder, Jeanna
  - Scott, Kelly
  - Shantz, Penny
  - Simons, Renee

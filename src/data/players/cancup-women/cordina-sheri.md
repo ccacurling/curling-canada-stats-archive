@@ -54,9 +54,9 @@ years:
    shots-percent: 80
 vs:
  - Arsenault, Mary-Anne
- - Bergner, Sasha
  - Birt, Suzanne
  - Borne, Brandee
+ - Carter, Sasha
  - Clarke, Hayley
  - Comstock, Melanie
  - Cunningham, Cathy

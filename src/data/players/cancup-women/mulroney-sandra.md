@@ -55,9 +55,9 @@ years:
 vs:
  - Arsenault, Mary-Anne
  - Bakker, Glenys
- - Bergner, Sasha
  - Breen, Theresa
  - Bryden, Renelle
+ - Carter, Sasha
  - Clarke, Hayley
  - Comstock, Melanie
  - Darbyshire, Carolyn
@@ -75,7 +75,6 @@ vs:
  - Marchand, Stephanie
  - Mattheis, Shannon
  - Nixon, Amy
- - Richard, Jeanna
  - Robertson, Darcy
  - Schraeder, Jeanna
  - Scott, Kelly

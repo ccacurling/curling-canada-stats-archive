@@ -1062,50 +1062,6 @@ vs:
       year: 2007
       draw: Round Robin(3)
       score: And 6 - Web 8
- - name: Richard, Jeanna
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 81
-        wins: 0
-        losses: 2
-      player2:
-        percent: 75
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'Ande'
-        position: Lead
-        percent: 82
-        win: 0
-        loss: 1
-      player2:
-        team: 'Scot'
-        position: Third
-        percent: 79
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2003
-      draw: Round Robin(8)
-      score: Scot 9 - Ande 5
-    - player1:
-        team: 'Ande'
-        position: Lead
-        percent: 80
-        win: 0
-        loss: 1
-      player2:
-        team: 'Scot'
-        position: Third
-        percent: 71
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2003
-      draw: Playoff(9)
-      score: Ande 5 - Scot 6
  - name: Robertson, Darcy
    totals:
     - event: Canada Cup (Women)
@@ -1210,14 +1166,46 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 93
+        percent: 85
         wins: 0
-        losses: 1
+        losses: 3
       player2:
-        percent: 71
-        wins: 1
+        percent: 74
+        wins: 3
         losses: 0
    games:
+    - player1:
+        team: 'Ande'
+        position: Lead
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'Scot'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2003
+      draw: Round Robin(8)
+      score: Scot 9 - Ande 5
+    - player1:
+        team: 'Ande'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'Scot'
+        position: Third
+        percent: 71
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2003
+      draw: Playoff(9)
+      score: Ande 5 - Scot 6
     - player1:
         team: 'AND'
         position: Lead

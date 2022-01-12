@@ -38,7 +38,7 @@ years:
 vs:
  - Anderson, Sherry
  - Bakker, Glenys
- - Bergner, Sasha
+ - Carter, Sasha
  - Clarke, Hayley
  - Comstock, Melanie
  - Gignac, Donna

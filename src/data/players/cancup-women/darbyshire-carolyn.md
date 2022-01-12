@@ -131,7 +131,6 @@ vs:
  - Bakker, Glenys
  - Baleja, Susan
  - Bell, Chelsey
- - Bergner, Sasha
  - Blair, Janice
  - Brassard, Veronique
  - Breen, Theresa

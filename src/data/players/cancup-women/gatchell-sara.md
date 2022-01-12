@@ -56,7 +56,6 @@ vs:
  - Anderson, Sherry
  - Arsenault, Mary-Anne
  - Bakker, Glenys
- - Bergner, Sasha
  - Bernard, Cheryl
  - Betker, Jan
  - Carter, Sasha
@@ -80,7 +79,6 @@ vs:
  - Mulroney, Sandra
  - Nixon, Amy
  - O'Connor, Susan
- - Richard, Jeanna
  - Robertson, Darcy
  - Ruus, Karen
  - Schraeder, Jeanna

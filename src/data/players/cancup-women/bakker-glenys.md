@@ -105,13 +105,13 @@ years:
 vs:
  - Anderson, Sherry
  - Arsenault, Mary-Anne
- - Bergner, Sasha
  - Betker, Jan
  - Breen, Theresa
  - Bruce, Twyla
  - Bryden, Renelle
  - Burgess, Allyson
  - Burgess, Carey
+ - Carter, Sasha
  - Clarke, Hayley
  - Comeau, Sandy
  - Comstock, Melanie

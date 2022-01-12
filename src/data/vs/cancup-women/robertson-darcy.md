@@ -30,6 +30,34 @@ vs:
       year: 2018
       draw: Round Robin(10)
       score: Sche 8 - Robe 7
+ - name: Schraeder, Jeanna
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 61
+        wins: 0
+        losses: 1
+      player2:
+        percent: 91
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Spen'
+        position: Third
+        percent: 61
+        win: 0
+        loss: 1
+      player2:
+        team: 'Scot'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2003
+      draw: Round Robin(3)
+      score: Spen 1 - Scot 8
  - name: Scott, Kelly
    totals:
     - event: Canada Cup (Women)

@@ -91,7 +91,6 @@ vs:
  - Armstrong, Leigh
  - Arsenault, Mary-Anne
  - Bell, Chelsey
- - Bergner, Sasha
  - Birt, Suzanne
  - Borne, Brandee
  - Brassard, Veronique

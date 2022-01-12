@@ -54,7 +54,6 @@ years:
    shots-percent: 92
 vs:
  - Anderson, Sherry
- - Bergner, Sasha
  - Birt, Suzanne
  - Breen, Theresa
  - Bruce, Twyla
@@ -84,7 +83,6 @@ vs:
  - Olson-Johns, Lori
  - Preston, Samantha
  - Rankin, Heather
- - Richard, Jeanna
  - Robertson, Darcy
  - Rocque, Raylene
  - Schraeder, Jeanna

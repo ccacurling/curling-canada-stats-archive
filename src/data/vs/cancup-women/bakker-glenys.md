@@ -2,34 +2,6 @@
 title: Glenys Bakker Head-to-head
 name: Bakker, Glenys
 vs:
- - name: Bergner, Sasha
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 78
-        wins: 0
-        losses: 1
-      player2:
-        percent: 74
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'KLE'
-        position: Second
-        percent: 78
-        win: 0
-        loss: 1
-      player2:
-        team: 'SCO'
-        position: Second
-        percent: 74
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2004
-      draw: Round Robin(2)
-      score: KLE 4 - SCO 6
  - name: Betker, Jan
    totals:
     - event: Canada Cup (Women)
@@ -246,6 +218,34 @@ vs:
       year: 2006
       draw: Round Robin(3)
       score: Kle 7 - Har 6
+ - name: Carter, Sasha
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 74
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'KLE'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'SCO'
+        position: Second
+        percent: 74
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2004
+      draw: Round Robin(2)
+      score: KLE 4 - SCO 6
  - name: Clarke, Hayley
    totals:
     - event: Canada Cup (Women)

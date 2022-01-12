@@ -4,20 +4,54 @@ name: Sasha Carter
 name-sort: Carter, Sasha
 totals:
  - event: Canada Cup (Women)
-   games: 29
-   wins: 12
-   losses: 17
-   inturn-total: 282
-   inturn-percent: 82
-   outturn-total: 272
-   outturn-percent: 77
-   draw-total: 245
-   draw-percent: 79
-   takeout-total: 309
+   games: 42
+   wins: 19
+   losses: 23
+   inturn-total: 403
+   inturn-percent: 81
+   outturn-total: 399
+   outturn-percent: 76
+   draw-total: 351
+   draw-percent: 77
+   takeout-total: 451
    takeout-percent: 80
-   shots-total: 554
-   shots-percent: 80
+   shots-total: 802
+   shots-percent: 79
 years:
+ - year: 2003
+   event: Canada Cup (Women)
+   team: "Scot"
+   position: Second
+   games: 6
+   wins: 3
+   losses: 3
+   inturn-total: 50
+   inturn-percent: 88
+   outturn-total: 60
+   outturn-percent: 73
+   draw-total: 51
+   draw-percent: 73
+   takeout-total: 59
+   takeout-percent: 86
+   shots-total: 110
+   shots-percent: 80
+ - year: 2004
+   event: Canada Cup (Women)
+   team: "SCO"
+   position: Second
+   games: 7
+   wins: 4
+   losses: 3
+   inturn-total: 71
+   inturn-percent: 75
+   outturn-total: 67
+   outturn-percent: 75
+   draw-total: 55
+   draw-percent: 72
+   takeout-total: 83
+   takeout-percent: 77
+   shots-total: 138
+   shots-percent: 75
  - year: 2005
    event: Canada Cup (Women)
    team: "Sco"
@@ -107,41 +141,67 @@ vs:
  - Anderson, Sherry
  - Appelman, Pam
  - Arsenault, Mary-Anne
+ - Bakker, Glenys
  - Bell, Chelsey
  - Bernard, Cheryl
  - Betker, Jan
+ - Birt, Suzanne
  - Breen, Theresa
+ - Bryden, Renelle
  - Burgess, Allyson
  - Bush, Tracy
+ - Clarke, Hayley
  - Comeau, Sandy
+ - Comstock, Melanie
+ - Cordina, Sheri
+ - Cunningham, Cathy
  - Darbyshire, Carolyn
+ - Delahunt, Nancy
+ - Dezura, Diane
  - Doig, Deanna
  - Englot, Michelle
+ - Enright, Barb
  - Fargey, Lisa
  - Farrell, Allison
+ - Froud, Susan
  - Gatchell, Sara
+ - Gignac, Donna
+ - Goss, Peg
  - Gudereit, Marcia
  - Hardy, Shelley
  - Harmark, Andra
  - Hodson, Kim
  - Holland, Amber
  - Iskiw, Beth
+ - Jackson, Virginia
  - Jacques, Nicole
+ - Jones, Colleen
  - Jones, Jennifer
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kelly, Kim
+ - Kerr, Kathy
  - King, Cathy
  - Kleibrink, Shannon
+ - Law, Kelley
+ - Lawes, Andrea
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Leger, Stacey
  - Linton, Sherry
+ - MacDonald, Rebecca Jean
  - Maclachlan, Kyla
  - MacLean, Kari
+ - MacLeod, Lisa
+ - MacPhee, Robyn
+ - Marchand, Stephanie
+ - Martin, Heather
  - Materi, Roberta
+ - Mattheis, Shannon
  - McCarville, Krista
  - McCusker, Joan
  - McEwen, Dawn
+ - McInnis, Susan
  - McIvor, Jolene
  - McIvor, Michelle
  - McNabb, Jody
@@ -152,6 +212,7 @@ vs:
  - Moore, Kristie
  - Morris, Cori
  - Moulding, Heather
+ - Mulroney, Sandra
  - Nedohin, Heather
  - Nixon, Amy
  - O'Connor, Susan
@@ -164,17 +225,23 @@ vs:
  - Preston, Samantha
  - Rankin, Heather
  - Rizzo, Jo-Ann
+ - Robertson, Darcy
  - Rocque, Raylene
  - Ruus, Karen
  - Schneider, Kim
  - Schneider, Tammy
+ - Shantz, Penny
  - Simmons, Cindy
  - Singler, Sherri
  - Sippala, Ashley
+ - Skinner, Julie
  - Smith, Heather
+ - Smith, Nancy
+ - Spencer, Barb
  - Strong, Heather
  - Strong, Laura
  - Tuck, Kim
+ - Unrau, Faye
  - Vey, Lana
  - Wall, Kirsten
  - Webster, Bronwen

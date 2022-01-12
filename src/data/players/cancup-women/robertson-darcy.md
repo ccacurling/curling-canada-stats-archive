@@ -54,12 +54,12 @@ years:
    shots-percent: 78
 vs:
  - Anderson, Sherry
- - Bergner, Sasha
  - Birchard, Shannon
  - Breen, Theresa
  - Brown, Rachel
  - Cameron, Kate
  - Carey, Chelsea
+ - Carter, Sasha
  - Courtney, Joanne
  - Crocker, Laura
  - Dezura, Diane
@@ -86,8 +86,8 @@ vs:
  - Overton-Clapham, Cathy
  - Peterman, Jocelyn
  - Peters, Laine
- - Richard, Jeanna
  - Scheidegger, Casey
+ - Schraeder, Jeanna
  - Scott, Kelly
  - Shantz, Penny
  - Simons, Renee

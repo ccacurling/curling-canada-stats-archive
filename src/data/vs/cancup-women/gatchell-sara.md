@@ -450,34 +450,6 @@ vs:
       year: 2005
       draw: Round Robin(1)
       score: Riz 10 - Ber 6
- - name: Richard, Jeanna
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 88
-        wins: 1
-        losses: 0
-      player2:
-        percent: 88
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'Bodo'
-        position: Lead
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'Scot'
-        position: Third
-        percent: 88
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2003
-      draw: Round Robin(6)
-      score: Bodo 7 - Scot 5
  - name: Robertson, Darcy
    totals:
     - event: Canada Cup (Women)
@@ -538,14 +510,30 @@ vs:
    totals:
     - event: Canada Cup (Women)
       player1:
-        percent: 68
-        wins: 1
+        percent: 78
+        wins: 2
         losses: 0
       player2:
-        percent: 70
+        percent: 79
         wins: 0
-        losses: 1
+        losses: 2
    games:
+    - player1:
+        team: 'Bodo'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'Scot'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2003
+      draw: Round Robin(6)
+      score: Bodo 7 - Scot 5
     - player1:
         team: 'Riz'
         position: Lead

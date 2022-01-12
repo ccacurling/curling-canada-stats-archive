@@ -159,7 +159,6 @@ vs:
  - Appelman, Pam
  - Arsenault, Mary-Anne
  - Bell, Chelsey
- - Bergner, Sasha
  - Bernard, Cheryl
  - Betker, Jan
  - Brassard, Veronique

@@ -74,7 +74,6 @@ vs:
  - Arsenault, Mary-Anne
  - Bakker, Glenys
  - Bell, Chelsey
- - Bergner, Sasha
  - Bernard, Cheryl
  - Betker, Jan
  - Burgess, Allyson
@@ -109,7 +108,6 @@ vs:
  - Nixon, Amy
  - O'Connor, Susan
  - Peters, Laine
- - Richard, Jeanna
  - Robertson, Darcy
  - Ruus, Karen
  - Schraeder, Jeanna
