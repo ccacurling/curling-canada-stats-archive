@@ -114,7 +114,7 @@ layout: default
             </dl>
           </div>
           <div class="card-footer">
-            {{ team.club }}, {{ team.city }}
+            {{ team.club }}{% if team.club and team.city %}, {% endif %}{{ team.city }}
           </div>
         </div>
       </div>
