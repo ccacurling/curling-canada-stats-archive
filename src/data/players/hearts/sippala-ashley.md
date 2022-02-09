@@ -4,18 +4,18 @@ name: Ashley Sippala
 name-sort: Sippala, Ashley
 totals:
  - event: Hearts
-   games: 54
-   wins: 35
-   losses: 19
-   inturn-total: 530
+   games: 66
+   wins: 43
+   losses: 23
+   inturn-total: 647
    inturn-percent: 80
-   outturn-total: 505
-   outturn-percent: 80
-   draw-total: 448
-   draw-percent: 77
-   takeout-total: 587
+   outturn-total: 627
+   outturn-percent: 79
+   draw-total: 570
+   draw-percent: 78
+   takeout-total: 704
    takeout-percent: 82
-   shots-total: 1035
+   shots-total: 1274
    shots-percent: 80
 years:
  - year: 2009
@@ -90,6 +90,23 @@ years:
    takeout-percent: 83
    shots-total: 231
    shots-percent: 79
+ - year: 2022
+   event: Hearts
+   team: "NO"
+   position: Second
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 117
+   inturn-percent: 84
+   outturn-total: 122
+   outturn-percent: 79
+   draw-total: 122
+   draw-percent: 80
+   takeout-total: 117
+   takeout-percent: 82
+   shots-total: 239
+   shots-percent: 81
 vs:
  - Affleck, Tricia
  - Alcoe-Holland, Jill
@@ -99,9 +116,12 @@ vs:
  - Atkinson, Rebecca
  - Babin, Jillian
  - Barker, Penny
+ - Barker, Shelley
+ - Baxter, Jennifer
  - Belisle, Eve
  - Birchard, Shannon
  - Birt, Suzanne
+ - Black, Christina
  - Boyle, Jane
  - Brothers, Jill
  - Brown, Corryn
@@ -130,20 +150,27 @@ vs:
  - Einarson, Kerri
  - Einarson, Megan
  - Ellis, Danielle
+ - Enge, Jenna
  - Englot, Michelle
+ - Everist, Karlee
  - Eyamie, Lisa
  - Ferguson, Dana
+ - Flaxey, Allison
+ - Fleury, Tracy
  - Forward, Katie
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
+ - Gamble, Christie
  - Gilman, Sheena
  - Griffin, Alison
+ - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
  - Hardy, Shelley
  - Hawes, Dezaray
+ - Hill, Sarah
  - Hill, Trish
  - Holland, Amber
  - Homan, Rachel
@@ -166,6 +193,7 @@ vs:
  - Lemon, Colette
  - MacCuish, Kristin
  - MacDonald, Kaitlin
+ - MacPhail, Brigitte
  - MacPhee, Robyn
  - Makichuk, Lindsay
  - Mallett, Marla
@@ -176,6 +204,7 @@ vs:
  - McEwen, Dawn
  - McQuaid, Michelle
  - Meilleur, Briane
+ - Mercer, Adrienne
  - Miskew, Emma
  - More, Whitney
  - Murphy, Sarah
@@ -196,27 +225,30 @@ vs:
  - Pincott, Erin
  - Pinksen, Sadie
  - Porter, Erin
+ - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
- - Robichaud, Sylvie
  - Rogers, Rhonda
  - Routledge, Alanna
  - Routledge, Jill
  - Sagle, Karen
  - Saulnier, Andrea
+ - Schmidt, Stephanie
  - Schneider, Kim
  - Schneider, Lorraine
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scotland, Nadine
  - Scott, Kelly
+ - Sharpe, Kelli
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sobey, Lianne
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Kara
  - Thiessen, Alison
  - Thomas, Jill

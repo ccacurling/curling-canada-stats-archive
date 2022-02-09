@@ -150,12 +150,8 @@ years:
    losses: 1
    inturn-total: 6
    inturn-percent: 83
-   outturn-total: 0
-   outturn-percent:
    draw-total: 6
    draw-percent: 83
-   takeout-total: 0
-   takeout-percent:
    shots-total: 6
    shots-percent: 83
  - year: 2011
@@ -373,6 +369,7 @@ vs:
  - Dykstra, Michelle
  - Eddy, Lori
  - Einarson, Megan
+ - Enge, Jenna
  - Englot, Michelle
  - Enright, Barb
  - Eyamie, Lisa
@@ -557,7 +554,6 @@ vs:
  - Udle, Teri
  - Unrau, Faye
  - Vey, Lana
- - Walsh, Jenna
  - Wasylkiw, Lauren
  - Weagle, Lisa
  - Westcott, Raunora

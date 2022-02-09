@@ -4,18 +4,18 @@ name: Andrea Crawford
 name-sort: Crawford, Andrea
 totals:
  - event: Hearts
-   games: 92
-   wins: 42
-   losses: 50
-   inturn-total: 929
+   games: 104
+   wins: 50
+   losses: 54
+   inturn-total: 1042
    inturn-percent: 75
-   outturn-total: 783
+   outturn-total: 901
    outturn-percent: 74
-   draw-total: 781
+   draw-total: 892
    draw-percent: 71
-   takeout-total: 931
+   takeout-total: 1051
    takeout-percent: 77
-   shots-total: 1712
+   shots-total: 1943
    shots-percent: 74
 years:
  - year: 2006
@@ -171,16 +171,35 @@ years:
    takeout-percent: 81
    shots-total: 148
    shots-percent: 74
+ - year: 2022
+   event: Hearts
+   team: "NB"
+   position: Fourth
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 113
+   inturn-percent: 75
+   outturn-total: 118
+   outturn-percent: 75
+   draw-total: 111
+   draw-percent: 71
+   takeout-total: 120
+   takeout-percent: 78
+   shots-total: 231
+   shots-percent: 75
 vs:
  - Affleck, Tricia
  - Anderson, Sherry
  - Armstrong, Jacquie
+ - Armstrong, Jennifer
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Ayrey, Jinaye
  - Baier, Stephanie
  - Baldwin, Nicole
  - Barbour, Shona
+ - Barker, Penny
  - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belanger, Nancy
@@ -201,6 +220,7 @@ vs:
  - Bush, Tracy
  - Cameron, Kate
  - Cameron, Nancy
+ - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
@@ -231,17 +251,21 @@ vs:
  - Einarson, Kerri
  - Einarson, Megan
  - Ellis, Danielle
+ - Enge, Jenna
  - Englot, Michelle
  - Enright, Barb
  - Fallis, Karen
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Flaxey, Allison
+ - Flemming, Margot
  - Fleury, Tracy
  - Foster, Kristen
  - Fullerton, Sarah
+ - Fyfe, Liz
  - Gagnier, Monique
  - Galusha, Kerry
+ - Gamble, Christie
  - Gannon, Melissa
  - Gates, Amanda
  - Gates, Jennifer
@@ -257,6 +281,7 @@ vs:
  - Harvey, Janet
  - Haughian, Jessie
  - Hersikorn, Patty
+ - Hill, Sarah
  - Holland, Amber
  - Hollands, Saskia
  - Holtby, Taryn
@@ -290,12 +315,14 @@ vs:
  - Lilly, Kendra
  - Loder, Cherie-Ann
  - Lowther, Tammi
+ - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacInnes, Grace
  - MacIntosh, Kelly
  - MacLean, Kari
+ - MacPhail, Brigitte
  - MacPhee, Robyn
  - Mair, Jessica
  - Makichuk, Lindsay
@@ -312,6 +339,7 @@ vs:
  - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Meilleur, Briane
+ - Mercer, Adrienne
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
@@ -324,6 +352,8 @@ vs:
  - Nedohin, Heather
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Robyn
+ - Njegovan, Selena
  - Nugent, Pamela
  - O'Connor, Susan
  - Officer, Jill
@@ -340,10 +370,12 @@ vs:
  - Phillips, Kristen
  - Pinksen, Sadie
  - Porter, Erin
+ - Potts, Sarah
  - Rainville, Julie
  - Ramsay, Geri-Lynn
  - Richards, Brette
  - Ridalls, Kristen
+ - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Robison, Michala
  - Rocque, Kelsey
@@ -366,6 +398,7 @@ vs:
  - Sharpe, Kelli
  - Shaw, Ladene
  - Shumay, Jill
+ - Sicinski, Danielle
  - Silvernagle, Robyn
  - Simons, Renee
  - Sinclair, Andrea
@@ -381,6 +414,7 @@ vs:
  - Stubbings, Tiffany
  - Sweeting, Val
  - Tanner, Ros
+ - Taylor, Alison
  - Thevenot, Kara
  - Thomas, Jill
  - Thurston, Jill
@@ -392,7 +426,6 @@ vs:
  - Vey, Lana
  - Walker, Laura
  - Wallingham, Patty
- - Walsh, Jenna
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa

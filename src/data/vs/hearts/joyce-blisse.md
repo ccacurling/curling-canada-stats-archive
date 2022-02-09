@@ -1350,6 +1350,34 @@ vs:
       year: 2016
       draw: Round Robin(4)
       score: NS 7 - NO 9
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 93
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 93
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(11)
+      score: NB 7 - NS 8
  - name: Rainville, Julie
    totals:
     - event: Hearts
@@ -1456,34 +1484,6 @@ vs:
         team: 'NB'
         position: Second
         percent: 89
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(11)
-      score: NB 7 - NS 8
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 1
-        losses: 0
-      player2:
-        percent: 93
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Second
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 93
         win: 0
         loss: 1
       event: Hearts
@@ -2218,34 +2218,6 @@ vs:
       year: 2014
       draw: Round Robin(11)
       score: NS 7 - TR 3
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 71
-        wins: 0
-        losses: 1
-      player2:
-        percent: 86
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Second
-        percent: 71
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Second
-        percent: 86
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2012
-      draw: Round Robin(4)
-      score: ON 10 - NS 3
  - name: Weagle, Lisa
    totals:
     - event: Hearts

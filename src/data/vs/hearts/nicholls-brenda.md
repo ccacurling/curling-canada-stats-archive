@@ -706,6 +706,34 @@ vs:
       year: 2005
       draw: Round Robin(11)
       score: QC 5 - NB 8
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Round Robin(14)
+      score: NB 6 - QC 5
  - name: Ramsay, Geri-Lynn
    totals:
     - event: Hearts
@@ -783,34 +811,6 @@ vs:
       player2:
         team: 'NB'
         position: Second
-        percent: 83
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Round Robin(14)
-      score: NB 6 - QC 5
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 0
-        losses: 1
-      player2:
-        percent: 83
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
         percent: 83
         win: 1
         loss: 0
@@ -1814,34 +1814,6 @@ vs:
       year: 2012
       draw: Round Robin(14)
       score: QC 10 - SK 6
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 94
-        wins: 1
-        losses: 0
-      player2:
-        percent: 60
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent: 94
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Second
-        percent: 60
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2012
-      draw: Round Robin(15)
-      score: QC 7 - ON 5
  - name: Westcott, Raunora
    totals:
     - event: Hearts

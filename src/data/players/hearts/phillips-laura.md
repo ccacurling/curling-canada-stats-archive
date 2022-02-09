@@ -111,6 +111,10 @@ years:
    takeout-percent: 75
    shots-total: 249
    shots-percent: 71
+ - year: 2022
+   event: Hearts
+   team: "NL"
+   position: Alternate
 vs:
  - Adams, Diane
  - Affleck, Tricia

@@ -4,19 +4,19 @@ name: Morgan Muise
 name-sort: Muise, Morgan
 totals:
  - event: Hearts
-   games: 11
-   wins: 5
+   games: 12
+   wins: 6
    losses: 6
-   inturn-total: 143
-   inturn-percent: 77
-   outturn-total: 69
-   outturn-percent: 86
-   draw-total: 167
-   draw-percent: 79
-   takeout-total: 45
-   takeout-percent: 84
-   shots-total: 212
-   shots-percent: 80
+   inturn-total: 148
+   inturn-percent: 75
+   outturn-total: 81
+   outturn-percent: 83
+   draw-total: 181
+   draw-percent: 77
+   takeout-total: 48
+   takeout-percent: 83
+   shots-total: 229
+   shots-percent: 78
 years:
  - year: 2006
    event: Hearts
@@ -35,6 +35,23 @@ years:
    takeout-percent: 84
    shots-total: 212
    shots-percent: 80
+ - year: 2022
+   event: Hearts
+   team: "BC"
+   position: Lead
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 5
+   inturn-percent: 15
+   outturn-total: 12
+   outturn-percent: 69
+   draw-total: 14
+   draw-percent: 50
+   takeout-total: 3
+   takeout-percent: 67
+   shots-total: 17
+   shots-percent: 53
 vs:
  - Affleck, Tricia
  - Arsenault, Mary-Anne
@@ -47,6 +64,7 @@ vs:
  - Carter, Sasha
  - Comeau, Martine
  - Delahunt, Nancy
+ - Flemming, Margot
  - Gagnier, Monique
  - Galusha, Kerry
  - George, Tara
@@ -57,6 +75,7 @@ vs:
  - Jones, Jennifer
  - Kelly, Kim
  - King, Cathy
+ - Koltun, Sarah
  - Loder, Cherie-Ann
  - McCagg-Nystrom, Heather
  - McCarville, Krista
@@ -67,6 +86,7 @@ vs:
  - Olson-Johns, Lori
  - Overton-Clapham, Cathy
  - Ridalls, Kristen
+ - Rizzo, Jo-Ann
  - Rocque, Raylene
  - Rudulier, Andrea
  - Schraeder, Jeanna

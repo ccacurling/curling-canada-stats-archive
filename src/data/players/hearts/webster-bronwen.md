@@ -106,8 +106,8 @@ vs:
  - Parsons, Danielle
  - Paul, Sarah
  - Peters, Laine
+ - Quillian, Sylvie
  - Richard, Marie
- - Robichaud, Sylvie
  - Sabourin, Joelle
  - Schneider, Kim
  - Schneider, Tammy

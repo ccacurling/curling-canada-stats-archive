@@ -4,19 +4,19 @@ name: Sadie Pinksen
 name-sort: Pinksen, Sadie
 totals:
  - event: Hearts
-   games: 22
+   games: 30
    wins: 3
-   losses: 19
-   inturn-total: 212
+   losses: 27
+   inturn-total: 290
    inturn-percent: 64
-   outturn-total: 188
-   outturn-percent: 70
-   draw-total: 214
-   draw-percent: 65
-   takeout-total: 186
-   takeout-percent: 68
-   shots-total: 400
-   shots-percent: 67
+   outturn-total: 254
+   outturn-percent: 67
+   draw-total: 283
+   draw-percent: 64
+   takeout-total: 261
+   takeout-percent: 66
+   shots-total: 544
+   shots-percent: 65
 years:
  - year: 2019
    event: Hearts
@@ -102,6 +102,23 @@ years:
    takeout-percent: 64
    shots-total: 150
    shots-percent: 63
+ - year: 2022
+   event: Hearts
+   team: "NU"
+   position: Third
+   games: 8
+   wins: 0
+   losses: 8
+   inturn-total: 78
+   inturn-percent: 64
+   outturn-total: 66
+   outturn-percent: 59
+   draw-total: 69
+   draw-percent: 62
+   takeout-total: 75
+   takeout-percent: 61
+   shots-total: 144
+   shots-percent: 61
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -109,6 +126,7 @@ vs:
  - Armstrong, Jennifer
  - Arsenault-Bishop, Nicole
  - Babin, Jillian
+ - Barker, Penny
  - Barron, Lauren
  - Birchard, Shannon
  - Birt, Suzanne
@@ -119,6 +137,7 @@ vs:
  - Brown, Corryn
  - Brown, Rachel
  - Cameron, Kate
+ - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
  - Christianson, Marie
@@ -128,11 +147,15 @@ vs:
  - Daigle, Julie
  - Dunn, Michelle
  - Einarson, Kerri
+ - Enge, Jenna
+ - Erickson, Rachel
  - Ferguson, Dana
  - Fisher, Sam
+ - Flaxey, Allison
  - Fleury, Tracy
  - Forward, Katie
  - Fyfe, Liz
+ - Gamble, Christie
  - Gates, Jennifer
  - Hamilton, Beth
  - Hawes, Dezaray
@@ -144,6 +167,7 @@ vs:
  - Kitz, Chaelynn
  - Knapp, Breanne
  - Kreviazuk, Cheryl
+ - Kreviazuk, Lynn
  - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
@@ -159,18 +183,23 @@ vs:
  - Miskew, Emma
  - Munroe, Anna
  - Murphy, Sarah
+ - Njegovan, Robyn
  - Njegovan, Selena
  - Peterman, Jocelyn
  - Pilote, Kristen
  - Pincott, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Riley, Emily
  - Rocque, Kelsey
  - Routledge, Alanna
  - Routledge, Jill
  - Rusnell, Jen
  - Sandwith, Carley
+ - Schmidt, Stephanie
  - Scotland, Nadine
+ - Sharpe, Kelli
+ - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley
  - St-Georges, Cynthia

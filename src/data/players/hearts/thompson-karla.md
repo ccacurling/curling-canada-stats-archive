@@ -113,9 +113,9 @@ vs:
  - Peters, Laine
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Richard, Marie
- - Robichaud, Sylvie
  - Sabourin, Joelle
  - Sagle, Karen
  - Schraeder, Jeanna

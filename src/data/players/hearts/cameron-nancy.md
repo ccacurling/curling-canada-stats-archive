@@ -231,6 +231,7 @@ vs:
  - Duck, Kim
  - Dunn, Anne
  - Ellwood, Laurie
+ - Enge, Jenna
  - Englot, Michelle
  - Fahlman, Kathy
  - Farrell, Allison
@@ -376,7 +377,6 @@ vs:
  - Udle, Teri
  - Usher, Leanne
  - Vey, Lana
- - Walsh, Jenna
  - Wheatcroft, Georgina
  - Willms, Karri
  - Wright, Joanne

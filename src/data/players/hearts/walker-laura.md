@@ -4,19 +4,19 @@ name: Laura Walker
 name-sort: Walker, Laura
 totals:
  - event: Hearts
-   games: 21
-   wins: 13
-   losses: 8
-   inturn-total: 179
-   inturn-percent: 76
-   outturn-total: 197
-   outturn-percent: 80
-   draw-total: 179
-   draw-percent: 81
-   takeout-total: 197
-   takeout-percent: 76
-   shots-total: 376
-   shots-percent: 78
+   games: 29
+   wins: 16
+   losses: 13
+   inturn-total: 260
+   inturn-percent: 75
+   outturn-total: 272
+   outturn-percent: 78
+   draw-total: 236
+   draw-percent: 79
+   takeout-total: 296
+   takeout-percent: 75
+   shots-total: 532
+   shots-percent: 77
 years:
  - year: 2020
    event: Hearts
@@ -52,26 +52,54 @@ years:
    takeout-percent: 75
    shots-total: 249
    shots-percent: 77
+ - year: 2022
+   event: Hearts
+   team: "AB"
+   position: Fourth
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 81
+   inturn-percent: 72
+   outturn-total: 75
+   outturn-percent: 73
+   draw-total: 57
+   draw-percent: 73
+   takeout-total: 99
+   takeout-percent: 72
+   shots-total: 156
+   shots-percent: 73
 vs:
  - Anderson, Sherry
  - Armstrong, Hailey
  - Armstrong, Jennifer
+ - Arsenault, Mary-Anne
  - Babin, Jillian
+ - Balsdon, Megan
  - Barbour, Shona
+ - Barker, Shelley
+ - Baxter, Jennifer
  - Birchard, Shannon
+ - Birnie, Hailey
+ - Black, Christina
+ - Bobbie, Tess
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Rachel
+ - Brown, Stephanie
  - Burgess, Karlee
  - Burns, Krysta
  - Carey, Chelsea
  - Carmody, Erin
+ - Carter, Sasha
  - Cote, Marie-Pier
  - Courtney, Joanne
  - Crawford, Andrea
  - Doerksen, Katherine
+ - Duncan, Hollie
  - Eddy, Lori
  - Einarson, Kerri
+ - Everist, Karlee
  - Ferguson, Dana
  - Flemming, Margot
  - Forward, Katie
@@ -84,8 +112,10 @@ vs:
  - Homan, Rachel
  - Hunkin, Jessie
  - Jones, Jennifer
+ - Karwacki, Krysten
  - Kitz, Chaelynn
  - Knapp, Breanne
+ - Koltun, Sarah
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lenentine, Lauren
@@ -106,15 +136,20 @@ vs:
  - Rizzo, Jo-Ann
  - Routledge, Alanna
  - Routledge, Jill
+ - Schraeder, Jeanna
  - Silvernagle, Robyn
+ - Simons, Renee
  - Sippala, Ashley
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Strybosch, Rachelle
  - Sweeting, Val
  - Thevenot, Kara
  - Tran, Brittany
+ - Tuor, Kimberly
  - Verreault, Noemie
+ - Wallingham, Patty
  - Weagle, Lisa
  - Wilkes, Sarah
  - Zacharias, Emily

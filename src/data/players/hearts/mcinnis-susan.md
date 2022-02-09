@@ -248,6 +248,7 @@ vs:
  - Dorosz, Peggy
  - Dunn, Anne
  - Earl, Allison
+ - Enge, Jenna
  - Englot, Michelle
  - Enright, Barb
  - Fahlman, Kathy
@@ -388,13 +389,13 @@ vs:
  - Porter, Debbie
  - Pruden, Twyla
  - Purdy, Karen
+ - Quillian, Sylvie
  - Rainville, Julie
  - Reed, Shellan
  - Renouf, Michele
  - Richard, Marie
  - Ridalls, Kristen
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Rocque, Raylene
  - Round, Coralee
  - Rudd, Colleen
@@ -445,7 +446,6 @@ vs:
  - Unrau, Faye
  - Walker, Lisa
  - Wall, Kirsten
- - Walsh, Jenna
  - Weagle, Lisa
  - Wheatcroft, Georgina
  - Whipple, Paula

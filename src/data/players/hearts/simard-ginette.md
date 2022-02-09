@@ -9,10 +9,6 @@ totals:
    losses: 0
    inturn-total: 2
    inturn-percent: 50
-   outturn-total: 0
-   outturn-percent:
-   draw-total: 0
-   draw-percent:
    takeout-total: 2
    takeout-percent: 50
    shots-total: 2
@@ -27,10 +23,6 @@ years:
    losses: 0
    inturn-total: 2
    inturn-percent: 50
-   outturn-total: 0
-   outturn-percent:
-   draw-total: 0
-   draw-percent:
    takeout-total: 2
    takeout-percent: 50
    shots-total: 2

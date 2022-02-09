@@ -31,8 +31,6 @@ years:
    outturn-percent: 90
    draw-total: 12
    draw-percent: 83
-   takeout-total: 0
-   takeout-percent:
    shots-total: 12
    shots-percent: 83
  - year: 2007

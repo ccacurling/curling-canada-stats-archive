@@ -4,18 +4,18 @@ name: Sasha Carter
 name-sort: Carter, Sasha
 totals:
  - event: Hearts
-   games: 97
-   wins: 65
-   losses: 32
-   inturn-total: 916
-   inturn-percent: 81
-   outturn-total: 932
+   games: 105
+   wins: 68
+   losses: 37
+   inturn-total: 993
+   inturn-percent: 80
+   outturn-total: 1004
    outturn-percent: 81
-   draw-total: 777
-   draw-percent: 79
-   takeout-total: 1071
+   draw-total: 854
+   draw-percent: 78
+   takeout-total: 1143
    takeout-percent: 83
-   shots-total: 1848
+   shots-total: 1997
    shots-percent: 81
 years:
  - year: 2005
@@ -163,12 +163,8 @@ years:
    losses: 1
    inturn-total: 2
    inturn-percent: 50
-   outturn-total: 0
-   outturn-percent:
    draw-total: 2
    draw-percent: 50
-   takeout-total: 0
-   takeout-percent:
    shots-total: 2
    shots-percent: 50
  - year: 2016
@@ -204,16 +200,36 @@ years:
    takeout-percent: 86
    shots-total: 22
    shots-percent: 77
+ - year: 2022
+   event: Hearts
+   team: "BC"
+   position: Second
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 77
+   inturn-percent: 72
+   outturn-total: 72
+   outturn-percent: 79
+   draw-total: 77
+   draw-percent: 75
+   takeout-total: 72
+   takeout-percent: 76
+   shots-total: 149
+   shots-percent: 76
 vs:
  - Affleck, Tricia
  - Aleksic, Shannon
+ - Armstrong, Hailey
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Ayrey, Jinaye
  - Babin, Jillian
  - Baldwin, Nicole
+ - Balsdon, Megan
  - Barbour, Shona
+ - Barker, Shelley
  - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belanger, Nancy
@@ -221,16 +237,23 @@ vs:
  - Bell, Chelsey
  - Bernard, Cheryl
  - Betker, Jan
+ - Birchard, Shannon
+ - Birnie, Hailey
  - Birt, Suzanne
+ - Black, Christina
  - Blais, Amelie
+ - Bobbie, Tess
  - Bradley, Shelley
  - Brassard, Veronique
  - Brennan, Amanda
  - Brothers, Jill
  - Burgess, Carey
+ - Burgess, Karlee
  - Bush, Tracy
+ - Cameron, Kate
  - Cameron, Nancy
  - Campbell, Jolene
+ - Campbell, Kerry
  - Carmody, Erin
  - Carrier, Julie
  - Cheveldave, Amber
@@ -254,13 +277,18 @@ vs:
  - Dolan, Kim
  - Dolan, Sinead
  - Dufresne, Audree
+ - Duncan, Hollie
  - Dykstra, Michelle
+ - Einarson, Kerri
  - Einarson, Megan
  - Ellis, Danielle
+ - Enge, Jenna
  - Englot, Michelle
+ - Everist, Karlee
  - Fallis, Karen
  - Farrell, Allison
  - Filteau, Anne-Marie
+ - Flemming, Margot
  - Fleury, Tracy
  - Fortier, Marie-Josee
  - Fullerton, Sarah
@@ -299,6 +327,7 @@ vs:
  - King, Cathy
  - Kleibrink, Shannon
  - Koehler, Megan
+ - Koltun, Sarah
  - Korab, Stephanie
  - Kreviazuk, Alison
  - Lang, Lorraine
@@ -310,6 +339,7 @@ vs:
  - Leger, Stacey
  - Lemay, Annie
  - Lemon, Colette
+ - Lenentine, Lauren
  - Letendre, Pascale
  - Loder, Cherie-Ann
  - MacCuish, Kristin
@@ -327,8 +357,10 @@ vs:
  - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McConnery, Nancy
+ - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
+ - Meilleur, Briane
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
@@ -365,11 +397,13 @@ vs:
  - Power, Marie-Anne
  - Prosser, Sandi
  - Provencal, Darah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
  - Richard, Marie
  - Ridalls, Kristen
- - Robichaud, Sylvie
+ - Riley, Emily
+ - Rizzo, Jo-Ann
  - Rocque, Raylene
  - Rogers, Rhonda
  - Ross, Allison
@@ -377,6 +411,7 @@ vs:
  - Sabourin, Joelle
  - Schneider, Kim
  - Schneider, Tammy
+ - Scotland, Nadine
  - Sharpe, Kelli
  - Shumay, Jill
  - Simmons, Cindy
@@ -385,6 +420,8 @@ vs:
  - Slywka, Sarah
  - Smith, Heather
  - Sobey, Lianne
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Streifel, Tracy
  - Strong, Heather
  - Strong, Laura
@@ -395,10 +432,13 @@ vs:
  - Thomas, Jill
  - Thompson, Karla
  - Thurston, Jill
+ - Tippin, Julie
+ - Tuor, Kimberly
  - Udle, Teri
  - Vey, Lana
+ - Walker, Laura
  - Wall, Kirsten
- - Walsh, Jenna
+ - Wallingham, Patty
  - Wasylkiw, Lauren
  - Weagle, Lisa
  - Webster, Bronwen
@@ -408,5 +448,7 @@ vs:
  - Wilson, Leslie
  - Wylie, Jennifer
  - Yardley, Janelle
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
  - Zinck, Kay
 ---

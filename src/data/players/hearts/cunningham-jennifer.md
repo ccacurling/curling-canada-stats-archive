@@ -46,6 +46,7 @@ vs:
  - Crawford, Andrea
  - Dolan, Kim
  - Dolan, Sinead
+ - Enge, Jenna
  - Englot, Michelle
  - Filteau, Anne-Marie
  - Fleury, Tracy
@@ -78,6 +79,5 @@ vs:
  - Smith, Heather
  - Udle, Teri
  - Vey, Lana
- - Walsh, Jenna
  - Wylie, Jennifer
 ---

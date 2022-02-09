@@ -214,6 +214,34 @@ vs:
       year: 2015
       draw: Round Robin(13)
       score: ON 5 - AB 8
+ - name: Tuor, Kimberly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 68
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 68
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(12)
+      score: YT 4 - CA 6
  - name: Udle, Teri
    totals:
     - event: Hearts
@@ -302,13 +330,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 83
-        wins: 3
+        percent: 85
+        wins: 4
         losses: 0
       player2:
-        percent: 69
+        percent: 68
         wins: 0
-        losses: 3
+        losses: 4
    games:
     - player1:
         team: 'MB'
@@ -358,6 +386,22 @@ vs:
       year: 2021
       draw: Semi-Final(25)
       score: AB 3 - CA 9
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 64
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(8)
+      score: CA 10 - AB 5
  - name: Wallingham, Patty
    totals:
     - event: Hearts
@@ -386,34 +430,6 @@ vs:
       year: 2014
       draw: Round Robin(1)
       score: TR 5 - AB 7
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 1
-        losses: 0
-      player2:
-        percent: 84
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Second
-        percent: 84
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(2)
-      score: AB 6 - NO 4
  - name: Weagle, Lisa
    totals:
     - event: Hearts
@@ -698,13 +714,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 70
-        wins: 1
+        percent: 81
+        wins: 2
         losses: 0
       player2:
-        percent: 52
+        percent: 69
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'CA'
@@ -722,17 +738,33 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: CA 7 - WC 3
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(18)
+      score: CA 10 - MB 7
  - name: Zacharias, Mackenzie
    totals:
     - event: Hearts
       player1:
-        percent: 70
-        wins: 1
+        percent: 81
+        wins: 2
         losses: 0
       player2:
-        percent: 58
+        percent: 67
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'CA'
@@ -750,4 +782,20 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: CA 7 - WC 3
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(18)
+      score: CA 10 - MB 7
 ---

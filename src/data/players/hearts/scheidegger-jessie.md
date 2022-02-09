@@ -48,6 +48,7 @@ vs:
  - Devereaux, Julie
  - Duncan, Hollie
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Fleury, Tracy
  - Fullerton, Sarah
@@ -76,7 +77,6 @@ vs:
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
- - Walsh, Jenna
  - Webster, Crystal
  - West, Christianne
  - Westcott, Raunora

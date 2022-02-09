@@ -2,6 +2,62 @@
 title: Stephanie Schmidt Head-to-head
 name: Schmidt, Stephanie
 vs:
+ - name: Sicinski, Danielle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 0
+        losses: 1
+      player2:
+        percent: 68
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 68
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(7)
+      score: SK 8 - WC 7
+ - name: Sippala, Ashley
+   totals:
+    - event: Hearts
+      player1:
+        percent: 57
+        wins: 0
+        losses: 1
+      player2:
+        percent: 74
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 57
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 74
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(1)
+      score: NO 7 - WC 3
  - name: Smith, Stacey
    totals:
     - event: Hearts
@@ -146,6 +202,34 @@ vs:
       year: 2020
       draw: Round Robin(11)
       score: SK 6 - MB 10
+ - name: Taylor, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(3)
+      score: WC 12 - NU 7
  - name: Trombley, Christy
    totals:
     - event: Hearts
@@ -174,34 +258,6 @@ vs:
       year: 2015
       draw: Round Robin(8)
       score: SK 4 - ON 3
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 88
-        wins: 0
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Second
-        percent: 88
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Second
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2015
-      draw: Round Robin(13)
-      score: SK 5 - NO 6
  - name: Weagle, Lisa
    totals:
     - event: Hearts
@@ -282,13 +338,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 89
-        wins: 1
+        percent: 86
+        wins: 2
         losses: 0
       player2:
-        percent: 81
+        percent: 86
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'SK'
@@ -306,6 +362,22 @@ vs:
       year: 2015
       draw: Round Robin(16)
       score: AB 1 - SK 9
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(15)
+      score: WC 7 - WC 8
  - name: Wylie, Jennifer
    totals:
     - event: Hearts

@@ -3222,6 +3222,34 @@ vs:
       year: 2002
       draw: Round Robin(4)
       score: NB 9 - NL 7
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 64
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 64
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2008
+      draw: Round Robin(11)
+      score: NB 8 - NL 9
  - name: Ramsay, Jennifer
    totals:
     - event: Hearts
@@ -3406,34 +3434,6 @@ vs:
       year: 2009
       draw: Round Robin(8)
       score: MB 8 - NL 3
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 89
-        wins: 1
-        losses: 0
-      player2:
-        percent: 64
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NL'
-        position: Lead
-        percent: 89
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 64
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2008
-      draw: Round Robin(11)
-      score: NB 8 - NL 9
  - name: Robinson, Lori
    totals:
     - event: Hearts

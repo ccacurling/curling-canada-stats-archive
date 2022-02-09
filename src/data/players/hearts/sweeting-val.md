@@ -4,19 +4,19 @@ name: Val Sweeting
 name-sort: Sweeting, Val
 totals:
  - event: Hearts
-   games: 66
-   wins: 47
-   losses: 19
-   inturn-total: 644
-   inturn-percent: 78
-   outturn-total: 581
+   games: 78
+   wins: 58
+   losses: 20
+   inturn-total: 773
+   inturn-percent: 80
+   outturn-total: 674
    outturn-percent: 82
-   draw-total: 499
+   draw-total: 569
    draw-percent: 77
-   takeout-total: 726
-   takeout-percent: 82
-   shots-total: 1225
-   shots-percent: 80
+   takeout-total: 878
+   takeout-percent: 83
+   shots-total: 1447
+   shots-percent: 81
 years:
  - year: 2010
    event: Hearts
@@ -103,6 +103,23 @@ years:
    takeout-percent: 81
    shots-total: 258
    shots-percent: 80
+ - year: 2022
+   event: Hearts
+   team: "CA"
+   position: Third
+   games: 12
+   wins: 11
+   losses: 1
+   inturn-total: 129
+   inturn-percent: 87
+   outturn-total: 93
+   outturn-percent: 85
+   draw-total: 70
+   draw-percent: 84
+   takeout-total: 152
+   takeout-percent: 88
+   shots-total: 222
+   shots-percent: 87
 vs:
  - Affleck, Tricia
  - Anderson, Sherry
@@ -113,24 +130,30 @@ vs:
  - Atkinson, Rebecca
  - Babin, Jillian
  - Baier, Stephanie
+ - Balsdon, Megan
  - Barbour, Shona
+ - Barker, Shelley
  - Baxter, Jennifer
  - Belisle, Eve
+ - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
+ - Bobbie, Tess
  - Boyle, Jane
  - Bradley, Shelley
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Brown, Stephanie
  - Brunton, Kira
  - Burgess, Karlee
  - Burns, Krysta
  - Cameron, Kate
  - Camozzi, Rhonda
  - Campbell, Jolene
+ - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
@@ -152,8 +175,11 @@ vs:
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
+ - Duncan, Hollie
  - Eddy, Lori
  - Ellis, Danielle
+ - Enge, Jenna
+ - Everist, Karlee
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Flaxey, Allison
@@ -230,13 +256,14 @@ vs:
  - Pilote, Kristen
  - Pincott, Erin
  - Pinksen, Sadie
+ - Potts, Sarah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
  - Reid, Jackie
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Robichaud, Sylvie
  - Robison, Michala
  - Rogers, Rhonda
  - Ross, Allison
@@ -251,6 +278,7 @@ vs:
  - Scotland, Nadine
  - Scott, Kelly
  - Silvernagle, Robyn
+ - Simons, Renee
  - Sinclair, Andrea
  - Singler, Sherri
  - Sippala, Ashley
@@ -263,6 +291,7 @@ vs:
  - St-Georges, Laurie
  - Strong, Heather
  - Strong, Laura
+ - Strybosch, Rachelle
  - Thevenot, Kara
  - Thomas, Jill
  - Thomas-Kennell, Noelle
@@ -270,12 +299,12 @@ vs:
  - Titheridge, Lindsay
  - Tran, Brittany
  - Trombley, Christy
+ - Tuor, Kimberly
  - Udle, Teri
  - Van Osch, Kesa
  - Verreault, Noemie
  - Walker, Laura
  - Wallingham, Patty
- - Walsh, Jenna
  - Weagle, Lisa
  - Westcott, Raunora
  - Whitaker, Carol

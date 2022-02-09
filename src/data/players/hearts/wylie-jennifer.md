@@ -144,8 +144,8 @@ vs:
  - Pewarchuk, Dailene
  - Pilote, Kristen
  - Price, Kara
+ - Quillian, Sylvie
  - Richard, Marie
- - Robichaud, Sylvie
  - Rusnell, Jen
  - Schmidt, Stephanie
  - Schneider, Kim

@@ -4,18 +4,18 @@ name: Shannon Birchard
 name-sort: Birchard, Shannon
 totals:
  - event: Hearts
-   games: 40
-   wins: 34
-   losses: 6
-   inturn-total: 346
-   inturn-percent: 84
-   outturn-total: 376
+   games: 52
+   wins: 45
+   losses: 7
+   inturn-total: 458
+   inturn-percent: 83
+   outturn-total: 485
    outturn-percent: 84
-   draw-total: 286
-   draw-percent: 81
-   takeout-total: 436
-   takeout-percent: 87
-   shots-total: 722
+   draw-total: 364
+   draw-percent: 80
+   takeout-total: 579
+   takeout-percent: 86
+   shots-total: 943
    shots-percent: 84
 years:
  - year: 2018
@@ -69,6 +69,23 @@ years:
    takeout-percent: 85
    shots-total: 254
    shots-percent: 83
+ - year: 2022
+   event: Hearts
+   team: "CA"
+   position: Second
+   games: 12
+   wins: 11
+   losses: 1
+   inturn-total: 112
+   inturn-percent: 80
+   outturn-total: 109
+   outturn-percent: 82
+   draw-total: 78
+   draw-percent: 75
+   takeout-total: 143
+   takeout-percent: 85
+   shots-total: 221
+   shots-percent: 81
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -77,20 +94,27 @@ vs:
  - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
  - Babin, Jillian
+ - Balsdon, Megan
  - Barbour, Shona
+ - Barker, Shelley
  - Baxter, Jennifer
+ - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
+ - Bobbie, Tess
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Brown, Stephanie
  - Brunton, Kira
  - Burgess, Karlee
  - Burns, Krysta
  - Cameron, Kate
+ - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
+ - Carter, Sasha
  - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
@@ -102,7 +126,9 @@ vs:
  - Duncan, Jenna
  - Eddy, Lori
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
+ - Everist, Karlee
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
@@ -153,31 +179,35 @@ vs:
  - Peterson, Beth
  - Pincott, Erin
  - Pinksen, Sadie
+ - Potts, Sarah
  - Price, Kara
+ - Quillian, Sylvie
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Robichaud, Sylvie
  - Routledge, Alanna
  - Routledge, Jill
  - Sagle, Karen
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
+ - Schraeder, Jeanna
  - Scotland, Nadine
  - Silvernagle, Robyn
+ - Simons, Renee
  - Sippala, Ashley
  - Smallwood, Jody
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Strybosch, Rachelle
  - Thevenot, Kara
  - Tran, Brittany
+ - Tuor, Kimberly
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
  - Verreault, Noemie
  - Walker, Laura
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Crystal
  - Westcott, Raunora

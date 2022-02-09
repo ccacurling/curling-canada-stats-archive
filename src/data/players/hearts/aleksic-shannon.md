@@ -59,8 +59,6 @@ years:
    games: 1
    wins: 1
    losses: 0
-   inturn-total: 0
-   inturn-percent:
    outturn-total: 6
    outturn-percent: 75
    draw-total: 4

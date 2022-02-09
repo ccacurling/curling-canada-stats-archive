@@ -39,8 +39,6 @@ years:
    outturn-percent: 100
    draw-total: 6
    draw-percent: 88
-   takeout-total: 0
-   takeout-percent:
    shots-total: 6
    shots-percent: 88
  - year: 2012
@@ -56,8 +54,6 @@ years:
    outturn-percent: 100
    draw-total: 6
    draw-percent: 96
-   takeout-total: 0
-   takeout-percent:
    shots-total: 6
    shots-percent: 96
  - year: 2015
@@ -73,8 +69,6 @@ years:
    outturn-percent: 100
    draw-total: 6
    draw-percent: 88
-   takeout-total: 0
-   takeout-percent:
    shots-total: 6
    shots-percent: 88
  - year: 2016
@@ -103,12 +97,8 @@ years:
    losses: 1
    inturn-total: 4
    inturn-percent: 88
-   outturn-total: 0
-   outturn-percent:
    draw-total: 4
    draw-percent: 88
-   takeout-total: 0
-   takeout-percent:
    shots-total: 4
    shots-percent: 88
 vs:
@@ -143,8 +133,8 @@ vs:
  - Parsons, Danielle
  - Peterman, Jocelyn
  - Pilote, Kristen
+ - Quillian, Sylvie
  - Richard, Marie
- - Robichaud, Sylvie
  - Rogers, Rhonda
  - Rusnell, Jen
  - Smith, Heather

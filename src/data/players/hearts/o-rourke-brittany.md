@@ -126,6 +126,7 @@ vs:
  - Dolan, Sinead
  - Duncan, Chelsea
  - Dykstra, Michelle
+ - Enge, Jenna
  - Englot, Michelle
  - Eyamie, Lisa
  - Ferguson, Dana
@@ -181,9 +182,9 @@ vs:
  - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Richard, Marie
  - Richards, Brette
- - Robichaud, Sylvie
  - Robison, Michala
  - Rusnell, Jen
  - Saulnier, Andrea
@@ -205,7 +206,6 @@ vs:
  - Udle, Teri
  - Vey, Lana
  - Wallingham, Patty
- - Walsh, Jenna
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa

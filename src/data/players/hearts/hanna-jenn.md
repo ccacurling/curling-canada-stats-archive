@@ -121,10 +121,10 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Prosser, Sandi
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
- - Robichaud, Sylvie
  - Rocque, Raylene
  - Ross, Allison
  - Scott, Kelly

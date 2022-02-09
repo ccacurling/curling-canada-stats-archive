@@ -93,10 +93,10 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Potts, Sarah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
- - Robichaud, Sylvie
  - Sagle, Karen
  - Scheidegger, Casey
  - Shaw, Ladene

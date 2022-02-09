@@ -4,18 +4,18 @@ name: Liz Fyfe
 name-sort: Fyfe, Liz
 totals:
  - event: Hearts
-   games: 45
-   wins: 26
-   losses: 19
-   inturn-total: 472
-   inturn-percent: 84
-   outturn-total: 388
-   outturn-percent: 81
-   draw-total: 306
-   draw-percent: 79
-   takeout-total: 554
+   games: 55
+   wins: 33
+   losses: 22
+   inturn-total: 570
+   inturn-percent: 83
+   outturn-total: 477
+   outturn-percent: 80
+   draw-total: 378
+   draw-percent: 78
+   takeout-total: 669
    takeout-percent: 84
-   shots-total: 860
+   shots-total: 1047
    shots-percent: 82
 years:
  - year: 2016
@@ -86,14 +86,34 @@ years:
    takeout-percent: 81
    shots-total: 222
    shots-percent: 80
+ - year: 2022
+   event: Hearts
+   team: "WC"
+   position: Second
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 98
+   inturn-percent: 80
+   outturn-total: 89
+   outturn-percent: 76
+   draw-total: 72
+   draw-percent: 73
+   takeout-total: 115
+   takeout-percent: 81
+   shots-total: 187
+   shots-percent: 78
 vs:
  - Adams, Melissa
  - Anderson, Sherry
  - Armstrong, Hailey
+ - Armstrong, Jennifer
  - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
+ - Babin, Jillian
  - Barbour, Shona
+ - Barker, Penny
  - Barron, Lauren
  - Baxter, Jennifer
  - Birchard, Shannon
@@ -111,6 +131,7 @@ vs:
  - Carmody, Erin
  - Christianson, Marie
  - Courtney, Joanne
+ - Crawford, Andrea
  - Crouse, Jennifer
  - Curtis, Stacie
  - Daigle, Julie
@@ -121,13 +142,17 @@ vs:
  - Duncan, Jenna
  - Eddy, Lori
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
  - Fisher, Sam
+ - Flaxey, Allison
  - Fleury, Tracy
+ - Forward, Katie
  - Galusha, Kerry
+ - Gamble, Christie
  - Gates, Amanda
  - Gates, Jennifer
  - Gibson, Amy
@@ -160,6 +185,7 @@ vs:
  - Lister, Kendra
  - Loder, Jenna
  - MacDonald, Kaitlin
+ - MacPhail, Brigitte
  - MacPhee, Robyn
  - Martin, Nancy
  - McCarville, Krista
@@ -186,21 +212,25 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Price, Kara
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Riley, Emily
- - Robichaud, Sylvie
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
  - Scheidegger, Casey
  - Scheidegger, Jessie
+ - Schmidt, Stephanie
+ - Sharpe, Kelli
+ - Sicinski, Danielle
  - Sippala, Ashley
  - Smallwood, Jody
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Sweeting, Val
+ - Taylor, Alison
  - Thompson, Karla
  - Tingley, Jaclyn
  - Tran, Brittany
@@ -210,7 +240,6 @@ vs:
  - Van Osch, Marika
  - Vautour, Carrie
  - Walker, Laura
- - Walsh, Jenna
  - Wark, Sarah
  - Weagle, Lisa
  - Webster, Crystal

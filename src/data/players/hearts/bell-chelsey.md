@@ -146,8 +146,8 @@ vs:
  - Paul, Sarah
  - Peters, Laine
  - Prosser, Sandi
+ - Quillian, Sylvie
  - Richard, Marie
- - Robichaud, Sylvie
  - Rocque, Raylene
  - Ross, Allison
  - Sabourin, Joelle

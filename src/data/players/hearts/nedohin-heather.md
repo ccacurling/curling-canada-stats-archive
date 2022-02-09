@@ -235,6 +235,7 @@ vs:
  - Dufresne, Audree
  - Dykstra, Michelle
  - Eddy, Lori
+ - Enge, Jenna
  - Englot, Michelle
  - Farrell, Allison
  - Filteau, Anne-Marie
@@ -372,7 +373,6 @@ vs:
  - Tucker, Cindy
  - Udle, Teri
  - Vey, Lana
- - Walsh, Jenna
  - Walter, Cathy
  - Wasylkiw, Lauren
  - Wazney, Sarah

@@ -77,6 +77,7 @@ vs:
  - Duncan, Jenna
  - Eddy, Lori
  - Einarson, Kerri
+ - Enge, Jenna
  - Fesser, Kourtney
  - Fesser, Krista
  - Fisher, Sam
@@ -113,7 +114,6 @@ vs:
  - Smallwood, Jody
  - St-Georges, Cynthia
  - St-Georges, Laurie
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Crystal
  - Westcott, Raunora

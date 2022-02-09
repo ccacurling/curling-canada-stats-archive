@@ -506,7 +506,7 @@ vs:
       year: 2018
       draw: Round Robin(4)
       score: YT 1 - MB 14
- - name: Robichaud, Sylvie
+ - name: Quillian, Sylvie
    totals:
     - event: Hearts
       player1:

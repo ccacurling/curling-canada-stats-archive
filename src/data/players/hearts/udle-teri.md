@@ -147,6 +147,7 @@ vs:
  - Dolan, Sinead
  - Duncan, Chelsea
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Fallis, Karen
  - Ferguson, Dana
@@ -227,11 +228,11 @@ vs:
  - Potts, Sarah
  - Power, Marie-Anne
  - Provencal, Darah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Reid, Jackie
  - Richard, Marie
- - Robichaud, Sylvie
  - Ross, Allison
  - Sagle, Karen
  - Sanderson, Jessie
@@ -258,7 +259,6 @@ vs:
  - Vautour, Carrie
  - Vey, Lana
  - Wallingham, Patty
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Bronwen
  - Wheatcroft, Georgina

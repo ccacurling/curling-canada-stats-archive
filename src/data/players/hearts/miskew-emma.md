@@ -4,18 +4,18 @@ name: Emma Miskew
 name-sort: Miskew, Emma
 totals:
  - event: Hearts
-   games: 108
-   wins: 85
-   losses: 23
-   inturn-total: 1095
-   inturn-percent: 83
-   outturn-total: 936
-   outturn-percent: 82
-   draw-total: 740
+   games: 116
+   wins: 89
+   losses: 27
+   inturn-total: 1160
+   inturn-percent: 82
+   outturn-total: 1016
+   outturn-percent: 81
+   draw-total: 810
    draw-percent: 79
-   takeout-total: 1291
-   takeout-percent: 84
-   shots-total: 2031
+   takeout-total: 1366
+   takeout-percent: 83
+   shots-total: 2176
    shots-percent: 82
 years:
  - year: 2011
@@ -154,6 +154,23 @@ years:
    takeout-percent: 78
    shots-total: 242
    shots-percent: 78
+ - year: 2022
+   event: Hearts
+   team: "WC"
+   position: Fourth
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 65
+   inturn-percent: 71
+   outturn-total: 80
+   outturn-percent: 78
+   draw-total: 70
+   draw-percent: 75
+   takeout-total: 75
+   takeout-percent: 75
+   shots-total: 145
+   shots-percent: 75
 vs:
  - Affleck, Tricia
  - Alcoe-Holland, Jill
@@ -161,6 +178,7 @@ vs:
  - Anderson, Sherry
  - Armstrong, Hailey
  - Armstrong, Jacquie
+ - Armstrong, Jennifer
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Ayrey, Jinaye
@@ -191,6 +209,7 @@ vs:
  - Burns, Krysta
  - Cameron, Kate
  - Camozzi, Rhonda
+ - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
@@ -220,6 +239,7 @@ vs:
  - Duncan, Chelsea
  - Dykstra, Michelle
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Eyamie, Lisa
  - Fallis, Karen
@@ -228,10 +248,12 @@ vs:
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy
+ - Forward, Katie
  - Foster, Kristen
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
+ - Gamble, Christie
  - Gannon, Melissa
  - Gates, Amanda
  - Gates, Jennifer
@@ -243,6 +265,7 @@ vs:
  - Hastings, Julie
  - Haughian, Jessie
  - Hawes, Dezaray
+ - Hill, Sarah
  - Hill, Trish
  - Holland, Amber
  - Holtby, Taryn
@@ -275,8 +298,10 @@ vs:
  - Loder, Jenna
  - Logan, Emma
  - MacCuish, Kristin
+ - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
+ - MacPhail, Brigitte
  - MacPhee, Robyn
  - Mair, Jessica
  - Mallett, Marla
@@ -292,6 +317,7 @@ vs:
  - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Meilleur, Briane
+ - Mercer, Adrienne
  - Miller, Wendy
  - Moore, Kristie
  - Moses, Dawn
@@ -299,6 +325,7 @@ vs:
  - Murphy, Sarah
  - Nedohin, Heather
  - Nixon, Amy
+ - Njegovan, Robyn
  - Njegovan, Selena
  - Nowlan, Denise
  - Nugent, Pamela
@@ -317,12 +344,12 @@ vs:
  - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Reid, Jackie
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Robichaud, Sylvie
  - Robison, Michala
  - Ross, Allison
  - Rusnell, Jen
@@ -336,6 +363,7 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
  - Shumay, Jill
  - Sicinski, Danielle
  - Silvernagle, Robyn
@@ -353,6 +381,7 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Kara
  - Thiessen, Alison
  - Titheridge, Lindsay
@@ -363,7 +392,6 @@ vs:
  - Van Osch, Kesa
  - Walker, Laura
  - Wallingham, Patty
- - Walsh, Jenna
  - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah

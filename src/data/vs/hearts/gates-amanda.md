@@ -1634,6 +1634,50 @@ vs:
       year: 2018
       draw: Round Robin(6)
       score: NO 8 - YT 5
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 77
+        wins: 1
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 69
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(8)
+      score: NO 8 - NB 4
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(4)
+      score: NO 5 - NB 8
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -1690,50 +1734,6 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: NO 8 - NT 7
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 77
-        wins: 1
-        losses: 1
-      player2:
-        percent: 78
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent: 69
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 78
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(8)
-      score: NO 8 - NB 4
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 79
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(4)
-      score: NO 5 - NB 8
  - name: Rusnell, Jen
    totals:
     - event: Hearts

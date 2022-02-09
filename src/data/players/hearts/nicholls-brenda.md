@@ -158,6 +158,7 @@ vs:
  - Einarson, Kerri
  - Einarson, Megan
  - Ellis, Danielle
+ - Enge, Jenna
  - Englot, Michelle
  - Farrell, Allison
  - Fleury, Tracy
@@ -246,10 +247,10 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Prosser, Sandi
+ - Quillian, Sylvie
  - Ramsay, Geri-Lynn
  - Recksiedler, Kristen
  - Richard, Marie
- - Robichaud, Sylvie
  - Robison, Michala
  - Rocque, Raylene
  - Rogers, Rhonda
@@ -281,7 +282,6 @@ vs:
  - Vandale, Trysta
  - Vautour, Carrie
  - Vey, Lana
- - Walsh, Jenna
  - Westcott, Raunora
  - Wieler, Bev
  - Williamson, Ashley

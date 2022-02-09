@@ -213,6 +213,7 @@ vs:
  - Dykstra, Michelle
  - Eddy, Lori
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Fallis, Karen
  - Ferguson, Dana
@@ -313,12 +314,12 @@ vs:
  - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Robichaud, Sylvie
  - Ross, Allison
  - Rusnell, Jen
  - Sagle, Karen
@@ -357,7 +358,6 @@ vs:
  - Vautour, Carrie
  - Vey, Lana
  - Walker, Laura
- - Walsh, Jenna
  - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah

@@ -4,18 +4,18 @@ name: Tracy Fleury
 name-sort: Fleury, Tracy
 totals:
  - event: Hearts
-   games: 42
-   wins: 22
-   losses: 20
-   inturn-total: 400
+   games: 45
+   wins: 23
+   losses: 22
+   inturn-total: 430
    inturn-percent: 77
-   outturn-total: 382
+   outturn-total: 408
    outturn-percent: 79
-   draw-total: 376
+   draw-total: 402
    draw-percent: 75
-   takeout-total: 406
+   takeout-total: 436
    takeout-percent: 80
-   shots-total: 782
+   shots-total: 838
    shots-percent: 78
 years:
  - year: 2012
@@ -86,6 +86,23 @@ years:
    takeout-percent: 82
    shots-total: 153
    shots-percent: 76
+ - year: 2022
+   event: Hearts
+   team: "WC"
+   position: Fourth
+   games: 3
+   wins: 1
+   losses: 2
+   inturn-total: 30
+   inturn-percent: 74
+   outturn-total: 26
+   outturn-percent: 72
+   draw-total: 26
+   draw-percent: 78
+   takeout-total: 30
+   takeout-percent: 69
+   shots-total: 56
+   shots-percent: 73
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -171,6 +188,7 @@ vs:
  - McInnis, Susan
  - McQuaid, Michelle
  - McTaggart, Cary-Anne
+ - Meilleur, Briane
  - Miller, Wendy
  - Miskew, Emma
  - Moore, Kristie
@@ -191,8 +209,8 @@ vs:
  - Pinksen, Sadie
  - Potts, Sarah
  - Price, Kara
+ - Quillian, Sylvie
  - Richard, Marie
- - Robichaud, Sylvie
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
@@ -201,6 +219,7 @@ vs:
  - Schmidt, Stephanie
  - Schneider, Kim
  - Scott, Kelly
+ - Sippala, Ashley
  - Slywka, Sarah
  - Smallwood, Jody
  - Smith, Heather

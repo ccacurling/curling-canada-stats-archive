@@ -2,6 +2,34 @@
 title: Laura Walker Head-to-head
 name: Walker, Laura
 vs:
+ - name: Wallingham, Patty
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(10)
+      score: AB 11 - YT 5
  - name: Weagle, Lisa
    totals:
     - event: Hearts
@@ -94,12 +122,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 68
+        percent: 73
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 66
-        wins: 0
+        percent: 76
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -118,16 +146,32 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: AB 7 - WC 5
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(16)
+      score: MB 10 - AB 7
  - name: Zacharias, Mackenzie
    totals:
     - event: Hearts
       player1:
-        percent: 68
+        percent: 73
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 57
-        wins: 0
+        percent: 72
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -146,4 +190,20 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: AB 7 - WC 5
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(16)
+      score: MB 10 - AB 7
 ---

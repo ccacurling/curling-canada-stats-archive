@@ -450,7 +450,7 @@ vs:
       year: 2018
       draw: Round Robin(8)
       score: SK 10 - YT 7
- - name: Robichaud, Sylvie
+ - name: Quillian, Sylvie
    totals:
     - event: Hearts
       player1:

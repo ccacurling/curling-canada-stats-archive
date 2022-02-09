@@ -2,7 +2,7 @@
 title: Kara Price Head-to-head
 name: Price, Kara
 vs:
- - name: Robichaud, Sylvie
+ - name: Quillian, Sylvie
    totals:
     - event: Hearts
       player1:

@@ -1802,6 +1802,34 @@ vs:
       year: 2005
       draw: Round Robin(12)
       score: SK 5 - NB 6
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(15)
+      score: NB 4 - SK 9
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -1886,34 +1914,6 @@ vs:
       year: 2009
       draw: Round Robin(17)
       score: MB 5 - SK 7
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 91
-        wins: 1
-        losses: 0
-      player2:
-        percent: 70
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 91
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(15)
-      score: NB 4 - SK 9
  - name: Robison, Michala
    totals:
     - event: Hearts
@@ -3118,34 +3118,6 @@ vs:
       year: 2014
       draw: Round Robin(17)
       score: TR 6 - SK 5
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 85
-        wins: 0
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Second
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2015
-      draw: Round Robin(13)
-      score: SK 5 - NO 6
  - name: Wark, Sarah
    totals:
     - event: Hearts

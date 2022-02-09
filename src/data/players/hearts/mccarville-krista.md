@@ -4,18 +4,18 @@ name: Krista McCarville
 name-sort: McCarville, Krista
 totals:
  - event: Hearts
-   games: 100
-   wins: 59
-   losses: 41
-   inturn-total: 966
-   inturn-percent: 76
-   outturn-total: 946
+   games: 112
+   wins: 67
+   losses: 45
+   inturn-total: 1087
+   inturn-percent: 75
+   outturn-total: 1058
    outturn-percent: 76
-   draw-total: 926
-   draw-percent: 74
-   takeout-total: 986
+   draw-total: 1043
+   draw-percent: 73
+   takeout-total: 1102
    takeout-percent: 78
-   shots-total: 1912
+   shots-total: 2145
    shots-percent: 76
 years:
  - year: 2006
@@ -154,6 +154,23 @@ years:
    takeout-percent: 82
    shots-total: 229
    shots-percent: 78
+ - year: 2022
+   event: Hearts
+   team: "NO"
+   position: Fourth
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 121
+   inturn-percent: 71
+   outturn-total: 112
+   outturn-percent: 74
+   draw-total: 117
+   draw-percent: 70
+   takeout-total: 116
+   takeout-percent: 75
+   shots-total: 233
+   shots-percent: 72
 vs:
  - Affleck, Tricia
  - Alcoe-Holland, Jill
@@ -166,12 +183,15 @@ vs:
  - Babin, Jillian
  - Barbour, Shona
  - Barker, Penny
+ - Barker, Shelley
+ - Baxter, Jennifer
  - Belanger, Nancy
  - Belisle, Eve
  - Bernard, Cheryl
  - Betker, Jan
  - Birchard, Shannon
  - Birt, Suzanne
+ - Black, Christina
  - Blaney, Jennifer
  - Bodner, Jenine
  - Boudreault, Patricia
@@ -219,21 +239,26 @@ vs:
  - Einarson, Kerri
  - Einarson, Megan
  - Ellis, Danielle
+ - Enge, Jenna
  - Englot, Michelle
  - Enright, Barb
+ - Everist, Karlee
  - Eyamie, Lisa
  - Ferguson, Dana
+ - Flaxey, Allison
  - Fleury, Tracy
  - Forward, Katie
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gagnier, Monique
  - Galusha, Kerry
+ - Gamble, Christie
  - Gilman, Sheena
  - Goss, Peg
  - Griffin, Alison
  - Gudereit, Marcia
  - Gushulak, Diane
+ - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
@@ -242,6 +267,7 @@ vs:
  - Harvey, Janet
  - Haughian, Jessie
  - Hawes, Dezaray
+ - Hill, Sarah
  - Hill, Trish
  - Holland, Amber
  - Hollands, Saskia
@@ -277,6 +303,7 @@ vs:
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacInnes, Grace
+ - MacPhail, Brigitte
  - MacPhee, Robyn
  - Makichuk, Lindsay
  - Mallett, Marla
@@ -289,6 +316,7 @@ vs:
  - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Meilleur, Briane
+ - Mercer, Adrienne
  - Miskew, Emma
  - Moore, Kristie
  - More, Whitney
@@ -324,6 +352,7 @@ vs:
  - Porter, Erin
  - Power, Marie-Anne
  - Provencal, Darah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
  - Recksiedler, Kristen
@@ -331,7 +360,6 @@ vs:
  - Richards, Brette
  - Ridalls, Kristen
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Rocque, Raylene
  - Rogers, Rhonda
  - Routledge, Alanna
@@ -343,6 +371,7 @@ vs:
  - Sandwith, Carley
  - Saulnier, Andrea
  - Scheidegger, Casey
+ - Schmidt, Stephanie
  - Schneider, Kim
  - Schneider, Lorraine
  - Schneider, Tammy
@@ -361,6 +390,7 @@ vs:
  - Strong, Laura
  - Sweeting, Val
  - Tanner, Ros
+ - Taylor, Alison
  - Thevenot, Kara
  - Thiessen, Alison
  - Thomas, Jill

@@ -4,19 +4,19 @@ name: Taylor McDonald
 name-sort: McDonald, Taylor
 totals:
  - event: Hearts
-   games: 22
-   wins: 14
-   losses: 8
-   inturn-total: 191
-   inturn-percent: 76
-   outturn-total: 199
-   outturn-percent: 80
-   draw-total: 161
+   games: 30
+   wins: 17
+   losses: 13
+   inturn-total: 277
+   inturn-percent: 78
+   outturn-total: 267
+   outturn-percent: 77
+   draw-total: 216
    draw-percent: 75
-   takeout-total: 229
-   takeout-percent: 80
-   shots-total: 390
-   shots-percent: 78
+   takeout-total: 328
+   takeout-percent: 79
+   shots-total: 544
+   shots-percent: 77
 years:
  - year: 2019
    event: Hearts
@@ -69,28 +69,56 @@ years:
    takeout-percent: 81
    shots-total: 254
    shots-percent: 78
+ - year: 2022
+   event: Hearts
+   team: "AB"
+   position: Second
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 86
+   inturn-percent: 81
+   outturn-total: 68
+   outturn-percent: 69
+   draw-total: 55
+   draw-percent: 72
+   takeout-total: 99
+   takeout-percent: 78
+   shots-total: 154
+   shots-percent: 76
 vs:
  - Anderson, Sherry
  - Armstrong, Hailey
  - Armstrong, Jennifer
+ - Arsenault, Mary-Anne
  - Babin, Jillian
+ - Balsdon, Megan
  - Barbour, Shona
+ - Barker, Shelley
+ - Baxter, Jennifer
  - Birchard, Shannon
+ - Birnie, Hailey
+ - Black, Christina
  - Blaney, Jennifer
+ - Bobbie, Tess
  - Bodner, Jenine
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Rachel
+ - Brown, Stephanie
  - Burgess, Karlee
  - Burns, Krysta
  - Carey, Chelsea
  - Carmody, Erin
+ - Carter, Sasha
  - Cote, Marie-Pier
  - Courtney, Joanne
  - Crawford, Andrea
  - Doerksen, Katherine
+ - Duncan, Hollie
  - Eddy, Lori
  - Einarson, Kerri
+ - Everist, Karlee
  - Ferguson, Dana
  - Flemming, Margot
  - Forward, Katie
@@ -103,8 +131,10 @@ vs:
  - Homan, Rachel
  - Hunkin, Jessie
  - Jones, Jennifer
+ - Karwacki, Krysten
  - Kitz, Chaelynn
  - Knapp, Breanne
+ - Koltun, Sarah
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lenentine, Lauren
@@ -125,15 +155,20 @@ vs:
  - Rizzo, Jo-Ann
  - Routledge, Alanna
  - Routledge, Jill
+ - Schraeder, Jeanna
  - Silvernagle, Robyn
+ - Simons, Renee
  - Sippala, Ashley
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Strybosch, Rachelle
  - Sweeting, Val
  - Thevenot, Kara
  - Tran, Brittany
+ - Tuor, Kimberly
  - Verreault, Noemie
+ - Wallingham, Patty
  - Weagle, Lisa
  - Wilkes, Sarah
  - Zacharias, Emily

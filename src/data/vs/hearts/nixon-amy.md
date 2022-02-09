@@ -502,6 +502,50 @@ vs:
       year: 2017
       draw: Bronze(21)
       score: CA 7 - NO 4
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 82
+        wins: 2
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2008
+      draw: Round Robin(12)
+      score: NB 3 - AB 9
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 80
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(9)
+      score: NB 4 - AB 6
  - name: Rainville, Julie
    totals:
     - event: Hearts
@@ -658,50 +702,6 @@ vs:
       year: 2017
       draw: Round Robin(7)
       score: CA 6 - BC 2
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 82
-        wins: 2
-        losses: 0
-      player2:
-        percent: 78
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'AB'
-        position: Third
-        percent: 94
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 75
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2008
-      draw: Round Robin(12)
-      score: NB 3 - AB 9
-    - player1:
-        team: 'AB'
-        position: Third
-        percent: 70
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 80
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(9)
-      score: NB 4 - AB 6
  - name: Sabourin, Joelle
    totals:
     - event: Hearts
@@ -1578,34 +1578,6 @@ vs:
       year: 2008
       draw: Page 1-2(20)
       score: ON 7 - AB 8
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 100
-        wins: 1
-        losses: 0
-      player2:
-        percent: 89
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent: 100
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Second
-        percent: 89
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2012
-      draw: Round Robin(6)
-      score: ON 4 - AB 8
  - name: Weagle, Lisa
    totals:
     - event: Hearts

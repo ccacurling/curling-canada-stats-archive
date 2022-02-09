@@ -78,10 +78,6 @@ years:
    losses: 0
    inturn-total: 1
    inturn-percent: 100
-   outturn-total: 0
-   outturn-percent:
-   draw-total: 0
-   draw-percent:
    takeout-total: 1
    takeout-percent: 100
    shots-total: 1
@@ -164,6 +160,7 @@ vs:
  - Dezura, Diane
  - Doig, Deanna
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Eyamie, Lisa
  - Fallis, Karen
@@ -249,12 +246,12 @@ vs:
  - Peters, Laine
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Reed, Shellan
  - Richard, Marie
  - Richards, Brette
- - Robichaud, Sylvie
  - Sabourin, Joelle
  - Sagle, Karen
  - Saulnier, Andrea
@@ -280,7 +277,6 @@ vs:
  - Vandale, Trysta
  - Vautour, Carrie
  - Wall, Kirsten
- - Walsh, Jenna
  - Weagle, Lisa
  - Westcott, Raunora
  - Wheatcroft, Georgina

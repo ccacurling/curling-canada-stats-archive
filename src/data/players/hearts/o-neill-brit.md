@@ -70,10 +70,10 @@ vs:
  - Peters, Laine
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
- - Robichaud, Sylvie
  - Sippala, Ashley
  - Thompson, Karla
  - Udle, Teri

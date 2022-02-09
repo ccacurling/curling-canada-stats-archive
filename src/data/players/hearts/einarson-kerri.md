@@ -4,19 +4,19 @@ name: Kerri Einarson
 name-sort: Einarson, Kerri
 totals:
  - event: Hearts
-   games: 54
-   wins: 40
-   losses: 14
-   inturn-total: 494
-   inturn-percent: 80
-   outturn-total: 508
+   games: 66
+   wins: 51
+   losses: 15
+   inturn-total: 595
+   inturn-percent: 81
+   outturn-total: 625
    outturn-percent: 82
-   draw-total: 411
+   draw-total: 505
    draw-percent: 79
-   takeout-total: 591
-   takeout-percent: 83
-   shots-total: 1002
-   shots-percent: 81
+   takeout-total: 715
+   takeout-percent: 84
+   shots-total: 1220
+   shots-percent: 82
 years:
  - year: 2016
    event: Hearts
@@ -86,6 +86,23 @@ years:
    takeout-percent: 82
    shots-total: 252
    shots-percent: 83
+ - year: 2022
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   games: 12
+   wins: 11
+   losses: 1
+   inturn-total: 101
+   inturn-percent: 85
+   outturn-total: 117
+   outturn-percent: 84
+   draw-total: 94
+   draw-percent: 80
+   takeout-total: 124
+   takeout-percent: 88
+   shots-total: 218
+   shots-percent: 84
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -95,23 +112,30 @@ vs:
  - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
  - Babin, Jillian
+ - Balsdon, Megan
  - Barbour, Shona
+ - Barker, Shelley
  - Baxter, Jennifer
  - Birchard, Shannon
+ - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
+ - Bobbie, Tess
  - Boyle, Jane
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Brown, Stephanie
  - Brunton, Kira
  - Burgess, Karlee
  - Burns, Krysta
  - Cameron, Kate
  - Campbell, Jolene
+ - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
+ - Carter, Sasha
  - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
@@ -124,7 +148,9 @@ vs:
  - Duncan, Hollie
  - Duncan, Jenna
  - Eddy, Lori
+ - Enge, Jenna
  - Englot, Michelle
+ - Everist, Karlee
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
@@ -191,28 +217,32 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Price, Kara
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Robichaud, Sylvie
  - Routledge, Alanna
  - Routledge, Jill
  - Sagle, Karen
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
+ - Schraeder, Jeanna
  - Scotland, Nadine
  - Silvernagle, Robyn
+ - Simons, Renee
  - Sippala, Ashley
  - Smallwood, Jody
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Strybosch, Rachelle
  - Thevenot, Kara
  - Thompson, Karla
  - Tran, Brittany
+ - Tuor, Kimberly
  - Udle, Teri
  - Vandale, Trysta
  - Van Osch, Kalia
@@ -221,7 +251,6 @@ vs:
  - Vautour, Carrie
  - Verreault, Noemie
  - Walker, Laura
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Crystal
  - Westcott, Raunora

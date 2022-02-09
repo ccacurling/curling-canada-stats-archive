@@ -4,18 +4,18 @@ name: Jeanna Schraeder
 name-sort: Schraeder, Jeanna
 totals:
  - event: Hearts
-   games: 75
-   wins: 51
-   losses: 24
-   inturn-total: 736
+   games: 83
+   wins: 54
+   losses: 29
+   inturn-total: 802
    inturn-percent: 80
-   outturn-total: 689
+   outturn-total: 773
    outturn-percent: 80
-   draw-total: 601
-   draw-percent: 79
-   takeout-total: 824
+   draw-total: 662
+   draw-percent: 78
+   takeout-total: 913
    takeout-percent: 81
-   shots-total: 1425
+   shots-total: 1575
    shots-percent: 80
 years:
  - year: 2006
@@ -120,16 +120,36 @@ years:
    takeout-percent: 81
    shots-total: 248
    shots-percent: 80
+ - year: 2022
+   event: Hearts
+   team: "BC"
+   position: Third
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 66
+   inturn-percent: 77
+   outturn-total: 84
+   outturn-percent: 76
+   draw-total: 61
+   draw-percent: 73
+   takeout-total: 89
+   takeout-percent: 78
+   shots-total: 150
+   shots-percent: 76
 vs:
  - Affleck, Tricia
  - Aleksic, Shannon
+ - Armstrong, Hailey
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Ayrey, Jinaye
  - Babin, Jillian
  - Baldwin, Nicole
+ - Balsdon, Megan
  - Barbour, Shona
+ - Barker, Shelley
  - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belanger, Nancy
@@ -137,15 +157,22 @@ vs:
  - Bell, Chelsey
  - Bernard, Cheryl
  - Betker, Jan
+ - Birchard, Shannon
+ - Birnie, Hailey
  - Birt, Suzanne
+ - Black, Christina
+ - Bobbie, Tess
  - Bradley, Shelley
  - Brassard, Veronique
  - Brennan, Amanda
  - Brothers, Jill
  - Burgess, Carey
+ - Burgess, Karlee
  - Bush, Tracy
+ - Cameron, Kate
  - Cameron, Nancy
  - Campbell, Jolene
+ - Campbell, Kerry
  - Carmody, Erin
  - Carrier, Julie
  - Cheveldave, Amber
@@ -165,11 +192,15 @@ vs:
  - Derick, Catherine
  - deSolla, Jodie
  - Dufresne, Audree
+ - Duncan, Hollie
  - Dykstra, Michelle
+ - Einarson, Kerri
  - Einarson, Megan
  - Ellis, Danielle
  - Englot, Michelle
+ - Everist, Karlee
  - Fallis, Karen
+ - Flemming, Margot
  - Fullerton, Sarah
  - Gagnier, Monique
  - Galusha, Kerry
@@ -199,6 +230,7 @@ vs:
  - King, Cathy
  - Kleibrink, Shannon
  - Koehler, Megan
+ - Koltun, Sarah
  - Kreviazuk, Alison
  - Lang, Lorraine
  - Larouche, Marie-France
@@ -207,6 +239,7 @@ vs:
  - LeDrew, Stephanie
  - Lemay, Annie
  - Lemon, Colette
+ - Lenentine, Lauren
  - Loder, Cherie-Ann
  - MacCuish, Kristin
  - MacDiarmid, Kristen
@@ -221,8 +254,10 @@ vs:
  - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McConnery, Nancy
+ - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
+ - Meilleur, Briane
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
@@ -256,11 +291,13 @@ vs:
  - Porter, Erin
  - Power, Marie-Anne
  - Provencal, Darah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
  - Richard, Marie
  - Ridalls, Kristen
- - Robichaud, Sylvie
+ - Riley, Emily
+ - Rizzo, Jo-Ann
  - Rocque, Raylene
  - Rogers, Rhonda
  - Ross, Allison
@@ -268,12 +305,15 @@ vs:
  - Sabourin, Joelle
  - Schneider, Kim
  - Schneider, Tammy
+ - Scotland, Nadine
  - Sharpe, Kelli
  - Shumay, Jill
  - Simmons, Cindy
  - Sippala, Ashley
  - Smith, Heather
  - Sobey, Lianne
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Streifel, Tracy
  - Strong, Heather
  - Strong, Laura
@@ -284,9 +324,13 @@ vs:
  - Thomas, Jill
  - Thompson, Karla
  - Thurston, Jill
+ - Tippin, Julie
+ - Tuor, Kimberly
  - Udle, Teri
  - Vey, Lana
+ - Walker, Laura
  - Wall, Kirsten
+ - Wallingham, Patty
  - Wasylkiw, Lauren
  - Weagle, Lisa
  - Webster, Bronwen
@@ -295,4 +339,6 @@ vs:
  - Whitaker, Carol
  - Wilson, Leslie
  - Yardley, Janelle
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
 ---

@@ -73,9 +73,9 @@ vs:
  - Peters, Laine
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Richard, Marie
- - Robichaud, Sylvie
  - Sagle, Karen
  - Sippala, Ashley
  - Udle, Teri

@@ -27,8 +27,6 @@ years:
    losses: 1
    inturn-total: 6
    inturn-percent: 83
-   outturn-total: 0
-   outturn-percent:
    draw-total: 3
    draw-percent: 100
    takeout-total: 3

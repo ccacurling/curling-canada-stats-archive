@@ -129,6 +129,7 @@ vs:
  - Dufresne, Audree
  - Duncan, Hollie
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Ferguson, Dana
  - Fleury, Tracy
@@ -223,7 +224,6 @@ vs:
  - Van Osch, Kesa
  - Van Osch, Marika
  - Vautour, Carrie
- - Walsh, Jenna
  - Walter, Cathy
  - Wark, Sarah
  - Wasylkiw, Lauren

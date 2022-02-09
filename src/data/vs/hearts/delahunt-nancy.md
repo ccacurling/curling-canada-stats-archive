@@ -6734,6 +6734,34 @@ vs:
       year: 2005
       draw: Tie-Breaker(18)
       score: CA 4 - NB 9
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 68
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Lead
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2008
+      draw: Round Robin(1)
+      score: NB 4 - NS 8
  - name: Radchenka, Tammy
    totals:
     - event: Hearts
@@ -6946,34 +6974,6 @@ vs:
       year: 2003
       draw: Round Robin(3)
       score: MB 7 - CA 8
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 1
-        losses: 0
-      player2:
-        percent: 68
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Lead
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 68
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2008
-      draw: Round Robin(1)
-      score: NB 4 - NS 8
  - name: Robinson, Lori
    totals:
     - event: Hearts

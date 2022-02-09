@@ -153,6 +153,7 @@ vs:
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
+ - Enge, Jenna
  - Englot, Michelle
  - Fallis, Karen
  - Ferguson, Dana
@@ -211,11 +212,11 @@ vs:
  - Pewarchuk, Dailene
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Reid, Jackie
  - Richard, Marie
- - Robichaud, Sylvie
  - Ross, Allison
  - Sanderson, Jessie
  - Sandwith, Carley
@@ -238,7 +239,6 @@ vs:
  - Vautour, Carrie
  - Vey, Lana
  - Wallingham, Patty
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Bronwen
  - Williamson, Ashley

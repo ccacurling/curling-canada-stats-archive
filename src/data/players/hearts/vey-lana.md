@@ -117,6 +117,7 @@ vs:
  - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
+ - Enge, Jenna
  - Enright, Barb
  - Filteau, Anne-Marie
  - Fleury, Tracy
@@ -172,10 +173,10 @@ vs:
  - Pewarchuk, Dailene
  - Power, Marie-Anne
  - Provencal, Darah
+ - Quillian, Sylvie
  - Richard, Marie
  - Richards, Brette
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Sabourin, Joelle
  - Schneider, Kim
  - Schraeder, Jeanna
@@ -190,7 +191,6 @@ vs:
  - Stubbings, Tiffany
  - Thomas, Jill
  - Udle, Teri
- - Walsh, Jenna
  - Wheatcroft, Georgina
  - Whitaker, Carol
  - Wylie, Jennifer

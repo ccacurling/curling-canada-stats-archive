@@ -170,6 +170,7 @@ vs:
  - Duncan, Chelsea
  - Eddy, Lori
  - Einarson, Kerri
+ - Enge, Jenna
  - Enright, Barb
  - Farrell, Allison
  - Ferguson, Dana
@@ -260,10 +261,10 @@ vs:
  - Pinksen, Sadie
  - Potts, Sarah
  - Prosser, Sandi
+ - Quillian, Sylvie
  - Richard, Marie
  - Richards, Brette
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Robison, Michala
  - Rocque, Raylene
  - Ross, Allison
@@ -299,7 +300,6 @@ vs:
  - Verreault, Noemie
  - Walker, Laura
  - Wallingham, Patty
- - Walsh, Jenna
  - Wark, Sarah
  - Weagle, Lisa
  - Wilkes, Sarah

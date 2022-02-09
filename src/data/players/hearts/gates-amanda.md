@@ -186,9 +186,9 @@ vs:
  - Pewarchuk, Dailene
  - Pilote, Kristen
  - Price, Kara
+ - Quillian, Sylvie
  - Richard, Marie
  - Rizzo, Jo-Ann
- - Robichaud, Sylvie
  - Rusnell, Jen
  - Sagle, Karen
  - Scheidegger, Casey

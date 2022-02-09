@@ -746,6 +746,34 @@ vs:
       year: 2010
       draw: Round Robin(3)
       score: TR 6 - BC 7
+ - name: Enge, Jenna
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2012
+      draw: Round Robin(5)
+      score: BC 9 - ON 8
  - name: Englot, Michelle
    totals:
     - event: Hearts
@@ -3362,34 +3390,6 @@ vs:
       year: 2012
       draw: Round Robin(4)
       score: BC 10 - SK 8
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 1
-        losses: 0
-      player2:
-        percent: 78
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'BC'
-        position: Lead
-        percent: 73
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Second
-        percent: 78
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2012
-      draw: Round Robin(5)
-      score: BC 9 - ON 8
  - name: Weagle, Lisa
    totals:
     - event: Hearts

@@ -30,6 +30,34 @@ vs:
       year: 2019
       draw: Round Robin(4)
       score: NL 12 - YT 4
+ - name: Sicinski, Danielle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 0
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 73
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(5)
+      score: NL 6 - SK 8
  - name: Silvernagle, Robyn
    totals:
     - event: Hearts
@@ -130,6 +158,34 @@ vs:
       year: 2005
       draw: Round Robin(15)
       score: SK 6 - TR 3
+ - name: Sippala, Ashley
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 86
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(11)
+      score: NL 8 - NO 5
  - name: Skinner, Julie
    totals:
     - event: Hearts
@@ -574,6 +630,34 @@ vs:
       year: 2006
       draw: Round Robin(16)
       score: TR 9 - SK 5
+ - name: Taylor, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 66
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(7)
+      score: NU 3 - NL 12
  - name: Thevenot, Kara
    totals:
     - event: Hearts
@@ -914,6 +998,34 @@ vs:
       year: 2000
       draw: Round Robin(6)
       score: SK 7 - NL 4
+ - name: Wilkes, Sarah
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(1)
+      score: WC 10 - NL 5
  - name: Wiltzen, Jan
    totals:
     - event: Hearts

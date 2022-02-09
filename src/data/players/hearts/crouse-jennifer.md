@@ -188,11 +188,11 @@ vs:
  - Overton-Clapham, Cathy
  - Phillips, Kristen
  - Price, Kara
+ - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
  - Richards, Brette
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Rogers, Rhonda
  - Sabourin, Joelle
  - Sagle, Karen

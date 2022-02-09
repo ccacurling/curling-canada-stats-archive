@@ -438,6 +438,34 @@ vs:
       year: 2015
       draw: Round Robin(3)
       score: QC 8 - BC 1
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2015
+      draw: Round Robin(12)
+      score: NB 8 - BC 7
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -460,34 +488,6 @@ vs:
         team: 'NB'
         position: Second
         percent: 81
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2015
-      draw: Round Robin(12)
-      score: NB 8 - BC 7
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 0
-        losses: 1
-      player2:
-        percent: 88
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'BC'
-        position: Fourth
-        percent: 84
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 88
         win: 1
         loss: 0
       event: Hearts
@@ -846,34 +846,6 @@ vs:
       year: 2014
       draw: Round Robin(9)
       score: TR 7 - BC 8
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 58
-        wins: 0
-        losses: 1
-      player2:
-        percent: 75
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'BC'
-        position: Fourth
-        percent: 58
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Second
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2015
-      draw: Round Robin(11)
-      score: BC 5 - NO 7
  - name: Weagle, Lisa
    totals:
     - event: Hearts

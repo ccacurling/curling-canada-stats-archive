@@ -4,19 +4,19 @@ name: Mary-Anne Arsenault
 name-sort: Arsenault, Mary-Anne
 totals:
  - event: Hearts
-   games: 166
-   wins: 105
-   losses: 61
-   inturn-total: 1500
+   games: 174
+   wins: 108
+   losses: 66
+   inturn-total: 1576
    inturn-percent: 78
-   outturn-total: 1686
+   outturn-total: 1754
    outturn-percent: 81
-   draw-total: 1381
+   draw-total: 1451
    draw-percent: 78
-   takeout-total: 1805
+   takeout-total: 1879
    takeout-percent: 81
-   shots-total: 3186
-   shots-percent: 80
+   shots-total: 3330
+   shots-percent: 79
 years:
  - year: 1993
    event: Hearts
@@ -289,6 +289,23 @@ years:
    takeout-percent: 73
    shots-total: 155
    shots-percent: 73
+ - year: 2022
+   event: Hearts
+   team: "BC"
+   position: Fourth
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 76
+   inturn-percent: 77
+   outturn-total: 68
+   outturn-percent: 74
+   draw-total: 70
+   draw-percent: 77
+   takeout-total: 74
+   takeout-percent: 74
+   shots-total: 144
+   shots-percent: 75
 vs:
  - Adams, Melissa
  - Affleck, Tricia
@@ -298,6 +315,7 @@ vs:
  - Allen, Michelle
  - Allerton, Dana
  - Anderson, Sherry
+ - Armstrong, Hailey
  - Arnott, Janet
  - Arsenault-Bishop, Nicole
  - Arseneau, Jane
@@ -306,8 +324,11 @@ vs:
  - Baker, Michelle
  - Bakker, Glenys
  - Balderston, Marcy
+ - Balsdon, Megan
  - Barbour, Shona
+ - Barker, Shelley
  - Barrack, Carmen
+ - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belanger, Nancy
  - Belisle, Eve
@@ -320,10 +341,12 @@ vs:
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
+ - Black, Christina
  - Blackburn, Julie
  - Blais, Amelie
  - Blanchard, Judy
  - Blashko, Denise
+ - Bobbie, Tess
  - Bohmer, Brenda
  - Bonar, Maureen
  - Boyle, Jane
@@ -336,6 +359,7 @@ vs:
  - Brown, Janet
  - Brown, Rachel
  - Burgess, Carey
+ - Burgess, Karlee
  - Burlington, Cheryl
  - Bush, Tracy
  - Byers, Denise
@@ -344,6 +368,7 @@ vs:
  - Camozzi, Rhonda
  - Campbell, Gloria
  - Campbell, June
+ - Campbell, Kerry
  - Carrier, Julie
  - Carter, Sasha
  - Charette, Agnes
@@ -382,8 +407,10 @@ vs:
  - Dunn, Anne
  - Dykstra, Michelle
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Enright, Barb
+ - Everist, Karlee
  - Fallis, Karen
  - Fallis-Kurz, Lynn
  - Farrell, Allison
@@ -394,6 +421,7 @@ vs:
  - Fisher, Alana
  - Fister, Teri
  - Fister, Toni
+ - Flemming, Margot
  - Fleury, Tracy
  - Floyd, Kathy
  - Fortier, Marie-Josee
@@ -479,6 +507,7 @@ vs:
  - Leger, Stacey
  - Lemay, Annie
  - Lemire, Nancy
+ - Lenentine, Lauren
  - Letendre, Pascale
  - Lewis, Kristy
  - Linton, Sherry
@@ -505,6 +534,7 @@ vs:
  - McCarville, Krista
  - McConnery, Nancy
  - McCusker, Joan
+ - McDonald, Taylor
  - McDonald, Tina
  - McEwen, Dawn
  - McGregor, Rona
@@ -513,6 +543,7 @@ vs:
  - McNamee, Karen
  - McQuaid, Michelle
  - McTaggart, Cary-Anne
+ - Meilleur, Briane
  - Merklinger, Anne
  - Middaugh, Sherry
  - Miller, Maureen
@@ -555,15 +586,16 @@ vs:
  - Power, Marie-Anne
  - Price, Kara
  - Prosser, Sandi
+ - Quillian, Sylvie
  - Radchenka, Tammy
  - Reed, Shellan
  - Renouf, Michele
  - Richard, Marie
  - Ridalls, Kristen
+ - Riley, Emily
  - Rizzo, Jo-Ann
  - Roberts, Angela
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Robinson, Lori
  - Rocque, Raylene
  - Ross, Allison
@@ -580,6 +612,7 @@ vs:
  - Schmidt, Stephanie
  - Schmirler, Sandra
  - Schraeder, Jeanna
+ - Scotland, Nadine
  - Scott, Kelly
  - Sharpe, Kelli
  - Shigehiro, Sally
@@ -594,6 +627,8 @@ vs:
  - Soligo, Melissa
  - Sonnenberg, Renee
  - Spencer, Barb
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Stabel, Stacey
  - Stahl, Carrie
  - Stewart, Sheri
@@ -614,6 +649,7 @@ vs:
  - Thompson, Karla
  - Thurston, Jill
  - Tincher, Twyla
+ - Tippin, Julie
  - Todd, Fran
  - Trider, Krista
  - Trombley, Christy
@@ -623,8 +659,9 @@ vs:
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
+ - Walker, Laura
  - Wall, Kirsten
- - Walsh, Jenna
+ - Wallingham, Patty
  - Walter, Cathy
  - Wasylkiw, Lauren
  - Wazney, Sarah
@@ -643,5 +680,7 @@ vs:
  - Wylie, Jennifer
  - Yardley, Janelle
  - Young, Karen
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
  - Zinck, Kay
 ---

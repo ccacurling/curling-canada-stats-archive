@@ -354,6 +354,7 @@ vs:
  - Einarson, Kerri
  - Einarson, Megan
  - Ellis, Danielle
+ - Enge, Jenna
  - Englot, Michelle
  - Enright, Barb
  - Fallis, Karen
@@ -493,6 +494,7 @@ vs:
  - Price, Kara
  - Prosser, Sandi
  - Provencal, Darah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
  - Recksiedler, Kristen
@@ -500,7 +502,6 @@ vs:
  - Richards, Brette
  - Ridalls, Kristen
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Rocque, Raylene
  - Rogers, Rhonda
  - Ross, Allison
@@ -550,7 +551,6 @@ vs:
  - Vautour, Carrie
  - Vey, Lana
  - Wall, Kirsten
- - Walsh, Jenna
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa

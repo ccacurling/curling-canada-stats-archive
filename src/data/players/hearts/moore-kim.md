@@ -120,9 +120,9 @@ vs:
  - Overton-Clapham, Cathy
  - Peters, Laine
  - Phillips, Laura
+ - Quillian, Sylvie
  - Radford, Helen
  - Richard, Marie
- - Robichaud, Sylvie
  - Sabourin, Joelle
  - Schmirler, Sandra
  - Schraeder, Jeanna

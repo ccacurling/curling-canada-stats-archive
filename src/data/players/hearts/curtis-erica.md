@@ -138,9 +138,9 @@ vs:
  - Pincott, Erin
  - Plonka, Gabrielle
  - Potts, Sarah
+ - Quillian, Sylvie
  - Richards, Brette
  - Rizzo, Jo-Ann
- - Robichaud, Sylvie
  - Sagle, Karen
  - Saulnier, Andrea
  - Scheidegger, Casey

@@ -31,8 +31,6 @@ years:
    outturn-percent: 0
    draw-total: 4
    draw-percent: 75
-   takeout-total: 0
-   takeout-percent:
    shots-total: 4
    shots-percent: 75
  - year: 2018
@@ -92,6 +90,7 @@ vs:
  - Duncan, Jenna
  - Eddy, Lori
  - Einarson, Kerri
+ - Enge, Jenna
  - Fesser, Kourtney
  - Fesser, Krista
  - Fisher, Sam
@@ -130,7 +129,6 @@ vs:
  - Smallwood, Jody
  - St-Georges, Cynthia
  - St-Georges, Laurie
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Crystal
  - Westcott, Raunora

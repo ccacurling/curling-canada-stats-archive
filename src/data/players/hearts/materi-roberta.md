@@ -102,6 +102,7 @@ vs:
  - Dezura, Diane
  - Dolan, Kim
  - Dolan, Sinead
+ - Enge, Jenna
  - Farrell, Allison
  - Filteau, Anne-Marie
  - Fleury, Tracy
@@ -152,9 +153,9 @@ vs:
  - Peters, Laine
  - Pewarchuk, Dailene
  - Power, Marie-Anne
+ - Quillian, Sylvie
  - Radchenka, Tammy
  - Richard, Marie
- - Robichaud, Sylvie
  - Sabourin, Joelle
  - Sandison, Janice
  - Schneider, Kim
@@ -172,7 +173,6 @@ vs:
  - Thompson, Karla
  - Udle, Teri
  - Wall, Kirsten
- - Walsh, Jenna
  - Webster, Bronwen
  - Wheatcroft, Georgina
  - Whitaker, Carol

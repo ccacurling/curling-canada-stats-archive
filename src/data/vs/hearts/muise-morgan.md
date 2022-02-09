@@ -170,6 +170,34 @@ vs:
       year: 2006
       draw: Round Robin(2)
       score: SK 7 - NB 9
+ - name: Rizzo, Jo-Ann
+   totals:
+    - event: Hearts
+      player1:
+        percent: 53
+        wins: 1
+        losses: 0
+      player2:
+        percent: 43
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 53
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Fourth
+        percent: 43
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(16)
+      score: BC 11 - NT 6
  - name: Rocque, Raylene
    totals:
     - event: Hearts

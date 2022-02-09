@@ -2,16 +2,44 @@
 title: Laurie St-Georges Head-to-head
 name: St-Georges, Laurie
 vs:
+ - name: Strybosch, Rachelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(16)
+      score: QC 4 - ON 9
  - name: Sweeting, Val
    totals:
     - event: Hearts
       player1:
         percent: 70
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 89
-        wins: 1
+        percent: 92
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -30,6 +58,22 @@ vs:
       year: 2021
       draw: Pool(22)
       score: QC 4 - CA 7
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 95
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(6)
+      score: CA 8 - QC 5
  - name: Tingley, Jaclyn
    totals:
     - event: Hearts
@@ -86,17 +130,45 @@ vs:
       year: 2021
       draw: Pool(23)
       score: WC 10 - QC 3
+ - name: Tuor, Kimberly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 55
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent: 55
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 85
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(4)
+      score: QC 8 - YT 7
  - name: Walker, Laura
    totals:
     - event: Hearts
       player1:
         percent: 76
-        wins: 0
+        wins: 1
         losses: 1
       player2:
-        percent: 86
+        percent: 80
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'QC'
@@ -114,6 +186,50 @@ vs:
       year: 2021
       draw: Pool(20)
       score: AB 7 - QC 6
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(2)
+      score: AB 8 - QC 9
+ - name: Wallingham, Patty
+   totals:
+    - event: Hearts
+      player1:
+        percent: 55
+        wins: 1
+        losses: 0
+      player2:
+        percent: 61
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent: 55
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Third
+        percent: 61
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(4)
+      score: QC 8 - YT 7
  - name: Weagle, Lisa
    totals:
     - event: Hearts
@@ -170,4 +286,60 @@ vs:
       year: 2021
       draw: Pool(21)
       score: QC 7 - ON 8
+ - name: Zacharias, Emily
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 0
+        losses: 1
+      player2:
+        percent: 74
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 74
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(14)
+      score: MB 4 - QC 3
+ - name: Zacharias, Mackenzie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 0
+        losses: 1
+      player2:
+        percent: 70
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(14)
+      score: MB 4 - QC 3
 ---

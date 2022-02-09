@@ -98,6 +98,7 @@ vs:
  - Delahunt, Nancy
  - Devereaux, Julie
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Ferguson, Dana
  - Filteau, Anne-Marie
@@ -180,7 +181,6 @@ vs:
  - Vautour, Carrie
  - Vey, Lana
  - Wall, Kirsten
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Bronwen
  - Whitaker, Carol

@@ -4,18 +4,18 @@ name: Dana Ferguson
 name-sort: Ferguson, Dana
 totals:
  - event: Hearts
-   games: 54
-   wins: 38
-   losses: 16
-   inturn-total: 478
-   inturn-percent: 82
-   outturn-total: 522
+   games: 56
+   wins: 39
+   losses: 17
+   inturn-total: 481
+   inturn-percent: 83
+   outturn-total: 525
    outturn-percent: 83
-   draw-total: 387
+   draw-total: 389
    draw-percent: 80
-   takeout-total: 613
+   takeout-total: 617
    takeout-percent: 84
-   shots-total: 1000
+   shots-total: 1006
    shots-percent: 83
 years:
  - year: 2014
@@ -103,6 +103,54 @@ years:
    takeout-percent: 75
    shots-total: 8
    shots-percent: 75
+ - year: 2022
+   event: Hearts
+   team: "AB"
+   position: Lead
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 3
+   inturn-percent: 100
+   outturn-total: 1
+   outturn-percent: 75
+   draw-total: 1
+   draw-percent: 75
+   takeout-total: 3
+   takeout-percent: 100
+   shots-total: 4
+   shots-percent: 94
+ - year: 2022
+   event: Hearts
+   team: "AB"
+   position: Second
+   games: 1
+   wins: 0
+   losses: 1
+   outturn-total: 2
+   outturn-percent: 75
+   draw-total: 1
+   draw-percent: 75
+   takeout-total: 1
+   takeout-percent: 75
+   shots-total: 2
+   shots-percent: 75
+ - year: 2022
+   event: Hearts
+   team: Totals
+   games: 2
+   wins: 1
+   losses: 1
+   inturn-total: 3
+   inturn-percent: 100
+   outturn-total: 3
+   outturn-percent: 75
+   draw-total: 2
+   draw-percent: 75
+   takeout-total: 4
+   takeout-percent: 94
+   shots-total: 6
+   shots-percent: 88
 vs:
  - Anderson, Sherry
  - Armstrong, Jennifer
@@ -112,6 +160,7 @@ vs:
  - Baier, Stephanie
  - Baxter, Jennifer
  - Birchard, Shannon
+ - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
@@ -123,6 +172,7 @@ vs:
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Corryn
+ - Brown, Stephanie
  - Burns, Krysta
  - Cameron, Kate
  - Camozzi, Rhonda
@@ -145,6 +195,7 @@ vs:
  - Duncan, Chelsea
  - Eddy, Lori
  - Einarson, Kerri
+ - Enge, Jenna
  - Filteau, Anne-Marie
  - Flaxey, Allison
  - Fleury, Tracy
@@ -165,6 +216,7 @@ vs:
  - Ingram, Megan
  - Jones, Jennifer
  - Joyce, Blisse
+ - Karwacki, Krysten
  - Kasner, Marliese
  - Klymchuk, Ashley
  - Knezevic, Patti
@@ -203,9 +255,9 @@ vs:
  - Pincott, Erin
  - Pinksen, Sadie
  - Potts, Sarah
+ - Quillian, Sylvie
  - Reid, Jackie
  - Richard, Marie
- - Robichaud, Sylvie
  - Robison, Michala
  - Ross, Allison
  - Routledge, Alanna
@@ -231,12 +283,12 @@ vs:
  - Thomas-Kennell, Noelle
  - Titheridge, Lindsay
  - Trombley, Christy
+ - Tuor, Kimberly
  - Udle, Teri
  - Van Osch, Kesa
  - Verreault, Noemie
  - Walker, Laura
  - Wallingham, Patty
- - Walsh, Jenna
  - Wark, Sarah
  - Weagle, Lisa
  - Whitaker, Carol

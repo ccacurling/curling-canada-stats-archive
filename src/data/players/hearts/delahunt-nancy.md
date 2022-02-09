@@ -422,6 +422,7 @@ vs:
  - Pinkney, Colleen
  - Power, Marie-Anne
  - Prosser, Sandi
+ - Quillian, Sylvie
  - Radchenka, Tammy
  - Rainville, Julie
  - Reed, Shellan
@@ -429,7 +430,6 @@ vs:
  - Richard, Marie
  - Ridalls, Kristen
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Robinson, Lori
  - Rocque, Raylene
  - Ross, Allison

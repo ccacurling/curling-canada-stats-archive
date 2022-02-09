@@ -220,6 +220,7 @@ vs:
  - Duncan, Chelsea
  - Dykstra, Michelle
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Eyamie, Lisa
  - Fallis, Karen
@@ -317,12 +318,12 @@ vs:
  - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Reid, Jackie
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Robichaud, Sylvie
  - Robison, Michala
  - Ross, Allison
  - Rusnell, Jen
@@ -363,7 +364,6 @@ vs:
  - Van Osch, Kesa
  - Walker, Laura
  - Wallingham, Patty
- - Walsh, Jenna
  - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah

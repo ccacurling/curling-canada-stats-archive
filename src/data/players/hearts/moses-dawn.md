@@ -457,6 +457,7 @@ vs:
  - Power, Judy
  - Power, Marie-Anne
  - Provencal, Darah
+ - Quillian, Sylvie
  - Rankin, Beth
  - Rankin, Heather
  - Renouf, Michele
@@ -464,7 +465,6 @@ vs:
  - Richards, Brette
  - Ridley, Terry
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Ryan, Jennifer
  - Sabourin, Joelle
  - Santos, Deb

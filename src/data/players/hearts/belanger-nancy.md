@@ -152,11 +152,11 @@ vs:
  - Overton-Clapham, Cathy
  - Peters, Laine
  - Power, Marie-Anne
+ - Quillian, Sylvie
  - Radchenka, Tammy
  - Richard, Marie
  - Richards, Brette
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Sandison, Janice
  - Schraeder, Jeanna
  - Scott, Kelly

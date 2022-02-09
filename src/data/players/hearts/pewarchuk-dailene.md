@@ -153,6 +153,7 @@ vs:
  - Devereaux, Julie
  - Dolan, Kim
  - Dolan, Sinead
+ - Enge, Jenna
  - Englot, Michelle
  - Filteau, Anne-Marie
  - Fleury, Tracy
@@ -192,6 +193,5 @@ vs:
  - Strong, Laura
  - Udle, Teri
  - Vey, Lana
- - Walsh, Jenna
  - Wylie, Jennifer
 ---

@@ -218,12 +218,12 @@ vs:
  - Potts, Sarah
  - Power, Marie-Anne
  - Provencal, Darah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Reid, Jackie
  - Richard, Marie
  - Rizzo, Jo-Ann
- - Robichaud, Sylvie
  - Ross, Allison
  - Rusnell, Jen
  - Sagle, Karen

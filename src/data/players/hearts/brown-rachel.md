@@ -149,6 +149,7 @@ vs:
  - Duncan, Chelsea
  - Eddy, Lori
  - Einarson, Kerri
+ - Enge, Jenna
  - Filteau, Anne-Marie
  - Flaxey, Allison
  - Flemming, Margot
@@ -216,11 +217,11 @@ vs:
  - Pincott, Erin
  - Pinksen, Sadie
  - Potts, Sarah
+ - Quillian, Sylvie
  - Reid, Jackie
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Robichaud, Sylvie
  - Robison, Michala
  - Ross, Allison
  - Routledge, Alanna
@@ -254,7 +255,6 @@ vs:
  - Verreault, Noemie
  - Walker, Laura
  - Wallingham, Patty
- - Walsh, Jenna
  - Wark, Sarah
  - Weagle, Lisa
  - Whitaker, Carol

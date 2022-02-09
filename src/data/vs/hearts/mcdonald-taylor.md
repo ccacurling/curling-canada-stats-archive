@@ -6,12 +6,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 78
+        percent: 77
         wins: 0
-        losses: 3
+        losses: 4
       player2:
-        percent: 85
-        wins: 3
+        percent: 86
+        wins: 4
         losses: 0
    games:
     - player1:
@@ -62,6 +62,22 @@ vs:
       year: 2021
       draw: Semi-Final(25)
       score: AB 3 - CA 9
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(8)
+      score: CA 10 - AB 5
  - name: Miskew, Emma
    totals:
     - event: Hearts
@@ -238,12 +254,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 85
+        percent: 82
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 70
-        wins: 0
+        percent: 67
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -262,16 +278,32 @@ vs:
       year: 2021
       draw: Pool(20)
       score: AB 7 - QC 6
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Second
+        percent: 64
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(2)
+      score: AB 8 - QC 9
  - name: Rizzo, Jo-Ann
    totals:
     - event: Hearts
       player1:
+        percent: 71
+        wins: 1
+        losses: 1
+      player2:
         percent: 69
         wins: 1
-        losses: 0
-      player2:
-        percent: 63
-        wins: 0
         losses: 1
    games:
     - player1:
@@ -290,6 +322,22 @@ vs:
       year: 2021
       draw: Round Robin(12)
       score: AB 8 - NT 3
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'NT'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(18)
+      score: AB 4 - NT 7
  - name: Routledge, Alanna
    totals:
     - event: Hearts
@@ -346,6 +394,34 @@ vs:
       year: 2020
       draw: Round Robin(3)
       score: QC 3 - AB 8
+ - name: Schraeder, Jeanna
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(4)
+      score: BC 8 - AB 9
  - name: Silvernagle, Robyn
    totals:
     - event: Hearts
@@ -374,6 +450,34 @@ vs:
       year: 2020
       draw: Round Robin(8)
       score: SK 7 - AB 5
+ - name: Simons, Renee
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 89
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(4)
+      score: BC 8 - AB 9
  - name: Sippala, Ashley
    totals:
     - event: Hearts
@@ -434,12 +538,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 85
+        percent: 82
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 90
-        wins: 0
+        percent: 82
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -458,16 +562,32 @@ vs:
       year: 2021
       draw: Pool(20)
       score: AB 7 - QC 6
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(2)
+      score: AB 8 - QC 9
  - name: St-Georges, Laurie
    totals:
     - event: Hearts
       player1:
-        percent: 85
+        percent: 82
         wins: 1
-        losses: 0
+        losses: 1
       player2:
         percent: 76
-        wins: 0
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -486,16 +606,60 @@ vs:
       year: 2021
       draw: Pool(20)
       score: AB 7 - QC 6
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(2)
+      score: AB 8 - QC 9
+ - name: Strybosch, Rachelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Second
+        percent: 76
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(6)
+      score: AB 9 - ON 7
  - name: Sweeting, Val
    totals:
     - event: Hearts
       player1:
-        percent: 78
+        percent: 77
         wins: 0
-        losses: 3
+        losses: 4
       player2:
-        percent: 83
-        wins: 3
+        percent: 85
+        wins: 4
         losses: 0
    games:
     - player1:
@@ -546,6 +710,22 @@ vs:
       year: 2021
       draw: Semi-Final(25)
       score: AB 3 - CA 9
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(8)
+      score: CA 10 - AB 5
  - name: Thevenot, Kara
    totals:
     - event: Hearts
@@ -602,6 +782,34 @@ vs:
       year: 2021
       draw: Round Robin(10)
       score: WC 6 - AB 4
+ - name: Tuor, Kimberly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 90
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(10)
+      score: AB 11 - YT 5
  - name: Verreault, Noemie
    totals:
     - event: Hearts
@@ -630,6 +838,34 @@ vs:
       year: 2020
       draw: Round Robin(3)
       score: QC 3 - AB 8
+ - name: Wallingham, Patty
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(10)
+      score: AB 11 - YT 5
  - name: Weagle, Lisa
    totals:
     - event: Hearts
@@ -722,12 +958,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 83
+        percent: 79
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 66
-        wins: 0
+        percent: 76
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -746,16 +982,32 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: AB 7 - WC 5
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(16)
+      score: MB 10 - AB 7
  - name: Zacharias, Mackenzie
    totals:
     - event: Hearts
       player1:
-        percent: 83
+        percent: 79
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 57
-        wins: 0
+        percent: 72
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -774,4 +1026,20 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: AB 7 - WC 5
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(16)
+      score: MB 10 - AB 7
 ---

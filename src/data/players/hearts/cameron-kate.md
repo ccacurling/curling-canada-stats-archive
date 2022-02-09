@@ -4,19 +4,19 @@ name: Kate Cameron
 name-sort: Cameron, Kate
 totals:
  - event: Hearts
-   games: 45
-   wins: 30
-   losses: 15
-   inturn-total: 440
-   inturn-percent: 79
-   outturn-total: 388
-   outturn-percent: 79
-   draw-total: 356
+   games: 53
+   wins: 33
+   losses: 20
+   inturn-total: 522
+   inturn-percent: 78
+   outturn-total: 462
+   outturn-percent: 78
+   draw-total: 403
    draw-percent: 79
-   takeout-total: 472
-   takeout-percent: 79
-   shots-total: 828
-   shots-percent: 79
+   takeout-total: 581
+   takeout-percent: 78
+   shots-total: 984
+   shots-percent: 78
 years:
  - year: 2017
    event: Hearts
@@ -86,6 +86,23 @@ years:
    takeout-percent: 75
    shots-total: 254
    shots-percent: 75
+ - year: 2022
+   event: Hearts
+   team: "AB"
+   position: Third
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 82
+   inturn-percent: 74
+   outturn-total: 74
+   outturn-percent: 73
+   draw-total: 47
+   draw-percent: 79
+   takeout-total: 109
+   takeout-percent: 72
+   shots-total: 156
+   shots-percent: 74
 vs:
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
@@ -95,19 +112,25 @@ vs:
  - Arnaud, Chloe
  - Arsenault, Mary-Anne
  - Babin, Jillian
+ - Balsdon, Megan
  - Barbour, Shona
  - Barker, Penny
+ - Barker, Shelley
  - Baxter, Jennifer
  - Belisle, Eve
  - Birchard, Shannon
+ - Birnie, Hailey
  - Black, Christina
+ - Bobbie, Tess
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Rachel
+ - Brown, Stephanie
  - Burgess, Karlee
  - Burns, Krysta
  - Carey, Chelsea
  - Carmody, Erin
+ - Carter, Sasha
  - Cormier, Sharon
  - Cote, Marie-Pier
  - Courtney, Joanne
@@ -124,6 +147,7 @@ vs:
  - Duncan, Hollie
  - Eddy, Lori
  - Einarson, Kerri
+ - Everist, Karlee
  - Eyamie, Lisa
  - Ferguson, Dana
  - Flemming, Margot
@@ -145,9 +169,11 @@ vs:
  - Hunkin, Jessie
  - Hutchings, Denise
  - Jones, Jennifer
+ - Karwacki, Krysten
  - Kitz, Chaelynn
  - Knapp, Breanne
  - Koehler, Megan
+ - Koltun, Sarah
  - Kreviazuk, Cheryl
  - Lawes, Kaitlyn
  - Lawton, Stefanie
@@ -193,21 +219,26 @@ vs:
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schneider, Lorraine
+ - Schraeder, Jeanna
  - Shackleton, Amie
  - Sicinski, Danielle
  - Silvernagle, Robyn
+ - Simons, Renee
  - Sippala, Ashley
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Strybosch, Rachelle
  - Sweeting, Val
  - Thevenot, Kara
  - Thiessen, Alison
  - Tran, Brittany
+ - Tuor, Kimberly
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
  - Verreault, Noemie
+ - Wallingham, Patty
  - Weagle, Lisa
  - Webster, Crystal
  - West, Christianne

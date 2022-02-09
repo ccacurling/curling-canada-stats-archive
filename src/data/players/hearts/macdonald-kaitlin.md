@@ -4,19 +4,19 @@ name: Kaitlin MacDonald
 name-sort: MacDonald, Kaitlin
 totals:
  - event: Hearts
-   games: 15
+   games: 23
    wins: 2
-   losses: 13
-   inturn-total: 148
-   inturn-percent: 68
-   outturn-total: 138
-   outturn-percent: 65
-   draw-total: 236
-   draw-percent: 67
-   takeout-total: 50
-   takeout-percent: 66
-   shots-total: 286
-   shots-percent: 67
+   losses: 21
+   inturn-total: 218
+   inturn-percent: 67
+   outturn-total: 212
+   outturn-percent: 64
+   draw-total: 309
+   draw-percent: 65
+   takeout-total: 121
+   takeout-percent: 68
+   shots-total: 430
+   shots-percent: 66
 years:
  - year: 2020
    event: Hearts
@@ -52,6 +52,23 @@ years:
    takeout-percent: 51
    shots-total: 150
    shots-percent: 65
+ - year: 2022
+   event: Hearts
+   team: "NU"
+   position: Second
+   games: 8
+   wins: 0
+   losses: 8
+   inturn-total: 70
+   inturn-percent: 66
+   outturn-total: 74
+   outturn-percent: 61
+   draw-total: 73
+   draw-percent: 59
+   takeout-total: 71
+   takeout-percent: 69
+   shots-total: 144
+   shots-percent: 64
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -59,6 +76,7 @@ vs:
  - Armstrong, Jennifer
  - Arsenault-Bishop, Nicole
  - Babin, Jillian
+ - Barker, Penny
  - Barron, Lauren
  - Birchard, Shannon
  - Birt, Suzanne
@@ -66,15 +84,21 @@ vs:
  - Brown, Corryn
  - Brown, Rachel
  - Cameron, Kate
+ - Campbell, Jolene
  - Carey, Chelsea
  - Christianson, Marie
  - Cote, Marie-Pier
+ - Courtney, Joanne
  - Crawford, Andrea
  - Einarson, Kerri
+ - Enge, Jenna
+ - Erickson, Rachel
  - Ferguson, Dana
  - Fisher, Sam
+ - Flaxey, Allison
  - Forward, Katie
  - Fyfe, Liz
+ - Gamble, Christie
  - Gates, Jennifer
  - Hamilton, Beth
  - Hawes, Dezaray
@@ -84,6 +108,7 @@ vs:
  - Jones, Jennifer
  - Kitz, Chaelynn
  - Knapp, Breanne
+ - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
@@ -95,14 +120,21 @@ vs:
  - McQuaid, Michelle
  - Meilleur, Briane
  - Mercer, Adrienne
+ - Miskew, Emma
+ - Njegovan, Robyn
  - Njegovan, Selena
  - Peterman, Jocelyn
  - Pincott, Erin
+ - Potts, Sarah
+ - Quillian, Sylvie
  - Riley, Emily
  - Rocque, Kelsey
  - Routledge, Alanna
  - Routledge, Jill
+ - Schmidt, Stephanie
  - Scotland, Nadine
+ - Sharpe, Kelli
+ - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley
  - St-Georges, Cynthia

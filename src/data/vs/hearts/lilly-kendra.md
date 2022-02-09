@@ -6,13 +6,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 83
-        wins: 2
-        losses: 1
-      player2:
-        percent: 87
-        wins: 1
+        percent: 84
+        wins: 3
         losses: 2
+      player2:
+        percent: 85
+        wins: 2
+        losses: 3
    games:
     - player1:
         team: 'NO'
@@ -62,17 +62,49 @@ vs:
       year: 2019
       draw: Round Robin(13)
       score: MB 5 - NO 7
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(17)
+      score: WC 8 - NO 6
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Playoff(21)
+      score: NO 8 - WC 3
  - name: MacDonald, Kaitlin
    totals:
     - event: Hearts
       player1:
-        percent: 78
-        wins: 0
+        percent: 69
+        wins: 1
         losses: 1
       player2:
-        percent: 85
+        percent: 69
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'NO'
@@ -90,6 +122,50 @@ vs:
       year: 2020
       draw: Round Robin(9)
       score: NO 5 - NU 6
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 61
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Second
+        percent: 54
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(9)
+      score: NU 6 - NO 7
+ - name: MacPhail, Brigitte
+   totals:
+    - event: Hearts
+      player1:
+        percent: 61
+        wins: 1
+        losses: 0
+      player2:
+        percent: 59
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 61
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Fourth
+        percent: 59
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(9)
+      score: NU 6 - NO 7
  - name: MacPhee, Robyn
    totals:
     - event: Hearts
@@ -326,13 +402,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 81
-        wins: 3
+        percent: 79
+        wins: 4
         losses: 0
       player2:
         percent: 81
         wins: 0
-        losses: 3
+        losses: 4
    games:
     - player1:
         team: 'NO'
@@ -382,6 +458,22 @@ vs:
       year: 2020
       draw: Pool(18)
       score: PE 5 - NO 6
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(3)
+      score: NO 8 - PE 5
  - name: McTaggart, Cary-Anne
    totals:
     - event: Hearts
@@ -414,12 +506,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 75
+        percent: 73
         wins: 0
-        losses: 1
+        losses: 2
       player2:
         percent: 79
-        wins: 1
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -438,16 +530,60 @@ vs:
       year: 2020
       draw: Round Robin(6)
       score: NO 7 - MB 8
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Final(25)
+      score: NO 6 - CA 9
+ - name: Mercer, Adrienne
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(11)
+      score: NL 8 - NO 5
  - name: Miskew, Emma
    totals:
     - event: Hearts
       player1:
-        percent: 75
+        percent: 74
         wins: 0
-        losses: 6
+        losses: 7
       player2:
-        percent: 81
-        wins: 6
+        percent: 80
+        wins: 7
         losses: 0
    games:
     - player1:
@@ -546,6 +682,22 @@ vs:
       year: 2020
       draw: Page 3-4(20)
       score: ON 9 - NO 5
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 66
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(5)
+      score: NO 5 - WC 8
  - name: Moore, Kristie
    totals:
     - event: Hearts
@@ -770,13 +922,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 83
-        wins: 2
-        losses: 1
-      player2:
-        percent: 81
-        wins: 1
+        percent: 84
+        wins: 3
         losses: 2
+      player2:
+        percent: 79
+        wins: 2
+        losses: 3
    games:
     - player1:
         team: 'NO'
@@ -826,6 +978,38 @@ vs:
       year: 2019
       draw: Round Robin(13)
       score: MB 5 - NO 7
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(17)
+      score: WC 8 - NO 6
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Playoff(21)
+      score: NO 8 - WC 3
  - name: O'Connor, Susan
    totals:
     - event: Hearts
@@ -1230,13 +1414,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 74
-        wins: 1
+        percent: 69
+        wins: 2
         losses: 1
       player2:
-        percent: 67
+        percent: 63
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NO'
@@ -1270,6 +1454,22 @@ vs:
       year: 2020
       draw: Round Robin(9)
       score: NO 5 - NU 6
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 61
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 56
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(9)
+      score: NU 6 - NO 7
  - name: Porter, Erin
    totals:
     - event: Hearts
@@ -1314,6 +1514,66 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: NL 3 - NO 6
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 71
+        wins: 3
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 3
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(2)
+      score: NO 6 - NB 3
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 68
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 77
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(13)
+      score: NO 8 - NB 7
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 82
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Page 1-2(23)
+      score: NO 9 - NB 8
  - name: Rainville, Julie
    totals:
     - event: Hearts
@@ -1442,34 +1702,6 @@ vs:
       year: 2017
       draw: Round Robin(10)
       score: NO 8 - BC 3
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 70
-        wins: 1
-        losses: 0
-      player2:
-        percent: 66
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NO'
-        position: Third
-        percent: 70
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 66
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(2)
-      score: NO 6 - NB 3
  - name: Routledge, Alanna
    totals:
     - event: Hearts
@@ -1666,6 +1898,34 @@ vs:
       year: 2019
       draw: Pool(17)
       score: NO 7 - WC 5
+ - name: Schmidt, Stephanie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 57
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 57
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(1)
+      score: NO 7 - WC 3
  - name: Schneider, Lorraine
    totals:
     - event: Hearts
@@ -1722,17 +1982,45 @@ vs:
       year: 2020
       draw: Round Robin(12)
       score: AB 3 - NO 4
+ - name: Sharpe, Kelli
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(11)
+      score: NL 8 - NO 5
  - name: Sicinski, Danielle
    totals:
     - event: Hearts
       player1:
-        percent: 61
-        wins: 1
+        percent: 78
+        wins: 2
         losses: 0
       player2:
-        percent: 92
+        percent: 85
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NO'
@@ -1750,6 +2038,22 @@ vs:
       year: 2017
       draw: Round Robin(5)
       score: NO 8 - SK 3
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 95
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(15)
+      score: SK 2 - NO 6
  - name: Silvernagle, Robyn
    totals:
     - event: Hearts
@@ -1798,12 +2102,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 75
+        percent: 73
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 79
-        wins: 1
+        percent: 84
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1822,6 +2126,50 @@ vs:
       year: 2020
       draw: Round Robin(6)
       score: NO 7 - MB 8
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Final(25)
+      score: NO 6 - CA 9
+ - name: Taylor, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 61
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 61
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 66
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(9)
+      score: NU 6 - NO 7
  - name: Thevenot, Kara
    totals:
     - event: Hearts
@@ -2230,12 +2578,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 80
+        percent: 77
         wins: 1
-        losses: 2
+        losses: 3
       player2:
-        percent: 81
-        wins: 2
+        percent: 84
+        wins: 3
         losses: 1
    games:
     - player1:
@@ -2286,6 +2634,22 @@ vs:
       year: 2020
       draw: Round Robin(1)
       score: NO 8 - CA 3
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 66
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 93
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(5)
+      score: NO 5 - WC 8
  - name: Williamson, Ashley
    totals:
     - event: Hearts

@@ -2362,6 +2362,50 @@ vs:
       year: 2019
       draw: Pool(18)
       score: CA 6 - NO 8
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 2
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 83
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(13)
+      score: MB 9 - NB 7
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(8)
+      score: NB 6 - CA 9
  - name: Rainville, Julie
    totals:
     - event: Hearts
@@ -2534,50 +2578,6 @@ vs:
       year: 2020
       draw: Round Robin(10)
       score: WC 11 - NT 3
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 2
-        losses: 0
-      player2:
-        percent: 78
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'MB'
-        position: Third
-        percent: 89
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(13)
-      score: MB 9 - NB 7
-    - player1:
-        team: 'CA'
-        position: Third
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 74
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(8)
-      score: NB 6 - CA 9
  - name: Ross, Allison
    totals:
     - event: Hearts
@@ -4074,50 +4074,6 @@ vs:
       year: 2021
       draw: Tie-Breaker(24)
       score: MB 8 - AB 9
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 89
-        wins: 2
-        losses: 0
-      player2:
-        percent: 86
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'MB'
-        position: Third
-        percent: 94
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Second
-        percent: 90
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2012
-      draw: Round Robin(17)
-      score: ON 3 - MB 5
-    - player1:
-        team: 'MB'
-        position: Third
-        percent: 84
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Second
-        percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(15)
-      score: NO 3 - MB 6
  - name: Wark, Sarah
    totals:
     - event: Hearts

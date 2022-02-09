@@ -1218,6 +1218,34 @@ vs:
       year: 2013
       draw: Round Robin(15)
       score: PE 8 - AB 4
+ - name: Enge, Jenna
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 59
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 59
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(5)
+      score: NO 5 - PE 7
  - name: Englot, Michelle
    totals:
     - event: Hearts
@@ -5338,6 +5366,34 @@ vs:
       year: 1994
       draw: Round Robin(1)
       score: MB 4 - PE 10
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 69
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(2)
+      score: NB 2 - PE 8
  - name: Radchenka, Tammy
    totals:
     - event: Hearts
@@ -5416,34 +5472,6 @@ vs:
         team: 'NB'
         position: Second
         percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(2)
-      score: NB 2 - PE 8
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 69
-        wins: 1
-        losses: 0
-      player2:
-        percent: 78
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Third
-        percent: 69
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 78
         win: 0
         loss: 1
       event: Hearts
@@ -6654,34 +6682,6 @@ vs:
       year: 2011
       draw: Round Robin(11)
       score: NS 3 - PE 6
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 1
-        losses: 0
-      player2:
-        percent: 59
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Third
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Second
-        percent: 59
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(5)
-      score: NO 5 - PE 7
  - name: Walter, Cathy
    totals:
     - event: Hearts

@@ -34,12 +34,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 73
+        percent: 76
         wins: 1
-        losses: 1
+        losses: 2
       player2:
-        percent: 75
-        wins: 1
+        percent: 80
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -74,6 +74,50 @@ vs:
       year: 2020
       draw: Round Robin(6)
       score: NO 7 - MB 8
+    - player1:
+        team: 'NO'
+        position: Second
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Final(25)
+      score: NO 6 - CA 9
+ - name: Taylor, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 66
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(9)
+      score: NU 6 - NO 7
  - name: Thevenot, Kara
    totals:
     - event: Hearts
@@ -510,12 +554,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 81
+        percent: 79
         wins: 1
-        losses: 1
+        losses: 2
       player2:
-        percent: 81
-        wins: 1
+        percent: 85
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -550,6 +594,22 @@ vs:
       year: 2020
       draw: Round Robin(1)
       score: NO 8 - CA 3
+    - player1:
+        team: 'NO'
+        position: Second
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 93
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(5)
+      score: NO 5 - WC 8
  - name: Williamson, Ashley
    totals:
     - event: Hearts

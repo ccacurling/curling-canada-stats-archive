@@ -4,18 +4,18 @@ name: Jillian Babin
 name-sort: Babin, Jillian
 totals:
  - event: Hearts
-   games: 48
-   wins: 20
-   losses: 28
-   inturn-total: 475
-   inturn-percent: 76
-   outturn-total: 425
-   outturn-percent: 77
-   draw-total: 377
+   games: 60
+   wins: 28
+   losses: 32
+   inturn-total: 611
+   inturn-percent: 77
+   outturn-total: 525
+   outturn-percent: 76
+   draw-total: 480
    draw-percent: 73
-   takeout-total: 523
+   takeout-total: 656
    takeout-percent: 79
-   shots-total: 900
+   shots-total: 1136
    shots-percent: 76
 years:
  - year: 2010
@@ -103,12 +103,31 @@ years:
    takeout-percent: 85
    shots-total: 147
    shots-percent: 78
+ - year: 2022
+   event: Hearts
+   team: "NB"
+   position: Second
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 136
+   inturn-percent: 78
+   outturn-total: 100
+   outturn-percent: 74
+   draw-total: 103
+   draw-percent: 74
+   takeout-total: 133
+   takeout-percent: 78
+   shots-total: 236
+   shots-percent: 76
 vs:
  - Affleck, Tricia
  - Armstrong, Jacquie
+ - Armstrong, Jennifer
  - Arnott, Janet
  - Baldwin, Nicole
  - Barbour, Shona
+ - Barker, Penny
  - Belisle, Eve
  - Bell, Chelsey
  - Birchard, Shannon
@@ -119,6 +138,7 @@ vs:
  - Brassard, Veronique
  - Brown, Rachel
  - Cameron, Kate
+ - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
@@ -126,6 +146,7 @@ vs:
  - Comeau, Martine
  - Cormier, Sharon
  - Cote, Marie-Pier
+ - Courtney, Joanne
  - Crouse, Jennifer
  - Cunningham, Jennifer
  - Curtis, Stacie
@@ -135,12 +156,17 @@ vs:
  - Einarson, Kerri
  - Einarson, Megan
  - Ellis, Danielle
+ - Enge, Jenna
  - Englot, Michelle
  - Fallis, Karen
  - Ferguson, Dana
  - Filteau, Anne-Marie
+ - Flaxey, Allison
+ - Flemming, Margot
  - Fleury, Tracy
+ - Fyfe, Liz
  - Galusha, Kerry
+ - Gamble, Christie
  - Gates, Amanda
  - Gates, Jennifer
  - George, Tara
@@ -151,6 +177,7 @@ vs:
  - Hamilton, Beth
  - Hardy, Shelley
  - Haughian, Jessie
+ - Hill, Sarah
  - Holland, Amber
  - Homan, Rachel
  - Hughes, Meaghan
@@ -173,11 +200,13 @@ vs:
  - Lemay, Annie
  - Lemon, Colette
  - Lilly, Kendra
+ - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacIntosh, Kelly
  - MacLean, Kari
+ - MacPhail, Brigitte
  - MacPhee, Robyn
  - Mair, Jessica
  - Makichuk, Lindsay
@@ -190,6 +219,7 @@ vs:
  - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Meilleur, Briane
+ - Mercer, Adrienne
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
@@ -200,6 +230,8 @@ vs:
  - Nedohin, Heather
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Robyn
+ - Njegovan, Selena
  - Officer, Jill
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
@@ -210,14 +242,17 @@ vs:
  - Pewarchuk, Dailene
  - Phillips, Kristen
  - Pinksen, Sadie
+ - Potts, Sarah
  - Rainville, Julie
  - Ramsay, Geri-Lynn
+ - Rizzo, Jo-Ann
  - Robison, Michala
  - Rocque, Kelsey
  - Rogers, Rhonda
  - Routledge, Alanna
  - Routledge, Jill
  - Scheidegger, Casey
+ - Schmidt, Stephanie
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
@@ -225,6 +260,7 @@ vs:
  - Scott, Kelly
  - Sharpe, Kelli
  - Shaw, Ladene
+ - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley
  - Slywka, Sarah
@@ -233,6 +269,7 @@ vs:
  - Strong, Helen
  - Strong, Laura
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Kara
  - Thomas, Jill
  - Thurston, Jill
@@ -241,7 +278,6 @@ vs:
  - Verreault, Noemie
  - Vey, Lana
  - Walker, Laura
- - Walsh, Jenna
  - Webster, Bronwen
  - Westcott, Raunora
  - Wilkes, Sarah

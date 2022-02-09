@@ -4,19 +4,19 @@ name: Briane Meilleur
 name-sort: Meilleur, Briane
 totals:
  - event: Hearts
-   games: 30
-   wins: 24
-   losses: 6
-   inturn-total: 296
+   games: 42
+   wins: 35
+   losses: 7
+   inturn-total: 410
    inturn-percent: 84
-   outturn-total: 245
-   outturn-percent: 85
-   draw-total: 419
-   draw-percent: 88
-   takeout-total: 122
-   takeout-percent: 71
-   shots-total: 541
-   shots-percent: 84
+   outturn-total: 350
+   outturn-percent: 86
+   draw-total: 577
+   draw-percent: 89
+   takeout-total: 183
+   takeout-percent: 73
+   shots-total: 760
+   shots-percent: 85
 years:
  - year: 2016
    event: Hearts
@@ -61,12 +61,8 @@ years:
    losses: 1
    inturn-total: 6
    inturn-percent: 88
-   outturn-total: 0
-   outturn-percent:
    draw-total: 6
    draw-percent: 88
-   takeout-total: 0
-   takeout-percent:
    shots-total: 6
    shots-percent: 88
  - year: 2018
@@ -119,32 +115,62 @@ years:
    takeout-percent: 70
    shots-total: 258
    shots-percent: 82
+ - year: 2022
+   event: Hearts
+   team: "CA"
+   position: Lead
+   games: 12
+   wins: 11
+   losses: 1
+   inturn-total: 114
+   inturn-percent: 85
+   outturn-total: 105
+   outturn-percent: 89
+   draw-total: 158
+   draw-percent: 90
+   takeout-total: 61
+   takeout-percent: 78
+   shots-total: 219
+   shots-percent: 87
 vs:
  - Anderson, Sherry
  - Armstrong, Hailey
  - Armstrong, Jennifer
+ - Arsenault, Mary-Anne
  - Babin, Jillian
+ - Balsdon, Megan
  - Barbour, Shona
+ - Barker, Shelley
+ - Baxter, Jennifer
  - Birchard, Shannon
+ - Birnie, Hailey
  - Birt, Suzanne
+ - Black, Christina
+ - Bobbie, Tess
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Brown, Stephanie
  - Brunton, Kira
  - Burgess, Karlee
  - Burns, Krysta
  - Cameron, Kate
+ - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
+ - Carter, Sasha
  - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
  - Crawford, Andrea
  - Doerksen, Katherine
+ - Duncan, Hollie
  - Eddy, Lori
+ - Everist, Karlee
  - Ferguson, Dana
  - Flemming, Margot
+ - Fleury, Tracy
  - Forward, Katie
  - Fyfe, Liz
  - Galusha, Kerry
@@ -161,6 +187,7 @@ vs:
  - Kitz, Chaelynn
  - Klymchuk, Ashley
  - Knapp, Breanne
+ - Koltun, Sarah
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lenentine, Lauren
@@ -183,20 +210,26 @@ vs:
  - Peterson, Beth
  - Pincott, Erin
  - Pinksen, Sadie
+ - Potts, Sarah
+ - Quillian, Sylvie
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Routledge, Alanna
  - Routledge, Jill
  - Schmidt, Stephanie
+ - Schraeder, Jeanna
  - Scotland, Nadine
  - Shackleton, Amie
  - Silvernagle, Robyn
+ - Simons, Renee
  - Sippala, Ashley
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Strybosch, Rachelle
  - Thevenot, Kara
  - Tran, Brittany
+ - Tuor, Kimberly
  - Udle, Teri
  - Verreault, Noemie
  - Walker, Laura

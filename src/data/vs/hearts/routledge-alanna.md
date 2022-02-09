@@ -90,12 +90,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 72
+        percent: 75
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 81
-        wins: 1
+        percent: 89
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -114,6 +114,22 @@ vs:
       year: 2020
       draw: Round Robin(2)
       score: QC 4 - MB 9
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 95
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(6)
+      score: CA 8 - QC 5
  - name: Thevenot, Kara
    totals:
     - event: Hearts
@@ -142,6 +158,34 @@ vs:
       year: 2020
       draw: Round Robin(10)
       score: QC 3 - SK 5
+ - name: Tuor, Kimberly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Lead
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 85
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(4)
+      score: QC 8 - YT 7
  - name: Walker, Laura
    totals:
     - event: Hearts
@@ -170,6 +214,34 @@ vs:
       year: 2020
       draw: Round Robin(3)
       score: QC 3 - AB 8
+ - name: Wallingham, Patty
+   totals:
+    - event: Hearts
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 61
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Lead
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Third
+        percent: 61
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(4)
+      score: QC 8 - YT 7
  - name: Wilkes, Sarah
    totals:
     - event: Hearts

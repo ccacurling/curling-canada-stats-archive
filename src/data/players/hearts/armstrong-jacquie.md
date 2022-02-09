@@ -97,6 +97,7 @@ vs:
  - Dolan, Sinead
  - Einarson, Megan
  - Ellis, Danielle
+ - Enge, Jenna
  - Englot, Michelle
  - Fallis, Karen
  - Filteau, Anne-Marie
@@ -167,7 +168,6 @@ vs:
  - Thurston, Jill
  - Udle, Teri
  - Vey, Lana
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Bronwen
  - Westcott, Raunora

@@ -44,8 +44,6 @@ years:
    losses: 0
    inturn-total: 4
    inturn-percent: 81
-   outturn-total: 0
-   outturn-percent:
    draw-total: 3
    draw-percent: 75
    takeout-total: 1
@@ -63,8 +61,6 @@ years:
    inturn-percent: 67
    outturn-total: 3
    outturn-percent: 67
-   draw-total: 0
-   draw-percent:
    takeout-total: 12
    takeout-percent: 67
    shots-total: 12
@@ -150,6 +146,7 @@ vs:
  - Einarson, Kerri
  - Einarson, Megan
  - Ellis, Danielle
+ - Enge, Jenna
  - Englot, Michelle
  - Flaxey, Allison
  - Fleury, Tracy
@@ -213,7 +210,6 @@ vs:
  - Van Osch, Kesa
  - Van Osch, Marika
  - Wallingham, Patty
- - Walsh, Jenna
  - Wasylkiw, Lauren
  - Webster, Crystal
  - West, Christianne

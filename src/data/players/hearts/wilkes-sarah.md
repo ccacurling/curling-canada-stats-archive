@@ -4,18 +4,18 @@ name: Sarah Wilkes
 name-sort: Wilkes, Sarah
 totals:
  - event: Hearts
-   games: 51
-   wins: 33
-   losses: 18
-   inturn-total: 467
+   games: 59
+   wins: 37
+   losses: 22
+   inturn-total: 530
    inturn-percent: 80
-   outturn-total: 469
-   outturn-percent: 83
-   draw-total: 361
+   outturn-total: 554
+   outturn-percent: 82
+   draw-total: 412
    draw-percent: 81
-   takeout-total: 575
-   takeout-percent: 82
-   shots-total: 936
+   takeout-total: 672
+   takeout-percent: 81
+   shots-total: 1084
    shots-percent: 81
 years:
  - year: 2015
@@ -31,8 +31,6 @@ years:
    outturn-percent: 63
    draw-total: 4
    draw-percent: 81
-   takeout-total: 0
-   takeout-percent:
    shots-total: 4
    shots-percent: 81
  - year: 2015
@@ -46,8 +44,6 @@ years:
    inturn-percent: 100
    outturn-total: 5
    outturn-percent: 100
-   draw-total: 0
-   draw-percent:
    takeout-total: 6
    takeout-percent: 100
    shots-total: 6
@@ -136,6 +132,23 @@ years:
    takeout-percent: 80
    shots-total: 242
    shots-percent: 80
+ - year: 2022
+   event: Hearts
+   team: "WC"
+   position: Third
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 63
+   inturn-percent: 81
+   outturn-total: 85
+   outturn-percent: 80
+   draw-total: 51
+   draw-percent: 84
+   takeout-total: 97
+   takeout-percent: 79
+   shots-total: 148
+   shots-percent: 81
 vs:
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
@@ -161,6 +174,7 @@ vs:
  - Burgess, Karlee
  - Burns, Krysta
  - Cameron, Kate
+ - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
  - Christianson, Marie
@@ -178,6 +192,7 @@ vs:
  - Doig, Deanna
  - Eddy, Lori
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Filteau, Anne-Marie
  - Flemming, Margot
@@ -186,12 +201,15 @@ vs:
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
+ - Gamble, Christie
  - Gates, Amanda
  - Gates, Jennifer
  - Griffin, Alison
  - Guy, Sara
+ - Hamilton, Beth
  - Haughian, Jessie
  - Hawes, Dezaray
+ - Hill, Sarah
  - Hill, Trish
  - Homan, Rachel
  - Hughes, Meaghan
@@ -212,6 +230,7 @@ vs:
  - Logan, Emma
  - MacCuish, Kristin
  - MacDonald, Kaitlin
+ - MacPhail, Brigitte
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
@@ -224,11 +243,13 @@ vs:
  - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Meilleur, Briane
+ - Mercer, Adrienne
  - Miskew, Emma
  - Moore, Kristie
  - Munroe, Anna
  - Murphy, Sarah
  - Nixon, Amy
+ - Njegovan, Robyn
  - Njegovan, Selena
  - O'Rourke, Brittany
  - Peterman, Jocelyn
@@ -239,11 +260,11 @@ vs:
  - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Robichaud, Sylvie
  - Routledge, Alanna
  - Routledge, Jill
  - Rusnell, Jen
@@ -253,6 +274,7 @@ vs:
  - Schmidt, Stephanie
  - Schneider, Lorraine
  - Scotland, Nadine
+ - Sharpe, Kelli
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley
@@ -260,6 +282,7 @@ vs:
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Kara
  - Tran, Brittany
  - Verreault, Noemie

@@ -4,18 +4,18 @@ name: Suzanne Birt
 name-sort: Birt, Suzanne
 totals:
  - event: Hearts
-   games: 133
-   wins: 60
-   losses: 73
-   inturn-total: 1197
+   games: 141
+   wins: 64
+   losses: 77
+   inturn-total: 1276
    inturn-percent: 72
-   outturn-total: 1248
+   outturn-total: 1321
    outturn-percent: 72
-   draw-total: 1162
+   draw-total: 1246
    draw-percent: 68
-   takeout-total: 1283
+   takeout-total: 1351
    takeout-percent: 76
-   shots-total: 2445
+   shots-total: 2597
    shots-percent: 72
 years:
  - year: 2003
@@ -222,6 +222,23 @@ years:
    takeout-percent: 67
    shots-total: 150
    shots-percent: 63
+ - year: 2022
+   event: Hearts
+   team: "PE"
+   position: Fourth
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 79
+   inturn-percent: 72
+   outturn-total: 73
+   outturn-percent: 72
+   draw-total: 84
+   draw-percent: 73
+   takeout-total: 68
+   takeout-percent: 71
+   shots-total: 152
+   shots-percent: 72
 vs:
  - Adams, Melissa
  - Aleksic, Shannon
@@ -238,6 +255,7 @@ vs:
  - Bakker, Glenys
  - Baldwin, Nicole
  - Barbour, Shona
+ - Barker, Penny
  - Barron, Lauren
  - Baxter, Jennifer
  - Beauchamp, Sasha
@@ -302,6 +320,7 @@ vs:
  - Dykstra, Michelle
  - Eddy, Lori
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Enright, Barb
  - Fallis, Karen
@@ -311,6 +330,7 @@ vs:
  - Fisher, Sam
  - Fister, Teri
  - Fister, Toni
+ - Flaxey, Allison
  - Fleury, Tracy
  - Forward, Katie
  - Fowler, Lois
@@ -320,6 +340,7 @@ vs:
  - Gagnon, Karo
  - Gagnon, Nathalie
  - Galusha, Kerry
+ - Gamble, Christie
  - Gates, Amanda
  - Gates, Jennifer
  - George, Tara
@@ -398,6 +419,7 @@ vs:
  - MacDonald, Kaitlin
  - MacInnes, Allison
  - MacNutt, Shelley
+ - MacPhail, Brigitte
  - Mair, Jessica
  - Mann, Lauren
  - Marchand, Karine
@@ -433,6 +455,7 @@ vs:
  - Nicholls, Brenda
  - Nicholson, Danielle
  - Nixon, Amy
+ - Njegovan, Robyn
  - Njegovan, Selena
  - Nowlan, Denise
  - Nugent, Pamela
@@ -457,6 +480,7 @@ vs:
  - Potts, Sarah
  - Power, Marie-Anne
  - Provencal, Darah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Reed, Shellan
@@ -465,7 +489,6 @@ vs:
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Rocque, Raylene
  - Ross, Allison
  - Round, Coralee
@@ -484,6 +507,7 @@ vs:
  - Sharpe, Kelli
  - Shaw, Ladene
  - Shumay, Jill
+ - Sicinski, Danielle
  - Silvernagle, Robyn
  - Simmons, Cindy
  - Simons, Renee
@@ -506,6 +530,7 @@ vs:
  - Surik, Teejay
  - Sweeting, Val
  - Tanner, Ros
+ - Taylor, Alison
  - Thevenot, Kara
  - Thompson, Karla
  - Thurston, Jill
@@ -520,7 +545,6 @@ vs:
  - Vautour, Carrie
  - Vey, Lana
  - Wall, Kirsten
- - Walsh, Jenna
  - Wark, Sarah
  - Wasylkiw, Lauren
  - Weagle, Lisa

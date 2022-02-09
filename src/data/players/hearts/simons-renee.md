@@ -4,18 +4,18 @@ name: Renee Simons
 name-sort: Simons, Renee
 totals:
  - event: Hearts
-   games: 51
-   wins: 36
-   losses: 15
-   inturn-total: 463
-   inturn-percent: 82
-   outturn-total: 465
+   games: 58
+   wins: 38
+   losses: 20
+   inturn-total: 563
+   inturn-percent: 81
+   outturn-total: 497
    outturn-percent: 84
-   draw-total: 691
-   draw-percent: 83
-   takeout-total: 237
+   draw-total: 801
+   draw-percent: 82
+   takeout-total: 259
    takeout-percent: 84
-   shots-total: 928
+   shots-total: 1060
    shots-percent: 83
 years:
  - year: 2005
@@ -86,24 +86,52 @@ years:
    takeout-percent: 91
    shots-total: 205
    shots-percent: 89
+ - year: 2022
+   event: Hearts
+   team: "BC"
+   position: Lead
+   games: 7
+   wins: 2
+   losses: 5
+   inturn-total: 100
+   inturn-percent: 78
+   outturn-total: 32
+   outturn-percent: 88
+   draw-total: 110
+   draw-percent: 80
+   takeout-total: 22
+   takeout-percent: 85
+   shots-total: 132
+   shots-percent: 80
 vs:
  - Affleck, Tricia
  - Aleksic, Shannon
+ - Armstrong, Hailey
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Baldwin, Nicole
+ - Balsdon, Megan
+ - Barker, Shelley
+ - Baxter, Jennifer
  - Belanger, Nancy
  - Belisle, Eve
  - Bell, Chelsey
  - Bernard, Cheryl
  - Betker, Jan
+ - Birchard, Shannon
+ - Birnie, Hailey
  - Birt, Suzanne
+ - Black, Christina
+ - Bobbie, Tess
  - Bradley, Shelley
  - Brennan, Amanda
  - Brothers, Jill
  - Burgess, Carey
+ - Burgess, Karlee
  - Bush, Tracy
+ - Cameron, Kate
  - Cameron, Nancy
+ - Campbell, Kerry
  - Carrier, Julie
  - Clark, Stefanie
  - Clarke, Hayley
@@ -116,7 +144,10 @@ vs:
  - Delahunt, Nancy
  - Derick, Catherine
  - deSolla, Jodie
+ - Duncan, Hollie
+ - Einarson, Kerri
  - Englot, Michelle
+ - Everist, Karlee
  - Farrell, Allison
  - Fortier, Marie-Josee
  - Gagnier, Monique
@@ -147,6 +178,7 @@ vs:
  - Lawton, Stefanie
  - Leger, Stacey
  - Lemay, Annie
+ - Lenentine, Lauren
  - Letendre, Pascale
  - Loder, Cherie-Ann
  - MacDiarmid, Kristen
@@ -157,8 +189,10 @@ vs:
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
  - McCarville, Krista
+ - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
+ - Meilleur, Briane
  - Middaugh, Sherry
  - Mittelstadt, Candice
  - Moore, Kim
@@ -183,30 +217,41 @@ vs:
  - Power, Marie-Anne
  - Prosser, Sandi
  - Provencal, Darah
+ - Quillian, Sylvie
  - Richard, Marie
  - Ridalls, Kristen
- - Robichaud, Sylvie
+ - Riley, Emily
  - Rocque, Raylene
  - Ross, Allison
  - Rudulier, Andrea
  - Sabourin, Joelle
+ - Scotland, Nadine
  - Sharpe, Kelli
  - Simmons, Cindy
  - Singler, Sherri
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Streifel, Tracy
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
  - Surik, Teejay
+ - Sweeting, Val
  - Tanner, Ros
  - Thompson, Karla
  - Thurston, Jill
+ - Tippin, Julie
+ - Tuor, Kimberly
  - Udle, Teri
  - Vey, Lana
+ - Walker, Laura
  - Wall, Kirsten
+ - Wallingham, Patty
  - Webster, Bronwen
  - Wheatcroft, Georgina
  - Whitaker, Carol
  - Yardley, Janelle
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
  - Zinck, Kay
 ---

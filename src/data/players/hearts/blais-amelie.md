@@ -80,8 +80,6 @@ years:
    inturn-percent: 67
    outturn-total: 1
    outturn-percent: 100
-   draw-total: 0
-   draw-percent:
    takeout-total: 4
    takeout-percent: 75
    shots-total: 4
@@ -131,6 +129,7 @@ vs:
  - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
+ - Enge, Jenna
  - Englot, Michelle
  - Ferguson, Dana
  - Fleury, Tracy
@@ -166,8 +165,8 @@ vs:
  - Peters, Laine
  - Pewarchuk, Dailene
  - Pilote, Kristen
+ - Quillian, Sylvie
  - Richard, Marie
- - Robichaud, Sylvie
  - Robison, Michala
  - Rusnell, Jen
  - Schmidt, Stephanie
@@ -184,7 +183,6 @@ vs:
  - Trombley, Christy
  - Udle, Teri
  - Vey, Lana
- - Walsh, Jenna
  - Weagle, Lisa
  - Wilkes, Sarah
  - Williamson, Ashley

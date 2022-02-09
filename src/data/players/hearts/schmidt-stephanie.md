@@ -4,19 +4,19 @@ name: Stephanie Schmidt
 name-sort: Schmidt, Stephanie
 totals:
  - event: Hearts
-   games: 17
-   wins: 10
-   losses: 7
-   inturn-total: 147
-   inturn-percent: 83
-   outturn-total: 141
-   outturn-percent: 82
-   draw-total: 111
+   games: 24
+   wins: 13
+   losses: 11
+   inturn-total: 210
+   inturn-percent: 82
+   outturn-total: 215
+   outturn-percent: 81
+   draw-total: 170
    draw-percent: 82
-   takeout-total: 177
-   takeout-percent: 83
-   shots-total: 288
-   shots-percent: 83
+   takeout-total: 255
+   takeout-percent: 81
+   shots-total: 425
+   shots-percent: 81
 years:
  - year: 2014
    event: Hearts
@@ -27,10 +27,6 @@ years:
    losses: 0
    inturn-total: 2
    inturn-percent: 100
-   outturn-total: 0
-   outturn-percent:
-   draw-total: 0
-   draw-percent:
    takeout-total: 2
    takeout-percent: 100
    shots-total: 2
@@ -69,9 +65,28 @@ years:
    takeout-percent: 100
    shots-total: 14
    shots-percent: 82
+ - year: 2022
+   event: Hearts
+   team: "WC"
+   position: Second
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 63
+   inturn-percent: 79
+   outturn-total: 74
+   outturn-percent: 78
+   draw-total: 59
+   draw-percent: 80
+   takeout-total: 78
+   takeout-percent: 77
+   shots-total: 137
+   shots-percent: 78
 vs:
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
+ - Babin, Jillian
+ - Barker, Penny
  - Baxter, Jennifer
  - Birchard, Shannon
  - Birt, Suzanne
@@ -81,6 +96,7 @@ vs:
  - Bradley, Shelley
  - Brown, Rachel
  - Camozzi, Rhonda
+ - Christianson, Marie
  - Collins, Katrina
  - Cooper, Kathryn
  - Courtney, Joanne
@@ -88,36 +104,53 @@ vs:
  - Cunningham, Jessica
  - deSolla, Jodie
  - Einarson, Kerri
+ - Enge, Jenna
  - Ferguson, Dana
  - Filteau, Anne-Marie
+ - Flaxey, Allison
  - Fleury, Tracy
+ - Forward, Katie
+ - Fyfe, Liz
+ - Gamble, Christie
  - Gates, Amanda
  - Hastings, Julie
  - Homan, Rachel
+ - Hughes, Meaghan
  - Jones, Jennifer
  - Knezevic, Patti
  - Korab, Stephanie
  - Lawes, Kaitlyn
+ - Lilly, Kendra
+ - MacCuish, Kristin
+ - MacDonald, Kaitlin
+ - MacPhail, Brigitte
  - Mann, Lauren
+ - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
  - McQuaid, Michelle
  - Meilleur, Briane
  - Miskew, Emma
+ - Njegovan, Robyn
+ - Njegovan, Selena
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Rourke, Brittany
  - Parsons, Danielle
  - Pilote, Kristen
+ - Pinksen, Sadie
+ - Potts, Sarah
+ - Quillian, Sylvie
  - Richard, Marie
- - Robichaud, Sylvie
  - Rusnell, Jen
+ - Sicinski, Danielle
+ - Sippala, Ashley
  - Smith, Stacey
  - Snyder, Jane
  - Strong, Heather
  - Sweeting, Val
+ - Taylor, Alison
  - Trombley, Christy
- - Walsh, Jenna
  - Weagle, Lisa
  - Wilkes, Sarah
  - Wylie, Jennifer

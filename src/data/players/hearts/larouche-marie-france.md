@@ -260,6 +260,7 @@ vs:
  - Dolan, Kim
  - Dolan, Sinead
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Enright, Barb
  - Fallis, Karen
@@ -366,6 +367,7 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Power, Marie-Anne
+ - Quillian, Sylvie
  - Radchenka, Tammy
  - Recksiedler, Kristen
  - Reed, Shellan
@@ -373,7 +375,6 @@ vs:
  - Richard, Marie
  - Richards, Brette
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Robison, Michala
  - Sagle, Karen
  - Sandison, Janice
@@ -406,7 +407,6 @@ vs:
  - Vautour, Carrie
  - Vey, Lana
  - Wall, Kirsten
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Bronwen
  - Webster, Crystal

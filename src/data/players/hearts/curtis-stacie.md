@@ -216,11 +216,11 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Potts, Sarah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
- - Robichaud, Sylvie
  - Ross, Allison
  - Sagle, Karen
  - Saulnier, Andrea

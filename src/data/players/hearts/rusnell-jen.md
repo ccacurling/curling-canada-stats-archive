@@ -77,6 +77,7 @@ vs:
  - Courtney, Joanne
  - Cunningham, Jessica
  - Daigle, Julie
+ - Enge, Jenna
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Fleury, Tracy
@@ -116,8 +117,8 @@ vs:
  - Peterman, Jocelyn
  - Pinksen, Sadie
  - Potts, Sarah
+ - Quillian, Sylvie
  - Richard, Marie
- - Robichaud, Sylvie
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Silvernagle, Robyn
@@ -127,7 +128,6 @@ vs:
  - Sweeting, Val
  - Thevenot, Kara
  - Trombley, Christy
- - Walsh, Jenna
  - Weagle, Lisa
  - Wilkes, Sarah
  - Wylie, Jennifer

@@ -213,12 +213,12 @@ vs:
  - Pincott, Erin
  - Plonka, Gabrielle
  - Potts, Sarah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
  - Rizzo, Jo-Ann
- - Robichaud, Sylvie
  - Ross, Allison
  - Sagle, Karen
  - Saulnier, Andrea

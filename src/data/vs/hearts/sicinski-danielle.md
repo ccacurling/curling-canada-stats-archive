@@ -6,12 +6,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 92
+        percent: 85
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 72
-        wins: 1
+        percent: 82
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -30,6 +30,50 @@ vs:
       year: 2017
       draw: Round Robin(5)
       score: NO 8 - SK 3
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 90
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(15)
+      score: SK 2 - NO 6
+ - name: Taylor, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(13)
+      score: NU 4 - SK 11
  - name: Thiessen, Alison
    totals:
     - event: Hearts
@@ -118,12 +162,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 93
+        percent: 89
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 78
-        wins: 1
+        percent: 74
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -142,6 +186,22 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: SK 7 - AB 10
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 69
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(17)
+      score: SK 2 - WC 10
  - name: Wilson, Leslie
    totals:
     - event: Hearts

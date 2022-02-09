@@ -1002,6 +1002,34 @@ vs:
       year: 1989
       draw: Round Robin(7)
       score: PE 5 - MB 8
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(2)
+      score: NB 2 - PE 8
  - name: Rainville, Julie
    totals:
     - event: Hearts
@@ -1170,34 +1198,6 @@ vs:
       year: 2003
       draw: Round Robin(5)
       score: PE 10 - MB 5
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 1
-        losses: 0
-      player2:
-        percent: 78
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Lead
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 78
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(2)
-      score: NB 2 - PE 8
  - name: Rocque, Raylene
    totals:
     - event: Hearts
@@ -2838,34 +2838,6 @@ vs:
       year: 2004
       draw: Round Robin(8)
       score: ON 7 - PE 6
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 85
-        wins: 1
-        losses: 0
-      player2:
-        percent: 59
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Lead
-        percent: 85
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Second
-        percent: 59
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(5)
-      score: NO 5 - PE 7
  - name: Weagle, Lisa
    totals:
     - event: Hearts

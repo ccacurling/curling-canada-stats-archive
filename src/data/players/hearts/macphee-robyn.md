@@ -356,12 +356,12 @@ vs:
  - Power, Marie-Anne
  - Prosser, Sandi
  - Provencal, Darah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Rocque, Raylene
  - Ross, Allison
  - Round, Coralee

@@ -5106,6 +5106,34 @@ vs:
       year: 1991
       draw: Round Robin(5)
       score: TR 9 - NS 6
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 68
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2008
+      draw: Round Robin(1)
+      score: NB 4 - NS 8
  - name: Radchenka, Tammy
    totals:
     - event: Hearts
@@ -5346,34 +5374,6 @@ vs:
       year: 2003
       draw: Round Robin(3)
       score: MB 7 - CA 8
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 1
-        losses: 0
-      player2:
-        percent: 68
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Third
-        percent: 84
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 68
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2008
-      draw: Round Robin(1)
-      score: NB 4 - NS 8
  - name: Robinson, Charlene
    totals:
     - event: Hearts

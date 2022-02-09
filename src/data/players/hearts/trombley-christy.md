@@ -50,6 +50,7 @@ vs:
  - Cooper, Kathryn
  - Courtney, Joanne
  - Cunningham, Jessica
+ - Enge, Jenna
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Fleury, Tracy
@@ -70,14 +71,13 @@ vs:
  - Olson-Johns, Lori
  - O'Rourke, Brittany
  - Pilote, Kristen
+ - Quillian, Sylvie
  - Richard, Marie
- - Robichaud, Sylvie
  - Rusnell, Jen
  - Schmidt, Stephanie
  - Snyder, Jane
  - Strong, Heather
  - Sweeting, Val
- - Walsh, Jenna
  - Weagle, Lisa
  - Wylie, Jennifer
 ---

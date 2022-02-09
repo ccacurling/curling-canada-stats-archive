@@ -2506,6 +2506,34 @@ vs:
       year: 2005
       draw: Round Robin(12)
       score: SK 5 - NB 6
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 98
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 98
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2008
+      draw: Round Robin(12)
+      score: NB 3 - AB 9
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -2528,34 +2556,6 @@ vs:
         team: 'NB'
         position: Second
         percent: 81
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2008
-      draw: Round Robin(12)
-      score: NB 3 - AB 9
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 98
-        wins: 1
-        losses: 0
-      player2:
-        percent: 75
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent: 98
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 75
         win: 0
         loss: 1
       event: Hearts

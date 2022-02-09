@@ -202,16 +202,44 @@ vs:
       year: 2017
       draw: Round Robin(1)
       score: ON 7 - CA 5
+ - name: Njegovan, Robyn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 0
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 73
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(7)
+      score: WC 11 - WC 9
  - name: Njegovan, Selena
    totals:
     - event: Hearts
       player1:
-        percent: 74
+        percent: 72
         wins: 1
-        losses: 1
+        losses: 2
       player2:
         percent: 76
-        wins: 1
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -246,6 +274,22 @@ vs:
       year: 2021
       draw: Pool(20)
       score: ON 7 - WC 6
+    - player1:
+        team: 'WC'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(7)
+      score: WC 11 - WC 9
  - name: Nowlan, Denise
    totals:
     - event: Hearts
@@ -902,13 +946,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 79
-        wins: 1
+        percent: 73
+        wins: 2
         losses: 0
       player2:
-        percent: 71
+        percent: 62
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'ON'
@@ -926,6 +970,22 @@ vs:
       year: 2019
       draw: Round Robin(3)
       score: NU 4 - ON 12
+    - player1:
+        team: 'WC'
+        position: Fourth
+        percent: 67
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 52
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(11)
+      score: WC 14 - NU 1
  - name: Plonka, Gabrielle
    totals:
     - event: Hearts
@@ -1018,13 +1078,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 80
-        wins: 4
+        percent: 79
+        wins: 5
         losses: 0
       player2:
-        percent: 95
+        percent: 92
         wins: 0
-        losses: 4
+        losses: 5
    games:
     - player1:
         team: 'ON'
@@ -1090,6 +1150,66 @@ vs:
       year: 2019
       draw: Page 3-4(20)
       score: ON 6 - NO 4
+    - player1:
+        team: 'WC'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(5)
+      score: NO 5 - WC 8
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 72
+        wins: 0
+        losses: 2
+      player2:
+        percent: 80
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 73
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2015
+      draw: Round Robin(16)
+      score: CA 5 - NB 6
+    - player1:
+        team: 'WC'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(3)
+      score: WC 2 - NB 7
  - name: Reid, Jackie
    totals:
     - event: Hearts
@@ -1246,34 +1366,6 @@ vs:
       year: 2021
       draw: Round Robin(14)
       score: ON 5 - NT 7
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 0
-        losses: 1
-      player2:
-        percent: 73
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'CA'
-        position: Third
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 73
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2015
-      draw: Round Robin(16)
-      score: CA 5 - NB 6
  - name: Robison, Michala
    totals:
     - event: Hearts
@@ -1522,12 +1614,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 81
+        percent: 80
         wins: 3
-        losses: 1
+        losses: 2
       player2:
-        percent: 79
-        wins: 1
+        percent: 80
+        wins: 2
         losses: 3
    games:
     - player1:
@@ -1594,6 +1686,22 @@ vs:
       year: 2020
       draw: Pool(18)
       score: SK 4 - ON 9
+    - player1:
+        team: 'WC'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(15)
+      score: WC 7 - WC 8
  - name: Schneider, Kim
    totals:
     - event: Hearts
@@ -1798,6 +1906,34 @@ vs:
       year: 2013
       draw: Round Robin(6)
       score: ON 9 - BC 8
+ - name: Sharpe, Kelli
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 76
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(1)
+      score: WC 10 - NL 5
  - name: Shumay, Jill
    totals:
     - event: Hearts
@@ -1830,13 +1966,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 93
-        wins: 1
+        percent: 90
+        wins: 2
         losses: 0
       player2:
-        percent: 94
+        percent: 90
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'ON'
@@ -1854,6 +1990,22 @@ vs:
       year: 2017
       draw: Round Robin(10)
       score: ON 7 - SK 4
+    - player1:
+        team: 'WC'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(17)
+      score: SK 2 - WC 10
  - name: Silvernagle, Robyn
    totals:
     - event: Hearts
@@ -1974,13 +2126,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 81
-        wins: 4
+        percent: 80
+        wins: 5
         losses: 0
       player2:
-        percent: 78
+        percent: 77
         wins: 0
-        losses: 4
+        losses: 5
    games:
     - player1:
         team: 'ON'
@@ -2046,6 +2198,22 @@ vs:
       year: 2020
       draw: Page 3-4(20)
       score: ON 9 - NO 5
+    - player1:
+        team: 'WC'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(5)
+      score: NO 5 - WC 8
  - name: Smith, Heather
    totals:
     - event: Hearts
@@ -2530,6 +2698,34 @@ vs:
       year: 2021
       draw: Final(26)
       score: ON 7 - CA 9
+ - name: Taylor, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 67
+        wins: 1
+        losses: 0
+      player2:
+        percent: 69
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Fourth
+        percent: 67
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 69
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(11)
+      score: WC 14 - NU 1
  - name: Thevenot, Kara
    totals:
     - event: Hearts
@@ -2906,34 +3102,6 @@ vs:
       year: 2014
       draw: Round Robin(6)
       score: CA 9 - TR 3
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 90
-        wins: 1
-        losses: 0
-      player2:
-        percent: 85
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'CA'
-        position: Third
-        percent: 90
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Second
-        percent: 85
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(17)
-      score: NO 4 - CA 6
  - name: Wark, Sarah
    totals:
     - event: Hearts

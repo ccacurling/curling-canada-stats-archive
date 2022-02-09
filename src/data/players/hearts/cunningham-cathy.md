@@ -514,6 +514,7 @@ vs:
  - Purdy, Karen
  - Pushkar, Diane
  - Putland, Rose
+ - Quillian, Sylvie
  - Radford, Helen
  - Rainville, Julie
  - Ramsay, Jennifer
@@ -524,7 +525,6 @@ vs:
  - Rintoul, Jacki
  - Roberts, Angela
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Robinson, Charlene
  - Robinson, Lori
  - Ruus, Karen

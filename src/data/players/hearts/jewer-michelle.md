@@ -31,8 +31,6 @@ years:
    outturn-percent: 38
    draw-total: 6
    draw-percent: 54
-   takeout-total: 0
-   takeout-percent:
    shots-total: 6
    shots-percent: 54
  - year: 2010
@@ -48,8 +46,6 @@ years:
    outturn-percent: 50
    draw-total: 2
    draw-percent: 75
-   takeout-total: 0
-   takeout-percent:
    shots-total: 2
    shots-percent: 75
  - year: 2010
@@ -64,8 +60,6 @@ years:
    outturn-percent: 42
    draw-total: 8
    draw-percent: 59
-   takeout-total: 0
-   takeout-percent:
    shots-total: 8
    shots-percent: 59
  - year: 2019

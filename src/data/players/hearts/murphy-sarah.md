@@ -139,10 +139,10 @@ vs:
  - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
- - Robichaud, Sylvie
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley

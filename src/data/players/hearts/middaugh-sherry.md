@@ -279,12 +279,12 @@ vs:
  - Peters, Laine
  - Phillips, Laura
  - Power, Marie-Anne
+ - Quillian, Sylvie
  - Radchenka, Tammy
  - Rainville, Julie
  - Reed, Shellan
  - Renouf, Michele
  - Richard, Marie
- - Robichaud, Sylvie
  - Robinson, Lori
  - Ruus, Karen
  - Sabourin, Joelle

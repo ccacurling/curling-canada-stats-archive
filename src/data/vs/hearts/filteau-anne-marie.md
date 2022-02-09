@@ -1054,6 +1054,34 @@ vs:
       year: 2015
       draw: Round Robin(3)
       score: QC 8 - BC 1
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 0
+        losses: 1
+      player2:
+        percent: 68
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 68
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2015
+      draw: Round Robin(10)
+      score: QC 8 - NB 9
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -1076,34 +1104,6 @@ vs:
         team: 'NB'
         position: Second
         percent: 73
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2015
-      draw: Round Robin(10)
-      score: QC 8 - NB 9
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 89
-        wins: 0
-        losses: 1
-      player2:
-        percent: 68
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Lead
-        percent: 89
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 68
         win: 1
         loss: 0
       event: Hearts
@@ -1590,50 +1590,6 @@ vs:
       year: 2015
       draw: Round Robin(7)
       score: SK 8 - QC 3
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 1
-        losses: 1
-      player2:
-        percent: 73
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Lead
-        percent: 89
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Second
-        percent: 60
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2012
-      draw: Round Robin(15)
-      score: QC 7 - ON 5
-    - player1:
-        team: 'QC'
-        position: Lead
-        percent: 72
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Second
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2015
-      draw: Round Robin(4)
-      score: QC 6 - NO 10
  - name: Weagle, Lisa
    totals:
     - event: Hearts

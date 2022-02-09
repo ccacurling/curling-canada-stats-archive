@@ -4,19 +4,19 @@ name: Kristin MacCuish
 name-sort: MacCuish, Kristin
 totals:
  - event: Hearts
-   games: 49
-   wins: 29
-   losses: 20
-   inturn-total: 507
+   games: 59
+   wins: 36
+   losses: 23
+   inturn-total: 592
    inturn-percent: 84
-   outturn-total: 368
-   outturn-percent: 84
-   draw-total: 711
+   outturn-total: 470
+   outturn-percent: 83
+   draw-total: 856
    draw-percent: 86
-   takeout-total: 164
-   takeout-percent: 75
-   shots-total: 875
-   shots-percent: 84
+   takeout-total: 206
+   takeout-percent: 74
+   shots-total: 1062
+   shots-percent: 83
 years:
  - year: 2013
    event: Hearts
@@ -44,10 +44,6 @@ years:
    losses: 0
    inturn-total: 2
    inturn-percent: 88
-   outturn-total: 0
-   outturn-percent:
-   draw-total: 0
-   draw-percent:
    takeout-total: 2
    takeout-percent: 88
    shots-total: 2
@@ -136,14 +132,34 @@ years:
    takeout-percent: 64
    shots-total: 220
    shots-percent: 82
+ - year: 2022
+   event: Hearts
+   team: "WC"
+   position: Lead
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 85
+   inturn-percent: 83
+   outturn-total: 102
+   outturn-percent: 79
+   draw-total: 145
+   draw-percent: 83
+   takeout-total: 42
+   takeout-percent: 72
+   shots-total: 187
+   shots-percent: 81
 vs:
  - Adams, Melissa
  - Anderson, Sherry
  - Armstrong, Hailey
+ - Armstrong, Jennifer
  - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
+ - Babin, Jillian
  - Barbour, Shona
+ - Barker, Penny
  - Barron, Lauren
  - Baxter, Jennifer
  - Birchard, Shannon
@@ -164,6 +180,7 @@ vs:
  - Carter, Sasha
  - Christianson, Marie
  - Courtney, Joanne
+ - Crawford, Andrea
  - Crouse, Jennifer
  - Curtis, Stacie
  - Daigle, Julie
@@ -174,13 +191,17 @@ vs:
  - Duncan, Jenna
  - Eddy, Lori
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
  - Fisher, Sam
+ - Flaxey, Allison
  - Fleury, Tracy
+ - Forward, Katie
  - Galusha, Kerry
+ - Gamble, Christie
  - Gates, Amanda
  - Gates, Jennifer
  - Gibson, Amy
@@ -214,6 +235,7 @@ vs:
  - Lister, Kendra
  - Loder, Jenna
  - MacDonald, Kaitlin
+ - MacPhail, Brigitte
  - MacPhee, Robyn
  - Martin, Heather
  - Martin, Nancy
@@ -241,23 +263,27 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Price, Kara
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Riley, Emily
- - Robichaud, Sylvie
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
  - Scheidegger, Casey
  - Scheidegger, Jessie
+ - Schmidt, Stephanie
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
+ - Sicinski, Danielle
  - Sippala, Ashley
  - Smallwood, Jody
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Sweeting, Val
+ - Taylor, Alison
  - Thompson, Karla
  - Tingley, Jaclyn
  - Tran, Brittany
@@ -268,7 +294,6 @@ vs:
  - Van Osch, Marika
  - Vautour, Carrie
  - Walker, Laura
- - Walsh, Jenna
  - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah

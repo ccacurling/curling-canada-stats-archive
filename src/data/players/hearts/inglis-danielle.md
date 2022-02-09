@@ -48,8 +48,6 @@ years:
    outturn-percent: 50
    draw-total: 4
    draw-percent: 38
-   takeout-total: 0
-   takeout-percent:
    shots-total: 4
    shots-percent: 38
 vs:

@@ -288,12 +288,8 @@ years:
    games: 1
    wins: 1
    losses: 0
-   inturn-total: 0
-   inturn-percent:
    outturn-total: 1
    outturn-percent: 100
-   draw-total: 0
-   draw-percent:
    takeout-total: 1
    takeout-percent: 100
    shots-total: 1
@@ -576,6 +572,7 @@ vs:
  - Purdy, Karen
  - Pushkar, Diane
  - Putland, Rose
+ - Quillian, Sylvie
  - Radchenka, Tammy
  - Rainville, Julie
  - Reed, Shellan
@@ -584,7 +581,6 @@ vs:
  - Ridalls, Kristen
  - Roberts, Angela
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Robinson, Charlene
  - Robinson, Lori
  - Rocque, Raylene

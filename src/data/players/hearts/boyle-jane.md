@@ -39,8 +39,6 @@ years:
    outturn-percent: 100
    draw-total: 6
    draw-percent: 79
-   takeout-total: 0
-   takeout-percent:
    shots-total: 6
    shots-percent: 79
  - year: 2015
@@ -99,6 +97,7 @@ vs:
  - Curtis, Stacie
  - Devereaux, Julie
  - Einarson, Kerri
+ - Enge, Jenna
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Fleury, Tracy
@@ -161,7 +160,6 @@ vs:
  - Vandale, Trysta
  - Vautour, Carrie
  - Vey, Lana
- - Walsh, Jenna
  - Weagle, Lisa
  - Wilkes, Sarah
  - Williamson, Ashley

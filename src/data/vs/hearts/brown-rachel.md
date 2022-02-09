@@ -882,6 +882,34 @@ vs:
       year: 2021
       draw: Semi-Final(25)
       score: AB 3 - CA 9
+ - name: Enge, Jenna
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(2)
+      score: AB 6 - NO 4
  - name: Filteau, Anne-Marie
    totals:
     - event: Hearts
@@ -3782,6 +3810,34 @@ vs:
       year: 2019
       draw: Round Robin(5)
       score: NO 6 - AB 7
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 97
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(5)
+      score: AB 10 - NB 4
  - name: Reid, Jackie
    totals:
     - event: Hearts
@@ -3894,34 +3950,6 @@ vs:
       year: 2021
       draw: Round Robin(12)
       score: AB 8 - NT 3
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 97
-        wins: 1
-        losses: 0
-      player2:
-        percent: 66
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent: 97
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 66
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(5)
-      score: AB 10 - NB 4
  - name: Robison, Michala
    totals:
     - event: Hearts
@@ -5038,34 +5066,6 @@ vs:
       year: 2014
       draw: Round Robin(1)
       score: TR 5 - AB 7
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 1
-        losses: 0
-      player2:
-        percent: 84
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Second
-        percent: 84
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(2)
-      score: AB 6 - NO 4
  - name: Wark, Sarah
    totals:
     - event: Hearts

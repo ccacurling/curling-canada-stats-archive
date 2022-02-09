@@ -128,6 +128,7 @@ vs:
  - Dufresne, Audree
  - Duncan, Chelsea
  - Dykstra, Michelle
+ - Enge, Jenna
  - Englot, Michelle
  - Fallis, Karen
  - Ferguson, Dana
@@ -213,7 +214,6 @@ vs:
  - Van Osch, Kesa
  - Vey, Lana
  - Wallingham, Patty
- - Walsh, Jenna
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa

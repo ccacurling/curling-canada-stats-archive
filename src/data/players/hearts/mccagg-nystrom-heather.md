@@ -209,12 +209,12 @@ vs:
  - Peters, Laine
  - Power, Marie-Anne
  - Prosser, Sandi
+ - Quillian, Sylvie
  - Radchenka, Tammy
  - Richard, Marie
  - Richards, Brette
  - Ridalls, Kristen
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Rocque, Raylene
  - Ross, Allison
  - Rudulier, Andrea

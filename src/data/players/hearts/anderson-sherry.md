@@ -239,6 +239,7 @@ vs:
  - Duncan, Jenna
  - Eddy, Lori
  - Einarson, Kerri
+ - Enge, Jenna
  - Fallis, Karen
  - Fallis-Kurz, Lynn
  - Farrell, Allison
@@ -366,9 +367,9 @@ vs:
  - Power, Marie-Anne
  - Price, Kara
  - Purdy, Karen
+ - Quillian, Sylvie
  - Richard, Marie
  - Riley, Emily
- - Robichaud, Sylvie
  - Robinson, Charlene
  - Robinson, Lori
  - Robison, Michala
@@ -402,7 +403,6 @@ vs:
  - Walker, Laura
  - Wall, Kirsten
  - Wallingham, Patty
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Crystal
  - Wheatcroft, Georgina

@@ -4,18 +4,18 @@ name: Hailey Birnie
 name-sort: Birnie, Hailey
 totals:
  - event: Hearts
-   games: 14
+   games: 22
    wins: 1
-   losses: 13
-   inturn-total: 127
-   inturn-percent: 62
-   outturn-total: 119
+   losses: 21
+   inturn-total: 192
+   inturn-percent: 61
+   outturn-total: 197
    outturn-percent: 61
-   draw-total: 147
-   draw-percent: 60
-   takeout-total: 99
-   takeout-percent: 63
-   shots-total: 246
+   draw-total: 235
+   draw-percent: 59
+   takeout-total: 154
+   takeout-percent: 64
+   shots-total: 389
    shots-percent: 61
 years:
  - year: 2019
@@ -52,21 +52,51 @@ years:
    takeout-percent: 51
    shots-total: 121
    shots-percent: 54
+ - year: 2022
+   event: Hearts
+   team: "YT"
+   position: Fourth
+   games: 8
+   wins: 0
+   losses: 8
+   inturn-total: 65
+   inturn-percent: 59
+   outturn-total: 78
+   outturn-percent: 62
+   draw-total: 88
+   draw-percent: 57
+   takeout-total: 55
+   takeout-percent: 66
+   shots-total: 143
+   shots-percent: 61
 vs:
+ - Armstrong, Hailey
  - Armstrong, Jennifer
  - Arsenault, Mary-Anne
  - Babin, Jillian
+ - Balsdon, Megan
  - Barbour, Shona
+ - Barker, Shelley
  - Baxter, Jennifer
+ - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
+ - Bobbie, Tess
  - Brown, Corryn
+ - Burgess, Karlee
+ - Cameron, Kate
+ - Carter, Sasha
  - Christianson, Marie
  - Clarke, Kristin
  - Courtney, Joanne
  - Crawford, Andrea
  - Curtis, Erica
  - Devereaux, Julie
+ - Duncan, Hollie
+ - Einarson, Kerri
+ - Everist, Karlee
+ - Ferguson, Dana
+ - Flemming, Margot
  - Forward, Katie
  - Galusha, Kerry
  - Guzzwell, Stephanie
@@ -82,22 +112,36 @@ vs:
  - Kreviazuk, Cheryl
  - Lawes, Kaitlyn
  - Lawton, Stefanie
+ - Lenentine, Lauren
  - Logan, Emma
+ - McDonald, Taylor
  - McEwen, Dawn
  - McQuaid, Michelle
  - McTaggart, Cary-Anne
+ - Meilleur, Briane
  - Miskew, Emma
  - Moore, Kristie
  - Officer, Jill
  - Peterman, Jocelyn
  - Pincott, Erin
  - Porter, Erin
+ - Riley, Emily
  - Rizzo, Jo-Ann
+ - Routledge, Alanna
  - Scheidegger, Casey
+ - Schraeder, Jeanna
+ - Scotland, Nadine
  - Sharpe, Kelli
  - Silvernagle, Robyn
+ - Simons, Renee
+ - St-Georges, Laurie
+ - Strybosch, Rachelle
+ - Sweeting, Val
  - Thevenot, Kara
  - Tran, Brittany
  - Vautour, Carrie
+ - Walker, Laura
  - Weagle, Lisa
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
 ---

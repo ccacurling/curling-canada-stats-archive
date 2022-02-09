@@ -162,6 +162,7 @@ vs:
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
+ - Enge, Jenna
  - Enright, Barb
  - Farrell, Allison
  - Ferguson, Dana
@@ -233,10 +234,10 @@ vs:
  - Parsons, Danielle
  - Pilote, Kristen
  - Prosser, Sandi
+ - Quillian, Sylvie
  - Richard, Marie
  - Richards, Brette
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Robison, Michala
  - Rocque, Raylene
  - Ross, Allison
@@ -262,7 +263,6 @@ vs:
  - Udle, Teri
  - Van Osch, Kesa
  - Wallingham, Patty
- - Walsh, Jenna
  - Weagle, Lisa
  - Wilkes, Sarah
  - Wylie, Jennifer

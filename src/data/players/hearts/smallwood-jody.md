@@ -64,7 +64,7 @@ vs:
  - McEwen, Dawn
  - Njegovan, Selena
  - Officer, Jill
- - Robichaud, Sylvie
+ - Quillian, Sylvie
  - Webster, Crystal
  - West, Christianne
  - Wylie, Jennifer

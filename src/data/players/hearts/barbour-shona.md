@@ -278,6 +278,7 @@ vs:
  - Duncan, Chelsea
  - Duncan, Jenna
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Enright, Barb
  - Fallis, Karen
@@ -369,9 +370,9 @@ vs:
  - Plonka, Gabrielle
  - Porter, Erin
  - Price, Kara
+ - Quillian, Sylvie
  - Richards, Brette
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Robison, Michala
  - Sabourin, Joelle
  - Scheidegger, Casey
@@ -402,7 +403,6 @@ vs:
  - Vey, Lana
  - Walker, Laura
  - Wall, Kirsten
- - Walsh, Jenna
  - Wazney, Sarah
  - Weagle, Lisa
  - Webster, Bronwen

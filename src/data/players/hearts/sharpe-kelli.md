@@ -4,18 +4,18 @@ name: Kelli Sharpe
 name-sort: Sharpe, Kelli
 totals:
  - event: Hearts
-   games: 69
-   wins: 21
-   losses: 48
-   inturn-total: 640
-   inturn-percent: 73
-   outturn-total: 657
+   games: 77
+   wins: 23
+   losses: 54
+   inturn-total: 694
+   inturn-percent: 72
+   outturn-total: 751
    outturn-percent: 71
-   draw-total: 576
-   draw-percent: 71
-   takeout-total: 721
-   takeout-percent: 72
-   shots-total: 1297
+   draw-total: 631
+   draw-percent: 70
+   takeout-total: 814
+   takeout-percent: 73
+   shots-total: 1445
    shots-percent: 72
 years:
  - year: 1998
@@ -137,6 +137,23 @@ years:
    takeout-percent: 68
    shots-total: 119
    shots-percent: 66
+ - year: 2022
+   event: Hearts
+   team: "NL"
+   position: Third
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 54
+   inturn-percent: 69
+   outturn-total: 94
+   outturn-percent: 72
+   draw-total: 55
+   draw-percent: 65
+   takeout-total: 93
+   takeout-percent: 74
+   shots-total: 148
+   shots-percent: 71
 vs:
  - Affleck, Tricia
  - Aleksic, Shannon
@@ -149,6 +166,7 @@ vs:
  - Balderston, Marcy
  - Baldwin, Nicole
  - Barbour, Shona
+ - Barker, Penny
  - Barrack, Carmen
  - Beever, Jocelyn
  - Belisle, Eve
@@ -170,7 +188,9 @@ vs:
  - Bush, Tracy
  - Byers, Denise
  - Cameron, Nancy
+ - Campbell, Jolene
  - Campbell, June
+ - Carey, Chelsea
  - Carlos, Marie-Claude
  - Carter, Sasha
  - Christianson, Marie
@@ -180,6 +200,7 @@ vs:
  - Comeau, Sandy
  - Cormier, Sharon
  - Couling, Betty
+ - Courtney, Joanne
  - Crawford, Andrea
  - Daku, Karen
  - Davis, Brandee
@@ -189,7 +210,10 @@ vs:
  - Dezura, Diane
  - Dobson, Sue
  - Dolan, Kim
+ - Enge, Jenna
+ - Erickson, Rachel
  - Farrell, Allison
+ - Flaxey, Allison
  - Floyd, Kathy
  - Fortier, Marie-Josee
  - Fortin, Sylvie
@@ -197,8 +221,10 @@ vs:
  - Fowler, Lois
  - Fowler, Sharon
  - Frey, Audrey
+ - Fyfe, Liz
  - Gagnon, Nathalie
  - Galusha, Kerry
+ - Gamble, Christie
  - Garvey, Sue
  - Gauthier, Cathy
  - Gellard, Kim
@@ -243,14 +269,18 @@ vs:
  - Lemire, Nancy
  - Letendre, Pascale
  - Lewis, Kristy
+ - Lilly, Kendra
  - Loder, Cherie-Ann
  - Lowther, Tammi
  - MacCallum, Janice
+ - MacCuish, Kristin
  - MacDiarmid, Kristen
+ - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacInnes, Allison
  - MacLeod, Lisa
+ - MacPhail, Brigitte
  - MacPhee, Robyn
  - Mattatall, Mary
  - McCarville, Krista
@@ -266,6 +296,7 @@ vs:
  - Merklinger, Anne
  - Middaugh, Sherry
  - Miller, Maureen
+ - Miskew, Emma
  - Mittelstadt, Candice
  - Moore, Kristie
  - Moriarty, Monica
@@ -276,6 +307,8 @@ vs:
  - Muzika, Shelley
  - Nedohin, Heather
  - Nicholls, Brenda
+ - Njegovan, Robyn
+ - Njegovan, Selena
  - Nowlan, Denise
  - Nugent, Pamela
  - Officer, Jill
@@ -286,9 +319,12 @@ vs:
  - Overton-Clapham, Cathy
  - Peters, Laine
  - Phillips, Margaret Lea
+ - Pinksen, Sadie
+ - Potts, Sarah
  - Power, Marie-Anne
  - Prosser, Sandi
  - Provencal, Darah
+ - Quillian, Sylvie
  - Ridalls, Kristen
  - Rocque, Raylene
  - Ross, Allison
@@ -302,9 +338,11 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shaw, Ladene
+ - Sicinski, Danielle
  - Silvernagle, Robyn
  - Simons, Renee
  - Singler, Sherri
+ - Sippala, Ashley
  - Skinner, Julie
  - Smith, Heather
  - Sonnenberg, Renee
@@ -318,6 +356,7 @@ vs:
  - Stubbings, Tiffany
  - Tanner, Allison
  - Tanner, Ros
+ - Taylor, Alison
  - Thevenot, Kara
  - Thurston, Jill
  - Tincher, Twyla
@@ -329,6 +368,7 @@ vs:
  - Walter, Cathy
  - Wheatcroft, Georgina
  - Whitrow, Leanne
+ - Wilkes, Sarah
  - Wiltzen, Jan
  - Zinck, Kay
 ---

@@ -81,6 +81,7 @@ vs:
  - Devereaux, Julie
  - Doig, Deanna
  - Dolan, Sinead
+ - Enge, Jenna
  - Englot, Michelle
  - Eyamie, Lisa
  - Ferguson, Dana
@@ -117,9 +118,9 @@ vs:
  - Pilote, Kristen
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Richard, Marie
  - Richards, Brette
- - Robichaud, Sylvie
  - Rusnell, Jen
  - Saulnier, Andrea
  - Schmidt, Stephanie
@@ -132,7 +133,6 @@ vs:
  - Sweeting, Val
  - Trombley, Christy
  - Vey, Lana
- - Walsh, Jenna
  - Weagle, Lisa
  - Westcott, Raunora
  - Wilkes, Sarah

@@ -180,8 +180,8 @@ vs:
  - Peterman, Jocelyn
  - Pincott, Erin
  - Porter, Erin
+ - Quillian, Sylvie
  - Rizzo, Jo-Ann
- - Robichaud, Sylvie
  - Robison, Michala
  - Ross, Allison
  - Sanderson, Jessie

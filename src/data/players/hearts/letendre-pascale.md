@@ -42,12 +42,8 @@ years:
    games: 1
    wins: 1
    losses: 0
-   inturn-total: 0
-   inturn-percent:
    outturn-total: 2
    outturn-percent: 75
-   draw-total: 0
-   draw-percent:
    takeout-total: 2
    takeout-percent: 75
    shots-total: 2
@@ -65,8 +61,6 @@ years:
    outturn-percent: 65
    draw-total: 6
    draw-percent: 54
-   takeout-total: 0
-   takeout-percent:
    shots-total: 6
    shots-percent: 54
  - year: 2016

@@ -124,6 +124,10 @@ years:
    event: Hearts
    team: "PE"
    position: Alternate
+ - year: 2022
+   event: Hearts
+   team: "PE"
+   position: Alternate
 vs:
  - Adams, Diane
  - Alexander, Diane

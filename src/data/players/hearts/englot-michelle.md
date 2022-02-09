@@ -260,6 +260,7 @@ vs:
  - Dwyer, Patricia
  - Earl, Allison
  - Einarson, Kerri
+ - Enge, Jenna
  - Eyamie, Lisa
  - Farrell, Allison
  - Fast, Lois
@@ -400,6 +401,7 @@ vs:
  - Power, Marie-Anne
  - Pruden, Twyla
  - Purdy, Karen
+ - Quillian, Sylvie
  - Radchenka, Tammy
  - Ramsay, Jennifer
  - Rankin, Beth
@@ -408,7 +410,6 @@ vs:
  - Richards, Brette
  - Ridley, Terry
  - Rintoul, Jacki
- - Robichaud, Sylvie
  - Rudd, Colleen
  - Ryan, Diane
  - Ryan, Jennifer
@@ -462,7 +463,6 @@ vs:
  - Van Osch, Marika
  - Walker, Lisa
  - Wall, Kirsten
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Bronwen
  - Webster, Crystal

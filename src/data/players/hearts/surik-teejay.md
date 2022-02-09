@@ -103,8 +103,8 @@ vs:
  - Officer, Jill
  - Overton-Clapham, Cathy
  - Peters, Laine
+ - Quillian, Sylvie
  - Richard, Marie
- - Robichaud, Sylvie
  - Sabourin, Joelle
  - Schraeder, Jeanna
  - Scott, Kelly

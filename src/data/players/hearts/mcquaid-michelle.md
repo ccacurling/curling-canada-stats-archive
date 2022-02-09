@@ -4,18 +4,18 @@ name: Michelle McQuaid
 name-sort: McQuaid, Michelle
 totals:
  - event: Hearts
-   games: 60
-   wins: 24
-   losses: 36
-   inturn-total: 657
+   games: 68
+   wins: 28
+   losses: 40
+   inturn-total: 741
    inturn-percent: 84
-   outturn-total: 499
-   outturn-percent: 79
-   draw-total: 882
+   outturn-total: 569
+   outturn-percent: 78
+   draw-total: 1007
    draw-percent: 83
-   takeout-total: 274
-   takeout-percent: 77
-   shots-total: 1156
+   takeout-total: 303
+   takeout-percent: 75
+   shots-total: 1310
    shots-percent: 82
 years:
  - year: 2015
@@ -120,6 +120,23 @@ years:
    takeout-percent: 62
    shots-total: 154
    shots-percent: 82
+ - year: 2022
+   event: Hearts
+   team: "PE"
+   position: Lead
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 84
+   inturn-percent: 82
+   outturn-total: 70
+   outturn-percent: 77
+   draw-total: 125
+   draw-percent: 84
+   takeout-total: 29
+   takeout-percent: 61
+   shots-total: 154
+   shots-percent: 80
 vs:
  - Adams, Melissa
  - Alcoe-Holland, Jill
@@ -147,6 +164,7 @@ vs:
  - Brown, Rachel
  - Cameron, Kate
  - Camozzi, Rhonda
+ - Campbell, Jolene
  - Carey, Chelsea
  - Chislett, Geneva
  - Collins, Katrina
@@ -166,16 +184,19 @@ vs:
  - Duncan, Hollie
  - Eddy, Lori
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Eyamie, Lisa
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Fisher, Sam
+ - Flaxey, Allison
  - Fleury, Tracy
  - Forward, Katie
  - Fyfe, Liz
  - Gagne, Emilia
  - Galusha, Kerry
+ - Gamble, Christie
  - Gates, Amanda
  - Gates, Jennifer
  - Gibson, Amy
@@ -211,6 +232,7 @@ vs:
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - Mackey, Robyn
+ - MacPhail, Brigitte
  - Mallett, Marla
  - Mann, Lauren
  - Martin, Nancy
@@ -225,6 +247,7 @@ vs:
  - Moore, Kristie
  - Nedohin, Heather
  - Nixon, Amy
+ - Njegovan, Robyn
  - Njegovan, Selena
  - Officer, Jill
  - Olson-Johns, Lori
@@ -238,11 +261,11 @@ vs:
  - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Robichaud, Sylvie
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
@@ -264,6 +287,7 @@ vs:
  - Strong, Heather
  - Strong, Helen
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Kara
  - Thiessen, Alison
  - Tingley, Jaclyn
@@ -273,7 +297,6 @@ vs:
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
- - Walsh, Jenna
  - Wark, Sarah
  - Weagle, Lisa
  - West, Christianne

@@ -4,19 +4,19 @@ name: Chelsea Carey
 name-sort: Carey, Chelsea
 totals:
  - event: Hearts
-   games: 76
-   wins: 53
-   losses: 23
-   inturn-total: 669
-   inturn-percent: 80
-   outturn-total: 779
+   games: 84
+   wins: 57
+   losses: 27
+   inturn-total: 750
+   inturn-percent: 79
+   outturn-total: 856
    outturn-percent: 81
-   draw-total: 655
-   draw-percent: 79
-   takeout-total: 793
-   takeout-percent: 82
-   shots-total: 1448
-   shots-percent: 81
+   draw-total: 727
+   draw-percent: 78
+   takeout-total: 879
+   takeout-percent: 81
+   shots-total: 1606
+   shots-percent: 80
 years:
  - year: 2014
    event: Hearts
@@ -120,6 +120,23 @@ years:
    takeout-percent: 77
    shots-total: 216
    shots-percent: 77
+ - year: 2022
+   event: Hearts
+   team: "WC"
+   position: Fourth
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 81
+   inturn-percent: 70
+   outturn-total: 77
+   outturn-percent: 74
+   draw-total: 72
+   draw-percent: 69
+   takeout-total: 86
+   takeout-percent: 74
+   shots-total: 158
+   shots-percent: 72
 vs:
  - Adams, Melissa
  - Alcoe-Holland, Jill
@@ -172,6 +189,7 @@ vs:
  - Duncan, Chelsea
  - Eddy, Lori
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Eyamie, Lisa
  - Ferguson, Dana
@@ -182,6 +200,7 @@ vs:
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
+ - Gamble, Christie
  - Gannon, Melissa
  - Gates, Jennifer
  - Godsland, Brooke
@@ -222,6 +241,7 @@ vs:
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
+ - MacPhail, Brigitte
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
@@ -240,6 +260,7 @@ vs:
  - Murphy, Sarah
  - Nedohin, Heather
  - Nicholls, Brenda
+ - Njegovan, Robyn
  - Njegovan, Selena
  - Nugent, Pamela
  - Officer, Jill
@@ -253,12 +274,12 @@ vs:
  - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
- - Robichaud, Sylvie
  - Robison, Michala
  - Ross, Allison
  - Routledge, Alanna
@@ -271,6 +292,7 @@ vs:
  - Scheidegger, Casey
  - Schneider, Lorraine
  - Scotland, Nadine
+ - Sharpe, Kelli
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sinclair, Andrea
@@ -282,6 +304,7 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla

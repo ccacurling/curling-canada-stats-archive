@@ -69,6 +69,10 @@ years:
    takeout-percent: 84
    shots-total: 262
    shots-percent: 82
+ - year: 2022
+   event: Hearts
+   team: "MB"
+   position: Alternate
 vs:
  - Affleck, Tricia
  - Allen, Michelle
@@ -99,6 +103,7 @@ vs:
  - Delahunt, Nancy
  - Derick, Catherine
  - deSolla, Jodie
+ - Enge, Jenna
  - Farrell, Allison
  - Filteau, Anne-Marie
  - Fleury, Tracy
@@ -150,9 +155,9 @@ vs:
  - Overton-Clapham, Cathy
  - Pilote, Kristen
  - Prosser, Sandi
+ - Quillian, Sylvie
  - Richard, Marie
  - Ridalls, Kristen
- - Robichaud, Sylvie
  - Ross, Allison
  - Rudulier, Andrea
  - Rusnell, Jen
@@ -171,7 +176,6 @@ vs:
  - Tanner, Ros
  - Thurston, Jill
  - Trombley, Christy
- - Walsh, Jenna
  - Weagle, Lisa
  - Wheatcroft, Georgina
  - Whitaker, Carol

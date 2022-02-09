@@ -4,19 +4,19 @@ name: Meaghan Hughes
 name-sort: Hughes, Meaghan
 totals:
  - event: Hearts
-   games: 60
-   wins: 24
-   losses: 36
-   inturn-total: 588
-   inturn-percent: 80
-   outturn-total: 582
-   outturn-percent: 80
-   draw-total: 543
+   games: 68
+   wins: 28
+   losses: 40
+   inturn-total: 656
+   inturn-percent: 79
+   outturn-total: 668
+   outturn-percent: 79
+   draw-total: 618
    draw-percent: 77
-   takeout-total: 627
-   takeout-percent: 82
-   shots-total: 1170
-   shots-percent: 80
+   takeout-total: 706
+   takeout-percent: 81
+   shots-total: 1324
+   shots-percent: 79
 years:
  - year: 2016
    event: Hearts
@@ -120,6 +120,23 @@ years:
    takeout-percent: 80
    shots-total: 156
    shots-percent: 77
+ - year: 2022
+   event: Hearts
+   team: "PE"
+   position: Second
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 68
+   inturn-percent: 75
+   outturn-total: 86
+   outturn-percent: 71
+   draw-total: 75
+   draw-percent: 75
+   takeout-total: 79
+   takeout-percent: 70
+   shots-total: 154
+   shots-percent: 72
 vs:
  - Adams, Melissa
  - Alcoe-Holland, Jill
@@ -167,14 +184,17 @@ vs:
  - Duncan, Hollie
  - Eddy, Lori
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Eyamie, Lisa
  - Ferguson, Dana
  - Fisher, Sam
+ - Flaxey, Allison
  - Forward, Katie
  - Fyfe, Liz
  - Gagne, Emilia
  - Galusha, Kerry
+ - Gamble, Christie
  - Gates, Jennifer
  - Gibson, Amy
  - Griffin, Alison
@@ -212,6 +232,7 @@ vs:
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - Mackey, Robyn
+ - MacPhail, Brigitte
  - Mallett, Marla
  - Mann, Lauren
  - Martin, Nancy
@@ -228,6 +249,7 @@ vs:
  - Nedohin, Heather
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Robyn
  - Njegovan, Selena
  - Officer, Jill
  - O'Neill, Brit
@@ -241,19 +263,20 @@ vs:
  - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Robichaud, Sylvie
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
  - Saulnier, Andrea
  - Scheidegger, Casey
  - Scheidegger, Jessie
+ - Schmidt, Stephanie
  - Schneider, Lorraine
  - Shackleton, Amie
  - Sharpe, Kelli
@@ -265,6 +288,7 @@ vs:
  - St-Georges, Laurie
  - Strong, Helen
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla

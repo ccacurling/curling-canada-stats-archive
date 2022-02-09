@@ -238,6 +238,7 @@ vs:
  - Dobson, Sue
  - Dufresne, Audree
  - Dykstra, Michelle
+ - Enge, Jenna
  - Englot, Michelle
  - Fallis, Karen
  - Farrell, Allison
@@ -352,10 +353,10 @@ vs:
  - Power, Marie-Anne
  - Prosser, Sandi
  - Purdy, Karen
+ - Quillian, Sylvie
  - Radchenka, Tammy
  - Renouf, Michele
  - Richard, Marie
- - Robichaud, Sylvie
  - Robinson, Charlene
  - Rocque, Raylene
  - Ross, Allison
@@ -391,7 +392,6 @@ vs:
  - Thomas, Jill
  - Trombley, Christy
  - Udle, Teri
- - Walsh, Jenna
  - Walter, Cathy
  - Wasylkiw, Lauren
  - Weagle, Lisa

@@ -50,6 +50,7 @@ vs:
  - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
+ - Enge, Jenna
  - Filteau, Anne-Marie
  - Fleury, Tracy
  - Galusha, Kerry
@@ -78,6 +79,5 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Udle, Teri
- - Walsh, Jenna
  - Wylie, Jennifer
 ---

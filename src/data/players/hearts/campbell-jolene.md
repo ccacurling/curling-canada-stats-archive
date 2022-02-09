@@ -4,18 +4,18 @@ name: Jolene Campbell
 name-sort: Campbell, Jolene
 totals:
  - event: Hearts
-   games: 21
-   wins: 11
-   losses: 10
-   inturn-total: 184
+   games: 29
+   wins: 15
+   losses: 14
+   inturn-total: 253
    inturn-percent: 80
-   outturn-total: 178
-   outturn-percent: 81
-   draw-total: 151
-   draw-percent: 78
-   takeout-total: 211
-   takeout-percent: 82
-   shots-total: 362
+   outturn-total: 267
+   outturn-percent: 80
+   draw-total: 221
+   draw-percent: 79
+   takeout-total: 299
+   takeout-percent: 81
+   shots-total: 520
    shots-percent: 80
 years:
  - year: 2010
@@ -119,11 +119,30 @@ years:
    takeout-percent: 80
    shots-total: 202
    shots-percent: 78
+ - year: 2022
+   event: Hearts
+   team: "WC"
+   position: Third
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 69
+   inturn-percent: 80
+   outturn-total: 89
+   outturn-percent: 80
+   draw-total: 70
+   draw-percent: 81
+   takeout-total: 88
+   takeout-percent: 80
+   shots-total: 158
+   shots-percent: 80
 vs:
  - Armstrong, Jacquie
  - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
+ - Babin, Jillian
  - Barbour, Shona
+ - Barker, Penny
  - Birt, Suzanne
  - Blais, Amelie
  - Boyle, Jane
@@ -132,6 +151,8 @@ vs:
  - Carter, Sasha
  - Christianson, Marie
  - Cormier, Sharon
+ - Courtney, Joanne
+ - Crawford, Andrea
  - Curtis, Stacie
  - Devereaux, Julie
  - Dolan, Kim
@@ -139,13 +160,19 @@ vs:
  - Einarson, Kerri
  - Einarson, Megan
  - Ellis, Danielle
+ - Enge, Jenna
  - Englot, Michelle
+ - Flaxey, Allison
  - Fleury, Tracy
+ - Forward, Katie
  - Fyfe, Liz
  - Galusha, Kerry
+ - Gamble, Christie
  - Gates, Amanda
+ - Hamilton, Beth
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Hill, Sarah
  - Hughes, Meaghan
  - Jones, Jennifer
  - Joyce, Blisse
@@ -156,44 +183,54 @@ vs:
  - Lemay, Annie
  - Lilly, Kendra
  - MacCuish, Kristin
+ - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
+ - MacPhail, Brigitte
  - MacPhee, Robyn
  - Makichuk, Lindsay
  - Materi, Roberta
  - McCarville, Krista
  - McEwen, Dawn
+ - McQuaid, Michelle
+ - Mercer, Adrienne
  - Miller, Wendy
+ - Miskew, Emma
  - More, Whitney
  - Moses, Dawn
  - Murphy, Sarah
  - Naugler, Tara
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Robyn
  - Njegovan, Selena
  - Officer, Jill
  - O'Neill, Brit
  - Parsons, Danielle
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
- - Robichaud, Sylvie
  - Robison, Michala
  - Sagle, Karen
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Sharpe, Kelli
+ - Sicinski, Danielle
  - Sippala, Ashley
  - Slywka, Sarah
  - Smith, Heather
  - Sweeting, Val
+ - Taylor, Alison
  - Thompson, Karla
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie
  - Vey, Lana
- - Walsh, Jenna
+ - Wilkes, Sarah
  - Wylie, Jennifer
 ---

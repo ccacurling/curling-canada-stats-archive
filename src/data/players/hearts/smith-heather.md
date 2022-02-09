@@ -154,6 +154,7 @@ vs:
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
+ - Enge, Jenna
  - Englot, Michelle
  - Fallis, Karen
  - Ferguson, Dana
@@ -266,7 +267,6 @@ vs:
  - Vey, Lana
  - Wall, Kirsten
  - Wallingham, Patty
- - Walsh, Jenna
  - Walter, Cathy
  - Weagle, Lisa
  - Webster, Bronwen

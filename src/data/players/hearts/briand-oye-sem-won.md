@@ -27,8 +27,6 @@ years:
    losses: 0
    inturn-total: 3
    inturn-percent: 67
-   outturn-total: 0
-   outturn-percent:
    draw-total: 1
    draw-percent: 100
    takeout-total: 2
@@ -42,8 +40,6 @@ years:
    games: 1
    wins: 1
    losses: 0
-   inturn-total: 0
-   inturn-percent:
    outturn-total: 2
    outturn-percent: 50
    draw-total: 1

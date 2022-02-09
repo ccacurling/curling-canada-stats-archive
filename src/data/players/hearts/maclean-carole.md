@@ -16,5 +16,9 @@ years:
    event: Hearts
    team: "NS"
    position: Alternate
+ - year: 2022
+   event: Hearts
+   team: "NS"
+   position: Alternate
 vs:
 ---

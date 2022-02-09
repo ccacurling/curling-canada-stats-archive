@@ -93,14 +93,10 @@ years:
    games: 1
    wins: 0
    losses: 1
-   inturn-total: 0
-   inturn-percent:
    outturn-total: 2
    outturn-percent: 50
    draw-total: 2
    draw-percent: 50
-   takeout-total: 0
-   takeout-percent:
    shots-total: 2
    shots-percent: 50
  - year: 2016
@@ -110,12 +106,8 @@ years:
    games: 1
    wins: 0
    losses: 1
-   inturn-total: 0
-   inturn-percent:
    outturn-total: 2
    outturn-percent: 75
-   draw-total: 0
-   draw-percent:
    takeout-total: 2
    takeout-percent: 75
    shots-total: 2
@@ -126,8 +118,6 @@ years:
    games: 2
    wins: 0
    losses: 2
-   inturn-total: 0
-   inturn-percent:
    outturn-total: 4
    outturn-percent: 63
    draw-total: 2
@@ -163,6 +153,7 @@ vs:
  - Derick, Catherine
  - deSolla, Jodie
  - Duncan, Chelsea
+ - Enge, Jenna
  - Englot, Michelle
  - Ferguson, Dana
  - Filteau, Anne-Marie
@@ -222,6 +213,5 @@ vs:
  - Van Osch, Kesa
  - Vey, Lana
  - Wallingham, Patty
- - Walsh, Jenna
  - Wylie, Jennifer
 ---

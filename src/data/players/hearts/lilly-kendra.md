@@ -4,19 +4,19 @@ name: Kendra Lilly
 name-sort: Lilly, Kendra
 totals:
  - event: Hearts
-   games: 52
-   wins: 34
-   losses: 18
-   inturn-total: 551
-   inturn-percent: 81
-   outturn-total: 457
+   games: 64
+   wins: 42
+   losses: 22
+   inturn-total: 683
+   inturn-percent: 80
+   outturn-total: 564
    outturn-percent: 80
-   draw-total: 466
+   draw-total: 567
    draw-percent: 77
-   takeout-total: 542
-   takeout-percent: 83
-   shots-total: 1008
-   shots-percent: 81
+   takeout-total: 680
+   takeout-percent: 82
+   shots-total: 1247
+   shots-percent: 80
 years:
  - year: 2016
    event: Hearts
@@ -86,6 +86,23 @@ years:
    takeout-percent: 82
    shots-total: 232
    shots-percent: 78
+ - year: 2022
+   event: Hearts
+   team: "NO"
+   position: Third
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 132
+   inturn-percent: 76
+   outturn-total: 107
+   outturn-percent: 77
+   draw-total: 101
+   draw-percent: 74
+   takeout-total: 138
+   takeout-percent: 78
+   shots-total: 239
+   shots-percent: 77
 vs:
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
@@ -93,9 +110,12 @@ vs:
  - Atkinson, Rebecca
  - Babin, Jillian
  - Barker, Penny
+ - Barker, Shelley
+ - Baxter, Jennifer
  - Belisle, Eve
  - Birchard, Shannon
  - Birt, Suzanne
+ - Black, Christina
  - Blaney, Jennifer
  - Bodner, Jenine
  - Boudreault, Patricia
@@ -123,20 +143,26 @@ vs:
  - Doig, Deanna
  - Eddy, Lori
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
+ - Everist, Karlee
  - Eyamie, Lisa
  - Ferguson, Dana
+ - Flaxey, Allison
  - Fleury, Tracy
  - Forward, Katie
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
+ - Gamble, Christie
  - Griffin, Alison
+ - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
  - Haughian, Jessie
  - Hawes, Dezaray
+ - Hill, Sarah
  - Hill, Trish
  - Homan, Rachel
  - Howard, Ashley
@@ -155,6 +181,7 @@ vs:
  - Lemay, Annie
  - MacCuish, Kristin
  - MacDonald, Kaitlin
+ - MacPhail, Brigitte
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
@@ -164,6 +191,7 @@ vs:
  - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Meilleur, Briane
+ - Mercer, Adrienne
  - Miskew, Emma
  - Moore, Kristie
  - Munroe, Anna
@@ -181,11 +209,11 @@ vs:
  - Pincott, Erin
  - Pinksen, Sadie
  - Porter, Erin
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
- - Robichaud, Sylvie
  - Routledge, Alanna
  - Routledge, Jill
  - Rusnell, Jen
@@ -193,11 +221,14 @@ vs:
  - Sandwith, Carley
  - Saulnier, Andrea
  - Scheidegger, Casey
+ - Schmidt, Stephanie
  - Schneider, Lorraine
  - Scotland, Nadine
+ - Sharpe, Kelli
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla

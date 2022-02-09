@@ -95,6 +95,7 @@ vs:
  - Dolan, Sinead
  - Dufresne, Audree
  - Dykstra, Michelle
+ - Enge, Jenna
  - Englot, Michelle
  - Fallis, Karen
  - Fleury, Tracy
@@ -150,7 +151,6 @@ vs:
  - Sobey, Lianne
  - Udle, Teri
  - Vey, Lana
- - Walsh, Jenna
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa

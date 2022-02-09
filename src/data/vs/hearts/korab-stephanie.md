@@ -638,6 +638,34 @@ vs:
       year: 2015
       draw: Round Robin(14)
       score: BC 7 - NL 10
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 71
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(3)
+      score: NB 4 - NL 5
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -660,34 +688,6 @@ vs:
         team: 'NB'
         position: Second
         percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(3)
-      score: NB 4 - NL 5
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 71
-        wins: 1
-        losses: 0
-      player2:
-        percent: 74
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NL'
-        position: Third
-        percent: 71
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 74
         win: 0
         loss: 1
       event: Hearts
@@ -1086,50 +1086,6 @@ vs:
       year: 2012
       draw: Round Robin(3)
       score: SK 10 - NL 7
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 67
-        wins: 1
-        losses: 1
-      player2:
-        percent: 81
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'NL'
-        position: Lead
-        percent: 80
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Second
-        percent: 91
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2012
-      draw: Round Robin(13)
-      score: ON 7 - NL 4
-    - player1:
-        team: 'NL'
-        position: Third
-        percent: 54
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Second
-        percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(9)
-      score: NL 6 - NO 4
  - name: Weagle, Lisa
    totals:
     - event: Hearts

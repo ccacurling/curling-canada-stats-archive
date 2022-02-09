@@ -2722,6 +2722,34 @@ vs:
       year: 2021
       draw: Pool(20)
       score: SK 6 - CA 10
+ - name: Enge, Jenna
+   totals:
+    - event: Hearts
+      player1:
+        percent: 80
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Third
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2015
+      draw: Round Robin(13)
+      score: SK 5 - NO 6
  - name: Fallis, Karen
    totals:
     - event: Hearts
@@ -7398,6 +7426,50 @@ vs:
       year: 1994
       draw: Playoff(20)
       score: SK 3 - MB 5
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 1
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Third
+        percent: 77
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(15)
+      score: NB 4 - SK 9
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(12)
+      score: NB 7 - SK 6
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -7454,50 +7526,6 @@ vs:
       year: 2021
       draw: Round Robin(13)
       score: QC 6 - SK 9
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 1
-        losses: 1
-      player2:
-        percent: 78
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Third
-        percent: 77
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(15)
-      score: NB 4 - SK 9
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(12)
-      score: NB 7 - SK 6
  - name: Robinson, Charlene
    totals:
     - event: Hearts
@@ -8566,34 +8594,6 @@ vs:
       year: 2014
       draw: Round Robin(17)
       score: TR 6 - SK 5
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 80
-        wins: 0
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Third
-        percent: 80
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Second
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2015
-      draw: Round Robin(13)
-      score: SK 5 - NO 6
  - name: Weagle, Lisa
    totals:
     - event: Hearts

@@ -922,34 +922,6 @@ vs:
       year: 2014
       draw: Round Robin(15)
       score: TR 4 - NB 5
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 66
-        wins: 0
-        losses: 1
-      player2:
-        percent: 86
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Third
-        percent: 66
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Second
-        percent: 86
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2012
-      draw: Round Robin(4)
-      score: ON 10 - NS 3
  - name: Wasylkiw, Lauren
    totals:
     - event: Hearts

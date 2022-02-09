@@ -470,6 +470,34 @@ vs:
       year: 2016
       draw: Round Robin(17)
       score: NB 6 - MB 7
+ - name: Enge, Jenna
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 94
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 94
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2015
+      draw: Round Robin(8)
+      score: NO 8 - NB 4
  - name: Ferguson, Dana
    totals:
     - event: Hearts
@@ -2334,34 +2362,6 @@ vs:
       year: 2015
       draw: Round Robin(15)
       score: NB 4 - SK 9
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 0
-        losses: 1
-      player2:
-        percent: 94
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Lead
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Second
-        percent: 94
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2015
-      draw: Round Robin(8)
-      score: NO 8 - NB 4
  - name: Weagle, Lisa
    totals:
     - event: Hearts

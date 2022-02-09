@@ -4,18 +4,18 @@ name: Marie Christianson
 name-sort: Christianson, Marie
 totals:
  - event: Hearts
-   games: 41
-   wins: 19
-   losses: 22
-   inturn-total: 363
-   inturn-percent: 77
-   outturn-total: 433
-   outturn-percent: 81
-   draw-total: 423
-   draw-percent: 80
-   takeout-total: 373
+   games: 49
+   wins: 23
+   losses: 26
+   inturn-total: 436
+   inturn-percent: 79
+   outturn-total: 514
+   outturn-percent: 80
+   draw-total: 497
+   draw-percent: 79
+   takeout-total: 453
    takeout-percent: 79
-   shots-total: 796
+   shots-total: 950
    shots-percent: 79
 years:
  - year: 2016
@@ -86,6 +86,23 @@ years:
    takeout-percent: 79
    shots-total: 154
    shots-percent: 80
+ - year: 2022
+   event: Hearts
+   team: "PE"
+   position: Third
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 73
+   inturn-percent: 85
+   outturn-total: 81
+   outturn-percent: 72
+   draw-total: 74
+   draw-percent: 77
+   takeout-total: 80
+   takeout-percent: 79
+   shots-total: 154
+   shots-percent: 78
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -97,6 +114,7 @@ vs:
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
+ - Barker, Penny
  - Barron, Lauren
  - Baxter, Jennifer
  - Birchard, Shannon
@@ -120,11 +138,14 @@ vs:
  - Duncan, Chelsea
  - Eddy, Lori
  - Einarson, Kerri
+ - Enge, Jenna
  - Ferguson, Dana
  - Fisher, Sam
+ - Flaxey, Allison
  - Forward, Katie
  - Fyfe, Liz
  - Galusha, Kerry
+ - Gamble, Christie
  - Gates, Jennifer
  - Griffin, Alison
  - Guzzwell, Stephanie
@@ -154,6 +175,7 @@ vs:
  - Logan, Emma
  - MacCuish, Kristin
  - MacDonald, Kaitlin
+ - MacPhail, Brigitte
  - Martin, Nancy
  - McCarville, Krista
  - McEwen, Dawn
@@ -165,6 +187,7 @@ vs:
  - Murphy, Sarah
  - Nicholls, Brenda
  - Nixon, Amy
+ - Njegovan, Robyn
  - Njegovan, Selena
  - Officer, Jill
  - O'Neill, Brit
@@ -176,24 +199,27 @@ vs:
  - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Robichaud, Sylvie
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
  - Scheidegger, Casey
+ - Schmidt, Stephanie
  - Sharpe, Kelli
  - Shaw, Ladene
+ - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Strong, Helen
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Kara
  - Thompson, Karla
  - Tingley, Jaclyn

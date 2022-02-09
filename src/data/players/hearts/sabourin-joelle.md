@@ -240,12 +240,12 @@ vs:
  - Phillips, Laura
  - Phillips, Margaret Lea
  - Power, Marie-Anne
+ - Quillian, Sylvie
  - Radford, Helen
  - Renouf, Michele
  - Richard, Marie
  - Richards, Brette
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Ross, Allison
  - Sanders, Pat
  - Schmirler, Sandra

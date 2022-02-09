@@ -136,6 +136,10 @@ years:
    takeout-percent: 80
    shots-total: 156
    shots-percent: 79
+ - year: 2022
+   event: Hearts
+   team: "NT"
+   position: Alternate
 vs:
  - Adams, Melissa
  - Affleck, Tricia
@@ -185,6 +189,7 @@ vs:
  - Dykstra, Michelle
  - Einarson, Kerri
  - Einarson, Megan
+ - Enge, Jenna
  - Englot, Michelle
  - Eyamie, Lisa
  - Fesser, Kourtney
@@ -254,10 +259,10 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Price, Kara
+ - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
  - Richards, Brette
- - Robichaud, Sylvie
  - Robison, Michala
  - Rogers, Rhonda
  - Ross, Allison
@@ -277,7 +282,6 @@ vs:
  - Thiessen, Alison
  - Thomas, Jill
  - Thurston, Jill
- - Walsh, Jenna
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa

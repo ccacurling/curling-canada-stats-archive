@@ -48,8 +48,6 @@ years:
    outturn-percent: 75
    draw-total: 8
    draw-percent: 78
-   takeout-total: 0
-   takeout-percent:
    shots-total: 8
    shots-percent: 78
 vs:
@@ -90,9 +88,9 @@ vs:
  - Peters, Laine
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Richard, Marie
- - Robichaud, Sylvie
  - Sagle, Karen
  - Sippala, Ashley
  - Udle, Teri

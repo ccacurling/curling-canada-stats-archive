@@ -119,9 +119,9 @@ vs:
  - Officer, Jill
  - Overton-Clapham, Cathy
  - Peters, Laine
+ - Quillian, Sylvie
  - Renouf, Michele
  - Richard, Marie
- - Robichaud, Sylvie
  - Sabourin, Joelle
  - Scales, Julie
  - Schikowski, Keri-Lynn

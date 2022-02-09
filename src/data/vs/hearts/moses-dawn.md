@@ -886,6 +886,34 @@ vs:
       year: 2007
       draw: Round Robin(12)
       score: TR 7 - BC 12
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'TR'
+        position: Second
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2008
+      draw: Round Robin(15)
+      score: NB 8 - TR 10
  - name: Rankin, Beth
    totals:
     - event: Hearts
@@ -1098,34 +1126,6 @@ vs:
       year: 2009
       draw: Round Robin(7)
       score: TR 7 - MB 8
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 1
-        losses: 0
-      player2:
-        percent: 76
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'TR'
-        position: Second
-        percent: 73
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 76
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2008
-      draw: Round Robin(15)
-      score: NB 8 - TR 10
  - name: Ryan, Jennifer
    totals:
     - event: Hearts

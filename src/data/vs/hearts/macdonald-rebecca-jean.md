@@ -3482,34 +3482,6 @@ vs:
       year: 2014
       draw: Round Robin(3)
       score: PE 3 - TR 10
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 72
-        wins: 0
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Third
-        percent: 72
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Second
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2012
-      draw: Round Robin(1)
-      score: ON 7 - PE 6
  - name: Weagle, Lisa
    totals:
     - event: Hearts

@@ -2471,12 +2471,12 @@ vs:
     - event: Hearts
       player1:
         percent: 78
-        wins: 1
+        wins: 3
         losses: 0
       player2:
-        percent: 83
+        percent: 85
         wins: 0
-        losses: 1
+        losses: 3
    games:
     - player1:
         team: 'NT'
@@ -2494,6 +2494,38 @@ vs:
       year: 2021
       draw: Round Robin(10)
       score: NT 6 - WC 5
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(10)
+      score: NT 8 - MB 6
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Tie-Breaker(19)
+      score: MB 6 - NT 8
  - name: Letendre, Pascale
    totals:
     - event: Hearts
@@ -3490,13 +3522,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 53
-        wins: 0
+        percent: 74
+        wins: 1
         losses: 1
       player2:
-        percent: 69
+        percent: 71
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'NT'
@@ -3514,6 +3546,22 @@ vs:
       year: 2021
       draw: Round Robin(12)
       score: AB 8 - NT 3
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(18)
+      score: AB 4 - NT 7
  - name: McEwen, Dawn
    totals:
     - event: Hearts
@@ -3862,12 +3910,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 68
+        percent: 83
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 78
-        wins: 1
+        percent: 87
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -3886,6 +3934,22 @@ vs:
       year: 2021
       draw: Round Robin(8)
       score: NT 4 - CA 8
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 95
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(14)
+      score: NT 5 - CA 8
  - name: Merklinger, Anne
    totals:
     - event: Hearts
@@ -4254,12 +4318,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 85
+        percent: 82
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 75
-        wins: 0
+        percent: 64
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -4278,6 +4342,22 @@ vs:
       year: 2006
       draw: Round Robin(10)
       score: TR 9 - NB 4
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Lead
+        percent: 53
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(16)
+      score: BC 11 - NT 6
  - name: Murphy, Jeanette
    totals:
     - event: Hearts
@@ -5678,6 +5758,66 @@ vs:
       year: 2007
       draw: Round Robin(12)
       score: TR 7 - BC 12
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 77
+        wins: 1
+        losses: 2
+      player2:
+        percent: 76
+        wins: 2
+        losses: 1
+   games:
+    - player1:
+        team: 'TR'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2008
+      draw: Round Robin(15)
+      score: NB 8 - TR 10
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(6)
+      score: NB 8 - NT 7
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 69
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Playoff(20)
+      score: NT 6 - NB 8
  - name: Radchenka, Tammy
    totals:
     - event: Hearts
@@ -5806,6 +5946,34 @@ vs:
       year: 2006
       draw: Round Robin(16)
       score: TR 9 - SK 5
+ - name: Riley, Emily
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(12)
+      score: NT 7 - QC 6
  - name: Robertson, Darcy
    totals:
     - event: Hearts
@@ -5834,50 +6002,6 @@ vs:
       year: 2009
       draw: Round Robin(7)
       score: TR 7 - MB 8
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 80
-        wins: 1
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'TR'
-        position: Third
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 76
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2008
-      draw: Round Robin(15)
-      score: NB 8 - TR 10
-    - player1:
-        team: 'NT'
-        position: Fourth
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 83
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(6)
-      score: NB 8 - NT 7
  - name: Robison, Michala
    totals:
     - event: Hearts
@@ -6254,12 +6378,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 67
+        percent: 69
         wins: 0
-        losses: 5
+        losses: 6
       player2:
-        percent: 79
-        wins: 5
+        percent: 80
+        wins: 6
         losses: 0
    games:
     - player1:
@@ -6342,6 +6466,50 @@ vs:
       year: 2013
       draw: Round Robin(15)
       score: BC 9 - TR 7
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(16)
+      score: BC 11 - NT 6
+ - name: Scotland, Nadine
+   totals:
+    - event: Hearts
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 73
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(18)
+      score: AB 4 - NT 7
  - name: Scott, Kelly
    totals:
     - event: Hearts
@@ -7038,6 +7206,62 @@ vs:
       year: 2009
       draw: Round Robin(7)
       score: TR 7 - MB 8
+ - name: St-Georges, Cynthia
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 71
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 71
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(12)
+      score: NT 7 - QC 6
+ - name: St-Georges, Laurie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 69
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(12)
+      score: NT 7 - QC 6
  - name: Streifel, Tracy
    totals:
     - event: Hearts
@@ -7370,6 +7594,34 @@ vs:
       year: 2012
       draw: Round Robin(5)
       score: TR 3 - NL 8
+ - name: Strybosch, Rachelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(4)
+      score: NT 8 - ON 5
  - name: Stubbings, Tiffany
    totals:
     - event: Hearts
@@ -7418,12 +7670,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 68
+        percent: 83
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 74
-        wins: 1
+        percent: 86
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -7442,6 +7694,22 @@ vs:
       year: 2021
       draw: Round Robin(8)
       score: NT 4 - CA 8
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 98
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(14)
+      score: NT 5 - CA 8
  - name: Tanner, Ros
    totals:
     - event: Hearts
@@ -7670,13 +7938,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 81
-        wins: 1
+        percent: 83
+        wins: 2
         losses: 0
       player2:
         percent: 74
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NT'
@@ -7694,6 +7962,22 @@ vs:
       year: 2020
       draw: Round Robin(7)
       score: YT 5 - NT 9
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(8)
+      score: YT 4 - NT 13
  - name: Udle, Teri
    totals:
     - event: Hearts
@@ -7846,13 +8130,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 53
-        wins: 0
+        percent: 74
+        wins: 1
         losses: 1
       player2:
-        percent: 75
+        percent: 72
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'NT'
@@ -7870,6 +8154,22 @@ vs:
       year: 2021
       draw: Round Robin(12)
       score: AB 8 - NT 3
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(18)
+      score: AB 4 - NT 7
  - name: Wall, Kirsten
    totals:
     - event: Hearts
@@ -7898,6 +8198,34 @@ vs:
       year: 2008
       draw: Round Robin(8)
       score: TR 4 - ON 9
+ - name: Wallingham, Patty
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 52
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Third
+        percent: 52
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(8)
+      score: YT 4 - NT 13
  - name: Wasylkiw, Lauren
    totals:
     - event: Hearts
@@ -8455,12 +8783,12 @@ vs:
     - event: Hearts
       player1:
         percent: 78
-        wins: 1
+        wins: 3
         losses: 0
       player2:
-        percent: 79
+        percent: 76
         wins: 0
-        losses: 1
+        losses: 3
    games:
     - player1:
         team: 'NT'
@@ -8478,17 +8806,49 @@ vs:
       year: 2021
       draw: Round Robin(10)
       score: NT 6 - WC 5
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(10)
+      score: NT 8 - MB 6
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Tie-Breaker(19)
+      score: MB 6 - NT 8
  - name: Zacharias, Mackenzie
    totals:
     - event: Hearts
       player1:
         percent: 78
-        wins: 1
+        wins: 3
         losses: 0
       player2:
         percent: 68
         wins: 0
-        losses: 1
+        losses: 3
    games:
     - player1:
         team: 'NT'
@@ -8506,6 +8866,38 @@ vs:
       year: 2021
       draw: Round Robin(10)
       score: NT 6 - WC 5
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(10)
+      score: NT 8 - MB 6
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Tie-Breaker(19)
+      score: MB 6 - NT 8
  - name: Zinck, Kay
    totals:
     - event: Hearts

@@ -7,8 +7,6 @@ totals:
    games: 1
    wins: 1
    losses: 0
-   inturn-total: 0
-   inturn-percent:
    outturn-total: 8
    outturn-percent: 47
    draw-total: 4
@@ -25,8 +23,6 @@ years:
    games: 1
    wins: 1
    losses: 0
-   inturn-total: 0
-   inturn-percent:
    outturn-total: 8
    outturn-percent: 47
    draw-total: 4

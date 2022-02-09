@@ -98,6 +98,10 @@ years:
    takeout-percent: 60
    shots-total: 22
    shots-percent: 66
+ - year: 2022
+   event: Hearts
+   team: "SK"
+   position: Alternate
 vs:
  - Affleck, Tricia
  - Armstrong, Jacquie
@@ -124,6 +128,7 @@ vs:
  - Dolan, Sinead
  - Einarson, Megan
  - Ellis, Danielle
+ - Enge, Jenna
  - Englot, Michelle
  - Fallis, Karen
  - Filteau, Anne-Marie
@@ -198,7 +203,6 @@ vs:
  - Tran, Brittany
  - Udle, Teri
  - Vey, Lana
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Bronwen
  - Westcott, Raunora

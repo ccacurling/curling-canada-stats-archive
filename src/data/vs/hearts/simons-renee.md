@@ -30,6 +30,62 @@ vs:
       year: 2005
       draw: Round Robin(4)
       score: SK 8 - BC 5
+ - name: St-Georges, Cynthia
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 89
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(8)
+      score: QC 5 - BC 8
+ - name: St-Georges, Laurie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Fourth
+        percent: 63
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(8)
+      score: QC 5 - BC 8
  - name: Streifel, Tracy
    totals:
     - event: Hearts
@@ -282,6 +338,34 @@ vs:
       year: 2008
       draw: Round Robin(13)
       score: TR 5 - CA 10
+ - name: Sweeting, Val
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(10)
+      score: CA 10 - BC 5
  - name: Tanner, Ros
    totals:
     - event: Hearts
@@ -366,6 +450,62 @@ vs:
       year: 2006
       draw: Round Robin(11)
       score: BC 8 - MB 3
+ - name: Tippin, Julie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 80
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(12)
+      score: BC 6 - ON 9
+ - name: Tuor, Kimberly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 71
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 71
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(18)
+      score: YT 8 - BC 11
  - name: Udle, Teri
    totals:
     - event: Hearts
@@ -454,6 +594,34 @@ vs:
       year: 2007
       draw: Final(22)
       score: CA 8 - SK 5
+ - name: Walker, Laura
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(4)
+      score: BC 8 - AB 9
  - name: Wall, Kirsten
    totals:
     - event: Hearts
@@ -482,6 +650,34 @@ vs:
       year: 2008
       draw: Round Robin(1)
       score: ON 9 - CA 5
+ - name: Wallingham, Patty
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 73
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Third
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(18)
+      score: YT 8 - BC 11
  - name: Webster, Bronwen
    totals:
     - event: Hearts
@@ -642,6 +838,62 @@ vs:
       year: 2008
       draw: Round Robin(17)
       score: BC 7 - CA 8
+ - name: Zacharias, Emily
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(2)
+      score: BC 5 - MB 6
+ - name: Zacharias, Mackenzie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 0
+        losses: 1
+      player2:
+        percent: 82
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 82
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(2)
+      score: BC 5 - MB 6
  - name: Zinck, Kay
    totals:
     - event: Hearts

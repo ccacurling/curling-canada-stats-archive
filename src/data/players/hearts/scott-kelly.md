@@ -206,6 +206,7 @@ vs:
  - Dykstra, Michelle
  - Einarson, Megan
  - Ellis, Danielle
+ - Enge, Jenna
  - Englot, Michelle
  - Fallis, Karen
  - Farrell, Allison
@@ -313,11 +314,11 @@ vs:
  - Power, Marie-Anne
  - Prosser, Sandi
  - Provencal, Darah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
  - Richard, Marie
  - Ridalls, Kristen
- - Robichaud, Sylvie
  - Rocque, Raylene
  - Rogers, Rhonda
  - Ross, Allison
@@ -346,7 +347,6 @@ vs:
  - Udle, Teri
  - Vey, Lana
  - Wall, Kirsten
- - Walsh, Jenna
  - Wasylkiw, Lauren
  - Weagle, Lisa
  - Webster, Bronwen

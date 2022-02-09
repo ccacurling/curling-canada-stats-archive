@@ -461,6 +461,7 @@ vs:
  - Provencal, Darah
  - Pushkar, Diane
  - Putland, Rose
+ - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
  - Renouf, Michele
@@ -469,7 +470,6 @@ vs:
  - Ridalls, Kristen
  - Roberts, Angela
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Rocque, Raylene
  - Rogers, Rhonda
  - Ross, Allison

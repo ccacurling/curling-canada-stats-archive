@@ -58,6 +58,34 @@ vs:
       year: 2014
       draw: Round Robin(3)
       score: CA 9 - ON 3
+ - name: MacDonald, Kaitlin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 56
+        wins: 1
+        losses: 0
+      player2:
+        percent: 52
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 56
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Second
+        percent: 52
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(11)
+      score: WC 14 - NU 1
  - name: MacDonald, Rebecca Jean
    totals:
     - event: Hearts
@@ -86,6 +114,34 @@ vs:
       year: 2014
       draw: Round Robin(6)
       score: PE 7 - ON 5
+ - name: MacPhail, Brigitte
+   totals:
+    - event: Hearts
+      player1:
+        percent: 56
+        wins: 1
+        losses: 0
+      player2:
+        percent: 25
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 56
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Fourth
+        percent: 25
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(11)
+      score: WC 14 - NU 1
  - name: McDonald, Kristy
    totals:
     - event: Hearts
@@ -226,6 +282,34 @@ vs:
       year: 2014
       draw: Round Robin(10)
       score: NB 7 - ON 4
+ - name: Pinksen, Sadie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 56
+        wins: 1
+        losses: 0
+      player2:
+        percent: 52
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 56
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 52
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(11)
+      score: WC 14 - NU 1
  - name: Robison, Michala
    totals:
     - event: Hearts
@@ -450,6 +534,34 @@ vs:
       year: 2014
       draw: Round Robin(12)
       score: ON 7 - AB 5
+ - name: Taylor, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 56
+        wins: 1
+        losses: 0
+      player2:
+        percent: 69
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 56
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 69
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(11)
+      score: WC 14 - NU 1
  - name: Titheridge, Lindsay
    totals:
     - event: Hearts

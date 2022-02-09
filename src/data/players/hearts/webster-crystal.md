@@ -27,8 +27,6 @@ years:
    losses: 0
    inturn-total: 3
    inturn-percent: 50
-   outturn-total: 0
-   outturn-percent:
    draw-total: 2
    draw-percent: 75
    takeout-total: 1
@@ -91,7 +89,7 @@ vs:
  - Njegovan, Selena
  - Officer, Jill
  - Price, Kara
- - Robichaud, Sylvie
+ - Quillian, Sylvie
  - Sagle, Karen
  - Scheidegger, Casey
  - Scheidegger, Jessie

@@ -51,6 +51,7 @@ vs:
  - Cooper, Kathryn
  - Courtney, Joanne
  - Cunningham, Jessica
+ - Enge, Jenna
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Fleury, Tracy
@@ -72,15 +73,14 @@ vs:
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Rourke, Brittany
+ - Quillian, Sylvie
  - Richard, Marie
- - Robichaud, Sylvie
  - Schmidt, Stephanie
  - Smith, Stacey
  - Snyder, Jane
  - Strong, Heather
  - Sweeting, Val
  - Trombley, Christy
- - Walsh, Jenna
  - Weagle, Lisa
  - Wylie, Jennifer
 ---

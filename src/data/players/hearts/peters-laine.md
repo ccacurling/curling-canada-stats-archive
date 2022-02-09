@@ -231,6 +231,7 @@ vs:
  - Dufresne, Audree
  - Dykstra, Michelle
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Eyamie, Lisa
  - Filteau, Anne-Marie
@@ -334,13 +335,13 @@ vs:
  - Pinkney, Colleen
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Reed, Shellan
  - Renouf, Michele
  - Richard, Marie
  - Richards, Brette
- - Robichaud, Sylvie
  - Ross, Allison
  - Sabourin, Joelle
  - Sagle, Karen
@@ -372,7 +373,6 @@ vs:
  - Vautour, Carrie
  - Vey, Lana
  - Wall, Kirsten
- - Walsh, Jenna
  - Walter, Cathy
  - Wasylkiw, Lauren
  - Wazney, Sarah

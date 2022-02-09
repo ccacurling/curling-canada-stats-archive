@@ -1570,6 +1570,34 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: NL 3 - NO 6
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 91
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Pool(18)
+      score: NB 8 - NL 4
  - name: Richards, Brette
    totals:
     - event: Hearts
@@ -1626,34 +1654,6 @@ vs:
       year: 2020
       draw: Round Robin(6)
       score: NT 14 - NL 2
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 91
-        wins: 0
-        losses: 1
-      player2:
-        percent: 83
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NL'
-        position: Lead
-        percent: 91
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 83
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Pool(18)
-      score: NB 8 - NL 4
  - name: Sagle, Karen
    totals:
     - event: Hearts

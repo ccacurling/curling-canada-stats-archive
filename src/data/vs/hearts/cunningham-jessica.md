@@ -114,6 +114,34 @@ vs:
       year: 2014
       draw: Round Robin(5)
       score: NL 6 - TR 5
+ - name: Enge, Jenna
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(9)
+      score: NL 6 - NO 4
  - name: Ferguson, Dana
    totals:
     - event: Hearts
@@ -1094,6 +1122,34 @@ vs:
       year: 2015
       draw: Round Robin(14)
       score: BC 7 - NL 10
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(3)
+      score: NB 4 - NL 5
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -1116,34 +1172,6 @@ vs:
         team: 'NB'
         position: Second
         percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(3)
-      score: NB 4 - NL 5
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 1
-        losses: 0
-      player2:
-        percent: 74
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NL'
-        position: Second
-        percent: 73
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 74
         win: 0
         loss: 1
       event: Hearts
@@ -1642,34 +1670,6 @@ vs:
       year: 2014
       draw: Round Robin(5)
       score: NL 6 - TR 5
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 70
-        wins: 1
-        losses: 0
-      player2:
-        percent: 70
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NL'
-        position: Second
-        percent: 70
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Second
-        percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(9)
-      score: NL 6 - NO 4
  - name: Weagle, Lisa
    totals:
     - event: Hearts

@@ -311,6 +311,7 @@ vs:
  - Earl, Allison
  - Eddy, Lori
  - Ellwood, Laurie
+ - Enge, Jenna
  - Englot, Michelle
  - Erickson, Judy
  - Fahlman, Kathy
@@ -525,7 +526,6 @@ vs:
  - Vey, Lana
  - Walker, Lisa
  - Wallingham, Patty
- - Walsh, Jenna
  - Walter, Cathy
  - Weagle, Lisa
  - Wheatcroft, Georgina

@@ -1,7 +1,91 @@
 ---
-title: Sylvie Robichaud Head-to-head
-name: Robichaud, Sylvie
+title: Sylvie Quillian Head-to-head
+name: Quillian, Sylvie
 vs:
+ - name: Rainville, Julie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(14)
+      score: NB 6 - QC 5
+ - name: Recksiedler, Kristen
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Round Robin(15)
+      score: NB 5 - BC 7
+ - name: Rizzo, Jo-Ann
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 69
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Playoff(20)
+      score: NT 6 - NB 8
  - name: Rusnell, Jen
    totals:
     - event: Hearts
@@ -90,12 +174,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 70
+        percent: 68
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 81
-        wins: 1
+        percent: 82
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -114,6 +198,22 @@ vs:
       year: 2015
       draw: Round Robin(15)
       score: NB 4 - SK 9
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 82
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(17)
+      score: NB 3 - WC 10
  - name: Schraeder, Jeanna
    totals:
     - event: Hearts
@@ -170,6 +270,62 @@ vs:
       year: 2008
       draw: Round Robin(10)
       score: CA 7 - NB 3
+ - name: Sharpe, Kelli
+   totals:
+    - event: Hearts
+      player1:
+        percent: 77
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 77
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(15)
+      score: NL 5 - NB 10
+ - name: Sicinski, Danielle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 76
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(9)
+      score: NB 6 - SK 4
  - name: Simmons, Cindy
    totals:
     - event: Hearts
@@ -230,12 +386,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 66
+        percent: 75
         wins: 0
-        losses: 1
+        losses: 3
       player2:
         percent: 88
-        wins: 1
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -254,6 +410,38 @@ vs:
       year: 2016
       draw: Round Robin(2)
       score: NO 6 - NB 3
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 77
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(13)
+      score: NO 8 - NB 7
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Page 1-2(23)
+      score: NO 9 - NB 8
  - name: Smallwood, Jody
    totals:
     - event: Hearts
@@ -442,13 +630,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 66
-        wins: 0
-        losses: 1
-      player2:
-        percent: 86
+        percent: 72
         wins: 1
-        losses: 0
+        losses: 2
+      player2:
+        percent: 82
+        wins: 2
+        losses: 1
    games:
     - player1:
         team: 'NB'
@@ -466,6 +654,66 @@ vs:
       year: 2015
       draw: Round Robin(5)
       score: AB 10 - NB 4
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Playoff(21)
+      score: CA 6 - NB 8
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Semi-Final(24)
+      score: NB 4 - CA 8
+ - name: Taylor, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(5)
+      score: NB 6 - NU 3
  - name: Thompson, Karla
    totals:
     - event: Hearts
@@ -678,50 +926,6 @@ vs:
       year: 2008
       draw: Round Robin(14)
       score: ON 7 - NB 5
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 1
-        losses: 1
-      player2:
-        percent: 92
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 78
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Second
-        percent: 94
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2015
-      draw: Round Robin(8)
-      score: NO 8 - NB 4
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 79
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Second
-        percent: 90
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Round Robin(4)
-      score: NO 5 - NB 8
  - name: Weagle, Lisa
    totals:
     - event: Hearts
@@ -838,13 +1042,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 66
-        wins: 0
+        percent: 78
+        wins: 1
         losses: 1
       player2:
-        percent: 100
+        percent: 84
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'NB'
@@ -862,6 +1066,22 @@ vs:
       year: 2015
       draw: Round Robin(5)
       score: AB 10 - NB 4
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(3)
+      score: WC 2 - NB 7
  - name: Williamson, Ashley
    totals:
     - event: Hearts

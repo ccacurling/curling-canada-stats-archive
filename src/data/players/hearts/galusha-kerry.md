@@ -4,19 +4,19 @@ name: Kerry Galusha
 name-sort: Galusha, Kerry
 totals:
  - event: Hearts
-   games: 139
-   wins: 41
-   losses: 98
-   inturn-total: 1419
-   inturn-percent: 70
-   outturn-total: 1180
+   games: 149
+   wins: 47
+   losses: 102
+   inturn-total: 1594
+   inturn-percent: 71
+   outturn-total: 1199
    outturn-percent: 71
-   draw-total: 1323
-   draw-percent: 69
-   takeout-total: 1276
+   draw-total: 1488
+   draw-percent: 71
+   takeout-total: 1305
    takeout-percent: 71
-   shots-total: 2599
-   shots-percent: 70
+   shots-total: 2793
+   shots-percent: 71
 years:
  - year: 1998
    event: Hearts
@@ -310,6 +310,23 @@ years:
    takeout-percent: 73
    shots-total: 152
    shots-percent: 72
+ - year: 2022
+   event: Hearts
+   team: "NT"
+   position: Lead
+   games: 10
+   wins: 6
+   losses: 4
+   inturn-total: 175
+   inturn-percent: 83
+   outturn-total: 19
+   outturn-percent: 79
+   draw-total: 165
+   draw-percent: 84
+   takeout-total: 29
+   takeout-percent: 77
+   shots-total: 194
+   shots-percent: 83
 vs:
  - Adams, Melissa
  - Affleck, Tricia
@@ -317,6 +334,7 @@ vs:
  - Aleksic, Shannon
  - Allen, Michelle
  - Anderson, Sherry
+ - Armstrong, Hailey
  - Armstrong, Jacquie
  - Armstrong, Jennifer
  - Arnott, Janet
@@ -329,7 +347,9 @@ vs:
  - Baker, Michelle
  - Balderston, Marcy
  - Baldwin, Nicole
+ - Balsdon, Megan
  - Barker, Penny
+ - Barker, Shelley
  - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belanger, Nancy
@@ -341,6 +361,7 @@ vs:
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
+ - Bobbie, Tess
  - Bradley, Shelley
  - Brassard, Veronique
  - Breen, Theresa
@@ -359,6 +380,7 @@ vs:
  - Cameron, Kate
  - Cameron, Nancy
  - Campbell, Jolene
+ - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carrier, Julie
@@ -392,11 +414,13 @@ vs:
  - Dolan, Sinead
  - Dufresne, Audree
  - Duncan, Chelsea
+ - Duncan, Hollie
  - Duncan, Jenna
  - Dykstra, Michelle
  - Einarson, Kerri
  - Englot, Michelle
  - Enright, Barb
+ - Everist, Karlee
  - Eyamie, Lisa
  - Fallis, Karen
  - Farrell, Allison
@@ -539,12 +563,13 @@ vs:
  - Price, Kara
  - Prosser, Sandi
  - Provencal, Darah
+ - Quillian, Sylvie
  - Radchenka, Tammy
  - Richard, Marie
  - Richards, Brette
  - Ridalls, Kristen
+ - Riley, Emily
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Robison, Michala
  - Rocque, Raylene
  - Ross, Allison
@@ -557,6 +582,7 @@ vs:
  - Schneider, Lorraine
  - Schneider, Tammy
  - Schraeder, Jeanna
+ - Scotland, Nadine
  - Scott, Kelly
  - Sharpe, Kelli
  - Shaw, Ladene
@@ -575,11 +601,14 @@ vs:
  - Sobey, Lianne
  - Sonnenberg, Renee
  - Spencer, Barb
+ - St-Georges, Cynthia
+ - St-Georges, Laurie
  - Streifel, Tracy
  - Stricker, Joan
  - Strong, Heather
  - Strong, Helen
  - Strong, Laura
+ - Strybosch, Rachelle
  - Stubbings, Tiffany
  - Sweeting, Val
  - Tanner, Ros
@@ -596,6 +625,7 @@ vs:
  - Vey, Lana
  - Walker, Laura
  - Wall, Kirsten
+ - Wallingham, Patty
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa

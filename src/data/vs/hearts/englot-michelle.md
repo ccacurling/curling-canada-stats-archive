@@ -4930,6 +4930,34 @@ vs:
       year: 1989
       draw: Round Robin(13)
       score: MB 7 - SK 6
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 1
+        losses: 0
+      player2:
+        percent: 72
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 68
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2008
+      draw: Round Robin(6)
+      score: SK 10 - NB 5
  - name: Radchenka, Tammy
    totals:
     - event: Hearts
@@ -5154,34 +5182,6 @@ vs:
       year: 1988
       draw: Round Robin(11)
       score: SK 5 - MB 3
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 68
-        wins: 1
-        losses: 0
-      player2:
-        percent: 72
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 68
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 72
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2008
-      draw: Round Robin(6)
-      score: SK 10 - NB 5
  - name: Rudd, Colleen
    totals:
     - event: Hearts
@@ -6954,34 +6954,6 @@ vs:
       year: 2008
       draw: Round Robin(3)
       score: SK 4 - ON 7
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 96
-        wins: 1
-        losses: 0
-      player2:
-        percent: 61
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 96
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Second
-        percent: 61
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2012
-      draw: Round Robin(8)
-      score: SK 10 - ON 3
  - name: Weagle, Lisa
    totals:
     - event: Hearts

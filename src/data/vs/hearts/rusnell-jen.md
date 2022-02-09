@@ -254,34 +254,6 @@ vs:
       year: 2015
       draw: Round Robin(9)
       score: ON 9 - BC 4
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 0
-        losses: 1
-      player2:
-        percent: 75
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'BC'
-        position: Second
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Second
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2015
-      draw: Round Robin(11)
-      score: BC 5 - NO 7
  - name: Weagle, Lisa
    totals:
     - event: Hearts

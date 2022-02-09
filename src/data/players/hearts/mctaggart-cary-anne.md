@@ -76,6 +76,7 @@ vs:
  - Devereaux, Julie
  - Duncan, Hollie
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Ferguson, Dana
  - Fleury, Tracy
@@ -130,7 +131,6 @@ vs:
  - Van Osch, Kesa
  - Van Osch, Marika
  - Vautour, Carrie
- - Walsh, Jenna
  - Wark, Sarah
  - Weagle, Lisa
  - Webster, Crystal

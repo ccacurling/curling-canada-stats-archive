@@ -1414,6 +1414,34 @@ vs:
       year: 2020
       draw: Round Robin(2)
       score: NL 6 - YT 3
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 66
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(14)
+      score: NB 6 - YT 3
  - name: Rizzo, Jo-Ann
    totals:
     - event: Hearts
@@ -1442,34 +1470,6 @@ vs:
       year: 2020
       draw: Round Robin(7)
       score: YT 5 - NT 9
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 66
-        wins: 0
-        losses: 1
-      player2:
-        percent: 88
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'YT'
-        position: Fourth
-        percent: 66
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(14)
-      score: NB 6 - YT 3
  - name: Robison, Michala
    totals:
     - event: Hearts

@@ -442,6 +442,34 @@ vs:
       year: 1991
       draw: Round Robin(15)
       score: TR 6 - MB 8
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2008
+      draw: Round Robin(2)
+      score: MB 10 - NB 4
  - name: Rainville, Julie
    totals:
     - event: Hearts
@@ -730,34 +758,6 @@ vs:
       year: 2009
       draw: Round Robin(5)
       score: MB 5 - CA 12
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 89
-        wins: 1
-        losses: 0
-      player2:
-        percent: 67
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MB'
-        position: Third
-        percent: 89
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 67
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2008
-      draw: Round Robin(2)
-      score: MB 10 - NB 4
  - name: Rocque, Raylene
    totals:
     - event: Hearts

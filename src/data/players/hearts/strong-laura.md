@@ -207,6 +207,7 @@ vs:
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
+ - Enge, Jenna
  - Englot, Michelle
  - Enright, Barb
  - Farrell, Allison
@@ -314,12 +315,12 @@ vs:
  - Power, Marie-Anne
  - Prosser, Sandi
  - Provencal, Darah
+ - Quillian, Sylvie
  - Radchenka, Tammy
  - Richard, Marie
  - Richards, Brette
  - Ridalls, Kristen
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Robison, Michala
  - Rocque, Raylene
  - Ross, Allison
@@ -361,7 +362,6 @@ vs:
  - Vey, Lana
  - Wall, Kirsten
  - Wallingham, Patty
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Bronwen
  - Wheatcroft, Georgina

@@ -122,6 +122,7 @@ vs:
  - Cunningham, Jessica
  - Davies, Lisa
  - Duncan, Chelsea
+ - Enge, Jenna
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Flaxey, Allison
@@ -147,8 +148,8 @@ vs:
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Rourke, Brittany
+ - Quillian, Sylvie
  - Richard, Marie
- - Robichaud, Sylvie
  - Ross, Allison
  - Schmidt, Stephanie
  - Sinclair, Andrea
@@ -161,7 +162,6 @@ vs:
  - Trombley, Christy
  - Tuck, Kim
  - Wallingham, Patty
- - Walsh, Jenna
  - Weagle, Lisa
  - Wylie, Jennifer
 ---

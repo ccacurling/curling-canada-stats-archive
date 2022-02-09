@@ -65,8 +65,6 @@ years:
    outturn-percent: 63
    draw-total: 6
    draw-percent: 67
-   takeout-total: 0
-   takeout-percent:
    shots-total: 6
    shots-percent: 67
  - year: 2015
@@ -82,8 +80,6 @@ years:
    outturn-percent: 88
    draw-total: 6
    draw-percent: 71
-   takeout-total: 0
-   takeout-percent:
    shots-total: 6
    shots-percent: 71
  - year: 2015
@@ -98,8 +94,6 @@ years:
    outturn-percent: 75
    draw-total: 12
    draw-percent: 69
-   takeout-total: 0
-   takeout-percent:
    shots-total: 12
    shots-percent: 69
 vs:
@@ -123,6 +117,7 @@ vs:
  - Darbyshire, Carolyn
  - Delahunt, Nancy
  - Derick, Catherine
+ - Enge, Jenna
  - Englot, Michelle
  - Ferguson, Dana
  - Fleury, Tracy
@@ -167,8 +162,8 @@ vs:
  - Peters, Laine
  - Power, Marie-Anne
  - Provencal, Darah
+ - Quillian, Sylvie
  - Richard, Marie
- - Robichaud, Sylvie
  - Sabourin, Joelle
  - Schraeder, Jeanna
  - Scott, Kelly
@@ -183,7 +178,6 @@ vs:
  - Udle, Teri
  - Vey, Lana
  - Wall, Kirsten
- - Walsh, Jenna
  - Webster, Bronwen
  - Wheatcroft, Georgina
  - Wilkes, Sarah

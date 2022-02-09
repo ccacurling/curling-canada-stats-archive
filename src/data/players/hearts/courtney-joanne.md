@@ -4,18 +4,18 @@ name: Joanne Courtney
 name-sort: Courtney, Joanne
 totals:
  - event: Hearts
-   games: 82
-   wins: 61
-   losses: 21
-   inturn-total: 844
+   games: 90
+   wins: 65
+   losses: 25
+   inturn-total: 907
    inturn-percent: 84
-   outturn-total: 709
+   outturn-total: 792
    outturn-percent: 82
-   draw-total: 719
-   draw-percent: 82
-   takeout-total: 834
+   draw-total: 839
+   draw-percent: 83
+   takeout-total: 860
    takeout-percent: 84
-   shots-total: 1553
+   shots-total: 1699
    shots-percent: 83
 years:
  - year: 2014
@@ -120,13 +120,32 @@ years:
    takeout-percent: 68
    shots-total: 238
    shots-percent: 83
+ - year: 2022
+   event: Hearts
+   team: "WC"
+   position: Lead
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 63
+   inturn-percent: 90
+   outturn-total: 83
+   outturn-percent: 80
+   draw-total: 120
+   draw-percent: 87
+   takeout-total: 26
+   takeout-percent: 70
+   shots-total: 146
+   shots-percent: 84
 vs:
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Anderson, Sherry
  - Armstrong, Hailey
+ - Armstrong, Jennifer
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
+ - Babin, Jillian
  - Baier, Stephanie
  - Barbour, Shona
  - Barker, Penny
@@ -150,6 +169,7 @@ vs:
  - Burns, Krysta
  - Cameron, Kate
  - Camozzi, Rhonda
+ - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
  - Christianson, Marie
@@ -175,6 +195,7 @@ vs:
  - Dolan, Sinead
  - Duncan, Chelsea
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Eyamie, Lisa
  - Ferguson, Dana
@@ -182,10 +203,12 @@ vs:
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy
+ - Forward, Katie
  - Foster, Kristen
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
+ - Gamble, Christie
  - Gannon, Melissa
  - Gates, Amanda
  - Gates, Jennifer
@@ -195,6 +218,7 @@ vs:
  - Hastings, Julie
  - Haughian, Jessie
  - Hawes, Dezaray
+ - Hill, Sarah
  - Hill, Trish
  - Homan, Rachel
  - Hughes, Meaghan
@@ -220,7 +244,9 @@ vs:
  - Loder, Jenna
  - Logan, Emma
  - MacCuish, Kristin
+ - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
+ - MacPhail, Brigitte
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
@@ -234,11 +260,13 @@ vs:
  - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Meilleur, Briane
+ - Mercer, Adrienne
  - Miskew, Emma
  - Moore, Kristie
  - Munroe, Anna
  - Murphy, Sarah
  - Nixon, Amy
+ - Njegovan, Robyn
  - Njegovan, Selena
  - Nugent, Pamela
  - Officer, Jill
@@ -254,12 +282,12 @@ vs:
  - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Reid, Jackie
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Robichaud, Sylvie
  - Robison, Michala
  - Ross, Allison
  - Rusnell, Jen
@@ -269,6 +297,7 @@ vs:
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schneider, Lorraine
+ - Sharpe, Kelli
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sinclair, Andrea
@@ -283,6 +312,7 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Kara
  - Thiessen, Alison
  - Thomas-Kennell, Noelle
@@ -294,7 +324,6 @@ vs:
  - Van Osch, Kesa
  - Walker, Laura
  - Wallingham, Patty
- - Walsh, Jenna
  - Wark, Sarah
  - Weagle, Lisa
  - Westcott, Raunora

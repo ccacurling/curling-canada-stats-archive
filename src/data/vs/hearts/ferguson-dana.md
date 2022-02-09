@@ -834,6 +834,34 @@ vs:
       year: 2014
       draw: Round Robin(5)
       score: AB 5 - NS 4
+ - name: Karwacki, Krysten
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(8)
+      score: CA 10 - AB 5
  - name: Kasner, Marliese
    totals:
     - event: Hearts
@@ -1852,10 +1880,10 @@ vs:
       player1:
         percent: 72
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 93
-        wins: 1
+        percent: 92
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1874,6 +1902,22 @@ vs:
       year: 2020
       draw: Round Robin(7)
       score: MB 6 - CA 5
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(8)
+      score: CA 10 - AB 5
  - name: Miskew, Emma
    totals:
     - event: Hearts
@@ -2442,6 +2486,34 @@ vs:
       year: 2019
       draw: Round Robin(5)
       score: NO 6 - AB 7
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(5)
+      score: AB 10 - NB 4
  - name: Reid, Jackie
    totals:
     - event: Hearts
@@ -2492,34 +2564,6 @@ vs:
         team: 'NB'
         position: Second
         percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(5)
-      score: AB 10 - NB 4
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 1
-        losses: 0
-      player2:
-        percent: 66
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Second
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 66
         win: 0
         loss: 1
       event: Hearts
@@ -3204,10 +3248,10 @@ vs:
       player1:
         percent: 72
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 86
-        wins: 1
+        percent: 88
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -3226,6 +3270,22 @@ vs:
       year: 2020
       draw: Round Robin(7)
       score: MB 6 - CA 5
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(8)
+      score: CA 10 - AB 5
  - name: Thevenot, Kara
    totals:
     - event: Hearts
@@ -3386,6 +3446,34 @@ vs:
       year: 2015
       draw: Round Robin(13)
       score: ON 5 - AB 8
+ - name: Tuor, Kimberly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 90
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(10)
+      score: AB 11 - YT 5
  - name: Udle, Teri
    totals:
     - event: Hearts
@@ -3502,13 +3590,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 76
-        wins: 1
+        percent: 79
+        wins: 2
         losses: 0
       player2:
-        percent: 70
+        percent: 72
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'AB'
@@ -3526,34 +3614,22 @@ vs:
       year: 2014
       draw: Round Robin(1)
       score: TR 5 - AB 7
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 1
-        losses: 0
-      player2:
-        percent: 84
-        wins: 0
-        losses: 1
-   games:
     - player1:
         team: 'AB'
-        position: Second
-        percent: 79
+        position: Lead
+        percent: 94
         win: 1
         loss: 0
       player2:
-        team: 'NO'
+        team: 'YT'
         position: Second
-        percent: 84
+        percent: 75
         win: 0
         loss: 1
       event: Hearts
-      year: 2015
-      draw: Round Robin(2)
-      score: AB 6 - NO 4
+      year: 2022
+      draw: Round Robin(10)
+      score: AB 11 - YT 5
  - name: Wark, Sarah
    totals:
     - event: Hearts

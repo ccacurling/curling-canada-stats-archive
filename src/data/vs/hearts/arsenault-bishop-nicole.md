@@ -534,6 +534,34 @@ vs:
       year: 2018
       draw: Round Robin(2)
       score: WC 8 - NB 6
+ - name: Enge, Jenna
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 90
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Second
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 90
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Round Robin(4)
+      score: NO 5 - NB 8
  - name: Fesser, Kourtney
    totals:
     - event: Hearts
@@ -1726,34 +1754,6 @@ vs:
       year: 2021
       draw: Round Robin(19)
       score: NB 7 - QC 9
- - name: Walsh, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 1
-        losses: 0
-      player2:
-        percent: 90
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Second
-        percent: 79
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Second
-        percent: 90
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Round Robin(4)
-      score: NO 5 - NB 8
  - name: Weagle, Lisa
    totals:
     - event: Hearts

@@ -220,11 +220,11 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Potts, Sarah
+ - Quillian, Sylvie
  - Rankin, Heather
  - Reed, Shellan
  - Richard, Marie
  - Roberts, Angela
- - Robichaud, Sylvie
  - Sabourin, Joelle
  - Schmirler, Sandra
  - Schneider, Kim

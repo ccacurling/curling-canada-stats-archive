@@ -330,6 +330,7 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Power, Marie-Anne
+ - Quillian, Sylvie
  - Radchenka, Tammy
  - Recksiedler, Kristen
  - Reed, Shellan
@@ -337,7 +338,6 @@ vs:
  - Richard, Marie
  - Richards, Brette
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Ross, Allison
  - Sagle, Karen
  - Sanders, Pat

@@ -2,6 +2,66 @@
 title: Sarah Potts Head-to-head
 name: Potts, Sarah
 vs:
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 3
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 3
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(2)
+      score: NO 6 - NB 3
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 77
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(13)
+      score: NO 8 - NB 7
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 82
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Page 1-2(23)
+      score: NO 9 - NB 8
  - name: Rainville, Julie
    totals:
     - event: Hearts
@@ -130,34 +190,6 @@ vs:
       year: 2017
       draw: Round Robin(10)
       score: NO 8 - BC 3
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 1
-        losses: 0
-      player2:
-        percent: 66
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 66
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(2)
-      score: NO 6 - NB 3
  - name: Rusnell, Jen
    totals:
     - event: Hearts
@@ -298,6 +330,34 @@ vs:
       year: 2019
       draw: Pool(17)
       score: NO 7 - WC 5
+ - name: Schmidt, Stephanie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 57
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 57
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(1)
+      score: NO 7 - WC 3
  - name: Schneider, Lorraine
    totals:
     - event: Hearts
@@ -326,17 +386,45 @@ vs:
       year: 2017
       draw: Round Robin(5)
       score: NO 8 - SK 3
+ - name: Sharpe, Kelli
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(11)
+      score: NL 8 - NO 5
  - name: Sicinski, Danielle
    totals:
     - event: Hearts
       player1:
-        percent: 88
-        wins: 1
+        percent: 84
+        wins: 2
         losses: 0
       player2:
-        percent: 92
+        percent: 85
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NO'
@@ -354,6 +442,22 @@ vs:
       year: 2017
       draw: Round Robin(5)
       score: NO 8 - SK 3
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(15)
+      score: SK 2 - NO 6
  - name: Silvernagle, Robyn
    totals:
     - event: Hearts
@@ -382,6 +486,62 @@ vs:
       year: 2019
       draw: Pool(16)
       score: SK 11 - NO 5
+ - name: Sweeting, Val
+   totals:
+    - event: Hearts
+      player1:
+        percent: 95
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 95
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Final(25)
+      score: NO 6 - CA 9
+ - name: Taylor, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 66
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(9)
+      score: NU 6 - NO 7
  - name: Thevenot, Kara
    totals:
     - event: Hearts
@@ -732,10 +892,10 @@ vs:
       player1:
         percent: 82
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 86
-        wins: 2
+        percent: 88
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -770,6 +930,22 @@ vs:
       year: 2019
       draw: Round Robin(5)
       score: NO 6 - AB 7
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 93
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(5)
+      score: NO 5 - WC 8
  - name: Williamson, Ashley
    totals:
     - event: Hearts

@@ -73,6 +73,7 @@ vs:
  - Curtis, Stacie
  - Devereaux, Julie
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Fleury, Tracy
  - Fullerton, Sarah
@@ -108,10 +109,10 @@ vs:
  - Peters, Laine
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
- - Robichaud, Sylvie
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Shackleton, Amie
@@ -123,7 +124,6 @@ vs:
  - Van Osch, Kesa
  - Van Osch, Marika
  - Vautour, Carrie
- - Walsh, Jenna
  - Webster, Crystal
  - West, Christianne
  - Westcott, Raunora

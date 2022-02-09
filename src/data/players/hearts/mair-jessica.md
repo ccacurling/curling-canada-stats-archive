@@ -77,6 +77,7 @@ vs:
  - Dolan, Sinead
  - Dufresne, Audree
  - Dykstra, Michelle
+ - Enge, Jenna
  - Englot, Michelle
  - Filteau, Anne-Marie
  - Fleury, Tracy
@@ -124,7 +125,6 @@ vs:
  - Strong, Laura
  - Udle, Teri
  - Vey, Lana
- - Walsh, Jenna
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa

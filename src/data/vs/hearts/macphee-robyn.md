@@ -2258,6 +2258,50 @@ vs:
       year: 2007
       draw: Round Robin(9)
       score: BC 7 - PE 8
+ - name: Quillian, Sylvie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 82
+        wins: 1
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 65
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 94
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2008
+      draw: Round Robin(4)
+      score: NB 9 - PE 2
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(5)
+      score: PE 9 - NB 8
  - name: Rainville, Julie
    totals:
     - event: Hearts
@@ -2446,50 +2490,6 @@ vs:
       year: 2009
       draw: Round Robin(12)
       score: PE 9 - MB 2
- - name: Robichaud, Sylvie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 82
-        wins: 1
-        losses: 1
-      player2:
-        percent: 90
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Third
-        percent: 65
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 94
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2008
-      draw: Round Robin(4)
-      score: NB 9 - PE 2
-    - player1:
-        team: 'PE'
-        position: Third
-        percent: 92
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 88
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(5)
-      score: PE 9 - NB 8
  - name: Rocque, Raylene
    totals:
     - event: Hearts

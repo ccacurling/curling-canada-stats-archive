@@ -282,13 +282,13 @@ vs:
  - Pinkney, Colleen
  - Poisson, Francine
  - Power, Marie-Anne
+ - Quillian, Sylvie
  - Ramsay, Jennifer
  - Reed, Shellan
  - Richard, Marie
  - Richards, Brette
  - Rintoul, Jacki
  - Robertson, Darcy
- - Robichaud, Sylvie
  - Robinson, Lori
  - Sabourin, Joelle
  - Sanders, Pat

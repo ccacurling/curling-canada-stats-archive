@@ -142,6 +142,7 @@ vs:
  - Duncan, Chelsea
  - Dykstra, Michelle
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Ferguson, Dana
  - Filteau, Anne-Marie
@@ -250,7 +251,6 @@ vs:
  - Vautour, Carrie
  - Vey, Lana
  - Wallingham, Patty
- - Walsh, Jenna
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa

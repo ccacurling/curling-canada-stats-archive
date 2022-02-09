@@ -31,8 +31,6 @@ years:
    outturn-percent: 100
    draw-total: 2
    draw-percent: 100
-   takeout-total: 0
-   takeout-percent:
    shots-total: 2
    shots-percent: 100
  - year: 2017
@@ -44,12 +42,8 @@ years:
    losses: 0
    inturn-total: 2
    inturn-percent: 100
-   outturn-total: 0
-   outturn-percent:
    draw-total: 2
    draw-percent: 100
-   takeout-total: 0
-   takeout-percent:
    shots-total: 2
    shots-percent: 100
  - year: 2018
@@ -93,12 +87,8 @@ years:
    games: 1
    wins: 1
    losses: 0
-   inturn-total: 0
-   inturn-percent:
    outturn-total: 2
    outturn-percent: 75
-   draw-total: 0
-   draw-percent:
    takeout-total: 2
    takeout-percent: 75
    shots-total: 2
@@ -110,12 +100,8 @@ years:
    games: 1
    wins: 1
    losses: 0
-   inturn-total: 0
-   inturn-percent:
    outturn-total: 2
    outturn-percent: 88
-   draw-total: 0
-   draw-percent:
    takeout-total: 2
    takeout-percent: 88
    shots-total: 2
@@ -126,12 +112,8 @@ years:
    games: 2
    wins: 2
    losses: 0
-   inturn-total: 0
-   inturn-percent:
    outturn-total: 4
    outturn-percent: 81
-   draw-total: 0
-   draw-percent:
    takeout-total: 4
    takeout-percent: 81
    shots-total: 4
@@ -160,6 +142,7 @@ vs:
  - Devereaux, Julie
  - Duncan, Chelsea
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Fleury, Tracy
  - Fullerton, Sarah
@@ -201,7 +184,6 @@ vs:
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
- - Walsh, Jenna
  - Wark, Sarah
  - Webster, Crystal
  - West, Christianne

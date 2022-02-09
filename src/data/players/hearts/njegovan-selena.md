@@ -4,19 +4,19 @@ name: Selena Njegovan
 name-sort: Njegovan, Selena
 totals:
  - event: Hearts
-   games: 47
-   wins: 27
-   losses: 20
-   inturn-total: 437
-   inturn-percent: 82
-   outturn-total: 455
+   games: 57
+   wins: 34
+   losses: 23
+   inturn-total: 529
+   inturn-percent: 81
+   outturn-total: 549
    outturn-percent: 82
-   draw-total: 334
-   draw-percent: 79
-   takeout-total: 558
+   draw-total: 409
+   draw-percent: 78
+   takeout-total: 669
    takeout-percent: 83
-   shots-total: 892
-   shots-percent: 82
+   shots-total: 1078
+   shots-percent: 81
 years:
  - year: 2016
    event: Hearts
@@ -86,14 +86,67 @@ years:
    takeout-percent: 79
    shots-total: 222
    shots-percent: 80
+ - year: 2022
+   event: Hearts
+   team: "WC"
+   position: Third
+   games: 3
+   wins: 1
+   losses: 2
+   inturn-total: 30
+   inturn-percent: 78
+   outturn-total: 26
+   outturn-percent: 68
+   draw-total: 25
+   draw-percent: 66
+   takeout-total: 31
+   takeout-percent: 79
+   shots-total: 56
+   shots-percent: 73
+ - year: 2022
+   event: Hearts
+   team: "WC"
+   position: Fourth
+   games: 7
+   wins: 6
+   losses: 1
+   inturn-total: 62
+   inturn-percent: 77
+   outturn-total: 68
+   outturn-percent: 84
+   draw-total: 50
+   draw-percent: 76
+   takeout-total: 80
+   takeout-percent: 84
+   shots-total: 130
+   shots-percent: 81
+ - year: 2022
+   event: Hearts
+   team: Totals
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 92
+   inturn-percent: 77
+   outturn-total: 94
+   outturn-percent: 80
+   draw-total: 75
+   draw-percent: 73
+   takeout-total: 111
+   takeout-percent: 82
+   shots-total: 186
+   shots-percent: 78
 vs:
  - Adams, Melissa
  - Anderson, Sherry
  - Armstrong, Hailey
+ - Armstrong, Jennifer
  - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
+ - Babin, Jillian
  - Barbour, Shona
+ - Barker, Penny
  - Barron, Lauren
  - Baxter, Jennifer
  - Birchard, Shannon
@@ -113,6 +166,7 @@ vs:
  - Carmody, Erin
  - Christianson, Marie
  - Courtney, Joanne
+ - Crawford, Andrea
  - Crouse, Jennifer
  - Curtis, Stacie
  - Daigle, Julie
@@ -123,13 +177,17 @@ vs:
  - Duncan, Jenna
  - Eddy, Lori
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
  - Fisher, Sam
+ - Flaxey, Allison
  - Fleury, Tracy
+ - Forward, Katie
  - Galusha, Kerry
+ - Gamble, Christie
  - Gates, Amanda
  - Gates, Jennifer
  - Gibson, Amy
@@ -162,6 +220,7 @@ vs:
  - Lister, Kendra
  - Loder, Jenna
  - MacDonald, Kaitlin
+ - MacPhail, Brigitte
  - MacPhee, Robyn
  - Martin, Nancy
  - McCarville, Krista
@@ -188,21 +247,25 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Price, Kara
+ - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Riley, Emily
- - Robichaud, Sylvie
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
  - Scheidegger, Casey
  - Scheidegger, Jessie
+ - Schmidt, Stephanie
+ - Sharpe, Kelli
+ - Sicinski, Danielle
  - Sippala, Ashley
  - Smallwood, Jody
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Sweeting, Val
+ - Taylor, Alison
  - Thompson, Karla
  - Tingley, Jaclyn
  - Tran, Brittany
@@ -213,7 +276,6 @@ vs:
  - Van Osch, Marika
  - Vautour, Carrie
  - Walker, Laura
- - Walsh, Jenna
  - Wark, Sarah
  - Weagle, Lisa
  - Webster, Crystal
