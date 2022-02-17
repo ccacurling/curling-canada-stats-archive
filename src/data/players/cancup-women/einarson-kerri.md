@@ -77,6 +77,7 @@ vs:
  - Carey, Chelsea
  - Courtney, Joanne
  - Crocker, Laura
+ - Enge, Jenna
  - Ferguson, Dana
  - Flaxey, Allison
  - Fleury, Tracy
@@ -111,7 +112,6 @@ vs:
  - Silvernagle, Robyn
  - Sweeting, Val
  - Thevenot, Kara
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Crystal
  - Westcott, Raunora

@@ -190,6 +190,7 @@ vs:
  - Crocker, Laura
  - Darbyshire, Carolyn
  - Einarson, Kerri
+ - Enge, Jenna
  - Ferguson, Dana
  - Flaxey, Allison
  - Fleury, Tracy
@@ -261,7 +262,6 @@ vs:
  - Thevenot, Kara
  - Titheridge, Lindsay
  - Vey, Lana
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Bronwen
  - Webster, Crystal

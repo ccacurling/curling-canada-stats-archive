@@ -78,6 +78,7 @@ vs:
  - Carey, Chelsea
  - Courtney, Joanne
  - Einarson, Kerri
+ - Enge, Jenna
  - Ferguson, Dana
  - Flaxey, Allison
  - Fleury, Tracy
@@ -109,7 +110,6 @@ vs:
  - Robertson, Darcy
  - Scheidegger, Casey
  - Sweeting, Val
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Crystal
  - Westcott, Raunora

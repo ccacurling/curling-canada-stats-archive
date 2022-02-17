@@ -862,34 +862,6 @@ vs:
       year: 2008
       draw: Round Robin(6)
       score: KING 6 - ANDE 9
- - name: Walsh, Jenna
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 68
-        wins: 0
-        losses: 1
-      player2:
-        percent: 58
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SWE'
-        position: Third
-        percent: 68
-        win: 0
-        loss: 1
-      player2:
-        team: 'FLE'
-        position: Second
-        percent: 58
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(3)
-      score: SWE 6 - FLE 7
  - name: Weagle, Lisa
    totals:
     - event: Canada Cup (Women)

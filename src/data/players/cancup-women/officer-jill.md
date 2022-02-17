@@ -199,6 +199,7 @@ vs:
  - Delahunt, Nancy
  - Doig, Deanna
  - Einarson, Kerri
+ - Enge, Jenna
  - Fallis, Karen
  - Farrell, Allison
  - Ferguson, Dana
@@ -285,7 +286,6 @@ vs:
  - Titheridge, Lindsay
  - Wall, Kirsten
  - Walsh, Heather
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Bronwen
  - Webster, Crystal

@@ -159,6 +159,7 @@ vs:
  - Darbyshire, Carolyn
  - Doig, Deanna
  - Einarson, Kerri
+ - Enge, Jenna
  - Fallis, Karen
  - Ferguson, Dana
  - Flaxey, Allison
@@ -227,7 +228,6 @@ vs:
  - Strong, Laura
  - Sweeting, Val
  - Walsh, Heather
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Crystal
  - Westcott, Raunora

@@ -116,6 +116,7 @@ vs:
  - Court, Morgan
  - Crocker, Laura
  - Einarson, Kerri
+ - Enge, Jenna
  - Ferguson, Dana
  - Flaxey, Allison
  - Fleury, Tracy
@@ -158,7 +159,6 @@ vs:
  - Singler, Sherri
  - Sweeting, Val
  - Thevenot, Kara
- - Walsh, Jenna
  - Webster, Crystal
  - Westcott, Raunora
  - Wilkes, Sarah

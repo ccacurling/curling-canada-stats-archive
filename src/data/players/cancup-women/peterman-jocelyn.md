@@ -100,6 +100,7 @@ vs:
  - Crocker, Laura
  - Eddy, Lori
  - Einarson, Kerri
+ - Enge, Jenna
  - Ferguson, Dana
  - Flaxey, Allison
  - Fleury, Tracy
@@ -140,7 +141,6 @@ vs:
  - Singler, Sherri
  - Sweeting, Val
  - Thevenot, Kara
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Crystal
  - Westcott, Raunora

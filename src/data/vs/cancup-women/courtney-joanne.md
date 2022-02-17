@@ -138,6 +138,50 @@ vs:
       year: 2019
       draw: Round Robin(8)
       score: Eina 4 - Homa 5
+ - name: Enge, Jenna
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 84
+        wins: 2
+        losses: 0
+      player2:
+        percent: 77
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'HOM'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'FLE'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2015
+      draw: Round Robin(7)
+      score: FLE 5 - HOM 7
+    - player1:
+        team: 'HOM'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'FLE'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Round Robin(4)
+      score: FLE 4 - HOM 6
  - name: Ferguson, Dana
    totals:
     - event: Canada Cup (Women)
@@ -2418,50 +2462,6 @@ vs:
       year: 2019
       draw: Round Robin(1)
       score: Silv 5 - Homa 8
- - name: Walsh, Jenna
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 84
-        wins: 2
-        losses: 0
-      player2:
-        percent: 77
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'HOM'
-        position: Second
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'FLE'
-        position: Second
-        percent: 81
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2015
-      draw: Round Robin(7)
-      score: FLE 5 - HOM 7
-    - player1:
-        team: 'HOM'
-        position: Second
-        percent: 80
-        win: 1
-        loss: 0
-      player2:
-        team: 'FLE'
-        position: Second
-        percent: 73
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(4)
-      score: FLE 4 - HOM 6
  - name: Webster, Crystal
    totals:
     - event: Canada Cup (Women)

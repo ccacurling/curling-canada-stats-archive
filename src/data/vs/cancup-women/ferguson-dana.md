@@ -2294,34 +2294,6 @@ vs:
       year: 2019
       draw: Round Robin(8)
       score: Care 4 - Silv 3
- - name: Walsh, Jenna
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 75
-        wins: 0
-        losses: 1
-      player2:
-        percent: 58
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SWE'
-        position: Second
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'FLE'
-        position: Second
-        percent: 58
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(3)
-      score: SWE 6 - FLE 7
  - name: Weagle, Lisa
    totals:
     - event: Canada Cup (Women)

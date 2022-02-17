@@ -160,6 +160,7 @@ vs:
  - Delahunt, Nancy
  - Dezura, Diane
  - Doig, Deanna
+ - Enge, Jenna
  - Englot, Michelle
  - Fallis, Karen
  - Fallis-Kurz, Lynn
@@ -233,7 +234,6 @@ vs:
  - Titheridge, Lindsay
  - Wall, Kirsten
  - Walsh, Heather
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Bronwen
  - Webster, Crystal

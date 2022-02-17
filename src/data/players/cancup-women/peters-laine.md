@@ -179,6 +179,7 @@ vs:
  - Doig, Deanna
  - Eddy, Lori
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Ferguson, Dana
  - Flaxey, Allison
@@ -255,7 +256,6 @@ vs:
  - Sweeting, Val
  - Titheridge, Lindsay
  - Wall, Kirsten
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Bronwen
  - Webster, Crystal

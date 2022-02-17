@@ -40,6 +40,7 @@ vs:
  - Brown, Rachel
  - Courtney, Joanne
  - Crocker, Laura
+ - Enge, Jenna
  - Ferguson, Dana
  - Fleury, Tracy
  - Gates, Amanda
@@ -57,7 +58,6 @@ vs:
  - Rizzo, Jo-Ann
  - Rocque, Kelsey
  - Sweeting, Val
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Crystal
 ---

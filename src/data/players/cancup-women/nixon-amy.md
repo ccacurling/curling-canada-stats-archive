@@ -214,6 +214,7 @@ vs:
  - Doig, Deanna
  - Eddy, Lori
  - Einarson, Kerri
+ - Enge, Jenna
  - Englot, Michelle
  - Fargey, Lisa
  - Farrell, Allison
@@ -315,7 +316,6 @@ vs:
  - Vey, Lana
  - Wall, Kirsten
  - Walsh, Heather
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Crystal
  - Whitaker, Carol

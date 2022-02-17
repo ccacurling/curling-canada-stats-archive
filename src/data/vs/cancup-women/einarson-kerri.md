@@ -2,6 +2,34 @@
 title: Kerri Einarson Head-to-head
 name: Einarson, Kerri
 vs:
+ - name: Enge, Jenna
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 70
+        wins: 0
+        losses: 1
+      player2:
+        percent: 68
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'EIN'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'FLE'
+        position: Second
+        percent: 68
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Round Robin(5)
+      score: FLE 8 - EIN 7
  - name: Ferguson, Dana
    totals:
     - event: Canada Cup (Women)
@@ -1434,34 +1462,6 @@ vs:
       year: 2019
       draw: Round Robin(4)
       score: Eina 9 - Silv 7
- - name: Walsh, Jenna
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 70
-        wins: 0
-        losses: 1
-      player2:
-        percent: 68
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'EIN'
-        position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'FLE'
-        position: Second
-        percent: 68
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(5)
-      score: FLE 8 - EIN 7
  - name: Weagle, Lisa
    totals:
     - event: Canada Cup (Women)

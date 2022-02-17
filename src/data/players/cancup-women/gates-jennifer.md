@@ -59,6 +59,7 @@ vs:
  - Carey, Chelsea
  - Courtney, Joanne
  - Einarson, Kerri
+ - Enge, Jenna
  - Ferguson, Dana
  - Fleury, Tracy
  - Fyfe, Liz
@@ -80,7 +81,6 @@ vs:
  - Peters, Laine
  - Rizzo, Jo-Ann
  - Sweeting, Val
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Crystal
  - Westcott, Raunora

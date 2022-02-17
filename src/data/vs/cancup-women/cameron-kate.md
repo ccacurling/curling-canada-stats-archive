@@ -174,6 +174,34 @@ vs:
       year: 2018
       draw: Round Robin(3)
       score: Eina 7 - Flax 6
+ - name: Enge, Jenna
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MCD'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'FLE'
+        position: Second
+        percent: 63
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2015
+      draw: Round Robin(2)
+      score: MCD 7 - FLE 3
  - name: Ferguson, Dana
    totals:
     - event: Canada Cup (Women)
@@ -1114,34 +1142,6 @@ vs:
       year: 2018
       draw: Round Robin(3)
       score: Eina 7 - Flax 6
- - name: Walsh, Jenna
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 90
-        wins: 1
-        losses: 0
-      player2:
-        percent: 63
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MCD'
-        position: Third
-        percent: 90
-        win: 1
-        loss: 0
-      player2:
-        team: 'FLE'
-        position: Second
-        percent: 63
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2015
-      draw: Round Robin(2)
-      score: MCD 7 - FLE 3
  - name: Weagle, Lisa
    totals:
     - event: Canada Cup (Women)

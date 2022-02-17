@@ -95,6 +95,7 @@ vs:
  - Courtney, Joanne
  - Crocker, Laura
  - Darbyshire, Carolyn
+ - Enge, Jenna
  - Ferguson, Dana
  - Fleury, Tracy
  - Gates, Amanda
@@ -138,7 +139,6 @@ vs:
  - Singler, Sherri
  - Sweeting, Val
  - Wall, Kirsten
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Bronwen
  - Webster, Crystal

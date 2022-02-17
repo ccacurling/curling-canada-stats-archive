@@ -211,6 +211,7 @@ vs:
  - Darbyshire, Carolyn
  - Dealy, Diane
  - Einarson, Kerri
+ - Enge, Jenna
  - Fallis, Karen
  - Ferguson, Dana
  - Flaxey, Allison
@@ -294,7 +295,6 @@ vs:
  - Thevenot, Kara
  - Titheridge, Lindsay
  - Walsh, Heather
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Bronwen
  - Webster, Crystal

@@ -274,6 +274,34 @@ vs:
       year: 2015
       draw: Round Robin(2)
       score: MID 7 - ROC 5
+ - name: Enge, Jenna
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'MID'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'FLE'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2015
+      draw: Round Robin(6)
+      score: MID 3 - FLE 4
  - name: Ferguson, Dana
    totals:
     - event: Canada Cup (Women)
@@ -1474,34 +1502,6 @@ vs:
       year: 2012
       draw: Round Robin(7)
       score: MID 8 - JON 9
- - name: Walsh, Jenna
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 81
-        wins: 0
-        losses: 1
-      player2:
-        percent: 78
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'MID'
-        position: Lead
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'FLE'
-        position: Second
-        percent: 78
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2015
-      draw: Round Robin(6)
-      score: MID 3 - FLE 4
  - name: Weagle, Lisa
    totals:
     - event: Canada Cup (Women)

@@ -222,6 +222,34 @@ vs:
       year: 2019
       draw: Round Robin(7)
       score: Care 8 - Eina 7
+ - name: Enge, Jenna
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CAR'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'FLE'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Round Robin(7)
+      score: CAR 7 - FLE 4
  - name: Ferguson, Dana
    totals:
     - event: Canada Cup (Women)
@@ -2878,34 +2906,6 @@ vs:
       year: 2012
       draw: Round Robin(9)
       score: JON 7 - CAR 5
- - name: Walsh, Jenna
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 88
-        wins: 1
-        losses: 0
-      player2:
-        percent: 70
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'CAR'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'FLE'
-        position: Second
-        percent: 70
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(7)
-      score: CAR 7 - FLE 4
  - name: Weagle, Lisa
    totals:
     - event: Canada Cup (Women)

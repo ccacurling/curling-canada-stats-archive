@@ -46,6 +46,50 @@ vs:
       year: 2018
       draw: Round Robin(8)
       score: Walk 5 - Eina 8
+ - name: Enge, Jenna
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 76
+        wins: 2
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'ROC'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'FLE'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2015
+      draw: Round Robin(9)
+      score: FLE 8 - ROC 11
+    - player1:
+        team: 'ROC'
+        position: Third
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'FLE'
+        position: Second
+        percent: 85
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Round Robin(9)
+      score: ROC 6 - FLE 5
  - name: Ferguson, Dana
    totals:
     - event: Canada Cup (Women)
@@ -1202,50 +1246,6 @@ vs:
       year: 2018
       draw: Round Robin(8)
       score: Walk 5 - Eina 8
- - name: Walsh, Jenna
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 76
-        wins: 2
-        losses: 0
-      player2:
-        percent: 79
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'ROC'
-        position: Third
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'FLE'
-        position: Second
-        percent: 73
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2015
-      draw: Round Robin(9)
-      score: FLE 8 - ROC 11
-    - player1:
-        team: 'ROC'
-        position: Third
-        percent: 74
-        win: 1
-        loss: 0
-      player2:
-        team: 'FLE'
-        position: Second
-        percent: 85
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(9)
-      score: ROC 6 - FLE 5
  - name: Weagle, Lisa
    totals:
     - event: Canada Cup (Women)

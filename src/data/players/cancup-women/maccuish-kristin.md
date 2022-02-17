@@ -60,6 +60,7 @@ vs:
  - Courtney, Joanne
  - Crocker, Laura
  - Einarson, Kerri
+ - Enge, Jenna
  - Ferguson, Dana
  - Fleury, Tracy
  - Gates, Amanda
@@ -85,7 +86,6 @@ vs:
  - Silvernagle, Robyn
  - Sweeting, Val
  - Thevenot, Kara
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Crystal
  - Wilkes, Sarah

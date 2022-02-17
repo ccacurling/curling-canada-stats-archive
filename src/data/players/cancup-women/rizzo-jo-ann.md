@@ -102,6 +102,7 @@ vs:
  - Courtney, Joanne
  - Crocker, Laura
  - Delahunt, Nancy
+ - Enge, Jenna
  - Englot, Michelle
  - Ferguson, Dana
  - Flaxey, Allison
@@ -153,7 +154,6 @@ vs:
  - Sweeting, Val
  - Titheridge, Lindsay
  - Wall, Kirsten
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Crystal
  - Westcott, Raunora

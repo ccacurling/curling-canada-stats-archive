@@ -79,6 +79,7 @@ vs:
  - Court, Morgan
  - Courtney, Joanne
  - Crocker, Laura
+ - Enge, Jenna
  - Ferguson, Dana
  - Flaxey, Allison
  - Fleury, Tracy
@@ -111,7 +112,6 @@ vs:
  - Sweeting, Val
  - Titheridge, Lindsay
  - Wall, Kirsten
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Crystal
  - Westcott, Raunora

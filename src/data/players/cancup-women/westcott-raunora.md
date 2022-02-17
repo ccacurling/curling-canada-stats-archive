@@ -61,6 +61,7 @@ vs:
  - Courtney, Joanne
  - Crocker, Laura
  - Einarson, Kerri
+ - Enge, Jenna
  - Ferguson, Dana
  - Fleury, Tracy
  - Foster, Vanessa
@@ -90,7 +91,6 @@ vs:
  - Rocque, Kelsey
  - Scheidegger, Casey
  - Sweeting, Val
- - Walsh, Jenna
  - Weagle, Lisa
  - Webster, Crystal
  - Wilkes, Sarah

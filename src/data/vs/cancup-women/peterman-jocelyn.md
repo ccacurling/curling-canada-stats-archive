@@ -362,34 +362,6 @@ vs:
       year: 2019
       draw: Round Robin(5)
       score: Silv 7 - Jone 9
- - name: Walsh, Jenna
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 83
-        wins: 1
-        losses: 0
-      player2:
-        percent: 70
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'CAR'
-        position: Second
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'FLE'
-        position: Second
-        percent: 70
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(7)
-      score: CAR 7 - FLE 4
  - name: Weagle, Lisa
    totals:
     - event: Canada Cup (Women)

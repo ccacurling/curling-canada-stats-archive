@@ -906,34 +906,6 @@ vs:
       year: 2012
       draw: Round Robin(9)
       score: JON 7 - CAR 5
- - name: Walsh, Jenna
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 84
-        wins: 1
-        losses: 0
-      player2:
-        percent: 63
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MCD'
-        position: Fourth
-        percent: 84
-        win: 1
-        loss: 0
-      player2:
-        team: 'FLE'
-        position: Second
-        percent: 63
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2015
-      draw: Round Robin(2)
-      score: MCD 7 - FLE 3
  - name: Weagle, Lisa
    totals:
     - event: Canada Cup (Women)
