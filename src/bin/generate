@@ -134,7 +134,7 @@ Dir.glob(data + '*/').sort.each do |type_dir|
       FileUtils.cp(new_file, local_file)
     else
       puts "\n[ERROR] attempting to merge AKA record with a regular record\n"
-      exit
+      exit(1)
     end    
   end
   print "\n\n"
