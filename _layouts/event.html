@@ -94,13 +94,20 @@ layout: default
     <div class="row" id="event-teams">
     {% assign teams = page.teams | sort:"abbr" %}
     {% for team in teams %}
+      {% for member in team.members %}
+      {%   if member.role == "Skip" %}{% assign team_skip = member.name %}{% endif %}
+      {% endfor %}
+      {% assign winning_team = false %}
+      {% if team.abbr == page.winner-team and team_skip == page.winner-skip %}
+        {% assign winning_team = true %}
+      {% endif %}
       <div class="col-md-6 col-lg-4 col-xl-3">
         <div class="card">
-          {% if team.abbr == page.winner-team %}
+          {% if winning_team %}
           <div class="card-status bg-yellow"></div>
           {% endif %}
           <div class="card-header">
-            <h3 class="card-title">{% if team.abbr == page.winner-team %}<i class="fe fe-award text-yellow" title="Event Winner"></i> {% endif %}{{ team.name }} ({% if page.title contains 'Trials' or page.title contains 'Roar' or page.title contains 'Canada Cup'  %}{{ team.abbr }}{% else %}<a href="team/{{ team.abbr | downcase }}">{{ team.abbr }}</a>{% endif %})</h3>
+            <h3 class="card-title">{% if winning_team %}<i class="fe fe-award text-yellow" title="Event Winner"></i> {% endif %}{{ team.name }} ({% if page.title contains 'Trials' or page.title contains 'Roar' or page.title contains 'Canada Cup'  %}{{ team.abbr }}{% else %}<a href="team/{{ team.abbr | downcase }}">{{ team.abbr }}</a>{% endif %})</h3>
             <div class="card-options">
               <a href="#" class="card-options-collapse" data-toggle="card-collapse"><i class="fe fe-chevron-up"></i></a>
             </div>
