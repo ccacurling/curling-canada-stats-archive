@@ -30,6 +30,34 @@ vs:
       year: 2012
       draw: Round Robin(13)
       score: QC 7 - NS 6
+ - name: Nadeau, Jeff
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 68
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Lead
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 68
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(10)
+      score: QC 9 - NU 4
  - name: Naugler, Tom
    totals:
     - event: Brier
@@ -114,6 +142,34 @@ vs:
       year: 2012
       draw: Round Robin(11)
       score: NB 3 - QC 8
+ - name: Pillsworth, Mark
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Lead
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(10)
+      score: QC 9 - NU 4
  - name: Pinder, Jordan
    totals:
     - event: Brier

@@ -4,18 +4,18 @@ name: Scott Howard
 name-sort: Howard, Scott
 totals:
  - event: Brier
-   games: 52
-   wins: 27
-   losses: 25
-   inturn-total: 474
-   inturn-percent: 89
-   outturn-total: 429
+   games: 60
+   wins: 31
+   losses: 29
+   inturn-total: 549
+   inturn-percent: 88
+   outturn-total: 506
    outturn-percent: 87
-   draw-total: 664
-   draw-percent: 89
-   takeout-total: 239
+   draw-total: 734
+   draw-percent: 88
+   takeout-total: 321
    takeout-percent: 86
-   shots-total: 903
+   shots-total: 1055
    shots-percent: 88
 years:
  - year: 2011
@@ -166,6 +166,23 @@ years:
    takeout-percent: 88
    shots-total: 236
    shots-percent: 86
+ - year: 2022
+   event: Brier
+   team: "ON"
+   position: Third
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 75
+   inturn-percent: 84
+   outturn-total: 77
+   outturn-percent: 87
+   draw-total: 70
+   draw-percent: 82
+   takeout-total: 82
+   takeout-percent: 88
+   shots-total: 152
+   shots-percent: 85
 vs:
  - Barry, Josh
  - Beuk, Jonathan
@@ -180,11 +197,13 @@ vs:
  - Casey, Adam
  - Chorostkowski, Brad
  - Clarey, Sean
+ - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
  - Desjardins, Robert
  - Dillon, Mike
+ - Dobson, Paul
  - Doherty, Robbie
  - Dunstone, Matt
  - Eldridge, Zach
@@ -192,6 +211,7 @@ vs:
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
  - Flemming, Paul
+ - Follett, Sam
  - Fry, Ryan
  - Gallant, Brett
  - Gaudet, Mike
@@ -207,7 +227,9 @@ vs:
  - Hebert, Ben
  - Hodgson, Colin
  - Jacobs, Brad
+ - Janssen, Patrick
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Jones, Brennen
  - Jones, Scott
  - Kennedy, Marc
@@ -217,12 +239,17 @@ vs:
  - Koe, Kevin
  - Kuhn, Ryan
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
+ - Locke, Nathan
+ - Lowery, Ryan
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - MacKenzie, Tyler
  - Mallais, Jeremy
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
@@ -259,14 +286,20 @@ vs:
  - Schille, Chris
  - Schneider, Catlin
  - Schneider, Jamie
+ - Scoffin, Thomas
  - Simmons, Pat
  - Skauge, Greg
  - Smith, Kent
+ - Smith, Tyler
+ - Stringer, Ben
  - Sylvain, Eric
  - Thiessen, Brad
  - Thiessen, Nolan
  - Villeneuve, Steeve
  - Walker, Geoff
+ - Wallingham, Joe
+ - White, Edward
  - Whitehead, Mark
  - Wozniak, Matt
+ - Young, Nathan
 ---

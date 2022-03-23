@@ -4,18 +4,18 @@ name: Scott Saccary
 name-sort: Saccary, Scott
 totals:
  - event: Brier
-   games: 37
-   wins: 16
-   losses: 21
-   inturn-total: 327
+   games: 45
+   wins: 19
+   losses: 26
+   inturn-total: 392
    inturn-percent: 83
-   outturn-total: 366
-   outturn-percent: 83
-   draw-total: 337
+   outturn-total: 443
+   outturn-percent: 82
+   draw-total: 403
    draw-percent: 82
-   takeout-total: 356
+   takeout-total: 432
    takeout-percent: 83
-   shots-total: 693
+   shots-total: 835
    shots-percent: 83
 years:
  - year: 2017
@@ -119,6 +119,23 @@ years:
    takeout-percent: 81
    shots-total: 146
    shots-percent: 81
+ - year: 2022
+   event: Brier
+   team: "NS"
+   position: Third
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 65
+   inturn-percent: 85
+   outturn-total: 77
+   outturn-percent: 78
+   draw-total: 66
+   draw-percent: 77
+   takeout-total: 76
+   takeout-percent: 84
+   shots-total: 142
+   shots-percent: 81
 vs:
  - Appelman, Tom
  - Asselin, Emile
@@ -162,17 +179,20 @@ vs:
  - Jacobs, Brad
  - Janssen, Patrick
  - Jones, Scott
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
  - Koe, Jamie
  - Koe, Kevin
  - Kohlenberg, Dale
+ - Kolomaya, Jared
  - Laing, Brent
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Lequin, Bradley
+ - Lott, Colton
  - Lowery, Ryan
  - MacAulay, Ian
  - MacDonald, Edmund
@@ -185,6 +205,7 @@ vs:
  - McDonah, Evan
  - McEwen, Mike
  - Meachem, Shaun Myles
+ - Meister, Nicholas
  - Menard, Jean-Michel
  - Menard, Philippe
  - Morris, John
@@ -192,13 +213,17 @@ vs:
  - Moulding, Darren
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
  - Njegovan, Connor
  - O'Rourke, Mark
+ - Parsons, Cole
  - Pfeifer, Scott
+ - Pierce, Brent
+ - Pillsworth, Mark
  - Quevillon, Louis
  - Richard, Jeff
  - Samagalski, Derek

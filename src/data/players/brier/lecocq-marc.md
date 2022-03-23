@@ -218,7 +218,7 @@ vs:
  - Ferster, Greg
  - Flasch, Colton
  - Folk, Rick
- - Forget, Wes
+ - Forget, Wesley
  - Forsyth, Sandy
  - Frans, Joe
  - Fry, Ryan

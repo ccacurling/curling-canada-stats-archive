@@ -58,7 +58,7 @@ vs:
       year: 2019
       draw: Round Robin(14)
       score: NS 5 - AB 7
- - name: Forget, Wes
+ - name: Forget, Wesley
    totals:
     - event: Brier
       player1:

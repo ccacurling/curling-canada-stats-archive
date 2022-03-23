@@ -206,6 +206,34 @@ vs:
       year: 2017
       draw: Round Robin(2)
       score: NB 6 - NT 5
+ - name: Cocks, Adam
+   totals:
+    - event: Brier
+      player1:
+        percent: 66
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 66
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(13)
+      score: NB 9 - PE 3
  - name: Cotter, Jim
    totals:
     - event: Brier
@@ -498,6 +526,34 @@ vs:
       year: 2020
       draw: Round Robin(5)
       score: NB 4 - CA 8
+ - name: Follett, Sam
+   totals:
+    - event: Brier
+      player1:
+        percent: 100
+        wins: 1
+        losses: 0
+      player2:
+        percent: 57
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 57
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(5)
+      score: NL 4 - NB 9
  - name: Fry, Ryan
    totals:
     - event: Brier
@@ -1626,6 +1682,62 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: NB 7 - BC 5
+ - name: Locke, Nathan
+   totals:
+    - event: Brier
+      player1:
+        percent: 100
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 74
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(5)
+      score: NL 4 - NB 9
+ - name: Lowery, Ryan
+   totals:
+    - event: Brier
+      player1:
+        percent: 66
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 66
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(13)
+      score: NB 9 - PE 3
  - name: March, Tim
    totals:
     - event: Brier
@@ -3046,6 +3158,34 @@ vs:
       year: 2021
       draw: Round Robin(18)
       score: NT 10 - NB 6
+ - name: Smith, Tyler
+   totals:
+    - event: Brier
+      player1:
+        percent: 66
+        wins: 1
+        losses: 0
+      player2:
+        percent: 72
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 66
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(13)
+      score: NB 9 - PE 3
  - name: Spencer, Adam
    totals:
     - event: Brier
@@ -3074,6 +3214,34 @@ vs:
       year: 2016
       draw: Round Robin(7)
       score: NB 6 - ON 9
+ - name: Stringer, Ben
+   totals:
+    - event: Brier
+      player1:
+        percent: 100
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(5)
+      score: NL 4 - NB 9
  - name: Sylvain, Eric
    totals:
     - event: Brier
@@ -3262,6 +3430,34 @@ vs:
       year: 2020
       draw: Round Robin(2)
       score: YT 8 - NB 9
+ - name: White, Edward
+   totals:
+    - event: Brier
+      player1:
+        percent: 66
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 66
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 80
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(13)
+      score: NB 9 - PE 3
  - name: Winfield, Brett
    totals:
     - event: Brier
@@ -3350,4 +3546,32 @@ vs:
       year: 2021
       draw: Round Robin(12)
       score: NB 4 - MB 8
+ - name: Young, Nathan
+   totals:
+    - event: Brier
+      player1:
+        percent: 100
+        wins: 1
+        losses: 0
+      player2:
+        percent: 65
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 65
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(5)
+      score: NL 4 - NB 9
 ---

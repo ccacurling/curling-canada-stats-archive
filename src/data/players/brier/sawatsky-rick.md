@@ -238,7 +238,7 @@ vs:
  - Flasch, Colton
  - Flaxey, Caleb
  - Flemming, Paul
- - Forget, Wes
+ - Forget, Wesley
  - Fowler, Rob
  - Fry, Ryan
  - Gagne, Francois

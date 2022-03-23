@@ -4,19 +4,19 @@ name: Mike McEwen
 name-sort: McEwen, Mike
 totals:
  - event: Brier
-   games: 69
-   wins: 42
-   losses: 27
-   inturn-total: 544
+   games: 78
+   wins: 47
+   losses: 31
+   inturn-total: 630
    inturn-percent: 84
-   outturn-total: 736
+   outturn-total: 805
    outturn-percent: 85
-   draw-total: 489
-   draw-percent: 85
-   takeout-total: 791
-   takeout-percent: 85
-   shots-total: 1280
-   shots-percent: 85
+   draw-total: 549
+   draw-percent: 86
+   takeout-total: 886
+   takeout-percent: 83
+   shots-total: 1435
+   shots-percent: 84
 years:
  - year: 2016
    event: Brier
@@ -120,10 +120,29 @@ years:
    takeout-percent: 79
    shots-total: 144
    shots-percent: 81
+ - year: 2022
+   event: Brier
+   team: "MB"
+   position: Fourth
+   games: 9
+   wins: 5
+   losses: 4
+   inturn-total: 86
+   inturn-percent: 81
+   outturn-total: 69
+   outturn-percent: 81
+   draw-total: 60
+   draw-percent: 92
+   takeout-total: 95
+   takeout-percent: 74
+   shots-total: 155
+   shots-percent: 81
 vs:
  - Abel, Clinton
+ - Abraham, Ryan
  - Aho, David
  - Appelman, Tom
+ - Asselin, Felix
  - Beuk, Jonathan
  - Boland, Adam
  - Borden, Robert
@@ -135,6 +154,7 @@ vs:
  - Carruthers, Reid
  - Casey, Adam
  - Chadwick, Scott
+ - Chester, Corey
  - Chorostkowski, Brad
  - Cotter, Jim
  - Crete, Martin
@@ -147,8 +167,9 @@ vs:
  - Flasch, Colton
  - Flemming, Paul
  - Ford, Chris
- - Forget, Wes
+ - Forget, Wesley
  - Forrest, Alex
+ - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
  - Geall, Sean
@@ -163,6 +184,7 @@ vs:
  - Hebert, Ben
  - Hodgson, Colin
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Scott
  - Hunt, Matthew
  - Jacobs, Brad
@@ -170,17 +192,20 @@ vs:
  - Jensen, Trygg
  - Jewer, Keith
  - Jones, Scott
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
  - Koe, Jamie
  - Koe, Kevin
+ - Kolomaya, Jared
  - Kuhn, Ryan
  - Laing, Brent
  - Laycock, Steve
  - LeCocq, Marc
  - Lemay, Philippe
  - Likely, John
+ - Mackey, Peter
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
@@ -191,6 +216,7 @@ vs:
  - Mckinnon, Robert
  - Mcleod, Shadrach
  - Meachem, Shaun Myles
+ - Meister, Nicholas
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -201,6 +227,7 @@ vs:
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Naugler, Tom
  - Nerpin, Andrew
  - Neufeld, B.J.
@@ -210,6 +237,8 @@ vs:
  - Parsons, Cole
  - Patzer, Brad
  - Peech, Alexander
+ - Pierce, Brent
+ - Pillsworth, Mark
  - Pinder, Jordan
  - Rach, Dave
  - Richard, Jeff
@@ -232,6 +261,8 @@ vs:
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Trepanier, Jean-Francois
+ - Van Strien, Peter
  - Walker, Geoff
  - Wallingham, Joe
  - Winfield, Brett

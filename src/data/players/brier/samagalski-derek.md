@@ -4,19 +4,19 @@ name: Derek Samagalski
 name-sort: Samagalski, Derek
 totals:
  - event: Brier
-   games: 67
-   wins: 35
-   losses: 32
-   inturn-total: 599
+   games: 76
+   wins: 40
+   losses: 36
+   inturn-total: 672
    inturn-percent: 86
-   outturn-total: 640
+   outturn-total: 715
    outturn-percent: 87
-   draw-total: 700
+   draw-total: 765
    draw-percent: 87
-   takeout-total: 539
+   takeout-total: 622
    takeout-percent: 86
-   shots-total: 1239
-   shots-percent: 87
+   shots-total: 1387
+   shots-percent: 86
 years:
  - year: 2012
    event: Brier
@@ -120,8 +120,26 @@ years:
    takeout-percent: 80
    shots-total: 146
    shots-percent: 83
+ - year: 2022
+   event: Brier
+   team: "MB"
+   position: Second
+   games: 9
+   wins: 5
+   losses: 4
+   inturn-total: 73
+   inturn-percent: 81
+   outturn-total: 75
+   outturn-percent: 90
+   draw-total: 65
+   draw-percent: 86
+   takeout-total: 83
+   takeout-percent: 85
+   shots-total: 148
+   shots-percent: 85
 vs:
  - Abel, Clinton
+ - Abraham, Ryan
  - Aho, David
  - Armstrong, Mike
  - Asselin, Felix
@@ -139,6 +157,7 @@ vs:
  - Case, Peter
  - Casey, Adam
  - Chadwick, Scott
+ - Chester, Corey
  - Chorostkowski, Brad
  - Clarey, Sean
  - Cotter, Jim
@@ -157,7 +176,7 @@ vs:
  - Flemming, Paul
  - Folk, Kevin
  - Ford, Chris
- - Forget, Wes
+ - Forget, Wesley
  - Forrest, Alex
  - Fournier, Mike
  - Fry, Ryan
@@ -174,6 +193,7 @@ vs:
  - Harris, Tyler
  - Hebert, Ben
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Scott
  - Jacobs, Brad
  - Janssen, Patrick
@@ -182,11 +202,13 @@ vs:
  - Jewer, Keith
  - Jones, Scott
  - Kean, Mark
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
  - Kingdon, Wade
  - Koe, Jamie
  - Koe, Kevin
+ - Kolomaya, Jared
  - Kuhn, Ryan
  - Laing, Brent
  - Lang, Tyler
@@ -210,6 +232,7 @@ vs:
  - McEwen, Mike
  - Mckinnon, Robert
  - Mcleod, Shadrach
+ - Meister, Nicholas
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -234,8 +257,11 @@ vs:
  - Parsons, Cole
  - Patzer, Brad
  - Peech, Alexander
+ - Pierce, Brent
+ - Pillsworth, Mark
  - Pinder, Jordan
  - Rach, Dave
+ - Richard, Jeff
  - Roy, Jean-Sebastien
  - Rycroft, Carter
  - Saccary, Scott
@@ -254,6 +280,7 @@ vs:
  - Thiessen, Brad
  - Thiessen, Nolan
  - Trepanier, Jean-Francois
+ - Van Strien, Peter
  - Villeneuve, Steeve
  - Walker, Geoff
  - Wallingham, Joe

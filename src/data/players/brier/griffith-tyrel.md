@@ -153,7 +153,7 @@ vs:
  - Eldridge, Zach
  - Farnell, Jamie
  - Flasch, Colton
- - Forget, Wes
+ - Forget, Wesley
  - Fowler, Rob
  - Fry, Ryan
  - Gallant, Brett

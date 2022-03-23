@@ -4,18 +4,18 @@ name: Brett Gallant
 name-sort: Gallant, Brett
 totals:
  - event: Brier
-   games: 115
-   wins: 84
-   losses: 31
-   inturn-total: 911
+   games: 127
+   wins: 95
+   losses: 32
+   inturn-total: 1033
    inturn-percent: 85
-   outturn-total: 1274
+   outturn-total: 1413
    outturn-percent: 88
-   draw-total: 823
+   draw-total: 929
    draw-percent: 86
-   takeout-total: 1362
+   takeout-total: 1517
    takeout-percent: 87
-   shots-total: 2185
+   shots-total: 2446
    shots-percent: 87
 years:
  - year: 2013
@@ -204,7 +204,58 @@ years:
    takeout-percent: 83
    shots-total: 206
    shots-percent: 84
+ - year: 2022
+   event: Brier
+   team: "WC"
+   position: Second
+   games: 8
+   wins: 8
+   losses: 0
+   inturn-total: 63
+   inturn-percent: 83
+   outturn-total: 81
+   outturn-percent: 86
+   draw-total: 66
+   draw-percent: 86
+   takeout-total: 78
+   takeout-percent: 84
+   shots-total: 144
+   shots-percent: 85
+ - year: 2022
+   event: Brier
+   team: "WC"
+   position: Third
+   games: 4
+   wins: 3
+   losses: 1
+   inturn-total: 59
+   inturn-percent: 86
+   outturn-total: 58
+   outturn-percent: 85
+   draw-total: 40
+   draw-percent: 81
+   takeout-total: 77
+   takeout-percent: 87
+   shots-total: 117
+   shots-percent: 85
+ - year: 2022
+   event: Brier
+   team: Totals
+   games: 12
+   wins: 11
+   losses: 1
+   inturn-total: 122
+   inturn-percent: 84
+   outturn-total: 139
+   outturn-percent: 86
+   draw-total: 106
+   draw-percent: 84
+   takeout-total: 155
+   takeout-percent: 85
+   shots-total: 261
+   shots-percent: 85
 vs:
+ - Abraham, Ryan
  - Aho, David
  - Appelman, Tom
  - Ardiel, Taylor
@@ -251,7 +302,7 @@ vs:
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
  - Flemming, Paul
- - Forget, Wes
+ - Forget, Wesley
  - Forrest, Alex
  - Fournier, Mike
  - Fry, Ryan
@@ -279,12 +330,14 @@ vs:
  - Jones, Scott
  - Kean, Mark
  - Kendall, Lloyd
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
+ - Kolomaya, Jared
  - Kopf, Steve
  - Kuhn, Ryan
  - Laing, Brent
@@ -292,6 +345,7 @@ vs:
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Lequin, Bradley
+ - Lott, Colton
  - Lowery, Ryan
  - MacAulay, Ian
  - MacDonald, Edmund
@@ -314,6 +368,7 @@ vs:
  - McEwen, Mike
  - Meachem, Shaun Myles
  - Mead, Jon
+ - Meister, Nicholas
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -337,6 +392,8 @@ vs:
  - Odishaw, Terry
  - O'Rourke, Mark
  - Parsons, Cole
+ - Pierce, Brent
+ - Pillsworth, Mark
  - Pinder, Jordan
  - Quevillon, Louis
  - Richard, Jeff

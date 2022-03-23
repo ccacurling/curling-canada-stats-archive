@@ -4,19 +4,19 @@ name: Peter Mackey
 name-sort: Mackey, Peter
 totals:
  - event: Brier
-   games: 23
+   games: 31
    wins: 0
-   losses: 23
-   inturn-total: 132
-   inturn-percent: 58
-   outturn-total: 247
-   outturn-percent: 64
-   draw-total: 166
-   draw-percent: 59
-   takeout-total: 213
-   takeout-percent: 64
-   shots-total: 379
-   shots-percent: 62
+   losses: 31
+   inturn-total: 194
+   inturn-percent: 59
+   outturn-total: 319
+   outturn-percent: 62
+   draw-total: 224
+   draw-percent: 57
+   takeout-total: 289
+   takeout-percent: 63
+   shots-total: 513
+   shots-percent: 61
 years:
  - year: 2018
    event: Brier
@@ -102,7 +102,58 @@ years:
    takeout-percent: 66
    shots-total: 127
    shots-percent: 55
+ - year: 2022
+   event: Brier
+   team: "NU"
+   position: Third
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 6
+   inturn-percent: 75
+   outturn-total: 12
+   outturn-percent: 56
+   draw-total: 4
+   draw-percent: 38
+   takeout-total: 14
+   takeout-percent: 70
+   shots-total: 18
+   shots-percent: 63
+ - year: 2022
+   event: Brier
+   team: "NU"
+   position: Fourth
+   games: 7
+   wins: 0
+   losses: 7
+   inturn-total: 56
+   inturn-percent: 59
+   outturn-total: 60
+   outturn-percent: 54
+   draw-total: 54
+   draw-percent: 53
+   takeout-total: 62
+   takeout-percent: 60
+   shots-total: 116
+   shots-percent: 57
+ - year: 2022
+   event: Brier
+   team: Totals
+   games: 8
+   wins: 0
+   losses: 8
+   inturn-total: 62
+   inturn-percent: 61
+   outturn-total: 72
+   outturn-percent: 55
+   draw-total: 58
+   draw-percent: 52
+   takeout-total: 76
+   takeout-percent: 62
+   shots-total: 134
+   shots-percent: 57
 vs:
+ - Abraham, Ryan
  - Aho, David
  - Appelman, Ted
  - Appelman, Tom
@@ -113,28 +164,35 @@ vs:
  - Beuk, Jonathan
  - Blyde, Greg
  - Boland, Adam
+ - Borden, Robert
  - Caione, Michael
  - Camm, Mathew
  - Carruthers, Reid
  - Case, Peter
+ - Casey, Adam
  - Chadwick, Scott
+ - Chandler, Jordan
+ - Chester, Corey
  - Colter, Travis
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
  - Dion, William
+ - Doering, Kyle
  - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
  - Flemming, Paul
- - Forget, Wes
+ - Forget, Wesley
  - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
  - Gallant, Chris
+ - Gordon, Robbie
  - Grant, Jeff
  - Grattan, James
  - Griffith, Tyrel
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -145,13 +203,17 @@ vs:
  - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Kennedy, Glen
+ - Kennedy, Marc
  - Kidby, Dustin
  - Koe, Jamie
  - Koe, Kevin
+ - Kolomaya, Jared
  - Laing, Brent
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
+ - Lott, Colton
  - Lowery, Ryan
  - MacKenzie, Eddie
  - MacPhee, Bill
@@ -160,20 +222,26 @@ vs:
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
+ - McEwen, Mike
  - Mcleod, Shadrach
  - NcNeil-Lamswood, Ryan
+ - Meister, Nicholas
  - Morris, John
  - Moskowy, Braeden
+ - Munroe, Steven
  - Muyres, Dallan
  - Muyres, Kirk
  - Neufeld, B.J.
  - Ng, Matt
  - Nichols, Mark
+ - Njegovan, Connor
  - Odishaw, Grant
  - Odishaw, Terry
  - Ouellette, Kevin
  - Parsons, Cole
+ - Pierce, Brent
  - Pinder, Jordan
+ - Richard, Jeff
  - Saccary, Scott
  - Sallows, Tom
  - Samagalski, Derek
@@ -186,5 +254,6 @@ vs:
  - Thompson, Stuart
  - Trepanier, Jean-Francois
  - Walker, Geoff
+ - Wozniak, Matt
  - Younker, Robbie
 ---

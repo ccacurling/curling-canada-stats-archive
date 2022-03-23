@@ -4,18 +4,18 @@ name: Brad Thiessen
 name-sort: Thiessen, Brad
 totals:
  - event: Brier
-   games: 66
-   wins: 45
-   losses: 21
-   inturn-total: 546
-   inturn-percent: 86
-   outturn-total: 687
+   games: 78
+   wins: 54
+   losses: 24
+   inturn-total: 647
+   inturn-percent: 85
+   outturn-total: 812
    outturn-percent: 86
-   draw-total: 527
-   draw-percent: 87
-   takeout-total: 706
+   draw-total: 614
+   draw-percent: 86
+   takeout-total: 845
    takeout-percent: 85
-   shots-total: 1233
+   shots-total: 1459
    shots-percent: 86
 years:
  - year: 2017
@@ -103,6 +103,23 @@ years:
    takeout-percent: 87
    shots-total: 266
    shots-percent: 87
+ - year: 2022
+   event: Brier
+   team: "CA"
+   position: Second
+   games: 12
+   wins: 9
+   losses: 3
+   inturn-total: 101
+   inturn-percent: 82
+   outturn-total: 125
+   outturn-percent: 86
+   draw-total: 87
+   draw-percent: 80
+   takeout-total: 139
+   takeout-percent: 86
+   shots-total: 226
+   shots-percent: 84
 vs:
  - Abel, Clinton
  - Aho, David
@@ -121,21 +138,25 @@ vs:
  - Chadwick, Scott
  - Chorostkowski, Brad
  - Cochrane, Bryan
+ - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
  - Currie, Morgan
+ - Dobson, Paul
  - Doherty, Robbie
  - Dunstone, Matt
  - Epping, John
  - Fecteau, Steve
  - Flasch, Colton
  - Flemming, Paul
+ - Follett, Sam
  - Ford, Chris
- - Forget, Wes
+ - Forget, Wesley
  - Forrest, Alex
  - Fry, Ryan
  - Gallant, Brett
+ - Gallant, Chris
  - Geall, Sean
  - Grattan, James
  - Griffith, Tyrel
@@ -154,6 +175,7 @@ vs:
  - Hunt, Matthew
  - Jacobs, Brad
  - Janssen, Patrick
+ - Jensen, Trygg
  - Jewer, Keith
  - Jones, Scott
  - Kennedy, Marc
@@ -163,11 +185,14 @@ vs:
  - Koe, Kevin
  - Kohlenberg, Dale
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Lemay, Philippe
  - Lequin, Bradley
  - Likely, John
+ - Locke, Nathan
+ - Lowery, Ryan
  - MacAulay, Ian
  - MacDonald, Edmund
  - March, Tim
@@ -185,6 +210,7 @@ vs:
  - Mikkelsen, Dustin
  - Morris, John
  - Moskowy, Braeden
+ - Moulding, Darren
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
@@ -212,15 +238,20 @@ vs:
  - Skauge, Greg
  - Smallwood, Robert
  - Smith, Greg
+ - Smith, Tyler
  - Smitheram, Christian
  - Solberg, Jon
  - Stapleton, Connor
+ - Stringer, Ben
  - Sylvain, Eric
  - Symonds, Andrew
  - Tardi, Tyler
  - Taylor, Andrew
  - Walker, Geoff
+ - Wallingham, Joe
+ - White, Edward
  - Withycombe, Ian
  - Wood, Brad
  - Wozniak, Matt
+ - Young, Nathan
 ---

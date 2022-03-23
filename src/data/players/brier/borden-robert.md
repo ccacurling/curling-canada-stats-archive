@@ -4,18 +4,18 @@ name: Robert Borden
 name-sort: Borden, Robert
 totals:
  - event: Brier
-   games: 84
-   wins: 25
-   losses: 59
-   inturn-total: 1026
+   games: 92
+   wins: 26
+   losses: 66
+   inturn-total: 1109
    inturn-percent: 87
-   outturn-total: 517
+   outturn-total: 574
    outturn-percent: 85
-   draw-total: 1380
-   draw-percent: 88
-   takeout-total: 163
-   takeout-percent: 75
-   shots-total: 1543
+   draw-total: 1502
+   draw-percent: 87
+   takeout-total: 181
+   takeout-percent: 76
+   shots-total: 1683
    shots-percent: 86
 years:
  - year: 2012
@@ -154,7 +154,25 @@ years:
    takeout-percent: 77
    shots-total: 142
    shots-percent: 82
+ - year: 2022
+   event: Brier
+   team: "NT"
+   position: Lead
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 83
+   inturn-percent: 86
+   outturn-total: 57
+   outturn-percent: 80
+   draw-total: 122
+   draw-percent: 83
+   takeout-total: 18
+   takeout-percent: 83
+   shots-total: 140
+   shots-percent: 83
 vs:
+ - Abraham, Ryan
  - Appelman, Tom
  - Armstrong, Mike
  - Asmussen, Evan Scott
@@ -214,6 +232,7 @@ vs:
  - Hebert, Ben
  - Hodgson, Colin
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Scott
  - Hunt, Matthew
  - Jacobs, Brad
@@ -226,6 +245,7 @@ vs:
  - Kidby, Dustin
  - Koe, Kevin
  - Koivula, Colin
+ - Kolomaya, Jared
  - Kopf, Steve
  - Korab, Jamie
  - Kuhn, Ryan
@@ -234,11 +254,13 @@ vs:
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
+ - Lott, Colton
  - Lyburn, Allan
  - MacDonald, Blake
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - MacKenzie, Tyler
+ - Mackey, Peter
  - Mallais, Jeremy
  - Manners, Scott
  - March, Tim
@@ -252,6 +274,7 @@ vs:
  - Mckinnon, Robert
  - Meachem, Shaun Myles
  - Mead, Jon
+ - Meister, Nicholas
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -265,6 +288,7 @@ vs:
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
@@ -273,6 +297,8 @@ vs:
  - Odishaw, Grant
  - Odishaw, Terry
  - Peech, Alexander
+ - Pierce, Brent
+ - Pillsworth, Mark
  - Pinder, Jordan
  - Richard, Jeff
  - Roach, Darren

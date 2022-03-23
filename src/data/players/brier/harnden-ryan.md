@@ -4,18 +4,18 @@ name: Ryan Harnden
 name-sort: Harnden, Ryan
 totals:
  - event: Brier
-   games: 148
-   wins: 99
-   losses: 49
-   inturn-total: 1022
-   inturn-percent: 87
-   outturn-total: 1712
+   games: 157
+   wins: 105
+   losses: 52
+   inturn-total: 1130
+   inturn-percent: 88
+   outturn-total: 1760
    outturn-percent: 88
-   draw-total: 1923
+   draw-total: 2050
    draw-percent: 90
-   takeout-total: 811
+   takeout-total: 840
    takeout-percent: 83
-   shots-total: 2734
+   shots-total: 2890
    shots-percent: 88
 years:
  - year: 2008
@@ -222,8 +222,26 @@ years:
    takeout-percent: 82
    shots-total: 226
    shots-percent: 92
+ - year: 2022
+   event: Brier
+   team: "NO"
+   position: Lead
+   games: 9
+   wins: 6
+   losses: 3
+   inturn-total: 108
+   inturn-percent: 93
+   outturn-total: 48
+   outturn-percent: 86
+   draw-total: 127
+   draw-percent: 95
+   takeout-total: 29
+   takeout-percent: 74
+   shots-total: 156
+   shots-percent: 91
 vs:
  - Abel, Clinton
+ - Abraham, Ryan
  - Adam, Gerry
  - Adams, Shawn
  - Anderson, Chris
@@ -252,6 +270,7 @@ vs:
  - Casey, Adam
  - Chadwick, Scott
  - Champion, Kevin
+ - Chester, Corey
  - Chorostkowski, Brad
  - Clarey, Sean
  - Cochrane, Bryan
@@ -278,7 +297,7 @@ vs:
  - Flemming, Paul
  - Folk, Kevin
  - Ford, Chris
- - Forget, Wes
+ - Forget, Wesley
  - Forrest, Alex
  - Fournier, Mike
  - Fowler, Rob
@@ -304,6 +323,7 @@ vs:
  - Higgs, Jake
  - Hodgson, Colin
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Scott
  - Howard, Steven
  - Ireland, Clint
@@ -314,6 +334,7 @@ vs:
  - Jones, Scott
  - Kammerlock, Dan
  - Kean, Mark
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
@@ -322,6 +343,7 @@ vs:
  - Koe, Jamie
  - Koe, Kevin
  - Kohlenberg, Dale
+ - Kolomaya, Jared
  - Kopf, Steve
  - Korab, Jamie
  - Korte, Bruce
@@ -335,6 +357,7 @@ vs:
  - Lemay, Philippe
  - Lequin, Bradley
  - Likely, John
+ - Lott, Colton
  - Lyburn, Allan
  - MacAulay, Ian
  - MacDonald, Blake
@@ -363,6 +386,7 @@ vs:
  - Mckinnon, Robert
  - Meachem, Shaun Myles
  - Mead, Jon
+ - Meister, Nicholas
  - Menard, Jean-Michel
  - Menard, Philippe
  - Merklinger, Bill
@@ -393,8 +417,11 @@ vs:
  - O'Rourke, Mark
  - Palmer, Curt
  - Park, Kevin
+ - Parsons, Cole
  - Patzer, Brad
  - Peech, Alexander
+ - Pierce, Brent
+ - Pillsworth, Mark
  - Pinder, Jordan
  - Quevillon, Louis
  - Rafuse, Brian
@@ -434,6 +461,7 @@ vs:
  - Thiessen, Nolan
  - Trepanier, Jean-Francois
  - Ursel, Bob
+ - Van Strien, Peter
  - Vaughan, Jason
  - Villeneuve, Steeve
  - Virtue, Brock

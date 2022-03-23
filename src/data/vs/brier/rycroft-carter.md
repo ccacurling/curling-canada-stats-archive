@@ -390,6 +390,34 @@ vs:
       year: 2016
       draw: Round Robin(4)
       score: NT 3 - CA 6
+ - name: Scoffin, Thomas
+   totals:
+    - event: Brier
+      player1:
+        percent: 69
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 69
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(7)
+      score: YT 3 - AB 9
  - name: Seabrook, Scott
    totals:
     - event: Brier
@@ -662,6 +690,34 @@ vs:
       year: 2014
       draw: Round Robin(7)
       score: MB 4 - AB 10
+ - name: Stringer, Ben
+   totals:
+    - event: Brier
+      player1:
+        percent: 75
+        wins: 1
+        losses: 0
+      player2:
+        percent: 95
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 95
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(3)
+      score: AB 14 - NL 3
  - name: Sullivan, Evan
    totals:
     - event: Brier
@@ -1094,6 +1150,34 @@ vs:
       year: 2016
       draw: Round Robin(11)
       score: NL 7 - CA 3
+ - name: Wallingham, Joe
+   totals:
+    - event: Brier
+      player1:
+        percent: 69
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 69
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(7)
+      score: YT 3 - AB 9
  - name: Whitehead, Kevin
    totals:
     - event: Brier
@@ -1254,4 +1338,32 @@ vs:
       year: 2016
       draw: Round Robin(10)
       score: MB 6 - CA 4
+ - name: Young, Nathan
+   totals:
+    - event: Brier
+      player1:
+        percent: 75
+        wins: 1
+        losses: 0
+      player2:
+        percent: 58
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 58
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(3)
+      score: AB 14 - NL 3
 ---

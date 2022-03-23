@@ -4,19 +4,19 @@ name: B.J. Neufeld
 name-sort: Neufeld, B.J.
 totals:
  - event: Brier
-   games: 76
-   wins: 55
-   losses: 21
-   inturn-total: 671
-   inturn-percent: 88
-   outturn-total: 745
-   outturn-percent: 87
-   draw-total: 481
+   games: 87
+   wins: 64
+   losses: 23
+   inturn-total: 765
+   inturn-percent: 86
+   outturn-total: 861
+   outturn-percent: 86
+   draw-total: 546
    draw-percent: 84
-   takeout-total: 935
-   takeout-percent: 89
-   shots-total: 1416
-   shots-percent: 87
+   takeout-total: 1080
+   takeout-percent: 88
+   shots-total: 1626
+   shots-percent: 86
 years:
  - year: 2016
    event: Brier
@@ -120,6 +120,23 @@ years:
    takeout-percent: 90
    shots-total: 238
    shots-percent: 88
+ - year: 2022
+   event: Brier
+   team: "AB"
+   position: Third
+   games: 11
+   wins: 9
+   losses: 2
+   inturn-total: 94
+   inturn-percent: 79
+   outturn-total: 116
+   outturn-percent: 83
+   draw-total: 65
+   draw-percent: 80
+   takeout-total: 145
+   takeout-percent: 82
+   shots-total: 210
+   shots-percent: 81
 vs:
  - Aho, David
  - Appelman, Tom
@@ -138,6 +155,8 @@ vs:
  - Chadwick, Scott
  - Chorostkowski, Brad
  - Chown, Jeff
+ - Cocks, Adam
+ - Codner, Nicholas
  - Colter, Travis
  - Cotter, Jim
  - Crete, Martin
@@ -149,11 +168,13 @@ vs:
  - Fecteau, Steve
  - Flasch, Colton
  - Flemming, Paul
- - Forget, Wes
+ - Follett, Sam
+ - Forget, Wesley
  - Forrest, Alex
  - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
+ - Gallant, Chris
  - Geall, Sean
  - Grattan, James
  - Griffith, Tyrel
@@ -180,9 +201,11 @@ vs:
  - Koe, Kevin
  - Kuhn, Ryan
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
+ - Locke, Nathan
  - Lowery, Ryan
  - MacKenzie, Eddie
  - Mackey, Peter
@@ -232,6 +255,7 @@ vs:
  - St.Louis, Brady
  - St.Louis, David
  - Steele, Colten
+ - Stringer, Ben
  - Sylvain, Eric
  - Taylor, Andrew
  - Thiessen, Brad
@@ -240,8 +264,10 @@ vs:
  - Trepanier, Jean-Francois
  - Walker, Geoff
  - Wallingham, Joe
+ - White, Edward
  - Winfield, Brett
  - Withycombe, Ian
  - Wood, Brad
  - Wozniak, Matt
+ - Young, Nathan
 ---

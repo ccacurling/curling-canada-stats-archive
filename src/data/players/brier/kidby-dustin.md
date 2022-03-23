@@ -4,18 +4,18 @@ name: Dustin Kidby
 name-sort: Kidby, Dustin
 totals:
  - event: Brier
-   games: 48
-   wins: 27
-   losses: 21
-   inturn-total: 365
-   inturn-percent: 89
-   outturn-total: 545
+   games: 57
+   wins: 33
+   losses: 24
+   inturn-total: 454
+   inturn-percent: 90
+   outturn-total: 632
    outturn-percent: 89
-   draw-total: 768
+   draw-total: 914
    draw-percent: 91
-   takeout-total: 142
+   takeout-total: 172
    takeout-percent: 81
-   shots-total: 910
+   shots-total: 1086
    shots-percent: 89
 years:
  - year: 2013
@@ -86,6 +86,23 @@ years:
    takeout-percent: 80
    shots-total: 244
    shots-percent: 87
+ - year: 2022
+   event: Brier
+   team: "WC"
+   position: Lead
+   games: 9
+   wins: 6
+   losses: 3
+   inturn-total: 89
+   inturn-percent: 93
+   outturn-total: 87
+   outturn-percent: 86
+   draw-total: 146
+   draw-percent: 91
+   takeout-total: 30
+   takeout-percent: 81
+   shots-total: 176
+   shots-percent: 89
 vs:
  - Aho, David
  - Asselin, Felix
@@ -103,6 +120,7 @@ vs:
  - Casey, Adam
  - Chorostkowski, Brad
  - Chown, Jeff
+ - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
@@ -112,6 +130,7 @@ vs:
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
  - Flemming, Paul
+ - Follett, Sam
  - Forrest, Alex
  - Fournier, Mike
  - Fry, Ryan
@@ -129,6 +148,7 @@ vs:
  - Howard, Greg
  - Howard, Scott
  - Jacobs, Brad
+ - Janssen, Patrick
  - Jensen, Trygg
  - Jones, Scott
  - Kennedy, Marc
@@ -137,14 +157,18 @@ vs:
  - Koe, Kevin
  - Kopf, Steve
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
+ - Locke, Nathan
  - Lowery, Ryan
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - Mackey, Peter
  - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
@@ -180,18 +204,22 @@ vs:
  - Savill, Craig
  - Sawatsky, Rick
  - Schille, Chris
+ - Schneider, Catlin
  - Scoffin, Thomas
  - Smith, Greg
  - Smith, Tyler
  - Spencer, Adam
  - St.Louis, Brady
  - Stoughton, Jeff
+ - Stringer, Ben
  - Sylvain, Eric
  - Thiessen, Brad
  - Trepanier, Jean-Francois
  - Walker, Geoff
  - Wallingham, Joe
  - Watson, Aaron
+ - White, Edward
  - Winfield, Brett
  - Wozniak, Matt
+ - Young, Nathan
 ---

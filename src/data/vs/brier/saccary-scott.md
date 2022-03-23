@@ -6,12 +6,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 91
+        percent: 85
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 71
-        wins: 0
+        percent: 79
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -30,6 +30,22 @@ vs:
       year: 2018
       draw: Pool(18)
       score: MB 5 - NS 7
+    - player1:
+        team: 'NS'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(10)
+      score: MB 7 - NS 4
  - name: Sawatsky, Rick
    totals:
     - event: Brier
@@ -406,12 +422,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 73
-        wins: 1
-        losses: 0
-      player2:
         percent: 76
-        wins: 0
+        wins: 1
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -430,16 +446,32 @@ vs:
       year: 2021
       draw: Round Robin(9)
       score: NS 9 - QC 6
+    - player1:
+        team: 'NS'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 97
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(16)
+      score: NS 6 - QC 14
  - name: Walker, Geoff
    totals:
     - event: Brier
       player1:
-        percent: 84
+        percent: 86
         wins: 0
-        losses: 4
+        losses: 5
       player2:
-        percent: 84
-        wins: 4
+        percent: 85
+        wins: 5
         losses: 0
    games:
     - player1:
@@ -506,6 +538,22 @@ vs:
       year: 2021
       draw: Round Robin(11)
       score: NS 6 - CA 8
+    - player1:
+        team: 'NS'
+        position: Third
+        percent: 92
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 94
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(14)
+      score: NS 4 - WC 10
  - name: Wettig, Sheldon
    totals:
     - event: Brier
@@ -594,13 +642,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 76
-        wins: 0
+        percent: 82
+        wins: 1
         losses: 2
       player2:
-        percent: 89
+        percent: 87
         wins: 2
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'NS'
@@ -634,4 +682,20 @@ vs:
       year: 2018
       draw: Round Robin(6)
       score: WC 6 - NS 5
+    - player1:
+        team: 'NS'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(8)
+      score: WC 6 - NS 7
 ---

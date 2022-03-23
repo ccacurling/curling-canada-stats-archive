@@ -4,18 +4,18 @@ name: Paul Flemming
 name-sort: Flemming, Paul
 totals:
  - event: Brier
-   games: 96
-   wins: 46
-   losses: 50
-   inturn-total: 825
+   games: 104
+   wins: 49
+   losses: 55
+   inturn-total: 900
    inturn-percent: 80
-   outturn-total: 944
-   outturn-percent: 81
-   draw-total: 751
+   outturn-total: 1011
+   outturn-percent: 80
+   draw-total: 822
    draw-percent: 78
-   takeout-total: 1018
-   takeout-percent: 82
-   shots-total: 1769
+   takeout-total: 1089
+   takeout-percent: 81
+   shots-total: 1911
    shots-percent: 80
 years:
  - year: 1998
@@ -171,6 +171,23 @@ years:
    takeout-percent: 77
    shots-total: 140
    shots-percent: 78
+ - year: 2022
+   event: Brier
+   team: "NS"
+   position: Fourth
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 75
+   inturn-percent: 75
+   outturn-total: 67
+   outturn-percent: 71
+   draw-total: 71
+   draw-percent: 74
+   takeout-total: 71
+   takeout-percent: 73
+   shots-total: 142
+   shots-percent: 73
 vs:
  - Adam, Gerry
  - Alderman, Dan
@@ -278,6 +295,7 @@ vs:
  - Jones, Brennen
  - Kalthoff, Kevin
  - Keefe, Kevin
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
  - Kilgallen, Shane
@@ -285,6 +303,7 @@ vs:
  - Koe, Jamie
  - Koe, Kevin
  - Kohlenberg, Dale
+ - Kolomaya, Jared
  - Kopf, Steve
  - Korab, Jamie
  - Kushnir, Warren
@@ -296,6 +315,7 @@ vs:
  - Ledgerwood, Sean
  - Lequin, Bradley
  - Loevenmark, Phil
+ - Lott, Colton
  - Lowe, Wayne
  - Lowery, Ryan
  - MacAulay, Ian
@@ -323,6 +343,7 @@ vs:
  - McInnis, Phillip
  - Mead, Jon
  - Meakin, Rob
+ - Meister, Nicholas
  - Mellof, Dave
  - Melnichuk, Greg
  - Melville, Bruce
@@ -343,6 +364,7 @@ vs:
  - Moulding, Darren
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Nason, Paul
  - Naugler, Tom
  - Nedohin, David
@@ -358,6 +380,7 @@ vs:
  - Odishaw, Terry
  - O'Rourke, Mark
  - Ouimet, Luc
+ - Parsons, Cole
  - Paslawski, Pat
  - Patterson, Scott
  - Peddigrew, Ken
@@ -366,6 +389,7 @@ vs:
  - Pfeifer, Scott
  - Pielak, Rod
  - Pierce, Brent
+ - Pillsworth, Mark
  - Pinsent, Garry
  - Porter, Geoff
  - Powell, Lloyd

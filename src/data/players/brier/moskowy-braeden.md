@@ -4,18 +4,18 @@ name: Braeden Moskowy
 name-sort: Moskowy, Braeden
 totals:
  - event: Brier
-   games: 59
-   wins: 31
-   losses: 28
-   inturn-total: 554
+   games: 68
+   wins: 37
+   losses: 31
+   inturn-total: 653
    inturn-percent: 85
-   outturn-total: 564
+   outturn-total: 641
    outturn-percent: 87
-   draw-total: 436
-   draw-percent: 84
-   takeout-total: 682
-   takeout-percent: 87
-   shots-total: 1118
+   draw-total: 504
+   draw-percent: 85
+   takeout-total: 790
+   takeout-percent: 86
+   shots-total: 1294
    shots-percent: 86
 years:
  - year: 2013
@@ -103,6 +103,23 @@ years:
    takeout-percent: 89
    shots-total: 244
    shots-percent: 89
+ - year: 2022
+   event: Brier
+   team: "WC"
+   position: Third
+   games: 9
+   wins: 6
+   losses: 3
+   inturn-total: 99
+   inturn-percent: 84
+   outturn-total: 77
+   outturn-percent: 87
+   draw-total: 68
+   draw-percent: 92
+   takeout-total: 108
+   takeout-percent: 81
+   shots-total: 176
+   shots-percent: 85
 vs:
  - Aho, David
  - Asselin, Felix
@@ -122,6 +139,7 @@ vs:
  - Casey, Adam
  - Chorostkowski, Brad
  - Chown, Jeff
+ - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
@@ -135,6 +153,7 @@ vs:
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
  - Flemming, Paul
+ - Follett, Sam
  - Forrest, Alex
  - Fournier, Mike
  - Fry, Ryan
@@ -163,14 +182,18 @@ vs:
  - Kopf, Steve
  - Kuhn, Ryan
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - Ledgerwood, Sean
+ - Locke, Nathan
  - Lowery, Ryan
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - Mackey, Peter
  - Mallais, Jeremy
  - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
@@ -206,6 +229,7 @@ vs:
  - Samagalski, Derek
  - Savill, Craig
  - Sawatsky, Rick
+ - Schneider, Catlin
  - Scoffin, Thomas
  - Simmons, Pat
  - Smith, Greg
@@ -213,6 +237,7 @@ vs:
  - St.Louis, Brady
  - St.Louis, David
  - Stoughton, Jeff
+ - Stringer, Ben
  - Sylvain, Eric
  - Thiessen, Brad
  - Thiessen, Nolan
@@ -220,7 +245,9 @@ vs:
  - Walker, Geoff
  - Wallingham, Joe
  - Watson, Aaron
+ - White, Edward
  - Whitehead, Mark
  - Winfield, Brett
  - Wozniak, Matt
+ - Young, Nathan
 ---

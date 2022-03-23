@@ -398,6 +398,34 @@ vs:
       year: 2006
       draw: Round Robin(13)
       score: NO 4 - ON 7
+ - name: Howard, Greg
+   totals:
+    - event: Brier
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 70
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(14)
+      score: WC 10 - NU 1
  - name: Howard, Russ
    totals:
     - event: Brier
@@ -946,6 +974,34 @@ vs:
       year: 2006
       draw: Round Robin(7)
       score: PE 7 - NO 4
+ - name: Mackey, Peter
+   totals:
+    - event: Brier
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 61
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(14)
+      score: WC 10 - NU 1
  - name: Martin, Kevin
    totals:
     - event: Brier
@@ -1058,6 +1114,34 @@ vs:
       year: 2004
       draw: Round Robin(13)
       score: TR 7 - NO 8
+ - name: Nadeau, Jeff
+   totals:
+    - event: Brier
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 53
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Second
+        percent: 53
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(14)
+      score: WC 10 - NU 1
  - name: Nedohin, David
    totals:
     - event: Brier
@@ -1254,6 +1338,34 @@ vs:
       year: 2004
       draw: Round Robin(5)
       score: NO 3 - AB 9
+ - name: Pillsworth, Mark
+   totals:
+    - event: Brier
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 72
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 72
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(14)
+      score: WC 10 - NU 1
  - name: Recksiedler, Kevin
    totals:
     - event: Brier

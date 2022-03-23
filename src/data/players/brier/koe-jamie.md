@@ -4,18 +4,18 @@ name: Jamie Koe
 name-sort: Koe, Jamie
 totals:
  - event: Brier
-   games: 144
-   wins: 43
-   losses: 101
-   inturn-total: 1203
+   games: 152
+   wins: 44
+   losses: 108
+   inturn-total: 1255
    inturn-percent: 74
-   outturn-total: 1337
+   outturn-total: 1425
    outturn-percent: 76
-   draw-total: 1179
+   draw-total: 1234
    draw-percent: 75
-   takeout-total: 1361
-   takeout-percent: 76
-   shots-total: 2540
+   takeout-total: 1446
+   takeout-percent: 75
+   shots-total: 2680
    shots-percent: 75
 years:
  - year: 2006
@@ -256,7 +256,25 @@ years:
    takeout-percent: 74
    shots-total: 130
    shots-percent: 76
+ - year: 2022
+   event: Brier
+   team: "NT"
+   position: Fourth
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 52
+   inturn-percent: 65
+   outturn-total: 88
+   outturn-percent: 74
+   draw-total: 55
+   draw-percent: 75
+   takeout-total: 85
+   takeout-percent: 68
+   shots-total: 140
+   shots-percent: 71
 vs:
+ - Abraham, Ryan
  - Adam, Gerry
  - Adams, Shawn
  - Anderson, Chris
@@ -321,7 +339,7 @@ vs:
  - Flaxey, Caleb
  - Flemming, Paul
  - Folk, Kevin
- - Forget, Wes
+ - Forget, Wesley
  - Fournier, Mike
  - Fowler, Rob
  - Fraser, Pierre
@@ -342,6 +360,7 @@ vs:
  - Grant, Jeff
  - Grattan, James
  - Griffith, Tyrel
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Haichert, Chris
  - Harnden, Al
@@ -355,6 +374,7 @@ vs:
  - Hicke, Dean
  - Hodgson, Colin
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Russ
  - Howard, Scott
  - Howard, Steven
@@ -378,6 +398,7 @@ vs:
  - Kidby, Dustin
  - Koe, Kevin
  - Koivula, Colin
+ - Kolomaya, Jared
  - Kopf, Steve
  - Korab, Jamie
  - Korte, Bruce
@@ -393,6 +414,7 @@ vs:
  - LeDrew, Ryan
  - Lemay, Philippe
  - Lohnes, Bruce
+ - Lott, Colton
  - Lyburn, Allan
  - MacDonald, Blake
  - MacDonald, Rod
@@ -417,6 +439,7 @@ vs:
  - McKee, Darrell
  - Meachem, Shaun Myles
  - Mead, Jon
+ - Meister, Nicholas
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -436,6 +459,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Odishaw, Grant
  - Odishaw, Terry
  - Olson, Mark-2
@@ -446,6 +470,7 @@ vs:
  - Park, Kevin
  - Peddigrew, Ken
  - Pierce, Brent
+ - Pillsworth, Mark
  - Pinder, Jordan
  - Porter, Ryan
  - Recksiedler, Kevin

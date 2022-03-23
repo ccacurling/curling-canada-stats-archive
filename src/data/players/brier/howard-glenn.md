@@ -4,19 +4,19 @@ name: Glenn Howard
 name-sort: Howard, Glenn
 totals:
  - event: Brier
-   games: 219
-   wins: 160
-   losses: 59
-   inturn-total: 1942
-   inturn-percent: 84
-   outturn-total: 2133
-   outturn-percent: 86
-   draw-total: 1578
+   games: 227
+   wins: 164
+   losses: 63
+   inturn-total: 2029
+   inturn-percent: 83
+   outturn-total: 2192
+   outturn-percent: 85
+   draw-total: 1643
    draw-percent: 83
-   takeout-total: 2497
+   takeout-total: 2578
    takeout-percent: 85
-   shots-total: 4075
-   shots-percent: 85
+   shots-total: 4221
+   shots-percent: 84
 years:
  - year: 1986
    event: Brier
@@ -322,6 +322,23 @@ years:
    draw-percent: 100
    shots-total: 4
    shots-percent: 100
+ - year: 2022
+   event: Brier
+   team: "ON"
+   position: Fourth
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 87
+   inturn-percent: 77
+   outturn-total: 59
+   outturn-percent: 83
+   draw-total: 65
+   draw-percent: 75
+   takeout-total: 81
+   takeout-percent: 83
+   shots-total: 146
+   shots-percent: 80
 vs:
  - Abel, Clinton
  - Adam, Gerry
@@ -384,6 +401,7 @@ vs:
  - Chorostkowski, Brad
  - Clarey, Sean
  - Coady, Mike
+ - Cocks, Adam
  - Collin, Simon
  - Collison, Brian
  - Coster, Dave
@@ -408,6 +426,7 @@ vs:
  - Doherty, Robbie
  - Doyon, Ghislain
  - Duce, Dallas
+ - Dunstone, Matt
  - Durant, Fred
  - Eden, Brian
  - Edl, Don
@@ -430,6 +449,7 @@ vs:
  - Florence, Malcolm
  - Folk, Kevin
  - Folk, Rick
+ - Follett, Sam
  - Fowler, Brian
  - Fowler, Ed
  - Fowler, Rob
@@ -500,6 +520,8 @@ vs:
  - Jacobs, Brad
  - Jakomait, Dusty
  - Jakubo, Mike
+ - Janssen, Patrick
+ - Jensen, Trygg
  - Jewer, Keith
  - Joanisse, Dean
  - Johnson, Bill
@@ -542,6 +564,7 @@ vs:
  - Lang, Tyler
  - Lappalainen, Art
  - LaRocque, Guy
+ - Latos, Evan
  - Laycock, Steve
  - LeClair, Bob
  - LeCocq, Marc
@@ -552,9 +575,11 @@ vs:
  - Lemay, Philippe
  - Lemery, Daniel
  - Lewis, Wayne
+ - Locke, Nathan
  - Loevenmark, Phil
  - Lohnes, Bruce
  - Lowe, Wayne
+ - Lowery, Ryan
  - Lukowich, Ed
  - Lyburn, Allan
  - Lyburn, William
@@ -573,6 +598,8 @@ vs:
  - MacWilliams, John
  - Manners, Scott
  - Markowsky, Rob
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Maskiewich, Ken
@@ -694,6 +721,7 @@ vs:
  - Schneider, Catlin
  - Schneider, Jamie
  - Schoenne, Klaus
+ - Scoffin, Thomas
  - Scoffin, Wade
  - Seabrook, Matt
  - Seabrook, Scott
@@ -709,6 +737,7 @@ vs:
  - Smith, Doug-2
  - Smith, Garth
  - Smith, Kent
+ - Smith, Tyler
  - Snell, Brian
  - Solberg, Jon
  - Somers, Grant
@@ -716,6 +745,7 @@ vs:
  - Stokes, Lionel
  - Stoughton, Jeff
  - Strain, Bill
+ - Stringer, Ben
  - Sullivan, Charles Jr.
  - Sweete, Don
  - Sylvain, Eric
@@ -741,6 +771,7 @@ vs:
  - Walchuk, Don
  - Walker, Geoff
  - Wallace, Dale
+ - Wallingham, Joe
  - Walsh, Jim
  - Warren, Dave
  - Watson, Aaron
@@ -749,6 +780,7 @@ vs:
  - Weeks, Doug
  - Wempe, Brian
  - Westphal, Don
+ - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Wilson, Michael
@@ -758,6 +790,7 @@ vs:
  - Woytowich, Randy
  - Wozniak, Matt
  - Xidos, George
+ - Young, Nathan
  - Young, Neil
  - Ziola, Monte
 ---

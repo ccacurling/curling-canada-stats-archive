@@ -4,18 +4,18 @@ name: Adam Spencer
 name-sort: Spencer, Adam
 totals:
  - event: Brier
-   games: 13
-   wins: 4
+   games: 15
+   wins: 6
    losses: 9
-   inturn-total: 104
+   inturn-total: 110
    inturn-percent: 92
-   outturn-total: 114
+   outturn-total: 116
    outturn-percent: 91
-   draw-total: 75
+   draw-total: 77
    draw-percent: 93
-   takeout-total: 143
+   takeout-total: 149
    takeout-percent: 91
-   shots-total: 218
+   shots-total: 226
    shots-percent: 91
 years:
  - year: 2016
@@ -79,6 +79,50 @@ years:
    draw-percent: 96
    shots-total: 6
    shots-percent: 96
+ - year: 2022
+   event: Brier
+   team: "ON"
+   position: Lead
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 2
+   inturn-percent: 88
+   draw-total: 2
+   draw-percent: 88
+   shots-total: 2
+   shots-percent: 88
+ - year: 2022
+   event: Brier
+   team: "ON"
+   position: Second
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 4
+   inturn-percent: 100
+   outturn-total: 2
+   outturn-percent: 100
+   takeout-total: 6
+   takeout-percent: 100
+   shots-total: 6
+   shots-percent: 100
+ - year: 2022
+   event: Brier
+   team: Totals
+   games: 2
+   wins: 2
+   losses: 0
+   inturn-total: 6
+   inturn-percent: 96
+   outturn-total: 2
+   outturn-percent: 100
+   draw-total: 2
+   draw-percent: 88
+   takeout-total: 6
+   takeout-percent: 100
+   shots-total: 8
+   shots-percent: 97
 vs:
  - Borden, Robert
  - Brannen, Jamie
@@ -89,6 +133,7 @@ vs:
  - Crete, Martin
  - Doherty, Robbie
  - Flasch, Colton
+ - Follett, Sam
  - Fry, Ryan
  - Gallant, Brett
  - Giddens, Ryan
@@ -98,6 +143,7 @@ vs:
  - Harnden, Ryan
  - Hebert, Ben
  - Jacobs, Brad
+ - Jensen, Trygg
  - Jones, Scott
  - Kennedy, Marc
  - Kennedy, Mike
@@ -106,8 +152,10 @@ vs:
  - Koe, Kevin
  - Kuhn, Ryan
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
+ - Locke, Nathan
  - Mathers, David
  - McEwen, Mike
  - Meachem, Shaun Myles
@@ -125,9 +173,13 @@ vs:
  - Schille, Chris
  - Schneider, Catlin
  - Schneider, Jamie
+ - Scoffin, Thomas
  - Simmons, Pat
+ - Stringer, Ben
  - Sylvain, Eric
  - Thiessen, Nolan
  - Walker, Geoff
+ - Wallingham, Joe
  - Wozniak, Matt
+ - Young, Nathan
 ---

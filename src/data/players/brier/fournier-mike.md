@@ -4,19 +4,19 @@ name: Mike Fournier
 name-sort: Fournier, Mike
 totals:
  - event: Brier
-   games: 16
-   wins: 7
-   losses: 9
-   inturn-total: 133
+   games: 24
+   wins: 11
+   losses: 13
+   inturn-total: 201
    inturn-percent: 75
-   outturn-total: 161
-   outturn-percent: 75
-   draw-total: 140
-   draw-percent: 82
-   takeout-total: 154
-   takeout-percent: 68
-   shots-total: 294
-   shots-percent: 75
+   outturn-total: 233
+   outturn-percent: 77
+   draw-total: 223
+   draw-percent: 81
+   takeout-total: 211
+   takeout-percent: 71
+   shots-total: 434
+   shots-percent: 76
 years:
  - year: 2018
    event: Brier
@@ -52,13 +52,32 @@ years:
    takeout-percent: 66
    shots-total: 146
    shots-percent: 74
+ - year: 2022
+   event: Brier
+   team: "QC"
+   position: Second
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 68
+   inturn-percent: 76
+   outturn-total: 72
+   outturn-percent: 83
+   draw-total: 83
+   draw-percent: 80
+   takeout-total: 57
+   takeout-percent: 79
+   shots-total: 140
+   shots-percent: 80
 vs:
+ - Abraham, Ryan
  - Barry, Josh
  - Blyde, Greg
  - Borden, Robert
  - Camm, Mathew
  - Carruthers, Reid
  - Case, Peter
+ - Casey, Adam
  - Chorostkowski, Brad
  - Chown, Jeff
  - Crowell, Phil
@@ -69,6 +88,7 @@ vs:
  - Gallant, Brett
  - Gallant, Chris
  - Grattan, James
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -78,13 +98,17 @@ vs:
  - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Kennedy, Glen
+ - Kennedy, Marc
  - Kidby, Dustin
  - Kingdon, Wade
  - Koe, Jamie
  - Koe, Kevin
+ - Kolomaya, Jared
  - Laing, Brent
  - Laycock, Steve
  - Ledgerwood, Sean
+ - Lott, Colton
  - Lowery, Ryan
  - MacKenzie, Eddie
  - Mackey, Peter
@@ -93,6 +117,8 @@ vs:
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
+ - McEwen, Mike
+ - Meister, Nicholas
  - Morris, John
  - Moskowy, Braeden
  - Muyres, Dallan
@@ -100,6 +126,12 @@ vs:
  - Nadeau, Jeff
  - Neufeld, B.J.
  - Nichols, Mark
+ - Njegovan, Connor
+ - Ouellette, Kevin
+ - Parsons, Cole
+ - Pierce, Brent
+ - Pillsworth, Mark
+ - Richard, Jeff
  - Saccary, Scott
  - Samagalski, Derek
  - Schille, Chris
@@ -108,4 +140,5 @@ vs:
  - St.Louis, Brady
  - St.Louis, David
  - Walker, Geoff
+ - Wozniak, Matt
 ---

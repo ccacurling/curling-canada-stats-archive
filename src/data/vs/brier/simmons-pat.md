@@ -746,6 +746,34 @@ vs:
       year: 2016
       draw: Round Robin(11)
       score: NL 7 - CA 3
+ - name: Wallingham, Joe
+   totals:
+    - event: Brier
+      player1:
+        percent: 31
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Second
+        percent: 31
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(13)
+      score: SK 12 - YT 3
  - name: Whitehead, Kevin
    totals:
     - event: Brier

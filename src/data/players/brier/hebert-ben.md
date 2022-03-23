@@ -4,18 +4,18 @@ name: Ben Hebert
 name-sort: Hebert, Ben
 totals:
  - event: Brier
-   games: 159
-   wins: 116
-   losses: 43
-   inturn-total: 696
+   games: 170
+   wins: 125
+   losses: 45
+   inturn-total: 715
    inturn-percent: 87
-   outturn-total: 2157
+   outturn-total: 2344
    outturn-percent: 91
-   draw-total: 2497
+   draw-total: 2685
    draw-percent: 92
-   takeout-total: 356
+   takeout-total: 374
    takeout-percent: 79
-   shots-total: 2853
+   shots-total: 3059
    shots-percent: 90
 years:
  - year: 2005
@@ -272,6 +272,23 @@ years:
    takeout-percent: 82
    shots-total: 232
    shots-percent: 92
+ - year: 2022
+   event: Brier
+   team: "AB"
+   position: Lead
+   games: 11
+   wins: 9
+   losses: 2
+   inturn-total: 19
+   inturn-percent: 87
+   outturn-total: 187
+   outturn-percent: 91
+   draw-total: 188
+   draw-percent: 92
+   takeout-total: 18
+   takeout-percent: 79
+   shots-total: 206
+   shots-percent: 91
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -312,6 +329,8 @@ vs:
  - Charette, Pierre
  - Chorostkowski, Brad
  - Chown, Jeff
+ - Cocks, Adam
+ - Codner, Nicholas
  - Colter, Travis
  - Cotter, Jim
  - Cowan, Chad
@@ -341,7 +360,8 @@ vs:
  - Flaxey, Caleb
  - Flemming, Paul
  - Folk, Kevin
- - Forget, Wes
+ - Follett, Sam
+ - Forget, Wesley
  - Forrest, Alex
  - Fournier, Mike
  - Fowler, Rob
@@ -352,6 +372,7 @@ vs:
  - Gagne, Francois
  - Gagnon, Jean
  - Gallant, Brett
+ - Gallant, Chris
  - Gallant, Peter
  - Gaudet, Mike
  - Gavin, Martin
@@ -385,6 +406,7 @@ vs:
  - Jacobs, Brad
  - Jakomait, Dusty
  - Jakubo, Mike
+ - Janssen, Patrick
  - Jeffrey, Chris
  - Jensen, Trygg
  - Jewer, Keith
@@ -409,11 +431,13 @@ vs:
  - Lacey, Jeff
  - Laing, Brent
  - Landry, Jeremy
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
  - LeDrew, Ryan
  - Lemay, Philippe
+ - Locke, Nathan
  - Lohnes, Bruce
  - Lowery, Ryan
  - MacDonald, Rod
@@ -514,6 +538,7 @@ vs:
  - St.Louis, Brady
  - Steele, Colten
  - Stoughton, Jeff
+ - Stringer, Ben
  - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Tallon, Wayne
@@ -531,10 +556,12 @@ vs:
  - Walker, Geoff
  - Wallingham, Joe
  - Watson, Aaron
+ - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Windsor, Brian
  - Winfield, Brett
  - Wood, Mike
  - Wozniak, Matt
+ - Young, Nathan
 ---

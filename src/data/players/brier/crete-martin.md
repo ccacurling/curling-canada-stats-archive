@@ -4,19 +4,19 @@ name: Martin Crete
 name-sort: Crete, Martin
 totals:
  - event: Brier
-   games: 96
-   wins: 49
-   losses: 47
-   inturn-total: 529
-   inturn-percent: 84
-   outturn-total: 1319
-   outturn-percent: 84
-   draw-total: 727
+   games: 104
+   wins: 53
+   losses: 51
+   inturn-total: 589
+   inturn-percent: 83
+   outturn-total: 1399
+   outturn-percent: 83
+   draw-total: 790
    draw-percent: 83
-   takeout-total: 1121
-   takeout-percent: 84
-   shots-total: 1848
-   shots-percent: 84
+   takeout-total: 1198
+   takeout-percent: 83
+   shots-total: 1988
+   shots-percent: 83
 years:
  - year: 2008
    event: Brier
@@ -204,8 +204,26 @@ years:
    takeout-percent: 79
    shots-total: 150
    shots-percent: 82
+ - year: 2022
+   event: Brier
+   team: "QC"
+   position: Third
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 60
+   inturn-percent: 77
+   outturn-total: 80
+   outturn-percent: 74
+   draw-total: 63
+   draw-percent: 75
+   takeout-total: 77
+   takeout-percent: 76
+   shots-total: 140
+   shots-percent: 76
 vs:
  - Abel, Clinton
+ - Abraham, Ryan
  - Adam, Gerry
  - Balsdon, Greg
  - Bardsley, Mike
@@ -264,6 +282,7 @@ vs:
  - Granchelli, Kris
  - Grattan, James
  - Griffith, Tyrel
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
@@ -285,12 +304,14 @@ vs:
  - Jordison, Joel
  - Kammerlock, Dan
  - Kean, Mark
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
+ - Kolomaya, Jared
  - Kopf, Steve
  - Korab, Jamie
  - Kuhn, Ryan
@@ -300,6 +321,7 @@ vs:
  - Ledgerwood, Sean
  - Likely, John
  - Lohnes, Bruce
+ - Lott, Colton
  - Lowery, Ryan
  - MacDonald, Rod
  - MacFadyen, Alex
@@ -320,6 +342,7 @@ vs:
  - McEwen, Mike
  - Meachem, Shaun Myles
  - Mead, Jon
+ - Meister, Nicholas
  - Middaugh, Wayne
  - Mittelstadt, Kelly
  - Morris, John
@@ -333,17 +356,22 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Noftall, David
  - Odian, Scott
  - Olson, Mark-2
  - O'Rourke, Mark
+ - Ouellette, Kevin
  - Ouimet, Luc
  - Palmer, Curt
  - Park, Kevin
+ - Parsons, Cole
  - Pierce, Brent
+ - Pillsworth, Mark
  - Pinder, Jordan
  - Rafuse, Brian
  - Recksiedler, Kevin
+ - Richard, Jeff
  - Roach, Darren
  - Roach, Jason
  - Robinson, Andrew

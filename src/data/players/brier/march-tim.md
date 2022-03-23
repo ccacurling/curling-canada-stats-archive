@@ -4,18 +4,18 @@ name: Tim March
 name-sort: March, Tim
 totals:
  - event: Brier
-   games: 25
-   wins: 17
-   losses: 8
-   inturn-total: 263
+   games: 33
+   wins: 21
+   losses: 12
+   inturn-total: 349
    inturn-percent: 87
-   outturn-total: 212
-   outturn-percent: 87
-   draw-total: 426
+   outturn-total: 278
+   outturn-percent: 88
+   draw-total: 565
    draw-percent: 88
-   takeout-total: 49
+   takeout-total: 62
    takeout-percent: 81
-   shots-total: 475
+   shots-total: 627
    shots-percent: 87
 years:
  - year: 2018
@@ -52,6 +52,23 @@ years:
    takeout-percent: 78
    shots-total: 231
    shots-percent: 84
+ - year: 2022
+   event: Brier
+   team: "ON"
+   position: Lead
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 86
+   inturn-percent: 90
+   outturn-total: 66
+   outturn-percent: 89
+   draw-total: 139
+   draw-percent: 90
+   takeout-total: 13
+   takeout-percent: 83
+   shots-total: 152
+   shots-percent: 89
 vs:
  - Asselin, Felix
  - Barry, Josh
@@ -63,12 +80,16 @@ vs:
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
+ - Cocks, Adam
  - Cotter, Jim
  - Crowell, Phil
  - Dion, William
+ - Dobson, Paul
  - Dunstone, Matt
  - Epping, John
+ - Flasch, Colton
  - Flemming, Paul
+ - Follett, Sam
  - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
@@ -82,16 +103,23 @@ vs:
  - Hebert, Ben
  - Hodgson, Colin
  - Jacobs, Brad
+ - Janssen, Patrick
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Kennedy, Marc
  - Kidby, Dustin
  - Kingdon, Wade
  - Koe, Kevin
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - Ledgerwood, Sean
+ - Locke, Nathan
+ - Lowery, Ryan
  - MacKenzie, Eddie
  - Mackey, Peter
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - McCann, Andy
  - McEwen, Mike
@@ -115,11 +143,18 @@ vs:
  - Saccary, Scott
  - Samagalski, Derek
  - Sawatsky, Rick
+ - Schneider, Catlin
+ - Scoffin, Thomas
  - Skauge, Greg
+ - Smith, Tyler
  - St.Louis, David
+ - Stringer, Ben
  - Thiessen, Brad
  - Trepanier, Jean-Francois
  - Walker, Geoff
+ - Wallingham, Joe
+ - White, Edward
  - Wozniak, Matt
+ - Young, Nathan
  - Younker, Robbie
 ---

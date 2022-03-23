@@ -126,7 +126,7 @@ vs:
  - Flasch, Colton
  - Flemming, Paul
  - Folk, Kevin
- - Forget, Wes
+ - Forget, Wesley
  - Fowler, Rob
  - Fry, Ryan
  - Gallant, Brett

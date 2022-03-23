@@ -61,7 +61,7 @@ vs:
  - Cotter, Jim
  - Dunstone, Matt
  - Flasch, Colton
- - Forget, Wes
+ - Forget, Wesley
  - Gallant, Brett
  - Grant, Jeff
  - Griffith, Tyrel

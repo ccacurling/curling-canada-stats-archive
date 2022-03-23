@@ -4,19 +4,19 @@ name: Catlin Schneider
 name-sort: Schneider, Catlin
 totals:
  - event: Brier
-   games: 24
-   wins: 13
-   losses: 11
-   inturn-total: 194
-   inturn-percent: 86
-   outturn-total: 264
-   outturn-percent: 87
-   draw-total: 186
-   draw-percent: 88
-   takeout-total: 272
-   takeout-percent: 86
-   shots-total: 458
-   shots-percent: 87
+   games: 36
+   wins: 21
+   losses: 15
+   inturn-total: 308
+   inturn-percent: 84
+   outturn-total: 370
+   outturn-percent: 86
+   draw-total: 256
+   draw-percent: 87
+   takeout-total: 422
+   takeout-percent: 84
+   shots-total: 678
+   shots-percent: 85
 years:
  - year: 2017
    event: Brier
@@ -52,6 +52,23 @@ years:
    takeout-percent: 84
    shots-total: 252
    shots-percent: 85
+ - year: 2022
+   event: Brier
+   team: "SK"
+   position: Third
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 114
+   inturn-percent: 82
+   outturn-total: 106
+   outturn-percent: 83
+   draw-total: 70
+   draw-percent: 84
+   takeout-total: 150
+   takeout-percent: 81
+   shots-total: 220
+   shots-percent: 82
 vs:
  - Aho, David
  - Borden, Robert
@@ -61,12 +78,15 @@ vs:
  - Carruthers, Reid
  - Casey, Adam
  - Chorostkowski, Brad
+ - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
  - Dobson, Paul
+ - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
+ - Follett, Sam
  - Forrest, Alex
  - Fry, Ryan
  - Gallant, Brett
@@ -82,15 +102,21 @@ vs:
  - Howard, Glenn
  - Howard, Scott
  - Jacobs, Brad
+ - Janssen, Patrick
  - Jensen, Trygg
  - Jones, Scott
  - Kennedy, Marc
  - Kennedy, Mike
+ - Kidby, Dustin
  - Koe, Jamie
  - Koe, Kevin
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
+ - Locke, Nathan
+ - Lowery, Ryan
+ - March, Tim
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
@@ -99,8 +125,10 @@ vs:
  - Menard, Jean-Michel
  - Menard, Philippe
  - Morris, John
+ - Moskowy, Braeden
  - Moulding, Darren
  - Murphy, Jamie
+ - Muyres, Kirk
  - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
@@ -115,11 +143,15 @@ vs:
  - Sawatsky, Rick
  - Schille, Chris
  - Scoffin, Thomas
+ - Smith, Tyler
  - Spencer, Adam
+ - Stringer, Ben
  - Sylvain, Eric
  - Thiessen, Brad
  - Walker, Geoff
  - Wallingham, Joe
+ - White, Edward
  - Winfield, Brett
  - Wozniak, Matt
+ - Young, Nathan
 ---

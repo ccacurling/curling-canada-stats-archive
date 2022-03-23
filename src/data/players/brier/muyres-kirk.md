@@ -4,18 +4,18 @@ name: Kirk Muyres
 name-sort: Muyres, Kirk
 totals:
  - event: Brier
-   games: 70
-   wins: 39
-   losses: 31
-   inturn-total: 722
+   games: 79
+   wins: 45
+   losses: 34
+   inturn-total: 809
    inturn-percent: 86
-   outturn-total: 630
+   outturn-total: 719
    outturn-percent: 83
-   draw-total: 539
+   draw-total: 614
    draw-percent: 83
-   takeout-total: 813
-   takeout-percent: 85
-   shots-total: 1352
+   takeout-total: 914
+   takeout-percent: 86
+   shots-total: 1528
    shots-percent: 85
 years:
  - year: 2014
@@ -120,6 +120,23 @@ years:
    takeout-percent: 84
    shots-total: 243
    shots-percent: 85
+ - year: 2022
+   event: Brier
+   team: "WC"
+   position: Second
+   games: 9
+   wins: 6
+   losses: 3
+   inturn-total: 87
+   inturn-percent: 82
+   outturn-total: 89
+   outturn-percent: 86
+   draw-total: 75
+   draw-percent: 82
+   takeout-total: 101
+   takeout-percent: 86
+   shots-total: 176
+   shots-percent: 84
 vs:
  - Abel, Clinton
  - Asselin, Felix
@@ -145,19 +162,22 @@ vs:
  - Childs, Jamie
  - Chorostkowski, Brad
  - Chown, Jeff
+ - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
  - Currie, Jeff
  - Dion, William
+ - Dobson, Paul
  - Doherty, Robbie
  - Eldridge, Zach
  - Epping, John
  - Farnell, Jamie
  - Flasch, Colton
  - Flemming, Paul
+ - Follett, Sam
  - Ford, Chris
- - Forget, Wes
+ - Forget, Wesley
  - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
@@ -178,6 +198,7 @@ vs:
  - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Jewer, Keith
  - Jones, Scott
  - Kean, Mark
@@ -189,17 +210,21 @@ vs:
  - Koivula, Colin
  - Kuhn, Ryan
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Lemay, Philippe
  - Likely, John
+ - Locke, Nathan
  - Lowery, Ryan
  - MacKenzie, Eddie
  - MacKenzie, Tyler
  - Mackey, Peter
  - Mallais, Jeremy
  - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
@@ -234,6 +259,8 @@ vs:
  - Samagalski, Derek
  - Sawatsky, Rick
  - Schille, Chris
+ - Schneider, Catlin
+ - Scoffin, Thomas
  - Simmons, Pat
  - Smallwood, Robert
  - Smith, Greg
@@ -243,13 +270,17 @@ vs:
  - St.Louis, Brady
  - St.Louis, David
  - Stoughton, Jeff
+ - Stringer, Ben
  - Sylvain, Eric
  - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
  - Trepanier, Jean-Francois
  - Walker, Geoff
+ - Wallingham, Joe
+ - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Wozniak, Matt
+ - Young, Nathan
 ---

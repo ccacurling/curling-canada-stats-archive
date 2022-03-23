@@ -4,18 +4,18 @@ name: Carter Rycroft
 name-sort: Rycroft, Carter
 totals:
  - event: Brier
-   games: 90
-   wins: 62
+   games: 92
+   wins: 64
    losses: 28
-   inturn-total: 850
+   inturn-total: 858
    inturn-percent: 87
    outturn-total: 806
    outturn-percent: 87
-   draw-total: 684
+   draw-total: 690
    draw-percent: 85
-   takeout-total: 972
+   takeout-total: 974
    takeout-percent: 88
-   shots-total: 1656
+   shots-total: 1664
    shots-percent: 87
 years:
  - year: 2000
@@ -137,6 +137,48 @@ years:
    takeout-percent: 88
    shots-total: 204
    shots-percent: 86
+ - year: 2022
+   event: Brier
+   team: "AB"
+   position: Lead
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 4
+   inturn-percent: 69
+   draw-total: 4
+   draw-percent: 69
+   shots-total: 4
+   shots-percent: 69
+ - year: 2022
+   event: Brier
+   team: "AB"
+   position: Second
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 4
+   inturn-percent: 75
+   draw-total: 2
+   draw-percent: 75
+   takeout-total: 2
+   takeout-percent: 75
+   shots-total: 4
+   shots-percent: 75
+ - year: 2022
+   event: Brier
+   team: Totals
+   games: 2
+   wins: 2
+   losses: 0
+   inturn-total: 8
+   inturn-percent: 72
+   draw-total: 6
+   draw-percent: 71
+   takeout-total: 2
+   takeout-percent: 75
+   shots-total: 8
+   shots-percent: 72
 vs:
  - Adams, Shawn
  - Anderson, Chris
@@ -165,6 +207,7 @@ vs:
  - Childs, Jamie
  - Chorostkowski, Brad
  - Clarey, Sean
+ - Codner, Nicholas
  - Collin, Simon
  - Corner, Peter
  - Cotter, Jim
@@ -187,6 +230,7 @@ vs:
  - Flasch, Colton
  - Flaxey, Caleb
  - Folk, Kevin
+ - Follett, Sam
  - Fowler, Rob
  - Fry, Ryan
  - Gagnon, Jean
@@ -221,6 +265,7 @@ vs:
  - Howard, Steven
  - Jacobs, Brad
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Jewer, Keith
  - Johnson, Bill
  - Jones, Scott
@@ -238,10 +283,12 @@ vs:
  - Laing, Brent
  - Landry, Jeremy
  - Lang, Tyler
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
  - LeDrew, Ryan
+ - Locke, Nathan
  - Lohnes, Bruce
  - Lyburn, Allan
  - MacDonald, Rod
@@ -308,6 +355,7 @@ vs:
  - Sawatsky, Rick
  - Scales, Brian
  - Schille, Chris
+ - Scoffin, Thomas
  - Seabrook, Scott
  - Sharp, Jeff
  - Shypitka, Tom
@@ -316,6 +364,7 @@ vs:
  - Smith, Kent
  - Spencer, Adam
  - Stoughton, Jeff
+ - Stringer, Ben
  - Sullivan, Evan
  - Sveistrup, Jody
  - Sylvain, Eric
@@ -324,8 +373,10 @@ vs:
  - Vaughan, Jason
  - Villeneuve, Steeve
  - Walker, Geoff
+ - Wallingham, Joe
  - Whitehead, Kevin
  - Whitehead, Mark
  - Windsor, Brian
  - Wozniak, Matt
+ - Young, Nathan
 ---

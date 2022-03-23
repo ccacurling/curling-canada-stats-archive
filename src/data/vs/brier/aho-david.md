@@ -430,7 +430,7 @@ vs:
       year: 2020
       draw: Round Robin(4)
       score: CA 7 - NT 3
- - name: Forget, Wes
+ - name: Forget, Wesley
    totals:
     - event: Brier
       player1:

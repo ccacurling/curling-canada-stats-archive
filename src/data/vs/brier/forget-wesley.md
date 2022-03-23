@@ -1,6 +1,6 @@
 ---
-title: Wes Forget Head-to-head
-name: Forget, Wes
+title: Wesley Forget Head-to-head
+name: Forget, Wesley
 vs:
  - name: Fry, Ryan
    totals:

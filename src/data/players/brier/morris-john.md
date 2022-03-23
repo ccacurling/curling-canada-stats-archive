@@ -4,18 +4,18 @@ name: John Morris
 name-sort: Morris, John
 totals:
  - event: Brier
-   games: 139
-   wins: 102
-   losses: 37
-   inturn-total: 1027
+   games: 150
+   wins: 111
+   losses: 39
+   inturn-total: 1108
    inturn-percent: 86
-   outturn-total: 1534
+   outturn-total: 1659
    outturn-percent: 87
-   draw-total: 1033
-   draw-percent: 85
-   takeout-total: 1528
+   draw-total: 1119
+   draw-percent: 86
+   takeout-total: 1648
    takeout-percent: 87
-   shots-total: 2561
+   shots-total: 2767
    shots-percent: 86
 years:
  - year: 2002
@@ -253,6 +253,23 @@ years:
    takeout-percent: 90
    shots-total: 238
    shots-percent: 87
+ - year: 2022
+   event: Brier
+   team: "AB"
+   position: Second
+   games: 11
+   wins: 9
+   losses: 2
+   inturn-total: 81
+   inturn-percent: 87
+   outturn-total: 125
+   outturn-percent: 86
+   draw-total: 86
+   draw-percent: 88
+   takeout-total: 120
+   takeout-percent: 86
+   shots-total: 206
+   shots-percent: 87
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -292,6 +309,8 @@ vs:
  - Childs, Jamie
  - Chorostkowski, Brad
  - Chown, Jeff
+ - Cocks, Adam
+ - Codner, Nicholas
  - Collins, Ron
  - Cotter, Jim
  - Cowan, Chad
@@ -322,6 +341,7 @@ vs:
  - Flaxey, Caleb
  - Flemming, Paul
  - Folk, Kevin
+ - Follett, Sam
  - Fournier, Mike
  - Fowler, Rob
  - Fraser, Pierre
@@ -329,6 +349,7 @@ vs:
  - Gagne, Francois
  - Gagnon, Jean
  - Gallant, Brett
+ - Gallant, Chris
  - Gallant, Peter
  - Gaudet, Mike
  - Gavin, Martin
@@ -359,8 +380,10 @@ vs:
  - Jacobs, Brad
  - Jakomait, Dusty
  - Jakubo, Mike
+ - Janssen, Patrick
  - Jeffrey, Chris
  - Jenkins, Bill
+ - Jensen, Trygg
  - Joanisse, Dean
  - Jones, Brennen
  - Jones, Scott
@@ -384,11 +407,13 @@ vs:
  - Kuhn, Ryan
  - Laing, Brent
  - Lang, Mark
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Lemay, Philippe
  - Likely, John
+ - Locke, Nathan
  - Lohnes, Bruce
  - Lowery, Ryan
  - Lukowich, Mark
@@ -400,9 +425,12 @@ vs:
  - Mackey, Peter
  - Mallais, Jeremy
  - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Maskiewich, Ken
  - Mathers, David
+ - McCann, Andy
  - McCarville, Mike
  - McCusker, Brian
  - McDermaid, Donald
@@ -460,6 +488,7 @@ vs:
  - Schille, Chris
  - Schmidt, Aryn
  - Schneider, Catlin
+ - Scoffin, Thomas
  - Scoffin, Wade
  - Seabrook, Matt
  - Seabrook, Scott
@@ -475,6 +504,7 @@ vs:
  - Spencer, Adam
  - St.Louis, Brady
  - Stoughton, Jeff
+ - Stringer, Ben
  - Stuart, Darol
  - Suchy, Chris
  - Sullivan, Charles Jr.
@@ -488,9 +518,12 @@ vs:
  - Vaughan, Jason
  - Virtue, Brock
  - Walker, Geoff
+ - Wallingham, Joe
  - Watson, Aaron
+ - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Wood, Mike
  - Wozniak, Matt
+ - Young, Nathan
 ---

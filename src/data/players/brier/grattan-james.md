@@ -4,18 +4,18 @@ name: James Grattan
 name-sort: Grattan, James
 totals:
  - event: Brier
-   games: 150
-   wins: 72
-   losses: 78
-   inturn-total: 1075
-   inturn-percent: 79
-   outturn-total: 1740
+   games: 158
+   wins: 75
+   losses: 83
+   inturn-total: 1148
+   inturn-percent: 78
+   outturn-total: 1816
    outturn-percent: 81
-   draw-total: 1178
+   draw-total: 1231
    draw-percent: 78
-   takeout-total: 1637
+   takeout-total: 1733
    takeout-percent: 82
-   shots-total: 2815
+   shots-total: 2964
    shots-percent: 80
 years:
  - year: 1997
@@ -256,6 +256,23 @@ years:
    takeout-percent: 79
    shots-total: 157
    shots-percent: 79
+ - year: 2022
+   event: Brier
+   team: "NB"
+   position: Fourth
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 73
+   inturn-percent: 77
+   outturn-total: 76
+   outturn-percent: 83
+   draw-total: 53
+   draw-percent: 76
+   takeout-total: 96
+   takeout-percent: 83
+   shots-total: 149
+   shots-percent: 80
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -300,6 +317,7 @@ vs:
  - Childs, Jamie
  - Chorostkowski, Brad
  - Cochrane, Bryan
+ - Cocks, Adam
  - Collin, Simon
  - Collins, Ron
  - Cotter, Jim
@@ -337,6 +355,7 @@ vs:
  - Flaxey, Caleb
  - Flemming, Paul
  - Folk, Kevin
+ - Follett, Sam
  - Fournier, Mike
  - Fowler, Rob
  - Frans, Joe
@@ -425,6 +444,7 @@ vs:
  - Landry, Jeremy
  - Lang, Mark
  - Lappalainen, Art
+ - Latos, Evan
  - Laycock, Steve
  - Ledgerwood, Sean
  - LeDrew, Ryan
@@ -432,8 +452,10 @@ vs:
  - Lemery, Daniel
  - Likely, John
  - Lindsay, Tim
+ - Locke, Nathan
  - Loevenmark, Phil
  - Lohnes, Bruce
+ - Lowery, Ryan
  - Lukowich, Mark
  - MacAulay, Ian
  - MacDonald, Blake
@@ -448,6 +470,8 @@ vs:
  - MacLeod, Kris
  - March, Tim
  - Markowsky, Rob
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Maskiewich, Ken
@@ -542,11 +566,13 @@ vs:
  - Smith, Garth
  - Smith, Jeff
  - Smith, Kent
+ - Smith, Tyler
  - Solberg, Jon
  - Spicer, Grant
  - St.Louis, David
  - Steski, John
  - Stoughton, Jeff
+ - Stringer, Ben
  - Stuart, Darol
  - Suchy, Chris
  - Sullivan, Evan
@@ -573,10 +599,12 @@ vs:
  - Wempe, Brian
  - Werenich, Ed
  - Westphal, Don
+ - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Windsor, Brian
  - Winfield, Brett
  - Wood, Brad
  - Wozniak, Matt
+ - Young, Nathan
 ---

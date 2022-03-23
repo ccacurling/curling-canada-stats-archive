@@ -4,18 +4,18 @@ name: Jamie Brannen
 name-sort: Brannen, Jamie
 totals:
  - event: Brier
-   games: 39
-   wins: 12
+   games: 41
+   wins: 14
    losses: 27
-   inturn-total: 330
+   inturn-total: 335
    inturn-percent: 81
-   outturn-total: 402
-   outturn-percent: 85
-   draw-total: 602
+   outturn-total: 415
+   outturn-percent: 84
+   draw-total: 615
    draw-percent: 85
-   takeout-total: 130
-   takeout-percent: 74
-   shots-total: 732
+   takeout-total: 135
+   takeout-percent: 73
+   shots-total: 750
    shots-percent: 83
 years:
  - year: 2016
@@ -136,6 +136,23 @@ years:
    takeout-percent: 63
    shots-total: 154
    shots-percent: 81
+ - year: 2022
+   event: Brier
+   team: "NB"
+   position: Lead
+   games: 2
+   wins: 2
+   losses: 0
+   inturn-total: 5
+   inturn-percent: 80
+   outturn-total: 13
+   outturn-percent: 65
+   draw-total: 13
+   draw-percent: 75
+   takeout-total: 5
+   takeout-percent: 55
+   shots-total: 18
+   shots-percent: 69
 vs:
  - Aho, David
  - Borden, Robert
@@ -145,6 +162,7 @@ vs:
  - Carruthers, Reid
  - Casey, Adam
  - Chorostkowski, Brad
+ - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
@@ -152,6 +170,7 @@ vs:
  - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
+ - Follett, Sam
  - Fry, Ryan
  - Gallant, Brett
  - Griffith, Tyrel
@@ -174,6 +193,8 @@ vs:
  - Kuhn, Ryan
  - Laing, Brent
  - Laycock, Steve
+ - Locke, Nathan
+ - Lowery, Ryan
  - March, Tim
  - Martin, Karrick
  - Mathers, David
@@ -211,12 +232,16 @@ vs:
  - Scoffin, Thomas
  - Simmons, Pat
  - Skauge, Greg
+ - Smith, Tyler
  - Spencer, Adam
+ - Stringer, Ben
  - Sylvain, Eric
  - Thiessen, Brad
  - Thiessen, Nolan
  - Walker, Geoff
  - Wallingham, Joe
+ - White, Edward
  - Winfield, Brett
  - Wozniak, Matt
+ - Young, Nathan
 ---

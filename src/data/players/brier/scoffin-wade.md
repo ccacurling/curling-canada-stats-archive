@@ -106,6 +106,10 @@ years:
    takeout-percent: 77
    shots-total: 142
    shots-percent: 82
+ - year: 2022
+   event: Brier
+   team: "YT"
+   position: Alternate
 vs:
  - Adam, Gerry
  - Adams, Shawn

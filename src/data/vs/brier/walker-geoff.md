@@ -190,13 +190,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 90
-        wins: 4
+        percent: 87
+        wins: 5
         losses: 1
       player2:
-        percent: 83
+        percent: 85
         wins: 1
-        losses: 4
+        losses: 5
    games:
     - player1:
         team: 'NL'
@@ -278,4 +278,20 @@ vs:
       year: 2021
       draw: Pool(20)
       score: CA 12 - MB 2
+    - player1:
+        team: 'WC'
+        position: Lead
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 92
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(16)
+      score: WC 6 - WC 5
 ---

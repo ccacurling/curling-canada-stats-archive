@@ -2,6 +2,62 @@
 title: Cole Parsons Head-to-head
 name: Parsons, Cole
 vs:
+ - name: Pierce, Brent
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Second
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(6)
+      score: BC 7 - NT 3
+ - name: Pillsworth, Mark
+   totals:
+    - event: Brier
+      player1:
+        percent: 64
+        wins: 1
+        losses: 0
+      player2:
+        percent: 59
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Second
+        percent: 64
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 59
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(18)
+      score: NU 4 - NT 11
  - name: Pinder, Jordan
    totals:
     - event: Brier
@@ -30,16 +86,72 @@ vs:
       year: 2019
       draw: Round Robin(14)
       score: NT 2 - NB 8
+ - name: Richard, Jeff
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Second
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(6)
+      score: BC 7 - NT 3
+ - name: Saccary, Scott
+   totals:
+    - event: Brier
+      player1:
+        percent: 61
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Second
+        percent: 61
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(2)
+      score: NT 5 - NS 11
  - name: Samagalski, Derek
    totals:
     - event: Brier
       player1:
-        percent: 88
+        percent: 81
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 79
-        wins: 1
+        percent: 81
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -58,6 +170,22 @@ vs:
       year: 2020
       draw: Round Robin(6)
       score: NT 2 - WC 6
+    - player1:
+        team: 'NT'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(16)
+      score: NT 3 - MB 7
  - name: Sawatsky, Rick
    totals:
     - event: Brier
@@ -242,16 +370,44 @@ vs:
       year: 2019
       draw: Round Robin(6)
       score: NS 6 - NT 5
+ - name: Trepanier, Jean-Francois
+   totals:
+    - event: Brier
+      player1:
+        percent: 89
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Second
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(4)
+      score: NT 4 - QC 9
  - name: Walker, Geoff
    totals:
     - event: Brier
       player1:
-        percent: 93
+        percent: 88
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 94
-        wins: 1
+        percent: 89
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -270,6 +426,22 @@ vs:
       year: 2019
       draw: Round Robin(4)
       score: CA 7 - NT 5
+    - player1:
+        team: 'NT'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(8)
+      score: WC 8 - NT 3
  - name: Wallingham, Joe
    totals:
     - event: Brier
@@ -326,4 +498,32 @@ vs:
       year: 2020
       draw: Round Robin(9)
       score: NT 9 - YT 7
+ - name: Wozniak, Matt
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Second
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 79
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(12)
+      score: NT 3 - WC 6
 ---

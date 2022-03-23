@@ -71,7 +71,7 @@ vs:
  - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
- - Forget, Wes
+ - Forget, Wesley
  - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett

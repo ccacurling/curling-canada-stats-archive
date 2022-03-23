@@ -186,6 +186,34 @@ vs:
       year: 2014
       draw: Round Robin(12)
       score: TR 7 - NO 5
+ - name: Kolomaya, Jared
+   totals:
+    - event: Brier
+      player1:
+        percent: 59
+        wins: 0
+        losses: 1
+      player2:
+        percent: 71
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 59
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Second
+        percent: 71
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(6)
+      score: BC 7 - NT 3
  - name: Kopf, Steve
    totals:
     - event: Brier
@@ -990,6 +1018,34 @@ vs:
       year: 2009
       draw: Round Robin(4)
       score: NS 4 - TR 8
+ - name: Lott, Colton
+   totals:
+    - event: Brier
+      player1:
+        percent: 72
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(16)
+      score: NT 3 - MB 7
  - name: Lyburn, Allan
    totals:
     - event: Brier
@@ -1334,13 +1390,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 71
-        wins: 1
+        percent: 67
+        wins: 2
         losses: 0
       player2:
-        percent: 61
+        percent: 56
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NT'
@@ -1358,6 +1414,22 @@ vs:
       year: 2019
       draw: Round Robin(10)
       score: NT 9 - NU 4
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 64
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Fourth
+        percent: 50
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(18)
+      score: NU 4 - NT 11
  - name: Mallais, Jeremy
    totals:
     - event: Brier
@@ -1842,12 +1914,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 75
+        percent: 74
         wins: 0
-        losses: 4
+        losses: 5
       player2:
-        percent: 94
-        wins: 4
+        percent: 91
+        wins: 5
         losses: 0
    games:
     - player1:
@@ -1914,6 +1986,22 @@ vs:
       year: 2020
       draw: Round Robin(6)
       score: NT 2 - WC 6
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 77
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(16)
+      score: NT 3 - MB 7
  - name: McKee, Darrell
    totals:
     - event: Brier
@@ -2046,6 +2134,34 @@ vs:
       year: 2014
       draw: Round Robin(4)
       score: TR 6 - MB 7
+ - name: Meister, Nicholas
+   totals:
+    - event: Brier
+      player1:
+        percent: 59
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 59
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(6)
+      score: BC 7 - NT 3
  - name: Menard, Jean-Michel
    totals:
     - event: Brier
@@ -2882,13 +2998,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 71
-        wins: 1
+        percent: 67
+        wins: 2
         losses: 0
       player2:
-        percent: 61
+        percent: 64
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NT'
@@ -2906,6 +3022,22 @@ vs:
       year: 2019
       draw: Round Robin(10)
       score: NT 9 - NU 4
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 64
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Second
+        percent: 67
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(18)
+      score: NU 4 - NT 11
  - name: Nantes, Dave
    totals:
     - event: Brier
@@ -3164,10 +3296,10 @@ vs:
       player1:
         percent: 77
         wins: 2
-        losses: 9
+        losses: 10
       player2:
-        percent: 86
-        wins: 9
+        percent: 85
+        wins: 10
         losses: 2
    games:
     - player1:
@@ -3346,6 +3478,50 @@ vs:
       year: 2019
       draw: Round Robin(4)
       score: CA 7 - NT 5
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 70
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(8)
+      score: WC 8 - NT 3
+ - name: Njegovan, Connor
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(12)
+      score: NT 3 - WC 6
  - name: Odishaw, Grant
    totals:
     - event: Brier
@@ -3682,12 +3858,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 67
+        percent: 62
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 61
-        wins: 0
+        percent: 73
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -3706,6 +3882,50 @@ vs:
       year: 2009
       draw: Round Robin(15)
       score: TR 11 - BC 3
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 59
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(6)
+      score: BC 7 - NT 3
+ - name: Pillsworth, Mark
+   totals:
+    - event: Brier
+      player1:
+        percent: 64
+        wins: 1
+        losses: 0
+      player2:
+        percent: 59
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 64
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 59
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(18)
+      score: NU 4 - NT 11
  - name: Pinder, Jordan
    totals:
     - event: Brier
@@ -3870,12 +4090,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 63
+        percent: 62
         wins: 0
-        losses: 2
+        losses: 3
       player2:
         percent: 86
-        wins: 2
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -3909,6 +4129,22 @@ vs:
       event: Brier
       year: 2018
       draw: Round Robin(12)
+      score: BC 7 - NT 3
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 59
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(6)
       score: BC 7 - NT 3
  - name: Roach, Darren
    totals:
@@ -4254,12 +4490,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 74
+        percent: 68
         wins: 1
-        losses: 1
+        losses: 2
       player2:
         percent: 78
-        wins: 1
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -4294,16 +4530,32 @@ vs:
       year: 2018
       draw: Round Robin(8)
       score: NT 7 - NS 3
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 54
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(2)
+      score: NT 5 - NS 11
  - name: Samagalski, Derek
    totals:
     - event: Brier
       player1:
         percent: 74
         wins: 0
-        losses: 4
+        losses: 5
       player2:
-        percent: 89
-        wins: 4
+        percent: 88
+        wins: 5
         losses: 0
    games:
     - player1:
@@ -4370,6 +4622,22 @@ vs:
       year: 2020
       draw: Round Robin(6)
       score: NT 2 - WC 6
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(16)
+      score: NT 3 - MB 7
  - name: Savill, Craig
    totals:
     - event: Brier
@@ -5790,12 +6058,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 87
+        percent: 85
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 94
-        wins: 0
+        percent: 91
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -5814,6 +6082,22 @@ vs:
       year: 2018
       draw: Pool(17)
       score: NT 6 - QC 3
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(4)
+      score: NT 4 - QC 9
  - name: Van Den Berghe, Garry
    totals:
     - event: Brier
@@ -6006,12 +6290,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 80
+        percent: 79
         wins: 2
-        losses: 6
+        losses: 7
       player2:
-        percent: 93
-        wins: 6
+        percent: 92
+        wins: 7
         losses: 2
    games:
     - player1:
@@ -6142,6 +6426,22 @@ vs:
       year: 2019
       draw: Round Robin(4)
       score: CA 7 - NT 5
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(8)
+      score: WC 8 - NT 3
  - name: Wallingham, Joe
    totals:
     - event: Brier
@@ -6342,12 +6642,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 75
+        percent: 76
         wins: 0
-        losses: 3
+        losses: 4
       player2:
-        percent: 86
-        wins: 3
+        percent: 84
+        wins: 4
         losses: 0
    games:
     - player1:
@@ -6398,4 +6698,20 @@ vs:
       year: 2018
       draw: Round Robin(10)
       score: NT 3 - WC 10
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 79
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(12)
+      score: NT 3 - WC 6
 ---

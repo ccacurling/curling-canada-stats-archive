@@ -4,19 +4,19 @@ name: Patrick Janssen
 name-sort: Janssen, Patrick
 totals:
  - event: Brier
-   games: 15
-   wins: 11
-   losses: 4
-   inturn-total: 144
+   games: 27
+   wins: 20
+   losses: 7
+   inturn-total: 281
    inturn-percent: 86
-   outturn-total: 118
-   outturn-percent: 85
-   draw-total: 113
+   outturn-total: 207
+   outturn-percent: 82
+   draw-total: 183
    draw-percent: 83
-   takeout-total: 149
-   takeout-percent: 87
-   shots-total: 262
-   shots-percent: 86
+   takeout-total: 305
+   takeout-percent: 85
+   shots-total: 488
+   shots-percent: 84
 years:
  - year: 2018
    event: Brier
@@ -67,6 +67,23 @@ years:
    takeout-percent: 100
    shots-total: 6
    shots-percent: 100
+ - year: 2022
+   event: Brier
+   team: "CA"
+   position: Third
+   games: 12
+   wins: 9
+   losses: 3
+   inturn-total: 137
+   inturn-percent: 85
+   outturn-total: 89
+   outturn-percent: 77
+   draw-total: 70
+   draw-percent: 82
+   takeout-total: 156
+   takeout-percent: 82
+   shots-total: 226
+   shots-percent: 82
 vs:
  - Aho, David
  - Asselin, Felix
@@ -75,32 +92,52 @@ vs:
  - Bottcher, Brendan
  - Carruthers, Reid
  - Case, Peter
+ - Casey, Adam
  - Cochrane, Bryan
+ - Cocks, Adam
  - Crowell, Phil
  - Currie, Morgan
  - Dion, William
+ - Dobson, Paul
  - Dunstone, Matt
+ - Flasch, Colton
  - Flemming, Paul
+ - Follett, Sam
  - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
  - Gallant, Chris
  - Grattan, James
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
+ - Hebert, Ben
  - Hodgson, Colin
+ - Howard, Glenn
+ - Howard, Scott
  - Jacobs, Brad
  - Jeffrey, Chris
+ - Jensen, Trygg
+ - Kidby, Dustin
  - Kingdon, Wade
+ - Koe, Kevin
+ - Latos, Evan
  - Laycock, Steve
  - Ledgerwood, Sean
+ - Locke, Nathan
+ - Lowery, Ryan
  - MacAulay, Ian
  - MacKenzie, Eddie
  - Mackey, Peter
+ - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
+ - Mathers, David
  - McCann, Andy
  - McEwen, Mike
+ - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
  - Murphy, Jamie
@@ -111,15 +148,23 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - O'Rourke, Mark
  - Patzer, Brad
  - Saccary, Scott
  - Samagalski, Derek
+ - Schneider, Catlin
+ - Scoffin, Thomas
  - Skauge, Greg
+ - Smith, Tyler
  - St.Louis, David
+ - Stringer, Ben
  - Thiessen, Brad
  - Trepanier, Jean-Francois
  - Walker, Geoff
+ - Wallingham, Joe
+ - White, Edward
  - Wozniak, Matt
+ - Young, Nathan
  - Younker, Robbie
 ---

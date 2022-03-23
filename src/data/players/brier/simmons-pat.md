@@ -4,18 +4,18 @@ name: Pat Simmons
 name-sort: Simmons, Pat
 totals:
  - event: Brier
-   games: 110
-   wins: 68
+   games: 112
+   wins: 70
    losses: 42
-   inturn-total: 1017
+   inturn-total: 1020
    inturn-percent: 82
-   outturn-total: 1026
+   outturn-total: 1029
    outturn-percent: 82
    draw-total: 876
    draw-percent: 79
-   takeout-total: 1167
+   takeout-total: 1173
    takeout-percent: 84
-   shots-total: 2043
+   shots-total: 2049
    shots-percent: 82
 years:
  - year: 2005
@@ -204,6 +204,50 @@ years:
    takeout-percent: 93
    shots-total: 205
    shots-percent: 88
+ - year: 2022
+   event: Brier
+   team: "SK"
+   position: Second
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 2
+   inturn-percent: 50
+   outturn-total: 2
+   outturn-percent: 13
+   takeout-total: 4
+   takeout-percent: 31
+   shots-total: 4
+   shots-percent: 31
+ - year: 2022
+   event: Brier
+   team: "SK"
+   position: Third
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 1
+   inturn-percent: 100
+   outturn-total: 1
+   outturn-percent: 100
+   takeout-total: 2
+   takeout-percent: 100
+   shots-total: 2
+   shots-percent: 100
+ - year: 2022
+   event: Brier
+   team: Totals
+   games: 2
+   wins: 2
+   losses: 0
+   inturn-total: 3
+   inturn-percent: 67
+   outturn-total: 3
+   outturn-percent: 42
+   takeout-total: 6
+   takeout-percent: 54
+   shots-total: 6
+   shots-percent: 54
 vs:
  - Adams, Shawn
  - Armstrong, Mike
@@ -304,6 +348,7 @@ vs:
  - Jakomait, Dusty
  - Jakubo, Mike
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Jewer, Keith
  - Joanisse, Dean
  - Johnson, Bill
@@ -323,6 +368,7 @@ vs:
  - Laing, Brent
  - Landry, Jeremy
  - Lang, Tyler
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
@@ -357,6 +403,7 @@ vs:
  - Moshenko, Darcy
  - Moskowy, Braeden
  - Moss, Steve
+ - Moulding, Darren
  - Munroe, Steven
  - Murphy, Jamie
  - Muyres, Dallan
@@ -394,6 +441,7 @@ vs:
  - Savill, Craig
  - Sawatsky, Rick
  - Schille, Chris
+ - Scoffin, Thomas
  - Scoffin, Wade
  - Seabrook, Scott
  - Skauge, Greg
@@ -414,6 +462,7 @@ vs:
  - Villeneuve, Steeve
  - Walchuk, Don
  - Walker, Geoff
+ - Wallingham, Joe
  - Whitehead, Kevin
  - Whitehead, Mark
  - Windsor, Brian

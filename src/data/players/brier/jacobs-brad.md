@@ -4,18 +4,18 @@ name: Brad Jacobs
 name-sort: Jacobs, Brad
 totals:
  - event: Brier
-   games: 156
-   wins: 103
-   losses: 53
-   inturn-total: 1299
+   games: 165
+   wins: 109
+   losses: 56
+   inturn-total: 1349
    inturn-percent: 82
-   outturn-total: 1580
+   outturn-total: 1679
    outturn-percent: 84
-   draw-total: 1199
-   draw-percent: 81
-   takeout-total: 1680
+   draw-total: 1256
+   draw-percent: 82
+   takeout-total: 1772
    takeout-percent: 85
-   shots-total: 2879
+   shots-total: 3028
    shots-percent: 83
 years:
  - year: 2007
@@ -272,8 +272,26 @@ years:
    takeout-percent: 80
    shots-total: 225
    shots-percent: 81
+ - year: 2022
+   event: Brier
+   team: "NO"
+   position: Fourth
+   games: 9
+   wins: 6
+   losses: 3
+   inturn-total: 50
+   inturn-percent: 83
+   outturn-total: 99
+   outturn-percent: 89
+   draw-total: 57
+   draw-percent: 82
+   takeout-total: 92
+   takeout-percent: 89
+   shots-total: 149
+   shots-percent: 87
 vs:
  - Abel, Clinton
+ - Abraham, Ryan
  - Adam, Gerry
  - Adams, Shawn
  - Anderson, Chris
@@ -306,6 +324,7 @@ vs:
  - Chadwick, Scott
  - Champion, Kevin
  - Charette, Pierre
+ - Chester, Corey
  - Chorostkowski, Brad
  - Clarey, Sean
  - Cochrane, Bryan
@@ -332,7 +351,7 @@ vs:
  - Flemming, Paul
  - Folk, Kevin
  - Ford, Chris
- - Forget, Wes
+ - Forget, Wesley
  - Forrest, Alex
  - Fournier, Mike
  - Fowler, Rob
@@ -359,6 +378,7 @@ vs:
  - Higgs, Jake
  - Hodgson, Colin
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Scott
  - Howard, Steven
  - Janssen, Patrick
@@ -369,6 +389,7 @@ vs:
  - Jones, Scott
  - Kean, Mark
  - Kehoe, Mark
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
@@ -377,6 +398,7 @@ vs:
  - Koe, Jamie
  - Koe, Kevin
  - Kohlenberg, Dale
+ - Kolomaya, Jared
  - Kopf, Steve
  - Korab, Jamie
  - Korte, Bruce
@@ -390,6 +412,7 @@ vs:
  - Lemay, Philippe
  - Lequin, Bradley
  - Likely, John
+ - Lott, Colton
  - Lyburn, Allan
  - MacAulay, Ian
  - MacDonald, Blake
@@ -418,6 +441,7 @@ vs:
  - Mckinnon, Robert
  - Meachem, Shaun Myles
  - Mead, Jon
+ - Meister, Nicholas
  - Menard, Jean-Michel
  - Menard, Philippe
  - Merklinger, Bill
@@ -448,8 +472,11 @@ vs:
  - O'Rourke, Mark
  - Palmer, Curt
  - Park, Kevin
+ - Parsons, Cole
  - Patzer, Brad
  - Peech, Alexander
+ - Pierce, Brent
+ - Pillsworth, Mark
  - Pinder, Jordan
  - Porter, Ryan
  - Quevillon, Louis
@@ -488,6 +515,7 @@ vs:
  - Thiessen, Nolan
  - Trepanier, Jean-Francois
  - Ursel, Bob
+ - Van Strien, Peter
  - Vaughan, Jason
  - Villeneuve, Steeve
  - Virtue, Brock

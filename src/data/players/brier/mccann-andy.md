@@ -4,19 +4,19 @@ name: Andy McCann
 name-sort: McCann, Andy
 totals:
  - event: Brier
-   games: 36
-   wins: 15
-   losses: 21
-   inturn-total: 319
-   inturn-percent: 80
-   outturn-total: 367
-   outturn-percent: 81
-   draw-total: 308
-   draw-percent: 81
-   takeout-total: 378
-   takeout-percent: 80
-   shots-total: 686
-   shots-percent: 80
+   games: 43
+   wins: 17
+   losses: 26
+   inturn-total: 382
+   inturn-percent: 81
+   outturn-total: 436
+   outturn-percent: 82
+   draw-total: 417
+   draw-percent: 84
+   takeout-total: 401
+   takeout-percent: 79
+   shots-total: 818
+   shots-percent: 82
 years:
  - year: 2008
    event: Brier
@@ -107,6 +107,23 @@ years:
    takeout-percent: 73
    shots-total: 156
    shots-percent: 77
+ - year: 2022
+   event: Brier
+   team: "NB"
+   position: Lead
+   games: 7
+   wins: 2
+   losses: 5
+   inturn-total: 63
+   inturn-percent: 86
+   outturn-total: 69
+   outturn-percent: 91
+   draw-total: 109
+   draw-percent: 92
+   takeout-total: 23
+   takeout-percent: 74
+   shots-total: 132
+   shots-percent: 88
 vs:
  - Adam, Gerry
  - Aho, David
@@ -132,6 +149,7 @@ vs:
  - Epping, John
  - Flasch, Colton
  - Folk, Kevin
+ - Follett, Sam
  - Fournier, Mike
  - Fowler, Rob
  - Fry, Ryan
@@ -161,14 +179,18 @@ vs:
  - Koe, Kevin
  - Laing, Brent
  - Lang, Tyler
+ - Latos, Evan
  - Laycock, Steve
  - Ledgerwood, Sean
+ - Locke, Nathan
  - Lyburn, Allan
  - MacKenzie, Eddie
  - MacKenzie, Tyler
  - Mackey, Peter
  - Manners, Scott
  - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
  - McDermaid, Donald
@@ -178,6 +200,7 @@ vs:
  - Middaugh, Wayne
  - Mikkelsen, Ray
  - Mikkelsen, Dustin
+ - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
  - Munroe, Steven
@@ -205,6 +228,7 @@ vs:
  - Simmons, Pat
  - Skauge, Greg
  - St.Louis, David
+ - Stringer, Ben
  - Thiessen, Brad
  - Thiessen, Nolan
  - Trepanier, Jean-Francois
@@ -213,4 +237,5 @@ vs:
  - Winfield, Brett
  - Wood, Brad
  - Wozniak, Matt
+ - Young, Nathan
 ---

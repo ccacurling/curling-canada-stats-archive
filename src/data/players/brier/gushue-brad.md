@@ -4,18 +4,18 @@ name: Brad Gushue
 name-sort: Gushue, Brad
 totals:
  - event: Brier
-   games: 223
-   wins: 151
-   losses: 72
-   inturn-total: 1681
-   inturn-percent: 85
-   outturn-total: 2469
+   games: 235
+   wins: 162
+   losses: 73
+   inturn-total: 1787
+   inturn-percent: 86
+   outturn-total: 2584
    outturn-percent: 85
-   draw-total: 1817
+   draw-total: 1917
    draw-percent: 85
-   takeout-total: 2333
+   takeout-total: 2454
    takeout-percent: 86
-   shots-total: 4150
+   shots-total: 4371
    shots-percent: 85
 years:
  - year: 2003
@@ -324,7 +324,25 @@ years:
    takeout-percent: 90
    shots-total: 217
    shots-percent: 88
+ - year: 2022
+   event: Brier
+   team: "WC"
+   position: Fourth
+   games: 12
+   wins: 11
+   losses: 1
+   inturn-total: 106
+   inturn-percent: 91
+   outturn-total: 115
+   outturn-percent: 87
+   draw-total: 100
+   draw-percent: 85
+   takeout-total: 121
+   takeout-percent: 92
+   shots-total: 221
+   shots-percent: 89
 vs:
+ - Abraham, Ryan
  - Adam, Gerry
  - Adams, Shawn
  - Aho, David
@@ -419,7 +437,7 @@ vs:
  - Flaxey, Caleb
  - Flemming, Paul
  - Folk, Kevin
- - Forget, Wes
+ - Forget, Wesley
  - Forrest, Alex
  - Fournier, Mike
  - Fowler, Rob
@@ -493,6 +511,7 @@ vs:
  - Kehoe, Mark
  - Kelsch, Dan
  - Kendall, Lloyd
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
@@ -500,6 +519,7 @@ vs:
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
+ - Kolomaya, Jared
  - Kopf, Steve
  - Korte, Bruce
  - Korte, Roger
@@ -518,6 +538,7 @@ vs:
  - Lindsay, Tim
  - Loevenmark, Phil
  - Lohnes, Bruce
+ - Lott, Colton
  - Lowery, Ryan
  - Lyburn, Allan
  - MacAulay, Ian
@@ -551,6 +572,7 @@ vs:
  - McKee, Darrell
  - Meachem, Shaun Myles
  - Mead, Jon
+ - Meister, Nicholas
  - Melnichuk, Greg
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -593,6 +615,7 @@ vs:
  - Pfeifer, Scott
  - Pielak, Rod
  - Pierce, Brent
+ - Pillsworth, Mark
  - Pinder, Jordan
  - Porter, Geoff
  - Porter, Ryan

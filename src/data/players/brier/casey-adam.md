@@ -4,18 +4,18 @@ name: Adam Casey
 name-sort: Casey, Adam
 totals:
  - event: Brier
-   games: 91
-   wins: 42
-   losses: 49
-   inturn-total: 751
+   games: 101
+   wins: 48
+   losses: 53
+   inturn-total: 823
    inturn-percent: 81
-   outturn-total: 960
+   outturn-total: 1072
    outturn-percent: 83
-   draw-total: 734
+   draw-total: 801
    draw-percent: 81
-   takeout-total: 977
+   takeout-total: 1094
    takeout-percent: 83
-   shots-total: 1711
+   shots-total: 1895
    shots-percent: 82
 years:
  - year: 2012
@@ -154,9 +154,28 @@ years:
    takeout-percent: 84
    shots-total: 222
    shots-percent: 84
+ - year: 2022
+   event: Brier
+   team: "WC"
+   position: Third
+   games: 10
+   wins: 6
+   losses: 4
+   inturn-total: 72
+   inturn-percent: 80
+   outturn-total: 112
+   outturn-percent: 86
+   draw-total: 67
+   draw-percent: 79
+   takeout-total: 117
+   takeout-percent: 86
+   shots-total: 184
+   shots-percent: 84
 vs:
+ - Abraham, Ryan
  - Armstrong, Mike
  - Asselin, Emile
+ - Asselin, Felix
  - Balsdon, Greg
  - Bardsley, Mike
  - Barry, Josh
@@ -195,6 +214,7 @@ vs:
  - Flasch, Colton
  - Flemming, Paul
  - Folk, Kevin
+ - Fournier, Mike
  - Fowler, Rob
  - Fry, Ryan
  - Gallant, Brett
@@ -213,11 +233,14 @@ vs:
  - Higgs, Jake
  - Hodgson, Colin
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Scott
  - Jacobs, Brad
+ - Janssen, Patrick
  - Jeffrey, Chris
  - Jones, Scott
  - Kean, Mark
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
@@ -225,6 +248,7 @@ vs:
  - Koe, Kevin
  - Kohlenberg, Dale
  - Koivula, Colin
+ - Kolomaya, Jared
  - Kopf, Steve
  - Kuhn, Ryan
  - Laing, Brent
@@ -233,11 +257,13 @@ vs:
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Lequin, Bradley
+ - Lott, Colton
  - Lyburn, Allan
  - MacAulay, Ian
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - MacKenzie, Tyler
+ - Mackey, Peter
  - Mallais, Jeremy
  - Manners, Scott
  - March, Tim
@@ -251,6 +277,7 @@ vs:
  - Mckinnon, Robert
  - NcNeil-Lamswood, Ryan
  - Mead, Jon
+ - Meister, Nicholas
  - Menard, Jean-Michel
  - Menard, Philippe
  - Merklinger, Bill
@@ -264,6 +291,7 @@ vs:
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Naugler, Tom
  - Nerpin, Andrew
  - Neufeld, B.J.
@@ -272,11 +300,15 @@ vs:
  - Odishaw, Grant
  - Odishaw, Terry
  - O'Rourke, Mark
+ - Parsons, Cole
  - Patzer, Brad
  - Peech, Alexander
  - Pfeifer, Scott
+ - Pierce, Brent
+ - Pillsworth, Mark
  - Pinder, Jordan
  - Quevillon, Louis
+ - Richard, Jeff
  - Roach, Darren
  - Roach, Jason
  - Roy, Jean-Sebastien
@@ -296,6 +328,7 @@ vs:
  - Sylvain, Eric
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Trepanier, Jean-Francois
  - Villeneuve, Steeve
  - Virtue, Brock
  - Walker, Geoff

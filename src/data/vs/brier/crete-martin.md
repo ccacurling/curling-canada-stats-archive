@@ -7,12 +7,12 @@ vs:
     - event: Brier
       player1:
         percent: 82
-        wins: 1
+        wins: 2
         losses: 1
       player2:
-        percent: 89
+        percent: 90
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'QC'
@@ -46,6 +46,22 @@ vs:
       year: 2021
       draw: Round Robin(9)
       score: NS 9 - QC 6
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Lead
+        percent: 92
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(16)
+      score: NS 6 - QC 14
  - name: Currie, Jeff
    totals:
     - event: Brier
@@ -506,13 +522,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 88
-        wins: 1
+        percent: 86
+        wins: 2
         losses: 1
       player2:
-        percent: 73
+        percent: 74
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'QC'
@@ -546,6 +562,22 @@ vs:
       year: 2021
       draw: Round Robin(9)
       score: NS 9 - QC 6
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(16)
+      score: NS 6 - QC 14
  - name: Folk, Kevin
    totals:
     - event: Brier
@@ -774,12 +806,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 81
+        percent: 80
         wins: 0
-        losses: 6
+        losses: 7
       player2:
         percent: 86
-        wins: 6
+        wins: 7
         losses: 0
    games:
     - player1:
@@ -878,6 +910,22 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: QC 7 - CA 11
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 84
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(2)
+      score: QC 3 - WC 9
  - name: Gallant, Peter
    totals:
     - event: Brier
@@ -1214,16 +1262,44 @@ vs:
       year: 2017
       draw: Round Robin(9)
       score: QC 5 - BC 4
- - name: Gushue, Brad
+ - name: Gunnlaugson, Jason
    totals:
     - event: Brier
       player1:
         percent: 81
         wins: 0
-        losses: 8
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(6)
+      score: QC 7 - WC 9
+ - name: Gushue, Brad
+   totals:
+    - event: Brier
+      player1:
+        percent: 80
+        wins: 0
+        losses: 9
       player2:
         percent: 84
-        wins: 8
+        wins: 9
         losses: 0
    games:
     - player1:
@@ -1354,16 +1430,32 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: QC 7 - CA 11
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(2)
+      score: QC 3 - WC 9
  - name: Harnden, E.J.
    totals:
     - event: Brier
       player1:
-        percent: 85
+        percent: 84
         wins: 1
-        losses: 5
+        losses: 6
       player2:
-        percent: 87
-        wins: 5
+        percent: 86
+        wins: 6
         losses: 1
    games:
     - player1:
@@ -1462,16 +1554,32 @@ vs:
       year: 2019
       draw: Round Robin(5)
       score: NO 7 - QC 3
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 77
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(8)
+      score: NO 6 - QC 1
  - name: Harnden, Ryan
    totals:
     - event: Brier
       player1:
-        percent: 85
+        percent: 84
         wins: 1
-        losses: 5
+        losses: 6
       player2:
-        percent: 88
-        wins: 5
+        percent: 89
+        wins: 6
         losses: 1
    games:
     - player1:
@@ -1570,6 +1678,22 @@ vs:
       year: 2019
       draw: Round Robin(5)
       score: NO 7 - QC 3
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 77
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Lead
+        percent: 97
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(8)
+      score: NO 6 - QC 1
  - name: Hart, Richard
    totals:
     - event: Brier
@@ -1938,13 +2062,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 88
-        wins: 1
+        percent: 81
+        wins: 2
         losses: 0
       player2:
-        percent: 63
+        percent: 56
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'QC'
@@ -1962,6 +2086,22 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: NU 1 - QC 15
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Second
+        percent: 50
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(10)
+      score: QC 9 - NU 4
  - name: Howard, Russ
    totals:
     - event: Brier
@@ -2110,12 +2250,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 85
+        percent: 84
         wins: 1
-        losses: 5
+        losses: 6
       player2:
-        percent: 87
-        wins: 5
+        percent: 88
+        wins: 6
         losses: 1
    games:
     - player1:
@@ -2214,6 +2354,22 @@ vs:
       year: 2019
       draw: Round Robin(5)
       score: NO 7 - QC 3
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 77
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 94
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(8)
+      score: NO 6 - QC 1
  - name: Jakubo, Mike
    totals:
     - event: Brier
@@ -2426,16 +2582,44 @@ vs:
       year: 2015
       draw: Round Robin(3)
       score: ON 9 - QC 8
+ - name: Kennedy, Glen
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Third
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(4)
+      score: NT 4 - QC 9
  - name: Kennedy, Marc
    totals:
     - event: Brier
       player1:
         percent: 82
         wins: 1
-        losses: 5
+        losses: 6
       player2:
         percent: 90
-        wins: 5
+        wins: 6
         losses: 1
    games:
     - player1:
@@ -2534,6 +2718,22 @@ vs:
       year: 2017
       draw: Round Robin(2)
       score: CA 7 - QC 5
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 77
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 92
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(8)
+      score: NO 6 - QC 1
  - name: Kennedy, Mike
    totals:
     - event: Brier
@@ -2658,13 +2858,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 85
-        wins: 5
+        percent: 84
+        wins: 6
         losses: 1
       player2:
-        percent: 80
+        percent: 81
         wins: 1
-        losses: 5
+        losses: 6
    games:
     - player1:
         team: 'QC'
@@ -2762,6 +2962,22 @@ vs:
       year: 2017
       draw: Round Robin(14)
       score: NT 6 - QC 8
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Fourth
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(4)
+      score: NT 4 - QC 9
  - name: Koe, Kevin
    totals:
     - event: Brier
@@ -2898,6 +3114,34 @@ vs:
       year: 2014
       draw: Round Robin(16)
       score: QC 7 - NO 4
+ - name: Kolomaya, Jared
+   totals:
+    - event: Brier
+      player1:
+        percent: 67
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(14)
+      score: BC 11 - QC 5
  - name: Kopf, Steve
    totals:
     - event: Brier
@@ -3358,6 +3602,34 @@ vs:
       year: 2009
       draw: Round Robin(10)
       score: QC 12 - NS 5
+ - name: Lott, Colton
+   totals:
+    - event: Brier
+      player1:
+        percent: 74
+        wins: 1
+        losses: 0
+      player2:
+        percent: 89
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(18)
+      score: QC 9 - MB 6
  - name: Lowery, Ryan
    totals:
     - event: Brier
@@ -3534,13 +3806,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 88
-        wins: 1
+        percent: 81
+        wins: 2
         losses: 0
       player2:
-        percent: 44
+        percent: 47
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'QC'
@@ -3558,6 +3830,22 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: NU 1 - QC 15
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Fourth
+        percent: 50
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(10)
+      score: QC 9 - NU 4
  - name: Mallais, Jeremy
    totals:
     - event: Brier
@@ -3950,13 +4238,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 83
-        wins: 0
+        percent: 81
+        wins: 1
         losses: 3
       player2:
-        percent: 86
+        percent: 81
         wins: 3
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'QC'
@@ -4006,6 +4294,22 @@ vs:
       year: 2019
       draw: Round Robin(3)
       score: MB 8 - QC 3
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 64
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(18)
+      score: QC 9 - MB 6
  - name: Meachem, Shaun Myles
    totals:
     - event: Brier
@@ -4110,6 +4414,34 @@ vs:
       year: 2014
       draw: Bronze(21)
       score: MB 9 - QC 5
+ - name: Meister, Nicholas
+   totals:
+    - event: Brier
+      player1:
+        percent: 67
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(14)
+      score: BC 11 - QC 5
  - name: Middaugh, Wayne
    totals:
     - event: Brier
@@ -4626,13 +4958,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 88
-        wins: 1
+        percent: 81
+        wins: 2
         losses: 0
       player2:
-        percent: 63
+        percent: 66
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'QC'
@@ -4650,6 +4982,22 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: NU 1 - QC 15
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 68
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(10)
+      score: QC 9 - NU 4
  - name: Naugler, Tom
    totals:
     - event: Brier
@@ -4786,12 +5134,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 82
+        percent: 81
         wins: 2
-        losses: 8
+        losses: 9
       player2:
         percent: 83
-        wins: 8
+        wins: 9
         losses: 2
    games:
     - player1:
@@ -4954,6 +5302,50 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: QC 7 - CA 11
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(2)
+      score: QC 3 - WC 9
+ - name: Njegovan, Connor
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(6)
+      score: QC 7 - WC 9
  - name: Noftall, David
    totals:
     - event: Brier
@@ -5082,6 +5474,34 @@ vs:
       year: 2009
       draw: Round Robin(16)
       score: QC 12 - PE 8
+ - name: Ouellette, Kevin
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Second
+        percent: 67
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(16)
+      score: NS 6 - QC 14
  - name: Ouimet, Luc
    totals:
     - event: Brier
@@ -5182,16 +5602,44 @@ vs:
       year: 2009
       draw: Tie-Breaker(18)
       score: QC 3 - MB 6
+ - name: Parsons, Cole
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 89
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Second
+        percent: 89
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(4)
+      score: NT 4 - QC 9
  - name: Pierce, Brent
    totals:
     - event: Brier
       player1:
-        percent: 79
+        percent: 74
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 78
-        wins: 1
+        percent: 82
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -5210,6 +5658,50 @@ vs:
       year: 2009
       draw: Round Robin(8)
       score: BC 7 - QC 3
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(14)
+      score: BC 11 - QC 5
+ - name: Pillsworth, Mark
+   totals:
+    - event: Brier
+      player1:
+        percent: 75
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(10)
+      score: QC 9 - NU 4
  - name: Pinder, Jordan
    totals:
     - event: Brier
@@ -5310,6 +5802,34 @@ vs:
       year: 2009
       draw: Round Robin(8)
       score: BC 7 - QC 3
+ - name: Richard, Jeff
+   totals:
+    - event: Brier
+      player1:
+        percent: 67
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(14)
+      score: BC 11 - QC 5
  - name: Roach, Darren
    totals:
     - event: Brier
@@ -5535,12 +6055,12 @@ vs:
     - event: Brier
       player1:
         percent: 82
-        wins: 1
+        wins: 2
         losses: 1
       player2:
-        percent: 79
+        percent: 80
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'QC'
@@ -5574,17 +6094,33 @@ vs:
       year: 2021
       draw: Round Robin(9)
       score: NS 9 - QC 6
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(16)
+      score: NS 6 - QC 14
  - name: Samagalski, Derek
    totals:
     - event: Brier
       player1:
-        percent: 80
-        wins: 1
+        percent: 78
+        wins: 2
         losses: 1
       player2:
-        percent: 86
+        percent: 85
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'QC'
@@ -5618,6 +6154,22 @@ vs:
       year: 2019
       draw: Round Robin(3)
       score: MB 8 - QC 3
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(18)
+      score: QC 9 - MB 6
  - name: Savill, Craig
    totals:
     - event: Brier
@@ -6722,12 +7274,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 81
+        percent: 80
         wins: 0
-        losses: 6
+        losses: 7
       player2:
         percent: 90
-        wins: 6
+        wins: 7
         losses: 0
    games:
     - player1:
@@ -6826,6 +7378,22 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: QC 7 - CA 11
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(2)
+      score: QC 3 - WC 9
  - name: Watson, Aaron
    totals:
     - event: Brier
@@ -6914,12 +7482,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 89
+        percent: 86
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 93
-        wins: 2
+        percent: 90
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -6954,4 +7522,20 @@ vs:
       year: 2017
       draw: Round Robin(17)
       score: MB 5 - QC 2
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(6)
+      score: QC 7 - WC 9
 ---

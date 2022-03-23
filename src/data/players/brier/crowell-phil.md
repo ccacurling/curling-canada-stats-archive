@@ -4,19 +4,19 @@ name: Phil Crowell
 name-sort: Crowell, Phil
 totals:
  - event: Brier
-   games: 48
-   wins: 19
-   losses: 29
-   inturn-total: 571
+   games: 56
+   wins: 22
+   losses: 34
+   inturn-total: 642
    inturn-percent: 87
-   outturn-total: 311
-   outturn-percent: 85
-   draw-total: 810
+   outturn-total: 381
+   outturn-percent: 86
+   draw-total: 933
    draw-percent: 87
-   takeout-total: 72
-   takeout-percent: 78
-   shots-total: 882
-   shots-percent: 86
+   takeout-total: 90
+   takeout-percent: 81
+   shots-total: 1023
+   shots-percent: 87
 years:
  - year: 2010
    event: Brier
@@ -103,6 +103,23 @@ years:
    takeout-percent: 88
    shots-total: 147
    shots-percent: 90
+ - year: 2022
+   event: Brier
+   team: "NS"
+   position: Lead
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 71
+   inturn-percent: 87
+   outturn-total: 70
+   outturn-percent: 89
+   draw-total: 123
+   draw-percent: 88
+   takeout-total: 18
+   takeout-percent: 90
+   shots-total: 141
+   shots-percent: 88
 vs:
  - Anderson, Chris
  - Appelman, Tom
@@ -158,12 +175,14 @@ vs:
  - Jacobs, Brad
  - Janssen, Patrick
  - Jones, Scott
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
  - Koe, Jamie
  - Koe, Kevin
  - Kohlenberg, Dale
+ - Kolomaya, Jared
  - Korab, Jamie
  - Korte, Bruce
  - Korte, Roger
@@ -172,6 +191,7 @@ vs:
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Lequin, Bradley
+ - Lott, Colton
  - Lowery, Ryan
  - MacAulay, Ian
  - MacDonald, Blake
@@ -188,6 +208,7 @@ vs:
  - McEwen, Mike
  - McKee, Darrell
  - Meachem, Shaun Myles
+ - Meister, Nicholas
  - Menard, Jean-Michel
  - Menard, Philippe
  - Morris, John
@@ -195,6 +216,7 @@ vs:
  - Moulding, Darren
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
@@ -203,7 +225,10 @@ vs:
  - Orme, Tyler
  - O'Rourke, Mark
  - Park, Kevin
+ - Parsons, Cole
  - Pfeifer, Scott
+ - Pierce, Brent
+ - Pillsworth, Mark
  - Quevillon, Louis
  - Reid, Serge
  - Richard, Jeff

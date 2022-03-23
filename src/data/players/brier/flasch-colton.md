@@ -4,18 +4,18 @@ name: Colton Flasch
 name-sort: Flasch, Colton
 totals:
  - event: Brier
-   games: 60
-   wins: 39
-   losses: 21
-   inturn-total: 580
+   games: 72
+   wins: 47
+   losses: 25
+   inturn-total: 703
    inturn-percent: 84
-   outturn-total: 576
-   outturn-percent: 85
-   draw-total: 519
-   draw-percent: 83
-   takeout-total: 637
-   takeout-percent: 85
-   shots-total: 1156
+   outturn-total: 670
+   outturn-percent: 84
+   draw-total: 603
+   draw-percent: 84
+   takeout-total: 770
+   takeout-percent: 84
+   shots-total: 1373
    shots-percent: 84
 years:
  - year: 2014
@@ -103,6 +103,23 @@ years:
    takeout-percent: 83
    shots-total: 215
    shots-percent: 83
+ - year: 2022
+   event: Brier
+   team: "SK"
+   position: Fourth
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 123
+   inturn-percent: 83
+   outturn-total: 94
+   outturn-percent: 77
+   draw-total: 84
+   draw-percent: 85
+   takeout-total: 133
+   takeout-percent: 78
+   shots-total: 217
+   shots-percent: 80
 vs:
  - Aho, David
  - Ardiel, Taylor
@@ -122,6 +139,7 @@ vs:
  - Chadwick, Scott
  - Childs, Jamie
  - Chorostkowski, Brad
+ - Cocks, Adam
  - Colter, Travis
  - Cotter, Jim
  - Crete, Martin
@@ -132,7 +150,8 @@ vs:
  - Eldridge, Zach
  - Epping, John
  - Farnell, Jamie
- - Forget, Wes
+ - Follett, Sam
+ - Forget, Wesley
  - Forrest, Alex
  - Fry, Ryan
  - Gallant, Brett
@@ -148,6 +167,7 @@ vs:
  - Howard, Glenn
  - Howard, Scott
  - Jacobs, Brad
+ - Janssen, Patrick
  - Jeffrey, Chris
  - Jensen, Trygg
  - Jones, Scott
@@ -161,13 +181,17 @@ vs:
  - Koivula, Colin
  - Kuhn, Ryan
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
+ - Locke, Nathan
+ - Lowery, Ryan
  - MacKenzie, Eddie
  - MacKenzie, Tyler
  - Mackey, Peter
  - Mallais, Jeremy
+ - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
  - Martin, Karrick
@@ -209,18 +233,22 @@ vs:
  - Schneider, Catlin
  - Scoffin, Thomas
  - Simmons, Pat
+ - Smith, Tyler
  - Spencer, Adam
  - St.Louis, David
  - Steele, Colten
  - Stoughton, Jeff
+ - Stringer, Ben
  - Sylvain, Eric
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thompson, Stuart
  - Walker, Geoff
  - Wallingham, Joe
+ - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Winfield, Brett
  - Wozniak, Matt
+ - Young, Nathan
 ---

@@ -4,18 +4,18 @@ name: Geoff Walker
 name-sort: Walker, Geoff
 totals:
  - event: Brier
-   games: 126
-   wins: 89
-   losses: 37
-   inturn-total: 992
+   games: 138
+   wins: 100
+   losses: 38
+   inturn-total: 1129
    inturn-percent: 90
-   outturn-total: 1383
+   outturn-total: 1507
    outturn-percent: 89
-   draw-total: 1994
+   draw-total: 2195
    draw-percent: 91
-   takeout-total: 381
+   takeout-total: 441
    takeout-percent: 78
-   shots-total: 2375
+   shots-total: 2636
    shots-percent: 89
 years:
  - year: 2012
@@ -188,7 +188,25 @@ years:
    takeout-percent: 73
    shots-total: 217
    shots-percent: 87
+ - year: 2022
+   event: Brier
+   team: "WC"
+   position: Lead
+   games: 12
+   wins: 11
+   losses: 1
+   inturn-total: 137
+   inturn-percent: 89
+   outturn-total: 124
+   outturn-percent: 89
+   draw-total: 201
+   draw-percent: 91
+   takeout-total: 60
+   takeout-percent: 83
+   shots-total: 261
+   shots-percent: 89
 vs:
+ - Abraham, Ryan
  - Aho, David
  - Appelman, Tom
  - Ardiel, Taylor
@@ -242,7 +260,7 @@ vs:
  - Flasch, Colton
  - Flemming, Paul
  - Folk, Kevin
- - Forget, Wes
+ - Forget, Wesley
  - Forrest, Alex
  - Fournier, Mike
  - Fowler, Rob
@@ -273,12 +291,14 @@ vs:
  - Jones, Scott
  - Kean, Mark
  - Kendall, Lloyd
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
+ - Kolomaya, Jared
  - Kopf, Steve
  - Kuhn, Ryan
  - Laing, Brent
@@ -287,6 +307,7 @@ vs:
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Lequin, Bradley
+ - Lott, Colton
  - Lowery, Ryan
  - Lyburn, Allan
  - MacAulay, Ian
@@ -312,6 +333,7 @@ vs:
  - McEwen, Mike
  - Meachem, Shaun Myles
  - Mead, Jon
+ - Meister, Nicholas
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -335,6 +357,8 @@ vs:
  - Odishaw, Terry
  - O'Rourke, Mark
  - Parsons, Cole
+ - Pierce, Brent
+ - Pillsworth, Mark
  - Pinder, Jordan
  - Quevillon, Louis
  - Richard, Jeff

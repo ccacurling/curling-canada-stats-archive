@@ -4,18 +4,18 @@ name: Mark Nichols
 name-sort: Nichols, Mark
 totals:
  - event: Brier
-   games: 214
-   wins: 151
+   games: 222
+   wins: 159
    losses: 63
-   inturn-total: 1687
+   inturn-total: 1746
    inturn-percent: 84
-   outturn-total: 2344
+   outturn-total: 2429
    outturn-percent: 86
-   draw-total: 1654
+   draw-total: 1707
    draw-percent: 86
-   takeout-total: 2377
+   takeout-total: 2468
    takeout-percent: 85
-   shots-total: 4031
+   shots-total: 4175
    shots-percent: 85
 years:
  - year: 2003
@@ -307,7 +307,25 @@ years:
    takeout-percent: 84
    shots-total: 216
    shots-percent: 86
+ - year: 2022
+   event: Brier
+   team: "WC"
+   position: Third
+   games: 8
+   wins: 8
+   losses: 0
+   inturn-total: 59
+   inturn-percent: 84
+   outturn-total: 85
+   outturn-percent: 91
+   draw-total: 53
+   draw-percent: 86
+   takeout-total: 91
+   takeout-percent: 89
+   shots-total: 144
+   shots-percent: 88
 vs:
+ - Abraham, Ryan
  - Adam, Gerry
  - Adams, Shawn
  - Aho, David
@@ -399,7 +417,7 @@ vs:
  - Flaxey, Caleb
  - Flemming, Paul
  - Folk, Kevin
- - Forget, Wes
+ - Forget, Wesley
  - Forrest, Alex
  - Fournier, Mike
  - Fowler, Rob
@@ -474,6 +492,7 @@ vs:
  - Kehoe, Mark
  - Kelsch, Dan
  - Kendall, Lloyd
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
@@ -481,6 +500,7 @@ vs:
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
+ - Kolomaya, Jared
  - Kopf, Steve
  - Korte, Bruce
  - Korte, Roger
@@ -498,6 +518,7 @@ vs:
  - Lindsay, Tim
  - Loevenmark, Phil
  - Lohnes, Bruce
+ - Lott, Colton
  - Lowery, Ryan
  - MacAulay, Ian
  - MacDonald, Blake
@@ -528,6 +549,7 @@ vs:
  - McKee, Darrell
  - Meachem, Shaun Myles
  - Mead, Jon
+ - Meister, Nicholas
  - Melnichuk, Greg
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -568,6 +590,7 @@ vs:
  - Pfeifer, Scott
  - Pielak, Rod
  - Pierce, Brent
+ - Pillsworth, Mark
  - Pinder, Jordan
  - Porter, Geoff
  - Porter, Ryan

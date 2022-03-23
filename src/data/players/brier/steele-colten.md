@@ -41,7 +41,7 @@ vs:
  - Chadwick, Scott
  - Cotter, Jim
  - Flasch, Colton
- - Forget, Wes
+ - Forget, Wesley
  - Gallant, Brett
  - Griffith, Tyrel
  - Gushue, Brad

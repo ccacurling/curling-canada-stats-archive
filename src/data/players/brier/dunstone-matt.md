@@ -4,18 +4,18 @@ name: Matt Dunstone
 name-sort: Dunstone, Matt
 totals:
  - event: Brier
-   games: 37
-   wins: 23
-   losses: 14
-   inturn-total: 406
-   inturn-percent: 85
-   outturn-total: 288
-   outturn-percent: 85
-   draw-total: 260
+   games: 46
+   wins: 29
+   losses: 17
+   inturn-total: 518
+   inturn-percent: 86
+   outturn-total: 351
+   outturn-percent: 84
+   draw-total: 345
    draw-percent: 85
-   takeout-total: 434
+   takeout-total: 524
    takeout-percent: 85
-   shots-total: 694
+   shots-total: 869
    shots-percent: 85
 years:
  - year: 2018
@@ -69,6 +69,23 @@ years:
    takeout-percent: 84
    shots-total: 242
    shots-percent: 85
+ - year: 2022
+   event: Brier
+   team: "WC"
+   position: Fourth
+   games: 9
+   wins: 6
+   losses: 3
+   inturn-total: 112
+   inturn-percent: 87
+   outturn-total: 63
+   outturn-percent: 84
+   draw-total: 85
+   draw-percent: 87
+   takeout-total: 90
+   takeout-percent: 85
+   shots-total: 175
+   shots-percent: 86
 vs:
  - Aho, David
  - Asselin, Felix
@@ -82,6 +99,7 @@ vs:
  - Case, Peter
  - Casey, Adam
  - Chown, Jeff
+ - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
@@ -90,6 +108,7 @@ vs:
  - Epping, John
  - Flasch, Colton
  - Flemming, Paul
+ - Follett, Sam
  - Forrest, Alex
  - Fournier, Mike
  - Fry, Ryan
@@ -103,6 +122,7 @@ vs:
  - Hebert, Ben
  - Hodgson, Colin
  - Horgan, Tanner
+ - Howard, Glenn
  - Howard, Greg
  - Howard, Scott
  - Jacobs, Brad
@@ -114,12 +134,16 @@ vs:
  - Koe, Jamie
  - Koe, Kevin
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - Ledgerwood, Sean
+ - Locke, Nathan
  - Lowery, Ryan
  - MacKenzie, Eddie
  - Mackey, Peter
  - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
@@ -144,15 +168,19 @@ vs:
  - Saccary, Scott
  - Samagalski, Derek
  - Sawatsky, Rick
+ - Schneider, Catlin
  - Scoffin, Thomas
  - Smith, Greg
  - Smith, Tyler
  - St.Louis, Brady
  - St.Louis, David
+ - Stringer, Ben
  - Thiessen, Brad
  - Trepanier, Jean-Francois
  - Walker, Geoff
  - Wallingham, Joe
+ - White, Edward
  - Winfield, Brett
  - Wozniak, Matt
+ - Young, Nathan
 ---

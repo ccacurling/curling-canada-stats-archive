@@ -332,7 +332,7 @@ vs:
  - Flemming, Paul
  - Florence, Malcolm
  - Folk, Kevin
- - Forget, Wes
+ - Forget, Wesley
  - Forsyth, Sandy
  - Fowler, Rob
  - Frans, Joe

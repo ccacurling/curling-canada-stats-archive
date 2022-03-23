@@ -44,7 +44,7 @@ vs:
  - Colter, Travis
  - Cotter, Jim
  - Flasch, Colton
- - Forget, Wes
+ - Forget, Wesley
  - Gallant, Brett
  - Grant, Jeff
  - Griffith, Tyrel

@@ -1,7 +1,7 @@
 ---
-title: Wes Forget
-name: Wes Forget
-name-sort: Forget, Wes
+title: Wesley Forget
+name: Wesley Forget
+name-sort: Forget, Wesley
 totals:
  - event: Brier
    games: 11

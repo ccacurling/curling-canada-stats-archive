@@ -4,18 +4,18 @@ name: Kevin Koe
 name-sort: Koe, Kevin
 totals:
  - event: Brier
-   games: 119
-   wins: 89
-   losses: 30
-   inturn-total: 812
+   games: 130
+   wins: 98
+   losses: 32
+   inturn-total: 884
    inturn-percent: 83
-   outturn-total: 1364
+   outturn-total: 1498
    outturn-percent: 87
-   draw-total: 812
+   draw-total: 890
    draw-percent: 84
-   takeout-total: 1364
+   takeout-total: 1492
    takeout-percent: 86
-   shots-total: 2176
+   shots-total: 2382
    shots-percent: 85
 years:
  - year: 2010
@@ -171,6 +171,23 @@ years:
    takeout-percent: 87
    shots-total: 234
    shots-percent: 86
+ - year: 2022
+   event: Brier
+   team: "AB"
+   position: Fourth
+   games: 11
+   wins: 9
+   losses: 2
+   inturn-total: 72
+   inturn-percent: 84
+   outturn-total: 134
+   outturn-percent: 88
+   draw-total: 78
+   draw-percent: 84
+   takeout-total: 128
+   takeout-percent: 89
+   shots-total: 206
+   shots-percent: 87
 vs:
  - Aho, David
  - Anderson, Chris
@@ -201,6 +218,8 @@ vs:
  - Chorostkowski, Brad
  - Chown, Jeff
  - Clarey, Sean
+ - Cocks, Adam
+ - Codner, Nicholas
  - Collin, Simon
  - Colter, Travis
  - Cotter, Jim
@@ -221,12 +240,14 @@ vs:
  - Flaxey, Caleb
  - Flemming, Paul
  - Folk, Kevin
- - Forget, Wes
+ - Follett, Sam
+ - Forget, Wesley
  - Forrest, Alex
  - Fournier, Mike
  - Fowler, Rob
  - Fry, Ryan
  - Gallant, Brett
+ - Gallant, Chris
  - Gaudet, Mike
  - Gavin, Martin
  - Gionest, Francois
@@ -245,6 +266,7 @@ vs:
  - Howard, Scott
  - Howard, Steven
  - Jacobs, Brad
+ - Janssen, Patrick
  - Jeffrey, Chris
  - Jensen, Trygg
  - Jones, Scott
@@ -261,9 +283,11 @@ vs:
  - Kuhn, Ryan
  - Laing, Brent
  - Lang, Tyler
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
+ - Locke, Nathan
  - Lowery, Ryan
  - Lyburn, Allan
  - MacDonald, Rod
@@ -343,6 +367,7 @@ vs:
  - St.Louis, David
  - Steele, Colten
  - Stoughton, Jeff
+ - Stringer, Ben
  - Sylvain, Eric
  - Thiessen, Brad
  - Thiessen, Nolan
@@ -352,8 +377,10 @@ vs:
  - Villeneuve, Steeve
  - Walker, Geoff
  - Wallingham, Joe
+ - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Winfield, Brett
  - Wozniak, Matt
+ - Young, Nathan
 ---

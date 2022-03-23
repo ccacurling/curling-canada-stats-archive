@@ -4,18 +4,18 @@ name: Brent Pierce
 name-sort: Pierce, Brent
 totals:
  - event: Brier
-   games: 36
-   wins: 24
-   losses: 12
-   inturn-total: 309
+   games: 44
+   wins: 28
+   losses: 16
+   inturn-total: 378
    inturn-percent: 82
-   outturn-total: 353
-   outturn-percent: 81
-   draw-total: 262
-   draw-percent: 79
-   takeout-total: 400
-   takeout-percent: 83
-   shots-total: 662
+   outturn-total: 424
+   outturn-percent: 80
+   draw-total: 343
+   draw-percent: 81
+   takeout-total: 459
+   takeout-percent: 81
+   shots-total: 802
    shots-percent: 81
 years:
  - year: 1998
@@ -69,39 +69,66 @@ years:
    takeout-percent: 81
    shots-total: 188
    shots-percent: 80
+ - year: 2022
+   event: Brier
+   team: "BC"
+   position: Fourth
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 69
+   inturn-percent: 84
+   outturn-total: 71
+   outturn-percent: 79
+   draw-total: 81
+   draw-percent: 90
+   takeout-total: 59
+   takeout-percent: 71
+   shots-total: 140
+   shots-percent: 82
 vs:
+ - Abraham, Ryan
  - Adams, Shawn
  - Alexander, Scott
  - Alexander, Trevor
  - Armstrong, Doug
+ - Asselin, Felix
  - Bailey, Scott
  - Bartlett, Don
  - Bitz, Scott
  - Blanchard, Ben
  - Blanchard, Jason
+ - Borden, Robert
  - Brandwood, Todd
  - Bryant, Doug
+ - Carruthers, Reid
  - Case, Peter
+ - Casey, Adam
  - Champion, Kevin
+ - Chandler, Jordan
  - Charette, Pierre
  - Chorostkowski, Brad
  - Chugg, Brad
  - Corner, Peter
  - Cowan, Chad
  - Crete, Martin
+ - Crowell, Phil
  - Dacey, Mark
  - Dauphinee, Andrew
  - Despins, Glen
  - Dobson, Mark
+ - Doering, Kyle
  - Dowden, Craig
  - Duguid, Dale
  - Ellis, Ken
  - Elmaleh, Maxime
  - Fetterly, Tom
  - Flemming, Paul
+ - Fournier, Mike
  - Fowler, Rob
  - Fry, Ryan
  - Gagnon, Jean
+ - Gallant, Brett
  - Gardeski, Larry
  - Gavin, Martin
  - Gibson, Andrew
@@ -109,8 +136,11 @@ vs:
  - Gould, Steve
  - Granchelli, Kris
  - Grattan, James
+ - Gunnlaugson, Jason
  - Gushue, Brad
  - Hamilton, Wayne
+ - Harnden, E.J.
+ - Harnden, Ryan
  - Hart, Richard
  - Hebert, Ben
  - Hemmings, Guy
@@ -119,11 +149,14 @@ vs:
  - Hollett, Peter
  - Hopkins, Jeff
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Russ
  - Howard, Steven
+ - Jacobs, Brad
  - Jakubo, Mike
  - Jordison, Joel
  - Keefe, Kevin
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kirkness, James
  - Koe, Jamie
@@ -134,12 +167,15 @@ vs:
  - Laing, Brent
  - Landry, Garry
  - Lohnes, Bruce
+ - Lott, Colton
  - MacDonald, Rod
+ - Mackey, Peter
  - Macklin, Drew
  - MacLeod, Glen
  - Martin, Kevin
  - McCarrel, Graeme
  - McDonald, Toby
+ - McEwen, Mike
  - McGregor, Ken
  - McInnis, Phillip
  - McKee, Darrell
@@ -152,17 +188,21 @@ vs:
  - Mitchell, Garth
  - Montgomery, Rod
  - Morris, John
+ - Nadeau, Jeff
  - Naugler, Tom
  - Ness, Dale
  - Nichols, Mark
+ - Njegovan, Connor
  - Nolan, Jason
  - Odishaw, Grant
  - Odishaw, Terry
  - O'Rourke, Mark
  - Ouimet, Luc
  - Park, Kevin
+ - Parsons, Cole
  - Perron, Rick
  - Phillips, Tim
+ - Pillsworth, Mark
  - Powell, Lloyd
  - Pritchett, Bob
  - Pyper, Dwayne
@@ -172,6 +212,8 @@ vs:
  - Robinson, Andrew
  - Rowsell, Rick
  - Rycroft, Carter
+ - Saccary, Scott
+ - Samagalski, Derek
  - Sauve, Dan
  - Sauve, Roger
  - Savill, Craig
@@ -190,8 +232,11 @@ vs:
  - Tetley, Ian
  - Thibaudeau, Guy
  - Toner, Lee
+ - Trepanier, Jean-Francois
  - Van Den Berghe, Garry
  - Walchuk, Don
+ - Walker, Geoff
  - Wiersema, Dale
  - Withers, Paul
+ - Wozniak, Matt
 ---

@@ -4,18 +4,18 @@ name: Reid Carruthers
 name-sort: Carruthers, Reid
 totals:
  - event: Brier
-   games: 93
-   wins: 56
-   losses: 37
-   inturn-total: 840
-   inturn-percent: 85
-   outturn-total: 873
+   games: 102
+   wins: 61
+   losses: 41
+   inturn-total: 931
+   inturn-percent: 84
+   outturn-total: 939
    outturn-percent: 85
-   draw-total: 746
-   draw-percent: 84
-   takeout-total: 967
+   draw-total: 794
+   draw-percent: 85
+   takeout-total: 1076
    takeout-percent: 85
-   shots-total: 1713
+   shots-total: 1870
    shots-percent: 85
 years:
  - year: 2008
@@ -167,8 +167,26 @@ years:
    takeout-percent: 79
    shots-total: 146
    shots-percent: 83
+ - year: 2022
+   event: Brier
+   team: "MB"
+   position: Third
+   games: 9
+   wins: 5
+   losses: 4
+   inturn-total: 91
+   inturn-percent: 81
+   outturn-total: 66
+   outturn-percent: 88
+   draw-total: 48
+   draw-percent: 85
+   takeout-total: 109
+   takeout-percent: 83
+   shots-total: 157
+   shots-percent: 84
 vs:
  - Abel, Clinton
+ - Abraham, Ryan
  - Adam, Gerry
  - Adams, Shawn
  - Aho, David
@@ -194,6 +212,7 @@ vs:
  - Casey, Adam
  - Chadwick, Scott
  - Charette, Pierre
+ - Chester, Corey
  - Childs, Jamie
  - Chorostkowski, Brad
  - Cotter, Jim
@@ -216,7 +235,7 @@ vs:
  - Flemming, Paul
  - Folk, Kevin
  - Ford, Chris
- - Forget, Wes
+ - Forget, Wesley
  - Forrest, Alex
  - Fournier, Mike
  - Fry, Ryan
@@ -237,6 +256,7 @@ vs:
  - Hart, Richard
  - Hebert, Ben
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Scott
  - Howard, Steven
  - Jacobs, Brad
@@ -246,12 +266,14 @@ vs:
  - Jewer, Keith
  - Jones, Brennen
  - Kean, Mark
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
  - Kingdon, Wade
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
+ - Kolomaya, Jared
  - Kopf, Steve
  - Kuhn, Ryan
  - Laing, Brent
@@ -278,6 +300,7 @@ vs:
  - McEwen, Mike
  - Mckinnon, Robert
  - Mcleod, Shadrach
+ - Meister, Nicholas
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -301,8 +324,11 @@ vs:
  - Parsons, Cole
  - Patzer, Brad
  - Peech, Alexander
+ - Pierce, Brent
+ - Pillsworth, Mark
  - Pinder, Jordan
  - Rach, Dave
+ - Richard, Jeff
  - Roach, Darren
  - Roach, Jason
  - Rycroft, Carter
@@ -325,6 +351,7 @@ vs:
  - Thiessen, Brad
  - Thiessen, Nolan
  - Trepanier, Jean-Francois
+ - Van Strien, Peter
  - Virtue, Brock
  - Walker, Geoff
  - Wallingham, Joe

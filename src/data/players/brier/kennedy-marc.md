@@ -4,18 +4,18 @@ name: Marc Kennedy
 name-sort: Kennedy, Marc
 totals:
  - event: Brier
-   games: 126
-   wins: 93
-   losses: 33
-   inturn-total: 1304
+   games: 135
+   wins: 99
+   losses: 36
+   inturn-total: 1396
    inturn-percent: 90
-   outturn-total: 1022
+   outturn-total: 1086
    outturn-percent: 88
-   draw-total: 850
+   draw-total: 903
    draw-percent: 88
-   takeout-total: 1476
+   takeout-total: 1579
    takeout-percent: 90
-   shots-total: 2326
+   shots-total: 2482
    shots-percent: 89
 years:
  - year: 2007
@@ -188,10 +188,29 @@ years:
    takeout-percent: 87
    shots-total: 230
    shots-percent: 86
+ - year: 2022
+   event: Brier
+   team: "NO"
+   position: Third
+   games: 9
+   wins: 6
+   losses: 3
+   inturn-total: 92
+   inturn-percent: 89
+   outturn-total: 64
+   outturn-percent: 86
+   draw-total: 53
+   draw-percent: 86
+   takeout-total: 103
+   takeout-percent: 89
+   shots-total: 156
+   shots-percent: 88
 vs:
+ - Abraham, Ryan
  - Adam, Gerry
  - Adams, Shawn
  - Asselin, Emile
+ - Asselin, Felix
  - Atchison, Chris
  - Barker, Richard
  - Barry, Josh
@@ -217,6 +236,7 @@ vs:
  - Casey, Adam
  - Champion, Kevin
  - Charette, Pierre
+ - Chester, Corey
  - Chorostkowski, Brad
  - Cochrane, Bryan
  - Cotter, Jim
@@ -244,6 +264,7 @@ vs:
  - Flemming, Paul
  - Folk, Kevin
  - Forrest, Alex
+ - Fournier, Mike
  - Fowler, Rob
  - Fraser, Pierre
  - Fry, Ryan
@@ -271,6 +292,7 @@ vs:
  - Higgs, Jake
  - Hodgson, Colin
  - Howard, Glenn
+ - Howard, Greg
  - Howard, Russ
  - Howard, Scott
  - Howard, Steven
@@ -286,6 +308,7 @@ vs:
  - Kammerlock, Dan
  - Kean, Mark
  - Kehoe, Mark
+ - Kennedy, Glen
  - Kennedy, Mike
  - Kidby, Dustin
  - Klitch, Tyler
@@ -293,6 +316,7 @@ vs:
  - Koe, Jamie
  - Koe, Kevin
  - Kohlenberg, Dale
+ - Kolomaya, Jared
  - Kopf, Steve
  - Korab, Jamie
  - Kuhn, Ryan
@@ -303,13 +327,17 @@ vs:
  - Lemay, Philippe
  - Lequin, Bradley
  - Lohnes, Bruce
+ - Lott, Colton
  - MacAulay, Ian
  - MacDonald, Edmund
  - MacDonald, Rod
  - MacFadyen, Alex
  - MacKenzie, Eddie
+ - Mackey, Peter
  - Mallais, Jeremy
  - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Maskiewich, Ken
  - Mathers, David
@@ -319,6 +347,7 @@ vs:
  - Mckinnon, Robert
  - Meachem, Shaun Myles
  - Mead, Jon
+ - Meister, Nicholas
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -330,6 +359,7 @@ vs:
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Nantes, Dave
  - Naugler, Tom
  - Nerpin, Andrew
@@ -343,14 +373,17 @@ vs:
  - Ouimet, Luc
  - Palmer, Curt
  - Park, Kevin
+ - Parsons, Cole
  - Patzer, Brad
  - Peech, Alexander
  - Pierce, Brent
+ - Pillsworth, Mark
  - Pinder, Jordan
  - Porter, Ryan
  - Quevillon, Louis
  - Rafuse, Brian
  - Recksiedler, Kevin
+ - Richard, Jeff
  - Roach, Darren
  - Roach, Jason
  - Robinson, Andrew
@@ -380,7 +413,9 @@ vs:
  - Thiessen, Brad
  - Thiessen, Nolan
  - Toner, Lee
+ - Trepanier, Jean-Francois
  - Ursel, Bob
+ - Van Strien, Peter
  - Vaughan, Jason
  - Virtue, Brock
  - Walker, Geoff

@@ -2,6 +2,34 @@
 title: Brent Pierce Head-to-head
 name: Pierce, Brent
 vs:
+ - name: Pillsworth, Mark
+   totals:
+    - event: Brier
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(16)
+      score: NU 2 - BC 9
  - name: Powell, Lloyd
    totals:
     - event: Brier
@@ -270,6 +298,62 @@ vs:
       year: 2000
       draw: Round Robin(6)
       score: BC 8 - AB 3
+ - name: Saccary, Scott
+   totals:
+    - event: Brier
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 68
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 68
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(12)
+      score: NS 7 - BC 11
+ - name: Samagalski, Derek
+   totals:
+    - event: Brier
+      player1:
+        percent: 77
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 77
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(2)
+      score: BC 3 - MB 10
  - name: Sauve, Dan
    totals:
     - event: Brier
@@ -854,6 +938,34 @@ vs:
       year: 2009
       draw: Round Robin(2)
       score: BC 9 - NO 4
+ - name: Trepanier, Jean-Francois
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 97
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 97
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(14)
+      score: BC 11 - QC 5
  - name: Van Den Berghe, Garry
    totals:
     - event: Brier
@@ -910,6 +1022,34 @@ vs:
       year: 2000
       draw: Round Robin(6)
       score: BC 8 - AB 3
+ - name: Walker, Geoff
+   totals:
+    - event: Brier
+      player1:
+        percent: 96
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(18)
+      score: WC 8 - BC 7
  - name: Wiersema, Dale
    totals:
     - event: Brier
@@ -966,4 +1106,32 @@ vs:
       year: 1998
       draw: Round Robin(15)
       score: NL 7 - BC 4
+ - name: Wozniak, Matt
+   totals:
+    - event: Brier
+      player1:
+        percent: 58
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 58
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(10)
+      score: WC 9 - BC 4
 ---

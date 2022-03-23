@@ -4,19 +4,19 @@ name: Jason Gunnlaugson
 name-sort: Gunnlaugson, Jason
 totals:
  - event: Brier
-   games: 23
-   wins: 11
-   losses: 12
-   inturn-total: 176
-   inturn-percent: 77
-   outturn-total: 247
-   outturn-percent: 78
-   draw-total: 162
-   draw-percent: 69
-   takeout-total: 261
+   games: 33
+   wins: 17
+   losses: 16
+   inturn-total: 250
+   inturn-percent: 78
+   outturn-total: 355
+   outturn-percent: 80
+   draw-total: 227
+   draw-percent: 73
+   takeout-total: 378
    takeout-percent: 83
-   shots-total: 423
-   shots-percent: 78
+   shots-total: 605
+   shots-percent: 79
 years:
  - year: 2020
    event: Brier
@@ -52,8 +52,27 @@ years:
    takeout-percent: 83
    shots-total: 215
    shots-percent: 77
+ - year: 2022
+   event: Brier
+   team: "WC"
+   position: Fourth
+   games: 10
+   wins: 6
+   losses: 4
+   inturn-total: 74
+   inturn-percent: 79
+   outturn-total: 108
+   outturn-percent: 84
+   draw-total: 65
+   draw-percent: 82
+   takeout-total: 117
+   takeout-percent: 82
+   shots-total: 182
+   shots-percent: 82
 vs:
+ - Abraham, Ryan
  - Asselin, Emile
+ - Asselin, Felix
  - Bedard, Alek
  - Beuk, Jonathan
  - Borden, Robert
@@ -63,12 +82,14 @@ vs:
  - Carruthers, Reid
  - Cochrane, Bryan
  - Cotter, Jim
+ - Crete, Martin
  - Crowell, Phil
  - Currie, Morgan
  - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
  - Flemming, Paul
+ - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
  - Grattan, James
@@ -79,16 +100,23 @@ vs:
  - Hebert, Ben
  - Higgs, Jake
  - Hodgson, Colin
+ - Howard, Greg
  - Howard, Scott
  - Jacobs, Brad
+ - Janssen, Patrick
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
+ - Koe, Jamie
  - Koe, Kevin
  - Kohlenberg, Dale
+ - Kolomaya, Jared
  - Laing, Brent
  - Laycock, Steve
  - Lequin, Bradley
+ - Lott, Colton
  - MacAulay, Ian
+ - Mackey, Peter
  - March, Tim
  - Martin, Karrick
  - Mathers, David
@@ -96,6 +124,7 @@ vs:
  - McEwen, Mike
  - Mckinnon, Robert
  - NcNeil-Lamswood, Ryan
+ - Meister, Nicholas
  - Middaugh, Wayne
  - Mikkelsen, Dustin
  - Morris, John
@@ -103,14 +132,19 @@ vs:
  - Moulding, Darren
  - Murphy, Jamie
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Naugler, Tom
  - Nerpin, Andrew
  - Neufeld, B.J.
  - Nichols, Mark
  - O'Rourke, Mark
+ - Parsons, Cole
  - Patzer, Brad
  - Peech, Alexander
+ - Pierce, Brent
+ - Pillsworth, Mark
  - Quevillon, Louis
+ - Richard, Jeff
  - Saccary, Scott
  - Samagalski, Derek
  - Sawatsky, Rick
@@ -118,6 +152,7 @@ vs:
  - Skauge, Greg
  - Smitheram, Christian
  - Thiessen, Brad
+ - Trepanier, Jean-Francois
  - Walker, Geoff
  - Wettig, Sheldon
 ---

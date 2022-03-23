@@ -710,7 +710,7 @@ vs:
       year: 2011
       draw: Round Robin(17)
       score: BC 5 - NS 6
- - name: Forget, Wes
+ - name: Forget, Wesley
    totals:
     - event: Brier
       player1:

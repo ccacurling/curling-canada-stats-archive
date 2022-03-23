@@ -4,18 +4,18 @@ name: David Mathers
 name-sort: Mathers, David
 totals:
  - event: Brier
-   games: 45
-   wins: 19
-   losses: 26
-   inturn-total: 438
+   games: 53
+   wins: 23
+   losses: 30
+   inturn-total: 507
    inturn-percent: 84
-   outturn-total: 415
-   outturn-percent: 85
-   draw-total: 384
+   outturn-total: 490
+   outturn-percent: 84
+   draw-total: 462
    draw-percent: 84
-   takeout-total: 469
+   takeout-total: 535
    takeout-percent: 84
-   shots-total: 853
+   shots-total: 997
    shots-percent: 84
 years:
  - year: 2015
@@ -86,6 +86,23 @@ years:
    takeout-percent: 88
    shots-total: 235
    shots-percent: 86
+ - year: 2022
+   event: Brier
+   team: "ON"
+   position: Second
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 69
+   inturn-percent: 86
+   outturn-total: 75
+   outturn-percent: 81
+   draw-total: 78
+   draw-percent: 85
+   takeout-total: 66
+   takeout-percent: 82
+   shots-total: 144
+   shots-percent: 84
 vs:
  - Barry, Josh
  - Beuk, Jonathan
@@ -98,14 +115,17 @@ vs:
  - Carruthers, Reid
  - Casey, Adam
  - Chorostkowski, Brad
+ - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
+ - Dobson, Paul
  - Doherty, Robbie
  - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
  - Flasch, Colton
+ - Follett, Sam
  - Fry, Ryan
  - Gallant, Brett
  - Grattan, James
@@ -122,7 +142,9 @@ vs:
  - Howard, Glenn
  - Howard, Scott
  - Jacobs, Brad
+ - Janssen, Patrick
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Jones, Scott
  - Kennedy, Marc
  - Kennedy, Mike
@@ -131,9 +153,14 @@ vs:
  - Koe, Kevin
  - Kuhn, Ryan
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
+ - Locke, Nathan
+ - Lowery, Ryan
  - Mallais, Jeremy
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - McCann, Andy
  - McEwen, Mike
@@ -164,13 +191,19 @@ vs:
  - Schille, Chris
  - Schneider, Catlin
  - Schneider, Jamie
+ - Scoffin, Thomas
  - Simmons, Pat
  - Skauge, Greg
+ - Smith, Tyler
  - Spencer, Adam
+ - Stringer, Ben
  - Sylvain, Eric
  - Thiessen, Brad
  - Thiessen, Nolan
  - Walker, Geoff
+ - Wallingham, Joe
+ - White, Edward
  - Whitehead, Mark
  - Wozniak, Matt
+ - Young, Nathan
 ---

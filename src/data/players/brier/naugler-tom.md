@@ -4,18 +4,18 @@ name: Tom Naugler
 name-sort: Naugler, Tom
 totals:
  - event: Brier
-   games: 45
+   games: 46
    wins: 18
-   losses: 27
+   losses: 28
    inturn-total: 427
    inturn-percent: 77
-   outturn-total: 382
+   outturn-total: 388
    outturn-percent: 79
-   draw-total: 354
+   draw-total: 360
    draw-percent: 78
    takeout-total: 455
    takeout-percent: 78
-   shots-total: 809
+   shots-total: 815
    shots-percent: 78
 years:
  - year: 2009
@@ -103,6 +103,19 @@ years:
    takeout-percent: 83
    shots-total: 147
    shots-percent: 79
+ - year: 2022
+   event: Brier
+   team: "NT"
+   position: Second
+   games: 1
+   wins: 0
+   losses: 1
+   outturn-total: 6
+   outturn-percent: 100
+   draw-total: 6
+   draw-percent: 100
+   shots-total: 6
+   shots-percent: 100
 vs:
  - Adams, Shawn
  - Armstrong, Mike

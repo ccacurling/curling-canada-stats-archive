@@ -4,18 +4,18 @@ name: Connor Njegovan
 name-sort: Njegovan, Connor
 totals:
  - event: Brier
-   games: 23
-   wins: 11
-   losses: 12
-   inturn-total: 51
-   inturn-percent: 94
-   outturn-total: 377
+   games: 33
+   wins: 17
+   losses: 16
+   inturn-total: 79
+   inturn-percent: 93
+   outturn-total: 533
    outturn-percent: 91
-   draw-total: 378
-   draw-percent: 91
-   takeout-total: 50
-   takeout-percent: 93
-   shots-total: 428
+   draw-total: 537
+   draw-percent: 92
+   takeout-total: 75
+   takeout-percent: 92
+   shots-total: 612
    shots-percent: 92
 years:
  - year: 2020
@@ -52,8 +52,27 @@ years:
    takeout-percent: 94
    shots-total: 220
    shots-percent: 91
+ - year: 2022
+   event: Brier
+   team: "WC"
+   position: Lead
+   games: 10
+   wins: 6
+   losses: 4
+   inturn-total: 28
+   inturn-percent: 92
+   outturn-total: 156
+   outturn-percent: 92
+   draw-total: 159
+   draw-percent: 92
+   takeout-total: 25
+   takeout-percent: 91
+   shots-total: 184
+   shots-percent: 92
 vs:
+ - Abraham, Ryan
  - Asselin, Emile
+ - Asselin, Felix
  - Bedard, Alek
  - Beuk, Jonathan
  - Borden, Robert
@@ -63,12 +82,14 @@ vs:
  - Carruthers, Reid
  - Cochrane, Bryan
  - Cotter, Jim
+ - Crete, Martin
  - Crowell, Phil
  - Currie, Morgan
  - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
  - Flemming, Paul
+ - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
  - Grattan, James
@@ -79,16 +100,23 @@ vs:
  - Hebert, Ben
  - Higgs, Jake
  - Hodgson, Colin
+ - Howard, Greg
  - Howard, Scott
  - Jacobs, Brad
+ - Janssen, Patrick
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
+ - Koe, Jamie
  - Koe, Kevin
  - Kohlenberg, Dale
+ - Kolomaya, Jared
  - Laing, Brent
  - Laycock, Steve
  - Lequin, Bradley
+ - Lott, Colton
  - MacAulay, Ian
+ - Mackey, Peter
  - March, Tim
  - Martin, Karrick
  - Mathers, David
@@ -96,6 +124,7 @@ vs:
  - McEwen, Mike
  - Mckinnon, Robert
  - NcNeil-Lamswood, Ryan
+ - Meister, Nicholas
  - Middaugh, Wayne
  - Mikkelsen, Dustin
  - Morris, John
@@ -103,14 +132,19 @@ vs:
  - Moulding, Darren
  - Murphy, Jamie
  - Muyres, Kirk
+ - Nadeau, Jeff
  - Naugler, Tom
  - Nerpin, Andrew
  - Neufeld, B.J.
  - Nichols, Mark
  - O'Rourke, Mark
+ - Parsons, Cole
  - Patzer, Brad
  - Peech, Alexander
+ - Pierce, Brent
+ - Pillsworth, Mark
  - Quevillon, Louis
+ - Richard, Jeff
  - Saccary, Scott
  - Samagalski, Derek
  - Sawatsky, Rick
@@ -118,6 +152,7 @@ vs:
  - Skauge, Greg
  - Smitheram, Christian
  - Thiessen, Brad
+ - Trepanier, Jean-Francois
  - Walker, Geoff
  - Wettig, Sheldon
 ---

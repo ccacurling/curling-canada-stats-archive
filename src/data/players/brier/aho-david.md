@@ -112,7 +112,7 @@ vs:
  - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
- - Forget, Wes
+ - Forget, Wesley
  - Fry, Ryan
  - Gallant, Brett
  - Grant, Jeff

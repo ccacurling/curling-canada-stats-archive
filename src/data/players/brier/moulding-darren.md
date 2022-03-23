@@ -4,18 +4,18 @@ name: Darren Moulding
 name-sort: Moulding, Darren
 totals:
  - event: Brier
-   games: 66
-   wins: 45
-   losses: 21
-   inturn-total: 695
+   games: 74
+   wins: 48
+   losses: 26
+   inturn-total: 772
    inturn-percent: 85
-   outturn-total: 539
+   outturn-total: 612
    outturn-percent: 83
-   draw-total: 475
+   draw-total: 526
    draw-percent: 83
-   takeout-total: 759
+   takeout-total: 858
    takeout-percent: 85
-   shots-total: 1234
+   shots-total: 1384
    shots-percent: 84
 years:
  - year: 2017
@@ -103,6 +103,23 @@ years:
    takeout-percent: 90
    shots-total: 266
    shots-percent: 87
+ - year: 2022
+   event: Brier
+   team: "NB"
+   position: Third
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 77
+   inturn-percent: 82
+   outturn-total: 73
+   outturn-percent: 83
+   draw-total: 51
+   draw-percent: 84
+   takeout-total: 99
+   takeout-percent: 82
+   shots-total: 150
+   shots-percent: 83
 vs:
  - Abel, Clinton
  - Aho, David
@@ -112,6 +129,7 @@ vs:
  - Beuk, Jonathan
  - Boland, Adam
  - Borden, Robert
+ - Bottcher, Brendan
  - Brannen, Jamie
  - Burgess, Steve
  - Camm, Mathew
@@ -121,6 +139,7 @@ vs:
  - Chadwick, Scott
  - Chorostkowski, Brad
  - Cochrane, Bryan
+ - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
@@ -131,8 +150,9 @@ vs:
  - Fecteau, Steve
  - Flasch, Colton
  - Flemming, Paul
+ - Follett, Sam
  - Ford, Chris
- - Forget, Wes
+ - Forget, Wesley
  - Forrest, Alex
  - Fry, Ryan
  - Gallant, Brett
@@ -154,6 +174,7 @@ vs:
  - Hunt, Matthew
  - Jacobs, Brad
  - Janssen, Patrick
+ - Jensen, Trygg
  - Jewer, Keith
  - Jones, Scott
  - Kennedy, Marc
@@ -163,16 +184,20 @@ vs:
  - Koe, Kevin
  - Kohlenberg, Dale
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Lemay, Philippe
  - Lequin, Bradley
  - Likely, John
+ - Locke, Nathan
+ - Lowery, Ryan
  - MacAulay, Ian
  - MacDonald, Edmund
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
+ - Martin, Karrick
  - Mathers, David
  - McCann, Andy
  - McDonald, Scott
@@ -209,18 +234,25 @@ vs:
  - Schneider, Catlin
  - Scoffin, Thomas
  - Scoffin, Wade
+ - Simmons, Pat
  - Skauge, Greg
  - Smallwood, Robert
  - Smith, Greg
+ - Smith, Tyler
  - Smitheram, Christian
  - Solberg, Jon
  - Stapleton, Connor
+ - Stringer, Ben
  - Sylvain, Eric
  - Symonds, Andrew
  - Tardi, Tyler
  - Taylor, Andrew
+ - Thiessen, Brad
  - Walker, Geoff
+ - Wallingham, Joe
+ - White, Edward
  - Withycombe, Ian
  - Wood, Brad
  - Wozniak, Matt
+ - Young, Nathan
 ---

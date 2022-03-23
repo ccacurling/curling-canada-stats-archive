@@ -310,6 +310,34 @@ vs:
       year: 2012
       draw: Round Robin(8)
       score: AB 6 - SK 3
+ - name: Latos, Evan
+   totals:
+    - event: Brier
+      player1:
+        percent: 92
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(7)
+      score: YT 3 - AB 9
  - name: Laycock, Steve
    totals:
     - event: Brier
@@ -490,17 +518,45 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: WC 12 - PE 5
+ - name: Locke, Nathan
+   totals:
+    - event: Brier
+      player1:
+        percent: 97
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(3)
+      score: AB 14 - NL 3
  - name: Lowery, Ryan
    totals:
     - event: Brier
       player1:
-        percent: 83
-        wins: 1
+        percent: 91
+        wins: 2
         losses: 0
       player2:
-        percent: 75
+        percent: 82
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'WC'
@@ -518,6 +574,22 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: WC 12 - PE 5
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 98
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(17)
+      score: PE 3 - AB 8
  - name: Lyburn, Allan
    totals:
     - event: Brier
@@ -810,13 +882,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 95
-        wins: 1
+        percent: 93
+        wins: 2
         losses: 0
       player2:
-        percent: 90
+        percent: 92
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'WC'
@@ -834,6 +906,22 @@ vs:
       year: 2021
       draw: Pool(22)
       score: WC 7 - WC 6
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(5)
+      score: ON 5 - AB 7
  - name: Markowsky, Rob
    totals:
     - event: Brier
@@ -867,12 +955,12 @@ vs:
     - event: Brier
       player1:
         percent: 84
-        wins: 1
+        wins: 3
         losses: 0
       player2:
-        percent: 86
+        percent: 91
         wins: 0
-        losses: 1
+        losses: 3
    games:
     - player1:
         team: 'AB'
@@ -890,17 +978,49 @@ vs:
       year: 2019
       draw: Pool(17)
       score: AB 9 - SK 3
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 95
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(1)
+      score: AB 9 - SK 8
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 96
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Playoff(21)
+      score: SK 2 - AB 7
  - name: Marsh, Kevin
    totals:
     - event: Brier
       player1:
         percent: 84
-        wins: 1
+        wins: 3
         losses: 0
       player2:
-        percent: 67
+        percent: 74
         wins: 0
-        losses: 1
+        losses: 3
    games:
     - player1:
         team: 'AB'
@@ -918,17 +1038,49 @@ vs:
       year: 2019
       draw: Pool(17)
       score: AB 9 - SK 3
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 90
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(1)
+      score: AB 9 - SK 8
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 96
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 60
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Playoff(21)
+      score: SK 2 - AB 7
  - name: Martin, Karrick
    totals:
     - event: Brier
       player1:
         percent: 87
-        wins: 3
+        wins: 5
         losses: 3
       player2:
-        percent: 92
+        percent: 93
         wins: 3
-        losses: 3
+        losses: 5
    games:
     - player1:
         team: 'CA'
@@ -1026,17 +1178,49 @@ vs:
       year: 2021
       draw: Final(24)
       score: AB 4 - WC 2
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(15)
+      score: AB 5 - CA 4
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Page 1-2(23)
+      score: CA 7 - AB 9
  - name: Mathers, David
    totals:
     - event: Brier
       player1:
         percent: 89
-        wins: 4
+        wins: 5
         losses: 0
       player2:
-        percent: 83
+        percent: 82
         wins: 0
-        losses: 4
+        losses: 5
    games:
     - player1:
         team: 'AB'
@@ -1102,6 +1286,22 @@ vs:
       year: 2021
       draw: Pool(22)
       score: WC 7 - WC 6
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(5)
+      score: ON 5 - AB 7
  - name: Mawhinney, Spencer
    totals:
     - event: Brier
@@ -1134,13 +1334,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 93
-        wins: 2
+        percent: 92
+        wins: 3
         losses: 0
       player2:
-        percent: 82
+        percent: 86
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'AB'
@@ -1174,6 +1374,22 @@ vs:
       year: 2020
       draw: Round Robin(5)
       score: NB 4 - CA 8
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(11)
+      score: AB 5 - NB 2
  - name: McCarville, Mike
    totals:
     - event: Brier
@@ -1950,12 +2166,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 91
+        percent: 86
         wins: 2
-        losses: 1
+        losses: 2
       player2:
-        percent: 92
-        wins: 1
+        percent: 90
+        wins: 2
         losses: 2
    games:
     - player1:
@@ -2006,17 +2222,33 @@ vs:
       year: 2021
       draw: Round Robin(13)
       score: SK 2 - WC 9
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(9)
+      score: WC 8 - AB 6
  - name: Moulding, Darren
    totals:
     - event: Brier
       player1:
-        percent: 87
-        wins: 3
+        percent: 88
+        wins: 4
         losses: 3
       player2:
-        percent: 83
+        percent: 84
         wins: 3
-        losses: 3
+        losses: 4
    games:
     - player1:
         team: 'CA'
@@ -2114,6 +2346,22 @@ vs:
       year: 2021
       draw: Final(24)
       score: AB 4 - WC 2
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 89
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(11)
+      score: AB 5 - NB 2
  - name: Munroe, Steven
    totals:
     - event: Brier
@@ -2282,12 +2530,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 85
-        wins: 4
-        losses: 1
-      player2:
         percent: 83
-        wins: 1
+        wins: 4
+        losses: 2
+      player2:
+        percent: 85
+        wins: 2
         losses: 4
    games:
     - player1:
@@ -2370,6 +2618,22 @@ vs:
       year: 2021
       draw: Round Robin(13)
       score: SK 2 - WC 9
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(9)
+      score: WC 8 - AB 6
  - name: Nadeau, Jeff
    totals:
     - event: Brier
@@ -3818,13 +4082,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 86
-        wins: 1
+        percent: 84
+        wins: 3
         losses: 1
       player2:
-        percent: 91
+        percent: 83
         wins: 1
-        losses: 1
+        losses: 3
    games:
     - player1:
         team: 'CA'
@@ -3858,17 +4122,49 @@ vs:
       year: 2020
       draw: Round Robin(11)
       score: CA 4 - SK 5
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Third
+        percent: 76
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(1)
+      score: AB 9 - SK 8
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 96
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Third
+        percent: 71
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Playoff(21)
+      score: SK 2 - AB 7
  - name: Scoffin, Thomas
    totals:
     - event: Brier
       player1:
-        percent: 95
-        wins: 1
+        percent: 94
+        wins: 2
         losses: 0
       player2:
-        percent: 52
+        percent: 59
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'CA'
@@ -3886,6 +4182,22 @@ vs:
       year: 2020
       draw: Round Robin(8)
       score: CA 10 - YT 2
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(7)
+      score: YT 3 - AB 9
  - name: Seabrook, Scott
    totals:
     - event: Brier
@@ -4074,13 +4386,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 83
-        wins: 1
+        percent: 91
+        wins: 2
         losses: 0
       player2:
-        percent: 81
+        percent: 78
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'WC'
@@ -4098,6 +4410,22 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: WC 12 - PE 5
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 98
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(17)
+      score: PE 3 - AB 8
  - name: Spencer, Adam
    totals:
     - event: Brier
@@ -4254,6 +4582,34 @@ vs:
       year: 2014
       draw: Round Robin(7)
       score: MB 4 - AB 10
+ - name: Stringer, Ben
+   totals:
+    - event: Brier
+      player1:
+        percent: 97
+        wins: 1
+        losses: 0
+      player2:
+        percent: 95
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 95
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(3)
+      score: AB 14 - NL 3
  - name: Sylvain, Eric
    totals:
     - event: Brier
@@ -4351,12 +4707,12 @@ vs:
     - event: Brier
       player1:
         percent: 87
-        wins: 3
+        wins: 5
         losses: 3
       player2:
-        percent: 85
+        percent: 80
         wins: 3
-        losses: 3
+        losses: 5
    games:
     - player1:
         team: 'CA'
@@ -4454,6 +4810,38 @@ vs:
       year: 2021
       draw: Final(24)
       score: AB 4 - WC 2
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'CA'
+        position: Second
+        percent: 66
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(15)
+      score: AB 5 - CA 4
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'CA'
+        position: Second
+        percent: 61
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Page 1-2(23)
+      score: CA 7 - AB 9
  - name: Thiessen, Nolan
    totals:
     - event: Brier
@@ -4630,12 +5018,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 88
+        percent: 87
         wins: 5
-        losses: 5
+        losses: 6
       player2:
         percent: 90
-        wins: 5
+        wins: 6
         losses: 5
    games:
     - player1:
@@ -4798,17 +5186,33 @@ vs:
       year: 2021
       draw: Round Robin(7)
       score: CA 7 - WC 9
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Final(25)
+      score: AB 8 - WC 9
  - name: Wallingham, Joe
    totals:
     - event: Brier
       player1:
-        percent: 95
-        wins: 1
+        percent: 94
+        wins: 2
         losses: 0
       player2:
-        percent: 95
+        percent: 83
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'CA'
@@ -4826,6 +5230,50 @@ vs:
       year: 2020
       draw: Round Robin(8)
       score: CA 10 - YT 2
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(7)
+      score: YT 3 - AB 9
+ - name: White, Edward
+   totals:
+    - event: Brier
+      player1:
+        percent: 98
+        wins: 1
+        losses: 0
+      player2:
+        percent: 89
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 98
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 89
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(17)
+      score: PE 3 - AB 8
  - name: Whitehead, Kevin
    totals:
     - event: Brier
@@ -5018,4 +5466,32 @@ vs:
       year: 2021
       draw: Pool(21)
       score: MB 4 - WC 12
+ - name: Young, Nathan
+   totals:
+    - event: Brier
+      player1:
+        percent: 97
+        wins: 1
+        losses: 0
+      player2:
+        percent: 58
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 58
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(3)
+      score: AB 14 - NL 3
 ---

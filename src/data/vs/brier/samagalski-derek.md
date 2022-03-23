@@ -606,12 +606,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 91
+        percent: 87
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 88
-        wins: 0
+        percent: 90
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -630,6 +630,50 @@ vs:
       year: 2018
       draw: Round Robin(7)
       score: MB 9 - QC 6
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(18)
+      score: QC 9 - MB 6
+ - name: Van Strien, Peter
+   totals:
+    - event: Brier
+      player1:
+        percent: 100
+        wins: 1
+        losses: 0
+      player2:
+        percent: 58
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 58
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2022
+      draw: Round Robin(8)
+      score: NU 1 - MB 18
  - name: Villeneuve, Steeve
    totals:
     - event: Brier
@@ -662,12 +706,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 91
+        percent: 90
         wins: 2
-        losses: 3
+        losses: 4
       player2:
         percent: 88
-        wins: 3
+        wins: 4
         losses: 2
    games:
     - player1:
@@ -750,6 +794,22 @@ vs:
       year: 2020
       draw: Pool(17)
       score: WC 3 - NL 5
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(12)
+      score: MB 6 - WC 9
  - name: Wallingham, Joe
    totals:
     - event: Brier
@@ -838,12 +898,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 75
+        percent: 79
         wins: 0
-        losses: 2
+        losses: 4
       player2:
-        percent: 85
-        wins: 2
+        percent: 87
+        wins: 4
         losses: 0
    games:
     - player1:
@@ -878,4 +938,36 @@ vs:
       year: 2021
       draw: Round Robin(8)
       score: MB 8 - WC 5
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 90
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(4)
+      score: MB 6 - WC 10
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Tie-Breaker(19)
+      score: WC 9 - MB 3
 ---

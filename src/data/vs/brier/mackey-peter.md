@@ -186,6 +186,34 @@ vs:
       year: 2021
       draw: Round Robin(15)
       score: NS 14 - NU 1
+ - name: McEwen, Mike
+   totals:
+    - event: Brier
+      player1:
+        percent: 41
+        wins: 0
+        losses: 1
+      player2:
+        percent: 95
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Fourth
+        percent: 41
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 95
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(8)
+      score: NU 1 - MB 18
  - name: Mcleod, Shadrach
    totals:
     - event: Brier
@@ -242,6 +270,34 @@ vs:
       year: 2021
       draw: Round Robin(17)
       score: CA 9 - NU 2
+ - name: Meister, Nicholas
+   totals:
+    - event: Brier
+      player1:
+        percent: 63
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(16)
+      score: NU 2 - BC 9
  - name: Morris, John
    totals:
     - event: Brier
@@ -314,6 +370,34 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: NU 2 - SK 10
+ - name: Munroe, Steven
+   totals:
+    - event: Brier
+      player1:
+        percent: 50
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Fourth
+        percent: 50
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 78
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(10)
+      score: QC 9 - NU 4
  - name: Muyres, Dallan
    totals:
     - event: Brier
@@ -462,12 +546,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 57
+        percent: 58
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 90
-        wins: 2
+        percent: 94
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -502,6 +586,50 @@ vs:
       year: 2021
       draw: Round Robin(17)
       score: CA 9 - NU 2
+    - player1:
+        team: 'NU'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 100
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(4)
+      score: WC 8 - NU 1
+ - name: Njegovan, Connor
+   totals:
+    - event: Brier
+      player1:
+        percent: 61
+        wins: 0
+        losses: 1
+      player2:
+        percent: 97
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 97
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(14)
+      score: WC 10 - NU 1
  - name: Odishaw, Grant
    totals:
     - event: Brier
@@ -590,12 +718,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 61
+        percent: 56
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 97
-        wins: 1
+        percent: 82
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -614,6 +742,50 @@ vs:
       year: 2019
       draw: Round Robin(10)
       score: NT 9 - NU 4
+    - player1:
+        team: 'NU'
+        position: Fourth
+        percent: 50
+        win: 0
+        loss: 1
+      player2:
+        team: 'NT'
+        position: Second
+        percent: 64
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(18)
+      score: NU 4 - NT 11
+ - name: Pierce, Brent
+   totals:
+    - event: Brier
+      player1:
+        percent: 63
+        wins: 0
+        losses: 1
+      player2:
+        percent: 93
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(16)
+      score: NU 2 - BC 9
  - name: Pinder, Jordan
    totals:
     - event: Brier
@@ -642,16 +814,44 @@ vs:
       year: 2019
       draw: Round Robin(2)
       score: NB 10 - NU 2
- - name: Saccary, Scott
+ - name: Richard, Jeff
    totals:
     - event: Brier
       player1:
-        percent: 56
+        percent: 63
         wins: 0
         losses: 1
       player2:
         percent: 86
         wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(16)
+      score: NU 2 - BC 9
+ - name: Saccary, Scott
+   totals:
+    - event: Brier
+      player1:
+        percent: 65
+        wins: 0
+        losses: 2
+      player2:
+        percent: 85
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -670,6 +870,22 @@ vs:
       year: 2021
       draw: Round Robin(15)
       score: NS 14 - NU 1
+    - player1:
+        team: 'NU'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(6)
+      score: NS 8 - NU 4
  - name: Sallows, Tom
    totals:
     - event: Brier
@@ -702,12 +918,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 66
+        percent: 53
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 86
-        wins: 1
+        percent: 91
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -726,6 +942,22 @@ vs:
       year: 2018
       draw: Round Robin(5)
       score: NU 5 - MB 12
+    - player1:
+        team: 'NU'
+        position: Fourth
+        percent: 41
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 100
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(8)
+      score: NU 1 - MB 18
  - name: Sawatsky, Rick
    totals:
     - event: Brier
@@ -928,10 +1160,10 @@ vs:
       player1:
         percent: 51
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 80
-        wins: 2
+        percent: 83
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -966,16 +1198,32 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: NU 1 - QC 15
+    - player1:
+        team: 'NU'
+        position: Fourth
+        percent: 50
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(10)
+      score: QC 9 - NU 4
  - name: Walker, Geoff
    totals:
     - event: Brier
       player1:
-        percent: 57
+        percent: 58
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 92
-        wins: 2
+        percent: 94
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -1010,6 +1258,50 @@ vs:
       year: 2021
       draw: Round Robin(17)
       score: CA 9 - NU 2
+    - player1:
+        team: 'NU'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 97
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(4)
+      score: WC 8 - NU 1
+ - name: Wozniak, Matt
+   totals:
+    - event: Brier
+      player1:
+        percent: 61
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2022
+      draw: Round Robin(14)
+      score: WC 10 - NU 1
  - name: Younker, Robbie
    totals:
     - event: Brier

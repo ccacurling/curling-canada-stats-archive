@@ -161,7 +161,7 @@ vs:
  - Flemming, Paul
  - Folk, Kevin
  - Ford, Chris
- - Forget, Wes
+ - Forget, Wesley
  - Fournier, Mike
  - Fry, Ryan
  - Gagne, Francois

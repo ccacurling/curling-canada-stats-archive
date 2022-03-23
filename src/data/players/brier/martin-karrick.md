@@ -4,19 +4,19 @@ name: Karrick Martin
 name-sort: Martin, Karrick
 totals:
  - event: Brier
-   games: 68
-   wins: 46
-   losses: 22
-   inturn-total: 974
+   games: 80
+   wins: 55
+   losses: 25
+   inturn-total: 1166
    inturn-percent: 90
-   outturn-total: 238
-   outturn-percent: 86
-   draw-total: 1039
-   draw-percent: 90
-   takeout-total: 173
-   takeout-percent: 83
-   shots-total: 1212
-   shots-percent: 89
+   outturn-total: 266
+   outturn-percent: 87
+   draw-total: 1225
+   draw-percent: 91
+   takeout-total: 207
+   takeout-percent: 84
+   shots-total: 1432
+   shots-percent: 90
 years:
  - year: 2013
    event: Brier
@@ -120,6 +120,23 @@ years:
    takeout-percent: 86
    shots-total: 259
    shots-percent: 90
+ - year: 2022
+   event: Brier
+   team: "CA"
+   position: Lead
+   games: 12
+   wins: 9
+   losses: 3
+   inturn-total: 192
+   inturn-percent: 94
+   outturn-total: 28
+   outturn-percent: 94
+   draw-total: 186
+   draw-percent: 95
+   takeout-total: 34
+   takeout-percent: 92
+   shots-total: 220
+   shots-percent: 94
 vs:
  - Abel, Clinton
  - Aho, David
@@ -139,10 +156,12 @@ vs:
  - Chadwick, Scott
  - Chorostkowski, Brad
  - Cochrane, Bryan
+ - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
  - Currie, Morgan
+ - Dobson, Paul
  - Doherty, Robbie
  - Dunstone, Matt
  - Epping, John
@@ -150,11 +169,13 @@ vs:
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
  - Flemming, Paul
+ - Follett, Sam
  - Ford, Chris
- - Forget, Wes
+ - Forget, Wesley
  - Forrest, Alex
  - Fry, Ryan
  - Gallant, Brett
+ - Gallant, Chris
  - Geall, Sean
  - Grattan, James
  - Griffith, Tyrel
@@ -173,6 +194,7 @@ vs:
  - Hunt, Matthew
  - Jacobs, Brad
  - Janssen, Patrick
+ - Jensen, Trygg
  - Jewer, Keith
  - Jones, Scott
  - Kennedy, Marc
@@ -182,11 +204,14 @@ vs:
  - Koe, Kevin
  - Kohlenberg, Dale
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Lemay, Philippe
  - Lequin, Bradley
  - Likely, John
+ - Locke, Nathan
+ - Lowery, Ryan
  - MacAulay, Ian
  - MacDonald, Edmund
  - March, Tim
@@ -205,6 +230,7 @@ vs:
  - Mittelstadt, Kelly
  - Morris, John
  - Moskowy, Braeden
+ - Moulding, Darren
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
@@ -233,15 +259,20 @@ vs:
  - Smallwood, Robert
  - Smith, Greg
  - Smith, Kent
+ - Smith, Tyler
  - Smitheram, Christian
  - Solberg, Jon
  - Stapleton, Connor
+ - Stringer, Ben
  - Sylvain, Eric
  - Symonds, Andrew
  - Tardi, Tyler
  - Taylor, Andrew
  - Walker, Geoff
+ - Wallingham, Joe
+ - White, Edward
  - Withycombe, Ian
  - Wood, Brad
  - Wozniak, Matt
+ - Young, Nathan
 ---
