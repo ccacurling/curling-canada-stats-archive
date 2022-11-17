@@ -38,6 +38,10 @@ Dave Thomas
 
 ## Changelog
 
+### 2022-11-16
+
+ * Added Canadian Women's data (1961-1981)
+
 ### 2022-03-25
 
  * Added 2022 Brier data.

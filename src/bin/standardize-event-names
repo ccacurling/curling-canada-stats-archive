@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+SCRIPTPATH="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
+
+# We currently do not handle "sub-events",
+# use one overall event for pre-Hearts events.
+find "${SCRIPTPATH}/../../collections/" -type f -print0|xargs -0 sed -i "s/event: Canadian Women's/event: Canadian Women/g"
+find "${SCRIPTPATH}/../../collections/" -type f -print0|xargs -0 sed -i 's/event: Diamond D/event: Canadian Women/g'
+find "${SCRIPTPATH}/../../collections/" -type f -print0|xargs -0 sed -i 's/event: CLCA/event: Canadian Women/g'
+find "${SCRIPTPATH}/../../collections/" -type f -print0|xargs -0 sed -i 's/event: Macdonald Lassies/event: Canadian Women/g'

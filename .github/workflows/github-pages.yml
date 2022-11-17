@@ -27,6 +27,9 @@ jobs:
     - name: Set event sponsors
       run: src/bin/set-sponsors
 
+    - name: Standardize event names
+      run: src/bin/standardize-event-names
+
     - uses:  helaili/jekyll-action@v2
       with:
         token: ${{ secrets.GITHUB_TOKEN }}

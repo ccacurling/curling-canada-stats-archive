@@ -55,7 +55,9 @@ layout: default
   <li class="nav-item">
     <a class="nav-link" id="draw-tab" data-toggle="tab" href="#draw" role="tab" aria-controls="draw" aria-selected="false">Results by Draw</a>
   </li>
-{% unless page.title contains 'Macdonald' %}
+{% unless page.title contains 'Macdonald'
+  or page.title contains 'CLCA'
+  or page.title contains 'Diamond' %}
   <li class="nav-item">
     <a class="nav-link" id="stats-tab" data-toggle="tab" href="#stats" role="tab" aria-controls="draw" aria-selected="false">Event Statistics</a>
   </li>
@@ -297,7 +299,9 @@ layout: default
     {% if forloop.last == false %}<hr class="draws">{% endif %}
     {% endfor %}
   </div>
-{% unless page.title contains 'Macdonald' %}
+{% unless page.title contains 'Macdonald'
+  or page.title contains 'CLCA'
+  or page.title contains 'Diamond' %}
   <div class="tab-pane fade" id="stats" role="tabpanel" aria-labelledby="stats-tab">
 {% include {{ page.collection }}/stats/{{ page.year }}.html %}
   </div>

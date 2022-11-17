@@ -23,6 +23,12 @@ markdown: kramdown
 
 collections_dir: collections
 collections:
+  canadian-women:
+    output: true
+    permalink: /canadian-women/:path
+  canadian-women-teams:
+    output: true
+    permalink: /canadian-women/team/:path
   macdonald-brier:
     output: true
     permalink: /macdonald-brier/:path
@@ -61,6 +67,16 @@ collections:
     permalink: /vs/:path
 
 defaults:
+  - scope:
+      path: ""
+      type: "canadian-women"
+    values:
+      layout: event
+  - scope:
+      path: ""
+      type: "canadian-women-teams"
+    values:
+      layout: canadian-women-team
   - scope:
       path: ""
       type: "macdonald-brier"
