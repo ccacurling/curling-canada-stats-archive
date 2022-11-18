@@ -11,7 +11,8 @@ layout: default
     {% break %}
     {% endif %}
 {% endfor %}
-{% unless page.title contains 'Macdonald' %}
+{% if page.collection != 'macdonald-brier' %}
+{% unless page.collection == 'canadian-women' and page.year <= 1978 %}
 <h2>Championship Final</h2>
 {% assign final = page.draws.last.games.last %}
 <div class="col-lg-6">
@@ -45,6 +46,7 @@ layout: default
 </table>
 </div>
 {% endunless %}
+{% endif %}
 <ul class="nav nav-tabs" role="tablist" id="event-nav">
   <li class="nav-item">
     <a class="nav-link active" id="standings-tab" data-toggle="tab" href="#standings" role="tab" aria-controls="standings" aria-selected="true">Standings</a>
