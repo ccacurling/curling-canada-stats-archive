@@ -303,6 +303,7 @@ vs:
  - Lang, Rick
  - Langille, Kenneth
  - LaRocque, Guy
+ - Lawes, Keith
  - Ledgerwood, Allan
  - Lemecha, Robert
  - Lerner, Hersh

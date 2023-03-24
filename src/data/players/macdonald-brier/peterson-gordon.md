@@ -43,6 +43,7 @@ years:
    shots-total: 0
    shots-percent:
 vs:
+ - Andrews, Alexander
  - Anton, Ronald
  - Armstrong, William
  - Beaver, Reginald
@@ -59,6 +60,7 @@ vs:
  - D'Amour, Theophile
  - Dillon, Robert
  - Easton, Leonard
+ - Ellis, Kenneth
  - Florian, James
  - Ford, Gary
  - Gerlach, David
@@ -70,6 +72,7 @@ vs:
  - Houck, Norman
  - Keith, Harold
  - Larsen, Vernon
+ - Lawes, Keith
  - Lindberg, Russell
  - Mabey, Harold Jr.
  - Mabey, Harold Sr.
@@ -91,7 +94,6 @@ vs:
  - Richardson, Garnet
  - Richardson, Wesley
  - Robinson, Robert
- - Roy, William
  - Ruiter, Garth
  - Secord, Bayne
  - Sherba, Peter
@@ -101,7 +103,6 @@ vs:
  - Sparkes, Bernie
  - Stanhope, Donald
  - Steeves, Edward
- - Stent, Frank
  - Stone, Reginald
  - Stone, Roy
  - Storey, Frederick
@@ -112,7 +113,6 @@ vs:
  - Thomas, Robert
  - Ursel, Jim
  - Ursuliak, Wally
- - Warren, Thomas
  - Weisz, Gary
  - Werner, Raymond
  - Wiggington, Merrill

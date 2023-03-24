@@ -44,6 +44,7 @@ years:
    shots-percent:
 vs:
  - Anderson, Jim
+ - Andrews, Alexander
  - Ayer, Frank
  - Ayer, James
  - Beaver, Reginald
@@ -58,6 +59,7 @@ vs:
  - Dillon, Robert
  - Downey, Wayne
  - Easton, Leonard
+ - Ellis, Kenneth
  - Flemming, Don
  - Ford, Gary
  - Gerlach, David
@@ -71,6 +73,7 @@ vs:
  - Keith, Harold
  - Ketch, Ronald
  - Keys, John
+ - Lawes, Keith
  - Mabey, Harold Jr.
  - MacMellon, Grant
  - Margeson, Robert

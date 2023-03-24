@@ -44,6 +44,7 @@ years:
    shots-percent:
 vs:
  - Aldridge, Glenn
+ - Andrews, Alexander
  - Ballantyne, John
  - Bauer, Keiven
  - Beaver, Reginald
@@ -61,6 +62,7 @@ vs:
  - Dillon, Robert
  - Ducat, Stephen
  - Easton, Leonard
+ - Ellis, Kenneth
  - Fennimore, Charles
  - Folk, Rick
  - Ford, Gary
@@ -73,6 +75,7 @@ vs:
  - Johnson, Terence
  - Johnston, Dale
  - Keith, Harold
+ - Lawes, Keith
  - Lukowich, Ed
  - Mabey, Harold Jr.
  - MacDonald, Peter
@@ -97,7 +100,6 @@ vs:
  - Robinson, Robert
  - Ross, John K.
  - Rowe, Robert
- - Roy, William
  - Sampson, James
  - Schaefer, Charles
  - Schaefer, James
@@ -109,7 +111,6 @@ vs:
  - Smith, Alan
  - Sparkes, Bernie
  - Steeves, Edward
- - Stent, Frank
  - Storey, Frederick
  - Strange, Douglas
  - Stuart, Douglas
@@ -120,7 +121,6 @@ vs:
  - Thompson, Ron
  - Trecartin, Douglas
  - Turner, Malcolm
- - Warren, Thomas
  - Wedge, Keith
  - Wiggington, Merrill
  - Wilson, Tom

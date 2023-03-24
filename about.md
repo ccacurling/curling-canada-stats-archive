@@ -38,6 +38,10 @@ Dave Thomas
 
 ## Changelog
 
+### 2023-03-23
+
+ * Updates to Macdonald Brier data.
+
 ### 2022-11-16
 
  * Added Canadian Women's data (1961-1981)

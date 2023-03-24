@@ -205,6 +205,7 @@ vs:
  - Klotz, George
  - Knudsen, Eric
  - Kroeger, Thomas
+ - Lawes, Keith
  - Leger, Murray
  - Lemecha, Robert
  - Lerner, Hersh

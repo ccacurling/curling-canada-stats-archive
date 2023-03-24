@@ -44,6 +44,7 @@ years:
    shots-percent:
 vs:
  - Achtymichuk, George
+ - Andrews, Alexander
  - Armstrong, Jim
  - Bell, Douglas
  - Brennan, Michael
@@ -57,6 +58,7 @@ vs:
  - Dillon, Robert
  - Dugre, Louis
  - Easton, Leonard
+ - Ellis, Kenneth
  - Emond, Andre
  - Fink, Daniel
  - Ford, Gary
@@ -75,6 +77,7 @@ vs:
  - Keith, Harold
  - Klein, Joseph
  - Klippenstein, Daniel
+ - Lawes, Keith
  - Mabey, Harold Jr.
  - MacMellon, Grant
  - Martin, William
@@ -92,7 +95,6 @@ vs:
  - Piercey, William
  - Robinson, Robert
  - Romkey, David
- - Roy, William
  - Savage, Paul
  - Sherba, Peter
  - Shinfield, Allan
@@ -100,7 +102,6 @@ vs:
  - Smith, Alan
  - Sparkes, Bernie
  - Steeves, Edward
- - Stent, Frank
  - Storey, Frederick
  - Strange, Douglas
  - Stuart, Douglas
@@ -110,7 +111,6 @@ vs:
  - Thompson, Robert
  - Tucker, Jack
  - Ward, James
- - Warren, Thomas
  - Watchorn, Mel
  - Watchorn, Merv
  - Watchorn, Terry

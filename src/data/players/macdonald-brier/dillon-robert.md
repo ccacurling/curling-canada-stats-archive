@@ -226,6 +226,7 @@ vs:
  - Langille, Kenneth
  - Larsen, Vernon
  - Lashuk, Nicholas
+ - Lawes, Keith
  - Lindberg, Russell
  - Little, Gordon
  - Little, Kenneth

@@ -138,6 +138,7 @@ vs:
  - Ketch, Ronald
  - Knudsen, Eric
  - Kroeger, Thomas
+ - Lawes, Keith
  - Leger, Murray
  - Lilly, Raymond
  - Lobel, Arthur

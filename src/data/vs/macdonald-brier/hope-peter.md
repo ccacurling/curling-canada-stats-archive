@@ -382,6 +382,34 @@ vs:
       year: 1962
       draw: Round Robin(11)
       score: ON 8 - NS 11
+ - name: Lawes, Keith
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Fourth
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Third
+        percent:
+        win: 1
+        loss: 0
+      event: Macdonald Brier
+      year: 1969
+      draw: Round Robin(5)
+      score: NL 12 - NS 9
  - name: Lindberg, Russell
    totals:
     - event: Macdonald Brier
@@ -1550,34 +1578,6 @@ vs:
       year: 1973
       draw: Round Robin(8)
       score: NB 7 - NS 6
- - name: Roy, William
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(5)
-      score: NL 12 - NS 9
  - name: Ruiter, Garth
    totals:
     - event: Macdonald Brier
@@ -1946,34 +1946,6 @@ vs:
       year: 1969
       draw: Round Robin(11)
       score: NB 11 - NS 8
- - name: Stent, Frank
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(5)
-      score: NL 12 - NS 9
  - name: Stone, Reginald
    totals:
     - event: Macdonald Brier
@@ -2410,34 +2382,6 @@ vs:
       year: 1973
       draw: Round Robin(5)
       score: NL 6 - NS 12
- - name: Warren, Thomas
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(5)
-      score: NL 12 - NS 9
  - name: Watchorn, Mel
    totals:
     - event: Macdonald Brier

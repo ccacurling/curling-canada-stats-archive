@@ -58,6 +58,34 @@ vs:
       year: 1969
       draw: Round Robin(4)
       score: ON 7 - MB 8
+ - name: Ellis, Kenneth
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Second
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1969
+      draw: Round Robin(11)
+      score: NL 7 - ON 15
  - name: Ford, Gary
    totals:
     - event: Macdonald Brier
@@ -226,6 +254,34 @@ vs:
       year: 1969
       draw: Round Robin(6)
       score: ON 10 - NB 11
+ - name: Lawes, Keith
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Second
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1969
+      draw: Round Robin(11)
+      score: NL 7 - ON 15
  - name: Mabey, Harold Jr.
    totals:
     - event: Macdonald Brier
@@ -506,34 +562,6 @@ vs:
       year: 1969
       draw: Round Robin(4)
       score: ON 7 - MB 8
- - name: Roy, William
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'ON'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(11)
-      score: NL 7 - ON 15
  - name: Sherba, Peter
    totals:
     - event: Macdonald Brier
@@ -702,34 +730,6 @@ vs:
       year: 1969
       draw: Round Robin(6)
       score: ON 10 - NB 11
- - name: Stent, Frank
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'ON'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(11)
-      score: NL 7 - ON 15
  - name: Storey, Frederick
    totals:
     - event: Macdonald Brier
@@ -898,34 +898,6 @@ vs:
       year: 1969
       draw: Round Robin(5)
       score: NO 11 - ON 10
- - name: Warren, Thomas
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'ON'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(11)
-      score: NL 7 - ON 15
  - name: Wiggington, Merrill
    totals:
     - event: Macdonald Brier

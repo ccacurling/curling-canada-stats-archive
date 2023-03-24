@@ -26,6 +26,7 @@ years:
    shots-total: 0
    shots-percent:
 vs:
+ - Andrews, Alexander
  - Bell, Douglas
  - Buchan, Kenneth
  - Campbell, Garnet
@@ -34,12 +35,14 @@ vs:
  - Czaja, Mitchell
  - Dillon, Robert
  - Easton, Leonard
+ - Ellis, Kenneth
  - Ford, Gary
  - Gerlach, David
  - Green, Grant
  - Guest, Ross
  - Johnson, Terence
  - Keith, Harold
+ - Lawes, Keith
  - Mabey, Harold Jr.
  - MacMellon, Grant
  - McDonald, Robert
@@ -48,21 +51,18 @@ vs:
  - Pickering, Robert
  - Piercey, William
  - Robinson, Robert
- - Roy, William
  - Sherba, Peter
  - Shinfield, Allan
  - Smale, Kevin
  - Smith, Alan
  - Sparkes, Bernie
  - Steeves, Edward
- - Stent, Frank
  - Storey, Frederick
  - Strange, Douglas
  - Stuart, Douglas
  - Sully, Alan
  - Thomas, Robert
  - Thompson, Jack
- - Warren, Thomas
  - Weisz, Gary
  - Wiggington, Merrill
  - Wood, Edgar

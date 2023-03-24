@@ -327,6 +327,7 @@ vs:
  - Kroeger, Thomas
  - Lamb, Earl
  - Lanaghan, Harold
+ - Lawes, Keith
  - Leger, Murray
  - Lemecha, Robert
  - Lerner, Hersh

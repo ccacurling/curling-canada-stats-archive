@@ -62,6 +62,7 @@ years:
 vs:
  - Achtymichuk, George
  - Aitken, Don
+ - Andrews, Alexander
  - Andrews, Lew
  - Armstrong, Jim
  - Atkinson, Howard
@@ -87,6 +88,7 @@ vs:
  - Dillon, Robert
  - Dugre, Louis
  - Easton, Leonard
+ - Ellis, Kenneth
  - Emond, Andre
  - Fink, Daniel
  - Ford, Gary
@@ -112,6 +114,7 @@ vs:
  - Klein, Joseph
  - Klippenstein, Daniel
  - Lang, Rick
+ - Lawes, Keith
  - Lobel, Arthur
  - Mabey, Harold Jr.
  - MacMellon, Grant
@@ -139,7 +142,6 @@ vs:
  - Riley, Mike
  - Robinson, Robert
  - Romkey, David
- - Roy, William
  - Savage, Paul
  - Scott, Alexander
  - Sherba, Peter
@@ -149,7 +151,6 @@ vs:
  - Smith, Alan
  - Sparkes, Bernie
  - Steeves, Edward
- - Stent, Frank
  - Stokes, Lionel
  - Storey, Frederick
  - Strange, Douglas
@@ -163,7 +164,6 @@ vs:
  - Twa, Donald
  - Ursel, Jim
  - Ward, James
- - Warren, Thomas
  - Watchorn, Mel
  - Watchorn, Merv
  - Watchorn, Terry

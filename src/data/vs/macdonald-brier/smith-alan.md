@@ -135,12 +135,12 @@ vs:
     - event: Macdonald Brier
       player1:
         percent:
-        wins: 2
+        wins: 1
         losses: 0
       player2:
         percent:
         wins: 0
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'PE'
@@ -158,22 +158,6 @@ vs:
       year: 1968
       draw: Round Robin(11)
       score: PE 17 - NL 16
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(6)
-      score: NL 6 - PE 13
  - name: Stevenson, Gary
    totals:
     - event: Macdonald Brier
@@ -823,12 +807,12 @@ vs:
     - event: Macdonald Brier
       player1:
         percent:
-        wins: 2
+        wins: 1
         losses: 0
       player2:
         percent:
         wins: 0
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'PE'
@@ -846,22 +830,6 @@ vs:
       year: 1968
       draw: Round Robin(11)
       score: PE 17 - NL 16
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(6)
-      score: NL 6 - PE 13
  - name: Weisz, Gary
    totals:
     - event: Macdonald Brier

@@ -165,6 +165,7 @@ vs:
  - Kostick, John
  - Larsen, Vernon
  - Lashuk, Nicholas
+ - Lawes, Keith
  - Lindberg, Russell
  - Little, Gordon
  - Little, Kenneth

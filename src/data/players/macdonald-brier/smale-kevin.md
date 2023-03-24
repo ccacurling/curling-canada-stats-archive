@@ -77,6 +77,7 @@ vs:
  - Keys, John
  - Knudsen, Eric
  - Kroeger, Thomas
+ - Lawes, Keith
  - Leger, Murray
  - Lilly, Raymond
  - Mabey, Harold Jr.
@@ -96,7 +97,6 @@ vs:
  - Piercey, William
  - Ready, Clifford
  - Robinson, Robert
- - Roy, William
  - Sanford, John
  - Sargent, Frank Jr.
  - Sargent, James
@@ -105,7 +105,6 @@ vs:
  - Somers, Dale
  - Sparkes, Bernie
  - Steeves, Edward
- - Stent, Frank
  - Storey, Frederick
  - Strange, Douglas
  - Stuart, Douglas
@@ -115,7 +114,6 @@ vs:
  - Thompson, Jack
  - Van Wassenhove, Reginald
  - Walling, John
- - Warren, Thomas
  - Weisz, Gary
  - Wiggington, Merrill
  - Wood, Bryan

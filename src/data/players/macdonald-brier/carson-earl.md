@@ -144,6 +144,7 @@ vs:
  - Ketch, Ronald
  - Keys, John
  - Lashuk, Nicholas
+ - Lawes, Keith
  - Lemecha, Robert
  - Lerner, Hersh
  - Little, Kenneth

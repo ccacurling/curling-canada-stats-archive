@@ -60,6 +60,7 @@ years:
    shots-total: 0
    shots-percent:
 vs:
+ - Andrews, Alexander
  - Baird, Ian
  - Baker, Ronald
  - Baker, Roy
@@ -81,6 +82,7 @@ vs:
  - Dubery, Arthur
  - Dudar, Allan
  - Easton, Leonard
+ - Ellis, Kenneth
  - Fellows, Ronald
  - Ford, Gary
  - Gathercole, Douglas
@@ -101,6 +103,7 @@ vs:
  - Kennie, Morris
  - Kent, William
  - Lavers, Sterling
+ - Lawes, Keith
  - LeClair, Bernard
  - Lemecha, Robert
  - Lerner, Hersh
@@ -138,7 +141,6 @@ vs:
  - Richardson, Garnet
  - Richardson, Wesley
  - Robinson, Robert
- - Roy, William
  - Saunders, Allison
  - Sauve, Lawrence
  - Sherba, Peter
@@ -152,7 +154,6 @@ vs:
  - Sproule, Keith
  - Staniloff, Coleman
  - Steeves, Edward
- - Stent, Frank
  - Storey, Frederick
  - Strange, Douglas
  - Stuart, Douglas
@@ -160,7 +161,6 @@ vs:
  - Taite, John
  - Thomas, Robert
  - Thompson, Jack
- - Warren, Thomas
  - Wiggington, Merrill
  - Wood, Douglas
  - Wood, Edgar

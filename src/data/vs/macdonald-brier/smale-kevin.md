@@ -114,34 +114,6 @@ vs:
       year: 1969
       draw: Round Robin(5)
       score: NB 6 - BC 7
- - name: Stent, Frank
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'BC'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(10)
-      score: NL 10 - BC 13
  - name: Storey, Frederick
    totals:
     - event: Macdonald Brier
@@ -394,34 +366,6 @@ vs:
       year: 1971
       draw: Round Robin(6)
       score: BC 9 - QC 6
- - name: Warren, Thomas
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'BC'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(10)
-      score: NL 10 - BC 13
  - name: Weisz, Gary
    totals:
     - event: Macdonald Brier

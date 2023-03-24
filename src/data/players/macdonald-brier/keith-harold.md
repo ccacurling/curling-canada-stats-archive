@@ -95,6 +95,7 @@ years:
    shots-percent:
 vs:
  - Aitken, Don
+ - Andrews, Alexander
  - Anton, Ronald
  - Armstrong, Alan
  - Armstrong, William
@@ -135,6 +136,7 @@ vs:
  - Easton, Leonard
  - Edwards, Jack
  - Elliott, Robert
+ - Ellis, Kenneth
  - Florian, James
  - Ford, Gary
  - Franklin, Ronald
@@ -172,6 +174,7 @@ vs:
  - Larsen, Vernon
  - Laudrum, George
  - Lavers, Sterling
+ - Lawes, Keith
  - Lindberg, Russell
  - Little, Gordon
  - Llewellyn, Arnold
@@ -217,7 +220,6 @@ vs:
  - Richardson, Garnet
  - Richardson, Wesley
  - Robinson, Robert
- - Roy, William
  - Ruiter, Garth
  - Saboe, Wayne
  - Saunders, Allison
@@ -249,7 +251,6 @@ vs:
  - Tulley, James
  - Ursel, Jim
  - Ursuliak, Wally
- - Warren, Thomas
  - Weisz, Gary
  - Werner, Raymond
  - Whitfield, Carl

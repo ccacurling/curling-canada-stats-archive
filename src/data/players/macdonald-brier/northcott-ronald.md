@@ -198,6 +198,7 @@ vs:
  - Knudson, Elmer
  - Knudson, Gerhard
  - Lavers, Sterling
+ - Lawes, Keith
  - LeClair, Bernard
  - Lemecha, Robert
  - Lerner, Hersh

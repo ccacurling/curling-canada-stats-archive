@@ -78,6 +78,7 @@ years:
    shots-percent:
 vs:
  - Achtymichuk, George
+ - Andrews, Alexander
  - Anton, Ronald
  - Armstrong, Jim
  - Armstrong, William
@@ -104,6 +105,7 @@ vs:
  - Dillon, Robert
  - Dugre, Louis
  - Easton, Leonard
+ - Ellis, Kenneth
  - Emond, Andre
  - Eyben, Neil
  - Fink, Daniel
@@ -139,6 +141,7 @@ vs:
  - Klotz, George
  - Kostick, John
  - Larsen, Vernon
+ - Lawes, Keith
  - Lindberg, Russell
  - Llewellyn, Arnold
  - Lyon, John-David
@@ -179,7 +182,6 @@ vs:
  - Richardson, Wesley
  - Robinson, Robert
  - Romkey, David
- - Roy, William
  - Ruiter, Garth
  - Saunders, Allison
  - Savage, Paul
@@ -192,7 +194,6 @@ vs:
  - Sparkes, Bernie
  - Stanley, Harry
  - Steeves, Edward
- - Stent, Frank
  - Stone, Reginald
  - Stone, Roy
  - Storey, Frederick
@@ -208,7 +209,6 @@ vs:
  - Ursel, Jim
  - Ursuliak, Wally
  - Ward, James
- - Warren, Thomas
  - Watchorn, Mel
  - Watchorn, Merv
  - Watchorn, Terry

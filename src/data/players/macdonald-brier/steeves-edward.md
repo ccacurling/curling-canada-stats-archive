@@ -44,6 +44,7 @@ years:
    shots-percent:
 vs:
  - Aitken, Don
+ - Andrews, Alexander
  - Beaver, Reginald
  - Bell, Douglas
  - Bowering, Lester
@@ -64,6 +65,7 @@ vs:
  - Downer, Gerald
  - Duguid, Donald
  - Easton, Leonard
+ - Ellis, Kenneth
  - Ford, Gary
  - Franklin, Ronald
  - Gerlach, David
@@ -79,6 +81,7 @@ vs:
  - Johnson, Terence
  - Kent, William
  - Keys, John
+ - Lawes, Keith
  - Lobel, Arthur
  - Mabey, Roger
  - Margeson, Robert
@@ -95,7 +98,6 @@ vs:
  - Pickering, Robert
  - Piercey, William
  - Robinson, Robert
- - Roy, William
  - Saboe, Wayne
  - Saunders, Allison
  - Savage, Paul
@@ -113,7 +115,6 @@ vs:
  - Thomas, Robert
  - Thompson, Jack
  - Tod, Thomas
- - Warren, Thomas
  - Weisz, Gary
  - Whitfield, Carl
  - Wiggington, Merrill

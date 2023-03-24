@@ -80,6 +80,7 @@ vs:
  - Johnson, Terence
  - Keith, Harold
  - Lashuk, Nicholas
+ - Lawes, Keith
  - Little, Kenneth
  - Lyons, Peter
  - Mabey, Harold Jr.
@@ -101,14 +102,12 @@ vs:
  - Piercey, William
  - Polyblank, John
  - Robinson, Robert
- - Roy, William
  - Sherba, Peter
  - Shinfield, Allan
  - Smale, Kevin
  - Smith, Alan
  - Sparkes, Bernie
  - Steeves, Edward
- - Stent, Frank
  - Stevenson, Gary
  - Storey, Frederick
  - Strange, Douglas
@@ -117,7 +116,6 @@ vs:
  - Thompson, Jack
  - Turnbull, Raymond
  - Walker, Glen
- - Warren, Thomas
  - Weisz, Gary
  - Wiggington, Merrill
  - Worth, Harold Jr.

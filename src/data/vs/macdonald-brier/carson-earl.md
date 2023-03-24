@@ -431,12 +431,12 @@ vs:
     - event: Macdonald Brier
       player1:
         percent:
-        wins: 1
+        wins: 2
         losses: 1
       player2:
         percent:
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'QC'
@@ -470,6 +470,22 @@ vs:
       year: 1966
       draw: Round Robin(4)
       score: NL 10 - QC 8
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1969
+      draw: Round Robin(7)
+      score: QC 12 - NL 5
  - name: Fink, George
    totals:
     - event: Macdonald Brier
@@ -1342,6 +1358,34 @@ vs:
       year: 1965
       draw: Round Robin(9)
       score: QC 12 - AB 16
+ - name: Lawes, Keith
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1969
+      draw: Round Robin(7)
+      score: QC 12 - NL 5
  - name: Lemecha, Robert
    totals:
     - event: Macdonald Brier
@@ -2423,12 +2467,12 @@ vs:
     - event: Macdonald Brier
       player1:
         percent:
-        wins: 2
+        wins: 1
         losses: 0
       player2:
         percent:
         wins: 0
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'QC'
@@ -2446,22 +2490,6 @@ vs:
       year: 1968
       draw: Round Robin(8)
       score: NL 8 - QC 11
-    - player1:
-        team: 'QC'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(7)
-      score: QC 12 - NL 5
  - name: Sherba, Peter
    totals:
     - event: Macdonald Brier
@@ -2755,12 +2783,12 @@ vs:
     - event: Macdonald Brier
       player1:
         percent:
-        wins: 2
+        wins: 1
         losses: 0
       player2:
         percent:
         wins: 0
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'QC'
@@ -2778,22 +2806,6 @@ vs:
       year: 1968
       draw: Round Robin(8)
       score: NL 8 - QC 11
-    - player1:
-        team: 'QC'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(7)
-      score: QC 12 - NL 5
  - name: Stevenson, Gary
    totals:
     - event: Macdonald Brier
@@ -3267,12 +3279,12 @@ vs:
     - event: Macdonald Brier
       player1:
         percent:
-        wins: 2
+        wins: 1
         losses: 0
       player2:
         percent:
         wins: 0
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'QC'
@@ -3290,22 +3302,6 @@ vs:
       year: 1968
       draw: Round Robin(8)
       score: NL 8 - QC 11
-    - player1:
-        team: 'QC'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(7)
-      score: QC 12 - NL 5
  - name: Weisz, Gary
    totals:
     - event: Macdonald Brier

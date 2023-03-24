@@ -170,6 +170,34 @@ vs:
       year: 1969
       draw: Round Robin(6)
       score: ON 10 - NB 11
+ - name: Lawes, Keith
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1969
+      draw: Round Robin(11)
+      score: NL 7 - ON 15
  - name: Lukowich, Ed
    totals:
     - event: Macdonald Brier
@@ -842,34 +870,6 @@ vs:
       year: 1978
       draw: Round Robin(3)
       score: NL 2 - ON 8
- - name: Roy, William
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'ON'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(11)
-      score: NL 7 - ON 15
  - name: Sampson, James
    totals:
     - event: Macdonald Brier
@@ -1194,34 +1194,6 @@ vs:
       year: 1969
       draw: Round Robin(6)
       score: ON 10 - NB 11
- - name: Stent, Frank
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'ON'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(11)
-      score: NL 7 - ON 15
  - name: Storey, Frederick
    totals:
     - event: Macdonald Brier
@@ -1502,34 +1474,6 @@ vs:
       year: 1978
       draw: Round Robin(8)
       score: QC 6 - ON 7
- - name: Warren, Thomas
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'ON'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(11)
-      score: NL 7 - ON 15
  - name: Wedge, Keith
    totals:
     - event: Macdonald Brier

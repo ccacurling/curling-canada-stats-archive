@@ -1255,12 +1255,12 @@ vs:
     - event: Macdonald Brier
       player1:
         percent:
-        wins: 2
+        wins: 3
         losses: 0
       player2:
         percent:
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'SK'
@@ -1278,6 +1278,22 @@ vs:
       year: 1966
       draw: Round Robin(5)
       score: NL 5 - SK 9
+    - player1:
+        team: 'SK'
+        position: Third
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1969
+      draw: Round Robin(1)
+      score: SK 12 - NL 5
     - player1:
         team: 'SK'
         position: Third
@@ -3450,6 +3466,34 @@ vs:
       year: 1947
       draw: Round Robin(2)
       score: SK 4 - NS 15
+ - name: Lawes, Keith
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Third
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1969
+      draw: Round Robin(1)
+      score: SK 12 - NL 5
  - name: Leger, Murray
    totals:
     - event: Macdonald Brier
@@ -6547,12 +6591,12 @@ vs:
     - event: Macdonald Brier
       player1:
         percent:
-        wins: 2
+        wins: 1
         losses: 0
       player2:
         percent:
         wins: 0
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'SK'
@@ -6570,22 +6614,6 @@ vs:
       year: 1968
       draw: Round Robin(10)
       score: SK 9 - NL 3
-    - player1:
-        team: 'SK'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(1)
-      score: SK 12 - NL 5
  - name: Saboe, Wayne
    totals:
     - event: Macdonald Brier
@@ -7579,12 +7607,12 @@ vs:
     - event: Macdonald Brier
       player1:
         percent:
-        wins: 3
+        wins: 2
         losses: 0
       player2:
         percent:
         wins: 0
-        losses: 3
+        losses: 2
    games:
     - player1:
         team: 'SK'
@@ -7602,22 +7630,6 @@ vs:
       year: 1968
       draw: Round Robin(10)
       score: SK 9 - NL 3
-    - player1:
-        team: 'SK'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(1)
-      score: SK 12 - NL 5
     - player1:
         team: 'SK'
         position: Third
@@ -8651,12 +8663,12 @@ vs:
     - event: Macdonald Brier
       player1:
         percent:
-        wins: 2
+        wins: 1
         losses: 0
       player2:
         percent:
         wins: 0
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'SK'
@@ -8674,22 +8686,6 @@ vs:
       year: 1968
       draw: Round Robin(10)
       score: SK 9 - NL 3
-    - player1:
-        team: 'SK'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(1)
-      score: SK 12 - NL 5
  - name: Watson, William H.
    totals:
     - event: Macdonald Brier

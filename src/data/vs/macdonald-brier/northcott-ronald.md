@@ -819,12 +819,12 @@ vs:
     - event: Macdonald Brier
       player1:
         percent:
-        wins: 2
+        wins: 1
         losses: 0
       player2:
         percent:
         wins: 0
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'AB'
@@ -842,22 +842,6 @@ vs:
       year: 1968
       draw: Round Robin(1)
       score: NL 5 - AB 13
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(8)
-      score: AB 16 - NL 9
  - name: Saunders, Allison
    totals:
     - event: Macdonald Brier
@@ -1247,12 +1231,12 @@ vs:
     - event: Macdonald Brier
       player1:
         percent:
-        wins: 2
+        wins: 1
         losses: 0
       player2:
         percent:
         wins: 0
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'AB'
@@ -1270,22 +1254,6 @@ vs:
       year: 1968
       draw: Round Robin(1)
       score: NL 5 - AB 13
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(8)
-      score: AB 16 - NL 9
  - name: Strange, Douglas
    totals:
     - event: Macdonald Brier
@@ -1819,12 +1787,12 @@ vs:
     - event: Macdonald Brier
       player1:
         percent:
-        wins: 2
+        wins: 1
         losses: 0
       player2:
         percent:
         wins: 0
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'AB'
@@ -1842,22 +1810,6 @@ vs:
       year: 1968
       draw: Round Robin(1)
       score: NL 5 - AB 13
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(8)
-      score: AB 16 - NL 9
  - name: Weisz, Gary
    totals:
     - event: Macdonald Brier

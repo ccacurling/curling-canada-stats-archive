@@ -79,6 +79,7 @@ years:
 vs:
  - Achtymichuk, George
  - Anderson, Jim
+ - Andrews, Alexander
  - Anton, Ronald
  - Armstrong, Jim
  - Ayer, Frank
@@ -102,6 +103,7 @@ vs:
  - Downey, Wayne
  - Dugre, Louis
  - Easton, Leonard
+ - Ellis, Kenneth
  - Emond, Andre
  - Fetterly, Tom
  - Fink, Daniel
@@ -134,6 +136,7 @@ vs:
  - Klein, Joseph
  - Klippenstein, Daniel
  - Langille, Kenneth
+ - Lawes, Keith
  - Little, Robert
  - Mabey, Harold Jr.
  - Mackin, Brian

@@ -231,6 +231,7 @@ vs:
  - Lamb, Arthur
  - Laudrum, George
  - Lavers, Sterling
+ - Lawes, Keith
  - LeClair, Bernard
  - Lemecha, Robert
  - Lerner, Hersh

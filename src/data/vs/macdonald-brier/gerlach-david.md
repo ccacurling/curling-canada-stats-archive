@@ -142,6 +142,34 @@ vs:
       year: 1969
       draw: Round Robin(3)
       score: AB 14 - NB 8
+ - name: Lawes, Keith
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1969
+      draw: Round Robin(8)
+      score: AB 16 - NL 9
  - name: Mabey, Harold Jr.
    totals:
     - event: Macdonald Brier
@@ -394,34 +422,6 @@ vs:
       year: 1969
       draw: Round Robin(1)
       score: MB 3 - AB 11
- - name: Roy, William
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(8)
-      score: AB 16 - NL 9
  - name: Sherba, Peter
    totals:
     - event: Macdonald Brier
@@ -562,34 +562,6 @@ vs:
       year: 1969
       draw: Round Robin(3)
       score: AB 14 - NB 8
- - name: Stent, Frank
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(8)
-      score: AB 16 - NL 9
  - name: Strange, Douglas
    totals:
     - event: Macdonald Brier
@@ -730,34 +702,6 @@ vs:
       year: 1969
       draw: Round Robin(2)
       score: AB 10 - NO 9
- - name: Warren, Thomas
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Third
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(8)
-      score: AB 16 - NL 9
  - name: Weisz, Gary
    totals:
     - event: Macdonald Brier

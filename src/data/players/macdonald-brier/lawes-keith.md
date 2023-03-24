@@ -1,7 +1,7 @@
 ---
-title: Mitchell Czaja
-name: Mitchell Czaja
-name-sort: Czaja, Mitchell
+title: Keith Lawes
+name: Keith Lawes
+name-sort: Lawes, Keith
 totals:
  - event: Macdonald Brier
    games: 10
@@ -10,8 +10,8 @@ totals:
 years:
  - year: 1969
    event: Macdonald Brier
-   team: "ON"
-   position: Second
+   team: "NL"
+   position: Third
    games: 10
    wins: 2
    losses: 8
@@ -26,22 +26,22 @@ years:
    shots-total: 0
    shots-percent:
 vs:
- - Andrews, Alexander
  - Beaver, Reginald
  - Bell, Douglas
+ - Buchan, Kenneth
  - Campbell, Garnet
  - Carr, Patrick
  - Carson, Earl
+ - Czaja, Mitchell
  - Dillon, Robert
  - Easton, Leonard
- - Ellis, Kenneth
  - Ford, Gary
  - Gerlach, David
  - Green, Grant
+ - Guest, Ross
  - Hope, Peter
  - Johnson, Terence
  - Keith, Harold
- - Lawes, Keith
  - Mabey, Harold Jr.
  - MacMellon, Grant
  - Margeson, Robert
@@ -50,7 +50,6 @@ vs:
  - Northcott, Ronald
  - Peterson, Gordon
  - Pickering, Robert
- - Piercey, William
  - Robinson, Robert
  - Sherba, Peter
  - Shinfield, Allan
@@ -64,6 +63,7 @@ vs:
  - Sully, Alan
  - Thomas, Robert
  - Thompson, Jack
+ - Weisz, Gary
  - Wiggington, Merrill
  - Wood, Edgar
 ---

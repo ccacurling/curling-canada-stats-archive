@@ -1,7 +1,203 @@
 ---
-title: Gordon Peterson Head-to-head
-name: Peterson, Gordon
+title: Keith Lawes Head-to-head
+name: Lawes, Keith
 vs:
+ - name: Mabey, Harold Jr.
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent:
+        win: 1
+        loss: 0
+      event: Macdonald Brier
+      year: 1969
+      draw: Round Robin(4)
+      score: NL 8 - NB 9
+ - name: MacMellon, Grant
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Lead
+        percent:
+        win: 1
+        loss: 0
+      event: Macdonald Brier
+      year: 1969
+      draw: Round Robin(4)
+      score: NL 8 - NB 9
+ - name: Margeson, Robert
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Second
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1969
+      draw: Round Robin(5)
+      score: NL 12 - NS 9
+ - name: Mattatall, Eugene
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 1
+        losses: 0
+      player2:
+        percent:
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent:
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Third
+        percent:
+        win: 0
+        loss: 1
+      event: Macdonald Brier
+      year: 1969
+      draw: Round Robin(5)
+      score: NL 12 - NS 9
+ - name: McDonald, Robert
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Second
+        percent:
+        win: 1
+        loss: 0
+      event: Macdonald Brier
+      year: 1969
+      draw: Round Robin(10)
+      score: NL 10 - BC 13
+ - name: Northcott, Ronald
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent:
+        win: 1
+        loss: 0
+      event: Macdonald Brier
+      year: 1969
+      draw: Round Robin(8)
+      score: AB 16 - NL 9
+ - name: Peterson, Gordon
+   totals:
+    - event: Macdonald Brier
+      player1:
+        percent:
+        wins: 0
+        losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent:
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Lead
+        percent:
+        win: 1
+        loss: 0
+      event: Macdonald Brier
+      year: 1969
+      draw: Round Robin(3)
+      score: NO 9 - NL 8
  - name: Pickering, Robert
    totals:
     - event: Macdonald Brier
@@ -15,149 +211,9 @@ vs:
         losses: 0
    games:
     - player1:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(6)
-      score: SK 11 - NO 5
- - name: Piercey, William
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
         team: 'NL'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(3)
-      score: NO 9 - NL 8
- - name: Puddester, Robert
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Macdonald Brier
-      year: 1962
-      draw: Round Robin(3)
-      score: NO 5 - NB 17
- - name: Rhodenizer, Wayne
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1962
-      draw: Round Robin(5)
-      score: PE 10 - NO 11
- - name: Richardson, Arnold
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
         position: Third
         percent:
-        win: 1
-        loss: 0
-      event: Macdonald Brier
-      year: 1962
-      draw: Round Robin(2)
-      score: NO 4 - SK 14
- - name: Richardson, Ernest
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent:
         win: 0
         loss: 1
       player2:
@@ -167,65 +223,9 @@ vs:
         win: 1
         loss: 0
       event: Macdonald Brier
-      year: 1962
-      draw: Round Robin(2)
-      score: NO 4 - SK 14
- - name: Richardson, Garnet
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Second
-        percent:
-        win: 1
-        loss: 0
-      event: Macdonald Brier
-      year: 1962
-      draw: Round Robin(2)
-      score: NO 4 - SK 14
- - name: Richardson, Wesley
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Macdonald Brier
-      year: 1962
-      draw: Round Robin(2)
-      score: NO 4 - SK 14
+      year: 1969
+      draw: Round Robin(1)
+      score: SK 12 - NL 5
  - name: Robinson, Robert
    totals:
     - event: Macdonald Brier
@@ -239,8 +239,8 @@ vs:
         losses: 1
    games:
     - player1:
-        team: 'NO'
-        position: Lead
+        team: 'NL'
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -252,64 +252,8 @@ vs:
         loss: 1
       event: Macdonald Brier
       year: 1969
-      draw: Round Robin(7)
-      score: MB 8 - NO 9
- - name: Ruiter, Garth
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1962
-      draw: Round Robin(4)
-      score: QC 10 - NO 13
- - name: Secord, Bayne
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      event: Macdonald Brier
-      year: 1962
-      draw: Round Robin(8)
-      score: NO 5 - ON 10
+      draw: Round Robin(2)
+      score: MB 8 - NL 11
  - name: Sherba, Peter
    totals:
     - event: Macdonald Brier
@@ -323,8 +267,8 @@ vs:
         losses: 0
    games:
     - player1:
-        team: 'NO'
-        position: Lead
+        team: 'NL'
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -336,8 +280,8 @@ vs:
         loss: 0
       event: Macdonald Brier
       year: 1969
-      draw: Round Robin(4)
-      score: NO 4 - BC 10
+      draw: Round Robin(10)
+      score: NL 10 - BC 13
  - name: Shinfield, Allan
    totals:
     - event: Macdonald Brier
@@ -351,8 +295,8 @@ vs:
         losses: 1
    games:
     - player1:
-        team: 'NO'
-        position: Lead
+        team: 'NL'
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -364,8 +308,8 @@ vs:
         loss: 1
       event: Macdonald Brier
       year: 1969
-      draw: Round Robin(7)
-      score: MB 8 - NO 9
+      draw: Round Robin(2)
+      score: MB 8 - NL 11
  - name: Smale, Kevin
    totals:
     - event: Macdonald Brier
@@ -379,8 +323,8 @@ vs:
         losses: 0
    games:
     - player1:
-        team: 'NO'
-        position: Lead
+        team: 'NL'
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -392,39 +336,23 @@ vs:
         loss: 0
       event: Macdonald Brier
       year: 1969
-      draw: Round Robin(4)
-      score: NO 4 - BC 10
+      draw: Round Robin(10)
+      score: NL 10 - BC 13
  - name: Smith, Alan
    totals:
     - event: Macdonald Brier
       player1:
         percent:
-        wins: 1
+        wins: 0
         losses: 1
       player2:
         percent:
         wins: 1
-        losses: 1
+        losses: 0
    games:
     - player1:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
+        team: 'NL'
         position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1962
-      draw: Round Robin(5)
-      score: PE 10 - NO 11
-    - player1:
-        team: 'NO'
-        position: Lead
         percent:
         win: 0
         loss: 1
@@ -436,8 +364,8 @@ vs:
         loss: 0
       event: Macdonald Brier
       year: 1969
-      draw: Round Robin(11)
-      score: PE 7 - NO 6
+      draw: Round Robin(6)
+      score: NL 6 - PE 13
  - name: Sparkes, Bernie
    totals:
     - event: Macdonald Brier
@@ -451,8 +379,8 @@ vs:
         losses: 0
    games:
     - player1:
-        team: 'NO'
-        position: Lead
+        team: 'NL'
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -464,120 +392,36 @@ vs:
         loss: 0
       event: Macdonald Brier
       year: 1969
-      draw: Round Robin(2)
-      score: AB 10 - NO 9
- - name: Stanhope, Donald
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'NS'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Macdonald Brier
-      year: 1962
-      draw: Round Robin(9)
-      score: NS 10 - NO 7
+      draw: Round Robin(8)
+      score: AB 16 - NL 9
  - name: Steeves, Edward
    totals:
     - event: Macdonald Brier
       player1:
         percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
         wins: 0
         losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
     - player1:
-        team: 'NO'
-        position: Lead
+        team: 'NL'
+        position: Third
         percent:
-        win: 1
-        loss: 0
+        win: 0
+        loss: 1
       player2:
         team: 'NB'
         position: Third
         percent:
-        win: 0
-        loss: 1
+        win: 1
+        loss: 0
       event: Macdonald Brier
       year: 1969
-      draw: Round Robin(9)
-      score: NO 8 - NB 6
- - name: Stone, Reginald
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
-        position: Fourth
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1962
-      draw: Round Robin(7)
-      score: NO 10 - BC 9
- - name: Stone, Roy
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1962
-      draw: Round Robin(7)
-      score: NO 10 - BC 9
+      draw: Round Robin(4)
+      score: NL 8 - NB 9
  - name: Storey, Frederick
    totals:
     - event: Macdonald Brier
@@ -591,8 +435,8 @@ vs:
         losses: 0
    games:
     - player1:
-        team: 'NO'
-        position: Lead
+        team: 'NL'
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -604,8 +448,8 @@ vs:
         loss: 0
       event: Macdonald Brier
       year: 1969
-      draw: Round Robin(2)
-      score: AB 10 - NO 9
+      draw: Round Robin(8)
+      score: AB 16 - NL 9
  - name: Strange, Douglas
    totals:
     - event: Macdonald Brier
@@ -619,8 +463,8 @@ vs:
         losses: 1
    games:
     - player1:
-        team: 'NO'
-        position: Lead
+        team: 'NL'
+        position: Third
         percent:
         win: 1
         loss: 0
@@ -632,8 +476,8 @@ vs:
         loss: 1
       event: Macdonald Brier
       year: 1969
-      draw: Round Robin(7)
-      score: MB 8 - NO 9
+      draw: Round Robin(2)
+      score: MB 8 - NL 11
  - name: Stuart, Douglas
    totals:
     - event: Macdonald Brier
@@ -647,8 +491,8 @@ vs:
         losses: 0
    games:
     - player1:
-        team: 'NO'
-        position: Lead
+        team: 'NL'
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -660,8 +504,8 @@ vs:
         loss: 0
       event: Macdonald Brier
       year: 1969
-      draw: Round Robin(1)
-      score: QC 10 - NO 9
+      draw: Round Robin(7)
+      score: QC 12 - NL 5
  - name: Sully, Alan
    totals:
     - event: Macdonald Brier
@@ -675,8 +519,8 @@ vs:
         losses: 0
    games:
     - player1:
-        team: 'NO'
-        position: Lead
+        team: 'NL'
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -688,36 +532,8 @@ vs:
         loss: 0
       event: Macdonald Brier
       year: 1969
-      draw: Round Robin(1)
-      score: QC 10 - NO 9
- - name: Taite, John
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1962
-      draw: Round Robin(1)
-      score: NO 13 - NL 7
+      draw: Round Robin(7)
+      score: QC 12 - NL 5
  - name: Thomas, Robert
    totals:
     - event: Macdonald Brier
@@ -731,8 +547,8 @@ vs:
         losses: 0
    games:
     - player1:
-        team: 'NO'
-        position: Lead
+        team: 'NL'
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -744,9 +560,9 @@ vs:
         loss: 0
       event: Macdonald Brier
       year: 1969
-      draw: Round Robin(6)
-      score: SK 11 - NO 5
- - name: Ursel, Jim
+      draw: Round Robin(1)
+      score: SK 12 - NL 5
+ - name: Thompson, Jack
    totals:
     - event: Macdonald Brier
       player1:
@@ -759,105 +575,49 @@ vs:
         losses: 0
    games:
     - player1:
-        team: 'NO'
-        position: Lead
+        team: 'NL'
+        position: Third
         percent:
         win: 0
         loss: 1
       player2:
-        team: 'MB'
+        team: 'NO'
         position: Third
         percent:
         win: 1
         loss: 0
       event: Macdonald Brier
-      year: 1962
-      draw: Round Robin(10)
-      score: MB 10 - NO 7
- - name: Ursuliak, Wally
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
-      player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      event: Macdonald Brier
-      year: 1962
-      draw: Round Robin(11)
-      score: AB 14 - NO 9
+      year: 1969
+      draw: Round Robin(3)
+      score: NO 9 - NL 8
  - name: Weisz, Gary
    totals:
     - event: Macdonald Brier
       player1:
         percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
         wins: 0
         losses: 1
+      player2:
+        percent:
+        wins: 1
+        losses: 0
    games:
     - player1:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
+        team: 'NL'
         position: Third
         percent:
         win: 0
         loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(5)
-      score: NO 11 - ON 10
- - name: Werner, Raymond
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 0
-        losses: 1
       player2:
-        percent:
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Second
+        team: 'ON'
+        position: Third
         percent:
         win: 1
         loss: 0
       event: Macdonald Brier
-      year: 1962
+      year: 1969
       draw: Round Robin(11)
-      score: AB 14 - NO 9
+      score: NL 7 - ON 15
  - name: Wiggington, Merrill
    totals:
     - event: Macdonald Brier
@@ -871,8 +631,8 @@ vs:
         losses: 0
    games:
     - player1:
-        team: 'NO'
-        position: Lead
+        team: 'NL'
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -884,36 +644,8 @@ vs:
         loss: 0
       event: Macdonald Brier
       year: 1969
-      draw: Round Robin(11)
-      score: PE 7 - NO 6
- - name: Wilson, James
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1962
-      draw: Round Robin(4)
-      score: QC 10 - NO 13
+      draw: Round Robin(6)
+      score: NL 6 - PE 13
  - name: Wood, Edgar
    totals:
     - event: Macdonald Brier
@@ -927,8 +659,8 @@ vs:
         losses: 0
    games:
     - player1:
-        team: 'NO'
-        position: Lead
+        team: 'NL'
+        position: Third
         percent:
         win: 0
         loss: 1
@@ -940,6 +672,6 @@ vs:
         loss: 0
       event: Macdonald Brier
       year: 1969
-      draw: Round Robin(1)
-      score: QC 10 - NO 9
+      draw: Round Robin(7)
+      score: QC 12 - NL 5
 ---

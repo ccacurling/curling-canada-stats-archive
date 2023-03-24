@@ -1302,34 +1302,6 @@ vs:
       year: 1969
       draw: Round Robin(8)
       score: MB 12 - NB 8
- - name: Roy, William
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Lead
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(4)
-      score: NL 8 - NB 9
  - name: Ruiter, Garth
    totals:
     - event: Macdonald Brier
@@ -1847,29 +1819,13 @@ vs:
     - event: Macdonald Brier
       player1:
         percent:
-        wins: 1
+        wins: 0
         losses: 1
       player2:
         percent:
         wins: 1
-        losses: 1
+        losses: 0
    games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Third
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(4)
-      score: NL 8 - NB 9
     - player1:
         team: 'NB'
         position: Fourth
@@ -2326,34 +2282,6 @@ vs:
       year: 1962
       draw: Round Robin(8)
       score: NB 7 - AB 10
- - name: Warren, Thomas
-   totals:
-    - event: Macdonald Brier
-      player1:
-        percent:
-        wins: 1
-        losses: 0
-      player2:
-        percent:
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent:
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent:
-        win: 0
-        loss: 1
-      event: Macdonald Brier
-      year: 1969
-      draw: Round Robin(4)
-      score: NL 8 - NB 9
  - name: Weisz, Gary
    totals:
     - event: Macdonald Brier
