@@ -101,7 +101,6 @@ vs:
  - Betker, Jan
  - Blanchard, Judy
  - Brophy, Kathy
- - Brown, Katie
  - Burgess, Judy
  - Cameron, Nancy
  - Carter, Linda
@@ -223,6 +222,7 @@ vs:
  - Wheatcroft, Georgina
  - Whitrow, Leanne
  - Willms, Karri
+ - Witt, Katie
  - Wright, Susan
  - Zeller, Lori
 ---

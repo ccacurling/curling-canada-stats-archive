@@ -214,7 +214,6 @@ vs:
  - Cheveldave, Amber
  - Cormier, Sharon
  - Couling, Betty
- - Crawford, Andrea
  - Cunningham, Cathy
  - Cunningham, Jennifer
  - Curtis, Erica
@@ -226,7 +225,6 @@ vs:
  - Delahunt, Nancy
  - Derry, Danielle
  - deSolla, Jodie
- - Devereaux, Julie
  - Dezura, Diane
  - Dobson, Sue
  - Doig, Deanna
@@ -269,6 +267,7 @@ vs:
  - Hopkins, Heather
  - Horte, Rhonda
  - Hughes, Meaghan
+ - Hynes, Julie
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
@@ -278,6 +277,7 @@ vs:
  - Kalenchuk, Heather
  - Karam, Sally
  - Kaylo, Kelly
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - Koehler, Megan
@@ -312,7 +312,6 @@ vs:
  - McInnis, Susan
  - McKnight, Patti
  - McNamee, Karen
- - McQuaid, Michelle
  - Merklinger, Anne
  - Middaugh, Sherry
  - Miller, Maureen
@@ -355,6 +354,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli
+ - Shea, Michelle
  - Shumay, Jill
  - Sicinski, Danielle
  - Skinner, Julie

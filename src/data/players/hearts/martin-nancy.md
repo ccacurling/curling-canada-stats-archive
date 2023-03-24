@@ -55,6 +55,7 @@ vs:
  - Fyfe, Liz
  - Griffin, Alison
  - Hamilton, Beth
+ - Harris, Briane
  - Hawes, Dezaray
  - Hill, Sarah
  - Homan, Rachel
@@ -66,8 +67,6 @@ vs:
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - McDonald, Taylor
- - McQuaid, Michelle
- - Meilleur, Briane
  - Mercer, Adrienne
  - Miskew, Emma
  - Njegovan, Selena
@@ -76,6 +75,7 @@ vs:
  - Pincott, Erin
  - Pinksen, Sadie
  - Riley, Emily
+ - Shea, Michelle
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Sweeting, Val

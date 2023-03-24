@@ -101,7 +101,6 @@ vs:
  - Bodogh, Marilyn
  - Bowering, Andrea
  - Brophy, Kathy
- - Brown, Katie
  - Burgess, Judy
  - Burry, Gail
  - Bussieres, Helene
@@ -232,4 +231,5 @@ vs:
  - Werenka, Lil
  - Wheatcroft, Georgina
  - Whitrow, Leanne
+ - Witt, Katie
 ---

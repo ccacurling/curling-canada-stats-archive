@@ -2554,6 +2554,34 @@ vs:
       year: 1993
       draw: Round Robin(9)
       score: BC 7 - PE 4
+ - name: Witt, Katie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 66
+        wins: 1
+        losses: 0
+      player2:
+        percent: 64
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Lead
+        percent: 66
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 1990
+      draw: Round Robin(1)
+      score: PE 9 - QC 3
  - name: Wright, Joanne
    totals:
     - event: Hearts

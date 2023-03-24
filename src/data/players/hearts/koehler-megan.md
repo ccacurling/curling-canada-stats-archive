@@ -140,6 +140,10 @@ years:
    event: Hearts
    team: "NT"
    position: Alternate
+ - year: 2023
+   event: Hearts
+   team: "NT"
+   position: Alternate
 vs:
  - Adams, Melissa
  - Affleck, Tricia
@@ -171,7 +175,6 @@ vs:
  - Clark-Rouire, Jennifer
  - Comeau, Martine
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Jennifer
  - Curtis, Erica
@@ -179,7 +182,6 @@ vs:
  - Cutcliffe, Margaret
  - deJager, Blaine
  - deSolla, Jodie
- - Devereaux, Julie
  - Doig, Deanna
  - Dolan, Kim
  - Dolan, Sinead
@@ -209,11 +211,13 @@ vs:
  - Holtby, Taryn
  - Homan, Rachel
  - Hughes, Meaghan
+ - Hynes, Julie
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Kelly, Kim
  - Korab, Stephanie
  - Korchinski, Karlee
@@ -238,7 +242,6 @@ vs:
  - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
- - McQuaid, Michelle
  - Miskew, Emma
  - Moore, Kristie
  - More, Whitney
@@ -271,6 +274,7 @@ vs:
  - Schneider, Lorraine
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Shea, Michelle
  - Shumay, Jill
  - Sicinski, Danielle
  - Sippala, Ashley

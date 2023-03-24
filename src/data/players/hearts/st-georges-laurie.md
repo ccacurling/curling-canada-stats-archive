@@ -4,19 +4,19 @@ name: Laurie St-Georges
 name-sort: St-Georges, Laurie
 totals:
  - event: Hearts
-   games: 20
-   wins: 9
-   losses: 11
-   inturn-total: 208
-   inturn-percent: 73
-   outturn-total: 183
-   outturn-percent: 71
-   draw-total: 188
-   draw-percent: 71
-   takeout-total: 203
-   takeout-percent: 73
-   shots-total: 391
-   shots-percent: 72
+   games: 29
+   wins: 14
+   losses: 15
+   inturn-total: 286
+   inturn-percent: 72
+   outturn-total: 269
+   outturn-percent: 74
+   draw-total: 266
+   draw-percent: 73
+   takeout-total: 289
+   takeout-percent: 72
+   shots-total: 555
+   shots-percent: 73
 years:
  - year: 2021
    event: Hearts
@@ -52,6 +52,23 @@ years:
    takeout-percent: 70
    shots-total: 160
    shots-percent: 70
+ - year: 2023
+   event: Hearts
+   team: "QC"
+   position: Fourth
+   games: 9
+   wins: 5
+   losses: 4
+   inturn-total: 78
+   inturn-percent: 69
+   outturn-total: 86
+   outturn-percent: 78
+   draw-total: 78
+   draw-percent: 79
+   takeout-total: 86
+   takeout-percent: 70
+   shots-total: 164
+   shots-percent: 74
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -76,6 +93,7 @@ vs:
  - Christianson, Marie
  - Courtney, Joanne
  - Doerksen, Katherine
+ - Dubue, Lindsay
  - Duncan, Hollie
  - Eddy, Lori
  - Einarson, Kerri
@@ -84,13 +102,16 @@ vs:
  - Flemming, Margot
  - Fyfe, Liz
  - Galusha, Kerry
+ - Grandy, Clancy
  - Griffin, Alison
  - Hamilton, Beth
+ - Harris, Briane
  - Hawes, Dezaray
  - Hill, Sarah
  - Homan, Rachel
  - Hughes, Meaghan
  - Jones, Jennifer
+ - Just, Sherry
  - Kitz, Chaelynn
  - Knapp, Breanne
  - Koltun, Sarah
@@ -98,12 +119,13 @@ vs:
  - Lenentine, Lauren
  - Lister, Kendra
  - Loder, Jenna
+ - Loken, Sarah
  - MacCuish, Kristin
  - MacDonald, Kaitlin
+ - MacMillan, Kayla
+ - MacPhail, Brigitte
  - Martin, Nancy
  - McDonald, Taylor
- - McQuaid, Michelle
- - Meilleur, Briane
  - Mercer, Adrienne
  - Miskew, Emma
  - Njegovan, Selena
@@ -111,18 +133,27 @@ vs:
  - Peterson, Beth
  - Pincott, Erin
  - Pinksen, Sadie
+ - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
+ - Schafer, Kelly
  - Schraeder, Jeanna
  - Scotland, Nadine
+ - Shea, Michelle
+ - Silvernagle, Robyn
  - Simons, Renee
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Strybosch, Rachelle
  - Sweeting, Val
+ - Taylor, Alison
+ - Thevenot, Kara
  - Tingley, Jaclyn
  - Tran, Brittany
  - Tuor, Kimberly
  - Walker, Laura
  - Wallingham, Patty
  - Weagle, Lisa
+ - Webster, Crystal
  - Wilkes, Sarah
  - Zacharias, Emily
  - Zacharias, Mackenzie

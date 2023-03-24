@@ -40,19 +40,19 @@ vs:
  - Cameron, Kate
  - Curtis, Erica
  - Curtis, Stacie
- - Devereaux, Julie
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
  - Englot, Michelle
  - Gagne, Emilia
  - Gibson, Amy
+ - Harris, Briane
  - Harvey, Marie-Pier
+ - Hynes, Julie
  - Inglis, Danielle
  - Kreviazuk, Cheryl
  - LeDrew, Stephanie
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Moore, Kristie
  - O'Connor, Susan
  - Perron, Melina

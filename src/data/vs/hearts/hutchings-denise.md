@@ -2,6 +2,34 @@
 title: Denise Hutchings Head-to-head
 name: Hutchings, Denise
 vs:
+ - name: Hynes, Julie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Lead
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(5)
+      score: NU 3 - NL 10
  - name: Inglis, Danielle
    totals:
     - event: Hearts
@@ -114,34 +142,6 @@ vs:
       year: 2018
       draw: Round Robin(9)
       score: AB 11 - NU 4
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 67
-        wins: 0
-        losses: 1
-      player2:
-        percent: 91
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NU'
-        position: Lead
-        percent: 67
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 91
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(7)
-      score: NU 4 - CA 13
  - name: Moore, Kristie
    totals:
     - event: Hearts

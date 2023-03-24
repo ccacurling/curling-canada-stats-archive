@@ -4,18 +4,18 @@ name: Kaitlyn Lawes
 name-sort: Lawes, Kaitlyn
 totals:
  - event: Hearts
-   games: 105
-   wins: 77
-   losses: 28
-   inturn-total: 990
+   games: 114
+   wins: 82
+   losses: 32
+   inturn-total: 1063
    inturn-percent: 82
-   outturn-total: 986
+   outturn-total: 1086
    outturn-percent: 81
-   draw-total: 747
+   draw-total: 828
    draw-percent: 80
-   takeout-total: 1229
+   takeout-total: 1321
    takeout-percent: 83
-   shots-total: 1976
+   shots-total: 2149
    shots-percent: 82
 years:
  - year: 2011
@@ -154,6 +154,23 @@ years:
    takeout-percent: 81
    shots-total: 246
    shots-percent: 80
+ - year: 2023
+   event: Hearts
+   team: "WC"
+   position: Fourth
+   games: 9
+   wins: 5
+   losses: 4
+   inturn-total: 73
+   inturn-percent: 77
+   outturn-total: 100
+   outturn-percent: 80
+   draw-total: 81
+   draw-percent: 77
+   takeout-total: 92
+   takeout-percent: 80
+   shots-total: 173
+   shots-percent: 79
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -167,6 +184,7 @@ vs:
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
+ - Barker, Shelley
  - Barron, Lauren
  - Baxter, Jennifer
  - Beauchamp, Sasha
@@ -197,17 +215,16 @@ vs:
  - Cooper, Kathryn
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Jennifer
  - Cunningham, Jessica
  - Curtis, Erica
  - Curtis, Stacie
  - deJager, Blaine
  - deSolla, Jodie
- - Devereaux, Julie
  - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
+ - Dubue, Lindsay
  - Dufresne, Audree
  - Duncan, Chelsea
  - Dykstra, Michelle
@@ -215,6 +232,7 @@ vs:
  - Einarson, Kerri
  - Enge, Jenna
  - Englot, Michelle
+ - Everist, Karlee
  - Fallis, Karen
  - Ferguson, Dana
  - Filteau, Anne-Marie
@@ -227,14 +245,17 @@ vs:
  - Galusha, Kerry
  - Gates, Amanda
  - Gates, Jennifer
+ - Grandy, Clancy
  - Gregoire, Veronique
  - Griffin, Alison
  - Gushulak, Diane
+ - Gustafson, Leigh
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Harris, Briane
  - Hastings, Julie
  - Haughian, Jessie
  - Hawes, Dezaray
@@ -245,13 +266,16 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
  - Inglis, Danielle
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Colleen
  - Joyce, Blisse
+ - Just, Sherry
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - Kitz, Chaelynn
  - Kleibrink, Shannon
@@ -270,10 +294,13 @@ vs:
  - Lister, Kendra
  - Loder, Jenna
  - Logan, Emma
+ - Loken, Sarah
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
+ - MacMillan, Kayla
+ - MacPhail, Brigitte
  - MacPhee, Robyn
  - Mair, Jessica
  - Mann, Lauren
@@ -283,10 +310,9 @@ vs:
  - McCarville, Krista
  - McDonald, Taylor
  - McInnis, Susan
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Mercer, Adrienne
+ - Middaugh, Kelly
  - Miller, Wendy
  - Miskew, Emma
  - Moore, Kristie
@@ -316,14 +342,17 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Rainville, Julie
+ - Ramsay, Geri-Lynn
  - Recksiedler, Kristen
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Ross, Allison
+ - Routledge, Alanna
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
+ - Schafer, Kelly
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schneider, Kim
@@ -332,9 +361,12 @@ vs:
  - Scott, Kelly
  - Sharpe, Kelli
  - Shaw, Ladene
+ - Shea, Michelle
  - Shumay, Jill
  - Silvernagle, Robyn
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Slywka, Sarah
  - Smith, Heather
  - Smith, Stacey
@@ -347,6 +379,7 @@ vs:
  - Strong, Helen
  - Strong, Laura
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Kara
  - Thompson, Karla
  - Tingley, Jaclyn

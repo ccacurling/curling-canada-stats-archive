@@ -4,19 +4,19 @@ name: Marie Christianson
 name-sort: Christianson, Marie
 totals:
  - event: Hearts
-   games: 49
-   wins: 23
-   losses: 26
-   inturn-total: 436
-   inturn-percent: 79
-   outturn-total: 514
+   games: 57
+   wins: 25
+   losses: 32
+   inturn-total: 524
+   inturn-percent: 77
+   outturn-total: 574
    outturn-percent: 80
-   draw-total: 497
-   draw-percent: 79
-   takeout-total: 453
+   draw-total: 562
+   draw-percent: 78
+   takeout-total: 536
    takeout-percent: 79
-   shots-total: 950
-   shots-percent: 79
+   shots-total: 1098
+   shots-percent: 78
 years:
  - year: 2016
    event: Hearts
@@ -103,6 +103,23 @@ years:
    takeout-percent: 79
    shots-total: 154
    shots-percent: 78
+ - year: 2023
+   event: Hearts
+   team: "PE"
+   position: Third
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 88
+   inturn-percent: 70
+   outturn-total: 60
+   outturn-percent: 79
+   draw-total: 65
+   draw-percent: 69
+   takeout-total: 83
+   takeout-percent: 77
+   shots-total: 148
+   shots-percent: 73
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -115,6 +132,7 @@ vs:
  - Baldwin, Nicole
  - Barbour, Shona
  - Barker, Penny
+ - Barker, Shelley
  - Barron, Lauren
  - Baxter, Jennifer
  - Birchard, Shannon
@@ -131,14 +149,14 @@ vs:
  - Carter, Sasha
  - Clark-Rouire, Jennifer
  - Courtney, Joanne
- - Crawford, Andrea
  - Curtis, Erica
  - Curtis, Stacie
- - Devereaux, Julie
+ - Dubue, Lindsay
  - Duncan, Chelsea
  - Eddy, Lori
  - Einarson, Kerri
  - Enge, Jenna
+ - Everist, Karlee
  - Ferguson, Dana
  - Fisher, Sam
  - Flaxey, Allison
@@ -147,20 +165,26 @@ vs:
  - Galusha, Kerry
  - Gamble, Christie
  - Gates, Jennifer
+ - Grandy, Clancy
  - Griffin, Alison
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Harris, Briane
  - Haughian, Jessie
  - Hawes, Dezaray
  - Hill, Sarah
  - Homan, Rachel
  - Howard, Ashley
  - Hunkin, Jessie
+ - Hynes, Julie
  - Jewer, Michelle
  - Jones, Jennifer
+ - Just, Sherry
+ - Karwacki, Krysten
+ - Kelly, Andrea
  - Kitz, Chaelynn
  - Klymchuk, Ashley
  - Knapp, Breanne
@@ -173,15 +197,17 @@ vs:
  - Lilly, Kendra
  - Lister, Kendra
  - Logan, Emma
+ - Loken, Sarah
  - MacCuish, Kristin
  - MacDonald, Kaitlin
+ - MacMillan, Kayla
  - MacPhail, Brigitte
  - Martin, Nancy
  - McCarville, Krista
  - McEwen, Dawn
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Mercer, Adrienne
+ - Middaugh, Kelly
  - Miskew, Emma
  - Moore, Kristie
  - Murphy, Sarah
@@ -201,13 +227,16 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Rainville, Julie
+ - Ramsay, Geri-Lynn
  - Recksiedler, Kristen
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Routledge, Alanna
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
+ - Schafer, Kelly
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Sharpe, Kelli
@@ -215,6 +244,8 @@ vs:
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Strong, Helen
@@ -228,6 +259,7 @@ vs:
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie
+ - Walker, Laura
  - Wark, Sarah
  - Weagle, Lisa
  - Westcott, Raunora

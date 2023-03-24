@@ -106,7 +106,6 @@ vs:
  - Dauphinais, Josee
  - deJager, Blaine
  - Derry, Danielle
- - Devereaux, Julie
  - Dillon, Cathy
  - Doig, Deanna
  - Dolan, Kim
@@ -130,6 +129,7 @@ vs:
  - Hill, Trish
  - Homan, Rachel
  - Hughes, Meaghan
+ - Hynes, Julie
  - Jones, Karen
  - Jones-Walker, Debbie
  - Jurgenson, Christine
@@ -156,7 +156,6 @@ vs:
  - McCrae, Louise
  - McDonald, Tina
  - McEdwards, Kathy
- - McQuaid, Michelle
  - Messer, Janyce
  - Miskew, Emma
  - Moore, Linda
@@ -178,6 +177,7 @@ vs:
  - Schneider, Sheila
  - Scott, Donna
  - Seitz, Susan
+ - Shea, Michelle
  - Shields, Gail
  - Sicinski, Danielle
  - Sippala, Ashley

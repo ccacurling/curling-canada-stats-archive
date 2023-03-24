@@ -240,7 +240,6 @@ vs:
  - Bowman, Mary
  - Bradley, Shelley
  - Breen, Theresa
- - Brown, Katie
  - Brown, Marcie
  - Brown, Maureen
  - Bryant, Angie
@@ -484,6 +483,7 @@ vs:
  - Whitrow, Leanne
  - Willms, Karri
  - Wilson, Patty
+ - Witt, Katie
  - Wright, Susan
  - Zeller, Lori
  - Zinck, Kay

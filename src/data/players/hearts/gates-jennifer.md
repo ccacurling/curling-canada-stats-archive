@@ -89,7 +89,6 @@ vs:
  - Cormier, Sharon
  - Cote, Marie-Pier
  - Courtney, Joanne
- - Crawford, Andrea
  - Daigle, Julie
  - Eddy, Lori
  - Einarson, Kerri
@@ -98,12 +97,14 @@ vs:
  - Forward, Katie
  - Fyfe, Liz
  - Griffin, Alison
+ - Harris, Briane
  - Haughian, Jessie
  - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Jones, Jennifer
+ - Kelly, Andrea
  - Klymchuk, Ashley
  - Koehler, Megan
  - Lavoie, Gabrielle
@@ -113,9 +114,7 @@ vs:
  - MacDonald, Kaitlin
  - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Miller, Wendy
  - Miskew, Emma
  - Moore, Kristie
@@ -132,6 +131,7 @@ vs:
  - Sandwith, Carley
  - Scheidegger, Casey
  - Scotland, Nadine
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Sweeting, Val
  - Thevenot, Kara

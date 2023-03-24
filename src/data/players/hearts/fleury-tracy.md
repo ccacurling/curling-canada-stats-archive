@@ -4,18 +4,18 @@ name: Tracy Fleury
 name-sort: Fleury, Tracy
 totals:
  - event: Hearts
-   games: 45
-   wins: 23
-   losses: 22
-   inturn-total: 430
-   inturn-percent: 77
-   outturn-total: 408
-   outturn-percent: 79
-   draw-total: 402
-   draw-percent: 75
-   takeout-total: 436
+   games: 54
+   wins: 29
+   losses: 25
+   inturn-total: 519
+   inturn-percent: 76
+   outturn-total: 491
+   outturn-percent: 80
+   draw-total: 462
+   draw-percent: 76
+   takeout-total: 548
    takeout-percent: 80
-   shots-total: 838
+   shots-total: 1010
    shots-percent: 78
 years:
  - year: 2012
@@ -103,7 +103,25 @@ years:
    takeout-percent: 69
    shots-total: 56
    shots-percent: 73
+ - year: 2023
+   event: Hearts
+   team: "ON"
+   position: Third
+   games: 9
+   wins: 6
+   losses: 3
+   inturn-total: 89
+   inturn-percent: 76
+   outturn-total: 83
+   outturn-percent: 86
+   draw-total: 60
+   draw-percent: 78
+   takeout-total: 112
+   takeout-percent: 83
+   shots-total: 172
+   shots-percent: 81
 vs:
+ - Ackland, Abby
  - Adams, Melissa
  - Anderson, Sherry
  - Armstrong, Jacquie
@@ -112,8 +130,10 @@ vs:
  - Atkinson, Rebecca
  - Babin, Jillian
  - Barbour, Shona
+ - Barker, Shelley
  - Baxter, Jennifer
  - Birchard, Shannon
+ - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
@@ -125,10 +145,13 @@ vs:
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Rachel
+ - Burgess, Karlee
+ - Burt, Camille
  - Cameron, Kate
  - Cameron, Nancy
  - Camozzi, Rhonda
  - Campbell, Jolene
+ - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
@@ -136,10 +159,11 @@ vs:
  - Cooper, Kathryn
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Jennifer
  - Cunningham, Jessica
+ - Curtis, Erica
+ - Curtis, Stacie
  - Daigle, Julie
  - Dolan, Kim
  - Dolan, Sinead
@@ -147,24 +171,32 @@ vs:
  - Duncan, Hollie
  - Duncan, Jenna
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Englot, Michelle
+ - Everist, Karlee
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
  - Filteau, Anne-Marie
+ - Flemming, Margot
+ - Forward, Katie
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Jennifer
  - Gibson, Amy
  - Griffin, Alison
+ - Harris, Briane
  - Hastings, Julie
+ - Haughian, Jessie
  - Holland, Amber
  - Homan, Rachel
+ - Hynes, Julie
  - Iskiw, Beth
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kelly, Andrea
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
@@ -184,11 +216,10 @@ vs:
  - Mann, Lauren
  - Materi, Roberta
  - McCarville, Krista
+ - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Miller, Wendy
  - Miskew, Emma
  - Moore, Kristie
@@ -200,6 +231,7 @@ vs:
  - Nixon, Amy
  - Njegovan, Selena
  - Officer, Jill
+ - Oliver, Sara
  - Olson-Johns, Lori
  - O'Rourke, Brittany
  - Parsons, Danielle
@@ -211,6 +243,7 @@ vs:
  - Price, Kara
  - Quillian, Sylvie
  - Richard, Marie
+ - Rizzo, Jo-Ann
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
@@ -219,6 +252,7 @@ vs:
  - Schmidt, Stephanie
  - Schneider, Kim
  - Scott, Kelly
+ - Shea, Michelle
  - Sippala, Ashley
  - Slywka, Sarah
  - Smallwood, Jody
@@ -229,15 +263,19 @@ vs:
  - Strong, Laura
  - Sweeting, Val
  - Trombley, Christy
+ - Tuor, Kimberly
  - Udle, Teri
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
  - Vey, Lana
+ - Walter, Meghan
  - Wark, Sarah
  - Weagle, Lisa
  - Westcott, Raunora
  - Whitaker, Carol
  - Wilkes, Sarah
  - Wilson, Leslie
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
 ---

@@ -44,13 +44,13 @@ vs:
  - Bradley, Shelley
  - Brassard, Veronique
  - Carter, Sasha
- - Crawford, Andrea
  - Galusha, Kerry
  - Gregoire, Veronique
  - Holland, Amber
  - Homan, Rachel
  - Jones, Jennifer
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Kleibrink, Shannon
  - Knapp, Breanne
  - Kreviazuk, Alison

@@ -86,7 +86,6 @@ vs:
  - Bonar, Maureen
  - Breen, Theresa
  - Brophy, Kathy
- - Brown, Katie
  - Brown, Marcie
  - Cameron, Nancy
  - Charette, Agnes
@@ -175,6 +174,7 @@ vs:
  - Usher, Leanne
  - Walker, Lisa
  - Wilson, Patty
+ - Witt, Katie
  - Wright, Joanne
  - Wright, Susan
  - Zinck, Kay

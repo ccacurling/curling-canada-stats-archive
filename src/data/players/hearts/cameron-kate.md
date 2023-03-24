@@ -4,19 +4,19 @@ name: Kate Cameron
 name-sort: Cameron, Kate
 totals:
  - event: Hearts
-   games: 53
-   wins: 33
-   losses: 20
-   inturn-total: 522
-   inturn-percent: 78
-   outturn-total: 462
+   games: 61
+   wins: 36
+   losses: 25
+   inturn-total: 613
+   inturn-percent: 79
+   outturn-total: 525
    outturn-percent: 78
-   draw-total: 403
+   draw-total: 465
    draw-percent: 79
-   takeout-total: 581
+   takeout-total: 673
    takeout-percent: 78
-   shots-total: 984
-   shots-percent: 78
+   shots-total: 1138
+   shots-percent: 79
 years:
  - year: 2017
    event: Hearts
@@ -103,7 +103,25 @@ years:
    takeout-percent: 72
    shots-total: 156
    shots-percent: 74
+ - year: 2023
+   event: Hearts
+   team: "WC"
+   position: Third
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 91
+   inturn-percent: 84
+   outturn-total: 63
+   outturn-percent: 76
+   draw-total: 62
+   draw-percent: 79
+   takeout-total: 92
+   takeout-percent: 81
+   shots-total: 154
+   shots-percent: 81
 vs:
+ - Ackland, Abby
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Anderson, Sherry
@@ -126,27 +144,30 @@ vs:
  - Brothers, Jill
  - Brown, Rachel
  - Brown, Stephanie
+ - Brunton, Kira
  - Burgess, Karlee
  - Burns, Krysta
+ - Burt, Camille
+ - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
  - Cormier, Sharon
  - Cote, Marie-Pier
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
- - Devereaux, Julie
  - Doerksen, Katherine
  - Doig, Deanna
  - Duncan, Hollie
+ - Duncan, Jenna
  - Eddy, Lori
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Everist, Karlee
  - Eyamie, Lisa
  - Ferguson, Dana
@@ -162,14 +183,17 @@ vs:
  - Gibson, Amy
  - Griffin, Alison
  - Guy, Sara
+ - Harris, Briane
  - Harvey, Marie-Pier
  - Hill, Trish
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hutchings, Denise
+ - Hynes, Julie
  - Jones, Jennifer
  - Karwacki, Krysten
+ - Kelly, Andrea
  - Kitz, Chaelynn
  - Knapp, Breanne
  - Koehler, Megan
@@ -193,15 +217,14 @@ vs:
  - McCarville, Krista
  - McEvoy, Julie
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Miskew, Emma
  - Moore, Kristie
  - Nedohin, Heather
  - Nixon, Amy
  - Njegovan, Selena
  - Officer, Jill
+ - Oliver, Sara
  - O'Rourke, Brittany
  - Perron, Melina
  - Peterman, Jocelyn
@@ -210,6 +233,7 @@ vs:
  - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
+ - Quillian, Sylvie
  - Richards, Brette
  - Riley, Emily
  - Rizzo, Jo-Ann
@@ -221,6 +245,7 @@ vs:
  - Schneider, Lorraine
  - Schraeder, Jeanna
  - Shackleton, Amie
+ - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Simons, Renee
@@ -239,6 +264,7 @@ vs:
  - Van Osch, Marika
  - Verreault, Noemie
  - Wallingham, Patty
+ - Walter, Meghan
  - Weagle, Lisa
  - Webster, Crystal
  - West, Christianne

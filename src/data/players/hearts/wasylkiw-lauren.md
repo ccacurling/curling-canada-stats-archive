@@ -50,7 +50,6 @@ vs:
  - Carter, Sasha
  - Cheveldave, Amber
  - Cormier, Sharon
- - Crawford, Andrea
  - deJager, Blaine
  - deSolla, Jodie
  - Dufresne, Audree
@@ -63,6 +62,7 @@ vs:
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
+ - Kelly, Andrea
  - Kelly, Kim
  - Koehler, Megan
  - Kreviazuk, Alison

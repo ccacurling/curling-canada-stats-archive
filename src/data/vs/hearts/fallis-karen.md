@@ -590,6 +590,34 @@ vs:
       year: 2002
       draw: Round Robin(9)
       score: TR 4 - MB 10
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 0
+        losses: 1
+      player2:
+        percent: 91
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2011
+      draw: Round Robin(5)
+      score: NB 9 - MB 3
  - name: Kelly, Kim
    totals:
     - event: Hearts

@@ -203,7 +203,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Jessica
  - Curtis, Erica
  - Curtis, Stacie
@@ -212,7 +211,6 @@ vs:
  - deJager, Blaine
  - Derry, Danielle
  - deSolla, Jodie
- - Devereaux, Julie
  - Doerksen, Katherine
  - Doig, Deanna
  - Dolan, Kim
@@ -241,6 +239,7 @@ vs:
  - Griffin, Alison
  - Guzzwell, Stephanie
  - Hamilton, Beth
+ - Harris, Briane
  - Hastings, Julie
  - Haughian, Jessie
  - Hawes, Dezaray
@@ -251,6 +250,7 @@ vs:
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
  - Inglis, Danielle
  - Iskiw, Beth
  - Johnston, Kara
@@ -259,6 +259,7 @@ vs:
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - Kitz, Chaelynn
  - Kleibrink, Shannon
@@ -294,9 +295,7 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Mercer, Adrienne
  - Miller, Wendy
  - Miskew, Emma
@@ -342,6 +341,7 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Shea, Michelle
  - Shumay, Jill
  - Sicinski, Danielle
  - Silvernagle, Robyn

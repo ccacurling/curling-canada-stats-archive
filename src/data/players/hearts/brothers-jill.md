@@ -4,19 +4,19 @@ name: Jill Brothers
 name-sort: Brothers, Jill
 totals:
  - event: Hearts
-   games: 47
-   wins: 18
-   losses: 29
-   inturn-total: 461
-   inturn-percent: 74
-   outturn-total: 412
-   outturn-percent: 70
-   draw-total: 407
-   draw-percent: 68
-   takeout-total: 466
+   games: 55
+   wins: 21
+   losses: 34
+   inturn-total: 560
+   inturn-percent: 75
+   outturn-total: 470
+   outturn-percent: 71
+   draw-total: 480
+   draw-percent: 69
+   takeout-total: 550
    takeout-percent: 77
-   shots-total: 873
-   shots-percent: 72
+   shots-total: 1030
+   shots-percent: 73
 years:
  - year: 2007
    event: Hearts
@@ -103,7 +103,25 @@ years:
    takeout-percent: 65
    shots-total: 140
    shots-percent: 66
+ - year: 2023
+   event: Hearts
+   team: "NB"
+   position: Second
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 99
+   inturn-percent: 82
+   outturn-total: 58
+   outturn-percent: 72
+   draw-total: 73
+   draw-percent: 80
+   takeout-total: 84
+   takeout-percent: 76
+   shots-total: 157
+   shots-percent: 78
 vs:
+ - Ackland, Abby
  - Aleksic, Shannon
  - Anderson, Sherry
  - Arnott, Janet
@@ -113,6 +131,7 @@ vs:
  - Bernard, Cheryl
  - Betker, Jan
  - Birchard, Shannon
+ - Birnie, Hailey
  - Birt, Suzanne
  - Blaney, Jennifer
  - Bodner, Jenine
@@ -121,7 +140,9 @@ vs:
  - Brown, Rachel
  - Burgess, Karlee
  - Burns, Krysta
+ - Burt, Camille
  - Cameron, Kate
+ - Campbell, Kerry
  - Carey, Chelsea
  - Carter, Sasha
  - Christianson, Marie
@@ -130,8 +151,8 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Jessica
+ - Curtis, Erica
  - Curtis, Stacie
  - Daigle, Julie
  - Daniel, Sylvie
@@ -139,12 +160,13 @@ vs:
  - Davies, Lisa
  - Derick, Catherine
  - deSolla, Jodie
- - Devereaux, Julie
  - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
+ - Duncan, Jenna
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Ferguson, Dana
  - Flaxey, Allison
  - Flemming, Margot
@@ -163,11 +185,16 @@ vs:
  - Hanna, Jenn
  - Hanna, Stephanie
  - Hardy, Shelley
+ - Harris, Briane
+ - Haughian, Jessie
  - Homan, Rachel
  - Hughes, Meaghan
+ - Hynes, Julie
  - Inglis, Nancy
  - Jones, Jennifer
  - Kasner, Marliese
+ - Kelly, Andrea
+ - Koltun, Sarah
  - Kreviazuk, Alison
  - Kreviazuk, Cheryl
  - Kreviazuk, Lynn
@@ -189,7 +216,6 @@ vs:
  - McDonald, Kristy
  - McDonald, Taylor
  - McEwen, Dawn
- - Meilleur, Briane
  - Miskew, Emma
  - Morgan, Cheryl
  - Morris, Cori
@@ -204,6 +230,7 @@ vs:
  - O'Connor, Susan
  - Officer, Jill
  - O'Leary, Susan
+ - Oliver, Sara
  - O'Neill, Brit
  - O'Rourke, Brittany
  - Osborne, Chantal
@@ -229,6 +256,7 @@ vs:
  - Sagle, Karen
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Scheidegger, Casey
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli
@@ -244,12 +272,14 @@ vs:
  - Thompson, Karla
  - Titheridge, Lindsay
  - Tran, Brittany
+ - Tuor, Kimberly
  - Vandale, Trysta
  - Van Osch, Kesa
  - Vautour, Carrie
  - Vey, Lana
  - Walker, Laura
  - Wallingham, Patty
+ - Walter, Meghan
  - Wark, Sarah
  - Weagle, Lisa
  - Wheatcroft, Georgina

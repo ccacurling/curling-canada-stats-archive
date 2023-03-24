@@ -4,19 +4,19 @@ name: Emily Zacharias
 name-sort: Zacharias, Emily
 totals:
  - event: Hearts
-   games: 17
-   wins: 8
+   games: 21
+   wins: 12
    losses: 9
-   inturn-total: 161
-   inturn-percent: 74
-   outturn-total: 169
+   inturn-total: 230
+   inturn-percent: 77
+   outturn-total: 176
    outturn-percent: 76
-   draw-total: 156
-   draw-percent: 74
-   takeout-total: 174
+   draw-total: 229
+   draw-percent: 77
+   takeout-total: 177
    takeout-percent: 76
-   shots-total: 330
-   shots-percent: 75
+   shots-total: 406
+   shots-percent: 77
 years:
  - year: 2021
    event: Hearts
@@ -52,7 +52,25 @@ years:
    takeout-percent: 81
    shots-total: 180
    shots-percent: 79
+ - year: 2023
+   event: Hearts
+   team: "MB"
+   position: Lead
+   games: 4
+   wins: 4
+   losses: 0
+   inturn-total: 69
+   inturn-percent: 83
+   outturn-total: 7
+   outturn-percent: 79
+   draw-total: 73
+   draw-percent: 84
+   takeout-total: 3
+   takeout-percent: 50
+   shots-total: 76
+   shots-percent: 83
 vs:
+ - Ackland, Abby
  - Armstrong, Hailey
  - Arsenault, Mary-Anne
  - Balsdon, Megan
@@ -76,18 +94,24 @@ vs:
  - Doerksen, Katherine
  - Duncan, Hollie
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Everist, Karlee
  - Flemming, Margot
+ - Fleury, Tracy
+ - Forward, Katie
  - Galusha, Kerry
  - Guy, Sara
+ - Harris, Briane
  - Homan, Rachel
+ - Kelly, Andrea
  - Koltun, Sarah
  - Loder, Jenna
  - Logan, Emma
  - McDonald, Taylor
- - Meilleur, Briane
  - Miskew, Emma
+ - Oliver, Sara
  - Peterson, Beth
+ - Quillian, Sylvie
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Schraeder, Jeanna
@@ -102,5 +126,6 @@ vs:
  - Tuor, Kimberly
  - Walker, Laura
  - Wallingham, Patty
+ - Walter, Meghan
  - Wilkes, Sarah
 ---

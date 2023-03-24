@@ -86,11 +86,9 @@ vs:
  - Campbell, Jolene
  - Carter, Sasha
  - Cheveldave, Amber
- - Crawford, Andrea
  - Curtis, Stacie
  - deJager, Blaine
  - deSolla, Jodie
- - Devereaux, Julie
  - Dolan, Kim
  - Dolan, Sinead
  - Dufresne, Audree
@@ -107,12 +105,14 @@ vs:
  - Holland, Amber
  - Holtby, Taryn
  - Homan, Rachel
+ - Hynes, Julie
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Kelly, Kim
  - Kleibrink, Shannon
  - Kreviazuk, Alison

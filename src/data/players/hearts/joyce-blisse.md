@@ -143,13 +143,11 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Jennifer
  - Cunningham, Jessica
  - Curtis, Stacie
  - Davies, Lisa
  - deSolla, Jodie
- - Devereaux, Julie
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
@@ -171,10 +169,12 @@ vs:
  - Holland, Amber
  - Homan, Rachel
  - Howard, Ashley
+ - Hynes, Julie
  - Iskiw, Beth
  - Jones, Jennifer
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kleibrink, Shannon
  - Knapp, Breanne
  - Korab, Stephanie

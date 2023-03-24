@@ -221,7 +221,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Crispo, Guylaine
  - Crouse, Jennifer
  - Cunningham, Cathy
@@ -275,6 +274,7 @@ vs:
  - Gushulak, Diane
  - Hamilton, Beth
  - Hanlon, Heidi
+ - Harris, Briane
  - Harris, Susan
  - Harrison, Meredith
  - Harvey, Marie-Pier
@@ -296,6 +296,7 @@ vs:
  - Joyce, Blisse
  - Jurgenson, Christine
  - Kaylo, Kelly
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - King, Cathy
@@ -337,8 +338,6 @@ vs:
  - McInnis, Susan
  - McKnight, Patti
  - McLeod, Crystal
- - McQuaid, Michelle
- - Meilleur, Briane
  - Mercer, Adrienne
  - Merklinger, Anne
  - Middaugh, Sherry
@@ -378,6 +377,7 @@ vs:
  - Sandwith, Carley
  - Scales, Julie
  - Schmirler, Sandra
+ - Shea, Michelle
  - Shields, Deanne
  - Sinclair, Andrea
  - Skinner, Julie

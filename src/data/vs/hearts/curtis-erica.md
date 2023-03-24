@@ -118,13 +118,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 75
-        wins: 1
+        percent: 78
+        wins: 2
         losses: 0
       player2:
         percent: 63
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NL'
@@ -142,6 +142,22 @@ vs:
       year: 2020
       draw: Round Robin(2)
       score: NL 6 - YT 3
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(4)
+      score: NL 11 - YT 4
  - name: Duncan, Hollie
    totals:
     - event: Hearts
@@ -186,6 +202,34 @@ vs:
       year: 2018
       draw: Tie-Breaker(15)
       score: NL 8 - ON 11
+ - name: Elias, Mackenzie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 85
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(17)
+      score: NL 10 - WC 9
  - name: Englot, Michelle
    totals:
     - event: Hearts
@@ -258,6 +302,90 @@ vs:
       year: 2017
       draw: Round Robin(5)
       score: AB 5 - NL 3
+ - name: Flemming, Margot
+   totals:
+    - event: Hearts
+      player1:
+        percent: 57
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 57
+        win: 0
+        loss: 1
+      player2:
+        team: 'NT'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(7)
+      score: NL 8 - NT 14
+ - name: Fleury, Tracy
+   totals:
+    - event: Hearts
+      player1:
+        percent: 64
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(2)
+      score: ON 12 - NL 3
+ - name: Forward, Katie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(14)
+      score: NB 8 - NL 7
  - name: Fullerton, Sarah
    totals:
     - event: Hearts
@@ -334,12 +462,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 58
+        percent: 57
         wins: 1
-        losses: 1
+        losses: 2
       player2:
-        percent: 70
-        wins: 1
+        percent: 75
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -374,6 +502,22 @@ vs:
       year: 2020
       draw: Round Robin(6)
       score: NT 14 - NL 2
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 57
+        win: 0
+        loss: 1
+      player2:
+        team: 'NT'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(7)
+      score: NL 8 - NT 14
  - name: Gibson, Amy
    totals:
     - event: Hearts
@@ -430,6 +574,34 @@ vs:
       year: 2018
       draw: Round Robin(11)
       score: NL 7 - QC 9
+ - name: Haughian, Jessie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 63
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 90
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(12)
+      score: WC 12 - NL 5
  - name: Hill, Trish
    totals:
     - event: Hearts
@@ -462,12 +634,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 78
+        percent: 74
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 90
-        wins: 2
+        percent: 89
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -502,6 +674,22 @@ vs:
       year: 2020
       draw: Round Robin(3)
       score: NL 5 - ON 10
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(2)
+      score: ON 12 - NL 3
  - name: Hughes, Meaghan
    totals:
     - event: Hearts
@@ -594,12 +782,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 57
+        percent: 73
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 78
-        wins: 1
+        percent: 80
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -618,6 +806,50 @@ vs:
       year: 2020
       draw: Round Robin(13)
       score: WC 7 - NL 4
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 82
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(6)
+      score: MB 7 - NL 4
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(14)
+      score: NB 8 - NL 7
  - name: Klymchuk, Ashley
    totals:
     - event: Hearts
@@ -678,12 +910,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 53
+        percent: 55
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 69
-        wins: 1
+        percent: 73
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -702,6 +934,22 @@ vs:
       year: 2020
       draw: Round Robin(6)
       score: NT 14 - NL 2
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 57
+        win: 0
+        loss: 1
+      player2:
+        team: 'NT'
+        position: Second
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(7)
+      score: NL 8 - NT 14
  - name: Kreviazuk, Cheryl
    totals:
     - event: Hearts
@@ -818,16 +1066,44 @@ vs:
       year: 2018
       draw: Tie-Breaker(15)
       score: NL 8 - ON 11
+ - name: Lenentine, Lauren
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(6)
+      score: MB 7 - NL 4
  - name: Lilly, Kendra
    totals:
     - event: Hearts
       player1:
-        percent: 90
+        percent: 86
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 83
-        wins: 1
+        percent: 80
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -846,6 +1122,22 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: NL 3 - NO 6
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(15)
+      score: NL 7 - NO 8
  - name: Lister, Kendra
    totals:
     - event: Hearts
@@ -1034,12 +1326,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 90
+        percent: 86
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 90
-        wins: 1
+        percent: 78
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1058,6 +1350,50 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: NL 3 - NO 6
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 68
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(15)
+      score: NL 7 - NO 8
+ - name: McDonald, Taylor
+   totals:
+    - event: Hearts
+      player1:
+        percent: 63
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(12)
+      score: WC 12 - NL 5
  - name: McEwen, Dawn
    totals:
     - event: Hearts
@@ -1086,66 +1422,6 @@ vs:
       year: 2020
       draw: Round Robin(13)
       score: WC 7 - NL 4
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 67
-        wins: 2
-        losses: 1
-      player2:
-        percent: 81
-        wins: 1
-        losses: 2
-   games:
-    - player1:
-        team: 'NL'
-        position: Lead
-        percent: 70
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 73
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2017
-      draw: Round Robin(15)
-      score: PE 4 - NL 10
-    - player1:
-        team: 'NL'
-        position: Lead
-        percent: 82
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Round Robin(1)
-      score: PE 6 - NL 11
-    - player1:
-        team: 'NL'
-        position: Fourth
-        percent: 47
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 84
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(9)
-      score: PE 9 - NL 3
  - name: McTaggart, Cary-Anne
    totals:
     - event: Hearts
@@ -1178,12 +1454,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 78
+        percent: 74
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 88
-        wins: 2
+        percent: 91
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -1218,6 +1494,22 @@ vs:
       year: 2020
       draw: Round Robin(3)
       score: NL 5 - ON 10
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Second
+        percent: 97
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(2)
+      score: ON 12 - NL 3
  - name: Moore, Kristie
    totals:
     - event: Hearts
@@ -1330,6 +1622,34 @@ vs:
       year: 2017
       draw: Round Robin(13)
       score: NL 5 - CA 11
+ - name: Oliver, Sara
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(17)
+      score: NL 10 - WC 9
  - name: O'Rourke, Brittany
    totals:
     - event: Hearts
@@ -1546,12 +1866,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 90
+        percent: 86
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 79
-        wins: 1
+        percent: 83
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1570,16 +1890,32 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: NL 3 - NO 6
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(15)
+      score: NL 7 - NO 8
  - name: Quillian, Sylvie
    totals:
     - event: Hearts
       player1:
-        percent: 91
+        percent: 84
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 83
-        wins: 1
+        percent: 79
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1598,6 +1934,22 @@ vs:
       year: 2018
       draw: Pool(18)
       score: NB 8 - NL 4
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(14)
+      score: NB 8 - NL 7
  - name: Richards, Brette
    totals:
     - event: Hearts
@@ -1630,12 +1982,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 53
+        percent: 55
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 91
-        wins: 1
+        percent: 79
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1654,6 +2006,22 @@ vs:
       year: 2020
       draw: Round Robin(6)
       score: NT 14 - NL 2
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 57
+        win: 0
+        loss: 1
+      player2:
+        team: 'NT'
+        position: Fourth
+        percent: 69
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(7)
+      score: NL 8 - NT 14
  - name: Sagle, Karen
    totals:
     - event: Hearts
@@ -1730,12 +2098,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 71
+        percent: 67
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 68
-        wins: 0
+        percent: 72
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -1754,6 +2122,22 @@ vs:
       year: 2018
       draw: Round Robin(7)
       score: AB 5 - NL 9
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(12)
+      score: WC 12 - NL 5
  - name: Scheidegger, Jessie
    totals:
     - event: Hearts
@@ -1838,6 +2222,66 @@ vs:
       year: 2018
       draw: Round Robin(5)
       score: NU 3 - NL 10
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 67
+        wins: 2
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 2
+   games:
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2017
+      draw: Round Robin(15)
+      score: PE 4 - NL 10
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Round Robin(1)
+      score: PE 6 - NL 11
+    - player1:
+        team: 'NL'
+        position: Fourth
+        percent: 47
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(9)
+      score: PE 9 - NL 3
  - name: Sicinski, Danielle
    totals:
     - event: Hearts
@@ -1870,12 +2314,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 90
+        percent: 86
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 75
-        wins: 1
+        percent: 73
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1894,6 +2338,22 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: NL 3 - NO 6
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 71
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(15)
+      score: NL 7 - NO 8
  - name: Thiessen, Alison
    totals:
     - event: Hearts
@@ -1926,13 +2386,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 75
-        wins: 1
+        percent: 78
+        wins: 2
         losses: 0
       player2:
-        percent: 59
+        percent: 69
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NL'
@@ -1950,6 +2410,22 @@ vs:
       year: 2020
       draw: Round Robin(2)
       score: NL 6 - YT 3
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(4)
+      score: NL 11 - YT 4
  - name: Van Osch, Kalia
    totals:
     - event: Hearts
@@ -2034,6 +2510,34 @@ vs:
       year: 2018
       draw: Round Robin(13)
       score: NL 7 - BC 10
+ - name: Walter, Meghan
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 1
+        losses: 0
+      player2:
+        percent: 73
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Fourth
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(17)
+      score: NL 10 - WC 9
  - name: Weagle, Lisa
    totals:
     - event: Hearts
@@ -2154,12 +2658,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 89
+        percent: 78
         wins: 0
-        losses: 1
+        losses: 2
       player2:
         percent: 83
-        wins: 1
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -2178,6 +2682,22 @@ vs:
       year: 2017
       draw: Round Robin(5)
       score: AB 5 - NL 3
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(2)
+      score: ON 12 - NL 3
  - name: Wilson, Leslie
    totals:
     - event: Hearts
@@ -2222,4 +2742,32 @@ vs:
       year: 2018
       draw: Round Robin(9)
       score: NL 5 - CA 8
+ - name: Zacharias, Mackenzie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(6)
+      score: MB 7 - NL 4
 ---

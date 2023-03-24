@@ -378,6 +378,50 @@ vs:
       year: 2005
       draw: Round Robin(6)
       score: NL 7 - SK 10
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 61
+        wins: 0
+        losses: 2
+      player2:
+        percent: 80
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 48
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(14)
+      score: NB 10 - NL 5
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(15)
+      score: NL 5 - NB 10
  - name: Kelly, Kim
    totals:
     - event: Hearts
@@ -1122,82 +1166,6 @@ vs:
       year: 2020
       draw: Round Robin(13)
       score: WC 7 - NL 4
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 0
-        losses: 4
-      player2:
-        percent: 86
-        wins: 4
-        losses: 0
-   games:
-    - player1:
-        team: 'NL'
-        position: Second
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 91
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(2)
-      score: NL 3 - PE 14
-    - player1:
-        team: 'NL'
-        position: Lead
-        percent: 80
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 84
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(9)
-      score: PE 9 - NL 3
-    - player1:
-        team: 'NL'
-        position: Third
-        percent: 64
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 79
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(9)
-      score: PE 12 - NL 8
-    - player1:
-        team: 'NL'
-        position: Second
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 91
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(17)
-      score: PE 8 - NL 5
  - name: McTaggart, Cary-Anne
    totals:
     - event: Hearts
@@ -1994,6 +1962,82 @@ vs:
       year: 2019
       draw: Round Robin(4)
       score: NL 12 - YT 4
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 0
+        losses: 4
+      player2:
+        percent: 86
+        wins: 4
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(2)
+      score: NL 3 - PE 14
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(9)
+      score: PE 9 - NL 3
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(9)
+      score: PE 12 - NL 8
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(17)
+      score: PE 8 - NL 5
  - name: Sicinski, Danielle
    totals:
     - event: Hearts

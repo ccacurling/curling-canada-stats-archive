@@ -263,7 +263,6 @@ vs:
  - Brennan, Amanda
  - Brothers, Jill
  - Brown, Jacalyn
- - Brown, Katie
  - Brown, Maureen
  - Burgess, Carey
  - Busche, Jodi
@@ -282,7 +281,6 @@ vs:
  - Comeau, Sandy
  - Cooke, Gerri
  - Cormier, Sharon
- - Crawford, Andrea
  - Crispo, Guylaine
  - Crouse, Jennifer
  - Cunningham, Cathy
@@ -356,6 +354,7 @@ vs:
  - Kalenchuk, Heather
  - Karam, Sally
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - Kidd, Darlene
@@ -534,6 +533,7 @@ vs:
  - Wieler, Bev
  - Willms, Karri
  - Wilson, Leslie
+ - Witt, Katie
  - Wright, Susan
  - Yardley, Janelle
  - Zielke, Colleen

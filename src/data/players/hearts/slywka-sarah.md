@@ -45,7 +45,6 @@ vs:
  - Campbell, Jolene
  - Carter, Sasha
  - Cormier, Sharon
- - Crawford, Andrea
  - Cunningham, Jennifer
  - deSolla, Jodie
  - Dolan, Kim
@@ -60,6 +59,7 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Korab, Stephanie
  - Larouche, Marie-France
  - Lawes, Kaitlyn

@@ -139,7 +139,6 @@ vs:
  - Charette, France
  - Comeau, Martine
  - Cormier, Sharon
- - Crawford, Andrea
  - Crispo, Guylaine
  - Cunningham, Cathy
  - Daniel, Sylvie
@@ -188,6 +187,7 @@ vs:
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kaylo, Kelly
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - King, Cathy

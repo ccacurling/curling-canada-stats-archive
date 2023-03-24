@@ -183,7 +183,6 @@ vs:
  - Bohmer, Brenda
  - Bradley, Shelley
  - Breen, Theresa
- - Brown, Katie
  - Brown, Marcie
  - Burlington, Cheryl
  - Bush, Tracy
@@ -214,7 +213,6 @@ vs:
  - Derick, Catherine
  - Derry, Danielle
  - Deschatelets, Guylaine
- - Devereaux, Julie
  - Doig, Deanna
  - Dolan, Kim
  - Dolan, Sinead
@@ -257,6 +255,7 @@ vs:
  - Houston, Heather
  - Hughes, Meaghan
  - Hunt, Donna
+ - Hynes, Julie
  - Johnstone, Loralee
  - Jones, Colleen
  - Jones, Jennifer
@@ -302,7 +301,6 @@ vs:
  - McInnis, Susan
  - McKnight, Patti
  - McPherson, Cheryl
- - McQuaid, Michelle
  - Merklinger, Anne
  - Miskew, Emma
  - More, Chris
@@ -349,6 +347,7 @@ vs:
  - Schneider, Lorraine
  - Scott, Kelly
  - Sharpe, Kelli
+ - Shea, Michelle
  - Sherrington, Barb
  - Sicinski, Danielle
  - Simons, Renee
@@ -382,6 +381,7 @@ vs:
  - Wilson, Leslie
  - Wilson, Patty
  - Wiltzen, Jan
+ - Witt, Katie
  - Wright, Susan
  - Zeller, Lori
 ---

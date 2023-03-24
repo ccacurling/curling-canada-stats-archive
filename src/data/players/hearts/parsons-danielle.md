@@ -116,13 +116,11 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Jennifer
  - Cunningham, Jessica
  - Curtis, Stacie
  - deJager, Blaine
  - deSolla, Jodie
- - Devereaux, Julie
  - Dolan, Kim
  - Dolan, Sinead
  - Dufresne, Audree
@@ -148,6 +146,7 @@ vs:
  - Holland, Amber
  - Holtby, Taryn
  - Homan, Rachel
+ - Hynes, Julie
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Colleen
@@ -155,6 +154,7 @@ vs:
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - Kleibrink, Shannon
  - Knapp, Breanne

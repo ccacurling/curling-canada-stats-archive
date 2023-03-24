@@ -146,7 +146,6 @@ vs:
  - Brophy, Kathy
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Katie
  - Bryant, Angie
  - Campbell, June
  - Chapman, Kathy
@@ -296,6 +295,7 @@ vs:
  - Whitaker, Lisa
  - Whitrow, Leanne
  - Willms, Karri
+ - Witt, Katie
  - Wright, Joanne
  - Wright, Susan
  - Young, Karen

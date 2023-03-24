@@ -710,6 +710,50 @@ vs:
       year: 2016
       draw: Round Robin(7)
       score: NS 8 - ON 7
+ - name: Harris, Briane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 1
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 83
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(3)
+      score: NS 9 - MB 3
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 94
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(12)
+      score: NS 3 - CA 8
  - name: Homan, Rachel
    totals:
     - event: Hearts
@@ -1162,50 +1206,6 @@ vs:
       year: 2016
       draw: Round Robin(12)
       score: NS 5 - CA 7
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 70
-        wins: 1
-        losses: 1
-      player2:
-        percent: 89
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Second
-        percent: 70
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Second
-        percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(3)
-      score: NS 9 - MB 3
-    - player1:
-        team: 'NS'
-        position: Second
-        percent: 69
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 94
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(12)
-      score: NS 3 - CA 8
  - name: Miskew, Emma
    totals:
     - event: Hearts

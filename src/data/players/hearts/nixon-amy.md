@@ -148,7 +148,6 @@ vs:
  - Cordina, Sheri
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Cathy
  - Curtis, Erica
  - Curtis, Stacie
@@ -156,7 +155,6 @@ vs:
  - deJager, Blaine
  - Delahunt, Nancy
  - Derry, Danielle
- - Devereaux, Julie
  - Dezura, Diane
  - Doig, Deanna
  - Einarson, Kerri
@@ -192,11 +190,13 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunter, Lana
+ - Hynes, Julie
  - Iskiw, Beth
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - Kidd, Darlene
@@ -223,7 +223,6 @@ vs:
  - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
@@ -260,6 +259,7 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Shea, Michelle
  - Sicinski, Danielle
  - Simmons, Cindy
  - Simons, Renee

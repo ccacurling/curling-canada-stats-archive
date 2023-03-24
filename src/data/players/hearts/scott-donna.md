@@ -157,7 +157,6 @@ vs:
  - Bonar, Maureen
  - Bowering, Andrea
  - Brophy, Kathy
- - Brown, Katie
  - Burgess, Judy
  - Burry, Gail
  - Busche, Jodi
@@ -324,6 +323,7 @@ vs:
  - Whipple, Paula
  - Whitrow, Leanne
  - Wieler, Bev
+ - Witt, Katie
  - Zielke, Colleen
  - Zinck, Kay
 ---

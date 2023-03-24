@@ -36,8 +36,8 @@ years:
    shots-total: 22
    shots-percent: 70
 vs:
- - Crawford, Andrea
  - deSolla, Jodie
+ - Kelly, Andrea
  - MacDiarmid, Kristen
  - Muise, Morgan
 ---

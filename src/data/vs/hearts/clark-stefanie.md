@@ -46,34 +46,6 @@ vs:
       year: 2007
       draw: Round Robin(17)
       score: NB 3 - PE 8
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 50
-        wins: 0
-        losses: 1
-      player2:
-        percent: 75
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Lead
-        percent: 50
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2013
-      draw: Round Robin(2)
-      score: PE 5 - NB 11
  - name: Cunningham, Cathy
    totals:
     - event: Hearts
@@ -874,6 +846,34 @@ vs:
       year: 2005
       draw: Round Robin(7)
       score: SK 8 - PE 4
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 50
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Lead
+        percent: 50
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2013
+      draw: Round Robin(2)
+      score: PE 5 - NB 11
  - name: Kelly, Kim
    totals:
     - event: Hearts

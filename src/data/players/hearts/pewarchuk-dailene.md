@@ -145,12 +145,10 @@ vs:
  - Blais, Amelie
  - Cameron, Nancy
  - Cormier, Sharon
- - Crawford, Andrea
  - Cunningham, Jennifer
  - Curtis, Erica
  - Davies, Lisa
  - deSolla, Jodie
- - Devereaux, Julie
  - Dolan, Kim
  - Dolan, Sinead
  - Enge, Jenna
@@ -162,10 +160,12 @@ vs:
  - Gates, Amanda
  - Hamilton, Beth
  - Holland, Amber
+ - Hynes, Julie
  - Iskiw, Beth
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Koehler, Megan
  - Korab, Stephanie
  - Larouche, Marie-France

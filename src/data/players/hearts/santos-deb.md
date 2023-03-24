@@ -98,7 +98,6 @@ vs:
  - Birt, Suzanne
  - Blackburn, Julie
  - Blanchard, Judy
- - Brown, Katie
  - Byers, Denise
  - Cameron, Nancy
  - Campbell, Gloria
@@ -219,6 +218,7 @@ vs:
  - Wheatcroft, Georgina
  - Whitrow, Leanne
  - Willms, Karri
+ - Witt, Katie
  - Wright, Susan
  - Zeller, Lori
 ---

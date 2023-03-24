@@ -1010,34 +1010,6 @@ vs:
       year: 2013
       draw: Round Robin(13)
       score: NB 9 - AB 3
- - name: Devereaux, Julie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 1
-        losses: 0
-      player2:
-        percent: 69
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Third
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 69
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(4)
-      score: NL 4 - NB 7
  - name: Dolan, Kim
    totals:
     - event: Hearts
@@ -2010,6 +1982,34 @@ vs:
       year: 2016
       draw: Round Robin(5)
       score: PE 9 - NB 8
+ - name: Hynes, Julie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 69
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 69
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(4)
+      score: NL 4 - NB 7
  - name: Iskiw, Beth
    totals:
     - event: Hearts
@@ -3220,34 +3220,6 @@ vs:
         team: 'PE'
         position: Lead
         percent: 83
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2015
-      draw: Round Robin(2)
-      score: NB 2 - PE 8
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 0
-        losses: 1
-      player2:
-        percent: 75
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Third
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Second
-        percent: 75
         win: 1
         loss: 0
       event: Hearts
@@ -4466,6 +4438,34 @@ vs:
       year: 2013
       draw: Round Robin(8)
       score: BC 13 - NB 7
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2015
+      draw: Round Robin(2)
+      score: NB 2 - PE 8
  - name: Shumay, Jill
    totals:
     - event: Hearts

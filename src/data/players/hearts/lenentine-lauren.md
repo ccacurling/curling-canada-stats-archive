@@ -4,19 +4,19 @@ name: Lauren Lenentine
 name-sort: Lenentine, Lauren
 totals:
  - event: Hearts
-   games: 17
-   wins: 8
-   losses: 9
-   inturn-total: 202
-   inturn-percent: 84
-   outturn-total: 123
-   outturn-percent: 76
-   draw-total: 276
-   draw-percent: 84
-   takeout-total: 49
-   takeout-percent: 65
-   shots-total: 325
-   shots-percent: 81
+   games: 25
+   wins: 14
+   losses: 11
+   inturn-total: 322
+   inturn-percent: 87
+   outturn-total: 159
+   outturn-percent: 80
+   draw-total: 416
+   draw-percent: 87
+   takeout-total: 65
+   takeout-percent: 72
+   shots-total: 481
+   shots-percent: 85
 years:
  - year: 2021
    event: Hearts
@@ -52,6 +52,23 @@ years:
    takeout-percent: 64
    shots-total: 178
    shots-percent: 81
+ - year: 2023
+   event: Hearts
+   team: "MB"
+   position: Lead
+   games: 8
+   wins: 6
+   losses: 2
+   inturn-total: 120
+   inturn-percent: 92
+   outturn-total: 36
+   outturn-percent: 93
+   draw-total: 140
+   draw-percent: 92
+   takeout-total: 16
+   takeout-percent: 94
+   shots-total: 156
+   shots-percent: 92
 vs:
  - Armstrong, Hailey
  - Arsenault, Mary-Anne
@@ -68,31 +85,46 @@ vs:
  - Brown, Rachel
  - Brunton, Kira
  - Burns, Krysta
+ - Burt, Camille
  - Cameron, Kate
  - Campbell, Kerry
  - Carmody, Erin
  - Carter, Sasha
  - Courtney, Joanne
+ - Curtis, Erica
+ - Curtis, Stacie
  - Doerksen, Katherine
+ - Dubue, Lindsay
+ - Duncan, Chelsea
  - Duncan, Hollie
  - Einarson, Kerri
  - Everist, Karlee
  - Flemming, Margot
  - Galusha, Kerry
+ - Grandy, Clancy
  - Guy, Sara
+ - Harris, Briane
+ - Haughian, Jessie
  - Homan, Rachel
+ - Hynes, Julie
  - Koltun, Sarah
+ - Lilly, Kendra
  - Loder, Jenna
  - Logan, Emma
+ - Loken, Sarah
+ - MacMillan, Kayla
+ - McCarville, Krista
  - McDonald, Taylor
- - Meilleur, Briane
  - Miskew, Emma
  - Peterson, Beth
+ - Potts, Sarah
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Scheidegger, Casey
  - Schraeder, Jeanna
  - Scotland, Nadine
  - Simons, Renee
+ - Sippala, Ashley
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie

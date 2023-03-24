@@ -397,7 +397,6 @@ vs:
  - Brophy, Kathy
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Katie
  - Brown, Marcie
  - Buckway, Beverly
  - Burgess, Carey
@@ -433,7 +432,6 @@ vs:
  - Cormier, Sharon
  - Cossette, Pierrette
  - Crass, Kim
- - Crawford, Andrea
  - Cunliffe, Donna
  - Cunningham, Cathy
  - Currey, Karen
@@ -557,6 +555,7 @@ vs:
  - Kaylo, Kelly
  - Kehler, Lorie
  - Kellerman, Bev
+ - Kelly, Andrea
  - Kelly, Anita
  - Kennedy, Tracy
  - Kerr, Heather
@@ -791,6 +790,7 @@ vs:
  - Wieler, Bev
  - Willms, Karri
  - Wilson, Patty
+ - Witt, Katie
  - Wright, Joanne
  - Wright, Susan
  - Young, Karen

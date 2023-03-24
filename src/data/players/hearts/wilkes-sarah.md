@@ -4,19 +4,19 @@ name: Sarah Wilkes
 name-sort: Wilkes, Sarah
 totals:
  - event: Hearts
-   games: 59
-   wins: 37
-   losses: 22
-   inturn-total: 530
-   inturn-percent: 80
-   outturn-total: 554
-   outturn-percent: 82
-   draw-total: 412
-   draw-percent: 81
-   takeout-total: 672
-   takeout-percent: 81
-   shots-total: 1084
-   shots-percent: 81
+   games: 67
+   wins: 42
+   losses: 25
+   inturn-total: 615
+   inturn-percent: 81
+   outturn-total: 601
+   outturn-percent: 83
+   draw-total: 529
+   draw-percent: 82
+   takeout-total: 687
+   takeout-percent: 82
+   shots-total: 1216
+   shots-percent: 82
 years:
  - year: 2015
    event: Hearts
@@ -149,7 +149,25 @@ years:
    takeout-percent: 79
    shots-total: 148
    shots-percent: 81
+ - year: 2023
+   event: Hearts
+   team: "ON"
+   position: Lead
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 85
+   inturn-percent: 87
+   outturn-total: 47
+   outturn-percent: 86
+   draw-total: 117
+   draw-percent: 87
+   takeout-total: 15
+   takeout-percent: 85
+   shots-total: 132
+   shots-percent: 86
 vs:
+ - Ackland, Abby
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Anderson, Sherry
@@ -159,9 +177,13 @@ vs:
  - Babin, Jillian
  - Barbour, Shona
  - Barker, Penny
+ - Barker, Shelley
+ - Baxter, Jennifer
  - Belisle, Eve
  - Birchard, Shannon
+ - Birnie, Hailey
  - Birt, Suzanne
+ - Black, Christina
  - Blais, Amelie
  - Blaney, Jennifer
  - Bodner, Jenine
@@ -173,27 +195,30 @@ vs:
  - Brown, Rachel
  - Burgess, Karlee
  - Burns, Krysta
+ - Burt, Camille
  - Cameron, Kate
  - Campbell, Jolene
+ - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Christianson, Marie
  - Cormier, Sharon
  - Cote, Marie-Pier
  - Courtney, Joanne
- - Crawford, Andrea
  - Curtis, Erica
  - Curtis, Stacie
  - Daigle, Julie
  - deJager, Blaine
  - Derry, Danielle
- - Devereaux, Julie
  - Doerksen, Katherine
  - Doig, Deanna
+ - Duncan, Chelsea
  - Eddy, Lori
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Enge, Jenna
  - Englot, Michelle
+ - Everist, Karlee
  - Filteau, Anne-Marie
  - Flemming, Margot
  - Fleury, Tracy
@@ -207,6 +232,7 @@ vs:
  - Griffin, Alison
  - Guy, Sara
  - Hamilton, Beth
+ - Harris, Briane
  - Haughian, Jessie
  - Hawes, Dezaray
  - Hill, Sarah
@@ -214,13 +240,16 @@ vs:
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
  - Ingram, Megan
  - Jones, Jennifer
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kitz, Chaelynn
  - Klymchuk, Ashley
  - Knapp, Breanne
  - Koehler, Megan
+ - Koltun, Sarah
  - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
@@ -240,9 +269,7 @@ vs:
  - McDonald, Taylor
  - McEvoy, Julie
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Mercer, Adrienne
  - Miskew, Emma
  - Moore, Kristie
@@ -251,6 +278,7 @@ vs:
  - Nixon, Amy
  - Njegovan, Robyn
  - Njegovan, Selena
+ - Oliver, Sara
  - O'Rourke, Brittany
  - Peterman, Jocelyn
  - Peters, Laine
@@ -275,6 +303,7 @@ vs:
  - Schneider, Lorraine
  - Scotland, Nadine
  - Sharpe, Kelli
+ - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley
@@ -285,8 +314,10 @@ vs:
  - Taylor, Alison
  - Thevenot, Kara
  - Tran, Brittany
+ - Tuor, Kimberly
  - Verreault, Noemie
  - Walker, Laura
+ - Walter, Meghan
  - Wark, Sarah
  - Weagle, Lisa
  - Westcott, Raunora

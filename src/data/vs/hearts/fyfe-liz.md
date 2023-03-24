@@ -326,6 +326,50 @@ vs:
       year: 2016
       draw: Round Robin(5)
       score: ON 3 - MB 5
+ - name: Harris, Briane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 0
+        losses: 2
+      player2:
+        percent: 79
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Pool(21)
+      score: CA 9 - WC 3
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Page 3-4(22)
+      score: WC 6 - CA 11
  - name: Hawes, Dezaray
    totals:
     - event: Hearts
@@ -530,6 +574,34 @@ vs:
       year: 2022
       draw: Round Robin(5)
       score: PE 1 - WC 9
+ - name: Hynes, Julie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(10)
+      score: MB 8 - NL 5
  - name: Jones, Jennifer
    totals:
     - event: Hearts
@@ -638,6 +710,34 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: MB 2 - WC 9
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(1)
+      score: NB 6 - WC 5
  - name: Kitz, Chaelynn
    totals:
     - event: Hearts
@@ -1538,50 +1638,6 @@ vs:
       year: 2018
       draw: Final(24)
       score: WC 6 - MB 8
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 2
-        losses: 0
-      player2:
-        percent: 83
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'WC'
-        position: Second
-        percent: 80
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 89
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(13)
-      score: WC 10 - PE 6
-    - player1:
-        team: 'WC'
-        position: Second
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 75
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Round Robin(5)
-      score: PE 1 - WC 9
  - name: McTaggart, Cary-Anne
    totals:
     - event: Hearts
@@ -1610,50 +1666,6 @@ vs:
       year: 2018
       draw: Pool(20)
       score: WC 6 - AB 4
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 0
-        losses: 2
-      player2:
-        percent: 79
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'WC'
-        position: Second
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Pool(21)
-      score: CA 9 - WC 3
-    - player1:
-        team: 'WC'
-        position: Second
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 86
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Page 3-4(22)
-      score: WC 6 - CA 11
  - name: Mercer, Adrienne
    totals:
     - event: Hearts
@@ -2798,6 +2810,50 @@ vs:
       year: 2022
       draw: Round Robin(13)
       score: NL 3 - WC 8
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 2
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(13)
+      score: WC 10 - PE 6
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(5)
+      score: PE 1 - WC 9
  - name: Sicinski, Danielle
    totals:
     - event: Hearts

@@ -85,7 +85,6 @@ vs:
  - Carter, Sasha
  - Comeau, Martine
  - Cormier, Sharon
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Jennifer
  - Curtis, Stacie
@@ -111,6 +110,7 @@ vs:
  - Iskiw, Beth
  - Jones, Jennifer
  - Joyce, Blisse
+ - Kelly, Andrea
  - Kleibrink, Shannon
  - Koehler, Megan
  - Korab, Stephanie

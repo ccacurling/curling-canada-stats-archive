@@ -30,34 +30,6 @@ vs:
       year: 2014
       draw: Round Robin(12)
       score: ON 7 - AB 5
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 89
-        wins: 0
-        losses: 1
-      player2:
-        percent: 79
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'ON'
-        position: Lead
-        percent: 89
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 79
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2014
-      draw: Round Robin(10)
-      score: NB 7 - ON 4
  - name: Cunningham, Jessica
    totals:
     - event: Hearts
@@ -366,6 +338,34 @@ vs:
       year: 2014
       draw: Round Robin(2)
       score: ON 5 - SK 8
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2014
+      draw: Round Robin(10)
+      score: NB 7 - ON 4
  - name: Knezevic, Patti
    totals:
     - event: Hearts

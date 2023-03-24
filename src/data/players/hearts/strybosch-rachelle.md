@@ -49,10 +49,10 @@ vs:
  - Everist, Karlee
  - Flemming, Margot
  - Galusha, Kerry
+ - Harris, Briane
  - Koltun, Sarah
  - Lenentine, Lauren
  - McDonald, Taylor
- - Meilleur, Briane
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Scotland, Nadine

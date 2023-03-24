@@ -49,7 +49,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Jessica
  - Davies, Lisa
  - deSolla, Jodie
@@ -62,6 +61,7 @@ vs:
  - Homan, Rachel
  - Joyce, Blisse
  - Kasner, Marliese
+ - Kelly, Andrea
  - Koltun, Sarah
  - Kreviazuk, Alison
  - Kreviazuk, Lynn

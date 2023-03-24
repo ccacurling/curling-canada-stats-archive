@@ -95,7 +95,6 @@ vs:
  - Courtney, Joanne
  - Cunningham, Jessica
  - Curtis, Stacie
- - Devereaux, Julie
  - Einarson, Kerri
  - Enge, Jenna
  - Ferguson, Dana
@@ -110,6 +109,7 @@ vs:
  - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
+ - Hynes, Julie
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese
@@ -127,7 +127,6 @@ vs:
  - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - Miskew, Emma
  - Murphy, Sarah
  - Nicholls, Brenda
@@ -147,6 +146,7 @@ vs:
  - Rusnell, Jen
  - Sagle, Karen
  - Schmidt, Stephanie
+ - Shea, Michelle
  - Sippala, Ashley
  - Smith, Heather
  - Smith, Stacey

@@ -2802,50 +2802,6 @@ vs:
       year: 2020
       draw: Round Robin(10)
       score: ON 10 - NS 7
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 85
-        wins: 1
-        losses: 1
-      player2:
-        percent: 73
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Second
-        percent: 84
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 59
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2006
-      draw: Round Robin(16)
-      score: NS 6 - NB 3
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent: 86
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 87
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2013
-      draw: Round Robin(15)
-      score: NB 8 - NS 6
  - name: Cunningham, Cathy
    totals:
     - event: Hearts
@@ -3222,34 +3178,6 @@ vs:
       year: 2013
       draw: Round Robin(15)
       score: NB 8 - NS 6
- - name: Devereaux, Julie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 1
-        losses: 0
-      player2:
-        percent: 88
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent: 79
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 88
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Round Robin(7)
-      score: NL 5 - NS 9
  - name: Dezura, Diane
    totals:
     - event: Hearts
@@ -5670,6 +5598,34 @@ vs:
       year: 2008
       draw: Round Robin(16)
       score: ON 9 - NS 5
+ - name: Harris, Briane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(10)
+      score: CA 10 - BC 5
  - name: Harrison, Meredith
    totals:
     - event: Hearts
@@ -6262,6 +6218,34 @@ vs:
       year: 2004
       draw: Round Robin(16)
       score: CA 8 - MB 9
+ - name: Hynes, Julie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Round Robin(7)
+      score: NL 5 - NS 9
  - name: Iskiw, Beth
    totals:
     - event: Hearts
@@ -6766,6 +6750,50 @@ vs:
       year: 2001
       draw: Round Robin(12)
       score: SK 3 - NS 8
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 85
+        wins: 1
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 59
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2006
+      draw: Round Robin(16)
+      score: NS 6 - NB 3
+    - player1:
+        team: 'NS'
+        position: Fourth
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 87
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2013
+      draw: Round Robin(15)
+      score: NB 8 - NS 6
  - name: Kerr, Kathy
    totals:
     - event: Hearts
@@ -9522,50 +9550,6 @@ vs:
       year: 2001
       draw: Round Robin(2)
       score: AB 5 - NS 9
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 63
-        wins: 0
-        losses: 2
-      player2:
-        percent: 65
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent: 56
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Second
-        percent: 53
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2015
-      draw: Round Robin(9)
-      score: NS 5 - PE 6
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent: 69
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 78
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(4)
-      score: PE 7 - NS 3
  - name: McTaggart, Cary-Anne
    totals:
     - event: Hearts
@@ -9594,34 +9578,6 @@ vs:
       year: 2018
       draw: Pool(17)
       score: AB 3 - NS 8
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 0
-        losses: 1
-      player2:
-        percent: 89
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'BC'
-        position: Fourth
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 89
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(10)
-      score: CA 10 - BC 5
  - name: Merklinger, Anne
    totals:
     - event: Hearts
@@ -12714,6 +12670,50 @@ vs:
       year: 2006
       draw: Round Robin(3)
       score: NS 8 - TR 4
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 63
+        wins: 0
+        losses: 2
+      player2:
+        percent: 65
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Fourth
+        percent: 56
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 53
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2015
+      draw: Round Robin(9)
+      score: NS 5 - PE 6
+    - player1:
+        team: 'NS'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(4)
+      score: PE 7 - NS 3
  - name: Shigehiro, Sally
    totals:
     - event: Hearts

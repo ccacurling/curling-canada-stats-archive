@@ -65,7 +65,6 @@ vs:
  - Mann, Lauren
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - Miskew, Emma
  - Officer, Jill
  - Olson-Johns, Lori
@@ -75,6 +74,7 @@ vs:
  - Richard, Marie
  - Rusnell, Jen
  - Schmidt, Stephanie
+ - Shea, Michelle
  - Snyder, Jane
  - Strong, Heather
  - Sweeting, Val

@@ -43,7 +43,6 @@ vs:
  - Blais, Amelie
  - Carter, Sasha
  - Cormier, Sharon
- - Crawford, Andrea
  - Dolan, Kim
  - Dolan, Sinead
  - Enge, Jenna
@@ -57,6 +56,7 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Koehler, Megan
  - Larouche, Marie-France
  - Lawes, Kaitlyn

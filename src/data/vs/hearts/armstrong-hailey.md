@@ -918,6 +918,50 @@ vs:
       year: 2021
       draw: Round Robin(15)
       score: QC 9 - NL 4
+ - name: Harris, Briane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 0
+        losses: 2
+      player2:
+        percent: 88
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Pool(22)
+      score: QC 4 - CA 7
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 92
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(6)
+      score: CA 8 - QC 5
  - name: Hawes, Dezaray
    totals:
     - event: Hearts
@@ -1382,78 +1426,6 @@ vs:
       year: 2022
       draw: Round Robin(2)
       score: AB 8 - QC 9
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 1
-        losses: 0
-      player2:
-        percent: 79
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent: 79
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 79
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(6)
-      score: PE 6 - QC 8
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 68
-        wins: 0
-        losses: 2
-      player2:
-        percent: 88
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 84
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Pool(22)
-      score: QC 4 - CA 7
-    - player1:
-        team: 'QC'
-        position: Third
-        percent: 63
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 92
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(6)
-      score: CA 8 - QC 5
  - name: Mercer, Adrienne
    totals:
     - event: Hearts
@@ -1734,6 +1706,34 @@ vs:
       year: 2022
       draw: Round Robin(2)
       score: AB 8 - QC 9
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(6)
+      score: PE 6 - QC 8
  - name: Simons, Renee
    totals:
     - event: Hearts

@@ -6,12 +6,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 71
+        percent: 73
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 67
-        wins: 0
+        percent: 76
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -30,6 +30,22 @@ vs:
       year: 2021
       draw: Round Robin(10)
       score: WC 6 - AB 4
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(1)
+      score: WC 8 - AB 5
  - name: Weagle, Lisa
    totals:
     - event: Hearts

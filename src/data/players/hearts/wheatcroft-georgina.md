@@ -245,7 +245,6 @@ vs:
  - Cooke, Gerri
  - Corbin, Nicole
  - Cordina, Sheri
- - Crawford, Andrea
  - Crocker, Cindy
  - Cunningham, Cathy
  - Cutcliffe, Margaret
@@ -316,6 +315,7 @@ vs:
  - Jurgenson, Christine
  - Karasek, Bev
  - Kehler, Lorie
+ - Kelly, Andrea
  - Kelly, Kim
  - Kennedy, Tracy
  - Kerr, Kathy

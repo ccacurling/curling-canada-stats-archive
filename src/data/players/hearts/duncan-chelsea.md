@@ -4,18 +4,18 @@ name: Chelsea Duncan
 name-sort: Duncan, Chelsea
 totals:
  - event: Hearts
-   games: 26
+   games: 32
    wins: 3
-   losses: 23
-   inturn-total: 236
-   inturn-percent: 71
-   outturn-total: 224
-   outturn-percent: 67
-   draw-total: 244
-   draw-percent: 68
-   takeout-total: 216
-   takeout-percent: 70
-   shots-total: 460
+   losses: 29
+   inturn-total: 281
+   inturn-percent: 70
+   outturn-total: 273
+   outturn-percent: 68
+   draw-total: 294
+   draw-percent: 69
+   takeout-total: 260
+   takeout-percent: 69
+   shots-total: 554
    shots-percent: 69
 years:
  - year: 2014
@@ -102,6 +102,23 @@ years:
    takeout-percent: 71
    shots-total: 126
    shots-percent: 69
+ - year: 2023
+   event: Hearts
+   team: "YT"
+   position: Third
+   games: 6
+   wins: 0
+   losses: 6
+   inturn-total: 45
+   inturn-percent: 66
+   outturn-total: 49
+   outturn-percent: 71
+   draw-total: 50
+   draw-percent: 72
+   takeout-total: 44
+   takeout-percent: 65
+   shots-total: 94
+   shots-percent: 69
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -117,6 +134,9 @@ vs:
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Brunton, Kira
+ - Burgess, Karlee
+ - Burt, Camille
  - Carey, Chelsea
  - Chislett, Geneva
  - Christianson, Marie
@@ -125,12 +145,11 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Jessica
  - Curtis, Erica
+ - Curtis, Stacie
  - deSolla, Jodie
- - Devereaux, Julie
  - Dolan, Kim
  - Dolan, Sinead
  - Einarson, Kerri
@@ -138,7 +157,9 @@ vs:
  - Fesser, Kourtney
  - Fesser, Krista
  - Flaxey, Allison
+ - Flemming, Margot
  - Fleury, Tracy
+ - Forward, Katie
  - Foster, Kristen
  - Fyfe, Liz
  - Galusha, Kerry
@@ -149,9 +170,11 @@ vs:
  - Homan, Rachel
  - Hughes, Meaghan
  - Hutchings, Denise
+ - Hynes, Julie
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese
+ - Kelly, Andrea
  - Klymchuk, Ashley
  - Knezevic, Patti
  - Koehler, Megan
@@ -163,14 +186,16 @@ vs:
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - LeDrew, Stephanie
+ - Lenentine, Lauren
+ - Lilly, Kendra
  - Lister, Kendra
  - Logan, Emma
  - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - Mackey, Robyn
+ - McCarville, Krista
  - McDonald, Kristy
  - McEwen, Dawn
- - McQuaid, Michelle
  - Miskew, Emma
  - Njegovan, Selena
  - Nugent, Pamela
@@ -180,13 +205,16 @@ vs:
  - Peterman, Jocelyn
  - Pincott, Erin
  - Porter, Erin
+ - Potts, Sarah
  - Quillian, Sylvie
  - Rizzo, Jo-Ann
  - Robison, Michala
  - Ross, Allison
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Shea, Michelle
  - Singler, Sherri
+ - Sippala, Ashley
  - Smith, Heather
  - Strong, Heather
  - Strong, Laura
@@ -197,5 +225,7 @@ vs:
  - Weagle, Lisa
  - Webster, Crystal
  - West, Christianne
+ - Wilkes, Sarah
  - Wylie, Jennifer
+ - Zacharias, Mackenzie
 ---

@@ -43,7 +43,6 @@ vs:
  - Bush, Tracy
  - Cameron, Nancy
  - Carter, Sasha
- - Crawford, Andrea
  - Delahunt, Nancy
  - deSolla, Jodie
  - Gagnier, Monique
@@ -53,6 +52,7 @@ vs:
  - Harvey, Janet
  - Jones, Colleen
  - Jones, Jennifer
+ - Kelly, Andrea
  - Kelly, Kim
  - King, Cathy
  - Lang, Lorraine

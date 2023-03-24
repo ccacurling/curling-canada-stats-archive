@@ -186,34 +186,6 @@ vs:
       year: 2007
       draw: Round Robin(16)
       score: PE 7 - TR 3
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 53
-        wins: 0
-        losses: 1
-      player2:
-        percent: 78
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'YT'
-        position: Fourth
-        percent: 53
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(6)
-      score: YT 3 - NB 12
  - name: Daniel, Sylvie
    totals:
     - event: Hearts
@@ -522,6 +494,34 @@ vs:
       year: 2019
       draw: Round Robin(10)
       score: CA 9 - YT 7
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 53
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 53
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(6)
+      score: YT 3 - NB 12
  - name: Koltun, Sarah
    totals:
     - event: Hearts
@@ -662,34 +662,6 @@ vs:
       year: 2019
       draw: Round Robin(10)
       score: CA 9 - YT 7
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 50
-        wins: 0
-        losses: 1
-      player2:
-        percent: 85
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'YT'
-        position: Fourth
-        percent: 50
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(8)
-      score: PE 8 - YT 4
  - name: McTaggart, Cary-Anne
    totals:
     - event: Hearts
@@ -1026,6 +998,34 @@ vs:
       year: 2019
       draw: Round Robin(4)
       score: NL 12 - YT 4
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 50
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 50
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(8)
+      score: PE 8 - YT 4
  - name: Silvernagle, Robyn
    totals:
     - event: Hearts

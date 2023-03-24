@@ -100,7 +100,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Jennifer
  - Cunningham, Jessica
  - deSolla, Jodie
@@ -115,6 +114,7 @@ vs:
  - Homan, Rachel
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kelly, Andrea
  - Koehler, Megan
  - Koltun, Sarah
  - Korab, Stephanie

@@ -71,7 +71,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
@@ -89,6 +88,7 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese
+ - Kelly, Andrea
  - Knezevic, Patti
  - Koltun, Sarah
  - Kreviazuk, Alison
@@ -100,7 +100,6 @@ vs:
  - McDonald, Kristy
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - Miskew, Emma
  - Nugent, Pamela
  - Officer, Jill
@@ -116,6 +115,7 @@ vs:
  - Sanderson, Jessie
  - Sandwith, Carley
  - Schmidt, Stephanie
+ - Shea, Michelle
  - Sinclair, Andrea
  - Singler, Sherri
  - Smith, Heather

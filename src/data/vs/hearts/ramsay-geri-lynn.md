@@ -2,6 +2,34 @@
 title: Geri-Lynn Ramsay Head-to-head
 name: Ramsay, Geri-Lynn
 vs:
+ - name: Riley, Emily
+   totals:
+    - event: Hearts
+      player1:
+        percent: 96
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 96
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(9)
+      score: AB 12 - QC 4
  - name: Rogers, Leslie
    totals:
     - event: Hearts
@@ -58,6 +86,62 @@ vs:
       year: 2010
       draw: Round Robin(15)
       score: NL 5 - PE 9
+ - name: Routledge, Alanna
+   totals:
+    - event: Hearts
+      player1:
+        percent: 96
+        wins: 1
+        losses: 0
+      player2:
+        percent: 73
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 96
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(9)
+      score: AB 12 - QC 4
+ - name: Schafer, Kelly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(3)
+      score: AB 9 - SK 11
  - name: Schneider, Kim
    totals:
     - event: Hearts
@@ -170,6 +254,62 @@ vs:
       year: 2010
       draw: Round Robin(16)
       score: PE 5 - BC 10
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(11)
+      score: AB 10 - PE 7
+ - name: Silvernagle, Robyn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(3)
+      score: AB 9 - SK 11
  - name: Sippala, Ashley
    totals:
     - event: Hearts
@@ -242,16 +382,44 @@ vs:
       year: 2010
       draw: Round Robin(2)
       score: NB 8 - PE 11
+ - name: St-Georges, Laurie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 96
+        wins: 1
+        losses: 0
+      player2:
+        percent: 69
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 96
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(9)
+      score: AB 12 - QC 4
  - name: Sweeting, Val
    totals:
     - event: Hearts
       player1:
-        percent: 73
+        percent: 65
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 86
-        wins: 1
+        percent: 83
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -270,6 +438,78 @@ vs:
       year: 2010
       draw: Round Robin(3)
       score: PE 2 - AB 13
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 59
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(16)
+      score: CA 9 - AB 8
+ - name: Taylor, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 99
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 99
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(7)
+      score: NU 4 - AB 9
+ - name: Thevenot, Kara
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(3)
+      score: AB 9 - SK 11
  - name: Thomas, Jill
    totals:
     - event: Hearts
@@ -326,6 +566,34 @@ vs:
       year: 2010
       draw: Round Robin(7)
       score: MB 6 - PE 7
+ - name: Walker, Laura
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(1)
+      score: WC 8 - AB 5
  - name: Westcott, Raunora
    totals:
     - event: Hearts

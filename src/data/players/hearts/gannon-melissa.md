@@ -45,7 +45,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Jessica
  - deSolla, Jodie
  - Dolan, Kim
@@ -57,6 +56,7 @@ vs:
  - Homan, Rachel
  - Joyce, Blisse
  - Kasner, Marliese
+ - Kelly, Andrea
  - Knapp, Breanne
  - Knezevic, Patti
  - Koltun, Sarah

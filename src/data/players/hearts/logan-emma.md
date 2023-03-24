@@ -65,7 +65,6 @@ vs:
  - Christianson, Marie
  - Courtney, Joanne
  - Curtis, Erica
- - Devereaux, Julie
  - Doerksen, Katherine
  - Duncan, Chelsea
  - Einarson, Kerri
@@ -74,9 +73,11 @@ vs:
  - Gates, Amanda
  - Guy, Sara
  - Hamilton, Beth
+ - Harris, Briane
  - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
+ - Hynes, Julie
  - Jones, Jennifer
  - Klymchuk, Ashley
  - Koltun, Sarah
@@ -85,8 +86,6 @@ vs:
  - Loder, Jenna
  - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
- - Meilleur, Briane
  - Miskew, Emma
  - Peterman, Jocelyn
  - Peterson, Beth
@@ -95,6 +94,7 @@ vs:
  - Plonka, Gabrielle
  - Porter, Erin
  - Rizzo, Jo-Ann
+ - Shea, Michelle
  - Smith, Megan
  - Sweeting, Val
  - Tran, Brittany

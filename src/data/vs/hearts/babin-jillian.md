@@ -1718,6 +1718,66 @@ vs:
       year: 2010
       draw: Round Robin(13)
       score: NB 7 - NL 9
+ - name: Harris, Briane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 2
+        losses: 1
+      player2:
+        percent: 92
+        wins: 1
+        losses: 2
+   games:
+    - player1:
+        team: 'NB'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 92
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Round Robin(10)
+      score: MB 7 - NB 13
+    - player1:
+        team: 'NB'
+        position: Second
+        percent: 66
+        win: 1
+        loss: 0
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Playoff(21)
+      score: CA 6 - NB 8
+    - player1:
+        team: 'NB'
+        position: Second
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 92
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Semi-Final(24)
+      score: NB 4 - CA 8
  - name: Haughian, Jessie
    totals:
     - event: Hearts
@@ -3270,50 +3330,6 @@ vs:
       year: 2019
       draw: Round Robin(8)
       score: NB 9 - CA 6
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 1
-        losses: 1
-      player2:
-        percent: 76
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Third
-        percent: 77
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(10)
-      score: NB 12 - PE 13
-    - player1:
-        team: 'NB'
-        position: Second
-        percent: 80
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 66
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Round Robin(7)
-      score: PE 8 - NB 10
  - name: McTaggart, Cary-Anne
    totals:
     - event: Hearts
@@ -3342,66 +3358,6 @@ vs:
       year: 2019
       draw: Round Robin(12)
       score: NB 3 - WC 7
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 74
-        wins: 2
-        losses: 1
-      player2:
-        percent: 92
-        wins: 1
-        losses: 2
-   games:
-    - player1:
-        team: 'NB'
-        position: Second
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 92
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Round Robin(10)
-      score: MB 7 - NB 13
-    - player1:
-        team: 'NB'
-        position: Second
-        percent: 66
-        win: 1
-        loss: 0
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 91
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Playoff(21)
-      score: CA 6 - NB 8
-    - player1:
-        team: 'NB'
-        position: Second
-        percent: 69
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 92
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Semi-Final(24)
-      score: NB 4 - CA 8
  - name: Mercer, Adrienne
    totals:
     - event: Hearts
@@ -4822,6 +4778,50 @@ vs:
       year: 2019
       draw: Round Robin(6)
       score: YT 3 - NB 12
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 1
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 77
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(10)
+      score: NB 12 - PE 13
+    - player1:
+        team: 'NB'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 66
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(7)
+      score: PE 8 - NB 10
  - name: Sicinski, Danielle
    totals:
     - event: Hearts

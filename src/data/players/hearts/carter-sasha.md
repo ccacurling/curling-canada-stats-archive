@@ -263,7 +263,6 @@ vs:
  - Comeau, Martine
  - Comeau, Sandy
  - Cormier, Sharon
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
@@ -307,6 +306,7 @@ vs:
  - Hanna, Stephanie
  - Hardy, Shelley
  - Harmark, Andra
+ - Harris, Briane
  - Harrison, Meredith
  - Harvey, Janet
  - Holland, Amber
@@ -322,6 +322,7 @@ vs:
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - Kidd, Darlene
  - King, Cathy
@@ -360,7 +361,6 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
- - Meilleur, Briane
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma

@@ -130,34 +130,6 @@ vs:
       year: 2021
       draw: Round Robin(10)
       score: ON 8 - NS 3
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 1
-        losses: 0
-      player2:
-        percent: 49
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 49
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(2)
-      score: NB 8 - PE 11
  - name: Crouse, Jennifer
    totals:
     - event: Hearts
@@ -678,6 +650,34 @@ vs:
       year: 2010
       draw: Round Robin(15)
       score: NL 5 - PE 9
+ - name: Harris, Briane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 71
+        wins: 0
+        losses: 1
+      player2:
+        percent: 94
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Third
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 94
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(12)
+      score: NS 3 - CA 8
  - name: Holland, Amber
    totals:
     - event: Hearts
@@ -866,6 +866,34 @@ vs:
       year: 2010
       draw: Round Robin(1)
       score: PE 10 - SK 3
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 1
+        losses: 0
+      player2:
+        percent: 49
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 49
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2010
+      draw: Round Robin(2)
+      score: NB 8 - PE 11
  - name: Koehler, Megan
    totals:
     - event: Hearts
@@ -1394,34 +1422,6 @@ vs:
       year: 2010
       draw: Final(22)
       score: CA 8 - PE 7
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 71
-        wins: 0
-        losses: 1
-      player2:
-        percent: 94
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Third
-        percent: 71
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 94
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(12)
-      score: NS 3 - CA 8
  - name: Miskew, Emma
    totals:
     - event: Hearts

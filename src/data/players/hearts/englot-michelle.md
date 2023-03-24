@@ -214,7 +214,6 @@ vs:
  - Brophy, Kathy
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Katie
  - Brown, Marcie
  - Burgess, Judy
  - Cameron, Nancy
@@ -237,7 +236,6 @@ vs:
  - Cordina, Sheri
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
@@ -251,7 +249,6 @@ vs:
  - Derry, Danielle
  - Deschatelets, Guylaine
  - deSolla, Jodie
- - Devereaux, Julie
  - Dezura, Diane
  - Doig, Deanna
  - Dolan, Kim
@@ -299,6 +296,7 @@ vs:
  - Hughes, Meaghan
  - Hunt, Donna
  - Hutchings, Denise
+ - Hynes, Julie
  - Iskiw, Beth
  - Jamieson, Shirley
  - Johnstone, Loralee
@@ -309,6 +307,7 @@ vs:
  - Kalenchuk, Heather
  - Karasek, Bev
  - Kellerman, Bev
+ - Kelly, Andrea
  - Kelly, Kim
  - Kennedy, Tracy
  - King, Shirley
@@ -359,7 +358,6 @@ vs:
  - McInnis, Susan
  - McNamee, Karen
  - McPherson, Cheryl
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Middaugh, Sherry
  - Miller, Wendy
@@ -429,6 +427,7 @@ vs:
  - Scott, Donna
  - Scott, Kelly
  - Shackleton, Amie
+ - Shea, Michelle
  - Sherrington, Barb
  - Sicinski, Danielle
  - Sigurdson, Janine
@@ -474,6 +473,7 @@ vs:
  - Wilkes, Sarah
  - Willms, Karri
  - Wilson, Patty
+ - Witt, Katie
  - Wylie, Jennifer
  - Yardley, Janelle
  - Young, Karen

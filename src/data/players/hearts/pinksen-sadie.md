@@ -4,19 +4,19 @@ name: Sadie Pinksen
 name-sort: Pinksen, Sadie
 totals:
  - event: Hearts
-   games: 30
+   games: 38
    wins: 3
-   losses: 27
-   inturn-total: 290
+   losses: 35
+   inturn-total: 363
    inturn-percent: 64
-   outturn-total: 254
-   outturn-percent: 67
-   draw-total: 283
+   outturn-total: 317
+   outturn-percent: 68
+   draw-total: 339
    draw-percent: 64
-   takeout-total: 261
-   takeout-percent: 66
-   shots-total: 544
-   shots-percent: 65
+   takeout-total: 341
+   takeout-percent: 67
+   shots-total: 680
+   shots-percent: 66
 years:
  - year: 2019
    event: Hearts
@@ -119,6 +119,23 @@ years:
    takeout-percent: 61
    shots-total: 144
    shots-percent: 61
+ - year: 2023
+   event: Hearts
+   team: "NU"
+   position: Third
+   games: 8
+   wins: 0
+   losses: 8
+   inturn-total: 73
+   inturn-percent: 63
+   outturn-total: 63
+   outturn-percent: 72
+   draw-total: 56
+   draw-percent: 65
+   takeout-total: 80
+   takeout-percent: 69
+   shots-total: 136
+   shots-percent: 67
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -127,9 +144,12 @@ vs:
  - Arsenault-Bishop, Nicole
  - Babin, Jillian
  - Barker, Penny
+ - Barker, Shelley
  - Barron, Lauren
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birt, Suzanne
+ - Black, Christina
  - Boivin, Florence
  - Boudreault, Patricia
  - Brine, Jenn
@@ -143,12 +163,13 @@ vs:
  - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
- - Crawford, Andrea
  - Daigle, Julie
+ - Dubue, Lindsay
  - Dunn, Michelle
  - Einarson, Kerri
  - Enge, Jenna
  - Erickson, Rachel
+ - Everist, Karlee
  - Ferguson, Dana
  - Fisher, Sam
  - Flaxey, Allison
@@ -157,13 +178,17 @@ vs:
  - Fyfe, Liz
  - Gamble, Christie
  - Gates, Jennifer
+ - Grandy, Clancy
  - Hamilton, Beth
+ - Harris, Briane
  - Hawes, Dezaray
  - Hill, Sarah
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Jones, Jennifer
+ - Just, Sherry
+ - Kelly, Andrea
  - Kitz, Chaelynn
  - Knapp, Breanne
  - Kreviazuk, Cheryl
@@ -173,13 +198,14 @@ vs:
  - Lawton, Stefanie
  - Lilly, Kendra
  - Lister, Kendra
+ - Loken, Sarah
  - MacCuish, Kristin
+ - MacMillan, Kayla
  - Martin, Nancy
  - McCarville, Krista
  - McDonald, Taylor
- - McQuaid, Michelle
- - Meilleur, Briane
  - Mercer, Adrienne
+ - Middaugh, Kelly
  - Miskew, Emma
  - Munroe, Anna
  - Murphy, Sarah
@@ -190,23 +216,29 @@ vs:
  - Pincott, Erin
  - Potts, Sarah
  - Quillian, Sylvie
+ - Ramsay, Geri-Lynn
  - Riley, Emily
  - Rocque, Kelsey
  - Routledge, Alanna
  - Routledge, Jill
  - Rusnell, Jen
  - Sandwith, Carley
+ - Schafer, Kelly
  - Schmidt, Stephanie
  - Scotland, Nadine
  - Sharpe, Kelli
+ - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Sweeting, Val
  - Thevenot, Kara
  - Tingley, Jaclyn
+ - Tran, Brittany
  - Verreault, Noemie
  - Walker, Laura
  - Wark, Sarah

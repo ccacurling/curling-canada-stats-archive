@@ -40,7 +40,6 @@ vs:
  - Alexander, Diane
  - Bartlett, Sue Anne
  - Blanchard, Judy
- - Brown, Katie
  - Chapman, Kathy
  - Chaulk, Wendy
  - Dolan, Kim
@@ -80,4 +79,5 @@ vs:
  - Stricker, Joan
  - Turcotte, Kristin
  - Usher, Leanne
+ - Witt, Katie
 ---

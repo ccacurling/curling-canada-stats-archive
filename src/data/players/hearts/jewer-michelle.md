@@ -87,19 +87,19 @@ vs:
  - Birt, Suzanne
  - Carmody, Erin
  - Christianson, Marie
- - Crawford, Andrea
  - Forward, Katie
  - Galusha, Kerry
  - George, Tara
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Kelly, Andrea
  - Koltun, Sarah
  - Lawton, Stefanie
  - MacLean, Kari
  - McCarville, Krista
- - McQuaid, Michelle
  - O'Rourke, Kathy
  - Ramsay, Geri-Lynn
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Sippala, Ashley
  - Thevenot, Kara

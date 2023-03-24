@@ -40,7 +40,6 @@ vs:
  - Allardyce, Kathie
  - Aucoin, Shelley
  - Betker, Jan
- - Brown, Katie
  - Cameron, Nancy
  - Cunningham, Cathy
  - Ellwood, Laurie
@@ -79,5 +78,6 @@ vs:
  - Turcotte, Kristin
  - Usher, Leanne
  - Willms, Karri
+ - Witt, Katie
  - Wright, Susan
 ---

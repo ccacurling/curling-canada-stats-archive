@@ -116,7 +116,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Jessica
  - Curtis, Stacie
  - Davis, Brandee
@@ -151,6 +150,7 @@ vs:
  - Jones-Walker, Debbie
  - Joyce, Blisse
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - King, Cathy
  - Knapp, Breanne

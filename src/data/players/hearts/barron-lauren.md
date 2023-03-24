@@ -59,12 +59,12 @@ vs:
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - Martin, Nancy
- - McQuaid, Michelle
  - Njegovan, Selena
  - Peterman, Jocelyn
  - Pincott, Erin
  - Pinksen, Sadie
  - Riley, Emily
+ - Shea, Michelle
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Tingley, Jaclyn

@@ -176,6 +176,7 @@ vs:
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Hardy, Shelley
+ - Harris, Briane
  - Haughian, Jessie
  - Hill, Sarah
  - Holland, Amber
@@ -216,9 +217,7 @@ vs:
  - McConnery, Nancy
  - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Mercer, Adrienne
  - Middaugh, Sherry
  - Miller, Wendy
@@ -260,6 +259,7 @@ vs:
  - Scott, Kelly
  - Sharpe, Kelli
  - Shaw, Ladene
+ - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley

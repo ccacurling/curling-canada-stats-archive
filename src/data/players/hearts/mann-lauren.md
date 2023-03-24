@@ -78,7 +78,6 @@ vs:
  - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
- - Devereaux, Julie
  - Doig, Deanna
  - Dolan, Sinead
  - Enge, Jenna
@@ -92,6 +91,7 @@ vs:
  - Hastings, Julie
  - Homan, Rachel
  - Hughes, Meaghan
+ - Hynes, Julie
  - Jones, Jennifer
  - Kasner, Marliese
  - Kleibrink, Shannon
@@ -107,7 +107,6 @@ vs:
  - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - Miskew, Emma
  - Nedohin, Heather
  - Nixon, Amy
@@ -125,6 +124,7 @@ vs:
  - Saulnier, Andrea
  - Schmidt, Stephanie
  - Schneider, Lorraine
+ - Shea, Michelle
  - Sicinski, Danielle
  - Sippala, Ashley
  - Smith, Stacey

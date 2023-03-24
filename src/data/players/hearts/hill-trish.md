@@ -48,7 +48,6 @@ vs:
  - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
- - Devereaux, Julie
  - Doig, Deanna
  - Englot, Michelle
  - Eyamie, Lisa
@@ -56,6 +55,7 @@ vs:
  - Galusha, Kerry
  - Homan, Rachel
  - Hughes, Meaghan
+ - Hynes, Julie
  - Kleibrink, Shannon
  - Koehler, Megan
  - Lilly, Kendra
@@ -63,7 +63,6 @@ vs:
  - Mallett, Marla
  - Mattatall, Mary
  - McCarville, Krista
- - McQuaid, Michelle
  - Miskew, Emma
  - Nedohin, Heather
  - Nixon, Amy
@@ -74,6 +73,7 @@ vs:
  - Richards, Brette
  - Saulnier, Andrea
  - Schneider, Lorraine
+ - Shea, Michelle
  - Sicinski, Danielle
  - Sippala, Ashley
  - Weagle, Lisa

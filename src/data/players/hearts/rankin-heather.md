@@ -64,7 +64,6 @@ vs:
  - Bonar, Maureen
  - Breen, Theresa
  - Brophy, Kathy
- - Brown, Katie
  - Cameron, Nancy
  - Chapman, Kathy
  - Charette, Agnes
@@ -139,5 +138,6 @@ vs:
  - Turcotte, Kristin
  - Usher, Leanne
  - Willms, Karri
+ - Witt, Katie
  - Wright, Joanne
 ---

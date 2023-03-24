@@ -142,6 +142,34 @@ vs:
       year: 2017
       draw: Round Robin(14)
       score: PE 4 - AB 6
+ - name: Hynes, Julie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 80
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2017
+      draw: Round Robin(5)
+      score: AB 5 - NL 3
  - name: Koehler, Megan
    totals:
     - event: Hearts
@@ -366,34 +394,6 @@ vs:
       year: 2017
       draw: Round Robin(13)
       score: NS 11 - AB 10
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 1
-        losses: 0
-      player2:
-        percent: 85
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Third
-        percent: 73
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 85
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2017
-      draw: Round Robin(14)
-      score: PE 4 - AB 6
  - name: Miskew, Emma
    totals:
     - event: Hearts
@@ -674,6 +674,34 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: SK 7 - AB 10
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 85
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2017
+      draw: Round Robin(14)
+      score: PE 4 - AB 6
  - name: Sicinski, Danielle
    totals:
     - event: Hearts

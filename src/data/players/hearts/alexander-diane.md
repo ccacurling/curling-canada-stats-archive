@@ -77,7 +77,6 @@ vs:
  - Bartlett, Sue Anne
  - Betker, Jan
  - Blanchard, Judy
- - Brown, Katie
  - Cameron, Nancy
  - Carter, Linda
  - Chapman, Kathy
@@ -170,6 +169,7 @@ vs:
  - Wheatcroft, Georgina
  - Whitrow, Leanne
  - Willms, Karri
+ - Witt, Katie
  - Wright, Susan
  - Zeller, Lori
 ---

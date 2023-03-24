@@ -89,21 +89,20 @@ vs:
  - Cameron, Kate
  - Curtis, Erica
  - Curtis, Stacie
- - Devereaux, Julie
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
  - Englot, Michelle
  - Fullerton, Sarah
  - Gibson, Amy
+ - Harris, Briane
  - Hughes, Meaghan
+ - Hynes, Julie
  - Inglis, Danielle
  - Kreviazuk, Cheryl
  - LeDrew, Stephanie
  - MacPhee, Robyn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Moore, Kristie
  - O'Connor, Susan
  - Porter, Erin
@@ -111,6 +110,7 @@ vs:
  - Sagle, Karen
  - Scheidegger, Casey
  - Scheidegger, Jessie
+ - Shea, Michelle
  - Smallwood, Jody
  - Van Osch, Kalia
  - Van Osch, Kesa

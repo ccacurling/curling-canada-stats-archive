@@ -64,7 +64,6 @@ vs:
  - Carey, Chelsea
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Curtis, Erica
@@ -73,7 +72,6 @@ vs:
  - Darbyshire, Carolyn
  - Derry, Danielle
  - deSolla, Jodie
- - Devereaux, Julie
  - Doig, Deanna
  - Englot, Michelle
  - Eyamie, Lisa
@@ -86,8 +84,10 @@ vs:
  - Hill, Trish
  - Homan, Rachel
  - Hughes, Meaghan
+ - Hynes, Julie
  - Jones, Jennifer
  - Kasner, Marliese
+ - Kelly, Andrea
  - Koehler, Megan
  - Kreviazuk, Cheryl
  - Lang, Lorraine
@@ -107,7 +107,6 @@ vs:
  - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
- - McQuaid, Michelle
  - Miskew, Emma
  - Morris, Cori
  - Moses, Dawn
@@ -126,6 +125,7 @@ vs:
  - Sabourin, Joelle
  - Saulnier, Andrea
  - Schneider, Lorraine
+ - Shea, Michelle
  - Sicinski, Danielle
  - Singler, Sherri
  - Sippala, Ashley

@@ -270,34 +270,6 @@ vs:
       year: 2018
       draw: Pool(17)
       score: ON 3 - MB 11
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 1
-        losses: 0
-      player2:
-        percent: 84
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'ON'
-        position: Third
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 84
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Round Robin(7)
-      score: PE 6 - ON 8
  - name: McTaggart, Cary-Anne
    totals:
     - event: Hearts
@@ -990,6 +962,34 @@ vs:
       year: 2018
       draw: Round Robin(11)
       score: NU 2 - ON 12
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Round Robin(7)
+      score: PE 6 - ON 8
  - name: Sinclair, Andrea
    totals:
     - event: Hearts

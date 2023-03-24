@@ -222,7 +222,6 @@ vs:
  - Cordina, Sheri
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jessica
@@ -283,6 +282,7 @@ vs:
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kehler, Lorie
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - King, Cathy

@@ -130,7 +130,6 @@ vs:
  - Bonar, Maureen
  - Bradley, Shelley
  - Brown, Jacalyn
- - Brown, Katie
  - Burlington, Cheryl
  - Cameron, Nancy
  - Chapman, Kathy
@@ -265,6 +264,7 @@ vs:
  - Wheatcroft, Georgina
  - Whitaker, Lisa
  - Willms, Karri
+ - Witt, Katie
  - Wright, Susan
  - Young, Karen
 ---

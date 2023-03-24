@@ -1386,6 +1386,50 @@ vs:
       year: 2018
       draw: Round Robin(7)
       score: NU 4 - CA 13
+ - name: Hynes, Julie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 2
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'MB'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2017
+      draw: Round Robin(6)
+      score: NL 5 - MB 10
+    - player1:
+        team: 'CA'
+        position: Fourth
+        percent: 87
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Round Robin(9)
+      score: NL 5 - CA 8
  - name: Iskiw, Beth
    totals:
     - event: Hearts
@@ -1730,6 +1774,34 @@ vs:
       year: 1992
       draw: Round Robin(11)
       score: AB 2 - SK 9
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2012
+      draw: Round Robin(9)
+      score: NB 6 - SK 11
  - name: Kelly, Kim
    totals:
     - event: Hearts
@@ -3546,50 +3618,6 @@ vs:
       year: 1990
       draw: Round Robin(14)
       score: ON 4 - SK 5
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 2
-        losses: 0
-      player2:
-        percent: 88
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent: 73
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 91
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2017
-      draw: Round Robin(11)
-      score: PE 2 - MB 10
-    - player1:
-        team: 'CA'
-        position: Fourth
-        percent: 93
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 86
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Round Robin(11)
-      score: CA 7 - PE 5
  - name: McTaggart, Cary-Anne
    totals:
     - event: Hearts
@@ -5794,6 +5822,50 @@ vs:
       year: 2018
       draw: Round Robin(7)
       score: NU 4 - CA 13
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 2
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'MB'
+        position: Fourth
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2017
+      draw: Round Robin(11)
+      score: PE 2 - MB 10
+    - player1:
+        team: 'CA'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Round Robin(11)
+      score: CA 7 - PE 5
  - name: Sherrington, Barb
    totals:
     - event: Hearts
@@ -7342,6 +7414,34 @@ vs:
       year: 1992
       draw: Round Robin(16)
       score: SK 6 - ON 5
+ - name: Witt, Katie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 1
+        losses: 0
+      player2:
+        percent: 60
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 68
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 60
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 1990
+      draw: Round Robin(4)
+      score: SK 10 - QC 3
  - name: Wylie, Jennifer
    totals:
     - event: Hearts

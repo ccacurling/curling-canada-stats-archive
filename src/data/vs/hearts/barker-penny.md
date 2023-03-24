@@ -258,34 +258,6 @@ vs:
       year: 2022
       draw: Round Robin(17)
       score: SK 2 - WC 10
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 0
-        losses: 1
-      player2:
-        percent: 86
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 78
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 86
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(9)
-      score: NB 6 - SK 4
  - name: Curtis, Erica
    totals:
     - event: Hearts
@@ -426,34 +398,6 @@ vs:
       year: 2017
       draw: Round Robin(13)
       score: SK 7 - NT 8
- - name: Devereaux, Julie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 60
-        wins: 0
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 60
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2017
-      draw: Round Robin(2)
-      score: SK 4 - NL 7
  - name: Englot, Michelle
    totals:
     - event: Hearts
@@ -806,6 +750,62 @@ vs:
       year: 2022
       draw: Round Robin(11)
       score: SK 9 - PE 6
+ - name: Hynes, Julie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 60
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 60
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Round Robin(2)
+      score: SK 4 - NL 7
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(9)
+      score: NB 6 - SK 4
  - name: Koehler, Megan
    totals:
     - event: Hearts
@@ -1146,50 +1146,6 @@ vs:
       year: 2017
       draw: Round Robin(15)
       score: SK 10 - NS 4
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 74
-        wins: 1
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 65
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 74
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2017
-      draw: Round Robin(17)
-      score: SK 5 - PE 9
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 84
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 86
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Round Robin(11)
-      score: SK 9 - PE 6
  - name: Mercer, Adrienne
    totals:
     - event: Hearts
@@ -1698,6 +1654,50 @@ vs:
       year: 2022
       draw: Round Robin(5)
       score: NL 6 - SK 8
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 1
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 65
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 74
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Round Robin(17)
+      score: SK 5 - PE 9
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(11)
+      score: SK 9 - PE 6
  - name: Sippala, Ashley
    totals:
     - event: Hearts

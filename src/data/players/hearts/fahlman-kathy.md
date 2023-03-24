@@ -89,7 +89,6 @@ vs:
  - Blanchard, Judy
  - Bodogh, Marilyn
  - Bowering, Andrea
- - Brown, Katie
  - Brown, Marcie
  - Burry, Gail
  - Cameron, Nancy
@@ -187,4 +186,5 @@ vs:
  - Wheatcroft, Georgina
  - Willms, Karri
  - Wilson, Patty
+ - Witt, Katie
 ---

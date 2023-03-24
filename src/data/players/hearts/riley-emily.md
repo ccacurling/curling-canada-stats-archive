@@ -4,18 +4,18 @@ name: Emily Riley
 name-sort: Riley, Emily
 totals:
  - event: Hearts
-   games: 20
-   wins: 9
-   losses: 11
-   inturn-total: 229
-   inturn-percent: 74
-   outturn-total: 171
-   outturn-percent: 73
-   draw-total: 185
-   draw-percent: 71
-   takeout-total: 215
-   takeout-percent: 76
-   shots-total: 400
+   games: 29
+   wins: 14
+   losses: 15
+   inturn-total: 310
+   inturn-percent: 76
+   outturn-total: 258
+   outturn-percent: 72
+   draw-total: 252
+   draw-percent: 70
+   takeout-total: 316
+   takeout-percent: 77
+   shots-total: 568
    shots-percent: 74
 years:
  - year: 2021
@@ -52,6 +52,23 @@ years:
    takeout-percent: 74
    shots-total: 162
    shots-percent: 73
+ - year: 2023
+   event: Hearts
+   team: "QC"
+   position: Third
+   games: 9
+   wins: 5
+   losses: 4
+   inturn-total: 81
+   inturn-percent: 82
+   outturn-total: 87
+   outturn-percent: 68
+   draw-total: 67
+   draw-percent: 69
+   takeout-total: 101
+   takeout-percent: 79
+   shots-total: 168
+   shots-percent: 75
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -76,6 +93,7 @@ vs:
  - Christianson, Marie
  - Courtney, Joanne
  - Doerksen, Katherine
+ - Dubue, Lindsay
  - Duncan, Hollie
  - Eddy, Lori
  - Einarson, Kerri
@@ -84,13 +102,16 @@ vs:
  - Flemming, Margot
  - Fyfe, Liz
  - Galusha, Kerry
+ - Grandy, Clancy
  - Griffin, Alison
  - Hamilton, Beth
+ - Harris, Briane
  - Hawes, Dezaray
  - Hill, Sarah
  - Homan, Rachel
  - Hughes, Meaghan
  - Jones, Jennifer
+ - Just, Sherry
  - Kitz, Chaelynn
  - Knapp, Breanne
  - Koltun, Sarah
@@ -98,12 +119,13 @@ vs:
  - Lenentine, Lauren
  - Lister, Kendra
  - Loder, Jenna
+ - Loken, Sarah
  - MacCuish, Kristin
  - MacDonald, Kaitlin
+ - MacMillan, Kayla
+ - MacPhail, Brigitte
  - Martin, Nancy
  - McDonald, Taylor
- - McQuaid, Michelle
- - Meilleur, Briane
  - Mercer, Adrienne
  - Miskew, Emma
  - Njegovan, Selena
@@ -111,18 +133,27 @@ vs:
  - Peterson, Beth
  - Pincott, Erin
  - Pinksen, Sadie
+ - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
+ - Schafer, Kelly
  - Schraeder, Jeanna
  - Scotland, Nadine
+ - Shea, Michelle
+ - Silvernagle, Robyn
  - Simons, Renee
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Strybosch, Rachelle
  - Sweeting, Val
+ - Taylor, Alison
+ - Thevenot, Kara
  - Tingley, Jaclyn
  - Tran, Brittany
  - Tuor, Kimberly
  - Walker, Laura
  - Wallingham, Patty
  - Weagle, Lisa
+ - Webster, Crystal
  - Wilkes, Sarah
  - Zacharias, Emily
  - Zacharias, Mackenzie

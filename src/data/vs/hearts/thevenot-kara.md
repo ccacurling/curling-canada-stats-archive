@@ -6,13 +6,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 76
-        wins: 0
+        percent: 80
+        wins: 1
         losses: 1
       player2:
-        percent: 68
+        percent: 71
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'SK'
@@ -30,6 +30,22 @@ vs:
       year: 2019
       draw: Round Robin(8)
       score: SK 4 - NT 9
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(3)
+      score: AB 9 - SK 11
  - name: Verreault, Noemie
    totals:
     - event: Hearts
@@ -62,12 +78,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 87
+        percent: 86
         wins: 1
-        losses: 0
+        losses: 1
       player2:
         percent: 76
-        wins: 0
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -86,6 +102,22 @@ vs:
       year: 2020
       draw: Round Robin(8)
       score: SK 7 - AB 5
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(10)
+      score: SK 3 - WC 8
  - name: Wark, Sarah
    totals:
     - event: Hearts

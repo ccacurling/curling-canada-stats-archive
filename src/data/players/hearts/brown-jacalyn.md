@@ -64,7 +64,6 @@ vs:
  - Bradley, Shelley
  - Brown, Janet
  - Cordina, Sheri
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Darbyshire, Carolyn
@@ -86,6 +85,7 @@ vs:
  - Jones, Jennifer
  - Kasner, Marliese
  - Kehler, Lorie
+ - Kelly, Andrea
  - Kelly, Kim
  - Lang, Lorraine
  - Larouche, Marie-France

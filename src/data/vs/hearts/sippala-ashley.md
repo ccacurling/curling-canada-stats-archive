@@ -34,12 +34,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 76
+        percent: 77
         wins: 1
-        losses: 2
+        losses: 3
       player2:
-        percent: 80
-        wins: 2
+        percent: 81
+        wins: 3
         losses: 1
    games:
     - player1:
@@ -90,6 +90,22 @@ vs:
       year: 2022
       draw: Final(25)
       score: NO 6 - CA 9
+    - player1:
+        team: 'NO'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Semi-Final(24)
+      score: NO 5 - CA 7
  - name: Taylor, Alison
    totals:
     - event: Hearts
@@ -274,6 +290,34 @@ vs:
       year: 2010
       draw: Tie-Breaker(18)
       score: ON 10 - MB 3
+ - name: Tuor, Kimberly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 89
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(14)
+      score: NO 10 - YT 2
  - name: Udle, Teri
    totals:
     - event: Hearts
@@ -414,6 +458,34 @@ vs:
       year: 2020
       draw: Round Robin(12)
       score: AB 3 - NO 4
+ - name: Walter, Meghan
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 69
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(9)
+      score: NO 8 - WC 6
  - name: Weagle, Lisa
    totals:
     - event: Hearts
@@ -556,10 +628,10 @@ vs:
       player1:
         percent: 79
         wins: 1
-        losses: 2
+        losses: 3
       player2:
-        percent: 85
-        wins: 2
+        percent: 86
+        wins: 3
         losses: 1
    games:
     - player1:
@@ -610,6 +682,22 @@ vs:
       year: 2022
       draw: Round Robin(5)
       score: NO 5 - WC 8
+    - player1:
+        team: 'NO'
+        position: Second
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(6)
+      score: ON 7 - NO 5
  - name: Williamson, Ashley
    totals:
     - event: Hearts
@@ -698,4 +786,48 @@ vs:
       year: 2017
       draw: Round Robin(7)
       score: NO 7 - MB 8
+ - name: Zacharias, Mackenzie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 1
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 83
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(2)
+      score: NO 11 - MB 8
+    - player1:
+        team: 'NO'
+        position: Second
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 79
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Page 1-2(23)
+      score: NO 5 - MB 8
 ---

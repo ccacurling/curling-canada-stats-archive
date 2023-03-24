@@ -67,7 +67,6 @@ vs:
  - Carter, Sasha
  - Cooke, Gerri
  - Cordina, Sheri
- - Crawford, Andrea
  - Cunningham, Cathy
  - Curtis, Stacie
  - Delahunt, Nancy
@@ -94,6 +93,7 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - Kleibrink, Shannon

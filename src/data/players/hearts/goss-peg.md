@@ -166,7 +166,6 @@ vs:
  - Cooke, Gerri
  - Cordina, Sheri
  - Cormier, Sharon
- - Crawford, Andrea
  - Crouse, Jennifer
  - Currie, Wendy
  - Darbyshire, Carolyn
@@ -218,6 +217,7 @@ vs:
  - Kasner, Marliese
  - Kaylo, Kelly
  - Kehler, Lorie
+ - Kelly, Andrea
  - Kelly, Kim
  - Kennedy, Tracy
  - Kidd, Darlene

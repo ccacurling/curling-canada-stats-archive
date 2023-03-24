@@ -262,98 +262,6 @@ vs:
       year: 2010
       draw: Round Robin(3)
       score: TR 6 - BC 7
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 5
-        losses: 0
-      player2:
-        percent: 73
-        wins: 0
-        losses: 5
-   games:
-    - player1:
-        team: 'BC'
-        position: Second
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 81
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2006
-      draw: Round Robin(4)
-      score: NB 4 - BC 5
-    - player1:
-        team: 'BC'
-        position: Second
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 69
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(7)
-      score: BC 8 - NB 3
-    - player1:
-        team: 'BC'
-        position: Second
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 65
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2011
-      draw: Round Robin(16)
-      score: BC 6 - NB 4
-    - player1:
-        team: 'BC'
-        position: Third
-        percent: 94
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 79
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2012
-      draw: Round Robin(17)
-      score: NB 6 - BC 7
-    - player1:
-        team: 'BC'
-        position: Second
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 68
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2013
-      draw: Round Robin(8)
-      score: BC 13 - NB 7
  - name: Crouse, Jennifer
    totals:
     - event: Hearts
@@ -1942,6 +1850,34 @@ vs:
       year: 2008
       draw: Round Robin(1)
       score: ON 9 - CA 5
+ - name: Harris, Briane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 77
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Second
+        percent: 77
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(10)
+      score: CA 10 - BC 5
  - name: Harrison, Meredith
    totals:
     - event: Hearts
@@ -2730,6 +2666,98 @@ vs:
       year: 2005
       draw: Round Robin(4)
       score: SK 8 - BC 5
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 5
+        losses: 0
+      player2:
+        percent: 73
+        wins: 0
+        losses: 5
+   games:
+    - player1:
+        team: 'BC'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2006
+      draw: Round Robin(4)
+      score: NB 4 - BC 5
+    - player1:
+        team: 'BC'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2010
+      draw: Round Robin(7)
+      score: BC 8 - NB 3
+    - player1:
+        team: 'BC'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 65
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2011
+      draw: Round Robin(16)
+      score: BC 6 - NB 4
+    - player1:
+        team: 'BC'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2012
+      draw: Round Robin(17)
+      score: NB 6 - BC 7
+    - player1:
+        team: 'BC'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2013
+      draw: Round Robin(8)
+      score: BC 13 - NB 7
  - name: Kelly, Kim
    totals:
     - event: Hearts
@@ -4434,34 +4462,6 @@ vs:
       year: 2006
       draw: Round Robin(2)
       score: BC 6 - PE 3
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 77
-        wins: 0
-        losses: 1
-      player2:
-        percent: 89
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'BC'
-        position: Second
-        percent: 77
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 89
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(10)
-      score: CA 10 - BC 5
  - name: Middaugh, Sherry
    totals:
     - event: Hearts

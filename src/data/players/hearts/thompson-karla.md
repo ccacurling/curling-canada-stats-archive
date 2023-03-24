@@ -69,7 +69,6 @@ vs:
  - Cunningham, Cathy
  - Curtis, Stacie
  - Delahunt, Nancy
- - Devereaux, Julie
  - Dolan, Kim
  - Einarson, Kerri
  - Englot, Michelle
@@ -82,6 +81,7 @@ vs:
  - Harmark, Andra
  - Howard, Ashley
  - Hughes, Meaghan
+ - Hynes, Julie
  - Jones, Jennifer
  - Joyce, Blisse
  - Kelly, Kim

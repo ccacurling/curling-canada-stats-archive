@@ -98,7 +98,6 @@ vs:
  - Comeau, Sandy
  - Cooper, Kathryn
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Jessica
  - Delahunt, Nancy
  - Derick, Catherine
@@ -123,6 +122,7 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - Knezevic, Patti
  - Korab, Stephanie
@@ -142,7 +142,6 @@ vs:
  - McEwen, Dawn
  - McInnis, Susan
  - McPherson, Cheryl
- - McQuaid, Michelle
  - Miskew, Emma
  - Mittelstadt, Candice
  - Moriarty, Monica
@@ -165,6 +164,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli
+ - Shea, Michelle
  - Simons, Renee
  - Singler, Sherri
  - Smith, Stacey

@@ -110,12 +110,10 @@ vs:
  - Christianson, Marie
  - Cooke, Gerri
  - Cormier, Sharon
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Curtis, Stacie
  - Delahunt, Nancy
- - Devereaux, Julie
  - Dolan, Sinead
  - Dorosz, Peggy
  - Einarson, Kerri
@@ -137,10 +135,12 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hutton, Barb
+ - Hynes, Julie
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - Koehler, Megan

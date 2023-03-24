@@ -277,7 +277,6 @@ vs:
  - Cooper, Kathryn
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
@@ -289,7 +288,6 @@ vs:
  - Delahunt, Nancy
  - Derick, Catherine
  - deSolla, Jodie
- - Devereaux, Julie
  - Dolan, Kim
  - Dolan, Sinead
  - Dufresne, Audree
@@ -333,6 +331,7 @@ vs:
  - Hanna, Stephanie
  - Hardy, Shelley
  - Harmark, Andra
+ - Harris, Briane
  - Hastings, Julie
  - Haughian, Jessie
  - Hawes, Dezaray
@@ -342,6 +341,7 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
  - Inglis, Danielle
  - Iskiw, Beth
  - Johnston, Kara
@@ -350,6 +350,7 @@ vs:
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - Kidd, Darlene
  - King, Cathy
@@ -392,9 +393,7 @@ vs:
  - McCarville, Krista
  - McConnery, Nancy
  - McInnis, Susan
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
@@ -459,6 +458,7 @@ vs:
  - Scott, Kelly
  - Sharpe, Kelli
  - Shaw, Ladene
+ - Shea, Michelle
  - Shumay, Jill
  - Silvernagle, Robyn
  - Simmons, Cindy

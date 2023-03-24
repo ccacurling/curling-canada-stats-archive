@@ -79,7 +79,6 @@ vs:
  - Crouse, Jennifer
  - Curtis, Erica
  - Curtis, Stacie
- - Devereaux, Julie
  - Duncan, Hollie
  - Einarson, Kerri
  - Englot, Michelle
@@ -91,13 +90,13 @@ vs:
  - Harvey, Marie-Pier
  - Hughes, Meaghan
  - Hutchings, Denise
+ - Hynes, Julie
  - Jones, Jennifer
  - Kreviazuk, Cheryl
  - LeDrew, Stephanie
  - MacCuish, Kristin
  - MacPhee, Robyn
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Moore, Kristie
  - Njegovan, Selena
@@ -108,6 +107,7 @@ vs:
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Shackleton, Amie
+ - Shea, Michelle
  - Webster, Crystal
  - West, Christianne
  - Westcott, Raunora

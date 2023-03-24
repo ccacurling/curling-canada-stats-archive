@@ -374,34 +374,6 @@ vs:
       year: 2001
       draw: Page 3-4(20)
       score: QC 6 - ON 7
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 69
-        wins: 1
-        losses: 0
-      player2:
-        percent: 88
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent: 69
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 88
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2009
-      draw: Round Robin(1)
-      score: NB 5 - QC 7
  - name: Crouse, Jennifer
    totals:
     - event: Hearts
@@ -1178,6 +1150,34 @@ vs:
       year: 2001
       draw: Round Robin(9)
       score: SK 7 - QC 6
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 69
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2009
+      draw: Round Robin(1)
+      score: NB 5 - QC 7
  - name: Kelly, Kim
    totals:
     - event: Hearts

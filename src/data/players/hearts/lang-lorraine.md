@@ -186,7 +186,6 @@ vs:
  - Brophy, Kathy
  - Brothers, Jill
  - Brown, Jacalyn
- - Brown, Katie
  - Burgess, Carey
  - Burgess, Judy
  - Bush, Tracy
@@ -205,7 +204,6 @@ vs:
  - Cochrane, Judy
  - Comeau, Martine
  - Comeau, Sandy
- - Crawford, Andrea
  - Crocker, Rene
  - Crocker, Ruby
  - Crouse, Jennifer
@@ -264,6 +262,7 @@ vs:
  - Kasner, Marliese
  - Keays, Stella
  - Kehler, Lorie
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Heather
  - Kerr, Kathy
@@ -407,6 +406,7 @@ vs:
  - Whitaker, Carol
  - Whitrow, Leanne
  - Willms, Karri
+ - Witt, Katie
  - Wuthrich, Patti
  - Wright, Susan
  - Zeller, Lori

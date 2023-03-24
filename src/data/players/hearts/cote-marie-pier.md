@@ -42,20 +42,20 @@ vs:
  - Brown, Rachel
  - Cameron, Kate
  - Carey, Chelsea
- - Crawford, Andrea
  - Eddy, Lori
  - Einarson, Kerri
  - Ferguson, Dana
  - Forward, Katie
  - Gates, Jennifer
  - Griffin, Alison
+ - Harris, Briane
  - Hunkin, Jessie
+ - Kelly, Andrea
  - Lawton, Stefanie
  - Lilly, Kendra
  - MacDonald, Kaitlin
  - McCarville, Krista
  - McDonald, Taylor
- - Meilleur, Briane
  - Pinksen, Sadie
  - Scotland, Nadine
  - Silvernagle, Robyn

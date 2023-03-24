@@ -4,18 +4,18 @@ name: Krysten Karwacki
 name-sort: Karwacki, Krysten
 totals:
  - event: Hearts
-   games: 4
-   wins: 4
+   games: 6
+   wins: 6
    losses: 0
-   inturn-total: 2
-   inturn-percent: 88
-   outturn-total: 7
+   inturn-total: 3
+   inturn-percent: 92
+   outturn-total: 14
    outturn-percent: 68
-   draw-total: 2
-   draw-percent: 75
+   draw-total: 10
+   draw-percent: 73
    takeout-total: 7
    takeout-percent: 71
-   shots-total: 9
+   shots-total: 17
    shots-percent: 72
 years:
  - year: 2017
@@ -88,23 +88,46 @@ years:
    draw-percent: 75
    shots-total: 2
    shots-percent: 75
+ - year: 2023
+   event: Hearts
+   team: "CA"
+   position: Lead
+   games: 2
+   wins: 2
+   losses: 0
+   inturn-total: 1
+   inturn-percent: 100
+   outturn-total: 7
+   outturn-percent: 68
+   draw-total: 8
+   draw-percent: 72
+   shots-total: 8
+   shots-percent: 72
 vs:
+ - Ackerman, Skylar
  - Alcoe-Holland, Jill
+ - Birt, Suzanne
  - Brunton, Kira
  - Burns, Krysta
  - Cameron, Kate
+ - Christianson, Marie
  - Cutcliffe, Margaret
+ - Dolan, Sinead
  - Ferguson, Dana
  - Fullerton, Sarah
  - Gates, Amanda
  - Guy, Sara
  - Hughes, Meaghan
+ - Just, Sherry
  - MacPhee, Robyn
  - Mattatall, Mary
  - McDonald, Taylor
  - McEvoy, Julie
- - McQuaid, Michelle
+ - Schafer, Kelly
  - Scotland, Nadine
+ - Shea, Michelle
+ - Silvernagle, Robyn
  - Smith, Megan
+ - Thevenot, Kara
  - Walker, Laura
 ---

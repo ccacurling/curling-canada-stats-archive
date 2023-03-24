@@ -310,6 +310,50 @@ vs:
       year: 2014
       draw: Round Robin(2)
       score: ON 5 - SK 8
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 72
+        wins: 0
+        losses: 2
+      player2:
+        percent: 78
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'ON'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2014
+      draw: Round Robin(10)
+      score: NB 7 - ON 4
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(3)
+      score: WC 2 - NB 7
  - name: Knezevic, Patti
    totals:
     - event: Hearts
@@ -646,34 +690,6 @@ vs:
       year: 2014
       draw: Round Robin(15)
       score: ON 8 - MB 9
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 89
-        wins: 0
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'WC'
-        position: Second
-        percent: 89
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(9)
-      score: PE 8 - WC 7
  - name: Mercer, Adrienne
    totals:
     - event: Hearts
@@ -1122,6 +1138,34 @@ vs:
       year: 2022
       draw: Round Robin(1)
       score: WC 10 - NL 5
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(9)
+      score: PE 8 - WC 7
  - name: Sicinski, Danielle
    totals:
     - event: Hearts

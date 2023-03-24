@@ -4,19 +4,19 @@ name: Robyn Silvernagle
 name-sort: Silvernagle, Robyn
 totals:
  - event: Hearts
-   games: 25
-   wins: 15
-   losses: 10
-   inturn-total: 243
-   inturn-percent: 77
-   outturn-total: 235
-   outturn-percent: 76
-   draw-total: 216
-   draw-percent: 74
-   takeout-total: 262
-   takeout-percent: 78
-   shots-total: 478
-   shots-percent: 77
+   games: 33
+   wins: 17
+   losses: 16
+   inturn-total: 306
+   inturn-percent: 76
+   outturn-total: 320
+   outturn-percent: 75
+   draw-total: 294
+   draw-percent: 73
+   takeout-total: 332
+   takeout-percent: 77
+   shots-total: 626
+   shots-percent: 75
 years:
  - year: 2019
    event: Hearts
@@ -52,14 +52,34 @@ years:
    takeout-percent: 76
    shots-total: 228
    shots-percent: 75
+ - year: 2023
+   event: Hearts
+   team: "SK"
+   position: Fourth
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 63
+   inturn-percent: 71
+   outturn-total: 85
+   outturn-percent: 71
+   draw-total: 78
+   draw-percent: 70
+   takeout-total: 70
+   takeout-percent: 73
+   shots-total: 148
+   shots-percent: 71
 vs:
  - Armstrong, Jennifer
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
+ - Barker, Shelley
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
+ - Black, Christina
  - Brown, Corryn
  - Brown, Rachel
  - Cameron, Kate
@@ -67,33 +87,41 @@ vs:
  - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
- - Crawford, Andrea
+ - Dubue, Lindsay
  - Eddy, Lori
  - Einarson, Kerri
+ - Everist, Karlee
  - Ferguson, Dana
  - Forward, Katie
  - Galusha, Kerry
  - Gates, Jennifer
+ - Grandy, Clancy
  - Griffin, Alison
  - Guzzwell, Stephanie
  - Hamilton, Beth
+ - Harris, Briane
  - Haughian, Jessie
  - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
  - Jewer, Michelle
  - Jones, Jennifer
+ - Karwacki, Krysten
+ - Kelly, Andrea
  - Klymchuk, Ashley
  - Koltun, Sarah
  - Lawes, Kaitlyn
  - Lilly, Kendra
+ - Loken, Sarah
+ - MacCuish, Kristin
  - MacDonald, Kaitlin
+ - MacMillan, Kayla
+ - MacPhail, Brigitte
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
+ - Middaugh, Kelly
  - Miskew, Emma
  - Moore, Kristie
  - Peterman, Jocelyn
@@ -101,6 +129,8 @@ vs:
  - Pincott, Erin
  - Pinksen, Sadie
  - Potts, Sarah
+ - Ramsay, Geri-Lynn
+ - Riley, Emily
  - Routledge, Alanna
  - Routledge, Jill
  - Rusnell, Jen
@@ -109,9 +139,14 @@ vs:
  - Scotland, Nadine
  - Sharpe, Kelli
  - Shaw, Ladene
+ - Shea, Michelle
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
+ - St-Georges, Laurie
  - Strong, Helen
  - Sweeting, Val
+ - Taylor, Alison
  - Tran, Brittany
  - Verreault, Noemie
  - Walker, Laura

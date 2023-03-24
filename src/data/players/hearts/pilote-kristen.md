@@ -104,7 +104,6 @@ vs:
  - McEwen, Dawn
  - McInnis, Susan
  - McPherson, Cheryl
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Miskew, Emma
  - Moore, Kristie
@@ -121,6 +120,7 @@ vs:
  - Richard, Marie
  - Scheidegger, Casey
  - Schmidt, Stephanie
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Smith, Stacey
  - Snyder, Jane

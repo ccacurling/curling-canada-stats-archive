@@ -4,19 +4,19 @@ name: Margot Flemming
 name-sort: Flemming, Margot
 totals:
  - event: Hearts
-   games: 18
-   wins: 10
-   losses: 8
-   inturn-total: 184
-   inturn-percent: 74
-   outturn-total: 161
-   outturn-percent: 76
-   draw-total: 151
-   draw-percent: 78
-   takeout-total: 194
+   games: 26
+   wins: 14
+   losses: 12
+   inturn-total: 279
+   inturn-percent: 77
+   outturn-total: 222
+   outturn-percent: 75
+   draw-total: 217
+   draw-percent: 81
+   takeout-total: 284
    takeout-percent: 72
-   shots-total: 345
-   shots-percent: 75
+   shots-total: 501
+   shots-percent: 76
 years:
  - year: 2021
    event: Hearts
@@ -52,7 +52,25 @@ years:
    takeout-percent: 72
    shots-total: 194
    shots-percent: 75
+ - year: 2023
+   event: Hearts
+   team: "NT"
+   position: Third
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 95
+   inturn-percent: 82
+   outturn-total: 61
+   outturn-percent: 72
+   draw-total: 66
+   draw-percent: 86
+   takeout-total: 90
+   takeout-percent: 72
+   shots-total: 156
+   shots-percent: 78
 vs:
+ - Ackland, Abby
  - Armstrong, Hailey
  - Arsenault, Mary-Anne
  - Babin, Jillian
@@ -68,32 +86,47 @@ vs:
  - Brown, Rachel
  - Burgess, Karlee
  - Burns, Krysta
+ - Burt, Camille
  - Cameron, Kate
  - Campbell, Kerry
  - Carmody, Erin
  - Carter, Sasha
  - Courtney, Joanne
- - Crawford, Andrea
+ - Curtis, Erica
+ - Curtis, Stacie
  - Doerksen, Katherine
+ - Duncan, Chelsea
  - Duncan, Hollie
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Everist, Karlee
+ - Fleury, Tracy
  - Forward, Katie
  - Gates, Amanda
  - Guy, Sara
+ - Harris, Briane
+ - Haughian, Jessie
  - Homan, Rachel
+ - Hynes, Julie
+ - Jones, Jennifer
+ - Kelly, Andrea
  - Lenentine, Lauren
+ - Lilly, Kendra
  - Loder, Jenna
  - Logan, Emma
+ - McCarville, Krista
  - McDonald, Taylor
- - Meilleur, Briane
  - Miskew, Emma
  - Muise, Morgan
+ - Oliver, Sara
  - Peterson, Beth
+ - Potts, Sarah
  - Quillian, Sylvie
  - Riley, Emily
+ - Scheidegger, Casey
  - Schraeder, Jeanna
  - Scotland, Nadine
+ - Sippala, Ashley
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
@@ -103,6 +136,7 @@ vs:
  - Tuor, Kimberly
  - Walker, Laura
  - Wallingham, Patty
+ - Walter, Meghan
  - Wilkes, Sarah
  - Zacharias, Emily
  - Zacharias, Mackenzie

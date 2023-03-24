@@ -46,12 +46,12 @@ vs:
  - Clarke, Kristin
  - Courtney, Joanne
  - Curtis, Erica
- - Devereaux, Julie
  - Galusha, Kerry
  - Hamilton, Beth
  - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
+ - Hynes, Julie
  - Jones, Jennifer
  - Klymchuk, Ashley
  - Koltun, Sarah
@@ -59,11 +59,11 @@ vs:
  - Lawes, Kaitlyn
  - Logan, Emma
  - McEwen, Dawn
- - McQuaid, Michelle
  - Miskew, Emma
  - Peterman, Jocelyn
  - Pincott, Erin
  - Porter, Erin
  - Rizzo, Jo-Ann
+ - Shea, Michelle
  - Weagle, Lisa
 ---

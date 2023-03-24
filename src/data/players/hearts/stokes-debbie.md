@@ -176,7 +176,6 @@ vs:
  - Bowering, Andrea
  - Bowman, Mary
  - Brophy, Kathy
- - Brown, Katie
  - Brown, Marcie
  - Brown, Maureen
  - Burgess, Judy
@@ -362,4 +361,5 @@ vs:
  - Whitrow, Leanne
  - Willms, Karri
  - Wilson, Patty
+ - Witt, Katie
 ---

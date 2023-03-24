@@ -4,19 +4,19 @@ name: Stacie Curtis
 name-sort: Curtis, Stacie
 totals:
  - event: Hearts
-   games: 53
-   wins: 15
-   losses: 38
-   inturn-total: 439
-   inturn-percent: 67
-   outturn-total: 533
-   outturn-percent: 69
-   draw-total: 462
-   draw-percent: 64
-   takeout-total: 510
+   games: 61
+   wins: 17
+   losses: 44
+   inturn-total: 506
+   inturn-percent: 68
+   outturn-total: 612
+   outturn-percent: 70
+   draw-total: 545
+   draw-percent: 67
+   takeout-total: 573
    takeout-percent: 72
-   shots-total: 972
-   shots-percent: 68
+   shots-total: 1118
+   shots-percent: 69
 years:
  - year: 2011
    event: Hearts
@@ -103,7 +103,25 @@ years:
    takeout-percent: 76
    shots-total: 169
    shots-percent: 73
+ - year: 2023
+   event: Hearts
+   team: "NL"
+   position: Fourth
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 67
+   inturn-percent: 75
+   outturn-total: 79
+   outturn-percent: 76
+   draw-total: 83
+   draw-percent: 78
+   takeout-total: 63
+   takeout-percent: 73
+   shots-total: 146
+   shots-percent: 76
 vs:
+ - Ackland, Abby
  - Adams, Melissa
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
@@ -120,14 +138,18 @@ vs:
  - Beauchamp, Sasha
  - Belisle, Eve
  - Bell, Chelsey
+ - Birnie, Hailey
  - Birt, Suzanne
  - Boyle, Jane
  - Bradley, Shelley
  - Brassard, Veronique
  - Briand, Oye-Sem Won
  - Brothers, Jill
+ - Brunton, Kira
+ - Burgess, Karlee
  - Cameron, Kate
  - Campbell, Jolene
+ - Campbell, Kerry
  - Carey, Chelsea
  - Carter, Sasha
  - Cheveldave, Amber
@@ -135,18 +157,22 @@ vs:
  - Christianson, Marie
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
  - deSolla, Jodie
  - Doig, Deanna
  - Dufresne, Audree
+ - Duncan, Chelsea
  - Duncan, Hollie
  - Dykstra, Michelle
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Englot, Michelle
  - Eyamie, Lisa
+ - Flemming, Margot
+ - Fleury, Tracy
+ - Forward, Katie
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gagne, Emilia
@@ -157,6 +183,7 @@ vs:
  - Hanna, Jenn
  - Hanna, Stephanie
  - Harvey, Marie-Pier
+ - Haughian, Jessie
  - Hill, Trish
  - Holland, Amber
  - Holtby, Taryn
@@ -170,10 +197,12 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Kelly, Kim
  - Kleibrink, Shannon
  - Knapp, Breanne
  - Koehler, Megan
+ - Koltun, Sarah
  - Kreviazuk, Alison
  - Kreviazuk, Cheryl
  - Larouche, Marie-France
@@ -181,6 +210,7 @@ vs:
  - Lawes, Kaitlyn
  - LeDrew, Stephanie
  - Lemay, Annie
+ - Lenentine, Lauren
  - Lilly, Kendra
  - Lister, Kendra
  - MacCuish, Kristin
@@ -191,8 +221,8 @@ vs:
  - Mann, Lauren
  - Mattatall, Mary
  - McCarville, Krista
+ - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Middaugh, Sherry
  - Miller, Wendy
@@ -208,6 +238,7 @@ vs:
  - Nowlan, Denise
  - O'Connor, Susan
  - Officer, Jill
+ - Oliver, Sara
  - O'Neill, Brit
  - O'Rourke, Brittany
  - Overton-Clapham, Cathy
@@ -221,6 +252,7 @@ vs:
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
+ - Rizzo, Jo-Ann
  - Ross, Allison
  - Sagle, Karen
  - Saulnier, Andrea
@@ -232,6 +264,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shackleton, Amie
+ - Shea, Michelle
  - Shumay, Jill
  - Sicinski, Danielle
  - Sippala, Ashley
@@ -239,11 +272,13 @@ vs:
  - Sobey, Lianne
  - Thiessen, Alison
  - Thompson, Karla
+ - Tuor, Kimberly
  - Udle, Teri
  - Vandale, Trysta
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
+ - Walter, Meghan
  - Wazney, Sarah
  - Weagle, Lisa
  - Webster, Bronwen
@@ -252,4 +287,5 @@ vs:
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
+ - Zacharias, Mackenzie
 ---

@@ -76,8 +76,8 @@ vs:
  - Duncan, Hollie
  - Einarson, Kerri
  - Ferguson, Dana
+ - Harris, Briane
  - McDonald, Taylor
- - Meilleur, Briane
  - Scotland, Nadine
  - Strybosch, Rachelle
  - Sweeting, Val

@@ -4,19 +4,19 @@ name: Sarah Koltun
 name-sort: Koltun, Sarah
 totals:
  - event: Hearts
-   games: 42
-   wins: 15
-   losses: 27
-   inturn-total: 427
-   inturn-percent: 74
-   outturn-total: 355
-   outturn-percent: 73
-   draw-total: 376
-   draw-percent: 70
-   takeout-total: 406
+   games: 50
+   wins: 19
+   losses: 31
+   inturn-total: 542
+   inturn-percent: 75
+   outturn-total: 396
+   outturn-percent: 72
+   draw-total: 458
+   draw-percent: 72
+   takeout-total: 480
    takeout-percent: 76
-   shots-total: 782
-   shots-percent: 73
+   shots-total: 938
+   shots-percent: 74
 years:
  - year: 2014
    event: Hearts
@@ -103,7 +103,25 @@ years:
    takeout-percent: 76
    shots-total: 194
    shots-percent: 75
+ - year: 2023
+   event: Hearts
+   team: "NT"
+   position: Second
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 115
+   inturn-percent: 78
+   outturn-total: 41
+   outturn-percent: 72
+   draw-total: 82
+   draw-percent: 78
+   takeout-total: 74
+   takeout-percent: 75
+   shots-total: 156
+   shots-percent: 77
 vs:
+ - Ackland, Abby
  - Adams, Melissa
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -122,9 +140,11 @@ vs:
  - Birt, Suzanne
  - Black, Christina
  - Bobbie, Tess
+ - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
  - Burgess, Karlee
+ - Burt, Camille
  - Cameron, Kate
  - Campbell, Kerry
  - Carey, Chelsea
@@ -134,18 +154,18 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Jessica
  - Curtis, Erica
+ - Curtis, Stacie
  - deSolla, Jodie
- - Devereaux, Julie
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Everist, Karlee
  - Ferguson, Dana
  - Fesser, Kourtney
@@ -160,14 +180,17 @@ vs:
  - Gates, Amanda
  - Guzzwell, Stephanie
  - Hamilton, Beth
+ - Harris, Briane
  - Haughian, Jessie
  - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
  - Jewer, Michelle
  - Jones, Jennifer
  - Kasner, Marliese
+ - Kelly, Andrea
  - Klymchuk, Ashley
  - Knezevic, Patti
  - Korchinski, Karlee
@@ -178,29 +201,31 @@ vs:
  - Lawton, Stefanie
  - LeDrew, Stephanie
  - Lenentine, Lauren
+ - Lilly, Kendra
  - Lister, Kendra
  - Logan, Emma
  - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacPhee, Robyn
+ - McCarville, Krista
  - McDonald, Kristy
  - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Miskew, Emma
  - Moore, Kristie
  - Muise, Morgan
  - Njegovan, Selena
  - Nugent, Pamela
  - Officer, Jill
+ - Oliver, Sara
  - O'Rourke, Brittany
  - Parsons, Danielle
  - Peterman, Jocelyn
  - Pincott, Erin
  - Plonka, Gabrielle
  - Porter, Erin
+ - Potts, Sarah
  - Price, Kara
  - Quillian, Sylvie
  - Riley, Emily
@@ -213,8 +238,10 @@ vs:
  - Scotland, Nadine
  - Sharpe, Kelli
  - Shaw, Ladene
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Singler, Sherri
+ - Sippala, Ashley
  - Smallwood, Jody
  - St-Georges, Cynthia
  - St-Georges, Laurie
@@ -229,8 +256,10 @@ vs:
  - Tuor, Kimberly
  - Walker, Laura
  - Wallingham, Patty
+ - Walter, Meghan
  - Weagle, Lisa
  - Webster, Crystal
+ - Wilkes, Sarah
  - Wylie, Jennifer
  - Zacharias, Emily
  - Zacharias, Mackenzie

@@ -342,6 +342,34 @@ vs:
       year: 1997
       draw: Round Robin(16)
       score: NB 8 - ON 5
+ - name: Harris, Briane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 64
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Fourth
+        percent: 64
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(3)
+      score: MB 6 - NU 4
  - name: Harvey, Alison
    totals:
     - event: Hearts
@@ -762,6 +790,34 @@ vs:
       year: 1997
       draw: Round Robin(15)
       score: ON 8 - TR 5
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 95
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 95
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(8)
+      score: NB 5 - NU 2
  - name: Kelly, Kim
    totals:
     - event: Hearts
@@ -1358,62 +1414,6 @@ vs:
       year: 2020
       draw: Round Robin(2)
       score: NU 3 - AB 8
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 72
-        wins: 0
-        losses: 1
-      player2:
-        percent: 89
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NU'
-        position: Fourth
-        percent: 72
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 89
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(17)
-      score: PE 10 - NU 8
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 64
-        wins: 0
-        losses: 1
-      player2:
-        percent: 88
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NU'
-        position: Fourth
-        percent: 64
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(3)
-      score: MB 6 - NU 4
  - name: Mercer, Adrienne
    totals:
     - event: Hearts
@@ -1938,6 +1938,34 @@ vs:
       year: 2020
       draw: Round Robin(2)
       score: NU 3 - AB 8
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 72
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(17)
+      score: PE 10 - NU 8
  - name: Silvernagle, Robyn
    totals:
     - event: Hearts

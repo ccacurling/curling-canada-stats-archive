@@ -4,18 +4,18 @@ name: Brittany Tran
 name-sort: Tran, Brittany
 totals:
  - event: Hearts
-   games: 19
-   wins: 10
-   losses: 9
-   inturn-total: 233
+   games: 27
+   wins: 14
+   losses: 13
+   inturn-total: 309
    inturn-percent: 82
-   outturn-total: 128
-   outturn-percent: 74
-   draw-total: 269
-   draw-percent: 81
-   takeout-total: 92
-   takeout-percent: 75
-   shots-total: 361
+   outturn-total: 208
+   outturn-percent: 75
+   draw-total: 317
+   draw-percent: 80
+   takeout-total: 200
+   takeout-percent: 79
+   shots-total: 517
    shots-percent: 79
 years:
  - year: 2019
@@ -52,15 +52,35 @@ years:
    takeout-percent: 72
    shots-total: 233
    shots-percent: 82
+ - year: 2023
+   event: Hearts
+   team: "AB"
+   position: Third
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 76
+   inturn-percent: 82
+   outturn-total: 80
+   outturn-percent: 78
+   draw-total: 48
+   draw-percent: 76
+   takeout-total: 108
+   takeout-percent: 82
+   shots-total: 156
+   shots-percent: 80
 vs:
  - Armstrong, Hailey
  - Armstrong, Jennifer
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
+ - Barker, Shelley
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
+ - Black, Christina
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Rachel
@@ -72,16 +92,20 @@ vs:
  - Carmody, Erin
  - Christianson, Marie
  - Courtney, Joanne
- - Crawford, Andrea
+ - Desjardins, Emilie
+ - Dubue, Lindsay
  - Einarson, Kerri
+ - Everist, Karlee
  - Flemming, Margot
  - Forward, Katie
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
+ - Grandy, Clancy
  - Guy, Sara
  - Guzzwell, Stephanie
  - Hamilton, Beth
+ - Harris, Briane
  - Haughian, Jessie
  - Holland, Amber
  - Homan, Rachel
@@ -89,34 +113,44 @@ vs:
  - Hunkin, Jessie
  - Jewer, Michelle
  - Jones, Jennifer
+ - Just, Sherry
+ - Kelly, Andrea
  - Kitz, Chaelynn
  - Knapp, Breanne
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lenentine, Lauren
  - Logan, Emma
+ - Loken, Sarah
  - MacCuish, Kristin
+ - MacDonald, Kaitlin
+ - MacMillan, Kayla
+ - MacPhail, Brigitte
  - Martin, Nancy
  - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
+ - Middaugh, Kelly
  - Miskew, Emma
  - Moore, Kristie
  - Njegovan, Selena
  - Peterman, Jocelyn
+ - Pinksen, Sadie
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Routledge, Alanna
+ - Schafer, Kelly
  - Scheidegger, Casey
  - Sharpe, Kelli
  - Shaw, Ladene
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Strong, Helen
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Kara
  - Walker, Laura
  - Weagle, Lisa

@@ -212,7 +212,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Crispo, Guylaine
  - Crouse, Jennifer
  - Cunningham, Cathy
@@ -285,6 +284,7 @@ vs:
  - Karam, Sally
  - Kasner, Marliese
  - Kaylo, Kelly
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - King, Cathy

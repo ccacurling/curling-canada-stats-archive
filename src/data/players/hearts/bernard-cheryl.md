@@ -117,7 +117,6 @@ vs:
  - Combden, Cathy
  - Comeau, Sandy
  - Cooke, Gerri
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Daniel, Sylvie
@@ -153,6 +152,7 @@ vs:
  - Jones, Jennifer
  - Kasner, Marliese
  - Kehler, Lorie
+ - Kelly, Andrea
  - Kelly, Kim
  - Kennedy, Tracy
  - Kerr, Kathy

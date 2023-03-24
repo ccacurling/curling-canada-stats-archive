@@ -68,7 +68,6 @@ vs:
  - Bartlett, Sue Anne
  - Betker, Jan
  - Blanchard, Judy
- - Brown, Katie
  - Cameron, Nancy
  - Chapman, Kathy
  - Chaulk, Wendy
@@ -135,5 +134,6 @@ vs:
  - Thomas, Maria
  - Usher, Leanne
  - Willms, Karri
+ - Witt, Katie
  - Wright, Susan
 ---

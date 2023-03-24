@@ -186,7 +186,6 @@ vs:
  - Bowering, Andrea
  - Bradley, Shelley
  - Breen, Theresa
- - Brown, Katie
  - Brown, Marcie
  - Bryant, Angie
  - Burry, Gail
@@ -394,6 +393,7 @@ vs:
  - Whitrow, Leanne
  - Willms, Karri
  - Wilson, Patty
+ - Witt, Katie
  - Wright, Susan
  - Zeller, Lori
  - Zinck, Kay

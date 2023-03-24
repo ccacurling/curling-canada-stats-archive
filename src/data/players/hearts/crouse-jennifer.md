@@ -121,7 +121,6 @@ vs:
  - Carter, Sasha
  - Comeau, Martine
  - Cormier, Sharon
- - Crawford, Andrea
  - Cunningham, Cathy
  - Darbyshire, Carolyn
  - deSolla, Jodie
@@ -150,6 +149,7 @@ vs:
  - Kalenchuk, Heather
  - Kallechy, Rachelle
  - Kasner, Marliese
+ - Kelly, Andrea
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee

@@ -4,18 +4,18 @@ name: Erica Curtis
 name-sort: Curtis, Erica
 totals:
  - event: Hearts
-   games: 27
-   wins: 10
-   losses: 17
-   inturn-total: 239
-   inturn-percent: 75
-   outturn-total: 265
+   games: 35
+   wins: 12
+   losses: 23
+   inturn-total: 318
+   inturn-percent: 74
+   outturn-total: 334
    outturn-percent: 76
-   draw-total: 370
+   draw-total: 443
    draw-percent: 78
-   takeout-total: 134
-   takeout-percent: 68
-   shots-total: 504
+   takeout-total: 209
+   takeout-percent: 69
+   shots-total: 652
    shots-percent: 75
 years:
  - year: 2017
@@ -69,7 +69,25 @@ years:
    takeout-percent: 64
    shots-total: 128
    shots-percent: 61
+ - year: 2023
+   event: Hearts
+   team: "NL"
+   position: Third
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 79
+   inturn-percent: 70
+   outturn-total: 69
+   outturn-percent: 77
+   draw-total: 73
+   draw-percent: 76
+   takeout-total: 75
+   takeout-percent: 70
+   shots-total: 148
+   shots-percent: 73
 vs:
+ - Ackland, Abby
  - Adams, Melissa
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
@@ -83,8 +101,12 @@ vs:
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
+ - Brothers, Jill
  - Brown, Corryn
+ - Brunton, Kira
+ - Burgess, Karlee
  - Cameron, Kate
+ - Campbell, Kerry
  - Carey, Chelsea
  - Chislett, Geneva
  - Christianson, Marie
@@ -96,24 +118,31 @@ vs:
  - Doig, Deanna
  - Duncan, Chelsea
  - Duncan, Hollie
+ - Elias, Mackenzie
  - Englot, Michelle
  - Eyamie, Lisa
+ - Flemming, Margot
+ - Fleury, Tracy
+ - Forward, Katie
  - Fullerton, Sarah
  - Gagne, Emilia
  - Galusha, Kerry
  - Gibson, Amy
  - Harvey, Marie-Pier
+ - Haughian, Jessie
  - Hill, Trish
  - Homan, Rachel
  - Hughes, Meaghan
  - Hutchings, Denise
  - Jones, Jennifer
+ - Kelly, Andrea
  - Klymchuk, Ashley
  - Koehler, Megan
  - Koltun, Sarah
  - Kreviazuk, Cheryl
  - Lawes, Kaitlyn
  - LeDrew, Stephanie
+ - Lenentine, Lauren
  - Lilly, Kendra
  - Lister, Kendra
  - Logan, Emma
@@ -122,14 +151,15 @@ vs:
  - Mann, Lauren
  - Mattatall, Mary
  - McCarville, Krista
+ - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Miskew, Emma
  - Moore, Kristie
  - Nedohin, Heather
  - Nixon, Amy
  - O'Connor, Susan
+ - Oliver, Sara
  - O'Rourke, Brittany
  - Perron, Melina
  - Peterman, Jocelyn
@@ -147,6 +177,7 @@ vs:
  - Scheidegger, Jessie
  - Schneider, Lorraine
  - Shackleton, Amie
+ - Shea, Michelle
  - Sicinski, Danielle
  - Sippala, Ashley
  - Thiessen, Alison
@@ -154,9 +185,11 @@ vs:
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
+ - Walter, Meghan
  - Weagle, Lisa
  - West, Christianne
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie
+ - Zacharias, Mackenzie
 ---

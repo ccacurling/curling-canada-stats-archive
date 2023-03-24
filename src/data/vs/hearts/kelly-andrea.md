@@ -1,2415 +1,7 @@
 ---
-title: Andrea Crawford Head-to-head
-name: Crawford, Andrea
+title: Andrea Kelly Head-to-head
+name: Kelly, Andrea
 vs:
- - name: Crouse, Jennifer
-   totals:
-    - event: Hearts
-      player1:
-        percent: 66
-        wins: 2
-        losses: 0
-      player2:
-        percent: 76
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Third
-        percent: 80
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2009
-      draw: Round Robin(15)
-      score: NB 9 - NS 8
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 53
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Third
-        percent: 72
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(5)
-      score: NB 10 - NS 6
- - name: Cunningham, Cathy
-   totals:
-    - event: Hearts
-      player1:
-        percent: 70
-        wins: 1
-        losses: 0
-      player2:
-        percent: 88
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 70
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Third
-        percent: 88
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2009
-      draw: Round Robin(16)
-      score: NL 5 - NB 6
- - name: Cunningham, Jennifer
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 0
-        losses: 1
-      player2:
-        percent: 82
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 86
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 82
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2012
-      draw: Round Robin(14)
-      score: NL 9 - NB 4
- - name: Cunningham, Jessica
-   totals:
-    - event: Hearts
-      player1:
-        percent: 85
-        wins: 1
-        losses: 0
-      player2:
-        percent: 56
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 85
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 56
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2014
-      draw: Round Robin(9)
-      score: NL 6 - NB 8
- - name: Curtis, Stacie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 59
-        wins: 1
-        losses: 1
-      player2:
-        percent: 55
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 50
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Fourth
-        percent: 59
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2011
-      draw: Round Robin(3)
-      score: NL 10 - NB 4
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 66
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Fourth
-        percent: 53
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2013
-      draw: Round Robin(10)
-      score: NL 7 - NB 10
- - name: Darbyshire, Carolyn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 54
-        wins: 0
-        losses: 1
-      player2:
-        percent: 100
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 54
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Second
-        percent: 100
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2009
-      draw: Round Robin(12)
-      score: NB 4 - AB 11
- - name: deJager, Blaine
-   totals:
-    - event: Hearts
-      player1:
-        percent: 89
-        wins: 1
-        losses: 0
-      player2:
-        percent: 75
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 89
-        win: 1
-        loss: 0
-      player2:
-        team: 'AB'
-        position: Third
-        percent: 75
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2013
-      draw: Round Robin(13)
-      score: NB 9 - AB 3
- - name: Delahunt, Nancy
-   totals:
-    - event: Hearts
-      player1:
-        percent: 59
-        wins: 0
-        losses: 1
-      player2:
-        percent: 82
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 59
-        win: 0
-        loss: 1
-      player2:
-        team: 'NS'
-        position: Lead
-        percent: 82
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2006
-      draw: Round Robin(16)
-      score: NS 6 - NB 3
- - name: Dolan, Kim
-   totals:
-    - event: Hearts
-      player1:
-        percent: 68
-        wins: 1
-        losses: 1
-      player2:
-        percent: 74
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 53
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2012
-      draw: Round Robin(16)
-      score: NB 4 - PE 11
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2014
-      draw: Round Robin(11)
-      score: PE 6 - NB 9
- - name: Dolan, Sinead
-   totals:
-    - event: Hearts
-      player1:
-        percent: 68
-        wins: 1
-        losses: 1
-      player2:
-        percent: 68
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 53
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Second
-        percent: 69
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2012
-      draw: Round Robin(16)
-      score: NB 4 - PE 11
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Second
-        percent: 66
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2014
-      draw: Round Robin(11)
-      score: PE 6 - NB 9
- - name: Dufresne, Audree
-   totals:
-    - event: Hearts
-      player1:
-        percent: 64
-        wins: 1
-        losses: 0
-      player2:
-        percent: 71
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 64
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
-        position: Third
-        percent: 71
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2013
-      draw: Round Robin(11)
-      score: NB 8 - QC 4
- - name: Duncan, Chelsea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 1
-        losses: 0
-      player2:
-        percent: 78
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 76
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
-        position: Third
-        percent: 78
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2014
-      draw: Round Robin(15)
-      score: TR 4 - NB 5
- - name: Dykstra, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 89
-        wins: 1
-        losses: 0
-      player2:
-        percent: 73
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 89
-        win: 1
-        loss: 0
-      player2:
-        team: 'AB'
-        position: Second
-        percent: 73
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2013
-      draw: Round Robin(13)
-      score: NB 9 - AB 3
- - name: Eddy, Lori
-   totals:
-    - event: Hearts
-      player1:
-        percent: 95
-        wins: 1
-        losses: 0
-      player2:
-        percent: 78
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 95
-        win: 1
-        loss: 0
-      player2:
-        team: 'NU'
-        position: Fourth
-        percent: 78
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Round Robin(8)
-      score: NB 5 - NU 2
- - name: Einarson, Kerri
-   totals:
-    - event: Hearts
-      player1:
-        percent: 68
-        wins: 2
-        losses: 1
-      player2:
-        percent: 74
-        wins: 1
-        losses: 2
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 63
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Fourth
-        percent: 64
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Round Robin(10)
-      score: MB 7 - NB 13
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 69
-        win: 1
-        loss: 0
-      player2:
-        team: 'CA'
-        position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Playoff(21)
-      score: CA 6 - NB 8
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 72
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Fourth
-        percent: 89
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Semi-Final(24)
-      score: NB 4 - CA 8
- - name: Einarson, Megan
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 1
-        losses: 0
-      player2:
-        percent: 57
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'AB'
-        position: Third
-        percent: 57
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(14)
-      score: AB 3 - NB 9
- - name: Ellis, Danielle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 1
-        losses: 0
-      player2:
-        percent: 77
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
-        position: Lead
-        percent: 77
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(9)
-      score: TR 5 - NB 7
- - name: Enge, Jenna
-   totals:
-    - event: Hearts
-      player1:
-        percent: 91
-        wins: 2
-        losses: 0
-      player2:
-        percent: 76
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 95
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Second
-        percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2012
-      draw: Round Robin(12)
-      score: NB 6 - ON 5
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 69
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Round Robin(9)
-      score: NB 6 - SK 4
- - name: Englot, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 67
-        wins: 0
-        losses: 1
-      player2:
-        percent: 83
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 67
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Fourth
-        percent: 83
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2012
-      draw: Round Robin(9)
-      score: NB 6 - SK 11
- - name: Enright, Barb
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 1
-        losses: 0
-      player2:
-        percent: 83
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2009
-      draw: Round Robin(11)
-      score: NB 10 - MB 7
- - name: Fallis, Karen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 91
-        wins: 1
-        losses: 0
-      player2:
-        percent: 69
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 91
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Third
-        percent: 69
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2011
-      draw: Round Robin(5)
-      score: NB 9 - MB 3
- - name: Ferguson, Dana
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 1
-        losses: 1
-      player2:
-        percent: 82
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 74
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Second
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2014
-      draw: Round Robin(7)
-      score: NB 8 - AB 9
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'CA'
-        position: Second
-        percent: 94
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Round Robin(14)
-      score: CA 5 - NB 7
- - name: Filteau, Anne-Marie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 74
-        wins: 1
-        losses: 0
-      player2:
-        percent: 84
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 74
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
-        position: Lead
-        percent: 84
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2012
-      draw: Round Robin(3)
-      score: NB 8 - QC 7
- - name: Flaxey, Allison
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 2
-        losses: 0
-      player2:
-        percent: 72
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 79
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 76
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2014
-      draw: Round Robin(10)
-      score: NB 7 - ON 4
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Second
-        percent: 68
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Round Robin(3)
-      score: WC 2 - NB 7
- - name: Flemming, Margot
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 1
-        losses: 0
-      player2:
-        percent: 78
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 73
-        win: 1
-        loss: 0
-      player2:
-        team: 'NT'
-        position: Second
-        percent: 78
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Playoff(20)
-      score: NT 6 - NB 8
- - name: Fleury, Tracy
-   totals:
-    - event: Hearts
-      player1:
-        percent: 95
-        wins: 1
-        losses: 0
-      player2:
-        percent: 96
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 95
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 96
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2012
-      draw: Round Robin(12)
-      score: NB 6 - ON 5
- - name: Foster, Kristen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 74
-        wins: 0
-        losses: 1
-      player2:
-        percent: 95
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 74
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Second
-        percent: 95
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2014
-      draw: Round Robin(13)
-      score: NB 4 - MB 8
- - name: Fullerton, Sarah
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 1
-        losses: 0
-      player2:
-        percent: 75
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Second
-        percent: 75
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2013
-      draw: Round Robin(2)
-      score: PE 5 - NB 11
- - name: Fyfe, Liz
-   totals:
-    - event: Hearts
-      player1:
-        percent: 85
-        wins: 1
-        losses: 0
-      player2:
-        percent: 74
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 85
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Second
-        percent: 74
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Round Robin(1)
-      score: NB 6 - WC 5
- - name: Gagnier, Monique
-   totals:
-    - event: Hearts
-      player1:
-        percent: 74
-        wins: 0
-        losses: 1
-      player2:
-        percent: 86
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 74
-        win: 0
-        loss: 1
-      player2:
-        team: 'TR'
-        position: Fourth
-        percent: 86
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2006
-      draw: Round Robin(10)
-      score: TR 9 - NB 4
- - name: Galusha, Kerry
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 4
-        losses: 3
-      player2:
-        percent: 74
-        wins: 3
-        losses: 4
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 74
-        win: 0
-        loss: 1
-      player2:
-        team: 'TR'
-        position: Third
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2006
-      draw: Round Robin(10)
-      score: TR 9 - NB 4
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 87
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
-        position: Fourth
-        percent: 76
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2009
-      draw: Round Robin(4)
-      score: TR 7 - NB 8
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'TR'
-        position: Fourth
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2011
-      draw: Round Robin(9)
-      score: NB 4 - TR 7
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
-        position: Fourth
-        percent: 73
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2012
-      draw: Round Robin(7)
-      score: TR 6 - NB 8
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 85
-        win: 1
-        loss: 0
-      player2:
-        team: 'TR'
-        position: Fourth
-        percent: 60
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2013
-      draw: Round Robin(5)
-      score: NB 9 - TR 5
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 77
-        win: 0
-        loss: 1
-      player2:
-        team: 'NT'
-        position: Fourth
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(2)
-      score: NT 11 - NB 5
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 73
-        win: 1
-        loss: 0
-      player2:
-        team: 'NT'
-        position: Lead
-        percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Playoff(20)
-      score: NT 6 - NB 8
- - name: Gamble, Christie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 1
-        losses: 0
-      player2:
-        percent: 81
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Third
-        percent: 81
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Round Robin(9)
-      score: NB 6 - SK 4
- - name: Gannon, Melissa
-   totals:
-    - event: Hearts
-      player1:
-        percent: 82
-        wins: 1
-        losses: 0
-      player2:
-        percent: 59
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 82
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
-        position: Third
-        percent: 59
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2014
-      draw: Round Robin(1)
-      score: NB 6 - QC 1
- - name: Gates, Amanda
-   totals:
-    - event: Hearts
-      player1:
-        percent: 95
-        wins: 1
-        losses: 0
-      player2:
-        percent: 81
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 95
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Lead
-        percent: 81
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2012
-      draw: Round Robin(12)
-      score: NB 6 - ON 5
- - name: Gates, Jennifer
-   totals:
-    - event: Hearts
-      player1:
-        percent: 64
-        wins: 0
-        losses: 1
-      player2:
-        percent: 85
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 64
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Lead
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(4)
-      score: NB 3 - NO 9
- - name: George, Tara
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 2
-        losses: 1
-      player2:
-        percent: 75
-        wins: 1
-        losses: 2
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 65
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Third
-        percent: 65
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2006
-      draw: Round Robin(14)
-      score: ON 9 - NB 12
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 91
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Third
-        percent: 80
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2009
-      draw: Round Robin(6)
-      score: ON 3 - NB 5
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Third
-        percent: 81
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2010
-      draw: Round Robin(1)
-      score: NB 2 - ON 9
- - name: Gilman, Sheena
-   totals:
-    - event: Hearts
-      player1:
-        percent: 66
-        wins: 2
-        losses: 0
-      player2:
-        percent: 69
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Second
-        percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2009
-      draw: Round Robin(15)
-      score: NB 9 - NS 8
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 53
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Second
-        percent: 69
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(5)
-      score: NB 10 - NS 6
- - name: Goss, Peg
-   totals:
-    - event: Hearts
-      player1:
-        percent: 70
-        wins: 1
-        losses: 0
-      player2:
-        percent: 80
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 70
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Lead
-        percent: 80
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2009
-      draw: Round Robin(16)
-      score: NL 5 - NB 6
- - name: Gregoire, Veronique
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 1
-        losses: 0
-      player2:
-        percent: 79
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 76
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
-        position: Second
-        percent: 79
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2011
-      draw: Round Robin(14)
-      score: QC 5 - NB 8
- - name: Griffin, Alison
-   totals:
-    - event: Hearts
-      player1:
-        percent: 95
-        wins: 1
-        losses: 0
-      player2:
-        percent: 57
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 95
-        win: 1
-        loss: 0
-      player2:
-        team: 'NU'
-        position: Second
-        percent: 57
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Round Robin(8)
-      score: NB 5 - NU 2
- - name: Gushulak, Diane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 0
-        losses: 2
-      player2:
-        percent: 78
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
-        position: Second
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2009
-      draw: Round Robin(10)
-      score: BC 7 - NB 5
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 68
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
-        position: Lead
-        percent: 89
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2013
-      draw: Round Robin(8)
-      score: BC 13 - NB 7
- - name: Guzzwell, Stephanie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 68
-        wins: 1
-        losses: 1
-      player2:
-        percent: 74
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 50
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Third
-        percent: 64
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2011
-      draw: Round Robin(3)
-      score: NL 10 - NB 4
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Third
-        percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2019
-      draw: Round Robin(14)
-      score: NB 10 - NL 5
- - name: Hamilton, Beth
-   totals:
-    - event: Hearts
-      player1:
-        percent: 80
-        wins: 2
-        losses: 0
-      player2:
-        percent: 61
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 48
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2019
-      draw: Round Robin(14)
-      score: NB 10 - NL 5
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 73
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Round Robin(15)
-      score: NL 5 - NB 10
- - name: Hardy, Shelley
-   totals:
-    - event: Hearts
-      player1:
-        percent: 58
-        wins: 0
-        losses: 2
-      player2:
-        percent: 72
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 67
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Third
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2006
-      draw: Round Robin(11)
-      score: NB 5 - NL 6
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 48
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Fourth
-        percent: 63
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2010
-      draw: Round Robin(13)
-      score: NB 7 - NL 9
- - name: Harvey, Janet
-   totals:
-    - event: Hearts
-      player1:
-        percent: 67
-        wins: 1
-        losses: 0
-      player2:
-        percent: 58
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 67
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Fourth
-        percent: 58
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2006
-      draw: Round Robin(7)
-      score: NB 7 - MB 4
- - name: Haughian, Jessie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 68
-        wins: 0
-        losses: 1
-      player2:
-        percent: 83
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 68
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Second
-        percent: 83
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(12)
-      score: NB 3 - WC 7
- - name: Hersikorn, Patty
-   totals:
-    - event: Hearts
-      player1:
-        percent: 69
-        wins: 0
-        losses: 1
-      player2:
-        percent: 50
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 69
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 50
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2013
-      draw: Round Robin(4)
-      score: SK 10 - NB 5
- - name: Hill, Sarah
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 1
-        losses: 0
-      player2:
-        percent: 56
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Fourth
-        percent: 56
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Round Robin(15)
-      score: NL 5 - NB 10
- - name: Holland, Amber
-   totals:
-    - event: Hearts
-      player1:
-        percent: 80
-        wins: 1
-        losses: 2
-      player2:
-        percent: 78
-        wins: 2
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 79
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Fourth
-        percent: 56
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(11)
-      score: NB 8 - SK 7
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Fourth
-        percent: 86
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2011
-      draw: Round Robin(15)
-      score: SK 7 - NB 6
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Fourth
-        percent: 91
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2012
-      draw: Round Robin(4)
-      score: CA 6 - NB 5
- - name: Hollands, Saskia
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 0
-        losses: 1
-      player2:
-        percent: 88
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 78
-        win: 0
-        loss: 1
-      player2:
-        team: 'QC'
-        position: Lead
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2006
-      draw: Round Robin(15)
-      score: NB 6 - QC 7
- - name: Holtby, Taryn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 69
-        wins: 0
-        losses: 1
-      player2:
-        percent: 78
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 69
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 78
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2013
-      draw: Round Robin(4)
-      score: SK 10 - NB 5
- - name: Homan, Rachel
-   totals:
-    - event: Hearts
-      player1:
-        percent: 70
-        wins: 0
-        losses: 3
-      player2:
-        percent: 87
-        wins: 3
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 67
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 92
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2011
-      draw: Round Robin(11)
-      score: NB 1 - ON 8
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 69
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 83
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2013
-      draw: Round Robin(7)
-      score: NB 5 - ON 7
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Fourth
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2014
-      draw: Round Robin(17)
-      score: CA 7 - NB 3
- - name: Hughes, Meaghan
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 1
-        losses: 1
-      player2:
-        percent: 82
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Second
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(10)
-      score: NB 12 - PE 13
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 76
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Second
-        percent: 78
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Round Robin(7)
-      score: PE 8 - NB 10
- - name: Hunkin, Jessie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 0
-        losses: 3
-      player2:
-        percent: 76
-        wins: 3
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 79
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(4)
-      score: SK 6 - NB 4
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 68
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 71
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(1)
-      score: SK 6 - NB 4
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 77
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Tie-Breaker(15)
-      score: SK 9 - NB 7
- - name: Iskiw, Beth
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 1
-        losses: 1
-      player2:
-        percent: 79
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 79
-        win: 1
-        loss: 0
-      player2:
-        team: 'AB'
-        position: Third
-        percent: 90
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2012
-      draw: Round Robin(8)
-      score: AB 5 - NB 8
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Third
-        percent: 68
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2013
-      draw: Round Robin(1)
-      score: CA 9 - NB 6
- - name: Jewer, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 1
-        losses: 0
-      player2:
-        percent: 83
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2019
-      draw: Round Robin(14)
-      score: NB 10 - NL 5
- - name: Johnston, Kara
-   totals:
-    - event: Hearts
-      player1:
-        percent: 69
-        wins: 0
-        losses: 1
-      player2:
-        percent: 65
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 69
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Third
-        percent: 65
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2013
-      draw: Round Robin(4)
-      score: SK 10 - NB 5
- - name: Jones, Colleen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 1
-        losses: 1
-      player2:
-        percent: 71
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 59
-        win: 0
-        loss: 1
-      player2:
-        team: 'NS'
-        position: Fourth
-        percent: 84
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2006
-      draw: Round Robin(16)
-      score: NS 6 - NB 3
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 87
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Second
-        percent: 59
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2013
-      draw: Round Robin(15)
-      score: NB 8 - NS 6
- - name: Jones, Jennifer
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 1
-        losses: 6
-      player2:
-        percent: 77
-        wins: 6
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Fourth
-        percent: 54
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2006
-      draw: Round Robin(12)
-      score: NB 8 - CA 12
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 86
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Fourth
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2009
-      draw: Round Robin(7)
-      score: NB 3 - CA 5
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 73
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Fourth
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2010
-      draw: Round Robin(3)
-      score: CA 5 - NB 4
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Fourth
-        percent: 82
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2011
-      draw: Round Robin(7)
-      score: NB 3 - CA 9
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 74
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Fourth
-        percent: 91
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2012
-      draw: Round Robin(2)
-      score: MB 7 - NB 3
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 68
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Fourth
-        percent: 84
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2013
-      draw: Round Robin(16)
-      score: MB 7 - NB 6
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'CA'
-        position: Fourth
-        percent: 63
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2019
-      draw: Round Robin(8)
-      score: NB 9 - CA 6
- - name: Joyce, Blisse
-   totals:
-    - event: Hearts
-      player1:
-        percent: 74
-        wins: 1
-        losses: 2
-      player2:
-        percent: 83
-        wins: 2
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'NS'
-        position: Second
-        percent: 68
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2011
-      draw: Round Robin(2)
-      score: NB 7 - NS 8
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 91
-        win: 1
-        loss: 0
-      player2:
-        team: 'NS'
-        position: Second
-        percent: 92
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2012
-      draw: Round Robin(10)
-      score: NS 4 - NB 8
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 59
-        win: 0
-        loss: 1
-      player2:
-        team: 'NS'
-        position: Second
-        percent: 93
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2014
-      draw: Round Robin(3)
-      score: NS 12 - NB 2
- - name: Kalenchuk, Heather
-   totals:
-    - event: Hearts
-      player1:
-        percent: 80
-        wins: 1
-        losses: 2
-      player2:
-        percent: 76
-        wins: 2
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 79
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Lead
-        percent: 66
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(11)
-      score: NB 8 - SK 7
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Lead
-        percent: 91
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2011
-      draw: Round Robin(15)
-      score: SK 7 - NB 6
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 71
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2012
-      draw: Round Robin(4)
-      score: CA 6 - NB 5
- - name: Kasner, Marliese
-   totals:
-    - event: Hearts
-      player1:
-        percent: 70
-        wins: 0
-        losses: 2
-      player2:
-        percent: 89
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 63
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Third
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2009
-      draw: Round Robin(14)
-      score: SK 10 - NB 4
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 77
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Lead
-        percent: 98
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2014
-      draw: Round Robin(6)
-      score: NB 3 - SK 9
  - name: Kelly, Kim
    totals:
     - event: Hearts
@@ -2602,12 +194,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 75
+        percent: 73
         wins: 2
-        losses: 1
+        losses: 2
       player2:
-        percent: 77
-        wins: 1
+        percent: 78
+        wins: 2
         losses: 2
    games:
     - player1:
@@ -2658,6 +250,22 @@ vs:
       year: 2022
       draw: Playoff(20)
       score: NT 6 - NB 8
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NT'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(2)
+      score: NT 6 - NB 4
  - name: Korab, Stephanie
    totals:
     - event: Hearts
@@ -3134,12 +742,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 67
+        percent: 70
         wins: 0
-        losses: 3
+        losses: 4
       player2:
-        percent: 74
-        wins: 3
+        percent: 76
+        wins: 4
         losses: 0
    games:
     - player1:
@@ -3190,6 +798,22 @@ vs:
       year: 2022
       draw: Page 1-2(23)
       score: NO 9 - NB 8
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(7)
+      score: NO 8 - NB 6
  - name: Loder, Cherie-Ann
    totals:
     - event: Hearts
@@ -3814,12 +1438,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 71
+        percent: 73
         wins: 2
-        losses: 4
+        losses: 5
       player2:
-        percent: 77
-        wins: 4
+        percent: 78
+        wins: 5
         losses: 2
    games:
     - player1:
@@ -3918,6 +1542,22 @@ vs:
       year: 2022
       draw: Page 1-2(23)
       score: NO 9 - NB 8
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(7)
+      score: NO 8 - NB 6
  - name: McConnery, Nancy
    totals:
     - event: Hearts
@@ -3994,13 +1634,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 56
-        wins: 0
+        percent: 74
+        wins: 1
         losses: 1
       player2:
-        percent: 79
+        percent: 90
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'NB'
@@ -4018,6 +1658,22 @@ vs:
       year: 2020
       draw: Round Robin(5)
       score: AB 8 - NB 3
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(10)
+      score: WC 6 - NB 7
  - name: McEwen, Dawn
    totals:
     - event: Hearts
@@ -4154,50 +1810,6 @@ vs:
       year: 2006
       draw: Round Robin(1)
       score: NB 9 - PE 3
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 1
-        losses: 1
-      player2:
-        percent: 76
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(10)
-      score: NB 12 - PE 13
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 76
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 66
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Round Robin(7)
-      score: PE 8 - NB 10
  - name: McTaggart, Cary-Anne
    totals:
     - event: Hearts
@@ -4226,66 +1838,6 @@ vs:
       year: 2019
       draw: Round Robin(12)
       score: NB 3 - WC 7
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 68
-        wins: 2
-        losses: 1
-      player2:
-        percent: 92
-        wins: 1
-        losses: 2
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 63
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 92
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Round Robin(10)
-      score: MB 7 - NB 13
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 69
-        win: 1
-        loss: 0
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 91
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Playoff(21)
-      score: CA 6 - NB 8
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 72
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 92
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Semi-Final(24)
-      score: NB 4 - CA 8
  - name: Mercer, Adrienne
    totals:
     - event: Hearts
@@ -4408,10 +1960,10 @@ vs:
       player1:
         percent: 72
         wins: 1
-        losses: 3
+        losses: 4
       player2:
-        percent: 76
-        wins: 3
+        percent: 78
+        wins: 4
         losses: 1
    games:
     - player1:
@@ -4478,6 +2030,22 @@ vs:
       year: 2022
       draw: Round Robin(3)
       score: WC 2 - NB 7
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Second
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(16)
+      score: NB 3 - ON 5
  - name: Moore, Kristie
    totals:
     - event: Hearts
@@ -5058,6 +2626,34 @@ vs:
       year: 2006
       draw: Round Robin(11)
       score: NB 5 - NL 6
+ - name: Oliver, Sara
+   totals:
+    - event: Hearts
+      player1:
+        percent: 82
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(11)
+      score: NB 5 - WC 8
  - name: Olson-Johns, Lori
    totals:
     - event: Hearts
@@ -5526,12 +3122,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 68
+        percent: 72
         wins: 0
-        losses: 2
+        losses: 3
       player2:
         percent: 92
-        wins: 2
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -5566,6 +3162,22 @@ vs:
       year: 2022
       draw: Page 1-2(23)
       score: NO 9 - NB 8
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(7)
+      score: NO 8 - NB 6
  - name: Rainville, Julie
    totals:
     - event: Hearts
@@ -5682,12 +3294,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 73
+        percent: 70
         wins: 1
-        losses: 0
+        losses: 1
       player2:
         percent: 74
-        wins: 0
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -5706,6 +3318,22 @@ vs:
       year: 2022
       draw: Playoff(20)
       score: NT 6 - NB 8
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NT'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(2)
+      score: NT 6 - NB 4
  - name: Robertson, Darcy
    totals:
     - event: Hearts
@@ -6078,13 +3706,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 68
-        wins: 0
+        percent: 78
+        wins: 1
         losses: 1
       player2:
-        percent: 81
+        percent: 80
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'NB'
@@ -6102,6 +3730,22 @@ vs:
       year: 2019
       draw: Round Robin(12)
       score: NB 3 - WC 7
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(10)
+      score: WC 6 - NB 7
  - name: Schmidt, Stephanie
    totals:
     - event: Hearts
@@ -6550,6 +4194,50 @@ vs:
       year: 2019
       draw: Round Robin(6)
       score: YT 3 - NB 12
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 1
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(10)
+      score: NB 12 - PE 13
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 66
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(7)
+      score: PE 8 - NB 10
  - name: Shumay, Jill
    totals:
     - event: Hearts
@@ -6770,12 +4458,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 67
+        percent: 70
         wins: 0
-        losses: 4
+        losses: 5
       player2:
         percent: 87
-        wins: 4
+        wins: 5
         losses: 0
    games:
     - player1:
@@ -6842,6 +4530,22 @@ vs:
       year: 2022
       draw: Page 1-2(23)
       score: NO 9 - NB 8
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(7)
+      score: NO 8 - NB 6
  - name: Slywka, Sarah
    totals:
     - event: Hearts
@@ -7546,6 +5250,34 @@ vs:
       year: 2019
       draw: Round Robin(2)
       score: NT 11 - NB 5
+ - name: Tuor, Kimberly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 91
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(6)
+      score: NB 14 - YT 3
  - name: Udle, Teri
    totals:
     - event: Hearts
@@ -7762,6 +5494,34 @@ vs:
       year: 2014
       draw: Round Robin(15)
       score: TR 4 - NB 5
+ - name: Walter, Meghan
+   totals:
+    - event: Hearts
+      player1:
+        percent: 82
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Fourth
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(11)
+      score: NB 5 - WC 8
  - name: Wasylkiw, Lauren
    totals:
     - event: Hearts
@@ -7966,12 +5726,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 81
+        percent: 78
         wins: 2
-        losses: 0
+        losses: 1
       player2:
-        percent: 82
-        wins: 0
+        percent: 87
+        wins: 1
         losses: 2
    games:
     - player1:
@@ -8006,6 +5766,22 @@ vs:
       year: 2022
       draw: Round Robin(3)
       score: WC 2 - NB 7
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 97
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(16)
+      score: NB 3 - ON 5
  - name: Wilson, Leslie
    totals:
     - event: Hearts
@@ -8078,4 +5854,60 @@ vs:
       year: 2012
       draw: Round Robin(12)
       score: NB 6 - ON 5
+ - name: Zacharias, Emily
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(17)
+      score: MB 8 - NB 5
+ - name: Zacharias, Mackenzie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(17)
+      score: MB 8 - NB 5
 ---

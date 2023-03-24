@@ -124,7 +124,6 @@ vs:
  - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
- - Crawford, Andrea
  - Daigle, Julie
  - Dunn, Michelle
  - Einarson, Kerri
@@ -135,12 +134,14 @@ vs:
  - Fyfe, Liz
  - Gates, Jennifer
  - Hamilton, Beth
+ - Harris, Briane
  - Hawes, Dezaray
  - Hill, Sarah
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Jones, Jennifer
+ - Kelly, Andrea
  - Kitz, Chaelynn
  - Knapp, Breanne
  - Kreviazuk, Cheryl
@@ -153,8 +154,6 @@ vs:
  - Martin, Nancy
  - McCarville, Krista
  - McDonald, Taylor
- - McQuaid, Michelle
- - Meilleur, Briane
  - Mercer, Adrienne
  - Miskew, Emma
  - Munroe, Anna
@@ -171,6 +170,7 @@ vs:
  - Rusnell, Jen
  - Sandwith, Carley
  - Scotland, Nadine
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Sippala, Ashley
  - St-Georges, Cynthia

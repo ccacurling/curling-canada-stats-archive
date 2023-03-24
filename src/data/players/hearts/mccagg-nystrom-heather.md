@@ -128,7 +128,6 @@ vs:
  - Comeau, Martine
  - Comeau, Sandy
  - Cordina, Sheri
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Darbyshire, Carolyn
@@ -159,6 +158,7 @@ vs:
  - Jones, Jennifer
  - Kasner, Marliese
  - Kehler, Lorie
+ - Kelly, Andrea
  - Kelly, Kim
  - Kidd, Darlene
  - King, Cathy

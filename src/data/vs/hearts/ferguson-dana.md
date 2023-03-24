@@ -390,6 +390,50 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: NO 2 - AB 12
+ - name: Harris, Briane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 72
+        wins: 0
+        losses: 2
+      player2:
+        percent: 92
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 72
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(7)
+      score: MB 6 - CA 5
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(8)
+      score: CA 10 - AB 5
  - name: Hastings, Julie
    totals:
     - event: Hearts
@@ -938,6 +982,50 @@ vs:
       year: 2015
       draw: Semi-Final(20)
       score: AB 7 - SK 6
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 82
+        wins: 1
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2014
+      draw: Round Robin(7)
+      score: NB 8 - AB 9
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(14)
+      score: CA 5 - NB 7
  - name: Klymchuk, Ashley
    totals:
     - event: Hearts
@@ -1786,66 +1874,6 @@ vs:
       year: 2015
       draw: Round Robin(13)
       score: ON 5 - AB 8
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 82
-        wins: 2
-        losses: 1
-      player2:
-        percent: 86
-        wins: 1
-        losses: 2
-   games:
-    - player1:
-        team: 'AB'
-        position: Second
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Second
-        percent: 79
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(8)
-      score: PE 5 - AB 6
-    - player1:
-        team: 'AB'
-        position: Second
-        percent: 71
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 87
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Pool(17)
-      score: PE 10 - AB 6
-    - player1:
-        team: 'CA'
-        position: Second
-        percent: 91
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 91
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Pool(19)
-      score: CA 5 - PE 3
  - name: McTaggart, Cary-Anne
    totals:
     - event: Hearts
@@ -1874,50 +1902,6 @@ vs:
       year: 2019
       draw: Pool(19)
       score: WC 8 - AB 9
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 72
-        wins: 0
-        losses: 2
-      player2:
-        percent: 92
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'CA'
-        position: Second
-        percent: 72
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 93
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(7)
-      score: MB 6 - CA 5
-    - player1:
-        team: 'AB'
-        position: Second
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 89
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(8)
-      score: CA 10 - AB 5
  - name: Miskew, Emma
    totals:
     - event: Hearts
@@ -2898,6 +2882,66 @@ vs:
       year: 2020
       draw: Round Robin(9)
       score: CA 7 - AB 5
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 82
+        wins: 2
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 2
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(8)
+      score: PE 5 - AB 6
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 87
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Pool(17)
+      score: PE 10 - AB 6
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Pool(19)
+      score: CA 5 - PE 3
  - name: Silvernagle, Robyn
    totals:
     - event: Hearts

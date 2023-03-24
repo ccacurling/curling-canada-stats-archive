@@ -69,7 +69,6 @@ vs:
  - Carlos, Marie-Claude
  - Cormier, Sharon
  - Couling, Betty
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Daku, Karen
@@ -95,6 +94,7 @@ vs:
  - Jones, Jennifer
  - Kasner, Marliese
  - Kaylo, Kelly
+ - Kelly, Andrea
  - King, Cathy
  - Lahucik, Val
  - Lang, Lorraine

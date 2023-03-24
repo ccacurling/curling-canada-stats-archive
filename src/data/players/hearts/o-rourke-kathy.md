@@ -160,7 +160,6 @@ vs:
  - Bohmer, Brenda
  - Bonar, Maureen
  - Brown, Janet
- - Brown, Katie
  - Burlington, Cheryl
  - Busche, Jodi
  - Byers, Denise
@@ -175,7 +174,6 @@ vs:
  - Cooke, Gerri
  - Cordina, Sheri
  - Cormier, Sharon
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Davis, Brandee
@@ -227,6 +225,7 @@ vs:
  - Karam, Sally
  - Kaylo, Kelly
  - Kehler, Lorie
+ - Kelly, Andrea
  - Kelly, Kim
  - Kennedy, Tracy
  - Kerr, Kathy
@@ -341,6 +340,7 @@ vs:
  - Wieler, Bev
  - Willms, Karri
  - Wilson, Leslie
+ - Witt, Katie
  - Wright, Susan
  - Zeller, Lori
  - Zielke, Colleen

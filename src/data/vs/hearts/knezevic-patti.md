@@ -270,34 +270,6 @@ vs:
       year: 2015
       draw: Round Robin(9)
       score: ON 9 - BC 4
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 1
-        losses: 0
-      player2:
-        percent: 74
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'BC'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Second
-        percent: 74
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(6)
-      score: PE 4 - BC 7
  - name: Miskew, Emma
    totals:
     - event: Hearts
@@ -550,6 +522,34 @@ vs:
       year: 2015
       draw: Round Robin(1)
       score: BC 2 - SK 8
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(6)
+      score: PE 4 - BC 7
  - name: Sinclair, Andrea
    totals:
     - event: Hearts

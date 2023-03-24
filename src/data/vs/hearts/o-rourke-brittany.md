@@ -498,6 +498,50 @@ vs:
       year: 2013
       draw: Round Robin(17)
       score: QC 5 - BC 9
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 72
+        wins: 1
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Second
+        percent: 61
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 79
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2015
+      draw: Round Robin(11)
+      score: QC 6 - PE 10
+    - player1:
+        team: 'QC'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2017
+      draw: Round Robin(6)
+      score: QC 8 - PE 7
  - name: Shumay, Jill
    totals:
     - event: Hearts

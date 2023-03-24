@@ -67,9 +67,9 @@ years:
 vs:
  - Atkinson, Rebecca
  - Beauchamp, Sasha
- - Crawford, Andrea
  - deSolla, Jodie
  - Dufresne, Audree
+ - Kelly, Andrea
  - O'Rourke, Brittany
  - Parsons, Danielle
  - Ross, Allison

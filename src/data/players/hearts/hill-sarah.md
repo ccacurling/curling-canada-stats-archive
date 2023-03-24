@@ -66,7 +66,6 @@ vs:
  - Carey, Chelsea
  - Christianson, Marie
  - Courtney, Joanne
- - Crawford, Andrea
  - Eddy, Lori
  - Enge, Jenna
  - Erickson, Rachel
@@ -80,6 +79,7 @@ vs:
  - Hawes, Dezaray
  - Hughes, Meaghan
  - Jones, Jennifer
+ - Kelly, Andrea
  - Kitz, Chaelynn
  - Knapp, Breanne
  - Lawes, Kaitlyn
@@ -90,7 +90,6 @@ vs:
  - MacPhail, Brigitte
  - Martin, Nancy
  - McCarville, Krista
- - McQuaid, Michelle
  - Miskew, Emma
  - Njegovan, Robyn
  - Njegovan, Selena
@@ -100,6 +99,7 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Riley, Emily
+ - Shea, Michelle
  - Sicinski, Danielle
  - Sippala, Ashley
  - St-Georges, Cynthia

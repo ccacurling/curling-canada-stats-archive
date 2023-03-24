@@ -150,7 +150,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jessica
@@ -188,6 +187,7 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
+ - Kelly, Andrea
  - Kelly, Kim
  - King, Cathy
  - Knezevic, Patti
@@ -215,7 +215,6 @@ vs:
  - McDonald, Kristy
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - Miskew, Emma
  - Mittelstadt, Candice
  - Moriarty, Monica
@@ -247,6 +246,7 @@ vs:
  - Sandwith, Carley
  - Scott, Kelly
  - Sharpe, Kelli
+ - Shea, Michelle
  - Simons, Renee
  - Sinclair, Andrea
  - Smith, Heather

@@ -114,7 +114,6 @@ vs:
  - Cooper, Kathryn
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Jennifer
  - Cunningham, Jessica
  - Dolan, Kim
@@ -138,6 +137,7 @@ vs:
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kelly, Andrea
  - Knezevic, Patti
  - Koehler, Megan
  - Korab, Stephanie
@@ -158,7 +158,6 @@ vs:
  - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Mercer, Adrienne
  - Miller, Wendy
@@ -189,6 +188,7 @@ vs:
  - Schneider, Kim
  - Scott, Kelly
  - Sharpe, Kelli
+ - Shea, Michelle
  - Sippala, Ashley
  - Slywka, Sarah
  - Smith, Heather

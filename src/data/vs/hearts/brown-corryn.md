@@ -174,34 +174,6 @@ vs:
       year: 2020
       draw: Round Robin(12)
       score: NL 6 - BC 8
- - name: Devereaux, Julie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 1
-        losses: 0
-      player2:
-        percent: 90
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'BC'
-        position: Fourth
-        percent: 79
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 90
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Round Robin(12)
-      score: NL 6 - BC 8
  - name: Duncan, Chelsea
    totals:
     - event: Hearts
@@ -470,6 +442,34 @@ vs:
       year: 2021
       draw: Round Robin(13)
       score: NL 1 - BC 10
+ - name: Harris, Briane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 85
+        wins: 0
+        losses: 1
+      player2:
+        percent: 82
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Pool(16)
+      score: MB 8 - BC 4
  - name: Hill, Sarah
    totals:
     - event: Hearts
@@ -598,6 +598,34 @@ vs:
       year: 2020
       draw: Pool(19)
       score: BC 6 - SK 7
+ - name: Hynes, Julie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 90
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 90
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Round Robin(12)
+      score: NL 6 - BC 8
  - name: Jones, Jennifer
    totals:
     - event: Hearts
@@ -1038,78 +1066,6 @@ vs:
       year: 2020
       draw: Round Robin(5)
       score: WC 11 - BC 10
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 2
-        losses: 0
-      player2:
-        percent: 74
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'BC'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 76
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Round Robin(1)
-      score: PE 5 - BC 7
-    - player1:
-        team: 'BC'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 73
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(19)
-      score: BC 9 - PE 5
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 85
-        wins: 0
-        losses: 1
-      player2:
-        percent: 82
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'BC'
-        position: Fourth
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 82
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Pool(16)
-      score: MB 8 - BC 4
  - name: Mercer, Adrienne
    totals:
     - event: Hearts
@@ -1378,6 +1334,50 @@ vs:
       year: 2020
       draw: Round Robin(4)
       score: BC 8 - NT 5
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 2
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 76
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Round Robin(1)
+      score: PE 5 - BC 7
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(19)
+      score: BC 9 - PE 5
  - name: Silvernagle, Robyn
    totals:
     - event: Hearts

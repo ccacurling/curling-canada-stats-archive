@@ -4,18 +4,18 @@ name: Rachel Homan
 name-sort: Homan, Rachel
 totals:
  - event: Hearts
-   games: 108
-   wins: 85
-   losses: 23
-   inturn-total: 1024
+   games: 117
+   wins: 91
+   losses: 26
+   inturn-total: 1115
    inturn-percent: 83
-   outturn-total: 963
+   outturn-total: 1040
    outturn-percent: 84
-   draw-total: 857
+   draw-total: 926
    draw-percent: 79
-   takeout-total: 1130
+   takeout-total: 1229
    takeout-percent: 86
-   shots-total: 1987
+   shots-total: 2155
    shots-percent: 83
 years:
  - year: 2011
@@ -154,7 +154,25 @@ years:
    takeout-percent: 87
    shots-total: 240
    shots-percent: 82
+ - year: 2023
+   event: Hearts
+   team: "ON"
+   position: Fourth
+   games: 9
+   wins: 6
+   losses: 3
+   inturn-total: 91
+   inturn-percent: 83
+   outturn-total: 77
+   outturn-percent: 80
+   draw-total: 69
+   draw-percent: 72
+   takeout-total: 99
+   takeout-percent: 88
+   shots-total: 168
+   shots-percent: 82
 vs:
+ - Ackland, Abby
  - Affleck, Tricia
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
@@ -168,6 +186,7 @@ vs:
  - Baier, Stephanie
  - Barbour, Shona
  - Barker, Penny
+ - Barker, Shelley
  - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belisle, Eve
@@ -189,8 +208,10 @@ vs:
  - Brown, Rachel
  - Burgess, Karlee
  - Burns, Krysta
+ - Burt, Camille
  - Cameron, Kate
  - Camozzi, Rhonda
+ - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
@@ -203,7 +224,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Jessica
  - Curtis, Erica
  - Curtis, Stacie
@@ -212,7 +232,6 @@ vs:
  - deJager, Blaine
  - Derry, Danielle
  - deSolla, Jodie
- - Devereaux, Julie
  - Doerksen, Katherine
  - Doig, Deanna
  - Dolan, Kim
@@ -220,8 +239,10 @@ vs:
  - Duncan, Chelsea
  - Dykstra, Michelle
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Enge, Jenna
  - Englot, Michelle
+ - Everist, Karlee
  - Eyamie, Lisa
  - Fallis, Karen
  - Ferguson, Dana
@@ -229,6 +250,7 @@ vs:
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy
+ - Forward, Katie
  - Foster, Kristen
  - Fullerton, Sarah
  - Fyfe, Liz
@@ -241,6 +263,7 @@ vs:
  - Guy, Sara
  - Guzzwell, Stephanie
  - Hamilton, Beth
+ - Harris, Briane
  - Hastings, Julie
  - Haughian, Jessie
  - Hawes, Dezaray
@@ -249,6 +272,7 @@ vs:
  - Holtby, Taryn
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Colleen
@@ -256,6 +280,7 @@ vs:
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - Kitz, Chaelynn
  - Kleibrink, Shannon
@@ -290,9 +315,7 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Miller, Wendy
  - Moore, Kristie
  - Moses, Dawn
@@ -304,6 +327,7 @@ vs:
  - Nowlan, Denise
  - Nugent, Pamela
  - Officer, Jill
+ - Oliver, Sara
  - Olson-Johns, Lori
  - O'Rourke, Brittany
  - Overton-Clapham, Cathy
@@ -337,6 +361,7 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Shea, Michelle
  - Shumay, Jill
  - Sicinski, Danielle
  - Silvernagle, Robyn
@@ -364,6 +389,7 @@ vs:
  - Van Osch, Kesa
  - Walker, Laura
  - Wallingham, Patty
+ - Walter, Meghan
  - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah

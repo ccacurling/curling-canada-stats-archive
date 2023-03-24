@@ -334,34 +334,6 @@ vs:
       year: 2005
       draw: Round Robin(12)
       score: SK 5 - NB 6
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 95
-        wins: 1
-        losses: 0
-      player2:
-        percent: 79
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent: 95
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 79
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2011
-      draw: Round Robin(13)
-      score: AB 7 - NB 3
  - name: Cunningham, Cathy
    totals:
     - event: Hearts
@@ -1178,6 +1150,34 @@ vs:
       year: 2011
       draw: Round Robin(6)
       score: AB 6 - SK 8
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 95
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 95
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2011
+      draw: Round Robin(13)
+      score: AB 7 - NB 3
  - name: Kelly, Kim
    totals:
     - event: Hearts

@@ -120,7 +120,6 @@ vs:
  - Betker, Jan
  - Bonar, Maureen
  - Breen, Theresa
- - Brown, Katie
  - Burgess, Judy
  - Cameron, Nancy
  - Chapman, Kathy
@@ -221,6 +220,7 @@ vs:
  - Wheatcroft, Georgina
  - Whitrow, Leanne
  - Willms, Karri
+ - Witt, Katie
  - Wright, Joanne
  - Zinck, Kay
 ---

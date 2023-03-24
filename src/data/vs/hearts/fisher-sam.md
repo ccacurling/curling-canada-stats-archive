@@ -366,34 +366,6 @@ vs:
       year: 2021
       draw: Round Robin(17)
       score: SK 8 - BC 7
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 71
-        wins: 1
-        losses: 0
-      player2:
-        percent: 73
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'BC'
-        position: Lead
-        percent: 71
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 73
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(19)
-      score: BC 9 - PE 5
  - name: Mercer, Adrienne
    totals:
     - event: Hearts
@@ -534,6 +506,34 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: QC 9 - BC 5
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 71
+        wins: 1
+        losses: 0
+      player2:
+        percent: 73
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(19)
+      score: BC 9 - PE 5
  - name: St-Georges, Cynthia
    totals:
     - event: Hearts

@@ -598,4 +598,32 @@ vs:
       year: 1992
       draw: Round Robin(13)
       score: ON 5 - TR 2
+ - name: Witt, Katie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 0
+        losses: 1
+      player2:
+        percent: 69
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'TR'
+        position: Third
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 69
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 1990
+      draw: Round Robin(10)
+      score: QC 6 - TR 5
 ---

@@ -87,7 +87,6 @@ vs:
  - Comeau, Martine
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Daigle, Julie
  - Doerksen, Katherine
@@ -106,11 +105,13 @@ vs:
  - Griffin, Alison
  - Guy, Sara
  - Hardy, Shelley
+ - Harris, Briane
  - Holland, Amber
  - Homan, Rachel
  - Jewer, Michelle
  - Jones, Jennifer
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Koehler, Megan
  - Kreviazuk, Cheryl
  - Lavoie, Gabrielle
@@ -127,7 +128,6 @@ vs:
  - McConnery, Nancy
  - McDonald, Taylor
  - McEwen, Dawn
- - Meilleur, Briane
  - Miskew, Emma
  - More, Whitney
  - Munroe, Anna

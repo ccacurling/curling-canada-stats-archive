@@ -934,34 +934,6 @@ vs:
       year: 2017
       draw: Round Robin(6)
       score: BC 9 - NT 12
- - name: Devereaux, Julie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 0
-        losses: 1
-      player2:
-        percent: 81
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'BC'
-        position: Third
-        percent: 84
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 81
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2017
-      draw: Round Robin(4)
-      score: BC 5 - NL 10
  - name: Doig, Deanna
    totals:
     - event: Hearts
@@ -1614,6 +1586,34 @@ vs:
       year: 2017
       draw: Round Robin(9)
       score: PE 8 - BC 7
+ - name: Hynes, Julie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Third
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Round Robin(4)
+      score: BC 5 - NL 10
  - name: Inglis, Nancy
    totals:
     - event: Hearts
@@ -2294,34 +2294,6 @@ vs:
       year: 1999
       draw: Round Robin(14)
       score: SK 5 - AB 7
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 0
-        losses: 1
-      player2:
-        percent: 85
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'BC'
-        position: Third
-        percent: 86
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2017
-      draw: Round Robin(9)
-      score: PE 8 - BC 7
  - name: Middaugh, Sherry
    totals:
     - event: Hearts
@@ -3398,6 +3370,34 @@ vs:
       year: 2007
       draw: Round Robin(12)
       score: TR 7 - BC 12
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Round Robin(9)
+      score: PE 8 - BC 7
  - name: Sicinski, Danielle
    totals:
     - event: Hearts

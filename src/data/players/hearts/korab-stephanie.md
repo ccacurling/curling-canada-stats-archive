@@ -72,7 +72,6 @@ vs:
  - Collins, Katrina
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Dolan, Kim
  - Dolan, Sinead
  - Enge, Jenna
@@ -90,6 +89,7 @@ vs:
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kelly, Andrea
  - Knezevic, Patti
  - Koehler, Megan
  - Larouche, Marie-France
@@ -101,7 +101,6 @@ vs:
  - Materi, Roberta
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - Miskew, Emma
  - Murphy, Jeanette
  - Nedohin, Heather
@@ -121,6 +120,7 @@ vs:
  - Schneider, Kim
  - Schneider, Tammy
  - Scott, Kelly
+ - Shea, Michelle
  - Slywka, Sarah
  - Smith, Heather
  - Smith, Stacey

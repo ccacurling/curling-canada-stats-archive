@@ -1066,6 +1066,50 @@ vs:
       year: 1991
       draw: Round Robin(13)
       score: BC 8 - CA 4
+ - name: Witt, Katie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 2
+        losses: 0
+      player2:
+        percent: 68
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 1990
+      draw: Round Robin(11)
+      score: QC 6 - ON 7
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 65
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 72
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 1991
+      draw: Round Robin(6)
+      score: CA 7 - QC 3
  - name: Wright, Susan
    totals:
     - event: Hearts

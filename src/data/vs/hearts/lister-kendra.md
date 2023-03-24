@@ -130,34 +130,6 @@ vs:
       year: 2018
       draw: Round Robin(10)
       score: MB 7 - NB 4
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 67
-        wins: 0
-        losses: 1
-      player2:
-        percent: 70
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Lead
-        percent: 67
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(4)
-      score: NB 4 - PE 12
  - name: Mercer, Adrienne
    totals:
     - event: Hearts
@@ -426,6 +398,34 @@ vs:
       year: 2021
       draw: Round Robin(19)
       score: NB 7 - QC 9
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 67
+        wins: 0
+        losses: 1
+      player2:
+        percent: 70
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(4)
+      score: NB 4 - PE 12
  - name: Smallwood, Jody
    totals:
     - event: Hearts

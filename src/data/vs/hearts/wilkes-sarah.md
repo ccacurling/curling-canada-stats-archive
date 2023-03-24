@@ -34,12 +34,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 74
+        percent: 73
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 69
-        wins: 0
+        percent: 73
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -58,16 +58,32 @@ vs:
       year: 2021
       draw: Round Robin(16)
       score: WC 6 - ON 8
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(8)
+      score: MB 6 - ON 4
  - name: Zacharias, Mackenzie
    totals:
     - event: Hearts
       player1:
-        percent: 74
+        percent: 73
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 64
-        wins: 0
+        percent: 68
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -86,4 +102,20 @@ vs:
       year: 2021
       draw: Round Robin(16)
       score: WC 6 - ON 8
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 73
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(8)
+      score: MB 6 - ON 4
 ---

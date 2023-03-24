@@ -105,7 +105,6 @@ vs:
  - Brown, Maureen
  - Cooke, Gerri
  - Cordina, Sheri
- - Crawford, Andrea
  - Crispo, Guylaine
  - Crouse, Jennifer
  - Cunningham, Cathy
@@ -147,6 +146,7 @@ vs:
  - Jones, Jennifer
  - Jurgenson, Christine
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - King, Cathy

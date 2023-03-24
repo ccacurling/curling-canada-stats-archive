@@ -78,6 +78,7 @@ vs:
  - Gates, Jennifer
  - Griffin, Alison
  - Hamilton, Beth
+ - Harris, Briane
  - Hill, Sarah
  - Homan, Rachel
  - Hughes, Meaghan
@@ -96,8 +97,6 @@ vs:
  - Martin, Nancy
  - McCarville, Krista
  - McEwen, Dawn
- - McQuaid, Michelle
- - Meilleur, Briane
  - Mercer, Adrienne
  - Miskew, Emma
  - Njegovan, Selena
@@ -106,6 +105,7 @@ vs:
  - Plonka, Gabrielle
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Sippala, Ashley
  - St-Georges, Cynthia

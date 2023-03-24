@@ -185,7 +185,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Jessica
  - Daigle, Julie
  - Davies, Lisa
@@ -207,6 +206,7 @@ vs:
  - Gates, Jennifer
  - Griffin, Alison
  - Guy, Sara
+ - Harris, Briane
  - Hastings, Julie
  - Haughian, Jessie
  - Hawes, Dezaray
@@ -218,6 +218,7 @@ vs:
  - Joyce, Blisse
  - Karwacki, Krysten
  - Kasner, Marliese
+ - Kelly, Andrea
  - Klymchuk, Ashley
  - Knezevic, Patti
  - Koltun, Sarah
@@ -238,9 +239,7 @@ vs:
  - McEwen, Dawn
  - McInnis, Susan
  - McPherson, Cheryl
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Miskew, Emma
  - Moore, Kristie
  - Munroe, Anna
@@ -268,6 +267,7 @@ vs:
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Scotland, Nadine
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Sinclair, Andrea
  - Singler, Sherri

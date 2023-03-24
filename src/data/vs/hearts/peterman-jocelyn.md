@@ -106,13 +106,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 78
-        wins: 1
+        percent: 83
+        wins: 2
         losses: 0
       player2:
-        percent: 71
+        percent: 74
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'MB'
@@ -130,6 +130,22 @@ vs:
       year: 2021
       draw: Round Robin(19)
       score: NU 3 - MB 10
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(15)
+      score: NU 4 - WC 10
  - name: Plonka, Gabrielle
    totals:
     - event: Hearts
@@ -382,6 +398,34 @@ vs:
       year: 2016
       draw: Round Robin(11)
       score: QC 4 - AB 6
+ - name: Ramsay, Geri-Lynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(1)
+      score: WC 8 - AB 5
  - name: Recksiedler, Kristen
    totals:
     - event: Hearts
@@ -470,12 +514,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 75
+        percent: 74
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 69
-        wins: 0
+        percent: 73
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -494,6 +538,22 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: MB 7 - QC 4
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(12)
+      score: QC 9 - WC 7
  - name: Rizzo, Jo-Ann
    totals:
     - event: Hearts
@@ -522,6 +582,34 @@ vs:
       year: 2020
       draw: Round Robin(10)
       score: WC 11 - NT 3
+ - name: Routledge, Alanna
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Second
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(12)
+      score: QC 9 - WC 7
  - name: Rusnell, Jen
    totals:
     - event: Hearts
@@ -634,6 +722,34 @@ vs:
       year: 2017
       draw: Round Robin(3)
       score: CA 6 - NS 4
+ - name: Schafer, Kelly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 92
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Third
+        percent: 92
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(10)
+      score: SK 3 - WC 8
  - name: Scheidegger, Casey
    totals:
     - event: Hearts
@@ -718,6 +834,98 @@ vs:
       year: 2019
       draw: Round Robin(10)
       score: CA 9 - YT 7
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 4
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 4
+   games:
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2017
+      draw: Round Robin(5)
+      score: CA 8 - PE 7
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(6)
+      score: PE 8 - CA 6
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Round Robin(8)
+      score: PE 8 - WC 9
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(15)
+      score: MB 9 - PE 5
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 60
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(18)
+      score: PE 6 - WC 10
  - name: Sicinski, Danielle
    totals:
     - event: Hearts
@@ -750,13 +958,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 80
-        wins: 2
+        percent: 82
+        wins: 3
         losses: 0
       player2:
         percent: 60
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'CA'
@@ -790,6 +998,22 @@ vs:
       year: 2020
       draw: Pool(17)
       score: WC 8 - SK 3
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Fourth
+        percent: 60
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(10)
+      score: SK 3 - WC 8
  - name: Sippala, Ashley
    totals:
     - event: Hearts
@@ -898,6 +1122,62 @@ vs:
       year: 2020
       draw: Pool(19)
       score: NO 11 - WC 6
+ - name: Skrlik, Ashton
+   totals:
+    - event: Hearts
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(1)
+      score: WC 8 - AB 5
+ - name: Skrlik, Kayla
+   totals:
+    - event: Hearts
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 65
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 65
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(1)
+      score: WC 8 - AB 5
  - name: St-Georges, Cynthia
    totals:
     - event: Hearts
@@ -930,12 +1210,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 75
+        percent: 74
         wins: 1
-        losses: 0
+        losses: 1
       player2:
         percent: 82
-        wins: 0
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -954,6 +1234,22 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: MB 7 - QC 4
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(12)
+      score: QC 9 - WC 7
  - name: Strong, Helen
    totals:
     - event: Hearts
@@ -986,12 +1282,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 83
+        percent: 78
         wins: 2
-        losses: 1
+        losses: 2
       player2:
-        percent: 81
-        wins: 1
+        percent: 79
+        wins: 2
         losses: 2
    games:
     - player1:
@@ -1042,17 +1338,61 @@ vs:
       year: 2021
       draw: Pool(23)
       score: CA 9 - MB 10
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 65
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(5)
+      score: WC 9 - CA 10
+ - name: Taylor, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(15)
+      score: NU 4 - WC 10
  - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:
-        percent: 80
-        wins: 2
+        percent: 82
+        wins: 3
         losses: 0
       player2:
         percent: 85
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'CA'
@@ -1086,6 +1426,22 @@ vs:
       year: 2020
       draw: Pool(17)
       score: WC 8 - SK 3
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(10)
+      score: SK 3 - WC 8
  - name: Thiessen, Alison
    totals:
     - event: Hearts
@@ -1174,13 +1530,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 80
-        wins: 2
+        percent: 85
+        wins: 3
         losses: 0
       player2:
-        percent: 85
+        percent: 81
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'CA'
@@ -1214,6 +1570,22 @@ vs:
       year: 2021
       draw: Pool(20)
       score: MB 12 - WC 8
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(1)
+      score: WC 8 - AB 5
  - name: Tuor, Kimberly
    totals:
     - event: Hearts

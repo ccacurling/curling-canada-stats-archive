@@ -44,7 +44,6 @@ vs:
  - Carey, Chelsea
  - Christianson, Marie
  - Courtney, Joanne
- - Crawford, Andrea
  - Enge, Jenna
  - Flaxey, Allison
  - Forward, Katie
@@ -52,15 +51,16 @@ vs:
  - Hamilton, Beth
  - Hill, Sarah
  - Hughes, Meaghan
+ - Kelly, Andrea
  - MacDonald, Kaitlin
  - MacPhail, Brigitte
- - McQuaid, Michelle
  - Mercer, Adrienne
  - Miskew, Emma
  - Pinksen, Sadie
  - Quillian, Sylvie
  - Schmidt, Stephanie
  - Sharpe, Kelli
+ - Shea, Michelle
  - Sicinski, Danielle
  - Taylor, Alison
  - Wilkes, Sarah

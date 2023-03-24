@@ -96,7 +96,6 @@ vs:
  - Cunningham, Jessica
  - Curtis, Stacie
  - Delahunt, Nancy
- - Devereaux, Julie
  - Einarson, Kerri
  - Enge, Jenna
  - Englot, Michelle
@@ -115,6 +114,7 @@ vs:
  - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
+ - Hynes, Julie
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese
@@ -138,7 +138,6 @@ vs:
  - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - Middaugh, Sherry
  - Miskew, Emma
  - Moore, Kim
@@ -165,6 +164,7 @@ vs:
  - Schmidt, Stephanie
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Shea, Michelle
  - Simmons, Cindy
  - Simons, Renee
  - Sippala, Ashley

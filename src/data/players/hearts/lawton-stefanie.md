@@ -156,7 +156,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jessica
@@ -195,6 +194,7 @@ vs:
  - Hamilton, Beth
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Harris, Briane
  - Hastings, Julie
  - Haughian, Jessie
  - Hawes, Dezaray
@@ -204,6 +204,7 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
+ - Kelly, Andrea
  - Kelly, Kim
  - King, Cathy
  - Klymchuk, Ashley
@@ -235,9 +236,7 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Miskew, Emma
  - Mittelstadt, Candice
  - Moore, Kristie
@@ -279,6 +278,7 @@ vs:
  - Scott, Kelly
  - Sharpe, Kelli
  - Shaw, Ladene
+ - Shea, Michelle
  - Simons, Renee
  - Sinclair, Andrea
  - Sippala, Ashley

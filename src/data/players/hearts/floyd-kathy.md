@@ -279,7 +279,6 @@ vs:
  - Breen, Theresa
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Katie
  - Brown, Marcie
  - Brown, Maureen
  - Bryant, Angie
@@ -518,6 +517,7 @@ vs:
  - Willms, Karri
  - Wilson, Patty
  - Wiltzen, Jan
+ - Witt, Katie
  - Wright, Susan
  - Young, Karen
  - Zeller, Lori

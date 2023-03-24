@@ -304,7 +304,6 @@ vs:
  - Brennan, Amanda
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Katie
  - Brown, Maureen
  - Bryant, Angie
  - Burgess, Judy
@@ -329,7 +328,6 @@ vs:
  - Copeland, Rae Ann
  - Cordina, Sheri
  - Cormier, Sharon
- - Crawford, Andrea
  - Crispo, Guylaine
  - Crouse, Jennifer
  - Currie, Wendy
@@ -414,6 +412,7 @@ vs:
  - Kasner, Marliese
  - Kaylo, Kelly
  - Kehler, Lorie
+ - Kelly, Andrea
  - Kelly, Kim
  - Kennedy, Tracy
  - Kidd, Darlene
@@ -576,6 +575,7 @@ vs:
  - Whitrow, Leanne
  - Wieler, Bev
  - Willms, Karri
+ - Witt, Katie
  - Wright, Joanne
  - Yardley, Janelle
  - Zielke, Colleen

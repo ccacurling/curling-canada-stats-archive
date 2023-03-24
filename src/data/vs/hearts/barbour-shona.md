@@ -758,66 +758,6 @@ vs:
       year: 2021
       draw: Round Robin(14)
       score: ON 5 - NT 7
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 80
-        wins: 2
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 2
-   games:
-    - player1:
-        team: 'TR'
-        position: Second
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 87
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2009
-      draw: Round Robin(4)
-      score: TR 7 - NB 8
-    - player1:
-        team: 'TR'
-        position: Lead
-        percent: 95
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 75
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2011
-      draw: Round Robin(9)
-      score: NB 4 - TR 7
-    - player1:
-        team: 'NT'
-        position: Lead
-        percent: 67
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 77
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2019
-      draw: Round Robin(2)
-      score: NT 11 - NB 5
  - name: Crouse, Jennifer
    totals:
     - event: Hearts
@@ -1030,34 +970,6 @@ vs:
       year: 2009
       draw: Round Robin(4)
       score: TR 7 - NB 8
- - name: Devereaux, Julie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 82
-        wins: 1
-        losses: 0
-      player2:
-        percent: 70
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NT'
-        position: Lead
-        percent: 82
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Round Robin(6)
-      score: NT 14 - NL 2
  - name: Doerksen, Katherine
    totals:
     - event: Hearts
@@ -1998,6 +1910,34 @@ vs:
       year: 2008
       draw: Round Robin(8)
       score: TR 4 - ON 9
+ - name: Harris, Briane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(8)
+      score: NT 4 - CA 8
  - name: Haughian, Jessie
    totals:
     - event: Hearts
@@ -2230,6 +2170,34 @@ vs:
       year: 2019
       draw: Round Robin(8)
       score: SK 4 - NT 9
+ - name: Hynes, Julie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 82
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Round Robin(6)
+      score: NT 14 - NL 2
  - name: Iskiw, Beth
    totals:
     - event: Hearts
@@ -2478,6 +2446,66 @@ vs:
       year: 2009
       draw: Round Robin(10)
       score: SK 10 - TR 6
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 80
+        wins: 2
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 2
+   games:
+    - player1:
+        team: 'TR'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 87
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2009
+      draw: Round Robin(4)
+      score: TR 7 - NB 8
+    - player1:
+        team: 'TR'
+        position: Lead
+        percent: 95
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2011
+      draw: Round Robin(9)
+      score: NB 4 - TR 7
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 67
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 77
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2019
+      draw: Round Robin(2)
+      score: NT 11 - NB 5
  - name: Kidd, Darlene
    totals:
     - event: Hearts
@@ -3574,66 +3602,6 @@ vs:
       year: 2020
       draw: Round Robin(10)
       score: WC 11 - NT 3
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 1
-        losses: 2
-      player2:
-        percent: 85
-        wins: 2
-        losses: 1
-   games:
-    - player1:
-        team: 'NT'
-        position: Lead
-        percent: 82
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 90
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Pool(18)
-      score: PE 7 - NT 9
-    - player1:
-        team: 'NT'
-        position: Lead
-        percent: 72
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 78
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(12)
-      score: PE 15 - NT 5
-    - player1:
-        team: 'NT'
-        position: Lead
-        percent: 71
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 86
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(13)
-      score: NT 7 - PE 8
  - name: McTaggart, Cary-Anne
    totals:
     - event: Hearts
@@ -3662,34 +3630,6 @@ vs:
       year: 2019
       draw: Round Robin(10)
       score: NT 5 - WC 6
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 0
-        losses: 1
-      player2:
-        percent: 78
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NT'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 78
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(8)
-      score: NT 4 - CA 8
  - name: Middaugh, Sherry
    totals:
     - event: Hearts
@@ -4874,6 +4814,66 @@ vs:
       year: 2019
       draw: Round Robin(14)
       score: YT 13 - NT 6
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 1
+        losses: 2
+      player2:
+        percent: 85
+        wins: 2
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Pool(18)
+      score: PE 7 - NT 9
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 72
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(12)
+      score: PE 15 - NT 5
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(13)
+      score: NT 7 - PE 8
  - name: Silvernagle, Robyn
    totals:
     - event: Hearts

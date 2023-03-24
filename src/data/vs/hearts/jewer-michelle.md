@@ -2,6 +2,34 @@
 title: Michelle Jewer Head-to-head
 name: Jewer, Michelle
 vs:
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(14)
+      score: NB 10 - NL 5
  - name: Koltun, Sarah
    totals:
     - event: Hearts
@@ -114,34 +142,6 @@ vs:
       year: 2010
       draw: Round Robin(10)
       score: ON 8 - NL 5
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 0
-        losses: 1
-      player2:
-        percent: 91
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NL'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 91
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(2)
-      score: NL 3 - PE 14
  - name: O'Rourke, Kathy
    totals:
     - event: Hearts
@@ -198,6 +198,34 @@ vs:
       year: 2010
       draw: Round Robin(15)
       score: NL 5 - PE 9
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 91
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(2)
+      score: NL 3 - PE 14
  - name: Silvernagle, Robyn
    totals:
     - event: Hearts

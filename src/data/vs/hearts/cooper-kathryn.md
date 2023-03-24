@@ -102,34 +102,6 @@ vs:
       year: 2015
       draw: Round Robin(10)
       score: NL 5 - CA 11
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 0
-        losses: 1
-      player2:
-        percent: 85
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NL'
-        position: Lead
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2014
-      draw: Round Robin(9)
-      score: NL 6 - NB 8
  - name: deSolla, Jodie
    totals:
     - event: Hearts
@@ -654,6 +626,34 @@ vs:
       year: 2015
       draw: Round Robin(12)
       score: SK 4 - NL 2
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2014
+      draw: Round Robin(9)
+      score: NL 6 - NB 8
  - name: Knezevic, Patti
    totals:
     - event: Hearts
@@ -988,34 +988,6 @@ vs:
         team: 'PE'
         position: Lead
         percent: 94
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(4)
-      score: NL 7 - PE 4
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 1
-        losses: 0
-      player2:
-        percent: 70
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NL'
-        position: Lead
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Second
-        percent: 70
         win: 0
         loss: 1
       event: Hearts
@@ -1474,6 +1446,34 @@ vs:
       year: 2015
       draw: Round Robin(12)
       score: SK 4 - NL 2
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(4)
+      score: NL 7 - PE 4
  - name: Sinclair, Andrea
    totals:
     - event: Hearts

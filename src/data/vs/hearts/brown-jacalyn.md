@@ -58,34 +58,6 @@ vs:
       year: 2001
       draw: Round Robin(6)
       score: ON 10 - BC 4
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 91
-        wins: 1
-        losses: 0
-      player2:
-        percent: 81
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'BC'
-        position: Lead
-        percent: 91
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 81
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2009
-      draw: Round Robin(10)
-      score: BC 7 - NB 5
  - name: Crouse, Jennifer
    totals:
     - event: Hearts
@@ -706,6 +678,34 @@ vs:
       year: 2001
       draw: Round Robin(11)
       score: BC 10 - SK 4
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2009
+      draw: Round Robin(10)
+      score: BC 7 - NB 5
  - name: Kelly, Kim
    totals:
     - event: Hearts

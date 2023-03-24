@@ -111,7 +111,6 @@ vs:
  - Carter, Sasha
  - Cordina, Sheri
  - Cormier, Sharon
- - Crawford, Andrea
  - Cunningham, Cathy
  - Delahunt, Nancy
  - Farrell, Allison
@@ -135,6 +134,7 @@ vs:
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kaylo, Kelly
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - King, Cathy

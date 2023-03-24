@@ -68,7 +68,6 @@ vs:
  - Carter, Sasha
  - Cheveldave, Amber
  - Cormier, Sharon
- - Crawford, Andrea
  - Cunningham, Jennifer
  - Curtis, Stacie
  - deJager, Blaine
@@ -93,6 +92,7 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Kelly, Kim
  - Koehler, Megan
  - Korab, Stephanie

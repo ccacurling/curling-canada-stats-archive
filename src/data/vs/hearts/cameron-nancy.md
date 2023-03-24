@@ -346,34 +346,6 @@ vs:
       year: 1993
       draw: Round Robin(2)
       score: PE 7 - TR 5
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 63
-        wins: 0
-        losses: 1
-      player2:
-        percent: 70
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent: 63
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2006
-      draw: Round Robin(1)
-      score: NB 9 - PE 3
  - name: Crocker, Cindy
    totals:
     - event: Hearts
@@ -2202,6 +2174,34 @@ vs:
       year: 1993
       draw: Round Robin(2)
       score: PE 7 - TR 5
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 63
+        wins: 0
+        losses: 1
+      player2:
+        percent: 70
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Second
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2006
+      draw: Round Robin(1)
+      score: NB 9 - PE 3
  - name: Kelly, Kim
    totals:
     - event: Hearts
@@ -5642,6 +5642,34 @@ vs:
       year: 1993
       draw: Round Robin(9)
       score: BC 7 - PE 4
+ - name: Witt, Katie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 1
+        losses: 0
+      player2:
+        percent: 57
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Lead
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 57
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 1991
+      draw: Round Robin(14)
+      score: QC 2 - NS 9
  - name: Wright, Joanne
    totals:
     - event: Hearts

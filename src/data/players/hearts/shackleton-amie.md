@@ -40,21 +40,20 @@ vs:
  - Cameron, Kate
  - Curtis, Erica
  - Curtis, Stacie
- - Devereaux, Julie
  - Duncan, Hollie
  - Englot, Michelle
  - Fullerton, Sarah
  - Gagne, Emilia
  - Gibson, Amy
+ - Harris, Briane
  - Harvey, Marie-Pier
  - Hughes, Meaghan
+ - Hynes, Julie
  - Inglis, Danielle
  - Kreviazuk, Cheryl
  - LeDrew, Stephanie
  - MacPhee, Robyn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Moore, Kristie
  - O'Connor, Susan
  - Perron, Melina
@@ -62,6 +61,7 @@ vs:
  - Sagle, Karen
  - Scheidegger, Casey
  - Scheidegger, Jessie
+ - Shea, Michelle
  - Thiboutot, Isabelle
  - Van Osch, Kalia
  - Van Osch, Kesa

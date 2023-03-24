@@ -46,7 +46,6 @@ vs:
  - Carter, Sasha
  - Clark-Rouire, Jennifer
  - Comeau, Martine
- - Crawford, Andrea
  - Crouse, Jennifer
  - Einarson, Megan
  - George, Tara
@@ -55,6 +54,7 @@ vs:
  - Holland, Amber
  - Jones, Jennifer
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - LeDrew, Stephanie
  - Lemon, Colette
  - MacLean, Kari

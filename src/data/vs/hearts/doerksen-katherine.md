@@ -170,6 +170,34 @@ vs:
       year: 2021
       draw: Round Robin(14)
       score: WC 9 - NO 5
+ - name: Harris, Briane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 0
+        losses: 1
+      player2:
+        percent: 60
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 60
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(5)
+      score: CA 6 - WC 4
  - name: Holland, Amber
    totals:
     - event: Hearts
@@ -478,34 +506,6 @@ vs:
       year: 2021
       draw: Round Robin(10)
       score: WC 6 - AB 4
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 74
-        wins: 0
-        losses: 1
-      player2:
-        percent: 60
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'WC'
-        position: Second
-        percent: 74
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 60
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(5)
-      score: CA 6 - WC 4
  - name: Miskew, Emma
    totals:
     - event: Hearts

@@ -51,7 +51,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Davies, Lisa
  - deSolla, Jodie
  - Dolan, Kim
@@ -63,6 +62,7 @@ vs:
  - Gannon, Melissa
  - Homan, Rachel
  - Joyce, Blisse
+ - Kelly, Andrea
  - Koltun, Sarah
  - Kreviazuk, Alison
  - MacDonald, Rebecca Jean

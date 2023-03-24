@@ -184,7 +184,6 @@ vs:
  - Breen, Theresa
  - Brophy, Kathy
  - Brothers, Jill
- - Brown, Katie
  - Brown, Maureen
  - Bryant, Angie
  - Burlington, Cheryl
@@ -377,6 +376,7 @@ vs:
  - Whitaker, Carol
  - Willms, Karri
  - Wiltzen, Jan
+ - Witt, Katie
  - Wright, Joanne
  - Wright, Susan
  - Zinck, Kay

@@ -2,6 +2,34 @@
 title: Sara Guy Head-to-head
 name: Guy, Sara
 vs:
+ - name: Harris, Briane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 56
+        wins: 0
+        losses: 1
+      player2:
+        percent: 70
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Second
+        percent: 56
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(7)
+      score: CA 12 - NO 4
  - name: Homan, Rachel
    totals:
     - event: Hearts
@@ -198,34 +226,6 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: NO 2 - AB 12
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 56
-        wins: 0
-        losses: 1
-      player2:
-        percent: 70
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NO'
-        position: Second
-        percent: 56
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(7)
-      score: CA 12 - NO 4
  - name: Miskew, Emma
    totals:
     - event: Hearts

@@ -30,66 +30,6 @@ vs:
       year: 2015
       draw: Round Robin(14)
       score: PE 3 - MB 10
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 88
-        wins: 2
-        losses: 1
-      player2:
-        percent: 82
-        wins: 1
-        losses: 2
-   games:
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent: 97
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Second
-        percent: 89
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(14)
-      score: PE 3 - MB 10
-    - player1:
-        team: 'CA'
-        position: Lead
-        percent: 78
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(6)
-      score: PE 8 - CA 6
-    - player1:
-        team: 'WC'
-        position: Lead
-        percent: 91
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 78
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Round Robin(8)
-      score: PE 8 - WC 9
  - name: McTaggart, Cary-Anne
    totals:
     - event: Hearts
@@ -134,66 +74,6 @@ vs:
       year: 2019
       draw: Round Robin(14)
       score: CA 4 - WC 7
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 89
-        wins: 2
-        losses: 1
-      player2:
-        percent: 92
-        wins: 1
-        losses: 2
-   games:
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent: 95
-        win: 1
-        loss: 0
-      player2:
-        team: 'CA'
-        position: Third
-        percent: 88
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Pool(20)
-      score: MB 10 - CA 4
-    - player1:
-        team: 'WC'
-        position: Lead
-        percent: 80
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 89
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Pool(18)
-      score: MB 7 - WC 12
-    - player1:
-        team: 'WC'
-        position: Lead
-        percent: 91
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 96
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Page 1-2(21)
-      score: WC 4 - MB 6
  - name: Middaugh, Sherry
    totals:
     - event: Hearts
@@ -3490,6 +3370,66 @@ vs:
       year: 2019
       draw: Round Robin(10)
       score: CA 9 - YT 7
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 2
+        losses: 1
+      player2:
+        percent: 82
+        wins: 1
+        losses: 2
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 89
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(14)
+      score: PE 3 - MB 10
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(6)
+      score: PE 8 - CA 6
+    - player1:
+        team: 'WC'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Round Robin(8)
+      score: PE 8 - WC 9
  - name: Shumay, Jill
    totals:
     - event: Hearts

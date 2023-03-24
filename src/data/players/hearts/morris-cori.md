@@ -84,7 +84,6 @@ vs:
  - Clark, Stefanie
  - Clarke, Hayley
  - Comeau, Sandy
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Curtis, Stacie
@@ -105,6 +104,7 @@ vs:
  - Inglis, Nancy
  - Jones, Jennifer
  - Kasner, Marliese
+ - Kelly, Andrea
  - Lang, Lorraine
  - Larouche, Marie-France
  - Law, Kelley

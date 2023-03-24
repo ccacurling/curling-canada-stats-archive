@@ -66,7 +66,6 @@ vs:
  - MacCuish, Kristin
  - McCarville, Krista
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Miskew, Emma
  - Moore, Kristie
@@ -77,6 +76,7 @@ vs:
  - Pinksen, Sadie
  - Potts, Sarah
  - Scheidegger, Casey
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Thevenot, Kara
  - Weagle, Lisa

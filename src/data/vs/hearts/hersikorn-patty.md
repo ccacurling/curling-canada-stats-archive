@@ -2,6 +2,34 @@
 title: Patty Hersikorn Head-to-head
 name: Hersikorn, Patty
 vs:
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 50
+        wins: 1
+        losses: 0
+      player2:
+        percent: 69
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Second
+        percent: 50
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2013
+      draw: Round Robin(4)
+      score: SK 10 - NB 5
  - name: O'Rourke, Brittany
    totals:
     - event: Hearts

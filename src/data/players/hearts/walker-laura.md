@@ -4,19 +4,19 @@ name: Laura Walker
 name-sort: Walker, Laura
 totals:
  - event: Hearts
-   games: 29
-   wins: 16
-   losses: 13
-   inturn-total: 260
-   inturn-percent: 75
-   outturn-total: 272
-   outturn-percent: 78
-   draw-total: 236
-   draw-percent: 79
-   takeout-total: 296
-   takeout-percent: 75
-   shots-total: 532
-   shots-percent: 77
+   games: 38
+   wins: 21
+   losses: 17
+   inturn-total: 336
+   inturn-percent: 77
+   outturn-total: 374
+   outturn-percent: 80
+   draw-total: 297
+   draw-percent: 80
+   takeout-total: 413
+   takeout-percent: 77
+   shots-total: 710
+   shots-percent: 78
 years:
  - year: 2020
    event: Hearts
@@ -69,6 +69,23 @@ years:
    takeout-percent: 72
    shots-total: 156
    shots-percent: 73
+ - year: 2023
+   event: Hearts
+   team: "WC"
+   position: Third
+   games: 9
+   wins: 5
+   losses: 4
+   inturn-total: 76
+   inturn-percent: 84
+   outturn-total: 102
+   outturn-percent: 83
+   draw-total: 61
+   draw-percent: 84
+   takeout-total: 117
+   takeout-percent: 83
+   shots-total: 178
+   shots-percent: 84
 vs:
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -81,6 +98,7 @@ vs:
  - Baxter, Jennifer
  - Birchard, Shannon
  - Birnie, Hailey
+ - Birt, Suzanne
  - Black, Christina
  - Bobbie, Tess
  - Brine, Jenn
@@ -92,10 +110,11 @@ vs:
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
+ - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
- - Crawford, Andrea
  - Doerksen, Katherine
+ - Dubue, Lindsay
  - Duncan, Hollie
  - Eddy, Lori
  - Einarson, Kerri
@@ -107,12 +126,18 @@ vs:
  - Galusha, Kerry
  - Gates, Amanda
  - Gates, Jennifer
+ - Grandy, Clancy
  - Griffin, Alison
+ - Gustafson, Leigh
  - Guy, Sara
+ - Harris, Briane
  - Homan, Rachel
+ - Hughes, Meaghan
  - Hunkin, Jessie
  - Jones, Jennifer
+ - Just, Sherry
  - Karwacki, Krysten
+ - Kelly, Andrea
  - Kitz, Chaelynn
  - Knapp, Breanne
  - Koltun, Sarah
@@ -122,29 +147,38 @@ vs:
  - Lilly, Kendra
  - Loder, Jenna
  - Logan, Emma
+ - Loken, Sarah
  - MacCuish, Kristin
  - MacDonald, Kaitlin
+ - MacMillan, Kayla
+ - MacPhail, Brigitte
  - Martin, Nancy
  - McCarville, Krista
- - Meilleur, Briane
+ - Middaugh, Kelly
  - Miskew, Emma
  - Njegovan, Selena
  - Peterman, Jocelyn
  - Peterson, Beth
  - Pinksen, Sadie
+ - Ramsay, Geri-Lynn
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Routledge, Alanna
  - Routledge, Jill
+ - Schafer, Kelly
  - Schraeder, Jeanna
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Simons, Renee
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Strybosch, Rachelle
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Kara
  - Tran, Brittany
  - Tuor, Kimberly

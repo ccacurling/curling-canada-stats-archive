@@ -45,7 +45,6 @@ vs:
  - Carter, Sasha
  - Cheveldave, Amber
  - Cormier, Sharon
- - Crawford, Andrea
  - Curtis, Stacie
  - deJager, Blaine
  - deSolla, Jodie
@@ -59,6 +58,7 @@ vs:
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
+ - Kelly, Andrea
  - Kelly, Kim
  - Koehler, Megan
  - Kreviazuk, Alison

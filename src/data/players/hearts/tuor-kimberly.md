@@ -4,19 +4,19 @@ name: Kimberly Tuor
 name-sort: Tuor, Kimberly
 totals:
  - event: Hearts
-   games: 15
-   wins: 0
-   losses: 15
-   inturn-total: 128
-   inturn-percent: 73
-   outturn-total: 144
-   outturn-percent: 73
-   draw-total: 212
-   draw-percent: 75
-   takeout-total: 60
-   takeout-percent: 66
-   shots-total: 272
-   shots-percent: 73
+   games: 23
+   wins: 1
+   losses: 22
+   inturn-total: 207
+   inturn-percent: 79
+   outturn-total: 204
+   outturn-percent: 74
+   draw-total: 336
+   draw-percent: 79
+   takeout-total: 75
+   takeout-percent: 68
+   shots-total: 411
+   shots-percent: 77
 years:
  - year: 2020
    event: Hearts
@@ -52,7 +52,25 @@ years:
    takeout-percent: 67
    shots-total: 146
    shots-percent: 76
+ - year: 2023
+   event: Hearts
+   team: "YT"
+   position: Lead
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 79
+   inturn-percent: 89
+   outturn-total: 60
+   outturn-percent: 77
+   draw-total: 124
+   draw-percent: 85
+   takeout-total: 15
+   takeout-percent: 77
+   shots-total: 139
+   shots-percent: 84
 vs:
+ - Ackland, Abby
  - Armstrong, Hailey
  - Arsenault, Mary-Anne
  - Balsdon, Megan
@@ -63,51 +81,70 @@ vs:
  - Birt, Suzanne
  - Black, Christina
  - Bobbie, Tess
+ - Brothers, Jill
  - Brown, Corryn
+ - Brunton, Kira
  - Burgess, Karlee
+ - Burt, Camille
  - Cameron, Kate
  - Carter, Sasha
  - Christianson, Marie
  - Clarke, Kristin
  - Courtney, Joanne
  - Curtis, Erica
- - Devereaux, Julie
+ - Curtis, Stacie
  - Duncan, Hollie
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Everist, Karlee
  - Ferguson, Dana
  - Flemming, Margot
+ - Fleury, Tracy
+ - Forward, Katie
  - Galusha, Kerry
  - Hamilton, Beth
+ - Harris, Briane
+ - Haughian, Jessie
  - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
+ - Hynes, Julie
  - Jones, Jennifer
+ - Kelly, Andrea
  - Klymchuk, Ashley
  - Koltun, Sarah
  - Kreviazuk, Cheryl
  - Lawes, Kaitlyn
  - Lenentine, Lauren
+ - Lilly, Kendra
  - Logan, Emma
+ - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
- - Meilleur, Briane
  - Miskew, Emma
+ - Moore, Kristie
+ - Oliver, Sara
  - Peterman, Jocelyn
  - Pincott, Erin
  - Porter, Erin
+ - Potts, Sarah
+ - Quillian, Sylvie
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Routledge, Alanna
+ - Scheidegger, Casey
  - Schraeder, Jeanna
  - Scotland, Nadine
+ - Shea, Michelle
  - Simons, Renee
+ - Sippala, Ashley
  - St-Georges, Laurie
  - Strybosch, Rachelle
  - Sweeting, Val
  - Walker, Laura
+ - Walter, Meghan
  - Weagle, Lisa
+ - Wilkes, Sarah
  - Zacharias, Emily
  - Zacharias, Mackenzie
 ---

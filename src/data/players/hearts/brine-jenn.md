@@ -99,6 +99,7 @@ vs:
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Harris, Briane
  - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
@@ -114,7 +115,6 @@ vs:
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
- - Meilleur, Briane
  - Miskew, Emma
  - Munroe, Anna
  - Nixon, Amy

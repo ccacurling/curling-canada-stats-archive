@@ -105,7 +105,6 @@ vs:
  - Carter, Sasha
  - Clark-Rouire, Jennifer
  - Comeau, Martine
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Currie, Wendy
@@ -128,6 +127,7 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Kerr, Kathy
  - LeDrew, Stephanie
  - Lemon, Colette

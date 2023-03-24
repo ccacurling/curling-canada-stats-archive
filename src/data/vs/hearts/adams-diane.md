@@ -378,50 +378,6 @@ vs:
       year: 1988
       draw: Round Robin(13)
       score: ON 6 - NL 3
- - name: Brown, Katie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 2
-        losses: 0
-      player2:
-        percent: 59
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'CA'
-        position: Second
-        percent: 74
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
-        position: Third
-        percent: 77
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1990
-      draw: Round Robin(14)
-      score: CA 6 - QC 4
-    - player1:
-        team: 'ON'
-        position: Second
-        percent: 71
-        win: 1
-        loss: 0
-      player2:
-        team: 'QC'
-        position: Third
-        percent: 23
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 1991
-      draw: Round Robin(3)
-      score: QC 1 - ON 14
  - name: Burgess, Judy
    totals:
     - event: Hearts
@@ -4994,6 +4950,50 @@ vs:
       year: 1991
       draw: Round Robin(4)
       score: ON 4 - BC 5
+ - name: Witt, Katie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 2
+        losses: 0
+      player2:
+        percent: 59
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 77
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 1990
+      draw: Round Robin(14)
+      score: CA 6 - QC 4
+    - player1:
+        team: 'ON'
+        position: Second
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 23
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 1991
+      draw: Round Robin(3)
+      score: QC 1 - ON 14
  - name: Wright, Susan
    totals:
     - event: Hearts

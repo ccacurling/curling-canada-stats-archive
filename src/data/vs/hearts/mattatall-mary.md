@@ -330,34 +330,6 @@ vs:
       year: 1991
       draw: Round Robin(3)
       score: NS 11 - CA 1
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 0
-        losses: 1
-      player2:
-        percent: 92
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 92
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2017
-      draw: Round Robin(8)
-      score: NS 4 - PE 9
  - name: Merklinger, Anne
    totals:
     - event: Hearts
@@ -1790,6 +1762,34 @@ vs:
       year: 2005
       draw: Round Robin(2)
       score: NS 11 - TR 3
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 92
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 92
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Round Robin(8)
+      score: NS 4 - PE 9
  - name: Sherrington, Barb
    totals:
     - event: Hearts
@@ -2890,6 +2890,34 @@ vs:
       year: 1998
       draw: Round Robin(17)
       score: NS 2 - BC 9
+ - name: Witt, Katie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 82
+        wins: 1
+        losses: 0
+      player2:
+        percent: 57
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Third
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 57
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 1991
+      draw: Round Robin(14)
+      score: QC 2 - NS 9
  - name: Wright, Susan
    totals:
     - event: Hearts

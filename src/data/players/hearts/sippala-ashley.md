@@ -4,18 +4,18 @@ name: Ashley Sippala
 name-sort: Sippala, Ashley
 totals:
  - event: Hearts
-   games: 66
-   wins: 43
-   losses: 23
-   inturn-total: 647
-   inturn-percent: 80
-   outturn-total: 627
+   games: 77
+   wins: 51
+   losses: 26
+   inturn-total: 755
+   inturn-percent: 81
+   outturn-total: 736
    outturn-percent: 79
-   draw-total: 570
+   draw-total: 669
    draw-percent: 78
-   takeout-total: 704
-   takeout-percent: 82
-   shots-total: 1274
+   takeout-total: 822
+   takeout-percent: 81
+   shots-total: 1491
    shots-percent: 80
 years:
  - year: 2009
@@ -107,7 +107,25 @@ years:
    takeout-percent: 82
    shots-total: 239
    shots-percent: 81
+ - year: 2023
+   event: Hearts
+   team: "NO"
+   position: Second
+   games: 11
+   wins: 8
+   losses: 3
+   inturn-total: 108
+   inturn-percent: 82
+   outturn-total: 109
+   outturn-percent: 79
+   draw-total: 99
+   draw-percent: 84
+   takeout-total: 118
+   takeout-percent: 78
+   shots-total: 217
+   shots-percent: 81
 vs:
+ - Ackland, Abby
  - Affleck, Tricia
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
@@ -120,14 +138,18 @@ vs:
  - Baxter, Jennifer
  - Belisle, Eve
  - Birchard, Shannon
+ - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Boyle, Jane
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Burgess, Karlee
+ - Burt, Camille
  - Cameron, Kate
  - Campbell, Jolene
+ - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
@@ -137,18 +159,18 @@ vs:
  - Cormier, Sharon
  - Cote, Marie-Pier
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
- - Devereaux, Julie
  - Doig, Deanna
+ - Duncan, Chelsea
  - Eddy, Lori
  - Einarson, Kerri
  - Einarson, Megan
+ - Elias, Mackenzie
  - Ellis, Danielle
  - Enge, Jenna
  - Englot, Michelle
@@ -156,6 +178,7 @@ vs:
  - Eyamie, Lisa
  - Ferguson, Dana
  - Flaxey, Allison
+ - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
  - Fullerton, Sarah
@@ -169,6 +192,8 @@ vs:
  - Hanna, Jenn
  - Hanna, Stephanie
  - Hardy, Shelley
+ - Harris, Briane
+ - Haughian, Jessie
  - Hawes, Dezaray
  - Hill, Sarah
  - Hill, Trish
@@ -177,13 +202,16 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
  - Jewer, Michelle
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Kleibrink, Shannon
  - Klymchuk, Ashley
  - Koehler, Megan
+ - Koltun, Sarah
  - Larouche, Marie-France
  - Lavery, Tracey
  - Lawes, Kaitlyn
@@ -191,6 +219,7 @@ vs:
  - LeDrew, Stephanie
  - Lemay, Annie
  - Lemon, Colette
+ - Lenentine, Lauren
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacPhail, Brigitte
@@ -202,8 +231,6 @@ vs:
  - McConnery, Nancy
  - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
- - Meilleur, Briane
  - Mercer, Adrienne
  - Miskew, Emma
  - More, Whitney
@@ -215,6 +242,7 @@ vs:
  - Nowlan, Denise
  - O'Connor, Susan
  - Officer, Jill
+ - Oliver, Sara
  - O'Neill, Brit
  - O'Rourke, Brittany
  - O'Rourke, Kathy
@@ -231,11 +259,13 @@ vs:
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
+ - Rizzo, Jo-Ann
  - Rogers, Rhonda
  - Routledge, Alanna
  - Routledge, Jill
  - Sagle, Karen
  - Saulnier, Andrea
+ - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schneider, Kim
  - Schneider, Lorraine
@@ -244,6 +274,7 @@ vs:
  - Scotland, Nadine
  - Scott, Kelly
  - Sharpe, Kelli
+ - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sobey, Lianne
@@ -254,14 +285,17 @@ vs:
  - Thomas, Jill
  - Thompson, Karla
  - Thurston, Jill
+ - Tuor, Kimberly
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie
  - Verreault, Noemie
  - Walker, Laura
+ - Walter, Meghan
  - Weagle, Lisa
  - Westcott, Raunora
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
+ - Zacharias, Mackenzie
 ---

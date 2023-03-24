@@ -802,66 +802,6 @@ vs:
       year: 2015
       draw: Round Robin(17)
       score: PE 4 - SK 5
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 80
-        wins: 3
-        losses: 0
-      player2:
-        percent: 85
-        wins: 0
-        losses: 3
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Second
-        percent: 73
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(17)
-      score: PE 4 - SK 5
-    - player1:
-        team: 'SK'
-        position: Third
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 88
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2019
-      draw: Round Robin(14)
-      score: PE 3 - SK 7
-    - player1:
-        team: 'SK'
-        position: Third
-        percent: 84
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 95
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Pool(16)
-      score: SK 8 - PE 7
  - name: McTaggart, Cary-Anne
    totals:
     - event: Hearts
@@ -890,34 +830,6 @@ vs:
       year: 2019
       draw: Round Robin(6)
       score: WC 6 - SK 8
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 0
-        losses: 1
-      player2:
-        percent: 74
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Third
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 74
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(11)
-      score: SK 6 - MB 10
  - name: Miskew, Emma
    totals:
     - event: Hearts
@@ -2370,6 +2282,66 @@ vs:
       year: 2019
       draw: Round Robin(12)
       score: YT 4 - SK 6
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 80
+        wins: 3
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 3
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(17)
+      score: PE 4 - SK 5
+    - player1:
+        team: 'SK'
+        position: Third
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2019
+      draw: Round Robin(14)
+      score: PE 3 - SK 7
+    - player1:
+        team: 'SK'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 95
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Pool(16)
+      score: SK 8 - PE 7
  - name: Simons, Renee
    totals:
     - event: Hearts

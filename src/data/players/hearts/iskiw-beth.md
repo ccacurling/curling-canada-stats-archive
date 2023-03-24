@@ -127,7 +127,6 @@ vs:
  - Cooke, Gerri
  - Cordina, Sheri
  - Cormier, Sharon
- - Crawford, Andrea
  - Cunningham, Cathy
  - Cunningham, Jennifer
  - Curtis, Stacie
@@ -176,6 +175,7 @@ vs:
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kaylo, Kelly
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - King, Cathy

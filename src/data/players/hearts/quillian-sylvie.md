@@ -4,18 +4,18 @@ name: Sylvie Quillian
 name-sort: Quillian, Sylvie
 totals:
  - event: Hearts
-   games: 53
-   wins: 20
-   losses: 33
-   inturn-total: 534
+   games: 61
+   wins: 23
+   losses: 38
+   inturn-total: 623
    inturn-percent: 76
-   outturn-total: 484
+   outturn-total: 553
    outturn-percent: 76
-   draw-total: 459
+   draw-total: 524
    draw-percent: 73
-   takeout-total: 559
+   takeout-total: 652
    takeout-percent: 78
-   shots-total: 1018
+   shots-total: 1176
    shots-percent: 76
 years:
  - year: 2008
@@ -103,7 +103,25 @@ years:
    takeout-percent: 77
    shots-total: 236
    shots-percent: 77
+ - year: 2023
+   event: Hearts
+   team: "NB"
+   position: Third
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 89
+   inturn-percent: 78
+   outturn-total: 69
+   outturn-percent: 76
+   draw-total: 65
+   draw-percent: 75
+   takeout-total: 93
+   takeout-percent: 78
+   shots-total: 158
+   shots-percent: 77
 vs:
+ - Ackland, Abby
  - Anderson, Sherry
  - Armstrong, Jennifer
  - Arsenault, Mary-Anne
@@ -113,6 +131,7 @@ vs:
  - Belanger, Nancy
  - Bell, Chelsey
  - Birchard, Shannon
+ - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
@@ -120,8 +139,12 @@ vs:
  - Brennan, Amanda
  - Brothers, Jill
  - Brown, Rachel
+ - Burgess, Karlee
+ - Burt, Camille
+ - Cameron, Kate
  - Camozzi, Rhonda
  - Campbell, Jolene
+ - Campbell, Kerry
  - Carey, Chelsea
  - Carter, Sasha
  - Christianson, Marie
@@ -136,10 +159,10 @@ vs:
  - Curtis, Erica
  - Curtis, Stacie
  - Delahunt, Nancy
- - Devereaux, Julie
  - Duncan, Chelsea
  - Duncan, Jenna
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Enge, Jenna
  - Englot, Michelle
  - Ferguson, Dana
@@ -159,11 +182,14 @@ vs:
  - Hanna, Jenn
  - Hanna, Stephanie
  - Harmark, Andra
+ - Harris, Briane
  - Hastings, Julie
+ - Haughian, Jessie
  - Hill, Sarah
  - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
+ - Hynes, Julie
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese
@@ -190,10 +216,9 @@ vs:
  - Materi, Roberta
  - McCagg-Nystrom, Heather
  - McCarville, Krista
+ - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
- - Meilleur, Briane
  - Mercer, Adrienne
  - Middaugh, Sherry
  - Miskew, Emma
@@ -205,6 +230,7 @@ vs:
  - Njegovan, Robyn
  - Njegovan, Selena
  - Officer, Jill
+ - Oliver, Sara
  - Olson-Johns, Lori
  - O'Neill, Brit
  - O'Rourke, Brittany
@@ -222,10 +248,12 @@ vs:
  - Rusnell, Jen
  - Sabourin, Joelle
  - Sagle, Karen
+ - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli
+ - Shea, Michelle
  - Sicinski, Danielle
  - Simmons, Cindy
  - Simons, Renee
@@ -240,11 +268,13 @@ vs:
  - Taylor, Alison
  - Thompson, Karla
  - Trombley, Christy
+ - Tuor, Kimberly
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie
  - Vey, Lana
  - Wall, Kirsten
+ - Walter, Meghan
  - Weagle, Lisa
  - Webster, Bronwen
  - Webster, Crystal
@@ -253,4 +283,6 @@ vs:
  - Williamson, Ashley
  - Wylie, Jennifer
  - Yardley, Janelle
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
 ---

@@ -69,7 +69,7 @@ vs:
  - Babin, Jillian
  - Bradley, Shelley
  - Carmody, Erin
- - Crawford, Andrea
+ - Kelly, Andrea
  - Nowlan, Denise
  - O'Rourke, Kathy
  - Ramsay, Geri-Lynn

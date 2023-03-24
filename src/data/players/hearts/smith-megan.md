@@ -50,6 +50,7 @@ vs:
  - Ferguson, Dana
  - Flemming, Margot
  - Galusha, Kerry
+ - Harris, Briane
  - Homan, Rachel
  - Karwacki, Krysten
  - Kelly, Kim
@@ -57,7 +58,6 @@ vs:
  - Loder, Jenna
  - Logan, Emma
  - McDonald, Taylor
- - Meilleur, Briane
  - Miskew, Emma
  - Peterson, Beth
  - Rizzo, Jo-Ann

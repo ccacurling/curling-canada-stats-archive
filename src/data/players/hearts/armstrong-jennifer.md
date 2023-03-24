@@ -83,7 +83,6 @@ vs:
  - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
- - Crawford, Andrea
  - Eddy, Lori
  - Einarson, Kerri
  - Enge, Jenna
@@ -97,12 +96,14 @@ vs:
  - Griffin, Alison
  - Guzzwell, Stephanie
  - Hamilton, Beth
+ - Harris, Briane
  - Haughian, Jessie
  - Hill, Sarah
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Jewer, Michelle
  - Jones, Jennifer
+ - Kelly, Andrea
  - Koltun, Sarah
  - Lawes, Kaitlyn
  - Lawton, Stefanie
@@ -113,9 +114,7 @@ vs:
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Mercer, Adrienne
  - Miskew, Emma
  - Moore, Kristie
@@ -132,6 +131,7 @@ vs:
  - Scotland, Nadine
  - Sharpe, Kelli
  - Shaw, Ladene
+ - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley

@@ -226,7 +226,6 @@ vs:
  - Copeland, Rae Ann
  - Cordina, Sheri
  - Cormier, Sharon
- - Crawford, Andrea
  - Crispo, Guylaine
  - Currie, Wendy
  - Dalio, Diane
@@ -299,6 +298,7 @@ vs:
  - Jurgenson, Christine
  - Kalenchuk, Heather
  - Kaylo, Kelly
+ - Kelly, Andrea
  - Kelly, Kim
  - King, Cathy
  - Kleibrink, Shannon

@@ -40,7 +40,6 @@ vs:
  - Alexander, Diane
  - Aucoin, Shelley
  - Betker, Jan
- - Brown, Katie
  - Cameron, Nancy
  - Cunningham, Cathy
  - Floyd, Kathy
@@ -79,5 +78,6 @@ vs:
  - Turcotte, Kristin
  - Usher, Leanne
  - Willms, Karri
+ - Witt, Katie
  - Wright, Susan
 ---

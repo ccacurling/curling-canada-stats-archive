@@ -4,19 +4,19 @@ name: Karlee Burgess
 name-sort: Burgess, Karlee
 totals:
  - event: Hearts
-   games: 17
-   wins: 8
-   losses: 9
-   inturn-total: 173
-   inturn-percent: 76
-   outturn-total: 157
+   games: 29
+   wins: 18
+   losses: 11
+   inturn-total: 282
+   inturn-percent: 80
+   outturn-total: 280
    outturn-percent: 78
-   draw-total: 119
-   draw-percent: 75
-   takeout-total: 211
-   takeout-percent: 78
-   shots-total: 330
-   shots-percent: 77
+   draw-total: 193
+   draw-percent: 77
+   takeout-total: 369
+   takeout-percent: 80
+   shots-total: 562
+   shots-percent: 79
 years:
  - year: 2021
    event: Hearts
@@ -52,7 +52,25 @@ years:
    takeout-percent: 79
    shots-total: 180
    shots-percent: 77
+ - year: 2023
+   event: Hearts
+   team: "MB"
+   position: Third
+   games: 12
+   wins: 10
+   losses: 2
+   inturn-total: 109
+   inturn-percent: 85
+   outturn-total: 123
+   outturn-percent: 79
+   draw-total: 74
+   draw-percent: 80
+   takeout-total: 158
+   takeout-percent: 83
+   shots-total: 232
+   shots-percent: 82
 vs:
+ - Ackland, Abby
  - Armstrong, Hailey
  - Arsenault, Mary-Anne
  - Balsdon, Megan
@@ -68,31 +86,52 @@ vs:
  - Brown, Rachel
  - Brunton, Kira
  - Burns, Krysta
+ - Burt, Camille
  - Cameron, Kate
  - Campbell, Kerry
  - Carmody, Erin
  - Carter, Sasha
  - Courtney, Joanne
+ - Curtis, Erica
+ - Curtis, Stacie
  - Doerksen, Katherine
+ - Dubue, Lindsay
+ - Duncan, Chelsea
  - Duncan, Hollie
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Everist, Karlee
  - Flemming, Margot
+ - Fleury, Tracy
+ - Forward, Katie
  - Galusha, Kerry
+ - Grandy, Clancy
  - Guy, Sara
+ - Harris, Briane
+ - Haughian, Jessie
  - Homan, Rachel
+ - Hynes, Julie
+ - Kelly, Andrea
  - Koltun, Sarah
+ - Lilly, Kendra
  - Loder, Jenna
  - Logan, Emma
+ - Loken, Sarah
+ - MacMillan, Kayla
+ - McCarville, Krista
  - McDonald, Taylor
- - Meilleur, Briane
  - Miskew, Emma
+ - Oliver, Sara
  - Peterson, Beth
+ - Potts, Sarah
+ - Quillian, Sylvie
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Scheidegger, Casey
  - Schraeder, Jeanna
  - Scotland, Nadine
  - Simons, Renee
+ - Sippala, Ashley
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
@@ -102,5 +141,6 @@ vs:
  - Tuor, Kimberly
  - Walker, Laura
  - Wallingham, Patty
+ - Walter, Meghan
  - Wilkes, Sarah
 ---

@@ -86,7 +86,6 @@ vs:
  - Bond, Arlene
  - Bowering, Andrea
  - Bradley, Diane
- - Brown, Katie
  - Buckway, Beverly
  - Burns, Shannon
  - Burry, Gail
@@ -187,5 +186,6 @@ vs:
  - Wall, Mary Lou
  - Walter, Sheila
  - Wheatcroft, Georgina
+ - Witt, Katie
  - Zinck, Kay
 ---

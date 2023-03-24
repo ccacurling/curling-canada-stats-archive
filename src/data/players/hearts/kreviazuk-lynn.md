@@ -60,7 +60,6 @@ vs:
  - Carey, Chelsea
  - Cooper, Kathryn
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Jessica
  - deSolla, Jodie
  - Dolan, Kim
@@ -72,6 +71,7 @@ vs:
  - Homan, Rachel
  - Joyce, Blisse
  - Kasner, Marliese
+ - Kelly, Andrea
  - Koltun, Sarah
  - Kreviazuk, Alison
  - Lawton, Stefanie

@@ -4,18 +4,18 @@ name: Jennifer Jones
 name-sort: Jones, Jennifer
 totals:
  - event: Hearts
-   games: 213
-   wins: 159
-   losses: 54
-   inturn-total: 2005
+   games: 225
+   wins: 169
+   losses: 56
+   inturn-total: 2097
    inturn-percent: 80
-   outturn-total: 1864
+   outturn-total: 1999
    outturn-percent: 78
-   draw-total: 1749
+   draw-total: 1865
    draw-percent: 78
-   takeout-total: 2120
-   takeout-percent: 79
-   shots-total: 3869
+   takeout-total: 2231
+   takeout-percent: 80
+   shots-total: 4096
    shots-percent: 79
 years:
  - year: 2002
@@ -290,7 +290,25 @@ years:
    takeout-percent: 78
    shots-total: 240
    shots-percent: 78
+ - year: 2023
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   games: 12
+   wins: 10
+   losses: 2
+   inturn-total: 92
+   inturn-percent: 83
+   outturn-total: 135
+   outturn-percent: 79
+   draw-total: 116
+   draw-percent: 80
+   takeout-total: 111
+   takeout-percent: 82
+   shots-total: 227
+   shots-percent: 81
 vs:
+ - Ackland, Abby
  - Adams, Melissa
  - Affleck, Tricia
  - Aleksic, Shannon
@@ -338,11 +356,13 @@ vs:
  - Brown, Rachel
  - Burgess, Carey
  - Burlington, Cheryl
+ - Burt, Camille
  - Bush, Tracy
  - Cameron, Kate
  - Cameron, Nancy
  - Camozzi, Rhonda
  - Campbell, Jolene
+ - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carrier, Julie
@@ -361,7 +381,6 @@ vs:
  - Cordina, Sheri
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
@@ -374,10 +393,10 @@ vs:
  - Delahunt, Nancy
  - Derick, Catherine
  - deSolla, Jodie
- - Devereaux, Julie
  - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
+ - Dubue, Lindsay
  - Dufresne, Audree
  - Duncan, Chelsea
  - Duncan, Hollie
@@ -386,6 +405,7 @@ vs:
  - Eddy, Lori
  - Einarson, Kerri
  - Einarson, Megan
+ - Elias, Mackenzie
  - Ellis, Danielle
  - Enge, Jenna
  - Englot, Michelle
@@ -397,6 +417,7 @@ vs:
  - Fesser, Krista
  - Filteau, Anne-Marie
  - Fisher, Sam
+ - Flemming, Margot
  - Fleury, Tracy
  - Floyd, Kathy
  - Fortier, Marie-Josee
@@ -416,6 +437,7 @@ vs:
  - Gilman, Sheena
  - Goss, Peg
  - Graham-MacDonald, Bea
+ - Grandy, Clancy
  - Gregoire, Veronique
  - Griffin, Alison
  - Gudereit, Marcia
@@ -427,6 +449,7 @@ vs:
  - Hanna, Stephanie
  - Hardy, Shelley
  - Harmark, Andra
+ - Harris, Briane
  - Harrison, Meredith
  - Harvey, Janet
  - Hastings, Julie
@@ -442,6 +465,7 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
  - Inglis, Danielle
  - Inglis, Nancy
  - Iskiw, Beth
@@ -451,6 +475,7 @@ vs:
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kaylo, Kelly
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - Kidd, Darlene
@@ -483,6 +508,7 @@ vs:
  - Loder, Cherie-Ann
  - Loder, Jenna
  - Logan, Emma
+ - Loken, Sarah
  - Lowther, Tammi
  - MacCuish, Kristin
  - MacDiarmid, Kristen
@@ -493,6 +519,7 @@ vs:
  - MacInnes, Allison
  - MacInnes, Grace
  - MacLean, Kari
+ - MacMillan, Kayla
  - MacPhee, Robyn
  - Mair, Jessica
  - Makichuk, Lindsay
@@ -508,9 +535,7 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Mercer, Adrienne
  - Middaugh, Sherry
  - Miller, Wendy
@@ -538,6 +563,7 @@ vs:
  - Nugent, Pamela
  - O'Connor, Susan
  - O'Leary, Susan
+ - Oliver, Sara
  - Olson-Johns, Lori
  - O'Neill, Brit
  - O'Rourke, Brittany
@@ -590,6 +616,7 @@ vs:
  - Scott, Kelly
  - Sharpe, Kelli
  - Shaw, Ladene
+ - Shea, Michelle
  - Shumay, Jill
  - Silvernagle, Robyn
  - Simmons, Cindy
@@ -632,6 +659,7 @@ vs:
  - Vey, Lana
  - Walker, Laura
  - Wall, Kirsten
+ - Walter, Meghan
  - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah

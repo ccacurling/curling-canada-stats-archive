@@ -136,7 +136,6 @@ vs:
  - Cordina, Sheri
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Cathy
  - Curtis, Stacie
  - Daniel, Sylvie
@@ -174,6 +173,7 @@ vs:
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kaylo, Kelly
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - Kidd, Darlene

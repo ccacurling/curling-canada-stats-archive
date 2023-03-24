@@ -90,7 +90,6 @@ vs:
  - Clarke, Hayley
  - Comeau, Sandy
  - Connor, Judy
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cutcliffe, Margaret
@@ -122,6 +121,7 @@ vs:
  - Jones, Jennifer
  - Jones-Walker, Debbie
  - Kasner, Marliese
+ - Kelly, Andrea
  - Knickle, Margie
  - Lamarre, June
  - Lang, Lorraine

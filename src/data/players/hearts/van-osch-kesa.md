@@ -67,14 +67,12 @@ vs:
  - Chislett, Geneva
  - Cooper, Kathryn
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Jessica
  - Curtis, Erica
  - Curtis, Stacie
  - Davies, Lisa
  - deSolla, Jodie
- - Devereaux, Julie
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Hollie
@@ -92,9 +90,11 @@ vs:
  - Homan, Rachel
  - Hughes, Meaghan
  - Hutchings, Denise
+ - Hynes, Julie
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kreviazuk, Alison
  - Kreviazuk, Cheryl
  - Lawton, Stefanie
@@ -104,7 +104,6 @@ vs:
  - MacPhee, Robyn
  - McDonald, Kristy
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Miskew, Emma
  - Moore, Kristie
@@ -120,6 +119,7 @@ vs:
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Shackleton, Amie
+ - Shea, Michelle
  - Singler, Sherri
  - Smith, Heather
  - Strong, Heather

@@ -137,7 +137,6 @@ vs:
  - Clarke, Hayley
  - Comeau, Martine
  - Comeau, Sandy
- - Crawford, Andrea
  - Cunningham, Cathy
  - Daniel, Sylvie
  - Darbyshire, Carolyn
@@ -161,6 +160,7 @@ vs:
  - Hanna, Stephanie
  - Hardy, Shelley
  - Harmark, Andra
+ - Harris, Briane
  - Harrison, Meredith
  - Harvey, Janet
  - Hollands, Saskia
@@ -168,6 +168,7 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - Kidd, Darlene
  - King, Cathy
@@ -192,7 +193,6 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
- - Meilleur, Briane
  - Middaugh, Sherry
  - Mittelstadt, Candice
  - Moore, Kim

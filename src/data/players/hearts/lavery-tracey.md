@@ -42,13 +42,13 @@ vs:
  - Campbell, Jolene
  - Carey, Chelsea
  - Curtis, Stacie
- - Devereaux, Julie
  - Einarson, Kerri
  - Fyfe, Liz
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
  - Howard, Ashley
+ - Hynes, Julie
  - Jones, Jennifer
  - Joyce, Blisse
  - Larouche, Marie-France

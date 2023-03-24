@@ -137,11 +137,9 @@ vs:
  - Cormier, Sharon
  - Cottrill, Katie
  - Court, Morgan
- - Crawford, Andrea
  - Crouse, Jennifer
  - Curtis, Erica
  - Curtis, Stacie
- - Devereaux, Julie
  - Duncan, Chelsea
  - Einarson, Kerri
  - Einarson, Megan
@@ -162,8 +160,10 @@ vs:
  - Holland, Amber
  - Hughes, Meaghan
  - Hutchings, Denise
+ - Hynes, Julie
  - Jones, Jennifer
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Koehler, Megan
  - Koltun, Sarah
  - Kreviazuk, Lynn
@@ -176,7 +176,6 @@ vs:
  - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Miller, Wendy
  - Moore, Kristie
@@ -200,6 +199,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shackleton, Amie
+ - Shea, Michelle
  - Sinclair, Andrea
  - Sippala, Ashley
  - Sobey, Lianne

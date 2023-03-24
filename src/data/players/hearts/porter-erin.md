@@ -134,7 +134,6 @@ vs:
  - Christianson, Marie
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
@@ -167,6 +166,7 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
+ - Kelly, Andrea
  - Kelly, Kim
  - Klymchuk, Ashley
  - Koehler, Megan
@@ -190,7 +190,6 @@ vs:
  - Mattatall, Mary
  - McCarville, Krista
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Miller, Wendy
  - Miskew, Emma
@@ -228,6 +227,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shackleton, Amie
+ - Shea, Michelle
  - Shumay, Jill
  - Sicinski, Danielle
  - Sippala, Ashley

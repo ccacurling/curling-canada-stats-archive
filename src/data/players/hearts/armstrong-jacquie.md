@@ -89,7 +89,6 @@ vs:
  - Carmody, Erin
  - Comeau, Martine
  - Cormier, Sharon
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Jennifer
  - Curtis, Stacie
@@ -115,6 +114,7 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Kleibrink, Shannon
  - Koehler, Megan
  - Korab, Stephanie

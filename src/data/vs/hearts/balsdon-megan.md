@@ -366,6 +366,34 @@ vs:
       year: 2022
       draw: Round Robin(4)
       score: NT 8 - ON 5
+ - name: Harris, Briane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 66
+        wins: 0
+        losses: 1
+      player2:
+        percent: 92
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 66
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 92
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(2)
+      score: ON 5 - CA 12
  - name: Koltun, Sarah
    totals:
     - event: Hearts
@@ -450,34 +478,6 @@ vs:
       year: 2022
       draw: Round Robin(6)
       score: AB 9 - ON 7
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 66
-        wins: 0
-        losses: 1
-      player2:
-        percent: 92
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'ON'
-        position: Third
-        percent: 66
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 92
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(2)
-      score: ON 5 - CA 12
  - name: Riley, Emily
    totals:
     - event: Hearts

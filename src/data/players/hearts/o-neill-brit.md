@@ -45,12 +45,12 @@ vs:
  - Carey, Chelsea
  - Christianson, Marie
  - Curtis, Stacie
- - Devereaux, Julie
  - Einarson, Kerri
  - Fyfe, Liz
  - Hamon, Callan
  - Howard, Ashley
  - Hughes, Meaghan
+ - Hynes, Julie
  - Jones, Jennifer
  - Larouche, Marie-France
  - Lavery, Tracey

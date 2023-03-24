@@ -3450,6 +3450,34 @@ vs:
       year: 1988
       draw: Round Robin(9)
       score: SK 4 - NL 5
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 0
+        losses: 1
+      player2:
+        percent: 70
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2009
+      draw: Round Robin(16)
+      score: NL 5 - NB 6
  - name: Kelly, Kim
    totals:
     - event: Hearts
@@ -9810,6 +9838,34 @@ vs:
       year: 1993
       draw: Round Robin(8)
       score: NL 7 - BC 1
+ - name: Witt, Katie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 46
+        wins: 0
+        losses: 1
+      player2:
+        percent: 61
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Fourth
+        percent: 46
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 61
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 1991
+      draw: Round Robin(7)
+      score: QC 9 - NL 2
  - name: Wright, Joanne
    totals:
     - event: Hearts

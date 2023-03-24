@@ -30,50 +30,6 @@ vs:
       year: 2010
       draw: Round Robin(11)
       score: QC 6 - TR 5
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 2
-        losses: 0
-      player2:
-        percent: 80
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'QC'
-        position: Second
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 78
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2006
-      draw: Round Robin(15)
-      score: NB 6 - QC 7
-    - player1:
-        team: 'QC'
-        position: Second
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(15)
-      score: NB 5 - QC 6
  - name: Crouse, Jennifer
    totals:
     - event: Hearts
@@ -574,6 +530,50 @@ vs:
       year: 2010
       draw: Round Robin(10)
       score: QC 6 - SK 8
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 2
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'QC'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2006
+      draw: Round Robin(15)
+      score: NB 6 - QC 7
+    - player1:
+        team: 'QC'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 83
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2010
+      draw: Round Robin(15)
+      score: NB 5 - QC 6
  - name: Kelly, Kim
    totals:
     - event: Hearts

@@ -4,18 +4,18 @@ name: Suzanne Birt
 name-sort: Birt, Suzanne
 totals:
  - event: Hearts
-   games: 141
-   wins: 64
-   losses: 77
-   inturn-total: 1276
-   inturn-percent: 72
-   outturn-total: 1321
+   games: 149
+   wins: 66
+   losses: 83
+   inturn-total: 1340
+   inturn-percent: 71
+   outturn-total: 1404
    outturn-percent: 72
-   draw-total: 1246
+   draw-total: 1322
    draw-percent: 68
-   takeout-total: 1351
-   takeout-percent: 76
-   shots-total: 2597
+   takeout-total: 1422
+   takeout-percent: 75
+   shots-total: 2744
    shots-percent: 72
 years:
  - year: 2003
@@ -239,6 +239,23 @@ years:
    takeout-percent: 71
    shots-total: 152
    shots-percent: 72
+ - year: 2023
+   event: Hearts
+   team: "PE"
+   position: Fourth
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 64
+   inturn-percent: 64
+   outturn-total: 83
+   outturn-percent: 71
+   draw-total: 76
+   draw-percent: 68
+   takeout-total: 71
+   takeout-percent: 69
+   shots-total: 147
+   shots-percent: 68
 vs:
  - Adams, Melissa
  - Aleksic, Shannon
@@ -256,6 +273,7 @@ vs:
  - Baldwin, Nicole
  - Barbour, Shona
  - Barker, Penny
+ - Barker, Shelley
  - Barron, Lauren
  - Baxter, Jennifer
  - Beauchamp, Sasha
@@ -300,7 +318,6 @@ vs:
  - Cordina, Sheri
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Cathy
  - Cunningham, Jessica
  - Currie, Wendy
@@ -312,8 +329,8 @@ vs:
  - Delahunt, Nancy
  - Derick, Catherine
  - deSolla, Jodie
- - Devereaux, Julie
  - Dezura, Diane
+ - Dubue, Lindsay
  - Dufresne, Audree
  - Duncan, Chelsea
  - Dunn, Anne
@@ -323,6 +340,7 @@ vs:
  - Enge, Jenna
  - Englot, Michelle
  - Enright, Barb
+ - Everist, Karlee
  - Fallis, Karen
  - Ferguson, Dana
  - Filteau, Anne-Marie
@@ -347,6 +365,7 @@ vs:
  - Gignac, Donna
  - Gogan, Jennifer
  - Goss, Peg
+ - Grandy, Clancy
  - Greening, Jackie-Rae
  - Gregoire, Veronique
  - Griffin, Alison
@@ -360,6 +379,7 @@ vs:
  - Hanna, Stephanie
  - Hardy, Shelley
  - Harmark, Andra
+ - Harris, Briane
  - Harrison, Meredith
  - Harvey, Janet
  - Hastings, Julie
@@ -376,6 +396,7 @@ vs:
  - Howard, Ashley
  - Hunkin, Jessie
  - Hunter, Lana
+ - Hynes, Julie
  - Inglis, Nancy
  - Iskiw, Beth
  - Jewer, Michelle
@@ -383,8 +404,11 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
+ - Just, Sherry
  - Kalenchuk, Heather
+ - Karwacki, Krysten
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - Kidd, Darlene
@@ -414,10 +438,12 @@ vs:
  - Lister, Kendra
  - Loder, Cherie-Ann
  - Logan, Emma
+ - Loken, Sarah
  - MacCuish, Kristin
  - MacDiarmid, Kristen
  - MacDonald, Kaitlin
  - MacInnes, Allison
+ - MacMillan, Kayla
  - MacNutt, Shelley
  - MacPhail, Brigitte
  - Mair, Jessica
@@ -435,8 +461,8 @@ vs:
  - McCusker, Joan
  - McEwen, Dawn
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Mercer, Adrienne
+ - Middaugh, Kelly
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
@@ -482,6 +508,7 @@ vs:
  - Provencal, Darah
  - Quillian, Sylvie
  - Rainville, Julie
+ - Ramsay, Geri-Lynn
  - Recksiedler, Kristen
  - Reed, Shellan
  - Richard, Marie
@@ -492,12 +519,14 @@ vs:
  - Rocque, Raylene
  - Ross, Allison
  - Round, Coralee
+ - Routledge, Alanna
  - Rudulier, Andrea
  - Rusnell, Jen
  - Sabourin, Joelle
  - Sagle, Karen
  - Sandwith, Carley
  - Santos, Deb
+ - Schafer, Kelly
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schneider, Kim
@@ -512,6 +541,8 @@ vs:
  - Simmons, Cindy
  - Simons, Renee
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smith, Heather
  - Smith, Stacey
  - Snyder, Jane
@@ -544,6 +575,7 @@ vs:
  - Vandale, Trysta
  - Vautour, Carrie
  - Vey, Lana
+ - Walker, Laura
  - Wall, Kirsten
  - Wark, Sarah
  - Wasylkiw, Lauren

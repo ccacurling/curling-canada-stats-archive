@@ -105,7 +105,6 @@ vs:
  - Bohmer, Brenda
  - Bradley, Shelley
  - Breen, Theresa
- - Brown, Katie
  - Byers, Denise
  - Cameron, Nancy
  - Campbell, June
@@ -198,5 +197,6 @@ vs:
  - Wheatcroft, Georgina
  - Whitrow, Leanne
  - Willms, Karri
+ - Witt, Katie
  - Zinck, Kay
 ---

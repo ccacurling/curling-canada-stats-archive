@@ -110,14 +110,12 @@ vs:
  - Comeau, Martine
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
- - Devereaux, Julie
  - Doig, Deanna
  - Duncan, Hollie
  - Einarson, Kerri
@@ -142,9 +140,11 @@ vs:
  - Homan, Rachel
  - Hughes, Meaghan
  - Hutchings, Denise
+ - Hynes, Julie
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Kleibrink, Shannon
  - Koehler, Megan
  - Kreviazuk, Alison
@@ -169,7 +169,6 @@ vs:
  - McConnery, Nancy
  - McEvoy, Julie
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Miller, Wendy
  - Miskew, Emma
@@ -207,6 +206,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shackleton, Amie
+ - Shea, Michelle
  - Sicinski, Danielle
  - Sippala, Ashley
  - Smith, Heather

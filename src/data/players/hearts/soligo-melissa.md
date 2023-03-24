@@ -104,7 +104,6 @@ vs:
  - Bonar, Maureen
  - Breen, Theresa
  - Brophy, Kathy
- - Brown, Katie
  - Brown, Marcie
  - Cameron, Nancy
  - Carter, Linda
@@ -215,6 +214,7 @@ vs:
  - Walker, Lisa
  - Whitrow, Leanne
  - Wilson, Patty
+ - Witt, Katie
  - Wright, Joanne
  - Wright, Susan
  - Zeller, Lori

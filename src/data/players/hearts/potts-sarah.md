@@ -4,18 +4,18 @@ name: Sarah Potts
 name-sort: Potts, Sarah
 totals:
  - event: Hearts
-   games: 53
-   wins: 34
-   losses: 19
-   inturn-total: 526
+   games: 64
+   wins: 42
+   losses: 22
+   inturn-total: 629
    inturn-percent: 87
-   outturn-total: 469
+   outturn-total: 584
    outturn-percent: 87
-   draw-total: 822
+   draw-total: 1014
    draw-percent: 88
-   takeout-total: 173
-   takeout-percent: 82
-   shots-total: 995
+   takeout-total: 199
+   takeout-percent: 81
+   shots-total: 1213
    shots-percent: 87
 years:
  - year: 2010
@@ -99,7 +99,25 @@ years:
    takeout-percent: 79
    shots-total: 240
    shots-percent: 86
+ - year: 2023
+   event: Hearts
+   team: "NO"
+   position: Lead
+   games: 11
+   wins: 8
+   losses: 3
+   inturn-total: 103
+   inturn-percent: 89
+   outturn-total: 115
+   outturn-percent: 88
+   draw-total: 192
+   draw-percent: 90
+   takeout-total: 26
+   takeout-percent: 80
+   shots-total: 218
+   shots-percent: 88
 vs:
+ - Ackland, Abby
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Armstrong, Jennifer
@@ -110,6 +128,7 @@ vs:
  - Baxter, Jennifer
  - Belisle, Eve
  - Birchard, Shannon
+ - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Blaney, Jennifer
@@ -119,29 +138,33 @@ vs:
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Rachel
+ - Burgess, Karlee
+ - Burt, Camille
  - Cameron, Kate
  - Campbell, Jolene
+ - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Christianson, Marie
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - Daigle, Julie
  - deJager, Blaine
  - Derry, Danielle
- - Devereaux, Julie
  - Doig, Deanna
+ - Duncan, Chelsea
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Enge, Jenna
  - Englot, Michelle
  - Everist, Karlee
  - Eyamie, Lisa
  - Ferguson, Dana
  - Flaxey, Allison
+ - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
  - Fullerton, Sarah
@@ -153,6 +176,7 @@ vs:
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Harris, Briane
  - Haughian, Jessie
  - Hill, Sarah
  - Hill, Trish
@@ -160,16 +184,20 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
  - Jones, Jennifer
  - Joyce, Blisse
+ - Kelly, Andrea
  - Kleibrink, Shannon
  - Koehler, Megan
+ - Koltun, Sarah
  - Larouche, Marie-France
  - Lavery, Tracey
  - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lemay, Annie
+ - Lenentine, Lauren
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacPhail, Brigitte
@@ -177,10 +205,9 @@ vs:
  - Mallett, Marla
  - Mann, Lauren
  - Mattatall, Mary
+ - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Mercer, Adrienne
  - Miskew, Emma
  - Moore, Kristie
@@ -191,6 +218,7 @@ vs:
  - Njegovan, Selena
  - O'Connor, Susan
  - Officer, Jill
+ - Oliver, Sara
  - O'Neill, Brit
  - O'Rourke, Brittany
  - Peterman, Jocelyn
@@ -204,6 +232,7 @@ vs:
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
+ - Rizzo, Jo-Ann
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
@@ -212,6 +241,7 @@ vs:
  - Schmidt, Stephanie
  - Schneider, Lorraine
  - Sharpe, Kelli
+ - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sweeting, Val
@@ -220,13 +250,16 @@ vs:
  - Thiessen, Alison
  - Thompson, Karla
  - Thurston, Jill
+ - Tuor, Kimberly
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie
+ - Walter, Meghan
  - Wark, Sarah
  - Weagle, Lisa
  - Westcott, Raunora
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
+ - Zacharias, Mackenzie
 ---

@@ -76,18 +76,18 @@ vs:
  - Englot, Michelle
  - Fullerton, Sarah
  - Gagne, Emilia
+ - Harris, Briane
  - Harvey, Marie-Pier
  - Hughes, Meaghan
  - MacPhee, Robyn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Moore, Kristie
  - O'Connor, Susan
  - Perron, Melina
  - Price, Kara
  - Scheidegger, Casey
  - Scheidegger, Jessie
+ - Shea, Michelle
  - Smallwood, Jody
  - Thiboutot, Isabelle
  - Wilson, Leslie

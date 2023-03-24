@@ -128,7 +128,6 @@ vs:
  - Bowering, Andrea
  - Breen, Theresa
  - Brown, Jacalyn
- - Brown, Katie
  - Bryant, Angie
  - Burlington, Cheryl
  - Burry, Gail
@@ -142,7 +141,6 @@ vs:
  - Corbin, Nicole
  - Cormier, Sharon
  - Couling, Betty
- - Crawford, Andrea
  - Crocker, Cindy
  - Crouse, Jennifer
  - Cunningham, Cathy
@@ -200,6 +198,7 @@ vs:
  - Kasner, Marliese
  - Kaylo, Kelly
  - Kehler, Lorie
+ - Kelly, Andrea
  - Kelly, Kim
  - Kennedy, Tracy
  - Kerr, Kathy
@@ -295,5 +294,6 @@ vs:
  - Vey, Lana
  - Wheatcroft, Georgina
  - Wiltzen, Jan
+ - Witt, Katie
  - Zinck, Kay
 ---

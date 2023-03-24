@@ -2,34 +2,6 @@
 title: Marie-Pier Cote Head-to-head
 name: Cote, Marie-Pier
 vs:
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 0
-        losses: 1
-      player2:
-        percent: 86
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Second
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 86
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(11)
-      score: NB 11 - QC 6
  - name: Eddy, Lori
    totals:
     - event: Hearts
@@ -198,6 +170,34 @@ vs:
       year: 2020
       draw: Round Robin(14)
       score: NU 7 - QC 6
+ - name: Harris, Briane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 53
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Second
+        percent: 53
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(2)
+      score: QC 4 - MB 9
  - name: Hunkin, Jessie
    totals:
     - event: Hearts
@@ -226,6 +226,34 @@ vs:
       year: 2020
       draw: Round Robin(10)
       score: QC 3 - SK 5
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(11)
+      score: NB 11 - QC 6
  - name: Lawton, Stefanie
    totals:
     - event: Hearts
@@ -366,34 +394,6 @@ vs:
       year: 2020
       draw: Round Robin(3)
       score: QC 3 - AB 8
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 53
-        wins: 0
-        losses: 1
-      player2:
-        percent: 89
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Second
-        percent: 53
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 89
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(2)
-      score: QC 4 - MB 9
  - name: Pinksen, Sadie
    totals:
     - event: Hearts

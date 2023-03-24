@@ -99,7 +99,6 @@ vs:
  - Courtney, Joanne
  - Curtis, Stacie
  - Daigle, Julie
- - Devereaux, Julie
  - Einarson, Kerri
  - Ferguson, Dana
  - Fleury, Tracy
@@ -109,9 +108,11 @@ vs:
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Harris, Briane
  - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
+ - Hynes, Julie
  - Jones, Jennifer
  - Kreviazuk, Cheryl
  - Larouche, Marie-France
@@ -124,7 +125,6 @@ vs:
  - MacPhee, Robyn
  - McCarville, Krista
  - McEwen, Dawn
- - Meilleur, Briane
  - Miskew, Emma
  - Munroe, Anna
  - Nicholls, Brenda

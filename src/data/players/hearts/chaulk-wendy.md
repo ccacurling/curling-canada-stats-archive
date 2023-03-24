@@ -39,7 +39,6 @@ vs:
  - Adams, Diane
  - Alexander, Diane
  - Blanchard, Judy
- - Brown, Katie
  - Chapman, Kathy
  - Dolan, Kim
  - Englot, Michelle
@@ -80,4 +79,5 @@ vs:
  - Stricker, Joan
  - Turcotte, Kristin
  - Usher, Leanne
+ - Witt, Katie
 ---

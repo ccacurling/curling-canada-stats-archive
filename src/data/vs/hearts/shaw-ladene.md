@@ -2,6 +2,34 @@
 title: Ladene Shaw Head-to-head
 name: Shaw, Ladene
 vs:
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(8)
+      score: PE 8 - YT 4
  - name: Silvernagle, Robyn
    totals:
     - event: Hearts

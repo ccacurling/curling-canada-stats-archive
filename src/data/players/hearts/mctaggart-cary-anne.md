@@ -69,11 +69,9 @@ vs:
  - Carey, Chelsea
  - Christianson, Marie
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Curtis, Erica
  - Curtis, Stacie
- - Devereaux, Julie
  - Duncan, Hollie
  - Einarson, Kerri
  - Enge, Jenna
@@ -95,7 +93,9 @@ vs:
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hutchings, Denise
+ - Hynes, Julie
  - Jones, Jennifer
+ - Kelly, Andrea
  - Koltun, Sarah
  - Kreviazuk, Cheryl
  - Lawes, Kaitlyn
@@ -107,7 +107,6 @@ vs:
  - MacPhee, Robyn
  - McCarville, Krista
  - McEwen, Dawn
- - McQuaid, Michelle
  - Miskew, Emma
  - Njegovan, Selena
  - Officer, Jill
@@ -122,6 +121,7 @@ vs:
  - Shackleton, Amie
  - Sharpe, Kelli
  - Shaw, Ladene
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Strong, Helen
  - Thevenot, Kara

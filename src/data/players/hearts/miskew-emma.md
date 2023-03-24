@@ -4,18 +4,18 @@ name: Emma Miskew
 name-sort: Miskew, Emma
 totals:
  - event: Hearts
-   games: 116
-   wins: 89
-   losses: 27
-   inturn-total: 1160
+   games: 125
+   wins: 95
+   losses: 30
+   inturn-total: 1237
    inturn-percent: 82
-   outturn-total: 1016
-   outturn-percent: 81
-   draw-total: 810
+   outturn-total: 1111
+   outturn-percent: 82
+   draw-total: 872
    draw-percent: 79
-   takeout-total: 1366
-   takeout-percent: 83
-   shots-total: 2176
+   takeout-total: 1476
+   takeout-percent: 84
+   shots-total: 2348
    shots-percent: 82
 years:
  - year: 2011
@@ -171,7 +171,25 @@ years:
    takeout-percent: 75
    shots-total: 145
    shots-percent: 75
+ - year: 2023
+   event: Hearts
+   team: "ON"
+   position: Second
+   games: 9
+   wins: 6
+   losses: 3
+   inturn-total: 77
+   inturn-percent: 88
+   outturn-total: 95
+   outturn-percent: 83
+   draw-total: 62
+   draw-percent: 82
+   takeout-total: 110
+   takeout-percent: 87
+   shots-total: 172
+   shots-percent: 85
 vs:
+ - Ackland, Abby
  - Affleck, Tricia
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
@@ -186,6 +204,7 @@ vs:
  - Baier, Stephanie
  - Barbour, Shona
  - Barker, Penny
+ - Barker, Shelley
  - Baxter, Jennifer
  - Beauchamp, Sasha
  - Belisle, Eve
@@ -207,9 +226,11 @@ vs:
  - Brown, Rachel
  - Burgess, Karlee
  - Burns, Krysta
+ - Burt, Camille
  - Cameron, Kate
  - Camozzi, Rhonda
  - Campbell, Jolene
+ - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
@@ -222,7 +243,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Jessica
  - Curtis, Erica
  - Curtis, Stacie
@@ -231,7 +251,6 @@ vs:
  - deJager, Blaine
  - Derry, Danielle
  - deSolla, Jodie
- - Devereaux, Julie
  - Doerksen, Katherine
  - Doig, Deanna
  - Dolan, Kim
@@ -239,8 +258,10 @@ vs:
  - Duncan, Chelsea
  - Dykstra, Michelle
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Enge, Jenna
  - Englot, Michelle
+ - Everist, Karlee
  - Eyamie, Lisa
  - Fallis, Karen
  - Ferguson, Dana
@@ -262,6 +283,7 @@ vs:
  - Guy, Sara
  - Guzzwell, Stephanie
  - Hamilton, Beth
+ - Harris, Briane
  - Hastings, Julie
  - Haughian, Jessie
  - Hawes, Dezaray
@@ -271,6 +293,7 @@ vs:
  - Holtby, Taryn
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Colleen
@@ -278,6 +301,7 @@ vs:
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - Kitz, Chaelynn
  - Kleibrink, Shannon
@@ -314,9 +338,7 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Mercer, Adrienne
  - Miller, Wendy
  - Moore, Kristie
@@ -330,6 +352,7 @@ vs:
  - Nowlan, Denise
  - Nugent, Pamela
  - Officer, Jill
+ - Oliver, Sara
  - Olson-Johns, Lori
  - O'Rourke, Brittany
  - Overton-Clapham, Cathy
@@ -364,6 +387,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli
+ - Shea, Michelle
  - Shumay, Jill
  - Sicinski, Danielle
  - Silvernagle, Robyn
@@ -392,6 +416,7 @@ vs:
  - Van Osch, Kesa
  - Walker, Laura
  - Wallingham, Patty
+ - Walter, Meghan
  - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah

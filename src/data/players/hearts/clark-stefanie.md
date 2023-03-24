@@ -133,7 +133,6 @@ vs:
  - Carrier, Julie
  - Carter, Sasha
  - Comeau, Sandy
- - Crawford, Andrea
  - Cunningham, Cathy
  - Darbyshire, Carolyn
  - Delahunt, Nancy
@@ -158,6 +157,7 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - Kidd, Darlene
  - King, Cathy

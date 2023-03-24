@@ -70,7 +70,6 @@ vs:
  - Christianson, Marie
  - Courtney, Joanne
  - Curtis, Erica
- - Devereaux, Julie
  - Duncan, Chelsea
  - Eddy, Lori
  - Einarson, Kerri
@@ -80,10 +79,12 @@ vs:
  - Gates, Jennifer
  - Griffin, Alison
  - Hamilton, Beth
+ - Harris, Briane
  - Hill, Sarah
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
  - Jones, Jennifer
  - Kitz, Chaelynn
  - Knapp, Breanne
@@ -98,8 +99,6 @@ vs:
  - Martin, Nancy
  - McCarville, Krista
  - McEwen, Dawn
- - McQuaid, Michelle
- - Meilleur, Briane
  - Mercer, Adrienne
  - Miskew, Emma
  - Njegovan, Selena
@@ -109,6 +108,7 @@ vs:
  - Porter, Erin
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Sippala, Ashley
  - St-Georges, Cynthia

@@ -4,18 +4,18 @@ name: Kristie Moore
 name-sort: Moore, Kristie
 totals:
  - event: Hearts
-   games: 43
-   wins: 21
-   losses: 22
-   inturn-total: 426
+   games: 45
+   wins: 22
+   losses: 23
+   inturn-total: 430
    inturn-percent: 79
-   outturn-total: 357
+   outturn-total: 363
    outturn-percent: 77
-   draw-total: 476
+   draw-total: 482
    draw-percent: 80
-   takeout-total: 307
+   takeout-total: 311
    takeout-percent: 75
-   shots-total: 783
+   shots-total: 793
    shots-percent: 78
 years:
  - year: 2000
@@ -86,7 +86,25 @@ years:
    takeout-percent: 75
    shots-total: 209
    shots-percent: 82
+ - year: 2023
+   event: Hearts
+   team: "WC"
+   position: Second
+   games: 2
+   wins: 1
+   losses: 1
+   inturn-total: 4
+   inturn-percent: 44
+   outturn-total: 6
+   outturn-percent: 83
+   draw-total: 6
+   draw-percent: 63
+   takeout-total: 4
+   takeout-percent: 75
+   shots-total: 10
+   shots-percent: 68
 vs:
+ - Ackland, Abby
  - Affleck, Tricia
  - Armstrong, Jennifer
  - Arnaud, Chloe
@@ -111,24 +129,25 @@ vs:
  - Brown, Rachel
  - Cameron, Kate
  - Campbell, June
+ - Campbell, Kerry
  - Carey, Chelsea
  - Carter, Sasha
  - Christianson, Marie
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Curtis, Erica
  - Curtis, Stacie
  - Daku, Karen
  - Delahunt, Nancy
  - deSolla, Jodie
- - Devereaux, Julie
  - Dezura, Diane
  - Dobson, Sue
  - Dufresne, Audree
  - Duncan, Hollie
+ - Duncan, Jenna
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Enge, Jenna
  - Englot, Michelle
  - Ferguson, Dana
@@ -153,11 +172,13 @@ vs:
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hutchings, Denise
+ - Hynes, Julie
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
  - Jones-Walker, Debbie
+ - Kelly, Andrea
  - Kelly, Kim
  - Koehler, Megan
  - Koltun, Sarah
@@ -181,13 +202,13 @@ vs:
  - McCarville, Krista
  - McEwen, Dawn
  - McKnight, Patti
- - McQuaid, Michelle
  - Merklinger, Anne
  - Miller, Wendy
  - Miskew, Emma
  - Nedohin, Heather
  - Njegovan, Selena
  - Officer, Jill
+ - Oliver, Sara
  - O'Rourke, Brittany
  - Overton-Clapham, Cathy
  - Parsons, Danielle
@@ -209,6 +230,7 @@ vs:
  - Shackleton, Amie
  - Sharpe, Kelli
  - Shaw, Ladene
+ - Shea, Michelle
  - Shumay, Jill
  - Silvernagle, Robyn
  - Skinner, Julie
@@ -220,11 +242,13 @@ vs:
  - Thevenot, Kara
  - Thiboutot, Isabelle
  - Tran, Brittany
+ - Tuor, Kimberly
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
  - Vautour, Carrie
  - Walter, Cathy
+ - Walter, Meghan
  - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah

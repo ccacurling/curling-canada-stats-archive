@@ -107,7 +107,6 @@ vs:
  - Clarke, Hayley
  - Comeau, Sandy
  - Cormier, Sharon
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
@@ -135,6 +134,7 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Korab, Stephanie
  - Lang, Lorraine
  - Larouche, Marie-France

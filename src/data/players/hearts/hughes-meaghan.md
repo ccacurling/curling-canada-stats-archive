@@ -4,18 +4,18 @@ name: Meaghan Hughes
 name-sort: Hughes, Meaghan
 totals:
  - event: Hearts
-   games: 68
-   wins: 28
-   losses: 40
-   inturn-total: 656
+   games: 76
+   wins: 30
+   losses: 46
+   inturn-total: 754
    inturn-percent: 79
-   outturn-total: 668
+   outturn-total: 718
    outturn-percent: 79
-   draw-total: 618
-   draw-percent: 77
-   takeout-total: 706
+   draw-total: 748
+   draw-percent: 78
+   takeout-total: 724
    takeout-percent: 81
-   shots-total: 1324
+   shots-total: 1472
    shots-percent: 79
 years:
  - year: 2016
@@ -137,6 +137,23 @@ years:
    takeout-percent: 70
    shots-total: 154
    shots-percent: 72
+ - year: 2023
+   event: Hearts
+   team: "PE"
+   position: Lead
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 98
+   inturn-percent: 79
+   outturn-total: 50
+   outturn-percent: 82
+   draw-total: 130
+   draw-percent: 81
+   takeout-total: 18
+   takeout-percent: 75
+   shots-total: 148
+   shots-percent: 80
 vs:
  - Adams, Melissa
  - Alcoe-Holland, Jill
@@ -152,6 +169,7 @@ vs:
  - Baldwin, Nicole
  - Barbour, Shona
  - Barker, Penny
+ - Barker, Shelley
  - Barron, Lauren
  - Baxter, Jennifer
  - Belisle, Eve
@@ -172,20 +190,20 @@ vs:
  - Clark-Rouire, Jennifer
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
- - Devereaux, Julie
  - Doig, Deanna
+ - Dubue, Lindsay
  - Duncan, Chelsea
  - Duncan, Hollie
  - Eddy, Lori
  - Einarson, Kerri
  - Enge, Jenna
  - Englot, Michelle
+ - Everist, Karlee
  - Eyamie, Lisa
  - Ferguson, Dana
  - Fisher, Sam
@@ -197,12 +215,14 @@ vs:
  - Gamble, Christie
  - Gates, Jennifer
  - Gibson, Amy
+ - Grandy, Clancy
  - Griffin, Alison
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Harris, Briane
  - Harvey, Marie-Pier
  - Haughian, Jessie
  - Hawes, Dezaray
@@ -211,9 +231,12 @@ vs:
  - Homan, Rachel
  - Howard, Ashley
  - Hunkin, Jessie
+ - Hynes, Julie
  - Jewer, Michelle
  - Jones, Jennifer
+ - Just, Sherry
  - Karwacki, Krysten
+ - Kelly, Andrea
  - Kitz, Chaelynn
  - Klymchuk, Ashley
  - Knapp, Breanne
@@ -229,9 +252,11 @@ vs:
  - Lilly, Kendra
  - Lister, Kendra
  - Logan, Emma
+ - Loken, Sarah
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - Mackey, Robyn
+ - MacMillan, Kayla
  - MacPhail, Brigitte
  - Mallett, Marla
  - Mann, Lauren
@@ -241,8 +266,8 @@ vs:
  - McEvoy, Julie
  - McEwen, Dawn
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Mercer, Adrienne
+ - Middaugh, Kelly
  - Miskew, Emma
  - Moore, Kristie
  - Murphy, Sarah
@@ -265,15 +290,18 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Rainville, Julie
+ - Ramsay, Geri-Lynn
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Routledge, Alanna
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
  - Saulnier, Andrea
+ - Schafer, Kelly
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
@@ -284,6 +312,8 @@ vs:
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Strong, Helen
@@ -301,6 +331,7 @@ vs:
  - Van Osch, Kesa
  - Van Osch, Marika
  - Vautour, Carrie
+ - Walker, Laura
  - Wark, Sarah
  - Weagle, Lisa
  - West, Christianne

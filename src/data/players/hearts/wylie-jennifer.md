@@ -92,7 +92,6 @@ vs:
  - Cooper, Kathryn
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Jennifer
  - Cunningham, Jessica
@@ -115,6 +114,7 @@ vs:
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kelly, Andrea
  - Knezevic, Patti
  - Koehler, Megan
  - Koltun, Sarah
@@ -129,7 +129,6 @@ vs:
  - Materi, Roberta
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - Miller, Wendy
  - Miskew, Emma
  - Murphy, Jeanette
@@ -150,6 +149,7 @@ vs:
  - Schmidt, Stephanie
  - Schneider, Kim
  - Scott, Kelly
+ - Shea, Michelle
  - Slywka, Sarah
  - Smallwood, Jody
  - Smith, Heather

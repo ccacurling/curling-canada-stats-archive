@@ -1330,6 +1330,34 @@ vs:
       year: 2000
       draw: Round Robin(2)
       score: NL 6 - AB 7
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 87
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 87
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 85
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2017
+      draw: Round Robin(14)
+      score: PE 4 - AB 6
  - name: Shumay, Jill
    totals:
     - event: Hearts

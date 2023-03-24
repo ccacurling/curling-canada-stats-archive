@@ -45,7 +45,6 @@ vs:
  - Carter, Sasha
  - Comeau, Martine
  - Cormier, Sharon
- - Crawford, Andrea
  - Crouse, Jennifer
  - Ellis, Danielle
  - George, Tara
@@ -55,6 +54,7 @@ vs:
  - Holland, Amber
  - Jones, Jennifer
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Koehler, Megan
  - LeDrew, Stephanie
  - Lemon, Colette

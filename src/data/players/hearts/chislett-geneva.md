@@ -72,7 +72,6 @@ vs:
  - Arnaud, Chloe
  - Curtis, Erica
  - Curtis, Stacie
- - Devereaux, Julie
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
@@ -81,15 +80,16 @@ vs:
  - Gibson, Amy
  - Harvey, Marie-Pier
  - Hughes, Meaghan
+ - Hynes, Julie
  - Inglis, Danielle
  - Kreviazuk, Cheryl
  - LeDrew, Stephanie
  - MacPhee, Robyn
- - McQuaid, Michelle
  - Perron, Melina
  - Porter, Erin
  - Price, Kara
  - Sagle, Karen
+ - Shea, Michelle
  - Smallwood, Jody
  - Thiboutot, Isabelle
  - Van Osch, Kalia

@@ -674,50 +674,6 @@ vs:
       year: 2015
       draw: Round Robin(13)
       score: CA 9 - PE 5
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 72
-        wins: 0
-        losses: 2
-      player2:
-        percent: 78
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Third
-        percent: 69
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2011
-      draw: Round Robin(1)
-      score: PE 7 - NB 9
-    - player1:
-        team: 'PE'
-        position: Third
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2013
-      draw: Round Robin(2)
-      score: PE 5 - NB 11
  - name: Crouse, Jennifer
    totals:
     - event: Hearts
@@ -2750,6 +2706,50 @@ vs:
       year: 2001
       draw: Round Robin(16)
       score: SK 2 - PE 7
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 72
+        wins: 0
+        losses: 2
+      player2:
+        percent: 78
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2011
+      draw: Round Robin(1)
+      score: PE 7 - NB 9
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2013
+      draw: Round Robin(2)
+      score: PE 5 - NB 11
  - name: Kelly, Kim
    totals:
     - event: Hearts

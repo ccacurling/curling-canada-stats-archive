@@ -66,7 +66,6 @@ vs:
  - Charette, France
  - Comeau, Martine
  - Cormier, Sharon
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Darbyshire, Carolyn
@@ -84,6 +83,7 @@ vs:
  - Jones, Jennifer
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kelly, Andrea
  - Koehler, Megan
  - Larouche, Marie-France
  - Lawton, Stefanie

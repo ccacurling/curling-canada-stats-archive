@@ -4,18 +4,18 @@ name: Kerri Einarson
 name-sort: Einarson, Kerri
 totals:
  - event: Hearts
-   games: 66
-   wins: 51
-   losses: 15
-   inturn-total: 595
-   inturn-percent: 81
-   outturn-total: 625
+   games: 78
+   wins: 62
+   losses: 16
+   inturn-total: 708
+   inturn-percent: 82
+   outturn-total: 728
    outturn-percent: 82
-   draw-total: 505
+   draw-total: 597
    draw-percent: 79
-   takeout-total: 715
+   takeout-total: 839
    takeout-percent: 84
-   shots-total: 1220
+   shots-total: 1436
    shots-percent: 82
 years:
  - year: 2016
@@ -103,7 +103,25 @@ years:
    takeout-percent: 88
    shots-total: 218
    shots-percent: 84
+ - year: 2023
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   games: 12
+   wins: 11
+   losses: 1
+   inturn-total: 113
+   inturn-percent: 87
+   outturn-total: 103
+   outturn-percent: 79
+   draw-total: 92
+   draw-percent: 78
+   takeout-total: 124
+   takeout-percent: 87
+   shots-total: 216
+   shots-percent: 83
 vs:
+ - Ackerman, Skylar
  - Adams, Melissa
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -139,11 +157,11 @@ vs:
  - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Curtis, Stacie
- - Devereaux, Julie
  - Doerksen, Katherine
+ - Dolan, Sinead
+ - Dubue, Lindsay
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
@@ -162,7 +180,9 @@ vs:
  - Gates, Amanda
  - Gates, Jennifer
  - Gibson, Amy
+ - Grandy, Clancy
  - Griffin, Alison
+ - Gustafson, Leigh
  - Guy, Sara
  - Hamon, Callan
  - Hanna, Jenn
@@ -172,7 +192,10 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
  - Jones, Jennifer
+ - Just, Sherry
+ - Kelly, Andrea
  - Kitz, Chaelynn
  - Klymchuk, Ashley
  - Knapp, Breanne
@@ -192,15 +215,18 @@ vs:
  - Lister, Kendra
  - Loder, Jenna
  - Logan, Emma
+ - Loken, Sarah
  - MacCuish, Kristin
  - MacDonald, Kaitlin
+ - MacMillan, Kayla
+ - MacPhail, Brigitte
  - MacPhee, Robyn
  - Martin, Nancy
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
+ - Middaugh, Kelly
  - Miskew, Emma
  - Moore, Kristie
  - Murphy, Sarah
@@ -219,6 +245,7 @@ vs:
  - Price, Kara
  - Quillian, Sylvie
  - Rainville, Julie
+ - Ramsay, Geri-Lynn
  - Recksiedler, Kristen
  - Richard, Marie
  - Riley, Emily
@@ -226,19 +253,24 @@ vs:
  - Routledge, Alanna
  - Routledge, Jill
  - Sagle, Karen
+ - Schafer, Kelly
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
  - Schraeder, Jeanna
  - Scotland, Nadine
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Simons, Renee
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smallwood, Jody
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Strybosch, Rachelle
+ - Taylor, Alison
  - Thevenot, Kara
  - Thompson, Karla
  - Tran, Brittany

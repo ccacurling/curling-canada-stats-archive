@@ -41,7 +41,6 @@ vs:
  - Barbour, Shona
  - Birt, Suzanne
  - Christianson, Marie
- - Crawford, Andrea
  - Forward, Katie
  - Galusha, Kerry
  - Guzzwell, Stephanie
@@ -50,17 +49,18 @@ vs:
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Jones, Jennifer
+ - Kelly, Andrea
  - Koltun, Sarah
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Moore, Kristie
  - Officer, Jill
  - Peterman, Jocelyn
  - Scheidegger, Casey
  - Sharpe, Kelli
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Thevenot, Kara
  - Tran, Brittany

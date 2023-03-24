@@ -92,7 +92,6 @@ vs:
  - Carter, Sasha
  - Christianson, Marie
  - Clark, Stefanie
- - Crawford, Andrea
  - Daniel, Sylvie
  - Darbyshire, Carolyn
  - Derick, Catherine
@@ -104,12 +103,12 @@ vs:
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Jones, Jennifer
+ - Kelly, Andrea
  - Koltun, Sarah
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - MacPhee, Robyn
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Moore, Kristie
  - Morgan, Cheryl
@@ -122,6 +121,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Simons, Renee
  - Thevenot, Kara

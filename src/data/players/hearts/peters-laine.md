@@ -210,7 +210,6 @@ vs:
  - Cordina, Sheri
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Cathy
  - Cunningham, Jennifer
  - Currie, Wendy
@@ -222,7 +221,6 @@ vs:
  - Delahunt, Nancy
  - Derry, Danielle
  - deSolla, Jodie
- - Devereaux, Julie
  - Dezura, Diane
  - Dobson, Sue
  - Doig, Deanna
@@ -265,12 +263,14 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunter, Lana
+ - Hynes, Julie
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
  - Jones-Walker, Debbie
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - Kidd, Darlene
@@ -308,7 +308,6 @@ vs:
  - McGregor, Rona
  - McInnis, Susan
  - McKnight, Patti
- - McQuaid, Michelle
  - Merklinger, Anne
  - Middaugh, Sherry
  - Miller, Wendy
@@ -352,6 +351,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli
+ - Shea, Michelle
  - Shumay, Jill
  - Sicinski, Danielle
  - Simmons, Cindy

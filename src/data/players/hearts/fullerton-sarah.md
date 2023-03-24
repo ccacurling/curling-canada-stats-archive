@@ -88,14 +88,12 @@ vs:
  - Chislett, Geneva
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
  - deSolla, Jodie
- - Devereaux, Julie
  - Doig, Deanna
  - Dufresne, Audree
  - Duncan, Hollie
@@ -110,11 +108,13 @@ vs:
  - Hill, Trish
  - Holtby, Taryn
  - Homan, Rachel
+ - Hynes, Julie
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
  - Karwacki, Krysten
+ - Kelly, Andrea
  - Kelly, Kim
  - Koehler, Megan
  - Koltun, Sarah

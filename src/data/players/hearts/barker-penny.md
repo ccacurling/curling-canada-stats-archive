@@ -64,13 +64,11 @@ vs:
  - Christianson, Marie
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
- - Devereaux, Julie
  - Englot, Michelle
  - Eyamie, Lisa
  - Flaxey, Allison
@@ -83,6 +81,8 @@ vs:
  - Hill, Trish
  - Homan, Rachel
  - Hughes, Meaghan
+ - Hynes, Julie
+ - Kelly, Andrea
  - Koehler, Megan
  - Lilly, Kendra
  - MacCuish, Kristin
@@ -94,7 +94,6 @@ vs:
  - Mattatall, Mary
  - McCarville, Krista
  - McEvoy, Julie
- - McQuaid, Michelle
  - Mercer, Adrienne
  - Miskew, Emma
  - Nedohin, Heather
@@ -112,6 +111,7 @@ vs:
  - Saulnier, Andrea
  - Schmidt, Stephanie
  - Sharpe, Kelli
+ - Shea, Michelle
  - Sippala, Ashley
  - Taylor, Alison
  - Thiessen, Alison

@@ -2290,6 +2290,34 @@ vs:
       year: 1998
       draw: Page 3-4(19)
       score: BC 3 - CA 9
+ - name: Witt, Katie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 54
+        wins: 1
+        losses: 0
+      player2:
+        percent: 50
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Second
+        percent: 54
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 50
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 1991
+      draw: Round Robin(2)
+      score: SK 10 - QC 5
  - name: Wright, Joanne
    totals:
     - event: Hearts

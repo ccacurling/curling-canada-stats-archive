@@ -71,7 +71,6 @@ vs:
  - Clark, Stefanie
  - Comeau, Martine
  - Comeau, Sandy
- - Crawford, Andrea
  - Delahunt, Nancy
  - Derick, Catherine
  - deSolla, Jodie
@@ -89,6 +88,7 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - Lang, Lorraine
  - Lawton, Stefanie

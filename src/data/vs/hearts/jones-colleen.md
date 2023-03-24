@@ -550,6 +550,50 @@ vs:
       year: 1992
       draw: Round Robin(6)
       score: NS 7 - AB 2
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 71
+        wins: 1
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Fourth
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 59
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2006
+      draw: Round Robin(16)
+      score: NS 6 - NB 3
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 59
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 87
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2013
+      draw: Round Robin(15)
+      score: NB 8 - NS 6
  - name: Kelly, Anita
    totals:
     - event: Hearts
@@ -10798,6 +10842,34 @@ vs:
       year: 1992
       draw: Round Robin(8)
       score: ON 5 - NS 4
+ - name: Witt, Katie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 57
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Fourth
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 57
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 1991
+      draw: Round Robin(14)
+      score: QC 2 - NS 9
  - name: Wright, Joanne
    totals:
     - event: Hearts

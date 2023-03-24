@@ -139,7 +139,6 @@ vs:
  - Curtis, Erica
  - Curtis, Stacie
  - deJager, Blaine
- - Devereaux, Julie
  - Duncan, Chelsea
  - Einarson, Kerri
  - Enge, Jenna
@@ -155,6 +154,7 @@ vs:
  - Harvey, Marie-Pier
  - Hughes, Meaghan
  - Hutchings, Denise
+ - Hynes, Julie
  - Jones, Jennifer
  - Knezevic, Patti
  - Koltun, Sarah
@@ -162,7 +162,6 @@ vs:
  - MacPhee, Robyn
  - Mallett, Marla
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Moore, Kristie
  - Murphy, Sarah
@@ -180,6 +179,7 @@ vs:
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Shackleton, Amie
+ - Shea, Michelle
  - Tuor, Kimberly
  - Van Osch, Kalia
  - Van Osch, Kesa

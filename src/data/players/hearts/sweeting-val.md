@@ -4,19 +4,19 @@ name: Val Sweeting
 name-sort: Sweeting, Val
 totals:
  - event: Hearts
-   games: 78
-   wins: 58
-   losses: 20
-   inturn-total: 773
-   inturn-percent: 80
-   outturn-total: 674
-   outturn-percent: 82
-   draw-total: 569
-   draw-percent: 77
-   takeout-total: 878
-   takeout-percent: 83
-   shots-total: 1447
-   shots-percent: 81
+   games: 90
+   wins: 69
+   losses: 21
+   inturn-total: 886
+   inturn-percent: 81
+   outturn-total: 781
+   outturn-percent: 83
+   draw-total: 648
+   draw-percent: 78
+   takeout-total: 1019
+   takeout-percent: 84
+   shots-total: 1667
+   shots-percent: 82
 years:
  - year: 2010
    event: Hearts
@@ -120,7 +120,25 @@ years:
    takeout-percent: 88
    shots-total: 222
    shots-percent: 87
+ - year: 2023
+   event: Hearts
+   team: "CA"
+   position: Third
+   games: 12
+   wins: 11
+   losses: 1
+   inturn-total: 113
+   inturn-percent: 87
+   outturn-total: 107
+   outturn-percent: 85
+   draw-total: 79
+   draw-percent: 86
+   takeout-total: 141
+   takeout-percent: 87
+   shots-total: 220
+   shots-percent: 86
 vs:
+ - Ackerman, Skylar
  - Affleck, Tricia
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -166,7 +184,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Jessica
  - Davies, Lisa
@@ -174,6 +191,7 @@ vs:
  - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
+ - Dubue, Lindsay
  - Duncan, Chelsea
  - Duncan, Hollie
  - Eddy, Lori
@@ -195,7 +213,9 @@ vs:
  - George, Tara
  - Georges, Kendra
  - Gilman, Sheena
+ - Grandy, Clancy
  - Griffin, Alison
+ - Gustafson, Leigh
  - Guy, Sara
  - Hardy, Shelley
  - Hastings, Julie
@@ -206,8 +226,10 @@ vs:
  - Hunkin, Jessie
  - Jones, Jennifer
  - Joyce, Blisse
+ - Just, Sherry
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kitz, Chaelynn
  - Klymchuk, Ashley
  - Knapp, Breanne
@@ -225,10 +247,13 @@ vs:
  - Lilly, Kendra
  - Loder, Jenna
  - Logan, Emma
+ - Loken, Sarah
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacLean, Kari
+ - MacMillan, Kayla
+ - MacPhail, Brigitte
  - Mann, Lauren
  - Martin, Nancy
  - McCarville, Krista
@@ -238,7 +263,7 @@ vs:
  - McEwen, Dawn
  - McInnis, Susan
  - McPherson, Cheryl
- - McQuaid, Michelle
+ - Middaugh, Kelly
  - Miskew, Emma
  - Naugler, Tara
  - Nicholls, Brenda
@@ -272,16 +297,20 @@ vs:
  - Rusnell, Jen
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Schafer, Kelly
  - Schmidt, Stephanie
  - Schneider, Kim
  - Schraeder, Jeanna
  - Scotland, Nadine
  - Scott, Kelly
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Simons, Renee
  - Sinclair, Andrea
  - Singler, Sherri
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smith, Heather
  - Smith, Megan
  - Smith, Stacey
@@ -292,6 +321,7 @@ vs:
  - Strong, Heather
  - Strong, Laura
  - Strybosch, Rachelle
+ - Taylor, Alison
  - Thevenot, Kara
  - Thomas, Jill
  - Thomas-Kennell, Noelle

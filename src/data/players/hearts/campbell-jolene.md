@@ -152,9 +152,7 @@ vs:
  - Christianson, Marie
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Curtis, Stacie
- - Devereaux, Julie
  - Dolan, Kim
  - Dolan, Sinead
  - Einarson, Kerri
@@ -174,8 +172,10 @@ vs:
  - Hanna, Stephanie
  - Hill, Sarah
  - Hughes, Meaghan
+ - Hynes, Julie
  - Jones, Jennifer
  - Joyce, Blisse
+ - Kelly, Andrea
  - Koehler, Megan
  - Larouche, Marie-France
  - Lavery, Tracey
@@ -191,7 +191,6 @@ vs:
  - Materi, Roberta
  - McCarville, Krista
  - McEwen, Dawn
- - McQuaid, Michelle
  - Mercer, Adrienne
  - Miller, Wendy
  - Miskew, Emma
@@ -220,6 +219,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli
+ - Shea, Michelle
  - Sicinski, Danielle
  - Sippala, Ashley
  - Slywka, Sarah

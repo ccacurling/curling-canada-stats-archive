@@ -199,7 +199,6 @@ vs:
  - Clark, Stefanie
  - Cooke, Gerri
  - Cordina, Sheri
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Curtis, Stacie
@@ -208,7 +207,6 @@ vs:
  - Davis, Brandee
  - Delahunt, Nancy
  - deSolla, Jodie
- - Devereaux, Julie
  - Dezura, Diane
  - Dobson, Sue
  - Dolan, Kim
@@ -251,6 +249,7 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunter, Lana
+ - Hynes, Julie
  - Iskiw, Beth
  - Jones, Colleen
  - Jones, Jennifer
@@ -260,6 +259,7 @@ vs:
  - Karam, Sally
  - Kasner, Marliese
  - Kehler, Lorie
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - Kidd, Darlene

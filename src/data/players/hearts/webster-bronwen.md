@@ -65,7 +65,6 @@ vs:
  - Carrier, Julie
  - Carter, Sasha
  - Clark, Stefanie
- - Crawford, Andrea
  - Cunningham, Cathy
  - Curtis, Stacie
  - Delahunt, Nancy
@@ -81,6 +80,7 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Kelly, Kim
  - Kidd, Darlene
  - Kreviazuk, Alison

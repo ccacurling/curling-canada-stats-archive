@@ -267,7 +267,6 @@ vs:
  - Cooke, Gerri
  - Cordina, Sheri
  - Cormier, Sharon
- - Crawford, Andrea
  - Cunningham, Cathy
  - Currie, Wendy
  - Daku, Karen
@@ -341,6 +340,7 @@ vs:
  - Kasner, Marliese
  - Kaylo, Kelly
  - Kehler, Lorie
+ - Kelly, Andrea
  - Kerr, Kathy
  - Kidd, Darlene
  - King, Cathy

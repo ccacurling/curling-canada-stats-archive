@@ -4,19 +4,19 @@ name: Kendra Lilly
 name-sort: Lilly, Kendra
 totals:
  - event: Hearts
-   games: 64
-   wins: 42
-   losses: 22
-   inturn-total: 683
-   inturn-percent: 80
-   outturn-total: 564
+   games: 75
+   wins: 50
+   losses: 25
+   inturn-total: 799
+   inturn-percent: 79
+   outturn-total: 666
    outturn-percent: 80
-   draw-total: 567
-   draw-percent: 77
-   takeout-total: 680
+   draw-total: 654
+   draw-percent: 76
+   takeout-total: 811
    takeout-percent: 82
-   shots-total: 1247
-   shots-percent: 80
+   shots-total: 1465
+   shots-percent: 79
 years:
  - year: 2016
    event: Hearts
@@ -103,7 +103,25 @@ years:
    takeout-percent: 78
    shots-total: 239
    shots-percent: 77
+ - year: 2023
+   event: Hearts
+   team: "NO"
+   position: Third
+   games: 11
+   wins: 8
+   losses: 3
+   inturn-total: 116
+   inturn-percent: 73
+   outturn-total: 102
+   outturn-percent: 81
+   draw-total: 87
+   draw-percent: 73
+   takeout-total: 131
+   takeout-percent: 79
+   shots-total: 218
+   shots-percent: 77
 vs:
+ - Ackland, Abby
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Armstrong, Jennifer
@@ -114,6 +132,7 @@ vs:
  - Baxter, Jennifer
  - Belisle, Eve
  - Birchard, Shannon
+ - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Blaney, Jennifer
@@ -124,31 +143,35 @@ vs:
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Burgess, Karlee
+ - Burt, Camille
  - Cameron, Kate
  - Campbell, Jolene
+ - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Christianson, Marie
  - Cormier, Sharon
  - Cote, Marie-Pier
  - Courtney, Joanne
- - Crawford, Andrea
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - Daigle, Julie
  - deJager, Blaine
  - Derry, Danielle
- - Devereaux, Julie
  - Doig, Deanna
+ - Duncan, Chelsea
  - Eddy, Lori
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Enge, Jenna
  - Englot, Michelle
  - Everist, Karlee
  - Eyamie, Lisa
  - Ferguson, Dana
  - Flaxey, Allison
+ - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
  - Fullerton, Sarah
@@ -160,6 +183,7 @@ vs:
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Harris, Briane
  - Haughian, Jessie
  - Hawes, Dezaray
  - Hill, Sarah
@@ -168,17 +192,21 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
  - Jones, Jennifer
  - Joyce, Blisse
+ - Kelly, Andrea
  - Kleibrink, Shannon
  - Klymchuk, Ashley
  - Koehler, Megan
+ - Koltun, Sarah
  - Larouche, Marie-France
  - Lavery, Tracey
  - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lemay, Annie
+ - Lenentine, Lauren
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacPhail, Brigitte
@@ -188,9 +216,7 @@ vs:
  - Mattatall, Mary
  - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Mercer, Adrienne
  - Miskew, Emma
  - Moore, Kristie
@@ -201,6 +227,7 @@ vs:
  - Njegovan, Selena
  - O'Connor, Susan
  - Officer, Jill
+ - Oliver, Sara
  - O'Neill, Brit
  - O'Rourke, Brittany
  - Peterman, Jocelyn
@@ -214,6 +241,7 @@ vs:
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
+ - Rizzo, Jo-Ann
  - Routledge, Alanna
  - Routledge, Jill
  - Rusnell, Jen
@@ -225,6 +253,7 @@ vs:
  - Schneider, Lorraine
  - Scotland, Nadine
  - Sharpe, Kelli
+ - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sweeting, Val
@@ -232,15 +261,18 @@ vs:
  - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla
+ - Tuor, Kimberly
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie
  - Verreault, Noemie
  - Walker, Laura
+ - Walter, Meghan
  - Wark, Sarah
  - Weagle, Lisa
  - Westcott, Raunora
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
+ - Zacharias, Mackenzie
 ---

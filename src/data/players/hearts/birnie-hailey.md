@@ -4,18 +4,18 @@ name: Hailey Birnie
 name-sort: Birnie, Hailey
 totals:
  - event: Hearts
-   games: 22
-   wins: 1
-   losses: 21
-   inturn-total: 192
-   inturn-percent: 61
-   outturn-total: 197
+   games: 30
+   wins: 2
+   losses: 28
+   inturn-total: 253
+   inturn-percent: 59
+   outturn-total: 274
    outturn-percent: 61
-   draw-total: 235
-   draw-percent: 59
-   takeout-total: 154
-   takeout-percent: 64
-   shots-total: 389
+   draw-total: 323
+   draw-percent: 58
+   takeout-total: 204
+   takeout-percent: 65
+   shots-total: 527
    shots-percent: 61
 years:
  - year: 2019
@@ -69,7 +69,25 @@ years:
    takeout-percent: 66
    shots-total: 143
    shots-percent: 61
+ - year: 2023
+   event: Hearts
+   team: "YT"
+   position: Fourth
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 61
+   inturn-percent: 55
+   outturn-total: 77
+   outturn-percent: 62
+   draw-total: 88
+   draw-percent: 55
+   takeout-total: 50
+   takeout-percent: 67
+   shots-total: 138
+   shots-percent: 59
 vs:
+ - Ackland, Abby
  - Armstrong, Hailey
  - Armstrong, Jennifer
  - Arsenault, Mary-Anne
@@ -82,49 +100,59 @@ vs:
  - Birt, Suzanne
  - Black, Christina
  - Bobbie, Tess
+ - Brothers, Jill
  - Brown, Corryn
+ - Brunton, Kira
  - Burgess, Karlee
+ - Burt, Camille
  - Cameron, Kate
  - Carter, Sasha
  - Christianson, Marie
  - Clarke, Kristin
  - Courtney, Joanne
- - Crawford, Andrea
  - Curtis, Erica
- - Devereaux, Julie
+ - Curtis, Stacie
  - Duncan, Hollie
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Everist, Karlee
  - Ferguson, Dana
  - Flemming, Margot
+ - Fleury, Tracy
  - Forward, Katie
  - Galusha, Kerry
  - Guzzwell, Stephanie
  - Hamilton, Beth
+ - Harris, Briane
  - Haughian, Jessie
  - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
  - Jones, Jennifer
+ - Kelly, Andrea
  - Klymchuk, Ashley
  - Koltun, Sarah
  - Kreviazuk, Cheryl
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lenentine, Lauren
+ - Lilly, Kendra
  - Logan, Emma
+ - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Miskew, Emma
  - Moore, Kristie
  - Officer, Jill
+ - Oliver, Sara
  - Peterman, Jocelyn
  - Pincott, Erin
  - Porter, Erin
+ - Potts, Sarah
+ - Quillian, Sylvie
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Routledge, Alanna
@@ -132,8 +160,10 @@ vs:
  - Schraeder, Jeanna
  - Scotland, Nadine
  - Sharpe, Kelli
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Simons, Renee
+ - Sippala, Ashley
  - St-Georges, Laurie
  - Strybosch, Rachelle
  - Sweeting, Val
@@ -141,7 +171,9 @@ vs:
  - Tran, Brittany
  - Vautour, Carrie
  - Walker, Laura
+ - Walter, Meghan
  - Weagle, Lisa
+ - Wilkes, Sarah
  - Zacharias, Emily
  - Zacharias, Mackenzie
 ---

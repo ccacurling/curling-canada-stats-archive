@@ -282,34 +282,6 @@ vs:
       year: 2017
       draw: Round Robin(5)
       score: NS 6 - NT 8
- - name: Devereaux, Julie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 0
-        losses: 1
-      player2:
-        percent: 90
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Second
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 90
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2017
-      draw: Round Robin(17)
-      score: NS 4 - NL 7
  - name: Englot, Michelle
    totals:
     - event: Hearts
@@ -506,6 +478,34 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: NS 4 - PE 9
+ - name: Hynes, Julie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 90
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Round Robin(17)
+      score: NS 4 - NL 7
  - name: Karwacki, Krysten
    totals:
     - event: Hearts
@@ -702,34 +702,6 @@ vs:
       year: 2017
       draw: Round Robin(16)
       score: NS 4 - NO 6
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 74
-        wins: 0
-        losses: 1
-      player2:
-        percent: 92
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Second
-        percent: 74
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 92
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2017
-      draw: Round Robin(8)
-      score: NS 4 - PE 9
  - name: Miskew, Emma
    totals:
     - event: Hearts
@@ -982,6 +954,34 @@ vs:
       year: 2017
       draw: Round Robin(1)
       score: NS 5 - BC 4
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 0
+        losses: 1
+      player2:
+        percent: 92
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 92
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Round Robin(8)
+      score: NS 4 - PE 9
  - name: Sippala, Ashley
    totals:
     - event: Hearts

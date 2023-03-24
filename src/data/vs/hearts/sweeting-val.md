@@ -2,17 +2,45 @@
 title: Val Sweeting Head-to-head
 name: Sweeting, Val
 vs:
+ - name: Taylor, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 73
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(18)
+      score: NU 3 - CA 11
  - name: Thevenot, Kara
    totals:
     - event: Hearts
       player1:
-        percent: 89
-        wins: 1
+        percent: 93
+        wins: 2
         losses: 0
       player2:
-        percent: 96
+        percent: 93
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'MB'
@@ -30,6 +58,22 @@ vs:
       year: 2020
       draw: Round Robin(11)
       score: SK 6 - MB 10
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(11)
+      score: CA 10 - SK 3
  - name: Thomas, Jill
    totals:
     - event: Hearts
@@ -162,13 +206,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 78
-        wins: 1
+        percent: 79
+        wins: 2
         losses: 0
       player2:
-        percent: 75
+        percent: 79
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'CA'
@@ -186,6 +230,22 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: CA 6 - WC 4
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(16)
+      score: CA 9 - AB 8
  - name: Trombley, Christy
    totals:
     - event: Hearts
@@ -330,13 +390,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 85
-        wins: 4
+        percent: 83
+        wins: 5
         losses: 0
       player2:
-        percent: 68
+        percent: 72
         wins: 0
-        losses: 4
+        losses: 5
    games:
     - player1:
         team: 'MB'
@@ -402,6 +462,22 @@ vs:
       year: 2022
       draw: Round Robin(8)
       score: CA 10 - AB 5
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(5)
+      score: WC 9 - CA 10
  - name: Wallingham, Patty
    totals:
     - event: Hearts
@@ -714,12 +790,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 81
+        percent: 84
         wins: 2
-        losses: 0
+        losses: 1
       player2:
-        percent: 69
-        wins: 0
+        percent: 77
+        wins: 1
         losses: 2
    games:
     - player1:
@@ -754,17 +830,33 @@ vs:
       year: 2022
       draw: Round Robin(18)
       score: CA 10 - MB 7
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Playoff(21)
+      score: MB 8 - CA 6
  - name: Zacharias, Mackenzie
    totals:
     - event: Hearts
       player1:
-        percent: 81
-        wins: 2
-        losses: 0
+        percent: 84
+        wins: 3
+        losses: 1
       player2:
-        percent: 67
-        wins: 0
-        losses: 2
+        percent: 79
+        wins: 1
+        losses: 3
    games:
     - player1:
         team: 'CA'
@@ -798,4 +890,36 @@ vs:
       year: 2022
       draw: Round Robin(18)
       score: CA 10 - MB 7
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 94
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Playoff(21)
+      score: MB 8 - CA 6
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Final(25)
+      score: MB 4 - CA 10
 ---

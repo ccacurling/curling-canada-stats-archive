@@ -2042,34 +2042,6 @@ vs:
       year: 2021
       draw: Pool(23)
       score: SK 2 - ON 7
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 77
-        wins: 1
-        losses: 0
-      player2:
-        percent: 77
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Third
-        percent: 77
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 77
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2014
-      draw: Round Robin(6)
-      score: NB 3 - SK 9
  - name: Crispo, Guylaine
    totals:
     - event: Hearts
@@ -3986,6 +3958,34 @@ vs:
       year: 2004
       draw: Round Robin(12)
       score: SK 9 - NB 4
+ - name: Harris, Briane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 0
+        losses: 1
+      player2:
+        percent: 91
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Pool(20)
+      score: SK 6 - CA 10
  - name: Harris, Susan
    totals:
     - event: Hearts
@@ -4814,6 +4814,34 @@ vs:
       year: 2002
       draw: Round Robin(12)
       score: SK 6 - TR 5
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 77
+        wins: 1
+        losses: 0
+      player2:
+        percent: 77
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Third
+        percent: 77
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 77
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2014
+      draw: Round Robin(6)
+      score: NB 3 - SK 9
  - name: Kelly, Kim
    totals:
     - event: Hearts
@@ -6394,78 +6422,6 @@ vs:
       year: 1994
       draw: Round Robin(12)
       score: SK 11 - AB 4
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 69
-        wins: 1
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Third
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Second
-        percent: 73
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(17)
-      score: PE 4 - SK 5
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 49
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 89
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(2)
-      score: PE 7 - SK 6
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 69
-        wins: 0
-        losses: 1
-      player2:
-        percent: 91
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 69
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 91
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Pool(20)
-      score: SK 6 - CA 10
  - name: Mercer, Adrienne
    totals:
     - event: Hearts
@@ -7766,6 +7722,50 @@ vs:
       year: 1995
       draw: Round Robin(9)
       score: CA 2 - SK 4
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 1
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(17)
+      score: PE 4 - SK 5
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 49
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(2)
+      score: PE 7 - SK 6
  - name: Shields, Deanne
    totals:
     - event: Hearts

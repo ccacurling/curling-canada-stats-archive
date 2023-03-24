@@ -123,7 +123,6 @@ vs:
  - Bradley, Shelley
  - Breen, Theresa
  - Brophy, Kathy
- - Brown, Katie
  - Bryant, Angie
  - Burgess, Judy
  - Burry, Gail
@@ -285,6 +284,7 @@ vs:
  - Wheatcroft, Georgina
  - Whitrow, Leanne
  - Willms, Karri
+ - Witt, Katie
  - Wright, Susan
  - Zinck, Kay
 ---

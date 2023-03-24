@@ -76,7 +76,6 @@ vs:
  - Curtis, Stacie
  - Delahunt, Nancy
  - Derick, Catherine
- - Devereaux, Julie
  - Einarson, Kerri
  - Farrell, Allison
  - Fortier, Marie-Josee
@@ -88,6 +87,7 @@ vs:
  - Hamon, Callan
  - Howard, Ashley
  - Hughes, Meaghan
+ - Hynes, Julie
  - Jones, Colleen
  - Jones, Jennifer
  - Kasner, Marliese

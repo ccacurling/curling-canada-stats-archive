@@ -136,6 +136,10 @@ years:
    takeout-percent: 82
    shots-total: 186
    shots-percent: 78
+ - year: 2023
+   event: Hearts
+   team: "WC"
+   position: Alternate
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -166,11 +170,9 @@ vs:
  - Carmody, Erin
  - Christianson, Marie
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Curtis, Stacie
  - Daigle, Julie
- - Devereaux, Julie
  - Doerksen, Katherine
  - Duncan, Chelsea
  - Duncan, Hollie
@@ -197,12 +199,15 @@ vs:
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Harris, Briane
  - Hawes, Dezaray
  - Hill, Sarah
  - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
+ - Hynes, Julie
  - Jones, Jennifer
+ - Kelly, Andrea
  - Kitz, Chaelynn
  - Knapp, Breanne
  - Koehler, Megan
@@ -226,9 +231,7 @@ vs:
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Mercer, Adrienne
  - Miskew, Emma
  - Moore, Kristie
@@ -259,6 +262,7 @@ vs:
  - Scheidegger, Jessie
  - Schmidt, Stephanie
  - Sharpe, Kelli
+ - Shea, Michelle
  - Sicinski, Danielle
  - Sippala, Ashley
  - Smallwood, Jody

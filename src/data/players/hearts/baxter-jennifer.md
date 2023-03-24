@@ -4,19 +4,19 @@ name: Jennifer Baxter
 name-sort: Baxter, Jennifer
 totals:
  - event: Hearts
-   games: 52
-   wins: 29
-   losses: 23
-   inturn-total: 633
-   inturn-percent: 82
-   outturn-total: 365
-   outturn-percent: 80
-   draw-total: 570
+   games: 64
+   wins: 36
+   losses: 28
+   inturn-total: 758
+   inturn-percent: 81
+   outturn-total: 473
+   outturn-percent: 79
+   draw-total: 661
    draw-percent: 82
-   takeout-total: 428
+   takeout-total: 570
    takeout-percent: 79
-   shots-total: 998
-   shots-percent: 81
+   shots-total: 1231
+   shots-percent: 80
 years:
  - year: 2013
    event: Hearts
@@ -103,6 +103,23 @@ years:
    takeout-percent: 71
    shots-total: 174
    shots-percent: 76
+ - year: 2023
+   event: Hearts
+   team: "NS"
+   position: Third
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 125
+   inturn-percent: 79
+   outturn-total: 108
+   outturn-percent: 77
+   draw-total: 91
+   draw-percent: 79
+   takeout-total: 142
+   takeout-percent: 77
+   shots-total: 233
+   shots-percent: 78
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -135,13 +152,12 @@ vs:
  - Cooper, Kathryn
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Jessica
  - Curtis, Erica
  - Curtis, Stacie
  - deJager, Blaine
  - deSolla, Jodie
- - Devereaux, Julie
+ - Dubue, Lindsay
  - Dufresne, Audree
  - Duncan, Chelsea
  - Duncan, Hollie
@@ -161,17 +177,22 @@ vs:
  - Galusha, Kerry
  - Gates, Amanda
  - Gibson, Amy
+ - Grandy, Clancy
  - Hamilton, Beth
+ - Harris, Briane
  - Hastings, Julie
  - Hawes, Dezaray
  - Holtby, Taryn
  - Homan, Rachel
  - Hughes, Meaghan
+ - Hynes, Julie
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Jennifer
+ - Just, Sherry
  - Kallechy, Rachelle
  - Kasner, Marliese
+ - Kelly, Andrea
  - Klymchuk, Ashley
  - Knezevic, Patti
  - Koehler, Megan
@@ -186,8 +207,12 @@ vs:
  - Lenentine, Lauren
  - Lilly, Kendra
  - Lister, Kendra
+ - Loken, Sarah
  - MacCuish, Kristin
+ - MacDonald, Kaitlin
  - MacDougall, Leslie
+ - MacMillan, Kayla
+ - MacPhail, Brigitte
  - Mair, Jessica
  - Mann, Lauren
  - Martin, Heather
@@ -195,9 +220,8 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
+ - Middaugh, Kelly
  - Miller, Wendy
  - Miskew, Emma
  - Moore, Kristie
@@ -212,26 +236,34 @@ vs:
  - Pewarchuk, Dailene
  - Pilote, Kristen
  - Pincott, Erin
+ - Pinksen, Sadie
  - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
  - Price, Kara
  - Quillian, Sylvie
+ - Ramsay, Geri-Lynn
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Ross, Allison
+ - Routledge, Alanna
  - Rusnell, Jen
  - Sagle, Karen
+ - Schafer, Kelly
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
  - Schraeder, Jeanna
  - Scotland, Nadine
  - Scott, Kelly
+ - Shea, Michelle
  - Shumay, Jill
+ - Silvernagle, Robyn
  - Simons, Renee
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smallwood, Jody
  - Smith, Stacey
  - St-Georges, Cynthia
@@ -239,6 +271,9 @@ vs:
  - Strong, Heather
  - Strybosch, Rachelle
  - Sweeting, Val
+ - Taylor, Alison
+ - Thevenot, Kara
+ - Tran, Brittany
  - Trombley, Christy
  - Tuor, Kimberly
  - Van Osch, Kalia
@@ -251,6 +286,7 @@ vs:
  - Weagle, Lisa
  - Webster, Crystal
  - Westcott, Raunora
+ - Wilkes, Sarah
  - Wilson, Leslie
  - Wylie, Jennifer
  - Zacharias, Emily

@@ -4,18 +4,18 @@ name: Jocelyn Peterman
 name-sort: Peterman, Jocelyn
 totals:
  - event: Hearts
-   games: 62
-   wins: 44
-   losses: 18
-   inturn-total: 593
+   games: 71
+   wins: 49
+   losses: 22
+   inturn-total: 680
    inturn-percent: 81
-   outturn-total: 595
+   outturn-total: 679
    outturn-percent: 83
-   draw-total: 475
+   draw-total: 559
    draw-percent: 80
-   takeout-total: 713
+   takeout-total: 800
    takeout-percent: 83
-   shots-total: 1188
+   shots-total: 1359
    shots-percent: 82
 years:
  - year: 2016
@@ -103,6 +103,23 @@ years:
    takeout-percent: 81
    shots-total: 245
    shots-percent: 82
+ - year: 2023
+   event: Hearts
+   team: "WC"
+   position: Second
+   games: 9
+   wins: 5
+   losses: 4
+   inturn-total: 87
+   inturn-percent: 78
+   outturn-total: 84
+   outturn-percent: 83
+   draw-total: 84
+   draw-percent: 80
+   takeout-total: 87
+   takeout-percent: 81
+   shots-total: 171
+   shots-percent: 81
 vs:
  - Adams, Melissa
  - Alcoe-Holland, Jill
@@ -117,6 +134,7 @@ vs:
  - Baldwin, Nicole
  - Barbour, Shona
  - Barker, Penny
+ - Barker, Shelley
  - Barron, Lauren
  - Baxter, Jennifer
  - Belisle, Eve
@@ -136,19 +154,19 @@ vs:
  - Clark-Rouire, Jennifer
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
- - Devereaux, Julie
  - Doerksen, Katherine
  - Doig, Deanna
+ - Dubue, Lindsay
  - Duncan, Chelsea
  - Eddy, Lori
  - Einarson, Kerri
  - Englot, Michelle
+ - Everist, Karlee
  - Eyamie, Lisa
  - Ferguson, Dana
  - Fisher, Sam
@@ -157,11 +175,14 @@ vs:
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Jennifer
+ - Grandy, Clancy
  - Griffin, Alison
+ - Gustafson, Leigh
  - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
+ - Harris, Briane
  - Haughian, Jessie
  - Hawes, Dezaray
  - Hill, Sarah
@@ -170,8 +191,11 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
  - Inglis, Danielle
  - Jones, Jennifer
+ - Just, Sherry
+ - Kelly, Andrea
  - Kitz, Chaelynn
  - Kleibrink, Shannon
  - Klymchuk, Ashley
@@ -187,8 +211,11 @@ vs:
  - Lister, Kendra
  - Loder, Jenna
  - Logan, Emma
+ - Loken, Sarah
  - MacCuish, Kristin
  - MacDonald, Kaitlin
+ - MacMillan, Kayla
+ - MacPhail, Brigitte
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
@@ -197,10 +224,9 @@ vs:
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Mercer, Adrienne
+ - Middaugh, Kelly
  - Miskew, Emma
  - Moore, Kristie
  - Murphy, Sarah
@@ -219,25 +245,32 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Rainville, Julie
+ - Ramsay, Geri-Lynn
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Routledge, Alanna
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
  - Saulnier, Andrea
+ - Schafer, Kelly
  - Scheidegger, Casey
  - Schneider, Lorraine
  - Shaw, Ladene
+ - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Strong, Helen
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla

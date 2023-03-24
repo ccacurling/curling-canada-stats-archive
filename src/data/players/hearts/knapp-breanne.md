@@ -114,7 +114,6 @@ vs:
  - Carey, Chelsea
  - Christianson, Marie
  - Courtney, Joanne
- - Crawford, Andrea
  - Curtis, Stacie
  - Davies, Lisa
  - Doerksen, Katherine
@@ -126,12 +125,14 @@ vs:
  - Griffin, Alison
  - Guzzwell, Stephanie
  - Hamilton, Beth
+ - Harris, Briane
  - Hawes, Dezaray
  - Hill, Sarah
  - Homan, Rachel
  - Hughes, Meaghan
  - Jones, Jennifer
  - Joyce, Blisse
+ - Kelly, Andrea
  - Lawes, Kaitlyn
  - Lister, Kendra
  - Loder, Jenna
@@ -139,8 +140,6 @@ vs:
  - MacDonald, Kaitlin
  - Martin, Heather
  - McDonald, Taylor
- - McQuaid, Michelle
- - Meilleur, Briane
  - Mercer, Adrienne
  - Miskew, Emma
  - Njegovan, Selena
@@ -154,6 +153,7 @@ vs:
  - Pinksen, Sadie
  - Riley, Emily
  - Ross, Allison
+ - Shea, Michelle
  - Smith, Heather
  - Sobey, Lianne
  - St-Georges, Cynthia

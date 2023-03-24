@@ -46,6 +46,34 @@ vs:
       year: 2020
       draw: Round Robin(9)
       score: NO 5 - NU 6
+ - name: Harris, Briane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(6)
+      score: NO 7 - MB 8
  - name: Haughian, Jessie
    totals:
     - event: Hearts
@@ -310,6 +338,34 @@ vs:
       year: 2020
       draw: Pool(19)
       score: NO 11 - WC 6
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 64
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 64
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Round Robin(4)
+      score: NB 3 - NO 9
  - name: Klymchuk, Ashley
    totals:
     - event: Hearts
@@ -610,50 +666,6 @@ vs:
       year: 2020
       draw: Pool(19)
       score: NO 11 - WC 6
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 2
-        losses: 0
-      player2:
-        percent: 93
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'NO'
-        position: Second
-        percent: 85
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 94
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2019
-      draw: Pool(19)
-      score: NO 7 - PE 6
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent: 84
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 91
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Pool(18)
-      score: PE 5 - NO 6
  - name: McTaggart, Cary-Anne
    totals:
     - event: Hearts
@@ -682,34 +694,6 @@ vs:
       year: 2019
       draw: Pool(17)
       score: NO 7 - WC 5
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 0
-        losses: 1
-      player2:
-        percent: 79
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent: 78
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 79
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(6)
-      score: NO 7 - MB 8
  - name: Miller, Wendy
    totals:
     - event: Hearts
@@ -1238,6 +1222,50 @@ vs:
       year: 2020
       draw: Round Robin(12)
       score: AB 3 - NO 4
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 2
+        losses: 0
+      player2:
+        percent: 93
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'NO'
+        position: Second
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2019
+      draw: Pool(19)
+      score: NO 7 - PE 6
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Pool(18)
+      score: PE 5 - NO 6
  - name: Silvernagle, Robyn
    totals:
     - event: Hearts

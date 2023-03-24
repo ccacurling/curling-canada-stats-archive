@@ -103,6 +103,10 @@ years:
    takeout-percent: 81
    shots-total: 203
    shots-percent: 78
+ - year: 2023
+   event: Hearts
+   team: "NB"
+   position: Alternate
 vs:
  - Affleck, Tricia
  - Anderson, Sherry
@@ -139,7 +143,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Cathy
  - Cunningham, Jennifer
  - Cunningham, Jessica
@@ -148,7 +151,6 @@ vs:
  - Davies, Lisa
  - Delahunt, Nancy
  - deSolla, Jodie
- - Devereaux, Julie
  - Dezura, Diane
  - Dobson, Sue
  - Dolan, Kim
@@ -184,12 +186,14 @@ vs:
  - Homan, Rachel
  - Horte, Rhonda
  - Hunter, Lana
+ - Hynes, Julie
  - Iskiw, Beth
  - Jones, Colleen
  - Jones, Jennifer
  - Jones-Walker, Debbie
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - Kleibrink, Shannon

@@ -134,7 +134,6 @@ vs:
  - Delahunt, Nancy
  - Derick, Catherine
  - Derry, Danielle
- - Devereaux, Julie
  - Doig, Deanna
  - Dolan, Kim
  - Ellis, Danielle
@@ -156,6 +155,7 @@ vs:
  - Homan, Rachel
  - Horne, Kate
  - Hughes, Meaghan
+ - Hynes, Julie
  - Inglis, Nancy
  - Jones, Colleen
  - Jones, Jennifer
@@ -178,7 +178,6 @@ vs:
  - McCarville, Krista
  - McDonald, Tina
  - McNamee, Karen
- - McQuaid, Michelle
  - Middaugh, Sherry
  - Miller, Maureen
  - Miller, Wendy
@@ -214,6 +213,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli
+ - Shea, Michelle
  - Sicinski, Danielle
  - Simons, Renee
  - Sippala, Ashley

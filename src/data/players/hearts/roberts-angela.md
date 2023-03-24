@@ -65,7 +65,6 @@ vs:
  - Bonar, Maureen
  - Breen, Theresa
  - Brophy, Kathy
- - Brown, Katie
  - Cameron, Nancy
  - Charette, Agnes
  - Charette, France
@@ -126,6 +125,7 @@ vs:
  - Turcotte, Kristin
  - Usher, Leanne
  - Willms, Karri
+ - Witt, Katie
  - Wright, Joanne
  - Wright, Susan
  - Zinck, Kay

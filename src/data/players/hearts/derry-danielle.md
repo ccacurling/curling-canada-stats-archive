@@ -48,7 +48,6 @@ vs:
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
- - Devereaux, Julie
  - Doig, Deanna
  - Englot, Michelle
  - Eyamie, Lisa
@@ -57,13 +56,13 @@ vs:
  - Hill, Trish
  - Homan, Rachel
  - Hughes, Meaghan
+ - Hynes, Julie
  - Lilly, Kendra
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
  - Mattatall, Mary
  - McCarville, Krista
- - McQuaid, Michelle
  - Miskew, Emma
  - Nedohin, Heather
  - Nixon, Amy
@@ -75,6 +74,7 @@ vs:
  - Richards, Brette
  - Saulnier, Andrea
  - Schneider, Lorraine
+ - Shea, Michelle
  - Sicinski, Danielle
  - Sippala, Ashley
  - Thiessen, Alison

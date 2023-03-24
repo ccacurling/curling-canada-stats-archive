@@ -274,6 +274,50 @@ vs:
       year: 2017
       draw: Round Robin(4)
       score: PE 3 - ON 8
+ - name: Hynes, Julie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 0
+        losses: 2
+      player2:
+        percent: 79
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 59
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Round Robin(15)
+      score: PE 4 - NL 10
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(1)
+      score: PE 6 - NL 11
  - name: Iskiw, Beth
    totals:
     - event: Hearts
@@ -414,6 +458,34 @@ vs:
       year: 2017
       draw: Round Robin(11)
       score: PE 2 - MB 10
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2013
+      draw: Round Robin(2)
+      score: PE 5 - NB 11
  - name: Kelly, Kim
    totals:
     - event: Hearts

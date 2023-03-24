@@ -84,7 +84,6 @@ vs:
  - Bodogh, Marilyn
  - Bohmer, Brenda
  - Bowman, Mary
- - Brown, Katie
  - Bush, Tracy
  - Cameron, Nancy
  - Campbell, June
@@ -94,7 +93,6 @@ vs:
  - Comeau, Martine
  - Cormier, Sharon
  - Cowan, Michele
- - Crawford, Andrea
  - Cunningham, Cathy
  - Daniel, Sylvie
  - Delahunt, Nancy
@@ -128,6 +126,7 @@ vs:
  - Jurgenson, Christine
  - Kaylo, Kelly
  - Kehler, Lorie
+ - Kelly, Andrea
  - Kelly, Kim
  - Kennedy, Tracy
  - Kerr, Kathy
@@ -194,4 +193,5 @@ vs:
  - Turcotte, Kristin
  - Usher, Leanne
  - Wheatcroft, Georgina
+ - Witt, Katie
 ---

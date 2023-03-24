@@ -98,7 +98,6 @@ vs:
  - Bernard, Cheryl
  - Blanchard, Judy
  - Brophy, Kathy
- - Brown, Katie
  - Brown, Marcie
  - Burgess, Judy
  - Carter, Linda
@@ -222,5 +221,6 @@ vs:
  - Wheatcroft, Georgina
  - Whitrow, Leanne
  - Willms, Karri
+ - Witt, Katie
  - Zeller, Lori
 ---

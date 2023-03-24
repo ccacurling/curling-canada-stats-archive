@@ -109,7 +109,6 @@ vs:
  - Charette, France
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Crispo, Guylaine
  - Crouse, Jennifer
  - Cunningham, Cathy
@@ -122,7 +121,6 @@ vs:
  - Derick, Catherine
  - Derry, Danielle
  - deSolla, Jodie
- - Devereaux, Julie
  - Doig, Deanna
  - Dolan, Kim
  - Eddy, Lori
@@ -153,6 +151,7 @@ vs:
  - Hooper-Perroud, Jane
  - Horne, Kate
  - Hughes, Meaghan
+ - Hynes, Julie
  - Jackson, Virginia
  - Jennings, Tracey
  - Jesty, Janet
@@ -162,6 +161,7 @@ vs:
  - Jones-Walker, Debbie
  - Kasner, Marliese
  - Kaylo, Kelly
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - King, Cathy
@@ -191,7 +191,6 @@ vs:
  - McCusker, Joan
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - Miskew, Emma
  - Montgomery, Kay
  - Moore, Kim
@@ -220,6 +219,7 @@ vs:
  - Saulnier, Andrea
  - Schmirler, Sandra
  - Schneider, Lorraine
+ - Shea, Michelle
  - Sicinski, Danielle
  - Singler, Sherri
  - Sippala, Ashley

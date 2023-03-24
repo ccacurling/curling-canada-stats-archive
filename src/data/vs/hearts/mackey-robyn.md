@@ -30,34 +30,6 @@ vs:
       year: 2018
       draw: Round Robin(13)
       score: NU 4 - PE 12
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 67
-        wins: 0
-        losses: 1
-      player2:
-        percent: 93
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NU'
-        position: Lead
-        percent: 67
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 93
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(13)
-      score: NU 4 - PE 12
  - name: McTaggart, Cary-Anne
    totals:
     - event: Hearts
@@ -86,34 +58,6 @@ vs:
       year: 2018
       draw: Round Robin(9)
       score: AB 11 - NU 4
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 61
-        wins: 0
-        losses: 1
-      player2:
-        percent: 91
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NU'
-        position: Second
-        percent: 61
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 91
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(7)
-      score: NU 4 - CA 13
  - name: Moore, Kristie
    totals:
     - event: Hearts
@@ -282,6 +226,34 @@ vs:
       year: 2018
       draw: Round Robin(9)
       score: AB 11 - NU 4
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 67
+        wins: 0
+        losses: 1
+      player2:
+        percent: 93
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Lead
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(13)
+      score: NU 4 - PE 12
  - name: Smallwood, Jody
    totals:
     - event: Hearts

@@ -274,6 +274,50 @@ vs:
       year: 2010
       draw: Round Robin(5)
       score: NL 5 - SK 8
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 72
+        wins: 2
+        losses: 0
+      player2:
+        percent: 58
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2006
+      draw: Round Robin(11)
+      score: NB 5 - NL 6
+    - player1:
+        team: 'NL'
+        position: Fourth
+        percent: 63
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 48
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2010
+      draw: Round Robin(13)
+      score: NB 7 - NL 9
  - name: Kelly, Kim
    totals:
     - event: Hearts

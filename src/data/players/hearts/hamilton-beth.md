@@ -129,7 +129,6 @@ vs:
  - Clark, Stefanie
  - Comeau, Sandy
  - Courtney, Joanne
- - Crawford, Andrea
  - Delahunt, Nancy
  - Derick, Catherine
  - Duncan, Chelsea
@@ -158,6 +157,7 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - Kitz, Chaelynn
  - Klymchuk, Ashley
@@ -180,7 +180,6 @@ vs:
  - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Miskew, Emma
  - Mittelstadt, Candice
@@ -206,6 +205,7 @@ vs:
  - Scott, Kelly
  - Sharpe, Kelli
  - Shaw, Ladene
+ - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Simons, Renee

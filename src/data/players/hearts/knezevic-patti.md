@@ -142,7 +142,6 @@ vs:
  - McEwen, Dawn
  - McInnis, Susan
  - McPherson, Cheryl
- - McQuaid, Michelle
  - Miskew, Emma
  - Nugent, Pamela
  - Officer, Jill
@@ -152,6 +151,7 @@ vs:
  - Richard, Marie
  - Ross, Allison
  - Schmidt, Stephanie
+ - Shea, Michelle
  - Sinclair, Andrea
  - Singler, Sherri
  - Smith, Stacey

@@ -44,7 +44,6 @@ vs:
  - Cameron, Nancy
  - Carter, Sasha
  - Comeau, Martine
- - Crawford, Andrea
  - Delahunt, Nancy
  - deSolla, Jodie
  - Gagnier, Monique
@@ -54,6 +53,7 @@ vs:
  - Hollands, Saskia
  - Jones, Colleen
  - Jones, Jennifer
+ - Kelly, Andrea
  - Kelly, Kim
  - King, Cathy
  - Lang, Lorraine

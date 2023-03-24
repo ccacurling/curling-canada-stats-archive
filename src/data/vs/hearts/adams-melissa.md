@@ -438,34 +438,6 @@ vs:
       year: 2018
       draw: Pool(18)
       score: NB 8 - NL 4
- - name: Devereaux, Julie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 1
-        losses: 0
-      player2:
-        percent: 79
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Third
-        percent: 84
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 79
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Pool(18)
-      score: NB 8 - NL 4
  - name: Duncan, Chelsea
    totals:
     - event: Hearts
@@ -958,6 +930,34 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: NB 4 - PE 12
+ - name: Hynes, Julie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Pool(18)
+      score: NB 8 - NL 4
  - name: Jones, Jennifer
    totals:
     - event: Hearts
@@ -1298,34 +1298,6 @@ vs:
       year: 2018
       draw: Round Robin(10)
       score: MB 7 - NB 4
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 62
-        wins: 0
-        losses: 1
-      player2:
-        percent: 70
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 62
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(4)
-      score: NB 4 - PE 12
  - name: Mercer, Adrienne
    totals:
     - event: Hearts
@@ -1594,6 +1566,34 @@ vs:
       year: 2021
       draw: Round Robin(19)
       score: NB 7 - QC 9
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 62
+        wins: 0
+        losses: 1
+      player2:
+        percent: 70
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 62
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(4)
+      score: NB 4 - PE 12
  - name: Smallwood, Jody
    totals:
     - event: Hearts

@@ -94,7 +94,6 @@ vs:
  - Christianson, Marie
  - Cormier, Sharon
  - Cote, Marie-Pier
- - Crawford, Andrea
  - Cunningham, Cathy
  - Daniel, Sylvie
  - Delahunt, Nancy
@@ -110,6 +109,7 @@ vs:
  - Gudereit, Marcia
  - Hamilton, Beth
  - Hanlon, Heidi
+ - Harris, Briane
  - Harvey, Alison
  - Harvey, Carol
  - Harvey, Janet
@@ -125,6 +125,7 @@ vs:
  - Jones-Walker, Debbie
  - Jurgenson, Christine
  - Kaylo, Kelly
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - King, Cathy
@@ -144,8 +145,6 @@ vs:
  - McCarville, Krista
  - McCusker, Joan
  - McDonald, Taylor
- - McQuaid, Michelle
- - Meilleur, Briane
  - Mercer, Adrienne
  - Moss, Debbie
  - Nedohin, Heather
@@ -163,6 +162,7 @@ vs:
  - Sabourin, Joelle
  - Schmirler, Sandra
  - Scotland, Nadine
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Sippala, Ashley
  - St-Georges, Cynthia

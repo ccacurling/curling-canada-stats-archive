@@ -257,7 +257,6 @@ vs:
  - Brennan, Amanda
  - Brothers, Jill
  - Brousseau, Deb
- - Brown, Katie
  - Brown, Marcie
  - Brown, Maureen
  - Brown, Rachel
@@ -282,7 +281,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Crispo, Guylaine
  - Crocker, Cindy
  - Crocker, Rene
@@ -372,6 +370,7 @@ vs:
  - Keays, Stella
  - Kehler, Lorie
  - Kellerman, Bev
+ - Kelly, Andrea
  - Kelly, Kim
  - Kennedy, Tracy
  - Kerr, Heather
@@ -532,6 +531,7 @@ vs:
  - Willms, Karri
  - Wilson, Eileen
  - Wilson, Patty
+ - Witt, Katie
  - Wuthrich, Patti
  - Wright, Susan
  - Wylie, Jennifer

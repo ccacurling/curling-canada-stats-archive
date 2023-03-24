@@ -68,7 +68,6 @@ vs:
  - McEwen, Dawn
  - McInnis, Susan
  - McPherson, Cheryl
- - McQuaid, Michelle
  - Miskew, Emma
  - Officer, Jill
  - Olson-Johns, Lori
@@ -76,6 +75,7 @@ vs:
  - Quillian, Sylvie
  - Richard, Marie
  - Schmidt, Stephanie
+ - Shea, Michelle
  - Smith, Stacey
  - Snyder, Jane
  - Strong, Heather

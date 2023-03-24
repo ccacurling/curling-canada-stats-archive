@@ -48,16 +48,17 @@ vs:
  - Christianson, Marie
  - Courtney, Joanne
  - Curtis, Erica
- - Devereaux, Julie
  - Duncan, Chelsea
  - Einarson, Kerri
  - Ferguson, Dana
  - Galusha, Kerry
  - Gates, Jennifer
  - Hamilton, Beth
+ - Harris, Briane
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
  - Jones, Jennifer
  - Koltun, Sarah
  - Lawes, Kaitlyn
@@ -66,13 +67,12 @@ vs:
  - Logan, Emma
  - McCarville, Krista
  - McEwen, Dawn
- - McQuaid, Michelle
- - Meilleur, Briane
  - Miskew, Emma
  - Peterman, Jocelyn
  - Plonka, Gabrielle
  - Porter, Erin
  - Rizzo, Jo-Ann
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Sippala, Ashley
  - Sweeting, Val

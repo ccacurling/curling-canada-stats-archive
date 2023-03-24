@@ -62,7 +62,6 @@ vs:
  - Blanchard, Judy
  - Bodogh, Marilyn
  - Bowering, Andrea
- - Brown, Katie
  - Burry, Gail
  - Cameron, Nancy
  - Chapman, Kathy
@@ -134,5 +133,6 @@ vs:
  - Usher, Leanne
  - Wheatcroft, Georgina
  - Willms, Karri
+ - Witt, Katie
  - Wright, Susan
 ---

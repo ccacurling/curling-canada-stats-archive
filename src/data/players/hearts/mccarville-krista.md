@@ -4,18 +4,18 @@ name: Krista McCarville
 name-sort: McCarville, Krista
 totals:
  - event: Hearts
-   games: 112
-   wins: 67
-   losses: 45
-   inturn-total: 1087
+   games: 123
+   wins: 75
+   losses: 48
+   inturn-total: 1212
    inturn-percent: 75
-   outturn-total: 1058
+   outturn-total: 1146
    outturn-percent: 76
-   draw-total: 1043
-   draw-percent: 73
-   takeout-total: 1102
+   draw-total: 1145
+   draw-percent: 74
+   takeout-total: 1213
    takeout-percent: 78
-   shots-total: 2145
+   shots-total: 2358
    shots-percent: 76
 years:
  - year: 2006
@@ -171,7 +171,25 @@ years:
    takeout-percent: 75
    shots-total: 233
    shots-percent: 72
+ - year: 2023
+   event: Hearts
+   team: "NO"
+   position: Fourth
+   games: 11
+   wins: 8
+   losses: 3
+   inturn-total: 125
+   inturn-percent: 77
+   outturn-total: 88
+   outturn-percent: 78
+   draw-total: 102
+   draw-percent: 75
+   takeout-total: 111
+   takeout-percent: 79
+   shots-total: 213
+   shots-percent: 77
 vs:
+ - Ackland, Abby
  - Affleck, Tricia
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
@@ -190,6 +208,7 @@ vs:
  - Bernard, Cheryl
  - Betker, Jan
  - Birchard, Shannon
+ - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Blaney, Jennifer
@@ -203,10 +222,13 @@ vs:
  - Brown, Jacalyn
  - Brown, Rachel
  - Burgess, Carey
+ - Burgess, Karlee
+ - Burt, Camille
  - Bush, Tracy
  - Cameron, Kate
  - Cameron, Nancy
  - Campbell, Jolene
+ - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
@@ -219,7 +241,6 @@ vs:
  - Cormier, Sharon
  - Cote, Marie-Pier
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Curtis, Erica
@@ -233,11 +254,12 @@ vs:
  - Derick, Catherine
  - Derry, Danielle
  - deSolla, Jodie
- - Devereaux, Julie
  - Doig, Deanna
+ - Duncan, Chelsea
  - Eddy, Lori
  - Einarson, Kerri
  - Einarson, Megan
+ - Elias, Mackenzie
  - Ellis, Danielle
  - Enge, Jenna
  - Englot, Michelle
@@ -246,6 +268,7 @@ vs:
  - Eyamie, Lisa
  - Ferguson, Dana
  - Flaxey, Allison
+ - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
  - Fullerton, Sarah
@@ -263,6 +286,7 @@ vs:
  - Hanna, Jenn
  - Hanna, Stephanie
  - Hardy, Shelley
+ - Harris, Briane
  - Harrison, Meredith
  - Harvey, Janet
  - Haughian, Jessie
@@ -275,6 +299,7 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
  - Inglis, Nancy
  - Jewer, Michelle
  - Jones, Colleen
@@ -282,11 +307,13 @@ vs:
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - King, Cathy
  - Kleibrink, Shannon
  - Klymchuk, Ashley
  - Koehler, Megan
+ - Koltun, Sarah
  - Larouche, Marie-France
  - Lavery, Tracey
  - Lavoie, Gabrielle
@@ -296,6 +323,7 @@ vs:
  - LeDrew, Stephanie
  - Lemay, Annie
  - Lemon, Colette
+ - Lenentine, Lauren
  - Loder, Cherie-Ann
  - Lowther, Tammi
  - MacCuish, Kristin
@@ -313,9 +341,7 @@ vs:
  - McConnery, Nancy
  - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Mercer, Adrienne
  - Miskew, Emma
  - Moore, Kristie
@@ -337,6 +363,7 @@ vs:
  - O'Connor, Susan
  - Officer, Jill
  - O'Leary, Susan
+ - Oliver, Sara
  - Olson-Johns, Lori
  - O'Neill, Brit
  - O'Rourke, Brittany
@@ -359,6 +386,7 @@ vs:
  - Richard, Marie
  - Richards, Brette
  - Ridalls, Kristen
+ - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Rocque, Raylene
  - Rogers, Rhonda
@@ -379,6 +407,7 @@ vs:
  - Scotland, Nadine
  - Scott, Kelly
  - Sharpe, Kelli
+ - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Simons, Renee
@@ -396,12 +425,14 @@ vs:
  - Thomas, Jill
  - Thompson, Karla
  - Thurston, Jill
+ - Tuor, Kimberly
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie
  - Verreault, Noemie
  - Vey, Lana
  - Walker, Laura
+ - Walter, Meghan
  - Wark, Sarah
  - Weagle, Lisa
  - Westcott, Raunora
@@ -410,4 +441,5 @@ vs:
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
+ - Zacharias, Mackenzie
 ---

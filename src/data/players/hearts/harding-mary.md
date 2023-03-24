@@ -87,7 +87,6 @@ vs:
  - Aleksic, Shannon
  - Aucoin, Shelley
  - Betker, Jan
- - Brown, Katie
  - Cameron, Nancy
  - Cunningham, Cathy
  - Davis, Brandee
@@ -132,5 +131,6 @@ vs:
  - Turcotte, Kristin
  - Usher, Leanne
  - Willms, Karri
+ - Witt, Katie
  - Wright, Susan
 ---

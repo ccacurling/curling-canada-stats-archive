@@ -135,7 +135,6 @@ vs:
  - Cunningham, Jessica
  - Curtis, Stacie
  - deJager, Blaine
- - Devereaux, Julie
  - Dolan, Kim
  - Dolan, Sinead
  - Dufresne, Audree
@@ -165,6 +164,7 @@ vs:
  - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
+ - Hynes, Julie
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Colleen
@@ -197,7 +197,6 @@ vs:
  - McDonald, Kristy
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - Miller, Wendy
  - Miskew, Emma
  - Moore, Kristie
@@ -231,6 +230,7 @@ vs:
  - Schneider, Tammy
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Shea, Michelle
  - Shumay, Jill
  - Sinclair, Andrea
  - Singler, Sherri

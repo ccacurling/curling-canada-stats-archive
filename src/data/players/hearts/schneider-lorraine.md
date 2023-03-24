@@ -47,7 +47,6 @@ vs:
  - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
- - Devereaux, Julie
  - Englot, Michelle
  - Eyamie, Lisa
  - Fullerton, Sarah
@@ -55,6 +54,7 @@ vs:
  - Hill, Trish
  - Homan, Rachel
  - Hughes, Meaghan
+ - Hynes, Julie
  - Koehler, Megan
  - Lilly, Kendra
  - MacPhee, Robyn
@@ -63,7 +63,6 @@ vs:
  - Mattatall, Mary
  - McCarville, Krista
  - McEvoy, Julie
- - McQuaid, Michelle
  - Miskew, Emma
  - Nedohin, Heather
  - Nixon, Amy
@@ -74,6 +73,7 @@ vs:
  - Potts, Sarah
  - Richards, Brette
  - Saulnier, Andrea
+ - Shea, Michelle
  - Sippala, Ashley
  - Thiessen, Alison
  - Weagle, Lisa

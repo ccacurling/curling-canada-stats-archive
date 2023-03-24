@@ -69,7 +69,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Jessica
  - Daigle, Julie
  - Davies, Lisa
@@ -92,6 +91,7 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese
+ - Kelly, Andrea
  - Koltun, Sarah
  - Kreviazuk, Alison
  - Kreviazuk, Cheryl
@@ -104,7 +104,6 @@ vs:
  - McCarville, Krista
  - McDonald, Kristy
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Miskew, Emma
  - Moore, Kristie
@@ -119,6 +118,7 @@ vs:
  - Robison, Michala
  - Ross, Allison
  - Scheidegger, Casey
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Sinclair, Andrea
  - Singler, Sherri

@@ -169,7 +169,6 @@ vs:
  - Cooke, Gerri
  - Cordina, Sheri
  - Cormier, Sharon
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Daku, Karen
@@ -223,6 +222,7 @@ vs:
  - Jones-Walker, Debbie
  - Kalenchuk, Heather
  - Kehler, Lorie
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - King, Cathy

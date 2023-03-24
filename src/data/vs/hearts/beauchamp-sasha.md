@@ -142,34 +142,6 @@ vs:
       year: 2013
       draw: Round Robin(13)
       score: TR 7 - QC 8
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 0
-        losses: 1
-      player2:
-        percent: 64
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 64
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2013
-      draw: Round Robin(11)
-      score: NB 8 - QC 4
  - name: Curtis, Stacie
    totals:
     - event: Hearts
@@ -534,6 +506,34 @@ vs:
       year: 2013
       draw: Round Robin(14)
       score: QC 1 - MB 7
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 64
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 64
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2013
+      draw: Round Robin(11)
+      score: NB 8 - QC 4
  - name: Kelly, Kim
    totals:
     - event: Hearts

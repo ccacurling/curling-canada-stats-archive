@@ -458,6 +458,34 @@ vs:
       year: 2006
       draw: Round Robin(5)
       score: TR 4 - AB 7
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(8)
+      score: PE 5 - AB 6
  - name: Simons, Renee
    totals:
     - event: Hearts

@@ -286,34 +286,6 @@ vs:
       year: 2015
       draw: Round Robin(4)
       score: NL 7 - PE 4
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 66
-        wins: 1
-        losses: 0
-      player2:
-        percent: 70
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NL'
-        position: Third
-        percent: 66
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Second
-        percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(4)
-      score: NL 7 - PE 4
  - name: Miskew, Emma
    totals:
     - event: Hearts
@@ -862,6 +834,34 @@ vs:
       year: 2012
       draw: Round Robin(11)
       score: BC 11 - NL 7
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 66
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 66
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(4)
+      score: NL 7 - PE 4
  - name: Slywka, Sarah
    totals:
     - event: Hearts

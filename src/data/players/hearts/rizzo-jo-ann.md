@@ -4,19 +4,19 @@ name: Jo-Ann Rizzo
 name-sort: Rizzo, Jo-Ann
 totals:
  - event: Hearts
-   games: 25
-   wins: 12
-   losses: 13
-   inturn-total: 232
-   inturn-percent: 75
-   outturn-total: 231
+   games: 33
+   wins: 16
+   losses: 17
+   inturn-total: 324
+   inturn-percent: 78
+   outturn-total: 292
    outturn-percent: 70
-   draw-total: 211
-   draw-percent: 66
-   takeout-total: 252
-   takeout-percent: 78
-   shots-total: 463
-   shots-percent: 73
+   draw-total: 286
+   draw-percent: 69
+   takeout-total: 330
+   takeout-percent: 79
+   shots-total: 616
+   shots-percent: 74
 years:
  - year: 2020
    event: Hearts
@@ -69,7 +69,25 @@ years:
    takeout-percent: 81
    shots-total: 187
    shots-percent: 74
+ - year: 2023
+   event: Hearts
+   team: "NT"
+   position: Fourth
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 92
+   inturn-percent: 85
+   outturn-total: 61
+   outturn-percent: 68
+   draw-total: 75
+   draw-percent: 75
+   takeout-total: 78
+   takeout-percent: 81
+   shots-total: 153
+   shots-percent: 78
 vs:
+ - Ackland, Abby
  - Armstrong, Hailey
  - Arsenault, Mary-Anne
  - Babin, Jillian
@@ -87,49 +105,60 @@ vs:
  - Brown, Rachel
  - Burgess, Karlee
  - Burns, Krysta
+ - Burt, Camille
  - Cameron, Kate
  - Campbell, Kerry
  - Carmody, Erin
  - Carter, Sasha
  - Christianson, Marie
  - Courtney, Joanne
- - Crawford, Andrea
  - Curtis, Erica
- - Devereaux, Julie
+ - Curtis, Stacie
  - Doerksen, Katherine
  - Duncan, Chelsea
  - Duncan, Hollie
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Everist, Karlee
+ - Fleury, Tracy
  - Forward, Katie
  - Gates, Amanda
  - Guy, Sara
  - Hamilton, Beth
+ - Harris, Briane
+ - Haughian, Jessie
  - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
+ - Hynes, Julie
  - Jones, Jennifer
+ - Kelly, Andrea
  - Klymchuk, Ashley
  - Kreviazuk, Cheryl
  - Lawes, Kaitlyn
  - Lenentine, Lauren
+ - Lilly, Kendra
  - Loder, Jenna
  - Logan, Emma
+ - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
- - Meilleur, Briane
  - Miskew, Emma
  - Muise, Morgan
+ - Oliver, Sara
  - Peterman, Jocelyn
  - Peterson, Beth
  - Pincott, Erin
  - Plonka, Gabrielle
  - Porter, Erin
+ - Potts, Sarah
  - Quillian, Sylvie
  - Riley, Emily
+ - Scheidegger, Casey
  - Schraeder, Jeanna
  - Scotland, Nadine
+ - Shea, Michelle
+ - Sippala, Ashley
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
@@ -139,6 +168,7 @@ vs:
  - Tuor, Kimberly
  - Walker, Laura
  - Wallingham, Patty
+ - Walter, Meghan
  - Weagle, Lisa
  - Wilkes, Sarah
  - Zacharias, Emily

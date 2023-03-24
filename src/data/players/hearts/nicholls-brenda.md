@@ -144,14 +144,12 @@ vs:
  - Comeau, Sandy
  - Cooke, Gerri
  - Cormier, Sharon
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
  - Curtis, Stacie
  - Delahunt, Nancy
  - deSolla, Jodie
- - Devereaux, Julie
  - Dolan, Kim
  - Dolan, Sinead
  - Dorosz, Peggy
@@ -182,12 +180,14 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hutton, Barb
+ - Hynes, Julie
  - Iskiw, Beth
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - King, Cathy

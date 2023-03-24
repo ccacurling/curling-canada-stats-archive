@@ -293,7 +293,6 @@ vs:
  - Brennan, Amanda
  - Brothers, Jill
  - Brown, Jacalyn
- - Brown, Katie
  - Brown, Marcie
  - Brown, Maureen
  - Bryant, Angie
@@ -313,7 +312,6 @@ vs:
  - Combden, Cathy
  - Comeau, Sandy
  - Couling, Betty
- - Crawford, Andrea
  - Crispo, Guylaine
  - Crouse, Jennifer
  - Cunningham, Cathy
@@ -382,6 +380,7 @@ vs:
  - Kasner, Marliese
  - Kehler, Lorie
  - Kellerman, Bev
+ - Kelly, Andrea
  - Kelly, Kim
  - Kennedy, Tracy
  - Kerr, Kathy
@@ -514,5 +513,6 @@ vs:
  - Wilson, Leslie
  - Wilson, Patty
  - Wiltzen, Jan
+ - Witt, Katie
  - Yardley, Janelle
 ---

@@ -88,7 +88,6 @@ vs:
  - Blashko, Denise
  - Bohmer, Brenda
  - Brown, Janet
- - Brown, Katie
  - Burlington, Cheryl
  - Cameron, Nancy
  - Carter, Linda
@@ -182,6 +181,7 @@ vs:
  - Wheatcroft, Georgina
  - Whitrow, Leanne
  - Willms, Karri
+ - Witt, Katie
  - Wright, Susan
  - Zeller, Lori
 ---

@@ -55,6 +55,7 @@ vs:
  - Galusha, Kerry
  - Gates, Amanda
  - Guy, Sara
+ - Harris, Briane
  - Holland, Amber
  - Homan, Rachel
  - Jones, Jennifer
@@ -66,7 +67,6 @@ vs:
  - MacCuish, Kristin
  - Martin, Nancy
  - McDonald, Taylor
- - Meilleur, Briane
  - Miskew, Emma
  - Njegovan, Selena
  - Peterman, Jocelyn

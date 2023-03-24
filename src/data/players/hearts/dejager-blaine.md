@@ -68,13 +68,11 @@ vs:
  - Carter, Sasha
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - Derry, Danielle
  - deSolla, Jodie
- - Devereaux, Julie
  - Doig, Deanna
  - Dufresne, Audree
  - Englot, Michelle
@@ -85,10 +83,12 @@ vs:
  - Holtby, Taryn
  - Homan, Rachel
  - Hughes, Meaghan
+ - Hynes, Julie
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
+ - Kelly, Andrea
  - Kelly, Kim
  - Koehler, Megan
  - Kreviazuk, Alison
@@ -103,7 +103,6 @@ vs:
  - Mattatall, Mary
  - McCarville, Krista
  - McEwen, Dawn
- - McQuaid, Michelle
  - Miller, Wendy
  - Miskew, Emma
  - Nedohin, Heather
@@ -120,6 +119,7 @@ vs:
  - Schneider, Lorraine
  - Schraeder, Jeanna
  - Scott, Kelly
+ - Shea, Michelle
  - Shumay, Jill
  - Sicinski, Danielle
  - Sippala, Ashley

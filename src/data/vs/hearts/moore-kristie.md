@@ -86,6 +86,34 @@ vs:
       year: 2018
       draw: Pool(19)
       score: MB 6 - AB 2
+ - name: Oliver, Sara
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(2)
+      score: WC 3 - WC 5
  - name: O'Rourke, Brittany
    totals:
     - event: Hearts
@@ -722,6 +750,50 @@ vs:
       year: 2019
       draw: Round Robin(2)
       score: WC 10 - YT 2
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 2
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Round Robin(3)
+      score: PE 6 - AB 8
+    - player1:
+        team: 'WC'
+        position: Lead
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 82
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2019
+      draw: Round Robin(4)
+      score: WC 7 - PE 2
  - name: Shumay, Jill
    totals:
     - event: Hearts
@@ -1030,6 +1102,34 @@ vs:
       year: 2019
       draw: Round Robin(10)
       score: NT 5 - WC 6
+ - name: Tuor, Kimberly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 58
+        wins: 0
+        losses: 1
+      player2:
+        percent: 69
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 58
+        win: 0
+        loss: 1
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 69
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(8)
+      score: YT 10 - WC 3
  - name: Van Osch, Kalia
    totals:
     - event: Hearts
@@ -1170,6 +1270,34 @@ vs:
       year: 2000
       draw: Round Robin(4)
       score: SK 8 - AB 5
+ - name: Walter, Meghan
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 60
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Fourth
+        percent: 60
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(2)
+      score: WC 3 - WC 5
  - name: Wark, Sarah
    totals:
     - event: Hearts

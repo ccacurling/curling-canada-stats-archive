@@ -2598,6 +2598,50 @@ vs:
       year: 1992
       draw: Round Robin(2)
       score: AB 3 - PE 4
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 1
+        losses: 1
+      player2:
+        percent: 68
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 53
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2012
+      draw: Round Robin(16)
+      score: NB 4 - PE 11
+    - player1:
+        team: 'PE'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2014
+      draw: Round Robin(11)
+      score: PE 6 - NB 9
  - name: Kelly, Kim
    totals:
     - event: Hearts
@@ -8006,6 +8050,34 @@ vs:
       year: 1992
       draw: Round Robin(15)
       score: ON 3 - PE 6
+ - name: Witt, Katie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 1
+        losses: 0
+      player2:
+        percent: 64
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Fourth
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 1990
+      draw: Round Robin(1)
+      score: PE 9 - QC 3
  - name: Wuthrich, Patti
    totals:
     - event: Hearts

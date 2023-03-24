@@ -4,18 +4,18 @@ name: Shannon Birchard
 name-sort: Birchard, Shannon
 totals:
  - event: Hearts
-   games: 52
-   wins: 45
-   losses: 7
-   inturn-total: 458
+   games: 64
+   wins: 56
+   losses: 8
+   inturn-total: 567
    inturn-percent: 83
-   outturn-total: 485
-   outturn-percent: 84
-   draw-total: 364
-   draw-percent: 80
-   takeout-total: 579
+   outturn-total: 594
+   outturn-percent: 85
+   draw-total: 452
+   draw-percent: 81
+   takeout-total: 709
    takeout-percent: 86
-   shots-total: 943
+   shots-total: 1161
    shots-percent: 84
 years:
  - year: 2018
@@ -86,7 +86,25 @@ years:
    takeout-percent: 85
    shots-total: 221
    shots-percent: 81
+ - year: 2023
+   event: Hearts
+   team: "CA"
+   position: Second
+   games: 12
+   wins: 11
+   losses: 1
+   inturn-total: 109
+   inturn-percent: 83
+   outturn-total: 109
+   outturn-percent: 90
+   draw-total: 88
+   draw-percent: 86
+   takeout-total: 130
+   takeout-percent: 86
+   shots-total: 218
+   shots-percent: 86
 vs:
+ - Ackerman, Skylar
  - Adams, Melissa
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -118,9 +136,10 @@ vs:
  - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Doerksen, Katherine
+ - Dolan, Sinead
+ - Dubue, Lindsay
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
@@ -140,14 +159,19 @@ vs:
  - Gates, Amanda
  - Gates, Jennifer
  - Gibson, Amy
+ - Grandy, Clancy
  - Griffin, Alison
+ - Gustafson, Leigh
  - Guy, Sara
+ - Harris, Briane
  - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Inglis, Danielle
  - Jones, Jennifer
+ - Just, Sherry
+ - Kelly, Andrea
  - Kitz, Chaelynn
  - Klymchuk, Ashley
  - Knapp, Breanne
@@ -163,15 +187,17 @@ vs:
  - Lister, Kendra
  - Loder, Jenna
  - Logan, Emma
+ - Loken, Sarah
  - MacCuish, Kristin
  - MacDonald, Kaitlin
+ - MacMillan, Kayla
+ - MacPhail, Brigitte
  - Martin, Nancy
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
+ - Middaugh, Kelly
  - Miskew, Emma
  - Moore, Kristie
  - Njegovan, Selena
@@ -182,24 +208,30 @@ vs:
  - Potts, Sarah
  - Price, Kara
  - Quillian, Sylvie
+ - Ramsay, Geri-Lynn
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Routledge, Alanna
  - Routledge, Jill
  - Sagle, Karen
+ - Schafer, Kelly
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
  - Schraeder, Jeanna
  - Scotland, Nadine
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Simons, Renee
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smallwood, Jody
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Strybosch, Rachelle
+ - Taylor, Alison
  - Thevenot, Kara
  - Tran, Brittany
  - Tuor, Kimberly

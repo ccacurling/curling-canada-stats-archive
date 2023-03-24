@@ -196,7 +196,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Daniel, Sylvie
  - Darbyshire, Carolyn
@@ -246,6 +245,7 @@ vs:
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kehler, Lorie
+ - Kelly, Andrea
  - Kelly, Kim
  - Kidd, Darlene
  - King, Cathy

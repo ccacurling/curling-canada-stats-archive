@@ -114,6 +114,34 @@ vs:
       year: 2022
       draw: Round Robin(13)
       score: NL 3 - WC 8
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(5)
+      score: PE 1 - WC 9
  - name: Sicinski, Danielle
    totals:
     - event: Hearts

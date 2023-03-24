@@ -114,34 +114,6 @@ vs:
       year: 2018
       draw: Round Robin(11)
       score: NL 7 - QC 9
- - name: Devereaux, Julie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 1
-        losses: 0
-      player2:
-        percent: 80
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Lead
-        percent: 76
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 80
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Round Robin(11)
-      score: NL 7 - QC 9
  - name: Duncan, Hollie
    totals:
     - event: Hearts
@@ -366,6 +338,34 @@ vs:
       year: 2018
       draw: Round Robin(1)
       score: QC 9 - NU 2
+ - name: Hynes, Julie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 80
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Round Robin(11)
+      score: NL 7 - QC 9
  - name: Kallechy, Rachelle
    totals:
     - event: Hearts
@@ -528,34 +528,6 @@ vs:
         team: 'PE'
         position: Fourth
         percent: 66
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Round Robin(9)
-      score: PE 6 - QC 8
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 1
-        losses: 0
-      player2:
-        percent: 90
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Lead
-        percent: 73
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 90
         win: 0
         loss: 1
       event: Hearts
@@ -758,6 +730,34 @@ vs:
       year: 2018
       draw: Round Robin(1)
       score: QC 9 - NU 2
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 1
+        losses: 0
+      player2:
+        percent: 90
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Lead
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Round Robin(9)
+      score: PE 6 - QC 8
  - name: Van Osch, Kesa
    totals:
     - event: Hearts

@@ -1122,6 +1122,34 @@ vs:
       year: 1991
       draw: Playoff(19)
       score: BC 7 - NB 5
+ - name: Witt, Katie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 51
+        wins: 1
+        losses: 0
+      player2:
+        percent: 68
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 51
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 68
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 1991
+      draw: Round Robin(15)
+      score: QC 4 - NB 6
  - name: Wright, Susan
    totals:
     - event: Hearts

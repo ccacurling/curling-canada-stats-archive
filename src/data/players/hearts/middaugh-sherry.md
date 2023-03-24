@@ -180,7 +180,6 @@ vs:
  - Clark, Stefanie
  - Cooke, Gerri
  - Cormier, Sharon
- - Crawford, Andrea
  - Cunningham, Cathy
  - Curtis, Stacie
  - Davis, Brandee
@@ -231,6 +230,7 @@ vs:
  - Kalenchuk, Heather
  - Kaylo, Kelly
  - Kehler, Lorie
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - Kidd, Darlene

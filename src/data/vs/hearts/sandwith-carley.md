@@ -30,6 +30,34 @@ vs:
       year: 2019
       draw: Pool(18)
       score: WC 11 - BC 6
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 95
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Second
+        percent: 95
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2019
+      draw: Pool(16)
+      score: BC 9 - PE 8
  - name: Silvernagle, Robyn
    totals:
     - event: Hearts

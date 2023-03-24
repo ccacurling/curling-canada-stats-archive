@@ -92,7 +92,6 @@ vs:
  - Chapman, Kathy
  - Cormier, Sharon
  - Cossette, Pierrette
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Currey, Karen
@@ -128,6 +127,7 @@ vs:
  - Jurgenson, Christine
  - Kasner, Marliese
  - Kavanagh, Sheila
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Heather
  - Kerr, Kathy

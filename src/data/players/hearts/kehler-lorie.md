@@ -130,7 +130,6 @@ vs:
  - Brophy, Kathy
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Katie
  - Brown, Marcie
  - Burgess, Judy
  - Carter, Linda
@@ -279,6 +278,7 @@ vs:
  - Whitaker, Lisa
  - Willms, Karri
  - Wilson, Patty
+ - Witt, Katie
  - Young, Karen
  - Zeller, Lori
 ---

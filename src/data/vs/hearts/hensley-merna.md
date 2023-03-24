@@ -786,6 +786,34 @@ vs:
       year: 1991
       draw: Round Robin(6)
       score: TR 5 - BC 6
+ - name: Witt, Katie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 1
+        losses: 0
+      player2:
+        percent: 60
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'TR'
+        position: Third
+        percent: 68
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 60
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 1991
+      draw: Round Robin(9)
+      score: TR 7 - QC 6
  - name: Wright, Susan
    totals:
     - event: Hearts

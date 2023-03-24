@@ -658,34 +658,6 @@ vs:
       year: 1996
       draw: Round Robin(1)
       score: AB 3 - MB 10
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 95
-        wins: 1
-        losses: 0
-      player2:
-        percent: 54
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent: 95
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 54
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2009
-      draw: Round Robin(12)
-      score: NB 4 - AB 11
  - name: Crouse, Jennifer
    totals:
     - event: Hearts
@@ -1858,6 +1830,34 @@ vs:
       year: 1992
       draw: Round Robin(11)
       score: AB 2 - SK 9
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 95
+        wins: 1
+        losses: 0
+      player2:
+        percent: 54
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 95
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 54
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2009
+      draw: Round Robin(12)
+      score: NB 4 - AB 11
  - name: Kelly, Kim
    totals:
     - event: Hearts

@@ -95,9 +95,9 @@ vs:
  - Hughes, Meaghan
  - Karwacki, Krysten
  - MacPhee, Robyn
- - McQuaid, Michelle
  - Nedohin, Heather
  - Schneider, Lorraine
+ - Shea, Michelle
  - Sicinski, Danielle
  - Thiessen, Alison
  - Westcott, Raunora

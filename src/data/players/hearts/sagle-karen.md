@@ -71,7 +71,6 @@ vs:
  - Crouse, Jennifer
  - Curtis, Erica
  - Curtis, Stacie
- - Devereaux, Julie
  - Einarson, Kerri
  - Enge, Jenna
  - Englot, Michelle
@@ -86,6 +85,7 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hutchings, Denise
+ - Hynes, Julie
  - Jones, Jennifer
  - Larouche, Marie-France
  - Lavery, Tracey
@@ -96,7 +96,6 @@ vs:
  - MacPhee, Robyn
  - McCarville, Krista
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Moore, Kristie
  - Murphy, Sarah
@@ -116,6 +115,7 @@ vs:
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Shackleton, Amie
+ - Shea, Michelle
  - Sippala, Ashley
  - Thompson, Karla
  - Udle, Teri

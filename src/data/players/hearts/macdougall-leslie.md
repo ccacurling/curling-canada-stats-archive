@@ -142,7 +142,6 @@ vs:
  - Cooke, Gerri
  - Cordina, Sheri
  - Cormier, Sharon
- - Crawford, Andrea
  - Cunningham, Cathy
  - Curtis, Stacie
  - Daku, Karen
@@ -185,6 +184,7 @@ vs:
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kehler, Lorie
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - Kleibrink, Shannon

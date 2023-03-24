@@ -2,6 +2,50 @@
 title: Lauren Lenentine Head-to-head
 name: Lenentine, Lauren
 vs:
+ - name: Lilly, Kendra
+   totals:
+    - event: Hearts
+      player1:
+        percent: 92
+        wins: 1
+        losses: 1
+      player2:
+        percent: 68
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(2)
+      score: NO 11 - MB 8
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 59
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Page 1-2(23)
+      score: NO 5 - MB 8
  - name: Loder, Jenna
    totals:
     - event: Hearts
@@ -58,17 +102,117 @@ vs:
       year: 2021
       draw: Round Robin(14)
       score: WC 6 - NS 5
+ - name: Loken, Sarah
+   totals:
+    - event: Hearts
+      player1:
+        percent: 97
+        wins: 1
+        losses: 0
+      player2:
+        percent: 94
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Playoff(20)
+      score: MB 9 - BC 4
+ - name: MacMillan, Kayla
+   totals:
+    - event: Hearts
+      player1:
+        percent: 97
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Playoff(20)
+      score: MB 9 - BC 4
+ - name: McCarville, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 92
+        wins: 1
+        losses: 1
+      player2:
+        percent: 65
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(2)
+      score: NO 11 - MB 8
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 60
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Page 1-2(23)
+      score: NO 5 - MB 8
  - name: McDonald, Taylor
    totals:
     - event: Hearts
       player1:
-        percent: 76
-        wins: 1
+        percent: 81
+        wins: 2
         losses: 1
       player2:
-        percent: 79
+        percent: 81
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'WC'
@@ -102,50 +246,22 @@ vs:
       year: 2022
       draw: Round Robin(16)
       score: MB 10 - AB 7
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 88
-        wins: 0
-        losses: 2
-      player2:
-        percent: 88
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'WC'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(1)
-      score: CA 7 - WC 3
     - player1:
         team: 'MB'
         position: Lead
-        percent: 93
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 99
+        percent: 91
         win: 1
         loss: 0
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
       event: Hearts
-      year: 2022
-      draw: Round Robin(18)
-      score: CA 10 - MB 7
+      year: 2023
+      draw: Round Robin(13)
+      score: WC 6 - MB 7
  - name: Miskew, Emma
    totals:
     - event: Hearts
@@ -202,6 +318,50 @@ vs:
       year: 2021
       draw: Round Robin(12)
       score: WC 5 - WC 4
+ - name: Potts, Sarah
+   totals:
+    - event: Hearts
+      player1:
+        percent: 92
+        wins: 1
+        losses: 1
+      player2:
+        percent: 94
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Lead
+        percent: 98
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(2)
+      score: NO 11 - MB 8
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Page 1-2(23)
+      score: NO 5 - MB 8
  - name: Riley, Emily
    totals:
     - event: Hearts
@@ -234,13 +394,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 85
-        wins: 0
+        percent: 87
+        wins: 1
         losses: 3
       player2:
         percent: 74
         wins: 3
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'WC'
@@ -290,6 +450,50 @@ vs:
       year: 2022
       draw: Tie-Breaker(19)
       score: MB 6 - NT 8
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(10)
+      score: MB 10 - NT 8
+ - name: Scheidegger, Casey
+   totals:
+    - event: Hearts
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 73
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Fourth
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(13)
+      score: WC 6 - MB 7
  - name: Schraeder, Jeanna
    totals:
     - event: Hearts
@@ -374,6 +578,50 @@ vs:
       year: 2022
       draw: Round Robin(2)
       score: BC 5 - MB 6
+ - name: Sippala, Ashley
+   totals:
+    - event: Hearts
+      player1:
+        percent: 92
+        wins: 1
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(2)
+      score: NO 11 - MB 8
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 69
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Page 1-2(23)
+      score: NO 5 - MB 8
  - name: Smith, Megan
    totals:
     - event: Hearts
@@ -490,12 +738,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 88
+        percent: 91
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 81
-        wins: 2
+        percent: 82
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -530,6 +778,22 @@ vs:
       year: 2022
       draw: Round Robin(18)
       score: CA 10 - MB 7
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 97
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Final(25)
+      score: MB 4 - CA 10
  - name: Tran, Brittany
    totals:
     - event: Hearts
@@ -562,13 +826,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 75
-        wins: 1
+        percent: 84
+        wins: 2
         losses: 0
       player2:
-        percent: 84
+        percent: 88
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'MB'
@@ -586,6 +850,22 @@ vs:
       year: 2022
       draw: Round Robin(6)
       score: MB 12 - YT 3
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 92
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(11)
+      score: YT 5 - MB 10
  - name: Walker, Laura
    totals:
     - event: Hearts

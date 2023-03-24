@@ -2094,34 +2094,6 @@ vs:
       year: 1993
       draw: Round Robin(8)
       score: CA 7 - TR 3
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 100
-        wins: 1
-        losses: 0
-      player2:
-        percent: 76
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'CA'
-        position: Lead
-        percent: 100
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 76
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2011
-      draw: Round Robin(7)
-      score: NB 3 - CA 9
  - name: Crispo, Guylaine
    totals:
     - event: Hearts
@@ -4958,6 +4930,34 @@ vs:
       year: 1992
       draw: Round Robin(15)
       score: MB 7 - AB 2
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 100
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2011
+      draw: Round Robin(7)
+      score: NB 3 - CA 9
  - name: Kelly, Anita
    totals:
     - event: Hearts

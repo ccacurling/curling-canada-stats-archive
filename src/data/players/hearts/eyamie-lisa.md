@@ -48,7 +48,6 @@ vs:
  - Curtis, Stacie
  - deJager, Blaine
  - Derry, Danielle
- - Devereaux, Julie
  - Doig, Deanna
  - Englot, Michelle
  - Fullerton, Sarah
@@ -56,6 +55,7 @@ vs:
  - Hill, Trish
  - Homan, Rachel
  - Hughes, Meaghan
+ - Hynes, Julie
  - Koehler, Megan
  - Lilly, Kendra
  - MacPhee, Robyn
@@ -64,7 +64,6 @@ vs:
  - Mattatall, Mary
  - McCarville, Krista
  - McEvoy, Julie
- - McQuaid, Michelle
  - Miskew, Emma
  - Nixon, Amy
  - O'Rourke, Brittany
@@ -75,6 +74,7 @@ vs:
  - Richards, Brette
  - Saulnier, Andrea
  - Schneider, Lorraine
+ - Shea, Michelle
  - Sicinski, Danielle
  - Sippala, Ashley
  - Weagle, Lisa

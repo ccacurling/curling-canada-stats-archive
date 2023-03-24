@@ -30,6 +30,34 @@ vs:
       year: 2014
       draw: Round Robin(3)
       score: PE 3 - TR 10
+ - name: Einarson, Kerri
+   totals:
+    - event: Hearts
+      player1:
+        percent: 100
+        wins: 0
+        losses: 1
+      player2:
+        percent: 100
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Lead
+        percent: 100
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Fourth
+        percent: 100
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(8)
+      score: PE 2 - CA 9
  - name: Enge, Jenna
    totals:
     - event: Hearts
@@ -326,6 +354,34 @@ vs:
       year: 2012
       draw: Round Robin(1)
       score: ON 7 - PE 6
+ - name: Harris, Briane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 100
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Lead
+        percent: 100
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(8)
+      score: PE 2 - CA 9
  - name: Holland, Amber
    totals:
     - event: Hearts
@@ -514,6 +570,34 @@ vs:
       year: 2012
       draw: Round Robin(13)
       score: CA 10 - PE 4
+ - name: Karwacki, Krysten
+   totals:
+    - event: Hearts
+      player1:
+        percent: 100
+        wins: 0
+        losses: 1
+      player2:
+        percent: 69
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Lead
+        percent: 100
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 69
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(8)
+      score: PE 2 - CA 9
  - name: Kasner, Marliese
    totals:
     - event: Hearts
@@ -542,6 +626,50 @@ vs:
       year: 2014
       draw: Round Robin(10)
       score: PE 3 - SK 7
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 1
+        losses: 1
+      player2:
+        percent: 68
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Second
+        percent: 69
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 53
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2012
+      draw: Round Robin(16)
+      score: NB 4 - PE 11
+    - player1:
+        team: 'PE'
+        position: Second
+        percent: 66
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2014
+      draw: Round Robin(11)
+      score: PE 6 - NB 9
  - name: Koehler, Megan
    totals:
     - event: Hearts
@@ -1834,12 +1962,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 85
+        percent: 88
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 85
-        wins: 1
+        percent: 89
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1858,6 +1986,22 @@ vs:
       year: 2014
       draw: Round Robin(9)
       score: AB 8 - PE 5
+    - player1:
+        team: 'PE'
+        position: Lead
+        percent: 100
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(8)
+      score: PE 2 - CA 9
  - name: Titheridge, Lindsay
    totals:
     - event: Hearts

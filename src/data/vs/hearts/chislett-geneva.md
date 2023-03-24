@@ -58,34 +58,6 @@ vs:
       year: 2018
       draw: Round Robin(5)
       score: NU 3 - NL 10
- - name: Devereaux, Julie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 61
-        wins: 0
-        losses: 1
-      player2:
-        percent: 88
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NU'
-        position: Third
-        percent: 61
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(5)
-      score: NU 3 - NL 10
  - name: Duncan, Chelsea
    totals:
     - event: Hearts
@@ -310,6 +282,34 @@ vs:
       year: 2018
       draw: Round Robin(13)
       score: NU 4 - PE 12
+ - name: Hynes, Julie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 61
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Third
+        percent: 61
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(5)
+      score: NU 3 - NL 10
  - name: Inglis, Danielle
    totals:
     - event: Hearts
@@ -416,34 +416,6 @@ vs:
         team: 'PE'
         position: Fourth
         percent: 73
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(13)
-      score: NU 4 - PE 12
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 58
-        wins: 0
-        losses: 1
-      player2:
-        percent: 93
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NU'
-        position: Second
-        percent: 58
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 93
         win: 1
         loss: 0
       event: Hearts
@@ -562,6 +534,34 @@ vs:
       year: 2018
       draw: Round Robin(11)
       score: NU 2 - ON 12
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 58
+        wins: 0
+        losses: 1
+      player2:
+        percent: 93
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Second
+        percent: 58
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(13)
+      score: NU 4 - PE 12
  - name: Smallwood, Jody
    totals:
     - event: Hearts

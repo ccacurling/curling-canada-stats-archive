@@ -394,6 +394,50 @@ vs:
       year: 2019
       draw: Round Robin(2)
       score: WC 10 - YT 2
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 87
+        wins: 2
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Round Robin(3)
+      score: PE 6 - AB 8
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 82
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2019
+      draw: Round Robin(4)
+      score: WC 7 - PE 2
  - name: Silvernagle, Robyn
    totals:
     - event: Hearts

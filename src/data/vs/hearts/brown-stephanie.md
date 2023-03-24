@@ -114,6 +114,34 @@ vs:
       year: 2022
       draw: Round Robin(10)
       score: AB 11 - YT 5
+ - name: Harris, Briane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 54
+        wins: 0
+        losses: 1
+      player2:
+        percent: 63
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Third
+        percent: 54
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 63
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(12)
+      score: YT 4 - CA 6
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -142,34 +170,6 @@ vs:
       year: 2022
       draw: Round Robin(10)
       score: AB 11 - YT 5
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 54
-        wins: 0
-        losses: 1
-      player2:
-        percent: 63
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'YT'
-        position: Third
-        percent: 54
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 63
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(12)
-      score: YT 4 - CA 6
  - name: Scotland, Nadine
    totals:
     - event: Hearts

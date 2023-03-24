@@ -174,34 +174,6 @@ vs:
       year: 2022
       draw: Round Robin(15)
       score: WC 7 - WC 8
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 92
-        wins: 1
-        losses: 0
-      player2:
-        percent: 75
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'WC'
-        position: Third
-        percent: 92
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 75
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Round Robin(17)
-      score: NB 3 - WC 10
  - name: Curtis, Stacie
    totals:
     - event: Hearts
@@ -224,34 +196,6 @@ vs:
         team: 'NL'
         position: Fourth
         percent: 69
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(14)
-      score: SK 8 - NL 4
- - name: Devereaux, Julie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 82
-        wins: 1
-        losses: 0
-      player2:
-        percent: 83
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 82
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 83
         win: 0
         loss: 1
       event: Hearts
@@ -854,6 +798,34 @@ vs:
       year: 2022
       draw: Round Robin(13)
       score: WC 4 - PE 8
+ - name: Hynes, Julie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 82
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 83
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(14)
+      score: SK 8 - NL 4
  - name: Jones, Jennifer
    totals:
     - event: Hearts
@@ -942,6 +914,34 @@ vs:
       year: 2016
       draw: Round Robin(1)
       score: SK 11 - NS 7
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 92
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(17)
+      score: NB 3 - WC 10
  - name: Koehler, Megan
    totals:
     - event: Hearts
@@ -1442,34 +1442,6 @@ vs:
       year: 2016
       draw: Round Robin(10)
       score: CA 11 - SK 5
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 80
-        wins: 0
-        losses: 1
-      player2:
-        percent: 73
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'WC'
-        position: Third
-        percent: 80
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 73
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(13)
-      score: WC 4 - PE 8
  - name: Mercer, Adrienne
    totals:
     - event: Hearts
@@ -2350,6 +2322,34 @@ vs:
       year: 2022
       draw: Round Robin(9)
       score: WC 5 - NL 4
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 80
+        wins: 0
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 73
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(13)
+      score: WC 4 - PE 8
  - name: Sicinski, Danielle
    totals:
     - event: Hearts

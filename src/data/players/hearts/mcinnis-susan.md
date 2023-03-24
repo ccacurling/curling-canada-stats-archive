@@ -232,7 +232,6 @@ vs:
  - Cormier, Sharon
  - Couling, Betty
  - Courtney, Joanne
- - Crawford, Andrea
  - Crispo, Guylaine
  - Cunningham, Cathy
  - Cunningham, Jessica
@@ -314,6 +313,7 @@ vs:
  - Kaylo, Kelly
  - Kehler, Lorie
  - Kellerman, Bev
+ - Kelly, Andrea
  - Kelly, Kim
  - Kennedy, Tracy
  - Kerr, Kathy

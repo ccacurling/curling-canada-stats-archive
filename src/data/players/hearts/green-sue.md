@@ -61,7 +61,6 @@ vs:
  - Bartlett, Sue Anne
  - Bernard, Cheryl
  - Blanchard, Judy
- - Brown, Katie
  - Brown, Marcie
  - Chapman, Kathy
  - Charette, Agnes
@@ -126,4 +125,5 @@ vs:
  - Walker, Lisa
  - Willms, Karri
  - Wilson, Patty
+ - Witt, Katie
 ---

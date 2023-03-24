@@ -100,7 +100,6 @@ vs:
  - Collins, Katrina
  - Cooper, Kathryn
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Jessica
  - deSolla, Jodie
  - Einarson, Kerri
@@ -113,10 +112,12 @@ vs:
  - Fyfe, Liz
  - Gamble, Christie
  - Gates, Amanda
+ - Harris, Briane
  - Hastings, Julie
  - Homan, Rachel
  - Hughes, Meaghan
  - Jones, Jennifer
+ - Kelly, Andrea
  - Knezevic, Patti
  - Korab, Stephanie
  - Lawes, Kaitlyn
@@ -128,8 +129,6 @@ vs:
  - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
- - Meilleur, Briane
  - Miskew, Emma
  - Njegovan, Robyn
  - Njegovan, Selena
@@ -143,6 +142,7 @@ vs:
  - Quillian, Sylvie
  - Richard, Marie
  - Rusnell, Jen
+ - Shea, Michelle
  - Sicinski, Danielle
  - Sippala, Ashley
  - Smith, Stacey

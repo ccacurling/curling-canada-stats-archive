@@ -4,18 +4,18 @@ name: Kara Thevenot
 name-sort: Thevenot, Kara
 totals:
  - event: Hearts
-   games: 25
-   wins: 15
-   losses: 10
-   inturn-total: 267
+   games: 33
+   wins: 17
+   losses: 16
+   inturn-total: 376
    inturn-percent: 84
-   outturn-total: 217
+   outturn-total: 252
    outturn-percent: 83
-   draw-total: 368
-   draw-percent: 84
-   takeout-total: 116
+   draw-total: 492
+   draw-percent: 85
+   takeout-total: 136
    takeout-percent: 81
-   shots-total: 484
+   shots-total: 628
    shots-percent: 84
 years:
  - year: 2019
@@ -52,14 +52,34 @@ years:
    takeout-percent: 78
    shots-total: 232
    shots-percent: 84
+ - year: 2023
+   event: Hearts
+   team: "SK"
+   position: Lead
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 109
+   inturn-percent: 84
+   outturn-total: 35
+   outturn-percent: 84
+   draw-total: 124
+   draw-percent: 85
+   takeout-total: 20
+   takeout-percent: 79
+   shots-total: 144
+   shots-percent: 84
 vs:
  - Armstrong, Jennifer
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
+ - Barker, Shelley
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
+ - Black, Christina
  - Brown, Corryn
  - Brown, Rachel
  - Cameron, Kate
@@ -67,33 +87,41 @@ vs:
  - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
- - Crawford, Andrea
+ - Dubue, Lindsay
  - Eddy, Lori
  - Einarson, Kerri
+ - Everist, Karlee
  - Ferguson, Dana
  - Forward, Katie
  - Galusha, Kerry
  - Gates, Jennifer
+ - Grandy, Clancy
  - Griffin, Alison
  - Guzzwell, Stephanie
  - Hamilton, Beth
+ - Harris, Briane
  - Haughian, Jessie
  - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
  - Jewer, Michelle
  - Jones, Jennifer
+ - Karwacki, Krysten
+ - Kelly, Andrea
  - Klymchuk, Ashley
  - Koltun, Sarah
  - Lawes, Kaitlyn
  - Lilly, Kendra
+ - Loken, Sarah
+ - MacCuish, Kristin
  - MacDonald, Kaitlin
+ - MacMillan, Kayla
+ - MacPhail, Brigitte
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
+ - Middaugh, Kelly
  - Miskew, Emma
  - Moore, Kristie
  - Peterman, Jocelyn
@@ -101,6 +129,8 @@ vs:
  - Pincott, Erin
  - Pinksen, Sadie
  - Potts, Sarah
+ - Ramsay, Geri-Lynn
+ - Riley, Emily
  - Routledge, Alanna
  - Routledge, Jill
  - Rusnell, Jen
@@ -109,9 +139,14 @@ vs:
  - Scotland, Nadine
  - Sharpe, Kelli
  - Shaw, Ladene
+ - Shea, Michelle
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
+ - St-Georges, Laurie
  - Strong, Helen
  - Sweeting, Val
+ - Taylor, Alison
  - Tran, Brittany
  - Verreault, Noemie
  - Walker, Laura

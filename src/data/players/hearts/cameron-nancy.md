@@ -204,7 +204,6 @@ vs:
  - Breen, Theresa
  - Brophy, Kathy
  - Brown, Janet
- - Brown, Katie
  - Bryant, Angie
  - Burgess, Carey
  - Burry, Gail
@@ -219,7 +218,6 @@ vs:
  - Corbin, Nicole
  - Cordina, Sheri
  - Cormier, Sharon
- - Crawford, Andrea
  - Crocker, Cindy
  - Cunningham, Cathy
  - Cutcliffe, Margaret
@@ -275,6 +273,7 @@ vs:
  - Joyce, Blisse
  - Jurgenson, Christine
  - Kaylo, Kelly
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - King, Cathy
@@ -379,6 +378,7 @@ vs:
  - Vey, Lana
  - Wheatcroft, Georgina
  - Willms, Karri
+ - Witt, Katie
  - Wright, Joanne
  - Wright, Susan
  - Wylie, Jennifer

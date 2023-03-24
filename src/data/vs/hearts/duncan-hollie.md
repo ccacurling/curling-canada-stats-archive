@@ -354,6 +354,34 @@ vs:
       year: 2018
       draw: Round Robin(9)
       score: ON 5 - BC 6
+ - name: Harris, Briane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 53
+        wins: 0
+        losses: 1
+      player2:
+        percent: 92
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'ON'
+        position: Fourth
+        percent: 53
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 92
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(2)
+      score: ON 5 - CA 12
  - name: Harvey, Marie-Pier
    totals:
     - event: Hearts
@@ -438,6 +466,50 @@ vs:
       year: 2018
       draw: Round Robin(11)
       score: NU 2 - ON 12
+ - name: Hynes, Julie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 1
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(3)
+      score: ON 5 - NL 8
+    - player1:
+        team: 'ON'
+        position: Fourth
+        percent: 64
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 86
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Tie-Breaker(15)
+      score: NL 8 - ON 11
  - name: Jones, Jennifer
    totals:
     - event: Hearts
@@ -634,34 +706,6 @@ vs:
       year: 2018
       draw: Pool(17)
       score: ON 3 - MB 11
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 80
-        wins: 1
-        losses: 0
-      player2:
-        percent: 84
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'ON'
-        position: Fourth
-        percent: 80
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 84
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Round Robin(7)
-      score: PE 6 - ON 8
  - name: McTaggart, Cary-Anne
    totals:
     - event: Hearts
@@ -690,34 +734,6 @@ vs:
       year: 2018
       draw: Round Robin(1)
       score: ON 5 - AB 6
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 53
-        wins: 0
-        losses: 1
-      player2:
-        percent: 92
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'ON'
-        position: Fourth
-        percent: 53
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 92
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(2)
-      score: ON 5 - CA 12
  - name: Moore, Kristie
    totals:
     - event: Hearts
@@ -1070,6 +1086,34 @@ vs:
       year: 2018
       draw: Round Robin(11)
       score: NU 2 - ON 12
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Round Robin(7)
+      score: PE 6 - ON 8
  - name: Simons, Renee
    totals:
     - event: Hearts

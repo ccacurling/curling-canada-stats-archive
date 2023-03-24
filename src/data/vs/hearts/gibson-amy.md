@@ -86,6 +86,34 @@ vs:
       year: 2018
       draw: Round Robin(3)
       score: BC 7 - NU 4
+ - name: Hynes, Julie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 96
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 96
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Round Robin(13)
+      score: NL 7 - BC 10
  - name: Jones, Jennifer
    totals:
     - event: Hearts
@@ -254,34 +282,6 @@ vs:
       year: 2018
       draw: Pool(16)
       score: BC 3 - MB 10
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 93
-        wins: 0
-        losses: 1
-      player2:
-        percent: 83
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'BC'
-        position: Lead
-        percent: 93
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 83
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(5)
-      score: BC 5 - PE 9
  - name: McTaggart, Cary-Anne
    totals:
     - event: Hearts
@@ -562,6 +562,34 @@ vs:
       year: 2018
       draw: Round Robin(3)
       score: BC 7 - NU 4
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 93
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(5)
+      score: BC 5 - PE 9
  - name: Webster, Crystal
    totals:
     - event: Hearts

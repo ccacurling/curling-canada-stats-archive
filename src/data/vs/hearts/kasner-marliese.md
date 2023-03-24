@@ -2,6 +2,50 @@
 title: Marliese Kasner Head-to-head
 name: Kasner, Marliese
 vs:
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 2
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'SK'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 63
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2009
+      draw: Round Robin(14)
+      score: SK 10 - NB 4
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 98
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 77
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2014
+      draw: Round Robin(6)
+      score: NB 3 - SK 9
  - name: Kelly, Kim
    totals:
     - event: Hearts
@@ -928,34 +972,6 @@ vs:
         team: 'PE'
         position: Lead
         percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(17)
-      score: PE 4 - SK 5
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 90
-        wins: 1
-        losses: 0
-      player2:
-        percent: 73
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Lead
-        percent: 90
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Second
-        percent: 73
         win: 0
         loss: 1
       event: Hearts
@@ -2006,6 +2022,34 @@ vs:
       year: 2005
       draw: Round Robin(15)
       score: SK 6 - TR 3
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 73
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(17)
+      score: PE 4 - SK 5
  - name: Simons, Renee
    totals:
     - event: Hearts

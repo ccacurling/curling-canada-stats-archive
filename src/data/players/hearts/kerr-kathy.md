@@ -225,7 +225,6 @@ vs:
  - Bradley, Shelley
  - Breen, Theresa
  - Brown, Janet
- - Brown, Katie
  - Brown, Maureen
  - Bryant, Angie
  - Burlington, Cheryl
@@ -447,6 +446,7 @@ vs:
  - Whipple, Paula
  - Wieler, Bev
  - Willms, Karri
+ - Witt, Katie
  - Wright, Joanne
  - Zielke, Colleen
  - Zinck, Kay

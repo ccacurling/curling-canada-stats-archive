@@ -52,8 +52,8 @@ vs:
  - Cormier, Sharon
  - Curtis, Stacie
  - Derry, Danielle
- - Devereaux, Julie
  - Galusha, Kerry
+ - Hynes, Julie
  - Koehler, Megan
  - Porter, Erin
  - Vautour, Carrie

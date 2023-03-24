@@ -45,7 +45,6 @@ vs:
  - Crouse, Jennifer
  - Curtis, Erica
  - Curtis, Stacie
- - Devereaux, Julie
  - Duncan, Hollie
  - Einarson, Kerri
  - Enge, Jenna
@@ -59,6 +58,7 @@ vs:
  - Harvey, Marie-Pier
  - Hughes, Meaghan
  - Hutchings, Denise
+ - Hynes, Julie
  - Jones, Jennifer
  - Kreviazuk, Cheryl
  - LeDrew, Stephanie
@@ -66,13 +66,13 @@ vs:
  - Mackey, Robyn
  - MacPhee, Robyn
  - McEwen, Dawn
- - McQuaid, Michelle
  - Njegovan, Selena
  - Officer, Jill
  - Perron, Melina
  - Porter, Erin
  - Sagle, Karen
  - Shackleton, Amie
+ - Shea, Michelle
  - Thiboutot, Isabelle
  - Van Osch, Kalia
  - Van Osch, Kesa

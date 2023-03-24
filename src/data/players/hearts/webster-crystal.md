@@ -4,18 +4,18 @@ name: Crystal Webster
 name-sort: Webster, Crystal
 totals:
  - event: Hearts
-   games: 13
-   wins: 9
+   games: 14
+   wins: 10
    losses: 4
-   inturn-total: 110
+   inturn-total: 113
    inturn-percent: 80
    outturn-total: 125
    outturn-percent: 81
    draw-total: 85
    draw-percent: 78
-   takeout-total: 150
+   takeout-total: 153
    takeout-percent: 82
-   shots-total: 235
+   shots-total: 238
    shots-percent: 80
 years:
  - year: 2011
@@ -50,6 +50,19 @@ years:
    takeout-percent: 82
    shots-total: 232
    shots-percent: 81
+ - year: 2023
+   event: Hearts
+   team: "AB"
+   position: Second
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 3
+   inturn-percent: 83
+   takeout-total: 3
+   takeout-percent: 83
+   shots-total: 3
+   shots-percent: 83
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -62,6 +75,7 @@ vs:
  - Brassard, Veronique
  - Cameron, Kate
  - Crouse, Jennifer
+ - Desjardins, Emilie
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
@@ -85,15 +99,19 @@ vs:
  - MacCuish, Kristin
  - McEwen, Dawn
  - McTaggart, Cary-Anne
+ - Middaugh, Kelly
  - Moore, Kristie
  - Njegovan, Selena
  - Officer, Jill
  - Price, Kara
  - Quillian, Sylvie
+ - Riley, Emily
+ - Routledge, Alanna
  - Sagle, Karen
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Smallwood, Jody
+ - St-Georges, Laurie
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika

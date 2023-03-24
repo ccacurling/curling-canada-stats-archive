@@ -86,6 +86,34 @@ vs:
       year: 2014
       draw: Round Robin(8)
       score: SK 8 - QC 4
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 59
+        wins: 0
+        losses: 1
+      player2:
+        percent: 82
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 59
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 82
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2014
+      draw: Round Robin(1)
+      score: NB 6 - QC 1
  - name: Knapp, Breanne
    totals:
     - event: Hearts

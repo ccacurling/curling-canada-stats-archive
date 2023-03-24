@@ -168,7 +168,6 @@ vs:
  - Brothers, Jill
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Katie
  - Brown, Marcie
  - Brown, Maureen
  - Campbell, June
@@ -345,6 +344,7 @@ vs:
  - Whitrow, Leanne
  - Willms, Karri
  - Wilson, Patty
+ - Witt, Katie
  - Wright, Susan
  - Young, Karen
  - Zinck, Kay

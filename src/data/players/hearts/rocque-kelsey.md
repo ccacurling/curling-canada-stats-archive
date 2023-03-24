@@ -38,10 +38,10 @@ years:
 vs:
  - Armstrong, Jennifer
  - Babin, Jillian
- - Crawford, Andrea
  - Eddy, Lori
  - Forward, Katie
  - Griffin, Alison
+ - Kelly, Andrea
  - MacDonald, Kaitlin
  - Pinksen, Sadie
 ---

@@ -263,7 +263,6 @@ vs:
  - Carter, Sasha
  - Christianson, Marie
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
@@ -271,7 +270,6 @@ vs:
  - Curtis, Stacie
  - Darbyshire, Carolyn
  - deSolla, Jodie
- - Devereaux, Julie
  - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
@@ -301,18 +299,21 @@ vs:
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Harmark, Andra
+ - Harris, Briane
  - Haughian, Jessie
  - Hawes, Dezaray
  - Holland, Amber
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
  - Iskiw, Beth
  - Jewer, Michelle
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kidd, Darlene
  - Kleibrink, Shannon
  - Klymchuk, Ashley
@@ -343,9 +344,7 @@ vs:
  - McConnery, Nancy
  - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Middaugh, Sherry
  - Miskew, Emma
  - Moore, Kim
@@ -382,6 +381,7 @@ vs:
  - Scott, Kelly
  - Sharpe, Kelli
  - Shaw, Ladene
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Simmons, Cindy
  - Singler, Sherri

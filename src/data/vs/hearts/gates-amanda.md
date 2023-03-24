@@ -30,6 +30,34 @@ vs:
       year: 2018
       draw: Pool(20)
       score: NO 7 - BC 5
+ - name: Harris, Briane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 0
+        losses: 1
+      player2:
+        percent: 70
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(7)
+      score: CA 12 - NO 4
  - name: Hastings, Julie
    totals:
     - event: Hearts
@@ -330,6 +358,34 @@ vs:
       year: 2015
       draw: Round Robin(13)
       score: SK 5 - NO 6
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 95
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 95
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2012
+      draw: Round Robin(12)
+      score: NB 6 - ON 5
  - name: Kelly, Kim
    totals:
     - event: Hearts
@@ -1026,34 +1082,6 @@ vs:
       year: 2015
       draw: Round Robin(5)
       score: NO 5 - PE 7
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 91
-        wins: 0
-        losses: 1
-      player2:
-        percent: 76
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent: 91
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Second
-        percent: 76
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2015
-      draw: Round Robin(5)
-      score: NO 5 - PE 7
  - name: McTaggart, Cary-Anne
    totals:
     - event: Hearts
@@ -1082,34 +1110,6 @@ vs:
       year: 2018
       draw: Pool(16)
       score: AB 8 - NO 4
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 0
-        losses: 1
-      player2:
-        percent: 70
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent: 73
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(7)
-      score: CA 12 - NO 4
  - name: Miller, Wendy
    totals:
     - event: Hearts
@@ -1930,6 +1930,34 @@ vs:
       year: 2012
       draw: Round Robin(5)
       score: BC 9 - ON 8
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 91
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2015
+      draw: Round Robin(5)
+      score: NO 5 - PE 7
  - name: Slywka, Sarah
    totals:
     - event: Hearts

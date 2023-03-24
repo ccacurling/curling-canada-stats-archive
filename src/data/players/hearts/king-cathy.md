@@ -181,7 +181,6 @@ vs:
  - Cordina, Sheri
  - Cormier, Sharon
  - Couling, Betty
- - Crawford, Andrea
  - Crispo, Guylaine
  - Cunningham, Cathy
  - Daku, Karen
@@ -241,6 +240,7 @@ vs:
  - Karam, Sally
  - Kasner, Marliese
  - Kaylo, Kelly
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - Kyle, Linda

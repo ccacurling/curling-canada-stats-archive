@@ -43,7 +43,6 @@ vs:
  - Birt, Suzanne
  - Bradley, Shelley
  - Carter, Sasha
- - Crawford, Andrea
  - Curtis, Stacie
  - Fallis, Karen
  - Galusha, Kerry
@@ -53,6 +52,7 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Kleibrink, Shannon
  - Kreviazuk, Alison
  - Lawes, Kaitlyn

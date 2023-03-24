@@ -342,7 +342,6 @@ vs:
  - Brennan, Amanda
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Katie
  - Brown, Marcie
  - Burgess, Carey
  - Burlington, Cheryl
@@ -368,7 +367,6 @@ vs:
  - Copeland, Rae Ann
  - Cordina, Sheri
  - Cormier, Sharon
- - Crawford, Andrea
  - Cunningham, Cathy
  - Currie, Wendy
  - Curtis, Stacie
@@ -464,6 +462,7 @@ vs:
  - Kaylo, Kelly
  - Kehler, Lorie
  - Kellerman, Bev
+ - Kelly, Andrea
  - Kennedy, Tracy
  - Kerr, Kathy
  - Kidd, Darlene
@@ -653,6 +652,7 @@ vs:
  - Wieler, Bev
  - Willms, Karri
  - Wilson, Patty
+ - Witt, Katie
  - Wright, Susan
  - Yardley, Janelle
  - Young, Karen

@@ -91,7 +91,6 @@ vs:
  - Carter, Sasha
  - Clark, Stefanie
  - Cordina, Sheri
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Darbyshire, Carolyn
@@ -114,6 +113,7 @@ vs:
  - Jones, Jennifer
  - Kasner, Marliese
  - Kehler, Lorie
+ - Kelly, Andrea
  - Kelly, Kim
  - Kidd, Darlene
  - Kleibrink, Shannon

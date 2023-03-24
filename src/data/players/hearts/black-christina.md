@@ -4,18 +4,18 @@ name: Christina Black
 name-sort: Black, Christina
 totals:
  - event: Hearts
-   games: 41
-   wins: 24
-   losses: 17
-   inturn-total: 417
+   games: 53
+   wins: 31
+   losses: 22
+   inturn-total: 546
    inturn-percent: 78
-   outturn-total: 375
-   outturn-percent: 75
-   draw-total: 313
-   draw-percent: 73
-   takeout-total: 479
+   outturn-total: 472
+   outturn-percent: 76
+   draw-total: 428
+   draw-percent: 74
+   takeout-total: 590
    takeout-percent: 79
-   shots-total: 792
+   shots-total: 1018
    shots-percent: 77
 years:
  - year: 2015
@@ -86,6 +86,23 @@ years:
    takeout-percent: 79
    shots-total: 173
    shots-percent: 74
+ - year: 2023
+   event: Hearts
+   team: "NS"
+   position: Fourth
+   games: 12
+   wins: 7
+   losses: 5
+   inturn-total: 129
+   inturn-percent: 77
+   outturn-total: 97
+   outturn-percent: 78
+   draw-total: 115
+   draw-percent: 78
+   takeout-total: 111
+   takeout-percent: 78
+   shots-total: 226
+   shots-percent: 78
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -116,7 +133,7 @@ vs:
  - Courtney, Joanne
  - Cunningham, Jessica
  - Curtis, Erica
- - Devereaux, Julie
+ - Dubue, Lindsay
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
@@ -133,12 +150,16 @@ vs:
  - Galusha, Kerry
  - Gates, Amanda
  - Gibson, Amy
+ - Grandy, Clancy
  - Hamilton, Beth
+ - Harris, Briane
  - Hastings, Julie
  - Hawes, Dezaray
  - Homan, Rachel
  - Hughes, Meaghan
+ - Hynes, Julie
  - Jones, Jennifer
+ - Just, Sherry
  - Kallechy, Rachelle
  - Kasner, Marliese
  - Klymchuk, Ashley
@@ -154,15 +175,18 @@ vs:
  - Lenentine, Lauren
  - Lilly, Kendra
  - Lister, Kendra
+ - Loken, Sarah
  - MacCuish, Kristin
+ - MacDonald, Kaitlin
+ - MacMillan, Kayla
+ - MacPhail, Brigitte
  - Mann, Lauren
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
+ - Middaugh, Kelly
  - Miskew, Emma
  - Moore, Kristie
  - Njegovan, Selena
@@ -173,23 +197,31 @@ vs:
  - Pewarchuk, Dailene
  - Pilote, Kristen
  - Pincott, Erin
+ - Pinksen, Sadie
  - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
  - Price, Kara
  - Quillian, Sylvie
+ - Ramsay, Geri-Lynn
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Routledge, Alanna
  - Rusnell, Jen
  - Sagle, Karen
+ - Schafer, Kelly
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
  - Schraeder, Jeanna
  - Scotland, Nadine
+ - Shea, Michelle
+ - Silvernagle, Robyn
  - Simons, Renee
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smallwood, Jody
  - Smith, Stacey
  - St-Georges, Cynthia
@@ -197,6 +229,9 @@ vs:
  - Strong, Heather
  - Strybosch, Rachelle
  - Sweeting, Val
+ - Taylor, Alison
+ - Thevenot, Kara
+ - Tran, Brittany
  - Trombley, Christy
  - Tuor, Kimberly
  - Van Osch, Kalia
@@ -207,6 +242,7 @@ vs:
  - Weagle, Lisa
  - Webster, Crystal
  - Westcott, Raunora
+ - Wilkes, Sarah
  - Wilson, Leslie
  - Wylie, Jennifer
  - Zacharias, Emily

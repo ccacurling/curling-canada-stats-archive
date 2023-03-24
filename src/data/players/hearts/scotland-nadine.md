@@ -70,7 +70,6 @@ vs:
  - Carey, Chelsea
  - Carter, Sasha
  - Cote, Marie-Pier
- - Crawford, Andrea
  - Duncan, Hollie
  - Eddy, Lori
  - Einarson, Kerri
@@ -81,15 +80,16 @@ vs:
  - Galusha, Kerry
  - Gates, Jennifer
  - Griffin, Alison
+ - Harris, Briane
  - Hunkin, Jessie
  - Karwacki, Krysten
+ - Kelly, Andrea
  - Koltun, Sarah
  - Lawton, Stefanie
  - Lenentine, Lauren
  - Lilly, Kendra
  - MacDonald, Kaitlin
  - McCarville, Krista
- - Meilleur, Briane
  - Pinksen, Sadie
  - Riley, Emily
  - Rizzo, Jo-Ann

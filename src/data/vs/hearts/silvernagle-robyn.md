@@ -30,6 +30,90 @@ vs:
       year: 2020
       draw: Round Robin(14)
       score: NO 4 - SK 3
+ - name: Skrlik, Ashton
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 82
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 82
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(3)
+      score: AB 9 - SK 11
+ - name: Skrlik, Kayla
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 72
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(3)
+      score: AB 9 - SK 11
+ - name: St-Georges, Laurie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 70
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Fourth
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(8)
+      score: SK 5 - QC 9
  - name: Strong, Helen
    totals:
     - event: Hearts
@@ -62,12 +146,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 72
+        percent: 70
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 89
-        wins: 1
+        percent: 93
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -86,17 +170,61 @@ vs:
       year: 2020
       draw: Round Robin(11)
       score: SK 6 - MB 10
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 97
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(11)
+      score: CA 10 - SK 3
+ - name: Taylor, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(13)
+      score: SK 13 - NU 4
  - name: Tran, Brittany
    totals:
     - event: Hearts
       player1:
-        percent: 64
-        wins: 0
+        percent: 77
+        wins: 1
         losses: 1
       player2:
-        percent: 68
+        percent: 71
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'SK'
@@ -114,6 +242,22 @@ vs:
       year: 2019
       draw: Round Robin(8)
       score: SK 4 - NT 9
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(3)
+      score: AB 9 - SK 11
  - name: Verreault, Noemie
    totals:
     - event: Hearts
@@ -146,12 +290,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 88
+        percent: 74
         wins: 1
-        losses: 0
+        losses: 1
       player2:
         percent: 76
-        wins: 0
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -170,6 +314,22 @@ vs:
       year: 2020
       draw: Round Robin(8)
       score: SK 7 - AB 5
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 60
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(10)
+      score: SK 3 - WC 8
  - name: Wark, Sarah
    totals:
     - event: Hearts

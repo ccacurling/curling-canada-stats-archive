@@ -64,7 +64,6 @@ vs:
  - Carmody, Erin
  - Carter, Sasha
  - Cormier, Sharon
- - Crawford, Andrea
  - Crouse, Jennifer
  - Delahunt, Nancy
  - deSolla, Jodie
@@ -80,6 +79,7 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Kelly, Kim
  - King, Cathy
  - Koehler, Megan

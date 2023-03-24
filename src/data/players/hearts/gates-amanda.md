@@ -115,7 +115,6 @@ vs:
  - Cooper, Kathryn
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Jennifer
  - Cunningham, Jessica
@@ -135,6 +134,7 @@ vs:
  - Fyfe, Liz
  - Galusha, Kerry
  - Gibson, Amy
+ - Harris, Briane
  - Hastings, Julie
  - Holland, Amber
  - Homan, Rachel
@@ -144,6 +144,7 @@ vs:
  - Kalenchuk, Heather
  - Karwacki, Krysten
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - Knezevic, Patti
  - Koehler, Megan
@@ -166,9 +167,7 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Miller, Wendy
  - Miskew, Emma
  - Moore, Kristie
@@ -196,6 +195,7 @@ vs:
  - Schmidt, Stephanie
  - Schneider, Kim
  - Scott, Kelly
+ - Shea, Michelle
  - Slywka, Sarah
  - Smallwood, Jody
  - Smith, Heather

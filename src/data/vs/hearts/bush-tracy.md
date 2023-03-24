@@ -158,34 +158,6 @@ vs:
       year: 2005
       draw: Round Robin(7)
       score: AB 9 - NB 4
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 69
-        wins: 0
-        losses: 1
-      player2:
-        percent: 72
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent: 69
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 72
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2006
-      draw: Round Robin(6)
-      score: AB 6 - NB 7
  - name: Delahunt, Nancy
    totals:
     - event: Hearts
@@ -774,6 +746,34 @@ vs:
       year: 2005
       draw: Round Robin(1)
       score: AB 3 - SK 6
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 0
+        losses: 1
+      player2:
+        percent: 72
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 72
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2006
+      draw: Round Robin(6)
+      score: AB 6 - NB 7
  - name: Kelly, Kim
    totals:
     - event: Hearts

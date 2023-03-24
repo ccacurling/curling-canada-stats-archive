@@ -107,7 +107,6 @@ vs:
  - Comeau, Martine
  - Comeau, Sandy
  - Cormier, Sharon
- - Crawford, Andrea
  - Crouse, Jennifer
  - Daniel, Sylvie
  - Darbyshire, Carolyn
@@ -130,6 +129,7 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Kelly, Kim
  - King, Cathy
  - Koehler, Megan

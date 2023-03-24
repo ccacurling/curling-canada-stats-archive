@@ -1794,6 +1794,34 @@ vs:
       year: 1987
       draw: Round Robin(15)
       score: PE 4 - BC 7
+ - name: Witt, Katie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 66
+        wins: 1
+        losses: 0
+      player2:
+        percent: 64
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 66
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 1990
+      draw: Round Robin(1)
+      score: PE 9 - QC 3
  - name: Zinck, Kay
    totals:
     - event: Hearts

@@ -65,7 +65,6 @@ vs:
  - Brassard, Veronique
  - Carter, Sasha
  - Christianson, Marie
- - Crawford, Andrea
  - Forward, Katie
  - Galusha, Kerry
  - Gregoire, Veronique
@@ -77,6 +76,7 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Kleibrink, Shannon
  - Knapp, Breanne
  - Koltun, Sarah
@@ -88,7 +88,6 @@ vs:
  - MacDougall, Leslie
  - MacPhee, Robyn
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Middaugh, Sherry
  - Miller, Wendy
@@ -106,6 +105,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shaw, Ladene
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Smith, Heather
  - Sobey, Lianne

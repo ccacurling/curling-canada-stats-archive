@@ -34,12 +34,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 70
+        percent: 69
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 92
-        wins: 2
+        percent: 91
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -74,6 +74,78 @@ vs:
       year: 2022
       draw: Round Robin(6)
       score: CA 8 - QC 5
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(1)
+      score: CA 11 - QC 8
+ - name: Taylor, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 1
+        losses: 0
+      player2:
+        percent: 61
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 61
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(5)
+      score: QC 13 - NU 5
+ - name: Thevenot, Kara
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(8)
+      score: SK 5 - QC 9
  - name: Tingley, Jaclyn
    totals:
     - event: Hearts
@@ -106,12 +178,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 52
+        percent: 60
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 92
-        wins: 1
+        percent: 91
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -130,6 +202,22 @@ vs:
       year: 2021
       draw: Pool(23)
       score: WC 10 - QC 3
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(9)
+      score: AB 12 - QC 4
  - name: Tuor, Kimberly
    totals:
     - event: Hearts
@@ -162,13 +250,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 76
-        wins: 1
+        percent: 78
+        wins: 2
         losses: 1
       player2:
         percent: 80
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'QC'
@@ -202,6 +290,22 @@ vs:
       year: 2022
       draw: Round Robin(2)
       score: AB 8 - QC 9
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 80
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(12)
+      score: QC 9 - WC 7
  - name: Wallingham, Patty
    totals:
     - event: Hearts
@@ -258,6 +362,34 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: MB 7 - QC 4
+ - name: Webster, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(9)
+      score: AB 12 - QC 4
  - name: Wilkes, Sarah
    totals:
     - event: Hearts

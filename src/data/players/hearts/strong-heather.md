@@ -283,7 +283,6 @@ vs:
  - Couling, Betty
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Daku, Karen
  - Daniel, Sylvie
@@ -353,6 +352,7 @@ vs:
  - Kasner, Marliese
  - Kaylo, Kelly
  - Kehler, Lorie
+ - Kelly, Andrea
  - Kelly, Kim
  - Kidd, Darlene
  - King, Cathy
@@ -404,7 +404,6 @@ vs:
  - McInnis, Susan
  - McKnight, Patti
  - McNamee, Karen
- - McQuaid, Michelle
  - Merklinger, Anne
  - Middaugh, Sherry
  - Miller, Maureen
@@ -467,6 +466,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli
+ - Shea, Michelle
  - Simmons, Cindy
  - Simons, Renee
  - Sinclair, Andrea

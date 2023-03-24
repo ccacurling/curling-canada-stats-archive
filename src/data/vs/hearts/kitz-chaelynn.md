@@ -170,62 +170,6 @@ vs:
       year: 2021
       draw: Pool(22)
       score: AB 9 - SK 4
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 0
-        losses: 1
-      player2:
-        percent: 89
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Second
-        percent: 84
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 89
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(2)
-      score: PE 7 - SK 6
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 74
-        wins: 0
-        losses: 1
-      player2:
-        percent: 91
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Second
-        percent: 74
-        win: 0
-        loss: 1
-      player2:
-        team: 'CA'
-        position: Lead
-        percent: 91
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Pool(20)
-      score: SK 6 - CA 10
  - name: Mercer, Adrienne
    totals:
     - event: Hearts
@@ -450,6 +394,34 @@ vs:
       year: 2021
       draw: Round Robin(13)
       score: QC 6 - SK 9
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(2)
+      score: PE 7 - SK 6
  - name: St-Georges, Cynthia
    totals:
     - event: Hearts

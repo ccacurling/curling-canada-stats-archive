@@ -390,34 +390,6 @@ vs:
       year: 1995
       draw: Round Robin(8)
       score: BC 6 - PE 8
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 80
-        wins: 0
-        losses: 1
-      player2:
-        percent: 85
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'BC'
-        position: Fourth
-        percent: 80
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2017
-      draw: Round Robin(9)
-      score: PE 8 - BC 7
  - name: Miskew, Emma
    totals:
     - event: Hearts
@@ -1346,6 +1318,34 @@ vs:
       year: 2017
       draw: Round Robin(12)
       score: BC 7 - SK 6
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 80
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Round Robin(9)
+      score: PE 8 - BC 7
  - name: Sicinski, Danielle
    totals:
     - event: Hearts

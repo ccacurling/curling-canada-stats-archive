@@ -89,7 +89,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jessica
@@ -118,6 +117,7 @@ vs:
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
+ - Kelly, Andrea
  - Kelly, Kim
  - King, Cathy
  - Knezevic, Patti

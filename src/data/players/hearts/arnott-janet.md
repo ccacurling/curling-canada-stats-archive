@@ -250,7 +250,6 @@ vs:
  - Cooke, Gerri
  - Copeland, Rae Ann
  - Cormier, Sharon
- - Crawford, Andrea
  - Crispo, Guylaine
  - Cunningham, Cathy
  - Currie, Ann
@@ -322,6 +321,7 @@ vs:
  - Kaylo, Kelly
  - Kehler, Lorie
  - Kellerman, Bev
+ - Kelly, Andrea
  - Kelly, Anita
  - Kelly, Kim
  - Kennedy, Tracy

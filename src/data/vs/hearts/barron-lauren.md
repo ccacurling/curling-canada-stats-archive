@@ -534,34 +534,6 @@ vs:
       year: 2021
       draw: Round Robin(19)
       score: SK 9 - NL 3
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 61
-        wins: 0
-        losses: 1
-      player2:
-        percent: 79
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NL'
-        position: Second
-        percent: 61
-        win: 0
-        loss: 1
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 79
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(9)
-      score: PE 12 - NL 8
  - name: Njegovan, Selena
    totals:
     - event: Hearts
@@ -702,6 +674,34 @@ vs:
       year: 2021
       draw: Round Robin(15)
       score: QC 9 - NL 4
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 61
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 61
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(9)
+      score: PE 12 - NL 8
  - name: St-Georges, Cynthia
    totals:
     - event: Hearts

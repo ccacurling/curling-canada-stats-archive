@@ -71,7 +71,6 @@ vs:
  - Clarke, Hayley
  - Comeau, Martine
  - Comeau, Sandy
- - Crawford, Andrea
  - Daniel, Sylvie
  - Darbyshire, Carolyn
  - Delahunt, Nancy
@@ -87,6 +86,7 @@ vs:
  - Inglis, Nancy
  - Jones, Colleen
  - Jones, Jennifer
+ - Kelly, Andrea
  - Kelly, Kim
  - King, Cathy
  - Law, Kelley

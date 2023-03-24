@@ -4,19 +4,19 @@ name: Kerry Galusha
 name-sort: Galusha, Kerry
 totals:
  - event: Hearts
-   games: 149
-   wins: 47
-   losses: 102
-   inturn-total: 1594
-   inturn-percent: 71
-   outturn-total: 1199
+   games: 157
+   wins: 51
+   losses: 106
+   inturn-total: 1739
+   inturn-percent: 73
+   outturn-total: 1210
    outturn-percent: 71
-   draw-total: 1488
-   draw-percent: 71
-   takeout-total: 1305
+   draw-total: 1627
+   draw-percent: 72
+   takeout-total: 1322
    takeout-percent: 71
-   shots-total: 2793
-   shots-percent: 71
+   shots-total: 2949
+   shots-percent: 72
 years:
  - year: 1998
    event: Hearts
@@ -327,7 +327,25 @@ years:
    takeout-percent: 77
    shots-total: 194
    shots-percent: 83
+ - year: 2023
+   event: Hearts
+   team: "NT"
+   position: Lead
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 145
+   inturn-percent: 87
+   outturn-total: 11
+   outturn-percent: 82
+   draw-total: 139
+   draw-percent: 88
+   takeout-total: 17
+   takeout-percent: 72
+   shots-total: 156
+   shots-percent: 87
 vs:
+ - Ackland, Abby
  - Adams, Melissa
  - Affleck, Tricia
  - Alcoe-Holland, Jill
@@ -376,6 +394,7 @@ vs:
  - Burgess, Carey
  - Burgess, Karlee
  - Burns, Krysta
+ - Burt, Camille
  - Bush, Tracy
  - Cameron, Kate
  - Cameron, Nancy
@@ -393,7 +412,6 @@ vs:
  - Comeau, Sandy
  - Cordina, Sheri
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
@@ -406,7 +424,6 @@ vs:
  - Delahunt, Nancy
  - Derick, Catherine
  - deSolla, Jodie
- - Devereaux, Julie
  - Dezura, Diane
  - Doerksen, Katherine
  - Doig, Deanna
@@ -418,6 +435,7 @@ vs:
  - Duncan, Jenna
  - Dykstra, Michelle
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Englot, Michelle
  - Enright, Barb
  - Everist, Karlee
@@ -450,6 +468,7 @@ vs:
  - Hanna, Stephanie
  - Hardy, Shelley
  - Harmark, Andra
+ - Harris, Briane
  - Harrison, Meredith
  - Harvey, Alison
  - Harvey, Janet
@@ -462,6 +481,7 @@ vs:
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
  - Inglis, Nancy
  - Iskiw, Beth
  - Jewer, Michelle
@@ -472,6 +492,7 @@ vs:
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kehler, Lorie
+ - Kelly, Andrea
  - Kelly, Kim
  - Kidd, Darlene
  - King, Cathy
@@ -520,9 +541,7 @@ vs:
  - McInnis, Susan
  - McKnight, Patti
  - McNamee, Karen
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Merklinger, Anne
  - Middaugh, Sherry
  - Miskew, Emma
@@ -545,6 +564,7 @@ vs:
  - O'Connor, Susan
  - Officer, Jill
  - O'Leary, Susan
+ - Oliver, Sara
  - Olson-Johns, Lori
  - O'Rourke, Brittany
  - Osborne, Chantal
@@ -586,6 +606,7 @@ vs:
  - Scott, Kelly
  - Sharpe, Kelli
  - Shaw, Ladene
+ - Shea, Michelle
  - Shumay, Jill
  - Sicinski, Danielle
  - Silvernagle, Robyn
@@ -626,6 +647,7 @@ vs:
  - Walker, Laura
  - Wall, Kirsten
  - Wallingham, Patty
+ - Walter, Meghan
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa

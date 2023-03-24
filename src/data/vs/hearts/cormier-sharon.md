@@ -58,66 +58,6 @@ vs:
       year: 2017
       draw: Round Robin(9)
       score: NT 4 - ON 7
- - name: Crawford, Andrea
-   totals:
-    - event: Hearts
-      player1:
-        percent: 63
-        wins: 0
-        losses: 3
-      player2:
-        percent: 79
-        wins: 3
-        losses: 0
-   games:
-    - player1:
-        team: 'TR'
-        position: Fourth
-        percent: 65
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2010
-      draw: Round Robin(9)
-      score: TR 5 - NB 7
-    - player1:
-        team: 'TR'
-        position: Third
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2012
-      draw: Round Robin(7)
-      score: TR 6 - NB 8
-    - player1:
-        team: 'TR'
-        position: Third
-        percent: 46
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2013
-      draw: Round Robin(5)
-      score: NB 9 - TR 5
  - name: Crouse, Jennifer
    totals:
     - event: Hearts
@@ -598,50 +538,6 @@ vs:
       year: 2013
       draw: Round Robin(5)
       score: NB 9 - TR 5
- - name: Devereaux, Julie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 70
-        wins: 1
-        losses: 1
-      player2:
-        percent: 60
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'TR'
-        position: Third
-        percent: 68
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Third
-        percent: 38
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2013
-      draw: Round Robin(2)
-      score: TR 8 - NL 7
-    - player1:
-        team: 'NT'
-        position: Lead
-        percent: 73
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 71
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2017
-      draw: Round Robin(14)
-      score: NT 4 - NL 7
  - name: Doig, Deanna
    totals:
     - event: Hearts
@@ -2674,6 +2570,50 @@ vs:
       year: 2017
       draw: Round Robin(2)
       score: NT 9 - PE 4
+ - name: Hynes, Julie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 1
+        losses: 1
+      player2:
+        percent: 60
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'TR'
+        position: Third
+        percent: 68
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 38
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2013
+      draw: Round Robin(2)
+      score: TR 8 - NL 7
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 71
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Round Robin(14)
+      score: NT 4 - NL 7
  - name: Iskiw, Beth
    totals:
     - event: Hearts
@@ -3102,6 +3042,66 @@ vs:
       year: 2012
       draw: Round Robin(15)
       score: CA 5 - TR 7
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 63
+        wins: 0
+        losses: 3
+      player2:
+        percent: 79
+        wins: 3
+        losses: 0
+   games:
+    - player1:
+        team: 'TR'
+        position: Fourth
+        percent: 65
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2010
+      draw: Round Robin(9)
+      score: TR 5 - NB 7
+    - player1:
+        team: 'TR'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2012
+      draw: Round Robin(7)
+      score: TR 6 - NB 8
+    - player1:
+        team: 'TR'
+        position: Third
+        percent: 46
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2013
+      draw: Round Robin(5)
+      score: NB 9 - TR 5
  - name: Kelly, Kim
    totals:
     - event: Hearts
@@ -4786,34 +4786,6 @@ vs:
       year: 1993
       draw: Round Robin(14)
       score: TR 3 - ON 7
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 1
-        losses: 0
-      player2:
-        percent: 78
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NT'
-        position: Lead
-        percent: 84
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 78
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2017
-      draw: Round Robin(2)
-      score: NT 9 - PE 4
  - name: Merklinger, Anne
    totals:
     - event: Hearts
@@ -6698,6 +6670,34 @@ vs:
       year: 1998
       draw: Round Robin(10)
       score: TR 6 - NL 4
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2017
+      draw: Round Robin(2)
+      score: NT 9 - PE 4
  - name: Shigehiro, Sally
    totals:
     - event: Hearts

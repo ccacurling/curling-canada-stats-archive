@@ -30,6 +30,34 @@ vs:
       year: 2018
       draw: Round Robin(10)
       score: YT 3 - WC 10
+ - name: Elias, Mackenzie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Third
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(16)
+      score: YT 2 - WC 9
  - name: Fesser, Kourtney
    totals:
     - event: Hearts
@@ -114,6 +142,34 @@ vs:
       year: 2018
       draw: Round Robin(6)
       score: NO 8 - YT 5
+ - name: Forward, Katie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 67
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Third
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(6)
+      score: NB 14 - YT 3
  - name: Fyfe, Liz
    totals:
     - event: Hearts
@@ -198,6 +254,34 @@ vs:
       year: 2018
       draw: Round Robin(6)
       score: NO 8 - YT 5
+ - name: Haughian, Jessie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 38
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'YT'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 38
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(8)
+      score: YT 10 - WC 3
  - name: Hutchings, Denise
    totals:
     - event: Hearts
@@ -254,6 +338,34 @@ vs:
       year: 2018
       draw: Round Robin(4)
       score: YT 1 - MB 14
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 67
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Third
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(6)
+      score: NB 14 - YT 3
  - name: Koehler, Megan
    totals:
     - event: Hearts
@@ -422,6 +534,34 @@ vs:
       year: 2018
       draw: Pool(18)
       score: YT 9 - NU 4
+ - name: McDonald, Taylor
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'YT'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 85
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(8)
+      score: YT 10 - WC 3
  - name: McEwen, Dawn
    totals:
     - event: Hearts
@@ -450,6 +590,34 @@ vs:
       year: 2018
       draw: Round Robin(4)
       score: YT 1 - MB 14
+ - name: Moore, Kristie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 58
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'YT'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 58
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(8)
+      score: YT 10 - WC 3
  - name: Njegovan, Selena
    totals:
     - event: Hearts
@@ -506,16 +674,44 @@ vs:
       year: 2018
       draw: Round Robin(4)
       score: YT 1 - MB 14
+ - name: Oliver, Sara
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Third
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(16)
+      score: YT 2 - WC 9
  - name: Quillian, Sylvie
    totals:
     - event: Hearts
       player1:
-        percent: 86
+        percent: 79
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 88
-        wins: 1
+        percent: 86
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -534,6 +730,78 @@ vs:
       year: 2018
       draw: Round Robin(14)
       score: NB 6 - YT 3
+    - player1:
+        team: 'YT'
+        position: Third
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(6)
+      score: NB 14 - YT 3
+ - name: Scheidegger, Casey
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 65
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'YT'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Fourth
+        percent: 65
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(8)
+      score: YT 10 - WC 3
+ - name: Walter, Meghan
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 0
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Third
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Fourth
+        percent: 73
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(16)
+      score: YT 2 - WC 9
  - name: Webster, Crystal
    totals:
     - event: Hearts

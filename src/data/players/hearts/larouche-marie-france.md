@@ -246,7 +246,6 @@ vs:
  - Cooke, Gerri
  - Cordina, Sheri
  - Cormier, Sharon
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
@@ -254,7 +253,6 @@ vs:
  - Darbyshire, Carolyn
  - Delahunt, Nancy
  - deSolla, Jodie
- - Devereaux, Julie
  - Dezura, Diane
  - Dobson, Sue
  - Dolan, Kim
@@ -294,6 +292,7 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunter, Lana
+ - Hynes, Julie
  - Iskiw, Beth
  - Jones, Colleen
  - Jones, Jennifer
@@ -302,6 +301,7 @@ vs:
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kehler, Lorie
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - Kidd, Darlene

@@ -69,7 +69,6 @@ vs:
  - Crouse, Jennifer
  - Curtis, Erica
  - Curtis, Stacie
- - Devereaux, Julie
  - Einarson, Kerri
  - Enge, Jenna
  - Englot, Michelle
@@ -82,9 +81,11 @@ vs:
  - Galusha, Kerry
  - Gates, Amanda
  - Gibson, Amy
+ - Harris, Briane
  - Harvey, Marie-Pier
  - Hughes, Meaghan
  - Hutchings, Denise
+ - Hynes, Julie
  - Jones, Jennifer
  - Koltun, Sarah
  - Lenentine, Lauren
@@ -92,9 +93,7 @@ vs:
  - MacPhee, Robyn
  - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Moore, Kristie
  - Njegovan, Selena
  - Officer, Jill
@@ -107,6 +106,7 @@ vs:
  - Schraeder, Jeanna
  - Scotland, Nadine
  - Shackleton, Amie
+ - Shea, Michelle
  - Simons, Renee
  - St-Georges, Cynthia
  - St-Georges, Laurie

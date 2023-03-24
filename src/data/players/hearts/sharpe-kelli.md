@@ -201,7 +201,6 @@ vs:
  - Cormier, Sharon
  - Couling, Betty
  - Courtney, Joanne
- - Crawford, Andrea
  - Daku, Karen
  - Davis, Brandee
  - Delahunt, Nancy
@@ -253,6 +252,7 @@ vs:
  - Karam, Sally
  - Kasner, Marliese
  - Kaylo, Kelly
+ - Kelly, Andrea
  - Kelly, Kim
  - King, Cathy
  - Koltun, Sarah
@@ -291,7 +291,6 @@ vs:
  - McInnis, Susan
  - McKnight, Patti
  - McNamee, Karen
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Merklinger, Anne
  - Middaugh, Sherry
@@ -338,6 +337,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shaw, Ladene
+ - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Simons, Renee

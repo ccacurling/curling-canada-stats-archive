@@ -80,7 +80,6 @@ vs:
  - Birt, Suzanne
  - Blackburn, Julie
  - Blanchard, Judy
- - Brown, Katie
  - Byers, Denise
  - Cameron, Nancy
  - Campbell, Gloria
@@ -178,5 +177,6 @@ vs:
  - Turcotte, Kristin
  - Unrau, Faye
  - Willms, Karri
+ - Witt, Katie
  - Wright, Susan
 ---

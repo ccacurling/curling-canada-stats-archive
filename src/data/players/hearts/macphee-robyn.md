@@ -213,7 +213,6 @@ vs:
  - Comeau, Sandy
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Currie, Wendy
@@ -227,7 +226,6 @@ vs:
  - Derick, Catherine
  - Derry, Danielle
  - deSolla, Jodie
- - Devereaux, Julie
  - Doig, Deanna
  - Duncan, Hollie
  - Dunn, Anne
@@ -270,6 +268,7 @@ vs:
  - Homan, Rachel
  - Horne, Kate
  - Howard, Ashley
+ - Hynes, Julie
  - Inglis, Nancy
  - Jones, Colleen
  - Jones, Jennifer
@@ -277,6 +276,7 @@ vs:
  - Kalenchuk, Heather
  - Karwacki, Krysten
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - Kidd, Darlene

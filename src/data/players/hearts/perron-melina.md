@@ -41,7 +41,6 @@ vs:
  - Chislett, Geneva
  - Curtis, Erica
  - Curtis, Stacie
- - Devereaux, Julie
  - Duncan, Hollie
  - Englot, Michelle
  - Fesser, Kourtney
@@ -50,13 +49,13 @@ vs:
  - Gibson, Amy
  - Hughes, Meaghan
  - Hutchings, Denise
+ - Hynes, Julie
  - Kallechy, Rachelle
  - Korchinski, Karlee
  - Kreviazuk, Cheryl
  - LeDrew, Stephanie
  - Mackey, Robyn
  - MacPhee, Robyn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
  - Moore, Kristie
  - Porter, Erin
@@ -64,6 +63,7 @@ vs:
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Shackleton, Amie
+ - Shea, Michelle
  - Van Osch, Kesa
  - Van Osch, Marika
  - Westcott, Raunora

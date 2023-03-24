@@ -59,7 +59,6 @@ vs:
  - Carey, Chelsea
  - Christianson, Marie
  - Curtis, Stacie
- - Devereaux, Julie
  - Einarson, Kerri
  - Fyfe, Liz
  - Hamon, Callan
@@ -67,6 +66,7 @@ vs:
  - Hanna, Stephanie
  - Howard, Ashley
  - Hughes, Meaghan
+ - Hynes, Julie
  - Jones, Jennifer
  - Joyce, Blisse
  - Larouche, Marie-France

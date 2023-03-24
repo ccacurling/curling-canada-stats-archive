@@ -2,6 +2,50 @@
 title: Stephanie Schmidt Head-to-head
 name: Schmidt, Stephanie
 vs:
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Second
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(17)
+      score: PE 4 - SK 5
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 73
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(13)
+      score: WC 4 - PE 8
  - name: Sicinski, Danielle
    totals:
     - event: Hearts

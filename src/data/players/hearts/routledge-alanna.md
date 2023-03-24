@@ -4,19 +4,19 @@ name: Alanna Routledge
 name-sort: Routledge, Alanna
 totals:
  - event: Hearts
-   games: 9
-   wins: 1
-   losses: 8
-   inturn-total: 76
-   inturn-percent: 70
-   outturn-total: 88
-   outturn-percent: 76
-   draw-total: 86
+   games: 18
+   wins: 6
+   losses: 12
+   inturn-total: 163
+   inturn-percent: 75
+   outturn-total: 162
+   outturn-percent: 79
+   draw-total: 151
    draw-percent: 73
-   takeout-total: 78
-   takeout-percent: 73
-   shots-total: 164
-   shots-percent: 73
+   takeout-total: 174
+   takeout-percent: 80
+   shots-total: 325
+   shots-percent: 77
 years:
  - year: 2020
    event: Hearts
@@ -85,37 +85,78 @@ years:
    takeout-percent: 83
    shots-total: 30
    shots-percent: 80
+ - year: 2023
+   event: Hearts
+   team: "QC"
+   position: Second
+   games: 9
+   wins: 5
+   losses: 4
+   inturn-total: 87
+   inturn-percent: 80
+   outturn-total: 74
+   outturn-percent: 82
+   draw-total: 65
+   draw-percent: 73
+   takeout-total: 96
+   takeout-percent: 86
+   shots-total: 161
+   shots-percent: 81
 vs:
  - Armstrong, Jennifer
  - Babin, Jillian
+ - Barker, Shelley
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birnie, Hailey
+ - Birt, Suzanne
+ - Black, Christina
  - Brown, Rachel
  - Cameron, Kate
  - Campbell, Kerry
  - Carey, Chelsea
- - Crawford, Andrea
+ - Christianson, Marie
+ - Dubue, Lindsay
  - Eddy, Lori
  - Einarson, Kerri
+ - Everist, Karlee
  - Ferguson, Dana
  - Forward, Katie
  - Gates, Jennifer
+ - Grandy, Clancy
  - Griffin, Alison
+ - Harris, Briane
+ - Hughes, Meaghan
  - Hunkin, Jessie
+ - Just, Sherry
+ - Kelly, Andrea
+ - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
+ - Loken, Sarah
+ - MacCuish, Kristin
  - MacDonald, Kaitlin
+ - MacMillan, Kayla
+ - MacPhail, Brigitte
  - McCarville, Krista
  - McDonald, Taylor
- - Meilleur, Briane
+ - Peterman, Jocelyn
  - Pinksen, Sadie
+ - Ramsay, Geri-Lynn
+ - Schafer, Kelly
  - Scotland, Nadine
+ - Shea, Michelle
  - Silvernagle, Robyn
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Kara
+ - Tran, Brittany
  - Tuor, Kimberly
  - Walker, Laura
  - Wallingham, Patty
+ - Webster, Crystal
  - Wilkes, Sarah
 ---

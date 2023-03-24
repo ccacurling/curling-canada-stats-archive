@@ -102,7 +102,6 @@ vs:
  - Blanchard, Judy
  - Bodogh, Marilyn
  - Brousseau, Deb
- - Brown, Katie
  - Burkitt, Maureen
  - Bussieres, Helene
  - Carney, Laurie
@@ -235,4 +234,5 @@ vs:
  - Willms, Karri
  - Wilson, Eileen
  - Wilson, Patty
+ - Witt, Katie
 ---

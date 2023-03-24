@@ -67,7 +67,6 @@ vs:
  - Christianson, Marie
  - Cooper, Kathryn
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Jessica
  - deSolla, Jodie
  - Dolan, Kim
@@ -86,6 +85,7 @@ vs:
  - Hughes, Meaghan
  - Joyce, Blisse
  - Kasner, Marliese
+ - Kelly, Andrea
  - Knezevic, Patti
  - Koltun, Sarah
  - Kreviazuk, Alison
@@ -98,7 +98,6 @@ vs:
  - MacPhail, Brigitte
  - McCarville, Krista
  - McDonald, Kristy
- - McQuaid, Michelle
  - Mercer, Adrienne
  - Miskew, Emma
  - Njegovan, Robyn
@@ -115,6 +114,7 @@ vs:
  - Sandwith, Carley
  - Schmidt, Stephanie
  - Sharpe, Kelli
+ - Shea, Michelle
  - Sicinski, Danielle
  - Sinclair, Andrea
  - Singler, Sherri

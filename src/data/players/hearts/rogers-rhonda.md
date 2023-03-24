@@ -45,7 +45,6 @@ vs:
  - Clark-Rouire, Jennifer
  - Comeau, Martine
  - Cormier, Sharon
- - Crawford, Andrea
  - Crouse, Jennifer
  - Einarson, Megan
  - Ellis, Danielle
@@ -54,6 +53,7 @@ vs:
  - Holland, Amber
  - Jones, Jennifer
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Koehler, Megan
  - MacLean, Kari
  - Makichuk, Lindsay

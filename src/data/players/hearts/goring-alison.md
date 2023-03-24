@@ -101,7 +101,6 @@ vs:
  - Bodogh, Marilyn
  - Bohmer, Brenda
  - Boily, Caroline
- - Brown, Katie
  - Brown, Maureen
  - Cameron, Nancy
  - Campbell, June
@@ -213,5 +212,6 @@ vs:
  - Thomas, Maria
  - Usher, Leanne
  - Willms, Karri
+ - Witt, Katie
  - Wright, Susan
 ---

@@ -39,7 +39,6 @@ vs:
  - Barbour, Shona
  - Belanger, Nancy
  - Bernard, Cheryl
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Darbyshire, Carolyn
@@ -51,6 +50,7 @@ vs:
  - Goss, Peg
  - Jones, Jennifer
  - Kasner, Marliese
+ - Kelly, Andrea
  - Lang, Lorraine
  - Larouche, Marie-France
  - Lawton, Stefanie

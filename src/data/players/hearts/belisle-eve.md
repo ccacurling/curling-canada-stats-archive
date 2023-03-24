@@ -87,7 +87,6 @@ vs:
  - Carter, Sasha
  - Cormier, Sharon
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Curtis, Erica
  - Curtis, Stacie
@@ -96,7 +95,6 @@ vs:
  - Delahunt, Nancy
  - Derry, Danielle
  - deSolla, Jodie
- - Devereaux, Julie
  - Doig, Deanna
  - Einarson, Megan
  - Ellis, Danielle
@@ -112,9 +110,11 @@ vs:
  - Holland, Amber
  - Homan, Rachel
  - Hughes, Meaghan
+ - Hynes, Julie
  - Jones, Colleen
  - Jones, Jennifer
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Kelly, Kim
  - King, Cathy
  - Kleibrink, Shannon
@@ -135,7 +135,6 @@ vs:
  - McConnery, Nancy
  - McEwen, Dawn
  - McInnis, Susan
- - McQuaid, Michelle
  - Miskew, Emma
  - More, Whitney
  - Muise, Morgan
@@ -166,6 +165,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli
+ - Shea, Michelle
  - Sicinski, Danielle
  - Simons, Renee
  - Sippala, Ashley

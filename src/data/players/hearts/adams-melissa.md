@@ -72,7 +72,6 @@ vs:
  - Crouse, Jennifer
  - Curtis, Erica
  - Curtis, Stacie
- - Devereaux, Julie
  - Duncan, Chelsea
  - Duncan, Jenna
  - Eddy, Lori
@@ -90,6 +89,7 @@ vs:
  - Hawes, Dezaray
  - Hill, Sarah
  - Hughes, Meaghan
+ - Hynes, Julie
  - Jones, Jennifer
  - Kitz, Chaelynn
  - Knapp, Breanne
@@ -101,7 +101,6 @@ vs:
  - MacDonald, Kaitlin
  - Martin, Nancy
  - McEwen, Dawn
- - McQuaid, Michelle
  - Mercer, Adrienne
  - Njegovan, Selena
  - Officer, Jill
@@ -111,6 +110,7 @@ vs:
  - Porter, Erin
  - Price, Kara
  - Riley, Emily
+ - Shea, Michelle
  - Smallwood, Jody
  - St-Georges, Cynthia
  - St-Georges, Laurie

@@ -66,7 +66,6 @@ vs:
  - Carter, Sasha
  - Comeau, Martine
  - Cormier, Sharon
- - Crawford, Andrea
  - Cunningham, Cathy
  - Darbyshire, Carolyn
  - deSolla, Jodie
@@ -83,6 +82,7 @@ vs:
  - Jones, Jennifer
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kelly, Andrea
  - Koehler, Megan
  - Lang, Lorraine
  - Larouche, Marie-France

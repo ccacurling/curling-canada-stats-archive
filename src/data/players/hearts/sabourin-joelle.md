@@ -145,7 +145,6 @@ vs:
  - Carter, Sasha
  - Clark, Stefanie
  - Cormier, Sharon
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Daku, Karen
@@ -188,6 +187,7 @@ vs:
  - Karam, Sally
  - Kasner, Marliese
  - Kaylo, Kelly
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - Kidd, Darlene

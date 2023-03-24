@@ -347,7 +347,6 @@ vs:
  - Cordina, Sheri
  - Couling, Betty
  - Courtney, Joanne
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
@@ -360,7 +359,6 @@ vs:
  - deJager, Blaine
  - Delahunt, Nancy
  - deSolla, Jodie
- - Devereaux, Julie
  - Doig, Deanna
  - Dolan, Kim
  - Dolan, Sinead
@@ -421,6 +419,7 @@ vs:
  - Hopkins, Heather
  - Horne, Kate
  - Hughes, Meaghan
+ - Hynes, Julie
  - Iskiw, Beth
  - Jenkins, Sandra
  - Johnston, Kara
@@ -430,6 +429,7 @@ vs:
  - Joyce, Blisse
  - Jurgenson, Christine
  - Kalenchuk, Heather
+ - Kelly, Andrea
  - Kelly, Kim
  - Kerr, Kathy
  - King, Cathy
@@ -473,7 +473,6 @@ vs:
  - McEwen, Dawn
  - McInnis, Susan
  - McKnight, Patti
- - McQuaid, Michelle
  - Merklinger, Anne
  - Middaugh, Sherry
  - Miskew, Emma
@@ -527,6 +526,7 @@ vs:
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli
+ - Shea, Michelle
  - Shigehiro, Sally
  - Shumay, Jill
  - Sicinski, Danielle

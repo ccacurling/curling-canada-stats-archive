@@ -4,19 +4,19 @@ name: Katie Forward
 name-sort: Forward, Katie
 totals:
  - event: Hearts
-   games: 27
-   wins: 15
-   losses: 12
-   inturn-total: 231
-   inturn-percent: 85
-   outturn-total: 282
-   outturn-percent: 82
-   draw-total: 420
-   draw-percent: 85
-   takeout-total: 93
-   takeout-percent: 74
-   shots-total: 513
-   shots-percent: 83
+   games: 35
+   wins: 18
+   losses: 17
+   inturn-total: 287
+   inturn-percent: 86
+   outturn-total: 384
+   outturn-percent: 84
+   draw-total: 566
+   draw-percent: 86
+   takeout-total: 105
+   takeout-percent: 76
+   shots-total: 671
+   shots-percent: 85
 years:
  - year: 2019
    event: Hearts
@@ -69,7 +69,25 @@ years:
    takeout-percent: 67
    shots-total: 236
    shots-percent: 80
+ - year: 2023
+   event: Hearts
+   team: "NB"
+   position: Lead
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 56
+   inturn-percent: 90
+   outturn-total: 102
+   outturn-percent: 88
+   draw-total: 146
+   draw-percent: 88
+   takeout-total: 12
+   takeout-percent: 92
+   shots-total: 158
+   shots-percent: 88
 vs:
+ - Ackland, Abby
  - Armstrong, Jennifer
  - Baldwin, Nicole
  - Barbour, Shona
@@ -78,18 +96,27 @@ vs:
  - Birnie, Hailey
  - Birt, Suzanne
  - Brown, Rachel
+ - Burgess, Karlee
+ - Burt, Camille
  - Cameron, Kate
  - Campbell, Jolene
+ - Campbell, Kerry
  - Carey, Chelsea
  - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
+ - Curtis, Erica
+ - Curtis, Stacie
+ - Duncan, Chelsea
+ - Duncan, Jenna
  - Eddy, Lori
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Enge, Jenna
  - Ferguson, Dana
  - Flaxey, Allison
  - Flemming, Margot
+ - Fleury, Tracy
  - Fyfe, Liz
  - Galusha, Kerry
  - Gamble, Christie
@@ -97,10 +124,13 @@ vs:
  - Griffin, Alison
  - Guzzwell, Stephanie
  - Hamilton, Beth
+ - Harris, Briane
  - Haughian, Jessie
  - Hill, Sarah
+ - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
  - Jewer, Michelle
  - Jones, Jennifer
  - Koltun, Sarah
@@ -113,14 +143,13 @@ vs:
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
- - McQuaid, Michelle
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Mercer, Adrienne
  - Miskew, Emma
  - Moore, Kristie
  - Njegovan, Robyn
  - Njegovan, Selena
+ - Oliver, Sara
  - Peterman, Jocelyn
  - Pinksen, Sadie
  - Potts, Sarah
@@ -133,6 +162,7 @@ vs:
  - Scotland, Nadine
  - Sharpe, Kelli
  - Shaw, Ladene
+ - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley
@@ -141,7 +171,11 @@ vs:
  - Taylor, Alison
  - Thevenot, Kara
  - Tran, Brittany
+ - Tuor, Kimberly
  - Verreault, Noemie
  - Walker, Laura
+ - Walter, Meghan
  - Wilkes, Sarah
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
 ---

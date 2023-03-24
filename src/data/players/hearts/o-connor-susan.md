@@ -143,7 +143,6 @@ vs:
  - Clark, Stefanie
  - Clarke, Hayley
  - Comeau, Sandy
- - Crawford, Andrea
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Curtis, Erica
@@ -151,7 +150,6 @@ vs:
  - Daniel, Sylvie
  - Derick, Catherine
  - deSolla, Jodie
- - Devereaux, Julie
  - Enright, Barb
  - Gagnier, Monique
  - Galusha, Kerry
@@ -163,9 +161,11 @@ vs:
  - Hardy, Shelley
  - Harrison, Meredith
  - Hutchings, Denise
+ - Hynes, Julie
  - Inglis, Nancy
  - Jones, Jennifer
  - Kasner, Marliese
+ - Kelly, Andrea
  - Lang, Lorraine
  - Larouche, Marie-France
  - Lavery, Tracey

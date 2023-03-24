@@ -84,6 +84,7 @@ vs:
  - Galusha, Kerry
  - Griffin, Alison
  - Hamilton, Beth
+ - Harris, Briane
  - Hawes, Dezaray
  - Hill, Sarah
  - Homan, Rachel
@@ -100,8 +101,6 @@ vs:
  - MacDonald, Kaitlin
  - Martin, Nancy
  - McDonald, Taylor
- - McQuaid, Michelle
- - Meilleur, Briane
  - Mercer, Adrienne
  - Miskew, Emma
  - Njegovan, Selena
@@ -112,6 +111,7 @@ vs:
  - Rizzo, Jo-Ann
  - Schraeder, Jeanna
  - Scotland, Nadine
+ - Shea, Michelle
  - Simons, Renee
  - Strybosch, Rachelle
  - Sweeting, Val

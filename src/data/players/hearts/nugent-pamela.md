@@ -82,7 +82,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Crawford, Andrea
  - Cunningham, Jessica
  - Delahunt, Nancy
  - deSolla, Jodie
@@ -102,6 +101,7 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese
+ - Kelly, Andrea
  - Kelly, Kim
  - King, Cathy
  - Knapp, Breanne

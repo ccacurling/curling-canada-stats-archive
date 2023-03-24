@@ -214,62 +214,6 @@ vs:
       year: 2020
       draw: Round Robin(5)
       score: WC 11 - BC 10
- - name: McQuaid, Michelle
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 1
-        losses: 0
-      player2:
-        percent: 76
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'BC'
-        position: Lead
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'PE'
-        position: Lead
-        percent: 76
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Round Robin(1)
-      score: PE 5 - BC 7
- - name: Meilleur, Briane
-   totals:
-    - event: Hearts
-      player1:
-        percent: 96
-        wins: 0
-        losses: 1
-      player2:
-        percent: 82
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'BC'
-        position: Lead
-        percent: 96
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 82
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Pool(16)
-      score: MB 8 - BC 4
  - name: Miskew, Emma
    totals:
     - event: Hearts
@@ -410,6 +354,34 @@ vs:
       year: 2020
       draw: Round Robin(4)
       score: BC 8 - NT 5
+ - name: Shea, Michelle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 76
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Round Robin(1)
+      score: PE 5 - BC 7
  - name: Silvernagle, Robyn
    totals:
     - event: Hearts

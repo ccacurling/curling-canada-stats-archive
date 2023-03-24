@@ -42,6 +42,7 @@ Dave Thomas
 
  * Updates to Macdonald Brier data.
  * Updates to Trials (Women) data.
+ * Added 2023 Hearts data.
 
 ### 2022-11-16
 

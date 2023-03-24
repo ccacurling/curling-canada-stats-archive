@@ -81,7 +81,6 @@ vs:
  - Bartlett, Sue Anne
  - Betker, Jan
  - Blanchard, Judy
- - Brown, Katie
  - Brown, Rachel
  - Cameron, Nancy
  - Camozzi, Rhonda
@@ -156,5 +155,6 @@ vs:
  - Thomas, Maria
  - Usher, Leanne
  - Willms, Karri
+ - Witt, Katie
  - Wright, Susan
 ---
