@@ -41,6 +41,7 @@ Dave Thomas
 ### 2023-03-23
 
  * Updates to Macdonald Brier data.
+ * Updates to Trials (Women) data.
 
 ### 2022-11-16
 

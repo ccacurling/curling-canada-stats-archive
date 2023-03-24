@@ -41,7 +41,7 @@ vs:
  - Betker, Jan
  - Bohmer, Brenda
  - Bowman, Mary
- - Breen, Thersa
+ - Breen, Theresa
  - Bryant, Angie
  - Eddy, Lori
  - Fraser, Sherry

@@ -114,7 +114,7 @@ vs:
       year: 1997
       draw: Round Robin(9)
       score: SCHM 11 - GOR 4
- - name: Breen, Thersa
+ - name: Breen, Theresa
    totals:
     - event: Trials (Women)
       player1:

@@ -1,7 +1,7 @@
 ---
-title: Thersa Breen
-name: Thersa Breen
-name-sort: Breen, Thersa
+title: Theresa Breen
+name: Theresa Breen
+name-sort: Breen, Theresa
 totals:
  - event: Trials (Women)
    games: 9

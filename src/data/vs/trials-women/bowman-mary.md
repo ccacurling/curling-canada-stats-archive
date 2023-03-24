@@ -2,7 +2,7 @@
 title: Mary Bowman Head-to-head
 name: Bowman, Mary
 vs:
- - name: Breen, Thersa
+ - name: Breen, Theresa
    totals:
     - event: Trials (Women)
       player1:

@@ -1,6 +1,6 @@
 ---
-title: Thersa Breen Head-to-head
-name: Breen, Thersa
+title: Theresa Breen Head-to-head
+name: Breen, Theresa
 vs:
  - name: Bryant, Angie
    totals:

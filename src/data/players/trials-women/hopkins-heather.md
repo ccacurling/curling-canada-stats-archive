@@ -43,7 +43,7 @@ vs:
  - Bodogh, Marilyn
  - Bohmer, Brenda
  - Bowman, Mary
- - Breen, Thersa
+ - Breen, Theresa
  - Eddy, Lori
  - Fraser, Sherry
  - Frey, Audrey

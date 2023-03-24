@@ -74,7 +74,7 @@ vs:
       year: 1997
       draw: Round Robin(6)
       score: GOR 5 - BOD 6
- - name: Breen, Thersa
+ - name: Breen, Theresa
    totals:
     - event: Trials (Women)
       player1:

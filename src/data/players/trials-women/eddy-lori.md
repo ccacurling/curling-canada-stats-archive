@@ -46,7 +46,7 @@ vs:
  - Beveridge, Corie
  - Bodogh, Marilyn
  - Bohmer, Brenda
- - Breen, Thersa
+ - Breen, Theresa
  - Bryant, Angie
  - Fraser, Sherry
  - Frey, Audrey

@@ -103,7 +103,7 @@ vs:
  - Bodogh, Marilyn
  - Bohmer, Brenda
  - Bowman, Mary
- - Breen, Thersa
+ - Breen, Theresa
  - Brown, Rachel
  - Bryant, Angie
  - Carey, Chelsea

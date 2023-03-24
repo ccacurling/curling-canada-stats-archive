@@ -65,7 +65,7 @@ vs:
  - Beveridge, Corie
  - Bodogh, Marilyn
  - Bowman, Mary
- - Breen, Thersa
+ - Breen, Theresa
  - Brown, Rachel
  - Bryant, Angie
  - Carey, Chelsea

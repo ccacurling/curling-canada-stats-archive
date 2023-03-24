@@ -63,7 +63,7 @@ vs:
  - Bodogh, Marilyn
  - Bohmer, Brenda
  - Bowman, Mary
- - Breen, Thersa
+ - Breen, Theresa
  - Brown, Janet
  - Bryant, Angie
  - Cordina, Sheri
