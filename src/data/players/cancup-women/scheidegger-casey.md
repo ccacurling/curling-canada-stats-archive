@@ -47,13 +47,13 @@ vs:
  - Ferguson, Dana
  - Flaxey, Allison
  - Foster, Vanessa
+ - Harris, Briane
  - Homan, Rachel
  - Jones, Jennifer
  - Klein, Karen
  - Lawes, Kaitlyn
  - McDonald, Taylor
  - McEwen, Dawn
- - Meilleur, Briane
  - Miskew, Emma
  - Olson-Johns, Lori
  - Overton-Clapham, Cathy

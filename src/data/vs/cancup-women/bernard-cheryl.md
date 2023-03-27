@@ -770,6 +770,34 @@ vs:
       year: 2010
       draw: Round Robin(6)
       score: SN 4 - CB 7
+ - name: Harris, Briane
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 77
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Sche'
+        position: Fourth
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'Eina'
+        position: Lead
+        percent: 77
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2019
+      draw: Round Robin(3)
+      score: Sche 7 - Eina 1
  - name: Harvey, Alison
    totals:
     - event: Canada Cup (Women)
@@ -1962,34 +1990,6 @@ vs:
       year: 2005
       draw: Round Robin(1)
       score: Riz 10 - Ber 6
- - name: Meilleur, Briane
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 89
-        wins: 1
-        losses: 0
-      player2:
-        percent: 77
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'Sche'
-        position: Fourth
-        percent: 89
-        win: 1
-        loss: 0
-      player2:
-        team: 'Eina'
-        position: Lead
-        percent: 77
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2019
-      draw: Round Robin(3)
-      score: Sche 7 - Eina 1
  - name: Merklinger, Anne
    totals:
     - event: Canada Cup (Women)

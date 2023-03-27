@@ -62,6 +62,7 @@ vs:
  - Einarson, Kerri
  - Flaxey, Allison
  - Foster, Kristen
+ - Harris, Briane
  - Iskiw, Beth
  - Jones, Jennifer
  - Kasner, Marliese
@@ -71,7 +72,6 @@ vs:
  - McDonald, Kristy
  - McDonald, Taylor
  - McEwen, Dawn
- - Meilleur, Briane
  - Merklinger, Lee
  - Middaugh, Sherry
  - Nedohin, Heather

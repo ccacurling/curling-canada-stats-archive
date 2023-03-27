@@ -738,6 +738,34 @@ vs:
       year: 2016
       draw: Round Robin(6)
       score: SWE 6 - ROC 2
+ - name: Harris, Briane
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Care'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'Eina'
+        position: Lead
+        percent: 79
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2019
+      draw: Round Robin(7)
+      score: Care 8 - Eina 7
  - name: Haughian, Jessie
    totals:
     - event: Canada Cup (Women)
@@ -1470,34 +1498,6 @@ vs:
       year: 2019
       draw: Round Robin(4)
       score: Care 9 - Sche 5
- - name: Meilleur, Briane
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 90
-        wins: 1
-        losses: 0
-      player2:
-        percent: 79
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'Care'
-        position: Lead
-        percent: 90
-        win: 1
-        loss: 0
-      player2:
-        team: 'Eina'
-        position: Lead
-        percent: 79
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2019
-      draw: Round Robin(7)
-      score: Care 8 - Eina 7
  - name: Merklinger, Lee
    totals:
     - event: Canada Cup (Women)

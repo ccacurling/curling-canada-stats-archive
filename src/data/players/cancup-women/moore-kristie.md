@@ -142,6 +142,7 @@ vs:
  - Fleury, Tracy
  - Foster, Vanessa
  - Fyfe, Liz
+ - Harris, Briane
  - Harvey, Alison
  - Homan, Rachel
  - Hunkin, Jessie
@@ -157,7 +158,6 @@ vs:
  - Maclachlan, Kyla
  - McDonald, Taylor
  - McEwen, Dawn
- - Meilleur, Briane
  - Miskew, Emma
  - Morris, Cori
  - Moulding, Heather

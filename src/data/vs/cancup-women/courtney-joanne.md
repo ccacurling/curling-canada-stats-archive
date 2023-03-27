@@ -630,6 +630,50 @@ vs:
       year: 2016
       draw: Round Robin(5)
       score: HOM 8 - ROC 7
+ - name: Harris, Briane
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 76
+        wins: 2
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'Homa'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'Eina'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2018
+      draw: Round Robin(2)
+      score: Eina 5 - Homa 6
+    - player1:
+        team: 'Homa'
+        position: Second
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'Eina'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2019
+      draw: Round Robin(8)
+      score: Eina 4 - Homa 5
  - name: Haughian, Jessie
    totals:
     - event: Canada Cup (Women)
@@ -1394,50 +1438,6 @@ vs:
       year: 2019
       draw: Round Robin(5)
       score: Sche 3 - Homa 8
- - name: Meilleur, Briane
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 76
-        wins: 2
-        losses: 0
-      player2:
-        percent: 83
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'Homa'
-        position: Second
-        percent: 80
-        win: 1
-        loss: 0
-      player2:
-        team: 'Eina'
-        position: Lead
-        percent: 84
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2018
-      draw: Round Robin(2)
-      score: Eina 5 - Homa 6
-    - player1:
-        team: 'Homa'
-        position: Second
-        percent: 73
-        win: 1
-        loss: 0
-      player2:
-        team: 'Eina'
-        position: Lead
-        percent: 81
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2019
-      draw: Round Robin(8)
-      score: Eina 4 - Homa 5
  - name: Merklinger, Lee
    totals:
     - event: Canada Cup (Women)

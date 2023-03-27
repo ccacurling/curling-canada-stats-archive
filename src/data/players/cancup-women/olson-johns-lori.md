@@ -171,6 +171,7 @@ vs:
  - Gates, Jennifer
  - Gignac, Donna
  - Hardy, Shelley
+ - Harris, Briane
  - Harvey, Alison
  - Harvey, Janet
  - Haughian, Jessie
@@ -195,7 +196,6 @@ vs:
  - McEwen, Dawn
  - McIvor, Jolene
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma

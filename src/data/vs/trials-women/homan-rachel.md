@@ -646,34 +646,6 @@ vs:
       year: 2021
       draw: Round Robin(9)
       score: Sche 8 - Homa 6
- - name: Meilleur, Briane
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 71
-        wins: 0
-        losses: 1
-      player2:
-        percent: 88
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'Homa'
-        position: Fourth
-        percent: 71
-        win: 0
-        loss: 1
-      player2:
-        team: 'Eina'
-        position: Lead
-        percent: 88
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2021
-      draw: Round Robin(8)
-      score: Eina 7 - Homa 6
  - name: Merklinger, Lee
    totals:
     - event: Trials (Women)

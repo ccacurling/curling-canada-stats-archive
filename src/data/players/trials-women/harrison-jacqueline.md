@@ -44,6 +44,7 @@ vs:
  - Ferguson, Dana
  - Fleury, Tracy
  - Fyfe, Liz
+ - Harris, Briane
  - Haughian, Jessie
  - Homan, Rachel
  - Jones, Jennifer
@@ -54,7 +55,6 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Miskew, Emma
  - Moore, Kristie
  - Njegovan, Selena

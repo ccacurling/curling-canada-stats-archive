@@ -1,50 +1,47 @@
 ---
-title: Nadine Scotland
-name: Nadine Scotland
-name-sort: Scotland, Nadine
+title: Briane Harris
+name: Briane Harris
+name-sort: Harris, Briane
 totals:
  - event: Trials (Women)
-   games: 8
-   wins: 3
+   games: 10
+   wins: 5
    losses: 5
-   inturn-total: 84
-   inturn-percent: 86
-   outturn-total: 70
-   outturn-percent: 85
-   draw-total: 129
-   draw-percent: 88
-   takeout-total: 25
-   takeout-percent: 73
-   shots-total: 154
-   shots-percent: 86
+   inturn-total: 129
+   inturn-percent: 83
+   outturn-total: 69
+   outturn-percent: 82
+   draw-total: 155
+   draw-percent: 86
+   takeout-total: 43
+   takeout-percent: 70
+   shots-total: 198
+   shots-percent: 83
 years:
  - year: 2021
    event: Trials (Women)
-   team: "Walk"
+   team: "Eina"
    position: Lead
-   games: 8
-   wins: 3
+   games: 10
+   wins: 5
    losses: 5
-   inturn-total: 84
-   inturn-percent: 86
-   outturn-total: 70
-   outturn-percent: 85
-   draw-total: 129
-   draw-percent: 88
-   takeout-total: 25
-   takeout-percent: 73
-   shots-total: 154
-   shots-percent: 86
+   inturn-total: 129
+   inturn-percent: 83
+   outturn-total: 69
+   outturn-percent: 82
+   draw-total: 155
+   draw-percent: 86
+   takeout-total: 43
+   takeout-percent: 70
+   shots-total: 198
+   shots-percent: 83
 vs:
- - Birchard, Shannon
  - Brown, Rachel
  - Courtney, Joanne
- - Einarson, Kerri
  - Ferguson, Dana
  - Flaxey, Allison
  - Fleury, Tracy
  - Fyfe, Liz
- - Harris, Briane
  - Harrison, Jacqueline
  - Haughian, Jessie
  - Hickey, Laura
@@ -55,17 +52,20 @@ vs:
  - Lilly, Kendra
  - MacCuish, Kristin
  - McCarville, Krista
+ - McDonald, Taylor
+ - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Miskew, Emma
  - Moore, Kristie
  - Njegovan, Selena
  - Peterman, Jocelyn
+ - Pincott, Erin
  - Potts, Sarah
  - Rocque, Kelsey
  - Scheidegger, Casey
  - Schmiemann, Danielle
+ - Scotland, Nadine
  - Sippala, Ashley
- - Sweeting, Val
- - Weagle, Lisa
+ - Walker, Laura
  - Wilkes, Sarah
 ---

@@ -158,6 +158,34 @@ vs:
       year: 2017
       draw: Round Robin(7)
       score: Flax 5 - Swee 10
+ - name: Harris, Briane
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 93
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Rocq'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'Eina'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(9)
+      score: Rocq 8 - Eina 4
  - name: Harrison, Jacqueline
    totals:
     - event: Trials (Women)
@@ -926,34 +954,6 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: Sche 5 - Rocq 6
- - name: Meilleur, Briane
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 91
-        wins: 1
-        losses: 0
-      player2:
-        percent: 93
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'Rocq'
-        position: Second
-        percent: 91
-        win: 1
-        loss: 0
-      player2:
-        team: 'Eina'
-        position: Lead
-        percent: 93
-        win: 0
-        loss: 1
-      event: Trials (Women)
-      year: 2021
-      draw: Round Robin(9)
-      score: Rocq 8 - Eina 4
  - name: Merklinger, Lee
    totals:
     - event: Trials (Women)

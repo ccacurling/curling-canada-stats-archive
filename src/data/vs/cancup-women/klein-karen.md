@@ -114,34 +114,6 @@ vs:
       year: 2018
       draw: Round Robin(10)
       score: Sche 8 - Robe 7
- - name: Meilleur, Briane
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 78
-        wins: 0
-        losses: 1
-      player2:
-        percent: 88
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'Robe'
-        position: Third
-        percent: 78
-        win: 0
-        loss: 1
-      player2:
-        team: 'Eina'
-        position: Lead
-        percent: 88
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2018
-      draw: Round Robin(6)
-      score: Robe 7 - Eina 8
  - name: Miskew, Emma
    totals:
     - event: Canada Cup (Women)

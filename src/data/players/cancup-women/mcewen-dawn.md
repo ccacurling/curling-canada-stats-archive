@@ -225,6 +225,7 @@ vs:
  - Hamer, Kate
  - Hardy, Shelley
  - Harmark, Andra
+ - Harris, Briane
  - Harvey, Alison
  - Harvey, Janet
  - Haughian, Jessie
@@ -257,7 +258,6 @@ vs:
  - McDonald, Kristy
  - McDonald, Taylor
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma

@@ -88,6 +88,7 @@ vs:
  - Foster, Kristen
  - Fyfe, Liz
  - Grandy, Clancy
+ - Harris, Briane
  - Harrison, Jacqueline
  - Hickey, Laura
  - Homan, Rachel
@@ -105,7 +106,6 @@ vs:
  - McDonald, Kristy
  - McDonald, Taylor
  - McEwen, Dawn
- - Meilleur, Briane
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma

@@ -138,6 +138,7 @@ vs:
  - Grandy, Clancy
  - Gregoire, Veronique
  - Gudereit, Marcia
+ - Harris, Briane
  - Harrison, Jacqueline
  - Haughian, Jessie
  - Hickey, Laura
@@ -171,7 +172,6 @@ vs:
  - McDonald, Taylor
  - McPherson, Cheryl
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma

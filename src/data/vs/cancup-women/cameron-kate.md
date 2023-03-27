@@ -358,6 +358,34 @@ vs:
       year: 2015
       draw: Round Robin(1)
       score: ROC 7 - MCD 6
+ - name: Harris, Briane
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 76
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Flax'
+        position: Third
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'Eina'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2018
+      draw: Round Robin(3)
+      score: Eina 7 - Flax 6
  - name: Haughian, Jessie
    totals:
     - event: Canada Cup (Women)
@@ -674,34 +702,6 @@ vs:
       year: 2018
       draw: Round Robin(6)
       score: Flax 2 - Sche 12
- - name: Meilleur, Briane
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 76
-        wins: 0
-        losses: 1
-      player2:
-        percent: 88
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'Flax'
-        position: Third
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'Eina'
-        position: Lead
-        percent: 88
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2018
-      draw: Round Robin(3)
-      score: Eina 7 - Flax 6
  - name: Merklinger, Lee
    totals:
     - event: Canada Cup (Women)

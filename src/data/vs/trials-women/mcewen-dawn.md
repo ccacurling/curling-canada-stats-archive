@@ -62,34 +62,6 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: Jone 7 - Sche 5
- - name: Meilleur, Briane
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 83
-        wins: 0
-        losses: 1
-      player2:
-        percent: 70
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'Jone'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'Eina'
-        position: Lead
-        percent: 70
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2021
-      draw: Round Robin(5)
-      score: Jone 9 - Eina 10
  - name: Merklinger, Lee
    totals:
     - event: Trials (Women)

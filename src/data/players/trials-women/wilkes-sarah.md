@@ -44,6 +44,7 @@ vs:
  - Flaxey, Allison
  - Fleury, Tracy
  - Fyfe, Liz
+ - Harris, Briane
  - Harrison, Jacqueline
  - Haughian, Jessie
  - Hickey, Laura
@@ -56,7 +57,6 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Moore, Kristie
  - Njegovan, Selena
  - Peterman, Jocelyn

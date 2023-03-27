@@ -58,6 +58,34 @@ vs:
       year: 2021
       draw: Round Robin(6)
       score: Fleu 9 - Harr 6
+ - name: Harris, Briane
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Harr'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'Eina'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(3)
+      score: Harr 7 - Eina 6
  - name: Haughian, Jessie
    totals:
     - event: Trials (Women)
@@ -450,34 +478,6 @@ vs:
       year: 2021
       draw: Round Robin(7)
       score: Harr 6 - Sche 7
- - name: Meilleur, Briane
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 88
-        wins: 1
-        losses: 0
-      player2:
-        percent: 81
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'Harr'
-        position: Third
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'Eina'
-        position: Lead
-        percent: 81
-        win: 0
-        loss: 1
-      event: Trials (Women)
-      year: 2021
-      draw: Round Robin(3)
-      score: Harr 7 - Eina 6
  - name: Miskew, Emma
    totals:
     - event: Trials (Women)

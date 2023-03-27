@@ -65,6 +65,7 @@ vs:
  - Fleury, Tracy
  - Gates, Amanda
  - Gates, Jennifer
+ - Harris, Briane
  - Haughian, Jessie
  - Homan, Rachel
  - Hunkin, Jessie
@@ -74,7 +75,6 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Miskew, Emma
  - Moore, Kristie
  - Nixon, Amy

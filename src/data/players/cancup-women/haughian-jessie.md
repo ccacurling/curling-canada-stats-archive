@@ -66,6 +66,7 @@ vs:
  - Fleury, Tracy
  - Foster, Vanessa
  - Fyfe, Liz
+ - Harris, Briane
  - Homan, Rachel
  - Hunkin, Jessie
  - Jones, Jennifer
@@ -75,7 +76,6 @@ vs:
  - MacCuish, Kristin
  - McDonald, Taylor
  - McEwen, Dawn
- - Meilleur, Briane
  - Miskew, Emma
  - Njegovan, Selena
  - Olson-Johns, Lori

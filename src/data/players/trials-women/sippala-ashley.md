@@ -72,6 +72,7 @@ vs:
  - Fleury, Tracy
  - Fyfe, Liz
  - Grandy, Clancy
+ - Harris, Briane
  - Harrison, Jacqueline
  - Haughian, Jessie
  - Hickey, Laura
@@ -83,7 +84,6 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Miskew, Emma
  - Moore, Kristie
  - Njegovan, Selena

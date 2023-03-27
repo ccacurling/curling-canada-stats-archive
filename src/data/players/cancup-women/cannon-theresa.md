@@ -45,6 +45,7 @@ vs:
  - Einarson, Kerri
  - Ferguson, Dana
  - Flaxey, Allison
+ - Harris, Briane
  - Haughian, Jessie
  - Homan, Rachel
  - Jones, Jennifer
@@ -52,7 +53,6 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Miskew, Emma
  - Moore, Kristie
  - Olson-Johns, Lori

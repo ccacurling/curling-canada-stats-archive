@@ -69,6 +69,7 @@ vs:
  - Froud, Susan
  - Gatchell, Sara
  - Gignac, Donna
+ - Harris, Briane
  - Haughian, Jessie
  - Hodson, Kim
  - Homan, Rachel
@@ -78,7 +79,6 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Miskew, Emma
  - Moore, Kristie
  - Mulroney, Sandra

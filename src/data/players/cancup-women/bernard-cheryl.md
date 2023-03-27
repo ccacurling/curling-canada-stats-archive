@@ -150,6 +150,7 @@ vs:
  - Gignac, Donna
  - Gudereit, Marcia
  - Hardy, Shelley
+ - Harris, Briane
  - Harvey, Alison
  - Harvey, Janet
  - Hodson, Kim
@@ -184,7 +185,6 @@ vs:
  - McIvor, Jolene
  - McIvor, Michelle
  - McPherson, Cheryl
- - Meilleur, Briane
  - Merklinger, Anne
  - Miller, Jessica
  - Miskew, Emma

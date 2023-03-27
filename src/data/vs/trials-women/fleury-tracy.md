@@ -2,6 +2,34 @@
 title: Tracy Fleury Head-to-head
 name: Fleury, Tracy
 vs:
+ - name: Harris, Briane
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 90
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Fleu'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'Eina'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(1)
+      score: Eina 4 - Fleu 7
  - name: Harrison, Jacqueline
    totals:
     - event: Trials (Women)
@@ -386,34 +414,6 @@ vs:
       year: 2021
       draw: Round Robin(8)
       score: Fleu 10 - Sche 3
- - name: Meilleur, Briane
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 88
-        wins: 1
-        losses: 0
-      player2:
-        percent: 90
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'Fleu'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'Eina'
-        position: Lead
-        percent: 90
-        win: 0
-        loss: 1
-      event: Trials (Women)
-      year: 2021
-      draw: Round Robin(1)
-      score: Eina 4 - Fleu 7
  - name: Miskew, Emma
    totals:
     - event: Trials (Women)

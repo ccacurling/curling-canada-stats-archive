@@ -478,34 +478,6 @@ vs:
       year: 2019
       draw: Round Robin(9)
       score: Sche 4 - Silv 9
- - name: Meilleur, Briane
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 84
-        wins: 0
-        losses: 1
-      player2:
-        percent: 90
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'Silv'
-        position: Third
-        percent: 84
-        win: 0
-        loss: 1
-      player2:
-        team: 'Eina'
-        position: Lead
-        percent: 90
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2019
-      draw: Round Robin(4)
-      score: Eina 9 - Silv 7
  - name: Merklinger, Lee
    totals:
     - event: Canada Cup (Women)

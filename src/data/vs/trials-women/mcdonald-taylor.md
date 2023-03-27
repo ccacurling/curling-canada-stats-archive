@@ -30,34 +30,6 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: Sche 6 - Walk 4
- - name: Meilleur, Briane
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 69
-        wins: 0
-        losses: 1
-      player2:
-        percent: 63
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'Walk'
-        position: Second
-        percent: 69
-        win: 0
-        loss: 1
-      player2:
-        team: 'Eina'
-        position: Lead
-        percent: 63
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2021
-      draw: Round Robin(4)
-      score: Walk 5 - Eina 9
  - name: Miskew, Emma
    totals:
     - event: Trials (Women)

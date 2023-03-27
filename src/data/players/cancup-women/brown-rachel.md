@@ -124,6 +124,7 @@ vs:
  - Fyfe, Liz
  - Gates, Amanda
  - Gates, Jennifer
+ - Harris, Briane
  - Haughian, Jessie
  - Homan, Rachel
  - Hunkin, Jessie
@@ -137,7 +138,6 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma

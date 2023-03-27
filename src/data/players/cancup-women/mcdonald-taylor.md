@@ -85,6 +85,7 @@ vs:
  - Foster, Vanessa
  - Fyfe, Liz
  - Gates, Amanda
+ - Harris, Briane
  - Haughian, Jessie
  - Homan, Rachel
  - Jones, Jennifer
@@ -95,7 +96,6 @@ vs:
  - McDonald, Kristy
  - McEwen, Dawn
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma

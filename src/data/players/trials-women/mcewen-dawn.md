@@ -111,6 +111,7 @@ vs:
  - Fyfe, Liz
  - George, Tara
  - Grandy, Clancy
+ - Harris, Briane
  - Harrison, Jacqueline
  - Haughian, Jessie
  - Hickey, Laura
@@ -133,7 +134,6 @@ vs:
  - Malekoff, Stephanie
  - McCarville, Krista
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma

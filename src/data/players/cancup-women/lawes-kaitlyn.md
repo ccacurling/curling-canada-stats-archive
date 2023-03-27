@@ -200,6 +200,7 @@ vs:
  - Gates, Amanda
  - Gates, Jennifer
  - Hardy, Shelley
+ - Harris, Briane
  - Haughian, Jessie
  - Holland, Amber
  - Homan, Rachel
@@ -225,7 +226,6 @@ vs:
  - McDonald, Kristy
  - McDonald, Taylor
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma

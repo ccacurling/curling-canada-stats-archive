@@ -88,6 +88,7 @@ vs:
  - Foster, Kristen
  - Fyfe, Liz
  - Grandy, Clancy
+ - Harris, Briane
  - Harrison, Jacqueline
  - Haughian, Jessie
  - Hickey, Laura
@@ -105,7 +106,6 @@ vs:
  - McCarville, Krista
  - McDonald, Taylor
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma

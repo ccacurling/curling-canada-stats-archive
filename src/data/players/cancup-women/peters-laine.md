@@ -193,6 +193,7 @@ vs:
  - Gates, Jennifer
  - Gregoire, Veronique
  - Harmark, Andra
+ - Harris, Briane
  - Haughian, Jessie
  - Holland, Amber
  - Homan, Rachel
@@ -220,7 +221,6 @@ vs:
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Merklinger, Anne
  - Merklinger, Lee
  - Middaugh, Sherry

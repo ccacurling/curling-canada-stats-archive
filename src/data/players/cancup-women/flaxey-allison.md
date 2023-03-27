@@ -64,6 +64,7 @@ vs:
  - Einarson, Kerri
  - Ferguson, Dana
  - Foster, Vanessa
+ - Harris, Briane
  - Haughian, Jessie
  - Homan, Rachel
  - Jones, Jennifer
@@ -73,7 +74,6 @@ vs:
  - Lawes, Kaitlyn
  - McEwen, Dawn
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma

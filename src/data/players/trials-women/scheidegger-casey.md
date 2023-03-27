@@ -68,6 +68,7 @@ vs:
  - Fleury, Tracy
  - Fyfe, Liz
  - Grandy, Clancy
+ - Harris, Briane
  - Harrison, Jacqueline
  - Hickey, Laura
  - Homan, Rachel
@@ -79,7 +80,6 @@ vs:
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
- - Meilleur, Briane
  - Miskew, Emma
  - Njegovan, Selena
  - Officer, Jill

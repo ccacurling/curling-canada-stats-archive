@@ -72,10 +72,10 @@ vs:
  - Birchard, Shannon
  - Courtney, Joanne
  - Einarson, Kerri
+ - Harris, Briane
  - Homan, Rachel
  - Lilly, Kendra
  - McCarville, Krista
- - Meilleur, Briane
  - Miskew, Emma
  - Potts, Sarah
  - Sippala, Ashley

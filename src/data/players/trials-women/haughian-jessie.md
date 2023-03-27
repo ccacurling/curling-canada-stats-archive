@@ -45,6 +45,7 @@ vs:
  - Flaxey, Allison
  - Fleury, Tracy
  - Fyfe, Liz
+ - Harris, Briane
  - Harrison, Jacqueline
  - Hickey, Laura
  - Homan, Rachel
@@ -56,7 +57,6 @@ vs:
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
- - Meilleur, Briane
  - Miskew, Emma
  - Njegovan, Selena
  - Peterman, Jocelyn

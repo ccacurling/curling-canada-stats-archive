@@ -166,6 +166,7 @@ vs:
  - Hamer, Kate
  - Hardy, Shelley
  - Harmark, Andra
+ - Harris, Briane
  - Haughian, Jessie
  - Hodson, Kim
  - Holland, Amber
@@ -195,7 +196,6 @@ vs:
  - McDonald, Kristy
  - McEwen, Dawn
  - McTaggart, Cary-Anne
- - Meilleur, Briane
  - Merklinger, Lee
  - Middaugh, Sherry
  - Miskew, Emma
