@@ -4,18 +4,18 @@ name: Ryan Fry
 name-sort: Fry, Ryan
 totals:
  - event: Brier
-   games: 166
-   wins: 114
-   losses: 52
-   inturn-total: 1244
+   games: 177
+   wins: 121
+   losses: 56
+   inturn-total: 1330
    inturn-percent: 85
-   outturn-total: 1818
+   outturn-total: 1936
    outturn-percent: 87
-   draw-total: 1086
+   draw-total: 1174
    draw-percent: 84
-   takeout-total: 1976
+   takeout-total: 2092
    takeout-percent: 87
-   shots-total: 3062
+   shots-total: 3266
    shots-percent: 86
 years:
  - year: 2007
@@ -239,6 +239,23 @@ years:
    takeout-percent: 83
    shots-total: 216
    shots-percent: 81
+ - year: 2023
+   event: Brier
+   team: "ON"
+   position: Third
+   games: 11
+   wins: 7
+   losses: 4
+   inturn-total: 86
+   inturn-percent: 88
+   outturn-total: 118
+   outturn-percent: 85
+   draw-total: 88
+   draw-percent: 85
+   takeout-total: 116
+   takeout-percent: 87
+   shots-total: 204
+   shots-percent: 86
 vs:
  - Abel, Clinton
  - Adam, Gerry
@@ -246,6 +263,7 @@ vs:
  - Aho, David
  - Anderson, Chris
  - Armstrong, Mike
+ - Asselin, Emile
  - Asselin, Felix
  - Atchison, Chris
  - Bardsley, Mike
@@ -277,6 +295,7 @@ vs:
  - Chorostkowski, Brad
  - Chown, Jeff
  - Clarey, Sean
+ - Cocks, Adam
  - Collin, Simon
  - Cotter, Jim
  - Crete, Martin
@@ -288,6 +307,7 @@ vs:
  - Dillon, Mike
  - Dion, William
  - Dobson, Paul
+ - Doering, Kyle
  - Doherty, Robbie
  - Dunstone, Matt
  - Eckstrand, Dustin
@@ -312,10 +332,13 @@ vs:
  - Gallant, Chris
  - Gallant, Peter
  - Gaudet, Mike
+ - Gauthier, Jacques
  - Gavin, Martin
  - Geall, Sean
  - Gibson, Andrew
+ - Ginter, Jason
  - Gionest, Francois
+ - Goller, Kurtis
  - Gould, Steve
  - Granchelli, Kris
  - Grattan, James
@@ -330,6 +353,7 @@ vs:
  - Hebert, Ben
  - Hicke, Dean
  - Hodgson, Colin
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Greg
  - Howard, Russ
@@ -363,11 +387,13 @@ vs:
  - Kuhn, Ryan
  - Laing, Brent
  - Lang, Tyler
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Lemay, Philippe
  - Likely, John
+ - Lind, J.D.
  - Lohnes, Bruce
  - Lowery, Ryan
  - Lyburn, Allan
@@ -402,6 +428,7 @@ vs:
  - Menard, Philippe
  - Merklinger, Bill
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Mittelstadt, Kelly
  - Morris, John
  - Moskowy, Braeden
@@ -463,9 +490,11 @@ vs:
  - St.Louis, Brady
  - St.Louis, David
  - Stoughton, Jeff
+ - Sturmay, Karsten
  - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Toner, Lee
@@ -476,6 +505,7 @@ vs:
  - Walker, Geoff
  - Wallingham, Joe
  - Watson, Aaron
+ - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Winfield, Brett

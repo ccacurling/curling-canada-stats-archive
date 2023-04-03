@@ -69,7 +69,7 @@ vs:
  - Dobson, Brian
  - Doyon, Ghislain
  - Duce, Dallas
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Ernst, Georg
  - Feldman, Alfred
  - Folk, Rick

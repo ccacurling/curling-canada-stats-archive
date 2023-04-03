@@ -103,6 +103,10 @@ years:
    takeout-percent: 81
    shots-total: 176
    shots-percent: 89
+ - year: 2023
+   event: Brier
+   team: "SK"
+   position: Alternate
 vs:
  - Aho, David
  - Asselin, Felix

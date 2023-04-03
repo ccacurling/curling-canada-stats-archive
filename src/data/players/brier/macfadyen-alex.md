@@ -4,19 +4,19 @@ name: Alex MacFadyen
 name-sort: MacFadyen, Alex
 totals:
  - event: Brier
-   games: 21
-   wins: 3
-   losses: 18
-   inturn-total: 183
-   inturn-percent: 81
-   outturn-total: 163
-   outturn-percent: 82
-   draw-total: 256
-   draw-percent: 82
-   takeout-total: 90
-   takeout-percent: 80
-   shots-total: 346
-   shots-percent: 82
+   games: 29
+   wins: 5
+   losses: 24
+   inturn-total: 266
+   inturn-percent: 78
+   outturn-total: 226
+   outturn-percent: 79
+   draw-total: 337
+   draw-percent: 79
+   takeout-total: 155
+   takeout-percent: 77
+   shots-total: 492
+   shots-percent: 79
 years:
  - year: 2011
    event: Brier
@@ -52,9 +52,30 @@ years:
    takeout-percent: 79
    shots-total: 192
    shots-percent: 80
+ - year: 2023
+   event: Brier
+   team: "PE"
+   position: Second
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 83
+   inturn-percent: 71
+   outturn-total: 63
+   outturn-percent: 71
+   draw-total: 81
+   draw-percent: 71
+   takeout-total: 65
+   takeout-percent: 72
+   shots-total: 146
+   shots-percent: 71
 vs:
+ - Asselin, Emile
+ - Asselin, Felix
+ - Bezanson, Jared
  - Bilesky, Andrew
  - Borden, Robert
+ - Bottcher, Brendan
  - Bouchard, Christian
  - Breckon, Graham
  - Carruthers, Reid
@@ -74,31 +95,44 @@ vs:
  - Fry, Ryan
  - Gagne, Francois
  - Gallant, Brett
+ - Gauthier, Jacques
  - Gavin, Martin
+ - Ginter, Jason
+ - Goller, Kurtis
  - Gould, Steve
  - Grattan, James
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
+ - Hart, Joey
  - Hart, Richard
  - Hebert, Ben
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Scott
  - Howard, Steven
  - Jacobs, Brad
+ - Jensen, Trygg
  - Jones, Brennen
+ - Jones, Scott
  - Kennedy, Marc
  - Kidby, Dustin
+ - King, Brian
  - Koe, Jamie
  - Kopf, Steve
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
+ - Lind, J.D.
+ - Mallais, Jeremy
  - Martin, Kevin
  - Maskiewich, Ken
+ - McEwen, Mike
  - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Mittelstadt, Kelly
  - Morris, John
  - Moskowy, Braeden
@@ -110,15 +144,22 @@ vs:
  - Savill, Craig
  - Sawatsky, Rick
  - Schille, Chris
+ - Scoffin, Thomas
+ - Scoffin, Wade
  - Seabrook, Scott
  - Simmons, Pat
  - Smith, Garth
  - Stoughton, Jeff
+ - Sturmay, Karsten
  - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Symonds, Andrew
+ - Trepanier, Jean-Francois
+ - Venance, Glenn
  - Virtue, Brock
  - Walker, Geoff
+ - Wallingham, Joe
  - Watson, Aaron
+ - Webster, Paul
  - Whitehead, Kevin
 ---

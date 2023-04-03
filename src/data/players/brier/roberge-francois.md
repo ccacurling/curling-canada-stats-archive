@@ -112,7 +112,7 @@ vs:
  - Dowden, Craig
  - Dutiaume, Randy
  - Elias, Dave
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Eloranta, Drew
  - Ferbey, Randy
  - Flemming, Paul

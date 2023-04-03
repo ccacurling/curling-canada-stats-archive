@@ -44,7 +44,7 @@ vs:
  - Bryant, Doug
  - Cowan, Chad
  - Dowden, Craig
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Elmaleh, Maxime
  - Gagnon, Jean
  - Golanowski, Rory

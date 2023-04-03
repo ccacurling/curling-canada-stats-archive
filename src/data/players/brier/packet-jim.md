@@ -106,7 +106,7 @@ vs:
  - Davidson, Robert
  - Delmage, Al
  - Dobson, Brian
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Ernst, Georg
  - Evoy, Rich
  - Ferbey, Randy

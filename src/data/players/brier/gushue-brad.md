@@ -4,19 +4,19 @@ name: Brad Gushue
 name-sort: Gushue, Brad
 totals:
  - event: Brier
-   games: 235
-   wins: 162
-   losses: 73
-   inturn-total: 1787
+   games: 246
+   wins: 172
+   losses: 74
+   inturn-total: 1876
    inturn-percent: 86
-   outturn-total: 2584
+   outturn-total: 2699
    outturn-percent: 85
-   draw-total: 1917
+   draw-total: 2009
    draw-percent: 85
-   takeout-total: 2454
+   takeout-total: 2566
    takeout-percent: 86
-   shots-total: 4371
-   shots-percent: 85
+   shots-total: 4575
+   shots-percent: 86
 years:
  - year: 2003
    event: Brier
@@ -341,6 +341,23 @@ years:
    takeout-percent: 92
    shots-total: 221
    shots-percent: 89
+ - year: 2023
+   event: Brier
+   team: "CA"
+   position: Fourth
+   games: 11
+   wins: 10
+   losses: 1
+   inturn-total: 89
+   inturn-percent: 86
+   outturn-total: 115
+   outturn-percent: 93
+   draw-total: 92
+   draw-percent: 90
+   takeout-total: 112
+   takeout-percent: 90
+   shots-total: 204
+   shots-percent: 90
 vs:
  - Abraham, Ryan
  - Adam, Gerry
@@ -399,6 +416,7 @@ vs:
  - Chown, Jeff
  - Clarey, Sean
  - Cochrane, Bryan
+ - Cocks, Adam
  - Collin, Simon
  - Colter, Travis
  - Cotter, Jim
@@ -417,6 +435,7 @@ vs:
  - Dillon, Mike
  - Dobson, Mark
  - Dobson, Paul
+ - Doering, Kyle
  - Doherty, Robbie
  - Dunstone, Matt
  - Dutiaume, Randy
@@ -448,6 +467,7 @@ vs:
  - Gagne, Francois
  - Gagnon, Jean
  - Gagnon, Steeve
+ - Gallant, Brett
  - Gallant, Peter
  - Gamble, Bill
  - Gaudet, Mike
@@ -456,6 +476,7 @@ vs:
  - Geall, Sean
  - Gibson, Andrew
  - Giddens, Ryan
+ - Ginter, Jason
  - Gionest, Francois
  - Golanowski, Rory
  - Gordon, Robbie
@@ -477,6 +498,7 @@ vs:
  - Harris, Mike
  - Harris, Rob
  - Harris, Tyler
+ - Hart, Joey
  - Hart, Richard
  - Hebert, Ben
  - Hemmings, Guy
@@ -486,6 +508,7 @@ vs:
  - Hodgson, Colin
  - Horgan, Tanner
  - Horning, Deane
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Greg
  - Howard, Russ
@@ -501,6 +524,7 @@ vs:
  - Janssen, Patrick
  - Jeffrey, Chris
  - Jenion, Bob
+ - Jensen, Trygg
  - Joanisse, Dean
  - Jones, Brennen
  - Jones, Scott
@@ -516,6 +540,7 @@ vs:
  - Kennedy, Mike
  - Kidby, Dustin
  - Kilgallen, Shane
+ - King, Brian
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
@@ -529,12 +554,14 @@ vs:
  - Landry, Jeremy
  - Lang, Tyler
  - Lappalainen, Art
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Leech, Ron
  - Lemay, Philippe
  - Lequin, Bradley
+ - Lind, J.D.
  - Lindsay, Tim
  - Loevenmark, Phil
  - Lohnes, Bruce
@@ -577,6 +604,7 @@ vs:
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Milward, Ross
  - Mittelstadt, Kelly
  - Molloy, Pat
@@ -663,6 +691,7 @@ vs:
  - Steele, Colten
  - Steski, John
  - Stoughton, Jeff
+ - Sturmay, Karsten
  - Sullivan, Charles Jr.
  - Sullivan, Evan
  - Sumner, Kevin
@@ -678,6 +707,7 @@ vs:
  - Turpin, Randy
  - Ursel, Bob
  - Vaughan, Jason
+ - Venance, Glenn
  - Villeneuve, Steeve
  - Virtue, Brock
  - Wall, Trevor
@@ -686,6 +716,7 @@ vs:
  - Wempe, Brian
  - Westphal, Don
  - Wettig, Sheldon
+ - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Withycombe, Ian

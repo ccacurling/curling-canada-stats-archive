@@ -35,6 +35,10 @@ years:
    takeout-percent: 82
    shots-total: 136
    shots-percent: 80
+ - year: 2023
+   event: Brier
+   team: "NS"
+   position: Alternate
 vs:
  - Asselin, Felix
  - Borden, Robert

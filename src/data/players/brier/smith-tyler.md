@@ -4,19 +4,19 @@ name: Tyler Smith
 name-sort: Smith, Tyler
 totals:
  - event: Brier
-   games: 16
-   wins: 2
-   losses: 14
-   inturn-total: 139
-   inturn-percent: 71
-   outturn-total: 137
+   games: 24
+   wins: 4
+   losses: 20
+   inturn-total: 215
+   inturn-percent: 70
+   outturn-total: 205
    outturn-percent: 73
-   draw-total: 126
-   draw-percent: 71
-   takeout-total: 150
+   draw-total: 177
+   draw-percent: 69
+   takeout-total: 243
    takeout-percent: 73
-   shots-total: 276
-   shots-percent: 72
+   shots-total: 420
+   shots-percent: 71
 years:
  - year: 2021
    event: Brier
@@ -85,8 +85,27 @@ years:
    takeout-percent: 69
    shots-total: 134
    shots-percent: 66
+ - year: 2023
+   event: Brier
+   team: "PE"
+   position: Fourth
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 76
+   inturn-percent: 68
+   outturn-total: 68
+   outturn-percent: 73
+   draw-total: 51
+   draw-percent: 66
+   takeout-total: 93
+   takeout-percent: 73
+   shots-total: 144
+   shots-percent: 70
 vs:
+ - Asselin, Emile
  - Asselin, Felix
+ - Bezanson, Jared
  - Blyde, Greg
  - Bottcher, Brendan
  - Brannen, Jamie
@@ -103,20 +122,31 @@ vs:
  - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
+ - Gauthier, Jacques
+ - Ginter, Jason
+ - Goller, Kurtis
  - Grattan, James
  - Gushue, Brad
+ - Harnden, E.J.
+ - Hart, Joey
  - Hebert, Ben
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Greg
  - Howard, Scott
  - Janssen, Patrick
  - Jensen, Trygg
+ - Jones, Scott
+ - Kennedy, Marc
  - Kidby, Dustin
+ - King, Brian
  - Koe, Kevin
  - Laing, Brent
  - Latos, Evan
+ - Lind, J.D.
  - Locke, Nathan
  - Mackey, Peter
+ - Mallais, Jeremy
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
@@ -125,6 +155,8 @@ vs:
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
+ - McEwen, Mike
+ - Middleton, Sterling
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -135,13 +167,17 @@ vs:
  - Saccary, Scott
  - Schneider, Catlin
  - Scoffin, Thomas
+ - Scoffin, Wade
  - Sluchinski, Aaron
  - Smith, Greg
  - St.Louis, Brady
  - Stringer, Ben
+ - Sturmay, Karsten
  - Thiessen, Brad
  - Trepanier, Jean-Francois
+ - Venance, Glenn
  - Walker, Geoff
  - Wallingham, Joe
+ - Webster, Paul
  - Young, Nathan
 ---

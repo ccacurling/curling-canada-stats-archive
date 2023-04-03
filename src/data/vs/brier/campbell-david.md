@@ -2,7 +2,7 @@
 title: David Campbell Head-to-head
 name: Campbell, David
 vs:
- - name: Ellis, Ken
+ - name: Ellis, Ken Jr.
    totals:
     - event: Brier
       player1:

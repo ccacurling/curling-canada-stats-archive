@@ -4,19 +4,19 @@ name: Ben Hebert
 name-sort: Hebert, Ben
 totals:
  - event: Brier
-   games: 170
-   wins: 125
-   losses: 45
-   inturn-total: 715
+   games: 182
+   wins: 134
+   losses: 48
+   inturn-total: 755
    inturn-percent: 87
-   outturn-total: 2344
-   outturn-percent: 91
-   draw-total: 2685
+   outturn-total: 2526
+   outturn-percent: 92
+   draw-total: 2887
    draw-percent: 92
-   takeout-total: 374
-   takeout-percent: 79
-   shots-total: 3059
-   shots-percent: 90
+   takeout-total: 394
+   takeout-percent: 80
+   shots-total: 3281
+   shots-percent: 91
 years:
  - year: 2005
    event: Brier
@@ -289,11 +289,29 @@ years:
    takeout-percent: 79
    shots-total: 206
    shots-percent: 91
+ - year: 2023
+   event: Brier
+   team: "WC"
+   position: Lead
+   games: 12
+   wins: 9
+   losses: 3
+   inturn-total: 40
+   inturn-percent: 90
+   outturn-total: 182
+   outturn-percent: 96
+   draw-total: 202
+   draw-percent: 95
+   takeout-total: 20
+   takeout-percent: 94
+   shots-total: 222
+   shots-percent: 95
 vs:
  - Adam, Gerry
  - Adams, Shawn
  - Aho, David
  - Ardiel, Taylor
+ - Asselin, Emile
  - Asselin, Felix
  - Atchison, Chris
  - Bailey, Scott
@@ -345,6 +363,7 @@ vs:
  - Dillon, Mike
  - Dobson, Mark
  - Dobson, Paul
+ - Doering, Kyle
  - Doherty, Robbie
  - Dunstone, Matt
  - Dutiaume, Randy
@@ -375,9 +394,11 @@ vs:
  - Gallant, Chris
  - Gallant, Peter
  - Gaudet, Mike
+ - Gauthier, Jacques
  - Gavin, Martin
  - Geall, Sean
  - Gibson, Andrew
+ - Ginter, Jason
  - Gordon, Robbie
  - Gorveatt, Philip
  - Gould, Steve
@@ -391,12 +412,16 @@ vs:
  - Harnden, E.J.
  - Harnden, Ryan
  - Harris, Rob
+ - Hart, Joey
  - Hart, Richard
  - Harvey, Don
  - Herrick, Aron
  - Hicke, Dean
  - Hodgson, Colin
+ - Horgan, Jacob
+ - Horgan, Tanner
  - Horning, Deane
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Greg
  - Howard, Russ
@@ -422,6 +447,7 @@ vs:
  - Kennedy, Mike
  - Kidby, Dustin
  - Kilgallen, Shane
+ - King, Brian
  - Klitch, Tyler
  - Knapp, Kelly
  - Koe, Jamie
@@ -437,8 +463,10 @@ vs:
  - Ledgerwood, Sean
  - LeDrew, Ryan
  - Lemay, Philippe
+ - Lind, J.D.
  - Locke, Nathan
  - Lohnes, Bruce
+ - Lott, Colton
  - Lowery, Ryan
  - MacDonald, Rod
  - MacFadyen, Alex
@@ -468,6 +496,7 @@ vs:
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Mittelstadt, Kelly
  - Morris, John
  - Moshenko, Darcy
@@ -539,6 +568,7 @@ vs:
  - Steele, Colten
  - Stoughton, Jeff
  - Stringer, Ben
+ - Sturmay, Karsten
  - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Tallon, Wayne
@@ -551,6 +581,7 @@ vs:
  - Ursel, Bob
  - Van Den Berghe, Garry
  - Vaughan, Jason
+ - Venance, Glenn
  - Virtue, Brock
  - Walchuk, Don
  - Walker, Geoff

@@ -44,7 +44,7 @@ vs:
  - Carey, Dan
  - Charette, Pierre
  - Coulter, Mike
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Ernst, Georg
  - Gallant, Peter
  - Goulden, Lowell

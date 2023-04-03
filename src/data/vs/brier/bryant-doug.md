@@ -542,7 +542,7 @@ vs:
       year: 2000
       draw: Round Robin(11)
       score: TR 6 - NL 7
- - name: Ellis, Ken
+ - name: Ellis, Ken Jr.
    totals:
     - event: Brier
       player1:

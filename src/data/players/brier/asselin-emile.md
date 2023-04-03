@@ -4,19 +4,19 @@ name: Emile Asselin
 name-sort: Asselin, Emile
 totals:
  - event: Brier
-   games: 8
-   wins: 2
-   losses: 6
-   inturn-total: 66
-   inturn-percent: 70
-   outturn-total: 62
-   outturn-percent: 74
-   draw-total: 51
-   draw-percent: 72
-   takeout-total: 77
-   takeout-percent: 72
-   shots-total: 128
-   shots-percent: 72
+   games: 16
+   wins: 7
+   losses: 9
+   inturn-total: 130
+   inturn-percent: 77
+   outturn-total: 143
+   outturn-percent: 79
+   draw-total: 105
+   draw-percent: 75
+   takeout-total: 168
+   takeout-percent: 79
+   shots-total: 273
+   shots-percent: 78
 years:
  - year: 2018
    event: Brier
@@ -52,27 +52,64 @@ years:
    takeout-percent: 72
    shots-total: 122
    shots-percent: 71
+ - year: 2023
+   event: Brier
+   team: "QC"
+   position: Second
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 64
+   inturn-percent: 83
+   outturn-total: 81
+   outturn-percent: 83
+   draw-total: 54
+   draw-percent: 79
+   takeout-total: 91
+   takeout-percent: 85
+   shots-total: 145
+   shots-percent: 83
 vs:
+ - Bezanson, Jared
  - Bottcher, Brendan
  - Casey, Adam
  - Cochrane, Bryan
+ - Cocks, Adam
  - Crowell, Phil
  - Currie, Morgan
+ - Doering, Kyle
  - Flemming, Paul
  - Forrest, Alex
+ - Fry, Ryan
  - Gallant, Brett
+ - Gauthier, Jacques
+ - Ginter, Jason
+ - Goller, Kurtis
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
+ - Hart, Joey
+ - Hebert, Ben
  - Higgs, Jake
+ - Horvath, Alex
  - Jacobs, Brad
+ - Jensen, Trygg
+ - Jones, Scott
  - Kennedy, Marc
+ - King, Brian
  - Kingdon, Wade
  - Kohlenberg, Dale
+ - Laing, Brent
+ - Latos, Evan
+ - Lind, J.D.
  - MacAulay, Ian
+ - MacFadyen, Alex
  - Mackey, Peter
+ - Mallais, Jeremy
  - Martin, Karrick
+ - McEwen, Mike
+ - Middleton, Sterling
  - Moulding, Darren
  - Murphy, Jamie
  - Nadeau, Jeff
@@ -80,10 +117,15 @@ vs:
  - Njegovan, Connor
  - O'Rourke, Mark
  - Saccary, Scott
+ - Scoffin, Thomas
+ - Smith, Tyler
  - Smitheram, Christian
  - St.Louis, David
+ - Sturmay, Karsten
  - Thiessen, Brad
  - Thomas, Jeff
  - Walker, Geoff
+ - Wallingham, Joe
  - Wettig, Sheldon
+ - White, Edward
 ---

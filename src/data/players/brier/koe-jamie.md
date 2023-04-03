@@ -4,19 +4,19 @@ name: Jamie Koe
 name-sort: Koe, Jamie
 totals:
  - event: Brier
-   games: 152
-   wins: 44
-   losses: 108
-   inturn-total: 1255
-   inturn-percent: 74
-   outturn-total: 1425
-   outturn-percent: 76
-   draw-total: 1234
-   draw-percent: 75
-   takeout-total: 1446
+   games: 160
+   wins: 45
+   losses: 115
+   inturn-total: 1314
+   inturn-percent: 73
+   outturn-total: 1515
+   outturn-percent: 75
+   draw-total: 1296
+   draw-percent: 74
+   takeout-total: 1533
    takeout-percent: 75
-   shots-total: 2680
-   shots-percent: 75
+   shots-total: 2829
+   shots-percent: 74
 years:
  - year: 2006
    event: Brier
@@ -273,6 +273,23 @@ years:
    takeout-percent: 68
    shots-total: 140
    shots-percent: 71
+ - year: 2023
+   event: Brier
+   team: "NT"
+   position: Fourth
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 59
+   inturn-percent: 69
+   outturn-total: 90
+   outturn-percent: 61
+   draw-total: 62
+   draw-percent: 58
+   takeout-total: 87
+   takeout-percent: 68
+   shots-total: 149
+   shots-percent: 64
 vs:
  - Abraham, Ryan
  - Adam, Gerry
@@ -339,6 +356,7 @@ vs:
  - Flaxey, Caleb
  - Flemming, Paul
  - Folk, Kevin
+ - Follett, Sam
  - Forget, Wesley
  - Fournier, Mike
  - Fowler, Rob
@@ -372,7 +390,10 @@ vs:
  - Hart, Richard
  - Hebert, Ben
  - Hicke, Dean
+ - Higgs, Jake
  - Hodgson, Colin
+ - Horgan, Jacob
+ - Horgan, Tanner
  - Howard, Glenn
  - Howard, Greg
  - Howard, Russ
@@ -396,6 +417,8 @@ vs:
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
+ - Knapp, Kelly
+ - Knapp, Trent
  - Koe, Kevin
  - Koivula, Colin
  - Kolomaya, Jared
@@ -413,6 +436,7 @@ vs:
  - Ledgerwood, Sean
  - LeDrew, Ryan
  - Lemay, Philippe
+ - Locke, Nathan
  - Lohnes, Bruce
  - Lott, Colton
  - Lyburn, Allan
@@ -425,6 +449,7 @@ vs:
  - Mackey, Peter
  - Mallais, Jeremy
  - Manners, Scott
+ - Manuel, Matthew
  - Markowsky, Rob
  - Martin, Karrick
  - Martin, Kevin
@@ -439,6 +464,7 @@ vs:
  - McKee, Darrell
  - Meachem, Shaun Myles
  - Mead, Jon
+ - Meagher, Jeffrey
  - Meister, Nicholas
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -485,6 +511,7 @@ vs:
  - Rycroft, Carter
  - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Savill, Craig
  - Sawatsky, Rick
  - Schille, Chris
@@ -499,13 +526,17 @@ vs:
  - Simmons, Pat
  - Smith, Donnie
  - Smith, Greg
+ - Smitheram, Christian
  - Spencer, Adam
+ - St.Louis, Brady
  - St.Louis, David
  - Steele, Colten
  - Stoughton, Jeff
+ - Stringer, Ben
  - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Tallon, Wayne
+ - Tardi, Tyler
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
@@ -520,10 +551,13 @@ vs:
  - Walker, Geoff
  - Wallingham, Joe
  - Watson, Aaron
+ - Wettig, Sheldon
  - Windsor, Brian
  - Winfield, Brett
  - Withycombe, Ian
  - Wood, Brad
  - Wood, Mike
  - Wozniak, Matt
+ - Young, Nathan
+ - Zachernuk, Nick
 ---

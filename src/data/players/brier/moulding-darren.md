@@ -4,18 +4,18 @@ name: Darren Moulding
 name-sort: Moulding, Darren
 totals:
  - event: Brier
-   games: 74
-   wins: 48
-   losses: 26
-   inturn-total: 772
+   games: 83
+   wins: 54
+   losses: 29
+   inturn-total: 839
    inturn-percent: 85
-   outturn-total: 612
+   outturn-total: 715
    outturn-percent: 83
-   draw-total: 526
+   draw-total: 588
    draw-percent: 83
-   takeout-total: 858
+   takeout-total: 966
    takeout-percent: 85
-   shots-total: 1384
+   shots-total: 1554
    shots-percent: 84
 years:
  - year: 2017
@@ -120,10 +120,28 @@ years:
    takeout-percent: 82
    shots-total: 150
    shots-percent: 83
+ - year: 2023
+   event: Brier
+   team: "NO"
+   position: Third
+   games: 9
+   wins: 6
+   losses: 3
+   inturn-total: 67
+   inturn-percent: 83
+   outturn-total: 103
+   outturn-percent: 85
+   draw-total: 62
+   draw-percent: 79
+   takeout-total: 108
+   takeout-percent: 88
+   shots-total: 170
+   shots-percent: 84
 vs:
  - Abel, Clinton
  - Aho, David
  - Appelman, Tom
+ - Armstrong, Mike
  - Asselin, Emile
  - Bedard, Alek
  - Beuk, Jonathan
@@ -157,6 +175,7 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Geall, Sean
+ - Gordon, Robbie
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -176,10 +195,14 @@ vs:
  - Janssen, Patrick
  - Jensen, Trygg
  - Jewer, Keith
+ - Jones, Brennen
  - Jones, Scott
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
+ - Knapp, Kelly
+ - Knapp, Trent
  - Koe, Jamie
  - Koe, Kevin
  - Kohlenberg, Dale
@@ -191,9 +214,11 @@ vs:
  - Lequin, Bradley
  - Likely, John
  - Locke, Nathan
+ - Lott, Colton
  - Lowery, Ryan
  - MacAulay, Ian
  - MacDonald, Edmund
+ - Manuel, Matthew
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
@@ -203,7 +228,9 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - Mckinnon, Robert
+ - Mcleod, Shadrach
  - Meachem, Shaun Myles
+ - Meagher, Jeffrey
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -221,14 +248,17 @@ vs:
  - Nichols, Mark
  - Njegovan, Connor
  - O'Rourke, Mark
+ - Parsons, Cole
  - Patzer, Brad
  - Peech, Alexander
  - Pinder, Jordan
  - Quevillon, Louis
  - Rach, Dave
  - Richard, Jeff
+ - Robertson, Stephen
  - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Sawatsky, Rick
  - Schille, Chris
  - Schneider, Catlin
@@ -241,6 +271,7 @@ vs:
  - Smith, Tyler
  - Smitheram, Christian
  - Solberg, Jon
+ - St.Louis, Brady
  - Stapleton, Connor
  - Stringer, Ben
  - Sylvain, Eric
@@ -250,9 +281,11 @@ vs:
  - Thiessen, Brad
  - Walker, Geoff
  - Wallingham, Joe
+ - Wettig, Sheldon
  - White, Edward
  - Withycombe, Ian
  - Wood, Brad
  - Wozniak, Matt
  - Young, Nathan
+ - Zachernuk, Nick
 ---

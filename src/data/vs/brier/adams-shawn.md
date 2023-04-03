@@ -822,7 +822,7 @@ vs:
       year: 2005
       draw: Semi-Final(20)
       score: NS 8 - MB 7
- - name: Ellis, Ken
+ - name: Ellis, Ken Jr.
    totals:
     - event: Brier
       player1:

@@ -4,18 +4,18 @@ name: Thomas Scoffin
 name-sort: Scoffin, Thomas
 totals:
  - event: Brier
-   games: 23
-   wins: 3
-   losses: 20
-   inturn-total: 178
-   inturn-percent: 72
-   outturn-total: 226
-   outturn-percent: 74
-   draw-total: 186
+   games: 31
+   wins: 5
+   losses: 26
+   inturn-total: 253
+   inturn-percent: 73
+   outturn-total: 296
+   outturn-percent: 73
+   draw-total: 258
    draw-percent: 72
-   takeout-total: 218
-   takeout-percent: 75
-   shots-total: 404
+   takeout-total: 291
+   takeout-percent: 74
+   shots-total: 549
    shots-percent: 73
 years:
  - year: 2018
@@ -69,9 +69,29 @@ years:
    takeout-percent: 76
    shots-total: 135
    shots-percent: 76
+ - year: 2023
+   event: Brier
+   team: "YT"
+   position: Fourth
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 75
+   inturn-percent: 76
+   outturn-total: 70
+   outturn-percent: 69
+   draw-total: 72
+   draw-percent: 73
+   takeout-total: 73
+   takeout-percent: 73
+   shots-total: 145
+   shots-percent: 73
 vs:
  - Aho, David
  - Appelman, Ted
+ - Asselin, Emile
+ - Asselin, Felix
+ - Bezanson, Jared
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
@@ -80,6 +100,7 @@ vs:
  - Chorostkowski, Brad
  - Cocks, Adam
  - Cotter, Jim
+ - Crete, Martin
  - Crowell, Phil
  - Dobson, Paul
  - Dunstone, Matt
@@ -89,24 +110,36 @@ vs:
  - Follett, Sam
  - Fry, Ryan
  - Gallant, Brett
+ - Gauthier, Jacques
  - Geall, Sean
+ - Ginter, Jason
+ - Goller, Kurtis
  - Grattan, James
  - Gushue, Brad
+ - Harnden, E.J.
+ - Hart, Joey
  - Hebert, Ben
  - Hodgson, Colin
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Scott
  - Hunt, Matthew
  - Janssen, Patrick
+ - Jones, Scott
+ - Kennedy, Marc
  - Kidby, Dustin
+ - King, Brian
  - Kingdon, Wade
  - Koe, Jamie
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
+ - Lind, J.D.
  - Locke, Nathan
  - Lowery, Ryan
+ - MacFadyen, Alex
  - Mackey, Peter
+ - Mallais, Jeremy
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
@@ -115,6 +148,7 @@ vs:
  - McCann, Andy
  - McEwen, Mike
  - Mcleod, Shadrach
+ - Middleton, Sterling
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -141,8 +175,11 @@ vs:
  - Spencer, Adam
  - St.Louis, David
  - Stringer, Ben
+ - Sturmay, Karsten
  - Taylor, Andrew
  - Thiessen, Brad
+ - Trepanier, Jean-Francois
+ - Venance, Glenn
  - Walker, Geoff
  - White, Edward
  - Withycombe, Ian

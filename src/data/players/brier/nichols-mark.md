@@ -4,18 +4,18 @@ name: Mark Nichols
 name-sort: Nichols, Mark
 totals:
  - event: Brier
-   games: 222
-   wins: 159
-   losses: 63
-   inturn-total: 1746
+   games: 233
+   wins: 169
+   losses: 64
+   inturn-total: 1854
    inturn-percent: 84
-   outturn-total: 2429
+   outturn-total: 2529
    outturn-percent: 86
-   draw-total: 1707
+   draw-total: 1775
    draw-percent: 86
-   takeout-total: 2468
+   takeout-total: 2608
    takeout-percent: 85
-   shots-total: 4175
+   shots-total: 4383
    shots-percent: 85
 years:
  - year: 2003
@@ -324,6 +324,23 @@ years:
    takeout-percent: 89
    shots-total: 144
    shots-percent: 88
+ - year: 2023
+   event: Brier
+   team: "CA"
+   position: Third
+   games: 11
+   wins: 10
+   losses: 1
+   inturn-total: 108
+   inturn-percent: 80
+   outturn-total: 100
+   outturn-percent: 91
+   draw-total: 68
+   draw-percent: 81
+   takeout-total: 140
+   takeout-percent: 87
+   shots-total: 208
+   shots-percent: 85
 vs:
  - Abraham, Ryan
  - Adam, Gerry
@@ -380,6 +397,7 @@ vs:
  - Chorostkowski, Brad
  - Chown, Jeff
  - Cochrane, Bryan
+ - Cocks, Adam
  - Collin, Simon
  - Colter, Travis
  - Cotter, Jim
@@ -397,6 +415,7 @@ vs:
  - Dillon, Mike
  - Dobson, Mark
  - Dobson, Paul
+ - Doering, Kyle
  - Doherty, Robbie
  - Dunstone, Matt
  - Dutiaume, Randy
@@ -437,6 +456,7 @@ vs:
  - Geall, Sean
  - Gibson, Andrew
  - Giddens, Ryan
+ - Ginter, Jason
  - Gionest, Francois
  - Golanowski, Rory
  - Gordon, Robbie
@@ -458,6 +478,7 @@ vs:
  - Harper, David
  - Harris, Mike
  - Harris, Rob
+ - Hart, Joey
  - Hart, Richard
  - Hebert, Ben
  - Hemmings, Guy
@@ -467,6 +488,7 @@ vs:
  - Hodgson, Colin
  - Horgan, Tanner
  - Horning, Deane
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Greg
  - Howard, Russ
@@ -482,6 +504,7 @@ vs:
  - Janssen, Patrick
  - Jeffrey, Chris
  - Jenion, Bob
+ - Jensen, Trygg
  - Joanisse, Dean
  - Jones, Brennen
  - Jones, Scott
@@ -497,6 +520,7 @@ vs:
  - Kennedy, Mike
  - Kidby, Dustin
  - Kilgallen, Shane
+ - King, Brian
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
@@ -509,12 +533,14 @@ vs:
  - Laing, Brent
  - Landry, Jeremy
  - Lappalainen, Art
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Leech, Ron
  - Lemay, Philippe
  - Lequin, Bradley
+ - Lind, J.D.
  - Lindsay, Tim
  - Loevenmark, Phil
  - Lohnes, Bruce
@@ -554,6 +580,7 @@ vs:
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Milward, Ross
  - Mittelstadt, Kelly
  - Molloy, Pat
@@ -637,6 +664,7 @@ vs:
  - Steele, Colten
  - Steski, John
  - Stoughton, Jeff
+ - Sturmay, Karsten
  - Sullivan, Charles Jr.
  - Sullivan, Evan
  - Sumner, Kevin
@@ -652,6 +680,7 @@ vs:
  - Turpin, Randy
  - Ursel, Bob
  - Vaughan, Jason
+ - Venance, Glenn
  - Villeneuve, Steeve
  - Virtue, Brock
  - Walker, Geoff
@@ -661,6 +690,7 @@ vs:
  - Wempe, Brian
  - Westphal, Don
  - Wettig, Sheldon
+ - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Withycombe, Ian

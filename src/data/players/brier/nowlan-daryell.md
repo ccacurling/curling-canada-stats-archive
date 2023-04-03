@@ -51,7 +51,7 @@ vs:
  - Coulter, Mike
  - Doerr, Bob
  - Duce, Dallas
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Ernst, Georg
  - Gallant, Peter
  - Goulden, Lowell

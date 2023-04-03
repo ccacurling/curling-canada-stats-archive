@@ -69,7 +69,7 @@ vs:
  - Chorostkowski, Brad
  - Dobson, Paul
  - Duce, Dallas
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Ernst, Georg
  - Ferland, Martin
  - Fowler, Rob

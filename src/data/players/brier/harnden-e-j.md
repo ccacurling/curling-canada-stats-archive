@@ -4,18 +4,18 @@ name: E.J. Harnden
 name-sort: Harnden, E.J.
 totals:
  - event: Brier
-   games: 160
-   wins: 105
-   losses: 55
-   inturn-total: 1207
+   games: 171
+   wins: 115
+   losses: 56
+   inturn-total: 1298
    inturn-percent: 86
-   outturn-total: 1770
+   outturn-total: 1887
    outturn-percent: 87
-   draw-total: 1131
+   draw-total: 1229
    draw-percent: 85
-   takeout-total: 1846
+   takeout-total: 1956
    takeout-percent: 88
-   shots-total: 2977
+   shots-total: 3185
    shots-percent: 87
 years:
  - year: 2008
@@ -239,6 +239,23 @@ years:
    takeout-percent: 91
    shots-total: 150
    shots-percent: 89
+ - year: 2023
+   event: Brier
+   team: "CA"
+   position: Second
+   games: 11
+   wins: 10
+   losses: 1
+   inturn-total: 91
+   inturn-percent: 87
+   outturn-total: 117
+   outturn-percent: 84
+   draw-total: 98
+   draw-percent: 86
+   takeout-total: 110
+   takeout-percent: 84
+   shots-total: 208
+   shots-percent: 85
 vs:
  - Abel, Clinton
  - Abraham, Ryan
@@ -274,6 +291,7 @@ vs:
  - Chorostkowski, Brad
  - Clarey, Sean
  - Cochrane, Bryan
+ - Cocks, Adam
  - Collin, Simon
  - Cotter, Jim
  - Cowan, Chad
@@ -287,6 +305,7 @@ vs:
  - Desjardins, Robert
  - Desrosiers, John
  - Dion, William
+ - Doering, Kyle
  - Doherty, Robbie
  - Dunstone, Matt
  - Eldridge, Zach
@@ -308,8 +327,10 @@ vs:
  - Gallant, Chris
  - Gallant, Peter
  - Gaudet, Mike
+ - Gauthier, Jacques
  - Gavin, Martin
  - Gibson, Andrew
+ - Ginter, Jason
  - Gionest, Francois
  - Gould, Steve
  - Grattan, James
@@ -317,11 +338,14 @@ vs:
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Hagen, Brandon
+ - Harnden, Ryan
  - Harris, Tyler
+ - Hart, Joey
  - Hart, Richard
  - Hebert, Ben
  - Higgs, Jake
  - Hodgson, Colin
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Greg
  - Howard, Scott
@@ -329,6 +353,7 @@ vs:
  - Ireland, Clint
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Jewer, Keith
  - Jones, Brennen
  - Jones, Scott
@@ -351,12 +376,14 @@ vs:
  - Kuhn, Ryan
  - Laing, Brent
  - Lang, Tyler
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Lemay, Philippe
  - Lequin, Bradley
  - Likely, John
+ - Lind, J.D.
  - Lott, Colton
  - Lyburn, Allan
  - MacAulay, Ian
@@ -391,6 +418,7 @@ vs:
  - Menard, Philippe
  - Merklinger, Bill
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Mikkelsen, Dustin
  - Mittelstadt, Kelly
  - Morris, John
@@ -440,6 +468,7 @@ vs:
  - Sawatsky, Rick
  - Schille, Chris
  - Schneider, Catlin
+ - Scoffin, Thomas
  - Scoffin, Wade
  - Sharp, Jeff
  - Shypitka, Tom
@@ -449,11 +478,13 @@ vs:
  - Smallwood, Robert
  - Smith, Garth
  - Smith, Kent
+ - Smith, Tyler
  - Smitheram, Christian
  - Solberg, Jon
  - Spencer, Adam
  - St.Louis, David
  - Stoughton, Jeff
+ - Sturmay, Karsten
  - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Symonds, Andrew
@@ -463,10 +494,12 @@ vs:
  - Ursel, Bob
  - Van Strien, Peter
  - Vaughan, Jason
+ - Venance, Glenn
  - Villeneuve, Steeve
  - Virtue, Brock
  - Walker, Geoff
  - Watson, Aaron
+ - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Wood, Brad

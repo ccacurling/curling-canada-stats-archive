@@ -1506,7 +1506,7 @@ vs:
       year: 1996
       draw: Round Robin(8)
       score: AB 11 - TR 6
- - name: Ellis, Ken
+ - name: Ellis, Ken Jr.
    totals:
     - event: Brier
       player1:

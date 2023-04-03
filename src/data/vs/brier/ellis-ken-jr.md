@@ -1,6 +1,6 @@
 ---
-title: Ken Ellis Head-to-head
-name: Ellis, Ken
+title: Ken Jr. Ellis Head-to-head
+name: Ellis, Ken Jr.
 vs:
  - name: Elmaleh, Maxime
    totals:

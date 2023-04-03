@@ -262,7 +262,7 @@ vs:
  - Dauphinee, Andrew
  - Doerr, Bob
  - Elias, Dave
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Ernst, Georg
  - Feldman, Alfred
  - Fenton, Keith

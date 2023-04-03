@@ -90,7 +90,7 @@ vs:
  - Dacey, Mark
  - Dauphinee, Andrew
  - Dillon, Mike
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Elmaleh, Maxime
  - Fetterly, Tom
  - Flemming, Paul

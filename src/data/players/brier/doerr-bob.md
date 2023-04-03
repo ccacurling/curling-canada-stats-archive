@@ -96,7 +96,7 @@ vs:
  - Carstairs, Kent
  - Delmage, Al
  - Dobson, Brian
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Ferbey, Randy
  - Folk, Rick
  - Gallant, Peter

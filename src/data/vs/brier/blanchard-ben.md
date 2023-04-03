@@ -282,7 +282,7 @@ vs:
       year: 2002
       draw: Round Robin(17)
       score: NS 5 - MB 7
- - name: Ellis, Ken
+ - name: Ellis, Ken Jr.
    totals:
     - event: Brier
       player1:

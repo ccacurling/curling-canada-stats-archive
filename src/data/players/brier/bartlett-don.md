@@ -191,7 +191,7 @@ vs:
  - Dowden, Craig
  - Eberts, Tony
  - Elkin, Derek
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Elmaleh, Maxime
  - Ernst, Georg
  - Feldman, Alfred

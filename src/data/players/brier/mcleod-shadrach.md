@@ -4,19 +4,19 @@ name: Shadrach Mcleod
 name-sort: Mcleod, Shadrach
 totals:
  - event: Brier
-   games: 10
-   wins: 3
-   losses: 7
-   inturn-total: 52
-   inturn-percent: 75
-   outturn-total: 88
-   outturn-percent: 71
-   draw-total: 62
-   draw-percent: 67
-   takeout-total: 78
-   takeout-percent: 77
-   shots-total: 140
-   shots-percent: 73
+   games: 18
+   wins: 4
+   losses: 14
+   inturn-total: 114
+   inturn-percent: 83
+   outturn-total: 176
+   outturn-percent: 75
+   draw-total: 202
+   draw-percent: 79
+   takeout-total: 88
+   takeout-percent: 76
+   shots-total: 290
+   shots-percent: 78
 years:
  - year: 2019
    event: Brier
@@ -52,7 +52,25 @@ years:
    takeout-percent: 77
    shots-total: 124
    shots-percent: 73
+ - year: 2023
+   event: Brier
+   team: "NT"
+   position: Lead
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 62
+   inturn-percent: 89
+   outturn-total: 88
+   outturn-percent: 79
+   draw-total: 140
+   draw-percent: 84
+   takeout-total: 10
+   takeout-percent: 63
+   shots-total: 150
+   shots-percent: 83
 vs:
+ - Armstrong, Mike
  - Beuk, Jonathan
  - Brannen, Jamie
  - Camm, Mathew
@@ -63,35 +81,60 @@ vs:
  - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
+ - Follett, Sam
  - Forget, Wesley
  - Fry, Ryan
+ - Gordon, Robbie
  - Grant, Jeff
  - Grattan, James
+ - Harnden, Ryan
  - Hebert, Ben
+ - Higgs, Jake
  - Hodgson, Colin
+ - Horgan, Jacob
+ - Horgan, Tanner
  - Jensen, Trygg
+ - Jones, Brennen
  - Kendall, Lloyd
  - Kidby, Dustin
+ - Knapp, Kelly
+ - Knapp, Trent
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
  - LeCocq, Marc
+ - Locke, Nathan
+ - Lott, Colton
  - Mackey, Peter
+ - Manuel, Matthew
+ - Martin, Karrick
  - McCann, Andy
  - McDonald, Scott
  - McEwen, Mike
+ - Meagher, Jeffrey
  - Moskowy, Braeden
+ - Moulding, Darren
  - Nadeau, Jeff
  - Nerpin, Andrew
  - Neufeld, B.J.
+ - Njegovan, Connor
  - Odishaw, Grant
  - Odishaw, Terry
  - Pinder, Jordan
  - Samagalski, Derek
+ - Saunders, Luke
  - Sawatsky, Rick
  - Schneider, Catlin
  - Scoffin, Thomas
+ - Smitheram, Christian
+ - St.Louis, Brady
  - St.Louis, David
+ - Stringer, Ben
+ - Tardi, Tyler
+ - Thiessen, Brad
  - Wallingham, Joe
+ - Wettig, Sheldon
  - Winfield, Brett
+ - Young, Nathan
+ - Zachernuk, Nick
 ---

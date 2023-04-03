@@ -120,7 +120,7 @@ vs:
  - Doering, Kyle
  - Dowden, Craig
  - Duguid, Dale
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Elmaleh, Maxime
  - Fetterly, Tom
  - Flemming, Paul

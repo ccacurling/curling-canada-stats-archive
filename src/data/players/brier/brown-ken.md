@@ -69,7 +69,7 @@ vs:
  - Dowden, Craig
  - Duce, Dallas
  - Elkin, Derek
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Ernst, Georg
  - Forsyth, Sandy
  - Gallant, Peter

@@ -354,7 +354,7 @@ vs:
       year: 1996
       draw: Round Robin(7)
       score: TR 3 - BC 10
- - name: Ellis, Ken
+ - name: Ellis, Ken Jr.
    totals:
     - event: Brier
       player1:

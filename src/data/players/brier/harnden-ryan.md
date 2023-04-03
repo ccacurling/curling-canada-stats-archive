@@ -4,18 +4,18 @@ name: Ryan Harnden
 name-sort: Harnden, Ryan
 totals:
  - event: Brier
-   games: 157
-   wins: 105
-   losses: 52
-   inturn-total: 1130
+   games: 169
+   wins: 115
+   losses: 54
+   inturn-total: 1315
    inturn-percent: 88
-   outturn-total: 1760
+   outturn-total: 1789
    outturn-percent: 88
-   draw-total: 2050
+   draw-total: 2243
    draw-percent: 90
-   takeout-total: 840
+   takeout-total: 861
    takeout-percent: 83
-   shots-total: 2890
+   shots-total: 3104
    shots-percent: 88
 years:
  - year: 2008
@@ -239,6 +239,23 @@ years:
    takeout-percent: 74
    shots-total: 156
    shots-percent: 91
+ - year: 2023
+   event: Brier
+   team: "MB"
+   position: Lead
+   games: 12
+   wins: 10
+   losses: 2
+   inturn-total: 185
+   inturn-percent: 91
+   outturn-total: 29
+   outturn-percent: 86
+   draw-total: 193
+   draw-percent: 91
+   takeout-total: 21
+   takeout-percent: 87
+   shots-total: 214
+   shots-percent: 91
 vs:
  - Abel, Clinton
  - Abraham, Ryan
@@ -296,6 +313,7 @@ vs:
  - Flasch, Colton
  - Flemming, Paul
  - Folk, Kevin
+ - Follett, Sam
  - Ford, Chris
  - Forget, Wesley
  - Forrest, Alex
@@ -311,17 +329,21 @@ vs:
  - Gavin, Martin
  - Gibson, Andrew
  - Gionest, Francois
+ - Gordon, Robbie
  - Gould, Steve
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Hagen, Brandon
+ - Harnden, E.J.
  - Harris, Tyler
  - Hart, Richard
  - Hebert, Ben
  - Higgs, Jake
  - Hodgson, Colin
+ - Horgan, Jacob
+ - Horgan, Tanner
  - Howard, Glenn
  - Howard, Greg
  - Howard, Scott
@@ -340,6 +362,8 @@ vs:
  - Kidby, Dustin
  - King, Brian
  - Kingdon, Wade
+ - Knapp, Kelly
+ - Knapp, Trent
  - Koe, Jamie
  - Koe, Kevin
  - Kohlenberg, Dale
@@ -356,7 +380,9 @@ vs:
  - Ledgerwood, Sean
  - Lemay, Philippe
  - Lequin, Bradley
+ - Lichty, Terry
  - Likely, John
+ - Locke, Nathan
  - Lott, Colton
  - Lyburn, Allan
  - MacAulay, Ian
@@ -370,6 +396,7 @@ vs:
  - MacLean, Stuart
  - Mallais, Jeremy
  - Manners, Scott
+ - Manuel, Matthew
  - March, Tim
  - Markowsky, Rob
  - Marsh, Dan
@@ -384,8 +411,10 @@ vs:
  - McEwen, Mike
  - McKee, Darrell
  - Mckinnon, Robert
+ - Mcleod, Shadrach
  - Meachem, Shaun Myles
  - Mead, Jon
+ - Meagher, Jeffrey
  - Meister, Nicholas
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -436,6 +465,7 @@ vs:
  - Rycroft, Carter
  - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Savill, Craig
  - Sawatsky, Rick
  - Schille, Chris
@@ -452,13 +482,17 @@ vs:
  - Smitheram, Christian
  - Solberg, Jon
  - Spencer, Adam
+ - St.Louis, Brady
  - St.Louis, David
  - Stoughton, Jeff
+ - Stringer, Ben
  - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thomas, Jeff
  - Trepanier, Jean-Francois
  - Ursel, Bob
  - Van Strien, Peter
@@ -467,8 +501,11 @@ vs:
  - Virtue, Brock
  - Walker, Geoff
  - Watson, Aaron
+ - Wettig, Sheldon
  - Whitehead, Kevin
  - Whitehead, Mark
  - Wood, Brad
  - Wozniak, Matt
+ - Young, Nathan
+ - Zachernuk, Nick
 ---

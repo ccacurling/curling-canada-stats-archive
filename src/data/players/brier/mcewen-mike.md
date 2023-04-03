@@ -4,18 +4,18 @@ name: Mike McEwen
 name-sort: McEwen, Mike
 totals:
  - event: Brier
-   games: 78
-   wins: 47
-   losses: 31
-   inturn-total: 630
+   games: 89
+   wins: 54
+   losses: 35
+   inturn-total: 732
    inturn-percent: 84
-   outturn-total: 805
-   outturn-percent: 85
-   draw-total: 549
+   outturn-total: 904
+   outturn-percent: 84
+   draw-total: 633
    draw-percent: 86
-   takeout-total: 886
+   takeout-total: 1003
    takeout-percent: 83
-   shots-total: 1435
+   shots-total: 1636
    shots-percent: 84
 years:
  - year: 2016
@@ -137,13 +137,32 @@ years:
    takeout-percent: 74
    shots-total: 155
    shots-percent: 81
+ - year: 2023
+   event: Brier
+   team: "ON"
+   position: Fourth
+   games: 11
+   wins: 7
+   losses: 4
+   inturn-total: 102
+   inturn-percent: 83
+   outturn-total: 99
+   outturn-percent: 80
+   draw-total: 84
+   draw-percent: 85
+   takeout-total: 117
+   takeout-percent: 79
+   shots-total: 201
+   shots-percent: 82
 vs:
  - Abel, Clinton
  - Abraham, Ryan
  - Aho, David
  - Appelman, Tom
+ - Asselin, Emile
  - Asselin, Felix
  - Beuk, Jonathan
+ - Bezanson, Jared
  - Boland, Adam
  - Borden, Robert
  - Bottcher, Brendan
@@ -156,10 +175,12 @@ vs:
  - Chadwick, Scott
  - Chester, Corey
  - Chorostkowski, Brad
+ - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
  - Dobson, Paul
+ - Doering, Kyle
  - Doherty, Robbie
  - Dunstone, Matt
  - Epping, John
@@ -172,7 +193,10 @@ vs:
  - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
+ - Gauthier, Jacques
  - Geall, Sean
+ - Ginter, Jason
+ - Goller, Kurtis
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -183,6 +207,7 @@ vs:
  - Hart, Richard
  - Hebert, Ben
  - Hodgson, Colin
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Greg
  - Howard, Scott
@@ -196,16 +221,21 @@ vs:
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
+ - King, Brian
  - Koe, Jamie
  - Koe, Kevin
  - Kolomaya, Jared
  - Kuhn, Ryan
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Lemay, Philippe
  - Likely, John
+ - Lind, J.D.
+ - MacFadyen, Alex
  - Mackey, Peter
+ - Mallais, Jeremy
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
@@ -220,6 +250,7 @@ vs:
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Mikkelsen, Dustin
  - Morris, John
  - Moskowy, Braeden
@@ -254,10 +285,13 @@ vs:
  - Skauge, Greg
  - Smallwood, Robert
  - Smith, Greg
+ - Smith, Tyler
  - Solberg, Jon
  - Spencer, Adam
+ - Sturmay, Karsten
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tardi, Tyler
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
@@ -265,6 +299,7 @@ vs:
  - Van Strien, Peter
  - Walker, Geoff
  - Wallingham, Joe
+ - White, Edward
  - Winfield, Brett
  - Withycombe, Ian
  - Wood, Brad

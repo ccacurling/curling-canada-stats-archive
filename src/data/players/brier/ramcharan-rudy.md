@@ -45,7 +45,7 @@ vs:
  - Charette, Pierre
  - Coulter, Mike
  - Duce, Dallas
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Ernst, Georg
  - Gallant, Peter
  - Goulden, Lowell

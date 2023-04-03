@@ -4,19 +4,19 @@ name: Joe Wallingham
 name-sort: Wallingham, Joe
 totals:
  - event: Brier
-   games: 15
-   wins: 1
-   losses: 14
-   inturn-total: 98
-   inturn-percent: 75
-   outturn-total: 166
-   outturn-percent: 83
-   draw-total: 190
-   draw-percent: 83
-   takeout-total: 74
-   takeout-percent: 71
-   shots-total: 264
-   shots-percent: 80
+   games: 21
+   wins: 3
+   losses: 18
+   inturn-total: 133
+   inturn-percent: 74
+   outturn-total: 211
+   outturn-percent: 81
+   draw-total: 231
+   draw-percent: 82
+   takeout-total: 113
+   takeout-percent: 70
+   shots-total: 344
+   shots-percent: 78
 years:
  - year: 2020
    event: Brier
@@ -52,34 +52,65 @@ years:
    takeout-percent: 70
    shots-total: 136
    shots-percent: 73
+ - year: 2023
+   event: Brier
+   team: "YT"
+   position: Second
+   games: 6
+   wins: 2
+   losses: 4
+   inturn-total: 35
+   inturn-percent: 74
+   outturn-total: 45
+   outturn-percent: 72
+   draw-total: 41
+   draw-percent: 77
+   takeout-total: 39
+   takeout-percent: 69
+   shots-total: 80
+   shots-percent: 73
 vs:
  - Aho, David
  - Appelman, Ted
+ - Asselin, Emile
+ - Asselin, Felix
+ - Bezanson, Jared
  - Bottcher, Brendan
  - Brannen, Jamie
  - Camm, Mathew
  - Carruthers, Reid
  - Cocks, Adam
  - Cotter, Jim
+ - Crete, Martin
  - Dobson, Paul
  - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
  - Follett, Sam
  - Fry, Ryan
+ - Gallant, Brett
+ - Gauthier, Jacques
+ - Ginter, Jason
  - Grattan, James
+ - Hart, Joey
  - Hebert, Ben
  - Hodgson, Colin
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Scott
  - Janssen, Patrick
+ - Jones, Scott
+ - Kennedy, Marc
  - Kidby, Dustin
+ - King, Brian
  - Koe, Jamie
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
  - Locke, Nathan
  - Lowery, Ryan
+ - MacFadyen, Alex
+ - Mallais, Jeremy
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
@@ -88,6 +119,7 @@ vs:
  - McCann, Andy
  - McEwen, Mike
  - Mcleod, Shadrach
+ - Middleton, Sterling
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -105,6 +137,7 @@ vs:
  - Spencer, Adam
  - Stringer, Ben
  - Thiessen, Brad
+ - Trepanier, Jean-Francois
  - White, Edward
  - Young, Nathan
 ---

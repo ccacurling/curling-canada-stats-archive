@@ -4,19 +4,19 @@ name: Brad Thiessen
 name-sort: Thiessen, Brad
 totals:
  - event: Brier
-   games: 78
-   wins: 54
-   losses: 24
-   inturn-total: 647
+   games: 87
+   wins: 61
+   losses: 26
+   inturn-total: 730
    inturn-percent: 85
-   outturn-total: 812
+   outturn-total: 903
    outturn-percent: 86
-   draw-total: 614
-   draw-percent: 86
-   takeout-total: 845
-   takeout-percent: 85
-   shots-total: 1459
-   shots-percent: 86
+   draw-total: 679
+   draw-percent: 85
+   takeout-total: 954
+   takeout-percent: 86
+   shots-total: 1633
+   shots-percent: 85
 years:
  - year: 2017
    event: Brier
@@ -120,10 +120,28 @@ years:
    takeout-percent: 86
    shots-total: 226
    shots-percent: 84
+ - year: 2023
+   event: Brier
+   team: "AB"
+   position: Second
+   games: 9
+   wins: 7
+   losses: 2
+   inturn-total: 83
+   inturn-percent: 86
+   outturn-total: 91
+   outturn-percent: 82
+   draw-total: 65
+   draw-percent: 77
+   takeout-total: 109
+   takeout-percent: 88
+   shots-total: 174
+   shots-percent: 84
 vs:
  - Abel, Clinton
  - Aho, David
  - Appelman, Tom
+ - Armstrong, Mike
  - Asselin, Emile
  - Bedard, Alek
  - Beuk, Jonathan
@@ -158,6 +176,7 @@ vs:
  - Gallant, Brett
  - Gallant, Chris
  - Geall, Sean
+ - Gordon, Robbie
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -165,10 +184,12 @@ vs:
  - Hagen, Brandon
  - Harnden, E.J.
  - Harnden, Ryan
+ - Hart, Joey
  - Hart, Richard
  - Hebert, Ben
  - Higgs, Jake
  - Hodgson, Colin
+ - Horgan, Jacob
  - Horgan, Tanner
  - Howard, Glenn
  - Howard, Scott
@@ -177,10 +198,14 @@ vs:
  - Janssen, Patrick
  - Jensen, Trygg
  - Jewer, Keith
+ - Jones, Brennen
  - Jones, Scott
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
+ - Knapp, Kelly
+ - Knapp, Trent
  - Koe, Jamie
  - Koe, Kevin
  - Kohlenberg, Dale
@@ -190,11 +215,14 @@ vs:
  - LeCocq, Marc
  - Lemay, Philippe
  - Lequin, Bradley
+ - Lichty, Terry
  - Likely, John
  - Locke, Nathan
+ - Lott, Colton
  - Lowery, Ryan
  - MacAulay, Ian
  - MacDonald, Edmund
+ - Manuel, Matthew
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
@@ -203,7 +231,9 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - Mckinnon, Robert
+ - Mcleod, Shadrach
  - Meachem, Shaun Myles
+ - Meagher, Jeffrey
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -222,6 +252,7 @@ vs:
  - Nichols, Mark
  - Njegovan, Connor
  - O'Rourke, Mark
+ - Parsons, Cole
  - Patzer, Brad
  - Peech, Alexander
  - Pinder, Jordan
@@ -230,6 +261,7 @@ vs:
  - Richard, Jeff
  - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Sawatsky, Rick
  - Schille, Chris
  - Schneider, Catlin
@@ -241,6 +273,7 @@ vs:
  - Smith, Tyler
  - Smitheram, Christian
  - Solberg, Jon
+ - St.Louis, Brady
  - Stapleton, Connor
  - Stringer, Ben
  - Sylvain, Eric
@@ -249,9 +282,11 @@ vs:
  - Taylor, Andrew
  - Walker, Geoff
  - Wallingham, Joe
+ - Wettig, Sheldon
  - White, Edward
  - Withycombe, Ian
  - Wood, Brad
  - Wozniak, Matt
  - Young, Nathan
+ - Zachernuk, Nick
 ---

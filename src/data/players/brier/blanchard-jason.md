@@ -45,7 +45,7 @@ vs:
  - Brandwood, Todd
  - Corner, Peter
  - Dowden, Craig
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Golanowski, Rory
  - Henderson, Ron
  - Hollett, Peter

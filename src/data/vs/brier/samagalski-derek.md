@@ -2,6 +2,34 @@
 title: Derek Samagalski Head-to-head
 name: Samagalski, Derek
 vs:
+ - name: Saunders, Luke
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 93
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 93
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(14)
+      score: NS 2 - WC 6
  - name: Savill, Craig
    totals:
     - event: Brier
@@ -338,6 +366,34 @@ vs:
       year: 2019
       draw: Round Robin(7)
       score: YT 7 - MB 6
+ - name: Smitheram, Christian
+   totals:
+    - event: Brier
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 73
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 73
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(15)
+      score: WC 8 - NU 4
  - name: Solberg, Jon
    totals:
     - event: Brier
@@ -366,6 +422,34 @@ vs:
       year: 2019
       draw: Round Robin(7)
       score: YT 7 - MB 6
+ - name: St.Louis, Brady
+   totals:
+    - event: Brier
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(15)
+      score: WC 8 - NU 4
  - name: St.Louis, David
    totals:
     - event: Brier
@@ -394,6 +478,34 @@ vs:
       year: 2018
       draw: Round Robin(5)
       score: NU 5 - MB 12
+ - name: Stringer, Ben
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(6)
+      score: NL 6 - WC 7
  - name: Sylvain, Eric
    totals:
     - event: Brier
@@ -466,16 +578,44 @@ vs:
       year: 2019
       draw: Round Robin(9)
       score: MB 13 - NL 4
+ - name: Tardi, Tyler
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(7)
+      score: WC 7 - AB 9
  - name: Thiessen, Brad
    totals:
     - event: Brier
       player1:
         percent: 87
         wins: 0
-        losses: 4
+        losses: 5
       player2:
-        percent: 84
-        wins: 4
+        percent: 85
+        wins: 5
         losses: 0
    games:
     - player1:
@@ -542,6 +682,22 @@ vs:
       year: 2021
       draw: Round Robin(14)
       score: WC 3 - AB 9
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(7)
+      score: WC 7 - AB 9
  - name: Thiessen, Nolan
    totals:
     - event: Brier
@@ -838,6 +994,34 @@ vs:
       year: 2020
       draw: Round Robin(3)
       score: WC 10 - YT 6
+ - name: Wettig, Sheldon
+   totals:
+    - event: Brier
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 72
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 72
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(15)
+      score: WC 8 - NU 4
  - name: Whitehead, Mark
    totals:
     - event: Brier
@@ -970,4 +1154,60 @@ vs:
       year: 2022
       draw: Tie-Breaker(19)
       score: WC 9 - MB 3
+ - name: Young, Nathan
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(6)
+      score: NL 6 - WC 7
+ - name: Zachernuk, Nick
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Lead
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(14)
+      score: NS 2 - WC 6
 ---

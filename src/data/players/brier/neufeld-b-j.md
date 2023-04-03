@@ -4,19 +4,19 @@ name: B.J. Neufeld
 name-sort: Neufeld, B.J.
 totals:
  - event: Brier
-   games: 87
-   wins: 64
-   losses: 23
-   inturn-total: 765
-   inturn-percent: 86
-   outturn-total: 861
-   outturn-percent: 86
-   draw-total: 546
+   games: 99
+   wins: 74
+   losses: 25
+   inturn-total: 883
+   inturn-percent: 87
+   outturn-total: 957
+   outturn-percent: 87
+   draw-total: 621
    draw-percent: 84
-   takeout-total: 1080
+   takeout-total: 1219
    takeout-percent: 88
-   shots-total: 1626
-   shots-percent: 86
+   shots-total: 1840
+   shots-percent: 87
 years:
  - year: 2016
    event: Brier
@@ -137,10 +137,28 @@ years:
    takeout-percent: 82
    shots-total: 210
    shots-percent: 81
+ - year: 2023
+   event: Brier
+   team: "MB"
+   position: Third
+   games: 12
+   wins: 10
+   losses: 2
+   inturn-total: 118
+   inturn-percent: 87
+   outturn-total: 96
+   outturn-percent: 90
+   draw-total: 75
+   draw-percent: 85
+   takeout-total: 139
+   takeout-percent: 90
+   shots-total: 214
+   shots-percent: 88
 vs:
  - Aho, David
  - Appelman, Tom
  - Ardiel, Taylor
+ - Armstrong, Mike
  - Asselin, Felix
  - Bartling, Aaron
  - Beuk, Jonathan
@@ -176,6 +194,7 @@ vs:
  - Gallant, Brett
  - Gallant, Chris
  - Geall, Sean
+ - Gordon, Robbie
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -184,7 +203,10 @@ vs:
  - Harnden, Ryan
  - Hart, Richard
  - Hebert, Ben
+ - Higgs, Jake
  - Hodgson, Colin
+ - Horgan, Jacob
+ - Horgan, Tanner
  - Howard, Glenn
  - Howard, Greg
  - Howard, Scott
@@ -192,11 +214,15 @@ vs:
  - Jacobs, Brad
  - Janssen, Patrick
  - Jensen, Trygg
+ - Jones, Brennen
  - Jones, Scott
  - Kendall, Lloyd
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
+ - Knapp, Kelly
+ - Knapp, Trent
  - Koe, Jamie
  - Koe, Kevin
  - Kuhn, Ryan
@@ -205,10 +231,12 @@ vs:
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
+ - Lichty, Terry
  - Locke, Nathan
  - Lowery, Ryan
  - MacKenzie, Eddie
  - Mackey, Peter
+ - Manuel, Matthew
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
@@ -221,6 +249,7 @@ vs:
  - McEwen, Mike
  - Mcleod, Shadrach
  - Meachem, Shaun Myles
+ - Meagher, Jeffrey
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -243,6 +272,7 @@ vs:
  - Rycroft, Carter
  - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Sawatsky, Rick
  - Schille, Chris
  - Schneider, Catlin
@@ -251,23 +281,28 @@ vs:
  - Simmons, Pat
  - Smith, Greg
  - Smith, Tyler
+ - Smitheram, Christian
  - Spencer, Adam
  - St.Louis, Brady
  - St.Louis, David
  - Steele, Colten
  - Stringer, Ben
  - Sylvain, Eric
+ - Tardi, Tyler
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thomas, Jeff
  - Thompson, Stuart
  - Trepanier, Jean-Francois
  - Walker, Geoff
  - Wallingham, Joe
+ - Wettig, Sheldon
  - White, Edward
  - Winfield, Brett
  - Withycombe, Ian
  - Wood, Brad
  - Wozniak, Matt
  - Young, Nathan
+ - Zachernuk, Nick
 ---

@@ -269,7 +269,7 @@ vs:
  - Dowden, Craig
  - Eberts, Tony
  - Elkin, Derek
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Elmaleh, Maxime
  - Errington, Derek
  - Farnell, Jamie

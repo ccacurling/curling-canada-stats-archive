@@ -90,13 +90,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 78
-        wins: 1
+        percent: 84
+        wins: 2
         losses: 0
       player2:
-        percent: 53
+        percent: 58
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'YT'
@@ -114,6 +114,22 @@ vs:
       year: 2022
       draw: Round Robin(3)
       score: YT 13 - PE 7
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 63
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(12)
+      score: YT 9 - PE 2
  - name: Spencer, Adam
    totals:
     - event: Brier
@@ -198,6 +214,34 @@ vs:
       year: 2022
       draw: Round Robin(1)
       score: NL 7 - YT 5
+ - name: Sturmay, Karsten
+   totals:
+    - event: Brier
+      player1:
+        percent: 65
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 65
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(7)
+      score: YT 6 - WC 7
  - name: Taylor, Andrew
    totals:
     - event: Brier
@@ -270,16 +314,72 @@ vs:
       year: 2022
       draw: Round Robin(11)
       score: CA 10 - YT 4
+ - name: Trepanier, Jean-Francois
+   totals:
+    - event: Brier
+      player1:
+        percent: 69
+        wins: 0
+        losses: 1
+      player2:
+        percent: 92
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 92
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(3)
+      score: QC 8 - YT 2
+ - name: Venance, Glenn
+   totals:
+    - event: Brier
+      player1:
+        percent: 65
+        wins: 0
+        losses: 1
+      player2:
+        percent: 91
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 65
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(7)
+      score: YT 6 - WC 7
  - name: Walker, Geoff
    totals:
     - event: Brier
       player1:
-        percent: 73
+        percent: 74
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 96
-        wins: 1
+        percent: 98
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -298,17 +398,33 @@ vs:
       year: 2018
       draw: Round Robin(4)
       score: CA 8 - YT 3
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 98
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(18)
+      score: YT 3 - CA 8
  - name: White, Edward
    totals:
     - event: Brier
       player1:
-        percent: 78
-        wins: 1
+        percent: 84
+        wins: 2
         losses: 0
       player2:
-        percent: 67
+        percent: 70
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'YT'
@@ -326,6 +442,22 @@ vs:
       year: 2022
       draw: Round Robin(3)
       score: YT 13 - PE 7
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 72
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(12)
+      score: YT 9 - PE 2
  - name: Withycombe, Ian
    totals:
     - event: Brier

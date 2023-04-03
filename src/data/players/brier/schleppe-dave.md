@@ -72,7 +72,7 @@ vs:
  - Duce, Dallas
  - Durant, Fred
  - Edl, Don
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Elliott, Rick
  - Ernst, Georg
  - Evoy, Rich

@@ -163,7 +163,7 @@ vs:
  - Desjardins, Robert
  - Dillon, Mike
  - Dowden, Craig
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Elmaleh, Maxime
  - Errington, Derek
  - Farnell, Jamie

@@ -2,7 +2,7 @@
 title: Dallas Duce Head-to-head
 name: Duce, Dallas
 vs:
- - name: Ellis, Ken
+ - name: Ellis, Ken Jr.
    totals:
     - event: Brier
       player1:

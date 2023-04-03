@@ -4,18 +4,18 @@ name: Kevin Koe
 name-sort: Koe, Kevin
 totals:
  - event: Brier
-   games: 130
-   wins: 98
-   losses: 32
-   inturn-total: 884
+   games: 139
+   wins: 105
+   losses: 34
+   inturn-total: 947
    inturn-percent: 83
-   outturn-total: 1498
+   outturn-total: 1604
    outturn-percent: 87
-   draw-total: 890
+   draw-total: 959
    draw-percent: 84
-   takeout-total: 1492
+   takeout-total: 1592
    takeout-percent: 86
-   shots-total: 2382
+   shots-total: 2551
    shots-percent: 85
 years:
  - year: 2010
@@ -188,6 +188,23 @@ years:
    takeout-percent: 89
    shots-total: 206
    shots-percent: 87
+ - year: 2023
+   event: Brier
+   team: "AB"
+   position: Fourth
+   games: 9
+   wins: 7
+   losses: 2
+   inturn-total: 63
+   inturn-percent: 83
+   outturn-total: 106
+   outturn-percent: 84
+   draw-total: 69
+   draw-percent: 82
+   takeout-total: 100
+   takeout-percent: 85
+   shots-total: 169
+   shots-percent: 84
 vs:
  - Aho, David
  - Anderson, Chris
@@ -251,6 +268,7 @@ vs:
  - Gaudet, Mike
  - Gavin, Martin
  - Gionest, Francois
+ - Gordon, Robbie
  - Gould, Steve
  - Grattan, James
  - Griffith, Tyrel
@@ -259,8 +277,12 @@ vs:
  - Harnden, E.J.
  - Harnden, Ryan
  - Harris, Tyler
+ - Hart, Joey
  - Hart, Richard
+ - Higgs, Jake
  - Hodgson, Colin
+ - Horgan, Jacob
+ - Horgan, Tanner
  - Howard, Glenn
  - Howard, Greg
  - Howard, Scott
@@ -269,12 +291,16 @@ vs:
  - Janssen, Patrick
  - Jeffrey, Chris
  - Jensen, Trygg
+ - Jones, Brennen
  - Jones, Scott
  - Kean, Mark
  - Kendall, Lloyd
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
+ - Knapp, Kelly
+ - Knapp, Trent
  - Koe, Jamie
  - Koivula, Colin
  - Korab, Jamie
@@ -287,7 +313,9 @@ vs:
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
+ - Lichty, Terry
  - Locke, Nathan
+ - Lott, Colton
  - Lowery, Ryan
  - Lyburn, Allan
  - MacDonald, Rod
@@ -297,6 +325,7 @@ vs:
  - MacLean, Stuart
  - Mallais, Jeremy
  - Manners, Scott
+ - Manuel, Matthew
  - March, Tim
  - Markowsky, Rob
  - Marsh, Dan
@@ -315,6 +344,7 @@ vs:
  - Mcleod, Shadrach
  - Meachem, Shaun Myles
  - Mead, Jon
+ - Meagher, Jeffrey
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -350,6 +380,7 @@ vs:
  - Rycroft, Carter
  - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Savill, Craig
  - Sawatsky, Rick
  - Schille, Chris
@@ -377,10 +408,12 @@ vs:
  - Villeneuve, Steeve
  - Walker, Geoff
  - Wallingham, Joe
+ - Wettig, Sheldon
  - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Winfield, Brett
  - Wozniak, Matt
  - Young, Nathan
+ - Zachernuk, Nick
 ---

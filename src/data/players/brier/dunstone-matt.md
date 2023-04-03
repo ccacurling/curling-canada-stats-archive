@@ -4,19 +4,19 @@ name: Matt Dunstone
 name-sort: Dunstone, Matt
 totals:
  - event: Brier
-   games: 46
-   wins: 29
-   losses: 17
-   inturn-total: 518
+   games: 58
+   wins: 39
+   losses: 19
+   inturn-total: 668
    inturn-percent: 86
-   outturn-total: 351
-   outturn-percent: 84
-   draw-total: 345
-   draw-percent: 85
-   takeout-total: 524
-   takeout-percent: 85
-   shots-total: 869
-   shots-percent: 85
+   outturn-total: 413
+   outturn-percent: 85
+   draw-total: 431
+   draw-percent: 86
+   takeout-total: 650
+   takeout-percent: 86
+   shots-total: 1081
+   shots-percent: 86
 years:
  - year: 2018
    event: Brier
@@ -86,8 +86,26 @@ years:
    takeout-percent: 85
    shots-total: 175
    shots-percent: 86
+ - year: 2023
+   event: Brier
+   team: "MB"
+   position: Fourth
+   games: 12
+   wins: 10
+   losses: 2
+   inturn-total: 150
+   inturn-percent: 86
+   outturn-total: 62
+   outturn-percent: 90
+   draw-total: 86
+   draw-percent: 88
+   takeout-total: 126
+   takeout-percent: 87
+   shots-total: 212
+   shots-percent: 87
 vs:
  - Aho, David
+ - Armstrong, Mike
  - Asselin, Felix
  - Barry, Josh
  - Bartling, Aaron
@@ -114,13 +132,16 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Gallant, Chris
+ - Gordon, Robbie
  - Grattan, James
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
  - Hebert, Ben
+ - Higgs, Jake
  - Hodgson, Colin
+ - Horgan, Jacob
  - Horgan, Tanner
  - Howard, Glenn
  - Howard, Greg
@@ -129,18 +150,24 @@ vs:
  - Janssen, Patrick
  - Jeffrey, Chris
  - Jensen, Trygg
+ - Jones, Brennen
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kingdon, Wade
+ - Knapp, Kelly
+ - Knapp, Trent
  - Koe, Jamie
  - Koe, Kevin
  - Laing, Brent
  - Latos, Evan
  - Laycock, Steve
  - Ledgerwood, Sean
+ - Lichty, Terry
  - Locke, Nathan
  - Lowery, Ryan
  - MacKenzie, Eddie
  - Mackey, Peter
+ - Manuel, Matthew
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
@@ -152,6 +179,7 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - Mcleod, Shadrach
+ - Meagher, Jeffrey
  - Middaugh, Wayne
  - Morris, John
  - Moskowy, Braeden
@@ -167,20 +195,26 @@ vs:
  - Parsons, Cole
  - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Sawatsky, Rick
  - Schneider, Catlin
  - Scoffin, Thomas
  - Smith, Greg
  - Smith, Tyler
+ - Smitheram, Christian
  - St.Louis, Brady
  - St.Louis, David
  - Stringer, Ben
+ - Tardi, Tyler
  - Thiessen, Brad
+ - Thomas, Jeff
  - Trepanier, Jean-Francois
  - Walker, Geoff
  - Wallingham, Joe
+ - Wettig, Sheldon
  - White, Edward
  - Winfield, Brett
  - Wozniak, Matt
  - Young, Nathan
+ - Zachernuk, Nick
 ---

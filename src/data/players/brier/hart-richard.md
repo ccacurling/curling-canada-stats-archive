@@ -158,6 +158,10 @@ years:
    takeout-percent: 86
    shots-total: 212
    shots-percent: 85
+ - year: 2023
+   event: Brier
+   team: "ON"
+   position: Alternate
 vs:
  - Adam, Gerry
  - Adams, Shawn

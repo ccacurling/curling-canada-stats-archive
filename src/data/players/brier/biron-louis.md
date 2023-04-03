@@ -179,7 +179,7 @@ vs:
  - Duce, Dallas
  - Eberts, Tony
  - Elkin, Derek
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Ernst, Georg
  - Ferster, Greg
  - Fitzherbert, Brad

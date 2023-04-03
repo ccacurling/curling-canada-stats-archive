@@ -102,7 +102,7 @@ vs:
  - Coulter, Mike
  - Delmage, Al
  - Dobson, Brian
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Ernst, Georg
  - Ferbey, Randy
  - Folk, Rick

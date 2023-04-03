@@ -4,19 +4,19 @@ name: Scott Jones
 name-sort: Jones, Scott
 totals:
  - event: Brier
-   games: 44
-   wins: 10
-   losses: 34
-   inturn-total: 361
-   inturn-percent: 78
-   outturn-total: 463
-   outturn-percent: 76
-   draw-total: 375
+   games: 52
+   wins: 11
+   losses: 41
+   inturn-total: 409
+   inturn-percent: 76
+   outturn-total: 565
+   outturn-percent: 75
+   draw-total: 449
    draw-percent: 77
-   takeout-total: 449
-   takeout-percent: 76
-   shots-total: 824
-   shots-percent: 77
+   takeout-total: 525
+   takeout-percent: 75
+   shots-total: 974
+   shots-percent: 76
 years:
  - year: 2007
    event: Brier
@@ -86,9 +86,28 @@ years:
    takeout-percent: 78
    shots-total: 210
    shots-percent: 78
+ - year: 2023
+   event: Brier
+   team: "NB"
+   position: Third
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 48
+   inturn-percent: 66
+   outturn-total: 102
+   outturn-percent: 74
+   draw-total: 74
+   draw-percent: 74
+   takeout-total: 76
+   takeout-percent: 69
+   shots-total: 150
+   shots-percent: 72
 vs:
  - Adam, Gerry
  - Armstrong, Mike
+ - Asselin, Emile
+ - Asselin, Felix
  - Atchison, Chris
  - Bardsley, Mike
  - Barker, Richard
@@ -105,6 +124,7 @@ vs:
  - Charette, Pierre
  - Chorostkowski, Brad
  - Clarey, Sean
+ - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
@@ -112,6 +132,7 @@ vs:
  - deConinck-Smith, Carl
  - Deis, Ryan
  - Desjardins, Robert
+ - Doering, Kyle
  - Doherty, Robbie
  - Ferland, Martin
  - Flasch, Colton
@@ -121,6 +142,9 @@ vs:
  - Gallant, Brett
  - Gallant, Peter
  - Gaudet, Mike
+ - Gauthier, Jacques
+ - Ginter, Jason
+ - Goller, Kurtis
  - Gould, Steve
  - Griffith, Tyrel
  - Gushue, Brad
@@ -128,13 +152,16 @@ vs:
  - Harnden, E.J.
  - Harnden, Ryan
  - Harris, Tyler
+ - Hart, Joey
  - Hart, Richard
  - Hebert, Ben
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Scott
  - Iskiw, Blayne
  - Jacobs, Brad
  - Jakomait, Dusty
+ - Jensen, Trygg
  - Joanisse, Dean
  - Kehoe, Mark
  - Kennedy, Marc
@@ -145,9 +172,12 @@ vs:
  - Kuhn, Ryan
  - Laing, Brent
  - Lang, Tyler
+ - Latos, Evan
  - Laycock, Steve
  - Lemay, Philippe
+ - Lind, J.D.
  - Lyburn, Allan
+ - MacFadyen, Alex
  - MacKenzie, Tyler
  - Manners, Scott
  - Martin, Karrick
@@ -159,6 +189,7 @@ vs:
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Morris, John
  - Moulding, Darren
  - Munroe, Steven
@@ -182,16 +213,22 @@ vs:
  - Scharf, Joe
  - Schille, Chris
  - Schneider, Catlin
+ - Scoffin, Thomas
  - Seabrook, Scott
  - Sharp, Jeff
  - Simmons, Pat
+ - Smith, Tyler
  - Spencer, Adam
  - Stoughton, Jeff
+ - Sturmay, Karsten
  - Sylvain, Eric
  - Thiessen, Brad
  - Thiessen, Nolan
  - Toner, Lee
+ - Trepanier, Jean-Francois
  - Walker, Geoff
+ - Wallingham, Joe
+ - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Wood, Mike

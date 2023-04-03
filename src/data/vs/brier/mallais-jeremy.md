@@ -30,6 +30,34 @@ vs:
       year: 2015
       draw: Round Robin(13)
       score: NB 9 - ON 4
+ - name: McEwen, Mike
+   totals:
+    - event: Brier
+      player1:
+        percent: 56
+        wins: 0
+        losses: 1
+      player2:
+        percent: 82
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 56
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 82
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(14)
+      score: NB 4 - ON 11
  - name: Menard, Jean-Michel
    totals:
     - event: Brier
@@ -86,6 +114,34 @@ vs:
       year: 2015
       draw: Round Robin(4)
       score: NB 5 - QC 8
+ - name: Middleton, Sterling
+   totals:
+    - event: Brier
+      player1:
+        percent: 67
+        wins: 0
+        losses: 1
+      player2:
+        percent: 95
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 95
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(12)
+      score: BC 10 - NB 4
  - name: Morris, John
    totals:
     - event: Brier
@@ -202,12 +258,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 59
+        percent: 67
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 94
-        wins: 1
+        percent: 87
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -226,6 +282,22 @@ vs:
       year: 2015
       draw: Round Robin(9)
       score: NL 10 - NB 2
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(5)
+      score: NB 9 - CA 13
  - name: Rycroft, Carter
    totals:
     - event: Brier
@@ -310,6 +382,34 @@ vs:
       year: 2015
       draw: Round Robin(15)
       score: NB 4 - BC 7
+ - name: Scoffin, Thomas
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(15)
+      score: YT 7 - NB 9
  - name: Simmons, Pat
    totals:
     - event: Brier
@@ -338,6 +438,62 @@ vs:
       year: 2015
       draw: Round Robin(6)
       score: NB 5 - CA 6
+ - name: Smith, Tyler
+   totals:
+    - event: Brier
+      player1:
+        percent: 73
+        wins: 0
+        losses: 1
+      player2:
+        percent: 68
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 68
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(3)
+      score: NB 8 - PE 9
+ - name: Sturmay, Karsten
+   totals:
+    - event: Brier
+      player1:
+        percent: 74
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(1)
+      score: NB 3 - WC 7
  - name: Sylvain, Eric
    totals:
     - event: Brier
@@ -394,16 +550,44 @@ vs:
       year: 2015
       draw: Round Robin(6)
       score: NB 5 - CA 6
+ - name: Trepanier, Jean-Francois
+   totals:
+    - event: Brier
+      player1:
+        percent: 70
+        wins: 0
+        losses: 1
+      player2:
+        percent: 95
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 95
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(18)
+      score: QC 11 - NB 4
  - name: Walker, Geoff
    totals:
     - event: Brier
       player1:
-        percent: 59
+        percent: 67
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 92
-        wins: 1
+        percent: 90
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -422,6 +606,78 @@ vs:
       year: 2015
       draw: Round Robin(9)
       score: NL 10 - NB 2
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(5)
+      score: NB 9 - CA 13
+ - name: Wallingham, Joe
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 73
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(15)
+      score: YT 7 - NB 9
+ - name: White, Edward
+   totals:
+    - event: Brier
+      player1:
+        percent: 73
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(3)
+      score: NB 8 - PE 9
  - name: Whitehead, Mark
    totals:
     - event: Brier

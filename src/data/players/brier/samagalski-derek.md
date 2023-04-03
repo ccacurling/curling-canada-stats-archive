@@ -4,18 +4,18 @@ name: Derek Samagalski
 name-sort: Samagalski, Derek
 totals:
  - event: Brier
-   games: 76
-   wins: 40
-   losses: 36
-   inturn-total: 672
-   inturn-percent: 86
-   outturn-total: 715
+   games: 84
+   wins: 44
+   losses: 40
+   inturn-total: 750
+   inturn-percent: 85
+   outturn-total: 791
    outturn-percent: 87
-   draw-total: 765
+   draw-total: 819
    draw-percent: 87
-   takeout-total: 622
-   takeout-percent: 86
-   shots-total: 1387
+   takeout-total: 722
+   takeout-percent: 85
+   shots-total: 1541
    shots-percent: 86
 years:
  - year: 2012
@@ -137,6 +137,23 @@ years:
    takeout-percent: 85
    shots-total: 148
    shots-percent: 85
+ - year: 2023
+   event: Brier
+   team: "WC"
+   position: Third
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 78
+   inturn-percent: 82
+   outturn-total: 76
+   outturn-percent: 83
+   draw-total: 54
+   draw-percent: 83
+   takeout-total: 100
+   takeout-percent: 82
+   shots-total: 154
+   shots-percent: 82
 vs:
  - Abel, Clinton
  - Abraham, Ryan
@@ -175,6 +192,7 @@ vs:
  - Flasch, Colton
  - Flemming, Paul
  - Folk, Kevin
+ - Follett, Sam
  - Ford, Chris
  - Forget, Wesley
  - Forrest, Alex
@@ -192,6 +210,10 @@ vs:
  - Harnden, Ryan
  - Harris, Tyler
  - Hebert, Ben
+ - Higgs, Jake
+ - Hodgson, Colin
+ - Horgan, Jacob
+ - Horgan, Tanner
  - Howard, Glenn
  - Howard, Greg
  - Howard, Scott
@@ -200,12 +222,15 @@ vs:
  - Jeffrey, Chris
  - Jensen, Trygg
  - Jewer, Keith
+ - Jones, Brennen
  - Jones, Scott
  - Kean, Mark
  - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
  - Kingdon, Wade
+ - Knapp, Kelly
+ - Knapp, Trent
  - Koe, Jamie
  - Koe, Kevin
  - Kolomaya, Jared
@@ -215,12 +240,16 @@ vs:
  - Laycock, Steve
  - Ledgerwood, Sean
  - Lemay, Philippe
+ - Lichty, Terry
  - Likely, John
+ - Locke, Nathan
+ - Lott, Colton
  - MacKenzie, Eddie
  - MacKenzie, Tyler
  - Mackey, Peter
  - Mallais, Jeremy
  - Manners, Scott
+ - Manuel, Matthew
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
@@ -232,6 +261,7 @@ vs:
  - McEwen, Mike
  - Mckinnon, Robert
  - Mcleod, Shadrach
+ - Meagher, Jeffrey
  - Meister, Nicholas
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -265,6 +295,7 @@ vs:
  - Roy, Jean-Sebastien
  - Rycroft, Carter
  - Saccary, Scott
+ - Saunders, Luke
  - Savill, Craig
  - Sawatsky, Rick
  - Schneider, Catlin
@@ -273,10 +304,14 @@ vs:
  - Simmons, Pat
  - Skauge, Greg
  - Smallwood, Robert
+ - Smitheram, Christian
  - Solberg, Jon
+ - St.Louis, Brady
  - St.Louis, David
+ - Stringer, Ben
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Trepanier, Jean-Francois
@@ -284,7 +319,10 @@ vs:
  - Villeneuve, Steeve
  - Walker, Geoff
  - Wallingham, Joe
+ - Wettig, Sheldon
  - Whitehead, Mark
  - Winfield, Brett
  - Wozniak, Matt
+ - Young, Nathan
+ - Zachernuk, Nick
 ---

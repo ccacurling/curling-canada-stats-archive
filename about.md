@@ -38,6 +38,10 @@ Dave Thomas
 
 ## Changelog
 
+### 2023-04-03
+
+ * Added 2023 Brier data.
+
 ### 2023-03-23
 
  * Updates to Macdonald Brier data.

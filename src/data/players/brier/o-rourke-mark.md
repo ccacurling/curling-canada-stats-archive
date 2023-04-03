@@ -318,7 +318,7 @@ vs:
  - Dauphinee, Andrew
  - Dobson, Paul
  - Doerr, Bob
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Enright, Adam
  - Ernst, Georg
  - Feldman, Alfred

@@ -70,7 +70,7 @@ vs:
  - Duce, Dallas
  - Durant, Fred
  - Eden, Brian
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Ernst, Georg
  - Ferguson, John
  - Fizzard, Blake

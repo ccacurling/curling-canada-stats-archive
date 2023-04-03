@@ -177,7 +177,7 @@ vs:
  - Duce, Dallas
  - Eden, Brian
  - Ellert, Bob
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Ernst, Georg
  - Evoy, Rich
  - Feldman, Alfred

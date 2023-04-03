@@ -4,19 +4,19 @@ name: Connor Njegovan
 name-sort: Njegovan, Connor
 totals:
  - event: Brier
-   games: 33
-   wins: 17
-   losses: 16
-   inturn-total: 79
-   inturn-percent: 93
-   outturn-total: 533
-   outturn-percent: 91
-   draw-total: 537
-   draw-percent: 92
-   takeout-total: 75
-   takeout-percent: 92
-   shots-total: 612
-   shots-percent: 92
+   games: 41
+   wins: 21
+   losses: 20
+   inturn-total: 151
+   inturn-percent: 89
+   outturn-total: 615
+   outturn-percent: 90
+   draw-total: 603
+   draw-percent: 90
+   takeout-total: 163
+   takeout-percent: 89
+   shots-total: 766
+   shots-percent: 90
 years:
  - year: 2020
    event: Brier
@@ -69,8 +69,26 @@ years:
    takeout-percent: 91
    shots-total: 184
    shots-percent: 92
+ - year: 2023
+   event: Brier
+   team: "WC"
+   position: Second
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 72
+   inturn-percent: 85
+   outturn-total: 82
+   outturn-percent: 84
+   draw-total: 66
+   draw-percent: 81
+   takeout-total: 88
+   takeout-percent: 87
+   shots-total: 154
+   shots-percent: 84
 vs:
  - Abraham, Ryan
+ - Armstrong, Mike
  - Asselin, Emile
  - Asselin, Felix
  - Bedard, Alek
@@ -89,6 +107,7 @@ vs:
  - Epping, John
  - Flasch, Colton
  - Flemming, Paul
+ - Follett, Sam
  - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
@@ -100,13 +119,18 @@ vs:
  - Hebert, Ben
  - Higgs, Jake
  - Hodgson, Colin
+ - Horgan, Jacob
+ - Horgan, Tanner
  - Howard, Greg
  - Howard, Scott
  - Jacobs, Brad
  - Janssen, Patrick
+ - Jones, Brennen
  - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
+ - Knapp, Kelly
+ - Knapp, Trent
  - Koe, Jamie
  - Koe, Kevin
  - Kohlenberg, Dale
@@ -114,16 +138,21 @@ vs:
  - Laing, Brent
  - Laycock, Steve
  - Lequin, Bradley
+ - Lichty, Terry
+ - Locke, Nathan
  - Lott, Colton
  - MacAulay, Ian
  - Mackey, Peter
+ - Manuel, Matthew
  - March, Tim
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
  - McEwen, Mike
  - Mckinnon, Robert
+ - Mcleod, Shadrach
  - NcNeil-Lamswood, Ryan
+ - Meagher, Jeffrey
  - Meister, Nicholas
  - Middaugh, Wayne
  - Mikkelsen, Dustin
@@ -147,12 +176,18 @@ vs:
  - Richard, Jeff
  - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Sawatsky, Rick
  - Schneider, Catlin
  - Skauge, Greg
  - Smitheram, Christian
+ - St.Louis, Brady
+ - Stringer, Ben
+ - Tardi, Tyler
  - Thiessen, Brad
  - Trepanier, Jean-Francois
  - Walker, Geoff
  - Wettig, Sheldon
+ - Young, Nathan
+ - Zachernuk, Nick
 ---

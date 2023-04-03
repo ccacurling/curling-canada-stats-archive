@@ -279,7 +279,7 @@ vs:
  - Dutiaume, Randy
  - Eldridge, Zach
  - Elias, Dave
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Eloranta, Drew
  - Errington, Derek
  - Farnell, Jamie

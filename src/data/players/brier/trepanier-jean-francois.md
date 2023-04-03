@@ -4,18 +4,18 @@ name: Jean-Francois Trepanier
 name-sort: Trepanier, Jean-Francois
 totals:
  - event: Brier
-   games: 24
-   wins: 11
-   losses: 13
-   inturn-total: 170
+   games: 32
+   wins: 16
+   losses: 16
+   inturn-total: 196
    inturn-percent: 90
-   outturn-total: 256
+   outturn-total: 375
    outturn-percent: 91
-   draw-total: 393
+   draw-total: 520
    draw-percent: 91
-   takeout-total: 33
-   takeout-percent: 83
-   shots-total: 426
+   takeout-total: 51
+   takeout-percent: 89
+   shots-total: 571
    shots-percent: 91
 years:
  - year: 2018
@@ -69,49 +69,82 @@ years:
    takeout-percent: 79
    shots-total: 132
    shots-percent: 93
+ - year: 2023
+   event: Brier
+   team: "QC"
+   position: Lead
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 26
+   inturn-percent: 92
+   outturn-total: 119
+   outturn-percent: 91
+   draw-total: 127
+   draw-percent: 90
+   takeout-total: 18
+   takeout-percent: 99
+   shots-total: 145
+   shots-percent: 91
 vs:
  - Abraham, Ryan
  - Barry, Josh
+ - Bezanson, Jared
  - Blyde, Greg
  - Borden, Robert
+ - Bottcher, Brendan
  - Camm, Mathew
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
  - Chorostkowski, Brad
  - Chown, Jeff
+ - Cocks, Adam
  - Crowell, Phil
+ - Doering, Kyle
  - Dunstone, Matt
  - Epping, John
  - Flemming, Paul
  - Fry, Ryan
  - Gallant, Brett
  - Gallant, Chris
+ - Gauthier, Jacques
+ - Ginter, Jason
+ - Goller, Kurtis
  - Grattan, James
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
+ - Hart, Joey
  - Hebert, Ben
  - Hodgson, Colin
+ - Horvath, Alex
  - Howard, Greg
  - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Jensen, Trygg
+ - Jones, Scott
  - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
+ - King, Brian
  - Kingdon, Wade
  - Koe, Jamie
  - Koe, Kevin
  - Kolomaya, Jared
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - Ledgerwood, Sean
+ - Lind, J.D.
  - Lott, Colton
  - Lowery, Ryan
+ - MacFadyen, Alex
  - MacKenzie, Eddie
  - Mackey, Peter
+ - Mallais, Jeremy
  - March, Tim
  - McCann, Andy
  - McDonah, Alex
@@ -119,6 +152,7 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - Meister, Nicholas
+ - Middleton, Sterling
  - Morris, John
  - Moskowy, Braeden
  - Muyres, Dallan
@@ -135,10 +169,14 @@ vs:
  - Saccary, Scott
  - Samagalski, Derek
  - Schille, Chris
+ - Scoffin, Thomas
  - Smith, Greg
  - Smith, Tyler
  - St.Louis, Brady
  - St.Louis, David
+ - Sturmay, Karsten
  - Walker, Geoff
+ - Wallingham, Joe
+ - White, Edward
  - Wozniak, Matt
 ---

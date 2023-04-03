@@ -46,7 +46,7 @@ vs:
  - Charette, Pierre
  - Coulter, Mike
  - Duce, Dallas
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Gallant, Peter
  - Grant, Scott
  - Grattan, James

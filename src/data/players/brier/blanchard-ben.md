@@ -66,7 +66,7 @@ vs:
  - Cowan, Chad
  - Dowden, Craig
  - Elias, Dave
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Elmaleh, Maxime
  - Eloranta, Drew
  - Ferbey, Randy

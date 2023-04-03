@@ -69,7 +69,7 @@ vs:
  - Collins, Ron
  - Duce, Dallas
  - Elias, Dave
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Elmaleh, Maxime
  - Eloranta, Drew
  - Ernst, Georg

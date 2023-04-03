@@ -4,19 +4,19 @@ name: Jeff Thomas
 name-sort: Thomas, Jeff
 totals:
  - event: Brier
-   games: 35
+   games: 37
    wins: 11
-   losses: 24
-   inturn-total: 328
-   inturn-percent: 74
-   outturn-total: 292
+   losses: 26
+   inturn-total: 338
+   inturn-percent: 75
+   outturn-total: 310
    outturn-percent: 68
-   draw-total: 296
-   draw-percent: 68
-   takeout-total: 324
+   draw-total: 317
+   draw-percent: 69
+   takeout-total: 331
    takeout-percent: 74
-   shots-total: 620
-   shots-percent: 71
+   shots-total: 648
+   shots-percent: 72
 years:
  - year: 1984
    event: Brier
@@ -88,6 +88,54 @@ years:
    takeout-percent: 100
    shots-total: 6
    shots-percent: 83
+ - year: 2023
+   event: Brier
+   team: "NL"
+   position: Lead
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 1
+   inturn-percent: 100
+   outturn-total: 7
+   outturn-percent: 82
+   draw-total: 8
+   draw-percent: 84
+   shots-total: 8
+   shots-percent: 84
+ - year: 2023
+   event: Brier
+   team: "NL"
+   position: Third
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 9
+   inturn-percent: 89
+   outturn-total: 11
+   outturn-percent: 80
+   draw-total: 13
+   draw-percent: 77
+   takeout-total: 7
+   takeout-percent: 96
+   shots-total: 20
+   shots-percent: 84
+ - year: 2023
+   event: Brier
+   team: Totals
+   games: 2
+   wins: 0
+   losses: 2
+   inturn-total: 10
+   inturn-percent: 90
+   outturn-total: 18
+   outturn-percent: 81
+   draw-total: 21
+   draw-percent: 80
+   takeout-total: 7
+   takeout-percent: 96
+   shots-total: 28
+   shots-percent: 84
 vs:
  - Aitken, Don
  - Armstrong, Jim
@@ -119,6 +167,7 @@ vs:
  - Dobson, Michael
  - Doerr, Bob
  - Duce, Dallas
+ - Dunstone, Matt
  - Ernst, Georg
  - Ferguson, John
  - Fletcher, Bill
@@ -132,6 +181,7 @@ vs:
  - Grattan, James
  - Hackner, Al
  - Hakansson, Thomas
+ - Harnden, Ryan
  - Harrison, Neil
  - Heintz, Jim
  - Helston, John
@@ -158,6 +208,7 @@ vs:
  - Likely, John
  - Loeffler, Ken
  - Lord, Lovel
+ - Lott, Colton
  - Lukowich, Ed
  - MacDonald, Edmund
  - MacDonald, Ken
@@ -179,6 +230,7 @@ vs:
  - Miller, Bob
  - Moore, Claude
  - Morris, Earle
+ - Neufeld, B.J.
  - Neufeld, Chris
  - Nowlan, Daryell
  - O'Rourke, Mark
@@ -199,6 +251,7 @@ vs:
  - Schleppe, Dave
  - Smitheram, Christian
  - Sparkes, Bernie
+ - St.Louis, Brady
  - Strain, Bill
  - Stuart, Darol
  - Sullivan, Charles Jr.

@@ -91,7 +91,7 @@ vs:
  - Despins, Glen
  - Dobson, Mark
  - Dowden, Craig
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Elmaleh, Maxime
  - Fenton, Darin
  - Fetterly, Tom

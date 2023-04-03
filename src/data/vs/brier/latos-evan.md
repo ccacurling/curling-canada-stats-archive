@@ -2,6 +2,34 @@
 title: Evan Latos Head-to-head
 name: Latos, Evan
 vs:
+ - name: Lind, J.D.
+   totals:
+    - event: Brier
+      player1:
+        percent: 89
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(7)
+      score: YT 6 - WC 7
  - name: Locke, Nathan
    totals:
     - event: Brier
@@ -58,6 +86,62 @@ vs:
       year: 2022
       draw: Round Robin(3)
       score: YT 13 - PE 7
+ - name: MacFadyen, Alex
+   totals:
+    - event: Brier
+      player1:
+        percent: 70
+        wins: 1
+        losses: 0
+      player2:
+        percent: 55
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'YT'
+        position: Lead
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 55
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(12)
+      score: YT 9 - PE 2
+ - name: Mallais, Jeremy
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(15)
+      score: YT 7 - NB 9
  - name: March, Tim
    totals:
     - event: Brier
@@ -226,6 +310,62 @@ vs:
       year: 2022
       draw: Round Robin(15)
       score: YT 2 - NB 8
+ - name: McEwen, Mike
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(10)
+      score: ON 10 - YT 7
+ - name: Middleton, Sterling
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'YT'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 79
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(5)
+      score: BC 8 - YT 10
  - name: Morris, John
    totals:
     - event: Brier
@@ -366,6 +506,34 @@ vs:
       year: 2022
       draw: Round Robin(7)
       score: YT 3 - AB 9
+ - name: Nichols, Mark
+   totals:
+    - event: Brier
+      player1:
+        percent: 94
+        wins: 0
+        losses: 1
+      player2:
+        percent: 91
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(18)
+      score: YT 3 - CA 8
  - name: Rycroft, Carter
    totals:
     - event: Brier
@@ -482,13 +650,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 73
-        wins: 1
+        percent: 72
+        wins: 2
         losses: 0
       player2:
-        percent: 53
+        percent: 58
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'YT'
@@ -506,6 +674,22 @@ vs:
       year: 2022
       draw: Round Robin(3)
       score: YT 13 - PE 7
+    - player1:
+        team: 'YT'
+        position: Lead
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 63
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(12)
+      score: YT 9 - PE 2
  - name: Spencer, Adam
    totals:
     - event: Brier
@@ -562,6 +746,34 @@ vs:
       year: 2022
       draw: Round Robin(1)
       score: NL 7 - YT 5
+ - name: Sturmay, Karsten
+   totals:
+    - event: Brier
+      player1:
+        percent: 89
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(7)
+      score: YT 6 - WC 7
  - name: Thiessen, Brad
    totals:
     - event: Brier
@@ -590,17 +802,101 @@ vs:
       year: 2022
       draw: Round Robin(11)
       score: CA 10 - YT 4
+ - name: Trepanier, Jean-Francois
+   totals:
+    - event: Brier
+      player1:
+        percent: 94
+        wins: 0
+        losses: 1
+      player2:
+        percent: 92
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 92
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(3)
+      score: QC 8 - YT 2
+ - name: Venance, Glenn
+   totals:
+    - event: Brier
+      player1:
+        percent: 89
+        wins: 0
+        losses: 1
+      player2:
+        percent: 91
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(7)
+      score: YT 6 - WC 7
+ - name: Walker, Geoff
+   totals:
+    - event: Brier
+      player1:
+        percent: 94
+        wins: 0
+        losses: 1
+      player2:
+        percent: 98
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 98
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(18)
+      score: YT 3 - CA 8
  - name: White, Edward
    totals:
     - event: Brier
       player1:
-        percent: 73
-        wins: 1
+        percent: 72
+        wins: 2
         losses: 0
       player2:
-        percent: 67
+        percent: 70
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'YT'
@@ -618,6 +914,22 @@ vs:
       year: 2022
       draw: Round Robin(3)
       score: YT 13 - PE 7
+    - player1:
+        team: 'YT'
+        position: Lead
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 72
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(12)
+      score: YT 9 - PE 2
  - name: Young, Nathan
    totals:
     - event: Brier

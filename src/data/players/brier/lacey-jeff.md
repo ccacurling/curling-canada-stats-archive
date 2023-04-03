@@ -111,7 +111,7 @@ vs:
  - Dillon, Mike
  - Doerr, Bob
  - Duce, Dallas
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Elmaleh, Maxime
  - Ernst, Georg
  - Fenton, Keith

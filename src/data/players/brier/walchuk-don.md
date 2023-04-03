@@ -212,7 +212,7 @@ vs:
  - Duce, Dallas
  - Eberts, Tony
  - Elkin, Derek
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Elmaleh, Maxime
  - Ernst, Georg
  - Ferraro, Marco

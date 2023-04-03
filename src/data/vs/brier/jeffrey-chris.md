@@ -438,6 +438,34 @@ vs:
       year: 2015
       draw: Round Robin(4)
       score: NB 5 - QC 8
+ - name: Middleton, Sterling
+   totals:
+    - event: Brier
+      player1:
+        percent: 100
+        wins: 0
+        losses: 1
+      player2:
+        percent: 95
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Second
+        percent: 100
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 95
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(12)
+      score: BC 10 - NB 4
  - name: Morris, John
    totals:
     - event: Brier

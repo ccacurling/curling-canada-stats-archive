@@ -340,7 +340,7 @@ vs:
  - Edl, Don
  - Elias, Dave
  - Elkin, Derek
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Elliott, Rick
  - Elmaleh, Maxime
  - Eloranta, Drew

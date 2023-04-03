@@ -321,7 +321,7 @@ vs:
  - Eberts, Tony
  - Elias, Dave
  - Elkin, Derek
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Elmaleh, Maxime
  - Eloranta, Drew
  - Fawcett, Brian

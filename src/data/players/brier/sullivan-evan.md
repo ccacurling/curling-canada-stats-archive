@@ -68,7 +68,7 @@ vs:
  - Dacey, Mark
  - Dieno, Clint
  - Dowden, Craig
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Elmaleh, Maxime
  - Fawcett, Brian
  - Fenton, Brad

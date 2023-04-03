@@ -142,7 +142,7 @@ vs:
       year: 1997
       draw: Round Robin(2)
       score: SK 6 - NO 5
- - name: Ellis, Ken
+ - name: Ellis, Ken Jr.
    totals:
     - event: Brier
       player1:

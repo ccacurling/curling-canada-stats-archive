@@ -4,18 +4,18 @@ name: Colin Hodgson
 name-sort: Hodgson, Colin
 totals:
  - event: Brier
-   games: 53
-   wins: 26
-   losses: 27
-   inturn-total: 360
+   games: 62
+   wins: 32
+   losses: 30
+   inturn-total: 406
    inturn-percent: 89
-   outturn-total: 620
-   outturn-percent: 94
-   draw-total: 857
-   draw-percent: 93
-   takeout-total: 123
+   outturn-total: 742
+   outturn-percent: 93
+   draw-total: 1009
+   draw-percent: 92
+   takeout-total: 139
    takeout-percent: 87
-   shots-total: 980
+   shots-total: 1148
    shots-percent: 92
 years:
  - year: 2015
@@ -103,9 +103,27 @@ years:
    takeout-percent: 84
    shots-total: 146
    shots-percent: 91
+ - year: 2023
+   event: Brier
+   team: "NO"
+   position: Lead
+   games: 9
+   wins: 6
+   losses: 3
+   inturn-total: 46
+   inturn-percent: 87
+   outturn-total: 122
+   outturn-percent: 90
+   draw-total: 152
+   draw-percent: 88
+   takeout-total: 16
+   takeout-percent: 94
+   shots-total: 168
+   shots-percent: 89
 vs:
  - Abel, Clinton
  - Aho, David
+ - Armstrong, Mike
  - Asselin, Felix
  - Barry, Josh
  - Beuk, Jonathan
@@ -117,6 +135,7 @@ vs:
  - Burgess, Steve
  - Camm, Mathew
  - Carmody, Anson
+ - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
  - Chadwick, Scott
@@ -132,6 +151,7 @@ vs:
  - Epping, John
  - Flasch, Colton
  - Flemming, Paul
+ - Follett, Sam
  - Ford, Chris
  - Forget, Wesley
  - Forrest, Alex
@@ -139,6 +159,7 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Gallant, Chris
+ - Gordon, Robbie
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -147,16 +168,21 @@ vs:
  - Harnden, E.J.
  - Harnden, Ryan
  - Hebert, Ben
+ - Higgs, Jake
  - Howard, Scott
  - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
  - Jensen, Trygg
  - Jewer, Keith
+ - Jones, Brennen
  - Kean, Mark
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
  - Kingdon, Wade
+ - Knapp, Kelly
+ - Knapp, Trent
  - Koe, Jamie
  - Koe, Kevin
  - Kuhn, Ryan
@@ -165,9 +191,12 @@ vs:
  - Ledgerwood, Sean
  - Lemay, Philippe
  - Likely, John
+ - Locke, Nathan
+ - Lott, Colton
  - MacKenzie, Eddie
  - Mackey, Peter
  - Mallais, Jeremy
+ - Manuel, Matthew
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
@@ -178,6 +207,7 @@ vs:
  - McEwen, Mike
  - Mckinnon, Robert
  - Mcleod, Shadrach
+ - Meagher, Jeffrey
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -200,24 +230,34 @@ vs:
  - Patzer, Brad
  - Peech, Alexander
  - Rach, Dave
+ - Robertson, Stephen
  - Rycroft, Carter
  - Saccary, Scott
+ - Samagalski, Derek
+ - Saunders, Luke
  - Sawatsky, Rick
  - Schneider, Catlin
  - Scoffin, Thomas
  - Simmons, Pat
  - Skauge, Greg
  - Smallwood, Robert
+ - Smitheram, Christian
  - Solberg, Jon
+ - St.Louis, Brady
  - St.Louis, David
+ - Stringer, Ben
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Trepanier, Jean-Francois
  - Walker, Geoff
  - Wallingham, Joe
+ - Wettig, Sheldon
  - Whitehead, Mark
  - Winfield, Brett
  - Wozniak, Matt
+ - Young, Nathan
+ - Zachernuk, Nick
 ---

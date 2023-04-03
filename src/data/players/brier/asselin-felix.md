@@ -4,18 +4,18 @@ name: Felix Asselin
 name-sort: Asselin, Felix
 totals:
  - event: Brier
-   games: 24
-   wins: 11
-   losses: 13
-   inturn-total: 202
-   inturn-percent: 81
-   outturn-total: 230
+   games: 32
+   wins: 16
+   losses: 16
+   inturn-total: 256
+   inturn-percent: 79
+   outturn-total: 318
    outturn-percent: 82
-   draw-total: 199
+   draw-total: 260
    draw-percent: 81
-   takeout-total: 233
+   takeout-total: 314
    takeout-percent: 81
-   shots-total: 432
+   shots-total: 574
    shots-percent: 81
 years:
  - year: 2018
@@ -69,49 +69,82 @@ years:
    takeout-percent: 78
    shots-total: 138
    shots-percent: 78
+ - year: 2023
+   event: Brier
+   team: "QC"
+   position: Fourth
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 54
+   inturn-percent: 75
+   outturn-total: 88
+   outturn-percent: 83
+   draw-total: 61
+   draw-percent: 80
+   takeout-total: 81
+   takeout-percent: 80
+   shots-total: 142
+   shots-percent: 80
 vs:
  - Abraham, Ryan
  - Barry, Josh
+ - Bezanson, Jared
  - Blyde, Greg
  - Borden, Robert
+ - Bottcher, Brendan
  - Camm, Mathew
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
  - Chorostkowski, Brad
  - Chown, Jeff
+ - Cocks, Adam
  - Crowell, Phil
+ - Doering, Kyle
  - Dunstone, Matt
  - Epping, John
  - Flemming, Paul
  - Fry, Ryan
  - Gallant, Brett
  - Gallant, Chris
+ - Gauthier, Jacques
+ - Ginter, Jason
+ - Goller, Kurtis
  - Grattan, James
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
+ - Hart, Joey
  - Hebert, Ben
  - Hodgson, Colin
+ - Horvath, Alex
  - Howard, Greg
  - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Jensen, Trygg
+ - Jones, Scott
  - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
+ - King, Brian
  - Kingdon, Wade
  - Koe, Jamie
  - Koe, Kevin
  - Kolomaya, Jared
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - Ledgerwood, Sean
+ - Lind, J.D.
  - Lott, Colton
  - Lowery, Ryan
+ - MacFadyen, Alex
  - MacKenzie, Eddie
  - Mackey, Peter
+ - Mallais, Jeremy
  - March, Tim
  - McCann, Andy
  - McDonah, Alex
@@ -119,6 +152,7 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - Meister, Nicholas
+ - Middleton, Sterling
  - Morris, John
  - Moskowy, Braeden
  - Muyres, Dallan
@@ -135,10 +169,14 @@ vs:
  - Saccary, Scott
  - Samagalski, Derek
  - Schille, Chris
+ - Scoffin, Thomas
  - Smith, Greg
  - Smith, Tyler
  - St.Louis, Brady
  - St.Louis, David
+ - Sturmay, Karsten
  - Walker, Geoff
+ - Wallingham, Joe
+ - White, Edward
  - Wozniak, Matt
 ---

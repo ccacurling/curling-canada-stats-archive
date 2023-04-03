@@ -4,18 +4,18 @@ name: Chris Jeffrey
 name-sort: Jeffrey, Chris
 totals:
  - event: Brier
-   games: 19
+   games: 20
    wins: 5
-   losses: 14
+   losses: 15
    inturn-total: 156
    inturn-percent: 78
-   outturn-total: 196
+   outturn-total: 198
    outturn-percent: 82
-   draw-total: 175
+   draw-total: 177
    draw-percent: 82
    takeout-total: 177
    takeout-percent: 78
-   shots-total: 352
+   shots-total: 354
    shots-percent: 80
 years:
  - year: 2015
@@ -56,6 +56,19 @@ years:
    event: Brier
    team: "NB"
    position: Alternate
+ - year: 2023
+   event: Brier
+   team: "NB"
+   position: Second
+   games: 1
+   wins: 0
+   losses: 1
+   outturn-total: 2
+   outturn-percent: 100
+   draw-total: 2
+   draw-percent: 100
+   shots-total: 2
+   shots-percent: 100
 vs:
  - Asselin, Felix
  - Barry, Josh
@@ -77,7 +90,9 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Gallant, Chris
+ - Gauthier, Jacques
  - Geall, Sean
+ - Ginter, Jason
  - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
@@ -85,6 +100,7 @@ vs:
  - Hebert, Ben
  - Hodgson, Colin
  - Horgan, Tanner
+ - Horvath, Alex
  - Howard, Scott
  - Jacobs, Brad
  - Janssen, Patrick
@@ -103,6 +119,7 @@ vs:
  - Mathers, David
  - Menard, Jean-Michel
  - Menard, Philippe
+ - Middleton, Sterling
  - Morris, John
  - Moskowy, Braeden
  - Muyres, Dallan

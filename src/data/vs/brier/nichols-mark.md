@@ -2146,13 +2146,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 97
-        wins: 1
+        percent: 94
+        wins: 2
         losses: 0
       player2:
-        percent: 73
+        percent: 74
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'CA'
@@ -2170,17 +2170,33 @@ vs:
       year: 2018
       draw: Round Robin(4)
       score: CA 8 - YT 3
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(18)
+      score: YT 3 - CA 8
  - name: Scoffin, Wade
    totals:
     - event: Brier
       player1:
         percent: 90
-        wins: 2
+        wins: 3
         losses: 0
       player2:
-        percent: 71
+        percent: 76
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'NL'
@@ -2214,6 +2230,22 @@ vs:
       year: 2018
       draw: Round Robin(4)
       score: CA 8 - YT 3
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(18)
+      score: YT 3 - CA 8
  - name: Seabrook, Matt
    totals:
     - event: Brier
@@ -2630,13 +2662,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 93
-        wins: 1
+        percent: 88
+        wins: 2
         losses: 0
       player2:
-        percent: 73
+        percent: 71
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'CA'
@@ -2654,6 +2686,22 @@ vs:
       year: 2021
       draw: Round Robin(13)
       score: CA 8 - PE 4
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(9)
+      score: PE 6 - CA 8
  - name: Smitheram, Christian
    totals:
     - event: Brier
@@ -3002,6 +3050,34 @@ vs:
       year: 2011
       draw: Page 1-2(18)
       score: NL 6 - MB 7
+ - name: Sturmay, Karsten
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 77
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Fourth
+        percent: 77
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(16)
+      score: CA 8 - WC 3
  - name: Sullivan, Charles Jr.
    totals:
     - event: Brier
@@ -3655,12 +3731,12 @@ vs:
     - event: Brier
       player1:
         percent: 85
-        wins: 2
+        wins: 3
         losses: 0
       player2:
-        percent: 95
+        percent: 94
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'CA'
@@ -3694,6 +3770,22 @@ vs:
       year: 2022
       draw: Round Robin(2)
       score: QC 3 - WC 9
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(8)
+      score: QC 7 - CA 8
  - name: Trevellyan, Todd
    totals:
     - event: Brier
@@ -3854,6 +3946,34 @@ vs:
       year: 2010
       draw: Round Robin(11)
       score: NB 3 - NL 8
+ - name: Venance, Glenn
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 92
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 92
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(16)
+      score: CA 8 - WC 3
  - name: Villeneuve, Steeve
    totals:
     - event: Brier
@@ -4122,6 +4242,34 @@ vs:
       year: 2020
       draw: Round Robin(9)
       score: NL 7 - NU 2
+ - name: White, Edward
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(9)
+      score: PE 6 - CA 8
  - name: Whitehead, Kevin
    totals:
     - event: Brier

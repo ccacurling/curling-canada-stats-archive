@@ -142,6 +142,34 @@ vs:
       year: 2002
       draw: Round Robin(2)
       score: PE 5 - TR 6
+ - name: Smith, Tyler
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 63
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(12)
+      score: YT 9 - PE 2
  - name: St.Louis, David
    totals:
     - event: Brier
@@ -170,6 +198,34 @@ vs:
       year: 2018
       draw: Pool(17)
       score: YT 7 - NU 6
+ - name: Sturmay, Karsten
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(7)
+      score: YT 6 - WC 7
  - name: Suchy, Chris
    totals:
     - event: Brier
@@ -366,16 +422,44 @@ vs:
       year: 2008
       draw: Round Robin(5)
       score: TR 4 - NB 9
+ - name: Venance, Glenn
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 91
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(7)
+      score: YT 6 - WC 7
  - name: Walker, Geoff
    totals:
     - event: Brier
       player1:
-        percent: 77
+        percent: 80
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 96
-        wins: 1
+        percent: 98
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -394,6 +478,50 @@ vs:
       year: 2018
       draw: Round Robin(4)
       score: CA 8 - YT 3
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 98
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(18)
+      score: YT 3 - CA 8
+ - name: White, Edward
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 72
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 72
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(12)
+      score: YT 9 - PE 2
  - name: Withycombe, Ian
    totals:
     - event: Brier

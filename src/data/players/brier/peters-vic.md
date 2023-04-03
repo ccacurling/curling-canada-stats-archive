@@ -92,7 +92,7 @@ vs:
  - Delmage, Al
  - Duce, Dallas
  - Elkin, Derek
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Ernst, Georg
  - Ferster, Greg
  - Fitzherbert, Brad

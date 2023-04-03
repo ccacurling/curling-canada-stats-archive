@@ -1,7 +1,7 @@
 ---
-title: Ken Ellis
-name: Ken Ellis
-name-sort: Ellis, Ken
+title: Ken Jr. Ellis
+name: Ken Jr. Ellis
+name-sort: Ellis, Ken Jr.
 totals:
  - event: Brier
    games: 22

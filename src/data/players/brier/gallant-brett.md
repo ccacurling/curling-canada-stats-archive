@@ -4,18 +4,18 @@ name: Brett Gallant
 name-sort: Gallant, Brett
 totals:
  - event: Brier
-   games: 127
-   wins: 95
-   losses: 32
-   inturn-total: 1033
+   games: 139
+   wins: 104
+   losses: 35
+   inturn-total: 1125
    inturn-percent: 85
-   outturn-total: 1413
+   outturn-total: 1545
    outturn-percent: 88
-   draw-total: 929
+   draw-total: 1031
    draw-percent: 86
-   takeout-total: 1517
+   takeout-total: 1639
    takeout-percent: 87
-   shots-total: 2446
+   shots-total: 2670
    shots-percent: 87
 years:
  - year: 2013
@@ -254,6 +254,23 @@ years:
    takeout-percent: 85
    shots-total: 261
    shots-percent: 85
+ - year: 2023
+   event: Brier
+   team: "WC"
+   position: Second
+   games: 12
+   wins: 9
+   losses: 3
+   inturn-total: 92
+   inturn-percent: 87
+   outturn-total: 132
+   outturn-percent: 90
+   draw-total: 102
+   draw-percent: 89
+   takeout-total: 122
+   takeout-percent: 89
+   shots-total: 224
+   shots-percent: 89
 vs:
  - Abraham, Ryan
  - Aho, David
@@ -286,12 +303,14 @@ vs:
  - Chorostkowski, Brad
  - Chown, Jeff
  - Cochrane, Bryan
+ - Cocks, Adam
  - Colter, Travis
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
  - Currie, Jeff
  - Currie, Morgan
+ - Doering, Kyle
  - Doherty, Robbie
  - Dunstone, Matt
  - Eldridge, Zach
@@ -309,17 +328,22 @@ vs:
  - Gauthier, Jacques
  - Geall, Sean
  - Giddens, Ryan
+ - Ginter, Jason
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
+ - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
  - Harper, David
+ - Hart, Joey
  - Hart, Richard
  - Hebert, Ben
  - Higgs, Jake
  - Hodgson, Colin
+ - Horgan, Jacob
  - Horgan, Tanner
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Greg
  - Howard, Scott
@@ -327,6 +351,7 @@ vs:
  - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Jones, Scott
  - Kean, Mark
  - Kendall, Lloyd
@@ -334,6 +359,7 @@ vs:
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
+ - King, Brian
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
@@ -341,10 +367,12 @@ vs:
  - Kopf, Steve
  - Kuhn, Ryan
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Lequin, Bradley
+ - Lind, J.D.
  - Lott, Colton
  - Lowery, Ryan
  - MacAulay, Ian
@@ -372,6 +400,7 @@ vs:
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Mittelstadt, Kelly
  - Morgan, Tyler
  - Morris, John
@@ -417,15 +446,20 @@ vs:
  - St.Louis, David
  - Steele, Colten
  - Stoughton, Jeff
+ - Sturmay, Karsten
  - Sylvain, Eric
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thompson, Stuart
  - Trepanier, Jean-Francois
+ - Venance, Glenn
  - Virtue, Brock
+ - Walker, Geoff
+ - Wallingham, Joe
  - Watson, Aaron
  - Wettig, Sheldon
+ - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Withycombe, Ian

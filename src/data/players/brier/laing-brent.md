@@ -4,18 +4,18 @@ name: Brent Laing
 name-sort: Laing, Brent
 totals:
  - event: Brier
-   games: 186
-   wins: 139
-   losses: 47
-   inturn-total: 1713
+   games: 197
+   wins: 146
+   losses: 51
+   inturn-total: 1799
    inturn-percent: 88
-   outturn-total: 1737
-   outturn-percent: 89
-   draw-total: 1651
+   outturn-total: 1854
+   outturn-percent: 88
+   draw-total: 1748
    draw-percent: 88
-   takeout-total: 1799
+   takeout-total: 1905
    takeout-percent: 88
-   shots-total: 3450
+   shots-total: 3653
    shots-percent: 88
 years:
  - year: 2002
@@ -256,12 +256,30 @@ years:
    takeout-percent: 83
    shots-total: 215
    shots-percent: 92
+ - year: 2023
+   event: Brier
+   team: "ON"
+   position: Second
+   games: 11
+   wins: 7
+   losses: 4
+   inturn-total: 86
+   inturn-percent: 89
+   outturn-total: 117
+   outturn-percent: 85
+   draw-total: 97
+   draw-percent: 86
+   takeout-total: 106
+   takeout-percent: 88
+   shots-total: 203
+   shots-percent: 87
 vs:
  - Adam, Gerry
  - Adams, Shawn
  - Aho, David
  - Anderson, Chris
  - Armstrong, Mike
+ - Asselin, Emile
  - Asselin, Felix
  - Atchison, Chris
  - Bardsley, Mike
@@ -297,6 +315,7 @@ vs:
  - Chorostkowski, Brad
  - Chown, Jeff
  - Clarey, Sean
+ - Cocks, Adam
  - Collin, Simon
  - Collins, Ron
  - Cotter, Jim
@@ -312,6 +331,7 @@ vs:
  - Desrosiers, John
  - Dillon, Mike
  - Dobson, Paul
+ - Doering, Kyle
  - Doherty, Robbie
  - Dunstone, Matt
  - Eldridge, Zach
@@ -336,10 +356,13 @@ vs:
  - Gallant, Brett
  - Gallant, Peter
  - Gaudet, Mike
+ - Gauthier, Jacques
  - Gavin, Martin
  - Geall, Sean
  - Gibson, Andrew
+ - Ginter, Jason
  - Gionest, Francois
+ - Goller, Kurtis
  - Gordon, Robbie
  - Gorveatt, Philip
  - Gould, Steve
@@ -363,6 +386,7 @@ vs:
  - Hong, Doug
  - Hopkins, Jeff
  - Horning, Deane
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Greg
  - Howard, Russ
@@ -389,6 +413,7 @@ vs:
  - Kerr, Ian
  - Kidby, Dustin
  - Kilgallen, Shane
+ - King, Brian
  - Koe, Jamie
  - Koe, Kevin
  - Koffski, Rob
@@ -400,12 +425,14 @@ vs:
  - Lacey, Jeff
  - Lang, Mark
  - Lang, Tyler
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
  - LeDrew, Ryan
  - Lemay, Philippe
  - Likely, John
+ - Lind, J.D.
  - Lohnes, Bruce
  - Lowery, Ryan
  - Lukowich, Mark
@@ -443,6 +470,7 @@ vs:
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Mikkelsen, Ray
  - Mittelstadt, Kelly
  - Morris, John
@@ -519,10 +547,12 @@ vs:
  - St.Louis, Brady
  - Stoughton, Jeff
  - Stuart, Darol
+ - Sturmay, Karsten
  - Suchy, Chris
  - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Tallon, Wayne
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Toner, Lee
@@ -537,6 +567,7 @@ vs:
  - Walker, Geoff
  - Wallingham, Joe
  - Watson, Aaron
+ - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Windsor, Brian

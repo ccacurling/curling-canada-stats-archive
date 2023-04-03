@@ -226,6 +226,10 @@ years:
    event: Brier
    team: "QC"
    position: Alternate
+ - year: 2023
+   event: Brier
+   team: "QC"
+   position: Alternate
 vs:
  - Adam, Gerry
  - Adams, Bill
@@ -273,7 +277,7 @@ vs:
  - Duguid, Dale
  - Eberts, Tony
  - Elkin, Derek
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Ernst, Georg
  - Fenton, Darin
  - Ferbey, Randy

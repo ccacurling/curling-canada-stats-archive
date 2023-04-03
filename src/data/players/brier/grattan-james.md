@@ -340,7 +340,7 @@ vs:
  - Duce, Dallas
  - Dunstone, Matt
  - Elias, Dave
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Elmaleh, Maxime
  - Eloranta, Drew
  - Epping, John

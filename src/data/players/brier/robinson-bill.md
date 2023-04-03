@@ -71,7 +71,7 @@ vs:
  - Dabrowski, Don
  - Dickison, Dodie
  - Duce, Dallas
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Ferbey, Randy
  - Ferraro, Marco
  - Franklin, Graeme

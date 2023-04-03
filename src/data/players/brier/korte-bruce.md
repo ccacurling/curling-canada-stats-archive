@@ -91,7 +91,7 @@ vs:
  - Crowell, Phil
  - Dacey, Mark
  - Dowden, Craig
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Elmaleh, Maxime
  - Fawcett, Brian
  - Fenton, Brad

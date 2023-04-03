@@ -4,18 +4,18 @@ name: Marc Kennedy
 name-sort: Kennedy, Marc
 totals:
  - event: Brier
-   games: 135
-   wins: 99
-   losses: 36
-   inturn-total: 1396
+   games: 147
+   wins: 108
+   losses: 39
+   inturn-total: 1520
    inturn-percent: 90
-   outturn-total: 1086
+   outturn-total: 1186
    outturn-percent: 88
-   draw-total: 903
+   draw-total: 965
    draw-percent: 88
-   takeout-total: 1579
-   takeout-percent: 90
-   shots-total: 2482
+   takeout-total: 1741
+   takeout-percent: 89
+   shots-total: 2706
    shots-percent: 89
 years:
  - year: 2007
@@ -205,6 +205,23 @@ years:
    takeout-percent: 89
    shots-total: 156
    shots-percent: 88
+ - year: 2023
+   event: Brier
+   team: "WC"
+   position: Third
+   games: 12
+   wins: 9
+   losses: 3
+   inturn-total: 124
+   inturn-percent: 88
+   outturn-total: 100
+   outturn-percent: 83
+   draw-total: 62
+   draw-percent: 86
+   takeout-total: 162
+   takeout-percent: 85
+   shots-total: 224
+   shots-percent: 86
 vs:
  - Abraham, Ryan
  - Adam, Gerry
@@ -239,6 +256,7 @@ vs:
  - Chester, Corey
  - Chorostkowski, Brad
  - Cochrane, Bryan
+ - Cocks, Adam
  - Cotter, Jim
  - Cowan, Chad
  - Crete, Martin
@@ -252,6 +270,7 @@ vs:
  - Desrosiers, John
  - Dillon, Mike
  - Dobson, Paul
+ - Doering, Kyle
  - Doherty, Robbie
  - Dunstone, Matt
  - Eldridge, Zach
@@ -273,9 +292,11 @@ vs:
  - Gallant, Brett
  - Gallant, Peter
  - Gaudet, Mike
+ - Gauthier, Jacques
  - Gavin, Martin
  - Geall, Sean
  - Gibson, Andrew
+ - Ginter, Jason
  - Gould, Steve
  - Granchelli, Kris
  - Grattan, James
@@ -286,11 +307,15 @@ vs:
  - Harnden, Al
  - Harnden, E.J.
  - Harnden, Ryan
+ - Hart, Joey
  - Hart, Richard
  - Hebert, Ben
  - Hicke, Dean
  - Higgs, Jake
  - Hodgson, Colin
+ - Horgan, Jacob
+ - Horgan, Tanner
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Greg
  - Howard, Russ
@@ -301,6 +326,7 @@ vs:
  - Jakomait, Dusty
  - Jakubo, Mike
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Joanisse, Dean
  - Jones, Brennen
  - Jones, Scott
@@ -311,6 +337,7 @@ vs:
  - Kennedy, Glen
  - Kennedy, Mike
  - Kidby, Dustin
+ - King, Brian
  - Klitch, Tyler
  - Knapp, Kelly
  - Koe, Jamie
@@ -321,11 +348,13 @@ vs:
  - Korab, Jamie
  - Kuhn, Ryan
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Lemay, Philippe
  - Lequin, Bradley
+ - Lind, J.D.
  - Lohnes, Bruce
  - Lott, Colton
  - MacAulay, Ian
@@ -351,6 +380,7 @@ vs:
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Mikkelsen, Dustin
  - Mittelstadt, Kelly
  - Morris, John
@@ -395,6 +425,7 @@ vs:
  - Schille, Chris
  - Schmidt, Aryn
  - Schneider, Catlin
+ - Scoffin, Thomas
  - Scoffin, Wade
  - Seabrook, Matt
  - Seabrook, Scott
@@ -404,10 +435,12 @@ vs:
  - Slauenwhite, David
  - Smith, Garth
  - Smith, Kent
+ - Smith, Tyler
  - Smitheram, Christian
  - Solberg, Jon
  - Spencer, Adam
  - Stoughton, Jeff
+ - Sturmay, Karsten
  - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Thiessen, Brad
@@ -417,9 +450,12 @@ vs:
  - Ursel, Bob
  - Van Strien, Peter
  - Vaughan, Jason
+ - Venance, Glenn
  - Virtue, Brock
  - Walker, Geoff
+ - Wallingham, Joe
  - Watson, Aaron
+ - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Wood, Mike

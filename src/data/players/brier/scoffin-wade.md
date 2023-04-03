@@ -4,19 +4,19 @@ name: Wade Scoffin
 name-sort: Scoffin, Wade
 totals:
  - event: Brier
-   games: 30
-   wins: 7
-   losses: 23
-   inturn-total: 232
+   games: 35
+   wins: 9
+   losses: 26
+   inturn-total: 263
    inturn-percent: 77
-   outturn-total: 339
+   outturn-total: 376
    outturn-percent: 78
-   draw-total: 307
+   draw-total: 342
    draw-percent: 77
-   takeout-total: 264
-   takeout-percent: 78
-   shots-total: 571
-   shots-percent: 77
+   takeout-total: 297
+   takeout-percent: 79
+   shots-total: 639
+   shots-percent: 78
 years:
  - year: 1997
    event: Brier
@@ -110,6 +110,23 @@ years:
    event: Brier
    team: "YT"
    position: Alternate
+ - year: 2023
+   event: Brier
+   team: "YT"
+   position: Second
+   games: 5
+   wins: 2
+   losses: 3
+   inturn-total: 31
+   inturn-percent: 79
+   outturn-total: 37
+   outturn-percent: 83
+   draw-total: 35
+   draw-percent: 78
+   takeout-total: 33
+   takeout-percent: 85
+   shots-total: 68
+   shots-percent: 81
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -124,6 +141,7 @@ vs:
  - Case, Peter
  - Champion, Kevin
  - Chorostkowski, Brad
+ - Cocks, Adam
  - Collins, Ron
  - Cotter, Jim
  - Crete, Martin
@@ -142,7 +160,10 @@ vs:
  - Gagnon, Jean
  - Gallant, Brett
  - Gallant, Peter
+ - Gauthier, Jacques
  - Geall, Sean
+ - Ginter, Jason
+ - Goller, Kurtis
  - Grattan, James
  - Gushue, Brad
  - Harnden, E.J.
@@ -153,6 +174,7 @@ vs:
  - Hong, Doug
  - Hopkins, Jeff
  - Horning, Deane
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Russ
  - Hunt, Matthew
@@ -171,7 +193,9 @@ vs:
  - Laycock, Steve
  - LeCocq, Marc
  - Likely, John
+ - Lind, J.D.
  - Lukowich, Mark
+ - MacFadyen, Alex
  - MacKenzie, Kevin
  - Mackey, Peter
  - Martin, Karrick
@@ -179,6 +203,7 @@ vs:
  - McCusker, Brian
  - McEwen, Mike
  - Menard, Jean-Michel
+ - Middleton, Sterling
  - Morris, John
  - Moskowy, Kelly
  - Moulding, Darren
@@ -211,7 +236,9 @@ vs:
  - Smith, Garth
  - Smith, Greg
  - Smith, Jeff
+ - Smith, Tyler
  - St.Louis, David
+ - Sturmay, Karsten
  - Suchy, Chris
  - Sylvain, Eric
  - Taylor, Andrew
@@ -219,7 +246,9 @@ vs:
  - Turpin, Randy
  - Ursel, Bob
  - Vaughan, Jason
+ - Venance, Glenn
  - Walker, Geoff
+ - White, Edward
  - Withycombe, Ian
  - Wood, Brad
  - Wozniak, Matt

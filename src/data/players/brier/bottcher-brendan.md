@@ -4,18 +4,18 @@ name: Brendan Bottcher
 name-sort: Bottcher, Brendan
 totals:
  - event: Brier
-   games: 78
-   wins: 54
-   losses: 24
-   inturn-total: 835
+   games: 90
+   wins: 63
+   losses: 27
+   inturn-total: 951
    inturn-percent: 86
-   outturn-total: 594
+   outturn-total: 699
    outturn-percent: 82
-   draw-total: 553
-   draw-percent: 82
-   takeout-total: 876
+   draw-total: 641
+   draw-percent: 83
+   takeout-total: 1009
    takeout-percent: 86
-   shots-total: 1429
+   shots-total: 1650
    shots-percent: 84
 years:
  - year: 2017
@@ -120,13 +120,32 @@ years:
    takeout-percent: 83
    shots-total: 222
    shots-percent: 84
+ - year: 2023
+   event: Brier
+   team: "WC"
+   position: Fourth
+   games: 12
+   wins: 9
+   losses: 3
+   inturn-total: 116
+   inturn-percent: 84
+   outturn-total: 105
+   outturn-percent: 85
+   draw-total: 88
+   draw-percent: 87
+   takeout-total: 133
+   takeout-percent: 82
+   shots-total: 221
+   shots-percent: 84
 vs:
  - Abel, Clinton
  - Aho, David
  - Appelman, Tom
  - Asselin, Emile
+ - Asselin, Felix
  - Bedard, Alek
  - Beuk, Jonathan
+ - Bezanson, Jared
  - Boland, Adam
  - Borden, Robert
  - Brannen, Jamie
@@ -144,6 +163,7 @@ vs:
  - Crowell, Phil
  - Currie, Morgan
  - Dobson, Paul
+ - Doering, Kyle
  - Doherty, Robbie
  - Dunstone, Matt
  - Epping, John
@@ -157,7 +177,9 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Gallant, Chris
+ - Gauthier, Jacques
  - Geall, Sean
+ - Ginter, Jason
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -165,11 +187,14 @@ vs:
  - Hagen, Brandon
  - Harnden, E.J.
  - Harnden, Ryan
+ - Hart, Joey
  - Hart, Richard
  - Hebert, Ben
  - Higgs, Jake
  - Hodgson, Colin
+ - Horgan, Jacob
  - Horgan, Tanner
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Scott
  - Hunt, Matthew
@@ -181,6 +206,7 @@ vs:
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
+ - King, Brian
  - Koe, Jamie
  - Koe, Kevin
  - Kohlenberg, Dale
@@ -191,10 +217,14 @@ vs:
  - Lemay, Philippe
  - Lequin, Bradley
  - Likely, John
+ - Lind, J.D.
  - Locke, Nathan
+ - Lott, Colton
  - Lowery, Ryan
  - MacAulay, Ian
  - MacDonald, Edmund
+ - MacFadyen, Alex
+ - Mallais, Jeremy
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
@@ -207,6 +237,7 @@ vs:
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Mikkelsen, Dustin
  - Morris, John
  - Moskowy, Braeden
@@ -243,10 +274,13 @@ vs:
  - Solberg, Jon
  - Stapleton, Connor
  - Stringer, Ben
+ - Sturmay, Karsten
  - Sylvain, Eric
  - Symonds, Andrew
  - Tardi, Tyler
  - Taylor, Andrew
+ - Trepanier, Jean-Francois
+ - Venance, Glenn
  - Walker, Geoff
  - Wallingham, Joe
  - White, Edward

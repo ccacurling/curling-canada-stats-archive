@@ -2,6 +2,34 @@
 title: Shadrach Mcleod Head-to-head
 name: Mcleod, Shadrach
 vs:
+ - name: Meagher, Jeffrey
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Second
+        percent: 84
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(6)
+      score: NS 8 - NT 5
  - name: Moskowy, Braeden
    totals:
     - event: Brier
@@ -30,6 +58,34 @@ vs:
       year: 2020
       draw: Round Robin(7)
       score: SK 6 - NT 2
+ - name: Moulding, Darren
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(9)
+      score: NO 10 - NT 6
  - name: Nadeau, Jeff
    totals:
     - event: Brier
@@ -90,12 +146,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 55
+        percent: 73
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 94
-        wins: 1
+        percent: 95
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -114,6 +170,50 @@ vs:
       year: 2020
       draw: Round Robin(4)
       score: CA 7 - NT 3
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 92
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 95
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(8)
+      score: NT 4 - MB 10
+ - name: Njegovan, Connor
+   totals:
+    - event: Brier
+      player1:
+        percent: 93
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(4)
+      score: WC 11 - NT 7
  - name: Odishaw, Grant
    totals:
     - event: Brier
@@ -202,12 +302,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 79
+        percent: 86
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 79
-        wins: 1
+        percent: 82
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -226,6 +326,50 @@ vs:
       year: 2020
       draw: Round Robin(6)
       score: NT 2 - WC 6
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(4)
+      score: WC 11 - NT 7
+ - name: Saunders, Luke
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 94
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(6)
+      score: NS 8 - NT 5
  - name: Sawatsky, Rick
    totals:
     - event: Brier
@@ -310,6 +454,62 @@ vs:
       year: 2020
       draw: Round Robin(9)
       score: NT 9 - YT 7
+ - name: Smitheram, Christian
+   totals:
+    - event: Brier
+      player1:
+        percent: 73
+        wins: 1
+        losses: 0
+      player2:
+        percent: 59
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 59
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(14)
+      score: NU 3 - NT 9
+ - name: St.Louis, Brady
+   totals:
+    - event: Brier
+      player1:
+        percent: 73
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(14)
+      score: NU 3 - NT 9
  - name: St.Louis, David
    totals:
     - event: Brier
@@ -338,6 +538,90 @@ vs:
       year: 2019
       draw: Round Robin(10)
       score: NT 9 - NU 4
+ - name: Stringer, Ben
+   totals:
+    - event: Brier
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(11)
+      score: NT 7 - NL 8
+ - name: Tardi, Tyler
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(17)
+      score: NT 6 - AB 10
+ - name: Thiessen, Brad
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(17)
+      score: NT 6 - AB 10
  - name: Wallingham, Joe
    totals:
     - event: Brier
@@ -366,6 +650,34 @@ vs:
       year: 2020
       draw: Round Robin(9)
       score: NT 9 - YT 7
+ - name: Wettig, Sheldon
+   totals:
+    - event: Brier
+      player1:
+        percent: 73
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(14)
+      score: NU 3 - NT 9
  - name: Winfield, Brett
    totals:
     - event: Brier
@@ -394,4 +706,60 @@ vs:
       year: 2020
       draw: Round Robin(9)
       score: NT 9 - YT 7
+ - name: Young, Nathan
+   totals:
+    - event: Brier
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(11)
+      score: NT 7 - NL 8
+ - name: Zachernuk, Nick
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 95
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Lead
+        percent: 95
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(6)
+      score: NS 8 - NT 5
 ---

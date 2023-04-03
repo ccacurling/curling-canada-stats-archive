@@ -141,7 +141,7 @@ vs:
  - Dowden, Craig
  - Doyon, Ghislain
  - Elkin, Derek
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Elmaleh, Maxime
  - Feldman, Alfred
  - Ferster, Greg

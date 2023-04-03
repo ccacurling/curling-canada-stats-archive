@@ -4,18 +4,18 @@ name: Martin Crete
 name-sort: Crete, Martin
 totals:
  - event: Brier
-   games: 104
-   wins: 53
-   losses: 51
-   inturn-total: 589
+   games: 112
+   wins: 58
+   losses: 54
+   inturn-total: 657
    inturn-percent: 83
-   outturn-total: 1399
+   outturn-total: 1477
    outturn-percent: 83
-   draw-total: 790
+   draw-total: 835
    draw-percent: 83
-   takeout-total: 1198
+   takeout-total: 1299
    takeout-percent: 83
-   shots-total: 1988
+   shots-total: 2134
    shots-percent: 83
 years:
  - year: 2008
@@ -221,6 +221,23 @@ years:
    takeout-percent: 76
    shots-total: 140
    shots-percent: 76
+ - year: 2023
+   event: Brier
+   team: "QC"
+   position: Third
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 68
+   inturn-percent: 82
+   outturn-total: 78
+   outturn-percent: 81
+   draw-total: 45
+   draw-percent: 86
+   takeout-total: 101
+   takeout-percent: 79
+   shots-total: 146
+   shots-percent: 81
 vs:
  - Abel, Clinton
  - Abraham, Ryan
@@ -251,6 +268,7 @@ vs:
  - Childs, Jamie
  - Chorostkowski, Brad
  - Chown, Jeff
+ - Cocks, Adam
  - Cotter, Jim
  - Cowan, Chad
  - Crowell, Phil
@@ -259,6 +277,7 @@ vs:
  - Daneault, Richard
  - Darragh, Alan
  - Desrosiers, John
+ - Doering, Kyle
  - Doherty, Robbie
  - Dunstone, Matt
  - Eldridge, Zach
@@ -275,9 +294,12 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Gallant, Peter
+ - Gauthier, Jacques
  - Gavin, Martin
  - Geall, Sean
  - Gibson, Andrew
+ - Ginter, Jason
+ - Goller, Kurtis
  - Gould, Steve
  - Granchelli, Kris
  - Grattan, James
@@ -286,10 +308,12 @@ vs:
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
+ - Hart, Joey
  - Hart, Richard
  - Hebert, Ben
  - Hicke, Dean
  - Hodgson, Colin
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Greg
  - Howard, Russ
@@ -299,6 +323,7 @@ vs:
  - Jacobs, Brad
  - Jakubo, Mike
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Jewer, Keith
  - Jones, Scott
  - Jordison, Joel
@@ -308,6 +333,7 @@ vs:
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
+ - King, Brian
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
@@ -316,10 +342,12 @@ vs:
  - Korab, Jamie
  - Kuhn, Ryan
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Likely, John
+ - Lind, J.D.
  - Lohnes, Bruce
  - Lott, Colton
  - Lowery, Ryan
@@ -344,6 +372,7 @@ vs:
  - Mead, Jon
  - Meister, Nicholas
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Mittelstadt, Kelly
  - Morris, John
  - Moskowy, Braeden
@@ -384,6 +413,7 @@ vs:
  - Schille, Chris
  - Schmidt, Aryn
  - Schneider, Catlin
+ - Scoffin, Thomas
  - Scoffin, Wade
  - Seabrook, Matt
  - Sharp, Jeff
@@ -397,6 +427,7 @@ vs:
  - Spencer, Adam
  - St.Louis, Brady
  - Stoughton, Jeff
+ - Sturmay, Karsten
  - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
@@ -405,7 +436,9 @@ vs:
  - Vaughan, Jason
  - Virtue, Brock
  - Walker, Geoff
+ - Wallingham, Joe
  - Watson, Aaron
+ - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Wozniak, Matt

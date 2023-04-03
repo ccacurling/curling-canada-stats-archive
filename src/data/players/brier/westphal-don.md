@@ -198,7 +198,7 @@ vs:
  - Duce, Dallas
  - Eberts, Tony
  - Elkin, Derek
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Ernst, Georg
  - Fenton, Keith
  - Ferbey, Randy

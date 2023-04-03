@@ -86,7 +86,7 @@ vs:
  - DeBlonde, Garry
  - Delmage, Al
  - Duce, Dallas
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Folk, Rick
  - Gallant, Peter
  - Giles, Brad

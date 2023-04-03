@@ -86,7 +86,7 @@ vs:
       year: 1986
       draw: Round Robin(12)
       score: NO 6 - BC 7
- - name: Ellis, Ken
+ - name: Ellis, Ken Jr.
    totals:
     - event: Brier
       player1:

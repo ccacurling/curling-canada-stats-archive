@@ -4,19 +4,19 @@ name: Reid Carruthers
 name-sort: Carruthers, Reid
 totals:
  - event: Brier
-   games: 102
-   wins: 61
-   losses: 41
-   inturn-total: 931
+   games: 110
+   wins: 65
+   losses: 45
+   inturn-total: 1018
    inturn-percent: 84
-   outturn-total: 939
+   outturn-total: 1003
    outturn-percent: 85
-   draw-total: 794
-   draw-percent: 85
-   takeout-total: 1076
+   draw-total: 848
+   draw-percent: 84
+   takeout-total: 1173
    takeout-percent: 85
-   shots-total: 1870
-   shots-percent: 85
+   shots-total: 2021
+   shots-percent: 84
 years:
  - year: 2008
    event: Brier
@@ -184,12 +184,30 @@ years:
    takeout-percent: 83
    shots-total: 157
    shots-percent: 84
+ - year: 2023
+   event: Brier
+   team: "WC"
+   position: Fourth
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 87
+   inturn-percent: 80
+   outturn-total: 64
+   outturn-percent: 75
+   draw-total: 54
+   draw-percent: 71
+   takeout-total: 97
+   takeout-percent: 82
+   shots-total: 151
+   shots-percent: 78
 vs:
  - Abel, Clinton
  - Abraham, Ryan
  - Adam, Gerry
  - Adams, Shawn
  - Aho, David
+ - Armstrong, Mike
  - Asselin, Felix
  - Balsdon, Greg
  - Bardsley, Mike
@@ -234,6 +252,7 @@ vs:
  - Flasch, Colton
  - Flemming, Paul
  - Folk, Kevin
+ - Follett, Sam
  - Ford, Chris
  - Forget, Wesley
  - Forrest, Alex
@@ -255,6 +274,10 @@ vs:
  - Harnden, Ryan
  - Hart, Richard
  - Hebert, Ben
+ - Higgs, Jake
+ - Hodgson, Colin
+ - Horgan, Jacob
+ - Horgan, Tanner
  - Howard, Glenn
  - Howard, Greg
  - Howard, Scott
@@ -270,6 +293,8 @@ vs:
  - Kennedy, Marc
  - Kidby, Dustin
  - Kingdon, Wade
+ - Knapp, Kelly
+ - Knapp, Trent
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
@@ -280,12 +305,16 @@ vs:
  - Laycock, Steve
  - Ledgerwood, Sean
  - Lemay, Philippe
+ - Lichty, Terry
  - Likely, John
+ - Locke, Nathan
+ - Lott, Colton
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - MacKenzie, Tyler
  - Mackey, Peter
  - Mallais, Jeremy
+ - Manuel, Matthew
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
@@ -300,6 +329,7 @@ vs:
  - McEwen, Mike
  - Mckinnon, Robert
  - Mcleod, Shadrach
+ - Meagher, Jeffrey
  - Meister, Nicholas
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -333,6 +363,7 @@ vs:
  - Roach, Jason
  - Rycroft, Carter
  - Saccary, Scott
+ - Saunders, Luke
  - Savill, Craig
  - Sawatsky, Rick
  - Schille, Chris
@@ -343,11 +374,15 @@ vs:
  - Simmons, Pat
  - Skauge, Greg
  - Smallwood, Robert
+ - Smitheram, Christian
  - Solberg, Jon
+ - St.Louis, Brady
  - St.Louis, David
+ - Stringer, Ben
  - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Trepanier, Jean-Francois
@@ -356,9 +391,12 @@ vs:
  - Walker, Geoff
  - Wallingham, Joe
  - Watson, Aaron
+ - Wettig, Sheldon
  - Whitehead, Kevin
  - Whitehead, Mark
  - Winfield, Brett
  - Wood, Brad
  - Wozniak, Matt
+ - Young, Nathan
+ - Zachernuk, Nick
 ---

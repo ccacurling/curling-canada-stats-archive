@@ -214,7 +214,7 @@ vs:
       year: 1992
       draw: Round Robin(12)
       score: TR 2 - ON 5
- - name: Ellis, Ken
+ - name: Ellis, Ken Jr.
    totals:
     - event: Brier
       player1:

@@ -4,18 +4,18 @@ name: Geoff Walker
 name-sort: Walker, Geoff
 totals:
  - event: Brier
-   games: 138
-   wins: 100
-   losses: 38
-   inturn-total: 1129
+   games: 149
+   wins: 110
+   losses: 39
+   inturn-total: 1234
    inturn-percent: 90
-   outturn-total: 1507
+   outturn-total: 1610
    outturn-percent: 89
-   draw-total: 2195
+   draw-total: 2383
    draw-percent: 91
-   takeout-total: 441
-   takeout-percent: 78
-   shots-total: 2636
+   takeout-total: 461
+   takeout-percent: 79
+   shots-total: 2844
    shots-percent: 89
 years:
  - year: 2012
@@ -205,6 +205,23 @@ years:
    takeout-percent: 83
    shots-total: 261
    shots-percent: 89
+ - year: 2023
+   event: Brier
+   team: "CA"
+   position: Lead
+   games: 11
+   wins: 10
+   losses: 1
+   inturn-total: 105
+   inturn-percent: 95
+   outturn-total: 103
+   outturn-percent: 89
+   draw-total: 188
+   draw-percent: 92
+   takeout-total: 20
+   takeout-percent: 88
+   shots-total: 208
+   shots-percent: 92
 vs:
  - Abraham, Ryan
  - Aho, David
@@ -240,6 +257,7 @@ vs:
  - Chown, Jeff
  - Clarey, Sean
  - Cochrane, Bryan
+ - Cocks, Adam
  - Colter, Travis
  - Cotter, Jim
  - Crete, Martin
@@ -249,6 +267,7 @@ vs:
  - Daneault, Richard
  - Deis, Ryan
  - Desjardins, Robert
+ - Doering, Kyle
  - Doherty, Robbie
  - Dunstone, Matt
  - Eldridge, Zach
@@ -265,10 +284,12 @@ vs:
  - Fournier, Mike
  - Fowler, Rob
  - Fry, Ryan
+ - Gallant, Brett
  - Gaudet, Mike
  - Gauthier, Jacques
  - Geall, Sean
  - Giddens, Ryan
+ - Ginter, Jason
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -276,11 +297,13 @@ vs:
  - Harnden, Ryan
  - Harper, David
  - Harris, Tyler
+ - Hart, Joey
  - Hart, Richard
  - Hebert, Ben
  - Higgs, Jake
  - Hodgson, Colin
  - Horgan, Tanner
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Greg
  - Howard, Scott
@@ -288,6 +311,7 @@ vs:
  - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Jones, Scott
  - Kean, Mark
  - Kendall, Lloyd
@@ -295,6 +319,7 @@ vs:
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
+ - King, Brian
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
@@ -303,10 +328,12 @@ vs:
  - Kuhn, Ryan
  - Laing, Brent
  - Lang, Tyler
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Lequin, Bradley
+ - Lind, J.D.
  - Lott, Colton
  - Lowery, Ryan
  - Lyburn, Allan
@@ -337,6 +364,7 @@ vs:
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Mittelstadt, Kelly
  - Morgan, Tyler
  - Morris, John
@@ -384,16 +412,19 @@ vs:
  - St.Louis, David
  - Steele, Colten
  - Stoughton, Jeff
+ - Sturmay, Karsten
  - Sylvain, Eric
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thompson, Stuart
  - Trepanier, Jean-Francois
+ - Venance, Glenn
  - Villeneuve, Steeve
  - Virtue, Brock
  - Watson, Aaron
  - Wettig, Sheldon
+ - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Withycombe, Ian

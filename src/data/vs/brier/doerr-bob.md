@@ -2,7 +2,7 @@
 title: Bob Doerr Head-to-head
 name: Doerr, Bob
 vs:
- - name: Ellis, Ken
+ - name: Ellis, Ken Jr.
    totals:
     - event: Brier
       player1:

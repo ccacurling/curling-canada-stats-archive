@@ -4,18 +4,18 @@ name: Karrick Martin
 name-sort: Martin, Karrick
 totals:
  - event: Brier
-   games: 80
-   wins: 55
-   losses: 25
-   inturn-total: 1166
-   inturn-percent: 90
-   outturn-total: 266
+   games: 89
+   wins: 62
+   losses: 27
+   inturn-total: 1255
+   inturn-percent: 91
+   outturn-total: 351
    outturn-percent: 87
-   draw-total: 1225
+   draw-total: 1389
    draw-percent: 91
-   takeout-total: 207
-   takeout-percent: 84
-   shots-total: 1432
+   takeout-total: 217
+   takeout-percent: 85
+   shots-total: 1606
    shots-percent: 90
 years:
  - year: 2013
@@ -137,10 +137,28 @@ years:
    takeout-percent: 92
    shots-total: 220
    shots-percent: 94
+ - year: 2023
+   event: Brier
+   team: "AB"
+   position: Lead
+   games: 9
+   wins: 7
+   losses: 2
+   inturn-total: 89
+   inturn-percent: 93
+   outturn-total: 85
+   outturn-percent: 87
+   draw-total: 164
+   draw-percent: 90
+   takeout-total: 10
+   takeout-percent: 90
+   shots-total: 174
+   shots-percent: 90
 vs:
  - Abel, Clinton
  - Aho, David
  - Appelman, Tom
+ - Armstrong, Mike
  - Asselin, Emile
  - Bedard, Alek
  - Beuk, Jonathan
@@ -177,6 +195,7 @@ vs:
  - Gallant, Brett
  - Gallant, Chris
  - Geall, Sean
+ - Gordon, Robbie
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -184,10 +203,12 @@ vs:
  - Hagen, Brandon
  - Harnden, E.J.
  - Harnden, Ryan
+ - Hart, Joey
  - Hart, Richard
  - Hebert, Ben
  - Higgs, Jake
  - Hodgson, Colin
+ - Horgan, Jacob
  - Horgan, Tanner
  - Howard, Glenn
  - Howard, Scott
@@ -196,10 +217,14 @@ vs:
  - Janssen, Patrick
  - Jensen, Trygg
  - Jewer, Keith
+ - Jones, Brennen
  - Jones, Scott
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
+ - Knapp, Kelly
+ - Knapp, Trent
  - Koe, Jamie
  - Koe, Kevin
  - Kohlenberg, Dale
@@ -209,11 +234,14 @@ vs:
  - LeCocq, Marc
  - Lemay, Philippe
  - Lequin, Bradley
+ - Lichty, Terry
  - Likely, John
  - Locke, Nathan
+ - Lott, Colton
  - Lowery, Ryan
  - MacAulay, Ian
  - MacDonald, Edmund
+ - Manuel, Matthew
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
@@ -222,7 +250,9 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - Mckinnon, Robert
+ - Mcleod, Shadrach
  - Meachem, Shaun Myles
+ - Meagher, Jeffrey
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -242,6 +272,7 @@ vs:
  - Nichols, Mark
  - Njegovan, Connor
  - O'Rourke, Mark
+ - Parsons, Cole
  - Patzer, Brad
  - Peech, Alexander
  - Pinder, Jordan
@@ -250,6 +281,7 @@ vs:
  - Richard, Jeff
  - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Sawatsky, Rick
  - Schille, Chris
  - Schneider, Catlin
@@ -262,6 +294,7 @@ vs:
  - Smith, Tyler
  - Smitheram, Christian
  - Solberg, Jon
+ - St.Louis, Brady
  - Stapleton, Connor
  - Stringer, Ben
  - Sylvain, Eric
@@ -270,9 +303,11 @@ vs:
  - Taylor, Andrew
  - Walker, Geoff
  - Wallingham, Joe
+ - Wettig, Sheldon
  - White, Edward
  - Withycombe, Ian
  - Wood, Brad
  - Wozniak, Matt
  - Young, Nathan
+ - Zachernuk, Nick
 ---

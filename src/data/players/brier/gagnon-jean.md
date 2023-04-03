@@ -143,7 +143,7 @@ vs:
  - Dillon, Mike
  - Dowden, Craig
  - Elias, Dave
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Eloranta, Drew
  - Ferbey, Randy
  - Flaxey, Caleb

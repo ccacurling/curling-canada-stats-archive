@@ -202,6 +202,34 @@ vs:
       year: 2022
       draw: Round Robin(11)
       score: CA 10 - YT 4
+ - name: Wettig, Sheldon
+   totals:
+    - event: Brier
+      player1:
+        percent: 97
+        wins: 1
+        losses: 0
+      player2:
+        percent: 77
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 77
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(12)
+      score: AB 10 - NU 1
  - name: White, Edward
    totals:
     - event: Brier
@@ -367,12 +395,12 @@ vs:
     - event: Brier
       player1:
         percent: 89
-        wins: 1
+        wins: 2
         losses: 0
       player2:
-        percent: 91
+        percent: 81
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'CA'
@@ -390,4 +418,48 @@ vs:
       year: 2022
       draw: Round Robin(17)
       score: NL 3 - CA 6
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 73
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(10)
+      score: NL 4 - AB 6
+ - name: Zachernuk, Nick
+   totals:
+    - event: Brier
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 93
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(2)
+      score: AB 5 - NS 4
 ---

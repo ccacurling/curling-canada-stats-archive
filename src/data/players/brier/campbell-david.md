@@ -48,7 +48,7 @@ years:
    team: "PE"
    position: Alternate
 vs:
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Henderson, Lorne
  - Kerr, Ian
  - Thomas, Jeff

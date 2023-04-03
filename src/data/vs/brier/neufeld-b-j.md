@@ -34,12 +34,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 87
+        percent: 85
         wins: 3
-        losses: 4
+        losses: 6
       player2:
         percent: 88
-        wins: 4
+        wins: 6
         losses: 3
    games:
     - player1:
@@ -154,17 +154,49 @@ vs:
       year: 2021
       draw: Round Robin(7)
       score: CA 7 - WC 9
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Page 1-2(22)
+      score: CA 5 - MB 4
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Final(24)
+      score: CA 7 - MB 5
  - name: Njegovan, Connor
    totals:
     - event: Brier
       player1:
-        percent: 90
-        wins: 2
+        percent: 88
+        wins: 3
         losses: 0
       player2:
-        percent: 93
+        percent: 85
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'CA'
@@ -198,6 +230,22 @@ vs:
       year: 2021
       draw: Pool(21)
       score: MB 4 - WC 12
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 69
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(12)
+      score: MB 8 - WC 4
  - name: Odishaw, Grant
    totals:
     - event: Brier
@@ -258,13 +306,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 92
-        wins: 2
+        percent: 93
+        wins: 3
         losses: 0
       player2:
-        percent: 82
+        percent: 79
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'AB'
@@ -298,6 +346,22 @@ vs:
       year: 2020
       draw: Round Robin(4)
       score: CA 7 - NT 3
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 95
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Second
+        percent: 72
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(8)
+      score: NT 4 - MB 10
  - name: Pinder, Jordan
    totals:
     - event: Brier
@@ -462,13 +526,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 87
-        wins: 3
+        percent: 86
+        wins: 4
         losses: 0
       player2:
-        percent: 80
+        percent: 78
         wins: 0
-        losses: 3
+        losses: 4
    games:
     - player1:
         team: 'WC'
@@ -518,6 +582,50 @@ vs:
       year: 2020
       draw: Round Robin(10)
       score: WC 2 - CA 3
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 72
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(12)
+      score: MB 8 - WC 4
+ - name: Saunders, Luke
+   totals:
+    - event: Brier
+      player1:
+        percent: 97
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 79
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(10)
+      score: MB 8 - NS 4
  - name: Sawatsky, Rick
    totals:
     - event: Brier
@@ -934,6 +1042,34 @@ vs:
       year: 2022
       draw: Round Robin(17)
       score: PE 3 - AB 8
+ - name: Smitheram, Christian
+   totals:
+    - event: Brier
+      player1:
+        percent: 97
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(4)
+      score: MB 14 - NU 2
  - name: Spencer, Adam
    totals:
     - event: Brier
@@ -982,13 +1118,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 81
-        wins: 1
+        percent: 89
+        wins: 2
         losses: 0
       player2:
         percent: 77
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'WC'
@@ -1006,6 +1142,22 @@ vs:
       year: 2021
       draw: Round Robin(9)
       score: NU 3 - WC 11
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(4)
+      score: MB 14 - NU 2
  - name: St.Louis, David
    totals:
     - event: Brier
@@ -1066,13 +1218,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 77
-        wins: 1
+        percent: 85
+        wins: 2
         losses: 0
       player2:
-        percent: 95
+        percent: 93
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'AB'
@@ -1090,6 +1242,22 @@ vs:
       year: 2022
       draw: Round Robin(3)
       score: AB 14 - NL 3
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(13)
+      score: MB 13 - NL 3
  - name: Sylvain, Eric
    totals:
     - event: Brier
@@ -1134,6 +1302,34 @@ vs:
       year: 2017
       draw: Round Robin(17)
       score: MB 5 - QC 2
+ - name: Tardi, Tyler
+   totals:
+    - event: Brier
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(15)
+      score: AB 5 - MB 9
  - name: Taylor, Andrew
    totals:
     - event: Brier
@@ -1167,12 +1363,12 @@ vs:
     - event: Brier
       player1:
         percent: 82
-        wins: 6
+        wins: 7
         losses: 3
       player2:
-        percent: 81
+        percent: 80
         wins: 3
-        losses: 6
+        losses: 7
    games:
     - player1:
         team: 'MB'
@@ -1318,6 +1514,22 @@ vs:
       year: 2022
       draw: Page 1-2(23)
       score: CA 7 - AB 9
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(15)
+      score: AB 5 - MB 9
  - name: Thiessen, Nolan
    totals:
     - event: Brier
@@ -1346,6 +1558,34 @@ vs:
       year: 2016
       draw: Round Robin(10)
       score: MB 6 - CA 4
+ - name: Thomas, Jeff
+   totals:
+    - event: Brier
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(13)
+      score: MB 13 - NL 3
  - name: Thompson, Stuart
    totals:
     - event: Brier
@@ -1408,10 +1648,10 @@ vs:
       player1:
         percent: 84
         wins: 3
-        losses: 5
+        losses: 7
       player2:
         percent: 91
-        wins: 5
+        wins: 7
         losses: 3
    games:
     - player1:
@@ -1542,6 +1782,38 @@ vs:
       year: 2022
       draw: Final(25)
       score: AB 8 - WC 9
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Page 1-2(22)
+      score: CA 5 - MB 4
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Final(24)
+      score: CA 7 - MB 5
  - name: Wallingham, Joe
    totals:
     - event: Brier
@@ -1586,6 +1858,34 @@ vs:
       year: 2022
       draw: Round Robin(7)
       score: YT 3 - AB 9
+ - name: Wettig, Sheldon
+   totals:
+    - event: Brier
+      player1:
+        percent: 97
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(4)
+      score: MB 14 - NU 2
  - name: White, Edward
    totals:
     - event: Brier
@@ -1730,13 +2030,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 77
-        wins: 1
+        percent: 85
+        wins: 2
         losses: 0
       player2:
-        percent: 58
+        percent: 55
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'AB'
@@ -1754,4 +2054,48 @@ vs:
       year: 2022
       draw: Round Robin(3)
       score: AB 14 - NL 3
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 53
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(13)
+      score: MB 13 - NL 3
+ - name: Zachernuk, Nick
+   totals:
+    - event: Brier
+      player1:
+        percent: 97
+        wins: 1
+        losses: 0
+      player2:
+        percent: 89
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2023
+      draw: Round Robin(10)
+      score: MB 8 - NS 4
 ---

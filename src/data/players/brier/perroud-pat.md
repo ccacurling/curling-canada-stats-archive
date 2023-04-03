@@ -126,7 +126,7 @@ vs:
  - Duce, Dallas
  - Edwards, Duane
  - Edwards, Jack
- - Ellis, Ken
+ - Ellis, Ken Jr.
  - Ernst, Georg
  - Evoy, Rich
  - Feldman, Alfred
