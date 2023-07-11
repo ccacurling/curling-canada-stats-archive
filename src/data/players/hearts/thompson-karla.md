@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "BC"
    position: Third
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "BC"
    position: Fourth
+   alternate: false
    games: 11
    wins: 2
    losses: 9

@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "MB"
    position: Fourth
+   alternate: false
    games: 10
    wins: 6
    losses: 4
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "MB"
    position: Alternate
+   alternate: true
 vs:
  - Adams, Valerie
  - Bildfell, Shelly

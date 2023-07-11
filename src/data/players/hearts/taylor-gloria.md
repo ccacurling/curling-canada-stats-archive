@@ -12,13 +12,16 @@ years:
    event: Hearts
    team: "ON"
    position: Alternate
+   alternate: true
  - year: 1989
    event: Hearts
    team: "CA"
    position: Alternate
+   alternate: true
  - year: 1990
    event: Hearts
    team: "CA"
    position: Alternate
+   alternate: true
 vs:
 ---

@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "NL"
    position: Second
+   alternate: false
    games: 12
    wins: 7
    losses: 5

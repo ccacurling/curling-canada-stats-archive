@@ -12,9 +12,11 @@ years:
    event: Hearts
    team: "PE"
    position: Alternate
+   alternate: true
  - year: 1994
    event: Hearts
    team: "PE"
    position: Alternate
+   alternate: true
 vs:
 ---

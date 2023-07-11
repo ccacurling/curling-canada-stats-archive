@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "YT"
    position: Lead
+   alternate: false
    games: 7
    wins: 1
    losses: 6

@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "BC"
    position: Second
+   alternate: false
    games: 12
    wins: 9
    losses: 3
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "BC"
    position: Alternate
+   alternate: true
 vs:
  - Allen, Laurie
  - Arnott, Janet

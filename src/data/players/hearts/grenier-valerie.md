@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "QC"
    position: Lead
+   alternate: false
    games: 12
    wins: 7
    losses: 5
@@ -39,10 +40,12 @@ years:
    event: Hearts
    team: "QC"
    position: Alternate
+   alternate: true
  - year: 2009
    event: Hearts
    team: "QC"
    position: Alternate
+   alternate: true
 vs:
  - Affleck, Tricia
  - Arsenault, Mary-Anne

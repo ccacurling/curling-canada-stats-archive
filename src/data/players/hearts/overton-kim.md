@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "MB"
    position: Lead
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "MB"
    position: Alternate
+   alternate: true
 vs:
  - Adams, Diane
  - Alexander, Diane

@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "TR"
    position: Alternate
+   alternate: true
  - year: 2000
    event: Hearts
    team: "TR"
    position: Third
+   alternate: false
    games: 11
    wins: 0
    losses: 11
@@ -43,6 +45,7 @@ years:
    event: Hearts
    team: "YT"
    position: Alternate
+   alternate: true
 vs:
  - Affleck, Tricia
  - Arnott, Janet

@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "NL"
    position: Alternate
+   alternate: true
  - year: 1989
    event: Hearts
    team: "NL"
    position: Fourth
+   alternate: false
    games: 11
    wins: 1
    losses: 10
@@ -43,10 +45,12 @@ years:
    event: Hearts
    team: "NL"
    position: Alternate
+   alternate: true
  - year: 1994
    event: Hearts
    team: "NL"
    position: Fourth
+   alternate: false
    games: 13
    wins: 8
    losses: 5
@@ -64,6 +68,7 @@ years:
    event: Hearts
    team: "NL"
    position: Fourth
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -81,6 +86,7 @@ years:
    event: Hearts
    team: "NL"
    position: Fourth
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -98,6 +104,7 @@ years:
    event: Hearts
    team: "NL"
    position: Fourth
+   alternate: false
    games: 13
    wins: 8
    losses: 5
@@ -115,6 +122,7 @@ years:
    event: Hearts
    team: "NL"
    position: Alternate
+   alternate: true
 vs:
  - Adams, Diane
  - Affleck, Tricia

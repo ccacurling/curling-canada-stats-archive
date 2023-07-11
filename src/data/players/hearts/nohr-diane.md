@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "TR"
    position: Alternate
+   alternate: true
  - year: 1996
    event: Hearts
    team: "TR"
    position: Third
+   alternate: false
    games: 6
    wins: 0
    losses: 6
@@ -43,6 +45,7 @@ years:
    event: Hearts
    team: "TR"
    position: Fourth
+   alternate: false
    games: 5
    wins: 1
    losses: 4

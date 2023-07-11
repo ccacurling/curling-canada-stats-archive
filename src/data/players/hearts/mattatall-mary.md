@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "NS"
    position: Third
+   alternate: false
    games: 12
    wins: 7
    losses: 5
@@ -39,10 +40,12 @@ years:
    event: Hearts
    team: "NS"
    position: Alternate
+   alternate: true
  - year: 1991
    event: Hearts
    team: "NS"
    position: Third
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -60,6 +63,7 @@ years:
    event: Hearts
    team: "NS"
    position: Third
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -77,6 +81,7 @@ years:
    event: Hearts
    team: "NS"
    position: Lead
+   alternate: true
    games: 1
    wins: 0
    losses: 1
@@ -94,6 +99,7 @@ years:
    event: Hearts
    team: "NS"
    position: Fourth
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -111,6 +117,7 @@ years:
    event: Hearts
    team: "NS"
    position: Third
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -128,6 +135,7 @@ years:
    event: Hearts
    team: "NS"
    position: Third
+   alternate: true
    games: 2
    wins: 0
    losses: 2
@@ -145,6 +153,7 @@ years:
    event: Hearts
    team: "NS"
    position: Fourth
+   alternate: false
    games: 11
    wins: 2
    losses: 9

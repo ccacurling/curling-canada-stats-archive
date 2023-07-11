@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "AB"
    position: Second
+   alternate: false
    games: 11
    wins: 7
    losses: 4
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "AB"
    position: Third
+   alternate: false
    games: 12
    wins: 8
    losses: 4
@@ -56,10 +58,12 @@ years:
    event: Hearts
    team: "AB"
    position: Alternate
+   alternate: true
  - year: 1993
    event: Hearts
    team: "AB"
    position: Third
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -77,6 +81,7 @@ years:
    event: Hearts
    team: "BC"
    position: Alternate
+   alternate: true
 vs:
  - Adams, Valerie
  - Allen, Laurie

@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "NS"
    position: Lead
+   alternate: false
    games: 12
    wins: 9
    losses: 3
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "NS"
    position: Lead
+   alternate: false
    games: 11
    wins: 9
    losses: 2
@@ -56,6 +58,7 @@ years:
    event: Hearts
    team: "NS"
    position: Alternate
+   alternate: true
 vs:
  - Andrews, Lynne
  - Arnott, Janet

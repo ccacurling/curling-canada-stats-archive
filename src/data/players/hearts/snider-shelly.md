@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "NB"
    position: Lead
+   alternate: false
    games: 7
    wins: 1
    losses: 6
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "NB"
    position: Second
+   alternate: false
    games: 4
    wins: 1
    losses: 3

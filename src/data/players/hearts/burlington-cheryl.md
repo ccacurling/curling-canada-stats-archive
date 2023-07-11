@@ -22,14 +22,17 @@ years:
    event: Hearts
    team: "TR"
    position: Alternate
+   alternate: true
  - year: 1997
    event: Hearts
    team: "TR"
    position: Alternate
+   alternate: true
  - year: 1998
    event: Hearts
    team: "TR"
    position: Lead
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -47,6 +50,7 @@ years:
    event: Hearts
    team: "TR"
    position: Lead
+   alternate: false
    games: 11
    wins: 4
    losses: 7

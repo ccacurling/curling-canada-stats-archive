@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "PE"
    position: Lead
+   alternate: true
    games: 3
    wins: 1
    losses: 2

@@ -20,6 +20,7 @@ years:
    event: Hearts
    team: "NU"
    position: Lead
+   alternate: false
    games: 1
    wins: 0
    losses: 1

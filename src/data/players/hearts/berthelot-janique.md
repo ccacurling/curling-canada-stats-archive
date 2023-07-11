@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "QC"
    position: Alternate
+   alternate: true
  - year: 1999
    event: Hearts
    team: "QC"
    position: Fourth
+   alternate: false
    games: 11
    wins: 3
    losses: 8
@@ -43,6 +45,7 @@ years:
    event: Hearts
    team: "QC"
    position: Fourth
+   alternate: false
    games: 11
    wins: 4
    losses: 7

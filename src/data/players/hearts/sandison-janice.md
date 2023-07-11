@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "MB"
    position: Third
+   alternate: false
    games: 11
    wins: 6
    losses: 5

@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "BC"
    position: Second
+   alternate: false
    games: 12
    wins: 9
    losses: 3
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "BC"
    position: Second
+   alternate: false
    games: 11
    wins: 11
    losses: 0
@@ -56,6 +58,7 @@ years:
    event: Hearts
    team: "CA"
    position: Second
+   alternate: false
    games: 13
    wins: 11
    losses: 2
@@ -73,14 +76,17 @@ years:
    event: Hearts
    team: "MB"
    position: Alternate
+   alternate: true
  - year: 1996
    event: Hearts
    team: "CA"
    position: Alternate
+   alternate: true
  - year: 1997
    event: Hearts
    team: "MB"
    position: Third
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -98,6 +104,7 @@ years:
    event: Hearts
    team: "MB"
    position: Second
+   alternate: false
    games: 13
    wins: 8
    losses: 5
@@ -115,6 +122,7 @@ years:
    event: Hearts
    team: "MB"
    position: Second
+   alternate: false
    games: 13
    wins: 9
    losses: 4

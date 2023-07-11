@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "NS"
    position: Alternate
+   alternate: true
  - year: 1999
    event: Hearts
    team: "NB"
    position: Fourth
+   alternate: false
    games: 10
    wins: 5
    losses: 5
@@ -43,6 +45,7 @@ years:
    event: Hearts
    team: "NB"
    position: Third
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -60,6 +63,7 @@ years:
    event: Hearts
    team: "NB"
    position: Third
+   alternate: false
    games: 11
    wins: 2
    losses: 9
@@ -77,6 +81,7 @@ years:
    event: Hearts
    team: "NB"
    position: Second
+   alternate: false
    games: 11
    wins: 1
    losses: 10

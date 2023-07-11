@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "NS"
    position: Second
+   alternate: true
    games: 6
    wins: 3
    losses: 3
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "NS"
    position: Lead
+   alternate: false
    games: 7
    wins: 2
    losses: 5
@@ -56,6 +58,7 @@ years:
    event: Hearts
    team: "NS"
    position: Second
+   alternate: false
    games: 8
    wins: 3
    losses: 5

@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "BC"
    position: Third
+   alternate: false
    games: 8
    wins: 3
    losses: 5
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "BC"
    position: Fourth
+   alternate: false
    games: 3
    wins: 0
    losses: 3
@@ -72,6 +74,7 @@ years:
    event: Hearts
    team: "BC"
    position: Third
+   alternate: false
    games: 13
    wins: 8
    losses: 5
@@ -89,14 +92,17 @@ years:
    event: Hearts
    team: "BC"
    position: Alternate
+   alternate: true
  - year: 2007
    event: Hearts
    team: "CA"
    position: Alternate
+   alternate: true
  - year: 2008
    event: Hearts
    team: "CA"
    position: Alternate
+   alternate: true
 vs:
  - Aleksic, Shannon
  - Arnott, Janet

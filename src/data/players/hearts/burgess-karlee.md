@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "WC"
    position: Third
+   alternate: false
    games: 8
    wins: 3
    losses: 5
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "MB"
    position: Third
+   alternate: false
    games: 9
    wins: 5
    losses: 4
@@ -56,6 +58,7 @@ years:
    event: Hearts
    team: "MB"
    position: Third
+   alternate: false
    games: 12
    wins: 10
    losses: 2

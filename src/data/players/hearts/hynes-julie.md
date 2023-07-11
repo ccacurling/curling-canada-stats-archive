@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "NL"
    position: Second
+   alternate: true
    games: 1
    wins: 0
    losses: 1
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "NL"
    position: Third
+   alternate: true
    games: 1
    wins: 0
    losses: 1
@@ -56,6 +58,7 @@ years:
    event: Hearts
    team: "NL"
    position: Second
+   alternate: false
    games: 11
    wins: 3
    losses: 8
@@ -73,6 +76,7 @@ years:
    event: Hearts
    team: "NL"
    position: Second
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -90,6 +94,7 @@ years:
    event: Hearts
    team: "NL"
    position: Second
+   alternate: false
    games: 9
    wins: 4
    losses: 5
@@ -107,6 +112,7 @@ years:
    event: Hearts
    team: "NL"
    position: Second
+   alternate: false
    games: 7
    wins: 1
    losses: 6
@@ -124,6 +130,7 @@ years:
    event: Hearts
    team: "NL"
    position: Second
+   alternate: false
    games: 8
    wins: 2
    losses: 6

@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "SK"
    position: Third
+   alternate: false
    games: 12
    wins: 7
    losses: 5
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "SK"
    position: Third
+   alternate: false
    games: 12
    wins: 7
    losses: 5
@@ -56,6 +58,7 @@ years:
    event: Hearts
    team: "SK"
    position: Lead
+   alternate: false
    games: 12
    wins: 7
    losses: 5
@@ -73,6 +76,7 @@ years:
    event: Hearts
    team: "SK"
    position: Third
+   alternate: false
    games: 1
    wins: 1
    losses: 0
@@ -106,6 +110,7 @@ years:
    event: Hearts
    team: "SK"
    position: Lead
+   alternate: false
    games: 14
    wins: 9
    losses: 5
@@ -123,6 +128,7 @@ years:
    event: Hearts
    team: "SK"
    position: Alternate
+   alternate: true
 vs:
  - Allen, Michelle
  - Arsenault, Mary-Anne

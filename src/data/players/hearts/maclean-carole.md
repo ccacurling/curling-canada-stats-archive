@@ -12,17 +12,21 @@ years:
    event: Hearts
    team: "NS"
    position: Alternate
+   alternate: true
  - year: 2018
    event: Hearts
    team: "NS"
    position: Alternate
+   alternate: true
  - year: 2022
    event: Hearts
    team: "NS"
    position: Alternate
+   alternate: true
  - year: 2023
    event: Hearts
    team: "NS"
    position: Alternate
+   alternate: true
 vs:
 ---

@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "SK"
    position: Lead
+   alternate: false
    games: 13
    wins: 8
    losses: 5
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "SK"
    position: Lead
+   alternate: false
    games: 12
    wins: 7
    losses: 5
@@ -56,6 +58,7 @@ years:
    event: Hearts
    team: "SK"
    position: Lead
+   alternate: false
    games: 8
    wins: 2
    losses: 6

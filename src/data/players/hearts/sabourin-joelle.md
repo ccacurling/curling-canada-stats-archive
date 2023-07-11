@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "QC"
    position: Alternate
+   alternate: true
  - year: 1997
    event: Hearts
    team: "QC"
    position: Second
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -43,6 +45,7 @@ years:
    event: Hearts
    team: "QC"
    position: Third
+   alternate: false
    games: 11
    wins: 3
    losses: 8
@@ -60,6 +63,7 @@ years:
    event: Hearts
    team: "QC"
    position: Third
+   alternate: false
    games: 10
    wins: 4
    losses: 6
@@ -77,10 +81,12 @@ years:
    event: Hearts
    team: "ON"
    position: Alternate
+   alternate: true
  - year: 2008
    event: Hearts
    team: "QC"
    position: Lead
+   alternate: false
    games: 12
    wins: 8
    losses: 4
@@ -98,6 +104,7 @@ years:
    event: Hearts
    team: "QC"
    position: Lead
+   alternate: false
    games: 13
    wins: 7
    losses: 6
@@ -115,6 +122,7 @@ years:
    event: Hearts
    team: "QC"
    position: Alternate
+   alternate: true
 vs:
  - Affleck, Tricia
  - Aleksic, Shannon

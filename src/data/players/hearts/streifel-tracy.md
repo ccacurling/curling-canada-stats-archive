@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "SK"
    position: Fourth
+   alternate: false
    games: 11
    wins: 2
    losses: 9

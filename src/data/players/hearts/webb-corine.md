@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "MB"
    position: Second
+   alternate: false
    games: 12
    wins: 10
    losses: 2
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "CA"
    position: Alternate
+   alternate: true
 vs:
  - Barker, Catherine
  - Bennet, Connie

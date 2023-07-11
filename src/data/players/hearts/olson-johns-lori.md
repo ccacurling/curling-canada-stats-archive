@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "AB"
    position: Third
+   alternate: false
    games: 12
    wins: 6
    losses: 6
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "AB"
    position: Third
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -56,6 +58,7 @@ years:
    event: Hearts
    team: "AB"
    position: Third
+   alternate: false
    games: 14
    wins: 10
    losses: 4
@@ -73,6 +76,7 @@ years:
    event: Hearts
    team: "MB"
    position: Alternate
+   alternate: true
 vs:
  - Affleck, Tricia
  - Allen, Michelle

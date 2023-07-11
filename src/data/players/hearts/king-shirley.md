@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "TR"
    position: Fourth
+   alternate: false
    games: 11
    wins: 2
    losses: 9

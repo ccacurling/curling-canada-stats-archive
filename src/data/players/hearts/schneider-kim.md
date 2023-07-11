@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "SK"
    position: Third
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "SK"
    position: Third
+   alternate: false
    games: 14
    wins: 11
    losses: 3
@@ -56,6 +58,7 @@ years:
    event: Hearts
    team: "CA"
    position: Third
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -73,6 +76,7 @@ years:
    event: Hearts
    team: "SK"
    position: Alternate
+   alternate: true
 vs:
  - Affleck, Tricia
  - Armstrong, Jacquie

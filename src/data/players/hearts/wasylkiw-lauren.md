@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "NL"
    position: Second
+   alternate: false
    games: 11
    wins: 2
    losses: 9
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "NL"
    position: Alternate
+   alternate: true
 vs:
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca

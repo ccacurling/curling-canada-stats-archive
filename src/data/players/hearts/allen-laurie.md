@@ -22,14 +22,17 @@ years:
    event: Hearts
    team: "MB"
    position: Alternate
+   alternate: true
  - year: 1990
    event: Hearts
    team: "MB"
    position: Alternate
+   alternate: true
  - year: 1992
    event: Hearts
    team: "MB"
    position: Third
+   alternate: false
    games: 13
    wins: 11
    losses: 2
@@ -47,6 +50,7 @@ years:
    event: Hearts
    team: "CA"
    position: Third
+   alternate: false
    games: 11
    wins: 6
    losses: 5

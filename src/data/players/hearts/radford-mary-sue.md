@@ -22,14 +22,17 @@ years:
    event: Hearts
    team: "CA"
    position: Alternate
+   alternate: true
  - year: 2005
    event: Hearts
    team: "CA"
    position: Alternate
+   alternate: true
  - year: 2006
    event: Hearts
    team: "NS"
    position: Lead
+   alternate: true
    games: 1
    wins: 1
    losses: 0

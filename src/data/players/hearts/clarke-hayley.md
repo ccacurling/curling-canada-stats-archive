@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "NS"
    position: Alternate
+   alternate: true
  - year: 2007
    event: Hearts
    team: "NS"
    position: Lead
+   alternate: false
    games: 11
    wins: 3
    losses: 8

@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "ON"
    position: Lead
+   alternate: false
    games: 15
    wins: 11
    losses: 4
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "CA"
    position: Lead
+   alternate: false
    games: 14
    wins: 10
    losses: 4
@@ -56,6 +58,7 @@ years:
    event: Hearts
    team: "CA"
    position: Lead
+   alternate: false
    games: 12
    wins: 7
    losses: 5
@@ -73,6 +76,7 @@ years:
    event: Hearts
    team: "ON"
    position: Third
+   alternate: false
    games: 11
    wins: 4
    losses: 7

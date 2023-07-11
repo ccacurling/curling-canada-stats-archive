@@ -22,14 +22,17 @@ years:
    event: Hearts
    team: "AB"
    position: Alternate
+   alternate: true
  - year: 1999
    event: Hearts
    team: "CA"
    position: Alternate
+   alternate: true
  - year: 2000
    event: Hearts
    team: "AB"
    position: Lead
+   alternate: false
    games: 11
    wins: 6
    losses: 5

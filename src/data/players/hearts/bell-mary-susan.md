@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "ON"
    position: Third
+   alternate: false
    games: 10
    wins: 3
    losses: 7
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "ON"
    position: Alternate
+   alternate: true
 vs:
  - Bartlett, Sue Anne
  - Beaudin, Yvonne

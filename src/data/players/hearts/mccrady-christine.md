@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "ON"
    position: Third
+   alternate: false
    games: 11
    wins: 7
    losses: 4
@@ -39,10 +40,12 @@ years:
    event: Hearts
    team: "ON"
    position: Alternate
+   alternate: true
  - year: 2000
    event: Hearts
    team: "ON"
    position: Alternate
+   alternate: true
 vs:
  - Anderson, Sherry
  - Arnott, Janet

@@ -22,18 +22,22 @@ years:
    event: Hearts
    team: "TR"
    position: Alternate
+   alternate: true
  - year: 1988
    event: Hearts
    team: "TR"
    position: Alternate
+   alternate: true
  - year: 1991
    event: Hearts
    team: "TR"
    position: Alternate
+   alternate: true
  - year: 1994
    event: Hearts
    team: "TR"
    position: Third
+   alternate: false
    games: 11
    wins: 4
    losses: 7

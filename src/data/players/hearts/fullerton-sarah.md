@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "PE"
    position: Second
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "PE"
    position: Third
+   alternate: false
    games: 11
    wins: 3
    losses: 8
@@ -56,6 +58,7 @@ years:
    event: Hearts
    team: "PE"
    position: Third
+   alternate: false
    games: 8
    wins: 2
    losses: 6

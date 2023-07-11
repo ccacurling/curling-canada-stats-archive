@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "SK"
    position: Third
+   alternate: false
    games: 12
    wins: 7
    losses: 5
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "SK"
    position: Alternate
+   alternate: true
 vs:
  - Arsenault, Mary-Anne
  - Belley, Joelle

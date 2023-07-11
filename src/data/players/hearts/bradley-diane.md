@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "PE"
    position: Second
+   alternate: false
    games: 10
    wins: 2
    losses: 8

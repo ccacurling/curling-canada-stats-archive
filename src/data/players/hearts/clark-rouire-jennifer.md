@@ -22,14 +22,17 @@ years:
    event: Hearts
    team: "MB"
    position: Alternate
+   alternate: true
  - year: 2009
    event: Hearts
    team: "CA"
    position: Alternate
+   alternate: true
  - year: 2010
    event: Hearts
    team: "CA"
    position: Lead
+   alternate: true
    games: 2
    wins: 0
    losses: 2
@@ -45,6 +48,7 @@ years:
    event: Hearts
    team: "MB"
    position: Lead
+   alternate: true
    games: 2
    wins: 2
    losses: 0
@@ -60,6 +64,7 @@ years:
    event: Hearts
    team: "MB"
    position: Lead
+   alternate: true
    games: 2
    wins: 2
    losses: 0
@@ -75,6 +80,7 @@ years:
    event: Hearts
    team: "CA"
    position: Lead
+   alternate: true
    games: 2
    wins: 2
    losses: 0
@@ -92,6 +98,7 @@ years:
    event: Hearts
    team: "MB"
    position: Third
+   alternate: true
    games: 1
    wins: 0
    losses: 1

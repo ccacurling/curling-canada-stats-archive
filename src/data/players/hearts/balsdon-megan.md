@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "ON"
    position: Third
+   alternate: false
    games: 8
    wins: 4
    losses: 4

@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "MB"
    position: Alternate
+   alternate: true
  - year: 2014
    event: Hearts
    team: "MB"
    position: Third
+   alternate: false
    games: 14
    wins: 10
    losses: 4

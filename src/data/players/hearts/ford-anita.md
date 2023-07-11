@@ -22,14 +22,17 @@ years:
    event: Hearts
    team: "SK"
    position: Alternate
+   alternate: true
  - year: 1993
    event: Hearts
    team: "SK"
    position: Alternate
+   alternate: true
  - year: 1994
    event: Hearts
    team: "CA"
    position: Lead
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -47,6 +50,7 @@ years:
    event: Hearts
    team: "CA"
    position: Alternate
+   alternate: true
 vs:
  - Charette, Agnes
  - Charette, France

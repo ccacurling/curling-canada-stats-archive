@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "PE"
    position: Alternate
+   alternate: true
  - year: 2003
    event: Hearts
    team: "PE"
    position: Lead
+   alternate: true
    games: 1
    wins: 1
    losses: 0

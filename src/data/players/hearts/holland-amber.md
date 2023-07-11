@@ -22,14 +22,17 @@ years:
    event: Hearts
    team: "SK"
    position: Alternate
+   alternate: true
  - year: 2006
    event: Hearts
    team: "SK"
    position: Alternate
+   alternate: true
  - year: 2010
    event: Hearts
    team: "SK"
    position: Fourth
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -47,6 +50,7 @@ years:
    event: Hearts
    team: "SK"
    position: Fourth
+   alternate: false
    games: 14
    wins: 11
    losses: 3
@@ -64,6 +68,7 @@ years:
    event: Hearts
    team: "CA"
    position: Fourth
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -81,10 +86,12 @@ years:
    event: Hearts
    team: "SK"
    position: Alternate
+   alternate: true
  - year: 2021
    event: Hearts
    team: "SK"
    position: Fourth
+   alternate: true
    games: 1
    wins: 0
    losses: 1
@@ -102,6 +109,7 @@ years:
    event: Hearts
    team: "SK"
    position: Alternate
+   alternate: true
 vs:
  - Affleck, Tricia
  - Armstrong, Jacquie

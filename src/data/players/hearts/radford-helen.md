@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "NS"
    position: Alternate
+   alternate: true
  - year: 1997
    event: Hearts
    team: "NS"
    position: Third
+   alternate: false
    games: 11
    wins: 4
    losses: 7

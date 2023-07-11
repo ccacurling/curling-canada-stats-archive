@@ -12,5 +12,6 @@ years:
    event: Hearts
    team: "SK"
    position: Alternate
+   alternate: true
 vs:
 ---

@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "QC"
    position: Second
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "QC"
    position: Fourth
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -56,10 +58,12 @@ years:
    event: Hearts
    team: "QC"
    position: Alternate
+   alternate: true
  - year: 2010
    event: Hearts
    team: "QC"
    position: Third
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -77,6 +81,7 @@ years:
    event: Hearts
    team: "QC"
    position: Third
+   alternate: false
    games: 13
    wins: 7
    losses: 6
@@ -94,10 +99,12 @@ years:
    event: Hearts
    team: "QC"
    position: Alternate
+   alternate: true
  - year: 2016
    event: Hearts
    team: "QC"
    position: Third
+   alternate: false
    games: 11
    wins: 5
    losses: 6

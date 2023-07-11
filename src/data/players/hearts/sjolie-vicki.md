@@ -12,9 +12,11 @@ years:
    event: Hearts
    team: "AB"
    position: Alternate
+   alternate: true
  - year: 2007
    event: Hearts
    team: "AB"
    position: Alternate
+   alternate: true
 vs:
 ---

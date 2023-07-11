@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "AB"
    position: Alternate
+   alternate: true
  - year: 1996
    event: Hearts
    team: "AB"
    position: Lead
+   alternate: false
    games: 13
    wins: 8
    losses: 5

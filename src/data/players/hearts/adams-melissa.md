@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "NB"
    position: Alternate
+   alternate: true
  - year: 2018
    event: Hearts
    team: "NB"
    position: Third
+   alternate: false
    games: 8
    wins: 5
    losses: 3
@@ -43,6 +45,7 @@ years:
    event: Hearts
    team: "NB"
    position: Fourth
+   alternate: false
    games: 8
    wins: 3
    losses: 5

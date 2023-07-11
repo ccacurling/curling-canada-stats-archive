@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "ON"
    position: Alternate
+   alternate: true
  - year: 2010
    event: Hearts
    team: "ON"
    position: Second
+   alternate: false
    games: 14
    wins: 9
    losses: 5
@@ -43,6 +45,7 @@ years:
    event: Hearts
    team: "NO"
    position: Second
+   alternate: false
    games: 14
    wins: 9
    losses: 5
@@ -60,6 +63,7 @@ years:
    event: Hearts
    team: "NO"
    position: Second
+   alternate: false
    games: 14
    wins: 9
    losses: 5
@@ -77,6 +81,7 @@ years:
    event: Hearts
    team: "NO"
    position: Second
+   alternate: false
    games: 12
    wins: 8
    losses: 4
@@ -94,6 +99,7 @@ years:
    event: Hearts
    team: "NO"
    position: Second
+   alternate: false
    games: 12
    wins: 8
    losses: 4
@@ -111,6 +117,7 @@ years:
    event: Hearts
    team: "NO"
    position: Second
+   alternate: false
    games: 11
    wins: 8
    losses: 3

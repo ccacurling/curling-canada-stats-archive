@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "ON"
    position: Fourth
+   alternate: false
    games: 15
    wins: 11
    losses: 4
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "CA"
    position: Fourth
+   alternate: false
    games: 14
    wins: 10
    losses: 4
@@ -56,6 +58,7 @@ years:
    event: Hearts
    team: "CA"
    position: Fourth
+   alternate: false
    games: 12
    wins: 7
    losses: 5
@@ -73,6 +76,7 @@ years:
    event: Hearts
    team: "ON"
    position: Fourth
+   alternate: false
    games: 13
    wins: 8
    losses: 5
@@ -90,6 +94,7 @@ years:
    event: Hearts
    team: "ON"
    position: Alternate
+   alternate: true
 vs:
  - Alexander, Diane
  - Allardyce, Kathie

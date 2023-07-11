@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "MB"
    position: Alternate
+   alternate: true
  - year: 2002
    event: Hearts
    team: "MB"
    position: Third
+   alternate: false
    games: 12
    wins: 8
    losses: 4
@@ -43,6 +45,7 @@ years:
    event: Hearts
    team: "MB"
    position: Lead
+   alternate: false
    games: 1
    wins: 0
    losses: 1
@@ -60,6 +63,7 @@ years:
    event: Hearts
    team: "MB"
    position: Third
+   alternate: false
    games: 9
    wins: 3
    losses: 6

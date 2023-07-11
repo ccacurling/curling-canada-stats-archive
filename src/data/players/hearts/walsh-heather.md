@@ -12,9 +12,11 @@ years:
    event: Hearts
    team: "SK"
    position: Alternate
+   alternate: true
  - year: 2004
    event: Hearts
    team: "SK"
    position: Alternate
+   alternate: true
 vs:
 ---

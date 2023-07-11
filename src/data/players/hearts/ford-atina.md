@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "SK"
    position: Third
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "CA"
    position: Alternate
+   alternate: true
 vs:
  - Cormier, Sharon
  - Kaylo, Kelly

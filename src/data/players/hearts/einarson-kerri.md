@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "MB"
    position: Fourth
+   alternate: false
    games: 13
    wins: 7
    losses: 6
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "WC"
    position: Fourth
+   alternate: false
    games: 14
    wins: 10
    losses: 4
@@ -56,6 +58,7 @@ years:
    event: Hearts
    team: "MB"
    position: Fourth
+   alternate: false
    games: 13
    wins: 11
    losses: 2
@@ -73,6 +76,7 @@ years:
    event: Hearts
    team: "CA"
    position: Fourth
+   alternate: false
    games: 14
    wins: 12
    losses: 2
@@ -90,6 +94,7 @@ years:
    event: Hearts
    team: "CA"
    position: Fourth
+   alternate: false
    games: 12
    wins: 11
    losses: 1
@@ -107,6 +112,7 @@ years:
    event: Hearts
    team: "CA"
    position: Fourth
+   alternate: false
    games: 12
    wins: 11
    losses: 1

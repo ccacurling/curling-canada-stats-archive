@@ -12,17 +12,21 @@ years:
    event: Hearts
    team: "SK"
    position: Alternate
+   alternate: true
  - year: 1989
    event: Hearts
    team: "SK"
    position: Alternate
+   alternate: true
  - year: 1990
    event: Hearts
    team: "SK"
    position: Alternate
+   alternate: true
  - year: 1992
    event: Hearts
    team: "SK"
    position: Alternate
+   alternate: true
 vs:
 ---

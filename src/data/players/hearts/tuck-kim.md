@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "ON"
    position: Lead
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "ON"
    position: Second
+   alternate: true
    games: 1
    wins: 0
    losses: 1

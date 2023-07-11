@@ -22,14 +22,17 @@ years:
    event: Hearts
    team: "NB"
    position: Alternate
+   alternate: true
  - year: 1990
    event: Hearts
    team: "NB"
    position: Alternate
+   alternate: true
  - year: 1991
    event: Hearts
    team: "NB"
    position: Lead
+   alternate: false
    games: 13
    wins: 9
    losses: 4
@@ -47,18 +50,22 @@ years:
    event: Hearts
    team: "NB"
    position: Alternate
+   alternate: true
  - year: 1995
    event: Hearts
    team: "NB"
    position: Alternate
+   alternate: true
  - year: 1998
    event: Hearts
    team: "NB"
    position: Alternate
+   alternate: true
  - year: 1999
    event: Hearts
    team: "NB"
    position: Lead
+   alternate: true
    games: 2
    wins: 1
    losses: 1
@@ -76,10 +83,12 @@ years:
    event: Hearts
    team: "NB"
    position: Alternate
+   alternate: true
  - year: 2002
    event: Hearts
    team: "NB"
    position: Alternate
+   alternate: true
 vs:
  - Adams, Diane
  - Alexander, Diane

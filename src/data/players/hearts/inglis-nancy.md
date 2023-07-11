@@ -22,14 +22,17 @@ years:
    event: Hearts
    team: "SK"
    position: Alternate
+   alternate: true
  - year: 2003
    event: Hearts
    team: "SK"
    position: Alternate
+   alternate: true
  - year: 2007
    event: Hearts
    team: "SK"
    position: Second
+   alternate: false
    games: 13
    wins: 10
    losses: 3

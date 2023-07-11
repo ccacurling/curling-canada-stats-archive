@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "MB"
    position: Alternate
+   alternate: true
  - year: 2010
    event: Hearts
    team: "MB"
    position: Third
+   alternate: false
    games: 12
    wins: 7
    losses: 5

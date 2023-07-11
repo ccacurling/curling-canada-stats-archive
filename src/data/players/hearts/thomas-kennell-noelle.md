@@ -20,10 +20,12 @@ years:
    event: Hearts
    team: "NL"
    position: Alternate
+   alternate: true
  - year: 2014
    event: Hearts
    team: "NL"
    position: Lead
+   alternate: true
    games: 1
    wins: 0
    losses: 1
@@ -39,6 +41,7 @@ years:
    event: Hearts
    team: "NL"
    position: Alternate
+   alternate: true
 vs:
  - Brown, Rachel
  - Courtney, Joanne

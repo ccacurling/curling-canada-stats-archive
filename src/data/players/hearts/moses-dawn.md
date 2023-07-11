@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "TR"
    position: Second
+   alternate: false
    games: 5
    wins: 1
    losses: 4
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "TR"
    position: Third
+   alternate: false
    games: 6
    wins: 1
    losses: 5
@@ -72,6 +74,7 @@ years:
    event: Hearts
    team: "TR"
    position: Fourth
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -89,6 +92,7 @@ years:
    event: Hearts
    team: "TR"
    position: Fourth
+   alternate: false
    games: 11
    wins: 1
    losses: 10
@@ -106,6 +110,7 @@ years:
    event: Hearts
    team: "TR"
    position: Third
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -123,14 +128,17 @@ years:
    event: Hearts
    team: "TR"
    position: Alternate
+   alternate: true
  - year: 2001
    event: Hearts
    team: "TR"
    position: Alternate
+   alternate: true
  - year: 2003
    event: Hearts
    team: "TR"
    position: Fourth
+   alternate: false
    games: 11
    wins: 2
    losses: 9
@@ -148,6 +156,7 @@ years:
    event: Hearts
    team: "TR"
    position: Lead
+   alternate: false
    games: 10
    wins: 2
    losses: 8
@@ -165,6 +174,7 @@ years:
    event: Hearts
    team: "TR"
    position: Second
+   alternate: false
    games: 1
    wins: 0
    losses: 1
@@ -198,6 +208,7 @@ years:
    event: Hearts
    team: "TR"
    position: Second
+   alternate: false
    games: 9
    wins: 1
    losses: 8
@@ -215,6 +226,7 @@ years:
    event: Hearts
    team: "TR"
    position: Third
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -232,6 +244,7 @@ years:
    event: Hearts
    team: "TR"
    position: Second
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -249,6 +262,7 @@ years:
    event: Hearts
    team: "TR"
    position: Third
+   alternate: false
    games: 11
    wins: 3
    losses: 8

@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "NB"
    position: Third
+   alternate: false
    games: 13
    wins: 7
    losses: 6
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "NB"
    position: Alternate
+   alternate: true
 vs:
  - Allen, Michelle
  - Arsenault, Mary-Anne

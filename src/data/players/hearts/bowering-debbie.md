@@ -12,5 +12,6 @@ years:
    event: Hearts
    team: "NL"
    position: Alternate
+   alternate: true
 vs:
 ---

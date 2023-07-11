@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "BC"
    position: Alternate
+   alternate: true
  - year: 2014
    event: Hearts
    team: "BC"
    position: Third
+   alternate: false
    games: 9
    wins: 5
    losses: 4
@@ -43,6 +45,7 @@ years:
    event: Hearts
    team: "BC"
    position: Alternate
+   alternate: true
 vs:
  - Atkinson, Rebecca
  - Brothers, Jill

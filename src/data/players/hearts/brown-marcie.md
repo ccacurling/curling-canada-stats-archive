@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "NL"
    position: Alternate
+   alternate: true
  - year: 1992
    event: Hearts
    team: "NL"
    position: Third
+   alternate: false
    games: 11
    wins: 1
    losses: 10
@@ -43,14 +45,17 @@ years:
    event: Hearts
    team: "NL"
    position: Alternate
+   alternate: true
  - year: 2001
    event: Hearts
    team: "NL"
    position: Alternate
+   alternate: true
  - year: 2005
    event: Hearts
    team: "NL"
    position: Second
+   alternate: true
    games: 1
    wins: 0
    losses: 1

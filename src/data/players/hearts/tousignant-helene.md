@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "QC"
    position: Fourth
+   alternate: false
    games: 10
    wins: 3
    losses: 7
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "QC"
    position: Fourth
+   alternate: false
    games: 14
    wins: 9
    losses: 5
@@ -56,6 +58,7 @@ years:
    event: Hearts
    team: "QC"
    position: Alternate
+   alternate: true
 vs:
  - Allardyce, Kathie
  - Andrews, Lynne

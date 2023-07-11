@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "QC"
    position: Lead
+   alternate: false
    games: 9
    wins: 5
    losses: 4

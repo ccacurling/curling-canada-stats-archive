@@ -12,5 +12,6 @@ years:
    event: Hearts
    team: "TR"
    position: Alternate
+   alternate: true
 vs:
 ---

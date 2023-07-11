@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "TR"
    position: Third
+   alternate: false
    games: 11
    wins: 1
    losses: 10
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "TR"
    position: Alternate
+   alternate: true
 vs:
  - Affleck, Tricia
  - Anderson, Sherry

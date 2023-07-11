@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "ON"
    position: Lead
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -35,6 +36,7 @@ years:
    event: Hearts
    team: "NO"
    position: Second
+   alternate: false
    games: 12
    wins: 8
    losses: 4
@@ -52,6 +54,7 @@ years:
    event: Hearts
    team: "NO"
    position: Lead
+   alternate: false
    games: 12
    wins: 8
    losses: 4
@@ -69,6 +72,7 @@ years:
    event: Hearts
    team: "NO"
    position: Alternate
+   alternate: true
 vs:
  - Armstrong, Jennifer
  - Babin, Jillian

@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "AB"
    position: Third
+   alternate: false
    games: 13
    wins: 8
    losses: 5
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "AB"
    position: Alternate
+   alternate: true
 vs:
  - Affleck, Tricia
  - Arnott, Janet

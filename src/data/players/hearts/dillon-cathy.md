@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "PE"
    position: Third
+   alternate: false
    games: 10
    wins: 4
    losses: 6
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "PE"
    position: Third
+   alternate: false
    games: 10
    wins: 4
    losses: 6
@@ -56,14 +58,17 @@ years:
    event: Hearts
    team: "PE"
    position: Alternate
+   alternate: true
  - year: 1990
    event: Hearts
    team: "PE"
    position: Alternate
+   alternate: true
  - year: 1992
    event: Hearts
    team: "PE"
    position: Alternate
+   alternate: true
 vs:
  - Adams, Valerie
  - Armstrong, Iris

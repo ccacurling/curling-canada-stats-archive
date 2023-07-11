@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "BC"
    position: Alternate
+   alternate: true
  - year: 1991
    event: Hearts
    team: "BC"
    position: Third
+   alternate: false
    games: 12
    wins: 11
    losses: 1
@@ -43,6 +45,7 @@ years:
    event: Hearts
    team: "CA"
    position: Third
+   alternate: false
    games: 12
    wins: 9
    losses: 3
@@ -60,6 +63,7 @@ years:
    event: Hearts
    team: "BC"
    position: Third
+   alternate: false
    games: 11
    wins: 6
    losses: 5

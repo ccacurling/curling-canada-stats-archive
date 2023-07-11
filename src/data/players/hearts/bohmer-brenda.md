@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "AB"
    position: Alternate
+   alternate: true
  - year: 1997
    event: Hearts
    team: "AB"
    position: Second
+   alternate: false
    games: 12
    wins: 7
    losses: 5
@@ -43,6 +45,7 @@ years:
    event: Hearts
    team: "AB"
    position: Second
+   alternate: false
    games: 13
    wins: 12
    losses: 1
@@ -60,6 +63,7 @@ years:
    event: Hearts
    team: "CA"
    position: Second
+   alternate: false
    games: 14
    wins: 9
    losses: 5
@@ -77,6 +81,7 @@ years:
    event: Hearts
    team: "AB"
    position: Second
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -94,6 +99,7 @@ years:
    event: Hearts
    team: "AB"
    position: Second
+   alternate: false
    games: 11
    wins: 5
    losses: 6

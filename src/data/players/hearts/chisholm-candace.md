@@ -20,10 +20,12 @@ years:
    event: Hearts
    team: "SK"
    position: Alternate
+   alternate: true
  - year: 2016
    event: Hearts
    team: "SK"
    position: Lead
+   alternate: true
    games: 1
    wins: 0
    losses: 1
@@ -37,6 +39,7 @@ years:
    event: Hearts
    team: "SK"
    position: Second
+   alternate: true
    games: 1
    wins: 0
    losses: 1

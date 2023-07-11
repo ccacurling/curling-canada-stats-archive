@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "AB"
    position: Third
+   alternate: false
    games: 13
    wins: 7
    losses: 6
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "AB"
    position: Third
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -56,6 +58,7 @@ years:
    event: Hearts
    team: "AB"
    position: Lead
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -69,6 +72,7 @@ years:
    event: Hearts
    team: "AB"
    position: Second
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -96,6 +100,7 @@ years:
    event: Hearts
    team: "CA"
    position: Lead
+   alternate: true
    games: 2
    wins: 1
    losses: 1
@@ -111,6 +116,7 @@ years:
    event: Hearts
    team: "AB"
    position: Lead
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -128,6 +134,7 @@ years:
    event: Hearts
    team: "WC"
    position: Alternate
+   alternate: true
 vs:
  - Aleksic, Shannon
  - Arnott, Janet

@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "AB"
    position: Alternate
+   alternate: true
  - year: 2004
    event: Hearts
    team: "AB"
    position: Second
+   alternate: false
    games: 11
    wins: 6
    losses: 5

@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "BC"
    position: Lead
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "BC"
    position: Third
+   alternate: true
    games: 2
    wins: 1
    losses: 1
@@ -56,6 +58,7 @@ years:
    event: Hearts
    team: "BC"
    position: Fourth
+   alternate: true
    games: 2
    wins: 2
    losses: 0
@@ -89,6 +92,7 @@ years:
    event: Hearts
    team: "BC"
    position: Fourth
+   alternate: false
    games: 11
    wins: 1
    losses: 10

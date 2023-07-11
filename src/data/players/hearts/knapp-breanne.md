@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "MB"
    position: Lead
+   alternate: true
    games: 1
    wins: 0
    losses: 1
@@ -37,6 +38,7 @@ years:
    event: Hearts
    team: "MB"
    position: Third
+   alternate: true
    games: 2
    wins: 1
    losses: 1
@@ -70,6 +72,7 @@ years:
    event: Hearts
    team: "MB"
    position: Lead
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -87,6 +90,7 @@ years:
    event: Hearts
    team: "SK"
    position: Lead
+   alternate: false
    games: 12
    wins: 6
    losses: 6

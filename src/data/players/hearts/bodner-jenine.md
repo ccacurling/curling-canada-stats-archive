@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "NU"
    position: Second
+   alternate: false
    games: 7
    wins: 1
    losses: 6

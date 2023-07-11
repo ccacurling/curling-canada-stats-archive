@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "NL"
    position: Third
+   alternate: false
    games: 10
    wins: 4
    losses: 6
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "NL"
    position: Third
+   alternate: false
    games: 11
    wins: 1
    losses: 10

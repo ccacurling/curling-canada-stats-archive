@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "NB"
    position: Third
+   alternate: false
    games: 9
    wins: 4
    losses: 5

@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "NL"
    position: Alternate
+   alternate: true
  - year: 1994
    event: Hearts
    team: "NL"
    position: Lead
+   alternate: false
    games: 13
    wins: 8
    losses: 5
@@ -43,6 +45,7 @@ years:
    event: Hearts
    team: "NL"
    position: Lead
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -60,6 +63,7 @@ years:
    event: Hearts
    team: "NL"
    position: Lead
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -77,6 +81,7 @@ years:
    event: Hearts
    team: "NL"
    position: Lead
+   alternate: false
    games: 13
    wins: 8
    losses: 5
@@ -94,6 +99,7 @@ years:
    event: Hearts
    team: "NL"
    position: Lead
+   alternate: false
    games: 9
    wins: 3
    losses: 6
@@ -111,6 +117,7 @@ years:
    event: Hearts
    team: "NL"
    position: Lead
+   alternate: false
    games: 12
    wins: 8
    losses: 4
@@ -128,6 +135,7 @@ years:
    event: Hearts
    team: "NL"
    position: Lead
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -145,6 +153,7 @@ years:
    event: Hearts
    team: "NL"
    position: Lead
+   alternate: false
    games: 11
    wins: 1
    losses: 10
@@ -162,6 +171,7 @@ years:
    event: Hearts
    team: "NL"
    position: Lead
+   alternate: false
    games: 11
    wins: 2
    losses: 9

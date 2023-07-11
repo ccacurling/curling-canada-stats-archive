@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "TR"
    position: Third
+   alternate: false
    games: 10
    wins: 2
    losses: 8
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "TR"
    position: Fourth
+   alternate: false
    games: 1
    wins: 0
    losses: 1
@@ -72,6 +74,7 @@ years:
    event: Hearts
    team: "YT"
    position: Fourth
+   alternate: false
    games: 8
    wins: 1
    losses: 7
@@ -89,6 +92,7 @@ years:
    event: Hearts
    team: "YT"
    position: Third
+   alternate: false
    games: 7
    wins: 0
    losses: 7
@@ -106,6 +110,7 @@ years:
    event: Hearts
    team: "YT"
    position: Third
+   alternate: false
    games: 6
    wins: 0
    losses: 6

@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "NS"
    position: Fourth
+   alternate: false
    games: 11
    wins: 9
    losses: 2
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "NS"
    position: Third
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -56,6 +58,7 @@ years:
    event: Hearts
    team: "NS"
    position: Alternate
+   alternate: true
 vs:
  - Adams, Valerie
  - Armstrong, Iris

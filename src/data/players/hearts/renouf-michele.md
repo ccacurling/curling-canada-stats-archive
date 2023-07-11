@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "NL"
    position: Alternate
+   alternate: true
  - year: 1998
    event: Hearts
    team: "NL"
    position: Second
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -43,6 +45,7 @@ years:
    event: Hearts
    team: "NL"
    position: Lead
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -60,6 +63,7 @@ years:
    event: Hearts
    team: "NL"
    position: Lead
+   alternate: false
    games: 11
    wins: 3
    losses: 8

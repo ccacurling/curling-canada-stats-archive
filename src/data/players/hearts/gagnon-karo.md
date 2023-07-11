@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "QC"
    position: Alternate
+   alternate: true
  - year: 2004
    event: Hearts
    team: "QC"
    position: Third
+   alternate: false
    games: 14
    wins: 10
    losses: 4

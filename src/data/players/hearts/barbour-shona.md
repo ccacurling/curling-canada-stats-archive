@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "TR"
    position: Alternate
+   alternate: true
  - year: 2008
    event: Hearts
    team: "TR"
    position: Second
+   alternate: true
    games: 2
    wins: 0
    losses: 2
@@ -43,6 +45,7 @@ years:
    event: Hearts
    team: "TR"
    position: Second
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -60,6 +63,7 @@ years:
    event: Hearts
    team: "TR"
    position: Lead
+   alternate: false
    games: 9
    wins: 2
    losses: 7
@@ -77,6 +81,7 @@ years:
    event: Hearts
    team: "TR"
    position: Lead
+   alternate: false
    games: 5
    wins: 3
    losses: 2
@@ -94,6 +99,7 @@ years:
    event: Hearts
    team: "TR"
    position: Second
+   alternate: false
    games: 2
    wins: 0
    losses: 2
@@ -111,6 +117,7 @@ years:
    event: Hearts
    team: "TR"
    position: Third
+   alternate: false
    games: 2
    wins: 0
    losses: 2
@@ -144,6 +151,7 @@ years:
    event: Hearts
    team: "TR"
    position: Second
+   alternate: true
    games: 1
    wins: 0
    losses: 1
@@ -161,10 +169,12 @@ years:
    event: Hearts
    team: "NT"
    position: Alternate
+   alternate: true
  - year: 2018
    event: Hearts
    team: "NT"
    position: Lead
+   alternate: false
    games: 8
    wins: 2
    losses: 6
@@ -182,6 +192,7 @@ years:
    event: Hearts
    team: "NT"
    position: Lead
+   alternate: false
    games: 7
    wins: 3
    losses: 4
@@ -199,6 +210,7 @@ years:
    event: Hearts
    team: "NT"
    position: Lead
+   alternate: false
    games: 7
    wins: 2
    losses: 5
@@ -216,6 +228,7 @@ years:
    event: Hearts
    team: "NT"
    position: Lead
+   alternate: false
    games: 8
    wins: 4
    losses: 4

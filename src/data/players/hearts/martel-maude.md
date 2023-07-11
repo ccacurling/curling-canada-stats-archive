@@ -12,5 +12,6 @@ years:
    event: Hearts
    team: "QC"
    position: Alternate
+   alternate: true
 vs:
 ---

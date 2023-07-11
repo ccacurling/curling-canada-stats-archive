@@ -22,10 +22,12 @@ years:
    event: Hearts
    team: "NS"
    position: Alternate
+   alternate: true
  - year: 2000
    event: Hearts
    team: "NS"
    position: Lead
+   alternate: false
    games: 12
    wins: 7
    losses: 5
@@ -43,14 +45,17 @@ years:
    event: Hearts
    team: "NS"
    position: Alternate
+   alternate: true
  - year: 2002
    event: Hearts
    team: "CA"
    position: Alternate
+   alternate: true
  - year: 2003
    event: Hearts
    team: "CA"
    position: Second
+   alternate: true
    games: 2
    wins: 1
    losses: 1
@@ -68,6 +73,7 @@ years:
    event: Hearts
    team: "NS"
    position: Second
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -85,6 +91,7 @@ years:
    event: Hearts
    team: "NS"
    position: Second
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -102,6 +109,7 @@ years:
    event: Hearts
    team: "AB"
    position: Lead
+   alternate: false
    games: 14
    wins: 10
    losses: 4
@@ -119,6 +127,7 @@ years:
    event: Hearts
    team: "CA"
    position: Lead
+   alternate: false
    games: 14
    wins: 8
    losses: 6
@@ -136,6 +145,7 @@ years:
    event: Hearts
    team: "AB"
    position: Lead
+   alternate: false
    games: 13
    wins: 11
    losses: 2
@@ -153,6 +163,7 @@ years:
    event: Hearts
    team: "CA"
    position: Lead
+   alternate: false
    games: 13
    wins: 10
    losses: 3

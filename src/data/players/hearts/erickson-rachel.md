@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "WC"
    position: Lead
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -35,6 +36,7 @@ years:
    event: Hearts
    team: "WC"
    position: Lead
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -52,6 +54,7 @@ years:
    event: Hearts
    team: "WC"
    position: Second
+   alternate: true
    games: 1
    wins: 1
    losses: 0

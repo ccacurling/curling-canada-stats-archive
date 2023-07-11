@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "WC"
    position: Third
+   alternate: true
    games: 7
    wins: 6
    losses: 1

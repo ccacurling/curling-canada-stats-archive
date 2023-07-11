@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "ON"
    position: Third
+   alternate: false
    games: 10
    wins: 6
    losses: 4
@@ -39,10 +40,12 @@ years:
    event: Hearts
    team: "ON"
    position: Alternate
+   alternate: true
  - year: 1987
    event: Hearts
    team: "CA"
    position: Alternate
+   alternate: true
 vs:
  - Andrews, Lynne
  - Aulenback, Wanda

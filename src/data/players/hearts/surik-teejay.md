@@ -22,6 +22,7 @@ years:
    event: Hearts
    team: "TR"
    position: Third
+   alternate: false
    games: 5
    wins: 0
    losses: 5
@@ -39,6 +40,7 @@ years:
    event: Hearts
    team: "TR"
    position: Fourth
+   alternate: false
    games: 6
    wins: 1
    losses: 5
@@ -72,6 +74,7 @@ years:
    event: Hearts
    team: "SK"
    position: Alternate
+   alternate: true
 vs:
  - Arsenault, Mary-Anne
  - Belanger, Nancy
