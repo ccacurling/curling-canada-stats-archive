@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NS"
    position: Third
+   alternate: false
    games: 11
    wins: 3
    losses: 8
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "NS"
    position: Third
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -46,6 +48,7 @@ years:
    event: Brier
    team: "NS"
    position: Third
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -63,10 +66,12 @@ years:
    event: Brier
    team: "NS"
    position: Alternate
+   alternate: true
  - year: 1990
    event: Brier
    team: "NS"
    position: Third
+   alternate: false
    games: 11
    wins: 5
    losses: 6

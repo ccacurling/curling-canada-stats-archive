@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "BC"
    position: Fourth
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "BC"
    position: Third
+   alternate: false
    games: 7
    wins: 2
    losses: 5
@@ -56,6 +58,7 @@ years:
    event: Brier
    team: "BC"
    position: Third
+   alternate: false
    games: 8
    wins: 4
    losses: 4

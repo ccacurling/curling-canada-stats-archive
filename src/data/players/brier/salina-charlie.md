@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NO"
    position: Lead
+   alternate: true
    games: 1
    wins: 0
    losses: 1
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "MB"
    position: Lead
+   alternate: false
    games: 12
    wins: 9
    losses: 3

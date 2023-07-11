@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NL"
    position: Second
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "NL"
    position: Second
+   alternate: false
    games: 12
    wins: 8
    losses: 4
@@ -56,6 +58,7 @@ years:
    event: Brier
    team: "NL"
    position: Lead
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -73,6 +76,7 @@ years:
    event: Brier
    team: "NL"
    position: Lead
+   alternate: false
    games: 13
    wins: 9
    losses: 4
@@ -90,6 +94,7 @@ years:
    event: Brier
    team: "NL"
    position: Lead
+   alternate: false
    games: 12
    wins: 8
    losses: 4
@@ -107,6 +112,7 @@ years:
    event: Brier
    team: "NL"
    position: Lead
+   alternate: false
    games: 12
    wins: 8
    losses: 4
@@ -124,10 +130,12 @@ years:
    event: Brier
    team: "NL"
    position: Alternate
+   alternate: true
  - year: 2014
    event: Brier
    team: "NL"
    position: Lead
+   alternate: true
    games: 1
    wins: 1
    losses: 0

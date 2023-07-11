@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "AB"
    position: Lead
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "AB"
    position: Alternate
+   alternate: true
 vs:
  - Adams, Kevin
  - Armstrong, Jim

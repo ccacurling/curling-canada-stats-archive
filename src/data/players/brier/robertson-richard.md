@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "TR"
    position: Third
+   alternate: false
    games: 10
    wins: 0
    losses: 10
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "TR"
    position: Third
+   alternate: false
    games: 11
    wins: 3
    losses: 8
@@ -56,10 +58,12 @@ years:
    event: Brier
    team: "TR"
    position: Alternate
+   alternate: true
  - year: 1993
    event: Brier
    team: "TR"
    position: Third
+   alternate: false
    games: 9
    wins: 2
    losses: 7
@@ -77,6 +81,7 @@ years:
    event: Brier
    team: "TR"
    position: Fourth
+   alternate: false
    games: 11
    wins: 1
    losses: 10
@@ -94,6 +99,7 @@ years:
    event: Brier
    team: "TR"
    position: Alternate
+   alternate: true
 vs:
  - Adams, Jim
  - Adams, Steve

@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "CA"
    position: Lead
+   alternate: true
    games: 2
    wins: 2
    losses: 0

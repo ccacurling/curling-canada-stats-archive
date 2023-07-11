@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NS"
    position: Fourth
+   alternate: false
    games: 11
    wins: 3
    losses: 8
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "NS"
    position: Fourth
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -56,6 +58,7 @@ years:
    event: Brier
    team: "NS"
    position: Second
+   alternate: false
    games: 10
    wins: 3
    losses: 7
@@ -73,6 +76,7 @@ years:
    event: Brier
    team: "NS"
    position: Alternate
+   alternate: true
 vs:
  - Adam, Gerry
  - Adams, Kevin

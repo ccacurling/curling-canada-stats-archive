@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "QC"
    position: Third
+   alternate: false
    games: 13
    wins: 7
    losses: 6
@@ -39,10 +40,12 @@ years:
    event: Brier
    team: "QC"
    position: Alternate
+   alternate: true
  - year: 1990
    event: Brier
    team: "QC"
    position: Third
+   alternate: false
    games: 7
    wins: 2
    losses: 5
@@ -60,6 +63,7 @@ years:
    event: Brier
    team: "QC"
    position: Fourth
+   alternate: false
    games: 3
    wins: 2
    losses: 1
@@ -93,6 +97,7 @@ years:
    event: Brier
    team: "QC"
    position: Third
+   alternate: false
    games: 11
    wins: 2
    losses: 9

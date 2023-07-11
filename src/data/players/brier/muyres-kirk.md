@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "SK"
    position: Third
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "SK"
    position: Third
+   alternate: false
    games: 13
    wins: 8
    losses: 5
@@ -56,6 +58,7 @@ years:
    event: Brier
    team: "SK"
    position: Third
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -73,6 +76,7 @@ years:
    event: Brier
    team: "SK"
    position: Second
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -90,6 +94,7 @@ years:
    event: Brier
    team: "SK"
    position: Fourth
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -107,6 +112,7 @@ years:
    event: Brier
    team: "SK"
    position: Second
+   alternate: false
    games: 13
    wins: 9
    losses: 4
@@ -124,6 +130,7 @@ years:
    event: Brier
    team: "WC"
    position: Second
+   alternate: false
    games: 9
    wins: 6
    losses: 3

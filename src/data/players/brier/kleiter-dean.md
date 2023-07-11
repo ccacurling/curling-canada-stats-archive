@@ -12,9 +12,11 @@ years:
    event: Brier
    team: "SK"
    position: Alternate
+   alternate: true
  - year: 2003
    event: Brier
    team: "SK"
    position: Alternate
+   alternate: true
 vs:
 ---

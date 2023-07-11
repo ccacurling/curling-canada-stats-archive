@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "PE"
    position: Lead
+   alternate: true
    games: 1
    wins: 0
    losses: 1
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "PE"
    position: Fourth
+   alternate: false
    games: 11
    wins: 2
    losses: 9
@@ -56,10 +58,12 @@ years:
    event: Brier
    team: "PE"
    position: Alternate
+   alternate: true
  - year: 1992
    event: Brier
    team: "PE"
    position: Alternate
+   alternate: true
 vs:
  - Adams, Bill
  - Adams, Jim

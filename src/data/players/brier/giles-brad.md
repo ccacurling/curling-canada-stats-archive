@@ -12,6 +12,7 @@ years:
    event: Brier
    team: "BC"
    position: Lead
+   alternate: false
    games: 12
    wins: 9
    losses: 3
@@ -19,6 +20,7 @@ years:
    event: Brier
    team: "BC"
    position: Alternate
+   alternate: true
 vs:
  - Aitken, Don
  - Armour, Doug

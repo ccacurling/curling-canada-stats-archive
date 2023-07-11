@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "PE"
    position: Fourth
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -39,14 +40,17 @@ years:
    event: Brier
    team: "PE"
    position: Alternate
+   alternate: true
  - year: 1993
    event: Brier
    team: "PE"
    position: Alternate
+   alternate: true
  - year: 1996
    event: Brier
    team: "PE"
    position: Fourth
+   alternate: false
    games: 13
    wins: 7
    losses: 6
@@ -64,6 +68,7 @@ years:
    event: Brier
    team: "PE"
    position: Fourth
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -81,6 +86,7 @@ years:
    event: Brier
    team: "PE"
    position: Third
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -98,10 +104,12 @@ years:
    event: Brier
    team: "PE"
    position: Alternate
+   alternate: true
  - year: 2010
    event: Brier
    team: "PE"
    position: Alternate
+   alternate: true
 vs:
  - Alderman, Dan
  - Allan, John

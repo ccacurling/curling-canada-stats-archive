@@ -22,18 +22,22 @@ years:
    event: Brier
    team: "NS"
    position: Alternate
+   alternate: true
  - year: 2004
    event: Brier
    team: "NS"
    position: Alternate
+   alternate: true
  - year: 2006
    event: Brier
    team: "NS"
    position: Alternate
+   alternate: true
  - year: 2009
    event: Brier
    team: "NS"
    position: Second
+   alternate: true
    games: 1
    wins: 0
    losses: 1

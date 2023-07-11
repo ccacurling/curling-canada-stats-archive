@@ -12,13 +12,16 @@ years:
    event: Brier
    team: "ON"
    position: Alternate
+   alternate: true
  - year: 2001
    event: Brier
    team: "ON"
    position: Alternate
+   alternate: true
  - year: 2005
    event: Brier
    team: "ON"
    position: Alternate
+   alternate: true
 vs:
 ---

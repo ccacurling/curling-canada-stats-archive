@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "WC"
    position: Lead
+   alternate: true
    games: 5
    wins: 3
    losses: 2

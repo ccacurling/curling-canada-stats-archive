@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "AB"
    position: Third
+   alternate: false
    games: 12
    wins: 10
    losses: 2

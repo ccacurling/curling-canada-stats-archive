@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "SK"
    position: Lead
+   alternate: false
    games: 10
    wins: 1
    losses: 9

@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "MB"
    position: Third
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -39,10 +40,12 @@ years:
    event: Brier
    team: "MB"
    position: Alternate
+   alternate: true
  - year: 1986
    event: Brier
    team: "MB"
    position: Alternate
+   alternate: true
 vs:
  - Aitken, Don
  - Andrews, Lew

@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "PE"
    position: Fourth
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "PE"
    position: Fourth
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -56,6 +58,7 @@ years:
    event: Brier
    team: "PE"
    position: Fourth
+   alternate: false
    games: 12
    wins: 7
    losses: 5
@@ -73,6 +76,7 @@ years:
    event: Brier
    team: "PE"
    position: Fourth
+   alternate: false
    games: 10
    wins: 3
    losses: 7
@@ -90,6 +94,7 @@ years:
    event: Brier
    team: "PE"
    position: Fourth
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -107,10 +112,12 @@ years:
    event: Brier
    team: "PE"
    position: Alternate
+   alternate: true
  - year: 2002
    event: Brier
    team: "PE"
    position: Third
+   alternate: false
    games: 11
    wins: 2
    losses: 9
@@ -128,6 +135,7 @@ years:
    event: Brier
    team: "PE"
    position: Fourth
+   alternate: false
    games: 11
    wins: 1
    losses: 10
@@ -145,6 +153,7 @@ years:
    event: Brier
    team: "PE"
    position: Lead
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -162,6 +171,7 @@ years:
    event: Brier
    team: "PE"
    position: Lead
+   alternate: true
    games: 1
    wins: 1
    losses: 0

@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NL"
    position: Fourth
+   alternate: false
    games: 11
    wins: 3
    losses: 8
@@ -39,10 +40,12 @@ years:
    event: Brier
    team: "NL"
    position: Alternate
+   alternate: true
  - year: 1998
    event: Brier
    team: "NL"
    position: Fourth
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -60,6 +63,7 @@ years:
    event: Brier
    team: "NL"
    position: Third
+   alternate: true
    games: 1
    wins: 0
    losses: 1

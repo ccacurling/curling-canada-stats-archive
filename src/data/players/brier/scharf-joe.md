@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NO"
    position: Second
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "NO"
    position: Lead
+   alternate: true
    games: 1
    wins: 0
    losses: 1
@@ -54,6 +56,7 @@ years:
    event: Brier
    team: "NO"
    position: Alternate
+   alternate: true
 vs:
  - Alderman, Dan
  - Bailey, Scott

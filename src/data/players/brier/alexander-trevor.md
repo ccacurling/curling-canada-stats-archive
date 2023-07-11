@@ -22,10 +22,12 @@ years:
    event: Brier
    team: "TR"
    position: Alternate
+   alternate: true
  - year: 1988
    event: Brier
    team: "TR"
    position: Fourth
+   alternate: false
    games: 11
    wins: 1
    losses: 10
@@ -43,6 +45,7 @@ years:
    event: Brier
    team: "TR"
    position: Fourth
+   alternate: false
    games: 11
    wins: 3
    losses: 8
@@ -60,6 +63,7 @@ years:
    event: Brier
    team: "TR"
    position: Fourth
+   alternate: false
    games: 11
    wins: 3
    losses: 8
@@ -77,6 +81,7 @@ years:
    event: Brier
    team: "TR"
    position: Fourth
+   alternate: false
    games: 11
    wins: 1
    losses: 10

@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NL"
    position: Lead
+   alternate: false
    games: 8
    wins: 2
    losses: 6

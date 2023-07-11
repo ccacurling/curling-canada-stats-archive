@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NO"
    position: Third
+   alternate: false
    games: 10
    wins: 5
    losses: 5
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "NO"
    position: Third
+   alternate: false
    games: 10
    wins: 3
    losses: 7

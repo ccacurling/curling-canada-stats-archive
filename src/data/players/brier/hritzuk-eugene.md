@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "SK"
    position: Fourth
+   alternate: false
    games: 14
    wins: 8
    losses: 6
@@ -39,10 +40,12 @@ years:
    event: Brier
    team: "SK"
    position: Alternate
+   alternate: true
  - year: 1988
    event: Brier
    team: "SK"
    position: Fourth
+   alternate: false
    games: 13
    wins: 9
    losses: 4

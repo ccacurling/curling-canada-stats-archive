@@ -22,10 +22,12 @@ years:
    event: Brier
    team: "PE"
    position: Alternate
+   alternate: true
  - year: 1997
    event: Brier
    team: "PE"
    position: Lead
+   alternate: true
    games: 1
    wins: 0
    losses: 1
@@ -43,10 +45,12 @@ years:
    event: Brier
    team: "PE"
    position: Alternate
+   alternate: true
  - year: 2003
    event: Brier
    team: "PE"
    position: Alternate
+   alternate: true
 vs:
  - Ellis, Ken Jr.
  - Henderson, Lorne

@@ -20,6 +20,7 @@ years:
    event: Brier
    team: "NT"
    position: Second
+   alternate: true
    games: 2
    wins: 0
    losses: 2

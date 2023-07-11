@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NO"
    position: Lead
+   alternate: false
    games: 11
    wins: 3
    losses: 8
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "NO"
    position: Lead
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -56,6 +58,7 @@ years:
    event: Brier
    team: "NO"
    position: Lead
+   alternate: false
    games: 11
    wins: 2
    losses: 9
@@ -73,18 +76,22 @@ years:
    event: Brier
    team: "NO"
    position: Alternate
+   alternate: true
  - year: 2017
    event: Brier
    team: "NO"
    position: Alternate
+   alternate: true
  - year: 2019
    event: Brier
    team: "NO"
    position: Alternate
+   alternate: true
  - year: 2020
    event: Brier
    team: "NO"
    position: Second
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -102,6 +109,7 @@ years:
    event: Brier
    team: "NO"
    position: Lead
+   alternate: true
    games: 1
    wins: 1
    losses: 0

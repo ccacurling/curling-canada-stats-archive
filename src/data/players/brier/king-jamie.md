@@ -12,13 +12,16 @@ years:
    event: Brier
    team: "AB"
    position: Alternate
+   alternate: true
  - year: 2014
    event: Brier
    team: "AB"
    position: Alternate
+   alternate: true
  - year: 2015
    event: Brier
    team: "AB"
    position: Alternate
+   alternate: true
 vs:
 ---

@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "SK"
    position: Fourth
+   alternate: false
    games: 14
    wins: 9
    losses: 5
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "SK"
    position: Alternate
+   alternate: true
 vs:
  - Allan, John
  - Burtnyk, Kerry

@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NS"
    position: Second
+   alternate: false
    games: 8
    wins: 3
    losses: 5
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "NS"
    position: Alternate
+   alternate: true
 vs:
  - Asselin, Felix
  - Borden, Robert

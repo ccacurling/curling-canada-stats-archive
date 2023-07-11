@@ -22,10 +22,12 @@ years:
    event: Brier
    team: "NB"
    position: Alternate
+   alternate: true
  - year: 2015
    event: Brier
    team: "NB"
    position: Third
+   alternate: false
    games: 11
    wins: 2
    losses: 9

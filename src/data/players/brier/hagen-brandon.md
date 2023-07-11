@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "YT"
    position: Second
+   alternate: false
    games: 8
    wins: 0
    losses: 8

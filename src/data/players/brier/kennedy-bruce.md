@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NO"
    position: Lead
+   alternate: false
    games: 13
    wins: 9
    losses: 4
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "NO"
    position: Lead
+   alternate: false
    games: 12
    wins: 9
    losses: 3
@@ -56,6 +58,7 @@ years:
    event: Brier
    team: "NO"
    position: Lead
+   alternate: false
    games: 13
    wins: 10
    losses: 3
@@ -63,10 +66,12 @@ years:
    event: Brier
    team: "NO"
    position: Alternate
+   alternate: true
  - year: 1987
    event: Brier
    team: "NO"
    position: Lead
+   alternate: false
    games: 10
    wins: 4
    losses: 6
@@ -84,6 +89,7 @@ years:
    event: Brier
    team: "NO"
    position: Alternate
+   alternate: true
 vs:
  - Adams, Kevin
  - Aitken, Don

@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "SK"
    position: Lead
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "SK"
    position: Lead
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -56,6 +58,7 @@ years:
    event: Brier
    team: "SK"
    position: Lead
+   alternate: false
    games: 13
    wins: 8
    losses: 5
@@ -73,6 +76,7 @@ years:
    event: Brier
    team: "SK"
    position: Lead
+   alternate: false
    games: 13
    wins: 9
    losses: 4
@@ -90,6 +94,7 @@ years:
    event: Brier
    team: "WC"
    position: Lead
+   alternate: false
    games: 9
    wins: 6
    losses: 3
@@ -107,6 +112,7 @@ years:
    event: Brier
    team: "SK"
    position: Alternate
+   alternate: true
 vs:
  - Aho, David
  - Asselin, Felix

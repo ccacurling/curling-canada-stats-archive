@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "MB"
    position: Fourth
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "MB"
    position: Fourth
+   alternate: false
    games: 12
    wins: 6
    losses: 6
@@ -56,6 +58,7 @@ years:
    event: Brier
    team: "WC"
    position: Fourth
+   alternate: false
    games: 10
    wins: 6
    losses: 4

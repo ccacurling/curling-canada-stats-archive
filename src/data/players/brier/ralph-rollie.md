@@ -22,10 +22,12 @@ years:
    event: Brier
    team: "NO"
    position: Alternate
+   alternate: true
  - year: 1997
    event: Brier
    team: "NO"
    position: Third
+   alternate: true
    games: 1
    wins: 0
    losses: 1

@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NS"
    position: Fourth
+   alternate: false
    games: 11
    wins: 1
    losses: 10

@@ -12,9 +12,11 @@ years:
    event: Brier
    team: "QC"
    position: Alternate
+   alternate: true
  - year: 2007
    event: Brier
    team: "QC"
    position: Alternate
+   alternate: true
 vs:
 ---

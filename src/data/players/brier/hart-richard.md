@@ -22,10 +22,12 @@ years:
    event: Brier
    team: "ON"
    position: Alternate
+   alternate: true
  - year: 2006
    event: Brier
    team: "ON"
    position: Third
+   alternate: false
    games: 13
    wins: 11
    losses: 2
@@ -43,6 +45,7 @@ years:
    event: Brier
    team: "ON"
    position: Third
+   alternate: false
    games: 14
    wins: 12
    losses: 2
@@ -60,6 +63,7 @@ years:
    event: Brier
    team: "ON"
    position: Third
+   alternate: false
    games: 14
    wins: 11
    losses: 3
@@ -77,6 +81,7 @@ years:
    event: Brier
    team: "ON"
    position: Third
+   alternate: false
    games: 13
    wins: 9
    losses: 4
@@ -94,6 +99,7 @@ years:
    event: Brier
    team: "ON"
    position: Third
+   alternate: false
    games: 13
    wins: 12
    losses: 1
@@ -111,6 +117,7 @@ years:
    event: Brier
    team: "ON"
    position: Third
+   alternate: false
    games: 14
    wins: 10
    losses: 4
@@ -128,6 +135,7 @@ years:
    event: Brier
    team: "ON"
    position: Third
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -145,6 +153,7 @@ years:
    event: Brier
    team: "ON"
    position: Third
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -162,6 +171,7 @@ years:
    event: Brier
    team: "ON"
    position: Alternate
+   alternate: true
 vs:
  - Adam, Gerry
  - Adams, Shawn

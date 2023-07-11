@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "QC"
    position: Second
+   alternate: false
    games: 13
    wins: 7
    losses: 6
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "QC"
    position: Lead
+   alternate: true
    games: 6
    wins: 1
    losses: 5
@@ -56,6 +58,7 @@ years:
    event: Brier
    team: "QC"
    position: Second
+   alternate: true
    games: 3
    wins: 3
    losses: 0
@@ -89,6 +92,7 @@ years:
    event: Brier
    team: "QC"
    position: Lead
+   alternate: false
    games: 9
    wins: 2
    losses: 7
@@ -106,6 +110,7 @@ years:
    event: Brier
    team: "QC"
    position: Fourth
+   alternate: false
    games: 2
    wins: 0
    losses: 2

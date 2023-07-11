@@ -22,14 +22,17 @@ years:
    event: Brier
    team: "NL"
    position: Alternate
+   alternate: true
  - year: 2004
    event: Brier
    team: "NL"
    position: Alternate
+   alternate: true
  - year: 2005
    event: Brier
    team: "NL"
    position: Lead
+   alternate: true
    games: 1
    wins: 1
    losses: 0

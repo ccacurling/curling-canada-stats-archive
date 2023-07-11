@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NS"
    position: Lead
+   alternate: false
    games: 9
    wins: 3
    losses: 6
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "NS"
    position: Alternate
+   alternate: true
 vs:
  - Armstrong, Doug
  - Bartlett, Don

@@ -12,9 +12,11 @@ years:
    event: Brier
    team: "NL"
    position: Alternate
+   alternate: true
  - year: 2012
    event: Brier
    team: "NL"
    position: Alternate
+   alternate: true
 vs:
 ---

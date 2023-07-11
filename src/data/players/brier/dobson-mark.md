@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NB"
    position: Second
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "NB"
    position: Third
+   alternate: false
    games: 11
    wins: 3
    losses: 8
@@ -56,6 +58,7 @@ years:
    event: Brier
    team: "NB"
    position: Lead
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -73,6 +76,7 @@ years:
    event: Brier
    team: "NB"
    position: Alternate
+   alternate: true
 vs:
  - Adam, Mike
  - Adams, Shawn

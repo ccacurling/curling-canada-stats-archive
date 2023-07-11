@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "AB"
    position: Fourth
+   alternate: false
    games: 13
    wins: 11
    losses: 2
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "AB"
    position: Fourth
+   alternate: false
    games: 13
    wins: 11
    losses: 2
@@ -56,6 +58,7 @@ years:
    event: Brier
    team: "AB"
    position: Fourth
+   alternate: false
    games: 13
    wins: 13
    losses: 0
@@ -73,6 +76,7 @@ years:
    event: Brier
    team: "AB"
    position: Fourth
+   alternate: false
    games: 13
    wins: 11
    losses: 2
@@ -90,6 +94,7 @@ years:
    event: Brier
    team: "AB"
    position: Fourth
+   alternate: false
    games: 13
    wins: 11
    losses: 2

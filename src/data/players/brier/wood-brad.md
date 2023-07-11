@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "BC"
    position: Second
+   alternate: true
    games: 1
    wins: 0
    losses: 1
@@ -37,6 +38,7 @@ years:
    event: Brier
    team: "BC"
    position: Lead
+   alternate: true
    games: 7
    wins: 1
    losses: 6
@@ -54,6 +56,7 @@ years:
    event: Brier
    team: "BC"
    position: Lead
+   alternate: true
    games: 1
    wins: 0
    losses: 1
@@ -67,6 +70,7 @@ years:
    event: Brier
    team: "BC"
    position: Second
+   alternate: true
    games: 1
    wins: 0
    losses: 1
@@ -94,6 +98,7 @@ years:
    event: Brier
    team: "BC"
    position: Alternate
+   alternate: true
 vs:
  - Appelman, Tom
  - Borden, Robert

@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "SK"
    position: Lead
+   alternate: false
    games: 13
    wins: 8
    losses: 5
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "SK"
    position: Alternate
+   alternate: true
 vs:
  - Armstrong, Doug
  - Butler, Mark

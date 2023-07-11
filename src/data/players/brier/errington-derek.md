@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "BC"
    position: Second
+   alternate: false
    games: 11
    wins: 1
    losses: 10

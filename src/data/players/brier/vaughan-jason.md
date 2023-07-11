@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NB"
    position: Second
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "NB"
    position: Second
+   alternate: false
    games: 11
    wins: 2
    losses: 9
@@ -56,6 +58,7 @@ years:
    event: Brier
    team: "NB"
    position: Second
+   alternate: false
    games: 6
    wins: 3
    losses: 3
@@ -73,6 +76,7 @@ years:
    event: Brier
    team: "NB"
    position: Second
+   alternate: false
    games: 11
    wins: 3
    losses: 8
@@ -90,6 +94,7 @@ years:
    event: Brier
    team: "NB"
    position: Alternate
+   alternate: true
 vs:
  - Adam, Gerry
  - Anderson, Chris

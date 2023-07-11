@@ -22,14 +22,17 @@ years:
    event: Brier
    team: "AB"
    position: Alternate
+   alternate: true
  - year: 2002
    event: Brier
    team: "AB"
    position: Alternate
+   alternate: true
  - year: 2003
    event: Brier
    team: "AB"
    position: Lead
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -47,6 +50,7 @@ years:
    event: Brier
    team: "AB"
    position: Second
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -62,6 +66,7 @@ years:
    event: Brier
    team: "AB"
    position: Second
+   alternate: true
    games: 2
    wins: 2
    losses: 0

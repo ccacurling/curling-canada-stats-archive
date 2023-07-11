@@ -22,10 +22,12 @@ years:
    event: Brier
    team: "MB"
    position: Alternate
+   alternate: true
  - year: 1995
    event: Brier
    team: "MB"
    position: Third
+   alternate: false
    games: 14
    wins: 12
    losses: 2
@@ -43,6 +45,7 @@ years:
    event: Brier
    team: "MB"
    position: Third
+   alternate: false
    games: 14
    wins: 9
    losses: 5

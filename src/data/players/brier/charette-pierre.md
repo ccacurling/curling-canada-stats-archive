@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "QC"
    position: Fourth
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -39,14 +40,17 @@ years:
    event: Brier
    team: "QC"
    position: Alternate
+   alternate: true
  - year: 1992
    event: Brier
    team: "QC"
    position: Alternate
+   alternate: true
  - year: 1993
    event: Brier
    team: "QC"
    position: Fourth
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -64,6 +68,7 @@ years:
    event: Brier
    team: "QC"
    position: Lead
+   alternate: false
    games: 13
    wins: 9
    losses: 4
@@ -81,6 +86,7 @@ years:
    event: Brier
    team: "QC"
    position: Second
+   alternate: false
    games: 10
    wins: 5
    losses: 5
@@ -98,6 +104,7 @@ years:
    event: Brier
    team: "QC"
    position: Third
+   alternate: false
    games: 1
    wins: 0
    losses: 1
@@ -131,6 +138,7 @@ years:
    event: Brier
    team: "QC"
    position: Third
+   alternate: false
    games: 14
    wins: 9
    losses: 5
@@ -148,6 +156,7 @@ years:
    event: Brier
    team: "QC"
    position: Third
+   alternate: false
    games: 14
    wins: 9
    losses: 5
@@ -165,6 +174,7 @@ years:
    event: Brier
    team: "QC"
    position: Third
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -182,6 +192,7 @@ years:
    event: Brier
    team: "QC"
    position: Lead
+   alternate: true
    games: 1
    wins: 0
    losses: 1
@@ -199,10 +210,12 @@ years:
    event: Brier
    team: "QC"
    position: Alternate
+   alternate: true
  - year: 2014
    event: Brier
    team: "QC"
    position: Third
+   alternate: true
    games: 1
    wins: 0
    losses: 1
@@ -218,18 +231,22 @@ years:
    event: Brier
    team: "QC"
    position: Alternate
+   alternate: true
  - year: 2016
    event: Brier
    team: "QC"
    position: Alternate
+   alternate: true
  - year: 2017
    event: Brier
    team: "QC"
    position: Alternate
+   alternate: true
  - year: 2023
    event: Brier
    team: "QC"
    position: Alternate
+   alternate: true
 vs:
  - Adam, Gerry
  - Adams, Bill

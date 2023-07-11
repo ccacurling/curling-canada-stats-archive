@@ -22,10 +22,12 @@ years:
    event: Brier
    team: "TR"
    position: Alternate
+   alternate: true
  - year: 2002
    event: Brier
    team: "TR"
    position: Third
+   alternate: false
    games: 11
    wins: 3
    losses: 8
@@ -43,6 +45,7 @@ years:
    event: Brier
    team: "TR"
    position: Third
+   alternate: false
    games: 11
    wins: 2
    losses: 9
@@ -60,6 +63,7 @@ years:
    event: Brier
    team: "YT"
    position: Lead
+   alternate: false
    games: 3
    wins: 0
    losses: 3
@@ -77,6 +81,7 @@ years:
    event: Brier
    team: "YT"
    position: Second
+   alternate: false
    games: 5
    wins: 2
    losses: 3
@@ -110,10 +115,12 @@ years:
    event: Brier
    team: "YT"
    position: Alternate
+   alternate: true
  - year: 2023
    event: Brier
    team: "YT"
    position: Second
+   alternate: true
    games: 5
    wins: 2
    losses: 3

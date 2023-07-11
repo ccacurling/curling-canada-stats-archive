@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NL"
    position: Lead
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "NL"
    position: Alternate
+   alternate: true
 vs:
  - Adams, Jim
  - Adams, Steve

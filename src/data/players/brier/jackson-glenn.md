@@ -22,10 +22,12 @@ years:
    event: Brier
    team: "TR"
    position: Alternate
+   alternate: true
  - year: 1987
    event: Brier
    team: "TR"
    position: Second
+   alternate: false
    games: 11
    wins: 5
    losses: 6

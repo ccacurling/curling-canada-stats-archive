@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "MB"
    position: Third
+   alternate: false
    games: 14
    wins: 9
    losses: 5

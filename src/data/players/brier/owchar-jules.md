@@ -22,22 +22,27 @@ years:
    event: Brier
    team: "AB"
    position: Alternate
+   alternate: true
  - year: 1992
    event: Brier
    team: "AB"
    position: Alternate
+   alternate: true
  - year: 1995
    event: Brier
    team: "AB"
    position: Alternate
+   alternate: true
  - year: 1996
    event: Brier
    team: "AB"
    position: Alternate
+   alternate: true
  - year: 1997
    event: Brier
    team: "AB"
    position: Lead
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -55,10 +60,12 @@ years:
    event: Brier
    team: "AB"
    position: Alternate
+   alternate: true
  - year: 2000
    event: Brier
    team: "AB"
    position: Alternate
+   alternate: true
 vs:
  - Duce, Dallas
  - Loeffler, Ken

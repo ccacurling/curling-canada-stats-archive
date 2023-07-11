@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "BC"
    position: Lead
+   alternate: false
    games: 15
    wins: 10
    losses: 5
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "BC"
    position: Lead
+   alternate: false
    games: 12
    wins: 11
    losses: 1
@@ -56,6 +58,7 @@ years:
    event: Brier
    team: "BC"
    position: Lead
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -73,6 +76,7 @@ years:
    event: Brier
    team: "BC"
    position: Alternate
+   alternate: true
 vs:
  - Abel, Clinton
  - Alexander, Scott

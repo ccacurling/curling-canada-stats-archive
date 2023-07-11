@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "ON"
    position: Third
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -39,30 +40,37 @@ years:
    event: Brier
    team: "ON"
    position: Alternate
+   alternate: true
  - year: 1987
    event: Brier
    team: "ON"
    position: Alternate
+   alternate: true
  - year: 1989
    event: Brier
    team: "ON"
    position: Alternate
+   alternate: true
  - year: 1991
    event: Brier
    team: "ON"
    position: Alternate
+   alternate: true
  - year: 1992
    event: Brier
    team: "ON"
    position: Alternate
+   alternate: true
  - year: 1993
    event: Brier
    team: "ON"
    position: Alternate
+   alternate: true
  - year: 1994
    event: Brier
    team: "ON"
    position: Alternate
+   alternate: true
 vs:
  - Aitken, Don
  - Andrews, Lew

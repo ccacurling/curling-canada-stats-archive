@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NS"
    position: Fourth
+   alternate: false
    games: 11
    wins: 7
    losses: 4
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "NS"
    position: Alternate
+   alternate: true
 vs:
  - Armstrong, Jim
  - Barrette, Yves

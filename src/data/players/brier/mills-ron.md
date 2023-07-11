@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "SK"
    position: Third
+   alternate: false
    games: 12
    wins: 10
    losses: 2
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "SK"
    position: Alternate
+   alternate: true
 vs:
  - Aitken, Don
  - Andrews, Lew

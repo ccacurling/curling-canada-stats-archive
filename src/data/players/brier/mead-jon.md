@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "MB"
    position: Third
+   alternate: false
    games: 13
    wins: 10
    losses: 3
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "MB"
    position: Third
+   alternate: false
    games: 13
    wins: 9
    losses: 4
@@ -56,6 +58,7 @@ years:
    event: Brier
    team: "MB"
    position: Third
+   alternate: false
    games: 11
    wins: 6
    losses: 5
@@ -73,6 +76,7 @@ years:
    event: Brier
    team: "MB"
    position: Third
+   alternate: false
    games: 13
    wins: 11
    losses: 2
@@ -90,6 +94,7 @@ years:
    event: Brier
    team: "MB"
    position: Third
+   alternate: false
    games: 13
    wins: 9
    losses: 4
@@ -107,6 +112,7 @@ years:
    event: Brier
    team: "MB"
    position: Third
+   alternate: false
    games: 13
    wins: 10
    losses: 3
@@ -124,6 +130,7 @@ years:
    event: Brier
    team: "MB"
    position: Alternate
+   alternate: true
 vs:
  - Adam, Gerry
  - Adams, Shawn

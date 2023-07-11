@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "YT"
    position: Lead
+   alternate: false
    games: 8
    wins: 1
    losses: 7
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "YT"
    position: Lead
+   alternate: false
    games: 8
    wins: 2
    losses: 6

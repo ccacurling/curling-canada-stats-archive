@@ -22,10 +22,12 @@ years:
    event: Brier
    team: "QC"
    position: Alternate
+   alternate: true
  - year: 1997
    event: Brier
    team: "QC"
    position: Lead
+   alternate: true
    games: 1
    wins: 0
    losses: 1
@@ -43,6 +45,7 @@ years:
    event: Brier
    team: "QC"
    position: Fourth
+   alternate: false
    games: 11
    wins: 3
    losses: 8

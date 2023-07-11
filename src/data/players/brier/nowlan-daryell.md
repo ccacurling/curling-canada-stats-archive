@@ -22,10 +22,12 @@ years:
    event: Brier
    team: "PE"
    position: Alternate
+   alternate: true
  - year: 1997
    event: Brier
    team: "NB"
    position: Second
+   alternate: false
    games: 13
    wins: 9
    losses: 4

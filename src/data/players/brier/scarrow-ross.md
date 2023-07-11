@@ -12,5 +12,6 @@ years:
    event: Brier
    team: "ON"
    position: Alternate
+   alternate: true
 vs:
 ---

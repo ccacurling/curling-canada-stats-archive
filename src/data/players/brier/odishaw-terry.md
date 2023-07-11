@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NB"
    position: Third
+   alternate: true
    games: 1
    wins: 0
    losses: 1
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "NB"
    position: Fourth
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -56,14 +58,17 @@ years:
    event: Brier
    team: "NB"
    position: Alternate
+   alternate: true
  - year: 2002
    event: Brier
    team: "NB"
    position: Alternate
+   alternate: true
  - year: 2012
    event: Brier
    team: "NB"
    position: Fourth
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -81,6 +86,7 @@ years:
    event: Brier
    team: "NB"
    position: Fourth
+   alternate: false
    games: 7
    wins: 3
    losses: 4

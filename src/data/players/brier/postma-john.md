@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "PE"
    position: Second
+   alternate: false
    games: 13
    wins: 7
    losses: 6

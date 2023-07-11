@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NB"
    position: Fourth
+   alternate: false
    games: 12
    wins: 7
    losses: 5
@@ -39,10 +40,12 @@ years:
    event: Brier
    team: "NB"
    position: Alternate
+   alternate: true
  - year: 1989
    event: Brier
    team: "NB"
    position: Alternate
+   alternate: true
 vs:
  - Allan, John
  - Armstrong, Jim

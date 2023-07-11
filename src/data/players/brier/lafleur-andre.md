@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "QC"
    position: Third
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "QC"
    position: Second
+   alternate: false
    games: 11
    wins: 7
    losses: 4
@@ -56,6 +58,7 @@ years:
    event: Brier
    team: "QC"
    position: Alternate
+   alternate: true
 vs:
  - Adams, Bill
  - Adams, Brian

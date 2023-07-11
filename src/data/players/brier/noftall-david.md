@@ -22,10 +22,12 @@ years:
    event: Brier
    team: "NS"
    position: Alternate
+   alternate: true
  - year: 2006
    event: Brier
    team: "NL"
    position: Lead
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -43,6 +45,7 @@ years:
    event: Brier
    team: "NL"
    position: Third
+   alternate: true
    games: 1
    wins: 0
    losses: 1
@@ -76,6 +79,7 @@ years:
    event: Brier
    team: "NL"
    position: Lead
+   alternate: false
    games: 12
    wins: 7
    losses: 5

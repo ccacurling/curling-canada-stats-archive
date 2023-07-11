@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NO"
    position: Fourth
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "NO"
    position: Lead
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -56,6 +58,7 @@ years:
    event: Brier
    team: "NO"
    position: Fourth
+   alternate: true
    games: 4
    wins: 1
    losses: 3
@@ -89,6 +92,7 @@ years:
    event: Brier
    team: "NO"
    position: Fourth
+   alternate: false
    games: 13
    wins: 9
    losses: 4
@@ -106,6 +110,7 @@ years:
    event: Brier
    team: "NO"
    position: Fourth
+   alternate: false
    games: 11
    wins: 7
    losses: 4
@@ -123,6 +128,7 @@ years:
    event: Brier
    team: "NO"
    position: Fourth
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -140,6 +146,7 @@ years:
    event: Brier
    team: "NO"
    position: Fourth
+   alternate: false
    games: 14
    wins: 11
    losses: 3
@@ -157,6 +164,7 @@ years:
    event: Brier
    team: "NO"
    position: Fourth
+   alternate: false
    games: 13
    wins: 11
    losses: 2
@@ -174,6 +182,7 @@ years:
    event: Brier
    team: "NO"
    position: Fourth
+   alternate: false
    games: 14
    wins: 12
    losses: 2
@@ -191,6 +200,7 @@ years:
    event: Brier
    team: "NO"
    position: Fourth
+   alternate: false
    games: 13
    wins: 8
    losses: 5
@@ -208,6 +218,7 @@ years:
    event: Brier
    team: "NO"
    position: Fourth
+   alternate: false
    games: 12
    wins: 8
    losses: 4
@@ -225,6 +236,7 @@ years:
    event: Brier
    team: "NO"
    position: Fourth
+   alternate: false
    games: 13
    wins: 9
    losses: 4
@@ -242,6 +254,7 @@ years:
    event: Brier
    team: "NO"
    position: Fourth
+   alternate: false
    games: 14
    wins: 9
    losses: 5
@@ -259,6 +272,7 @@ years:
    event: Brier
    team: "NO"
    position: Fourth
+   alternate: false
    games: 12
    wins: 7
    losses: 5
@@ -276,6 +290,7 @@ years:
    event: Brier
    team: "NO"
    position: Fourth
+   alternate: false
    games: 9
    wins: 6
    losses: 3

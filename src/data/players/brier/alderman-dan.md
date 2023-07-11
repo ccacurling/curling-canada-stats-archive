@@ -22,10 +22,12 @@ years:
    event: Brier
    team: "NB"
    position: Alternate
+   alternate: true
  - year: 2001
    event: Brier
    team: "NB"
    position: Second
+   alternate: false
    games: 11
    wins: 6
    losses: 5

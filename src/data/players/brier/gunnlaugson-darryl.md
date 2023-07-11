@@ -12,9 +12,11 @@ years:
    event: Brier
    team: "MB"
    position: Alternate
+   alternate: true
  - year: 2000
    event: Brier
    team: "MB"
    position: Alternate
+   alternate: true
 vs:
 ---

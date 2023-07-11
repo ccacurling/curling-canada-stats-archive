@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NB"
    position: Lead
+   alternate: true
    games: 1
    wins: 0
    losses: 1
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "NB"
    position: Alternate
+   alternate: true
 vs:
  - Biron, Louis
  - Butler, Ted

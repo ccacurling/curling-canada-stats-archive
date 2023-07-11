@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "NO"
    position: Third
+   alternate: false
    games: 11
    wins: 3
    losses: 8
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "NO"
    position: Third
+   alternate: false
    games: 13
    wins: 9
    losses: 4
@@ -56,6 +58,7 @@ years:
    event: Brier
    team: "NO"
    position: Third
+   alternate: false
    games: 11
    wins: 7
    losses: 4
@@ -73,6 +76,7 @@ years:
    event: Brier
    team: "NO"
    position: Third
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -90,6 +94,7 @@ years:
    event: Brier
    team: "NO"
    position: Second
+   alternate: false
    games: 14
    wins: 11
    losses: 3
@@ -107,6 +112,7 @@ years:
    event: Brier
    team: "NO"
    position: Second
+   alternate: false
    games: 13
    wins: 11
    losses: 2
@@ -124,6 +130,7 @@ years:
    event: Brier
    team: "NO"
    position: Second
+   alternate: false
    games: 14
    wins: 12
    losses: 2
@@ -141,6 +148,7 @@ years:
    event: Brier
    team: "NO"
    position: Second
+   alternate: false
    games: 13
    wins: 8
    losses: 5
@@ -158,6 +166,7 @@ years:
    event: Brier
    team: "NO"
    position: Second
+   alternate: false
    games: 12
    wins: 8
    losses: 4
@@ -175,6 +184,7 @@ years:
    event: Brier
    team: "NO"
    position: Second
+   alternate: false
    games: 13
    wins: 9
    losses: 4
@@ -192,6 +202,7 @@ years:
    event: Brier
    team: "NO"
    position: Second
+   alternate: false
    games: 14
    wins: 9
    losses: 5
@@ -209,6 +220,7 @@ years:
    event: Brier
    team: "NO"
    position: Second
+   alternate: false
    games: 12
    wins: 7
    losses: 5
@@ -226,6 +238,7 @@ years:
    event: Brier
    team: "NO"
    position: Second
+   alternate: false
    games: 9
    wins: 6
    losses: 3
@@ -243,6 +256,7 @@ years:
    event: Brier
    team: "CA"
    position: Second
+   alternate: false
    games: 11
    wins: 10
    losses: 1

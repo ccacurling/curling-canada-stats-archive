@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "MB"
    position: Second
+   alternate: false
    games: 13
    wins: 8
    losses: 5
@@ -39,6 +40,7 @@ years:
    event: Brier
    team: "MB"
    position: Second
+   alternate: false
    games: 14
    wins: 10
    losses: 4
@@ -56,6 +58,7 @@ years:
    event: Brier
    team: "WC"
    position: Second
+   alternate: false
    games: 11
    wins: 7
    losses: 4
@@ -73,14 +76,17 @@ years:
    event: Brier
    team: "MB"
    position: Alternate
+   alternate: true
  - year: 2020
    event: Brier
    team: "WC"
    position: Alternate
+   alternate: true
  - year: 2021
    event: Brier
    team: "MB"
    position: Second
+   alternate: false
    games: 12
    wins: 6
    losses: 6
@@ -98,6 +104,7 @@ years:
    event: Brier
    team: "WC"
    position: Second
+   alternate: false
    games: 10
    wins: 6
    losses: 4

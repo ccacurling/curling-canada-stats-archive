@@ -22,10 +22,12 @@ years:
    event: Brier
    team: "SK"
    position: Alternate
+   alternate: true
  - year: 2002
    event: Brier
    team: "SK"
    position: Third
+   alternate: false
    games: 12
    wins: 7
    losses: 5

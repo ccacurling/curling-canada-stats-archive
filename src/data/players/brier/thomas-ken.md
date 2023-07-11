@@ -22,10 +22,12 @@ years:
    event: Brier
    team: "NL"
    position: Alternate
+   alternate: true
  - year: 1988
    event: Brier
    team: "NL"
    position: Third
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -43,6 +45,7 @@ years:
    event: Brier
    team: "NL"
    position: Alternate
+   alternate: true
 vs:
  - Adams, Jim
  - Adams, Steve

@@ -22,6 +22,7 @@ years:
    event: Brier
    team: "ON"
    position: Lead
+   alternate: true
    games: 2
    wins: 2
    losses: 0
@@ -37,6 +38,7 @@ years:
    event: Brier
    team: "ON"
    position: Lead
+   alternate: true
    games: 3
    wins: 2
    losses: 1
@@ -54,6 +56,7 @@ years:
    event: Brier
    team: "ON"
    position: Lead
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -71,6 +74,7 @@ years:
    event: Brier
    team: "ON"
    position: Second
+   alternate: true
    games: 1
    wins: 1
    losses: 0
@@ -102,6 +106,7 @@ years:
    event: Brier
    team: "ON"
    position: Lead
+   alternate: false
    games: 11
    wins: 5
    losses: 6
@@ -119,6 +124,7 @@ years:
    event: Brier
    team: "ON"
    position: Lead
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -136,6 +142,7 @@ years:
    event: Brier
    team: "ON"
    position: Lead
+   alternate: false
    games: 11
    wins: 4
    losses: 7
@@ -153,6 +160,7 @@ years:
    event: Brier
    team: "WC"
    position: Third
+   alternate: false
    games: 12
    wins: 8
    losses: 4
@@ -170,6 +178,7 @@ years:
    event: Brier
    team: "ON"
    position: Third
+   alternate: false
    games: 8
    wins: 4
    losses: 4
