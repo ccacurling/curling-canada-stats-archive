@@ -28,7 +28,8 @@ layout: default
 {% elsif year.position == "Second" %}2
 {% elsif year.position == "Lead" %}3
 {% else %}5{% endif %}
-">{{ year.position }}</td>
+">
+{% if year.alternate %}{% assign alternateNote = true %}<span data-toggle="tooltip" data-placement="top" title="Alternate on Initial Lineup"><i class="fa fa-asterisk" aria-hidden="true"></i></span>{% endif %}{{ year.position }}</td>
   <td>{{ year.games }}</td>
   <td>{{ year.wins }}</td>
   <td>{{ year.losses }}</td>
@@ -68,6 +69,9 @@ layout: default
 {% endif %}
 </tfoot>
 </table>
+{% if alternateNote %}
+<p><i class="fa fa-asterisk" aria-hidden="true"></i> Alternate on Initial Lineup</p>
+{% endif %}
 {% if page.vs %}
 <h2>Head-to-Head</h2>
 <form class="form-inline" id="vs-select">

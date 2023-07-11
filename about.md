@@ -38,6 +38,10 @@ Dave Thomas
 
 ## Changelog
 
+### 2023-07-11
+
+ * Added a note for players with positional data that were alternates in the initial lineup.
+
 ### 2023-04-03
 
  * Added 2023 Brier data.
