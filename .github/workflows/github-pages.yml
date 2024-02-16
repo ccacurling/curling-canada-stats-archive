@@ -1,6 +1,7 @@
 name: Generate files and deploy to GitHub Pages
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
