@@ -9,6 +9,7 @@ sponsors = {
     '1980' => 'Labatt',
     '2001' => 'Nokia',
     '2005' => 'Tim Hortons',
+    '2024' => "Montana's",
   },
   "cancup-men" => {
     '2003' => 'Strauss',
