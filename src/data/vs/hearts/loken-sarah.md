@@ -130,6 +130,34 @@ vs:
       year: 2023
       draw: Tie-Breaker(19)
       score: BC 8 - QC 3
+ - name: Miskew, Emma
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(14)
+      score: ON 10 - BC 3
  - name: Peterman, Jocelyn
    totals:
     - event: Hearts
@@ -258,6 +286,62 @@ vs:
       year: 2023
       draw: Tie-Breaker(19)
       score: BC 8 - QC 3
+ - name: Rizzo, Jo-Ann
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 61
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(4)
+      score: NT 5 - BC 10
+ - name: Rocque, Kelsey
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(18)
+      score: BC 4 - MB 7
  - name: Routledge, Alanna
    totals:
     - event: Hearts
@@ -330,6 +414,34 @@ vs:
       year: 2023
       draw: Round Robin(5)
       score: BC 11 - SK 6
+ - name: Scoffin, Bayly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 72
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(12)
+      score: YT 4 - BC 13
  - name: Shea, Michelle
    totals:
     - event: Hearts
@@ -442,6 +554,34 @@ vs:
       year: 2023
       draw: Round Robin(18)
       score: BC 8 - AB 6
+ - name: Smith, Heather
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 83
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(8)
+      score: BC 8 - NS 5
  - name: St-Georges, Laurie
    totals:
     - event: Hearts
@@ -486,6 +626,34 @@ vs:
       year: 2023
       draw: Tie-Breaker(19)
       score: BC 8 - QC 3
+ - name: Strong, Helen
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(12)
+      score: YT 4 - BC 13
  - name: Sweeting, Val
    totals:
     - event: Hearts
@@ -626,6 +794,118 @@ vs:
       year: 2023
       draw: Round Robin(14)
       score: WC 5 - BC 7
+ - name: Walter, Meghan
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(18)
+      score: BC 4 - MB 7
+ - name: Ward, Molli
+   totals:
+    - event: Hearts
+      player1:
+        percent: 77
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 77
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(10)
+      score: BC 9 - NB 3
+ - name: Wilkes, Sarah
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 73
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(14)
+      score: ON 10 - BC 3
+ - name: Zacharias, Emily
+   totals:
+    - event: Hearts
+      player1:
+        percent: 94
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(6)
+      score: BC 3 - MB 10
  - name: Zacharias, Mackenzie
    totals:
     - event: Hearts

@@ -164,7 +164,6 @@ vs:
  - Courtney, Joanne
  - Crouse, Jennifer
  - Cunningham, Cathy
- - Cunningham, Jessica
  - Darbyshire, Carolyn
  - Davies, Lisa
  - Delahunt, Nancy
@@ -309,6 +308,7 @@ vs:
  - Wark, Sarah
  - Weagle, Lisa
  - Wilkes, Sarah
+ - Wiseman, Jessica
  - Wylie, Jennifer
  - Zinck, Kay
 ---

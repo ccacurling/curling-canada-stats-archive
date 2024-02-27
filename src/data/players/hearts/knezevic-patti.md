@@ -123,7 +123,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Cunningham, Jessica
  - Davies, Lisa
  - Duncan, Chelsea
  - Enge, Jenna
@@ -164,8 +163,9 @@ vs:
  - Strong, Laura
  - Sweeting, Val
  - Trombley, Christy
- - Tuck, Kim
+ - Tuck, Kimberly
  - Wallingham, Patty
  - Weagle, Lisa
+ - Wiseman, Jessica
  - Wylie, Jennifer
 ---

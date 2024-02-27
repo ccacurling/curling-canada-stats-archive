@@ -4,18 +4,18 @@ name: Emma Miskew
 name-sort: Miskew, Emma
 totals:
  - event: Hearts
-   games: 125
-   wins: 95
+   games: 136
+   wins: 106
    losses: 30
-   inturn-total: 1237
-   inturn-percent: 82
-   outturn-total: 1111
+   inturn-total: 1341
+   inturn-percent: 83
+   outturn-total: 1216
    outturn-percent: 82
-   draw-total: 872
-   draw-percent: 79
-   takeout-total: 1476
+   draw-total: 950
+   draw-percent: 80
+   takeout-total: 1607
    takeout-percent: 84
-   shots-total: 2348
+   shots-total: 2557
    shots-percent: 82
 years:
  - year: 2011
@@ -198,8 +198,27 @@ years:
    takeout-percent: 87
    shots-total: 172
    shots-percent: 85
+ - year: 2024
+   event: Hearts
+   team: "ON"
+   position: Second
+   alternate: false
+   games: 11
+   wins: 11
+   losses: 0
+   inturn-total: 104
+   inturn-percent: 88
+   outturn-total: 105
+   outturn-percent: 85
+   draw-total: 78
+   draw-percent: 91
+   takeout-total: 131
+   takeout-percent: 84
+   shots-total: 209
+   shots-percent: 86
 vs:
  - Ackland, Abby
+ - Adams, Melissa
  - Affleck, Tricia
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
@@ -234,13 +253,13 @@ vs:
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Brunton, Kira
  - Burgess, Karlee
  - Burns, Krysta
  - Burt, Camille
  - Cameron, Kate
  - Camozzi, Rhonda
  - Campbell, Jolene
- - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
@@ -253,17 +272,20 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Cunningham, Jessica
+ - Crandall, Jaclyn
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - Daigle, Julie
+ - Daly, Calissa
+ - deGroot, Cassandra
  - deJager, Blaine
  - Derry, Danielle
  - deSolla, Jodie
  - Doerksen, Katherine
  - Doig, Deanna
  - Dolan, Kim
+ - Dubue, Lindsay
  - Dufresne, Audree
  - Duncan, Chelsea
  - Dykstra, Michelle
@@ -280,6 +302,7 @@ vs:
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Foster, Kristen
  - Fullerton, Sarah
  - Fyfe, Liz
@@ -288,6 +311,7 @@ vs:
  - Gannon, Melissa
  - Gates, Amanda
  - Gates, Jennifer
+ - Grandy, Clancy
  - Gregoire, Veronique
  - Griffin, Alison
  - Guy, Sara
@@ -297,6 +321,7 @@ vs:
  - Hastings, Julie
  - Haughian, Jessie
  - Hawes, Dezaray
+ - Helston, Raelyn
  - Hill, Sarah
  - Hill, Trish
  - Holland, Amber
@@ -304,12 +329,14 @@ vs:
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hynes, Julie
+ - Inglis, Danielle
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Karwacki, Krysten
  - Kasner, Marliese
  - Kelly, Andrea
  - Kelly, Kim
@@ -329,12 +356,15 @@ vs:
  - Lemay, Annie
  - Lenentine, Lauren
  - Lilly, Kendra
+ - Lister, Kendra
  - Loder, Jenna
  - Logan, Emma
+ - Loken, Sarah
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
+ - MacMillan, Kayla
  - MacPhail, Brigitte
  - MacPhee, Robyn
  - Mair, Jessica
@@ -384,6 +414,7 @@ vs:
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Robison, Michala
+ - Rocque, Kelsey
  - Ross, Allison
  - Rusnell, Jen
  - Sanderson, Jessie
@@ -395,6 +426,7 @@ vs:
  - Schneider, Lorraine
  - Schneider, Tammy
  - Schraeder, Jeanna
+ - Scoffin, Bayly
  - Scott, Kelly
  - Sharpe, Kelli
  - Shea, Michelle
@@ -427,6 +459,7 @@ vs:
  - Walker, Laura
  - Wallingham, Patty
  - Walter, Meghan
+ - Ward, Molli
  - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah
@@ -435,6 +468,7 @@ vs:
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Wylie, Jennifer
  - Zacharias, Emily
  - Zacharias, Mackenzie

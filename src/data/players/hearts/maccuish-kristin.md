@@ -4,18 +4,18 @@ name: Kristin MacCuish
 name-sort: MacCuish, Kristin
 totals:
  - event: Hearts
-   games: 68
-   wins: 41
-   losses: 27
-   inturn-total: 687
-   inturn-percent: 84
-   outturn-total: 552
-   outturn-percent: 83
-   draw-total: 1007
+   games: 77
+   wins: 45
+   losses: 32
+   inturn-total: 747
+   inturn-percent: 85
+   outturn-total: 666
+   outturn-percent: 84
+   draw-total: 1156
    draw-percent: 86
-   takeout-total: 232
-   takeout-percent: 75
-   shots-total: 1239
+   takeout-total: 257
+   takeout-percent: 77
+   shots-total: 1413
    shots-percent: 84
 years:
  - year: 2013
@@ -174,7 +174,26 @@ years:
    takeout-percent: 85
    shots-total: 177
    shots-percent: 85
+ - year: 2024
+   event: Hearts
+   team: "MB"
+   position: Lead
+   alternate: false
+   games: 9
+   wins: 4
+   losses: 5
+   inturn-total: 60
+   inturn-percent: 88
+   outturn-total: 114
+   outturn-percent: 87
+   draw-total: 149
+   draw-percent: 88
+   takeout-total: 25
+   takeout-percent: 87
+   shots-total: 174
+   shots-percent: 88
 vs:
+ - Ackerman, Skylar
  - Adams, Melissa
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -199,6 +218,7 @@ vs:
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Burt, Camille
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
@@ -206,9 +226,11 @@ vs:
  - Carter, Sasha
  - Christianson, Marie
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Crouse, Jennifer
  - Curtis, Stacie
  - Daigle, Julie
+ - DiCarlo, Jane
  - Doerksen, Katherine
  - Dubue, Lindsay
  - Duncan, Chelsea
@@ -247,8 +269,10 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hynes, Julie
+ - Jenkins, Whitney
  - Jones, Jennifer
  - Just, Sherry
+ - Karwacki, Krysten
  - Kelly, Andrea
  - Kitz, Chaelynn
  - Knapp, Breanne
@@ -273,6 +297,7 @@ vs:
  - MacPhee, Robyn
  - Martin, Heather
  - Martin, Nancy
+ - Mayne, Veronica
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
@@ -287,6 +312,7 @@ vs:
  - Nixon, Amy
  - Officer, Jill
  - O'Neill, Brit
+ - Papley, Paige
  - Peterman, Jocelyn
  - Peters, Laine
  - Peterson, Beth
@@ -310,23 +336,29 @@ vs:
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
+ - Schmiemann, Danielle
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli
  - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
+ - Sinclair, Jamie
  - Sippala, Ashley
+ - Skinner, Kaylin
  - Skrlik, Ashton
  - Skrlik, Kayla
  - Smallwood, Jody
+ - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stremick, Taylor
+ - Sturmay, Selena
  - Sweeting, Val
  - Taylor, Alison
+ - Thevenot, Ashley
  - Thevenot, Kara
  - Thompson, Karla
- - Tingley, Jaclyn
  - Tran, Brittany
  - Udle, Teri
  - Vandale, Trysta
@@ -344,4 +376,5 @@ vs:
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
+ - Wiseman, Jessica
 ---

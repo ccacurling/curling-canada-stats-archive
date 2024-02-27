@@ -2042,6 +2042,34 @@ vs:
       year: 2021
       draw: Pool(23)
       score: SK 2 - ON 7
+ - name: Crandall, Jaclyn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(11)
+      score: NB 7 - SK 6
  - name: Crispo, Guylaine
    totals:
     - event: Hearts
@@ -2190,50 +2218,6 @@ vs:
       year: 2004
       draw: Round Robin(10)
       score: NL 8 - SK 6
- - name: Cunningham, Jessica
-   totals:
-    - event: Hearts
-      player1:
-        percent: 91
-        wins: 2
-        losses: 0
-      player2:
-        percent: 69
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'SK'
-        position: Third
-        percent: 95
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 79
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2014
-      draw: Round Robin(12)
-      score: SK 7 - NL 3
-    - player1:
-        team: 'SK'
-        position: Third
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 60
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(12)
-      score: SK 4 - NL 2
  - name: Dalio, Diane
    totals:
     - event: Hearts
@@ -8326,34 +8310,6 @@ vs:
       year: 1994
       draw: Round Robin(12)
       score: SK 11 - AB 4
- - name: Tingley, Jaclyn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 0
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Third
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(11)
-      score: NB 7 - SK 6
  - name: Titheridge, Lindsay
    totals:
     - event: Hearts
@@ -8786,6 +8742,50 @@ vs:
       year: 2021
       draw: Pool(23)
       score: SK 2 - ON 7
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 91
+        wins: 2
+        losses: 0
+      player2:
+        percent: 69
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'SK'
+        position: Third
+        percent: 95
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2014
+      draw: Round Robin(12)
+      score: SK 7 - NL 3
+    - player1:
+        team: 'SK'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 60
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(12)
+      score: SK 4 - NL 2
  - name: Wylie, Jennifer
    totals:
     - event: Hearts

@@ -133,6 +133,7 @@ vs:
  - Comeau, Martine
  - Cormier, Sharon
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Crouse, Jennifer
  - Curtis, Erica
  - Curtis, Stacie
@@ -232,7 +233,6 @@ vs:
  - Sweeting, Val
  - Thiessen, Alison
  - Thomas, Jill
- - Tingley, Jaclyn
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika

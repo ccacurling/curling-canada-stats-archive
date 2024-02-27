@@ -110,6 +110,11 @@ years:
    team: "SK"
    position: Alternate
    alternate: true
+ - year: 2024
+   event: Hearts
+   team: "SK"
+   position: Alternate
+   alternate: true
 vs:
  - Affleck, Tricia
  - Armstrong, Jacquie

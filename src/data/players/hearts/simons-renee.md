@@ -136,7 +136,6 @@ vs:
  - Bush, Tracy
  - Cameron, Kate
  - Cameron, Nancy
- - Campbell, Kerry
  - Carrier, Julie
  - Clark, Stefanie
  - Clarke, Hayley
@@ -154,6 +153,7 @@ vs:
  - Everist, Karlee
  - Farrell, Allison
  - Fortier, Marie-Josee
+ - Foster, Kerry
  - Gagnier, Monique
  - Galusha, Kerry
  - Gauthier, Cathy

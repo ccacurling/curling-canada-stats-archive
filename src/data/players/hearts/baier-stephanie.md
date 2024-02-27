@@ -79,7 +79,7 @@ vs:
  - Smith, Heather
  - Sweeting, Val
  - Titheridge, Lindsay
- - Tuck, Kim
+ - Tuck, Kimberly
  - Udle, Teri
  - Wallingham, Patty
  - Weagle, Lisa

@@ -68,6 +68,7 @@ vs:
  - Carey, Chelsea
  - Christianson, Marie
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Eddy, Lori
  - Enge, Jenna
  - Erickson, Rachel
@@ -107,7 +108,6 @@ vs:
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Taylor, Alison
- - Tingley, Jaclyn
  - Weagle, Lisa
  - Wilkes, Sarah
 ---

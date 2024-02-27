@@ -30,34 +30,6 @@ vs:
       year: 2014
       draw: Round Robin(12)
       score: ON 7 - AB 5
- - name: Cunningham, Jessica
-   totals:
-    - event: Hearts
-      player1:
-        percent: 97
-        wins: 1
-        losses: 0
-      player2:
-        percent: 75
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'ON'
-        position: Lead
-        percent: 97
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 75
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2014
-      draw: Round Robin(4)
-      score: ON 8 - NL 7
  - name: deSolla, Jodie
    totals:
     - event: Hearts
@@ -1066,4 +1038,32 @@ vs:
       year: 2014
       draw: Round Robin(3)
       score: CA 9 - ON 3
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 97
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2014
+      draw: Round Robin(4)
+      score: ON 8 - NL 7
 ---

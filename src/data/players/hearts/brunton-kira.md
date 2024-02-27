@@ -4,18 +4,18 @@ name: Kira Brunton
 name-sort: Brunton, Kira
 totals:
  - event: Hearts
-   games: 6
-   wins: 3
-   losses: 3
-   inturn-total: 31
+   games: 14
+   wins: 6
+   losses: 8
+   inturn-total: 96
    inturn-percent: 83
-   outturn-total: 31
+   outturn-total: 110
    outturn-percent: 84
-   draw-total: 55
-   draw-percent: 83
-   takeout-total: 7
-   takeout-percent: 86
-   shots-total: 62
+   draw-total: 109
+   draw-percent: 84
+   takeout-total: 97
+   takeout-percent: 82
+   shots-total: 206
    shots-percent: 83
 years:
  - year: 2021
@@ -84,30 +84,74 @@ years:
    takeout-percent: 80
    shots-total: 38
    shots-percent: 93
+ - year: 2024
+   event: Hearts
+   team: "ON"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 65
+   inturn-percent: 82
+   outturn-total: 79
+   outturn-percent: 84
+   draw-total: 54
+   draw-percent: 85
+   takeout-total: 90
+   takeout-percent: 82
+   shots-total: 144
+   shots-percent: 83
 vs:
+ - Adams, Melissa
  - Birchard, Shannon
  - Birnie, Hailey
+ - Brothers, Jill
  - Burgess, Karlee
  - Burt, Camille
  - Cameron, Kate
- - Campbell, Kerry
+ - Carmody, Erin
+ - Christianson, Marie
+ - Crandall, Jaclyn
  - Curtis, Erica
  - Curtis, Stacie
  - Doerksen, Katherine
+ - Dubue, Lindsay
  - Duncan, Chelsea
  - Einarson, Kerri
+ - Elias, Mackenzie
+ - Flemming, Margot
+ - Fleury, Tracy
+ - Foster, Kerry
+ - Galusha, Kerry
+ - Grandy, Clancy
  - Harris, Briane
  - Haughian, Jessie
+ - Helston, Raelyn
+ - Homan, Rachel
  - Hynes, Julie
+ - Jones, Jennifer
  - Karwacki, Krysten
+ - Koltun, Sarah
  - Lenentine, Lauren
+ - Lister, Kendra
  - Loder, Jenna
+ - Loken, Sarah
+ - MacMillan, Kayla
  - McDonald, Taylor
+ - Miskew, Emma
  - Peterson, Beth
+ - Rizzo, Jo-Ann
+ - Rocque, Kelsey
  - Scheidegger, Casey
+ - Scoffin, Bayly
+ - Smith, Heather
  - Sweeting, Val
  - Tran, Brittany
  - Tuor, Kimberly
+ - Walter, Meghan
+ - Ward, Molli
+ - Wilkes, Sarah
  - Zacharias, Emily
  - Zacharias, Mackenzie
 ---

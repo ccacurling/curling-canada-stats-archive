@@ -34,13 +34,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 73
-        wins: 1
+        percent: 82
+        wins: 4
         losses: 1
       player2:
-        percent: 73
+        percent: 75
         wins: 1
-        losses: 1
+        losses: 4
    games:
     - player1:
         team: 'ON'
@@ -74,6 +74,54 @@ vs:
       year: 2023
       draw: Round Robin(8)
       score: MB 6 - ON 4
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 61
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(12)
+      score: ON 7 - MB 5
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 90
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Page 1-2(22)
+      score: ON 6 - MB 4
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Final(24)
+      score: ON 5 - MB 4
  - name: Zacharias, Mackenzie
    totals:
     - event: Hearts

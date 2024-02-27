@@ -4,18 +4,18 @@ name: Emily Zacharias
 name-sort: Zacharias, Emily
 totals:
  - event: Hearts
-   games: 21
-   wins: 12
-   losses: 9
-   inturn-total: 230
+   games: 33
+   wins: 20
+   losses: 13
+   inturn-total: 346
    inturn-percent: 77
-   outturn-total: 176
-   outturn-percent: 76
-   draw-total: 229
+   outturn-total: 279
+   outturn-percent: 77
+   draw-total: 321
    draw-percent: 77
-   takeout-total: 177
-   takeout-percent: 76
-   shots-total: 406
+   takeout-total: 304
+   takeout-percent: 77
+   shots-total: 625
    shots-percent: 77
 years:
  - year: 2021
@@ -72,8 +72,27 @@ years:
    takeout-percent: 50
    shots-total: 76
    shots-percent: 83
+ - year: 2024
+   event: Hearts
+   team: "MB"
+   position: Second
+   alternate: false
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 116
+   inturn-percent: 78
+   outturn-total: 103
+   outturn-percent: 79
+   draw-total: 92
+   draw-percent: 78
+   takeout-total: 127
+   takeout-percent: 79
+   shots-total: 219
+   shots-percent: 78
 vs:
  - Ackland, Abby
+ - Adams, Melissa
  - Armstrong, Hailey
  - Arsenault, Mary-Anne
  - Balsdon, Megan
@@ -90,11 +109,15 @@ vs:
  - Brunton, Kira
  - Burns, Krysta
  - Cameron, Kate
- - Campbell, Kerry
  - Carmody, Erin
  - Carter, Sasha
+ - Christianson, Marie
  - Courtney, Joanne
+ - Crandall, Jaclyn
+ - Daly, Calissa
+ - deGroot, Cassandra
  - Doerksen, Katherine
+ - Dubue, Lindsay
  - Duncan, Hollie
  - Einarson, Kerri
  - Elias, Mackenzie
@@ -102,33 +125,49 @@ vs:
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Galusha, Kerry
+ - Grandy, Clancy
  - Guy, Sara
  - Harris, Briane
+ - Hawes, Dezaray
+ - Helston, Raelyn
  - Homan, Rachel
+ - Inglis, Danielle
  - Kelly, Andrea
  - Koltun, Sarah
+ - Lawes, Kaitlyn
+ - Lister, Kendra
  - Loder, Jenna
  - Logan, Emma
+ - Loken, Sarah
+ - MacMillan, Kayla
  - McDonald, Taylor
  - Miskew, Emma
  - Oliver, Sara
+ - Papley, Paige
  - Peterson, Beth
  - Quillian, Sylvie
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Rocque, Kelsey
+ - Schmiemann, Danielle
  - Schraeder, Jeanna
+ - Scoffin, Bayly
  - Scotland, Nadine
  - Simons, Renee
+ - Smith, Heather
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Strybosch, Rachelle
+ - Sturmay, Selena
  - Sweeting, Val
  - Tran, Brittany
  - Tuor, Kimberly
  - Walker, Laura
  - Wallingham, Patty
  - Walter, Meghan
+ - Ward, Molli
  - Wilkes, Sarah
 ---

@@ -192,7 +192,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Cunningham, Jessica
  - Daigle, Julie
  - Davies, Lisa
  - deSolla, Jodie
@@ -299,5 +298,6 @@ vs:
  - Wark, Sarah
  - Weagle, Lisa
  - Whitaker, Carol
+ - Wiseman, Jessica
  - Wylie, Jennifer
 ---

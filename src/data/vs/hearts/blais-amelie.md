@@ -394,34 +394,6 @@ vs:
       year: 2012
       draw: Round Robin(2)
       score: NL 5 - QC 7
- - name: Cunningham, Jessica
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 1
-        losses: 0
-      player2:
-        percent: 75
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 75
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(16)
-      score: NL 5 - QC 7
  - name: deSolla, Jodie
    totals:
     - event: Hearts
@@ -2450,6 +2422,34 @@ vs:
       year: 2016
       draw: Round Robin(4)
       score: QC 10 - SK 4
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(16)
+      score: NL 5 - QC 7
  - name: Wylie, Jennifer
    totals:
     - event: Hearts

@@ -49,7 +49,6 @@ vs:
  - Collins, Katrina
  - Cooper, Kathryn
  - Courtney, Joanne
- - Cunningham, Jessica
  - Enge, Jenna
  - Ferguson, Dana
  - Filteau, Anne-Marie
@@ -81,5 +80,6 @@ vs:
  - Sweeting, Val
  - Trombley, Christy
  - Weagle, Lisa
+ - Wiseman, Jessica
  - Wylie, Jennifer
 ---

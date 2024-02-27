@@ -2318,34 +2318,6 @@ vs:
       year: 2019
       draw: Round Robin(10)
       score: SK 8 - NL 4
- - name: Tingley, Jaclyn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 69
-        wins: 1
-        losses: 0
-      player2:
-        percent: 48
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NL'
-        position: Third
-        percent: 69
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Third
-        percent: 48
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(2)
-      score: NL 8 - NB 7
  - name: Tran, Brittany
    totals:
     - event: Hearts

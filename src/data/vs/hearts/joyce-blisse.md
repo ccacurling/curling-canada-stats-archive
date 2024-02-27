@@ -2438,6 +2438,34 @@ vs:
       year: 2011
       draw: Round Robin(9)
       score: NS 8 - MB 7
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2014
+      draw: Round Robin(1)
+      score: NS 5 - NL 8
  - name: Wylie, Jennifer
    totals:
     - event: Hearts

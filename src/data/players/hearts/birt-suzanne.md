@@ -332,8 +332,8 @@ vs:
  - Cordina, Sheri
  - Cormier, Sharon
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Cunningham, Cathy
- - Cunningham, Jessica
  - Currie, Wendy
  - Curtis, Erica
  - Curtis, Stacie
@@ -579,7 +579,6 @@ vs:
  - Thevenot, Kara
  - Thompson, Karla
  - Thurston, Jill
- - Tingley, Jaclyn
  - Todd, Fran
  - Tran, Brittany
  - Trombley, Christy
@@ -600,6 +599,7 @@ vs:
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Wylie, Jennifer
  - Yardley, Janelle
 ---

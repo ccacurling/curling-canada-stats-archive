@@ -206,6 +206,34 @@ vs:
       year: 2017
       draw: Round Robin(10)
       score: NO 8 - BC 3
+ - name: Riley, Emily
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 68
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Second
+        percent: 68
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(15)
+      score: QC 4 - NO 6
  - name: Rizzo, Jo-Ann
    totals:
     - event: Hearts
@@ -606,16 +634,100 @@ vs:
       year: 2019
       draw: Pool(16)
       score: SK 11 - NO 5
+ - name: Sinclair, Jamie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(15)
+      score: QC 4 - NO 6
+ - name: Smith, Sabrina
+   totals:
+    - event: Hearts
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 65
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 65
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(7)
+      score: PE 5 - NO 9
+ - name: St-Georges, Laurie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(15)
+      score: QC 4 - NO 6
  - name: Sweeting, Val
    totals:
     - event: Hearts
       player1:
-        percent: 90
+        percent: 87
         wins: 0
-        losses: 2
+        losses: 3
       player2:
         percent: 87
-        wins: 2
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -650,6 +762,22 @@ vs:
       year: 2023
       draw: Semi-Final(24)
       score: NO 5 - CA 7
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(3)
+      score: CA 7 - NO 4
  - name: Taylor, Alison
    totals:
     - event: Hearts
@@ -1226,6 +1354,34 @@ vs:
       year: 2017
       draw: Round Robin(7)
       score: NO 7 - MB 8
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 96
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 96
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(9)
+      score: NO 8 - NL 3
  - name: Zacharias, Mackenzie
    totals:
     - event: Hearts

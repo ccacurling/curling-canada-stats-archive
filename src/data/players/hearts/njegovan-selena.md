@@ -4,18 +4,18 @@ name: Selena Njegovan
 name-sort: Njegovan, Selena
 totals:
  - event: Hearts
-   games: 57
-   wins: 34
-   losses: 23
-   inturn-total: 529
+   games: 66
+   wins: 38
+   losses: 28
+   inturn-total: 621
    inturn-percent: 81
-   outturn-total: 549
-   outturn-percent: 82
-   draw-total: 409
+   outturn-total: 631
+   outturn-percent: 81
+   draw-total: 466
    draw-percent: 78
-   takeout-total: 669
+   takeout-total: 786
    takeout-percent: 83
-   shots-total: 1078
+   shots-total: 1252
    shots-percent: 81
 years:
  - year: 2016
@@ -147,7 +147,26 @@ years:
    team: "WC"
    position: Alternate
    alternate: true
+ - year: 2024
+   event: Hearts
+   team: "MB"
+   position: Third
+   alternate: false
+   games: 9
+   wins: 4
+   losses: 5
+   inturn-total: 92
+   inturn-percent: 84
+   outturn-total: 82
+   outturn-percent: 77
+   draw-total: 57
+   draw-percent: 74
+   takeout-total: 117
+   takeout-percent: 84
+   shots-total: 174
+   shots-percent: 81
 vs:
+ - Ackerman, Skylar
  - Adams, Melissa
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -171,15 +190,18 @@ vs:
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Burt, Camille
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
  - Christianson, Marie
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Crouse, Jennifer
  - Curtis, Stacie
  - Daigle, Julie
+ - DiCarlo, Jane
  - Doerksen, Katherine
  - Duncan, Chelsea
  - Duncan, Hollie
@@ -213,7 +235,9 @@ vs:
  - Howard, Ashley
  - Hughes, Meaghan
  - Hynes, Julie
+ - Jenkins, Whitney
  - Jones, Jennifer
+ - Karwacki, Krysten
  - Kelly, Andrea
  - Kitz, Chaelynn
  - Knapp, Breanne
@@ -235,11 +259,13 @@ vs:
  - MacPhail, Brigitte
  - MacPhee, Robyn
  - Martin, Nancy
+ - Mayne, Veronica
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Mercer, Adrienne
+ - Middaugh, Kelly
  - Miskew, Emma
  - Moore, Kristie
  - Munroe, Anna
@@ -248,6 +274,7 @@ vs:
  - Nixon, Amy
  - Officer, Jill
  - O'Neill, Brit
+ - Papley, Paige
  - Peterman, Jocelyn
  - Peters, Laine
  - Peterson, Beth
@@ -268,17 +295,23 @@ vs:
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
+ - Schmiemann, Danielle
  - Sharpe, Kelli
  - Shea, Michelle
  - Sicinski, Danielle
+ - Sinclair, Jamie
  - Sippala, Ashley
+ - Skinner, Kaylin
  - Smallwood, Jody
+ - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stremick, Taylor
+ - Sturmay, Selena
  - Sweeting, Val
  - Taylor, Alison
+ - Thevenot, Ashley
  - Thompson, Karla
- - Tingley, Jaclyn
  - Tran, Brittany
  - Udle, Teri
  - Vandale, Trysta
@@ -294,4 +327,5 @@ vs:
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
+ - Wiseman, Jessica
 ---

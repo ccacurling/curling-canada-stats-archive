@@ -128,7 +128,6 @@ vs:
  - Cormier, Sharon
  - Courtney, Joanne
  - Cunningham, Jennifer
- - Cunningham, Jessica
  - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
@@ -190,5 +189,6 @@ vs:
  - Weagle, Lisa
  - Wilkes, Sarah
  - Williamson, Ashley
+ - Wiseman, Jessica
  - Wylie, Jennifer
 ---

@@ -202,34 +202,6 @@ vs:
       year: 2022
       draw: Round Robin(14)
       score: NS 6 - AB 5
- - name: Campbell, Kerry
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 1
-        losses: 0
-      player2:
-        percent: 63
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Lead
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'YT'
-        position: Second
-        percent: 63
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Round Robin(16)
-      score: YT 4 - NS 10
  - name: Carter, Sasha
    totals:
     - event: Hearts
@@ -458,6 +430,34 @@ vs:
       year: 2023
       draw: Playoff(20)
       score: NS 7 - ON 6
+ - name: Foster, Kerry
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 63
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(16)
+      score: YT 4 - NS 10
  - name: Galusha, Kerry
    totals:
     - event: Hearts
@@ -686,50 +686,6 @@ vs:
       year: 2022
       draw: Round Robin(2)
       score: NS 7 - NT 5
- - name: Lawes, Kaitlyn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 88
-        wins: 1
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Lead
-        percent: 94
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Fourth
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(3)
-      score: WC 6 - NS 5
-    - player1:
-        team: 'NS'
-        position: Lead
-        percent: 82
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Fourth
-        percent: 81
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2023
-      draw: Tie-Breaker(19)
-      score: NS 7 - WC 6
  - name: Lenentine, Lauren
    totals:
     - event: Hearts

@@ -4,19 +4,19 @@ name: Shannon Birchard
 name-sort: Birchard, Shannon
 totals:
  - event: Hearts
-   games: 64
-   wins: 56
-   losses: 8
-   inturn-total: 567
-   inturn-percent: 83
-   outturn-total: 594
+   games: 74
+   wins: 63
+   losses: 11
+   inturn-total: 670
+   inturn-percent: 84
+   outturn-total: 679
    outturn-percent: 85
-   draw-total: 452
-   draw-percent: 81
-   takeout-total: 709
+   draw-total: 514
+   draw-percent: 82
+   takeout-total: 835
    takeout-percent: 86
-   shots-total: 1161
-   shots-percent: 84
+   shots-total: 1349
+   shots-percent: 85
 years:
  - year: 2018
    event: Hearts
@@ -108,6 +108,24 @@ years:
    takeout-percent: 86
    shots-total: 218
    shots-percent: 86
+ - year: 2024
+   event: Hearts
+   team: "CA"
+   position: Second
+   alternate: false
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 103
+   inturn-percent: 90
+   outturn-total: 85
+   outturn-percent: 85
+   draw-total: 62
+   draw-percent: 89
+   takeout-total: 126
+   takeout-percent: 87
+   shots-total: 188
+   shots-percent: 88
 vs:
  - Ackerman, Skylar
  - Adams, Melissa
@@ -121,6 +139,7 @@ vs:
  - Barbour, Shona
  - Barker, Shelley
  - Baxter, Jennifer
+ - Best, Emily
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
@@ -134,7 +153,6 @@ vs:
  - Burgess, Karlee
  - Burns, Krysta
  - Cameron, Kate
- - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
@@ -142,6 +160,9 @@ vs:
  - Cote, Marie-Pier
  - Courtney, Joanne
  - Crouse, Jennifer
+ - Curtis, Erica
+ - Curtis, Stacie
+ - DiCarlo, Jane
  - Doerksen, Katherine
  - Dolan, Sinead
  - Dubue, Lindsay
@@ -150,15 +171,18 @@ vs:
  - Duncan, Jenna
  - Eddy, Lori
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Enge, Jenna
  - Englot, Michelle
  - Everist, Karlee
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
+ - Fisher, Sam
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
@@ -173,7 +197,9 @@ vs:
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
  - Inglis, Danielle
+ - Jenkins, Whitney
  - Jones, Jennifer
  - Just, Sherry
  - Kelly, Andrea
@@ -198,6 +224,7 @@ vs:
  - MacMillan, Kayla
  - MacPhail, Brigitte
  - Martin, Nancy
+ - Mayne, Veronica
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
@@ -206,6 +233,7 @@ vs:
  - Miskew, Emma
  - Moore, Kristie
  - Njegovan, Selena
+ - Papley, Paige
  - Peterman, Jocelyn
  - Peterson, Beth
  - Pincott, Erin
@@ -216,6 +244,7 @@ vs:
  - Ramsay, Geri-Lynn
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Rocque, Kelsey
  - Routledge, Alanna
  - Routledge, Jill
  - Sagle, Karen
@@ -223,20 +252,27 @@ vs:
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
+ - Schmiemann, Danielle
  - Schraeder, Jeanna
  - Scotland, Nadine
  - Shea, Michelle
  - Silvernagle, Robyn
  - Simons, Renee
+ - Sinclair, Jamie
  - Sippala, Ashley
+ - Skinner, Kaylin
  - Skrlik, Ashton
  - Skrlik, Kayla
  - Smallwood, Jody
  - Smith, Megan
+ - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stremick, Taylor
  - Strybosch, Rachelle
+ - Sturmay, Selena
  - Taylor, Alison
+ - Thevenot, Ashley
  - Thevenot, Kara
  - Tran, Brittany
  - Tuor, Kimberly
@@ -245,11 +281,13 @@ vs:
  - Van Osch, Marika
  - Verreault, Noemie
  - Walker, Laura
+ - Walter, Meghan
  - Weagle, Lisa
  - Webster, Crystal
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Zacharias, Emily
  - Zacharias, Mackenzie
 ---

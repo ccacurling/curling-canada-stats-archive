@@ -4,18 +4,18 @@ name: Val Sweeting
 name-sort: Sweeting, Val
 totals:
  - event: Hearts
-   games: 90
-   wins: 69
-   losses: 21
-   inturn-total: 886
+   games: 100
+   wins: 76
+   losses: 24
+   inturn-total: 981
    inturn-percent: 81
-   outturn-total: 781
+   outturn-total: 874
    outturn-percent: 83
-   draw-total: 648
-   draw-percent: 78
-   takeout-total: 1019
-   takeout-percent: 84
-   shots-total: 1667
+   draw-total: 713
+   draw-percent: 79
+   takeout-total: 1142
+   takeout-percent: 83
+   shots-total: 1855
    shots-percent: 82
 years:
  - year: 2010
@@ -144,6 +144,24 @@ years:
    takeout-percent: 87
    shots-total: 220
    shots-percent: 86
+ - year: 2024
+   event: Hearts
+   team: "CA"
+   position: Third
+   alternate: false
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 95
+   inturn-percent: 82
+   outturn-total: 93
+   outturn-percent: 82
+   draw-total: 65
+   draw-percent: 87
+   takeout-total: 123
+   takeout-percent: 79
+   shots-total: 188
+   shots-percent: 82
 vs:
  - Ackerman, Skylar
  - Affleck, Tricia
@@ -160,6 +178,7 @@ vs:
  - Barker, Shelley
  - Baxter, Jennifer
  - Belisle, Eve
+ - Best, Emily
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
@@ -178,7 +197,6 @@ vs:
  - Cameron, Kate
  - Camozzi, Rhonda
  - Campbell, Jolene
- - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
@@ -192,9 +210,11 @@ vs:
  - Court, Morgan
  - Courtney, Joanne
  - Crouse, Jennifer
- - Cunningham, Jessica
+ - Curtis, Erica
+ - Curtis, Stacie
  - Davies, Lisa
  - deSolla, Jodie
+ - DiCarlo, Jane
  - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
@@ -202,15 +222,18 @@ vs:
  - Duncan, Chelsea
  - Duncan, Hollie
  - Eddy, Lori
+ - Elias, Mackenzie
  - Ellis, Danielle
  - Enge, Jenna
  - Everist, Karlee
  - Ferguson, Dana
  - Filteau, Anne-Marie
+ - Fisher, Sam
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Foster, Kristen
  - Fyfe, Liz
  - Galusha, Kerry
@@ -231,6 +254,8 @@ vs:
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
+ - Jenkins, Whitney
  - Jones, Jennifer
  - Joyce, Blisse
  - Just, Sherry
@@ -263,6 +288,7 @@ vs:
  - MacPhail, Brigitte
  - Mann, Lauren
  - Martin, Nancy
+ - Mayne, Veronica
  - McCarville, Krista
  - McConnery, Nancy
  - McDonald, Kristy
@@ -281,6 +307,7 @@ vs:
  - O'Rourke, Brittany
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
+ - Papley, Paige
  - Parsons, Danielle
  - Peterman, Jocelyn
  - Peterson, Beth
@@ -297,6 +324,7 @@ vs:
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Robison, Michala
+ - Rocque, Kelsey
  - Rogers, Rhonda
  - Ross, Allison
  - Routledge, Alanna
@@ -306,6 +334,7 @@ vs:
  - Sandwith, Carley
  - Schafer, Kelly
  - Schmidt, Stephanie
+ - Schmiemann, Danielle
  - Schneider, Kim
  - Schraeder, Jeanna
  - Scotland, Nadine
@@ -314,21 +343,27 @@ vs:
  - Silvernagle, Robyn
  - Simons, Renee
  - Sinclair, Andrea
+ - Sinclair, Jamie
  - Singler, Sherri
  - Sippala, Ashley
+ - Skinner, Kaylin
  - Skrlik, Ashton
  - Skrlik, Kayla
  - Smith, Heather
  - Smith, Megan
+ - Smith, Sabrina
  - Smith, Stacey
  - Snyder, Jane
  - Sobey, Lianne
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stremick, Taylor
  - Strong, Heather
  - Strong, Laura
  - Strybosch, Rachelle
+ - Sturmay, Selena
  - Taylor, Alison
+ - Thevenot, Ashley
  - Thevenot, Kara
  - Thomas, Jill
  - Thomas-Kennell, Noelle
@@ -342,11 +377,13 @@ vs:
  - Verreault, Noemie
  - Walker, Laura
  - Wallingham, Patty
+ - Walter, Meghan
  - Weagle, Lisa
  - Westcott, Raunora
  - Whitaker, Carol
  - Wilkes, Sarah
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Wylie, Jennifer
  - Zacharias, Emily
  - Zacharias, Mackenzie

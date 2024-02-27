@@ -181,7 +181,6 @@ vs:
  - Burgess, Karlee
  - Burns, Krysta
  - Cameron, Kate
- - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
@@ -198,6 +197,7 @@ vs:
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda

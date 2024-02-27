@@ -77,7 +77,6 @@ vs:
  - Collins, Katrina
  - Cooper, Kathryn
  - Courtney, Joanne
- - Cunningham, Jessica
  - Daigle, Julie
  - Enge, Jenna
  - Ferguson, Dana
@@ -132,5 +131,6 @@ vs:
  - Trombley, Christy
  - Weagle, Lisa
  - Wilkes, Sarah
+ - Wiseman, Jessica
  - Wylie, Jennifer
 ---

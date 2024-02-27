@@ -72,11 +72,11 @@ vs:
  - Brown, Rachel
  - Burgess, Karlee
  - Cameron, Kate
- - Campbell, Kerry
  - Carey, Chelsea
  - Carter, Sasha
  - Christianson, Marie
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Doerksen, Katherine
  - Duncan, Hollie
  - Eddy, Lori
@@ -84,6 +84,7 @@ vs:
  - Everist, Karlee
  - Fisher, Sam
  - Flemming, Margot
+ - Foster, Kerry
  - Fyfe, Liz
  - Galusha, Kerry
  - Griffin, Alison
@@ -119,7 +120,6 @@ vs:
  - Simons, Renee
  - Strybosch, Rachelle
  - Sweeting, Val
- - Tingley, Jaclyn
  - Tran, Brittany
  - Tuor, Kimberly
  - Walker, Laura

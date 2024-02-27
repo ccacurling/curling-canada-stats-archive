@@ -300,7 +300,6 @@ vs:
  - Crocker, Ruby
  - Cunningham, Cathy
  - Cunningham, Jennifer
- - Cunningham, Jessica
  - Cutcliffe, Margaret
  - Daniel, Sylvie
  - Darbyshire, Carolyn
@@ -544,6 +543,7 @@ vs:
  - Willms, Karri
  - Wilson, Eileen
  - Wilson, Patty
+ - Wiseman, Jessica
  - Witt, Katie
  - Wuthrich, Patti
  - Wright, Susan

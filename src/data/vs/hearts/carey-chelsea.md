@@ -402,34 +402,34 @@ vs:
       year: 2022
       draw: Round Robin(15)
       score: WC 7 - WC 8
- - name: Cunningham, Jessica
+ - name: Crandall, Jaclyn
    totals:
     - event: Hearts
       player1:
-        percent: 87
+        percent: 88
         wins: 1
         losses: 0
       player2:
-        percent: 83
+        percent: 58
         wins: 0
         losses: 1
    games:
     - player1:
-        team: 'MB'
+        team: 'WC'
         position: Fourth
-        percent: 87
+        percent: 88
         win: 1
         loss: 0
       player2:
-        team: 'NL'
-        position: Second
-        percent: 83
+        team: 'NB'
+        position: Third
+        percent: 58
         win: 0
         loss: 1
       event: Hearts
-      year: 2014
-      draw: Round Robin(8)
-      score: NL 3 - MB 5
+      year: 2021
+      draw: Round Robin(6)
+      score: WC 9 - NB 2
  - name: Curtis, Erica
    totals:
     - event: Hearts
@@ -6078,34 +6078,6 @@ vs:
       year: 2016
       draw: Round Robin(4)
       score: BC 5 - AB 8
- - name: Tingley, Jaclyn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 88
-        wins: 1
-        losses: 0
-      player2:
-        percent: 58
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'WC'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Third
-        percent: 58
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(6)
-      score: WC 9 - NB 2
  - name: Tran, Brittany
    totals:
     - event: Hearts
@@ -6658,4 +6630,32 @@ vs:
       year: 2017
       draw: Round Robin(10)
       score: MB 7 - CA 8
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 87
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Fourth
+        percent: 87
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 83
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2014
+      draw: Round Robin(8)
+      score: NL 3 - MB 5
 ---

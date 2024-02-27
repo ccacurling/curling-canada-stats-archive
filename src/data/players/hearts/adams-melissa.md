@@ -4,19 +4,19 @@ name: Melissa Adams
 name-sort: Adams, Melissa
 totals:
  - event: Hearts
-   games: 16
-   wins: 8
-   losses: 8
-   inturn-total: 158
-   inturn-percent: 70
-   outturn-total: 154
-   outturn-percent: 68
-   draw-total: 154
-   draw-percent: 69
-   takeout-total: 158
+   games: 24
+   wins: 10
+   losses: 14
+   inturn-total: 234
+   inturn-percent: 65
+   outturn-total: 225
+   outturn-percent: 70
+   draw-total: 222
+   draw-percent: 65
+   takeout-total: 237
    takeout-percent: 69
-   shots-total: 312
-   shots-percent: 69
+   shots-total: 459
+   shots-percent: 67
 years:
  - year: 2009
    event: Hearts
@@ -59,6 +59,24 @@ years:
    takeout-percent: 59
    shots-total: 146
    shots-percent: 61
+ - year: 2024
+   event: Hearts
+   team: "NB"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 76
+   inturn-percent: 53
+   outturn-total: 71
+   outturn-percent: 74
+   draw-total: 68
+   draw-percent: 56
+   takeout-total: 79
+   takeout-percent: 69
+   shots-total: 147
+   shots-percent: 63
 vs:
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -69,30 +87,45 @@ vs:
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
+ - Brothers, Jill
  - Brown, Corryn
+ - Brunton, Kira
+ - Burgess, Karlee
+ - Cameron, Kate
  - Carey, Chelsea
+ - Carmody, Erin
  - Christianson, Marie
  - Crouse, Jennifer
  - Curtis, Erica
  - Curtis, Stacie
+ - Daly, Calissa
+ - deGroot, Cassandra
+ - Dubue, Lindsay
  - Duncan, Chelsea
  - Duncan, Jenna
  - Eddy, Lori
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Enge, Jenna
  - Fesser, Kourtney
  - Fesser, Krista
  - Fisher, Sam
+ - Flemming, Margot
  - Fleury, Tracy
+ - Foster, Kerry
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
+ - Grandy, Clancy
  - Griffin, Alison
  - Hamilton, Beth
  - Hawes, Dezaray
+ - Helston, Raelyn
  - Hill, Sarah
+ - Homan, Rachel
  - Hughes, Meaghan
  - Hynes, Julie
+ - Inglis, Danielle
  - Jones, Jennifer
  - Kitz, Chaelynn
  - Knapp, Breanne
@@ -100,11 +133,14 @@ vs:
  - Koltun, Sarah
  - Korchinski, Karlee
  - Lawes, Kaitlyn
+ - Loken, Sarah
  - MacCuish, Kristin
  - MacDonald, Kaitlin
+ - MacMillan, Kayla
  - Martin, Nancy
  - McEwen, Dawn
  - Mercer, Adrienne
+ - Miskew, Emma
  - Njegovan, Selena
  - Officer, Jill
  - Peterman, Jocelyn
@@ -113,11 +149,19 @@ vs:
  - Porter, Erin
  - Price, Kara
  - Riley, Emily
+ - Rizzo, Jo-Ann
+ - Rocque, Kelsey
+ - Scoffin, Bayly
  - Shea, Michelle
  - Smallwood, Jody
+ - Smith, Heather
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Strong, Helen
+ - Walter, Meghan
  - Weagle, Lisa
  - Webster, Crystal
  - Westcott, Raunora
+ - Wilkes, Sarah
+ - Zacharias, Emily
 ---

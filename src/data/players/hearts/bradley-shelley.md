@@ -234,7 +234,6 @@ vs:
  - Courtney, Joanne
  - Crouse, Jennifer
  - Cunningham, Cathy
- - Cunningham, Jessica
  - Curtis, Stacie
  - Daku, Karen
  - Dalio, Diane
@@ -411,6 +410,7 @@ vs:
  - Whitaker, Lisa
  - Whitrow, Leanne
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Wright, Susan
  - Wylie, Jennifer
  - Young, Karen

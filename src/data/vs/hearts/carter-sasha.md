@@ -1130,6 +1130,34 @@ vs:
       year: 2005
       draw: Round Robin(1)
       score: QC 4 - BC 7
+ - name: Foster, Kerry
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 59
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 59
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(18)
+      score: YT 8 - BC 11
  - name: Fullerton, Sarah
    totals:
     - event: Hearts

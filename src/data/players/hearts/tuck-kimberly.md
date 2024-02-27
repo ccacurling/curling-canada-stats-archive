@@ -1,21 +1,21 @@
 ---
-title: Kim Tuck
-name: Kim Tuck
-name-sort: Tuck, Kim
+title: Kimberly Tuck
+name: Kimberly Tuck
+name-sort: Tuck, Kimberly
 totals:
  - event: Hearts
-   games: 2
-   wins: 1
+   games: 3
+   wins: 2
    losses: 1
    inturn-total: 13
    inturn-percent: 87
-   outturn-total: 7
-   outturn-percent: 93
-   draw-total: 11
-   draw-percent: 98
+   outturn-total: 9
+   outturn-percent: 92
+   draw-total: 13
+   draw-percent: 96
    takeout-total: 9
    takeout-percent: 78
-   shots-total: 20
+   shots-total: 22
    shots-percent: 89
 years:
  - year: 2014
@@ -70,13 +70,31 @@ years:
    takeout-percent: 78
    shots-total: 20
    shots-percent: 89
+ - year: 2024
+   event: Hearts
+   team: "ON"
+   position: Lead
+   alternate: true
+   games: 1
+   wins: 1
+   losses: 0
+   outturn-total: 2
+   outturn-percent: 88
+   draw-total: 2
+   draw-percent: 88
+   shots-total: 2
+   shots-percent: 88
 vs:
  - Baier, Stephanie
  - Duncan, Chelsea
+ - Foster, Kerry
+ - Helston, Raelyn
  - Knezevic, Patti
  - Koltun, Sarah
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Scoffin, Bayly
  - Sinclair, Andrea
+ - Tuor, Kimberly
  - Wallingham, Patty
 ---

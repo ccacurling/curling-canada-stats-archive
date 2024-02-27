@@ -4,19 +4,19 @@ name: Krysten Karwacki
 name-sort: Karwacki, Krysten
 totals:
  - event: Hearts
-   games: 6
-   wins: 6
-   losses: 0
-   inturn-total: 3
-   inturn-percent: 92
-   outturn-total: 14
-   outturn-percent: 68
-   draw-total: 10
-   draw-percent: 73
-   takeout-total: 7
-   takeout-percent: 71
-   shots-total: 17
-   shots-percent: 72
+   games: 16
+   wins: 13
+   losses: 3
+   inturn-total: 95
+   inturn-percent: 88
+   outturn-total: 110
+   outturn-percent: 88
+   draw-total: 175
+   draw-percent: 89
+   takeout-total: 30
+   takeout-percent: 85
+   shots-total: 205
+   shots-percent: 88
 years:
  - year: 2017
    event: Hearts
@@ -108,31 +108,87 @@ years:
    draw-percent: 72
    shots-total: 8
    shots-percent: 72
+ - year: 2024
+   event: Hearts
+   team: "CA"
+   position: Lead
+   alternate: false
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 92
+   inturn-percent: 88
+   outturn-total: 96
+   outturn-percent: 91
+   draw-total: 165
+   draw-percent: 90
+   takeout-total: 23
+   takeout-percent: 89
+   shots-total: 188
+   shots-percent: 89
 vs:
  - Ackerman, Skylar
  - Alcoe-Holland, Jill
+ - Armstrong, Jennifer
+ - Best, Emily
  - Birt, Suzanne
+ - Brown, Corryn
  - Brunton, Kira
  - Burns, Krysta
  - Cameron, Kate
  - Christianson, Marie
+ - Curtis, Erica
+ - Curtis, Stacie
  - Cutcliffe, Margaret
+ - DiCarlo, Jane
  - Dolan, Sinead
+ - Elias, Mackenzie
  - Ferguson, Dana
+ - Fisher, Sam
+ - Fleury, Tracy
  - Fullerton, Sarah
  - Gates, Amanda
  - Guy, Sara
+ - Hawes, Dezaray
+ - Homan, Rachel
  - Hughes, Meaghan
+ - Hynes, Julie
+ - Jenkins, Whitney
  - Just, Sherry
+ - Kelly, Andrea
+ - MacCuish, Kristin
  - MacPhee, Robyn
  - Mattatall, Mary
+ - Mayne, Veronica
+ - McCarville, Krista
  - McDonald, Taylor
  - McEvoy, Julie
+ - Middaugh, Kelly
+ - Miskew, Emma
+ - Njegovan, Selena
+ - Papley, Paige
+ - Peterman, Jocelyn
+ - Pincott, Erin
+ - Potts, Sarah
+ - Riley, Emily
+ - Rocque, Kelsey
  - Schafer, Kelly
+ - Schmiemann, Danielle
  - Scotland, Nadine
  - Shea, Michelle
  - Silvernagle, Robyn
+ - Sinclair, Jamie
+ - Sippala, Ashley
+ - Skinner, Kaylin
  - Smith, Megan
+ - Smith, Sabrina
+ - St-Georges, Laurie
+ - Stremick, Taylor
+ - Sturmay, Selena
+ - Thevenot, Ashley
  - Thevenot, Kara
  - Walker, Laura
+ - Walter, Meghan
+ - Wilkes, Sarah
+ - Wiseman, Jessica
 ---

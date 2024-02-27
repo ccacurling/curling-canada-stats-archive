@@ -114,6 +114,34 @@ vs:
       year: 2015
       draw: Round Robin(12)
       score: CA 6 - NS 7
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 53
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 53
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(1)
+      score: NS 12 - NL 7
  - name: Wylie, Jennifer
    totals:
     - event: Hearts

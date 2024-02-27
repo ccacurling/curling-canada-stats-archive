@@ -454,34 +454,6 @@ vs:
       year: 2022
       draw: Round Robin(2)
       score: AB 8 - QC 9
- - name: Campbell, Kerry
-   totals:
-    - event: Hearts
-      player1:
-        percent: 50
-        wins: 1
-        losses: 0
-      player2:
-        percent: 61
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent: 50
-        win: 1
-        loss: 0
-      player2:
-        team: 'YT'
-        position: Second
-        percent: 61
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Round Robin(4)
-      score: QC 8 - YT 7
  - name: Carey, Chelsea
    totals:
     - event: Hearts
@@ -594,6 +566,34 @@ vs:
       year: 2021
       draw: Pool(21)
       score: QC 7 - ON 8
+ - name: Crandall, Jaclyn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 69
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 69
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(19)
+      score: NB 7 - QC 9
  - name: Doerksen, Katherine
    totals:
     - event: Hearts
@@ -806,6 +806,34 @@ vs:
       year: 2022
       draw: Round Robin(12)
       score: NT 7 - QC 6
+ - name: Foster, Kerry
+   totals:
+    - event: Hearts
+      player1:
+        percent: 50
+        wins: 1
+        losses: 0
+      player2:
+        percent: 61
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 50
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 61
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(4)
+      score: QC 8 - YT 7
  - name: Fyfe, Liz
    totals:
     - event: Hearts
@@ -1834,34 +1862,6 @@ vs:
       year: 2022
       draw: Round Robin(6)
       score: CA 8 - QC 5
- - name: Tingley, Jaclyn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 80
-        wins: 1
-        losses: 0
-      player2:
-        percent: 69
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent: 80
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Third
-        percent: 69
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(19)
-      score: NB 7 - QC 9
  - name: Tran, Brittany
    totals:
     - event: Hearts

@@ -179,7 +179,6 @@ vs:
  - Cameron, Kate
  - Cameron, Nancy
  - Campbell, Jolene
- - Campbell, Kerry
  - Carmody, Erin
  - Carrier, Julie
  - Cheveldave, Amber
@@ -207,6 +206,7 @@ vs:
  - Everist, Karlee
  - Fallis, Karen
  - Flemming, Margot
+ - Foster, Kerry
  - Fullerton, Sarah
  - Gagnier, Monique
  - Galusha, Kerry

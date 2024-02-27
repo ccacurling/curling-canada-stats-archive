@@ -104,7 +104,6 @@ vs:
  - Burt, Camille
  - Cameron, Kate
  - Campbell, Jolene
- - Campbell, Kerry
  - Carey, Chelsea
  - Christianson, Marie
  - Cote, Marie-Pier
@@ -121,6 +120,7 @@ vs:
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy
+ - Foster, Kerry
  - Fyfe, Liz
  - Galusha, Kerry
  - Gamble, Christie

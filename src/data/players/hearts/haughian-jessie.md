@@ -67,7 +67,6 @@ vs:
  - Brunton, Kira
  - Burgess, Karlee
  - Burt, Camille
- - Campbell, Kerry
  - Carey, Chelsea
  - Christianson, Marie
  - Courtney, Joanne
@@ -79,6 +78,7 @@ vs:
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Galusha, Kerry
  - Gates, Jennifer
  - Guzzwell, Stephanie

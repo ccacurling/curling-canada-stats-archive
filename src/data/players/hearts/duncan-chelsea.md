@@ -151,7 +151,6 @@ vs:
  - Court, Morgan
  - Courtney, Joanne
  - Crouse, Jennifer
- - Cunningham, Jessica
  - Curtis, Erica
  - Curtis, Stacie
  - deSolla, Jodie
@@ -225,12 +224,13 @@ vs:
  - Strong, Laura
  - Sweeting, Val
  - Titheridge, Lindsay
- - Tuck, Kim
+ - Tuck, Kimberly
  - Udle, Teri
  - Weagle, Lisa
  - Webster, Crystal
  - West, Christianne
  - Wilkes, Sarah
+ - Wiseman, Jessica
  - Wylie, Jennifer
  - Zacharias, Mackenzie
 ---

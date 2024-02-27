@@ -218,17 +218,45 @@ vs:
       year: 2021
       draw: Round Robin(15)
       score: SK 8 - WC 7
+ - name: Mayne, Veronica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 71
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 71
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(13)
+      score: MB 10 - PE 6
  - name: McCarville, Krista
    totals:
     - event: Hearts
       player1:
-        percent: 85
-        wins: 2
+        percent: 86
+        wins: 3
         losses: 3
       player2:
-        percent: 78
+        percent: 76
         wins: 3
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'MB'
@@ -310,6 +338,22 @@ vs:
       year: 2022
       draw: Playoff(21)
       score: NO 8 - WC 3
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(17)
+      score: NO 5 - MB 6
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -506,12 +550,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 81
+        percent: 86
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 90
-        wins: 1
+        percent: 83
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -530,6 +574,22 @@ vs:
       year: 2023
       draw: Round Robin(12)
       score: QC 9 - WC 7
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(9)
+      score: MB 5 - QC 7
  - name: Miskew, Emma
    totals:
     - event: Hearts
@@ -866,6 +926,50 @@ vs:
       year: 2016
       draw: Round Robin(5)
       score: ON 3 - MB 5
+ - name: Papley, Paige
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 0
+        losses: 2
+      player2:
+        percent: 82
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(1)
+      score: AB 7 - MB 5
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 98
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 95
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Playoff(20)
+      score: MB 5 - AB 8
  - name: Peterman, Jocelyn
    totals:
     - event: Hearts
@@ -1015,12 +1119,12 @@ vs:
     - event: Hearts
       player1:
         percent: 94
-        wins: 0
+        wins: 1
         losses: 1
       player2:
-        percent: 75
+        percent: 86
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'WC'
@@ -1038,6 +1142,22 @@ vs:
       year: 2021
       draw: Round Robin(11)
       score: BC 7 - WC 5
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 97
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(11)
+      score: MB 8 - BC 4
  - name: Pinksen, Sadie
    totals:
     - event: Hearts
@@ -1162,13 +1282,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 85
-        wins: 2
+        percent: 86
+        wins: 3
         losses: 3
       player2:
-        percent: 88
+        percent: 89
         wins: 3
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'MB'
@@ -1250,6 +1370,22 @@ vs:
       year: 2022
       draw: Playoff(21)
       score: NO 8 - WC 3
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(17)
+      score: NO 5 - MB 6
  - name: Price, Kara
    totals:
     - event: Hearts
@@ -1454,12 +1590,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 86
+        percent: 88
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 81
-        wins: 2
+        percent: 73
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -1494,6 +1630,22 @@ vs:
       year: 2023
       draw: Round Robin(12)
       score: QC 9 - WC 7
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Second
+        percent: 59
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(9)
+      score: MB 5 - QC 7
  - name: Routledge, Alanna
    totals:
     - event: Hearts
@@ -1766,6 +1918,50 @@ vs:
       year: 2022
       draw: Round Robin(11)
       score: WC 4 - WC 9
+ - name: Schmiemann, Danielle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 0
+        losses: 2
+      player2:
+        percent: 79
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(1)
+      score: AB 7 - MB 5
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 98
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Playoff(20)
+      score: MB 5 - AB 8
  - name: Schraeder, Jeanna
    totals:
     - event: Hearts
@@ -1966,17 +2162,45 @@ vs:
       year: 2023
       draw: Round Robin(10)
       score: SK 3 - WC 8
+ - name: Sinclair, Jamie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(9)
+      score: MB 5 - QC 7
  - name: Sippala, Ashley
    totals:
     - event: Hearts
       player1:
-        percent: 85
-        wins: 2
+        percent: 86
+        wins: 3
         losses: 2
       player2:
-        percent: 80
+        percent: 79
         wins: 2
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'MB'
@@ -2042,6 +2266,50 @@ vs:
       year: 2022
       draw: Playoff(21)
       score: NO 8 - WC 3
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 76
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(17)
+      score: NO 5 - MB 6
+ - name: Skinner, Kaylin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 69
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 69
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(3)
+      score: MB 6 - SK 8
  - name: Skrlik, Ashton
    totals:
     - event: Hearts
@@ -2126,6 +2394,34 @@ vs:
       year: 2018
       draw: Round Robin(10)
       score: YT 3 - WC 10
+ - name: Smith, Sabrina
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(13)
+      score: MB 10 - PE 6
  - name: St-Georges, Cynthia
    totals:
     - event: Hearts
@@ -2158,12 +2454,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 86
+        percent: 88
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 78
-        wins: 2
+        percent: 79
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -2198,16 +2494,104 @@ vs:
       year: 2023
       draw: Round Robin(12)
       score: QC 9 - WC 7
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(9)
+      score: MB 5 - QC 7
+ - name: Stremick, Taylor
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(3)
+      score: MB 6 - SK 8
+ - name: Sturmay, Selena
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 0
+        losses: 2
+      player2:
+        percent: 84
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(1)
+      score: AB 7 - MB 5
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 98
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Playoff(20)
+      score: MB 5 - AB 8
  - name: Sweeting, Val
    totals:
     - event: Hearts
       player1:
-        percent: 82
+        percent: 83
         wins: 0
-        losses: 3
+        losses: 4
       player2:
         percent: 82
-        wins: 3
+        wins: 4
         losses: 0
    games:
     - player1:
@@ -2258,6 +2642,22 @@ vs:
       year: 2023
       draw: Round Robin(5)
       score: WC 9 - CA 10
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(15)
+      score: CA 6 - MB 5
  - name: Taylor, Alison
    totals:
     - event: Hearts
@@ -2302,6 +2702,34 @@ vs:
       year: 2023
       draw: Round Robin(15)
       score: NU 4 - WC 10
+ - name: Thevenot, Ashley
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(3)
+      score: MB 6 - SK 8
  - name: Thevenot, Kara
    totals:
     - event: Hearts
@@ -2358,34 +2786,6 @@ vs:
       year: 2016
       draw: Round Robin(2)
       score: BC 2 - MB 10
- - name: Tingley, Jaclyn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 1
-        losses: 0
-      player2:
-        percent: 58
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'WC'
-        position: Lead
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Third
-        percent: 58
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(6)
-      score: WC 9 - NB 2
  - name: Tran, Brittany
    totals:
     - event: Hearts
@@ -2942,4 +3342,32 @@ vs:
       year: 2018
       draw: Pool(19)
       score: WC 5 - CA 8
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 60
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 60
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(7)
+      score: NL 3 - MB 8
 ---

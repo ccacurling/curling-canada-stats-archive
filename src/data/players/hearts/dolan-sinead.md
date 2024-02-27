@@ -170,7 +170,6 @@ vs:
  - Court, Morgan
  - Courtney, Joanne
  - Cunningham, Jennifer
- - Cunningham, Jessica
  - Daniel, Sylvie
  - Derick, Catherine
  - deSolla, Jodie
@@ -239,5 +238,6 @@ vs:
  - Van Osch, Kesa
  - Vey, Lana
  - Wallingham, Patty
+ - Wiseman, Jessica
  - Wylie, Jennifer
 ---

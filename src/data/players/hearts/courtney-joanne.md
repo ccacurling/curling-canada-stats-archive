@@ -185,7 +185,6 @@ vs:
  - Cormier, Sharon
  - Cottrill, Katie
  - Court, Morgan
- - Cunningham, Jessica
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
@@ -336,6 +335,7 @@ vs:
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Wylie, Jennifer
  - Zacharias, Emily
  - Zacharias, Mackenzie

@@ -117,7 +117,6 @@ vs:
  - Black, Christina
  - Brown, Rachel
  - Cameron, Kate
- - Campbell, Kerry
  - Carey, Chelsea
  - Christianson, Marie
  - Dubue, Lindsay
@@ -126,6 +125,7 @@ vs:
  - Everist, Karlee
  - Ferguson, Dana
  - Forward, Katie
+ - Foster, Kerry
  - Gates, Jennifer
  - Grandy, Clancy
  - Griffin, Alison
@@ -134,7 +134,6 @@ vs:
  - Hunkin, Jessie
  - Just, Sherry
  - Kelly, Andrea
- - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
  - Loken, Sarah

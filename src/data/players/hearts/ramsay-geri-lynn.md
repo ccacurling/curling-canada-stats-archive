@@ -87,7 +87,6 @@ vs:
  - Kalenchuk, Heather
  - Kelly, Andrea
  - Koehler, Megan
- - Lawes, Kaitlyn
  - LeDrew, Stephanie
  - Lemon, Colette
  - Loken, Sarah

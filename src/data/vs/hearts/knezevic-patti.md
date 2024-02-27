@@ -790,7 +790,7 @@ vs:
       year: 2015
       draw: Round Robin(9)
       score: ON 9 - BC 4
- - name: Tuck, Kim
+ - name: Tuck, Kimberly
    totals:
     - event: Hearts
       player1:
@@ -874,6 +874,50 @@ vs:
       year: 2015
       draw: Round Robin(7)
       score: BC 3 - CA 8
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 77
+        wins: 1
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 80
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2014
+      draw: Round Robin(14)
+      score: BC 7 - NL 3
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2015
+      draw: Round Robin(14)
+      score: BC 7 - NL 10
  - name: Wylie, Jennifer
    totals:
     - event: Hearts

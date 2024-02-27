@@ -2,6 +2,34 @@
 title: Julie Hynes Head-to-head
 name: Hynes, Julie
 vs:
+ - name: Jenkins, Whitney
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(11)
+      score: NL 11 - PE 6
  - name: Jones, Jennifer
    totals:
     - event: Hearts
@@ -106,16 +134,44 @@ vs:
       year: 2016
       draw: Round Robin(16)
       score: NL 4 - NS 7
+ - name: Karwacki, Krysten
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(17)
+      score: NL 4 - CA 12
  - name: Kelly, Andrea
    totals:
     - event: Hearts
       player1:
-        percent: 80
-        wins: 0
-        losses: 1
-      player2:
         percent: 78
-        wins: 1
+        wins: 0
+        losses: 2
+      player2:
+        percent: 76
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -134,6 +190,22 @@ vs:
       year: 2023
       draw: Round Robin(14)
       score: NB 8 - NL 7
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 74
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(9)
+      score: NO 8 - NL 3
  - name: Klymchuk, Ashley
    totals:
     - event: Hearts
@@ -354,12 +426,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 68
+        percent: 72
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 86
-        wins: 2
+        percent: 83
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -394,6 +466,22 @@ vs:
       year: 2020
       draw: Round Robin(13)
       score: WC 7 - NL 4
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(14)
+      score: NB 8 - NL 7
  - name: LeDrew, Stephanie
    totals:
     - event: Hearts
@@ -614,12 +702,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 81
+        percent: 80
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 74
-        wins: 1
+        percent: 79
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -638,6 +726,22 @@ vs:
       year: 2016
       draw: Round Robin(10)
       score: MB 8 - NL 5
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(7)
+      score: NL 3 - MB 8
  - name: MacPhee, Robyn
    totals:
     - event: Hearts
@@ -782,16 +886,44 @@ vs:
       year: 2017
       draw: Round Robin(17)
       score: NS 4 - NL 7
+ - name: Mayne, Veronica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 72
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(11)
+      score: NL 11 - PE 6
  - name: McCarville, Krista
    totals:
     - event: Hearts
       player1:
         percent: 73
         wins: 0
-        losses: 3
+        losses: 4
       player2:
         percent: 83
-        wins: 3
+        wins: 4
         losses: 0
    games:
     - player1:
@@ -842,6 +974,22 @@ vs:
       year: 2023
       draw: Round Robin(15)
       score: NL 7 - NO 8
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(9)
+      score: NO 8 - NL 3
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -1190,12 +1338,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 81
+        percent: 80
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 89
-        wins: 1
+        percent: 84
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1214,6 +1362,22 @@ vs:
       year: 2016
       draw: Round Robin(10)
       score: MB 8 - NL 5
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(7)
+      score: NL 3 - MB 8
  - name: O'Connor, Susan
    totals:
     - event: Hearts
@@ -1354,6 +1518,34 @@ vs:
       year: 2017
       draw: Round Robin(9)
       score: NL 4 - QC 7
+ - name: Papley, Paige
+   totals:
+    - event: Hearts
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 93
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(15)
+      score: NL 8 - AB 7
  - name: Parsons, Danielle
    totals:
     - event: Hearts
@@ -1414,12 +1606,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 67
+        percent: 70
         wins: 0
-        losses: 3
+        losses: 4
       player2:
-        percent: 79
-        wins: 3
+        percent: 80
+        wins: 4
         losses: 0
    games:
     - player1:
@@ -1470,6 +1662,22 @@ vs:
       year: 2020
       draw: Round Robin(13)
       score: WC 7 - NL 4
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(7)
+      score: NL 3 - MB 8
  - name: Peters, Laine
    totals:
     - event: Hearts
@@ -1546,12 +1754,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 90
+        percent: 79
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 71
-        wins: 1
+        percent: 75
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1570,6 +1778,22 @@ vs:
       year: 2020
       draw: Round Robin(12)
       score: NL 6 - BC 8
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(3)
+      score: BC 12 - NL 4
  - name: Plonka, Gabrielle
    totals:
     - event: Hearts
@@ -1604,10 +1828,10 @@ vs:
       player1:
         percent: 73
         wins: 0
-        losses: 3
+        losses: 4
       player2:
-        percent: 87
-        wins: 3
+        percent: 89
+        wins: 4
         losses: 0
    games:
     - player1:
@@ -1658,6 +1882,22 @@ vs:
       year: 2023
       draw: Round Robin(15)
       score: NL 7 - NO 8
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Lead
+        percent: 96
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(9)
+      score: NO 8 - NL 3
  - name: Quillian, Sylvie
    totals:
     - event: Hearts
@@ -2034,6 +2274,34 @@ vs:
       year: 2018
       draw: Round Robin(7)
       score: AB 5 - NL 9
+ - name: Schmiemann, Danielle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(15)
+      score: NL 8 - AB 7
  - name: Schneider, Lorraine
    totals:
     - event: Hearts
@@ -2184,10 +2452,10 @@ vs:
       player1:
         percent: 73
         wins: 0
-        losses: 3
+        losses: 4
       player2:
-        percent: 79
-        wins: 3
+        percent: 81
+        wins: 4
         losses: 0
    games:
     - player1:
@@ -2238,6 +2506,22 @@ vs:
       year: 2023
       draw: Round Robin(15)
       score: NL 7 - NO 8
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(9)
+      score: NO 8 - NL 3
  - name: Smith, Heather
    totals:
     - event: Hearts
@@ -2266,6 +2550,90 @@ vs:
       year: 2011
       draw: Round Robin(14)
       score: NS 11 - NL 3
+ - name: Smith, Sabrina
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 90
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 90
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(11)
+      score: NL 11 - PE 6
+ - name: Sturmay, Selena
+   totals:
+    - event: Hearts
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(15)
+      score: NL 8 - AB 7
+ - name: Sweeting, Val
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(17)
+      score: NL 4 - CA 12
  - name: Thiessen, Alison
    totals:
     - event: Hearts

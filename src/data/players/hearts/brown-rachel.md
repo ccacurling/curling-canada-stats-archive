@@ -4,18 +4,18 @@ name: Rachel Brown
 name-sort: Brown, Rachel
 totals:
  - event: Hearts
-   games: 66
-   wins: 46
+   games: 68
+   wins: 48
    losses: 20
-   inturn-total: 646
+   inturn-total: 648
    inturn-percent: 87
-   outturn-total: 586
+   outturn-total: 590
    outturn-percent: 84
-   draw-total: 948
+   draw-total: 951
    draw-percent: 88
-   takeout-total: 284
+   takeout-total: 287
    takeout-percent: 74
-   shots-total: 1232
+   shots-total: 1238
    shots-percent: 85
 years:
  - year: 2014
@@ -108,6 +108,24 @@ years:
    takeout-percent: 64
    shots-total: 246
    shots-percent: 83
+ - year: 2024
+   event: Hearts
+   team: "ON"
+   position: Lead
+   alternate: true
+   games: 2
+   wins: 2
+   losses: 0
+   inturn-total: 2
+   inturn-percent: 75
+   outturn-total: 4
+   outturn-percent: 88
+   draw-total: 3
+   draw-percent: 83
+   takeout-total: 3
+   takeout-percent: 83
+   shots-total: 6
+   shots-percent: 83
 vs:
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -143,7 +161,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Cunningham, Jessica
  - Daigle, Julie
  - Davies, Lisa
  - deSolla, Jodie
@@ -159,6 +176,7 @@ vs:
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Foster, Kristen
  - Fyfe, Liz
  - Galusha, Kerry
@@ -171,6 +189,7 @@ vs:
  - Hastings, Julie
  - Haughian, Jessie
  - Hawes, Dezaray
+ - Helston, Raelyn
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
@@ -235,6 +254,7 @@ vs:
  - Sandwith, Carley
  - Scheidegger, Casey
  - Schmidt, Stephanie
+ - Scoffin, Bayly
  - Scotland, Nadine
  - Shea, Michelle
  - Silvernagle, Robyn
@@ -255,6 +275,7 @@ vs:
  - Titheridge, Lindsay
  - Tran, Brittany
  - Trombley, Christy
+ - Tuor, Kimberly
  - Udle, Teri
  - Van Osch, Kesa
  - Verreault, Noemie
@@ -264,6 +285,7 @@ vs:
  - Weagle, Lisa
  - Whitaker, Carol
  - Wilkes, Sarah
+ - Wiseman, Jessica
  - Wylie, Jennifer
  - Zacharias, Emily
  - Zacharias, Mackenzie

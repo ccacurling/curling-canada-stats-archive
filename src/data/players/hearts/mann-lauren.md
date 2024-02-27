@@ -74,7 +74,6 @@ vs:
  - Cooper, Kathryn
  - Cormier, Sharon
  - Courtney, Joanne
- - Cunningham, Jessica
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
@@ -139,5 +138,6 @@ vs:
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Wylie, Jennifer
 ---

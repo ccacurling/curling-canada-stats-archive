@@ -422,6 +422,34 @@ vs:
       year: 2022
       draw: Round Robin(15)
       score: WC 7 - WC 8
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 60
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Second
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 60
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(12)
+      score: SK 4 - NL 2
  - name: Wylie, Jennifer
    totals:
     - event: Hearts

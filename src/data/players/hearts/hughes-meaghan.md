@@ -198,6 +198,7 @@ vs:
  - Clark-Rouire, Jennifer
  - Cormier, Sharon
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
@@ -330,7 +331,6 @@ vs:
  - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla
- - Tingley, Jaclyn
  - Tran, Brittany
  - Tuor, Kimberly
  - Udle, Teri

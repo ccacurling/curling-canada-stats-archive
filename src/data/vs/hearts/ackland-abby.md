@@ -142,34 +142,6 @@ vs:
       year: 2023
       draw: Round Robin(2)
       score: WC 3 - WC 5
- - name: Campbell, Kerry
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 1
-        losses: 0
-      player2:
-        percent: 78
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'WC'
-        position: Third
-        percent: 84
-        win: 1
-        loss: 0
-      player2:
-        team: 'YT'
-        position: Second
-        percent: 78
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2023
-      draw: Round Robin(16)
-      score: YT 2 - WC 9
  - name: Curtis, Erica
    totals:
     - event: Hearts
@@ -338,6 +310,34 @@ vs:
       year: 2023
       draw: Round Robin(11)
       score: NB 5 - WC 8
+ - name: Foster, Kerry
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(16)
+      score: YT 2 - WC 9
  - name: Galusha, Kerry
    totals:
     - event: Hearts
@@ -534,6 +534,34 @@ vs:
       year: 2023
       draw: Round Robin(6)
       score: WC 8 - NT 6
+ - name: Lawes, Kaitlyn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 82
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 82
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(11)
+      score: NB 5 - WC 8
  - name: Lilly, Kendra
    totals:
     - event: Hearts

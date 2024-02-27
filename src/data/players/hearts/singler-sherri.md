@@ -94,7 +94,6 @@ vs:
  - Courtney, Joanne
  - Crouse, Jennifer
  - Cunningham, Cathy
- - Cunningham, Jessica
  - Darbyshire, Carolyn
  - Delahunt, Nancy
  - Derick, Catherine
@@ -182,5 +181,6 @@ vs:
  - Van Osch, Kesa
  - Wallingham, Patty
  - Weagle, Lisa
+ - Wiseman, Jessica
  - Zinck, Kay
 ---

@@ -1106,34 +1106,6 @@ vs:
       year: 2023
       draw: Round Robin(13)
       score: SK 13 - NU 4
- - name: Tingley, Jaclyn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 66
-        wins: 0
-        losses: 1
-      player2:
-        percent: 68
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NU'
-        position: Lead
-        percent: 66
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Third
-        percent: 68
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(13)
-      score: NU 8 - NB 9
  - name: Tran, Brittany
    totals:
     - event: Hearts

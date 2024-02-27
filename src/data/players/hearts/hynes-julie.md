@@ -4,18 +4,18 @@ name: Julie Hynes
 name-sort: Hynes, Julie
 totals:
  - event: Hearts
-   games: 48
-   wins: 15
-   losses: 33
-   inturn-total: 420
-   inturn-percent: 75
-   outturn-total: 476
+   games: 54
+   wins: 17
+   losses: 37
+   inturn-total: 464
+   inturn-percent: 76
+   outturn-total: 540
    outturn-percent: 79
-   draw-total: 438
+   draw-total: 496
    draw-percent: 76
-   takeout-total: 458
+   takeout-total: 508
    takeout-percent: 79
-   shots-total: 896
+   shots-total: 1004
    shots-percent: 77
 years:
  - year: 2011
@@ -144,11 +144,64 @@ years:
    takeout-percent: 74
    shots-total: 148
    shots-percent: 75
+ - year: 2024
+   event: Hearts
+   team: "NL"
+   position: Lead
+   alternate: false
+   games: 2
+   wins: 0
+   losses: 2
+   inturn-total: 14
+   inturn-percent: 86
+   outturn-total: 20
+   outturn-percent: 74
+   draw-total: 30
+   draw-percent: 81
+   takeout-total: 4
+   takeout-percent: 63
+   shots-total: 34
+   shots-percent: 79
+ - year: 2024
+   event: Hearts
+   team: "NL"
+   position: Second
+   alternate: false
+   games: 4
+   wins: 2
+   losses: 2
+   inturn-total: 30
+   inturn-percent: 76
+   outturn-total: 44
+   outturn-percent: 78
+   draw-total: 28
+   draw-percent: 77
+   takeout-total: 46
+   takeout-percent: 78
+   shots-total: 74
+   shots-percent: 77
+ - year: 2024
+   event: Hearts
+   team: Totals
+   games: 6
+   wins: 2
+   losses: 4
+   inturn-total: 44
+   inturn-percent: 79
+   outturn-total: 64
+   outturn-percent: 77
+   draw-total: 58
+   draw-percent: 79
+   takeout-total: 50
+   takeout-percent: 77
+   shots-total: 108
+   shots-percent: 78
 vs:
  - Ackland, Abby
  - Adams, Melissa
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
+ - Armstrong, Jennifer
  - Arnaud, Chloe
  - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
@@ -157,6 +210,7 @@ vs:
  - Barker, Penny
  - Baxter, Jennifer
  - Belisle, Eve
+ - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
@@ -168,7 +222,6 @@ vs:
  - Burgess, Karlee
  - Cameron, Kate
  - Campbell, Jolene
- - Campbell, Kerry
  - Carey, Chelsea
  - Chislett, Geneva
  - Christianson, Marie
@@ -177,6 +230,7 @@ vs:
  - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
+ - DiCarlo, Jane
  - Doig, Deanna
  - Duncan, Chelsea
  - Duncan, Hollie
@@ -184,9 +238,11 @@ vs:
  - Elias, Mackenzie
  - Englot, Michelle
  - Eyamie, Lisa
+ - Fisher, Sam
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gagne, Emilia
@@ -197,13 +253,16 @@ vs:
  - Hanna, Stephanie
  - Harvey, Marie-Pier
  - Haughian, Jessie
+ - Hawes, Dezaray
  - Hill, Trish
  - Homan, Rachel
  - Howard, Ashley
  - Hughes, Meaghan
  - Hutchings, Denise
+ - Jenkins, Whitney
  - Jones, Jennifer
  - Joyce, Blisse
+ - Karwacki, Krysten
  - Kelly, Andrea
  - Klymchuk, Ashley
  - Koehler, Megan
@@ -223,6 +282,7 @@ vs:
  - Mallett, Marla
  - Mann, Lauren
  - Mattatall, Mary
+ - Mayne, Veronica
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
@@ -240,6 +300,7 @@ vs:
  - Oliver, Sara
  - O'Neill, Brit
  - O'Rourke, Brittany
+ - Papley, Paige
  - Parsons, Danielle
  - Perron, Melina
  - Peterman, Jocelyn
@@ -258,12 +319,16 @@ vs:
  - Saulnier, Andrea
  - Scheidegger, Casey
  - Scheidegger, Jessie
+ - Schmiemann, Danielle
  - Schneider, Lorraine
  - Shackleton, Amie
  - Shea, Michelle
  - Sicinski, Danielle
  - Sippala, Ashley
  - Smith, Heather
+ - Smith, Sabrina
+ - Sturmay, Selena
+ - Sweeting, Val
  - Thiessen, Alison
  - Thompson, Karla
  - Tuor, Kimberly

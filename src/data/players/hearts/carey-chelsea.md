@@ -178,7 +178,7 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Cunningham, Jessica
+ - Crandall, Jaclyn
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
@@ -315,7 +315,6 @@ vs:
  - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla
- - Tingley, Jaclyn
  - Tran, Brittany
  - Udle, Teri
  - Vandale, Trysta
@@ -330,4 +329,5 @@ vs:
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
+ - Wiseman, Jessica
 ---

@@ -121,7 +121,6 @@ vs:
  - Courtney, Joanne
  - Crouse, Jennifer
  - Cunningham, Jennifer
- - Cunningham, Jessica
  - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
@@ -221,4 +220,5 @@ vs:
  - Whitaker, Carol
  - Wilkes, Sarah
  - Wilson, Leslie
+ - Wiseman, Jessica
 ---

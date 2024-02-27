@@ -4,18 +4,18 @@ name: Jocelyn Peterman
 name-sort: Peterman, Jocelyn
 totals:
  - event: Hearts
-   games: 71
-   wins: 49
-   losses: 22
-   inturn-total: 680
+   games: 80
+   wins: 53
+   losses: 27
+   inturn-total: 749
    inturn-percent: 81
-   outturn-total: 679
+   outturn-total: 783
    outturn-percent: 83
-   draw-total: 559
-   draw-percent: 80
-   takeout-total: 800
+   draw-total: 623
+   draw-percent: 79
+   takeout-total: 909
    takeout-percent: 83
-   shots-total: 1359
+   shots-total: 1532
    shots-percent: 82
 years:
  - year: 2016
@@ -126,7 +126,26 @@ years:
    takeout-percent: 81
    shots-total: 171
    shots-percent: 81
+ - year: 2024
+   event: Hearts
+   team: "MB"
+   position: Second
+   alternate: false
+   games: 9
+   wins: 4
+   losses: 5
+   inturn-total: 69
+   inturn-percent: 84
+   outturn-total: 104
+   outturn-percent: 81
+   draw-total: 64
+   draw-percent: 75
+   takeout-total: 109
+   takeout-percent: 87
+   shots-total: 173
+   shots-percent: 83
 vs:
+ - Ackerman, Skylar
  - Adams, Melissa
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
@@ -153,6 +172,7 @@ vs:
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Burt, Camille
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
@@ -160,11 +180,13 @@ vs:
  - Clark-Rouire, Jennifer
  - Cormier, Sharon
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
+ - DiCarlo, Jane
  - Doerksen, Katherine
  - Doig, Deanna
  - Dubue, Lindsay
@@ -199,8 +221,10 @@ vs:
  - Hunkin, Jessie
  - Hynes, Julie
  - Inglis, Danielle
+ - Jenkins, Whitney
  - Jones, Jennifer
  - Just, Sherry
+ - Karwacki, Krysten
  - Kelly, Andrea
  - Kitz, Chaelynn
  - Kleibrink, Shannon
@@ -227,6 +251,7 @@ vs:
  - Mann, Lauren
  - Martin, Nancy
  - Mattatall, Mary
+ - Mayne, Veronica
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
@@ -242,6 +267,7 @@ vs:
  - Officer, Jill
  - O'Neill, Brit
  - O'Rourke, Brittany
+ - Papley, Paige
  - Peterson, Beth
  - Pilote, Kristen
  - Pincott, Erin
@@ -264,23 +290,29 @@ vs:
  - Saulnier, Andrea
  - Schafer, Kelly
  - Scheidegger, Casey
+ - Schmiemann, Danielle
  - Schneider, Lorraine
  - Shaw, Ladene
  - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
+ - Sinclair, Jamie
  - Sippala, Ashley
+ - Skinner, Kaylin
  - Skrlik, Ashton
  - Skrlik, Kayla
+ - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stremick, Taylor
  - Strong, Helen
+ - Sturmay, Selena
  - Sweeting, Val
  - Taylor, Alison
+ - Thevenot, Ashley
  - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla
- - Tingley, Jaclyn
  - Tran, Brittany
  - Tuor, Kimberly
  - Udle, Teri
@@ -293,4 +325,5 @@ vs:
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
+ - Wiseman, Jessica
 ---

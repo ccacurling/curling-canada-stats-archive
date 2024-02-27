@@ -47,7 +47,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Cunningham, Jessica
  - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
@@ -80,7 +79,8 @@ vs:
  - Strong, Laura
  - Sweeting, Val
  - Titheridge, Lindsay
- - Tuck, Kim
+ - Tuck, Kimberly
  - Udle, Teri
  - Weagle, Lisa
+ - Wiseman, Jessica
 ---

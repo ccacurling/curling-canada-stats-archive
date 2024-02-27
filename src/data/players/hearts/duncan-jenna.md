@@ -84,6 +84,7 @@ vs:
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
+ - Lawes, Kaitlyn
  - Lister, Kendra
  - MacCuish, Kristin
  - Mackey, Robyn

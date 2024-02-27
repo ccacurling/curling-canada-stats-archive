@@ -97,6 +97,7 @@ vs:
  - Christianson, Marie
  - Cormier, Sharon
  - Cote, Marie-Pier
+ - Crandall, Jaclyn
  - Cunningham, Cathy
  - Daniel, Sylvie
  - Delahunt, Nancy
@@ -173,7 +174,6 @@ vs:
  - Stewart, Sheri
  - Sweeting, Val
  - Thevenot, Kara
- - Tingley, Jaclyn
  - Verreault, Noemie
  - Walker, Laura
  - Weagle, Lisa

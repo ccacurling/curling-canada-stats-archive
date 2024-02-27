@@ -242,6 +242,11 @@ years:
    takeout-percent: 70
    shots-total: 152
    shots-percent: 77
+ - year: 2024
+   event: Hearts
+   team: "NT"
+   position: Alternate
+   alternate: true
 vs:
  - Adams, Melissa
  - Aleksic, Shannon

@@ -150,7 +150,6 @@ vs:
  - Cameron, Kate
  - Camozzi, Rhonda
  - Campbell, Jolene
- - Campbell, Kerry
  - Carey, Chelsea
  - Carter, Sasha
  - Christianson, Marie
@@ -161,7 +160,6 @@ vs:
  - Courtney, Joanne
  - Crouse, Jennifer
  - Cunningham, Cathy
- - Cunningham, Jessica
  - Curtis, Erica
  - Curtis, Stacie
  - Delahunt, Nancy
@@ -178,6 +176,7 @@ vs:
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy
+ - Foster, Kerry
  - Fyfe, Liz
  - Galusha, Kerry
  - Gamble, Christie
@@ -287,6 +286,7 @@ vs:
  - Whitaker, Carol
  - Wilkes, Sarah
  - Williamson, Ashley
+ - Wiseman, Jessica
  - Wylie, Jennifer
  - Yardley, Janelle
  - Zacharias, Emily

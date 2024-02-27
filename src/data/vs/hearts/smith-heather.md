@@ -290,6 +290,34 @@ vs:
       year: 2014
       draw: Round Robin(6)
       score: MB 7 - NS 3
+ - name: Tuor, Kimberly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 63
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(10)
+      score: NS 12 - YT 5
  - name: Van Osch, Kesa
    totals:
     - event: Hearts
@@ -430,6 +458,34 @@ vs:
       year: 2000
       draw: Round Robin(12)
       score: SK 4 - NS 5
+ - name: Ward, Molli
+   totals:
+    - event: Hearts
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Second
+        percent: 67
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(4)
+      score: NB 8 - NS 10
  - name: Weagle, Lisa
    totals:
     - event: Hearts
@@ -622,6 +678,34 @@ vs:
       year: 2000
       draw: Round Robin(12)
       score: SK 4 - NS 5
+ - name: Wilkes, Sarah
+   totals:
+    - event: Hearts
+      player1:
+        percent: 71
+        wins: 0
+        losses: 1
+      player2:
+        percent: 93
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Third
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(18)
+      score: NS 3 - ON 6
  - name: Wilson, Leslie
    totals:
     - event: Hearts
@@ -650,6 +734,34 @@ vs:
       year: 2011
       draw: Round Robin(9)
       score: NS 8 - MB 7
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 57
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Fourth
+        percent: 57
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2014
+      draw: Round Robin(1)
+      score: NS 5 - NL 8
  - name: Wright, Susan
    totals:
     - event: Hearts
@@ -706,4 +818,32 @@ vs:
       year: 2012
       draw: Round Robin(4)
       score: ON 10 - NS 3
+ - name: Zacharias, Emily
+   totals:
+    - event: Hearts
+      player1:
+        percent: 80
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Third
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(2)
+      score: NS 5 - MB 7
 ---

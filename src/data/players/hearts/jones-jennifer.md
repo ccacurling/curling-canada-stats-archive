@@ -4,18 +4,18 @@ name: Jennifer Jones
 name-sort: Jones, Jennifer
 totals:
  - event: Hearts
-   games: 225
-   wins: 169
-   losses: 56
-   inturn-total: 2097
+   games: 237
+   wins: 177
+   losses: 60
+   inturn-total: 2202
    inturn-percent: 80
-   outturn-total: 1999
+   outturn-total: 2110
    outturn-percent: 78
-   draw-total: 1865
+   draw-total: 1960
    draw-percent: 78
-   takeout-total: 2231
+   takeout-total: 2352
    takeout-percent: 80
-   shots-total: 4096
+   shots-total: 4312
    shots-percent: 79
 years:
  - year: 2002
@@ -324,6 +324,24 @@ years:
    takeout-percent: 82
    shots-total: 227
    shots-percent: 81
+ - year: 2024
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   alternate: false
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 105
+   inturn-percent: 84
+   outturn-total: 111
+   outturn-percent: 75
+   draw-total: 95
+   draw-percent: 78
+   takeout-total: 121
+   takeout-percent: 81
+   shots-total: 216
+   shots-percent: 79
 vs:
  - Ackland, Abby
  - Adams, Melissa
@@ -371,6 +389,7 @@ vs:
  - Brown, Jacalyn
  - Brown, Janet
  - Brown, Rachel
+ - Brunton, Kira
  - Burgess, Carey
  - Burlington, Cheryl
  - Burt, Camille
@@ -379,7 +398,6 @@ vs:
  - Cameron, Nancy
  - Camozzi, Rhonda
  - Campbell, Jolene
- - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carrier, Julie
@@ -398,14 +416,16 @@ vs:
  - Cordina, Sheri
  - Cormier, Sharon
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
- - Cunningham, Jessica
  - Curtis, Erica
  - Curtis, Stacie
+ - Daly, Calissa
  - Daniel, Sylvie
  - Darbyshire, Carolyn
+ - deGroot, Cassandra
  - deJager, Blaine
  - Delahunt, Nancy
  - Derick, Catherine
@@ -440,6 +460,7 @@ vs:
  - Fortier, Marie-Josee
  - Fortin, Sylvie
  - Forward, Katie
+ - Foster, Kerry
  - Fraser, Sherry
  - Fullerton, Sarah
  - Fyfe, Liz
@@ -472,6 +493,7 @@ vs:
  - Hastings, Julie
  - Haughian, Jessie
  - Hawes, Dezaray
+ - Helston, Raelyn
  - Hill, Sarah
  - Hodson, Kim
  - Holland, Amber
@@ -513,6 +535,7 @@ vs:
  - Lavery, Tracey
  - Law, Kelley
  - Lawes, Andrea
+ - Lawes, Kaitlyn
  - Lawton, Stefanie
  - LeDrew, Stephanie
  - Leger, Stacey
@@ -587,6 +610,7 @@ vs:
  - O'Rourke, Kathy
  - Osborne, Chantal
  - Overton-Clapham, Cathy
+ - Papley, Paige
  - Parsons, Danielle
  - Paul, Sarah
  - Peterman, Jocelyn
@@ -615,6 +639,7 @@ vs:
  - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Robinson, Lori
+ - Rocque, Kelsey
  - Rocque, Raylene
  - Rogers, Rhonda
  - Ross, Allison
@@ -627,9 +652,11 @@ vs:
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
+ - Schmiemann, Danielle
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
+ - Scoffin, Bayly
  - Scott, Kelly
  - Sharpe, Kelli
  - Shaw, Ladene
@@ -655,6 +682,7 @@ vs:
  - Strong, Helen
  - Strong, Laura
  - Stubbings, Tiffany
+ - Sturmay, Selena
  - Surik, Teejay
  - Sweeting, Val
  - Tanner, Ros
@@ -662,7 +690,6 @@ vs:
  - Thomas, Jill
  - Thompson, Karla
  - Thurston, Jill
- - Tingley, Jaclyn
  - Tran, Brittany
  - Trider, Krista
  - Trombley, Christy
@@ -677,6 +704,7 @@ vs:
  - Walker, Laura
  - Wall, Kirsten
  - Walter, Meghan
+ - Ward, Molli
  - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah
@@ -689,6 +717,7 @@ vs:
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Wylie, Jennifer
  - Yardley, Janelle
  - Zinck, Kay

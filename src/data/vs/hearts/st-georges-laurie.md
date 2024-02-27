@@ -2,6 +2,34 @@
 title: Laurie St-Georges Head-to-head
 name: St-Georges, Laurie
 vs:
+ - name: Stremick, Taylor
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 80
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(7)
+      score: SK 3 - QC 7
  - name: Strybosch, Rachelle
    totals:
     - event: Hearts
@@ -30,16 +58,44 @@ vs:
       year: 2022
       draw: Round Robin(16)
       score: QC 4 - ON 9
+ - name: Sturmay, Selena
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 92
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 92
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(11)
+      score: QC 3 - AB 8
  - name: Sweeting, Val
    totals:
     - event: Hearts
       player1:
-        percent: 69
+        percent: 67
         wins: 0
-        losses: 3
+        losses: 4
       player2:
-        percent: 91
-        wins: 3
+        percent: 89
+        wins: 4
         losses: 0
    games:
     - player1:
@@ -90,6 +146,22 @@ vs:
       year: 2023
       draw: Round Robin(1)
       score: CA 11 - QC 8
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(1)
+      score: CA 8 - QC 2
  - name: Taylor, Alison
    totals:
     - event: Hearts
@@ -118,6 +190,34 @@ vs:
       year: 2023
       draw: Round Robin(5)
       score: QC 13 - NU 5
+ - name: Thevenot, Ashley
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Third
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(7)
+      score: SK 3 - QC 7
  - name: Thevenot, Kara
    totals:
     - event: Hearts
@@ -146,34 +246,6 @@ vs:
       year: 2023
       draw: Round Robin(8)
       score: SK 5 - QC 9
- - name: Tingley, Jaclyn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 1
-        losses: 0
-      player2:
-        percent: 69
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Fourth
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Third
-        percent: 69
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(19)
-      score: NB 7 - QC 9
  - name: Tran, Brittany
    totals:
     - event: Hearts
@@ -418,6 +490,34 @@ vs:
       year: 2021
       draw: Pool(21)
       score: QC 7 - ON 8
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 86
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(5)
+      score: QC 8 - NL 7
  - name: Zacharias, Emily
    totals:
     - event: Hearts

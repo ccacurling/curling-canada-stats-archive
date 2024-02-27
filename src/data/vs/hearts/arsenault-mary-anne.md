@@ -2070,34 +2070,6 @@ vs:
       year: 2000
       draw: Round Robin(14)
       score: CA 3 - SK 7
- - name: Campbell, Kerry
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 1
-        losses: 0
-      player2:
-        percent: 59
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'BC'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'YT'
-        position: Second
-        percent: 59
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Round Robin(18)
-      score: YT 8 - BC 11
  - name: Carrier, Julie
    totals:
     - event: Hearts
@@ -2910,34 +2882,6 @@ vs:
       year: 2008
       draw: Round Robin(15)
       score: NS 7 - NL 8
- - name: Cunningham, Jessica
-   totals:
-    - event: Hearts
-      player1:
-        percent: 71
-        wins: 1
-        losses: 0
-      player2:
-        percent: 53
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent: 71
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 53
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(1)
-      score: NS 12 - NL 7
  - name: Curtis, Erica
    totals:
     - event: Hearts
@@ -4278,6 +4222,34 @@ vs:
       year: 2002
       draw: Round Robin(17)
       score: CA 8 - QC 4
+ - name: Foster, Kerry
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 59
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 59
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(18)
+      score: YT 8 - BC 11
  - name: Fowler, Lois
    totals:
     - event: Hearts
@@ -14938,6 +14910,34 @@ vs:
       year: 2018
       draw: Pool(16)
       score: CA 1 - NS 7
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 71
+        wins: 1
+        losses: 0
+      player2:
+        percent: 53
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Fourth
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 53
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(1)
+      score: NS 12 - NL 7
  - name: Wright, Joanne
    totals:
     - event: Hearts

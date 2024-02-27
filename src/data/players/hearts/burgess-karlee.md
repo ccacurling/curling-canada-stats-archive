@@ -4,19 +4,19 @@ name: Karlee Burgess
 name-sort: Burgess, Karlee
 totals:
  - event: Hearts
-   games: 29
-   wins: 18
-   losses: 11
-   inturn-total: 282
+   games: 41
+   wins: 26
+   losses: 15
+   inturn-total: 382
    inturn-percent: 80
-   outturn-total: 280
-   outturn-percent: 78
-   draw-total: 193
-   draw-percent: 77
-   takeout-total: 369
-   takeout-percent: 80
-   shots-total: 562
-   shots-percent: 79
+   outturn-total: 400
+   outturn-percent: 80
+   draw-total: 263
+   draw-percent: 78
+   takeout-total: 519
+   takeout-percent: 81
+   shots-total: 782
+   shots-percent: 80
 years:
  - year: 2021
    event: Hearts
@@ -72,8 +72,27 @@ years:
    takeout-percent: 83
    shots-total: 232
    shots-percent: 82
+ - year: 2024
+   event: Hearts
+   team: "MB"
+   position: Third
+   alternate: false
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 100
+   inturn-percent: 80
+   outturn-total: 120
+   outturn-percent: 84
+   draw-total: 70
+   draw-percent: 79
+   takeout-total: 150
+   takeout-percent: 83
+   shots-total: 220
+   shots-percent: 82
 vs:
  - Ackland, Abby
+ - Adams, Melissa
  - Armstrong, Hailey
  - Arsenault, Mary-Anne
  - Balsdon, Megan
@@ -91,12 +110,15 @@ vs:
  - Burns, Krysta
  - Burt, Camille
  - Cameron, Kate
- - Campbell, Kerry
  - Carmody, Erin
  - Carter, Sasha
+ - Christianson, Marie
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Curtis, Erica
  - Curtis, Stacie
+ - Daly, Calissa
+ - deGroot, Cassandra
  - Doerksen, Katherine
  - Dubue, Lindsay
  - Duncan, Chelsea
@@ -107,16 +129,22 @@ vs:
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Galusha, Kerry
  - Grandy, Clancy
  - Guy, Sara
  - Harris, Briane
  - Haughian, Jessie
+ - Hawes, Dezaray
+ - Helston, Raelyn
  - Homan, Rachel
  - Hynes, Julie
+ - Inglis, Danielle
  - Kelly, Andrea
  - Koltun, Sarah
+ - Lawes, Kaitlyn
  - Lilly, Kendra
+ - Lister, Kendra
  - Loder, Jenna
  - Logan, Emma
  - Loken, Sarah
@@ -125,25 +153,32 @@ vs:
  - McDonald, Taylor
  - Miskew, Emma
  - Oliver, Sara
+ - Papley, Paige
  - Peterson, Beth
  - Potts, Sarah
  - Quillian, Sylvie
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Rocque, Kelsey
  - Scheidegger, Casey
+ - Schmiemann, Danielle
  - Schraeder, Jeanna
+ - Scoffin, Bayly
  - Scotland, Nadine
  - Simons, Renee
  - Sippala, Ashley
+ - Smith, Heather
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Strybosch, Rachelle
+ - Sturmay, Selena
  - Sweeting, Val
  - Tran, Brittany
  - Tuor, Kimberly
  - Walker, Laura
  - Wallingham, Patty
  - Walter, Meghan
+ - Ward, Molli
  - Wilkes, Sarah
 ---

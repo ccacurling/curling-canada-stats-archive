@@ -4,19 +4,19 @@ name: Jennifer Armstrong
 name-sort: Armstrong, Jennifer
 totals:
  - event: Hearts
-   games: 23
-   wins: 11
-   losses: 12
-   inturn-total: 191
-   inturn-percent: 75
-   outturn-total: 237
-   outturn-percent: 76
-   draw-total: 269
-   draw-percent: 74
-   takeout-total: 159
-   takeout-percent: 78
-   shots-total: 428
-   shots-percent: 76
+   games: 31
+   wins: 15
+   losses: 16
+   inturn-total: 263
+   inturn-percent: 79
+   outturn-total: 312
+   outturn-percent: 77
+   draw-total: 349
+   draw-percent: 77
+   takeout-total: 226
+   takeout-percent: 80
+   shots-total: 575
+   shots-percent: 78
 years:
  - year: 2019
    event: Hearts
@@ -72,7 +72,26 @@ years:
    takeout-percent: 80
    shots-total: 148
    shots-percent: 78
+ - year: 2024
+   event: Hearts
+   team: "BC"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 72
+   inturn-percent: 89
+   outturn-total: 75
+   outturn-percent: 81
+   draw-total: 80
+   draw-percent: 86
+   takeout-total: 67
+   takeout-percent: 83
+   shots-total: 147
+   shots-percent: 85
 vs:
+ - Ackerman, Skylar
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
@@ -81,11 +100,15 @@ vs:
  - Birnie, Hailey
  - Birt, Suzanne
  - Brown, Rachel
+ - Burt, Camille
  - Cameron, Kate
  - Carey, Chelsea
  - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
+ - Curtis, Erica
+ - Curtis, Stacie
+ - DiCarlo, Jane
  - Eddy, Lori
  - Einarson, Kerri
  - Enge, Jenna
@@ -101,36 +124,46 @@ vs:
  - Hamilton, Beth
  - Harris, Briane
  - Haughian, Jessie
+ - Hawes, Dezaray
  - Hill, Sarah
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Hynes, Julie
+ - Jenkins, Whitney
  - Jewer, Michelle
  - Jones, Jennifer
+ - Karwacki, Krysten
  - Kelly, Andrea
  - Koltun, Sarah
+ - Larouche, Marie-France
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacPhail, Brigitte
+ - Mayne, Veronica
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Mercer, Adrienne
+ - Middaugh, Kelly
  - Miskew, Emma
  - Moore, Kristie
  - Njegovan, Robyn
  - Njegovan, Selena
+ - Papley, Paige
  - Peterman, Jocelyn
  - Pinksen, Sadie
  - Potts, Sarah
  - Quillian, Sylvie
+ - Riley, Emily
  - Rocque, Kelsey
  - Routledge, Alanna
  - Routledge, Jill
  - Scheidegger, Casey
+ - Schmiemann, Danielle
  - Scotland, Nadine
  - Sharpe, Kelli
  - Shaw, Ladene
@@ -138,9 +171,15 @@ vs:
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley
+ - Skinner, Kaylin
+ - Smith, Sabrina
+ - St-Georges, Laurie
+ - Stremick, Taylor
  - Strong, Helen
+ - Sturmay, Selena
  - Sweeting, Val
  - Taylor, Alison
+ - Thevenot, Ashley
  - Thevenot, Kara
  - Tran, Brittany
  - Verreault, Noemie

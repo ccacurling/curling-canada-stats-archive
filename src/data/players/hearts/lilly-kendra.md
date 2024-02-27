@@ -4,18 +4,18 @@ name: Kendra Lilly
 name-sort: Lilly, Kendra
 totals:
  - event: Hearts
-   games: 75
-   wins: 50
-   losses: 25
-   inturn-total: 799
+   games: 80
+   wins: 53
+   losses: 27
+   inturn-total: 852
    inturn-percent: 79
-   outturn-total: 666
+   outturn-total: 711
    outturn-percent: 80
-   draw-total: 654
+   draw-total: 702
    draw-percent: 76
-   takeout-total: 811
+   takeout-total: 861
    takeout-percent: 82
-   shots-total: 1465
+   shots-total: 1563
    shots-percent: 79
 years:
  - year: 2016
@@ -126,7 +126,26 @@ years:
    takeout-percent: 79
    shots-total: 218
    shots-percent: 77
+ - year: 2024
+   event: Hearts
+   team: "NO"
+   position: Second
+   alternate: false
+   games: 5
+   wins: 3
+   losses: 2
+   inturn-total: 53
+   inturn-percent: 77
+   outturn-total: 45
+   outturn-percent: 79
+   draw-total: 48
+   draw-percent: 74
+   takeout-total: 50
+   takeout-percent: 82
+   shots-total: 98
+   shots-percent: 78
 vs:
+ - Ackerman, Skylar
  - Ackland, Abby
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
@@ -153,7 +172,6 @@ vs:
  - Burt, Camille
  - Cameron, Kate
  - Campbell, Jolene
- - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Christianson, Marie
@@ -166,6 +184,7 @@ vs:
  - Daigle, Julie
  - deJager, Blaine
  - Derry, Danielle
+ - DiCarlo, Jane
  - Doig, Deanna
  - Duncan, Chelsea
  - Eddy, Lori
@@ -176,10 +195,12 @@ vs:
  - Everist, Karlee
  - Eyamie, Lisa
  - Ferguson, Dana
+ - Fisher, Sam
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
@@ -199,6 +220,7 @@ vs:
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hynes, Julie
+ - Jenkins, Whitney
  - Jones, Jennifer
  - Joyce, Blisse
  - Kelly, Andrea
@@ -220,10 +242,12 @@ vs:
  - Mallett, Marla
  - Mann, Lauren
  - Mattatall, Mary
+ - Mayne, Veronica
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Mercer, Adrienne
+ - Middaugh, Kelly
  - Miskew, Emma
  - Moore, Kristie
  - Munroe, Anna
@@ -236,6 +260,7 @@ vs:
  - Oliver, Sara
  - O'Neill, Brit
  - O'Rourke, Brittany
+ - Papley, Paige
  - Peterman, Jocelyn
  - Peters, Laine
  - Pilote, Kristen
@@ -247,6 +272,7 @@ vs:
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
+ - Riley, Emily
  - Rizzo, Jo-Ann
  - Routledge, Alanna
  - Routledge, Jill
@@ -256,14 +282,22 @@ vs:
  - Saulnier, Andrea
  - Scheidegger, Casey
  - Schmidt, Stephanie
+ - Schmiemann, Danielle
  - Schneider, Lorraine
  - Scotland, Nadine
  - Sharpe, Kelli
  - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
+ - Sinclair, Jamie
+ - Skinner, Kaylin
+ - Smith, Sabrina
+ - St-Georges, Laurie
+ - Stremick, Taylor
+ - Sturmay, Selena
  - Sweeting, Val
  - Taylor, Alison
+ - Thevenot, Ashley
  - Thevenot, Kara
  - Thiessen, Alison
  - Thompson, Karla

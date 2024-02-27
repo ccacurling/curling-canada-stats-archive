@@ -211,7 +211,7 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Cunningham, Jessica
+ - Crandall, Jaclyn
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
@@ -367,7 +367,6 @@ vs:
  - Sweeting, Val
  - Thevenot, Kara
  - Thiessen, Alison
- - Tingley, Jaclyn
  - Titheridge, Lindsay
  - Tran, Brittany
  - Trombley, Christy
@@ -383,5 +382,6 @@ vs:
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Wylie, Jennifer
 ---

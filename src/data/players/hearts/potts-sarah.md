@@ -4,18 +4,18 @@ name: Sarah Potts
 name-sort: Potts, Sarah
 totals:
  - event: Hearts
-   games: 64
-   wins: 42
-   losses: 22
-   inturn-total: 629
+   games: 70
+   wins: 46
+   losses: 24
+   inturn-total: 696
    inturn-percent: 87
-   outturn-total: 584
-   outturn-percent: 87
-   draw-total: 1014
-   draw-percent: 88
-   takeout-total: 199
+   outturn-total: 631
+   outturn-percent: 88
+   draw-total: 1113
+   draw-percent: 89
+   takeout-total: 214
    takeout-percent: 81
-   shots-total: 1213
+   shots-total: 1327
    shots-percent: 87
 years:
  - year: 2010
@@ -122,6 +122,24 @@ years:
    takeout-percent: 80
    shots-total: 218
    shots-percent: 88
+ - year: 2024
+   event: Hearts
+   team: "NO"
+   position: Lead
+   alternate: true
+   games: 6
+   wins: 4
+   losses: 2
+   inturn-total: 67
+   inturn-percent: 87
+   outturn-total: 47
+   outturn-percent: 91
+   draw-total: 99
+   draw-percent: 90
+   takeout-total: 15
+   takeout-percent: 80
+   shots-total: 114
+   shots-percent: 89
 vs:
  - Ackland, Abby
  - Alcoe-Holland, Jill
@@ -143,12 +161,12 @@ vs:
  - Boyle, Jane
  - Brine, Jenn
  - Brothers, Jill
+ - Brown, Corryn
  - Brown, Rachel
  - Burgess, Karlee
  - Burt, Camille
  - Cameron, Kate
  - Campbell, Jolene
- - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Christianson, Marie
@@ -160,6 +178,7 @@ vs:
  - Daigle, Julie
  - deJager, Blaine
  - Derry, Danielle
+ - DiCarlo, Jane
  - Doig, Deanna
  - Duncan, Chelsea
  - Einarson, Kerri
@@ -169,10 +188,12 @@ vs:
  - Everist, Karlee
  - Eyamie, Lisa
  - Ferguson, Dana
+ - Fisher, Sam
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
@@ -191,8 +212,10 @@ vs:
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hynes, Julie
+ - Jenkins, Whitney
  - Jones, Jennifer
  - Joyce, Blisse
+ - Karwacki, Krysten
  - Kelly, Andrea
  - Kleibrink, Shannon
  - Koehler, Megan
@@ -211,10 +234,12 @@ vs:
  - Mallett, Marla
  - Mann, Lauren
  - Mattatall, Mary
+ - Mayne, Veronica
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Mercer, Adrienne
+ - Middaugh, Kelly
  - Miskew, Emma
  - Moore, Kristie
  - Munroe, Anna
@@ -231,6 +256,7 @@ vs:
  - Peters, Laine
  - Phillips, Kristen
  - Pilote, Kristen
+ - Pincott, Erin
  - Pinksen, Sadie
  - Porter, Erin
  - Quillian, Sylvie
@@ -238,6 +264,7 @@ vs:
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
+ - Riley, Emily
  - Rizzo, Jo-Ann
  - Rusnell, Jen
  - Sagle, Karen
@@ -250,6 +277,9 @@ vs:
  - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
+ - Sinclair, Jamie
+ - Smith, Sabrina
+ - St-Georges, Laurie
  - Sweeting, Val
  - Taylor, Alison
  - Thevenot, Kara
@@ -267,5 +297,6 @@ vs:
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Zacharias, Mackenzie
 ---

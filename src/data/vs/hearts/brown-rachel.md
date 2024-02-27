@@ -179,12 +179,12 @@ vs:
     - event: Hearts
       player1:
         percent: 81
-        wins: 2
+        wins: 3
         losses: 0
       player2:
-        percent: 74
+        percent: 79
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'AB'
@@ -218,17 +218,33 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: AB 10 - NS 5
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(18)
+      score: NS 3 - ON 6
  - name: Christianson, Marie
    totals:
     - event: Hearts
       player1:
-        percent: 87
-        wins: 1
+        percent: 86
+        wins: 2
         losses: 1
       player2:
-        percent: 93
+        percent: 86
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'AB'
@@ -262,6 +278,22 @@ vs:
       year: 2020
       draw: Pool(19)
       score: CA 5 - PE 3
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(18)
+      score: NS 3 - ON 6
  - name: Collins, Katrina
    totals:
     - event: Hearts
@@ -510,50 +542,6 @@ vs:
       year: 2021
       draw: Round Robin(7)
       score: ON 6 - AB 5
- - name: Cunningham, Jessica
-   totals:
-    - event: Hearts
-      player1:
-        percent: 85
-        wins: 2
-        losses: 0
-      player2:
-        percent: 79
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 85
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2014
-      draw: Round Robin(11)
-      score: AB 9 - NL 5
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 73
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(7)
-      score: NL 2 - AB 7
  - name: Daigle, Julie
    totals:
     - event: Hearts
@@ -1022,6 +1010,34 @@ vs:
       year: 2020
       draw: Round Robin(14)
       score: CA 5 - NB 7
+ - name: Foster, Kerry
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 55
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Third
+        percent: 55
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(8)
+      score: YT 2 - ON 11
  - name: Foster, Kristen
    totals:
     - event: Hearts
@@ -1470,6 +1486,34 @@ vs:
       year: 2020
       draw: Pool(18)
       score: BC 9 - CA 2
+ - name: Helston, Raelyn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 66
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(8)
+      score: YT 2 - ON 11
  - name: Homan, Rachel
    totals:
     - event: Hearts
@@ -4190,6 +4234,34 @@ vs:
       year: 2015
       draw: Semi-Final(20)
       score: AB 7 - SK 6
+ - name: Scoffin, Bayly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 58
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 58
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(8)
+      score: YT 2 - ON 11
  - name: Scotland, Nadine
    totals:
     - event: Hearts
@@ -4442,13 +4514,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 93
-        wins: 1
+        percent: 91
+        wins: 2
         losses: 0
       player2:
         percent: 71
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'AB'
@@ -4466,6 +4538,22 @@ vs:
       year: 2014
       draw: Round Robin(5)
       score: AB 5 - NS 4
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 71
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(18)
+      score: NS 3 - ON 6
  - name: Smith, Megan
    totals:
     - event: Hearts
@@ -4926,6 +5014,34 @@ vs:
       year: 2015
       draw: Round Robin(13)
       score: ON 5 - AB 8
+ - name: Tuor, Kimberly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 89
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(8)
+      score: YT 2 - ON 11
  - name: Udle, Teri
    totals:
     - event: Hearts
@@ -5290,6 +5406,50 @@ vs:
       year: 2021
       draw: Round Robin(7)
       score: ON 6 - AB 5
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 85
+        wins: 2
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 85
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2014
+      draw: Round Robin(11)
+      score: AB 9 - NL 5
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(7)
+      score: NL 2 - AB 7
  - name: Wylie, Jennifer
    totals:
     - event: Hearts

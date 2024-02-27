@@ -870,7 +870,7 @@ vs:
       year: 2014
       draw: Round Robin(4)
       score: MB 7 - BC 6
- - name: Tuck, Kim
+ - name: Tuck, Kimberly
    totals:
     - event: Hearts
       player1:

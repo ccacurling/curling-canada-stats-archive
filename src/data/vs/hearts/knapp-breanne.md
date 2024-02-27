@@ -730,34 +730,6 @@ vs:
       year: 2021
       draw: Pool(20)
       score: SK 6 - CA 10
- - name: Tingley, Jaclyn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 91
-        wins: 0
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Lead
-        percent: 91
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Third
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(11)
-      score: NB 7 - SK 6
  - name: Tran, Brittany
    totals:
     - event: Hearts

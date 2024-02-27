@@ -4,18 +4,18 @@ name: Kate Cameron
 name-sort: Cameron, Kate
 totals:
  - event: Hearts
-   games: 61
-   wins: 36
-   losses: 25
-   inturn-total: 613
+   games: 72
+   wins: 43
+   losses: 29
+   inturn-total: 726
    inturn-percent: 79
-   outturn-total: 525
+   outturn-total: 615
    outturn-percent: 78
-   draw-total: 465
+   draw-total: 544
    draw-percent: 79
-   takeout-total: 673
+   takeout-total: 797
    takeout-percent: 78
-   shots-total: 1138
+   shots-total: 1341
    shots-percent: 79
 years:
  - year: 2017
@@ -126,8 +126,27 @@ years:
    takeout-percent: 81
    shots-total: 154
    shots-percent: 81
+ - year: 2024
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   alternate: false
+   games: 11
+   wins: 7
+   losses: 4
+   inturn-total: 113
+   inturn-percent: 82
+   outturn-total: 90
+   outturn-percent: 75
+   draw-total: 79
+   draw-percent: 78
+   takeout-total: 124
+   takeout-percent: 79
+   shots-total: 203
+   shots-percent: 79
 vs:
  - Ackland, Abby
+ - Adams, Melissa
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Anderson, Sherry
@@ -154,21 +173,25 @@ vs:
  - Burgess, Karlee
  - Burns, Krysta
  - Burt, Camille
- - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
+ - Christianson, Marie
  - Cormier, Sharon
  - Cote, Marie-Pier
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Crouse, Jennifer
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
+ - Daly, Calissa
+ - deGroot, Cassandra
  - deJager, Blaine
  - Derry, Danielle
  - Doerksen, Katherine
  - Doig, Deanna
+ - Dubue, Lindsay
  - Duncan, Hollie
  - Duncan, Jenna
  - Eddy, Lori
@@ -180,6 +203,7 @@ vs:
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gagne, Emilia
@@ -187,16 +211,20 @@ vs:
  - Gates, Amanda
  - Gates, Jennifer
  - Gibson, Amy
+ - Grandy, Clancy
  - Griffin, Alison
  - Guy, Sara
  - Harris, Briane
  - Harvey, Marie-Pier
+ - Hawes, Dezaray
+ - Helston, Raelyn
  - Hill, Trish
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hutchings, Denise
  - Hynes, Julie
+ - Inglis, Danielle
  - Jones, Jennifer
  - Karwacki, Krysten
  - Kelly, Andrea
@@ -210,11 +238,14 @@ vs:
  - LeDrew, Stephanie
  - Lenentine, Lauren
  - Lilly, Kendra
+ - Lister, Kendra
  - Loder, Jenna
  - Logan, Emma
+ - Loken, Sarah
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - Mackey, Robyn
+ - MacMillan, Kayla
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
@@ -232,6 +263,7 @@ vs:
  - Officer, Jill
  - Oliver, Sara
  - O'Rourke, Brittany
+ - Papley, Paige
  - Perron, Melina
  - Peterman, Jocelyn
  - Peters, Laine
@@ -248,18 +280,23 @@ vs:
  - Sagle, Karen
  - Scheidegger, Casey
  - Scheidegger, Jessie
+ - Schmiemann, Danielle
  - Schneider, Lorraine
  - Schraeder, Jeanna
+ - Scoffin, Bayly
  - Shackleton, Amie
  - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Simons, Renee
  - Sippala, Ashley
+ - Smith, Heather
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Strong, Helen
  - Strybosch, Rachelle
+ - Sturmay, Selena
  - Sweeting, Val
  - Thevenot, Kara
  - Thiessen, Alison
@@ -271,6 +308,7 @@ vs:
  - Verreault, Noemie
  - Wallingham, Patty
  - Walter, Meghan
+ - Ward, Molli
  - Weagle, Lisa
  - Webster, Crystal
  - West, Christianne

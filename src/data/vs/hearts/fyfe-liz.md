@@ -3142,34 +3142,6 @@ vs:
       year: 2016
       draw: Round Robin(2)
       score: BC 2 - MB 10
- - name: Tingley, Jaclyn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 1
-        losses: 0
-      player2:
-        percent: 58
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'WC'
-        position: Second
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Third
-        percent: 58
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(6)
-      score: WC 9 - NB 2
  - name: Tran, Brittany
    totals:
     - event: Hearts

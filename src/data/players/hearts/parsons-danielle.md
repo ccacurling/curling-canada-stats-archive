@@ -121,7 +121,6 @@ vs:
  - Court, Morgan
  - Courtney, Joanne
  - Cunningham, Jennifer
- - Cunningham, Jessica
  - Curtis, Stacie
  - deJager, Blaine
  - deSolla, Jodie
@@ -223,5 +222,6 @@ vs:
  - Weagle, Lisa
  - Webster, Bronwen
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Wylie, Jennifer
 ---

@@ -4,18 +4,18 @@ name: Andrea Kelly
 name-sort: Kelly, Andrea
 totals:
  - event: Hearts
-   games: 112
-   wins: 53
-   losses: 59
-   inturn-total: 1121
-   inturn-percent: 75
-   outturn-total: 976
-   outturn-percent: 74
-   draw-total: 966
+   games: 120
+   wins: 57
+   losses: 63
+   inturn-total: 1194
+   inturn-percent: 76
+   outturn-total: 1059
+   outturn-percent: 75
+   draw-total: 1040
    draw-percent: 72
-   takeout-total: 1131
+   takeout-total: 1213
    takeout-percent: 78
-   shots-total: 2097
+   shots-total: 2253
    shots-percent: 75
 years:
  - year: 2006
@@ -216,7 +216,26 @@ years:
    takeout-percent: 81
    shots-total: 154
    shots-percent: 79
+ - year: 2024
+   event: Hearts
+   team: "NO"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 73
+   inturn-percent: 80
+   outturn-total: 83
+   outturn-percent: 80
+   draw-total: 74
+   draw-percent: 79
+   takeout-total: 82
+   takeout-percent: 82
+   shots-total: 156
+   shots-percent: 80
 vs:
+ - Ackerman, Skylar
  - Ackland, Abby
  - Affleck, Tricia
  - Anderson, Sherry
@@ -243,6 +262,7 @@ vs:
  - Bradley, Shelley
  - Brassard, Veronique
  - Brothers, Jill
+ - Brown, Corryn
  - Brown, Jacalyn
  - Brown, Rachel
  - Burgess, Carey
@@ -252,7 +272,6 @@ vs:
  - Cameron, Kate
  - Cameron, Nancy
  - Campbell, Jolene
- - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
@@ -269,12 +288,12 @@ vs:
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
- - Cunningham, Jessica
  - Curtis, Erica
  - Curtis, Stacie
  - Darbyshire, Carolyn
  - deJager, Blaine
  - Delahunt, Nancy
+ - DiCarlo, Jane
  - Dolan, Kim
  - Dolan, Sinead
  - Dufresne, Audree
@@ -292,9 +311,11 @@ vs:
  - Fallis, Karen
  - Ferguson, Dana
  - Filteau, Anne-Marie
+ - Fisher, Sam
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy
+ - Foster, Kerry
  - Foster, Kristen
  - Fullerton, Sarah
  - Fyfe, Liz
@@ -316,6 +337,7 @@ vs:
  - Harris, Briane
  - Harvey, Janet
  - Haughian, Jessie
+ - Hawes, Dezaray
  - Hersikorn, Patty
  - Hill, Sarah
  - Holland, Amber
@@ -326,12 +348,14 @@ vs:
  - Hunkin, Jessie
  - Hynes, Julie
  - Iskiw, Beth
+ - Jenkins, Whitney
  - Jewer, Michelle
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Karwacki, Krysten
  - Kasner, Marliese
  - Kelly, Kim
  - King, Cathy
@@ -366,6 +390,7 @@ vs:
  - Mallett, Marla
  - Martin, Heather
  - Materi, Roberta
+ - Mayne, Veronica
  - McCagg-Nystrom, Heather
  - McCarville, Krista
  - McConnery, Nancy
@@ -375,6 +400,7 @@ vs:
  - McInnis, Susan
  - McTaggart, Cary-Anne
  - Mercer, Adrienne
+ - Middaugh, Kelly
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
@@ -398,12 +424,14 @@ vs:
  - O'Rourke, Brittany
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
+ - Papley, Paige
  - Parsons, Danielle
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
  - Pewarchuk, Dailene
  - Phillips, Kristen
+ - Pincott, Erin
  - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
@@ -411,6 +439,7 @@ vs:
  - Ramsay, Geri-Lynn
  - Richards, Brette
  - Ridalls, Kristen
+ - Riley, Emily
  - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Robison, Michala
@@ -426,6 +455,7 @@ vs:
  - Sandwith, Carley
  - Scheidegger, Casey
  - Schmidt, Stephanie
+ - Schmiemann, Danielle
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
@@ -439,19 +469,26 @@ vs:
  - Silvernagle, Robyn
  - Simons, Renee
  - Sinclair, Andrea
+ - Sinclair, Jamie
  - Singler, Sherri
  - Sippala, Ashley
+ - Skinner, Kaylin
  - Slywka, Sarah
  - Smith, Heather
+ - Smith, Sabrina
  - Spencer, Barb
+ - St-Georges, Laurie
  - Streifel, Tracy
+ - Stremick, Taylor
  - Strong, Heather
  - Strong, Helen
  - Strong, Laura
  - Stubbings, Tiffany
+ - Sturmay, Selena
  - Sweeting, Val
  - Tanner, Ros
  - Taylor, Alison
+ - Thevenot, Ashley
  - Thevenot, Kara
  - Thomas, Jill
  - Thurston, Jill
@@ -473,6 +510,7 @@ vs:
  - Wheatcroft, Georgina
  - Wilkes, Sarah
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Wylie, Jennifer
  - Zacharias, Emily
  - Zacharias, Mackenzie

@@ -2,6 +2,34 @@
 title: Ashley Sippala Head-to-head
 name: Sippala, Ashley
 vs:
+ - name: Skinner, Kaylin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 69
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 69
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(5)
+      score: NO 5 - SK 6
  - name: Sobey, Lianne
    totals:
     - event: Hearts
@@ -30,16 +58,72 @@ vs:
       year: 2010
       draw: Round Robin(1)
       score: NB 2 - ON 9
+ - name: Stremick, Taylor
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(5)
+      score: NO 5 - SK 6
+ - name: Sturmay, Selena
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 0
+        losses: 1
+      player2:
+        percent: 69
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 69
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(13)
+      score: AB 10 - NO 9
  - name: Sweeting, Val
    totals:
     - event: Hearts
       player1:
         percent: 77
         wins: 1
-        losses: 3
+        losses: 4
       player2:
-        percent: 81
-        wins: 3
+        percent: 82
+        wins: 4
         losses: 1
    games:
     - player1:
@@ -106,6 +190,22 @@ vs:
       year: 2023
       draw: Semi-Final(24)
       score: NO 5 - CA 7
+    - player1:
+        team: 'NO'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(3)
+      score: CA 7 - NO 4
  - name: Taylor, Alison
    totals:
     - event: Hearts
@@ -134,6 +234,34 @@ vs:
       year: 2022
       draw: Round Robin(9)
       score: NU 6 - NO 7
+ - name: Thevenot, Ashley
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Third
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(5)
+      score: NO 5 - SK 6
  - name: Thevenot, Kara
    totals:
     - event: Hearts
@@ -786,6 +914,34 @@ vs:
       year: 2017
       draw: Round Robin(7)
       score: NO 7 - MB 8
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(9)
+      score: NO 8 - NL 3
  - name: Zacharias, Mackenzie
    totals:
     - event: Hearts

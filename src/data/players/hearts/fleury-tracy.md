@@ -4,19 +4,19 @@ name: Tracy Fleury
 name-sort: Fleury, Tracy
 totals:
  - event: Hearts
-   games: 54
-   wins: 29
+   games: 65
+   wins: 40
    losses: 25
-   inturn-total: 519
-   inturn-percent: 76
-   outturn-total: 491
-   outturn-percent: 80
-   draw-total: 462
-   draw-percent: 76
-   takeout-total: 548
-   takeout-percent: 80
-   shots-total: 1010
-   shots-percent: 78
+   inturn-total: 622
+   inturn-percent: 78
+   outturn-total: 598
+   outturn-percent: 82
+   draw-total: 511
+   draw-percent: 77
+   takeout-total: 709
+   takeout-percent: 82
+   shots-total: 1220
+   shots-percent: 80
 years:
  - year: 2012
    event: Hearts
@@ -126,6 +126,24 @@ years:
    takeout-percent: 83
    shots-total: 172
    shots-percent: 81
+ - year: 2024
+   event: Hearts
+   team: "ON"
+   position: Third
+   alternate: false
+   games: 11
+   wins: 11
+   losses: 0
+   inturn-total: 103
+   inturn-percent: 88
+   outturn-total: 107
+   outturn-percent: 89
+   draw-total: 49
+   draw-percent: 88
+   takeout-total: 161
+   takeout-percent: 89
+   shots-total: 210
+   shots-percent: 89
 vs:
  - Ackland, Abby
  - Adams, Melissa
@@ -151,28 +169,32 @@ vs:
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Rachel
+ - Brunton, Kira
  - Burgess, Karlee
  - Burt, Camille
  - Cameron, Kate
  - Cameron, Nancy
  - Camozzi, Rhonda
  - Campbell, Jolene
- - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
+ - Christianson, Marie
  - Collins, Katrina
  - Cooper, Kathryn
  - Cormier, Sharon
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Crouse, Jennifer
  - Cunningham, Jennifer
- - Cunningham, Jessica
  - Curtis, Erica
  - Curtis, Stacie
  - Daigle, Julie
+ - Daly, Calissa
+ - deGroot, Cassandra
  - Dolan, Kim
  - Dolan, Sinead
+ - Dubue, Lindsay
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
@@ -186,21 +208,26 @@ vs:
  - Filteau, Anne-Marie
  - Flemming, Margot
  - Forward, Katie
+ - Foster, Kerry
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Jennifer
  - Gibson, Amy
+ - Grandy, Clancy
  - Griffin, Alison
  - Harris, Briane
  - Hastings, Julie
  - Haughian, Jessie
+ - Helston, Raelyn
  - Holland, Amber
  - Homan, Rachel
  - Hynes, Julie
+ - Inglis, Danielle
  - Iskiw, Beth
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Karwacki, Krysten
  - Kasner, Marliese
  - Kelly, Andrea
  - Knezevic, Patti
@@ -216,8 +243,10 @@ vs:
  - LeDrew, Stephanie
  - Lilly, Kendra
  - Lister, Kendra
+ - Loken, Sarah
  - MacCuish, Kristin
  - MacDonald, Rebecca Jean
+ - MacMillan, Kayla
  - Mair, Jessica
  - Mann, Lauren
  - Materi, Roberta
@@ -250,6 +279,7 @@ vs:
  - Quillian, Sylvie
  - Richard, Marie
  - Rizzo, Jo-Ann
+ - Rocque, Kelsey
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
@@ -257,6 +287,7 @@ vs:
  - Scheidegger, Jessie
  - Schmidt, Stephanie
  - Schneider, Kim
+ - Scoffin, Bayly
  - Scott, Kelly
  - Shea, Michelle
  - Sippala, Ashley
@@ -276,12 +307,14 @@ vs:
  - Van Osch, Marika
  - Vey, Lana
  - Walter, Meghan
+ - Ward, Molli
  - Wark, Sarah
  - Weagle, Lisa
  - Westcott, Raunora
  - Whitaker, Carol
  - Wilkes, Sarah
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Zacharias, Emily
  - Zacharias, Mackenzie
 ---

@@ -30,6 +30,50 @@ vs:
       year: 2023
       draw: Round Robin(16)
       score: NB 3 - ON 5
+ - name: Foster, Kerry
+   totals:
+    - event: Hearts
+      player1:
+        percent: 94
+        wins: 2
+        losses: 0
+      player2:
+        percent: 72
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 85
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(9)
+      score: ON 13 - YT 8
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 98
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Third
+        percent: 55
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(8)
+      score: YT 2 - ON 11
  - name: Fyfe, Liz
    totals:
     - event: Hearts
@@ -62,13 +106,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 76
-        wins: 1
+        percent: 78
+        wins: 2
         losses: 1
       player2:
         percent: 80
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NO'
@@ -102,6 +146,22 @@ vs:
       year: 2023
       draw: Round Robin(4)
       score: NT 8 - ON 4
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(2)
+      score: NT 5 - ON 9
  - name: Gates, Jennifer
    totals:
     - event: Hearts
@@ -158,6 +218,34 @@ vs:
       year: 2018
       draw: Pool(20)
       score: NO 7 - BC 5
+ - name: Grandy, Clancy
+   totals:
+    - event: Hearts
+      player1:
+        percent: 95
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 95
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(14)
+      score: ON 10 - BC 3
  - name: Griffin, Alison
    totals:
     - event: Hearts
@@ -270,6 +358,34 @@ vs:
       year: 2023
       draw: Round Robin(17)
       score: ON 9 - WC 5
+ - name: Helston, Raelyn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 98
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 98
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 66
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(8)
+      score: YT 2 - ON 11
  - name: Holland, Amber
    totals:
     - event: Hearts
@@ -370,6 +486,34 @@ vs:
       year: 2023
       draw: Round Robin(2)
       score: ON 12 - NL 3
+ - name: Inglis, Danielle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 65
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 65
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(4)
+      score: ON 11 - ON 4
  - name: Iskiw, Beth
    totals:
     - event: Hearts
@@ -402,13 +546,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 79
-        wins: 1
+        percent: 82
+        wins: 4
         losses: 3
       player2:
-        percent: 86
+        percent: 79
         wins: 3
-        losses: 1
+        losses: 4
    games:
     - player1:
         team: 'ON'
@@ -474,6 +618,54 @@ vs:
       year: 2023
       draw: Round Robin(8)
       score: MB 6 - ON 4
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(12)
+      score: ON 7 - MB 5
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Page 1-2(22)
+      score: ON 6 - MB 4
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Final(24)
+      score: ON 5 - MB 4
  - name: Joyce, Blisse
    totals:
     - event: Hearts
@@ -530,6 +722,34 @@ vs:
       year: 2012
       draw: Round Robin(10)
       score: ON 4 - CA 9
+ - name: Karwacki, Krysten
+   totals:
+    - event: Hearts
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 91
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Playoff(19)
+      score: ON 8 - CA 4
  - name: Kasner, Marliese
    totals:
     - event: Hearts
@@ -678,13 +898,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 76
-        wins: 1
+        percent: 78
+        wins: 2
         losses: 1
       player2:
-        percent: 80
+        percent: 77
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NO'
@@ -718,6 +938,22 @@ vs:
       year: 2023
       draw: Round Robin(4)
       score: NT 8 - ON 4
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(2)
+      score: NT 5 - ON 9
  - name: Korab, Stephanie
    totals:
     - event: Hearts
@@ -878,13 +1114,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 75
-        wins: 0
+        percent: 82
+        wins: 1
         losses: 2
       player2:
-        percent: 89
+        percent: 83
         wins: 2
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'ON'
@@ -918,6 +1154,22 @@ vs:
       year: 2015
       draw: Round Robin(15)
       score: NO 3 - MB 6
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(16)
+      score: NB 3 - ON 5
  - name: Lawton, Stefanie
    totals:
     - event: Hearts
@@ -1054,13 +1306,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 69
-        wins: 0
+        percent: 73
+        wins: 1
         losses: 1
       player2:
-        percent: 85
+        percent: 88
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'NO'
@@ -1078,6 +1330,50 @@ vs:
       year: 2018
       draw: Round Robin(4)
       score: NO 5 - NB 8
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Lead
+        percent: 92
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(16)
+      score: NB 3 - ON 9
+ - name: Loken, Sarah
+   totals:
+    - event: Hearts
+      player1:
+        percent: 95
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 95
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(14)
+      score: ON 10 - BC 3
  - name: MacCuish, Kristin
    totals:
     - event: Hearts
@@ -1134,6 +1430,34 @@ vs:
       year: 2012
       draw: Round Robin(1)
       score: ON 7 - PE 6
+ - name: MacMillan, Kayla
+   totals:
+    - event: Hearts
+      player1:
+        percent: 95
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 95
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(14)
+      score: ON 10 - BC 3
  - name: Mair, Jessica
    totals:
     - event: Hearts
@@ -2246,13 +2570,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 69
-        wins: 0
+        percent: 76
+        wins: 1
         losses: 1
       player2:
-        percent: 89
+        percent: 82
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'ON'
@@ -2270,6 +2594,50 @@ vs:
       year: 2023
       draw: Round Robin(4)
       score: NT 8 - ON 4
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(2)
+      score: NT 5 - ON 9
+ - name: Rocque, Kelsey
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 90
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 90
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(10)
+      score: ON 8 - MB 6
  - name: Rusnell, Jen
    totals:
     - event: Hearts
@@ -2530,6 +2898,34 @@ vs:
       year: 2012
       draw: Round Robin(10)
       score: ON 4 - CA 9
+ - name: Scoffin, Bayly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 98
+        wins: 1
+        losses: 0
+      player2:
+        percent: 58
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 98
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 58
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(8)
+      score: YT 2 - ON 11
  - name: Scott, Kelly
    totals:
     - event: Hearts
@@ -2706,13 +3102,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 84
-        wins: 1
+        percent: 90
+        wins: 2
         losses: 0
       player2:
-        percent: 68
+        percent: 70
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'ON'
@@ -2730,6 +3126,22 @@ vs:
       year: 2012
       draw: Round Robin(4)
       score: ON 10 - NS 3
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 71
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(18)
+      score: NS 3 - ON 6
  - name: Smith, Stacey
    totals:
     - event: Hearts
@@ -2862,13 +3274,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 74
-        wins: 0
+        percent: 81
+        wins: 1
         losses: 2
       player2:
-        percent: 85
+        percent: 82
         wins: 2
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'NO'
@@ -2902,6 +3314,22 @@ vs:
       year: 2022
       draw: Page 3-4(22)
       score: WC 6 - CA 11
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Playoff(19)
+      score: ON 8 - CA 4
  - name: Trombley, Christy
    totals:
     - event: Hearts
@@ -2934,13 +3362,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 90
-        wins: 1
+        percent: 94
+        wins: 2
         losses: 0
       player2:
-        percent: 94
+        percent: 92
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'ON'
@@ -2958,6 +3386,22 @@ vs:
       year: 2023
       draw: Round Robin(9)
       score: ON 13 - YT 8
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 98
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(8)
+      score: YT 2 - ON 11
  - name: Udle, Teri
    totals:
     - event: Hearts
@@ -3102,13 +3546,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 81
-        wins: 1
+        percent: 85
+        wins: 2
         losses: 0
       player2:
-        percent: 64
+        percent: 74
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'ON'
@@ -3126,6 +3570,50 @@ vs:
       year: 2023
       draw: Round Robin(13)
       score: WC 5 - ON 9
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(10)
+      score: ON 8 - MB 6
+ - name: Ward, Molli
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 47
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Second
+        percent: 47
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(16)
+      score: NB 3 - ON 9
  - name: Wark, Sarah
    totals:
     - event: Hearts
@@ -3326,17 +3814,45 @@ vs:
       year: 2018
       draw: Pool(17)
       score: CA 3 - NO 8
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 61
+        wins: 0
+        losses: 1
+      player2:
+        percent: 70
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2015
+      draw: Round Robin(9)
+      score: NL 6 - NO 4
  - name: Zacharias, Emily
    totals:
     - event: Hearts
       player1:
-        percent: 74
-        wins: 0
+        percent: 82
+        wins: 3
         losses: 1
       player2:
-        percent: 76
+        percent: 77
         wins: 1
-        losses: 0
+        losses: 3
    games:
     - player1:
         team: 'ON'
@@ -3354,6 +3870,54 @@ vs:
       year: 2023
       draw: Round Robin(8)
       score: MB 6 - ON 4
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 61
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(12)
+      score: ON 7 - MB 5
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 90
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Page 1-2(22)
+      score: ON 6 - MB 4
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Final(24)
+      score: ON 5 - MB 4
  - name: Zacharias, Mackenzie
    totals:
     - event: Hearts

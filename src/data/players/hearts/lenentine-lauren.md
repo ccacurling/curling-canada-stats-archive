@@ -72,6 +72,11 @@ years:
    takeout-percent: 94
    shots-total: 156
    shots-percent: 92
+ - year: 2024
+   event: Hearts
+   team: "MB"
+   position: Alternate
+   alternate: true
 vs:
  - Armstrong, Hailey
  - Arsenault, Mary-Anne
@@ -90,7 +95,6 @@ vs:
  - Burns, Krysta
  - Burt, Camille
  - Cameron, Kate
- - Campbell, Kerry
  - Carmody, Erin
  - Carter, Sasha
  - Courtney, Joanne
@@ -103,6 +107,7 @@ vs:
  - Einarson, Kerri
  - Everist, Karlee
  - Flemming, Margot
+ - Foster, Kerry
  - Galusha, Kerry
  - Grandy, Clancy
  - Guy, Sara

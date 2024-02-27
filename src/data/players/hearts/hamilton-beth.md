@@ -134,6 +134,7 @@ vs:
  - Clark, Stefanie
  - Comeau, Sandy
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Delahunt, Nancy
  - Derick, Catherine
  - Duncan, Chelsea
@@ -221,7 +222,6 @@ vs:
  - Strong, Helen
  - Taylor, Alison
  - Thevenot, Kara
- - Tingley, Jaclyn
  - Tran, Brittany
  - Tuor, Kimberly
  - Weagle, Lisa

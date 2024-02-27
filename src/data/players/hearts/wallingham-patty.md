@@ -143,7 +143,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Cunningham, Jessica
  - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
@@ -191,10 +190,11 @@ vs:
  - Strybosch, Rachelle
  - Sweeting, Val
  - Titheridge, Lindsay
- - Tuck, Kim
+ - Tuck, Kimberly
  - Udle, Teri
  - Walker, Laura
  - Weagle, Lisa
+ - Wiseman, Jessica
  - Zacharias, Emily
  - Zacharias, Mackenzie
 ---

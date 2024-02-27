@@ -231,10 +231,10 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Crispo, Guylaine
  - Crouse, Jennifer
  - Cunningham, Cathy
- - Cunningham, Jessica
  - Dalio, Diane
  - Daniel, Sylvie
  - Delahunt, Nancy
@@ -404,7 +404,6 @@ vs:
  - Strong, Laura
  - Sweeting, Val
  - Taylor, Candy
- - Tingley, Jaclyn
  - Titheridge, Lindsay
  - Trider, Krista
  - Trombley, Christy
@@ -417,6 +416,7 @@ vs:
  - Webster, Crystal
  - Wheatcroft, Georgina
  - Wilkes, Sarah
+ - Wiseman, Jessica
  - Wylie, Jennifer
  - Zinck, Kay
 ---

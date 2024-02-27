@@ -100,7 +100,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Cunningham, Jessica
  - Curtis, Stacie
  - deJager, Blaine
  - deSolla, Jodie
@@ -184,4 +183,5 @@ vs:
  - Webster, Bronwen
  - Westcott, Raunora
  - Wilson, Leslie
+ - Wiseman, Jessica
 ---

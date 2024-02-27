@@ -58,34 +58,6 @@ vs:
       year: 2015
       draw: Round Robin(5)
       score: CA 10 - ON 7
- - name: Cunningham, Jessica
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 1
-        losses: 0
-      player2:
-        percent: 54
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'ON'
-        position: Lead
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 54
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(11)
-      score: ON 7 - NL 4
  - name: Enge, Jenna
    totals:
     - event: Hearts
@@ -898,6 +870,34 @@ vs:
       year: 2015
       draw: Round Robin(5)
       score: CA 10 - ON 7
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 54
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 54
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(11)
+      score: ON 7 - NL 4
  - name: Wylie, Jennifer
    totals:
     - event: Hearts

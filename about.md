@@ -38,6 +38,10 @@ Dave Thomas
 
 ## Changelog
 
+### 2024-02-27
+
+ * Added 2024 Hearts data.
+
 ### 2023-07-11
 
  * Added a note for players with positional data that were alternates in the initial lineup.

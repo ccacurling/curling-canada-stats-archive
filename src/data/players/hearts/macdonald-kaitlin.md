@@ -113,6 +113,7 @@ vs:
  - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Dubue, Lindsay
  - Einarson, Kerri
  - Enge, Jenna
@@ -176,7 +177,6 @@ vs:
  - St-Georges, Laurie
  - Sweeting, Val
  - Thevenot, Kara
- - Tingley, Jaclyn
  - Tran, Brittany
  - Verreault, Noemie
  - Walker, Laura

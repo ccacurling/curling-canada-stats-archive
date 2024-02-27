@@ -4,18 +4,18 @@ name: Ashley Sippala
 name-sort: Sippala, Ashley
 totals:
  - event: Hearts
-   games: 77
-   wins: 51
-   losses: 26
-   inturn-total: 755
+   games: 82
+   wins: 52
+   losses: 30
+   inturn-total: 799
    inturn-percent: 81
-   outturn-total: 736
-   outturn-percent: 79
-   draw-total: 669
-   draw-percent: 78
-   takeout-total: 822
+   outturn-total: 792
+   outturn-percent: 80
+   draw-total: 733
+   draw-percent: 79
+   takeout-total: 858
    takeout-percent: 81
-   shots-total: 1491
+   shots-total: 1591
    shots-percent: 80
 years:
  - year: 2009
@@ -131,7 +131,60 @@ years:
    takeout-percent: 78
    shots-total: 217
    shots-percent: 81
+ - year: 2024
+   event: Hearts
+   team: "NO"
+   position: Lead
+   alternate: false
+   games: 2
+   wins: 0
+   losses: 2
+   inturn-total: 20
+   inturn-percent: 90
+   outturn-total: 22
+   outturn-percent: 85
+   draw-total: 33
+   draw-percent: 87
+   takeout-total: 9
+   takeout-percent: 89
+   shots-total: 42
+   shots-percent: 88
+ - year: 2024
+   event: Hearts
+   team: "NO"
+   position: Second
+   alternate: false
+   games: 3
+   wins: 1
+   losses: 2
+   inturn-total: 24
+   inturn-percent: 80
+   outturn-total: 34
+   outturn-percent: 80
+   draw-total: 31
+   draw-percent: 82
+   takeout-total: 27
+   takeout-percent: 78
+   shots-total: 58
+   shots-percent: 80
+ - year: 2024
+   event: Hearts
+   team: Totals
+   games: 5
+   wins: 1
+   losses: 4
+   inturn-total: 44
+   inturn-percent: 85
+   outturn-total: 56
+   outturn-percent: 82
+   draw-total: 64
+   draw-percent: 85
+   takeout-total: 36
+   takeout-percent: 81
+   shots-total: 100
+   shots-percent: 83
 vs:
+ - Ackerman, Skylar
  - Ackland, Abby
  - Affleck, Tricia
  - Alcoe-Holland, Jill
@@ -156,7 +209,6 @@ vs:
  - Burt, Camille
  - Cameron, Kate
  - Campbell, Jolene
- - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
@@ -188,6 +240,7 @@ vs:
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
@@ -214,6 +267,7 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Karwacki, Krysten
  - Kelly, Andrea
  - Kleibrink, Shannon
  - Klymchuk, Ashley
@@ -254,6 +308,7 @@ vs:
  - O'Rourke, Brittany
  - O'Rourke, Kathy
  - Overton-Clapham, Cathy
+ - Papley, Paige
  - Peterman, Jocelyn
  - Peters, Laine
  - Phillips, Kristen
@@ -274,6 +329,7 @@ vs:
  - Saulnier, Andrea
  - Scheidegger, Casey
  - Schmidt, Stephanie
+ - Schmiemann, Danielle
  - Schneider, Kim
  - Schneider, Lorraine
  - Schneider, Tammy
@@ -284,9 +340,13 @@ vs:
  - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
+ - Skinner, Kaylin
  - Sobey, Lianne
+ - Stremick, Taylor
+ - Sturmay, Selena
  - Sweeting, Val
  - Taylor, Alison
+ - Thevenot, Ashley
  - Thevenot, Kara
  - Thiessen, Alison
  - Thomas, Jill
@@ -304,5 +364,6 @@ vs:
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Zacharias, Mackenzie
 ---

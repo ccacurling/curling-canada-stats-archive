@@ -4,19 +4,19 @@ name: Corryn Brown
 name-sort: Brown, Corryn
 totals:
  - event: Hearts
-   games: 20
-   wins: 10
-   losses: 10
-   inturn-total: 172
+   games: 28
+   wins: 14
+   losses: 14
+   inturn-total: 239
    inturn-percent: 75
-   outturn-total: 201
-   outturn-percent: 70
-   draw-total: 185
-   draw-percent: 69
-   takeout-total: 188
+   outturn-total: 282
+   outturn-percent: 72
+   draw-total: 251
+   draw-percent: 71
+   takeout-total: 270
    takeout-percent: 75
-   shots-total: 373
-   shots-percent: 72
+   shots-total: 521
+   shots-percent: 73
 years:
  - year: 2020
    event: Hearts
@@ -54,7 +54,26 @@ years:
    takeout-percent: 74
    shots-total: 145
    shots-percent: 73
+ - year: 2024
+   event: Hearts
+   team: "BC"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 67
+   inturn-percent: 76
+   outturn-total: 81
+   outturn-percent: 77
+   draw-total: 66
+   draw-percent: 77
+   takeout-total: 82
+   takeout-percent: 76
+   shots-total: 148
+   shots-percent: 77
 vs:
+ - Ackerman, Skylar
  - Adams, Melissa
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -68,10 +87,14 @@ vs:
  - Birt, Suzanne
  - Black, Christina
  - Brown, Rachel
+ - Burt, Camille
  - Carey, Chelsea
  - Christianson, Marie
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Curtis, Erica
+ - Curtis, Stacie
+ - DiCarlo, Jane
  - Duncan, Chelsea
  - Eddy, Lori
  - Einarson, Kerri
@@ -82,15 +105,20 @@ vs:
  - Griffin, Alison
  - Hamilton, Beth
  - Harris, Briane
+ - Hawes, Dezaray
  - Hill, Sarah
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hynes, Julie
+ - Jenkins, Whitney
  - Jones, Jennifer
+ - Karwacki, Krysten
+ - Kelly, Andrea
  - Kitz, Chaelynn
  - Knapp, Breanne
  - Koltun, Sarah
+ - Larouche, Marie-France
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
@@ -99,25 +127,34 @@ vs:
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - Martin, Nancy
+ - Mayne, Veronica
  - McCarville, Krista
  - McEwen, Dawn
  - Mercer, Adrienne
+ - Middaugh, Kelly
  - Miskew, Emma
  - Njegovan, Selena
+ - Papley, Paige
  - Peterman, Jocelyn
  - Pinksen, Sadie
  - Plonka, Gabrielle
  - Porter, Erin
+ - Potts, Sarah
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Schmiemann, Danielle
  - Shea, Michelle
  - Silvernagle, Robyn
  - Sippala, Ashley
+ - Skinner, Kaylin
+ - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stremick, Taylor
+ - Sturmay, Selena
  - Sweeting, Val
+ - Thevenot, Ashley
  - Thevenot, Kara
- - Tingley, Jaclyn
  - Tuor, Kimberly
  - Weagle, Lisa
  - Wilkes, Sarah

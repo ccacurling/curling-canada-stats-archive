@@ -96,7 +96,6 @@ vs:
  - Cooper, Kathryn
  - Courtney, Joanne
  - Cunningham, Cathy
- - Cunningham, Jessica
  - Curtis, Stacie
  - Delahunt, Nancy
  - Einarson, Kerri
@@ -189,6 +188,7 @@ vs:
  - Whitaker, Carol
  - Wilkes, Sarah
  - Williamson, Ashley
+ - Wiseman, Jessica
  - Wylie, Jennifer
  - Yardley, Janelle
 ---

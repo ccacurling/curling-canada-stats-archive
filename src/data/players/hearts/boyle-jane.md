@@ -98,7 +98,6 @@ vs:
  - Collins, Katrina
  - Cooper, Kathryn
  - Courtney, Joanne
- - Cunningham, Jessica
  - Curtis, Stacie
  - Einarson, Kerri
  - Enge, Jenna
@@ -168,5 +167,6 @@ vs:
  - Weagle, Lisa
  - Wilkes, Sarah
  - Williamson, Ashley
+ - Wiseman, Jessica
  - Wylie, Jennifer
 ---

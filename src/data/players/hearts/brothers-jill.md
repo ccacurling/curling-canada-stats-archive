@@ -4,19 +4,19 @@ name: Jill Brothers
 name-sort: Brothers, Jill
 totals:
  - event: Hearts
-   games: 55
-   wins: 21
-   losses: 34
-   inturn-total: 560
-   inturn-percent: 75
-   outturn-total: 470
-   outturn-percent: 71
-   draw-total: 480
-   draw-percent: 69
-   takeout-total: 550
+   games: 63
+   wins: 24
+   losses: 39
+   inturn-total: 650
+   inturn-percent: 76
+   outturn-total: 536
+   outturn-percent: 72
+   draw-total: 548
+   draw-percent: 70
+   takeout-total: 638
    takeout-percent: 77
-   shots-total: 1030
-   shots-percent: 73
+   shots-total: 1186
+   shots-percent: 74
 years:
  - year: 2007
    event: Hearts
@@ -126,8 +126,27 @@ years:
    takeout-percent: 76
    shots-total: 157
    shots-percent: 78
+ - year: 2024
+   event: Hearts
+   team: "NS"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 90
+   inturn-percent: 78
+   outturn-total: 66
+   outturn-percent: 78
+   draw-total: 68
+   draw-percent: 74
+   takeout-total: 88
+   takeout-percent: 82
+   shots-total: 156
+   shots-percent: 78
 vs:
  - Ackland, Abby
+ - Adams, Melissa
  - Aleksic, Shannon
  - Anderson, Sherry
  - Arnott, Janet
@@ -144,11 +163,11 @@ vs:
  - Boudreault, Patricia
  - Boyle, Jane
  - Brown, Rachel
+ - Brunton, Kira
  - Burgess, Karlee
  - Burns, Krysta
  - Burt, Camille
  - Cameron, Kate
- - Campbell, Kerry
  - Carey, Chelsea
  - Carter, Sasha
  - Christianson, Marie
@@ -157,18 +176,21 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Cunningham, Jessica
+ - Crandall, Jaclyn
  - Curtis, Erica
  - Curtis, Stacie
  - Daigle, Julie
+ - Daly, Calissa
  - Daniel, Sylvie
  - Darbyshire, Carolyn
  - Davies, Lisa
+ - deGroot, Cassandra
  - Derick, Catherine
  - deSolla, Jodie
  - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
+ - Dubue, Lindsay
  - Duncan, Chelsea
  - Duncan, Jenna
  - Einarson, Kerri
@@ -177,6 +199,7 @@ vs:
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy
+ - Foster, Kerry
  - Foster, Kristen
  - Fyfe, Liz
  - Gagnier, Monique
@@ -185,6 +208,7 @@ vs:
  - Gates, Amanda
  - Gates, Jennifer
  - George, Tara
+ - Grandy, Clancy
  - Griffin, Alison
  - Gudereit, Marcia
  - Guy, Sara
@@ -193,9 +217,11 @@ vs:
  - Hardy, Shelley
  - Harris, Briane
  - Haughian, Jessie
+ - Helston, Raelyn
  - Homan, Rachel
  - Hughes, Meaghan
  - Hynes, Julie
+ - Inglis, Danielle
  - Inglis, Nancy
  - Jones, Jennifer
  - Kasner, Marliese
@@ -214,9 +240,12 @@ vs:
  - Lemay, Annie
  - Lenentine, Lauren
  - Lilly, Kendra
+ - Lister, Kendra
  - Loder, Jenna
+ - Loken, Sarah
  - MacCuish, Kristin
  - MacDonald, Rebecca Jean
+ - MacMillan, Kayla
  - MacPhee, Robyn
  - McCarville, Krista
  - McDonald, Kristy
@@ -257,6 +286,7 @@ vs:
  - Reid, Jackie
  - Richard, Marie
  - Rizzo, Jo-Ann
+ - Rocque, Kelsey
  - Ross, Allison
  - Rusnell, Jen
  - Sagle, Karen
@@ -264,6 +294,7 @@ vs:
  - Sandwith, Carley
  - Scheidegger, Casey
  - Schraeder, Jeanna
+ - Scoffin, Bayly
  - Scott, Kelly
  - Sharpe, Kelli
  - Simons, Renee
@@ -286,11 +317,13 @@ vs:
  - Walker, Laura
  - Wallingham, Patty
  - Walter, Meghan
+ - Ward, Molli
  - Wark, Sarah
  - Weagle, Lisa
  - Wheatcroft, Georgina
  - Whitaker, Carol
  - Wilkes, Sarah
+ - Wiseman, Jessica
  - Zacharias, Emily
  - Zacharias, Mackenzie
 ---

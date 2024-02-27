@@ -4,18 +4,18 @@ name: Krista McCarville
 name-sort: McCarville, Krista
 totals:
  - event: Hearts
-   games: 123
-   wins: 75
-   losses: 48
-   inturn-total: 1212
+   games: 131
+   wins: 79
+   losses: 52
+   inturn-total: 1272
    inturn-percent: 75
-   outturn-total: 1146
+   outturn-total: 1235
    outturn-percent: 76
-   draw-total: 1145
-   draw-percent: 74
-   takeout-total: 1213
+   draw-total: 1211
+   draw-percent: 73
+   takeout-total: 1296
    takeout-percent: 78
-   shots-total: 2358
+   shots-total: 2507
    shots-percent: 76
 years:
  - year: 2006
@@ -198,7 +198,26 @@ years:
    takeout-percent: 79
    shots-total: 213
    shots-percent: 77
+ - year: 2024
+   event: Hearts
+   team: "NO"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 60
+   inturn-percent: 67
+   outturn-total: 89
+   outturn-percent: 78
+   draw-total: 66
+   draw-percent: 69
+   takeout-total: 83
+   takeout-percent: 78
+   shots-total: 149
+   shots-percent: 74
 vs:
+ - Ackerman, Skylar
  - Ackland, Abby
  - Affleck, Tricia
  - Alcoe-Holland, Jill
@@ -238,7 +257,6 @@ vs:
  - Cameron, Kate
  - Cameron, Nancy
  - Campbell, Jolene
- - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
@@ -264,6 +282,7 @@ vs:
  - Derick, Catherine
  - Derry, Danielle
  - deSolla, Jodie
+ - DiCarlo, Jane
  - Doig, Deanna
  - Duncan, Chelsea
  - Eddy, Lori
@@ -277,10 +296,12 @@ vs:
  - Everist, Karlee
  - Eyamie, Lisa
  - Ferguson, Dana
+ - Fisher, Sam
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gagnier, Monique
@@ -311,11 +332,13 @@ vs:
  - Hunkin, Jessie
  - Hynes, Julie
  - Inglis, Nancy
+ - Jenkins, Whitney
  - Jewer, Michelle
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Karwacki, Krysten
  - Kasner, Marliese
  - Kelly, Andrea
  - Kelly, Kim
@@ -347,12 +370,14 @@ vs:
  - Mallett, Marla
  - Mann, Lauren
  - Mattatall, Mary
+ - Mayne, Veronica
  - McCagg-Nystrom, Heather
  - McConnery, Nancy
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Mercer, Adrienne
+ - Middaugh, Kelly
  - Miskew, Emma
  - Moore, Kristie
  - More, Whitney
@@ -380,6 +405,7 @@ vs:
  - O'Rourke, Kathy
  - Osborne, Chantal
  - Overton-Clapham, Cathy
+ - Papley, Paige
  - Peterman, Jocelyn
  - Peters, Laine
  - Phillips, Kristen
@@ -396,6 +422,7 @@ vs:
  - Richard, Marie
  - Richards, Brette
  - Ridalls, Kristen
+ - Riley, Emily
  - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Rocque, Raylene
@@ -410,6 +437,7 @@ vs:
  - Saulnier, Andrea
  - Scheidegger, Casey
  - Schmidt, Stephanie
+ - Schmiemann, Danielle
  - Schneider, Kim
  - Schneider, Lorraine
  - Schneider, Tammy
@@ -421,15 +449,22 @@ vs:
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Simons, Renee
+ - Sinclair, Jamie
  - Singler, Sherri
+ - Skinner, Kaylin
+ - Smith, Sabrina
  - Sobey, Lianne
  - Spencer, Barb
+ - St-Georges, Laurie
  - Streifel, Tracy
+ - Stremick, Taylor
  - Strong, Heather
  - Strong, Laura
+ - Sturmay, Selena
  - Sweeting, Val
  - Tanner, Ros
  - Taylor, Alison
+ - Thevenot, Ashley
  - Thevenot, Kara
  - Thiessen, Alison
  - Thomas, Jill
@@ -451,5 +486,6 @@ vs:
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Zacharias, Mackenzie
 ---

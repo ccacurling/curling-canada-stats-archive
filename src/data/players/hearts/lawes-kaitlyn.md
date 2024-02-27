@@ -4,19 +4,19 @@ name: Kaitlyn Lawes
 name-sort: Lawes, Kaitlyn
 totals:
  - event: Hearts
-   games: 114
-   wins: 82
-   losses: 32
-   inturn-total: 1063
+   games: 122
+   wins: 85
+   losses: 37
+   inturn-total: 1142
    inturn-percent: 82
-   outturn-total: 1086
+   outturn-total: 1161
    outturn-percent: 81
-   draw-total: 828
-   draw-percent: 80
-   takeout-total: 1321
+   draw-total: 902
+   draw-percent: 79
+   takeout-total: 1401
    takeout-percent: 83
-   shots-total: 2149
-   shots-percent: 82
+   shots-total: 2303
+   shots-percent: 81
 years:
  - year: 2011
    event: Hearts
@@ -180,7 +180,26 @@ years:
    takeout-percent: 80
    shots-total: 173
    shots-percent: 79
+ - year: 2023
+   event: Hearts
+   team: "NB"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 79
+   inturn-percent: 76
+   outturn-total: 75
+   outturn-percent: 81
+   draw-total: 74
+   draw-percent: 76
+   takeout-total: 80
+   takeout-percent: 81
+   shots-total: 154
+   shots-percent: 79
 vs:
+ - Ackland, Abby
  - Adams, Melissa
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -193,7 +212,6 @@ vs:
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
- - Barker, Shelley
  - Barron, Lauren
  - Baxter, Jennifer
  - Beauchamp, Sasha
@@ -210,6 +228,8 @@ vs:
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Burgess, Karlee
+ - Burt, Camille
  - Cameron, Kate
  - Cameron, Nancy
  - Camozzi, Rhonda
@@ -224,8 +244,8 @@ vs:
  - Cooper, Kathryn
  - Cormier, Sharon
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Cunningham, Jennifer
- - Cunningham, Jessica
  - Curtis, Erica
  - Curtis, Stacie
  - deJager, Blaine
@@ -233,32 +253,32 @@ vs:
  - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
- - Dubue, Lindsay
  - Dufresne, Audree
  - Duncan, Chelsea
+ - Duncan, Jenna
  - Dykstra, Michelle
  - Eddy, Lori
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Enge, Jenna
  - Englot, Michelle
- - Everist, Karlee
  - Fallis, Karen
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Fisher, Sam
+ - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Fraser, Sherry
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
  - Gates, Jennifer
- - Grandy, Clancy
  - Gregoire, Veronique
  - Griffin, Alison
  - Gushulak, Diane
- - Gustafson, Leigh
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Hamon, Callan
@@ -280,8 +300,8 @@ vs:
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Colleen
+ - Jones, Jennifer
  - Joyce, Blisse
- - Just, Sherry
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kelly, Andrea
@@ -303,13 +323,10 @@ vs:
  - Lister, Kendra
  - Loder, Jenna
  - Logan, Emma
- - Loken, Sarah
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
- - MacMillan, Kayla
- - MacPhail, Brigitte
  - MacPhee, Robyn
  - Mair, Jessica
  - Mann, Lauren
@@ -321,7 +338,6 @@ vs:
  - McInnis, Susan
  - McTaggart, Cary-Anne
  - Mercer, Adrienne
- - Middaugh, Kelly
  - Miller, Wendy
  - Miskew, Emma
  - Moore, Kristie
@@ -333,6 +349,7 @@ vs:
  - Nixon, Amy
  - Njegovan, Selena
  - Nowlan, Denise
+ - Oliver, Sara
  - Olson-Johns, Lori
  - O'Neill, Brit
  - O'Rourke, Brittany
@@ -351,17 +368,14 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Rainville, Julie
- - Ramsay, Geri-Lynn
  - Recksiedler, Kristen
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Ross, Allison
- - Routledge, Alanna
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
- - Schafer, Kelly
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schneider, Kim
@@ -374,8 +388,6 @@ vs:
  - Shumay, Jill
  - Silvernagle, Robyn
  - Sippala, Ashley
- - Skrlik, Ashton
- - Skrlik, Kayla
  - Slywka, Sarah
  - Smith, Heather
  - Smith, Stacey
@@ -388,10 +400,8 @@ vs:
  - Strong, Helen
  - Strong, Laura
  - Sweeting, Val
- - Taylor, Alison
  - Thevenot, Kara
  - Thompson, Karla
- - Tingley, Jaclyn
  - Tran, Brittany
  - Trombley, Christy
  - Tuor, Kimberly
@@ -400,6 +410,7 @@ vs:
  - Vautour, Carrie
  - Vey, Lana
  - Walker, Laura
+ - Walter, Meghan
  - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah
@@ -409,5 +420,8 @@ vs:
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Wylie, Jennifer
+ - Zacharias, Emily
+ - Zacharias, Mackenzie
 ---

@@ -746,34 +746,6 @@ vs:
       year: 1994
       draw: Playoff(18)
       score: NL 8 - PE 7
- - name: Cunningham, Jessica
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 0
-        losses: 1
-      player2:
-        percent: 70
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Third
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2015
-      draw: Round Robin(4)
-      score: NL 7 - PE 4
  - name: Curtis, Stacie
    totals:
     - event: Hearts
@@ -6982,6 +6954,34 @@ vs:
       year: 2011
       draw: Round Robin(15)
       score: PE 8 - MB 5
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 0
+        losses: 1
+      player2:
+        percent: 70
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2015
+      draw: Round Robin(4)
+      score: NL 7 - PE 4
  - name: Wright, Susan
    totals:
     - event: Hearts

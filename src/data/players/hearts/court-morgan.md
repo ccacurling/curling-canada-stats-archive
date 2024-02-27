@@ -45,7 +45,6 @@ vs:
  - Carey, Chelsea
  - Cooper, Kathryn
  - Courtney, Joanne
- - Cunningham, Jessica
  - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
@@ -82,4 +81,5 @@ vs:
  - Udle, Teri
  - Wallingham, Patty
  - Weagle, Lisa
+ - Wiseman, Jessica
 ---

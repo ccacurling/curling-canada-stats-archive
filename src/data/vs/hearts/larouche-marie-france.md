@@ -2382,6 +2382,34 @@ vs:
       year: 2012
       draw: Round Robin(1)
       score: QC 6 - BC 7
+ - name: Pincott, Erin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 67
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(13)
+      score: QC 3 - BC 8
  - name: Porter, Erin
    totals:
     - event: Hearts
@@ -3166,6 +3194,34 @@ vs:
       year: 2001
       draw: Round Robin(10)
       score: QC 6 - CA 4
+ - name: Skinner, Kaylin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(7)
+      score: SK 3 - QC 7
  - name: Slywka, Sarah
    totals:
     - event: Hearts
@@ -3426,6 +3482,34 @@ vs:
       year: 2004
       draw: Round Robin(4)
       score: QC 7 - NB 6
+ - name: Stremick, Taylor
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 80
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(7)
+      score: SK 3 - QC 7
  - name: Stricker, Joan
    totals:
     - event: Hearts
@@ -3678,6 +3762,34 @@ vs:
       year: 2001
       draw: Round Robin(14)
       score: BC 6 - QC 8
+ - name: Thevenot, Ashley
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Third
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(7)
+      score: SK 3 - QC 7
  - name: Thomas, Jill
    totals:
     - event: Hearts

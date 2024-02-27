@@ -120,7 +120,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Cunningham, Jessica
  - Curtis, Stacie
  - Davis, Brandee
  - deJager, Blaine
@@ -232,6 +231,7 @@ vs:
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa
+ - Wiseman, Jessica
  - Wright, Susan
  - Zinck, Kay
 ---

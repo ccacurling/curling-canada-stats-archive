@@ -4,19 +4,19 @@ name: Kimberly Tuor
 name-sort: Tuor, Kimberly
 totals:
  - event: Hearts
-   games: 23
+   games: 28
    wins: 1
-   losses: 22
-   inturn-total: 207
-   inturn-percent: 79
-   outturn-total: 204
-   outturn-percent: 74
-   draw-total: 336
-   draw-percent: 79
-   takeout-total: 75
-   takeout-percent: 68
-   shots-total: 411
-   shots-percent: 77
+   losses: 27
+   inturn-total: 252
+   inturn-percent: 81
+   outturn-total: 243
+   outturn-percent: 75
+   draw-total: 408
+   draw-percent: 80
+   takeout-total: 87
+   takeout-percent: 70
+   shots-total: 495
+   shots-percent: 78
 years:
  - year: 2020
    event: Hearts
@@ -72,6 +72,24 @@ years:
    takeout-percent: 77
    shots-total: 139
    shots-percent: 84
+ - year: 2024
+   event: Hearts
+   team: "YT"
+   position: Lead
+   alternate: false
+   games: 5
+   wins: 0
+   losses: 5
+   inturn-total: 45
+   inturn-percent: 88
+   outturn-total: 39
+   outturn-percent: 78
+   draw-total: 72
+   draw-percent: 83
+   takeout-total: 12
+   takeout-percent: 85
+   shots-total: 84
+   shots-percent: 83
 vs:
  - Ackland, Abby
  - Armstrong, Hailey
@@ -86,16 +104,20 @@ vs:
  - Bobbie, Tess
  - Brothers, Jill
  - Brown, Corryn
+ - Brown, Rachel
  - Brunton, Kira
  - Burgess, Karlee
  - Burt, Camille
  - Cameron, Kate
+ - Carmody, Erin
  - Carter, Sasha
  - Christianson, Marie
  - Clarke, Kristin
  - Courtney, Joanne
  - Curtis, Erica
  - Curtis, Stacie
+ - Daly, Calissa
+ - deGroot, Cassandra
  - Duncan, Hollie
  - Einarson, Kerri
  - Elias, Mackenzie
@@ -112,6 +134,7 @@ vs:
  - Homan, Rachel
  - Hughes, Meaghan
  - Hynes, Julie
+ - Inglis, Danielle
  - Jones, Jennifer
  - Kelly, Andrea
  - Klymchuk, Ashley
@@ -141,9 +164,11 @@ vs:
  - Shea, Michelle
  - Simons, Renee
  - Sippala, Ashley
+ - Smith, Heather
  - St-Georges, Laurie
  - Strybosch, Rachelle
  - Sweeting, Val
+ - Tuck, Kimberly
  - Walker, Laura
  - Walter, Meghan
  - Weagle, Lisa

@@ -97,7 +97,6 @@ vs:
  - Courtney, Joanne
  - Crouse, Jennifer
  - Cunningham, Jennifer
- - Cunningham, Jessica
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
@@ -171,4 +170,5 @@ vs:
  - Westcott, Raunora
  - Whitaker, Carol
  - Wilson, Leslie
+ - Wiseman, Jessica
 ---

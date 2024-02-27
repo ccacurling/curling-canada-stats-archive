@@ -4,18 +4,18 @@ name: Marie-France Larouche
 name-sort: Larouche, Marie-France
 totals:
  - event: Hearts
-   games: 89
-   wins: 49
-   losses: 40
-   inturn-total: 828
+   games: 91
+   wins: 50
+   losses: 41
+   inturn-total: 844
    inturn-percent: 75
-   outturn-total: 869
+   outturn-total: 889
    outturn-percent: 75
-   draw-total: 803
+   draw-total: 817
    draw-percent: 72
-   takeout-total: 894
-   takeout-percent: 77
-   shots-total: 1697
+   takeout-total: 916
+   takeout-percent: 78
+   shots-total: 1733
    shots-percent: 75
 years:
  - year: 2000
@@ -224,10 +224,30 @@ years:
    team: "QC"
    position: Alternate
    alternate: true
+ - year: 2024
+   event: Hearts
+   team: "QC"
+   position: Third
+   alternate: true
+   games: 2
+   wins: 1
+   losses: 1
+   inturn-total: 16
+   inturn-percent: 73
+   outturn-total: 20
+   outturn-percent: 74
+   draw-total: 14
+   draw-percent: 64
+   takeout-total: 22
+   takeout-percent: 80
+   shots-total: 36
+   shots-percent: 74
 vs:
+ - Ackerman, Skylar
  - Affleck, Tricia
  - Anderson, Sherry
  - Armstrong, Jacquie
+ - Armstrong, Jennifer
  - Arnott, Janet
  - Arsenault, Mary-Anne
  - Arseneau, Jane
@@ -245,6 +265,7 @@ vs:
  - Bradley, Shelley
  - Brennan, Amanda
  - Brothers, Jill
+ - Brown, Corryn
  - Brown, Jacalyn
  - Brown, Janet
  - Campbell, Jolene
@@ -276,6 +297,7 @@ vs:
  - Fallis, Karen
  - Farrell, Allison
  - Fisher, Alana
+ - Fisher, Sam
  - Fleury, Tracy
  - Floyd, Kathy
  - Fowler, Lois
@@ -376,6 +398,7 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Pewarchuk, Dailene
+ - Pincott, Erin
  - Porter, Erin
  - Potts, Sarah
  - Power, Marie-Anne
@@ -400,6 +423,7 @@ vs:
  - Singler, Sherri
  - Sippala, Ashley
  - Skinner, Julie
+ - Skinner, Kaylin
  - Slywka, Sarah
  - Smith, Heather
  - Sobey, Lianne
@@ -407,11 +431,13 @@ vs:
  - Spencer, Barb
  - Stabel, Stacey
  - Stewart, Sheri
+ - Stremick, Taylor
  - Stricker, Joan
  - Strong, Heather
  - Strong, Laura
  - Surik, Teejay
  - Tasaka, Adina
+ - Thevenot, Ashley
  - Thomas, Jill
  - Thompson, Karla
  - Udle, Teri

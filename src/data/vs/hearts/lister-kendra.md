@@ -2,6 +2,34 @@
 title: Kendra Lister Head-to-head
 name: Lister, Kendra
 vs:
+ - name: Loken, Sarah
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 77
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Lead
+        percent: 77
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(10)
+      score: BC 9 - NB 3
  - name: MacCuish, Kristin
    totals:
     - event: Hearts
@@ -74,6 +102,34 @@ vs:
       year: 2021
       draw: Round Robin(13)
       score: NU 8 - NB 9
+ - name: MacMillan, Kayla
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 70
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(10)
+      score: BC 9 - NB 3
  - name: Martin, Nancy
    totals:
     - event: Hearts
@@ -158,6 +214,34 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: NL 8 - NB 7
+ - name: Miskew, Emma
+   totals:
+    - event: Hearts
+      player1:
+        percent: 92
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 92
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Second
+        percent: 90
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(16)
+      score: NB 3 - ON 9
  - name: Njegovan, Selena
    totals:
     - event: Hearts
@@ -398,6 +482,62 @@ vs:
       year: 2021
       draw: Round Robin(19)
       score: NB 7 - QC 9
+ - name: Rizzo, Jo-Ann
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(6)
+      score: NT 5 - NB 7
+ - name: Rocque, Kelsey
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(2)
+      score: NB 5 - MB 10
  - name: Shea, Michelle
    totals:
     - event: Hearts
@@ -454,6 +594,34 @@ vs:
       year: 2018
       draw: Round Robin(14)
       score: NB 6 - YT 3
+ - name: Smith, Heather
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(4)
+      score: NB 8 - NS 10
  - name: St-Georges, Cynthia
    totals:
     - event: Hearts
@@ -510,6 +678,34 @@ vs:
       year: 2021
       draw: Round Robin(19)
       score: NB 7 - QC 9
+ - name: Walter, Meghan
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(2)
+      score: NB 5 - MB 10
  - name: Weagle, Lisa
    totals:
     - event: Hearts
@@ -594,4 +790,60 @@ vs:
       year: 2021
       draw: Round Robin(17)
       score: NB 3 - MB 12
+ - name: Wilkes, Sarah
+   totals:
+    - event: Hearts
+      player1:
+        percent: 92
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 92
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(16)
+      score: NB 3 - ON 9
+ - name: Zacharias, Emily
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(8)
+      score: MB 11 - NB 3
 ---

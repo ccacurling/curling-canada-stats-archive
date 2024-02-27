@@ -4,18 +4,18 @@ name: Stacie Curtis
 name-sort: Curtis, Stacie
 totals:
  - event: Hearts
-   games: 61
-   wins: 17
-   losses: 44
-   inturn-total: 506
-   inturn-percent: 68
-   outturn-total: 612
+   games: 69
+   wins: 19
+   losses: 50
+   inturn-total: 581
+   inturn-percent: 69
+   outturn-total: 684
    outturn-percent: 70
-   draw-total: 545
-   draw-percent: 67
-   takeout-total: 573
-   takeout-percent: 72
-   shots-total: 1118
+   draw-total: 621
+   draw-percent: 68
+   takeout-total: 644
+   takeout-percent: 71
+   shots-total: 1265
    shots-percent: 69
 years:
  - year: 2011
@@ -126,12 +126,32 @@ years:
    takeout-percent: 73
    shots-total: 146
    shots-percent: 76
+ - year: 2024
+   event: Hearts
+   team: "NL"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 75
+   inturn-percent: 73
+   outturn-total: 72
+   outturn-percent: 66
+   draw-total: 76
+   draw-percent: 76
+   takeout-total: 71
+   takeout-percent: 63
+   shots-total: 147
+   shots-percent: 70
 vs:
+ - Ackerman, Skylar
  - Ackland, Abby
  - Adams, Melissa
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Armstrong, Jacquie
+ - Armstrong, Jennifer
  - Arnaud, Chloe
  - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
@@ -144,6 +164,7 @@ vs:
  - Beauchamp, Sasha
  - Belisle, Eve
  - Bell, Chelsey
+ - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
  - Boyle, Jane
@@ -151,11 +172,11 @@ vs:
  - Brassard, Veronique
  - Briand, Oye-Sem Won
  - Brothers, Jill
+ - Brown, Corryn
  - Brunton, Kira
  - Burgess, Karlee
  - Cameron, Kate
  - Campbell, Jolene
- - Campbell, Kerry
  - Carey, Chelsea
  - Carter, Sasha
  - Cheveldave, Amber
@@ -167,6 +188,7 @@ vs:
  - deJager, Blaine
  - Derry, Danielle
  - deSolla, Jodie
+ - DiCarlo, Jane
  - Doig, Deanna
  - Dufresne, Audree
  - Duncan, Chelsea
@@ -176,9 +198,11 @@ vs:
  - Elias, Mackenzie
  - Englot, Michelle
  - Eyamie, Lisa
+ - Fisher, Sam
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gagne, Emilia
@@ -190,6 +214,7 @@ vs:
  - Hanna, Stephanie
  - Harvey, Marie-Pier
  - Haughian, Jessie
+ - Hawes, Dezaray
  - Hill, Trish
  - Holland, Amber
  - Holtby, Taryn
@@ -198,11 +223,13 @@ vs:
  - Hughes, Meaghan
  - Hutchings, Denise
  - Iskiw, Beth
+ - Jenkins, Whitney
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Karwacki, Krysten
  - Kelly, Andrea
  - Kelly, Kim
  - Kleibrink, Shannon
@@ -226,10 +253,12 @@ vs:
  - Mallett, Marla
  - Mann, Lauren
  - Mattatall, Mary
+ - Mayne, Veronica
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
+ - Middaugh, Kelly
  - Middaugh, Sherry
  - Miller, Wendy
  - Miskew, Emma
@@ -248,22 +277,26 @@ vs:
  - O'Neill, Brit
  - O'Rourke, Brittany
  - Overton-Clapham, Cathy
+ - Papley, Paige
  - Parsons, Danielle
  - Perron, Melina
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pincott, Erin
  - Potts, Sarah
  - Quillian, Sylvie
  - Rainville, Julie
  - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
+ - Riley, Emily
  - Rizzo, Jo-Ann
  - Ross, Allison
  - Sagle, Karen
  - Saulnier, Andrea
  - Scheidegger, Casey
  - Scheidegger, Jessie
+ - Schmiemann, Danielle
  - Schneider, Kim
  - Schneider, Lorraine
  - Schneider, Tammy
@@ -273,9 +306,17 @@ vs:
  - Shea, Michelle
  - Shumay, Jill
  - Sicinski, Danielle
+ - Sinclair, Jamie
  - Sippala, Ashley
+ - Skinner, Kaylin
  - Smith, Heather
+ - Smith, Sabrina
  - Sobey, Lianne
+ - St-Georges, Laurie
+ - Stremick, Taylor
+ - Sturmay, Selena
+ - Sweeting, Val
+ - Thevenot, Ashley
  - Thiessen, Alison
  - Thompson, Karla
  - Tuor, Kimberly

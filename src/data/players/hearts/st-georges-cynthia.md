@@ -75,6 +75,7 @@ vs:
  - Carter, Sasha
  - Christianson, Marie
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Doerksen, Katherine
  - Duncan, Hollie
  - Eddy, Lori
@@ -117,7 +118,6 @@ vs:
  - Simons, Renee
  - Strybosch, Rachelle
  - Sweeting, Val
- - Tingley, Jaclyn
  - Tran, Brittany
  - Walker, Laura
  - Weagle, Lisa

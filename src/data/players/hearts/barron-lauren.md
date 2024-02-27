@@ -45,6 +45,7 @@ vs:
  - Brown, Corryn
  - Carey, Chelsea
  - Christianson, Marie
+ - Crandall, Jaclyn
  - Eddy, Lori
  - Fisher, Sam
  - Fyfe, Liz
@@ -68,6 +69,5 @@ vs:
  - Shea, Michelle
  - St-Georges, Cynthia
  - St-Georges, Laurie
- - Tingley, Jaclyn
  - Weagle, Lisa
 ---

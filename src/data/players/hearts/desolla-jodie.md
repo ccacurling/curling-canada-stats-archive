@@ -164,7 +164,6 @@ vs:
  - Courtney, Joanne
  - Crouse, Jennifer
  - Cunningham, Cathy
- - Cunningham, Jessica
  - Curtis, Stacie
  - Darbyshire, Carolyn
  - deJager, Blaine
@@ -289,4 +288,5 @@ vs:
  - Wazney, Sarah
  - Weagle, Lisa
  - Wheatcroft, Georgina
+ - Wiseman, Jessica
 ---

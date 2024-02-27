@@ -108,6 +108,11 @@ years:
    takeout-percent: 83
    shots-total: 154
    shots-percent: 85
+ - year: 2024
+   event: Hearts
+   team: "MB"
+   position: Alternate
+   alternate: true
 vs:
  - Ackland, Abby
  - Anderson, Sherry
@@ -133,7 +138,6 @@ vs:
  - Burgess, Karlee
  - Burns, Krysta
  - Burt, Camille
- - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
@@ -152,6 +156,7 @@ vs:
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda

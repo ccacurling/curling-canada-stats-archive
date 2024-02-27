@@ -104,7 +104,6 @@ vs:
  - Court, Morgan
  - Courtney, Joanne
  - Cunningham, Jennifer
- - Cunningham, Jessica
  - deSolla, Jodie
  - Duncan, Chelsea
  - Ferguson, Dana
@@ -147,4 +146,5 @@ vs:
  - Van Osch, Kesa
  - Wallingham, Patty
  - Weagle, Lisa
+ - Wiseman, Jessica
 ---

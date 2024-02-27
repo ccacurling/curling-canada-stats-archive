@@ -4,19 +4,19 @@ name: Heather Smith
 name-sort: Smith, Heather
 totals:
  - event: Hearts
-   games: 59
-   wins: 30
-   losses: 29
-   inturn-total: 527
-   inturn-percent: 76
-   outturn-total: 591
+   games: 67
+   wins: 33
+   losses: 34
+   inturn-total: 608
+   inturn-percent: 77
+   outturn-total: 668
    outturn-percent: 75
-   draw-total: 474
+   draw-total: 539
    draw-percent: 72
-   takeout-total: 644
-   takeout-percent: 78
-   shots-total: 1118
-   shots-percent: 75
+   takeout-total: 737
+   takeout-percent: 79
+   shots-total: 1276
+   shots-percent: 76
 years:
  - year: 2000
    event: Hearts
@@ -113,7 +113,26 @@ years:
    team: "NB"
    position: Alternate
    alternate: true
+ - year: 2024
+   event: Hearts
+   team: "NS"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 81
+   inturn-percent: 85
+   outturn-total: 77
+   outturn-percent: 77
+   draw-total: 65
+   draw-percent: 79
+   takeout-total: 93
+   takeout-percent: 83
+   shots-total: 158
+   shots-percent: 81
 vs:
+ - Adams, Melissa
  - Affleck, Tricia
  - Anderson, Sherry
  - Armstrong, Jacquie
@@ -136,6 +155,9 @@ vs:
  - Brassard, Veronique
  - Breen, Theresa
  - Brown, Rachel
+ - Brunton, Kira
+ - Burgess, Karlee
+ - Cameron, Kate
  - Cameron, Nancy
  - Campbell, Jolene
  - Campbell, June
@@ -149,19 +171,23 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Cunningham, Cathy
  - Cunningham, Jennifer
- - Cunningham, Jessica
  - Curtis, Stacie
  - Daku, Karen
+ - Daly, Calissa
  - Davies, Lisa
+ - deGroot, Cassandra
  - Delahunt, Nancy
  - deSolla, Jodie
  - Dezura, Diane
  - Dobson, Sue
  - Dolan, Kim
  - Dolan, Sinead
+ - Dubue, Lindsay
  - Duncan, Chelsea
+ - Elias, Mackenzie
  - Enge, Jenna
  - Englot, Michelle
  - Fallis, Karen
@@ -169,7 +195,9 @@ vs:
  - Filteau, Anne-Marie
  - Fisher, Alana
  - Flaxey, Allison
+ - Flemming, Margot
  - Fleury, Tracy
+ - Foster, Kerry
  - Foster, Kristen
  - Fowler, Lois
  - Fraser, Sherry
@@ -182,17 +210,20 @@ vs:
  - Gignac, Donna
  - Gogan, Jennifer
  - Goss, Peg
+ - Grandy, Clancy
  - Gregoire, Veronique
  - Gushulak, Diane
  - Guzzwell, Stephanie
  - Hanlon, Heidi
  - Hatton, Sandra
+ - Helston, Raelyn
  - Hodson, Kim
  - Holland, Amber
  - Homan, Rachel
  - Horte, Rhonda
  - Hunter, Lana
  - Hynes, Julie
+ - Inglis, Danielle
  - Iskiw, Beth
  - Jones, Colleen
  - Jones, Jennifer
@@ -204,6 +235,7 @@ vs:
  - Kerr, Kathy
  - Kleibrink, Shannon
  - Knapp, Breanne
+ - Koltun, Sarah
  - Korab, Stephanie
  - Kreviazuk, Alison
  - Kreviazuk, Lynn
@@ -215,9 +247,12 @@ vs:
  - Lawton, Stefanie
  - Leclerc, Valerie
  - Lemay, Annie
+ - Lister, Kendra
+ - Loken, Sarah
  - MacCallum, Janice
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
+ - MacMillan, Kayla
  - MacPhee, Robyn
  - Mair, Jessica
  - Marchand, Stephanie
@@ -252,6 +287,8 @@ vs:
  - Reed, Shellan
  - Reid, Jackie
  - Renouf, Michele
+ - Rizzo, Jo-Ann
+ - Rocque, Kelsey
  - Ross, Allison
  - Sabourin, Joelle
  - Sanderson, Jessie
@@ -259,6 +296,7 @@ vs:
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
+ - Scoffin, Bayly
  - Scott, Kelly
  - Sharpe, Kelli
  - Sinclair, Andrea
@@ -273,16 +311,21 @@ vs:
  - Strong, Laura
  - Sweeting, Val
  - Titheridge, Lindsay
+ - Tuor, Kimberly
  - Van Osch, Kesa
  - Vey, Lana
  - Wall, Kirsten
  - Wallingham, Patty
  - Walter, Cathy
+ - Ward, Molli
  - Weagle, Lisa
  - Webster, Bronwen
  - Wheatcroft, Georgina
  - Whitrow, Leanne
+ - Wilkes, Sarah
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Wright, Susan
  - Wylie, Jennifer
+ - Zacharias, Emily
 ---

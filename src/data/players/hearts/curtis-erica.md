@@ -4,18 +4,18 @@ name: Erica Curtis
 name-sort: Curtis, Erica
 totals:
  - event: Hearts
-   games: 35
-   wins: 12
-   losses: 23
-   inturn-total: 318
-   inturn-percent: 74
-   outturn-total: 334
-   outturn-percent: 76
-   draw-total: 443
+   games: 41
+   wins: 13
+   losses: 28
+   inturn-total: 368
+   inturn-percent: 75
+   outturn-total: 394
+   outturn-percent: 75
+   draw-total: 489
    draw-percent: 78
-   takeout-total: 209
-   takeout-percent: 69
-   shots-total: 652
+   takeout-total: 273
+   takeout-percent: 71
+   shots-total: 762
    shots-percent: 75
 years:
  - year: 2017
@@ -90,11 +90,31 @@ years:
    takeout-percent: 70
    shots-total: 148
    shots-percent: 73
+ - year: 2024
+   event: Hearts
+   team: "NL"
+   position: Third
+   alternate: false
+   games: 6
+   wins: 1
+   losses: 5
+   inturn-total: 50
+   inturn-percent: 81
+   outturn-total: 60
+   outturn-percent: 72
+   draw-total: 46
+   draw-percent: 77
+   takeout-total: 64
+   takeout-percent: 75
+   shots-total: 110
+   shots-percent: 76
 vs:
+ - Ackerman, Skylar
  - Ackland, Abby
  - Adams, Melissa
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
+ - Armstrong, Jennifer
  - Arnaud, Chloe
  - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
@@ -102,6 +122,7 @@ vs:
  - Barker, Penny
  - Baxter, Jennifer
  - Belisle, Eve
+ - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
@@ -110,7 +131,6 @@ vs:
  - Brunton, Kira
  - Burgess, Karlee
  - Cameron, Kate
- - Campbell, Kerry
  - Carey, Chelsea
  - Chislett, Geneva
  - Christianson, Marie
@@ -119,15 +139,19 @@ vs:
  - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
+ - DiCarlo, Jane
  - Doig, Deanna
  - Duncan, Chelsea
  - Duncan, Hollie
+ - Einarson, Kerri
  - Elias, Mackenzie
  - Englot, Michelle
  - Eyamie, Lisa
+ - Fisher, Sam
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Fullerton, Sarah
  - Gagne, Emilia
  - Galusha, Kerry
@@ -138,7 +162,9 @@ vs:
  - Homan, Rachel
  - Hughes, Meaghan
  - Hutchings, Denise
+ - Jenkins, Whitney
  - Jones, Jennifer
+ - Karwacki, Krysten
  - Kelly, Andrea
  - Klymchuk, Ashley
  - Koehler, Megan
@@ -154,10 +180,12 @@ vs:
  - Mallett, Marla
  - Mann, Lauren
  - Mattatall, Mary
+ - Mayne, Veronica
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
+ - Middaugh, Kelly
  - Miskew, Emma
  - Moore, Kristie
  - Nedohin, Heather
@@ -174,6 +202,7 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Richards, Brette
+ - Riley, Emily
  - Rizzo, Jo-Ann
  - Sagle, Karen
  - Saulnier, Andrea
@@ -183,7 +212,14 @@ vs:
  - Shackleton, Amie
  - Shea, Michelle
  - Sicinski, Danielle
+ - Sinclair, Jamie
  - Sippala, Ashley
+ - Skinner, Kaylin
+ - Smith, Sabrina
+ - St-Georges, Laurie
+ - Stremick, Taylor
+ - Sweeting, Val
+ - Thevenot, Ashley
  - Thiessen, Alison
  - Tuor, Kimberly
  - Van Osch, Kalia

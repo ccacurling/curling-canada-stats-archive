@@ -149,7 +149,6 @@ vs:
  - Burgess, Karlee
  - Cameron, Kate
  - Camozzi, Rhonda
- - Campbell, Kerry
  - Carter, Sasha
  - Chenier, Courtney
  - Cheveldave, Amber
@@ -158,7 +157,6 @@ vs:
  - Cooper, Kathryn
  - Cormier, Sharon
  - Courtney, Joanne
- - Cunningham, Jessica
  - Curtis, Erica
  - Curtis, Stacie
  - deJager, Blaine
@@ -178,6 +176,7 @@ vs:
  - Filteau, Anne-Marie
  - Flemming, Margot
  - Fleury, Tracy
+ - Foster, Kerry
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
@@ -294,6 +293,7 @@ vs:
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Wylie, Jennifer
  - Zacharias, Emily
  - Zacharias, Mackenzie

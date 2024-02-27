@@ -292,7 +292,6 @@ vs:
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
- - Cunningham, Jessica
  - Curtis, Erica
  - Curtis, Stacie
  - Darbyshire, Carolyn
@@ -517,6 +516,7 @@ vs:
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Wylie, Jennifer
  - Yardley, Janelle
  - Zinck, Kay

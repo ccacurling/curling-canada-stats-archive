@@ -4,19 +4,19 @@ name: Sarah Wilkes
 name-sort: Wilkes, Sarah
 totals:
  - event: Hearts
-   games: 67
-   wins: 42
+   games: 78
+   wins: 53
    losses: 25
-   inturn-total: 615
-   inturn-percent: 81
-   outturn-total: 601
+   inturn-total: 730
+   inturn-percent: 83
+   outturn-total: 690
    outturn-percent: 83
-   draw-total: 529
-   draw-percent: 82
-   takeout-total: 687
-   takeout-percent: 82
-   shots-total: 1216
-   shots-percent: 82
+   draw-total: 703
+   draw-percent: 84
+   takeout-total: 717
+   takeout-percent: 81
+   shots-total: 1420
+   shots-percent: 83
 years:
  - year: 2015
    event: Hearts
@@ -174,8 +174,27 @@ years:
    takeout-percent: 85
    shots-total: 132
    shots-percent: 86
+ - year: 2024
+   event: Hearts
+   team: "ON"
+   position: Lead
+   alternate: false
+   games: 11
+   wins: 11
+   losses: 0
+   inturn-total: 115
+   inturn-percent: 91
+   outturn-total: 89
+   outturn-percent: 86
+   draw-total: 174
+   draw-percent: 90
+   takeout-total: 30
+   takeout-percent: 80
+   shots-total: 204
+   shots-percent: 89
 vs:
  - Ackland, Abby
+ - Adams, Melissa
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Anderson, Sherry
@@ -201,25 +220,29 @@ vs:
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Brunton, Kira
  - Burgess, Karlee
  - Burns, Krysta
  - Burt, Camille
  - Cameron, Kate
  - Campbell, Jolene
- - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Christianson, Marie
  - Cormier, Sharon
  - Cote, Marie-Pier
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Curtis, Erica
  - Curtis, Stacie
  - Daigle, Julie
+ - Daly, Calissa
+ - deGroot, Cassandra
  - deJager, Blaine
  - Derry, Danielle
  - Doerksen, Katherine
  - Doig, Deanna
+ - Dubue, Lindsay
  - Duncan, Chelsea
  - Eddy, Lori
  - Einarson, Kerri
@@ -231,26 +254,31 @@ vs:
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
  - Gamble, Christie
  - Gates, Amanda
  - Gates, Jennifer
+ - Grandy, Clancy
  - Griffin, Alison
  - Guy, Sara
  - Hamilton, Beth
  - Harris, Briane
  - Haughian, Jessie
  - Hawes, Dezaray
+ - Helston, Raelyn
  - Hill, Sarah
  - Hill, Trish
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hynes, Julie
+ - Inglis, Danielle
  - Ingram, Megan
  - Jones, Jennifer
+ - Karwacki, Krysten
  - Kasner, Marliese
  - Kelly, Andrea
  - Kitz, Chaelynn
@@ -263,10 +291,13 @@ vs:
  - Lawton, Stefanie
  - Lenentine, Lauren
  - Lilly, Kendra
+ - Lister, Kendra
  - Loder, Jenna
  - Logan, Emma
+ - Loken, Sarah
  - MacCuish, Kristin
  - MacDonald, Kaitlin
+ - MacMillan, Kayla
  - MacPhail, Brigitte
  - MacPhee, Robyn
  - Mallett, Marla
@@ -301,6 +332,7 @@ vs:
  - Richards, Brette
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Rocque, Kelsey
  - Routledge, Alanna
  - Routledge, Jill
  - Rusnell, Jen
@@ -309,12 +341,14 @@ vs:
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schneider, Lorraine
+ - Scoffin, Bayly
  - Scotland, Nadine
  - Sharpe, Kelli
  - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley
+ - Smith, Heather
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
@@ -326,6 +360,7 @@ vs:
  - Verreault, Noemie
  - Walker, Laura
  - Walter, Meghan
+ - Ward, Molli
  - Wark, Sarah
  - Weagle, Lisa
  - Westcott, Raunora

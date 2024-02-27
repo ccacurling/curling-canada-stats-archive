@@ -114,6 +114,34 @@ vs:
       year: 2021
       draw: Round Robin(9)
       score: PE 12 - NL 8
+ - name: Crandall, Jaclyn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 1
+        losses: 0
+      player2:
+        percent: 48
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 48
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(2)
+      score: NL 8 - NB 7
  - name: Eddy, Lori
    totals:
     - event: Hearts
@@ -758,34 +786,6 @@ vs:
       year: 2021
       draw: Round Robin(15)
       score: QC 9 - NL 4
- - name: Tingley, Jaclyn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 74
-        wins: 1
-        losses: 0
-      player2:
-        percent: 48
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NL'
-        position: Second
-        percent: 74
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Third
-        percent: 48
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(2)
-      score: NL 8 - NB 7
  - name: Weagle, Lisa
    totals:
     - event: Hearts

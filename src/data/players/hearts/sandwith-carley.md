@@ -71,7 +71,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Cunningham, Jessica
  - Daigle, Julie
  - Davies, Lisa
  - deSolla, Jodie
@@ -130,9 +129,10 @@ vs:
  - Sweeting, Val
  - Thevenot, Kara
  - Titheridge, Lindsay
- - Tuck, Kim
+ - Tuck, Kimberly
  - Udle, Teri
  - Wallingham, Patty
  - Weagle, Lisa
  - Wilkes, Sarah
+ - Wiseman, Jessica
 ---

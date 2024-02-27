@@ -4,18 +4,18 @@ name: Margot Flemming
 name-sort: Flemming, Margot
 totals:
  - event: Hearts
-   games: 26
-   wins: 14
-   losses: 12
-   inturn-total: 279
+   games: 34
+   wins: 17
+   losses: 17
+   inturn-total: 361
    inturn-percent: 77
-   outturn-total: 222
-   outturn-percent: 75
-   draw-total: 217
-   draw-percent: 81
-   takeout-total: 284
-   takeout-percent: 72
-   shots-total: 501
+   outturn-total: 296
+   outturn-percent: 76
+   draw-total: 278
+   draw-percent: 79
+   takeout-total: 379
+   takeout-percent: 74
+   shots-total: 657
    shots-percent: 76
 years:
  - year: 2021
@@ -72,8 +72,27 @@ years:
    takeout-percent: 72
    shots-total: 156
    shots-percent: 78
+ - year: 2024
+   event: Hearts
+   team: "NT"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 82
+   inturn-percent: 77
+   outturn-total: 74
+   outturn-percent: 78
+   draw-total: 61
+   draw-percent: 73
+   takeout-total: 95
+   takeout-percent: 80
+   shots-total: 156
+   shots-percent: 78
 vs:
  - Ackland, Abby
+ - Adams, Melissa
  - Armstrong, Hailey
  - Arsenault, Mary-Anne
  - Babin, Jillian
@@ -87,17 +106,22 @@ vs:
  - Brine, Jenn
  - Brothers, Jill
  - Brown, Rachel
+ - Brunton, Kira
  - Burgess, Karlee
  - Burns, Krysta
  - Burt, Camille
  - Cameron, Kate
- - Campbell, Kerry
  - Carmody, Erin
  - Carter, Sasha
+ - Christianson, Marie
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Curtis, Erica
  - Curtis, Stacie
+ - Daly, Calissa
+ - deGroot, Cassandra
  - Doerksen, Katherine
+ - Dubue, Lindsay
  - Duncan, Chelsea
  - Duncan, Hollie
  - Einarson, Kerri
@@ -105,18 +129,26 @@ vs:
  - Everist, Karlee
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Gates, Amanda
+ - Grandy, Clancy
  - Guy, Sara
  - Harris, Briane
  - Haughian, Jessie
+ - Helston, Raelyn
  - Homan, Rachel
  - Hynes, Julie
+ - Inglis, Danielle
  - Jones, Jennifer
  - Kelly, Andrea
+ - Lawes, Kaitlyn
  - Lenentine, Lauren
  - Lilly, Kendra
+ - Lister, Kendra
  - Loder, Jenna
  - Logan, Emma
+ - Loken, Sarah
+ - MacMillan, Kayla
  - McCarville, Krista
  - McDonald, Taylor
  - Miskew, Emma
@@ -126,10 +158,13 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Riley, Emily
+ - Rocque, Kelsey
  - Scheidegger, Casey
  - Schraeder, Jeanna
+ - Scoffin, Bayly
  - Scotland, Nadine
  - Sippala, Ashley
+ - Smith, Heather
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
@@ -140,6 +175,7 @@ vs:
  - Walker, Laura
  - Wallingham, Patty
  - Walter, Meghan
+ - Ward, Molli
  - Wilkes, Sarah
  - Zacharias, Emily
  - Zacharias, Mackenzie

@@ -286,34 +286,6 @@ vs:
       year: 2015
       draw: Round Robin(16)
       score: NS 5 - BC 4
- - name: Campbell, Kerry
-   totals:
-    - event: Hearts
-      player1:
-        percent: 100
-        wins: 1
-        losses: 0
-      player2:
-        percent: 63
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent: 100
-        win: 1
-        loss: 0
-      player2:
-        team: 'YT'
-        position: Second
-        percent: 63
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Round Robin(16)
-      score: YT 4 - NS 10
  - name: Carter, Sasha
    totals:
     - event: Hearts
@@ -514,34 +486,6 @@ vs:
       year: 2020
       draw: Round Robin(10)
       score: ON 10 - NS 7
- - name: Cunningham, Jessica
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 1
-        losses: 0
-      player2:
-        percent: 53
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Third
-        percent: 76
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 53
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(1)
-      score: NS 12 - NL 7
  - name: Curtis, Erica
    totals:
     - event: Hearts
@@ -1078,6 +1022,34 @@ vs:
       year: 2023
       draw: Playoff(20)
       score: NS 7 - ON 6
+ - name: Foster, Kerry
+   totals:
+    - event: Hearts
+      player1:
+        percent: 100
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Fourth
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 63
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(16)
+      score: YT 4 - NS 10
  - name: Fyfe, Liz
    totals:
     - event: Hearts
@@ -1966,13 +1938,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 74
-        wins: 2
-        losses: 2
+        percent: 68
+        wins: 1
+        losses: 1
       player2:
-        percent: 79
-        wins: 2
-        losses: 2
+        percent: 78
+        wins: 1
+        losses: 1
    games:
     - player1:
         team: 'NS'
@@ -2006,38 +1978,6 @@ vs:
       year: 2020
       draw: Round Robin(11)
       score: NS 7 - WC 9
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent: 74
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Fourth
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(3)
-      score: WC 6 - NS 5
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Fourth
-        percent: 81
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2023
-      draw: Tie-Breaker(19)
-      score: NS 7 - WC 6
  - name: Lawton, Stefanie
    totals:
     - event: Hearts
@@ -4590,6 +4530,34 @@ vs:
       year: 2018
       draw: Pool(16)
       score: CA 1 - NS 7
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 53
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Third
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 53
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(1)
+      score: NS 12 - NL 7
  - name: Wylie, Jennifer
    totals:
     - event: Hearts

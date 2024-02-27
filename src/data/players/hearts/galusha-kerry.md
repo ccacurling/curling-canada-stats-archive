@@ -4,19 +4,19 @@ name: Kerry Galusha
 name-sort: Galusha, Kerry
 totals:
  - event: Hearts
-   games: 157
-   wins: 51
-   losses: 106
-   inturn-total: 1739
-   inturn-percent: 73
-   outturn-total: 1210
-   outturn-percent: 71
-   draw-total: 1627
-   draw-percent: 72
-   takeout-total: 1322
-   takeout-percent: 71
-   shots-total: 2949
-   shots-percent: 72
+   games: 165
+   wins: 54
+   losses: 111
+   inturn-total: 1867
+   inturn-percent: 74
+   outturn-total: 1238
+   outturn-percent: 72
+   draw-total: 1768
+   draw-percent: 74
+   takeout-total: 1337
+   takeout-percent: 72
+   shots-total: 3105
+   shots-percent: 73
 years:
  - year: 1998
    event: Hearts
@@ -363,6 +363,24 @@ years:
    takeout-percent: 72
    shots-total: 156
    shots-percent: 87
+ - year: 2024
+   event: Hearts
+   team: "NT"
+   position: Lead
+   alternate: false
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 128
+   inturn-percent: 86
+   outturn-total: 28
+   outturn-percent: 89
+   draw-total: 141
+   draw-percent: 88
+   takeout-total: 15
+   takeout-percent: 77
+   shots-total: 156
+   shots-percent: 87
 vs:
  - Ackland, Abby
  - Adams, Melissa
@@ -410,6 +428,7 @@ vs:
  - Brown, Jacalyn
  - Brown, Janet
  - Brown, Rachel
+ - Brunton, Kira
  - Burgess, Carey
  - Burgess, Karlee
  - Burns, Krysta
@@ -418,7 +437,6 @@ vs:
  - Cameron, Kate
  - Cameron, Nancy
  - Campbell, Jolene
- - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carrier, Julie
@@ -431,14 +449,17 @@ vs:
  - Comeau, Sandy
  - Cordina, Sheri
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
+ - Daly, Calissa
  - Daniel, Sylvie
  - Darbyshire, Carolyn
+ - deGroot, Cassandra
  - deJager, Blaine
  - Delahunt, Nancy
  - Derick, Catherine
@@ -448,6 +469,7 @@ vs:
  - Doig, Deanna
  - Dolan, Kim
  - Dolan, Sinead
+ - Dubue, Lindsay
  - Dufresne, Audree
  - Duncan, Chelsea
  - Duncan, Hollie
@@ -467,6 +489,7 @@ vs:
  - Floyd, Kathy
  - Fortier, Marie-Josee
  - Forward, Katie
+ - Foster, Kerry
  - Fraser, Sherry
  - Frey, Audrey
  - Fullerton, Sarah
@@ -476,6 +499,7 @@ vs:
  - George, Tara
  - Gilman, Sheena
  - Goss, Peg
+ - Grandy, Clancy
  - Gregoire, Veronique
  - Grenier, Valerie
  - Gudereit, Marcia
@@ -493,6 +517,7 @@ vs:
  - Harvey, Janet
  - Haughian, Jessie
  - Hawes, Dezaray
+ - Helston, Raelyn
  - Hill, Trish
  - Holland, Amber
  - Hollands, Saskia
@@ -501,6 +526,7 @@ vs:
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hynes, Julie
+ - Inglis, Danielle
  - Inglis, Nancy
  - Iskiw, Beth
  - Jewer, Michelle
@@ -537,6 +563,7 @@ vs:
  - Loder, Cherie-Ann
  - Loder, Jenna
  - Logan, Emma
+ - Loken, Sarah
  - Lowther, Tammi
  - MacCuish, Kristin
  - MacDiarmid, Kristen
@@ -546,6 +573,7 @@ vs:
  - MacInnes, Allison
  - MacInnes, Grace
  - MacLean, Kari
+ - MacMillan, Kayla
  - MacPhee, Robyn
  - Mair, Jessica
  - Mallett, Marla
@@ -610,6 +638,7 @@ vs:
  - Riley, Emily
  - Robertson, Darcy
  - Robison, Michala
+ - Rocque, Kelsey
  - Rocque, Raylene
  - Ross, Allison
  - Rudulier, Andrea
@@ -621,6 +650,7 @@ vs:
  - Schneider, Lorraine
  - Schneider, Tammy
  - Schraeder, Jeanna
+ - Scoffin, Bayly
  - Scotland, Nadine
  - Scott, Kelly
  - Sharpe, Kelli
@@ -667,6 +697,7 @@ vs:
  - Wall, Kirsten
  - Wallingham, Patty
  - Walter, Meghan
+ - Ward, Molli
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa

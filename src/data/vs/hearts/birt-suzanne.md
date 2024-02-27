@@ -1310,6 +1310,34 @@ vs:
       year: 2022
       draw: Round Robin(9)
       score: PE 8 - WC 7
+ - name: Crandall, Jaclyn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 67
+        wins: 1
+        losses: 0
+      player2:
+        percent: 61
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Fourth
+        percent: 67
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 61
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(4)
+      score: NB 4 - PE 12
  - name: Cunningham, Cathy
    totals:
     - event: Hearts
@@ -1386,34 +1414,6 @@ vs:
       year: 2008
       draw: Round Robin(7)
       score: PE 8 - NL 9
- - name: Cunningham, Jessica
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 0
-        losses: 1
-      player2:
-        percent: 70
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2015
-      draw: Round Robin(4)
-      score: NL 7 - PE 4
  - name: Currie, Wendy
    totals:
     - event: Hearts
@@ -5740,10 +5740,10 @@ vs:
       player1:
         percent: 73
         wins: 2
-        losses: 6
+        losses: 5
       player2:
         percent: 81
-        wins: 6
+        wins: 5
         losses: 2
    games:
     - player1:
@@ -5858,22 +5858,6 @@ vs:
       year: 2021
       draw: Round Robin(15)
       score: MB 9 - PE 5
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Fourth
-        percent: 76
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(18)
-      score: PE 6 - WC 10
  - name: Lawton, Stefanie
    totals:
     - event: Hearts
@@ -11554,34 +11538,6 @@ vs:
       year: 2006
       draw: Round Robin(12)
       score: PE 6 - MB 7
- - name: Tingley, Jaclyn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 67
-        wins: 1
-        losses: 0
-      player2:
-        percent: 61
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent: 67
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Third
-        percent: 61
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(4)
-      score: NB 4 - PE 12
  - name: Todd, Fran
    totals:
     - event: Hearts
@@ -12382,6 +12338,34 @@ vs:
       year: 2011
       draw: Round Robin(15)
       score: PE 8 - MB 5
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 0
+        losses: 1
+      player2:
+        percent: 70
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2015
+      draw: Round Robin(4)
+      score: NL 7 - PE 4
  - name: Wylie, Jennifer
    totals:
     - event: Hearts

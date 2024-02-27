@@ -64,7 +64,6 @@ vs:
  - Bobbie, Tess
  - Burgess, Karlee
  - Cameron, Kate
- - Campbell, Kerry
  - Carter, Sasha
  - Christianson, Marie
  - Dubue, Lindsay
@@ -72,6 +71,7 @@ vs:
  - Einarson, Kerri
  - Flemming, Margot
  - Fleury, Tracy
+ - Foster, Kerry
  - Galusha, Kerry
  - Grandy, Clancy
  - Harris, Briane
@@ -79,7 +79,6 @@ vs:
  - Hughes, Meaghan
  - Just, Sherry
  - Koltun, Sarah
- - Lawes, Kaitlyn
  - Lenentine, Lauren
  - Lilly, Kendra
  - Loken, Sarah

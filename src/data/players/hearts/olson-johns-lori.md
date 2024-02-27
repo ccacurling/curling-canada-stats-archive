@@ -102,7 +102,6 @@ vs:
  - Comeau, Sandy
  - Cooper, Kathryn
  - Courtney, Joanne
- - Cunningham, Jessica
  - Delahunt, Nancy
  - Derick, Catherine
  - deSolla, Jodie
@@ -183,6 +182,7 @@ vs:
  - Weagle, Lisa
  - Wheatcroft, Georgina
  - Whitaker, Carol
+ - Wiseman, Jessica
  - Wylie, Jennifer
  - Zinck, Kay
 ---

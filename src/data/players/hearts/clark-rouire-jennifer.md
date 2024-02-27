@@ -118,7 +118,6 @@ vs:
  - Christianson, Marie
  - Cooper, Kathryn
  - Cormier, Sharon
- - Cunningham, Jessica
  - Dolan, Sinead
  - Ellis, Danielle
  - Filteau, Anne-Marie
@@ -147,4 +146,5 @@ vs:
  - Smith, Heather
  - Strong, Heather
  - Udle, Teri
+ - Wiseman, Jessica
 ---

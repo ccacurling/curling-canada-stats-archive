@@ -134,7 +134,6 @@ vs:
  - Brown, Rachel
  - Cameron, Kate
  - Campbell, June
- - Campbell, Kerry
  - Carey, Chelsea
  - Carter, Sasha
  - Christianson, Marie
@@ -158,6 +157,7 @@ vs:
  - Ferguson, Dana
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Frey, Audrey
  - Fullerton, Sarah
  - Fyfe, Liz

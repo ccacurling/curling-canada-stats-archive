@@ -4,18 +4,18 @@ name: Kerri Einarson
 name-sort: Einarson, Kerri
 totals:
  - event: Hearts
-   games: 78
-   wins: 62
-   losses: 16
-   inturn-total: 708
+   games: 88
+   wins: 69
+   losses: 19
+   inturn-total: 800
    inturn-percent: 82
-   outturn-total: 728
+   outturn-total: 822
    outturn-percent: 82
-   draw-total: 597
+   draw-total: 676
    draw-percent: 79
-   takeout-total: 839
+   takeout-total: 946
    takeout-percent: 84
-   shots-total: 1436
+   shots-total: 1622
    shots-percent: 82
 years:
  - year: 2016
@@ -126,6 +126,24 @@ years:
    takeout-percent: 87
    shots-total: 216
    shots-percent: 83
+ - year: 2024
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   alternate: false
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 92
+   inturn-percent: 82
+   outturn-total: 94
+   outturn-percent: 80
+   draw-total: 79
+   draw-percent: 81
+   takeout-total: 107
+   takeout-percent: 81
+   shots-total: 186
+   shots-percent: 81
 vs:
  - Ackerman, Skylar
  - Adams, Melissa
@@ -140,6 +158,7 @@ vs:
  - Barbour, Shona
  - Barker, Shelley
  - Baxter, Jennifer
+ - Best, Emily
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
@@ -156,7 +175,6 @@ vs:
  - Burns, Krysta
  - Cameron, Kate
  - Campbell, Jolene
- - Campbell, Kerry
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
@@ -164,7 +182,9 @@ vs:
  - Cote, Marie-Pier
  - Courtney, Joanne
  - Crouse, Jennifer
+ - Curtis, Erica
  - Curtis, Stacie
+ - DiCarlo, Jane
  - Doerksen, Katherine
  - Dolan, Sinead
  - Dubue, Lindsay
@@ -172,15 +192,18 @@ vs:
  - Duncan, Hollie
  - Duncan, Jenna
  - Eddy, Lori
+ - Elias, Mackenzie
  - Enge, Jenna
  - Englot, Michelle
  - Everist, Karlee
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
+ - Fisher, Sam
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
@@ -199,6 +222,7 @@ vs:
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hynes, Julie
+ - Jenkins, Whitney
  - Jones, Jennifer
  - Just, Sherry
  - Kelly, Andrea
@@ -228,6 +252,7 @@ vs:
  - MacPhail, Brigitte
  - MacPhee, Robyn
  - Martin, Nancy
+ - Mayne, Veronica
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
@@ -241,6 +266,7 @@ vs:
  - Njegovan, Selena
  - Officer, Jill
  - O'Neill, Brit
+ - Papley, Paige
  - Peterman, Jocelyn
  - Peters, Laine
  - Peterson, Beth
@@ -256,6 +282,7 @@ vs:
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Rocque, Kelsey
  - Routledge, Alanna
  - Routledge, Jill
  - Sagle, Karen
@@ -263,20 +290,27 @@ vs:
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
+ - Schmiemann, Danielle
  - Schraeder, Jeanna
  - Scotland, Nadine
  - Shea, Michelle
  - Silvernagle, Robyn
  - Simons, Renee
+ - Sinclair, Jamie
  - Sippala, Ashley
+ - Skinner, Kaylin
  - Skrlik, Ashton
  - Skrlik, Kayla
  - Smallwood, Jody
  - Smith, Megan
+ - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stremick, Taylor
  - Strybosch, Rachelle
+ - Sturmay, Selena
  - Taylor, Alison
+ - Thevenot, Ashley
  - Thevenot, Kara
  - Thompson, Karla
  - Tran, Brittany
@@ -289,12 +323,14 @@ vs:
  - Vautour, Carrie
  - Verreault, Noemie
  - Walker, Laura
+ - Walter, Meghan
  - Weagle, Lisa
  - Webster, Crystal
  - Westcott, Raunora
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Zacharias, Emily
  - Zacharias, Mackenzie
 ---

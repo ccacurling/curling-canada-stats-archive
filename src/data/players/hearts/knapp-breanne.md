@@ -118,6 +118,7 @@ vs:
  - Carey, Chelsea
  - Christianson, Marie
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Curtis, Stacie
  - Davies, Lisa
  - Doerksen, Katherine
@@ -163,7 +164,6 @@ vs:
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Sweeting, Val
- - Tingley, Jaclyn
  - Tran, Brittany
  - Udle, Teri
  - Walker, Laura

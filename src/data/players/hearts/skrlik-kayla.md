@@ -51,7 +51,6 @@ vs:
  - Harris, Briane
  - Hughes, Meaghan
  - Just, Sherry
- - Lawes, Kaitlyn
  - Loken, Sarah
  - MacCuish, Kristin
  - MacDonald, Kaitlin

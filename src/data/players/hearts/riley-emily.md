@@ -4,19 +4,19 @@ name: Emily Riley
 name-sort: Riley, Emily
 totals:
  - event: Hearts
-   games: 29
-   wins: 14
-   losses: 15
-   inturn-total: 310
+   games: 37
+   wins: 18
+   losses: 19
+   inturn-total: 378
    inturn-percent: 76
-   outturn-total: 258
-   outturn-percent: 72
-   draw-total: 252
-   draw-percent: 70
-   takeout-total: 316
-   takeout-percent: 77
-   shots-total: 568
-   shots-percent: 74
+   outturn-total: 337
+   outturn-percent: 74
+   draw-total: 319
+   draw-percent: 71
+   takeout-total: 396
+   takeout-percent: 78
+   shots-total: 715
+   shots-percent: 75
 years:
  - year: 2021
    event: Hearts
@@ -72,9 +72,29 @@ years:
    takeout-percent: 79
    shots-total: 168
    shots-percent: 75
+ - year: 2024
+   event: Hearts
+   team: "QC"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 68
+   inturn-percent: 74
+   outturn-total: 79
+   outturn-percent: 81
+   draw-total: 67
+   draw-percent: 75
+   takeout-total: 80
+   takeout-percent: 79
+   shots-total: 147
+   shots-percent: 77
 vs:
+ - Ackerman, Skylar
  - Adams, Melissa
  - Anderson, Sherry
+ - Armstrong, Jennifer
  - Arsenault, Mary-Anne
  - Arsenault-Bishop, Nicole
  - Balsdon, Megan
@@ -89,12 +109,16 @@ vs:
  - Brown, Corryn
  - Brown, Rachel
  - Burgess, Karlee
+ - Burt, Camille
  - Cameron, Kate
- - Campbell, Kerry
  - Carey, Chelsea
  - Carter, Sasha
  - Christianson, Marie
  - Courtney, Joanne
+ - Crandall, Jaclyn
+ - Curtis, Erica
+ - Curtis, Stacie
+ - DiCarlo, Jane
  - Doerksen, Katherine
  - Dubue, Lindsay
  - Duncan, Hollie
@@ -103,6 +127,7 @@ vs:
  - Everist, Karlee
  - Fisher, Sam
  - Flemming, Margot
+ - Foster, Kerry
  - Fyfe, Liz
  - Galusha, Kerry
  - Grandy, Clancy
@@ -113,13 +138,17 @@ vs:
  - Hill, Sarah
  - Homan, Rachel
  - Hughes, Meaghan
+ - Jenkins, Whitney
  - Jones, Jennifer
  - Just, Sherry
+ - Karwacki, Krysten
+ - Kelly, Andrea
  - Kitz, Chaelynn
  - Knapp, Breanne
  - Koltun, Sarah
  - Lawes, Kaitlyn
  - Lenentine, Lauren
+ - Lilly, Kendra
  - Lister, Kendra
  - Loder, Jenna
  - Loken, Sarah
@@ -128,29 +157,38 @@ vs:
  - MacMillan, Kayla
  - MacPhail, Brigitte
  - Martin, Nancy
+ - Mayne, Veronica
+ - McCarville, Krista
  - McDonald, Taylor
  - Mercer, Adrienne
  - Miskew, Emma
  - Njegovan, Selena
+ - Papley, Paige
  - Peterman, Jocelyn
  - Peterson, Beth
  - Pincott, Erin
  - Pinksen, Sadie
+ - Potts, Sarah
  - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
  - Schafer, Kelly
+ - Schmiemann, Danielle
  - Schraeder, Jeanna
  - Scotland, Nadine
  - Shea, Michelle
  - Silvernagle, Robyn
  - Simons, Renee
+ - Skinner, Kaylin
  - Skrlik, Ashton
  - Skrlik, Kayla
+ - Smith, Sabrina
+ - Stremick, Taylor
  - Strybosch, Rachelle
+ - Sturmay, Selena
  - Sweeting, Val
  - Taylor, Alison
+ - Thevenot, Ashley
  - Thevenot, Kara
- - Tingley, Jaclyn
  - Tran, Brittany
  - Tuor, Kimberly
  - Walker, Laura
@@ -158,6 +196,7 @@ vs:
  - Weagle, Lisa
  - Webster, Crystal
  - Wilkes, Sarah
+ - Wiseman, Jessica
  - Zacharias, Emily
  - Zacharias, Mackenzie
 ---

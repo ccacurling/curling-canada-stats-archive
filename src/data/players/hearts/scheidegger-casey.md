@@ -91,7 +91,6 @@ vs:
  - Burgess, Karlee
  - Burt, Camille
  - Cameron, Kate
- - Campbell, Kerry
  - Carey, Chelsea
  - Christianson, Marie
  - Courtney, Joanne
@@ -108,6 +107,7 @@ vs:
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gagne, Emilia

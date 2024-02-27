@@ -42,13 +42,13 @@ vs:
  - Burgess, Karlee
  - Burt, Camille
  - Cameron, Kate
- - Campbell, Kerry
  - Curtis, Erica
  - Curtis, Stacie
  - Duncan, Jenna
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Galusha, Kerry
  - Haughian, Jessie
  - Homan, Rachel
@@ -56,6 +56,7 @@ vs:
  - Jones, Jennifer
  - Kelly, Andrea
  - Koltun, Sarah
+ - Lawes, Kaitlyn
  - Lilly, Kendra
  - McCarville, Krista
  - McDonald, Taylor

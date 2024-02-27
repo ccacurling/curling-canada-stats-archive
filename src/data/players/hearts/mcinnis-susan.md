@@ -243,7 +243,6 @@ vs:
  - Courtney, Joanne
  - Crispo, Guylaine
  - Cunningham, Cathy
- - Cunningham, Jessica
  - Currie, Wendy
  - Daku, Karen
  - Daniel, Sylvie
@@ -463,6 +462,7 @@ vs:
  - Willms, Karri
  - Wilson, Patty
  - Wiltzen, Jan
+ - Wiseman, Jessica
  - Wylie, Jennifer
  - Zeller, Lori
  - Zielke, Colleen

@@ -136,6 +136,7 @@ vs:
  - Carmody, Erin
  - Christianson, Marie
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Crouse, Jennifer
  - Curtis, Stacie
  - Daigle, Julie
@@ -237,7 +238,6 @@ vs:
  - Sweeting, Val
  - Taylor, Alison
  - Thompson, Karla
- - Tingley, Jaclyn
  - Tran, Brittany
  - Vandale, Trysta
  - Van Osch, Kalia

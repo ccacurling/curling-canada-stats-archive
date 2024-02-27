@@ -70,7 +70,6 @@ vs:
  - Cooper, Kathryn
  - Courtney, Joanne
  - Crouse, Jennifer
- - Cunningham, Jessica
  - Curtis, Erica
  - Curtis, Stacie
  - Davies, Lisa
@@ -134,5 +133,6 @@ vs:
  - West, Christianne
  - Westcott, Raunora
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Wylie, Jennifer
 ---

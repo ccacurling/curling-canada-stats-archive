@@ -2,50 +2,6 @@
 title: Joanne Courtney Head-to-head
 name: Courtney, Joanne
 vs:
- - name: Cunningham, Jessica
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 2
-        losses: 0
-      player2:
-        percent: 79
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'AB'
-        position: Third
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 85
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2014
-      draw: Round Robin(11)
-      score: AB 9 - NL 5
-    - player1:
-        team: 'CA'
-        position: Second
-        percent: 80
-        win: 1
-        loss: 0
-      player2:
-        team: 'NL'
-        position: Second
-        percent: 73
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2015
-      draw: Round Robin(10)
-      score: NL 5 - CA 11
  - name: Curtis, Erica
    totals:
     - event: Hearts
@@ -6310,6 +6266,50 @@ vs:
       year: 2017
       draw: Final(22)
       score: MB 6 - ON 8
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 2
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 85
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2014
+      draw: Round Robin(11)
+      score: AB 9 - NL 5
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2015
+      draw: Round Robin(10)
+      score: NL 5 - CA 11
  - name: Wylie, Jennifer
    totals:
     - event: Hearts

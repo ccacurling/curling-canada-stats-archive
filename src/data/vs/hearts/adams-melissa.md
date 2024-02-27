@@ -270,6 +270,34 @@ vs:
       year: 2018
       draw: Round Robin(8)
       score: NS 7 - NB 6
+ - name: Brothers, Jill
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(4)
+      score: NB 8 - NS 10
  - name: Brown, Corryn
    totals:
     - event: Hearts
@@ -298,6 +326,90 @@ vs:
       year: 2021
       draw: Round Robin(15)
       score: BC 5 - NB 9
+ - name: Brunton, Kira
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(12)
+      score: NB 9 - ON 8
+ - name: Burgess, Karlee
+   totals:
+    - event: Hearts
+      player1:
+        percent: 59
+        wins: 0
+        losses: 1
+      player2:
+        percent: 95
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 59
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 95
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(8)
+      score: MB 11 - NB 3
+ - name: Cameron, Kate
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 74
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 74
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(2)
+      score: NB 5 - MB 10
  - name: Carey, Chelsea
    totals:
     - event: Hearts
@@ -326,16 +438,44 @@ vs:
       year: 2021
       draw: Round Robin(6)
       score: WC 9 - NB 2
+ - name: Carmody, Erin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 77
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Lead
+        percent: 77
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(4)
+      score: NB 8 - NS 10
  - name: Christianson, Marie
    totals:
     - event: Hearts
       player1:
-        percent: 62
+        percent: 66
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 80
-        wins: 1
+        percent: 74
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -354,6 +494,22 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: NB 4 - PE 12
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Second
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(4)
+      score: NB 8 - NS 10
  - name: Crouse, Jennifer
    totals:
     - event: Hearts
@@ -438,6 +594,90 @@ vs:
       year: 2018
       draw: Pool(18)
       score: NB 8 - NL 4
+ - name: Daly, Calissa
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(12)
+      score: NB 9 - ON 8
+ - name: deGroot, Cassandra
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 1
+        losses: 0
+      player2:
+        percent: 96
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(12)
+      score: NB 9 - ON 8
+ - name: Dubue, Lindsay
+   totals:
+    - event: Hearts
+      player1:
+        percent: 45
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 45
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(10)
+      score: BC 9 - NB 3
  - name: Duncan, Chelsea
    totals:
     - event: Hearts
@@ -550,6 +790,34 @@ vs:
       year: 2018
       draw: Round Robin(2)
       score: WC 8 - NB 6
+ - name: Elias, Mackenzie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(2)
+      score: NB 5 - MB 10
  - name: Enge, Jenna
    totals:
     - event: Hearts
@@ -662,16 +930,44 @@ vs:
       year: 2021
       draw: Round Robin(15)
       score: BC 5 - NB 9
+ - name: Flemming, Margot
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(6)
+      score: NT 5 - NB 7
  - name: Fleury, Tracy
    totals:
     - event: Hearts
       player1:
-        percent: 70
-        wins: 1
-        losses: 0
-      player2:
         percent: 69
-        wins: 0
+        wins: 1
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -690,6 +986,50 @@ vs:
       year: 2018
       draw: Round Robin(4)
       score: NO 5 - NB 8
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(16)
+      score: NB 3 - ON 9
+ - name: Foster, Kerry
+   totals:
+    - event: Hearts
+      player1:
+        percent: 49
+        wins: 0
+        losses: 1
+      player2:
+        percent: 71
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 49
+        win: 0
+        loss: 1
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 71
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(18)
+      score: YT 11 - NB 4
  - name: Fyfe, Liz
    totals:
     - event: Hearts
@@ -738,13 +1078,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 64
-        wins: 1
+        percent: 68
+        wins: 2
         losses: 0
       player2:
-        percent: 79
+        percent: 80
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NB'
@@ -762,6 +1102,22 @@ vs:
       year: 2018
       draw: Round Robin(6)
       score: NB 8 - NT 7
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(6)
+      score: NT 5 - NB 7
  - name: Gates, Amanda
    totals:
     - event: Hearts
@@ -790,6 +1146,34 @@ vs:
       year: 2018
       draw: Round Robin(4)
       score: NO 5 - NB 8
+ - name: Grandy, Clancy
+   totals:
+    - event: Hearts
+      player1:
+        percent: 45
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 45
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(10)
+      score: BC 9 - NB 3
  - name: Griffin, Alison
    totals:
     - event: Hearts
@@ -874,6 +1258,34 @@ vs:
       year: 2021
       draw: Round Robin(15)
       score: BC 5 - NB 9
+ - name: Helston, Raelyn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 49
+        wins: 0
+        losses: 1
+      player2:
+        percent: 71
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 49
+        win: 0
+        loss: 1
+      player2:
+        team: 'YT'
+        position: Third
+        percent: 71
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(18)
+      score: YT 11 - NB 4
  - name: Hill, Sarah
    totals:
     - event: Hearts
@@ -902,6 +1314,34 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: NL 8 - NB 7
+ - name: Homan, Rachel
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 99
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 99
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(16)
+      score: NB 3 - ON 9
  - name: Hughes, Meaghan
    totals:
     - event: Hearts
@@ -958,16 +1398,44 @@ vs:
       year: 2018
       draw: Pool(18)
       score: NB 8 - NL 4
+ - name: Inglis, Danielle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 80
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(12)
+      score: NB 9 - ON 8
  - name: Jones, Jennifer
    totals:
     - event: Hearts
       player1:
-        percent: 71
+        percent: 67
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 89
-        wins: 2
+        percent: 86
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -1002,6 +1470,22 @@ vs:
       year: 2021
       draw: Round Robin(17)
       score: NB 3 - MB 12
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 59
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(8)
+      score: MB 11 - NB 3
  - name: Kitz, Chaelynn
    totals:
     - event: Hearts
@@ -1090,13 +1574,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 64
-        wins: 1
+        percent: 68
+        wins: 2
         losses: 0
       player2:
-        percent: 78
+        percent: 81
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NB'
@@ -1114,6 +1598,22 @@ vs:
       year: 2018
       draw: Round Robin(6)
       score: NB 8 - NT 7
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(6)
+      score: NT 5 - NB 7
  - name: Korchinski, Karlee
    totals:
     - event: Hearts
@@ -1170,6 +1670,34 @@ vs:
       year: 2021
       draw: Round Robin(17)
       score: NB 3 - MB 12
+ - name: Loken, Sarah
+   totals:
+    - event: Hearts
+      player1:
+        percent: 45
+        wins: 0
+        losses: 1
+      player2:
+        percent: 77
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 45
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Lead
+        percent: 77
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(10)
+      score: BC 9 - NB 3
  - name: MacCuish, Kristin
    totals:
     - event: Hearts
@@ -1242,6 +1770,34 @@ vs:
       year: 2021
       draw: Round Robin(13)
       score: NU 8 - NB 9
+ - name: MacMillan, Kayla
+   totals:
+    - event: Hearts
+      player1:
+        percent: 45
+        wins: 0
+        losses: 1
+      player2:
+        percent: 70
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 45
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(10)
+      score: BC 9 - NB 3
  - name: Martin, Nancy
    totals:
     - event: Hearts
@@ -1326,6 +1882,34 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: NL 8 - NB 7
+ - name: Miskew, Emma
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Second
+        percent: 90
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(16)
+      score: NB 3 - ON 9
  - name: Njegovan, Selena
    totals:
     - event: Hearts
@@ -1566,6 +2150,90 @@ vs:
       year: 2021
       draw: Round Robin(19)
       score: NB 7 - QC 9
+ - name: Rizzo, Jo-Ann
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(6)
+      score: NT 5 - NB 7
+ - name: Rocque, Kelsey
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(2)
+      score: NB 5 - MB 10
+ - name: Scoffin, Bayly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 49
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 49
+        win: 0
+        loss: 1
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(18)
+      score: YT 11 - NB 4
  - name: Shea, Michelle
    totals:
     - event: Hearts
@@ -1622,6 +2290,34 @@ vs:
       year: 2018
       draw: Round Robin(14)
       score: NB 6 - YT 3
+ - name: Smith, Heather
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(4)
+      score: NB 8 - NS 10
  - name: St-Georges, Cynthia
    totals:
     - event: Hearts
@@ -1678,6 +2374,62 @@ vs:
       year: 2021
       draw: Round Robin(19)
       score: NB 7 - QC 9
+ - name: Strong, Helen
+   totals:
+    - event: Hearts
+      player1:
+        percent: 49
+        wins: 0
+        losses: 1
+      player2:
+        percent: 74
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 49
+        win: 0
+        loss: 1
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 74
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(18)
+      score: YT 11 - NB 4
+ - name: Walter, Meghan
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(2)
+      score: NB 5 - MB 10
  - name: Weagle, Lisa
    totals:
     - event: Hearts
@@ -1762,4 +2514,60 @@ vs:
       year: 2021
       draw: Round Robin(17)
       score: NB 3 - MB 12
+ - name: Wilkes, Sarah
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(16)
+      score: NB 3 - ON 9
+ - name: Zacharias, Emily
+   totals:
+    - event: Hearts
+      player1:
+        percent: 59
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 59
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(8)
+      score: MB 11 - NB 3
 ---

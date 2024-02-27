@@ -384,7 +384,6 @@ vs:
  - Camozzi, Rhonda
  - Campbell, Gloria
  - Campbell, June
- - Campbell, Kerry
  - Carrier, Julie
  - Carter, Sasha
  - Charette, Agnes
@@ -402,7 +401,6 @@ vs:
  - Cormier, Sharon
  - Courtney, Joanne
  - Cunningham, Cathy
- - Cunningham, Jessica
  - Curtis, Erica
  - Curtis, Stacie
  - Daku, Karen
@@ -440,6 +438,7 @@ vs:
  - Floyd, Kathy
  - Fortier, Marie-Josee
  - Fortin, Sylvie
+ - Foster, Kerry
  - Fowler, Lois
  - Freeman, Lisa
  - Frey, Audrey
@@ -691,6 +690,7 @@ vs:
  - Whitrow, Leanne
  - Willms, Karri
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Wright, Joanne
  - Wright, Susan
  - Wylie, Jennifer

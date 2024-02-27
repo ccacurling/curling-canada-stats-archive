@@ -50,7 +50,6 @@ vs:
  - Camozzi, Rhonda
  - Cooper, Kathryn
  - Courtney, Joanne
- - Cunningham, Jessica
  - Enge, Jenna
  - Ferguson, Dana
  - Filteau, Anne-Marie
@@ -80,5 +79,6 @@ vs:
  - Strong, Heather
  - Sweeting, Val
  - Weagle, Lisa
+ - Wiseman, Jessica
  - Wylie, Jennifer
 ---

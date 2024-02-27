@@ -4,18 +4,18 @@ name: Marie Christianson
 name-sort: Christianson, Marie
 totals:
  - event: Hearts
-   games: 57
-   wins: 25
-   losses: 32
-   inturn-total: 524
-   inturn-percent: 77
-   outturn-total: 574
-   outturn-percent: 80
-   draw-total: 562
-   draw-percent: 78
-   takeout-total: 536
+   games: 65
+   wins: 28
+   losses: 37
+   inturn-total: 615
+   inturn-percent: 76
+   outturn-total: 641
+   outturn-percent: 79
+   draw-total: 648
+   draw-percent: 77
+   takeout-total: 608
    takeout-percent: 79
-   shots-total: 1098
+   shots-total: 1256
    shots-percent: 78
 years:
  - year: 2016
@@ -126,6 +126,24 @@ years:
    takeout-percent: 77
    shots-total: 148
    shots-percent: 73
+ - year: 2024
+   event: Hearts
+   team: "NS"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 91
+   inturn-percent: 71
+   outturn-total: 67
+   outturn-percent: 72
+   draw-total: 86
+   draw-percent: 67
+   takeout-total: 72
+   takeout-percent: 77
+   shots-total: 158
+   shots-percent: 72
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -150,23 +168,33 @@ vs:
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Brunton, Kira
+ - Burgess, Karlee
+ - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
  - Carter, Sasha
  - Clark-Rouire, Jennifer
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Curtis, Erica
  - Curtis, Stacie
+ - Daly, Calissa
+ - deGroot, Cassandra
  - Dubue, Lindsay
  - Duncan, Chelsea
  - Eddy, Lori
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Enge, Jenna
  - Everist, Karlee
  - Ferguson, Dana
  - Fisher, Sam
  - Flaxey, Allison
+ - Flemming, Margot
+ - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Fyfe, Liz
  - Galusha, Kerry
  - Gamble, Christie
@@ -181,11 +209,13 @@ vs:
  - Harris, Briane
  - Haughian, Jessie
  - Hawes, Dezaray
+ - Helston, Raelyn
  - Hill, Sarah
  - Homan, Rachel
  - Howard, Ashley
  - Hunkin, Jessie
  - Hynes, Julie
+ - Inglis, Danielle
  - Jewer, Michelle
  - Jones, Jennifer
  - Just, Sherry
@@ -238,6 +268,7 @@ vs:
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Rocque, Kelsey
  - Routledge, Alanna
  - Rusnell, Jen
  - Sagle, Karen
@@ -245,6 +276,7 @@ vs:
  - Schafer, Kelly
  - Scheidegger, Casey
  - Schmidt, Stephanie
+ - Scoffin, Bayly
  - Sharpe, Kelli
  - Shaw, Ladene
  - Sicinski, Danielle
@@ -259,16 +291,17 @@ vs:
  - Taylor, Alison
  - Thevenot, Kara
  - Thompson, Karla
- - Tingley, Jaclyn
  - Tran, Brittany
  - Tuor, Kimberly
  - Udle, Teri
  - Vandale, Trysta
  - Vautour, Carrie
  - Walker, Laura
+ - Ward, Molli
  - Wark, Sarah
  - Weagle, Lisa
  - Westcott, Raunora
  - Wilkes, Sarah
  - Williamson, Ashley
+ - Zacharias, Emily
 ---

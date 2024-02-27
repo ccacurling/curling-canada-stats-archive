@@ -264,7 +264,6 @@ vs:
  - Cameron, Kate
  - Cameron, Nancy
  - Campbell, Jolene
- - Campbell, Kerry
  - Carmody, Erin
  - Carrier, Julie
  - Cheveldave, Amber
@@ -301,6 +300,7 @@ vs:
  - Flemming, Margot
  - Fleury, Tracy
  - Fortier, Marie-Josee
+ - Foster, Kerry
  - Fullerton, Sarah
  - Gagnier, Monique
  - Galusha, Kerry

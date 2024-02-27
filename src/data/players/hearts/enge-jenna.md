@@ -119,7 +119,6 @@ vs:
  - Cormier, Sharon
  - Courtney, Joanne
  - Cunningham, Jennifer
- - Cunningham, Jessica
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Hollie
@@ -208,4 +207,5 @@ vs:
  - Weagle, Lisa
  - Whitaker, Carol
  - Wilkes, Sarah
+ - Wiseman, Jessica
 ---

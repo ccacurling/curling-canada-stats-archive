@@ -598,34 +598,6 @@ vs:
       year: 2017
       draw: Round Robin(14)
       score: PE 4 - AB 6
- - name: Tingley, Jaclyn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 70
-        wins: 1
-        losses: 0
-      player2:
-        percent: 61
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Lead
-        percent: 70
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Third
-        percent: 61
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(4)
-      score: NB 4 - PE 12
  - name: Tran, Brittany
    totals:
     - event: Hearts
@@ -1166,6 +1138,34 @@ vs:
       year: 2018
       draw: Round Robin(11)
       score: CA 7 - PE 5
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 0
+        losses: 1
+      player2:
+        percent: 70
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2015
+      draw: Round Robin(4)
+      score: NL 7 - PE 4
  - name: Wylie, Jennifer
    totals:
     - event: Hearts

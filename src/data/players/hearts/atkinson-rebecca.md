@@ -137,7 +137,6 @@ vs:
  - Court, Morgan
  - Courtney, Joanne
  - Cunningham, Jennifer
- - Cunningham, Jessica
  - Curtis, Stacie
  - deJager, Blaine
  - Dolan, Kim
@@ -261,5 +260,6 @@ vs:
  - Weagle, Lisa
  - Wilkes, Sarah
  - Williamson, Ashley
+ - Wiseman, Jessica
  - Wylie, Jennifer
 ---

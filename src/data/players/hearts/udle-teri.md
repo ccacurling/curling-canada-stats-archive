@@ -139,7 +139,6 @@ vs:
  - Court, Morgan
  - Courtney, Joanne
  - Cunningham, Jennifer
- - Cunningham, Jessica
  - Curtis, Stacie
  - Daniel, Sylvie
  - Darbyshire, Carolyn
@@ -270,5 +269,6 @@ vs:
  - Whitaker, Carol
  - Williamson, Ashley
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Wylie, Jennifer
 ---

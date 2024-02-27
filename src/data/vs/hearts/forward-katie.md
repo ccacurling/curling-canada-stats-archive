@@ -2,6 +2,34 @@
 title: Katie Forward Head-to-head
 name: Forward, Katie
 vs:
+ - name: Foster, Kerry
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 63
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(6)
+      score: NB 14 - YT 3
  - name: Fyfe, Liz
    totals:
     - event: Hearts

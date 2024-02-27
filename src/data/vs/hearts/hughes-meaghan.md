@@ -592,10 +592,10 @@ vs:
       player1:
         percent: 84
         wins: 1
-        losses: 4
+        losses: 3
       player2:
-        percent: 78
-        wins: 4
+        percent: 79
+        wins: 3
         losses: 1
    games:
     - player1:
@@ -662,22 +662,6 @@ vs:
       year: 2021
       draw: Round Robin(15)
       score: MB 9 - PE 5
-    - player1:
-        team: 'PE'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Fourth
-        percent: 76
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(18)
-      score: PE 6 - WC 10
  - name: Lawton, Stefanie
    totals:
     - event: Hearts
@@ -3746,34 +3730,6 @@ vs:
       year: 2016
       draw: Round Robin(13)
       score: BC 4 - PE 6
- - name: Tingley, Jaclyn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 88
-        wins: 1
-        losses: 0
-      player2:
-        percent: 61
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Third
-        percent: 61
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(4)
-      score: NB 4 - PE 12
  - name: Tran, Brittany
    totals:
     - event: Hearts

@@ -2,6 +2,34 @@
 title: Jo-Ann Rizzo Head-to-head
 name: Rizzo, Jo-Ann
 vs:
+ - name: Rocque, Kelsey
+   totals:
+    - event: Hearts
+      player1:
+        percent: 82
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(12)
+      score: MB 9 - NT 5
  - name: Scheidegger, Casey
    totals:
     - event: Hearts
@@ -58,6 +86,34 @@ vs:
       year: 2022
       draw: Round Robin(16)
       score: BC 11 - NT 6
+ - name: Scoffin, Bayly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(16)
+      score: YT 3 - NT 12
  - name: Scotland, Nadine
    totals:
     - event: Hearts
@@ -142,6 +198,34 @@ vs:
       year: 2023
       draw: Round Robin(12)
       score: NT 4 - NO 5
+ - name: Smith, Heather
+   totals:
+    - event: Hearts
+      player1:
+        percent: 61
+        wins: 0
+        losses: 1
+      player2:
+        percent: 96
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 96
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(14)
+      score: NT 5 - NS 7
  - name: Smith, Megan
    totals:
     - event: Hearts
@@ -331,12 +415,12 @@ vs:
     - event: Hearts
       player1:
         percent: 78
-        wins: 3
+        wins: 4
         losses: 0
       player2:
-        percent: 75
+        percent: 78
         wins: 0
-        losses: 3
+        losses: 4
    games:
     - player1:
         team: 'NT'
@@ -386,6 +470,22 @@ vs:
       year: 2023
       draw: Round Robin(17)
       score: YT 6 - NT 9
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(16)
+      score: YT 3 - NT 12
  - name: Walker, Laura
    totals:
     - event: Hearts
@@ -464,10 +564,10 @@ vs:
       player1:
         percent: 83
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 72
-        wins: 1
+        percent: 71
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -486,6 +586,50 @@ vs:
       year: 2023
       draw: Round Robin(6)
       score: WC 8 - NT 6
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(12)
+      score: MB 9 - NT 5
+ - name: Ward, Molli
+   totals:
+    - event: Hearts
+      player1:
+        percent: 66
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(6)
+      score: NT 5 - NB 7
  - name: Weagle, Lisa
    totals:
     - event: Hearts
@@ -518,12 +662,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 90
+        percent: 85
         wins: 2
-        losses: 0
+        losses: 1
       player2:
-        percent: 83
-        wins: 0
+        percent: 84
+        wins: 1
         losses: 2
    games:
     - player1:
@@ -558,17 +702,33 @@ vs:
       year: 2023
       draw: Round Robin(4)
       score: NT 8 - ON 4
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(2)
+      score: NT 5 - ON 9
  - name: Zacharias, Emily
    totals:
     - event: Hearts
       player1:
-        percent: 74
-        wins: 3
+        percent: 76
+        wins: 4
         losses: 0
       player2:
-        percent: 76
+        percent: 74
         wins: 0
-        losses: 3
+        losses: 4
    games:
     - player1:
         team: 'NT'
@@ -618,6 +778,22 @@ vs:
       year: 2022
       draw: Tie-Breaker(19)
       score: MB 6 - NT 8
+    - player1:
+        team: 'NT'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 69
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(18)
+      score: MB 4 - NT 8
  - name: Zacharias, Mackenzie
    totals:
     - event: Hearts

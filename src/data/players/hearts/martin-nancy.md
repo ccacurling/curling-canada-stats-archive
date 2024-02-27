@@ -49,6 +49,7 @@ vs:
  - Carey, Chelsea
  - Christianson, Marie
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Doerksen, Katherine
  - Eddy, Lori
  - Einarson, Kerri
@@ -80,7 +81,6 @@ vs:
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Sweeting, Val
- - Tingley, Jaclyn
  - Tran, Brittany
  - Walker, Laura
  - Weagle, Lisa

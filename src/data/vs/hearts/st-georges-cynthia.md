@@ -74,34 +74,6 @@ vs:
       year: 2022
       draw: Round Robin(6)
       score: CA 8 - QC 5
- - name: Tingley, Jaclyn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 64
-        wins: 1
-        losses: 0
-      player2:
-        percent: 69
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Lead
-        percent: 64
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Third
-        percent: 69
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(19)
-      score: NB 7 - QC 9
  - name: Tran, Brittany
    totals:
     - event: Hearts

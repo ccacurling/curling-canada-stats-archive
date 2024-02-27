@@ -225,7 +225,6 @@ vs:
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
- - Cunningham, Jessica
  - Currie, Wendy
  - Daniel, Sylvie
  - Darbyshire, Carolyn
@@ -412,6 +411,7 @@ vs:
  - Vey, Lana
  - Wallingham, Patty
  - Weagle, Lisa
+ - Wiseman, Jessica
  - Wright, Susan
  - Wylie, Jennifer
  - Zinck, Kay

@@ -104,7 +104,6 @@ vs:
  - Collins, Katrina
  - Cooper, Kathryn
  - Courtney, Joanne
- - Cunningham, Jessica
  - deSolla, Jodie
  - Einarson, Kerri
  - Enge, Jenna
@@ -157,5 +156,6 @@ vs:
  - Trombley, Christy
  - Weagle, Lisa
  - Wilkes, Sarah
+ - Wiseman, Jessica
  - Wylie, Jennifer
 ---

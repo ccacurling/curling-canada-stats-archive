@@ -51,7 +51,6 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
- - Cunningham, Jessica
  - Davies, Lisa
  - deSolla, Jodie
  - Dolan, Kim
@@ -86,4 +85,5 @@ vs:
  - Van Osch, Kesa
  - Wallingham, Patty
  - Weagle, Lisa
+ - Wiseman, Jessica
 ---

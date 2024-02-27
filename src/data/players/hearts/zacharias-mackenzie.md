@@ -91,7 +91,6 @@ vs:
  - Burns, Krysta
  - Burt, Camille
  - Cameron, Kate
- - Campbell, Kerry
  - Carmody, Erin
  - Carter, Sasha
  - Courtney, Joanne
@@ -107,6 +106,7 @@ vs:
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Galusha, Kerry
  - Grandy, Clancy
  - Guy, Sara
@@ -116,6 +116,7 @@ vs:
  - Hynes, Julie
  - Kelly, Andrea
  - Koltun, Sarah
+ - Lawes, Kaitlyn
  - Lilly, Kendra
  - Loder, Jenna
  - Logan, Emma

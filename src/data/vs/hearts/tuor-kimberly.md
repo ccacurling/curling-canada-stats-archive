@@ -90,12 +90,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 94
+        percent: 92
         wins: 0
-        losses: 1
+        losses: 2
       player2:
         percent: 100
-        wins: 1
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -114,16 +114,32 @@ vs:
       year: 2023
       draw: Round Robin(9)
       score: ON 13 - YT 8
+    - player1:
+        team: 'YT'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 100
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(8)
+      score: YT 2 - ON 11
  - name: Zacharias, Emily
    totals:
     - event: Hearts
       player1:
-        percent: 84
+        percent: 90
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 84
-        wins: 1
+        percent: 88
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -142,6 +158,22 @@ vs:
       year: 2022
       draw: Round Robin(6)
       score: MB 12 - YT 3
+    - player1:
+        team: 'YT'
+        position: Lead
+        percent: 95
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(4)
+      score: MB 14 - YT 4
  - name: Zacharias, Mackenzie
    totals:
     - event: Hearts

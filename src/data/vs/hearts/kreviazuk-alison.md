@@ -1998,4 +1998,32 @@ vs:
       year: 2011
       draw: Round Robin(13)
       score: ON 6 - MB 10
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2014
+      draw: Round Robin(16)
+      score: NL 4 - CA 9
 ---
