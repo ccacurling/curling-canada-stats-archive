@@ -4,18 +4,18 @@ name: Brad Gushue
 name-sort: Gushue, Brad
 totals:
  - event: Brier
-   games: 246
-   wins: 172
-   losses: 74
-   inturn-total: 1876
+   games: 257
+   wins: 181
+   losses: 76
+   inturn-total: 1953
    inturn-percent: 86
-   outturn-total: 2699
-   outturn-percent: 85
-   draw-total: 2009
+   outturn-total: 2820
+   outturn-percent: 86
+   draw-total: 2082
    draw-percent: 85
-   takeout-total: 2566
+   takeout-total: 2691
    takeout-percent: 86
-   shots-total: 4575
+   shots-total: 4773
    shots-percent: 86
 years:
  - year: 2003
@@ -378,6 +378,24 @@ years:
    takeout-percent: 90
    shots-total: 204
    shots-percent: 90
+ - year: 2024
+   event: Brier
+   team: "CA"
+   position: Fourth
+   alternate: false
+   games: 11
+   wins: 9
+   losses: 2
+   inturn-total: 77
+   inturn-percent: 90
+   outturn-total: 121
+   outturn-percent: 89
+   draw-total: 73
+   draw-percent: 93
+   takeout-total: 125
+   takeout-percent: 88
+   shots-total: 198
+   shots-percent: 90
 vs:
  - Abraham, Ryan
  - Adam, Gerry
@@ -388,6 +406,7 @@ vs:
  - Ardiel, Taylor
  - Armstrong, Mike
  - Arsenault, Craig
+ - Arsenault, Jean-Michel
  - Asselin, Emile
  - Asselin, Felix
  - Atchison, Chris
@@ -412,6 +431,7 @@ vs:
  - Bottcher, Brendan
  - Bouchard, Christian
  - Brannen, Jamie
+ - Brassard, Philippe
  - Breckon, Graham
  - Bryant, Doug
  - Bubbs, John
@@ -457,6 +477,7 @@ vs:
  - Dobson, Paul
  - Doering, Kyle
  - Doherty, Robbie
+ - Drummond, Kerr
  - Dunstone, Matt
  - Dutiaume, Randy
  - Eckstrand, Dustin
@@ -488,6 +509,7 @@ vs:
  - Gagnon, Jean
  - Gagnon, Steeve
  - Gallant, Brett
+ - Gallant, Chris
  - Gallant, Peter
  - Gamble, Bill
  - Gaudet, Mike
@@ -520,6 +542,7 @@ vs:
  - Harris, Tyler
  - Hart, Joey
  - Hart, Richard
+ - Harty, Jeremy
  - Hebert, Ben
  - Hemmings, Guy
  - Henderson, Scott
@@ -574,6 +597,7 @@ vs:
  - Landry, Jeremy
  - Lang, Tyler
  - Lappalainen, Art
+ - Latimer, Shane
  - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
@@ -600,6 +624,7 @@ vs:
  - MacLean, Stuart
  - Mallais, Jeremy
  - Manners, Scott
+ - Manuel, Matthew
  - March, Tim
  - Markowsky, Rob
  - Marsh, Dan
@@ -617,8 +642,10 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
+ - Mcleod, Shadrach
  - Meachem, Shaun Myles
  - Mead, Jon
+ - Meagher, Jeffrey
  - Meister, Nicholas
  - Melnichuk, Greg
  - Menard, Jean-Michel
@@ -634,6 +661,7 @@ vs:
  - Moskowy, Braeden
  - Moss, Steve
  - Moulding, Darren
+ - Mullen, Jesse
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
@@ -682,6 +710,7 @@ vs:
  - Rycroft, Carter
  - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Savill, Craig
  - Sawatsky, Rick
  - Scales, Bob
@@ -698,6 +727,7 @@ vs:
  - Simmons, Pat
  - Skauge, Greg
  - Slauenwhite, David
+ - Sluchinski, Aaron
  - Smith, Garth
  - Smith, Greg
  - Smith, Kent
@@ -707,6 +737,7 @@ vs:
  - Sosiak, Jim
  - Spencer, Adam
  - Spicer, Grant
+ - St.Louis, Brady
  - St.Louis, David
  - Steele, Colten
  - Steski, John
@@ -716,12 +747,14 @@ vs:
  - Sullivan, Evan
  - Sumner, Kevin
  - Sylvain, Eric
+ - Tardi, Tyler
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thompson, Stuart
  - Thomson, Fred
  - Toner, Lee
+ - Tremblay, Julien
  - Trepanier, Jean-Francois
  - Trevellyan, Todd
  - Turpin, Randy
@@ -733,6 +766,7 @@ vs:
  - Wall, Trevor
  - Wasnea, Brian
  - Watson, Aaron
+ - Webster, Dylan
  - Wempe, Brian
  - Westphal, Don
  - Wettig, Sheldon
@@ -743,4 +777,5 @@ vs:
  - Wood, Brad
  - Wood, Mike
  - Wozniak, Matt
+ - Zachernuk, Nick
 ---

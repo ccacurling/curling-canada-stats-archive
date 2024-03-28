@@ -4,19 +4,19 @@ name: Shadrach Mcleod
 name-sort: Mcleod, Shadrach
 totals:
  - event: Brier
-   games: 18
-   wins: 4
-   losses: 14
-   inturn-total: 114
-   inturn-percent: 83
-   outturn-total: 176
-   outturn-percent: 75
-   draw-total: 202
-   draw-percent: 79
-   takeout-total: 88
+   games: 27
+   wins: 9
+   losses: 18
+   inturn-total: 219
+   inturn-percent: 86
+   outturn-total: 233
+   outturn-percent: 76
+   draw-total: 349
+   draw-percent: 82
+   takeout-total: 103
    takeout-percent: 76
-   shots-total: 290
-   shots-percent: 78
+   shots-total: 452
+   shots-percent: 81
 years:
  - year: 2019
    event: Brier
@@ -72,25 +72,52 @@ years:
    takeout-percent: 63
    shots-total: 150
    shots-percent: 83
+ - year: 2024
+   event: Brier
+   team: "NT"
+   position: Lead
+   alternate: false
+   games: 9
+   wins: 5
+   losses: 4
+   inturn-total: 105
+   inturn-percent: 88
+   outturn-total: 57
+   outturn-percent: 80
+   draw-total: 147
+   draw-percent: 86
+   takeout-total: 15
+   takeout-percent: 77
+   shots-total: 162
+   shots-percent: 85
 vs:
  - Armstrong, Mike
+ - Arsenault, Jean-Michel
  - Beuk, Jonathan
  - Brannen, Jamie
+ - Brassard, Philippe
  - Camm, Mathew
  - Carruthers, Reid
  - Chadwick, Scott
+ - Cocks, Adam
  - Cotter, Jim
  - Dobson, Paul
+ - Drummond, Kerr
  - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
  - Follett, Sam
  - Forget, Wesley
  - Fry, Ryan
- - Gordon, Robbie
+ - Gallant, Chris
+ - Gauthier, Jacques
+ - Gordon, Rob
  - Grant, Jeff
  - Grattan, James
+ - Gushue, Brad
+ - Harnden, E.J.
  - Harnden, Ryan
+ - Harty, Jeremy
  - Hebert, Ben
  - Higgs, Jake
  - Hodgson, Colin
@@ -104,12 +131,15 @@ vs:
  - Knapp, Trent
  - Koe, Kevin
  - Laing, Brent
+ - Latimer, Shane
  - Laycock, Steve
  - LeCocq, Marc
  - Locke, Nathan
  - Lott, Colton
  - Mackey, Peter
  - Manuel, Matthew
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - McCann, Andy
  - McDonald, Scott
@@ -117,9 +147,11 @@ vs:
  - Meagher, Jeffrey
  - Moskowy, Braeden
  - Moulding, Darren
+ - Mullen, Jesse
  - Nadeau, Jeff
  - Nerpin, Andrew
  - Neufeld, B.J.
+ - Nichols, Mark
  - Njegovan, Connor
  - Odishaw, Grant
  - Odishaw, Terry
@@ -129,14 +161,19 @@ vs:
  - Sawatsky, Rick
  - Schneider, Catlin
  - Scoffin, Thomas
+ - Sluchinski, Aaron
+ - Smith, Tyler
  - Smitheram, Christian
  - St.Louis, Brady
  - St.Louis, David
  - Stringer, Ben
- - Tardi, Tyler
  - Thiessen, Brad
+ - Tremblay, Julien
+ - Walker, Geoff
  - Wallingham, Joe
+ - Webster, Dylan
  - Wettig, Sheldon
+ - White, Edward
  - Winfield, Brett
  - Young, Nathan
  - Zachernuk, Nick

@@ -4,19 +4,19 @@ name: Scott Howard
 name-sort: Howard, Scott
 totals:
  - event: Brier
-   games: 60
-   wins: 31
-   losses: 29
-   inturn-total: 549
+   games: 68
+   wins: 34
+   losses: 34
+   inturn-total: 625
    inturn-percent: 88
-   outturn-total: 506
-   outturn-percent: 87
-   draw-total: 734
-   draw-percent: 88
-   takeout-total: 321
+   outturn-total: 581
+   outturn-percent: 86
+   draw-total: 788
+   draw-percent: 87
+   takeout-total: 418
    takeout-percent: 86
-   shots-total: 1055
-   shots-percent: 88
+   shots-total: 1206
+   shots-percent: 87
 years:
  - year: 2011
    event: Brier
@@ -192,14 +192,34 @@ years:
    takeout-percent: 88
    shots-total: 152
    shots-percent: 85
+ - year: 2024
+   event: Brier
+   team: "ON"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 76
+   inturn-percent: 84
+   outturn-total: 75
+   outturn-percent: 81
+   draw-total: 54
+   draw-percent: 76
+   takeout-total: 97
+   takeout-percent: 86
+   shots-total: 151
+   shots-percent: 82
 vs:
  - Barry, Josh
  - Beuk, Jonathan
  - Bezanson, Jared
+ - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
  - Breckon, Graham
+ - Byrd, Kurtis
  - Camm, Mathew
  - Carmody, Anson
  - Carruthers, Reid
@@ -225,6 +245,7 @@ vs:
  - Gallant, Brett
  - Gaudet, Mike
  - Giddens, Ryan
+ - Ginter, Jason
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -235,6 +256,7 @@ vs:
  - Harris, Tyler
  - Hebert, Ben
  - Hodgson, Colin
+ - Horvath, Alex
  - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
@@ -246,12 +268,14 @@ vs:
  - Kidby, Dustin
  - Koe, Jamie
  - Koe, Kevin
+ - Krats, Joel
  - Kuhn, Ryan
  - Laing, Brent
  - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Locke, Nathan
+ - Lott, Colton
  - Lowery, Ryan
  - MacFadyen, Alex
  - MacKenzie, Eddie
@@ -262,11 +286,13 @@ vs:
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
+ - McCarville, Mike
  - McEwen, Mike
  - Mckinnon, Robert
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe
+ - Middleton, Sterling
  - Mikkelsen, Dustin
  - Mittelstadt, Kelly
  - Morris, John
@@ -283,9 +309,11 @@ vs:
  - Newson, Jamie
  - Nichols, Mark
  - Njegovan, Connor
+ - Noftall, David
  - Patzer, Brad
  - Peech, Alexander
  - Pinder, Jordan
+ - Potts, Jordan
  - Roy, Jean-Sebastien
  - Rycroft, Carter
  - Saccary, Scott
@@ -298,12 +326,15 @@ vs:
  - Scoffin, Thomas
  - Simmons, Pat
  - Skauge, Greg
+ - Smith, Alex
  - Smith, Kent
  - Smith, Tyler
  - Stringer, Ben
  - Sylvain, Eric
+ - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Trickett, Stephen
  - Villeneuve, Steeve
  - Walker, Geoff
  - Wallingham, Joe

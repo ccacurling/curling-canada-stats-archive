@@ -4,19 +4,19 @@ name: Evan Latos
 name-sort: Latos, Evan
 totals:
  - event: Brier
-   games: 16
-   wins: 3
-   losses: 13
-   inturn-total: 128
-   inturn-percent: 83
-   outturn-total: 156
-   outturn-percent: 86
-   draw-total: 248
-   draw-percent: 86
-   takeout-total: 36
-   takeout-percent: 74
-   shots-total: 284
-   shots-percent: 85
+   games: 24
+   wins: 5
+   losses: 19
+   inturn-total: 189
+   inturn-percent: 84
+   outturn-total: 243
+   outturn-percent: 88
+   draw-total: 356
+   draw-percent: 88
+   takeout-total: 76
+   takeout-percent: 80
+   shots-total: 432
+   shots-percent: 86
 years:
  - year: 2022
    event: Brier
@@ -54,11 +54,67 @@ years:
    takeout-percent: 80
    shots-total: 148
    shots-percent: 86
+ - year: 2024
+   event: Brier
+   team: "YT"
+   position: Lead
+   alternate: false
+   games: 6
+   wins: 1
+   losses: 5
+   inturn-total: 47
+   inturn-percent: 90
+   outturn-total: 63
+   outturn-percent: 91
+   draw-total: 94
+   draw-percent: 90
+   takeout-total: 16
+   takeout-percent: 91
+   shots-total: 110
+   shots-percent: 90
+ - year: 2024
+   event: Brier
+   team: "YT"
+   position: Second
+   alternate: false
+   games: 2
+   wins: 1
+   losses: 1
+   inturn-total: 14
+   inturn-percent: 77
+   outturn-total: 24
+   outturn-percent: 88
+   draw-total: 14
+   draw-percent: 86
+   takeout-total: 24
+   takeout-percent: 82
+   shots-total: 38
+   shots-percent: 84
+ - year: 2024
+   event: Brier
+   team: Totals
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 61
+   inturn-percent: 87
+   outturn-total: 87
+   outturn-percent: 90
+   draw-total: 108
+   draw-percent: 90
+   takeout-total: 40
+   takeout-percent: 86
+   shots-total: 148
+   shots-percent: 89
 vs:
  - Asselin, Emile
  - Asselin, Felix
  - Bezanson, Jared
+ - Bonot, Trevor
  - Bottcher, Brendan
+ - Byrd, Kurtis
+ - Camm, Mathew
+ - Carruthers, Reid
  - Cocks, Adam
  - Crete, Martin
  - Dobson, Paul
@@ -70,23 +126,28 @@ vs:
  - Gauthier, Jacques
  - Ginter, Jason
  - Goller, Kurtis
+ - Gordon, Rob
  - Grattan, James
  - Gushue, Brad
  - Harnden, E.J.
+ - Harnden, Ryan
  - Hart, Joey
  - Hebert, Ben
  - Horvath, Alex
  - Howard, Glenn
  - Howard, Scott
+ - Jacobs, Brad
  - Janssen, Patrick
  - Jones, Scott
  - Kennedy, Marc
  - Kidby, Dustin
  - King, Brian
  - Koe, Kevin
+ - Krats, Joel
  - Laing, Brent
  - Lind, J.D.
  - Locke, Nathan
+ - Lott, Colton
  - Lowery, Ryan
  - MacFadyen, Alex
  - Mallais, Jeremy
@@ -96,6 +157,7 @@ vs:
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
+ - McCarville, Mike
  - McEwen, Mike
  - Middleton, Sterling
  - Morris, John
@@ -104,16 +166,24 @@ vs:
  - Muyres, Kirk
  - Neufeld, B.J.
  - Nichols, Mark
+ - Njegovan, Connor
+ - Potts, Jordan
  - Rycroft, Carter
+ - Samagalski, Derek
  - Schneider, Catlin
  - Simmons, Pat
  - Sluchinski, Aaron
+ - Smith, Alex
  - Smith, Tyler
  - Spencer, Adam
  - Stringer, Ben
  - Sturmay, Karsten
+ - Symonds, Andrew
+ - Tardi, Tyler
  - Thiessen, Brad
+ - Thomas, Colin
  - Trepanier, Jean-Francois
+ - Trickett, Stephen
  - Venance, Glenn
  - Walker, Geoff
  - White, Edward

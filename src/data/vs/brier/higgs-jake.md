@@ -946,34 +946,6 @@ vs:
       year: 2023
       draw: Round Robin(2)
       score: NU 7 - NL 4
- - name: Tardi, Tyler
-   totals:
-    - event: Brier
-      player1:
-        percent: 68
-        wins: 0
-        losses: 1
-      player2:
-        percent: 91
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NU'
-        position: Fourth
-        percent: 68
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Third
-        percent: 91
-        win: 1
-        loss: 0
-      event: Brier
-      year: 2023
-      draw: Round Robin(12)
-      score: AB 10 - NU 1
  - name: Thiessen, Brad
    totals:
     - event: Brier

@@ -4,18 +4,18 @@ name: Thomas Scoffin
 name-sort: Scoffin, Thomas
 totals:
  - event: Brier
-   games: 31
-   wins: 5
-   losses: 26
-   inturn-total: 253
-   inturn-percent: 73
-   outturn-total: 296
-   outturn-percent: 73
-   draw-total: 258
+   games: 39
+   wins: 7
+   losses: 32
+   inturn-total: 320
+   inturn-percent: 75
+   outturn-total: 376
+   outturn-percent: 72
+   draw-total: 329
    draw-percent: 72
-   takeout-total: 291
+   takeout-total: 367
    takeout-percent: 74
-   shots-total: 549
+   shots-total: 696
    shots-percent: 73
 years:
  - year: 2018
@@ -90,15 +90,35 @@ years:
    takeout-percent: 73
    shots-total: 145
    shots-percent: 73
+ - year: 2024
+   event: Brier
+   team: "YT"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 67
+   inturn-percent: 80
+   outturn-total: 80
+   outturn-percent: 69
+   draw-total: 71
+   draw-percent: 74
+   takeout-total: 76
+   takeout-percent: 74
+   shots-total: 147
+   shots-percent: 74
 vs:
  - Aho, David
  - Appelman, Ted
  - Asselin, Emile
  - Asselin, Felix
  - Bezanson, Jared
+ - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
+ - Byrd, Kurtis
  - Camm, Mathew
  - Carruthers, Reid
  - Chorostkowski, Brad
@@ -118,9 +138,11 @@ vs:
  - Geall, Sean
  - Ginter, Jason
  - Goller, Kurtis
+ - Gordon, Rob
  - Grattan, James
  - Gushue, Brad
  - Harnden, E.J.
+ - Harnden, Ryan
  - Hart, Joey
  - Hebert, Ben
  - Hodgson, Colin
@@ -128,6 +150,7 @@ vs:
  - Howard, Glenn
  - Howard, Scott
  - Hunt, Matthew
+ - Jacobs, Brad
  - Janssen, Patrick
  - Jones, Scott
  - Kennedy, Marc
@@ -136,10 +159,12 @@ vs:
  - Kingdon, Wade
  - Koe, Jamie
  - Koe, Kevin
+ - Krats, Joel
  - Laing, Brent
  - Laycock, Steve
  - Lind, J.D.
  - Locke, Nathan
+ - Lott, Colton
  - Lowery, Ryan
  - MacFadyen, Alex
  - Mackey, Peter
@@ -150,6 +175,7 @@ vs:
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
+ - McCarville, Mike
  - McEwen, Mike
  - Mcleod, Shadrach
  - Middleton, Sterling
@@ -163,7 +189,9 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Parsons, Cole
+ - Potts, Jordan
  - Richard, Jeff
  - Rycroft, Carter
  - Saccary, Scott
@@ -174,15 +202,20 @@ vs:
  - Schneider, Catlin
  - Simmons, Pat
  - Sluchinski, Aaron
+ - Smith, Alex
  - Smith, Greg
  - Smith, Tyler
  - Spencer, Adam
  - St.Louis, David
  - Stringer, Ben
  - Sturmay, Karsten
+ - Symonds, Andrew
+ - Tardi, Tyler
  - Taylor, Andrew
  - Thiessen, Brad
+ - Thomas, Colin
  - Trepanier, Jean-Francois
+ - Trickett, Stephen
  - Venance, Glenn
  - Walker, Geoff
  - White, Edward

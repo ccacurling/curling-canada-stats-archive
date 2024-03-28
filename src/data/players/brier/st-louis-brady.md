@@ -4,19 +4,19 @@ name: Brady St.Louis
 name-sort: St.Louis, Brady
 totals:
  - event: Brier
-   games: 15
-   wins: 1
-   losses: 14
-   inturn-total: 106
+   games: 23
+   wins: 2
+   losses: 21
+   inturn-total: 154
    inturn-percent: 67
-   outturn-total: 121
-   outturn-percent: 74
-   draw-total: 104
+   outturn-total: 213
+   outturn-percent: 73
+   draw-total: 179
    draw-percent: 71
-   takeout-total: 123
-   takeout-percent: 71
-   shots-total: 227
-   shots-percent: 71
+   takeout-total: 188
+   takeout-percent: 70
+   shots-total: 367
+   shots-percent: 70
 years:
  - year: 2021
    event: Brier
@@ -88,25 +88,53 @@ years:
    takeout-percent: 67
    shots-total: 134
    shots-percent: 72
+ - year: 2024
+   event: Brier
+   team: "NU"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 48
+   inturn-percent: 67
+   outturn-total: 92
+   outturn-percent: 72
+   draw-total: 75
+   draw-percent: 70
+   takeout-total: 65
+   takeout-percent: 70
+   shots-total: 140
+   shots-percent: 70
 vs:
  - Appelman, Ted
  - Armstrong, Mike
+ - Arsenault, Jean-Michel
  - Asselin, Felix
  - Blyde, Greg
  - Boland, Adam
+ - Brassard, Philippe
  - Caione, Michael
  - Camm, Mathew
  - Carruthers, Reid
+ - Cocks, Adam
  - Crete, Martin
  - Crowell, Phil
  - Dion, William
+ - Drummond, Kerr
  - Dunstone, Matt
  - Epping, John
+ - Flasch, Colton
  - Flemming, Paul
  - Fournier, Mike
  - Fry, Ryan
- - Gordon, Robbie
+ - Gallant, Chris
+ - Gauthier, Jacques
+ - Gordon, Rob
+ - Gushue, Brad
+ - Harnden, E.J.
  - Harnden, Ryan
+ - Harty, Jeremy
  - Hebert, Ben
  - Hodgson, Colin
  - Horgan, Jacob
@@ -125,30 +153,40 @@ vs:
  - Lowery, Ryan
  - MacKenzie, Eddie
  - Manuel, Matthew
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
+ - McEwen, Mike
  - Mcleod, Shadrach
  - Meagher, Jeffrey
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
+ - Mullen, Jesse
  - Muyres, Kirk
  - Neufeld, B.J.
+ - Nichols, Mark
  - Njegovan, Connor
  - Ouellette, Kevin
  - Parsons, Cole
+ - Robertson, Stephen
  - Saccary, Scott
  - Samagalski, Derek
  - Saunders, Luke
+ - Sluchinski, Aaron
  - Smith, Greg
  - Smith, Tyler
  - Stringer, Ben
- - Tardi, Tyler
  - Thiessen, Brad
  - Thomas, Jeff
+ - Tremblay, Julien
  - Trepanier, Jean-Francois
+ - Walker, Geoff
+ - Webster, Dylan
+ - White, Edward
  - Young, Nathan
  - Zachernuk, Nick
 ---

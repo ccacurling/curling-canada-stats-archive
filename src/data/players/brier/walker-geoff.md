@@ -4,19 +4,19 @@ name: Geoff Walker
 name-sort: Walker, Geoff
 totals:
  - event: Brier
-   games: 149
-   wins: 110
-   losses: 39
-   inturn-total: 1234
+   games: 160
+   wins: 119
+   losses: 41
+   inturn-total: 1330
    inturn-percent: 90
-   outturn-total: 1610
+   outturn-total: 1714
    outturn-percent: 89
-   draw-total: 2383
-   draw-percent: 91
-   takeout-total: 461
+   draw-total: 2566
+   draw-percent: 92
+   takeout-total: 478
    takeout-percent: 79
-   shots-total: 2844
-   shots-percent: 89
+   shots-total: 3044
+   shots-percent: 90
 years:
  - year: 2012
    event: Brier
@@ -234,12 +234,31 @@ years:
    takeout-percent: 88
    shots-total: 208
    shots-percent: 92
+ - year: 2024
+   event: Brier
+   team: "CA"
+   position: Lead
+   alternate: false
+   games: 11
+   wins: 9
+   losses: 2
+   inturn-total: 96
+   inturn-percent: 93
+   outturn-total: 104
+   outturn-percent: 94
+   draw-total: 183
+   draw-percent: 95
+   takeout-total: 17
+   takeout-percent: 82
+   shots-total: 200
+   shots-percent: 94
 vs:
  - Abraham, Ryan
  - Aho, David
  - Appelman, Tom
  - Ardiel, Taylor
  - Armstrong, Mike
+ - Arsenault, Jean-Michel
  - Asselin, Emile
  - Asselin, Felix
  - Balsdon, Greg
@@ -256,6 +275,7 @@ vs:
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
+ - Brassard, Philippe
  - Breckon, Graham
  - Camm, Mathew
  - Carmody, Anson
@@ -281,6 +301,7 @@ vs:
  - Desjardins, Robert
  - Doering, Kyle
  - Doherty, Robbie
+ - Drummond, Kerr
  - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
@@ -297,6 +318,7 @@ vs:
  - Fowler, Rob
  - Fry, Ryan
  - Gallant, Brett
+ - Gallant, Chris
  - Gaudet, Mike
  - Gauthier, Jacques
  - Geall, Sean
@@ -311,6 +333,7 @@ vs:
  - Harris, Tyler
  - Hart, Joey
  - Hart, Richard
+ - Harty, Jeremy
  - Hebert, Ben
  - Higgs, Jake
  - Hodgson, Colin
@@ -340,6 +363,7 @@ vs:
  - Kuhn, Ryan
  - Laing, Brent
  - Lang, Tyler
+ - Latimer, Shane
  - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
@@ -357,6 +381,7 @@ vs:
  - Mackey, Peter
  - Mallais, Jeremy
  - Manners, Scott
+ - Manuel, Matthew
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
@@ -370,8 +395,10 @@ vs:
  - McDonah, Evan
  - McDonald, Scott
  - McEwen, Mike
+ - Mcleod, Shadrach
  - Meachem, Shaun Myles
  - Mead, Jon
+ - Meagher, Jeffrey
  - Meister, Nicholas
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -382,6 +409,7 @@ vs:
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
+ - Mullen, Jesse
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
@@ -408,6 +436,7 @@ vs:
  - Rycroft, Carter
  - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Savill, Craig
  - Sawatsky, Rick
  - Schille, Chris
@@ -417,24 +446,29 @@ vs:
  - Seabrook, Scott
  - Simmons, Pat
  - Skauge, Greg
+ - Sluchinski, Aaron
  - Smith, Greg
  - Smith, Tyler
  - Smitheram, Christian
  - Spencer, Adam
+ - St.Louis, Brady
  - St.Louis, David
  - Steele, Colten
  - Stoughton, Jeff
  - Sturmay, Karsten
  - Sylvain, Eric
+ - Tardi, Tyler
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thompson, Stuart
+ - Tremblay, Julien
  - Trepanier, Jean-Francois
  - Venance, Glenn
  - Villeneuve, Steeve
  - Virtue, Brock
  - Watson, Aaron
+ - Webster, Dylan
  - Wettig, Sheldon
  - White, Edward
  - Whitehead, Kevin
@@ -442,4 +476,5 @@ vs:
  - Withycombe, Ian
  - Wood, Brad
  - Wozniak, Matt
+ - Zachernuk, Nick
 ---

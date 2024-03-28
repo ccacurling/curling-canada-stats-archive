@@ -4,18 +4,18 @@ name: Ben Hebert
 name-sort: Hebert, Ben
 totals:
  - event: Brier
-   games: 182
-   wins: 134
-   losses: 48
-   inturn-total: 755
-   inturn-percent: 87
-   outturn-total: 2526
+   games: 193
+   wins: 141
+   losses: 52
+   inturn-total: 783
+   inturn-percent: 88
+   outturn-total: 2690
    outturn-percent: 92
-   draw-total: 2887
+   draw-total: 3063
    draw-percent: 92
-   takeout-total: 394
+   takeout-total: 410
    takeout-percent: 80
-   shots-total: 3281
+   shots-total: 3473
    shots-percent: 91
 years:
  - year: 2005
@@ -322,6 +322,24 @@ years:
    takeout-percent: 94
    shots-total: 222
    shots-percent: 95
+ - year: 2024
+   event: Brier
+   team: "AB"
+   position: Lead
+   alternate: false
+   games: 11
+   wins: 7
+   losses: 4
+   inturn-total: 28
+   inturn-percent: 97
+   outturn-total: 164
+   outturn-percent: 95
+   draw-total: 176
+   draw-percent: 96
+   takeout-total: 16
+   takeout-percent: 91
+   shots-total: 192
+   shots-percent: 95
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -342,6 +360,7 @@ vs:
  - Bitz, Scott
  - Blanchard, Wade
  - Blyde, Greg
+ - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
  - Bouchard, Christian
@@ -352,6 +371,7 @@ vs:
  - Burnett, Steve
  - Burtnyk, Kerry
  - Buyck, James
+ - Byrd, Kurtis
  - Camm, Mathew
  - Campbell, Robert
  - Carmody, Anson
@@ -420,6 +440,7 @@ vs:
  - Gould, Steve
  - Graber, Dennis
  - Granchelli, Kris
+ - Grattan, Drew
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -469,6 +490,7 @@ vs:
  - Koe, Jamie
  - Kopf, Steve
  - Korab, Jamie
+ - Krats, Joel
  - Kuhn, Ryan
  - Lacey, Jeff
  - Laing, Brent
@@ -501,6 +523,7 @@ vs:
  - Mawhinney, Spencer
  - McCann, Andy
  - McCarrel, Graeme
+ - McCarville, Mike
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
@@ -549,6 +572,7 @@ vs:
  - Pinder, Jordan
  - Porter, Geoff
  - Porter, Ryan
+ - Potts, Jordan
  - Rafuse, Brian
  - Recksiedler, Kevin
  - Roach, Darren
@@ -573,6 +597,7 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Slauenwhite, David
+ - Smith, Alex
  - Smith, Garth
  - Smith, Greg
  - Smith, Kent
@@ -587,13 +612,17 @@ vs:
  - Sturmay, Karsten
  - Sullivan, Charles Jr.
  - Sylvain, Eric
+ - Symonds, Andrew
  - Tallon, Wayne
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thomas, Colin
  - Thompson, Stuart
  - Thomson, Fred
  - Toner, Lee
  - Trepanier, Jean-Francois
+ - Trickett, Stephen
  - Ursel, Bob
  - Van Den Berghe, Garry
  - Vaughan, Jason

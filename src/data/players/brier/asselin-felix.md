@@ -179,6 +179,7 @@ vs:
  - St.Louis, Brady
  - St.Louis, David
  - Sturmay, Karsten
+ - Tardi, Tyler
  - Walker, Geoff
  - Wallingham, Joe
  - White, Edward

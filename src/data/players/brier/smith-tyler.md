@@ -4,19 +4,19 @@ name: Tyler Smith
 name-sort: Smith, Tyler
 totals:
  - event: Brier
-   games: 24
-   wins: 4
-   losses: 20
-   inturn-total: 215
-   inturn-percent: 70
-   outturn-total: 205
-   outturn-percent: 73
-   draw-total: 177
-   draw-percent: 69
-   takeout-total: 243
-   takeout-percent: 73
-   shots-total: 420
-   shots-percent: 71
+   games: 32
+   wins: 9
+   losses: 23
+   inturn-total: 294
+   inturn-percent: 73
+   outturn-total: 271
+   outturn-percent: 75
+   draw-total: 235
+   draw-percent: 73
+   takeout-total: 330
+   takeout-percent: 75
+   shots-total: 565
+   shots-percent: 74
 years:
  - year: 2021
    event: Brier
@@ -106,18 +106,39 @@ years:
    takeout-percent: 73
    shots-total: 144
    shots-percent: 70
+ - year: 2024
+   event: Brier
+   team: "PE"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 79
+   inturn-percent: 83
+   outturn-total: 66
+   outturn-percent: 83
+   draw-total: 58
+   draw-percent: 84
+   takeout-total: 87
+   takeout-percent: 82
+   shots-total: 145
+   shots-percent: 83
 vs:
+ - Arsenault, Jean-Michel
  - Asselin, Emile
  - Asselin, Felix
  - Bezanson, Jared
  - Blyde, Greg
  - Bottcher, Brendan
  - Brannen, Jamie
+ - Brassard, Philippe
  - Camm, Mathew
  - Chown, Jeff
  - Crete, Martin
  - Crowell, Phil
  - Dobson, Paul
+ - Drummond, Kerr
  - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
@@ -133,6 +154,7 @@ vs:
  - Gushue, Brad
  - Harnden, E.J.
  - Hart, Joey
+ - Harty, Jeremy
  - Hebert, Ben
  - Horvath, Alex
  - Howard, Glenn
@@ -141,16 +163,20 @@ vs:
  - Janssen, Patrick
  - Jensen, Trygg
  - Jones, Scott
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
  - King, Brian
+ - Koe, Jamie
  - Koe, Kevin
  - Laing, Brent
+ - Latimer, Shane
  - Latos, Evan
  - Lind, J.D.
  - Locke, Nathan
  - Mackey, Peter
  - Mallais, Jeremy
+ - Manuel, Matthew
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
@@ -160,28 +186,39 @@ vs:
  - McDonah, Evan
  - McDonald, Scott
  - McEwen, Mike
+ - Mcleod, Shadrach
+ - Meagher, Jeffrey
  - Middleton, Sterling
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
+ - Mullen, Jesse
  - Muyres, Kirk
  - Nadeau, Jeff
  - Neufeld, B.J.
  - Nichols, Mark
+ - Parsons, Cole
  - Saccary, Scott
+ - Saunders, Luke
  - Schneider, Catlin
  - Scoffin, Thomas
  - Scoffin, Wade
  - Sluchinski, Aaron
  - Smith, Greg
+ - Smitheram, Christian
  - St.Louis, Brady
  - Stringer, Ben
  - Sturmay, Karsten
+ - Tardi, Tyler
  - Thiessen, Brad
+ - Tremblay, Julien
  - Trepanier, Jean-Francois
  - Venance, Glenn
  - Walker, Geoff
  - Wallingham, Joe
+ - Webster, Dylan
  - Webster, Paul
+ - Wettig, Sheldon
  - Young, Nathan
+ - Zachernuk, Nick
 ---

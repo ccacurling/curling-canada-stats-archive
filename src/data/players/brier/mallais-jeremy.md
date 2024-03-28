@@ -116,6 +116,7 @@ vs:
  - Smith, Tyler
  - Sturmay, Karsten
  - Sylvain, Eric
+ - Tardi, Tyler
  - Thiessen, Nolan
  - Trepanier, Jean-Francois
  - Walker, Geoff

@@ -4,18 +4,18 @@ name: Karrick Martin
 name-sort: Martin, Karrick
 totals:
  - event: Brier
-   games: 89
-   wins: 62
-   losses: 27
-   inturn-total: 1255
+   games: 97
+   wins: 64
+   losses: 33
+   inturn-total: 1322
    inturn-percent: 91
-   outturn-total: 351
+   outturn-total: 428
    outturn-percent: 87
-   draw-total: 1389
+   draw-total: 1526
    draw-percent: 91
-   takeout-total: 217
-   takeout-percent: 85
-   shots-total: 1606
+   takeout-total: 224
+   takeout-percent: 84
+   shots-total: 1750
    shots-percent: 90
 years:
  - year: 2013
@@ -162,17 +162,37 @@ years:
    takeout-percent: 90
    shots-total: 174
    shots-percent: 90
+ - year: 2024
+   event: Brier
+   team: "AB"
+   position: Lead
+   alternate: false
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 67
+   inturn-percent: 93
+   outturn-total: 77
+   outturn-percent: 89
+   draw-total: 137
+   draw-percent: 92
+   takeout-total: 7
+   takeout-percent: 57
+   shots-total: 144
+   shots-percent: 90
 vs:
  - Abel, Clinton
  - Aho, David
  - Appelman, Tom
  - Armstrong, Mike
+ - Arsenault, Jean-Michel
  - Asselin, Emile
  - Bedard, Alek
  - Beuk, Jonathan
  - Boland, Adam
  - Borden, Robert
  - Brannen, Jamie
+ - Brassard, Philippe
  - Breckon, Graham
  - Burgess, Steve
  - Camm, Mathew
@@ -189,6 +209,7 @@ vs:
  - Currie, Morgan
  - Dobson, Paul
  - Doherty, Robbie
+ - Drummond, Kerr
  - Dunstone, Matt
  - Epping, John
  - Fecteau, Steve
@@ -203,7 +224,7 @@ vs:
  - Gallant, Brett
  - Gallant, Chris
  - Geall, Sean
- - Gordon, Robbie
+ - Gordon, Rob
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -213,6 +234,7 @@ vs:
  - Harnden, Ryan
  - Hart, Joey
  - Hart, Richard
+ - Harty, Jeremy
  - Hebert, Ben
  - Higgs, Jake
  - Hodgson, Colin
@@ -237,6 +259,7 @@ vs:
  - Koe, Kevin
  - Kohlenberg, Dale
  - Laing, Brent
+ - Latimer, Shane
  - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
@@ -269,6 +292,7 @@ vs:
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
+ - Mullen, Jesse
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
@@ -296,6 +320,7 @@ vs:
  - Scoffin, Thomas
  - Scoffin, Wade
  - Skauge, Greg
+ - Sluchinski, Aaron
  - Smallwood, Robert
  - Smith, Greg
  - Smith, Kent
@@ -309,8 +334,10 @@ vs:
  - Symonds, Andrew
  - Tardi, Tyler
  - Taylor, Andrew
+ - Tremblay, Julien
  - Walker, Geoff
  - Wallingham, Joe
+ - Webster, Dylan
  - Wettig, Sheldon
  - White, Edward
  - Withycombe, Ian

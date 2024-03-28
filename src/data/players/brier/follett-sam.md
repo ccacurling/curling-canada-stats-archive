@@ -63,7 +63,7 @@ vs:
  - Dobson, Paul
  - Dunstone, Matt
  - Flasch, Colton
- - Gordon, Robbie
+ - Gordon, Rob
  - Grattan, James
  - Harnden, Ryan
  - Hebert, Ben
@@ -107,7 +107,6 @@ vs:
  - Scoffin, Thomas
  - Smith, Tyler
  - Spencer, Adam
- - Tardi, Tyler
  - Thiessen, Brad
  - Wallingham, Joe
  - White, Edward

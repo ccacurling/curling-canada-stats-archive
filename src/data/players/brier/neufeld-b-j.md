@@ -4,18 +4,18 @@ name: B.J. Neufeld
 name-sort: Neufeld, B.J.
 totals:
  - event: Brier
-   games: 99
-   wins: 74
-   losses: 25
-   inturn-total: 883
-   inturn-percent: 87
-   outturn-total: 957
+   games: 109
+   wins: 81
+   losses: 28
+   inturn-total: 978
+   inturn-percent: 86
+   outturn-total: 1049
    outturn-percent: 87
-   draw-total: 621
+   draw-total: 688
    draw-percent: 84
-   takeout-total: 1219
+   takeout-total: 1339
    takeout-percent: 88
-   shots-total: 1840
+   shots-total: 2027
    shots-percent: 87
 years:
  - year: 2016
@@ -162,6 +162,24 @@ years:
    takeout-percent: 90
    shots-total: 214
    shots-percent: 88
+ - year: 2024
+   event: Brier
+   team: "MB"
+   position: Third
+   alternate: false
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 95
+   inturn-percent: 85
+   outturn-total: 92
+   outturn-percent: 90
+   draw-total: 67
+   draw-percent: 88
+   takeout-total: 120
+   takeout-percent: 87
+   shots-total: 187
+   shots-percent: 88
 vs:
  - Aho, David
  - Appelman, Tom
@@ -171,9 +189,11 @@ vs:
  - Bartling, Aaron
  - Beuk, Jonathan
  - Blyde, Greg
+ - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
+ - Byrd, Kurtis
  - Camm, Mathew
  - Carmody, Anson
  - Carruthers, Reid
@@ -202,7 +222,8 @@ vs:
  - Gallant, Brett
  - Gallant, Chris
  - Geall, Sean
- - Gordon, Robbie
+ - Ginter, Jason
+ - Gordon, Rob
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -215,6 +236,7 @@ vs:
  - Hodgson, Colin
  - Horgan, Jacob
  - Horgan, Tanner
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Greg
  - Howard, Scott
@@ -233,6 +255,7 @@ vs:
  - Knapp, Trent
  - Koe, Jamie
  - Koe, Kevin
+ - Krats, Joel
  - Kuhn, Ryan
  - Laing, Brent
  - Latos, Evan
@@ -251,6 +274,7 @@ vs:
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
+ - McCarville, Mike
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
@@ -261,6 +285,7 @@ vs:
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -276,6 +301,7 @@ vs:
  - Odishaw, Terry
  - Parsons, Cole
  - Pinder, Jordan
+ - Potts, Jordan
  - Richard, Jeff
  - Rycroft, Carter
  - Saccary, Scott
@@ -287,6 +313,7 @@ vs:
  - Scoffin, Thomas
  - Scoffin, Wade
  - Simmons, Pat
+ - Smith, Alex
  - Smith, Greg
  - Smith, Tyler
  - Smitheram, Christian
@@ -296,13 +323,15 @@ vs:
  - Steele, Colten
  - Stringer, Ben
  - Sylvain, Eric
- - Tardi, Tyler
+ - Symonds, Andrew
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thomas, Colin
  - Thomas, Jeff
  - Thompson, Stuart
  - Trepanier, Jean-Francois
+ - Trickett, Stephen
  - Walker, Geoff
  - Wallingham, Joe
  - Wettig, Sheldon

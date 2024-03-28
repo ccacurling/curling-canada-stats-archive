@@ -4,18 +4,18 @@ name: Colton Lott
 name-sort: Lott, Colton
 totals:
  - event: Brier
-   games: 21
-   wins: 15
-   losses: 6
-   inturn-total: 223
-   inturn-percent: 88
-   outturn-total: 149
-   outturn-percent: 86
-   draw-total: 210
-   draw-percent: 88
-   takeout-total: 162
+   games: 31
+   wins: 22
+   losses: 9
+   inturn-total: 309
+   inturn-percent: 86
+   outturn-total: 251
+   outturn-percent: 88
+   draw-total: 293
+   draw-percent: 87
+   takeout-total: 267
    takeout-percent: 87
-   shots-total: 372
+   shots-total: 560
    shots-percent: 87
 years:
  - year: 2022
@@ -88,22 +88,47 @@ years:
    takeout-percent: 88
    shots-total: 214
    shots-percent: 85
+ - year: 2024
+   event: Brier
+   team: "MB"
+   position: Second
+   alternate: false
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 86
+   inturn-percent: 82
+   outturn-total: 102
+   outturn-percent: 91
+   draw-total: 83
+   draw-percent: 86
+   takeout-total: 105
+   takeout-percent: 87
+   shots-total: 188
+   shots-percent: 87
 vs:
  - Abraham, Ryan
  - Armstrong, Mike
  - Asselin, Felix
+ - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
+ - Byrd, Kurtis
+ - Camm, Mathew
  - Carruthers, Reid
  - Casey, Adam
  - Chester, Corey
  - Crete, Martin
  - Crowell, Phil
+ - Dobson, Paul
+ - Flasch, Colton
  - Flemming, Paul
  - Follett, Sam
  - Fournier, Mike
  - Gallant, Brett
- - Gordon, Robbie
+ - Ginter, Jason
+ - Gordon, Rob
+ - Grattan, James
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
@@ -113,8 +138,11 @@ vs:
  - Hodgson, Colin
  - Horgan, Jacob
  - Horgan, Tanner
+ - Horvath, Alex
  - Howard, Greg
+ - Howard, Scott
  - Jacobs, Brad
+ - Jensen, Trygg
  - Jones, Brennen
  - Kennedy, Glen
  - Kennedy, Marc
@@ -123,14 +151,24 @@ vs:
  - Koe, Jamie
  - Koe, Kevin
  - Kolomaya, Jared
+ - Krats, Joel
+ - Latos, Evan
  - Lichty, Terry
  - Locke, Nathan
  - Mackey, Peter
  - Manuel, Matthew
+ - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
+ - Mathers, David
+ - McCann, Andy
+ - McCarville, Mike
+ - McEwen, Mike
  - Mcleod, Shadrach
  - Meagher, Jeffrey
  - Meister, Nicholas
+ - Middleton, Sterling
  - Moulding, Darren
  - Nadeau, Jeff
  - Nichols, Mark
@@ -138,19 +176,27 @@ vs:
  - Parsons, Cole
  - Pierce, Brent
  - Pillsworth, Mark
+ - Potts, Jordan
  - Richard, Jeff
  - Saccary, Scott
  - Samagalski, Derek
  - Saunders, Luke
+ - Schneider, Catlin
+ - Scoffin, Thomas
+ - Scoffin, Wade
+ - Smith, Alex
  - Smitheram, Christian
  - St.Louis, Brady
  - Stringer, Ben
- - Tardi, Tyler
+ - Symonds, Andrew
  - Thiessen, Brad
+ - Thomas, Colin
  - Thomas, Jeff
  - Trepanier, Jean-Francois
+ - Trickett, Stephen
  - Van Strien, Peter
  - Walker, Geoff
+ - Wallingham, Joe
  - Wettig, Sheldon
  - Wozniak, Matt
  - Young, Nathan

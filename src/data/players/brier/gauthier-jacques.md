@@ -4,19 +4,19 @@ name: Jacques Gauthier
 name-sort: Gauthier, Jacques
 totals:
  - event: Brier
-   games: 10
-   wins: 4
-   losses: 6
-   inturn-total: 86
-   inturn-percent: 80
-   outturn-total: 69
+   games: 18
+   wins: 6
+   losses: 12
+   inturn-total: 157
+   inturn-percent: 81
+   outturn-total: 142
    outturn-percent: 76
-   draw-total: 72
-   draw-percent: 73
-   takeout-total: 83
-   takeout-percent: 83
-   shots-total: 155
-   shots-percent: 78
+   draw-total: 150
+   draw-percent: 76
+   takeout-total: 149
+   takeout-percent: 81
+   shots-total: 299
+   shots-percent: 79
 years:
  - year: 2021
    event: Brier
@@ -84,44 +84,87 @@ years:
    takeout-percent: 82
    shots-total: 149
    shots-percent: 78
+ - year: 2024
+   event: Brier
+   team: "AB"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 71
+   inturn-percent: 83
+   outturn-total: 73
+   outturn-percent: 76
+   draw-total: 78
+   draw-percent: 79
+   takeout-total: 66
+   takeout-percent: 80
+   shots-total: 144
+   shots-percent: 79
 vs:
+ - Arsenault, Jean-Michel
  - Asselin, Emile
  - Asselin, Felix
  - Bezanson, Jared
  - Bottcher, Brendan
+ - Brassard, Philippe
  - Cocks, Adam
  - Crete, Martin
  - Doering, Kyle
+ - Drummond, Kerr
+ - Flasch, Colton
  - Fry, Ryan
  - Gallant, Brett
+ - Gallant, Chris
  - Gushue, Brad
  - Hagen, Brandon
  - Harnden, E.J.
  - Hart, Joey
+ - Harty, Jeremy
  - Hebert, Ben
  - Jeffrey, Chris
  - Jensen, Trygg
  - Jones, Scott
+ - Kennedy, Glen
  - Kennedy, Marc
  - King, Brian
+ - Koe, Jamie
  - Laing, Brent
+ - Latimer, Shane
  - Latos, Evan
  - Lind, J.D.
  - MacFadyen, Alex
  - Mallais, Jeremy
+ - Manuel, Matthew
+ - Marsh, Dan
+ - Marsh, Kevin
  - McEwen, Mike
  - Mckinnon, Robert
+ - Mcleod, Shadrach
  - NcNeil-Lamswood, Ryan
+ - Meagher, Jeffrey
  - Mikkelsen, Dustin
+ - Mullen, Jesse
  - Nichols, Mark
+ - Parsons, Cole
  - Peech, Alexander
+ - Saunders, Luke
  - Scoffin, Thomas
  - Scoffin, Wade
+ - Sluchinski, Aaron
  - Smith, Tyler
+ - Smitheram, Christian
+ - St.Louis, Brady
  - Sturmay, Karsten
+ - Tardi, Tyler
+ - Tremblay, Julien
  - Trepanier, Jean-Francois
  - Venance, Glenn
  - Walker, Geoff
  - Wallingham, Joe
+ - Webster, Dylan
+ - Wettig, Sheldon
  - White, Edward
+ - Zachernuk, Nick
 ---

@@ -4,19 +4,19 @@ name: Jamie Koe
 name-sort: Koe, Jamie
 totals:
  - event: Brier
-   games: 160
-   wins: 45
-   losses: 115
-   inturn-total: 1314
-   inturn-percent: 73
-   outturn-total: 1515
+   games: 169
+   wins: 50
+   losses: 119
+   inturn-total: 1402
+   inturn-percent: 74
+   outturn-total: 1592
    outturn-percent: 75
-   draw-total: 1296
+   draw-total: 1365
    draw-percent: 74
-   takeout-total: 1533
+   takeout-total: 1629
    takeout-percent: 75
-   shots-total: 2829
-   shots-percent: 74
+   shots-total: 2994
+   shots-percent: 75
 years:
  - year: 2006
    event: Brier
@@ -306,6 +306,24 @@ years:
    takeout-percent: 68
    shots-total: 149
    shots-percent: 64
+ - year: 2024
+   event: Brier
+   team: "NT"
+   position: Fourth
+   alternate: false
+   games: 9
+   wins: 5
+   losses: 4
+   inturn-total: 88
+   inturn-percent: 76
+   outturn-total: 77
+   outturn-percent: 81
+   draw-total: 69
+   draw-percent: 79
+   takeout-total: 96
+   takeout-percent: 77
+   shots-total: 165
+   shots-percent: 78
 vs:
  - Abraham, Ryan
  - Adam, Gerry
@@ -314,6 +332,7 @@ vs:
  - Appelman, Tom
  - Ardiel, Taylor
  - Armstrong, Mike
+ - Arsenault, Jean-Michel
  - Asmussen, Evan Scott
  - Asselin, Felix
  - Atchison, Chris
@@ -331,6 +350,7 @@ vs:
  - Bottcher, Brendan
  - Bouchard, Christian
  - Brannen, Jamie
+ - Brassard, Philippe
  - Breckon, Graham
  - Bryant, Doug
  - Burnett, Steve
@@ -345,6 +365,7 @@ vs:
  - Charette, Pierre
  - Childs, Jamie
  - Clarey, Sean
+ - Cocks, Adam
  - Collin, Simon
  - Colter, Travis
  - Cotter, Jim
@@ -360,6 +381,7 @@ vs:
  - Dion, William
  - Dobson, Paul
  - Doherty, Robbie
+ - Drummond, Kerr
  - Dunstone, Matt
  - Eldridge, Zach
  - Elmaleh, Maxime
@@ -381,11 +403,14 @@ vs:
  - Gagne, Francois
  - Gagnon, Jean
  - Gallant, Brett
+ - Gallant, Chris
  - Gallant, Peter
  - Gaudet, Mike
+ - Gauthier, Jacques
  - Geall, Sean
  - Gibson, Andrew
  - Gionest, Francois
+ - Gordon, Rob
  - Gordon, Robbie
  - Gorveatt, Philip
  - Gould, Steve
@@ -404,6 +429,7 @@ vs:
  - Harris, Rob
  - Harris, Tyler
  - Hart, Richard
+ - Harty, Jeremy
  - Hebert, Ben
  - Hicke, Dean
  - Higgs, Jake
@@ -447,6 +473,7 @@ vs:
  - Laing, Brent
  - Landry, Jeremy
  - Lang, Tyler
+ - Latimer, Shane
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
@@ -467,6 +494,8 @@ vs:
  - Manners, Scott
  - Manuel, Matthew
  - Markowsky, Rob
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Maskiewich, Ken
@@ -490,6 +519,7 @@ vs:
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
+ - Mullen, Jesse
  - Munroe, Steven
  - Murphy, Jamie
  - Muyres, Dallan
@@ -540,8 +570,10 @@ vs:
  - Sharp, Jeff
  - Shypitka, Tom
  - Simmons, Pat
+ - Sluchinski, Aaron
  - Smith, Donnie
  - Smith, Greg
+ - Smith, Tyler
  - Smitheram, Christian
  - Spencer, Adam
  - St.Louis, Brady
@@ -552,12 +584,12 @@ vs:
  - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Tallon, Wayne
- - Tardi, Tyler
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thompson, Stuart
  - Toner, Lee
+ - Tremblay, Julien
  - Trepanier, Jean-Francois
  - Van Den Berghe, Garry
  - Vaughan, Jason
@@ -567,7 +599,9 @@ vs:
  - Walker, Geoff
  - Wallingham, Joe
  - Watson, Aaron
+ - Webster, Dylan
  - Wettig, Sheldon
+ - White, Edward
  - Windsor, Brian
  - Winfield, Brett
  - Withycombe, Ian

@@ -182,7 +182,7 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Geall, Sean
- - Gordon, Robbie
+ - Gordon, Rob
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason

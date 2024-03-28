@@ -4,19 +4,19 @@ name: Dan Marsh
 name-sort: Marsh, Dan
 totals:
  - event: Brier
-   games: 23
-   wins: 13
-   losses: 10
-   inturn-total: 230
-   inturn-percent: 88
-   outturn-total: 194
-   outturn-percent: 86
-   draw-total: 313
-   draw-percent: 88
-   takeout-total: 111
+   games: 36
+   wins: 23
+   losses: 13
+   inturn-total: 291
+   inturn-percent: 89
+   outturn-total: 370
+   outturn-percent: 89
+   draw-total: 515
+   draw-percent: 90
+   takeout-total: 146
    takeout-percent: 84
-   shots-total: 424
-   shots-percent: 87
+   shots-total: 661
+   shots-percent: 89
 years:
  - year: 2019
    event: Brier
@@ -54,11 +54,31 @@ years:
    takeout-percent: 78
    shots-total: 222
    shots-percent: 91
+ - year: 2024
+   event: Brier
+   team: "SK"
+   position: Lead
+   alternate: false
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 61
+   inturn-percent: 91
+   outturn-total: 176
+   outturn-percent: 92
+   draw-total: 202
+   draw-percent: 93
+   takeout-total: 35
+   takeout-percent: 84
+   shots-total: 237
+   shots-percent: 92
 vs:
  - Abel, Clinton
+ - Arsenault, Jean-Michel
  - Beuk, Jonathan
  - Boland, Adam
  - Bottcher, Brendan
+ - Brassard, Philippe
  - Burgess, Steve
  - Carmody, Anson
  - Carruthers, Reid
@@ -68,6 +88,7 @@ vs:
  - Crete, Martin
  - Dobson, Paul
  - Doherty, Robbie
+ - Drummond, Kerr
  - Dunstone, Matt
  - Flasch, Colton
  - Follett, Sam
@@ -75,11 +96,14 @@ vs:
  - Forget, Wesley
  - Fry, Ryan
  - Gallant, Brett
+ - Gallant, Chris
+ - Gauthier, Jacques
  - Grattan, James
  - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
+ - Harty, Jeremy
  - Hebert, Ben
  - Hodgson, Colin
  - Howard, Glenn
@@ -88,42 +112,59 @@ vs:
  - Janssen, Patrick
  - Jensen, Trygg
  - Jewer, Keith
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
+ - Koe, Jamie
  - Koe, Kevin
+ - Latimer, Shane
  - Latos, Evan
  - Laycock, Steve
  - Lemay, Philippe
  - Likely, John
  - Locke, Nathan
+ - Lott, Colton
  - Lowery, Ryan
+ - Manuel, Matthew
  - March, Tim
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
  - McDonald, Scott
  - McEwen, Mike
+ - Mcleod, Shadrach
+ - Meagher, Jeffrey
  - Menard, Philippe
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
+ - Mullen, Jesse
  - Muyres, Kirk
  - Nabuurs, Matt
  - Neufeld, B.J.
  - Nichols, Mark
  - Odian, Scott
+ - Parsons, Cole
  - Samagalski, Derek
+ - Saunders, Luke
  - Sawatsky, Rick
  - Scoffin, Thomas
+ - Sluchinski, Aaron
  - Smallwood, Robert
  - Smith, Tyler
+ - Smitheram, Christian
  - Solberg, Jon
+ - St.Louis, Brady
  - Stringer, Ben
  - Sylvain, Eric
  - Symonds, Andrew
  - Thiessen, Brad
+ - Tremblay, Julien
  - Walker, Geoff
  - Wallingham, Joe
+ - Webster, Dylan
+ - Wettig, Sheldon
  - White, Edward
  - Young, Nathan
+ - Zachernuk, Nick
 ---

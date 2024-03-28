@@ -1770,12 +1770,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 87
+        percent: 94
         wins: 1
-        losses: 1
+        losses: 0
       player2:
-        percent: 87
-        wins: 1
+        percent: 86
+        wins: 0
         losses: 1
    games:
     - player1:
@@ -1794,22 +1794,6 @@ vs:
       year: 2021
       draw: Round Robin(18)
       score: BC 5 - AB 7
-    - player1:
-        team: 'NO'
-        position: Third
-        percent: 80
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Third
-        percent: 88
-        win: 1
-        loss: 0
-      event: Brier
-      year: 2023
-      draw: Round Robin(4)
-      score: AB 7 - NO 4
  - name: Taylor, Andrew
    totals:
     - event: Brier

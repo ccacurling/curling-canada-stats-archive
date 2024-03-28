@@ -114,6 +114,7 @@ vs:
  - Scoffin, Thomas
  - Smith, Tyler
  - Sturmay, Karsten
+ - Tardi, Tyler
  - Trepanier, Jean-Francois
  - Walker, Geoff
  - Wallingham, Joe

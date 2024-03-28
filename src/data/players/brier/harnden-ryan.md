@@ -4,19 +4,19 @@ name: Ryan Harnden
 name-sort: Harnden, Ryan
 totals:
  - event: Brier
-   games: 169
-   wins: 115
-   losses: 54
-   inturn-total: 1315
-   inturn-percent: 88
-   outturn-total: 1789
+   games: 179
+   wins: 122
+   losses: 57
+   inturn-total: 1376
+   inturn-percent: 89
+   outturn-total: 1911
    outturn-percent: 88
-   draw-total: 2243
-   draw-percent: 90
-   takeout-total: 861
+   draw-total: 2414
+   draw-percent: 91
+   takeout-total: 873
    takeout-percent: 83
-   shots-total: 3104
-   shots-percent: 88
+   shots-total: 3287
+   shots-percent: 89
 years:
  - year: 2008
    event: Brier
@@ -270,6 +270,24 @@ years:
    takeout-percent: 87
    shots-total: 214
    shots-percent: 91
+ - year: 2024
+   event: Brier
+   team: "MB"
+   position: Lead
+   alternate: false
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 61
+   inturn-percent: 97
+   outturn-total: 122
+   outturn-percent: 92
+   draw-total: 171
+   draw-percent: 94
+   takeout-total: 12
+   takeout-percent: 94
+   shots-total: 183
+   shots-percent: 94
 vs:
  - Abel, Clinton
  - Abraham, Ryan
@@ -286,6 +304,7 @@ vs:
  - Bezanson, Jared
  - Bilesky, Andrew
  - Boland, Adam
+ - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
  - Bouchard, Christian
@@ -294,6 +313,7 @@ vs:
  - Burgess, Steve
  - Burtnyk, Kerry
  - Buyck, James
+ - Byrd, Kurtis
  - Camm, Mathew
  - Carmody, Anson
  - Carruthers, Reid
@@ -318,6 +338,7 @@ vs:
  - Desjardins, Robert
  - Desrosiers, John
  - Dion, William
+ - Dobson, Paul
  - Doherty, Robbie
  - Dunstone, Matt
  - Eldridge, Zach
@@ -342,8 +363,9 @@ vs:
  - Gaudet, Mike
  - Gavin, Martin
  - Gibson, Andrew
+ - Ginter, Jason
  - Gionest, Francois
- - Gordon, Robbie
+ - Gordon, Rob
  - Gould, Steve
  - Grattan, James
  - Griffith, Tyrel
@@ -358,13 +380,16 @@ vs:
  - Hodgson, Colin
  - Horgan, Jacob
  - Horgan, Tanner
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Greg
  - Howard, Scott
  - Howard, Steven
  - Ireland, Clint
+ - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Jewer, Keith
  - Jones, Brennen
  - Jones, Scott
@@ -386,9 +411,11 @@ vs:
  - Korab, Jamie
  - Korte, Bruce
  - Korte, Roger
+ - Krats, Joel
  - Kuhn, Ryan
  - Laing, Brent
  - Lang, Tyler
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
@@ -420,6 +447,7 @@ vs:
  - Maskiewich, Ken
  - Mathers, David
  - McCann, Andy
+ - McCarville, Mike
  - McDermaid, Donald
  - McDonald, Scott
  - McEwen, Mike
@@ -434,6 +462,7 @@ vs:
  - Menard, Philippe
  - Merklinger, Bill
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Mikkelsen, Dustin
  - Mittelstadt, Kelly
  - Morris, John
@@ -466,6 +495,7 @@ vs:
  - Pierce, Brent
  - Pillsworth, Mark
  - Pinder, Jordan
+ - Potts, Jordan
  - Quevillon, Louis
  - Rafuse, Brian
  - Reid, Serge
@@ -484,6 +514,7 @@ vs:
  - Sawatsky, Rick
  - Schille, Chris
  - Schneider, Catlin
+ - Scoffin, Thomas
  - Scoffin, Wade
  - Sharp, Jeff
  - Shypitka, Tom
@@ -491,6 +522,7 @@ vs:
  - Skauge, Greg
  - Slauenwhite, David
  - Smallwood, Robert
+ - Smith, Alex
  - Smith, Garth
  - Smith, Kent
  - Smitheram, Christian
@@ -503,17 +535,19 @@ vs:
  - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Symonds, Andrew
- - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thomas, Colin
  - Thomas, Jeff
  - Trepanier, Jean-Francois
+ - Trickett, Stephen
  - Ursel, Bob
  - Van Strien, Peter
  - Vaughan, Jason
  - Villeneuve, Steeve
  - Virtue, Brock
  - Walker, Geoff
+ - Wallingham, Joe
  - Watson, Aaron
  - Wettig, Sheldon
  - Whitehead, Kevin

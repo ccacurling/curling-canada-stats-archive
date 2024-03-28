@@ -4,18 +4,18 @@ name: E.J. Harnden
 name-sort: Harnden, E.J.
 totals:
  - event: Brier
-   games: 171
-   wins: 115
-   losses: 56
-   inturn-total: 1298
+   games: 182
+   wins: 124
+   losses: 58
+   inturn-total: 1384
    inturn-percent: 86
-   outturn-total: 1887
+   outturn-total: 2000
    outturn-percent: 87
-   draw-total: 1229
+   draw-total: 1313
    draw-percent: 85
-   takeout-total: 1956
+   takeout-total: 2071
    takeout-percent: 88
-   shots-total: 3185
+   shots-total: 3384
    shots-percent: 87
 years:
  - year: 2008
@@ -270,6 +270,24 @@ years:
    takeout-percent: 84
    shots-total: 208
    shots-percent: 85
+ - year: 2024
+   event: Brier
+   team: "CA"
+   position: Second
+   alternate: false
+   games: 11
+   wins: 9
+   losses: 2
+   inturn-total: 86
+   inturn-percent: 85
+   outturn-total: 113
+   outturn-percent: 93
+   draw-total: 84
+   draw-percent: 90
+   takeout-total: 115
+   takeout-percent: 89
+   shots-total: 199
+   shots-percent: 89
 vs:
  - Abel, Clinton
  - Abraham, Ryan
@@ -277,6 +295,7 @@ vs:
  - Adams, Shawn
  - Anderson, Chris
  - Armstrong, Mike
+ - Arsenault, Jean-Michel
  - Asselin, Emile
  - Asselin, Felix
  - Bardsley, Mike
@@ -290,6 +309,7 @@ vs:
  - Bottcher, Brendan
  - Bouchard, Christian
  - Brannen, Jamie
+ - Brassard, Philippe
  - Breckon, Graham
  - Burgess, Steve
  - Burtnyk, Kerry
@@ -321,6 +341,7 @@ vs:
  - Dion, William
  - Doering, Kyle
  - Doherty, Robbie
+ - Drummond, Kerr
  - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
@@ -356,6 +377,7 @@ vs:
  - Harris, Tyler
  - Hart, Joey
  - Hart, Richard
+ - Harty, Jeremy
  - Hebert, Ben
  - Higgs, Jake
  - Hodgson, Colin
@@ -365,6 +387,7 @@ vs:
  - Howard, Scott
  - Howard, Steven
  - Ireland, Clint
+ - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
  - Jensen, Trygg
@@ -390,6 +413,7 @@ vs:
  - Kuhn, Ryan
  - Laing, Brent
  - Lang, Tyler
+ - Latimer, Shane
  - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
@@ -411,6 +435,7 @@ vs:
  - MacLean, Stuart
  - Mallais, Jeremy
  - Manners, Scott
+ - Manuel, Matthew
  - March, Tim
  - Markowsky, Rob
  - Marsh, Dan
@@ -425,8 +450,10 @@ vs:
  - McEwen, Mike
  - McKee, Darrell
  - Mckinnon, Robert
+ - Mcleod, Shadrach
  - Meachem, Shaun Myles
  - Mead, Jon
+ - Meagher, Jeffrey
  - Meister, Nicholas
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -438,6 +465,7 @@ vs:
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
+ - Mullen, Jesse
  - Munroe, Steven
  - Murphy, Jamie
  - Muyres, Dallan
@@ -478,6 +506,7 @@ vs:
  - Rycroft, Carter
  - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Savill, Craig
  - Sawatsky, Rick
  - Schille, Chris
@@ -489,6 +518,7 @@ vs:
  - Simmons, Pat
  - Skauge, Greg
  - Slauenwhite, David
+ - Sluchinski, Aaron
  - Smallwood, Robert
  - Smith, Garth
  - Smith, Kent
@@ -496,14 +526,17 @@ vs:
  - Smitheram, Christian
  - Solberg, Jon
  - Spencer, Adam
+ - St.Louis, Brady
  - St.Louis, David
  - Stoughton, Jeff
  - Sturmay, Karsten
  - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Tremblay, Julien
  - Trepanier, Jean-Francois
  - Ursel, Bob
  - Van Strien, Peter
@@ -513,9 +546,12 @@ vs:
  - Virtue, Brock
  - Walker, Geoff
  - Watson, Aaron
+ - Webster, Dylan
+ - Wettig, Sheldon
  - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Wood, Brad
  - Wozniak, Matt
+ - Zachernuk, Nick
 ---

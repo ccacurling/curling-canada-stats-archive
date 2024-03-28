@@ -74,7 +74,7 @@ vs:
  - Gaudet, Mike
  - Gavin, Martin
  - Gibson, Andrew
- - Gordon, Robbie
+ - Gordon, Rob
  - Gould, Steve
  - Grattan, James
  - Gushue, Brad
@@ -125,7 +125,6 @@ vs:
  - Stoughton, Jeff
  - Stringer, Ben
  - Sullivan, Charles Jr.
- - Tardi, Tyler
  - Thiessen, Brad
  - Wettig, Sheldon
  - Young, Nathan

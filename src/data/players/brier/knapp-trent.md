@@ -40,7 +40,7 @@ vs:
  - Carruthers, Reid
  - Dunstone, Matt
  - Follett, Sam
- - Gordon, Robbie
+ - Gordon, Rob
  - Harnden, Ryan
  - Higgs, Jake
  - Hodgson, Colin
@@ -64,7 +64,6 @@ vs:
  - Smitheram, Christian
  - St.Louis, Brady
  - Stringer, Ben
- - Tardi, Tyler
  - Thiessen, Brad
  - Wettig, Sheldon
  - Young, Nathan

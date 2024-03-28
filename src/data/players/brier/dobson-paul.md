@@ -4,19 +4,19 @@ name: Paul Dobson
 name-sort: Dobson, Paul
 totals:
  - event: Brier
-   games: 37
-   wins: 10
-   losses: 27
-   inturn-total: 310
-   inturn-percent: 75
-   outturn-total: 374
-   outturn-percent: 77
-   draw-total: 307
-   draw-percent: 75
-   takeout-total: 377
-   takeout-percent: 77
-   shots-total: 684
-   shots-percent: 76
+   games: 45
+   wins: 11
+   losses: 34
+   inturn-total: 369
+   inturn-percent: 76
+   outturn-total: 459
+   outturn-percent: 78
+   draw-total: 368
+   draw-percent: 76
+   takeout-total: 460
+   takeout-percent: 78
+   shots-total: 828
+   shots-percent: 77
 years:
  - year: 2005
    event: Brier
@@ -90,6 +90,24 @@ years:
    takeout-percent: 76
    shots-total: 150
    shots-percent: 79
+ - year: 2024
+   event: Brier
+   team: "NB"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 59
+   inturn-percent: 80
+   outturn-total: 85
+   outturn-percent: 84
+   draw-total: 61
+   draw-percent: 82
+   takeout-total: 83
+   takeout-percent: 83
+   shots-total: 144
+   shots-percent: 83
 vs:
  - Adam, Gerry
  - Adam, Mike
@@ -100,9 +118,11 @@ vs:
  - Barker, Richard
  - Berthelot, Marco
  - Bice, Steve
+ - Bonot, Trevor
  - Bottcher, Brendan
  - Bryant, Doug
  - Burgess, Craig
+ - Byrd, Kurtis
  - Camm, Mathew
  - Campbell, Robert
  - Carruthers, Reid
@@ -126,16 +146,20 @@ vs:
  - Frans, Joe
  - Freschi, Don
  - Fry, Ryan
+ - Gallant, Brett
  - Gallant, Peter
+ - Ginter, Jason
  - Gorveatt, Philip
  - Gould, Steve
  - Gushue, Brad
  - Haichert, Chris
  - Harnden, Al
+ - Harnden, Ryan
  - Hart, Richard
  - Hebert, Ben
  - Hodgson, Colin
  - Horning, Deane
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Scott
  - Iskiw, Blayne
@@ -157,6 +181,7 @@ vs:
  - Laycock, Steve
  - Lemay, Philippe
  - Locke, Nathan
+ - Lott, Colton
  - Lowery, Ryan
  - MacDonald, Peter
  - MacDonald, Rod
@@ -167,11 +192,13 @@ vs:
  - Martin, Kevin
  - Mathers, David
  - McCarrel, Graeme
+ - McCarville, Mike
  - McEwen, Mike
  - Mcleod, Shadrach
  - Melnichuk, Greg
  - Menard, Jean-Michel
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Mittelstadt, Kelly
  - Morris, John
  - Moshenko, Darcy
@@ -183,6 +210,7 @@ vs:
  - Nerpin, Andrew
  - Neufeld, B.J.
  - Nichols, Mark
+ - Njegovan, Connor
  - Nobert, Rob
  - O'Rourke, Mark
  - Ouimet, Luc
@@ -190,6 +218,7 @@ vs:
  - Parsons, Cole
  - Pfeifer, Scott
  - Pielak, Rod
+ - Potts, Jordan
  - Roberge, Francois
  - Rocque, Marcel
  - Ryan, Keith
@@ -201,16 +230,21 @@ vs:
  - Scoffin, Thomas
  - Sharp, Jeff
  - Simmons, Pat
+ - Smith, Alex
  - Smith, Tyler
  - Solberg, Jon
  - Sosiak, Jim
  - Stoughton, Jeff
  - Stringer, Ben
  - Sylvain, Eric
+ - Symonds, Andrew
  - Thiessen, Brad
+ - Thomas, Colin
  - Thomson, Fred
  - Toner, Lee
+ - Trickett, Stephen
  - Wallingham, Joe
+ - Webster, Paul
  - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark

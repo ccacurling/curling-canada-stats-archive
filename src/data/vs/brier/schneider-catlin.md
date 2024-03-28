@@ -6,13 +6,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 88
-        wins: 2
+        percent: 89
+        wins: 3
         losses: 0
       player2:
-        percent: 57
+        percent: 58
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'SK'
@@ -46,6 +46,78 @@ vs:
       year: 2022
       draw: Round Robin(13)
       score: SK 12 - YT 3
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(14)
+      score: BC 11 - YT 2
+ - name: Scoffin, Wade
+   totals:
+    - event: Brier
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 67
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(14)
+      score: BC 11 - YT 2
+ - name: Smith, Alex
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(6)
+      score: NL 2 - BC 7
  - name: Smith, Tyler
    totals:
     - event: Brier
@@ -158,6 +230,34 @@ vs:
       year: 2017
       draw: Round Robin(6)
       score: SK 3 - QC 8
+ - name: Symonds, Andrew
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 53
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 53
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(6)
+      score: NL 2 - BC 7
  - name: Thiessen, Brad
    totals:
     - event: Brier
@@ -234,6 +334,62 @@ vs:
       year: 2022
       draw: Round Robin(9)
       score: CA 8 - SK 6
+ - name: Thomas, Colin
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 50
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 50
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(6)
+      score: NL 2 - BC 7
+ - name: Trickett, Stephen
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 47
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 47
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(6)
+      score: NL 2 - BC 7
  - name: Walker, Geoff
    totals:
     - event: Brier
@@ -314,13 +470,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 88
-        wins: 2
+        percent: 89
+        wins: 3
         losses: 0
       player2:
-        percent: 75
+        percent: 76
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'SK'
@@ -354,6 +510,22 @@ vs:
       year: 2022
       draw: Round Robin(13)
       score: SK 12 - YT 3
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(14)
+      score: BC 11 - YT 2
  - name: White, Edward
    totals:
     - event: Brier

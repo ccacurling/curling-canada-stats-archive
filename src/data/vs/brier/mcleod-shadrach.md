@@ -6,13 +6,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 86
-        wins: 0
+        percent: 89
+        wins: 1
         losses: 1
       player2:
-        percent: 84
+        percent: 79
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'NT'
@@ -30,6 +30,22 @@ vs:
       year: 2023
       draw: Round Robin(6)
       score: NS 8 - NT 5
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Second
+        percent: 74
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(5)
+      score: NT 8 - NS 7
  - name: Moskowy, Braeden
    totals:
     - event: Brier
@@ -86,6 +102,34 @@ vs:
       year: 2023
       draw: Round Robin(9)
       score: NO 10 - NT 6
+ - name: Mullen, Jesse
+   totals:
+    - event: Brier
+      player1:
+        percent: 87
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 87
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Second
+        percent: 80
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(1)
+      score: NT 7 - QC 4
  - name: Nadeau, Jeff
    totals:
     - event: Brier
@@ -186,6 +230,34 @@ vs:
       year: 2023
       draw: Round Robin(8)
       score: NT 4 - MB 10
+ - name: Nichols, Mark
+   totals:
+    - event: Brier
+      player1:
+        percent: 82
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 76
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(7)
+      score: CA 5 - NT 7
  - name: Njegovan, Connor
    totals:
     - event: Brier
@@ -346,13 +418,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 86
-        wins: 0
+        percent: 89
+        wins: 1
         losses: 1
       player2:
-        percent: 94
+        percent: 86
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'NT'
@@ -370,6 +442,22 @@ vs:
       year: 2023
       draw: Round Robin(6)
       score: NS 8 - NT 5
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 80
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(5)
+      score: NT 8 - NS 7
  - name: Sawatsky, Rick
    totals:
     - event: Brier
@@ -454,17 +542,73 @@ vs:
       year: 2020
       draw: Round Robin(9)
       score: NT 9 - YT 7
+ - name: Sluchinski, Aaron
+   totals:
+    - event: Brier
+      player1:
+        percent: 73
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(15)
+      score: AB 10 - NT 4
+ - name: Smith, Tyler
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 82
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 82
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(17)
+      score: NT 9 - PE 8
  - name: Smitheram, Christian
    totals:
     - event: Brier
       player1:
         percent: 73
-        wins: 1
+        wins: 2
         losses: 0
       player2:
-        percent: 59
+        percent: 71
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NT'
@@ -482,17 +626,33 @@ vs:
       year: 2023
       draw: Round Robin(14)
       score: NU 3 - NT 9
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(9)
+      score: NT 9 - NU 2
  - name: St.Louis, Brady
    totals:
     - event: Brier
       player1:
         percent: 73
-        wins: 1
+        wins: 2
         losses: 0
       player2:
-        percent: 70
+        percent: 72
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NT'
@@ -510,6 +670,22 @@ vs:
       year: 2023
       draw: Round Robin(14)
       score: NU 3 - NT 9
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(9)
+      score: NT 9 - NU 2
  - name: St.Louis, David
    totals:
     - event: Brier
@@ -566,34 +742,6 @@ vs:
       year: 2023
       draw: Round Robin(11)
       score: NT 7 - NL 8
- - name: Tardi, Tyler
-   totals:
-    - event: Brier
-      player1:
-        percent: 88
-        wins: 0
-        losses: 1
-      player2:
-        percent: 84
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NT'
-        position: Lead
-        percent: 88
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Third
-        percent: 84
-        win: 1
-        loss: 0
-      event: Brier
-      year: 2023
-      draw: Round Robin(17)
-      score: NT 6 - AB 10
  - name: Thiessen, Brad
    totals:
     - event: Brier
@@ -622,6 +770,62 @@ vs:
       year: 2023
       draw: Round Robin(17)
       score: NT 6 - AB 10
+ - name: Tremblay, Julien
+   totals:
+    - event: Brier
+      player1:
+        percent: 87
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 87
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Fourth
+        percent: 63
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(1)
+      score: NT 7 - QC 4
+ - name: Walker, Geoff
+   totals:
+    - event: Brier
+      player1:
+        percent: 82
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(7)
+      score: CA 5 - NT 7
  - name: Wallingham, Joe
    totals:
     - event: Brier
@@ -650,17 +854,45 @@ vs:
       year: 2020
       draw: Round Robin(9)
       score: NT 9 - YT 7
+ - name: Webster, Dylan
+   totals:
+    - event: Brier
+      player1:
+        percent: 73
+        wins: 0
+        losses: 1
+      player2:
+        percent: 77
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 77
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(15)
+      score: AB 10 - NT 4
  - name: Wettig, Sheldon
    totals:
     - event: Brier
       player1:
         percent: 73
-        wins: 1
+        wins: 2
         losses: 0
       player2:
-        percent: 63
+        percent: 65
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NT'
@@ -678,6 +910,50 @@ vs:
       year: 2023
       draw: Round Robin(14)
       score: NU 3 - NT 9
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 68
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(9)
+      score: NT 9 - NU 2
+ - name: White, Edward
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 82
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 82
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(17)
+      score: NT 9 - PE 8
  - name: Winfield, Brett
    totals:
     - event: Brier
@@ -738,13 +1014,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 86
-        wins: 0
+        percent: 89
+        wins: 1
         losses: 1
       player2:
-        percent: 95
+        percent: 90
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'NT'
@@ -762,4 +1038,20 @@ vs:
       year: 2023
       draw: Round Robin(6)
       score: NS 8 - NT 5
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(5)
+      score: NT 8 - NS 7
 ---

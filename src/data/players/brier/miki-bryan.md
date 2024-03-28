@@ -54,6 +54,11 @@ years:
    takeout-percent: 90
    shots-total: 238
    shots-percent: 87
+ - year: 2024
+   event: Brier
+   team: "BC"
+   position: Alternate
+   alternate: true
 vs:
  - Adams, Shawn
  - Alexander, Scott

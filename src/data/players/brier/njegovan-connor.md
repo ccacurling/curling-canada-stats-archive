@@ -4,18 +4,18 @@ name: Connor Njegovan
 name-sort: Njegovan, Connor
 totals:
  - event: Brier
-   games: 41
-   wins: 21
-   losses: 20
-   inturn-total: 151
-   inturn-percent: 89
-   outturn-total: 615
+   games: 51
+   wins: 28
+   losses: 23
+   inturn-total: 250
+   inturn-percent: 91
+   outturn-total: 716
    outturn-percent: 90
-   draw-total: 603
-   draw-percent: 90
-   takeout-total: 163
+   draw-total: 777
+   draw-percent: 91
+   takeout-total: 189
    takeout-percent: 89
-   shots-total: 766
+   shots-total: 966
    shots-percent: 90
 years:
  - year: 2020
@@ -90,6 +90,24 @@ years:
    takeout-percent: 87
    shots-total: 154
    shots-percent: 84
+ - year: 2024
+   event: Brier
+   team: "MB"
+   position: Lead
+   alternate: false
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 99
+   inturn-percent: 94
+   outturn-total: 101
+   outturn-percent: 89
+   draw-total: 174
+   draw-percent: 92
+   takeout-total: 26
+   takeout-percent: 88
+   shots-total: 200
+   shots-percent: 91
 vs:
  - Abraham, Ryan
  - Armstrong, Mike
@@ -97,9 +115,11 @@ vs:
  - Asselin, Felix
  - Bedard, Alek
  - Beuk, Jonathan
+ - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
+ - Byrd, Kurtis
  - Camm, Mathew
  - Carruthers, Reid
  - Cochrane, Bryan
@@ -107,6 +127,7 @@ vs:
  - Crete, Martin
  - Crowell, Phil
  - Currie, Morgan
+ - Dobson, Paul
  - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
@@ -115,6 +136,7 @@ vs:
  - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
+ - Ginter, Jason
  - Grattan, James
  - Gushue, Brad
  - Hagen, Brandon
@@ -125,10 +147,12 @@ vs:
  - Hodgson, Colin
  - Horgan, Jacob
  - Horgan, Tanner
+ - Horvath, Alex
  - Howard, Greg
  - Howard, Scott
  - Jacobs, Brad
  - Janssen, Patrick
+ - Jensen, Trygg
  - Jones, Brennen
  - Kennedy, Glen
  - Kennedy, Marc
@@ -139,7 +163,9 @@ vs:
  - Koe, Kevin
  - Kohlenberg, Dale
  - Kolomaya, Jared
+ - Krats, Joel
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - Lequin, Bradley
  - Lichty, Terry
@@ -152,6 +178,7 @@ vs:
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
+ - McCarville, Mike
  - McEwen, Mike
  - Mckinnon, Robert
  - Mcleod, Shadrach
@@ -159,6 +186,7 @@ vs:
  - Meagher, Jeffrey
  - Meister, Nicholas
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Mikkelsen, Dustin
  - Morris, John
  - Moskowy, Braeden
@@ -176,6 +204,7 @@ vs:
  - Peech, Alexander
  - Pierce, Brent
  - Pillsworth, Mark
+ - Potts, Jordan
  - Quevillon, Louis
  - Richard, Jeff
  - Saccary, Scott
@@ -183,13 +212,18 @@ vs:
  - Saunders, Luke
  - Sawatsky, Rick
  - Schneider, Catlin
+ - Scoffin, Thomas
+ - Scoffin, Wade
  - Skauge, Greg
+ - Smith, Alex
  - Smitheram, Christian
  - St.Louis, Brady
  - Stringer, Ben
- - Tardi, Tyler
+ - Symonds, Andrew
  - Thiessen, Brad
+ - Thomas, Colin
  - Trepanier, Jean-Francois
+ - Trickett, Stephen
  - Walker, Geoff
  - Wettig, Sheldon
  - Young, Nathan

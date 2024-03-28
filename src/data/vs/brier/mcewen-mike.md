@@ -34,13 +34,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 96
-        wins: 1
+        percent: 93
+        wins: 3
         losses: 0
       player2:
-        percent: 79
+        percent: 86
         wins: 0
-        losses: 1
+        losses: 3
    games:
     - player1:
         team: 'WC'
@@ -58,6 +58,38 @@ vs:
       year: 2020
       draw: Round Robin(6)
       score: NT 2 - WC 6
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(13)
+      score: SK 10 - NT 2
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Lead
+        percent: 92
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Playoff(20)
+      score: SK 7 - NT 0
  - name: Meachem, Shaun Myles
    totals:
     - event: Brier
@@ -86,6 +118,34 @@ vs:
       year: 2017
       draw: Round Robin(1)
       score: SK 5 - MB 6
+ - name: Meagher, Jeffrey
+   totals:
+    - event: Brier
+      player1:
+        percent: 87
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 87
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(9)
+      score: NS 7 - SK 4
  - name: Meister, Nicholas
    totals:
     - event: Brier
@@ -482,6 +542,34 @@ vs:
       year: 2021
       draw: Round Robin(14)
       score: WC 3 - AB 9
+ - name: Mullen, Jesse
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(17)
+      score: QC 6 - SK 7
  - name: Murphy, Jamie
    totals:
     - event: Brier
@@ -766,13 +854,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 80
-        wins: 0
+        percent: 85
+        wins: 1
         losses: 2
       player2:
-        percent: 88
+        percent: 89
         wins: 2
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'MB'
@@ -806,17 +894,33 @@ vs:
       year: 2020
       draw: Round Robin(10)
       score: WC 2 - CA 3
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 90
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Page 3-4(21)
+      score: SK 6 - MB 5
  - name: Nichols, Mark
    totals:
     - event: Brier
       player1:
-        percent: 84
-        wins: 2
-        losses: 7
+        percent: 85
+        wins: 3
+        losses: 8
       player2:
         percent: 88
-        wins: 7
-        losses: 2
+        wins: 8
+        losses: 3
    games:
     - player1:
         team: 'MB'
@@ -962,6 +1066,38 @@ vs:
       year: 2023
       draw: Playoff(20)
       score: ON 3 - CA 9
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(3)
+      score: SK 7 - CA 6
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Final(24)
+      score: SK 5 - CA 9
  - name: Njegovan, Connor
    totals:
     - event: Brier
@@ -1070,13 +1206,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 86
-        wins: 2
+        percent: 89
+        wins: 4
         losses: 0
       player2:
-        percent: 81
+        percent: 82
         wins: 0
-        losses: 2
+        losses: 4
    games:
     - player1:
         team: 'WC'
@@ -1110,6 +1246,38 @@ vs:
       year: 2022
       draw: Round Robin(16)
       score: NT 3 - MB 7
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(13)
+      score: SK 10 - NT 2
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Playoff(20)
+      score: SK 7 - NT 0
  - name: Patzer, Brad
    totals:
     - event: Brier
@@ -1438,6 +1606,34 @@ vs:
       year: 2018
       draw: Pool(19)
       score: MB 3 - WC 8
+ - name: Saunders, Luke
+   totals:
+    - event: Brier
+      player1:
+        percent: 87
+        wins: 0
+        losses: 1
+      player2:
+        percent: 93
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 87
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 93
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(9)
+      score: NS 7 - SK 4
  - name: Sawatsky, Rick
    totals:
     - event: Brier
@@ -1778,6 +1974,34 @@ vs:
       year: 2021
       draw: Round Robin(16)
       score: NT 3 - WC 12
+ - name: Sluchinski, Aaron
+   totals:
+    - event: Brier
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(11)
+      score: AB 6 - SK 11
  - name: Smallwood, Robert
    totals:
     - event: Brier
@@ -1838,13 +2062,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 86
-        wins: 0
+        percent: 88
+        wins: 1
         losses: 1
       player2:
-        percent: 94
+        percent: 89
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'ON'
@@ -1862,6 +2086,50 @@ vs:
       year: 2023
       draw: Round Robin(7)
       score: PE 8 - ON 7
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 84
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(1)
+      score: SK 7 - PE 6
+ - name: Smitheram, Christian
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(15)
+      score: NU 3 - SK 9
  - name: Solberg, Jon
    totals:
     - event: Brier
@@ -1934,6 +2202,34 @@ vs:
       year: 2017
       draw: Round Robin(16)
       score: MB 8 - ON 3
+ - name: St.Louis, Brady
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 57
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Second
+        percent: 57
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(15)
+      score: NU 3 - SK 9
  - name: Sturmay, Karsten
    totals:
     - event: Brier
@@ -2054,7 +2350,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 89
+        percent: 78
         wins: 1
         losses: 0
       player2:
@@ -2065,19 +2361,19 @@ vs:
     - player1:
         team: 'ON'
         position: Fourth
-        percent: 89
+        percent: 78
         win: 1
         loss: 0
       player2:
-        team: 'AB'
+        team: 'WC'
         position: Third
         percent: 88
         win: 0
         loss: 1
       event: Brier
       year: 2023
-      draw: Playoff(19)
-      score: ON 9 - AB 8
+      draw: Round Robin(18)
+      score: ON 9 - WC 8
  - name: Taylor, Andrew
    totals:
     - event: Brier
@@ -2242,6 +2538,34 @@ vs:
       year: 2016
       draw: Round Robin(10)
       score: MB 6 - CA 4
+ - name: Tremblay, Julien
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 71
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Fourth
+        percent: 71
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(17)
+      score: QC 6 - SK 7
  - name: Trepanier, Jean-Francois
    totals:
     - event: Brier
@@ -2318,13 +2642,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 84
-        wins: 2
-        losses: 7
+        percent: 85
+        wins: 3
+        losses: 8
       player2:
         percent: 91
-        wins: 7
-        losses: 2
+        wins: 8
+        losses: 3
    games:
     - player1:
         team: 'MB'
@@ -2470,6 +2794,38 @@ vs:
       year: 2023
       draw: Playoff(20)
       score: ON 3 - CA 9
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(3)
+      score: SK 7 - CA 6
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Final(24)
+      score: SK 5 - CA 9
  - name: Wallingham, Joe
    totals:
     - event: Brier
@@ -2514,17 +2870,73 @@ vs:
       year: 2023
       draw: Round Robin(10)
       score: ON 10 - YT 7
+ - name: Webster, Dylan
+   totals:
+    - event: Brier
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(11)
+      score: AB 6 - SK 11
+ - name: Wettig, Sheldon
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 73
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 73
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(15)
+      score: NU 3 - SK 9
  - name: White, Edward
    totals:
     - event: Brier
       player1:
-        percent: 86
-        wins: 0
+        percent: 88
+        wins: 1
         losses: 1
       player2:
-        percent: 98
+        percent: 95
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'ON'
@@ -2542,6 +2954,22 @@ vs:
       year: 2023
       draw: Round Robin(7)
       score: PE 8 - ON 7
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(1)
+      score: SK 7 - PE 6
  - name: Winfield, Brett
    totals:
     - event: Brier
@@ -2686,4 +3114,32 @@ vs:
       year: 2022
       draw: Tie-Breaker(19)
       score: WC 9 - MB 3
+ - name: Zachernuk, Nick
+   totals:
+    - event: Brier
+      player1:
+        percent: 87
+        wins: 0
+        losses: 1
+      player2:
+        percent: 93
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 87
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(9)
+      score: NS 7 - SK 4
 ---

@@ -4,19 +4,19 @@ name: Tyler Tardi
 name-sort: Tardi, Tyler
 totals:
  - event: Brier
-   games: 11
-   wins: 8
-   losses: 3
-   inturn-total: 104
-   inturn-percent: 89
-   outturn-total: 90
-   outturn-percent: 86
-   draw-total: 83
-   draw-percent: 88
-   takeout-total: 111
-   takeout-percent: 88
-   shots-total: 194
-   shots-percent: 88
+   games: 19
+   wins: 11
+   losses: 8
+   inturn-total: 161
+   inturn-percent: 87
+   outturn-total: 177
+   outturn-percent: 84
+   draw-total: 149
+   draw-percent: 85
+   takeout-total: 189
+   takeout-percent: 86
+   shots-total: 338
+   shots-percent: 85
 years:
  - year: 2021
    event: Brier
@@ -88,48 +88,62 @@ years:
    takeout-percent: 89
    shots-total: 172
    shots-percent: 88
+ - year: 2023
+   event: Brier
+   team: "WC"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 57
+   inturn-percent: 83
+   outturn-total: 87
+   outturn-percent: 82
+   draw-total: 66
+   draw-percent: 80
+   takeout-total: 78
+   takeout-percent: 84
+   shots-total: 144
+   shots-percent: 82
 vs:
- - Armstrong, Mike
+ - Asselin, Emile
+ - Asselin, Felix
+ - Bezanson, Jared
  - Bottcher, Brendan
- - Carruthers, Reid
- - Dunstone, Matt
- - Follett, Sam
+ - Cocks, Adam
+ - Crete, Martin
  - Fry, Ryan
- - Gordon, Robbie
+ - Gallant, Brett
+ - Gauthier, Jacques
+ - Ginter, Jason
+ - Gushue, Brad
  - Hagen, Brandon
- - Harnden, Ryan
+ - Harnden, E.J.
  - Hart, Joey
- - Higgs, Jake
- - Hodgson, Colin
- - Horgan, Jacob
- - Horgan, Tanner
- - Jones, Brennen
- - Kennedy, Glen
- - Knapp, Kelly
- - Knapp, Trent
- - Koe, Jamie
+ - Hebert, Ben
+ - Horvath, Alex
+ - Jensen, Trygg
+ - Jones, Scott
+ - Kennedy, Marc
+ - King, Brian
  - Laing, Brent
- - Lichty, Terry
- - Locke, Nathan
- - Lott, Colton
- - Manuel, Matthew
+ - Latos, Evan
+ - MacFadyen, Alex
+ - Mallais, Jeremy
  - Martin, Karrick
  - McEwen, Mike
  - Mckinnon, Robert
- - Mcleod, Shadrach
- - Meagher, Jeffrey
+ - Middleton, Sterling
  - Mikkelsen, Dustin
  - Moulding, Darren
- - Neufeld, B.J.
- - Njegovan, Connor
- - Parsons, Cole
+ - Nichols, Mark
  - Peech, Alexander
- - Samagalski, Derek
- - Saunders, Luke
- - St.Louis, Brady
- - Stringer, Ben
+ - Scoffin, Thomas
+ - Scoffin, Wade
+ - Smith, Tyler
  - Thiessen, Brad
- - Wettig, Sheldon
- - Young, Nathan
- - Zachernuk, Nick
+ - Trepanier, Jean-Francois
+ - Walker, Geoff
+ - White, Edward
 ---

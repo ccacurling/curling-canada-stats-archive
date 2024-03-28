@@ -6,12 +6,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 84
+        percent: 86
         wins: 2
-        losses: 0
+        losses: 1
       player2:
-        percent: 78
-        wins: 0
+        percent: 83
+        wins: 1
         losses: 2
    games:
     - player1:
@@ -46,6 +46,50 @@ vs:
       year: 2022
       draw: Round Robin(9)
       score: NB 4 - ON 5
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(18)
+      score: ON 5 - NB 6
+ - name: McCarville, Mike
+   totals:
+    - event: Brier
+      player1:
+        percent: 79
+        wins: 0
+        losses: 1
+      player2:
+        percent: 82
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 82
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(10)
+      score: ON 6 - NO 10
  - name: McEwen, Mike
    totals:
     - event: Brier
@@ -282,6 +326,34 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: ON 6 - QC 7
+ - name: Middleton, Sterling
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 93
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Second
+        percent: 93
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(2)
+      score: BC 5 - ON 7
  - name: Mikkelsen, Dustin
    totals:
     - event: Brier
@@ -732,10 +804,10 @@ vs:
       player1:
         percent: 86
         wins: 0
-        losses: 4
+        losses: 5
       player2:
-        percent: 87
-        wins: 4
+        percent: 88
+        wins: 5
         losses: 0
    games:
     - player1:
@@ -802,6 +874,22 @@ vs:
       year: 2022
       draw: Round Robin(5)
       score: ON 5 - AB 7
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 92
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(14)
+      score: MB 8 - ON 7
  - name: Neufeld, Denni
    totals:
     - event: Brier
@@ -926,12 +1014,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 81
+        percent: 85
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 90
-        wins: 0
+        percent: 93
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -950,6 +1038,50 @@ vs:
       year: 2021
       draw: Round Robin(18)
       score: MB 4 - WC 5
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 95
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(4)
+      score: MB 7 - ON 6
+ - name: Noftall, David
+   totals:
+    - event: Brier
+      player1:
+        percent: 97
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 76
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(8)
+      score: ON 7 - NL 3
  - name: Patzer, Brad
    totals:
     - event: Brier
@@ -1034,6 +1166,34 @@ vs:
       year: 2017
       draw: Round Robin(2)
       score: ON 5 - NS 6
+ - name: Potts, Jordan
+   totals:
+    - event: Brier
+      player1:
+        percent: 79
+        wins: 0
+        losses: 1
+      player2:
+        percent: 67
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 67
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(10)
+      score: ON 6 - NO 10
  - name: Rycroft, Carter
    totals:
     - event: Brier
@@ -1110,12 +1270,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 85
+        percent: 86
         wins: 2
-        losses: 0
+        losses: 1
       player2:
-        percent: 94
-        wins: 0
+        percent: 90
+        wins: 1
         losses: 2
    games:
     - player1:
@@ -1150,6 +1310,22 @@ vs:
       year: 2021
       draw: Round Robin(10)
       score: WC 6 - WC 5
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(4)
+      score: MB 7 - ON 6
  - name: Sawatsky, Rick
    totals:
     - event: Brier
@@ -1274,13 +1450,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 85
-        wins: 0
+        percent: 84
+        wins: 1
         losses: 2
       player2:
-        percent: 81
+        percent: 84
         wins: 2
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'ON'
@@ -1314,6 +1490,22 @@ vs:
       year: 2022
       draw: Round Robin(11)
       score: SK 6 - ON 3
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 89
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(2)
+      score: BC 5 - ON 7
  - name: Schneider, Jamie
    totals:
     - event: Brier
@@ -1346,13 +1538,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 88
-        wins: 1
+        percent: 81
+        wins: 2
         losses: 0
       player2:
-        percent: 88
+        percent: 81
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'ON'
@@ -1370,6 +1562,22 @@ vs:
       year: 2022
       draw: Round Robin(17)
       score: YT 2 - ON 10
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 77
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(12)
+      score: YT 3 - ON 8
  - name: Simmons, Pat
    totals:
     - event: Brier
@@ -1442,6 +1650,34 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: WC 9 - NT 5
+ - name: Smith, Alex
+   totals:
+    - event: Brier
+      player1:
+        percent: 97
+        wins: 1
+        losses: 0
+      player2:
+        percent: 89
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(8)
+      score: ON 7 - NL 3
  - name: Smith, Tyler
    totals:
     - event: Brier
@@ -1586,6 +1822,34 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: ON 6 - QC 7
+ - name: Symonds, Andrew
+   totals:
+    - event: Brier
+      player1:
+        percent: 97
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(8)
+      score: ON 7 - NL 3
  - name: Thiessen, Brad
    totals:
     - event: Brier
@@ -1690,6 +1954,34 @@ vs:
       year: 2016
       draw: Round Robin(6)
       score: CA 4 - PE 6
+ - name: Trickett, Stephen
+   totals:
+    - event: Brier
+      player1:
+        percent: 97
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 74
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(8)
+      score: ON 7 - NL 3
  - name: Walker, Geoff
    totals:
     - event: Brier
@@ -1770,13 +2062,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 88
-        wins: 1
+        percent: 81
+        wins: 2
         losses: 0
       player2:
-        percent: 77
+        percent: 78
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'ON'
@@ -1794,6 +2086,22 @@ vs:
       year: 2022
       draw: Round Robin(17)
       score: YT 2 - ON 10
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 77
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(12)
+      score: YT 3 - ON 8
  - name: White, Edward
    totals:
     - event: Brier

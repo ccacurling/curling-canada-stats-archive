@@ -55,7 +55,7 @@ vs:
  - Dunstone, Matt
  - Eckstrand, Dustin
  - Follett, Sam
- - Gordon, Robbie
+ - Gordon, Rob
  - Harnden, Ryan
  - Hebert, Ben
  - Higgs, Jake
@@ -83,7 +83,6 @@ vs:
  - Smitheram, Christian
  - St.Louis, Brady
  - Stringer, Ben
- - Tardi, Tyler
  - Thiessen, Brad
  - Wettig, Sheldon
  - Young, Nathan

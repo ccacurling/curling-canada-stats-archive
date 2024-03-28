@@ -114,6 +114,34 @@ vs:
       year: 2014
       draw: Round Robin(16)
       score: QC 7 - NO 4
+ - name: Middleton, Sterling
+   totals:
+    - event: Brier
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 93
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Second
+        percent: 93
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(12)
+      score: NO 7 - BC 4
  - name: Morgan, Tyler
    totals:
     - event: Brier
@@ -254,6 +282,34 @@ vs:
       year: 2014
       draw: Round Robin(4)
       score: SK 6 - NO 4
+ - name: Neufeld, B.J.
+   totals:
+    - event: Brier
+      player1:
+        percent: 70
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(16)
+      score: NO 3 - MB 8
  - name: Nichols, Mark
    totals:
     - event: Brier
@@ -282,6 +338,34 @@ vs:
       year: 2014
       draw: Round Robin(11)
       score: NO 6 - MB 9
+ - name: Njegovan, Connor
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 0
+        losses: 1
+      player2:
+        percent: 93
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(6)
+      score: MB 9 - NO 8
  - name: Pinder, Jordan
    totals:
     - event: Brier
@@ -394,6 +478,34 @@ vs:
       year: 2014
       draw: Round Robin(9)
       score: NO 3 - AB 9
+ - name: Samagalski, Derek
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(6)
+      score: MB 9 - NO 8
  - name: Sawatsky, Rick
    totals:
     - event: Brier
@@ -422,6 +534,62 @@ vs:
       year: 2014
       draw: Round Robin(2)
       score: NO 2 - BC 8
+ - name: Schneider, Catlin
+   totals:
+    - event: Brier
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 82
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 82
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(12)
+      score: NO 7 - BC 4
+ - name: Scoffin, Thomas
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(18)
+      score: YT 8 - NO 7
  - name: Simmons, Pat
    totals:
     - event: Brier
@@ -450,6 +618,34 @@ vs:
       year: 2014
       draw: Round Robin(9)
       score: NO 3 - AB 9
+ - name: Smith, Alex
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 90
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(4)
+      score: NO 7 - NL 6
  - name: Stoughton, Jeff
    totals:
     - event: Brier
@@ -506,6 +702,34 @@ vs:
       year: 2014
       draw: Round Robin(16)
       score: QC 7 - NO 4
+ - name: Symonds, Andrew
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(4)
+      score: NO 7 - NL 6
  - name: Thiessen, Nolan
    totals:
     - event: Brier
@@ -534,6 +758,62 @@ vs:
       year: 2014
       draw: Round Robin(9)
       score: NO 3 - AB 9
+ - name: Thomas, Colin
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 80
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(4)
+      score: NO 7 - NL 6
+ - name: Trickett, Stephen
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(4)
+      score: NO 7 - NL 6
  - name: Walker, Geoff
    totals:
     - event: Brier
@@ -562,6 +842,34 @@ vs:
       year: 2014
       draw: Round Robin(14)
       score: NL 7 - NO 6
+ - name: Wallingham, Joe
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 97
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 97
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(18)
+      score: YT 8 - NO 7
  - name: Whitehead, Kevin
    totals:
     - event: Brier

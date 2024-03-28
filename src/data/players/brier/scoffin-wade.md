@@ -4,18 +4,18 @@ name: Wade Scoffin
 name-sort: Scoffin, Wade
 totals:
  - event: Brier
-   games: 35
+   games: 39
    wins: 9
-   losses: 26
-   inturn-total: 263
-   inturn-percent: 77
-   outturn-total: 376
-   outturn-percent: 78
-   draw-total: 342
+   losses: 30
+   inturn-total: 288
+   inturn-percent: 76
+   outturn-total: 411
+   outturn-percent: 79
+   draw-total: 382
    draw-percent: 77
-   takeout-total: 297
-   takeout-percent: 79
-   shots-total: 639
+   takeout-total: 317
+   takeout-percent: 78
+   shots-total: 699
    shots-percent: 78
 years:
  - year: 1997
@@ -134,6 +134,24 @@ years:
    takeout-percent: 85
    shots-total: 68
    shots-percent: 81
+ - year: 2024
+   event: Brier
+   team: "YT"
+   position: Second
+   alternate: true
+   games: 4
+   wins: 0
+   losses: 4
+   inturn-total: 25
+   inturn-percent: 68
+   outturn-total: 35
+   outturn-percent: 84
+   draw-total: 40
+   draw-percent: 81
+   takeout-total: 20
+   takeout-percent: 71
+   shots-total: 60
+   shots-percent: 78
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -145,6 +163,7 @@ vs:
  - Burgess, Craig
  - Burtnyk, Kerry
  - Campbell, Robert
+ - Carruthers, Reid
  - Case, Peter
  - Champion, Kevin
  - Chorostkowski, Brad
@@ -156,6 +175,7 @@ vs:
  - Daneault, Richard
  - Darragh, Alan
  - Desrosiers, John
+ - Dunstone, Matt
  - Elias, Dave
  - Elmaleh, Maxime
  - Eloranta, Drew
@@ -171,6 +191,7 @@ vs:
  - Geall, Sean
  - Ginter, Jason
  - Goller, Kurtis
+ - Gordon, Rob
  - Grattan, James
  - Gushue, Brad
  - Harnden, E.J.
@@ -185,6 +206,7 @@ vs:
  - Howard, Glenn
  - Howard, Russ
  - Hunt, Matthew
+ - Jacobs, Brad
  - Jenkins, Bill
  - Josephson, Glenn
  - Kammerlock, Dan
@@ -201,6 +223,7 @@ vs:
  - LeCocq, Marc
  - Likely, John
  - Lind, J.D.
+ - Lott, Colton
  - Lukowich, Mark
  - MacFadyen, Alex
  - MacKenzie, Kevin
@@ -221,6 +244,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Njegovan, Connor
  - Noftall, David
  - Noseworthy, Mark
  - Odishaw, Grant
@@ -235,11 +259,14 @@ vs:
  - Ryan, Pat
  - Saccary, Scott
  - Sallows, Tom
+ - Samagalski, Derek
  - Savill, Craig
  - Sawatsky, Rick
  - Schille, Chris
+ - Schneider, Catlin
  - Sharp, Jeff
  - Simmons, Pat
+ - Smith, Alex
  - Smith, Garth
  - Smith, Greg
  - Smith, Jeff
@@ -248,8 +275,12 @@ vs:
  - Sturmay, Karsten
  - Suchy, Chris
  - Sylvain, Eric
+ - Symonds, Andrew
+ - Tardi, Tyler
  - Taylor, Andrew
  - Thiessen, Brad
+ - Thomas, Colin
+ - Trickett, Stephen
  - Turpin, Randy
  - Ursel, Bob
  - Vaughan, Jason

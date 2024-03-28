@@ -142,7 +142,7 @@ vs:
  - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
- - Gordon, Robbie
+ - Gordon, Rob
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.

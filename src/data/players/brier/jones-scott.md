@@ -227,6 +227,7 @@ vs:
  - Stoughton, Jeff
  - Sturmay, Karsten
  - Sylvain, Eric
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Toner, Lee

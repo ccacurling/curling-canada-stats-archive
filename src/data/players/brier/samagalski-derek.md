@@ -4,18 +4,18 @@ name: Derek Samagalski
 name-sort: Samagalski, Derek
 totals:
  - event: Brier
-   games: 84
-   wins: 44
-   losses: 40
-   inturn-total: 750
+   games: 94
+   wins: 51
+   losses: 43
+   inturn-total: 826
    inturn-percent: 85
-   outturn-total: 791
+   outturn-total: 915
    outturn-percent: 87
-   draw-total: 819
-   draw-percent: 87
-   takeout-total: 722
-   takeout-percent: 85
-   shots-total: 1541
+   draw-total: 890
+   draw-percent: 86
+   takeout-total: 851
+   takeout-percent: 86
+   shots-total: 1741
    shots-percent: 86
 years:
  - year: 2012
@@ -162,6 +162,24 @@ years:
    takeout-percent: 82
    shots-total: 154
    shots-percent: 82
+ - year: 2024
+   event: Brier
+   team: "MB"
+   position: Second
+   alternate: false
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 76
+   inturn-percent: 85
+   outturn-total: 124
+   outturn-percent: 87
+   draw-total: 71
+   draw-percent: 80
+   takeout-total: 129
+   takeout-percent: 90
+   shots-total: 200
+   shots-percent: 86
 vs:
  - Abel, Clinton
  - Abraham, Ryan
@@ -173,10 +191,12 @@ vs:
  - Beuk, Jonathan
  - Bezanson, Jared
  - Boland, Adam
+ - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
  - Burgess, Steve
+ - Byrd, Kurtis
  - Camm, Mathew
  - Carmody, Anson
  - Case, Peter
@@ -209,6 +229,7 @@ vs:
  - Gallant, Brett
  - Gallant, Chris
  - Gaudet, Mike
+ - Ginter, Jason
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -222,6 +243,7 @@ vs:
  - Hodgson, Colin
  - Horgan, Jacob
  - Horgan, Tanner
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Greg
  - Howard, Scott
@@ -242,9 +264,11 @@ vs:
  - Koe, Jamie
  - Koe, Kevin
  - Kolomaya, Jared
+ - Krats, Joel
  - Kuhn, Ryan
  - Laing, Brent
  - Lang, Tyler
+ - Latos, Evan
  - Laycock, Steve
  - Ledgerwood, Sean
  - Lemay, Philippe
@@ -264,6 +288,7 @@ vs:
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
+ - McCarville, Mike
  - McDermaid, Donald
  - McDonald, Scott
  - McEwen, Mike
@@ -274,6 +299,7 @@ vs:
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Mikkelsen, Dustin
  - Morris, John
  - Moskowy, Braeden
@@ -298,6 +324,7 @@ vs:
  - Pierce, Brent
  - Pillsworth, Mark
  - Pinder, Jordan
+ - Potts, Jordan
  - Rach, Dave
  - Richard, Jeff
  - Roy, Jean-Sebastien
@@ -308,10 +335,12 @@ vs:
  - Sawatsky, Rick
  - Schneider, Catlin
  - Scoffin, Thomas
+ - Scoffin, Wade
  - Seabrook, Scott
  - Simmons, Pat
  - Skauge, Greg
  - Smallwood, Robert
+ - Smith, Alex
  - Smitheram, Christian
  - Solberg, Jon
  - St.Louis, Brady
@@ -319,10 +348,11 @@ vs:
  - Stringer, Ben
  - Sylvain, Eric
  - Symonds, Andrew
- - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thomas, Colin
  - Trepanier, Jean-Francois
+ - Trickett, Stephen
  - Van Strien, Peter
  - Villeneuve, Steeve
  - Walker, Geoff

@@ -4,18 +4,18 @@ name: Catlin Schneider
 name-sort: Schneider, Catlin
 totals:
  - event: Brier
-   games: 36
-   wins: 21
-   losses: 15
-   inturn-total: 308
+   games: 44
+   wins: 25
+   losses: 19
+   inturn-total: 383
    inturn-percent: 84
-   outturn-total: 370
+   outturn-total: 439
    outturn-percent: 86
-   draw-total: 256
-   draw-percent: 87
-   takeout-total: 422
-   takeout-percent: 84
-   shots-total: 678
+   draw-total: 320
+   draw-percent: 88
+   takeout-total: 502
+   takeout-percent: 83
+   shots-total: 822
    shots-percent: 85
 years:
  - year: 2017
@@ -72,11 +72,31 @@ years:
    takeout-percent: 81
    shots-total: 220
    shots-percent: 82
+ - year: 2024
+   event: Brier
+   team: "BC"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 75
+   inturn-percent: 84
+   outturn-total: 69
+   outturn-percent: 84
+   draw-total: 64
+   draw-percent: 91
+   takeout-total: 80
+   takeout-percent: 78
+   shots-total: 144
+   shots-percent: 84
 vs:
  - Aho, David
+ - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
+ - Byrd, Kurtis
  - Camm, Mathew
  - Carruthers, Reid
  - Casey, Adam
@@ -113,16 +133,19 @@ vs:
  - Kidby, Dustin
  - Koe, Jamie
  - Koe, Kevin
+ - Krats, Joel
  - Laing, Brent
  - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Locke, Nathan
+ - Lott, Colton
  - Lowery, Ryan
  - March, Tim
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
+ - McCarville, Mike
  - McEwen, Mike
  - Mcleod, Shadrach
  - Menard, Jean-Michel
@@ -138,19 +161,26 @@ vs:
  - Ng, Matt
  - Nichols, Mark
  - Njegovan, Connor
+ - Noftall, David
  - Parsons, Cole
  - Pfeifer, Scott
  - Pinder, Jordan
+ - Potts, Jordan
  - Saccary, Scott
  - Samagalski, Derek
  - Sawatsky, Rick
  - Schille, Chris
  - Scoffin, Thomas
+ - Scoffin, Wade
+ - Smith, Alex
  - Smith, Tyler
  - Spencer, Adam
  - Stringer, Ben
  - Sylvain, Eric
+ - Symonds, Andrew
  - Thiessen, Brad
+ - Thomas, Colin
+ - Trickett, Stephen
  - Walker, Geoff
  - Wallingham, Joe
  - White, Edward

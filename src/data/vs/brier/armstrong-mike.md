@@ -422,7 +422,7 @@ vs:
       year: 2012
       draw: Round Robin(1)
       score: PE 4 - SK 8
- - name: Gordon, Robbie
+ - name: Gordon, Rob
    totals:
     - event: Brier
       player1:
@@ -1858,34 +1858,6 @@ vs:
       year: 2023
       draw: Round Robin(4)
       score: SK 7 - NL 3
- - name: Tardi, Tyler
-   totals:
-    - event: Brier
-      player1:
-        percent: 76
-        wins: 0
-        losses: 1
-      player2:
-        percent: 92
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Second
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Third
-        percent: 92
-        win: 1
-        loss: 0
-      event: Brier
-      year: 2023
-      draw: Round Robin(6)
-      score: SK 4 - AB 8
  - name: Thiessen, Brad
    totals:
     - event: Brier

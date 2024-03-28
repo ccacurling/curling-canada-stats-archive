@@ -4,18 +4,18 @@ name: Kevin Koe
 name-sort: Koe, Kevin
 totals:
  - event: Brier
-   games: 139
-   wins: 105
-   losses: 34
-   inturn-total: 947
+   games: 147
+   wins: 107
+   losses: 40
+   inturn-total: 1007
    inturn-percent: 83
-   outturn-total: 1604
-   outturn-percent: 87
-   draw-total: 959
-   draw-percent: 84
-   takeout-total: 1592
+   outturn-total: 1687
+   outturn-percent: 86
+   draw-total: 1019
+   draw-percent: 83
+   takeout-total: 1675
    takeout-percent: 86
-   shots-total: 2551
+   shots-total: 2694
    shots-percent: 85
 years:
  - year: 2010
@@ -216,11 +216,30 @@ years:
    takeout-percent: 85
    shots-total: 169
    shots-percent: 84
+ - year: 2024
+   event: Brier
+   team: "AB"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 60
+   inturn-percent: 75
+   outturn-total: 83
+   outturn-percent: 68
+   draw-total: 60
+   draw-percent: 70
+   takeout-total: 83
+   takeout-percent: 71
+   shots-total: 143
+   shots-percent: 71
 vs:
  - Aho, David
  - Anderson, Chris
  - Ardiel, Taylor
  - Armstrong, Mike
+ - Arsenault, Jean-Michel
  - Asselin, Felix
  - Balsdon, Greg
  - Bardsley, Mike
@@ -234,6 +253,7 @@ vs:
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
+ - Brassard, Philippe
  - Camm, Mathew
  - Carmody, Anson
  - Carruthers, Reid
@@ -259,6 +279,7 @@ vs:
  - Desjardins, Robert
  - Dobson, Paul
  - Doherty, Robbie
+ - Drummond, Kerr
  - Dunstone, Matt
  - Dutiaume, Randy
  - Eldridge, Zach
@@ -279,7 +300,7 @@ vs:
  - Gaudet, Mike
  - Gavin, Martin
  - Gionest, Francois
- - Gordon, Robbie
+ - Gordon, Rob
  - Gould, Steve
  - Grattan, James
  - Griffith, Tyrel
@@ -290,6 +311,7 @@ vs:
  - Harris, Tyler
  - Hart, Joey
  - Hart, Richard
+ - Harty, Jeremy
  - Higgs, Jake
  - Hodgson, Colin
  - Horgan, Jacob
@@ -320,6 +342,7 @@ vs:
  - Kuhn, Ryan
  - Laing, Brent
  - Lang, Tyler
+ - Latimer, Shane
  - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
@@ -363,6 +386,7 @@ vs:
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
+ - Mullen, Jesse
  - Munroe, Steven
  - Murphy, Jamie
  - Muyres, Dallan
@@ -401,9 +425,11 @@ vs:
  - Shypitka, Tom
  - Simmons, Pat
  - Skauge, Greg
+ - Sluchinski, Aaron
  - Smith, Greg
  - Smith, Kent
  - Smith, Tyler
+ - Smitheram, Christian
  - Spencer, Adam
  - St.Louis, Brady
  - St.Louis, David
@@ -414,11 +440,13 @@ vs:
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thompson, Stuart
+ - Tremblay, Julien
  - Trepanier, Jean-Francois
  - Vaughan, Jason
  - Villeneuve, Steeve
  - Walker, Geoff
  - Wallingham, Joe
+ - Webster, Dylan
  - Wettig, Sheldon
  - White, Edward
  - Whitehead, Kevin

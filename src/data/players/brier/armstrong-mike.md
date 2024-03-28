@@ -70,7 +70,7 @@ vs:
  - Fowler, Rob
  - Fry, Ryan
  - Gaudet, Mike
- - Gordon, Robbie
+ - Gordon, Rob
  - Griffith, Tyrel
  - Gushue, Brad
  - Harnden, E.J.
@@ -119,7 +119,6 @@ vs:
  - Smitheram, Christian
  - St.Louis, Brady
  - Stringer, Ben
- - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Villeneuve, Steeve

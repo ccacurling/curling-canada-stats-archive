@@ -165,7 +165,7 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Gallant, Chris
- - Gordon, Robbie
+ - Gordon, Rob
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -254,7 +254,6 @@ vs:
  - Stringer, Ben
  - Sylvain, Eric
  - Symonds, Andrew
- - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Trepanier, Jean-Francois

@@ -358,6 +358,11 @@ years:
    takeout-percent: 83
    shots-total: 146
    shots-percent: 80
+ - year: 2024
+   event: Brier
+   team: "ON"
+   position: Alternate
+   alternate: true
 vs:
  - Abel, Clinton
  - Adam, Gerry

@@ -58,6 +58,34 @@ vs:
       year: 2008
       draw: Round Robin(14)
       score: SK 7 - TR 4
+ - name: Smith, Alex
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(10)
+      score: NL 6 - YT 5
  - name: Smith, Garth
    totals:
     - event: Brier
@@ -282,6 +310,62 @@ vs:
       year: 2008
       draw: Round Robin(12)
       score: TR 5 - QC 4
+ - name: Symonds, Andrew
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(10)
+      score: NL 6 - YT 5
+ - name: Tardi, Tyler
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2023
+      draw: Round Robin(7)
+      score: YT 6 - WC 7
  - name: Taylor, Andrew
    totals:
     - event: Brier
@@ -338,6 +422,62 @@ vs:
       year: 2018
       draw: Round Robin(10)
       score: AB 7 - YT 5
+ - name: Thomas, Colin
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(10)
+      score: NL 6 - YT 5
+ - name: Trickett, Stephen
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(10)
+      score: NL 6 - YT 5
  - name: Turpin, Randy
    totals:
     - event: Brier

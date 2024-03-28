@@ -125,6 +125,7 @@ vs:
  - Smitheram, Christian
  - St.Louis, David
  - Sturmay, Karsten
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thomas, Jeff
  - Walker, Geoff

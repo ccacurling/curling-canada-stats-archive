@@ -170,12 +170,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 90
+        percent: 87
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 83
-        wins: 0
+        percent: 84
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -194,17 +194,33 @@ vs:
       year: 2020
       draw: Round Robin(2)
       score: SK 3 - WC 5
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(10)
+      score: BC 9 - MB 8
  - name: Scoffin, Thomas
    totals:
     - event: Brier
       player1:
-        percent: 94
-        wins: 1
+        percent: 91
+        wins: 2
         losses: 0
       player2:
-        percent: 75
+        percent: 78
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'WC'
@@ -222,6 +238,50 @@ vs:
       year: 2020
       draw: Round Robin(3)
       score: WC 10 - YT 6
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(16)
+      score: YT 4 - MB 6
+ - name: Scoffin, Wade
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 86
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(16)
+      score: YT 4 - MB 6
  - name: Seabrook, Scott
    totals:
     - event: Brier
@@ -366,6 +426,34 @@ vs:
       year: 2019
       draw: Round Robin(7)
       score: YT 7 - MB 6
+ - name: Smith, Alex
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(14)
+      score: MB 6 - NL 3
  - name: Smitheram, Christian
    totals:
     - event: Brier
@@ -554,13 +642,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 84
-        wins: 1
+        percent: 85
+        wins: 2
         losses: 0
       player2:
-        percent: 67
+        percent: 71
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'MB'
@@ -578,34 +666,22 @@ vs:
       year: 2019
       draw: Round Robin(9)
       score: MB 13 - NL 4
- - name: Tardi, Tyler
-   totals:
-    - event: Brier
-      player1:
-        percent: 85
-        wins: 0
-        losses: 1
-      player2:
-        percent: 89
-        wins: 1
-        losses: 0
-   games:
     - player1:
-        team: 'WC'
-        position: Third
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Third
-        percent: 89
+        team: 'MB'
+        position: Second
+        percent: 86
         win: 1
         loss: 0
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
       event: Brier
-      year: 2023
-      draw: Round Robin(7)
-      score: WC 7 - AB 9
+      year: 2024
+      draw: Round Robin(14)
+      score: MB 6 - NL 3
  - name: Thiessen, Brad
    totals:
     - event: Brier
@@ -758,6 +834,34 @@ vs:
       year: 2015
       draw: Round Robin(1)
       score: CA 6 - MB 4
+ - name: Thomas, Colin
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 76
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(14)
+      score: MB 6 - NL 3
  - name: Trepanier, Jean-Francois
    totals:
     - event: Brier
@@ -802,6 +906,34 @@ vs:
       year: 2022
       draw: Round Robin(18)
       score: QC 9 - MB 6
+ - name: Trickett, Stephen
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(14)
+      score: MB 6 - NL 3
  - name: Van Strien, Peter
    totals:
     - event: Brier
@@ -864,10 +996,10 @@ vs:
       player1:
         percent: 90
         wins: 2
-        losses: 4
+        losses: 5
       player2:
-        percent: 88
-        wins: 4
+        percent: 89
+        wins: 5
         losses: 2
    games:
     - player1:
@@ -966,6 +1098,22 @@ vs:
       year: 2022
       draw: Round Robin(12)
       score: MB 6 - WC 9
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 100
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Playoff(19)
+      score: CA 9 - MB 7
  - name: Wallingham, Joe
    totals:
     - event: Brier

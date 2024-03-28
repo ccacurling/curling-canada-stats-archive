@@ -4,18 +4,18 @@ name: Marc Kennedy
 name-sort: Kennedy, Marc
 totals:
  - event: Brier
-   games: 147
-   wins: 108
-   losses: 39
-   inturn-total: 1520
+   games: 158
+   wins: 115
+   losses: 43
+   inturn-total: 1628
    inturn-percent: 90
-   outturn-total: 1186
+   outturn-total: 1276
    outturn-percent: 88
-   draw-total: 965
+   draw-total: 1015
    draw-percent: 88
-   takeout-total: 1741
-   takeout-percent: 89
-   shots-total: 2706
+   takeout-total: 1889
+   takeout-percent: 90
+   shots-total: 2904
    shots-percent: 89
 years:
  - year: 2007
@@ -234,6 +234,24 @@ years:
    takeout-percent: 85
    shots-total: 224
    shots-percent: 86
+ - year: 2024
+   event: Brier
+   team: "AB"
+   position: Third
+   alternate: false
+   games: 11
+   wins: 7
+   losses: 4
+   inturn-total: 108
+   inturn-percent: 89
+   outturn-total: 90
+   outturn-percent: 91
+   draw-total: 50
+   draw-percent: 89
+   takeout-total: 148
+   takeout-percent: 90
+   shots-total: 198
+   shots-percent: 90
 vs:
  - Abraham, Ryan
  - Adam, Gerry
@@ -249,6 +267,7 @@ vs:
  - Bezanson, Jared
  - Bilesky, Andrew
  - Bitz, Scott
+ - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
  - Bouchard, Christian
@@ -257,6 +276,7 @@ vs:
  - Bryant, Doug
  - Burtnyk, Kerry
  - Buyck, James
+ - Byrd, Kurtis
  - Camm, Mathew
  - Campbell, Robert
  - Carmody, Anson
@@ -311,6 +331,7 @@ vs:
  - Ginter, Jason
  - Gould, Steve
  - Granchelli, Kris
+ - Grattan, Drew
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -358,6 +379,7 @@ vs:
  - Kolomaya, Jared
  - Kopf, Steve
  - Korab, Jamie
+ - Krats, Joel
  - Kuhn, Ryan
  - Laing, Brent
  - Latos, Evan
@@ -384,6 +406,7 @@ vs:
  - Mathers, David
  - Mawhinney, Spencer
  - McCann, Andy
+ - McCarville, Mike
  - McEwen, Mike
  - Mckinnon, Robert
  - Meachem, Shaun Myles
@@ -422,6 +445,7 @@ vs:
  - Pillsworth, Mark
  - Pinder, Jordan
  - Porter, Ryan
+ - Potts, Jordan
  - Quevillon, Louis
  - Rafuse, Brian
  - Recksiedler, Kevin
@@ -445,6 +469,7 @@ vs:
  - Simmons, Pat
  - Skauge, Greg
  - Slauenwhite, David
+ - Smith, Alex
  - Smith, Garth
  - Smith, Kent
  - Smith, Tyler
@@ -455,10 +480,14 @@ vs:
  - Sturmay, Karsten
  - Sullivan, Charles Jr.
  - Sylvain, Eric
+ - Symonds, Andrew
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thomas, Colin
  - Toner, Lee
  - Trepanier, Jean-Francois
+ - Trickett, Stephen
  - Ursel, Bob
  - Van Strien, Peter
  - Vaughan, Jason

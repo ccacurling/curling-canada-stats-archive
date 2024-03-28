@@ -157,6 +157,7 @@ vs:
  - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tardi, Tyler
  - Trepanier, Jean-Francois
  - Venance, Glenn
  - Virtue, Brock

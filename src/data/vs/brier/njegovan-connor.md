@@ -186,6 +186,34 @@ vs:
       year: 2022
       draw: Round Robin(14)
       score: WC 10 - NU 1
+ - name: Potts, Jordan
+   totals:
+    - event: Brier
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(6)
+      score: MB 9 - NO 8
  - name: Quevillon, Louis
    totals:
     - event: Brier
@@ -424,10 +452,10 @@ vs:
       player1:
         percent: 91
         wins: 0
-        losses: 1
+        losses: 2
       player2:
         percent: 85
-        wins: 1
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -446,6 +474,78 @@ vs:
       year: 2020
       draw: Pool(17)
       score: MB 8 - SK 9
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(10)
+      score: BC 9 - MB 8
+ - name: Scoffin, Thomas
+   totals:
+    - event: Brier
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(16)
+      score: YT 4 - MB 6
+ - name: Scoffin, Wade
+   totals:
+    - event: Brier
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 86
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(16)
+      score: YT 4 - MB 6
  - name: Skauge, Greg
    totals:
     - event: Brier
@@ -474,6 +574,34 @@ vs:
       year: 2021
       draw: Round Robin(10)
       score: NT 4 - MB 7
+ - name: Smith, Alex
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(14)
+      score: MB 6 - NL 3
  - name: Smitheram, Christian
    totals:
     - event: Brier
@@ -574,34 +702,34 @@ vs:
       year: 2023
       draw: Round Robin(6)
       score: NL 6 - WC 7
- - name: Tardi, Tyler
+ - name: Symonds, Andrew
    totals:
     - event: Brier
       player1:
-        percent: 90
-        wins: 0
-        losses: 1
-      player2:
-        percent: 89
+        percent: 84
         wins: 1
         losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
    games:
     - player1:
-        team: 'WC'
-        position: Second
-        percent: 90
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Third
-        percent: 89
+        team: 'MB'
+        position: Lead
+        percent: 84
         win: 1
         loss: 0
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
       event: Brier
-      year: 2023
-      draw: Round Robin(7)
-      score: WC 7 - AB 9
+      year: 2024
+      draw: Round Robin(14)
+      score: MB 6 - NL 3
  - name: Thiessen, Brad
    totals:
     - event: Brier
@@ -678,6 +806,34 @@ vs:
       year: 2023
       draw: Round Robin(7)
       score: WC 7 - AB 9
+ - name: Thomas, Colin
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 76
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(14)
+      score: MB 6 - NL 3
  - name: Trepanier, Jean-Francois
    totals:
     - event: Brier
@@ -706,16 +862,44 @@ vs:
       year: 2022
       draw: Round Robin(6)
       score: QC 7 - WC 9
+ - name: Trickett, Stephen
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(14)
+      score: MB 6 - NL 3
  - name: Walker, Geoff
    totals:
     - event: Brier
       player1:
-        percent: 92
+        percent: 93
         wins: 0
-        losses: 3
+        losses: 4
       player2:
-        percent: 81
-        wins: 3
+        percent: 86
+        wins: 4
         losses: 0
    games:
     - player1:
@@ -766,6 +950,22 @@ vs:
       year: 2022
       draw: Round Robin(16)
       score: WC 6 - WC 5
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 95
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 100
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Playoff(19)
+      score: CA 9 - MB 7
  - name: Wettig, Sheldon
    totals:
     - event: Brier

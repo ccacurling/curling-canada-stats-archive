@@ -4,18 +4,18 @@ name: Reid Carruthers
 name-sort: Carruthers, Reid
 totals:
  - event: Brier
-   games: 110
-   wins: 65
-   losses: 45
-   inturn-total: 1018
+   games: 120
+   wins: 72
+   losses: 48
+   inturn-total: 1119
    inturn-percent: 84
-   outturn-total: 1003
+   outturn-total: 1102
    outturn-percent: 85
-   draw-total: 848
+   draw-total: 914
    draw-percent: 84
-   takeout-total: 1173
+   takeout-total: 1307
    takeout-percent: 85
-   shots-total: 2021
+   shots-total: 2221
    shots-percent: 84
 years:
  - year: 2008
@@ -212,6 +212,24 @@ years:
    takeout-percent: 82
    shots-total: 151
    shots-percent: 78
+ - year: 2024
+   event: Brier
+   team: "MB"
+   position: Third
+   alternate: false
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 101
+   inturn-percent: 85
+   outturn-total: 99
+   outturn-percent: 87
+   draw-total: 66
+   draw-percent: 87
+   takeout-total: 134
+   takeout-percent: 86
+   shots-total: 200
+   shots-percent: 86
 vs:
  - Abel, Clinton
  - Abraham, Ryan
@@ -229,12 +247,14 @@ vs:
  - Bice, Steve
  - Bilesky, Andrew
  - Boland, Adam
+ - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
  - Bouchard, Christian
  - Brannen, Jamie
  - Breckon, Graham
  - Burgess, Steve
+ - Byrd, Kurtis
  - Camm, Mathew
  - Carmody, Anson
  - Case, Peter
@@ -275,6 +295,7 @@ vs:
  - Gaudet, Mike
  - Gavin, Martin
  - Gibson, Andrew
+ - Ginter, Jason
  - Gorveatt, Philip
  - Grattan, James
  - Griffith, Tyrel
@@ -289,6 +310,7 @@ vs:
  - Hodgson, Colin
  - Horgan, Jacob
  - Horgan, Tanner
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Greg
  - Howard, Scott
@@ -311,8 +333,10 @@ vs:
  - Koivula, Colin
  - Kolomaya, Jared
  - Kopf, Steve
+ - Krats, Joel
  - Kuhn, Ryan
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - Ledgerwood, Sean
  - Lemay, Philippe
@@ -345,6 +369,7 @@ vs:
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Mikkelsen, Dustin
  - Mittelstadt, Kelly
  - Morris, John
@@ -368,6 +393,7 @@ vs:
  - Pierce, Brent
  - Pillsworth, Mark
  - Pinder, Jordan
+ - Potts, Jordan
  - Rach, Dave
  - Richard, Jeff
  - Roach, Darren
@@ -380,11 +406,13 @@ vs:
  - Schille, Chris
  - Schneider, Catlin
  - Scoffin, Thomas
+ - Scoffin, Wade
  - Seabrook, Scott
  - Sharp, Jeff
  - Simmons, Pat
  - Skauge, Greg
  - Smallwood, Robert
+ - Smith, Alex
  - Smitheram, Christian
  - Solberg, Jon
  - St.Louis, Brady
@@ -393,10 +421,11 @@ vs:
  - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Symonds, Andrew
- - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thomas, Colin
  - Trepanier, Jean-Francois
+ - Trickett, Stephen
  - Van Strien, Peter
  - Virtue, Brock
  - Walker, Geoff

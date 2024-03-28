@@ -4,18 +4,18 @@ name: David Mathers
 name-sort: Mathers, David
 totals:
  - event: Brier
-   games: 53
-   wins: 23
-   losses: 30
-   inturn-total: 507
-   inturn-percent: 84
-   outturn-total: 490
+   games: 61
+   wins: 26
+   losses: 35
+   inturn-total: 599
+   inturn-percent: 85
+   outturn-total: 550
    outturn-percent: 84
-   draw-total: 462
+   draw-total: 507
    draw-percent: 84
-   takeout-total: 535
-   takeout-percent: 84
-   shots-total: 997
+   takeout-total: 642
+   takeout-percent: 85
+   shots-total: 1149
    shots-percent: 84
 years:
  - year: 2015
@@ -108,13 +108,33 @@ years:
    takeout-percent: 82
    shots-total: 144
    shots-percent: 84
+ - year: 2024
+   event: Brier
+   team: "ON"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 92
+   inturn-percent: 89
+   outturn-total: 60
+   outturn-percent: 83
+   draw-total: 45
+   draw-percent: 83
+   takeout-total: 107
+   takeout-percent: 88
+   shots-total: 152
+   shots-percent: 87
 vs:
  - Barry, Josh
  - Beuk, Jonathan
  - Bezanson, Jared
+ - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
+ - Byrd, Kurtis
  - Camm, Mathew
  - Carmody, Anson
  - Carruthers, Reid
@@ -133,6 +153,7 @@ vs:
  - Follett, Sam
  - Fry, Ryan
  - Gallant, Brett
+ - Ginter, Jason
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -144,6 +165,7 @@ vs:
  - Hart, Richard
  - Hebert, Ben
  - Hodgson, Colin
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Scott
  - Jacobs, Brad
@@ -156,23 +178,27 @@ vs:
  - Kidby, Dustin
  - Koe, Jamie
  - Koe, Kevin
+ - Krats, Joel
  - Kuhn, Ryan
  - Laing, Brent
  - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Locke, Nathan
+ - Lott, Colton
  - Lowery, Ryan
  - Mallais, Jeremy
  - Marsh, Dan
  - Marsh, Kevin
  - Martin, Karrick
  - McCann, Andy
+ - McCarville, Mike
  - McEwen, Mike
  - Mckinnon, Robert
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe
+ - Middleton, Sterling
  - Mikkelsen, Dustin
  - Morris, John
  - Moskowy, Braeden
@@ -186,9 +212,11 @@ vs:
  - Neufeld, Denni
  - Nichols, Mark
  - Njegovan, Connor
+ - Noftall, David
  - Patzer, Brad
  - Peech, Alexander
  - Pinder, Jordan
+ - Potts, Jordan
  - Rycroft, Carter
  - Saccary, Scott
  - Samagalski, Derek
@@ -199,12 +227,15 @@ vs:
  - Scoffin, Thomas
  - Simmons, Pat
  - Skauge, Greg
+ - Smith, Alex
  - Smith, Tyler
  - Spencer, Adam
  - Stringer, Ben
  - Sylvain, Eric
+ - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Trickett, Stephen
  - Walker, Geoff
  - Wallingham, Joe
  - White, Edward

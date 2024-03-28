@@ -4,19 +4,19 @@ name: Christian Smitheram
 name-sort: Smitheram, Christian
 totals:
  - event: Brier
-   games: 12
-   wins: 1
-   losses: 11
-   inturn-total: 98
-   inturn-percent: 63
-   outturn-total: 96
-   outturn-percent: 67
-   draw-total: 159
-   draw-percent: 69
-   takeout-total: 35
-   takeout-percent: 49
-   shots-total: 194
-   shots-percent: 65
+   games: 20
+   wins: 2
+   losses: 18
+   inturn-total: 129
+   inturn-percent: 68
+   outturn-total: 201
+   outturn-percent: 74
+   draw-total: 282
+   draw-percent: 74
+   takeout-total: 48
+   takeout-percent: 57
+   shots-total: 330
+   shots-percent: 72
 years:
  - year: 2020
    event: Brier
@@ -122,21 +122,47 @@ years:
    takeout-percent: 43
    shots-total: 110
    shots-percent: 68
+ - year: 2024
+   event: Brier
+   team: "NU"
+   position: Lead
+   alternate: false
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 31
+   inturn-percent: 84
+   outturn-total: 105
+   outturn-percent: 80
+   draw-total: 123
+   draw-percent: 81
+   takeout-total: 13
+   takeout-percent: 79
+   shots-total: 136
+   shots-percent: 81
 vs:
  - Armstrong, Mike
+ - Arsenault, Jean-Michel
  - Asselin, Emile
  - Bedard, Alek
  - Bottcher, Brendan
+ - Brassard, Philippe
  - Carruthers, Reid
  - Casey, Adam
+ - Cocks, Adam
+ - Drummond, Kerr
  - Dunstone, Matt
+ - Flasch, Colton
  - Forrest, Alex
  - Gallant, Brett
- - Gordon, Robbie
+ - Gallant, Chris
+ - Gauthier, Jacques
+ - Gordon, Rob
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
+ - Harty, Jeremy
  - Hodgson, Colin
  - Horgan, Jacob
  - Horgan, Tanner
@@ -147,26 +173,37 @@ vs:
  - Knapp, Kelly
  - Knapp, Trent
  - Koe, Jamie
+ - Koe, Kevin
  - Lequin, Bradley
  - Locke, Nathan
  - Lott, Colton
  - Manuel, Matthew
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
+ - McEwen, Mike
  - Mcleod, Shadrach
  - Meagher, Jeffrey
  - Moulding, Darren
+ - Mullen, Jesse
  - Neufeld, B.J.
  - Nichols, Mark
  - Njegovan, Connor
  - Parsons, Cole
  - Quevillon, Louis
+ - Robertson, Stephen
  - Samagalski, Derek
  - Saunders, Luke
+ - Sluchinski, Aaron
+ - Smith, Tyler
  - Stringer, Ben
  - Thiessen, Brad
  - Thomas, Jeff
  - Toner, Lee
+ - Tremblay, Julien
  - Walker, Geoff
+ - Webster, Dylan
+ - White, Edward
  - Young, Nathan
  - Zachernuk, Nick
 ---

@@ -4,18 +4,18 @@ name: Brett Gallant
 name-sort: Gallant, Brett
 totals:
  - event: Brier
-   games: 139
-   wins: 104
-   losses: 35
-   inturn-total: 1125
-   inturn-percent: 85
-   outturn-total: 1545
+   games: 150
+   wins: 111
+   losses: 39
+   inturn-total: 1197
+   inturn-percent: 86
+   outturn-total: 1671
    outturn-percent: 88
-   draw-total: 1031
-   draw-percent: 86
-   takeout-total: 1639
-   takeout-percent: 87
-   shots-total: 2670
+   draw-total: 1113
+   draw-percent: 87
+   takeout-total: 1755
+   takeout-percent: 88
+   shots-total: 2868
    shots-percent: 87
 years:
  - year: 2013
@@ -284,6 +284,24 @@ years:
    takeout-percent: 89
    shots-total: 224
    shots-percent: 89
+ - year: 2024
+   event: Brier
+   team: "AB"
+   position: Second
+   alternate: false
+   games: 11
+   wins: 7
+   losses: 4
+   inturn-total: 72
+   inturn-percent: 89
+   outturn-total: 126
+   outturn-percent: 93
+   draw-total: 82
+   draw-percent: 92
+   takeout-total: 116
+   takeout-percent: 92
+   shots-total: 198
+   shots-percent: 92
 vs:
  - Abraham, Ryan
  - Aho, David
@@ -302,10 +320,12 @@ vs:
  - Bice, Mark
  - Bilesky, Andrew
  - Blyde, Greg
+ - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
  - Breckon, Graham
+ - Byrd, Kurtis
  - Camm, Mathew
  - Carmody, Anson
  - Carruthers, Reid
@@ -323,6 +343,7 @@ vs:
  - Crowell, Phil
  - Currie, Jeff
  - Currie, Morgan
+ - Dobson, Paul
  - Doering, Kyle
  - Doherty, Robbie
  - Dunstone, Matt
@@ -342,6 +363,7 @@ vs:
  - Geall, Sean
  - Giddens, Ryan
  - Ginter, Jason
+ - Grattan, Drew
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -378,6 +400,7 @@ vs:
  - Koivula, Colin
  - Kolomaya, Jared
  - Kopf, Steve
+ - Krats, Joel
  - Kuhn, Ryan
  - Laing, Brent
  - Latos, Evan
@@ -401,6 +424,7 @@ vs:
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
+ - McCann, Andy
  - McCarville, Mike
  - McDermaid, Donald
  - McDonah, Alex
@@ -437,6 +461,7 @@ vs:
  - Pierce, Brent
  - Pillsworth, Mark
  - Pinder, Jordan
+ - Potts, Jordan
  - Quevillon, Louis
  - Richard, Jeff
  - Roach, Darren
@@ -452,6 +477,7 @@ vs:
  - Scoffin, Wade
  - Simmons, Pat
  - Skauge, Greg
+ - Smith, Alex
  - Smith, Greg
  - Smith, Tyler
  - Smitheram, Christian
@@ -461,11 +487,15 @@ vs:
  - Stoughton, Jeff
  - Sturmay, Karsten
  - Sylvain, Eric
+ - Symonds, Andrew
+ - Tardi, Tyler
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thomas, Colin
  - Thompson, Stuart
  - Trepanier, Jean-Francois
+ - Trickett, Stephen
  - Venance, Glenn
  - Virtue, Brock
  - Walker, Geoff

@@ -4,18 +4,18 @@ name: James Grattan
 name-sort: Grattan, James
 totals:
  - event: Brier
-   games: 158
-   wins: 75
-   losses: 83
-   inturn-total: 1148
+   games: 166
+   wins: 76
+   losses: 90
+   inturn-total: 1210
    inturn-percent: 78
-   outturn-total: 1816
+   outturn-total: 1897
    outturn-percent: 81
-   draw-total: 1231
-   draw-percent: 78
-   takeout-total: 1733
+   draw-total: 1291
+   draw-percent: 77
+   takeout-total: 1816
    takeout-percent: 82
-   shots-total: 2964
+   shots-total: 3107
    shots-percent: 80
 years:
  - year: 1997
@@ -288,6 +288,24 @@ years:
    takeout-percent: 83
    shots-total: 149
    shots-percent: 80
+ - year: 2024
+   event: Brier
+   team: "NB"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 62
+   inturn-percent: 73
+   outturn-total: 81
+   outturn-percent: 73
+   draw-total: 60
+   draw-percent: 59
+   takeout-total: 83
+   takeout-percent: 83
+   shots-total: 143
+   shots-percent: 73
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -306,6 +324,7 @@ vs:
  - Biron, Louis
  - Bitz, Scott
  - Blanchard, Ben
+ - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
  - Bouchard, Christian
@@ -320,6 +339,7 @@ vs:
  - Burtnyk, Kerry
  - Butler, Mark
  - Buyck, James
+ - Byrd, Kurtis
  - Camm, Mathew
  - Campbell, Robert
  - Carey, Dan
@@ -386,6 +406,7 @@ vs:
  - Gavin, Martin
  - Geall, Sean
  - Gibson, Andrew
+ - Ginter, Jason
  - Gionest, Francois
  - Golanowski, Rory
  - Gordon, Robbie
@@ -421,6 +442,7 @@ vs:
  - Hopkins, Jeff
  - Horgan, Tanner
  - Horning, Deane
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Scott
  - Hunt, Bruce
@@ -470,6 +492,7 @@ vs:
  - Locke, Nathan
  - Loevenmark, Phil
  - Lohnes, Bruce
+ - Lott, Colton
  - Lowery, Ryan
  - Lukowich, Mark
  - MacAulay, Ian
@@ -504,6 +527,7 @@ vs:
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Mikkelsen, Ray
  - Mikkelsen, Dustin
  - Milward, Ross
@@ -546,6 +570,7 @@ vs:
  - Phillips, Tim
  - Pierce, Brent
  - Pinder, Jordan
+ - Potts, Jordan
  - Power, Humphrey
  - Rafuse, Brian
  - Ramcharan, Rudy
@@ -578,6 +603,7 @@ vs:
  - Simmons, Pat
  - Skauge, Greg
  - Slauenwhite, David
+ - Smith, Alex
  - Smith, Garth
  - Smith, Jeff
  - Smith, Kent
@@ -593,12 +619,15 @@ vs:
  - Sullivan, Evan
  - Sumner, Kevin
  - Sylvain, Eric
+ - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thomas, Colin
  - Thomas, Jeff
  - Toner, Lee
  - Trepanier, Jean-Francois
  - Trevellyan, Todd
+ - Trickett, Stephen
  - Turpin, Randy
  - Ursel, Bob
  - Van Den Berghe, Garry
@@ -611,6 +640,7 @@ vs:
  - Ward, Mark
  - Wasnea, Brian
  - Watson, Aaron
+ - Webster, Paul
  - Wempe, Brian
  - Werenich, Ed
  - Westphal, Don

@@ -4,18 +4,18 @@ name: Brendan Bottcher
 name-sort: Bottcher, Brendan
 totals:
  - event: Brier
-   games: 90
-   wins: 63
-   losses: 27
-   inturn-total: 951
-   inturn-percent: 86
-   outturn-total: 699
-   outturn-percent: 82
-   draw-total: 641
+   games: 101
+   wins: 70
+   losses: 31
+   inturn-total: 1025
+   inturn-percent: 85
+   outturn-total: 817
+   outturn-percent: 83
+   draw-total: 704
    draw-percent: 83
-   takeout-total: 1009
-   takeout-percent: 86
-   shots-total: 1650
+   takeout-total: 1138
+   takeout-percent: 85
+   shots-total: 1842
    shots-percent: 84
 years:
  - year: 2017
@@ -144,6 +144,24 @@ years:
    takeout-percent: 82
    shots-total: 221
    shots-percent: 84
+ - year: 2024
+   event: Brier
+   team: "AB"
+   position: Fourth
+   alternate: false
+   games: 11
+   wins: 7
+   losses: 4
+   inturn-total: 74
+   inturn-percent: 79
+   outturn-total: 118
+   outturn-percent: 88
+   draw-total: 63
+   draw-percent: 85
+   takeout-total: 129
+   takeout-percent: 84
+   shots-total: 192
+   shots-percent: 85
 vs:
  - Abel, Clinton
  - Aho, David
@@ -154,9 +172,11 @@ vs:
  - Beuk, Jonathan
  - Bezanson, Jared
  - Boland, Adam
+ - Bonot, Trevor
  - Borden, Robert
  - Brannen, Jamie
  - Burgess, Steve
+ - Byrd, Kurtis
  - Camm, Mathew
  - Carmody, Anson
  - Carruthers, Reid
@@ -187,6 +207,7 @@ vs:
  - Gauthier, Jacques
  - Geall, Sean
  - Ginter, Jason
+ - Grattan, Drew
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -217,6 +238,7 @@ vs:
  - Koe, Jamie
  - Koe, Kevin
  - Kohlenberg, Dale
+ - Krats, Joel
  - Laing, Brent
  - Latos, Evan
  - Laycock, Steve
@@ -237,6 +259,7 @@ vs:
  - Marsh, Kevin
  - Mathers, David
  - McCann, Andy
+ - McCarville, Mike
  - McDonald, Scott
  - McEwen, Mike
  - Mckinnon, Robert
@@ -263,6 +286,7 @@ vs:
  - Patzer, Brad
  - Peech, Alexander
  - Pinder, Jordan
+ - Potts, Jordan
  - Quevillon, Louis
  - Rach, Dave
  - Richard, Jeff
@@ -275,6 +299,7 @@ vs:
  - Scoffin, Wade
  - Skauge, Greg
  - Smallwood, Robert
+ - Smith, Alex
  - Smith, Greg
  - Smith, Tyler
  - Smitheram, Christian
@@ -286,7 +311,9 @@ vs:
  - Symonds, Andrew
  - Tardi, Tyler
  - Taylor, Andrew
+ - Thomas, Colin
  - Trepanier, Jean-Francois
+ - Trickett, Stephen
  - Venance, Glenn
  - Walker, Geoff
  - Wallingham, Joe

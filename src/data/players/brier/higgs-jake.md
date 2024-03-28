@@ -69,7 +69,7 @@ vs:
  - Flemming, Paul
  - Forrest, Alex
  - Gallant, Brett
- - Gordon, Robbie
+ - Gordon, Rob
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
@@ -106,7 +106,6 @@ vs:
  - Samagalski, Derek
  - Saunders, Luke
  - Stringer, Ben
- - Tardi, Tyler
  - Thiessen, Brad
  - Thomas, Jeff
  - Toner, Lee

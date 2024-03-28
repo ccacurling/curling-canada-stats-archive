@@ -4,19 +4,19 @@ name: Edward White
 name-sort: White, Edward
 totals:
  - event: Brier
-   games: 16
-   wins: 3
-   losses: 13
-   inturn-total: 133
-   inturn-percent: 84
-   outturn-total: 149
-   outturn-percent: 80
-   draw-total: 219
-   draw-percent: 83
-   takeout-total: 63
-   takeout-percent: 78
-   shots-total: 282
-   shots-percent: 82
+   games: 24
+   wins: 8
+   losses: 16
+   inturn-total: 193
+   inturn-percent: 83
+   outturn-total: 233
+   outturn-percent: 83
+   draw-total: 344
+   draw-percent: 84
+   takeout-total: 82
+   takeout-percent: 79
+   shots-total: 426
+   shots-percent: 83
 years:
  - year: 2022
    event: Brier
@@ -54,14 +54,35 @@ years:
    takeout-percent: 80
    shots-total: 146
    shots-percent: 86
+ - year: 2024
+   event: Brier
+   team: "PE"
+   position: Lead
+   alternate: false
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 60
+   inturn-percent: 82
+   outturn-total: 84
+   outturn-percent: 87
+   draw-total: 125
+   draw-percent: 85
+   takeout-total: 19
+   takeout-percent: 83
+   shots-total: 144
+   shots-percent: 85
 vs:
+ - Arsenault, Jean-Michel
  - Asselin, Emile
  - Asselin, Felix
  - Bezanson, Jared
  - Bottcher, Brendan
  - Brannen, Jamie
+ - Brassard, Philippe
  - Crete, Martin
  - Dobson, Paul
+ - Drummond, Kerr
  - Dunstone, Matt
  - Flasch, Colton
  - Follett, Sam
@@ -74,6 +95,7 @@ vs:
  - Gushue, Brad
  - Harnden, E.J.
  - Hart, Joey
+ - Harty, Jeremy
  - Hebert, Ben
  - Horvath, Alex
  - Howard, Glenn
@@ -81,39 +103,55 @@ vs:
  - Janssen, Patrick
  - Jensen, Trygg
  - Jones, Scott
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
  - King, Brian
+ - Koe, Jamie
  - Koe, Kevin
  - Laing, Brent
+ - Latimer, Shane
  - Latos, Evan
  - Lind, J.D.
  - Locke, Nathan
  - Mallais, Jeremy
+ - Manuel, Matthew
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
  - McEwen, Mike
+ - Mcleod, Shadrach
+ - Meagher, Jeffrey
  - Middleton, Sterling
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
+ - Mullen, Jesse
  - Muyres, Kirk
  - Neufeld, B.J.
  - Nichols, Mark
+ - Parsons, Cole
+ - Saunders, Luke
  - Schneider, Catlin
  - Scoffin, Thomas
  - Scoffin, Wade
  - Sluchinski, Aaron
+ - Smitheram, Christian
+ - St.Louis, Brady
  - Stringer, Ben
  - Sturmay, Karsten
+ - Tardi, Tyler
  - Thiessen, Brad
+ - Tremblay, Julien
  - Trepanier, Jean-Francois
  - Venance, Glenn
  - Walker, Geoff
  - Wallingham, Joe
+ - Webster, Dylan
  - Webster, Paul
+ - Wettig, Sheldon
  - Young, Nathan
+ - Zachernuk, Nick
 ---

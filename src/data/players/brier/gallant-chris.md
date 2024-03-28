@@ -4,18 +4,18 @@ name: Chris Gallant
 name-sort: Gallant, Chris
 totals:
  - event: Brier
-   games: 10
-   wins: 3
-   losses: 7
-   inturn-total: 70
-   inturn-percent: 79
-   outturn-total: 72
+   games: 18
+   wins: 8
+   losses: 10
+   inturn-total: 127
+   inturn-percent: 77
+   outturn-total: 159
    outturn-percent: 83
-   draw-total: 92
-   draw-percent: 86
-   takeout-total: 50
-   takeout-percent: 72
-   shots-total: 142
+   draw-total: 149
+   draw-percent: 84
+   takeout-total: 137
+   takeout-percent: 77
+   shots-total: 286
    shots-percent: 81
 years:
  - year: 2018
@@ -80,20 +80,45 @@ years:
    takeout-percent: 75
    shots-total: 4
    shots-percent: 81
+ - year: 2024
+   event: Brier
+   team: "PE"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 57
+   inturn-percent: 75
+   outturn-total: 87
+   outturn-percent: 84
+   draw-total: 57
+   draw-percent: 81
+   takeout-total: 87
+   takeout-percent: 80
+   shots-total: 144
+   shots-percent: 80
 vs:
+ - Arsenault, Jean-Michel
  - Asselin, Felix
  - Bottcher, Brendan
+ - Brassard, Philippe
  - Camm, Mathew
  - Carruthers, Reid
  - Case, Peter
  - Dion, William
+ - Drummond, Kerr
  - Dunstone, Matt
  - Epping, John
+ - Flasch, Colton
  - Fournier, Mike
  - Fry, Ryan
+ - Gauthier, Jacques
  - Grattan, James
+ - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
+ - Harty, Jeremy
  - Hebert, Ben
  - Hodgson, Colin
  - Horgan, Tanner
@@ -101,25 +126,45 @@ vs:
  - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Kennedy, Glen
  - Kingdon, Wade
+ - Koe, Jamie
  - Koe, Kevin
+ - Latimer, Shane
  - Laycock, Steve
  - Mackey, Peter
+ - Manuel, Matthew
  - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - McCann, Andy
+ - McEwen, Mike
+ - Mcleod, Shadrach
+ - Meagher, Jeffrey
  - Morris, John
  - Moskowy, Braeden
+ - Mullen, Jesse
  - Muyres, Dallan
  - Muyres, Kirk
  - Nadeau, Jeff
  - Neufeld, B.J.
+ - Nichols, Mark
+ - Parsons, Cole
  - Samagalski, Derek
+ - Saunders, Luke
  - Sluchinski, Aaron
  - Smith, Greg
+ - Smitheram, Christian
+ - St.Louis, Brady
  - St.Louis, David
  - Taylor, Andrew
  - Thiessen, Brad
+ - Tremblay, Julien
  - Trepanier, Jean-Francois
+ - Walker, Geoff
+ - Webster, Dylan
+ - Wettig, Sheldon
  - Withycombe, Ian
+ - Zachernuk, Nick
 ---

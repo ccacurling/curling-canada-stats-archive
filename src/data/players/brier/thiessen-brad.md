@@ -183,7 +183,7 @@ vs:
  - Gallant, Brett
  - Gallant, Chris
  - Geall, Sean
- - Gordon, Robbie
+ - Gordon, Rob
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason

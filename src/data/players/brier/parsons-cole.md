@@ -4,18 +4,18 @@ name: Cole Parsons
 name-sort: Parsons, Cole
 totals:
  - event: Brier
-   games: 30
-   wins: 5
-   losses: 25
-   inturn-total: 181
-   inturn-percent: 77
-   outturn-total: 357
-   outturn-percent: 84
-   draw-total: 361
+   games: 39
+   wins: 10
+   losses: 29
+   inturn-total: 264
+   inturn-percent: 78
+   outturn-total: 440
+   outturn-percent: 83
+   draw-total: 446
    draw-percent: 82
-   takeout-total: 177
+   takeout-total: 258
    takeout-percent: 80
-   shots-total: 538
+   shots-total: 704
    shots-percent: 81
 years:
  - year: 2019
@@ -90,22 +90,44 @@ years:
    takeout-percent: 77
    shots-total: 148
    shots-percent: 74
+ - year: 2024
+   event: Brier
+   team: "NT"
+   position: Second
+   alternate: false
+   games: 9
+   wins: 5
+   losses: 4
+   inturn-total: 83
+   inturn-percent: 80
+   outturn-total: 83
+   outturn-percent: 80
+   draw-total: 85
+   draw-percent: 81
+   takeout-total: 81
+   takeout-percent: 80
+   shots-total: 166
+   shots-percent: 80
 vs:
  - Abraham, Ryan
  - Ardiel, Taylor
  - Armstrong, Mike
+ - Arsenault, Jean-Michel
  - Asselin, Felix
  - Beuk, Jonathan
  - Brannen, Jamie
+ - Brassard, Philippe
  - Camm, Mathew
  - Carruthers, Reid
  - Casey, Adam
  - Chadwick, Scott
+ - Cocks, Adam
  - Colter, Travis
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
  - Dobson, Paul
+ - Drummond, Kerr
  - Dunstone, Matt
  - Epping, John
  - Flasch, Colton
@@ -115,7 +137,9 @@ vs:
  - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
- - Gordon, Robbie
+ - Gallant, Chris
+ - Gauthier, Jacques
+ - Gordon, Rob
  - Grant, Jeff
  - Grattan, James
  - Griffith, Tyrel
@@ -123,6 +147,7 @@ vs:
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
+ - Harty, Jeremy
  - Hebert, Ben
  - Higgs, Jake
  - Hodgson, Colin
@@ -140,12 +165,15 @@ vs:
  - Koe, Kevin
  - Kolomaya, Jared
  - Laing, Brent
+ - Latimer, Shane
  - Laycock, Steve
  - LeCocq, Marc
  - Locke, Nathan
  - Lott, Colton
  - Mackey, Peter
  - Manuel, Matthew
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - McCann, Andy
  - McDonald, Scott
@@ -154,6 +182,7 @@ vs:
  - Meister, Nicholas
  - Moskowy, Braeden
  - Moulding, Darren
+ - Mullen, Jesse
  - Nadeau, Jeff
  - Nerpin, Andrew
  - Neufeld, B.J.
@@ -171,18 +200,22 @@ vs:
  - Sawatsky, Rick
  - Schneider, Catlin
  - Scoffin, Thomas
+ - Sluchinski, Aaron
+ - Smith, Tyler
  - Smitheram, Christian
  - St.Louis, Brady
  - St.Louis, David
  - Steele, Colten
  - Stringer, Ben
- - Tardi, Tyler
  - Thiessen, Brad
  - Thompson, Stuart
+ - Tremblay, Julien
  - Trepanier, Jean-Francois
  - Walker, Geoff
  - Wallingham, Joe
+ - Webster, Dylan
  - Wettig, Sheldon
+ - White, Edward
  - Winfield, Brett
  - Wozniak, Matt
  - Young, Nathan

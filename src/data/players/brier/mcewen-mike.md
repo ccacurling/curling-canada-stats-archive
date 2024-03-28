@@ -4,19 +4,19 @@ name: Mike McEwen
 name-sort: McEwen, Mike
 totals:
  - event: Brier
-   games: 89
-   wins: 54
-   losses: 35
-   inturn-total: 732
+   games: 102
+   wins: 64
+   losses: 38
+   inturn-total: 814
    inturn-percent: 84
-   outturn-total: 904
-   outturn-percent: 84
-   draw-total: 633
+   outturn-total: 1061
+   outturn-percent: 85
+   draw-total: 727
    draw-percent: 86
-   takeout-total: 1003
-   takeout-percent: 83
-   shots-total: 1636
-   shots-percent: 84
+   takeout-total: 1148
+   takeout-percent: 84
+   shots-total: 1875
+   shots-percent: 85
 years:
  - year: 2016
    event: Brier
@@ -162,11 +162,30 @@ years:
    takeout-percent: 79
    shots-total: 201
    shots-percent: 82
+ - year: 2024
+   event: Brier
+   team: "SK"
+   position: Fourth
+   alternate: false
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 82
+   inturn-percent: 87
+   outturn-total: 157
+   outturn-percent: 91
+   draw-total: 94
+   draw-percent: 88
+   takeout-total: 145
+   takeout-percent: 90
+   shots-total: 239
+   shots-percent: 89
 vs:
  - Abel, Clinton
  - Abraham, Ryan
  - Aho, David
  - Appelman, Tom
+ - Arsenault, Jean-Michel
  - Asselin, Emile
  - Asselin, Felix
  - Beuk, Jonathan
@@ -175,6 +194,7 @@ vs:
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
+ - Brassard, Philippe
  - Burgess, Steve
  - Camm, Mathew
  - Carmody, Anson
@@ -190,6 +210,7 @@ vs:
  - Dobson, Paul
  - Doering, Kyle
  - Doherty, Robbie
+ - Drummond, Kerr
  - Dunstone, Matt
  - Epping, John
  - Fecteau, Steve
@@ -201,6 +222,7 @@ vs:
  - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
+ - Gallant, Chris
  - Gauthier, Jacques
  - Geall, Sean
  - Ginter, Jason
@@ -213,6 +235,7 @@ vs:
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
+ - Harty, Jeremy
  - Hebert, Ben
  - Hodgson, Colin
  - Horvath, Alex
@@ -235,15 +258,18 @@ vs:
  - Kolomaya, Jared
  - Kuhn, Ryan
  - Laing, Brent
+ - Latimer, Shane
  - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Lemay, Philippe
  - Likely, John
  - Lind, J.D.
+ - Lott, Colton
  - MacFadyen, Alex
  - Mackey, Peter
  - Mallais, Jeremy
+ - Manuel, Matthew
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
@@ -254,6 +280,7 @@ vs:
  - Mckinnon, Robert
  - Mcleod, Shadrach
  - Meachem, Shaun Myles
+ - Meagher, Jeffrey
  - Meister, Nicholas
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -263,6 +290,7 @@ vs:
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
+ - Mullen, Jesse
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
@@ -284,6 +312,7 @@ vs:
  - Rycroft, Carter
  - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Sawatsky, Rick
  - Schille, Chris
  - Schneider, Catlin
@@ -291,11 +320,14 @@ vs:
  - Scoffin, Wade
  - Simmons, Pat
  - Skauge, Greg
+ - Sluchinski, Aaron
  - Smallwood, Robert
  - Smith, Greg
  - Smith, Tyler
+ - Smitheram, Christian
  - Solberg, Jon
  - Spencer, Adam
+ - St.Louis, Brady
  - Sturmay, Karsten
  - Sylvain, Eric
  - Symonds, Andrew
@@ -303,13 +335,17 @@ vs:
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Tremblay, Julien
  - Trepanier, Jean-Francois
  - Van Strien, Peter
  - Walker, Geoff
  - Wallingham, Joe
+ - Webster, Dylan
+ - Wettig, Sheldon
  - White, Edward
  - Winfield, Brett
  - Withycombe, Ian
  - Wood, Brad
  - Wozniak, Matt
+ - Zachernuk, Nick
 ---

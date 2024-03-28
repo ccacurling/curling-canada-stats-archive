@@ -96,7 +96,7 @@ vs:
  - Follett, Sam
  - Gallant, Brett
  - Gallant, Chris
- - Gordon, Robbie
+ - Gordon, Rob
  - Grattan, James
  - Gushue, Brad
  - Harnden, Ryan
@@ -138,7 +138,6 @@ vs:
  - St.Louis, Brady
  - St.Louis, David
  - Stringer, Ben
- - Tardi, Tyler
  - Thiessen, Brad
  - Walker, Geoff
  - Wettig, Sheldon

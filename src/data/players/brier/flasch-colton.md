@@ -4,18 +4,18 @@ name: Colton Flasch
 name-sort: Flasch, Colton
 totals:
  - event: Brier
-   games: 72
-   wins: 47
-   losses: 25
-   inturn-total: 703
+   games: 85
+   wins: 57
+   losses: 28
+   inturn-total: 801
    inturn-percent: 84
-   outturn-total: 670
+   outturn-total: 812
    outturn-percent: 84
-   draw-total: 603
+   draw-total: 684
    draw-percent: 84
-   takeout-total: 770
+   takeout-total: 929
    takeout-percent: 84
-   shots-total: 1373
+   shots-total: 1613
    shots-percent: 84
 years:
  - year: 2014
@@ -126,9 +126,28 @@ years:
    takeout-percent: 78
    shots-total: 217
    shots-percent: 80
+ - year: 2024
+   event: Brier
+   team: "SK"
+   position: Third
+   alternate: false
+   games: 13
+   wins: 10
+   losses: 3
+   inturn-total: 98
+   inturn-percent: 84
+   outturn-total: 142
+   outturn-percent: 86
+   draw-total: 81
+   draw-percent: 83
+   takeout-total: 159
+   takeout-percent: 86
+   shots-total: 240
+   shots-percent: 85
 vs:
  - Aho, David
  - Ardiel, Taylor
+ - Arsenault, Jean-Michel
  - Balsdon, Greg
  - Bardsley, Mike
  - Barry, Josh
@@ -138,6 +157,7 @@ vs:
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
+ - Brassard, Philippe
  - Camm, Mathew
  - Carmody, Anson
  - Carruthers, Reid
@@ -152,6 +172,7 @@ vs:
  - Currie, Jeff
  - Dobson, Paul
  - Doherty, Robbie
+ - Drummond, Kerr
  - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
@@ -161,6 +182,8 @@ vs:
  - Forrest, Alex
  - Fry, Ryan
  - Gallant, Brett
+ - Gallant, Chris
+ - Gauthier, Jacques
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -168,6 +191,7 @@ vs:
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
+ - Harty, Jeremy
  - Hebert, Ben
  - Hodgson, Colin
  - Howard, Glenn
@@ -179,6 +203,7 @@ vs:
  - Jones, Scott
  - Kean, Mark
  - Kendall, Lloyd
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
@@ -187,16 +212,19 @@ vs:
  - Koivula, Colin
  - Kuhn, Ryan
  - Laing, Brent
+ - Latimer, Shane
  - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Locke, Nathan
+ - Lott, Colton
  - Lowery, Ryan
  - MacKenzie, Eddie
  - MacKenzie, Tyler
  - Mackey, Peter
  - Mallais, Jeremy
+ - Manuel, Matthew
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
@@ -209,12 +237,14 @@ vs:
  - McEwen, Mike
  - Mcleod, Shadrach
  - Mead, Jon
+ - Meagher, Jeffrey
  - Menard, Jean-Michel
  - Menard, Philippe
  - Morgan, Tyler
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
+ - Mullen, Jesse
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
@@ -234,13 +264,17 @@ vs:
  - Rycroft, Carter
  - Sallows, Tom
  - Samagalski, Derek
+ - Saunders, Luke
  - Sawatsky, Rick
  - Schille, Chris
  - Schneider, Catlin
  - Scoffin, Thomas
  - Simmons, Pat
+ - Sluchinski, Aaron
  - Smith, Tyler
+ - Smitheram, Christian
  - Spencer, Adam
+ - St.Louis, Brady
  - St.Louis, David
  - Steele, Colten
  - Stoughton, Jeff
@@ -249,12 +283,16 @@ vs:
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thompson, Stuart
+ - Tremblay, Julien
  - Walker, Geoff
  - Wallingham, Joe
+ - Webster, Dylan
+ - Wettig, Sheldon
  - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Winfield, Brett
  - Wozniak, Matt
  - Young, Nathan
+ - Zachernuk, Nick
 ---

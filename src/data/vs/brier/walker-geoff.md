@@ -30,17 +30,45 @@ vs:
       year: 2013
       draw: Round Robin(8)
       score: BC 3 - NL 6
+ - name: Webster, Dylan
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(17)
+      score: CA 10 - AB 4
  - name: Wettig, Sheldon
    totals:
     - event: Brier
       player1:
-        percent: 92
-        wins: 1
+        percent: 95
+        wins: 2
         losses: 0
       player2:
         percent: 77
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NL'
@@ -58,17 +86,33 @@ vs:
       year: 2020
       draw: Round Robin(9)
       score: NL 7 - NU 2
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(11)
+      score: NU 3 - CA 8
  - name: White, Edward
    totals:
     - event: Brier
       player1:
-        percent: 91
-        wins: 1
+        percent: 95
+        wins: 2
         losses: 0
       player2:
-        percent: 85
+        percent: 84
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'CA'
@@ -86,6 +130,22 @@ vs:
       year: 2023
       draw: Round Robin(9)
       score: PE 6 - CA 8
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(13)
+      score: PE 3 - CA 11
  - name: Whitehead, Kevin
    totals:
     - event: Brier
@@ -322,4 +382,32 @@ vs:
       year: 2022
       draw: Round Robin(16)
       score: WC 6 - WC 5
+ - name: Zachernuk, Nick
+   totals:
+    - event: Brier
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(1)
+      score: NS 4 - CA 7
 ---

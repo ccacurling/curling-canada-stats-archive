@@ -441,6 +441,7 @@ vs:
  - Stoughton, Jeff
  - Sturmay, Karsten
  - Symonds, Andrew
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Toner, Lee

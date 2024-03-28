@@ -40,7 +40,7 @@ vs:
  - Appelman, Ted
  - Carruthers, Reid
  - Dunstone, Matt
- - Gordon, Robbie
+ - Gordon, Rob
  - Harnden, Ryan
  - Koe, Kevin
  - Lott, Colton
@@ -48,6 +48,5 @@ vs:
  - Neufeld, B.J.
  - Njegovan, Connor
  - Samagalski, Derek
- - Tardi, Tyler
  - Thiessen, Brad
 ---

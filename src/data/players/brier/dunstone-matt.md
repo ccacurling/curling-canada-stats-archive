@@ -4,18 +4,18 @@ name: Matt Dunstone
 name-sort: Dunstone, Matt
 totals:
  - event: Brier
-   games: 58
-   wins: 39
-   losses: 19
-   inturn-total: 668
+   games: 68
+   wins: 46
+   losses: 22
+   inturn-total: 759
    inturn-percent: 86
-   outturn-total: 413
+   outturn-total: 504
    outturn-percent: 85
-   draw-total: 431
+   draw-total: 501
    draw-percent: 86
-   takeout-total: 650
+   takeout-total: 762
    takeout-percent: 86
-   shots-total: 1081
+   shots-total: 1263
    shots-percent: 86
 years:
  - year: 2018
@@ -108,6 +108,24 @@ years:
    takeout-percent: 87
    shots-total: 212
    shots-percent: 87
+ - year: 2024
+   event: Brier
+   team: "MB"
+   position: Fourth
+   alternate: false
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 91
+   inturn-percent: 87
+   outturn-total: 91
+   outturn-percent: 85
+   draw-total: 70
+   draw-percent: 86
+   takeout-total: 112
+   takeout-percent: 86
+   shots-total: 182
+   shots-percent: 86
 vs:
  - Aho, David
  - Armstrong, Mike
@@ -115,8 +133,10 @@ vs:
  - Barry, Josh
  - Bartling, Aaron
  - Blyde, Greg
+ - Bonot, Trevor
  - Bottcher, Brendan
  - Brannen, Jamie
+ - Byrd, Kurtis
  - Camm, Mathew
  - Carruthers, Reid
  - Case, Peter
@@ -137,7 +157,8 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Gallant, Chris
- - Gordon, Robbie
+ - Ginter, Jason
+ - Gordon, Rob
  - Grattan, James
  - Gunnlaugson, Jason
  - Gushue, Brad
@@ -148,6 +169,7 @@ vs:
  - Hodgson, Colin
  - Horgan, Jacob
  - Horgan, Tanner
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Greg
  - Howard, Scott
@@ -163,6 +185,7 @@ vs:
  - Knapp, Trent
  - Koe, Jamie
  - Koe, Kevin
+ - Krats, Joel
  - Laing, Brent
  - Latos, Evan
  - Laycock, Steve
@@ -179,6 +202,7 @@ vs:
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
+ - McCarville, Mike
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
@@ -186,6 +210,7 @@ vs:
  - Mcleod, Shadrach
  - Meagher, Jeffrey
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -198,22 +223,27 @@ vs:
  - Nichols, Mark
  - Njegovan, Connor
  - Parsons, Cole
+ - Potts, Jordan
  - Saccary, Scott
  - Samagalski, Derek
  - Saunders, Luke
  - Sawatsky, Rick
  - Schneider, Catlin
  - Scoffin, Thomas
+ - Scoffin, Wade
+ - Smith, Alex
  - Smith, Greg
  - Smith, Tyler
  - Smitheram, Christian
  - St.Louis, Brady
  - St.Louis, David
  - Stringer, Ben
- - Tardi, Tyler
+ - Symonds, Andrew
  - Thiessen, Brad
+ - Thomas, Colin
  - Thomas, Jeff
  - Trepanier, Jean-Francois
+ - Trickett, Stephen
  - Walker, Geoff
  - Wallingham, Joe
  - Wettig, Sheldon

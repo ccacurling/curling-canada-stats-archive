@@ -66,6 +66,11 @@ years:
    takeout-percent: 58
    shots-total: 12
    shots-percent: 58
+ - year: 2023
+   event: Brier
+   team: "MB"
+   position: Alternate
+   alternate: true
 vs:
  - Carruthers, Reid
  - Chandler, Jordan

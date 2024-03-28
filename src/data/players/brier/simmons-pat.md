@@ -260,6 +260,11 @@ years:
    takeout-percent: 54
    shots-total: 6
    shots-percent: 54
+ - year: 2024
+   event: Brier
+   team: "SK"
+   position: Alternate
+   alternate: true
 vs:
  - Adams, Shawn
  - Armstrong, Mike

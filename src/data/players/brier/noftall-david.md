@@ -4,19 +4,19 @@ name: David Noftall
 name-sort: Noftall, David
 totals:
  - event: Brier
-   games: 14
+   games: 16
    wins: 8
-   losses: 6
-   inturn-total: 56
-   inturn-percent: 82
-   outturn-total: 205
-   outturn-percent: 86
-   draw-total: 242
+   losses: 8
+   inturn-total: 72
+   inturn-percent: 80
+   outturn-total: 215
+   outturn-percent: 85
+   draw-total: 260
    draw-percent: 84
-   takeout-total: 19
-   takeout-percent: 93
-   shots-total: 261
-   shots-percent: 85
+   takeout-total: 27
+   takeout-percent: 86
+   shots-total: 287
+   shots-percent: 84
 years:
  - year: 1998
    event: Brier
@@ -93,11 +93,62 @@ years:
    takeout-percent: 97
    shots-total: 237
    shots-percent: 85
+ - year: 2024
+   event: Brier
+   team: "NL"
+   position: Second
+   alternate: true
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 4
+   inturn-percent: 75
+   outturn-total: 4
+   outturn-percent: 81
+   draw-total: 8
+   draw-percent: 78
+   shots-total: 8
+   shots-percent: 78
+ - year: 2024
+   event: Brier
+   team: "NL"
+   position: Third
+   alternate: true
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 12
+   inturn-percent: 75
+   outturn-total: 6
+   outturn-percent: 79
+   draw-total: 10
+   draw-percent: 83
+   takeout-total: 8
+   takeout-percent: 69
+   shots-total: 18
+   shots-percent: 76
+ - year: 2024
+   event: Brier
+   team: Totals
+   games: 2
+   wins: 0
+   losses: 2
+   inturn-total: 16
+   inturn-percent: 75
+   outturn-total: 10
+   outturn-percent: 80
+   draw-total: 18
+   draw-percent: 81
+   takeout-total: 8
+   takeout-percent: 69
+   shots-total: 26
+   shots-percent: 77
 vs:
  - Adam, Gerry
  - Burtnyk, Kerry
  - Butler, Mark
  - Buyck, James
+ - Camm, Mathew
  - Case, Peter
  - Champion, Kevin
  - Cotter, Jim
@@ -110,13 +161,16 @@ vs:
  - Folk, Kevin
  - Gagnon, Jean
  - Gallant, Peter
+ - Ginter, Jason
  - Grattan, James
  - Harnden, E.J.
  - Harnden, Eric
  - Harnden, Ryan
  - Hart, Richard
  - Hebert, Ben
+ - Horvath, Alex
  - Howard, Glenn
+ - Howard, Scott
  - Ireland, Clint
  - Johnson, Mark
  - Kammerlock, Dan
@@ -125,8 +179,11 @@ vs:
  - Laing, Brent
  - Laycock, Steve
  - MacDonald, Rod
+ - March, Tim
  - Martin, Kevin
+ - Mathers, David
  - Menard, Jean-Michel
+ - Middleton, Sterling
  - Morris, John
  - O'Rourke, Mark
  - Palmer, Curt
@@ -134,6 +191,7 @@ vs:
  - Rycroft, Carter
  - Savill, Craig
  - Sawatsky, Rick
+ - Schneider, Catlin
  - Scoffin, Wade
  - Sharp, Jeff
  - Simmons, Pat

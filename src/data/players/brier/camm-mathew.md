@@ -4,18 +4,18 @@ name: Mathew Camm
 name-sort: Camm, Mathew
 totals:
  - event: Brier
-   games: 49
-   wins: 29
-   losses: 20
-   inturn-total: 479
+   games: 57
+   wins: 32
+   losses: 25
+   inturn-total: 559
    inturn-percent: 85
-   outturn-total: 429
+   outturn-total: 501
    outturn-percent: 82
-   draw-total: 372
-   draw-percent: 85
-   takeout-total: 536
+   draw-total: 443
+   draw-percent: 84
+   takeout-total: 617
    takeout-percent: 83
-   shots-total: 908
+   shots-total: 1060
    shots-percent: 84
 years:
  - year: 2015
@@ -90,15 +90,35 @@ years:
    takeout-percent: 77
    shots-total: 216
    shots-percent: 79
+ - year: 2024
+   event: Brier
+   team: "ON"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 80
+   inturn-percent: 83
+   outturn-total: 72
+   outturn-percent: 83
+   draw-total: 71
+   draw-percent: 79
+   takeout-total: 81
+   takeout-percent: 85
+   shots-total: 152
+   shots-percent: 83
 vs:
  - Aho, David
  - Asselin, Felix
  - Barry, Josh
  - Bezanson, Jared
  - Blyde, Greg
+ - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
+ - Byrd, Kurtis
  - Carmody, Anson
  - Carruthers, Reid
  - Case, Peter
@@ -120,6 +140,7 @@ vs:
  - Fry, Ryan
  - Gallant, Brett
  - Gallant, Chris
+ - Ginter, Jason
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -128,6 +149,7 @@ vs:
  - Harnden, Ryan
  - Hebert, Ben
  - Hodgson, Colin
+ - Horvath, Alex
  - Howard, Greg
  - Howard, Scott
  - Jacobs, Brad
@@ -138,10 +160,13 @@ vs:
  - Kingdon, Wade
  - Koe, Jamie
  - Koe, Kevin
+ - Krats, Joel
  - Kuhn, Ryan
  - Laing, Brent
+ - Latos, Evan
  - Laycock, Steve
  - Ledgerwood, Sean
+ - Lott, Colton
  - Lowery, Ryan
  - MacKenzie, Eddie
  - Mackey, Peter
@@ -150,6 +175,7 @@ vs:
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
+ - McCarville, Mike
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
@@ -158,6 +184,7 @@ vs:
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -170,7 +197,9 @@ vs:
  - Neufeld, Denni
  - Nichols, Mark
  - Njegovan, Connor
+ - Noftall, David
  - Parsons, Cole
+ - Potts, Jordan
  - Rycroft, Carter
  - Saccary, Scott
  - Samagalski, Derek
@@ -178,14 +207,17 @@ vs:
  - Schneider, Catlin
  - Scoffin, Thomas
  - Simmons, Pat
+ - Smith, Alex
  - Smith, Greg
  - Smith, Tyler
  - St.Louis, Brady
  - St.Louis, David
  - Sylvain, Eric
+ - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
  - Trepanier, Jean-Francois
+ - Trickett, Stephen
  - Walker, Geoff
  - Wallingham, Joe
  - Whitehead, Mark

@@ -63,7 +63,7 @@ vs:
  - Dobson, Paul
  - Dunstone, Matt
  - Flasch, Colton
- - Gordon, Robbie
+ - Gordon, Rob
  - Grattan, James
  - Harnden, Ryan
  - Hebert, Ben
@@ -110,7 +110,6 @@ vs:
  - Smitheram, Christian
  - Spencer, Adam
  - St.Louis, Brady
- - Tardi, Tyler
  - Thiessen, Brad
  - Wallingham, Joe
  - Wettig, Sheldon

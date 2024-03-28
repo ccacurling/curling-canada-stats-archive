@@ -4,19 +4,19 @@ name: Sheldon Wettig
 name-sort: Wettig, Sheldon
 totals:
  - event: Brier
-   games: 13
-   wins: 1
-   losses: 12
-   inturn-total: 121
-   inturn-percent: 65
-   outturn-total: 97
-   outturn-percent: 76
-   draw-total: 108
-   draw-percent: 68
-   takeout-total: 110
-   takeout-percent: 71
-   shots-total: 218
-   shots-percent: 70
+   games: 21
+   wins: 2
+   losses: 19
+   inturn-total: 181
+   inturn-percent: 64
+   outturn-total: 177
+   outturn-percent: 79
+   draw-total: 155
+   draw-percent: 71
+   takeout-total: 203
+   takeout-percent: 72
+   shots-total: 358
+   shots-percent: 72
 years:
  - year: 2020
    event: Brier
@@ -88,24 +88,51 @@ years:
    takeout-percent: 72
    shots-total: 130
    shots-percent: 71
+ - year: 2024
+   event: Brier
+   team: "NU"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 60
+   inturn-percent: 63
+   outturn-total: 80
+   outturn-percent: 83
+   draw-total: 47
+   draw-percent: 79
+   takeout-total: 93
+   takeout-percent: 73
+   shots-total: 140
+   shots-percent: 75
 vs:
  - Appelman, Ted
  - Armstrong, Mike
+ - Arsenault, Jean-Michel
  - Asselin, Emile
  - Bedard, Alek
+ - Brassard, Philippe
  - Carruthers, Reid
  - Casey, Adam
  - Cochrane, Bryan
+ - Cocks, Adam
  - Crowell, Phil
  - Currie, Morgan
+ - Drummond, Kerr
  - Dunstone, Matt
+ - Flasch, Colton
  - Flemming, Paul
  - Forrest, Alex
  - Gallant, Brett
- - Gordon, Robbie
+ - Gallant, Chris
+ - Gauthier, Jacques
+ - Gordon, Rob
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Harnden, E.J.
  - Harnden, Ryan
+ - Harty, Jeremy
  - Hodgson, Colin
  - Horgan, Jacob
  - Horgan, Tanner
@@ -120,10 +147,14 @@ vs:
  - Lott, Colton
  - MacAulay, Ian
  - Manuel, Matthew
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
+ - McEwen, Mike
  - Mcleod, Shadrach
  - Meagher, Jeffrey
  - Moulding, Darren
+ - Mullen, Jesse
  - Murphy, Jamie
  - Neufeld, B.J.
  - Nichols, Mark
@@ -132,14 +163,19 @@ vs:
  - Ouellette, Kevin
  - Parsons, Cole
  - Quevillon, Louis
+ - Robertson, Stephen
  - Saccary, Scott
  - Samagalski, Derek
  - Saunders, Luke
+ - Sluchinski, Aaron
+ - Smith, Tyler
  - Stringer, Ben
- - Tardi, Tyler
  - Thiessen, Brad
  - Thomas, Jeff
+ - Tremblay, Julien
  - Walker, Geoff
+ - Webster, Dylan
+ - White, Edward
  - Young, Nathan
  - Zachernuk, Nick
 ---

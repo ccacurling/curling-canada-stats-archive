@@ -6594,7 +6594,7 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 88
+        percent: 76
         wins: 1
         losses: 0
       player2:
@@ -6605,19 +6605,19 @@ vs:
     - player1:
         team: 'ON'
         position: Second
-        percent: 88
+        percent: 76
         win: 1
         loss: 0
       player2:
-        team: 'AB'
+        team: 'WC'
         position: Third
         percent: 88
         win: 0
         loss: 1
       event: Brier
       year: 2023
-      draw: Playoff(19)
-      score: ON 9 - AB 8
+      draw: Round Robin(18)
+      score: ON 9 - WC 8
  - name: Thiessen, Brad
    totals:
     - event: Brier

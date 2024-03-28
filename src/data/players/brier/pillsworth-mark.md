@@ -84,7 +84,7 @@ vs:
  - Flemming, Paul
  - Fournier, Mike
  - Gallant, Brett
- - Gordon, Robbie
+ - Gordon, Rob
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.

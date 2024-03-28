@@ -4,19 +4,19 @@ name: Andy McCann
 name-sort: McCann, Andy
 totals:
  - event: Brier
-   games: 43
-   wins: 17
-   losses: 26
-   inturn-total: 382
-   inturn-percent: 81
-   outturn-total: 436
-   outturn-percent: 82
-   draw-total: 417
-   draw-percent: 84
-   takeout-total: 401
+   games: 51
+   wins: 18
+   losses: 33
+   inturn-total: 470
+   inturn-percent: 82
+   outturn-total: 486
+   outturn-percent: 83
+   draw-total: 542
+   draw-percent: 85
+   takeout-total: 414
    takeout-percent: 79
-   shots-total: 818
-   shots-percent: 82
+   shots-total: 956
+   shots-percent: 83
 years:
  - year: 2008
    event: Brier
@@ -131,6 +131,24 @@ years:
    takeout-percent: 74
    shots-total: 132
    shots-percent: 88
+ - year: 2024
+   event: Brier
+   team: "NB"
+   position: Lead
+   alternate: false
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 88
+   inturn-percent: 89
+   outturn-total: 50
+   outturn-percent: 88
+   draw-total: 125
+   draw-percent: 91
+   takeout-total: 13
+   takeout-percent: 65
+   shots-total: 138
+   shots-percent: 89
 vs:
  - Adam, Gerry
  - Aho, David
@@ -138,8 +156,10 @@ vs:
  - Asselin, Felix
  - Bardsley, Mike
  - Barry, Josh
+ - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
+ - Byrd, Kurtis
  - Camm, Mathew
  - Carruthers, Reid
  - Casey, Adam
@@ -160,9 +180,11 @@ vs:
  - Fournier, Mike
  - Fowler, Rob
  - Fry, Ryan
+ - Gallant, Brett
  - Gallant, Chris
  - Gaudet, Mike
  - Geall, Sean
+ - Ginter, Jason
  - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
@@ -174,6 +196,7 @@ vs:
  - Hebert, Ben
  - Hodgson, Colin
  - Horgan, Tanner
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Scott
  - Jacobs, Brad
@@ -190,6 +213,7 @@ vs:
  - Laycock, Steve
  - Ledgerwood, Sean
  - Locke, Nathan
+ - Lott, Colton
  - Lyburn, Allan
  - MacKenzie, Eddie
  - MacKenzie, Tyler
@@ -200,11 +224,13 @@ vs:
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
+ - McCarville, Mike
  - McDermaid, Donald
  - McEwen, Mike
  - Mckinnon, Robert
  - Mcleod, Shadrach
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Mikkelsen, Ray
  - Mikkelsen, Dustin
  - Morris, John
@@ -222,6 +248,7 @@ vs:
  - Parsons, Cole
  - Patzer, Brad
  - Pinder, Jordan
+ - Potts, Jordan
  - Roy, Jean-Sebastien
  - Rycroft, Carter
  - Samagalski, Derek
@@ -234,13 +261,18 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Skauge, Greg
+ - Smith, Alex
  - St.Louis, David
  - Stringer, Ben
+ - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thomas, Colin
  - Trepanier, Jean-Francois
+ - Trickett, Stephen
  - Walker, Geoff
  - Wallingham, Joe
+ - Webster, Paul
  - Winfield, Brett
  - Wood, Brad
  - Wozniak, Matt

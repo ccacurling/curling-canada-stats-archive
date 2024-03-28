@@ -4,18 +4,18 @@ name: Brad Jacobs
 name-sort: Jacobs, Brad
 totals:
  - event: Brier
-   games: 165
-   wins: 109
-   losses: 56
-   inturn-total: 1349
+   games: 175
+   wins: 116
+   losses: 59
+   inturn-total: 1431
    inturn-percent: 82
-   outturn-total: 1679
+   outturn-total: 1792
    outturn-percent: 84
-   draw-total: 1256
-   draw-percent: 82
-   takeout-total: 1772
+   draw-total: 1327
+   draw-percent: 81
+   takeout-total: 1896
    takeout-percent: 85
-   shots-total: 3028
+   shots-total: 3223
    shots-percent: 83
 years:
  - year: 2007
@@ -304,6 +304,24 @@ years:
    takeout-percent: 89
    shots-total: 149
    shots-percent: 87
+ - year: 2024
+   event: Brier
+   team: "MB"
+   position: Fourth
+   alternate: false
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 82
+   inturn-percent: 84
+   outturn-total: 113
+   outturn-percent: 82
+   draw-total: 71
+   draw-percent: 79
+   takeout-total: 124
+   takeout-percent: 85
+   shots-total: 195
+   shots-percent: 83
 vs:
  - Abel, Clinton
  - Abraham, Ryan
@@ -323,6 +341,7 @@ vs:
  - Bezanson, Jared
  - Bilesky, Andrew
  - Boland, Adam
+ - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
  - Bouchard, Christian
@@ -330,6 +349,7 @@ vs:
  - Breckon, Graham
  - Bryant, Doug
  - Burgess, Steve
+ - Byrd, Kurtis
  - Camm, Mathew
  - Campbell, Robert
  - Carmody, Anson
@@ -380,6 +400,7 @@ vs:
  - Gaudet, Mike
  - Gavin, Martin
  - Gibson, Andrew
+ - Ginter, Jason
  - Gionest, Francois
  - Gould, Steve
  - Grattan, James
@@ -387,17 +408,21 @@ vs:
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Hagen, Brandon
+ - Harnden, E.J.
+ - Harnden, Ryan
  - Harris, Tyler
  - Hart, Richard
  - Hebert, Ben
  - Higgs, Jake
  - Hodgson, Colin
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Greg
  - Howard, Scott
  - Howard, Steven
  - Janssen, Patrick
  - Jeffrey, Chris
+ - Jensen, Trygg
  - Jewer, Keith
  - Joanisse, Dean
  - Jones, Brennen
@@ -418,9 +443,11 @@ vs:
  - Korab, Jamie
  - Korte, Bruce
  - Korte, Roger
+ - Krats, Joel
  - Kuhn, Ryan
  - Laing, Brent
  - Lang, Tyler
+ - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
@@ -449,6 +476,7 @@ vs:
  - Maskiewich, Ken
  - Mathers, David
  - McCann, Andy
+ - McCarville, Mike
  - McDermaid, Donald
  - McDonald, Scott
  - McEwen, Mike
@@ -461,6 +489,7 @@ vs:
  - Menard, Philippe
  - Merklinger, Bill
  - Middaugh, Wayne
+ - Middleton, Sterling
  - Mikkelsen, Dustin
  - Mittelstadt, Kelly
  - Morris, John
@@ -494,6 +523,7 @@ vs:
  - Pillsworth, Mark
  - Pinder, Jordan
  - Porter, Ryan
+ - Potts, Jordan
  - Quevillon, Louis
  - Rafuse, Brian
  - Reid, Serge
@@ -511,12 +541,15 @@ vs:
  - Sawatsky, Rick
  - Schille, Chris
  - Schneider, Catlin
+ - Scoffin, Thomas
+ - Scoffin, Wade
  - Sharp, Jeff
  - Shypitka, Tom
  - Simmons, Pat
  - Skauge, Greg
  - Slauenwhite, David
  - Smallwood, Robert
+ - Smith, Alex
  - Smith, Kent
  - Smitheram, Christian
  - Solberg, Jon
@@ -528,7 +561,9 @@ vs:
  - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thomas, Colin
  - Trepanier, Jean-Francois
+ - Trickett, Stephen
  - Ursel, Bob
  - Van Strien, Peter
  - Vaughan, Jason
