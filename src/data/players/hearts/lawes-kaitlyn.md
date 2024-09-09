@@ -4,18 +4,18 @@ name: Kaitlyn Lawes
 name-sort: Lawes, Kaitlyn
 totals:
  - event: Hearts
-   games: 122
-   wins: 85
+   games: 123
+   wins: 86
    losses: 37
-   inturn-total: 1142
+   inturn-total: 1144
    inturn-percent: 82
-   outturn-total: 1161
+   outturn-total: 1177
    outturn-percent: 81
-   draw-total: 902
-   draw-percent: 79
-   takeout-total: 1401
+   draw-total: 903
+   draw-percent: 80
+   takeout-total: 1418
    takeout-percent: 83
-   shots-total: 2303
+   shots-total: 2321
    shots-percent: 81
 years:
  - year: 2011
@@ -180,26 +180,26 @@ years:
    takeout-percent: 80
    shots-total: 173
    shots-percent: 79
- - year: 2023
+ - year: 2024
    event: Hearts
-   team: "NB"
+   team: "MB"
    position: Fourth
    alternate: false
-   games: 8
-   wins: 3
+   games: 9
+   wins: 4
    losses: 5
-   inturn-total: 79
-   inturn-percent: 76
-   outturn-total: 75
-   outturn-percent: 81
-   draw-total: 74
-   draw-percent: 76
-   takeout-total: 80
-   takeout-percent: 81
-   shots-total: 154
+   inturn-total: 81
+   inturn-percent: 82
+   outturn-total: 91
+   outturn-percent: 77
+   draw-total: 75
+   draw-percent: 78
+   takeout-total: 97
+   takeout-percent: 80
+   shots-total: 172
    shots-percent: 79
 vs:
- - Ackland, Abby
+ - Ackerman, Skylar
  - Adams, Melissa
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -212,6 +212,7 @@ vs:
  - Babin, Jillian
  - Baldwin, Nicole
  - Barbour, Shona
+ - Barker, Shelley
  - Barron, Lauren
  - Baxter, Jennifer
  - Beauchamp, Sasha
@@ -228,7 +229,6 @@ vs:
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
- - Burgess, Karlee
  - Burt, Camille
  - Cameron, Kate
  - Cameron, Nancy
@@ -250,35 +250,36 @@ vs:
  - Curtis, Stacie
  - deJager, Blaine
  - deSolla, Jodie
+ - DiCarlo, Jane
  - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
+ - Dubue, Lindsay
  - Dufresne, Audree
  - Duncan, Chelsea
- - Duncan, Jenna
  - Dykstra, Michelle
  - Eddy, Lori
  - Einarson, Kerri
- - Elias, Mackenzie
  - Enge, Jenna
  - Englot, Michelle
+ - Everist, Karlee
  - Fallis, Karen
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Fisher, Sam
- - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
- - Foster, Kerry
  - Fraser, Sherry
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
  - Gates, Jennifer
+ - Grandy, Clancy
  - Gregoire, Veronique
  - Griffin, Alison
  - Gushulak, Diane
+ - Gustafson, Leigh
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Hamon, Callan
@@ -298,11 +299,13 @@ vs:
  - Hynes, Julie
  - Inglis, Danielle
  - Iskiw, Beth
+ - Jenkins, Whitney
  - Johnston, Kara
  - Jones, Colleen
- - Jones, Jennifer
  - Joyce, Blisse
+ - Just, Sherry
  - Kalenchuk, Heather
+ - Karwacki, Krysten
  - Kasner, Marliese
  - Kelly, Andrea
  - Kelly, Kim
@@ -323,21 +326,26 @@ vs:
  - Lister, Kendra
  - Loder, Jenna
  - Logan, Emma
+ - Loken, Sarah
  - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
+ - MacMillan, Kayla
+ - MacPhail, Brigitte
  - MacPhee, Robyn
  - Mair, Jessica
  - Mann, Lauren
  - Martin, Heather
  - Martin, Nancy
  - Materi, Roberta
+ - Mayne, Veronica
  - McCarville, Krista
  - McDonald, Taylor
  - McInnis, Susan
  - McTaggart, Cary-Anne
  - Mercer, Adrienne
+ - Middaugh, Kelly
  - Miller, Wendy
  - Miskew, Emma
  - Moore, Kristie
@@ -349,11 +357,11 @@ vs:
  - Nixon, Amy
  - Njegovan, Selena
  - Nowlan, Denise
- - Oliver, Sara
  - Olson-Johns, Lori
  - O'Neill, Brit
  - O'Rourke, Brittany
  - Overton-Clapham, Cathy
+ - Papley, Paige
  - Parsons, Danielle
  - Paul, Sarah
  - Peterman, Jocelyn
@@ -368,16 +376,20 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Rainville, Julie
+ - Ramsay, Geri-Lynn
  - Recksiedler, Kristen
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Ross, Allison
+ - Routledge, Alanna
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
+ - Schafer, Kelly
  - Scheidegger, Casey
  - Schmidt, Stephanie
+ - Schmiemann, Danielle
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
@@ -387,19 +399,28 @@ vs:
  - Shea, Michelle
  - Shumay, Jill
  - Silvernagle, Robyn
+ - Sinclair, Jamie
  - Sippala, Ashley
+ - Skinner, Kaylin
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Slywka, Sarah
  - Smith, Heather
+ - Smith, Sabrina
  - Smith, Stacey
  - Snyder, Jane
  - Sobey, Lianne
  - Sonnenberg, Renee
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stremick, Taylor
  - Strong, Heather
  - Strong, Helen
  - Strong, Laura
+ - Sturmay, Selena
  - Sweeting, Val
+ - Taylor, Alison
+ - Thevenot, Ashley
  - Thevenot, Kara
  - Thompson, Karla
  - Tran, Brittany
@@ -410,7 +431,6 @@ vs:
  - Vautour, Carrie
  - Vey, Lana
  - Walker, Laura
- - Walter, Meghan
  - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah
@@ -422,6 +442,4 @@ vs:
  - Wilson, Leslie
  - Wiseman, Jessica
  - Wylie, Jennifer
- - Zacharias, Emily
- - Zacharias, Mackenzie
 ---

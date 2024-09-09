@@ -2486,12 +2486,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 78
+        percent: 74
         wins: 2
-        losses: 1
+        losses: 0
       player2:
-        percent: 77
-        wins: 1
+        percent: 72
+        wins: 0
         losses: 2
    games:
     - player1:
@@ -2526,22 +2526,6 @@ vs:
       year: 2021
       draw: Tie-Breaker(24)
       score: MB 8 - AB 9
-    - player1:
-        team: 'WC'
-        position: Third
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(10)
-      score: WC 6 - NB 7
  - name: Lawton, Stefanie
    totals:
     - event: Hearts

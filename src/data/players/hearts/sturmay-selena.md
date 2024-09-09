@@ -54,6 +54,7 @@ vs:
  - Jones, Jennifer
  - Karwacki, Krysten
  - Kelly, Andrea
+ - Lawes, Kaitlyn
  - Lilly, Kendra
  - MacCuish, Kristin
  - Mayne, Veronica

@@ -50,6 +50,7 @@ vs:
  - Hynes, Julie
  - Karwacki, Krysten
  - Kelly, Andrea
+ - Lawes, Kaitlyn
  - Lilly, Kendra
  - MacCuish, Kristin
  - McCarville, Krista

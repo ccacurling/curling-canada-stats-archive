@@ -146,7 +146,6 @@ vs:
  - Jones, Jennifer
  - Kelly, Andrea
  - Koltun, Sarah
- - Lawes, Kaitlyn
  - Lenentine, Lauren
  - Lilly, Kendra
  - Loken, Sarah

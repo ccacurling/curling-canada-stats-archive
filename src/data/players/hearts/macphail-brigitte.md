@@ -84,6 +84,7 @@ vs:
  - Just, Sherry
  - Kelly, Andrea
  - Kreviazuk, Lynn
+ - Lawes, Kaitlyn
  - Lilly, Kendra
  - Loken, Sarah
  - MacCuish, Kristin

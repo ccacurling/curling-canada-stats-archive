@@ -85,6 +85,7 @@ vs:
  - Jones, Jennifer
  - Just, Sherry
  - Koltun, Sarah
+ - Lawes, Kaitlyn
  - Lenentine, Lauren
  - Lister, Kendra
  - MacCuish, Kristin

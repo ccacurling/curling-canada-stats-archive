@@ -134,6 +134,7 @@ vs:
  - Hunkin, Jessie
  - Just, Sherry
  - Kelly, Andrea
+ - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
  - Loken, Sarah

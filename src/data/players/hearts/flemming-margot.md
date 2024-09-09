@@ -141,7 +141,6 @@ vs:
  - Inglis, Danielle
  - Jones, Jennifer
  - Kelly, Andrea
- - Lawes, Kaitlyn
  - Lenentine, Lauren
  - Lilly, Kendra
  - Lister, Kendra

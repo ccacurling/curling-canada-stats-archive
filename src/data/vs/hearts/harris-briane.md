@@ -518,13 +518,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 92
-        wins: 1
+        percent: 91
+        wins: 2
         losses: 2
       player2:
-        percent: 86
+        percent: 81
         wins: 2
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'MB'
@@ -574,6 +574,22 @@ vs:
       year: 2021
       draw: Pool(23)
       score: CA 9 - MB 10
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(5)
+      score: WC 9 - CA 10
  - name: Lawton, Stefanie
    totals:
     - event: Hearts

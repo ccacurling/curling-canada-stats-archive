@@ -156,6 +156,7 @@ vs:
  - Jenkins, Whitney
  - Just, Sherry
  - Kelly, Andrea
+ - Lawes, Kaitlyn
  - MacCuish, Kristin
  - MacPhee, Robyn
  - Mattatall, Mary

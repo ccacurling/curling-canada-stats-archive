@@ -136,7 +136,6 @@ vs:
  - Inglis, Danielle
  - Kelly, Andrea
  - Koltun, Sarah
- - Lawes, Kaitlyn
  - Lister, Kendra
  - Loder, Jenna
  - Logan, Emma

@@ -50,6 +50,7 @@ vs:
  - Harris, Briane
  - Hughes, Meaghan
  - Karwacki, Krysten
+ - Lawes, Kaitlyn
  - Loken, Sarah
  - MacCuish, Kristin
  - MacDonald, Kaitlin

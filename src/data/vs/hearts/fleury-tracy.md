@@ -1114,13 +1114,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 82
-        wins: 1
+        percent: 75
+        wins: 0
         losses: 2
       player2:
-        percent: 83
+        percent: 89
         wins: 2
-        losses: 1
+        losses: 0
    games:
     - player1:
         team: 'ON'
@@ -1154,22 +1154,6 @@ vs:
       year: 2015
       draw: Round Robin(15)
       score: NO 3 - MB 6
-    - player1:
-        team: 'ON'
-        position: Third
-        percent: 94
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 73
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2023
-      draw: Round Robin(16)
-      score: NB 3 - ON 5
  - name: Lawton, Stefanie
    totals:
     - event: Hearts

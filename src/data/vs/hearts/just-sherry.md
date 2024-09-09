@@ -30,6 +30,34 @@ vs:
       year: 2023
       draw: Round Robin(11)
       score: CA 10 - SK 3
+ - name: Lawes, Kaitlyn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Second
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(10)
+      score: SK 3 - WC 8
  - name: Loken, Sarah
    totals:
     - event: Hearts

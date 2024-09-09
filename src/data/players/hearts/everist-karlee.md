@@ -79,6 +79,7 @@ vs:
  - Hughes, Meaghan
  - Just, Sherry
  - Koltun, Sarah
+ - Lawes, Kaitlyn
  - Lenentine, Lauren
  - Lilly, Kendra
  - Loken, Sarah

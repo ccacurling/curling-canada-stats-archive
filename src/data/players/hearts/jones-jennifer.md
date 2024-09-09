@@ -535,7 +535,6 @@ vs:
  - Lavery, Tracey
  - Law, Kelley
  - Lawes, Andrea
- - Lawes, Kaitlyn
  - Lawton, Stefanie
  - LeDrew, Stephanie
  - Leger, Stacey

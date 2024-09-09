@@ -87,7 +87,6 @@ vs:
  - Karwacki, Krysten
  - Kelly, Andrea
  - Koltun, Sarah
- - Lawes, Kaitlyn
  - Lilly, Kendra
  - Lister, Kendra
  - Loken, Sarah

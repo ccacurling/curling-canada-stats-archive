@@ -30,6 +30,34 @@ vs:
       year: 2024
       draw: Round Robin(3)
       score: CA 7 - NO 4
+ - name: Lawes, Kaitlyn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 94
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 94
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(15)
+      score: CA 6 - MB 5
  - name: MacCuish, Kristin
    totals:
     - event: Hearts

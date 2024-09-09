@@ -538,34 +538,6 @@ vs:
       year: 2023
       draw: Round Robin(2)
       score: NT 6 - NB 4
- - name: Lawes, Kaitlyn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 1
-        losses: 0
-      player2:
-        percent: 68
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NT'
-        position: Third
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 68
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2023
-      draw: Round Robin(2)
-      score: NT 6 - NB 4
  - name: Lenentine, Lauren
    totals:
     - event: Hearts

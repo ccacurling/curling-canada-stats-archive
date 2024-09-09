@@ -1058,12 +1058,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 66
+        percent: 71
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 80
-        wins: 2
+        percent: 85
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -1098,6 +1098,22 @@ vs:
       year: 2021
       draw: Round Robin(6)
       score: MB 14 - BC 5
+    - player1:
+        team: 'BC'
+        position: Fourth
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 94
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(11)
+      score: MB 8 - BC 4
  - name: Lawton, Stefanie
    totals:
     - event: Hearts

@@ -68,6 +68,7 @@ vs:
  - Karwacki, Krysten
  - Kelly, Andrea
  - Larouche, Marie-France
+ - Lawes, Kaitlyn
  - Lilly, Kendra
  - MacCuish, Kristin
  - Mayne, Veronica

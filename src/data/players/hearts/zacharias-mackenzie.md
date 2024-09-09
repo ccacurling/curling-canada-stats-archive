@@ -116,7 +116,6 @@ vs:
  - Hynes, Julie
  - Kelly, Andrea
  - Koltun, Sarah
- - Lawes, Kaitlyn
  - Lilly, Kendra
  - Loder, Jenna
  - Logan, Emma

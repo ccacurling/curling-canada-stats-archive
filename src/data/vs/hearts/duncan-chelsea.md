@@ -1050,12 +1050,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 57
+        percent: 64
         wins: 0
-        losses: 2
+        losses: 1
       player2:
-        percent: 80
-        wins: 2
+        percent: 73
+        wins: 1
         losses: 0
    games:
     - player1:
@@ -1074,22 +1074,6 @@ vs:
       year: 2020
       draw: Round Robin(3)
       score: YT 1 - WC 10
-    - player1:
-        team: 'YT'
-        position: Third
-        percent: 31
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(6)
-      score: NB 14 - YT 3
  - name: Lawton, Stefanie
    totals:
     - event: Hearts

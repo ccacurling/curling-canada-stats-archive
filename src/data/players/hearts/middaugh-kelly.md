@@ -80,6 +80,7 @@ vs:
  - Just, Sherry
  - Karwacki, Krysten
  - Kelly, Andrea
+ - Lawes, Kaitlyn
  - Lilly, Kendra
  - Loken, Sarah
  - MacCuish, Kristin

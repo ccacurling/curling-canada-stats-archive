@@ -1382,12 +1382,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 88
+        percent: 91
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 78
-        wins: 0
+        percent: 86
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -1406,6 +1406,22 @@ vs:
       year: 2019
       draw: Round Robin(8)
       score: NB 9 - CA 6
+    - player1:
+        team: 'BC'
+        position: Second
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 94
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(11)
+      score: MB 8 - BC 4
  - name: Lawton, Stefanie
    totals:
     - event: Hearts

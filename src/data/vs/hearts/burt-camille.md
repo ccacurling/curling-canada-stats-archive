@@ -482,7 +482,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 85
+        percent: 82
         wins: 0
         losses: 1
       player2:
@@ -493,19 +493,19 @@ vs:
     - player1:
         team: 'NL'
         position: Lead
-        percent: 85
+        percent: 82
         win: 0
         loss: 1
       player2:
-        team: 'NB'
+        team: 'MB'
         position: Fourth
         percent: 78
         win: 1
         loss: 0
       event: Hearts
-      year: 2023
-      draw: Round Robin(14)
-      score: NB 8 - NL 7
+      year: 2024
+      draw: Round Robin(7)
+      score: NL 3 - MB 8
  - name: Lenentine, Lauren
    totals:
     - event: Hearts

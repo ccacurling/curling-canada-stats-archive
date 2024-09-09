@@ -56,7 +56,6 @@ vs:
  - Jones, Jennifer
  - Kelly, Andrea
  - Koltun, Sarah
- - Lawes, Kaitlyn
  - Lilly, Kendra
  - McCarville, Krista
  - McDonald, Taylor

@@ -47,6 +47,7 @@ vs:
  - Jenkins, Whitney
  - Karwacki, Krysten
  - Kelly, Andrea
+ - Lawes, Kaitlyn
  - Lilly, Kendra
  - MacCuish, Kristin
  - Mayne, Veronica

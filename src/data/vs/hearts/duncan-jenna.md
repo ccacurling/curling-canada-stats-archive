@@ -450,34 +450,6 @@ vs:
       year: 2018
       draw: Round Robin(8)
       score: SK 10 - YT 7
- - name: Lawes, Kaitlyn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 67
-        wins: 0
-        losses: 1
-      player2:
-        percent: 88
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'YT'
-        position: Third
-        percent: 67
-        win: 0
-        loss: 1
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(6)
-      score: NB 14 - YT 3
  - name: Lister, Kendra
    totals:
     - event: Hearts

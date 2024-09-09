@@ -1406,34 +1406,6 @@ vs:
       year: 2002
       draw: Page 3-4(18)
       score: ON 7 - MB 6
- - name: Lawes, Kaitlyn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 88
-        wins: 1
-        losses: 0
-      player2:
-        percent: 76
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Fourth
-        percent: 76
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2023
-      draw: Round Robin(17)
-      score: MB 8 - NB 5
  - name: Lawton, Stefanie
    totals:
     - event: Hearts

@@ -40,6 +40,7 @@ vs:
  - Birchard, Shannon
  - Einarson, Kerri
  - Harris, Briane
+ - Lawes, Kaitlyn
  - MacCuish, Kristin
  - Peterman, Jocelyn
  - Sweeting, Val

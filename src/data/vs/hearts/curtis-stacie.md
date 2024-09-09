@@ -1974,7 +1974,7 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 71
+        percent: 63
         wins: 0
         losses: 4
       player2:
@@ -2033,19 +2033,19 @@ vs:
     - player1:
         team: 'NL'
         position: Fourth
-        percent: 94
+        percent: 65
         win: 0
         loss: 1
       player2:
-        team: 'NB'
+        team: 'MB'
         position: Fourth
         percent: 78
         win: 1
         loss: 0
       event: Hearts
-      year: 2023
-      draw: Round Robin(14)
-      score: NB 8 - NL 7
+      year: 2024
+      draw: Round Robin(7)
+      score: NL 3 - MB 8
  - name: LeDrew, Stephanie
    totals:
     - event: Hearts
