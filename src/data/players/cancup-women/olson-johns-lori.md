@@ -215,6 +215,7 @@ vs:
  - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Rocque, Kelsey
+ - Rumberg, Crystal
  - Santos, Deb
  - Scheidegger, Casey
  - Schmidt, Stephanie
@@ -229,7 +230,6 @@ vs:
  - Sweeting, Val
  - Walsh, Heather
  - Weagle, Lisa
- - Webster, Crystal
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Wilkes, Sarah

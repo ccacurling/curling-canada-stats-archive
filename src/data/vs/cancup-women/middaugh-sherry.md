@@ -662,6 +662,66 @@ vs:
       year: 2015
       draw: Round Robin(2)
       score: MID 7 - ROC 5
+ - name: Rumberg, Crystal
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 72
+        wins: 1
+        losses: 2
+      player2:
+        percent: 73
+        wins: 2
+        losses: 1
+   games:
+    - player1:
+        team: 'Mid'
+        position: Fourth
+        percent: 60
+        win: 0
+        loss: 1
+      player2:
+        team: 'Web'
+        position: Fourth
+        percent: 68
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2007
+      draw: Round Robin(5)
+      score: Mid 7 - Web 9
+    - player1:
+        team: 'MID'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'WEB'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2012
+      draw: Round Robin(5)
+      score: WEB 7 - MID 8
+    - player1:
+        team: 'MID'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'FLE'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2015
+      draw: Round Robin(6)
+      score: MID 3 - FLE 4
  - name: Sabourin, Joelle
    totals:
     - event: Canada Cup (Women)
@@ -1286,66 +1346,6 @@ vs:
       year: 2009
       draw: Round Robin(10)
       score: KLEI 7 - SMID 6
- - name: Webster, Crystal
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 72
-        wins: 1
-        losses: 2
-      player2:
-        percent: 73
-        wins: 2
-        losses: 1
-   games:
-    - player1:
-        team: 'Mid'
-        position: Fourth
-        percent: 60
-        win: 0
-        loss: 1
-      player2:
-        team: 'Web'
-        position: Fourth
-        percent: 68
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2007
-      draw: Round Robin(5)
-      score: Mid 7 - Web 9
-    - player1:
-        team: 'MID'
-        position: Fourth
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'WEB'
-        position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2012
-      draw: Round Robin(5)
-      score: WEB 7 - MID 8
-    - player1:
-        team: 'MID'
-        position: Fourth
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'FLE'
-        position: Third
-        percent: 83
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2015
-      draw: Round Robin(6)
-      score: MID 3 - FLE 4
  - name: Westcott, Raunora
    totals:
     - event: Canada Cup (Women)

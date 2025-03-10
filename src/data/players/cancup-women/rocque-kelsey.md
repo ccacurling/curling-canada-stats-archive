@@ -80,9 +80,9 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Rizzo, Jo-Ann
+ - Rumberg, Crystal
  - Sweeting, Val
  - Weagle, Lisa
- - Webster, Crystal
  - Westcott, Raunora
  - Wilson, Leslie
  - Wylie, Jennifer

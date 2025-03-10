@@ -108,12 +108,12 @@ vs:
  - Peters, Laine
  - Robertson, Darcy
  - Rocque, Kelsey
+ - Rumberg, Crystal
  - Scheidegger, Casey
  - Silvernagle, Robyn
  - Sweeting, Val
  - Thevenot, Kara
  - Weagle, Lisa
- - Webster, Crystal
  - Westcott, Raunora
  - Wilkes, Sarah
 ---

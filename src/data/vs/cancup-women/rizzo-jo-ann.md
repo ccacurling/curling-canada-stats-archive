@@ -30,6 +30,50 @@ vs:
       year: 2015
       draw: Round Robin(2)
       score: MID 7 - ROC 5
+ - name: Rumberg, Crystal
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 78
+        wins: 1
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'MID'
+        position: Third
+        percent: 64
+        win: 1
+        loss: 0
+      player2:
+        team: 'WEB'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2012
+      draw: Round Robin(5)
+      score: WEB 7 - MID 8
+    - player1:
+        team: 'MID'
+        position: Third
+        percent: 93
+        win: 0
+        loss: 1
+      player2:
+        team: 'FLE'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2015
+      draw: Round Robin(6)
+      score: MID 3 - FLE 4
  - name: Ruus, Karen
    totals:
     - event: Canada Cup (Women)
@@ -402,50 +446,6 @@ vs:
       year: 2015
       draw: Round Robin(9)
       score: HOM 4 - MID 6
- - name: Webster, Crystal
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 78
-        wins: 1
-        losses: 1
-      player2:
-        percent: 76
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'MID'
-        position: Third
-        percent: 64
-        win: 1
-        loss: 0
-      player2:
-        team: 'WEB'
-        position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2012
-      draw: Round Robin(5)
-      score: WEB 7 - MID 8
-    - player1:
-        team: 'MID'
-        position: Third
-        percent: 93
-        win: 0
-        loss: 1
-      player2:
-        team: 'FLE'
-        position: Third
-        percent: 83
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2015
-      draw: Round Robin(6)
-      score: MID 3 - FLE 4
  - name: Westcott, Raunora
    totals:
     - event: Canada Cup (Women)

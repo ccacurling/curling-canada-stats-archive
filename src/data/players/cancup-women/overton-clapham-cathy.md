@@ -182,6 +182,7 @@ vs:
  - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Rocque, Raylene
+ - Rumberg, Crystal
  - Santos, Deb
  - Scheidegger, Casey
  - Schraeder, Jeanna
@@ -198,7 +199,6 @@ vs:
  - Walsh, Heather
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - Westcott, Raunora
  - Whitaker, Carol
  - Wilkes, Sarah

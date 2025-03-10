@@ -2110,6 +2110,50 @@ vs:
       year: 2016
       draw: Round Robin(6)
       score: SWE 6 - ROC 2
+ - name: Rumberg, Crystal
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 74
+        wins: 1
+        losses: 1
+      player2:
+        percent: 71
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'SWE'
+        position: Second
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'FLE'
+        position: Third
+        percent: 80
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2015
+      draw: Round Robin(3)
+      score: SWE 8 - FLE 6
+    - player1:
+        team: 'SWE'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'FLE'
+        position: Third
+        percent: 64
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Round Robin(3)
+      score: SWE 6 - FLE 7
  - name: Scheidegger, Casey
    totals:
     - event: Canada Cup (Women)
@@ -2418,50 +2462,6 @@ vs:
       year: 2019
       draw: Round Robin(2)
       score: Homa 4 - Care 6
- - name: Webster, Crystal
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 74
-        wins: 1
-        losses: 1
-      player2:
-        percent: 71
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'SWE'
-        position: Second
-        percent: 74
-        win: 1
-        loss: 0
-      player2:
-        team: 'FLE'
-        position: Third
-        percent: 80
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2015
-      draw: Round Robin(3)
-      score: SWE 8 - FLE 6
-    - player1:
-        team: 'SWE'
-        position: Second
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'FLE'
-        position: Third
-        percent: 64
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(3)
-      score: SWE 6 - FLE 7
  - name: Westcott, Raunora
    totals:
     - event: Canada Cup (Women)

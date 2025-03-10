@@ -294,6 +294,7 @@ vs:
  - Robertson, Desiree
  - Rocque, Kelsey
  - Rogers, Rhonda
+ - Rumberg, Crystal
  - Sabourin, Joelle
  - Santos, Deb
  - Schmidt, Stephanie
@@ -317,7 +318,6 @@ vs:
  - Wall, Kirsten
  - Walsh, Heather
  - Weagle, Lisa
- - Webster, Crystal
  - Whitaker, Carol
  - Zinck, Kay
 ---

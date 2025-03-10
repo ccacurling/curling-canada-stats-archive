@@ -129,6 +129,7 @@ vs:
  - Ramsay, Geri-Lynn
  - Rankin, Heather
  - Rizzo, Jo-Ann
+ - Rumberg, Crystal
  - Sabourin, Joelle
  - Schneider, Kim
  - Schneider, Tammy
@@ -142,5 +143,4 @@ vs:
  - Wall, Kirsten
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
 ---

@@ -3674,6 +3674,50 @@ vs:
       year: 2010
       draw: Round Robin(1)
       score: SL 9 - SN 6
+ - name: Rumberg, Crystal
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 82
+        wins: 1
+        losses: 1
+      player2:
+        percent: 72
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'And'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'Web'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2007
+      draw: Round Robin(3)
+      score: And 6 - Web 8
+    - player1:
+        team: 'LAW'
+        position: Third
+        percent: 96
+        win: 1
+        loss: 0
+      player2:
+        team: 'WEB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2012
+      draw: Round Robin(7)
+      score: WEB 4 - LAW 8
  - name: Sabourin, Joelle
    totals:
     - event: Canada Cup (Women)
@@ -4462,50 +4506,6 @@ vs:
       year: 2011
       draw: Round Robin(8)
       score: KLE 8 - LAW 4
- - name: Webster, Crystal
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 82
-        wins: 1
-        losses: 1
-      player2:
-        percent: 72
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'And'
-        position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'Web'
-        position: Fourth
-        percent: 76
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2007
-      draw: Round Robin(3)
-      score: And 6 - Web 8
-    - player1:
-        team: 'LAW'
-        position: Third
-        percent: 96
-        win: 1
-        loss: 0
-      player2:
-        team: 'WEB'
-        position: Fourth
-        percent: 68
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2012
-      draw: Round Robin(7)
-      score: WEB 4 - LAW 8
  - name: Wheatcroft, Georgina
    totals:
     - event: Canada Cup (Women)

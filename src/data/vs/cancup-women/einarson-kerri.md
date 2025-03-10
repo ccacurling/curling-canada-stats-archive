@@ -1334,6 +1334,34 @@ vs:
       year: 2016
       draw: Round Robin(8)
       score: ROC 6 - EIN 5
+ - name: Rumberg, Crystal
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 70
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'EIN'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'FLE'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Round Robin(5)
+      score: FLE 8 - EIN 7
  - name: Scheidegger, Casey
    totals:
     - event: Canada Cup (Women)
@@ -1538,34 +1566,6 @@ vs:
       year: 2019
       draw: Round Robin(8)
       score: Eina 4 - Homa 5
- - name: Webster, Crystal
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 70
-        wins: 0
-        losses: 1
-      player2:
-        percent: 83
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'EIN'
-        position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'FLE'
-        position: Third
-        percent: 83
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(5)
-      score: FLE 8 - EIN 7
  - name: Westcott, Raunora
    totals:
     - event: Canada Cup (Women)

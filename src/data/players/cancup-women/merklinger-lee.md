@@ -109,13 +109,13 @@ vs:
  - Preston, Samantha
  - Ramsay, Geri-Lynn
  - Rocque, Kelsey
+ - Rumberg, Crystal
  - Schmidt, Stephanie
  - Singler, Sherri
  - Sweeting, Val
  - Titheridge, Lindsay
  - Wall, Kirsten
  - Weagle, Lisa
- - Webster, Crystal
  - Westcott, Raunora
  - Wilson, Leslie
  - Wylie, Jennifer

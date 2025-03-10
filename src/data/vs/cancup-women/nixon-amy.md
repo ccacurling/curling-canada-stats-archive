@@ -510,6 +510,50 @@ vs:
       year: 2010
       draw: Round Robin(8)
       score: SK 10 - SN 6
+ - name: Rumberg, Crystal
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 73
+        wins: 2
+        losses: 0
+      player2:
+        percent: 65
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'Kle'
+        position: Third
+        percent: 66
+        win: 1
+        loss: 0
+      player2:
+        team: 'Web'
+        position: Fourth
+        percent: 57
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2007
+      draw: Round Robin(2)
+      score: Web 6 - Kle 7
+    - player1:
+        team: 'CAR'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'FLE'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Round Robin(7)
+      score: CAR 7 - FLE 4
  - name: Sabourin, Joelle
    totals:
     - event: Canada Cup (Women)
@@ -1490,50 +1534,6 @@ vs:
       year: 2016
       draw: Round Robin(2)
       score: CAR 4 - HOM 6
- - name: Webster, Crystal
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 73
-        wins: 2
-        losses: 0
-      player2:
-        percent: 65
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'Kle'
-        position: Third
-        percent: 66
-        win: 1
-        loss: 0
-      player2:
-        team: 'Web'
-        position: Fourth
-        percent: 57
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2007
-      draw: Round Robin(2)
-      score: Web 6 - Kle 7
-    - player1:
-        team: 'CAR'
-        position: Third
-        percent: 80
-        win: 1
-        loss: 0
-      player2:
-        team: 'FLE'
-        position: Third
-        percent: 75
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(7)
-      score: CAR 7 - FLE 4
  - name: Whitaker, Carol
    totals:
     - event: Canada Cup (Women)

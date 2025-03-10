@@ -174,6 +174,34 @@ vs:
       year: 2016
       draw: Round Robin(8)
       score: ROC 6 - EIN 5
+ - name: Rumberg, Crystal
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'EIN'
+        position: Third
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'FLE'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Round Robin(5)
+      score: FLE 8 - EIN 7
  - name: Silvernagle, Robyn
    totals:
     - event: Canada Cup (Women)
@@ -366,34 +394,6 @@ vs:
       year: 2019
       draw: Final(11)
       score: Homa 9 - Fleu 4
- - name: Webster, Crystal
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 84
-        wins: 0
-        losses: 1
-      player2:
-        percent: 83
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'EIN'
-        position: Third
-        percent: 84
-        win: 0
-        loss: 1
-      player2:
-        team: 'FLE'
-        position: Third
-        percent: 83
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(5)
-      score: FLE 8 - EIN 7
  - name: Wilkes, Sarah
    totals:
     - event: Canada Cup (Women)

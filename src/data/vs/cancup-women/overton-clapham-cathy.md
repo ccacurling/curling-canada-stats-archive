@@ -306,6 +306,34 @@ vs:
       year: 2008
       draw: Round Robin(10)
       score: KING 3 - JONE 8
+ - name: Rumberg, Crystal
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 64
+        wins: 0
+        losses: 1
+      player2:
+        percent: 74
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'OVE'
+        position: Fourth
+        percent: 64
+        win: 0
+        loss: 1
+      player2:
+        team: 'WEB'
+        position: Fourth
+        percent: 74
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2012
+      draw: Round Robin(4)
+      score: OVE 4 - WEB 8
  - name: Santos, Deb
    totals:
     - event: Canada Cup (Women)
@@ -898,34 +926,6 @@ vs:
       year: 2007
       draw: Page 1-2(11)
       score: Kle 4 - Jon 7
- - name: Webster, Crystal
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 64
-        wins: 0
-        losses: 1
-      player2:
-        percent: 74
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'OVE'
-        position: Fourth
-        percent: 64
-        win: 0
-        loss: 1
-      player2:
-        team: 'WEB'
-        position: Fourth
-        percent: 74
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2012
-      draw: Round Robin(4)
-      score: OVE 4 - WEB 8
  - name: Westcott, Raunora
    totals:
     - event: Canada Cup (Women)

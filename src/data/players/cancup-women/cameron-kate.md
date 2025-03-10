@@ -89,9 +89,9 @@ vs:
  - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Rocque, Kelsey
+ - Rumberg, Crystal
  - Scheidegger, Casey
  - Sweeting, Val
  - Weagle, Lisa
- - Webster, Crystal
  - Wilkes, Sarah
 ---

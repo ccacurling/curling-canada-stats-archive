@@ -245,6 +245,7 @@ vs:
  - Rizzo, Jo-Ann
  - Robertson, Desiree
  - Rogers, Rhonda
+ - Rumberg, Crystal
  - Sabourin, Joelle
  - Santos, Deb
  - Schneider, Kim
@@ -268,7 +269,6 @@ vs:
  - Wall, Kirsten
  - Walsh, Heather
  - Weagle, Lisa
- - Webster, Crystal
  - Whitaker, Carol
  - Zinck, Kay
 ---

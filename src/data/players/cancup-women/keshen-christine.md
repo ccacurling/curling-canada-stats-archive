@@ -155,6 +155,7 @@ vs:
  - Reddick, Audrey
  - Rizzo, Jo-Ann
  - Robertson, Desiree
+ - Rumberg, Crystal
  - Santos, Deb
  - Singler, Sherri
  - Smith, Heather
@@ -165,6 +166,5 @@ vs:
  - Thurston, Jill
  - Tuck, Kim
  - Walsh, Heather
- - Webster, Crystal
  - Whitaker, Carol
 ---

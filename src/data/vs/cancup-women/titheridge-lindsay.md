@@ -102,32 +102,4 @@ vs:
       year: 2011
       draw: Round Robin(2)
       score: CAR 7 - KLE 6
- - name: Webster, Crystal
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 73
-        wins: 0
-        losses: 1
-      player2:
-        percent: 76
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'CAR'
-        position: Lead
-        percent: 73
-        win: 0
-        loss: 1
-      player2:
-        team: 'WEB'
-        position: Fourth
-        percent: 76
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2012
-      draw: Round Robin(2)
-      score: WEB 7 - CAR 4
 ---

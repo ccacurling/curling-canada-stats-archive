@@ -2170,6 +2170,50 @@ vs:
       year: 2010
       draw: Round Robin(6)
       score: SN 4 - CB 7
+ - name: Rumberg, Crystal
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 81
+        wins: 2
+        losses: 0
+      player2:
+        percent: 65
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'Ber'
+        position: Second
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'Web'
+        position: Fourth
+        percent: 59
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2007
+      draw: Round Robin(9)
+      score: Ber 8 - Web 2
+    - player1:
+        team: 'CB'
+        position: Second
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Page 1-2(12)
+      score: CB 6 - SK 4
  - name: Sabourin, Joelle
    totals:
     - event: Canada Cup (Women)
@@ -2868,50 +2912,6 @@ vs:
         team: 'SK'
         position: Third
         percent: 71
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2010
-      draw: Page 1-2(12)
-      score: CB 6 - SK 4
- - name: Webster, Crystal
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 81
-        wins: 2
-        losses: 0
-      player2:
-        percent: 65
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'Ber'
-        position: Second
-        percent: 93
-        win: 1
-        loss: 0
-      player2:
-        team: 'Web'
-        position: Fourth
-        percent: 59
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2007
-      draw: Round Robin(9)
-      score: Ber 8 - Web 2
-    - player1:
-        team: 'CB'
-        position: Second
-        percent: 73
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 70
         win: 0
         loss: 1
       event: Canada Cup (Women)

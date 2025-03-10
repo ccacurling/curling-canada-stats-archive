@@ -510,6 +510,34 @@ vs:
       year: 2007
       draw: Round Robin(5)
       score: Mid 7 - Web 9
+ - name: Rumberg, Crystal
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 85
+        wins: 0
+        losses: 1
+      player2:
+        percent: 68
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Mid'
+        position: Lead
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'Web'
+        position: Fourth
+        percent: 68
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2007
+      draw: Round Robin(5)
+      score: Mid 7 - Web 9
  - name: Sabourin, Joelle
    totals:
     - event: Canada Cup (Women)
@@ -750,34 +778,6 @@ vs:
       year: 2009
       draw: Round Robin(10)
       score: KLEI 7 - SMID 6
- - name: Webster, Crystal
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 85
-        wins: 0
-        losses: 1
-      player2:
-        percent: 68
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'Mid'
-        position: Lead
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'Web'
-        position: Fourth
-        percent: 68
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2007
-      draw: Round Robin(5)
-      score: Mid 7 - Web 9
  - name: Zinck, Kay
    totals:
     - event: Canada Cup (Women)

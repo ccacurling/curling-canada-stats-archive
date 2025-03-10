@@ -154,6 +154,7 @@ vs:
  - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Rocque, Kelsey
+ - Rumberg, Crystal
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Silvernagle, Robyn
@@ -161,7 +162,6 @@ vs:
  - Sweeting, Val
  - Thevenot, Kara
  - Weagle, Lisa
- - Webster, Crystal
  - Westcott, Raunora
  - Wilson, Leslie
  - Wylie, Jennifer

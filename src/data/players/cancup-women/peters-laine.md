@@ -242,6 +242,7 @@ vs:
  - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Rocque, Kelsey
+ - Rumberg, Crystal
  - Sabourin, Joelle
  - Scheidegger, Casey
  - Schmidt, Stephanie
@@ -258,7 +259,6 @@ vs:
  - Wall, Kirsten
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - Westcott, Raunora
  - Wilkes, Sarah
 ---

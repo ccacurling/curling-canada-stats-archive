@@ -220,6 +220,7 @@ vs:
  - Robertson, Desiree
  - Rocheleau, Patty
  - Rocque, Kelsey
+ - Rumberg, Crystal
  - Sabourin, Joelle
  - Schmidt, Stephanie
  - Schraeder, Jeanna
@@ -236,7 +237,6 @@ vs:
  - Walsh, Heather
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Wilson, Leslie

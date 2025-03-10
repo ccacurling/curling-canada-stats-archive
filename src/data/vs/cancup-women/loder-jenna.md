@@ -310,6 +310,34 @@ vs:
       year: 2012
       draw: Round Robin(2)
       score: MID 8 - OVE 5
+ - name: Rumberg, Crystal
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 66
+        wins: 0
+        losses: 1
+      player2:
+        percent: 74
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'OVE'
+        position: Third
+        percent: 66
+        win: 0
+        loss: 1
+      player2:
+        team: 'WEB'
+        position: Fourth
+        percent: 74
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2012
+      draw: Round Robin(4)
+      score: OVE 4 - WEB 8
  - name: Singler, Sherri
    totals:
     - event: Canada Cup (Women)
@@ -394,32 +422,4 @@ vs:
       year: 2012
       draw: Round Robin(3)
       score: OVE 6 - JON 9
- - name: Webster, Crystal
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 66
-        wins: 0
-        losses: 1
-      player2:
-        percent: 74
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'OVE'
-        position: Third
-        percent: 66
-        win: 0
-        loss: 1
-      player2:
-        team: 'WEB'
-        position: Fourth
-        percent: 74
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2012
-      draw: Round Robin(4)
-      score: OVE 4 - WEB 8
 ---

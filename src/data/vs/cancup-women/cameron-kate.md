@@ -1070,6 +1070,34 @@ vs:
       year: 2015
       draw: Round Robin(1)
       score: ROC 7 - MCD 6
+ - name: Rumberg, Crystal
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MCD'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'FLE'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2015
+      draw: Round Robin(2)
+      score: MCD 7 - FLE 3
  - name: Scheidegger, Casey
    totals:
     - event: Canada Cup (Women)
@@ -1186,34 +1214,6 @@ vs:
       year: 2018
       draw: Round Robin(10)
       score: Flax 4 - Homa 5
- - name: Webster, Crystal
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 90
-        wins: 1
-        losses: 0
-      player2:
-        percent: 78
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MCD'
-        position: Third
-        percent: 90
-        win: 1
-        loss: 0
-      player2:
-        team: 'FLE'
-        position: Third
-        percent: 78
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2015
-      draw: Round Robin(2)
-      score: MCD 7 - FLE 3
  - name: Wilkes, Sarah
    totals:
     - event: Canada Cup (Women)

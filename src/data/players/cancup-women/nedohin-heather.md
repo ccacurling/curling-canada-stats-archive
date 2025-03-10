@@ -209,6 +209,7 @@ vs:
  - Rizzo, Jo-Ann
  - Rocheleau, Patty
  - Rocque, Raylene
+ - Rumberg, Crystal
  - Sabourin, Joelle
  - Schmidt, Stephanie
  - Schneider, Kim
@@ -224,5 +225,4 @@ vs:
  - Wall, Kirsten
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
 ---

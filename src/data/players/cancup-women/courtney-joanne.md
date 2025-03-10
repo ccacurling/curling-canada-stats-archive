@@ -153,13 +153,13 @@ vs:
  - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Rocque, Kelsey
+ - Rumberg, Crystal
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Silvernagle, Robyn
  - Singler, Sherri
  - Sweeting, Val
  - Thevenot, Kara
- - Webster, Crystal
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie

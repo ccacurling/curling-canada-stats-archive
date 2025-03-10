@@ -79,6 +79,7 @@ vs:
  - Peters, Laine
  - Preston, Samantha
  - Robertson, Desiree
+ - Rumberg, Crystal
  - Sabourin, Joelle
  - Schraeder, Jeanna
  - Scott, Kelly
@@ -87,6 +88,5 @@ vs:
  - Singler, Sherri
  - Walsh, Heather
  - Webster, Bronwen
- - Webster, Crystal
  - Zinck, Kay
 ---

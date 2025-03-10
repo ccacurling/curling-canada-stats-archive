@@ -175,6 +175,7 @@ vs:
  - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Rocque, Kelsey
+ - Rumberg, Crystal
  - Sabourin, Joelle
  - Scheidegger, Casey
  - Schmidt, Stephanie
@@ -186,7 +187,6 @@ vs:
  - Thevenot, Kara
  - Titheridge, Lindsay
  - Webster, Bronwen
- - Webster, Crystal
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie

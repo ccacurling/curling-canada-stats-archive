@@ -81,10 +81,10 @@ vs:
  - Preston, Samantha
  - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
+ - Rumberg, Crystal
  - Singler, Sherri
  - Sweeting, Val
  - Titheridge, Lindsay
  - Wall, Kirsten
- - Webster, Crystal
  - Westcott, Raunora
 ---

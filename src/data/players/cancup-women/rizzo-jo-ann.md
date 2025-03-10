@@ -144,6 +144,7 @@ vs:
  - Preston, Samantha
  - Ramsay, Geri-Lynn
  - Rocque, Kelsey
+ - Rumberg, Crystal
  - Ruus, Karen
  - Schmidt, Stephanie
  - Schraeder, Jeanna
@@ -155,7 +156,6 @@ vs:
  - Titheridge, Lindsay
  - Wall, Kirsten
  - Weagle, Lisa
- - Webster, Crystal
  - Westcott, Raunora
  - Wilson, Leslie
  - Wylie, Jennifer

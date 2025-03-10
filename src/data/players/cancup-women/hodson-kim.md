@@ -164,6 +164,7 @@ vs:
  - Robertson, Darcy
  - Robertson, Desiree
  - Rocque, Raylene
+ - Rumberg, Crystal
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shantz, Penny
@@ -175,6 +176,5 @@ vs:
  - Unrau, Faye
  - Vey, Lana
  - Webster, Bronwen
- - Webster, Crystal
  - Wheatcroft, Georgina
 ---

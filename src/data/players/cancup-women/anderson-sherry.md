@@ -245,6 +245,7 @@ vs:
  - Robertson, Desiree
  - Rocque, Raylene
  - Rogers, Rhonda
+ - Rumberg, Crystal
  - Sabourin, Joelle
  - Schneider, Kim
  - Schneider, Tammy
@@ -264,6 +265,5 @@ vs:
  - Wall, Kirsten
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - Wheatcroft, Georgina
 ---

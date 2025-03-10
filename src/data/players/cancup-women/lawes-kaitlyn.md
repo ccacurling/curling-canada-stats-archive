@@ -246,6 +246,7 @@ vs:
  - Robertson, Darcy
  - Rocque, Kelsey
  - Rogers, Rhonda
+ - Rumberg, Crystal
  - Sabourin, Joelle
  - Scheidegger, Casey
  - Schmidt, Stephanie
@@ -264,7 +265,6 @@ vs:
  - Vey, Lana
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie

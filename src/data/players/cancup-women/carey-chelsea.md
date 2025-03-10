@@ -186,6 +186,7 @@ vs:
  - Robertson, Darcy
  - Rocque, Kelsey
  - Rogers, Rhonda
+ - Rumberg, Crystal
  - Sabourin, Joelle
  - Scheidegger, Casey
  - Schneider, Kim
@@ -197,6 +198,5 @@ vs:
  - Wall, Kirsten
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - Westcott, Raunora
 ---

@@ -562,6 +562,50 @@ vs:
       year: 2015
       draw: Round Robin(2)
       score: MID 7 - ROC 5
+ - name: Rumberg, Crystal
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 74
+        wins: 2
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'ROC'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'FLE'
+        position: Third
+        percent: 74
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2015
+      draw: Round Robin(9)
+      score: FLE 8 - ROC 11
+    - player1:
+        team: 'ROC'
+        position: Lead
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'FLE'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Round Robin(9)
+      score: ROC 6 - FLE 5
  - name: Sweeting, Val
    totals:
     - event: Canada Cup (Women)
@@ -650,50 +694,6 @@ vs:
       year: 2016
       draw: Round Robin(5)
       score: HOM 8 - ROC 7
- - name: Webster, Crystal
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 74
-        wins: 2
-        losses: 0
-      player2:
-        percent: 74
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'ROC'
-        position: Lead
-        percent: 79
-        win: 1
-        loss: 0
-      player2:
-        team: 'FLE'
-        position: Third
-        percent: 74
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2015
-      draw: Round Robin(9)
-      score: FLE 8 - ROC 11
-    - player1:
-        team: 'ROC'
-        position: Lead
-        percent: 70
-        win: 1
-        loss: 0
-      player2:
-        team: 'FLE'
-        position: Third
-        percent: 75
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(9)
-      score: ROC 6 - FLE 5
  - name: Westcott, Raunora
    totals:
     - event: Canada Cup (Women)

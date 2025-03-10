@@ -149,6 +149,7 @@ vs:
  - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
  - Rocheleau, Patty
+ - Rumberg, Crystal
  - Sabourin, Joelle
  - Schraeder, Jeanna
  - Scott, Kelly
@@ -160,7 +161,6 @@ vs:
  - Sonnenberg, Renee
  - Titheridge, Lindsay
  - Webster, Bronwen
- - Webster, Crystal
  - Wheatcroft, Georgina
  - Zinck, Kay
 ---

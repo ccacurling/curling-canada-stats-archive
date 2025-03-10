@@ -1726,6 +1726,50 @@ vs:
       year: 2016
       draw: Round Robin(5)
       score: HOM 8 - ROC 7
+ - name: Rumberg, Crystal
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 77
+        wins: 2
+        losses: 0
+      player2:
+        percent: 73
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'HOM'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'FLE'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2015
+      draw: Round Robin(7)
+      score: FLE 5 - HOM 7
+    - player1:
+        team: 'HOM'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'FLE'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Round Robin(4)
+      score: FLE 4 - HOM 6
  - name: Sabourin, Joelle
    totals:
     - event: Canada Cup (Women)
@@ -2146,50 +2190,6 @@ vs:
       year: 2011
       draw: Round Robin(9)
       score: HOM 5 - KLE 6
- - name: Webster, Crystal
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 77
-        wins: 2
-        losses: 0
-      player2:
-        percent: 73
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'HOM'
-        position: Fourth
-        percent: 76
-        win: 1
-        loss: 0
-      player2:
-        team: 'FLE'
-        position: Third
-        percent: 70
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2015
-      draw: Round Robin(7)
-      score: FLE 5 - HOM 7
-    - player1:
-        team: 'HOM'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'FLE'
-        position: Third
-        percent: 75
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(4)
-      score: FLE 4 - HOM 6
  - name: Westcott, Raunora
    totals:
     - event: Canada Cup (Women)

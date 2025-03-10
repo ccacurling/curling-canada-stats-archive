@@ -2438,6 +2438,66 @@ vs:
       year: 2010
       draw: Round Robin(3)
       score: SN 3 - JJ 10
+ - name: Rumberg, Crystal
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 78
+        wins: 2
+        losses: 1
+      player2:
+        percent: 71
+        wins: 1
+        losses: 2
+   games:
+    - player1:
+        team: 'JJ'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 75
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(10)
+      score: SK 8 - JJ 6
+    - player1:
+        team: 'JON'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'FLE'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2015
+      draw: Round Robin(4)
+      score: FLE 4 - JON 9
+    - player1:
+        team: 'JON'
+        position: Fourth
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'FLE'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Round Robin(2)
+      score: FLE 4 - JON 6
  - name: Santos, Deb
    totals:
     - event: Canada Cup (Women)
@@ -3550,66 +3610,6 @@ vs:
       year: 2011
       draw: Semi-Final(10)
       score: JON 6 - KLE 3
- - name: Webster, Crystal
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 78
-        wins: 2
-        losses: 1
-      player2:
-        percent: 71
-        wins: 1
-        losses: 2
-   games:
-    - player1:
-        team: 'JJ'
-        position: Fourth
-        percent: 67
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 75
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2010
-      draw: Round Robin(10)
-      score: SK 8 - JJ 6
-    - player1:
-        team: 'JON'
-        position: Fourth
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'FLE'
-        position: Third
-        percent: 75
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2015
-      draw: Round Robin(4)
-      score: FLE 4 - JON 9
-    - player1:
-        team: 'JON'
-        position: Fourth
-        percent: 84
-        win: 1
-        loss: 0
-      player2:
-        team: 'FLE'
-        position: Third
-        percent: 64
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(2)
-      score: FLE 4 - JON 6
  - name: Westcott, Raunora
    totals:
     - event: Canada Cup (Women)

@@ -546,6 +546,34 @@ vs:
       year: 2007
       draw: Round Robin(6)
       score: San 5 - Kin 8
+ - name: Rumberg, Crystal
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 82
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NED'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'WEB'
+        position: Fourth
+        percent: 82
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2012
+      draw: Round Robin(8)
+      score: NED 6 - WEB 9
  - name: Sabourin, Joelle
    totals:
     - event: Canada Cup (Women)
@@ -1222,32 +1250,4 @@ vs:
       year: 2011
       draw: Round Robin(4)
       score: KLE 9 - NED 8
- - name: Webster, Crystal
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 75
-        wins: 0
-        losses: 1
-      player2:
-        percent: 82
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NED'
-        position: Fourth
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'WEB'
-        position: Fourth
-        percent: 82
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2012
-      draw: Round Robin(8)
-      score: NED 6 - WEB 9
 ---

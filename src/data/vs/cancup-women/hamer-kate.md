@@ -366,6 +366,34 @@ vs:
       year: 2007
       draw: Round Robin(5)
       score: Mid 7 - Web 9
+ - name: Rumberg, Crystal
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 68
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Mid'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'Web'
+        position: Fourth
+        percent: 68
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2007
+      draw: Round Robin(5)
+      score: Mid 7 - Web 9
  - name: Singler, Sherri
    totals:
     - event: Canada Cup (Women)
@@ -450,32 +478,4 @@ vs:
       year: 2007
       draw: Round Robin(9)
       score: Kle 7 - Mid 6
- - name: Webster, Crystal
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 78
-        wins: 0
-        losses: 1
-      player2:
-        percent: 68
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'Mid'
-        position: Second
-        percent: 78
-        win: 0
-        loss: 1
-      player2:
-        team: 'Web'
-        position: Fourth
-        percent: 68
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2007
-      draw: Round Robin(5)
-      score: Mid 7 - Web 9
 ---

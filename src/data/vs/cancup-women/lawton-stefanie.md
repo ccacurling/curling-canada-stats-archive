@@ -1438,6 +1438,50 @@ vs:
       year: 2010
       draw: Round Robin(1)
       score: SL 9 - SN 6
+ - name: Rumberg, Crystal
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 88
+        wins: 2
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'Law'
+        position: Fourth
+        percent: 87
+        win: 1
+        loss: 0
+      player2:
+        team: 'Web'
+        position: Fourth
+        percent: 64
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2007
+      draw: Round Robin(8)
+      score: Web 4 - Law 7
+    - player1:
+        team: 'LAW'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'WEB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2012
+      draw: Round Robin(7)
+      score: WEB 4 - LAW 8
  - name: Sabourin, Joelle
    totals:
     - event: Canada Cup (Women)
@@ -2130,50 +2174,6 @@ vs:
       year: 2011
       draw: Round Robin(8)
       score: KLE 8 - LAW 4
- - name: Webster, Crystal
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 88
-        wins: 2
-        losses: 0
-      player2:
-        percent: 66
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'Law'
-        position: Fourth
-        percent: 87
-        win: 1
-        loss: 0
-      player2:
-        team: 'Web'
-        position: Fourth
-        percent: 64
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2007
-      draw: Round Robin(8)
-      score: Web 4 - Law 7
-    - player1:
-        team: 'LAW'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'WEB'
-        position: Fourth
-        percent: 68
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2012
-      draw: Round Robin(7)
-      score: WEB 4 - LAW 8
  - name: Wilkes, Sarah
    totals:
     - event: Canada Cup (Women)

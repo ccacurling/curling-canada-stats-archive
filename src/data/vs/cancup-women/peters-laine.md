@@ -214,6 +214,50 @@ vs:
       year: 2016
       draw: Round Robin(3)
       score: CAR 11 - ROC 5
+ - name: Rumberg, Crystal
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 77
+        wins: 1
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'NED'
+        position: Lead
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'WEB'
+        position: Fourth
+        percent: 82
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2012
+      draw: Round Robin(8)
+      score: NED 6 - WEB 9
+    - player1:
+        team: 'CAR'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'FLE'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Round Robin(7)
+      score: CAR 7 - FLE 4
  - name: Sabourin, Joelle
    totals:
     - event: Canada Cup (Women)
@@ -998,50 +1042,6 @@ vs:
       year: 2011
       draw: Round Robin(4)
       score: KLE 9 - NED 8
- - name: Webster, Crystal
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 77
-        wins: 1
-        losses: 1
-      player2:
-        percent: 79
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'NED'
-        position: Lead
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'WEB'
-        position: Fourth
-        percent: 82
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2012
-      draw: Round Robin(8)
-      score: NED 6 - WEB 9
-    - player1:
-        team: 'CAR'
-        position: Lead
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'FLE'
-        position: Third
-        percent: 75
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(7)
-      score: CAR 7 - FLE 4
  - name: Westcott, Raunora
    totals:
     - event: Canada Cup (Women)
