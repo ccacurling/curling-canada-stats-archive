@@ -202,6 +202,7 @@ vs:
  - Galusha, Kerry
  - Gates, Amanda
  - Gates, Jennifer
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
  - Gustafson, Leigh
@@ -214,7 +215,6 @@ vs:
  - Jones, Jennifer
  - Just, Sherry
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Klymchuk, Ashley
  - Knapp, Breanne
  - Koltun, Sarah
@@ -225,7 +225,6 @@ vs:
  - Loder, Jenna
  - Logan, Emma
  - Loken, Sarah
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - Mackey, Robyn
  - MacMillan, Kayla
@@ -264,6 +263,7 @@ vs:
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Strybosch, Rachelle
  - Taylor, Alison
  - Thevenot, Kara

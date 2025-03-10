@@ -58,6 +58,7 @@ vs:
  - Dykstra, Michelle
  - Fullerton, Sarah
  - Galusha, Kerry
+ - Gordon, Kristin
  - Holtby, Taryn
  - Homan, Rachel
  - Iskiw, Beth
@@ -70,7 +71,6 @@ vs:
  - Kreviazuk, Alison
  - Lawes, Kaitlyn
  - LeDrew, Stephanie
- - MacCuish, Kristin
  - MacDougall, Leslie
  - Mair, Jessica
  - McEwen, Dawn

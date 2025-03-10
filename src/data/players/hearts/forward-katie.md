@@ -125,6 +125,7 @@ vs:
  - Galusha, Kerry
  - Gamble, Christie
  - Gates, Jennifer
+ - Gordon, Kristin
  - Griffin, Alison
  - Guzzwell, Stephanie
  - Hamilton, Beth
@@ -141,7 +142,6 @@ vs:
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacPhail, Brigitte
  - McCarville, Krista

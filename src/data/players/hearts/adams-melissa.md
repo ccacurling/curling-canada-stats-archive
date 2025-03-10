@@ -4,18 +4,18 @@ name: Melissa Adams
 name-sort: Adams, Melissa
 totals:
  - event: Hearts
-   games: 24
-   wins: 10
-   losses: 14
-   inturn-total: 234
-   inturn-percent: 65
-   outturn-total: 225
-   outturn-percent: 70
-   draw-total: 222
+   games: 32
+   wins: 12
+   losses: 20
+   inturn-total: 316
+   inturn-percent: 66
+   outturn-total: 293
+   outturn-percent: 69
+   draw-total: 303
    draw-percent: 65
-   takeout-total: 237
-   takeout-percent: 69
-   shots-total: 459
+   takeout-total: 306
+   takeout-percent: 70
+   shots-total: 609
    shots-percent: 67
 years:
  - year: 2009
@@ -77,6 +77,24 @@ years:
    takeout-percent: 69
    shots-total: 147
    shots-percent: 63
+ - year: 2025
+   event: Hearts
+   team: "NB"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 82
+   inturn-percent: 69
+   outturn-total: 68
+   outturn-percent: 66
+   draw-total: 81
+   draw-percent: 63
+   takeout-total: 69
+   takeout-percent: 73
+   shots-total: 150
+   shots-percent: 68
 vs:
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -100,6 +118,8 @@ vs:
  - Curtis, Stacie
  - Daly, Calissa
  - deGroot, Cassandra
+ - DiCarlo, Jane
+ - Doig, Deanna
  - Dubue, Lindsay
  - Duncan, Chelsea
  - Duncan, Jenna
@@ -116,8 +136,10 @@ vs:
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
+ - Gustafson, Leigh
  - Hamilton, Beth
  - Hawes, Dezaray
  - Helston, Raelyn
@@ -126,41 +148,55 @@ vs:
  - Hughes, Meaghan
  - Hynes, Julie
  - Inglis, Danielle
+ - Jenkins, Whitney
  - Jones, Jennifer
- - Kitz, Chaelynn
+ - Kelly, Andrea
  - Knapp, Breanne
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
  - Lawes, Kaitlyn
  - Loken, Sarah
- - MacCuish, Kristin
+ - Lott, Kadriana
  - MacDonald, Kaitlin
  - MacMillan, Kayla
  - Martin, Nancy
+ - Mayne, Veronica
+ - McCarville, Krista
  - McEwen, Dawn
  - Mercer, Adrienne
  - Miskew, Emma
  - Njegovan, Selena
  - Officer, Jill
+ - Papley, Paige
  - Peterman, Jocelyn
  - Pincott, Erin
  - Pinksen, Sadie
  - Porter, Erin
+ - Potts, Sarah
  - Price, Kara
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Rocque, Kelsey
+ - Rumberg, Crystal
+ - Schmiemann, Danielle
  - Scoffin, Bayly
  - Shea, Michelle
+ - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smallwood, Jody
  - Smith, Heather
+ - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Strong, Helen
+ - Sturmay, Selena
+ - Taylor, Alison
  - Walter, Meghan
+ - Weagle, Julia
  - Weagle, Lisa
- - Webster, Crystal
  - Westcott, Raunora
  - Wilkes, Sarah
  - Zacharias, Emily

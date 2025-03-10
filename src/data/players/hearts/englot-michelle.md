@@ -283,6 +283,7 @@ vs:
  - Gates, Amanda
  - Gauthier, Cathy
  - Gibson, Amy
+ - Gordon, Kristin
  - Goring, Alison
  - Goss, Peg
  - Graham-MacDonald, Bea
@@ -340,7 +341,6 @@ vs:
  - Lilly, Kendra
  - MacAulay, Marion
  - MacCallum, Janice
- - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacDonald, Shelley
  - MacDougall, Leslie
@@ -419,6 +419,7 @@ vs:
  - Ridley, Terry
  - Rintoul, Jacki
  - Rudd, Colleen
+ - Rumberg, Crystal
  - Ryan, Diane
  - Ryan, Jennifer
  - Ryan, Penny
@@ -474,7 +475,6 @@ vs:
  - Wall, Kirsten
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - Werenka, Lil
  - West, Christianne
  - Wheatcroft, Georgina

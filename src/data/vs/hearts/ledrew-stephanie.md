@@ -2,34 +2,6 @@
 title: Stephanie LeDrew Head-to-head
 name: LeDrew, Stephanie
 vs:
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 0
-        losses: 1
-      player2:
-        percent: 76
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'ON'
-        position: Third
-        percent: 84
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 76
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Pool(16)
-      score: ON 5 - WC 7
  - name: MacDougall, Leslie
    totals:
     - event: Hearts
@@ -766,6 +738,34 @@ vs:
       year: 2010
       draw: Round Robin(15)
       score: NL 5 - PE 9
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 71
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Pool(19)
+      score: NO 8 - ON 6
  - name: Scheidegger, Casey
    totals:
     - event: Hearts
@@ -1298,34 +1298,6 @@ vs:
       year: 2013
       draw: Round Robin(1)
       score: NL 1 - ON 8
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 71
-        wins: 0
-        losses: 1
-      player2:
-        percent: 85
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'ON'
-        position: Third
-        percent: 71
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Third
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Pool(19)
-      score: NO 8 - ON 6
  - name: West, Christianne
    totals:
     - event: Hearts

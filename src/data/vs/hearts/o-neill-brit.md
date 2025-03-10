@@ -170,34 +170,6 @@ vs:
       year: 2016
       draw: Round Robin(1)
       score: QC 9 - ON 5
- - name: Recksiedler, Kristen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 1
-        losses: 0
-      player2:
-        percent: 84
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'ON'
-        position: Third
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
-        position: Third
-        percent: 84
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(8)
-      score: ON 6 - BC 5
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -226,6 +198,34 @@ vs:
       year: 2016
       draw: Round Robin(13)
       score: ON 6 - NB 4
+ - name: Ryan, Kristen
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(8)
+      score: ON 6 - BC 5
  - name: Sippala, Ashley
    totals:
     - event: Hearts

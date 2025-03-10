@@ -4,18 +4,18 @@ name: Shona Barbour
 name-sort: Barbour, Shona
 totals:
  - event: Hearts
-   games: 62
-   wins: 20
-   losses: 42
-   inturn-total: 749
+   games: 67
+   wins: 22
+   losses: 45
+   inturn-total: 817
    inturn-percent: 80
-   outturn-total: 416
+   outturn-total: 442
    outturn-percent: 75
-   draw-total: 860
+   draw-total: 932
    draw-percent: 80
-   takeout-total: 305
+   takeout-total: 327
    takeout-percent: 73
-   shots-total: 1165
+   shots-total: 1259
    shots-percent: 78
 years:
  - year: 2005
@@ -247,6 +247,24 @@ years:
    team: "NT"
    position: Alternate
    alternate: true
+ - year: 2025
+   event: Hearts
+   team: "NT"
+   position: Lead
+   alternate: false
+   games: 5
+   wins: 2
+   losses: 3
+   inturn-total: 68
+   inturn-percent: 83
+   outturn-total: 26
+   outturn-percent: 82
+   draw-total: 72
+   draw-percent: 83
+   takeout-total: 22
+   takeout-percent: 80
+   shots-total: 94
+   shots-percent: 82
 vs:
  - Adams, Melissa
  - Aleksic, Shannon
@@ -273,8 +291,10 @@ vs:
  - Brown, Corryn
  - Brown, Jacalyn
  - Brown, Rachel
+ - Brunton, Kira
  - Burgess, Karlee
  - Burns, Krysta
+ - Burt, Camille
  - Cameron, Kate
  - Campbell, Jolene
  - Carmody, Erin
@@ -282,11 +302,14 @@ vs:
  - Christianson, Marie
  - Courtney, Joanne
  - Crouse, Jennifer
+ - Cullen, Brianna
  - Cunningham, Cathy
  - Cunningham, Jennifer
  - Curtis, Erica
  - Curtis, Stacie
+ - Daly, Calissa
  - Darbyshire, Carolyn
+ - deGroot, Cassandra
  - deSolla, Jodie
  - Doerksen, Katherine
  - Dolan, Kim
@@ -294,15 +317,18 @@ vs:
  - Duncan, Chelsea
  - Duncan, Jenna
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Enge, Jenna
  - Englot, Michelle
  - Enright, Barb
+ - Everist, Karlee
  - Fallis, Karen
  - Fesser, Kourtney
  - Fesser, Krista
  - Filteau, Anne-Marie
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Fraser, Sherry
  - Fullerton, Sarah
  - Fyfe, Liz
@@ -310,6 +336,8 @@ vs:
  - Gates, Jennifer
  - George, Tara
  - Gilman, Sheena
+ - Godsland, Brooke
+ - Gordon, Kristin
  - Goss, Peg
  - Gregoire, Veronique
  - Gushulak, Diane
@@ -320,11 +348,14 @@ vs:
  - Harris, Briane
  - Haughian, Jessie
  - Hawes, Dezaray
+ - Helston, Raelyn
  - Holland, Amber
  - Homan, Rachel
+ - Horte, Bailey
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hynes, Julie
+ - Inglis, Danielle
  - Iskiw, Beth
  - Jewer, Michelle
  - Jones, Jennifer
@@ -339,6 +370,7 @@ vs:
  - Korchinski, Karlee
  - Kreviazuk, Alison
  - Kreviazuk, Cheryl
+ - Lamswood, Sarah
  - Lang, Lorraine
  - Larouche, Marie-France
  - Lawes, Kaitlyn
@@ -349,7 +381,6 @@ vs:
  - Loder, Jenna
  - Logan, Emma
  - Lowther, Tammi
- - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacInnes, Grace
  - MacLean, Kari
@@ -391,11 +422,13 @@ vs:
  - Richards, Brette
  - Robertson, Darcy
  - Robison, Michala
+ - Rumberg, Crystal
  - Sabourin, Joelle
  - Scheidegger, Casey
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
+ - Scoffin, Bayly
  - Scott, Kelly
  - Sharpe, Kelli
  - Shaw, Ladene
@@ -424,7 +457,6 @@ vs:
  - Wazney, Sarah
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie

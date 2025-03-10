@@ -132,6 +132,7 @@ vs:
  - Gignac, Donna
  - Gilman, Sheena
  - Gogan, Jennifer
+ - Gordon, Kristin
  - Goss, Peg
  - Gregoire, Veronique
  - Gudereit, Marcia
@@ -168,7 +169,6 @@ vs:
  - Lowther, Tammi
  - MacAulay, Marion
  - MacCallum, Janice
- - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacLean, Kari

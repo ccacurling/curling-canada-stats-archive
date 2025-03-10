@@ -140,6 +140,7 @@ vs:
  - Foster, Kristen
  - Gannon, Melissa
  - Gates, Amanda
+ - Gordon, Kristin
  - Hastings, Julie
  - Hawes, Dezaray
  - Homan, Rachel
@@ -154,7 +155,6 @@ vs:
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lawton, Stefanie
- - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - Mann, Lauren
  - McCarville, Krista

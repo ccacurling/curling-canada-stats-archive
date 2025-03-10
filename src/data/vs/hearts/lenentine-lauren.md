@@ -622,6 +622,34 @@ vs:
       year: 2023
       draw: Page 1-2(23)
       score: NO 5 - MB 8
+ - name: Skauge, Ella
+   totals:
+    - event: Hearts
+      player1:
+        percent: 91
+        wins: 0
+        losses: 1
+      player2:
+        percent: 82
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'NT'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(10)
+      score: NT 9 - MB 6
  - name: Smith, Megan
    totals:
     - event: Hearts

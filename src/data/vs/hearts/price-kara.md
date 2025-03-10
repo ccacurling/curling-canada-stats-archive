@@ -30,7 +30,7 @@ vs:
       year: 2018
       draw: Round Robin(14)
       score: NB 6 - YT 3
- - name: Webster, Crystal
+ - name: Rumberg, Crystal
    totals:
     - event: Hearts
       player1:

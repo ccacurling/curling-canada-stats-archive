@@ -163,6 +163,7 @@ vs:
  - Gannon, Melissa
  - Gates, Amanda
  - George, Tara
+ - Gordon, Kristin
  - Gregoire, Veronique
  - Gudereit, Marcia
  - Guzzwell, Stephanie
@@ -195,7 +196,6 @@ vs:
  - Lawton, Stefanie
  - Lemay, Annie
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacPhee, Robyn
@@ -234,10 +234,10 @@ vs:
  - Provencal, Darah
  - Quillian, Sylvie
  - Rainville, Julie
- - Recksiedler, Kristen
  - Reid, Jackie
  - Richard, Marie
  - Ross, Allison
+ - Ryan, Kristen
  - Sagle, Karen
  - Sanderson, Jessie
  - Sandwith, Carley

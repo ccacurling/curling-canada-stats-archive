@@ -4,18 +4,18 @@ name: Val Sweeting
 name-sort: Sweeting, Val
 totals:
  - event: Hearts
-   games: 100
-   wins: 76
-   losses: 24
-   inturn-total: 981
+   games: 112
+   wins: 84
+   losses: 28
+   inturn-total: 1088
    inturn-percent: 81
-   outturn-total: 874
+   outturn-total: 1003
    outturn-percent: 83
-   draw-total: 713
-   draw-percent: 79
-   takeout-total: 1142
-   takeout-percent: 83
-   shots-total: 1855
+   draw-total: 793
+   draw-percent: 80
+   takeout-total: 1298
+   takeout-percent: 84
+   shots-total: 2091
    shots-percent: 82
 years:
  - year: 2010
@@ -162,6 +162,24 @@ years:
    takeout-percent: 79
    shots-total: 188
    shots-percent: 82
+ - year: 2025
+   event: Hearts
+   team: "MB"
+   position: Third
+   alternate: false
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 107
+   inturn-percent: 85
+   outturn-total: 129
+   outturn-percent: 90
+   draw-total: 80
+   draw-percent: 83
+   takeout-total: 156
+   takeout-percent: 89
+   shots-total: 236
+   shots-percent: 87
 vs:
  - Ackerman, Skylar
  - Affleck, Tricia
@@ -194,6 +212,7 @@ vs:
  - Brunton, Kira
  - Burgess, Karlee
  - Burns, Krysta
+ - Burt, Camille
  - Cameron, Kate
  - Camozzi, Rhonda
  - Campbell, Jolene
@@ -210,9 +229,12 @@ vs:
  - Court, Morgan
  - Courtney, Joanne
  - Crouse, Jennifer
+ - Cullen, Brianna
  - Curtis, Erica
  - Curtis, Stacie
+ - Daly, Calissa
  - Davies, Lisa
+ - deGroot, Cassandra
  - deSolla, Jodie
  - DiCarlo, Jane
  - Doerksen, Katherine
@@ -237,12 +259,15 @@ vs:
  - Foster, Kristen
  - Fyfe, Liz
  - Galusha, Kerry
+ - Galusha, Sydney
  - Gannon, Melissa
  - Gates, Amanda
  - Gates, Jennifer
  - George, Tara
  - Georges, Kendra
  - Gilman, Sheena
+ - Godsland, Brooke
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
  - Gustafson, Leigh
@@ -250,11 +275,14 @@ vs:
  - Hardy, Shelley
  - Hastings, Julie
  - Hawes, Dezaray
+ - Helston, Raelyn
  - Holland, Amber
  - Homan, Rachel
+ - Horte, Bailey
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hynes, Julie
+ - Inglis, Danielle
  - Jenkins, Whitney
  - Jones, Jennifer
  - Joyce, Blisse
@@ -262,7 +290,6 @@ vs:
  - Kalenchuk, Heather
  - Kasner, Marliese
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Klymchuk, Ashley
  - Knapp, Breanne
  - Knezevic, Patti
@@ -271,6 +298,7 @@ vs:
  - Korab, Stephanie
  - Kreviazuk, Alison
  - Kreviazuk, Lynn
+ - Lamswood, Sarah
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - LeDrew, Stephanie
@@ -280,7 +308,6 @@ vs:
  - Loder, Jenna
  - Logan, Emma
  - Loken, Sarah
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacLean, Kari
@@ -315,7 +342,9 @@ vs:
  - Pilote, Kristen
  - Pincott, Erin
  - Pinksen, Sadie
+ - Porter, Erin
  - Potts, Sarah
+ - Powers, Marlee
  - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
@@ -337,6 +366,7 @@ vs:
  - Schmiemann, Danielle
  - Schneider, Kim
  - Schraeder, Jeanna
+ - Scoffin, Bayly
  - Scotland, Nadine
  - Scott, Kelly
  - Shea, Michelle
@@ -346,6 +376,7 @@ vs:
  - Sinclair, Jamie
  - Singler, Sherri
  - Sippala, Ashley
+ - Skauge, Ella
  - Skinner, Kaylin
  - Skrlik, Ashton
  - Skrlik, Kayla
@@ -357,6 +388,7 @@ vs:
  - Sobey, Lianne
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Stremick, Taylor
  - Strong, Heather
  - Strong, Laura

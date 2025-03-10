@@ -1954,6 +1954,130 @@ vs:
       year: 2018
       draw: Pool(16)
       score: BC 3 - MB 10
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 82
+        wins: 6
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 6
+   games:
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 96
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(14)
+      score: MB 4 - WC 9
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Page 1-2(22)
+      score: WC 7 - MB 9
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Final(24)
+      score: WC 6 - MB 8
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 77
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Pool(21)
+      score: CA 9 - WC 3
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 85
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Page 3-4(22)
+      score: WC 6 - CA 11
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(5)
+      score: WC 9 - CA 10
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 85
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(15)
+      score: CA 6 - MB 5
  - name: Grandy, Clancy
    totals:
     - event: Hearts
@@ -2582,34 +2706,6 @@ vs:
       year: 2024
       draw: Round Robin(3)
       score: CA 7 - NO 4
- - name: Kitz, Chaelynn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 1
-        losses: 0
-      player2:
-        percent: 74
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'CA'
-        position: Second
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 74
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Pool(20)
-      score: SK 6 - CA 10
  - name: Klymchuk, Ashley
    totals:
     - event: Hearts
@@ -3174,130 +3270,6 @@ vs:
       year: 2023
       draw: Round Robin(3)
       score: CA 9 - BC 4
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 82
-        wins: 6
-        losses: 1
-      player2:
-        percent: 84
-        wins: 1
-        losses: 6
-   games:
-    - player1:
-        team: 'MB'
-        position: Third
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 96
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(14)
-      score: MB 4 - WC 9
-    - player1:
-        team: 'MB'
-        position: Third
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 79
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Page 1-2(22)
-      score: WC 7 - MB 9
-    - player1:
-        team: 'MB'
-        position: Third
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 89
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Final(24)
-      score: WC 6 - MB 8
-    - player1:
-        team: 'CA'
-        position: Second
-        percent: 89
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 77
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Pool(21)
-      score: CA 9 - WC 3
-    - player1:
-        team: 'CA'
-        position: Second
-        percent: 82
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 85
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Page 3-4(22)
-      score: WC 6 - CA 11
-    - player1:
-        team: 'CA'
-        position: Second
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2023
-      draw: Round Robin(5)
-      score: WC 9 - CA 10
-    - player1:
-        team: 'CA'
-        position: Second
-        percent: 85
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 85
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2024
-      draw: Round Robin(15)
-      score: CA 6 - MB 5
  - name: MacDonald, Kaitlin
    totals:
     - event: Hearts
@@ -4598,6 +4570,34 @@ vs:
       year: 2020
       draw: Round Robin(2)
       score: QC 4 - MB 9
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 73
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(12)
+      score: MB 5 - NO 9
  - name: Sagle, Karen
    totals:
     - event: Hearts
@@ -5346,6 +5346,34 @@ vs:
       year: 2024
       draw: Round Robin(1)
       score: CA 8 - QC 2
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Pool(20)
+      score: SK 6 - CA 10
  - name: Stremick, Taylor
    totals:
     - event: Hearts
@@ -5894,34 +5922,6 @@ vs:
       year: 2021
       draw: Pool(23)
       score: CA 9 - MB 10
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 0
-        losses: 1
-      player2:
-        percent: 73
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'MB'
-        position: Third
-        percent: 86
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Third
-        percent: 73
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(12)
-      score: MB 5 - NO 9
  - name: Westcott, Raunora
    totals:
     - event: Hearts

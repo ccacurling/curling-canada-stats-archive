@@ -87,6 +87,7 @@ vs:
  - Gagne, Emilia
  - Gannon, Melissa
  - Gates, Amanda
+ - Gordon, Kristin
  - Harvey, Marie-Pier
  - Homan, Rachel
  - Hughes, Meaghan
@@ -100,7 +101,6 @@ vs:
  - Kreviazuk, Cheryl
  - Lawton, Stefanie
  - LeDrew, Stephanie
- - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacPhee, Robyn
  - McDonald, Kristy
@@ -116,6 +116,7 @@ vs:
  - Porter, Erin
  - Robison, Michala
  - Ross, Allison
+ - Rumberg, Crystal
  - Sagle, Karen
  - Scheidegger, Casey
  - Scheidegger, Jessie
@@ -129,7 +130,6 @@ vs:
  - Titheridge, Lindsay
  - Udle, Teri
  - Weagle, Lisa
- - Webster, Crystal
  - West, Christianne
  - Westcott, Raunora
  - Wilson, Leslie

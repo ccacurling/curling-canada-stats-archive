@@ -83,6 +83,7 @@ vs:
  - Galusha, Kerry
  - Gates, Amanda
  - Gibson, Amy
+ - Gordon, Kristin
  - Harris, Briane
  - Harvey, Marie-Pier
  - Hughes, Meaghan
@@ -91,7 +92,6 @@ vs:
  - Jones, Jennifer
  - Koltun, Sarah
  - Lenentine, Lauren
- - MacCuish, Kristin
  - MacPhee, Robyn
  - McDonald, Taylor
  - McEwen, Dawn
@@ -103,6 +103,7 @@ vs:
  - Porter, Erin
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Rumberg, Crystal
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schraeder, Jeanna
@@ -119,7 +120,6 @@ vs:
  - Van Osch, Marika
  - Walker, Laura
  - Wallingham, Patty
- - Webster, Crystal
  - West, Christianne
  - Westcott, Raunora
  - Wilson, Leslie

@@ -738,34 +738,6 @@ vs:
       year: 2022
       draw: Round Robin(1)
       score: NB 6 - WC 5
- - name: Kitz, Chaelynn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 0
-        losses: 1
-      player2:
-        percent: 75
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'WC'
-        position: Second
-        percent: 84
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(15)
-      score: SK 8 - WC 7
  - name: Knapp, Breanne
    totals:
     - event: Hearts
@@ -2482,34 +2454,6 @@ vs:
       year: 2016
       draw: Round Robin(8)
       score: MB 5 - QC 6
- - name: Recksiedler, Kristen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 89
-        wins: 1
-        losses: 0
-      player2:
-        percent: 77
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MB'
-        position: Second
-        percent: 89
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
-        position: Third
-        percent: 77
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(2)
-      score: BC 2 - MB 10
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -2566,6 +2510,34 @@ vs:
       year: 2021
       draw: Round Robin(9)
       score: WC 7 - QC 8
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 74
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 74
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(8)
+      score: NO 7 - WC 5
  - name: Rusnell, Jen
    totals:
     - event: Hearts
@@ -2610,6 +2582,34 @@ vs:
       year: 2019
       draw: Tie-Breaker(15)
       score: BC 8 - MB 5
+ - name: Ryan, Kristen
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 77
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 77
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(2)
+      score: BC 2 - MB 10
  - name: Sagle, Karen
    totals:
     - event: Hearts
@@ -3042,6 +3042,34 @@ vs:
       year: 2021
       draw: Round Robin(9)
       score: WC 7 - QC 8
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(15)
+      score: SK 8 - WC 7
  - name: Sweeting, Val
    totals:
     - event: Hearts
@@ -3426,34 +3454,6 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: MB 2 - WC 9
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 0
-        losses: 1
-      player2:
-        percent: 74
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'WC'
-        position: Second
-        percent: 78
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Third
-        percent: 74
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(8)
-      score: NO 7 - WC 5
  - name: Westcott, Raunora
    totals:
     - event: Hearts

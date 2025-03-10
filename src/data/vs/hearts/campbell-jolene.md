@@ -642,6 +642,50 @@ vs:
       year: 2012
       draw: Round Robin(10)
       score: ON 4 - CA 9
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 85
+        wins: 1
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 95
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(7)
+      score: MB 4 - SK 8
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(11)
+      score: WC 4 - WC 9
  - name: Hamilton, Beth
    totals:
     - event: Hearts
@@ -1142,50 +1186,6 @@ vs:
       year: 2022
       draw: Round Robin(1)
       score: NO 7 - WC 3
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 85
-        wins: 1
-        losses: 1
-      player2:
-        percent: 88
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 92
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 95
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(7)
-      score: MB 4 - SK 8
-    - player1:
-        team: 'WC'
-        position: Third
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 81
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(11)
-      score: WC 4 - WC 9
  - name: MacDonald, Kaitlin
    totals:
     - event: Hearts
@@ -2126,34 +2126,6 @@ vs:
       year: 2016
       draw: Round Robin(4)
       score: QC 10 - SK 4
- - name: Recksiedler, Kristen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 1
-        losses: 0
-      player2:
-        percent: 64
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
-        position: Third
-        percent: 64
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(9)
-      score: BC 7 - SK 8
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -2210,6 +2182,34 @@ vs:
       year: 2012
       draw: Round Robin(13)
       score: CA 10 - PE 4
+ - name: Ryan, Kristen
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 64
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(9)
+      score: BC 7 - SK 8
  - name: Sagle, Karen
    totals:
     - event: Hearts

@@ -86,34 +86,6 @@ vs:
       year: 2023
       draw: Round Robin(5)
       score: BC 11 - SK 6
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 69
-        wins: 0
-        losses: 1
-      player2:
-        percent: 88
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Second
-        percent: 69
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(10)
-      score: SK 3 - WC 8
  - name: MacDonald, Kaitlin
    totals:
     - event: Hearts

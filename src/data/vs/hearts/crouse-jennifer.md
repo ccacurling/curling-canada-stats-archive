@@ -658,6 +658,50 @@ vs:
       year: 2018
       draw: Pool(19)
       score: NS 10 - BC 4
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 0
+        losses: 2
+      player2:
+        percent: 89
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(4)
+      score: WC 7 - NS 5
+    - player1:
+        team: 'NS'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Semi-Final(23)
+      score: WC 12 - NS 9
  - name: Goss, Peg
    totals:
     - event: Hearts
@@ -1326,50 +1370,6 @@ vs:
       year: 2009
       draw: Round Robin(7)
       score: PE 8 - NS 6
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 0
-        losses: 2
-      player2:
-        percent: 89
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Lead
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 86
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(4)
-      score: WC 7 - NS 5
-    - player1:
-        team: 'NS'
-        position: Lead
-        percent: 91
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 93
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Semi-Final(23)
-      score: WC 12 - NS 9
  - name: MacDonald, Rebecca Jean
    totals:
     - event: Hearts
@@ -2382,6 +2382,50 @@ vs:
       year: 2010
       draw: Round Robin(11)
       score: NS 7 - NL 6
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 77
+        wins: 2
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'NS'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 83
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Round Robin(2)
+      score: NO 4 - NS 10
+    - player1:
+        team: 'NS'
+        position: Lead
+        percent: 72
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Page 3-4(21)
+      score: NO 2 - NS 6
  - name: Sabourin, Joelle
    totals:
     - event: Hearts
@@ -2986,50 +3030,6 @@ vs:
       year: 2009
       draw: Round Robin(8)
       score: NS 4 - SK 8
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 77
-        wins: 2
-        losses: 0
-      player2:
-        percent: 78
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'NS'
-        position: Lead
-        percent: 82
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Third
-        percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Round Robin(2)
-      score: NO 4 - NS 10
-    - player1:
-        team: 'NS'
-        position: Lead
-        percent: 72
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Third
-        percent: 74
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Page 3-4(21)
-      score: NO 2 - NS 6
  - name: Westcott, Raunora
    totals:
     - event: Hearts

@@ -98,6 +98,7 @@ vs:
  - Forward, Katie
  - Galusha, Kerry
  - Gates, Jennifer
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
  - Guzzwell, Stephanie
@@ -116,7 +117,6 @@ vs:
  - Lawes, Kaitlyn
  - Lilly, Kendra
  - Loken, Sarah
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacMillan, Kayla
  - MacPhail, Brigitte

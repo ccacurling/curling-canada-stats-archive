@@ -782,6 +782,34 @@ vs:
       year: 2010
       draw: Round Robin(9)
       score: PE 7 - NS 4
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 67
+        wins: 0
+        losses: 1
+      player2:
+        percent: 72
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Third
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 72
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(7)
+      score: MB 9 - NS 4
  - name: Grandy, Clancy
    totals:
     - event: Hearts
@@ -1534,34 +1562,6 @@ vs:
       year: 2024
       draw: Round Robin(8)
       score: BC 8 - NS 5
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 67
-        wins: 0
-        losses: 1
-      player2:
-        percent: 72
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Third
-        percent: 67
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 72
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(7)
-      score: MB 9 - NS 4
  - name: MacIntosh, Kelly
    totals:
     - event: Hearts

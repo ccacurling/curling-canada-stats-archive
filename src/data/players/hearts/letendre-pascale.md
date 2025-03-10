@@ -102,6 +102,7 @@ vs:
  - Gagnier, Monique
  - Galusha, Kerry
  - Gauthier, Cathy
+ - Gordon, Kristin
  - Hamilton, Beth
  - Hughes, Meaghan
  - Jones, Colleen
@@ -111,7 +112,6 @@ vs:
  - King, Cathy
  - Lawton, Stefanie
  - Leger, Stacey
- - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacPhee, Robyn
  - Mattatall, Mary

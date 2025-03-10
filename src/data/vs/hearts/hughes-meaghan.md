@@ -342,34 +342,6 @@ vs:
       year: 2022
       draw: Round Robin(7)
       score: PE 8 - NB 10
- - name: Kitz, Chaelynn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 1
-        losses: 0
-      player2:
-        percent: 84
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent: 76
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 84
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(2)
-      score: PE 7 - SK 6
  - name: Klymchuk, Ashley
    totals:
     - event: Hearts
@@ -982,82 +954,6 @@ vs:
       year: 2023
       draw: Round Robin(1)
       score: BC 10 - PE 6
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 0
-        losses: 4
-      player2:
-        percent: 70
-        wins: 4
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent: 88
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Round Robin(16)
-      score: PE 7 - MB 8
-    - player1:
-        team: 'PE'
-        position: Second
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(13)
-      score: WC 10 - PE 6
-    - player1:
-        team: 'PE'
-        position: Second
-        percent: 59
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 60
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(5)
-      score: PE 1 - WC 9
-    - player1:
-        team: 'PE'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(18)
-      score: PE 6 - WC 10
  - name: MacDonald, Kaitlin
    totals:
     - event: Hearts
@@ -2638,34 +2534,6 @@ vs:
       year: 2023
       draw: Round Robin(11)
       score: AB 10 - PE 7
- - name: Recksiedler, Kristen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 88
-        wins: 1
-        losses: 0
-      player2:
-        percent: 76
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
-        position: Third
-        percent: 76
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(13)
-      score: BC 4 - PE 6
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -2850,6 +2718,34 @@ vs:
       year: 2019
       draw: Pool(16)
       score: BC 9 - PE 8
+ - name: Ryan, Kristen
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 76
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(13)
+      score: BC 4 - PE 6
  - name: Sagle, Karen
    totals:
     - event: Hearts
@@ -3514,6 +3410,34 @@ vs:
       year: 2023
       draw: Round Robin(13)
       score: QC 8 - PE 4
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Second
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(2)
+      score: PE 7 - SK 6
  - name: Strong, Helen
    totals:
     - event: Hearts

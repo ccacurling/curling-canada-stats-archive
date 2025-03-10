@@ -85,6 +85,7 @@ vs:
  - Flemming, Margot
  - Fyfe, Liz
  - Galusha, Kerry
+ - Gordon, Kristin
  - Griffin, Alison
  - Hamilton, Beth
  - Harris, Briane
@@ -93,14 +94,12 @@ vs:
  - Homan, Rachel
  - Hughes, Meaghan
  - Jones, Jennifer
- - Kitz, Chaelynn
  - Knapp, Breanne
  - Koltun, Sarah
  - Lawes, Kaitlyn
  - Lenentine, Lauren
  - Lister, Kendra
  - Loder, Jenna
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - Martin, Nancy
  - McDonald, Taylor
@@ -116,6 +115,7 @@ vs:
  - Scotland, Nadine
  - Shea, Michelle
  - Simons, Renee
+ - Stewart, Chaelynn
  - Strybosch, Rachelle
  - Sweeting, Val
  - Tran, Brittany

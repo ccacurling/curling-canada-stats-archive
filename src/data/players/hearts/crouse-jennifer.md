@@ -145,6 +145,7 @@ vs:
  - George, Tara
  - Georges, Kendra
  - Gibson, Amy
+ - Gordon, Kristin
  - Goss, Peg
  - Gushulak, Diane
  - Hardy, Shelley
@@ -166,7 +167,6 @@ vs:
  - Lemon, Colette
  - Lister, Kendra
  - Lowther, Tammi
- - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacInnes, Grace
  - MacLean, Kari
@@ -198,6 +198,7 @@ vs:
  - Richards, Brette
  - Robertson, Darcy
  - Rogers, Rhonda
+ - Rumberg, Crystal
  - Sabourin, Joelle
  - Sagle, Karen
  - Scheidegger, Casey
@@ -219,7 +220,6 @@ vs:
  - Van Osch, Kesa
  - Van Osch, Marika
  - Vey, Lana
- - Webster, Crystal
  - Westcott, Raunora
  - Wilson, Leslie
  - Wylie, Jennifer

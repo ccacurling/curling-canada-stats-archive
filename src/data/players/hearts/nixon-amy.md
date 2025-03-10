@@ -179,6 +179,7 @@ vs:
  - Gates, Amanda
  - Gignac, Donna
  - Gogan, Jennifer
+ - Gordon, Kristin
  - Goss, Peg
  - Gregoire, Veronique
  - Gushulak, Diane
@@ -216,7 +217,6 @@ vs:
  - Lemay, Annie
  - Lilly, Kendra
  - MacCallum, Janice
- - MacCuish, Kristin
  - MacDougall, Leslie
  - MacInnes, Allison
  - MacPhee, Robyn
@@ -253,10 +253,10 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Rainville, Julie
- - Recksiedler, Kristen
  - Reed, Shellan
  - Richard, Marie
  - Richards, Brette
+ - Ryan, Kristen
  - Sabourin, Joelle
  - Sagle, Karen
  - Saulnier, Andrea

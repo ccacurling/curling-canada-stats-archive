@@ -1546,6 +1546,34 @@ vs:
       year: 2010
       draw: Round Robin(5)
       score: NB 10 - NS 6
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Second
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(1)
+      score: NB 6 - WC 5
  - name: Gregoire, Veronique
    totals:
     - event: Hearts
@@ -2770,34 +2798,6 @@ vs:
       year: 2022
       draw: Page 1-2(23)
       score: NO 9 - NB 8
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 1
-        losses: 0
-      player2:
-        percent: 88
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Second
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 88
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Round Robin(1)
-      score: NB 6 - WC 5
  - name: MacDonald, Kaitlin
    totals:
     - event: Hearts

@@ -123,6 +123,7 @@ vs:
  - Paul, Sarah
  - Peters, Laine
  - Reed, Shellan
+ - Rumberg, Crystal
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
@@ -135,7 +136,6 @@ vs:
  - Wall, Kirsten
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Wilson, Leslie

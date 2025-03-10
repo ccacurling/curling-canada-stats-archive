@@ -326,34 +326,6 @@ vs:
       year: 2016
       draw: Round Robin(11)
       score: QC 4 - AB 6
- - name: Recksiedler, Kristen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 1
-        losses: 0
-      player2:
-        percent: 63
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent: 84
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
-        position: Third
-        percent: 63
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(4)
-      score: BC 5 - AB 8
  - name: Reed, Shellan
    totals:
     - event: Hearts
@@ -510,6 +482,34 @@ vs:
       year: 2013
       draw: Round Robin(6)
       score: QC 2 - CA 12
+ - name: Ryan, Kristen
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(4)
+      score: BC 5 - AB 8
  - name: Sabourin, Joelle
    totals:
     - event: Hearts

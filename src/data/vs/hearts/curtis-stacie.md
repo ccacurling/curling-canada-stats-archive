@@ -818,6 +818,66 @@ vs:
       year: 2018
       draw: Round Robin(13)
       score: NL 7 - BC 10
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 60
+        wins: 0
+        losses: 3
+      player2:
+        percent: 80
+        wins: 3
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Fourth
+        percent: 45
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2013
+      draw: Round Robin(4)
+      score: NL 1 - MB 9
+    - player1:
+        team: 'NL'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 74
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Round Robin(10)
+      score: MB 8 - NL 5
+    - player1:
+        team: 'NL'
+        position: Fourth
+        percent: 65
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(7)
+      score: NL 3 - MB 8
  - name: Gregoire, Veronique
    totals:
     - event: Hearts
@@ -2266,66 +2326,6 @@ vs:
       year: 2018
       draw: Pool(18)
       score: NB 8 - NL 4
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 60
-        wins: 0
-        losses: 3
-      player2:
-        percent: 80
-        wins: 3
-        losses: 0
-   games:
-    - player1:
-        team: 'NL'
-        position: Fourth
-        percent: 45
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Second
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2013
-      draw: Round Robin(4)
-      score: NL 1 - MB 9
-    - player1:
-        team: 'NL'
-        position: Fourth
-        percent: 67
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 74
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Round Robin(10)
-      score: MB 8 - NL 5
-    - player1:
-        team: 'NL'
-        position: Fourth
-        percent: 65
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2024
-      draw: Round Robin(7)
-      score: NL 3 - MB 8
  - name: MacDougall, Leslie
    totals:
     - event: Hearts
@@ -3914,34 +3914,6 @@ vs:
       year: 2016
       draw: Round Robin(6)
       score: NL 10 - QC 6
- - name: Recksiedler, Kristen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 82
-        wins: 1
-        losses: 0
-      player2:
-        percent: 73
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NL'
-        position: Fourth
-        percent: 82
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
-        position: Third
-        percent: 73
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(11)
-      score: BC 7 - NL 10
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -4082,6 +4054,34 @@ vs:
       year: 2013
       draw: Round Robin(15)
       score: NL 8 - QC 7
+ - name: Ryan, Kristen
+   totals:
+    - event: Hearts
+      player1:
+        percent: 82
+        wins: 1
+        losses: 0
+      player2:
+        percent: 73
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Fourth
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(11)
+      score: BC 7 - NL 10
  - name: Sagle, Karen
    totals:
     - event: Hearts

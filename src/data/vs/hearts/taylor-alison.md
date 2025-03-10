@@ -90,12 +90,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 69
+        percent: 77
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 73
-        wins: 1
+        percent: 78
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -114,4 +114,20 @@ vs:
       year: 2022
       draw: Round Robin(11)
       score: WC 14 - NU 1
+    - player1:
+        team: 'NU'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(15)
+      score: NU 3 - CA 9
 ---

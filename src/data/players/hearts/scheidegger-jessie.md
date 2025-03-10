@@ -56,6 +56,7 @@ vs:
  - Gagne, Emilia
  - Gates, Amanda
  - Gibson, Amy
+ - Gordon, Kristin
  - Harvey, Marie-Pier
  - Hughes, Meaghan
  - Hutchings, Denise
@@ -63,7 +64,6 @@ vs:
  - Jones, Jennifer
  - Kreviazuk, Cheryl
  - LeDrew, Stephanie
- - MacCuish, Kristin
  - Mackey, Robyn
  - MacPhee, Robyn
  - McEwen, Dawn
@@ -71,6 +71,7 @@ vs:
  - Officer, Jill
  - Perron, Melina
  - Porter, Erin
+ - Rumberg, Crystal
  - Sagle, Karen
  - Shackleton, Amie
  - Shea, Michelle
@@ -78,7 +79,6 @@ vs:
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
- - Webster, Crystal
  - West, Christianne
  - Westcott, Raunora
  - Wilson, Leslie

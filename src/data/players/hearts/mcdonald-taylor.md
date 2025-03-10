@@ -4,18 +4,18 @@ name: Taylor McDonald
 name-sort: McDonald, Taylor
 totals:
  - event: Hearts
-   games: 38
-   wins: 20
-   losses: 18
-   inturn-total: 366
+   games: 46
+   wins: 24
+   losses: 22
+   inturn-total: 429
    inturn-percent: 79
-   outturn-total: 332
-   outturn-percent: 80
-   draw-total: 358
-   draw-percent: 79
-   takeout-total: 340
+   outturn-total: 415
+   outturn-percent: 79
+   draw-total: 403
+   draw-percent: 78
+   takeout-total: 441
    takeout-percent: 80
-   shots-total: 698
+   shots-total: 844
    shots-percent: 79
 years:
  - year: 2019
@@ -113,6 +113,24 @@ years:
    team: "MB"
    position: Alternate
    alternate: true
+ - year: 2025
+   event: Hearts
+   team: "MB"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 63
+   inturn-percent: 85
+   outturn-total: 83
+   outturn-percent: 78
+   draw-total: 45
+   draw-percent: 76
+   takeout-total: 101
+   takeout-percent: 83
+   shots-total: 146
+   shots-percent: 81
 vs:
  - Ackland, Abby
  - Anderson, Sherry
@@ -145,6 +163,8 @@ vs:
  - Courtney, Joanne
  - Curtis, Erica
  - Curtis, Stacie
+ - Daly, Calissa
+ - deGroot, Cassandra
  - Doerksen, Katherine
  - Duncan, Hollie
  - Duncan, Jenna
@@ -159,37 +179,47 @@ vs:
  - Foster, Kerry
  - Fyfe, Liz
  - Galusha, Kerry
+ - Galusha, Sydney
  - Gates, Amanda
  - Gates, Jennifer
+ - Godsland, Brooke
+ - Gordon, Kristin
  - Griffin, Alison
  - Guy, Sara
  - Harris, Briane
+ - Hebert, Rebecca
+ - Helston, Raelyn
  - Homan, Rachel
+ - Horte, Bailey
  - Hunkin, Jessie
  - Hynes, Julie
+ - Inglis, Danielle
  - Jones, Jennifer
  - Karwacki, Krysten
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Knapp, Breanne
+ - Koehler, Megan
  - Koltun, Sarah
+ - Lamswood, Sarah
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lenentine, Lauren
  - Lilly, Kendra
  - Loder, Jenna
  - Logan, Emma
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - Martin, Nancy
  - McCarville, Krista
  - Miskew, Emma
  - Njegovan, Selena
  - Oliver, Sara
+ - Paterson, Kate
  - Peterman, Jocelyn
  - Peterson, Beth
  - Pinksen, Sadie
+ - Porter, Erin
  - Potts, Sarah
+ - Powers, Marlee
  - Quillian, Sylvie
  - Riley, Emily
  - Rizzo, Jo-Ann
@@ -198,10 +228,12 @@ vs:
  - Schraeder, Jeanna
  - Silvernagle, Robyn
  - Simons, Renee
+ - Sinclair, Jamie
  - Sippala, Ashley
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Strybosch, Rachelle
  - Sweeting, Val
  - Thevenot, Kara

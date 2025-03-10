@@ -55,6 +55,7 @@ vs:
  - Fyfe, Liz
  - Gagne, Emilia
  - Gates, Amanda
+ - Gordon, Kristin
  - Harvey, Marie-Pier
  - Hughes, Meaghan
  - Hutchings, Denise
@@ -62,7 +63,6 @@ vs:
  - Jones, Jennifer
  - Kreviazuk, Cheryl
  - LeDrew, Stephanie
- - MacCuish, Kristin
  - MacPhee, Robyn
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -71,12 +71,12 @@ vs:
  - Officer, Jill
  - Perron, Melina
  - Porter, Erin
+ - Rumberg, Crystal
  - Sagle, Karen
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Shackleton, Amie
  - Shea, Michelle
- - Webster, Crystal
  - West, Christianne
  - Westcott, Raunora
  - Wilson, Leslie

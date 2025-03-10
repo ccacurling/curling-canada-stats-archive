@@ -209,6 +209,7 @@ vs:
  - Gannon, Melissa
  - Gates, Jennifer
  - Godsland, Brooke
+ - Gordon, Kristin
  - Griffin, Alison
  - Hamilton, Beth
  - Hamon, Callan
@@ -229,7 +230,6 @@ vs:
  - Joyce, Blisse
  - Kasner, Marliese
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Kleibrink, Shannon
  - Klymchuk, Ashley
  - Knapp, Breanne
@@ -246,7 +246,6 @@ vs:
  - Lilly, Kendra
  - Lister, Kendra
  - Loder, Jenna
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacPhail, Brigitte
@@ -282,7 +281,6 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Rainville, Julie
- - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
@@ -291,6 +289,7 @@ vs:
  - Routledge, Alanna
  - Routledge, Jill
  - Rusnell, Jen
+ - Ryan, Kristen
  - Sagle, Karen
  - Sanderson, Jessie
  - Sandwith, Carley
@@ -308,6 +307,7 @@ vs:
  - Smith, Heather
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val

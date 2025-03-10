@@ -4,18 +4,18 @@ name: Kaitlyn Lawes
 name-sort: Lawes, Kaitlyn
 totals:
  - event: Hearts
-   games: 123
-   wins: 86
-   losses: 37
-   inturn-total: 1144
+   games: 131
+   wins: 90
+   losses: 41
+   inturn-total: 1214
    inturn-percent: 82
-   outturn-total: 1177
+   outturn-total: 1251
    outturn-percent: 81
-   draw-total: 903
-   draw-percent: 80
-   takeout-total: 1418
-   takeout-percent: 83
-   shots-total: 2321
+   draw-total: 963
+   draw-percent: 79
+   takeout-total: 1502
+   takeout-percent: 82
+   shots-total: 2465
    shots-percent: 81
 years:
  - year: 2011
@@ -198,6 +198,24 @@ years:
    takeout-percent: 80
    shots-total: 172
    shots-percent: 79
+ - year: 2025
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 70
+   inturn-percent: 80
+   outturn-total: 74
+   outturn-percent: 75
+   draw-total: 60
+   draw-percent: 75
+   takeout-total: 84
+   takeout-percent: 79
+   shots-total: 144
+   shots-percent: 78
 vs:
  - Ackerman, Skylar
  - Adams, Melissa
@@ -229,6 +247,8 @@ vs:
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Brunton, Kira
+ - Burgess, Karlee
  - Burt, Camille
  - Cameron, Kate
  - Cameron, Nancy
@@ -245,9 +265,12 @@ vs:
  - Cormier, Sharon
  - Courtney, Joanne
  - Crandall, Jaclyn
+ - Cullen, Brianna
  - Cunningham, Jennifer
  - Curtis, Erica
  - Curtis, Stacie
+ - Daly, Calissa
+ - deGroot, Cassandra
  - deJager, Blaine
  - deSolla, Jodie
  - DiCarlo, Jane
@@ -260,6 +283,7 @@ vs:
  - Dykstra, Michelle
  - Eddy, Lori
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Enge, Jenna
  - Englot, Michelle
  - Everist, Karlee
@@ -269,12 +293,16 @@ vs:
  - Fisher, Sam
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Fraser, Sherry
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
+ - Galusha, Sydney
  - Gates, Amanda
  - Gates, Jennifer
+ - Godsland, Brooke
+ - Gordon, Kristin
  - Grandy, Clancy
  - Gregoire, Veronique
  - Griffin, Alison
@@ -289,10 +317,12 @@ vs:
  - Hastings, Julie
  - Haughian, Jessie
  - Hawes, Dezaray
+ - Helston, Raelyn
  - Hill, Sarah
  - Holland, Amber
  - Holtby, Taryn
  - Homan, Rachel
+ - Horte, Bailey
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
@@ -309,7 +339,6 @@ vs:
  - Kasner, Marliese
  - Kelly, Andrea
  - Kelly, Kim
- - Kitz, Chaelynn
  - Kleibrink, Shannon
  - Klymchuk, Ashley
  - Knapp, Breanne
@@ -318,6 +347,7 @@ vs:
  - Koltun, Sarah
  - Korab, Stephanie
  - Kreviazuk, Alison
+ - Lamswood, Sarah
  - Larouche, Marie-France
  - Lavery, Tracey
  - Lawton, Stefanie
@@ -327,7 +357,6 @@ vs:
  - Loder, Jenna
  - Logan, Emma
  - Loken, Sarah
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
@@ -363,6 +392,7 @@ vs:
  - Overton-Clapham, Cathy
  - Papley, Paige
  - Parsons, Danielle
+ - Paterson, Kate
  - Paul, Sarah
  - Peterman, Jocelyn
  - Peters, Laine
@@ -377,13 +407,13 @@ vs:
  - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
- - Recksiedler, Kristen
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Ross, Allison
  - Routledge, Alanna
  - Rusnell, Jen
+ - Ryan, Kristen
  - Sagle, Karen
  - Sandwith, Carley
  - Schafer, Kelly
@@ -393,6 +423,7 @@ vs:
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
+ - Scoffin, Bayly
  - Scott, Kelly
  - Sharpe, Kelli
  - Shaw, Ladene
@@ -401,6 +432,7 @@ vs:
  - Silvernagle, Robyn
  - Sinclair, Jamie
  - Sippala, Ashley
+ - Skauge, Ella
  - Skinner, Kaylin
  - Skrlik, Ashton
  - Skrlik, Kayla
@@ -413,6 +445,7 @@ vs:
  - Sonnenberg, Renee
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Stremick, Taylor
  - Strong, Heather
  - Strong, Helen

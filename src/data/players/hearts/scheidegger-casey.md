@@ -115,6 +115,7 @@ vs:
  - Gates, Amanda
  - Gates, Jennifer
  - Gibson, Amy
+ - Gordon, Kristin
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Harvey, Marie-Pier
@@ -132,7 +133,6 @@ vs:
  - LeDrew, Stephanie
  - Lenentine, Lauren
  - Lilly, Kendra
- - MacCuish, Kristin
  - Mackey, Robyn
  - MacPhee, Robyn
  - McCarville, Krista
@@ -148,6 +148,7 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Rizzo, Jo-Ann
+ - Rumberg, Crystal
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
@@ -169,7 +170,6 @@ vs:
  - Walter, Meghan
  - Wark, Sarah
  - Weagle, Lisa
- - Webster, Crystal
  - West, Christianne
  - Westcott, Raunora
  - Wilkes, Sarah

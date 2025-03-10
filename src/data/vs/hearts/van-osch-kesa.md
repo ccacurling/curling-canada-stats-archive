@@ -30,34 +30,6 @@ vs:
       year: 2014
       draw: Round Robin(12)
       score: CA 7 - BC 3
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 0
-        losses: 1
-      player2:
-        percent: 84
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'BC'
-        position: Fourth
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Third
-        percent: 84
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Pool(20)
-      score: NO 7 - BC 5
  - name: West, Christianne
    totals:
     - event: Hearts

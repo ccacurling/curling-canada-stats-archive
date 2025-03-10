@@ -3062,6 +3062,82 @@ vs:
       year: 2004
       draw: Round Robin(17)
       score: NB 7 - PE 4
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 63
+        wins: 0
+        losses: 4
+      player2:
+        percent: 70
+        wins: 4
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Fourth
+        percent: 57
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Round Robin(16)
+      score: PE 7 - MB 8
+    - player1:
+        team: 'PE'
+        position: Fourth
+        percent: 60
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(13)
+      score: WC 10 - PE 6
+    - player1:
+        team: 'PE'
+        position: Fourth
+        percent: 59
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 60
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(5)
+      score: PE 1 - WC 9
+    - player1:
+        team: 'PE'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(18)
+      score: PE 6 - WC 10
  - name: Goss, Peg
    totals:
     - event: Hearts
@@ -5186,34 +5262,6 @@ vs:
       year: 2006
       draw: Round Robin(10)
       score: AB 7 - PE 0
- - name: Kitz, Chaelynn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 53
-        wins: 1
-        losses: 0
-      player2:
-        percent: 84
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent: 53
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 84
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(2)
-      score: PE 7 - SK 6
  - name: Kleibrink, Shannon
    totals:
     - event: Hearts
@@ -6282,82 +6330,6 @@ vs:
       year: 2023
       draw: Round Robin(1)
       score: BC 10 - PE 6
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 63
-        wins: 0
-        losses: 4
-      player2:
-        percent: 70
-        wins: 4
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent: 57
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Round Robin(16)
-      score: PE 7 - MB 8
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent: 60
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(13)
-      score: WC 10 - PE 6
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent: 59
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 60
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(5)
-      score: PE 1 - WC 9
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(18)
-      score: PE 6 - WC 10
  - name: MacDiarmid, Kristen
    totals:
     - event: Hearts
@@ -9426,34 +9398,6 @@ vs:
       year: 2023
       draw: Round Robin(11)
       score: AB 10 - PE 7
- - name: Recksiedler, Kristen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 1
-        losses: 0
-      player2:
-        percent: 76
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
-        position: Third
-        percent: 76
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(13)
-      score: BC 4 - PE 6
  - name: Reed, Shellan
    totals:
     - event: Hearts
@@ -9854,6 +9798,34 @@ vs:
       year: 2019
       draw: Pool(16)
       score: BC 9 - PE 8
+ - name: Ryan, Kristen
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 76
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(13)
+      score: BC 4 - PE 6
  - name: Sabourin, Joelle
    totals:
     - event: Hearts
@@ -10970,6 +10942,34 @@ vs:
       year: 2004
       draw: Round Robin(16)
       score: PE 10 - TR 4
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 53
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Fourth
+        percent: 53
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(2)
+      score: PE 7 - SK 6
  - name: Stewart, Sheri
    totals:
     - event: Hearts

@@ -4,18 +4,18 @@ name: Ashley Sippala
 name-sort: Sippala, Ashley
 totals:
  - event: Hearts
-   games: 82
-   wins: 52
-   losses: 30
-   inturn-total: 799
+   games: 88
+   wins: 55
+   losses: 33
+   inturn-total: 863
    inturn-percent: 81
-   outturn-total: 792
+   outturn-total: 833
    outturn-percent: 80
-   draw-total: 733
-   draw-percent: 79
-   takeout-total: 858
+   draw-total: 805
+   draw-percent: 80
+   takeout-total: 891
    takeout-percent: 81
-   shots-total: 1591
+   shots-total: 1696
    shots-percent: 80
 years:
  - year: 2009
@@ -183,9 +183,62 @@ years:
    takeout-percent: 81
    shots-total: 100
    shots-percent: 83
+ - year: 2025
+   event: Hearts
+   team: "NO"
+   position: Lead
+   alternate: false
+   games: 3
+   wins: 1
+   losses: 2
+   inturn-total: 38
+   inturn-percent: 89
+   outturn-total: 16
+   outturn-percent: 83
+   draw-total: 47
+   draw-percent: 88
+   takeout-total: 7
+   takeout-percent: 86
+   shots-total: 54
+   shots-percent: 88
+ - year: 2025
+   event: Hearts
+   team: "NO"
+   position: Second
+   alternate: false
+   games: 3
+   wins: 2
+   losses: 1
+   inturn-total: 26
+   inturn-percent: 77
+   outturn-total: 25
+   outturn-percent: 78
+   draw-total: 25
+   draw-percent: 79
+   takeout-total: 26
+   takeout-percent: 76
+   shots-total: 51
+   shots-percent: 77
+ - year: 2025
+   event: Hearts
+   team: Totals
+   games: 6
+   wins: 3
+   losses: 3
+   inturn-total: 64
+   inturn-percent: 84
+   outturn-total: 41
+   outturn-percent: 80
+   draw-total: 72
+   draw-percent: 85
+   takeout-total: 33
+   takeout-percent: 78
+   shots-total: 105
+   shots-percent: 83
 vs:
  - Ackerman, Skylar
  - Ackland, Abby
+ - Adams, Melissa
  - Affleck, Tricia
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
@@ -218,12 +271,14 @@ vs:
  - Cormier, Sharon
  - Cote, Marie-Pier
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Crouse, Jennifer
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - deJager, Blaine
  - Derry, Danielle
+ - DiCarlo, Jane
  - Doig, Deanna
  - Duncan, Chelsea
  - Eddy, Lori
@@ -236,6 +291,7 @@ vs:
  - Everist, Karlee
  - Eyamie, Lisa
  - Ferguson, Dana
+ - Fisher, Sam
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy
@@ -246,6 +302,7 @@ vs:
  - Galusha, Kerry
  - Gamble, Christie
  - Gilman, Sheena
+ - Gordon, Kristin
  - Griffin, Alison
  - Hamilton, Beth
  - Hamon, Callan
@@ -263,6 +320,7 @@ vs:
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hynes, Julie
+ - Jenkins, Whitney
  - Jewer, Michelle
  - Jones, Jennifer
  - Joyce, Blisse
@@ -281,14 +339,17 @@ vs:
  - Lemay, Annie
  - Lemon, Colette
  - Lenentine, Lauren
- - MacCuish, Kristin
+ - Lister, Kendra
+ - Lott, Kadriana
  - MacDonald, Kaitlin
  - MacPhail, Brigitte
  - MacPhee, Robyn
  - Makichuk, Lindsay
  - Mallett, Marla
  - Mann, Lauren
+ - Martin, Nancy
  - Mattatall, Mary
+ - Mayne, Veronica
  - McConnery, Nancy
  - McDonald, Taylor
  - McEwen, Dawn
@@ -318,13 +379,14 @@ vs:
  - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
- - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
  - Rizzo, Jo-Ann
  - Rogers, Rhonda
  - Routledge, Alanna
  - Routledge, Jill
+ - Russell, Kayla
+ - Ryan, Kristen
  - Sagle, Karen
  - Saulnier, Andrea
  - Scheidegger, Casey
@@ -341,7 +403,11 @@ vs:
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Skinner, Kaylin
+ - Skrlik, Ashton
+ - Skrlik, Kayla
+ - Smith, Sabrina
  - Sobey, Lianne
+ - Stewart, Chaelynn
  - Stremick, Taylor
  - Sturmay, Selena
  - Sweeting, Val

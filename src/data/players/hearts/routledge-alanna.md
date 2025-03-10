@@ -127,6 +127,7 @@ vs:
  - Forward, Katie
  - Foster, Kerry
  - Gates, Jennifer
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
  - Harris, Briane
@@ -138,7 +139,6 @@ vs:
  - Lawton, Stefanie
  - Lilly, Kendra
  - Loken, Sarah
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacMillan, Kayla
  - MacPhail, Brigitte
@@ -147,6 +147,7 @@ vs:
  - Peterman, Jocelyn
  - Pinksen, Sadie
  - Ramsay, Geri-Lynn
+ - Rumberg, Crystal
  - Schafer, Kelly
  - Scotland, Nadine
  - Shea, Michelle
@@ -161,6 +162,5 @@ vs:
  - Tuor, Kimberly
  - Walker, Laura
  - Wallingham, Patty
- - Webster, Crystal
  - Wilkes, Sarah
 ---

@@ -49,11 +49,11 @@ vs:
  - Ferguson, Dana
  - Fleury, Tracy
  - Gates, Jennifer
+ - Gordon, Kristin
  - Homan, Rachel
  - Kreviazuk, Cheryl
  - Lavoie, Gabrielle
  - Lilly, Kendra
- - MacCuish, Kristin
  - McCarville, Krista
  - McDonald, Taylor
  - Miskew, Emma

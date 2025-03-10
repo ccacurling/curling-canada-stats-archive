@@ -173,6 +173,7 @@ vs:
  - Galusha, Kerry
  - Gamble, Christie
  - Gates, Amanda
+ - Gordon, Kristin
  - Hamilton, Beth
  - Hanna, Jenn
  - Hanna, Stephanie
@@ -188,7 +189,6 @@ vs:
  - Lawes, Kaitlyn
  - Lemay, Annie
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacPhail, Brigitte
@@ -218,9 +218,9 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Rainville, Julie
- - Recksiedler, Kristen
  - Richard, Marie
  - Robison, Michala
+ - Ryan, Kristen
  - Sagle, Karen
  - Schraeder, Jeanna
  - Scott, Kelly

@@ -402,34 +402,6 @@ vs:
       year: 2022
       draw: Semi-Final(24)
       score: NB 4 - CA 8
- - name: Kitz, Chaelynn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 91
-        wins: 1
-        losses: 0
-      player2:
-        percent: 74
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'CA'
-        position: Lead
-        percent: 91
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 74
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Pool(20)
-      score: SK 6 - CA 10
  - name: Klymchuk, Ashley
    totals:
     - event: Hearts
@@ -822,66 +794,6 @@ vs:
       year: 2023
       draw: Round Robin(3)
       score: CA 9 - BC 4
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 82
-        wins: 3
-        losses: 0
-      player2:
-        percent: 82
-        wins: 0
-        losses: 3
-   games:
-    - player1:
-        team: 'CA'
-        position: Lead
-        percent: 70
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 77
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Pool(21)
-      score: CA 9 - WC 3
-    - player1:
-        team: 'CA'
-        position: Lead
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 85
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Page 3-4(22)
-      score: WC 6 - CA 11
-    - player1:
-        team: 'CA'
-        position: Lead
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2023
-      draw: Round Robin(5)
-      score: WC 9 - CA 10
  - name: MacDonald, Kaitlin
    totals:
     - event: Hearts
@@ -2442,6 +2354,34 @@ vs:
       year: 2023
       draw: Round Robin(1)
       score: CA 11 - QC 8
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Pool(20)
+      score: SK 6 - CA 10
  - name: Strybosch, Rachelle
    totals:
     - event: Hearts

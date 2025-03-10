@@ -4,19 +4,19 @@ name: Kira Brunton
 name-sort: Brunton, Kira
 totals:
  - event: Hearts
-   games: 14
-   wins: 6
-   losses: 8
-   inturn-total: 96
-   inturn-percent: 83
-   outturn-total: 110
-   outturn-percent: 84
-   draw-total: 109
-   draw-percent: 84
-   takeout-total: 97
-   takeout-percent: 82
-   shots-total: 206
-   shots-percent: 83
+   games: 23
+   wins: 12
+   losses: 11
+   inturn-total: 203
+   inturn-percent: 81
+   outturn-total: 183
+   outturn-percent: 81
+   draw-total: 188
+   draw-percent: 81
+   takeout-total: 198
+   takeout-percent: 81
+   shots-total: 386
+   shots-percent: 81
 years:
  - year: 2021
    event: Hearts
@@ -102,10 +102,31 @@ years:
    takeout-percent: 82
    shots-total: 144
    shots-percent: 83
+ - year: 2025
+   event: Hearts
+   team: "ON"
+   position: Third
+   alternate: false
+   games: 9
+   wins: 6
+   losses: 3
+   inturn-total: 107
+   inturn-percent: 80
+   outturn-total: 73
+   outturn-percent: 77
+   draw-total: 79
+   draw-percent: 78
+   takeout-total: 101
+   takeout-percent: 80
+   shots-total: 180
+   shots-percent: 79
 vs:
  - Adams, Melissa
+ - Barbour, Shona
+ - Baxter, Jennifer
  - Birchard, Shannon
  - Birnie, Hailey
+ - Black, Christina
  - Brothers, Jill
  - Burgess, Karlee
  - Burt, Camille
@@ -113,6 +134,7 @@ vs:
  - Carmody, Erin
  - Christianson, Marie
  - Crandall, Jaclyn
+ - Cullen, Brianna
  - Curtis, Erica
  - Curtis, Stacie
  - Doerksen, Katherine
@@ -120,19 +142,27 @@ vs:
  - Duncan, Chelsea
  - Einarson, Kerri
  - Elias, Mackenzie
+ - Everist, Karlee
  - Flemming, Margot
  - Fleury, Tracy
  - Foster, Kerry
  - Galusha, Kerry
+ - Galusha, Sydney
+ - Godsland, Brooke
+ - Gordon, Kristin
  - Grandy, Clancy
  - Harris, Briane
  - Haughian, Jessie
  - Helston, Raelyn
  - Homan, Rachel
+ - Horte, Bailey
  - Hynes, Julie
  - Jones, Jennifer
  - Karwacki, Krysten
+ - Koehler, Megan
  - Koltun, Sarah
+ - Lamswood, Sarah
+ - Lawes, Kaitlyn
  - Lenentine, Lauren
  - Lister, Kendra
  - Loder, Jenna
@@ -140,17 +170,27 @@ vs:
  - MacMillan, Kayla
  - McDonald, Taylor
  - Miskew, Emma
+ - Njegovan, Selena
+ - Peterman, Jocelyn
  - Peterson, Beth
+ - Porter, Erin
+ - Ramsay, Geri-Lynn
+ - Riley, Emily
  - Rizzo, Jo-Ann
  - Rocque, Kelsey
  - Scheidegger, Casey
  - Scoffin, Bayly
+ - Sinclair, Jamie
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smith, Heather
+ - St-Georges, Laurie
  - Sweeting, Val
  - Tran, Brittany
  - Tuor, Kimberly
  - Walter, Meghan
  - Ward, Molli
+ - Weagle, Lisa
  - Wilkes, Sarah
  - Zacharias, Emily
  - Zacharias, Mackenzie

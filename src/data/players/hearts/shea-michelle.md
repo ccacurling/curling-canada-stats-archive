@@ -226,6 +226,7 @@ vs:
  - Gates, Amanda
  - Gates, Jennifer
  - Gibson, Amy
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
  - Guzzwell, Stephanie
@@ -246,7 +247,6 @@ vs:
  - Karwacki, Krysten
  - Kasner, Marliese
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Klymchuk, Ashley
  - Knapp, Breanne
  - Knezevic, Patti
@@ -261,7 +261,6 @@ vs:
  - Lister, Kendra
  - Logan, Emma
  - Loken, Sarah
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - Mackey, Robyn
  - MacMillan, Kayla
@@ -322,6 +321,7 @@ vs:
  - Snyder, Jane
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Strong, Heather
  - Strong, Helen
  - Sweeting, Val

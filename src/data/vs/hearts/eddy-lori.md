@@ -226,6 +226,34 @@ vs:
       year: 1997
       draw: Round Robin(8)
       score: CA 5 - ON 8
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 64
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Fourth
+        percent: 64
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(2)
+      score: NU 3 - WC 6
  - name: Gudereit, Marcia
    totals:
     - event: Hearts
@@ -918,34 +946,6 @@ vs:
       year: 1997
       draw: Round Robin(6)
       score: ON 8 - AB 5
- - name: Kitz, Chaelynn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 63
-        wins: 0
-        losses: 1
-      player2:
-        percent: 67
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NU'
-        position: Fourth
-        percent: 63
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 67
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(4)
-      score: NU 3 - SK 9
  - name: Knapp, Breanne
    totals:
     - event: Hearts
@@ -1142,34 +1142,6 @@ vs:
       year: 1997
       draw: Round Robin(13)
       score: PE 5 - ON 9
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 64
-        wins: 0
-        losses: 1
-      player2:
-        percent: 75
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NU'
-        position: Fourth
-        percent: 64
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(2)
-      score: NU 3 - WC 6
  - name: MacDonald, Rebecca Jean
    totals:
     - event: Hearts
@@ -2078,6 +2050,34 @@ vs:
       year: 2021
       draw: Round Robin(11)
       score: QC 7 - NU 5
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 63
+        wins: 0
+        losses: 1
+      player2:
+        percent: 67
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Fourth
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 67
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(4)
+      score: NU 3 - SK 9
  - name: Stewart, Sheri
    totals:
     - event: Hearts

@@ -4,19 +4,19 @@ name: Tracy Fleury
 name-sort: Fleury, Tracy
 totals:
  - event: Hearts
-   games: 65
-   wins: 40
+   games: 76
+   wins: 51
    losses: 25
-   inturn-total: 622
-   inturn-percent: 78
-   outturn-total: 598
+   inturn-total: 728
+   inturn-percent: 80
+   outturn-total: 698
    outturn-percent: 82
-   draw-total: 511
-   draw-percent: 77
-   takeout-total: 709
-   takeout-percent: 82
-   shots-total: 1220
-   shots-percent: 80
+   draw-total: 556
+   draw-percent: 78
+   takeout-total: 870
+   takeout-percent: 83
+   shots-total: 1426
+   shots-percent: 81
 years:
  - year: 2012
    event: Hearts
@@ -144,6 +144,24 @@ years:
    takeout-percent: 89
    shots-total: 210
    shots-percent: 89
+ - year: 2025
+   event: Hearts
+   team: "CA"
+   position: Third
+   alternate: false
+   games: 11
+   wins: 11
+   losses: 0
+   inturn-total: 106
+   inturn-percent: 89
+   outturn-total: 100
+   outturn-percent: 86
+   draw-total: 45
+   draw-percent: 89
+   takeout-total: 161
+   takeout-percent: 87
+   shots-total: 206
+   shots-percent: 88
 vs:
  - Ackland, Abby
  - Adams, Melissa
@@ -168,6 +186,7 @@ vs:
  - Bradley, Shelley
  - Brine, Jenn
  - Brothers, Jill
+ - Brown, Corryn
  - Brown, Rachel
  - Brunton, Kira
  - Burgess, Karlee
@@ -192,6 +211,8 @@ vs:
  - Daigle, Julie
  - Daly, Calissa
  - deGroot, Cassandra
+ - DiCarlo, Jane
+ - Doig, Deanna
  - Dolan, Kim
  - Dolan, Sinead
  - Dubue, Lindsay
@@ -206,6 +227,7 @@ vs:
  - Fesser, Kourtney
  - Fesser, Krista
  - Filteau, Anne-Marie
+ - Fisher, Sam
  - Flemming, Margot
  - Forward, Katie
  - Foster, Kerry
@@ -213,17 +235,21 @@ vs:
  - Galusha, Kerry
  - Gates, Jennifer
  - Gibson, Amy
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
+ - Gustafson, Leigh
  - Harris, Briane
  - Hastings, Julie
  - Haughian, Jessie
+ - Hawes, Dezaray
  - Helston, Raelyn
  - Holland, Amber
  - Homan, Rachel
  - Hynes, Julie
  - Inglis, Danielle
  - Iskiw, Beth
+ - Jenkins, Whitney
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
@@ -244,12 +270,14 @@ vs:
  - Lilly, Kendra
  - Lister, Kendra
  - Loken, Sarah
- - MacCuish, Kristin
+ - Lott, Kadriana
  - MacDonald, Rebecca Jean
  - MacMillan, Kayla
  - Mair, Jessica
  - Mann, Lauren
+ - Martin, Nancy
  - Materi, Roberta
+ - Mayne, Veronica
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
@@ -269,36 +297,47 @@ vs:
  - Oliver, Sara
  - Olson-Johns, Lori
  - O'Rourke, Brittany
+ - Papley, Paige
  - Parsons, Danielle
  - Peters, Laine
  - Pewarchuk, Dailene
  - Pilote, Kristen
+ - Pincott, Erin
  - Pinksen, Sadie
  - Potts, Sarah
  - Price, Kara
  - Quillian, Sylvie
+ - Ramsay, Geri-Lynn
  - Richard, Marie
  - Rizzo, Jo-Ann
  - Rocque, Kelsey
  - Rusnell, Jen
+ - Russell, Kayla
  - Sagle, Karen
  - Sandwith, Carley
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
+ - Schmiemann, Danielle
  - Schneider, Kim
  - Scoffin, Bayly
  - Scott, Kelly
  - Shea, Michelle
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Slywka, Sarah
  - Smallwood, Jody
  - Smith, Heather
+ - Smith, Sabrina
  - Smith, Stacey
  - Snyder, Jane
+ - Stewart, Chaelynn
  - Strong, Heather
  - Strong, Laura
+ - Sturmay, Selena
  - Sweeting, Val
+ - Taylor, Alison
  - Trombley, Christy
  - Tuor, Kimberly
  - Udle, Teri
@@ -309,6 +348,7 @@ vs:
  - Walter, Meghan
  - Ward, Molli
  - Wark, Sarah
+ - Weagle, Julia
  - Weagle, Lisa
  - Westcott, Raunora
  - Whitaker, Carol

@@ -93,6 +93,7 @@ vs:
  - Foster, Kerry
  - Galusha, Kerry
  - Godsland, Brooke
+ - Gordon, Kristin
  - Hamilton, Beth
  - Harris, Briane
  - Helston, Raelyn
@@ -106,7 +107,6 @@ vs:
  - Lawes, Kaitlyn
  - Lenentine, Lauren
  - Lister, Kendra
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacPhail, Brigitte
  - Mercer, Adrienne

@@ -138,6 +138,7 @@ vs:
  - Forward, Katie
  - Fyfe, Liz
  - Gates, Jennifer
+ - Gordon, Kristin
  - Hamilton, Beth
  - Harris, Briane
  - Hawes, Dezaray
@@ -147,7 +148,6 @@ vs:
  - Hunkin, Jessie
  - Jones, Jennifer
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Knapp, Breanne
  - Kreviazuk, Cheryl
  - Lavoie, Gabrielle
@@ -155,7 +155,6 @@ vs:
  - Lawton, Stefanie
  - Lilly, Kendra
  - Lister, Kendra
- - MacCuish, Kristin
  - Martin, Nancy
  - McCarville, Krista
  - McDonald, Taylor
@@ -180,6 +179,7 @@ vs:
  - Sippala, Ashley
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Sweeting, Val
  - Thevenot, Kara
  - Verreault, Noemie

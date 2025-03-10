@@ -135,6 +135,7 @@ vs:
  - George, Tara
  - Gibson, Amy
  - Gilman, Sheena
+ - Gordon, Kristin
  - Gregoire, Veronique
  - Guzzwell, Stephanie
  - Hardy, Shelley
@@ -159,7 +160,6 @@ vs:
  - Lemay, Annie
  - Lemon, Colette
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacDougall, Leslie
  - Mackey, Robyn
  - MacLean, Kari
@@ -201,6 +201,7 @@ vs:
  - Richards, Brette
  - Rogers, Leslie
  - Rogers, Rhonda
+ - Rumberg, Crystal
  - Sagle, Karen
  - Scheidegger, Casey
  - Scheidegger, Jessie
@@ -224,7 +225,6 @@ vs:
  - Van Osch, Marika
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - West, Christianne
  - Wilkes, Sarah
  - Wylie, Jennifer

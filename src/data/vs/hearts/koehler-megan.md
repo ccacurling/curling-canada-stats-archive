@@ -86,6 +86,34 @@ vs:
       year: 2013
       draw: Round Robin(4)
       score: ON 9 - TR 2
+ - name: Lamswood, Sarah
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Third
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 83
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(16)
+      score: NL 7 - NT 8
  - name: Larouche, Marie-France
    totals:
     - event: Hearts
@@ -118,12 +146,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 78
+        percent: 83
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 84
-        wins: 1
+        percent: 85
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -142,6 +170,22 @@ vs:
       year: 2013
       draw: Round Robin(7)
       score: TR 1 - MB 9
+    - player1:
+        team: 'NT'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(14)
+      score: NT 4 - MB 8
  - name: LeDrew, Stephanie
    totals:
     - event: Hearts
@@ -214,6 +258,34 @@ vs:
       year: 2010
       draw: Round Robin(1)
       score: TR 2 - NL 12
+ - name: Lenentine, Lauren
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 91
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(10)
+      score: NT 9 - MB 6
  - name: Lilly, Kendra
    totals:
     - event: Hearts
@@ -270,34 +342,6 @@ vs:
       year: 2018
       draw: Round Robin(6)
       score: NB 8 - NT 7
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 77
-        wins: 0
-        losses: 1
-      player2:
-        percent: 98
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NT'
-        position: Second
-        percent: 77
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 98
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(12)
-      score: NT 3 - WC 9
  - name: MacDonald, Rebecca Jean
    totals:
     - event: Hearts
@@ -666,6 +710,34 @@ vs:
       year: 2010
       draw: Round Robin(2)
       score: NS 2 - TR 8
+ - name: McDonald, Taylor
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 74
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 74
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(2)
+      score: MB 8 - NT 4
  - name: McEwen, Dawn
    totals:
     - event: Hearts
@@ -946,12 +1018,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 77
+        percent: 82
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 91
-        wins: 1
+        percent: 94
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -970,6 +1042,22 @@ vs:
       year: 2018
       draw: Round Robin(12)
       score: NT 3 - WC 9
+    - player1:
+        team: 'NT'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 96
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(14)
+      score: NT 4 - MB 8
  - name: Nowlan, Denise
    totals:
     - event: Hearts
@@ -1190,12 +1278,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 66
+        percent: 76
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 85
-        wins: 1
+        percent: 87
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1214,6 +1302,22 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: NT 4 - CA 7
+    - player1:
+        team: 'NT'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(14)
+      score: NT 4 - MB 8
  - name: Peters, Laine
    totals:
     - event: Hearts
@@ -1318,13 +1422,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 70
-        wins: 1
+        percent: 71
+        wins: 2
         losses: 1
       player2:
         percent: 69
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'TR'
@@ -1358,6 +1462,22 @@ vs:
       year: 2017
       draw: Round Robin(14)
       score: NT 4 - NL 7
+    - player1:
+        team: 'NT'
+        position: Third
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 68
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(16)
+      score: NL 7 - NT 8
  - name: Potts, Sarah
    totals:
     - event: Hearts
@@ -1526,6 +1646,34 @@ vs:
       year: 2017
       draw: Round Robin(6)
       score: BC 9 - NT 12
+ - name: Riley, Emily
+   totals:
+    - event: Hearts
+      player1:
+        percent: 63
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Second
+        percent: 79
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(4)
+      score: NT 3 - QC 12
  - name: Robison, Michala
    totals:
     - event: Hearts
@@ -1610,6 +1758,34 @@ vs:
       year: 2013
       draw: Round Robin(13)
       score: TR 7 - QC 8
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 66
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Second
+        percent: 66
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(14)
+      score: NT 6 - NO 7
  - name: Saulnier, Andrea
    totals:
     - event: Hearts
@@ -1738,6 +1914,34 @@ vs:
       year: 2013
       draw: Round Robin(15)
       score: BC 9 - TR 7
+ - name: Scoffin, Bayly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 57
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 57
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(8)
+      score: YT 8 - NT 14
  - name: Scott, Kelly
    totals:
     - event: Hearts
@@ -1898,6 +2102,34 @@ vs:
       year: 2017
       draw: Round Robin(13)
       score: SK 7 - NT 8
+ - name: Sinclair, Jamie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 63
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(4)
+      score: NT 3 - QC 12
  - name: Sippala, Ashley
    totals:
     - event: Hearts
@@ -1998,6 +2230,34 @@ vs:
       year: 2010
       draw: Round Robin(9)
       score: TR 5 - NB 7
+ - name: St-Georges, Laurie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 63
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Fourth
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(4)
+      score: NT 3 - QC 12
  - name: Strong, Heather
    totals:
     - event: Hearts
@@ -2058,13 +2318,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 77
-        wins: 0
+        percent: 82
+        wins: 1
         losses: 1
       player2:
-        percent: 69
+        percent: 76
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'TR'
@@ -2082,6 +2342,22 @@ vs:
       year: 2010
       draw: Round Robin(16)
       score: TR 7 - AB 9
+    - player1:
+        team: 'NT'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 82
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(10)
+      score: NT 9 - MB 6
  - name: Thiessen, Alison
    totals:
     - event: Hearts
@@ -2226,12 +2502,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 78
+        percent: 74
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 84
-        wins: 2
+        percent: 86
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -2266,34 +2542,22 @@ vs:
       year: 2017
       draw: Round Robin(9)
       score: NT 4 - ON 7
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 66
-        wins: 0
-        losses: 1
-      player2:
-        percent: 78
-        wins: 1
-        losses: 0
-   games:
     - player1:
         team: 'NT'
-        position: Second
-        percent: 66
+        position: Third
+        percent: 63
         win: 0
         loss: 1
       player2:
-        team: 'NO'
-        position: Third
-        percent: 78
+        team: 'QC'
+        position: Lead
+        percent: 91
         win: 1
         loss: 0
       event: Hearts
-      year: 2018
-      draw: Round Robin(14)
-      score: NT 6 - NO 7
+      year: 2025
+      draw: Round Robin(4)
+      score: NT 3 - QC 12
  - name: Westcott, Raunora
    totals:
     - event: Hearts

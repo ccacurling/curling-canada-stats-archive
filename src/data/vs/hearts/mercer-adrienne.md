@@ -442,6 +442,34 @@ vs:
       year: 2021
       draw: Round Robin(15)
       score: QC 9 - NL 4
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 58
+        wins: 0
+        losses: 1
+      player2:
+        percent: 82
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 58
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 82
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(19)
+      score: SK 9 - NL 3
  - name: Taylor, Alison
    totals:
     - event: Hearts

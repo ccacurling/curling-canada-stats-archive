@@ -166,6 +166,7 @@ vs:
  - Gates, Amanda
  - Gates, Jennifer
  - Gibson, Amy
+ - Gordon, Kristin
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Hanlon, Heidi
@@ -198,7 +199,6 @@ vs:
  - Lemay, Annie
  - Lilly, Kendra
  - MacCallum, Janice
- - MacCuish, Kristin
  - MacDougall, Leslie
  - Mackey, Robyn
  - MacPhee, Robyn
@@ -226,6 +226,7 @@ vs:
  - Potts, Sarah
  - Renouf, Michele
  - Ross, Allison
+ - Rumberg, Crystal
  - Rusnell, Jen
  - Sabourin, Joelle
  - Sagle, Karen
@@ -258,7 +259,6 @@ vs:
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa
- - Webster, Crystal
  - West, Christianne
  - Westcott, Raunora
  - Wheatcroft, Georgina

@@ -127,6 +127,7 @@ vs:
  - Fisher, Sam
  - Fyfe, Liz
  - Gannon, Melissa
+ - Gordon, Kristin
  - Griffin, Alison
  - Guzzwell, Stephanie
  - Hamilton, Beth
@@ -141,7 +142,6 @@ vs:
  - Lawes, Kaitlyn
  - Lister, Kendra
  - Loder, Jenna
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - Martin, Heather
  - McDonald, Taylor

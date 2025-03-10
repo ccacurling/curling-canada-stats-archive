@@ -106,50 +106,34 @@ vs:
       year: 2016
       draw: Round Robin(15)
       score: NO 7 - QC 2
- - name: Recksiedler, Kristen
+ - name: Ramsay, Geri-Lynn
    totals:
     - event: Hearts
       player1:
-        percent: 77
-        wins: 2
+        percent: 89
+        wins: 1
         losses: 0
       player2:
-        percent: 75
+        percent: 91
         wins: 0
-        losses: 2
+        losses: 1
    games:
     - player1:
         team: 'NO'
         position: Lead
-        percent: 72
+        percent: 89
         win: 1
         loss: 0
       player2:
-        team: 'BC'
-        position: Third
-        percent: 73
+        team: 'AB'
+        position: Lead
+        percent: 91
         win: 0
         loss: 1
       event: Hearts
-      year: 2016
-      draw: Round Robin(14)
-      score: NO 10 - BC 3
-    - player1:
-        team: 'NO'
-        position: Lead
-        percent: 82
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
-        position: Lead
-        percent: 78
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2017
-      draw: Round Robin(10)
-      score: NO 8 - BC 3
+      year: 2025
+      draw: Round Robin(9)
+      score: NO 10 - AB 4
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -290,6 +274,78 @@ vs:
       year: 2019
       draw: Round Robin(9)
       score: BC 7 - NO 8
+ - name: Russell, Kayla
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Second
+        percent: 63
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(17)
+      score: NO 9 - NB 3
+ - name: Ryan, Kristen
+   totals:
+    - event: Hearts
+      player1:
+        percent: 77
+        wins: 2
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 72
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(14)
+      score: NO 10 - BC 3
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2017
+      draw: Round Robin(10)
+      score: NO 8 - BC 3
  - name: Sagle, Karen
    totals:
     - event: Hearts
@@ -446,6 +502,34 @@ vs:
       year: 2022
       draw: Round Robin(1)
       score: NO 7 - WC 3
+ - name: Schmiemann, Danielle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(5)
+      score: NO 6 - AB 10
  - name: Schneider, Lorraine
    totals:
     - event: Hearts
@@ -662,6 +746,62 @@ vs:
       year: 2024
       draw: Round Robin(15)
       score: QC 4 - NO 6
+ - name: Skrlik, Ashton
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(9)
+      score: NO 10 - AB 4
+ - name: Skrlik, Kayla
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(9)
+      score: NO 10 - AB 4
  - name: Smith, Sabrina
    totals:
     - event: Hearts
@@ -718,6 +858,34 @@ vs:
       year: 2024
       draw: Round Robin(15)
       score: QC 4 - NO 6
+ - name: Sturmay, Selena
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(5)
+      score: NO 6 - AB 10
  - name: Sweeting, Val
    totals:
     - event: Hearts
@@ -782,13 +950,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 76
-        wins: 1
+        percent: 84
+        wins: 2
         losses: 0
       player2:
-        percent: 66
+        percent: 71
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NO'
@@ -806,6 +974,22 @@ vs:
       year: 2022
       draw: Round Robin(9)
       score: NU 6 - NO 7
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 76
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(11)
+      score: NU 4 - NO 8
  - name: Thevenot, Kara
    totals:
     - event: Hearts
@@ -1086,6 +1270,34 @@ vs:
       year: 2019
       draw: Round Robin(9)
       score: BC 7 - NO 8
+ - name: Weagle, Julia
+   totals:
+    - event: Hearts
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(11)
+      score: NU 4 - NO 8
  - name: Weagle, Lisa
    totals:
     - event: Hearts
@@ -1210,12 +1422,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 82
+        percent: 84
         wins: 0
-        losses: 4
+        losses: 5
       player2:
         percent: 88
-        wins: 4
+        wins: 5
         losses: 0
    games:
     - player1:
@@ -1282,6 +1494,22 @@ vs:
       year: 2023
       draw: Round Robin(6)
       score: ON 7 - NO 5
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(3)
+      score: CA 10 - NO 7
  - name: Williamson, Ashley
    totals:
     - event: Hearts

@@ -746,6 +746,50 @@ vs:
       year: 2018
       draw: Round Robin(4)
       score: NO 5 - NB 8
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 65
+        wins: 0
+        losses: 2
+      player2:
+        percent: 82
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Second
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(2)
+      score: WC 8 - NB 6
+    - player1:
+        team: 'NB'
+        position: Second
+        percent: 52
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(6)
+      score: WC 9 - NB 2
  - name: Griffin, Alison
    totals:
     - event: Hearts
@@ -1030,34 +1074,6 @@ vs:
       year: 2021
       draw: Round Robin(17)
       score: NB 3 - MB 12
- - name: Kitz, Chaelynn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 1
-        losses: 0
-      player2:
-        percent: 78
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Second
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 78
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(11)
-      score: NB 7 - SK 6
  - name: Knapp, Breanne
    totals:
     - event: Hearts
@@ -1214,50 +1230,6 @@ vs:
       year: 2021
       draw: Round Robin(17)
       score: NB 3 - MB 12
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 65
-        wins: 0
-        losses: 2
-      player2:
-        percent: 82
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Second
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 83
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(2)
-      score: WC 8 - NB 6
-    - player1:
-        team: 'NB'
-        position: Second
-        percent: 52
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 81
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(6)
-      score: WC 9 - NB 2
  - name: MacDonald, Kaitlin
    totals:
     - event: Hearts
@@ -1642,6 +1614,34 @@ vs:
       year: 2021
       draw: Round Robin(19)
       score: NB 7 - QC 9
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Second
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Round Robin(4)
+      score: NO 5 - NB 8
  - name: Shea, Michelle
    totals:
     - event: Hearts
@@ -1754,6 +1754,34 @@ vs:
       year: 2021
       draw: Round Robin(19)
       score: NB 7 - QC 9
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Second
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(11)
+      score: NB 7 - SK 6
  - name: Weagle, Lisa
    totals:
     - event: Hearts
@@ -1782,34 +1810,6 @@ vs:
       year: 2021
       draw: Round Robin(17)
       score: NB 3 - MB 12
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 1
-        losses: 0
-      player2:
-        percent: 88
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Second
-        percent: 79
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Third
-        percent: 88
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Round Robin(4)
-      score: NO 5 - NB 8
  - name: Westcott, Raunora
    totals:
     - event: Hearts

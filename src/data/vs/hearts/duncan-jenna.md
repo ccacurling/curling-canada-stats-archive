@@ -254,6 +254,34 @@ vs:
       year: 2018
       draw: Round Robin(6)
       score: NO 8 - YT 5
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(10)
+      score: YT 3 - WC 10
  - name: Haughian, Jessie
    totals:
     - event: Hearts
@@ -478,34 +506,6 @@ vs:
       year: 2018
       draw: Round Robin(14)
       score: NB 6 - YT 3
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 70
-        wins: 0
-        losses: 1
-      player2:
-        percent: 84
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'YT'
-        position: Third
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 84
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(10)
-      score: YT 3 - WC 10
  - name: Mackey, Robyn
    totals:
     - event: Hearts
@@ -746,6 +746,34 @@ vs:
       year: 2023
       draw: Round Robin(6)
       score: NB 14 - YT 3
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Third
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(6)
+      score: NO 8 - YT 5
  - name: Scheidegger, Casey
    totals:
     - event: Hearts
@@ -802,34 +830,6 @@ vs:
       year: 2023
       draw: Round Robin(16)
       score: YT 2 - WC 9
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 69
-        wins: 0
-        losses: 1
-      player2:
-        percent: 85
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'YT'
-        position: Third
-        percent: 69
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Third
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(6)
-      score: NO 8 - YT 5
  - name: West, Christianne
    totals:
     - event: Hearts

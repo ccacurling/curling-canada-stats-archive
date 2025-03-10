@@ -86,34 +86,6 @@ vs:
       year: 2021
       draw: Pool(21)
       score: WC 10 - SK 9
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 74
-        wins: 1
-        losses: 0
-      player2:
-        percent: 74
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Lead
-        percent: 74
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 74
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(15)
-      score: SK 8 - WC 7
  - name: MacDonald, Kaitlin
    totals:
     - event: Hearts

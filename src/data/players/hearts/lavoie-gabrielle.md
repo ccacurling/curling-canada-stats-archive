@@ -49,10 +49,10 @@ vs:
  - Fleury, Tracy
  - Fyfe, Liz
  - Gates, Jennifer
+ - Gordon, Kristin
  - Griffin, Alison
  - Homan, Rachel
  - Lilly, Kendra
- - MacCuish, Kristin
  - McCarville, Krista
  - Miskew, Emma
  - Murphy, Sarah

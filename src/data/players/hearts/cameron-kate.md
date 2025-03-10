@@ -4,19 +4,19 @@ name: Kate Cameron
 name-sort: Cameron, Kate
 totals:
  - event: Hearts
-   games: 72
-   wins: 43
-   losses: 29
-   inturn-total: 726
+   games: 80
+   wins: 47
+   losses: 33
+   inturn-total: 798
    inturn-percent: 79
-   outturn-total: 615
-   outturn-percent: 78
-   draw-total: 544
-   draw-percent: 79
-   takeout-total: 797
+   outturn-total: 686
+   outturn-percent: 77
+   draw-total: 603
+   draw-percent: 78
+   takeout-total: 881
    takeout-percent: 78
-   shots-total: 1341
-   shots-percent: 79
+   shots-total: 1484
+   shots-percent: 78
 years:
  - year: 2017
    event: Hearts
@@ -144,6 +144,24 @@ years:
    takeout-percent: 79
    shots-total: 203
    shots-percent: 79
+ - year: 2025
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 72
+   inturn-percent: 71
+   outturn-total: 71
+   outturn-percent: 76
+   draw-total: 59
+   draw-percent: 67
+   takeout-total: 84
+   takeout-percent: 77
+   shots-total: 143
+   shots-percent: 73
 vs:
  - Ackland, Abby
  - Adams, Melissa
@@ -208,18 +226,23 @@ vs:
  - Fyfe, Liz
  - Gagne, Emilia
  - Galusha, Kerry
+ - Galusha, Sydney
  - Gates, Amanda
  - Gates, Jennifer
  - Gibson, Amy
+ - Godsland, Brooke
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
  - Guy, Sara
  - Harris, Briane
  - Harvey, Marie-Pier
  - Hawes, Dezaray
+ - Hebert, Rebecca
  - Helston, Raelyn
  - Hill, Trish
  - Homan, Rachel
+ - Horte, Bailey
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hutchings, Denise
@@ -228,11 +251,11 @@ vs:
  - Jones, Jennifer
  - Karwacki, Krysten
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Knapp, Breanne
  - Koehler, Megan
  - Koltun, Sarah
  - Kreviazuk, Cheryl
+ - Lamswood, Sarah
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - LeDrew, Stephanie
@@ -242,7 +265,6 @@ vs:
  - Loder, Jenna
  - Logan, Emma
  - Loken, Sarah
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - Mackey, Robyn
  - MacMillan, Kayla
@@ -264,6 +286,7 @@ vs:
  - Oliver, Sara
  - O'Rourke, Brittany
  - Papley, Paige
+ - Paterson, Kate
  - Perron, Melina
  - Peterman, Jocelyn
  - Peters, Laine
@@ -271,12 +294,14 @@ vs:
  - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
+ - Powers, Marlee
  - Quillian, Sylvie
  - Richards, Brette
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Routledge, Alanna
  - Routledge, Jill
+ - Rumberg, Crystal
  - Sagle, Karen
  - Scheidegger, Casey
  - Scheidegger, Jessie
@@ -289,11 +314,13 @@ vs:
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Simons, Renee
+ - Sinclair, Jamie
  - Sippala, Ashley
  - Smith, Heather
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Strong, Helen
  - Strybosch, Rachelle
  - Sturmay, Selena
@@ -310,7 +337,6 @@ vs:
  - Walter, Meghan
  - Ward, Molli
  - Weagle, Lisa
- - Webster, Crystal
  - West, Christianne
  - Wilkes, Sarah
  - Wylie, Jennifer

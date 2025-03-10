@@ -2,34 +2,6 @@
 title: Jody Smallwood Head-to-head
 name: Smallwood, Jody
 vs:
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 69
-        wins: 0
-        losses: 1
-      player2:
-        percent: 85
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'YT'
-        position: Lead
-        percent: 69
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Third
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(6)
-      score: NO 8 - YT 5
  - name: West, Christianne
    totals:
     - event: Hearts

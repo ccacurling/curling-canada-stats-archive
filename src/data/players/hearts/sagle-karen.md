@@ -82,6 +82,7 @@ vs:
  - Gagne, Emilia
  - Gates, Amanda
  - Gibson, Amy
+ - Gordon, Kristin
  - Hamon, Callan
  - Harvey, Marie-Pier
  - Howard, Ashley
@@ -94,7 +95,6 @@ vs:
  - Lawes, Kaitlyn
  - Lemay, Annie
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacPhee, Robyn
  - McCarville, Krista
  - McEwen, Dawn
@@ -112,8 +112,9 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Rainville, Julie
- - Recksiedler, Kristen
  - Richard, Marie
+ - Rumberg, Crystal
+ - Ryan, Kristen
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Shackleton, Amie
@@ -126,7 +127,6 @@ vs:
  - Van Osch, Kesa
  - Van Osch, Marika
  - Vautour, Carrie
- - Webster, Crystal
  - West, Christianne
  - Westcott, Raunora
  - Williamson, Ashley

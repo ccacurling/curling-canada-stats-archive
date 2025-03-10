@@ -30,34 +30,6 @@ vs:
       year: 2016
       draw: Round Robin(14)
       score: NB 6 - QC 5
- - name: Recksiedler, Kristen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 68
-        wins: 0
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 68
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
-        position: Third
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Round Robin(15)
-      score: NB 5 - BC 7
  - name: Rizzo, Jo-Ann
    totals:
     - event: Hearts
@@ -102,6 +74,34 @@ vs:
       year: 2023
       draw: Round Robin(2)
       score: NT 6 - NB 4
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Round Robin(4)
+      score: NO 5 - NB 8
  - name: Rusnell, Jen
    totals:
     - event: Hearts
@@ -130,6 +130,34 @@ vs:
       year: 2015
       draw: Round Robin(12)
       score: NB 8 - BC 7
+ - name: Ryan, Kristen
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Round Robin(15)
+      score: NB 5 - BC 7
  - name: Sabourin, Joelle
    totals:
     - event: Hearts
@@ -1142,34 +1170,6 @@ vs:
       year: 2008
       draw: Round Robin(12)
       score: NB 3 - AB 9
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 1
-        losses: 0
-      player2:
-        percent: 88
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 79
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Third
-        percent: 88
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Round Robin(4)
-      score: NO 5 - NB 8
  - name: Whitaker, Carol
    totals:
     - event: Hearts

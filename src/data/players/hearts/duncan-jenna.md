@@ -77,6 +77,7 @@ vs:
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
+ - Gordon, Kristin
  - Haughian, Jessie
  - Hutchings, Denise
  - Jones, Jennifer
@@ -85,7 +86,6 @@ vs:
  - Koltun, Sarah
  - Korchinski, Karlee
  - Lister, Kendra
- - MacCuish, Kristin
  - Mackey, Robyn
  - McDonald, Taylor
  - McEwen, Dawn
@@ -94,9 +94,9 @@ vs:
  - Officer, Jill
  - Oliver, Sara
  - Quillian, Sylvie
+ - Rumberg, Crystal
  - Scheidegger, Casey
  - Walter, Meghan
- - Webster, Crystal
  - West, Christianne
  - Wylie, Jennifer
 ---

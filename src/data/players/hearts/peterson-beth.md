@@ -55,17 +55,16 @@ vs:
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
+ - Gordon, Kristin
  - Guy, Sara
  - Harris, Briane
  - Holland, Amber
  - Homan, Rachel
  - Jones, Jennifer
- - Kitz, Chaelynn
  - Knapp, Breanne
  - Lawes, Kaitlyn
  - Lenentine, Lauren
  - Logan, Emma
- - MacCuish, Kristin
  - Martin, Nancy
  - McDonald, Taylor
  - Miskew, Emma
@@ -76,6 +75,7 @@ vs:
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Sweeting, Val
  - Walker, Laura
  - Weagle, Lisa

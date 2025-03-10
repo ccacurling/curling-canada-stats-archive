@@ -4,18 +4,18 @@ name: Kerry Galusha
 name-sort: Galusha, Kerry
 totals:
  - event: Hearts
-   games: 165
-   wins: 54
-   losses: 111
-   inturn-total: 1867
-   inturn-percent: 74
-   outturn-total: 1238
+   games: 173
+   wins: 57
+   losses: 116
+   inturn-total: 1960
+   inturn-percent: 73
+   outturn-total: 1292
    outturn-percent: 72
-   draw-total: 1768
-   draw-percent: 74
-   takeout-total: 1337
-   takeout-percent: 72
-   shots-total: 3105
+   draw-total: 1837
+   draw-percent: 73
+   takeout-total: 1415
+   takeout-percent: 71
+   shots-total: 3252
    shots-percent: 73
 years:
  - year: 1998
@@ -381,6 +381,24 @@ years:
    takeout-percent: 77
    shots-total: 156
    shots-percent: 87
+ - year: 2025
+   event: Hearts
+   team: "NT"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 93
+   inturn-percent: 65
+   outturn-total: 54
+   outturn-percent: 71
+   draw-total: 69
+   draw-percent: 66
+   takeout-total: 78
+   takeout-percent: 69
+   shots-total: 147
+   shots-percent: 68
 vs:
  - Ackland, Abby
  - Adams, Melissa
@@ -451,6 +469,7 @@ vs:
  - Courtney, Joanne
  - Crandall, Jaclyn
  - Crouse, Jennifer
+ - Cullen, Brianna
  - Cunningham, Cathy
  - Cunningham, Jennifer
  - Curtis, Erica
@@ -498,6 +517,8 @@ vs:
  - Gauthier, Cathy
  - George, Tara
  - Gilman, Sheena
+ - Godsland, Brooke
+ - Gordon, Kristin
  - Goss, Peg
  - Grandy, Clancy
  - Gregoire, Veronique
@@ -523,6 +544,7 @@ vs:
  - Hollands, Saskia
  - Holtby, Taryn
  - Homan, Rachel
+ - Horte, Bailey
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hynes, Julie
@@ -547,6 +569,7 @@ vs:
  - Korchinski, Karlee
  - Kreviazuk, Alison
  - Kreviazuk, Cheryl
+ - Lamswood, Sarah
  - Lang, Lorraine
  - Larouche, Marie-France
  - Law, Kelley
@@ -565,7 +588,6 @@ vs:
  - Logan, Emma
  - Loken, Sarah
  - Lowther, Tammi
- - MacCuish, Kristin
  - MacDiarmid, Kristen
  - MacDonald, Rebecca Jean
  - MacDonald, Shelley
@@ -642,6 +664,7 @@ vs:
  - Rocque, Raylene
  - Ross, Allison
  - Rudulier, Andrea
+ - Rumberg, Crystal
  - Sabourin, Joelle
  - Sandison, Janice
  - Saulnier, Andrea
@@ -661,6 +684,7 @@ vs:
  - Silvernagle, Robyn
  - Simmons, Cindy
  - Simons, Renee
+ - Sinclair, Jamie
  - Singler, Sherri
  - Sippala, Ashley
  - Skinner, Julie
@@ -702,7 +726,6 @@ vs:
  - Wazney, Sarah
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whitaker, Carol

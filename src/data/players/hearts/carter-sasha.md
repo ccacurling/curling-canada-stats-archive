@@ -308,6 +308,7 @@ vs:
  - Gauthier, Cathy
  - George, Tara
  - Gilman, Sheena
+ - Gordon, Kristin
  - Goss, Peg
  - Gregoire, Veronique
  - Gudereit, Marcia
@@ -354,7 +355,6 @@ vs:
  - Lenentine, Lauren
  - Letendre, Pascale
  - Loder, Cherie-Ann
- - MacCuish, Kristin
  - MacDiarmid, Kristen
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie

@@ -4,19 +4,19 @@ name: Sarah Koltun
 name-sort: Koltun, Sarah
 totals:
  - event: Hearts
-   games: 58
-   wins: 22
-   losses: 36
-   inturn-total: 632
-   inturn-percent: 76
-   outturn-total: 462
-   outturn-percent: 74
-   draw-total: 536
-   draw-percent: 73
-   takeout-total: 558
-   takeout-percent: 77
-   shots-total: 1094
-   shots-percent: 75
+   games: 67
+   wins: 28
+   losses: 39
+   inturn-total: 729
+   inturn-percent: 78
+   outturn-total: 532
+   outturn-percent: 76
+   draw-total: 621
+   draw-percent: 75
+   takeout-total: 640
+   takeout-percent: 78
+   shots-total: 1261
+   shots-percent: 77
 years:
  - year: 2014
    event: Hearts
@@ -144,6 +144,24 @@ years:
    takeout-percent: 82
    shots-total: 156
    shots-percent: 82
+ - year: 2025
+   event: Hearts
+   team: "BC"
+   position: Second
+   alternate: false
+   games: 9
+   wins: 6
+   losses: 3
+   inturn-total: 97
+   inturn-percent: 88
+   outturn-total: 70
+   outturn-percent: 88
+   draw-total: 85
+   draw-percent: 87
+   takeout-total: 82
+   takeout-percent: 88
+   shots-total: 167
+   shots-percent: 88
 vs:
  - Ackland, Abby
  - Adams, Melissa
@@ -186,6 +204,8 @@ vs:
  - Daly, Calissa
  - deGroot, Cassandra
  - deSolla, Jodie
+ - DiCarlo, Jane
+ - Doig, Deanna
  - Dolan, Kim
  - Dolan, Sinead
  - Dubue, Lindsay
@@ -199,6 +219,7 @@ vs:
  - Fesser, Kourtney
  - Fesser, Krista
  - Flaxey, Allison
+ - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
  - Foster, Kerry
@@ -207,7 +228,9 @@ vs:
  - Fyfe, Liz
  - Gannon, Melissa
  - Gates, Amanda
+ - Gordon, Kristin
  - Grandy, Clancy
+ - Gustafson, Leigh
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Harris, Briane
@@ -219,6 +242,7 @@ vs:
  - Hunkin, Jessie
  - Hynes, Julie
  - Inglis, Danielle
+ - Jenkins, Whitney
  - Jewer, Michelle
  - Jones, Jennifer
  - Kasner, Marliese
@@ -237,10 +261,12 @@ vs:
  - Lister, Kendra
  - Logan, Emma
  - Loken, Sarah
- - MacCuish, Kristin
+ - Lott, Kadriana
  - MacDonald, Rebecca Jean
  - MacMillan, Kayla
  - MacPhee, Robyn
+ - Martin, Nancy
+ - Mayne, Veronica
  - McCarville, Krista
  - McDonald, Kristy
  - McDonald, Taylor
@@ -254,21 +280,28 @@ vs:
  - Officer, Jill
  - Oliver, Sara
  - O'Rourke, Brittany
+ - Papley, Paige
  - Parsons, Danielle
  - Peterman, Jocelyn
  - Pincott, Erin
+ - Pinksen, Sadie
  - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
+ - Powers, Marlee
  - Price, Kara
  - Quillian, Sylvie
+ - Ramsay, Geri-Lynn
  - Riley, Emily
  - Robison, Michala
  - Rocque, Kelsey
  - Ross, Allison
+ - Rumberg, Crystal
+ - Russell, Kayla
  - Sanderson, Jessie
  - Sandwith, Carley
  - Scheidegger, Casey
+ - Schmiemann, Danielle
  - Schraeder, Jeanna
  - Scoffin, Bayly
  - Scotland, Nadine
@@ -278,15 +311,21 @@ vs:
  - Silvernagle, Robyn
  - Singler, Sherri
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smallwood, Jody
  - Smith, Heather
+ - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Strong, Heather
  - Strong, Helen
  - Strong, Laura
  - Strybosch, Rachelle
+ - Sturmay, Selena
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Kara
  - Titheridge, Lindsay
  - Tuck, Kimberly
@@ -295,8 +334,9 @@ vs:
  - Wallingham, Patty
  - Walter, Meghan
  - Ward, Molli
+ - Weagle, Julia
  - Weagle, Lisa
- - Webster, Crystal
+ - White, Jenny
  - Wilkes, Sarah
  - Wiseman, Jessica
  - Wylie, Jennifer

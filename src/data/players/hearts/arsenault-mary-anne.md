@@ -456,6 +456,7 @@ vs:
  - Gibson, Amy
  - Gignac, Donna
  - Gogan, Jennifer
+ - Gordon, Kristin
  - Goss, Peg
  - Graham-MacDonald, Bea
  - Greening, Jackie-Rae
@@ -530,7 +531,6 @@ vs:
  - Lister, Kendra
  - Loder, Cherie-Ann
  - MacCallum, Janice
- - MacCuish, Kristin
  - MacDiarmid, Kristen
  - MacDonald, Lawnie
  - MacDonald, Rebecca Jean
@@ -614,6 +614,7 @@ vs:
  - Rocque, Raylene
  - Ross, Allison
  - Rudulier, Andrea
+ - Rumberg, Crystal
  - Rusnell, Jen
  - Sabourin, Joelle
  - Sagle, Karen
@@ -682,7 +683,6 @@ vs:
  - Wazney, Sarah
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whitaker, Carol

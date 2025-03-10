@@ -626,6 +626,34 @@ vs:
       year: 2014
       draw: Round Robin(7)
       score: NB 8 - AB 9
+ - name: DiCarlo, Jane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 100
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(1)
+      score: CA 13 - PE 4
  - name: Doerksen, Katherine
    totals:
     - event: Hearts
@@ -1270,6 +1298,50 @@ vs:
       year: 2020
       draw: Round Robin(1)
       score: NO 8 - CA 3
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 85
+        wins: 2
+        losses: 0
+      player2:
+        percent: 87
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2019
+      draw: Round Robin(1)
+      score: AB 7 - MB 6
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Pool(23)
+      score: WC 4 - AB 9
  - name: Griffin, Alison
    totals:
     - event: Hearts
@@ -1314,6 +1386,34 @@ vs:
       year: 2020
       draw: Round Robin(12)
       score: NU 5 - CA 6
+ - name: Gustafson, Leigh
+   totals:
+    - event: Hearts
+      player1:
+        percent: 100
+        wins: 1
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Second
+        percent: 67
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(15)
+      score: NU 3 - CA 9
  - name: Guy, Sara
    totals:
     - event: Hearts
@@ -1770,6 +1870,34 @@ vs:
       year: 2019
       draw: Round Robin(9)
       score: AB 10 - NU 5
+ - name: Jenkins, Whitney
+   totals:
+    - event: Hearts
+      player1:
+        percent: 100
+        wins: 1
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 67
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(1)
+      score: CA 13 - PE 4
  - name: Jones, Jennifer
    totals:
     - event: Hearts
@@ -2042,34 +2170,6 @@ vs:
       year: 2020
       draw: Round Robin(14)
       score: CA 5 - NB 7
- - name: Kitz, Chaelynn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 1
-        losses: 0
-      player2:
-        percent: 84
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 84
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Pool(22)
-      score: AB 9 - SK 4
  - name: Klymchuk, Ashley
    totals:
     - event: Hearts
@@ -2686,50 +2786,6 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: AB 10 - NS 5
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 85
-        wins: 2
-        losses: 0
-      player2:
-        percent: 87
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent: 76
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 81
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2019
-      draw: Round Robin(1)
-      score: AB 7 - MB 6
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent: 94
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 93
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Pool(23)
-      score: WC 4 - AB 9
  - name: MacDonald, Kaitlin
    totals:
     - event: Hearts
@@ -2842,6 +2898,34 @@ vs:
       year: 2021
       draw: Pool(22)
       score: AB 9 - SK 4
+ - name: Mayne, Veronica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 100
+        wins: 1
+        losses: 0
+      player2:
+        percent: 48
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 48
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(1)
+      score: CA 13 - PE 4
  - name: McCarville, Krista
    totals:
     - event: Hearts
@@ -3727,12 +3811,12 @@ vs:
     - event: Hearts
       player1:
         percent: 89
-        wins: 2
+        wins: 3
         losses: 0
       player2:
-        percent: 70
+        percent: 71
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'AB'
@@ -3766,6 +3850,22 @@ vs:
       year: 2020
       draw: Round Robin(12)
       score: NU 5 - CA 6
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(15)
+      score: NU 3 - CA 9
  - name: Potts, Sarah
    totals:
     - event: Hearts
@@ -4582,6 +4682,34 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: NO 2 - AB 12
+ - name: Smith, Sabrina
+   totals:
+    - event: Hearts
+      player1:
+        percent: 100
+        wins: 1
+        losses: 0
+      player2:
+        percent: 55
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 55
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(1)
+      score: CA 13 - PE 4
  - name: Smith, Stacey
    totals:
     - event: Hearts
@@ -4694,6 +4822,34 @@ vs:
       year: 2021
       draw: Pool(20)
       score: AB 7 - QC 6
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Pool(22)
+      score: AB 9 - SK 4
  - name: Strong, Heather
    totals:
     - event: Hearts
@@ -4826,6 +4982,34 @@ vs:
       year: 2021
       draw: Semi-Final(25)
       score: AB 3 - CA 9
+ - name: Taylor, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 100
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(15)
+      score: NU 3 - CA 9
  - name: Thevenot, Kara
    totals:
     - event: Hearts
@@ -5210,6 +5394,34 @@ vs:
       year: 2019
       draw: Round Robin(7)
       score: BC 8 - AB 9
+ - name: Weagle, Julia
+   totals:
+    - event: Hearts
+      player1:
+        percent: 100
+        wins: 1
+        losses: 0
+      player2:
+        percent: 58
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Fourth
+        percent: 58
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(15)
+      score: NU 3 - CA 9
  - name: Weagle, Lisa
    totals:
     - event: Hearts

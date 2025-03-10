@@ -4,18 +4,18 @@ name: Lauren Lenentine
 name-sort: Lenentine, Lauren
 totals:
  - event: Hearts
-   games: 25
+   games: 26
    wins: 14
-   losses: 11
-   inturn-total: 322
+   losses: 12
+   inturn-total: 331
    inturn-percent: 87
-   outturn-total: 159
+   outturn-total: 172
    outturn-percent: 80
-   draw-total: 416
+   draw-total: 433
    draw-percent: 87
-   takeout-total: 65
-   takeout-percent: 72
-   shots-total: 481
+   takeout-total: 70
+   takeout-percent: 74
+   shots-total: 503
    shots-percent: 85
 years:
  - year: 2021
@@ -77,6 +77,24 @@ years:
    team: "MB"
    position: Alternate
    alternate: true
+ - year: 2025
+   event: Hearts
+   team: "MB"
+   position: Lead
+   alternate: true
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 9
+   inturn-percent: 92
+   outturn-total: 13
+   outturn-percent: 90
+   draw-total: 17
+   draw-percent: 88
+   takeout-total: 5
+   takeout-percent: 100
+   shots-total: 22
+   shots-percent: 91
 vs:
  - Armstrong, Hailey
  - Arsenault, Mary-Anne
@@ -109,12 +127,14 @@ vs:
  - Flemming, Margot
  - Foster, Kerry
  - Galusha, Kerry
+ - Galusha, Sydney
  - Grandy, Clancy
  - Guy, Sara
  - Harris, Briane
  - Haughian, Jessie
  - Homan, Rachel
  - Hynes, Julie
+ - Koehler, Megan
  - Koltun, Sarah
  - Lilly, Kendra
  - Loder, Jenna
@@ -133,6 +153,7 @@ vs:
  - Scotland, Nadine
  - Simons, Renee
  - Sippala, Ashley
+ - Skauge, Ella
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie

@@ -46,13 +46,13 @@ vs:
  - Dubue, Lindsay
  - Einarson, Kerri
  - Everist, Karlee
+ - Gordon, Kristin
  - Grandy, Clancy
  - Harris, Briane
  - Hughes, Meaghan
  - Karwacki, Krysten
  - Lawes, Kaitlyn
  - Loken, Sarah
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacMillan, Kayla
  - MacPhail, Brigitte

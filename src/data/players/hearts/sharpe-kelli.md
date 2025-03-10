@@ -236,6 +236,7 @@ vs:
  - Gauthier, Cathy
  - Gellard, Kim
  - George, Tara
+ - Gordon, Kristin
  - Gudereit, Marcia
  - Hamilton, Beth
  - Hanlon, Heidi
@@ -281,7 +282,6 @@ vs:
  - Loder, Cherie-Ann
  - Lowther, Tammi
  - MacCallum, Janice
- - MacCuish, Kristin
  - MacDiarmid, Kristen
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean

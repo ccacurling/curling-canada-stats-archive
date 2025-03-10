@@ -2,6 +2,34 @@
 title: Amy Gibson Head-to-head
 name: Gibson, Amy
 vs:
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Pool(17)
+      score: BC 5 - WC 6
  - name: Harvey, Marie-Pier
    totals:
     - event: Hearts
@@ -198,34 +226,6 @@ vs:
       year: 2018
       draw: Round Robin(9)
       score: ON 5 - BC 6
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 0
-        losses: 1
-      player2:
-        percent: 83
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'BC'
-        position: Lead
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 83
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Pool(17)
-      score: BC 5 - WC 6
  - name: MacPhee, Robyn
    totals:
     - event: Hearts
@@ -450,6 +450,34 @@ vs:
       year: 2018
       draw: Round Robin(13)
       score: NL 7 - BC 10
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 94
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Pool(20)
+      score: NO 7 - BC 5
  - name: Sagle, Karen
    totals:
     - event: Hearts
@@ -590,34 +618,6 @@ vs:
       year: 2018
       draw: Round Robin(5)
       score: BC 5 - PE 9
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 94
-        wins: 0
-        losses: 1
-      player2:
-        percent: 84
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'BC'
-        position: Lead
-        percent: 94
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Third
-        percent: 84
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Pool(20)
-      score: NO 7 - BC 5
  - name: West, Christianne
    totals:
     - event: Hearts

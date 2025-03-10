@@ -97,6 +97,7 @@ vs:
  - Galusha, Kerry
  - Gates, Amanda
  - Gates, Jennifer
+ - Gordon, Kristin
  - Griffin, Alison
  - Guy, Sara
  - Hamon, Callan
@@ -113,7 +114,6 @@ vs:
  - Lenentine, Lauren
  - Lilly, Kendra
  - Loder, Jenna
- - MacCuish, Kristin
  - MacPhee, Robyn
  - McCarville, Krista
  - McDonald, Taylor

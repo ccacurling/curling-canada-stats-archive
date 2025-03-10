@@ -4,18 +4,18 @@ name: Christina Black
 name-sort: Black, Christina
 totals:
  - event: Hearts
-   games: 53
-   wins: 31
-   losses: 22
-   inturn-total: 546
-   inturn-percent: 78
-   outturn-total: 472
-   outturn-percent: 76
-   draw-total: 428
-   draw-percent: 74
-   takeout-total: 590
+   games: 65
+   wins: 39
+   losses: 26
+   inturn-total: 656
+   inturn-percent: 77
+   outturn-total: 599
+   outturn-percent: 77
+   draw-total: 539
+   draw-percent: 75
+   takeout-total: 716
    takeout-percent: 79
-   shots-total: 1018
+   shots-total: 1255
    shots-percent: 77
 years:
  - year: 2015
@@ -108,6 +108,24 @@ years:
    takeout-percent: 78
    shots-total: 226
    shots-percent: 78
+ - year: 2025
+   event: Hearts
+   team: "NS"
+   position: Fourth
+   alternate: false
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 110
+   inturn-percent: 75
+   outturn-total: 127
+   outturn-percent: 81
+   draw-total: 111
+   draw-percent: 75
+   takeout-total: 126
+   takeout-percent: 81
+   shots-total: 237
+   shots-percent: 78
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -126,7 +144,9 @@ vs:
  - Bradley, Shelley
  - Brown, Corryn
  - Brown, Rachel
+ - Brunton, Kira
  - Burgess, Karlee
+ - Burt, Camille
  - Cameron, Kate
  - Camozzi, Rhonda
  - Carter, Sasha
@@ -135,36 +155,48 @@ vs:
  - Collins, Katrina
  - Cooper, Kathryn
  - Courtney, Joanne
+ - Cullen, Brianna
  - Curtis, Erica
+ - Daly, Calissa
+ - deGroot, Cassandra
  - Dubue, Lindsay
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Enge, Jenna
  - Englot, Michelle
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
  - Filteau, Anne-Marie
+ - Fisher, Sam
  - Flemming, Margot
  - Fleury, Tracy
  - Foster, Kerry
  - Fyfe, Liz
  - Galusha, Kerry
+ - Galusha, Sydney
  - Gates, Amanda
  - Gibson, Amy
+ - Godsland, Brooke
+ - Gordon, Kristin
  - Grandy, Clancy
  - Hamilton, Beth
  - Harris, Briane
  - Hastings, Julie
  - Hawes, Dezaray
+ - Helston, Raelyn
  - Homan, Rachel
+ - Horte, Bailey
  - Hughes, Meaghan
  - Hynes, Julie
+ - Inglis, Danielle
  - Jones, Jennifer
  - Just, Sherry
  - Kallechy, Rachelle
+ - Karwacki, Krysten
  - Kasner, Marliese
  - Klymchuk, Ashley
  - Knezevic, Patti
@@ -173,6 +205,7 @@ vs:
  - Korab, Stephanie
  - Korchinski, Karlee
  - Kreviazuk, Cheryl
+ - Lamswood, Sarah
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - LeDrew, Stephanie
@@ -180,7 +213,6 @@ vs:
  - Lilly, Kendra
  - Lister, Kendra
  - Loken, Sarah
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacMillan, Kayla
  - MacPhail, Brigitte
@@ -212,6 +244,7 @@ vs:
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Routledge, Alanna
+ - Rumberg, Crystal
  - Rusnell, Jen
  - Sagle, Karen
  - Schafer, Kelly
@@ -219,10 +252,12 @@ vs:
  - Scheidegger, Jessie
  - Schmidt, Stephanie
  - Schraeder, Jeanna
+ - Scoffin, Bayly
  - Scotland, Nadine
  - Shea, Michelle
  - Silvernagle, Robyn
  - Simons, Renee
+ - Sinclair, Jamie
  - Sippala, Ashley
  - Skrlik, Ashton
  - Skrlik, Kayla
@@ -244,7 +279,6 @@ vs:
  - Walker, Laura
  - Wallingham, Patty
  - Weagle, Lisa
- - Webster, Crystal
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie

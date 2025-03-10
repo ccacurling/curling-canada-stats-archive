@@ -87,13 +87,13 @@ vs:
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gates, Amanda
+ - Gordon, Kristin
  - Hughes, Meaghan
  - Hutchings, Denise
  - Hynes, Julie
  - Jones, Jennifer
  - Kreviazuk, Cheryl
  - LeDrew, Stephanie
- - MacCuish, Kristin
  - MacPhee, Robyn
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -101,12 +101,12 @@ vs:
  - Njegovan, Selena
  - Officer, Jill
  - Porter, Erin
+ - Rumberg, Crystal
  - Sagle, Karen
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Shackleton, Amie
  - Shea, Michelle
- - Webster, Crystal
  - West, Christianne
  - Westcott, Raunora
  - Wilson, Leslie

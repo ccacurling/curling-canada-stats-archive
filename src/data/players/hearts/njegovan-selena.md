@@ -4,18 +4,18 @@ name: Selena Njegovan
 name-sort: Njegovan, Selena
 totals:
  - event: Hearts
-   games: 66
-   wins: 38
-   losses: 28
-   inturn-total: 621
+   games: 74
+   wins: 42
+   losses: 32
+   inturn-total: 689
    inturn-percent: 81
-   outturn-total: 631
-   outturn-percent: 81
-   draw-total: 466
+   outturn-total: 709
+   outturn-percent: 82
+   draw-total: 522
    draw-percent: 78
-   takeout-total: 786
+   takeout-total: 876
    takeout-percent: 83
-   shots-total: 1252
+   shots-total: 1398
    shots-percent: 81
 years:
  - year: 2016
@@ -165,6 +165,24 @@ years:
    takeout-percent: 84
    shots-total: 174
    shots-percent: 81
+ - year: 2025
+   event: Hearts
+   team: "MB"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 68
+   inturn-percent: 79
+   outturn-total: 78
+   outturn-percent: 88
+   draw-total: 56
+   draw-percent: 82
+   takeout-total: 90
+   takeout-percent: 84
+   shots-total: 146
+   shots-percent: 83
 vs:
  - Ackerman, Skylar
  - Adams, Melissa
@@ -190,6 +208,8 @@ vs:
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Brunton, Kira
+ - Burgess, Karlee
  - Burt, Camille
  - Cameron, Kate
  - Campbell, Jolene
@@ -199,8 +219,11 @@ vs:
  - Courtney, Joanne
  - Crandall, Jaclyn
  - Crouse, Jennifer
+ - Cullen, Brianna
  - Curtis, Stacie
  - Daigle, Julie
+ - Daly, Calissa
+ - deGroot, Cassandra
  - DiCarlo, Jane
  - Doerksen, Katherine
  - Duncan, Chelsea
@@ -208,8 +231,10 @@ vs:
  - Duncan, Jenna
  - Eddy, Lori
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Enge, Jenna
  - Englot, Michelle
+ - Everist, Karlee
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
@@ -217,7 +242,9 @@ vs:
  - Flaxey, Allison
  - Fleury, Tracy
  - Forward, Katie
+ - Foster, Kerry
  - Galusha, Kerry
+ - Galusha, Sydney
  - Gamble, Christie
  - Gates, Amanda
  - Gates, Jennifer
@@ -230,21 +257,24 @@ vs:
  - Hanna, Stephanie
  - Harris, Briane
  - Hawes, Dezaray
+ - Helston, Raelyn
  - Hill, Sarah
  - Homan, Rachel
+ - Horte, Bailey
  - Howard, Ashley
  - Hughes, Meaghan
  - Hynes, Julie
+ - Inglis, Danielle
  - Jenkins, Whitney
  - Jones, Jennifer
  - Karwacki, Krysten
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Knapp, Breanne
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
  - Kreviazuk, Cheryl
+ - Lamswood, Sarah
  - Larouche, Marie-France
  - Lavery, Tracey
  - Lavoie, Gabrielle
@@ -275,6 +305,7 @@ vs:
  - Officer, Jill
  - O'Neill, Brit
  - Papley, Paige
+ - Paterson, Kate
  - Peterman, Jocelyn
  - Peters, Laine
  - Peterson, Beth
@@ -286,26 +317,30 @@ vs:
  - Price, Kara
  - Quillian, Sylvie
  - Rainville, Julie
- - Recksiedler, Kristen
  - Richard, Marie
  - Riley, Emily
+ - Rumberg, Crystal
  - Rusnell, Jen
+ - Ryan, Kristen
  - Sagle, Karen
  - Sandwith, Carley
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
  - Schmiemann, Danielle
+ - Scoffin, Bayly
  - Sharpe, Kelli
  - Shea, Michelle
  - Sicinski, Danielle
  - Sinclair, Jamie
  - Sippala, Ashley
+ - Skauge, Ella
  - Skinner, Kaylin
  - Smallwood, Jody
  - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Stremick, Taylor
  - Sturmay, Selena
  - Sweeting, Val
@@ -322,7 +357,6 @@ vs:
  - Walker, Laura
  - Wark, Sarah
  - Weagle, Lisa
- - Webster, Crystal
  - Westcott, Raunora
  - Wilkes, Sarah
  - Williamson, Ashley

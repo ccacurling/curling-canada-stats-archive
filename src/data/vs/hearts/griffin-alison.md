@@ -254,34 +254,6 @@ vs:
       year: 2020
       draw: Round Robin(8)
       score: NB 5 - NU 2
- - name: Kitz, Chaelynn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 0
-        losses: 1
-      player2:
-        percent: 67
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NU'
-        position: Second
-        percent: 73
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 67
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(4)
-      score: NU 3 - SK 9
  - name: Knapp, Breanne
    totals:
     - event: Hearts
@@ -494,50 +466,6 @@ vs:
       year: 2021
       draw: Round Robin(13)
       score: NU 8 - NB 9
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 70
-        wins: 0
-        losses: 2
-      player2:
-        percent: 73
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'NU'
-        position: Third
-        percent: 84
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(11)
-      score: MB 12 - NU 2
-    - player1:
-        team: 'NU'
-        position: Third
-        percent: 59
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(2)
-      score: NU 3 - WC 6
  - name: Martin, Nancy
    totals:
     - event: Hearts
@@ -1258,6 +1186,34 @@ vs:
       year: 2021
       draw: Round Robin(11)
       score: QC 7 - NU 5
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 0
+        losses: 1
+      player2:
+        percent: 67
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 67
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(4)
+      score: NU 3 - SK 9
  - name: Sweeting, Val
    totals:
     - event: Hearts

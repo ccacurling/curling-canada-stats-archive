@@ -137,6 +137,7 @@ vs:
  - Fyfe, Liz
  - Galusha, Kerry
  - Gibson, Amy
+ - Gordon, Kristin
  - Harris, Briane
  - Hastings, Julie
  - Holland, Amber
@@ -162,7 +163,6 @@ vs:
  - Lister, Kendra
  - Loder, Jenna
  - Logan, Emma
- - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - Mair, Jessica
  - Mann, Lauren

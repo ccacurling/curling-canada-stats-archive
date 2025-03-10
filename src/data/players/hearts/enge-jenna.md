@@ -129,6 +129,7 @@ vs:
  - Flaxey, Allison
  - Forward, Katie
  - Fyfe, Liz
+ - Gordon, Kristin
  - Hamilton, Beth
  - Hastings, Julie
  - Hill, Sarah
@@ -151,7 +152,6 @@ vs:
  - LeDrew, Stephanie
  - Lilly, Kendra
  - Lister, Kendra
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacPhail, Brigitte

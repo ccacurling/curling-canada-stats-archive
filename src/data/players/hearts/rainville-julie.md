@@ -131,6 +131,7 @@ vs:
  - Gellard, Kim
  - George, Tara
  - Gilman, Sheena
+ - Gordon, Kristin
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
@@ -157,7 +158,6 @@ vs:
  - Leonard, Judy
  - Lilly, Kendra
  - London, Debra
- - MacCuish, Kristin
  - MacDougall, Leslie
  - MacLean, Kari
  - MacPhee, Robyn
@@ -189,10 +189,10 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Ramsay, Geri-Lynn
- - Recksiedler, Kristen
  - Richard, Marie
  - Rogers, Rhonda
  - Ruus, Karen
+ - Ryan, Kristen
  - Sagle, Karen
  - Schneider, Kim
  - Schneider, Tammy

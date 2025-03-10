@@ -181,6 +181,7 @@ vs:
  - Galusha, Kerry
  - Gamble, Christie
  - Gates, Amanda
+ - Gordon, Kristin
  - Goss, Peg
  - Hamilton, Beth
  - Hamon, Callan
@@ -212,7 +213,6 @@ vs:
  - Lawton, Stefanie
  - Lemay, Annie
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacInnes, Allison
  - MacPhail, Brigitte
@@ -248,9 +248,10 @@ vs:
  - Potts, Sarah
  - Price, Kara
  - Rainville, Julie
- - Recksiedler, Kristen
  - Rizzo, Jo-Ann
+ - Rumberg, Crystal
  - Rusnell, Jen
+ - Ryan, Kristen
  - Sabourin, Joelle
  - Sagle, Karen
  - Scheidegger, Casey
@@ -282,7 +283,6 @@ vs:
  - Walter, Meghan
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - Whitaker, Carol
  - Wilkes, Sarah
  - Williamson, Ashley

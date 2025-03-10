@@ -4,18 +4,18 @@ name: Erin Pincott
 name-sort: Pincott, Erin
 totals:
  - event: Hearts
-   games: 28
-   wins: 14
-   losses: 14
-   inturn-total: 253
-   inturn-percent: 80
-   outturn-total: 276
+   games: 37
+   wins: 20
+   losses: 17
+   inturn-total: 341
+   inturn-percent: 81
+   outturn-total: 356
    outturn-percent: 78
-   draw-total: 230
-   draw-percent: 78
-   takeout-total: 299
-   takeout-percent: 79
-   shots-total: 529
+   draw-total: 307
+   draw-percent: 79
+   takeout-total: 390
+   takeout-percent: 80
+   shots-total: 697
    shots-percent: 79
 years:
  - year: 2020
@@ -72,6 +72,24 @@ years:
    takeout-percent: 79
    shots-total: 148
    shots-percent: 80
+ - year: 2025
+   event: Hearts
+   team: "BC"
+   position: Third
+   alternate: false
+   games: 9
+   wins: 6
+   losses: 3
+   inturn-total: 88
+   inturn-percent: 83
+   outturn-total: 80
+   outturn-percent: 80
+   draw-total: 77
+   draw-percent: 81
+   takeout-total: 91
+   takeout-percent: 83
+   shots-total: 168
+   shots-percent: 82
 vs:
  - Ackerman, Skylar
  - Adams, Melissa
@@ -86,6 +104,7 @@ vs:
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
+ - Brothers, Jill
  - Brown, Rachel
  - Burt, Camille
  - Carey, Chelsea
@@ -95,14 +114,20 @@ vs:
  - Curtis, Erica
  - Curtis, Stacie
  - DiCarlo, Jane
+ - Doig, Deanna
  - Duncan, Chelsea
  - Eddy, Lori
  - Einarson, Kerri
+ - Everist, Karlee
  - Ferguson, Dana
+ - Flemming, Margot
+ - Fleury, Tracy
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Jennifer
+ - Gordon, Kristin
  - Griffin, Alison
+ - Gustafson, Leigh
  - Hamilton, Beth
  - Harris, Briane
  - Hawes, Dezaray
@@ -115,7 +140,6 @@ vs:
  - Jones, Jennifer
  - Karwacki, Krysten
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Knapp, Breanne
  - Koltun, Sarah
  - Larouche, Marie-France
@@ -124,7 +148,7 @@ vs:
  - Lilly, Kendra
  - Lister, Kendra
  - Logan, Emma
- - MacCuish, Kristin
+ - Lott, Kadriana
  - MacDonald, Kaitlin
  - Martin, Nancy
  - Mayne, Veronica
@@ -140,22 +164,31 @@ vs:
  - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
+ - Powers, Marlee
+ - Ramsay, Geri-Lynn
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Russell, Kayla
  - Schmiemann, Danielle
  - Shea, Michelle
  - Silvernagle, Robyn
  - Sippala, Ashley
  - Skinner, Kaylin
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Stremick, Taylor
  - Sturmay, Selena
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Ashley
  - Thevenot, Kara
  - Tuor, Kimberly
+ - Weagle, Julia
  - Weagle, Lisa
+ - White, Jenny
  - Wilkes, Sarah
 ---

@@ -378,6 +378,7 @@ vs:
  - George, Tara
  - Gignac, Donna
  - Gogan, Jennifer
+ - Gordon, Kristin
  - Goss, Peg
  - Grandy, Clancy
  - Greening, Jackie-Rae
@@ -427,7 +428,6 @@ vs:
  - Kerr, Kathy
  - Kidd, Darlene
  - King, Cathy
- - Kitz, Chaelynn
  - Kleibrink, Shannon
  - Klymchuk, Ashley
  - Knapp, Breanne
@@ -453,7 +453,6 @@ vs:
  - Loder, Cherie-Ann
  - Logan, Emma
  - Loken, Sarah
- - MacCuish, Kristin
  - MacDiarmid, Kristen
  - MacDonald, Kaitlin
  - MacInnes, Allison
@@ -523,7 +522,6 @@ vs:
  - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
- - Recksiedler, Kristen
  - Reed, Shellan
  - Richard, Marie
  - Ridalls, Kristen
@@ -536,6 +534,7 @@ vs:
  - Routledge, Alanna
  - Rudulier, Andrea
  - Rusnell, Jen
+ - Ryan, Kristen
  - Sabourin, Joelle
  - Sagle, Karen
  - Sandwith, Carley
@@ -565,6 +564,7 @@ vs:
  - St-Georges, Cynthia
  - St-Georges, Laurie
  - Stabel, Stacey
+ - Stewart, Chaelynn
  - Stewart, Sheri
  - Strachan, Angela
  - Streifel, Tracy

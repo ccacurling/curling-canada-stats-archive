@@ -170,34 +170,6 @@ vs:
       year: 2018
       draw: Round Robin(11)
       score: AB 11 - BC 1
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 89
-        wins: 1
-        losses: 0
-      player2:
-        percent: 75
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Second
-        percent: 89
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Third
-        percent: 75
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Pool(16)
-      score: AB 8 - NO 4
  - name: West, Christianne
    totals:
     - event: Hearts

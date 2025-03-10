@@ -2318,34 +2318,6 @@ vs:
       year: 2010
       draw: Final(22)
       score: CA 8 - PE 7
- - name: Recksiedler, Kristen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 1
-        losses: 0
-      player2:
-        percent: 45
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'CA'
-        position: Lead
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
-        position: Third
-        percent: 45
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(17)
-      score: CA 11 - BC 4
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -2606,6 +2578,34 @@ vs:
       year: 2013
       draw: Round Robin(14)
       score: QC 1 - MB 7
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 73
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(12)
+      score: MB 5 - NO 9
  - name: Rusnell, Jen
    totals:
     - event: Hearts
@@ -2650,6 +2650,34 @@ vs:
       year: 2019
       draw: Pool(19)
       score: CA 5 - BC 4
+ - name: Ryan, Kristen
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 45
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 45
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(17)
+      score: CA 11 - BC 4
  - name: Sabourin, Joelle
    totals:
     - event: Hearts
@@ -5254,34 +5282,6 @@ vs:
       year: 2011
       draw: Round Robin(17)
       score: CA 8 - AB 5
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 0
-        losses: 1
-      player2:
-        percent: 73
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent: 86
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Third
-        percent: 73
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(12)
-      score: MB 5 - NO 9
  - name: Westcott, Raunora
    totals:
     - event: Hearts

@@ -4,18 +4,18 @@ name: Kendra Lilly
 name-sort: Lilly, Kendra
 totals:
  - event: Hearts
-   games: 80
-   wins: 53
-   losses: 27
-   inturn-total: 852
+   games: 85
+   wins: 55
+   losses: 30
+   inturn-total: 899
    inturn-percent: 79
-   outturn-total: 711
+   outturn-total: 757
    outturn-percent: 80
-   draw-total: 702
+   draw-total: 742
    draw-percent: 76
-   takeout-total: 861
+   takeout-total: 914
    takeout-percent: 82
-   shots-total: 1563
+   shots-total: 1656
    shots-percent: 79
 years:
  - year: 2016
@@ -144,6 +144,24 @@ years:
    takeout-percent: 82
    shots-total: 98
    shots-percent: 78
+ - year: 2025
+   event: Hearts
+   team: "NO"
+   position: Second
+   alternate: false
+   games: 5
+   wins: 2
+   losses: 3
+   inturn-total: 47
+   inturn-percent: 81
+   outturn-total: 46
+   outturn-percent: 79
+   draw-total: 40
+   draw-percent: 74
+   takeout-total: 53
+   takeout-percent: 84
+   shots-total: 93
+   shots-percent: 80
 vs:
  - Ackerman, Skylar
  - Ackland, Abby
@@ -205,7 +223,9 @@ vs:
  - Fyfe, Liz
  - Galusha, Kerry
  - Gamble, Christie
+ - Gordon, Kristin
  - Griffin, Alison
+ - Gustafson, Leigh
  - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
@@ -235,12 +255,13 @@ vs:
  - Lawton, Stefanie
  - Lemay, Annie
  - Lenentine, Lauren
- - MacCuish, Kristin
+ - Lott, Kadriana
  - MacDonald, Kaitlin
  - MacPhail, Brigitte
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
+ - Martin, Nancy
  - Mattatall, Mary
  - Mayne, Veronica
  - McDonald, Taylor
@@ -269,7 +290,6 @@ vs:
  - Porter, Erin
  - Quillian, Sylvie
  - Rainville, Julie
- - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
@@ -277,6 +297,7 @@ vs:
  - Routledge, Alanna
  - Routledge, Jill
  - Rusnell, Jen
+ - Ryan, Kristen
  - Sagle, Karen
  - Sandwith, Carley
  - Saulnier, Andrea
@@ -293,6 +314,7 @@ vs:
  - Skinner, Kaylin
  - Smith, Sabrina
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Stremick, Taylor
  - Sturmay, Selena
  - Sweeting, Val
@@ -309,6 +331,7 @@ vs:
  - Walker, Laura
  - Walter, Meghan
  - Wark, Sarah
+ - Weagle, Julia
  - Weagle, Lisa
  - Westcott, Raunora
  - Wilkes, Sarah

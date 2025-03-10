@@ -80,6 +80,7 @@ vs:
  - Fyfe, Liz
  - Gamble, Christie
  - Gannon, Melissa
+ - Gordon, Kristin
  - Hamilton, Beth
  - Hill, Sarah
  - Homan, Rachel
@@ -93,7 +94,6 @@ vs:
  - Lawton, Stefanie
  - LeDrew, Stephanie
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacPhail, Brigitte

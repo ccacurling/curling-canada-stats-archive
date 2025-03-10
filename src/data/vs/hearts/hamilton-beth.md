@@ -450,34 +450,6 @@ vs:
       year: 2005
       draw: Round Robin(5)
       score: NL 3 - CA 7
- - name: Kitz, Chaelynn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 70
-        wins: 0
-        losses: 1
-      player2:
-        percent: 82
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NL'
-        position: Third
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 82
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(19)
-      score: SK 9 - NL 3
  - name: Klymchuk, Ashley
    totals:
     - event: Hearts
@@ -822,50 +794,6 @@ vs:
       year: 2020
       draw: Round Robin(7)
       score: NL 5 - NS 9
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 71
-        wins: 0
-        losses: 2
-      player2:
-        percent: 82
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'NL'
-        position: Third
-        percent: 73
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 84
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(17)
-      score: WC 11 - NL 2
-    - player1:
-        team: 'NL'
-        position: Second
-        percent: 68
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 81
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(13)
-      score: NL 3 - WC 8
  - name: MacDonald, Kaitlin
    totals:
     - event: Hearts
@@ -2234,6 +2162,34 @@ vs:
       year: 2021
       draw: Round Robin(15)
       score: QC 9 - NL 4
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 0
+        losses: 1
+      player2:
+        percent: 82
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 82
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(19)
+      score: SK 9 - NL 3
  - name: Strong, Helen
    totals:
     - event: Hearts

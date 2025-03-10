@@ -78,6 +78,7 @@ vs:
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
+ - Gordon, Kristin
  - Hamilton, Beth
  - Hill, Sarah
  - Hill, Trish
@@ -87,7 +88,6 @@ vs:
  - Kelly, Andrea
  - Koehler, Megan
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacPhail, Brigitte
  - MacPhee, Robyn

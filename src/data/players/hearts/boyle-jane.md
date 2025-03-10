@@ -106,6 +106,7 @@ vs:
  - Fleury, Tracy
  - Fyfe, Liz
  - Gates, Amanda
+ - Gordon, Kristin
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
@@ -125,7 +126,6 @@ vs:
  - Lawton, Stefanie
  - Lemay, Annie
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacPhee, Robyn
  - Mann, Lauren
  - McCarville, Krista
@@ -146,8 +146,8 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Rainville, Julie
- - Recksiedler, Kristen
  - Rusnell, Jen
+ - Ryan, Kristen
  - Sagle, Karen
  - Schmidt, Stephanie
  - Shea, Michelle

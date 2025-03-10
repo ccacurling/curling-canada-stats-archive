@@ -205,9 +205,9 @@ vs:
  - Potts, Sarah
  - Power, Marie-Anne
  - Provencal, Darah
- - Recksiedler, Kristen
  - Richards, Brette
  - Robertson, Darcy
+ - Ryan, Kristen
  - Sabourin, Joelle
  - Schraeder, Jeanna
  - Scott, Kelly

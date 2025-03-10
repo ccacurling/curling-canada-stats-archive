@@ -161,6 +161,7 @@ vs:
  - George, Tara
  - Gibson, Amy
  - Gilman, Sheena
+ - Gordon, Kristin
  - Harvey, Marie-Pier
  - Holland, Amber
  - Hughes, Meaghan
@@ -172,7 +173,6 @@ vs:
  - Koehler, Megan
  - Koltun, Sarah
  - Kreviazuk, Lynn
- - MacCuish, Kristin
  - MacDougall, Leslie
  - MacLean, Kari
  - MacPhee, Robyn
@@ -197,6 +197,7 @@ vs:
  - Porter, Erin
  - Rainville, Julie
  - Ramsay, Geri-Lynn
+ - Rumberg, Crystal
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schneider, Kim
@@ -216,7 +217,6 @@ vs:
  - Van Osch, Marika
  - Wallingham, Patty
  - Wasylkiw, Lauren
- - Webster, Crystal
  - West, Christianne
  - Westcott, Raunora
  - Wilson, Leslie

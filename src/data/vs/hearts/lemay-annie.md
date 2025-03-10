@@ -118,34 +118,6 @@ vs:
       year: 2004
       draw: Round Robin(13)
       score: QC 6 - PE 5
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 69
-        wins: 1
-        losses: 0
-      player2:
-        percent: 73
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Second
-        percent: 69
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 73
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(8)
-      score: MB 5 - QC 6
  - name: MacDonald, Rebecca Jean
    totals:
     - event: Hearts
@@ -2470,34 +2442,6 @@ vs:
       year: 2001
       draw: Round Robin(1)
       score: MB 8 - QC 5
- - name: Recksiedler, Kristen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 90
-        wins: 0
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Second
-        percent: 90
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
-        position: Third
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Round Robin(5)
-      score: QC 6 - BC 7
  - name: Reed, Shellan
    totals:
     - event: Hearts
@@ -2698,6 +2642,62 @@ vs:
       year: 1999
       draw: Round Robin(16)
       score: ON 8 - QC 7
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 0
+        losses: 1
+      player2:
+        percent: 50
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 50
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2011
+      draw: Round Robin(12)
+      score: QC 4 - AB 9
+ - name: Ryan, Kristen
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Second
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Round Robin(5)
+      score: QC 6 - BC 7
  - name: Sagle, Karen
    totals:
     - event: Hearts
@@ -4120,34 +4120,6 @@ vs:
         team: 'AB'
         position: Second
         percent: 89
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2011
-      draw: Round Robin(12)
-      score: QC 4 - AB 9
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 0
-        losses: 1
-      player2:
-        percent: 50
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent: 73
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Lead
-        percent: 50
         win: 1
         loss: 0
       event: Hearts

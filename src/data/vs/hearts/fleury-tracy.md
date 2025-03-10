@@ -218,6 +218,34 @@ vs:
       year: 2018
       draw: Pool(20)
       score: NO 7 - BC 5
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Round Robin(8)
+      score: NO 7 - WC 5
  - name: Grandy, Clancy
    totals:
     - event: Hearts
@@ -274,6 +302,34 @@ vs:
       year: 2019
       draw: Round Robin(11)
       score: MB 12 - NU 2
+ - name: Gustafson, Leigh
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Second
+        percent: 67
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(15)
+      score: NU 3 - CA 9
  - name: Harris, Briane
    totals:
     - event: Hearts
@@ -358,6 +414,34 @@ vs:
       year: 2023
       draw: Round Robin(17)
       score: ON 9 - WC 5
+ - name: Hawes, Dezaray
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(17)
+      score: AB 4 - CA 8
  - name: Helston, Raelyn
    totals:
     - event: Hearts
@@ -542,6 +626,34 @@ vs:
       year: 2012
       draw: Round Robin(6)
       score: ON 4 - AB 8
+ - name: Jenkins, Whitney
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 67
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(1)
+      score: CA 13 - PE 4
  - name: Jones, Jennifer
    totals:
     - event: Hearts
@@ -726,13 +838,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 94
-        wins: 1
+        percent: 87
+        wins: 3
         losses: 0
       player2:
-        percent: 91
+        percent: 90
         wins: 0
-        losses: 1
+        losses: 3
    games:
     - player1:
         team: 'ON'
@@ -750,6 +862,38 @@ vs:
       year: 2024
       draw: Playoff(19)
       score: ON 8 - CA 4
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Page 1-2(22)
+      score: MB 4 - CA 8
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Final(24)
+      score: MB 1 - CA 6
  - name: Kasner, Marliese
    totals:
     - event: Hearts
@@ -782,13 +926,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 95
-        wins: 1
+        percent: 90
+        wins: 2
         losses: 1
       player2:
-        percent: 84
+        percent: 82
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'ON'
@@ -822,6 +966,22 @@ vs:
       year: 2023
       draw: Round Robin(16)
       score: NB 3 - ON 5
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(3)
+      score: CA 10 - NO 7
  - name: Knezevic, Patti
    totals:
     - event: Hearts
@@ -898,13 +1058,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 78
-        wins: 2
+        percent: 81
+        wins: 3
         losses: 1
       player2:
-        percent: 77
+        percent: 80
         wins: 1
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'NO'
@@ -954,6 +1114,22 @@ vs:
       year: 2024
       draw: Round Robin(2)
       score: NT 5 - ON 9
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Second
+        percent: 89
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(13)
+      score: CA 7 - BC 5
  - name: Korab, Stephanie
    totals:
     - event: Hearts
@@ -1290,13 +1466,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 73
-        wins: 1
+        percent: 78
+        wins: 2
         losses: 1
       player2:
-        percent: 88
+        percent: 91
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NO'
@@ -1330,6 +1506,22 @@ vs:
       year: 2024
       draw: Round Robin(16)
       score: NB 3 - ON 9
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(11)
+      score: NB 4 - CA 7
  - name: Loken, Sarah
    totals:
     - event: Hearts
@@ -1358,34 +1550,34 @@ vs:
       year: 2024
       draw: Round Robin(14)
       score: ON 10 - BC 3
- - name: MacCuish, Kristin
+ - name: Lott, Kadriana
    totals:
     - event: Hearts
       player1:
-        percent: 79
+        percent: 99
         wins: 1
         losses: 0
       player2:
-        percent: 86
+        percent: 85
         wins: 0
         losses: 1
    games:
     - player1:
-        team: 'NO'
-        position: Fourth
-        percent: 79
+        team: 'CA'
+        position: Third
+        percent: 99
         win: 1
         loss: 0
       player2:
-        team: 'WC'
-        position: Lead
-        percent: 86
+        team: 'SK'
+        position: Second
+        percent: 85
         win: 0
         loss: 1
       event: Hearts
-      year: 2018
-      draw: Round Robin(8)
-      score: NO 7 - WC 5
+      year: 2025
+      draw: Round Robin(9)
+      score: SK 6 - CA 9
  - name: MacDonald, Rebecca Jean
    totals:
     - event: Hearts
@@ -1498,6 +1690,34 @@ vs:
       year: 2015
       draw: Round Robin(4)
       score: QC 6 - NO 10
+ - name: Martin, Nancy
+   totals:
+    - event: Hearts
+      player1:
+        percent: 99
+        wins: 1
+        losses: 0
+      player2:
+        percent: 64
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 99
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Fourth
+        percent: 64
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(9)
+      score: SK 6 - CA 9
  - name: Materi, Roberta
    totals:
     - event: Hearts
@@ -1526,17 +1746,45 @@ vs:
       year: 2012
       draw: Round Robin(8)
       score: SK 10 - ON 3
+ - name: Mayne, Veronica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 48
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 48
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(1)
+      score: CA 13 - PE 4
  - name: McCarville, Krista
    totals:
     - event: Hearts
       player1:
-        percent: 73
-        wins: 2
+        percent: 74
+        wins: 3
         losses: 2
       player2:
-        percent: 79
+        percent: 77
         wins: 2
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'MB'
@@ -1602,6 +1850,22 @@ vs:
       year: 2023
       draw: Round Robin(6)
       score: ON 7 - NO 5
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(3)
+      score: CA 10 - NO 7
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -2186,6 +2450,34 @@ vs:
       year: 2015
       draw: Round Robin(4)
       score: QC 6 - NO 10
+ - name: Papley, Paige
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 82
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 82
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(17)
+      score: AB 4 - CA 8
  - name: Parsons, Danielle
    totals:
     - event: Hearts
@@ -2330,17 +2622,45 @@ vs:
       year: 2019
       draw: Tie-Breaker(15)
       score: BC 8 - MB 5
+ - name: Pincott, Erin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(13)
+      score: CA 7 - BC 5
  - name: Pinksen, Sadie
    totals:
     - event: Hearts
       player1:
-        percent: 84
-        wins: 1
+        percent: 86
+        wins: 2
         losses: 0
       player2:
-        percent: 94
+        percent: 84
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'MB'
@@ -2358,17 +2678,33 @@ vs:
       year: 2019
       draw: Round Robin(11)
       score: MB 12 - NU 2
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(15)
+      score: NU 3 - CA 9
  - name: Potts, Sarah
    totals:
     - event: Hearts
       player1:
-        percent: 73
-        wins: 2
+        percent: 74
+        wins: 3
         losses: 2
       player2:
-        percent: 84
+        percent: 86
         wins: 2
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'MB'
@@ -2434,6 +2770,22 @@ vs:
       year: 2023
       draw: Round Robin(6)
       score: ON 7 - NO 5
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(3)
+      score: CA 10 - NO 7
  - name: Price, Kara
    totals:
     - event: Hearts
@@ -2522,6 +2874,34 @@ vs:
       year: 2023
       draw: Round Robin(16)
       score: NB 3 - ON 5
+ - name: Ramsay, Geri-Lynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 85
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(5)
+      score: CA 9 - AB 7
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -2682,6 +3062,34 @@ vs:
       year: 2019
       draw: Tie-Breaker(15)
       score: BC 8 - MB 5
+ - name: Russell, Kayla
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Second
+        percent: 85
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(11)
+      score: NB 4 - CA 7
  - name: Sagle, Karen
    totals:
     - event: Hearts
@@ -2854,6 +3262,34 @@ vs:
       year: 2015
       draw: Round Robin(13)
       score: SK 5 - NO 6
+ - name: Schmiemann, Danielle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(17)
+      score: AB 4 - CA 8
  - name: Schneider, Kim
    totals:
     - event: Hearts
@@ -2970,13 +3406,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 74
-        wins: 2
+        percent: 75
+        wins: 3
         losses: 1
       player2:
-        percent: 79
+        percent: 77
         wins: 1
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'WC'
@@ -3026,6 +3462,78 @@ vs:
       year: 2023
       draw: Round Robin(6)
       score: ON 7 - NO 5
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(3)
+      score: CA 10 - NO 7
+ - name: Skrlik, Ashton
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(5)
+      score: CA 9 - AB 7
+ - name: Skrlik, Kayla
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 59
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 59
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(5)
+      score: CA 9 - AB 7
  - name: Slywka, Sarah
    totals:
     - event: Hearts
@@ -3126,6 +3634,34 @@ vs:
       year: 2024
       draw: Round Robin(18)
       score: NS 3 - ON 6
+ - name: Smith, Sabrina
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 55
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 55
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(1)
+      score: CA 13 - PE 4
  - name: Smith, Stacey
    totals:
     - event: Hearts
@@ -3182,6 +3718,34 @@ vs:
       year: 2015
       draw: Round Robin(6)
       score: NS 4 - NO 8
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 99
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 99
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(9)
+      score: SK 6 - CA 9
  - name: Strong, Heather
    totals:
     - event: Hearts
@@ -3254,17 +3818,45 @@ vs:
       year: 2012
       draw: Round Robin(13)
       score: ON 7 - NL 4
+ - name: Sturmay, Selena
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 83
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(17)
+      score: AB 4 - CA 8
  - name: Sweeting, Val
    totals:
     - event: Hearts
       player1:
-        percent: 81
-        wins: 1
+        percent: 82
+        wins: 3
         losses: 2
       player2:
-        percent: 82
+        percent: 83
         wins: 2
-        losses: 1
+        losses: 3
    games:
     - player1:
         team: 'NO'
@@ -3314,6 +3906,66 @@ vs:
       year: 2024
       draw: Playoff(19)
       score: ON 8 - CA 4
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Page 1-2(22)
+      score: MB 4 - CA 8
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Final(24)
+      score: MB 1 - CA 6
+ - name: Taylor, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(15)
+      score: NU 3 - CA 9
  - name: Trombley, Christy
    totals:
     - event: Hearts
@@ -3642,6 +4294,34 @@ vs:
       year: 2019
       draw: Tie-Breaker(15)
       score: BC 8 - MB 5
+ - name: Weagle, Julia
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 58
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Fourth
+        percent: 58
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(15)
+      score: NU 3 - CA 9
  - name: Weagle, Lisa
    totals:
     - event: Hearts

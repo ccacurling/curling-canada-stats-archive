@@ -212,6 +212,7 @@ vs:
  - Galusha, Kerry
  - George, Tara
  - Gilman, Sheena
+ - Gordon, Kristin
  - Goss, Peg
  - Gregoire, Veronique
  - Gudereit, Marcia
@@ -249,7 +250,6 @@ vs:
  - Lemon, Colette
  - Lenentine, Lauren
  - Loder, Cherie-Ann
- - MacCuish, Kristin
  - MacDiarmid, Kristen
  - MacDougall, Leslie
  - MacInnes, Allison

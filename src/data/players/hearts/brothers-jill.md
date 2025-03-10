@@ -4,19 +4,19 @@ name: Jill Brothers
 name-sort: Brothers, Jill
 totals:
  - event: Hearts
-   games: 63
-   wins: 24
-   losses: 39
-   inturn-total: 650
-   inturn-percent: 76
-   outturn-total: 536
-   outturn-percent: 72
-   draw-total: 548
-   draw-percent: 70
-   takeout-total: 638
-   takeout-percent: 77
-   shots-total: 1186
-   shots-percent: 74
+   games: 75
+   wins: 32
+   losses: 43
+   inturn-total: 758
+   inturn-percent: 77
+   outturn-total: 666
+   outturn-percent: 74
+   draw-total: 647
+   draw-percent: 73
+   takeout-total: 777
+   takeout-percent: 79
+   shots-total: 1424
+   shots-percent: 76
 years:
  - year: 2007
    event: Hearts
@@ -144,6 +144,24 @@ years:
    takeout-percent: 82
    shots-total: 156
    shots-percent: 78
+ - year: 2025
+   event: Hearts
+   team: "NS"
+   position: Third
+   alternate: false
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 108
+   inturn-percent: 87
+   outturn-total: 130
+   outturn-percent: 86
+   draw-total: 99
+   draw-percent: 88
+   takeout-total: 139
+   takeout-percent: 85
+   shots-total: 238
+   shots-percent: 86
 vs:
  - Ackland, Abby
  - Adams, Melissa
@@ -162,6 +180,7 @@ vs:
  - Bodner, Jenine
  - Boudreault, Patricia
  - Boyle, Jane
+ - Brown, Corryn
  - Brown, Rachel
  - Brunton, Kira
  - Burgess, Karlee
@@ -177,6 +196,7 @@ vs:
  - Court, Morgan
  - Courtney, Joanne
  - Crandall, Jaclyn
+ - Cullen, Brianna
  - Curtis, Erica
  - Curtis, Stacie
  - Daigle, Julie
@@ -196,6 +216,7 @@ vs:
  - Einarson, Kerri
  - Elias, Mackenzie
  - Ferguson, Dana
+ - Fisher, Sam
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy
@@ -204,10 +225,13 @@ vs:
  - Fyfe, Liz
  - Gagnier, Monique
  - Galusha, Kerry
+ - Galusha, Sydney
  - Gannon, Melissa
  - Gates, Amanda
  - Gates, Jennifer
  - George, Tara
+ - Godsland, Brooke
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
  - Gudereit, Marcia
@@ -219,17 +243,21 @@ vs:
  - Haughian, Jessie
  - Helston, Raelyn
  - Homan, Rachel
+ - Horte, Bailey
  - Hughes, Meaghan
  - Hynes, Julie
  - Inglis, Danielle
  - Inglis, Nancy
  - Jones, Jennifer
+ - Karwacki, Krysten
  - Kasner, Marliese
  - Kelly, Andrea
+ - Koehler, Megan
  - Koltun, Sarah
  - Kreviazuk, Alison
  - Kreviazuk, Cheryl
  - Kreviazuk, Lynn
+ - Lamswood, Sarah
  - Lang, Lorraine
  - Larouche, Marie-France
  - Lavery, Tracey
@@ -243,7 +271,6 @@ vs:
  - Lister, Kendra
  - Loder, Jenna
  - Loken, Sarah
- - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacMillan, Kayla
  - MacPhee, Robyn
@@ -275,6 +302,7 @@ vs:
  - Peters, Laine
  - Peterson, Beth
  - Pilote, Kristen
+ - Pincott, Erin
  - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
@@ -282,13 +310,15 @@ vs:
  - Provencal, Darah
  - Quillian, Sylvie
  - Rainville, Julie
- - Recksiedler, Kristen
+ - Ramsay, Geri-Lynn
  - Reid, Jackie
  - Richard, Marie
+ - Riley, Emily
  - Rizzo, Jo-Ann
  - Rocque, Kelsey
  - Ross, Allison
  - Rusnell, Jen
+ - Ryan, Kristen
  - Sagle, Karen
  - Sanderson, Jessie
  - Sandwith, Carley
@@ -299,9 +329,13 @@ vs:
  - Sharpe, Kelli
  - Simons, Renee
  - Sinclair, Andrea
+ - Sinclair, Jamie
  - Singler, Sherri
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smith, Megan
+ - St-Georges, Laurie
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany

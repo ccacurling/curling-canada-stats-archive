@@ -332,6 +332,7 @@ vs:
  - George, Tara
  - Gibson, Amy
  - Gilman, Sheena
+ - Gordon, Kristin
  - Goss, Peg
  - Gregoire, Veronique
  - Gushulak, Diane
@@ -386,7 +387,6 @@ vs:
  - Lister, Kendra
  - Logan, Emma
  - Lowther, Tammi
- - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacInnes, Allison
@@ -448,7 +448,6 @@ vs:
  - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
- - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
  - Rizzo, Jo-Ann
@@ -456,7 +455,9 @@ vs:
  - Rocque, Raylene
  - Rogers, Rhonda
  - Ross, Allison
+ - Rumberg, Crystal
  - Rusnell, Jen
+ - Ryan, Kristen
  - Sabourin, Joelle
  - Sagle, Karen
  - Sandwith, Carley
@@ -510,7 +511,6 @@ vs:
  - Wazney, Sarah
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - Westcott, Raunora
  - Whitaker, Carol
  - Wilkes, Sarah

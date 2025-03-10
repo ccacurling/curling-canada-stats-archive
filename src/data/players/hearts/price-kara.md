@@ -54,19 +54,19 @@ vs:
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
+ - Gordon, Kristin
  - Hutchings, Denise
  - Jones, Jennifer
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
  - Lister, Kendra
- - MacCuish, Kristin
  - Mackey, Robyn
  - McEwen, Dawn
  - Njegovan, Selena
  - Officer, Jill
  - Quillian, Sylvie
- - Webster, Crystal
+ - Rumberg, Crystal
  - West, Christianne
  - Wylie, Jennifer
 ---

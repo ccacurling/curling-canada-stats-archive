@@ -224,6 +224,7 @@ vs:
  - Gamble, Christie
  - Gates, Jennifer
  - Gibson, Amy
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
  - Guzzwell, Stephanie
@@ -246,7 +247,6 @@ vs:
  - Just, Sherry
  - Karwacki, Krysten
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Klymchuk, Ashley
  - Knapp, Breanne
  - Koehler, Megan
@@ -262,7 +262,6 @@ vs:
  - Lister, Kendra
  - Logan, Emma
  - Loken, Sarah
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - Mackey, Robyn
  - MacMillan, Kayla
@@ -300,13 +299,13 @@ vs:
  - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
- - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Routledge, Alanna
  - Rusnell, Jen
+ - Ryan, Kristen
  - Sagle, Karen
  - Sandwith, Carley
  - Saulnier, Andrea
@@ -325,6 +324,7 @@ vs:
  - Skrlik, Kayla
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Strong, Helen
  - Sweeting, Val
  - Taylor, Alison

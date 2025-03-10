@@ -77,18 +77,17 @@ vs:
  - Forward, Katie
  - Fyfe, Liz
  - Gamble, Christie
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
  - Hawes, Dezaray
  - Hughes, Meaghan
  - Jones, Jennifer
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Knapp, Breanne
  - Lawes, Kaitlyn
  - Lilly, Kendra
  - Lister, Kendra
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacPhail, Brigitte
  - Martin, Nancy
@@ -107,6 +106,7 @@ vs:
  - Sippala, Ashley
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Taylor, Alison
  - Weagle, Lisa
  - Wilkes, Sarah

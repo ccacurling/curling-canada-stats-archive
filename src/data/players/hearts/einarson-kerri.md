@@ -4,19 +4,19 @@ name: Kerri Einarson
 name-sort: Einarson, Kerri
 totals:
  - event: Hearts
-   games: 88
-   wins: 69
-   losses: 19
-   inturn-total: 800
-   inturn-percent: 82
-   outturn-total: 822
+   games: 100
+   wins: 77
+   losses: 23
+   inturn-total: 937
+   inturn-percent: 81
+   outturn-total: 918
    outturn-percent: 82
-   draw-total: 676
+   draw-total: 775
    draw-percent: 79
-   takeout-total: 946
-   takeout-percent: 84
-   shots-total: 1622
-   shots-percent: 82
+   takeout-total: 1080
+   takeout-percent: 83
+   shots-total: 1855
+   shots-percent: 81
 years:
  - year: 2016
    event: Hearts
@@ -144,6 +144,24 @@ years:
    takeout-percent: 81
    shots-total: 186
    shots-percent: 81
+ - year: 2025
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   alternate: false
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 137
+   inturn-percent: 78
+   outturn-total: 96
+   outturn-percent: 80
+   draw-total: 99
+   draw-percent: 79
+   takeout-total: 134
+   takeout-percent: 79
+   shots-total: 233
+   shots-percent: 79
 vs:
  - Ackerman, Skylar
  - Adams, Melissa
@@ -173,6 +191,7 @@ vs:
  - Brunton, Kira
  - Burgess, Karlee
  - Burns, Krysta
+ - Burt, Camille
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
@@ -182,8 +201,11 @@ vs:
  - Cote, Marie-Pier
  - Courtney, Joanne
  - Crouse, Jennifer
+ - Cullen, Brianna
  - Curtis, Erica
  - Curtis, Stacie
+ - Daly, Calissa
+ - deGroot, Cassandra
  - DiCarlo, Jane
  - Doerksen, Katherine
  - Dolan, Sinead
@@ -206,9 +228,12 @@ vs:
  - Foster, Kerry
  - Fyfe, Liz
  - Galusha, Kerry
+ - Galusha, Sydney
  - Gates, Amanda
  - Gates, Jennifer
  - Gibson, Amy
+ - Godsland, Brooke
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
  - Gustafson, Leigh
@@ -217,22 +242,25 @@ vs:
  - Hanna, Jenn
  - Hanna, Stephanie
  - Hawes, Dezaray
+ - Helston, Raelyn
  - Homan, Rachel
+ - Horte, Bailey
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hynes, Julie
+ - Inglis, Danielle
  - Jenkins, Whitney
  - Jones, Jennifer
  - Just, Sherry
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Klymchuk, Ashley
  - Knapp, Breanne
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
  - Kreviazuk, Cheryl
+ - Lamswood, Sarah
  - Larouche, Marie-France
  - Lavery, Tracey
  - Lawes, Kaitlyn
@@ -246,7 +274,6 @@ vs:
  - Loder, Jenna
  - Logan, Emma
  - Loken, Sarah
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacMillan, Kayla
  - MacPhail, Brigitte
@@ -274,17 +301,19 @@ vs:
  - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
+ - Powers, Marlee
  - Price, Kara
  - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
- - Recksiedler, Kristen
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Rocque, Kelsey
  - Routledge, Alanna
  - Routledge, Jill
+ - Rumberg, Crystal
+ - Ryan, Kristen
  - Sagle, Karen
  - Schafer, Kelly
  - Scheidegger, Casey
@@ -292,12 +321,14 @@ vs:
  - Schmidt, Stephanie
  - Schmiemann, Danielle
  - Schraeder, Jeanna
+ - Scoffin, Bayly
  - Scotland, Nadine
  - Shea, Michelle
  - Silvernagle, Robyn
  - Simons, Renee
  - Sinclair, Jamie
  - Sippala, Ashley
+ - Skauge, Ella
  - Skinner, Kaylin
  - Skrlik, Ashton
  - Skrlik, Kayla
@@ -306,6 +337,7 @@ vs:
  - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Stremick, Taylor
  - Strybosch, Rachelle
  - Sturmay, Selena
@@ -325,7 +357,6 @@ vs:
  - Walker, Laura
  - Walter, Meghan
  - Weagle, Lisa
- - Webster, Crystal
  - Westcott, Raunora
  - Wilkes, Sarah
  - Williamson, Ashley

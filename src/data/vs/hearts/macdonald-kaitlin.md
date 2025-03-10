@@ -1018,6 +1018,34 @@ vs:
       year: 2023
       draw: Round Robin(5)
       score: QC 13 - NU 5
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 61
+        wins: 0
+        losses: 1
+      player2:
+        percent: 67
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Lead
+        percent: 61
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 67
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(4)
+      score: NU 3 - SK 9
  - name: Sweeting, Val
    totals:
     - event: Hearts

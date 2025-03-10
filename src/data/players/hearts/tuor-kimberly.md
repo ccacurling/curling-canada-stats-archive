@@ -4,19 +4,19 @@ name: Kimberly Tuor
 name-sort: Tuor, Kimberly
 totals:
  - event: Hearts
-   games: 28
+   games: 31
    wins: 1
-   losses: 27
-   inturn-total: 252
-   inturn-percent: 81
-   outturn-total: 243
-   outturn-percent: 75
-   draw-total: 408
-   draw-percent: 80
-   takeout-total: 87
-   takeout-percent: 70
-   shots-total: 495
-   shots-percent: 78
+   losses: 30
+   inturn-total: 280
+   inturn-percent: 79
+   outturn-total: 271
+   outturn-percent: 74
+   draw-total: 437
+   draw-percent: 78
+   takeout-total: 114
+   takeout-percent: 71
+   shots-total: 551
+   shots-percent: 76
 years:
  - year: 2020
    event: Hearts
@@ -90,6 +90,24 @@ years:
    takeout-percent: 85
    shots-total: 84
    shots-percent: 83
+ - year: 2025
+   event: Hearts
+   team: "YT"
+   position: Second
+   alternate: true
+   games: 3
+   wins: 0
+   losses: 3
+   inturn-total: 28
+   inturn-percent: 63
+   outturn-total: 28
+   outturn-percent: 61
+   draw-total: 29
+   draw-percent: 53
+   takeout-total: 27
+   takeout-percent: 71
+   shots-total: 56
+   shots-percent: 62
 vs:
  - Ackland, Abby
  - Armstrong, Hailey
@@ -114,6 +132,7 @@ vs:
  - Christianson, Marie
  - Clarke, Kristin
  - Courtney, Joanne
+ - Cullen, Brianna
  - Curtis, Erica
  - Curtis, Stacie
  - Daly, Calissa
@@ -163,6 +182,7 @@ vs:
  - Scotland, Nadine
  - Shea, Michelle
  - Simons, Renee
+ - Sinclair, Jamie
  - Sippala, Ashley
  - Smith, Heather
  - St-Georges, Laurie

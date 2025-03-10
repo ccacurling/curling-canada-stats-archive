@@ -107,6 +107,7 @@ vs:
  - Fleury, Tracy
  - Fyfe, Liz
  - Gates, Jennifer
+ - Gordon, Kristin
  - Griffin, Alison
  - Hamon, Callan
  - Hanna, Jenn
@@ -124,7 +125,6 @@ vs:
  - Lawes, Kaitlyn
  - Lemay, Annie
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacPhee, Robyn
  - McCarville, Krista
  - McEwen, Dawn
@@ -144,9 +144,9 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Rainville, Julie
- - Recksiedler, Kristen
  - Richard, Marie
  - Rusnell, Jen
+ - Ryan, Kristen
  - Sagle, Karen
  - Sandwith, Carley
  - Sippala, Ashley

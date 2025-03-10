@@ -151,6 +151,7 @@ vs:
  - Galusha, Kerry
  - Gamble, Christie
  - Gauthier, Cathy
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
  - Hanna, Jenn
@@ -165,7 +166,6 @@ vs:
  - Kasner, Marliese
  - Kelly, Andrea
  - Kelly, Kim
- - Kitz, Chaelynn
  - Klymchuk, Ashley
  - Knapp, Breanne
  - Koltun, Sarah
@@ -176,7 +176,6 @@ vs:
  - Lilly, Kendra
  - Lister, Kendra
  - Logan, Emma
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacPhail, Brigitte
@@ -219,6 +218,7 @@ vs:
  - Sippala, Ashley
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Strong, Helen
  - Taylor, Alison
  - Thevenot, Kara

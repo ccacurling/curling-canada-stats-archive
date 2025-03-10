@@ -1,35 +1,7 @@
 ---
-title: Kristen Recksiedler Head-to-head
-name: Recksiedler, Kristen
+title: Kristen Ryan Head-to-head
+name: Ryan, Kristen
 vs:
- - name: Richard, Marie
-   totals:
-    - event: Hearts
-      player1:
-        percent: 80
-        wins: 1
-        losses: 0
-      player2:
-        percent: 80
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'BC'
-        position: Third
-        percent: 80
-        win: 1
-        loss: 0
-      player2:
-        team: 'NB'
-        position: Second
-        percent: 80
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(15)
-      score: NB 5 - BC 7
  - name: Sagle, Karen
    totals:
     - event: Hearts
@@ -102,6 +74,34 @@ vs:
       year: 2017
       draw: Round Robin(10)
       score: NO 8 - BC 3
+ - name: Taylor, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 63
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 63
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(9)
+      score: BC 10 - NU 3
  - name: Udle, Teri
    totals:
     - event: Hearts
@@ -158,6 +158,34 @@ vs:
       year: 2016
       draw: Round Robin(11)
       score: BC 7 - NL 10
+ - name: Weagle, Julia
+   totals:
+    - event: Hearts
+      player1:
+        percent: 63
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 63
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(9)
+      score: BC 10 - NU 3
  - name: Williamson, Ashley
    totals:
     - event: Hearts

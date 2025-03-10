@@ -45,6 +45,7 @@ vs:
  - Curtis, Stacie
  - Einarson, Kerri
  - Fyfe, Liz
+ - Gordon, Kristin
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
@@ -56,7 +57,6 @@ vs:
  - Lawes, Kaitlyn
  - Lemay, Annie
  - Lilly, Kendra
- - MacCuish, Kristin
  - McCarville, Krista
  - McEwen, Dawn
  - Murphy, Sarah

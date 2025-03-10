@@ -2,34 +2,6 @@
 title: Cheryl Kreviazuk Head-to-head
 name: Kreviazuk, Cheryl
 vs:
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 0
-        losses: 1
-      player2:
-        percent: 76
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'ON'
-        position: Second
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 76
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Pool(16)
-      score: ON 5 - WC 7
  - name: MacPhee, Robyn
    totals:
     - event: Hearts
@@ -482,6 +454,34 @@ vs:
       year: 2020
       draw: Round Robin(11)
       score: NT 5 - ON 9
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'ON'
+        position: Second
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Pool(19)
+      score: NO 8 - ON 6
  - name: Rusnell, Jen
    totals:
     - event: Hearts
@@ -806,34 +806,6 @@ vs:
       year: 2019
       draw: Round Robin(13)
       score: ON 8 - BC 6
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 0
-        losses: 1
-      player2:
-        percent: 85
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'ON'
-        position: Second
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Third
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Pool(19)
-      score: NO 8 - ON 6
  - name: West, Christianne
    totals:
     - event: Hearts

@@ -566,6 +566,34 @@ vs:
       year: 2018
       draw: Round Robin(1)
       score: BC 2 - CA 6
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 94
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Pool(19)
+      score: WC 5 - CA 8
  - name: Goring, Alison
    totals:
     - event: Hearts
@@ -2706,34 +2734,6 @@ vs:
       year: 2001
       draw: Round Robin(16)
       score: SK 2 - PE 7
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 80
-        wins: 1
-        losses: 0
-      player2:
-        percent: 94
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'CA'
-        position: Fourth
-        percent: 80
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 94
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Pool(19)
-      score: WC 5 - CA 8
  - name: MacDonald, Rebecca Jean
    totals:
     - event: Hearts
@@ -5238,6 +5238,34 @@ vs:
       year: 1989
       draw: Round Robin(2)
       score: SK 10 - TR 1
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 67
+        wins: 0
+        losses: 1
+      player2:
+        percent: 97
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'CA'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 97
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Pool(17)
+      score: CA 3 - NO 8
  - name: Ryan, Diane
    totals:
     - event: Hearts
@@ -7114,34 +7142,6 @@ vs:
       year: 2008
       draw: Round Robin(17)
       score: AB 10 - SK 3
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 67
-        wins: 0
-        losses: 1
-      player2:
-        percent: 97
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'CA'
-        position: Fourth
-        percent: 67
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Third
-        percent: 97
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Pool(17)
-      score: CA 3 - NO 8
  - name: Werenka, Lil
    totals:
     - event: Hearts

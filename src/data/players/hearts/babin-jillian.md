@@ -177,6 +177,7 @@ vs:
  - Gates, Jennifer
  - George, Tara
  - Gilman, Sheena
+ - Gordon, Kristin
  - Gregoire, Veronique
  - Griffin, Alison
  - Guzzwell, Stephanie
@@ -207,7 +208,6 @@ vs:
  - Lemay, Annie
  - Lemon, Colette
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie

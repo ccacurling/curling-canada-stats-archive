@@ -4,19 +4,19 @@ name: Laurie St-Georges
 name-sort: St-Georges, Laurie
 totals:
  - event: Hearts
-   games: 37
-   wins: 18
-   losses: 19
-   inturn-total: 350
+   games: 45
+   wins: 23
+   losses: 22
+   inturn-total: 422
    inturn-percent: 72
-   outturn-total: 350
-   outturn-percent: 73
-   draw-total: 323
-   draw-percent: 72
-   takeout-total: 377
-   takeout-percent: 73
-   shots-total: 700
-   shots-percent: 73
+   outturn-total: 418
+   outturn-percent: 75
+   draw-total: 395
+   draw-percent: 73
+   takeout-total: 445
+   takeout-percent: 75
+   shots-total: 840
+   shots-percent: 74
 years:
  - year: 2021
    event: Hearts
@@ -90,6 +90,24 @@ years:
    takeout-percent: 74
    shots-total: 145
    shots-percent: 72
+ - year: 2025
+   event: Hearts
+   team: "QC"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 72
+   inturn-percent: 75
+   outturn-total: 68
+   outturn-percent: 83
+   draw-total: 72
+   draw-percent: 73
+   takeout-total: 68
+   takeout-percent: 86
+   shots-total: 140
+   shots-percent: 79
 vs:
  - Ackerman, Skylar
  - Adams, Melissa
@@ -106,8 +124,10 @@ vs:
  - Birt, Suzanne
  - Black, Christina
  - Bobbie, Tess
+ - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Brunton, Kira
  - Burgess, Karlee
  - Burt, Camille
  - Cameron, Kate
@@ -116,43 +136,54 @@ vs:
  - Christianson, Marie
  - Courtney, Joanne
  - Crandall, Jaclyn
+ - Cullen, Brianna
  - Curtis, Erica
  - Curtis, Stacie
+ - Daly, Calissa
+ - deGroot, Cassandra
  - DiCarlo, Jane
  - Doerksen, Katherine
  - Dubue, Lindsay
  - Duncan, Hollie
  - Eddy, Lori
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Everist, Karlee
  - Fisher, Sam
  - Flemming, Margot
  - Foster, Kerry
  - Fyfe, Liz
  - Galusha, Kerry
+ - Galusha, Sydney
+ - Godsland, Brooke
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
  - Hamilton, Beth
  - Harris, Briane
  - Hawes, Dezaray
+ - Hebert, Rebecca
+ - Helston, Raelyn
  - Hill, Sarah
  - Homan, Rachel
+ - Horte, Bailey
  - Hughes, Meaghan
+ - Inglis, Danielle
  - Jenkins, Whitney
  - Jones, Jennifer
  - Just, Sherry
  - Karwacki, Krysten
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Knapp, Breanne
+ - Koehler, Megan
  - Koltun, Sarah
+ - Lamswood, Sarah
  - Lawes, Kaitlyn
  - Lenentine, Lauren
  - Lilly, Kendra
  - Lister, Kendra
  - Loder, Jenna
  - Loken, Sarah
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacMillan, Kayla
  - MacPhail, Brigitte
@@ -168,9 +199,11 @@ vs:
  - Peterson, Beth
  - Pincott, Erin
  - Pinksen, Sadie
+ - Porter, Erin
  - Potts, Sarah
  - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
+ - Rumberg, Crystal
  - Schafer, Kelly
  - Schmiemann, Danielle
  - Schraeder, Jeanna
@@ -178,10 +211,12 @@ vs:
  - Shea, Michelle
  - Silvernagle, Robyn
  - Simons, Renee
+ - Skauge, Ella
  - Skinner, Kaylin
  - Skrlik, Ashton
  - Skrlik, Kayla
  - Smith, Sabrina
+ - Stewart, Chaelynn
  - Stremick, Taylor
  - Strybosch, Rachelle
  - Sturmay, Selena
@@ -194,7 +229,6 @@ vs:
  - Walker, Laura
  - Wallingham, Patty
  - Weagle, Lisa
- - Webster, Crystal
  - Wilkes, Sarah
  - Wiseman, Jessica
  - Zacharias, Emily

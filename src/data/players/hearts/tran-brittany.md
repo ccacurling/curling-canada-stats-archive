@@ -104,6 +104,7 @@ vs:
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
+ - Gordon, Kristin
  - Grandy, Clancy
  - Guy, Sara
  - Guzzwell, Stephanie
@@ -118,14 +119,12 @@ vs:
  - Jones, Jennifer
  - Just, Sherry
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Knapp, Breanne
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lenentine, Lauren
  - Logan, Emma
  - Loken, Sarah
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacMillan, Kayla
  - MacPhail, Brigitte
@@ -151,6 +150,7 @@ vs:
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Strong, Helen
  - Sweeting, Val
  - Taylor, Alison

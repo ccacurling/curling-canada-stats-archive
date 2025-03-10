@@ -210,6 +210,7 @@ vs:
  - Gannon, Melissa
  - Gates, Amanda
  - Gates, Jennifer
+ - Gordon, Kristin
  - Griffin, Alison
  - Guy, Sara
  - Harris, Briane
@@ -235,7 +236,6 @@ vs:
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - Mann, Lauren

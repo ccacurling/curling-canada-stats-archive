@@ -4,18 +4,18 @@ name: Jocelyn Peterman
 name-sort: Peterman, Jocelyn
 totals:
  - event: Hearts
-   games: 80
-   wins: 53
-   losses: 27
-   inturn-total: 749
+   games: 88
+   wins: 57
+   losses: 31
+   inturn-total: 822
    inturn-percent: 81
-   outturn-total: 783
+   outturn-total: 853
    outturn-percent: 83
-   draw-total: 623
-   draw-percent: 79
-   takeout-total: 909
+   draw-total: 683
+   draw-percent: 80
+   takeout-total: 992
    takeout-percent: 83
-   shots-total: 1532
+   shots-total: 1675
    shots-percent: 82
 years:
  - year: 2016
@@ -144,6 +144,24 @@ years:
    takeout-percent: 87
    shots-total: 173
    shots-percent: 83
+ - year: 2025
+   event: Hearts
+   team: "MB"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 73
+   inturn-percent: 82
+   outturn-total: 70
+   outturn-percent: 87
+   draw-total: 60
+   draw-percent: 85
+   takeout-total: 83
+   takeout-percent: 83
+   shots-total: 143
+   shots-percent: 84
 vs:
  - Ackerman, Skylar
  - Adams, Melissa
@@ -172,6 +190,8 @@ vs:
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Brunton, Kira
+ - Burgess, Karlee
  - Burt, Camille
  - Cameron, Kate
  - Campbell, Jolene
@@ -181,9 +201,12 @@ vs:
  - Cormier, Sharon
  - Courtney, Joanne
  - Crandall, Jaclyn
+ - Cullen, Brianna
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
+ - Daly, Calissa
+ - deGroot, Cassandra
  - deJager, Blaine
  - Derry, Danielle
  - DiCarlo, Jane
@@ -193,16 +216,21 @@ vs:
  - Duncan, Chelsea
  - Eddy, Lori
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Englot, Michelle
  - Everist, Karlee
  - Eyamie, Lisa
  - Ferguson, Dana
  - Fisher, Sam
  - Forward, Katie
+ - Foster, Kerry
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
+ - Galusha, Sydney
  - Gates, Jennifer
+ - Godsland, Brooke
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
  - Gustafson, Leigh
@@ -213,9 +241,11 @@ vs:
  - Harris, Briane
  - Haughian, Jessie
  - Hawes, Dezaray
+ - Helston, Raelyn
  - Hill, Sarah
  - Hill, Trish
  - Homan, Rachel
+ - Horte, Bailey
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
@@ -226,12 +256,12 @@ vs:
  - Just, Sherry
  - Karwacki, Krysten
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Kleibrink, Shannon
  - Klymchuk, Ashley
  - Knapp, Breanne
  - Koehler, Megan
  - Koltun, Sarah
+ - Lamswood, Sarah
  - Larouche, Marie-France
  - Lavery, Tracey
  - Lawes, Kaitlyn
@@ -242,7 +272,6 @@ vs:
  - Loder, Jenna
  - Logan, Emma
  - Loken, Sarah
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacMillan, Kayla
  - MacPhail, Brigitte
@@ -268,6 +297,7 @@ vs:
  - O'Neill, Brit
  - O'Rourke, Brittany
  - Papley, Paige
+ - Paterson, Kate
  - Peterson, Beth
  - Pilote, Kristen
  - Pincott, Erin
@@ -278,13 +308,13 @@ vs:
  - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
- - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Routledge, Alanna
  - Rusnell, Jen
+ - Ryan, Kristen
  - Sagle, Karen
  - Sandwith, Carley
  - Saulnier, Andrea
@@ -292,18 +322,21 @@ vs:
  - Scheidegger, Casey
  - Schmiemann, Danielle
  - Schneider, Lorraine
+ - Scoffin, Bayly
  - Shaw, Ladene
  - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sinclair, Jamie
  - Sippala, Ashley
+ - Skauge, Ella
  - Skinner, Kaylin
  - Skrlik, Ashton
  - Skrlik, Kayla
  - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Stremick, Taylor
  - Strong, Helen
  - Sturmay, Selena

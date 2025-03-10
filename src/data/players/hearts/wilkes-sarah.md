@@ -4,18 +4,18 @@ name: Sarah Wilkes
 name-sort: Wilkes, Sarah
 totals:
  - event: Hearts
-   games: 78
-   wins: 53
+   games: 89
+   wins: 64
    losses: 25
-   inturn-total: 730
+   inturn-total: 843
    inturn-percent: 83
-   outturn-total: 690
-   outturn-percent: 83
-   draw-total: 703
-   draw-percent: 84
-   takeout-total: 717
+   outturn-total: 779
+   outturn-percent: 84
+   draw-total: 886
+   draw-percent: 85
+   takeout-total: 736
    takeout-percent: 81
-   shots-total: 1420
+   shots-total: 1622
    shots-percent: 83
 years:
  - year: 2015
@@ -192,6 +192,24 @@ years:
    takeout-percent: 80
    shots-total: 204
    shots-percent: 89
+ - year: 2025
+   event: Hearts
+   team: "CA"
+   position: Lead
+   alternate: false
+   games: 11
+   wins: 11
+   losses: 0
+   inturn-total: 113
+   inturn-percent: 88
+   outturn-total: 89
+   outturn-percent: 88
+   draw-total: 183
+   draw-percent: 89
+   takeout-total: 19
+   takeout-percent: 75
+   shots-total: 202
+   shots-percent: 88
 vs:
  - Ackland, Abby
  - Adams, Melissa
@@ -240,6 +258,7 @@ vs:
  - deGroot, Cassandra
  - deJager, Blaine
  - Derry, Danielle
+ - DiCarlo, Jane
  - Doerksen, Katherine
  - Doig, Deanna
  - Dubue, Lindsay
@@ -251,6 +270,7 @@ vs:
  - Englot, Michelle
  - Everist, Karlee
  - Filteau, Anne-Marie
+ - Fisher, Sam
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
@@ -261,8 +281,10 @@ vs:
  - Gamble, Christie
  - Gates, Amanda
  - Gates, Jennifer
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
+ - Gustafson, Leigh
  - Guy, Sara
  - Hamilton, Beth
  - Harris, Briane
@@ -277,11 +299,11 @@ vs:
  - Hynes, Julie
  - Inglis, Danielle
  - Ingram, Megan
+ - Jenkins, Whitney
  - Jones, Jennifer
  - Karwacki, Krysten
  - Kasner, Marliese
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Klymchuk, Ashley
  - Knapp, Breanne
  - Koehler, Megan
@@ -295,7 +317,7 @@ vs:
  - Loder, Jenna
  - Logan, Emma
  - Loken, Sarah
- - MacCuish, Kristin
+ - Lott, Kadriana
  - MacDonald, Kaitlin
  - MacMillan, Kayla
  - MacPhail, Brigitte
@@ -304,6 +326,7 @@ vs:
  - Mann, Lauren
  - Martin, Nancy
  - Mattatall, Mary
+ - Mayne, Veronica
  - McCarville, Krista
  - McDonald, Taylor
  - McEvoy, Julie
@@ -319,6 +342,7 @@ vs:
  - Njegovan, Selena
  - Oliver, Sara
  - O'Rourke, Brittany
+ - Papley, Paige
  - Peterman, Jocelyn
  - Peters, Laine
  - Peterson, Beth
@@ -328,6 +352,7 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Quillian, Sylvie
+ - Ramsay, Geri-Lynn
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
@@ -336,10 +361,12 @@ vs:
  - Routledge, Alanna
  - Routledge, Jill
  - Rusnell, Jen
+ - Russell, Kayla
  - Sandwith, Carley
  - Saulnier, Andrea
  - Scheidegger, Casey
  - Schmidt, Stephanie
+ - Schmiemann, Danielle
  - Schneider, Lorraine
  - Scoffin, Bayly
  - Scotland, Nadine
@@ -348,10 +375,15 @@ vs:
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smith, Heather
  - Smith, Megan
+ - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
+ - Sturmay, Selena
  - Sweeting, Val
  - Taylor, Alison
  - Thevenot, Kara
@@ -362,6 +394,7 @@ vs:
  - Walter, Meghan
  - Ward, Molli
  - Wark, Sarah
+ - Weagle, Julia
  - Weagle, Lisa
  - Westcott, Raunora
  - Whitaker, Carol

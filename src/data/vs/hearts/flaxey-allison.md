@@ -142,6 +142,34 @@ vs:
       year: 2014
       draw: Round Robin(16)
       score: QC 5 - ON 3
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(7)
+      score: WC 11 - WC 9
  - name: Hamilton, Beth
    totals:
     - event: Hearts
@@ -522,34 +550,6 @@ vs:
       year: 2022
       draw: Round Robin(5)
       score: NO 5 - WC 8
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 74
-        wins: 0
-        losses: 1
-      player2:
-        percent: 86
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'WC'
-        position: Second
-        percent: 74
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 86
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(7)
-      score: WC 11 - WC 9
  - name: MacDonald, Kaitlin
    totals:
     - event: Hearts

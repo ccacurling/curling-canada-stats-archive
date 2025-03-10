@@ -4,18 +4,18 @@ name: Dezaray Hawes
 name-sort: Hawes, Dezaray
 totals:
  - event: Hearts
-   games: 29
-   wins: 17
-   losses: 12
-   inturn-total: 278
-   inturn-percent: 83
-   outturn-total: 274
+   games: 37
+   wins: 21
+   losses: 16
+   inturn-total: 355
+   inturn-percent: 84
+   outturn-total: 346
    outturn-percent: 81
-   draw-total: 242
+   draw-total: 324
    draw-percent: 81
-   takeout-total: 310
+   takeout-total: 377
    takeout-percent: 83
-   shots-total: 552
+   shots-total: 701
    shots-percent: 82
 years:
  - year: 2020
@@ -72,6 +72,24 @@ years:
    takeout-percent: 87
    shots-total: 212
    shots-percent: 84
+ - year: 2025
+   event: Hearts
+   team: "AB"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 77
+   inturn-percent: 85
+   outturn-total: 72
+   outturn-percent: 81
+   draw-total: 82
+   draw-percent: 83
+   takeout-total: 67
+   takeout-percent: 83
+   shots-total: 149
+   shots-percent: 83
 vs:
  - Ackerman, Skylar
  - Adams, Melissa
@@ -98,16 +116,21 @@ vs:
  - Crandall, Jaclyn
  - Curtis, Stacie
  - DiCarlo, Jane
+ - Doig, Deanna
  - Duncan, Chelsea
  - Eddy, Lori
  - Einarson, Kerri
  - Elias, Mackenzie
  - Ferguson, Dana
  - Fisher, Sam
+ - Flemming, Margot
+ - Fleury, Tracy
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Jennifer
+ - Gordon, Kristin
  - Griffin, Alison
+ - Gustafson, Leigh
  - Hamilton, Beth
  - Harris, Briane
  - Hill, Sarah
@@ -119,7 +142,6 @@ vs:
  - Jones, Jennifer
  - Karwacki, Krysten
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Knapp, Breanne
  - Koltun, Sarah
  - Lawes, Kaitlyn
@@ -127,7 +149,7 @@ vs:
  - Lilly, Kendra
  - Lister, Kendra
  - Logan, Emma
- - MacCuish, Kristin
+ - Lott, Kadriana
  - MacDonald, Kaitlin
  - Martin, Nancy
  - Mayne, Veronica
@@ -141,6 +163,8 @@ vs:
  - Pincott, Erin
  - Pinksen, Sadie
  - Plonka, Gabrielle
+ - Potts, Sarah
+ - Ramsay, Geri-Lynn
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Rocque, Kelsey
@@ -149,16 +173,23 @@ vs:
  - Sinclair, Jamie
  - Sippala, Ashley
  - Skinner, Kaylin
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Stremick, Taylor
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Ashley
  - Thevenot, Kara
  - Tuor, Kimberly
  - Walter, Meghan
+ - Ward, Molli
+ - Weagle, Julia
  - Weagle, Lisa
+ - White, Jenny
  - Wilkes, Sarah
  - Wiseman, Jessica
  - Zacharias, Emily

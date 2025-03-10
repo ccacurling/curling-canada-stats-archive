@@ -30,34 +30,6 @@ vs:
       year: 2018
       draw: Round Robin(12)
       score: NB 7 - SK 6
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 0
-        losses: 1
-      player2:
-        percent: 93
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 93
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(6)
-      score: WC 8 - SK 4
  - name: McEwen, Dawn
    totals:
     - event: Hearts
@@ -226,6 +198,34 @@ vs:
       year: 2018
       draw: Round Robin(12)
       score: NB 7 - SK 6
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(10)
+      score: SK 4 - NO 7
  - name: Smallwood, Jody
    totals:
     - event: Hearts
@@ -254,34 +254,6 @@ vs:
       year: 2018
       draw: Round Robin(8)
       score: SK 10 - YT 7
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 0
-        losses: 1
-      player2:
-        percent: 79
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Lead
-        percent: 86
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Third
-        percent: 79
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(10)
-      score: SK 4 - NO 7
  - name: Wylie, Jennifer
    totals:
     - event: Hearts

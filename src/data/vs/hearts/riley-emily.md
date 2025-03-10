@@ -30,6 +30,34 @@ vs:
       year: 2022
       draw: Round Robin(12)
       score: NT 7 - QC 6
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(9)
+      score: AB 12 - QC 4
  - name: Schafer, Kelly
    totals:
     - event: Hearts
@@ -242,6 +270,34 @@ vs:
       year: 2022
       draw: Round Robin(8)
       score: QC 5 - BC 8
+ - name: Skauge, Ella
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 77
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Second
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Lead
+        percent: 77
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(4)
+      score: NT 3 - QC 12
  - name: Skinner, Kaylin
    totals:
     - event: Hearts
@@ -354,6 +410,34 @@ vs:
       year: 2024
       draw: Round Robin(17)
       score: PE 6 - QC 9
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Second
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(13)
+      score: QC 6 - SK 9
  - name: Stremick, Taylor
    totals:
     - event: Hearts
@@ -442,13 +526,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 74
-        wins: 0
+        percent: 76
+        wins: 1
         losses: 4
       player2:
         percent: 89
         wins: 4
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'QC'
@@ -514,6 +598,22 @@ vs:
       year: 2024
       draw: Round Robin(1)
       score: CA 8 - QC 2
+    - player1:
+        team: 'QC'
+        position: Second
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 90
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(8)
+      score: QC 9 - MB 6
  - name: Taylor, Alison
    totals:
     - event: Hearts
@@ -646,13 +746,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 68
-        wins: 1
+        percent: 79
+        wins: 2
         losses: 0
       player2:
-        percent: 85
+        percent: 70
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'QC'
@@ -670,6 +770,22 @@ vs:
       year: 2022
       draw: Round Robin(4)
       score: QC 8 - YT 7
+    - player1:
+        team: 'QC'
+        position: Second
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 54
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(14)
+      score: QC 8 - YT 4
  - name: Walker, Laura
    totals:
     - event: Hearts
@@ -786,34 +902,6 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: MB 7 - QC 4
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 70
-        wins: 0
-        losses: 1
-      player2:
-        percent: 83
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Second
-        percent: 83
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(9)
-      score: AB 12 - QC 4
  - name: Wilkes, Sarah
    totals:
     - event: Hearts

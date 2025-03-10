@@ -216,6 +216,7 @@ vs:
  - Gannon, Melissa
  - Gates, Amanda
  - Gates, Jennifer
+ - Gordon, Kristin
  - Griffin, Alison
  - Guy, Sara
  - Hamilton, Beth
@@ -233,7 +234,6 @@ vs:
  - Joyce, Blisse
  - Kasner, Marliese
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Kleibrink, Shannon
  - Klymchuk, Ashley
  - Knapp, Breanne
@@ -250,7 +250,6 @@ vs:
  - Lilly, Kendra
  - Loder, Jenna
  - Logan, Emma
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacPhail, Brigitte
@@ -315,6 +314,7 @@ vs:
  - Snyder, Jane
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val

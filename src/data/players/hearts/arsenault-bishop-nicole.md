@@ -100,6 +100,7 @@ vs:
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
+ - Gordon, Kristin
  - Griffin, Alison
  - Hamilton, Beth
  - Hamon, Callan
@@ -109,13 +110,11 @@ vs:
  - Hughes, Meaghan
  - Hynes, Julie
  - Jones, Jennifer
- - Kitz, Chaelynn
  - Knapp, Breanne
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
  - Lawes, Kaitlyn
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - Martin, Nancy
  - McEwen, Dawn
@@ -128,12 +127,13 @@ vs:
  - Porter, Erin
  - Price, Kara
  - Riley, Emily
+ - Rumberg, Crystal
  - Shea, Michelle
  - Smallwood, Jody
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Weagle, Lisa
- - Webster, Crystal
  - Westcott, Raunora
  - Williamson, Ashley
 ---

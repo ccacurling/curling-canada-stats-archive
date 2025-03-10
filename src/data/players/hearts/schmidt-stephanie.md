@@ -115,6 +115,7 @@ vs:
  - Fyfe, Liz
  - Gamble, Christie
  - Gates, Amanda
+ - Gordon, Kristin
  - Harris, Briane
  - Hastings, Julie
  - Homan, Rachel
@@ -125,7 +126,6 @@ vs:
  - Korab, Stephanie
  - Lawes, Kaitlyn
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacPhail, Brigitte
  - Mann, Lauren

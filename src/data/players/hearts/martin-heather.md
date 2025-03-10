@@ -275,6 +275,7 @@ vs:
  - Gervais, Donna
  - Gignac, Donna
  - Gogan, Jennifer
+ - Gordon, Kristin
  - Goring, Alison
  - Graham-MacDonald, Bea
  - Greening, Jackie-Rae
@@ -332,7 +333,6 @@ vs:
  - London, Debra
  - MacAulay, Marion
  - MacCallum, Janice
- - MacCuish, Kristin
  - MacDonald, Lawnie
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie

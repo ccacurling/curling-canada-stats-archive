@@ -142,6 +142,34 @@ vs:
       year: 2021
       draw: Round Robin(14)
       score: WC 9 - NO 5
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 80
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Pool(22)
+      score: WC 6 - WC 5
  - name: Guy, Sara
    totals:
     - event: Hearts
@@ -282,34 +310,6 @@ vs:
       year: 2021
       draw: Pool(20)
       score: MB 12 - WC 8
- - name: Kitz, Chaelynn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 1
-        losses: 0
-      player2:
-        percent: 75
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'WC'
-        position: Second
-        percent: 73
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 75
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Pool(21)
-      score: WC 10 - SK 9
  - name: Knapp, Breanne
    totals:
     - event: Hearts
@@ -422,34 +422,6 @@ vs:
       year: 2021
       draw: Round Robin(7)
       score: NS 8 - WC 5
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 80
-        wins: 0
-        losses: 1
-      player2:
-        percent: 88
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'WC'
-        position: Second
-        percent: 80
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Pool(22)
-      score: WC 6 - WC 5
  - name: Martin, Nancy
    totals:
     - event: Hearts
@@ -730,6 +702,34 @@ vs:
       year: 2021
       draw: Pool(23)
       score: WC 10 - QC 3
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Pool(21)
+      score: WC 10 - SK 9
  - name: Sweeting, Val
    totals:
     - event: Hearts

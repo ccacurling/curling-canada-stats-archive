@@ -174,6 +174,34 @@ vs:
       year: 2020
       draw: Round Robin(4)
       score: NB 3 - NO 9
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(1)
+      score: NB 6 - WC 5
  - name: Griffin, Alison
    totals:
     - event: Hearts
@@ -862,34 +890,6 @@ vs:
       year: 2023
       draw: Round Robin(7)
       score: NO 8 - NB 6
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 74
-        wins: 1
-        losses: 0
-      player2:
-        percent: 88
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NB'
-        position: Lead
-        percent: 74
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 88
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Round Robin(1)
-      score: NB 6 - WC 5
  - name: MacDonald, Kaitlin
    totals:
     - event: Hearts

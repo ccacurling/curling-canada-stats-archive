@@ -49,16 +49,15 @@ vs:
  - Eddy, Lori
  - Fisher, Sam
  - Fyfe, Liz
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
  - Hawes, Dezaray
  - Hughes, Meaghan
  - Jones, Jennifer
- - Kitz, Chaelynn
  - Knapp, Breanne
  - Lawes, Kaitlyn
  - Lister, Kendra
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - Martin, Nancy
  - Njegovan, Selena
@@ -69,5 +68,6 @@ vs:
  - Shea, Michelle
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Weagle, Lisa
 ---

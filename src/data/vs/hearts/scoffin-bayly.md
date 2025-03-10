@@ -30,6 +30,34 @@ vs:
       year: 2024
       draw: Round Robin(10)
       score: NS 12 - YT 5
+ - name: Sweeting, Val
+   totals:
+    - event: Hearts
+      player1:
+        percent: 59
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 59
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(6)
+      score: MB 10 - YT 2
  - name: Tuck, Kimberly
    totals:
     - event: Hearts

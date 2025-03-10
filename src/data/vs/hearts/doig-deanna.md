@@ -58,6 +58,90 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: SK 7 - AB 10
+ - name: Fisher, Sam
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 92
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Lead
+        percent: 92
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(5)
+      score: BC 7 - SK 6
+ - name: Flemming, Margot
+   totals:
+    - event: Hearts
+      player1:
+        percent: 82
+        wins: 0
+        losses: 1
+      player2:
+        percent: 92
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 92
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(11)
+      score: AB 10 - SK 5
+ - name: Fleury, Tracy
+   totals:
+    - event: Hearts
+      player1:
+        percent: 71
+        wins: 0
+        losses: 1
+      player2:
+        percent: 99
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 99
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(9)
+      score: SK 6 - CA 9
  - name: Fullerton, Sarah
    totals:
     - event: Hearts
@@ -114,6 +198,34 @@ vs:
       year: 2017
       draw: Round Robin(13)
       score: SK 7 - NT 8
+ - name: Hawes, Dezaray
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(15)
+      score: AB 8 - SK 9
  - name: Hill, Trish
    totals:
     - event: Hearts
@@ -146,12 +258,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 76
+        percent: 74
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 96
-        wins: 1
+        percent: 90
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -170,6 +282,22 @@ vs:
       year: 2017
       draw: Round Robin(10)
       score: ON 7 - SK 4
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(9)
+      score: SK 6 - CA 9
  - name: Hughes, Meaghan
    totals:
     - event: Hearts
@@ -226,6 +354,62 @@ vs:
       year: 2017
       draw: Round Robin(2)
       score: SK 4 - NL 7
+ - name: Jenkins, Whitney
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(3)
+      score: PE 6 - SK 8
+ - name: Kelly, Andrea
+   totals:
+    - event: Hearts
+      player1:
+        percent: 65
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 65
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(1)
+      score: SK 10 - NO 6
  - name: Koehler, Megan
    totals:
     - event: Hearts
@@ -254,17 +438,45 @@ vs:
       year: 2017
       draw: Round Robin(13)
       score: SK 7 - NT 8
+ - name: Koltun, Sarah
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 94
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Second
+        percent: 94
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(5)
+      score: BC 7 - SK 6
  - name: Lilly, Kendra
    totals:
     - event: Hearts
       player1:
-        percent: 69
-        wins: 0
+        percent: 67
+        wins: 1
         losses: 1
       player2:
-        percent: 61
+        percent: 64
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'SK'
@@ -282,6 +494,50 @@ vs:
       year: 2017
       draw: Round Robin(5)
       score: NO 8 - SK 3
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 65
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 68
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(1)
+      score: SK 10 - NO 6
+ - name: Lister, Kendra
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 96
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(7)
+      score: SK 7 - NB 5
  - name: MacPhee, Robyn
    totals:
     - event: Hearts
@@ -394,17 +650,45 @@ vs:
       year: 2017
       draw: Round Robin(15)
       score: SK 10 - NS 4
+ - name: Mayne, Veronica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 80
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(3)
+      score: PE 6 - SK 8
  - name: McCarville, Krista
    totals:
     - event: Hearts
       player1:
-        percent: 69
-        wins: 0
+        percent: 67
+        wins: 1
         losses: 1
       player2:
-        percent: 96
+        percent: 80
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'SK'
@@ -422,6 +706,22 @@ vs:
       year: 2017
       draw: Round Robin(5)
       score: NO 8 - SK 3
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 65
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(1)
+      score: SK 10 - NO 6
  - name: McEvoy, Julie
    totals:
     - event: Hearts
@@ -454,12 +754,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 76
+        percent: 74
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 93
-        wins: 1
+        percent: 86
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -478,6 +778,22 @@ vs:
       year: 2017
       draw: Round Robin(10)
       score: ON 7 - SK 4
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(9)
+      score: SK 6 - CA 9
  - name: Nedohin, Heather
    totals:
     - event: Hearts
@@ -562,6 +878,34 @@ vs:
       year: 2017
       draw: Round Robin(7)
       score: QC 7 - SK 5
+ - name: Papley, Paige
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(15)
+      score: AB 8 - SK 9
  - name: Peterman, Jocelyn
    totals:
     - event: Hearts
@@ -618,6 +962,34 @@ vs:
       year: 2017
       draw: Round Robin(16)
       score: CA 11 - SK 5
+ - name: Pincott, Erin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(5)
+      score: BC 7 - SK 6
  - name: Porter, Erin
    totals:
     - event: Hearts
@@ -674,6 +1046,34 @@ vs:
       year: 2017
       draw: Round Robin(5)
       score: NO 8 - SK 3
+ - name: Ramsay, Geri-Lynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 82
+        wins: 0
+        losses: 1
+      player2:
+        percent: 82
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(11)
+      score: AB 10 - SK 5
  - name: Richards, Brette
    totals:
     - event: Hearts
@@ -702,6 +1102,34 @@ vs:
       year: 2017
       draw: Round Robin(12)
       score: BC 7 - SK 6
+ - name: Russell, Kayla
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 64
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Second
+        percent: 64
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(7)
+      score: SK 7 - NB 5
  - name: Saulnier, Andrea
    totals:
     - event: Hearts
@@ -730,6 +1158,34 @@ vs:
       year: 2017
       draw: Round Robin(15)
       score: SK 10 - NS 4
+ - name: Schmiemann, Danielle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 1
+        losses: 0
+      player2:
+        percent: 90
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 90
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(15)
+      score: AB 8 - SK 9
  - name: Shea, Michelle
    totals:
     - event: Hearts
@@ -762,13 +1218,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 69
-        wins: 0
+        percent: 67
+        wins: 1
         losses: 1
       player2:
-        percent: 72
+        percent: 78
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'SK'
@@ -786,6 +1242,134 @@ vs:
       year: 2017
       draw: Round Robin(5)
       score: NO 8 - SK 3
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 65
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(1)
+      score: SK 10 - NO 6
+ - name: Skrlik, Ashton
+   totals:
+    - event: Hearts
+      player1:
+        percent: 82
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(11)
+      score: AB 10 - SK 5
+ - name: Skrlik, Kayla
+   totals:
+    - event: Hearts
+      player1:
+        percent: 82
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(11)
+      score: AB 10 - SK 5
+ - name: Smith, Sabrina
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 65
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 65
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(3)
+      score: PE 6 - SK 8
+ - name: Sturmay, Selena
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 1
+        losses: 0
+      player2:
+        percent: 64
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 64
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(15)
+      score: AB 8 - SK 9
  - name: Thiessen, Alison
    totals:
     - event: Hearts
@@ -874,12 +1458,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 78
+        percent: 75
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 78
-        wins: 1
+        percent: 83
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -898,6 +1482,22 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: SK 7 - AB 10
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(9)
+      score: SK 6 - CA 9
  - name: Wilson, Leslie
    totals:
     - event: Hearts

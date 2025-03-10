@@ -286,6 +286,34 @@ vs:
       year: 2024
       draw: Round Robin(15)
       score: BC 13 - SK 4
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 90
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(3)
+      score: MB 6 - SK 8
  - name: Harris, Briane
    totals:
     - event: Hearts
@@ -526,34 +554,6 @@ vs:
       year: 2024
       draw: Round Robin(5)
       score: NO 5 - SK 6
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 1
-        losses: 0
-      player2:
-        percent: 90
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 90
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2024
-      draw: Round Robin(3)
-      score: MB 6 - SK 8
  - name: Mayne, Veronica
    totals:
     - event: Hearts

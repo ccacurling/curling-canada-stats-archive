@@ -30,6 +30,90 @@ vs:
       year: 2024
       draw: Round Robin(5)
       score: NO 5 - SK 6
+ - name: Skrlik, Ashton
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(9)
+      score: NO 10 - AB 4
+ - name: Skrlik, Kayla
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(9)
+      score: NO 10 - AB 4
+ - name: Smith, Sabrina
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 66
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(13)
+      score: PE 2 - NO 15
  - name: Sobey, Lianne
    totals:
     - event: Hearts
@@ -58,6 +142,34 @@ vs:
       year: 2010
       draw: Round Robin(1)
       score: NB 2 - ON 9
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(1)
+      score: SK 10 - NO 6
  - name: Stremick, Taylor
    totals:
     - event: Hearts
@@ -754,12 +866,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 79
+        percent: 78
         wins: 1
-        losses: 3
+        losses: 4
       player2:
-        percent: 86
-        wins: 3
+        percent: 87
+        wins: 4
         losses: 1
    games:
     - player1:
@@ -826,6 +938,22 @@ vs:
       year: 2023
       draw: Round Robin(6)
       score: ON 7 - NO 5
+    - player1:
+        team: 'NO'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(3)
+      score: CA 10 - NO 7
  - name: Williamson, Ashley
    totals:
     - event: Hearts

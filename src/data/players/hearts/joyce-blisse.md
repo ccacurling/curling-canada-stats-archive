@@ -218,10 +218,10 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Rainville, Julie
- - Recksiedler, Kristen
  - Reid, Jackie
  - Richard, Marie
  - Ross, Allison
+ - Ryan, Kristen
  - Sanderson, Jessie
  - Sandwith, Carley
  - Schneider, Kim

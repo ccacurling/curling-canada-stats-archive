@@ -414,6 +414,34 @@ vs:
       year: 2018
       draw: Round Robin(6)
       score: NO 8 - YT 5
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 58
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 58
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(10)
+      score: YT 3 - WC 10
  - name: Hamilton, Beth
    totals:
     - event: Hearts
@@ -1242,34 +1270,6 @@ vs:
       year: 2020
       draw: Round Robin(6)
       score: NS 10 - YT 4
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 58
-        wins: 0
-        losses: 1
-      player2:
-        percent: 84
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'YT'
-        position: Fourth
-        percent: 58
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 84
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(10)
-      score: YT 3 - WC 10
  - name: MacDonald, Rebecca Jean
    totals:
     - event: Hearts
@@ -1882,6 +1882,34 @@ vs:
       year: 2014
       draw: Round Robin(7)
       score: TR 3 - QC 9
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(6)
+      score: NO 8 - YT 5
  - name: Sanderson, Jessie
    totals:
     - event: Hearts
@@ -2262,34 +2290,6 @@ vs:
       year: 2020
       draw: Round Robin(13)
       score: ON 9 - YT 3
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 68
-        wins: 0
-        losses: 1
-      player2:
-        percent: 85
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'YT'
-        position: Fourth
-        percent: 68
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Third
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(6)
-      score: NO 8 - YT 5
  - name: West, Christianne
    totals:
     - event: Hearts

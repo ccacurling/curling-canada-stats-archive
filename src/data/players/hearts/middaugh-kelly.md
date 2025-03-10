@@ -72,6 +72,7 @@ vs:
  - Einarson, Kerri
  - Everist, Karlee
  - Fisher, Sam
+ - Gordon, Kristin
  - Grandy, Clancy
  - Harris, Briane
  - Hawes, Dezaray
@@ -83,7 +84,6 @@ vs:
  - Lawes, Kaitlyn
  - Lilly, Kendra
  - Loken, Sarah
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacMillan, Kayla
  - MacPhail, Brigitte
@@ -96,6 +96,7 @@ vs:
  - Pinksen, Sadie
  - Potts, Sarah
  - Ramsay, Geri-Lynn
+ - Rumberg, Crystal
  - Schafer, Kelly
  - Schmiemann, Danielle
  - Shea, Michelle
@@ -112,6 +113,5 @@ vs:
  - Thevenot, Kara
  - Tran, Brittany
  - Walker, Laura
- - Webster, Crystal
  - Wiseman, Jessica
 ---

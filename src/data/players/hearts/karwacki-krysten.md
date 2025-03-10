@@ -4,19 +4,19 @@ name: Krysten Karwacki
 name-sort: Karwacki, Krysten
 totals:
  - event: Hearts
-   games: 16
-   wins: 13
-   losses: 3
-   inturn-total: 95
-   inturn-percent: 88
-   outturn-total: 110
-   outturn-percent: 88
-   draw-total: 175
-   draw-percent: 89
-   takeout-total: 30
-   takeout-percent: 85
-   shots-total: 205
-   shots-percent: 88
+   games: 27
+   wins: 21
+   losses: 6
+   inturn-total: 222
+   inturn-percent: 89
+   outturn-total: 197
+   outturn-percent: 90
+   draw-total: 358
+   draw-percent: 90
+   takeout-total: 61
+   takeout-percent: 84
+   shots-total: 419
+   shots-percent: 89
 years:
  - year: 2017
    event: Hearts
@@ -126,38 +126,70 @@ years:
    takeout-percent: 89
    shots-total: 188
    shots-percent: 89
+ - year: 2025
+   event: Hearts
+   team: "MB"
+   position: Lead
+   alternate: false
+   games: 11
+   wins: 8
+   losses: 3
+   inturn-total: 127
+   inturn-percent: 89
+   outturn-total: 87
+   outturn-percent: 92
+   draw-total: 183
+   draw-percent: 92
+   takeout-total: 31
+   takeout-percent: 82
+   shots-total: 214
+   shots-percent: 90
 vs:
  - Ackerman, Skylar
  - Alcoe-Holland, Jill
  - Armstrong, Jennifer
  - Best, Emily
  - Birt, Suzanne
+ - Black, Christina
+ - Brothers, Jill
  - Brown, Corryn
  - Brunton, Kira
  - Burns, Krysta
+ - Burt, Camille
  - Cameron, Kate
  - Christianson, Marie
+ - Cullen, Brianna
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
+ - Daly, Calissa
+ - deGroot, Cassandra
  - DiCarlo, Jane
  - Dolan, Sinead
  - Elias, Mackenzie
+ - Everist, Karlee
  - Ferguson, Dana
  - Fisher, Sam
+ - Flemming, Margot
  - Fleury, Tracy
+ - Foster, Kerry
  - Fullerton, Sarah
  - Gates, Amanda
+ - Godsland, Brooke
+ - Gordon, Kristin
  - Guy, Sara
  - Hawes, Dezaray
+ - Helston, Raelyn
  - Homan, Rachel
+ - Horte, Bailey
  - Hughes, Meaghan
  - Hynes, Julie
+ - Inglis, Danielle
  - Jenkins, Whitney
  - Just, Sherry
  - Kelly, Andrea
+ - Lamswood, Sarah
  - Lawes, Kaitlyn
- - MacCuish, Kristin
  - MacPhee, Robyn
  - Mattatall, Mary
  - Mayne, Veronica
@@ -170,17 +202,23 @@ vs:
  - Papley, Paige
  - Peterman, Jocelyn
  - Pincott, Erin
+ - Porter, Erin
  - Potts, Sarah
+ - Powers, Marlee
+ - Ramsay, Geri-Lynn
  - Riley, Emily
  - Rocque, Kelsey
  - Schafer, Kelly
  - Schmiemann, Danielle
+ - Scoffin, Bayly
  - Scotland, Nadine
  - Shea, Michelle
  - Silvernagle, Robyn
  - Sinclair, Jamie
  - Sippala, Ashley
  - Skinner, Kaylin
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smith, Megan
  - Smith, Sabrina
  - St-Georges, Laurie
@@ -190,6 +228,7 @@ vs:
  - Thevenot, Kara
  - Walker, Laura
  - Walter, Meghan
+ - Weagle, Lisa
  - Wilkes, Sarah
  - Wiseman, Jessica
 ---

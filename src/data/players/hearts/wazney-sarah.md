@@ -50,6 +50,7 @@ vs:
  - Dufresne, Audree
  - Dykstra, Michelle
  - Galusha, Kerry
+ - Gordon, Kristin
  - Holtby, Taryn
  - Homan, Rachel
  - Iskiw, Beth
@@ -61,7 +62,6 @@ vs:
  - Koehler, Megan
  - Kreviazuk, Alison
  - Lawes, Kaitlyn
- - MacCuish, Kristin
  - Mair, Jessica
  - Martin, Heather
  - McEwen, Dawn

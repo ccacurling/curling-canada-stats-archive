@@ -4,18 +4,18 @@ name: Rachel Brown
 name-sort: Brown, Rachel
 totals:
  - event: Hearts
-   games: 68
-   wins: 48
+   games: 70
+   wins: 50
    losses: 20
-   inturn-total: 648
+   inturn-total: 651
    inturn-percent: 87
-   outturn-total: 590
+   outturn-total: 591
    outturn-percent: 84
-   draw-total: 951
+   draw-total: 955
    draw-percent: 88
    takeout-total: 287
    takeout-percent: 74
-   shots-total: 1238
+   shots-total: 1242
    shots-percent: 85
 years:
  - year: 2014
@@ -126,6 +126,22 @@ years:
    takeout-percent: 83
    shots-total: 6
    shots-percent: 83
+ - year: 2025
+   event: Hearts
+   team: "CA"
+   position: Lead
+   alternate: true
+   games: 2
+   wins: 2
+   losses: 0
+   inturn-total: 3
+   inturn-percent: 100
+   outturn-total: 1
+   outturn-percent: 100
+   draw-total: 4
+   draw-percent: 100
+   shots-total: 4
+   shots-percent: 100
 vs:
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -164,6 +180,7 @@ vs:
  - Daigle, Julie
  - Davies, Lisa
  - deSolla, Jodie
+ - DiCarlo, Jane
  - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
@@ -183,7 +200,9 @@ vs:
  - Gannon, Melissa
  - Gates, Amanda
  - Gates, Jennifer
+ - Gordon, Kristin
  - Griffin, Alison
+ - Gustafson, Leigh
  - Guy, Sara
  - Harris, Briane
  - Hastings, Julie
@@ -194,11 +213,11 @@ vs:
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Ingram, Megan
+ - Jenkins, Whitney
  - Jones, Jennifer
  - Joyce, Blisse
  - Kasner, Marliese
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Klymchuk, Ashley
  - Knapp, Breanne
  - Knezevic, Patti
@@ -213,11 +232,11 @@ vs:
  - Lilly, Kendra
  - Loder, Jenna
  - Logan, Emma
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - Mann, Lauren
  - Martin, Nancy
+ - Mayne, Veronica
  - McCarville, Krista
  - McDonald, Kristy
  - McDonald, Taylor
@@ -263,13 +282,16 @@ vs:
  - Sippala, Ashley
  - Smith, Heather
  - Smith, Megan
+ - Smith, Sabrina
  - Smith, Stacey
  - Snyder, Jane
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Kara
  - Thomas-Kennell, Noelle
  - Titheridge, Lindsay
@@ -282,6 +304,7 @@ vs:
  - Walker, Laura
  - Wallingham, Patty
  - Wark, Sarah
+ - Weagle, Julia
  - Weagle, Lisa
  - Whitaker, Carol
  - Wilkes, Sarah

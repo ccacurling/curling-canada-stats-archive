@@ -110,6 +110,7 @@ vs:
  - Fyfe, Liz
  - Gates, Jennifer
  - Gellard, Kim
+ - Gordon, Kristin
  - Gudereit, Marcia
  - Hamilton, Beth
  - Hanlon, Heidi
@@ -133,7 +134,6 @@ vs:
  - Kelly, Kim
  - Kerr, Kathy
  - King, Cathy
- - Kitz, Chaelynn
  - Knapp, Breanne
  - Law, Kelley
  - Lawes, Kaitlyn
@@ -141,7 +141,6 @@ vs:
  - Lilly, Kendra
  - Lister, Kendra
  - MacAulay, Marion
- - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - Mallett, Marla
  - Martin, Heather
@@ -171,6 +170,7 @@ vs:
  - Sippala, Ashley
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Stewart, Sheri
  - Sweeting, Val
  - Thevenot, Kara

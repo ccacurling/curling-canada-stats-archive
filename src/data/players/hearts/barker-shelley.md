@@ -73,6 +73,7 @@ vs:
  - Fleury, Tracy
  - Foster, Kerry
  - Galusha, Kerry
+ - Gordon, Kristin
  - Grandy, Clancy
  - Harris, Briane
  - Homan, Rachel
@@ -83,7 +84,6 @@ vs:
  - Lenentine, Lauren
  - Lilly, Kendra
  - Loken, Sarah
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacMillan, Kayla
  - MacPhail, Brigitte

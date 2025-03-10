@@ -248,6 +248,7 @@ vs:
  - Gagne, Emilia
  - Galusha, Kerry
  - Gibson, Amy
+ - Gordon, Kristin
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
@@ -277,7 +278,6 @@ vs:
  - Lilly, Kendra
  - Lister, Kendra
  - Logan, Emma
- - MacCuish, Kristin
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
@@ -311,10 +311,10 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Rainville, Julie
- - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
  - Rizzo, Jo-Ann
+ - Ryan, Kristen
  - Sagle, Karen
  - Saulnier, Andrea
  - Scheidegger, Casey

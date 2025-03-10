@@ -67,6 +67,7 @@ vs:
  - Christianson, Marie
  - Einarson, Kerri
  - Fyfe, Liz
+ - Gordon, Kristin
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
@@ -80,7 +81,6 @@ vs:
  - Lawes, Kaitlyn
  - Lemay, Annie
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacPhee, Robyn
  - McCarville, Krista
  - McEwen, Dawn
@@ -97,8 +97,8 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Rainville, Julie
- - Recksiedler, Kristen
  - Richard, Marie
+ - Ryan, Kristen
  - Sagle, Karen
  - Scheidegger, Casey
  - Shaw, Ladene

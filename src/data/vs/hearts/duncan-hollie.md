@@ -354,6 +354,34 @@ vs:
       year: 2018
       draw: Round Robin(9)
       score: ON 5 - BC 6
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'ON'
+        position: Fourth
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Pool(16)
+      score: ON 5 - WC 7
  - name: Harris, Briane
    totals:
     - event: Hearts
@@ -594,34 +622,6 @@ vs:
       year: 2022
       draw: Round Robin(8)
       score: ON 7 - MB 8
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 0
-        losses: 1
-      player2:
-        percent: 76
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'ON'
-        position: Fourth
-        percent: 84
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 76
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Pool(16)
-      score: ON 5 - WC 7
  - name: MacPhee, Robyn
    totals:
     - event: Hearts
@@ -946,6 +946,34 @@ vs:
       year: 2022
       draw: Round Robin(4)
       score: NT 8 - ON 5
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 85
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'ON'
+        position: Fourth
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Pool(19)
+      score: NO 8 - ON 6
  - name: Scheidegger, Casey
    totals:
     - event: Hearts
@@ -1394,34 +1422,6 @@ vs:
       year: 2022
       draw: Round Robin(14)
       score: ON 11 - YT 5
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 85
-        wins: 0
-        losses: 1
-      player2:
-        percent: 85
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'ON'
-        position: Fourth
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Third
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Pool(19)
-      score: NO 8 - ON 6
  - name: West, Christianne
    totals:
     - event: Hearts

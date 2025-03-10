@@ -4,18 +4,18 @@ name: Rachel Homan
 name-sort: Homan, Rachel
 totals:
  - event: Hearts
-   games: 128
-   wins: 102
+   games: 139
+   wins: 113
    losses: 26
-   inturn-total: 1222
-   inturn-percent: 83
-   outturn-total: 1140
+   inturn-total: 1326
+   inturn-percent: 84
+   outturn-total: 1239
    outturn-percent: 84
-   draw-total: 996
+   draw-total: 1075
    draw-percent: 80
-   takeout-total: 1366
+   takeout-total: 1490
    takeout-percent: 87
-   shots-total: 2362
+   shots-total: 2565
    shots-percent: 84
 years:
  - year: 2011
@@ -198,6 +198,24 @@ years:
    takeout-percent: 89
    shots-total: 207
    shots-percent: 89
+ - year: 2025
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   alternate: false
+   games: 11
+   wins: 11
+   losses: 0
+   inturn-total: 104
+   inturn-percent: 85
+   outturn-total: 99
+   outturn-percent: 88
+   draw-total: 79
+   draw-percent: 86
+   takeout-total: 124
+   takeout-percent: 86
+   shots-total: 203
+   shots-percent: 86
 vs:
  - Ackland, Abby
  - Adams, Melissa
@@ -262,6 +280,7 @@ vs:
  - deJager, Blaine
  - Derry, Danielle
  - deSolla, Jodie
+ - DiCarlo, Jane
  - Doerksen, Katherine
  - Doig, Deanna
  - Dolan, Kim
@@ -278,6 +297,7 @@ vs:
  - Fallis, Karen
  - Ferguson, Dana
  - Filteau, Anne-Marie
+ - Fisher, Sam
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy
@@ -290,9 +310,11 @@ vs:
  - Gannon, Melissa
  - Gates, Amanda
  - Gates, Jennifer
+ - Gordon, Kristin
  - Grandy, Clancy
  - Gregoire, Veronique
  - Griffin, Alison
+ - Gustafson, Leigh
  - Guy, Sara
  - Guzzwell, Stephanie
  - Hamilton, Beth
@@ -309,6 +331,7 @@ vs:
  - Hynes, Julie
  - Inglis, Danielle
  - Iskiw, Beth
+ - Jenkins, Whitney
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
@@ -318,7 +341,6 @@ vs:
  - Kasner, Marliese
  - Kelly, Andrea
  - Kelly, Kim
- - Kitz, Chaelynn
  - Kleibrink, Shannon
  - Klymchuk, Ashley
  - Knapp, Breanne
@@ -338,7 +360,7 @@ vs:
  - Loder, Jenna
  - Logan, Emma
  - Loken, Sarah
- - MacCuish, Kristin
+ - Lott, Kadriana
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacMillan, Kayla
@@ -349,6 +371,7 @@ vs:
  - Martin, Heather
  - Martin, Nancy
  - Mattatall, Mary
+ - Mayne, Veronica
  - McCarville, Krista
  - McDonald, Kristy
  - McDonald, Taylor
@@ -370,6 +393,7 @@ vs:
  - Olson-Johns, Lori
  - O'Rourke, Brittany
  - Overton-Clapham, Cathy
+ - Papley, Paige
  - Parsons, Danielle
  - Paul, Sarah
  - Peterman, Jocelyn
@@ -382,6 +406,7 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Quillian, Sylvie
+ - Ramsay, Geri-Lynn
  - Reid, Jackie
  - Richard, Marie
  - Richards, Brette
@@ -391,11 +416,13 @@ vs:
  - Rocque, Kelsey
  - Ross, Allison
  - Rusnell, Jen
+ - Russell, Kayla
  - Sanderson, Jessie
  - Sandwith, Carley
  - Saulnier, Andrea
  - Scheidegger, Casey
  - Schmidt, Stephanie
+ - Schmiemann, Danielle
  - Schneider, Kim
  - Schneider, Lorraine
  - Schneider, Tammy
@@ -409,17 +436,23 @@ vs:
  - Sinclair, Andrea
  - Singler, Sherri
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smith, Heather
  - Smith, Megan
+ - Smith, Sabrina
  - Smith, Stacey
  - Snyder, Jane
  - Sobey, Lianne
  - Sonnenberg, Renee
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Strong, Heather
  - Strong, Laura
+ - Sturmay, Selena
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Kara
  - Thiessen, Alison
  - Titheridge, Lindsay
@@ -435,6 +468,7 @@ vs:
  - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah
+ - Weagle, Julia
  - Weagle, Lisa
  - Webster, Bronwen
  - Westcott, Raunora

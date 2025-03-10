@@ -76,6 +76,7 @@ vs:
  - Englot, Michelle
  - Fyfe, Liz
  - Galusha, Kerry
+ - Gordon, Kristin
  - Goss, Peg
  - Hamon, Callan
  - Hanna, Jenn
@@ -93,7 +94,6 @@ vs:
  - Lawes, Kaitlyn
  - Lemay, Annie
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacPhee, Robyn
  - Materi, Roberta
  - McCagg-Nystrom, Heather

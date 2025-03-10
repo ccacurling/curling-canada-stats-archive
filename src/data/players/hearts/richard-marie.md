@@ -107,6 +107,7 @@ vs:
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
+ - Gordon, Kristin
  - Goss, Peg
  - Hamon, Callan
  - Hanna, Jenn
@@ -131,7 +132,6 @@ vs:
  - Lawton, Stefanie
  - Lemay, Annie
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacInnes, Allison
  - MacPhee, Robyn
  - Mann, Lauren
@@ -159,8 +159,8 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Rainville, Julie
- - Recksiedler, Kristen
  - Rusnell, Jen
+ - Ryan, Kristen
  - Sabourin, Joelle
  - Sagle, Karen
  - Schmidt, Stephanie

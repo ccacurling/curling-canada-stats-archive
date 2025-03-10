@@ -4,18 +4,18 @@ name: Andrea Kelly
 name-sort: Kelly, Andrea
 totals:
  - event: Hearts
-   games: 120
-   wins: 57
-   losses: 63
-   inturn-total: 1194
-   inturn-percent: 76
-   outturn-total: 1059
+   games: 128
+   wins: 61
+   losses: 67
+   inturn-total: 1272
+   inturn-percent: 75
+   outturn-total: 1127
    outturn-percent: 75
-   draw-total: 1040
+   draw-total: 1102
    draw-percent: 72
-   takeout-total: 1213
+   takeout-total: 1297
    takeout-percent: 78
-   shots-total: 2253
+   shots-total: 2399
    shots-percent: 75
 years:
  - year: 2006
@@ -234,9 +234,28 @@ years:
    takeout-percent: 82
    shots-total: 156
    shots-percent: 80
+ - year: 2025
+   event: Hearts
+   team: "NO"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 78
+   inturn-percent: 73
+   outturn-total: 68
+   outturn-percent: 81
+   draw-total: 62
+   draw-percent: 71
+   takeout-total: 84
+   takeout-percent: 81
+   shots-total: 146
+   shots-percent: 77
 vs:
  - Ackerman, Skylar
  - Ackland, Abby
+ - Adams, Melissa
  - Affleck, Tricia
  - Anderson, Sherry
  - Armstrong, Jacquie
@@ -285,6 +304,7 @@ vs:
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Cunningham, Jennifer
@@ -294,6 +314,7 @@ vs:
  - deJager, Blaine
  - Delahunt, Nancy
  - DiCarlo, Jane
+ - Doig, Deanna
  - Dolan, Kim
  - Dolan, Sinead
  - Dufresne, Audree
@@ -327,10 +348,12 @@ vs:
  - Gates, Jennifer
  - George, Tara
  - Gilman, Sheena
+ - Gordon, Kristin
  - Goss, Peg
  - Gregoire, Veronique
  - Griffin, Alison
  - Gushulak, Diane
+ - Gustafson, Leigh
  - Guzzwell, Stephanie
  - Hamilton, Beth
  - Hardy, Shelley
@@ -374,9 +397,10 @@ vs:
  - Lemay, Annie
  - Lemon, Colette
  - Lilly, Kendra
+ - Lister, Kendra
  - Loder, Cherie-Ann
+ - Lott, Kadriana
  - Lowther, Tammi
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
@@ -389,6 +413,7 @@ vs:
  - Makichuk, Lindsay
  - Mallett, Marla
  - Martin, Heather
+ - Martin, Nancy
  - Materi, Roberta
  - Mayne, Veronica
  - McCagg-Nystrom, Heather
@@ -450,6 +475,7 @@ vs:
  - Routledge, Alanna
  - Routledge, Jill
  - Rudulier, Andrea
+ - Russell, Kayla
  - Sabourin, Joelle
  - Sanderson, Jessie
  - Sandwith, Carley
@@ -473,11 +499,14 @@ vs:
  - Singler, Sherri
  - Sippala, Ashley
  - Skinner, Kaylin
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Slywka, Sarah
  - Smith, Heather
  - Smith, Sabrina
  - Spencer, Barb
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Streifel, Tracy
  - Stremick, Taylor
  - Strong, Heather
@@ -504,6 +533,7 @@ vs:
  - Walter, Meghan
  - Wasylkiw, Lauren
  - Wazney, Sarah
+ - Weagle, Julia
  - Weagle, Lisa
  - Webster, Bronwen
  - Westcott, Raunora

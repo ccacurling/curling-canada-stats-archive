@@ -4,19 +4,19 @@ name: Kendra Lister
 name-sort: Lister, Kendra
 totals:
  - event: Hearts
-   games: 23
-   wins: 10
-   losses: 13
-   inturn-total: 331
-   inturn-percent: 83
-   outturn-total: 112
-   outturn-percent: 73
-   draw-total: 367
-   draw-percent: 82
-   takeout-total: 76
-   takeout-percent: 70
-   shots-total: 443
-   shots-percent: 80
+   games: 31
+   wins: 12
+   losses: 19
+   inturn-total: 434
+   inturn-percent: 84
+   outturn-total: 163
+   outturn-percent: 78
+   draw-total: 500
+   draw-percent: 84
+   takeout-total: 97
+   takeout-percent: 74
+   shots-total: 597
+   shots-percent: 82
 years:
  - year: 2018
    event: Hearts
@@ -72,6 +72,24 @@ years:
    takeout-percent: 61
    shots-total: 130
    shots-percent: 83
+ - year: 2025
+   event: Hearts
+   team: "NB"
+   position: Lead
+   alternate: false
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 103
+   inturn-percent: 87
+   outturn-total: 51
+   outturn-percent: 91
+   draw-total: 133
+   draw-percent: 88
+   takeout-total: 21
+   takeout-percent: 88
+   shots-total: 154
+   shots-percent: 88
 vs:
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -95,6 +113,8 @@ vs:
  - Curtis, Stacie
  - Daly, Calissa
  - deGroot, Cassandra
+ - DiCarlo, Jane
+ - Doig, Deanna
  - Dubue, Lindsay
  - Duncan, Chelsea
  - Duncan, Jenna
@@ -110,8 +130,10 @@ vs:
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Amanda
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
+ - Gustafson, Leigh
  - Hamilton, Beth
  - Hawes, Dezaray
  - Hill, Sarah
@@ -119,39 +141,53 @@ vs:
  - Hughes, Meaghan
  - Hynes, Julie
  - Inglis, Danielle
+ - Jenkins, Whitney
  - Jones, Jennifer
- - Kitz, Chaelynn
+ - Kelly, Andrea
  - Knapp, Breanne
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
  - Lawes, Kaitlyn
  - Loken, Sarah
- - MacCuish, Kristin
+ - Lott, Kadriana
  - MacDonald, Kaitlin
  - MacMillan, Kayla
  - Martin, Nancy
+ - Mayne, Veronica
+ - McCarville, Krista
  - McEwen, Dawn
  - Mercer, Adrienne
  - Miskew, Emma
  - Njegovan, Selena
  - Officer, Jill
+ - Papley, Paige
  - Peterman, Jocelyn
  - Pincott, Erin
  - Pinksen, Sadie
  - Porter, Erin
+ - Potts, Sarah
  - Price, Kara
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Rocque, Kelsey
+ - Rumberg, Crystal
+ - Schmiemann, Danielle
  - Shea, Michelle
+ - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smallwood, Jody
  - Smith, Heather
+ - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
+ - Sturmay, Selena
+ - Taylor, Alison
  - Walter, Meghan
+ - Weagle, Julia
  - Weagle, Lisa
- - Webster, Crystal
  - Westcott, Raunora
  - Wilkes, Sarah
  - Zacharias, Emily

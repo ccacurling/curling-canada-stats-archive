@@ -4,18 +4,18 @@ name: Lisa Weagle
 name-sort: Weagle, Lisa
 totals:
  - event: Hearts
-   games: 107
-   wins: 83
-   losses: 24
-   inturn-total: 1131
+   games: 115
+   wins: 88
+   losses: 27
+   inturn-total: 1193
    inturn-percent: 88
-   outturn-total: 827
+   outturn-total: 906
    outturn-percent: 86
-   draw-total: 1449
+   draw-total: 1569
    draw-percent: 89
-   takeout-total: 509
+   takeout-total: 530
    takeout-percent: 80
-   shots-total: 1958
+   shots-total: 2099
    shots-percent: 87
 years:
  - year: 2011
@@ -162,6 +162,24 @@ years:
    takeout-percent: 75
    shots-total: 238
    shots-percent: 90
+ - year: 2025
+   event: Hearts
+   team: "QC"
+   position: Lead
+   alternate: false
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 62
+   inturn-percent: 86
+   outturn-total: 79
+   outturn-percent: 89
+   draw-total: 120
+   draw-percent: 88
+   takeout-total: 21
+   takeout-percent: 85
+   shots-total: 141
+   shots-percent: 87
 vs:
  - Adams, Melissa
  - Affleck, Tricia
@@ -197,6 +215,9 @@ vs:
  - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Brunton, Kira
+ - Burgess, Karlee
+ - Burt, Camille
  - Cameron, Kate
  - Camozzi, Rhonda
  - Carey, Chelsea
@@ -212,10 +233,13 @@ vs:
  - Court, Morgan
  - Courtney, Joanne
  - Crandall, Jaclyn
+ - Cullen, Brianna
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
  - Daigle, Julie
+ - Daly, Calissa
+ - deGroot, Cassandra
  - deJager, Blaine
  - Derry, Danielle
  - deSolla, Jodie
@@ -227,8 +251,10 @@ vs:
  - Dykstra, Michelle
  - Eddy, Lori
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Enge, Jenna
  - Englot, Michelle
+ - Everist, Karlee
  - Eyamie, Lisa
  - Fallis, Karen
  - Ferguson, Dana
@@ -236,13 +262,17 @@ vs:
  - Fisher, Sam
  - Flaxey, Allison
  - Fleury, Tracy
+ - Foster, Kerry
  - Foster, Kristen
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
+ - Galusha, Sydney
  - Gannon, Melissa
  - Gates, Amanda
  - Gates, Jennifer
+ - Godsland, Brooke
+ - Gordon, Kristin
  - Gregoire, Veronique
  - Griffin, Alison
  - Guzzwell, Stephanie
@@ -251,11 +281,14 @@ vs:
  - Hastings, Julie
  - Haughian, Jessie
  - Hawes, Dezaray
+ - Hebert, Rebecca
+ - Helston, Raelyn
  - Hill, Sarah
  - Hill, Trish
  - Holland, Amber
  - Holtby, Taryn
  - Homan, Rachel
+ - Horte, Bailey
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hynes, Julie
@@ -266,10 +299,10 @@ vs:
  - Jones, Jennifer
  - Joyce, Blisse
  - Kalenchuk, Heather
+ - Karwacki, Krysten
  - Kasner, Marliese
  - Kelly, Andrea
  - Kelly, Kim
- - Kitz, Chaelynn
  - Kleibrink, Shannon
  - Klymchuk, Ashley
  - Knapp, Breanne
@@ -278,6 +311,7 @@ vs:
  - Koltun, Sarah
  - Korab, Stephanie
  - Kreviazuk, Lynn
+ - Lamswood, Sarah
  - Larouche, Marie-France
  - Lavoie, Gabrielle
  - Lawes, Kaitlyn
@@ -287,7 +321,6 @@ vs:
  - Lister, Kendra
  - Loder, Jenna
  - Logan, Emma
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
@@ -356,12 +389,14 @@ vs:
  - Sinclair, Andrea
  - Singler, Sherri
  - Sippala, Ashley
+ - Skauge, Ella
  - Smith, Heather
  - Smith, Stacey
  - Snyder, Jane
  - Sonnenberg, Renee
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Strong, Heather
  - Strong, Laura
  - Sweeting, Val

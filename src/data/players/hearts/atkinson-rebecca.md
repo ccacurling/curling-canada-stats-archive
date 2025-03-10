@@ -157,6 +157,7 @@ vs:
  - Galusha, Kerry
  - Gannon, Melissa
  - Gates, Amanda
+ - Gordon, Kristin
  - Gushulak, Diane
  - Hamon, Callan
  - Hanna, Jenn
@@ -189,7 +190,6 @@ vs:
  - Lawton, Stefanie
  - Lemay, Annie
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacPhee, Robyn
@@ -222,10 +222,10 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Rainville, Julie
- - Recksiedler, Kristen
  - Robison, Michala
  - Ross, Allison
  - Rusnell, Jen
+ - Ryan, Kristen
  - Sagle, Karen
  - Sanderson, Jessie
  - Sandwith, Carley

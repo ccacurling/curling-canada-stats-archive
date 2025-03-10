@@ -62,12 +62,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 79
+        percent: 67
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 93
-        wins: 1
+        percent: 88
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -86,6 +86,22 @@ vs:
       year: 2020
       draw: Round Robin(13)
       score: ON 9 - YT 3
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 54
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(14)
+      score: QC 8 - YT 4
  - name: Wilkes, Sarah
    totals:
     - event: Hearts

@@ -275,6 +275,7 @@ vs:
  - Gates, Amanda
  - Gauthier, Cathy
  - Gervais, Donna
+ - Gordon, Kristin
  - Goring, Alison
  - Goss, Peg
  - Graham-MacDonald, Bea
@@ -330,7 +331,6 @@ vs:
  - Lister, Kendra
  - MacAulay, Marion
  - MacCallum, Janice
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDonald, Lawnie
  - MacDonald, Rebecca Jean
@@ -382,6 +382,7 @@ vs:
  - Robinson, Charlene
  - Robinson, Lori
  - Robison, Michala
+ - Rumberg, Crystal
  - Rusnell, Jen
  - Sanderson, Jessie
  - Sandwith, Carley
@@ -413,7 +414,6 @@ vs:
  - Wall, Kirsten
  - Wallingham, Patty
  - Weagle, Lisa
- - Webster, Crystal
  - Wheatcroft, Georgina
  - Wilkes, Sarah
  - Wiseman, Jessica

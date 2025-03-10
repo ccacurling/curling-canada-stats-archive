@@ -1206,6 +1206,66 @@ vs:
       year: 2020
       draw: Page 3-4(20)
       score: ON 9 - NO 5
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 2
+      player2:
+        percent: 84
+        wins: 2
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Second
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(9)
+      score: MB 6 - ON 5
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Pool(20)
+      score: ON 7 - WC 6
+    - player1:
+        team: 'WC'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(7)
+      score: WC 11 - WC 9
  - name: Griffin, Alison
    totals:
     - event: Hearts
@@ -2002,34 +2062,6 @@ vs:
       year: 2022
       draw: Round Robin(3)
       score: WC 2 - NB 7
- - name: Kitz, Chaelynn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 1
-        losses: 0
-      player2:
-        percent: 83
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'ON'
-        position: Lead
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 83
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Pool(23)
-      score: SK 2 - ON 7
  - name: Kleibrink, Shannon
    totals:
     - event: Hearts
@@ -2798,66 +2830,6 @@ vs:
       year: 2021
       draw: Round Robin(10)
       score: ON 8 - NS 3
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 88
-        wins: 1
-        losses: 2
-      player2:
-        percent: 84
-        wins: 2
-        losses: 1
-   games:
-    - player1:
-        team: 'ON'
-        position: Second
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 86
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(9)
-      score: MB 6 - ON 5
-    - player1:
-        team: 'ON'
-        position: Lead
-        percent: 90
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 80
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Pool(20)
-      score: ON 7 - WC 6
-    - player1:
-        team: 'WC'
-        position: Lead
-        percent: 88
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 86
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(7)
-      score: WC 11 - WC 9
  - name: MacDonald, Kaitlin
    totals:
     - event: Hearts
@@ -5434,6 +5406,34 @@ vs:
       year: 2021
       draw: Pool(21)
       score: QC 7 - ON 8
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 83
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Pool(23)
+      score: SK 2 - ON 7
  - name: Strong, Heather
    totals:
     - event: Hearts

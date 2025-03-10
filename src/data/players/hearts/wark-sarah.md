@@ -53,6 +53,7 @@ vs:
  - Fleury, Tracy
  - Fyfe, Liz
  - Gates, Jennifer
+ - Gordon, Kristin
  - Griffin, Alison
  - Haughian, Jessie
  - Homan, Rachel
@@ -64,7 +65,6 @@ vs:
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
- - MacCuish, Kristin
  - McCarville, Krista
  - McEwen, Dawn
  - McTaggart, Cary-Anne

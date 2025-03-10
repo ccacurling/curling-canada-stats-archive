@@ -214,6 +214,34 @@ vs:
       year: 2023
       draw: Round Robin(9)
       score: AB 12 - QC 4
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 91
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(9)
+      score: AB 12 - QC 4
  - name: Schafer, Kelly
    totals:
     - event: Hearts
@@ -678,34 +706,6 @@ vs:
       year: 2023
       draw: Round Robin(12)
       score: QC 9 - WC 7
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 91
-        wins: 0
-        losses: 1
-      player2:
-        percent: 83
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Lead
-        percent: 91
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Second
-        percent: 83
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(9)
-      score: AB 12 - QC 4
  - name: Wiseman, Jessica
    totals:
     - event: Hearts

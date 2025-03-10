@@ -3610,6 +3610,50 @@ vs:
       year: 1994
       draw: Round Robin(10)
       score: BC 5 - SK 3
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 1
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(6)
+      score: WC 8 - SK 4
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(15)
+      score: SK 8 - WC 7
  - name: Goring, Alison
    totals:
     - event: Hearts
@@ -5742,50 +5786,6 @@ vs:
       year: 2004
       draw: Round Robin(6)
       score: PE 3 - SK 10
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 74
-        wins: 1
-        losses: 1
-      player2:
-        percent: 83
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 74
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 93
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(6)
-      score: WC 8 - SK 4
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 74
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(15)
-      score: SK 8 - WC 7
  - name: MacDonald, Kaitlin
    totals:
     - event: Hearts
@@ -7550,6 +7550,34 @@ vs:
       year: 2014
       draw: Round Robin(10)
       score: PE 3 - SK 7
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(10)
+      score: SK 4 - NO 7
  - name: Rusnell, Jen
    totals:
     - event: Hearts
@@ -8642,34 +8670,6 @@ vs:
       year: 2021
       draw: Round Robin(9)
       score: SK 5 - MB 4
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 68
-        wins: 0
-        losses: 1
-      player2:
-        percent: 79
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 68
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Third
-        percent: 79
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(10)
-      score: SK 4 - NO 7
  - name: Wheatcroft, Georgina
    totals:
     - event: Hearts

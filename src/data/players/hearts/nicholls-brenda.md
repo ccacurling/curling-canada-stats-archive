@@ -177,6 +177,7 @@ vs:
  - Gellard, Kim
  - George, Tara
  - Gilman, Sheena
+ - Gordon, Kristin
  - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
@@ -211,7 +212,6 @@ vs:
  - Letendre, Pascale
  - Lilly, Kendra
  - London, Debra
- - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
  - MacLean, Kari
@@ -256,12 +256,12 @@ vs:
  - Prosser, Sandi
  - Quillian, Sylvie
  - Ramsay, Geri-Lynn
- - Recksiedler, Kristen
  - Richard, Marie
  - Robison, Michala
  - Rocque, Raylene
  - Rogers, Rhonda
  - Ruus, Karen
+ - Ryan, Kristen
  - Sagle, Karen
  - Schneider, Kim
  - Schneider, Tammy

@@ -570,6 +570,50 @@ vs:
       year: 2019
       draw: Round Robin(11)
       score: NS 5 - NO 9
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 1
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(3)
+      score: NS 9 - MB 3
+    - player1:
+        team: 'NS'
+        position: Lead
+        percent: 65
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 72
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(7)
+      score: MB 9 - NS 4
  - name: Griffin, Alison
    totals:
     - event: Hearts
@@ -1050,50 +1094,6 @@ vs:
       year: 2021
       draw: Round Robin(7)
       score: NS 8 - WC 5
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 68
-        wins: 1
-        losses: 1
-      player2:
-        percent: 78
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Second
-        percent: 70
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 84
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(3)
-      score: NS 9 - MB 3
-    - player1:
-        team: 'NS'
-        position: Lead
-        percent: 65
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 72
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(7)
-      score: MB 9 - NS 4
  - name: MacPhee, Robyn
    totals:
     - event: Hearts

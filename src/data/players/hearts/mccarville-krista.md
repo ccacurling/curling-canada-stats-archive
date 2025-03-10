@@ -4,19 +4,19 @@ name: Krista McCarville
 name-sort: McCarville, Krista
 totals:
  - event: Hearts
-   games: 131
-   wins: 79
-   losses: 52
-   inturn-total: 1272
+   games: 139
+   wins: 83
+   losses: 56
+   inturn-total: 1338
    inturn-percent: 75
-   outturn-total: 1235
+   outturn-total: 1311
    outturn-percent: 76
-   draw-total: 1211
+   draw-total: 1279
    draw-percent: 73
-   takeout-total: 1296
+   takeout-total: 1370
    takeout-percent: 78
-   shots-total: 2507
-   shots-percent: 76
+   shots-total: 2649
+   shots-percent: 75
 years:
  - year: 2006
    event: Hearts
@@ -216,9 +216,28 @@ years:
    takeout-percent: 78
    shots-total: 149
    shots-percent: 74
+ - year: 2025
+   event: Hearts
+   team: "NO"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 66
+   inturn-percent: 72
+   outturn-total: 76
+   outturn-percent: 76
+   draw-total: 68
+   draw-percent: 72
+   takeout-total: 74
+   takeout-percent: 75
+   shots-total: 142
+   shots-percent: 74
 vs:
  - Ackerman, Skylar
  - Ackland, Abby
+ - Adams, Melissa
  - Affleck, Tricia
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
@@ -269,6 +288,7 @@ vs:
  - Cormier, Sharon
  - Cote, Marie-Pier
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Crouse, Jennifer
  - Cunningham, Cathy
  - Curtis, Erica
@@ -308,10 +328,12 @@ vs:
  - Galusha, Kerry
  - Gamble, Christie
  - Gilman, Sheena
+ - Gordon, Kristin
  - Goss, Peg
  - Griffin, Alison
  - Gudereit, Marcia
  - Gushulak, Diane
+ - Gustafson, Leigh
  - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
@@ -357,9 +379,10 @@ vs:
  - Lemay, Annie
  - Lemon, Colette
  - Lenentine, Lauren
+ - Lister, Kendra
  - Loder, Cherie-Ann
+ - Lott, Kadriana
  - Lowther, Tammi
- - MacCuish, Kristin
  - MacDiarmid, Kristen
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
@@ -369,6 +392,7 @@ vs:
  - Makichuk, Lindsay
  - Mallett, Marla
  - Mann, Lauren
+ - Martin, Nancy
  - Mattatall, Mary
  - Mayne, Veronica
  - McCagg-Nystrom, Heather
@@ -418,7 +442,6 @@ vs:
  - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
- - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
  - Ridalls, Kristen
@@ -431,6 +454,8 @@ vs:
  - Routledge, Jill
  - Rudulier, Andrea
  - Rusnell, Jen
+ - Russell, Kayla
+ - Ryan, Kristen
  - Sabourin, Joelle
  - Sagle, Karen
  - Sandwith, Carley
@@ -452,10 +477,13 @@ vs:
  - Sinclair, Jamie
  - Singler, Sherri
  - Skinner, Kaylin
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smith, Sabrina
  - Sobey, Lianne
  - Spencer, Barb
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Streifel, Tracy
  - Stremick, Taylor
  - Strong, Heather
@@ -479,6 +507,7 @@ vs:
  - Walker, Laura
  - Walter, Meghan
  - Wark, Sarah
+ - Weagle, Julia
  - Weagle, Lisa
  - Westcott, Raunora
  - Wheatcroft, Georgina

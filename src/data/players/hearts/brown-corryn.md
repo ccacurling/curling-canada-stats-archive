@@ -4,19 +4,19 @@ name: Corryn Brown
 name-sort: Brown, Corryn
 totals:
  - event: Hearts
-   games: 28
-   wins: 14
-   losses: 14
-   inturn-total: 239
+   games: 37
+   wins: 20
+   losses: 17
+   inturn-total: 324
    inturn-percent: 75
-   outturn-total: 282
-   outturn-percent: 72
-   draw-total: 251
-   draw-percent: 71
-   takeout-total: 270
+   outturn-total: 363
+   outturn-percent: 73
+   draw-total: 326
+   draw-percent: 72
+   takeout-total: 361
    takeout-percent: 75
-   shots-total: 521
-   shots-percent: 73
+   shots-total: 687
+   shots-percent: 74
 years:
  - year: 2020
    event: Hearts
@@ -72,6 +72,24 @@ years:
    takeout-percent: 76
    shots-total: 148
    shots-percent: 77
+ - year: 2025
+   event: Hearts
+   team: "BC"
+   position: Fourth
+   alternate: false
+   games: 9
+   wins: 6
+   losses: 3
+   inturn-total: 85
+   inturn-percent: 74
+   outturn-total: 81
+   outturn-percent: 77
+   draw-total: 75
+   draw-percent: 76
+   takeout-total: 91
+   takeout-percent: 75
+   shots-total: 166
+   shots-percent: 76
 vs:
  - Ackerman, Skylar
  - Adams, Melissa
@@ -86,6 +104,7 @@ vs:
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
+ - Brothers, Jill
  - Brown, Rachel
  - Burt, Camille
  - Carey, Chelsea
@@ -95,14 +114,20 @@ vs:
  - Curtis, Erica
  - Curtis, Stacie
  - DiCarlo, Jane
+ - Doig, Deanna
  - Duncan, Chelsea
  - Eddy, Lori
  - Einarson, Kerri
+ - Everist, Karlee
  - Ferguson, Dana
+ - Flemming, Margot
+ - Fleury, Tracy
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Jennifer
+ - Gordon, Kristin
  - Griffin, Alison
+ - Gustafson, Leigh
  - Hamilton, Beth
  - Harris, Briane
  - Hawes, Dezaray
@@ -115,7 +140,6 @@ vs:
  - Jones, Jennifer
  - Karwacki, Krysten
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Knapp, Breanne
  - Koltun, Sarah
  - Larouche, Marie-France
@@ -124,7 +148,7 @@ vs:
  - Lilly, Kendra
  - Lister, Kendra
  - Logan, Emma
- - MacCuish, Kristin
+ - Lott, Kadriana
  - MacDonald, Kaitlin
  - Martin, Nancy
  - Mayne, Veronica
@@ -140,22 +164,31 @@ vs:
  - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
+ - Powers, Marlee
+ - Ramsay, Geri-Lynn
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Russell, Kayla
  - Schmiemann, Danielle
  - Shea, Michelle
  - Silvernagle, Robyn
  - Sippala, Ashley
  - Skinner, Kaylin
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Stremick, Taylor
  - Sturmay, Selena
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Ashley
  - Thevenot, Kara
  - Tuor, Kimberly
+ - Weagle, Julia
  - Weagle, Lisa
+ - White, Jenny
  - Wilkes, Sarah
 ---

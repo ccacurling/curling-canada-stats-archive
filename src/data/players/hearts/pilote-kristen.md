@@ -85,6 +85,7 @@ vs:
  - Fyfe, Liz
  - Gates, Amanda
  - Gates, Jennifer
+ - Gordon, Kristin
  - Griffin, Alison
  - Hastings, Julie
  - Haughian, Jessie
@@ -99,7 +100,6 @@ vs:
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
- - MacCuish, Kristin
  - Mann, Lauren
  - McCarville, Krista
  - McEwen, Dawn

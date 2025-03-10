@@ -606,34 +606,6 @@ vs:
       year: 2006
       draw: Round Robin(17)
       score: CA 9 - AB 7
- - name: Kitz, Chaelynn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 0
-        losses: 1
-      player2:
-        percent: 86
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 86
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(9)
-      score: SK 5 - MB 4
  - name: Kleibrink, Shannon
    totals:
     - event: Hearts
@@ -2134,114 +2106,6 @@ vs:
       year: 2009
       draw: Tie-Breaker(18)
       score: PE 5 - CA 6
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 4
-        losses: 2
-      player2:
-        percent: 85
-        wins: 2
-        losses: 4
-   games:
-    - player1:
-        team: 'CA'
-        position: Fourth
-        percent: 85
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 77
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(15)
-      score: MB 4 - CA 8
-    - player1:
-        team: 'CA'
-        position: Fourth
-        percent: 79
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 93
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Bronze(21)
-      score: CA 8 - MB 7
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent: 50
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 96
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(14)
-      score: MB 4 - WC 9
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 79
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Page 1-2(22)
-      score: WC 7 - MB 9
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent: 84
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 89
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Final(24)
-      score: WC 6 - MB 8
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent: 48
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 77
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(4)
-      score: MB 2 - WC 9
  - name: MacDiarmid, Kristen
    totals:
     - event: Hearts
@@ -6450,34 +6314,6 @@ vs:
       year: 2010
       draw: Final(22)
       score: CA 8 - PE 7
- - name: Recksiedler, Kristen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 91
-        wins: 1
-        losses: 0
-      player2:
-        percent: 45
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'CA'
-        position: Fourth
-        percent: 91
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
-        position: Third
-        percent: 45
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(17)
-      score: CA 11 - BC 4
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -6926,6 +6762,34 @@ vs:
       year: 2006
       draw: Round Robin(11)
       score: SK 6 - CA 7
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 0
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 73
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2018
+      draw: Round Robin(12)
+      score: MB 5 - NO 9
  - name: Rusnell, Jen
    totals:
     - event: Hearts
@@ -6970,6 +6834,34 @@ vs:
       year: 2019
       draw: Pool(19)
       score: CA 5 - BC 4
+ - name: Ryan, Kristen
+   totals:
+    - event: Hearts
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 45
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 45
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(17)
+      score: CA 11 - BC 4
  - name: Sabourin, Joelle
    totals:
     - event: Hearts
@@ -8762,6 +8654,34 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: MB 7 - QC 4
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(9)
+      score: SK 5 - MB 4
  - name: Streifel, Tracy
    totals:
     - event: Hearts
@@ -10470,34 +10390,6 @@ vs:
       year: 2011
       draw: Round Robin(17)
       score: CA 8 - AB 5
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 0
-        losses: 1
-      player2:
-        percent: 73
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Third
-        percent: 73
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2018
-      draw: Round Robin(12)
-      score: MB 5 - NO 9
  - name: Westcott, Raunora
    totals:
     - event: Hearts

@@ -226,6 +226,34 @@ vs:
       year: 2019
       draw: Pool(17)
       score: NO 7 - WC 5
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 92
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2018
+      draw: Pool(16)
+      score: AB 8 - NO 4
  - name: Rusnell, Jen
    totals:
     - event: Hearts
@@ -746,34 +774,6 @@ vs:
       year: 2019
       draw: Pool(16)
       score: WC 2 - ON 9
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 92
-        wins: 1
-        losses: 0
-      player2:
-        percent: 75
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Third
-        percent: 92
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Third
-        percent: 75
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2018
-      draw: Pool(16)
-      score: AB 8 - NO 4
  - name: West, Christianne
    totals:
     - event: Hearts

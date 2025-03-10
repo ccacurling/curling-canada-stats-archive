@@ -131,6 +131,7 @@ vs:
  - Gates, Jennifer
  - George, Tara
  - Gilman, Sheena
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
  - Guy, Sara
@@ -155,7 +156,6 @@ vs:
  - Lister, Kendra
  - Loder, Jenna
  - Loken, Sarah
- - MacCuish, Kristin
  - MacIntosh, Kelly
  - MacLean, Kari
  - MacMillan, Kayla

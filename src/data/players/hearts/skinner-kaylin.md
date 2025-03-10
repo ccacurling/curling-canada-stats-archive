@@ -46,6 +46,7 @@ vs:
  - DiCarlo, Jane
  - Einarson, Kerri
  - Fisher, Sam
+ - Gordon, Kristin
  - Hawes, Dezaray
  - Jenkins, Whitney
  - Karwacki, Krysten
@@ -53,7 +54,6 @@ vs:
  - Larouche, Marie-France
  - Lawes, Kaitlyn
  - Lilly, Kendra
- - MacCuish, Kristin
  - Mayne, Veronica
  - McCarville, Krista
  - Middaugh, Kelly

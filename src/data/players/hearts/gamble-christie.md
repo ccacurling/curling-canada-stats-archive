@@ -47,12 +47,12 @@ vs:
  - Flaxey, Allison
  - Forward, Katie
  - Fyfe, Liz
+ - Gordon, Kristin
  - Hamilton, Beth
  - Hill, Sarah
  - Hughes, Meaghan
  - Kelly, Andrea
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacPhail, Brigitte
  - McCarville, Krista

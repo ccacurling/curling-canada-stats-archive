@@ -156,6 +156,7 @@ vs:
  - Galusha, Kerry
  - Gates, Amanda
  - Gibson, Amy
+ - Gordon, Kristin
  - Griffin, Alison
  - Harvey, Marie-Pier
  - Hughes, Meaghan
@@ -164,7 +165,6 @@ vs:
  - Jones, Jennifer
  - Knezevic, Patti
  - Koltun, Sarah
- - MacCuish, Kristin
  - MacPhee, Robyn
  - Mallett, Marla
  - McEwen, Dawn
@@ -180,6 +180,7 @@ vs:
  - Porter, Erin
  - Richards, Brette
  - Rizzo, Jo-Ann
+ - Rumberg, Crystal
  - Rusnell, Jen
  - Sandwith, Carley
  - Scheidegger, Casey
@@ -191,7 +192,6 @@ vs:
  - Van Osch, Kesa
  - Van Osch, Marika
  - Wark, Sarah
- - Webster, Crystal
  - West, Christianne
  - Westcott, Raunora
  - Wilson, Leslie

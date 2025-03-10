@@ -4,18 +4,18 @@ name: Emily Riley
 name-sort: Riley, Emily
 totals:
  - event: Hearts
-   games: 37
-   wins: 18
-   losses: 19
-   inturn-total: 378
+   games: 45
+   wins: 23
+   losses: 22
+   inturn-total: 446
    inturn-percent: 76
-   outturn-total: 337
-   outturn-percent: 74
-   draw-total: 319
-   draw-percent: 71
-   takeout-total: 396
+   outturn-total: 410
+   outturn-percent: 75
+   draw-total: 389
+   draw-percent: 72
+   takeout-total: 467
    takeout-percent: 78
-   shots-total: 715
+   shots-total: 856
    shots-percent: 75
 years:
  - year: 2021
@@ -90,6 +90,24 @@ years:
    takeout-percent: 79
    shots-total: 147
    shots-percent: 77
+ - year: 2025
+   event: Hearts
+   team: "QC"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 68
+   inturn-percent: 78
+   outturn-total: 73
+   outturn-percent: 81
+   draw-total: 70
+   draw-percent: 75
+   takeout-total: 71
+   takeout-percent: 83
+   shots-total: 141
+   shots-percent: 79
 vs:
  - Ackerman, Skylar
  - Adams, Melissa
@@ -106,8 +124,10 @@ vs:
  - Birt, Suzanne
  - Black, Christina
  - Bobbie, Tess
+ - Brothers, Jill
  - Brown, Corryn
  - Brown, Rachel
+ - Brunton, Kira
  - Burgess, Karlee
  - Burt, Camille
  - Cameron, Kate
@@ -116,43 +136,54 @@ vs:
  - Christianson, Marie
  - Courtney, Joanne
  - Crandall, Jaclyn
+ - Cullen, Brianna
  - Curtis, Erica
  - Curtis, Stacie
+ - Daly, Calissa
+ - deGroot, Cassandra
  - DiCarlo, Jane
  - Doerksen, Katherine
  - Dubue, Lindsay
  - Duncan, Hollie
  - Eddy, Lori
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Everist, Karlee
  - Fisher, Sam
  - Flemming, Margot
  - Foster, Kerry
  - Fyfe, Liz
  - Galusha, Kerry
+ - Galusha, Sydney
+ - Godsland, Brooke
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
  - Hamilton, Beth
  - Harris, Briane
  - Hawes, Dezaray
+ - Hebert, Rebecca
+ - Helston, Raelyn
  - Hill, Sarah
  - Homan, Rachel
+ - Horte, Bailey
  - Hughes, Meaghan
+ - Inglis, Danielle
  - Jenkins, Whitney
  - Jones, Jennifer
  - Just, Sherry
  - Karwacki, Krysten
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Knapp, Breanne
+ - Koehler, Megan
  - Koltun, Sarah
+ - Lamswood, Sarah
  - Lawes, Kaitlyn
  - Lenentine, Lauren
  - Lilly, Kendra
  - Lister, Kendra
  - Loder, Jenna
  - Loken, Sarah
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacMillan, Kayla
  - MacPhail, Brigitte
@@ -168,9 +199,11 @@ vs:
  - Peterson, Beth
  - Pincott, Erin
  - Pinksen, Sadie
+ - Porter, Erin
  - Potts, Sarah
  - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
+ - Rumberg, Crystal
  - Schafer, Kelly
  - Schmiemann, Danielle
  - Schraeder, Jeanna
@@ -178,10 +211,12 @@ vs:
  - Shea, Michelle
  - Silvernagle, Robyn
  - Simons, Renee
+ - Skauge, Ella
  - Skinner, Kaylin
  - Skrlik, Ashton
  - Skrlik, Kayla
  - Smith, Sabrina
+ - Stewart, Chaelynn
  - Stremick, Taylor
  - Strybosch, Rachelle
  - Sturmay, Selena
@@ -194,7 +229,6 @@ vs:
  - Walker, Laura
  - Wallingham, Patty
  - Weagle, Lisa
- - Webster, Crystal
  - Wilkes, Sarah
  - Wiseman, Jessica
  - Zacharias, Emily

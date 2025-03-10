@@ -4,18 +4,18 @@ name: Erin Porter
 name-sort: Porter, Erin
 totals:
  - event: Hearts
-   games: 49
-   wins: 15
-   losses: 34
-   inturn-total: 441
+   games: 57
+   wins: 16
+   losses: 41
+   inturn-total: 508
    inturn-percent: 76
-   outturn-total: 489
+   outturn-total: 566
    outturn-percent: 74
-   draw-total: 393
+   draw-total: 450
    draw-percent: 73
-   takeout-total: 537
-   takeout-percent: 77
-   shots-total: 930
+   takeout-total: 624
+   takeout-percent: 76
+   shots-total: 1074
    shots-percent: 75
 years:
  - year: 2013
@@ -108,6 +108,24 @@ years:
    takeout-percent: 73
    shots-total: 130
    shots-percent: 68
+ - year: 2025
+   event: Hearts
+   team: "NL"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 67
+   inturn-percent: 73
+   outturn-total: 77
+   outturn-percent: 73
+   draw-total: 57
+   draw-percent: 74
+   takeout-total: 87
+   takeout-percent: 72
+   shots-total: 144
+   shots-percent: 73
 vs:
  - Adams, Melissa
  - Alcoe-Holland, Jill
@@ -130,6 +148,8 @@ vs:
  - Briand, Oye-Sem Won
  - Brothers, Jill
  - Brown, Corryn
+ - Brunton, Kira
+ - Burgess, Karlee
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
@@ -139,7 +159,10 @@ vs:
  - Christianson, Marie
  - Cormier, Sharon
  - Courtney, Joanne
+ - Cullen, Brianna
  - Cutcliffe, Margaret
+ - Daly, Calissa
+ - deGroot, Cassandra
  - deJager, Blaine
  - Derry, Danielle
  - deSolla, Jodie
@@ -149,28 +172,36 @@ vs:
  - Duncan, Hollie
  - Dykstra, Michelle
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Englot, Michelle
+ - Everist, Karlee
  - Eyamie, Lisa
+ - Foster, Kerry
  - Fullerton, Sarah
  - Fyfe, Liz
  - Gagne, Emilia
  - Galusha, Kerry
  - Gibson, Amy
+ - Gordon, Kristin
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
  - Harvey, Marie-Pier
+ - Helston, Raelyn
  - Hill, Trish
  - Holtby, Taryn
  - Homan, Rachel
+ - Horte, Bailey
  - Howard, Ashley
  - Hughes, Meaghan
  - Hutchings, Denise
+ - Inglis, Danielle
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Colleen
  - Jones, Jennifer
  - Joyce, Blisse
+ - Karwacki, Krysten
  - Kelly, Andrea
  - Kelly, Kim
  - Klymchuk, Ashley
@@ -186,7 +217,6 @@ vs:
  - Lilly, Kendra
  - Lister, Kendra
  - Logan, Emma
- - MacCuish, Kristin
  - MacDougall, Leslie
  - MacPhee, Robyn
  - Mair, Jessica
@@ -194,6 +224,7 @@ vs:
  - Mann, Lauren
  - Mattatall, Mary
  - McCarville, Krista
+ - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Miller, Wendy
@@ -217,25 +248,32 @@ vs:
  - Pincott, Erin
  - Plonka, Gabrielle
  - Potts, Sarah
+ - Powers, Marlee
  - Quillian, Sylvie
  - Rainville, Julie
- - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
+ - Riley, Emily
  - Rizzo, Jo-Ann
  - Ross, Allison
+ - Ryan, Kristen
  - Sagle, Karen
  - Saulnier, Andrea
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schneider, Lorraine
  - Schraeder, Jeanna
+ - Scoffin, Bayly
  - Scott, Kelly
  - Shackleton, Amie
  - Shea, Michelle
  - Shumay, Jill
  - Sicinski, Danielle
+ - Sinclair, Jamie
  - Sippala, Ashley
+ - Skauge, Ella
+ - St-Georges, Laurie
+ - Sweeting, Val
  - Thiessen, Alison
  - Thompson, Karla
  - Tuor, Kimberly

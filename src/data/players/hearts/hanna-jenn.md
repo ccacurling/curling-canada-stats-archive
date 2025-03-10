@@ -86,6 +86,7 @@ vs:
  - Gagnier, Monique
  - Galusha, Kerry
  - Gauthier, Cathy
+ - Gordon, Kristin
  - Hamilton, Beth
  - Hamon, Callan
  - Howard, Ashley
@@ -103,7 +104,6 @@ vs:
  - Leger, Stacey
  - Lemay, Annie
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacPhee, Robyn
  - Mattatall, Mary
@@ -126,10 +126,10 @@ vs:
  - Prosser, Sandi
  - Quillian, Sylvie
  - Rainville, Julie
- - Recksiedler, Kristen
  - Richard, Marie
  - Rocque, Raylene
  - Ross, Allison
+ - Ryan, Kristen
  - Scott, Kelly
  - Sharpe, Kelli
  - Simons, Renee

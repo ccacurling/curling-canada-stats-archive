@@ -208,6 +208,7 @@ vs:
  - Gagne, Emilia
  - Galusha, Kerry
  - Gibson, Amy
+ - Gordon, Kristin
  - Gregoire, Veronique
  - Hamon, Callan
  - Hanna, Jenn
@@ -246,7 +247,6 @@ vs:
  - Lenentine, Lauren
  - Lilly, Kendra
  - Lister, Kendra
- - MacCuish, Kristin
  - MacDougall, Leslie
  - MacPhee, Robyn
  - Mair, Jessica
@@ -286,12 +286,12 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Rainville, Julie
- - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Ross, Allison
+ - Ryan, Kristen
  - Sagle, Karen
  - Saulnier, Andrea
  - Scheidegger, Casey

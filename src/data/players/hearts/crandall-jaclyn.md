@@ -4,19 +4,19 @@ name: Jaclyn Crandall
 name-sort: Crandall, Jaclyn
 totals:
  - event: Hearts
-   games: 16
-   wins: 5
-   losses: 11
-   inturn-total: 165
+   games: 24
+   wins: 7
+   losses: 17
+   inturn-total: 244
    inturn-percent: 71
-   outturn-total: 133
-   outturn-percent: 68
-   draw-total: 136
-   draw-percent: 65
-   takeout-total: 162
+   outturn-total: 208
+   outturn-percent: 70
+   draw-total: 207
+   draw-percent: 67
+   takeout-total: 245
    takeout-percent: 73
-   shots-total: 298
-   shots-percent: 69
+   shots-total: 452
+   shots-percent: 71
 years:
  - year: 2021
    event: Hearts
@@ -54,6 +54,24 @@ years:
    takeout-percent: 74
    shots-total: 148
    shots-percent: 70
+ - year: 2025
+   event: Hearts
+   team: "NB"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 79
+   inturn-percent: 72
+   outturn-total: 75
+   outturn-percent: 74
+   draw-total: 71
+   draw-percent: 72
+   takeout-total: 83
+   takeout-percent: 74
+   shots-total: 154
+   shots-percent: 73
 vs:
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -69,6 +87,8 @@ vs:
  - Christianson, Marie
  - Daly, Calissa
  - deGroot, Cassandra
+ - DiCarlo, Jane
+ - Doig, Deanna
  - Dubue, Lindsay
  - Eddy, Lori
  - Elias, Mackenzie
@@ -78,8 +98,10 @@ vs:
  - Foster, Kerry
  - Fyfe, Liz
  - Galusha, Kerry
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
+ - Gustafson, Leigh
  - Hamilton, Beth
  - Hawes, Dezaray
  - Helston, Raelyn
@@ -87,32 +109,46 @@ vs:
  - Homan, Rachel
  - Hughes, Meaghan
  - Inglis, Danielle
+ - Jenkins, Whitney
  - Jones, Jennifer
- - Kitz, Chaelynn
+ - Kelly, Andrea
  - Knapp, Breanne
  - Koltun, Sarah
  - Lawes, Kaitlyn
  - Loken, Sarah
- - MacCuish, Kristin
+ - Lott, Kadriana
  - MacDonald, Kaitlin
  - MacMillan, Kayla
  - Martin, Nancy
+ - Mayne, Veronica
+ - McCarville, Krista
  - Mercer, Adrienne
  - Miskew, Emma
  - Njegovan, Selena
+ - Papley, Paige
  - Peterman, Jocelyn
  - Pincott, Erin
  - Pinksen, Sadie
+ - Potts, Sarah
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Rocque, Kelsey
+ - Schmiemann, Danielle
  - Scoffin, Bayly
  - Shea, Michelle
+ - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smith, Heather
+ - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Strong, Helen
+ - Sturmay, Selena
+ - Taylor, Alison
  - Walter, Meghan
+ - Weagle, Julia
  - Weagle, Lisa
  - Westcott, Raunora
  - Wilkes, Sarah

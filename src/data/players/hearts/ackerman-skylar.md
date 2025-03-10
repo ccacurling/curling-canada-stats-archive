@@ -62,6 +62,7 @@ vs:
  - DiCarlo, Jane
  - Einarson, Kerri
  - Fisher, Sam
+ - Gordon, Kristin
  - Harris, Briane
  - Hawes, Dezaray
  - Jenkins, Whitney
@@ -70,7 +71,6 @@ vs:
  - Larouche, Marie-France
  - Lawes, Kaitlyn
  - Lilly, Kendra
- - MacCuish, Kristin
  - Mayne, Veronica
  - McCarville, Krista
  - Middaugh, Kelly

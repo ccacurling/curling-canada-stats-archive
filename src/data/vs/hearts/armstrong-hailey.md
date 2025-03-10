@@ -890,6 +890,34 @@ vs:
       year: 2022
       draw: Round Robin(12)
       score: NT 7 - QC 6
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 63
+        wins: 1
+        losses: 0
+      player2:
+        percent: 91
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 63
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(9)
+      score: WC 7 - QC 8
  - name: Griffin, Alison
    totals:
     - event: Hearts
@@ -1130,34 +1158,6 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: MB 7 - QC 4
- - name: Kitz, Chaelynn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 0
-        losses: 1
-      player2:
-        percent: 78
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 78
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(13)
-      score: QC 6 - SK 9
  - name: Knapp, Breanne
    totals:
     - event: Hearts
@@ -1326,34 +1326,6 @@ vs:
       year: 2021
       draw: Pool(23)
       score: WC 10 - QC 3
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 63
-        wins: 1
-        losses: 0
-      player2:
-        percent: 91
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent: 63
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 91
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(9)
-      score: WC 7 - QC 8
  - name: MacDonald, Kaitlin
    totals:
     - event: Hearts
@@ -1790,6 +1762,34 @@ vs:
       year: 2022
       draw: Round Robin(8)
       score: QC 5 - BC 8
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(13)
+      score: QC 6 - SK 9
  - name: Strybosch, Rachelle
    totals:
     - event: Hearts

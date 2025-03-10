@@ -350,6 +350,34 @@ vs:
       year: 2023
       draw: Round Robin(13)
       score: QC 8 - PE 4
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(2)
+      score: PE 7 - SK 6
  - name: Strong, Heather
    totals:
     - event: Hearts

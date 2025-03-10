@@ -4,19 +4,19 @@ name: Karlee Burgess
 name-sort: Burgess, Karlee
 totals:
  - event: Hearts
-   games: 41
-   wins: 26
-   losses: 15
-   inturn-total: 382
-   inturn-percent: 80
-   outturn-total: 400
-   outturn-percent: 80
-   draw-total: 263
-   draw-percent: 78
-   takeout-total: 519
-   takeout-percent: 81
-   shots-total: 782
-   shots-percent: 80
+   games: 53
+   wins: 34
+   losses: 19
+   inturn-total: 522
+   inturn-percent: 81
+   outturn-total: 495
+   outturn-percent: 81
+   draw-total: 360
+   draw-percent: 79
+   takeout-total: 657
+   takeout-percent: 82
+   shots-total: 1017
+   shots-percent: 81
 years:
  - year: 2021
    event: Hearts
@@ -90,6 +90,24 @@ years:
    takeout-percent: 83
    shots-total: 220
    shots-percent: 82
+ - year: 2025
+   event: Hearts
+   team: "MB"
+   position: Second
+   alternate: false
+   games: 12
+   wins: 8
+   losses: 4
+   inturn-total: 140
+   inturn-percent: 85
+   outturn-total: 95
+   outturn-percent: 84
+   draw-total: 97
+   draw-percent: 84
+   takeout-total: 138
+   takeout-percent: 85
+   shots-total: 235
+   shots-percent: 84
 vs:
  - Ackland, Abby
  - Adams, Melissa
@@ -115,6 +133,7 @@ vs:
  - Christianson, Marie
  - Courtney, Joanne
  - Crandall, Jaclyn
+ - Cullen, Brianna
  - Curtis, Erica
  - Curtis, Stacie
  - Daly, Calissa
@@ -131,6 +150,9 @@ vs:
  - Forward, Katie
  - Foster, Kerry
  - Galusha, Kerry
+ - Galusha, Sydney
+ - Godsland, Brooke
+ - Gordon, Kristin
  - Grandy, Clancy
  - Guy, Sara
  - Harris, Briane
@@ -138,10 +160,14 @@ vs:
  - Hawes, Dezaray
  - Helston, Raelyn
  - Homan, Rachel
+ - Horte, Bailey
  - Hynes, Julie
  - Inglis, Danielle
  - Kelly, Andrea
+ - Koehler, Megan
  - Koltun, Sarah
+ - Lamswood, Sarah
+ - Lawes, Kaitlyn
  - Lilly, Kendra
  - Lister, Kendra
  - Loder, Jenna
@@ -151,11 +177,16 @@ vs:
  - McCarville, Krista
  - McDonald, Taylor
  - Miskew, Emma
+ - Njegovan, Selena
  - Oliver, Sara
  - Papley, Paige
+ - Peterman, Jocelyn
  - Peterson, Beth
+ - Porter, Erin
  - Potts, Sarah
+ - Powers, Marlee
  - Quillian, Sylvie
+ - Ramsay, Geri-Lynn
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Rocque, Kelsey
@@ -165,7 +196,11 @@ vs:
  - Scoffin, Bayly
  - Scotland, Nadine
  - Simons, Renee
+ - Sinclair, Jamie
  - Sippala, Ashley
+ - Skauge, Ella
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smith, Heather
  - Smith, Megan
  - St-Georges, Cynthia
@@ -179,5 +214,6 @@ vs:
  - Wallingham, Patty
  - Walter, Meghan
  - Ward, Molli
+ - Weagle, Lisa
  - Wilkes, Sarah
 ---

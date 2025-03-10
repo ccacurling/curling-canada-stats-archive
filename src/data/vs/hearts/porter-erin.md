@@ -46,6 +46,34 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: NL 3 - NO 6
+ - name: Powers, Marlee
+   totals:
+    - event: Hearts
+      player1:
+        percent: 82
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Second
+        percent: 90
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(8)
+      score: NS 11 - NL 4
  - name: Quillian, Sylvie
    totals:
     - event: Hearts
@@ -118,34 +146,6 @@ vs:
       year: 2016
       draw: Round Robin(6)
       score: NL 10 - QC 6
- - name: Recksiedler, Kristen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 1
-        losses: 0
-      player2:
-        percent: 73
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NL'
-        position: Third
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
-        position: Third
-        percent: 73
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(11)
-      score: BC 7 - NL 10
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -202,6 +202,34 @@ vs:
       year: 2017
       draw: Round Robin(4)
       score: BC 5 - NL 10
+ - name: Riley, Emily
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(12)
+      score: NL 4 - QC 11
  - name: Rizzo, Jo-Ann
    totals:
     - event: Hearts
@@ -258,6 +286,34 @@ vs:
       year: 2013
       draw: Round Robin(15)
       score: NL 8 - QC 7
+ - name: Ryan, Kristen
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 73
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(11)
+      score: BC 7 - NL 10
  - name: Sagle, Karen
    totals:
     - event: Hearts
@@ -458,6 +514,34 @@ vs:
       year: 2013
       draw: Round Robin(13)
       score: NL 4 - BC 7
+ - name: Scoffin, Bayly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 73
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(18)
+      score: YT 6 - NL 11
  - name: Scott, Kelly
    totals:
     - event: Hearts
@@ -630,6 +714,34 @@ vs:
       year: 2017
       draw: Round Robin(2)
       score: SK 4 - NL 7
+ - name: Sinclair, Jamie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(12)
+      score: NL 4 - QC 11
  - name: Sippala, Ashley
    totals:
     - event: Hearts
@@ -674,6 +786,90 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: NL 3 - NO 6
+ - name: Skauge, Ella
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 72
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NT'
+        position: Second
+        percent: 72
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(16)
+      score: NL 7 - NT 8
+ - name: St-Georges, Laurie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(12)
+      score: NL 4 - QC 11
+ - name: Sweeting, Val
+   totals:
+    - event: Hearts
+      player1:
+        percent: 63
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(2)
+      score: NL 4 - MB 6
  - name: Thiessen, Alison
    totals:
     - event: Hearts
@@ -930,12 +1126,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 67
+        percent: 70
         wins: 0
-        losses: 3
+        losses: 4
       player2:
-        percent: 82
-        wins: 3
+        percent: 83
+        wins: 4
         losses: 0
    games:
     - player1:
@@ -986,6 +1182,22 @@ vs:
       year: 2020
       draw: Round Robin(3)
       score: NL 5 - ON 10
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(12)
+      score: NL 4 - QC 11
  - name: West, Christianne
    totals:
     - event: Hearts

@@ -4,19 +4,19 @@ name: Sadie Pinksen
 name-sort: Pinksen, Sadie
 totals:
  - event: Hearts
-   games: 38
+   games: 46
    wins: 3
-   losses: 35
-   inturn-total: 363
-   inturn-percent: 64
-   outturn-total: 317
+   losses: 43
+   inturn-total: 456
+   inturn-percent: 66
+   outturn-total: 383
    outturn-percent: 68
-   draw-total: 339
-   draw-percent: 64
-   takeout-total: 341
-   takeout-percent: 67
-   shots-total: 680
-   shots-percent: 66
+   draw-total: 415
+   draw-percent: 65
+   takeout-total: 424
+   takeout-percent: 68
+   shots-total: 839
+   shots-percent: 67
 years:
  - year: 2019
    event: Hearts
@@ -142,7 +142,26 @@ years:
    takeout-percent: 69
    shots-total: 136
    shots-percent: 67
+ - year: 2025
+   event: Hearts
+   team: "NU"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 0
+   losses: 8
+   inturn-total: 93
+   inturn-percent: 74
+   outturn-total: 66
+   outturn-percent: 66
+   draw-total: 76
+   draw-percent: 68
+   takeout-total: 83
+   takeout-percent: 74
+   shots-total: 159
+   shots-percent: 71
 vs:
+ - Ackerman, Colleen
  - Adams, Melissa
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -171,6 +190,7 @@ vs:
  - Courtney, Joanne
  - Crandall, Jaclyn
  - Daigle, Julie
+ - DiCarlo, Jane
  - Dubue, Lindsay
  - Dunn, Michelle
  - Einarson, Kerri
@@ -180,11 +200,13 @@ vs:
  - Ferguson, Dana
  - Fisher, Sam
  - Flaxey, Allison
+ - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie
  - Fyfe, Liz
  - Gamble, Christie
  - Gates, Jennifer
+ - Gordon, Kristin
  - Grandy, Clancy
  - Hamilton, Beth
  - Harris, Briane
@@ -193,11 +215,12 @@ vs:
  - Homan, Rachel
  - Hughes, Meaghan
  - Hunkin, Jessie
+ - Jenkins, Whitney
  - Jones, Jennifer
  - Just, Sherry
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Knapp, Breanne
+ - Koltun, Sarah
  - Kreviazuk, Cheryl
  - Kreviazuk, Lynn
  - Lavoie, Gabrielle
@@ -206,9 +229,10 @@ vs:
  - Lilly, Kendra
  - Lister, Kendra
  - Loken, Sarah
- - MacCuish, Kristin
+ - Lott, Kadriana
  - MacMillan, Kayla
  - Martin, Nancy
+ - Mayne, Veronica
  - McCarville, Krista
  - McDonald, Taylor
  - Mercer, Adrienne
@@ -218,6 +242,7 @@ vs:
  - Murphy, Sarah
  - Njegovan, Robyn
  - Njegovan, Selena
+ - Papley, Paige
  - Peterman, Jocelyn
  - Pilote, Kristen
  - Pincott, Erin
@@ -229,9 +254,12 @@ vs:
  - Routledge, Alanna
  - Routledge, Jill
  - Rusnell, Jen
+ - Russell, Kayla
+ - Ryan, Kristen
  - Sandwith, Carley
  - Schafer, Kelly
  - Schmidt, Stephanie
+ - Schmiemann, Danielle
  - Scotland, Nadine
  - Sharpe, Kelli
  - Shea, Michelle
@@ -240,8 +268,11 @@ vs:
  - Sippala, Ashley
  - Skrlik, Ashton
  - Skrlik, Kayla
+ - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
+ - Sturmay, Selena
  - Sweeting, Val
  - Thevenot, Kara
  - Tran, Brittany

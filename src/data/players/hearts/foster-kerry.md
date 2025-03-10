@@ -4,19 +4,19 @@ name: Kerry Foster
 name-sort: Foster, Kerry
 totals:
  - event: Hearts
-   games: 22
-   wins: 2
-   losses: 20
-   inturn-total: 199
-   inturn-percent: 69
-   outturn-total: 189
+   games: 29
+   wins: 3
+   losses: 26
+   inturn-total: 272
+   inturn-percent: 70
+   outturn-total: 242
    outturn-percent: 65
-   draw-total: 191
-   draw-percent: 67
-   takeout-total: 197
-   takeout-percent: 67
-   shots-total: 388
-   shots-percent: 67
+   draw-total: 257
+   draw-percent: 66
+   takeout-total: 257
+   takeout-percent: 69
+   shots-total: 514
+   shots-percent: 68
 years:
  - year: 2022
    event: Hearts
@@ -106,11 +106,64 @@ years:
    takeout-percent: 69
    shots-total: 138
    shots-percent: 68
+ - year: 2025
+   event: Hearts
+   team: "YT"
+   position: Second
+   alternate: false
+   games: 5
+   wins: 1
+   losses: 4
+   inturn-total: 54
+   inturn-percent: 75
+   outturn-total: 36
+   outturn-percent: 68
+   draw-total: 51
+   draw-percent: 65
+   takeout-total: 39
+   takeout-percent: 82
+   shots-total: 90
+   shots-percent: 73
+ - year: 2025
+   event: Hearts
+   team: "YT"
+   position: Third
+   alternate: false
+   games: 2
+   wins: 0
+   losses: 2
+   inturn-total: 19
+   inturn-percent: 64
+   outturn-total: 17
+   outturn-percent: 63
+   draw-total: 15
+   draw-percent: 57
+   takeout-total: 21
+   takeout-percent: 69
+   shots-total: 36
+   shots-percent: 64
+ - year: 2025
+   event: Hearts
+   team: Totals
+   games: 7
+   wins: 1
+   losses: 6
+   inturn-total: 73
+   inturn-percent: 73
+   outturn-total: 53
+   outturn-percent: 67
+   draw-total: 66
+   draw-percent: 63
+   takeout-total: 60
+   takeout-percent: 78
+   shots-total: 126
+   shots-percent: 70
 vs:
  - Ackland, Abby
  - Adams, Melissa
  - Armstrong, Hailey
  - Arsenault, Mary-Anne
+ - Barbour, Shona
  - Barker, Shelley
  - Baxter, Jennifer
  - Birchard, Shannon
@@ -125,6 +178,7 @@ vs:
  - Carter, Sasha
  - Christianson, Marie
  - Crandall, Jaclyn
+ - Cullen, Brianna
  - Curtis, Erica
  - Curtis, Stacie
  - Daly, Calissa
@@ -137,6 +191,9 @@ vs:
  - Fleury, Tracy
  - Forward, Katie
  - Galusha, Kerry
+ - Galusha, Sydney
+ - Godsland, Brooke
+ - Gordon, Kristin
  - Grandy, Clancy
  - Harris, Briane
  - Haughian, Jessie
@@ -144,8 +201,12 @@ vs:
  - Hynes, Julie
  - Inglis, Danielle
  - Jones, Jennifer
+ - Karwacki, Krysten
  - Kelly, Andrea
+ - Koehler, Megan
  - Koltun, Sarah
+ - Lamswood, Sarah
+ - Lawes, Kaitlyn
  - Lenentine, Lauren
  - Lilly, Kendra
  - Loken, Sarah
@@ -154,8 +215,12 @@ vs:
  - McDonald, Taylor
  - Miskew, Emma
  - Moore, Kristie
+ - Njegovan, Selena
  - Oliver, Sara
+ - Peterman, Jocelyn
+ - Porter, Erin
  - Potts, Sarah
+ - Powers, Marlee
  - Quillian, Sylvie
  - Riley, Emily
  - Rizzo, Jo-Ann
@@ -165,6 +230,7 @@ vs:
  - Scheidegger, Casey
  - Schraeder, Jeanna
  - Simons, Renee
+ - Sinclair, Jamie
  - Sippala, Ashley
  - Smith, Heather
  - St-Georges, Laurie
@@ -172,6 +238,7 @@ vs:
  - Tuck, Kimberly
  - Walter, Meghan
  - Ward, Molli
+ - Weagle, Lisa
  - Wilkes, Sarah
  - Zacharias, Emily
  - Zacharias, Mackenzie

@@ -54,19 +54,19 @@ vs:
  - Gagne, Emilia
  - Galusha, Kerry
  - Gates, Amanda
+ - Gordon, Kristin
  - Harvey, Marie-Pier
  - Jones, Jennifer
  - Koehler, Megan
  - Koltun, Sarah
  - Lister, Kendra
- - MacCuish, Kristin
  - McEwen, Dawn
  - Njegovan, Selena
  - Officer, Jill
  - Perron, Melina
  - Price, Kara
  - Quillian, Sylvie
+ - Rumberg, Crystal
  - Smallwood, Jody
- - Webster, Crystal
  - Wylie, Jennifer
 ---

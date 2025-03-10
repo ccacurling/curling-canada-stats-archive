@@ -77,6 +77,7 @@ vs:
  - Fleury, Tracy
  - Foster, Kerry
  - Galusha, Kerry
+ - Gordon, Kristin
  - Harris, Briane
  - Helston, Raelyn
  - Homan, Rachel
@@ -88,7 +89,6 @@ vs:
  - Lawes, Kaitlyn
  - Lenentine, Lauren
  - Lister, Kendra
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacPhail, Brigitte
  - Middaugh, Kelly

@@ -126,6 +126,7 @@ vs:
  - Fyfe, Liz
  - Gamble, Christie
  - Gates, Jennifer
+ - Gordon, Kristin
  - Grandy, Clancy
  - Hamilton, Beth
  - Harris, Briane
@@ -136,7 +137,6 @@ vs:
  - Jones, Jennifer
  - Just, Sherry
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Knapp, Breanne
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
@@ -144,7 +144,6 @@ vs:
  - Lilly, Kendra
  - Lister, Kendra
  - Loken, Sarah
- - MacCuish, Kristin
  - MacMillan, Kayla
  - Martin, Nancy
  - McCarville, Krista
@@ -175,6 +174,7 @@ vs:
  - Skrlik, Kayla
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Sweeting, Val
  - Thevenot, Kara
  - Tran, Brittany

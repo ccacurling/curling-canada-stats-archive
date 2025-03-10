@@ -169,6 +169,7 @@ vs:
  - Galusha, Kerry
  - Gannon, Melissa
  - Gates, Amanda
+ - Gordon, Kristin
  - Hamilton, Beth
  - Hawes, Dezaray
  - Homan, Rachel
@@ -194,7 +195,6 @@ vs:
  - Lilly, Kendra
  - Lister, Kendra
  - Logan, Emma
- - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - Mackey, Robyn
  - McCarville, Krista
@@ -214,6 +214,7 @@ vs:
  - Rizzo, Jo-Ann
  - Robison, Michala
  - Ross, Allison
+ - Rumberg, Crystal
  - Sanderson, Jessie
  - Sandwith, Carley
  - Shea, Michelle
@@ -227,7 +228,6 @@ vs:
  - Tuck, Kimberly
  - Udle, Teri
  - Weagle, Lisa
- - Webster, Crystal
  - West, Christianne
  - Wilkes, Sarah
  - Wiseman, Jessica

@@ -4,19 +4,19 @@ name: Margot Flemming
 name-sort: Flemming, Margot
 totals:
  - event: Hearts
-   games: 34
-   wins: 17
-   losses: 17
-   inturn-total: 361
-   inturn-percent: 77
-   outturn-total: 296
+   games: 45
+   wins: 24
+   losses: 21
+   inturn-total: 482
+   inturn-percent: 78
+   outturn-total: 396
    outturn-percent: 76
-   draw-total: 278
+   draw-total: 364
    draw-percent: 79
-   takeout-total: 379
-   takeout-percent: 74
-   shots-total: 657
-   shots-percent: 76
+   takeout-total: 514
+   takeout-percent: 76
+   shots-total: 878
+   shots-percent: 77
 years:
  - year: 2021
    event: Hearts
@@ -90,6 +90,24 @@ years:
    takeout-percent: 80
    shots-total: 156
    shots-percent: 78
+ - year: 2025
+   event: Hearts
+   team: "AB"
+   position: Third
+   alternate: false
+   games: 11
+   wins: 7
+   losses: 4
+   inturn-total: 121
+   inturn-percent: 84
+   outturn-total: 100
+   outturn-percent: 77
+   draw-total: 86
+   draw-percent: 79
+   takeout-total: 135
+   takeout-percent: 82
+   shots-total: 221
+   shots-percent: 81
 vs:
  - Ackland, Abby
  - Adams, Melissa
@@ -105,6 +123,7 @@ vs:
  - Bobbie, Tess
  - Brine, Jenn
  - Brothers, Jill
+ - Brown, Corryn
  - Brown, Rachel
  - Brunton, Kira
  - Burgess, Karlee
@@ -120,54 +139,74 @@ vs:
  - Curtis, Stacie
  - Daly, Calissa
  - deGroot, Cassandra
+ - DiCarlo, Jane
  - Doerksen, Katherine
+ - Doig, Deanna
  - Dubue, Lindsay
  - Duncan, Chelsea
  - Duncan, Hollie
  - Einarson, Kerri
  - Elias, Mackenzie
  - Everist, Karlee
+ - Fisher, Sam
  - Fleury, Tracy
  - Forward, Katie
  - Foster, Kerry
  - Gates, Amanda
  - Grandy, Clancy
+ - Gustafson, Leigh
  - Guy, Sara
  - Harris, Briane
  - Haughian, Jessie
+ - Hawes, Dezaray
  - Helston, Raelyn
  - Homan, Rachel
  - Hynes, Julie
  - Inglis, Danielle
+ - Jenkins, Whitney
  - Jones, Jennifer
+ - Karwacki, Krysten
  - Kelly, Andrea
+ - Koltun, Sarah
  - Lenentine, Lauren
  - Lilly, Kendra
  - Lister, Kendra
  - Loder, Jenna
  - Logan, Emma
  - Loken, Sarah
+ - Lott, Kadriana
  - MacMillan, Kayla
+ - Martin, Nancy
+ - Mayne, Veronica
  - McCarville, Krista
  - McDonald, Taylor
  - Miskew, Emma
  - Muise, Morgan
  - Oliver, Sara
+ - Papley, Paige
  - Peterson, Beth
+ - Pincott, Erin
+ - Pinksen, Sadie
  - Potts, Sarah
+ - Powers, Marlee
  - Quillian, Sylvie
  - Riley, Emily
  - Rocque, Kelsey
+ - Russell, Kayla
  - Scheidegger, Casey
+ - Schmiemann, Danielle
  - Schraeder, Jeanna
  - Scoffin, Bayly
  - Scotland, Nadine
  - Sippala, Ashley
  - Smith, Heather
  - Smith, Megan
+ - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Strybosch, Rachelle
+ - Sturmay, Selena
  - Sweeting, Val
  - Tran, Brittany
  - Tuor, Kimberly
@@ -175,6 +214,7 @@ vs:
  - Wallingham, Patty
  - Walter, Meghan
  - Ward, Molli
+ - Weagle, Julia
  - Wilkes, Sarah
  - Zacharias, Emily
  - Zacharias, Mackenzie

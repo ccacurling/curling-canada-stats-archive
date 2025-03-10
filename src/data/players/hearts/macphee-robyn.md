@@ -257,6 +257,7 @@ vs:
  - Gibson, Amy
  - Gilman, Sheena
  - Gogan, Jennifer
+ - Gordon, Kristin
  - Goss, Peg
  - Greening, Jackie-Rae
  - Gregoire, Veronique
@@ -308,7 +309,6 @@ vs:
  - Letendre, Pascale
  - Lilly, Kendra
  - Linton, Sherry
- - MacCuish, Kristin
  - MacInnes, Grace
  - Mackey, Robyn
  - MacLean, Kari
@@ -367,13 +367,13 @@ vs:
  - Provencal, Darah
  - Quillian, Sylvie
  - Rainville, Julie
- - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
  - Robertson, Darcy
  - Rocque, Raylene
  - Ross, Allison
  - Round, Coralee
+ - Ryan, Kristen
  - Sabourin, Joelle
  - Sagle, Karen
  - Santos, Deb

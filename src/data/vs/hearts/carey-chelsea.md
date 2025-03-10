@@ -1430,6 +1430,66 @@ vs:
       year: 2021
       draw: Round Robin(17)
       score: WC 11 - NL 2
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 1
+        losses: 2
+      player2:
+        percent: 80
+        wins: 2
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Round Robin(12)
+      score: MB 11 - AB 7
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2019
+      draw: Round Robin(1)
+      score: AB 7 - MB 6
+    - player1:
+        team: 'WC'
+        position: Fourth
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(11)
+      score: WC 4 - WC 9
  - name: Griffin, Alison
    totals:
     - event: Hearts
@@ -2422,34 +2482,6 @@ vs:
       year: 2022
       draw: Round Robin(17)
       score: NB 3 - WC 10
- - name: Kitz, Chaelynn
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 0
-        losses: 1
-      player2:
-        percent: 75
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'WC'
-        position: Fourth
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'SK'
-        position: Second
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(15)
-      score: SK 8 - WC 7
  - name: Kleibrink, Shannon
    totals:
     - event: Hearts
@@ -3154,66 +3186,6 @@ vs:
       year: 2021
       draw: Pool(22)
       score: WC 6 - WC 5
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 1
-        losses: 2
-      player2:
-        percent: 80
-        wins: 2
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 78
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Round Robin(12)
-      score: MB 11 - AB 7
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent: 85
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 81
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2019
-      draw: Round Robin(1)
-      score: AB 7 - MB 6
-    - player1:
-        team: 'WC'
-        position: Fourth
-        percent: 80
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Lead
-        percent: 81
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(11)
-      score: WC 4 - WC 9
  - name: MacDonald, Kaitlin
    totals:
     - event: Hearts
@@ -4834,34 +4806,6 @@ vs:
       year: 2016
       draw: Round Robin(11)
       score: QC 4 - AB 6
- - name: Recksiedler, Kristen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 88
-        wins: 1
-        losses: 0
-      player2:
-        percent: 63
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'BC'
-        position: Third
-        percent: 63
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(4)
-      score: BC 5 - AB 8
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -5086,6 +5030,34 @@ vs:
       year: 2019
       draw: Round Robin(7)
       score: BC 8 - AB 9
+ - name: Ryan, Kristen
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(4)
+      score: BC 5 - AB 8
  - name: Sagle, Karen
    totals:
     - event: Hearts
@@ -5802,6 +5774,34 @@ vs:
       year: 2021
       draw: Round Robin(9)
       score: WC 7 - QC 8
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(15)
+      score: SK 8 - WC 7
  - name: Strong, Heather
    totals:
     - event: Hearts

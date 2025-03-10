@@ -566,6 +566,34 @@ vs:
       year: 2015
       draw: Round Robin(8)
       score: NO 8 - NB 4
+ - name: Gordon, Kristin
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Round Robin(17)
+      score: NB 6 - MB 7
  - name: Hamon, Callan
    totals:
     - event: Hearts
@@ -1146,34 +1174,6 @@ vs:
       year: 2016
       draw: Round Robin(2)
       score: NO 6 - NB 3
- - name: MacCuish, Kristin
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 0
-        losses: 1
-      player2:
-        percent: 90
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Lead
-        percent: 84
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Lead
-        percent: 90
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Round Robin(17)
-      score: NB 6 - MB 7
  - name: MacPhee, Robyn
    totals:
     - event: Hearts
@@ -1766,34 +1766,6 @@ vs:
       year: 2016
       draw: Round Robin(14)
       score: NB 6 - QC 5
- - name: Recksiedler, Kristen
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 0
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Lead
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'BC'
-        position: Third
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Round Robin(15)
-      score: NB 5 - BC 7
  - name: Rusnell, Jen
    totals:
     - event: Hearts
@@ -1822,6 +1794,34 @@ vs:
       year: 2015
       draw: Round Robin(12)
       score: NB 8 - BC 7
+ - name: Ryan, Kristen
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Round Robin(15)
+      score: NB 5 - BC 7
  - name: Sagle, Karen
    totals:
     - event: Hearts

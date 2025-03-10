@@ -76,6 +76,7 @@ vs:
  - Forward, Katie
  - Fyfe, Liz
  - Gamble, Christie
+ - Gordon, Kristin
  - Grandy, Clancy
  - Hamilton, Beth
  - Harris, Briane
@@ -87,7 +88,6 @@ vs:
  - Lawes, Kaitlyn
  - Lilly, Kendra
  - Loken, Sarah
- - MacCuish, Kristin
  - MacMillan, Kayla
  - McCarville, Krista
  - Mercer, Adrienne

@@ -84,6 +84,7 @@ vs:
  - Fyfe, Liz
  - Gannon, Melissa
  - Gates, Jennifer
+ - Gordon, Kristin
  - Griffin, Alison
  - Haughian, Jessie
  - Homan, Rachel
@@ -100,7 +101,6 @@ vs:
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - McCarville, Krista
  - McDonald, Kristy

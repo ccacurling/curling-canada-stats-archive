@@ -175,7 +175,6 @@ vs:
  - Hynes, Julie
  - Jones, Jennifer
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Knapp, Breanne
  - Koehler, Megan
  - Koltun, Sarah
@@ -219,10 +218,11 @@ vs:
  - Price, Kara
  - Quillian, Sylvie
  - Rainville, Julie
- - Recksiedler, Kristen
  - Richard, Marie
  - Riley, Emily
+ - Rumberg, Crystal
  - Rusnell, Jen
+ - Ryan, Kristen
  - Sagle, Karen
  - Sandwith, Carley
  - Scheidegger, Casey
@@ -235,6 +235,7 @@ vs:
  - Smallwood, Jody
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Sweeting, Val
  - Taylor, Alison
  - Thompson, Karla
@@ -247,7 +248,6 @@ vs:
  - Walker, Laura
  - Wark, Sarah
  - Weagle, Lisa
- - Webster, Crystal
  - Westcott, Raunora
  - Wilkes, Sarah
  - Williamson, Ashley

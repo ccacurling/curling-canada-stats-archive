@@ -4,19 +4,19 @@ name: Jennifer Baxter
 name-sort: Baxter, Jennifer
 totals:
  - event: Hearts
-   games: 64
-   wins: 36
-   losses: 28
-   inturn-total: 758
+   games: 70
+   wins: 41
+   losses: 29
+   inturn-total: 804
    inturn-percent: 81
-   outturn-total: 473
-   outturn-percent: 79
-   draw-total: 661
+   outturn-total: 531
+   outturn-percent: 80
+   draw-total: 716
    draw-percent: 82
-   takeout-total: 570
+   takeout-total: 619
    takeout-percent: 79
-   shots-total: 1231
-   shots-percent: 80
+   shots-total: 1335
+   shots-percent: 81
 years:
  - year: 2013
    event: Hearts
@@ -126,6 +126,24 @@ years:
    takeout-percent: 77
    shots-total: 233
    shots-percent: 78
+ - year: 2025
+   event: Hearts
+   team: "NS"
+   position: Second
+   alternate: false
+   games: 6
+   wins: 5
+   losses: 1
+   inturn-total: 46
+   inturn-percent: 83
+   outturn-total: 58
+   outturn-percent: 84
+   draw-total: 55
+   draw-percent: 86
+   takeout-total: 49
+   takeout-percent: 80
+   shots-total: 104
+   shots-percent: 83
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -146,6 +164,7 @@ vs:
  - Bradley, Shelley
  - Brown, Corryn
  - Brown, Rachel
+ - Brunton, Kira
  - Burgess, Karlee
  - Cameron, Kate
  - Camozzi, Rhonda
@@ -159,6 +178,8 @@ vs:
  - Courtney, Joanne
  - Curtis, Erica
  - Curtis, Stacie
+ - Daly, Calissa
+ - deGroot, Cassandra
  - deJager, Blaine
  - deSolla, Jodie
  - Dubue, Lindsay
@@ -180,8 +201,10 @@ vs:
  - Fullerton, Sarah
  - Fyfe, Liz
  - Galusha, Kerry
+ - Galusha, Sydney
  - Gates, Amanda
  - Gibson, Amy
+ - Gordon, Kristin
  - Grandy, Clancy
  - Hamilton, Beth
  - Harris, Briane
@@ -191,6 +214,7 @@ vs:
  - Homan, Rachel
  - Hughes, Meaghan
  - Hynes, Julie
+ - Inglis, Danielle
  - Iskiw, Beth
  - Johnston, Kara
  - Jones, Jennifer
@@ -213,7 +237,6 @@ vs:
  - Lilly, Kendra
  - Lister, Kendra
  - Loken, Sarah
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacDougall, Leslie
  - MacMillan, Kayla
@@ -253,6 +276,7 @@ vs:
  - Rizzo, Jo-Ann
  - Ross, Allison
  - Routledge, Alanna
+ - Rumberg, Crystal
  - Rusnell, Jen
  - Sagle, Karen
  - Schafer, Kelly
@@ -266,6 +290,7 @@ vs:
  - Shumay, Jill
  - Silvernagle, Robyn
  - Simons, Renee
+ - Sinclair, Jamie
  - Sippala, Ashley
  - Skrlik, Ashton
  - Skrlik, Kayla
@@ -289,7 +314,6 @@ vs:
  - Wasylkiw, Lauren
  - Wazney, Sarah
  - Weagle, Lisa
- - Webster, Crystal
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie

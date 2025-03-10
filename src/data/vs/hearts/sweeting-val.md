@@ -566,12 +566,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 82
+        percent: 83
         wins: 3
-        losses: 3
+        losses: 4
       player2:
         percent: 88
-        wins: 3
+        wins: 4
         losses: 3
    games:
     - player1:
@@ -670,6 +670,22 @@ vs:
       year: 2021
       draw: Pool(23)
       score: CA 9 - MB 10
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(8)
+      score: QC 9 - MB 6
  - name: Westcott, Raunora
    totals:
     - event: Hearts
@@ -730,12 +746,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 82
+        percent: 83
         wins: 2
-        losses: 2
+        losses: 4
       player2:
-        percent: 84
-        wins: 2
+        percent: 86
+        wins: 4
         losses: 2
    games:
     - player1:
@@ -802,6 +818,38 @@ vs:
       year: 2024
       draw: Playoff(19)
       score: ON 8 - CA 4
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 92
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Page 1-2(22)
+      score: MB 4 - CA 8
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Final(24)
+      score: MB 1 - CA 6
  - name: Wilson, Leslie
    totals:
     - event: Hearts

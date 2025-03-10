@@ -4,19 +4,19 @@ name: Sam Fisher
 name-sort: Fisher, Sam
 totals:
  - event: Hearts
-   games: 16
-   wins: 8
-   losses: 8
-   inturn-total: 138
-   inturn-percent: 82
-   outturn-total: 155
-   outturn-percent: 87
-   draw-total: 247
-   draw-percent: 86
-   takeout-total: 46
-   takeout-percent: 78
-   shots-total: 293
-   shots-percent: 85
+   games: 25
+   wins: 14
+   losses: 11
+   inturn-total: 227
+   inturn-percent: 87
+   outturn-total: 230
+   outturn-percent: 88
+   draw-total: 383
+   draw-percent: 88
+   takeout-total: 74
+   takeout-percent: 85
+   shots-total: 457
+   shots-percent: 87
 years:
  - year: 2021
    event: Hearts
@@ -54,6 +54,24 @@ years:
    takeout-percent: 77
    shots-total: 146
    shots-percent: 85
+ - year: 2025
+   event: Hearts
+   team: "BC"
+   position: Lead
+   alternate: false
+   games: 9
+   wins: 6
+   losses: 3
+   inturn-total: 89
+   inturn-percent: 94
+   outturn-total: 75
+   outturn-percent: 90
+   draw-total: 136
+   draw-percent: 91
+   takeout-total: 28
+   takeout-percent: 98
+   shots-total: 164
+   shots-percent: 92
 vs:
  - Ackerman, Skylar
  - Adams, Melissa
@@ -63,6 +81,8 @@ vs:
  - Barron, Lauren
  - Birchard, Shannon
  - Birt, Suzanne
+ - Black, Christina
+ - Brothers, Jill
  - Burt, Camille
  - Carey, Chelsea
  - Christianson, Marie
@@ -70,47 +90,65 @@ vs:
  - Curtis, Erica
  - Curtis, Stacie
  - DiCarlo, Jane
+ - Doig, Deanna
  - Eddy, Lori
  - Einarson, Kerri
+ - Everist, Karlee
+ - Flemming, Margot
+ - Fleury, Tracy
  - Fyfe, Liz
+ - Gordon, Kristin
  - Griffin, Alison
+ - Gustafson, Leigh
  - Hamilton, Beth
  - Hawes, Dezaray
  - Hill, Sarah
+ - Homan, Rachel
  - Hughes, Meaghan
  - Hynes, Julie
  - Jenkins, Whitney
  - Jones, Jennifer
  - Karwacki, Krysten
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Knapp, Breanne
  - Larouche, Marie-France
  - Lawes, Kaitlyn
  - Lilly, Kendra
  - Lister, Kendra
- - MacCuish, Kristin
+ - Lott, Kadriana
  - MacDonald, Kaitlin
  - Martin, Nancy
  - Mayne, Veronica
  - McCarville, Krista
  - Mercer, Adrienne
  - Middaugh, Kelly
+ - Miskew, Emma
  - Njegovan, Selena
  - Papley, Paige
  - Peterman, Jocelyn
  - Pinksen, Sadie
  - Potts, Sarah
+ - Powers, Marlee
+ - Ramsay, Geri-Lynn
  - Riley, Emily
+ - Russell, Kayla
  - Schmiemann, Danielle
  - Shea, Michelle
+ - Sippala, Ashley
  - Skinner, Kaylin
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Stremick, Taylor
  - Sturmay, Selena
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Ashley
+ - Weagle, Julia
  - Weagle, Lisa
+ - White, Jenny
+ - Wilkes, Sarah
 ---

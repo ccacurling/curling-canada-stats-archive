@@ -473,6 +473,7 @@ vs:
  - Gibson, Amy
  - Gignac, Donna
  - Gilman, Sheena
+ - Gordon, Kristin
  - Goss, Peg
  - Graham-MacDonald, Bea
  - Grandy, Clancy
@@ -519,7 +520,6 @@ vs:
  - Kerr, Kathy
  - Kidd, Darlene
  - King, Cathy
- - Kitz, Chaelynn
  - Kleibrink, Shannon
  - Klymchuk, Ashley
  - Knapp, Breanne
@@ -549,7 +549,6 @@ vs:
  - Logan, Emma
  - Loken, Sarah
  - Lowther, Tammi
- - MacCuish, Kristin
  - MacDiarmid, Kristen
  - MacDonald, Kaitlin
  - MacDonald, Lawnie
@@ -630,7 +629,6 @@ vs:
  - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
- - Recksiedler, Kristen
  - Richard, Marie
  - Richards, Brette
  - Ridalls, Kristen
@@ -643,7 +641,9 @@ vs:
  - Rogers, Rhonda
  - Ross, Allison
  - Rudulier, Andrea
+ - Rumberg, Crystal
  - Rusnell, Jen
+ - Ryan, Kristen
  - Sabourin, Joelle
  - Sagle, Karen
  - Sandwith, Carley
@@ -676,6 +676,7 @@ vs:
  - Spencer, Barb
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Streifel, Tracy
  - Strong, Heather
  - Strong, Helen
@@ -709,7 +710,6 @@ vs:
  - Wazney, Sarah
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whitaker, Carol

@@ -48,6 +48,7 @@ vs:
  - Curtis, Stacie
  - Einarson, Kerri
  - Fyfe, Liz
+ - Gordon, Kristin
  - Hamon, Callan
  - Howard, Ashley
  - Hughes, Meaghan
@@ -58,7 +59,6 @@ vs:
  - Lawes, Kaitlyn
  - Lemay, Annie
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacPhee, Robyn
  - McCarville, Krista
  - McEwen, Dawn
@@ -73,8 +73,8 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Rainville, Julie
- - Recksiedler, Kristen
  - Richard, Marie
+ - Ryan, Kristen
  - Sippala, Ashley
  - Thompson, Karla
  - Udle, Teri

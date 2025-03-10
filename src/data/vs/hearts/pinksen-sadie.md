@@ -6,12 +6,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 63
+        percent: 68
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 80
-        wins: 2
+        percent: 84
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -46,6 +46,22 @@ vs:
       year: 2022
       draw: Round Robin(9)
       score: NU 6 - NO 7
+    - player1:
+        team: 'NU'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(11)
+      score: NU 4 - NO 8
  - name: Quillian, Sylvie
    totals:
     - event: Hearts
@@ -78,12 +94,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 82
+        percent: 81
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 99
-        wins: 1
+        percent: 92
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -102,6 +118,22 @@ vs:
       year: 2023
       draw: Round Robin(7)
       score: NU 4 - AB 9
+    - player1:
+        team: 'NU'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(17)
+      score: NU 4 - AB 7
  - name: Riley, Emily
    totals:
     - event: Hearts
@@ -274,6 +306,62 @@ vs:
       year: 2019
       draw: Round Robin(5)
       score: NU 1 - BC 10
+ - name: Russell, Kayla
+   totals:
+    - event: Hearts
+      player1:
+        percent: 66
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Third
+        percent: 66
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(5)
+      score: NB 6 - NU 3
+ - name: Ryan, Kristen
+   totals:
+    - event: Hearts
+      player1:
+        percent: 59
+        wins: 0
+        losses: 1
+      player2:
+        percent: 63
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Third
+        percent: 59
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Lead
+        percent: 63
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(9)
+      score: BC 10 - NU 3
  - name: Sandwith, Carley
    totals:
     - event: Hearts
@@ -358,6 +446,34 @@ vs:
       year: 2022
       draw: Round Robin(3)
       score: WC 12 - NU 7
+ - name: Schmiemann, Danielle
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 96
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 96
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(3)
+      score: AB 11 - NU 4
  - name: Scotland, Nadine
    totals:
     - event: Hearts
@@ -594,12 +710,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 82
+        percent: 81
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 88
-        wins: 1
+        percent: 90
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -618,16 +734,32 @@ vs:
       year: 2023
       draw: Round Robin(7)
       score: NU 4 - AB 9
+    - player1:
+        team: 'NU'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 93
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(17)
+      score: NU 4 - AB 7
  - name: Skrlik, Kayla
    totals:
     - event: Hearts
       player1:
-        percent: 82
+        percent: 81
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 91
-        wins: 1
+        percent: 86
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -646,6 +778,50 @@ vs:
       year: 2023
       draw: Round Robin(7)
       score: NU 4 - AB 9
+    - player1:
+        team: 'NU'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(17)
+      score: NU 4 - AB 7
+ - name: Smith, Sabrina
+   totals:
+    - event: Hearts
+      player1:
+        percent: 56
+        wins: 0
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Third
+        percent: 56
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Second
+        percent: 73
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(7)
+      score: NU 6 - PE 7
  - name: St-Georges, Cynthia
    totals:
     - event: Hearts
@@ -718,6 +894,78 @@ vs:
       year: 2023
       draw: Round Robin(5)
       score: QC 13 - NU 5
+ - name: Stewart, Chaelynn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 64
+        wins: 0
+        losses: 2
+      player2:
+        percent: 69
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Third
+        percent: 53
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 67
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(4)
+      score: NU 3 - SK 9
+    - player1:
+        team: 'NU'
+        position: Third
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Third
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(13)
+      score: SK 7 - NU 4
+ - name: Sturmay, Selena
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 94
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 94
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(3)
+      score: AB 11 - NU 4
  - name: Sweeting, Val
    totals:
     - event: Hearts
@@ -982,12 +1230,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 64
+        percent: 66
         wins: 0
-        losses: 3
+        losses: 4
       player2:
-        percent: 75
-        wins: 3
+        percent: 76
+        wins: 4
         losses: 0
    games:
     - player1:
@@ -1038,4 +1286,20 @@ vs:
       year: 2022
       draw: Round Robin(11)
       score: WC 14 - NU 1
+    - player1:
+        team: 'NU'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(15)
+      score: NU 3 - CA 9
 ---

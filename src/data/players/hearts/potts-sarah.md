@@ -4,18 +4,18 @@ name: Sarah Potts
 name-sort: Potts, Sarah
 totals:
  - event: Hearts
-   games: 70
-   wins: 46
-   losses: 24
-   inturn-total: 696
+   games: 75
+   wins: 49
+   losses: 26
+   inturn-total: 747
    inturn-percent: 87
-   outturn-total: 631
+   outturn-total: 672
    outturn-percent: 88
-   draw-total: 1113
+   draw-total: 1190
    draw-percent: 89
-   takeout-total: 214
-   takeout-percent: 81
-   shots-total: 1327
+   takeout-total: 229
+   takeout-percent: 82
+   shots-total: 1419
    shots-percent: 87
 years:
  - year: 2010
@@ -140,8 +140,27 @@ years:
    takeout-percent: 80
    shots-total: 114
    shots-percent: 89
+ - year: 2025
+   event: Hearts
+   team: "NO"
+   position: Lead
+   alternate: true
+   games: 5
+   wins: 3
+   losses: 2
+   inturn-total: 51
+   inturn-percent: 86
+   outturn-total: 41
+   outturn-percent: 90
+   draw-total: 77
+   draw-percent: 87
+   takeout-total: 15
+   takeout-percent: 90
+   shots-total: 92
+   shots-percent: 88
 vs:
  - Ackland, Abby
+ - Adams, Melissa
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Armstrong, Jennifer
@@ -172,6 +191,7 @@ vs:
  - Christianson, Marie
  - Cormier, Sharon
  - Courtney, Joanne
+ - Crandall, Jaclyn
  - Curtis, Erica
  - Curtis, Stacie
  - Cutcliffe, Margaret
@@ -198,13 +218,16 @@ vs:
  - Fyfe, Liz
  - Galusha, Kerry
  - Gamble, Christie
+ - Gordon, Kristin
  - Griffin, Alison
+ - Gustafson, Leigh
  - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
  - Harris, Briane
  - Haughian, Jessie
+ - Hawes, Dezaray
  - Hill, Sarah
  - Hill, Trish
  - Homan, Rachel
@@ -227,7 +250,7 @@ vs:
  - Lawton, Stefanie
  - Lemay, Annie
  - Lenentine, Lauren
- - MacCuish, Kristin
+ - Lister, Kendra
  - MacDonald, Kaitlin
  - MacPhail, Brigitte
  - MacPhee, Robyn
@@ -252,6 +275,7 @@ vs:
  - Oliver, Sara
  - O'Neill, Brit
  - O'Rourke, Brittany
+ - Papley, Paige
  - Peterman, Jocelyn
  - Peters, Laine
  - Phillips, Kristen
@@ -261,25 +285,31 @@ vs:
  - Porter, Erin
  - Quillian, Sylvie
  - Rainville, Julie
- - Recksiedler, Kristen
+ - Ramsay, Geri-Lynn
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Rusnell, Jen
+ - Russell, Kayla
+ - Ryan, Kristen
  - Sagle, Karen
  - Sandwith, Carley
  - Saulnier, Andrea
  - Scheidegger, Casey
  - Schmidt, Stephanie
+ - Schmiemann, Danielle
  - Schneider, Lorraine
  - Sharpe, Kelli
  - Shea, Michelle
  - Sicinski, Danielle
  - Silvernagle, Robyn
  - Sinclair, Jamie
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Smith, Sabrina
  - St-Georges, Laurie
+ - Sturmay, Selena
  - Sweeting, Val
  - Taylor, Alison
  - Thevenot, Kara
@@ -292,6 +322,7 @@ vs:
  - Vautour, Carrie
  - Walter, Meghan
  - Wark, Sarah
+ - Weagle, Julia
  - Weagle, Lisa
  - Westcott, Raunora
  - Wilkes, Sarah

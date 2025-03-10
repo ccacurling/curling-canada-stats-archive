@@ -84,6 +84,11 @@ years:
    draw-percent: 88
    shots-total: 2
    shots-percent: 88
+ - year: 2025
+   event: Hearts
+   team: "ON"
+   position: Alternate
+   alternate: true
 vs:
  - Baier, Stephanie
  - Duncan, Chelsea

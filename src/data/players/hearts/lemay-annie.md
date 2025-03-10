@@ -237,6 +237,7 @@ vs:
  - Gignac, Donna
  - Gilman, Sheena
  - Gogan, Jennifer
+ - Gordon, Kristin
  - Goss, Peg
  - Gushulak, Diane
  - Guzzwell, Stephanie
@@ -285,7 +286,6 @@ vs:
  - Lilly, Kendra
  - Lowther, Tammi
  - MacCallum, Janice
- - MacCuish, Kristin
  - MacDonald, Rebecca Jean
  - MacDonald, Shelley
  - MacDougall, Leslie
@@ -341,13 +341,14 @@ vs:
  - Power, Marie-Anne
  - Quillian, Sylvie
  - Radchenka, Tammy
- - Recksiedler, Kristen
  - Reed, Shellan
  - Renouf, Michele
  - Richard, Marie
  - Richards, Brette
  - Robertson, Darcy
  - Ross, Allison
+ - Rumberg, Crystal
+ - Ryan, Kristen
  - Sagle, Karen
  - Sanders, Pat
  - Sandison, Janice
@@ -387,7 +388,6 @@ vs:
  - Walter, Cathy
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - Westcott, Raunora
  - Wheatcroft, Georgina
  - Whitaker, Carol

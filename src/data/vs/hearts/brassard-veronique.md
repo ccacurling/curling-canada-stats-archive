@@ -758,6 +758,34 @@ vs:
       year: 2011
       draw: Round Robin(9)
       score: NL 6 - QC 10
+ - name: Rumberg, Crystal
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 0
+        losses: 1
+      player2:
+        percent: 50
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 50
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2011
+      draw: Round Robin(12)
+      score: QC 4 - AB 9
  - name: Schneider, Kim
    totals:
     - event: Hearts
@@ -1004,34 +1032,6 @@ vs:
         team: 'AB'
         position: Second
         percent: 89
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2011
-      draw: Round Robin(12)
-      score: QC 4 - AB 9
- - name: Webster, Crystal
-   totals:
-    - event: Hearts
-      player1:
-        percent: 89
-        wins: 0
-        losses: 1
-      player2:
-        percent: 50
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Lead
-        percent: 89
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Lead
-        percent: 50
         win: 1
         loss: 0
       event: Hearts

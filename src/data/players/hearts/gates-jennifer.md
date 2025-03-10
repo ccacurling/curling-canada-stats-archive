@@ -100,6 +100,7 @@ vs:
  - Fleury, Tracy
  - Forward, Katie
  - Fyfe, Liz
+ - Gordon, Kristin
  - Griffin, Alison
  - Harris, Briane
  - Haughian, Jessie
@@ -114,7 +115,6 @@ vs:
  - Lavoie, Gabrielle
  - Lawes, Kaitlyn
  - Lawton, Stefanie
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - McDonald, Taylor
  - McEwen, Dawn

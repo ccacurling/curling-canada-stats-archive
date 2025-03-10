@@ -188,6 +188,7 @@ vs:
  - Gates, Amanda
  - Gates, Jennifer
  - Gibson, Amy
+ - Gordon, Kristin
  - Grandy, Clancy
  - Griffin, Alison
  - Gustafson, Leigh
@@ -203,7 +204,6 @@ vs:
  - Jones, Jennifer
  - Just, Sherry
  - Kelly, Andrea
- - Kitz, Chaelynn
  - Klymchuk, Ashley
  - Knapp, Breanne
  - Koehler, Megan
@@ -219,7 +219,6 @@ vs:
  - Loder, Jenna
  - Logan, Emma
  - Loken, Sarah
- - MacCuish, Kristin
  - MacDonald, Kaitlin
  - MacMillan, Kayla
  - MacPhail, Brigitte
@@ -247,6 +246,7 @@ vs:
  - Rocque, Kelsey
  - Routledge, Alanna
  - Routledge, Jill
+ - Rumberg, Crystal
  - Sagle, Karen
  - Schafer, Kelly
  - Scheidegger, Casey
@@ -268,6 +268,7 @@ vs:
  - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stewart, Chaelynn
  - Stremick, Taylor
  - Strybosch, Rachelle
  - Sturmay, Selena
@@ -283,7 +284,6 @@ vs:
  - Walker, Laura
  - Walter, Meghan
  - Weagle, Lisa
- - Webster, Crystal
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie
