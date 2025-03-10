@@ -1,40 +1,40 @@
 ---
-title: Jessie Haughian
-name: Jessie Haughian
-name-sort: Haughian, Jessie
+title: Kristin Gordon
+name: Kristin Gordon
+name-sort: Gordon, Kristin
 totals:
  - event: Trials (Women)
    games: 9
-   wins: 4
-   losses: 5
-   inturn-total: 88
-   inturn-percent: 81
-   outturn-total: 84
-   outturn-percent: 87
-   draw-total: 83
-   draw-percent: 84
-   takeout-total: 89
-   takeout-percent: 83
+   wins: 8
+   losses: 1
+   inturn-total: 53
+   inturn-percent: 78
+   outturn-total: 119
+   outturn-percent: 88
+   draw-total: 132
+   draw-percent: 87
+   takeout-total: 40
+   takeout-percent: 76
    shots-total: 172
-   shots-percent: 84
+   shots-percent: 85
 years:
  - year: 2021
    event: Trials (Women)
-   team: "Sche"
-   position: Second
+   team: "Fleu"
+   position: Lead
    games: 9
-   wins: 4
-   losses: 5
-   inturn-total: 88
-   inturn-percent: 81
-   outturn-total: 84
-   outturn-percent: 87
-   draw-total: 83
-   draw-percent: 84
-   takeout-total: 89
-   takeout-percent: 83
+   wins: 8
+   losses: 1
+   inturn-total: 53
+   inturn-percent: 78
+   outturn-total: 119
+   outturn-percent: 88
+   draw-total: 132
+   draw-percent: 87
+   takeout-total: 40
+   takeout-percent: 76
    shots-total: 172
-   shots-percent: 84
+   shots-percent: 85
 vs:
  - Birchard, Shannon
  - Brown, Rachel
@@ -43,11 +43,9 @@ vs:
  - Einarson, Kerri
  - Ferguson, Dana
  - Flaxey, Allison
- - Fleury, Tracy
- - Fyfe, Liz
- - Gordon, Kristin
  - Harris, Briane
  - Harrison, Jacqueline
+ - Haughian, Jessie
  - Hickey, Laura
  - Homan, Rachel
  - Jones, Jennifer
@@ -57,11 +55,13 @@ vs:
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
+ - McTaggart, Cary-Anne
  - Miskew, Emma
- - Njegovan, Selena
+ - Moore, Kristie
  - Peterman, Jocelyn
  - Potts, Sarah
  - Rocque, Kelsey
+ - Scheidegger, Casey
  - Schmiemann, Danielle
  - Scotland, Nadine
  - Sippala, Ashley

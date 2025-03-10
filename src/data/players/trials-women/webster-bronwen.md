@@ -106,6 +106,7 @@ vs:
  - Overton-Clapham, Cathy
  - Preston, Sam
  - Purdy, Karen
+ - Rumberg, Crystal
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
@@ -114,6 +115,5 @@ vs:
  - Skinner, Julie
  - Stricker, Joan
  - Vey, Lana
- - Webster, Crystal
  - Wheatcroft, Georgina
 ---

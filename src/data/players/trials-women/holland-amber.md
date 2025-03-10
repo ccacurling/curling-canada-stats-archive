@@ -127,6 +127,7 @@ vs:
  - Olson-Johns, Lori
  - Overton-Clapham, Cathy
  - Preston, Sam
+ - Rumberg, Crystal
  - Schraeder, Jeanna
  - Scott, Kelly
  - Singler, Sherri
@@ -134,6 +135,5 @@ vs:
  - Stricker, Joan
  - Vey, Lana
  - Webster, Bronwen
- - Webster, Crystal
  - Wheatcroft, Georgina
 ---

@@ -137,6 +137,7 @@ vs:
  - Peters, Laine
  - Preston, Sam
  - Rizzo, Jo-Ann
+ - Rumberg, Crystal
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
@@ -150,6 +151,5 @@ vs:
  - Walsh, Heather
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - Wheatcroft, Georgina
 ---

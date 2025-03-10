@@ -64,6 +64,7 @@ vs:
  - Olson-Johns, Lori
  - Overton-Clapham, Cathy
  - Preston, Sam
+ - Rumberg, Crystal
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
@@ -71,5 +72,4 @@ vs:
  - Singler, Sherri
  - Vey, Lana
  - Webster, Bronwen
- - Webster, Crystal
 ---

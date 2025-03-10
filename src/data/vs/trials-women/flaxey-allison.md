@@ -58,6 +58,34 @@ vs:
       year: 2021
       draw: Round Robin(6)
       score: Fleu 9 - Harr 6
+ - name: Gordon, Kristin
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 69
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Harr'
+        position: Third
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'Fleu'
+        position: Lead
+        percent: 80
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(6)
+      score: Fleu 9 - Harr 6
  - name: Harris, Briane
    totals:
     - event: Trials (Women)
@@ -290,34 +318,6 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: McCa 6 - Harr 4
- - name: MacCuish, Kristin
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 69
-        wins: 0
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'Harr'
-        position: Third
-        percent: 69
-        win: 0
-        loss: 1
-      player2:
-        team: 'Fleu'
-        position: Lead
-        percent: 80
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2021
-      draw: Round Robin(6)
-      score: Fleu 9 - Harr 6
  - name: McCarville, Krista
    totals:
     - event: Trials (Women)

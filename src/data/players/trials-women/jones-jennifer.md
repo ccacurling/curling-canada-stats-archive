@@ -135,6 +135,7 @@ vs:
  - Gatchell, Sara
  - George, Tara
  - Gignac, Donna
+ - Gordon, Kristin
  - Grandy, Clancy
  - Gregoire, Veronique
  - Gudereit, Marcia
@@ -162,7 +163,6 @@ vs:
  - Lemay, Annie
  - Lilly, Kendra
  - Linton, Sherry
- - MacCuish, Kristin
  - MacDonald, Lawnie
  - MacLean, Kari
  - Mair, Jessica
@@ -190,6 +190,7 @@ vs:
  - Preston, Sam
  - Rizzo, Jo-Ann
  - Rocque, Kelsey
+ - Rumberg, Crystal
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmiemann, Danielle
@@ -213,7 +214,6 @@ vs:
  - Walsh, Heather
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie

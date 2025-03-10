@@ -130,6 +130,34 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: Fleu 8 - Rocq 6
+ - name: Gordon, Kristin
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Rocq'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'Fleu'
+        position: Lead
+        percent: 73
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(3)
+      score: Fleu 8 - Rocq 6
  - name: Grandy, Clancy
    totals:
     - event: Trials (Women)
@@ -650,34 +678,6 @@ vs:
       year: 2021
       draw: Round Robin(7)
       score: McCa 8 - Rocq 7
- - name: MacCuish, Kristin
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 78
-        wins: 0
-        losses: 1
-      player2:
-        percent: 73
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'Rocq'
-        position: Second
-        percent: 78
-        win: 0
-        loss: 1
-      player2:
-        team: 'Fleu'
-        position: Lead
-        percent: 73
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2021
-      draw: Round Robin(3)
-      score: Fleu 8 - Rocq 6
  - name: MacDonald, Lawnie
    totals:
     - event: Trials (Women)

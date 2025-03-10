@@ -110,6 +110,7 @@ vs:
  - Foster, Kristen
  - Fyfe, Liz
  - George, Tara
+ - Gordon, Kristin
  - Grandy, Clancy
  - Harris, Briane
  - Harrison, Jacqueline
@@ -127,7 +128,6 @@ vs:
  - Lang, Lorraine
  - Lawton, Stefanie
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacDonald, Lawnie
  - MacLean, Kari
  - Mair, Jessica
@@ -152,6 +152,7 @@ vs:
  - Preston, Sam
  - Rizzo, Jo-Ann
  - Rocque, Kelsey
+ - Rumberg, Crystal
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmiemann, Danielle
@@ -169,7 +170,6 @@ vs:
  - Vink, Rachelle
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie

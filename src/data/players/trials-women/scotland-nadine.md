@@ -44,6 +44,7 @@ vs:
  - Flaxey, Allison
  - Fleury, Tracy
  - Fyfe, Liz
+ - Gordon, Kristin
  - Harris, Briane
  - Harrison, Jacqueline
  - Haughian, Jessie
@@ -53,7 +54,6 @@ vs:
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lilly, Kendra
- - MacCuish, Kristin
  - McCarville, Krista
  - McTaggart, Cary-Anne
  - Miskew, Emma

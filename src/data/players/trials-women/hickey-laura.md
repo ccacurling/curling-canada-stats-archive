@@ -44,13 +44,13 @@ vs:
  - Ferguson, Dana
  - Fleury, Tracy
  - Fyfe, Liz
+ - Gordon, Kristin
  - Harris, Briane
  - Haughian, Jessie
  - Homan, Rachel
  - Jones, Jennifer
  - Lawes, Kaitlyn
  - Lilly, Kendra
- - MacCuish, Kristin
  - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn

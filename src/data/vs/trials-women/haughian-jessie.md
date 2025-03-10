@@ -170,34 +170,6 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: Sche 5 - McCa 4
- - name: MacCuish, Kristin
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 78
-        wins: 0
-        losses: 1
-      player2:
-        percent: 86
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'Sche'
-        position: Second
-        percent: 78
-        win: 0
-        loss: 1
-      player2:
-        team: 'Fleu'
-        position: Lead
-        percent: 86
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2021
-      draw: Round Robin(8)
-      score: Fleu 10 - Sche 3
  - name: McCarville, Krista
    totals:
     - event: Trials (Women)

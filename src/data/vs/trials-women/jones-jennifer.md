@@ -550,50 +550,6 @@ vs:
       year: 2005
       draw: Round Robin(17)
       score: BET 7 - JJO 8
- - name: MacCuish, Kristin
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 76
-        wins: 1
-        losses: 1
-      player2:
-        percent: 86
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'Jone'
-        position: Fourth
-        percent: 71
-        win: 0
-        loss: 1
-      player2:
-        team: 'Fleu'
-        position: Lead
-        percent: 80
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2021
-      draw: Round Robin(9)
-      score: Jone 6 - Fleu 7
-    - player1:
-        team: 'Jone'
-        position: Fourth
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'Fleu'
-        position: Lead
-        percent: 92
-        win: 0
-        loss: 1
-      event: Trials (Women)
-      year: 2021
-      draw: Final(13)
-      score: Jone 6 - Fleu 5
  - name: MacDonald, Lawnie
    totals:
     - event: Trials (Women)
@@ -1670,6 +1626,34 @@ vs:
       year: 2021
       draw: Round Robin(6)
       score: Rocq 5 - Jone 8
+ - name: Rumberg, Crystal
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'JONE'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'WEBS'
+        position: Fourth
+        percent: 84
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2009
+      draw: Round Robin(4)
+      score: WEBS 7 - JONE 8
  - name: Scheidegger, Casey
    totals:
     - event: Trials (Women)
@@ -2490,34 +2474,6 @@ vs:
       year: 2009
       draw: Round Robin(7)
       score: KLEI 10 - JONE 9
- - name: Webster, Crystal
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 91
-        wins: 1
-        losses: 0
-      player2:
-        percent: 84
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'JONE'
-        position: Fourth
-        percent: 91
-        win: 1
-        loss: 0
-      player2:
-        team: 'WEBS'
-        position: Fourth
-        percent: 84
-        win: 0
-        loss: 1
-      event: Trials (Women)
-      year: 2009
-      draw: Round Robin(4)
-      score: WEBS 7 - JONE 8
  - name: Westcott, Raunora
    totals:
     - event: Trials (Women)

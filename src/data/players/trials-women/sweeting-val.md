@@ -85,6 +85,7 @@ vs:
  - Fleury, Tracy
  - Foster, Kristen
  - Fyfe, Liz
+ - Gordon, Kristin
  - Grandy, Clancy
  - Harrison, Jacqueline
  - Haughian, Jessie
@@ -98,7 +99,6 @@ vs:
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
- - MacCuish, Kristin
  - MacDonald, Lawnie
  - Mair, Jessica
  - McCarville, Krista

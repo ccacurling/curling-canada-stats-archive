@@ -141,6 +141,7 @@ vs:
  - Overton-Clapham, Cathy
  - Preston, Sam
  - Rizzo, Jo-Ann
+ - Rumberg, Crystal
  - Schmirler, Sandra
  - Schneider, Kim
  - Schneider, Tammy
@@ -153,7 +154,6 @@ vs:
  - Vey, Lana
  - Wall, Kirsten
  - Walsh, Heather
- - Webster, Crystal
  - Wheatcroft, Georgina
  - Zielke, Colleen
 ---

@@ -161,6 +161,7 @@ vs:
  - Potts, Sarah
  - Preston, Sam
  - Rizzo, Jo-Ann
+ - Rumberg, Crystal
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schneider, Kim
@@ -181,7 +182,6 @@ vs:
  - Walsh, Heather
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - Westcott, Raunora
  - Wilson, Leslie
 ---

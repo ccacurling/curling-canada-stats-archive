@@ -326,34 +326,6 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: Homa 5 - McCa 9
- - name: MacCuish, Kristin
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 69
-        wins: 0
-        losses: 1
-      player2:
-        percent: 82
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'Homa'
-        position: Fourth
-        percent: 69
-        win: 0
-        loss: 1
-      player2:
-        team: 'Fleu'
-        position: Lead
-        percent: 82
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2021
-      draw: Round Robin(5)
-      score: Homa 3 - Fleu 8
  - name: MacDonald, Lawnie
    totals:
     - event: Trials (Women)

@@ -89,6 +89,7 @@ vs:
  - Flaxey, Allison
  - Fleury, Tracy
  - Fyfe, Liz
+ - Gordon, Kristin
  - Grandy, Clancy
  - Harris, Briane
  - Harrison, Jacqueline
@@ -103,7 +104,6 @@ vs:
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lawton, Stefanie
- - MacCuish, Kristin
  - Malekoff, Stephanie
  - McDonald, Taylor
  - McEwen, Dawn
@@ -122,6 +122,7 @@ vs:
  - Pincott, Erin
  - Preston, Sam
  - Rocque, Kelsey
+ - Rumberg, Crystal
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmiemann, Danielle
@@ -138,7 +139,6 @@ vs:
  - Walker, Laura
  - Weagle, Lisa
  - Webster, Bronwen
- - Webster, Crystal
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie

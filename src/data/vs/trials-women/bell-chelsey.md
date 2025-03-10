@@ -1454,6 +1454,34 @@ vs:
       year: 2005
       draw: Round Robin(11)
       score: RIZ 6 - LAW 8
+ - name: Rumberg, Crystal
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 80
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'KLEI'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'WEBS'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2009
+      draw: Round Robin(1)
+      score: WEBS 8 - KLEI 3
  - name: Schneider, Kim
    totals:
     - event: Trials (Women)
@@ -1782,34 +1810,6 @@ vs:
       year: 2005
       draw: Round Robin(3)
       score: LAW 6 - AND 7
- - name: Webster, Crystal
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 80
-        wins: 0
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'KLEI'
-        position: Lead
-        percent: 80
-        win: 0
-        loss: 1
-      player2:
-        team: 'WEBS'
-        position: Fourth
-        percent: 80
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2009
-      draw: Round Robin(1)
-      score: WEBS 8 - KLEI 3
  - name: Wheatcroft, Georgina
    totals:
     - event: Trials (Women)

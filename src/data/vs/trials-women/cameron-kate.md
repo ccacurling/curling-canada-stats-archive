@@ -274,6 +274,34 @@ vs:
       year: 2021
       draw: Round Robin(7)
       score: Fleu 11 - Walk 7
+ - name: Gordon, Kristin
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Walk'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'Fleu'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(7)
+      score: Fleu 11 - Walk 7
  - name: Grandy, Clancy
    totals:
     - event: Trials (Women)
@@ -606,34 +634,6 @@ vs:
       year: 2021
       draw: Round Robin(8)
       score: Walk 9 - McCa 5
- - name: MacCuish, Kristin
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 78
-        wins: 0
-        losses: 1
-      player2:
-        percent: 83
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'Walk'
-        position: Third
-        percent: 78
-        win: 0
-        loss: 1
-      player2:
-        team: 'Fleu'
-        position: Lead
-        percent: 83
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2021
-      draw: Round Robin(7)
-      score: Fleu 11 - Walk 7
  - name: McCarville, Krista
    totals:
     - event: Trials (Women)

@@ -100,6 +100,7 @@ vs:
  - Overton-Clapham, Cathy
  - Preston, Sam
  - Rizzo, Jo-Ann
+ - Rumberg, Crystal
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna
@@ -110,6 +111,5 @@ vs:
  - Vey, Lana
  - Wall, Kirsten
  - Walsh, Heather
- - Webster, Crystal
  - Wheatcroft, Georgina
 ---

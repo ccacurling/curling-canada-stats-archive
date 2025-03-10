@@ -63,6 +63,7 @@ vs:
  - Flaxey, Allison
  - Fleury, Tracy
  - Fyfe, Liz
+ - Gordon, Kristin
  - Grandy, Clancy
  - Harrison, Jacqueline
  - Haughian, Jessie
@@ -72,7 +73,6 @@ vs:
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lilly, Kendra
- - MacCuish, Kristin
  - McCarville, Krista
  - McEwen, Dawn
  - McTaggart, Cary-Anne

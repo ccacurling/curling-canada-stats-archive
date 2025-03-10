@@ -86,6 +86,34 @@ vs:
       year: 2005
       draw: Round Robin(3)
       score: RIZ 4 - JJO 6
+ - name: Rumberg, Crystal
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'JONE'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'WEBS'
+        position: Fourth
+        percent: 84
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2009
+      draw: Round Robin(4)
+      score: WEBS 7 - JONE 8
  - name: Scheidegger, Casey
    totals:
     - event: Trials (Women)
@@ -710,34 +738,6 @@ vs:
       year: 2009
       draw: Round Robin(7)
       score: KLEI 10 - JONE 9
- - name: Webster, Crystal
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 83
-        wins: 1
-        losses: 0
-      player2:
-        percent: 84
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'JONE'
-        position: Third
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'WEBS'
-        position: Fourth
-        percent: 84
-        win: 0
-        loss: 1
-      event: Trials (Women)
-      year: 2009
-      draw: Round Robin(4)
-      score: WEBS 7 - JONE 8
  - name: Westcott, Raunora
    totals:
     - event: Trials (Women)

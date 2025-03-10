@@ -2,34 +2,6 @@
 title: Kendra Lilly Head-to-head
 name: Lilly, Kendra
 vs:
- - name: MacCuish, Kristin
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 59
-        wins: 0
-        losses: 1
-      player2:
-        percent: 97
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'McCa'
-        position: Third
-        percent: 59
-        win: 0
-        loss: 1
-      player2:
-        team: 'Fleu'
-        position: Lead
-        percent: 97
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2021
-      draw: Round Robin(4)
-      score: McCa 2 - Fleu 9
  - name: McDonald, Taylor
    totals:
     - event: Trials (Women)
