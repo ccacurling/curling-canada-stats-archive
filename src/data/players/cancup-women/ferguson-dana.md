@@ -124,6 +124,7 @@ vs:
  - Fyfe, Liz
  - Gates, Amanda
  - Gates, Jennifer
+ - Gordon, Kristin
  - Harris, Briane
  - Haughian, Jessie
  - Homan, Rachel
@@ -133,7 +134,6 @@ vs:
  - Klein, Karen
  - Lawes, Kaitlyn
  - Lawton, Stefanie
- - MacCuish, Kristin
  - McDonald, Kristy
  - McDonald, Taylor
  - McEwen, Dawn

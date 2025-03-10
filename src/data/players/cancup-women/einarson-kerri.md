@@ -85,6 +85,7 @@ vs:
  - Fyfe, Liz
  - Gates, Amanda
  - Gates, Jennifer
+ - Gordon, Kristin
  - Haughian, Jessie
  - Homan, Rachel
  - Hunkin, Jessie
@@ -93,7 +94,6 @@ vs:
  - Knapp, Breanne
  - Lawes, Kaitlyn
  - Lawton, Stefanie
- - MacCuish, Kristin
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne

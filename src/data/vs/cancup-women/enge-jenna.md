@@ -102,6 +102,34 @@ vs:
       year: 2016
       draw: Round Robin(9)
       score: ROC 6 - FLE 5
+ - name: Gordon, Kristin
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 68
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'FLE'
+        position: Second
+        percent: 68
+        win: 1
+        loss: 0
+      player2:
+        team: 'EIN'
+        position: Lead
+        percent: 74
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Round Robin(5)
+      score: FLE 8 - EIN 7
  - name: Homan, Rachel
    totals:
     - event: Canada Cup (Women)
@@ -234,34 +262,6 @@ vs:
       year: 2016
       draw: Round Robin(2)
       score: FLE 4 - JON 6
- - name: MacCuish, Kristin
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 68
-        wins: 1
-        losses: 0
-      player2:
-        percent: 74
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'FLE'
-        position: Second
-        percent: 68
-        win: 1
-        loss: 0
-      player2:
-        team: 'EIN'
-        position: Lead
-        percent: 74
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(5)
-      score: FLE 8 - EIN 7
  - name: McDonald, Kristy
    totals:
     - event: Canada Cup (Women)

@@ -170,6 +170,7 @@ vs:
  - Gates, Amanda
  - Gates, Jennifer
  - Gignac, Donna
+ - Gordon, Kristin
  - Hardy, Shelley
  - Harris, Briane
  - Harvey, Alison
@@ -188,7 +189,6 @@ vs:
  - Linton, Sherry
  - Loder, Cherie-Ann
  - Loder, Kristin
- - MacCuish, Kristin
  - McCusker, Joan
  - McDonald, Kristy
  - McDonald, Taylor

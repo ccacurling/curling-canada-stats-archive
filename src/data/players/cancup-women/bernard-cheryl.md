@@ -148,6 +148,7 @@ vs:
  - Fyfe, Liz
  - Gatchell, Sara
  - Gignac, Donna
+ - Gordon, Kristin
  - Gudereit, Marcia
  - Hardy, Shelley
  - Harris, Briane
@@ -175,7 +176,6 @@ vs:
  - Linton, Sherry
  - Loder, Cherie-Ann
  - Loder, Kristin
- - MacCuish, Kristin
  - Maclachlan, Kyla
  - MacLean, Kari
  - Materi, Roberta

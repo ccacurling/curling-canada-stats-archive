@@ -630,6 +630,82 @@ vs:
       year: 2016
       draw: Round Robin(5)
       score: HOM 8 - ROC 7
+ - name: Gordon, Kristin
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 79
+        wins: 3
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 3
+   games:
+    - player1:
+        team: 'HOM'
+        position: Second
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'EIN'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Round Robin(3)
+      score: EIN 8 - HOM 5
+    - player1:
+        team: 'HOM'
+        position: Second
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'EIN'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Semi-Final(11)
+      score: EIN 4 - HOM 9
+    - player1:
+        team: 'Homa'
+        position: Second
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'Fleu'
+        position: Lead
+        percent: 73
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2019
+      draw: Round Robin(4)
+      score: Homa 10 - Fleu 7
+    - player1:
+        team: 'Homa'
+        position: Second
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'Fleu'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2019
+      draw: Final(11)
+      score: Homa 9 - Fleu 4
  - name: Harris, Briane
    totals:
     - event: Canada Cup (Women)
@@ -1078,82 +1154,6 @@ vs:
       year: 2019
       draw: Round Robin(1)
       score: Silv 5 - Homa 8
- - name: MacCuish, Kristin
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 79
-        wins: 3
-        losses: 1
-      player2:
-        percent: 83
-        wins: 1
-        losses: 3
-   games:
-    - player1:
-        team: 'HOM'
-        position: Second
-        percent: 74
-        win: 0
-        loss: 1
-      player2:
-        team: 'EIN'
-        position: Lead
-        percent: 79
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(3)
-      score: EIN 8 - HOM 5
-    - player1:
-        team: 'HOM'
-        position: Second
-        percent: 92
-        win: 1
-        loss: 0
-      player2:
-        team: 'EIN'
-        position: Lead
-        percent: 90
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Semi-Final(11)
-      score: EIN 4 - HOM 9
-    - player1:
-        team: 'Homa'
-        position: Second
-        percent: 70
-        win: 1
-        loss: 0
-      player2:
-        team: 'Fleu'
-        position: Lead
-        percent: 73
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2019
-      draw: Round Robin(4)
-      score: Homa 10 - Fleu 7
-    - player1:
-        team: 'Homa'
-        position: Second
-        percent: 82
-        win: 1
-        loss: 0
-      player2:
-        team: 'Fleu'
-        position: Lead
-        percent: 93
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2019
-      draw: Final(11)
-      score: Homa 9 - Fleu 4
  - name: Mair, Jessica
    totals:
     - event: Canada Cup (Women)

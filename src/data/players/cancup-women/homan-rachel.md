@@ -143,6 +143,7 @@ vs:
  - Fyfe, Liz
  - Gates, Amanda
  - Gates, Jennifer
+ - Gordon, Kristin
  - Harris, Briane
  - Haughian, Jessie
  - Holland, Amber
@@ -155,7 +156,6 @@ vs:
  - Klein, Karen
  - Lawes, Kaitlyn
  - Lawton, Stefanie
- - MacCuish, Kristin
  - Mair, Jessica
  - McDonald, Kristy
  - McDonald, Taylor

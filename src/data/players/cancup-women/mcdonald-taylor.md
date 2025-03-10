@@ -85,6 +85,7 @@ vs:
  - Foster, Vanessa
  - Fyfe, Liz
  - Gates, Amanda
+ - Gordon, Kristin
  - Harris, Briane
  - Haughian, Jessie
  - Homan, Rachel
@@ -92,7 +93,6 @@ vs:
  - Klein, Karen
  - Knapp, Breanne
  - Lawes, Kaitlyn
- - MacCuish, Kristin
  - McDonald, Kristy
  - McEwen, Dawn
  - McTaggart, Cary-Anne

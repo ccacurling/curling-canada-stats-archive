@@ -124,6 +124,7 @@ vs:
  - Fyfe, Liz
  - Gates, Jennifer
  - Gignac, Donna
+ - Gordon, Kristin
  - Hamer, Kate
  - Harmark, Andra
  - Hodson, Kim
@@ -138,7 +139,6 @@ vs:
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Loder, Jenna
- - MacCuish, Kristin
  - Mair, Jessica
  - McDonald, Kristy
  - McDonald, Taylor

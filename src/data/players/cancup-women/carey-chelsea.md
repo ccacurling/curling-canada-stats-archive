@@ -142,6 +142,7 @@ vs:
  - Fyfe, Liz
  - Gates, Amanda
  - Gates, Jennifer
+ - Gordon, Kristin
  - Hardy, Shelley
  - Harris, Briane
  - Haughian, Jessie
@@ -162,7 +163,6 @@ vs:
  - LeDrew, Stephanie
  - Lemon, Colette
  - Loder, Jenna
- - MacCuish, Kristin
  - Mair, Jessica
  - McDonald, Taylor
  - McEwen, Dawn

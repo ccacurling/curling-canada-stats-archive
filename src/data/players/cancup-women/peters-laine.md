@@ -191,6 +191,7 @@ vs:
  - Gagnon, Karo
  - Gates, Amanda
  - Gates, Jennifer
+ - Gordon, Kristin
  - Gregoire, Veronique
  - Harmark, Andra
  - Harris, Briane
@@ -213,7 +214,6 @@ vs:
  - Lawton, Stefanie
  - Lemay, Annie
  - Loder, Jenna
- - MacCuish, Kristin
  - MacLean, Kari
  - Materi, Roberta
  - McCarville, Krista

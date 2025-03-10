@@ -85,13 +85,13 @@ vs:
  - Foster, Vanessa
  - Fyfe, Liz
  - Gates, Amanda
+ - Gordon, Kristin
  - Harris, Briane
  - Haughian, Jessie
  - Homan, Rachel
  - Jones, Jennifer
  - Klein, Karen
  - Lawes, Kaitlyn
- - MacCuish, Kristin
  - McDonald, Kristy
  - McDonald, Taylor
  - McEwen, Dawn

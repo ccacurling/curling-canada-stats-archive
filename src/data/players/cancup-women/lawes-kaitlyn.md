@@ -199,6 +199,7 @@ vs:
  - Fyfe, Liz
  - Gates, Amanda
  - Gates, Jennifer
+ - Gordon, Kristin
  - Hardy, Shelley
  - Harris, Briane
  - Haughian, Jessie
@@ -219,7 +220,6 @@ vs:
  - Lemay, Annie
  - Lemon, Colette
  - Loder, Jenna
- - MacCuish, Kristin
  - MacLean, Kari
  - Mair, Jessica
  - McCarville, Krista

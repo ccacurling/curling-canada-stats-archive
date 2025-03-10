@@ -1,7 +1,283 @@
 ---
-title: Kristin MacCuish Head-to-head
-name: MacCuish, Kristin
+title: Kristin Gordon Head-to-head
+name: Gordon, Kristin
 vs:
+ - name: Harris, Briane
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 82
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Fleu'
+        position: Lead
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'Eina'
+        position: Lead
+        percent: 82
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2019
+      draw: Round Robin(6)
+      score: Eina 3 - Fleu 8
+ - name: Haughian, Jessie
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Fleu'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'Sche'
+        position: Second
+        percent: 86
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2019
+      draw: Round Robin(8)
+      score: Fleu 8 - Sche 5
+ - name: Homan, Rachel
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 83
+        wins: 1
+        losses: 3
+      player2:
+        percent: 79
+        wins: 3
+        losses: 1
+   games:
+    - player1:
+        team: 'EIN'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'HOM'
+        position: Fourth
+        percent: 64
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Round Robin(3)
+      score: EIN 8 - HOM 5
+    - player1:
+        team: 'EIN'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'HOM'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Semi-Final(11)
+      score: EIN 4 - HOM 9
+    - player1:
+        team: 'Fleu'
+        position: Lead
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'Homa'
+        position: Fourth
+        percent: 72
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2019
+      draw: Round Robin(4)
+      score: Homa 10 - Fleu 7
+    - player1:
+        team: 'Fleu'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      player2:
+        team: 'Homa'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2019
+      draw: Final(11)
+      score: Homa 9 - Fleu 4
+ - name: Hunkin, Jessie
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 77
+        wins: 1
+        losses: 0
+      player2:
+        percent: 53
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Fleu'
+        position: Lead
+        percent: 77
+        win: 1
+        loss: 0
+      player2:
+        team: 'Silv'
+        position: Second
+        percent: 53
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2019
+      draw: Round Robin(2)
+      score: Silv 3 - Fleu 13
+ - name: Jones, Jennifer
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 83
+        wins: 1
+        losses: 1
+      player2:
+        percent: 72
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'EIN'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'JON'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Round Robin(6)
+      score: JON 9 - EIN 4
+    - player1:
+        team: 'Fleu'
+        position: Lead
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'Jone'
+        position: Fourth
+        percent: 57
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2019
+      draw: Round Robin(7)
+      score: Fleu 7 - Jone 4
+ - name: Lawes, Kaitlyn
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 83
+        wins: 1
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'EIN'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'JON'
+        position: Third
+        percent: 97
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Round Robin(6)
+      score: JON 9 - EIN 4
+    - player1:
+        team: 'Fleu'
+        position: Lead
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'Jone'
+        position: Third
+        percent: 84
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2019
+      draw: Round Robin(7)
+      score: Fleu 7 - Jone 4
+ - name: Lawton, Stefanie
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 77
+        wins: 1
+        losses: 0
+      player2:
+        percent: 59
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Fleu'
+        position: Lead
+        percent: 77
+        win: 1
+        loss: 0
+      player2:
+        team: 'Silv'
+        position: Third
+        percent: 59
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2019
+      draw: Round Robin(2)
+      score: Silv 3 - Fleu 13
  - name: McDonald, Taylor
    totals:
     - event: Canada Cup (Women)

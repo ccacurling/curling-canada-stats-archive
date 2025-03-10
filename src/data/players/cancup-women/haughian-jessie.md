@@ -66,6 +66,7 @@ vs:
  - Fleury, Tracy
  - Foster, Vanessa
  - Fyfe, Liz
+ - Gordon, Kristin
  - Harris, Briane
  - Homan, Rachel
  - Hunkin, Jessie
@@ -73,7 +74,6 @@ vs:
  - Klein, Karen
  - Lawes, Kaitlyn
  - Lawton, Stefanie
- - MacCuish, Kristin
  - McDonald, Taylor
  - McEwen, Dawn
  - Miskew, Emma

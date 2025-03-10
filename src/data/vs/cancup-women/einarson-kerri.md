@@ -290,6 +290,34 @@ vs:
       year: 2016
       draw: Round Robin(8)
       score: ROC 6 - EIN 5
+ - name: Gordon, Kristin
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 53
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Eina'
+        position: Fourth
+        percent: 53
+        win: 0
+        loss: 1
+      player2:
+        team: 'Fleu'
+        position: Lead
+        percent: 78
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2019
+      draw: Round Robin(6)
+      score: Eina 3 - Fleu 8
  - name: Haughian, Jessie
    totals:
     - event: Canada Cup (Women)
@@ -674,34 +702,6 @@ vs:
       year: 2019
       draw: Round Robin(4)
       score: Eina 9 - Silv 7
- - name: MacCuish, Kristin
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 53
-        wins: 0
-        losses: 1
-      player2:
-        percent: 78
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'Eina'
-        position: Fourth
-        percent: 53
-        win: 0
-        loss: 1
-      player2:
-        team: 'Fleu'
-        position: Lead
-        percent: 78
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2019
-      draw: Round Robin(6)
-      score: Eina 3 - Fleu 8
  - name: McDonald, Taylor
    totals:
     - event: Canada Cup (Women)

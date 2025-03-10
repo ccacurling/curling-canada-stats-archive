@@ -738,6 +738,82 @@ vs:
       year: 2016
       draw: Round Robin(6)
       score: SWE 6 - ROC 2
+ - name: Gordon, Kristin
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 85
+        wins: 0
+        losses: 4
+      player2:
+        percent: 86
+        wins: 4
+        losses: 0
+   games:
+    - player1:
+        team: 'SWE'
+        position: Lead
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'EIN'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Round Robin(1)
+      score: EIN 8 - SWE 5
+    - player1:
+        team: 'SWE'
+        position: Lead
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'EIN'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Tie-Breaker(10)
+      score: EIN 8 - SWE 6
+    - player1:
+        team: 'Care'
+        position: Lead
+        percent: 95
+        win: 0
+        loss: 1
+      player2:
+        team: 'Fleu'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2019
+      draw: Round Robin(3)
+      score: Fleu 10 - Care 5
+    - player1:
+        team: 'Care'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'Fleu'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2019
+      draw: Semi-Final(10)
+      score: Care 4 - Fleu 9
  - name: Harris, Briane
    totals:
     - event: Canada Cup (Women)
@@ -1214,82 +1290,6 @@ vs:
       year: 2019
       draw: Round Robin(8)
       score: Care 4 - Silv 3
- - name: MacCuish, Kristin
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 85
-        wins: 0
-        losses: 4
-      player2:
-        percent: 86
-        wins: 4
-        losses: 0
-   games:
-    - player1:
-        team: 'SWE'
-        position: Lead
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'EIN'
-        position: Lead
-        percent: 88
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(1)
-      score: EIN 8 - SWE 5
-    - player1:
-        team: 'SWE'
-        position: Lead
-        percent: 74
-        win: 0
-        loss: 1
-      player2:
-        team: 'EIN'
-        position: Lead
-        percent: 88
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Tie-Breaker(10)
-      score: EIN 8 - SWE 6
-    - player1:
-        team: 'Care'
-        position: Lead
-        percent: 95
-        win: 0
-        loss: 1
-      player2:
-        team: 'Fleu'
-        position: Lead
-        percent: 88
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2019
-      draw: Round Robin(3)
-      score: Fleu 10 - Care 5
-    - player1:
-        team: 'Care'
-        position: Lead
-        percent: 90
-        win: 0
-        loss: 1
-      player2:
-        team: 'Fleu'
-        position: Lead
-        percent: 82
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2019
-      draw: Semi-Final(10)
-      score: Care 4 - Fleu 9
  - name: McDonald, Kristy
    totals:
     - event: Canada Cup (Women)

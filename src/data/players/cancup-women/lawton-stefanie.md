@@ -163,6 +163,7 @@ vs:
  - Foster, Kristen
  - Fyfe, Liz
  - Gignac, Donna
+ - Gordon, Kristin
  - Hamer, Kate
  - Hardy, Shelley
  - Harmark, Andra
@@ -187,7 +188,6 @@ vs:
  - Lemay, Annie
  - Lemon, Colette
  - Loder, Jenna
- - MacCuish, Kristin
  - Maclachlan, Kyla
  - MacLean, Kari
  - Mair, Jessica

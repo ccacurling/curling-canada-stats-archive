@@ -510,6 +510,66 @@ vs:
       year: 2016
       draw: Round Robin(3)
       score: CAR 11 - ROC 5
+ - name: Gordon, Kristin
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 77
+        wins: 0
+        losses: 3
+      player2:
+        percent: 83
+        wins: 3
+        losses: 0
+   games:
+    - player1:
+        team: 'CAR'
+        position: Fourth
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'EIN'
+        position: Lead
+        percent: 80
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Round Robin(9)
+      score: EIN 8 - CAR 6
+    - player1:
+        team: 'Care'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'Fleu'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2019
+      draw: Round Robin(3)
+      score: Fleu 10 - Care 5
+    - player1:
+        team: 'Care'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      player2:
+        team: 'Fleu'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2019
+      draw: Semi-Final(10)
+      score: Care 4 - Fleu 9
  - name: Hardy, Shelley
    totals:
     - event: Canada Cup (Women)
@@ -1454,66 +1514,6 @@ vs:
       year: 2012
       draw: Round Robin(6)
       score: CAR 7 - OVE 4
- - name: MacCuish, Kristin
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 77
-        wins: 0
-        losses: 3
-      player2:
-        percent: 83
-        wins: 3
-        losses: 0
-   games:
-    - player1:
-        team: 'CAR'
-        position: Fourth
-        percent: 88
-        win: 0
-        loss: 1
-      player2:
-        team: 'EIN'
-        position: Lead
-        percent: 80
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(9)
-      score: EIN 8 - CAR 6
-    - player1:
-        team: 'Care'
-        position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'Fleu'
-        position: Lead
-        percent: 88
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2019
-      draw: Round Robin(3)
-      score: Fleu 10 - Care 5
-    - player1:
-        team: 'Care'
-        position: Fourth
-        percent: 72
-        win: 0
-        loss: 1
-      player2:
-        team: 'Fleu'
-        position: Lead
-        percent: 82
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2019
-      draw: Semi-Final(10)
-      score: Care 4 - Fleu 9
  - name: Mair, Jessica
    totals:
     - event: Canada Cup (Women)

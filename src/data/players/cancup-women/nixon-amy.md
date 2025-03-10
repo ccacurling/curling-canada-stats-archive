@@ -229,6 +229,7 @@ vs:
  - Gates, Amanda
  - Gates, Jennifer
  - Gignac, Donna
+ - Gordon, Kristin
  - Gregoire, Veronique
  - Gudereit, Marcia
  - Hamer, Kate
@@ -259,7 +260,6 @@ vs:
  - Linton, Sherry
  - Loder, Cherie-Ann
  - Loder, Kristin
- - MacCuish, Kristin
  - Maclachlan, Kyla
  - MacLeod, Lisa
  - Mair, Jessica

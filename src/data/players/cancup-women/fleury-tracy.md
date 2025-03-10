@@ -82,6 +82,7 @@ vs:
  - Ferguson, Dana
  - Fyfe, Liz
  - Gates, Jennifer
+ - Gordon, Kristin
  - Harris, Briane
  - Haughian, Jessie
  - Homan, Rachel
@@ -89,7 +90,6 @@ vs:
  - Jones, Jennifer
  - Lawes, Kaitlyn
  - Lawton, Stefanie
- - MacCuish, Kristin
  - McDonald, Kristy
  - McDonald, Taylor
  - McEwen, Dawn

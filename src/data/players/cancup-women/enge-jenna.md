@@ -63,10 +63,10 @@ vs:
  - Ferguson, Dana
  - Fyfe, Liz
  - Gates, Jennifer
+ - Gordon, Kristin
  - Homan, Rachel
  - Jones, Jennifer
  - Lawes, Kaitlyn
- - MacCuish, Kristin
  - McDonald, Kristy
  - McDonald, Taylor
  - McEwen, Dawn

@@ -2,6 +2,34 @@
 title: Jennifer Gates Head-to-head
 name: Gates, Jennifer
 vs:
+ - name: Gordon, Kristin
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ROC'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'EIN'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Round Robin(8)
+      score: ROC 6 - EIN 5
  - name: Homan, Rachel
    totals:
     - event: Canada Cup (Women)
@@ -134,34 +162,6 @@ vs:
       year: 2016
       draw: Round Robin(1)
       score: ROC 4 - JON 9
- - name: MacCuish, Kristin
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 90
-        wins: 1
-        losses: 0
-      player2:
-        percent: 80
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'ROC'
-        position: Lead
-        percent: 90
-        win: 1
-        loss: 0
-      player2:
-        team: 'EIN'
-        position: Lead
-        percent: 80
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(8)
-      score: ROC 6 - EIN 5
  - name: McDonald, Kristy
    totals:
     - event: Canada Cup (Women)

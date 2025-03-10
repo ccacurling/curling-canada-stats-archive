@@ -210,6 +210,7 @@ vs:
  - Gates, Amanda
  - Gates, Jennifer
  - Gignac, Donna
+ - Gordon, Kristin
  - Goss, Peg
  - Hamer, Kate
  - Hardy, Shelley
@@ -239,7 +240,6 @@ vs:
  - Loder, Cherie-Ann
  - Loder, Jenna
  - Loder, Kristin
- - MacCuish, Kristin
  - MacLean, Kari
  - Mair, Jessica
  - Martin, Heather

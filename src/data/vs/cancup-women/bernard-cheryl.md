@@ -714,6 +714,34 @@ vs:
       year: 2008
       draw: Round Robin(7)
       score: ANDE 7 - BERN 8
+ - name: Gordon, Kristin
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 80
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Sche'
+        position: Fourth
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'Fleu'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2019
+      draw: Round Robin(8)
+      score: Fleu 8 - Sche 5
  - name: Gudereit, Marcia
    totals:
     - event: Canada Cup (Women)
@@ -1678,34 +1706,6 @@ vs:
       year: 2008
       draw: Round Robin(2)
       score: HARV 3 - BERN 6
- - name: MacCuish, Kristin
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 80
-        wins: 0
-        losses: 1
-      player2:
-        percent: 86
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'Sche'
-        position: Fourth
-        percent: 80
-        win: 0
-        loss: 1
-      player2:
-        team: 'Fleu'
-        position: Lead
-        percent: 86
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2019
-      draw: Round Robin(8)
-      score: Fleu 8 - Sche 5
  - name: Maclachlan, Kyla
    totals:
     - event: Canada Cup (Women)

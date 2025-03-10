@@ -64,10 +64,10 @@ vs:
  - Fleury, Tracy
  - Fyfe, Liz
  - Gates, Amanda
+ - Gordon, Kristin
  - Homan, Rachel
  - Jones, Jennifer
  - Lawes, Kaitlyn
- - MacCuish, Kristin
  - McDonald, Kristy
  - McEwen, Dawn
  - Merklinger, Lee

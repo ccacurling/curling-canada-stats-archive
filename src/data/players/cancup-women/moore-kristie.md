@@ -142,6 +142,7 @@ vs:
  - Fleury, Tracy
  - Foster, Vanessa
  - Fyfe, Liz
+ - Gordon, Kristin
  - Harris, Briane
  - Harvey, Alison
  - Homan, Rachel
@@ -154,7 +155,6 @@ vs:
  - Klein, Karen
  - Lawes, Kaitlyn
  - Lawton, Stefanie
- - MacCuish, Kristin
  - Maclachlan, Kyla
  - McDonald, Taylor
  - McEwen, Dawn

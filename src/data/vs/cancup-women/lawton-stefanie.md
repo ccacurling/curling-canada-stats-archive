@@ -114,34 +114,6 @@ vs:
       year: 2012
       draw: Round Robin(8)
       score: LAW 3 - OVE 4
- - name: MacCuish, Kristin
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 59
-        wins: 0
-        losses: 1
-      player2:
-        percent: 77
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'Silv'
-        position: Third
-        percent: 59
-        win: 0
-        loss: 1
-      player2:
-        team: 'Fleu'
-        position: Lead
-        percent: 77
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2019
-      draw: Round Robin(2)
-      score: Silv 3 - Fleu 13
  - name: Maclachlan, Kyla
    totals:
     - event: Canada Cup (Women)

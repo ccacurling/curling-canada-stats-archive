@@ -45,12 +45,12 @@ vs:
  - Ferguson, Dana
  - Fleury, Tracy
  - Fyfe, Liz
+ - Gordon, Kristin
  - Harris, Briane
  - Haughian, Jessie
  - Homan, Rachel
  - Jones, Jennifer
  - Lawes, Kaitlyn
- - MacCuish, Kristin
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Miskew, Emma
